@@ -77,6 +77,7 @@
             <ul>
                 <li><strong>🎓 AI in Education Wiki</strong></li>
                 <li><a href="journal.html">📋 Journal</a></li>
+                <li><a href="tags.html">🏷️ Tags</a></li>
                 <li><a href="search.html">🔍 Search</a></li>
             </ul>
         </nav>
@@ -109,7 +110,7 @@
         <input type="text" id="filter" placeholder="Filter pages by title, tag, or content..." style="width:100%; padding:0.75rem; margin-bottom:1rem; border:1px solid var(--form-element-border-color); border-radius:6px;">
         <div>
             <small>Filter by tag:
-                <select id="tag-filter" style="display:inline; width:auto; margin-left:0.5rem;" onchange="filterByTag(this.value)">
+                <select id="tag-filter" style="display:inline; width:auto; margin-left:0.5rem;" onchange="if(this.value) window.location='tags/'+this.value+'.html'">
                     <option value="">All tags</option>
                 </select>
             </small>
