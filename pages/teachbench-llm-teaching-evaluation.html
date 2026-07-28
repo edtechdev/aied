@@ -33,35 +33,35 @@ Syllabus → Knowledge Tree → Teacher Agent (multi-turn instruction) → Stude
 |---------|-------------|
 | <strong>Domain variation:</strong> Math teaching effective (7.63pt gain with Qwen3-235B), but physics/chemistry challenging | Teaching ability is domain-specific, not generalized |
 | <strong>Example problems backfire:</strong> Models shift to error correction vs. syllabus-grounded instruction | Current LLMs struggle with structured teaching vs. reactive problem-solving |
-| <strong>Teaching ≠ Solving:</strong> Models good at solving aren't necessarily good at teaching | Teaching ability is a <strong>distinct LLM behavior dimension</strong> |</p><p><h2>Connection to Existing Work</h2></p><p><h3>vs. <a href="pages/ai-tutor-effectiveness-review.html">AI Tutor Effectiveness</a></h3>
+| <strong>Teaching ≠ Solving:</strong> Models good at solving aren't necessarily good at teaching | Teaching ability is a <strong>distinct LLM behavior dimension</strong> |</p><p><h2>Connection to Existing Work</h2></p><p><h3>vs. <a href="ai-tutor-effectiveness-review.html">AI Tutor Effectiveness</a></h3>
 <ul><li>Traditional ITS effectiveness reviews focus on <em>human</em> learning outcomes with <em>deployed</em> systems</li></ul>
 <ul><li>TeachBench evaluates <em>model</em> teaching capability in <em>controlled</em> agentic settings</li></ul>
-<ul><li>Both highlight: <strong>teaching is more than problem-solving</strong></li></ul></p><p><h3>vs. <a href="pages/educational-llm-alignment.html">Educational LLM Alignment</a></h3>
+<ul><li>Both highlight: <strong>teaching is more than problem-solving</strong></li></ul></p><p><h3>vs. <a href="educational-llm-alignment.html">Educational LLM Alignment</a></h3>
 <ul><li>Alignment benchmarks measure: "Does this model produce good teaching content?"</li></ul>
 <ul><li>TeachBench measures: "Does this model <em>improve learning</em> through instruction?"</li></ul>
-<ul><li>Complementary: alignment → content quality; TeachBench → instructional effectiveness</li></ul></p><p><h3>vs. <a href="pages/agentic-workflows-education.html">Agentic Workflows</a></h3>
+<ul><li>Complementary: alignment → content quality; TeachBench → instructional effectiveness</li></ul></p><p><h3>vs. <a href="agentic-workflows-education.html">Agentic Workflows</a></h3>
 <ul><li>TeachBench operationalizes the <strong>"teacher agent"</strong> paradigm in agentic education</li></ul>
 <ul><li>Reveals current LLMs struggle with <em>structured pedagogical planning</em> (vs. reactive Q&A)</li></ul>
 <ul><li>Aligns with: agentic reflection, planning, and tool use in educational contexts</li></ul></p><p><h2>Implications for AI in Education</h2></p><p><h3>For LLM Development</h3>
 <ul><li><strong>Teaching ability as benchmark dimension:</strong> Should be evaluated alongside reasoning, coding, etc.</li></ul>
 <ul><li><strong>Domain-specific training:</strong> Models need pedagogy-grounded training, not just subject knowledge</li></ul>
 <ul><li><strong>Structured vs. reactive:</strong> TeachBench exposes the gap between knowing and teaching</li></ul></p><p><h3>For ITS Design</h3>
-<ul><li><strong>Syllabus grounding:</strong> Effective teaching requires structured knowledge (cf. <a href="pages/quantum-education-its.html">quantum ITS knowledge graph</a>)</li></ul>
+<ul><li><strong>Syllabus grounding:</strong> Effective teaching requires structured knowledge (cf. <a href="quantum-education-its.html">quantum ITS knowledge graph</a>)</li></ul>
 <ul><li><strong>Multi-turn instruction:</strong> Teaching effectiveness emerges over <em>sequences</em> of interactions, not single turns</li></ul>
 <ul><li><strong>Evaluation rigor:</strong> ITS should be evaluated on <em>learning gains</em>, not just user satisfaction</li></ul></p><p><h3>For Benchmark Design</h3>
 <ul><li><strong>Leakage control:</strong> Don't give models the test questions they're supposed to teach</li></ul>
 <ul><li><strong>Student proxies:</strong> Fixed-capability student agents enable reproducible evaluation</li></ul>
 <ul><li><strong>Outcome metrics:</strong> Performance improvement > response quality scores</li></ul></p><p><h2>Related Pages</h2>
-<ul><li><a href="pages/eduagentbench-agent-teaching-benchmark.html">eduagentbench-agent-teaching-benchmark</a> — EduAgentBench complements TeachBench with workflow-level teaching tasks</li></ul>
-<ul><li><a href="pages/academiclaw-student-agent-benchmark.html">academiclaw-student-agent-benchmark</a> — AcademiClaw: student-sourced benchmark for AI agent academic capabilities, complements TeachBench's teaching quality focus</li></ul>
-<ul><li><a href="pages/nsmq-riddles-science-math-benchmark.html">nsmq-riddles-science-math-benchmark</a> — Syllabus-grounded evaluation from Ghanaian national competition</li></ul>
-<ul><li><a href="pages/educational-llm-alignment.html">educational-llm-alignment</a> — Benchmark misalignment with teaching quality</li></ul>
-<ul><li><a href="pages/ai-tutor-effectiveness-review.html">ai-tutor-effectiveness-review</a> — Mixed effectiveness landscape for deployed ITS</li></ul>
-<ul><li><a href="pages/agentic-workflows-education.html">agentic-workflows-education</a> — Teacher agents in agentic education paradigms</li></ul>
-<ul><li><a href="pages/formative-assessment.html">formative-assessment</a> — Teaching evaluation as formative feedback for models</li></ul>
-<ul><li><a href="pages/ai-literacy.html">ai-literacy</a> — Teaching ability as advanced AI literacy skill</li></ul>
-<ul><li><a href="pages/quantum-education-its.html">quantum-education-its</a> — Knowledge-grounded teaching (knowledge graph approach)</li></ul>
-<ul><li><a href="pages/programming-its.html">programming-its</a> — SCRIPT's individualized hints as teaching strategy</li></ul></p><p><ul><li><a href="pages/multi-agent-instructional-design.html">multi-agent-instructional-design</a> — Complementary: material design vs. teaching ability evaluation</li></ul></p><p><h2>Sources</h2>
+<ul><li><a href="eduagentbench-agent-teaching-benchmark.html">eduagentbench-agent-teaching-benchmark</a> — EduAgentBench complements TeachBench with workflow-level teaching tasks</li></ul>
+<ul><li><a href="academiclaw-student-agent-benchmark.html">academiclaw-student-agent-benchmark</a> — AcademiClaw: student-sourced benchmark for AI agent academic capabilities, complements TeachBench's teaching quality focus</li></ul>
+<ul><li><a href="nsmq-riddles-science-math-benchmark.html">nsmq-riddles-science-math-benchmark</a> — Syllabus-grounded evaluation from Ghanaian national competition</li></ul>
+<ul><li><a href="educational-llm-alignment.html">educational-llm-alignment</a> — Benchmark misalignment with teaching quality</li></ul>
+<ul><li><a href="ai-tutor-effectiveness-review.html">ai-tutor-effectiveness-review</a> — Mixed effectiveness landscape for deployed ITS</li></ul>
+<ul><li><a href="agentic-workflows-education.html">agentic-workflows-education</a> — Teacher agents in agentic education paradigms</li></ul>
+<ul><li><a href="formative-assessment.html">formative-assessment</a> — Teaching evaluation as formative feedback for models</li></ul>
+<ul><li><a href="ai-literacy.html">ai-literacy</a> — Teaching ability as advanced AI literacy skill</li></ul>
+<ul><li><a href="quantum-education-its.html">quantum-education-its</a> — Knowledge-grounded teaching (knowledge graph approach)</li></ul>
+<ul><li><a href="programming-its.html">programming-its</a> — SCRIPT's individualized hints as teaching strategy</li></ul></p><p><ul><li><a href="multi-agent-instructional-design.html">multi-agent-instructional-design</a> — Complementary: material design vs. teaching ability evaluation</li></ul></p><p><h2>Sources</h2>
 <ul><li>Li, Zheng et al. (2026). <em>TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models</em>. arXiv:2601.21375. <a href="https://arxiv.org/pdf/2601.21375">PDF</a></li></ul></p></main>
     <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
 </body>
