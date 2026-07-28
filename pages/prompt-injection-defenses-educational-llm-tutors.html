@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs" - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>"Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs"</h1>
+        <div class="metadata">Created: 2026-05-15 | Tags: <a href="../index.html?tag=intelligent-tutoring" class="tag">intelligent-tutoring</a><a href="../index.html?tag=llm" class="tag">llm</a><a href="../index.html?tag=generative-ai" class="tag">generative-ai</a><a href="../index.html?tag=regulation" class="tag">regulation</a><a href="../index.html?tag=hallucination-risk" class="tag">hallucination-risk</a></div>
+    </header>
+    <main class="container"><p>Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs
+<strong>Maiorano (2026)</strong> — arXiv cs.CR/cs.AI.
+📄 <a href="https://arxiv.org/abs/2605.06669">Full text (arXiv)</a></p><p><h2>Summary</h2></p><p>This paper addresses a fundamental tension in educational LLM deployment: tutors must be both <strong>secure</strong> (resist prompt injection attacks) and <strong>usable</strong> (not block legitimate educational interactions). The author presents a systematic evaluation methodology using a <strong>480-query benchmark</strong> (369 injection, 111 benign) with statistically rigorous comparison.</p><p><strong>Defense methods compared:</strong></p><p>| Method | Bypass Rate | False Positive Rate | Latency |
+|--------|-------------|---------------------|---------|
+| Proposed Multi-Layer Pipeline | 46.34% | <strong>0.00%</strong> | <strong>2.50ms</strong> |
+| Prompt Guard (Meta) | 38.48% | 3.60% | — |
+| NeMo Guardrails (NVIDIA) | <strong>0.0%</strong> | 16.22% | 1.3s |</p><p><strong>The proposed pipeline</strong> combines deterministic pattern filters, structural validation, contextual sandboxing, and session-level behavioral checks. Its design prioritizes <strong>pedagogical usability</strong> — zero false positives means no legitimate student queries get blocked, an essential requirement for <a href="pages/intelligent-tutoring.html">intelligent-tutoring</a> systems where interruptions harm learning.</p><p><strong>NeMo Guardrails</strong> blocks all attacks but incorrectly flags ~16% of benign requests — a rate that would seriously degrade the <a href="pages/student-experience.html">student-experience</a> in real tutoring sessions. <strong>Prompt Guard</strong> provides middle-ground performance.</p><p>The framework enables <strong>evidence-based guardrail selection</strong> under institutional risk and usability requirements. This directly connects to <a href="pages/ai-tutor-safety-harms.html">ai-tutor-safety-harms</a> concerns and the emerging field of <a href="pages/pedagogical-safety-rl.html">pedagogical-safety-rl</a>. The latency dimension is particularly important for real-time <a href="pages/conversational-ai-tutors-framework.html">conversational-ai-tutors-framework</a> where response delays degrade engagement.</p><p>The paper highlights that <strong>educational settings have unique requirements</strong>: false positives are more costly than in general-purpose chatbots, because blocking a student's learning interaction carries pedagogical harm. This aligns with findings in <a href="pages/eduframetrap-llm-sycophancy-educational-safety.html">eduframetrap-llm-sycophancy-educational-safety</a> that educational safety requires domain-specific benchmarks.</p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/ai-tutor-safety-harms.html">ai-tutor-safety-harms</a> — Safety harms in AI tutoring systems</li></ul>
+<ul><li><a href="pages/pedagogical-safety-rl.html">pedagogical-safety-rl</a> — Pedagogical safety in RL</li></ul>
+<ul><li><a href="pages/intelligent-tutoring.html">intelligent-tutoring</a> — Intelligent tutoring systems</li></ul>
+<ul><li><a href="pages/conversational-ai-tutors-framework.html">conversational-ai-tutors-framework</a> — Conversational AI tutoring</li></ul>
+<ul><li><a href="pages/eduframetrap-llm-sycophancy-educational-safety.html">eduframetrap-llm-sycophancy-educational-safety</a> — Sycophancy as safety risk</li></ul>
+<ul><li><a href="pages/student-experience.html">student-experience</a> — Student experience with AI</li></ul>
+<ul><li><a href="pages/regulation.html">regulation</a> — AI regulation in education</li></ul></p><p><h2>Citation</h2>
+<strong>APA:</strong> Maiorano, A. C. (2026). <em>Evaluating prompt injection defenses for educational LLM tutors: Security-usability-latency trade-offs</em>. arXiv:2605.06669.</p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automatic Short Answer Grading with LLMs - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>Automatic Short Answer Grading with LLMs</h1>
+        <div class="metadata">Created: 2026-05-07 | Tags: <a href="../index.html?tag=automated-grading" class="tag">automated-grading</a><a href="../index.html?tag=llm" class="tag">llm</a><a href="../index.html?tag=formative-assessment" class="tag">formative-assessment</a><a href="../index.html?tag=feedback-loop" class="tag">feedback-loop</a><a href="../index.html?tag=higher-ed" class="tag">higher-ed</a><a href="../index.html?tag=learning-analytics" class="tag">learning-analytics</a></div>
+    </header>
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.00200">arXiv:2605.00200</a> · <a href="raw/papers/cong-confidence-asag-2026.md">local</a></p><p>> Zero-shot LLMs perform strongly on ASAG without task-specific fine-tuning, but <strong>model-based confidence signals alone are insufficient</strong> for reliable uncertainty quantification. A hybrid framework combining epistemic (model-derived) and aleatoric (dataset-derived) uncertainty significantly improves selective grading and calibration.^<a href="pages/cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Why Confidence Matters</h2></p><p>Automatic Short Answer Grading (ASAG) is never perfect. Upper bounds on accuracy arise from:
+<ul><li>Linguistic variability in student responses</li></ul>
+<ul><li>Ambiguity in scoring criteria</li></ul>
+<ul><li>Inherent disagreement among human graders</li></ul></p><p>Reliable confidence estimates are therefore essential for <strong>human-in-the-loop review</strong>—flagging uncertain cases for teacher attention rather than auto-grading everything.^<a href="pages/cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Three Model-Based Confidence Strategies</h2></p><p>All generated with <code>gpt-oss-20b</code> at temperature 0.1:</p><p>| Strategy | Mechanism | Edge Case Failure |
+|---|---|---|
+| <strong>Verbalizing</strong> | Prompt model to self-report confidence in [0,1] | Overconfident on ambiguous but plausible phrasings |
+| <strong>Latent</strong> | Softmax log-likelihood of predicted label token | Underconfident when label token probabilities are flat |
+| <strong>Consistency</strong> | Sample 5 predictions at varying temperatures; measure agreement | Fails when model is consistently wrong |</p><p>All three, when used in isolation, miss <strong>aleatoric uncertainty</strong>—ambiguity intrinsic to the data itself.^<a href="pages/cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Aleatoric Uncertainty via Semantic Clustering</h2></p><p>To capture data-level ambiguity:</p><p>1. <strong>Embed</strong> student responses with <code>all-MiniLM-L6-v2</code>
+2. <strong>Cluster</strong> via agglomerative hierarchical clustering (Ward linkage) on a 10% calibration subset
+3. <strong>Quantify</strong> within-cluster label heterogeneity via normalized Shannon entropy
+4. <strong>Assign</strong> test responses to nearest cluster centroid</p><p>High-entropy clusters indicate inherently ambiguous responses (e.g., partially correct, underspecified, or stylistically unusual).^<a href="pages/cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Hybrid Confidence Fusion</h2></p><p>Feature vector per response: <code>[s^verb, s^lat, s^cons, s^alea, token_length]</code></p><p><ul><li><strong>Classifier:</strong> Random Forest (500 trees) trained on human labels</li></ul>
+<ul><li><strong>Calibration:</strong> Platt scaling via 5-fold CV to yield calibrated probability p ∈ [0,1]</li></ul></p><p><strong>Result:</strong> Hybrid confidence with aleatoric uncertainty outperforms all single-source approaches on selective prediction metrics (AUROC, AUARC) and reliability metrics (ECE, MCE, Brier).^<a href="pages/cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Implications for Human-in-the-Loop Assessment</h2></p><p><ul><li><strong>Selective grading:</strong> Flag low-confidence responses for human review; auto-grade high-confidence responses</li></ul>
+<ul><li><strong>Teacher dashboards:</strong> Display confidence alongside grades to support triage</li></ul>
+<ul><li><strong>Fairness:</strong> Aleatoric uncertainty may reveal systemically ambiguous scoring criteria that need rubric revision</li></ul></p><p><h2>Relationship to Tutoring-Specific Design</h2></p><p>ASAG confidence estimation is complementary to <a href="pages/tutoring-specific-vs-general-ai.html">tutoring-specific feedback</a>: while tutoring tools generate formative scaffolds, grading tools must manage summative uncertainty. Both require explicit epistemic humility—acknowledging when the model should defer to human judgment.^<a href="pages/cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/rubric-aware-grading-rec-cbm.html">rubric-aware-grading-rec-cbm</a> — 2 of 8 papers in May 28 scan</li></ul>
+  - <a href="pages/llm-automated-assessment-student-self-explanations.html">llm-automated-assessment-student-self-explanations</a> — Binary classification of student self-explanations using LLMs vs. semantic similarity (2026)
+<ul><li><a href="pages/structured-llm-feedback-programming.html">structured-llm-feedback-programming</a> — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance</li></ul>
+<ul><li><a href="pages/lata-ferpa-compliant-local-llm-autograder.html">lata-ferpa-compliant-local-llm-autograder</a> — Extends ASAG to upper-division STEM with reference solutions</li></ul>
+<ul><li><a href="pages/short-answer-scoring-quality-degradation.html">short-answer-scoring-quality-degradation</a> — Complements confidence-aware grading with quality-conditioned analysis</li></ul>
+<ul><li><a href="pages/ai-peer-feedback-systems.html">ai-peer-feedback-systems</a> — AICoFe's multi-LLM approach to formative feedback generation</li></ul>
+<ul><li><a href="pages/ai-k12-evidence-base.html">ai-k12-evidence-base</a> — Broader evidence landscape</li></ul>
+<ul><li><a href="pages/formative-assessment.html">formative-assessment</a> — Confidence-aware ASAG for practice vs. summative distinction</li></ul>
+<ul><li><a href="pages/human-in-the-loop-ai.html">human-in-the-loop-ai</a> — Epistemic uncertainty as trigger for human escalation</li></ul>
+<ul><li><a href="pages/cross-dataset-bloom-question-classification.html">cross-dataset-bloom-question-classification</a> -- LLMs with tailored prompting generalize better than supervised models for cross-dataset Bloom taxonomy classification</li></ul>
+<ul><li><a href="pages/psyscore-essay-scoring-zpd-feedback.html">psyscore-essay-scoring-zpd-feedback</a> -- PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback</li></ul>
+<ul><li><a href="pages/automated-formative-assessments-a-level-sciences.html">automated-formative-assessments-a-level-sciences</a> — Automating the marking of handwritten mock exams enables much higher formative-assessment frequency </li></ul></p><p><h2>Sources</h2>
+<ul><li>Cong et al. (2026). <em>Confidence Estimation in Automatic Short Answer Grading with LLMs</em>. arXiv:2605.00200. <a href="https://arxiv.org/pdf/2605.00200">PDF</a></li></ul>
+<ul><li><a href="pages/genai-assessment-governance.html">genai-assessment-governance</a> — ECD framework extends grading to include AI interaction artifacts</li></ul></p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

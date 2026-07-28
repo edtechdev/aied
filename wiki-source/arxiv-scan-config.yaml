@@ -1,0 +1,95 @@
+# AI Ed Wiki — Daily Scan Configuration
+# Location: /home/doug/wiki/arxiv-scan-config.yaml
+# Used by cron job 9a44c11daec8
+
+schedule: "0 9 * * *"  # 9:00 AM daily (Eastern)
+
+search_window:
+  default_days: 3  # Fallback when no prior run date in memory
+  memory_key: "last_arxiv_scan_date"
+
+sources:
+  - name: arXiv cs.CY
+    type: arxiv_api
+    url: "http://export.arxiv.org/api/query"
+    categories: ["cs.CY"]
+    keywords: ["education", "learning", "student", "teacher", "classroom", "tutor", "school",
+               "curriculum", "pedagog", "grading", "feedback", "literacy", "assessment",
+               "metacognit"]
+    max_results: 20
+    retry: {max_attempts: 3, delay_seconds: 2}
+
+  - name: arXiv cs.HC
+    type: arxiv_api
+    url: "http://export.arxiv.org/api/query"
+    categories: ["cs.HC"]
+    keywords: ["education", "learning", "student", "teacher", "classroom", "tutor", "school",
+               "curriculum", "pedagog", "grading", "feedback", "literacy", "assessment",
+               "metacognit"]
+    max_results: 10
+    retry: {max_attempts: 3, delay_seconds: 2}
+
+  - name: Semantic Scholar
+    type: semanticscholar_api
+    url: "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
+    query: "AI education OR intelligent tutoring OR LLM learning OR AI classroom"
+    fields_of_study: ["Education", "Computer Science"]
+    year: 2026
+    max_results: 20
+    retry: {max_attempts: 3, delay_seconds: 2}
+
+  - name: OpenAlex
+    type: openalex_api
+    url: "https://api.openalex.org/works"
+    query: "artificial intelligence education OR intelligent tutoring OR AI tutoring OR LLM education"
+    year: 2026
+    max_results: 10
+    retry: {max_attempts: 3, delay_seconds: 2}
+
+  - name: arXiv cs.CL + cs.AI (fallback)
+    type: arxiv_api
+    url: "http://export.arxiv.org/api/query"
+    categories: ["cs.CL", "cs.AI"]
+    keywords: ["education", "learning", "student", "teacher", "classroom", "tutor", "school"]
+    max_results: 10
+    trigger_when: "cs.CY + cs.HC combined < 5 new papers"
+    retry: {max_attempts: 3, delay_seconds: 2}
+
+wiki:
+  path: /home/doug/wiki
+  concepts_dir: concepts/
+  raw_dir: raw/papers/
+  static_site_dir: static-site/
+  static_site_url: http://localhost:8080
+
+notification:
+  platform: telegram
+  delivery: origin  # Back to the chat that triggered
+
+relevance_filter:
+  include:
+    - AI/LLM/genAI applied to education, learning, or teaching
+    - Intelligent tutoring systems, AI feedback, automated grading
+    - AI literacy, AI in classrooms, student-AI interaction
+    - Learning analytics with AI, knowledge tracing, student modeling
+    - AI-generated educational content or assessment
+    - AI safety/harms in educational contexts
+  exclude:
+    - Pure CS/ML research with no education application
+    - General AI fairness/ethics without education context
+    - Non-AI education research
+    - AI detection tools without education context
+  default_policy: "ingest"  # When uncertain, ingest
+
+deduplication:
+  method: "arxiv_id"
+  check_path: "raw/papers/"
+  
+rate_limiting:
+  strategy: "exponential_backoff"
+  base_delay: 2  # seconds
+  max_retries: 5
+  backoff_multiplier: 2
+  jitter: true
+
+citation_format: "APA"

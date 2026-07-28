@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Learning Transfer - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>AI Learning Transfer</h1>
+        <div class="metadata">Created: 2026-05-07 | Tags: <a href="../index.html?tag=efficacy-study" class="tag">efficacy-study</a><a href="../index.html?tag=llm" class="tag">llm</a><a href="../index.html?tag=adaptive-learning" class="tag">adaptive-learning</a><a href="../index.html?tag=formative-assessment" class="tag">formative-assessment</a><a href="../index.html?tag=k-12" class="tag">k-12</a></div>
+    </header>
+    <main class="container"><p>> 📄 Full text: <a href="https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf">Stanford SCALE</a> · <a href="raw/papers/stanford-evidence-base-ai-k12-2026.md">local</a></p><p>> The central open question in AI education research: <strong>Do performance gains with AI tools persist when students must demonstrate understanding independently?</strong>^<a href="pages/stanford-evidence-base-ai-k12-2026.html">stanford-evidence-base-ai-k12-2026</a></p><p><h2>The Transfer Paradox</h2></p><p>Students using AI typically show <strong>immediate, measurable gains</strong> on the tasks where AI is available. Yet when AI is removed:</p><p><ul><li>Effects become <strong>mixed or negative</strong></li></ul>
+<ul><li>Gains often <strong>fail to transfer</strong> to unassessed settings</li></ul>
+<ul><li>Students may become <strong>dependent on the tool</strong> at the expense of independent reasoning</li></ul></p><p>This pattern is the defining risk of integrating AI into learning environments.</p><p><h2>Key Studies</h2></p><p>| Study | Context | Immediate Effect | Transfer Effect | Mechanism |
+|---|---|---|---|---|
+| Bastani et al. (2025) | High school math | Higher practice grades | <strong>~17% worse</strong> on closed-book finals | General-purpose chatbot did the work |
+| Chen et al. (2025) | Programming homework | Higher homework scores | <strong>No improvement</strong> on unassisted exams | LLM-Tutor solved problems for students |
+| Lehmann et al. (2025) | Programming | More topics covered | <strong>Harmed understanding</strong>; widened gaps | General AI for low-prior learners |
+| Stadler et al. (2024) | Academic research | Faster task completion | <strong>Lower-quality reasoning</strong> vs. search | Reduced cognitive engagement |
+| Kosmyna et al. (2025) | Essay writing | Higher essay quality | <strong>83% failed to recall</strong> their own quotes | Outsourced authorship |</p><p>All five studies show a <strong>negative or null transfer</strong> pattern when general-purpose AI is the intervention.</p><p><h3>Misalignment Amplification</h3></p><p>Hardy & Kim (2026) demonstrate that shared pretraining biases across LLMs produce behaviors poorly aligned with teaching quality and <strong>negatively aligned</strong> with student outcomes. Multi-model ensembles even <em>exacerbate</em> misalignment. See <a href="pages/educational-llm-alignment.html">educational-llm-alignment</a>.</p><p><h2>Mechanisms Undermining Transfer</h2></p><p><h3>1. Metacognitive Displacement</h3>
+AI completing reasoning reduces opportunities for students to monitor their own understanding and select strategies. Students who used AI were less able to explain their answers when queried.^<a href="pages/stanford-evidence-base-ai-k12-2026.html">stanford-evidence-base-ai-k12-2026</a></p><p><h3>2. Germane Load Suppression</h3>
+General-purpose AI reduces not just extraneous (distracting) cognitive load but also <em>germane</em> load — the productive mental effort that encodes durable knowledge. Easier practice feels better but stores weaker traces. See <a href="pages/tutoring-specific-vs-general-ai.html">tutoring-specific-vs-general-ai</a>.</p><p><h3>3. Over-Reliance / Expertise Reversal</h3>
+Novices given answers do not build schemas. General AI provides answers; effective tutoring provides <strong>structured guidance</strong>. When novices are given expert-level shortcuts, learning is disrupted.^<a href="pages/stanford-evidence-base-ai-k12-2026.html">stanford-evidence-base-ai-k12-2026</a></p><p><h3>4. Tool-Dependent Performance</h3>
+Students may optimize for the specific affordances of the AI tool (e.g., prompt engineering, reliance on generated code structure) rather than building domain generalization.</p><p><h2>Conditions Supporting Positive Transfer</h2></p><p>The limited evidence suggests transfer is possible when:</p><p><ul><li><strong>Pedagogical guardrails are present</strong> — step-by-step hints, misconception targeting, Socratic questioning (Bastani et al., 2025 tutoring variant)</li></ul>
+<ul><li><strong>Traditional strategies are preserved</strong> — note-taking paired with AI use improved retention (Kreijkes et al., 2026)</li></ul>
+<ul><li><strong>AI is used for formative, not summative, practice</strong> — scaffolding during learning, not during assessment</li></ul>
+<ul><li><strong>Learner expertise is calibrated</strong> — the tool adapts support to readiness rather than defaulting to full assistance</li></ul></p><p><h2>Unanswered Questions</h2></p><p>1. <strong>Time scale:</strong> Does transfer improve over weeks/months of use, or does dependence deepen?
+2. <strong>Domain differences:</strong> Is transfer better in well-structured domains (math) vs. ill-structured domains (writing)?
+3. <strong>Individual differences:</strong> Do high-prior-knowledge students suffer less transfer loss than novices?
+4. <strong>Skill remediation:</strong> Can explicit "AI-off" practice sessions reverse tool dependence?</p><p><h2>Implications</h2></p><p>For educators and tool designers, the provisional rule is:</p><p>> If students <em>can</em> complete a task with AI, design expectations so they <em>must</em> also demonstrate the task without it.</p><p>This may mean:
+<ul><li>Closed-book assessments after AI-assisted practice</li></ul>
+<ul><li>Reflective prompts requiring students to explain AI-generated content in their own words</li></ul>
+<ul><li>Strict separation between "practice with AI" and "demonstrate mastery" phases</li></ul></p><p><h2>Related Pages</h2>
+<ul><li><strong><a href="pages/ai-assistance-reduces-persistence.html">ai-assistance-reduces-persistence</a></strong>: Causal evidence (N=1,222) that brief AI assistance reduces persistence and impairs unassisted performance — rapid emergence of over-reliance effects</li></ul>
+<ul><li><a href="pages/cognitive-offloading-speedup-illusion.html">cognitive-offloading-speedup-illusion</a> — Speedup illusion may reduce deliberate practice and learning transfer</li></ul>
+<ul><li><a href="pages/structured-llm-feedback-programming.html">structured-llm-feedback-programming</a> — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance</li></ul>
+<ul><li><a href="pages/academiclaw-student-agent-benchmark.html">academiclaw-student-agent-benchmark</a> — AcademiClaw: 55% ceiling on frontier models raises transfer questions for AI tutoring systems</li></ul>
+<ul><li><a href="pages/genai-meta-analysis-programming-learning.html">genai-meta-analysis-programming-learning</a> — Highest-level evidence on whether AI gains persist when tools removed</li></ul>
+<ul><li><a href="pages/sequenced-ai-feedback-learning.html">sequenced-ai-feedback-learning</a> — Cao et al. RCT: learning outcome disparity between feedback conditions raises transfer and retention questions</li></ul>
+-</p><p><ul><li><a href="pages/awareness-technological-isomorphism.html">awareness-technological-isomorphism</a> — Technological Isomorphism bridges elementary math and AI comprehension</li></ul>
+<ul><li><a href="pages/instructional-guidance-genai-learning.html">instructional-guidance-genai-learning</a> — Structured prompting improves AI-assisted learning outcomes- <a href="pages/ai-partner-science-epistemic-vigilance.html">ai-partner-science-epistemic-vigilance</a> -- Epistemic vigilance determines whether AI augments or undermines learning; uniform AI integration risks widening achievement gaps</li></ul>
+<ul><li><a href="pages/self-efficacy-tutoring-learning.html">self-efficacy-tutoring-learning</a> — Self-Efficacy and Favorability Shape Learning from Tutoring </li></ul>
+<ul><li><a href="pages/adaptive-pretesting-retention.html">adaptive-pretesting-retention</a> -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice — learner-directed AI study underperforms structured retrieval.</li></ul>
+<ul><li><a href="pages/llm-item-difficulty-prediction.html">llm-item-difficulty-prediction</a> — Model reasoning as proxy for human cognitive processes</li></ul>
+<ul><li><a href="pages/prompt-based-programming-lesson.html">prompt-based-programming-lesson</a> — prompt-based programming teaching intervention</li></ul>
+<ul><li><a href="pages/ai-availability-student-motivation.html">ai-availability-student-motivation</a> — AI availability and student motivation study</li></ul>
+<ul><li><a href="pages/critical-engagement-code-completion.html">critical-engagement-code-completion</a> — measuring critical engagement with AI code completion</li></ul></p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/hybrid-human-ai-tutoring-differentiated.html">hybrid-human-ai-tutoring-differentiated</a> — MAP growth as learning transfer measure</li></ul>
+<ul><li><a href="pages/genai-performance-vs-learning.html">genai-performance-vs-learning</a> — Distinguishing performance gains from actual learning</li></ul></p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

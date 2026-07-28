@@ -1,0 +1,22 @@
+---
+title: What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
+created: 2026-06-23
+updated: 2026-06-23
+type: concept
+tags: ["language-learning", "llm", "intelligent-tutoring", "student-experience", "personalized-learning"]
+sources: [raw/papers/2606.22225.md]
+confidence: medium
+---
+
+# What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
+
+**Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone (2026)** — Educational Data Mining 2026
+📄 [Full text (arXiv)](https://arxiv.org/abs/2606.22225)
+
+Scheinberg et al. (2026) analyze 78 university learners of German across four sites completing a counterbalanced spot-the-difference task with both a human peer and a real-time AI partner. Using diarized ASR transcripts, they extract measures of interactional fluency, linguistic uptake, and learner experience. Human dialogue was faster and more balanced with many short turns; AI dialogue resembled 'supported monologue' with fewer, longer turns, reduced learner floor share, and greater within-turn fluency. The AI's verbose, syntactically regular input was associated with greater short-term uptake and stronger syntactic priming after controlling for input volume. Attitudes toward AI improved after the task, and satisfaction was predicted by production fluency rather than uptake. This work shows complementary affordances of AI and human dialogue for [[language-learning]], informing [[intelligent-tutoring]] design for second language acquisition, with implications for [[student-experience]] and [[personalized-learning]] in [[llm]]-mediated education.
+
+## Related Pages
+- [[ai-interlocutor-l2-spoken-dialogue]] -- This page
+
+## Citation
+**APA:** Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone (2026). *What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue*. arXiv:2606.22225. Educational Data Mining 2026

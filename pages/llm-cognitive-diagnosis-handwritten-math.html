@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work" - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>"Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work"</h1>
+        <div class="metadata">Created: 2026-05-31 | Tags: No tags</div>
+    </header>
+    <main class="container"><p><h2>Summary</h2></p><p>This paper introduces <strong>MathCog</strong>, a benchmark dataset of 3,036 teacher-annotated diagnostic verdicts across 639 student handwritten math responses to 110 problems. Evaluating 18 LLMs, the authors find that <strong>all models severely underperform</strong> (macro F1 < 0.5), with systematic failure modes: over-attributing evidential strength, overthinking minimal cues, and hallucinating nonexistent evidence. Performance degrades sharply when student evidence is vague or implicit. The study calls for evidence-aware architectures and teacher-in-the-loop designs.</p><p><h2>Key Contributions</h2></p><p>1. <strong>MathCog Benchmark</strong> — First benchmark for cognitive skill diagnosis from handwritten math, grounded in TIMSS 2019 cognitive framework with Evident/Vague evidential strength labels
+2. <strong>Systematic LLM Evaluation</strong> — 18 models spanning reasoning, multimodal, and text-only architectures, all showing F1 < 0.5
+3. <strong>Error Taxonomy</strong> — Five systematic error patterns identified: evidence misidentification, rubric misinterpretation, over-inference, inconsistency, and hallucination
+4. <strong>Evidential Calibration Metrics</strong> — Introduces OverAttr and FalseAttr to quantify models' tendency to over-claim evidential confidence</p><p><h2>Core Findings</h2></p><p><h3>Universal Underperformance</h3>
+No model achieves F1 ≥ 0.5. The best performers (GPT-4o-img at 0.448, DeepSeek-R1 at 0.442) still fail on nearly half of diagnostic decisions. Accuracy (mean 0.680) is misleading due to class imbalance — most student responses provide Evident Yes evidence, inflating accuracy.</p><p><h3>Evidence Sensitivity Gap</h3>
+All models perform worse when student evidence is Vague (implicit, incomplete, or context-dependent). Multimodal models show a larger Evident-to-Vague performance drop than text-only models, suggesting visual inputs may amplify over-interpretation rather than improve evidential calibration.</p><p><h3>Systematic Error Patterns</h3>
+<ul><li><strong>Evidence Over-Attribution (OverAttr = 0.58):</strong> Models label 58% of vague-evidence cases as "Evident"</li></ul>
+<ul><li><strong>Evidence False-Attribution (FalseAttr = 0.585):</strong> 58.5% of incorrect diagnoses are accompanied by false claims of evidential confidence</li></ul>
+<ul><li><strong>Hallucination:</strong> Models fabricate evidence quotes not present in student handwriting</li></ul>
+<ul><li><strong>Over-inference:</strong> Drawing strong diagnostic conclusions from minimal or ambiguous cues</li></ul></p><p><h2>Implications for AI in Education</h2></p><p><h3>Evidence-Aware Design</h3>
+Current LLMs lack the ability to calibrate confidence based on evidential quality. Educational AI systems need explicit mechanisms to <strong>detect when evidence is insufficient</strong> and communicate uncertainty rather than fabricate confident diagnoses. This connects to broader challenges in <a href="pages/ground-truth-reliability-aied.html">ground-truth-reliability-aied</a> and <a href="pages/hallucination-risk.html">hallucination-risk</a>.</p><p><h3>Teacher-in-the-Loop Architecture</h3>
+The authors advocate for <a href="pages/human-in-the-loop.html">human-in-the-loop</a> systems where LLM predictions support rather than replace teacher judgment. This aligns with <a href="pages/teacher-role.html">teacher-role</a> research on AI augmentation vs. automation, and with findings from <a href="pages/over-reliance.html">over-reliance</a> studies showing that uncalibrated AI outputs can degrade human diagnostic accuracy.</p><p><h3>Benchmarking Beyond Accuracy</h3>
+MathCog demonstrates that standard accuracy metrics obscure critical failure modes in educational AI. The evidential calibration metrics (OverAttr, FalseAttr) introduced here complement evaluation approaches in <a href="pages/benchmark.html">benchmark</a> design and <a href="pages/ai-ed-evaluation.html">ai-ed-evaluation</a>. The dataset's Evident/Vague distinction parallels concerns in <a href="pages/cognitive-offloading.html">cognitive-offloading</a> about when learners (and AI systems) should recognize the limits of available information.</p><p><h3>Connection to LLM Fallacy Research</h3>
+This paper directly extends work on <a href="pages/llm-fallacy-misattribution.html">llm-fallacy-misattribution</a> — the hallucination of evidence and over-attribution patterns documented here are a specific educational manifestation of broader LLM reasoning failures. The finding that reasoning models (DeepSeek-R1, o1-Preview) show no systematic advantage echoes questions about whether chain-of-thought reasoning actually improves diagnostic reliability.</p><p><h3>Handwritten Math Assessment</h3>
+MathCog builds on existing <a href="pages/llm-handwritten-math-grading.html">llm-handwritten-math-grading</a> work but shifts focus from answer correctness to cognitive skill diagnosis — a more ambitious and educationally meaningful task. The TIMSS cognitive framework provides a theoretically grounded alternative to ad-hoc grading rubrics.</p><p><h2>Limitations</h2></p><p><ul><li>Korean middle-school math only; generalizability to other languages, grade levels, and subjects unknown</li></ul>
+<ul><li>3,036 verdicts across 639 responses — moderate dataset size</li></ul>
+<ul><li>Only TIMSS "Knowing" and "Applying" domains covered; "Reasoning" skills excluded due to problem set characteristics</li></ul>
+<ul><li>Korean-to-English machine translation may introduce artifacts</li></ul>
+<ul><li>Static benchmark; does not capture iterative diagnostic processes teachers use in practice</li></ul></p><p><h2>Related Pages</h2></p><p><ul><li><a href="pages/llm-handwritten-math-grading.html">llm-handwritten-math-grading</a> — Prior work on LLM-based grading of handwritten math responses</li></ul>
+<ul><li><a href="pages/llm-fallacy-misattribution.html">llm-fallacy-misattribution</a> — Foundational study on LLM fallacy misattribution in educational contexts</li></ul>
+<ul><li><a href="pages/hallucination-risk.html">hallucination-risk</a> — Broader framework for hallucination risks in AI education tools</li></ul>
+<ul><li><a href="pages/over-reliance.html">over-reliance</a> — Over-reliance on AI outputs, including uncalibrated diagnostic confidence</li></ul>
+<ul><li><a href="pages/cognitive-offloading.html">cognitive-offloading</a> — Cognitive offloading dynamics relevant to evidential over-attribution</li></ul>
+<ul><li><a href="pages/ground-truth-reliability-aied.html">ground-truth-reliability-aied</a> — Ground truth reliability challenges in AIED benchmarks</li></ul>
+<ul><li><a href="pages/human-in-the-loop.html">human-in-the-loop</a> — Teacher-in-the-loop architectures for AI-augmented assessment</li></ul>
+<ul><li><a href="pages/teacher-role.html">teacher-role</a> — Teacher role in AI-augmented educational workflows</li></ul>
+<ul><li><a href="pages/benchmark.html">benchmark</a> — Benchmark design considerations for educational AI evaluation</li></ul>
+<ul><li><a href="pages/automated-grading.html">automated-grading</a> — Broader automated grading landscape, of which cognitive diagnosis is an extension- <a href="pages/representation-robustness-llm-math-problem-solving.html">representation-robustness-llm-math-problem-solving</a> — Representation Robustness under Executable Reasoning Constra</li></ul></p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

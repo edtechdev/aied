@@ -1,0 +1,118 @@
+---
+title: Training Pedagogical LLMs for Tutoring
+created: 2026-05-07
+updated: 2026-05-07
+type: concept
+tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education]
+confidence: high
+sources: [raw/papers/singh-eduqwen-pedagogical-rl-2026.md, raw/papers/lelievre-pedagogy-benchmark-llm-knowledge-2025.md, raw/papers/lin-automatic-llm-interactive-lessons-2025.md, raw/papers/jeon-isd-agent-bench-2026.md]
+---
+> 📄 Full text: [arXiv:2604.06385](https://arxiv.org/abs/2604.06385) · [local](raw/papers/singh-eduqwen-pedagogical-rl-2026.md) · [arXiv:2506.18710](https://arxiv.org/abs/2506.18710v3) · [local](raw/papers/lelievre-pedagogy-benchmark-llm-knowledge-2025.md) · [arXiv:2506.17356](https://arxiv.org/abs/2506.17356v1) · [local](raw/papers/lin-automatic-llm-interactive-lessons-2025.md) · [arXiv:2602.10620](https://arxiv.org/abs/2602.10620) · [local](raw/papers/jeon-isd-agent-bench-2026.md)
+
+
+
+
+# Training Pedagogical LLMs for Tutoring
+
+> Domain-specialized optimization can transform a mid-sized open-source model (Qwen3-32B) into a pedagogical domain expert that outperforms far larger proprietary systems — but only when training rewards *guiding* rather than *answering*.^[[singh-eduqwen-pedagogical-rl-2026]] Classical instructional design theory (ADDIE, Dick & Carey) combined with modern ReAct reasoning achieves the highest performance in automated instructional design.^[[jeon-isd-agent-bench-2026]]
+
+## The Alignment Problem
+
+General-purpose LLMs are optimized for helpfulness: users want quick, correct answers. Tutoring requires the opposite: the goal is **not to provide the answer, but to help the student get to the answer themselves**. This creates a fundamental incentive mismatch.
+
+## Approach 1: RL-SFT-RL Pipeline for Pedagogical Reasoning (EduQwen)
+
+Singh et al. (2026) developed a three-stage pipeline transforming Qwen3-32B into EduQwen, achieving **96.52%** on the CDPK Benchmark and surpassing Gemini-3 Pro (90.55%).
+
+### Stage 1: Initial RL (EduQwen 32B-RL1)
+- **Algorithm:** DAPO (Decoupled Advantage Policy Optimization) with asymmetric clipping
+- **Reward model:** Prioritizes *guiding* responses over direct answers
+- **Curriculum learning:** Progressive difficulty; hard-negative mining excludes questions the base model already solves perfectly
+- **Extended rollouts:** 5→8 steps to capture multi-step pedagogical decisions
+- **Result:** 94.13% (already SOTA)
+
+### Stage 2: Synthetic SFT (EduQwen 32B-SFT)
+- RL1 model generates 40,000 synthetic responses
+- Gradient-based selection retains only hard examples
+- Difficulty-weighted sampling: easy questions → one example; hard questions → all, weighted up
+- **Result:** 96.20%
+
+### Stage 3: Final RL (EduQwen 32B-SFT-RL2)
+- Second DAPO round, reusing the original hard-negative set
+- Model now solves problems it originally found challenging
+- **Result:** 96.52% (definitive SOTA)
+
+## The Pedagogy Benchmark: Evaluating Pedagogical Knowledge
+
+Lelièvre et al. (2025) introduced **The Pedagogy Benchmark**, measuring Cross-Domain Pedagogical Knowledge (CDPK) and Special Education Needs and Disability (SEND) knowledge from real teacher professional development exams. Across **97 models**, accuracy ranged from **28% to 89%**—revealing that pedagogical knowledge is not automatically acquired in general pretraining.
+
+**EduQwen connection:** Singh et al.’s EduQwen achieved **96.52% on CDPK**, demonstrating that targeted RL+SFT optimization can close the pedagogical knowledge gap that Lelièvre et al. document. The benchmark serves as both a diagnostic (showing most models fail at pedagogy) and a training target (showing optimization works).
+
+Live leaderboards track cost-accuracy Pareto frontiers: [rebrand.ly/pedagogy](https://rebrand.ly/pedagogy)
+
+## Approach 2: Theory-Grounded Instructional Design Agents (ISD-Agent-Bench)
+
+Jeon et al. (2026) created a benchmark for LLM agents automating Instructional Systems Design (ISD), testing whether classical pedagogy theory improves agent performance.
+
+| Architecture | Performance | Why |
+|-------------|-------------|-----|
+| **Hybrid: theory + ReAct** | **Best** | Classical ADDIE/Dick & Carey frameworks provide structure; ReAct enables flexible multi-step reasoning |
+| Pure theory-based | Moderate | Structured but inflexible |
+| Technique-only (pure ReAct) | Worst | Flexible but lacks pedagogical grounding |
+
+**Key insight:** Theoretical quality strongly correlates with benchmark performance. Theory-based agents excel in **problem-centered design** and **objective-assessment alignment**.
+
+### Benchmark Design
+- **25,795 scenarios** from Context Matrix (51 variables × 5 categories × 33 ISD sub-steps)
+- **Multi-judge protocol** across diverse LLM providers to mitigate LLM-as-judge bias
+- High inter-judge reliability achieved
+
+## Synthesis: What Makes Pedagogical Training Work
+
+| Principle | EduQwen | ISD-Agent-Bench |
+|-----------|---------|-----------------|
+| **Reward/guide, don't answer** | DAPO reward model penalizes direct solutions | Theory-enforced ISD steps require alignment between objectives and assessment |
+| **Curriculum by difficulty** | Hard-negative mining + progressive rollouts | Context Matrix systematically varies complexity |
+| **Multi-step reasoning** | Extended rollouts (5→8 steps) | ReAct-style reasoning chains |
+| **Validate with theory** | CDPK benchmark measures pedagogical knowledge | ADDIE/Dick & Carey frameworks ground design decisions |
+| **Iterative refinement** | RL → SFT → RL pipeline | Multi-judge evaluation reduces bias |
+
+## Relationship to Safety and Design
+
+Training for pedagogy is not just about accuracy — it is a **safety intervention**:
+- A model that rewards "guiding" over "answering" is less likely to commit [[ai-tutor-safety-harms|answer over-disclosure harms]]
+- Theory-grounded agents (ISD-Agent-Bench) align with pedagogical principles that prevent [[metacognition|metacognitive suppression]]
+- However, training on pedagogical benchmarks does not guarantee multi-turn safety; SafeTutors shows even specialized models degrade over sustained dialogue
+
+## Open Questions
+
+1. Does pedagogical RL training generalize across subjects, or is subject-specific tuning (as SafeTutors suggests) always needed?
+2. Can the RL-SFT-RL pipeline be combined with longitudinal memory (see [[llm-student-modeling-memory]]) for personalized tutoring?
+3. Would ISD-agent theory improve general tutoring conversation, or is it limited to macro-level curriculum design?
+
+## Related Pages
+- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
+- [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
+- [[codify-socratic-tutoring-programming]] — Socratic tutoring system demonstrating discovery-based LLM-driven instruction
+- [[eduagentbench-agent-teaching-benchmark]] — EduAgentBench findings highlight gaps in current pedagogical LLM training
+- [[nsmq-riddles-science-math-benchmark]] — Tests pedagogical LLMs on Global South educational content
+- [[cognitive-agent-compilation]] — CAC offers compilation as an alternative to training for pedagogical alignment
+- [[civic-education-ai-lesson-plans]] — 310 AI civics plans demonstrate training gap: 90% lower-order thinking, minimal multicultural integration
+- [[multimodal-learning-genai]] — Training for multimodal output generation and cyber-social collaboration
+- [[authentic-assessment]] — Six-dimensional framework that should inform pedagogical training
+- [[ai-tutor-safety-harms]] — Pedagogical harms that training must prevent
+- [[tutoring-specific-vs-general-ai]] — Why general-purpose helpfulness is misaligned with tutoring
+- [[metacognition]] — Preserving metacognitive demand through training incentives
+- [[llm-student-modeling-memory]] — Longitudinal personalization as a next training frontier
+- [[socratic-ai-dialogue]] — Socratic dialogue as a training target for guiding behavior
+- [[affective-tutoring]] — Affective calibration as a future training objective
+- [[knowledge-tracing-irt]] — Real-time calibration that pedagogical models should support
+- [[measuring-llm-tutors-teach-vs-solve]] -- Benchmarks conflate solving with teaching (r=0.421); pedagogy and solving scores should be reported separately
+- [[lecturaagents-multi-agent-teaching]] — LecturaAgents
+- [[llm-tts-dialogue-lesson-generation]] - steering LLMs for pedagogy
+- [[eduguard-safe-rag-llm-tutor]] — Bakes safety and pedagogical strategy selection into the generation pipeline.
+
+## Sources
+- Singh et al. (2026). *Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via RL and SFT*. arXiv:2604.06385. [PDF](https://arxiv.org/pdf/2604.06385)
+- Lelièvre et al. (2025). *Benchmarking the Pedagogical Knowledge of Large Language Models*. arXiv:2506.18710v3. [PDF](https://arxiv.org/pdf/2506.18710v3)
+- Jeon et al. (2026). *ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents*. arXiv:2602.10620. [PDF](https://arxiv.org/pdf/2602.10620)

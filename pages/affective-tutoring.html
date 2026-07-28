@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affective Tutoring - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>Affective Tutoring</h1>
+        <div class="metadata">Created: 2026-05-07 | Tags: <a href="../index.html?tag=affective-computing" class="tag">affective-computing</a><a href="../index.html?tag=intelligent-tutoring" class="tag">intelligent-tutoring</a><a href="../index.html?tag=adaptive-learning" class="tag">adaptive-learning</a><a href="../index.html?tag=scaffolding" class="tag">scaffolding</a><a href="../index.html?tag=k-12" class="tag">k-12</a><a href="../index.html?tag=higher-ed" class="tag">higher-ed</a></div>
+    </header>
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2508.19993v2">arXiv:2508.19993</a> · <a href="raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md">local</a> · <a href="https://arxiv.org/abs/2507.06878">arXiv:2507.06878</a> · <a href="raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md">local</a></p><p>> Integrating emotional awareness into AI tutoring systems can yield measurable pedagogical gains, but the same affective sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.^<a href="pages/kar-mathbuddy-affective-math-tutoring-2025.html">kar-mathbuddy-affective-math-tutoring-2025</a>^<a href="pages/favero-critical-ai-tutors-empower-enslave-2025.html">favero-critical-ai-tutors-empower-enslave-2025</a></p><p><h2>The Case For Affect-Aware Tutors</h2></p><p><h3>MathBuddy (Kar et al., 2025)</h3></p><p>MathBuddy dynamically models student affect using two modalities:</p><p><ul><li><strong>Conversational text</strong> — semantic cues for frustration, confusion, confidence</li></ul>
+<ul><li><strong>Facial expressions</strong> — real-time video capture of emotional state</li></ul></p><p>Emotions are aggregated from both modalities and mapped to relevant pedagogical strategies before prompting the LLM tutor, yielding emotionally-aware responses.</p><p><strong>Results:</strong>
+<ul><li><strong>+23 point win rate</strong> improvement over non-affective baseline</li></ul>
+<ul><li><strong>+3 point DAMR score</strong> gain at overall level</li></ul>
+<ul><li>Evaluated across <strong>eight pedagogical dimensions</strong> plus user studies</li></ul></p><p>The finding validates a long-standing hypothesis in educational psychology: positive/negative emotional states impact learning capability, and accounting for them improves tutoring outcomes.</p><p><h2>The Risk: Empathy as a Trap</h2></p><p>Favero et al. (2025) warn that emotional engagement with AI tutors carries underappreciated risks:</p><p>| Affective tutoring benefit | Corresponding risk |
+|---|---|
+| Emotionally-aware responses feel supportive | Students may form <strong>parasocial dependencies</strong> on the tutor |
+| Empathy reduces anxiety | Reduced anxiety may mask <strong>metacognitive disengagement</strong> |
+| Affective calibration personalizes pacing | Deep personalization can <strong>reduce transfer</strong> to non-adaptive contexts |
+| Facial monitoring signals attentiveness | Continuous video capture raises <strong>privacy concerns</strong> |</p><p>The authors argue that emotional risks are part of a broader pattern of <strong>erosion of self-efficacy, agency, and well-being</strong> when AI use is unchecked.</p><p><h2>Design Principles</h2></p><p>1. <strong>Affective data should inform, not replace, learner autonomy</strong> — The tutor adapts its strategy; the student retains control over disclosure
+2. <strong>Transparency about affect detection</strong> — Students should know when and how their emotions are being inferred
+3. <strong>Affect-as-one-signal-among-many</strong> — Combine with cognitive state (e.g., <a href="pages/knowledge-tracing-irt.html">knowledge-tracing-irt</a>) and behavioral engagement
+4. <strong>Privacy-by-default for multimodal sensors</strong> — Facial/video data requires stronger protections than text-only inference</p><p><h2>Relationship to Broader Safety</h2></p><p>Affective tutoring intersects with <a href="pages/ai-tutor-safety-harms.html">SafeTutors</a> in the motivational-affective harm dimension. An affective tutor that is "too supportive" may suppress the frustration that drives productive struggle and self-regulation. See also <a href="pages/llm-fallacy-misattribution.html">llm-fallacy-misattribution</a> — students may attribute emotional support to genuine relationship, reinforcing reliance.</p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/affective-text-wearable-student-health.html">affective-text-wearable-student-health</a> — Ultra-brief affective prompts enrich physiological data interpretation at minimal burden</li></ul>
+<ul><li><a href="pages/ecnuclaw-k12-personalized-companion.html">ecnuclaw-k12-personalized-companion</a> — Emotion-aware profiles connect to affect detection strategies</li></ul>
+<ul><li><a href="pages/multimodal-learning-genai.html">multimodal-learning-genai</a> — Multimodal emotion recognition (text + facial + audio) as part of engagement design</li></ul>
+<ul><li><a href="pages/adaptive-learning-systems.html">adaptive-learning-systems</a> — Affect as an input signal for adaptive difficulty calibration</li></ul>
+<ul><li><a href="pages/knowledge-tracing-irt.html">knowledge-tracing-irt</a> — Combining affective and cognitive learner models</li></ul>
+<ul><li><a href="pages/ai-tutor-safety-harms.html">ai-tutor-safety-harms</a> — Motivational-affective harms and parasocial dependency</li></ul>
+<ul><li><a href="pages/llm-fallacy-misattribution.html">llm-fallacy-misattribution</a> — Emotional misattribution risk</li></ul>
+<ul><li><a href="pages/metacognition.html">metacognition</a> — Affect-aware scaffolds that preserve vs. displace metacognitive monitoring</li></ul>
+<ul><li><a href="pages/self-regulated-learning.html">self-regulated-learning</a> — Emotional self-regulation as a component of SRL</li></ul>
+<ul><li><a href="pages/collaborative-ai-tutoring.html">collaborative-ai-tutoring</a> — Group-level affect and joint emotional states</li></ul>
+<ul><li><a href="pages/pedagogical-llm-training.html">pedagogical-llm-training</a> — Should affective responsiveness be a training objective?</li></ul>
+<ul><li><a href="pages/socratic-ai-dialogue.html">socratic-ai-dialogue</a> — Socratic methods may produce stronger affective engagement than directive tutoring</li></ul>
+<ul><li><a href="pages/principled-ai-education.html">principled-ai-education</a> — Affective tutoring as augmentation vs. displacement of human capacity</li></ul></p><p><ul><li><a href="pages/engagement-assessment-video.html">engagement-assessment-video</a> — Emotional dimension of engagement</li></ul>
+<ul><li><a href="pages/empathy-coaching-chatbot.html">empathy-coaching-chatbot</a> — empathy effects in coaching chatbots</li></ul>
+<ul><li><a href="pages/epistemic-emotions-collaborative-problem-solving.html">epistemic-emotions-collaborative-problem-solving</a> — Ordered Network Analysis reveals structured persistence and transition patterns of confusion and fru</li></ul></p><p><h2>Sources</h2>
+<ul><li>Kar et al. (2025). <em>MathBuddy: A Multimodal System for Affective Math Tutoring</em>. arXiv:2508.19993v2. <a href="https://arxiv.org/pdf/2508.19993v2">PDF</a></li></ul>
+<ul><li>Favero et al. (2025). <em>Do AI tutors empower or enslave learners?</em> arXiv:2507.06878. <a href="https://arxiv.org/pdf/2507.06878">PDF</a></li></ul></p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

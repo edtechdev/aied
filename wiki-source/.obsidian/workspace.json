@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "b5a3c5b56f15817a",
+    "type": "split",
+    "children": [
+      {
+        "id": "404ed5de8a20c1f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0f0d6a89c72d1f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/student-rationalization-ai-writing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "student-rationalization-ai-writing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1b2c3d4e5f67890",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2c3d4e5f6a7b8c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82f993b868e0d281",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5f6a7b8c9d0e1f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6a7b8c9d0e1f2a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7b8c9d0e1f2a3b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/student-rationalization-ai-writing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for student-rationalization-ai-writing"
+            }
+          },
+          {
+            "id": "b8c9d0e1f2a3b4c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
+            }
+          },
+          {
+            "id": "c9d0e1f2a3b4c5d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-ghost",
+              "title": "tag"
+            }
+          },
+          {
+            "id": "d0e1f2a3b4c5d6e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          },
+          {
+            "id": "1a86a89e08a37c1d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0f0d6a89c72d1f0",
+  "lastOpenFiles": [
+    "concepts/writing-education.md",
+    "index.md",
+    "concepts/personalized-learning.md",
+    "concepts/taklif-ai-interest-based-personalized-assignments.md",
+    "concepts/academic-integrity.md",
+    "concepts/chatgpt-impact-high-school-tests.md",
+    "concepts/daily-digest-2026-06-01.md",
+    "journal.md",
+    "concepts/ai-literacy.md",
+    "concepts/ai-adult-learning-design.md",
+    "concepts/ai-literacy-assessment-misalignment.md",
+    "concepts/tutoring-specific-vs-general-ai.md",
+    "raw/papers/hingle-collaborative-ai-literacy-2025.md",
+    "concepts/pedagogy-ai-mistakes.md",
+    "entities/Untitled.base",
+    "concepts/self-regulated-learning.md",
+    "SCHEMA.md",
+    "log.md"
+  ]
+}

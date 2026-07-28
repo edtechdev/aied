@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neural-Symbolic Knowledge Tracing - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>Neural-Symbolic Knowledge Tracing</h1>
+        <div class="metadata">Created: 2026-05-08 | Tags: <a href="../index.html?tag=intelligent-tutoring" class="tag">intelligent-tutoring</a><a href="../index.html?tag=learning-analytics" class="tag">learning-analytics</a><a href="../index.html?tag=adaptive-learning" class="tag">adaptive-learning</a><a href="../index.html?tag=pedagogical-safety" class="tag">pedagogical-safety</a><a href="../index.html?tag=mastery-learning" class="tag">mastery-learning</a></div>
+    </header>
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2604.08263">arXiv:2604.08263</a> · <a href="raw/papers/2604.08263.md">local</a></p><p>> Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems.</p><p><h2>The Problem with Pure Neural Approaches</h2></p><p><strong>Hooshyar et al. (2026)</strong> identify key limitations in both LLM-based tutoring and conventional Deep Knowledge Tracing (DKT):</p><p><ul><li><strong>Limited adaptivity:</strong> LLMs struggle to model learners' <em>evolving knowledge over time</em> — they respond to individual turns rather than tracking skill mastery across sessions.</li></ul>
+<ul><li><strong>Black-box opacity:</strong> Deep learning models (LSTM/Transformer-based DKT) lack interpretable learner state representations, making it impossible to audit <em>why</em> a student is flagged as struggling.</li></ul>
+<ul><li><strong>Spurious correlations:</strong> Purely data-driven models can latch onto surface patterns (session length, interaction frequency) rather than genuine learning signals.</li></ul>
+<ul><li><strong>Temporal instability:</strong> Conventional DKT produces <strong>prediction inconsistency rates of 0.075–0.138</strong>, meaning predictions frequently "flip-flop" between correct/incorrect as new responses arrive — undermining trust.</li></ul></p><p><h2>The Responsible-DKT Model</h2></p><p>Hooshyar et al. propose <strong>Responsible-DKT</strong>, a neural-symbolic architecture built on the <strong>Lifted Relational Neural Networks (LRNN)</strong> paradigm using <strong>PyNeuraLogic</strong>. The key innovation: symbolic educational knowledge is injected as <em>learnable weighted rules</em> that <strong>modulate</strong> (not override) neural predictions.</p><p><h3>Architecture</h3></p><p>| Component | Detail |
+|-----------|--------|
+| <strong>Embeddings</strong> | Learnable vectors for quiz, skill, correctness (dim=16) |
+| <strong>Combined rep</strong> | Weighted sum of embeddings + sigmoid activation |
+| <strong>Recurrent core</strong> | Two-layer RNN with temporal shift (prediction at <em>t</em> uses only past interactions) |
+| <strong>Symbolic rules</strong> | Three rules with learnable weights, wired into the computation graph |
+| <strong>Output</strong> | Sigmoid over hidden state + target embedding → ŷ_{t+1} |</p><p><h3>Injected Educational Knowledge (Symbolic Rules)</h3></p><p>1. <strong>mastered rule:</strong> Two consecutive correct responses on the same skill/quiz → increases prediction confidence. Encodes the pedagogical assumption that sustained correctness signals mastery.
+2. <strong>not_mastered rule:</strong> Three incorrect responses on the same skill/quiz → decreases prediction confidence. Encodes the assumption that repeated failure is a stronger signal — the paper found this rule <strong>dominates</strong> prediction updates.
+3. <strong>avg_embed rule:</strong> Historical aggregation of past embeddings for the same skill/quiz — provides a long-run average representation of the student's relationship to a knowledge component.</p><p><h3>Baselines</h3></p><p><ul><li><strong>BaseNS-DKT:</strong> Identical neural-symbolic architecture but <em>without</em> the educational knowledge rules — isolates the value of symbolic injection.</li></ul>
+<ul><li><strong>PyTorch DKT:</strong> Fully data-driven DKT — represents the conventional black-box approach.</li></ul></p><p><h2>Key Findings</h2></p><p><h3>Data Efficiency (RQ1)</h3>
+<ul><li><strong>>0.80 AUC with only 10%</strong> of training data — practically useful for cold-start and sparse-data settings.</li></ul>
+<ul><li>Up to <strong>0.90 AUC</strong> with full training data.</li></ul>
+<ul><li><strong>Up to 13% improvement</strong> over both baselines.</li></ul></p><p><h3>Temporal Reliability (RQ2)</h3>
+<ul><li><strong>Lowest prediction inconsistency rates</strong> across all sequence lengths (10, 50, 100, 475):</li></ul>
+  - Responsible-DKT: <strong>0.013–0.039</strong>
+  - PyTorch DKT: <strong>0.075–0.138</strong>
+<ul><li>Lower early- and mid-sequence prediction errors.</li></ul>
+<ul><li>Prediction updates remain <strong>directionally aligned</strong> with observed responses — the model doesn't contradict itself as new data arrives.</li></ul></p><p><h3>Interpretability (RQ3)</h3>
+<ul><li><strong>Grounded computation graph</strong> exposes the logic behind each prediction — inherently interpretable, not post-hoc explained.</li></ul>
+<ul><li>Supports both <strong>local</strong> (per-prediction) and <strong>global</strong> explanations.</li></ul>
+<ul><li>Empirical evaluation of pedagogical assumptions revealed that <strong>non-mastery rules</strong> (repeated incorrect responses) have a stronger influence on prediction updates than mastery rules — an insight that would be invisible in black-box models.</li></ul></p><p><h3>Dataset</h3>
+Real-world 6th-grade Maths from Opiq: 167 students, 21,471 interactions, 13 skills, 1,058 quizzes. Scores binarized at first-quartile threshold (37/100).</p><p><h2>Connection to Knowledge Tracing Landscape</h2></p><p>Traditional <strong>Knowledge Tracing (KT)</strong> methods:</p><p><ul><li><strong>IRT-based</strong> (Item Response Theory): <a href="pages/knowledge-tracing-irt.html">knowledge-tracing-irt</a> — interpretable difficulty parameters but limited sequential modeling.</li></ul>
+<ul><li><strong>BKT</strong> (Bayesian Knowledge Tracing): Explicit prerequisite structures; interpretable but rigid.</li></ul>
+<ul><li><strong>DeepKT</strong> (LSTM/Transformer): High predictive capacity but opaque.</li></ul>
+<ul><li><strong>Neural-symbolic KT</strong> bridges the gap: retains interpretability of symbolic approaches while leveraging neural networks' representational power.</li></ul></p><p><h2>Implications for Responsible AI in Education</h2></p><p>The paper positions this under <strong>responsible AI</strong> (Goellner et al., 2024: "human-centred approach fostering user trust through ethical decision-making, explainable outcomes, and privacy-preserving implementation"):</p><p>1. <strong>Transparency:</strong> Symbolic components make learner state <em>auditable</em> — critical for <a href="pages/ai-tutor-safety-harms.html">safety auditing</a>.
+2. <strong>Pedagogical validity:</strong> Updates follow educational theory (mastery learning, repeated-failure signals), not just data patterns.
+3. <strong>Data efficiency:</strong> Practical in real educational settings where large labeled datasets are rare.
+4. <strong>Temporal trustworthiness:</strong> Predictions don't oscillate wildly — a key requirement for <a href="pages/student-experience.html">student trust</a> and instructor decision-making.</p><p>This contrasts with opaque LLM-based approaches in <a href="pages/pedagogical-llm-training.html">tutoring alignment</a> and demonstrates a path toward <a href="pages/principled-ai-education.html">principled AI in education</a> — augment, don't displace, pedagogical reasoning.</p><p><h2>Open Questions</h2></p><p><ul><li>How does Responsible-DKT scale to larger skill graphs (hundreds of knowledge components)?</li></ul>
+<ul><li>Can the symbolic rule set be extended with domain-specific pedagogical knowledge (e.g., common misconceptions)?</li></ul>
+<ul><li>How does this compare to <a href="pages/llm-student-modeling-memory.html">LLM-based longitudinal student modeling</a> in both accuracy and interpretability?</li></ul>
+<ul><li>Is the 13% improvement maintained with more diverse student populations and subject domains?</li></ul></p><p><h2>Related Pages</h2></p><p><ul><li><a href="pages/stanbkt-bayesian-knowledge-tracing.html">stanbkt-bayesian-knowledge-tracing</a> — Interpretable probabilistic alternative to neural knowledge tracing methods</li></ul>
+<ul><li><a href="pages/simulating-learner-task-selection.html">simulating-learner-task-selection</a> — Simulation of learner behavior patterns complements symbolic knowledge tracing approaches</li></ul>
+<ul><li><a href="pages/mbp-kt-meta-behavioral-knowledge-tracing.html">mbp-kt-meta-behavioral-knowledge-tracing</a> — Structured meta-behavior representations complementing symbolic KT</li></ul>
+<ul><li><a href="pages/explainable-probabilistic-kt.html">explainable-probabilistic-kt</a> — Probabilistic logical reasoning bridges neural and symbolic KT</li></ul>
+<ul><li><a href="pages/cognitive-agent-compilation.html">cognitive-agent-compilation</a> — CAC shares the goal of combining explicit symbolic knowledge with neural methods</li></ul>
+<ul><li><a href="pages/knowledge-tracing-irt.html">knowledge-tracing-irt</a> — Interpretable Bayesian/IRT approaches to knowledge tracing</li></ul>
+<ul><li><a href="pages/adaptive-learning-systems.html">adaptive-learning-systems</a> — Broader adaptive systems context</li></ul>
+<ul><li><a href="pages/llm-student-modeling-memory.html">llm-student-modeling-memory</a> — LLM-based learner modeling (contrast: opaque vs. interpretable)</li></ul>
+<ul><li><a href="pages/ai-tutor-safety-harms.html">ai-tutor-safety-harms</a> — Safety auditing requires interpretable learner models</li></ul>
+<ul><li><a href="pages/pedagogical-llm-training.html">pedagogical-llm-training</a> — Training pipelines for tutoring alignment</li></ul>
+<ul><li><a href="pages/principled-ai-education.html">principled-ai-education</a> — Framework connecting educational goals to technology use</li></ul>
+<ul><li><a href="pages/ai-tutor-effectiveness-review.html">ai-tutor-effectiveness-review</a> — Broader ITS effectiveness; interpretability as a key dimension</li></ul></p><p><h2>Sources</h2></p><p><ul><li>Hooshyar et al. (2026). <em>Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling</em>. arXiv:2604.08263. <a href="https://arxiv.org/pdf/2604.08263">PDF</a></li></ul></p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

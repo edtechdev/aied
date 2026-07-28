@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agentic Workflows in Education - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>Agentic Workflows in Education</h1>
+        <div class="metadata">Created: 2026-05-07 | Tags: <a href="../index.html?tag=agent" class="tag">agent</a><a href="../index.html?tag=architecture" class="tag">architecture</a><a href="../index.html?tag=tutoring" class="tag">tutoring</a><a href="../index.html?tag=benchmark" class="tag">benchmark</a><a href="../index.html?tag=ai-education" class="tag">ai-education</a></div>
+    </header>
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2504.20082v2">arXiv:2504.20082</a> · <a href="raw/papers/kamalov-agentic-workflows-education-2026.md">local</a></p><p>A design framework for educational AI systems structured around four agentic paradigms: <strong>reflection</strong>, <strong>planning</strong>, <strong>tool use</strong>, and <strong>multi-agent collaboration</strong>. Proposed by Kamalov et al. (2026) as a taxonomy for analyzing how AI agents operate in learning environments.</p><p><h2>Four Paradigms</h2></p><p><h3>1. Reflection</h3>
+Agents evaluate their own outputs against criteria before delivering feedback to learners. Reduces immediate error propagation but adds latency and requires internal evaluators.</p><p><h3>2. Planning</h3>
+Agents decompose educational goals into sub-goals and sequence pedagogical actions. Enables structured tutoring but risks rigidity when learner states diverge from expected trajectories.</p><p><h3>3. Tool Use</h3>
+Agents invoke external resources (calculators, code interpreters, knowledge bases) to ground responses in verified information. Critical for STEM domains where hallucination tolerance is low.</p><p><h3>4. Multi-Agent Collaboration</h3>
+Multiple specialized agents (e.g., question generator, validator, explainer) coordinate to produce holistic tutoring experiences. Improves consistency over stand-alone LLMs but introduces orchestration complexity and interpretability challenges.</p><p><h2>Proof of Concept: MASS</h2></p><p>Kamalov et al. implemented a <strong>multi-agent framework for automated essay scoring</strong> (MASS) as a demonstration. Preliminary results suggest improved consistency compared to single-model approaches, though the authors flag the need for deeper research into interpretability and trustworthiness.</p><p><h2>Challenges</h2></p><p><ul><li><strong>Interpretability:</strong> Multi-agent traces are harder to audit than single-model outputs.</li></ul>
+<ul><li><strong>Trustworthiness:</strong> Learners and teachers need transparency into which agent contributed what.</li></ul>
+<ul><li><strong>Orchestration overhead:</strong> Coordination cost scales non-linearly with agent count.</li></ul>
+<ul><li><strong>Latency:</strong> Reflection and multi-agent negotiation introduce response delays.</li></ul></p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/persistent-ai-agents-academic-research.html">persistent-ai-agents-academic-research</a> — PARE-M measurement framework for persistent agent deployments</li></ul>
+<ul><li><a href="pages/ai-changing-teaching-workflows.html">ai-changing-teaching-workflows</a></li></ul>
+<ul><li><a href="pages/ai-tutor-authoring-promptdecipher.html">ai-tutor-authoring-promptdecipher</a> — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions</li></ul>
+<ul><li><a href="pages/eduagentbench-agent-teaching-benchmark.html">eduagentbench-agent-teaching-benchmark</a> — EduAgentBench evaluates agentic teaching workflow completion</li></ul>
+<ul><li><a href="pages/teacher-control-ai-generation-math-visuals.html">teacher-control-ai-generation-math-visuals</a> — When Should Teachers Control AI Generation for Mathematics V...</li></ul>
+<ul><li><a href="pages/ai-powered-materials-discovery-ai-literacy.html">ai-powered-materials-discovery-ai-literacy</a> — Preparing Students for AI-Powered Materials Discovery: A Wor...</li></ul>
+<ul><li><a href="pages/cognitive-agent-compilation.html">cognitive-agent-compilation</a> — CAC instantiates the agentic paradigm with separable knowledge, policy, and verification components</li></ul>
+<ul><li><a href="pages/human-ai-co-mentorship.html">human-ai-co-mentorship</a> — human mentors + AI tools co-mentoring in project-based learning</li></ul>
+<ul><li><a href="pages/multimodal-learning-genai.html">multimodal-learning-genai</a> — Planning and reflection as engagement types in the MMLD-AI model</li></ul>
+<ul><li><a href="pages/ai-literacy.html">ai-literacy</a> — Understanding agent architectures as literacy content</li></ul>
+<ul><li><a href="pages/principled-ai-education.html">principled-ai-education</a> — Agentic paradigms as technology choices serving learning models</li></ul>
+<ul><li><a href="pages/ai-tutor-effectiveness-review.html">ai-tutor-effectiveness-review</a> — Multi-agent architectures as advancement area</li></ul>
+<ul><li><a href="pages/authentic-assessment.html">authentic-assessment</a> — Planning and reflection paradigms for assessment design</li></ul>
+<ul><li><a href="pages/human-in-the-loop-ai.html">human-in-the-loop-ai</a> — Human oversight for multi-agent educational systems</li></ul>
+<ul><li><a href="pages/adaptive-learning-systems.html">adaptive-learning-systems</a> — Planning and tool-use paradigms applied to learner adaptation</li></ul>
+<ul><li><a href="pages/formative-assessment.html">formative-assessment</a> — MASS and agentic generation of assessment tasks</li></ul>
+<ul><li><a href="pages/collaborative-ai-tutoring.html">collaborative-ai-tutoring</a> — Multi-agent paradigms in pair-programming tutors</li></ul>
+<ul><li><a href="pages/pedagogical-llm-training.html">pedagogical-llm-training</a> — Training models for agentic tutoring behavior</li></ul></p><p><ul><li><a href="pages/programming-its.html">programming-its</a> — Programming education with AI agents</li></ul></p><p><ul><li><a href="pages/agentic-education-coding.html">agentic-education-coding</a> — Teaching Claude Code as agentic pedagogy</li></ul></p><p><ul><li><a href="pages/teachbench-llm-teaching-evaluation.html">teachbench-llm-teaching-evaluation</a> — Teacher agent paradigm in agentic education</li></ul></p><p><ul><li><a href="pages/multi-agent-instructional-design.html">multi-agent-instructional-design</a> — Multi-agent collaboration for instructional design (KLI framework)</li></ul></p><p><h2>Sources</h2>
+<ul><li>Kamalov et al. (2026). <em>Evolution of AI in Education: Agentic Workflows</em>. arXiv:2504.20082v2. <a href="https://arxiv.org/pdf/2504.20082v2">PDF</a></li></ul>
+<ul><li><a href="pages/agents-that-teach-incidental-learning.html">agents-that-teach-incidental-learning</a> — SHIELD multi-agent learning-aware development system</li></ul></p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

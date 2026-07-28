@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Peer Feedback Systems - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>AI Peer Feedback Systems</h1>
+        <div class="metadata">Created: 2026-05-07 | Tags: <a href="../index.html?tag=edtech-platform" class="tag">edtech-platform</a><a href="../index.html?tag=feedback-loop" class="tag">feedback-loop</a><a href="../index.html?tag=formative-assessment" class="tag">formative-assessment</a><a href="../index.html?tag=teacher-role" class="tag">teacher-role</a><a href="../index.html?tag=higher-ed" class="tag">higher-ed</a><a href="../index.html?tag=learning-analytics" class="tag">learning-analytics</a><a href="../index.html?tag=llm" class="tag">llm</a></div>
+    </header>
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.04740">arXiv:2605.04740</a> · <a href="raw/papers/becerra-aicofe-feedback-2026.md">local</a></p><p>> Student peer feedback is often superficial or inconsistent. <strong>AICoFe</strong> (AI-based Collaborative Feedback) uses a multi-LLM pipeline (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate diverse perspectives on student presentations, but the critical design feature is <strong>teacher-in-the-loop mediation</strong>—educators curate and compose final feedback before delivery.^<a href="pages/becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><p><h2>The Problem</h2></p><p>Peer feedback develops critical reflection and evaluative judgment, yet:
+<ul><li>Students have limited <strong>feedback literacy</strong></li></ul>
+<ul><li>Generated comments are often superficial or lack actionability</li></ul>
+<ul><li>Quality is inconsistent across evaluators</li></ul></p><p>AI-generated feedback alone risks replacing shallow peer comments with shallow AI comments. AICoFe addresses this by treating AI as a <strong>draft generator</strong>, not a final deliverer.</p><p><h2>System Architecture</h2></p><p><strong>Four components:</strong>^<a href="pages/becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><p>| Module | Purpose |
+|--------|---------|
+| <strong>Visualization</strong> | Role-specific dashboards (student, teacher, evaluator) |
+| <strong>Management</strong> | Hybrid SQL + MongoDB data infrastructure |
+| <strong>Feedback Generation</strong> | Multi-LLM pipeline synthesizing rubric scores + qualitative comments |
+| <strong>Recording</strong> | Video/audio capture of student presentations (opt-in, GDPR-compliant) |</p><p><h2>The Multi-LLM Pipeline</h2></p><p>Three independently fine-tuned models receive:
+<ul><li>Quantitative rubric scores</li></ul>
+<ul><li>Validated qualitative observations from evaluators</li></ul>
+<ul><li>Rubric level descriptions</li></ul>
+<ul><li>Instructional materials for the assessed skill</li></ul></p><p>Each model produces an independent draft. The diversity of models is intentional—GPT, Gemini, and Llama have different stylistic biases and blind spots; teacher curation selects the best fragments.^<a href="pages/becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><p><h2>Teacher-in-the-Loop Mediation</h2></p><p>The Teacher Dashboard is the central mediation interface:</p><p><ul><li><strong>Inspect</strong> scores, comments, and videos from all evaluators</li></ul>
+<ul><li><strong>Review</strong> drafts from all three LLMs</li></ul>
+<ul><li><strong>Compose</strong> final feedback by selecting individual sentences or paragraphs from AI outputs</li></ul>
+<ul><li><strong>Visual legend</strong> shows proportion of content contributed by each LLM</li></ul>
+<ul><li><strong>Track</strong> extent of teacher modification/curation</li></ul>
+<ul><li><strong>Audio review</strong> via text-to-speech for long comments</li></ul></p><p>This preserves pedagogical authority while reducing teacher workload.^<a href="pages/becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><p><h2>Transparency & Analytics</h2></p><p><ul><li><strong>Feedback history log:</strong> Every sent feedback entry displays LLM contribution proportions and teacher modification levels</li></ul>
+<ul><li><strong>Dual purpose:</strong> Supports (1) teacher reflection on curation patterns and (2) large-scale analysis of how teacher mediation shapes feedback quality</li></ul></p><p><h2>Student Experience</h2></p><p><ul><li>View video recordings of own presentations</li></ul>
+<ul><li>Complete self-evaluations using the same rubric</li></ul>
+<ul><li>See visual comparisons of self vs. external evaluations</li></ul>
+<ul><li>Receive <strong>teacher-curated</strong> (not raw AI) feedback</li></ul>
+<ul><li>Rate perceived agreement and usefulness^<a href="pages/becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></li></ul></p><p><h2>Relationship to Human-in-the-Loop AI</h2></p><p>AICoFe represents a <strong>human-centered AI</strong> paradigm for education: AI augments rather than replaces human judgment. This contrasts with fully automated grading or feedback systems that remove the teacher from the loop. The key insight is that <strong>pedagogical authority resides with the teacher</strong>, and AI's role is to expand the range and depth of actionable comments they can craft.^<a href="pages/becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/mindcopilot-llm-co-writing.html">mindcopilot-llm-co-writing</a> — Hierarchical acceptance rates offer template for evaluating collaborative feedback</li></ul>
+<ul><li><a href="pages/moodle-ai-tutoring-deep-learning.html">moodle-ai-tutoring-deep-learning</a> — Shares strategy of embedding AI tools into existing educational workflows</li></ul>
+<ul><li><a href="pages/multimodal-ai-feedback-learning.html">multimodal-ai-feedback-learning</a> — Zhao et al.: extends feedback systems to multimodal delivery with equivalent learning outcomes</li></ul>
+<ul><li><a href="pages/sequenced-ai-feedback-learning.html">sequenced-ai-feedback-learning</a> — Cao et al. RCT: feedback sequencing matters — layered hints can induce gaming behavior</li></ul>
+-
+<ul><li><a href="pages/psyscore-essay-scoring-zpd-feedback.html">psyscore-essay-scoring-zpd-feedback</a> -- PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback</li></ul>
+<ul><li><a href="pages/student-perception-ai-use-collaboration.html">student-perception-ai-use-collaboration</a> -- Misalignment in partners' beliefs about each other's AI use early in a project predicts lower final scores — especially for low-performing teams — and face-to-face sessions don't fix it.</li></ul></p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/aicode-collaborative-feedback-system.html">aicode-collaborative-feedback-system</a> — Multi-LLM deployed system with teacher-in-the-loop- <a href="pages/llm-reasoning-traces-metacognition.html">llm-reasoning-traces-metacognition</a> — AI feedback traces may inflate confidence without improving performance</li></ul>
+<ul><li><a href="pages/humanlike-ai-collaborative-writing.html">humanlike-ai-collaborative-writing</a> — Social dynamics of humanlike AI in writing feedback</li></ul>
+<ul><li><a href="pages/codify-socratic-programming-tutor.html">codify-socratic-programming-tutor</a> — Codify complements feedback systems with Socratic discovery approach</li></ul></p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>
