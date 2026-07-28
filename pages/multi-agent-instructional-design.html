@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Agent Systems for Instructional Design - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>Multi-Agent Systems for Instructional Design</h1>
+        <div class="metadata">Created: 2026-05-08 | Tags: <a href="../index.html?tag=agentic-workflows" class="tag">agentic-workflows</a><a href="../index.html?tag=ai-literacy" class="tag">ai-literacy</a><a href="../index.html?tag=k-12" class="tag">k-12</a><a href="../index.html?tag=human-in-the-loop" class="tag">human-in-the-loop</a><a href="../index.html?tag=pedagogical-safety" class="tag">pedagogical-safety</a></div>
+    </header>
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2508.16659">arXiv:2508.16659</a> · <a href="raw/papers/2508.16659.md">local</a></p><p>> Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators.</p><p><h2>The Prompting Gap in K-12 Education</h2></p><p><strong>Wang et al. (2025)</strong> address a critical problem: <strong>60% of K-12 teachers</strong> now use AI for teaching tasks, but most lack the expertise to prompt effectively for high-quality instructional materials.</p><p><h3>The Problem</h3>
+<ul><li><strong>Commercial LLMs</strong> (ChatGPT, Gemini) lack embedded pedagogical theory</li></ul>
+<ul><li><strong>Simple prompts</strong> produce shallow, misaligned, or inconsistent materials ("a mile high and an inch deep")</li></ul>
+<ul><li><strong>Advanced prompt engineering</strong> requires time/expertise most teachers don't have</li></ul></p><p><h3>The Solution</h3>
+Shift pedagogical expertise from <strong>user's prompt</strong> to <strong>LLM's internal architecture</strong> by embedding learning sciences principles directly into multi-agent systems.</p><p><h2>Three Systems Compared</h2></p><p>| System | Architecture | KLI Integration | Teacher Preference |
+|--------|--------------|-----------------|-------------------|
+| <strong>SAS</strong> (Single-Agent) | Baseline: simple "Generate learning activity" prompt | None (naive) | Lowest: "needs lots of editing" |
+| <strong>MAS-Roles</strong> | 5-agent sequential pipeline (KC → Learning → Instruction → Design → Feedback) | Embedded in agent roles | Middle: "generic, impersonal" |
+| <strong>MAS-CMD</strong> | 3-agent collaborative with conquer-merge discussion (Behaviorist, Constructivist, Aesthetic personas) | Collaborative discussion | <strong>Highest: "fantastic, creative, classroom-ready"</strong> |</p><p><h2>Key Findings</h2></p><p><h3>Quantitative Results (QM K-12 Rubric)</h3>
+<ul><li><strong>Small differences:</strong> Statistical significance only on criterion 5.2 (p = .014)</li></ul>
+<ul><li><strong>Low expert agreement:</strong> Fleiss' κ ≈ 0 (poor to slight agreement across all criteria)</li></ul>
+<ul><li><strong>Trend:</strong> MAS-CMD > SAS > MAS-Roles (but not always statistically significant)</li></ul></p><p><h3>Qualitative Results (20 Practicing Teachers)</h3>
+<strong>MAS-CMD praised for:</strong>
+<ul><li><strong>Creativity:</strong> "Fantastic ideas," "so creative"</li></ul>
+<ul><li><strong>Real-world context:</strong> Urban planning theme made geometry "meaningful"</li></ul>
+<ul><li><strong>Completeness:</strong> Included worksheets, exit tickets, teacher dialogue</li></ul></p><p><strong>Common critique:</strong> Pacing issues ("a lot to unpack," needs to be "broken up into some days")</p><p><h3>Efficiency Trade-off</h3>
+| System | Time (s) | Tokens (k) | Requests |
+|--------|-----------|-------------|----------|
+| SAS | 25 ± 16 | ~3.4 | 1 |
+| MAS-Roles | ~75 | ~24 | 5 |
+| MAS-CMD | 272 ± 168 | ~71.6 | 13 |</p><p><strong>Finding:</strong> Highest quality requires ~11× more tokens and ~10× more time than baseline.</p><p><h2>Knowledge–Learning–Instruction (KLI) Framework</h2></p><p>The KLI framework (Koedinger et al., 2012) aligns three elements:
+1. <strong>Knowledge Components (KCs):</strong> Facts, concepts, principles, procedures
+2. <strong>Learning Processes:</strong> Memory/fluency, induction/refinement, understanding/sense-making
+3. <strong>Instructional Principles:</strong> Spacing, testing, worked examples, prompted self-explanation</p><p><strong>Embedding KLI into MAS:</strong>
+<ul><li><strong>MAS-Roles:</strong> Sequential pipeline where each agent embodies one KLI component</li></ul>
+<ul><li><strong>MAS-CMD:</strong> Collaborative discussion among agents with different pedagogical personas</li></ul></p><p><h2>Connection to Existing Work</h2></p><p><h3>vs. <a href="pages/principled-ai-education.html">Principled AI Education</a></h3>
+<ul><li>Both emphasize: <strong>augment, don't displace</strong> learning sciences with AI</li></ul>
+<ul><li>KLI framework operationalizes "educational goals → learning models → technology"</li></ul>
+<ul><li><strong>Complementary:</strong> Principled AI sets the framework; this paper implements it via MAS</li></ul></p><p><h3>vs. <a href="pages/agentic-workflows-education.html">Agentic Workflows</a></h3>
+<ul><li><strong>Multi-agent collaboration:</strong> MAS-CMD's conquer-merge discussion exemplifies agentic <strong>planning + reflection</strong></li></ul>
+<ul><li><strong>Teacher as beneficiary:</strong> Unlike agentic tutoring (where students interact with agents), here agents serve <em>teachers</em> as instructional design assistants</li></ul>
+<ul><li><strong>Scalability:</strong> MAS offers "scalable path for creating high-quality educational content"</li></ul></p><p><h3>vs. <a href="pages/teachbench-llm-teaching-evaluation.html">TeachBench</a></h3>
+<ul><li><strong>Complementary paradigms:</strong> TeachBench evaluates <em>teaching ability</em>; this paper <em>designs instructional materials</em></li></ul>
+<ul><li><strong>Both use agents:</strong> TeachBench (teacher-student agents); this paper (instructional designer agents)</li></ul>
+<ul><li><strong>Both find:</strong> Raw solving ≠ pedagogical quality; structured frameworks needed</li></ul></p><p><h2>Implications for AI in Education</h2></p><p><h3>For Tool Developers</h3>
+<ul><li><strong>Embed pedagogy:</strong> Don't rely on teachers to "prompt in" pedagogical quality</li></ul>
+<ul><li><strong>Multi-agent > single-agent:</strong> Collaborative discussion produces more creative, contextual outputs</li></ul>
+<ul><li><strong>Trade-off awareness:</strong> Highest quality requires computational cost; offer tierd options</li></ul></p><p><h3>For K-12 Educators</h3>
+<ul><li><strong>Beyond chatbots:</strong> Specialized MAS tools can provide "print-ready" materials</li></ul>
+<ul><li><strong>Teacher remains central:</strong> AI as "instructional partner," not replacement</li></ul>
+<ul><li><strong>Time savings:</strong> Weekly AI users save ~5.9 hours/week; quality tools amplify this</li></ul></p><p><h3>For Researchers</h3>
+<ul><li><strong>Evaluation challenge:</strong> Low expert agreement (κ ≈ 0) suggests need for better rubrics</li></ul>
+<ul><li><strong>Quality ≠ rubric scores:</strong> Teachers' qualitative preferences didn't always match statistical significance</li></ul>
+<ul><li><strong>KLI as design principle:</strong> Learning sciences frameworks can be operationalized in AI architectures</li></ul></p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/agentic-ai-ecosystems-higher-education.html">agentic-ai-ecosystems-higher-education</a> — Multi-agent AI coordination for instructional design</li></ul>
+<ul><li><a href="pages/agentic-workflows-education.html">agentic-workflows-education</a> — Multi-agent collaboration and discussion paradigms</li></ul>
+<ul><li><a href="pages/principled-ai-education.html">principled-ai-education</a> — Framework for applying learning sciences to AI</li></ul>
+<ul><li><a href="pages/human-in-the-loop-ai.html">human-in-the-loop-ai</a> — Teacher evaluation and feedback on AI-generated materials</li></ul>
+<ul><li><a href="pages/ai-literacy.html">ai-literacy</a> — Helping educators use AI tools effectively</li></ul>
+<ul><li><a href="pages/faculty-development-genai.html">faculty-development-genai</a> — K-12 teachers' AI adoption patterns</li></ul>
+<ul><li><a href="pages/formative-assessment.html">formative-assessment</a> — Assessment design in learning activities</li></ul>
+<ul><li><a href="pages/metacognition.html">metacognition</a> — Learning processes: memory, induction, understanding</li></ul>
+<ul><li><a href="pages/teachbench-llm-teaching-evaluation.html">teachbench-llm-teaching-evaluation</a> — Complementary: teaching ability vs. material design</li></ul>
+<ul><li><a href="pages/lecturaagents-multi-agent-teaching.html">lecturaagents-multi-agent-teaching</a> — LecturaAgents</li></ul></p><p><h2>Sources</h2>
+<ul><li>Wang, Jiayi et al. (2025). <em>Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design</em>. arXiv:2508.16659. <a href="https://arxiv.org/pdf/2508.16659">PDF</a></li></ul></p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

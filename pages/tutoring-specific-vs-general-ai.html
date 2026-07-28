@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutoring-Specific vs. General-Purpose AI in Education - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>Tutoring-Specific vs. General-Purpose AI in Education</h1>
+        <div class="metadata">Created: 2026-05-07 | Tags: <a href="../index.html?tag=intelligent-tutoring" class="tag">intelligent-tutoring</a><a href="../index.html?tag=llm" class="tag">llm</a><a href="../index.html?tag=generative-ai" class="tag">generative-ai</a><a href="../index.html?tag=personalized-learning" class="tag">personalized-learning</a><a href="../index.html?tag=scaffolding" class="tag">scaffolding</a><a href="../index.html?tag=adaptive-learning" class="tag">adaptive-learning</a></div>
+    </header>
+    <main class="container"><p>> 📄 Full text: <a href="https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf">Stanford SCALE</a> · <a href="raw/papers/stanford-evidence-base-ai-k12-2026.md">local</a></p><p>> The single most consistent finding in the 2026 Stanford SCALE review: <strong>pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots</strong> on durable learning outcomes.^<a href="pages/stanford-evidence-base-ai-k12-2026.html">stanford-evidence-base-ai-k12-2026</a></p><p><h2>The Core Distinction</h2></p><p>| Dimension | General-Purpose AI (e.g., ChatGPT, Gemini) | Tutoring-Specific AI |
+|---|---|---|
+| <strong>Interaction model</strong> | Open-ended Q&A; completes tasks on request | Structured hints, Socratic questioning, step-by-step scaffolds |
+| <strong>Cognitive load</strong> | Reduces <em>all</em> load, including germane (productive) load | Reduces extraneous load while preserving productive struggle |
+| <strong>ZPD targeting</strong> | Often operates outside the <a href="pages/zone-of-proximal-development\.html">zone of proximal development</a> | Explicitly calibrated to learner readiness |
+| <strong>Metacognitive demand</strong> | Low — AI does the reasoning | High — learner must reason with guidance |
+| <strong>Transfer evidence</strong> | Mixed to negative when tool is removed | More promising (limited causal data) |</p><p><h2>Evidence from the Causal Literature</h2></p><p><h3>General-Purpose AI: Mixed or Negative Transfer</h3></p><p><ul><li><strong>Bastani et al. (2025):</strong> High schoolers using a general-purpose chatbot for math practice scored <strong>~17% worse</strong> on closed-book final exams than peers with no AI access, despite higher practice grades.^<a href="pages/stanford-evidence-base-ai-k12-2026.html">stanford-evidence-base-ai-k12-2026</a></li></ul>
+<ul><li><strong>Lehmann et al. (2025):</strong> General-purpose AI for programming increased topics covered but <strong>harmed understanding</strong> and widened achievement gaps for low-prior-knowledge students.</li></ul>
+<ul><li><strong>Stadler et al. (2024):</strong> General-purpose AI produced <strong>lower-quality reasoning and argumentation</strong> vs. traditional search.</li></ul>
+<ul><li><strong>Kosmyna et al. (2025):</strong> AI essay assistance led to <strong>83% of participants failing to recall a quote</strong> from their own essay, vs. 11% for non-AI users.</li></ul></p><p><h3>Tutoring-Specific AI: Better Outcomes</h3></p><p><ul><li><strong>Bastani et al. (2025):</strong> A tutoring-specific chatbot with pedagogical guardrails (<strong>hints, step-by-step reasoning, misconception targeting</strong>) <strong>mitigated the exam score drop</strong> observed with general-purpose GPT. General-purpose GPT Base caused the drop; the tutoring variant prevented it.</li></ul>
+<ul><li><strong>Kreijkes et al. (2026):</strong> Retention improved when AI use was <strong>paired with traditional strategies</strong> like note-taking — suggesting that friction-preserving designs matter.</li></ul></p><p><h2>Why This Happens: Learning Science Mechanisms</h2></p><p>1. <strong>Desirable difficulties</strong> — General-purpose AI removes productive struggle; tutoring tools preserve it via graduated hints.
+2. <strong>Germane load</strong> — Effective learning requires processing that feels effortful. General AI short-circuits this. See <a href="pages/cognitive-load-theory.html">cognitive-load-theory</a>.
+3. <strong>Metacognition suppression</strong> — When AI completes reasoning, students lose practice in monitoring their own understanding.
+4. <strong>Expertise reversal</strong> — Novices need scaffolding, not answers. General AI gives answers; tutoring AI gives scaffolds.</p><p><h2>Important Caveats</h2></p><p><ul><li>The causal comparison base is <strong>tiny</strong> (most studies are single-condition AI-access vs. no-access, not head-to-head tutoring vs. general).</li></ul>
+<ul><li>"Tutoring-specific" is not yet a standardized design category — implementations vary widely.</li></ul>
+<ul><li>Long-term transfer data (months or years out) is essentially absent.</li></ul></p><p><h2>Implications for Practitioners</h2></p><p><ul><li><strong>For tool selection:</strong> Favor products with explicit pedagogical guardrails (hints, Socratic mode, step-by-step requirements) over raw LLM access.</li></ul>
+<ul><li><strong>For policy:</strong> School/district procurement criteria should distinguish between "AI-integrated" tools (tutoring-specific) and "AI-access" tools (general chatbox).</li></ul>
+<ul><li><strong>For research:</strong> Head-to-head RCTs comparing pedagogically designed AI vs. raw LLM access on delayed post-tests are urgently needed.</li></ul></p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/difficulty-aware-dialogue-kt.html">difficulty-aware-dialogue-kt</a> — General LLMs reframed as psychometric instruments through IRT mapping</li></ul>
+<ul><li><a href="pages/genai-meta-analysis-programming-learning.html">genai-meta-analysis-programming-learning</a> — Productivity gains vs. learning outcomes across general AI tools</li></ul>
+<ul><li><a href="pages/nsmq-riddles-science-math-benchmark.html">nsmq-riddles-science-math-benchmark</a> — LLMs underperform top students, reinforcing specialized tutoring needs</li></ul>
+<ul><li><a href="pages/moodle-ai-tutoring-deep-learning.html">moodle-ai-tutoring-deep-learning</a> — Shows how general LLMs can be scaffolded into tutoring roles</li></ul>
+<ul><li><a href="pages/critical-thinking-genai-scaffolding.html">critical-thinking-genai-scaffolding</a> — Vendrell & Johnston (2026): eight design principles for scaffolding critical thinking with LLMs in higher education.</li></ul>
+<ul><li><a href="pages/ai-learning-companions-framework.html">ai-learning-companions-framework</a> — three-foundation framework for AI learning companions prioritizing durable learning over performance</li></ul>
+<ul><li><a href="pages/ai-tutor-behavioral-evaluation.html">ai-tutor-behavioral-evaluation</a> — behavioral evaluation axis for AI tutors — measuring what students actually do with feedback</li></ul>
+<ul><li><a href="pages/ai-literacy.html">ai-literacy</a> — Students should know whether they interact with a general LLM or pedagogical system</li></ul>
+<ul><li><a href="pages/ai-k12-evidence-base.html">ai-k12-evidence-base</a> — The broader evidence landscape</li></ul>
+<ul><li><a href="pages/ai-learning-transfer.html">ai-learning-transfer</a> — Durability of gains when AI is removed</li></ul>
+<ul><li><a href="pages/multimodal-ai-tutoring.html">multimodal-ai-tutoring</a> — Structured dialogue as tutoring-specific intervention in STEM</li></ul>
+<ul><li><a href="pages/collaborative-ai-tutoring.html">collaborative-ai-tutoring</a> — ProPACT's proactive dyadic scaffolds (tutoring-specific design)</li></ul>
+<ul><li><a href="pages/knowledge-tracing-irt.html">knowledge-tracing-irt</a> — Explicit ability/difficulty calibration for tutoring</li></ul>
+<ul><li><a href="pages/metacognition.html">metacognition</a> — How tutoring-specific design preserves metacognitive demand vs. general AI suppression</li></ul>
+<ul><li><a href="pages/self-regulated-learning.html">self-regulated-learning</a> — The SRL framework and AI's role in scaffolding or displacing regulation</li></ul>
+<ul><li><a href="pages/ai-tutor-safety-harms.html">ai-tutor-safety-harms</a> — SafeTutors taxonomy: pedagogical harms from "helpful" general-purpose AI</li></ul>
+<ul><li><a href="pages/llm-fallacy-misattribution.html">llm-fallacy-misattribution</a> — Students misattributing AI-generated outputs as their own competence</li></ul>
+<ul><li><a href="pages/pedagogical-llm-training.html">pedagogical-llm-training</a> — Training methods (EduQwen) that align models with tutoring-specific design</li></ul>
+<ul><li><a href="pages/educational-llm-alignment.html">educational-llm-alignment</a> — Why general LLMs fail on tutoring impact despite benchmark success</li></ul>
+<ul><li><a href="pages/educational-vlm-evaluation.html">educational-vlm-evaluation</a> — Visual tutoring-specific design for STEM work</li></ul>
+<ul><li><a href="pages/agentic-workflows-education.html">agentic-workflows-education</a> — Agentic paradigms that embed tutoring-specific guardrails</li></ul>
+<ul><li><a href="pages/zone-of-proximal-development.html">zone-of-proximal-development</a> — <em>(create when second source emerges)</em></li></ul></p><p><ul><li><a href="pages/quantum-education-its.html">quantum-education-its</a> — Domain-specific vs. general-purpose tutoring design</li></ul></p><p><ul><li><a href="pages/ai-metacognition-stem-review.html">ai-metacognition-stem-review</a> — Domain-specific tutoring (ITS) vs. generic chatbots for metacognitive scaffolding</li></ul></p><p><h2>Sources</h2>
+<ul><li>Stanford SCALE (2026). <em>The Evidence Base on AI in K-12: A 2026 Review</em>. <a href="https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf">PDF</a></li></ul></p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/hybrid-human-ai-tutoring-differentiated.html">hybrid-human-ai-tutoring-differentiated</a> — Human component remains differentiable alongside AI</li></ul></p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

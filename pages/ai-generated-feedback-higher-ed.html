@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Artificial intelligence and feedback in university education: effectiveness and student perceptions" - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>"Artificial intelligence and feedback in university education: effectiveness and student perceptions"</h1>
+        <div class="metadata">Created: 2026-07-19 | Tags: <a href="../index.html?tag=generative-ai" class="tag">generative-ai</a><a href="../index.html?tag=feedback-loop" class="tag">feedback-loop</a><a href="../index.html?tag=higher-ed" class="tag">higher-ed</a><a href="../index.html?tag=student-experience" class="tag">student-experience</a><a href="../index.html?tag=learning-gains" class="tag">learning-gains</a><a href="../index.html?tag=formative-assessment" class="tag">formative-assessment</a><a href="../index.html?tag=ai-literacy" class="tag">ai-literacy</a></div>
+    </header>
+    <main class="container"><p><strong>Valentina Grion (Pegaso Telematic University), Beatrice Doria (Pegaso Telematic University), Daniele Agostini (University of Trento), Giorgia Slaviero (University of Padua) (2026)</strong> — <em>Assessment & Evaluation in Higher Education</em> (Taylor & Francis). Open Access, CC BY 4.0. doi:10.1080/02602938.2026.2697962.</p><p>📄 <a href="https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2697962">Full text (Taylor & Francis, OA)</a> — open supplementary materials (rubric, assignment, AI prompt protocol, anonymised datasets) at <a href="https://doi.org/10.5281/zenodo.20814177">Zenodo 20814177</a></p><p><h2>Summary</h2></p><p>This quasi-experimental study directly compares <strong>AI-generated feedback</strong> (two LLMs: <strong>GPT-o4-mini</strong> and <strong>DeepSeek R1</strong>) with <strong>expert human-teacher feedback</strong> in a project-based university course (Assessment & Learning, third-year Primary Teacher Education, University of Padua). The central question is not "is AI feedback worse?" but <em>under what pedagogical conditions</em> AI feedback can be a credible, educationally meaningful component of formative assessment. The answer the authors land on: <strong>feedback effectiveness depends less on its source than on the pedagogical architecture in which it is embedded</strong> — strong assessment literacy and explicit, shared criteria make AI feedback comparable to teacher feedback.</p><p><h2>Method (key parameters)</h2>
+<ul><li><strong>Design:</strong> 47 student groups (N = 238; 146 attending, 92 non-attending) randomly assigned to one of three feedback conditions — DeepSeek R1 (16 groups), expert human teacher (16), GPT-o4-mini (15). Unit of analysis = group (4–5 students each) to preserve independence.</li></ul>
+<ul><li><strong>Task:</strong> Two-stage project (PRE then POST), evaluated with a shared analytic rubric (0–30 points) co-constructed with students.</li></ul>
+<ul><li><strong>AI prompt design:</strong> Both LLMs were given all course materials plus an assignment brief, the pedagogical framework, and the co-constructed rubric via a <strong>Retrieval-Augmented Generation (RAG)</strong> setup; instructed to act as a university professor and give objective, justified, actionable formative feedback. The rubric + an exemplar functioned as a "calibration device" that transferred the teacher's evaluative expectations into the AI.</li></ul>
+<ul><li><strong>Analyses:</strong> Wilcoxon signed-rank (PRE–POST), Kruskal–Wallis across sources, robust linear models (HC3) for attendance moderation, and — crucially — <strong>non-inferiority and equivalence tests</strong> (Welch-adjusted 90% CIs, pre-specified margin ±1 point on the 30-point scale), because non-significant differences don't imply practical equivalence.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</li></ul></p><p><h2>Key Findings</h2></p><p><h3>RQ1 — Feedback improves performance regardless of source</h3>
+Across all 47 groups, project performance rose significantly from PRE to POST (Wilcoxon W = 1081, p < 0.001, rank-biserial rrb = 0.77 — a large effect); mean score +3.9 points (23.81 → 27.70), with post-test scores converging near the ceiling (median 28).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h3>RQ2 — No significant difference between feedback sources</h3>
+Post-feedback scores did <strong>not</strong> differ by source (Kruskal–Wallis H(2) = 1.91, p = 0.384, ε² = 0.042); gain scores likewise non-significant (H(2) = 0.74, p = 0.690). Pairwise Hodges–Lehmann contrasts all had CIs spanning zero.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h3>RQ3 — Attendance doesn't matter</h3>
+Robust linear model: no main effect of attendance (F(1,41) = 1.52, p = 0.225), no source × attendance interaction (F(2,41) = 0.97, p = 0.389).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h3>RQ4 — AI feedback is practically comparable to teacher feedback</h3>
+| Comparison (AI − Teacher) | Mean diff | 90% CI | Non-inferior? | Equivalent? |
+| --- | --- | --- | --- | --- |
+| <strong>GPT-o4-mini</strong> vs Teacher | +0.23 | [−0.46, 0.91] | <strong>Yes</strong> | <strong>Yes</strong> |
+| <strong>DeepSeek R1</strong> vs Teacher | +0.56 | [−0.05, 1.18] | <strong>Yes</strong> | No (upper bound exceeds +1) |</p><p>Same pattern on baseline-adjusted gains (DIFF_ADJ). <strong>GPT-o4-mini met both non-inferiority and full equivalence</strong>; <strong>DeepSeek R1 met non-inferiority</strong> (practically comparable, but with more uncertainty).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h3>Student perceptions — equally positive across sources</h3>
+Validated 19-item questionnaire (N = 200; scales: perceived mastery α = 0.81, positive emotions α = 0.85, negative emotions α = 0.73). Students were <strong>blind</strong> to feedback source. No significant differences across conditions on any scale:
+<ul><li>Perceived mastery: M ≈ 4.14–4.22 (high)</li></ul>
+<ul><li>Positive emotions: M ≈ 3.99–4.21</li></ul>
+<ul><li>Negative emotions: M ≈ 1.22–1.39 (low)</li></ul>
+<ul><li>Overall satisfaction: ~98% (DeepSeek 97.5%, teacher 94%, GPT-o4-mini 100%) — analysed descriptively due to ceiling.</li></ul></p><p>AI-generated feedback was experienced as acceptable and supportive, comparable to teacher feedback.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h2>Interpretation: Source vs. Architecture</h2>
+The authors' core argument: <strong>feedback works as a systemic, relational process, not a function of who (or what) produces it.</strong> In this study both AI and teacher feedback were anchored to the <em>same explicit rubric and student co-constructed exemplar</em>, which made criteria transparent and gave the AI an "interpretative anchor" usually tacit in human grading. It is the <strong>teacher's assessment literacy</strong> — encoded in the rubric and exemplar — that calibrated the AI, not the model alone. Thus generative AI is best seen as a <strong>support for teachers with strong assessment literacy</strong> (scaling timeliness/consistency) rather than an autonomous replacement. The study explicitly warns against over-reliance and unequal access, and calls for maintaining teacher oversight and students' critical engagement.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h2>Limitations (per authors)</h2>
+<ul><li><strong>Ceiling effect:</strong> 91% of groups scored ≥27/30 (SD = 0.95) — limits sensitivity of post-test comparisons; equivalence rests mainly on adjusted-gain analyses.</li></ul>
+<ul><li><strong>Small group-level N = 47</strong> → wide CIs; modest source differences can't be fully ruled out.</li></ul>
+<ul><li><strong>No prior-AI-experience data</strong> collected; single course / discipline (Primary Teacher Education); <strong>student assessment literacy not measured</strong> (treated as a hypothesis, not tested).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</li></ul></p><p><h2>Implications for the wiki</h2>
+<ul><li>A strong, well-controlled (randomised, blind, equivalence-tested) data point that <strong>AI-generated feedback can match expert teacher feedback</strong> for project-based learning <strong>when criteria are explicit and assessment literacy is high</strong> — complementing <a href="pages/ai-feedback-quality.html">ai-feedback-quality</a> and <a href="pages/ai-learning-companions-framework.html">ai-learning-companions-framework</a> work.</li></ul>
+<ul><li>Pairs naturally with <a href="pages/generative-ai-guardrails-harm-learning.html">generative-ai-guardrails-harm-learning</a> (the PNAS RCT): that study shows <em>unguarded</em> AI tutoring can <em>harm</em> learning, this one shows <em>well-architected</em> AI feedback can <em>match</em> teachers — together they bracket the design-dependence of AIED outcomes.</li></ul>
+<ul><li>Reinforces <a href="pages/formative-assessment.html">formative-assessment</a>, <a href="pages/feedback-loop.html">feedback-loop</a>, and <a href="pages/ai-literacy.html">ai-literacy</a> (teacher and student) as the decisive variables, over the raw tool.</li></ul>
+<ul><li>Connects to <a href="pages/rag.html">retrieval-augmented generation</a> as a calibration mechanism and to <a href="pages/over-reliance.html">over-reliance</a> (the authors flag it as a risk even in a positive-result study).</li></ul></p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/ai-feedback-quality.html">ai-feedback-quality</a> — Quality/validity of AI-generated feedback relative to experts</li></ul>
+<ul><li><a href="pages/feedback-loop.html">feedback-loop</a> — Feedback as a dynamic, relational process</li></ul>
+<ul><li><a href="pages/formative-assessment.html">formative-assessment</a> — The assessment context where AI feedback was tested</li></ul>
+<ul><li><a href="pages/generative-ai-guardrails-harm-learning.html">generative-ai-guardrails-harm-learning</a> — Contrast case: unguarded AI tutoring <em>harms</em> learning; design is decisive</li></ul>
+<ul><li><a href="pages/higher-ed.html">higher-ed</a> — Deployment context (university)</li></ul>
+<ul><li><a href="pages/student-experience.html">student-experience</a> — Blind perception comparisons across sources</li></ul>
+<ul><li><a href="pages/learning-gains.html">learning-gains</a> — PRE–POST performance improvement</li></ul>
+<ul><li><a href="pages/ai-literacy.html">ai-literacy</a> — Teacher (and student) assessment literacy as the calibrating condition</li></ul>
+<ul><li><a href="pages/scaffolding.html">scaffolding</a> — Explicit criteria/exemplars as the enabling structure</li></ul>
+<ul><li><a href="pages/rag.html">rag</a> — RAG used to anchor AI feedback in course materials and rubric</li></ul>
+<ul><li><a href="pages/repeated-ai-writing-feedback-semester.html">repeated-ai-writing-feedback-semester</a> — Semester-long student evaluation of repeated GenAI writing feedback (n=283).</li></ul></p><p><h2>Citation</h2>
+<strong>APA:</strong> Grion, V., Doria, B., Agostini, D., & Slaviero, G. (2026). Artificial intelligence and feedback in university education: effectiveness and student perceptions. <em>Assessment & Evaluation in Higher Education</em>. https://doi.org/10.1080/02602938.2026.2697962</p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education" - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>"Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education"</h1>
+        <div class="metadata">Created: 2026-05-16 | Tags: <a href="../index.html?tag=intelligent-tutoring" class="tag">intelligent-tutoring</a><a href="../index.html?tag=llm" class="tag">llm</a><a href="../index.html?tag=generative-ai" class="tag">generative-ai</a><a href="../index.html?tag=scaffolding" class="tag">scaffolding</a><a href="../index.html?tag=formative-assessment" class="tag">formative-assessment</a><a href="../index.html?tag=higher-ed" class="tag">higher-ed</a></div>
+    </header>
+    <main class="container"><p><strong>Jain, Bhatt, Pitts, Pandya, Brusilovsky, Norouzi, Hellas, Leinonen & Akram (2026)</strong> — University of Pittsburgh, Aalto University, UC San Diego. Accepted to BEA 2026 (co-located with ACL 2026).</p><p>📄 <a href="https://arxiv.org/abs/2605.12988">Full text (arXiv)</a></p><p><h2>Synthesis</h2></p><p>KITE (Knowledge-Informed Tutoring Engine) introduces a <a href="pages/intelligent-tutoring.html">intelligent-tutoring</a> architecture that grounds its responses in course materials through a multimodal <a href="pages/scaffolding.html">RAG pipeline</a>. Unlike generic LLM tutors that may drift from curriculum content, KITE retrieves relevant material — lecture slides, problem sets, code examples — before generating Socratic hints, guiding questions, and progressive scaffolds tailored to the student's current error.</p><p>The system's intent-aware Socratic response strategy builds on <a href="pages/socratic-ai-dialogue.html">socratic-ai-dialogue</a> principles but operationalizes them through retrieval: rather than relying on the model's parametric knowledge of how to tutor, KITE anchors every response in authoritative course content. This design addresses a key gap identified in <a href="pages/ai-tutor-effectiveness-review.html">ai-tutor-effectiveness-review</a> — that pedagogical quality alone is insufficient without content fidelity.</p><p>KITE was evaluated through three complementary lenses. RAGAs-based metrics confirmed response grounding and quality. Expert pedagogical review assessed the educational appropriateness of its Socratic scaffolding. Most innovatively, a simulated student pipeline — where a weaker LLM acts as a student across two-turn dialogues — measured whether KITE's <a href="pages/formative-assessment.html">feedback</a> actually improved follow-up accuracy on procedural and algorithm tracing questions. Results were positive: simulated students produced more accurate responses after receiving KITE feedback, particularly on tracing tasks where step-by-step reasoning is critical.</p><p>This work contributes to the growing literature on <a href="pages/llm-student-modeling-memory.html">LLM-based student modeling</a> by demonstrating that retrieval-augmented tutoring can maintain both pedagogical and content fidelity. It also connects to <a href="pages/programming-its.html">programming-its</a> research by targeting algorithmic reasoning specifically, and to <a href="pages/personalized-learning.html">personalized-learning</a> through its adaptive response strategies. The simulated student evaluation approach offers a replicable, low-cost methodology that could accelerate tutor development cycles — a theme also explored in <a href="pages/eduagentbench-agent-teaching-benchmark.html">eduagentbench-agent-teaching-benchmark</a> for broader tutor evaluation.</p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/clara-collaboration-literacy-dashboard.html">clara-collaboration-literacy-dashboard</a> — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy</li></ul>
+<ul><li><a href="pages/multimodal-affective-its-presentation.html">multimodal-affective-its-presentation</a> — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training</li></ul>
+<ul><li><a href="pages/structured-llm-feedback-programming.html">structured-llm-feedback-programming</a> — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance</li></ul></p><p><ul><li><a href="pages/codify-socratic-tutoring-programming.html">codify-socratic-tutoring-programming</a> — Broader-scope RAG tutoring platform with integrated gamification and assessment</li></ul>
+<ul><li><a href="pages/intelligent-tutoring.html">intelligent-tutoring</a> — Core paradigm for AI tutoring systems</li></ul>
+<ul><li><a href="pages/scaffolding.html">scaffolding</a> — Progressive support strategies central to KITE's design</li></ul>
+<ul><li><a href="pages/socratic-ai-dialogue.html">socratic-ai-dialogue</a> — Dialogic tutoring approach that KITE extends with retrieval</li></ul>
+<ul><li><a href="pages/programming-its.html">programming-its</a> — Related domain of intelligent tutoring for programming</li></ul>
+<ul><li><a href="pages/formative-assessment.html">formative-assessment</a> — Feedback methodology KITE operationalizes</li></ul>
+<ul><li><a href="pages/llm-student-modeling-memory.html">llm-student-modeling-memory</a> — Student modeling techniques relevant to adaptive tutoring</li></ul>
+<ul><li><a href="pages/eduagentbench-agent-teaching-benchmark.html">eduagentbench-agent-teaching-benchmark</a> — Complementary holistic evaluation framework</li></ul>
+<ul><li><a href="pages/ai-learning-transfer.html">ai-learning-transfer</a> — Learning outcomes that retrieval-grounded tutoring aims to improve</li></ul>
+<ul><li><a href="pages/didactical-teacher-assistant-dimensional-modeling.html">didactical-teacher-assistant-dimensional-modeling</a> — Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes </li></ul>
+<ul><li><a href="pages/genai-patient-education-transplant-handbooks.html">genai-patient-education-transplant-handbooks</a> — Grounding genAI patient-education assistants in institution-authored handbooks produces inconsistent</li></ul></p><p><h2>Citation</h2></p><p><strong>APA:</strong> Jain, M., Bhatt, T., Pitts, G., Pandya, A., Brusilovsky, P., Norouzi, N., Hellas, A., Leinonen, J., & Akram, B. (2026). <em>Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education</em>. arXiv:2605.12988. BEA 2026.</p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

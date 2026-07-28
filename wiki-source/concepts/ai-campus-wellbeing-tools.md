@@ -1,0 +1,41 @@
+---
+title: "AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention"
+created: 2026-05-16
+updated: 2026-05-16
+type: concept
+tags: [higher-ed, llm, generative-ai, student-experience, affective-computing, edtech-platform]
+sources: [raw/papers/2605.10804.md]
+confidence: medium
+---
+
+# AI-Driven Campus Well-being Tools
+
+**Tang (2026)** — PhD Dissertation, University of Missouri.
+
+📄 [Full text (arXiv)](https://arxiv.org/abs/2605.10804)
+
+## Synthesis
+
+This dissertation presents an integrated AI framework for campus well-being spanning prevention (improving feedback collection) and intervention (advancing mental health detection). It represents an important application of [[llm]] and [[generative-ai]] technologies to [[student-experience]] that extends beyond academic learning to holistic student support in [[higher-ed]].
+
+On the prevention side, **TigerGPT** — a personalized survey chatbot grounded in conversational design and engagement theory — achieved 75% usability and 81% satisfaction, demonstrating that AI-mediated feedback collection can improve on traditional survey instruments. **AURA**, an adaptive follow-up question framework using reinforcement learning, dynamically selects question types (validate, specify, reflect, probe) to deepen responses, achieving a +0.12 mean quality gain (p=0.044, d=0.66).
+
+On the intervention side, **PsychoGPT** provides explainable mental health assessment built on DSM-5 and PHQ-8 guidelines — a [[affective-computing]] application that prioritizes clinical grounding and interpretability over black-box classification. The **Stacked Multi-Model Reasoning (SMMR)** architecture reduces hallucination risk by layering expert models: early layers handle localized subtasks while later layers reconcile findings, outperforming single-model solutions on the DAIC-WOZ benchmark.
+
+The integrated framework — where adaptive survey insights flow into specialized mental health detection models — represents a novel [[edtech-platform]] architecture for campus well-being. For the [[administrator]] perspective, this work provides a concrete roadmap for universities seeking to deploy AI tools that monitor student satisfaction and detect mental health risks — areas where many institutions currently lack effective methods.
+
+## Related Pages
+
+- [[affective-text-wearable-student-health]] — Empirical evidence: ultra-brief affective text enriches wearable physiological data
+- [[higher-ed]] — Primary context for campus well-being applications
+- [[student-experience]] — Holistic student support beyond academics
+- [[llm]] — Core technology powering TigerGPT and PsychoGPT
+- [[affective-computing]] — Related domain for emotion/well-being AI applications
+- [[edtech-platform]] — Integrated AI platform architecture in education
+- [[administrator]] — Institutional adoption perspective
+- [[ai-literacy]] — Student and staff understanding of AI well-being tools
+- [[hallucination-risk]] — Addressed through the SMMR architecture
+
+## Citation
+
+**APA:** Tang, J. (2026). *New AI-Driven Tools for Enhancing Campus Well-being: A Prevention and Intervention Approach* [PhD Dissertation, University of Missouri]. arXiv:2605.10804.

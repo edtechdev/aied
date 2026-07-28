@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"Generative AI without guardrails can harm learning: Evidence from high school mathematics" - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>"Generative AI without guardrails can harm learning: Evidence from high school mathematics"</h1>
+        <div class="metadata">Created: 2026-07-19 | Tags: <a href="../index.html?tag=generative-ai" class="tag">generative-ai</a><a href="../index.html?tag=over-reliance" class="tag">over-reliance</a><a href="../index.html?tag=stem-education" class="tag">stem-education</a><a href="../index.html?tag=k-12" class="tag">k-12</a><a href="../index.html?tag=RCT" class="tag">RCT</a><a href="../index.html?tag=learning-gains" class="tag">learning-gains</a><a href="../index.html?tag=intelligent-tutoring" class="tag">intelligent-tutoring</a><a href="../index.html?tag=scaffolding" class="tag">scaffolding</a></div>
+    </header>
+    <main class="container"><p><strong>Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kurucu, Rehema Mushi (2025)</strong> — <em>Proceedings of the National Academy of Sciences (PNAS)</em>, 122(26). doi:10.1073/pnas.2422633122.</p><p>📄 <a href="https://www.pnas.org/doi/10.1073/pnas.2422633122">Full text (PNAS)</a> — RCT preregistered with the University of Pennsylvania IRB; anonymized data and code at <a href="https://github.com/obastani/GenAICanHarmLearning">github.com/obastani/GenAICanHarmLearning</a></p><p><h2>Summary</h2></p><p>This landmark field experiment is among the first randomized controlled trials to causally demonstrate that <strong>unguarded generative-AI tutoring can harm skill acquisition</strong>, not merely fail to help. Conducted with <strong>nearly 1,000 high-school math students</strong> across ~50 classes at a large school in Turkey (Fall 2023–2024), the study compares three arms assigned at the classroom level: a <strong>control</strong> arm (textbook/notes only), <strong>GPT Base</strong> (a ChatGPT-like GPT-4 chat interface), and <strong>GPT Tutor</strong> (GPT-4 with teacher-designed guardrails — hints instead of answers, plus the correct solution and common mistakes baked into the prompt). Each 90-minute session had three parts: a teacher lecture, an AI-assisted practice period (treatment only here), and an unassisted closed-book exam on conceptually similar problems.</p><p>The core finding: access to generative AI sharply improves <strong>performance</strong> during practice but, without guardrails, <strong>degrades learning</strong> once the tool is removed — a tradeoff driven by students using the AI as a "crutch" to copy answers rather than to learn.</p><p><h2>Key Findings</h2></p><p><h3>Performance vs. Learning Tradeoff (intention-to-treat)</h3>
+Relative to control (practice mean 0.284; exam mean 0.321, normalized grades):</p><p>| Arm | Assisted practice (perf) | Unassisted exam (learning) |
+| --- | --- | --- |
+| <strong>GPT Base</strong> | <strong>+48%</strong> (β = 0.137\<em>\</em>) | <strong>−17%</strong> (β = −0.054\*) |
+| <strong>GPT Tutor</strong> | <strong>+127%</strong> (β = 0.361\<em>\</em>) | ≈ 0 (β = −0.004, n.s.) |</p><p><ul><li>GPT Base significantly <strong>improves</strong> practice performance but <strong>significantly worsens</strong> later unassisted exam performance — students who never had AI access actually outperformed them.</li></ul>
+<ul><li>GPT Tutor's guardrails <strong>largely eliminate the learning harm</strong> (point estimate near zero), though they do not produce a positive learning effect either.^[raw/papers/pnas-2025-guardrails-harm-learning.md]</li></ul></p><p><h3>Mechanism: Students Use GPT Base as a Crutch</h3>
+Two candidate explanations for the harm were tested — (1) GPT Base's errors mislead students, and (2) students offload thinking by copying answers. The evidence strongly favors the second:
+<ul><li><strong>Error analysis:</strong> When GPT Base's logical-error rate on a practice problem is higher, it hurts <em>practice</em> performance but shows <strong>no spillover</strong> to the corresponding unassisted exam problem — so students aren't being systematically misled into exam errors.</li></ul>
+<ul><li><strong>Engagement analysis:</strong> Students in the GPT Base arm send far fewer messages and overwhelmingly just "ask for the answer" or restate the question (superficial conversations dominate). In the GPT Tutor arm, a growing share of conversations are <em>substantive</em> (asking for help, attempting answers independently), and this improves within the very first session.</li></ul>
+<ul><li>GPT Base answered correctly only <strong>51% of the time</strong> on the 57 practice problems (42% logical errors, 8% arithmetic errors) — yet students still copy its outputs.^[raw/papers/pnas-2025-guardrails-harm-learning.md]</li></ul></p><p><h3>Students Don't Perceive the Harm</h3>
+Students in the GPT Base arm performed <em>worse</em> on the exam but did <strong>not</strong> report learning or performing less; GPT Tutor users <em>perceived</em> they performed better than control even though exam scores were statistically indistinguishable. This perceived-vs-actual-learning mismatch parallels the "feeling of learning" literature and means self-report is an unreliable gauge of AI's learning impact.^[raw/papers/pnas-2025-guardrails-harm-learning.md]</p><p><h3>Secondary Results</h3>
+<ul><li><strong>Skill-gap narrowing is temporary:</strong> Both AI arms reduced grade dispersion (HHI) during practice (biggest help to weakest students), but the effect <strong>does not persist</strong> on the unassisted exam.</li></ul>
+<ul><li><strong>Limited heterogeneity:</strong> Little evidence of differential effects by student ability, resources, or effort on exam performance.</li></ul>
+<ul><li><strong>Robustness:</strong> Intention-to-treat (including noncompliers), alternative specifications, and absenteeism checks all confirm the pattern.^[raw/papers/pnas-2025-guardrails-harm-learning.md]</li></ul></p><p><h2>Design Lesson: What the Guardrails Did</h2>
+GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to <strong>give hints, not answers</strong>, and (2) it was seeded with <strong>teacher-authored problem-specific information</strong> (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive prompt design is what neutralized the crutch effect. The authors note GPT Tutor remains <em>passive</em> (it doesn't proactively probe misconceptions) and call for combining pedagogical software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.^[raw/papers/pnas-2025-guardrails-harm-learning.md]</p><p><h2>Implications</h2>
+<ul><li><strong>For the wiki:</strong> This is the strongest <em>causal, field-deployed</em> evidence for the <a href="pages/over-reliance.html">over-reliance</a> and <a href="pages/cognitive-offloading.html">cognitive-offloading</a> phenomena, and a direct, preregistered demonstration of the <a href="pages/genai-performance-vs-learning.html">genai-performance-vs-learning</a> distinction (performance ↑, learning ↓). It complements <a href="pages/generative-ai-reduced-study-time-math.html">generative-ai-reduced-study-time-math</a> (population-scale behavioral evidence) and <a href="pages/ai-assistance-reduces-persistence.html">ai-assistance-reduces-persistence</a> (lab causal evidence), and motivates <a href="pages/scaffolding.html">scaffolding</a> and <a href="pages/Socratic AI dialogue.html">Socratic AI dialogue</a> designs that preserve learning.</li></ul>
+<ul><li><strong>For practice/policy:</strong> Because ChatGPT-like tools are already widely used by students off-platform, the GPT Base harm is immediately relevant. Deployments where learning matters need explicit guardrails (hint-not-answer prompts, teacher-authored scaffolding, answer-checking).</li></ul></p><p><h2>Limitations (per authors)</h2>
+Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), short-term outcomes only; writing and other subjects lack the objective grading used here. Generalizability to newer models and other contexts requires further study.^[raw/papers/pnas-2025-guardrails-harm-learning.md]</p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/genai-performance-vs-learning.html">genai-performance-vs-learning</a> — The performance-vs-learning distinction this RCT causally demonstrates</li></ul>
+<ul><li><a href="pages/over-reliance.html">over-reliance</a> — The "crutch" mechanism quantified here in a real classroom</li></ul>
+<ul><li><a href="pages/cognitive-offloading.html">cognitive-offloading</a> — Closely related; offloading thinking to the AI</li></ul>
+<ul><li><a href="pages/generative-ai-reduced-study-time-math.html">generative-ai-reduced-study-time-math</a> — Population-scale (3.2M interactions) companion evidence of learning loss</li></ul>
+<ul><li><a href="pages/ai-assistance-reduces-persistence.html">ai-assistance-reduces-persistence</a> — Lab causal evidence that AI assistance impairs unassisted performance</li></ul>
+<ul><li><a href="pages/scaffolding.html">scaffolding</a> — Guardrail design that preserves learning</li></ul>
+<ul><li><a href="pages/Socratic AI dialogue.html">Socratic AI dialogue</a> — Hint-not-answer tutoring pattern embodied by GPT Tutor</li></ul>
+<ul><li><a href="pages/intelligent-tutoring.html">intelligent-tutoring</a> — Where guardrailed generative tutors fit</li></ul>
+<ul><li><a href="pages/k-12.html">k-12</a> / <a href="pages/stem-education.html">stem-education</a> — Deployment context (high-school math)</li></ul>
+<ul><li><a href="pages/RCT.html">RCT</a> — The study design used</li></ul>
+<ul><li><a href="pages/learning-gains.html">learning-gains</a> — The outcome harmed by GPT Base</li></ul>
+<ul><li><a href="pages/student-experience.html">student-experience</a> — Students' misperception of their own learning</li></ul></p><p><h2>Citation</h2>
+<strong>APA:</strong> Bastani, H., Bastani, O., Sungu, A., Ge, H., Kurucu, Ö., & Mushi, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. <em>Proceedings of the National Academy of Sciences</em>, 122(26). https://doi.org/10.1073/pnas.2422633122</p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

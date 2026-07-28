@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals" - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>"The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals"</h1>
+        <div class="metadata">Created: 2026-06-01 | Tags: <a href="../index.html?tag=intelligent-tutoring" class="tag">intelligent-tutoring</a><a href="../index.html?tag=llm" class="tag">llm</a><a href="../index.html?tag=benchmark" class="tag">benchmark</a><a href="../index.html?tag=efficacy-study" class="tag">efficacy-study</a><a href="../index.html?tag=automated-grading" class="tag">automated-grading</a><a href="../index.html?tag=formative-assessment" class="tag">formative-assessment</a></div>
+    </header>
+    <main class="container"><p><strong>Authors:</strong> Shim Jaechang, Unggi Lee (2026) — CIKM 2026</p><p><h2>What It Is</h2></p><p>TEI is a <strong>training-free, judge-free index</strong> that selects the best tutoring response from multiple LLM candidate outputs using only four internal conversation signals — no RL training, no external judge model, no reward model required.</p><p><h2>How It Works</h2></p><p>TEI combines four signals computed during decoding with fixed weights:</p><p><ul><li><strong>V (Verify ratio)</strong>: Regex over thinking trace counting Schoenfeld Verification keywords ("let me check", "verify", "double-check")</li></ul>
+<ul><li><strong>M̃ (Math-step density)</strong>: Regex on visible output, min-max normalized within candidate pool</li></ul>
+<ul><li><strong>Q (Ends-question rate)</strong>: Regex detecting if tutor turn ends with a question</li></ul>
+<ul><li><strong>D (Deep-reasoning gate)</strong>: Binary, fires if ≥40% of tokens have JSD below threshold</li></ul></p><p>Formula: <code>TEI(y) = 1.0·V + 0.75·M̃ - 1.0·Q + 0.5·1[DTR ≥ 0.4]</code></p><p>The signs matter more than magnitudes: reward verification and math content, penalize ending with questions, small bonus for deep reasoning.</p><p><h2>Key Results</h2></p><p><ul><li>TEI@8 raises improvement rate on pre-incorrect scenarios from <strong>59.0% to 81.9%</strong> (+22.9 pp) on frozen DeepSeek-R1-8B, with no training</li></ul>
+<ul><li>TEI@4 achieves 75.7%, beating both Random@4 (58.6%) and DTR@4 (61.2%)</li></ul>
+<ul><li>Feature ablation: dropping Verify costs -0.054 AUC, dropping Math-steps costs -0.036, dropping Deep-reasoning gate costs only -0.009</li></ul>
+<ul><li>TEI@8 costs 4.1× tokens of greedy (16,334 vs 3,984), about half of self-consistency</li></ul></p><p><h2>The Alignment Tax</h2></p><p>The paper quantifies severe degradation from pedagogical GRPO fine-tuning:
+<ul><li>Thinking length drops from 1,764 to 119 words/turn (−93%)</li></ul>
+<ul><li>Content-Knowledge accuracy falls by −71% relative</li></ul>
+<ul><li>Pedagogical-Knowledge accuracy falls by −80% relative</li></ul>
+<ul><li>Student Δ Solve Rate crosses from +0.180 to <strong>−0.012</strong> — the aligned tutor becomes detrimental</li></ul></p><p><h2>Why It Matters</h2></p><p>TEI demonstrates that simple lexical and structural signals can effectively steer a frozen LLM to be a much better math tutor without any training. This is especially valuable when RL fine-tuning is shown to catastrophically degrade tutoring quality. The approach is cost-effective and immediately deployable on frozen models.</p><p><h2>Open Questions</h2></p><p><ul><li>Does TEI generalize to non-math tutoring domains (writing, science, language)?</li></ul>
+<ul><li>Can the fixed weights be optimized per-domain without losing the training-free property?</li></ul>
+<ul><li>How does TEI interact with different base model architectures and sizes?</li></ul></p><p><h2>Related Pages</h2></p><p><ul><li><a href="pages/intelligent-tutoring-systems.html">intelligent-tutoring-systems</a> — TEI offers a lightweight alternative to RL-based tutor alignment</li></ul>
+<ul><li><a href="pages/llm-math-tutoring.html">llm-math-tutoring</a> — Directly evaluates and improves math tutoring with LLMs</li></ul>
+<ul><li><a href="pages/ai-feedback-quality.html">ai-feedback-quality</a> — Four-signal index provides a concrete quality metric for AI feedback</li></ul>
+<ul><li><a href="pages/reinforcement-learning-education.html">reinforcement-learning-education</a> — Quantifies the alignment tax of pedagogical RL</li></ul>
+<ul><li><a href="pages/benchmark-driven-edtech.html">benchmark-driven-edtech</a> — TEI is a benchmark-validated metric for tutor quality</li></ul>
+<ul><li><a href="pages/student-ai-interaction.html">student-ai-interaction</a> — Improvement rate on pre-incorrect scenarios measures real student outcomes</li></ul>
+<ul><li><a href="pages/learning-by-chatting-genai-impact.html">learning-by-chatting-genai-impact</a> — Output bias toward solution-oriented artifacts vs principled knowledge parallels tutor quality measures</li></ul></p><p><h2>Citation</h2></p><p><strong>APA:</strong> Jaechang, S., & Lee, U. (2026). <em>The tutoring effectiveness index: Predicting LLM math tutor quality from four conversation signals</em>. arXiv:2605.30666. CIKM 2026.</p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

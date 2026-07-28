@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"AcademiClaw: When Students Set Challenges for AI Agents" - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>"AcademiClaw: When Students Set Challenges for AI Agents"</h1>
+        <div class="metadata">Created: 2026-05-11 | Tags: <a href="../index.html?tag=benchmark" class="tag">benchmark</a><a href="../index.html?tag=higher-ed" class="tag">higher-ed</a><a href="../index.html?tag=llm" class="tag">llm</a><a href="../index.html?tag=generative-ai" class="tag">generative-ai</a><a href="../index.html?tag=student-experience" class="tag">student-experience</a></div>
+    </header>
+    <main class="container"><p><strong>Yu, Lu, Si et al. (77 authors, 2026)</strong> — Shanghai Jiao Tong University, SII, GAIR. Open-source benchmark.</p><p><h2>Core Contribution</h2></p><p><strong>AcademiClaw</strong> is a bilingual benchmark of <strong>80 complex, long-horizon tasks</strong> sourced from university students' real academic workflows — homework, research projects, competitions, and personal projects — that they found current AI agents unable to solve. It extends the OpenClaw ecosystem beyond assistant-level tasks into academic-level agent evaluation.</p><p><h2>Benchmark Design</h2></p><p><h3>Task Sourcing & Curation</h3>
+<ul><li><strong>230 student-submitted candidates</strong> → rigorous expert review → 80 final tasks</li></ul>
+<ul><li>Tasks are <em>authentic</em>: real problems students couldn't solve with current AI agents</li></ul>
+<ul><li><strong>25+ professional domains</strong>: olympiad-level math, linguistics, GPU-intensive RL, full-stack system debugging</li></ul>
+<ul><li><strong>16 tasks require CUDA GPU execution</strong> — testing hardware-accelerated AI capabilities</li></ul></p><p><h3>Execution & Scoring</h3>
+<ul><li>Each task runs in an <strong>isolated Docker sandbox</strong></li></ul>
+<ul><li>Scored by <strong>multi-dimensional rubrics</strong> using 6 complementary techniques</li></ul>
+<ul><li><strong>Independent 5-category safety audit</strong> provides behavioral analysis beyond task completion</li></ul>
+<ul><li>Bilingual (Chinese/English)</li></ul></p><p><h3>Key Results</h3>
+<ul><li><strong>6 frontier models</strong> tested</li></ul>
+<ul><li><strong>Best pass rate: 55%</strong> — no model exceeds this</li></ul>
+<ul><li>Sharp capability boundaries across task domains</li></ul>
+<ul><li>Divergent behavioral strategies between models</li></ul>
+<ul><li><strong>Disconnect between token consumption and output quality</strong> — more tokens ≠ better results</li></ul></p><p><h2>Why This Matters for AI in Education</h2></p><p>AcademiClaw flips the evaluation paradigm: instead of researchers designing artificial benchmarks, <strong>students define what AI agents should be able to do</strong>. This aligns evaluation with real educational needs:</p><p>1. <strong>Authentic task validity</strong>: Tasks reflect genuine academic workflows, not synthetic proxies
+2. <strong>Capability gap diagnosis</strong>: The 55% ceiling reveals where AI agents still fail students
+3. <strong>Token-output disconnect</strong>: Challenges the assumption that more compute solves academic problems — relevant to AI tutoring cost/benefit analysis
+4. <strong>Safety in academic contexts</strong>: The 5-category safety audit surfaces risks specific to educational AI deployment</p><p><h2>Connection to the Wiki</h2></p><p><ul><li><strong><a href="pages/teachbench-llm-teaching-evaluation.html">teachbench-llm-teaching-evaluation</a></strong>: Both are benchmarks evaluating AI in educational contexts — TeachBench for teaching quality, AcademiClaw for academic task completion</li></ul>
+<ul><li><strong><a href="pages/agentic-education-coding.html">agentic-education-coding</a></strong>: AcademiClaw tests agentic capabilities directly relevant to coding education workflows</li></ul>
+<ul><li><strong><a href="pages/ai-k12-evidence-base.html">ai-k12-evidence-base</a></strong>: AcademiClaw's rigorous multi-dimensional evaluation methodology models best practices for AI-in-education benchmarks</li></ul>
+<ul><li><strong><a href="pages/educational-vlm-evaluation.html">educational-vlm-evaluation</a></strong>: Shares the theme of evaluating AI capabilities on educationally-relevant tasks, complementing DrawEduMath's VLM focus</li></ul>
+<ul><li><strong><a href="pages/benchmark.html">benchmark</a></strong>: Directly contributes to the wiki's benchmark concept — AcademiClaw as an exemplar of student-sourced evaluation</li></ul>
+<ul><li><strong><a href="pages/programming-its.html">programming-its</a></strong>: Many AcademiClaw tasks involve programming; the benchmark provides a diagnostic framework for what programming ITS agents need to handle</li></ul>
+<ul><li><strong><a href="pages/automated-grading.html">automated-grading</a></strong>: The 6-technique rubric approach connects to automated assessment methodology</li></ul>
+<ul><li><strong><a href="pages/ai-learning-transfer.html">ai-learning-transfer</a></strong>: The capability boundary findings raise transfer questions — if frontier models struggle with academic tasks, how well do AI tutoring systems transfer?</li></ul></p><p><h2>Limitations</h2></p><p><ul><li>Contributor pool concentrated at a single institution (SJTU) — limits cultural and disciplinary diversity</li></ul>
+<ul><li>GPU-intensive tasks (16/80) require specialized hardware, limiting reproducibility</li></ul>
+<ul><li>Bilingual but primarily Chinese university context</li></ul>
+<ul><li>Safety audit releases aggregate statistics only, not full violation traces</li></ul></p><p><h2>Open Questions</h2></p><p><ul><li>How would the 55% pass rate change with iterative refinement or multi-agent collaboration?</li></ul>
+<ul><li>Would results differ at non-Chinese universities with different academic workflows?</li></ul>
+<ul><li>Can the benchmark be adapted for K-12 or professional training contexts?</li></ul>
+<ul><li>What does the token-output disconnect imply for AI tutoring systems that bill by token usage?</li></ul></p><p><h2>Related Pages</h2></p><p><ul><li><a href="pages/multimodal-ai-tutoring.html">multimodal-ai-tutoring</a> — Multimodal AI capabilities tested in academic contexts</li></ul>
+<ul><li><a href="pages/collaborative-ai-tutoring.html">collaborative-ai-tutoring</a> — Agent collaboration strategies relevant to AcademiClaw task types</li></ul>
+<ul><li><a href="pages/pedagogical-llm-training.html">pedagogical-llm-training</a> — Training pipelines that could target AcademiClaw capability gaps</li></ul>
+<ul><li><a href="pages/ai-tutor-behavioral-evaluation.html">ai-tutor-behavioral-evaluation</a> — Behavioral evaluation axis for AI tutors complements AcademiClaw's safety audit</li></ul></p><p><h2>Citation</h2></p><p><strong>APA:</strong> Yu, J., Lu, P., Si, W., ... & Liu, P. (2026). <em>AcademiClaw: When Students Set Challenges for AI Agents</em>. arXiv:2605.02661.</p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>

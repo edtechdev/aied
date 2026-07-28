@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>"What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction" - AI in Education Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>"What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction"</h1>
+        <div class="metadata">Created: 2026-05-20 | Tags: <a href="../index.html?tag=language-learning" class="tag">language-learning</a><a href="../index.html?tag=llm" class="tag">llm</a><a href="../index.html?tag=generative-ai" class="tag">generative-ai</a><a href="../index.html?tag=benchmark" class="tag">benchmark</a><a href="../index.html?tag=scaffolding" class="tag">scaffolding</a><a href="../index.html?tag=formative-assessment" class="tag">formative-assessment</a></div>
+    </header>
+    <main class="container"><p><strong>Nohejl, Wu, Ide, Riera Machin, Chang & Yanaka (2026)</strong> — BEA 2026.</p><p>📄 <a href="https://arxiv.org/abs/2605.14257">Full text (arXiv)</a>
+🔗 <a href="https://github.com/adno/vocabulary-difficulty">Code</a></p><p><h2>Overview</h2></p><p>This paper presents two complementary approaches to predicting vocabulary difficulty for language learners, achieving state-of-the-art results in the BEA 2026 Shared Task. The work advances both the accuracy and explainability of NLP systems for educational applications.</p><p><h2>Key Findings</h2></p><p><strong>Dual-model architecture:</strong>
+1. <strong>Black-box LLM</strong> fine-tuned with a soft-target loss function → Pearson r > 0.91, achieving the top shared task result in the open track
+2. <strong>Explainable model</strong> → r > 0.77, outperforming fine-tuned encoder baselines while providing interpretable feature-level insights</p><p><strong>What makes words hard?</strong> Beyond genuine production difficulty (word frequency, length, concreteness), the analysis reveals that:
+<ul><li><strong>Spelling difficulty</strong> significantly impacts vocabulary item difficulty</li></ul>
+<ul><li><strong>Test item construction</strong> (how items are presented) affects measured difficulty independent of the words themselves</li></ul>
+<ul><li>These factors are particularly pronounced in the British Council's Knowledge-based Vocabulary Lists (KVL)</li></ul></p><p><h2>Educational Applications</h2></p><p>Vocabulary difficulty prediction directly supports <strong>adaptive language learning systems</strong>, enabling:
+<ul><li>Personalized vocabulary sequencing based on predicted difficulty</li></ul>
+<ul><li>Diagnostic assessment of learner vocabulary gaps</li></ul>
+<ul><li>Generation of appropriately leveled reading materials</li></ul></p><p>This connects to <a href="pages/llm-children-reading-story-generation.html">llm-children-reading-story-generation</a>, which uses LLMs for generating leveled educational content. The explainable model's insights about item construction also inform the design of <a href="pages/formative-assessment.html">formative-assessment</a> instruments.</p><p><h2>Technical Innovation</h2></p><p>The <strong>soft-target loss function</strong> for LLM fine-tuning on rating (regression) tasks is notable. Traditional fine-tuning uses hard classification targets; adapting LLMs to predict continuous difficulty scores required a custom loss. This technique may generalize to other educational NLP tasks requiring nuanced ordinal or continuous predictions, relevant to <a href="pages/self-referential-l2-writing-llm-assessment.html">self-referential-l2-writing-llm-assessment</a> and <a href="pages/cyberscholar-genai-writing-feedback.html">cyberscholar-genai-writing-feedback</a>.</p><p><h2>Benchmark Context</h2></p><p>BEA (Building Educational Applications) is the premier venue for NLP-for-education research. This shared task establishes a new <a href="pages/benchmark.html">benchmark</a> for vocabulary difficulty prediction with open-source code, encouraging reproducible research in a domain where educational impact depends on reliable, interpretable models.</p><p><h2>Related Pages</h2>
+<ul><li><a href="pages/llm-children-reading-story-generation.html">llm-children-reading-story-generation</a> — LLM-generated educational reading content</li></ul>
+<ul><li><a href="pages/writing-education.html">writing-education</a> — Core page on writing education and assessment</li></ul>
+<ul><li><a href="pages/cyberscholar-genai-writing-feedback.html">cyberscholar-genai-writing-feedback</a> — GenAI feedback for English writing (K-12)</li></ul>
+<ul><li><a href="pages/self-referential-l2-writing-llm-assessment.html">self-referential-l2-writing-llm-assessment</a> — LLM assessment of L2 writing</li></ul>
+<ul><li><a href="pages/benchmark.html">benchmark</a> — Benchmarking in AI-for-education research</li></ul>
+<ul><li><a href="pages/ai-tutor-behavioral-evaluation.html">ai-tutor-behavioral-evaluation</a> — Behavioral evaluation of AI tutoring systems</li></ul></p><p><h2>Citation</h2></p><p><strong>APA:</strong> Nohejl, A., Wu, X., Ide, Y., Riera Machin, M. A., Chang, Y.-N., & Yanaka, H. (2026). <em>What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction.</em> arXiv:2605.14257. BEA 2026.</p></main>
+    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+</body>
+</html>
