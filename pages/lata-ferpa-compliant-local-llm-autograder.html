@@ -20,7 +20,7 @@
     </header>
     <main class="container"><p>LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
 <strong>Rodríguez (2026)</strong> — Oregon State University. Submitted to Computers & Education.
-📄 <a href="https://arxiv.org/abs/2605.05410">Full text (arXiv)</a></p><p><h2>Summary</h2></p><p>LaTA (LaTeX Teaching Assistant) is a <strong>privacy-preserving, drop-in autograder</strong> that addresses the core tension in educational LLM deployment: most <a href="pages/automated-grading.html">automated-grading</a> systems send student work to third-party APIs, violating FERPA and exposing institutions to data risk.</p><p><strong>System architecture:</strong>
+📄 <a href="https://arxiv.org/abs/2605.05410">Full text (arXiv)</a></p><p><h2>Summary</h2></p><p>LaTA (LaTeX Teaching Assistant) is a <strong>privacy-preserving, drop-in autograder</strong> that addresses the core tension in educational LLM deployment: most <a href="automated-grading.html">automated-grading</a> systems send student work to third-party APIs, violating FERPA and exposing institutions to data risk.</p><p><strong>System architecture:</strong>
 <ul><li><strong>Four-stage pipeline:</strong> Ingest → Segment → Grade → Report</li></ul>
 <ul><li><strong>Grading engine:</strong> gpt-oss:120b running <strong>entirely on local commodity hardware</strong> (single Mac Studio)</li></ul>
 <ul><li><strong>Rubric format:</strong> YAML with binary per-item scoring, comparing student work against instructor-authored reference solutions</li></ul>
@@ -30,16 +30,16 @@
 <ul><li><strong>Operational benefit:</strong> Enabled regrading of corrected assignments and expanded TA office hours</li></ul></p><p><strong>Learning outcomes (vs. traditional cohort):</strong>
 <ul><li><strong>Midterm exam:</strong> +11% performance gain</li></ul>
 <ul><li><strong>Final exam:</strong> +8% performance gain</li></ul>
-<ul><li><strong>Confidence gains:</strong> Δ ≥ +1.49 Likert points on every learning objective (N=159, p < 10⁻²⁷)</li></ul></p><p>These results provide strong evidence for the <a href="pages/feedback-loop.html">feedback-loop</a> hypothesis: faster, more consistent feedback drives both learning and confidence. The deployment demonstrates that <a href="pages/generative-ai.html">generative-ai</a> grading can be both FERPA-compliant and pedagogically effective, addressing concerns raised in <a href="pages/assessment-validity.html">assessment-validity</a> and <a href="pages/formative-assessment.html">formative-assessment</a> discussions.</p><p>LaTA's success connects to the broader <a href="pages/stem-education.html">stem-education</a> and <a href="pages/higher-ed.html">higher-ed</a> landscape, showing that <a href="pages/llm.html">llm</a>-based grading can move beyond <a href="pages/short-answer-scoring-quality-degradation.html">short-answer-scoring-quality-degradation</a> concerns when properly designed with instructor-authored rubrics and reference solutions. The open-source, zero-marginal-cost model aligns with <a href="pages/principled-ai-education.html">principled-ai-education</a> principles.</p><p><h2>Related Pages</h2>
-<ul><li><a href="pages/llm-handwritten-math-grading.html">llm-handwritten-math-grading</a> — Complements LaTA's typed-response grading with vision-based handwritten math assessment</li></ul>
-<ul><li><a href="pages/automated-grading.html">automated-grading</a> — Automated grading systems</li></ul>
-<ul><li><a href="pages/automatic-short-answer-grading.html">automatic-short-answer-grading</a> — Short answer grading with LLMs</li></ul>
-<ul><li><a href="pages/formative-assessment.html">formative-assessment</a> — Formative assessment practices</li></ul>
-<ul><li><a href="pages/feedback-loop.html">feedback-loop</a> — Feedback mechanisms in learning</li></ul>
-<ul><li><a href="pages/assessment-validity.html">assessment-validity</a> — Assessment validity in AI education</li></ul>
-<ul><li><a href="pages/stem-education.html">stem-education</a> — STEM education and AI</li></ul>
-<ul><li><a href="pages/principled-ai-education.html">principled-ai-education</a> — Principled AI in education</li></ul>
-<ul><li><a href="pages/short-answer-scoring-quality-degradation.html">short-answer-scoring-quality-degradation</a> — Quality issues in automated scoring</li></ul></p><p><h2>Citation</h2>
+<ul><li><strong>Confidence gains:</strong> Δ ≥ +1.49 Likert points on every learning objective (N=159, p < 10⁻²⁷)</li></ul></p><p>These results provide strong evidence for the <a href="feedback-loop.html">feedback-loop</a> hypothesis: faster, more consistent feedback drives both learning and confidence. The deployment demonstrates that <a href="generative-ai.html">generative-ai</a> grading can be both FERPA-compliant and pedagogically effective, addressing concerns raised in <a href="assessment-validity.html">assessment-validity</a> and <a href="formative-assessment.html">formative-assessment</a> discussions.</p><p>LaTA's success connects to the broader <a href="stem-education.html">stem-education</a> and <a href="higher-ed.html">higher-ed</a> landscape, showing that <a href="llm.html">llm</a>-based grading can move beyond <a href="short-answer-scoring-quality-degradation.html">short-answer-scoring-quality-degradation</a> concerns when properly designed with instructor-authored rubrics and reference solutions. The open-source, zero-marginal-cost model aligns with <a href="principled-ai-education.html">principled-ai-education</a> principles.</p><p><h2>Related Pages</h2>
+<ul><li><a href="llm-handwritten-math-grading.html">llm-handwritten-math-grading</a> — Complements LaTA's typed-response grading with vision-based handwritten math assessment</li></ul>
+<ul><li><a href="automated-grading.html">automated-grading</a> — Automated grading systems</li></ul>
+<ul><li><a href="automatic-short-answer-grading.html">automatic-short-answer-grading</a> — Short answer grading with LLMs</li></ul>
+<ul><li><a href="formative-assessment.html">formative-assessment</a> — Formative assessment practices</li></ul>
+<ul><li><a href="feedback-loop.html">feedback-loop</a> — Feedback mechanisms in learning</li></ul>
+<ul><li><a href="assessment-validity.html">assessment-validity</a> — Assessment validity in AI education</li></ul>
+<ul><li><a href="stem-education.html">stem-education</a> — STEM education and AI</li></ul>
+<ul><li><a href="principled-ai-education.html">principled-ai-education</a> — Principled AI in education</li></ul>
+<ul><li><a href="short-answer-scoring-quality-degradation.html">short-answer-scoring-quality-degradation</a> — Quality issues in automated scoring</li></ul></p><p><h2>Citation</h2>
 <strong>APA:</strong> Rodríguez, J. A. (2026). <em>LaTA: A drop-in, FERPA-compliant local-LLM autograder for upper-division STEM coursework</em>. arXiv:2605.05410. Submitted to Computers & Education.</p></main>
     <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
 </body>
