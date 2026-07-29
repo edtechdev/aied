@@ -3,8 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neural-Symbolic Knowledge Tracing - AI in Education Wiki</title>
+    <title>Neural-Symbolic Knowledge Tracing - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+    </style>
 </head>
 <body>
     <header class="container">
@@ -18,7 +33,7 @@
         <h1>Neural-Symbolic Knowledge Tracing</h1>
         <div class="metadata">Created: 2026-05-08 | Tags: <a href="../tags/intelligent-tutoring.html" class="tag">intelligent-tutoring</a><a href="../tags/learning-analytics.html" class="tag">learning-analytics</a><a href="../tags/adaptive-learning.html" class="tag">adaptive-learning</a><a href="../tags/pedagogical-safety.html" class="tag">pedagogical-safety</a><a href="../tags/mastery-learning.html" class="tag">mastery-learning</a></div>
     </header>
-    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2604.08263">arXiv:2604.08263</a> · <a href="raw/papers/2604.08263.md">local</a></p><p>> Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems.</p><p><h2>The Problem with Pure Neural Approaches</h2></p><p><strong>Hooshyar et al. (2026)</strong> identify key limitations in both LLM-based tutoring and conventional Deep Knowledge Tracing (DKT):</p><p><ul><li><strong>Limited adaptivity:</strong> LLMs struggle to model learners' <em>evolving knowledge over time</em> — they respond to individual turns rather than tracking skill mastery across sessions.</li></ul>
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2604.08263">arXiv:2604.08263</a> · <a href="raw/papers/2604.08263.md">local</a></p><p><h1>Neural-Symbolic Knowledge Tracing</h1></p><p>> Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems.</p><p><h2>The Problem with Pure Neural Approaches</h2></p><p><strong>Hooshyar et al. (2026)</strong> identify key limitations in both LLM-based tutoring and conventional Deep Knowledge Tracing (DKT):</p><p><ul><li><strong>Limited adaptivity:</strong> LLMs struggle to model learners' <em>evolving knowledge over time</em> — they respond to individual turns rather than tracking skill mastery across sessions.</li></ul>
 <ul><li><strong>Black-box opacity:</strong> Deep learning models (LSTM/Transformer-based DKT) lack interpretable learner state representations, making it impossible to audit <em>why</em> a student is flagged as struggling.</li></ul>
 <ul><li><strong>Spurious correlations:</strong> Purely data-driven models can latch onto surface patterns (session length, interaction frequency) rather than genuine learning signals.</li></ul>
 <ul><li><strong>Temporal instability:</strong> Conventional DKT produces <strong>prediction inconsistency rates of 0.075–0.138</strong>, meaning predictions frequently "flip-flop" between correct/incorrect as new responses arrive — undermining trust.</li></ul></p><p><h2>The Responsible-DKT Model</h2></p><p>Hooshyar et al. propose <strong>Responsible-DKT</strong>, a neural-symbolic architecture built on the <strong>Lifted Relational Neural Networks (LRNN)</strong> paradigm using <strong>PyNeuraLogic</strong>. The key innovation: symbolic educational knowledge is injected as <em>learnable weighted rules</em> that <strong>modulate</strong> (not override) neural predictions.</p><p><h3>Architecture</h3></p><p>| Component | Detail |
@@ -63,6 +78,6 @@ Real-world 6th-grade Maths from Opiq: 167 students, 21,471 interactions, 13 skil
 <ul><li><a href="pedagogical-llm-training.html">pedagogical-llm-training</a> — Training pipelines for tutoring alignment</li></ul>
 <ul><li><a href="principled-ai-education.html">principled-ai-education</a> — Framework connecting educational goals to technology use</li></ul>
 <ul><li><a href="ai-tutor-effectiveness-review.html">ai-tutor-effectiveness-review</a> — Broader ITS effectiveness; interpretability as a key dimension</li></ul></p><p><h2>Sources</h2></p><p><ul><li>Hooshyar et al. (2026). <em>Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling</em>. arXiv:2604.08263. <a href="https://arxiv.org/pdf/2604.08263">PDF</a></li></ul></p></main>
-    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-07-29</small></footer>
 </body>
 </html>

@@ -76,4 +76,5 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 
 
 ## Related Pages
-- [[aicode-collaborative-feedback-system]] — Teacher-in-the-loop feedback mediation
+- [[aicode-collaborative-feedback-system]] — Teacher-in-the-loop feedback mediation- [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
+

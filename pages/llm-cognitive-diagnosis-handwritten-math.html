@@ -3,8 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>"Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work" - AI in Education Wiki</title>
+    <title>"Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work" - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+    </style>
 </head>
 <body>
     <header class="container">
@@ -18,7 +33,7 @@
         <h1>"Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work"</h1>
         <div class="metadata">Created: 2026-05-31 | Tags: No tags</div>
     </header>
-    <main class="container"><p><h2>Summary</h2></p><p>This paper introduces <strong>MathCog</strong>, a benchmark dataset of 3,036 teacher-annotated diagnostic verdicts across 639 student handwritten math responses to 110 problems. Evaluating 18 LLMs, the authors find that <strong>all models severely underperform</strong> (macro F1 < 0.5), with systematic failure modes: over-attributing evidential strength, overthinking minimal cues, and hallucinating nonexistent evidence. Performance degrades sharply when student evidence is vague or implicit. The study calls for evidence-aware architectures and teacher-in-the-loop designs.</p><p><h2>Key Contributions</h2></p><p>1. <strong>MathCog Benchmark</strong> — First benchmark for cognitive skill diagnosis from handwritten math, grounded in TIMSS 2019 cognitive framework with Evident/Vague evidential strength labels
+    <main class="container"><p><h1>Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten Math</h1></p><p><h2>Summary</h2></p><p>This paper introduces <strong>MathCog</strong>, a benchmark dataset of 3,036 teacher-annotated diagnostic verdicts across 639 student handwritten math responses to 110 problems. Evaluating 18 LLMs, the authors find that <strong>all models severely underperform</strong> (macro F1 < 0.5), with systematic failure modes: over-attributing evidential strength, overthinking minimal cues, and hallucinating nonexistent evidence. Performance degrades sharply when student evidence is vague or implicit. The study calls for evidence-aware architectures and teacher-in-the-loop designs.</p><p><h2>Key Contributions</h2></p><p>1. <strong>MathCog Benchmark</strong> — First benchmark for cognitive skill diagnosis from handwritten math, grounded in TIMSS 2019 cognitive framework with Evident/Vague evidential strength labels
 2. <strong>Systematic LLM Evaluation</strong> — 18 models spanning reasoning, multimodal, and text-only architectures, all showing F1 < 0.5
 3. <strong>Error Taxonomy</strong> — Five systematic error patterns identified: evidence misidentification, rubric misinterpretation, over-inference, inconsistency, and hallucination
 4. <strong>Evidential Calibration Metrics</strong> — Introduces OverAttr and FalseAttr to quantify models' tendency to over-claim evidential confidence</p><p><h2>Core Findings</h2></p><p><h3>Universal Underperformance</h3>
@@ -46,6 +61,6 @@ MathCog builds on existing <a href="llm-handwritten-math-grading.html">llm-handw
 <ul><li><a href="teacher-role.html">teacher-role</a> — Teacher role in AI-augmented educational workflows</li></ul>
 <ul><li><a href="benchmark.html">benchmark</a> — Benchmark design considerations for educational AI evaluation</li></ul>
 <ul><li><a href="automated-grading.html">automated-grading</a> — Broader automated grading landscape, of which cognitive diagnosis is an extension- <a href="representation-robustness-llm-math-problem-solving.html">representation-robustness-llm-math-problem-solving</a> — Representation Robustness under Executable Reasoning Constra</li></ul></p></main>
-    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-07-29</small></footer>
 </body>
 </html>

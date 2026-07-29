@@ -3,9 +3,18 @@
      3|> Chronological record of all wiki actions. Append-only.
      4|> Format: `## [YYYY-MM-DD] action | subject`
      5|> Actions: ingest, update, query, lint, create, archive, delete
-     6|> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
-     7|
-     8|## [2026-05-07] create | Wiki initialized
+     > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
+
+     ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
+     - DOI: 10.1016/j.caeai.2026.100653
+     - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`
+     - Concept: `concepts/agentic-ai-education-scoping-review.md`
+     - Tags: agentic-ai, scoping-review, generative-ai, llm, intelligent-tutoring, multi-agent, higher-ed, stem-education, educational-theory
+     - 474 studies reviewed (2020–2026) — field expanding rapidly since 2025
+     - Key gaps: limited theoretical grounding (29% use educational theory), modest agentic capabilities, rare tool orchestration/governance
+     - sha256: 0d033756e20cb916ed989226789799055c452ac1c502dca26ad3edd303a9107c
+
+     ## [2026-05-07] create | Wiki initialized
      9|- Domain: AI in Education
     10|- Structure created with SCHEMA.md, index.md, log.md
     11|- Raw directories: articles, papers, transcripts, assets
@@ -1509,3 +1518,8 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Ingested 7 papers: didactical-teacher-assistant-dimensional-modeling, genai-patient-education-transplant-handbooks, automated-formative-assessments-a-level-sciences, epistemic-emotions-collaborative-problem-solving, suacode-african-students-motivations, student-cheat-sheets-make-or-take, adhd-video-segmentation-computing-education
 - Tags: tutoring, assessment, affect, equity, accessibility, health-education
 - Index count: 490 -> 498 pages
+
+## [2026-07-29] meta | scan-complete
+- **No new papers** — scanned arXiv cs.CY (0), cs.HC (0), Semantic Scholar (1 total, 0 in-window), OpenAlex (10 total, 0 in-window — all future-dated)
+- **Daily digest**: [[daily-digest-2026-07-29]]
+- **Source status**: All 4 sources healthy (✓)

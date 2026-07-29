@@ -3,8 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cognitive Agent Compilation for Explicit Problem Solver Modeling - AI in Education Wiki</title>
+    <title>Cognitive Agent Compilation for Explicit Problem Solver Modeling - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+    </style>
 </head>
 <body>
     <header class="container">
@@ -18,7 +33,7 @@
         <h1>Cognitive Agent Compilation for Explicit Problem Solver Modeling</h1>
         <div class="metadata">Created: 2026-05-11 | Tags: <a href="../tags/intelligent-tutoring.html" class="tag">intelligent-tutoring</a><a href="../tags/llm.html" class="tag">llm</a><a href="../tags/adaptive-learning.html" class="tag">adaptive-learning</a><a href="../tags/personalized-learning.html" class="tag">personalized-learning</a></div>
     </header>
-    <main class="container"><p><strong>Moon, Rosé & Stamper (2026)</strong> — CMU. Accepted to AIED 2026 Blue Sky track.</p><p>📄 <a href="https://arxiv.org/abs/2605.07040">Full text (arXiv)</a></p><p><h2>Core Idea</h2></p><p><strong>Cognitive Agent Compilation (CAC)</strong> is a framework that uses a strong teacher LLM to compile problem-solving knowledge into an explicit, inspectable target agent. Unlike end-to-end LLM tutoring approaches, CAC separates the agent into three components:</p><p>1. <strong>Knowledge representation</strong> — explicit, structured representation of domain knowledge (skills, misconceptions, strategies)
+    <main class="container"><p><h1>Cognitive Agent Compilation for Explicit Problem Solver Modeling</h1></p><p><strong>Moon, Rosé & Stamper (2026)</strong> — CMU. Accepted to AIED 2026 Blue Sky track.</p><p>📄 <a href="https://arxiv.org/abs/2605.07040">Full text (arXiv)</a></p><p><h2>Core Idea</h2></p><p><strong>Cognitive Agent Compilation (CAC)</strong> is a framework that uses a strong teacher LLM to compile problem-solving knowledge into an explicit, inspectable target agent. Unlike end-to-end LLM tutoring approaches, CAC separates the agent into three components:</p><p>1. <strong>Knowledge representation</strong> — explicit, structured representation of domain knowledge (skills, misconceptions, strategies)
 2. <strong>Problem-solving policy</strong> — how the agent applies knowledge to solve problems
 3. <strong>Verification and update rules</strong> — mechanisms for checking correctness and updating the knowledge state</p><p>The goal is <strong>bounded-knowledge AI</strong> for education: agents that know what they know, can explain their reasoning in terms of explicit skills, and can be inspected and edited by educators.</p><p><h2>Motivation</h2></p><p>LLMs are widely used for tutoring, feedback generation, and content creation, but their broad pretraining makes them hard to constrain. Key problems:</p><p><ul><li><strong>Inability to "not know"</strong>: LLMs struggle to simulate a state of not knowing, making them poor proxies for student learners. Evidence suggests Chain-of-Thought and reasoning models operate fundamentally differently from human cognition.</li></ul>
 <ul><li><strong>Expert blind spot</strong>: Even human experts struggle to teach effectively without pedagogical training. LLMs, having absorbed vast unconstrained information, face an amplified version of this problem.</li></ul>
@@ -40,6 +55,6 @@
 <ul><li><a href="multi-agent-instructional-design.html">multi-agent-instructional-design</a> — Multi-agent systems for instructional design</li></ul>
 <ul><li><a href="pedagogical-safety-rl.html">pedagogical-safety-rl</a> — Safety frameworks for RL-based tutoring</li></ul>
 <h2>Citation</h2></p><p><strong>APA:</strong> Moon, H., Rosé, C., & Stamper, J. (2026). <em>Cognitive Agent Compilation for Explicit Problem Solver Modeling</em>. arXiv:2605.07040. Accepted to AIED 2026 Blue Sky.</p></main>
-    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-07-29</small></footer>
 </body>
 </html>

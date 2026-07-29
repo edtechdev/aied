@@ -3,8 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs - AI in Education Wiki</title>
+    <title>Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+    </style>
 </head>
 <body>
     <header class="container">
@@ -18,7 +33,7 @@
         <h1>Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs</h1>
         <div class="metadata">Created: 2026-06-10 | Tags: <a href="../tags/knowledge-tracing.html" class="tag">knowledge-tracing</a><a href="../tags/llm.html" class="tag">llm</a><a href="../tags/student-modeling.html" class="tag">student-modeling</a><a href="../tags/higher-ed.html" class="tag">higher-ed</a><a href="../tags/learning-analytics.html" class="tag">learning-analytics</a></div>
     </header>
-    <main class="container"><p><strong>Youssef Medhat, Junsoo Park, Ploy Thajchayapong, Ashok K. Goel</strong> — Accepted at CSEDM/EDM 2026
+    <main class="container"><p><h1>Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs</h1></p><p><strong>Youssef Medhat, Junsoo Park, Ploy Thajchayapong, Ashok K. Goel</strong> — Accepted at CSEDM/EDM 2026
 📄 <a href="https://arxiv.org/abs/2606.10736">Full text (arXiv)</a></p><p>This paper introduces a pipeline that maps student questions directed at a conversational AI teaching assistant to curriculum topics using a few-shot text classifier, grounded in a GPT-4-extracted prerequisite knowledge graph. Evaluated on 1,340 question events from 164 graduate students in an AI course, the classifier achieved 80.0% accuracy across 43 labels (42 topics + abstention). Topic-level question volume correlated significantly with student self-reported difficulty (Spearman's ρ = 0.491, p = 0.008), demonstrating that conversational AI interaction logs carry actionable signals about topic-level knowledge gaps. The work bridges <a href="student-modeling.html">student-modeling</a> and <a href="learning-analytics.html">learning-analytics</a> by repurposing existing AI TA logs as diagnostic tools for instructors.},
 Curricula that deploy AI teaching assistants generate a byproduct — student interaction logs — that can be mined for curriculum-level insights without additional assessment burden. This approach is complementary to <a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a> models because it captures which topics students find difficult (via question volume) rather than which skills they have mastered. The GPT-4-extracted prerequisite graph provides an interpretable curriculum structure that instructors can inspect and validate.</p><p><h2>Related Pages</h2>
 <ul><li><a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a> — Knowledge tracing models and IRT for student modeling</li></ul>
@@ -31,6 +46,6 @@ Curricula that deploy AI teaching assistants generate a byproduct — student in
 <ul><li><a href="formative-assessment.html">formative-assessment</a> — Ongoing assessment to inform instruction</li></ul>
 <ul><li><a href="automated-grading.html">automated-grading</a> — AI-assisted evaluation of student work</li></ul>
 <ul><li><a href="scaffolding.html">scaffolding</a> — Instructional support that fades with competence</li></ul></p><p><h2>Citations</h2></p><p><strong>APA:</strong> Youssef Medhat, Junsoo Park, Ploy Thajchayapong, Ashok K. Goel (2026). <em>Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs</em>. arXiv:2606.10736. Accepted at CSEDM/EDM 2026.</p></main>
-    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-07-29</small></footer>
 </body>
 </html>
