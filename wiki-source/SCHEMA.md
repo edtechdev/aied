@@ -50,10 +50,10 @@ The `sha256:` lets a future re-ingest of the same URL skip processing when conte
 ## Tag Taxonomy
 
 ### Systems & Technology
-- `llm`, `generative-ai`, `adaptive-learning`, `intelligent-tutoring`, `edtech-platform`, `learning-analytics`, `automated-grading`, `ai-detection`
+- `llm`, `generative-ai`, `adaptive-learning`, `intelligent-tutoring`, `edtech-platform`, `learning-analytics`, `automated-grading`, `ai-detection`, `agentic-ai`, `multi-agent`
 
 ### Pedagogy & Practice
-- `personalized-learning`, `formative-assessment`, `feedback-loop`, `scaffolding`, `active-learning`, `blended-learning`, `mastery-learning`
+- `personalized-learning`, `formative-assessment`, `feedback-loop`, `scaffolding`, `active-learning`, `blended-learning`, `mastery-learning`, `educational-theory`
 
 ### Stakeholders
 - `k-12`, `higher-ed`, `lifelong-learning`, `teacher-role`, `student-experience`, `administrator`, `policy-maker`
@@ -62,7 +62,7 @@ The `sha256:` lets a future re-ingest of the same URL skip processing when conte
 - `stem-education`, `language-learning`, `writing-education`, `special-education`, `professional-training`
 
 ### Research & Evaluation
-- `RCT`, `efficacy-study`, `benchmark`, `learning-gains`, `engagement-metrics`, `dropout-reduction`
+- `RCT`, `efficacy-study`, `benchmark`, `learning-gains`, `engagement-metrics`, `dropout-reduction`, `scoping-review`, `systematic-review`
 
 ### Ethics & Policy
 - `academic-integrity`, `bias-mitigation`, `privacy`, `equity`, `regulation`, `plagiarism-detection`, `hallucination-risk`, `over-reliance`

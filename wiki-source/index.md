@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-07-27 | **Total pages: 498
+**Last updated:** 2026-07-29 | **Total pages: 499
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -9,6 +9,8 @@
 ---
 
 ## Concepts
+*Total pages: 542*
+
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[academic-integrity]] — Academic Integrity
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
@@ -27,6 +29,7 @@
 - [[affective-tutoring]] — Affective Tutoring
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 - [[agentic-ai-ecosystems-higher-education]] — Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[agentic-workflows]] — Agentic Workflows
@@ -232,6 +235,7 @@
 - [[daily-digest-2026-07-24]] — Daily AIED Digest — 2026-07-24
 - [[daily-digest-2026-07-27]] — Daily Digest — 2026-07-27
 - [[daily-digest-2026-07-28]] — Daily Digest — 2026-07-28
+- [[daily-digest-2026-07-29]] — Daily Digest — 2026-07-29
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation
 - [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging
@@ -549,4 +553,3 @@
 - [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[zone-of-proximal-development]] — Zone Of Proximal Development
-

@@ -3,8 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Automatic Short Answer Grading with LLMs - AI in Education Wiki</title>
+    <title>Automatic Short Answer Grading with LLMs - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+    </style>
 </head>
 <body>
     <header class="container">
@@ -18,7 +33,7 @@
         <h1>Automatic Short Answer Grading with LLMs</h1>
         <div class="metadata">Created: 2026-05-07 | Tags: <a href="../tags/automated-grading.html" class="tag">automated-grading</a><a href="../tags/llm.html" class="tag">llm</a><a href="../tags/formative-assessment.html" class="tag">formative-assessment</a><a href="../tags/feedback-loop.html" class="tag">feedback-loop</a><a href="../tags/higher-ed.html" class="tag">higher-ed</a><a href="../tags/learning-analytics.html" class="tag">learning-analytics</a></div>
     </header>
-    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.00200">arXiv:2605.00200</a> · <a href="raw/papers/cong-confidence-asag-2026.md">local</a></p><p>> Zero-shot LLMs perform strongly on ASAG without task-specific fine-tuning, but <strong>model-based confidence signals alone are insufficient</strong> for reliable uncertainty quantification. A hybrid framework combining epistemic (model-derived) and aleatoric (dataset-derived) uncertainty significantly improves selective grading and calibration.^<a href="cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Why Confidence Matters</h2></p><p>Automatic Short Answer Grading (ASAG) is never perfect. Upper bounds on accuracy arise from:
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.00200">arXiv:2605.00200</a> · <a href="raw/papers/cong-confidence-asag-2026.md">local</a></p><p><h1>Automatic Short Answer Grading with LLMs</h1></p><p>> Zero-shot LLMs perform strongly on ASAG without task-specific fine-tuning, but <strong>model-based confidence signals alone are insufficient</strong> for reliable uncertainty quantification. A hybrid framework combining epistemic (model-derived) and aleatoric (dataset-derived) uncertainty significantly improves selective grading and calibration.^<a href="cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Why Confidence Matters</h2></p><p>Automatic Short Answer Grading (ASAG) is never perfect. Upper bounds on accuracy arise from:
 <ul><li>Linguistic variability in student responses</li></ul>
 <ul><li>Ambiguity in scoring criteria</li></ul>
 <ul><li>Inherent disagreement among human graders</li></ul></p><p>Reliable confidence estimates are therefore essential for <strong>human-in-the-loop review</strong>—flagging uncertain cases for teacher attention rather than auto-grading everything.^<a href="cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Three Model-Based Confidence Strategies</h2></p><p>All generated with <code>gpt-oss-20b</code> at temperature 0.1:</p><p>| Strategy | Mechanism | Edge Case Failure |
@@ -46,6 +61,6 @@
 <ul><li><a href="automated-formative-assessments-a-level-sciences.html">automated-formative-assessments-a-level-sciences</a> — Automating the marking of handwritten mock exams enables much higher formative-assessment frequency </li></ul></p><p><h2>Sources</h2>
 <ul><li>Cong et al. (2026). <em>Confidence Estimation in Automatic Short Answer Grading with LLMs</em>. arXiv:2605.00200. <a href="https://arxiv.org/pdf/2605.00200">PDF</a></li></ul>
 <ul><li><a href="genai-assessment-governance.html">genai-assessment-governance</a> — ECD framework extends grading to include AI interaction artifacts</li></ul></p></main>
-    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-07-29</small></footer>
 </body>
 </html>

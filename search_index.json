@@ -213,6 +213,26 @@
     "url": "pages/agentic-ai-ecosystems-higher-education.html"
   },
   {
+    "slug": "agentic-ai-education-scoping-review",
+    "title": "\"Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm\"",
+    "tags": [
+      "agentic-ai",
+      "scoping-review",
+      "generative-ai",
+      "llm",
+      "intelligent-tutoring",
+      "multi-agent",
+      "higher-ed",
+      "stem-education",
+      "educational-theory",
+      "scaffolding",
+      "open-source",
+      "ai-literacy"
+    ],
+    "content": "Agentic AI in Education: Scoping Review (474 Studies, 2020\u20132026)Wang, Zou, Xie & Qin (2026) \u2014 Lingnan University & Hong Kong Polytechnic University.\nPublished in Computers and Education: Artificial Intelligence, accepted 27 July 2026.\n\ud83d\udcc4 doi:10.1016/j.caeai.2026.100653 \u00b7 localSummaryThis scoping review systematically maps 474 studies (January 2020 \u2013 May 2026) on generative AI-powered agentic AI in education, providing the most comprehensive synthesis of the field to date. The authors analyze publ",
+    "url": "pages/agentic-ai-education-scoping-review.html"
+  },
+  {
     "slug": "agentic-education-coding",
     "title": "Agentic Education with AI Coding Assistants",
     "tags": [
@@ -2636,6 +2656,15 @@
     "url": "pages/daily-digest-2026-07-28.html"
   },
   {
+    "slug": "daily-digest-2026-07-29",
+    "title": "\"Daily Digest \u2014 2026-07-29\"",
+    "tags": [
+      "daily-digest"
+    ],
+    "content": "Daily Digest \u2014 2026-07-29No new AIED papers found today. Scanned across 4 sources with zero in-window results matching the AI-in-education relevance filter.Source Status| Source | Status | Notes |\n|--------|--------|-------|\n| arXiv cs.CY | \u2713 | 0 in-window papers |\n| arXiv cs.HC | \u2713 | 0 in-window papers |\n| Semantic Scholar | \u2713 | 1 total, 0 in-window |\n| OpenAlex | \u2713 | 10 total, 0 in-window (all future-dated placeholders) |Search Window2026-07-28 to 2026-07-29Related Pagesdaily-digest-2026-07-28",
+    "url": "pages/daily-digest-2026-07-29.html"
+  },
+  {
     "slug": "data-annotations-pedagogical-hints",
     "title": "\"Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking\"",
     "tags": [
@@ -4389,7 +4418,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Llm In EducationThis is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Llm In EducationThis is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.Related Pagesagentic-ai-education-scoping-review \u2014 Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap",
     "url": "pages/llm-in-education.html"
   },
   {

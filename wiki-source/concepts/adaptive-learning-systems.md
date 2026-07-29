@@ -92,6 +92,8 @@ The platform enables **modular, tool-assisted learning**: students learn new top
 - [[ai-metacognition-stem-review]] — ALEKS, Carnegie Learning as adaptive platforms for metacognitive outcomes
 - [[engagement-intensity-learner-modeling]] -- Engagement intensity during AI ethics instruction serves as an effective learner...
 - [[adapt-adaptive-lesson-plan-transformer]] -- AdaPT uses transformers to adapt lesson plans across regional and differentiated...
+- [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
+
 
 ## Sources
 - Ma et al. (2026). *DeepTutor: Towards Agentic Personalized Tutoring*. arXiv:2604.26962. [PDF](https://arxiv.org/pdf/2604.26962)

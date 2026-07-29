@@ -3,8 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Peer Feedback Systems - AI in Education Wiki</title>
+    <title>AI Peer Feedback Systems - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+    </style>
 </head>
 <body>
     <header class="container">
@@ -18,7 +33,7 @@
         <h1>AI Peer Feedback Systems</h1>
         <div class="metadata">Created: 2026-05-07 | Tags: <a href="../tags/edtech-platform.html" class="tag">edtech-platform</a><a href="../tags/feedback-loop.html" class="tag">feedback-loop</a><a href="../tags/formative-assessment.html" class="tag">formative-assessment</a><a href="../tags/teacher-role.html" class="tag">teacher-role</a><a href="../tags/higher-ed.html" class="tag">higher-ed</a><a href="../tags/learning-analytics.html" class="tag">learning-analytics</a><a href="../tags/llm.html" class="tag">llm</a></div>
     </header>
-    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.04740">arXiv:2605.04740</a> · <a href="raw/papers/becerra-aicofe-feedback-2026.md">local</a></p><p>> Student peer feedback is often superficial or inconsistent. <strong>AICoFe</strong> (AI-based Collaborative Feedback) uses a multi-LLM pipeline (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate diverse perspectives on student presentations, but the critical design feature is <strong>teacher-in-the-loop mediation</strong>—educators curate and compose final feedback before delivery.^<a href="becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><p><h2>The Problem</h2></p><p>Peer feedback develops critical reflection and evaluative judgment, yet:
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.04740">arXiv:2605.04740</a> · <a href="raw/papers/becerra-aicofe-feedback-2026.md">local</a></p><p><h1>AI Peer Feedback Systems</h1></p><p>> Student peer feedback is often superficial or inconsistent. <strong>AICoFe</strong> (AI-based Collaborative Feedback) uses a multi-LLM pipeline (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate diverse perspectives on student presentations, but the critical design feature is <strong>teacher-in-the-loop mediation</strong>—educators curate and compose final feedback before delivery.^<a href="becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><p><h2>The Problem</h2></p><p>Peer feedback develops critical reflection and evaluative judgment, yet:
 <ul><li>Students have limited <strong>feedback literacy</strong></li></ul>
 <ul><li>Generated comments are often superficial or lack actionability</li></ul>
 <ul><li>Quality is inconsistent across evaluators</li></ul></p><p>AI-generated feedback alone risks replacing shallow peer comments with shallow AI comments. AICoFe addresses this by treating AI as a <strong>draft generator</strong>, not a final deliverer.</p><p><h2>System Architecture</h2></p><p><strong>Four components:</strong>^<a href="becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><p>| Module | Purpose |
@@ -51,6 +66,6 @@
 <ul><li><a href="aicode-collaborative-feedback-system.html">aicode-collaborative-feedback-system</a> — Multi-LLM deployed system with teacher-in-the-loop- <a href="llm-reasoning-traces-metacognition.html">llm-reasoning-traces-metacognition</a> — AI feedback traces may inflate confidence without improving performance</li></ul>
 <ul><li><a href="humanlike-ai-collaborative-writing.html">humanlike-ai-collaborative-writing</a> — Social dynamics of humanlike AI in writing feedback</li></ul>
 <ul><li><a href="codify-socratic-programming-tutor.html">codify-socratic-programming-tutor</a> — Codify complements feedback systems with Socratic discovery approach</li></ul></p></main>
-    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-07-29</small></footer>
 </body>
 </html>

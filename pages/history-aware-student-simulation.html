@@ -3,8 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues - AI in Education Wiki</title>
+    <title>Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+    </style>
 </head>
 <body>
     <header class="container">
@@ -18,7 +33,7 @@
         <h1>Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues</h1>
         <div class="metadata">Created: 2026-05-29 | Tags: <a href="../tags/intelligent-tutoring.html" class="tag">intelligent-tutoring</a><a href="../tags/llm.html" class="tag">llm</a><a href="../tags/student-experience.html" class="tag">student-experience</a><a href="../tags/learning-analytics.html" class="tag">learning-analytics</a><a href="../tags/personalized-learning.html" class="tag">personalized-learning</a></div>
     </header>
-    <main class="container"><p><strong>Zhangqi Duan et al. (2026)</strong> — arXiv preprint.</p><p>📄 <a href="https://arxiv.org/abs/2605.30051">Full text (arXiv)</a></p><p>A key part of developing large language model (LLM)-powered, automated tutoring tools is student simulation, i.e., using LLMs to role-play as students, which can facilitate tutor model evaluation and training. Existing work mostly focuses on within-dialogue simulation, which lacks context on student knowledge and behavior, partly due to not grounding in past student question-answering or dialogue interactions. In this work, we introduce the task of history-conditioned student simulation, where the goal is to accurately predict student dialogue turns by leveraging information in the student's learning history. We propose a two-component framework in which a profile generator summarizes a student's history and a simulator predicts student turns conditioned on the resulting profile. We train both components with reinforcement learning (RL), yielding profiles optimized for faithful student simulation.</p><p><h2>Key Contributions</h2></p><p><ul><li><strong>Beyond within-dialogue simulation:</strong> Duan et al. introduce history-conditioned student simulation, a task where LLM-based student simulators are grounded in past question-answering and dialogue interactions. This moves beyond prior work that simulated students only within a single dialogue context.</li></ul>
+    <main class="container"><p><h1>Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues</h1></p><p><strong>Zhangqi Duan et al. (2026)</strong> — arXiv preprint.</p><p>📄 <a href="https://arxiv.org/abs/2605.30051">Full text (arXiv)</a></p><p>A key part of developing large language model (LLM)-powered, automated tutoring tools is student simulation, i.e., using LLMs to role-play as students, which can facilitate tutor model evaluation and training. Existing work mostly focuses on within-dialogue simulation, which lacks context on student knowledge and behavior, partly due to not grounding in past student question-answering or dialogue interactions. In this work, we introduce the task of history-conditioned student simulation, where the goal is to accurately predict student dialogue turns by leveraging information in the student's learning history. We propose a two-component framework in which a profile generator summarizes a student's history and a simulator predicts student turns conditioned on the resulting profile. We train both components with reinforcement learning (RL), yielding profiles optimized for faithful student simulation.</p><p><h2>Key Contributions</h2></p><p><ul><li><strong>Beyond within-dialogue simulation:</strong> Duan et al. introduce history-conditioned student simulation, a task where LLM-based student simulators are grounded in past question-answering and dialogue interactions. This moves beyond prior work that simulated students only within a single dialogue context.</li></ul>
 <ul><li><strong>Two-component RL framework:</strong> A profile generator summarizes a student's learning history into a compact profile, and a simulator predicts student dialogue turns conditioned on that profile. Both components are jointly trained via <a href="reinforcement-learning.html">reinforcement-learning</a> (if that page exists) to optimize for faithful simulation.</li></ul>
 <ul><li><strong>Real-world math tutoring dataset:</strong> The paper collects and evaluates on the first-of-its-kind dataset of real student dialogues and question responses from a math learning platform, grounding the work in authentic <a href="student-experience.html">student-experience</a> data rather than synthetic proxies.</li></ul>
 <ul><li><strong>Significant implications for tutor evaluation:</strong> History-aware student simulation enables more realistic evaluation of <a href="intelligent-tutoring.html">intelligent-tutoring</a> systems, allowing developers to test tutor responses against diverse student profiles without requiring live students. This connects to <a href="kt4eqg-personalized-question-generation.html">kt4eqg-personalized-question-generation</a> which also leverages student modeling for personalized learning.</li></ul>
@@ -29,6 +44,6 @@
 <ul><li><a href="ai-literacy.html">ai-literacy</a> — Building student and educator competency with AI tools</li></ul>
 <ul><li><a href="student-experience.html">student-experience</a> — How students interact with and perceive AI in education</li></ul>
 <ul><li><a href="edtech-platform.html">edtech-platform</a> — Platform and infrastructure design for educational technology</li></ul></p><p><h2>Citation</h2></p><p><strong>APA:</strong> Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, & Andrew Lan (2026). <em>Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues</em>. arXiv:2605.30051. arXiv preprint.</p></main>
-    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-07-29</small></footer>
 </body>
 </html>

@@ -3,8 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personalized Learning - AI in Education Wiki</title>
+    <title>Personalized Learning - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+    </style>
 </head>
 <body>
     <header class="container">
@@ -18,7 +33,7 @@
         <h1>Personalized Learning</h1>
         <div class="metadata">Created: 2026-05-07 | Tags: <a href="../tags/personalized-learning.html" class="tag">personalized-learning</a><a href="../tags/tutoring.html" class="tag">tutoring</a><a href="../tags/adaptive-learning.html" class="tag">adaptive-learning</a><a href="../tags/ai-education.html" class="tag">ai-education</a></div>
     </header>
-    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2604.26962">arXiv:2604.26962</a> · <a href="raw/papers/ma-deeptutor-agentic-personalized-tutoring-2026.md">local</a> · <a href="https://arxiv.org/abs/2409.03512">arXiv:2409.03512</a> · <a href="raw/papers/yu-maic-mooc-llm-agents-2024.md">local</a> · <a href="https://arxiv.org/abs/2604.13074">arXiv:2604.13074</a> · <a href="raw/papers/nie-personavlm-long-term-personalization-2026.md">local</a></p><p>Tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between <em>system personalization</em> and <em>learner-perceived personalization</em> remains an open measurement challenge.</p><p><h2>Architectures for AI-Driven Personalization</h2></p><p><h3>Longitudinal Memory (PersonaVLM → Education)</h3></p><p>Nie et al. (2026) developed a multimodal long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's misconceptions, preferred explanations, and progress history across sessions—addressing a critical deficit in stateless chatbot tutors.</p><p><h3>Agent-Native Personalization Substrate (DeepTutor)</h3></p><p>Ma et al. (2026) design every DeepTutor feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives problem solving, question generation, and collaborative writing.</p><p><h3>Multi-Agent Social Personalization (MAIC)</h3></p><p>Yu et al. (2024) personalize not only content but <em>social context</em>. Classmate archetypes (Class Clown, Deep Thinker, Note Taker, Inquisitive Mind) create varied peer-learning dynamics matched to individual learner needs.</p><p><h2>Measurement Challenges</h2></p><p><ul><li><strong>System vs. perceived personalization</strong> — A system can adapt without the learner feeling recognized</li></ul>
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2604.26962">arXiv:2604.26962</a> · <a href="raw/papers/ma-deeptutor-agentic-personalized-tutoring-2026.md">local</a> · <a href="https://arxiv.org/abs/2409.03512">arXiv:2409.03512</a> · <a href="raw/papers/yu-maic-mooc-llm-agents-2024.md">local</a> · <a href="https://arxiv.org/abs/2604.13074">arXiv:2604.13074</a> · <a href="raw/papers/nie-personavlm-long-term-personalization-2026.md">local</a></p><p><h1>Personalized Learning</h1></p><p>Tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between <em>system personalization</em> and <em>learner-perceived personalization</em> remains an open measurement challenge.</p><p><h2>Architectures for AI-Driven Personalization</h2></p><p><h3>Longitudinal Memory (PersonaVLM → Education)</h3></p><p>Nie et al. (2026) developed a multimodal long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's misconceptions, preferred explanations, and progress history across sessions—addressing a critical deficit in stateless chatbot tutors.</p><p><h3>Agent-Native Personalization Substrate (DeepTutor)</h3></p><p>Ma et al. (2026) design every DeepTutor feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives problem solving, question generation, and collaborative writing.</p><p><h3>Multi-Agent Social Personalization (MAIC)</h3></p><p>Yu et al. (2024) personalize not only content but <em>social context</em>. Classmate archetypes (Class Clown, Deep Thinker, Note Taker, Inquisitive Mind) create varied peer-learning dynamics matched to individual learner needs.</p><p><h2>Measurement Challenges</h2></p><p><ul><li><strong>System vs. perceived personalization</strong> — A system can adapt without the learner feeling recognized</li></ul>
 <ul><li><strong>Longitudinal validity</strong> — Personalization benefits may decay if profiles become stale or overfit</li></ul>
 <ul><li><strong>Equity risks</strong> — Over-personalization can strand learners in low-expectation tracks</li></ul></p><p><h2>Related Pages</h2>
 <ul><li><a href="kt4eqg-personalized-question-generation.html">kt4eqg-personalized-question-generation</a> — 7 of 8 papers in May 28 scan</li></ul>
@@ -66,6 +81,6 @@
 <h2>Related Pages</h2>
 <ul><li><a href="hybrid-human-ai-tutoring-differentiated.html">hybrid-human-ai-tutoring-differentiated</a> — System-level differentiation as personalization</li></ul>
 <ul><li><a href="llm-children-reading-story-generation.html">llm-children-reading-story-generation</a> — Compact LLMs for difficulty-controlled reading stories</li></ul></p></main>
-    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-07-29</small></footer>
 </body>
 </html>
