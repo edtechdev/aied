@@ -41,6 +41,8 @@ The paper raises critical questions: Can agentic AI represent the **next generat
 - [[ai-higher-ed-bridge-gap]] — Higher education's AI adaptation gap
 - [[special-education]] — AI for special educational needs
 - [[llm-educational-question-cognitive-depth]] -- LLM-generated educational questions show varying cognitive depth; models excel a...
+- [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
+
 
 ## Citation
 **APA:** Sudarshan, V. K., Sisodia, A., Ramachandra, R. A., Batra, S., & Leng Leng, J. C. (2026). *Agentic AI ecosystems in higher education: A perspective on AI agents to emerging inclusive, agentic multi-agent AI framework for learning, teaching and institutional intelligence*. arXiv:2605.14266.

@@ -3,8 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>"AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models" - AI in Education Wiki</title>
+    <title>"AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models" - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+    </style>
 </head>
 <body>
     <header class="container">
@@ -18,7 +33,7 @@
         <h1>"AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models"</h1>
         <div class="metadata">Created: 2026-06-12 | Tags: <a href="../tags/generative-ai.html" class="tag">generative-ai</a><a href="../tags/llm.html" class="tag">llm</a><a href="../tags/automated-grading.html" class="tag">automated-grading</a><a href="../tags/writing-education.html" class="tag">writing-education</a><a href="../tags/open-source.html" class="tag">open-source</a></div>
     </header>
-    <main class="container"><p><strong>Gayed (2026)</strong> — Waseda University.
+    <main class="container"><p><h1>AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models</h1></p><p><strong>Gayed (2026)</strong> — Waseda University.
 📄 <a href="https://arxiv.org/abs/2606.12801">Full text (arXiv)</a></p><p>Gayed presents <strong>AiAWE</strong>, an open-source <a href="automated-grading.html">automated writing evaluation</a> (AWE) system that scores argumentative essays using a LoRA-adapted instruction-tuned <a href="llm.html">large language model</a> (Gemma-3-27B-it). Using a proprietary ETS dataset of 480 TOEFL Independent Writing essays (120 training, 360 evaluation), the system achieves:</p><p><ul><li><strong>RMSE:</strong> 0.474</li></ul>
 <ul><li><strong>Quadratic Weighted Kappa (QWK):</strong> 0.828</li></ul>
 <ul><li><strong>Agreement within ±0.5 of human score:</strong> 90.56%</li></ul></p><p>These results outperform both LLaMA-3.3-70B and the fine-tuned GPT-3.5 baseline from prior work on the same dataset, demonstrating that <a href="generative-ai.html">open-weight LLMs can match or exceed proprietary fine-tuning</a> for rubric-aligned scoring.</p><p>Three broader findings emerge: (1) model scale is not a reliable predictor of downstream performance under LoRA adaptation; (2) identical LoRA hyperparameters produce qualitatively different adaptation behaviors across architectures; and (3) the system runs on a <a href="edtech-platform.html">consumer-grade server</a>, making it accessible for institutional deployment. The work contributes to debates about <a href="short-answer-scoring-quality-degradation.html">automated assessment quality</a> and the feasibility of <a href="open-source.html">open-source</a> AI tools in <a href="writing-education.html">writing-education</a>.</p><p><h2>Related Pages</h2>
@@ -29,6 +44,6 @@
 <ul><li><a href="llm.html">llm</a> — Large language models in education</li></ul>
 <ul><li><a href="open-source.html">open-source</a> — Open-source AI tools for education</li></ul></p><p><h2>Citation</h2>
 <strong>APA:</strong> Gayed, J. M. (2026). AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models. arXiv:2606.12801.</p></main>
-    <footer class="container"><small>Part of AI in Education Wiki | Generated 2026-07-28</small></footer>
+    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-07-29</small></footer>
 </body>
 </html>

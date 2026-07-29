@@ -68,6 +68,8 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[teachbench-llm-teaching-evaluation]] — Teacher agent paradigm in agentic education
 
 - [[multi-agent-instructional-design]] — Multi-agent collaboration for instructional design (KLI framework)
+- [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
+
 
 ## Sources
 - Kamalov et al. (2026). *Evolution of AI in Education: Agentic Workflows*. arXiv:2504.20082v2. [PDF](https://arxiv.org/pdf/2504.20082v2)

@@ -87,6 +87,8 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[multi-agent-instructional-design]] — KLI framework as principled approach to AI instructional design
 - [[aied-carbon-footprint-reporting]] — Environmental sustainability as a dimension of principled AI in education
 - [[ai-ethics-education-public-discourse]] - grounding ethics frameworks in discourse
+- [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
+
 
 ## Sources
 - Finkelstein, N. D. (2025). *A principled way to think about AI in education: guidance for educators and policy makers based on goals, models of human learning, and use of technologies*. arXiv:2510.01467 (v2, revised 2026-07-24). [PDF](https://arxiv.org/pdf/2510.01467)
