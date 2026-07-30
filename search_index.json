@@ -166,7 +166,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Affective ComputingThis is a stub page for the concept of affective computing. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Affective ComputingThis is a stub page for the concept of affective computing. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-learning-tools-engineering-education-needs \u2014 206 engineering students: AI chatbots give greatest benefit as relief from compe...",
     "url": "pages/affective-computing.html"
   },
   {
@@ -765,6 +765,20 @@
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2605.04816 \u00b7 localAI Learning Companions FrameworkDefinition\nA design framework for LLM-powered educational agents that prioritize durable learning over short-term task performance. Introduced by Khosravi et al. (2026), AI learning companions are defined as adaptive, pedagogically informed agents integrated into learning environments \u2014 distinct from both task-oriented LLMs and simple prompted tutors.The Learning-Performance Paradox\nLLMs demonstrably improve task outputs (wri",
     "url": "pages/ai-learning-companions-framework.html"
+  },
+  {
+    "slug": "ai-learning-tools-engineering-education-needs",
+    "title": "\"Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes\"",
+    "tags": [
+      "higher-ed",
+      "stem-education",
+      "student-experience",
+      "affective-computing",
+      "personalized-learning",
+      "scaffolding"
+    ],
+    "content": "Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological OutcomesShao et al. (2026) \u2014 Under review.\ud83d\udcc4 Full text (arXiv)Survey of 206 engineering students: AI chatbots provide greatest perceived benefit as relief from competence frustration, smaller benefits for autonomy, weakest for relatedness. Baseline motivational states matter more than demographics; inattention moderates how baseline competence and autonomy relate to perceived AI benefits.",
+    "url": "pages/ai-learning-tools-engineering-education-needs.html"
   },
   {
     "slug": "ai-learning-transfer",
@@ -2698,6 +2712,15 @@
     "url": "pages/daily-digest-2026-07-29.html"
   },
   {
+    "slug": "daily-digest-2026-07-30",
+    "title": "\"Daily Digest: 2026-07-30\"",
+    "tags": [
+      "daily-digest"
+    ],
+    "content": "Daily Digest \u2014 2026-07-305 papers ingested from arXiv listing pages (cs.CY + cs.HC cross-listings surfaced on 2026-07-30). 3 sources scanned; 2 API-based sources returned 0 in-window results.1. Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach\nWenjie Zhou, Yunting Liu, Renjiao Tang, Mark Wilson (2026) \u2014 arXiv:2607.26317CDP framework dramatically improves LLM-simulated examinee alignment with human test-takers (IRT correlation 0.24\u2192",
+    "url": "pages/daily-digest-2026-07-30.html"
+  },
+  {
     "slug": "data-annotations-pedagogical-hints",
     "title": "\"Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking\"",
     "tags": [
@@ -4193,7 +4216,7 @@
     "slug": "knowledge-tracing",
     "title": "Knowledge Tracing",
     "tags": [],
-    "content": "Knowledge TracingStub page for cross-referencing.Related Pages\nskill-acquisition-without-temporal-info -- A neural framework predicts next-skill acquisition from snapshot CDM data using pseudo-temporal ordering via inclusion relations among skill sets.\npattern-kc-programming-recommendation \u2014 Pattern-based KC programming recommendation",
+    "content": "Knowledge TracingStub page for cross-referencing.Related Pages\nskill-acquisition-without-temporal-info -- A neural framework predicts next-skill acquisition from snapshot CDM data using pseudo-temporal ordering via inclusion relations among skill sets.\npattern-kc-programming-recommendation \u2014 Pattern-based KC programming recommendation\nllm-psychometric-calibration-cdp \u2014 CDP framework dramatically improves LLM-simulated examinee alignment with human ...\nstudent-math-competence-clustering \u2014 119K st",
     "url": "pages/knowledge-tracing.html"
   },
   {
@@ -4600,6 +4623,20 @@
     "url": "pages/llm-math-tutoring.html"
   },
   {
+    "slug": "llm-misconception-difficulty-easy-trap",
+    "title": "\"The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty\"",
+    "tags": [
+      "llm",
+      "formative-assessment",
+      "adaptive-learning",
+      "feedback-loop",
+      "student-experience",
+      "stem-education"
+    ],
+    "content": "The Easy Trap: Why LLMs Underestimate Misconception-Driven DifficultyHadi et al. (2026) \u2014 EDM 2026 (Educational Data Mining Conference).\ud83d\udcc4 Full text (arXiv)LLMs systematically underestimate the difficulty of misconception-driven items ('The Easy Trap'). While LLM ratings show moderate rank correlation with empirical student difficulty (rho=0.52-0.70), they misclassify several fraction items as easy that are among the hardest for students (e.g., 34% correct). LLMs approximate curricular rather tha",
+    "url": "pages/llm-misconception-difficulty-easy-trap.html"
+  },
+  {
     "slug": "llm-programming-support-governance-cs-education",
     "title": "\"Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance\"",
     "tags": [
@@ -4611,6 +4648,19 @@
     ],
     "content": "Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance\nKim, Monisha, Wu & Smith IV (2026) \u2014 Virginia Tech; University of Maine. arXiv preprint (cs.HC).\n\ud83d\udcc4 Full text (arXiv)This scoping review synthesizes 90 peer-reviewed llm-based programming support systems in cs-education to make explicit how each system bounds, enacts, and controls assistance \u2014 decisions the authors argue are usually left implicit. They introduce ",
     "url": "pages/llm-programming-support-governance-cs-education.html"
+  },
+  {
+    "slug": "llm-psychometric-calibration-cdp",
+    "title": "\"Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach\"",
+    "tags": [
+      "llm",
+      "formative-assessment",
+      "adaptive-learning",
+      "student-experience",
+      "benchmark"
+    ],
+    "content": "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling ApproachZhou et al. (2026) \u2014 arXiv preprint.\ud83d\udcc4 Full text (arXiv)Proposes Cognitive Diagnostic Profiling (CDP), a zero-shot framework that dramatically improves LLM-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90, and RMSE fell from 6.31 to 0.90. Makes LLM-simulated examinees practical for operational test development.R",
+    "url": "pages/llm-psychometric-calibration-cdp.html"
   },
   {
     "slug": "llm-reasoning-traces-metacognition",
@@ -6101,6 +6151,20 @@
     "url": "pages/student-experience.html"
   },
   {
+    "slug": "student-math-competence-clustering",
+    "title": "Archetypes or ability? Clustering for modelling student mathematical competence",
+    "tags": [
+      "personalized-learning",
+      "stem-education",
+      "learning-analytics",
+      "student-experience",
+      "adaptive-learning",
+      "k-12"
+    ],
+    "content": "Archetypes or ability? Clustering for modelling student mathematical competenceMawdsley et al. (2026) \u2014 arXiv preprint.\ud83d\udcc4 Full text (arXiv)On 119,034 students across 13 UK national exams, Bernoulli Mixture Models found few distinct skill clusters \u2014 overall ability dominates. A simple explainable model achieved 78% accuracy, competitive with complex approaches. Small personalization gains are possible by accounting for individual question-level strengths, but students don't develop strongly diverg",
+    "url": "pages/student-math-competence-clustering.html"
+  },
+  {
     "slug": "student-mental-models-genai",
     "title": "Uncovering Students' Mental Models of Generative Artificial Intelligence",
     "tags": [
@@ -6584,6 +6648,20 @@
     ],
     "content": "Educator's Guide to Multimodal Learning with GenAIThis is a stub page for \"Educator's Guide to Multimodal Learning with GenAI\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
     "url": "pages/varga-atkins-educators-guide-multimodal-learning-genai-2025.html"
+  },
+  {
+    "slug": "vibe-coding-programming-process-visualizer",
+    "title": "\"From Idea to Classroom in Days: Using \\\"Vibe Coding\\\" to Create a Programming Process Visualizer from IDE Activity Logs\"",
+    "tags": [
+      "stem-education",
+      "higher-ed",
+      "teacher-role",
+      "learning-analytics",
+      "academic-integrity",
+      "edtech-platform"
+    ],
+    "content": "From Idea to Classroom in Days: Using \"Vibe Coding\" to Create a Programming Process Visualizer from IDE Activity LogsTaveter et al. (2026) \u2014 FIE 2026 (IEEE Frontiers in Education Conference).\ud83d\udcc4 Full text (arXiv)Describes rapid development of a Thonny log visualizer using AI-assisted 'vibe coding' to make student programming processes visible to teachers. Piloted in a 160-student introductory programming course. Provides interactive timelines, session summaries, code-size graphs, and programming-p",
+    "url": "pages/vibe-coding-programming-process-visualizer.html"
   },
   {
     "slug": "vismatic-secure-sandbox-cs-education",
