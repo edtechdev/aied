@@ -18,4 +18,4 @@ confidence: high
 - **[[llm-detecting-llm-generated-content-education]]** — Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content (Leinonen & Denny, 2026). arXiv:2607.20446.
 
 ## Related Pages
-- [[index]] — full wiki index
+- [Home](../index.html) — full wiki index
