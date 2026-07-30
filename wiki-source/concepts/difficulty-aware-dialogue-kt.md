@@ -16,7 +16,7 @@ confidence: medium
 
 ## Analysis
 
-This paper bridges LLM-based dialogue tutoring and interpretable student modeling. By mapping opaque LLM representations to **Item Response Theory** parameters — student ability (θ) and question difficulty (b) — the framework makes turn-by-turn predictions both accurate and cognitively meaningful. This connects directly to [[knowledge-tracing-irt]] by extending IRT beyond static assessment into live dialogue.^[[raw/papers/2605.01097.md]]
+This paper bridges LLM-based dialogue tutoring and interpretable student modeling. By mapping opaque LLM representations to **Item Response Theory** parameters — student ability (θ) and question difficulty (b) — the framework makes turn-by-turn predictions both accurate and cognitively meaningful. This connects directly to [[knowledge-tracing-irt]] by extending IRT beyond static assessment into live dialogue.^[2605.01097](raw/papers/2605.01097.md)
 
 The framework was validated across two tutor-student dialogue datasets and outperformed existing KT baselines. The approach also operationalizes [[intelligent-tutoring]] by enabling tutors to calibrate scaffolds based on explicit difficulty-aware readiness estimates, and supports [[llm-student-modeling-memory]] by providing a principled way to convert LLM outputs into structured student state representations.
 
