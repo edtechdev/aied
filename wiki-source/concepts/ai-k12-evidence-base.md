@@ -47,7 +47,7 @@ The review frames findings through six established principles. See [[ai-learning
 | Principle | Implication for AI Tools |
 |---|---|
 | Cognitive load | AI reduces extraneous load but may also suppress *germane* (productive) load. |
-| Zone of proximal development | General-purpose AI often operates *outside* the ZPD by completing work for students. [[tutoring-specific-vs-general-ai\|Tutoring-specific scaffolds]] target readiness more precisely. |
+| Zone of proximal development | General-purpose AI often operates *outside* the ZPD by completing work for students. [[tutoring-specific-vs-general-ai|Tutoring-specific scaffolds]] target readiness more precisely. |
 | Transfer | Unclear whether AI-assisted practice produces durable knowledge or merely tool-dependent performance. |
 | Metacognition | AI completing tasks reduces opportunities for students to monitor their own understanding. |
 | Expertise reversal | Novices need guidance; experts need independence. Effective AI must adapt to learner expertise. |

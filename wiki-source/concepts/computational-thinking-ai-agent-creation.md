@@ -16,7 +16,7 @@ Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study
 
 ## Summary
 
-This mixed-methods study examines how **93 pre-high school students** develop [[computational thinking]] skills through a five-day AI agent creation workshop using CocoFlow, a no-code platform. The study integrates pre-post assessments, behavioral logs, and interviews to trace learning trajectories.
+This mixed-methods study examines how **93 pre-high school students** develop [[computational-thinking]] skills through a five-day AI agent creation workshop using CocoFlow, a no-code platform. The study integrates pre-post assessments, behavioral logs, and interviews to trace learning trajectories.
 
 **Key quantitative findings:**
 - **Abstract thinking:** significant improvement (d = 0.71)

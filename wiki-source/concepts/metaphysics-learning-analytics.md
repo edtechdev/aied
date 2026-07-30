@@ -16,7 +16,7 @@ Attempts to establish a **metaphysical foundation** for Learning Analytics (LA) 
 
 **Critical contribution:** Defines **norm-embedded LA** as a class of practices where LA's purpose (improving learning) is conflated with its operations (measuring behavior), creating an ontological tension. Challenges the field to clarify its identity from internal principles rather than external frameworks.
 
-While speculative and lacking empirical validation (hence [[confidence:low|low confidence]]), the paper provides useful [[learning-analytics|philosophical grounding]] for debates about [[ai-detection|AI's role in analytics]], [[privacy|data ethics]], and [[equity|normative claims in educational technology]].
+While speculative and lacking empirical validation (hence *low confidence*), the paper provides useful [[learning-analytics|philosophical grounding]] for debates about [[ai-detection|AI's role in analytics]], [[privacy|data ethics]], and [[equity|normative claims in educational technology]].
 
 ## Related Pages
 - [[learning-analytics]] — Learning analytics foundations and frameworks

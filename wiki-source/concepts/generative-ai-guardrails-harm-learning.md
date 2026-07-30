@@ -51,7 +51,7 @@ Students in the GPT Base arm performed *worse* on the exam but did **not** repor
 GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive prompt design is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe misconceptions) and call for combining pedagogical software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.^[raw/papers/pnas-2025-guardrails-harm-learning.md]
 
 ## Implications
-- **For the wiki:** This is the strongest *causal, field-deployed* evidence for the [[over-reliance]] and [[cognitive-offloading]] phenomena, and a direct, preregistered demonstration of the [[genai-performance-vs-learning]] distinction (performance ↑, learning ↓). It complements [[generative-ai-reduced-study-time-math]] (population-scale behavioral evidence) and [[ai-assistance-reduces-persistence]] (lab causal evidence), and motivates [[scaffolding]] and [[Socratic AI dialogue]] designs that preserve learning.
+- **For the wiki:** This is the strongest *causal, field-deployed* evidence for the [[over-reliance]] and [[cognitive-offloading]] phenomena, and a direct, preregistered demonstration of the [[genai-performance-vs-learning]] distinction (performance ↑, learning ↓). It complements [[generative-ai-reduced-study-time-math]] (population-scale behavioral evidence) and [[ai-assistance-reduces-persistence]] (lab causal evidence), and motivates [[scaffolding]] and [[socratic-ai-dialogue]] designs that preserve learning.
 - **For practice/policy:** Because ChatGPT-like tools are already widely used by students off-platform, the GPT Base harm is immediately relevant. Deployments where learning matters need explicit guardrails (hint-not-answer prompts, teacher-authored scaffolding, answer-checking).
 
 ## Limitations (per authors)
@@ -64,7 +64,7 @@ Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), 
 - [[generative-ai-reduced-study-time-math]] — Population-scale (3.2M interactions) companion evidence of learning loss
 - [[ai-assistance-reduces-persistence]] — Lab causal evidence that AI assistance impairs unassisted performance
 - [[scaffolding]] — Guardrail design that preserves learning
-- [[Socratic AI dialogue]] — Hint-not-answer tutoring pattern embodied by GPT Tutor
+- [[socratic-ai-dialogue]] — Hint-not-answer tutoring pattern embodied by GPT Tutor
 - [[intelligent-tutoring]] — Where guardrailed generative tutors fit
 - [[k-12]] / [[stem-education]] — Deployment context (high-school math)
 - [[RCT]] — The study design used

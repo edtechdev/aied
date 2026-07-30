@@ -22,7 +22,7 @@ sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md]
 |---|---|---|
 | **Interaction model** | Open-ended Q&A; completes tasks on request | Structured hints, Socratic questioning, step-by-step scaffolds |
 | **Cognitive load** | Reduces *all* load, including germane (productive) load | Reduces extraneous load while preserving productive struggle |
-| **ZPD targeting** | Often operates outside the [[zone-of-proximal-development\|zone of proximal development]] | Explicitly calibrated to learner readiness |
+| **ZPD targeting** | Often operates outside the [[zone-of-proximal-development|zone of proximal development]] | Explicitly calibrated to learner readiness |
 | **Metacognitive demand** | Low — AI does the reasoning | High — learner must reason with guidance |
 | **Transfer evidence** | Mixed to negative when tool is removed | More promising (limited causal data) |
 

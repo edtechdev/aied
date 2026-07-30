@@ -51,5 +51,5 @@ confidence: high
 5. **Student AI Bias**: Students penalize content they suspect is AI-generated even when quality is equal
 
 ## See Also
-- [[journal]] — Full chronological index
+- [Journal](../journal.html) — Full chronological index
 - [[daily-digest-2026-05-13]] — Yesterday's digest

@@ -1,5 +1,16 @@
 [
   {
+    "slug": "RCT",
+    "title": "\"Randomized Controlled Trials in AI Education Research\"",
+    "tags": [
+      "RCT",
+      "research-methods",
+      "ai-ed-evaluation"
+    ],
+    "content": "Randomized Controlled Trials in AI Education ResearchThis is a stub page for \"Randomized Controlled Trials in AI Education Research\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/RCT.html"
+  },
+  {
     "slug": "a4l-analytics-pipeline",
     "title": "Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains",
     "tags": [
@@ -1378,6 +1389,17 @@
     "url": "pages/awareness-technological-isomorphism.html"
   },
   {
+    "slug": "becerra-aicofe-feedback-2026",
+    "title": "\"AICoFE: AI-Powered Feedback System\"",
+    "tags": [
+      "ai-feedback-quality",
+      "ai-assessment",
+      "student-experience"
+    ],
+    "content": "AICoFE: AI-Powered Feedback SystemThis is a stub page for \"AICoFE: AI-Powered Feedback System\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/becerra-aicofe-feedback-2026.html"
+  },
+  {
     "slug": "benchmark-driven-edtech",
     "title": "\"Benchmark Driven Edtech\"",
     "tags": [],
@@ -1767,7 +1789,7 @@
       "scaffolding",
       "personalized-learning"
     ],
-    "content": "Computational Thinking Development in AI Agent Creation: A Mixed-Methods StudyComputational Thinking Development in AI Agent Creation: A Mixed-Methods Study\nSun et al. (2026) \u2014 Multiple institutions. arXiv cs.CY.\n\ud83d\udcc4 Full text (arXiv)SummaryThis mixed-methods study examines how 93 pre-high school students develop computational thinking skills through a five-day AI agent creation workshop using CocoFlow, a no-code platform. The study integrates pre-post assessments, behavioral logs, and interviews ",
+    "content": "Computational Thinking Development in AI Agent Creation: A Mixed-Methods StudyComputational Thinking Development in AI Agent Creation: A Mixed-Methods Study\nSun et al. (2026) \u2014 Multiple institutions. arXiv cs.CY.\n\ud83d\udcc4 Full text (arXiv)SummaryThis mixed-methods study examines how 93 pre-high school students develop computational-thinking skills through a five-day AI agent creation workshop using CocoFlow, a no-code platform. The study integrates pre-post assessments, behavioral logs, and interviews ",
     "url": "pages/computational-thinking-ai-agent-creation.html"
   },
   {
@@ -1841,6 +1863,17 @@
     ],
     "content": "Confidence-Aware Automated Assessment of Student-Drawn Scientific ModelsLuyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). arXiv cs.AI preprint\n\ud83d\udcc4 Full text (arXiv)OverviewVision Transformer (ViT) with LoRA adaptation for automated scoring of student-drawn scientific models on six NGSS-aligned middle school assessment items. A confidence-aware framework derives response-level confidence from test-time predictive distributions, enabling selective automation: h",
     "url": "pages/confidence-aware-student-drawing-assessment.html"
+  },
+  {
+    "slug": "cong-confidence-asag-2026",
+    "title": "\"Confidence-Aware Automatic Short Answer Grading\"",
+    "tags": [
+      "automatic-short-answer-grading",
+      "confidence",
+      "assessment"
+    ],
+    "content": "Confidence-Aware Automatic Short Answer GradingThis is a stub page for \"Confidence-Aware Automatic Short Answer Grading\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/cong-confidence-asag-2026.html"
   },
   {
     "slug": "constructing-epistemic-ai-literacy-student-ai-co-programming",
@@ -3166,6 +3199,17 @@
     "url": "pages/evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations.html"
   },
   {
+    "slug": "every-learner-faculty-development-genai-playbook-2025",
+    "title": "\"Every Learner: Faculty Development GenAI Playbook\"",
+    "tags": [
+      "faculty-development",
+      "generative-ai",
+      "higher-ed"
+    ],
+    "content": "Every Learner: Faculty Development GenAI PlaybookThis is a stub page for \"Every Learner: Faculty Development GenAI Playbook\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/every-learner-faculty-development-genai-playbook-2025.html"
+  },
+  {
     "slug": "expert-cognition-dashboard",
     "title": "\"Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education\"",
     "tags": [
@@ -3213,6 +3257,17 @@
     "url": "pages/faculty-development.html"
   },
   {
+    "slug": "favero-critical-ai-tutors-empower-enslave-2025",
+    "title": "\"Critical AI Tutors: Empower or Enslave?\"",
+    "tags": [
+      "ai-tutoring",
+      "critical-pedagogy",
+      "over-reliance"
+    ],
+    "content": "Critical AI Tutors: Empower or Enslave?This is a stub page for \"Critical AI Tutors: Empower or Enslave?\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/favero-critical-ai-tutors-empower-enslave-2025.html"
+  },
+  {
     "slug": "feedback-loop",
     "title": "Feedback Loop",
     "tags": [
@@ -3222,6 +3277,17 @@
     ],
     "content": "Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\n  - llm-automated-assessment-student-self-explanations \u2014 LLM-based binary classification of student self-explanations for automated feedback (2026)\nai-changing-teaching-workflows\nchatgpt-critical-creative-thinking-review \u2014 Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)\nlata-ferpa-complia",
     "url": "pages/feedback-loop.html"
+  },
+  {
+    "slug": "finkelstein-principled-ai-education-2025",
+    "title": "\"Principled AI Education Framework\"",
+    "tags": [
+      "ai-literacy",
+      "curriculum-design",
+      "framework"
+    ],
+    "content": "Principled AI Education FrameworkThis is a stub page for \"Principled AI Education Framework\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/finkelstein-principled-ai-education-2025.html"
   },
   {
     "slug": "five-stage-ai-literacy-continuum",
@@ -3663,6 +3729,17 @@
     "url": "pages/generativism-learning-theory.html"
   },
   {
+    "slug": "golrang-propact-pair-programming-2026",
+    "title": "\"ProPACT: Pair Programming with AI\"",
+    "tags": [
+      "pair-programming",
+      "collaborative-learning",
+      "cs-education"
+    ],
+    "content": "ProPACT: Pair Programming with AIThis is a stub page for \"ProPACT: Pair Programming with AI\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/golrang-propact-pair-programming-2026.html"
+  },
+  {
     "slug": "ground-truth-reliability-aided",
     "title": "\"Ground Truth Reliability Aided\"",
     "tags": [
@@ -3723,6 +3800,29 @@
     "url": "pages/hallucination-risk.html"
   },
   {
+    "slug": "hashmi-socratic-physics-chatbot-2025",
+    "title": "\"Socratic Physics Chatbot\"",
+    "tags": [
+      "socratic-method",
+      "physics-education",
+      "chatbot",
+      "ai-tutoring"
+    ],
+    "content": "Socratic Physics ChatbotThis is a stub page for \"Socratic Physics Chatbot\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/hashmi-socratic-physics-chatbot-2025.html"
+  },
+  {
+    "slug": "hazra-safetutors-pedagogical-safety-2026",
+    "title": "\"SafeTutors: Pedagogical Safety in AI Tutoring\"",
+    "tags": [
+      "ai-tutor-safety-harms",
+      "pedagogical-safety",
+      "k-12"
+    ],
+    "content": "SafeTutors: Pedagogical Safety in AI TutoringThis is a stub page for \"SafeTutors: Pedagogical Safety in AI Tutoring\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/hazra-safetutors-pedagogical-safety-2026.html"
+  },
+  {
     "slug": "higher-ed",
     "title": "AI in Higher Education",
     "tags": [
@@ -3732,6 +3832,17 @@
     ],
     "content": "AI in Higher EducationConnectionsRelated Pages\ngenai-impact-chinese-students-hss \u2014 Large-scale survey examining GenAI's role in academic development of humanities and social sciences students\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nethical-ai-higher-ed-game-theory \u2014 3 of 8 papers in May 28 scan\nllm-sentiment-analysis-education-research \u2014 1 of 8 papers in May 28 scan\ngenai-minoritized-knowledges-disability \u2014 GenAI's role in epistemic coloniality within higher education\nc",
     "url": "pages/higher-ed.html"
+  },
+  {
+    "slug": "hingle-collaborative-ai-literacy-2025",
+    "title": "\"Collaborative AI Literacy Framework\"",
+    "tags": [
+      "ai-literacy",
+      "collaborative-learning",
+      "framework"
+    ],
+    "content": "Collaborative AI Literacy FrameworkThis is a stub page for \"Collaborative AI Literacy Framework\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/hingle-collaborative-ai-literacy-2025.html"
   },
   {
     "slug": "history-aware-student-simulation",
@@ -3745,6 +3856,17 @@
     ],
     "content": "Who Am I? History-Aware Profiles for Student Simulation in Tutoring DialoguesZhangqi Duan et al. (2026) \u2014 arXiv preprint.\ud83d\udcc4 Full text (arXiv)A key part of developing large language model (LLM)-powered, automated tutoring tools is student simulation, i.e., using LLMs to role-play as students, which can facilitate tutor model evaluation and training. Existing work mostly focuses on within-dialogue simulation, which lacks context on student knowledge and behavior, partly due to not grounding in past",
     "url": "pages/history-aware-student-simulation.html"
+  },
+  {
+    "slug": "huang-interpretable-knowledge-tracing-2026",
+    "title": "\"Interpretable Knowledge Tracing\"",
+    "tags": [
+      "knowledge-tracing",
+      "interpretability",
+      "student-modeling"
+    ],
+    "content": "Interpretable Knowledge TracingThis is a stub page for \"Interpretable Knowledge Tracing\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/huang-interpretable-knowledge-tracing-2026.html"
   },
   {
     "slug": "human-ai-co-mentorship",
@@ -3960,6 +4082,17 @@
     "url": "pages/item-response-theory.html"
   },
   {
+    "slug": "jeon-isd-agent-bench-2026",
+    "title": "\"ISD Agent Benchmark\"",
+    "tags": [
+      "agent",
+      "benchmark",
+      "ai-ed-evaluation"
+    ],
+    "content": "ISD Agent BenchmarkThis is a stub page for \"ISD Agent Benchmark\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "url": "pages/jeon-isd-agent-bench-2026.html"
+  },
+  {
     "slug": "jill-watson",
     "title": "\"Jill Watson\"",
     "tags": [],
@@ -3985,6 +4118,29 @@
     "tags": [],
     "content": "K 12Stub page \u2014 full synthesis pending.Related Pages\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration\ndigital-literacy-illusion \u2014 Digital literacy illusion study with N=243 European secondary students\nteacher-authored-prompts-student-ai-dialogue \u2014 K-12 classroom implementation of AI-mediated dialogueawareness-technological-isomorphism \u2014 AI-integrated elementary mathematics through Technological Isomorphism\nregulating",
     "url": "pages/k-12.html"
+  },
+  {
+    "slug": "kar-mathbuddy-affective-math-tutoring-2025",
+    "title": "\"MathBuddy: Affective Math Tutoring\"",
+    "tags": [
+      "math-education",
+      "affective-computing",
+      "intelligent-tutoring",
+      "k-12"
+    ],
+    "content": "MathBuddy: Affective Math TutoringThis is a stub page for \"MathBuddy: Affective Math Tutoring\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/kar-mathbuddy-affective-math-tutoring-2025.html"
+  },
+  {
+    "slug": "kim-llm-fallacy-misattribution-2026",
+    "title": "\"LLM Fallacy Misattribution in Education\"",
+    "tags": [
+      "llm",
+      "misinformation",
+      "ai-literacy"
+    ],
+    "content": "LLM Fallacy Misattribution in EducationThis is a stub page for \"LLM Fallacy Misattribution in Education\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/kim-llm-fallacy-misattribution-2026.html"
   },
   {
     "slug": "knowledge-distillation-ai-tutor-evaluation",
@@ -4940,6 +5096,18 @@
     "url": "pages/neurodivergent-computing-students.html"
   },
   {
+    "slug": "nie-personavlm-long-term-personalization-2026",
+    "title": "\"PersonaVLM: Long-Term Personalization for AI Tutors\"",
+    "tags": [
+      "personalization",
+      "ai-tutoring",
+      "student-modeling",
+      "llm"
+    ],
+    "content": "PersonaVLM: Long-Term Personalization for AI TutorsThis is a stub page for \"PersonaVLM: Long-Term Personalization for AI Tutors\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/nie-personavlm-long-term-personalization-2026.html"
+  },
+  {
     "slug": "nlp-education",
     "title": "\"Nlp Education\"",
     "tags": [
@@ -5554,6 +5722,18 @@
     "url": "pages/scaffolding.html"
   },
   {
+    "slug": "scheu-mobile-chatbot-journaling-motivation-2026",
+    "title": "\"Mobile Chatbot Journaling for Student Motivation\"",
+    "tags": [
+      "mobile-learning",
+      "chatbot",
+      "student-motivation",
+      "journaling"
+    ],
+    "content": "Mobile Chatbot Journaling for Student MotivationThis is a stub page for \"Mobile Chatbot Journaling for Student Motivation\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/scheu-mobile-chatbot-journaling-motivation-2026.html"
+  },
+  {
     "slug": "self-efficacy-tutoring-learning",
     "title": "Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice",
     "tags": [
@@ -5673,6 +5853,17 @@
     "url": "pages/simulation-based-learning.html"
   },
   {
+    "slug": "singh-eduqwen-pedagogical-rl-2026",
+    "title": "\"EduQwen: Pedagogical RL\"",
+    "tags": [
+      "reinforcement-learning",
+      "pedagogical-ai",
+      "llm"
+    ],
+    "content": "EduQwen: Pedagogical RLThis is a stub page for \"EduQwen: Pedagogical RL\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "url": "pages/singh-eduqwen-pedagogical-rl-2026.html"
+  },
+  {
     "slug": "skill-acquisition-without-temporal-info",
     "title": "Estimating Learners' Skill Acquisition Without Temporal Information",
     "tags": [
@@ -5740,6 +5931,18 @@
     ],
     "content": "Socratic AiThis is a stub page for the concept of socratic ai. It was created to resolve broken backlinks from other wiki pages.Related Pages",
     "url": "pages/socratic-ai.html"
+  },
+  {
+    "slug": "socratic-method",
+    "title": "\"Socratic Method in AI Education\"",
+    "tags": [
+      "socratic-method",
+      "ai-tutoring",
+      "dialogue",
+      "critical-thinking"
+    ],
+    "content": "Socratic Method in AI EducationThis is a stub page for \"Socratic Method in AI Education\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "url": "pages/socratic-method.html"
   },
   {
     "slug": "socratic-questioning",
@@ -5817,6 +6020,17 @@
     ],
     "content": "StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge TracingSiddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. Sales (2026) \u2014 Worcester Polytechnic Institute. arXiv preprint (cs.HC, cs.CY, stat.AP, stat.ME).\ud83d\udcc4 Full text (arXiv)StanBKT introduces an open-source Python package for Bayesian Knowledge Tracing (BKT) that moves beyond traditional expectation-maximization (EM) point estimates to full Bayesian inference via Stan. The package supports four estimation",
     "url": "pages/stanbkt-bayesian-knowledge-tracing.html"
+  },
+  {
+    "slug": "stanford-evidence-base-ai-k12-2026",
+    "title": "\"Stanford Evidence Base: AI in K-12 Education\"",
+    "tags": [
+      "k-12",
+      "ai-literacy",
+      "evidence"
+    ],
+    "content": "Stanford Evidence Base: AI in K-12 EducationThis is a stub page for \"Stanford Evidence Base: AI in K-12 Education\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/stanford-evidence-base-ai-k12-2026.html"
   },
   {
     "slug": "state-policy-teacher-ai",
@@ -6006,6 +6220,18 @@
     ],
     "content": "Surfacing Isolated LearnersAuthors: Junsoo Park, Youssef Medhat, Htet Phyo Wai, Ploy Thajchayapong, Ashok K. Goel (2026) \u2014 Georgia TechWhat It IsAn interpretable decision layer that ranks course topics needing instructor attention without using grades or post-hoc outcome labels. The system combines three process-level signals to identify which topics (and which students) need intervention before formal assessments.How It WorksThree signals feed into a topic priority score:1. Gap prevalence (R\u209c):",
     "url": "pages/surfacing-isolated-learners.html"
+  },
+  {
+    "slug": "syal-multimodal-dialogue-stem-2026",
+    "title": "\"Multimodal Dialogue in STEM Education\"",
+    "tags": [
+      "multimodal",
+      "dialogue",
+      "stem",
+      "ai-tutoring"
+    ],
+    "content": "Multimodal Dialogue in STEM EducationThis is a stub page for \"Multimodal Dialogue in STEM Education\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/syal-multimodal-dialogue-stem-2026.html"
   },
   {
     "slug": "tactile-statistical-graphs-accessibility",
@@ -6349,6 +6575,17 @@
     "url": "pages/universities-ai-era-rethinking.html"
   },
   {
+    "slug": "varga-atkins-educators-guide-multimodal-learning-genai-2025",
+    "title": "\"Educator's Guide to Multimodal Learning with GenAI\"",
+    "tags": [
+      "multimodal-learning",
+      "generative-ai",
+      "educator-guide"
+    ],
+    "content": "Educator's Guide to Multimodal Learning with GenAIThis is a stub page for \"Educator's Guide to Multimodal Learning with GenAI\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "url": "pages/varga-atkins-educators-guide-multimodal-learning-genai-2025.html"
+  },
+  {
     "slug": "vismatic-secure-sandbox-cs-education",
     "title": "\"VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring\"",
     "tags": [
@@ -6467,6 +6704,28 @@
     ],
     "content": "How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal MetadataL. Xiao, G. Chen, Y. Zhang et al. (2026) \u2014 arXiv preprint. Venue: arXiv:2607.08698.\ud83d\udcc4 Full text (arXiv)Uses epistemic network analysis of multimodal YouTube metadata (transcripts, titles, thumbnails, comments) to show how different creator groups frame ChatGPT use in education, revealing divergent narratives around learning support versus academic-integrity risk. The work connects to broa",
     "url": "pages/youtube-frames-chatgpt-education.html"
+  },
+  {
+    "slug": "zerkouk-comprehensive-review-its-2025",
+    "title": "\"Comprehensive Review of Intelligent Tutoring Systems\"",
+    "tags": [
+      "intelligent-tutoring",
+      "literature-review",
+      "adaptive-learning"
+    ],
+    "content": "Comprehensive Review of Intelligent Tutoring SystemsThis is a stub page for \"Comprehensive Review of Intelligent Tutoring Systems\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/zerkouk-comprehensive-review-its-2025.html"
+  },
+  {
+    "slug": "zhan-boud-du-authentic-assessment-scoping-review-2025",
+    "title": "\"Authentic Assessment in the AI Era: Scoping Review\"",
+    "tags": [
+      "assessment-design",
+      "authentic-assessment",
+      "literature-review"
+    ],
+    "content": "Authentic Assessment in the AI Era: Scoping ReviewThis is a stub page for \"Authentic Assessment in the AI Era: Scoping Review\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "url": "pages/zhan-boud-du-authentic-assessment-scoping-review-2025.html"
   },
   {
     "slug": "zone-of-proximal-development",
