@@ -35,6 +35,13 @@
     "url": "pages/academic-integrity.html"
   },
   {
+    "slug": "academic-writing",
+    "title": "\"Academic Writing\"",
+    "tags": [],
+    "content": "Academic WritingThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ngenai-linguistic-diversity-academic-writing",
+    "url": "pages/academic-writing.html"
+  },
+  {
     "slug": "academiclaw-student-agent-benchmark",
     "title": "\"AcademiClaw: When Students Set Challenges for AI Agents\"",
     "tags": [
@@ -641,6 +648,18 @@
     "url": "pages/ai-generated-feedback-higher-ed.html"
   },
   {
+    "slug": "ai-generated-instructional-videos-computing-ed",
+    "title": "Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education",
+    "tags": [
+      "generative-ai",
+      "student-experience",
+      "stem-education",
+      "higher-ed"
+    ],
+    "content": "Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing EducationEsse Ciego, Shubbhi Taneja, Wilson Wong, Amanpreet Kapoor (2026) \u2014 arXiv:2607.28203 (cs.HC)\ud83d\udcc4 Full text (arXiv)SummaryStudies student perceptions of AI-generated instructional videos in computing education. Finds students value personalization and rapid production but express concerns about accuracy and the loss of instructor presence. Identifies clear preferences for hybrid approaches where AI g",
+    "url": "pages/ai-generated-instructional-videos-computing-ed.html"
+  },
+  {
     "slug": "ai-generated-slides-student-perception",
     "title": "\"AI-Generated Slides: Are They Good? Can Students Tell?\"",
     "tags": [
@@ -856,6 +875,18 @@
     ],
     "content": "Ai Literacy In Higher EducationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ndot-framework-survey\ngender-differences-ai-literacy-deepfake -- Single-day AI literacy workshops partially narrow gender STEM gaps; males need targeted deepfake safety education",
     "url": "pages/ai-literacy-in-higher-education.html"
+  },
+  {
+    "slug": "ai-literacy-power-knowledge",
+    "title": "\"AI Literacy: An Exercise in Power-Knowledge\"",
+    "tags": [
+      "ai-literacy",
+      "equity",
+      "educational-theory",
+      "generative-ai"
+    ],
+    "content": "AI Literacy: An Exercise in Power-KnowledgeBrady D. Lund, Zo\u00eb Abbie Teel (2026) \u2014 arXiv:2607.27547 (cs.AI, cs.CY)\ud83d\udcc4 Full text (arXiv)SummaryArgues existing AI literacy frameworks, dominated by technical competency and responsible-use principles, enforce a consumer orientation toward AI rather than fostering genuine epistemic agency. Draws on Foucault's power-knowledge framework to propose a critical AI literacy that empowers learners to shape and challenge AI systems rather than merely use them.T",
+    "url": "pages/ai-literacy-power-knowledge.html"
   },
   {
     "slug": "ai-literacy",
@@ -1311,6 +1342,20 @@
     "url": "pages/automated-assessment.html"
   },
   {
+    "slug": "automated-essay-scoring",
+    "title": "\"Automated Essay Scoring\"",
+    "tags": [],
+    "content": "Automated Essay ScoringThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nicle-plus-plus-essay-scoring",
+    "url": "pages/automated-essay-scoring.html"
+  },
+  {
+    "slug": "automated-feedback",
+    "title": "\"Automated Feedback\"",
+    "tags": [],
+    "content": "Automated FeedbackThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nllm-judged-helpfulness-pedagogy-signal",
+    "url": "pages/automated-feedback.html"
+  },
+  {
     "slug": "automated-formative-assessments-a-level-sciences",
     "title": "The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences",
     "tags": [
@@ -1453,6 +1498,18 @@
     ],
     "content": "From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMsS. Bekkouch, T. Constantinou, M. Ovaere, et al. (2026) \u2014 arXiv preprint. Venue: arXiv:2607.08009.\ud83d\udcc4 Full text (arXiv)Introduces a Bloom-aligned framework for measuring 'educational control' in LLMs: the ability to preserve a task's instructional intent while shifting its cognitive demand toward higher-order Bloom levels, offering a metric for evaluating whether AI assistance scaffolds or shortcuts lear",
     "url": "pages/bloom-aligned-educational-control-llms.html"
+  },
+  {
+    "slug": "book-level-synthetic-textbook-organization",
+    "title": "\"Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training\"",
+    "tags": [
+      "generative-ai",
+      "llm",
+      "personalized-learning",
+      "educational-theory"
+    ],
+    "content": "Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-TrainingJiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026) \u2014 arXiv:2607.28109 (cs.AI)\ud83d\udcc4 Full text (arXiv)SummaryStudies how organizing synthetic content into coherent book-level documents affects language model training, moving beyond local rewriting. Presents a scalable synthesis pipeline that retrieves source material, clusters it into topical units, and plans hierarchical textbook structures. S",
+    "url": "pages/book-level-synthetic-textbook-organization.html"
   },
   {
     "slug": "bridging-instructional-design-framework-math",
@@ -1816,6 +1873,13 @@
     "url": "pages/computational-thinking.html"
   },
   {
+    "slug": "computing-education",
+    "title": "\"Computing Education\"",
+    "tags": [],
+    "content": "Computing EducationThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nai-generated-instructional-videos-computing-ed\nlearner-ai-interaction-patterns-oop\nsolving-vs-evaluating-genai-solutions",
+    "url": "pages/computing-education.html"
+  },
+  {
     "slug": "computing-students-cybersecurity-attitudes",
     "title": "\"Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity\"",
     "tags": [
@@ -2035,6 +2099,13 @@
     ],
     "content": "Scaffolding Critical Thinking with Generative AIVendrell & Johnston (2026) propose a design-oriented pedagogical framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from cognitive psychology, educational theory, and AI ethics, the framework addresses the risk that unstructured LLM use leads to cognitive offloading, metacognitive disengagement, and reduced epistemic agency.The Problem: Unstructured LLM UseA global survey rep",
     "url": "pages/critical-thinking-genai-scaffolding.html"
+  },
+  {
+    "slug": "critical-thinking",
+    "title": "\"Critical Thinking\"",
+    "tags": [],
+    "content": "Critical ThinkingThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\npost-instrumental-learning-capacity-dissolution\nai-literacy-power-knowledge\ngenerative-refusal-ai-tools-for-thought",
+    "url": "pages/critical-thinking.html"
   },
   {
     "slug": "cross-cultural-student-perceptions-genai-computing",
@@ -2721,6 +2792,15 @@
     "url": "pages/daily-digest-2026-07-30.html"
   },
   {
+    "slug": "daily-digest-2026-07-31",
+    "title": "\"Daily Digest \u2014 2026-07-31\"",
+    "tags": [
+      "scoping-review"
+    ],
+    "content": "Daily Digest \u2014 2026-07-3114 papers ingested across AI in education topics.Papers IngestedWhen AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution \u2014 Kai Yao (arXiv:2607.28041)\n  - Tags: generative-ai, educational-theory, over-reliance, student-experience\n  - Argues that as AI systems become capable of producing the artifacts through which institutions recognize competence, existing ethical frameworks centered on AI failures become insufficient. ",
+    "url": "pages/daily-digest-2026-07-31.html"
+  },
+  {
     "slug": "data-annotations-pedagogical-hints",
     "title": "\"Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking\"",
     "tags": [
@@ -2759,6 +2839,13 @@
     ],
     "content": "DebugTracker: Lightweight Process Evidence for Classroom DebuggingJiatong Liu et al. (2026) \u2014 The University of Hong Kong. arXiv.\ud83d\udcc4 Full text (arXiv)Debugging exercises are usually graded from final code and test outcomes, which hide how students reproduced failures, formed hypotheses, inspected evidence, edited code, and verified fixes. The authors present DebugTracker, a Visual Studio Code extension that records lightweight debugging-process evidence for classroom tasks. It separates uncoached ",
     "url": "pages/debugtracker-classroom-debugging.html"
+  },
+  {
+    "slug": "design-education",
+    "title": "\"Design Education\"",
+    "tags": [],
+    "content": "Design EducationThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ngenai-architectural-design-studios",
+    "url": "pages/design-education.html"
   },
   {
     "slug": "design-thinking-in-education",
@@ -2822,6 +2909,13 @@
     ],
     "content": "The Illusion of Competence: Digital Literacy & AI ReadinessRodriguez-Alvarez et al. (2026) \u2014 IES Parquesol, Moate Community School, IES Jose Jimenez Lozano, Universidad de Valladolid.\ud83d\udcc4 Full text (arXiv)This multicenter study (N=243 European secondary students) systematically challenges the 'Digital Native' paradigm by demonstrating a severe confidence-competence gap in digital and AI literacy. Students report near-maximum self-efficacy in passive digital consumption (browsing, social media) but ",
     "url": "pages/digital-literacy-illusion.html"
+  },
+  {
+    "slug": "digital-literacy",
+    "title": "\"Digital Literacy\"",
+    "tags": [],
+    "content": "Digital LiteracyThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nai-literacy-power-knowledge",
+    "url": "pages/digital-literacy.html"
   },
   {
     "slug": "dot-framework-survey",
@@ -2941,6 +3035,20 @@
     "url": "pages/eduagentbench-agent-teaching-benchmark.html"
   },
   {
+    "slug": "educational-content",
+    "title": "\"Educational Content\"",
+    "tags": [],
+    "content": "Educational ContentThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nbook-level-synthetic-textbook-organization",
+    "url": "pages/educational-content.html"
+  },
+  {
+    "slug": "educational-datasets",
+    "title": "\"Educational Datasets\"",
+    "tags": [],
+    "content": "Educational DatasetsThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\niks-instruct-dataset-indian-knowledge",
+    "url": "pages/educational-datasets.html"
+  },
+  {
     "slug": "educational-llm-alignment",
     "title": "Educational LLM Alignment",
     "tags": [
@@ -2979,6 +3087,13 @@
     ],
     "content": "Educational Policy AiThis is a stub page for the concept of educational policy ai. It was created to resolve broken backlinks from other wiki pages.Related Pages",
     "url": "pages/educational-policy-ai.html"
+  },
+  {
+    "slug": "educational-theory",
+    "title": "\"Educational Theory\"",
+    "tags": [],
+    "content": "Educational TheoryThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\npost-instrumental-learning-capacity-dissolution",
+    "url": "pages/educational-theory.html"
   },
   {
     "slug": "educational-vlm-evaluation",
@@ -3453,6 +3568,18 @@
     "url": "pages/genai-academic-search-workshop.html"
   },
   {
+    "slug": "genai-architectural-design-studios",
+    "title": "Development and applications of Generative AI in architectural design studios",
+    "tags": [
+      "generative-ai",
+      "higher-ed",
+      "student-experience",
+      "active-learning"
+    ],
+    "content": "Development and applications of Generative AI in architectural design studiosLeman Figen G\u00fcl, Burak Delikanl\u0131, O\u011fulcan \u00dcne\u015fi, Ertu\u011frul \u00d6mer G\u00fcl (2026) \u2014 arXiv:2607.24752 (cs.HC)\ud83d\udcc4 Full text (arXiv)SummaryExamines the integration of deep generative models into architectural design education. Explores how GenAI tools affect the creative process in design studios, finding both enhancement of ideation and concerns about the erosion of foundational design skills. Proposes pedagogical frameworks for ba",
+    "url": "pages/genai-architectural-design-studios.html"
+  },
+  {
     "slug": "genai-architecture-education",
     "title": "\"Gen-AI-tecture: using generative AI to support architectural students in design tasks\"",
     "tags": [
@@ -3519,6 +3646,19 @@
     ],
     "content": "The Impact of GenAI on Chinese HSS Students' Academic DevelopmentLei Fan and Fangxue Liu (2026) \u2014 Xi'an Jiaotong-Liverpool University, University of Liverpool. \n\ud83d\udcc4 Full text (arXiv)This large-scale survey of humanities and social sciences (HSS) students in China examines how generative-ai reshapes academic development across four dimensions: usage patterns, effects on learning processes and performance, challenges, and preferred curricular integration approaches. Over half of respondents reported",
     "url": "pages/genai-impact-chinese-students-hss.html"
+  },
+  {
+    "slug": "genai-linguistic-diversity-academic-writing",
+    "title": "\"Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes\"",
+    "tags": [
+      "generative-ai",
+      "writing-education",
+      "equity",
+      "higher-ed",
+      "language-learning"
+    ],
+    "content": "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World EnglishesKingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026) \u2014 arXiv:2607.28505 (cs.CL)\ud83d\udcc4 Full text (arXiv)SummaryStructured scholarly dialogue among five sociolinguists examining how GenAI tools influence academic writing practices, reinforce or disrupt linguistic hierarchies, and impact the legitimacy of diverse English varieties in global scholarly communication.",
+    "url": "pages/genai-linguistic-diversity-academic-writing.html"
   },
   {
     "slug": "genai-literacy-image-discrimination",
@@ -3737,6 +3877,19 @@
     "tags": [],
     "content": "Generative AiStub page \u2014 full synthesis pending.Related Pages\ngenai-impact-chinese-students-hss \u2014 Survey of Chinese HSS students on GenAI's effects on learning motivation, creativity, and academic performance\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\ngenai-minoritized-knowledges-disability \u2014 epistemic marginalization of minoritized knowledges via GenAI\n  - efficiency-gain-illusion-ai-overreliance \u2014 Efficiency-gain illusion: systematic miscalibration about GenAI time-savin",
     "url": "pages/generative-ai.html"
+  },
+  {
+    "slug": "generative-refusal-ai-tools-for-thought",
+    "title": "\"Stop Writing for Me: Generative Refusal in AI Tools for Thought\"",
+    "tags": [
+      "generative-ai",
+      "writing-education",
+      "scaffolding",
+      "educational-theory",
+      "over-reliance"
+    ],
+    "content": "Stop Writing for Me: Generative Refusal in AI Tools for ThoughtSora Kang (2026) \u2014 arXiv:2607.24751 (cs.HC)\ud83d\udcc4 Full text (arXiv)SummaryPosition paper exploring \"Generative Refusal\" \u2014 AI tools that strategically withhold text generation to demand user articulation, functioning as a Maieutic Partner rather than a cognitive offloading tool. Argues that in domains where the labor of articulation is central to craft, AI should enhance rather than bypass human cognition.The work connects to broader discu",
+    "url": "pages/generative-refusal-ai-tools-for-thought.html"
   },
   {
     "slug": "generativism-learning-theory",
@@ -3985,6 +4138,32 @@
     "url": "pages/hybrid-human-ai-tutoring-differentiated.html"
   },
   {
+    "slug": "icle-plus-plus-essay-scoring",
+    "title": "\"ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring\"",
+    "tags": [
+      "automated-grading",
+      "llm",
+      "writing-education",
+      "benchmark",
+      "higher-ed"
+    ],
+    "content": "ICLE++: Modeling Fine-Grained Traits for Holistic Essay ScoringShengjie Li, Vincent Ng (2026) \u2014 arXiv:2607.27671 (cs.CL)\ud83d\udcc4 Full text (arXiv)SummaryIntroduces ICLE++, a corpus of persuasive student essays annotated with both holistic scores and trait-specific scores, addressing limitations of the widely-used ASAP corpus. Demonstrates that models trained on trait-specific annotations achieve better generalization across corpora for automated essay scoring.The work connects to broader discussions in",
+    "url": "pages/icle-plus-plus-essay-scoring.html"
+  },
+  {
+    "slug": "iks-instruct-dataset-indian-knowledge",
+    "title": "\"IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems\"",
+    "tags": [
+      "llm",
+      "personalized-learning",
+      "educational-theory",
+      "language-learning",
+      "open-source"
+    ],
+    "content": "IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge SystemsShwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani (2026) \u2014 arXiv:2607.23322 (cs.CL, cs.CY)\ud83d\udcc4 Full text (arXiv)SummaryPresents a 24,795-example multilingual instruction dataset for teaching LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western pedagogical content for instruction tunin",
+    "url": "pages/iks-instruct-dataset-indian-knowledge.html"
+  },
+  {
     "slug": "inclusive-ai",
     "title": "Inclusive Ai",
     "tags": [],
@@ -4041,7 +4220,7 @@
     "slug": "instructional-design",
     "title": "Instructional Design",
     "tags": [],
-    "content": "Instructional DesignStub page \u2014 full synthesis pending.Related Pages\nconcept-catalyst-engineering-scaffolds\nanvil-ai-educational-animations\ndidactical-teacher-assistant-dimensional-modeling \u2014 Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes \nadhd-video-segmentation-computing-education \u2014 Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p",
+    "content": "Instructional DesignStub page \u2014 full synthesis pending.Related Pages\nconcept-catalyst-engineering-scaffolds\nanvil-ai-educational-animations\ndidactical-teacher-assistant-dimensional-modeling \u2014 Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes \nadhd-video-segmentation-computing-education \u2014 Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p\nai-generated-instructional-videos-computing-ed",
     "url": "pages/instructional-design.html"
   },
   {
@@ -4271,6 +4450,19 @@
     "url": "pages/lata-ferpa-compliant-local-llm-autograder.html"
   },
   {
+    "slug": "learner-ai-interaction-patterns-oop",
+    "title": "Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course",
+    "tags": [
+      "generative-ai",
+      "student-experience",
+      "stem-education",
+      "higher-ed",
+      "learning-analytics"
+    ],
+    "content": "Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming CourseMarina Lepp (2026) \u2014 arXiv:2607.24755 (cs.HC, cs.AI, cs.CY)\ud83d\udcc4 Full text (arXiv)SummaryExamines how different forms of learner-AI interaction relate to learning outcomes in object-oriented programming courses. Identifies distinct patterns of GenAI use among students and correlates them with academic performance, finding that certain interaction patterns (seeking explanation rather than code generati",
+    "url": "pages/learner-ai-interaction-patterns-oop.html"
+  },
+  {
     "slug": "learning-analytics-dashboards",
     "title": "\"Learning Analytics Dashboards\"",
     "tags": [],
@@ -4336,6 +4528,13 @@
     "tags": [],
     "content": "Learning GainsStub page for cross-referencing.Related Pages\nadaptive-pretesting-retention -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice \u2014 learner-directed AI study underperforms structured retrieval.\nlearning-behavior-background-advantage-ai-ed \u2014 Heterogeneous learning gains (2026-07-14)",
     "url": "pages/learning-gains.html"
+  },
+  {
+    "slug": "learning-outcomes",
+    "title": "\"Learning Outcomes\"",
+    "tags": [],
+    "content": "Learning OutcomesThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\npost-instrumental-learning-capacity-dissolution\nlearner-ai-interaction-patterns-oop\nsolving-vs-evaluating-genai-solutions",
+    "url": "pages/learning-outcomes.html"
   },
   {
     "slug": "learning-to-prompt-adaptive-tutoring",
@@ -4550,6 +4749,13 @@
     "url": "pages/llm-educational-simulation-adhd.html"
   },
   {
+    "slug": "llm-evaluation",
+    "title": "\"Llm Evaluation\"",
+    "tags": [],
+    "content": "Llm EvaluationThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nllm-judged-helpfulness-pedagogy-signal",
+    "url": "pages/llm-evaluation.html"
+  },
+  {
     "slug": "llm-fallacy-misattribution",
     "title": "The LLM Fallacy and Misattribution of Competence",
     "tags": [
@@ -4614,6 +4820,19 @@
     ],
     "content": "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty PredictionChenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026) \u2014 Computation and Language (cs.CL).\n\ud83d\udcc4 Full text (arXiv)This paper introduces Epi2Diff (Episode to Difficulty), a framework that maps LLM reasoning traces into cognitively grounded episode sequences for predicting human item difficulty in educational assessment. The authors argue that difficulty should be viewed not only as a property ",
     "url": "pages/llm-item-difficulty-prediction.html"
+  },
+  {
+    "slug": "llm-judged-helpfulness-pedagogy-signal",
+    "title": "\"Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models\"",
+    "tags": [
+      "llm",
+      "intelligent-tutoring",
+      "automated-grading",
+      "benchmark",
+      "feedback-loop"
+    ],
+    "content": "Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor ModelsShuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang (2026) \u2014 arXiv:2607.28128 (cs.CL, cs.AI, cs.CY)\ud83d\udcc4 Full text (arXiv)SummaryPre-registered study auditing whether general-purpose helpfulness rubrics can distinguish direct answer-giving from pedagogical guidance in LLM tutors. Uses deterministic detectors for answer leakage and next-turn independent work across three tutor models. Finds that",
+    "url": "pages/llm-judged-helpfulness-pedagogy-signal.html"
   },
   {
     "slug": "llm-math-tutoring",
@@ -4798,7 +5017,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Mastery LearningThis is a stub page for the concept of mastery learning. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Mastery LearningThis is a stub page for the concept of mastery learning. It was created to resolve broken backlinks from other wiki pages.Related Pages\nmemdora-ai-spaced-repetition",
     "url": "pages/mastery-learning.html"
   },
   {
@@ -4851,6 +5070,18 @@
     ],
     "content": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education\nWu, Zhou, Ma, Chen, Gao, Lin, Wu, Gou, Liu, Lau & Dou (2026) \u2014 CUHK; Southern Medical University; Peking University; Tencent. arXiv preprint (cs.CL).\n\ud83d\udcc4 Full text (arXiv)MedGame transforms static clinical cases into structured, executable storytelling games for medical education, moving beyond the localized question-answering and single-turn feedback that characterize most llm medical-training systems. It ",
     "url": "pages/medgame-llm-medical-education-gamification.html"
+  },
+  {
+    "slug": "memdora-ai-spaced-repetition",
+    "title": "\"Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition\"",
+    "tags": [
+      "generative-ai",
+      "adaptive-learning",
+      "mastery-learning",
+      "student-experience"
+    ],
+    "content": "Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced RepetitionRuiyang Zhang (2026) \u2014 arXiv:2607.25096 (cs.HC)\ud83d\udcc4 Full text (arXiv)SummaryPresents Memdora, a cross-platform AI spaced repetition system that addresses limitations of binary flip-and-rate flashcard interactions. Grounded in cognitive science evidence on retrieval practice, it enables richer interaction patterns and reduces context-switching by generating flashcards from reading material. Demonstrates im",
+    "url": "pages/memdora-ai-spaced-repetition.html"
   },
   {
     "slug": "metacognition",
@@ -5054,6 +5285,13 @@
     "url": "pages/multi-site-vr-immersive-learning.html"
   },
   {
+    "slug": "multilingual-learning",
+    "title": "\"Multilingual Learning\"",
+    "tags": [],
+    "content": "Multilingual LearningThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\niks-instruct-dataset-indian-knowledge",
+    "url": "pages/multilingual-learning.html"
+  },
+  {
     "slug": "multimodal-affective-its-presentation",
     "title": "An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training",
     "tags": [
@@ -5185,7 +5423,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Open SourceThis is a stub page for the concept of open source. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Open SourceThis is a stub page for the concept of open source. It was created to resolve broken backlinks from other wiki pages.Related Pages\niks-instruct-dataset-indian-knowledge",
     "url": "pages/open-source.html"
   },
   {
@@ -5375,6 +5613,18 @@
     ],
     "content": "Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?Popa et al. (2026) \u2014 Bucharest University of Economic Studies. arXiv preprint.\ud83d\udcc4 Full text (arXiv)Post-COVID ICT Career Aspirations uses PISA 2018 and 2022 country-level data to investigate whether students entering the generative AI era have adequate educational foundations. Using a mixed-methods approach including Variational Autoencoders for latent representation learning, the study find",
     "url": "pages/post-covid-ict-career-aspirations.html"
+  },
+  {
+    "slug": "post-instrumental-learning-capacity-dissolution",
+    "title": "When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution",
+    "tags": [
+      "generative-ai",
+      "educational-theory",
+      "over-reliance",
+      "student-experience"
+    ],
+    "content": "When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity DissolutionKai Yao (2026) \u2014 arXiv:2607.28041 (cs.CY)\ud83d\udcc4 Full text (arXiv)SummaryArgues that as AI systems become capable of producing the artifacts through which institutions recognize competence, existing ethical frameworks centered on AI failures become insufficient. Develops the concept of \"post-instrumental learning\" and warns that each technical improvement appears to weaken the case for human lea",
+    "url": "pages/post-instrumental-learning-capacity-dissolution.html"
   },
   {
     "slug": "posthumanist-ai-education",
@@ -5748,6 +5998,13 @@
     "url": "pages/retrieval-augmented-tutoring-algorithm-kite.html"
   },
   {
+    "slug": "retrieval-practice",
+    "title": "\"Retrieval Practice\"",
+    "tags": [],
+    "content": "Retrieval PracticeThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nmemdora-ai-spaced-repetition",
+    "url": "pages/retrieval-practice.html"
+  },
+  {
     "slug": "rubric-aware-grading-rec-cbm",
     "title": "\"REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading\"",
     "tags": [
@@ -5903,6 +6160,13 @@
     "url": "pages/simulation-based-learning.html"
   },
   {
+    "slug": "simulation-learning",
+    "title": "\"Simulation Learning\"",
+    "tags": [],
+    "content": "Simulation LearningThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ntech-enhanced-tabletop-cybersecurity-education",
+    "url": "pages/simulation-learning.html"
+  },
+  {
     "slug": "singh-eduqwen-pedagogical-rl-2026",
     "title": "\"EduQwen: Pedagogical RL\"",
     "tags": [
@@ -6017,6 +6281,26 @@
     ],
     "content": "Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design StudyLucas, C., Bihani, A., Kukka, R., Tsai, C.-H., Sarker, J., & Imran, M. M. (2026) \u2014 University of Nebraska at Omaha, Penn State. arXiv preprint.\ud83d\udcc4 Full text (arXiv)Key Finding\nSocratic questioning, reflection prompts, misconception checks, and mandatory pauses produce better K-12 engagement than directive answer-giving AI tutors.Synthesis\nSocratiCode demonstrates a pa",
     "url": "pages/socraticode-k12-programming-tutor.html"
+  },
+  {
+    "slug": "solving-vs-evaluating-genai-solutions",
+    "title": "Is Solving Better Than Evaluating GenAI Solutions?",
+    "tags": [
+      "generative-ai",
+      "stem-education",
+      "higher-ed",
+      "efficacy-study",
+      "student-experience"
+    ],
+    "content": "Is Solving Better Than Evaluating GenAI Solutions?Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026) \u2014 arXiv:2607.27586 (cs.CY, cs.AI)\ud83d\udcc4 Full text (arXiv)SummaryRandomized A/B crossover study (N=22) in upper-division computing courses comparing solution evaluation/critique tasks against traditional solution generation. Finds that evaluation-centered tasks produce comparable or better learning outcomes, suggesting an effective pedagogical response to the availability of GenAI code generati",
+    "url": "pages/solving-vs-evaluating-genai-solutions.html"
+  },
+  {
+    "slug": "spaced-repetition",
+    "title": "\"Spaced Repetition\"",
+    "tags": [],
+    "content": "Spaced RepetitionThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nmemdora-ai-spaced-repetition",
+    "url": "pages/spaced-repetition.html"
   },
   {
     "slug": "spatial-reasoning",
@@ -6298,6 +6582,13 @@
     "url": "pages/syal-multimodal-dialogue-stem-2026.html"
   },
   {
+    "slug": "synthetic-data",
+    "title": "\"Synthetic Data\"",
+    "tags": [],
+    "content": "Synthetic DataThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nbook-level-synthetic-textbook-organization",
+    "url": "pages/synthetic-data.html"
+  },
+  {
     "slug": "tactile-statistical-graphs-accessibility",
     "title": "\"Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education\"",
     "tags": [
@@ -6463,6 +6754,19 @@
     ],
     "content": "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to InstructorsAuthors: Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla\nYear: 2026\nVenue: arXiv (cs.AI)SummaryPedagogically grounded chatbot for instructor PD. Data-centric pipeline extracts pedagogical rules + synthetic dialogue fine-tuning. Outperforms GPT-4o mini on clarity/reflectiveness/responsiveness.Key ContributionsPedagogically grounded chatbot for instructor",
     "url": "pages/teachingcoach-chatbot-instructor-guidance.html"
+  },
+  {
+    "slug": "tech-enhanced-tabletop-cybersecurity-education",
+    "title": "\"Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned\"",
+    "tags": [
+      "edtech-platform",
+      "stem-education",
+      "higher-ed",
+      "professional-training",
+      "active-learning"
+    ],
+    "content": "Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons LearnedJan Vykopal, Pavel \u010celeda, Martin Hor\u00e1k, Valdemar \u0160v\u00e1bensk\u00fd (2026) \u2014 arXiv:2607.28179 (cs.CY, cs.CR)\ud83d\udcc4 Full text (arXiv)SummaryInnovative practice paper examining the integration of technology-enhanced tabletop exercises into cybersecurity curricula. Addresses the gap between professional TTX practice and university adoption, presenting lessons learned from implementation in computing education contexts.The work co",
+    "url": "pages/tech-enhanced-tabletop-cybersecurity-education.html"
   },
   {
     "slug": "temporal-smoothness-debiased-kt",
