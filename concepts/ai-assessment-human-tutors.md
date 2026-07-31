@@ -26,6 +26,7 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
   - [[ai-assistance-discretionary-feedback]]
   - [[formative-assessment]]
   - [[adaptive-virtual-patient-psychotherapy-training]]
+- [[ai-scoring-language-bias-physics]]
 
 ## Citation
 

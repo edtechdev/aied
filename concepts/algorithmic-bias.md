@@ -14,3 +14,4 @@ This is a stub page for the concept of algorithmic bias. It was created to resol
 
 ## Related Pages
 
+- [[ai-scoring-language-bias-physics]]

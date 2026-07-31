@@ -56,6 +56,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[ai-education-global-capacity]] — global perspective: human/institutional capacity as AI-in-education bottleneck
 - [[genai-patient-education-transplant-handbooks]] — Grounding genAI patient-education assistants in institution-authored handbooks produces inconsistent
 - [[suacode-african-students-motivations]] — African students' motivations for a smartphone-based coding MOOC center on access, career aspiration
+- [[ai-scoring-language-bias-physics]]
 
 ## Related Pages
 - [[hybrid-human-ai-tutoring-differentiated]] — Proactive support narrows achievement gaps
