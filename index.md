@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-07-31 2026-07-30 | **Total pages: 499
+**Last updated:** 2026-07-31 | **Total pages:** 604
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
