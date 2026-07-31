@@ -32,6 +32,7 @@ confidence: low
 - [[didactical-teacher-assistant-dimensional-modeling]] — Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes 
 - [[suacode-african-students-motivations]] — African students' motivations for a smartphone-based coding MOOC center on access, career aspiration
 - [[adhd-video-segmentation-computing-education]] — Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p
+- [[llm-intervention-design-cs-review]]
 
 ## Related Pages
 - [[ai-literacy-continuum-higher-education]] — Liu & Levy (2026)

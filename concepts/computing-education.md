@@ -15,3 +15,4 @@ This page is a stub. Content will be added as relevant sources are ingested.
 - [[ai-generated-instructional-videos-computing-ed]]
 - [[learner-ai-interaction-patterns-oop]]
 - [[solving-vs-evaluating-genai-solutions]]
+- [[llm-intervention-design-cs-review]]
