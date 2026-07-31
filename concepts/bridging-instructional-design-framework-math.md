@@ -1,0 +1,22 @@
+---
+title: "WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators"
+created: 2026-06-23
+updated: 2026-06-23
+type: concept
+tags: ["teacher-role", "k-12", "stem-education", "scaffolding", "ai-literacy"]
+sources: [raw/papers/2606.20934.md]
+confidence: low
+---
+
+# WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+
+**Estefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão (2026)** — arXiv:2606.20934 (cs.CY)
+📄 [Full text (arXiv)](https://arxiv.org/abs/2606.20934)
+
+Castillo Ventura et al. (2026) address the gap between instructional design of digital mathematics resources and their pedagogical use in classrooms. Their work-in-progress framework translates learning theory principles into observable pedagogical variables structured as metadata, enabling teacher-support systems to characterize digital resources for mathematics education. Drawing on a literature review documenting limited operationalization of learning theories in educational technology, the authors propose a multidimensional structure and focus on one dimension — the conceptual structure of content — showing how prior knowledge, representation, and conceptual construction can be represented as metadata. While early-stage (work-in-progress), this framework has potential relevance for designing [[teacher-role]]-centered tools in [[stem-education]] and for integrating [[ai-literacy]] considerations into digital resource selection.
+
+## Related Pages
+- [[bridging-instructional-design-framework-math]] -- This page
+
+## Citation
+**APA:** Estefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão (2026). *WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators*. arXiv:2606.20934. arXiv:2606.20934 (cs.CY)
