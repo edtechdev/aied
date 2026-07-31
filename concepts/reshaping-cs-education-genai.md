@@ -29,6 +29,7 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[commenting-copilot-student-code-specs]] — GenAI reshaping CS education (2026-07-14)
+- [[llm-intervention-design-cs-review]]
 
 ## Citations
 

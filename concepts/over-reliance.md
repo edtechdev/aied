@@ -66,6 +66,7 @@ Student and faculty over-reliance on AI tools in education
 - [[trio-ethnography-llm-programming-education]] — educator assumptions of over-reliance revised through student dialogue
 - [[post-instrumental-learning-capacity-dissolution]]
 - [[generative-refusal-ai-tools-for-thought]]
+- [[llm-intervention-design-cs-review]]
 
 ## Related Pages
 - [[ai-coaching-rl-skill-development]] — Over-reliance observed in motor skill learning when AI coaching provides excessive intervention

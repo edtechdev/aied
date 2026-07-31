@@ -54,3 +54,4 @@ confidence: low
 - [[book-level-synthetic-textbook-organization]]
 - [[genai-architectural-design-studios]]
 - [[generative-refusal-ai-tools-for-thought]]
+- [[llm-intervention-design-cs-review]]

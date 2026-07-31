@@ -32,6 +32,7 @@ The flipped classroom component is particularly notable — it creates dedicated
 - [[student-experience]] — related
 - [[cs-education]] — related
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
+- [[llm-intervention-design-cs-review]]
 
 ## Citation
 

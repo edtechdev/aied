@@ -1885,14 +1885,14 @@
     "tags": [
       "stub"
     ],
-    "content": "Computational ThinkingThis is a stub page for the concept of computational thinking. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Computational ThinkingThis is a stub page for the concept of computational thinking. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review",
     "url": "pages/computational-thinking.html"
   },
   {
     "slug": "computing-education",
     "title": "\"Computing Education\"",
     "tags": [],
-    "content": "Computing EducationThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nai-generated-instructional-videos-computing-ed\nlearner-ai-interaction-patterns-oop\nsolving-vs-evaluating-genai-solutions",
+    "content": "Computing EducationThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nai-generated-instructional-videos-computing-ed\nlearner-ai-interaction-patterns-oop\nsolving-vs-evaluating-genai-solutions\nllm-intervention-design-cs-review",
     "url": "pages/computing-education.html"
   },
   {
@@ -3172,7 +3172,7 @@
     "slug": "efficacy-study",
     "title": "Efficacy Study",
     "tags": [],
-    "content": "Efficacy StudyStub page \u2014 full synthesis pending.Related Pages\nanvil-ai-educational-animations",
+    "content": "Efficacy StudyStub page \u2014 full synthesis pending.Related Pages\nanvil-ai-educational-animations\nllm-intervention-design-cs-review",
     "url": "pages/efficacy-study.html"
   },
   {
@@ -4236,7 +4236,7 @@
     "slug": "instructional-design",
     "title": "Instructional Design",
     "tags": [],
-    "content": "Instructional DesignStub page \u2014 full synthesis pending.Related Pages\nconcept-catalyst-engineering-scaffolds\nanvil-ai-educational-animations\ndidactical-teacher-assistant-dimensional-modeling \u2014 Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes \nadhd-video-segmentation-computing-education \u2014 Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p\nai-generated-instructional-videos-computing-ed",
+    "content": "Instructional DesignStub page \u2014 full synthesis pending.Related Pages\nconcept-catalyst-engineering-scaffolds\nanvil-ai-educational-animations\ndidactical-teacher-assistant-dimensional-modeling \u2014 Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes \nadhd-video-segmentation-computing-education \u2014 Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p\nai-generated-instructional-videos-computing-ed\nllm-intervent",
     "url": "pages/instructional-design.html"
   },
   {
@@ -4819,8 +4819,25 @@
     "tags": [
       "stub"
     ],
-    "content": "Llm In EducationThis is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.Related Pagesagentic-ai-education-scoping-review \u2014 Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap",
+    "content": "Llm In EducationThis is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.Related Pagesagentic-ai-education-scoping-review \u2014 Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gapllm-intervention-design-cs-review",
     "url": "pages/llm-in-education.html"
+  },
+  {
+    "slug": "llm-intervention-design-cs-review",
+    "title": "\"A review of intervention designs of LLM Integration in Undergraduate Computer Science Education\"",
+    "tags": [
+      "cs-education",
+      "generative-ai",
+      "llm",
+      "scaffolding",
+      "instructional-design",
+      "efficacy-study",
+      "prompt-engineering",
+      "higher-ed",
+      "computational-thinking"
+    ],
+    "content": "A review of intervention designs of LLM Integration in Undergraduate Computer Science EducationAuthor: Anusha Vissapragada (Hult International Business School)\nSource: EdArXiv preprint (2026)Key FindingsThis scoping review analyzed 13 experimental studies on LLM integration in undergraduate cs-education, examining how intervention design choices shape learning outcomes. The central finding: LLM effectiveness depends less on the model itself than on pedagogical design.Three Intervention Archetype",
+    "url": "pages/llm-intervention-design-cs-review.html"
   },
   {
     "slug": "llm-item-difficulty-prediction",
@@ -5763,7 +5780,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review",
     "url": "pages/prompt-engineering.html"
   },
   {

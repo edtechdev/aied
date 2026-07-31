@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-07-31 | **Total pages:** 604
+**Last updated:** 2026-07-31 | **Total pages:** 605
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -39,7 +39,7 @@
 - [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-- [[ai-assessment-scale-reform]] — 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 - [[ai-assistance-reduces-persistence]] — AI Assistance Reduces Persistence and Hurts Independent Performance
 - [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students
@@ -420,6 +420,7 @@
 - [[llm-feedback-programming-classroom]] — LLM-Generated Feedback in Introductory Programming: A Classroom Study
 - [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
 - [[llm-in-education]] — Llm In Education
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
 - [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
 - [[llm-math-tutoring]] — Llm Math Tutoring
