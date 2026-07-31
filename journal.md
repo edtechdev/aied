@@ -60,6 +60,13 @@
   **Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned**
   Tags: [edtech-platform, stem-education, higher-ed, professional-training, active-learning]
 
+
+
+- ● [[ai-scoring-language-bias-physics]] — raw/papers/2607.28210.md
+  **AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics**
+  Tags: [automated-assessment, bias-mitigation, equity, multilingual-learning, physics-education, automated-essay-scoring, short-answer-grading, assessment-validity]
+
+
 ## 2026-07-30
 
 - ● [[ai-learning-tools-engineering-education-needs]] — raw/papers/2607.26338.md
@@ -1711,9 +1718,3 @@
 - ◐ [[self-referential-l2-writing-llm-assessment]] — raw/papers/2605.04298.md
   **Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs**
   Tags: [automated-grading, writing-education, llm, ai-education, higher-ed]
-
-## "2026-07-31"
-
-- ● [[ai-scoring-language-bias-physics]] — raw/papers/2607.28210.md
-  **AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics**
-  Tags: [automated-assessment, bias-mitigation, equity, multilingual-learning, physics-education, automated-essay-scoring, short-answer-grading, assessment-validity]
