@@ -1046,6 +1046,22 @@
     "url": "pages/ai-psychotherapy-training-avatars.html"
   },
   {
+    "slug": "ai-scoring-language-bias-physics",
+    "title": "\"AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics\"",
+    "tags": [
+      "automated-assessment",
+      "bias-mitigation",
+      "equity",
+      "multilingual-learning",
+      "physics-education",
+      "automated-essay-scoring",
+      "short-answer-grading",
+      "assessment-validity"
+    ],
+    "content": "AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physicsAuthors: Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany)Source: arXiv:2607.28210 (physics.ed-ph, July 2026)Key FindingsThis study examined whether AI-based scoring can assess students' conceptual understanding independently of the linguistic quality of their text-based explanations in physics. The researchers ",
+    "url": "pages/ai-scoring-language-bias-physics.html"
+  },
+  {
     "slug": "ai-stem-bibliometric-trends",
     "title": "Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda",
     "tags": [
@@ -1227,7 +1243,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Algorithmic BiasThis is a stub page for the concept of algorithmic bias. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Algorithmic BiasThis is a stub page for the concept of algorithmic bias. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics",
     "url": "pages/algorithmic-bias.html"
   },
   {
@@ -1338,14 +1354,14 @@
     "tags": [
       "stub"
     ],
-    "content": "Automated AssessmentThis is a stub page for the concept of automated assessment. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Automated AssessmentThis is a stub page for the concept of automated assessment. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics",
     "url": "pages/automated-assessment.html"
   },
   {
     "slug": "automated-essay-scoring",
     "title": "\"Automated Essay Scoring\"",
     "tags": [],
-    "content": "Automated Essay ScoringThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nicle-plus-plus-essay-scoring",
+    "content": "Automated Essay ScoringThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nicle-plus-plus-essay-scoring\nai-scoring-language-bias-physics",
     "url": "pages/automated-essay-scoring.html"
   },
   {
@@ -3067,7 +3083,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Educational MeasurementThis is a stub page for the concept of educational measurement. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Educational MeasurementThis is a stub page for the concept of educational measurement. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics",
     "url": "pages/educational-measurement.html"
   },
   {
@@ -5288,7 +5304,7 @@
     "slug": "multilingual-learning",
     "title": "\"Multilingual Learning\"",
     "tags": [],
-    "content": "Multilingual LearningThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\niks-instruct-dataset-indian-knowledge",
+    "content": "Multilingual LearningThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\niks-instruct-dataset-indian-knowledge\nai-scoring-language-bias-physics",
     "url": "pages/multilingual-learning.html"
   },
   {

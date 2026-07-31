@@ -1654,3 +1654,7 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Source status: arXiv API (0), Listing pages (5 cross-listed), Semantic Scholar (0 in-window), OpenAlex (0 in-window)
 - Wiki pages: 571
 - Method: listing-page extraction (API returned 0 for 2-day window)
+
+## [2026-07-31]
+
+- **[2607.28210](https://arxiv.org/abs/2607.28210)** → [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics. Tags: automated-assessment, bias-mitigation, equity, multilingual-learning. Found systematic language bias across ALL 11 AI scoring approaches tested (9 ML + 2 LLM); mirrors previously reported human teacher bias; disproportionately affects multilingual learners.
