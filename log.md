@@ -1658,3 +1658,7 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 ## [2026-07-31]
 
 - **[2607.28210](https://arxiv.org/abs/2607.28210)** → [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics. Tags: automated-assessment, bias-mitigation, equity, multilingual-learning. Found systematic language bias across ALL 11 AI scoring approaches tested (9 ML + 2 LLM); mirrors previously reported human teacher bias; disproportionately affects multilingual learners.
+
+## [2026-07-31]
+
+- **EdArXiv preprint** → [[llm-intervention-design-cs-review]] — Scoping review of 13 experimental studies on LLM intervention designs in undergraduate CS education. Tags: cs-education, scaffolding, efficacy-study. Key findings: semester-long Virtual Tutor interventions with scaffolded feedback consistently improved computational thinking; short-term coding-assistant interventions produce mixed results; "tool frustration" paradox — students without scaffolding report higher frustration; LLM effectiveness depends on pedagogical design, not model choice.

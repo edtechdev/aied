@@ -72,6 +72,7 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 - [[trio-ethnography-llm-programming-education]] — students shown to seek scaffolding via AI in ways invisible to observers
 - [[ai-learning-tools-engineering-education-needs]] — 206 engineering students: AI chatbots give greatest benefit as relief from compe...
 - [[generative-refusal-ai-tools-for-thought]]
+- [[llm-intervention-design-cs-review]]
 
 ## Related Pages
 - [[ai-coaching-rl-skill-development]] — RL-based coaching policy that dynamically fades scaffolding based on learner competence for motor skill development

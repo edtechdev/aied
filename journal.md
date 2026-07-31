@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-07-31 | **Total entries:** 398
+**Last updated:** 2026-07-31 | **Total entries:** 399
 
 ## 2026-07-31
 
@@ -11,6 +11,10 @@
 - ● [[ai-literacy-power-knowledge]] — raw/papers/2607.27547.md
   **AI Literacy: An Exercise in Power-Knowledge**
   Tags: [ai-literacy, equity, educational-theory, generative-ai]
+
+- ● [[ai-scoring-language-bias-physics]] — raw/papers/2607.28210.md
+  **AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics**
+  Tags: [automated-assessment, bias-mitigation, equity, multilingual-learning, physics-education, automated-essay-scoring, short-answer-grading, assessment-validity]
 
 - ◐ [[book-level-synthetic-textbook-organization]] — raw/papers/2607.28109.md
   **Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training**
@@ -40,6 +44,10 @@
   **Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course**
   Tags: [generative-ai, student-experience, stem-education, higher-ed, learning-analytics]
 
+- ● [[llm-intervention-design-cs-review]] — raw/articles/llm-intervention-design-cs-review.md
+  **A review of intervention designs of LLM Integration in Undergraduate Computer Science Education**
+  Tags: [cs-education, generative-ai, llm, scaffolding, instructional-design, efficacy-study, prompt-engineering, higher-ed, computational-thinking]
+
 - ● [[llm-judged-helpfulness-pedagogy-signal]] — raw/papers/2607.28128.md
   **Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models**
   Tags: [llm, intelligent-tutoring, automated-grading, benchmark, feedback-loop]
@@ -59,13 +67,6 @@
 - ● [[tech-enhanced-tabletop-cybersecurity-education]] — raw/papers/2607.28179.md
   **Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned**
   Tags: [edtech-platform, stem-education, higher-ed, professional-training, active-learning]
-
-
-
-- ● [[ai-scoring-language-bias-physics]] — raw/papers/2607.28210.md
-  **AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics**
-  Tags: [automated-assessment, bias-mitigation, equity, multilingual-learning, physics-education, automated-essay-scoring, short-answer-grading, assessment-validity]
-
 
 ## 2026-07-30
 
