@@ -80,6 +80,7 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 - [[cross-dataset-bloom-question-classification]] -- LLMs with tailored prompting generalize better than supervised models for cross-dataset Bloom taxonomy classification
 - [[psyscore-essay-scoring-zpd-feedback]] -- PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback
 - [[automated-formative-assessments-a-level-sciences]] — Automating the marking of handwritten mock exams enables much higher formative-assessment frequency 
+- [[ai-scoring-language-bias-physics]]
 
 ## Sources
 - Cong et al. (2026). *Confidence Estimation in Automatic Short Answer Grading with LLMs*. arXiv:2605.00200. [PDF](https://arxiv.org/pdf/2605.00200)

@@ -50,3 +50,4 @@ Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Bet
 - [[confidence-aware-student-drawing-assessment]] -- Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
 - [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Ed
 - [[representation-robustness-llm-math-problem-solving]] — Representation Robustness under Executable Reasoning Constra
+- [[ai-scoring-language-bias-physics]]
