@@ -1,6 +1,5 @@
 # AI Ed Wiki — Daily Scan Configuration
-# Location: /home/doug/wiki/arxiv-scan-config.yaml
-# Used by cron job 9a44c11daec8
+# Used by the daily AIED scan cron job
 
 schedule: "0 9 * * *"  # 9:00 AM daily (Eastern)
 
@@ -56,7 +55,7 @@ sources:
     retry: {max_attempts: 3, delay_seconds: 2}
 
 wiki:
-  path: /home/doug/wiki
+  path: ./
   concepts_dir: concepts/
   raw_dir: raw/papers/
   static_site_dir: static-site/
