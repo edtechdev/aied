@@ -15,3 +15,4 @@ confidence: low
 ## Related Pages
 - [[slidesqaqa-pedagogical-question-generation]] — joint text+visual reasoning for slide-based question generation
 - [[anvil-ai-educational-animations]]
+- [[multimodal-prompting-ai-literacy]]

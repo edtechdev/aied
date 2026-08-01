@@ -55,3 +55,6 @@ confidence: low
 - [[genai-architectural-design-studios]]
 - [[generative-refusal-ai-tools-for-thought]]
 - [[llm-intervention-design-cs-review]]
+- [[genai-mindtool-generative-learning]]
+- [[multimodal-prompting-ai-literacy]]
+- [[genai-runaway-object-math-higher-ed]]

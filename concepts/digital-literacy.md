@@ -13,3 +13,4 @@ This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[ai-literacy-power-knowledge]]
+- [[multimodal-prompting-ai-literacy]]

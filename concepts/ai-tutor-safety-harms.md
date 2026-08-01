@@ -104,6 +104,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - [[shame-guilt-ai-regulation-computing-education]] -- Shame and guilt create cycles of hiding and moral tension around AI use in computing education
 - [[paternalistic-filter-llm-history-education]] — Catalogue of tutor harms (2026-07-14)
 - [[eduguard-safe-rag-llm-tutor]] — EduGuard's verification + overreliance-control modules operationalise the safety-harms taxonomy for programming tutors.
+- [[vetting-dual-llm-safety-education]]
 
 ## Sources
 - Hazra et al. (2026). *SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems*. arXiv:2603.17373. [PDF](https://arxiv.org/pdf/2603.17373)

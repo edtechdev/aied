@@ -85,6 +85,7 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[ai-k12-evidence-base]]
 - [[bias-mitigation]]
 - [[test-driven-ai-assisted-learning]] -- A lecture-free CS course with AI-assisted weekly closed-book tests maintained accountability and was scalable with a version-controlled AI agent workspace.
+- [[genai-runaway-object-math-higher-ed]]
 
 ## Citation
 

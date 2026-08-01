@@ -24,3 +24,4 @@ confidence: low
 - [[ai-engineering-education-balancing-act]] -- Students attachment to LLM efficiency reflects 'cruel optimism' - benefits depend on critical thinking skills they are still developing
 - [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awarene
 - [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction
+- [[genai-mindtool-generative-learning]]

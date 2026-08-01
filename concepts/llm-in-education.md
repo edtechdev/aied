@@ -17,3 +17,4 @@ This is a stub page for the concept of llm in education. It was created to resol
 - [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
 
 - [[llm-intervention-design-cs-review]]
+- [[vetting-dual-llm-safety-education]]

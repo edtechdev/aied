@@ -57,6 +57,7 @@ Intelligent tutoring systems and AI-driven tutoring agents in education
 - [[knowledge-distillation-ai-tutor-evaluation]] — AI tutor evaluation (2026-07-14)
 - [[learning-engagement-assistant-lea]] — agentic RAG+KC tutoring system; first real-student classroom deployment (n=8) and cross-course scalability test
 - [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Langua
+- [[ai-vocational-education-training-review]]
 
 ## Related Pages
 - [[ai-coaching-rl-skill-development]] — Extension of ITS scaffolding principles to embodied AI coaching for motor skill development with RL

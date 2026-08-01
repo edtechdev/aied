@@ -14,3 +14,4 @@ This is a stub page for the concept of rct. It was created to resolve broken bac
 
 ## Related Pages
 
+- [[ai-vocational-education-training-review]]
