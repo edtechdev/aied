@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>policy-maker — AI in Education Wiki</title>
+    <title>policy-maker — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,130 +23,166 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 policy-maker</h1>
-        <p>A significant research area with 27 articles, including Academic Integrity, AI from the Administrator Perspective, Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named.</p>
+        <h1>🏷️ policy-maker</h1>
+        <p>27 article(s) tagged with <strong>policy-maker</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (27)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/ai-assessment-scale-reform.html">A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform</a>
-                <div class="snippet">Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026) — arXiv cs.HC 📄 Full text (arXiv) 📄 PDF This study examines the implementation of the Artificial Intelligence Assessment Sc</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/genai-policies-higher-ed-computing.html">A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education</a>
-                <div class="snippet">Amrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, et al. (2026) - George Mason University; Montgomery College. arXiv preprint. 📄 Full text (arXiv) ## Key Findings - Compares institutional-level </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-ethics-education-public-discourse.html">A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data</a>
-                <div class="snippet">Akriti Bagale, Nafisa Mehjabin, Ali Unlu, Aditya Johri, et al. (2026) - George Mason University; University of Virginia. arXiv preprint. 📄 Full text (arXiv) ## Key Findings - Longitudinal Twitter/X an</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/brookings-ai-students-report.html">A New Direction for Students in an AI World: Prosper, Prepare, Protect</a>
-                <div class="snippet">> 📄 Full text: Brookings · local ## Definition A yearlong global "premortem" by the Brookings Center for Universal Education (2026) examining generative AI's risks and benefits for students. Based on </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/academic-integrity.html">Academic Integrity</a>
-                <div class="snippet">Academic integrity challenges and solutions in AI-era education ## Connections *This page is a stub — awaiting further sources and content.* ## Related Pages - genai-impact-chinese-students-hss — Find</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/agentic-literacy-debt.html">Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named</a>
-                <div class="snippet">Nama et al. (2026) — Independent researcher. *AI & Ethics*. 📄 Full text (arXiv) Agentic Literacy Debt names a critical gap in the ai-literacy landscape that has become urgent with the rise of autonomo</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/administrator.html">AI from the Administrator Perspective</a>
-                <div class="snippet">> Stub — pending source ingestion. AI adoption, strategy, and governance from the institutional administrator and leadership perspective. ## Connections ## Related Pages - ai-campus-wellbeing-tools — </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-literacy.html">AI Literacy</a>
-                <div class="snippet">> 📄 Full text: arXiv:2508.15111 · local · Liverpool Repository · local > AI literacy — the knowledge and skills needed to understand, evaluate, and effectively use AI technologies — is increasingly re</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/regulation.html">AI Regulation in Education</a>
-                <div class="snippet">> Stub — pending source ingestion. AI in education regulation and policy frameworks — state, federal, and international policy approaches. ## Connections ## Related Pages - ethical-ai-higher-ed-game-t</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-lifelong-learning-policy.html">Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy</a>
-                <div class="snippet">Andresa Theodora, Nikolaos Tselios (2026) — (University-affiliated). arXiv:2605.16296 [cs.CY] 📄 Full text (arXiv) Theodora and Tselios (2026) provide a policy-oriented synthesis of AI's dual role in a</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/cross-cultural-student-perceptions-genai-computing.html">Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education</a>
-                <div class="snippet">Harrington et al. (2026) — University of Toronto Scarborough & international partners. arXiv preprint (cs.CY). 📄 Full text (arXiv) A scenario-based survey (Fall 2024) comparing how computing students </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/faculty-development-genai.html">Faculty Development and GenAI</a>
-                <div class="snippet">> 📄 Full text: Every Learner · local · Liverpool Repository · local > Faculty professional learning around Generative AI is permanent, necessary, and structurally under-resourced. The Every Learner Ev</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/genai-assessment-governance.html">Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment</a>
-                <div class="snippet">Gao, Chen, Li & Zhai (2026) — University of Georgia. 📄 Full text (arXiv) This paper proposes a principled framework grounded in Evidence-Centered Design (ECD) that treats generative-ai as a design var</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-higher-ed-bridge-gap.html">Higher Education Must Bridge the AI Gap</a>
-                <div class="snippet">> 📄 Full text: Science · local ## Definition A Science editorial by University of Illinois Chicago Chancellor Marie Lynn Miranda (April 2026) arguing that higher education has a narrow window to shape</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/state-policy-teacher-ai.html">How State Policy Can Help Teachers Use AI Well</a>
-                <div class="snippet">> 📄 Full text: NASBE · local ## Definition A NASBE/CRPE policy analysis (May 2026) examining how US states can shape conditions for effective teacher AI adoption — setting guardrails, providing resour</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/student-regulatory-awareness-genai.html">Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education</a>
-                <div class="snippet">Bischof, Schön, Rauschenberger & Neumann (2026) — University of Applied Sciences and Arts Hannover. 📄 Full text (arXiv) Bischof et al. investigate how students' awareness of generative-ai regulations </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ethical-ai-higher-ed-game-theory.html">Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning</a>
-                <div class="snippet">Ogbo et al. (2026) — Teesside University / Adobe Research. *arXiv preprint*. 📄 Full text (arXiv) Ethical AI Use in Higher Education: A Coordination Game Framework provides a formal mechanism-level acc</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-productivity-moderation.html">Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost</a>
-                <div class="snippet">Cho, Kim & Kim (2026) — Accepted at ICML 2026 (position paper). 📄 Full text (arXiv) This ICML 2026 position paper argues that adopting AI in organizational practice does not automatically yield produc</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/principled-ai-education.html">Principled AI in Education</a>
-                <div class="snippet">> 📄 Full text: arXiv:2510.01467 · local — *updated to v2 (revised 2026-07-24)* > Rejecting the binary promise-vs-peril discourse and the rush to immediate implementation, Finkelstein (2025) proposes a</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-literacy-equity-programming-policy.html">Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis</a>
-                <div class="snippet">Adrian-Marius Dumitran, Iulia-Maria Popescu (2026) — arXiv preprint. 📄 Full text (arXiv) Across 15 nations, the paper examines how secondary computer-science education embeds AI literacy into general-</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/genai-academic-search-workshop.html">Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)</a>
-                <div class="snippet">Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu et al. — cs.IR, cs.AI, cs.HC 📄 Full text (arXiv) This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS), which</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/genai-declaration-frameworks-higher-education.html">Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education</a>
-                <div class="snippet">Micallef & Petrovska (2026) — University of Malta. 📄 Full text (arXiv) As generative-ai disrupts higher-ed, institutions increasingly require students to declare AI use. However, generic binary declar</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/aied-carbon-footprint-reporting.html">The Environmental Cost of LLMs in AIED: Reporting and Practices</a>
-                <div class="snippet">Sabrina C. Eimler, Lukas Erle, Daniel Flood, Aditi Haiman, Luca Häckert, André Helgert, Lachlan McGinness, Büsra Yapici 📄 Full text (arXiv) ## Summary LLM usage has become pervasive in the ai-k12-evid</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-higher-ed-workforce-survey.html">The Impact of AI on Work in Higher Education</a>
-                <div class="snippet">> 📄 Full text: EDUCAUSE · local ## Definition A large-scale survey (n=1,960) by EDUCAUSE (2026) examining how AI is reshaping work in higher education institutions — attitudes, adoption patterns, inst</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/universities-ai-era-rethinking.html">The University AI Didn't Replace: Rethinking Universities in the AI Era</a>
-                <div class="snippet">## Core Contribution Binkowski & Hopkins (2026) argue that rather than replacing universities, AI redefines their essential functions — requiring a fundamental rethinking of institutional purpose, ped</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-education-global-capacity.html">What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries</a>
-                <div class="snippet">> 📄 Full text: WEF · local ## Definition A global perspective on AI in education readiness, framed around the insight that the real bottleneck is human and institutional capacity, not technical access</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/credential-cognitive-stewardship-ai-assessment.html">What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education</a>
-                <div class="snippet">Yao (2026) — Independent / university policy audit. arXiv preprint (cs.CY). 📄 Full text (arXiv) Generative AI undermines a basic premise of educational assessment: that submitted work reliably evidenc</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/ai-assessment-scale-reform.html">"'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform"</a></h3>
+            <div class="snippet">'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reformMike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026) — arXiv cs.HC
+📄 Full text (arXiv)
+📄 PDFThis study examines the implementation of the A...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="assessment.html">assessment</a><a href="academic-integrity.html">academic-integrity</a><a href="generative-ai.html">generative-ai</a><a href="teacher-role.html">teacher-role</a><a href="ai-literacy.html">ai-literacy</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/genai-policies-higher-ed-computing.html">"A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education"</a></h3>
+            <div class="snippet">A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing EducationAmrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, et al. (2026) - George Mason University; Mon...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="ai-literacy.html">ai-literacy</a><a href="equity.html">equity</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/brookings-ai-students-report.html">"A New Direction for Students in an AI World: Prosper, Prepare, Protect"</a></h3>
+            <div class="snippet">> 📄 Full text: Brookings · localBrookings Report: AI and Students (Prosper, Prepare, Protect)Definition
+A yearlong global "premortem" by the Brookings Center for Universal Education (2026) examining generative AI's risks and benefits for students. Ba...</div>
+            <div class="tags"><a href="k-12.html">k-12</a><a href="student-experience.html">student-experience</a><a href="regulation.html">regulation</a><a href="ai-literacy.html">ai-literacy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/regulation.html">"AI Regulation in Education"</a></h3>
+            <div class="snippet">AI Regulation in Education> Stub — pending source ingestion. AI in education regulation and policy frameworks — state, federal, and international policy approaches.ConnectionsRelated Pages
+ethical-ai-higher-ed-game-theory — 3 of 8 papers in May 28 sc...</div>
+            <div class="tags"><a href="regulation.html">regulation</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/administrator.html">"AI from the Administrator Perspective"</a></h3>
+            <div class="snippet">AI from the Administrator Perspective> Stub — pending source ingestion. AI adoption, strategy, and governance from the institutional administrator and leadership perspective.ConnectionsRelated Pagesai-campus-wellbeing-tools — Roadmap for university d...</div>
+            <div class="tags"><a href="administrator.html">administrator</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/agentic-literacy-debt.html">"Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named"</a></h3>
+            <div class="snippet">Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet NamedNama et al. (2026) — Independent researcher. AI & Ethics.📄 Full text (arXiv)Agentic Literacy Debt names a critical gap in the ai-literacy landscape that has become urg...</div>
+            <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-literacy.html">ai-literacy</a><a href="equity.html">equity</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="k-12.html">k-12</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-lifelong-learning-policy.html">"Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy"</a></h3>
+            <div class="snippet">Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education PolicyAndresa Theodora, Nikolaos Tselios (2026) — (University-affiliated). arXiv:2605.16296 [cs.CY]📄 Full text (arXiv)Theodora and Tselios (2026) provide a...</div>
+            <div class="tags"><a href="lifelong-learning.html">lifelong-learning</a><a href="equity.html">equity</a><a href="digital-divide.html">digital-divide</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="ai-literacy.html">ai-literacy</a><a href="learning-analytics.html">learning-analytics</a><a href="bias-mitigation.html">bias-mitigation</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/genai-assessment-governance.html">"Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment"</a></h3>
+            <div class="snippet">GenAI as a Design Variable: Assessment Governance FrameworkGao, Chen, Li & Zhai (2026) — University of Georgia.📄 Full text (arXiv)This paper proposes a principled framework grounded in Evidence-Centered Design (ECD) that treats generative-ai as a des...</div>
+            <div class="tags"><a href="stem-education.html">stem-education</a><a href="generative-ai.html">generative-ai</a><a href="automated-grading.html">automated-grading</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-higher-ed-bridge-gap.html">"Higher Education Must Bridge the AI Gap"</a></h3>
+            <div class="snippet">> 📄 Full text: Science · localHigher Education Must Bridge the AI GapDefinition
+A Science editorial by University of Illinois Chicago Chancellor Marie Lynn Miranda (April 2026) arguing that higher education has a narrow window to shape AI's distribut...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="equity.html">equity</a><a href="ai-literacy.html">ai-literacy</a><a href="regulation.html">regulation</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/state-policy-teacher-ai.html">"How State Policy Can Help Teachers Use AI Well"</a></h3>
+            <div class="snippet">> 📄 Full text: NASBE · localState Policy for Teacher AI UseDefinition
+A NASBE/CRPE policy analysis (May 2026) examining how US states can shape conditions for effective teacher AI adoption — setting guardrails, providing resources, and building capac...</div>
+            <div class="tags"><a href="regulation.html">regulation</a><a href="teacher-role.html">teacher-role</a><a href="k-12.html">k-12</a><a href="faculty-development.html">faculty-development</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/student-regulatory-awareness-genai.html">"Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education"</a></h3>
+            <div class="snippet">Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher EducationBischof, Schön, Rauschenberger & Neumann (2026) — University of Applied Sciences and Arts Hannover.
+📄 Full text (arXiv)Bischof et al. investigate how st...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="regulation.html">regulation</a><a href="academic-integrity.html">academic-integrity</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ethical-ai-higher-ed-game-theory.html">"Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning"</a></h3>
+            <div class="snippet">Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing LearningOgbo et al. (2026) — Teesside University / Adobe Research. arXiv preprint.📄 Full text (arXiv)Ethical AI Use in Higher Education: A C...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="academic-integrity.html">academic-integrity</a><a href="generative-ai.html">generative-ai</a><a href="regulation.html">regulation</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-productivity-moderation.html">"Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost"</a></h3>
+            <div class="snippet">AI Productivity Moderation FactorsCho, Kim & Kim (2026) — Accepted at ICML 2026 (position paper).📄 Full text (arXiv)This ICML 2026 position paper argues that adopting AI in organizational practice does not automatically yield productivity gains — hum...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="efficacy-study.html">efficacy-study</a><a href="teacher-role.html">teacher-role</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-literacy-equity-programming-policy.html">"Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis"</a></h3>
+            <div class="snippet">Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative AnalysisAdrian-Marius Dumitran, Iulia-Maria Popescu (2026) — arXiv preprint.📄 Full text (arXiv)Across 15 nations, the paper examines how secondary computer-science...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="equity.html">equity</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/genai-declaration-frameworks-higher-education.html">"Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education"</a></h3>
+            <div class="snippet">Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher EducationMicallef & Petrovska (2026) — University of Malta.
+📄 Full text (arXiv)As generative-ai disrupts higher-ed, institutions increasingly require...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="academic-integrity.html">academic-integrity</a><a href="ai-literacy.html">ai-literacy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/aied-carbon-footprint-reporting.html">"The Environmental Cost of LLMs in AIED: Reporting and Practices"</a></h3>
+            <div class="snippet">The Environmental Cost of LLMs in AIED: Reporting and PracticesSabrina C. Eimler, Lukas Erle, Daniel Flood, Aditi Haiman, Luca Häckert, André Helgert, Lachlan McGinness, Büsra Yapici
+📄 Full text (arXiv)SummaryLLM usage has become pervasive in the AIE...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="efficacy-study.html">efficacy-study</a><a href="privacy.html">privacy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-higher-ed-workforce-survey.html">"The Impact of AI on Work in Higher Education"</a></h3>
+            <div class="snippet">> 📄 Full text: EDUCAUSE · localAI Impact on Higher Ed Workforce (EDUCAUSE 2026)Definition
+A large-scale survey (n=1,960) by EDUCAUSE (2026) examining how AI is reshaping work in higher education institutions — attitudes, adoption patterns, institutio...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="faculty-development.html">faculty-development</a><a href="administrator.html">administrator</a><a href="market-analysis.html">market-analysis</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/universities-ai-era-rethinking.html">"The University AI Didn't Replace: Rethinking Universities in the AI Era"</a></h3>
+            <div class="snippet">Universities in the AI EraCore ContributionBinkowski & Hopkins (2026) argue that rather than replacing universities, AI redefines their essential functions — requiring a fundamental rethinking of institutional purpose, pedagogy, and assessment in hig...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="teacher-role.html">teacher-role</a><a href="administrator.html">administrator</a><a href="regulation.html">regulation</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-education-global-capacity.html">"What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries"</a></h3>
+            <div class="snippet">> 📄 Full text: WEF · localAI Education Global CapacityDefinition
+A global perspective on AI in education readiness, framed around the insight that the real bottleneck is human and institutional capacity, not technical access. Based on a WEF (2026) sy...</div>
+            <div class="tags"><a href="equity.html">equity</a><a href="k-12.html">k-12</a><a href="teacher-role.html">teacher-role</a><a href="ai-literacy.html">ai-literacy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-ethics-education-public-discourse.html">A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data</a></h3>
+            <div class="snippet">A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter DataAkriti Bagale, Nafisa Mehjabin, Ali Unlu, Aditya Johri, et al. (2026) - George Mason University; University of Virginia. arXiv preprint.📄 Full text (arXiv)Key Fin...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="equity.html">equity</a><a href="academic-integrity.html">academic-integrity</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-literacy.html">AI Literacy</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2508.15111 · local · Liverpool Repository · localAI Literacy> AI literacy — the knowledge and skills needed to understand, evaluate, and effectively use AI technologies — is increasingly recognized as a core competency. Collabora...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="higher-ed.html">higher-ed</a><a href="k-12.html">k-12</a><a href="active-learning.html">active-learning</a><a href="collaborative-ai-tutoring.html">collaborative-ai-tutoring</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/academic-integrity.html">Academic Integrity</a></h3>
+            <div class="snippet">Academic IntegrityAcademic integrity challenges and solutions in AI-era educationConnectionsThis page is a stub — awaiting further sources and content.Related Pages
+genai-impact-chinese-students-hss — Findings on assessment validity concerns when Gen...</div>
+            <div class="tags"><a href="academic-integrity.html">academic-integrity</a><a href="plagiarism-detection.html">plagiarism-detection</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/cross-cultural-student-perceptions-genai-computing.html">Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education</a></h3>
+            <div class="snippet">Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing EducationHarrington et al. (2026) — University of Toronto Scarborough & international partners. arXiv preprint (cs.CY).📄 Full text (arX...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="cs-education.html">cs-education</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/faculty-development-genai.html">Faculty Development and GenAI</a></h3>
+            <div class="snippet">> 📄 Full text: Every Learner · local · Liverpool Repository · localFaculty Development and GenAI> Faculty professional learning around Generative AI is permanent, necessary, and structurally under-resourced. The Every Learner Everywhere / OLC playboo...</div>
+            <div class="tags"><a href="faculty-development.html">faculty-development</a><a href="higher-ed.html">higher-ed</a><a href="ai-literacy.html">ai-literacy</a><a href="generative-ai.html">generative-ai</a><a href="ai-education.html">ai-education</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/principled-ai-education.html">Principled AI in Education</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2510.01467 · local — updated to v2 (revised 2026-07-24)Principled AI in Education> Rejecting the binary promise-vs-peril discourse and the rush to immediate implementation, Finkelstein (2025) proposes a principled framework ancho...</div>
+            <div class="tags"><a href="ai-education.html">ai-education</a><a href="higher-ed.html">higher-ed</a><a href="pedagogy.html">pedagogy</a><a href="scaffolding.html">scaffolding</a><a href="active-learning.html">active-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/genai-academic-search-workshop.html">Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)</a></h3>
+            <div class="snippet">Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu et al. — cs.IR, cs.AI, cs.HC
+📄 Full text (arXiv)This report summarizes the CHIIR 2026 Workshop on Generative AI and Academi...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="ai-literacy.html">ai-literacy</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/credential-cognitive-stewardship-ai-assessment.html">What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education</a></h3>
+            <div class="snippet">What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated EducationYao (2026) — Independent / university policy audit. arXiv preprint (cs.CY).📄 Full text (arXiv)Generative AI undermines a basic premise of educational assessment: t...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="formative-assessment.html">formative-assessment</a><a href="llm.html">llm</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

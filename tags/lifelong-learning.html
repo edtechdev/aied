@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>lifelong-learning — AI in Education Wiki</title>
+    <title>lifelong-learning — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,46 +23,57 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 lifelong-learning</h1>
-        <p>A focused topic with 6 articles, including Guidelines for Designing AI Technologies to Support Adult Learning and related work.</p>
+        <h1>🏷️ lifelong-learning</h1>
+        <p>7 article(s) tagged with <strong>lifelong-learning</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (6)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/metacognitive-learning-scenarios-taxonomy.html">A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints</a>
-                <div class="snippet">Gibson, Azukas & Yilmaz Soylu (2026) — Curtin University, East Stroudsburg University. 📄 Full text (arXiv) This paper addresses a fundamental gap in metacognition research: the lack of systematic inte</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-lifelong-learning-policy.html">Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy</a>
-                <div class="snippet">Andresa Theodora, Nikolaos Tselios (2026) — (University-affiliated). arXiv:2605.16296 [cs.CY] 📄 Full text (arXiv) Theodora and Tselios (2026) provide a policy-oriented synthesis of AI's dual role in a</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/community-centered-ai-education-adults.html">Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study</a>
-                <div class="snippet">Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026) — arXiv cs.HC 📄 Full text (arXiv) 📄 PDF This case study report</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-adult-learning-design.html">Guidelines for Designing AI Technologies to Support Adult Learning</a>
-                <div class="snippet">> 📄 Full text: arXiv:2605.04616 · local ## Definition A set of 19 empirically-grounded design guidelines for AI-supported learning technologies tailored to adult learners, synthesized by Reddig et al.</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/lifelong-learning.html">Lifelong Learning and AI</a>
-                <div class="snippet">> Stub — pending source ingestion. Lifelong learning and AI support for continuous education beyond formal schooling. ## Connections ## Related Pages - ai-lifelong-learning-policy - community-centered</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-student-modeling-memory.html">LLM Student Modeling and Long-Term Memory Architecture</a>
-                <div class="snippet">> 📄 Full text: arXiv:2604.13074 · local > PersonaVLM demonstrates a general-purpose framework for long-term user personalization—chronological memory extraction, evolving personality inference, and pe</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/metacognitive-learning-scenarios-taxonomy.html">"A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints"</a></h3>
+            <div class="snippet">Metacognitive Learning Scenarios TaxonomyGibson, Azukas & Yilmaz Soylu (2026) — Curtin University, East Stroudsburg University.📄 Full text (arXiv)This paper addresses a fundamental gap in metacognition research: the lack of systematic integration of...</div>
+            <div class="tags"><a href="metacognition.html">metacognition</a><a href="professional-training.html">professional-training</a><a href="adaptive-learning.html">adaptive-learning</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-lifelong-learning-policy.html">"Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy"</a></h3>
+            <div class="snippet">Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education PolicyAndresa Theodora, Nikolaos Tselios (2026) — (University-affiliated). arXiv:2605.16296 [cs.CY]📄 Full text (arXiv)Theodora and Tselios (2026) provide a...</div>
+            <div class="tags"><a href="policy-maker.html">policy-maker</a><a href="equity.html">equity</a><a href="digital-divide.html">digital-divide</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="ai-literacy.html">ai-literacy</a><a href="learning-analytics.html">learning-analytics</a><a href="bias-mitigation.html">bias-mitigation</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/community-centered-ai-education-adults.html">"Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study"</a></h3>
+            <div class="snippet">Co-Designing Community-Centered AI Education for Adults: A Midwestern Case StudyYao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026) — arXiv cs.HC
+📄 Full text (arXiv...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="equity.html">equity</a><a href="student-experience.html">student-experience</a><a href="edtech-platform.html">edtech-platform</a><a href="faculty-development.html">faculty-development</a><a href="k-12.html">k-12</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/conversational-ai-informal-learning.html">"Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning"</a></h3>
+            <div class="snippet">Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learningAuthors: Nađa Terzimehić, Babette Bühler, Enkelejda Kasneci
+Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)Key...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="informal-learning.html">informal-learning</a><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-adult-learning-design.html">"Guidelines for Designing AI Technologies to Support Adult Learning"</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2605.04616 · localAI Design Guidelines for Adult LearningDefinition
+A set of 19 empirically-grounded design guidelines for AI-supported learning technologies tailored to adult learners, synthesized by Reddig et al. (2026) from lo...</div>
+            <div class="tags"><a href="personalized-learning.html">personalized-learning</a><a href="adaptive-learning.html">adaptive-learning</a><a href="faculty-development.html">faculty-development</a><a href="edtech-platform.html">edtech-platform</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/lifelong-learning.html">"Lifelong Learning and AI"</a></h3>
+            <div class="snippet">Lifelong Learning and AI> Stub — pending source ingestion. Lifelong learning and AI support for continuous education beyond formal schooling.ConnectionsRelated Pages
+ai-lifelong-learning-policycommunity-centered-ai-education-adults — Community AI Edu...</div>
+            <div class="tags"><a href="personalized-learning.html">personalized-learning</a><a href="professional-training.html">professional-training</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-student-modeling-memory.html">LLM Student Modeling and Long-Term Memory Architecture</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2604.13074 · localLLM Student Modeling and Long-Term Memory Architecture> PersonaVLM demonstrates a general-purpose framework for long-term user personalization—chronological memory extraction, evolving personality inference, and...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="personalized-learning.html">personalized-learning</a><a href="adaptive-learning.html">adaptive-learning</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="generative-ai.html">generative-ai</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

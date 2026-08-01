@@ -3,7 +3,7 @@ title: "A Tool-Invariant Framework for Teaching and Assessing Computational Meth
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
-tags: [generative-ai, agentic-ai, assessment-design, authentic-assessment, ai-literacy, over-reliance, higher-ed, computational-thinking, verification, oral-defense]
+tags: [agentic-ai, ai-literacy, assessment-design, authentic-assessment, computational-thinking, generative-ai, higher-ed, oral-defense, over-reliance, verification]
 sources: [raw/papers/arxiv-2026-tool-invariant-framework.md]
 confidence: high
 contested: false

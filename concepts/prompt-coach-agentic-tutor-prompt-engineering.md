@@ -3,7 +3,7 @@ title: "Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning P
 created: 2026-07-08
 updated: 2026-07-08
 type: concept
-tags: [llm, intelligent-tutoring, feedback-loop, scaffolding, cs-education, formative-assessment, professional-training]
+tags: [agentic-ai, cs-education, feedback-loop, formative-assessment, intelligent-tutoring, llm, professional-training, scaffolding]
 sources: [raw/papers/2607.06074.md]
 confidence: high
 ---

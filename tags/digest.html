@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>digest — AI in Education Wiki</title>
+    <title>digest — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,86 +23,194 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 digest</h1>
-        <p>A growing research area with 16 articles covering Daily Digest: 2026-05-14, Daily Digest: 2026-06-05 and related topics.</p>
+        <h1>🏷️ digest</h1>
+        <p>16 article(s) tagged with <strong>digest</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (16)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-17.html">Daily AIED Digest — 2026-06-17</a>
-                <div class="snippet">Papers ingested: 6 | Wiki total: 311 pages ## New Papers - self-efficacy-tutoring-learning -- Lower baseline self-efficacy predicts greater learning gains regardless of practice format. ITS-based prac</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-24.html">Daily AIED Digest — 2026-06-24</a>
-                <div class="snippet">2 new papers ingested | Wiki: 379 pages ## New Ingested Papers ### 1. GenAI Impact on Chinese HSS Students genai-impact-chinese-students-hss — Fan & Liu (2026) A large-scale survey of Chinese humaniti</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-25.html">Daily AIED Digest — 2026-06-25</a>
-                <div class="snippet">2 new papers ingested | Wiki: 381 pages ## New Ingested Papers ### 1. Cross-Subject Predictive Validity for Delayed Start Behavior cross-subject-validity-delayed-start — Gutterman, Gurung, Branstetter</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-26.html">Daily AIED Digest — 2026-06-26</a>
-                <div class="snippet">3 new papers ingested | Wiki: 387 pages ## New Ingested Papers ### 1. An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school stud</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-30.html">Daily AIED Digest — 2026-06-30</a>
-                <div class="snippet">10 new papers ingested | Wiki: 402 pages ## Source Status - arXiv cs.CY: ✓ 5 papers (via listing pages — API was rate-limited) - arXiv cs.HC: ✓ 5 papers (via listing pages — API timed out) - arXiv cs.</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-07-02.html">Daily AIED Digest — 2026-07-02</a>
-                <div class="snippet">8 new papers ingested | Wiki: 411 pages ## Summary Today's scan of arXiv cs.CY and cs.HC yielded 8 AIED-relevant papers spanning computing education, LLM integration in classrooms, accessibility tools</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-07-03.html">Daily AIED Digest — 2026-07-03</a>
-                <div class="snippet">6 new papers ingested | Wiki: 418 pages ## Summary Today's scan of arXiv cs.CY, cs.HC, Semantic Scholar, and OpenAlex yielded 6 AIED-relevant papers spanning automated grading, AI-assisted educational</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-29.html">Daily AIED Digest — {today}</a>
-                <div class="snippet">3 new papers ingested | Wiki: 394 pages ## New Ingested Papers ### 4. Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction llm-item-difficulty-prediction — </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-07-22.html">Daily AIED Scan — 2026-07-22</a>
-                <div class="snippet">5 new papers ingested | Wiki: 475 pages ## Source Status - arXiv cs.CY: ✓ 4 papers (2 AIED-relevant ingested) - arXiv cs.HC: ✓ 8 papers (3 AIED-relevant ingested) - Semantic Scholar: ✓ 1 result (0 ing</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-07-28.html">Daily Digest — 2026-07-28</a>
-                <div class="snippet">7 new papers ingested (arXiv cs.CY + cs.HC, window 2026-07-27 to 2026-07-28). - didactical-teacher-assistant-dimensional-modeling — Encoding tutoring strategy in an explicit didactic layer (rather tha</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-05-14.html">Daily Digest: 2026-05-14</a>
-                <div class="snippet">7 new papers ingested from 4 academic sources. Wiki now at 8 pages. ## Source Status | Source | Status | Results | |--------|--------|---------| | arXiv cs.CY | ✗ rate-limited (429) | 0 papers | | arX</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-05.html">Daily Digest: 2026-06-05</a>
-                <div class="snippet">## New Papers Ingested (0)</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-09.html">Daily Digest: 2026-06-09</a>
-                <div class="snippet">## New Papers Ingested (8) | Paper | Authors | Slug | |-------|---------|------| | Awareness of Technological Isomorphism: AI in Elementary Math | Li & Cao | awareness-technological-isomorphism | | LL</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-11.html">Daily Digest: 2026-06-11</a>
-                <div class="snippet">## New Papers Ingested (2) | Paper | Authors | Slug | |-------|---------|------| | The Environmental Cost of LLMs in AIED: Reporting and Practices | Eimler et al. | aied-carbon-footprint-reporting | |</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-12.html">Daily Digest: 2026-06-12</a>
-                <div class="snippet">## New Papers Ingested (5) | Paper | Authors | Slug | |-------|---------|------| | Structuring Transparency: Domain-Specific GenAI Declaration Frameworks in Higher Education | Micallef & Petrovska | g</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-15.html">Daily Digest: 2026-06-15</a>
-                <div class="snippet">## New Papers Ingested (1) | Paper | Authors | Slug | |-------|---------|------| | Simulating Students' Java Programming Errors with Large Language Models | Keramati, Cao, Mohammadi, Warschauer & Shi </div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-17.html">"Daily AIED Digest — 2026-06-17"</a></h3>
+            <div class="snippet">Daily AIED Digest — 2026-06-17Papers ingested: 6 | Wiki total: 311 pagesNew Papersself-efficacy-tutoring-learning -- Lower baseline self-efficacy predicts greater learning gains regardless of practice format. ITS-based practice did not improve post-t...</div>
+            <div class="tags"><a href="daily-scan.html">daily-scan</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-24.html">"Daily AIED Digest — 2026-06-24"</a></h3>
+            <div class="snippet">Daily AIED Digest — 2026-06-242 new papers ingested | Wiki: 379 pagesNew Ingested Papers1. GenAI Impact on Chinese HSS Students
+genai-impact-chinese-students-hss — Fan & Liu (2026)
+A large-scale survey of Chinese humanities and social sciences studen...</div>
+            <div class="tags"><a href="daily-scan.html">daily-scan</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-25.html">"Daily AIED Digest — 2026-06-25"</a></h3>
+            <div class="snippet">Daily AIED Digest — 2026-06-252 new papers ingested | Wiki: 381 pagesNew Ingested Papers1. Cross-Subject Predictive Validity for Delayed Start Behavior
+cross-subject-validity-delayed-start — Gutterman, Gurung, Branstetter, Koedinger & Aleven (2026)
+D...</div>
+            <div class="tags"><a href="daily-scan.html">daily-scan</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-26.html">"Daily AIED Digest — 2026-06-26"</a></h3>
+            <div class="snippet">Daily AIED Digest — 2026-06-263 new papers ingested | Wiki: 387 pagesNew Ingested Papers1. An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students
+ai-assisted-learning-mod...</div>
+            <div class="tags"><a href="daily-scan.html">daily-scan</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-30.html">"Daily AIED Digest — 2026-06-30"</a></h3>
+            <div class="snippet">Daily AIED Digest — 2026-06-3010 new papers ingested | Wiki: 402 pagesSource Status
+arXiv cs.CY: ✓ 5 papers (via listing pages — API was rate-limited)
+arXiv cs.HC: ✓ 5 papers (via listing pages — API timed out)
+arXiv cs.CL: ✓ 8 papers (0 AIED-relevan...</div>
+            <div class="tags"><a href="daily-scan.html">daily-scan</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-07-02.html">"Daily AIED Digest — 2026-07-02"</a></h3>
+            <div class="snippet">Daily AIED Digest — 2026-07-028 new papers ingested | Wiki: 411 pagesSummaryToday's scan of arXiv cs.CY and cs.HC yielded 8 AIED-relevant papers spanning computing education, LLM integration in classrooms, accessibility tools for special education, a...</div>
+            <div class="tags"><a href="daily-scan.html">daily-scan</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-07-03.html">"Daily AIED Digest — 2026-07-03"</a></h3>
+            <div class="snippet">Daily AIED Digest — 2026-07-036 new papers ingested | Wiki: 418 pagesSummaryToday's scan of arXiv cs.CY, cs.HC, Semantic Scholar, and OpenAlex yielded 6 AIED-relevant papers spanning automated grading, AI-assisted educational content creation, AI tut...</div>
+            <div class="tags"><a href="daily-scan.html">daily-scan</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-29.html">"Daily AIED Digest — {today}"</a></h3>
+            <div class="snippet">Daily AIED Digest — 2026-06-293 new papers ingested | Wiki: 394 pagesNew Ingested Papers4. Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
+llm-item-difficulty-prediction — Chenguang Wang, Ming Li, Xiny...</div>
+            <div class="tags"><a href="daily-scan.html">daily-scan</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-07-22.html">"Daily AIED Scan — 2026-07-22"</a></h3>
+            <div class="snippet">Daily AIED Scan — 2026-07-225 new papers ingested | Wiki: 475 pagesSource Status
+arXiv cs.CY: ✓ 4 papers (2 AIED-relevant ingested)
+arXiv cs.HC: ✓ 8 papers (3 AIED-relevant ingested)
+Semantic Scholar: ✓ 1 result (0 ingested — out-of-window, pubDate 2...</div>
+            <div class="tags"><a href="daily-scan.html">daily-scan</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-07-28.html">"Daily Digest — 2026-07-28"</a></h3>
+            <div class="snippet">Daily Digest — 2026-07-287 new papers ingested (arXiv cs.CY + cs.HC, window 2026-07-27 to 2026-07-28).didactical-teacher-assistant-dimensional-modeling — Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) ma...</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-05-14.html">"Daily Digest: 2026-05-14"</a></h3>
+            <div class="snippet">Daily Digest: 2026-05-147 new papers ingested from 4 academic sources. Wiki now at 8 pages.Source Status
+
+
+
+Source
+Status
+Results
+
+
+
+
+arXiv cs.CY
+✗ rate-limited (429)
+0 papers
+
+
+arXiv cs.HC
+✗ rate-limited (429)
+0 papers
+
+
+Semantic Scholar
+✗ empty res...</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-05.html">"Daily Digest: 2026-06-05"</a></h3>
+            <div class="snippet">Daily Digest: 2026-06-05New Papers Ingested (0)</div>
+            <div class="tags"><a href="daily.html">daily</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-09.html">"Daily Digest: 2026-06-09"</a></h3>
+            <div class="snippet">Daily Digest: 2026-06-09New Papers Ingested (8)
+
+
+Paper
+Authors
+Slug
+
+
+
+
+Awareness of Technological Isomorphism: AI in Elementary Math
+Li & Cao
+awareness-technological-isomorphism
+
+
+LLM-Generated Feedback in Introductory Programming
+Heickal & Lan
+llm...</div>
+            <div class="tags"><a href="daily.html">daily</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-11.html">"Daily Digest: 2026-06-11"</a></h3>
+            <div class="snippet">Daily Digest: 2026-06-11New Papers Ingested (2)
+
+
+Paper
+Authors
+Slug
+
+
+
+
+The Environmental Cost of LLMs in AIED: Reporting and Practices
+Eimler et al.
+aied-carbon-footprint-reporting
+
+
+Learning by Chatting? Investigating the Impact of Generative AI o...</div>
+            <div class="tags"><a href="daily.html">daily</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-12.html">"Daily Digest: 2026-06-12"</a></h3>
+            <div class="snippet">Daily Digest: 2026-06-12New Papers Ingested (5)
+
+
+Paper
+Authors
+Slug
+
+
+
+
+Structuring Transparency: Domain-Specific GenAI Declaration Frameworks in Higher Education
+Micallef & Petrovska
+genai-declaration-frameworks-higher-education
+
+
+Generativism: Lea...</div>
+            <div class="tags"><a href="daily.html">daily</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-15.html">"Daily Digest: 2026-06-15"</a></h3>
+            <div class="snippet">Daily Digest: 2026-06-15New Papers Ingested (1)
+
+
+Paper
+Authors
+Slug
+
+
+
+
+Simulating Students' Java Programming Errors with Large Language Models
+Keramati, Cao, Mohammadi, Warschauer & Shi
+simulating-students-java-programming-errors-llms
+
+
+Source Stat...</div>
+            <div class="tags"><a href="daily.html">daily</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

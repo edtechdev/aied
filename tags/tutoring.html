@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tutoring — AI in Education Wiki</title>
+    <title>tutoring — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,38 +23,38 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 tutoring</h1>
-        <p>A niche topic with 4 articles, including Adaptive Learning Systems.</p>
+        <h1>🏷️ tutoring</h1>
+        <p>4 article(s) tagged with <strong>tutoring</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (4)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/didactical-teacher-assistant-dimensional-modeling.html">A didactical-driven teacher assistant for a dimensional modeling course</a>
-                <div class="snippet">Laurent Brisson, Maria Segarra, Grégory Smits (2026) — IMT Atlantique. arXiv preprint (cs.CY). 📄 Full text (arXiv) Brisson, Segarra and Smits present a didactically-driven LLM teacher assistant for a </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/adaptive-learning-systems.html">Adaptive Learning Systems</a>
-                <div class="snippet">> 📄 Full text: arXiv:2604.26962 · local · arXiv:2409.03512 · local · arXiv:2507.12484 · local Systems that dynamically adjust instructional content, difficulty, and feedback based on real-time learner</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/agentic-workflows-education.html">Agentic Workflows in Education</a>
-                <div class="snippet">> 📄 Full text: arXiv:2504.20082 · local A design framework for educational AI systems structured around four agentic paradigms: reflection, planning, tool use, and multi-agent collaboration. Proposed </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/personalized-learning.html">Personalized Learning</a>
-                <div class="snippet">> 📄 Full text: arXiv:2604.26962 · local · arXiv:2409.03512 · local · arXiv:2604.13074 · local Tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/didactical-teacher-assistant-dimensional-modeling.html">A didactical-driven teacher assistant for a dimensional modeling course</a></h3>
+            <div class="snippet">A didactical-driven teacher assistant for a dimensional modeling courseLaurent Brisson, Maria Segarra, Grégory Smits (2026) — IMT Atlantique. arXiv preprint (cs.CY).📄 Full text (arXiv)Brisson, Segarra and Smits present a didactically-driven LLM teach...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a><a href="pedagogy.html">pedagogy</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/adaptive-learning-systems.html">Adaptive Learning Systems</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2604.26962 · local · arXiv:2409.03512 · local · arXiv:2507.12484 · localAdaptive Learning SystemsSystems that dynamically adjust instructional content, difficulty, and feedback based on real-time learner models. The transition fr...</div>
+            <div class="tags"><a href="adaptive-learning.html">adaptive-learning</a><a href="personalized-learning.html">personalized-learning</a><a href="architecture.html">architecture</a><a href="ai-education.html">ai-education</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/agentic-workflows-education.html">Agentic Workflows in Education</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2504.20082 · localAgentic Workflows in EducationA design framework for educational AI systems structured around four agentic paradigms: reflection, planning, tool use, and multi-agent collaboration. Proposed by Kamalov et al. (20...</div>
+            <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-education.html">ai-education</a><a href="benchmark.html">benchmark</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/personalized-learning.html">Personalized Learning</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2604.26962 · local · arXiv:2409.03512 · local · arXiv:2604.13074 · localPersonalized LearningTailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective s...</div>
+            <div class="tags"><a href="personalized-learning.html">personalized-learning</a><a href="adaptive-learning.html">adaptive-learning</a><a href="ai-education.html">ai-education</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

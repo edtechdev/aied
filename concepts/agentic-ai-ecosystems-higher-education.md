@@ -3,7 +3,7 @@ title: "Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to
 created: 2026-05-15
 updated: 2026-05-22
 type: concept
-tags: [higher-ed, generative-ai, llm, administrator, equity, intelligent-tutoring]
+tags: [administrator, agentic-ai, equity, generative-ai, higher-ed, intelligent-tutoring, llm]
 sources: [raw/papers/2605.14266.md]
 confidence: low
 ---

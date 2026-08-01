@@ -3,7 +3,7 @@ title: Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teachin
 created: 2026-05-15
 updated: 2026-05-15
 type: concept
-tags: [benchmark, intelligent-tutoring, llm, generative-ai, scaffolding, teacher-role]
+tags: [agentic-ai, benchmark, generative-ai, intelligent-tutoring, llm, scaffolding, teacher-role]
 sources: [raw/papers/2605.14322.md]
 confidence: medium
 ---

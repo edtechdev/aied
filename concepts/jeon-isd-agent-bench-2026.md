@@ -3,7 +3,7 @@ title: "ISD Agent Benchmark"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [agent, benchmark, ai-ed-evaluation]
+tags: [agentic-ai, ai-ed-evaluation, benchmark]
 sources: [raw/papers/jeon-isd-agent-bench-2026.md]
 confidence: low
 ---

@@ -3,7 +3,7 @@ title: Formative Assessment in AI Education
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [assessment, evaluation, agent, safety, ai-education]
+tags: [agentic-ai, ai-education, assessment, evaluation, safety]
 sources: [raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md, raw/papers/kamalov-agentic-workflows-education-2026.md, raw/papers/zhao-learnlens-curriculum-feedback-2025.md]
 confidence: medium
 ---

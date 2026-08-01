@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>daily — AI in Education Wiki</title>
+    <title>daily — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,42 +23,105 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 daily</h1>
-        <p>A focused topic with 5 articles, including Daily Digest: 2026-06-05 and related work.</p>
+        <h1>🏷️ daily</h1>
+        <p>5 article(s) tagged with <strong>daily</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (5)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-05.html">Daily Digest: 2026-06-05</a>
-                <div class="snippet">## New Papers Ingested (0)</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-09.html">Daily Digest: 2026-06-09</a>
-                <div class="snippet">## New Papers Ingested (8) | Paper | Authors | Slug | |-------|---------|------| | Awareness of Technological Isomorphism: AI in Elementary Math | Li & Cao | awareness-technological-isomorphism | | LL</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-11.html">Daily Digest: 2026-06-11</a>
-                <div class="snippet">## New Papers Ingested (2) | Paper | Authors | Slug | |-------|---------|------| | The Environmental Cost of LLMs in AIED: Reporting and Practices | Eimler et al. | aied-carbon-footprint-reporting | |</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-12.html">Daily Digest: 2026-06-12</a>
-                <div class="snippet">## New Papers Ingested (5) | Paper | Authors | Slug | |-------|---------|------| | Structuring Transparency: Domain-Specific GenAI Declaration Frameworks in Higher Education | Micallef & Petrovska | g</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-06-15.html">Daily Digest: 2026-06-15</a>
-                <div class="snippet">## New Papers Ingested (1) | Paper | Authors | Slug | |-------|---------|------| | Simulating Students' Java Programming Errors with Large Language Models | Keramati, Cao, Mohammadi, Warschauer & Shi </div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-05.html">"Daily Digest: 2026-06-05"</a></h3>
+            <div class="snippet">Daily Digest: 2026-06-05New Papers Ingested (0)</div>
+            <div class="tags"><a href="digest.html">digest</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-09.html">"Daily Digest: 2026-06-09"</a></h3>
+            <div class="snippet">Daily Digest: 2026-06-09New Papers Ingested (8)
+
+
+Paper
+Authors
+Slug
+
+
+
+
+Awareness of Technological Isomorphism: AI in Elementary Math
+Li & Cao
+awareness-technological-isomorphism
+
+
+LLM-Generated Feedback in Introductory Programming
+Heickal & Lan
+llm...</div>
+            <div class="tags"><a href="digest.html">digest</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-11.html">"Daily Digest: 2026-06-11"</a></h3>
+            <div class="snippet">Daily Digest: 2026-06-11New Papers Ingested (2)
+
+
+Paper
+Authors
+Slug
+
+
+
+
+The Environmental Cost of LLMs in AIED: Reporting and Practices
+Eimler et al.
+aied-carbon-footprint-reporting
+
+
+Learning by Chatting? Investigating the Impact of Generative AI o...</div>
+            <div class="tags"><a href="digest.html">digest</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-12.html">"Daily Digest: 2026-06-12"</a></h3>
+            <div class="snippet">Daily Digest: 2026-06-12New Papers Ingested (5)
+
+
+Paper
+Authors
+Slug
+
+
+
+
+Structuring Transparency: Domain-Specific GenAI Declaration Frameworks in Higher Education
+Micallef & Petrovska
+genai-declaration-frameworks-higher-education
+
+
+Generativism: Lea...</div>
+            <div class="tags"><a href="digest.html">digest</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-06-15.html">"Daily Digest: 2026-06-15"</a></h3>
+            <div class="snippet">Daily Digest: 2026-06-15New Papers Ingested (1)
+
+
+Paper
+Authors
+Slug
+
+
+
+
+Simulating Students' Java Programming Errors with Large Language Models
+Keramati, Cao, Mohammadi, Warschauer & Shi
+simulating-students-java-programming-errors-llms
+
+
+Source Stat...</div>
+            <div class="tags"><a href="digest.html">digest</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

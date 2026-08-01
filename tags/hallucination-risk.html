@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>hallucination-risk — AI in Education Wiki</title>
+    <title>hallucination-risk — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,66 +23,83 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 hallucination-risk</h1>
-        <p>A growing research area with 11 articles covering Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System, AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation and related topics.</p>
+        <h1>🏷️ hallucination-risk</h1>
+        <p>11 article(s) tagged with <strong>hallucination-risk</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (11)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/shame-guilt-ai-regulation-computing-education.html">\"Stuck in a Spiral\": Shame and Guilt as Social Regulators of AI Use in Computing Education</a>
-                <div class="snippet">Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, Stephen MacNeil (2026) — arXiv preprint   📄 Full text (arXiv) An interview study with 19 computing students through a functionalist perspe</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-partner-science-epistemic-vigilance.html">AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation</a>
-                <div class="snippet">Marcus Kubsch (2026) — arXiv preprint (physics.ed-ph)   📄 Full text (arXiv) Argues that epistemic vigilance — the human evaluation of AI output calibrated to how far a fallible source can be trusted —</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-tutoring-feedback-diagnosis-gap.html">Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most</a>
-                <div class="snippet">Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026) — North Carolina State University. arXiv preprint. 📄 Full text (arXiv) ## Key Finding LLM tutors achieve near-ceiling on corr</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/eduguard-safe-rag-llm-tutor.html">EduGuard: A Safe RAG-Based LLM Tutor for Programming Education</a>
-                <div class="snippet">Hossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026) — arXiv:2607.15738 (cs.CY). 📄 Full text (arXiv) EduGuard is a retrieval-augmented generation (RAG) tutoring framework that directly </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/prompt-injection-defenses-educational-llm-tutors.html">Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs</a>
-                <div class="snippet">Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs Maiorano (2026) — arXiv cs.CR/cs.AI. 📄 Full text (arXiv) ## Summary This paper addresses a fundam</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/hallucination-risk.html">Hallucination Risk</a>
-                <div class="snippet">LLM hallucination risks in educational contexts ## Connections *This page is a stub — awaiting further sources and content.* ## Related Pages - llm-cognitive-diagnosis-handwritten-math — MathCog bench</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/chatgpt-programming-education-text-mining.html">Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education</a>
-                <div class="snippet">Grume, J.C., Miranda, J.P.P., De Leon, A.P., Salenga, J.L., Hernandez, H.E., Castro, M.A.A., Maniago, V.G.M., Canlas, J.D., Quiambao, J.B. (2026) — Pedagogical Innovations in CS Education (IGI Global)</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-student-simulation-misconception-faithfulness.html">Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators</a>
-                <div class="snippet">Do, Sonkar & Sachan (2026) — ETH Zurich. arXiv preprint. 📄 Full text (arXiv) ## Synthesis This paper exposes a critical failure mode in using LLMs as simulated students for intelligent-tutoring develo</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/eduframetrap-llm-sycophancy-educational-safety.html">Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks</a>
-                <div class="snippet">Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks Kasneci & Kasneci (2026) — Position paper. arXiv cs.AI/cs.HC. 📄 Full text (arXiv) ## Summary This position paper ide</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/contextual-sycophancy-ai-literacy.html">The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration</a>
-                <div class="snippet">Koyuturk, C., Guidotti, S., & Ognibene, D. (2026) — University of Milano-Bicocca. AIED 2026 LBR (Late-Breaking Results). 📄 Full text (arXiv) ## Key Finding LLM sycophancy creates a feedback loop where</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-fallibility-warning-help-seeking.html">Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System</a>
-                <div class="snippet">Nagashima et al. (2026) — ArXiv. 📄 Full text (arXiv) Lightweight transparency cues (warnings about possible AI errors) increased hint requests in a math ITS, likely due to responsibility shifting or v</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/ai-partner-science-epistemic-vigilance.html">"AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation"</a></h3>
+            <div class="snippet">AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive AugmentationMarcus Kubsch (2026) — arXiv preprint (physics.ed-ph)  
+📄 Full text (arXiv)Argues that epistemic vigilance — the human evaluation of A...</div>
+            <div class="tags"><a href="personalized-learning.html">personalized-learning</a><a href="scaffolding.html">scaffolding</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="equity.html">equity</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-tutoring-feedback-diagnosis-gap.html">"Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most"</a></h3>
+            <div class="snippet">Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters MostYasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026) — North Carolina State University. arXiv preprint.📄 Full text (arXiv)Key Finding...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="benchmark.html">benchmark</a><a href="scaffolding.html">scaffolding</a><a href="feedback-loop.html">feedback-loop</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/eduguard-safe-rag-llm-tutor.html">"EduGuard: A Safe RAG-Based LLM Tutor for Programming Education"</a></h3>
+            <div class="snippet">EduGuard: A Safe RAG-Based LLM Tutor for Programming EducationHossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026) — arXiv:2607.15738 (cs.CY).
+📄 Full text (arXiv)EduGuard is a retrieval-augmented generation (RAG) tutoring framework tha...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="stem-education.html">stem-education</a><a href="over-reliance.html">over-reliance</a><a href="feedback-loop.html">feedback-loop</a><a href="benchmark.html">benchmark</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/prompt-injection-defenses-educational-llm-tutors.html">"Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs"</a></h3>
+            <div class="snippet">Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offsEvaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs
+Maiorano (2026) — arXiv cs.CR/cs.AI.
+📄 Full t...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="regulation.html">regulation</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/chatgpt-programming-education-text-mining.html">"Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education"</a></h3>
+            <div class="snippet">Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming EducationGrume, J.C., Miranda, J.P.P., De Leon, A.P., Salenga, J.L., Hernandez, H.E., Castro, M.A.A., Maniago, V.G.M., Canlas, J.D., Quiambao,...</div>
+            <div class="tags"><a href="over-reliance.html">over-reliance</a><a href="academic-integrity.html">academic-integrity</a><a href="stem-education.html">stem-education</a><a href="feedback-loop.html">feedback-loop</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-student-simulation-misconception-faithfulness.html">"Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators"</a></h3>
+            <div class="snippet">LLM Student Simulation and Misconception FaithfulnessDo, Sonkar & Sachan (2026) — ETH Zurich. arXiv preprint.📄 Full text (arXiv)SynthesisThis paper exposes a critical failure mode in using LLMs as simulated students for intelligent-tutoring developme...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="benchmark.html">benchmark</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/eduframetrap-llm-sycophancy-educational-safety.html">"Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks"</a></h3>
+            <div class="snippet">Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy BenchmarksSycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
+Kasneci & Kasneci (2026) — Position paper. arXiv cs.AI/cs.HC.
+📄 Full text (arXiv)Su...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="benchmark.html">benchmark</a><a href="over-reliance.html">over-reliance</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/contextual-sycophancy-ai-literacy.html">"The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration"</a></h3>
+            <div class="snippet">The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI CollaborationKoyuturk, C., Guidotti, S., & Ognibene, D. (2026) — University of Milano-Bicocca. AIED 2026 LBR (Late-Breaking Results).📄 Full text (arXiv)Key Finding
+LLM...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="ai-literacy.html">ai-literacy</a><a href="student-experience.html">student-experience</a><a href="bias-mitigation.html">bias-mitigation</a><a href="over-reliance.html">over-reliance</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/shame-guilt-ai-regulation-computing-education.html">"\"Stuck in a Spiral\": Shame and Guilt as Social Regulators of AI Use in Computing Education"</a></h3>
+            <div class="snippet">"Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing EducationKate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, Stephen MacNeil (2026) — arXiv preprint  
+📄 Full text (arXiv)An interview study with 19 computing...</div>
+            <div class="tags"><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a><a href="academic-integrity.html">academic-integrity</a><a href="over-reliance.html">over-reliance</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/hallucination-risk.html">Hallucination Risk</a></h3>
+            <div class="snippet">Hallucination RiskLLM hallucination risks in educational contextsConnectionsThis page is a stub — awaiting further sources and content.Related Pagesllm-cognitive-diagnosis-handwritten-math — MathCog benchmark: 18 LLMs evaluated on cognitive skill dia...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-fallibility-warning-help-seeking.html">Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System</a></h3>
+            <div class="snippet">Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
+Nagashima et al. (2026) — ArXiv.
+📄 Full text (arXiv)Lightweight transparency cues (warnings about possible AI errors) increased hint requests in a math ITS, likely...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="student-experience.html">student-experience</a><a href="trust-calibration.html">trust-calibration</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>
