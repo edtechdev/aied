@@ -1662,3 +1662,11 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 ## [2026-07-31]
 
 - **EdArXiv preprint** → [[llm-intervention-design-cs-review]] — Scoping review of 13 experimental studies on LLM intervention designs in undergraduate CS education. Tags: cs-education, scaffolding, efficacy-study. Key findings: semester-long Virtual Tutor interventions with scaffolded feedback consistently improved computational thinking; short-term coding-assistant interventions produce mixed results; "tool frustration" paradox — students without scaffolding report higher frustration; LLM effectiveness depends on pedagogical design, not model choice.
+
+## [2026-08-01]
+
+- **CAEAI** → [[genai-mindtool-generative-learning]] — Generative AI (GenAI) as a mindtool that supports generative learning (GL). Tags: generative-ai, instructional-design, higher-ed, learning-theory, scaffolding.
+- **CAEAI** → [[multimodal-prompting-ai-literacy]] — Students' multimodal prompting practices as epistemic work in AI literacy development. Tags: ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal.
+- **CAEAI** → [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI. Tags: ai-tutor-safety-harms, k-12, llm, pedagogical-safety, generative-ai.
+- **CAEAI** → [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics. Tags: generative-ai, higher-ed, stem-education, faculty-development, educational-theory.
+- **CAEAI** → [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness. Tags: professional-training, efficacy-study, intelligent-tutoring, generative-ai, adaptive-learning.

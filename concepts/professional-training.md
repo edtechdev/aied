@@ -23,3 +23,4 @@ confidence: low
 - [[automated-presentation-coaching]] — Presentation coaching for professional skills
 - [[genai-literacy-image-discrimination]] — GenAI literacy training for image discrimination
 - [[tech-enhanced-tabletop-cybersecurity-education]]
+- [[ai-vocational-education-training-review]]

@@ -42,6 +42,7 @@ The paper highlights that **educational settings have unique requirements**: fal
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy as safety risk
 - [[student-experience]] — Student experience with AI
 - [[regulation]] — AI regulation in education
+- [[vetting-dual-llm-safety-education]]
 
 ## Citation
 **APA:** Maiorano, A. C. (2026). *Evaluating prompt injection defenses for educational LLM tutors: Security-usability-latency trade-offs*. arXiv:2605.06669.

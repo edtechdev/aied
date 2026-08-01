@@ -549,7 +549,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Ai EducationThis is a stub page for the concept of ai education. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Ai EducationThis is a stub page for the concept of ai education. It was created to resolve broken backlinks from other wiki pages.Related Pagesgenai-runaway-object-math-higher-ed",
     "url": "pages/ai-education.html"
   },
   {
@@ -1170,6 +1170,19 @@
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2603.17373 \u00b7 localAI Tutor Safety and Pedagogical Harms> \"Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different.\" SafeTutors exposes that all tested models show broad pedagogical harm, with failures escalating from 17.7% in single-turn to 77.8% in multi-turn student-tutor dialogue.^hazra-safetutors-pedagogical-safety-2026Why Tutoring Safety Is DifferentConventional LLM safety benchmarks focus on t",
     "url": "pages/ai-tutor-safety-harms.html"
+  },
+  {
+    "slug": "ai-vocational-education-training-review",
+    "title": "\"Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness\"",
+    "tags": [
+      "professional-training",
+      "efficacy-study",
+      "intelligent-tutoring",
+      "generative-ai",
+      "adaptive-learning"
+    ],
+    "content": "Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectivenessAuthors: Viola Deutscher, Herbert Thomann, Olga Zlatkin-Troitschanskaia, Ulrike Weyland, Stephan Abele, Amory H. Danek, Samuel Greiff, Andreas Rausch, Susan Seeber, J\u00fcrgen Seifried, Esther Winther\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100628 \u2014 Open Access (CC BY 4.0)Key FindingsFirst systematic review of ",
+    "url": "pages/ai-vocational-education-training-review.html"
   },
   {
     "slug": "aiawe-automated-writing-evaluation",
@@ -2930,7 +2943,7 @@
     "slug": "digital-literacy",
     "title": "\"Digital Literacy\"",
     "tags": [],
-    "content": "Digital LiteracyThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nai-literacy-power-knowledge",
+    "content": "Digital LiteracyThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nai-literacy-power-knowledge\nmultimodal-prompting-ai-literacy",
     "url": "pages/digital-literacy.html"
   },
   {
@@ -3108,7 +3121,7 @@
     "slug": "educational-theory",
     "title": "\"Educational Theory\"",
     "tags": [],
-    "content": "Educational TheoryThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\npost-instrumental-learning-capacity-dissolution",
+    "content": "Educational TheoryThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\npost-instrumental-learning-capacity-dissolution\nai-vocational-education-training-review",
     "url": "pages/educational-theory.html"
   },
   {
@@ -3172,7 +3185,7 @@
     "slug": "efficacy-study",
     "title": "Efficacy Study",
     "tags": [],
-    "content": "Efficacy StudyStub page \u2014 full synthesis pending.Related Pages\nanvil-ai-educational-animations\nllm-intervention-design-cs-review",
+    "content": "Efficacy StudyStub page \u2014 full synthesis pending.Related Pages\nanvil-ai-educational-animations\nllm-intervention-design-cs-review\nai-vocational-education-training-review",
     "url": "pages/efficacy-study.html"
   },
   {
@@ -3704,6 +3717,19 @@
     "url": "pages/genai-meta-analysis-programming-learning.html"
   },
   {
+    "slug": "genai-mindtool-generative-learning",
+    "title": "\"Generative AI (GenAI) as a mindtool that supports generative learning (GL)\"",
+    "tags": [
+      "generative-ai",
+      "instructional-design",
+      "higher-ed",
+      "learning-theory",
+      "scaffolding"
+    ],
+    "content": "Generative AI (GenAI) as a mindtool that supports generative learning (GL)Authors: Nada Dabbagh, Helen Fake\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100626 \u2014 Open Access (CC BY 4.0)Key FindingsArgues GenAI can serve as a Mindtool (knowledge representation tool) to facilitate Generative Learning rather than short-circuiting it. Proposes 8 pedagogical roles for GenAI: learning strategy/study buddy, collaborative thinking tool, possibility engine, Socratic opponent, persona",
+    "url": "pages/genai-mindtool-generative-learning.html"
+  },
+  {
     "slug": "genai-minoritized-knowledges-disability",
     "title": "\"Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability\"",
     "tags": [],
@@ -3774,6 +3800,19 @@
     ],
     "content": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)Shahin Hossain, Tukhbita Afroz Nawmi (2026) \u2014 arXiv preprint. arXiv:2607.14301.\ud83d\udcc4 Full text (arXiv)As generative AI (GenAI) becomes embedded in undergraduate academic writing, how students rely on these tools \u2014 not merely whether they use them \u2014 has emerged as a core question for academic-integrity, student-experience, and educational equit",
     "url": "pages/genai-reliance-types-scale.html"
+  },
+  {
+    "slug": "genai-runaway-object-math-higher-ed",
+    "title": "\"GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics\"",
+    "tags": [
+      "generative-ai",
+      "higher-ed",
+      "stem-education",
+      "faculty-development",
+      "educational-theory"
+    ],
+    "content": "GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematicsAuthors: Dionysia Bakogianni, Yvonne Liljekvist, Phuong Bui\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100637 \u2014 Open Access (CC BY 4.0)Key FindingsQualitative study of 10 mathematics academics at a Swedish university, using Cultural-Historical Activity Theory (CHAT). Identifies 5 themes of GenAI-driven change: boundary fluidity, shifting objects, epistemic ",
+    "url": "pages/genai-runaway-object-math-higher-ed.html"
   },
   {
     "slug": "genai-skill-bypass-literacy",
@@ -4819,7 +4858,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Llm In EducationThis is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.Related Pagesagentic-ai-education-scoping-review \u2014 Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gapllm-intervention-design-cs-review",
+    "content": "Llm In EducationThis is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.Related Pagesagentic-ai-education-scoping-review \u2014 Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gapllm-intervention-design-cs-review\nvetting-dual-llm-safety-education",
     "url": "pages/llm-in-education.html"
   },
   {
@@ -5384,10 +5423,23 @@
     "url": "pages/multimodal-learning-genai.html"
   },
   {
+    "slug": "multimodal-prompting-ai-literacy",
+    "title": "\"Students' multimodal prompting practices as epistemic work in AI literacy development\"",
+    "tags": [
+      "ai-literacy",
+      "prompt-engineering",
+      "higher-ed",
+      "generative-ai",
+      "multimodal"
+    ],
+    "content": "Students' multimodal prompting practices as epistemic work in AI literacy developmentAuthors: Sylvana Sofkova Hashemi\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100635 \u2014 Open Access (CC BY 4.0)Key FindingsEmpirical study with 28 postgraduate students engaged in collaborative multimodal prompting tasks. Found prompting strategies vary along a continuum from basic input-output to strategic, iterative, dialogic practices. Prompting emerges as a central epistemic practice \u2014 st",
+    "url": "pages/multimodal-prompting-ai-literacy.html"
+  },
+  {
     "slug": "multimodal",
     "title": "Multimodal",
     "tags": [],
-    "content": "MultimodalStub page \u2014 full synthesis pending.Related Pages\nslidesqaqa-pedagogical-question-generation \u2014 joint text+visual reasoning for slide-based question generation\nanvil-ai-educational-animations",
+    "content": "MultimodalStub page \u2014 full synthesis pending.Related Pages\nslidesqaqa-pedagogical-question-generation \u2014 joint text+visual reasoning for slide-based question generation\nanvil-ai-educational-animations\nmultimodal-prompting-ai-literacy",
     "url": "pages/multimodal.html"
   },
   {
@@ -5550,7 +5602,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Pedagogical SafetyThis is a stub page for the concept of pedagogical safety. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Pedagogical SafetyThis is a stub page for the concept of pedagogical safety. It was created to resolve broken backlinks from other wiki pages.Related Pagesvetting-dual-llm-safety-education",
     "url": "pages/pedagogical-safety.html"
   },
   {
@@ -5780,7 +5832,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review",
+    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review\nmultimodal-prompting-ai-literacy",
     "url": "pages/prompt-engineering.html"
   },
   {
@@ -5884,7 +5936,7 @@
     "tags": [
       "stub"
     ],
-    "content": "RctThis is a stub page for the concept of rct. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "RctThis is a stub page for the concept of rct. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-vocational-education-training-review",
     "url": "pages/rct.html"
   },
   {
@@ -6189,7 +6241,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Simulation Based LearningThis is a stub page for the concept of simulation based learning. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Simulation Based LearningThis is a stub page for the concept of simulation based learning. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-vocational-education-training-review",
     "url": "pages/simulation-based-learning.html"
   },
   {
@@ -6276,7 +6328,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Socratic AiThis is a stub page for the concept of socratic ai. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Socratic AiThis is a stub page for the concept of socratic ai. It was created to resolve broken backlinks from other wiki pages.Related Pagesgenai-mindtool-generative-learning",
     "url": "pages/socratic-ai.html"
   },
   {
@@ -6985,6 +7037,19 @@
     ],
     "content": "Educator's Guide to Multimodal Learning with GenAIThis is a stub page for \"Educator's Guide to Multimodal Learning with GenAI\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
     "url": "pages/varga-atkins-educators-guide-multimodal-learning-genai-2025.html"
+  },
+  {
+    "slug": "vetting-dual-llm-safety-education",
+    "title": "\"VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI\"",
+    "tags": [
+      "ai-tutor-safety-harms",
+      "k-12",
+      "llm",
+      "pedagogical-safety",
+      "generative-ai"
+    ],
+    "content": "VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AIAuthors: Hongming Li, Shan Zhang, Anthony F. Botelho\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100646 \u2014 Open Access (CC BY 4.0)Key FindingsProposes VETTING \u2014 a dual-LLM architecture where a generator LLM produces responses and a separate verifier LLM checks them against safety policies. Deployed with 151 middle school students, achieving F1=0.928 for safety violation detect",
+    "url": "pages/vetting-dual-llm-safety-education.html"
   },
   {
     "slug": "vibe-coding-programming-process-visualizer",

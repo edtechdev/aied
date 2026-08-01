@@ -62,6 +62,9 @@ confidence: low
 - [[vibe-coding-programming-process-visualizer]] — Thonny log visualizer built via AI-assisted 'vibe coding' piloted with 160 stude...
 - [[genai-architectural-design-studios]]
 - [[llm-intervention-design-cs-review]]
+- [[genai-mindtool-generative-learning]]
+- [[multimodal-prompting-ai-literacy]]
+- [[genai-runaway-object-math-higher-ed]]
 
 ## Related Pages
 - [[genai-impact-chinese-students-hss]] — Large-scale survey examining GenAI's role in academic development of humanities and social sciences students

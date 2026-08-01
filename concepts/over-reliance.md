@@ -67,6 +67,7 @@ Student and faculty over-reliance on AI tools in education
 - [[post-instrumental-learning-capacity-dissolution]]
 - [[generative-refusal-ai-tools-for-thought]]
 - [[llm-intervention-design-cs-review]]
+- [[genai-mindtool-generative-learning]]
 
 ## Related Pages
 - [[ai-coaching-rl-skill-development]] — Over-reliance observed in motor skill learning when AI coaching provides excessive intervention

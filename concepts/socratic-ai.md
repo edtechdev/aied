@@ -14,3 +14,4 @@ This is a stub page for the concept of socratic ai. It was created to resolve br
 
 ## Related Pages
 
+- [[genai-mindtool-generative-learning]]

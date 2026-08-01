@@ -13,3 +13,4 @@ This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[post-instrumental-learning-capacity-dissolution]]
+- [[ai-vocational-education-training-review]]

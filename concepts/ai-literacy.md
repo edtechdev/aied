@@ -185,6 +185,7 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 - [[trio-ethnography-llm-programming-education]] — supports framing students as reflective agents in AI use
 - [[post-instrumental-learning-capacity-dissolution]]
 - [[ai-literacy-power-knowledge]]
+- [[multimodal-prompting-ai-literacy]]
 
 ## Sources
 - Hingle, A. & Johri, A. (2025). *Systematic Review Of Collaborative Learning Activities For Promoting AI Literacy*. arXiv:2508.15111v1. [PDF](https://arxiv.org/pdf/2508.15111v1)

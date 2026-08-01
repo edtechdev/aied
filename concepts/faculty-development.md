@@ -25,3 +25,4 @@ confidence: low
 - [[community-centered-ai-education-adults]] — Community AI Education for Adults
 - [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass
 - [[gaide-vibe-coding-k12-teachers]] — GAIDE vibe-coding framework for K-12 teachers
+- [[genai-runaway-object-math-higher-ed]]

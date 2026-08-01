@@ -14,3 +14,4 @@ This is a stub page for the concept of simulation based learning. It was created
 
 ## Related Pages
 
+- [[ai-vocational-education-training-review]]

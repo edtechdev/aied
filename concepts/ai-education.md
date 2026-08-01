@@ -14,3 +14,4 @@ This is a stub page for the concept of ai education. It was created to resolve b
 
 ## Related Pages
 
+- [[genai-runaway-object-math-higher-ed]]

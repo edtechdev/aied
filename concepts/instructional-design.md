@@ -19,3 +19,4 @@ confidence: low
 - [[adhd-video-segmentation-computing-education]] — Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p
 - [[ai-generated-instructional-videos-computing-ed]]
 - [[llm-intervention-design-cs-review]]
+- [[genai-mindtool-generative-learning]]
