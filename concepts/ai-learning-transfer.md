@@ -90,17 +90,13 @@ This may mean:
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: 55% ceiling on frontier models raises transfer questions for AI tutoring systems
 - [[genai-meta-analysis-programming-learning]] — Highest-level evidence on whether AI gains persist when tools removed
 - [[sequenced-ai-feedback-learning]] — Cao et al. RCT: learning outcome disparity between feedback conditions raises transfer and retention questions
--
-
 - [[awareness-technological-isomorphism]] — Technological Isomorphism bridges elementary math and AI comprehension
 - [[instructional-guidance-genai-learning]] — Structured prompting improves AI-assisted learning outcomes- [[ai-partner-science-epistemic-vigilance]] -- Epistemic vigilance determines whether AI augments or undermines learning; uniform AI integration risks widening achievement gaps
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring 
+- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
 - [[adaptive-pretesting-retention]] -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice — learner-directed AI study underperforms structured retrieval.
 - [[llm-item-difficulty-prediction]] — Model reasoning as proxy for human cognitive processes
 - [[prompt-based-programming-lesson]] — prompt-based programming teaching intervention
 - [[ai-availability-student-motivation]] — AI availability and student motivation study
 - [[critical-engagement-code-completion]] — measuring critical engagement with AI code completion
-
-## Related Pages
 - [[hybrid-human-ai-tutoring-differentiated]] — MAP growth as learning transfer measure
 - [[genai-performance-vs-learning]] — Distinguishing performance gains from actual learning

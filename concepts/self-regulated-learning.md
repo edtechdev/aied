@@ -77,7 +77,7 @@ For example:
 - [[cross-subject-validity-delayed-start]] — Delayed start behavior as a cross-subject behavioral proxy for self-regulation and learning outcomes
 - **[[ai-assistance-reduces-persistence]]**: Causal evidence (N=1,222) that brief AI assistance reduces persistence and impairs unassisted performance — rapid emergence of over-reliance effects
 - [[ai-fatigue-academic-contexts]] — Motivational Disengagement dimension threatens self-regulated learning capacity
-  - [[llm-automated-assessment-student-self-explanations]] — Automated scoring of self-explanations as an SRL support tool (2026)
+- [[llm-automated-assessment-student-self-explanations]] — Automated scoring of self-explanations as an SRL support tool (2026)
 - [[xai-education-framework]]
 - [[teacher-student-agency-orchestration]]
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
@@ -85,11 +85,9 @@ For example:
 - [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-Ethics Crisis: Beliefs, Decisions, and Justification...
 - [[ecnuclaw-k12-personalized-companion]] — Contextual dimension connects to regulatory skill development in dialogue
 - [[sequenced-ai-feedback-learning]] — Cao et al. RCT: autonomy-supportive sequenced feedback backfired — caution for SRL-aligned AI design
--
-
 - [[regulating-ai-tutor-adolescent-srl]] — Adolescents default to answer-seeking despite SRL intentions with AI tutor- [[learning-by-chatting-genai-impact]] — Learner agency and help-seeking in ChatGPT-mediated information seeking
 - [[generativism-learning-theory]] — Adaptive metacognition in Generativism builds on self-regulated learning theory
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring 
+- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
 - [[curiobot-llm-tutoring-exploratory-learning]] -- Curiosity-oriented LLM interventions (novelty, complexity, conflict, uncertainty) increased exploratory learner behaviors up to 2.4x — acting as a partially independent interaction-level mechanism.
 - [[epistemic-proactivity-math]] — epistemic proactivity in student-AI math interactions
 - [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission
@@ -97,8 +95,5 @@ For example:
 - [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
 - [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awarene
 - [[student-cheat-sheets-make-or-take]] — Students choose between self-created and instructor-provided cheat sheets based on trust, personaliz
-
-## Related Pages
-- [[cross-subject-validity-delayed-start]] — Delayed start behavior as a cross-subject behavioral proxy for self-regulation and learning outcomes
 - [[genai-performance-vs-learning]] — SRL cycle disrupted by performance-only AI use- [[llm-reasoning-traces-metacognition]] — Metacognitive calibration requires active reasoning before AI exposure
 - [[metacognitive-learning-scenarios-taxonomy]] — Taxonomy operationalizes SRL progression from novice to expert

@@ -18,17 +18,14 @@ Role of feedback loops in AI-enhanced learning systems
 *This page is a stub — awaiting further sources and content.*
 
 ## Related Pages
-  - [[llm-automated-assessment-student-self-explanations]] — LLM-based binary classification of student self-explanations for automated feedback (2026)
+- [[llm-automated-assessment-student-self-explanations]] — LLM-based binary classification of student self-explanations for automated feedback (2026)
 - [[ai-changing-teaching-workflows]]
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)
 - [[lata-ferpa-compliant-local-llm-autograder]] — Faster feedback driving 8-11% exam performance gains
 - [[ai-generated-feedback-higher-ed]] — RCT: AI (GPT-o4-mini, DeepSeek R1) feedback matched expert teacher on project performance and student perceptions when anchored to explicit rubric/exemplar
-
 - [[difficulty-aware-dialogue-kt]] — Turn-level assessment enables immediate feedback calibration
 - [[chatgpt-programming-education-text-mining]] — ChatGPT as instant feedback provider and pedagogical implications
-
 - [[a4l-analytics-pipeline]] — A4L modular analytics pipeline for cross-domain educational AI data
-
 - [[llm-feedback-programming-classroom]] — LLM-generated feedback conditions and learning trajectories
 - [[instructional-guidance-genai-learning]] — Structured AI interaction improves feedback efficacy
 - [[foxglove-writing-feedback-experts-llms]] — LLM vs expert feedback goals and anchoring in writing- [[measuring-llm-tutors-teach-vs-solve]] -- Benchmarks conflate solving with teaching (r=0.421); pedagogy and solving scores should be reported separately
@@ -45,8 +42,6 @@ Role of feedback loops in AI-enhanced learning systems
 - [[learning-engagement-assistant-lea]] — agentic RAG+KC tutoring system; first real-student classroom deployment (n=8) and cross-course scalability test
 - [[assessment-team-problem-solving-computing-education]] — Assessment in Team Problem-Solving Exercises in Computing Education
 - [[llm-misconception-difficulty-easy-trap]] — LLMs systematically underestimate misconception-driven item difficulty ('Easy Tr...
-
-## Related Pages
 - [[aicode-collaborative-feedback-system]] — Closing feedback quality-consistency gap with multi-LLM
 - [[ai-assistance-discretionary-feedback]] — Discretionary feedback quantity as a pedagogical loop
 - [[cstutorbench-slm-tutors]] — Tutor feedback quality benchmarking

@@ -44,7 +44,4 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 - [[teacher-role]]
 - [[equity-in-ai-education]]
 - [[ai-literacy]]
-
-
-## Related Pages
 - [[teacher-ai-adoption-confidence]] — Policy levers for building teacher AI confidence

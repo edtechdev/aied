@@ -29,7 +29,4 @@ This model bridges [[agentic-workflows-education]] and practical classroom imple
 - [[project-based-learning]]
 - [[scaffolding]]
 - [[personalized-learning]]
-
-
-## Related Pages
 - [[hybrid-human-ai-tutoring-differentiated]] — Differentiated human-AI tutoring roles

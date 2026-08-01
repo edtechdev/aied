@@ -21,8 +21,8 @@ confidence: low
 - [[neurodivergent-computing-students]] — Neurodivergent computing students document ABC's challenges with unstructured collaboration
 - [[socially-fluent-ai-identity-detection]] — Students cannot detect AI teammates in group work above chance levels
 - [[ai-fatigue-academic-contexts]] — 1,054 students identify five dimensions of AI-related strain in academic work
-  - [[generative-ai-reduced-study-time-math]] — 3.2M ALEKS interactions show age-graded AI adoption: HS 31%, college 27%, middle 9% study-time decline (2026)
-  - [[efficiency-gain-illusion-ai-overreliance]] — N=2691 study: students underestimate AI usage rate, overestimate efficiency gains (2026)
+- [[generative-ai-reduced-study-time-math]] — 3.2M ALEKS interactions show age-graded AI adoption: HS 31%, college 27%, middle 9% study-time decline (2026)
+- [[efficiency-gain-illusion-ai-overreliance]] — N=2691 study: students underestimate AI usage rate, overestimate efficiency gains (2026)
 - [[xai-education-framework]]
 - [[teacher-student-agency-orchestration]]
 - [[genai-architecture-education]]
@@ -31,7 +31,6 @@ confidence: low
 - [[prompt-injection-defenses-educational-llm-tutors]] — False positives in guardrails degrade student experience
 - [[international-students-conversational-ai-adaptation]] — International students' AI adoption patterns and motivations
 - [[institutional-change-framework-ai]] — Six-dimension framework for adapting institutional change models in STEM to generative AI
-
 - [[temporal-smoothness-debiased-kt]] — Fair recommendation loops free from selection bias artifacts
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — Deep behavioral pattern capture beyond raw interaction sequences
 - [[explainable-probabilistic-kt]] — Explainable predictions linking historical behaviors to outcomes
@@ -39,10 +38,8 @@ confidence: low
 - [[genai-tutor-engagement-patterns]] — Four engagement types identified; shallow engagement persists over time
 - [[llm-educational-simulation-adhd]] — Simulated neurodivergent learners as proxies for real student research
 - [[universities-ai-era-rethinking]] — Complements student-facing research with institutional policy perspective
-
 - [[llm-student-misconception-identification]] — Students receive remediation targeted to their specific misconceptions
 - [[ai-campus-wellbeing-tools]] — AI tools for campus satisfaction monitoring and mental health detection- [[history-aware-student-simulation]] — History-conditioned student simulation with RL-optimized profiles for tutoring
-
 - [[regulating-ai-tutor-adolescent-srl]] — Intention-behavior gap in adolescent AI tutor use
 - [[culturally-aware-aied-community-learning]] — Student experiences with community-engaged AI learning- [[genai-declaration-frameworks-higher-education]] — How declaration requirements interact with student GenAI practices
 - [[student-regulatory-awareness-genai]] — Survey evidence on student GenAI tool preferences and regulatory uncertainty
@@ -76,7 +73,7 @@ confidence: low
 - [[mixed-reality-engineering-learning]] — student engagement in engineering
 - [[gaze-informed-ai-children]] — student engagement
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward 
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[flowcode-ai-creative-coding]] — Flowcode: AI creative-coding environment
@@ -104,13 +101,9 @@ confidence: low
 - [[genai-architectural-design-studios]]
 - [[human-ai-collaboration-trust-expectations]]
 - [[conversational-ai-informal-learning]]
-
-## Related Pages
-- [[genai-impact-chinese-students-hss]] — Student perceptions of GenAI's impact on learning processes, performance, and challenges
 - [[affective-text-wearable-student-health]] — Emotional exhaustion language linked to sleep quality and HRV in students
 - [[ai-generated-slides-student-perception]] — Students cannot distinguish AI-generated slides
 - [[chatgpt-impact-high-school-tests]] — Real-world student AI use patterns- [[humanlike-ai-collaborative-writing]] — Eerie surveillance feelings from humanlike AI collaboration cues
 - [[ai-assistance-discretionary-feedback]] — Student usefulness ratings of AI-assisted feedback
 - [[voice-text-prompt-problems-computing-education]] — Voice vs text preference
 - [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
-

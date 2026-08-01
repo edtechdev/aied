@@ -41,8 +41,5 @@ This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, C
 - [[conversational-ai-tutors-framework]] — Affect detection and knowledge tracing as proven methods to keep in AI tutors
 - [[moodle-ai-tutoring-deep-learning]] — Complements AI-mistake pedagogy with deep understanding scaffolding
 - [[sequenced-ai-feedback-learning]] — Cao et al. RCT: direct corrective feedback outperformed encouraging scaffolded feedback for learning outcomes
--
-
-## Related Pages
 - [[ai-generated-slides-student-perception]] — Student bias against perceived AI-generated content
 - [[genai-performance-vs-learning]] — AI errors as learning opportunities
