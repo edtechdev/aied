@@ -65,6 +65,9 @@ confidence: low
 - [[genai-mindtool-generative-learning]]
 - [[multimodal-prompting-ai-literacy]]
 - [[genai-runaway-object-math-higher-ed]]
+- [[human-ai-collaboration-trust-expectations]]
+- [[quest-ai-inquiry-preservice-teachers]]
+- [[same-ai-different-pathways]]
 
 ## Related Pages
 - [[genai-impact-chinese-students-hss]] — Large-scale survey examining GenAI's role in academic development of humanities and social sciences students

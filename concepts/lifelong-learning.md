@@ -18,3 +18,4 @@ confidence: low
 - [[ai-lifelong-learning-policy]]
 
 - [[community-centered-ai-education-adults]] — Community AI Education for Adults
+- [[conversational-ai-informal-learning]]

@@ -30,6 +30,7 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[privacy]] — privacy in education
 - [[academic-integrity]] — academic integrity protections
 - [[vetting-dual-llm-safety-education]]
+- [[llm-unlearning-math-privacy]]
 
 ## Citation
 

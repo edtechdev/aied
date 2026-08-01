@@ -102,6 +102,8 @@ confidence: low
 - [[learner-ai-interaction-patterns-oop]]
 - [[solving-vs-evaluating-genai-solutions]]
 - [[genai-architectural-design-studios]]
+- [[human-ai-collaboration-trust-expectations]]
+- [[conversational-ai-informal-learning]]
 
 ## Related Pages
 - [[genai-impact-chinese-students-hss]] — Student perceptions of GenAI's impact on learning processes, performance, and challenges

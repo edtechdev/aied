@@ -1103,6 +1103,19 @@
     "url": "pages/ai-tools-arab-english-classrooms.html"
   },
   {
+    "slug": "ai-tpack-preservice-math-teachers",
+    "title": "\"AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study\"",
+    "tags": [
+      "ai-literacy",
+      "teacher-professional-development",
+      "stem-education",
+      "higher-ed",
+      "teacher-ai-competency"
+    ],
+    "content": "AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling studyAuthors: Moeketsi Mosia, Fadip Audu Nannim, Felix Egara\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsSEM study of 130 preservice math teachers in South Africa (Global South context). AI-TPACK readiness explained 53% of variance. Positive associations: prior AI use, critical-ethical appraisal, and support/enablers. Senio",
+    "url": "pages/ai-tpack-preservice-math-teachers.html"
+  },
+  {
     "slug": "ai-tpack-teacher-multi-agent-workflow",
     "title": "\"Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design\"",
     "tags": [
@@ -1256,7 +1269,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Algorithmic BiasThis is a stub page for the concept of algorithmic bias. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics",
+    "content": "Algorithmic BiasThis is a stub page for the concept of algorithmic bias. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics\nfair-explainable-edu-recommendations",
     "url": "pages/algorithmic-bias.html"
   },
   {
@@ -1367,7 +1380,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Automated AssessmentThis is a stub page for the concept of automated assessment. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics",
+    "content": "Automated AssessmentThis is a stub page for the concept of automated assessment. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics\nhuman-vs-llm-ordered-coding",
     "url": "pages/automated-assessment.html"
   },
   {
@@ -1754,7 +1767,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Cognitive Load TheoryThis is a stub page for the concept of cognitive load theory. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Cognitive Load TheoryThis is a stub page for the concept of cognitive load theory. It was created to resolve broken backlinks from other wiki pages.Related Pagessame-ai-different-pathways",
     "url": "pages/cognitive-load-theory.html"
   },
   {
@@ -1898,7 +1911,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Computational ThinkingThis is a stub page for the concept of computational thinking. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review",
+    "content": "Computational ThinkingThis is a stub page for the concept of computational thinking. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review\nml-literacy-primary-education",
     "url": "pages/computational-thinking.html"
   },
   {
@@ -2018,6 +2031,19 @@
     ],
     "content": "The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI CollaborationKoyuturk, C., Guidotti, S., & Ognibene, D. (2026) \u2014 University of Milano-Bicocca. AIED 2026 LBR (Late-Breaking Results).\ud83d\udcc4 Full text (arXiv)Key Finding\nLLM sycophancy creates a feedback loop where user errors propagate into AI advice, degrading outcomes; AI literacy training reduces but doesn't eliminate this contextual sycophantic dependence.Synthesis\nThis AIED 2026 LBR paper identifies a pernicious fe",
     "url": "pages/contextual-sycophancy-ai-literacy.html"
+  },
+  {
+    "slug": "conversational-ai-informal-learning",
+    "title": "\"Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning\"",
+    "tags": [
+      "generative-ai",
+      "informal-learning",
+      "llm",
+      "lifelong-learning",
+      "student-experience"
+    ],
+    "content": "Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learningAuthors: Na\u0111a Terzimehi\u0107, Babette B\u00fchler, Enkelejda Kasneci\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsLarge-scale survey of 776 German participants. 87% already use LLMs in everyday learning routines. Young adults lead adoption. Four learner types identified based on task patterns and device usage. Paradoxical trust behaviors: users rely on L",
+    "url": "pages/conversational-ai-informal-learning.html"
   },
   {
     "slug": "conversational-ai-tutors-framework",
@@ -3105,7 +3131,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Educational NlpThis is a stub page for the concept of educational nlp. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Educational NlpThis is a stub page for the concept of educational nlp. It was created to resolve broken backlinks from other wiki pages.Related Pageshuman-vs-llm-ordered-coding",
     "url": "pages/educational-nlp.html"
   },
   {
@@ -3185,7 +3211,7 @@
     "slug": "efficacy-study",
     "title": "Efficacy Study",
     "tags": [],
-    "content": "Efficacy StudyStub page \u2014 full synthesis pending.Related Pages\nanvil-ai-educational-animations\nllm-intervention-design-cs-review\nai-vocational-education-training-review",
+    "content": "Efficacy StudyStub page \u2014 full synthesis pending.Related Pages\nanvil-ai-educational-animations\nllm-intervention-design-cs-review\nai-vocational-education-training-review\nquest-ai-inquiry-preservice-teachers",
     "url": "pages/efficacy-study.html"
   },
   {
@@ -3422,6 +3448,19 @@
     "tags": [],
     "content": "Faculty DevelopmentStub page \u2014 full synthesis pending.Related Pages\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nllm-sentiment-analysis-education-research \u2014 1 of 8 papers in May 28 scan\npersistent-ai-agents-academic-research \u2014 how persistent AI agents reshape individual academic work\nai-changing-teaching-workflows\ngenai-architecture-education\nai-pedagogical-accompaniment-amico\nai-lifelong-learning-policy\nanvil-ai-educational-animationscommunity-centered-ai-education-adults \u2014",
     "url": "pages/faculty-development.html"
+  },
+  {
+    "slug": "fair-explainable-edu-recommendations",
+    "title": "\"Fair and explainable educational recommendations with a hybrid Graph-GRU framework\"",
+    "tags": [
+      "personalized-learning",
+      "learning-analytics",
+      "algorithmic-bias",
+      "bias-mitigation",
+      "xai-education-framework"
+    ],
+    "content": "Fair and explainable educational recommendations with a hybrid Graph-GRU frameworkAuthors: Edmund Evangelista, Syed M. Salman Bukhari\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsHybrid HKG-GRU framework for educational recommendations combining heterogeneous graph embeddings with sequential modeling (152 students, 59 resources, ~150K interactions). Multi-objective training with GroupDRO for fairness, MMR reranking for diversity, and built-in explainability th",
+    "url": "pages/fair-explainable-edu-recommendations.html"
   },
   {
     "slug": "favero-critical-ai-tutors-empower-enslave-2025",
@@ -4126,6 +4165,18 @@
     "url": "pages/human-ai-collaboration-prerequisite-functions.html"
   },
   {
+    "slug": "human-ai-collaboration-trust-expectations",
+    "title": "\"Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust\"",
+    "tags": [
+      "human-ai-collaboration",
+      "generative-ai",
+      "higher-ed",
+      "student-experience"
+    ],
+    "content": "Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrustAuthors: Liana Razmerita, Xiaojiang Zheng, Jonathan P. Allen\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsSurvey of 245 higher ed students using Expectation Confirmation Theory (ECT). Found positive relationships between effort expectation and performance expectation, with confirmation of GenAI collaboration significantly influencing intentions. GenAI distru",
+    "url": "pages/human-ai-collaboration-trust-expectations.html"
+  },
+  {
     "slug": "human-ai-collaboration",
     "title": "\"Human Ai Collaboration\"",
     "tags": [
@@ -4152,6 +4203,19 @@
     "tags": [],
     "content": "Human In The LoopStub page \u2014 full synthesis pending.Related Pagesllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration",
     "url": "pages/human-in-the-loop.html"
+  },
+  {
+    "slug": "human-vs-llm-ordered-coding",
+    "title": "\"Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis\"",
+    "tags": [
+      "llm",
+      "learning-analytics",
+      "automated-assessment",
+      "educational-nlp",
+      "ground-truth-reliability-aied"
+    ],
+    "content": "Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysisAuthors: Kamila Misiejuk, Sonsoles L\u00f3pez-Pernas, Eduardo Araujo Oliveira, Brendan Eagan, Mohammed Saqr\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsCritical methodological paper on using LLMs for automated qualitative coding of ordered data (where code order matters). Presents two evaluation approaches for ordered coding quality. Demonstrates sys",
+    "url": "pages/human-vs-llm-ordered-coding.html"
   },
   {
     "slug": "humanlike-ai-collaborative-writing",
@@ -4666,7 +4730,7 @@
       "personalized-learning",
       "professional-training"
     ],
-    "content": "Lifelong Learning and AI> Stub \u2014 pending source ingestion. Lifelong learning and AI support for continuous education beyond formal schooling.ConnectionsRelated Pages\nai-lifelong-learning-policycommunity-centered-ai-education-adults \u2014 Community AI Education for Adults",
+    "content": "Lifelong Learning and AI> Stub \u2014 pending source ingestion. Lifelong learning and AI support for continuous education beyond formal schooling.ConnectionsRelated Pages\nai-lifelong-learning-policycommunity-centered-ai-education-adults \u2014 Community AI Education for Adults\nconversational-ai-informal-learning",
     "url": "pages/lifelong-learning.html"
   },
   {
@@ -4858,7 +4922,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Llm In EducationThis is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.Related Pagesagentic-ai-education-scoping-review \u2014 Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gapllm-intervention-design-cs-review\nvetting-dual-llm-safety-education",
+    "content": "Llm In EducationThis is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.Related Pagesagentic-ai-education-scoping-review \u2014 Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gapllm-intervention-design-cs-review\nvetting-dual-llm-safety-education\nconversational-ai-informal-learning\nhuman-vs-llm-ordered-coding\nllm-unlearning-math-privacy",
     "url": "pages/llm-in-education.html"
   },
   {
@@ -5064,6 +5128,19 @@
     "url": "pages/llm-tutoring-feedback-diagnosis-gap.html"
   },
   {
+    "slug": "llm-unlearning-math-privacy",
+    "title": "\"Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education\"",
+    "tags": [
+      "llm",
+      "privacy",
+      "k-12",
+      "pedagogical-safety",
+      "intelligent-tutoring"
+    ],
+    "content": "Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics educationAuthors: Chenglu Li, G\u00f6khan G\u00fclfidan, Yinqi Zhang-Kopf\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsApplied gradient-based LLM unlearning to 3 models pre-trained on ~3M Algebra I tutoring data points. Unlearned PII and harmful content while maintaining math task utility. PII output rate and harmfulness substantially decreased post-unlearn",
+    "url": "pages/llm-unlearning-math-privacy.html"
+  },
+  {
     "slug": "llm",
     "title": "Llm",
     "tags": [],
@@ -5253,6 +5330,18 @@
     ],
     "content": "Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective LearningMohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman \u2014 submitted 1 Jul 2026\n\ud83d\udcc4 Full text (arXiv)User study with 24 participants comparing classroom instruction, mixed-reality apps, and physical toolkits for Engineering Mechanics reveals multimodal learning improves engagement but complex visualizations remain challenging.Key Contribu",
     "url": "pages/mixed-reality-engineering-learning.html"
+  },
+  {
+    "slug": "ml-literacy-primary-education",
+    "title": "\"Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design\"",
+    "tags": [
+      "ai-literacy",
+      "k-12",
+      "computational-thinking",
+      "instructional-design"
+    ],
+    "content": "Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course designAuthors: Siu Cheung Kong, Qiaoyi Wang\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsDesigned and validated a 6-8 hour course teaching ML concepts to 752 primary students. Used guided worksheets, hands-on robot interaction, and iterative refinement. Students comprehended supervised learning and reinforcement learning (KNN, ANN). Fostered reflective t",
+    "url": "pages/ml-literacy-primary-education.html"
   },
   {
     "slug": "mllm-scientific-visualization-literacy",
@@ -5602,7 +5691,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Pedagogical SafetyThis is a stub page for the concept of pedagogical safety. It was created to resolve broken backlinks from other wiki pages.Related Pagesvetting-dual-llm-safety-education",
+    "content": "Pedagogical SafetyThis is a stub page for the concept of pedagogical safety. It was created to resolve broken backlinks from other wiki pages.Related Pagesvetting-dual-llm-safety-education\nllm-unlearning-math-privacy",
     "url": "pages/pedagogical-safety.html"
   },
   {
@@ -5742,7 +5831,7 @@
       "equity",
       "regulation"
     ],
-    "content": "Privacy in Educational AIThis is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers.Related Pages\nchild-safety-genai \u2014 privacy in educationCitation\ncstutorbench-slm-tutors \u2014 Privacy/cost case for SLM tutors",
+    "content": "Privacy in Educational AIThis is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers.Related Pages\nchild-safety-genai \u2014 privacy in education\nllm-unlearning-math-privacyCitation\ncstutorbench-slm-tutors \u2014 Privacy/cost case for SLM tutors",
     "url": "pages/privacy.html"
   },
   {
@@ -5832,7 +5921,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review\nmultimodal-prompting-ai-literacy",
+    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review\nmultimodal-prompting-ai-literacy\nsame-ai-different-pathways",
     "url": "pages/prompt-engineering.html"
   },
   {
@@ -5911,6 +6000,19 @@
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2604.24807 \u00b7 localQuantum Education Intelligent Tutoring> Knowledge-graph-augmented ITS for quantum computing education, addressing instructor scarcity and concept counterintuitiveness.System ArchitectureFrom Prototype to Classroom (Elhaimeur & Chrisochoides, 2026) describes a tutoring system for quantum computing that bridges the gap between dense mathematical formalism and limited qualified instructors.Knowledge Graph Foundation\nStructure: Concept nodes with prerequisite r",
     "url": "pages/quantum-education-its.html"
+  },
+  {
+    "slug": "quest-ai-inquiry-preservice-teachers",
+    "title": "\"Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers\"",
+    "tags": [
+      "ai-literacy",
+      "teacher-professional-development",
+      "generative-ai",
+      "efficacy-study",
+      "higher-ed"
+    ],
+    "content": "Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachersAuthors: Dongyun Cao, Yuting Yan, Anyuan Xiong, David Wicks\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsQuasi-experimental study with 95 preservice teachers over 10 weeks. QUEST+AI model (Question, Understand, Engage, Solve, Teach) integrated with coached GenAI use. Experimental group showed higher overall AI literacy (largest ",
+    "url": "pages/quest-ai-inquiry-preservice-teachers.html"
   },
   {
     "slug": "rag",
@@ -6102,6 +6204,19 @@
     ],
     "content": "REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended GradingZhao et al. (2026) \u2014 Arizona State University. arXiv preprint.\ud83d\udcc4 Full text (arXiv)REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models advances the automated-grading frontier by solving a fundamental trust problem: even accurate AI graders are unusable if educators cannot verify their reasoning. Standard llm-based graders operate as black boxes, while earlier Concept Bottleneck Models (C",
     "url": "pages/rubric-aware-grading-rec-cbm.html"
+  },
+  {
+    "slug": "same-ai-different-pathways",
+    "title": "\"Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts\"",
+    "tags": [
+      "ai-literacy",
+      "generative-ai",
+      "higher-ed",
+      "prompt-engineering",
+      "cognitive-load-theory"
+    ],
+    "content": "Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contextsAuthors: Qinjie Shen\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsMixed-methods study of Design (n=221) and Business (n=222) students in Thailand. AI literacy predicted prompting proficiency and verification behavior (pRelated Pagesai-literacy\ngenerative-ai\nhigher-ed\nprompt-engineering\ncognitive-load-theory\ntrust-calibration",
+    "url": "pages/same-ai-different-pathways.html"
   },
   {
     "slug": "scaffolding",
@@ -6786,7 +6901,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Teacher Professional DevelopmentThis is a stub page for the concept of teacher professional development. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Teacher Professional DevelopmentThis is a stub page for the concept of teacher professional development. It was created to resolve broken backlinks from other wiki pages.Related Pagesquest-ai-inquiry-preservice-teachers\nai-tpack-preservice-math-teachers",
     "url": "pages/teacher-professional-development.html"
   },
   {

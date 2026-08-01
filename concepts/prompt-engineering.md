@@ -16,3 +16,4 @@ This is a stub page for the concept of prompt engineering. It was created to res
 
 - [[llm-intervention-design-cs-review]]
 - [[multimodal-prompting-ai-literacy]]
+- [[same-ai-different-pathways]]

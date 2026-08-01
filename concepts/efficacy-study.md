@@ -16,3 +16,4 @@ confidence: low
 - [[anvil-ai-educational-animations]]
 - [[llm-intervention-design-cs-review]]
 - [[ai-vocational-education-training-review]]
+- [[quest-ai-inquiry-preservice-teachers]]

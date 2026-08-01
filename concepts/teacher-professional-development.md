@@ -14,3 +14,5 @@ This is a stub page for the concept of teacher professional development. It was 
 
 ## Related Pages
 
+- [[quest-ai-inquiry-preservice-teachers]]
+- [[ai-tpack-preservice-math-teachers]]
