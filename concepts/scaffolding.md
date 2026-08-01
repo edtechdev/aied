@@ -19,7 +19,7 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 - [[correct-answer-trap-ai-tutor]] — 8 of 8 papers in May 28 scan
 - [[student-misconceptions-conditionals-loops-taxonomy]] — misconception taxonomy as a basis for targeted instructional scaffolds
 - **[[ai-assistance-reduces-persistence]]**: Causal evidence (N=1,222) that brief AI assistance reduces persistence and impairs unassisted performance — rapid emergence of over-reliance effects
-  - [[llm-automated-assessment-student-self-explanations]] — LLM-based assessment of self-explanation quality as a scaffolding reinforcement mechanism (2026)
+- [[llm-automated-assessment-student-self-explanations]] — LLM-based assessment of self-explanation quality as a scaffolding reinforcement mechanism (2026)
 - [[xai-education-framework]]
 - [[ai-changing-teaching-workflows]]
 - [[teacher-student-agency-orchestration]]
@@ -33,15 +33,12 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 - [[computational-thinking-ai-agent-creation]] — Differentiated scaffolding based on Optimal Development Zone
 - [[eduagentbench-agent-teaching-benchmark]] — EduAgentBench evaluates adaptive scaffolding in multi-turn tutoring
 - [[institutional-change-framework-ai]] — Six-dimension framework for adapting institutional change models in STEM to generative AI
-
 - [[ai-agents-peer-learning-discourse]] — Six design hypotheses for educational AI from AI-agent discourse analysis
 - [[conversational-ai-tutors-framework]] — Conversational AI tutors enable dialogic scaffolding beyond fixed hints/feedback
 - [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach uses three-stage scaffolding: problem identification → diagnosis → strategy
 - [[multi-agent-llm-social-learning]] — Multi-agent LLM peers provide diverse scaffolding beyond single-tutor paradigm
 - [[moodle-ai-tutoring-deep-learning]] — Detects understanding depth and scaffolds toward conceptual mastery
-
 - [[retrieval-augmented-tutoring-algorithm-kite]] — KITE: intent-aware Socratic scaffolding with curriculum grounding- [[modular-educational-llm-agency]] — Modular agent architecture for responsible LLM-based learning assistance
-
 - [[awareness-technological-isomorphism]] — Three-stage pedagogical pathway for AI-integrated elementary math
 - [[regulating-ai-tutor-adolescent-srl]] — Scaffolds needed for more agentic adolescent GenAI use
 - [[vismatic-secure-sandbox-cs-education]] — VISMATIC scaffolds authentic programming practice through process monitoring
@@ -74,9 +71,6 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 - [[generative-refusal-ai-tools-for-thought]]
 - [[llm-intervention-design-cs-review]]
 - [[genai-mindtool-generative-learning]]
-
-## Related Pages
-- [[ai-coaching-rl-skill-development]] — RL-based coaching policy that dynamically fades scaffolding based on learner competence for motor skill development
 - [[ai-generated-slides-student-perception]] — Coding assistants as structured design scaffolds
 - [[genai-performance-vs-learning]] — Scaffolds must promote thinking, not bypass it
 - [[llm-children-reading-story-generation]] — Difficulty-controlled stories as reading scaffolds- [[genai-assessment-governance]] — Scaffold stance: bounded GenAI support for peripheral assessment demands
@@ -87,9 +81,6 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[five-stage-ai-literacy-continuum]]
 - [[ai-adoption-training-public-sector]]
-
-## Related Pages
-- [[ai-coaching-rl-skill-development]] — RL-based coaching policy that dynamically fades scaffolding based on learner competence for motor skill development
 - [[ai-literacy-continuum-higher-education]] — Liu & Levy (2026)
 - [[ai-generated-traces-novice-programmers]] — Noviello et al. (2026)
 - [[turtleai-visual-programming-benchmark]] — Wen et al. (2026)
