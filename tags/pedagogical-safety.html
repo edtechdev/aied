@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,51 +47,48 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/llm-unlearning-math-privacy.html">"Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education"</a></h3>
-            <div class="snippet">Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics educationAuthors: Chenglu Li, Gökhan Gülfidan, Yinqi Zhang-Kopf
-Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)Ke...</div>
+            <h3><a href="../pages/llm-unlearning-math-privacy.html">Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education</a></h3>
+            <div class="snippet">Authors: Chenglu Li, Gökhan Gülfidan, Yinqi Zhang-Kopf Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0) Key Findings Applied gradient-based LLM unlearning to 3 models pre-trained on ~3M Algebra I tutoring data points. Unlearned PII and harmful content while m...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="privacy.html">privacy</a><a href="k-12.html">k-12</a><a href="intelligent-tutoring.html">intelligent-tutoring</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/child-safety-genai.html">"Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework"</a></h3>
-            <div class="snippet">Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation FrameworkHaein Kong — HEAL Workshop at CHI 2026, submitted 1 Jul 2026
-📄 Full text (arXiv)Proposes an evaluation framework for child-specific harms in generative AI; appl...</div>
+            <h3><a href="../pages/child-safety-genai.html">Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework</a></h3>
+            <div class="snippet">Haein Kong — HEAL Workshop at CHI 2026, submitted 1 Jul 2026 📄 Full text (arXiv) Proposes an evaluation framework for child-specific harms in generative AI; applied to education domain, Llama Guard models struggle to detect unsafe user prompts from children. Key Contributions Pro...</div>
             <div class="tags"><a href="equity.html">equity</a><a href="generative-ai.html">generative-ai</a><a href="k-12.html">k-12</a><a href="privacy.html">privacy</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-pedagogical-accompaniment-amico.html">"Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China"</a></h3>
-            <div class="snippet">Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and ChinaPier Paolo Benedetti (2026) — (Independent/Doctoral Research). arXiv:2605.20665 [cs.HC] — Accepted at...</div>
+            <h3><a href="../pages/ai-pedagogical-accompaniment-amico.html">Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China</a></h3>
+            <div class="snippet">Pier Paolo Benedetti (2026) — (Independent/Doctoral Research). arXiv:2605.20665 [cs.HC] — Accepted at ICAIE 2026 📄 Full text (arXiv) Benedetti (2026) introduces a theoretically grounded framework for AI-enabled pedagogical accompaniment that explicitly centers human agency — an a...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="scaffolding.html">scaffolding</a><a href="human-in-the-loop.html">human-in-the-loop</a><a href="ai-literacy.html">ai-literacy</a><a href="student-experience.html">student-experience</a><a href="teacher-role.html">teacher-role</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/singh-eduqwen-pedagogical-rl-2026.html">"EduQwen: Pedagogical RL"</a></h3>
-            <div class="snippet">EduQwen: Pedagogical RLThis is a stub page for "EduQwen: Pedagogical RL". It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <h3><a href="../pages/singh-eduqwen-pedagogical-rl-2026.html">EduQwen: Pedagogical RL</a></h3>
+            <div class="snippet">This is a stub page for "EduQwen: Pedagogical RL". It was created to resolve broken backlinks from other wiki pages. Related Pages</div>
             <div class="tags"><a href="llm.html">llm</a><a href="reinforcement-learning.html">reinforcement-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/hazra-safetutors-pedagogical-safety-2026.html">"SafeTutors: Pedagogical Safety in AI Tutoring"</a></h3>
-            <div class="snippet">SafeTutors: Pedagogical Safety in AI TutoringThis is a stub page for "SafeTutors: Pedagogical Safety in AI Tutoring". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source...</div>
+            <h3><a href="../pages/hazra-safetutors-pedagogical-safety-2026.html">SafeTutors: Pedagogical Safety in AI Tutoring</a></h3>
+            <div class="snippet">This is a stub page for "SafeTutors: Pedagogical Safety in AI Tutoring". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed. Related Pages</div>
             <div class="tags"><a href="ai-tutor-safety-harms.html">ai-tutor-safety-harms</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/vetting-dual-llm-safety-education.html">"VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI"</a></h3>
-            <div class="snippet">VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AIAuthors: Hongming Li, Shan Zhang, Anthony F. Botelho
-Source: Computers and Education: Artificial Intelligence, Vol 11, 100646 — Open Access (CC BY 4.0...</div>
+            <h3><a href="../pages/vetting-dual-llm-safety-education.html">VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI</a></h3>
+            <div class="snippet">Authors: Hongming Li, Shan Zhang, Anthony F. Botelho Source: Computers and Education: Artificial Intelligence, Vol 11, 100646 — Open Access (CC BY 4.0) Key Findings Proposes VETTING — a dual-LLM architecture where a generator LLM produces responses and a separate verifier LLM che...</div>
             <div class="tags"><a href="ai-tutor-safety-harms.html">ai-tutor-safety-harms</a><a href="k-12.html">k-12</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/multi-agent-instructional-design.html">Multi-Agent Systems for Instructional Design</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2508.16659 · localMulti-Agent Systems for Instructional Design> Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators.The Promptin...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2508.16659 · local Multi-Agent Systems for Instructional Design > Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators. The Prompting Gap in K-12 Education Wan...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="agentic-workflows.html">agentic-workflows</a><a href="ai-literacy.html">ai-literacy</a><a href="human-in-the-loop.html">human-in-the-loop</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/neural-symbolic-knowledge-tracing.html">Neural-Symbolic Knowledge Tracing</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.08263 · localNeural-Symbolic Knowledge Tracing> Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems.The Pr...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.08263 · local Neural-Symbolic Knowledge Tracing > Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems. The Problem with Pure Neural Appr...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="learning-analytics.html">learning-analytics</a><a href="adaptive-learning.html">adaptive-learning</a><a href="mastery-learning.html">mastery-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/pedagogical-safety-rl.html">Pedagogical Safety in Educational Reinforcement Learning</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.04237 · localPedagogical Safety in Educational Reinforcement Learning> First formal framework for defining and detecting pedagogical safety violations in RL-based AI tutoring systems.The Problem: Reward Hacking in Educationa...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.04237 · local Pedagogical Safety in Educational Reinforcement Learning > First formal framework for defining and detecting pedagogical safety violations in RL-based AI tutoring systems. The Problem: Reward Hacking in Educational RL Olukola & Rahimi (2026...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="adaptive-learning.html">adaptive-learning</a><a href="reinforcement-learning.html">reinforcement-learning</a><a href="ai-tutor-safety-harms.html">ai-tutor-safety-harms</a></div>
         </div>
 

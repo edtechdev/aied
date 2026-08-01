@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,152 +47,143 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/institutional-change-framework-ai.html">"A Framework for Institutional Change in the Age of AI"</a></h3>
-            <div class="snippet">Institutional Change Framework for AICore ContributionPerl-Nussbaum & Finkelstein (2026) propose a six-dimension framework for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based...</div>
+            <h3><a href="../pages/institutional-change-framework-ai.html">A Framework for Institutional Change in the Age of AI</a></h3>
+            <div class="snippet">Institutional Change Framework for AI Core Contribution Perl-Nussbaum & Finkelstein (2026) propose a six-dimension framework for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based on adoption technologies (s...</div>
             <div class="tags"><a href="change-management.html">change-management</a><a href="faculty-development.html">faculty-development</a><a href="higher-ed.html">higher-ed</a><a href="institutional-change.html">institutional-change</a><a href="pedagogy.html">pedagogy</a><a href="stem-education.html">stem-education</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-team-teaching-talk-analytics.html">"AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design"</a></h3>
-            <div class="snippet">AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning DesignYuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, Sadia Nawaz — AIED 2026 — cs.HC, cs.AI
-📄 Full t...</div>
+            <h3><a href="../pages/ai-team-teaching-talk-analytics.html">AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design</a></h3>
+            <div class="snippet">Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, Sadia Nawaz — AIED 2026 — cs.HC, cs.AI 📄 Full text (arXiv) This paper presents an AI-based speech processing approach to analyze classroom talk in team-teaching settings, grounded in spati...</div>
             <div class="tags"><a href="active-learning.html">active-learning</a><a href="higher-ed.html">higher-ed</a><a href="learning-analytics.html">learning-analytics</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/cost-of-ethics-crisis-cs-ethics-education.html">"Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States"</a></h3>
-            <div class="snippet">Cost-of-Ethics Crisis in CS EducationMohamed Abdalla, Sahar Abdalla, Alicia Cappello et al. (2026) — Study of 129 CS students/recent grads in Canada and US.📄 Full text (arXiv)Key FindingsThis study examines the disconnect between ethics education and...</div>
+            <h3><a href="../pages/cost-of-ethics-crisis-cs-ethics-education.html">Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States</a></h3>
+            <div class="snippet">Cost-of-Ethics Crisis in CS Education Mohamed Abdalla, Sahar Abdalla, Alicia Cappello et al. (2026) — Study of 129 CS students/recent grads in Canada and US. 📄 Full text (arXiv) Key Findings This study examines the disconnect between ethics education and real-world decision-makin...</div>
             <div class="tags"><a href="cs-education.html">cs-education</a><a href="ethics.html">ethics</a><a href="regulation.html">regulation</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/dot-framework-survey.html">"DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education"</a></h3>
-            <div class="snippet">DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced EducationA 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the DOT Fr...</div>
+            <h3><a href="../pages/dot-framework-survey.html">DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education</a></h3>
+            <div class="snippet">A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the DOT Framework — a synthesis of design-thinking-in-education and open-systems-theory . Core Findings Three-Factor Beli...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="design-thinking.html">design-thinking</a><a href="dot-framework.html">dot-framework</a><a href="higher-ed.html">higher-ed</a><a href="human-in-the-loop.html">human-in-the-loop</a><a href="institutional-change.html">institutional-change</a><a href="open-source.html">open-source</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/daily-digest-2026-06-18.html">"Daily AIED Digest -- 2026-06-18"</a></h3>
-            <div class="snippet">Daily AIED Digest -- 2026-06-18Focus: AI-in-Education research scan from arXiv cs.CY and cs.HC.New Papers IngestedThrough the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics -- Revisits WordStream (2009) as a qua...</div>
+            <h3><a href="../pages/daily-digest-2026-06-18.html">Daily AIED Digest -- 2026-06-18</a></h3>
+            <div class="snippet">Focus: AI-in-Education research scan from arXiv cs.CY and cs.HC. New Papers Ingested Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics -- Revisits WordStream (2009) as a quantitative encoding for qualitative learning analytics; demo...</div>
             <div class="tags"><a href="daily-digest.html">daily-digest</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/daily-digest-2026-06-19.html">"Daily AIED Digest -- 2026-06-19"</a></h3>
-            <div class="snippet">Daily AIED Digest -- 2026-06-19Papers ingested: 4 | Wiki total: 355 pagesNew Paperscode-anchor-multi-view-visualization -- Students spent ~47% of gaze time on code despite visual scaffolds; agency, representational fit, and legitimacy shape engagemen...</div>
+            <h3><a href="../pages/daily-digest-2026-06-19.html">Daily AIED Digest -- 2026-06-19</a></h3>
+            <div class="snippet">Papers ingested: 4 | Wiki total: 355 pages New Papers code-anchor-multi-view-visualization -- Students spent ~47% of gaze time on code despite visual scaffolds; agency, representational fit, and legitimacy shape engagement with multi-representational tools. - Code as Anchor, Memo...</div>
             <div class="tags"><a href="daily-digest.html">daily-digest</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/daily-digest-2026-06-22.html">"Daily AIED Digest -- 2026-06-22"</a></h3>
-            <div class="snippet">Daily AIED Digest -- 2026-06-22Papers ingested: 0 | Wiki total: 355 pagesNo new AIED papers found today. The scan window (2026-06-19 to 2026-06-22) fell over a weekend — no arXiv submissions were published on Saturday or Sunday. Monday's batch had no...</div>
+            <h3><a href="../pages/daily-digest-2026-06-22.html">Daily AIED Digest -- 2026-06-22</a></h3>
+            <div class="snippet">Papers ingested: 0 | Wiki total: 355 pages No new AIED papers found today. The scan window (2026-06-19 to 2026-06-22) fell over a weekend — no arXiv submissions were published on Saturday or Sunday. Monday's batch had not yet appeared on arXiv at scan time. Source Status arXiv cs...</div>
             <div class="tags"><a href="daily-digest.html">daily-digest</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/daily-digest-2026-06-23.html">"Daily AIED Digest -- 2026-06-23"</a></h3>
-            <div class="snippet">Daily AIED Digest -- 2026-06-23Papers ingested: 13 | Wiki total: 377 pagesThe scan window (2026-06-23) captured a Tuesday batch on arXiv after no weekend submissions. 13 new AIED papers ingested from cs.CY and cs.HC.Source StatusarXiv cs.CY: ✓ 8 new...</div>
+            <h3><a href="../pages/daily-digest-2026-06-23.html">Daily AIED Digest -- 2026-06-23</a></h3>
+            <div class="snippet">Papers ingested: 13 | Wiki total: 377 pages The scan window (2026-06-23) captured a Tuesday batch on arXiv after no weekend submissions. 13 new AIED papers ingested from cs.CY and cs.HC. Source Status arXiv cs.CY: ✓ 8 new AIED papers (77 entries on Tue Jun 23) arXiv cs.HC: ✓ 5 ne...</div>
             <div class="tags"><a href="daily-digest.html">daily-digest</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/fair-explainable-edu-recommendations.html">"Fair and explainable educational recommendations with a hybrid Graph-GRU framework"</a></h3>
-            <div class="snippet">Fair and explainable educational recommendations with a hybrid Graph-GRU frameworkAuthors: Edmund Evangelista, Syed M. Salman Bukhari
-Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)Key FindingsHybrid HKG-GRU framework for educat...</div>
+            <h3><a href="../pages/fair-explainable-edu-recommendations.html">Fair and explainable educational recommendations with a hybrid Graph-GRU framework</a></h3>
+            <div class="snippet">Authors: Edmund Evangelista, Syed M. Salman Bukhari Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0) Key Findings Hybrid HKG-GRU framework for educational recommendations combining heterogeneous graph embeddings with sequential modeling (152 students, 59 reso...</div>
             <div class="tags"><a href="algorithmic-bias.html">algorithmic-bias</a><a href="bias-mitigation.html">bias-mitigation</a><a href="learning-analytics.html">learning-analytics</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-educational-simulation-adhd.html">"LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles"</a></h3>
-            <div class="snippet">LLM Educational Simulations for ADHD Student PersonasCore ContributionGonnermann-Müller, Haase & Leins (2026) evaluate whether LLM-generated student personas simulating ADHD profiles maintain stable and realistic behavioral patterns over time. This a...</div>
+            <h3><a href="../pages/llm-educational-simulation-adhd.html">LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles</a></h3>
+            <div class="snippet">LLM Educational Simulations for ADHD Student Personas Core Contribution Gonnermann-Müller, Haase & Leins (2026) evaluate whether LLM-generated student personas simulating ADHD profiles maintain stable and realistic behavioral patterns over time. This addresses a critical question...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="generative-ai.html">generative-ai</a><a href="benchmark.html">benchmark</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/self-referential-l2-writing-llm-assessment.html">"Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs"</a></h3>
-            <div class="snippet">Self-Referential L2 Writing Assessment with LLMsCore ContributionBannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from inter-learner ranking to intra-learner profiling. Instead of asking "how does this essay rank again...</div>
+            <h3><a href="../pages/self-referential-l2-writing-llm-assessment.html">Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs</a></h3>
+            <div class="snippet">Self-Referential L2 Writing Assessment with LLMs Core Contribution Bannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from inter-learner ranking to intra-learner profiling . Instead of asking "how does this essay rank against others?", their self-ref...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="writing-education.html">writing-education</a><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/adaptive-learning-systems.html">Adaptive Learning Systems</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.26962 · local · arXiv:2409.03512 · local · arXiv:2507.12484 · localAdaptive Learning SystemsSystems that dynamically adjust instructional content, difficulty, and feedback based on real-time learner models. The transition fr...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.26962 · local · arXiv:2409.03512 · local · arXiv:2507.12484 · local Adaptive Learning Systems Systems that dynamically adjust instructional content, difficulty, and feedback based on real-time learner models. The transition from static rule-based adaptat...</div>
             <div class="tags"><a href="adaptive-learning.html">adaptive-learning</a><a href="tutoring.html">tutoring</a><a href="personalized-learning.html">personalized-learning</a><a href="architecture.html">architecture</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/agentic-workflows-education.html">Agentic Workflows in Education</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2504.20082 · localAgentic Workflows in EducationA design framework for educational AI systems structured around four agentic paradigms: reflection, planning, tool use, and multi-agent collaboration. Proposed by Kamalov et al. (20...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2504.20082 · local Agentic Workflows in Education A design framework for educational AI systems structured around four agentic paradigms: reflection , planning , tool use , and multi-agent collaboration . Proposed by Kamalov et al. (2026) as a taxonomy for an...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="benchmark.html">benchmark</a><a href="tutoring.html">tutoring</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/authentic-assessment.html">Authentic Assessment</a></h3>
-            <div class="snippet">> 📄 Full text: Springer · localAuthentic Assessment> Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challeng...</div>
+            <div class="snippet">> 📄 Full text: Springer · local Authentic Assessment > Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which thr...</div>
             <div class="tags"><a href="ai-ed-evaluation.html">ai-ed-evaluation</a><a href="assessment.html">assessment</a><a href="formative-assessment.html">formative-assessment</a><a href="higher-ed.html">higher-ed</a><a href="metacognition.html">metacognition</a><a href="self-regulated-learning.html">self-regulated-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/edtech-platform.html">Edtech Platform</a></h3>
-            <div class="snippet">Edtech PlatformEducational technology platforms and their integration with AI capabilitiesConnectionsRelated Pages
-ai-tutor-authoring-promptdecipher — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactionstaklif-ai-inte...</div>
+            <div class="snippet">Educational technology platforms and their integration with AI capabilities Connections Related Pages ai-tutor-authoring-promptdecipher — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions taklif-ai-interest-based-personalized-assignments — Serv...</div>
             <div class="tags"><a href="edtech-platform.html">edtech-platform</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/educational-vlm-evaluation.html">Educational VLM Evaluation</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2603.00925 · localEducational VLM EvaluationBenchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to support learners — particularly struggling learners and those making errors. T...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2603.00925 · local Educational VLM Evaluation Benchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to support learners — particularly struggling learners and those making errors. Traditional AI benchmarks mea...</div>
             <div class="tags"><a href="assessment.html">assessment</a><a href="multimodal.html">multimodal</a><a href="benchmark.html">benchmark</a><a href="safety.html">safety</a><a href="stem-education.html">stem-education</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/faculty-development-genai.html">Faculty Development and GenAI</a></h3>
-            <div class="snippet">> 📄 Full text: Every Learner · local · Liverpool Repository · localFaculty Development and GenAI> Faculty professional learning around Generative AI is permanent, necessary, and structurally under-resourced. The Every Learner Everywhere / OLC playboo...</div>
+            <div class="snippet">> 📄 Full text: Every Learner · local · Liverpool Repository · local Faculty Development and GenAI > Faculty professional learning around Generative AI is permanent, necessary, and structurally under-resourced. The Every Learner Everywhere / OLC playbook documents a field in pragm...</div>
             <div class="tags"><a href="faculty-development.html">faculty-development</a><a href="higher-ed.html">higher-ed</a><a href="policy-maker.html">policy-maker</a><a href="ai-literacy.html">ai-literacy</a><a href="generative-ai.html">generative-ai</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/formative-assessment.html">Formative Assessment in AI Education</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2504.20082 · local · arXiv:2507.04295 · localFormative Assessment in AI EducationAssessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can genera...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2504.20082 · local · arXiv:2507.04295 · local Formative Assessment in AI Education Assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can generate, validate, and adapt form...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-ed-evaluation.html">ai-ed-evaluation</a><a href="assessment.html">assessment</a><a href="safety.html">safety</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/human-in-the-loop-ai.html">Human-in-the-Loop AI for Education</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2409.03512 · localHuman-in-the-Loop AI for EducationEducational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling pro...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2409.03512 · local Human-in-the-Loop AI for Education Educational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling production. Two recent implemen...</div>
             <div class="tags"><a href="human-in-the-loop.html">human-in-the-loop</a><a href="assessment.html">assessment</a><a href="safety.html">safety</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/intelligent-tutoring.html">Intelligent Tutoring</a></h3>
-            <div class="snippet">Intelligent TutoringIntelligent tutoring systems and AI-driven tutoring agents in educationConnectionsRelated Pages
-ai-coaching-rl-skill-development — Extension of ITS scaffolding principles to embodied AI coaching for motor skill development with RL...</div>
+            <div class="snippet">Intelligent tutoring systems and AI-driven tutoring agents in education Connections Related Pages ai-coaching-rl-skill-development — Extension of ITS scaffolding principles to embodied AI coaching for motor skill development with RL supplynet-visual-exploratory-learning — LLM mul...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/language-learning.html">Language Learning</a></h3>
-            <div class="snippet">Language LearningAI-supported language learning and second language acquisition technologiesConnectionsRelated Pagesself-referential-l2-writing-llm-assessment — L2 writing evaluation with profile-based intra-learner assessment
-tutors-gig-economy-auto...</div>
+            <div class="snippet">AI-supported language learning and second language acquisition technologies Connections Related Pages self-referential-l2-writing-llm-assessment — L2 writing evaluation with profile-based intra-learner assessment tutors-gig-economy-automated-feedback -- Tutors perceived AI feedba...</div>
             <div class="tags"></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/multimodal-learning-genai.html">Multimodal Learning with Generative AI</a></h3>
-            <div class="snippet">> 📄 Full text: Liverpool Repository · localMultimodal Learning with Generative AI> A comprehensive educator's guide to integrating Generative AI into multimodal teaching, learning, and assessment across higher education. Built on Kress's social semio...</div>
+            <div class="snippet">> 📄 Full text: Liverpool Repository · local Multimodal Learning with Generative AI > A comprehensive educator's guide to integrating Generative AI into multimodal teaching, learning, and assessment across higher education. Built on Kress's social semiotic theory of multimodality,...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="generative-ai.html">generative-ai</a><a href="multimodal.html">multimodal</a><a href="active-learning.html">active-learning</a><a href="scaffolding.html">scaffolding</a><a href="feedback-loop.html">feedback-loop</a><a href="assessment.html">assessment</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/personalized-learning.html">Personalized Learning</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.26962 · local · arXiv:2409.03512 · local · arXiv:2604.13074 · localPersonalized LearningTailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective s...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.26962 · local · arXiv:2409.03512 · local · arXiv:2604.13074 · local Personalized Learning Tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective states. AI enables personaliz...</div>
             <div class="tags"><a href="personalized-learning.html">personalized-learning</a><a href="tutoring.html">tutoring</a><a href="adaptive-learning.html">adaptive-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/principled-ai-education.html">Principled AI in Education</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2510.01467 · local — updated to v2 (revised 2026-07-24)Principled AI in Education> Rejecting the binary promise-vs-peril discourse and the rush to immediate implementation, Finkelstein (2025) proposes a principled framework ancho...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2510.01467 · local — updated to v2 (revised 2026-07-24) Principled AI in Education > Rejecting the binary promise-vs-peril discourse and the rush to immediate implementation, Finkelstein (2025) proposes a principled framework anchored in three questions: What...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="pedagogy.html">pedagogy</a><a href="scaffolding.html">scaffolding</a><a href="policy-maker.html">policy-maker</a><a href="active-learning.html">active-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/scaffolding.html">Scaffolding</a></h3>
-            <div class="snippet">ScaffoldingInstructional scaffolding techniques and their implementation in AI-enhanced learning environmentsConnectionsRelated Pages
-ai-coaching-rl-skill-development — RL-based coaching policy that dynamically fades scaffolding based on learner comp...</div>
+            <div class="snippet">Instructional scaffolding techniques and their implementation in AI-enhanced learning environments Connections Related Pages ai-coaching-rl-skill-development — RL-based coaching policy that dynamically fades scaffolding based on learner competence for motor skill development corr...</div>
             <div class="tags"><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/special-education.html">Special Education</a></h3>
-            <div class="snippet">Special EducationAI applications in special education and support for diverse learning needsConnectionsRelated Pagesgenai-minoritized-knowledges-disability — double marginalization of disabled learners in GenAI training and design
-neurodivergent-comp...</div>
+            <div class="snippet">AI applications in special education and support for diverse learning needs Connections Related Pages genai-minoritized-knowledges-disability — double marginalization of disabled learners in GenAI training and design neurodivergent-computing-students — Survey of autistic/ADHD com...</div>
             <div class="tags"></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/stem-education.html">Stem Education</a></h3>
-            <div class="snippet">Stem EducationAI applications in science, technology, engineering, and mathematics educationConnectionsRelated Pages
-  - generative-ai-reduced-study-time-math — Math problem study time decline linked to generative AI across all grade levels (2026)
-an...</div>
+            <div class="snippet">AI applications in science, technology, engineering, and mathematics education Connections Related Pages - generative-ai-reduced-study-time-math — Math problem study time decline linked to generative AI across all grade levels (2026) anvil-ai-educational-animations concept-cataly...</div>
             <div class="tags"><a href="stem-education.html">stem-education</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/pedagogical-llm-training.html">Training Pedagogical LLMs for Tutoring</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.06385 · local · arXiv:2506.18710 · local · arXiv:2506.17356 · local · arXiv:2602.10620 · localTraining Pedagogical LLMs for Tutoring> Domain-specialized optimization can transform a mid-sized open-source model (Qwen3-32B) in...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.06385 · local · arXiv:2506.18710 · local · arXiv:2506.17356 · local · arXiv:2602.10620 · local Training Pedagogical LLMs for Tutoring > Domain-specialized optimization can transform a mid-sized open-source model (Qwen3-32B) into a pedagogical domain expe...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="adaptive-learning.html">adaptive-learning</a><a href="benchmark.html">benchmark</a></div>
         </div>
 

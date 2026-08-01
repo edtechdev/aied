@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,324 +47,298 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/ai-lms-middle-school-longitudinal.html">"AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes"</a></h3>
-            <div class="snippet">AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning OutcomesMisan Paul Etchie, Taiwo Olutosin — cs.CY, cs.AI, cs.HC
-📄 Full text (arXiv)This paper proposes an AI-integrated LMS designed specifically for middle...</div>
+            <h3><a href="../pages/ai-lms-middle-school-longitudinal.html">AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes</a></h3>
+            <div class="snippet">Misan Paul Etchie, Taiwo Olutosin — cs.CY, cs.AI, cs.HC 📄 Full text (arXiv) This paper proposes an AI-integrated LMS designed specifically for middle school instruction, addressing the gap between current LMS platforms (which function as workflow tools) and the need for real-time...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="adaptive-learning.html">adaptive-learning</a><a href="personalized-learning.html">personalized-learning</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="edtech-platform.html">edtech-platform</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/aied-unfinished-mission-bypass.html">"AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass"</a></h3>
-            <div class="snippet">AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless BypassLane (2026) — AIED 2026, LNCS 3032 (Springer).📄 Full text (arXiv)The widespread availability of general-purpose AI that can perform complex cognitive tasks thre...</div>
+            <h3><a href="../pages/aied-unfinished-mission-bypass.html">AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass</a></h3>
+            <div class="snippet">Lane (2026) — AIED 2026, LNCS 3032 (Springer). 📄 Full text (arXiv) The widespread availability of general-purpose AI that can perform complex cognitive tasks threatens to undermine education at scale. This effortless bypass dilemma sharpens a challenge AIED has long engaged with...</div>
             <div class="tags"><a href="over-reliance.html">over-reliance</a><a href="student-experience.html">student-experience</a><a href="self-regulated-learning.html">self-regulated-learning</a><a href="metacognition.html">metacognition</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/aissa-slides-analysis.html">"AISSA: AI-based Student Slides Analysis Tool for Academic Presentations"</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2605.04729 · localAISSA: AI Slides Analysis ToolDefinition
-A web-based system that uses LLMs and Learning Analytics dashboards to provide automated, rubric-based feedback on student presentation slides. Developed by Becerra et al...</div>
+            <h3><a href="../pages/aissa-slides-analysis.html">AISSA: AI-based Student Slides Analysis Tool for Academic Presentations</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2605.04729 · local AISSA: AI Slides Analysis Tool Definition A web-based system that uses LLMs and Learning Analytics dashboards to provide automated, rubric-based feedback on student presentation slides. Developed by Becerra et al. (2026), AISSA addresses th...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="learning-analytics.html">learning-analytics</a><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-psychometric-calibration-cdp.html">"Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach"</a></h3>
-            <div class="snippet">Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling ApproachZhou et al. (2026) — arXiv preprint.📄 Full text (arXiv)Proposes Cognitive Diagnostic Profiling (CDP), a zero-shot framework that dramati...</div>
+            <h3><a href="../pages/llm-psychometric-calibration-cdp.html">Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach</a></h3>
+            <div class="snippet">Zhou et al. (2026) — arXiv preprint. 📄 Full text (arXiv) Proposes Cognitive Diagnostic Profiling (CDP), a zero-shot framework that dramatically improves LLM-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90,...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="adaptive-learning.html">adaptive-learning</a><a href="student-experience.html">student-experience</a><a href="benchmark.html">benchmark</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-generated-feedback-higher-ed.html">"Artificial intelligence and feedback in university education: effectiveness and student perceptions"</a></h3>
-            <div class="snippet">Artificial intelligence and feedback in university education: effectiveness and student perceptionsValentina Grion (Pegaso Telematic University), Beatrice Doria (Pegaso Telematic University), Daniele Agostini (University of Trento), Giorgia Slaviero...</div>
+            <h3><a href="../pages/ai-generated-feedback-higher-ed.html">Artificial intelligence and feedback in university education: effectiveness and student perceptions</a></h3>
+            <div class="snippet">Valentina Grion (Pegaso Telematic University), Beatrice Doria (Pegaso Telematic University), Daniele Agostini (University of Trento), Giorgia Slaviero (University of Padua) (2026) — Assessment & Evaluation in Higher Education (Taylor & Francis). Open Access, CC BY 4.0. doi:10.108...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="learning-gains.html">learning-gains</a><a href="ai-literacy.html">ai-literacy</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/automated-grading.html">"Automated Grading Systems"</a></h3>
-            <div class="snippet">Automated Grading Systems> Stub — pending source ingestion. AI-powered automated grading and assessment systems for educational contexts.ConnectionsRelated Pagesllm-cognitive-diagnosis-handwritten-math — MathCog benchmark: 18 LLMs evaluated on cognit...</div>
+            <h3><a href="../pages/automated-grading.html">Automated Grading Systems</a></h3>
+            <div class="snippet">> Stub — pending source ingestion. AI-powered automated grading and assessment systems for educational contexts. Connections Related Pages llm-cognitive-diagnosis-handwritten-math — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 co...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/correct-answer-trap-ai-tutor.html">"Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning"</a></h3>
-            <div class="snippet">Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student ReasoningImran et al. (2026) — University College London / Eedi. AIED 2026.📄 Full text (arXiv)Catching the Correct Answer Trap — accepted at AIED 2026 — expo...</div>
+            <h3><a href="../pages/correct-answer-trap-ai-tutor.html">Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning</a></h3>
+            <div class="snippet">Imran et al. (2026) — University College London / Eedi. AIED 2026 . 📄 Full text (arXiv) Catching the Correct Answer Trap — accepted at AIED 2026 — exposes a critical blind spot in intelligent-tutoring systems: they systematically fail to detect misconceptions when students arrive...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/cogtax-cognitive-taxonomy.html">"CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education"</a></h3>
-            <div class="snippet">CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing EducationManuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira — Universidade de Vigo, submitted 30 Jun 2026
-📄 Full te...</div>
+            <h3><a href="../pages/cogtax-cognitive-taxonomy.html">CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education</a></h3>
+            <div class="snippet">Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira — Universidade de Vigo, submitted 30 Jun 2026 📄 Full text (arXiv) Proposes CogTax, a four-level cognitive taxonomy for command-line computing education that inte...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="stem-education.html">stem-education</a><a href="scaffolding.html">scaffolding</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/cross-dataset-bloom-question-classification.html">"Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs"</a></h3>
-            <div class="snippet">Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMsAbdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, Gábor Kismihók (2026) — AIED 2026  
-📄 Full text (arXiv)Evaluates cross-dataset generaliza...</div>
+            <h3><a href="../pages/cross-dataset-bloom-question-classification.html">Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs</a></h3>
+            <div class="snippet">Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, Gábor Kismihók (2026) — AIED 2026 📄 Full text (arXiv) Evaluates cross-dataset generalization of ML/DL methods and LLMs for automatic Bloom's taxonomy classification of assessment questions across fiv...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/debugtracker-classroom-debugging.html">"DebugTracker: Lightweight Process Evidence for Classroom Debugging"</a></h3>
-            <div class="snippet">DebugTracker: Lightweight Process Evidence for Classroom DebuggingJiatong Liu et al. (2026) — The University of Hong Kong. arXiv.📄 Full text (arXiv)Debugging exercises are usually graded from final code and test outcomes, which hide how students repr...</div>
+            <h3><a href="../pages/debugtracker-classroom-debugging.html">DebugTracker: Lightweight Process Evidence for Classroom Debugging</a></h3>
+            <div class="snippet">Jiatong Liu et al. (2026) — The University of Hong Kong. arXiv. 📄 Full text (arXiv) Debugging exercises are usually graded from final code and test outcomes, which hide how students reproduced failures, formed hypotheses, inspected evidence, edited code, and verified fixes. The a...</div>
             <div class="tags"><a href="programming-its.html">programming-its</a><a href="learning-analytics.html">learning-analytics</a><a href="cs-education.html">cs-education</a><a href="higher-ed.html">higher-ed</a><a href="feedback-loop.html">feedback-loop</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations.html">"Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations"</a></h3>
-            <div class="snippet">Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable ExplanationsXiaozao Wang, Zhewei Wang, Hongyi Wen (2026)
-📄 Full text (arXiv)While llms now enable rapid generation of learning materials like ai-generated-content, evalu...</div>
+            <h3><a href="../pages/evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations.html">Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations</a></h3>
+            <div class="snippet">Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026) 📄 Full text (arXiv) While llm s now enable rapid generation of learning materials like ai-generated-content , evaluating the pedagogical quality of these materials remains an open challenge. This paper proposes an automated assessment...</div>
             <div class="tags"><a href="ai-generated-content.html">ai-generated-content</a><a href="learning-analytics.html">learning-analytics</a><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/foxglove-writing-feedback-experts-llms.html">"FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs"</a></h3>
-            <div class="snippet">FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMsLiu, Song, Gallagher, Sterman & August (2026) — University of Illinois Urbana-Champaign / Montana State University.
-📄 Full text (arXiv)Introduces FOXGLOVE, a dataset of 696 feedb...</div>
+            <h3><a href="../pages/foxglove-writing-feedback-experts-llms.html">FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs</a></h3>
+            <div class="snippet">Liu, Song, Gallagher, Sterman & August (2026) — University of Illinois Urbana-Champaign / Montana State University. 📄 Full text (arXiv) Introduces FOXGLOVE , a dataset of 696 feedback comments by trained writing instructors on 69 twelfth-grade argumentative essays, paired with 1,...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="writing-education.html">writing-education</a><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/from-answer-generators-to-reasoning-facilitators-ai-tutors.html">"From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments"</a></h3>
-            <div class="snippet">From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes EnvironmentsYuming Feng, Yuan Tian, Erica Zhao (2026)
-📄 Full text (arXiv)The rapid integration of llms into intelligent-tutoring threatens...</div>
+            <h3><a href="../pages/from-answer-generators-to-reasoning-facilitators-ai-tutors.html">From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments</a></h3>
+            <div class="snippet">Yuming Feng, Yuan Tian, Erica Zhao (2026) 📄 Full text (arXiv) The rapid integration of llm s into intelligent-tutoring threatens to reduce mathematical learning to mere answer generation. This paper presents a design framework for AI tutors that act as reasoning facilitators rath...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="scaffolding.html">scaffolding</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/cyberscholar-genai-writing-feedback.html">"Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar"</a></h3>
-            <div class="snippet">Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholarZheldibayeva, R., de Oliveira Nascimento, A. K., Castro, V., Cope, B., & Kalantzis, M. (2026) — University of Illinois Urbana-Champaign. arXiv preprint....</div>
+            <h3><a href="../pages/cyberscholar-genai-writing-feedback.html">Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar</a></h3>
+            <div class="snippet">Zheldibayeva, R., de Oliveira Nascimento, A. K., Castro, V., Cope, B., & Kalantzis, M. (2026) — University of Illinois Urbana-Champaign. arXiv preprint. 📄 Full text (arXiv) Key Finding RAG-based rubric-grounded GenAI writing feedback improved student revision quality (N=143, grad...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="writing-education.html">writing-education</a><a href="k-12.html">k-12</a><a href="feedback-loop.html">feedback-loop</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-changing-teaching-workflows.html">"How AI Is Changing Teaching Workflows"</a></h3>
-            <div class="snippet">How AI Is Changing Teaching WorkflowsLin Ler (2026) — Edtech Insiders. Part 2 of 7 in the AI & Efficacy Editorial Research Series, drawing from Stanford's AI Hub for Education Research Repository (SCALE Initiative).📄 Full articleCore ThesisAI saves t...</div>
+            <h3><a href="../pages/ai-changing-teaching-workflows.html">How AI Is Changing Teaching Workflows</a></h3>
+            <div class="snippet">Lin Ler (2026) — Edtech Insiders. Part 2 of 7 in the AI & Efficacy Editorial Research Series, drawing from Stanford's AI Hub for Education Research Repository (SCALE Initiative). 📄 Full article Core Thesis AI saves teachers roughly 30% of lesson preparation time with no measurabl...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="teacher-role.html">teacher-role</a><a href="faculty-development.html">faculty-development</a><a href="efficacy-study.html">efficacy-study</a><a href="RCT.html">RCT</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/hybrid-e-assessment-semi-automated-grading.html">"Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations"</a></h3>
-            <div class="snippet">Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written ExaminationsHartwig Grabowski, Michael Canz — cs.AI, cs.CV, cs.CY
-📄 Full text (arXiv)This paper identifies the didactic narrowing caused by fully digital e-assessm...</div>
+            <h3><a href="../pages/hybrid-e-assessment-semi-automated-grading.html">Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations</a></h3>
+            <div class="snippet">Hartwig Grabowski, Michael Canz — cs.AI, cs.CV, cs.CY 📄 Full text (arXiv) This paper identifies the didactic narrowing caused by fully digital e-assessment (overuse of closed question formats) and proposes a hybrid approach that retains paper-based, problem-oriented examination t...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="assessment.html">assessment</a><a href="higher-ed.html">higher-ed</a><a href="generative-ai.html">generative-ai</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-feedback-programming-classroom.html">"LLM-Generated Feedback in Introductory Programming: A Classroom Study"</a></h3>
-            <div class="snippet">LLM-Generated Feedback in Introductory Programming: A Classroom StudyHeickal & Lan (2026) — University of Massachusetts Amherst.
-📄 Full text (arXiv)Presents a large-scale classroom study (N=215 students, 6,693 submissions across 17 labs) deploying AI...</div>
+            <h3><a href="../pages/llm-feedback-programming-classroom.html">LLM-Generated Feedback in Introductory Programming: A Classroom Study</a></h3>
+            <div class="snippet">Heickal & Lan (2026) — University of Massachusetts Amherst. 📄 Full text (arXiv) Presents a large-scale classroom study (N=215 students, 6,693 submissions across 17 labs) deploying AI-generated feedback through a randomized protocol in an introductory Python programming course. St...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="feedback-loop.html">feedback-loop</a><a href="stem-education.html">stem-education</a><a href="higher-ed.html">higher-ed</a><a href="automated-grading.html">automated-grading</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-sentiment-analysis-education-research.html">"LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments"</a></h3>
-            <div class="snippet">LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignmentsGonzalez et al. (2026) — Virginia Tech / University of Texas at El Paso. arXiv prep...</div>
+            <h3><a href="../pages/llm-sentiment-analysis-education-research.html">LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments</a></h3>
+            <div class="snippet">Gonzalez et al. (2026) — Virginia Tech / University of Texas at El Paso. arXiv preprint . 📄 Full text (arXiv) LLM-Assisted Sentiment Analysis for Mixed-Methods Education Research demonstrates how LLMs can serve as scalable qualitative research assistants, enabling researchers to...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="edtech-platform.html">edtech-platform</a><a href="higher-ed.html">higher-ed</a><a href="learning-analytics.html">learning-analytics</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/learning-engagement-assistant-lea.html">"Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System"</a></h3>
-            <div class="snippet">Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring SystemTeri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026) — arXiv preprint (extension of ICAART 2026 conference paper). Ven...</div>
+            <h3><a href="../pages/learning-engagement-assistant-lea.html">Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System</a></h3>
+            <div class="snippet">Teri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026) — arXiv preprint (extension of ICAART 2026 conference paper). Venue: arXiv (categories: cs.CY, cs.AI, cs.HC). 📄 Full text (arXiv) LEA (Learning Engagement Assistant) is an agentic AI tutoring system that couples co...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="higher-ed.html">higher-ed</a><a href="stem-education.html">stem-education</a><a href="benchmark.html">benchmark</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/prober-ai-inquiry-writing.html">"Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing"</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2605.05598 · localProber.ai: Gated Inquiry Writing FeedbackDefinition
-A web-based writing environment that inverts the AI-tutoring paradigm: rather than generating improved text for students, Prober.ai constrains an LLM to ask on...</div>
+            <h3><a href="../pages/prober-ai-inquiry-writing.html">Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2605.05598 · local Prober.ai: Gated Inquiry Writing Feedback Definition A web-based writing environment that inverts the AI-tutoring paradigm: rather than generating improved text for students, Prober.ai constrains an LLM to ask only targeted inquiry-based qu...</div>
             <div class="tags"><a href="writing-education.html">writing-education</a><a href="scaffolding.html">scaffolding</a><a href="ai-literacy.html">ai-literacy</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/prompt-coach-agentic-tutor-prompt-engineering.html">"Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development"</a></h3>
-            <div class="snippet">Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software DevelopmentRohit Mehra et al. (2026) — IBM Research / International Institute of Information Technology. arXiv.📄 Full text (arXiv)Prompt engineering...</div>
+            <h3><a href="../pages/prompt-coach-agentic-tutor-prompt-engineering.html">Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development</a></h3>
+            <div class="snippet">Rohit Mehra et al. (2026) — IBM Research / International Institute of Information Technology. arXiv. 📄 Full text (arXiv) Prompt engineering is a critical yet undertaught skill for software developers, poorly served by traditional instruction because of its evolving, interactive,...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="cs-education.html">cs-education</a><a href="feedback-loop.html">feedback-loop</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="professional-training.html">professional-training</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/psyscore-essay-scoring-zpd-feedback.html">"PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback"</a></h3>
-            <div class="snippet">PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded FeedbackWei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng (2026). East China Normal University / arXiv cs.CL preprint
-📄 Full text (arXiv)OverviewP...</div>
+            <h3><a href="../pages/psyscore-essay-scoring-zpd-feedback.html">PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback</a></h3>
+            <div class="snippet">Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng (2026). East China Normal University / arXiv cs.CL preprint 📄 Full text (arXiv) Overview PsyScore integrates diagnostic assessment with instructional scaffolding through a shared latent ability representation. Three modules...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="feedback-loop.html">feedback-loop</a><a href="writing-education.html">writing-education</a><a href="scaffolding.html">scaffolding</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/short-answer-scoring-quality-degradation.html">"Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation"</a></h3>
-            <div class="snippet">Automated Short Answer Scoring: Mid-Range Quality DegradationCore ContributionSchleifer, Ariely & Klebanov (2026) investigate a critical gap in automated-grading: how scoring quality degrades for mid-range student responses. Most ASAS evaluations foc...</div>
+            <h3><a href="../pages/short-answer-scoring-quality-degradation.html">Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation</a></h3>
+            <div class="snippet">Automated Short Answer Scoring: Mid-Range Quality Degradation Core Contribution Schleifer, Ariely & Klebanov (2026) investigate a critical gap in automated-grading : how scoring quality degrades for mid-range student responses . Most ASAS evaluations focus on clearly correct or i...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a><a href="benchmark.html">benchmark</a><a href="efficacy-study.html">efficacy-study</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/rubric-aware-grading-rec-cbm.html">"REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading"</a></h3>
-            <div class="snippet">REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended GradingZhao et al. (2026) — Arizona State University. arXiv preprint.📄 Full text (arXiv)REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models advan...</div>
+            <h3><a href="../pages/rubric-aware-grading-rec-cbm.html">REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading</a></h3>
+            <div class="snippet">Zhao et al. (2026) — Arizona State University. arXiv preprint . 📄 Full text (arXiv) REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models advances the automated-grading frontier by solving a fundamental trust problem: even accurate AI graders are unusable if educators...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a><a href="scaffolding.html">scaffolding</a><a href="efficacy-study.html">efficacy-study</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/retrieval-augmented-tutoring-algorithm-kite.html">"Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education"</a></h3>
-            <div class="snippet">Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI EducationJain, Bhatt, Pitts, Pandya, Brusilovsky, Norouzi, Hellas, Leinonen & Akram (2026) — University of Pittsburgh, Aalto University, UC San Diego. Accepted to BEA 2026 (...</div>
+            <h3><a href="../pages/retrieval-augmented-tutoring-algorithm-kite.html">Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education</a></h3>
+            <div class="snippet">Jain, Bhatt, Pitts, Pandya, Brusilovsky, Norouzi, Hellas, Leinonen & Akram (2026) — University of Pittsburgh, Aalto University, UC San Diego. Accepted to BEA 2026 (co-located with ACL 2026). 📄 Full text (arXiv) Synthesis KITE (Knowledge-Informed Tutoring Engine) introduces a inte...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="scaffolding.html">scaffolding</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/teacher-authored-prompts-student-ai-dialogue.html">"Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation"</a></h3>
-            <div class="snippet">Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom ImplementationAlex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, Kevin He (2026) — arXiv.
-📄 Full text (arXiv)This large-scale K-12 deployment provides empirical...</div>
+            <h3><a href="../pages/teacher-authored-prompts-student-ai-dialogue.html">Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation</a></h3>
+            <div class="snippet">Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, Kevin He (2026) — arXiv. 📄 Full text (arXiv) This large-scale K-12 deployment provides empirical evidence that teacher-authored prompts can reliably shape the cognitive quality of student-AI dialogue at classroom sca...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="student-ai-interaction.html">student-ai-interaction</a><a href="teacher-role.html">teacher-role</a><a href="scaffolding.html">scaffolding</a><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/correct-answer-trap-misconceptions.html">"The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions"</a></h3>
-            <div class="snippet">The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden MisconceptionsMoiz Imran, Sahan Bulathwela (2026) — AIED PEAF 2026 Workshop
-📄 Full text (arXiv)Imran and Bulathwela (2026) identify the 'correct answer trap' — automate...</div>
+            <h3><a href="../pages/correct-answer-trap-misconceptions.html">The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions</a></h3>
+            <div class="snippet">Moiz Imran, Sahan Bulathwela (2026) — AIED PEAF 2026 Workshop 📄 Full text (arXiv) Imran and Bulathwela (2026) identify the 'correct answer trap' — automated feedback systems that judge only answer correctness reinforce rather than address misconceptions when students reach the ri...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="automated-grading.html">automated-grading</a><a href="k-12.html">k-12</a><a href="student-modeling.html">student-modeling</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-misconception-difficulty-easy-trap.html">"The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty"</a></h3>
-            <div class="snippet">The Easy Trap: Why LLMs Underestimate Misconception-Driven DifficultyHadi et al. (2026) — EDM 2026 (Educational Data Mining Conference).📄 Full text (arXiv)LLMs systematically underestimate the difficulty of misconception-driven items ('The Easy Trap'...</div>
+            <h3><a href="../pages/llm-misconception-difficulty-easy-trap.html">The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty</a></h3>
+            <div class="snippet">Hadi et al. (2026) — EDM 2026 (Educational Data Mining Conference). 📄 Full text (arXiv) LLMs systematically underestimate the difficulty of misconception-driven items ('The Easy Trap'). While LLM ratings show moderate rank correlation with empirical student difficulty (rho=0.52-0...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="adaptive-learning.html">adaptive-learning</a><a href="feedback-loop.html">feedback-loop</a><a href="student-experience.html">student-experience</a><a href="stem-education.html">stem-education</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/tutoring-effectiveness-index.html">"The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals"</a></h3>
-            <div class="snippet">The Tutoring Effectiveness Index (TEI)Authors: Shim Jaechang, Unggi Lee (2026) — CIKM 2026What It IsTEI is a training-free, judge-free index that selects the best tutoring response from multiple LLM candidate outputs using only four internal conversa...</div>
+            <h3><a href="../pages/tutoring-effectiveness-index.html">The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals</a></h3>
+            <div class="snippet">The Tutoring Effectiveness Index (TEI) Authors: Shim Jaechang, Unggi Lee (2026) — CIKM 2026 What It Is TEI is a training-free, judge-free index that selects the best tutoring response from multiple LLM candidate outputs using only four internal conversation signals — no RL traini...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="benchmark.html">benchmark</a><a href="efficacy-study.html">efficacy-study</a><a href="automated-grading.html">automated-grading</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/tibetcpr-ai-training-feedback.html">"TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions"</a></h3>
-            <div class="snippet">TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude RegionsYibo Meng, Ruiqi Chen, Zhiming Liu, Xiaolan Ding — Accepted at MobileHCI 2026 — cs.HC
-📄 Full text (arXiv)TibetCPR is a low-cost, self-guided CPR training system t...</div>
+            <h3><a href="../pages/tibetcpr-ai-training-feedback.html">TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions</a></h3>
+            <div class="snippet">Yibo Meng, Ruiqi Chen, Zhiming Liu, Xiaolan Ding — Accepted at MobileHCI 2026 — cs.HC 📄 Full text (arXiv) TibetCPR is a low-cost, self-guided CPR training system that pairs depth-driven electrotactile feedback with rhythm-driven visual cues within a Tibetan-language narrative, de...</div>
             <div class="tags"><a href="professional-training.html">professional-training</a><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="edtech-platform.html">edtech-platform</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/critical-engagement-code-completion.html">"To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks"</a></h3>
-            <div class="snippet">To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention ChecksHutchison, Applebaum, Angelikas, Patel et al. (2026) — cs.HC (ITiCSE 2026)
-📄 Full text (arXiv)Hutchison et al. (2026) develop...</div>
+            <h3><a href="../pages/critical-engagement-code-completion.html">To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks</a></h3>
+            <div class="snippet">Hutchison, Applebaum, Angelikas, Patel et al. (2026) — cs.HC (ITiCSE 2026) 📄 Full text (arXiv) Hutchison et al. (2026) develop and validate a method for measuring critical engagement with AI code completion tools in educational settings. Using behavioral signals (time-to-accept,...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="stem-education.html">stem-education</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/vismatic-secure-sandbox-cs-education.html">"VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring"</a></h3>
-            <div class="snippet">VISMATIC: Secure Containerized Framework for Process-Oriented CS Education MonitoringArroyo, López & Torres (2026) — Universidad de Granada.
-📄 Full text (arXiv)Addresses a critical tension in CS education: the widespread adoption of generative AI mak...</div>
+            <h3><a href="../pages/vismatic-secure-sandbox-cs-education.html">VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring</a></h3>
+            <div class="snippet">Arroyo, López & Torres (2026) — Universidad de Granada. 📄 Full text (arXiv) Addresses a critical tension in CS education : the widespread adoption of generative AI makes it impossible to distinguish authentic student effort from AI code synthesis by evaluating final submissions a...</div>
             <div class="tags"><a href="edtech-platform.html">edtech-platform</a><a href="academic-integrity.html">academic-integrity</a><a href="stem-education.html">stem-education</a><a href="higher-ed.html">higher-ed</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-student-misconception-identification.html">"What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics"</a></h3>
-            <div class="snippet">Using LLMs to Identify Student MisconceptionsParker & Zavala-Cerna (2026) — Published in Education and Information Technologies.📄 Full text (arXiv)SynthesisThis paper presents a systematic two-stage methodology for surfacing student misconceptions at...</div>
+            <h3><a href="../pages/llm-student-misconception-identification.html">What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics</a></h3>
+            <div class="snippet">Using LLMs to Identify Student Misconceptions Parker & Zavala-Cerna (2026) — Published in Education and Information Technologies . 📄 Full text (arXiv) Synthesis This paper presents a systematic two-stage methodology for surfacing student misconceptions at scale. Drawing on 3,802...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="learning-analytics.html">learning-analytics</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/vocabulary-difficulty-prediction.html">"What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction"</a></h3>
-            <div class="snippet">What Makes Words Hard? Vocabulary Difficulty Prediction at BEA 2026Nohejl, Wu, Ide, Riera Machin, Chang & Yanaka (2026) — BEA 2026.📄 Full text (arXiv)
-🔗 CodeOverviewThis paper presents two complementary approaches to predicting vocabulary difficulty...</div>
+            <h3><a href="../pages/vocabulary-difficulty-prediction.html">What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction</a></h3>
+            <div class="snippet">What Makes Words Hard? Vocabulary Difficulty Prediction at BEA 2026 Nohejl, Wu, Ide, Riera Machin, Chang & Yanaka (2026) — BEA 2026. 📄 Full text (arXiv) 🔗 Code Overview This paper presents two complementary approaches to predicting vocabulary difficulty for language learners, ach...</div>
             <div class="tags"><a href="language-learning.html">language-learning</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="benchmark.html">benchmark</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/buggy-genai-code-student-responses.html">"When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code"</a></h3>
-            <div class="snippet">When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI CodeVictor-Alexandru Padurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ahana Ghosh, Adish Singla (2026) — arXiv:2607.05068 [cs.SE, cs.CY]📄 Full text (arXiv)As generative AI be...</div>
+            <h3><a href="../pages/buggy-genai-code-student-responses.html">When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code</a></h3>
+            <div class="snippet">Victor-Alexandru Padurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ahana Ghosh, Adish Singla (2026) — arXiv:2607.05068 [cs.SE, cs.CY] 📄 Full text (arXiv) As generative AI becomes central to software development, CS education is shifting toward prompt-centered workflows...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="cs-education.html">cs-education</a><a href="over-reliance.html">over-reliance</a><a href="metacognition.html">metacognition</a><a href="higher-ed.html">higher-ed</a><a href="ai-literacy.html">ai-literacy</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/machines-misread-pedagogical-quality.html">"Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation"</a></h3>
-            <div class="snippet">Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question EvaluationPei-Yu Tseng, Mahir Akgun, Peng Liu (2026) — arXiv:2606.23629 (cs.HC)
-📄 Full text (arXiv)Tseng et al. (2026) investigate human-machine alignment...</div>
+            <h3><a href="../pages/machines-misread-pedagogical-quality.html">Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation</a></h3>
+            <div class="snippet">Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026) — arXiv:2606.23629 (cs.HC) 📄 Full text (arXiv) Tseng et al. (2026) investigate human-machine alignment in LLM-based pretest question evaluation — a critical bottleneck for scalable AI-assisted assessment. Their AI-assisted workflow combi...</div>
             <div class="tags"><a href="ai-ed-evaluation.html">ai-ed-evaluation</a><a href="llm.html">llm</a><a href="teacher-role.html">teacher-role</a><a href="assessment.html">assessment</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/teaching-feedback-classification-benchmark.html">A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol</a></h3>
-            <div class="snippet">A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification ProtocolEsteban U. Vega Barajas (2026) — arXiv preprint.📄 Full text (arXiv)Extends a prior validated protocol for classifying open-ended teaching-eval...</div>
+            <div class="snippet">Esteban U. Vega Barajas (2026) — arXiv preprint. 📄 Full text (arXiv) Extends a prior validated protocol for classifying open-ended teaching-evaluation feedback by thematic category and sentiment, introducing a durability and cross-language transfer benchmark. Institutions collect...</div>
             <div class="tags"><a href="feedback-loop.html">feedback-loop</a><a href="automated-grading.html">automated-grading</a><a href="teacher-role.html">teacher-role</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/ai-learning-transfer.html">AI Learning Transfer</a></h3>
-            <div class="snippet">> 📄 Full text: Stanford SCALE · localAI Learning Transfer> The central open question in AI education research: Do performance gains with AI tools persist when students must demonstrate understanding independently?^stanford-evidence-base-ai-k12-2026Th...</div>
+            <div class="snippet">> 📄 Full text: Stanford SCALE · local AI Learning Transfer > The central open question in AI education research: Do performance gains with AI tools persist when students must demonstrate understanding independently? ^ stanford-evidence-base-ai-k12-2026 The Transfer Paradox Studen...</div>
             <div class="tags"><a href="efficacy-study.html">efficacy-study</a><a href="llm.html">llm</a><a href="adaptive-learning.html">adaptive-learning</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/ai-peer-feedback-systems.html">AI Peer Feedback Systems</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2605.04740 · localAI Peer Feedback Systems> Student peer feedback is often superficial or inconsistent. AICoFe (AI-based Collaborative Feedback) uses a multi-LLM pipeline (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate di...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2605.04740 · local AI Peer Feedback Systems > Student peer feedback is often superficial or inconsistent. AICoFe (AI-based Collaborative Feedback) uses a multi-LLM pipeline (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate diverse perspectives on studen...</div>
             <div class="tags"><a href="edtech-platform.html">edtech-platform</a><a href="feedback-loop.html">feedback-loop</a><a href="teacher-role.html">teacher-role</a><a href="higher-ed.html">higher-ed</a><a href="learning-analytics.html">learning-analytics</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/civic-education-ai-lesson-plans.html">AI-Generated Lesson Plans in Civic Education</a></h3>
-            <div class="snippet">> 📄 Full text: CITE Journal · localAI-Generated Lesson Plans in Civic Education> Large-scale empirical evaluation of AI-generated civics lesson plans reveals that without teacher revision, AI tools overwhelmingly produce lower-order thinking activiti...</div>
+            <div class="snippet">> 📄 Full text: CITE Journal · local AI-Generated Lesson Plans in Civic Education > Large-scale empirical evaluation of AI-generated civics lesson plans reveals that without teacher revision, AI tools overwhelmingly produce lower-order thinking activities and monocultural content...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="ai-literacy.html">ai-literacy</a><a href="teacher-role.html">teacher-role</a><a href="equity.html">equity</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/sequenced-ai-feedback-learning.html">Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning</a></h3>
-            <div class="snippet">Sequenced AI Feedback on Student LearningCao, Zhao, Schunn, McLaughlin, Lin & Koedinger (2026) — UNC Chapel Hill, CMU, U Pittsburgh, U Hong Kong. Randomized experiment (n=199).📄 Full text (arXiv)Core FindingSequenced AI feedback harms learning despit...</div>
+            <div class="snippet">Sequenced AI Feedback on Student Learning Cao, Zhao, Schunn, McLaughlin, Lin & Koedinger (2026) — UNC Chapel Hill, CMU, U Pittsburgh, U Hong Kong. Randomized experiment (n=199). 📄 Full text (arXiv) Core Finding Sequenced AI feedback harms learning despite boosting engagement and...</div>
             <div class="tags"><a href="feedback-loop.html">feedback-loop</a><a href="scaffolding.html">scaffolding</a><a href="generative-ai.html">generative-ai</a><a href="efficacy-study.html">efficacy-study</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/assessment-team-problem-solving-computing-education.html">Assessment in Team Problem-Solving Exercises in Computing Education</a></h3>
-            <div class="snippet">Assessment in Team Problem-Solving Exercises in Computing Education
-Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026) — arXiv preprint. arXiv:2607.19209 [cs.CY].
-📄 Full text (arXiv)Tabletop exercises (TTXs) let learner tea...</div>
+            <div class="snippet">Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026) — arXiv preprint. arXiv:2607.19209 [cs.CY]. 📄 Full text (arXiv) Tabletop exercises (TTXs) let learner teams rehearse high-stakes workplace tasks such as cybersecurity incident response, but their open-e...</div>
             <div class="tags"><a href="feedback-loop.html">feedback-loop</a><a href="learning-analytics.html">learning-analytics</a><a href="stem-education.html">stem-education</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/authentic-assessment.html">Authentic Assessment</a></h3>
-            <div class="snippet">> 📄 Full text: Springer · localAuthentic Assessment> Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challeng...</div>
+            <div class="snippet">> 📄 Full text: Springer · local Authentic Assessment > Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which thr...</div>
             <div class="tags"><a href="ai-ed-evaluation.html">ai-ed-evaluation</a><a href="ai-education.html">ai-education</a><a href="assessment.html">assessment</a><a href="higher-ed.html">higher-ed</a><a href="metacognition.html">metacognition</a><a href="self-regulated-learning.html">self-regulated-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/automated-grading-linux-bash-examinations-large-language-models.html">Automated Grading of Linux/Bash Examinations Using Large Language Models</a></h3>
-            <div class="snippet">Automated Grading of Linux/Bash Examinations Using Large Language ModelsManuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira (2026)
-📄 Full text (arXiv)This paper presents an llm-based...</div>
+            <div class="snippet">Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira (2026) 📄 Full text (arXiv) This paper presents an llm -based grading system for Linux/bash command-line examinations, applying a four-level cognitive taxonomy to...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="automated-grading.html">automated-grading</a><a href="computing-education.html">computing-education</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/automatic-short-answer-grading.html">Automatic Short Answer Grading with LLMs</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2605.00200 · localAutomatic Short Answer Grading with LLMs> Zero-shot LLMs perform strongly on ASAG without task-specific fine-tuning, but model-based confidence signals alone are insufficient for reliable uncertainty quantificat...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2605.00200 · local Automatic Short Answer Grading with LLMs > Zero-shot LLMs perform strongly on ASAG without task-specific fine-tuning, but model-based confidence signals alone are insufficient for reliable uncertainty quantification. A hybrid framework comb...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="learning-analytics.html">learning-analytics</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/collaborative-ai-tutoring.html">Collaborative AI Tutoring</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2605.02703 · localCollaborative AI Tutoring> Most adaptive learning systems are individual-centric and reactive. ProPACT treats collaboration itself as the object of instruction, intervening before dyadic breakdowns occur by fore...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2605.02703 · local Collaborative AI Tutoring > Most adaptive learning systems are individual-centric and reactive. ProPACT treats collaboration itself as the object of instruction , intervening before dyadic breakdowns occur by forecasting suboptimal states u...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="adaptive-learning.html">adaptive-learning</a><a href="scaffolding.html">scaffolding</a><a href="higher-ed.html">higher-ed</a><a href="learning-analytics.html">learning-analytics</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/code-review-genai-cs1.html">Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom</a></h3>
-            <div class="snippet">Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped ClassroomPeter Fowles, Erik Falor, Sulove Bhattarai, John Edwards, Seth Poulsen (2026) — Utah State University. arXiv:2605.21374 [cs.HC]📄 Full text (arXiv)Oral code rev...</div>
+            <div class="snippet">Peter Fowles, Erik Falor, Sulove Bhattarai, John Edwards, Seth Poulsen (2026) — Utah State University. arXiv:2605.21374 [cs.HC] 📄 Full text (arXiv) Oral code reviews paired with a flipped classroom represent a pragmatic harm-reduction approach to generative AI in CS education. Ra...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="cs-education.html">cs-education</a><a href="over-reliance.html">over-reliance</a><a href="academic-integrity.html">academic-integrity</a><a href="student-experience.html">student-experience</a><a href="efficacy-study.html">efficacy-study</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/confidence-aware-student-drawing-assessment.html">Confidence-Aware Automated Assessment of Student-Drawn Scientific Models</a></h3>
-            <div class="snippet">Confidence-Aware Automated Assessment of Student-Drawn Scientific ModelsLuyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). arXiv cs.AI preprint
-📄 Full text (arXiv)OverviewVision Transformer (ViT) with LoRA adapta...</div>
+            <div class="snippet">Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). arXiv cs.AI preprint 📄 Full text (arXiv) Overview Vision Transformer (ViT) with LoRA adaptation for automated scoring of student-drawn scientific models on six NGSS-aligned middle school asse...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="stem-education.html">stem-education</a><a href="k-12.html">k-12</a><a href="efficacy-study.html">efficacy-study</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/adaptive-pretesting-retention.html">Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study</a></h3>
-            <div class="snippet">Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention StudyMahir Akgun, Sacip Toker (2026) — 27th International Conference on AI in Education
-📄 Full text (arXiv)Akgun and Toker (2026) examine whether learning gain...</div>
+            <div class="snippet">Mahir Akgun, Sacip Toker (2026) — 27th International Conference on AI in Education 📄 Full text (arXiv) Akgun and Toker (2026) examine whether learning gains from GenAI-enabled adaptive pretesting persist over a seven-week retention period. Undergraduate participants completed ada...</div>
             <div class="tags"><a href="RCT.html">RCT</a><a href="adaptive-learning.html">adaptive-learning</a><a href="learning-gains.html">learning-gains</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/skill-acquisition-without-temporal-info.html">Estimating Learners' Skill Acquisition Without Temporal Information</a></h3>
-            <div class="snippet">Estimating Learners' Skill Acquisition Without Temporal InformationRyosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, Hisashi Kashima (2026) — AIED 2026, Seoul
-📄 Full text (arXiv)Nagai et al. (2026) tackle the practical problem that many re...</div>
+            <div class="snippet">Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, Hisashi Kashima (2026) — AIED 2026, Seoul 📄 Full text (arXiv) Nagai et al. (2026) tackle the practical problem that many real-world educational datasets contain only single-time-point assessments (snapshots) without tem...</div>
             <div class="tags"><a href="student-modeling.html">student-modeling</a><a href="knowledge-tracing.html">knowledge-tracing</a><a href="adaptive-learning.html">adaptive-learning</a><a href="learning-analytics.html">learning-analytics</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/feedback-loop.html">Feedback Loop</a></h3>
-            <div class="snippet">Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub — awaiting further sources and content.Related Pages
-  - llm-automated-assessment-student-self-explanations — LLM-based binary classification of student...</div>
+            <div class="snippet">Role of feedback loops in AI-enhanced learning systems Connections This page is a stub — awaiting further sources and content. Related Pages - llm-automated-assessment-student-self-explanations — LLM-based binary classification of student self-explanations for automated feedback...</div>
             <div class="tags"><a href="feedback-loop.html">feedback-loop</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/llm-design-problems-hot-pjbl.html">LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning</a></h3>
-            <div class="snippet">LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based LearningAhmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026) — arXiv preprint.📄 Full text (arXiv)Introduces 'design problems' (DPs): concise, scenario-based prom...</div>
+            <div class="snippet">Ahmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026) — arXiv preprint. 📄 Full text (arXiv) Introduces 'design problems' (DPs): concise, scenario-based prompts that require applying knowledge in transfer contexts, generated with LLMs to assess higher-order thinking (HOT) in...</div>
             <div class="tags"><a href="project-based-learning.html">project-based-learning</a><a href="generative-ai.html">generative-ai</a><a href="stem-education.html">stem-education</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/metacognition.html">Metacognition</a></h3>
-            <div class="snippet">> 📄 Full text: Stanford SCALE · local · Springer · localMetacognition> Metacognition — thinking about one's own thinking — is both a target of AI education research (can AI tools develop students' metacognitive skills?) and a risk factor (AI completi...</div>
+            <div class="snippet">> 📄 Full text: Stanford SCALE · local · Springer · local Metacognition > Metacognition — thinking about one's own thinking — is both a target of AI education research (can AI tools develop students' metacognitive skills?) and a risk factor (AI completing tasks may suppress metaco...</div>
             <div class="tags"><a href="metacognition.html">metacognition</a><a href="self-regulated-learning.html">self-regulated-learning</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/programming-its.html">Programming Intelligent Tutoring Systems</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.16117 · localProgramming Intelligent Tutoring Systems> ITS for programming education with individualized hints, addressing the scarcity of human tutors for practice-intensive coding courses.SCRIPT: Python Programming TutorSC...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.16117 · local Programming Intelligent Tutoring Systems > ITS for programming education with individualized hints, addressing the scarcity of human tutors for practice-intensive coding courses. SCRIPT: Python Programming Tutor SCRIPT (Deriyeva, Dannath, P...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="stem-education.html">stem-education</a><a href="higher-ed.html">higher-ed</a><a href="adaptive-learning.html">adaptive-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/self-regulated-learning.html">Self-Regulated Learning</a></h3>
-            <div class="snippet">> 📄 Full text: Springer · local · Stanford SCALE · localSelf-Regulated Learning> Self-regulated learning (SRL) describes learners as active participants who can shape and develop their cognitive and behavioral actions in a successful way. AI tools ca...</div>
+            <div class="snippet">> 📄 Full text: Springer · local · Stanford SCALE · local Self-Regulated Learning > Self-regulated learning (SRL) describes learners as active participants who can shape and develop their cognitive and behavioral actions in a successful way. AI tools can either scaffold SRL develo...</div>
             <div class="tags"><a href="self-regulated-learning.html">self-regulated-learning</a><a href="metacognition.html">metacognition</a><a href="scaffolding.html">scaffolding</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/socratic-ai-dialogue.html">Socratic AI Dialogue</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2508.14778 · local · arXiv:2507.06878 · localSocratic AI Dialogue> Socratic dialogue — asking structured questions rather than providing answers — is one of the strongest pedagogical scaffolds for deep learning. When automated vi...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2508.14778 · local · arXiv:2507.06878 · local Socratic AI Dialogue > Socratic dialogue — asking structured questions rather than providing answers — is one of the strongest pedagogical scaffolds for deep learning. When automated via AI, it produces measurable...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="scaffolding.html">scaffolding</a><a href="active-learning.html">active-learning</a><a href="higher-ed.html">higher-ed</a><a href="stem-education.html">stem-education</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/repeated-ai-writing-feedback-semester.html">Student Evaluation of Repeated AI Feedback Across a Semester of Writing</a></h3>
-            <div class="snippet">Student Evaluation of Repeated AI Feedback Across a Semester of WritingKarjus, A., Leoste, J., & Oun, T. (2026) — arXiv:2607.16115 (cs.CY, cs.HC).
-📄 Full text (arXiv)This short paper provides rare descriptive classroom evidence on what happens when s...</div>
+            <div class="snippet">Karjus, A., Leoste, J., & Oun, T. (2026) — arXiv:2607.16115 (cs.CY, cs.HC). 📄 Full text (arXiv) This short paper provides rare descriptive classroom evidence on what happens when students repeatedly use generative-AI feedback across a full semester of writing coursework. Drawing...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a><a href="writing-education.html">writing-education</a><a href="feedback-loop.html">feedback-loop</a><a href="over-reliance.html">over-reliance</a><a href="ai-literacy.html">ai-literacy</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/teachbench-llm-teaching-evaluation.html">TeachBench - Evaluating LLM Teaching Ability</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2601.21375 · localTeachBench: Evaluating LLM Teaching Ability> Syllabus-grounded framework for measuring LLM teaching capability via student performance improvement after multi-turn instruction.The Gap in LLM EvaluationLi et al....</div>
+            <div class="snippet">> 📄 Full text: arXiv:2601.21375 · local TeachBench: Evaluating LLM Teaching Ability > Syllabus-grounded framework for measuring LLM teaching capability via student performance improvement after multi-turn instruction. The Gap in LLM Evaluation Li et al. (2026) address a critical...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="benchmark.html">benchmark</a><a href="personalized-learning.html">personalized-learning</a><a href="feedback-loop.html">feedback-loop</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/credential-cognitive-stewardship-ai-assessment.html">What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education</a></h3>
-            <div class="snippet">What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated EducationYao (2026) — Independent / university policy audit. arXiv preprint (cs.CY).📄 Full text (arXiv)Generative AI undermines a basic premise of educational assessment: t...</div>
+            <div class="snippet">Yao (2026) — Independent / university policy audit. arXiv preprint (cs.CY). 📄 Full text (arXiv) Generative AI undermines a basic premise of educational assessment: that submitted work reliably evidences the human capacities a credential certifies. This paper proposes cognitive st...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="policy-maker.html">policy-maker</a><a href="llm.html">llm</a></div>
         </div>
 

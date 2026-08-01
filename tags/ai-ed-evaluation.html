@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,34 +47,33 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/becerra-aicofe-feedback-2026.html">"AICoFE: AI-Powered Feedback System"</a></h3>
-            <div class="snippet">AICoFE: AI-Powered Feedback SystemThis is a stub page for "AICoFE: AI-Powered Feedback System". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed...</div>
+            <h3><a href="../pages/becerra-aicofe-feedback-2026.html">AICoFE: AI-Powered Feedback System</a></h3>
+            <div class="snippet">This is a stub page for "AICoFE: AI-Powered Feedback System". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed. Related Pages</div>
             <div class="tags"><a href="feedback-loop.html">feedback-loop</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/jeon-isd-agent-bench-2026.html">"ISD Agent Benchmark"</a></h3>
-            <div class="snippet">ISD Agent BenchmarkThis is a stub page for "ISD Agent Benchmark". It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <h3><a href="../pages/jeon-isd-agent-bench-2026.html">ISD Agent Benchmark</a></h3>
+            <div class="snippet">This is a stub page for "ISD Agent Benchmark". It was created to resolve broken backlinks from other wiki pages. Related Pages</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="benchmark.html">benchmark</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/RCT.html">"Randomized Controlled Trials in AI Education Research"</a></h3>
-            <div class="snippet">Randomized Controlled Trials in AI Education ResearchThis is a stub page for "Randomized Controlled Trials in AI Education Research". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the u...</div>
+            <h3><a href="../pages/RCT.html">Randomized Controlled Trials in AI Education Research</a></h3>
+            <div class="snippet">This is a stub page for "Randomized Controlled Trials in AI Education Research". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed. Related Pages</div>
             <div class="tags"><a href="RCT.html">RCT</a><a href="research-methods.html">research-methods</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/machines-misread-pedagogical-quality.html">"Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation"</a></h3>
-            <div class="snippet">Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question EvaluationPei-Yu Tseng, Mahir Akgun, Peng Liu (2026) — arXiv:2606.23629 (cs.HC)
-📄 Full text (arXiv)Tseng et al. (2026) investigate human-machine alignment...</div>
+            <h3><a href="../pages/machines-misread-pedagogical-quality.html">Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation</a></h3>
+            <div class="snippet">Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026) — arXiv:2606.23629 (cs.HC) 📄 Full text (arXiv) Tseng et al. (2026) investigate human-machine alignment in LLM-based pretest question evaluation — a critical bottleneck for scalable AI-assisted assessment. Their AI-assisted workflow combi...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="formative-assessment.html">formative-assessment</a><a href="teacher-role.html">teacher-role</a><a href="assessment.html">assessment</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/authentic-assessment.html">Authentic Assessment</a></h3>
-            <div class="snippet">> 📄 Full text: Springer · localAuthentic Assessment> Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challeng...</div>
+            <div class="snippet">> 📄 Full text: Springer · local Authentic Assessment > Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which thr...</div>
             <div class="tags"><a href="ai-education.html">ai-education</a><a href="assessment.html">assessment</a><a href="formative-assessment.html">formative-assessment</a><a href="higher-ed.html">higher-ed</a><a href="metacognition.html">metacognition</a><a href="self-regulated-learning.html">self-regulated-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/formative-assessment.html">Formative Assessment in AI Education</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2504.20082 · local · arXiv:2507.04295 · localFormative Assessment in AI EducationAssessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can genera...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2504.20082 · local · arXiv:2507.04295 · local Formative Assessment in AI Education Assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can generate, validate, and adapt form...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-education.html">ai-education</a><a href="assessment.html">assessment</a><a href="safety.html">safety</a></div>
         </div>
 
