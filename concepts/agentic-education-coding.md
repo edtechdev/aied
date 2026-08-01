@@ -3,7 +3,7 @@ title: Agentic Education with AI Coding Assistants
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [agentic-workflows, stem-education, higher-ed, generative-ai, scaffolding]
+tags: [agentic-ai, agentic-workflows, generative-ai, higher-ed, scaffolding, stem-education]
 sources: [raw/papers/2604.17460.md]
 confidence: medium
 ---

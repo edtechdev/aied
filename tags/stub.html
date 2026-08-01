@@ -3,31 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>stub — AI in Education Wiki</title>
+    <title>stub — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -36,178 +23,318 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 stub</h1>
-        <p>A growing collection of 53 articles, including Adaptive Prompt Routing, Affective Computing, Agentic Workflows, and 50 more.</p>
+        <h1>🏷️ stub</h1>
+        <p>53 article(s) tagged with <strong>stub</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (53)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/adaptive-prompt-routing.html">Adaptive Prompt Routing</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/affective-computing.html">Affective Computing</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/agentic-workflows.html">Agentic Workflows</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-co-intelligence.html">Ai Co Intelligence</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-ed-evaluation.html">Ai Ed Evaluation</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-ed-implementation.html">Ai Ed Implementation</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-education.html">Ai Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-governance-education.html">Ai Governance Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-literacy-in-higher-education.html">Ai Literacy In Higher Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/algorithmic-bias.html">Algorithmic Bias</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/automated-assessment.html">Automated Assessment</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/cognitive-load-theory.html">Cognitive Load Theory</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/computational-thinking.html">Computational Thinking</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/confidence-aware-ai-assessment.html">Confidence Aware Ai Assessment</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/constructivist.html">Constructivist</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/curriculum-design.html">Curriculum Design</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/curriculum-design-ai.html">Curriculum Design Ai</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/design-thinking-in-education.html">Design Thinking In Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/desirable-difficulties.html">Desirable Difficulties</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/educational-measurement.html">Educational Measurement</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/educational-nlp.html">Educational Nlp</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/educational-policy-ai.html">Educational Policy Ai</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ethics.html">Ethics</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ground-truth-reliability-aided.html">Ground Truth Reliability Aided</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/human-ai-collaboration.html">Human Ai Collaboration</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/inclusive-education.html">Inclusive Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/institutional-ai-readiness.html">Institutional Ai Readiness</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/item-response-theory.html">Item Response Theory</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-application-education.html">Llm Application Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-in-education.html">Llm In Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/mastery-learning.html">Mastery Learning</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/multi-representational-tools.html">Multi Representational Tools</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/nlp-education.html">Nlp Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/open-source.html">Open Source</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/open-systems-theory.html">Open Systems Theory</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/pedagogical-safety.html">Pedagogical Safety</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/posthumanist-ai-education.html">Posthumanist Ai Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/prompt-engineering.html">Prompt Engineering</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/prompt-engineering-education.html">Prompt Engineering Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/psychometrically-aware-ai.html">Psychometrically Aware Ai</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/rag.html">Rag</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/randomized-controlled-trials-education.html">Randomized Controlled Trials Education</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/rct.html">Rct</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/reinforcement-learning.html">Reinforcement Learning</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/retrieval-augmented-generation.html">Retrieval Augmented Generation</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/simulation-based-learning.html">Simulation Based Learning</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/socratic-ai.html">Socratic Ai</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/socratic-questioning.html">Socratic Questioning</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/spatial-reasoning.html">Spatial Reasoning</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/teacher-ai-collaboration.html">Teacher Ai Collaboration</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/teacher-professional-development.html">Teacher Professional Development</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/visualization.html">Visualization</a>
-            </div>
-            <div class="page-item">
-                <a href="../pages/zone-of-proximal-development.html">Zone Of Proximal Development</a>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/adaptive-prompt-routing.html">"Adaptive Prompt Routing"</a></h3>
+            <div class="snippet">Adaptive Prompt RoutingThis is a stub page for the concept of adaptive prompt routing. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/affective-computing.html">"Affective Computing"</a></h3>
+            <div class="snippet">Affective ComputingThis is a stub page for the concept of affective computing. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-learning-tools-engineering-education-needs — 206 engineering students: AI chatbots give gr...</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/agentic-workflows.html">"Agentic Workflows"</a></h3>
+            <div class="snippet">Agentic Workflows
+Automated stub.
+Related Pages
+tracing-genai-literacy-interaction-patterns
+guided-llm-scaffolding-independent-learning
+ase-26-agentic-software-engineering-curriculum
+five-stage-ai-literacy-continuum
+ai-adoption-training-public-sector</div>
+            <div class="tags"><a href="agentic-ai.html">agentic-ai</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-co-intelligence.html">"Ai Co Intelligence"</a></h3>
+            <div class="snippet">Ai Co IntelligenceStub page — created during ingestion of dot-framework-survey. Content pending.Related Pages
+dot-framework-survey</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-ed-evaluation.html">"Ai Ed Evaluation"</a></h3>
+            <div class="snippet">Ai Ed EvaluationStub page — created during ingestion of dot-framework-survey. Content pending.Related Pagesllm-cognitive-diagnosis-handwritten-math — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 
+dot...</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-ed-implementation.html">"Ai Ed Implementation"</a></h3>
+            <div class="snippet">Ai Ed ImplementationStub page — created during ingestion of dot-framework-survey. Content pending.Related Pages
+dot-framework-survey
+genai-policies-higher-ed-computing - translating GenAI policy into classroom practice</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-education.html">"Ai Education"</a></h3>
+            <div class="snippet">Ai EducationThis is a stub page for the concept of ai education. It was created to resolve broken backlinks from other wiki pages.Related Pagesgenai-runaway-object-math-higher-ed</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-governance-education.html">"Ai Governance Education"</a></h3>
+            <div class="snippet">Ai Governance EducationStub page — created during ingestion of dot-framework-survey. Content pending.Related Pages
+dot-framework-surveymetaphysics-learning-analytics — Norm-embedded LA and the is/ought problem in educational analytics- genai-policies...</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-literacy-in-higher-education.html">"Ai Literacy In Higher Education"</a></h3>
+            <div class="snippet">Ai Literacy In Higher EducationStub page — created during ingestion of dot-framework-survey. Content pending.Related Pages
+dot-framework-survey
+gender-differences-ai-literacy-deepfake -- Single-day AI literacy workshops partially narrow gender STEM g...</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/algorithmic-bias.html">"Algorithmic Bias"</a></h3>
+            <div class="snippet">Algorithmic BiasThis is a stub page for the concept of algorithmic bias. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics
+fair-explainable-edu-recommendations</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/automated-assessment.html">"Automated Assessment"</a></h3>
+            <div class="snippet">Automated AssessmentThis is a stub page for the concept of automated assessment. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics
+human-vs-llm-ordered-coding</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/cognitive-load-theory.html">"Cognitive Load Theory"</a></h3>
+            <div class="snippet">Cognitive Load TheoryThis is a stub page for the concept of cognitive load theory. It was created to resolve broken backlinks from other wiki pages.Related Pagessame-ai-different-pathways</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/computational-thinking.html">"Computational Thinking"</a></h3>
+            <div class="snippet">Computational ThinkingThis is a stub page for the concept of computational thinking. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review
+ml-literacy-primary-education</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/confidence-aware-ai-assessment.html">"Confidence Aware Ai Assessment"</a></h3>
+            <div class="snippet">Confidence Aware Ai AssessmentThis is a stub page for the concept of confidence aware ai assessment. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/constructivist.html">"Constructivist"</a></h3>
+            <div class="snippet">ConstructivistThis is a stub page for the concept of constructivist. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/curriculum-design-ai.html">"Curriculum Design Ai"</a></h3>
+            <div class="snippet">Curriculum Design AiThis is a stub page for the concept of curriculum design ai. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/curriculum-design.html">"Curriculum Design"</a></h3>
+            <div class="snippet">Curriculum Design
+Automated stub.
+Related Pages
+tracing-genai-literacy-interaction-patterns
+guided-llm-scaffolding-independent-learning
+ase-26-agentic-software-engineering-curriculum
+five-stage-ai-literacy-continuum
+ai-adoption-training-public-sector</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/design-thinking-in-education.html">"Design Thinking In Education"</a></h3>
+            <div class="snippet">Design Thinking In EducationStub page — created during ingestion of dot-framework-survey. Content pending.Related Pages
+dot-framework-survey</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/desirable-difficulties.html">"Desirable Difficulties"</a></h3>
+            <div class="snippet">Desirable DifficultiesThis is a stub page for the concept of desirable difficulties. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/educational-measurement.html">"Educational Measurement"</a></h3>
+            <div class="snippet">Educational MeasurementThis is a stub page for the concept of educational measurement. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/educational-nlp.html">"Educational Nlp"</a></h3>
+            <div class="snippet">Educational NlpThis is a stub page for the concept of educational nlp. It was created to resolve broken backlinks from other wiki pages.Related Pageshuman-vs-llm-ordered-coding</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/educational-policy-ai.html">"Educational Policy Ai"</a></h3>
+            <div class="snippet">Educational Policy AiThis is a stub page for the concept of educational policy ai. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ethics.html">"Ethics"</a></h3>
+            <div class="snippet">EthicsThis is a stub page for the concept of ethics. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ground-truth-reliability-aided.html">"Ground Truth Reliability Aided"</a></h3>
+            <div class="snippet">Ground Truth Reliability AidedThis is a stub page for the concept of ground truth reliability aided. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/human-ai-collaboration.html">"Human Ai Collaboration"</a></h3>
+            <div class="snippet">Human Ai CollaborationStub page — created during ingestion of dot-framework-survey. Content pending.Related Pages
+dot-framework-survey
+generativism-learning-theory — Generativism's epistemic partnership principle as a framework for human-AI collabora...</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/inclusive-education.html">"Inclusive Education"</a></h3>
+            <div class="snippet">Inclusive EducationThis is a stub page for the concept of inclusive education. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/institutional-ai-readiness.html">"Institutional Ai Readiness"</a></h3>
+            <div class="snippet">Institutional Ai ReadinessStub page — created during ingestion of dot-framework-survey. Content pending.Related Pages
+dot-framework-survey</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/item-response-theory.html">"Item Response Theory"</a></h3>
+            <div class="snippet">Item Response TheoryThis is a stub page for the concept of item response theory. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-application-education.html">"Llm Application Education"</a></h3>
+            <div class="snippet">Llm Application EducationThis is a stub page for the concept of llm application education. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-in-education.html">"Llm In Education"</a></h3>
+            <div class="snippet">Llm In EducationThis is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.Related Pagesagentic-ai-education-scoping-review — Wang et al. (2026) scoping review: 474 studies on agentic AI...</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/mastery-learning.html">"Mastery Learning"</a></h3>
+            <div class="snippet">Mastery LearningThis is a stub page for the concept of mastery learning. It was created to resolve broken backlinks from other wiki pages.Related Pages
+memdora-ai-spaced-repetition</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/multi-representational-tools.html">"Multi Representational Tools"</a></h3>
+            <div class="snippet">Multi Representational ToolsThis is a stub page for the concept of multi representational tools. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/nlp-education.html">"Nlp Education"</a></h3>
+            <div class="snippet">Nlp EducationThis is a stub page for the concept of nlp education. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/open-source.html">"Open Source"</a></h3>
+            <div class="snippet">Open SourceThis is a stub page for the concept of open source. It was created to resolve broken backlinks from other wiki pages.Related Pages
+iks-instruct-dataset-indian-knowledge</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/open-systems-theory.html">"Open Systems Theory"</a></h3>
+            <div class="snippet">Open Systems TheoryStub page — created during ingestion of dot-framework-survey. Content pending.Related Pages
+dot-framework-survey</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/pedagogical-safety.html">"Pedagogical Safety"</a></h3>
+            <div class="snippet">Pedagogical SafetyThis is a stub page for the concept of pedagogical safety. It was created to resolve broken backlinks from other wiki pages.Related Pagesvetting-dual-llm-safety-education
+llm-unlearning-math-privacy</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/posthumanist-ai-education.html">"Posthumanist Ai Education"</a></h3>
+            <div class="snippet">Posthumanist Ai EducationThis is a stub page for the concept of posthumanist ai education. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/prompt-engineering-education.html">"Prompt Engineering Education"</a></h3>
+            <div class="snippet">Prompt Engineering EducationThis is a stub page for the concept of prompt engineering education. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/prompt-engineering.html">"Prompt Engineering"</a></h3>
+            <div class="snippet">Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review
+multimodal-prompting-ai-literacy
+same-ai-different-pathways</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/psychometrically-aware-ai.html">"Psychometrically Aware Ai"</a></h3>
+            <div class="snippet">Psychometrically Aware AiThis is a stub page for the concept of psychometrically aware ai. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/rag.html">"Rag"</a></h3>
+            <div class="snippet">RagThis is a stub page for the concept of rag. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/randomized-controlled-trials-education.html">"Randomized Controlled Trials Education"</a></h3>
+            <div class="snippet">Randomized Controlled Trials EducationThis is a stub page for the concept of randomized controlled trials education. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/rct.html">"Rct"</a></h3>
+            <div class="snippet">RctThis is a stub page for the concept of rct. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-vocational-education-training-review</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/reinforcement-learning.html">"Reinforcement Learning"</a></h3>
+            <div class="snippet">Reinforcement LearningThis is a stub page for the concept of reinforcement learning. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/retrieval-augmented-generation.html">"Retrieval Augmented Generation"</a></h3>
+            <div class="snippet">Retrieval Augmented GenerationThis is a stub page for the concept of retrieval augmented generation. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/simulation-based-learning.html">"Simulation Based Learning"</a></h3>
+            <div class="snippet">Simulation Based LearningThis is a stub page for the concept of simulation based learning. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-vocational-education-training-review</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/socratic-ai.html">"Socratic Ai"</a></h3>
+            <div class="snippet">Socratic AiThis is a stub page for the concept of socratic ai. It was created to resolve broken backlinks from other wiki pages.Related Pagesgenai-mindtool-generative-learning</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/socratic-questioning.html">"Socratic Questioning"</a></h3>
+            <div class="snippet">Socratic QuestioningThis is a stub page for the concept of socratic questioning. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/spatial-reasoning.html">"Spatial Reasoning"</a></h3>
+            <div class="snippet">Spatial ReasoningThis is a stub page for the concept of spatial reasoning. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/teacher-ai-collaboration.html">"Teacher Ai Collaboration"</a></h3>
+            <div class="snippet">Teacher Ai CollaborationThis is a stub page for the concept of teacher ai collaboration. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/teacher-professional-development.html">"Teacher Professional Development"</a></h3>
+            <div class="snippet">Teacher Professional DevelopmentThis is a stub page for the concept of teacher professional development. It was created to resolve broken backlinks from other wiki pages.Related Pagesquest-ai-inquiry-preservice-teachers
+ai-tpack-preservice-math-teach...</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/visualization.html">"Visualization"</a></h3>
+            <div class="snippet">VisualizationThis is a stub page for the concept of visualization. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/zone-of-proximal-development.html">"Zone Of Proximal Development"</a></h3>
+            <div class="snippet">Zone Of Proximal DevelopmentThis is a stub page for the concept of zone of proximal development. It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <div class="tags"></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>AI in Education Wiki · <a href="../index.html">Home</a></small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

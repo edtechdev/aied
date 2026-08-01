@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>human-in-the-loop — AI in Education Wiki</title>
+    <title>human-in-the-loop — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,46 +23,48 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 human-in-the-loop</h1>
-        <p>A focused topic with 6 articles, including Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China and related work.</p>
+        <h1>🏷️ human-in-the-loop</h1>
+        <p>6 article(s) tagged with <strong>human-in-the-loop</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (6)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/teacher-student-agency-orchestration.html">Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing</a>
-                <div class="snippet">Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026) — Carnegie Mellon University; University of Washington; Ruhr-Universität Bochum. arXiv:2605.18761 [cs.HC] — Accepted at CSCW</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-pedagogical-accompaniment-amico.html">Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China</a>
-                <div class="snippet">Pier Paolo Benedetti (2026) — (Independent/Doctoral Research). arXiv:2605.20665 [cs.HC] — Accepted at ICAIE 2026 📄 Full text (arXiv) Benedetti (2026) introduces a theoretically grounded framework for </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/human-in-the-loop-ai.html">Human-in-the-Loop AI for Education</a>
-                <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2409.03512 · local Educational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ground-truth-reliability-aied.html">Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education</a>
-                <div class="snippet">Thomas, Borchers, Vanacore, Koedinger & Kizilcec (2026) — CMU & Cornell. Accepted as full paper at AIED 2026. 📄 Full text (arXiv) ## Core Argument The AIED community over-relies on inter-rater reliabi</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/multi-agent-instructional-design.html">Multi-Agent Systems for Instructional Design</a>
-                <div class="snippet">> 📄 Full text: arXiv:2508.16659 · local > Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators. ## T</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/text-simplification-its.html">Text Simplification for Intelligent Tutoring</a>
-                <div class="snippet">> 📄 Full text: arXiv:2604.08947 · local > Human-in-the-loop evaluation framework for text simplification in ITS, addressing LLM output variability across prompting strategies. ## The Challenge of Text</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/teacher-student-agency-orchestration.html">"Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing"</a></h3>
+            <div class="snippet">Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic PairingKexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026) — Carnegie Mellon University; University of Washington; Ruhr-Universitä...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="teacher-role.html">teacher-role</a><a href="student-experience.html">student-experience</a><a href="k-12.html">k-12</a><a href="collaborative-learning.html">collaborative-learning</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-pedagogical-accompaniment-amico.html">"Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China"</a></h3>
+            <div class="snippet">Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and ChinaPier Paolo Benedetti (2026) — (Independent/Doctoral Research). arXiv:2605.20665 [cs.HC] — Accepted at...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="scaffolding.html">scaffolding</a><a href="pedagogical-safety.html">pedagogical-safety</a><a href="ai-literacy.html">ai-literacy</a><a href="student-experience.html">student-experience</a><a href="teacher-role.html">teacher-role</a><a href="k-12.html">k-12</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ground-truth-reliability-aied.html">"Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education"</a></h3>
+            <div class="snippet">Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in EducationThomas, Borchers, Vanacore, Koedinger & Kizilcec (2026) — CMU & Cornell. Accepted as full paper at AIED 2026.📄 Full text (arXiv)Core ArgumentThe AIED co...</div>
+            <div class="tags"><a href="benchmark.html">benchmark</a><a href="efficacy-study.html">efficacy-study</a><a href="learning-analytics.html">learning-analytics</a><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="automated-grading.html">automated-grading</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/human-in-the-loop-ai.html">Human-in-the-Loop AI for Education</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2409.03512 · localHuman-in-the-Loop AI for EducationEducational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling pro...</div>
+            <div class="tags"><a href="assessment.html">assessment</a><a href="safety.html">safety</a><a href="ai-education.html">ai-education</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/multi-agent-instructional-design.html">Multi-Agent Systems for Instructional Design</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2508.16659 · localMulti-Agent Systems for Instructional Design> Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators.The Promptin...</div>
+            <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="agentic-workflows.html">agentic-workflows</a><a href="ai-literacy.html">ai-literacy</a><a href="k-12.html">k-12</a><a href="pedagogical-safety.html">pedagogical-safety</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/text-simplification-its.html">Text Simplification for Intelligent Tutoring</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2604.08947 · localText Simplification for Intelligent Tutoring> Human-in-the-loop evaluation framework for text simplification in ITS, addressing LLM output variability across prompting strategies.The Challenge of Text Simplifica...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="nlp-education.html">nlp-education</a><a href="adaptive-learning.html">adaptive-learning</a><a href="generative-ai.html">generative-ai</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

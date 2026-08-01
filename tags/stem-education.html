@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>stem-education — AI in Education Wiki</title>
+    <title>stem-education — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,278 +23,442 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 stem-education</h1>
-        <p>A core topic with 64 articles spanning research on Agentic Education with AI Coding Assistants, Using AI in engineering education: a balancing act, driven by clear purpose, AI Tools Scaffolding Metacognition in STEM, and many more.</p>
+        <h1>🏷️ stem-education</h1>
+        <p>75 article(s) tagged with <strong>stem-education</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (64)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/institutional-change-framework-ai.html">A Framework for Institutional Change in the Age of AI</a>
-                <div class="snippet">## Core Contribution Perl-Nussbaum & Finkelstein (2026) propose a six-dimension framework for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike pr</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/forap-pjbl-computing-education.html">Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio</a>
-                <div class="snippet">Ahmad D. Suleiman, Jan DeWaters, David C. Shepherd, Turgay Korkmaz, Faraz Hussain, Yu Liu, Daqing Hou (2026) — arXiv preprint. 📄 Full text (arXiv) Presents FORAP (Framework for Organizing Reusable and</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/agentic-education-coding.html">Agentic Education with AI Coding Assistants</a>
-                <div class="snippet">> 📄 Full text: arXiv:2604.17460 · local > Using agentic AI workflows (Claude Code) to teach AI coding tools — structured pedagogy for tool mastery. ## The Gap in AI Coding Education Naboulsi (2026) id</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-metacognition-stem-review.html">AI Tools Scaffolding Metacognition in STEM</a>
-                <div class="snippet">> 📄 Full text: MDPI · local > Systematic review (2005–2025) mapping how AI tools scaffold and co-regulate metacognitive development in STEM classrooms through bibliometric and qualitative synthesis. #</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-chatbots-cs-multiple-choice.html">Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?</a>
-                <div class="snippet">Markos Stamatakis, Omkar Gavali, Joshua Berger, Christian Wartena, Anett Hoppe, Ralph Ewerth (2026) — arXiv preprint   📄 Full text (arXiv) Investigates LLM chatbots' performance on 70 MCQs for a unive</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/assessment-team-problem-solving-computing-education.html">Assessment in Team Problem-Solving Exercises in Computing Education</a>
-                <div class="snippet">Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026) — arXiv preprint. arXiv:2607.19209 [cs.CY]. 📄 Full text (arXiv) Tabletop exercises (TTXs) let learner teams rehearse high-</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-handwritten-math-grading.html">Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs</a>
-                <div class="snippet">Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026) — University of Illinois Urbana-Champaign. International Conference on AI in Education (AIED 2026). 📄 Full text (arXiv) ##</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/automated-question-generation.html">Automated Question Generation</a>
-                <div class="snippet">## Synthesis Automated question generation leverages NLP and LLMs to create educational assessments at scale. Wei & Stamper (2025) introduced the generate-then-validate paradigm, reducing hallucinatio</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/awareness-technological-isomorphism.html">Awareness of Technological Isomorphism: AI in Elementary Math</a>
-                <div class="snippet">Li & Cao (2026) — Authors. Unknown institution. 📄 Full text (arXiv) Introduces a novel core concept, "Awareness of Technological Isomorphism," defined as a student's metacognitive realization that the</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/mllm-scientific-visualization-literacy.html">Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy</a>
-                <div class="snippet">Patrick Phuoc Do, Chau M. Ta, Chaoli Wang (2026) — arXiv preprint. arXiv:2607.15176. 📄 Full text (arXiv) Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/guided-llm-scaffolding-statistics.html">Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics</a>
-                <div class="snippet">Amanlou et al. (2026) — ArXiv. 📄 Full text (arXiv) Compares unrestricted vs. guided LLM access. Guided group showed significantly better independent performance on quizzes, using AI for stepwise reaso</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/trio-ethnography-llm-programming-education.html">Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education</a>
-                <div class="snippet">Ren, McDowell & Zhou (2026) — arXiv preprint (cs.HC, cs.AI). 📄 Full text (arXiv) This experience report introduces trio-ethnography — structured dialogue between two computing educators with differing</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/social-robot-study-companions.html">Co-Creating Buildable and Open Social Robot Study Companions with University Students</a>
-                <div class="snippet">Farnaz Baksh, Matevz B. Zorec, Feiazie Baksh, Karl Kruusamae (2026). ICSR + ART 2026, London 📄 Full text (arXiv) ## Key Findings Design for Assembly/Disassembly interventions improved open social robo</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/codify-socratic-programming-tutor.html">Codify: An Intelligent Socratic Tutoring System for Programming Education</a>
-                <div class="snippet">Ilyasov, Bardelli, Torres & Keshtkar (2026) — St. John's University. The International FLAIRS Conference Proceedings, Vol. 39 No. 1 (Poster). 📄 DOI: 10.32473/flairs.39.1.141554 Codify (also called AI </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/cogtax-cognitive-taxonomy.html">CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education</a>
-                <div class="snippet">Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira — Universidade de Vigo, submitted 30 Jun 2026 📄 Full text (arXiv) Proposes CogTax</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/commenting-copilot-student-code-specs.html">Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications</a>
-                <div class="snippet">Nasser Giacaman, Valerio Terragni, Paul Denny, Viraj Kumar (2026) — arXiv preprint. 📄 Full text (arXiv) Analyzes how students specify intended behavior in natural language to AI code tools (Copilot) a</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/computational-thinking-ai-agent-creation.html">Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study</a>
-                <div class="snippet">Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study Sun et al. (2026) — Multiple institutions. arXiv cs.CY. 📄 Full text (arXiv) ## Summary This mixed-methods study examines </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/confidence-aware-student-drawing-assessment.html">Confidence-Aware Automated Assessment of Student-Drawn Scientific Models</a>
-                <div class="snippet">Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). arXiv cs.AI preprint 📄 Full text (arXiv) ## Overview Vision Transformer (ViT) with LoRA adaptation for automate</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/concept-catalyst-engineering-scaffolds.html">Creating Learning Scaffolds for Engineering Design Using Concept Catalyst</a>
-                <div class="snippet">Madhuri Singh, Gennie Mansi, Mark Owen Riedl (2026) — Georgia Institute of Technology. arXiv:2605.20511 [cs.HC] — Accepted as Interactive Demo at ISLS 2026 📄 Full text (arXiv) Singh, Mansi, and Riedl </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-05-23.html">Daily Digest: 2026-05-23</a>
-                <div class="snippet">Weekend scan — no new arXiv submissions for Saturday, May 23. 3 catch-up papers ingested from Friday May 22 and earlier in the week. Wiki now at 186 pages. ## Source Status | Source | Status | Papers </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-07-20.html">Daily Digest: 2026-07-20</a>
-                <div class="snippet">Scan window 2026-07-17 → 2026-07-20 across arXiv cs.CY, arXiv cs.HC, Semantic Scholar, and OpenAlex. ## New Pages - repeated-ai-writing-feedback-semester — Student Evaluation of Repeated AI Feedback A</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/dura-llm-cs2.html">Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2</a>
-                <div class="snippet">Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan — SIGCSE Virtual 2026, submitted 29 Jun 2026 📄 Full text (arXiv) DURA framew</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/educational-vlm-evaluation.html">Educational VLM Evaluation</a>
-                <div class="snippet">> 📄 Full text: arXiv:2603.00925 · local Benchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to *support learners* — particularly struggling learners</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/eduguard-safe-rag-llm-tutor.html">EduGuard: A Safe RAG-Based LLM Tutor for Programming Education</a>
-                <div class="snippet">Hossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026) — arXiv:2607.15738 (cs.CY). 📄 Full text (arXiv) EduGuard is a retrieval-augmented generation (RAG) tutoring framework that directly </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/visual-query-tracer-declarative-logic-learning.html">Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming</a>
-                <div class="snippet">Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, et al. (2026) — arXiv preprint. arXiv:2607.18864 [cs.HC]. 📄 Full text (arXiv) Nemo Explain Visualizer (nev) is an interactive visual query tr</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/cognitive-shift-ai-education.html">Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?</a>
-                <div class="snippet">Islem Rekik (2026) — ICLR HCAIR Workshop 2026. 📄 Full text (arXiv) ## Overview This paper presents a striking longitudinal finding: as AI becomes a routine educational tool, students systematically re</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-automated-assessment-student-self-explanations.html">Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education</a>
-                <div class="snippet">Lekshmi-Narayanan, Hassany & Brusilovsky (2026) — University of Pittsburgh. arXiv preprint (cs.HC, cs.LG). 📄 Full text (arXiv) ## Summary This paper presents a rigorous empirical comparison between ll</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-diverse-explanations-programming.html">Exploring the Value of Diverse LLM Explanations in Introductory Programming</a>
-                <div class="snippet">Bernstein, Denny, Leinonen, Patel et al. (2026) — cs.HC (SIGCSE Virtual 2026) 📄 Full text (arXiv) Bernstein, Denny, Leinonen et al. (2026) investigate whether providing students with multiple, diverse</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-pedagogical-orientation.html">Faculty Orientations Shape Adoption of AI in Research and Teaching</a>
-                <div class="snippet">Atherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026) — arXiv:2605.18140 📄 arXiv · PDF · local ## Key Finding: AI Pedagogical Orientation A mixed-methods survey of 90 STEM faculty in the RCS</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/generative-ai-reduced-study-time-math.html">Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build</a>
-                <div class="snippet">Rismanchian, Uzun, Matayoshi, Cosyn & Kurd-Misto (2026) — ALEKS/McGraw Hill. arXiv preprint (cs.CY, cs.AI, cs.HC). 📄 Full text (arXiv) — updated to v3 (revised 13 Jul 2026; raw file refreshed from the</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/epistemic-proactivity-math.html">From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning</a>
-                <div class="snippet">Abdelghani, Kaiser & Murayama (2026) — cs.CY 📄 Full text (arXiv) Abdelghani, Kaiser & Murayama (2026) trace how middle and high school students' interactions with AI math tutors evolve over time, iden</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/gender-differences-ai-literacy-deepfake.html">Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement</a>
-                <div class="snippet">Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026) — arXiv preprint   📄 Full text (arXiv) Examines gender differences in AI literacy, safety awareness, and STEM career aspirations </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/generate-then-validate-question-gen.html">Generate-Then-Validate: Question Generation for Education</a>
-                <div class="snippet">## Synthesis Novel generate-then-validate approach for educational question generation. Reduces hallucination by 62% compared to direct generation. Validated on STEM datasets with 89% accuracy. Outper</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/genai-assessment-governance.html">Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment</a>
-                <div class="snippet">Gao, Chen, Li & Zhai (2026) — University of Georgia. 📄 Full text (arXiv) This paper proposes a principled framework grounded in Evidence-Centered Design (ECD) that treats generative-ai as a design var</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/generative-ai-guardrails-harm-learning.html">Generative AI without guardrails can harm learning: Evidence from high school mathematics</a>
-                <div class="snippet">Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kurucu, Rehema Mushi (2025) — *Proceedings of the National Academy of Sciences (PNAS)*, 122(26). doi:10.1073/pnas.2422633122. 📄 Full text (PNA</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/human-ai-co-mentorship.html">Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting</a>
-                <div class="snippet">> 📄 Full text: arXiv:2605.05144 · local ## Definition A pedagogical model where human mentors and AI tools jointly support student learning in project-based contexts. Human mentors provide conceptual </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/dynamic-skill-matching-capstone-teams.html">Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment</a>
-                <div class="snippet">Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, Santosh Chandrasekhar (2026) — CSCI 2025 (12th International Conference on Computational Science and Computational Intelligence)   📄 Full </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/lata-ferpa-compliant-local-llm-autograder.html">LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework</a>
-                <div class="snippet">LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework Rodríguez (2026) — Oregon State University. Submitted to Computers & Education. 📄 Full text (arXiv) ## Summary </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/post-covid-ict-career-aspirations.html">Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?</a>
-                <div class="snippet">Popa et al. (2026) — Bucharest University of Economic Studies. *arXiv preprint*. 📄 Full text (arXiv) Post-COVID ICT Career Aspirations uses PISA 2018 and 2022 country-level data to investigate whether</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/learning-engagement-assistant-lea.html">Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System</a>
-                <div class="snippet">Teri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026) — arXiv preprint (extension of ICAART 2026 conference paper). Venue: arXiv (categories: cs.CY, cs.AI, cs.HC). 📄 Full text (arXiv) LEA </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-design-problems-hot-pjbl.html">LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning</a>
-                <div class="snippet">Ahmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026) — arXiv preprint. 📄 Full text (arXiv) Introduces 'design problems' (DPs): concise, scenario-based prompts that require applying knowledge in </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-feedback-programming-classroom.html">LLM-Generated Feedback in Introductory Programming: A Classroom Study</a>
-                <div class="snippet">Heickal & Lan (2026) — University of Massachusetts Amherst. 📄 Full text (arXiv) Presents a large-scale classroom study (N=215 students, 6,693 submissions across 17 labs) deploying AI-generated feedbac</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/multimodal-ai-tutoring.html">Multimodal AI Tutoring in STEM</a>
-                <div class="snippet">> 📄 Full text: arXiv:2605.04131 · local > General-purpose LLMs achieve near-ceiling accuracy (~96%) on text-only physics problems, but accuracy drops to ~74% on image-rich multimodal problems due to t</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/nsmq-riddles-science-math-benchmark.html">NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models</a>
-                <div class="snippet">## Core Contribution Boateng et al. (2026) introduce NSMQ Riddles, a benchmark of 1.8K scientific and mathematical riddles drawn from 11 years of Ghana's National Science and Maths Quiz — a live TV co</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/chatgpt-programming-education-text-mining.html">Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education</a>
-                <div class="snippet">Grume, J.C., Miranda, J.P.P., De Leon, A.P., Salenga, J.L., Hernandez, H.E., Castro, M.A.A., Maniago, V.G.M., Canlas, J.D., Quiambao, J.B. (2026) — Pedagogical Innovations in CS Education (IGI Global)</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-powered-materials-discovery-ai-literacy.html">Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment</a>
-                <div class="snippet">Dongming Mei, Katherine Moore, Ben Sayler (2026) — Framework for integrating AI literacy with materials science education. 📄 Full text (arXiv) ## Key Findings This paper presents a workflow-aligned fr</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/programming-its.html">Programming Intelligent Tutoring Systems</a>
-                <div class="snippet">> 📄 Full text: arXiv:2604.16117 · local > ITS for programming education with individualized hints, addressing the scarcity of human tutors for practice-intensive coding courses. ## SCRIPT: Python Prog</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/q-learning-lab-rl-teaching.html">Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis</a>
-                <div class="snippet">Ekkachai Jueng (2026) — arXiv preprint. 📄 Full text (arXiv) Presents Q-Learning Lab, a single-file tool that makes the Bellman update concrete by letting undergraduates inspect how each value is compu</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/quantum-education-its.html">Quantum Education Intelligent Tutoring</a>
-                <div class="snippet">> 📄 Full text: arXiv:2604.24807 · local > Knowledge-graph-augmented ITS for quantum computing education, addressing instructor scarcity and concept counterintuitiveness. ## System Architecture From Pr</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/representation-robustness-llm-math-problem-solving.html">Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving</a>
-                <div class="snippet">Nath, Graf, Zhang & Zapata-Rivera (2026) — UC Santa Cruz; ETS Research Institute; University of Michigan. HCI International 2026. 📄 Full text (arXiv) This study probes how sensitive llm mathematical p</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/simulating-students-java-programming-errors-llms.html">Simulating Students' Java Programming Errors with Large Language Models</a>
-                <div class="snippet">Keramati, Cao, Mohammadi, Warschauer & Shi (2026) — University of California, Irvine. 📄 Full text (arXiv) ## Summary This paper investigates whether llm|large language models can serve as scalable pro</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/socratic-ai-dialogue.html">Socratic AI Dialogue</a>
-                <div class="snippet">> 📄 Full text: arXiv:2508.14778 · local · arXiv:2507.06878 · local > Socratic dialogue — asking structured questions rather than providing answers — is one of the strongest pedagogical scaffolds for d</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/stem-education.html">Stem Education</a>
-                <div class="snippet">AI applications in science, technology, engineering, and mathematics education ## Connections ## Related Pages   - generative-ai-reduced-study-time-math — Math problem study time decline linked to gen</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/prompt-based-programming-lesson.html">Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers</a>
-                <div class="snippet">Tran, Marwan & Price (2026) — cs.CY 📄 Full text (arXiv) This study by Tran, Marwan & Price (2026) introduces and evaluates a 45-minute structured lesson on prompt-based programming, a new modality ena</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/structured-llm-feedback-programming.html">The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance</a>
-                <div class="snippet">Mihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026) — Aalto University, University of Pittsburgh, UC San Diego. arXiv preprint</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/pedagogy-ai-mistakes.html">The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking</a>
-                <div class="snippet">> 📄 Full text: arXiv:2605.05472 · local ## Definition An instructional approach that deliberately leverages AI errors, hallucinations, and limitations as teaching tools to foster higher-order thinking</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/critical-engagement-code-completion.html">To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks</a>
-                <div class="snippet">Hutchison, Applebaum, Angelikas, Patel et al. (2026) — cs.HC (ITiCSE 2026) 📄 Full text (arXiv) Hutchison et al. (2026) develop and validate a method for measuring critical engagement with AI code comp</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/socraticode-k12-programming-tutor.html">Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study</a>
-                <div class="snippet">Lucas, C., Bihani, A., Kukka, R., Tsai, C.-H., Sarker, J., & Imran, M. M. (2026) — University of Nebraska at Omaha, Penn State. arXiv preprint. 📄 Full text (arXiv) ## Key Finding Socratic questioning,</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-engineering-education-balancing-act.html">Using AI in engineering education: a balancing act, driven by clear purpose</a>
-                <div class="snippet">Olya Kudina (2026) — The Routledge Handbook of the Philosophy of Engineering, 2nd ed.   📄 Full text (arXiv) Based on a questionnaire of 100 higher-education engineering students and a critical literat</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/vismatic-secure-sandbox-cs-education.html">VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring</a>
-                <div class="snippet">Arroyo, López & Torres (2026) — Universidad de Granada. 📄 Full text (arXiv) Addresses a critical tension in stem-education|CS education: the widespread adoption of generative AI makes it impossible to</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/mixed-reality-engineering-learning.html">Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning</a>
-                <div class="snippet">Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman — submitted 1 Jul 2026 📄 Full text (arXiv) User study with 24 participants comparing cl</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/teacher-control-ai-generation-math-visuals.html">When Should Teachers Control AI Generation for Mathematics Visuals?</a>
-                <div class="snippet">Zhengxu Li, Junling Wang, April Yi Wang (2026) — ACM L@S 2026. Study of when teachers should control AI-generated classroom visuals. 📄 Full text (arXiv) ## Key Findings Generative AI can help teachers</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-stem-bibliometric-trends.html">Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda</a>
-                <div class="snippet">Chan, Chen, Hong, Song, Wang & Xu (2026) — ISLS 2026 (arXiv preprint). 📄 Full text (arXiv) STEM education faces challenges in personalization and interdisciplinary integration. AI technology has broug</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/bridging-instructional-design-framework-math.html">WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators</a>
-                <div class="snippet">Estefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão (2026) — arXiv:2606.20934 (cs.CY) 📄 Full text (arXiv) Castillo Ventura et al. (2026) address the gap between instruc</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/institutional-change-framework-ai.html">"A Framework for Institutional Change in the Age of AI"</a></h3>
+            <div class="snippet">Institutional Change Framework for AICore ContributionPerl-Nussbaum & Finkelstein (2026) propose a six-dimension framework for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based...</div>
+            <div class="tags"><a href="institutional-change.html">institutional-change</a><a href="higher-ed.html">higher-ed</a><a href="faculty-development.html">faculty-development</a><a href="pedagogy.html">pedagogy</a><a href="ai-era.html">ai-era</a><a href="change-management.html">change-management</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-tpack-preservice-math-teachers.html">"AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study"</a></h3>
+            <div class="snippet">AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling studyAuthors: Moeketsi Mosia, Fadip Audu Nannim, Felix Egara
+Source: Computers and Education: AI, Vol 11 — Open...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="teacher-professional-development.html">teacher-professional-development</a><a href="higher-ed.html">higher-ed</a><a href="teacher-ai-competency.html">teacher-ai-competency</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/forap-pjbl-computing-education.html">"Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio"</a></h3>
+            <div class="snippet">Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project PortfolioAhmad D. Suleiman, Jan DeWaters, David C. Shepherd, Turgay Korkmaz, Faraz Hussain, Yu Liu, Daqing Hou (2026) — arXiv preprint.📄 Full...</div>
+            <div class="tags"><a href="project-based-learning.html">project-based-learning</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="active-learning.html">active-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/agentic-ai-education-scoping-review.html">"Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm"</a></h3>
+            <div class="snippet">Agentic AI in Education: Scoping Review (474 Studies, 2020–2026)Wang, Zou, Xie & Qin (2026) — Lingnan University & Hong Kong Polytechnic University.
+Published in Computers and Education: Artificial Intelligence, accepted 27 July 2026.
+📄 doi:10.1016/j...</div>
+            <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-literacy.html">ai-literacy</a><a href="educational-theory.html">educational-theory</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="multi-agent.html">multi-agent</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/automated-question-generation.html">"Automated Question Generation"</a></h3>
+            <div class="snippet">Automated Question GenerationSynthesisAutomated question generation leverages NLP and LLMs to create educational assessments at scale. Wei & Stamper (2025) introduced the generate-then-validate paradigm, reducing hallucination by 62% compared to dire...</div>
+            <div class="tags"><a href="nlp-education.html">nlp-education</a><a href="assessment.html">assessment</a><a href="llm.html">llm</a><a href="automated-grading.html">automated-grading</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/awareness-technological-isomorphism.html">"Awareness of Technological Isomorphism: AI in Elementary Math"</a></h3>
+            <div class="snippet">Awareness of Technological Isomorphism: AI in Elementary MathLi & Cao (2026) — Authors. Unknown institution.
+📄 Full text (arXiv)Introduces a novel core concept, "Awareness of Technological Isomorphism," defined as a student's metacognitive realizatio...</div>
+            <div class="tags"><a href="k-12.html">k-12</a><a href="ai-literacy.html">ai-literacy</a><a href="personalized-learning.html">personalized-learning</a><a href="metacognition.html">metacognition</a><a href="scaffolding.html">scaffolding</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/guided-llm-scaffolding-statistics.html">"Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics"</a></h3>
+            <div class="snippet">Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
+Amanlou et al. (2026) — ArXiv.
+📄 Full text (arXiv)Compares unrestricted vs. guided LLM access. Guided group showed significantly better independent performance...</div>
+            <div class="tags"><a href="scaffolding.html">scaffolding</a><a href="higher-ed.html">higher-ed</a><a href="independent-learning.html">independent-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/trio-ethnography-llm-programming-education.html">"Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education"</a></h3>
+            <div class="snippet">Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming EducationRen, McDowell & Zhou (2026) — arXiv preprint (cs.HC, cs.AI).📄 Full text (arXiv)This experience report introduces trio-ethnography — structured d...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="teacher-role.html">teacher-role</a><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/codify-socratic-programming-tutor.html">"Codify: An Intelligent Socratic Tutoring System for Programming Education"</a></h3>
+            <div class="snippet">Codify: Socratic Programming TutorIlyasov, Bardelli, Torres & Keshtkar (2026) — St. John's University. The International FLAIRS Conference Proceedings, Vol. 39 No. 1 (Poster).📄 DOI: 10.32473/flairs.39.1.141554Codify (also called AI Tutor) is an intel...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a><a href="adaptive-learning.html">adaptive-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/cogtax-cognitive-taxonomy.html">"CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education"</a></h3>
+            <div class="snippet">CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing EducationManuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira — Universidade de Vigo, submitted 30 Jun 2026
+📄 Full te...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="formative-assessment.html">formative-assessment</a><a href="scaffolding.html">scaffolding</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/commenting-copilot-student-code-specs.html">"Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications"</a></h3>
+            <div class="snippet">Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation SpecificationsNasser Giacaman, Valerio Terragni, Paul Denny, Viraj Kumar (2026) — arXiv preprint.📄 Full text (arXiv)Analyzes how students specify intended behavior...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/computational-thinking-ai-agent-creation.html">"Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study"</a></h3>
+            <div class="snippet">Computational Thinking Development in AI Agent Creation: A Mixed-Methods StudyComputational Thinking Development in AI Agent Creation: A Mixed-Methods Study
+Sun et al. (2026) — Multiple institutions. arXiv cs.CY.
+📄 Full text (arXiv)SummaryThis mixed-...</div>
+            <div class="tags"><a href="k-12.html">k-12</a><a href="ai-literacy.html">ai-literacy</a><a href="scaffolding.html">scaffolding</a><a href="personalized-learning.html">personalized-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-05-23.html">"Daily Digest: 2026-05-23"</a></h3>
+            <div class="snippet">Daily Digest — 2026-05-23Weekend scan — no new arXiv submissions for Saturday, May 23. 3 catch-up papers ingested from Friday May 22 and earlier in the week. Wiki now at 186 pages.Source Status
+
+
+Source
+Status
+Papers
+
+
+
+
+arXiv cs.CY API
+✗ HTTP 500
+Fa...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="over-reliance.html">over-reliance</a><a href="automated-grading.html">automated-grading</a><a href="ai-literacy.html">ai-literacy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-07-20.html">"Daily Digest: 2026-07-20"</a></h3>
+            <div class="snippet">Daily Digest: 2026-07-20Scan window 2026-07-17 → 2026-07-20 across arXiv cs.CY, arXiv cs.HC, Semantic Scholar, and OpenAlex.New Pages
+repeated-ai-writing-feedback-semester — Student Evaluation of Repeated AI Feedback Across a Semester of Writing.
+edu...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="over-reliance.html">over-reliance</a><a href="writing-education.html">writing-education</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/dura-llm-cs2.html">"Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2"</a></h3>
+            <div class="snippet">Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan — SIGCSE Virtual 2026, submitted 29 Jun...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="academic-integrity.html">academic-integrity</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-learning-tools-engineering-education-needs.html">"Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes"</a></h3>
+            <div class="snippet">Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological OutcomesShao et al. (2026) — Under review.📄 Full text (arXiv)Survey of 206 engineering students: AI chatbots provide greatest perceived bene...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="affective-computing.html">affective-computing</a><a href="personalized-learning.html">personalized-learning</a><a href="scaffolding.html">scaffolding</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/eduguard-safe-rag-llm-tutor.html">"EduGuard: A Safe RAG-Based LLM Tutor for Programming Education"</a></h3>
+            <div class="snippet">EduGuard: A Safe RAG-Based LLM Tutor for Programming EducationHossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026) — arXiv:2607.15738 (cs.CY).
+📄 Full text (arXiv)EduGuard is a retrieval-augmented generation (RAG) tutoring framework tha...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="over-reliance.html">over-reliance</a><a href="hallucination-risk.html">hallucination-risk</a><a href="feedback-loop.html">feedback-loop</a><a href="benchmark.html">benchmark</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/cognitive-shift-ai-education.html">"Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?"</a></h3>
+            <div class="snippet">Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?Islem Rekik (2026) — ICLR HCAIR Workshop 2026.📄 Full text (arXiv)OverviewThis paper presents a striking longitudinal finding: as AI becomes a routine educat...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a><a href="over-reliance.html">over-reliance</a><a href="efficacy-study.html">efficacy-study</a><a href="faculty-development.html">faculty-development</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-automated-assessment-student-self-explanations.html">"Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education"</a></h3>
+            <div class="snippet">Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming EducationLekshmi-Narayanan, Hassany & Brusilovsky (2026) — University of Pittsburgh. arXiv preprint (cs.HC, cs.LG).📄 Full text (arXiv)Summa...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="automated-grading.html">automated-grading</a><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="scaffolding.html">scaffolding</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-pedagogical-orientation.html">"Faculty Orientations Shape Adoption of AI in Research and Teaching"</a></h3>
+            <div class="snippet">Faculty Orientations Shape Adoption of AI in Research and TeachingAtherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026) — arXiv:2605.18140📄 arXiv · PDF · localKey Finding: AI Pedagogical OrientationA mixed-methods survey of 90 STEM faculty...</div>
+            <div class="tags"><a href="faculty-development.html">faculty-development</a><a href="higher-ed.html">higher-ed</a><a href="ai-literacy.html">ai-literacy</a><a href="technology-adoption.html">technology-adoption</a><a href="pedagogy.html">pedagogy</a><a href="institutional-change.html">institutional-change</a><a href="teacher-role.html">teacher-role</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/generative-ai-reduced-study-time-math.html">"Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build"</a></h3>
+            <div class="snippet">Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They BuildRismanchian, Uzun, Matayoshi, Cosyn & Kurd-Misto (2026) — ALEKS/McGraw Hill. arXiv preprint (cs.CY, cs.AI, cs.HC).📄 Full text (arXiv) — up...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="over-reliance.html">over-reliance</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="learning-gains.html">learning-gains</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/vibe-coding-programming-process-visualizer.html">"From Idea to Classroom in Days: Using \"Vibe Coding\" to Create a Programming Process Visualizer from IDE Activity Logs"</a></h3>
+            <div class="snippet">From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity LogsTaveter et al. (2026) — FIE 2026 (IEEE Frontiers in Education Conference).📄 Full text (arXiv)Describes rapid development of a Thonny...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="teacher-role.html">teacher-role</a><a href="learning-analytics.html">learning-analytics</a><a href="academic-integrity.html">academic-integrity</a><a href="edtech-platform.html">edtech-platform</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/epistemic-proactivity-math.html">"From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning"</a></h3>
+            <div class="snippet">From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics LearningAbdelghani, Kaiser & Murayama (2026) — cs.CY
+📄 Full text (arXiv)Abdelghani, Kaiser & Murayama (2026) trace how middle and high school stud...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="k-12.html">k-12</a><a href="metacognition.html">metacognition</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/genai-runaway-object-math-higher-ed.html">"GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics"</a></h3>
+            <div class="snippet">GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematicsAuthors: Dionysia Bakogianni, Yvonne Liljekvist, Phuong Bui
+Source: Computers and Education: Artificial Intelligence, Vol 11, 100637...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="faculty-development.html">faculty-development</a><a href="educational-theory.html">educational-theory</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/generate-then-validate-question-gen.html">"Generate-Then-Validate: Question Generation for Education"</a></h3>
+            <div class="snippet">Generate-Then-Validate: Question Generation for EducationSynthesisNovel generate-then-validate approach for educational question generation. Reduces hallucination by 62% compared to direct generation. Validated on STEM datasets with 89% accuracy. Out...</div>
+            <div class="tags"><a href="question-generation.html">question-generation</a><a href="validate-then-generate.html">validate-then-generate</a><a href="nlp-education.html">nlp-education</a><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/genai-assessment-governance.html">"Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment"</a></h3>
+            <div class="snippet">GenAI as a Design Variable: Assessment Governance FrameworkGao, Chen, Li & Zhai (2026) — University of Georgia.📄 Full text (arXiv)This paper proposes a principled framework grounded in Evidence-Centered Design (ECD) that treats generative-ai as a des...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="automated-grading.html">automated-grading</a><a href="higher-ed.html">higher-ed</a><a href="policy-maker.html">policy-maker</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/generative-ai-guardrails-harm-learning.html">"Generative AI without guardrails can harm learning: Evidence from high school mathematics"</a></h3>
+            <div class="snippet">Generative AI without guardrails can harm learning: Evidence from high school mathematicsHamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kurucu, Rehema Mushi (2025) — Proceedings of the National Academy of Sciences (PNAS), 122(26). doi:10.1...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="over-reliance.html">over-reliance</a><a href="k-12.html">k-12</a><a href="RCT.html">RCT</a><a href="learning-gains.html">learning-gains</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="scaffolding.html">scaffolding</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/human-ai-co-mentorship.html">"Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting"</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2605.05144 · localHuman-AI Co-MentorshipDefinition
+A pedagogical model where human mentors and AI tools jointly support student learning in project-based contexts. Human mentors provide conceptual guidance, debugging, and problem...</div>
+            <div class="tags"><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="active-learning.html">active-learning</a><a href="scaffolding.html">scaffolding</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-feedback-programming-classroom.html">"LLM-Generated Feedback in Introductory Programming: A Classroom Study"</a></h3>
+            <div class="snippet">LLM-Generated Feedback in Introductory Programming: A Classroom StudyHeickal & Lan (2026) — University of Massachusetts Amherst.
+📄 Full text (arXiv)Presents a large-scale classroom study (N=215 students, 6,693 submissions across 17 labs) deploying AI...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="formative-assessment.html">formative-assessment</a><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="automated-grading.html">automated-grading</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/lata-ferpa-compliant-local-llm-autograder.html">"LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework"</a></h3>
+            <div class="snippet">LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM CourseworkLaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
+Rodríguez (2026) — Oregon State University. Submitted to Computers & Educ...</div>
+            <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="efficacy-study.html">efficacy-study</a><a href="feedback-loop.html">feedback-loop</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/learning-engagement-assistant-lea.html">"Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System"</a></h3>
+            <div class="snippet">Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring SystemTeri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026) — arXiv preprint (extension of ICAART 2026 conference paper). Ven...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="higher-ed.html">higher-ed</a><a href="formative-assessment.html">formative-assessment</a><a href="benchmark.html">benchmark</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/post-covid-ict-career-aspirations.html">"Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?"</a></h3>
+            <div class="snippet">Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?Popa et al. (2026) — Bucharest University of Economic Studies. arXiv preprint.📄 Full text (arXiv)Post-COVID ICT Career Aspirations uses PISA 2...</div>
+            <div class="tags"><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="ai-literacy.html">ai-literacy</a><a href="equity.html">equity</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/nsmq-riddles-science-math-benchmark.html">"NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models"</a></h3>
+            <div class="snippet">NSMQ Riddles: Educational Benchmark from GhanaCore ContributionBoateng et al. (2026) introduce NSMQ Riddles, a benchmark of 1.8K scientific and mathematical riddles drawn from 11 years of Ghana's National Science and Maths Quiz — a live TV competitio...</div>
+            <div class="tags"><a href="benchmark.html">benchmark</a><a href="k-12.html">k-12</a><a href="llm.html">llm</a><a href="efficacy-study.html">efficacy-study</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/chatgpt-programming-education-text-mining.html">"Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education"</a></h3>
+            <div class="snippet">Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming EducationGrume, J.C., Miranda, J.P.P., De Leon, A.P., Salenga, J.L., Hernandez, H.E., Castro, M.A.A., Maniago, V.G.M., Canlas, J.D., Quiambao,...</div>
+            <div class="tags"><a href="over-reliance.html">over-reliance</a><a href="academic-integrity.html">academic-integrity</a><a href="hallucination-risk.html">hallucination-risk</a><a href="feedback-loop.html">feedback-loop</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-powered-materials-discovery-ai-literacy.html">"Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment"</a></h3>
+            <div class="snippet">AI-Powered Materials Discovery and AI LiteracyDongming Mei, Katherine Moore, Ben Sayler (2026) — Framework for integrating AI literacy with materials science education.📄 Full text (arXiv)Key FindingsThis paper presents a workflow-aligned framework fo...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="equity-in-ai-education.html">equity-in-ai-education</a><a href="curriculum.html">curriculum</a><a href="metacognition.html">metacognition</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/q-learning-lab-rl-teaching.html">"Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis"</a></h3>
+            <div class="snippet">Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace AnalysisEkkachai Jueng (2026) — arXiv preprint.📄 Full text (arXiv)Presents Q-Learning Lab, a single-file tool that makes the Bellman update concrete by letting undergradu...</div>
+            <div class="tags"><a href="reinforcement-learning-education.html">reinforcement-learning-education</a><a href="active-learning.html">active-learning</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/simulating-students-java-programming-errors-llms.html">"Simulating Students' Java Programming Errors with Large Language Models"</a></h3>
+            <div class="snippet">Simulating Students' Java Programming Errors with Large Language ModelsKeramati, Cao, Mohammadi, Warschauer & Shi (2026) — University of California, Irvine.
+📄 Full text (arXiv)SummaryThis paper investigates whether large language models can serve as...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="learning-analytics.html">learning-analytics</a><a href="efficacy-study.html">efficacy-study</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/prompt-based-programming-lesson.html">"Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers"</a></h3>
+            <div class="snippet">Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User ProgrammersTran, Marwan & Price (2026) — cs.CY
+📄 Full text (arXiv)This study by Tran, Marwan & Price (2026) introduces and evaluates a 45-minute structu...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="teacher-role.html">teacher-role</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/tech-enhanced-tabletop-cybersecurity-education.html">"Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned"</a></h3>
+            <div class="snippet">Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons LearnedJan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026) — arXiv:2607.28179 (cs.CY, cs.CR)📄 Full text (arXiv)SummaryInnovative practice paper examining the i...</div>
+            <div class="tags"><a href="edtech-platform.html">edtech-platform</a><a href="higher-ed.html">higher-ed</a><a href="professional-training.html">professional-training</a><a href="active-learning.html">active-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-misconception-difficulty-easy-trap.html">"The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty"</a></h3>
+            <div class="snippet">The Easy Trap: Why LLMs Underestimate Misconception-Driven DifficultyHadi et al. (2026) — EDM 2026 (Educational Data Mining Conference).📄 Full text (arXiv)LLMs systematically underestimate the difficulty of misconception-driven items ('The Easy Trap'...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="formative-assessment.html">formative-assessment</a><a href="adaptive-learning.html">adaptive-learning</a><a href="feedback-loop.html">feedback-loop</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/pedagogy-ai-mistakes.html">"The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking"</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2605.05472 · localPedagogy of AI MistakesDefinition
+An instructional approach that deliberately leverages AI errors, hallucinations, and limitations as teaching tools to foster higher-order thinking. Rather than viewing AI mistak...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="ai-literacy.html">ai-literacy</a><a href="metacognition.html">metacognition</a><a href="active-learning.html">active-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/critical-engagement-code-completion.html">"To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks"</a></h3>
+            <div class="snippet">To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention ChecksHutchison, Applebaum, Angelikas, Patel et al. (2026) — cs.HC (ITiCSE 2026)
+📄 Full text (arXiv)Hutchison et al. (2026) develop...</div>
+            <div class="tags"><a href="formative-assessment.html">formative-assessment</a><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/socraticode-k12-programming-tutor.html">"Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study"</a></h3>
+            <div class="snippet">Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design StudyLucas, C., Bihani, A., Kukka, R., Tsai, C.-H., Sarker, J., & Imran, M. M. (2026) — University of Nebraska at Omaha, Pe...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="k-12.html">k-12</a><a href="scaffolding.html">scaffolding</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-engineering-education-balancing-act.html">"Using AI in engineering education: a balancing act, driven by clear purpose"</a></h3>
+            <div class="snippet">Using AI in engineering education: a balancing act, driven by clear purposeOlya Kudina (2026) — The Routledge Handbook of the Philosophy of Engineering, 2nd ed.  
+📄 Full text (arXiv)Based on a questionnaire of 100 higher-education engineering student...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="teacher-role.html">teacher-role</a><a href="ai-literacy.html">ai-literacy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/vismatic-secure-sandbox-cs-education.html">"VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring"</a></h3>
+            <div class="snippet">VISMATIC: Secure Containerized Framework for Process-Oriented CS Education MonitoringArroyo, López & Torres (2026) — Universidad de Granada.
+📄 Full text (arXiv)Addresses a critical tension in CS education: the widespread adoption of generative AI mak...</div>
+            <div class="tags"><a href="edtech-platform.html">edtech-platform</a><a href="academic-integrity.html">academic-integrity</a><a href="higher-ed.html">higher-ed</a><a href="formative-assessment.html">formative-assessment</a><a href="scaffolding.html">scaffolding</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/mixed-reality-engineering-learning.html">"Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning"</a></h3>
+            <div class="snippet">Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective LearningMohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman — submitted 1 Jul 2026
+📄 Full t...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="personalized-learning.html">personalized-learning</a><a href="active-learning.html">active-learning</a><a href="blended-learning.html">blended-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/bridging-instructional-design-framework-math.html">"WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators"</a></h3>
+            <div class="snippet">WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics EducatorsEstefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão (2026) — arXiv:2606.20934 (cs.CY)
+📄 Full text (arXiv)Cast...</div>
+            <div class="tags"><a href="teacher-role.html">teacher-role</a><a href="k-12.html">k-12</a><a href="scaffolding.html">scaffolding</a><a href="ai-literacy.html">ai-literacy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-metacognition-stem-review.html">AI Tools Scaffolding Metacognition in STEM</a></h3>
+            <div class="snippet">> 📄 Full text: MDPI · localAI Tools Scaffolding Metacognition in STEM> Systematic review (2005–2025) mapping how AI tools scaffold and co-regulate metacognitive development in STEM classrooms through bibliometric and qualitative synthesis.Scope and M...</div>
+            <div class="tags"><a href="metacognition.html">metacognition</a><a href="learning-analytics.html">learning-analytics</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="posthumanist.html">posthumanist</a><a href="ai-literacy.html">ai-literacy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/agentic-education-coding.html">Agentic Education with AI Coding Assistants</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2604.17460 · localAgentic Education with AI Coding Assistants> Using agentic AI workflows (Claude Code) to teach AI coding tools — structured pedagogy for tool mastery.The Gap in AI Coding EducationNaboulsi (2026) identifies a pa...</div>
+            <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="agentic-workflows.html">agentic-workflows</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="scaffolding.html">scaffolding</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/student-math-competence-clustering.html">Archetypes or ability? Clustering for modelling student mathematical competence</a></h3>
+            <div class="snippet">Archetypes or ability? Clustering for modelling student mathematical competenceMawdsley et al. (2026) — arXiv preprint.📄 Full text (arXiv)On 119,034 students across 13 UK national exams, Bernoulli Mixture Models found few distinct skill clusters — ov...</div>
+            <div class="tags"><a href="personalized-learning.html">personalized-learning</a><a href="learning-analytics.html">learning-analytics</a><a href="student-experience.html">student-experience</a><a href="adaptive-learning.html">adaptive-learning</a><a href="k-12.html">k-12</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-chatbots-cs-multiple-choice.html">Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?</a></h3>
+            <div class="snippet">Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?Markos Stamatakis, Omkar Gavali, Joshua Berger, Christian Wartena, Anett Hoppe, Ralph Ewerth (2026) — arXiv preprint  
+📄 Full text (arXiv)Investigate...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="automated-grading.html">automated-grading</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/assessment-team-problem-solving-computing-education.html">Assessment in Team Problem-Solving Exercises in Computing Education</a></h3>
+            <div class="snippet">Assessment in Team Problem-Solving Exercises in Computing Education
+Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026) — arXiv preprint. arXiv:2607.19209 [cs.CY].
+📄 Full text (arXiv)Tabletop exercises (TTXs) let learner tea...</div>
+            <div class="tags"><a href="formative-assessment.html">formative-assessment</a><a href="feedback-loop.html">feedback-loop</a><a href="learning-analytics.html">learning-analytics</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-handwritten-math-grading.html">Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs</a></h3>
+            <div class="snippet">Automated Grading of Handwritten Mathematics Using Vision-Capable LLMsJacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026) — University of Illinois Urbana-Champaign. International Conference on AI in Education (AIED 2026).📄 F...</div>
+            <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a><a href="efficacy-study.html">efficacy-study</a><a href="multimodal.html">multimodal</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/mllm-scientific-visualization-literacy.html">Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy</a></h3>
+            <div class="snippet">Benchmarking Multimodal Large Language Models for Scientific Visualization LiteracyPatrick Phuoc Do, Chau M. Ta, Chaoli Wang (2026) — arXiv preprint. arXiv:2607.15176.📄 Full text (arXiv)Multimodal large language models (MLLMs) are increasingly used t...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="ai-literacy.html">ai-literacy</a><a href="benchmark.html">benchmark</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/social-robot-study-companions.html">Co-Creating Buildable and Open Social Robot Study Companions with University Students</a></h3>
+            <div class="snippet">Co-Creating Buildable and Open Social Robot Study Companions with University StudentsFarnaz Baksh, Matevz B. Zorec, Feiazie Baksh, Karl Kruusamae (2026). ICSR + ART 2026, London
+📄 Full text (arXiv)Key FindingsDesign for Assembly/Disassembly intervent...</div>
+            <div class="tags"><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/confidence-aware-student-drawing-assessment.html">Confidence-Aware Automated Assessment of Student-Drawn Scientific Models</a></h3>
+            <div class="snippet">Confidence-Aware Automated Assessment of Student-Drawn Scientific ModelsLuyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). arXiv cs.AI preprint
+📄 Full text (arXiv)OverviewVision Transformer (ViT) with LoRA adapta...</div>
+            <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="formative-assessment.html">formative-assessment</a><a href="k-12.html">k-12</a><a href="efficacy-study.html">efficacy-study</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/concept-catalyst-engineering-scaffolds.html">Creating Learning Scaffolds for Engineering Design Using Concept Catalyst</a></h3>
+            <div class="snippet">Creating Learning Scaffolds for Engineering Design Using Concept CatalystMadhuri Singh, Gennie Mansi, Mark Owen Riedl (2026) — Georgia Institute of Technology. arXiv:2605.20511 [cs.HC] — Accepted as Interactive Demo at ISLS 2026📄 Full text (arXiv)Sin...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="scaffolding.html">scaffolding</a><a href="k-12.html">k-12</a><a href="teacher-role.html">teacher-role</a><a href="generative-ai.html">generative-ai</a><a href="instructional-design.html">instructional-design</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/educational-vlm-evaluation.html">Educational VLM Evaluation</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2603.00925 · localEducational VLM EvaluationBenchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to support learners — particularly struggling learners and those making errors. T...</div>
+            <div class="tags"><a href="assessment.html">assessment</a><a href="multimodal.html">multimodal</a><a href="benchmark.html">benchmark</a><a href="safety.html">safety</a><a href="ai-education.html">ai-education</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/visual-query-tracer-declarative-logic-learning.html">Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming</a></h3>
+            <div class="snippet">Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
+Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, et al. (2026) — arXiv preprint. arXiv:2607.18864 [cs.HC].
+📄 Full text (arXiv)Nemo Explain Visualizer (n...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="scaffolding.html">scaffolding</a><a href="active-learning.html">active-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-diverse-explanations-programming.html">Exploring the Value of Diverse LLM Explanations in Introductory Programming</a></h3>
+            <div class="snippet">Exploring the Value of Diverse LLM Explanations in Introductory ProgrammingBernstein, Denny, Leinonen, Patel et al. (2026) — cs.HC (SIGCSE Virtual 2026)
+📄 Full text (arXiv)Bernstein, Denny, Leinonen et al. (2026) investigate whether providing student...</div>
+            <div class="tags"><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="scaffolding.html">scaffolding</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/gender-differences-ai-literacy-deepfake.html">Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement</a></h3>
+            <div class="snippet">Gender Differences in AI Literacy Workshop Outcomes and Deepfake EngagementJake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026) — arXiv preprint  
+📄 Full text (arXiv)Examines gender differences in AI literacy, safety awareness, and...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="k-12.html">k-12</a><a href="equity.html">equity</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/dynamic-skill-matching-capstone-teams.html">Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment</a></h3>
+            <div class="snippet">Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference AlignmentBrandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, Santosh Chandrasekhar (2026) — CSCI 2025 (12th International Conference on Computational Science and...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="edtech-platform.html">edtech-platform</a><a href="higher-ed.html">higher-ed</a><a href="personalized-learning.html">personalized-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/solving-vs-evaluating-genai-solutions.html">Is Solving Better Than Evaluating GenAI Solutions?</a></h3>
+            <div class="snippet">Is Solving Better Than Evaluating GenAI Solutions?Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026) — arXiv:2607.27586 (cs.CY, cs.AI)📄 Full text (arXiv)SummaryRandomized A/B crossover study (N=22) in upper-division computing courses comparin...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="efficacy-study.html">efficacy-study</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-design-problems-hot-pjbl.html">LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning</a></h3>
+            <div class="snippet">LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based LearningAhmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026) — arXiv preprint.📄 Full text (arXiv)Introduces 'design problems' (DPs): concise, scenario-based prom...</div>
+            <div class="tags"><a href="project-based-learning.html">project-based-learning</a><a href="generative-ai.html">generative-ai</a><a href="formative-assessment.html">formative-assessment</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/multimodal-ai-tutoring.html">Multimodal AI Tutoring in STEM</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2605.04131 · localMultimodal AI Tutoring in STEM> General-purpose LLMs achieve near-ceiling accuracy (~96%) on text-only physics problems, but accuracy drops to ~74% on image-rich multimodal problems due to the Multimodal Interfe...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="higher-ed.html">higher-ed</a><a href="k-12.html">k-12</a><a href="equity.html">equity</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/learner-ai-interaction-patterns-oop.html">Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course</a></h3>
+            <div class="snippet">Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming CourseMarina Lepp (2026) — arXiv:2607.24755 (cs.HC, cs.AI, cs.CY)📄 Full text (arXiv)SummaryExamines how different forms of learner-AI interaction relate to...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a><a href="learning-analytics.html">learning-analytics</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/programming-its.html">Programming Intelligent Tutoring Systems</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2604.16117 · localProgramming Intelligent Tutoring Systems> ITS for programming education with individualized hints, addressing the scarcity of human tutors for practice-intensive coding courses.SCRIPT: Python Programming TutorSC...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="higher-ed.html">higher-ed</a><a href="adaptive-learning.html">adaptive-learning</a><a href="formative-assessment.html">formative-assessment</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/quantum-education-its.html">Quantum Education Intelligent Tutoring</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2604.24807 · localQuantum Education Intelligent Tutoring> Knowledge-graph-augmented ITS for quantum computing education, addressing instructor scarcity and concept counterintuitiveness.System ArchitectureFrom Prototype to Classro...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="higher-ed.html">higher-ed</a><a href="adaptive-learning.html">adaptive-learning</a><a href="knowledge-graph.html">knowledge-graph</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/representation-robustness-llm-math-problem-solving.html">Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving</a></h3>
+            <div class="snippet">Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving
+Nath, Graf, Zhang & Zapata-Rivera (2026) — UC Santa Cruz; ETS Research Institute; University of Michigan. HCI International 202...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="benchmark.html">benchmark</a><a href="assessment-validity.html">assessment-validity</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/socratic-ai-dialogue.html">Socratic AI Dialogue</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2508.14778 · local · arXiv:2507.06878 · localSocratic AI Dialogue> Socratic dialogue — asking structured questions rather than providing answers — is one of the strongest pedagogical scaffolds for deep learning. When automated vi...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="scaffolding.html">scaffolding</a><a href="active-learning.html">active-learning</a><a href="higher-ed.html">higher-ed</a><a href="formative-assessment.html">formative-assessment</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/stem-education.html">Stem Education</a></h3>
+            <div class="snippet">Stem EducationAI applications in science, technology, engineering, and mathematics educationConnectionsRelated Pages
+  - generative-ai-reduced-study-time-math — Math problem study time decline linked to generative AI across all grade levels (2026)
+an...</div>
+            <div class="tags"><a href="ai-education.html">ai-education</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-generated-instructional-videos-computing-ed.html">Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education</a></h3>
+            <div class="snippet">Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing EducationEsse Ciego, Shubbhi Taneja, Wilson Wong, Amanpreet Kapoor (2026) — arXiv:2607.28203 (cs.HC)📄 Full text (arXiv)SummaryStudies student perceptions of...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/structured-llm-feedback-programming.html">The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance</a></h3>
+            <div class="snippet">The Effects of Structured LLM-Generated Feedback on Programming Assignment PerformanceMihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026) — Aalto University, University of Pitt...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="scaffolding.html">scaffolding</a><a href="efficacy-study.html">efficacy-study</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/teacher-control-ai-generation-math-visuals.html">When Should Teachers Control AI Generation for Mathematics Visuals?</a></h3>
+            <div class="snippet">Teacher Control of AI-Generated Mathematics VisualsZhengxu Li, Junling Wang, April Yi Wang (2026) — ACM L@S 2026. Study of when teachers should control AI-generated classroom visuals.📄 Full text (arXiv)Key FindingsGenerative AI can help teachers rapi...</div>
+            <div class="tags"><a href="teacher-role.html">teacher-role</a><a href="ai-generated-content.html">ai-generated-content</a><a href="curriculum.html">curriculum</a><a href="pedagogy.html">pedagogy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-stem-bibliometric-trends.html">Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda</a></h3>
+            <div class="snippet">Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future AgendaChan, Chen, Hong, Song, Wang & Xu (2026) — ISLS 2026 (arXiv preprint).📄 Full text (arXiv)STEM education faces challenges in personalization and...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="scaffolding.html">scaffolding</a><a href="adaptive-learning.html">adaptive-learning</a><a href="learning-analytics.html">learning-analytics</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

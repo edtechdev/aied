@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>knowledge-tracing — AI in Education Wiki</title>
+    <title>knowledge-tracing — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,42 +23,51 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 knowledge-tracing</h1>
-        <p>A focused topic with 5 articles, including Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights and related work.</p>
+        <h1>🏷️ knowledge-tracing</h1>
+        <p>6 article(s) tagged with <strong>knowledge-tracing</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (5)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/pattern-kc-programming-recommendation.html">Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components</a>
-                <div class="snippet">Hoq, Pitts, Duan, Narayanan, Hassany, Lan, Brusilovsky & Akram (2026) — CSEDM Workshop 2026 (arXiv preprint). 📄 Full text (arXiv) Introductory programming instruction relies on hands-on practice and s</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/knowledge-gap-detection-ai-tas.html">Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs</a>
-                <div class="snippet">Youssef Medhat, Junsoo Park, Ploy Thajchayapong, Ashok K. Goel — Accepted at CSEDM/EDM 2026 📄 Full text (arXiv) This paper introduces a pipeline that maps student questions directed at a conversationa</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/skill-acquisition-without-temporal-info.html">Estimating Learners' Skill Acquisition Without Temporal Information</a>
-                <div class="snippet">Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, Hisashi Kashima (2026) — AIED 2026, Seoul 📄 Full text (arXiv) Nagai et al. (2026) tackle the practical problem that many real-world educati</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/cold-start-knowledge-tracing-safeinsights.html">Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights</a>
-                <div class="snippet">Jiayi Zhang, Ryan S. Baker, Debshila Basu Mallick, Cristina Heffernan, Neil Heffernan — cs.HC 📄 Full text (arXiv) This paper replicates and extends prior work on the cold-start problem in knowledge tr</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/reinforcement-learning-measurement-model-assessment.html">Reinforcement Learning Measurement Model</a>
-                <div class="snippet">Wenqian Xu, Feng Ji (2026) — RL-based measurement model for interactive assessments. 📄 Full text (arXiv) ## Key Findings Interactive assessments generate sequential process data that conventional item</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/huang-interpretable-knowledge-tracing-2026.html">"Interpretable Knowledge Tracing"</a></h3>
+            <div class="snippet">Interpretable Knowledge TracingThis is a stub page for "Interpretable Knowledge Tracing". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Relat...</div>
+            <div class="tags"><a href="interpretability.html">interpretability</a><a href="student-modeling.html">student-modeling</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/pattern-kc-programming-recommendation.html">Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components</a></h3>
+            <div class="snippet">Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge ComponentsHoq, Pitts, Duan, Narayanan, Hassany, Lan, Brusilovsky & Akram (2026) — CSEDM Workshop 2026 (arXiv preprint).📄 Full text (arXiv)Introductory programming...</div>
+            <div class="tags"><a href="personalized-learning.html">personalized-learning</a><a href="adaptive-learning.html">adaptive-learning</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="programming-its.html">programming-its</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/knowledge-gap-detection-ai-tas.html">Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs</a></h3>
+            <div class="snippet">Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite GraphsYoussef Medhat, Junsoo Park, Ploy Thajchayapong, Ashok K. Goel — Accepted at CSEDM/EDM 2026
+📄 Full text (arXiv)This paper introduces a pipeline that maps...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="student-modeling.html">student-modeling</a><a href="higher-ed.html">higher-ed</a><a href="learning-analytics.html">learning-analytics</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/skill-acquisition-without-temporal-info.html">Estimating Learners' Skill Acquisition Without Temporal Information</a></h3>
+            <div class="snippet">Estimating Learners' Skill Acquisition Without Temporal InformationRyosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, Hisashi Kashima (2026) — AIED 2026, Seoul
+📄 Full text (arXiv)Nagai et al. (2026) tackle the practical problem that many re...</div>
+            <div class="tags"><a href="student-modeling.html">student-modeling</a><a href="adaptive-learning.html">adaptive-learning</a><a href="learning-analytics.html">learning-analytics</a><a href="formative-assessment.html">formative-assessment</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/cold-start-knowledge-tracing-safeinsights.html">Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights</a></h3>
+            <div class="snippet">Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsightsJiayi Zhang, Ryan S. Baker, Debshila Basu Mallick, Cristina Heffernan, Neil Heffernan — cs.HC
+📄 Full text (arXiv)This paper replicates and extends prior w...</div>
+            <div class="tags"><a href="learning-analytics.html">learning-analytics</a><a href="student-modeling.html">student-modeling</a><a href="benchmark.html">benchmark</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/reinforcement-learning-measurement-model-assessment.html">Reinforcement Learning Measurement Model</a></h3>
+            <div class="snippet">Reinforcement Learning Measurement Model for Interactive AssessmentWenqian Xu, Feng Ji (2026) — RL-based measurement model for interactive assessments.📄 Full text (arXiv)Key FindingsInteractive assessments generate sequential process data that conven...</div>
+            <div class="tags"><a href="assessment.html">assessment</a><a href="learning-analytics.html">learning-analytics</a><a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a><a href="benchmark.html">benchmark</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

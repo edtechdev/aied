@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>safety — AI in Education Wiki</title>
+    <title>safety — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,38 +23,38 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 safety</h1>
-        <p>A niche topic with 4 articles, including AI Tutor Safety and Pedagogical Harms.</p>
+        <h1>🏷️ safety</h1>
+        <p>4 article(s) tagged with <strong>safety</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (4)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/ai-tutor-safety-harms.html">AI Tutor Safety and Pedagogical Harms</a>
-                <div class="snippet">> 📄 Full text: arXiv:2603.17373 · local > "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes tha</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/educational-vlm-evaluation.html">Educational VLM Evaluation</a>
-                <div class="snippet">> 📄 Full text: arXiv:2603.00925 · local Benchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to *support learners* — particularly struggling learners</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/formative-assessment.html">Formative Assessment in AI Education</a>
-                <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2504.20082 · local · arXiv:2507.04295 · local Assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI sys</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/human-in-the-loop-ai.html">Human-in-the-Loop AI for Education</a>
-                <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2409.03512 · local Educational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality </div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/ai-tutor-safety-harms.html">AI Tutor Safety and Pedagogical Harms</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2603.17373 · localAI Tutor Safety and Pedagogical Harms> "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that all tested m...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="adaptive-learning.html">adaptive-learning</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="bias-mitigation.html">bias-mitigation</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/educational-vlm-evaluation.html">Educational VLM Evaluation</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2603.00925 · localEducational VLM EvaluationBenchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to support learners — particularly struggling learners and those making errors. T...</div>
+            <div class="tags"><a href="assessment.html">assessment</a><a href="multimodal.html">multimodal</a><a href="benchmark.html">benchmark</a><a href="stem-education.html">stem-education</a><a href="ai-education.html">ai-education</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/formative-assessment.html">Formative Assessment in AI Education</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2504.20082 · local · arXiv:2507.04295 · localFormative Assessment in AI EducationAssessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can genera...</div>
+            <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-education.html">ai-education</a><a href="assessment.html">assessment</a><a href="evaluation.html">evaluation</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/human-in-the-loop-ai.html">Human-in-the-Loop AI for Education</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2409.03512 · localHuman-in-the-Loop AI for EducationEducational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling pro...</div>
+            <div class="tags"><a href="human-in-the-loop.html">human-in-the-loop</a><a href="assessment.html">assessment</a><a href="ai-education.html">ai-education</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

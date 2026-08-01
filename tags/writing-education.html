@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>writing-education — AI in Education Wiki</title>
+    <title>writing-education — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,98 +23,140 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 writing-education</h1>
-        <p>A growing research area with 19 articles covering Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams, AI tools in Arab University English classrooms: Looking back and forward and related topics.</p>
+        <h1>🏷️ writing-education</h1>
+        <p>22 article(s) tagged with <strong>writing-education</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (19)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/humanlike-ai-collaborative-writing.html">\"It Felt a Bit Eerie\": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent</a>
-                <div class="snippet">Yin, Chiang, Cox & Xiao (2026) — University of British Columbia. 📄 Full text (arXiv) This comparative user study (n=48) examines how the temporal and visual dimensions of AI collaboration shape the ex</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/student-rationalization-ai-writing.html">\"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing</a>
-                <div class="snippet">Jiyoon Kim et al. (2026) — arXiv preprint. *(catch-up — submitted 2026-05-27)* 📄 Full text (arXiv) Generative AI challenges academic integrity not only by enabling students to delegate substantial por</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/writing-education.html">AI in Writing Education</a>
-                <div class="snippet">> Stub — pending source ingestion. AI applications in writing instruction, composition feedback, and argumentation development. ## Connections ## Related Pages - ai-assisted-writing-research-teams — 6</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-tools-arab-english-classrooms.html">AI tools in Arab University English classrooms: Looking back and forward</a>
-                <div class="snippet">Shormani & Alshawsh (2026) — arXiv preprint. 📄 Full text (arXiv) This paper aims to synthesize empirical research on AI tools used to support English as a second/foreign language (EL2) learners in Ara</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/aiawe-automated-writing-evaluation.html">AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models</a>
-                <div class="snippet">Gayed (2026) — Waseda University. 📄 Full text (arXiv) Gayed presents AiAWE, an open-source automated-grading|automated writing evaluation (AWE) system that scores argumentative essays using a LoRA-ada</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/gender-bias-transfer-llm-writing.html">Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing</a>
-                <div class="snippet">Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque (2026). arXiv cs.CL 📄 Full text (arXiv) ## Key Findings Gender-biased LLM prompts transfer bias into student-written career ess</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/daily-digest-2026-07-20.html">Daily Digest: 2026-07-20</a>
-                <div class="snippet">Scan window 2026-07-17 → 2026-07-20 across arXiv cs.CY, arXiv cs.HC, Semantic Scholar, and OpenAlex. ## New Pages - repeated-ai-writing-feedback-semester — Student Evaluation of Repeated AI Feedback A</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-reliance-types-undergrad.html">Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University</a>
-                <div class="snippet">Hossain (2026) — cs.CY / cs.AI / cs.HC 📄 Full text (arXiv) Hossain (2026) develops a typology of LLM reliance among undergraduate writers at a minority-serving R1 institution, identifying four distinc</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/foxglove-writing-feedback-experts-llms.html">FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs</a>
-                <div class="snippet">Liu, Song, Gallagher, Sterman & August (2026) — University of Illinois Urbana-Champaign / Montana State University. 📄 Full text (arXiv) Introduces FOXGLOVE, a dataset of 696 feedback comments by train</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-educational-question-cognitive-depth.html">From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions</a>
-                <div class="snippet">Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026) — Institution. 📄 Full text (arXiv) LLM-generated educational questions show varying cognitive depth; m</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/cyberscholar-genai-writing-feedback.html">Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar</a>
-                <div class="snippet">Zheldibayeva, R., de Oliveira Nascimento, A. K., Castro, V., Cope, B., & Kalantzis, M. (2026) — University of Illinois Urbana-Champaign. arXiv preprint. 📄 Full text (arXiv) ## Key Finding RAG-based ru</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/genai-reliance-types-scale.html">Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)</a>
-                <div class="snippet">Shahin Hossain, Tukhbita Afroz Nawmi (2026) — arXiv preprint. arXiv:2607.14301. 📄 Full text (arXiv) As generative AI (GenAI) becomes embedded in undergraduate academic writing, *how* students rely on </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/mindcopilot-llm-co-writing.html">MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing</a>
-                <div class="snippet">Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026) — University of Science and Technology of China / Shanghai A</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/prober-ai-inquiry-writing.html">Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing</a>
-                <div class="snippet">> 📄 Full text: arXiv:2605.05598 · local ## Definition A web-based writing environment that inverts the AI-tutoring paradigm: rather than generating improved text for students, Prober.ai constrains an </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/cognitive-offloading-llm-synthesis-writing.html">Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content</a>
-                <div class="snippet">Oleksandra Poquet, Mani Shankar Nanduri, Maria Ximena Salinas Loyer, Matthias Stadler, Michael Sailer, Jelena Jovanovic — Accepted at EC-TEL 2026 — cs.HC, cs.ET 📄 Full text (arXiv) This study compares</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/psyscore-essay-scoring-zpd-feedback.html">PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback</a>
-                <div class="snippet">Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng (2026). East China Normal University / arXiv cs.CL preprint 📄 Full text (arXiv) ## Overview PsyScore integrates diagnostic assessment with inst</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-assisted-writing-research-teams.html">Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams</a>
-                <div class="snippet">Wang et al. (2026) — Peking University / Sun Yat-sen University. *arXiv preprint*. 📄 Full text (arXiv) AI-Assisted Writing Transforms Research Teams challenges the longstanding "Big Science" trend tow</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/repeated-ai-writing-feedback-semester.html">Student Evaluation of Repeated AI Feedback Across a Semester of Writing</a>
-                <div class="snippet">Karjus, A., Leoste, J., & Oun, T. (2026) — arXiv:2607.16115 (cs.CY, cs.HC). 📄 Full text (arXiv) This short paper provides rare descriptive classroom evidence on what happens when students repeatedly u</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/self-referential-l2-writing-llm-assessment.html">Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs</a>
-                <div class="snippet">## Core Contribution Bannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from inter-learner ranking to intra-learner profiling. Instead of asking "how does this essay rank</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/writing-education.html">"AI in Writing Education"</a></h3>
+            <div class="snippet">AI in Writing Education> Stub — pending source ingestion. AI applications in writing instruction, composition feedback, and argumentation development.ConnectionsRelated Pages
+ai-assisted-writing-research-teams — 6 of 8 papers in May 28 scan
+mindcopil...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-tools-arab-english-classrooms.html">"AI tools in Arab University English classrooms: Looking back and forward"</a></h3>
+            <div class="snippet">AI tools in Arab University English classrooms: Looking back and forwardShormani & Alshawsh (2026) — arXiv preprint.📄 Full text (arXiv)This paper aims to synthesize empirical research on AI tools used to support English as a second/foreign language (...</div>
+            <div class="tags"><a href="language-learning.html">language-learning</a><a href="higher-ed.html">higher-ed</a><a href="ai-literacy.html">ai-literacy</a><a href="over-reliance.html">over-reliance</a><a href="teacher-role.html">teacher-role</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/aiawe-automated-writing-evaluation.html">"AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models"</a></h3>
+            <div class="snippet">AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned ModelsGayed (2026) — Waseda University.
+📄 Full text (arXiv)Gayed presents AiAWE, an open-source automated writing evaluation (AWE) system that scores a...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="automated-grading.html">automated-grading</a><a href="open-source.html">open-source</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/gender-bias-transfer-llm-writing.html">"Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing"</a></h3>
+            <div class="snippet">Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student WritingAriyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque (2026). arXiv cs.CL
+📄 Full text (arXiv)Key FindingsGender-biased LLM prompts transfer b...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="bias-mitigation.html">bias-mitigation</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/daily-digest-2026-07-20.html">"Daily Digest: 2026-07-20"</a></h3>
+            <div class="snippet">Daily Digest: 2026-07-20Scan window 2026-07-17 → 2026-07-20 across arXiv cs.CY, arXiv cs.HC, Semantic Scholar, and OpenAlex.New Pages
+repeated-ai-writing-feedback-semester — Student Evaluation of Repeated AI Feedback Across a Semester of Writing.
+edu...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="over-reliance.html">over-reliance</a><a href="stem-education.html">stem-education</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/foxglove-writing-feedback-experts-llms.html">"FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs"</a></h3>
+            <div class="snippet">FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMsLiu, Song, Gallagher, Sterman & August (2026) — University of Illinois Urbana-Champaign / Montana State University.
+📄 Full text (arXiv)Introduces FOXGLOVE, a dataset of 696 feedb...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="formative-assessment.html">formative-assessment</a><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="k-12.html">k-12</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-reliance-types-undergrad.html">"Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University"</a></h3>
+            <div class="snippet">Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 UniversityHossain (2026) — cs.CY / cs.AI / cs.HC
+📄 Full text (arXiv)Hossain (2026) develops a typology of LLM reliance among u...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="higher-ed.html">higher-ed</a><a href="over-reliance.html">over-reliance</a><a href="student-experience.html">student-experience</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-educational-question-cognitive-depth.html">"From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions"</a></h3>
+            <div class="snippet">From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational QuestionsXiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026) — Institution.📄 Full text (arXiv)LLM-generated educa...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="automated-grading.html">automated-grading</a><a href="assessment.html">assessment</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/cyberscholar-genai-writing-feedback.html">"Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar"</a></h3>
+            <div class="snippet">Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholarZheldibayeva, R., de Oliveira Nascimento, A. K., Castro, V., Cope, B., & Kalantzis, M. (2026) — University of Illinois Urbana-Champaign. arXiv preprint....</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="k-12.html">k-12</a><a href="formative-assessment.html">formative-assessment</a><a href="feedback-loop.html">feedback-loop</a><a href="teacher-role.html">teacher-role</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/genai-linguistic-diversity-academic-writing.html">"Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes"</a></h3>
+            <div class="snippet">Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World EnglishesKingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026) — arXiv:2607.28505 (cs.CL)📄 Full text (arXiv)SummaryStru...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="equity.html">equity</a><a href="higher-ed.html">higher-ed</a><a href="language-learning.html">language-learning</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/icle-plus-plus-essay-scoring.html">"ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring"</a></h3>
+            <div class="snippet">ICLE++: Modeling Fine-Grained Traits for Holistic Essay ScoringShengjie Li, Vincent Ng (2026) — arXiv:2607.27671 (cs.CL)📄 Full text (arXiv)SummaryIntroduces ICLE++, a corpus of persuasive student essays annotated with both holistic scores and trait-s...</div>
+            <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a><a href="benchmark.html">benchmark</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/genai-reliance-types-scale.html">"Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)"</a></h3>
+            <div class="snippet">Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)Shahin Hossain, Tukhbita Afroz Nawmi (2026) — arXiv preprint. arXiv:2607.14301.📄 Full text...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="academic-integrity.html">academic-integrity</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="over-reliance.html">over-reliance</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/mindcopilot-llm-co-writing.html">"MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing"</a></h3>
+            <div class="snippet">MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-WritingYouqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026) — University of Science and Techn...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="human-in-the-loop-ai.html">human-in-the-loop-ai</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/prober-ai-inquiry-writing.html">"Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing"</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2605.05598 · localProber.ai: Gated Inquiry Writing FeedbackDefinition
+A web-based writing environment that inverts the AI-tutoring paradigm: rather than generating improved text for students, Prober.ai constrains an LLM to ask on...</div>
+            <div class="tags"><a href="scaffolding.html">scaffolding</a><a href="ai-literacy.html">ai-literacy</a><a href="higher-ed.html">higher-ed</a><a href="formative-assessment.html">formative-assessment</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/cognitive-offloading-llm-synthesis-writing.html">"Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content"</a></h3>
+            <div class="snippet">Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. contentOleksandra Poquet, Mani Shankar Nanduri, Maria Ximena Salinas Loyer, Matthias Stadler, Michael Sailer, Jelena Jovanovic — Accepted at EC-TEL 2026 — cs.HC, cs.ET
+📄 Ful...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a><a href="ai-literacy.html">ai-literacy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/psyscore-essay-scoring-zpd-feedback.html">"PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback"</a></h3>
+            <div class="snippet">PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded FeedbackWei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng (2026). East China Normal University / arXiv cs.CL preprint
+📄 Full text (arXiv)OverviewP...</div>
+            <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="formative-assessment.html">formative-assessment</a><a href="feedback-loop.html">feedback-loop</a><a href="scaffolding.html">scaffolding</a><a href="llm.html">llm</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-assisted-writing-research-teams.html">"Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams"</a></h3>
+            <div class="snippet">Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research TeamsWang et al. (2026) — Peking University / Sun Yat-sen University. arXiv preprint.📄 Full text (arXiv)AI-Assisted Writing Transforms Research Teams challenges the lon...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="faculty-development.html">faculty-development</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/generative-refusal-ai-tools-for-thought.html">"Stop Writing for Me: Generative Refusal in AI Tools for Thought"</a></h3>
+            <div class="snippet">Stop Writing for Me: Generative Refusal in AI Tools for ThoughtSora Kang (2026) — arXiv:2607.24751 (cs.HC)📄 Full text (arXiv)SummaryPosition paper exploring "Generative Refusal" — AI tools that strategically withhold text generation to demand user ar...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="scaffolding.html">scaffolding</a><a href="educational-theory.html">educational-theory</a><a href="over-reliance.html">over-reliance</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/self-referential-l2-writing-llm-assessment.html">"Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs"</a></h3>
+            <div class="snippet">Self-Referential L2 Writing Assessment with LLMsCore ContributionBannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from inter-learner ranking to intra-learner profiling. Instead of asking "how does this essay rank again...</div>
+            <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a><a href="ai-education.html">ai-education</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/humanlike-ai-collaborative-writing.html">"\"It Felt a Bit Eerie\": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent"</a></h3>
+            <div class="snippet">Humanlike AI in Collaborative WritingYin, Chiang, Cox & Xiao (2026) — University of British Columbia.📄 Full text (arXiv)This comparative user study (n=48) examines how the temporal and visual dimensions of AI collaboration shape the experience of wri...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="student-experience.html">student-experience</a><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/student-rationalization-ai-writing.html">"\"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing"</a></h3>
+            <div class="snippet">"It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic WritingJiyoon Kim et al. (2026) — arXiv preprint. (catch-up — submitted 2026-05-27)📄 Full text (arXiv)Generative AI challenges academic integrity not only by enablin...</div>
+            <div class="tags"><a href="academic-integrity.html">academic-integrity</a><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a><a href="ai-literacy.html">ai-literacy</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/repeated-ai-writing-feedback-semester.html">Student Evaluation of Repeated AI Feedback Across a Semester of Writing</a></h3>
+            <div class="snippet">Student Evaluation of Repeated AI Feedback Across a Semester of WritingKarjus, A., Leoste, J., & Oun, T. (2026) — arXiv:2607.16115 (cs.CY, cs.HC).
+📄 Full text (arXiv)This short paper provides rare descriptive classroom evidence on what happens when s...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a><a href="feedback-loop.html">feedback-loop</a><a href="over-reliance.html">over-reliance</a><a href="formative-assessment.html">formative-assessment</a><a href="ai-literacy.html">ai-literacy</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

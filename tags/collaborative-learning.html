@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>collaborative-learning — AI in Education Wiki</title>
+    <title>collaborative-learning — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,38 +23,50 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 collaborative-learning</h1>
-        <p>A niche topic with 4 articles, including CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy.</p>
+        <h1>🏷️ collaborative-learning</h1>
+        <p>6 article(s) tagged with <strong>collaborative-learning</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (4)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/neurodivergent-computing-students.html">\"I can't read your mind\": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning</a>
-                <div class="snippet">Cynthia Zastudil, Srishty Muthusekaran, Rayhona Nasimova, Stephen MacNeil (2026) — Temple University. *arXiv preprint (cs.HC)*. 📄 Full text (arXiv) This study surveyed 24 neurodivergent computing stud</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/teacher-student-agency-orchestration.html">Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing</a>
-                <div class="snippet">Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026) — Carnegie Mellon University; University of Washington; Ruhr-Universität Bochum. arXiv:2605.18761 [cs.HC] — Accepted at CSCW</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/clara-collaboration-literacy-dashboard.html">CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy</a>
-                <div class="snippet">Xie, D., Anderson, K., Eze, T., Lin, C., Shin, B., & Worsley, M. (2026) — Northwestern University. AIED 2026. 📄 Full text (arXiv) ## Key Finding Agentic analytics using AI-produced concept-map artifac</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/less-deliberate-teams-llm.html">Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work</a>
-                <div class="snippet">Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal — ACM SIGCSE Virtual 2026, submitted 29 Jun 2026 📄 Full text (arXiv) Semester-long study of 96 CS students shows LLM usage dropped 42.7</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/teacher-student-agency-orchestration.html">"Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing"</a></h3>
+            <div class="snippet">Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic PairingKexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026) — Carnegie Mellon University; University of Washington; Ruhr-Universitä...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="teacher-role.html">teacher-role</a><a href="student-experience.html">student-experience</a><a href="k-12.html">k-12</a><a href="human-in-the-loop.html">human-in-the-loop</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/clara-collaboration-literacy-dashboard.html">"CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy"</a></h3>
+            <div class="snippet">CLARA: An AI-Augmented Analytics Dashboard for Collaboration LiteracyXie, D., Anderson, K., Eze, T., Lin, C., Shin, B., & Worsley, M. (2026) — Northwestern University. AIED 2026.📄 Full text (arXiv)Key Finding
+Agentic analytics using AI-produced conce...</div>
+            <div class="tags"><a href="learning-analytics.html">learning-analytics</a><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a><a href="edtech-platform.html">edtech-platform</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/hingle-collaborative-ai-literacy-2025.html">"Collaborative AI Literacy Framework"</a></h3>
+            <div class="snippet">Collaborative AI Literacy FrameworkThis is a stub page for "Collaborative AI Literacy Framework". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is process...</div>
+            <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="framework.html">framework</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/less-deliberate-teams-llm.html">"Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work"</a></h3>
+            <div class="snippet">Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative WorkSehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal — ACM SIGCSE Virtual 2026, submitted 29 Jun 2026
+📄 Full text (arXiv)Semester-long study of 96 CS studen...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a><a href="engagement-metrics.html">engagement-metrics</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/golrang-propact-pair-programming-2026.html">"ProPACT: Pair Programming with AI"</a></h3>
+            <div class="snippet">ProPACT: Pair Programming with AIThis is a stub page for "ProPACT: Pair Programming with AI". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.R...</div>
+            <div class="tags"><a href="pair-programming.html">pair-programming</a><a href="cs-education.html">cs-education</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/neurodivergent-computing-students.html">"\"I can't read your mind\": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning"</a></h3>
+            <div class="snippet">"I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active LearningCynthia Zastudil, Srishty Muthusekaran, Rayhona Nasimova, Stephen MacNeil (2026) — Temple University. arXiv preprint (cs.HC).📄 Full...</div>
+            <div class="tags"><a href="student-experience.html">student-experience</a><a href="cs-education.html">cs-education</a><a href="special-education.html">special-education</a><a href="equity.html">equity</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

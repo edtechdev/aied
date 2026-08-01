@@ -3,7 +3,7 @@ title: "Agents That Teach: Designing Incidental Learning Back into AI-Assisted S
 created: 2026-07-08
 updated: 2026-07-08
 type: concept
-tags: [llm, generative-ai, agentic-workflows-education, over-reliance, cs-education, higher-ed, professional-training, self-regulated-learning]
+tags: [agentic-ai, cs-education, generative-ai, higher-ed, llm, over-reliance, professional-training, self-regulated-learning]
 sources: [raw/papers/2607.06101.md]
 confidence: high
 ---
