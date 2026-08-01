@@ -35,3 +35,4 @@ Adaptive learning refers to educational technologies that dynamically adjust con
 - [[student-math-competence-clustering]] — 119K students across 13 UK exams: overall ability dominates skill clusters; simp...
 - [[llm-judged-helpfulness-pedagogy-signal]]
 - [[memdora-ai-spaced-repetition]]
+- [[ai-vocational-education-training-review]]

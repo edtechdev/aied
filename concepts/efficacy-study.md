@@ -15,3 +15,4 @@ confidence: low
 ## Related Pages
 - [[anvil-ai-educational-animations]]
 - [[llm-intervention-design-cs-review]]
+- [[ai-vocational-education-training-review]]

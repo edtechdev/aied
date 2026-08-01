@@ -1,6 +1,28 @@
 # Journal
 
-**Last updated:** 2026-07-31 | **Total entries:** 399
+**Last updated:** 2026-08-01 | **Total entries:** 404
+
+## 2026-08-01
+
+- ● [[ai-vocational-education-training-review]] — raw/articles/caeai-ai-vet-review.md
+  **Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness**
+  Tags: [professional-training, efficacy-study, intelligent-tutoring, generative-ai, adaptive-learning]
+
+- ● [[genai-mindtool-generative-learning]] — raw/articles/caeai-genai-mindtool.md
+  **Generative AI (GenAI) as a mindtool that supports generative learning (GL)**
+  Tags: [generative-ai, instructional-design, higher-ed, learning-theory, scaffolding]
+
+- ● [[genai-runaway-object-math-higher-ed]] — raw/articles/caeai-genai-runaway-object.md
+  **GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics**
+  Tags: [generative-ai, higher-ed, stem-education, faculty-development, educational-theory]
+
+- ● [[multimodal-prompting-ai-literacy]] — raw/articles/caeai-multimodal-prompting.md
+  **Students' multimodal prompting practices as epistemic work in AI literacy development**
+  Tags: [ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal]
+
+- ● [[vetting-dual-llm-safety-education]] — raw/articles/caeai-vetting-safety.md
+  **VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI**
+  Tags: [ai-tutor-safety-harms, k-12, llm, pedagogical-safety, generative-ai]
 
 ## 2026-07-31
 
