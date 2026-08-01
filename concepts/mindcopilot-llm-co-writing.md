@@ -3,7 +3,7 @@ title: "MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Wr
 created: 2026-05-25
 updated: 2026-05-25
 type: concept
-tags: ["writing-education", "llm", "feedback-loop", "higher-ed", "human-in-the-loop-ai"]
+tags: [feedback-loop, higher-ed, human-in-the-loop, llm, writing-education]
 sources: [raw/papers/2605.23535.md]
 confidence: high
 ---

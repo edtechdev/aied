@@ -3,7 +3,7 @@ title: "Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generate
 created: 2026-07-14
 updated: 2026-07-14
 type: concept
-tags: [reinforcement-learning-education, active-learning, stem-education, higher-ed]
+tags: [active-learning, higher-ed, reinforcement-learning, stem-education]
 sources: [raw/papers/2607.10802.md]
 confidence: medium
 ---

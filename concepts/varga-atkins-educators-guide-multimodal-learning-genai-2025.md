@@ -3,7 +3,7 @@ title: "Educator's Guide to Multimodal Learning with GenAI"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [multimodal-learning, generative-ai, educator-guide]
+tags: [educator-guide, generative-ai, multimodal]
 sources: [raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
 confidence: low
 ---

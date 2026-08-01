@@ -3,7 +3,7 @@ title: "Collaborative AI Literacy Framework"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [ai-literacy, collaborative-learning, framework]
+tags: [ai-literacy, collaborative-learning, instructional-design]
 sources: [raw/papers/hingle-collaborative-ai-literacy-2025.md]
 confidence: low
 ---

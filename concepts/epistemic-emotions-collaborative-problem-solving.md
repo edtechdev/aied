@@ -3,7 +3,7 @@ title: Ordered Network Analysis of Epistemic Emotions during Collaborative Probl
 created: 2026-07-28
 updated: 2026-07-28
 type: concept
-tags: [affect, learning-analytics, collaboration]
+tags: [affect, human-ai-collaboration, learning-analytics]
 sources: [raw/papers/2607.23317.md]
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "Confidence-Aware Automatic Short Answer Grading"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [automatic-short-answer-grading, confidence, assessment]
+tags: [assessment, automated-grading, confidence]
 sources: [raw/papers/cong-confidence-asag-2026.md]
 confidence: low
 ---

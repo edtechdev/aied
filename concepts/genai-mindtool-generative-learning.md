@@ -3,7 +3,7 @@ title: "Generative AI (GenAI) as a mindtool that supports generative learning (G
 created: 2026-08-01
 updated: 2026-08-01
 type: concept
-tags: [generative-ai, instructional-design, higher-ed, learning-theory, scaffolding]
+tags: [educational-theory, generative-ai, higher-ed, instructional-design, scaffolding]
 sources: ["raw/articles/caeai-genai-mindtool.md"]
 confidence: high
 ---

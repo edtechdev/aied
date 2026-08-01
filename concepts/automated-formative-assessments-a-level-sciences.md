@@ -3,7 +3,7 @@ title: The Effect of High-Frequency, Automatically-marked Formative Assessments 
 created: 2026-07-28
 updated: 2026-07-28
 type: concept
-tags: [assessment, automated-grading, k-12, stem]
+tags: [assessment, automated-grading, k-12, stem-education]
 sources: [raw/papers/2607.23566.md]
 confidence: high
 ---

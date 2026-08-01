@@ -3,7 +3,7 @@ title: "Same AI, different pathways: Unpacking mechanisms of AI-mediated learnin
 created: 2026-08-01
 updated: 2026-08-01
 type: concept
-tags: [ai-literacy, generative-ai, higher-ed, prompt-engineering, cognitive-load-theory]
+tags: [ai-literacy, cognitive-offloading, generative-ai, higher-ed, prompt-engineering]
 sources: ["raw/articles/caeai-same-ai-different-pathways.md"]
 confidence: high
 ---
