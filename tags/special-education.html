@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>special-education — AI in Education Wiki</title>
+    <title>special-education — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,46 +23,51 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 special-education</h1>
-        <p>A focused topic with 6 articles, including DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums and related work.</p>
+        <h1>🏷️ special-education</h1>
+        <p>6 article(s) tagged with <strong>special-education</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (6)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/neurodivergent-computing-students.html">\"I can't read your mind\": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning</a>
-                <div class="snippet">Cynthia Zastudil, Srishty Muthusekaran, Rayhona Nasimova, Stephen MacNeil (2026) — Temple University. *arXiv preprint (cs.HC)*. 📄 Full text (arXiv) This study surveyed 24 neurodivergent computing stud</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/embodied-string-learning-blindness-low-vision-musicians.html">Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision</a>
-                <div class="snippet">Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, et al. (2026) — arXiv preprint. arXiv:2607.18598 [cs.HC]. 📄 Full text (arXiv) Bowed string performance depends on fine bodily coordination usually</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/dyslexlens-dyslexic-learners-ai.html">DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums</a>
-                <div class="snippet">Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026) — Artificial Intelligence (cs.AI). 📄 Full text (arXiv) DysLexLens is a low-resource LLM framework designed to a</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/kutti-ai-voice-first-learning-companion.html">Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children</a>
-                <div class="snippet">Kadharmoideen Fadurudeen (2026) — arXiv preprint (cs.HC, cs.CY, cs.SD). 📄 Full text (arXiv) Kutti AI addresses a persistent equity gap in educational technology: nearly all edtech assumes a visual int</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/special-r1-rl-special-education.html">Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training</a>
-                <div class="snippet">Authors: Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang (2026) ## What It Is Special-R1 is a framework that extends pedagogical reinforcement learning (RL) to special education. While prior </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/tactile-statistical-graphs-accessibility.html">Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education</a>
-                <div class="snippet">Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, Sampath Jayarathna — IEEE IRI 2026, submitted 1 Jul 2026 📄 Full text (arXiv) Three-layer J</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/embodied-string-learning-blindness-low-vision-musicians.html">"Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision"</a></h3>
+            <div class="snippet">Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision
+Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, et al. (2026) — arXiv preprint. arXiv:2607.18598 [cs.HC].
+📄 Full text (arXiv)Bowe...</div>
+            <div class="tags"><a href="equity.html">equity</a><a href="professional-training.html">professional-training</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/dyslexlens-dyslexic-learners-ai.html">"DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums"</a></h3>
+            <div class="snippet">DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online ForumsDana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026) — Artificial Intelligence (cs.AI).
+📄 Full text (arXiv)DysLexL...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="ai-literacy.html">ai-literacy</a><a href="equity.html">equity</a><a href="student-experience.html">student-experience</a><a href="language-learning.html">language-learning</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/kutti-ai-voice-first-learning-companion.html">"Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children"</a></h3>
+            <div class="snippet">Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired ChildrenKadharmoideen Fadurudeen (2026) — arXiv preprint (cs.HC, cs.CY, cs.SD).📄 Full text (arXiv)Kutti AI addresses a persistent equi...</div>
+            <div class="tags"><a href="adaptive-learning.html">adaptive-learning</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="k-12.html">k-12</a><a href="equity.html">equity</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/special-r1-rl-special-education.html">"Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training"</a></h3>
+            <div class="snippet">Special-R1: RL for Special EducationAuthors: Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang (2026)What It IsSpecial-R1 is a framework that extends pedagogical reinforcement learning (RL) to special education. While prior RL-based tutor alig...</div>
+            <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="personalized-learning.html">personalized-learning</a><a href="reinforcement-learning.html">reinforcement-learning</a><a href="k-12.html">k-12</a><a href="scaffolding.html">scaffolding</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/tactile-statistical-graphs-accessibility.html">"Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education"</a></h3>
+            <div class="snippet">Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible EducationLawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, Sampath Jayarathna — IEEE...</div>
+            <div class="tags"><a href="equity.html">equity</a><a href="adaptive-learning.html">adaptive-learning</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/neurodivergent-computing-students.html">"\"I can't read your mind\": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning"</a></h3>
+            <div class="snippet">"I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active LearningCynthia Zastudil, Srishty Muthusekaran, Rayhona Nasimova, Stephen MacNeil (2026) — Temple University. arXiv preprint (cs.HC).📄 Full...</div>
+            <div class="tags"><a href="student-experience.html">student-experience</a><a href="cs-education.html">cs-education</a><a href="equity.html">equity</a><a href="collaborative-learning.html">collaborative-learning</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

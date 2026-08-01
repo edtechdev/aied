@@ -3,36 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>language-learning — AI in Education Wiki</title>
+    <title>language-learning — AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag-badge {
-            display: inline-block;
-            padding: 0.15rem 0.5rem;
-            margin: 0.15rem;
-            background: var(--primary);
-            color: var(--primary-inverse);
-            border-radius: 4px;
-            font-size: 0.8rem;
-            text-decoration: none;
-        }
-        a.tag-badge:hover { opacity: 0.85; }
-        .page-item {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid var(--card-border-color);
-        }
-        .page-item .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.2rem;
-        }
-        footer {
-            margin-top: 3rem;
-            padding: 2rem 0;
-            border-top: 1px solid var(--card-border-color);
-            text-align: center;
-            color: var(--muted-color);
-        }
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
+        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
+        .article-card h3 a {{ text-decoration: none; }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
+        .article-card .tags {{ margin-top: 0.4rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
 <body>
@@ -41,50 +23,68 @@
             <ul>
                 <li><a href="../index.html">🏠 Home</a></li>
                 <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
                 <li><a href="../search.html">🔍 Search</a></li>
             </ul>
         </nav>
-        <h1>🔖 language-learning</h1>
-        <p>A focused topic with 7 articles, including What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue and related work.</p>
+        <h1>🏷️ language-learning</h1>
+        <p>9 article(s) tagged with <strong>language-learning</strong></p>
     </header>
     <main class="container">
-        <h2>Articles (7)</h2>
-        <div id="pages-list">
-            <div class="page-item">
-                <a href="../pages/automated-presentation-coaching.html">A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges</a>
-                <div class="snippet">Wen Liang, Li Siyan, Zackary Rackauckas, Julia Hirschberg (2026) — Computation and Language (cs.CL). 📄 Full text (arXiv) This survey provides the first systematic review of automated presentation coac</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-tools-arab-english-classrooms.html">AI tools in Arab University English classrooms: Looking back and forward</a>
-                <div class="snippet">Shormani & Alshawsh (2026) — arXiv preprint. 📄 Full text (arXiv) This paper aims to synthesize empirical research on AI tools used to support English as a second/foreign language (EL2) learners in Ara</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/llm-children-reading-story-generation.html">Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety</a>
-                <div class="snippet">Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite (2026) — University of Florida. BEA 2026 @ ACL 2026. 📄 Full text (arXiv) ## Key Finding: Small Fine-Tuned Models Beat Larg</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/dyslexlens-dyslexic-learners-ai.html">DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums</a>
-                <div class="snippet">Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026) — Artificial Intelligence (cs.AI). 📄 Full text (arXiv) DysLexLens is a low-resource LLM framework designed to a</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/tutors-gig-economy-automated-feedback.html">Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle</a>
-                <div class="snippet">Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung, Juho Kim (2026) — arXiv:2606.22609 (cs.HC) 📄 Full text (arXiv) Park et al. (2026) explore AI-powered automated feedback </div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/ai-interlocutor-l2-spoken-dialogue.html">What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue</a>
-                <div class="snippet">Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone (2026) — Educational Data Mining 2026 📄 Full text (arXiv) Scheinberg et al. (2026) analyze 78 university</div>
-            </div>
-            <div class="page-item">
-                <a href="../pages/vocabulary-difficulty-prediction.html">What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction</a>
-                <div class="snippet">Nohejl, Wu, Ide, Riera Machin, Chang & Yanaka (2026) — BEA 2026. 📄 Full text (arXiv) 🔗 Code ## Overview This paper presents two complementary approaches to predicting vocabulary difficulty for languag</div>
-            </div>
+                <div class="article-card">
+            <h3><a href="../pages/automated-presentation-coaching.html">"A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges"</a></h3>
+            <div class="snippet">A Survey of Automated Presentation Coaching: Systems, Methods, and Open ChallengesWen Liang, Li Siyan, Zackary Rackauckas, Julia Hirschberg (2026) — Computation and Language (cs.CL).
+📄 Full text (arXiv)This survey provides the first systematic review...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="feedback-loop.html">feedback-loop</a><a href="professional-training.html">professional-training</a><a href="personalized-learning.html">personalized-learning</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-tools-arab-english-classrooms.html">"AI tools in Arab University English classrooms: Looking back and forward"</a></h3>
+            <div class="snippet">AI tools in Arab University English classrooms: Looking back and forwardShormani & Alshawsh (2026) — arXiv preprint.📄 Full text (arXiv)This paper aims to synthesize empirical research on AI tools used to support English as a second/foreign language (...</div>
+            <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="writing-education.html">writing-education</a><a href="ai-literacy.html">ai-literacy</a><a href="over-reliance.html">over-reliance</a><a href="teacher-role.html">teacher-role</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/llm-children-reading-story-generation.html">"Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety"</a></h3>
+            <div class="snippet">Children's English Reading Story Generation via SFT of Compact LLMsQian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite (2026) — University of Florida. BEA 2026 @ ACL 2026.📄 Full text (arXiv)Key Finding: Small Fine-Tuned Mode...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="k-12.html">k-12</a><a href="ai-literacy.html">ai-literacy</a><a href="generative-ai.html">generative-ai</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/dyslexlens-dyslexic-learners-ai.html">"DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums"</a></h3>
+            <div class="snippet">DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online ForumsDana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026) — Artificial Intelligence (cs.AI).
+📄 Full text (arXiv)DysLexL...</div>
+            <div class="tags"><a href="special-education.html">special-education</a><a href="llm.html">llm</a><a href="ai-literacy.html">ai-literacy</a><a href="equity.html">equity</a><a href="student-experience.html">student-experience</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/genai-linguistic-diversity-academic-writing.html">"Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes"</a></h3>
+            <div class="snippet">Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World EnglishesKingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026) — arXiv:2607.28505 (cs.CL)📄 Full text (arXiv)SummaryStru...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="writing-education.html">writing-education</a><a href="equity.html">equity</a><a href="higher-ed.html">higher-ed</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/iks-instruct-dataset-indian-knowledge.html">"IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems"</a></h3>
+            <div class="snippet">IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge SystemsShwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani (2026) — arXiv:2607.23322 (cs.CL, cs.CY)📄 Full text (arXiv...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="personalized-learning.html">personalized-learning</a><a href="educational-theory.html">educational-theory</a><a href="open-source.html">open-source</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/tutors-gig-economy-automated-feedback.html">"Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle"</a></h3>
+            <div class="snippet">Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on RingleYeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung, Juho Kim (2026) — arXiv:2606.22609 (cs.HC)
+📄 Full text (arXiv)Park et al. (2026) explo...</div>
+            <div class="tags"><a href="ai-feedback-quality.html">ai-feedback-quality</a><a href="teacher-role.html">teacher-role</a><a href="higher-ed.html">higher-ed</a><a href="intelligent-tutoring.html">intelligent-tutoring</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/vocabulary-difficulty-prediction.html">"What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction"</a></h3>
+            <div class="snippet">What Makes Words Hard? Vocabulary Difficulty Prediction at BEA 2026Nohejl, Wu, Ide, Riera Machin, Chang & Yanaka (2026) — BEA 2026.📄 Full text (arXiv)
+🔗 CodeOverviewThis paper presents two complementary approaches to predicting vocabulary difficulty...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="benchmark.html">benchmark</a><a href="scaffolding.html">scaffolding</a><a href="formative-assessment.html">formative-assessment</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/ai-interlocutor-l2-spoken-dialogue.html">What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue</a></h3>
+            <div class="snippet">What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken DialogueRussell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatkina, Griet Boone (2026) — Educational Data Mining 2026
+📄 Full...</div>
+            <div class="tags"><a href="llm.html">llm</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="student-experience.html">student-experience</a><a href="personalized-learning.html">personalized-learning</a></div>
+        </div>
+
     </main>
     <footer class="container">
-        <small>
-            AI in Education Wiki · <a href="../index.html">Home</a> · 
-            <a href="../tags/">All Tags</a> · Generated 2026-07-28
-        </small>
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
     </footer>
 </body>
 </html>

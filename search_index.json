@@ -206,12 +206,12 @@
     "slug": "agent-voice-accents-k12-group-learning",
     "title": "Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning",
     "tags": [
+      "equity",
       "generative-ai",
-      "llm",
-      "k-12",
-      "student-experience",
       "human-ai-collaboration",
-      "equity"
+      "k-12",
+      "llm",
+      "student-experience"
     ],
     "content": "Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group LearningRavi, Stevens, Hurt, Hanks, Lin & Anderson (2026).\n\ud83d\udcc4 Full text (arXiv)Ravi et al. investigate how the voice accent of a generative-ai conversational peer agent shapes learners' perceptions, trust, and interactional dynamics in k-12 group learning. While prior work examined agent accent effects in one-to-one settings, little is known about how these effects manifest in multi-party group contexts \u2014 a critical gap ",
     "url": "pages/agent-voice-accents-k12-group-learning.html"
@@ -220,12 +220,13 @@
     "slug": "agentic-ai-ecosystems-higher-education",
     "title": "\"Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence\"",
     "tags": [
-      "higher-ed",
-      "generative-ai",
-      "llm",
       "administrator",
+      "agentic-ai",
       "equity",
-      "intelligent-tutoring"
+      "generative-ai",
+      "higher-ed",
+      "intelligent-tutoring",
+      "llm"
     ],
     "content": "Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional IntelligenceAgentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence\nSudarshan et al. (2026) \u2014 Multiple institutions. 50-page perspective paper.\n\ud83d\udcc4 Full text (arXiv)SummaryThis perspective paper advances the vis",
     "url": "pages/agentic-ai-ecosystems-higher-education.html"
@@ -235,17 +236,17 @@
     "title": "\"Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm\"",
     "tags": [
       "agentic-ai",
-      "scoping-review",
-      "generative-ai",
-      "llm",
-      "intelligent-tutoring",
-      "multi-agent",
-      "higher-ed",
-      "stem-education",
+      "ai-literacy",
       "educational-theory",
-      "scaffolding",
+      "generative-ai",
+      "higher-ed",
+      "intelligent-tutoring",
+      "llm",
+      "multi-agent",
       "open-source",
-      "ai-literacy"
+      "scaffolding",
+      "scoping-review",
+      "stem-education"
     ],
     "content": "Agentic AI in Education: Scoping Review (474 Studies, 2020\u20132026)Wang, Zou, Xie & Qin (2026) \u2014 Lingnan University & Hong Kong Polytechnic University.\nPublished in Computers and Education: Artificial Intelligence, accepted 27 July 2026.\n\ud83d\udcc4 doi:10.1016/j.caeai.2026.100653 \u00b7 localSummaryThis scoping review systematically maps 474 studies (January 2020 \u2013 May 2026) on generative AI-powered agentic AI in education, providing the most comprehensive synthesis of the field to date. The authors analyze publ",
     "url": "pages/agentic-ai-education-scoping-review.html"
@@ -254,11 +255,12 @@
     "slug": "agentic-education-coding",
     "title": "Agentic Education with AI Coding Assistants",
     "tags": [
+      "agentic-ai",
       "agentic-workflows",
-      "stem-education",
-      "higher-ed",
       "generative-ai",
-      "scaffolding"
+      "higher-ed",
+      "scaffolding",
+      "stem-education"
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2604.17460 \u00b7 localAgentic Education with AI Coding Assistants> Using agentic AI workflows (Claude Code) to teach AI coding tools \u2014 structured pedagogy for tool mastery.The Gap in AI Coding EducationNaboulsi (2026) identifies a paradox: AI coding assistants proliferate rapidly, but pedagogical frameworks for learning them remain scarce.Current State\nLearners face:\nFragmented resources: Blog posts, video tutorials, trial-and-error\nDocumentation-to-practice gap: Tool docs \u2260 ped",
     "url": "pages/agentic-education-coding.html"
@@ -267,12 +269,13 @@
     "slug": "agentic-literacy-debt",
     "title": "\"Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named\"",
     "tags": [
+      "agentic-ai",
       "ai-literacy",
-      "generative-ai",
       "equity",
-      "policy-maker",
+      "generative-ai",
+      "higher-ed",
       "k-12",
-      "higher-ed"
+      "policy-maker"
     ],
     "content": "Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet NamedNama et al. (2026) \u2014 Independent researcher. AI & Ethics.\ud83d\udcc4 Full text (arXiv)Agentic Literacy Debt names a critical gap in the ai-literacy landscape that has become urgent with the rise of autonomous AI agents. Existing AI literacy frameworks assume humans evaluate AI outputs and then decide \u2014 they were built for a world of tools, not agents. But modern AI agents plan, decide, and act without step-by-step human app",
     "url": "pages/agentic-literacy-debt.html"
@@ -281,11 +284,10 @@
     "slug": "agentic-workflows-education",
     "title": "Agentic Workflows in Education",
     "tags": [
-      "agent",
-      "architecture",
-      "tutoring",
+      "agentic-ai",
+      "ai-education",
       "benchmark",
-      "ai-education"
+      "tutoring"
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2504.20082 \u00b7 localAgentic Workflows in EducationA design framework for educational AI systems structured around four agentic paradigms: reflection, planning, tool use, and multi-agent collaboration. Proposed by Kamalov et al. (2026) as a taxonomy for analyzing how AI agents operate in learning environments.Four Paradigms1. Reflection\nAgents evaluate their own outputs against criteria before delivering feedback to learners. Reduces immediate error propagation but adds latency",
     "url": "pages/agentic-workflows-education.html"
@@ -294,6 +296,7 @@
     "slug": "agentic-workflows",
     "title": "\"Agentic Workflows\"",
     "tags": [
+      "agentic-ai",
       "stub"
     ],
     "content": "Agentic Workflows\nAutomated stub.\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nfive-stage-ai-literacy-continuum\nai-adoption-training-public-sector",
@@ -303,12 +306,12 @@
     "slug": "agents-that-teach-incidental-learning",
     "title": "\"Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development\"",
     "tags": [
-      "llm",
-      "generative-ai",
-      "agentic-workflows-education",
-      "over-reliance",
+      "agentic-ai",
       "cs-education",
+      "generative-ai",
       "higher-ed",
+      "llm",
+      "over-reliance",
       "professional-training",
       "self-regulated-learning"
     ],
@@ -345,11 +348,12 @@
     "slug": "ai-agents-peer-learning-discourse",
     "title": "\"When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community\"",
     "tags": [
-      "llm",
-      "learning-analytics",
+      "agentic-ai",
+      "benchmark",
       "collaborative-ai-tutoring",
       "engagement-metrics",
-      "benchmark"
+      "learning-analytics",
+      "llm"
     ],
     "content": "When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook CommunityAuthors: Eason Chen, Ce Guan, A Elshafiey, Zhonghao Zhao, Joshua Zekeri, Afeez Edeifo Shaibu, Emmanuel Osadebe Prince\nYear: 2026\nVenue: arXiv (cs.HC)SummaryEDM analysis of 2.4M+ AI agents engaging in peer-learning-like discourse. 28,683 posts. Response taxonomy: validation (22%), knowledge extension (18%), application (12%), metacognitive (7%). Statement:question ratio 11.4:1. Six design hypothe",
     "url": "pages/ai-agents-peer-learning-discourse.html"
@@ -1291,11 +1295,12 @@
     "slug": "ase-26-agentic-software-engineering-curriculum",
     "title": "\"ASE-26: A Curriculum for Agentic Software Engineering as a Discipline\"",
     "tags": [
-      "curriculum-design",
+      "agentic-ai",
       "agentic-workflows",
+      "ai-literacy",
+      "curriculum-design",
       "higher-ed",
-      "software-engineering",
-      "ai-literacy"
+      "software-engineering"
     ],
     "content": "ASE-26: A Curriculum for Agentic Software Engineering as a Discipline\nMikael Gorsky (2026) \u2014 arXiv:2606.01152.\ud83d\udcc4 Full text (arXiv)Formalizes Agentic Software Engineering (ASE) as a distinct discipline. Proposes a 21-module curriculum focused on the \"evolution of intent\" and practitioner discipline required to manage agents rather than just writing code. This work emphasizes that ai-literacy is a developmental capacity requiring structured scaffolding and prompt-engineering discipline. It connects",
     "url": "pages/ase-26-agentic-software-engineering-curriculum.html"
@@ -3079,10 +3084,11 @@
     "slug": "eduagentbench-agent-teaching-benchmark",
     "title": "Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows",
     "tags": [
+      "agentic-ai",
       "benchmark",
+      "generative-ai",
       "intelligent-tutoring",
       "llm",
-      "generative-ai",
       "scaffolding",
       "teacher-role"
     ],
@@ -3539,11 +3545,11 @@
     "slug": "formative-assessment",
     "title": "Formative Assessment in AI Education",
     "tags": [
+      "agentic-ai",
+      "ai-education",
       "assessment",
       "evaluation",
-      "agent",
-      "safety",
-      "ai-education"
+      "safety"
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2604.03926 \u00b7 local \u00b7 arXiv:2504.20082 \u00b7 local \u00b7 arXiv:2507.04295 \u00b7 localFormative Assessment in AI EducationAssessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can generate, validate, and adapt formative assessment items at scale, though quality varies dramatically across assessment types.AI-Generated Formative ItemsMultiple-Choice Questions (CODE-GEN)Duan et al. (2026) demonstrate that agentic AI can reliably genera",
     "url": "pages/formative-assessment.html"
@@ -4406,9 +4412,9 @@
     "slug": "jeon-isd-agent-bench-2026",
     "title": "\"ISD Agent Benchmark\"",
     "tags": [
-      "agent",
-      "benchmark",
-      "ai-ed-evaluation"
+      "agentic-ai",
+      "ai-ed-evaluation",
+      "benchmark"
     ],
     "content": "ISD Agent BenchmarkThis is a stub page for \"ISD Agent Benchmark\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
     "url": "pages/jeon-isd-agent-bench-2026.html"
@@ -5401,10 +5407,11 @@
     "slug": "multi-agent-instructional-design",
     "title": "Multi-Agent Systems for Instructional Design",
     "tags": [
+      "agentic-ai",
       "agentic-workflows",
       "ai-literacy",
-      "k-12",
       "human-in-the-loop",
+      "k-12",
       "pedagogical-safety"
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2508.16659 \u00b7 localMulti-Agent Systems for Instructional Design> Embedding the Knowledge\u2013Learning\u2013Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators.The Prompting Gap in K-12 EducationWang et al. (2025) address a critical problem: 60% of K-12 teachers now use AI for teaching tasks, but most lack the expertise to prompt effectively for high-quality instructional materials.The Problem\nCommercial LLMs (ChatGPT,",
@@ -5895,13 +5902,14 @@
     "slug": "prompt-coach-agentic-tutor-prompt-engineering",
     "title": "\"Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development\"",
     "tags": [
-      "llm",
-      "intelligent-tutoring",
-      "feedback-loop",
-      "scaffolding",
+      "agentic-ai",
       "cs-education",
+      "feedback-loop",
       "formative-assessment",
-      "professional-training"
+      "intelligent-tutoring",
+      "llm",
+      "professional-training",
+      "scaffolding"
     ],
     "content": "Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software DevelopmentRohit Mehra et al. (2026) \u2014 IBM Research / International Institute of Information Technology. arXiv.\ud83d\udcc4 Full text (arXiv)Prompt engineering is a critical yet undertaught skill for software developers, poorly served by traditional instruction because of its evolving, interactive, context-dependent nature. The authors introduce Prompt Coach (PC), an agentic tutor embedded in-flow within a",
     "url": "pages/prompt-coach-agentic-tutor-prompt-engineering.html"
@@ -7023,16 +7031,16 @@
     "slug": "tool-invariant-framework-agentic-ai",
     "title": "\"A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI\"",
     "tags": [
-      "generative-ai",
       "agentic-ai",
+      "ai-literacy",
       "assessment-design",
       "authentic-assessment",
-      "ai-literacy",
-      "over-reliance",
-      "higher-ed",
       "computational-thinking",
-      "verification",
-      "oral-defense"
+      "generative-ai",
+      "higher-ed",
+      "oral-defense",
+      "over-reliance",
+      "verification"
     ],
     "content": "A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AILarry Engelhardt (Francis Marion University) \u2014 arXiv:2607.15518 [physics.ed-ph], submitted 17 Jul 2026. CC BY 4.0. doi:10.48550/arXiv.2607.15518.\ud83d\udcc4 arXiv full text (HTML) \u2014 open access; supplement tables (task-by-task progression, oral-defense rubric) as ancillary PDF.> Note on type: This is a framework / position essay (first-person, draws on the author's teaching practice), not a controlled empir",
     "url": "pages/tool-invariant-framework-agentic-ai.html"

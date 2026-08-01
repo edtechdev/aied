@@ -3,7 +3,7 @@ title: "Agentic Workflows"
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
-tags: [stub]
+tags: [agentic-ai, stub]
 sources: []
 confidence: low
 ---
