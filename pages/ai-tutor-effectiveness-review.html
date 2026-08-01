@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -50,13 +68,42 @@ The review identifies a <strong>critical need for stronger experimental design a
 <ul><li>Many studies lack control groups or proper randomization</li></ul>
 <ul><li>Reporting standards for ITS interventions are inconsistent</li></ul>
 <ul><li>Long-term follow-up is rare</li></ul>
-<ul><li>Real-world classroom studies are underrepresented relative to lab studies</li></ul></p><p><h2>Synthesis with Current Wiki Evidence</h2></p><p>| Claim in review | Supporting evidence in wiki | Contradictory evidence |
-|---|---|---|
-| ITS show mixed real-world effectiveness | <a href="ai-k12-evidence-base.html">ai-k12-evidence-base</a> (only 20/818 papers meet causal standards) | <a href="pedagogical-llm-training.html">EduQwen</a> (96.52% benchmark, but benchmark ≠ classroom) |
-| Need for stronger experimental rigor | <a href="educational-llm-alignment.html">Hardy & Kim</a> (benchmark≠teaching quality) | — |
-| NLP advances for dialogue | <a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a> (interpretable dialogue modeling) | <a href="ai-tutor-safety-harms.html">SafeTutors</a> (multi-turn degradation: 17.7% → 77.8%) |
-| Affective computing as advancement | <a href="affective-tutoring.html">MathBuddy</a> (+23 points win rate) | <a href="ai-tutor-safety-harms.html">ai-tutor-safety-harms</a> (emotional risks, parasocial dependency) |
-| Multi-agent architectures | <a href="agentic-workflows-education.html">agentic-workflows-education</a> (four paradigms), <a href="human-in-the-loop-ai.html">human-in-the-loop-ai</a> (MAIC) | <a href="collaborative-ai-tutoring.html">ProPACT</a> (effective but requires eye-tracking hardware) |</p><p><h2>Implications for the Field</h2></p><p>1. <strong>Benchmarks are not enough.</strong> High benchmark scores (CDPK, DeepTutor) must be complemented by classroom RCTs measuring actual learning gains.
+<ul><li>Real-world classroom studies are underrepresented relative to lab studies</li></ul></p><p><h2>Synthesis with Current Wiki Evidence</h2></p><table>
+<thead>
+<tr>
+<th>Claim in review</th>
+<th>Supporting evidence in wiki</th>
+<th>Contradictory evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ITS show mixed real-world effectiveness</td>
+<td><a href="ai-k12-evidence-base.html">ai-k12-evidence-base</a> (only 20/818 papers meet causal standards)</td>
+<td><a href="pedagogical-llm-training.html">EduQwen</a> (96.52% benchmark, but benchmark ≠ classroom)</td>
+</tr>
+<tr>
+<td>Need for stronger experimental rigor</td>
+<td><a href="educational-llm-alignment.html">Hardy & Kim</a> (benchmark≠teaching quality)</td>
+<td>—</td>
+</tr>
+<tr>
+<td>NLP advances for dialogue</td>
+<td><a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a> (interpretable dialogue modeling)</td>
+<td><a href="ai-tutor-safety-harms.html">SafeTutors</a> (multi-turn degradation: 17.7% → 77.8%)</td>
+</tr>
+<tr>
+<td>Affective computing as advancement</td>
+<td><a href="affective-tutoring.html">MathBuddy</a> (+23 points win rate)</td>
+<td><a href="ai-tutor-safety-harms.html">ai-tutor-safety-harms</a> (emotional risks, parasocial dependency)</td>
+</tr>
+<tr>
+<td>Multi-agent architectures</td>
+<td><a href="agentic-workflows-education.html">agentic-workflows-education</a> (four paradigms), <a href="human-in-the-loop-ai.html">human-in-the-loop-ai</a> (MAIC)</td>
+<td><a href="collaborative-ai-tutoring.html">ProPACT</a> (effective but requires eye-tracking hardware)</td>
+</tr>
+</tbody>
+</table><p><h2>Implications for the Field</h2></p><p>1. <strong>Benchmarks are not enough.</strong> High benchmark scores (CDPK, DeepTutor) must be complemented by classroom RCTs measuring actual learning gains.
 2. <strong>Teacher integration is a bottleneck.</strong> Technical sophistication matters less than curriculum fit and teacher control — see <a href="human-in-the-loop-ai.html">human-in-the-loop-ai</a>.
 3. <strong>Long-term studies are essential.</strong> Most ITS research measures immediate outcomes; SRL, metacognition, and transfer require longitudinal designs.
 4. <strong>Domain-specificity is real.</strong> A system effective in math may fail in writing; claiming "general tutoring" without domain evidence is overstated.</p><p><h2>Related Pages</h2>

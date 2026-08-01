@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -37,10 +55,33 @@
 2. <strong>Performance:</strong> Strategy deployment, self-observation, attention focusing
 3. <strong>Self-reflection:</strong> Self-evaluation, causal attribution, adaptation</p><p>Proficient self-regulated learners employ cognitive strategies to improve success and utilize <a href="metacognition.html">metacognition</a> to refine their learning processes continuously.^<a href="scheu-mobile-chatbot-journaling-motivation-2026.html">scheu-mobile-chatbot-journaling-motivation-2026</a></p><p><h2>Digital Support for SRL</h2></p><p><h3>Learning Journals</h3></p><p>Learning journals are a promising SRL intervention: by reflecting on their learning processes, students increase awareness of cognition and strengthen regulatory capacity. Key design considerations:</p><p><ul><li><strong>Structure matters:</strong> Open-ended journals often produce shallow entries; guided prompts and example models improve depth</li></ul>
 <ul><li><strong>Motivation decay:</strong> Mobile journaling apps commonly see rapid engagement decline after a few days</li></ul>
-<ul><li><strong>Scaffolding trade-off:</strong> AI assistance that writes reflections for students undermines the SRL practice; assistance that structures prompts without authoring content preserves it</li></ul></p><p><h3>Scheu et al.'s 2×2 Experiment (2026)</h3></p><p>In a randomized field experiment with 179 students over 22 days, two design principles were compared:</p><p>| Principle | Mechanism | Effect on SRL | Effect on Motivation | Effect on Engagement |
-|---|---|---|---|---|
-| <strong>Example-based course</strong> | 7-day curriculum teaching reflective journaling via modeled responses | Increased perceived competence and enjoyment | <strong>Positive</strong> | Constant positive |
-| <strong>LLM journaling assistant</strong> | GPT-3.5 summarizes drafts, asks clarifying questions, suggests reformulations | No direct SRL skill effect measured | <strong>No effect</strong> | Increasing over time (feedback loop) |</p><p><strong>Key insight:</strong> The course improved SRL skills <em>and</em> intrinsic motivation through skill transfer, while the assistant improved engagement without affecting motivation.^<a href="scheu-mobile-chatbot-journaling-motivation-2026.html">scheu-mobile-chatbot-journaling-motivation-2026</a></p><p><h2>AI Tools and the SRL–Motivation Reciprocal Loop</h2></p><p>A foundational principle of SRL theory is that self-regulation skills and motivation form a <strong>reciprocal relationship</strong>:</p><p><ul><li>Better SRL → more successful learning → higher self-efficacy → stronger motivation</li></ul>
+<ul><li><strong>Scaffolding trade-off:</strong> AI assistance that writes reflections for students undermines the SRL practice; assistance that structures prompts without authoring content preserves it</li></ul></p><p><h3>Scheu et al.'s 2×2 Experiment (2026)</h3></p><p>In a randomized field experiment with 179 students over 22 days, two design principles were compared:</p><table>
+<thead>
+<tr>
+<th>Principle</th>
+<th>Mechanism</th>
+<th>Effect on SRL</th>
+<th>Effect on Motivation</th>
+<th>Effect on Engagement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Example-based course</strong></td>
+<td>7-day curriculum teaching reflective journaling via modeled responses</td>
+<td>Increased perceived competence and enjoyment</td>
+<td><strong>Positive</strong></td>
+<td>Constant positive</td>
+</tr>
+<tr>
+<td><strong>LLM journaling assistant</strong></td>
+<td>GPT-3.5 summarizes drafts, asks clarifying questions, suggests reformulations</td>
+<td>No direct SRL skill effect measured</td>
+<td><strong>No effect</strong></td>
+<td>Increasing over time (feedback loop)</td>
+</tr>
+</tbody>
+</table><p><strong>Key insight:</strong> The course improved SRL skills <em>and</em> intrinsic motivation through skill transfer, while the assistant improved engagement without affecting motivation.^<a href="scheu-mobile-chatbot-journaling-motivation-2026.html">scheu-mobile-chatbot-journaling-motivation-2026</a></p><p><h2>AI Tools and the SRL–Motivation Reciprocal Loop</h2></p><p>A foundational principle of SRL theory is that self-regulation skills and motivation form a <strong>reciprocal relationship</strong>:</p><p><ul><li>Better SRL → more successful learning → higher self-efficacy → stronger motivation</li></ul>
 <ul><li>Higher motivation → more effortful engagement → better SRL practice</li></ul></p><p>AI tools can enter this loop at different points:</p><p><ul><li><strong>SRL-first design</strong> (e.g., structured courses, graduated hints, reflection prompts): Strengthens the loop by building genuine skill</li></ul>
 <ul><li><strong>Engagement-first design</strong> (e.g., autocomplete, content generation): May boost behavioral engagement without entering the motivation loop, risking tool dependence</li></ul></p><p><h2>Relationship to Tutoring-Specific Design</h2></p><p><a href="tutoring-specific-vs-general-ai.html">Tutoring-specific AI</a> aligns with SRL-first design: it provides graduated scaffolds that preserve learner agency and require strategic self-regulation. General-purpose AI often removes the regulatory demands entirely.^<a href="stanford-evidence-base-ai-k12-2026.html">stanford-evidence-base-ai-k12-2026</a></p><p>For example:
 <ul><li>Bastani et al.'s tutoring-specific chatbot preserved step-by-step reasoning (SRL demand)</li></ul>

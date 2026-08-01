@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -38,12 +56,37 @@ Learners face:
 <ul><li><strong>Fragmented resources:</strong> Blog posts, video tutorials, trial-and-error</li></ul>
 <ul><li><strong>Documentation-to-practice gap:</strong> Tool docs ≠ pedagogical structure</li></ul>
 <ul><li><strong>No progression scaffold:</strong> Jump from "hello world" to "production use" without intermediate structure</li></ul></p><p><h2>Agentic Workflow Pedagogy</h2></p><p>The paper presents a framework for teaching <strong>Claude Code</strong> (agentic coding assistant) using <strong>Claude Code itself</strong> — recursive/agentic education.</p><p><h3>Pedagogical Structure</h3>
-| Phase | Focus | Agentic Capability |
-|-------|-------|-------------------|
-| <strong>Tool familiarization</strong> | Basic commands, setup | Single-turn interactions |
-| <strong>Task decomposition</strong> | Breaking problems into agentic steps | Multi-step planning |
-| <strong>Autonomous execution</strong> | Letting agent run, monitoring | Self-correction, iteration |
-| <strong>Meta-cognition</strong> | When to use (and not use) agentic workflows | Strategic tool selection |</p><p><h2>Connection to Agentic Workflows in Education</h2></p><p>This operationalizes <a href="agentic-workflows-education.html">agentic-workflows-education</a> for a specific tool:
+<table>
+<thead>
+<tr>
+<th>Phase</th>
+<th>Focus</th>
+<th>Agentic Capability</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Tool familiarization</strong></td>
+<td>Basic commands, setup</td>
+<td>Single-turn interactions</td>
+</tr>
+<tr>
+<td><strong>Task decomposition</strong></td>
+<td>Breaking problems into agentic steps</td>
+<td>Multi-step planning</td>
+</tr>
+<tr>
+<td><strong>Autonomous execution</strong></td>
+<td>Letting agent run, monitoring</td>
+<td>Self-correction, iteration</td>
+</tr>
+<tr>
+<td><strong>Meta-cognition</strong></td>
+<td>When to use (and not use) agentic workflows</td>
+<td>Strategic tool selection</td>
+</tr>
+</tbody>
+</table><p><h2>Connection to Agentic Workflows in Education</h2></p><p>This operationalizes <a href="agentic-workflows-education.html">agentic-workflows-education</a> for a specific tool:
 <ul><li><strong>Reflection:</strong> Agent reflects on its own code/approach</li></ul>
 <ul><li><strong>Planning:</strong> Decomposes tasks before execution</li></ul>
 <ul><li><strong>Tool use:</strong> Uses file I/O, shell, other tools</li></ul>

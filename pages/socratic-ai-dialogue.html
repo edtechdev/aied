@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -33,14 +51,40 @@
         <h1>Socratic AI Dialogue</h1>
         <div class="metadata">Created: 2026-05-07 | Tags: <a href="../tags/intelligent-tutoring.html" class="tag">intelligent-tutoring</a><a href="../tags/scaffolding.html" class="tag">scaffolding</a><a href="../tags/active-learning.html" class="tag">active-learning</a><a href="../tags/higher-ed.html" class="tag">higher-ed</a><a href="../tags/stem-education.html" class="tag">stem-education</a><a href="../tags/formative-assessment.html" class="tag">formative-assessment</a></div>
     </header>
-    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2508.14778v1">arXiv:2508.14778</a> · <a href="raw/papers/hashmi-socratic-physics-chatbot-2025.md">local</a> · <a href="https://arxiv.org/abs/2507.06878">arXiv:2507.06878</a> · <a href="raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md">local</a></p><p>> Socratic dialogue — asking structured questions rather than providing answers — is one of the strongest pedagogical scaffolds for deep learning. When automated via AI, it produces measurable reasoning gains but also requires careful calibration to avoid frustrating learners or displacing human mentorship.^<a href="hashmi-socratic-physics-chatbot-2025.html">hashmi-socratic-physics-chatbot-2025</a>^<a href="favero-critical-ai-tutors-empower-enslave-2025.html">favero-critical-ai-tutors-empower-enslave-2025</a></p><p><h2>Hashmi & Rebello (2025): Physics Socratic Chatbot</h2></p><p>Deployed a custom Socratic AI chatbot in a large-enrollment introductory mechanics course:</p><p>| Metric | Result |
-|---|---|
-| <strong>Sample</strong> | 150 first-year STEM majors |
-| <strong>Knowledge-based skills rating</strong> | Median <strong>4.0/5</strong> |
-| <strong>Overall effectiveness rating</strong> | Median <strong>3.4/5</strong> (notable gap) |
-| <strong>Question specificity (first turn)</strong> | ~10–15% |
-| <strong>Question specificity (final turn)</strong> | <strong>100%</strong> |
-| <strong>Specificity × grade correlation</strong> | Pearson <strong>r = 0.43</strong> |</p><p><strong>Interpretation:</strong> Students began with vague, generic questions but progressively sharpened them through Socratic interaction — a clear indicator of developing expert-like reasoning. The positive correlation between question specificity and self-reported expected grade suggests that learning to ask better questions is itself a domain skill.</p><p><h2>The Effectiveness Gap</h2></p><p>The gap between "knowledge-based skills" (4.0/5) and "overall effectiveness" (3.4/5) suggests a tension: students recognize that the Socratic bot improved their reasoning, yet do not fully endorse it as a complete tutoring solution. Possible reasons:
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2508.14778v1">arXiv:2508.14778</a> · <a href="raw/papers/hashmi-socratic-physics-chatbot-2025.md">local</a> · <a href="https://arxiv.org/abs/2507.06878">arXiv:2507.06878</a> · <a href="raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md">local</a></p><p>> Socratic dialogue — asking structured questions rather than providing answers — is one of the strongest pedagogical scaffolds for deep learning. When automated via AI, it produces measurable reasoning gains but also requires careful calibration to avoid frustrating learners or displacing human mentorship.^<a href="hashmi-socratic-physics-chatbot-2025.html">hashmi-socratic-physics-chatbot-2025</a>^<a href="favero-critical-ai-tutors-empower-enslave-2025.html">favero-critical-ai-tutors-empower-enslave-2025</a></p><p><h2>Hashmi & Rebello (2025): Physics Socratic Chatbot</h2></p><p>Deployed a custom Socratic AI chatbot in a large-enrollment introductory mechanics course:</p><table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Sample</strong></td>
+<td>150 first-year STEM majors</td>
+</tr>
+<tr>
+<td><strong>Knowledge-based skills rating</strong></td>
+<td>Median <strong>4.0/5</strong></td>
+</tr>
+<tr>
+<td><strong>Overall effectiveness rating</strong></td>
+<td>Median <strong>3.4/5</strong> (notable gap)</td>
+</tr>
+<tr>
+<td><strong>Question specificity (first turn)</strong></td>
+<td>~10–15%</td>
+</tr>
+<tr>
+<td><strong>Question specificity (final turn)</strong></td>
+<td><strong>100%</strong></td>
+</tr>
+<tr>
+<td><strong>Specificity × grade correlation</strong></td>
+<td>Pearson <strong>r = 0.43</strong></td>
+</tr>
+</tbody>
+</table><p><strong>Interpretation:</strong> Students began with vague, generic questions but progressively sharpened them through Socratic interaction — a clear indicator of developing expert-like reasoning. The positive correlation between question specificity and self-reported expected grade suggests that learning to ask better questions is itself a domain skill.</p><p><h2>The Effectiveness Gap</h2></p><p>The gap between "knowledge-based skills" (4.0/5) and "overall effectiveness" (3.4/5) suggests a tension: students recognize that the Socratic bot improved their reasoning, yet do not fully endorse it as a complete tutoring solution. Possible reasons:
 <ul><li>Socratic dialogue is effortful; students may prefer direct answers for efficiency</li></ul>
 <ul><li>The chatbot cannot provide the relational support of a human tutor</li></ul>
 <ul><li>Some students may get stuck in Socratic loops without resolution</li></ul></p><p><h2>Relationship to Pedagogical Training</h2></p><p>The Socratic approach directly embodies the principle from <a href="pedagogical-llm-training.html">EduQwen</a>: <strong>reward "guiding" over "answering."</strong> However, real-time Socratic calibration is harder than paper-bench pedagogy:</p><p><ul><li>EduQwen optimizes for correct guiding on a multiple-choice benchmark</li></ul>

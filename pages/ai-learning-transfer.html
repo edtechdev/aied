@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -35,13 +53,54 @@
     </header>
     <main class="container"><p>> 📄 Full text: <a href="https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf">Stanford SCALE</a> · <a href="raw/papers/stanford-evidence-base-ai-k12-2026.md">local</a></p><p>> The central open question in AI education research: <strong>Do performance gains with AI tools persist when students must demonstrate understanding independently?</strong>^<a href="stanford-evidence-base-ai-k12-2026.html">stanford-evidence-base-ai-k12-2026</a></p><p><h2>The Transfer Paradox</h2></p><p>Students using AI typically show <strong>immediate, measurable gains</strong> on the tasks where AI is available. Yet when AI is removed:</p><p><ul><li>Effects become <strong>mixed or negative</strong></li></ul>
 <ul><li>Gains often <strong>fail to transfer</strong> to unassessed settings</li></ul>
-<ul><li>Students may become <strong>dependent on the tool</strong> at the expense of independent reasoning</li></ul></p><p>This pattern is the defining risk of integrating AI into learning environments.</p><p><h2>Key Studies</h2></p><p>| Study | Context | Immediate Effect | Transfer Effect | Mechanism |
-|---|---|---|---|---|
-| Bastani et al. (2025) | High school math | Higher practice grades | <strong>~17% worse</strong> on closed-book finals | General-purpose chatbot did the work |
-| Chen et al. (2025) | Programming homework | Higher homework scores | <strong>No improvement</strong> on unassisted exams | LLM-Tutor solved problems for students |
-| Lehmann et al. (2025) | Programming | More topics covered | <strong>Harmed understanding</strong>; widened gaps | General AI for low-prior learners |
-| Stadler et al. (2024) | Academic research | Faster task completion | <strong>Lower-quality reasoning</strong> vs. search | Reduced cognitive engagement |
-| Kosmyna et al. (2025) | Essay writing | Higher essay quality | <strong>83% failed to recall</strong> their own quotes | Outsourced authorship |</p><p>All five studies show a <strong>negative or null transfer</strong> pattern when general-purpose AI is the intervention.</p><p><h3>Misalignment Amplification</h3></p><p>Hardy & Kim (2026) demonstrate that shared pretraining biases across LLMs produce behaviors poorly aligned with teaching quality and <strong>negatively aligned</strong> with student outcomes. Multi-model ensembles even <em>exacerbate</em> misalignment. See <a href="educational-llm-alignment.html">educational-llm-alignment</a>.</p><p><h2>Mechanisms Undermining Transfer</h2></p><p><h3>1. Metacognitive Displacement</h3>
+<ul><li>Students may become <strong>dependent on the tool</strong> at the expense of independent reasoning</li></ul></p><p>This pattern is the defining risk of integrating AI into learning environments.</p><p><h2>Key Studies</h2></p><table>
+<thead>
+<tr>
+<th>Study</th>
+<th>Context</th>
+<th>Immediate Effect</th>
+<th>Transfer Effect</th>
+<th>Mechanism</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bastani et al. (2025)</td>
+<td>High school math</td>
+<td>Higher practice grades</td>
+<td><strong>~17% worse</strong> on closed-book finals</td>
+<td>General-purpose chatbot did the work</td>
+</tr>
+<tr>
+<td>Chen et al. (2025)</td>
+<td>Programming homework</td>
+<td>Higher homework scores</td>
+<td><strong>No improvement</strong> on unassisted exams</td>
+<td>LLM-Tutor solved problems for students</td>
+</tr>
+<tr>
+<td>Lehmann et al. (2025)</td>
+<td>Programming</td>
+<td>More topics covered</td>
+<td><strong>Harmed understanding</strong>; widened gaps</td>
+<td>General AI for low-prior learners</td>
+</tr>
+<tr>
+<td>Stadler et al. (2024)</td>
+<td>Academic research</td>
+<td>Faster task completion</td>
+<td><strong>Lower-quality reasoning</strong> vs. search</td>
+<td>Reduced cognitive engagement</td>
+</tr>
+<tr>
+<td>Kosmyna et al. (2025)</td>
+<td>Essay writing</td>
+<td>Higher essay quality</td>
+<td><strong>83% failed to recall</strong> their own quotes</td>
+<td>Outsourced authorship</td>
+</tr>
+</tbody>
+</table><p>All five studies show a <strong>negative or null transfer</strong> pattern when general-purpose AI is the intervention.</p><p><h3>Misalignment Amplification</h3></p><p>Hardy & Kim (2026) demonstrate that shared pretraining biases across LLMs produce behaviors poorly aligned with teaching quality and <strong>negatively aligned</strong> with student outcomes. Multi-model ensembles even <em>exacerbate</em> misalignment. See <a href="educational-llm-alignment.html">educational-llm-alignment</a>.</p><p><h2>Mechanisms Undermining Transfer</h2></p><p><h3>1. Metacognitive Displacement</h3>
 AI completing reasoning reduces opportunities for students to monitor their own understanding and select strategies. Students who used AI were less able to explain their answers when queried.^<a href="stanford-evidence-base-ai-k12-2026.html">stanford-evidence-base-ai-k12-2026</a></p><p><h3>2. Germane Load Suppression</h3>
 General-purpose AI reduces not just extraneous (distracting) cognitive load but also <em>germane</em> load — the productive mental effort that encodes durable knowledge. Easier practice feels better but stores weaker traces. See <a href="tutoring-specific-vs-general-ai.html">tutoring-specific-vs-general-ai</a>.</p><p><h3>3. Over-Reliance / Expertise Reversal</h3>
 Novices given answers do not build schemas. General AI provides answers; effective tutoring provides <strong>structured guidance</strong>. When novices are given expert-level shortcuts, learning is disrupted.^<a href="stanford-evidence-base-ai-k12-2026.html">stanford-evidence-base-ai-k12-2026</a></p><p><h3>4. Tool-Dependent Performance</h3>

@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -33,23 +51,90 @@
         <h1>Collaborative AI Tutoring</h1>
         <div class="metadata">Created: 2026-05-07 | Tags: <a href="../tags/intelligent-tutoring.html" class="tag">intelligent-tutoring</a><a href="../tags/adaptive-learning.html" class="tag">adaptive-learning</a><a href="../tags/scaffolding.html" class="tag">scaffolding</a><a href="../tags/higher-ed.html" class="tag">higher-ed</a><a href="../tags/formative-assessment.html" class="tag">formative-assessment</a><a href="../tags/learning-analytics.html" class="tag">learning-analytics</a></div>
     </header>
-    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.02703">arXiv:2605.02703</a> · <a href="raw/papers/golrang-propact-pair-programming-2026.md">local</a></p><p>> Most adaptive learning systems are individual-centric and reactive. <strong>ProPACT</strong> treats <strong>collaboration itself as the object of instruction</strong>, intervening <em>before</em> dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.^<a href="golrang-propact-pair-programming-2026.html">golrang-propact-pair-programming-2026</a></p><p><h2>The Dyadic Learner Model</h2></p><p>ProPACT constructs a real-time model of pair collaboration using three signals:</p><p>| Signal | Description | Measurement |
-|--------|-------------|-------------|
-| <strong>JVA</strong> (Joint Visual Attention) | Shared attentional focus | Cosine similarity of gaze distributions over 30-second windows |
-| <strong>ME</strong> (Mental Effort) | Individual cognitive load | Index of Pupillary Activity (IPA) over 10-second windows |
-| <strong>JME</strong> (Joint Mental Effort) | Cognitive engagement synchrony | Cross-recurrence of synchronized ME signals |</p><p>All signals are discretized against a resting baseline using <strong>±2SD bins</strong> (High, Average, Low).^<a href="golrang-propact-pair-programming-2026.html">golrang-propact-pair-programming-2026</a></p><p><h2>Proactive Forecasting Engine</h2></p><p><ul><li><strong>Model:</strong> XGBoost predicts JVA, JME, and ME over a <strong>30-second horizon</strong></li></ul>
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.02703">arXiv:2605.02703</a> · <a href="raw/papers/golrang-propact-pair-programming-2026.md">local</a></p><p>> Most adaptive learning systems are individual-centric and reactive. <strong>ProPACT</strong> treats <strong>collaboration itself as the object of instruction</strong>, intervening <em>before</em> dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.^<a href="golrang-propact-pair-programming-2026.html">golrang-propact-pair-programming-2026</a></p><p><h2>The Dyadic Learner Model</h2></p><p>ProPACT constructs a real-time model of pair collaboration using three signals:</p><table>
+<thead>
+<tr>
+<th>Signal</th>
+<th>Description</th>
+<th>Measurement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>JVA</strong> (Joint Visual Attention)</td>
+<td>Shared attentional focus</td>
+<td>Cosine similarity of gaze distributions over 30-second windows</td>
+</tr>
+<tr>
+<td><strong>ME</strong> (Mental Effort)</td>
+<td>Individual cognitive load</td>
+<td>Index of Pupillary Activity (IPA) over 10-second windows</td>
+</tr>
+<tr>
+<td><strong>JME</strong> (Joint Mental Effort)</td>
+<td>Cognitive engagement synchrony</td>
+<td>Cross-recurrence of synchronized ME signals</td>
+</tr>
+</tbody>
+</table><p>All signals are discretized against a resting baseline using <strong>±2SD bins</strong> (High, Average, Low).^<a href="golrang-propact-pair-programming-2026.html">golrang-propact-pair-programming-2026</a></p><p><h2>Proactive Forecasting Engine</h2></p><p><ul><li><strong>Model:</strong> XGBoost predicts JVA, JME, and ME over a <strong>30-second horizon</strong></li></ul>
 <ul><li><strong>Policy:</strong> Rule-based pedagogical hierarchy prioritizes minimally intrusive support</li></ul>
-<ul><li><strong>Principle:</strong> Fade support when collaboration is productive; escalate only when breakdown risk increases</li></ul></p><p><h2>Adaptive Feedback Hierarchy</h2></p><p>| Intervention | Trigger | Intrusiveness |
-|---|---|---|
-| <strong>A1: Do nothing</strong> | MEs=AVG, JVA=H, JME=H | None (desired state) |
-| <strong>A2: GitHub Copilot</strong> | MEs=HH or LL, or (MEs=HL and JVA=L) | Low (autocomplete) |
-| <strong>A3: Gaze-awareness tool</strong> | JVA=Low | Low (visual cue highlighting partner's gaze) |
-| <strong>A4: Dialogue prompt</strong> | JME=Low | Medium (editor prompt encouraging brief dialogue) |
-| <strong>A5: Task-based hint</strong> | Both MEs=High (last resort) | High (directive hint) |</p><p>The hierarchy embodies the principle that <strong>proactive, minimally intrusive scaffolds</strong> outperform reactive, directive interventions.^<a href="golrang-propact-pair-programming-2026.html">golrang-propact-pair-programming-2026</a></p><p><h2>Key Results</h2></p><p>In a within-subjects study with <strong>26 pair-programming dyads</strong> (52 CS/Engineering students), ProPACT feedback vs. control showed:</p><p>| Measure | Effect |
-|---|---|
-| <strong>Debugging success</strong> | Significantly higher (<em>t</em>(49.96) = −13.51, <em>p</em> < .0001) |
-| <strong>Debugging time</strong> | Significantly lower / more efficient (<em>t</em>(44.70) = 4.39, <em>p</em> < .0001) |
-| <strong>Feedback uptake</strong> | Significantly higher (<em>F</em>(49.81) = −17.69, <em>p</em> < .0001) |</p><p>Post-intervention gains in JVA and JME suggest improved collaborative regulation beyond immediate task completion.^<a href="golrang-propact-pair-programming-2026.html">golrang-propact-pair-programming-2026</a></p><p><h2>Relationship to Tutoring-Specific Design</h2></p><p>ProPACT exemplifies <a href="tutoring-specific-vs-general-ai.html">tutoring-specific design</a>: it does not give answers but structures collaboration through graduated scaffolds (mimicking a skilled pair-programming mentor). Like the best tutoring systems, it targets the <a href="zone-of-proximal-development.html">zone of proximal development</a> at the <em>dyadic</em> level—ensuring partners are neither overloaded nor under-challenged. It also preserves <a href="metacognition.html">metacognition</a> by requiring learners to actively monitor and regulate their collaboration.^<a href="golrang-propact-pair-programming-2026.html">golrang-propact-pair-programming-2026</a></p><p><h2>Implications</h2></p><p><ul><li><strong>For CS education:</strong> Real-time dyadic regulation is tractable and effective; eye tracking + ML forecasting is viable at classroom scale</li></ul>
+<ul><li><strong>Principle:</strong> Fade support when collaboration is productive; escalate only when breakdown risk increases</li></ul></p><p><h2>Adaptive Feedback Hierarchy</h2></p><table>
+<thead>
+<tr>
+<th>Intervention</th>
+<th>Trigger</th>
+<th>Intrusiveness</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A1: Do nothing</strong></td>
+<td>MEs=AVG, JVA=H, JME=H</td>
+<td>None (desired state)</td>
+</tr>
+<tr>
+<td><strong>A2: GitHub Copilot</strong></td>
+<td>MEs=HH or LL, or (MEs=HL and JVA=L)</td>
+<td>Low (autocomplete)</td>
+</tr>
+<tr>
+<td><strong>A3: Gaze-awareness tool</strong></td>
+<td>JVA=Low</td>
+<td>Low (visual cue highlighting partner's gaze)</td>
+</tr>
+<tr>
+<td><strong>A4: Dialogue prompt</strong></td>
+<td>JME=Low</td>
+<td>Medium (editor prompt encouraging brief dialogue)</td>
+</tr>
+<tr>
+<td><strong>A5: Task-based hint</strong></td>
+<td>Both MEs=High (last resort)</td>
+<td>High (directive hint)</td>
+</tr>
+</tbody>
+</table><p>The hierarchy embodies the principle that <strong>proactive, minimally intrusive scaffolds</strong> outperform reactive, directive interventions.^<a href="golrang-propact-pair-programming-2026.html">golrang-propact-pair-programming-2026</a></p><p><h2>Key Results</h2></p><p>In a within-subjects study with <strong>26 pair-programming dyads</strong> (52 CS/Engineering students), ProPACT feedback vs. control showed:</p><table>
+<thead>
+<tr>
+<th>Measure</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Debugging success</strong></td>
+<td>Significantly higher (<em>t</em>(49.96) = −13.51, <em>p</em> < .0001)</td>
+</tr>
+<tr>
+<td><strong>Debugging time</strong></td>
+<td>Significantly lower / more efficient (<em>t</em>(44.70) = 4.39, <em>p</em> < .0001)</td>
+</tr>
+<tr>
+<td><strong>Feedback uptake</strong></td>
+<td>Significantly higher (<em>F</em>(49.81) = −17.69, <em>p</em> < .0001)</td>
+</tr>
+</tbody>
+</table><p>Post-intervention gains in JVA and JME suggest improved collaborative regulation beyond immediate task completion.^<a href="golrang-propact-pair-programming-2026.html">golrang-propact-pair-programming-2026</a></p><p><h2>Relationship to Tutoring-Specific Design</h2></p><p>ProPACT exemplifies <a href="tutoring-specific-vs-general-ai.html">tutoring-specific design</a>: it does not give answers but structures collaboration through graduated scaffolds (mimicking a skilled pair-programming mentor). Like the best tutoring systems, it targets the <a href="zone-of-proximal-development.html">zone of proximal development</a> at the <em>dyadic</em> level—ensuring partners are neither overloaded nor under-challenged. It also preserves <a href="metacognition.html">metacognition</a> by requiring learners to actively monitor and regulate their collaboration.^<a href="golrang-propact-pair-programming-2026.html">golrang-propact-pair-programming-2026</a></p><p><h2>Implications</h2></p><p><ul><li><strong>For CS education:</strong> Real-time dyadic regulation is tractable and effective; eye tracking + ML forecasting is viable at classroom scale</li></ul>
 <ul><li><strong>For adaptive systems:</strong> The "tutoring" unit need not be an individual—collaboration itself can be scaffolded</li></ul>
 <ul><li><strong>For transfer:</strong> Does improved dyadic regulation transfer to unsupervised pair work? Not yet tested</li></ul></p><p><h2>Related Pages</h2>
 <ul><li><a href="engagement-forecasting-its.html">engagement-forecasting-its</a> — Feature-based engagement forecasting reduces MAE 22-33% vs heuristics; effort dr</li></ul>
