@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -38,11 +56,28 @@
 <ul><li><strong>Language:</strong> Python (vs. prior ITS focused on Java, C++)</li></ul>
 <ul><li><strong>Pedagogy:</strong> Individualized hints and advice during coding exercises</li></ul>
 <ul><li><strong>Deployment:</strong> Real classroom integration (not just lab prototype)</li></ul></p><p><h3>Key Features</h3>
-| Feature | Description |
-|---------|-------------|
-| <strong>Hint generation</strong> | Context-aware hints based on code state and error type |
-| <strong>Exercise adaptation</strong> | Difficulty adjustment based on learner performance |
-| <strong>Scaffolding</strong> | Graduated support (from syntax to algorithm design) |</p><p><h2>Connection to Broader Programming Education</h2></p><p>SCRIPT addresses a core challenge: <strong>practice and extensive exercises are essential in programming education</strong>, but human tutors cannot scale to large cohorts.</p><p>This connects to:
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Hint generation</strong></td>
+<td>Context-aware hints based on code state and error type</td>
+</tr>
+<tr>
+<td><strong>Exercise adaptation</strong></td>
+<td>Difficulty adjustment based on learner performance</td>
+</tr>
+<tr>
+<td><strong>Scaffolding</strong></td>
+<td>Graduated support (from syntax to algorithm design)</td>
+</tr>
+</tbody>
+</table><p><h2>Connection to Broader Programming Education</h2></p><p>SCRIPT addresses a core challenge: <strong>practice and extensive exercises are essential in programming education</strong>, but human tutors cannot scale to large cohorts.</p><p>This connects to:
 <ul><li><strong><a href="collaborative-ai-tutoring.html">collaborative-ai-tutoring</a></strong> — ProPACT for pair programming (collaborative variant)</li></ul>
 <ul><li><strong><a href="formative-assessment.html">formative-assessment</a></strong> — AI-generated coding exercises with human-in-the-loop validation</li></ul>
 <ul><li><strong><a href="agentic-workflows-education.html">agentic-workflows-education</a></strong> — Agentic approaches to coding education (e.g., Claude Code tutor)</li></ul></p><p><h2>Research Gap Addressed</h2></p><p>Prior ITS for programming focused on:

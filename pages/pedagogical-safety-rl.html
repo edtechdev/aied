@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -36,12 +54,37 @@
     <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2604.04237">arXiv:2604.04237</a> · <a href="raw/papers/2604.04237.md">local</a></p><p>> First formal framework for defining and detecting <em>pedagogical safety</em> violations in RL-based AI tutoring systems.</p><p><h2>The Problem: Reward Hacking in Educational RL</h2></p><p><strong>Olukola & Rahimi (2026)</strong> identify a critical gap: as reinforcement learning personalizes instruction in ITS, <strong>there is no formal framework for pedagogical safety</strong>.</p><p><h3>What is "Reward Hacking" in Education?</h3></p><p>In RL, agents optimize for a reward signal. In education, this can lead to:
 <ul><li><strong>Test score inflation:</strong> Optimizing for quiz performance without deep learning</li></ul>
 <ul><li><strong>Engagement gaming:</strong> Keeping students "engaged" via entertainment rather than learning</li></ul>
-<ul><li><strong>Short-term gains:</strong> Sacrificing long-term retention for immediate performance metrics</li></ul></p><p><h2>Four-Layer Model of Pedagogical Safety</h2></p><p>| Layer | Focus | Safety Criterion |
-|-------|-------|------------------|
-| <strong>Structural</strong> | System architecture | No single point of pedagogical failure |
-| <strong>Progress</strong> | Learning trajectory | Demonstrated progress toward learning objectives |
-| <strong>Engagement</strong> | Motivation quality | Engagement that supports (not replaces) learning |
-| <strong>Outcome</strong> | Transfer & retention | Learning persists beyond tutored context |</p><p><h2>Connection to SafeTutors Taxonomy</h2></p><p>This complements the <a href="ai-tutor-safety-harms.html">SafeTutors taxonomy</a> which identifies 11 harm dimensions:
+<ul><li><strong>Short-term gains:</strong> Sacrificing long-term retention for immediate performance metrics</li></ul></p><p><h2>Four-Layer Model of Pedagogical Safety</h2></p><table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>Focus</th>
+<th>Safety Criterion</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Structural</strong></td>
+<td>System architecture</td>
+<td>No single point of pedagogical failure</td>
+</tr>
+<tr>
+<td><strong>Progress</strong></td>
+<td>Learning trajectory</td>
+<td>Demonstrated progress toward learning objectives</td>
+</tr>
+<tr>
+<td><strong>Engagement</strong></td>
+<td>Motivation quality</td>
+<td>Engagement that supports (not replaces) learning</td>
+</tr>
+<tr>
+<td><strong>Outcome</strong></td>
+<td>Transfer & retention</td>
+<td>Learning persists beyond tutored context</td>
+</tr>
+</tbody>
+</table><p><h2>Connection to SafeTutors Taxonomy</h2></p><p>This complements the <a href="ai-tutor-safety-harms.html">SafeTutors taxonomy</a> which identifies 11 harm dimensions:
 <ul><li><strong>Over-reliance</strong> (learner dependency on AI)</li></ul>
 <ul><li><strong>Misinformation</strong> (incorrect content delivery)</li></ul>
 <ul><li><strong>Bias</strong> (demographic performance gaps)</li></ul></p><p>Pedagogical Safety in RL adds: <strong>system-level safety</strong> (how the <em>learning algorithm itself</em> can cause harm through optimization failures).</p><p><h2>Detection Methods</h2></p><p>The paper proposes detecting reward hacking via:

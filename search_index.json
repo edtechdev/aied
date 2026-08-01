@@ -1855,7 +1855,7 @@
       "formative-assessment",
       "learning-analytics"
     ],
-    "content": "> \ud83d\udcc4 Full text: arXiv:2605.02703 \u00b7 localCollaborative AI Tutoring> Most adaptive learning systems are individual-centric and reactive. ProPACT treats collaboration itself as the object of instruction, intervening before dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.^golrang-propact-pair-programming-2026The Dyadic Learner ModelProPACT constructs a real-time model of pair collaboration using three signals:| Signal | Description | Measurement |\n|--------|------",
+    "content": "> \ud83d\udcc4 Full text: arXiv:2605.02703 \u00b7 localCollaborative AI Tutoring> Most adaptive learning systems are individual-centric and reactive. ProPACT treats collaboration itself as the object of instruction, intervening before dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.^golrang-propact-pair-programming-2026The Dyadic Learner ModelProPACT constructs a real-time model of pair collaboration using three signals:\n\n\nSignal\nDescription\nMeasurement\n\n\n\n\nJVA (Joint Visual",
     "url": "pages/collaborative-ai-tutoring.html"
   },
   {
@@ -2328,7 +2328,7 @@
     "tags": [
       "digest"
     ],
-    "content": "Daily Digest: 2026-05-147 new papers ingested from 4 academic sources. Wiki now at 8 pages.Source Status\n| Source | Status | Results |\n|--------|--------|---------|\n| arXiv cs.CY | \u2717 rate-limited (429) | 0 papers |\n| arXiv cs.HC | \u2717 rate-limited (429) | 0 papers |\n| Semantic Scholar | \u2717 empty response | 0 papers |\n| OpenAlex | \u2717 future-dated only | 0 usable |\n| web_search fallback | \u2713 | 20 papers scanned \u2192 7 ingested |Papers IngestedHybrid Human-AI Tutoring\nhybrid-human-ai-tutoring-differentiate",
+    "content": "Daily Digest: 2026-05-147 new papers ingested from 4 academic sources. Wiki now at 8 pages.Source Status\n\n\n\nSource\nStatus\nResults\n\n\n\n\narXiv cs.CY\n\u2717 rate-limited (429)\n0 papers\n\n\narXiv cs.HC\n\u2717 rate-limited (429)\n0 papers\n\n\nSemantic Scholar\n\u2717 empty response\n0 papers\n\n\nOpenAlex\n\u2717 future-dated only\n0 usable\n\n\nweb_search fallback\n\u2713\n20 papers scanned \u2192 7 ingested\n\n\nPapers IngestedHybrid Human-AI Tutoring\nhybrid-human-ai-tutoring-differentiated \u2014 Gurung, Koedinger, Aleven et al. (EDM'26): DiDC study wi",
     "url": "pages/daily-digest-2026-05-14.html"
   },
   {
@@ -2373,7 +2373,7 @@
     "tags": [
       "daily-digest"
     ],
-    "content": "Daily Digest \u2014 2026-05-198 papers ingested | Wiki: 156 pages | JournalSource Status\n| Source | Status |\n|--------|--------|\n| arXiv cs.CY | \u2717 Rate-limited (HTTP 301 redirect + 429) |\n| arXiv cs.HC | \u2717 Rate-limited (HTTP 429) |\n| Semantic Scholar | \u2713 1 result (already ingested) |\n| OpenAlex | \u2713 0 results (future-dated filtered) |\n| Web search + listing pages | \u2713 8 papers |Papers IngestedConfirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most\narXiv: 2605.1620",
+    "content": "Daily Digest \u2014 2026-05-198 papers ingested | Wiki: 156 pages | JournalSource Status\n\n\n\nSource\nStatus\n\n\n\n\narXiv cs.CY\n\u2717 Rate-limited (HTTP 301 redirect + 429)\n\n\narXiv cs.HC\n\u2717 Rate-limited (HTTP 429)\n\n\nSemantic Scholar\n\u2713 1 result (already ingested)\n\n\nOpenAlex\n\u2713 0 results (future-dated filtered)\n\n\nWeb search + listing pages\n\u2713 8 papers\n\n\nPapers IngestedConfirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most\narXiv: 2605.16207 | Page: llm-tutoring-feedback-diagno",
     "url": "pages/daily-digest-2026-05-19.html"
   },
   {
@@ -2413,7 +2413,7 @@
       "ai-literacy",
       "stem-education"
     ],
-    "content": "Daily Digest \u2014 2026-05-23Weekend scan \u2014 no new arXiv submissions for Saturday, May 23. 3 catch-up papers ingested from Friday May 22 and earlier in the week. Wiki now at 186 pages.Source Status| Source | Status | Papers |\n|--------|--------|--------|\n| arXiv cs.CY API | \u2717 HTTP 500 | Fallback to listing page \u2713 |\n| arXiv cs.HC API | \u2717 HTTP 500 | Fallback to listing page \u2713 |\n| Semantic Scholar | \u2713 | 0 new |\n| OpenAlex | \u2713 | 0 new |Ingested Papers1. Faster Completion, Less Learning: Generative AI Re",
+    "content": "Daily Digest \u2014 2026-05-23Weekend scan \u2014 no new arXiv submissions for Saturday, May 23. 3 catch-up papers ingested from Friday May 22 and earlier in the week. Wiki now at 186 pages.Source Status\n\n\nSource\nStatus\nPapers\n\n\n\n\narXiv cs.CY API\n\u2717 HTTP 500\nFallback to listing page \u2713\n\n\narXiv cs.HC API\n\u2717 HTTP 500\nFallback to listing page \u2713\n\n\nSemantic Scholar\n\u2713\n0 new\n\n\nOpenAlex\n\u2713\n0 new\n\n\nIngested Papers1. Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems\nRismanchian et al. ",
     "url": "pages/daily-digest-2026-05-23.html"
   },
   {
@@ -2422,7 +2422,7 @@
     "tags": [
       "daily-digest"
     ],
-    "content": "Daily Digest \u2014 2026-05-24Sunday \u2014 no new arXiv submissions for May 24. Wiki at 186 pages (unchanged).Source Status| Source | Status | Papers |\n|--------|--------|--------|\n| arXiv cs.CY | \u2713 | 0 |\n| arXiv cs.HC | \u2713 | 0 |\n| arXiv cs.CL + cs.AI (fallback) | \u2713 | 0 |\n| Semantic Scholar | \u2713 | 0 new in window |\n| OpenAlex | \u2713 | 0 (all future-dated) |NotesSunday: arXiv does not announce new submissions on weekends. Zero results expected.\nSemantic Scholar returned 1 older paper (2602.14517, Feb 2026 \u2014 \"L",
+    "content": "Daily Digest \u2014 2026-05-24Sunday \u2014 no new arXiv submissions for May 24. Wiki at 186 pages (unchanged).Source Status\n\n\nSource\nStatus\nPapers\n\n\n\n\narXiv cs.CY\n\u2713\n0\n\n\narXiv cs.HC\n\u2713\n0\n\n\narXiv cs.CL + cs.AI (fallback)\n\u2713\n0\n\n\nSemantic Scholar\n\u2713\n0 new in window\n\n\nOpenAlex\n\u2713\n0 (all future-dated)\n\n\nNotesSunday: arXiv does not announce new submissions on weekends. Zero results expected.\nSemantic Scholar returned 1 older paper (2602.14517, Feb 2026 \u2014 \"LLMs for Math Education in Sinhala and Tamil\") outside the 1",
     "url": "pages/daily-digest-2026-05-24.html"
   },
   {
@@ -2519,7 +2519,7 @@
       "digest",
       "daily"
     ],
-    "content": "Daily Digest: 2026-06-09New Papers Ingested (8)| Paper | Authors | Slug |\n|-------|---------|------|\n| Awareness of Technological Isomorphism: AI in Elementary Math | Li & Cao | awareness-technological-isomorphism |\n| LLM-Generated Feedback in Introductory Programming | Heickal & Lan | llm-feedback-programming-classroom |\n| Regulating the AI Tutor: SRL in Adolescent GenAI Use | Abdelghani et al. | regulating-ai-tutor-adolescent-srl |\n| Culturally-Aware AI for Cross-Boundary Community Learning | ",
+    "content": "Daily Digest: 2026-06-09New Papers Ingested (8)\n\n\nPaper\nAuthors\nSlug\n\n\n\n\nAwareness of Technological Isomorphism: AI in Elementary Math\nLi & Cao\nawareness-technological-isomorphism\n\n\nLLM-Generated Feedback in Introductory Programming\nHeickal & Lan\nllm-feedback-programming-classroom\n\n\nRegulating the AI Tutor: SRL in Adolescent GenAI Use\nAbdelghani et al.\nregulating-ai-tutor-adolescent-srl\n\n\nCulturally-Aware AI for Cross-Boundary Community Learning\nZhao et al.\nculturally-aware-aied-community-learni",
     "url": "pages/daily-digest-2026-06-09.html"
   },
   {
@@ -2529,7 +2529,7 @@
       "digest",
       "daily"
     ],
-    "content": "Daily Digest: 2026-06-11New Papers Ingested (2)| Paper | Authors | Slug |\n|-------|---------|------|\n| The Environmental Cost of LLMs in AIED: Reporting and Practices | Eimler et al. | aied-carbon-footprint-reporting |\n| Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning | Mittal, Blodgett & Liao | learning-by-chatting-genai-impact |Source Status\narXiv cs.CY: \u2713 1 new paper\narXiv cs.HC: \u2713 1 new paper (cross-listed)\nSemantic Scholar: \u2713 1 old result ",
+    "content": "Daily Digest: 2026-06-11New Papers Ingested (2)\n\n\nPaper\nAuthors\nSlug\n\n\n\n\nThe Environmental Cost of LLMs in AIED: Reporting and Practices\nEimler et al.\naied-carbon-footprint-reporting\n\n\nLearning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning\nMittal, Blodgett & Liao\nlearning-by-chatting-genai-impact\n\n\nSource Status\narXiv cs.CY: \u2713 1 new paper\narXiv cs.HC: \u2713 1 new paper (cross-listed)\nSemantic Scholar: \u2713 1 old result (pre-June 9, skipped)\nOpenAlex: \u2713 0 (al",
     "url": "pages/daily-digest-2026-06-11.html"
   },
   {
@@ -2539,7 +2539,7 @@
       "digest",
       "daily"
     ],
-    "content": "Daily Digest: 2026-06-12New Papers Ingested (5)| Paper | Authors | Slug |\n|-------|---------|------|\n| Structuring Transparency: Domain-Specific GenAI Declaration Frameworks in Higher Education | Micallef & Petrovska | genai-declaration-frameworks-higher-education |\n| Generativism: Learning Theory for the Age of Generative AI | Li & Zheng | generativism-learning-theory |\n| Knowing the Rules Is Not Enough: Student Regulatory Awareness and GenAI Use | Bischof, Sch\u00f6n, Rauschenberger & Neumann | stu",
+    "content": "Daily Digest: 2026-06-12New Papers Ingested (5)\n\n\nPaper\nAuthors\nSlug\n\n\n\n\nStructuring Transparency: Domain-Specific GenAI Declaration Frameworks in Higher Education\nMicallef & Petrovska\ngenai-declaration-frameworks-higher-education\n\n\nGenerativism: Learning Theory for the Age of Generative AI\nLi & Zheng\ngenerativism-learning-theory\n\n\nKnowing the Rules Is Not Enough: Student Regulatory Awareness and GenAI Use\nBischof, Sch\u00f6n, Rauschenberger & Neumann\nstudent-regulatory-awareness-genai\n\n\nAiAWE: Open-",
     "url": "pages/daily-digest-2026-06-12.html"
   },
   {
@@ -2549,7 +2549,7 @@
       "digest",
       "daily"
     ],
-    "content": "Daily Digest: 2026-06-15New Papers Ingested (1)| Paper | Authors | Slug |\n|-------|---------|------|\n| Simulating Students' Java Programming Errors with Large Language Models | Keramati, Cao, Mohammadi, Warschauer & Shi | simulating-students-java-programming-errors-llms |Source Status| Source | Status | Papers Found |\n|--------|--------|-------------|\n| arXiv cs.CY | \u2713 | 1 (keyword match: 2606.14358 \u2014 pedagogical orchestration, non-AI, skipped) |\n| arXiv cs.HC | \u2713 | 0 |\n| arXiv cs.CL + cs.AI (fa",
+    "content": "Daily Digest: 2026-06-15New Papers Ingested (1)\n\n\nPaper\nAuthors\nSlug\n\n\n\n\nSimulating Students' Java Programming Errors with Large Language Models\nKeramati, Cao, Mohammadi, Warschauer & Shi\nsimulating-students-java-programming-errors-llms\n\n\nSource Status\n\n\nSource\nStatus\nPapers Found\n\n\n\n\narXiv cs.CY\n\u2713\n1 (keyword match: 2606.14358 \u2014 pedagogical orchestration, non-AI, skipped)\n\n\narXiv cs.HC\n\u2713\n0\n\n\narXiv cs.CL + cs.AI (fallback)\n\u2713\n4 total; 1 relevant\n\n\nSemantic Scholar\n\u2713\n1 (Codify \u2014 already in wiki)\n\n\n",
     "url": "pages/daily-digest-2026-06-15.html"
   },
   {
@@ -2834,7 +2834,7 @@
     "tags": [
       "daily-digest"
     ],
-    "content": "Daily Digest \u2014 2026-07-29No new AIED papers found today. Scanned across 4 sources with zero in-window results matching the AI-in-education relevance filter.Source Status| Source | Status | Notes |\n|--------|--------|-------|\n| arXiv cs.CY | \u2713 | 0 in-window papers |\n| arXiv cs.HC | \u2713 | 0 in-window papers |\n| Semantic Scholar | \u2713 | 1 total, 0 in-window |\n| OpenAlex | \u2713 | 10 total, 0 in-window (all future-dated placeholders) |Search Window2026-07-28 to 2026-07-29Related Pagesdaily-digest-2026-07-28",
+    "content": "Daily Digest \u2014 2026-07-29No new AIED papers found today. Scanned across 4 sources with zero in-window results matching the AI-in-education relevance filter.Source Status\n\n\nSource\nStatus\nNotes\n\n\n\n\narXiv cs.CY\n\u2713\n0 in-window papers\n\n\narXiv cs.HC\n\u2713\n0 in-window papers\n\n\nSemantic Scholar\n\u2713\n1 total, 0 in-window\n\n\nOpenAlex\n\u2713\n10 total, 0 in-window (all future-dated placeholders)\n\n\nSearch Window2026-07-28 to 2026-07-29Related Pagesdaily-digest-2026-07-28 \u2014 Previous daily digest",
     "url": "pages/daily-digest-2026-07-29.html"
   },
   {
@@ -3274,7 +3274,7 @@
       "higher-ed",
       "feedback-loop"
     ],
-    "content": "> \ud83d\udcc4 Full text: arXiv:2605.01238 \u00b7 localEngagement Assessment in Video Learning> Sensor-based momentary assessment of engagement in self-guided video learning environments.The Engagement Problem in Video LearningEduGage (Leng et al., 2026) addresses a core challenge: in online/video-based learning, learners must self-regulate their engagement with instructional materials.Dimensions of Engagement\n| Dimension | Measurement | Relevance to Learning |\n|-----------|--------------|----------------------",
+    "content": "> \ud83d\udcc4 Full text: arXiv:2605.01238 \u00b7 localEngagement Assessment in Video Learning> Sensor-based momentary assessment of engagement in self-guided video learning environments.The Engagement Problem in Video LearningEduGage (Leng et al., 2026) addresses a core challenge: in online/video-based learning, learners must self-regulate their engagement with instructional materials.Dimensions of Engagement\n\n\n\nDimension\nMeasurement\nRelevance to Learning\n\n\n\n\nAttentional\nEye tracking, gaze patterns\nSustained f",
     "url": "pages/engagement-assessment-video.html"
   },
   {
@@ -4885,7 +4885,7 @@
       "higher-ed",
       "academic-integrity"
     ],
-    "content": "> \ud83d\udcc4 Full text: arXiv:2604.14807 \u00b7 localThe LLM Fallacy and Misattribution of Competence> The LLM fallacy is a cognitive attribution error in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between perceived and actual capability (\u2206C). It is independent of output correctness \u2014 it persists whether the AI is accurate or hallucinating.^kim-llm-fallacy-misattribution-2026Distinctions from Related Phenomena| Concept | Foc",
+    "content": "> \ud83d\udcc4 Full text: arXiv:2604.14807 \u00b7 localThe LLM Fallacy and Misattribution of Competence> The LLM fallacy is a cognitive attribution error in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between perceived and actual capability (\u2206C). It is independent of output correctness \u2014 it persists whether the AI is accurate or hallucinating.^kim-llm-fallacy-misattribution-2026Distinctions from Related Phenomena\n\n\nConcept\nFocu",
     "url": "pages/llm-fallacy-misattribution.html"
   },
   {
@@ -6824,7 +6824,7 @@
       "personalized-learning",
       "feedback-loop"
     ],
-    "content": "> \ud83d\udcc4 Full text: arXiv:2601.21375 \u00b7 localTeachBench: Evaluating LLM Teaching Ability> Syllabus-grounded framework for measuring LLM teaching capability via student performance improvement after multi-turn instruction.The Gap in LLM EvaluationLi et al. (2026) address a critical gap: while LLMs are increasingly used as teaching assistants, their teaching capability remains insufficiently evaluated.Limitations of Existing Benchmarks\n| Benchmark Type | Focus | Limitation |\n|---------------|-------|---",
+    "content": "> \ud83d\udcc4 Full text: arXiv:2601.21375 \u00b7 localTeachBench: Evaluating LLM Teaching Ability> Syllabus-grounded framework for measuring LLM teaching capability via student performance improvement after multi-turn instruction.The Gap in LLM EvaluationLi et al. (2026) address a critical gap: while LLMs are increasingly used as teaching assistants, their teaching capability remains insufficiently evaluated.Limitations of Existing Benchmarks\n\n\n\nBenchmark Type\nFocus\nLimitation\n\n\n\n\nProblem-solving (MMLU, HELM, ",
     "url": "pages/teachbench-llm-teaching-evaluation.html"
   },
   {
@@ -7100,7 +7100,7 @@
       "scaffolding",
       "adaptive-learning"
     ],
-    "content": "> \ud83d\udcc4 Full text: Stanford SCALE \u00b7 localTutoring-Specific vs. General-Purpose AI in Education> The single most consistent finding in the 2026 Stanford SCALE review: pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots on durable learning outcomes.^stanford-evidence-base-ai-k12-2026The Core Distinction| Dimension | General-Purpose AI (e.g., ChatGPT, Gemini) | Tutoring-Specific AI |\n|---|---|---|\n| Interaction model | Open-ended Q&A; completes tasks on reques",
+    "content": "> \ud83d\udcc4 Full text: Stanford SCALE \u00b7 localTutoring-Specific vs. General-Purpose AI in Education> The single most consistent finding in the 2026 Stanford SCALE review: pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots on durable learning outcomes.^stanford-evidence-base-ai-k12-2026The Core Distinction\n\n\nDimension\nGeneral-Purpose AI (e.g., ChatGPT, Gemini)\nTutoring-Specific AI\n\n\n\n\nInteraction model\nOpen-ended Q&A; completes tasks on request\nStructured hints,",
     "url": "pages/tutoring-specific-vs-general-ai.html"
   },
   {

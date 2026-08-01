@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -41,10 +59,33 @@
 Across all 47 groups, project performance rose significantly from PRE to POST (Wilcoxon W = 1081, p < 0.001, rank-biserial rrb = 0.77 — a large effect); mean score +3.9 points (23.81 → 27.70), with post-test scores converging near the ceiling (median 28).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h3>RQ2 — No significant difference between feedback sources</h3>
 Post-feedback scores did <strong>not</strong> differ by source (Kruskal–Wallis H(2) = 1.91, p = 0.384, ε² = 0.042); gain scores likewise non-significant (H(2) = 0.74, p = 0.690). Pairwise Hodges–Lehmann contrasts all had CIs spanning zero.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h3>RQ3 — Attendance doesn't matter</h3>
 Robust linear model: no main effect of attendance (F(1,41) = 1.52, p = 0.225), no source × attendance interaction (F(2,41) = 0.97, p = 0.389).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h3>RQ4 — AI feedback is practically comparable to teacher feedback</h3>
-| Comparison (AI − Teacher) | Mean diff | 90% CI | Non-inferior? | Equivalent? |
-| --- | --- | --- | --- | --- |
-| <strong>GPT-o4-mini</strong> vs Teacher | +0.23 | [−0.46, 0.91] | <strong>Yes</strong> | <strong>Yes</strong> |
-| <strong>DeepSeek R1</strong> vs Teacher | +0.56 | [−0.05, 1.18] | <strong>Yes</strong> | No (upper bound exceeds +1) |</p><p>Same pattern on baseline-adjusted gains (DIFF_ADJ). <strong>GPT-o4-mini met both non-inferiority and full equivalence</strong>; <strong>DeepSeek R1 met non-inferiority</strong> (practically comparable, but with more uncertainty).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h3>Student perceptions — equally positive across sources</h3>
+<table>
+<thead>
+<tr>
+<th>Comparison (AI − Teacher)</th>
+<th>Mean diff</th>
+<th>90% CI</th>
+<th>Non-inferior?</th>
+<th>Equivalent?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>GPT-o4-mini</strong> vs Teacher</td>
+<td>+0.23</td>
+<td>[−0.46, 0.91]</td>
+<td><strong>Yes</strong></td>
+<td><strong>Yes</strong></td>
+</tr>
+<tr>
+<td><strong>DeepSeek R1</strong> vs Teacher</td>
+<td>+0.56</td>
+<td>[−0.05, 1.18]</td>
+<td><strong>Yes</strong></td>
+<td>No (upper bound exceeds +1)</td>
+</tr>
+</tbody>
+</table><p>Same pattern on baseline-adjusted gains (DIFF_ADJ). <strong>GPT-o4-mini met both non-inferiority and full equivalence</strong>; <strong>DeepSeek R1 met non-inferiority</strong> (practically comparable, but with more uncertainty).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]</p><p><h3>Student perceptions — equally positive across sources</h3>
 Validated 19-item questionnaire (N = 200; scales: perceived mastery α = 0.81, positive emotions α = 0.85, negative emotions α = 0.73). Students were <strong>blind</strong> to feedback source. No significant differences across conditions on any scale:
 <ul><li>Perceived mastery: M ≈ 4.14–4.22 (high)</li></ul>
 <ul><li>Positive emotions: M ≈ 3.99–4.21</li></ul>

@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -44,12 +62,42 @@
 <ul><li><strong>Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?</strong> -- Stamatakis, Gavali, Berger, Wartena, Hoppe & Ewerth -- arXiv:2606.15919 -- ChatGPT answers with explanations do not improve student MCQ performance; GPT-4o/5 outperform smaller models <a href="llm-chatbots-cs-multiple-choice.html">llm-chatbots-cs-multiple-choice</a></li></ul>
 <ul><li><strong>The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization</strong> -- Neshaei, Shibu & Gures -- arXiv:2606.15902 -- Design-time GenUI with card-based semantic units embeds UDL and eliminates per-learner inference costs <a href="edtech-design-time-generative-ui.html">edtech-design-time-generative-ui</a></li></ul>
 <ul><li><strong>What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it</strong> -- Cukurova -- arXiv:2606.15509 -- 5-level taxonomy: most human-AI interaction is consultation/delegation, not true collaboration <a href="human-ai-collaboration-prerequisite-functions.html">human-ai-collaboration-prerequisite-functions</a></li></ul>
-<ul><li><strong>Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning</strong> -- Yamazaki & Rimal -- arXiv:2606.14960 -- Random forest predicts exam outcomes from physiological signals as well as deep learning with better interpretability <a href="physiological-signals-exam-outcomes-ml.html">physiological-signals-exam-outcomes-ml</a></li></ul></p><p><h2>Source Status</h2></p><p>| Source | Status | Count | Method |
-|--------|--------|-------|--------|
-| arXiv cs.CY | OK | 7 new papers | Listing page extraction |
-| arXiv cs.HC | OK | 4 new papers | Listing page extraction |
-| Semantic Scholar | OK | 1 old result (Codify, skipped) | API query |
-| OpenAlex | FAIL | All future-dated placeholders | API query (all dates >= 2026-12-29) |</p><p><h2>Statistics</h2></p><p><ul><li><strong>Papers scanned:</strong> ~49 across 4 sources</li></ul>
+<ul><li><strong>Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning</strong> -- Yamazaki & Rimal -- arXiv:2606.14960 -- Random forest predicts exam outcomes from physiological signals as well as deep learning with better interpretability <a href="physiological-signals-exam-outcomes-ml.html">physiological-signals-exam-outcomes-ml</a></li></ul></p><p><h2>Source Status</h2></p><table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Status</th>
+<th>Count</th>
+<th>Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>arXiv cs.CY</td>
+<td>OK</td>
+<td>7 new papers</td>
+<td>Listing page extraction</td>
+</tr>
+<tr>
+<td>arXiv cs.HC</td>
+<td>OK</td>
+<td>4 new papers</td>
+<td>Listing page extraction</td>
+</tr>
+<tr>
+<td>Semantic Scholar</td>
+<td>OK</td>
+<td>1 old result (Codify, skipped)</td>
+<td>API query</td>
+</tr>
+<tr>
+<td>OpenAlex</td>
+<td>FAIL</td>
+<td>All future-dated placeholders</td>
+<td>API query (all dates >= 2026-12-29)</td>
+</tr>
+</tbody>
+</table><p><h2>Statistics</h2></p><p><ul><li><strong>Papers scanned:</strong> ~49 across 4 sources</li></ul>
 <ul><li><strong>Newly ingested:</strong> 12</li></ul>
 <ul><li><strong>Wiki total:</strong> 305 concept pages</li></ul></p></main>
     <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-08-01</small></footer>

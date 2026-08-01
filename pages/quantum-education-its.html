@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -37,11 +55,28 @@
 <ul><li><strong>Structure:</strong> Concept nodes with prerequisite relationships mapped explicitly</li></ul>
 <ul><li><strong>Pedagogical use:</strong> Tutor traverses graph to select next topic based on learner state</li></ul>
 <ul><li><strong>Advantage:</strong> Explicit prerequisite mapping aids navigation of counterintuitive quantum concepts (superposition, entanglement, measurement)</li></ul></p><p><h3>Adaptive Components</h3>
-| Component | Function |
-|-----------|----------|
-| <strong>Learner Model</strong> | Tracks mastery per concept node in knowledge graph |
-| <strong>Pedagogical Module</strong> | Selects optimal next concept/scaffold based on zone of proximal development |
-| <strong>Interface</strong> | Visualizes quantum states (Bloch spheres, circuit diagrams) with stepwise guidance |</p><p><h2>Key Challenges Addressed</h2></p><p>1. <strong>Concept counterintuitiveness:</strong> Quantum mechanics violates classical intuition — requires specialized scaffolding beyond generic ITS
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Function</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Learner Model</strong></td>
+<td>Tracks mastery per concept node in knowledge graph</td>
+</tr>
+<tr>
+<td><strong>Pedagogical Module</strong></td>
+<td>Selects optimal next concept/scaffold based on zone of proximal development</td>
+</tr>
+<tr>
+<td><strong>Interface</strong></td>
+<td>Visualizes quantum states (Bloch spheres, circuit diagrams) with stepwise guidance</td>
+</tr>
+</tbody>
+</table><p><h2>Key Challenges Addressed</h2></p><p>1. <strong>Concept counterintuitiveness:</strong> Quantum mechanics violates classical intuition — requires specialized scaffolding beyond generic ITS
 2. <strong>Mathematical density:</strong> Formalism (Dirac notation, unitary evolution) creates barrier for beginners
 3. <strong>Instructor scarcity:</strong> Few qualified faculty outside well-resourced institutions</p><p>The system's knowledge-graph approach allows <em>structured progression</em> through these barriers rather than open-ended dialogue (which can confuse novices in quantum topics).</p><p><h2>Connection to Broader ITS Trends</h2></p><p>Unlike general-purpose ITS (e.g., <a href="adaptive-learning-systems.html">adaptive systems</a> for math or programming), quantum education requires:
 <ul><li><strong>Domain-specific visualizations</strong> (quantum circuits, state spaces)</li></ul>

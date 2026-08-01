@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -34,13 +52,36 @@
         <div class="metadata">Created: 2026-05-19 | Tags: <a href="../tags/daily-digest.html" class="tag">daily-digest</a></div>
     </header>
     <main class="container"><p><strong>8 papers ingested</strong> | Wiki: 156 pages | <a href="/journal.md">Journal</a></p><p><h2>Source Status</h2>
-| Source | Status |
-|--------|--------|
-| arXiv cs.CY | ✗ Rate-limited (HTTP 301 redirect + 429) |
-| arXiv cs.HC | ✗ Rate-limited (HTTP 429) |
-| Semantic Scholar | ✓ 1 result (already ingested) |
-| OpenAlex | ✓ 0 results (future-dated filtered) |
-| Web search + listing pages | ✓ 8 papers |</p><p><h2>Papers Ingested</h2></p><p><h3><a href="https://arxiv.org/abs/2605.16207">Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most</a></h3>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>arXiv cs.CY</td>
+<td>✗ Rate-limited (HTTP 301 redirect + 429)</td>
+</tr>
+<tr>
+<td>arXiv cs.HC</td>
+<td>✗ Rate-limited (HTTP 429)</td>
+</tr>
+<tr>
+<td>Semantic Scholar</td>
+<td>✓ 1 result (already ingested)</td>
+</tr>
+<tr>
+<td>OpenAlex</td>
+<td>✓ 0 results (future-dated filtered)</td>
+</tr>
+<tr>
+<td>Web search + listing pages</td>
+<td>✓ 8 papers</td>
+</tr>
+</tbody>
+</table><p><h2>Papers Ingested</h2></p><p><h3><a href="https://arxiv.org/abs/2605.16207">Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most</a></h3>
 <ul><li><strong>arXiv:</strong> 2605.16207 | <strong>Page:</strong> <a href="llm-tutoring-feedback-diagnosis-gap.html">llm-tutoring-feedback-diagnosis-gap</a></li></ul>
 <ul><li>LLM tutors achieve near-ceiling on correct steps but systematically over-reject valid-suboptimal reasoning and over-validate incorrect solutions — precisely where adaptive tutoring matters most.</li></ul></p><p><h3><a href="https://arxiv.org/abs/2605.16933">The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance</a></h3>
 <ul><li><strong>arXiv:</strong> 2605.16933 | <strong>Page:</strong> <a href="structured-llm-feedback-programming.html">structured-llm-feedback-programming</a></li></ul>

@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -46,14 +64,47 @@ Across the six capability dimensions analyzed:
 <ul><li><strong>Robust embedded governance</strong> — rarely exhibited ✗</li></ul>
 <ul><li><strong>Persistent memory / long-horizon planning</strong> — largely absent ✗</li></ul></p><p>This maps closely to the four-paradigm framework in <a href="agentic-workflows-education.html">agentic-workflows-education</a> (reflection, planning, tool use, multi-agent collaboration), where the reviewed systems tend to cluster in the first two paradigms while falling short on the more advanced ones.</p><p><h3>4. Theoretical Grounding is Limited</h3>
 Only <strong>138 of 474 studies</strong> (29%) explicitly drew on educational theory, revealing a <strong>clear disciplinary divide</strong> between technically oriented research (CS/engineering) and pedagogically oriented work (education/learning sciences). This echoes broader concerns in <a href="principled-ai-education.html">principled-ai-education</a> about the gap between technological capability and pedagogical intentionality.</p><p><h3>5. Methodological Limitations</h3>
-Most studies rely on <strong>small-scale, short-term designs</strong>. Longitudinal and real-world validation studies are rare, limiting the evidence base for claims about effectiveness. The review calls for more rigorous <a href="efficacy-study.html">efficacy-study</a> designs and attention to <a href="student-experience.html">student-experience</a> beyond immediate performance metrics.</p><p><h3>6. Six Dimensions of Agentic Capability (the Review's Analytical Framework)</h3></p><p>| Dimension | Description | Status in Reviewed Studies |
-|---|---|---|
-| Task Autonomy | Independent task initiation, planning, completion | Common |
-| Goal-Directed Reasoning | Strategy selection and adaptation to context | Emerging |
-| Memory & Context Awareness | Using interaction history and learner profiles | Limited |
-| Planning & Sequencing | Multi-step plan formulation and execution | Growing |
-| Tool Orchestration | Invoking and coordinating external tools/resources | Rare |
-| Governance & Oversight | Auditable action, safety constraints, human-in-the-loop | Rare |</p><p>The governance gap is particularly concerning given frameworks like <a href="human-in-the-loop-ai.html">human-in-the-loop-ai</a>, which emphasize that educational AI systems require robust oversight mechanisms — not just technical capability.</p><p><h2>Priority Research Directions</h2></p><p>The review identifies several converging priorities:
+Most studies rely on <strong>small-scale, short-term designs</strong>. Longitudinal and real-world validation studies are rare, limiting the evidence base for claims about effectiveness. The review calls for more rigorous <a href="efficacy-study.html">efficacy-study</a> designs and attention to <a href="student-experience.html">student-experience</a> beyond immediate performance metrics.</p><p><h3>6. Six Dimensions of Agentic Capability (the Review's Analytical Framework)</h3></p><table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Description</th>
+<th>Status in Reviewed Studies</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Task Autonomy</td>
+<td>Independent task initiation, planning, completion</td>
+<td>Common</td>
+</tr>
+<tr>
+<td>Goal-Directed Reasoning</td>
+<td>Strategy selection and adaptation to context</td>
+<td>Emerging</td>
+</tr>
+<tr>
+<td>Memory & Context Awareness</td>
+<td>Using interaction history and learner profiles</td>
+<td>Limited</td>
+</tr>
+<tr>
+<td>Planning & Sequencing</td>
+<td>Multi-step plan formulation and execution</td>
+<td>Growing</td>
+</tr>
+<tr>
+<td>Tool Orchestration</td>
+<td>Invoking and coordinating external tools/resources</td>
+<td>Rare</td>
+</tr>
+<tr>
+<td>Governance & Oversight</td>
+<td>Auditable action, safety constraints, human-in-the-loop</td>
+<td>Rare</td>
+</tr>
+</tbody>
+</table><p>The governance gap is particularly concerning given frameworks like <a href="human-in-the-loop-ai.html">human-in-the-loop-ai</a>, which emphasize that educational AI systems require robust oversight mechanisms — not just technical capability.</p><p><h2>Priority Research Directions</h2></p><p>The review identifies several converging priorities:
 1. <strong>Longitudinal and real-world validation</strong> — moving beyond short-term lab studies
 2. <strong>Stronger pedagogical grounding</strong> — bridging the CS/education disciplinary divide
 3. <strong>Governed adoption of emerging agent infrastructures</strong> — particularly tool orchestration and multi-agent coordination

@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -37,12 +55,32 @@
 <ul><li><strong>Facial expressions</strong> — real-time video capture of emotional state</li></ul></p><p>Emotions are aggregated from both modalities and mapped to relevant pedagogical strategies before prompting the LLM tutor, yielding emotionally-aware responses.</p><p><strong>Results:</strong>
 <ul><li><strong>+23 point win rate</strong> improvement over non-affective baseline</li></ul>
 <ul><li><strong>+3 point DAMR score</strong> gain at overall level</li></ul>
-<ul><li>Evaluated across <strong>eight pedagogical dimensions</strong> plus user studies</li></ul></p><p>The finding validates a long-standing hypothesis in educational psychology: positive/negative emotional states impact learning capability, and accounting for them improves tutoring outcomes.</p><p><h2>The Risk: Empathy as a Trap</h2></p><p>Favero et al. (2025) warn that emotional engagement with AI tutors carries underappreciated risks:</p><p>| Affective tutoring benefit | Corresponding risk |
-|---|---|
-| Emotionally-aware responses feel supportive | Students may form <strong>parasocial dependencies</strong> on the tutor |
-| Empathy reduces anxiety | Reduced anxiety may mask <strong>metacognitive disengagement</strong> |
-| Affective calibration personalizes pacing | Deep personalization can <strong>reduce transfer</strong> to non-adaptive contexts |
-| Facial monitoring signals attentiveness | Continuous video capture raises <strong>privacy concerns</strong> |</p><p>The authors argue that emotional risks are part of a broader pattern of <strong>erosion of self-efficacy, agency, and well-being</strong> when AI use is unchecked.</p><p><h2>Design Principles</h2></p><p>1. <strong>Affective data should inform, not replace, learner autonomy</strong> — The tutor adapts its strategy; the student retains control over disclosure
+<ul><li>Evaluated across <strong>eight pedagogical dimensions</strong> plus user studies</li></ul></p><p>The finding validates a long-standing hypothesis in educational psychology: positive/negative emotional states impact learning capability, and accounting for them improves tutoring outcomes.</p><p><h2>The Risk: Empathy as a Trap</h2></p><p>Favero et al. (2025) warn that emotional engagement with AI tutors carries underappreciated risks:</p><table>
+<thead>
+<tr>
+<th>Affective tutoring benefit</th>
+<th>Corresponding risk</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Emotionally-aware responses feel supportive</td>
+<td>Students may form <strong>parasocial dependencies</strong> on the tutor</td>
+</tr>
+<tr>
+<td>Empathy reduces anxiety</td>
+<td>Reduced anxiety may mask <strong>metacognitive disengagement</strong></td>
+</tr>
+<tr>
+<td>Affective calibration personalizes pacing</td>
+<td>Deep personalization can <strong>reduce transfer</strong> to non-adaptive contexts</td>
+</tr>
+<tr>
+<td>Facial monitoring signals attentiveness</td>
+<td>Continuous video capture raises <strong>privacy concerns</strong></td>
+</tr>
+</tbody>
+</table><p>The authors argue that emotional risks are part of a broader pattern of <strong>erosion of self-efficacy, agency, and well-being</strong> when AI use is unchecked.</p><p><h2>Design Principles</h2></p><p>1. <strong>Affective data should inform, not replace, learner autonomy</strong> — The tutor adapts its strategy; the student retains control over disclosure
 2. <strong>Transparency about affect detection</strong> — Students should know when and how their emotions are being inferred
 3. <strong>Affect-as-one-signal-among-many</strong> — Combine with cognitive state (e.g., <a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a>) and behavioral engagement
 4. <strong>Privacy-by-default for multimodal sensors</strong> — Facial/video data requires stronger protections than text-only inference</p><p><h2>Relationship to Broader Safety</h2></p><p>Affective tutoring intersects with <a href="ai-tutor-safety-harms.html">SafeTutors</a> in the motivational-affective harm dimension. An affective tutor that is "too supportive" may suppress the frustration that drives productive struggle and self-regulation. See also <a href="llm-fallacy-misattribution.html">llm-fallacy-misattribution</a> — students may attribute emotional support to genuine relationship, reinforcing reliance.</p><p><h2>Related Pages</h2>

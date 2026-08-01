@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -34,21 +52,59 @@
         <div class="metadata">Created: 2026-05-08 | Tags: <a href="../tags/llm.html" class="tag">llm</a><a href="../tags/benchmark.html" class="tag">benchmark</a><a href="../tags/formative-assessment.html" class="tag">formative-assessment</a><a href="../tags/personalized-learning.html" class="tag">personalized-learning</a><a href="../tags/feedback-loop.html" class="tag">feedback-loop</a></div>
     </header>
     <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2601.21375">arXiv:2601.21375</a> · <a href="raw/papers/2601.21375.md">local</a></p><p>> Syllabus-grounded framework for measuring LLM teaching capability via student performance improvement after multi-turn instruction.</p><p><h2>The Gap in LLM Evaluation</h2></p><p><strong>Li et al. (2026)</strong> address a critical gap: while LLMs are increasingly used as teaching assistants, their <strong>teaching capability remains insufficiently evaluated</strong>.</p><p><h3>Limitations of Existing Benchmarks</h3>
-| Benchmark Type | Focus | Limitation |
-|---------------|-------|-------------|
-| <strong>Problem-solving</strong> (MMLU, HELM, GSM8K) | Answer correctness | Measures solver, not teacher |
-| <strong>Exam-centric</strong> (AGIEval, C-Eval, GAOKAO-Bench) | Exam performance | Still solution-centric |
-| <strong>Tutoring dialogues</strong> (MathDial, TutorBench) | Per-turn response quality | Misses end-to-end teaching effectiveness |</p><p>TeachBench shifts the evaluation target: <strong>from solving to teaching</strong>.</p><p><h2>Syllabus-Grounded Framework</h2></p><p><h3>Core Design Principles</h3>
+<table>
+<thead>
+<tr>
+<th>Benchmark Type</th>
+<th>Focus</th>
+<th>Limitation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Problem-solving</strong> (MMLU, HELM, GSM8K)</td>
+<td>Answer correctness</td>
+<td>Measures solver, not teacher</td>
+</tr>
+<tr>
+<td><strong>Exam-centric</strong> (AGIEval, C-Eval, GAOKAO-Bench)</td>
+<td>Exam performance</td>
+<td>Still solution-centric</td>
+</tr>
+<tr>
+<td><strong>Tutoring dialogues</strong> (MathDial, TutorBench)</td>
+<td>Per-turn response quality</td>
+<td>Misses end-to-end teaching effectiveness</td>
+</tr>
+</tbody>
+</table><p>TeachBench shifts the evaluation target: <strong>from solving to teaching</strong>.</p><p><h2>Syllabus-Grounded Framework</h2></p><p><h3>Core Design Principles</h3>
 1. <strong>Knowledge-centered:</strong> Evaluation based on structured knowledge points (syllabus), not target questions
 2. <strong>Leakage-controlled:</strong> Teacher agents restricted to knowledge points + example problems (no access to test items)
 3. <strong>Outcome-based:</strong> Teaching effectiveness measured by <strong>student agent's performance improvement</strong></p><p><h3>Workflow</h3>
 <pre><code>
 Syllabus → Knowledge Tree → Teacher Agent (multi-turn instruction) → Student Agent → Performance Gain
-</code></pre></p><p><h2>Key Findings from Gaokao Experiments</h2></p><p>Using Chinese National College Entrance Examination (Gaokao) data across multiple subjects:</p><p>| Finding | Implication |
-|---------|-------------|
-| <strong>Domain variation:</strong> Math teaching effective (7.63pt gain with Qwen3-235B), but physics/chemistry challenging | Teaching ability is domain-specific, not generalized |
-| <strong>Example problems backfire:</strong> Models shift to error correction vs. syllabus-grounded instruction | Current LLMs struggle with structured teaching vs. reactive problem-solving |
-| <strong>Teaching ≠ Solving:</strong> Models good at solving aren't necessarily good at teaching | Teaching ability is a <strong>distinct LLM behavior dimension</strong> |</p><p><h2>Connection to Existing Work</h2></p><p><h3>vs. <a href="ai-tutor-effectiveness-review.html">AI Tutor Effectiveness</a></h3>
+</code></pre></p><p><h2>Key Findings from Gaokao Experiments</h2></p><p>Using Chinese National College Entrance Examination (Gaokao) data across multiple subjects:</p><table>
+<thead>
+<tr>
+<th>Finding</th>
+<th>Implication</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Domain variation:</strong> Math teaching effective (7.63pt gain with Qwen3-235B), but physics/chemistry challenging</td>
+<td>Teaching ability is domain-specific, not generalized</td>
+</tr>
+<tr>
+<td><strong>Example problems backfire:</strong> Models shift to error correction vs. syllabus-grounded instruction</td>
+<td>Current LLMs struggle with structured teaching vs. reactive problem-solving</td>
+</tr>
+<tr>
+<td><strong>Teaching ≠ Solving:</strong> Models good at solving aren't necessarily good at teaching</td>
+<td>Teaching ability is a <strong>distinct LLM behavior dimension</strong></td>
+</tr>
+</tbody>
+</table><p><h2>Connection to Existing Work</h2></p><p><h3>vs. <a href="ai-tutor-effectiveness-review.html">AI Tutor Effectiveness</a></h3>
 <ul><li>Traditional ITS effectiveness reviews focus on <em>human</em> learning outcomes with <em>deployed</em> systems</li></ul>
 <ul><li>TeachBench evaluates <em>model</em> teaching capability in <em>controlled</em> agentic settings</li></ul>
 <ul><li>Both highlight: <strong>teaching is more than problem-solving</strong></li></ul></p><p><h3>vs. <a href="educational-llm-alignment.html">Educational LLM Alignment</a></h3>

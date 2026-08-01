@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -35,13 +53,42 @@
     </header>
     <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2604.03926">arXiv:2604.03926</a> · <a href="raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md">local</a> · <a href="https://arxiv.org/abs/2504.20082v2">arXiv:2504.20082</a> · <a href="raw/papers/kamalov-agentic-workflows-education-2026.md">local</a> · <a href="https://arxiv.org/abs/2507.04295v4">arXiv:2507.04295</a> · <a href="raw/papers/zhao-learnlens-curriculum-feedback-2025.md">local</a></p><p>Assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can generate, validate, and adapt formative assessment items at scale, though quality varies dramatically across assessment types.</p><p><h2>AI-Generated Formative Items</h2></p><p><h3>Multiple-Choice Questions (CODE-GEN)</h3></p><p>Duan et al. (2026) demonstrate that agentic AI can reliably generate MCQs for coding comprehension when validated across seven pedagogical dimensions. Success rates reach <strong>98.6%</strong> for concept alignment and <strong>79.9%</strong> for feedback quality—suggesting that AI is strongest on verifiable dimensions and weakest on instructional-judgment dimensions.</p><p><h3>Automated Essay Scoring (MASS)</h3></p><p>Kamalov et al. (2026) implement a multi-agent framework (MASS) for essay scoring. Preliminary results show improved consistency over stand-alone LLMs, though interpretability of multi-agent scoring decisions remains an open challenge.</p><p><h3>Curriculum-Grounded Feedback (LearnLens)</h3></p><p>Zhao et al. (2025) present <strong>LearnLens</strong>, a modular LLM system for science education feedback that addresses three persistent problems in AI formative assessment:</p><p>1. <strong>Error-aware assessment</strong> — captures nuanced reasoning errors rather than surface mistakes
 2. <strong>Topic-linked memory chains</strong> — replaces noisy similarity-based RAG with structured curriculum-grounded retrieval
-3. <strong>Educator-in-the-loop</strong> — teacher customisation and oversight, not full automation</p><p><strong>Key differentiator:</strong> LearnLens uses a <strong>structured, topic-linked memory chain</strong> rather than traditional RAG similarity search, improving relevance and reducing noise. This connects to the broader tension in <a href="human-in-the-loop-ai.html">human-in-the-loop-ai</a>: scalable automation with expert validation.</p><p><h2>Design Trade-offs</h2></p><p>| Dimension | AI Suitability | Human Requirement |
-|-----------|----------------|-------------------|
-| Factual correctness | High | Low |
-| Concept alignment | High | Medium |
-| Distractor quality | Low | High |
-| Feedback depth | Low | High |
-| Rubric consistency | Medium | Medium |</p><p><h2>Risk: Assessment as Surveillance</h2></p><p>Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if governance is weak.</p><p><h2>Related Pages</h2>
+3. <strong>Educator-in-the-loop</strong> — teacher customisation and oversight, not full automation</p><p><strong>Key differentiator:</strong> LearnLens uses a <strong>structured, topic-linked memory chain</strong> rather than traditional RAG similarity search, improving relevance and reducing noise. This connects to the broader tension in <a href="human-in-the-loop-ai.html">human-in-the-loop-ai</a>: scalable automation with expert validation.</p><p><h2>Design Trade-offs</h2></p><table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>AI Suitability</th>
+<th>Human Requirement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Factual correctness</td>
+<td>High</td>
+<td>Low</td>
+</tr>
+<tr>
+<td>Concept alignment</td>
+<td>High</td>
+<td>Medium</td>
+</tr>
+<tr>
+<td>Distractor quality</td>
+<td>Low</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Feedback depth</td>
+<td>Low</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Rubric consistency</td>
+<td>Medium</td>
+<td>Medium</td>
+</tr>
+</tbody>
+</table><p><h2>Risk: Assessment as Surveillance</h2></p><p>Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if governance is weak.</p><p><h2>Related Pages</h2>
 <ul><li><a href="correct-answer-trap-ai-tutor.html">correct-answer-trap-ai-tutor</a> — 8 of 8 papers in May 28 scan</li></ul>
 <ul><li><a href="rubric-aware-grading-rec-cbm.html">rubric-aware-grading-rec-cbm</a> — 2 of 8 papers in May 28 scan</li></ul>
 <ul><li><a href="llm-sentiment-analysis-education-research.html">llm-sentiment-analysis-education-research</a> — 1 of 8 papers in May 28 scan</li></ul>

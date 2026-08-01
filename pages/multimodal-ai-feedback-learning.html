@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -38,17 +56,52 @@
 3. <strong>Streaming AI audio narration</strong> — spoken explanation to complement text</p><p>This multimodal approach aims to provide timely, targeted feedback at scale — something that remains a major challenge in education.</p><p><h2>Results</h2></p><p><h3>Learning Effectiveness</h3>
 <ul><li><strong>Equivalent learning gains</strong> between AI multimodal feedback and educator feedback</li></ul>
 <ul><li>No significant difference in post-test performance</li></ul></p><p><h3>Student Perceptions (AI significantly better)</h3>
-| Dimension | AI > Educator? |
-|-----------|:---:|
-| Clarity | ✓ |
-| Specificity | ✓ |
-| Conciseness | ✓ |
-| Motivation | ✓ |
-| Satisfaction | ✓ |
-| Reduced cognitive load | ✓ |
-| Correctness | — |
-| Trust | — |
-| Acceptance | — |</p><p>AI feedback matched educator feedback on correctness, trust, and acceptance — but outperformed on every experiential dimension.</p><p><h3>Behavioral Engagement Patterns</h3>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>AI > Educator?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Clarity</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Specificity</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Conciseness</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Motivation</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Satisfaction</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Reduced cognitive load</td>
+<td>✓</td>
+</tr>
+<tr>
+<td>Correctness</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Trust</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Acceptance</td>
+<td>—</td>
+</tr>
+</tbody>
+</table><p>AI feedback matched educator feedback on correctness, trust, and acceptance — but outperformed on every experiential dimension.</p><p><h3>Behavioral Engagement Patterns</h3>
 <ul><li><strong>Multiple-choice questions</strong>: Educator feedback encouraged more total submissions (students kept trying)</li></ul>
 <ul><li><strong>Open-ended questions</strong>: AI feedback lowered revision barriers — targeted suggestions promoted iterative improvement</li></ul></p><p><h2>Significance</h2></p><p>This is a strong result for AI feedback systems:</p><p><ul><li><strong>Equivalence on learning</strong> is the bar most systems fail to clear — AI matched human educators</li></ul>
 <ul><li><strong>Superior student experience</strong> across 6 dimensions suggests AI can surpass humans on consistency, specificity, and clarity</li></ul>
