@@ -19,3 +19,4 @@ confidence: low
 - [[human-ai-collaboration-prerequisite-functions]] -- 5-level taxonomy: most human-AI interaction is consultation/delegation, not true collaboration
 - [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions
 - [[student-mental-models-genai]] — Prerequisite for productive collaboration (2026-07-14)
+- [[human-ai-collaboration-trust-expectations]]

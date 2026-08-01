@@ -23,6 +23,7 @@ The authors find that users do engage in learning-supporting behaviours — cogn
 - [[student-experience]] — related AIED work
 - [[self-regulated-learning]] — related AIED work
 - [[metacognition]] — related AIED work
+- [[conversational-ai-informal-learning]]
 
 ## Citation
 **APA:** Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026). *Informal Learning Emerges in Everyday Human-LLM Interaction*. arXiv:2607.17643. arXiv:2607.17643 [cs.HC].

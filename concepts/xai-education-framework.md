@@ -91,6 +91,7 @@ The XAI-ED framework has become a foundational reference in AIED, cited across t
 - [[human-in-the-loop]]
 - [[ai-k12-evidence-base]]
 - [[collaborative-learning]]
+- [[fair-explainable-edu-recommendations]]
 
 ## Citation
 

@@ -1670,3 +1670,15 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - **CAEAI** → [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI. Tags: ai-tutor-safety-harms, k-12, llm, pedagogical-safety, generative-ai.
 - **CAEAI** → [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics. Tags: generative-ai, higher-ed, stem-education, faculty-development, educational-theory.
 - **CAEAI** → [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness. Tags: professional-training, efficacy-study, intelligent-tutoring, generative-ai, adaptive-learning.
+
+## [2026-08-01]
+
+- **CAEAI** → [[human-ai-collaboration-trust-expectations]] — Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust.
+- **CAEAI** → [[conversational-ai-informal-learning]] — Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning.
+- **CAEAI** → [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis.
+- **CAEAI** → [[quest-ai-inquiry-preservice-teachers]] — Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers.
+- **CAEAI** → [[ai-tpack-preservice-math-teachers]] — AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study.
+- **CAEAI** → [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education.
+- **CAEAI** → [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations with a hybrid Graph-GRU framework.
+- **CAEAI** → [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts.
+- **CAEAI** → [[ml-literacy-primary-education]] — Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design.

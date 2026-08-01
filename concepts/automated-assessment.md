@@ -15,3 +15,4 @@ This is a stub page for the concept of automated assessment. It was created to r
 ## Related Pages
 
 - [[ai-scoring-language-bias-physics]]
+- [[human-vs-llm-ordered-coding]]

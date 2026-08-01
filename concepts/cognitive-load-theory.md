@@ -14,3 +14,4 @@ This is a stub page for the concept of cognitive load theory. It was created to 
 
 ## Related Pages
 
+- [[same-ai-different-pathways]]

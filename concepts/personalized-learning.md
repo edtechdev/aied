@@ -81,6 +81,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[ai-learning-tools-engineering-education-needs]] — 206 engineering students: AI chatbots give greatest benefit as relief from compe...
 - [[book-level-synthetic-textbook-organization]]
 - [[iks-instruct-dataset-indian-knowledge]]
+- [[fair-explainable-edu-recommendations]]
 
 ## Sources
 - Ma et al. (2026). *DeepTutor: Towards Agentic Personalized Tutoring*. arXiv:2604.26962. [PDF](https://arxiv.org/pdf/2604.26962)

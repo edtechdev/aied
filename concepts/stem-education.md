@@ -50,3 +50,4 @@ AI applications in science, technology, engineering, and mathematics education
 - [[vibe-coding-programming-process-visualizer]] — Thonny log visualizer built via AI-assisted 'vibe coding' piloted with 160 stude...
 - [[tech-enhanced-tabletop-cybersecurity-education]]
 - [[genai-runaway-object-math-higher-ed]]
+- [[ai-tpack-preservice-math-teachers]]

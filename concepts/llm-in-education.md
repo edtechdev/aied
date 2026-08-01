@@ -18,3 +18,6 @@ This is a stub page for the concept of llm in education. It was created to resol
 
 - [[llm-intervention-design-cs-review]]
 - [[vetting-dual-llm-safety-education]]
+- [[conversational-ai-informal-learning]]
+- [[human-vs-llm-ordered-coding]]
+- [[llm-unlearning-math-privacy]]

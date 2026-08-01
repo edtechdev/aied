@@ -1,12 +1,24 @@
 # Journal
 
-**Last updated:** 2026-08-01 | **Total entries:** 404
+**Last updated:** 2026-08-01 | **Total entries:** 413
 
 ## 2026-08-01
+
+- ● [[ai-tpack-preservice-math-teachers]] — raw/articles/caeai-ai-tpack-math.md
+  **AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study**
+  Tags: [ai-literacy, teacher-professional-development, stem-education, higher-ed, teacher-ai-competency]
 
 - ● [[ai-vocational-education-training-review]] — raw/articles/caeai-ai-vet-review.md
   **Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness**
   Tags: [professional-training, efficacy-study, intelligent-tutoring, generative-ai, adaptive-learning]
+
+- ● [[conversational-ai-informal-learning]] — raw/articles/caeai-conversational-ai-informal.md
+  **Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning**
+  Tags: [generative-ai, informal-learning, llm, lifelong-learning, student-experience]
+
+- ● [[fair-explainable-edu-recommendations]] — raw/articles/caeai-fair-recommendations.md
+  **Fair and explainable educational recommendations with a hybrid Graph-GRU framework**
+  Tags: [personalized-learning, learning-analytics, algorithmic-bias, bias-mitigation, xai-education-framework]
 
 - ● [[genai-mindtool-generative-learning]] — raw/articles/caeai-genai-mindtool.md
   **Generative AI (GenAI) as a mindtool that supports generative learning (GL)**
@@ -16,9 +28,33 @@
   **GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics**
   Tags: [generative-ai, higher-ed, stem-education, faculty-development, educational-theory]
 
+- ● [[human-ai-collaboration-trust-expectations]] — raw/articles/caeai-human-ai-collab-trust.md
+  **Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust**
+  Tags: [human-ai-collaboration, generative-ai, higher-ed, student-experience]
+
+- ● [[human-vs-llm-ordered-coding]] — raw/articles/caeai-human-llm-coding.md
+  **Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis**
+  Tags: [llm, learning-analytics, automated-assessment, educational-nlp, ground-truth-reliability-aied]
+
+- ● [[llm-unlearning-math-privacy]] — raw/articles/caeai-llm-unlearning-math.md
+  **Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education**
+  Tags: [llm, privacy, k-12, pedagogical-safety, intelligent-tutoring]
+
+- ● [[ml-literacy-primary-education]] — raw/articles/caeai-ml-literacy-primary.md
+  **Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design**
+  Tags: [ai-literacy, k-12, computational-thinking, instructional-design]
+
 - ● [[multimodal-prompting-ai-literacy]] — raw/articles/caeai-multimodal-prompting.md
   **Students' multimodal prompting practices as epistemic work in AI literacy development**
   Tags: [ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal]
+
+- ● [[quest-ai-inquiry-preservice-teachers]] — raw/articles/caeai-quest-ai-inquiry.md
+  **Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers**
+  Tags: [ai-literacy, teacher-professional-development, generative-ai, efficacy-study, higher-ed]
+
+- ● [[same-ai-different-pathways]] — raw/articles/caeai-same-ai-different-pathways.md
+  **Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts**
+  Tags: [ai-literacy, generative-ai, higher-ed, prompt-engineering, cognitive-load-theory]
 
 - ● [[vetting-dual-llm-safety-education]] — raw/articles/caeai-vetting-safety.md
   **VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI**

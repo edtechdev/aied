@@ -36,3 +36,4 @@ Adaptive learning refers to educational technologies that dynamically adjust con
 - [[llm-judged-helpfulness-pedagogy-signal]]
 - [[memdora-ai-spaced-repetition]]
 - [[ai-vocational-education-training-review]]
+- [[fair-explainable-edu-recommendations]]
