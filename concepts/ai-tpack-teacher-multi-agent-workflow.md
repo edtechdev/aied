@@ -57,6 +57,7 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 - [[eduagentbench-agent-teaching-benchmark]] — Benchmark for holistic AI tutor evaluation
 - [[ai-generated-slides-student-perception]] — Student perception of AI-generated educational content
 - [[teacher-ai-competency]] — Frameworks for teacher AI competency development
+- [[ai-tpack-preservice-math-teachers]]
 
 ## Citation
 **APA:** Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). *Modeling AI-TPACK in practice: Insights from teachers' multi-agent workflow design*. arXiv:2605.13906 [cs.CY].

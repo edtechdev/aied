@@ -52,6 +52,8 @@ confidence: low
 - [[assessment-team-problem-solving-computing-education]] — Assessment in Team Problem-Solving Exercises in Computing Education
 - [[student-math-competence-clustering]] — 119K students across 13 UK exams: overall ability dominates skill clusters; simp...
 - [[vibe-coding-programming-process-visualizer]] — Thonny log visualizer built via AI-assisted 'vibe coding' piloted with 160 stude...
+- [[human-vs-llm-ordered-coding]]
+- [[fair-explainable-edu-recommendations]]
 
 ## Related Pages
 - [[cross-subject-validity-delayed-start]] — Delayed start behavior as a low-cost, cross-subject behavioral detector for learning outcome prediction

@@ -186,6 +186,11 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 - [[post-instrumental-learning-capacity-dissolution]]
 - [[ai-literacy-power-knowledge]]
 - [[multimodal-prompting-ai-literacy]]
+- [[conversational-ai-informal-learning]]
+- [[quest-ai-inquiry-preservice-teachers]]
+- [[ai-tpack-preservice-math-teachers]]
+- [[same-ai-different-pathways]]
+- [[ml-literacy-primary-education]]
 
 ## Sources
 - Hingle, A. & Johri, A. (2025). *Systematic Review Of Collaborative Learning Activities For Promoting AI Literacy*. arXiv:2508.15111v1. [PDF](https://arxiv.org/pdf/2508.15111v1)

@@ -58,3 +58,7 @@ confidence: low
 - [[genai-mindtool-generative-learning]]
 - [[multimodal-prompting-ai-literacy]]
 - [[genai-runaway-object-math-higher-ed]]
+- [[human-ai-collaboration-trust-expectations]]
+- [[conversational-ai-informal-learning]]
+- [[quest-ai-inquiry-preservice-teachers]]
+- [[same-ai-different-pathways]]
