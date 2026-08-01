@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,49 +47,48 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/ai-literacy-assessment-misalignment.html">"AI Literacy Assessment: Self-Reported vs Performance Misalignment"</a></h3>
-            <div class="snippet">AI Literacy Assessment: Self-Reported vs Performance MisalignmentSynthesisHighlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessment...</div>
+            <h3><a href="../pages/ai-literacy-assessment-misalignment.html">AI Literacy Assessment: Self-Reported vs Performance Misalignment</a></h3>
+            <div class="snippet">Synthesis Highlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31). Connecti...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="assessment.html">assessment</a><a href="assessment-validity.html">assessment-validity</a><a href="k-12.html">k-12</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/aied-unfinished-mission-bypass.html">"AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass"</a></h3>
-            <div class="snippet">AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless BypassLane (2026) — AIED 2026, LNCS 3032 (Springer).📄 Full text (arXiv)The widespread availability of general-purpose AI that can perform complex cognitive tasks thre...</div>
+            <h3><a href="../pages/aied-unfinished-mission-bypass.html">AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass</a></h3>
+            <div class="snippet">Lane (2026) — AIED 2026, LNCS 3032 (Springer). 📄 Full text (arXiv) The widespread availability of general-purpose AI that can perform complex cognitive tasks threatens to undermine education at scale. This effortless bypass dilemma sharpens a challenge AIED has long engaged with...</div>
             <div class="tags"><a href="over-reliance.html">over-reliance</a><a href="student-experience.html">student-experience</a><a href="metacognition.html">metacognition</a><a href="teacher-role.html">teacher-role</a><a href="formative-assessment.html">formative-assessment</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/agents-that-teach-incidental-learning.html">"Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development"</a></h3>
-            <div class="snippet">Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software DevelopmentRohit Mehra et al. (2026) — IBM Research / International Institute of Information Technology. arXiv.📄 Full text (arXiv)As AI coding agents take over substantia...</div>
+            <h3><a href="../pages/agents-that-teach-incidental-learning.html">Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development</a></h3>
+            <div class="snippet">Rohit Mehra et al. (2026) — IBM Research / International Institute of Information Technology. arXiv. 📄 Full text (arXiv) As AI coding agents take over substantial implementation work, developers increasingly lose the informal, effortful problem-solving through which software engi...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="cs-education.html">cs-education</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="over-reliance.html">over-reliance</a><a href="professional-training.html">professional-training</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/chatgpt-critical-creative-thinking-review.html">"ChatGPT Critical and Creative Thinking: Systematic Review"</a></h3>
-            <div class="snippet">ChatGPT Critical and Creative Thinking: Systematic ReviewLi, Cui, and Hagedorn (2026) conducted a PRISMA-guided systematic review of 67 empirical studies (2022–2025) examining how ChatGPT influences university students' critical and creative thinking...</div>
+            <h3><a href="../pages/chatgpt-critical-creative-thinking-review.html">ChatGPT Critical and Creative Thinking: Systematic Review</a></h3>
+            <div class="snippet">Li, Cui, and Hagedorn (2026) conducted a PRISMA-guided systematic review of 67 empirical studies (2022–2025) examining how ChatGPT influences university students' critical and creative thinking. Using a dual-lens framework — convergent (critical thinking) and divergent (creative...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="boundary-object.html">boundary-object</a><a href="chatgpt.html">chatgpt</a><a href="cognitive-offloading.html">cognitive-offloading</a><a href="creative-thinking.html">creative-thinking</a><a href="critical-thinking.html">critical-thinking</a><a href="higher-ed.html">higher-ed</a><a href="instructional-design.html">instructional-design</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/student-cheat-sheets-make-or-take.html">"Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets"</a></h3>
-            <div class="snippet">Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat SheetsHelen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026) — University of Waterloo / Carleton University. arXiv preprint (cs.HC).📄 Full text (arXiv)Chen, Sakhnini an...</div>
+            <h3><a href="../pages/student-cheat-sheets-make-or-take.html">Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets</a></h3>
+            <div class="snippet">Helen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026) — University of Waterloo / Carleton University. arXiv preprint (cs.HC). 📄 Full text (arXiv) Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior software-requirements course where students could use in...</div>
             <div class="tags"><a href="assessment.html">assessment</a><a href="metacognition.html">metacognition</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/regulating-ai-tutor-adolescent-srl.html">"Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use"</a></h3>
-            <div class="snippet">Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI UseAbdelghani, Kaiser & Murayama (2026) — University of Tuebingen / Max Planck Institute.
-📄 Full text (arXiv)Examines how 98 Grade-9 students across three German Gymnasium schools regu...</div>
+            <h3><a href="../pages/regulating-ai-tutor-adolescent-srl.html">Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use</a></h3>
+            <div class="snippet">Abdelghani, Kaiser & Murayama (2026) — University of Tuebingen / Max Planck Institute. 📄 Full text (arXiv) Examines how 98 Grade-9 students across three German Gymnasium schools regulated their use of a Mistral-Large GenAI tutor while preparing for a math exam. Despite overwhelmi...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="k-12.html">k-12</a><a href="metacognition.html">metacognition</a><a href="student-experience.html">student-experience</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/authentic-assessment.html">Authentic Assessment</a></h3>
-            <div class="snippet">> 📄 Full text: Springer · localAuthentic Assessment> Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challeng...</div>
+            <div class="snippet">> 📄 Full text: Springer · local Authentic Assessment > Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which thr...</div>
             <div class="tags"><a href="ai-ed-evaluation.html">ai-ed-evaluation</a><a href="ai-education.html">ai-education</a><a href="assessment.html">assessment</a><a href="formative-assessment.html">formative-assessment</a><a href="higher-ed.html">higher-ed</a><a href="metacognition.html">metacognition</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/metacognition.html">Metacognition</a></h3>
-            <div class="snippet">> 📄 Full text: Stanford SCALE · local · Springer · localMetacognition> Metacognition — thinking about one's own thinking — is both a target of AI education research (can AI tools develop students' metacognitive skills?) and a risk factor (AI completi...</div>
+            <div class="snippet">> 📄 Full text: Stanford SCALE · local · Springer · local Metacognition > Metacognition — thinking about one's own thinking — is both a target of AI education research (can AI tools develop students' metacognitive skills?) and a risk factor (AI completing tasks may suppress metaco...</div>
             <div class="tags"><a href="metacognition.html">metacognition</a><a href="formative-assessment.html">formative-assessment</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/self-regulated-learning.html">Self-Regulated Learning</a></h3>
-            <div class="snippet">> 📄 Full text: Springer · local · Stanford SCALE · localSelf-Regulated Learning> Self-regulated learning (SRL) describes learners as active participants who can shape and develop their cognitive and behavioral actions in a successful way. AI tools ca...</div>
+            <div class="snippet">> 📄 Full text: Springer · local · Stanford SCALE · local Self-Regulated Learning > Self-regulated learning (SRL) describes learners as active participants who can shape and develop their cognitive and behavioral actions in a successful way. AI tools can either scaffold SRL develo...</div>
             <div class="tags"><a href="metacognition.html">metacognition</a><a href="scaffolding.html">scaffolding</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="formative-assessment.html">formative-assessment</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
 

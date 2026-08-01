@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,31 +47,28 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/agentic-ai-education-scoping-review.html">"Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm"</a></h3>
-            <div class="snippet">Agentic AI in Education: Scoping Review (474 Studies, 2020–2026)Wang, Zou, Xie & Qin (2026) — Lingnan University & Hong Kong Polytechnic University.
-Published in Computers and Education: Artificial Intelligence, accepted 27 July 2026.
-📄 doi:10.1016/j...</div>
+            <h3><a href="../pages/agentic-ai-education-scoping-review.html">Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm</a></h3>
+            <div class="snippet">Agentic AI in Education: Scoping Review (474 Studies, 2020–2026) Wang, Zou, Xie & Qin (2026) — Lingnan University & Hong Kong Polytechnic University. Published in Computers and Education: Artificial Intelligence , accepted 27 July 2026. 📄 doi: 10.1016/j.caeai.2026.100653 · local...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-literacy.html">ai-literacy</a><a href="educational-theory.html">educational-theory</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="multi-agent.html">multi-agent</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/aiawe-automated-writing-evaluation.html">"AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models"</a></h3>
-            <div class="snippet">AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned ModelsGayed (2026) — Waseda University.
-📄 Full text (arXiv)Gayed presents AiAWE, an open-source automated writing evaluation (AWE) system that scores a...</div>
+            <h3><a href="../pages/aiawe-automated-writing-evaluation.html">AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models</a></h3>
+            <div class="snippet">Gayed (2026) — Waseda University. 📄 Full text (arXiv) Gayed presents AiAWE , an open-source automated writing evaluation (AWE) system that scores argumentative essays using a LoRA-adapted instruction-tuned large language model (Gemma-3-27B-it). Using a proprietary ETS dataset of...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="automated-grading.html">automated-grading</a><a href="writing-education.html">writing-education</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/dot-framework-survey.html">"DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education"</a></h3>
-            <div class="snippet">DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced EducationA 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the DOT Fr...</div>
+            <h3><a href="../pages/dot-framework-survey.html">DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education</a></h3>
+            <div class="snippet">A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the DOT Framework — a synthesis of design-thinking-in-education and open-systems-theory . Core Findings Three-Factor Beli...</div>
             <div class="tags"><a href="ai-education.html">ai-education</a><a href="ai-literacy.html">ai-literacy</a><a href="design-thinking.html">design-thinking</a><a href="dot-framework.html">dot-framework</a><a href="higher-ed.html">higher-ed</a><a href="human-in-the-loop.html">human-in-the-loop</a><a href="institutional-change.html">institutional-change</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/iks-instruct-dataset-indian-knowledge.html">"IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems"</a></h3>
-            <div class="snippet">IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge SystemsShwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani (2026) — arXiv:2607.23322 (cs.CL, cs.CY)📄 Full text (arXiv...</div>
+            <h3><a href="../pages/iks-instruct-dataset-indian-knowledge.html">IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems</a></h3>
+            <div class="snippet">Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani (2026) — arXiv:2607.23322 (cs.CL, cs.CY) 📄 Full text (arXiv) Summary Presents a 24,795-example multilingual instruction dataset for teaching LLMs to deliver educational content grounded in Indi...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="personalized-learning.html">personalized-learning</a><a href="educational-theory.html">educational-theory</a><a href="language-learning.html">language-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/stanbkt-bayesian-knowledge-tracing.html">"StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing"</a></h3>
-            <div class="snippet">StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge TracingSiddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. Sales (2026) — Worcester Polytechnic Institute. arXiv preprint (cs.HC, cs.CY, stat.AP, stat.ME).📄 Fu...</div>
+            <h3><a href="../pages/stanbkt-bayesian-knowledge-tracing.html">StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing</a></h3>
+            <div class="snippet">Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. Sales (2026) — Worcester Polytechnic Institute. arXiv preprint (cs.HC, cs.CY, stat.AP, stat.ME) . 📄 Full text (arXiv) StanBKT introduces an open-source Python package for Bayesian Knowledge Tracing (B...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="learning-analytics.html">learning-analytics</a><a href="adaptive-learning.html">adaptive-learning</a><a href="benchmark.html">benchmark</a></div>
         </div>
 

@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,15 +47,13 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/ai-detection.html">"AI Detection in Education"</a></h3>
-            <div class="snippet">AI Detection in EducationThis is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers.Related Pages
-llm-detecting-llm-generated-content-education — Distinguishing Artificial from Authentic: Evaluating...</div>
+            <h3><a href="../pages/ai-detection.html">AI Detection in Education</a></h3>
+            <div class="snippet">This is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers. Related Pages llm-detecting-llm-generated-content-education — Distinguishing Artificial from Authentic: Evaluating LLMs fo Citation</div>
             <div class="tags"><a href="ai-detection.html">ai-detection</a><a href="academic-integrity.html">academic-integrity</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/academic-integrity.html">Academic Integrity</a></h3>
-            <div class="snippet">Academic IntegrityAcademic integrity challenges and solutions in AI-era educationConnectionsThis page is a stub — awaiting further sources and content.Related Pages
-genai-impact-chinese-students-hss — Findings on assessment validity concerns when Gen...</div>
+            <div class="snippet">Academic integrity challenges and solutions in AI-era education Connections This page is a stub — awaiting further sources and content. Related Pages genai-impact-chinese-students-hss — Findings on assessment validity concerns when GenAI use is widespread ethical-ai-higher-ed-gam...</div>
             <div class="tags"><a href="academic-integrity.html">academic-integrity</a><a href="policy-maker.html">policy-maker</a></div>
         </div>
 

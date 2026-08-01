@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,35 +47,33 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/ase-26-agentic-software-engineering-curriculum.html">"ASE-26: A Curriculum for Agentic Software Engineering as a Discipline"</a></h3>
-            <div class="snippet">ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
-Mikael Gorsky (2026) — arXiv:2606.01152.📄 Full text (arXiv)Formalizes Agentic Software Engineering (ASE) as a distinct discipline. Proposes a 21-module curriculum focused on the "e...</div>
+            <h3><a href="../pages/ase-26-agentic-software-engineering-curriculum.html">ASE-26: A Curriculum for Agentic Software Engineering as a Discipline</a></h3>
+            <div class="snippet">Mikael Gorsky (2026) — arXiv:2606.01152. 📄 Full text (arXiv) Formalizes Agentic Software Engineering (ASE) as a distinct discipline. Proposes a 21-module curriculum focused on the "evolution of intent" and practitioner discipline required to manage agents rather than just writing...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="agentic-workflows.html">agentic-workflows</a><a href="ai-literacy.html">ai-literacy</a><a href="higher-ed.html">higher-ed</a><a href="software-engineering.html">software-engineering</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/five-stage-ai-literacy-continuum.html">"Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy"</a></h3>
-            <div class="snippet">Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy
-Liu & Levy (2026) — arXiv:2606.00038.📄 Full text (arXiv)Proposes a 5-stage developmental continuum for AI literacy (Not Engaged -> Uncritical -> Informed -> Critical...</div>
+            <h3><a href="../pages/five-stage-ai-literacy-continuum.html">Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy</a></h3>
+            <div class="snippet">Liu & Levy (2026) — arXiv:2606.00038. 📄 Full text (arXiv) Proposes a 5-stage developmental continuum for AI literacy (Not Engaged -> Uncritical -> Informed -> Critical -> Improvement). Serves as a diagnostic tool for educators to move students beyond fluently-nonsense tool adopti...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="higher-ed.html">higher-ed</a><a href="instructional-design.html">instructional-design</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/culturally-relevant-pedagogy.html">"Culturally Relevant Pedagogy"</a></h3>
-            <div class="snippet">Culturally Relevant PedagogySynthesisCulturally Relevant Pedagogy (CRP), introduced by Gloria Ladson-Billings (1995), centers marginalized students' cultural references in curriculum design. Wang et al. (2025) demonstrate that LLMs can support K-12 t...</div>
+            <h3><a href="../pages/culturally-relevant-pedagogy.html">Culturally Relevant Pedagogy</a></h3>
+            <div class="snippet">Synthesis Culturally Relevant Pedagogy (CRP), introduced by Gloria Ladson-Billings (1995), centers marginalized students' cultural references in curriculum design. Wang et al. (2025) demonstrate that LLMs can support K-12 teachers in implementing CRP: 78% of teachers found AI sug...</div>
             <div class="tags"><a href="equity.html">equity</a><a href="culturally-sustaining-pedagogy.html">culturally-sustaining-pedagogy</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/k-12-ai-education.html">"K-12 AI Education"</a></h3>
-            <div class="snippet">K-12 AI EducationSynthesisK-12 AI Education encompasses the integration of artificial intelligence literacy, tools, and pedagogical approaches into primary and secondary education. Recent research reveals three critical pillars:1. Teacher Preparation...</div>
+            <h3><a href="../pages/k-12-ai-education.html">K-12 AI Education</a></h3>
+            <div class="snippet">Synthesis K-12 AI Education encompasses the integration of artificial intelligence literacy, tools, and pedagogical approaches into primary and secondary education. Recent research reveals three critical pillars: 1. Teacher Preparation Gap Teachers systematically overestimate the...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="equity.html">equity</a><a href="k-12.html">k-12</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-cultural-relevance-k12.html">"LLMs for Culturally Relevant K-12 Pedagogy"</a></h3>
-            <div class="snippet">LLMs for Culturally Relevant K-12 PedagogySynthesisExplores LLMs to support K-12 teachers in designing culturally relevant pedagogy. 78% of teachers found LLM suggestions helpful for diversifying curriculum materials. Addresses equity gaps in AI educ...</div>
+            <h3><a href="../pages/llm-cultural-relevance-k12.html">LLMs for Culturally Relevant K-12 Pedagogy</a></h3>
+            <div class="snippet">Synthesis Explores LLMs to support K-12 teachers in designing culturally relevant pedagogy. 78% of teachers found LLM suggestions helpful for diversifying curriculum materials. Addresses equity gaps in AI educational tools by centering marginalized perspectives. Connections cultu...</div>
             <div class="tags"><a href="culturally-sustaining-pedagogy.html">culturally-sustaining-pedagogy</a><a href="k-12.html">k-12</a><a href="llm-pedagogy.html">llm-pedagogy</a><a href="equity.html">equity</a><a href="faculty-development.html">faculty-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/finkelstein-principled-ai-education-2025.html">"Principled AI Education Framework"</a></h3>
-            <div class="snippet">Principled AI Education FrameworkThis is a stub page for "Principled AI Education Framework". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.R...</div>
+            <h3><a href="../pages/finkelstein-principled-ai-education-2025.html">Principled AI Education Framework</a></h3>
+            <div class="snippet">This is a stub page for "Principled AI Education Framework". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed. Related Pages</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="instructional-design.html">instructional-design</a></div>
         </div>
 

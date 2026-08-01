@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,20 +47,18 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/human-ai-collaboration-trust-expectations.html">"Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust"</a></h3>
-            <div class="snippet">Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrustAuthors: Liana Razmerita, Xiaojiang Zheng, Jonathan P. Allen
-Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)Key FindingsSurv...</div>
+            <h3><a href="../pages/human-ai-collaboration-trust-expectations.html">Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust</a></h3>
+            <div class="snippet">Authors: Liana Razmerita, Xiaojiang Zheng, Jonathan P. Allen Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0) Key Findings Survey of 245 higher ed students using Expectation Confirmation Theory (ECT). Found positive relationships between effort expectation an...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/agent-voice-accents-k12-group-learning.html">Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning</a></h3>
-            <div class="snippet">Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group LearningRavi, Stevens, Hurt, Hanks, Lin & Anderson (2026).
-📄 Full text (arXiv)Ravi et al. investigate how the voice accent of a generative-ai conversational peer agent shape...</div>
+            <div class="snippet">Ravi, Stevens, Hurt, Hanks, Lin & Anderson (2026) . 📄 Full text (arXiv) Ravi et al. investigate how the voice accent of a generative-ai conversational peer agent shapes learners' perceptions, trust, and interactional dynamics in k-12 group learning. While prior work examined agen...</div>
             <div class="tags"><a href="equity.html">equity</a><a href="generative-ai.html">generative-ai</a><a href="k-12.html">k-12</a><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/epistemic-emotions-collaborative-problem-solving.html">Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving</a></h3>
-            <div class="snippet">Ordered Network Analysis of Epistemic Emotions during Collaborative Problem SolvingSifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, Nathaniel Blanchard (2026) — Colorado State University / University of Pennsylvania. arXiv preprint (cs.CY).📄 Ful...</div>
+            <div class="snippet">Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, Nathaniel Blanchard (2026) — Colorado State University / University of Pennsylvania. arXiv preprint (cs.CY). 📄 Full text (arXiv) Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered Network Analysis to trace how epistemi...</div>
             <div class="tags"><a href="affect.html">affect</a><a href="learning-analytics.html">learning-analytics</a></div>
         </div>
 
