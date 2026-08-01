@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,58 +47,53 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/ai-literacy-power-knowledge.html">"AI Literacy: An Exercise in Power-Knowledge"</a></h3>
-            <div class="snippet">AI Literacy: An Exercise in Power-KnowledgeBrady D. Lund, Zoë Abbie Teel (2026) — arXiv:2607.27547 (cs.AI, cs.CY)📄 Full text (arXiv)SummaryArgues existing AI literacy frameworks, dominated by technical competency and responsible-use principles, enfor...</div>
+            <h3><a href="../pages/ai-literacy-power-knowledge.html">AI Literacy: An Exercise in Power-Knowledge</a></h3>
+            <div class="snippet">Brady D. Lund, Zoë Abbie Teel (2026) — arXiv:2607.27547 (cs.AI, cs.CY) 📄 Full text (arXiv) Summary Argues existing AI literacy frameworks, dominated by technical competency and responsible-use principles, enforce a consumer orientation toward AI rather than fostering genuine epis...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="equity.html">equity</a><a href="generative-ai.html">generative-ai</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/agentic-ai-education-scoping-review.html">"Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm"</a></h3>
-            <div class="snippet">Agentic AI in Education: Scoping Review (474 Studies, 2020–2026)Wang, Zou, Xie & Qin (2026) — Lingnan University & Hong Kong Polytechnic University.
-Published in Computers and Education: Artificial Intelligence, accepted 27 July 2026.
-📄 doi:10.1016/j...</div>
+            <h3><a href="../pages/agentic-ai-education-scoping-review.html">Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm</a></h3>
+            <div class="snippet">Agentic AI in Education: Scoping Review (474 Studies, 2020–2026) Wang, Zou, Xie & Qin (2026) — Lingnan University & Hong Kong Polytechnic University. Published in Computers and Education: Artificial Intelligence , accepted 27 July 2026. 📄 doi: 10.1016/j.caeai.2026.100653 · local...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-literacy.html">ai-literacy</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="multi-agent.html">multi-agent</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/assessment-validity.html">"Assessment Validity in AI Education"</a></h3>
-            <div class="snippet">Assessment Validity in AI EducationSynthesisAssessment validity—the degree to which an instrument measures what it claims to measure—is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revea...</div>
+            <h3><a href="../pages/assessment-validity.html">Assessment Validity in AI Education</a></h3>
+            <div class="snippet">Synthesis Assessment validity—the degree to which an instrument measures what it claims to measure—is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revealed a 40% overestimation gap : teachers' self-reported AI litera...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="assessment.html">assessment</a><a href="assessment-validity.html">assessment-validity</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/book-level-synthetic-textbook-organization.html">"Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training"</a></h3>
-            <div class="snippet">Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-TrainingJiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026) — arXiv:2607.28109 (cs.AI)📄 Full text (arXiv)SummaryStudies how organizing synthetic conte...</div>
+            <h3><a href="../pages/book-level-synthetic-textbook-organization.html">Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training</a></h3>
+            <div class="snippet">Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026) — arXiv:2607.28109 (cs.AI) 📄 Full text (arXiv) Summary Studies how organizing synthetic content into coherent book-level documents affects language model training, moving beyond local rewriting. Presents a scalab...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/human-vs-llm-ordered-coding.html">"Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis"</a></h3>
-            <div class="snippet">Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysisAuthors: Kamila Misiejuk, Sonsoles López-Pernas, Eduardo Araujo Oliveira, Brendan Eagan, Mohammed Saqr
-Source: Computers and Education...</div>
+            <h3><a href="../pages/human-vs-llm-ordered-coding.html">Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis</a></h3>
+            <div class="snippet">Authors: Kamila Misiejuk, Sonsoles López-Pernas, Eduardo Araujo Oliveira, Brendan Eagan, Mohammed Saqr Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0) Key Findings Critical methodological paper on using LLMs for automated qualitative coding of ordered data (...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="ground-truth-reliability-aied.html">ground-truth-reliability-aied</a><a href="learning-analytics.html">learning-analytics</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/genai-runaway-object-math-higher-ed.html">"GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics"</a></h3>
-            <div class="snippet">GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematicsAuthors: Dionysia Bakogianni, Yvonne Liljekvist, Phuong Bui
-Source: Computers and Education: Artificial Intelligence, Vol 11, 100637...</div>
+            <h3><a href="../pages/genai-runaway-object-math-higher-ed.html">GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics</a></h3>
+            <div class="snippet">Authors: Dionysia Bakogianni, Yvonne Liljekvist, Phuong Bui Source: Computers and Education: Artificial Intelligence, Vol 11, 100637 — Open Access (CC BY 4.0) Key Findings Qualitative study of 10 mathematics academics at a Swedish university, using Cultural-Historical Activity Th...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="stem-education.html">stem-education</a><a href="faculty-development.html">faculty-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/genai-mindtool-generative-learning.html">"Generative AI (GenAI) as a mindtool that supports generative learning (GL)"</a></h3>
-            <div class="snippet">Generative AI (GenAI) as a mindtool that supports generative learning (GL)Authors: Nada Dabbagh, Helen Fake
-Source: Computers and Education: Artificial Intelligence, Vol 11, 100626 — Open Access (CC BY 4.0)Key FindingsArgues GenAI can serve as a Mind...</div>
+            <h3><a href="../pages/genai-mindtool-generative-learning.html">Generative AI (GenAI) as a mindtool that supports generative learning (GL)</a></h3>
+            <div class="snippet">Authors: Nada Dabbagh, Helen Fake Source: Computers and Education: Artificial Intelligence, Vol 11, 100626 — Open Access (CC BY 4.0) Key Findings Argues GenAI can serve as a Mindtool (knowledge representation tool) to facilitate Generative Learning rather than short-circuiting it...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="instructional-design.html">instructional-design</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/iks-instruct-dataset-indian-knowledge.html">"IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems"</a></h3>
-            <div class="snippet">IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge SystemsShwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani (2026) — arXiv:2607.23322 (cs.CL, cs.CY)📄 Full text (arXiv...</div>
+            <h3><a href="../pages/iks-instruct-dataset-indian-knowledge.html">IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems</a></h3>
+            <div class="snippet">Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani (2026) — arXiv:2607.23322 (cs.CL, cs.CY) 📄 Full text (arXiv) Summary Presents a 24,795-example multilingual instruction dataset for teaching LLMs to deliver educational content grounded in Indi...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="personalized-learning.html">personalized-learning</a><a href="language-learning.html">language-learning</a><a href="open-source.html">open-source</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/generative-refusal-ai-tools-for-thought.html">"Stop Writing for Me: Generative Refusal in AI Tools for Thought"</a></h3>
-            <div class="snippet">Stop Writing for Me: Generative Refusal in AI Tools for ThoughtSora Kang (2026) — arXiv:2607.24751 (cs.HC)📄 Full text (arXiv)SummaryPosition paper exploring "Generative Refusal" — AI tools that strategically withhold text generation to demand user ar...</div>
+            <h3><a href="../pages/generative-refusal-ai-tools-for-thought.html">Stop Writing for Me: Generative Refusal in AI Tools for Thought</a></h3>
+            <div class="snippet">Sora Kang (2026) — arXiv:2607.24751 (cs.HC) 📄 Full text (arXiv) Summary Position paper exploring "Generative Refusal" — AI tools that strategically withhold text generation to demand user articulation, functioning as a Maieutic Partner rather than a cognitive offloading tool. Arg...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="writing-education.html">writing-education</a><a href="scaffolding.html">scaffolding</a><a href="over-reliance.html">over-reliance</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/post-instrumental-learning-capacity-dissolution.html">When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution</a></h3>
-            <div class="snippet">When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity DissolutionKai Yao (2026) — arXiv:2607.28041 (cs.CY)📄 Full text (arXiv)SummaryArgues that as AI systems become capable of producing the artifacts through...</div>
+            <div class="snippet">Kai Yao (2026) — arXiv:2607.28041 (cs.CY) 📄 Full text (arXiv) Summary Argues that as AI systems become capable of producing the artifacts through which institutions recognize competence, existing ethical frameworks centered on AI failures become insufficient. Develops the concept...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="over-reliance.html">over-reliance</a><a href="student-experience.html">student-experience</a></div>
         </div>
 

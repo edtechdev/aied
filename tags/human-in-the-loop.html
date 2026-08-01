@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,43 +47,43 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/teacher-student-agency-orchestration.html">"Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing"</a></h3>
-            <div class="snippet">Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic PairingKexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026) — Carnegie Mellon University; University of Washington; Ruhr-Universitä...</div>
+            <h3><a href="../pages/teacher-student-agency-orchestration.html">Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing</a></h3>
+            <div class="snippet">Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026) — Carnegie Mellon University; University of Washington; Ruhr-Universität Bochum. arXiv:2605.18761 [cs.HC] — Accepted at CSCW 2026, to appear in PACM HCI 📄 Full text (arXiv) Yang et al. (2026) tackle a fun...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="teacher-role.html">teacher-role</a><a href="student-experience.html">student-experience</a><a href="k-12.html">k-12</a><a href="collaborative-learning.html">collaborative-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/dot-framework-survey.html">"DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education"</a></h3>
-            <div class="snippet">DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced EducationA 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the DOT Fr...</div>
+            <h3><a href="../pages/dot-framework-survey.html">DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education</a></h3>
+            <div class="snippet">A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the DOT Framework — a synthesis of design-thinking-in-education and open-systems-theory . Core Findings Three-Factor Beli...</div>
             <div class="tags"><a href="ai-education.html">ai-education</a><a href="ai-literacy.html">ai-literacy</a><a href="design-thinking.html">design-thinking</a><a href="dot-framework.html">dot-framework</a><a href="higher-ed.html">higher-ed</a><a href="institutional-change.html">institutional-change</a><a href="open-source.html">open-source</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-pedagogical-accompaniment-amico.html">"Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China"</a></h3>
-            <div class="snippet">Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and ChinaPier Paolo Benedetti (2026) — (Independent/Doctoral Research). arXiv:2605.20665 [cs.HC] — Accepted at...</div>
+            <h3><a href="../pages/ai-pedagogical-accompaniment-amico.html">Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China</a></h3>
+            <div class="snippet">Pier Paolo Benedetti (2026) — (Independent/Doctoral Research). arXiv:2605.20665 [cs.HC] — Accepted at ICAIE 2026 📄 Full text (arXiv) Benedetti (2026) introduces a theoretically grounded framework for AI-enabled pedagogical accompaniment that explicitly centers human agency — an a...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="scaffolding.html">scaffolding</a><a href="pedagogical-safety.html">pedagogical-safety</a><a href="ai-literacy.html">ai-literacy</a><a href="student-experience.html">student-experience</a><a href="teacher-role.html">teacher-role</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/mindcopilot-llm-co-writing.html">"MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing"</a></h3>
-            <div class="snippet">MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-WritingYouqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026) — University of Science and Techn...</div>
+            <h3><a href="../pages/mindcopilot-llm-co-writing.html">MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing</a></h3>
+            <div class="snippet">Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026) — University of Science and Technology of China / Shanghai AI Laboratory. IJCAI 2026 . 📄 Full text (arXiv) MindCopilot introduces a formal f...</div>
             <div class="tags"><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="writing-education.html">writing-education</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ground-truth-reliability-aied.html">"Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education"</a></h3>
-            <div class="snippet">Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in EducationThomas, Borchers, Vanacore, Koedinger & Kizilcec (2026) — CMU & Cornell. Accepted as full paper at AIED 2026.📄 Full text (arXiv)Core ArgumentThe AIED co...</div>
+            <h3><a href="../pages/ground-truth-reliability-aied.html">Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education</a></h3>
+            <div class="snippet">Thomas, Borchers, Vanacore, Koedinger & Kizilcec (2026) — CMU & Cornell. Accepted as full paper at AIED 2026. 📄 Full text (arXiv) Core Argument The AIED community over-relies on inter-rater reliability (IRR) — typically a single Cohen's κ coefficient — as a mechanical gatekeeper...</div>
             <div class="tags"><a href="benchmark.html">benchmark</a><a href="efficacy-study.html">efficacy-study</a><a href="learning-analytics.html">learning-analytics</a><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="automated-grading.html">automated-grading</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/human-in-the-loop-ai.html">Human-in-the-Loop AI for Education</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2409.03512 · localHuman-in-the-Loop AI for EducationEducational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling pro...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2409.03512 · local Human-in-the-Loop AI for Education Educational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling production. Two recent implemen...</div>
             <div class="tags"><a href="assessment.html">assessment</a><a href="safety.html">safety</a><a href="ai-education.html">ai-education</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/multi-agent-instructional-design.html">Multi-Agent Systems for Instructional Design</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2508.16659 · localMulti-Agent Systems for Instructional Design> Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators.The Promptin...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2508.16659 · local Multi-Agent Systems for Instructional Design > Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators. The Prompting Gap in K-12 Education Wan...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="agentic-workflows.html">agentic-workflows</a><a href="ai-literacy.html">ai-literacy</a><a href="k-12.html">k-12</a><a href="pedagogical-safety.html">pedagogical-safety</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/text-simplification-its.html">Text Simplification for Intelligent Tutoring</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.08947 · localText Simplification for Intelligent Tutoring> Human-in-the-loop evaluation framework for text simplification in ITS, addressing LLM output variability across prompting strategies.The Challenge of Text Simplifica...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.08947 · local Text Simplification for Intelligent Tutoring > Human-in-the-loop evaluation framework for text simplification in ITS, addressing LLM output variability across prompting strategies. The Challenge of Text Simplification in Education MuTSE (Ro...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="nlp-education.html">nlp-education</a><a href="adaptive-learning.html">adaptive-learning</a><a href="generative-ai.html">generative-ai</a></div>
         </div>
 

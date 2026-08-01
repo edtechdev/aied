@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,110 +47,103 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/ai-assessment-scale-reform.html">"'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform"</a></h3>
-            <div class="snippet">'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reformMike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026) — arXiv cs.HC
-📄 Full text (arXiv)
-📄 PDFThis study examines the implementation of the A...</div>
+            <h3><a href="../pages/ai-assessment-scale-reform.html">'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform</a></h3>
+            <div class="snippet">Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026) — arXiv cs.HC 📄 Full text (arXiv) 📄 PDF This study examines the implementation of the Artificial Intelligence Assessment Scale (AIAS), a structured framework for redesigning university assessment in resp...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="academic-integrity.html">academic-integrity</a><a href="generative-ai.html">generative-ai</a><a href="teacher-role.html">teacher-role</a><a href="policy-maker.html">policy-maker</a><a href="ai-literacy.html">ai-literacy</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-literacy-assessment-misalignment.html">"AI Literacy Assessment: Self-Reported vs Performance Misalignment"</a></h3>
-            <div class="snippet">AI Literacy Assessment: Self-Reported vs Performance MisalignmentSynthesisHighlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessment...</div>
+            <h3><a href="../pages/ai-literacy-assessment-misalignment.html">AI Literacy Assessment: Self-Reported vs Performance Misalignment</a></h3>
+            <div class="snippet">Synthesis Highlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31). Connecti...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="assessment-validity.html">assessment-validity</a><a href="k-12.html">k-12</a><a href="self-regulated-learning.html">self-regulated-learning</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/assessment-validity.html">"Assessment Validity in AI Education"</a></h3>
-            <div class="snippet">Assessment Validity in AI EducationSynthesisAssessment validity—the degree to which an instrument measures what it claims to measure—is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revea...</div>
+            <h3><a href="../pages/assessment-validity.html">Assessment Validity in AI Education</a></h3>
+            <div class="snippet">Synthesis Assessment validity—the degree to which an instrument measures what it claims to measure—is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revealed a 40% overestimation gap : teachers' self-reported AI litera...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="assessment-validity.html">assessment-validity</a><a href="educational-theory.html">educational-theory</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/automated-question-generation.html">"Automated Question Generation"</a></h3>
-            <div class="snippet">Automated Question GenerationSynthesisAutomated question generation leverages NLP and LLMs to create educational assessments at scale. Wei & Stamper (2025) introduced the generate-then-validate paradigm, reducing hallucination by 62% compared to dire...</div>
+            <h3><a href="../pages/automated-question-generation.html">Automated Question Generation</a></h3>
+            <div class="snippet">Synthesis Automated question generation leverages NLP and LLMs to create educational assessments at scale. Wei & Stamper (2025) introduced the generate-then-validate paradigm, reducing hallucination by 62% compared to direct generation and achieving 89% accuracy on STEM datasets....</div>
             <div class="tags"><a href="nlp-education.html">nlp-education</a><a href="llm.html">llm</a><a href="stem-education.html">stem-education</a><a href="automated-grading.html">automated-grading</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/cong-confidence-asag-2026.html">"Confidence-Aware Automatic Short Answer Grading"</a></h3>
-            <div class="snippet">Confidence-Aware Automatic Short Answer GradingThis is a stub page for "Confidence-Aware Automatic Short Answer Grading". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying so...</div>
+            <h3><a href="../pages/cong-confidence-asag-2026.html">Confidence-Aware Automatic Short Answer Grading</a></h3>
+            <div class="snippet">This is a stub page for "Confidence-Aware Automatic Short Answer Grading". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed. Related Pages</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="confidence.html">confidence</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-educational-question-cognitive-depth.html">"From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions"</a></h3>
-            <div class="snippet">From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational QuestionsXiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026) — Institution.📄 Full text (arXiv)LLM-generated educa...</div>
+            <h3><a href="../pages/llm-educational-question-cognitive-depth.html">From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions</a></h3>
+            <div class="snippet">Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026) — Institution. 📄 Full text (arXiv) LLM-generated educational questions show varying cognitive depth; models excel at factual recall but struggle with higher-order thinking questions...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="automated-grading.html">automated-grading</a><a href="writing-education.html">writing-education</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/hybrid-e-assessment-semi-automated-grading.html">"Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations"</a></h3>
-            <div class="snippet">Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written ExaminationsHartwig Grabowski, Michael Canz — cs.AI, cs.CV, cs.CY
-📄 Full text (arXiv)This paper identifies the didactic narrowing caused by fully digital e-assessm...</div>
+            <h3><a href="../pages/hybrid-e-assessment-semi-automated-grading.html">Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations</a></h3>
+            <div class="snippet">Hartwig Grabowski, Michael Canz — cs.AI, cs.CV, cs.CY 📄 Full text (arXiv) This paper identifies the didactic narrowing caused by fully digital e-assessment (overuse of closed question formats) and proposes a hybrid approach that retains paper-based, problem-oriented examination t...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="higher-ed.html">higher-ed</a><a href="generative-ai.html">generative-ai</a><a href="formative-assessment.html">formative-assessment</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/learnopt-exam-cognitive-structure.html">"LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization"</a></h3>
-            <div class="snippet">LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained OptimizationJoy Bose, Om Thomas (2026) — arXiv preprint  
-📄 Full text (arXiv)Standardized examinations are typically treated as unif...</div>
+            <h3><a href="../pages/learnopt-exam-cognitive-structure.html">LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization</a></h3>
+            <div class="snippet">Joy Bose, Om Thomas (2026) — arXiv preprint 📄 Full text (arXiv) Standardized examinations are typically treated as uniform syllabus coverage problems. LearnOpt recovers stable latent cognitive structures diverging systematically from official syllabi, using LLM-tagged questions a...</div>
             <div class="tags"><a href="learning-analytics.html">learning-analytics</a><a href="llm.html">llm</a><a href="k-12.html">k-12</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/student-cheat-sheets-make-or-take.html">"Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets"</a></h3>
-            <div class="snippet">Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat SheetsHelen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026) — University of Waterloo / Carleton University. arXiv preprint (cs.HC).📄 Full text (arXiv)Chen, Sakhnini an...</div>
+            <h3><a href="../pages/student-cheat-sheets-make-or-take.html">Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets</a></h3>
+            <div class="snippet">Helen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026) — University of Waterloo / Carleton University. arXiv preprint (cs.HC). 📄 Full text (arXiv) Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior software-requirements course where students could use in...</div>
             <div class="tags"><a href="metacognition.html">metacognition</a><a href="self-regulated-learning.html">self-regulated-learning</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/test-driven-ai-assisted-learning.html">"Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests"</a></h3>
-            <div class="snippet">Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book TestsJin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang (2026) — arXiv:2606.23315 (cs.CY)
-📄 Full text (arXiv)Liu et al. (2026) report on a 13-week Test-Driven,...</div>
+            <h3><a href="../pages/test-driven-ai-assisted-learning.html">Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests</a></h3>
+            <div class="snippet">Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang (2026) — arXiv:2606.23315 (cs.CY) 📄 Full text (arXiv) Liu et al. (2026) report on a 13-week Test-Driven, AI-Assisted (TDAA) redesign of a Theory of Computation course at HKUST (Guangzhou). The course replaced all lect...</div>
             <div class="tags"><a href="cs-education.html">cs-education</a><a href="llm.html">llm</a><a href="active-learning.html">active-learning</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/machines-misread-pedagogical-quality.html">"Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation"</a></h3>
-            <div class="snippet">Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question EvaluationPei-Yu Tseng, Mahir Akgun, Peng Liu (2026) — arXiv:2606.23629 (cs.HC)
-📄 Full text (arXiv)Tseng et al. (2026) investigate human-machine alignment...</div>
+            <h3><a href="../pages/machines-misread-pedagogical-quality.html">Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation</a></h3>
+            <div class="snippet">Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026) — arXiv:2606.23629 (cs.HC) 📄 Full text (arXiv) Tseng et al. (2026) investigate human-machine alignment in LLM-based pretest question evaluation — a critical bottleneck for scalable AI-assisted assessment. Their AI-assisted workflow combi...</div>
             <div class="tags"><a href="ai-ed-evaluation.html">ai-ed-evaluation</a><a href="llm.html">llm</a><a href="formative-assessment.html">formative-assessment</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/authentic-assessment.html">Authentic Assessment</a></h3>
-            <div class="snippet">> 📄 Full text: Springer · localAuthentic Assessment> Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challeng...</div>
+            <div class="snippet">> 📄 Full text: Springer · local Authentic Assessment > Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which thr...</div>
             <div class="tags"><a href="ai-ed-evaluation.html">ai-ed-evaluation</a><a href="ai-education.html">ai-education</a><a href="formative-assessment.html">formative-assessment</a><a href="higher-ed.html">higher-ed</a><a href="metacognition.html">metacognition</a><a href="self-regulated-learning.html">self-regulated-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/llm-item-difficulty-prediction.html">Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction</a></h3>
-            <div class="snippet">Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty PredictionChenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026) — Computation and Language (cs.CL).
-📄 Full text (arXiv)This paper introduces Epi2Diff...</div>
+            <div class="snippet">Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026) — Computation and Language (cs.CL). 📄 Full text (arXiv) This paper introduces Epi2Diff (Episode to Difficulty), a framework that maps LLM reasoning traces into cognitively grounded episode sequences for predictin...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="learning-analytics.html">learning-analytics</a><a href="higher-ed.html">higher-ed</a><a href="student-modeling.html">student-modeling</a><a href="benchmark.html">benchmark</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/educational-vlm-evaluation.html">Educational VLM Evaluation</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2603.00925 · localEducational VLM EvaluationBenchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to support learners — particularly struggling learners and those making errors. T...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2603.00925 · local Educational VLM Evaluation Benchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to support learners — particularly struggling learners and those making errors. Traditional AI benchmarks mea...</div>
             <div class="tags"><a href="multimodal.html">multimodal</a><a href="benchmark.html">benchmark</a><a href="safety.html">safety</a><a href="stem-education.html">stem-education</a><a href="ai-education.html">ai-education</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/formative-assessment.html">Formative Assessment in AI Education</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2504.20082 · local · arXiv:2507.04295 · localFormative Assessment in AI EducationAssessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can genera...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2504.20082 · local · arXiv:2507.04295 · local Formative Assessment in AI Education Assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can generate, validate, and adapt form...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-ed-evaluation.html">ai-ed-evaluation</a><a href="ai-education.html">ai-education</a><a href="safety.html">safety</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/human-in-the-loop-ai.html">Human-in-the-Loop AI for Education</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2409.03512 · localHuman-in-the-Loop AI for EducationEducational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling pro...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.03926 · local · arXiv:2409.03512 · local Human-in-the-Loop AI for Education Educational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling production. Two recent implemen...</div>
             <div class="tags"><a href="human-in-the-loop.html">human-in-the-loop</a><a href="safety.html">safety</a><a href="ai-education.html">ai-education</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/multimodal-learning-genai.html">Multimodal Learning with Generative AI</a></h3>
-            <div class="snippet">> 📄 Full text: Liverpool Repository · localMultimodal Learning with Generative AI> A comprehensive educator's guide to integrating Generative AI into multimodal teaching, learning, and assessment across higher education. Built on Kress's social semio...</div>
+            <div class="snippet">> 📄 Full text: Liverpool Repository · local Multimodal Learning with Generative AI > A comprehensive educator's guide to integrating Generative AI into multimodal teaching, learning, and assessment across higher education. Built on Kress's social semiotic theory of multimodality,...</div>
             <div class="tags"><a href="ai-education.html">ai-education</a><a href="higher-ed.html">higher-ed</a><a href="generative-ai.html">generative-ai</a><a href="multimodal.html">multimodal</a><a href="active-learning.html">active-learning</a><a href="scaffolding.html">scaffolding</a><a href="feedback-loop.html">feedback-loop</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/reinforcement-learning-measurement-model-assessment.html">Reinforcement Learning Measurement Model</a></h3>
-            <div class="snippet">Reinforcement Learning Measurement Model for Interactive AssessmentWenqian Xu, Feng Ji (2026) — RL-based measurement model for interactive assessments.📄 Full text (arXiv)Key FindingsInteractive assessments generate sequential process data that conven...</div>
+            <div class="snippet">for Interactive Assessment Wenqian Xu, Feng Ji (2026) — RL-based measurement model for interactive assessments. 📄 Full text (arXiv) Key Findings Interactive assessments generate sequential process data that conventional item response models (IRT) cannot adequately handle. This pa...</div>
             <div class="tags"><a href="learning-analytics.html">learning-analytics</a><a href="knowledge-tracing.html">knowledge-tracing</a><a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a><a href="benchmark.html">benchmark</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/automated-formative-assessments-a-level-sciences.html">The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences</a></h3>
-            <div class="snippet">The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level SciencesMatey Yordanov, Mikhail Bychkov, Andrei Kuchma (2026) — Independent / school-based study. arXiv preprint (cs.CY).📄 Full text (arXiv)This q...</div>
+            <div class="snippet">Matey Yordanov, Mikhail Bychkov, Andrei Kuchma (2026) — Independent / school-based study. arXiv preprint (cs.CY). 📄 Full text (arXiv) This quasi-experimental mixed-methods longitudinal study (N=142) deploys a fully automated marking pipeline for handwritten mock examinations in A...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="k-12.html">k-12</a><a href="stem-education.html">stem-education</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/understanding-student-effort-response-time.html">Understanding Student Effort Using Response-Time Propensities During Problem Solving</a></h3>
-            <div class="snippet">Student Effort Measurement via Response-Time PropensitiesConrad Borchers, Lijin Zhang, Kexin Yang et al. (2026) — Response-time analysis for student effort during problem solving.📄 Full text (arXiv)Key FindingsAdaptive learning systems produce substa...</div>
+            <div class="snippet">Student Effort Measurement via Response-Time Propensities Conrad Borchers, Lijin Zhang, Kexin Yang et al. (2026) — Response-time analysis for student effort during problem solving. 📄 Full text (arXiv) Key Findings Adaptive learning systems produce substantial learning gains, yet...</div>
             <div class="tags"><a href="adaptive-learning.html">adaptive-learning</a><a href="engagement-metrics.html">engagement-metrics</a><a href="learning-analytics.html">learning-analytics</a><a href="student-experience.html">student-experience</a></div>
         </div>
 

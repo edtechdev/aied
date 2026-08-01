@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,33 +47,33 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/codify-socratic-tutoring-programming.html">"Codify: An Intelligent Socratic Tutoring System for Programming Education"</a></h3>
-            <div class="snippet">Codify: An Intelligent Socratic Tutoring System for Programming EducationAllan Ilyasov, Giulio Bardelli, Sebastian Torres, Fazel Keshtkar (2026) — St. John's University. The International FLAIRS Conference Proceedings, 39(1). DOI: 10.32473/flairs.39....</div>
+            <h3><a href="../pages/codify-socratic-tutoring-programming.html">Codify: An Intelligent Socratic Tutoring System for Programming Education</a></h3>
+            <div class="snippet">Allan Ilyasov, Giulio Bardelli, Sebastian Torres, Fazel Keshtkar (2026) — St. John's University. The International FLAIRS Conference Proceedings , 39(1). DOI: 10.32473/flairs.39.1.141554 . 📄 Full text (FLAIRS) System Overview Codify (also referred to as "AI Tutor") is a web-based...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="scaffolding.html">scaffolding</a><a href="socratic-method.html">socratic-method</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/debugtracker-classroom-debugging.html">"DebugTracker: Lightweight Process Evidence for Classroom Debugging"</a></h3>
-            <div class="snippet">DebugTracker: Lightweight Process Evidence for Classroom DebuggingJiatong Liu et al. (2026) — The University of Hong Kong. arXiv.📄 Full text (arXiv)Debugging exercises are usually graded from final code and test outcomes, which hide how students repr...</div>
+            <h3><a href="../pages/debugtracker-classroom-debugging.html">DebugTracker: Lightweight Process Evidence for Classroom Debugging</a></h3>
+            <div class="snippet">Jiatong Liu et al. (2026) — The University of Hong Kong. arXiv. 📄 Full text (arXiv) Debugging exercises are usually graded from final code and test outcomes, which hide how students reproduced failures, formed hypotheses, inspected evidence, edited code, and verified fixes. The a...</div>
             <div class="tags"><a href="learning-analytics.html">learning-analytics</a><a href="formative-assessment.html">formative-assessment</a><a href="cs-education.html">cs-education</a><a href="higher-ed.html">higher-ed</a><a href="feedback-loop.html">feedback-loop</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/flowcode-ai-creative-coding.html">"Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education"</a></h3>
-            <div class="snippet">Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing EducationTseng, Seoror, Adda, Factor, Darabi, Matschke, Fu, Lin, Maram & Sinha (2026) — arXiv preprint.📄 Full text (arXiv)Building upon found examples is...</div>
+            <h3><a href="../pages/flowcode-ai-creative-coding.html">Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education</a></h3>
+            <div class="snippet">Tseng, Seoror, Adda, Factor, Darabi, Matschke, Fu, Lin, Maram & Sinha (2026) — arXiv preprint. 📄 Full text (arXiv) Building upon found examples is a popular way people learn to code, especially in creative coding communities where sharing projects and remixing are common practice...</div>
             <div class="tags"><a href="scaffolding.html">scaffolding</a><a href="generative-ai.html">generative-ai</a><a href="feedback-loop.html">feedback-loop</a><a href="active-learning.html">active-learning</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/pattern-kc-programming-recommendation.html">Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components</a></h3>
-            <div class="snippet">Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge ComponentsHoq, Pitts, Duan, Narayanan, Hassany, Lan, Brusilovsky & Akram (2026) — CSEDM Workshop 2026 (arXiv preprint).📄 Full text (arXiv)Introductory programming...</div>
+            <div class="snippet">Hoq, Pitts, Duan, Narayanan, Hassany, Lan, Brusilovsky & Akram (2026) — CSEDM Workshop 2026 (arXiv preprint). 📄 Full text (arXiv) Introductory programming instruction relies on hands-on practice and short learning activities to support mastery of foundational concepts. Although m...</div>
             <div class="tags"><a href="knowledge-tracing.html">knowledge-tracing</a><a href="personalized-learning.html">personalized-learning</a><a href="adaptive-learning.html">adaptive-learning</a><a href="intelligent-tutoring.html">intelligent-tutoring</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/voice-text-prompt-problems-computing-education.html">Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education</a></h3>
-            <div class="snippet">Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing EducationKaitlin Riegel et al. (2026) — University of Auckland / University of Michigan. arXiv.📄 Full text (arXiv)Nearly all prior research on LLMs in compu...</div>
+            <div class="snippet">Kaitlin Riegel et al. (2026) — University of Auckland / University of Michigan. arXiv. 📄 Full text (arXiv) Nearly all prior research on LLMs in computing education has used text input, yet voice-enabled interfaces are becoming common. This exploratory study investigated how intro...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="cs-education.html">cs-education</a><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="prompt-engineering.html">prompt-engineering</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/prompt-problems-nl-programming-mistakes.html">Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks</a></h3>
-            <div class="snippet">Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming TasksVictor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026) — arXiv:2607.05034 [cs.CY]📄 Fu...</div>
+            <div class="snippet">Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026) — arXiv:2607.05034 [cs.CY] 📄 Full text (arXiv) Learning to communicate with code-generating AI is an emerging skill for novice programmers. 'Prompt Problems' — having students s...</div>
             <div class="tags"><a href="ai-literacy.html">ai-literacy</a><a href="cs-education.html">cs-education</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="prompt-engineering.html">prompt-engineering</a><a href="scaffolding.html">scaffolding</a><a href="student-experience.html">student-experience</a></div>
         </div>
 

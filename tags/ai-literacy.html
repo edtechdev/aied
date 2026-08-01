@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,571 +47,508 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/ai-assessment-scale-reform.html">"'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform"</a></h3>
-            <div class="snippet">'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reformMike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026) — arXiv cs.HC
-📄 Full text (arXiv)
-📄 PDFThis study examines the implementation of the A...</div>
+            <h3><a href="../pages/ai-assessment-scale-reform.html">'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform</a></h3>
+            <div class="snippet">Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026) — arXiv cs.HC 📄 Full text (arXiv) 📄 PDF This study examines the implementation of the Artificial Intelligence Assessment Scale (AIAS), a structured framework for redesigning university assessment in resp...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="assessment.html">assessment</a><a href="academic-integrity.html">academic-integrity</a><a href="generative-ai.html">generative-ai</a><a href="teacher-role.html">teacher-role</a><a href="policy-maker.html">policy-maker</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/genai-policies-higher-ed-computing.html">"A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education"</a></h3>
-            <div class="snippet">A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing EducationAmrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, et al. (2026) - George Mason University; Mon...</div>
+            <h3><a href="../pages/genai-policies-higher-ed-computing.html">A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education</a></h3>
+            <div class="snippet">Amrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, et al. (2026) - George Mason University; Montgomery College. arXiv preprint. 📄 Full text (arXiv) Key Findings Compares institutional-level GenAI policy documents against course-level instructor policies, exposing a gap betwe...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="policy-maker.html">policy-maker</a><a href="equity.html">equity</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/brookings-ai-students-report.html">"A New Direction for Students in an AI World: Prosper, Prepare, Protect"</a></h3>
-            <div class="snippet">> 📄 Full text: Brookings · localBrookings Report: AI and Students (Prosper, Prepare, Protect)Definition
-A yearlong global "premortem" by the Brookings Center for Universal Education (2026) examining generative AI's risks and benefits for students. Ba...</div>
+            <h3><a href="../pages/brookings-ai-students-report.html">A New Direction for Students in an AI World: Prosper, Prepare, Protect</a></h3>
+            <div class="snippet">> 📄 Full text: Brookings · local Brookings Report: AI and Students (Prosper, Prepare, Protect) Definition A yearlong global "premortem" by the Brookings Center for Universal Education (2026) examining generative AI's risks and benefits for students. Based on 500+ interviews acros...</div>
             <div class="tags"><a href="policy-maker.html">policy-maker</a><a href="k-12.html">k-12</a><a href="student-experience.html">student-experience</a><a href="regulation.html">regulation</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/tool-invariant-framework-agentic-ai.html">"A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI"</a></h3>
-            <div class="snippet">A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AILarry Engelhardt (Francis Marion University) — arXiv:2607.15518 [physics.ed-ph], submitted 17 Jul 2026. CC BY 4.0. doi:10.48550/arXiv.2607.15518.📄 arX...</div>
+            <h3><a href="../pages/tool-invariant-framework-agentic-ai.html">A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI</a></h3>
+            <div class="snippet">Larry Engelhardt (Francis Marion University) — arXiv:2607.15518 [physics.ed-ph], submitted 17 Jul 2026. CC BY 4.0. doi:10.48550/arXiv.2607.15518. 📄 arXiv full text (HTML) — open access; supplement tables (task-by-task progression, oral-defense rubric) as ancillary PDF . > Note on...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="assessment-design.html">assessment-design</a><a href="authentic-assessment.html">authentic-assessment</a><a href="computational-thinking.html">computational-thinking</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="oral-defense.html">oral-defense</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/genai-usage-design-students-survey.html">"A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026"</a></h3>
-            <div class="snippet">A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
-Stefana Broadbent, et al. (2026) — arXiv preprint. arXiv:2607.17094 [cs.CY].
-📄 Full text (arXiv)This survey o...</div>
+            <h3><a href="../pages/genai-usage-design-students-survey.html">A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026</a></h3>
+            <div class="snippet">Stefana Broadbent, et al. (2026) — arXiv preprint. arXiv:2607.17094 [cs.CY]. 📄 Full text (arXiv) This survey of design students at the Politecnico di Milano (2025/2026), paired with AI-use journals kept during research assignments, examines how generative-ai enters the design pro...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="academic-integrity.html">academic-integrity</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/teacher-ai-adoption-confidence.html">"AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes"</a></h3>
-            <div class="snippet">AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and AttitudesVanessa B. Sibug, Maria Anna D. Cruz, Vicky P. Vital, Juvy C. Grume, Almer B. Gamboa, Emerson Q. Fernando, Lloyd D. Feliciano, Jordan L. Salenga, John Paul P. Miranda...</div>
+            <h3><a href="../pages/teacher-ai-adoption-confidence.html">AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes</a></h3>
+            <div class="snippet">Vanessa B. Sibug, Maria Anna D. Cruz, Vicky P. Vital, Juvy C. Grume, Almer B. Gamboa, Emerson Q. Fernando, Lloyd D. Feliciano, Jordan L. Salenga, John Paul P. Miranda (2026) — ICEMT 2025. 📄 Full text (arXiv) Key Findings A study of 260 Filipino teachers examined how institutional...</div>
             <div class="tags"><a href="teacher-role.html">teacher-role</a><a href="faculty-development.html">faculty-development</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-literacy-assessment-misalignment.html">"AI Literacy Assessment: Self-Reported vs Performance Misalignment"</a></h3>
-            <div class="snippet">AI Literacy Assessment: Self-Reported vs Performance MisalignmentSynthesisHighlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessment...</div>
+            <h3><a href="../pages/ai-literacy-assessment-misalignment.html">AI Literacy Assessment: Self-Reported vs Performance Misalignment</a></h3>
+            <div class="snippet">Synthesis Highlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31). Connecti...</div>
             <div class="tags"><a href="assessment.html">assessment</a><a href="assessment-validity.html">assessment-validity</a><a href="k-12.html">k-12</a><a href="self-regulated-learning.html">self-regulated-learning</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-literacy-power-knowledge.html">"AI Literacy: An Exercise in Power-Knowledge"</a></h3>
-            <div class="snippet">AI Literacy: An Exercise in Power-KnowledgeBrady D. Lund, Zoë Abbie Teel (2026) — arXiv:2607.27547 (cs.AI, cs.CY)📄 Full text (arXiv)SummaryArgues existing AI literacy frameworks, dominated by technical competency and responsible-use principles, enfor...</div>
+            <h3><a href="../pages/ai-literacy-power-knowledge.html">AI Literacy: An Exercise in Power-Knowledge</a></h3>
+            <div class="snippet">Brady D. Lund, Zoë Abbie Teel (2026) — arXiv:2607.27547 (cs.AI, cs.CY) 📄 Full text (arXiv) Summary Argues existing AI literacy frameworks, dominated by technical competency and responsible-use principles, enforce a consumer orientation toward AI rather than fostering genuine epis...</div>
             <div class="tags"><a href="equity.html">equity</a><a href="educational-theory.html">educational-theory</a><a href="generative-ai.html">generative-ai</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/writing-education.html">"AI in Writing Education"</a></h3>
-            <div class="snippet">AI in Writing Education> Stub — pending source ingestion. AI applications in writing instruction, composition feedback, and argumentation development.ConnectionsRelated Pages
-ai-assisted-writing-research-teams — 6 of 8 papers in May 28 scan
-mindcopil...</div>
+            <h3><a href="../pages/writing-education.html">AI in Writing Education</a></h3>
+            <div class="snippet">> Stub — pending source ingestion. AI applications in writing instruction, composition feedback, and argumentation development. Connections Related Pages ai-assisted-writing-research-teams — 6 of 8 papers in May 28 scan mindcopilot-llm-co-writing — Formal MDP model of human-LLM c...</div>
             <div class="tags"><a href="writing-education.html">writing-education</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-tpack-preservice-math-teachers.html">"AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study"</a></h3>
-            <div class="snippet">AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling studyAuthors: Moeketsi Mosia, Fadip Audu Nannim, Felix Egara
-Source: Computers and Education: AI, Vol 11 — Open...</div>
+            <h3><a href="../pages/ai-tpack-preservice-math-teachers.html">AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study</a></h3>
+            <div class="snippet">Authors: Moeketsi Mosia, Fadip Audu Nannim, Felix Egara Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0) Key Findings SEM study of 130 preservice math teachers in South Africa (Global South context). AI-TPACK readiness explained 53% of variance. Positive asso...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="stem-education.html">stem-education</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-tools-arab-english-classrooms.html">"AI tools in Arab University English classrooms: Looking back and forward"</a></h3>
-            <div class="snippet">AI tools in Arab University English classrooms: Looking back and forwardShormani & Alshawsh (2026) — arXiv preprint.📄 Full text (arXiv)This paper aims to synthesize empirical research on AI tools used to support English as a second/foreign language (...</div>
+            <h3><a href="../pages/ai-tools-arab-english-classrooms.html">AI tools in Arab University English classrooms: Looking back and forward</a></h3>
+            <div class="snippet">Shormani & Alshawsh (2026) — arXiv preprint. 📄 Full text (arXiv) This paper aims to synthesize empirical research on AI tools used to support English as a second/foreign language (EL2) learners in Arab University classrooms (AUCs) between Jan 1st 2023 and Aug 31st 2025. We utiliz...</div>
             <div class="tags"><a href="language-learning.html">language-learning</a><a href="higher-ed.html">higher-ed</a><a href="writing-education.html">writing-education</a><a href="over-reliance.html">over-reliance</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-generated-slides-student-perception.html">"AI-Generated Slides: Are They Good? Can Students Tell?"</a></h3>
-            <div class="snippet">AI-Generated Slides: Are They Good? Can Students Tell?Juho Leinonen, Lisa Zhang, Arto Hellas (2026) — WCCCE 2026.📄 Full text (arXiv)Key FindingsThis study evaluated five generative AI tools for creating instructional slides from instructor-authored c...</div>
+            <h3><a href="../pages/ai-generated-slides-student-perception.html">AI-Generated Slides: Are They Good? Can Students Tell?</a></h3>
+            <div class="snippet">Juho Leinonen, Lisa Zhang, Arto Hellas (2026) — WCCCE 2026. 📄 Full text (arXiv) Key Findings This study evaluated five generative AI tools for creating instructional slides from instructor-authored course notes: NotebookLM, Claude, M365 Copilot, Cursor, and Claude Code. Educators...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="faculty-development.html">faculty-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ase-26-agentic-software-engineering-curriculum.html">"ASE-26: A Curriculum for Agentic Software Engineering as a Discipline"</a></h3>
-            <div class="snippet">ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
-Mikael Gorsky (2026) — arXiv:2606.01152.📄 Full text (arXiv)Formalizes Agentic Software Engineering (ASE) as a distinct discipline. Proposes a 21-module curriculum focused on the "e...</div>
+            <h3><a href="../pages/ase-26-agentic-software-engineering-curriculum.html">ASE-26: A Curriculum for Agentic Software Engineering as a Discipline</a></h3>
+            <div class="snippet">Mikael Gorsky (2026) — arXiv:2606.01152. 📄 Full text (arXiv) Formalizes Agentic Software Engineering (ASE) as a distinct discipline. Proposes a 21-module curriculum focused on the "evolution of intent" and practitioner discipline required to manage agents rather than just writing...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="agentic-workflows.html">agentic-workflows</a><a href="curriculum-design.html">curriculum-design</a><a href="higher-ed.html">higher-ed</a><a href="software-engineering.html">software-engineering</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/agentic-ai-education-scoping-review.html">"Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm"</a></h3>
-            <div class="snippet">Agentic AI in Education: Scoping Review (474 Studies, 2020–2026)Wang, Zou, Xie & Qin (2026) — Lingnan University & Hong Kong Polytechnic University.
-Published in Computers and Education: Artificial Intelligence, accepted 27 July 2026.
-📄 doi:10.1016/j...</div>
+            <h3><a href="../pages/agentic-ai-education-scoping-review.html">Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm</a></h3>
+            <div class="snippet">Agentic AI in Education: Scoping Review (474 Studies, 2020–2026) Wang, Zou, Xie & Qin (2026) — Lingnan University & Hong Kong Polytechnic University. Published in Computers and Education: Artificial Intelligence , accepted 27 July 2026. 📄 doi: 10.1016/j.caeai.2026.100653 · local...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="educational-theory.html">educational-theory</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="multi-agent.html">multi-agent</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/agentic-literacy-debt.html">"Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named"</a></h3>
-            <div class="snippet">Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet NamedNama et al. (2026) — Independent researcher. AI & Ethics.📄 Full text (arXiv)Agentic Literacy Debt names a critical gap in the ai-literacy landscape that has become urg...</div>
+            <h3><a href="../pages/agentic-literacy-debt.html">Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named</a></h3>
+            <div class="snippet">Nama et al. (2026) — Independent researcher. AI & Ethics . 📄 Full text (arXiv) Agentic Literacy Debt names a critical gap in the ai-literacy landscape that has become urgent with the rise of autonomous AI agents. Existing AI literacy frameworks assume humans evaluate AI outputs a...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="equity.html">equity</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="k-12.html">k-12</a><a href="policy-maker.html">policy-maker</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-lifelong-learning-policy.html">"Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy"</a></h3>
-            <div class="snippet">Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education PolicyAndresa Theodora, Nikolaos Tselios (2026) — (University-affiliated). arXiv:2605.16296 [cs.CY]📄 Full text (arXiv)Theodora and Tselios (2026) provide a...</div>
+            <h3><a href="../pages/ai-lifelong-learning-policy.html">Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy</a></h3>
+            <div class="snippet">Andresa Theodora, Nikolaos Tselios (2026) — (University-affiliated). arXiv:2605.16296 [cs.CY] 📄 Full text (arXiv) Theodora and Tselios (2026) provide a policy-oriented synthesis of AI's dual role in adult and lifelong-learning contexts — as both an enabler of personalized, scalab...</div>
             <div class="tags"><a href="lifelong-learning.html">lifelong-learning</a><a href="policy-maker.html">policy-maker</a><a href="equity.html">equity</a><a href="digital-divide.html">digital-divide</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="learning-analytics.html">learning-analytics</a><a href="bias-mitigation.html">bias-mitigation</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-generated-feedback-higher-ed.html">"Artificial intelligence and feedback in university education: effectiveness and student perceptions"</a></h3>
-            <div class="snippet">Artificial intelligence and feedback in university education: effectiveness and student perceptionsValentina Grion (Pegaso Telematic University), Beatrice Doria (Pegaso Telematic University), Daniele Agostini (University of Trento), Giorgia Slaviero...</div>
+            <h3><a href="../pages/ai-generated-feedback-higher-ed.html">Artificial intelligence and feedback in university education: effectiveness and student perceptions</a></h3>
+            <div class="snippet">Valentina Grion (Pegaso Telematic University), Beatrice Doria (Pegaso Telematic University), Daniele Agostini (University of Trento), Giorgia Slaviero (University of Padua) (2026) — Assessment & Evaluation in Higher Education (Taylor & Francis). Open Access, CC BY 4.0. doi:10.108...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="feedback-loop.html">feedback-loop</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="learning-gains.html">learning-gains</a><a href="formative-assessment.html">formative-assessment</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/assessment-validity.html">"Assessment Validity in AI Education"</a></h3>
-            <div class="snippet">Assessment Validity in AI EducationSynthesisAssessment validity—the degree to which an instrument measures what it claims to measure—is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revea...</div>
+            <h3><a href="../pages/assessment-validity.html">Assessment Validity in AI Education</a></h3>
+            <div class="snippet">Synthesis Assessment validity—the degree to which an instrument measures what it claims to measure—is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revealed a 40% overestimation gap : teachers' self-reported AI litera...</div>
             <div class="tags"><a href="assessment.html">assessment</a><a href="assessment-validity.html">assessment-validity</a><a href="educational-theory.html">educational-theory</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/awareness-technological-isomorphism.html">"Awareness of Technological Isomorphism: AI in Elementary Math"</a></h3>
-            <div class="snippet">Awareness of Technological Isomorphism: AI in Elementary MathLi & Cao (2026) — Authors. Unknown institution.
-📄 Full text (arXiv)Introduces a novel core concept, "Awareness of Technological Isomorphism," defined as a student's metacognitive realizatio...</div>
+            <h3><a href="../pages/awareness-technological-isomorphism.html">Awareness of Technological Isomorphism: AI in Elementary Math</a></h3>
+            <div class="snippet">Li & Cao (2026) — Authors. Unknown institution. 📄 Full text (arXiv) Introduces a novel core concept, "Awareness of Technological Isomorphism," defined as a student's metacognitive realization that their own mathematical cognitive operations (observing trends, inducing patterns, m...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="stem-education.html">stem-education</a><a href="personalized-learning.html">personalized-learning</a><a href="metacognition.html">metacognition</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-literacy-continuum-higher-education.html">"Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education"</a></h3>
-            <div class="snippet">Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
-Liu & Levy (2026) — ArXiv.
-📄 Full text (arXiv)Proposes a five-stage continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Im...</div>
+            <h3><a href="../pages/ai-literacy-continuum-higher-education.html">Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education</a></h3>
+            <div class="snippet">Liu & Levy (2026) — ArXiv. 📄 Full text (arXiv) Proposes a five-stage continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State. Found that reaching higher stages requires discipline-embedded experiences. ai-literacy , high...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="curriculum.html">curriculum</a><a href="ethics.html">ethics</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/five-stage-ai-literacy-continuum.html">"Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy"</a></h3>
-            <div class="snippet">Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy
-Liu & Levy (2026) — arXiv:2606.00038.📄 Full text (arXiv)Proposes a 5-stage developmental continuum for AI literacy (Not Engaged -> Uncritical -> Informed -> Critical...</div>
+            <h3><a href="../pages/five-stage-ai-literacy-continuum.html">Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy</a></h3>
+            <div class="snippet">Liu & Levy (2026) — arXiv:2606.00038. 📄 Full text (arXiv) Proposes a 5-stage developmental continuum for AI literacy (Not Engaged -> Uncritical -> Informed -> Critical -> Improvement). Serves as a diagnostic tool for educators to move students beyond fluently-nonsense tool adopti...</div>
             <div class="tags"><a href="curriculum-design.html">curriculum-design</a><a href="higher-ed.html">higher-ed</a><a href="instructional-design.html">instructional-design</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/chatgpt-critical-creative-thinking-review.html">"ChatGPT Critical and Creative Thinking: Systematic Review"</a></h3>
-            <div class="snippet">ChatGPT Critical and Creative Thinking: Systematic ReviewLi, Cui, and Hagedorn (2026) conducted a PRISMA-guided systematic review of 67 empirical studies (2022–2025) examining how ChatGPT influences university students' critical and creative thinking...</div>
+            <h3><a href="../pages/chatgpt-critical-creative-thinking-review.html">ChatGPT Critical and Creative Thinking: Systematic Review</a></h3>
+            <div class="snippet">Li, Cui, and Hagedorn (2026) conducted a PRISMA-guided systematic review of 67 empirical studies (2022–2025) examining how ChatGPT influences university students' critical and creative thinking. Using a dual-lens framework — convergent (critical thinking) and divergent (creative...</div>
             <div class="tags"><a href="boundary-object.html">boundary-object</a><a href="chatgpt.html">chatgpt</a><a href="cognitive-offloading.html">cognitive-offloading</a><a href="creative-thinking.html">creative-thinking</a><a href="critical-thinking.html">critical-thinking</a><a href="higher-ed.html">higher-ed</a><a href="instructional-design.html">instructional-design</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-children-reading-story-generation.html">"Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety"</a></h3>
-            <div class="snippet">Children's English Reading Story Generation via SFT of Compact LLMsQian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite (2026) — University of Florida. BEA 2026 @ ACL 2026.📄 Full text (arXiv)Key Finding: Small Fine-Tuned Mode...</div>
+            <h3><a href="../pages/llm-children-reading-story-generation.html">Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety</a></h3>
+            <div class="snippet">Children's English Reading Story Generation via SFT of Compact LLMs Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite (2026) — University of Florida. BEA 2026 @ ACL 2026. 📄 Full text (arXiv) Key Finding: Small Fine-Tuned Models Beat Large Zero-Shot Mod...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="language-learning.html">language-learning</a><a href="k-12.html">k-12</a><a href="generative-ai.html">generative-ai</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/community-centered-ai-education-adults.html">"Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study"</a></h3>
-            <div class="snippet">Co-Designing Community-Centered AI Education for Adults: A Midwestern Case StudyYao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026) — arXiv cs.HC
-📄 Full text (arXiv...</div>
+            <h3><a href="../pages/community-centered-ai-education-adults.html">Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study</a></h3>
+            <div class="snippet">Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026) — arXiv cs.HC 📄 Full text (arXiv) 📄 PDF This case study reports on a community-based participatory research project that co-designed an AI lit...</div>
             <div class="tags"><a href="lifelong-learning.html">lifelong-learning</a><a href="equity.html">equity</a><a href="student-experience.html">student-experience</a><a href="edtech-platform.html">edtech-platform</a><a href="faculty-development.html">faculty-development</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/hingle-collaborative-ai-literacy-2025.html">"Collaborative AI Literacy Framework"</a></h3>
-            <div class="snippet">Collaborative AI Literacy FrameworkThis is a stub page for "Collaborative AI Literacy Framework". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is process...</div>
+            <h3><a href="../pages/hingle-collaborative-ai-literacy-2025.html">Collaborative AI Literacy Framework</a></h3>
+            <div class="snippet">This is a stub page for "Collaborative AI Literacy Framework". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed. Related Pages</div>
             <div class="tags"><a href="collaborative-learning.html">collaborative-learning</a><a href="instructional-design.html">instructional-design</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/computational-thinking-ai-agent-creation.html">"Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study"</a></h3>
-            <div class="snippet">Computational Thinking Development in AI Agent Creation: A Mixed-Methods StudyComputational Thinking Development in AI Agent Creation: A Mixed-Methods Study
-Sun et al. (2026) — Multiple institutions. arXiv cs.CY.
-📄 Full text (arXiv)SummaryThis mixed-...</div>
+            <h3><a href="../pages/computational-thinking-ai-agent-creation.html">Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study</a></h3>
+            <div class="snippet">Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study Sun et al. (2026) — Multiple institutions. arXiv cs.CY. 📄 Full text (arXiv) Summary This mixed-methods study examines how 93 pre-high school students develop computational-thinking skills through a fiv...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="stem-education.html">stem-education</a><a href="scaffolding.html">scaffolding</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/concept-catalyst-k12-teacher.html">"Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI"</a></h3>
-            <div class="snippet">Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AIMansi, Newton, Moore, Alemdar & Riedl (2026) — cs.HC
-📄 Full text (arXiv)Mansi et al. (2026) introduce Concept Catalyst, a system designed around...</div>
+            <h3><a href="../pages/concept-catalyst-k12-teacher.html">Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI</a></h3>
+            <div class="snippet">Mansi, Newton, Moore, Alemdar & Riedl (2026) — cs.HC 📄 Full text (arXiv) Mansi et al. (2026) introduce Concept Catalyst, a system designed around 'scrutable interfaces' — interfaces that make AI reasoning visible and editable by users. Working with K-12 teachers, the study shows...</div>
             <div class="tags"><a href="edtech-platform.html">edtech-platform</a><a href="generative-ai.html">generative-ai</a><a href="k-12.html">k-12</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/computing-students-cybersecurity-attitudes.html">"Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity"</a></h3>
-            <div class="snippet">Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on CybersecurityVictor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026) — Institution.📄 Full text (arXiv)Computing students show inconsistencies between conf...</div>
+            <h3><a href="../pages/computing-students-cybersecurity-attitudes.html">Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity</a></h3>
+            <div class="snippet">Victor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026) — Institution. 📄 Full text (arXiv) Computing students show inconsistencies between confidence in cybersecurity knowledge and actual safe practices; educational interventions are needed to close the gap. Sy...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="academic-integrity.html">academic-integrity</a><a href="engagement-metrics.html">engagement-metrics</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/constructing-epistemic-ai-literacy-student-ai-co-programming.html">"Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming"</a></h3>
-            <div class="snippet">Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-ProgrammingMengqian Wu (2026)
-📄 Full text (arXiv)Epistemic thinking — understanding how knowledge is constructed and justified — plays a central role in ai-li...</div>
+            <h3><a href="../pages/constructing-epistemic-ai-literacy-student-ai-co-programming.html">Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming</a></h3>
+            <div class="snippet">Mengqian Wu (2026) 📄 Full text (arXiv) Epistemic thinking — understanding how knowledge is constructed and justified — plays a central role in ai-literacy , particularly when students co-program with generative AI. This paper introduces a framework for detecting epistemic aims an...</div>
             <div class="tags"><a href="computing-education.html">computing-education</a><a href="student-ai-interaction.html">student-ai-interaction</a><a href="scaffolding.html">scaffolding</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/dot-framework-survey.html">"DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education"</a></h3>
-            <div class="snippet">DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced EducationA 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the DOT Fr...</div>
+            <h3><a href="../pages/dot-framework-survey.html">DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education</a></h3>
+            <div class="snippet">A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the DOT Framework — a synthesis of design-thinking-in-education and open-systems-theory . Core Findings Three-Factor Beli...</div>
             <div class="tags"><a href="ai-education.html">ai-education</a><a href="design-thinking.html">design-thinking</a><a href="dot-framework.html">dot-framework</a><a href="higher-ed.html">higher-ed</a><a href="human-in-the-loop.html">human-in-the-loop</a><a href="institutional-change.html">institutional-change</a><a href="open-source.html">open-source</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/daily-digest-2026-05-23.html">"Daily Digest: 2026-05-23"</a></h3>
-            <div class="snippet">Daily Digest — 2026-05-23Weekend scan — no new arXiv submissions for Saturday, May 23. 3 catch-up papers ingested from Friday May 22 and earlier in the week. Wiki now at 186 pages.Source Status
-
-
-Source
-Status
-Papers
-
-
-
-
-arXiv cs.CY API
-✗ HTTP 500
-Fa...</div>
+            <h3><a href="../pages/daily-digest-2026-05-23.html">Daily Digest: 2026-05-23</a></h3>
+            <div class="snippet">Daily Digest — 2026-05-23 Weekend scan — no new arXiv submissions for Saturday, May 23. 3 catch-up papers ingested from Friday May 22 and earlier in the week. Wiki now at 186 pages. Source Status Source Status Papers arXiv cs.CY API ✗ HTTP 500 Fallback to listing page ✓ arXiv cs....</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="over-reliance.html">over-reliance</a><a href="automated-grading.html">automated-grading</a><a href="stem-education.html">stem-education</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/data-annotations-pedagogical-hints.html">"Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking"</a></h3>
-            <div class="snippet">Data Annotations as Pedagogical Hints: From Subjective Labels to Critical ThinkingRaumanns et al. (2026) — Fontys University of Applied Sciences & IT University of Copenhagen. arXiv preprint (cs.CY).📄 Full text (arXiv)Machine learning courses typical...</div>
+            <h3><a href="../pages/data-annotations-pedagogical-hints.html">Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking</a></h3>
+            <div class="snippet">Raumanns et al. (2026) — Fontys University of Applied Sciences & IT University of Copenhagen. arXiv preprint (cs.CY). 📄 Full text (arXiv) Machine learning courses typically hand students pre-labeled datasets, hiding the subjectivity baked into human annotation and cultivating an...</div>
             <div class="tags"><a href="cs-education.html">cs-education</a><a href="higher-ed.html">higher-ed</a><a href="generative-ai.html">generative-ai</a><a href="engagement-metrics.html">engagement-metrics</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/data-comics-for-education-evaluating-effectiveness-benefits-ethics.html">"Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation"</a></h3>
-            <div class="snippet">Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted CreationZirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026)
-📄 Full text (arXiv)Data comics combine sequential visual n...</div>
+            <h3><a href="../pages/data-comics-for-education-evaluating-effectiveness-benefits-ethics.html">Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation</a></h3>
+            <div class="snippet">Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026) 📄 Full text (arXiv) Data comics combine sequential visual narratives with data visualization to improve student engagement with ai-generated-content in educational settings. This paper eval...</div>
             <div class="tags"><a href="ai-generated-content.html">ai-generated-content</a><a href="k-12.html">k-12</a><a href="active-learning.html">active-learning</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-fatigue-academic-contexts.html">"Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory"</a></h3>
-            <div class="snippet">Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded TheoryJohn Paul P. Miranda, Emmanuel B. Parreno, Jovita G. Rivera (2026) — Don Honorio Ventura State University / Bulacan State University, Phili...</div>
+            <h3><a href="../pages/ai-fatigue-academic-contexts.html">Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory</a></h3>
+            <div class="snippet">John Paul P. Miranda, Emmanuel B. Parreno, Jovita G. Rivera (2026) — Don Honorio Ventura State University / Bulacan State University, Philippines. International Journal of Learning, Teaching and Educational Research, 25(5), 91-107 (2026) . 📄 Full text (arXiv) This grounded theory...</div>
             <div class="tags"><a href="student-experience.html">student-experience</a><a href="over-reliance.html">over-reliance</a><a href="higher-ed.html">higher-ed</a><a href="affective-computing.html">affective-computing</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-pedagogical-accompaniment-amico.html">"Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China"</a></h3>
-            <div class="snippet">Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and ChinaPier Paolo Benedetti (2026) — (Independent/Doctoral Research). arXiv:2605.20665 [cs.HC] — Accepted at...</div>
+            <h3><a href="../pages/ai-pedagogical-accompaniment-amico.html">Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China</a></h3>
+            <div class="snippet">Pier Paolo Benedetti (2026) — (Independent/Doctoral Research). arXiv:2605.20665 [cs.HC] — Accepted at ICAIE 2026 📄 Full text (arXiv) Benedetti (2026) introduces a theoretically grounded framework for AI-enabled pedagogical accompaniment that explicitly centers human agency — an a...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="scaffolding.html">scaffolding</a><a href="human-in-the-loop.html">human-in-the-loop</a><a href="pedagogical-safety.html">pedagogical-safety</a><a href="student-experience.html">student-experience</a><a href="teacher-role.html">teacher-role</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/dyslexlens-dyslexic-learners-ai.html">"DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums"</a></h3>
-            <div class="snippet">DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online ForumsDana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026) — Artificial Intelligence (cs.AI).
-📄 Full text (arXiv)DysLexL...</div>
+            <h3><a href="../pages/dyslexlens-dyslexic-learners-ai.html">DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums</a></h3>
+            <div class="snippet">Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026) — Artificial Intelligence (cs.AI). 📄 Full text (arXiv) DysLexLens is a low-resource LLM framework designed to analyze how dyslexic learners experience AI tools by mining online forum discussi...</div>
             <div class="tags"><a href="special-education.html">special-education</a><a href="llm.html">llm</a><a href="equity.html">equity</a><a href="student-experience.html">student-experience</a><a href="language-learning.html">language-learning</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/quest-ai-inquiry-preservice-teachers.html">"Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers"</a></h3>
-            <div class="snippet">Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachersAuthors: Dongyun Cao, Yuting Yan, Anyuan Xiong, David Wicks
-Source: Computers and Education: AI, Vol 11 — Open Acces...</div>
+            <h3><a href="../pages/quest-ai-inquiry-preservice-teachers.html">Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers</a></h3>
+            <div class="snippet">Authors: Dongyun Cao, Yuting Yan, Anyuan Xiong, David Wicks Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0) Key Findings Quasi-experimental study with 95 preservice teachers over 10 weeks. QUEST+AI model (Question, Understand, Engage, Solve, Teach) integrate...</div>
             <div class="tags"><a href="teacher-professional-development.html">teacher-professional-development</a><a href="generative-ai.html">generative-ai</a><a href="efficacy-study.html">efficacy-study</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/cognitive-shift-ai-education.html">"Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?"</a></h3>
-            <div class="snippet">Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?Islem Rekik (2026) — ICLR HCAIR Workshop 2026.📄 Full text (arXiv)OverviewThis paper presents a striking longitudinal finding: as AI becomes a routine educat...</div>
+            <h3><a href="../pages/cognitive-shift-ai-education.html">Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?</a></h3>
+            <div class="snippet">Islem Rekik (2026) — ICLR HCAIR Workshop 2026. 📄 Full text (arXiv) Overview This paper presents a striking longitudinal finding: as AI becomes a routine educational tool, students systematically revalue human intelligence (HI) over artificial intelligence (AI) . Drawing on 6 year...</div>
             <div class="tags"><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a><a href="stem-education.html">stem-education</a><a href="over-reliance.html">over-reliance</a><a href="efficacy-study.html">efficacy-study</a><a href="faculty-development.html">faculty-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/expert-cognition-dashboard.html">"Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education"</a></h3>
-            <div class="snippet">Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven EducationAnnie Yuan (2026). arXiv preprint (cs.HC).📄 Full text (arXiv)SummaryCurrent AI-driven educational systems primarily rely on behavioural analytics and...</div>
+            <h3><a href="../pages/expert-cognition-dashboard.html">Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education</a></h3>
+            <div class="snippet">Annie Yuan (2026) . arXiv preprint (cs.HC). 📄 Full text (arXiv) Summary Current AI-driven educational systems primarily rely on behavioural analytics and performance metrics, lacking the ability to model expert cognition used to interpret learner development and identify misconce...</div>
             <div class="tags"><a href="learning-analytics.html">learning-analytics</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="adaptive-learning.html">adaptive-learning</a><a href="student-experience.html">student-experience</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/xai-education-framework.html">"Explainable Artificial Intelligence in Education (XAI-ED)"</a></h3>
-            <div class="snippet">Explainable Artificial Intelligence in Education (XAI-ED)Khosravi, Buckingham Shum, Chen, Conati, Tsai, Kay, Knight, Martinez-Maldonado, Sadiq & Gašević (2022) — Computers and Education: Artificial Intelligence, 3, 100074.📄 DOI: 10.1016/j.caeai.2022....</div>
+            <h3><a href="../pages/xai-education-framework.html">Explainable Artificial Intelligence in Education (XAI-ED)</a></h3>
+            <div class="snippet">Khosravi, Buckingham Shum, Chen, Conati, Tsai, Kay, Knight, Martinez-Maldonado, Sadiq & Gašević (2022) — Computers and Education: Artificial Intelligence, 3, 100074. 📄 DOI: 10.1016/j.caeai.2022.100074 | PDF Core Contribution This paper introduces XAI-ED , a framework for explaina...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="learning-analytics.html">learning-analytics</a><a href="bias-mitigation.html">bias-mitigation</a><a href="equity.html">equity</a><a href="privacy.html">privacy</a><a href="metacognition.html">metacognition</a><a href="teacher-role.html">teacher-role</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-pedagogical-orientation.html">"Faculty Orientations Shape Adoption of AI in Research and Teaching"</a></h3>
-            <div class="snippet">Faculty Orientations Shape Adoption of AI in Research and TeachingAtherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026) — arXiv:2605.18140📄 arXiv · PDF · localKey Finding: AI Pedagogical OrientationA mixed-methods survey of 90 STEM faculty...</div>
+            <h3><a href="../pages/ai-pedagogical-orientation.html">Faculty Orientations Shape Adoption of AI in Research and Teaching</a></h3>
+            <div class="snippet">Atherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026) — arXiv:2605.18140 📄 arXiv · PDF · local Key Finding: AI Pedagogical Orientation A mixed-methods survey of 90 STEM faculty in the RCSA Cottrell community identified a coherent latent construct — AI pedagogical orient...</div>
             <div class="tags"><a href="faculty-development.html">faculty-development</a><a href="higher-ed.html">higher-ed</a><a href="stem-education.html">stem-education</a><a href="technology-adoption.html">technology-adoption</a><a href="pedagogy.html">pedagogy</a><a href="institutional-change.html">institutional-change</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ml-literacy-primary-education.html">"Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design"</a></h3>
-            <div class="snippet">Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course designAuthors: Siu Cheung Kong, Qiaoyi Wang
-Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)Key FindingsDesigned and vali...</div>
+            <h3><a href="../pages/ml-literacy-primary-education.html">Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design</a></h3>
+            <div class="snippet">Authors: Siu Cheung Kong, Qiaoyi Wang Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0) Key Findings Designed and validated a 6-8 hour course teaching ML concepts to 752 primary students. Used guided worksheets, hands-on robot interaction, and iterative refine...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="computational-thinking.html">computational-thinking</a><a href="instructional-design.html">instructional-design</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-reliance-types-undergrad.html">"Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University"</a></h3>
-            <div class="snippet">Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 UniversityHossain (2026) — cs.CY / cs.AI / cs.HC
-📄 Full text (arXiv)Hossain (2026) develops a typology of LLM reliance among u...</div>
+            <h3><a href="../pages/llm-reliance-types-undergrad.html">Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University</a></h3>
+            <div class="snippet">Hossain (2026) — cs.CY / cs.AI / cs.HC 📄 Full text (arXiv) Hossain (2026) develops a typology of LLM reliance among undergraduate writers at a minority-serving R1 institution, identifying four distinct profiles: strategic scaffolders who use AI for idea generation and structure,...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="over-reliance.html">over-reliance</a><a href="student-experience.html">student-experience</a><a href="writing-education.html">writing-education</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/epistemic-proactivity-math.html">"From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning"</a></h3>
-            <div class="snippet">From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics LearningAbdelghani, Kaiser & Murayama (2026) — cs.CY
-📄 Full text (arXiv)Abdelghani, Kaiser & Murayama (2026) trace how middle and high school stud...</div>
+            <h3><a href="../pages/epistemic-proactivity-math.html">From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning</a></h3>
+            <div class="snippet">Abdelghani, Kaiser & Murayama (2026) — cs.CY 📄 Full text (arXiv) Abdelghani, Kaiser & Murayama (2026) trace how middle and high school students' interactions with AI math tutors evolve over time, identifying a trajectory from superficial prompting ('tell me the answer') to what t...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="metacognition.html">metacognition</a><a href="stem-education.html">stem-education</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/genai-architecture-education.html">"Gen-AI-tecture: using generative AI to support architectural students in design tasks"</a></h3>
-            <div class="snippet">Gen-AI-tecture: using generative AI to support architectural students in design tasksTimo Kapsalis (2026) — (Independent). arXiv:2605.21361 [cs.HC] — Submitted to Journal of Architectural Education📄 Full text (arXiv)Kapsalis (2026) presents one of th...</div>
+            <h3><a href="../pages/genai-architecture-education.html">Gen-AI-tecture: using generative AI to support architectural students in design tasks</a></h3>
+            <div class="snippet">Timo Kapsalis (2026) — (Independent). arXiv:2605.21361 [cs.HC] — Submitted to Journal of Architectural Education 📄 Full text (arXiv) Kapsalis (2026) presents one of the first empirical studies of generative AI integration in architectural design education, using a locally execute...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="creative-thinking.html">creative-thinking</a><a href="personalized-learning.html">personalized-learning</a><a href="inclusive-ai.html">inclusive-ai</a><a href="professional-training.html">professional-training</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-higher-ed-bridge-gap.html">"Higher Education Must Bridge the AI Gap"</a></h3>
-            <div class="snippet">> 📄 Full text: Science · localHigher Education Must Bridge the AI GapDefinition
-A Science editorial by University of Illinois Chicago Chancellor Marie Lynn Miranda (April 2026) arguing that higher education has a narrow window to shape AI's distribut...</div>
+            <h3><a href="../pages/ai-higher-ed-bridge-gap.html">Higher Education Must Bridge the AI Gap</a></h3>
+            <div class="snippet">> 📄 Full text: Science · local Higher Education Must Bridge the AI Gap Definition A Science editorial by University of Illinois Chicago Chancellor Marie Lynn Miranda (April 2026) arguing that higher education has a narrow window to shape AI's distribution equitably. Proposes a th...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="equity.html">equity</a><a href="policy-maker.html">policy-maker</a><a href="regulation.html">regulation</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-changing-teaching-workflows.html">"How AI Is Changing Teaching Workflows"</a></h3>
-            <div class="snippet">How AI Is Changing Teaching WorkflowsLin Ler (2026) — Edtech Insiders. Part 2 of 7 in the AI & Efficacy Editorial Research Series, drawing from Stanford's AI Hub for Education Research Repository (SCALE Initiative).📄 Full articleCore ThesisAI saves t...</div>
+            <h3><a href="../pages/ai-changing-teaching-workflows.html">How AI Is Changing Teaching Workflows</a></h3>
+            <div class="snippet">Lin Ler (2026) — Edtech Insiders. Part 2 of 7 in the AI & Efficacy Editorial Research Series, drawing from Stanford's AI Hub for Education Research Repository (SCALE Initiative). 📄 Full article Core Thesis AI saves teachers roughly 30% of lesson preparation time with no measurabl...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="teacher-role.html">teacher-role</a><a href="faculty-development.html">faculty-development</a><a href="efficacy-study.html">efficacy-study</a><a href="RCT.html">RCT</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/youtube-frames-chatgpt-education.html">"How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata"</a></h3>
-            <div class="snippet">How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal MetadataL. Xiao, G. Chen, Y. Zhang et al. (2026) — arXiv preprint. Venue: arXiv:2607.08698.📄 Full text (arXiv)Uses epistemic network analysis of mul...</div>
+            <h3><a href="../pages/youtube-frames-chatgpt-education.html">How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata</a></h3>
+            <div class="snippet">L. Xiao, G. Chen, Y. Zhang et al. (2026) — arXiv preprint. Venue: arXiv:2607.08698. 📄 Full text (arXiv) Uses epistemic network analysis of multimodal YouTube metadata (transcripts, titles, thumbnails, comments) to show how different creator groups frame ChatGPT use in education,...</div>
             <div class="tags"><a href="student-experience.html">student-experience</a><a href="academic-integrity.html">academic-integrity</a><a href="higher-ed.html">higher-ed</a><a href="generative-ai.html">generative-ai</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-making-us-stupid.html">"Is AI making us stupid?"</a></h3>
-            <div class="snippet">Is AI making us stupid?Trent N. Cash, Megan O. Kelly, Brooke N. Macnamara, Evan F. Risko (2026) — Trends in Cognitive Sciences (Cell Press), Science & Society. Available online 9 July 2026. doi:10.1016/j.tics.2026.06.004.📄 Full text ingested from use...</div>
+            <h3><a href="../pages/ai-making-us-stupid.html">Is AI making us stupid?</a></h3>
+            <div class="snippet">Trent N. Cash, Megan O. Kelly, Brooke N. Macnamara, Evan F. Risko (2026) — Trends in Cognitive Sciences (Cell Press), Science & Society. Available online 9 July 2026. doi:10.1016/j.tics.2026.06.004. 📄 Full text ingested from user-supplied PDF ( raw/papers/cell-2026-ai-making-us-s...</div>
             <div class="tags"><a href="cognitive-offloading.html">cognitive-offloading</a><a href="over-reliance.html">over-reliance</a><a href="generative-ai.html">generative-ai</a><a href="metacognition.html">metacognition</a><a href="learning-gains.html">learning-gains</a><a href="skill-decay.html">skill-decay</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/k-12-ai-education.html">"K-12 AI Education"</a></h3>
-            <div class="snippet">K-12 AI EducationSynthesisK-12 AI Education encompasses the integration of artificial intelligence literacy, tools, and pedagogical approaches into primary and secondary education. Recent research reveals three critical pillars:1. Teacher Preparation...</div>
+            <h3><a href="../pages/k-12-ai-education.html">K-12 AI Education</a></h3>
+            <div class="snippet">Synthesis K-12 AI Education encompasses the integration of artificial intelligence literacy, tools, and pedagogical approaches into primary and secondary education. Recent research reveals three critical pillars: 1. Teacher Preparation Gap Teachers systematically overestimate the...</div>
             <div class="tags"><a href="curriculum-design.html">curriculum-design</a><a href="equity.html">equity</a><a href="k-12.html">k-12</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/kim-llm-fallacy-misattribution-2026.html">"LLM Fallacy Misattribution in Education"</a></h3>
-            <div class="snippet">LLM Fallacy Misattribution in EducationThis is a stub page for "LLM Fallacy Misattribution in Education". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is...</div>
+            <h3><a href="../pages/kim-llm-fallacy-misattribution-2026.html">LLM Fallacy Misattribution in Education</a></h3>
+            <div class="snippet">This is a stub page for "LLM Fallacy Misattribution in Education". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed. Related Pages</div>
             <div class="tags"><a href="llm.html">llm</a><a href="misinformation.html">misinformation</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/post-covid-ict-career-aspirations.html">"Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?"</a></h3>
-            <div class="snippet">Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?Popa et al. (2026) — Bucharest University of Economic Studies. arXiv preprint.📄 Full text (arXiv)Post-COVID ICT Career Aspirations uses PISA 2...</div>
+            <h3><a href="../pages/post-covid-ict-career-aspirations.html">Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?</a></h3>
+            <div class="snippet">Popa et al. (2026) — Bucharest University of Economic Studies. arXiv preprint . 📄 Full text (arXiv) Post-COVID ICT Career Aspirations uses PISA 2018 and 2022 country-level data to investigate whether students entering the generative AI era have adequate educational foundations. U...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="stem-education.html">stem-education</a><a href="equity.html">equity</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai.html">"Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI"</a></h3>
-            <div class="snippet">Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AITomohiro Nagashima, Lisa Siegrist, Niklas Scholz, Shintaro Sato, Martina Vincoli, Man Su (2026)
-📄 Full text (arXiv)As AI technologi...</div>
+            <h3><a href="../pages/mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai.html">Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI</a></h3>
+            <div class="snippet">Tomohiro Nagashima, Lisa Siegrist, Niklas Scholz, Shintaro Sato, Martina Vincoli, Man Su (2026) 📄 Full text (arXiv) As AI technologies enter k-12 classrooms, understanding how different stakeholders perceive these tools is critical. This paper identifies a significant trust gap b...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="teacher-role.html">teacher-role</a><a href="student-experience.html">student-experience</a><a href="student-ai-interaction.html">student-ai-interaction</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-tpack-teacher-multi-agent-workflow.html">"Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design"</a></h3>
-            <div class="snippet">Modeling AI-TPACK in PracticeYimeng Sun, Haiyang Xin, Shuang Li, Qiannan Niu, Ching Sing Chai, Lingyun Huang, Gaowei Chen (2026) — Multiple institutions. arXiv:2605.13906 [cs.CY].📄 Full text (arXiv)Key FindingsThis study investigates how teachers des...</div>
+            <h3><a href="../pages/ai-tpack-teacher-multi-agent-workflow.html">Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design</a></h3>
+            <div class="snippet">Modeling AI-TPACK in Practice Yimeng Sun, Haiyang Xin, Shuang Li, Qiannan Niu, Ching Sing Chai, Lingyun Huang, Gaowei Chen (2026) — Multiple institutions. arXiv:2605.13906 [cs.CY]. 📄 Full text (arXiv) Key Findings This study investigates how teachers design multi-agent instructio...</div>
             <div class="tags"><a href="faculty-development.html">faculty-development</a><a href="generative-ai.html">generative-ai</a><a href="multi-agent.html">multi-agent</a><a href="scaffolding.html">scaffolding</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/moral-panic-genai-classroom.html">"Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption"</a></h3>
-            <div class="snippet">Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruptionJennifer M. Krebsbach & Victoria L. Cross (University of California, Davis) — Assessment & Evaluation in Higher Education...</div>
+            <h3><a href="../pages/moral-panic-genai-classroom.html">Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption</a></h3>
+            <div class="snippet">Jennifer M. Krebsbach & Victoria L. Cross (University of California, Davis) — Assessment & Evaluation in Higher Education (Taylor & Francis). Open Access, CC BY 4.0. doi:10.1080/02602938.2026.2686727. 📄 Full text (Taylor & Francis, OA) — open data on GitHub (jenniferkrebsbach/mor...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="academic-integrity.html">academic-integrity</a><a href="authentic-assessment.html">authentic-assessment</a><a href="over-reliance.html">over-reliance</a><a href="assessment-design.html">assessment-design</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-powered-materials-discovery-ai-literacy.html">"Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment"</a></h3>
-            <div class="snippet">AI-Powered Materials Discovery and AI LiteracyDongming Mei, Katherine Moore, Ben Sayler (2026) — Framework for integrating AI literacy with materials science education.📄 Full text (arXiv)Key FindingsThis paper presents a workflow-aligned framework fo...</div>
+            <h3><a href="../pages/ai-powered-materials-discovery-ai-literacy.html">Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment</a></h3>
+            <div class="snippet">AI-Powered Materials Discovery and AI Literacy Dongming Mei, Katherine Moore, Ben Sayler (2026) — Framework for integrating AI literacy with materials science education. 📄 Full text (arXiv) Key Findings This paper presents a workflow-aligned framework for preparing students to us...</div>
             <div class="tags"><a href="curriculum.html">curriculum</a><a href="equity.html">equity</a><a href="metacognition.html">metacognition</a><a href="stem-education.html">stem-education</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/finkelstein-principled-ai-education-2025.html">"Principled AI Education Framework"</a></h3>
-            <div class="snippet">Principled AI Education FrameworkThis is a stub page for "Principled AI Education Framework". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.R...</div>
+            <h3><a href="../pages/finkelstein-principled-ai-education-2025.html">Principled AI Education Framework</a></h3>
+            <div class="snippet">This is a stub page for "Principled AI Education Framework". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed. Related Pages</div>
             <div class="tags"><a href="curriculum-design.html">curriculum-design</a><a href="instructional-design.html">instructional-design</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/prober-ai-inquiry-writing.html">"Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing"</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2605.05598 · localProber.ai: Gated Inquiry Writing FeedbackDefinition
-A web-based writing environment that inverts the AI-tutoring paradigm: rather than generating improved text for students, Prober.ai constrains an LLM to ask on...</div>
+            <h3><a href="../pages/prober-ai-inquiry-writing.html">Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2605.05598 · local Prober.ai: Gated Inquiry Writing Feedback Definition A web-based writing environment that inverts the AI-tutoring paradigm: rather than generating improved text for students, Prober.ai constrains an LLM to ask only targeted inquiry-based qu...</div>
             <div class="tags"><a href="writing-education.html">writing-education</a><a href="scaffolding.html">scaffolding</a><a href="higher-ed.html">higher-ed</a><a href="formative-assessment.html">formative-assessment</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/cognitive-offloading-llm-synthesis-writing.html">"Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content"</a></h3>
-            <div class="snippet">Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. contentOleksandra Poquet, Mani Shankar Nanduri, Maria Ximena Salinas Loyer, Matthias Stadler, Michael Sailer, Jelena Jovanovic — Accepted at EC-TEL 2026 — cs.HC, cs.ET
-📄 Ful...</div>
+            <h3><a href="../pages/cognitive-offloading-llm-synthesis-writing.html">Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content</a></h3>
+            <div class="snippet">Oleksandra Poquet, Mani Shankar Nanduri, Maria Ximena Salinas Loyer, Matthias Stadler, Michael Sailer, Jelena Jovanovic — Accepted at EC-TEL 2026 — cs.HC, cs.ET 📄 Full text (arXiv) This study compares two approaches to profiling how learners offload cognitive activity to LLMs dur...</div>
             <div class="tags"><a href="writing-education.html">writing-education</a><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-literacy-equity-programming-policy.html">"Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis"</a></h3>
-            <div class="snippet">Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative AnalysisAdrian-Marius Dumitran, Iulia-Maria Popescu (2026) — arXiv preprint.📄 Full text (arXiv)Across 15 nations, the paper examines how secondary computer-science...</div>
+            <h3><a href="../pages/ai-literacy-equity-programming-policy.html">Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis</a></h3>
+            <div class="snippet">Adrian-Marius Dumitran, Iulia-Maria Popescu (2026) — arXiv preprint. 📄 Full text (arXiv) Across 15 nations, the paper examines how secondary computer-science education embeds AI literacy into general-track subjects (Digital Literacy, ICT, TIC, SNT) rather than specialized tracks,...</div>
             <div class="tags"><a href="equity.html">equity</a><a href="k-12.html">k-12</a><a href="policy-maker.html">policy-maker</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-tutor-authoring-promptdecipher.html">"PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions"</a></h3>
-            <div class="snippet">PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated InteractionsKoyama, M., Xiao, R., & Stamper, J. (2026) — Carnegie Mellon University. arXiv preprint.📄 Full text (arXiv)Key Finding
-Teachers virtually never test AI tutoring bots...</div>
+            <h3><a href="../pages/ai-tutor-authoring-promptdecipher.html">PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions</a></h3>
+            <div class="snippet">Koyama, M., Xiao, R., & Stamper, J. (2026) — Carnegie Mellon University. arXiv preprint. 📄 Full text (arXiv) Key Finding Teachers virtually never test AI tutoring bots before student deployment; PromptDecipher enforces QA as a first-class activity by letting teachers edit bot res...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="teacher-role.html">teacher-role</a><a href="faculty-development.html">faculty-development</a><a href="edtech-platform.html">edtech-platform</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/same-ai-different-pathways.html">"Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts"</a></h3>
-            <div class="snippet">Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contextsAuthors: Qinjie Shen
-Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)Key FindingsMixed-methods study of Design (n=221...</div>
+            <h3><a href="../pages/same-ai-different-pathways.html">Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts</a></h3>
+            <div class="snippet">Authors: Qinjie Shen Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0) Key Findings Mixed-methods study of Design (n=221) and Business (n=222) students in Thailand. AI literacy predicted prompting proficiency and verification behavior (p Related Pages ai-liter...</div>
             <div class="tags"><a href="cognitive-offloading.html">cognitive-offloading</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="prompt-engineering.html">prompt-engineering</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/socially-fluent-ai-identity-detection.html">"Socially fluent AI decouples conversational signals from source identity in online interaction"</a></h3>
-            <div class="snippet">Socially fluent AI decouples conversational signals from source identity in online interactionLixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic (2026) — Monash University / Tsinghua University. arXiv preprint (cs.HC, cs.AI).📄 Full text (arXiv)This...</div>
+            <h3><a href="../pages/socially-fluent-ai-identity-detection.html">Socially fluent AI decouples conversational signals from source identity in online interaction</a></h3>
+            <div class="snippet">Lixiang Yan, Yueqiao Jin, Xibin Han, Dragan Gasevic (2026) — Monash University / Tsinghua University. arXiv preprint (cs.HC, cs.AI) . 📄 Full text (arXiv) This study embedded undisclosed AI agents as teammates in synchronous text-based group interactions across analytical, creativ...</div>
             <div class="tags"><a href="over-reliance.html">over-reliance</a><a href="student-experience.html">student-experience</a><a href="llm.html">llm</a><a href="affective-computing.html">affective-computing</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/stanford-evidence-base-ai-k12-2026.html">"Stanford Evidence Base: AI in K-12 Education"</a></h3>
-            <div class="snippet">Stanford Evidence Base: AI in K-12 EducationThis is a stub page for "Stanford Evidence Base: AI in K-12 Education". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source m...</div>
+            <h3><a href="../pages/stanford-evidence-base-ai-k12-2026.html">Stanford Evidence Base: AI in K-12 Education</a></h3>
+            <div class="snippet">This is a stub page for "Stanford Evidence Base: AI in K-12 Education". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed. Related Pages</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="evidence.html">evidence</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/genai-declaration-frameworks-higher-education.html">"Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education"</a></h3>
-            <div class="snippet">Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher EducationMicallef & Petrovska (2026) — University of Malta.
-📄 Full text (arXiv)As generative-ai disrupts higher-ed, institutions increasingly require...</div>
+            <h3><a href="../pages/genai-declaration-frameworks-higher-education.html">Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education</a></h3>
+            <div class="snippet">Micallef & Petrovska (2026) — University of Malta. 📄 Full text (arXiv) As generative-ai disrupts higher-ed , institutions increasingly require students to declare AI use. However, generic binary declarations (e.g., "I used GenAI") fail to capture the nuanced application of these...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="academic-integrity.html">academic-integrity</a><a href="policy-maker.html">policy-maker</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/multimodal-prompting-ai-literacy.html">"Students' multimodal prompting practices as epistemic work in AI literacy development"</a></h3>
-            <div class="snippet">Students' multimodal prompting practices as epistemic work in AI literacy developmentAuthors: Sylvana Sofkova Hashemi
-Source: Computers and Education: Artificial Intelligence, Vol 11, 100635 — Open Access (CC BY 4.0)Key FindingsEmpirical study with 2...</div>
+            <h3><a href="../pages/multimodal-prompting-ai-literacy.html">Students' multimodal prompting practices as epistemic work in AI literacy development</a></h3>
+            <div class="snippet">Authors: Sylvana Sofkova Hashemi Source: Computers and Education: Artificial Intelligence, Vol 11, 100635 — Open Access (CC BY 4.0) Key Findings Empirical study with 28 postgraduate students engaged in collaborative multimodal prompting tasks. Found prompting strategies vary alon...</div>
             <div class="tags"><a href="prompt-engineering.html">prompt-engineering</a><a href="higher-ed.html">higher-ed</a><a href="generative-ai.html">generative-ai</a><a href="multimodal.html">multimodal</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/teacher-ai-competency.html">"Teacher AI Competency"</a></h3>
-            <div class="snippet">Teacher AI CompetencySynthesisTeacher AI competency encompasses the knowledge, skills, and dispositions required for effective AI integration in educational contexts. Emerging frameworks identify three competency dimensions:1. Technical Proficiency
-P...</div>
+            <h3><a href="../pages/teacher-ai-competency.html">Teacher AI Competency</a></h3>
+            <div class="snippet">Synthesis Teacher AI competency encompasses the knowledge, skills, and dispositions required for effective AI integration in educational contexts. Emerging frameworks identify three competency dimensions: 1. Technical Proficiency Prompt Engineering: Crafting effective prompts for...</div>
             <div class="tags"><a href="faculty-development.html">faculty-development</a><a href="k-12.html">k-12</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/genai-skill-bypass-literacy.html">"The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy"</a></h3>
-            <div class="snippet">The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI LiteracyOliveira, English, Ryan, Misiejuk, dal Ponte, Lopez-Pernas & Saqr (2026) — arXiv preprint.📄 Full text (arXiv)Higher education institutions are increasingly...</div>
+            <h3><a href="../pages/genai-skill-bypass-literacy.html">The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy</a></h3>
+            <div class="snippet">Oliveira, English, Ryan, Misiejuk, dal Ponte, Lopez-Pernas & Saqr (2026) — arXiv preprint. 📄 Full text (arXiv) Higher education institutions are increasingly expected to ensure that both students and staff develop Generative AI (GenAI) literacies. In response, they are introducin...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="generative-ai.html">generative-ai</a><a href="over-reliance.html">over-reliance</a><a href="faculty-development.html">faculty-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/contextual-sycophancy-ai-literacy.html">"The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration"</a></h3>
-            <div class="snippet">The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI CollaborationKoyuturk, C., Guidotti, S., & Ognibene, D. (2026) — University of Milano-Bicocca. AIED 2026 LBR (Late-Breaking Results).📄 Full text (arXiv)Key Finding
-LLM...</div>
+            <h3><a href="../pages/contextual-sycophancy-ai-literacy.html">The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration</a></h3>
+            <div class="snippet">Koyuturk, C., Guidotti, S., & Ognibene, D. (2026) — University of Milano-Bicocca. AIED 2026 LBR (Late-Breaking Results). 📄 Full text (arXiv) Key Finding LLM sycophancy creates a feedback loop where user errors propagate into AI advice, degrading outcomes; AI literacy training red...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="hallucination-risk.html">hallucination-risk</a><a href="student-experience.html">student-experience</a><a href="bias-mitigation.html">bias-mitigation</a><a href="over-reliance.html">over-reliance</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/digital-literacy-illusion.html">"The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students"</a></h3>
-            <div class="snippet">The Illusion of Competence: Digital Literacy & AI ReadinessRodriguez-Alvarez et al. (2026) — IES Parquesol, Moate Community School, IES Jose Jimenez Lozano, Universidad de Valladolid.📄 Full text (arXiv)This multicenter study (N=243 European secondary...</div>
+            <h3><a href="../pages/digital-literacy-illusion.html">The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students</a></h3>
+            <div class="snippet">The Illusion of Competence: Digital Literacy & AI Readiness Rodriguez-Alvarez et al. (2026) — IES Parquesol, Moate Community School, IES Jose Jimenez Lozano, Universidad de Valladolid. 📄 Full text (arXiv) This multicenter study (N=243 European secondary students) systematically c...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="student-experience.html">student-experience</a><a href="equity.html">equity</a><a href="efficacy-study.html">efficacy-study</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/pedagogy-ai-mistakes.html">"The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking"</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2605.05472 · localPedagogy of AI MistakesDefinition
-An instructional approach that deliberately leverages AI errors, hallucinations, and limitations as teaching tools to foster higher-order thinking. Rather than viewing AI mistak...</div>
+            <h3><a href="../pages/pedagogy-ai-mistakes.html">The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2605.05472 · local Pedagogy of AI Mistakes Definition An instructional approach that deliberately leverages AI errors, hallucinations, and limitations as teaching tools to foster higher-order thinking. Rather than viewing AI mistakes as failures to be avoided...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="metacognition.html">metacognition</a><a href="stem-education.html">stem-education</a><a href="active-learning.html">active-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/efficiency-gain-illusion-ai-overreliance.html">"The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks"</a></h3>
-            <div class="snippet">The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasksYu, Cheng, Jabbar, Sucholutsky, Collins, Jurafsky & Hawkins (2026) — Stanford University / Princeton University. arXiv preprint (cs.CY,...</div>
+            <h3><a href="../pages/efficiency-gain-illusion-ai-overreliance.html">The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks</a></h3>
+            <div class="snippet">Yu, Cheng, Jabbar, Sucholutsky, Collins, Jurafsky & Hawkins (2026) — Stanford University / Princeton University. arXiv preprint (cs.CY, cs.HC). 📄 Full text (arXiv) Summary Across three pre-registered studies (N=2,691), this paper documents systematic miscalibration in how people...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="over-reliance.html">over-reliance</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/genai-impact-chinese-students-hss.html">"The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences"</a></h3>
-            <div class="snippet">The Impact of GenAI on Chinese HSS Students' Academic DevelopmentLei Fan and Fangxue Liu (2026) — Xi'an Jiaotong-Liverpool University, University of Liverpool. 
-📄 Full text (arXiv)This large-scale survey of humanities and social sciences (HSS) studen...</div>
+            <h3><a href="../pages/genai-impact-chinese-students-hss.html">The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences</a></h3>
+            <div class="snippet">The Impact of GenAI on Chinese HSS Students' Academic Development Lei Fan and Fangxue Liu (2026) — Xi'an Jiaotong-Liverpool University, University of Liverpool. 📄 Full text (arXiv) This large-scale survey of humanities and social sciences (HSS) students in China examines how gene...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/tracing-genai-literacy-interaction-patterns.html">"Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing"</a></h3>
-            <div class="snippet">Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
-Angxuan Chen & Jiyou Jia (2026) — arXiv:2606.00040.📄 Full text (arXiv)Identifies interaction signatures of LLM literacy using Epistemic Network Analysis (ENA) on logs from 16...</div>
+            <h3><a href="../pages/tracing-genai-literacy-interaction-patterns.html">Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing</a></h3>
+            <div class="snippet">Angxuan Chen & Jiyou Jia (2026) — arXiv:2606.00040. 📄 Full text (arXiv) Identifies interaction signatures of LLM literacy using Epistemic Network Analysis (ENA) on logs from 162 students. High-literacy students exhibit iterative, strategic refinement and dense cognitive networkin...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="learning-analytics.html">learning-analytics</a><a href="prompt-engineering.html">prompt-engineering</a><a href="writing-education.html">writing-education</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/genai-policy-prompting-rct.html">"Transforming GenAI Policy to Prompting Instruction (RCT)"</a></h3>
-            <div class="snippet">Transforming GenAI Policy to Prompting Instruction: RCTSynthesisThis RCT investigates the impact of transforming institutional GenAI policies into actionable prompting instruction for K-12 educators. Key findings:Policy-to-Practice Gap: Most GenAI po...</div>
+            <h3><a href="../pages/genai-policy-prompting-rct.html">Transforming GenAI Policy to Prompting Instruction (RCT)</a></h3>
+            <div class="snippet">Transforming GenAI Policy to Prompting Instruction: RCT Synthesis This RCT investigates the impact of transforming institutional GenAI policies into actionable prompting instruction for K-12 educators. Key findings: Policy-to-Practice Gap: Most GenAI policies lack implementation...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="RCT.html">RCT</a><a href="regulation.html">regulation</a><a href="teacher-professional-development.html">teacher-professional-development</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-engineering-education-balancing-act.html">"Using AI in engineering education: a balancing act, driven by clear purpose"</a></h3>
-            <div class="snippet">Using AI in engineering education: a balancing act, driven by clear purposeOlya Kudina (2026) — The Routledge Handbook of the Philosophy of Engineering, 2nd ed.  
-📄 Full text (arXiv)Based on a questionnaire of 100 higher-education engineering student...</div>
+            <h3><a href="../pages/ai-engineering-education-balancing-act.html">Using AI in engineering education: a balancing act, driven by clear purpose</a></h3>
+            <div class="snippet">Olya Kudina (2026) — The Routledge Handbook of the Philosophy of Engineering, 2nd ed. 📄 Full text (arXiv) Based on a questionnaire of 100 higher-education engineering students and a critical literature review, examines how students use and perceive LLMs. Students value LLMs for w...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="stem-education.html">stem-education</a><a href="student-experience.html">student-experience</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/bridging-instructional-design-framework-math.html">"WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators"</a></h3>
-            <div class="snippet">WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics EducatorsEstefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão (2026) — arXiv:2606.20934 (cs.CY)
-📄 Full text (arXiv)Cast...</div>
+            <h3><a href="../pages/bridging-instructional-design-framework-math.html">WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators</a></h3>
+            <div class="snippet">Estefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão (2026) — arXiv:2606.20934 (cs.CY) 📄 Full text (arXiv) Castillo Ventura et al. (2026) address the gap between instructional design of digital mathematics resources and their pedagogical use in clas...</div>
             <div class="tags"><a href="teacher-role.html">teacher-role</a><a href="k-12.html">k-12</a><a href="stem-education.html">stem-education</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-education-global-capacity.html">"What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries"</a></h3>
-            <div class="snippet">> 📄 Full text: WEF · localAI Education Global CapacityDefinition
-A global perspective on AI in education readiness, framed around the insight that the real bottleneck is human and institutional capacity, not technical access. Based on a WEF (2026) sy...</div>
+            <h3><a href="../pages/ai-education-global-capacity.html">What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries</a></h3>
+            <div class="snippet">> 📄 Full text: WEF · local AI Education Global Capacity Definition A global perspective on AI in education readiness, framed around the insight that the real bottleneck is human and institutional capacity, not technical access. Based on a WEF (2026) synthesis of youth leader init...</div>
             <div class="tags"><a href="policy-maker.html">policy-maker</a><a href="equity.html">equity</a><a href="k-12.html">k-12</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/buggy-genai-code-student-responses.html">"When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code"</a></h3>
-            <div class="snippet">When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI CodeVictor-Alexandru Padurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ahana Ghosh, Adish Singla (2026) — arXiv:2607.05068 [cs.SE, cs.CY]📄 Full text (arXiv)As generative AI be...</div>
+            <h3><a href="../pages/buggy-genai-code-student-responses.html">When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code</a></h3>
+            <div class="snippet">Victor-Alexandru Padurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ahana Ghosh, Adish Singla (2026) — arXiv:2607.05068 [cs.SE, cs.CY] 📄 Full text (arXiv) As generative AI becomes central to software development, CS education is shifting toward prompt-centered workflows...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="cs-education.html">cs-education</a><a href="over-reliance.html">over-reliance</a><a href="metacognition.html">metacognition</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="formative-assessment.html">formative-assessment</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/student-rationalization-ai-writing.html">"\"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing"</a></h3>
-            <div class="snippet">"It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic WritingJiyoon Kim et al. (2026) — arXiv preprint. (catch-up — submitted 2026-05-27)📄 Full text (arXiv)Generative AI challenges academic integrity not only by enablin...</div>
+            <h3><a href="../pages/student-rationalization-ai-writing.html">\"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing</a></h3>
+            <div class="snippet">"It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing Jiyoon Kim et al. (2026) — arXiv preprint. (catch-up — submitted 2026-05-27) 📄 Full text (arXiv) Generative AI challenges academic integrity not only by enabling students to delegate subs...</div>
             <div class="tags"><a href="academic-integrity.html">academic-integrity</a><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="higher-ed.html">higher-ed</a><a href="writing-education.html">writing-education</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/gaide-vibe-coding-k12-teachers.html">A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding</a></h3>
-            <div class="snippet">A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe CodingSong, Choi, Kim, Kim, Weisberg & Moon (2026) — arXiv preprint.📄 Full text (arXiv)Large language models generate code from natural language prompts,...</div>
+            <div class="snippet">Song, Choi, Kim, Kim, Weisberg & Moon (2026) — arXiv preprint. 📄 Full text (arXiv) Large language models generate code from natural language prompts, enabling vibe coding, which allows non-programmers to develop computational solutions. Vibe coding for teachers amplifies the teac...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="teacher-role.html">teacher-role</a><a href="generative-ai.html">generative-ai</a><a href="faculty-development.html">faculty-development</a><a href="active-learning.html">active-learning</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/ai-ethics-education-public-discourse.html">A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data</a></h3>
-            <div class="snippet">A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter DataAkriti Bagale, Nafisa Mehjabin, Ali Unlu, Aditya Johri, et al. (2026) - George Mason University; University of Virginia. arXiv preprint.📄 Full text (arXiv)Key Fin...</div>
+            <div class="snippet">Akriti Bagale, Nafisa Mehjabin, Ali Unlu, Aditya Johri, et al. (2026) - George Mason University; University of Virginia. arXiv preprint. 📄 Full text (arXiv) Key Findings Longitudinal Twitter/X analysis maps how the public debates AI ethics concerns in higher-ed and schools over t...</div>
             <div class="tags"><a href="equity.html">equity</a><a href="policy-maker.html">policy-maker</a><a href="academic-integrity.html">academic-integrity</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/ai-literacy.html">AI Literacy</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2508.15111 · local · Liverpool Repository · localAI Literacy> AI literacy — the knowledge and skills needed to understand, evaluate, and effectively use AI technologies — is increasingly recognized as a core competency. Collabora...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2508.15111 · local · Liverpool Repository · local AI Literacy > AI literacy — the knowledge and skills needed to understand, evaluate, and effectively use AI technologies — is increasingly recognized as a core competency. Collaborative learning approaches sho...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="k-12.html">k-12</a><a href="policy-maker.html">policy-maker</a><a href="active-learning.html">active-learning</a><a href="collaborative-ai-tutoring.html">collaborative-ai-tutoring</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/ai-metacognition-stem-review.html">AI Tools Scaffolding Metacognition in STEM</a></h3>
-            <div class="snippet">> 📄 Full text: MDPI · localAI Tools Scaffolding Metacognition in STEM> Systematic review (2005–2025) mapping how AI tools scaffold and co-regulate metacognitive development in STEM classrooms through bibliometric and qualitative synthesis.Scope and M...</div>
+            <div class="snippet">> 📄 Full text: MDPI · local AI Tools Scaffolding Metacognition in STEM > Systematic review (2005–2025) mapping how AI tools scaffold and co-regulate metacognitive development in STEM classrooms through bibliometric and qualitative synthesis. Scope and Methodology Tsakeni et al. (...</div>
             <div class="tags"><a href="metacognition.html">metacognition</a><a href="stem-education.html">stem-education</a><a href="learning-analytics.html">learning-analytics</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="posthumanist.html">posthumanist</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/civic-education-ai-lesson-plans.html">AI-Generated Lesson Plans in Civic Education</a></h3>
-            <div class="snippet">> 📄 Full text: CITE Journal · localAI-Generated Lesson Plans in Civic Education> Large-scale empirical evaluation of AI-generated civics lesson plans reveals that without teacher revision, AI tools overwhelmingly produce lower-order thinking activiti...</div>
+            <div class="snippet">> 📄 Full text: CITE Journal · local AI-Generated Lesson Plans in Civic Education > Large-scale empirical evaluation of AI-generated civics lesson plans reveals that without teacher revision, AI tools overwhelmingly produce lower-order thinking activities and monocultural content...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="teacher-role.html">teacher-role</a><a href="formative-assessment.html">formative-assessment</a><a href="equity.html">equity</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/mllm-scientific-visualization-literacy.html">Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy</a></h3>
-            <div class="snippet">Benchmarking Multimodal Large Language Models for Scientific Visualization LiteracyPatrick Phuoc Do, Chau M. Ta, Chaoli Wang (2026) — arXiv preprint. arXiv:2607.15176.📄 Full text (arXiv)Multimodal large language models (MLLMs) are increasingly used t...</div>
+            <div class="snippet">Patrick Phuoc Do, Chau M. Ta, Chaoli Wang (2026) — arXiv preprint. arXiv:2607.15176. 📄 Full text (arXiv) Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet most evaluations remain chart-centric and offer limited insight into scientific...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="stem-education.html">stem-education</a><a href="benchmark.html">benchmark</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/students-llm-usage-critical-thinking.html">Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks</a></h3>
-            <div class="snippet">Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking TasksCharacterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
-Park, Orozco Vasquez, & Conati (202...</div>
+            <div class="snippet">Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks Park, Orozco Vasquez, & Conati (2026) — University of British Columbia. Accepted at EDM 2026. 📄 Full text (arXiv) Summary This study extends prior work on student LLM use b...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="learning-analytics.html">learning-analytics</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/culturally-aware-aied-community-learning.html">Culturally-Aware AI for Cross-Boundary Community Learning</a></h3>
-            <div class="snippet">Culturally-Aware AI for Cross-Boundary Community LearningZhao, Zhang, Cai, Gao & Zhang (2026) — Authors. Multiple institutions.
-📄 Full text (arXiv)Reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solu...</div>
+            <div class="snippet">Zhao, Zhang, Cai, Gao & Zhang (2026) — Authors. Multiple institutions. 📄 Full text (arXiv) Reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solutions for cultural heritage preservation and sustainable development. The paper argues...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="equity.html">equity</a><a href="student-experience.html">student-experience</a><a href="teacher-role.html">teacher-role</a><a href="intelligent-tutoring.html">intelligent-tutoring</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/engagement-intensity-learner-modeling.html">Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction</a></h3>
-            <div class="snippet">Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics InstructionYongkyung Oh, Lynn Talton, Alex Bui (2026) — Institution.📄 Full text (arXiv)Engagement intensity during AI ethics instruction serves as an effective learner-modeling...</div>
+            <div class="snippet">Yongkyung Oh, Lynn Talton, Alex Bui (2026) — Institution. 📄 Full text (arXiv) Engagement intensity during AI ethics instruction serves as an effective learner-modeling signal for adaptive instruction; prior LLM experience influences engagement patterns. Synthesis Engagement Inten...</div>
             <div class="tags"><a href="personalized-learning.html">personalized-learning</a><a href="adaptive-learning.html">adaptive-learning</a><a href="higher-ed.html">higher-ed</a><a href="engagement-metrics.html">engagement-metrics</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/faculty-development-genai.html">Faculty Development and GenAI</a></h3>
-            <div class="snippet">> 📄 Full text: Every Learner · local · Liverpool Repository · localFaculty Development and GenAI> Faculty professional learning around Generative AI is permanent, necessary, and structurally under-resourced. The Every Learner Everywhere / OLC playboo...</div>
+            <div class="snippet">> 📄 Full text: Every Learner · local · Liverpool Repository · local Faculty Development and GenAI > Faculty professional learning around Generative AI is permanent, necessary, and structurally under-resourced. The Every Learner Everywhere / OLC playbook documents a field in pragm...</div>
             <div class="tags"><a href="faculty-development.html">faculty-development</a><a href="higher-ed.html">higher-ed</a><a href="policy-maker.html">policy-maker</a><a href="generative-ai.html">generative-ai</a><a href="ai-education.html">ai-education</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/gender-differences-ai-literacy-deepfake.html">Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement</a></h3>
-            <div class="snippet">Gender Differences in AI Literacy Workshop Outcomes and Deepfake EngagementJake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026) — arXiv preprint  
-📄 Full text (arXiv)Examines gender differences in AI literacy, safety awareness, and...</div>
+            <div class="snippet">Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026) — arXiv preprint 📄 Full text (arXiv) Examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian secondary students (Years 7, 8, 10; N=199) from two co-educationa...</div>
             <div class="tags"><a href="k-12.html">k-12</a><a href="stem-education.html">stem-education</a><a href="equity.html">equity</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/genai-literacy-image-discrimination.html">Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images</a></h3>
-            <div class="snippet">Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated ImagesKamali, Gerstner, Hullman & Groh (2026) — cs.HC / cs.AI / cs.CY
-📄 Full text (arXiv)Kamali et al. (2026) evaluate a Generative AI Literacy tr...</div>
+            <div class="snippet">Kamali, Gerstner, Hullman & Groh (2026) — cs.HC / cs.AI / cs.CY 📄 Full text (arXiv) Kamali et al. (2026) evaluate a Generative AI Literacy training intervention designed to improve intelligence analysts' ability to distinguish real photographs from AI-generated images. In a contr...</div>
             <div class="tags"><a href="equity.html">equity</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="professional-training.html">professional-training</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/informal-learning-everyday-human-llm-interaction.html">Informal Learning Emerges in Everyday Human-LLM Interaction</a></h3>
-            <div class="snippet">Informal Learning Emerges in Everyday Human-LLM Interaction
-Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026) — arXiv preprint. arXiv:2607.17643 [cs.HC].
-📄 Full text (arXiv)As LLMs take over task execution, a central worry is that everyday...</div>
+            <div class="snippet">Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026) — arXiv preprint. arXiv:2607.17643 [cs.HC]. 📄 Full text (arXiv) As LLMs take over task execution, a central worry is that everyday AI use becomes cognitive offloading that erodes people's own capability development. Thi...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="over-reliance.html">over-reliance</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/multi-agent-instructional-design.html">Multi-Agent Systems for Instructional Design</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2508.16659 · localMulti-Agent Systems for Instructional Design> Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators.The Promptin...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2508.16659 · local Multi-Agent Systems for Instructional Design > Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators. The Prompting Gap in K-12 Education Wan...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="agentic-workflows.html">agentic-workflows</a><a href="human-in-the-loop.html">human-in-the-loop</a><a href="k-12.html">k-12</a><a href="pedagogical-safety.html">pedagogical-safety</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/genai-academic-search-workshop.html">Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)</a></h3>
-            <div class="snippet">Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu et al. — cs.IR, cs.AI, cs.HC
-📄 Full text (arXiv)This report summarizes the CHIIR 2026 Workshop on Generative AI and Academi...</div>
+            <div class="snippet">Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu et al. — cs.IR, cs.AI, cs.HC 📄 Full text (arXiv) This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS), which examined how GenAI is reshaping academic search systems and research practices....</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="policy-maker.html">policy-maker</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/voice-text-prompt-problems-computing-education.html">Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education</a></h3>
-            <div class="snippet">Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing EducationKaitlin Riegel et al. (2026) — University of Auckland / University of Michigan. arXiv.📄 Full text (arXiv)Nearly all prior research on LLMs in compu...</div>
+            <div class="snippet">Kaitlin Riegel et al. (2026) — University of Auckland / University of Michigan. arXiv. 📄 Full text (arXiv) Nearly all prior research on LLMs in computing education has used text input, yet voice-enabled interfaces are becoming common. This exploratory study investigated how intro...</div>
             <div class="tags"><a href="cs-education.html">cs-education</a><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="programming-its.html">programming-its</a><a href="prompt-engineering.html">prompt-engineering</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/repeated-ai-writing-feedback-semester.html">Student Evaluation of Repeated AI Feedback Across a Semester of Writing</a></h3>
-            <div class="snippet">Student Evaluation of Repeated AI Feedback Across a Semester of WritingKarjus, A., Leoste, J., & Oun, T. (2026) — arXiv:2607.16115 (cs.CY, cs.HC).
-📄 Full text (arXiv)This short paper provides rare descriptive classroom evidence on what happens when s...</div>
+            <div class="snippet">Karjus, A., Leoste, J., & Oun, T. (2026) — arXiv:2607.16115 (cs.CY, cs.HC). 📄 Full text (arXiv) This short paper provides rare descriptive classroom evidence on what happens when students repeatedly use generative-AI feedback across a full semester of writing coursework. Drawing...</div>
             <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="higher-ed.html">higher-ed</a><a href="writing-education.html">writing-education</a><a href="feedback-loop.html">feedback-loop</a><a href="over-reliance.html">over-reliance</a><a href="formative-assessment.html">formative-assessment</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/surfacing-isolated-learners.html">Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI</a></h3>
-            <div class="snippet">Surfacing Isolated LearnersAuthors: Junsoo Park, Youssef Medhat, Htet Phyo Wai, Ploy Thajchayapong, Ashok K. Goel (2026) — Georgia TechWhat It IsAn interpretable decision layer that ranks course topics needing instructor attention without using grade...</div>
+            <div class="snippet">Surfacing Isolated Learners Authors: Junsoo Park, Youssef Medhat, Htet Phyo Wai, Ploy Thajchayapong, Ashok K. Goel (2026) — Georgia Tech What It Is An interpretable decision layer that ranks course topics needing instructor attention without using grades or post-hoc outcome label...</div>
             <div class="tags"><a href="learning-analytics.html">learning-analytics</a><a href="teacher-role.html">teacher-role</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="feedback-loop.html">feedback-loop</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/ai-adoption-training-public-sector.html">The Main Barrier to AI Adoption in the Public Sector is Lack of Training</a></h3>
-            <div class="snippet">The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-Vinicius Santana Gomes (2026) — arXiv:2606.01517.📄 Full text (arXiv)Through Brazilian government case studies, demonstrates that a four-layer pedagogical methodology (Literacy,...</div>
+            <div class="snippet">Vinicius Santana Gomes (2026) — arXiv:2606.01517. 📄 Full text (arXiv) Through Brazilian government case studies, demonstrates that a four-layer pedagogical methodology (Literacy, Protocol, Prompt Engineering, Audit) is the key to productivity gains (up to 50%), rather than premiu...</div>
             <div class="tags"><a href="public-sector.html">public-sector</a><a href="training-methodology.html">training-methodology</a><a href="efficiency-study.html">efficiency-study</a><a href="prompt-engineering.html">prompt-engineering</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/student-mental-models-genai.html">Uncovering Students' Mental Models of Generative Artificial Intelligence</a></h3>
-            <div class="snippet">Uncovering Students' Mental Models of Generative Artificial IntelligenceAmrita Ganguly, Sai Sharanya Garika, Aditya Johri (2026) — arXiv preprint.📄 Full text (arXiv)This study investigates how students conceptualize generative AI (GenAI) and how thos...</div>
+            <div class="snippet">Amrita Ganguly, Sai Sharanya Garika, Aditya Johri (2026) — arXiv preprint. 📄 Full text (arXiv) This study investigates how students conceptualize generative AI (GenAI) and how those mental models shape their academic integration. A student's mental model of GenAI — their beliefs...</div>
             <div class="tags"><a href="student-experience.html">student-experience</a><a href="generative-ai.html">generative-ai</a><a href="metacognition.html">metacognition</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/prompt-problems-nl-programming-mistakes.html">Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks</a></h3>
-            <div class="snippet">Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming TasksVictor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026) — arXiv:2607.05034 [cs.CY]📄 Fu...</div>
+            <div class="snippet">Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026) — arXiv:2607.05034 [cs.CY] 📄 Full text (arXiv) Learning to communicate with code-generating AI is an emerging skill for novice programmers. 'Prompt Problems' — having students s...</div>
             <div class="tags"><a href="cs-education.html">cs-education</a><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="programming-its.html">programming-its</a><a href="prompt-engineering.html">prompt-engineering</a><a href="scaffolding.html">scaffolding</a><a href="student-experience.html">student-experience</a></div>
         </div>
 

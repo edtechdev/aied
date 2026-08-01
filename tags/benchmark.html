@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,223 +47,203 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/academiclaw-student-agent-benchmark.html">"AcademiClaw: When Students Set Challenges for AI Agents"</a></h3>
-            <div class="snippet">AcademiClaw: Student-Sourced AI Agent BenchmarkYu, Lu, Si et al. (77 authors, 2026) — Shanghai Jiao Tong University, SII, GAIR. Open-source benchmark.Core ContributionAcademiClaw is a bilingual benchmark of 80 complex, long-horizon tasks sourced from...</div>
+            <h3><a href="../pages/academiclaw-student-agent-benchmark.html">AcademiClaw: When Students Set Challenges for AI Agents</a></h3>
+            <div class="snippet">AcademiClaw: Student-Sourced AI Agent Benchmark Yu, Lu, Si et al. (77 authors, 2026) — Shanghai Jiao Tong University, SII, GAIR. Open-source benchmark. Core Contribution AcademiClaw is a bilingual benchmark of 80 complex, long-horizon tasks sourced from university students' real...</div>
             <div class="tags"><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-psychometric-calibration-cdp.html">"Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach"</a></h3>
-            <div class="snippet">Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling ApproachZhou et al. (2026) — arXiv preprint.📄 Full text (arXiv)Proposes Cognitive Diagnostic Profiling (CDP), a zero-shot framework that dramati...</div>
+            <h3><a href="../pages/llm-psychometric-calibration-cdp.html">Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach</a></h3>
+            <div class="snippet">Zhou et al. (2026) — arXiv preprint. 📄 Full text (arXiv) Proposes Cognitive Diagnostic Profiling (CDP), a zero-shot framework that dramatically improves LLM-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90,...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="formative-assessment.html">formative-assessment</a><a href="adaptive-learning.html">adaptive-learning</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/cstutorbench-slm-tutors.html">"CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming"</a></h3>
-            <div class="snippet">CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based ProgrammingH. Chad Lane & Bryson Kageler (2026) — University of Arizona / University of Illinois. arXiv.📄 Full text (arXiv)Deploying LLM tutors in K-12 raises concerns around...</div>
+            <h3><a href="../pages/cstutorbench-slm-tutors.html">CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming</a></h3>
+            <div class="snippet">H. Chad Lane & Bryson Kageler (2026) — University of Arizona / University of Illinois. arXiv. 📄 Full text (arXiv) Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance on proprietary models, motivating small language models (SLMs) as an alternative. The...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="k-12.html">k-12</a><a href="privacy.html">privacy</a><a href="cs-education.html">cs-education</a><a href="feedback-loop.html">feedback-loop</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-tutoring-feedback-diagnosis-gap.html">"Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most"</a></h3>
-            <div class="snippet">Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters MostYasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026) — North Carolina State University. arXiv preprint.📄 Full text (arXiv)Key Finding...</div>
+            <h3><a href="../pages/llm-tutoring-feedback-diagnosis-gap.html">Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most</a></h3>
+            <div class="snippet">Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026) — North Carolina State University. arXiv preprint. 📄 Full text (arXiv) Key Finding LLM tutors achieve near-ceiling on correct steps but systematically over-reject valid-suboptimal reasoning and over-valida...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="scaffolding.html">scaffolding</a><a href="feedback-loop.html">feedback-loop</a><a href="hallucination-risk.html">hallucination-risk</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/eduguard-safe-rag-llm-tutor.html">"EduGuard: A Safe RAG-Based LLM Tutor for Programming Education"</a></h3>
-            <div class="snippet">EduGuard: A Safe RAG-Based LLM Tutor for Programming EducationHossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026) — arXiv:2607.15738 (cs.CY).
-📄 Full text (arXiv)EduGuard is a retrieval-augmented generation (RAG) tutoring framework tha...</div>
+            <h3><a href="../pages/eduguard-safe-rag-llm-tutor.html">EduGuard: A Safe RAG-Based LLM Tutor for Programming Education</a></h3>
+            <div class="snippet">Hossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026) — arXiv:2607.15738 (cs.CY). 📄 Full text (arXiv) EduGuard is a retrieval-augmented generation (RAG) tutoring framework that directly confronts the safety and pedagogical failures of unrestricted LLM tutors in intr...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="stem-education.html">stem-education</a><a href="over-reliance.html">over-reliance</a><a href="hallucination-risk.html">hallucination-risk</a><a href="feedback-loop.html">feedback-loop</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/reliable-programming-kt.html">"Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols"</a></h3>
-            <div class="snippet">Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental ProtocolsKim, J., Kim, H. (2026) — ITS 2026 (Springer LNCS).📄 Full text (arXiv)AnalysisThis ITS 2026 paper challenges claims about a...</div>
+            <h3><a href="../pages/reliable-programming-kt.html">Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols</a></h3>
+            <div class="snippet">Kim, J., Kim, H. (2026) — ITS 2026 (Springer LNCS). 📄 Full text (arXiv) Analysis This ITS 2026 paper challenges claims about attention-augmented Programming Knowledge Tracing (PKT) superiority. The authors identify three critical protocol flaws: attention dimension misconfigurati...</div>
             <div class="tags"><a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a><a href="automated-grading.html">automated-grading</a><a href="learning-analytics.html">learning-analytics</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/engagement-forecasting-its.html">"From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning"</a></h3>
-            <div class="snippet">From Heuristics to Analytics: Forecasting Effort and Progress in Online LearningQiu, Thomas, Guo, Aleven & Borchers (2026) — EDM 2026.📄 Full text (arXiv)OverviewThis paper tackles a core ITS challenge: predicting when students will disengage so tutor...</div>
+            <h3><a href="../pages/engagement-forecasting-its.html">From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning</a></h3>
+            <div class="snippet">Qiu, Thomas, Guo, Aleven & Borchers (2026) — EDM 2026. 📄 Full text (arXiv) Overview This paper tackles a core ITS challenge: predicting when students will disengage so tutors can intervene before it's too late. It introduces engagement forecasting as a supervised prediction task...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="learning-analytics.html">learning-analytics</a><a href="engagement-metrics.html">engagement-metrics</a><a href="k-12.html">k-12</a><a href="efficacy-study.html">efficacy-study</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/icle-plus-plus-essay-scoring.html">"ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring"</a></h3>
-            <div class="snippet">ICLE++: Modeling Fine-Grained Traits for Holistic Essay ScoringShengjie Li, Vincent Ng (2026) — arXiv:2607.27671 (cs.CL)📄 Full text (arXiv)SummaryIntroduces ICLE++, a corpus of persuasive student essays annotated with both holistic scores and trait-s...</div>
+            <h3><a href="../pages/icle-plus-plus-essay-scoring.html">ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring</a></h3>
+            <div class="snippet">Shengjie Li, Vincent Ng (2026) — arXiv:2607.27671 (cs.CL) 📄 Full text (arXiv) Summary Introduces ICLE++, a corpus of persuasive student essays annotated with both holistic scores and trait-specific scores, addressing limitations of the widely-used ASAP corpus. Demonstrates that m...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="llm.html">llm</a><a href="writing-education.html">writing-education</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/jeon-isd-agent-bench-2026.html">"ISD Agent Benchmark"</a></h3>
-            <div class="snippet">ISD Agent BenchmarkThis is a stub page for "ISD Agent Benchmark". It was created to resolve broken backlinks from other wiki pages.Related Pages</div>
+            <h3><a href="../pages/jeon-isd-agent-bench-2026.html">ISD Agent Benchmark</a></h3>
+            <div class="snippet">This is a stub page for "ISD Agent Benchmark". It was created to resolve broken backlinks from other wiki pages. Related Pages</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-ed-evaluation.html">ai-ed-evaluation</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-educational-simulation-adhd.html">"LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles"</a></h3>
-            <div class="snippet">LLM Educational Simulations for ADHD Student PersonasCore ContributionGonnermann-Müller, Haase & Leins (2026) evaluate whether LLM-generated student personas simulating ADHD profiles maintain stable and realistic behavioral patterns over time. This a...</div>
+            <h3><a href="../pages/llm-educational-simulation-adhd.html">LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles</a></h3>
+            <div class="snippet">LLM Educational Simulations for ADHD Student Personas Core Contribution Gonnermann-Müller, Haase & Leins (2026) evaluate whether LLM-generated student personas simulating ADHD profiles maintain stable and realistic behavioral patterns over time. This addresses a critical question...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="ai-education.html">ai-education</a><a href="generative-ai.html">generative-ai</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/learning-analytics.html">"Learning Analytics"</a></h3>
-            <div class="snippet">Learning Analytics> Stub — pending source ingestion. Learning analytics and AI-driven educational data mining for student success.ConnectionsRelated Pages
-cross-subject-validity-delayed-start — Delayed start behavior as a low-cost, cross-subject beha...</div>
+            <h3><a href="../pages/learning-analytics.html">Learning Analytics</a></h3>
+            <div class="snippet">> Stub — pending source ingestion. Learning analytics and AI-driven educational data mining for student success. Connections Related Pages cross-subject-validity-delayed-start — Delayed start behavior as a low-cost, cross-subject behavioral detector for learning outcome predictio...</div>
             <div class="tags"><a href="learning-analytics.html">learning-analytics</a><a href="efficacy-study.html">efficacy-study</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/learning-engagement-assistant-lea.html">"Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System"</a></h3>
-            <div class="snippet">Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring SystemTeri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026) — arXiv preprint (extension of ICAART 2026 conference paper). Ven...</div>
+            <h3><a href="../pages/learning-engagement-assistant-lea.html">Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System</a></h3>
+            <div class="snippet">Teri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026) — arXiv preprint (extension of ICAART 2026 conference paper). Venue: arXiv (categories: cs.CY, cs.AI, cs.HC). 📄 Full text (arXiv) LEA (Learning Engagement Assistant) is an agentic AI tutoring system that couples co...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="higher-ed.html">higher-ed</a><a href="stem-education.html">stem-education</a><a href="formative-assessment.html">formative-assessment</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/measuring-llm-tutors-teach-vs-solve.html">"Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact"</a></h3>
-            <div class="snippet">Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational ImpactJunyi Yao, Zihao Zheng, Baichuan Li (2026) — arXiv preprint  
-📄 Full text (arXiv)Studies whether public LLM tutoring benchmarks distinguish learning-supportive behavior f...</div>
+            <h3><a href="../pages/measuring-llm-tutors-teach-vs-solve.html">Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact</a></h3>
+            <div class="snippet">Junyi Yao, Zihao Zheng, Baichuan Li (2026) — arXiv preprint 📄 Full text (arXiv) Studies whether public LLM tutoring benchmarks distinguish learning-supportive behavior from mere answer production. Proposes a lightweight diagnostic based on the gap between solving-oriented and ped...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="feedback-loop.html">feedback-loop</a><a href="scaffolding.html">scaffolding</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/medgame-llm-medical-education-gamification.html">"MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education"</a></h3>
-            <div class="snippet">MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
-Wu, Zhou, Ma, Chen, Gao, Lin, Wu, Gou, Liu, Lau & Dou (2026) — CUHK; Southern Medical University; Peking University; Tencent. arXiv preprint (cs.CL).
-📄 Full t...</div>
+            <h3><a href="../pages/medgame-llm-medical-education-gamification.html">MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education</a></h3>
+            <div class="snippet">Wu, Zhou, Ma, Chen, Gao, Lin, Wu, Gou, Liu, Lau & Dou (2026) — CUHK; Southern Medical University; Peking University; Tencent. arXiv preprint (cs.CL). 📄 Full text (arXiv) MedGame transforms static clinical cases into structured, executable storytelling games for medical education,...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="professional-training.html">professional-training</a><a href="engagement-metrics.html">engagement-metrics</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ground-truth-reliability-aied.html">"Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education"</a></h3>
-            <div class="snippet">Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in EducationThomas, Borchers, Vanacore, Koedinger & Kizilcec (2026) — CMU & Cornell. Accepted as full paper at AIED 2026.📄 Full text (arXiv)Core ArgumentThe AIED co...</div>
+            <h3><a href="../pages/ground-truth-reliability-aied.html">Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education</a></h3>
+            <div class="snippet">Thomas, Borchers, Vanacore, Koedinger & Kizilcec (2026) — CMU & Cornell. Accepted as full paper at AIED 2026. 📄 Full text (arXiv) Core Argument The AIED community over-relies on inter-rater reliability (IRR) — typically a single Cohen's κ coefficient — as a mechanical gatekeeper...</div>
             <div class="tags"><a href="efficacy-study.html">efficacy-study</a><a href="learning-analytics.html">learning-analytics</a><a href="generative-ai.html">generative-ai</a><a href="llm.html">llm</a><a href="automated-grading.html">automated-grading</a><a href="human-in-the-loop.html">human-in-the-loop</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/nsmq-riddles-science-math-benchmark.html">"NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models"</a></h3>
-            <div class="snippet">NSMQ Riddles: Educational Benchmark from GhanaCore ContributionBoateng et al. (2026) introduce NSMQ Riddles, a benchmark of 1.8K scientific and mathematical riddles drawn from 11 years of Ghana's National Science and Maths Quiz — a live TV competitio...</div>
+            <h3><a href="../pages/nsmq-riddles-science-math-benchmark.html">NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models</a></h3>
+            <div class="snippet">NSMQ Riddles: Educational Benchmark from Ghana Core Contribution Boateng et al. (2026) introduce NSMQ Riddles , a benchmark of 1.8K scientific and mathematical riddles drawn from 11 years of Ghana's National Science and Maths Quiz — a live TV competition for senior secondary scho...</div>
             <div class="tags"><a href="stem-education.html">stem-education</a><a href="k-12.html">k-12</a><a href="llm.html">llm</a><a href="efficacy-study.html">efficacy-study</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/short-answer-scoring-quality-degradation.html">"Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation"</a></h3>
-            <div class="snippet">Automated Short Answer Scoring: Mid-Range Quality DegradationCore ContributionSchleifer, Ariely & Klebanov (2026) investigate a critical gap in automated-grading: how scoring quality degrades for mid-range student responses. Most ASAS evaluations foc...</div>
+            <h3><a href="../pages/short-answer-scoring-quality-degradation.html">Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation</a></h3>
+            <div class="snippet">Automated Short Answer Scoring: Mid-Range Quality Degradation Core Contribution Schleifer, Ariely & Klebanov (2026) investigate a critical gap in automated-grading : how scoring quality degrades for mid-range student responses . Most ASAS evaluations focus on clearly correct or i...</div>
             <div class="tags"><a href="automated-grading.html">automated-grading</a><a href="formative-assessment.html">formative-assessment</a><a href="llm.html">llm</a><a href="efficacy-study.html">efficacy-study</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-judged-helpfulness-pedagogy-signal.html">"Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models"</a></h3>
-            <div class="snippet">Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor ModelsShuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang (2026) — arXiv:2607.28128 (cs.CL, cs.AI, cs.CY)📄 Full text (arXiv)SummaryPre-registered stu...</div>
+            <h3><a href="../pages/llm-judged-helpfulness-pedagogy-signal.html">Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models</a></h3>
+            <div class="snippet">Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang (2026) — arXiv:2607.28128 (cs.CL, cs.AI, cs.CY) 📄 Full text (arXiv) Summary Pre-registered study auditing whether general-purpose helpfulness rubrics can distinguish direct answer-giving from pedagogical guidance in LLM...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="automated-grading.html">automated-grading</a><a href="feedback-loop.html">feedback-loop</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/rethinking-scaffolding-llm-tutors.html">"Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments"</a></h3>
-            <div class="snippet">Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World DeploymentsAlexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson (2026). Pluralistic Alignment Workshop @ ICML 2026
-📄 Ful...</div>
+            <h3><a href="../pages/rethinking-scaffolding-llm-tutors.html">Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments</a></h3>
+            <div class="snippet">Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson (2026). Pluralistic Alignment Workshop @ ICML 2026 📄 Full text (arXiv) Key Findings Real-world students show lower uptake of LLM tutor scaffolding than benchmarks assume (9,490 chats across 9 data...</div>
             <div class="tags"><a href="scaffolding.html">scaffolding</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="efficacy-study.html">efficacy-study</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/llm-student-simulation-misconception-faithfulness.html">"Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators"</a></h3>
-            <div class="snippet">LLM Student Simulation and Misconception FaithfulnessDo, Sonkar & Sachan (2026) — ETH Zurich. arXiv preprint.📄 Full text (arXiv)SynthesisThis paper exposes a critical failure mode in using LLMs as simulated students for intelligent-tutoring developme...</div>
+            <h3><a href="../pages/llm-student-simulation-misconception-faithfulness.html">Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators</a></h3>
+            <div class="snippet">LLM Student Simulation and Misconception Faithfulness Do, Sonkar & Sachan (2026) — ETH Zurich. arXiv preprint. 📄 Full text (arXiv) Synthesis This paper exposes a critical failure mode in using LLMs as simulated students for intelligent-tutoring development and evaluation. The aut...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="hallucination-risk.html">hallucination-risk</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/stanbkt-bayesian-knowledge-tracing.html">"StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing"</a></h3>
-            <div class="snippet">StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge TracingSiddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. Sales (2026) — Worcester Polytechnic Institute. arXiv preprint (cs.HC, cs.CY, stat.AP, stat.ME).📄 Fu...</div>
+            <h3><a href="../pages/stanbkt-bayesian-knowledge-tracing.html">StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing</a></h3>
+            <div class="snippet">Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. Sales (2026) — Worcester Polytechnic Institute. arXiv preprint (cs.HC, cs.CY, stat.AP, stat.ME) . 📄 Full text (arXiv) StanBKT introduces an open-source Python package for Bayesian Knowledge Tracing (B...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="learning-analytics.html">learning-analytics</a><a href="adaptive-learning.html">adaptive-learning</a><a href="open-source.html">open-source</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/eduframetrap-llm-sycophancy-educational-safety.html">"Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks"</a></h3>
-            <div class="snippet">Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy BenchmarksSycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
-Kasneci & Kasneci (2026) — Position paper. arXiv cs.AI/cs.HC.
-📄 Full text (arXiv)Su...</div>
+            <h3><a href="../pages/eduframetrap-llm-sycophancy-educational-safety.html">Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks</a></h3>
+            <div class="snippet">Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks Kasneci & Kasneci (2026) — Position paper. arXiv cs.AI/cs.HC. 📄 Full text (arXiv) Summary This position paper identifies a critical Reasoning-Sycophancy Paradox in educational LLM tutors: models t...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="hallucination-risk.html">hallucination-risk</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="over-reliance.html">over-reliance</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-tutor-behavioral-evaluation.html">"The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness"</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2605.05648 · localAI Tutor Behavioral EvaluationDefinition
-A framework for evaluating AI tutoring systems that extends beyond pedagogical quality of feedback to measure what students actually do with that feedback — whether they...</div>
+            <h3><a href="../pages/ai-tutor-behavioral-evaluation.html">The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness</a></h3>
+            <div class="snippet">> 📄 Full text: arXiv:2605.05648 · local AI Tutor Behavioral Evaluation Definition A framework for evaluating AI tutoring systems that extends beyond pedagogical quality of feedback to measure what students actually do with that feedback — whether they act on it and whether they a...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="efficacy-study.html">efficacy-study</a><a href="higher-ed.html">higher-ed</a><a href="engagement-metrics.html">engagement-metrics</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/tutoring-effectiveness-index.html">"The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals"</a></h3>
-            <div class="snippet">The Tutoring Effectiveness Index (TEI)Authors: Shim Jaechang, Unggi Lee (2026) — CIKM 2026What It IsTEI is a training-free, judge-free index that selects the best tutoring response from multiple LLM candidate outputs using only four internal conversa...</div>
+            <h3><a href="../pages/tutoring-effectiveness-index.html">The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals</a></h3>
+            <div class="snippet">The Tutoring Effectiveness Index (TEI) Authors: Shim Jaechang, Unggi Lee (2026) — CIKM 2026 What It Is TEI is a training-free, judge-free index that selects the best tutoring response from multiple LLM candidate outputs using only four internal conversation signals — no RL traini...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="efficacy-study.html">efficacy-study</a><a href="automated-grading.html">automated-grading</a><a href="formative-assessment.html">formative-assessment</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/turtleai-visual-programming-benchmark.html">"TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics"</a></h3>
-            <div class="snippet">TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics
-Wen et al. (2026) — ArXiv.
-📄 Full text (arXiv)Introduces TurtleAI benchmark (823 tasks). Finds that current VLMs (GPT-5, o3) struggle with spatial reasoning in educati...</div>
+            <h3><a href="../pages/turtleai-visual-programming-benchmark.html">TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics</a></h3>
+            <div class="snippet">Wen et al. (2026) — ArXiv. 📄 Full text (arXiv) Introduces TurtleAI benchmark (823 tasks). Finds that current VLMs (GPT-5, o3) struggle with spatial reasoning in educational graphics. Fine-tuning improves visual-code alignment. benchmark , cs-education , k-12 , generative-ai , spa...</div>
             <div class="tags"><a href="cs-education.html">cs-education</a><a href="k-12.html">k-12</a><a href="multimodal.html">multimodal</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/vocabulary-difficulty-prediction.html">"What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction"</a></h3>
-            <div class="snippet">What Makes Words Hard? Vocabulary Difficulty Prediction at BEA 2026Nohejl, Wu, Ide, Riera Machin, Chang & Yanaka (2026) — BEA 2026.📄 Full text (arXiv)
-🔗 CodeOverviewThis paper presents two complementary approaches to predicting vocabulary difficulty...</div>
+            <h3><a href="../pages/vocabulary-difficulty-prediction.html">What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction</a></h3>
+            <div class="snippet">What Makes Words Hard? Vocabulary Difficulty Prediction at BEA 2026 Nohejl, Wu, Ide, Riera Machin, Chang & Yanaka (2026) — BEA 2026. 📄 Full text (arXiv) 🔗 Code Overview This paper presents two complementary approaches to predicting vocabulary difficulty for language learners, ach...</div>
             <div class="tags"><a href="language-learning.html">language-learning</a><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="scaffolding.html">scaffolding</a><a href="formative-assessment.html">formative-assessment</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-agents-peer-learning-discourse.html">"When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community"</a></h3>
-            <div class="snippet">When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook CommunityAuthors: Eason Chen, Ce Guan, A Elshafiey, Zhonghao Zhao, Joshua Zekeri, Afeez Edeifo Shaibu, Emmanuel Osadebe Prince
-Year: 2026
-Venue: arXiv (cs.HC...</div>
+            <h3><a href="../pages/ai-agents-peer-learning-discourse.html">When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community</a></h3>
+            <div class="snippet">Authors: Eason Chen, Ce Guan, A Elshafiey, Zhonghao Zhao, Joshua Zekeri, Afeez Edeifo Shaibu, Emmanuel Osadebe Prince Year: 2026 Venue: arXiv (cs.HC) Summary EDM analysis of 2.4M+ AI agents engaging in peer-learning-like discourse. 28,683 posts. Response taxonomy: validation (22%...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="collaborative-ai-tutoring.html">collaborative-ai-tutoring</a><a href="engagement-metrics.html">engagement-metrics</a><a href="learning-analytics.html">learning-analytics</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/ai-tutor-effectiveness-review.html">AI Tutor Effectiveness Review</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2507.18882 · localAI Tutor Effectiveness Review> A comprehensive systematic review of AI-based Intelligent Tutoring Systems (2010–2025) reveals a field with transformative potential but mixed real-world effectiveness, persistent...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2507.18882 · local AI Tutor Effectiveness Review > A comprehensive systematic review of AI-based Intelligent Tutoring Systems (2010–2025) reveals a field with transformative potential but mixed real-world effectiveness, persistent implementation challenges, a...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="efficacy-study.html">efficacy-study</a><a href="higher-ed.html">higher-ed</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/agentic-workflows-education.html">Agentic Workflows in Education</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2504.20082 · localAgentic Workflows in EducationA design framework for educational AI systems structured around four agentic paradigms: reflection, planning, tool use, and multi-agent collaboration. Proposed by Kamalov et al. (20...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2504.20082 · local Agentic Workflows in Education A design framework for educational AI systems structured around four agentic paradigms: reflection , planning , tool use , and multi-agent collaboration . Proposed by Kamalov et al. (2026) as a taxonomy for an...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="ai-education.html">ai-education</a><a href="tutoring.html">tutoring</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/eduagentbench-agent-teaching-benchmark.html">Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows</a></h3>
-            <div class="snippet">Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching WorkflowsAre Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-Chen et al. (2026) — Multiple institutions. Under review.
-📄 Full text (arXiv)Summ...</div>
+            <div class="snippet">Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows Chen et al. (2026) — Multiple institutions. Under review. 📄 Full text (arXiv) Summary EduAgentBench introduces the first theory-grounded, holistic benchmark for evaluating AI tutor agents across...</div>
             <div class="tags"><a href="agentic-ai.html">agentic-ai</a><a href="generative-ai.html">generative-ai</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="llm.html">llm</a><a href="scaffolding.html">scaffolding</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/benchmark.html">Benchmark</a></h3>
-            <div class="snippet">BenchmarkEvaluation benchmarks for AI systems in educational contextsConnectionsRelated Pagesllm-cognitive-diagnosis-handwritten-math — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 
-anvil-ai-educatio...</div>
+            <div class="snippet">Evaluation benchmarks for AI systems in educational contexts Connections Related Pages llm-cognitive-diagnosis-handwritten-math — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 anvil-ai-educational-animations vocabulary-difficulty-...</div>
             <div class="tags"><a href="efficacy-study.html">efficacy-study</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/mllm-scientific-visualization-literacy.html">Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy</a></h3>
-            <div class="snippet">Benchmarking Multimodal Large Language Models for Scientific Visualization LiteracyPatrick Phuoc Do, Chau M. Ta, Chaoli Wang (2026) — arXiv preprint. arXiv:2607.15176.📄 Full text (arXiv)Multimodal large language models (MLLMs) are increasingly used t...</div>
+            <div class="snippet">Patrick Phuoc Do, Chau M. Ta, Chaoli Wang (2026) — arXiv preprint. arXiv:2607.15176. 📄 Full text (arXiv) Multimodal large language models (MLLMs) are increasingly used to interpret visualizations, yet most evaluations remain chart-centric and offer limited insight into scientific...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="stem-education.html">stem-education</a><a href="ai-literacy.html">ai-literacy</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/llm-item-difficulty-prediction.html">Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction</a></h3>
-            <div class="snippet">Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty PredictionChenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026) — Computation and Language (cs.CL).
-📄 Full text (arXiv)This paper introduces Epi2Diff...</div>
+            <div class="snippet">Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026) — Computation and Language (cs.CL). 📄 Full text (arXiv) This paper introduces Epi2Diff (Episode to Difficulty), a framework that maps LLM reasoning traces into cognitively grounded episode sequences for predictin...</div>
             <div class="tags"><a href="assessment.html">assessment</a><a href="llm.html">llm</a><a href="learning-analytics.html">learning-analytics</a><a href="higher-ed.html">higher-ed</a><a href="student-modeling.html">student-modeling</a><a href="k-12.html">k-12</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/educational-llm-alignment.html">Educational LLM Alignment</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2603.00883 · localEducational LLM Alignment> The gap between what LLMs are capable of and what actually benefits learners — benchmark performance, downstream task quality, and intended educational impact are three distinct and of...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2603.00883 · local Educational LLM Alignment > The gap between what LLMs are capable of and what actually benefits learners — benchmark performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels. The T...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="efficacy-study.html">efficacy-study</a><a href="bias-mitigation.html">bias-mitigation</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/educational-vlm-evaluation.html">Educational VLM Evaluation</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2603.00925 · localEducational VLM EvaluationBenchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to support learners — particularly struggling learners and those making errors. T...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2603.00925 · local Educational VLM Evaluation Benchmarking vision-language models (VLMs) not on their ability to solve problems, but on their ability to support learners — particularly struggling learners and those making errors. Traditional AI benchmarks mea...</div>
             <div class="tags"><a href="assessment.html">assessment</a><a href="multimodal.html">multimodal</a><a href="safety.html">safety</a><a href="stem-education.html">stem-education</a><a href="ai-education.html">ai-education</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/cold-start-knowledge-tracing-safeinsights.html">Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights</a></h3>
-            <div class="snippet">Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsightsJiayi Zhang, Ryan S. Baker, Debshila Basu Mallick, Cristina Heffernan, Neil Heffernan — cs.HC
-📄 Full text (arXiv)This paper replicates and extends prior w...</div>
+            <div class="snippet">Jiayi Zhang, Ryan S. Baker, Debshila Basu Mallick, Cristina Heffernan, Neil Heffernan — cs.HC 📄 Full text (arXiv) This paper replicates and extends prior work on the cold-start problem in knowledge tracing — the challenge of making accurate predictions when a student begins pract...</div>
             <div class="tags"><a href="knowledge-tracing.html">knowledge-tracing</a><a href="learning-analytics.html">learning-analytics</a><a href="student-modeling.html">student-modeling</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/reinforcement-learning-measurement-model-assessment.html">Reinforcement Learning Measurement Model</a></h3>
-            <div class="snippet">Reinforcement Learning Measurement Model for Interactive AssessmentWenqian Xu, Feng Ji (2026) — RL-based measurement model for interactive assessments.📄 Full text (arXiv)Key FindingsInteractive assessments generate sequential process data that conven...</div>
+            <div class="snippet">for Interactive Assessment Wenqian Xu, Feng Ji (2026) — RL-based measurement model for interactive assessments. 📄 Full text (arXiv) Key Findings Interactive assessments generate sequential process data that conventional item response models (IRT) cannot adequately handle. This pa...</div>
             <div class="tags"><a href="assessment.html">assessment</a><a href="learning-analytics.html">learning-analytics</a><a href="knowledge-tracing.html">knowledge-tracing</a><a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/representation-robustness-llm-math-problem-solving.html">Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving</a></h3>
-            <div class="snippet">Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving
-Nath, Graf, Zhang & Zapata-Rivera (2026) — UC Santa Cruz; ETS Research Institute; University of Michigan. HCI International 202...</div>
+            <div class="snippet">Nath, Graf, Zhang & Zapata-Rivera (2026) — UC Santa Cruz; ETS Research Institute; University of Michigan. HCI International 2026. 📄 Full text (arXiv) This study probes how sensitive llm mathematical problem solving is to the surface representation of an item — a question with dir...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="stem-education.html">stem-education</a><a href="assessment-validity.html">assessment-validity</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/teachbench-llm-teaching-evaluation.html">TeachBench - Evaluating LLM Teaching Ability</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2601.21375 · localTeachBench: Evaluating LLM Teaching Ability> Syllabus-grounded framework for measuring LLM teaching capability via student performance improvement after multi-turn instruction.The Gap in LLM EvaluationLi et al....</div>
+            <div class="snippet">> 📄 Full text: arXiv:2601.21375 · local TeachBench: Evaluating LLM Teaching Ability > Syllabus-grounded framework for measuring LLM teaching capability via student performance improvement after multi-turn instruction. The Gap in LLM Evaluation Li et al. (2026) address a critical...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="formative-assessment.html">formative-assessment</a><a href="personalized-learning.html">personalized-learning</a><a href="feedback-loop.html">feedback-loop</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/pedagogical-llm-training.html">Training Pedagogical LLMs for Tutoring</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2604.06385 · local · arXiv:2506.18710 · local · arXiv:2506.17356 · local · arXiv:2602.10620 · localTraining Pedagogical LLMs for Tutoring> Domain-specialized optimization can transform a mid-sized open-source model (Qwen3-32B) in...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2604.06385 · local · arXiv:2506.18710 · local · arXiv:2506.17356 · local · arXiv:2602.10620 · local Training Pedagogical LLMs for Tutoring > Domain-specialized optimization can transform a mid-sized open-source model (Qwen3-32B) into a pedagogical domain expe...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="adaptive-learning.html">adaptive-learning</a><a href="ai-education.html">ai-education</a></div>
         </div>
 

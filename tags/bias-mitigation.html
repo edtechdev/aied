@@ -8,12 +8,26 @@
     <style>
         nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
         nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
-        .article-card {{ margin-bottom: 1.25rem; padding: 1rem; border: 1px solid var(--card-border-color); border-radius: 8px; }}
-        .article-card h3 {{ margin: 0 0 0.25rem 0; font-size: 1.05rem; }}
-        .article-card h3 a {{ text-decoration: none; }}
-        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.35rem; }}
-        .article-card .tags {{ margin-top: 0.4rem; }}
-        .article-card .tags a {{ display: inline-block; padding: 0.1rem 0.4rem; margin: 0.1rem 0.2rem 0.1rem 0; background: var(--primary); color: var(--primary-inverse); border-radius: 3px; font-size: 0.7rem; text-decoration: none; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
         footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
     </style>
 </head>
@@ -33,56 +47,53 @@
     </header>
     <main class="container">
                 <div class="article-card">
-            <h3><a href="../pages/ai-scoring-language-bias-physics.html">"AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics"</a></h3>
-            <div class="snippet">AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physicsAuthors: Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany)Sourc...</div>
+            <h3><a href="../pages/ai-scoring-language-bias-physics.html">AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics</a></h3>
+            <div class="snippet">Authors: Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany) Source: arXiv:2607.28210 (physics.ed-ph, July 2026) Key Findings This study examined whether AI-based scoring can assess students' conceptual understanding indepe...</div>
             <div class="tags"><a href="assessment-validity.html">assessment-validity</a><a href="automated-grading.html">automated-grading</a><a href="equity.html">equity</a><a href="multilingual-learning.html">multilingual-learning</a><a href="physics-education.html">physics-education</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/ai-lifelong-learning-policy.html">"Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy"</a></h3>
-            <div class="snippet">Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education PolicyAndresa Theodora, Nikolaos Tselios (2026) — (University-affiliated). arXiv:2605.16296 [cs.CY]📄 Full text (arXiv)Theodora and Tselios (2026) provide a...</div>
+            <h3><a href="../pages/ai-lifelong-learning-policy.html">Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy</a></h3>
+            <div class="snippet">Andresa Theodora, Nikolaos Tselios (2026) — (University-affiliated). arXiv:2605.16296 [cs.CY] 📄 Full text (arXiv) Theodora and Tselios (2026) provide a policy-oriented synthesis of AI's dual role in adult and lifelong-learning contexts — as both an enabler of personalized, scalab...</div>
             <div class="tags"><a href="lifelong-learning.html">lifelong-learning</a><a href="policy-maker.html">policy-maker</a><a href="equity.html">equity</a><a href="digital-divide.html">digital-divide</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="ai-literacy.html">ai-literacy</a><a href="learning-analytics.html">learning-analytics</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/bias-mitigation.html">"Bias Mitigation"</a></h3>
-            <div class="snippet">Bias MitigationStub page — created as a back-link target for bias-mitigation in educational AI.Bias mitigation in AIED concerns identifying and reducing unfair, identity-patterned behavior in AI tutors and educational systems (e.g., differential refu...</div>
+            <h3><a href="../pages/bias-mitigation.html">Bias Mitigation</a></h3>
+            <div class="snippet">Stub page — created as a back-link target for bias-mitigation in educational AI. Bias mitigation in AIED concerns identifying and reducing unfair, identity-patterned behavior in AI tutors and educational systems (e.g., differential refusals or softening of answers for marginalize...</div>
             <div class="tags"><a href="equity.html">equity</a><a href="ethics.html">ethics</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/gender-bias-transfer-llm-writing.html">"Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing"</a></h3>
-            <div class="snippet">Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student WritingAriyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque (2026). arXiv cs.CL
-📄 Full text (arXiv)Key FindingsGender-biased LLM prompts transfer b...</div>
+            <h3><a href="../pages/gender-bias-transfer-llm-writing.html">Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing</a></h3>
+            <div class="snippet">Ariyan Hossain, Kazi Kamruzzaman Rabbi, Farig Sadeque, S M Taiabul Haque (2026). arXiv cs.CL 📄 Full text (arXiv) Key Findings Gender-biased LLM prompts transfer bias into student-written career essays (N=123). Bias transfer is asymmetric: agency is suppressed in female-target ess...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="writing-education.html">writing-education</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/xai-education-framework.html">"Explainable Artificial Intelligence in Education (XAI-ED)"</a></h3>
-            <div class="snippet">Explainable Artificial Intelligence in Education (XAI-ED)Khosravi, Buckingham Shum, Chen, Conati, Tsai, Kay, Knight, Martinez-Maldonado, Sadiq & Gašević (2022) — Computers and Education: Artificial Intelligence, 3, 100074.📄 DOI: 10.1016/j.caeai.2022....</div>
+            <h3><a href="../pages/xai-education-framework.html">Explainable Artificial Intelligence in Education (XAI-ED)</a></h3>
+            <div class="snippet">Khosravi, Buckingham Shum, Chen, Conati, Tsai, Kay, Knight, Martinez-Maldonado, Sadiq & Gašević (2022) — Computers and Education: Artificial Intelligence, 3, 100074. 📄 DOI: 10.1016/j.caeai.2022.100074 | PDF Core Contribution This paper introduces XAI-ED , a framework for explaina...</div>
             <div class="tags"><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="learning-analytics.html">learning-analytics</a><a href="equity.html">equity</a><a href="privacy.html">privacy</a><a href="metacognition.html">metacognition</a><a href="teacher-role.html">teacher-role</a><a href="student-experience.html">student-experience</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/fair-explainable-edu-recommendations.html">"Fair and explainable educational recommendations with a hybrid Graph-GRU framework"</a></h3>
-            <div class="snippet">Fair and explainable educational recommendations with a hybrid Graph-GRU frameworkAuthors: Edmund Evangelista, Syed M. Salman Bukhari
-Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)Key FindingsHybrid HKG-GRU framework for educat...</div>
+            <h3><a href="../pages/fair-explainable-edu-recommendations.html">Fair and explainable educational recommendations with a hybrid Graph-GRU framework</a></h3>
+            <div class="snippet">Authors: Edmund Evangelista, Syed M. Salman Bukhari Source: Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0) Key Findings Hybrid HKG-GRU framework for educational recommendations combining heterogeneous graph embeddings with sequential modeling (152 students, 59 reso...</div>
             <div class="tags"><a href="ai-education.html">ai-education</a><a href="algorithmic-bias.html">algorithmic-bias</a><a href="learning-analytics.html">learning-analytics</a><a href="personalized-learning.html">personalized-learning</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/contextual-sycophancy-ai-literacy.html">"The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration"</a></h3>
-            <div class="snippet">The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI CollaborationKoyuturk, C., Guidotti, S., & Ognibene, D. (2026) — University of Milano-Bicocca. AIED 2026 LBR (Late-Breaking Results).📄 Full text (arXiv)Key Finding
-LLM...</div>
+            <h3><a href="../pages/contextual-sycophancy-ai-literacy.html">The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration</a></h3>
+            <div class="snippet">Koyuturk, C., Guidotti, S., & Ognibene, D. (2026) — University of Milano-Bicocca. AIED 2026 LBR (Late-Breaking Results). 📄 Full text (arXiv) Key Finding LLM sycophancy creates a feedback loop where user errors propagate into AI advice, degrading outcomes; AI literacy training red...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="generative-ai.html">generative-ai</a><a href="ai-literacy.html">ai-literacy</a><a href="hallucination-risk.html">hallucination-risk</a><a href="student-experience.html">student-experience</a><a href="over-reliance.html">over-reliance</a></div>
         </div>
         <div class="article-card">
-            <h3><a href="../pages/paternalistic-filter-llm-history-education.html">"The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students"</a></h3>
-            <div class="snippet">The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian StudentsAlexis Popovici, Andrei Ionascu, Adrian-Marius Dumitran (2026) — arXiv preprint.📄 Full text (arXiv)A systematic...</div>
+            <h3><a href="../pages/paternalistic-filter-llm-history-education.html">The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students</a></h3>
+            <div class="snippet">Alexis Popovici, Andrei Ionascu, Adrian-Marius Dumitran (2026) — arXiv preprint. 📄 Full text (arXiv) A systematic API audit of four LLMs acting as history tutors evaluates 1,800 responses about the 1989 Romanian Revolution, exposing a 'paternalistic filter': models differentially...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="student-experience.html">student-experience</a><a href="equity.html">equity</a><a href="higher-ed.html">higher-ed</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/ai-tutor-safety-harms.html">AI Tutor Safety and Pedagogical Harms</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2603.17373 · localAI Tutor Safety and Pedagogical Harms> "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that all tested m...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2603.17373 · local AI Tutor Safety and Pedagogical Harms > "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that all tested models show broad pedagogical...</div>
             <div class="tags"><a href="safety.html">safety</a><a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="adaptive-learning.html">adaptive-learning</a><a href="k-12.html">k-12</a><a href="higher-ed.html">higher-ed</a><a href="llm.html">llm</a></div>
         </div>
         <div class="article-card">
             <h3><a href="../pages/educational-llm-alignment.html">Educational LLM Alignment</a></h3>
-            <div class="snippet">> 📄 Full text: arXiv:2603.00883 · localEducational LLM Alignment> The gap between what LLMs are capable of and what actually benefits learners — benchmark performance, downstream task quality, and intended educational impact are three distinct and of...</div>
+            <div class="snippet">> 📄 Full text: arXiv:2603.00883 · local Educational LLM Alignment > The gap between what LLMs are capable of and what actually benefits learners — benchmark performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels. The T...</div>
             <div class="tags"><a href="llm.html">llm</a><a href="benchmark.html">benchmark</a><a href="efficacy-study.html">efficacy-study</a><a href="teacher-role.html">teacher-role</a></div>
         </div>
 
