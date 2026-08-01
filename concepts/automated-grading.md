@@ -15,12 +15,11 @@ confidence: low
 ## Connections
 
 ## Related Pages
-
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)
 - [[correct-answer-trap-ai-tutor]] — 8 of 8 papers in May 28 scan
 - [[rubric-aware-grading-rec-cbm]] — 2 of 8 papers in May 28 scan
 - [[student-misconceptions-conditionals-loops-taxonomy]] — error taxonomy enabling explanatory feedback beyond correct/incorrect
-  - [[llm-automated-assessment-student-self-explanations]] — LLM vs. semantic similarity for scoring student self-explanations in programming (2026)
+- [[llm-automated-assessment-student-self-explanations]] — LLM vs. semantic similarity for scoring student self-explanations in programming (2026)
 - [[ai-changing-teaching-workflows]]
 - [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-compliant local LLM autograder with 0.02% error rate
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: 6-technique multi-dimensional rubric approach connects to automated assessment methodology
@@ -28,8 +27,6 @@ confidence: low
 - [[short-answer-scoring-quality-degradation]] — Reveals significant quality degradation for mid-range student responses
 - [[multimodal-ai-feedback-learning]] — Zhao et al.: multimodal feedback improves student experience without changing grading accuracy
 - [[ground-truth-reliability-aied]] — Thomas et al.: ground truth quality framework for the labels that train and evaluate grading systems
-
-
 - [[llm-feedback-programming-classroom]] — LLM-generated feedback as automated grading in intro programming- [[aiawe-automated-writing-evaluation]] — Open-source automated writing evaluation with LoRA-adapted LLMs
 - [[learnopt-exam-cognitive-structure]] -- Standardized exams have stable latent cognitive structures recoverable via LLM-tagged question analysis and knapsack optimization
 - [[cross-dataset-bloom-question-classification]] -- LLMs with tailored prompting generalize better than supervised models for cross-dataset Bloom taxonomy classification
@@ -41,9 +38,7 @@ confidence: low
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
 - [[teaching-feedback-classification-benchmark]] — Automated classification (2026-07-14)
 - [[knowledge-distillation-ai-tutor-evaluation]] — Scalable tutor grading (2026-07-14)
-- [[automated-formative-assessments-a-level-sciences]] — Automating the marking of handwritten mock exams enables much higher formative-assessment frequency 
+- [[automated-formative-assessments-a-level-sciences]] — Automating the marking of handwritten mock exams enables much higher formative-assessment frequency
 - [[icle-plus-plus-essay-scoring]]
-
-## Related Pages
 - [[aicode-collaborative-feedback-system]] — Multi-LLM approach to automated feedback quality
 - [[ai-assistance-discretionary-feedback]] — AI-generated feedback scaffolds in grading workflows

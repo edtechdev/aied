@@ -27,14 +27,12 @@ confidence: low
 - [[assessment-team-problem-solving-computing-education]] — Assessment in Team Problem-Solving Exercises in Computing Education
 - [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinki
-- [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support 
+- [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support
 - [[trio-ethnography-llm-programming-education]] — trio-ethnography reveals invisible AI-supported learning processes
-- [[didactical-teacher-assistant-dimensional-modeling]] — Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes 
+- [[didactical-teacher-assistant-dimensional-modeling]] — Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes
 - [[suacode-african-students-motivations]] — African students' motivations for a smartphone-based coding MOOC center on access, career aspiration
 - [[adhd-video-segmentation-computing-education]] — Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p
 - [[llm-intervention-design-cs-review]]
-
-## Related Pages
 - [[ai-literacy-continuum-higher-education]] — Liu & Levy (2026)
 - [[ai-generated-traces-novice-programmers]] — Noviello et al. (2026)
 - [[turtleai-visual-programming-benchmark]] — Wen et al. (2026)

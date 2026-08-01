@@ -20,14 +20,11 @@ Academic integrity challenges and solutions in AI-era education
 ## Related Pages
 - [[genai-impact-chinese-students-hss]] — Findings on assessment validity concerns when GenAI use is widespread
 - [[ethical-ai-higher-ed-game-theory]] — 3 of 8 papers in May 28 scan
-  - [[generative-ai-reduced-study-time-math]] — Evidence of widespread unproctored AI use and its impact on measured learning outcomes (2026)
+- [[generative-ai-reduced-study-time-math]] — Evidence of widespread unproctored AI use and its impact on measured learning outcomes (2026)
 - [[code-review-genai-cs1]]
 - [[taklif-ai-interest-based-personalized-assignments]] — Personalization as strategy to reduce plagiarism
-
 - [[chatgpt-programming-education-text-mining]] — Academic integrity threat as dominant framing of ChatGPT in CS education
-
 - [[student-rationalization-ai-writing]] — Taxonomy of 20+ student rationalizations for AI use in academic writing
-
 - [[vismatic-secure-sandbox-cs-education]] — VISMATIC preserves academic integrity through behavioral monitoring- [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks supporting academic integrity policies
 - [[student-regulatory-awareness-genai]] — Empirical evidence on the gap between regulatory awareness and student GenAI practices
 - [[shame-guilt-ai-regulation-computing-education]] -- Shame and guilt create cycles of hiding and moral tension around AI use in computing education
@@ -47,9 +44,6 @@ Academic integrity challenges and solutions in AI-era education
 - [[vibe-coding-programming-process-visualizer]] — Thonny log visualizer built via AI-assisted 'vibe coding' piloted with 160 stude...
 - [[learner-ai-interaction-patterns-oop]]
 - [[solving-vs-evaluating-genai-solutions]]
-
-## Related Pages
-- [[genai-impact-chinese-students-hss]] — Findings on assessment validity concerns when GenAI use is widespread
 - [[chatgpt-impact-high-school-tests]] — AI cheating effects on test scores- [[genai-assessment-governance]] — Beyond ban-vs-allow: principled GenAI governance in assessment
 - [[moral-panic-genai-classroom]] — GenAI-available masked unethical use (elevated knowledge-score variability); paper knowledge quiz restored integrity & equity
 - [[ai-productivity-moderation]] — Incentives for fair AI use moderate productivity in educational settings

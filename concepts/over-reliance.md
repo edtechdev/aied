@@ -20,7 +20,6 @@ Student and faculty over-reliance on AI tools in education
 ## Related Pages
 - [[ai-coaching-rl-skill-development]] — Over-reliance observed in motor skill learning when AI coaching provides excessive intervention
 - [[genai-impact-chinese-students-hss]] — Limited accuracy and over-reliance identified as top student concerns about GenAI
-
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)
 - [[agentic-literacy-debt]] — 4 of 8 papers in May 28 scan
 - [[ethical-ai-higher-ed-game-theory]] — 3 of 8 papers in May 28 scan
@@ -28,19 +27,16 @@ Student and faculty over-reliance on AI tools in education
 - [[cognitive-offloading-speedup-illusion]] — Speedup illusion: users predict faster AI-assisted completion than reality
 - [[ai-fatigue-academic-contexts]] — AI fatigue as downstream consequence of sustained over-reliance on AI tools
 - [[socially-fluent-ai-identity-detection]] — Social fluency creates new manipulation vulnerabilities when AI identity is concealed
-  - [[generative-ai-reduced-study-time-math]] — Population-scale evidence: 27% decline in study time after ChatGPT, 25% decline in retention (2026)
-  - [[efficiency-gain-illusion-ai-overreliance]] — Cognitive mechanism: efficiency-gain illusion and self-reinforcing AI overreliance feedback loop (2026)
+- [[generative-ai-reduced-study-time-math]] — Population-scale evidence: 27% decline in study time after ChatGPT, 25% decline in retention (2026)
+- [[efficiency-gain-illusion-ai-overreliance]] — Cognitive mechanism: efficiency-gain illusion and self-reinforcing AI overreliance feedback loop (2026)
 - [[xai-education-framework]]
 - [[ai-lifelong-learning-policy]]
 - [[ai-pedagogical-accompaniment-amico]]
 - [[code-review-genai-cs1]]
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophantic tutors reinforce misconceptions
-
 - [[chatgpt-programming-education-text-mining]] — Text mining reveals ChatGPT overreliance as key pedagogical risk
-
 - [[modular-educational-llm-agency]] — Modular agent architecture for responsible LLM-based learning assistance
 - [[student-rationalization-ai-writing]] — Taxonomy of 20+ student rationalizations for AI use in academic writing
-
 - [[regulating-ai-tutor-adolescent-srl]] — Instrumental requests dominate adolescent AI tutor interactions- [[learning-by-chatting-genai-impact]] — Worse learning outcomes despite (or because of) easier information access via ChatGPT
 - [[shame-guilt-ai-regulation-computing-education]] -- Shame and guilt create cycles of hiding and moral tension around AI use in computing education
 - [[gender-bias-transfer-llm-writing]] — Contaminated Collaboration
@@ -69,10 +65,6 @@ Student and faculty over-reliance on AI tools in education
 - [[llm-intervention-design-cs-review]]
 - [[genai-mindtool-generative-learning]]
 - [[human-ai-collaboration-trust-expectations]]
-
-## Related Pages
-- [[ai-coaching-rl-skill-development]] — Over-reliance observed in motor skill learning when AI coaching provides excessive intervention
-- [[genai-impact-chinese-students-hss]] — Limited accuracy and over-reliance identified as top student concerns about GenAI
 - [[genai-performance-vs-learning]] — Performance gains without learning
 - [[generative-ai-guardrails-harm-learning]] — PNAS RCT: unguarded GPT-4 tutor raised practice +48% but cut unassisted exam scores 17% (crutch effect); guardrailed tutor neutralized the harm
 - [[ai-generated-feedback-higher-ed]] — Contrast case: well-architected AI feedback (rubric + exemplar + RAG) matched expert teacher feedback on project performance and perceptions; design is decisive in both studies

@@ -64,7 +64,7 @@ This suggests that **metacognitive support and motivation are not identical**. T
 ## Related Pages
 - **[[ai-assistance-reduces-persistence]]**: Causal evidence (N=1,222) that brief AI assistance reduces persistence and impairs unassisted performance — rapid emergence of over-reliance effects
 - [[cognitive-offloading-speedup-illusion]] — Users fail to accurately predict AI-assisted vs independent task completion times
-  - [[llm-automated-assessment-student-self-explanations]] — Self-explanation assessment as a window into metacognitive engagement (2026)
+- [[llm-automated-assessment-student-self-explanations]] — Self-explanation assessment as a window into metacognitive engagement (2026)
 - [[xai-education-framework]]
 - [[code-review-genai-cs1]]
 - [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
@@ -75,8 +75,6 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[moodle-ai-tutoring-deep-learning]] — Students must recognize surface understanding to benefit from deep scaffolding
 - [[ecnuclaw-k12-personalized-companion]] — Five-dimension learner profile includes metacognitive dimension tracking
 - [[sequenced-ai-feedback-learning]] — Cao et al. RCT: students felt they learned more with sequenced feedback but actually learned less — calibration failure
--
-
 - [[llm-student-misconception-identification]] — Surfacing student misconceptions supports metacognitive awareness
 - [[awareness-technological-isomorphism]] — Technological Isomorphism as metacognitive awareness of AI operations
 - [[regulating-ai-tutor-adolescent-srl]] — Adolescent metacognitive monitoring deficits during AI tutor use- [[learning-by-chatting-genai-impact]] — ChatGPT users experienced higher meta-cognitive load from reduced agency
@@ -89,8 +87,6 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
 - [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awarene
 - [[student-cheat-sheets-make-or-take]] — Students choose between self-created and instructor-provided cheat sheets based on trust, personaliz
-
-## Related Pages
 - [[genai-performance-vs-learning]] — GenAI can bypass metacognitive processing- [[llm-reasoning-traces-metacognition]] — LLM reasoning traces impair metacognitive calibration
 - [[metacognitive-learning-scenarios-taxonomy]] — Taxonomy of 24 metacognitive professional learning scenarios
 - [[codify-socratic-programming-tutor]] — Codify: Socratic ITS for programming education

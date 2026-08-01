@@ -56,11 +56,10 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[agentic-workflows-education]] — Agentic paradigms for orchestrating personalized tutoring
 - [[a4l-analytics-pipeline]] — A4L modular analytics pipeline for cross-domain educational AI data
 - [[history-aware-student-simulation]] — History-conditioned student simulation with RL-optimized profiles for tutoring
-
 - [[instructional-guidance-genai-learning]] — Five-step GLT-based prompting improves personalized AI learning- [[dynamic-skill-matching-capstone-teams]] -- LLM-driven team formation for capstone projects outperforms CATME Team-Maker in skill coverage and preference alignment
 - [[learnopt-exam-cognitive-structure]] -- Standardized exams have stable latent cognitive structures recoverable via LLM-tagged question analysis and knapsack optimization
 - [[edtech-design-time-generative-ui]] -- Design-time GenUI with card-based semantic units embeds UDL and eliminates per-learner inference costs
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring 
+- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
 - [[lecturaagents-multi-agent-teaching]] — LecturaAgents
 - [[code-anchor-multi-view-visualization]] -- Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations
 - [[learning-to-prompt-adaptive-tutoring]] -- Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
@@ -82,15 +81,5 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[book-level-synthetic-textbook-organization]]
 - [[iks-instruct-dataset-indian-knowledge]]
 - [[fair-explainable-edu-recommendations]]
-
-## Sources
-- Ma et al. (2026). *DeepTutor: Towards Agentic Personalized Tutoring*. arXiv:2604.26962. [PDF](https://arxiv.org/pdf/2604.26962)
-- Yu et al. (2024). *From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*. arXiv:2409.03512. [PDF](https://arxiv.org/pdf/2409.03512)
-- Nie et al. (2026). *PersonaVLM: Long-Term Personalized Multimodal LLMs*. arXiv:2604.13074. [PDF](https://arxiv.org/pdf/2604.13074)
-
-
-- [[retrieval-augmented-tutoring-algorithm-kite]] — KITE's adaptive Socratic responses to different student needs
-- [[llm-student-misconception-identification]] — Misconception-aware personalization from LLM-identified conceptual gaps
-## Related Pages
 - [[hybrid-human-ai-tutoring-differentiated]] — System-level differentiation as personalization
 - [[llm-children-reading-story-generation]] — Compact LLMs for difficulty-controlled reading stories

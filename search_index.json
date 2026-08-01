@@ -31,7 +31,7 @@
       "plagiarism-detection",
       "policy-maker"
     ],
-    "content": "Academic IntegrityAcademic integrity challenges and solutions in AI-era educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\ngenai-impact-chinese-students-hss \u2014 Findings on assessment validity concerns when GenAI use is widespread\nethical-ai-higher-ed-game-theory \u2014 3 of 8 papers in May 28 scan\n  - generative-ai-reduced-study-time-math \u2014 Evidence of widespread unproctored AI use and its impact on measured learning outcomes (2026)\ncode-review-genai-cs1\ntakli",
+    "content": "Academic IntegrityAcademic integrity challenges and solutions in AI-era educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\ngenai-impact-chinese-students-hss \u2014 Findings on assessment validity concerns when GenAI use is widespread\nethical-ai-higher-ed-game-theory \u2014 3 of 8 papers in May 28 scan\ngenerative-ai-reduced-study-time-math \u2014 Evidence of widespread unproctored AI use and its impact on measured learning outcomes (2026)\ncode-review-genai-cs1\ntaklif-ai",
     "url": "pages/academic-integrity.html"
   },
   {
@@ -1460,7 +1460,7 @@
       "formative-assessment",
       "llm"
     ],
-    "content": "Automated Grading Systems> Stub \u2014 pending source ingestion. AI-powered automated grading and assessment systems for educational contexts.ConnectionsRelated Pagesllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncorrect-answer-trap-ai-tutor \u2014 8 of 8 papers in May 28 scan\nrubric-aware-grading-rec-cbm \u2014 2 of 8 papers in May 28 scan\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 error taxonomy enabling ex",
+    "content": "Automated Grading Systems> Stub \u2014 pending source ingestion. AI-powered automated grading and assessment systems for educational contexts.ConnectionsRelated Pages\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncorrect-answer-trap-ai-tutor \u2014 8 of 8 papers in May 28 scan\nrubric-aware-grading-rec-cbm \u2014 2 of 8 papers in May 28 scan\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 error taxonomy enabling e",
     "url": "pages/automated-grading.html"
   },
   {
@@ -3512,7 +3512,7 @@
       "formative-assessment",
       "personalized-learning"
     ],
-    "content": "Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\n  - llm-automated-assessment-student-self-explanations \u2014 LLM-based binary classification of student self-explanations for automated feedback (2026)\nai-changing-teaching-workflows\nchatgpt-critical-creative-thinking-review \u2014 Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)\nlata-ferpa-complia",
+    "content": "Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nllm-automated-assessment-student-self-explanations \u2014 LLM-based binary classification of student self-explanations for automated feedback (2026)\nai-changing-teaching-workflows\nchatgpt-critical-creative-thinking-review \u2014 Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)\nlata-ferpa-compliant-l",
     "url": "pages/feedback-loop.html"
   },
   {
@@ -4580,7 +4580,7 @@
     "tags": [
       "ai-education"
     ],
-    "content": "Language LearningAI-supported language learning and second language acquisition technologiesConnectionsRelated Pagesself-referential-l2-writing-llm-assessment \u2014 L2 writing evaluation with profile-based intra-learner assessment\ntutors-gig-economy-automated-feedback -- Tutors perceived AI feedback more negatively than learner feedback but found it useful for self-monitoring; discrepancies between the two sources caused confusion.\nai-interlocutor-l2-spoken-dialogue -- AI dialogue in L2 practice res",
+    "content": "Language LearningAI-supported language learning and second language acquisition technologiesConnectionsRelated Pages\nself-referential-l2-writing-llm-assessment \u2014 L2 writing evaluation with profile-based intra-learner assessment\ntutors-gig-economy-automated-feedback -- Tutors perceived AI feedback more negatively than learner feedback but found it useful for self-monitoring; discrepancies between the two sources caused confusion.\nai-interlocutor-l2-spoken-dialogue -- AI dialogue in L2 practice re",
     "url": "pages/language-learning.html"
   },
   {
@@ -4626,7 +4626,7 @@
       "efficacy-study",
       "benchmark"
     ],
-    "content": "Learning Analytics> Stub \u2014 pending source ingestion. Learning analytics and AI-driven educational data mining for student success.ConnectionsRelated Pages\ncross-subject-validity-delayed-start \u2014 Delayed start behavior as a low-cost, cross-subject behavioral detector for learning outcome prediction\n  - simulating-students-java-programming-errors-llms \u2014 Synthetic student error generation for learning analytics pipelineskt4eqg-personalized-question-generation \u2014 7 of 8 papers in May 28 scan\nllm-senti",
+    "content": "Learning Analytics> Stub \u2014 pending source ingestion. Learning analytics and AI-driven educational data mining for student success.ConnectionsRelated Pages\ncross-subject-validity-delayed-start \u2014 Delayed start behavior as a low-cost, cross-subject behavioral detector for learning outcome prediction\nsimulating-students-java-programming-errors-llms \u2014 Synthetic student error generation for learning analytics pipelines\nkt4eqg-personalized-question-generation \u2014 7 of 8 papers in May 28 scan\nllm-sentimen",
     "url": "pages/learning-analytics.html"
   },
   {
@@ -5648,7 +5648,7 @@
       "academic-integrity",
       "student-experience"
     ],
-    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nai-coaching-rl-skill-development \u2014 Over-reliance observed in motor skill learning when AI coaching provides excessive intervention\ngenai-impact-chinese-students-hss \u2014 Limited accuracy and over-reliance identified as top student concerns about GenAIllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitiv",
+    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nai-coaching-rl-skill-development \u2014 Over-reliance observed in motor skill learning when AI coaching provides excessive intervention\ngenai-impact-chinese-students-hss \u2014 Limited accuracy and over-reliance identified as top student concerns about GenAI\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cogniti",
     "url": "pages/over-reliance.html"
   },
   {
@@ -6943,7 +6943,7 @@
       "k-12",
       "higher-ed"
     ],
-    "content": "Teacher Role in AI-Enhanced EducationConnectionsRelated Pagesllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nanvil-ai-educational-animations\nteacher-student-agency-orchestration\nconcept-catalyst-engineering-scaffolds\ncode-review-genai-cs1\nai-tutor-authoring-promptdecipher \u2014 PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Inter",
+    "content": "Teacher Role in AI-Enhanced EducationConnectionsRelated Pages\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nanvil-ai-educational-animations\nteacher-student-agency-orchestration\nconcept-catalyst-engineering-scaffolds\ncode-review-genai-cs1\nai-tutor-authoring-promptdecipher \u2014 PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Inte",
     "url": "pages/teacher-role.html"
   },
   {

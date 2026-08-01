@@ -87,7 +87,7 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 - [[llm-sentiment-analysis-education-research]] — 1 of 8 papers in May 28 scan
 - [[socially-fluent-ai-identity-detection]] — Humans cannot detect AI teammates above chance; literacy must include identity recognition
 - [[ai-fatigue-academic-contexts]] — AI fatigue dimensions reveal gaps in current AI literacy interventions
-  - [[efficiency-gain-illusion-ai-overreliance]] — Metacognitive calibration gap: people underestimate AI use, overestimate benefits (2026)
+- [[efficiency-gain-illusion-ai-overreliance]] — Metacognitive calibration gap: people underestimate AI use, overestimate benefits (2026)
 - [[xai-education-framework]]
 - [[ai-changing-teaching-workflows]]
 - [[ai-pedagogical-accompaniment-amico]]
@@ -124,22 +124,11 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 - [[teacher-ai-competency]] — AI literacy as core teacher competency
 - [[assessment-validity]] — Valid assessment of AI literacy
 - [[equity-in-ai-education]] — Equitable AI literacy for all
-
-
-
-
-
-
-
 - [[agentic-education-coding]] — Learning to use AI coding assistants effectively
-
 - [[teachbench-llm-teaching-evaluation]] — Teaching ability as advanced AI literacy skill
-
 - [[multi-agent-instructional-design]] — Helping K-12 educators use AI tools effectively (60% adoption)
-
 - [[ai-metacognition-stem-review]] — Critical finding: AI literacy must be integrated into teacher preparation
 - [[student-rationalization-ai-writing]] — Taxonomy of 20+ student rationalizations for AI use in academic writing
-
 - [[awareness-technological-isomorphism]] — Technological Isomorphism as an AI literacy framework for elementary students
 - [[culturally-aware-aied-community-learning]] — Culturally-aware AI literacy through community-based learning- [[genai-declaration-frameworks-higher-education]] — Declaration frameworks as a form of AI literacy in higher education
 - [[generativism-learning-theory]] — Generative literacy as a core principle of Generativism
@@ -163,7 +152,7 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 - [[dura-llm-cs2]] — AI literacy in higher education
 - [[tactile-statistical-graphs-accessibility]] — AI literacy through accessibility
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward 
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in St
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
@@ -191,15 +180,6 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 - [[ai-tpack-preservice-math-teachers]]
 - [[same-ai-different-pathways]]
 - [[ml-literacy-primary-education]]
-
-## Sources
-- Hingle, A. & Johri, A. (2025). *Systematic Review Of Collaborative Learning Activities For Promoting AI Literacy*. arXiv:2508.15111v1. [PDF](https://arxiv.org/pdf/2508.15111v1)
-- Chi, M. T. H. & Wylie, R. (2014). The ICAP Framework: Linking cognitive engagement to active learning outcomes. *Educational Psychologist*, 49(4), 219–243.
-
-
-- [[llm-student-misconception-identification]] — Models responsible AI use: LLM output as hypothesis for expert validation
-- [[ai-campus-wellbeing-tools]] — Student and staff understanding of AI mental health tools
-## Related Pages
 - [[ai-generated-slides-student-perception]] — Student inability to identify AI-generated content
 - [[teacher-ai-adoption-confidence]] — Teacher AI confidence as adoption mediator
 - [[llm-children-reading-story-generation]] — AI-generated reading materials for children- [[digital-literacy-illusion]] — European secondary students overestimate AI critical awareness
@@ -209,8 +189,6 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[five-stage-ai-literacy-continuum]]
 - [[ai-adoption-training-public-sector]]
-
-## Related Pages
 - [[ai-literacy-continuum-higher-education]] — Liu & Levy (2026)
 - [[ai-generated-traces-novice-programmers]] — Noviello et al. (2026)
 - [[turtleai-visual-programming-benchmark]] — Wen et al. (2026)
