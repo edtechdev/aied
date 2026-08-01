@@ -3,7 +3,7 @@ title: Understanding Student Effort Using Response-Time Propensities During Prob
 created: 2026-05-12
 updated: 2026-05-12
 type: concept
-tags: ["learning-analytics", "adaptive-learning-systems", "engagement-assessment", "assessment", "student-experience"]
+tags: [adaptive-learning, assessment, engagement-metrics, learning-analytics, student-experience]
 sources: ["raw/papers/2605.08943.md"]
 confidence: high
 ---

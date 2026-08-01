@@ -3,7 +3,7 @@ title: "Daily AIED Digest -- 2026-06-22"
 created: 2026-06-22
 updated: 2026-06-22
 type: digest
-tags: [daily-digest, "ai-in-education"]
+tags: [ai-education, daily-digest]
 sources: []
 confidence: high
 ---

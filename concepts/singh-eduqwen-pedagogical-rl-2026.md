@@ -3,7 +3,7 @@ title: "EduQwen: Pedagogical RL"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [reinforcement-learning, pedagogical-ai, llm]
+tags: [llm, pedagogical-safety, reinforcement-learning]
 sources: [raw/papers/singh-eduqwen-pedagogical-rl-2026.md]
 confidence: low
 ---

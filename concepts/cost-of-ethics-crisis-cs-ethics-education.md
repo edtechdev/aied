@@ -3,7 +3,7 @@ title: "Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job
 created: 2026-05-12
 updated: 2026-05-12
 type: concept
-tags: ["ai-education", "ethics", "cs-education", "teacher-competency", "regulation"]
+tags: [ai-education, cs-education, ethics, regulation, teacher-professional-development]
 sources: ["raw/papers/2605.09680.md"]
 confidence: high
 ---

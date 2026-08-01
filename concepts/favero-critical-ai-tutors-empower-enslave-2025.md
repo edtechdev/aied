@@ -3,7 +3,7 @@ title: "Critical AI Tutors: Empower or Enslave?"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [ai-tutoring, critical-pedagogy, over-reliance]
+tags: [ai-tutoring, critical-thinking, over-reliance]
 sources: [raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md]
 confidence: low
 ---

@@ -3,7 +3,7 @@ title: "Principled AI Education Framework"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [ai-literacy, curriculum-design, framework]
+tags: [ai-literacy, curriculum-design, instructional-design]
 sources: [raw/papers/finkelstein-principled-ai-education-2025.md]
 confidence: low
 ---

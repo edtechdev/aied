@@ -3,7 +3,7 @@ title: "Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Ev
 created: 2026-07-02
 updated: 2026-07-02
 type: concept
-tags: [generative-ai, k-12, ai-safety, equity, privacy]
+tags: [equity, generative-ai, k-12, pedagogical-safety, privacy]
 sources: [raw/papers/2607.00395.md]
 confidence: high
 ---

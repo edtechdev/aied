@@ -3,7 +3,7 @@ title: "AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Expe
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
-tags: ["learning-analytics", "teacher-role", "higher-ed", "active-learning", "ai-classroom"]
+tags: [active-learning, ai-education, higher-ed, learning-analytics, teacher-role]
 sources: [2606.09831.md]
 confidence: high
 ---

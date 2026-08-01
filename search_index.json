@@ -148,10 +148,10 @@
     "slug": "adhd-video-segmentation-computing-education",
     "title": "\"Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education\"",
     "tags": [
-      "accessibility",
-      "neurodiversity",
+      "accessible-learning",
       "cs-education",
-      "instructional-video"
+      "instructional-design",
+      "neurodiversity"
     ],
     "content": "Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing EducationVeronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, Andrew Begel (2026) \u2014 Carnegie Mellon University. arXiv preprint (cs.HC).\ud83d\udcc4 Full text (arXiv)Pimenova, Begel and colleagues evaluate a post-hoc video processing intervention that segments instructional videos into single-instruction chunks with fixed pauses, reducing extraneous cognitive load for learners with ADHD. In a within-parti",
     "url": "pages/adhd-video-segmentation-computing-education.html"
@@ -250,6 +250,20 @@
     ],
     "content": "Agentic AI in Education: Scoping Review (474 Studies, 2020\u20132026)Wang, Zou, Xie & Qin (2026) \u2014 Lingnan University & Hong Kong Polytechnic University.\nPublished in Computers and Education: Artificial Intelligence, accepted 27 July 2026.\n\ud83d\udcc4 doi:10.1016/j.caeai.2026.100653 \u00b7 localSummaryThis scoping review systematically maps 474 studies (January 2020 \u2013 May 2026) on generative AI-powered agentic AI in education, providing the most comprehensive synthesis of the field to date. The authors analyze publ",
     "url": "pages/agentic-ai-education-scoping-review.html"
+  },
+  {
+    "slug": "agentic-ai",
+    "title": "\"Agentic AI in Education\"",
+    "tags": [
+      "agentic-ai",
+      "generative-ai",
+      "llm",
+      "intelligent-tutoring",
+      "higher-ed",
+      "scaffolding"
+    ],
+    "content": "Agentic AI in EducationAgentic AI refers to artificial intelligence systems that can autonomously plan, execute, and adapt multi-step workflows to achieve learning goals \u2014 going beyond single-turn question-answering to act as persistent, goal-directed collaborators in educational contexts. In education, agentic AI manifests as AI tutors that scaffold learning over extended interactions, multi-agent systems that orchestrate complex instructional designs, and autonomous agents that adapt their ped",
+    "url": "pages/agentic-ai.html"
   },
   {
     "slug": "agentic-education-coding",
@@ -838,10 +852,10 @@
     "tags": [
       "ai-literacy",
       "assessment",
-      "self-reported-vs-performance",
+      "assessment-validity",
       "k-12",
-      "validity",
-      "teacher-competency"
+      "self-regulated-learning",
+      "teacher-professional-development"
     ],
     "content": "AI Literacy Assessment: Self-Reported vs Performance MisalignmentSynthesisHighlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31).Connectionsai-literacy \u2014 Core finding: self-report bias in AI literacy\nassessment-validity \u2014 Performance vs. self-reported measures\nteacher-ai-competency \u2014 Gap betwe",
     "url": "pages/ai-literacy-assessment-misalignment.html"
@@ -1015,10 +1029,10 @@
     "title": "\"Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment\"",
     "tags": [
       "ai-literacy",
-      "stem-education",
-      "equity-in-ai-education",
       "curriculum",
-      "metacognition"
+      "equity",
+      "metacognition",
+      "stem-education"
     ],
     "content": "AI-Powered Materials Discovery and AI LiteracyDongming Mei, Katherine Moore, Ben Sayler (2026) \u2014 Framework for integrating AI literacy with materials science education.\ud83d\udcc4 Full text (arXiv)Key FindingsThis paper presents a workflow-aligned framework for preparing students to use AI in materials discovery. The authors argue that in materials science, the limiting factor is no longer only algorithmic capability but human-AI collaboration competence. Students need to develop scientific judgment about",
     "url": "pages/ai-powered-materials-discovery-ai-literacy.html"
@@ -1053,14 +1067,12 @@
     "slug": "ai-scoring-language-bias-physics",
     "title": "\"AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics\"",
     "tags": [
-      "automated-assessment",
+      "assessment-validity",
+      "automated-grading",
       "bias-mitigation",
       "equity",
       "multilingual-learning",
-      "physics-education",
-      "automated-essay-scoring",
-      "short-answer-grading",
-      "assessment-validity"
+      "physics-education"
     ],
     "content": "AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physicsAuthors: Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany)Source: arXiv:2607.28210 (physics.ed-ph, July 2026)Key FindingsThis study examined whether AI-based scoring can assess students' conceptual understanding independently of the linguistic quality of their text-based explanations in physics. The researchers ",
     "url": "pages/ai-scoring-language-bias-physics.html"
@@ -1083,11 +1095,11 @@
     "slug": "ai-team-teaching-talk-analytics",
     "title": "\"AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design\"",
     "tags": [
-      "learning-analytics",
-      "teacher-role",
-      "higher-ed",
       "active-learning",
-      "ai-classroom"
+      "ai-education",
+      "higher-ed",
+      "learning-analytics",
+      "teacher-role"
     ],
     "content": "AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning DesignYuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, Sadia Nawaz \u2014 AIED 2026 \u2014 cs.HC, cs.AI\n\ud83d\udcc4 Full text (arXiv)This paper presents an AI-based speech processing approach to analyze classroom talk in team-teaching settings, grounded in spatial pedagogy theory. Analyzing 36 recorded undergraduate and postgraduate sessions involving 12 teachers, the s",
     "url": "pages/ai-team-teaching-talk-analytics.html"
@@ -1111,10 +1123,9 @@
     "title": "\"AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study\"",
     "tags": [
       "ai-literacy",
-      "teacher-professional-development",
-      "stem-education",
       "higher-ed",
-      "teacher-ai-competency"
+      "stem-education",
+      "teacher-professional-development"
     ],
     "content": "AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling studyAuthors: Moeketsi Mosia, Fadip Audu Nannim, Felix Egara\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsSEM study of 130 preservice math teachers in South Africa (Global South context). AI-TPACK readiness explained 53% of variance. Positive associations: prior AI use, critical-ethical appraisal, and support/enablers. Senio",
     "url": "pages/ai-tpack-preservice-math-teachers.html"
@@ -1123,12 +1134,12 @@
     "slug": "ai-tpack-teacher-multi-agent-workflow",
     "title": "\"Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design\"",
     "tags": [
-      "teacher-role",
-      "faculty-development",
       "ai-literacy",
+      "faculty-development",
       "generative-ai",
+      "multi-agent",
       "scaffolding",
-      "multi-agent-instructional-design"
+      "teacher-role"
     ],
     "content": "Modeling AI-TPACK in PracticeYimeng Sun, Haiyang Xin, Shuang Li, Qiannan Niu, Ching Sing Chai, Lingyun Huang, Gaowei Chen (2026) \u2014 Multiple institutions. arXiv:2605.13906 [cs.CY].\ud83d\udcc4 Full text (arXiv)Key FindingsThis study investigates how teachers design multi-agent instructional workflows and identifies three distinct teacher archetypes that emerge from behavioral log analysis of 61 in-service teachers:Systematic Optimizers: Iteratively refine complex multi-agent architectures with a methodical,",
     "url": "pages/ai-tpack-teacher-multi-agent-workflow.html"
@@ -1187,6 +1198,20 @@
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2603.17373 \u00b7 localAI Tutor Safety and Pedagogical Harms> \"Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different.\" SafeTutors exposes that all tested models show broad pedagogical harm, with failures escalating from 17.7% in single-turn to 77.8% in multi-turn student-tutor dialogue.^hazra-safetutors-pedagogical-safety-2026Why Tutoring Safety Is DifferentConventional LLM safety benchmarks focus on t",
     "url": "pages/ai-tutor-safety-harms.html"
+  },
+  {
+    "slug": "ai-tutoring",
+    "title": "\"AI Tutoring\"",
+    "tags": [
+      "ai-tutoring",
+      "intelligent-tutoring",
+      "generative-ai",
+      "llm",
+      "scaffolding",
+      "feedback-loop"
+    ],
+    "content": "AI TutoringAI tutoring encompasses the use of artificial intelligence \u2014 particularly large language models and intelligent tutoring systems \u2014 to provide personalized, adaptive, and scalable instructional support to learners. AI tutors can take many forms: conversational tutors that engage in Socratic dialogue, scaffolded feedback systems that guide problem-solving, adaptive learning platforms that personalize content sequencing, and agent-based tutors that maintain long-term learner models. The ",
+    "url": "pages/ai-tutoring.html"
   },
   {
     "slug": "ai-vocational-education-training-review",
@@ -1322,11 +1347,11 @@
     "slug": "assessment-validity",
     "title": "\"Assessment Validity in AI Education\"",
     "tags": [
-      "assessment",
-      "validity",
-      "educational-measurement",
       "ai-literacy",
-      "teacher-competency"
+      "assessment",
+      "assessment-validity",
+      "educational-theory",
+      "teacher-professional-development"
     ],
     "content": "Assessment Validity in AI EducationSynthesisAssessment validity\u2014the degree to which an instrument measures what it claims to measure\u2014is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revealed a 40% overestimation gap: teachers' self-reported AI literacy correlated weakly (r=0.31) with actual performance, while task-based assessments showed strong correlation (r=0.72) with classroom AI integration.Key Validity Threats in AI Education\n1",
     "url": "pages/assessment-validity.html"
@@ -1368,13 +1393,13 @@
     "slug": "authentic-assessment",
     "title": "Authentic Assessment",
     "tags": [
+      "ai-ed-evaluation",
+      "ai-education",
       "assessment",
-      "evaluation",
-      "higher-ed",
       "formative-assessment",
-      "self-regulated-learning",
+      "higher-ed",
       "metacognition",
-      "ai-education"
+      "self-regulated-learning"
     ],
     "content": "> \ud83d\udcc4 Full text: Springer \u00b7 localAuthentic Assessment> Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI\u2014which threatens the validity of any task that can be replicated \u00e0 la Wiggins (1990)\u2014makes AA's broader forms essential. Zhan, Boud & Du (2025) propose a six-dimensional design model that centres student agency and social collaborat",
     "url": "pages/authentic-assessment.html"
@@ -1409,7 +1434,7 @@
       "assessment",
       "automated-grading",
       "k-12",
-      "stem"
+      "stem-education"
     ],
     "content": "The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level SciencesMatey Yordanov, Mikhail Bychkov, Andrei Kuchma (2026) \u2014 Independent / school-based study. arXiv preprint (cs.CY).\ud83d\udcc4 Full text (arXiv)This quasi-experimental mixed-methods longitudinal study (N=142) deploys a fully automated marking pipeline for handwritten mock examinations in A-Level sciences, removing the human-marking bottleneck that normally caps the frequency of formative mocks. Hi",
     "url": "pages/automated-formative-assessments-a-level-sciences.html"
@@ -1498,8 +1523,8 @@
     "slug": "becerra-aicofe-feedback-2026",
     "title": "\"AICoFE: AI-Powered Feedback System\"",
     "tags": [
-      "ai-feedback-quality",
-      "ai-assessment",
+      "ai-ed-evaluation",
+      "feedback-loop",
       "student-experience"
     ],
     "content": "AICoFE: AI-Powered Feedback SystemThis is a stub page for \"AICoFE: AI-Powered Feedback System\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
@@ -1614,18 +1639,18 @@
     "slug": "chatgpt-critical-creative-thinking-review",
     "title": "\"ChatGPT Critical and Creative Thinking: Systematic Review\"",
     "tags": [
-      "chatgpt",
-      "critical-thinking",
-      "creative-thinking",
-      "higher-ed",
-      "systematic-review",
-      "cognitive-offloading",
-      "metacognition",
-      "instructional-design",
-      "scaffolding",
       "ai-literacy",
-      "self-regulated-learning",
-      "boundary-object"
+      "boundary-object",
+      "chatgpt",
+      "cognitive-offloading",
+      "creative-thinking",
+      "critical-thinking",
+      "higher-ed",
+      "instructional-design",
+      "metacognition",
+      "scaffolding",
+      "scoping-review",
+      "self-regulated-learning"
     ],
     "content": "ChatGPT Critical and Creative Thinking: Systematic ReviewLi, Cui, and Hagedorn (2026) conducted a PRISMA-guided systematic review of 67 empirical studies (2022\u20132025) examining how ChatGPT influences university students' critical and creative thinking. Using a dual-lens framework \u2014 convergent (critical thinking) and divergent (creative thinking) processes \u2014 the review reveals that ChatGPT's cognitive effects are fundamentally contingent on pedagogical framing, not the tool itself.Theoretical Fram",
     "url": "pages/chatgpt-critical-creative-thinking-review.html"
@@ -1661,10 +1686,10 @@
     "slug": "child-safety-genai",
     "title": "\"Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework\"",
     "tags": [
+      "equity",
       "generative-ai",
       "k-12",
-      "ai-safety",
-      "equity",
+      "pedagogical-safety",
       "privacy"
     ],
     "content": "Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation FrameworkHaein Kong \u2014 HEAL Workshop at CHI 2026, submitted 1 Jul 2026\n\ud83d\udcc4 Full text (arXiv)Proposes an evaluation framework for child-specific harms in generative AI; applied to education domain, Llama Guard models struggle to detect unsafe user prompts from children.Key ContributionsProposes an evaluation framework for child-specific harms in generative AI; applied to education domain, Llama Guard models struggle to ",
@@ -1743,13 +1768,13 @@
     "slug": "codify-socratic-tutoring-programming",
     "title": "\"Codify: An Intelligent Socratic Tutoring System for Programming Education\"",
     "tags": [
+      "generative-ai",
+      "higher-ed",
       "intelligent-tutoring",
       "llm",
-      "generative-ai",
       "programming-its",
       "scaffolding",
-      "higher-ed",
-      "socratic-ai-dialogue"
+      "socratic-method"
     ],
     "content": "Codify: An Intelligent Socratic Tutoring System for Programming EducationAllan Ilyasov, Giulio Bardelli, Sebastian Torres, Fazel Keshtkar (2026) \u2014 St. John's University. The International FLAIRS Conference Proceedings, 39(1). DOI: 10.32473/flairs.39.1.141554.\ud83d\udcc4 Full text (FLAIRS)System OverviewCodify (also referred to as \"AI Tutor\") is a web-based intelligent-tutoring platform for programming education that integrates conversational AI, adaptive assessment, and learning analytics. It leverages LL",
     "url": "pages/codify-socratic-tutoring-programming.html"
@@ -1993,9 +2018,9 @@
     "slug": "cong-confidence-asag-2026",
     "title": "\"Confidence-Aware Automatic Short Answer Grading\"",
     "tags": [
-      "automatic-short-answer-grading",
-      "confidence",
-      "assessment"
+      "assessment",
+      "automated-grading",
+      "confidence"
     ],
     "content": "Confidence-Aware Automatic Short Answer GradingThis is a stub page for \"Confidence-Aware Automatic Short Answer Grading\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
     "url": "pages/cong-confidence-asag-2026.html"
@@ -2095,10 +2120,10 @@
     "title": "\"Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States\"",
     "tags": [
       "ai-education",
-      "ethics",
       "cs-education",
-      "teacher-competency",
-      "regulation"
+      "ethics",
+      "regulation",
+      "teacher-professional-development"
     ],
     "content": "Cost-of-Ethics Crisis in CS EducationMohamed Abdalla, Sahar Abdalla, Alicia Cappello et al. (2026) \u2014 Study of 129 CS students/recent grads in Canada and US.\ud83d\udcc4 Full text (arXiv)Key FindingsThis study examines the disconnect between ethics education and real-world decision-making among 129 computer science students and recent graduates during their job searches. Despite receiving contemporary CS ethics education, most students prioritize compensation, location, and workplace culture over ethical an",
     "url": "pages/cost-of-ethics-crisis-cs-ethics-education.html"
@@ -2580,8 +2605,8 @@
     "slug": "daily-digest-2026-06-18",
     "title": "\"Daily AIED Digest -- 2026-06-18\"",
     "tags": [
-      "daily-digest",
-      "ai-in-education"
+      "ai-education",
+      "daily-digest"
     ],
     "content": "Daily AIED Digest -- 2026-06-18Focus: AI-in-Education research scan from arXiv cs.CY and cs.HC.New Papers IngestedThrough the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics -- Revisits WordStream (2009) as a quantitative encoding for qualitative learning analytics; demonstrates how structured coding can surface cohort-level trends while preserving individual narrative context.\nAI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life P",
     "url": "pages/daily-digest-2026-06-18.html"
@@ -2590,8 +2615,8 @@
     "slug": "daily-digest-2026-06-19",
     "title": "\"Daily AIED Digest -- 2026-06-19\"",
     "tags": [
-      "daily-digest",
-      "ai-in-education"
+      "ai-education",
+      "daily-digest"
     ],
     "content": "Daily AIED Digest -- 2026-06-19Papers ingested: 4 | Wiki total: 355 pagesNew Paperscode-anchor-multi-view-visualization -- Students spent ~47% of gaze time on code despite visual scaffolds; agency, representational fit, and legitimacy shape engagement with multi-representational tools.\n  - Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations. arXiv:2606.19570learning-to-prompt-adaptive-tutoring -- Adaptive LLM tutoring with subject-aware prompt routi",
     "url": "pages/daily-digest-2026-06-19.html"
@@ -2600,8 +2625,8 @@
     "slug": "daily-digest-2026-06-22",
     "title": "\"Daily AIED Digest -- 2026-06-22\"",
     "tags": [
-      "daily-digest",
-      "ai-in-education"
+      "ai-education",
+      "daily-digest"
     ],
     "content": "Daily AIED Digest -- 2026-06-22Papers ingested: 0 | Wiki total: 355 pagesNo new AIED papers found today. The scan window (2026-06-19 to 2026-06-22) fell over a weekend \u2014 no arXiv submissions were published on Saturday or Sunday. Monday's batch had not yet appeared on arXiv at scan time.Source StatusarXiv cs.CY: \u2713 0 new AIED papers (14 entries on Fri Jun 19 \u2014 all already ingested or non-AIED)\narXiv cs.HC: \u2713 0 new AIED papers (20 entries on Fri Jun 19 \u2014 all already ingested or non-AIED)\narXiv cs.A",
     "url": "pages/daily-digest-2026-06-22.html"
@@ -2610,8 +2635,8 @@
     "slug": "daily-digest-2026-06-23",
     "title": "\"Daily AIED Digest -- 2026-06-23\"",
     "tags": [
-      "daily-digest",
-      "ai-in-education"
+      "ai-education",
+      "daily-digest"
     ],
     "content": "Daily AIED Digest -- 2026-06-23Papers ingested: 13 | Wiki total: 377 pagesThe scan window (2026-06-23) captured a Tuesday batch on arXiv after no weekend submissions. 13 new AIED papers ingested from cs.CY and cs.HC.Source StatusarXiv cs.CY: \u2713 8 new AIED papers (77 entries on Tue Jun 23)\narXiv cs.HC: \u2713 5 new AIED papers (46 entries on Tue Jun 23)\nSemantic Scholar: \u2713 1 result (Codify \u2014 already in wiki)\nOpenAlex: \u2713 10 results (all future-dated placeholders filtered)Ingested PapersTest-Driven, AI-A",
     "url": "pages/daily-digest-2026-06-23.html"
@@ -2981,16 +3006,16 @@
     "slug": "dot-framework-survey",
     "title": "\"DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education\"",
     "tags": [
-      "ai-in-education",
-      "dot-framework",
-      "survey",
-      "practitioner-beliefs",
-      "design-thinking",
-      "open-systems",
-      "institutional-barriers",
-      "human-oversight",
+      "ai-education",
       "ai-literacy",
-      "higher-education"
+      "design-thinking",
+      "dot-framework",
+      "higher-ed",
+      "human-in-the-loop",
+      "institutional-change",
+      "open-source",
+      "practitioner-beliefs",
+      "survey"
     ],
     "content": "DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced EducationA 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the DOT Framework \u2014 a synthesis of design-thinking-in-education and open-systems-theory.Core FindingsThree-Factor Belief Structure\nExploratory factor analysis of 19 Likert-scale items yielded a three-factor structure with strong reliability (overall \u03b1 = .90):\n",
     "url": "pages/dot-framework-survey.html"
@@ -3261,7 +3286,7 @@
     "slug": "empathy-coaching-chatbot",
     "title": "\"Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions\"",
     "tags": [
-      "affective-tutoring",
+      "affective-computing",
       "feedback-loop",
       "llm",
       "personalized-learning",
@@ -3323,8 +3348,8 @@
     "title": "Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving",
     "tags": [
       "affect",
-      "learning-analytics",
-      "collaboration"
+      "human-ai-collaboration",
+      "learning-analytics"
     ],
     "content": "Ordered Network Analysis of Epistemic Emotions during Collaborative Problem SolvingSifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, Nathaniel Blanchard (2026) \u2014 Colorado State University / University of Pennsylvania. arXiv preprint (cs.CY).\ud83d\udcc4 Full text (arXiv)Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered Network Analysis to trace how epistemic emotions such as confusion and frustration persist and transition during co-situated collaborative problem solving. The work advances aff",
     "url": "pages/epistemic-emotions-collaborative-problem-solving.html"
@@ -3346,11 +3371,11 @@
     "slug": "equity-in-ai-education",
     "title": "\"Equity in AI Education\"",
     "tags": [
-      "equity",
-      "access",
-      "inclusive-ai",
+      "accessible-learning",
       "culturally-sustaining-pedagogy",
-      "digital-divide"
+      "digital-divide",
+      "equity",
+      "inclusive-ai"
     ],
     "content": "Equity in AI EducationSynthesisEquity in AI Education addresses systemic disparities in access to, representation within, and benefits from AI educational tools. Three critical dimensions emerge:1. Access & Infrastructure Equity\nDigital Divide: Unequal access to AI-powered learning tools across socioeconomic lines\nLanguage Barriers: Most AI tools prioritize English, marginalizing multilingual learners\nDisability Access: Need for AI tools designed with universal design principles2. Representation",
     "url": "pages/equity-in-ai-education.html"
@@ -3459,11 +3484,11 @@
     "slug": "fair-explainable-edu-recommendations",
     "title": "\"Fair and explainable educational recommendations with a hybrid Graph-GRU framework\"",
     "tags": [
-      "personalized-learning",
-      "learning-analytics",
+      "ai-education",
       "algorithmic-bias",
       "bias-mitigation",
-      "xai-education-framework"
+      "learning-analytics",
+      "personalized-learning"
     ],
     "content": "Fair and explainable educational recommendations with a hybrid Graph-GRU frameworkAuthors: Edmund Evangelista, Syed M. Salman Bukhari\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsHybrid HKG-GRU framework for educational recommendations combining heterogeneous graph embeddings with sequential modeling (152 students, 59 resources, ~150K interactions). Multi-objective training with GroupDRO for fairness, MMR reranking for diversity, and built-in explainability th",
     "url": "pages/fair-explainable-edu-recommendations.html"
@@ -3473,7 +3498,7 @@
     "title": "\"Critical AI Tutors: Empower or Enslave?\"",
     "tags": [
       "ai-tutoring",
-      "critical-pedagogy",
+      "critical-thinking",
       "over-reliance"
     ],
     "content": "Critical AI Tutors: Empower or Enslave?This is a stub page for \"Critical AI Tutors: Empower or Enslave?\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
@@ -3496,7 +3521,7 @@
     "tags": [
       "ai-literacy",
       "curriculum-design",
-      "framework"
+      "instructional-design"
     ],
     "content": "Principled AI Education FrameworkThis is a stub page for \"Principled AI Education Framework\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
     "url": "pages/finkelstein-principled-ai-education-2025.html"
@@ -3506,9 +3531,9 @@
     "title": "\"Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy\"",
     "tags": [
       "ai-literacy",
-      "higher-ed",
       "curriculum-design",
-      "framework",
+      "higher-ed",
+      "instructional-design",
       "personalized-learning"
     ],
     "content": "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy\nLiu & Levy (2026) \u2014 arXiv:2606.00038.\ud83d\udcc4 Full text (arXiv)Proposes a 5-stage developmental continuum for AI literacy (Not Engaged -> Uncritical -> Informed -> Critical -> Improvement). Serves as a diagnostic tool for educators to move students beyond fluently-nonsense tool adoption. This work emphasizes that ai-literacy is a developmental capacity requiring structured scaffolding and prompt-engineering discipline.",
@@ -3546,9 +3571,9 @@
     "title": "Formative Assessment in AI Education",
     "tags": [
       "agentic-ai",
+      "ai-ed-evaluation",
       "ai-education",
       "assessment",
-      "evaluation",
       "safety"
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2604.03926 \u00b7 local \u00b7 arXiv:2504.20082 \u00b7 local \u00b7 arXiv:2507.04295 \u00b7 localFormative Assessment in AI EducationAssessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can generate, validate, and adapt formative assessment items at scale, though quality varies dramatically across assessment types.AI-Generated Formative ItemsMultiple-Choice Questions (CODE-GEN)Duan et al. (2026) demonstrate that agentic AI can reliably genera",
@@ -3765,10 +3790,10 @@
     "slug": "genai-mindtool-generative-learning",
     "title": "\"Generative AI (GenAI) as a mindtool that supports generative learning (GL)\"",
     "tags": [
+      "educational-theory",
       "generative-ai",
-      "instructional-design",
       "higher-ed",
-      "learning-theory",
+      "instructional-design",
       "scaffolding"
     ],
     "content": "Generative AI (GenAI) as a mindtool that supports generative learning (GL)Authors: Nada Dabbagh, Helen Fake\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100626 \u2014 Open Access (CC BY 4.0)Key FindingsArgues GenAI can serve as a Mindtool (knowledge representation tool) to facilitate Generative Learning rather than short-circuiting it. Proposes 8 pedagogical roles for GenAI: learning strategy/study buddy, collaborative thinking tool, possibility engine, Socratic opponent, persona",
@@ -3825,9 +3850,9 @@
     "tags": [
       "ai-literacy",
       "k-12",
-      "regulation",
       "RCT",
-      "teacher-development"
+      "regulation",
+      "teacher-professional-development"
     ],
     "content": "Transforming GenAI Policy to Prompting Instruction: RCTSynthesisThis RCT investigates the impact of transforming institutional GenAI policies into actionable prompting instruction for K-12 educators. Key findings:Policy-to-Practice Gap: Most GenAI policies lack implementation guidance, leaving teachers unprepared\nPrompting Instruction Intervention: Teachers trained in prompt engineering showed 2.3x higher AI integration in lesson plans\nStudent Outcomes: Classes with prompt-trained teachers showe",
     "url": "pages/genai-policy-prompting-rct.html"
@@ -3930,12 +3955,11 @@
     "slug": "generate-then-validate-question-gen",
     "title": "\"Generate-Then-Validate: Question Generation for Education\"",
     "tags": [
-      "question-generation",
-      "validate-then-generate",
+      "automated-grading",
+      "llm",
       "nlp-education",
       "stem-education",
-      "automated-grading",
-      "llm"
+      "validate-then-generate"
     ],
     "content": "Generate-Then-Validate: Question Generation for EducationSynthesisNovel generate-then-validate approach for educational question generation. Reduces hallucination by 62% compared to direct generation. Validated on STEM datasets with 89% accuracy. Outperforms baseline LLMs by 23% on relevance metrics.Connectionsautomated-question-generation \u2014 Core methodology contribution\nnlp-education \u2014 LLM application for assessment\nstem-education \u2014 Primary validation domain\nllm-application-education \u2014 Generati",
     "url": "pages/generate-then-validate-question-gen.html"
@@ -4115,7 +4139,7 @@
     "tags": [
       "ai-literacy",
       "collaborative-learning",
-      "framework"
+      "instructional-design"
     ],
     "content": "Collaborative AI Literacy FrameworkThis is a stub page for \"Collaborative AI Literacy Framework\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
     "url": "pages/hingle-collaborative-ai-literacy-2025.html"
@@ -4214,11 +4238,11 @@
     "slug": "human-vs-llm-ordered-coding",
     "title": "\"Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis\"",
     "tags": [
-      "llm",
+      "automated-grading",
+      "educational-theory",
+      "ground-truth-reliability-aied",
       "learning-analytics",
-      "automated-assessment",
-      "educational-nlp",
-      "ground-truth-reliability-aied"
+      "llm"
     ],
     "content": "Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysisAuthors: Kamila Misiejuk, Sonsoles L\u00f3pez-Pernas, Eduardo Araujo Oliveira, Brendan Eagan, Mohammed Saqr\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsCritical methodological paper on using LLMs for automated qualitative coding of ordered data (where code order matters). Presents two evaluation approaches for ordered coding quality. Demonstrates sys",
     "url": "pages/human-vs-llm-ordered-coding.html"
@@ -4330,13 +4354,13 @@
     "slug": "institutional-change-framework-ai",
     "title": "\"A Framework for Institutional Change in the Age of AI\"",
     "tags": [
-      "institutional-change",
-      "higher-ed",
-      "stem-education",
+      "ai-education",
+      "change-management",
       "faculty-development",
+      "higher-ed",
+      "institutional-change",
       "pedagogy",
-      "ai-era",
-      "change-management"
+      "stem-education"
     ],
     "content": "Institutional Change Framework for AICore ContributionPerl-Nussbaum & Finkelstein (2026) propose a six-dimension framework for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based on adoption technologies (stable, evidence-based practices like Peer Instruction or PhET simulations), generative AI is an arrival technology \u2014 it entered classrooms before pedagogical evidence could form. The framework identifies where existing cha",
     "url": "pages/institutional-change-framework-ai.html"
@@ -4430,11 +4454,11 @@
     "slug": "k-12-ai-education",
     "title": "\"K-12 AI Education\"",
     "tags": [
-      "k-12",
       "ai-literacy",
-      "teacher-development",
       "curriculum-design",
-      "equity"
+      "equity",
+      "k-12",
+      "teacher-professional-development"
     ],
     "content": "K-12 AI EducationSynthesisK-12 AI Education encompasses the integration of artificial intelligence literacy, tools, and pedagogical approaches into primary and secondary education. Recent research reveals three critical pillars:1. Teacher Preparation Gap\nTeachers systematically overestimate their AI competency (40% gap between self-report and performance in Zhang et al. 2026), yet brief training interventions (4-hour prompting workshops) yield 2.3x higher classroom AI integration (Xiao et al. 20",
     "url": "pages/k-12-ai-education.html"
@@ -4528,11 +4552,11 @@
     "title": "\"KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing\"",
     "tags": [
       "adaptive-learning",
-      "learning-analytics",
-      "personalized-learning",
-      "llm",
+      "automated-grading",
       "intelligent-tutoring",
-      "automated-question-generation"
+      "learning-analytics",
+      "llm",
+      "personalized-learning"
     ],
     "content": "KT4EQG: Personalized Exercise Question Generation via Knowledge TracingGao et al. (2026) \u2014 Microsoft Research / MIT / UC Santa Barbara. arXiv preprint.\ud83d\udcc4 Full text (arXiv)KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing bridges two key AI-in-education paradigms: personalized-learning through question generation and learning-analytics through knowledge tracing. Rather than generating generic practice questions, KT4EQG uses a Knowledge Tracing model to first identify the know",
     "url": "pages/kt4eqg-personalized-question-generation.html"
@@ -5308,11 +5332,11 @@
     "slug": "mindcopilot-llm-co-writing",
     "title": "\"MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing\"",
     "tags": [
-      "writing-education",
-      "llm",
       "feedback-loop",
       "higher-ed",
-      "human-in-the-loop-ai"
+      "human-in-the-loop",
+      "llm",
+      "writing-education"
     ],
     "content": "MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-WritingYouqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026) \u2014 University of Science and Technology of China / Shanghai AI Laboratory. IJCAI 2026.\ud83d\udcc4 Full text (arXiv)MindCopilot introduces a formal framework for evaluating human-LLM co-writing that shifts from output-only metrics (BLEU, ROUGE) to interaction-aware evaluation. The paper models ",
     "url": "pages/mindcopilot-llm-co-writing.html"
@@ -5949,14 +5973,14 @@
     "slug": "prompt-problems-nl-programming-mistakes",
     "title": "Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks",
     "tags": [
-      "generative-ai",
-      "cs-education",
       "ai-literacy",
+      "cs-education",
+      "generative-ai",
       "higher-ed",
-      "student-experience",
       "programming-its",
-      "prompt-based-programming-lesson",
-      "scaffolding"
+      "prompt-engineering",
+      "scaffolding",
+      "student-experience"
     ],
     "content": "Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming TasksVictor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026) \u2014 arXiv:2607.05034 [cs.CY]\ud83d\udcc4 Full text (arXiv)Learning to communicate with code-generating AI is an emerging skill for novice programmers. 'Prompt Problems' \u2014 having students solve computational tasks by writing natural-language prompts for code-generating models \u2014 is a recent ped",
     "url": "pages/prompt-problems-nl-programming-mistakes.html"
@@ -5988,10 +6012,10 @@
     "slug": "q-learning-lab-rl-teaching",
     "title": "\"Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis\"",
     "tags": [
-      "reinforcement-learning-education",
       "active-learning",
-      "stem-education",
-      "higher-ed"
+      "higher-ed",
+      "reinforcement-learning",
+      "stem-education"
     ],
     "content": "Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace AnalysisEkkachai Jueng (2026) \u2014 arXiv preprint.\ud83d\udcc4 Full text (arXiv)Presents Q-Learning Lab, a single-file tool that makes the Bellman update concrete by letting undergraduates inspect how each value is computed and why actions are chosen, through learner-generated trace analysis. It addresses the abstraction gap where students watch policy convergence without understanding mechanism.A reinforcement-learning-education ",
     "url": "pages/q-learning-lab-rl-teaching.html"
@@ -6000,11 +6024,11 @@
     "slug": "quantum-education-its",
     "title": "Quantum Education Intelligent Tutoring",
     "tags": [
-      "intelligent-tutoring",
-      "stem-education",
-      "higher-ed",
       "adaptive-learning",
-      "knowledge-graph"
+      "higher-ed",
+      "intelligent-tutoring",
+      "knowledge-tracing",
+      "stem-education"
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2604.24807 \u00b7 localQuantum Education Intelligent Tutoring> Knowledge-graph-augmented ITS for quantum computing education, addressing instructor scarcity and concept counterintuitiveness.System ArchitectureFrom Prototype to Classroom (Elhaimeur & Chrisochoides, 2026) describes a tutoring system for quantum computing that bridges the gap between dense mathematical formalism and limited qualified instructors.Knowledge Graph Foundation\nStructure: Concept nodes with prerequisite r",
     "url": "pages/quantum-education-its.html"
@@ -6218,10 +6242,10 @@
     "title": "\"Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts\"",
     "tags": [
       "ai-literacy",
+      "cognitive-offloading",
       "generative-ai",
       "higher-ed",
-      "prompt-engineering",
-      "cognitive-load-theory"
+      "prompt-engineering"
     ],
     "content": "Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contextsAuthors: Qinjie Shen\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsMixed-methods study of Design (n=221) and Business (n=222) students in Thailand. AI literacy predicted prompting proficiency and verification behavior (pRelated Pagesai-literacy\ngenerative-ai\nhigher-ed\nprompt-engineering\ncognitive-load-theory\ntrust-calibration",
     "url": "pages/same-ai-different-pathways.html"
@@ -6240,10 +6264,10 @@
     "slug": "scheu-mobile-chatbot-journaling-motivation-2026",
     "title": "\"Mobile Chatbot Journaling for Student Motivation\"",
     "tags": [
-      "mobile-learning",
       "chatbot",
-      "student-motivation",
-      "journaling"
+      "journaling",
+      "mobile-learning",
+      "student-experience"
     ],
     "content": "Mobile Chatbot Journaling for Student MotivationThis is a stub page for \"Mobile Chatbot Journaling for Student Motivation\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
     "url": "pages/scheu-mobile-chatbot-journaling-motivation-2026.html"
@@ -6378,9 +6402,9 @@
     "slug": "singh-eduqwen-pedagogical-rl-2026",
     "title": "\"EduQwen: Pedagogical RL\"",
     "tags": [
-      "reinforcement-learning",
-      "pedagogical-ai",
-      "llm"
+      "llm",
+      "pedagogical-safety",
+      "reinforcement-learning"
     ],
     "content": "EduQwen: Pedagogical RLThis is a stub page for \"EduQwen: Pedagogical RL\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
     "url": "pages/singh-eduqwen-pedagogical-rl-2026.html"
@@ -6458,10 +6482,9 @@
     "slug": "socratic-method",
     "title": "\"Socratic Method in AI Education\"",
     "tags": [
-      "socratic-method",
       "ai-tutoring",
-      "dialogue",
-      "critical-thinking"
+      "critical-thinking",
+      "socratic-method"
     ],
     "content": "Socratic Method in AI EducationThis is a stub page for \"Socratic Method in AI Education\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
     "url": "pages/socratic-method.html"
@@ -6781,10 +6804,10 @@
     "slug": "syal-multimodal-dialogue-stem-2026",
     "title": "\"Multimodal Dialogue in STEM Education\"",
     "tags": [
+      "ai-tutoring",
       "multimodal",
-      "dialogue",
-      "stem",
-      "ai-tutoring"
+      "socratic-method",
+      "stem-education"
     ],
     "content": "Multimodal Dialogue in STEM EducationThis is a stub page for \"Multimodal Dialogue in STEM Education\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
     "url": "pages/syal-multimodal-dialogue-stem-2026.html"
@@ -6867,10 +6890,10 @@
     "slug": "teacher-ai-competency",
     "title": "\"Teacher AI Competency\"",
     "tags": [
-      "teacher-development",
       "ai-literacy",
       "faculty-development",
-      "k-12"
+      "k-12",
+      "teacher-professional-development"
     ],
     "content": "Teacher AI CompetencySynthesisTeacher AI competency encompasses the knowledge, skills, and dispositions required for effective AI integration in educational contexts. Emerging frameworks identify three competency dimensions:1. Technical Proficiency\nPrompt Engineering: Crafting effective prompts for educational objectives (Xiao et al. 2026: 4-hour training \u2192 2.3x integration increase)\nTool Evaluation: Assessing AI tools for pedagogical fit and safety\nTroubleshooting: Addressing AI-system failures",
     "url": "pages/teacher-ai-competency.html"
@@ -7050,10 +7073,10 @@
     "title": "\"Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing\"",
     "tags": [
       "ai-literacy",
-      "learning-analytics",
       "higher-ed",
+      "learning-analytics",
       "prompt-engineering",
-      "academic-writing"
+      "writing-education"
     ],
     "content": "Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing\nAngxuan Chen & Jiyou Jia (2026) \u2014 arXiv:2606.00040.\ud83d\udcc4 Full text (arXiv)Identifies interaction signatures of LLM literacy using Epistemic Network Analysis (ENA) on logs from 162 students. High-literacy students exhibit iterative, strategic refinement and dense cognitive networking, while low-literacy students rely on direct, linear commands. This work emphasizes that ai-literacy is a developmental capacity requiring struct",
     "url": "pages/tracing-genai-literacy-interaction-patterns.html"
@@ -7115,11 +7138,11 @@
     "slug": "tutors-gig-economy-automated-feedback",
     "title": "\"Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle\"",
     "tags": [
-      "ai-feedback-quality",
-      "teacher-role",
+      "feedback-loop",
       "higher-ed",
       "intelligent-tutoring",
-      "language-learning"
+      "language-learning",
+      "teacher-role"
     ],
     "content": "Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on RingleYeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung, Juho Kim (2026) \u2014 arXiv:2606.22609 (cs.HC)\n\ud83d\udcc4 Full text (arXiv)Park et al. (2026) explore AI-powered automated feedback for tutors on Ringle, a popular online English tutoring platform in the gig economy. Their research probe analyzed tutors' lessons and provided automated feedback, followed by a survey of 36 tutors. Findings reveal th",
     "url": "pages/tutors-gig-economy-automated-feedback.html"
@@ -7128,10 +7151,10 @@
     "slug": "understanding-student-effort-response-time",
     "title": "Understanding Student Effort Using Response-Time Propensities During Problem Solving",
     "tags": [
-      "learning-analytics",
-      "adaptive-learning-systems",
-      "engagement-assessment",
+      "adaptive-learning",
       "assessment",
+      "engagement-metrics",
+      "learning-analytics",
       "student-experience"
     ],
     "content": "Student Effort Measurement via Response-Time PropensitiesConrad Borchers, Lijin Zhang, Kexin Yang et al. (2026) \u2014 Response-time analysis for student effort during problem solving.\ud83d\udcc4 Full text (arXiv)Key FindingsAdaptive learning systems produce substantial learning gains, yet many students engage too briefly or superficially to benefit. This paper addresses the central challenge of measuring student effort during multi-step problem solving using response-time propensities.^[raw/papers/2605.08943.",
@@ -7154,9 +7177,9 @@
     "slug": "varga-atkins-educators-guide-multimodal-learning-genai-2025",
     "title": "\"Educator's Guide to Multimodal Learning with GenAI\"",
     "tags": [
-      "multimodal-learning",
+      "educator-guide",
       "generative-ai",
-      "educator-guide"
+      "multimodal"
     ],
     "content": "Educator's Guide to Multimodal Learning with GenAIThis is a stub page for \"Educator's Guide to Multimodal Learning with GenAI\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
     "url": "pages/varga-atkins-educators-guide-multimodal-learning-genai-2025.html"
@@ -7241,13 +7264,13 @@
     "slug": "voice-text-prompt-problems-computing-education",
     "title": "Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education",
     "tags": [
-      "llm",
-      "generative-ai",
-      "cs-education",
       "ai-literacy",
-      "student-experience",
-      "prompt-based-programming-lesson",
-      "programming-its"
+      "cs-education",
+      "generative-ai",
+      "llm",
+      "programming-its",
+      "prompt-engineering",
+      "student-experience"
     ],
     "content": "Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing EducationKaitlin Riegel et al. (2026) \u2014 University of Auckland / University of Michigan. arXiv.\ud83d\udcc4 Full text (arXiv)Nearly all prior research on LLMs in computing education has used text input, yet voice-enabled interfaces are becoming common. This exploratory study investigated how introductory programming students interact with Prompt Problems \u2014 tasks requiring natural-language prompts to generate corre",
     "url": "pages/voice-text-prompt-problems-computing-education.html"

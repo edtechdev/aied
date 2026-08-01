@@ -3,7 +3,7 @@ title: "Teacher AI Competency"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [teacher-development, ai-literacy, faculty-development, k-12]
+tags: [ai-literacy, faculty-development, k-12, teacher-professional-development]
 sources: [2601.06101, 2602.16033]
 confidence: high
 ---
