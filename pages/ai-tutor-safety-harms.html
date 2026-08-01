@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -36,19 +54,72 @@
     <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2603.17373">arXiv:2603.17373</a> · <a href="raw/papers/hazra-safetutors-pedagogical-safety-2026.md">local</a></p><p>> "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that <strong>all tested models show broad pedagogical harm</strong>, with failures escalating from <strong>17.7% in single-turn to 77.8% in multi-turn</strong> student-tutor dialogue.^<a href="hazra-safetutors-pedagogical-safety-2026.html">hazra-safetutors-pedagogical-safety-2026</a></p><p><h2>Why Tutoring Safety Is Different</h2></p><p>Conventional LLM safety benchmarks focus on toxic outputs, jailbreaks, and bias. In education, the primary risks are quieter:</p><p><ul><li><strong>Answer over-disclosure</strong> — Revealing solutions rather than facilitating guided discovery</li></ul>
 <ul><li><strong>Misconception reinforcement</strong> — Validating or ignoring student misunderstandings</li></ul>
 <ul><li><strong>Abdication of scaffolding</strong> — Failing to provide appropriate structured support</li></ul>
-<ul><li><strong>Erosion of productive struggle</strong> — Short-circuiting the cognitive work that consolidates understanding</li></ul></p><p>These harms appear "helpful" to surface inspection: the student gets a correct answer quickly. But the long-term effect is learning atrophy.</p><p><h2>The SafeTutors Risk Taxonomy</h2></p><p>Hazra et al. (2026) derive <strong>11 harm dimensions and 48 sub-risks</strong> from learning-science literature:</p><p>| Dimension | Core Concern | Key Examples |
-|-----------|--------------|--------------|
-| <strong>Cognitive</strong> | Interferes with knowledge internalization | Cognitive offloading, fluency illusion, shallow procedural learning |
-| <strong>Epistemic</strong> | Weakens justification/evaluation ability | Unverified authority, source opaqueness, false consensus |
-| <strong>Metacognitive</strong> | Erods monitoring and self-reflection | External validation dependence, reflection bypass, learned helplessness |
-| <strong>Motivational-Affective</strong> | Undermines curiosity and persistence | Shortcut temptation, performance-over-mastery, emotional disengagement |
-| <strong>Developmental & Equity</strong> | Fails to calibrate to learner level | Cognitive load mismatch, unequal benefit, cultural bias |
-| <strong>Instructional Alignment</strong> | Departs from learning goals | Pedagogical drift, goal misidentification, hidden curriculum |
-| <strong>Behavioral & Inquiry</strong> | Enables shortcuts/dishonesty | Answer-seeking bypass, assignment outsourcing |
-| <strong>Ethical-Epistemic Integrity</strong> | Compromises intellectual ownership | Blurred authorship, misrepresentation of understanding |
-| <strong>Informational-Semantic</strong> | Embeds factual inaccuracies | Fabrication, misleading scientific explanation |
-| <strong>Reflective-Critical</strong> | Suppresses evidence-weighing | Over-smooth acceptance, no metacognitive challenge |
-| <strong>Pedagogical Relationship</strong> | Dysfunctional learner-system dynamic | Over-trust in AI authority, loss of learner agency |</p><p><h2>Critical Findings</h2></p><p>1. <strong>Universal harm:</strong> All 11 tested models (3.8B–72B open-weight + GPT-5-mini) exhibited broad pedagogical harm
+<ul><li><strong>Erosion of productive struggle</strong> — Short-circuiting the cognitive work that consolidates understanding</li></ul></p><p>These harms appear "helpful" to surface inspection: the student gets a correct answer quickly. But the long-term effect is learning atrophy.</p><p><h2>The SafeTutors Risk Taxonomy</h2></p><p>Hazra et al. (2026) derive <strong>11 harm dimensions and 48 sub-risks</strong> from learning-science literature:</p><table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Core Concern</th>
+<th>Key Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cognitive</strong></td>
+<td>Interferes with knowledge internalization</td>
+<td>Cognitive offloading, fluency illusion, shallow procedural learning</td>
+</tr>
+<tr>
+<td><strong>Epistemic</strong></td>
+<td>Weakens justification/evaluation ability</td>
+<td>Unverified authority, source opaqueness, false consensus</td>
+</tr>
+<tr>
+<td><strong>Metacognitive</strong></td>
+<td>Erods monitoring and self-reflection</td>
+<td>External validation dependence, reflection bypass, learned helplessness</td>
+</tr>
+<tr>
+<td><strong>Motivational-Affective</strong></td>
+<td>Undermines curiosity and persistence</td>
+<td>Shortcut temptation, performance-over-mastery, emotional disengagement</td>
+</tr>
+<tr>
+<td><strong>Developmental & Equity</strong></td>
+<td>Fails to calibrate to learner level</td>
+<td>Cognitive load mismatch, unequal benefit, cultural bias</td>
+</tr>
+<tr>
+<td><strong>Instructional Alignment</strong></td>
+<td>Departs from learning goals</td>
+<td>Pedagogical drift, goal misidentification, hidden curriculum</td>
+</tr>
+<tr>
+<td><strong>Behavioral & Inquiry</strong></td>
+<td>Enables shortcuts/dishonesty</td>
+<td>Answer-seeking bypass, assignment outsourcing</td>
+</tr>
+<tr>
+<td><strong>Ethical-Epistemic Integrity</strong></td>
+<td>Compromises intellectual ownership</td>
+<td>Blurred authorship, misrepresentation of understanding</td>
+</tr>
+<tr>
+<td><strong>Informational-Semantic</strong></td>
+<td>Embeds factual inaccuracies</td>
+<td>Fabrication, misleading scientific explanation</td>
+</tr>
+<tr>
+<td><strong>Reflective-Critical</strong></td>
+<td>Suppresses evidence-weighing</td>
+<td>Over-smooth acceptance, no metacognitive challenge</td>
+</tr>
+<tr>
+<td><strong>Pedagogical Relationship</strong></td>
+<td>Dysfunctional learner-system dynamic</td>
+<td>Over-trust in AI authority, loss of learner agency</td>
+</tr>
+</tbody>
+</table><p><h2>Critical Findings</h2></p><p>1. <strong>Universal harm:</strong> All 11 tested models (3.8B–72B open-weight + GPT-5-mini) exhibited broad pedagogical harm
 2. <strong>Scale is not a fix:</strong> Larger models were not reliably safer; raw helpfulness correlates weakly with pedagogical safety
 3. <strong>Multi-turn degradation:</strong> Harm rates rose from 17.7% (single-turn) to <strong>77.8% (multi-turn)</strong>, showing that sustained tutoring interaction progressively erodes safety
 4. <strong>Discipline-aware mitigations needed:</strong> Harms varied significantly across math, physics, and chemistry

@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -33,10 +51,27 @@
         <h1>"Daily Digest: 2026-06-11"</h1>
         <div class="metadata">Created: 2026-06-11 | Tags: <a href="../tags/digest.html" class="tag">digest</a><a href="../tags/daily.html" class="tag">daily</a></div>
     </header>
-    <main class="container"><p><h2>New Papers Ingested (2)</h2></p><p>| Paper | Authors | Slug |
-|-------|---------|------|
-| The Environmental Cost of LLMs in AIED: Reporting and Practices | Eimler et al. | <a href="aied-carbon-footprint-reporting.html">aied-carbon-footprint-reporting</a> |
-| Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning | Mittal, Blodgett & Liao | <a href="learning-by-chatting-genai-impact.html">learning-by-chatting-genai-impact</a> |</p><p><h2>Source Status</h2>
+    <main class="container"><p><h2>New Papers Ingested (2)</h2></p><table>
+<thead>
+<tr>
+<th>Paper</th>
+<th>Authors</th>
+<th>Slug</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The Environmental Cost of LLMs in AIED: Reporting and Practices</td>
+<td>Eimler et al.</td>
+<td><a href="aied-carbon-footprint-reporting.html">aied-carbon-footprint-reporting</a></td>
+</tr>
+<tr>
+<td>Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning</td>
+<td>Mittal, Blodgett & Liao</td>
+<td><a href="learning-by-chatting-genai-impact.html">learning-by-chatting-genai-impact</a></td>
+</tr>
+</tbody>
+</table><p><h2>Source Status</h2>
 <ul><li>arXiv cs.CY: ✓ 1 new paper</li></ul>
 <ul><li>arXiv cs.HC: ✓ 1 new paper (cross-listed)</li></ul>
 <ul><li>Semantic Scholar: ✓ 1 old result (pre-June 9, skipped)</li></ul>

@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -33,15 +51,44 @@
         <h1>AI-Generated Lesson Plans in Civic Education</h1>
         <div class="metadata">Created: 2026-05-09 | Tags: <a href="../tags/k-12.html" class="tag">k-12</a><a href="../tags/ai-literacy.html" class="tag">ai-literacy</a><a href="../tags/teacher-role.html" class="tag">teacher-role</a><a href="../tags/formative-assessment.html" class="tag">formative-assessment</a><a href="../tags/equity.html" class="tag">equity</a></div>
     </header>
-    <main class="container"><p>> 📄 Full text: <a href="https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/">CITE Journal</a> · <a href="raw/articles/civic-education-ai-lesson-plans.md">local</a></p><p>> Large-scale empirical evaluation of AI-generated civics lesson plans reveals that without teacher revision, AI tools overwhelmingly produce lower-order thinking activities and monocultural content — fundamentally at odds with the goals of civic education.</p><p><h2>The Study</h2></p><p><strong>Trust et al. (2025)</strong> analyzed 310 AI-generated lesson plans (2,230 individual activities) produced by ChatGPT (GPT-4o), Gemini (1.5 Flash), and Copilot (GPT-4 based) for all 53 Massachusetts eighth-grade civics standards. Each standard received two prompts: a basic "write a lesson plan" and a "highly interactive" variant.</p><p><h2>Key Findings</h2></p><p><h3>Lower-Order Thinking Dominates</h3></p><p>Using <strong>Bloom's Revised Taxonomy</strong>:</p><p>| Level | Share |
-|-------|-------|
-| Remember | 45% |
-| Understand | 21% |
-| Apply | 24% |
-| <strong>Subtotal (lower-order)</strong> | <strong>90%</strong> |
-| Analyze | 4% |
-| Evaluate | 2% |
-| Create | 4% |</p><p><strong>90% of activities</strong> demanded only recall, comprehension, or simple application. Activities like "write definitions," "list three facts," and "answer comprehension questions" were pervasive. Even prompting for "highly interactive" lessons made minimal difference.</p><p><h3>Near-Total Absence of Multicultural Content</h3></p><p>Using <strong>Banks' Four Levels of Integration of Multicultural Content</strong>:</p><p><ul><li><strong>94% of activities</strong> contained no discernible multicultural content (2,086 of 2,230).</li></ul>
+    <main class="container"><p>> 📄 Full text: <a href="https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/">CITE Journal</a> · <a href="raw/articles/civic-education-ai-lesson-plans.md">local</a></p><p>> Large-scale empirical evaluation of AI-generated civics lesson plans reveals that without teacher revision, AI tools overwhelmingly produce lower-order thinking activities and monocultural content — fundamentally at odds with the goals of civic education.</p><p><h2>The Study</h2></p><p><strong>Trust et al. (2025)</strong> analyzed 310 AI-generated lesson plans (2,230 individual activities) produced by ChatGPT (GPT-4o), Gemini (1.5 Flash), and Copilot (GPT-4 based) for all 53 Massachusetts eighth-grade civics standards. Each standard received two prompts: a basic "write a lesson plan" and a "highly interactive" variant.</p><p><h2>Key Findings</h2></p><p><h3>Lower-Order Thinking Dominates</h3></p><p>Using <strong>Bloom's Revised Taxonomy</strong>:</p><table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Share</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Remember</td>
+<td>45%</td>
+</tr>
+<tr>
+<td>Understand</td>
+<td>21%</td>
+</tr>
+<tr>
+<td>Apply</td>
+<td>24%</td>
+</tr>
+<tr>
+<td><strong>Subtotal (lower-order)</strong></td>
+<td><strong>90%</strong></td>
+</tr>
+<tr>
+<td>Analyze</td>
+<td>4%</td>
+</tr>
+<tr>
+<td>Evaluate</td>
+<td>2%</td>
+</tr>
+<tr>
+<td>Create</td>
+<td>4%</td>
+</tr>
+</tbody>
+</table><p><strong>90% of activities</strong> demanded only recall, comprehension, or simple application. Activities like "write definitions," "list three facts," and "answer comprehension questions" were pervasive. Even prompting for "highly interactive" lessons made minimal difference.</p><p><h3>Near-Total Absence of Multicultural Content</h3></p><p>Using <strong>Banks' Four Levels of Integration of Multicultural Content</strong>:</p><p><ul><li><strong>94% of activities</strong> contained no discernible multicultural content (2,086 of 2,230).</li></ul>
 <ul><li>Of the 144 activities that did, 137 were at the lowest "Additive" level (mentioning diverse figures without restructuring curriculum).</li></ul>
 <ul><li>Only <strong>1 activity</strong> reached "Transformation" (restructuring the curriculum to include diverse perspectives).</li></ul>
 <ul><li><strong>Zero activities</strong> reached "Social Action" (empowering students to address social issues).</li></ul></p><p>This is especially damning for <em>civic education</em>, where multicultural perspectives and critical engagement with power structures are essential learning goals.</p><p><h3>Formulaic Outputs Across All Chatbots</h3></p><p>All three chatbots produced structurally identical lesson plans: Introduction → Activities 1-4 → Conclusion → Assessment → Extension → Homework. This factory-line format was applied regardless of whether the standard addressed constitutional principles, civil rights, or local government — homogenization that strips away the disciplinary texture of civic education.</p><p><h2>Implications for AI in Education</h2></p><p><h3>The "Trust But Verify" Mandate</h3></p><p>This study provides concrete evidence for why <a href="ai-literacy.html">AI literacy for teachers</a> is not optional — it's a prerequisite. AI tools reliably produce <em>plausible-looking</em> but pedagogically impoverished lesson plans. Teachers must:

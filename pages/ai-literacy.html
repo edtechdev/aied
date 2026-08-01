@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -33,26 +51,92 @@
         <h1>AI Literacy</h1>
         <div class="metadata">Created: 2026-05-07 | Tags: <a href="../tags/ai-literacy.html" class="tag">ai-literacy</a><a href="../tags/higher-ed.html" class="tag">higher-ed</a><a href="../tags/k-12.html" class="tag">k-12</a><a href="../tags/policy-maker.html" class="tag">policy-maker</a><a href="../tags/active-learning.html" class="tag">active-learning</a><a href="../tags/collaborative-ai-tutoring.html" class="tag">collaborative-ai-tutoring</a></div>
     </header>
-    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2508.15111v1">arXiv:2508.15111</a> · <a href="raw/papers/hingle-collaborative-ai-literacy-2025.md">local</a> · <a href="https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf">Liverpool Repository</a> · <a href="raw/articles/varga-atkins-educators-guide-multimodal-learning-genai-2025.md">local</a></p><p>> AI literacy — the knowledge and skills needed to understand, evaluate, and effectively use AI technologies — is increasingly recognized as a core competency. Collaborative learning approaches show consistent effectiveness across activities, settings, and learner groups, and the ICAP framework helps explain why.^<a href="hingle-collaborative-ai-literacy-2025.html">hingle-collaborative-ai-literacy-2025</a></p><p><h2>The ICAP Framework</h2></p><p>Chi & Wylie (2014) propose that learning activities can be ordered by depth of cognitive engagement:</p><p>| Mode | Student behavior | AI literacy example |
-|---|---|---|
-| <strong>Passive</strong> | Receiving information | Watching a video about how LLMs work |
-| <strong>Active</strong> | Manipulating information | Running prompt experiments, observing outputs |
-| <strong>Constructive</strong> | Generating new ideas | Designing a prompt engineering task for peers |
-| <strong>Interactive</strong> | Co-constructing with others | Debating AI ethics in a group, building a shared policy |</p><p>Hingle & Johri's systematic review (9 studies, 2015–2023) found that <strong>collaborative learning activities for AI literacy included all four ICAP modes</strong>. This suggests that effective AI literacy programs should span the full engagement spectrum, not just information delivery.</p><p><h2>Collaborative Learning for AI Literacy</h2></p><p><h3>Settings and Participants</h3>
+    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2508.15111v1">arXiv:2508.15111</a> · <a href="raw/papers/hingle-collaborative-ai-literacy-2025.md">local</a> · <a href="https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf">Liverpool Repository</a> · <a href="raw/articles/varga-atkins-educators-guide-multimodal-learning-genai-2025.md">local</a></p><p>> AI literacy — the knowledge and skills needed to understand, evaluate, and effectively use AI technologies — is increasingly recognized as a core competency. Collaborative learning approaches show consistent effectiveness across activities, settings, and learner groups, and the ICAP framework helps explain why.^<a href="hingle-collaborative-ai-literacy-2025.html">hingle-collaborative-ai-literacy-2025</a></p><p><h2>The ICAP Framework</h2></p><p>Chi & Wylie (2014) propose that learning activities can be ordered by depth of cognitive engagement:</p><table>
+<thead>
+<tr>
+<th>Mode</th>
+<th>Student behavior</th>
+<th>AI literacy example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Passive</strong></td>
+<td>Receiving information</td>
+<td>Watching a video about how LLMs work</td>
+</tr>
+<tr>
+<td><strong>Active</strong></td>
+<td>Manipulating information</td>
+<td>Running prompt experiments, observing outputs</td>
+</tr>
+<tr>
+<td><strong>Constructive</strong></td>
+<td>Generating new ideas</td>
+<td>Designing a prompt engineering task for peers</td>
+</tr>
+<tr>
+<td><strong>Interactive</strong></td>
+<td>Co-constructing with others</td>
+<td>Debating AI ethics in a group, building a shared policy</td>
+</tr>
+</tbody>
+</table><p>Hingle & Johri's systematic review (9 studies, 2015–2023) found that <strong>collaborative learning activities for AI literacy included all four ICAP modes</strong>. This suggests that effective AI literacy programs should span the full engagement spectrum, not just information delivery.</p><p><h2>Collaborative Learning for AI Literacy</h2></p><p><h3>Settings and Participants</h3>
 <ul><li>Most studies: traditional <strong>classroom settings</strong></li></ul>
 <ul><li>Some broadened participation via:</li></ul>
   - <strong>Educators and families</strong> (intergenerational AI literacy)
   - <strong>AI agents supporting teamwork</strong> (human-AI collaborative learning)</p><p><h3>Key Insight</h3>
-Collaborative learning was effective across diverse contexts, but the mechanism was not uniform collaboration per se — it was the <strong>ICAP depth</strong> of the collaborative activity. Interactive (co-constructive) activities produced stronger literacy outcomes than Active or Passive ones.</p><p><h2>Relationship to AI-in-Ed Research</h2></p><p>| AI literacy application | Wiki connection |
-|---|---|
-| Understanding how tutoring AI works | <a href="tutoring-specific-vs-general-ai.html">tutoring-specific-vs-general-ai</a> — students should know whether they're interacting with a general LLM or pedagogically optimized system |
-| Evaluating AI feedback quality | <a href="ai-peer-feedback-systems.html">ai-peer-feedback-systems</a>, <a href="formative-assessment.html">formative-assessment</a> — literacy to assess whether AI-generated feedback is useful |
-| Prompt engineering as constructive activity | <a href="pedagogical-llm-training.html">pedagogical-llm-training</a> — reverse-engineering effective tutoring behavior |
-| AI ethics and policy co-construction | <a href="faculty-development-genai.html">faculty-development-genai</a>, <a href="authentic-assessment.html">authentic-assessment</a> — institutional literacy for governance |</p><p><h2>Multimodal AI Literacy Levels (Varga-Atkins et al., 2025)</h2></p><p>The Educators' Guide distinguishes three operational levels of multimodal GenAI literacy:</p><p>| Level | Capabilities | Example Activities |
-|-------|-------------|-------------------|
-| <strong>Basic</strong> | Awareness of multimodal GenAI platforms, capabilities, and appropriate uses | Creating prompts; generating visual outputs; understanding platform limitations |
-| <strong>Intermediate</strong> | Co-create multimodal content; critically evaluate outputs; scaffold uses for peers | Transforming lecture notes into visuals or podcasts; annotating AI-generated essays or images for bias |
-| <strong>Advanced</strong> | Design activities/assessments incorporating multimodal GenAI; lead ethical/philosophical discussions | Redesigning a module to include GenAI co-creation; institutional policy drafting; graduate attribute alignment |</p><p>These levels operate across <strong>four scales</strong>:
+Collaborative learning was effective across diverse contexts, but the mechanism was not uniform collaboration per se — it was the <strong>ICAP depth</strong> of the collaborative activity. Interactive (co-constructive) activities produced stronger literacy outcomes than Active or Passive ones.</p><p><h2>Relationship to AI-in-Ed Research</h2></p><table>
+<thead>
+<tr>
+<th>AI literacy application</th>
+<th>Wiki connection</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Understanding how tutoring AI works</td>
+<td><a href="tutoring-specific-vs-general-ai.html">tutoring-specific-vs-general-ai</a> — students should know whether they're interacting with a general LLM or pedagogically optimized system</td>
+</tr>
+<tr>
+<td>Evaluating AI feedback quality</td>
+<td><a href="ai-peer-feedback-systems.html">ai-peer-feedback-systems</a>, <a href="formative-assessment.html">formative-assessment</a> — literacy to assess whether AI-generated feedback is useful</td>
+</tr>
+<tr>
+<td>Prompt engineering as constructive activity</td>
+<td><a href="pedagogical-llm-training.html">pedagogical-llm-training</a> — reverse-engineering effective tutoring behavior</td>
+</tr>
+<tr>
+<td>AI ethics and policy co-construction</td>
+<td><a href="faculty-development-genai.html">faculty-development-genai</a>, <a href="authentic-assessment.html">authentic-assessment</a> — institutional literacy for governance</td>
+</tr>
+</tbody>
+</table><p><h2>Multimodal AI Literacy Levels (Varga-Atkins et al., 2025)</h2></p><p>The Educators' Guide distinguishes three operational levels of multimodal GenAI literacy:</p><table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Capabilities</th>
+<th>Example Activities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Basic</strong></td>
+<td>Awareness of multimodal GenAI platforms, capabilities, and appropriate uses</td>
+<td>Creating prompts; generating visual outputs; understanding platform limitations</td>
+</tr>
+<tr>
+<td><strong>Intermediate</strong></td>
+<td>Co-create multimodal content; critically evaluate outputs; scaffold uses for peers</td>
+<td>Transforming lecture notes into visuals or podcasts; annotating AI-generated essays or images for bias</td>
+</tr>
+<tr>
+<td><strong>Advanced</strong></td>
+<td>Design activities/assessments incorporating multimodal GenAI; lead ethical/philosophical discussions</td>
+<td>Redesigning a module to include GenAI co-creation; institutional policy drafting; graduate attribute alignment</td>
+</tr>
+</tbody>
+</table><p>These levels operate across <strong>four scales</strong>:
 <ul><li><strong>Individual</strong> (student workshops, reflective assignments)</li></ul>
 <ul><li><strong>Module</strong> (embedded learning outcomes, optional tasks with rubrics)</li></ul>
 <ul><li><strong>Programme</strong> (cross-module policies, consistent guidance, alignment with graduate attributes)</li></ul>

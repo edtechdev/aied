@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -36,12 +54,32 @@
     <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.04740">arXiv:2605.04740</a> · <a href="raw/papers/becerra-aicofe-feedback-2026.md">local</a></p><p>> Student peer feedback is often superficial or inconsistent. <strong>AICoFe</strong> (AI-based Collaborative Feedback) uses a multi-LLM pipeline (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate diverse perspectives on student presentations, but the critical design feature is <strong>teacher-in-the-loop mediation</strong>—educators curate and compose final feedback before delivery.^<a href="becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><p><h2>The Problem</h2></p><p>Peer feedback develops critical reflection and evaluative judgment, yet:
 <ul><li>Students have limited <strong>feedback literacy</strong></li></ul>
 <ul><li>Generated comments are often superficial or lack actionability</li></ul>
-<ul><li>Quality is inconsistent across evaluators</li></ul></p><p>AI-generated feedback alone risks replacing shallow peer comments with shallow AI comments. AICoFe addresses this by treating AI as a <strong>draft generator</strong>, not a final deliverer.</p><p><h2>System Architecture</h2></p><p><strong>Four components:</strong>^<a href="becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><p>| Module | Purpose |
-|--------|---------|
-| <strong>Visualization</strong> | Role-specific dashboards (student, teacher, evaluator) |
-| <strong>Management</strong> | Hybrid SQL + MongoDB data infrastructure |
-| <strong>Feedback Generation</strong> | Multi-LLM pipeline synthesizing rubric scores + qualitative comments |
-| <strong>Recording</strong> | Video/audio capture of student presentations (opt-in, GDPR-compliant) |</p><p><h2>The Multi-LLM Pipeline</h2></p><p>Three independently fine-tuned models receive:
+<ul><li>Quality is inconsistent across evaluators</li></ul></p><p>AI-generated feedback alone risks replacing shallow peer comments with shallow AI comments. AICoFe addresses this by treating AI as a <strong>draft generator</strong>, not a final deliverer.</p><p><h2>System Architecture</h2></p><p><strong>Four components:</strong>^<a href="becerra-aicofe-feedback-2026.html">becerra-aicofe-feedback-2026</a></p><table>
+<thead>
+<tr>
+<th>Module</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Visualization</strong></td>
+<td>Role-specific dashboards (student, teacher, evaluator)</td>
+</tr>
+<tr>
+<td><strong>Management</strong></td>
+<td>Hybrid SQL + MongoDB data infrastructure</td>
+</tr>
+<tr>
+<td><strong>Feedback Generation</strong></td>
+<td>Multi-LLM pipeline synthesizing rubric scores + qualitative comments</td>
+</tr>
+<tr>
+<td><strong>Recording</strong></td>
+<td>Video/audio capture of student presentations (opt-in, GDPR-compliant)</td>
+</tr>
+</tbody>
+</table><p><h2>The Multi-LLM Pipeline</h2></p><p>Three independently fine-tuned models receive:
 <ul><li>Quantitative rubric scores</li></ul>
 <ul><li>Validated qualitative observations from evaluators</li></ul>
 <ul><li>Rubric level descriptions</li></ul>

@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -35,12 +53,37 @@
     </header>
     <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.04131">arXiv:2605.04131</a> · <a href="raw/papers/syal-multimodal-dialogue-stem-2026.md">local</a></p><p>> General-purpose LLMs achieve near-ceiling accuracy (~96%) on text-only physics problems, but accuracy drops to <strong>~74%</strong> on image-rich multimodal problems due to the <strong>Multimodal Interference Effect</strong>. A simple structured dialogue intervention—requiring no retraining—recovers performance to <strong>95%</strong>.^<a href="syal-multimodal-dialogue-stem-2026.html">syal-multimodal-dialogue-stem-2026</a></p><p><h2>The Multimodal Interference Effect</h2></p><p>When LLMs process STEM problems that require interpreting diagrams, graphs, or schematics alongside text, their accuracy degrades substantially. This effect is:</p><p><ul><li><strong>Consistent across models:</strong> Claude, Gemini, and ChatGPT all showed the drop</li></ul>
 <ul><li><strong>Dominantly visual:</strong> Visual Processing Errors were the most prevalent failure mode</li></ul>
-<ul><li><strong>An equity concern:</strong> Students working on image-rich problems—often those most needing support—receive less reliable AI assistance</li></ul></p><p><h2>Error Taxonomy</h2></p><p>Syal et al. (2026) identified four empirically-derived failure modes on OpenStax physics problems:</p><p>| Category | Prevalence | Definition |
-|----------|-----------|------------|
-| <strong>Visual Processing Errors</strong> | Highest | Failures to extract information from graphs, diagrams, or images |
-| <strong>Context Misinterpretation</strong> | Moderate | Wrong physics concepts or problem framing assumptions |
-| <strong>Mathematical Computation Errors</strong> | Low | Calculation or unit errors |
-| <strong>Hybrid Errors</strong> | Moderate | Combinations of the above |</p><p><em>Note: Visual and Hybrid errors appeared only in multimodal (not text-only) problems.</em>^<a href="syal-multimodal-dialogue-stem-2026.html">syal-multimodal-dialogue-stem-2026</a></p><p><h2>The Structured Dialogue Intervention</h2></p><p>A three-step scaffolding protocol corrected <strong>82% of all errors</strong> and <strong>100% of Visual Processing Errors</strong>:</p><p>1. <strong>Elicit visual description:</strong> <em>"Describe what you observe in the figure/graph"</em>
+<ul><li><strong>An equity concern:</strong> Students working on image-rich problems—often those most needing support—receive less reliable AI assistance</li></ul></p><p><h2>Error Taxonomy</h2></p><p>Syal et al. (2026) identified four empirically-derived failure modes on OpenStax physics problems:</p><table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Prevalence</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Visual Processing Errors</strong></td>
+<td>Highest</td>
+<td>Failures to extract information from graphs, diagrams, or images</td>
+</tr>
+<tr>
+<td><strong>Context Misinterpretation</strong></td>
+<td>Moderate</td>
+<td>Wrong physics concepts or problem framing assumptions</td>
+</tr>
+<tr>
+<td><strong>Mathematical Computation Errors</strong></td>
+<td>Low</td>
+<td>Calculation or unit errors</td>
+</tr>
+<tr>
+<td><strong>Hybrid Errors</strong></td>
+<td>Moderate</td>
+<td>Combinations of the above</td>
+</tr>
+</tbody>
+</table><p><em>Note: Visual and Hybrid errors appeared only in multimodal (not text-only) problems.</em>^<a href="syal-multimodal-dialogue-stem-2026.html">syal-multimodal-dialogue-stem-2026</a></p><p><h2>The Structured Dialogue Intervention</h2></p><p>A three-step scaffolding protocol corrected <strong>82% of all errors</strong> and <strong>100% of Visual Processing Errors</strong>:</p><p>1. <strong>Elicit visual description:</strong> <em>"Describe what you observe in the figure/graph"</em>
 2. <strong>Correct observable elements:</strong> Clarify visual properties (e.g., vector direction, graph intercept) <strong>without providing physics principles or formulas</strong>
 3. <strong>Re-prompt for solution:</strong> <em>"Solve the problem"</em></p><p>This relies purely on prompt design—no model retraining, no specialized benchmarks, no GPU access required. Under-resourced institutions can implement it immediately.</p><p><h2>Relationship to Tutoring-Specific Design</h2></p><p>The structured dialogue intervention is structurally similar to <a href="tutoring-specific-vs-general-ai.html">tutoring-specific guardrails</a>: it forces the LLM to reason step-by-step rather than jumping to answers. It also preserves productive cognitive load by making the student (or in this case, the LLM) attend to visual structure before solving.^<a href="syal-multimodal-dialogue-stem-2026.html">syal-multimodal-dialogue-stem-2026</a></p><p><h2>Implications</h2></p><p><ul><li><strong>For STEM educators:</strong> Image-rich problems remain a high-risk use case for raw LLM tutoring; structured prompting protocols dramatically improve reliability</li></ul>
 <ul><li><strong>For tool designers:</strong> Visual reasoning pipelines should not be treated as a solved capability; interface-level scaffolding may matter as much as model scale</li></ul>

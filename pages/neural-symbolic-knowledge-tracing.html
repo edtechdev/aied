@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -36,13 +54,36 @@
     <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2604.08263">arXiv:2604.08263</a> · <a href="raw/papers/2604.08263.md">local</a></p><p>> Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems.</p><p><h2>The Problem with Pure Neural Approaches</h2></p><p><strong>Hooshyar et al. (2026)</strong> identify key limitations in both LLM-based tutoring and conventional Deep Knowledge Tracing (DKT):</p><p><ul><li><strong>Limited adaptivity:</strong> LLMs struggle to model learners' <em>evolving knowledge over time</em> — they respond to individual turns rather than tracking skill mastery across sessions.</li></ul>
 <ul><li><strong>Black-box opacity:</strong> Deep learning models (LSTM/Transformer-based DKT) lack interpretable learner state representations, making it impossible to audit <em>why</em> a student is flagged as struggling.</li></ul>
 <ul><li><strong>Spurious correlations:</strong> Purely data-driven models can latch onto surface patterns (session length, interaction frequency) rather than genuine learning signals.</li></ul>
-<ul><li><strong>Temporal instability:</strong> Conventional DKT produces <strong>prediction inconsistency rates of 0.075–0.138</strong>, meaning predictions frequently "flip-flop" between correct/incorrect as new responses arrive — undermining trust.</li></ul></p><p><h2>The Responsible-DKT Model</h2></p><p>Hooshyar et al. propose <strong>Responsible-DKT</strong>, a neural-symbolic architecture built on the <strong>Lifted Relational Neural Networks (LRNN)</strong> paradigm using <strong>PyNeuraLogic</strong>. The key innovation: symbolic educational knowledge is injected as <em>learnable weighted rules</em> that <strong>modulate</strong> (not override) neural predictions.</p><p><h3>Architecture</h3></p><p>| Component | Detail |
-|-----------|--------|
-| <strong>Embeddings</strong> | Learnable vectors for quiz, skill, correctness (dim=16) |
-| <strong>Combined rep</strong> | Weighted sum of embeddings + sigmoid activation |
-| <strong>Recurrent core</strong> | Two-layer RNN with temporal shift (prediction at <em>t</em> uses only past interactions) |
-| <strong>Symbolic rules</strong> | Three rules with learnable weights, wired into the computation graph |
-| <strong>Output</strong> | Sigmoid over hidden state + target embedding → ŷ_{t+1} |</p><p><h3>Injected Educational Knowledge (Symbolic Rules)</h3></p><p>1. <strong>mastered rule:</strong> Two consecutive correct responses on the same skill/quiz → increases prediction confidence. Encodes the pedagogical assumption that sustained correctness signals mastery.
+<ul><li><strong>Temporal instability:</strong> Conventional DKT produces <strong>prediction inconsistency rates of 0.075–0.138</strong>, meaning predictions frequently "flip-flop" between correct/incorrect as new responses arrive — undermining trust.</li></ul></p><p><h2>The Responsible-DKT Model</h2></p><p>Hooshyar et al. propose <strong>Responsible-DKT</strong>, a neural-symbolic architecture built on the <strong>Lifted Relational Neural Networks (LRNN)</strong> paradigm using <strong>PyNeuraLogic</strong>. The key innovation: symbolic educational knowledge is injected as <em>learnable weighted rules</em> that <strong>modulate</strong> (not override) neural predictions.</p><p><h3>Architecture</h3></p><table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Embeddings</strong></td>
+<td>Learnable vectors for quiz, skill, correctness (dim=16)</td>
+</tr>
+<tr>
+<td><strong>Combined rep</strong></td>
+<td>Weighted sum of embeddings + sigmoid activation</td>
+</tr>
+<tr>
+<td><strong>Recurrent core</strong></td>
+<td>Two-layer RNN with temporal shift (prediction at <em>t</em> uses only past interactions)</td>
+</tr>
+<tr>
+<td><strong>Symbolic rules</strong></td>
+<td>Three rules with learnable weights, wired into the computation graph</td>
+</tr>
+<tr>
+<td><strong>Output</strong></td>
+<td>Sigmoid over hidden state + target embedding → ŷ_{t+1}</td>
+</tr>
+</tbody>
+</table><p><h3>Injected Educational Knowledge (Symbolic Rules)</h3></p><p>1. <strong>mastered rule:</strong> Two consecutive correct responses on the same skill/quiz → increases prediction confidence. Encodes the pedagogical assumption that sustained correctness signals mastery.
 2. <strong>not_mastered rule:</strong> Three incorrect responses on the same skill/quiz → decreases prediction confidence. Encodes the assumption that repeated failure is a stronger signal — the paper found this rule <strong>dominates</strong> prediction updates.
 3. <strong>avg_embed rule:</strong> Historical aggregation of past embeddings for the same skill/quiz — provides a long-run average representation of the student's relationship to a knowledge component.</p><p><h3>Baselines</h3></p><p><ul><li><strong>BaseNS-DKT:</strong> Identical neural-symbolic architecture but <em>without</em> the educational knowledge rules — isolates the value of symbolic injection.</li></ul>
 <ul><li><strong>PyTorch DKT:</strong> Fully data-driven DKT — represents the conventional black-box approach.</li></ul></p><p><h2>Key Findings</h2></p><p><h3>Data Efficiency (RQ1)</h3>

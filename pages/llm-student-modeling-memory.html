@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -46,12 +64,32 @@ Post-response memory and personality maintenance:
   - <em>Core memory:</em> Foundational attributes (latest version only)
   - <em>Semantic memory:</em> Event-independent knowledge, updated every turn
   - <em>Episodic memory:</em> Time-stamped events with summaries
-  - <em>Procedural memory:</em> Goals, habits, recurring behaviors</p><p><h2>Relevance to AI in Education</h2></p><p>While PersonaVLM was evaluated on general assistant tasks, its architecture addresses a gap in educational AI: <strong>most tutoring systems lack longitudinal student memory</strong>. The implications are:</p><p>| Educational Need | PersonaVLM Mapping |
-|---|---|
-| Persistent learner profile across sessions | Core memory + procedural memory |
-| Evolving preference for explanation style | Semantic memory + PEM personality alignment |
-| Remembering past misconceptions | Episodic memory with time-stamped retrieval |
-| Calibrating to emotional state (frustration, motivation) | PEM neuroticism/extraversion tracking |</p><p><h3>Connection to Existing Tutoring Research</h3></p><p><ul><li><a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a> provides real-time ability estimation but is session-constrained; integrating chronological episodic memory (as in PersonaVLM) could enable longitudinal knowledge modeling</li></ul>
+  - <em>Procedural memory:</em> Goals, habits, recurring behaviors</p><p><h2>Relevance to AI in Education</h2></p><p>While PersonaVLM was evaluated on general assistant tasks, its architecture addresses a gap in educational AI: <strong>most tutoring systems lack longitudinal student memory</strong>. The implications are:</p><table>
+<thead>
+<tr>
+<th>Educational Need</th>
+<th>PersonaVLM Mapping</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Persistent learner profile across sessions</td>
+<td>Core memory + procedural memory</td>
+</tr>
+<tr>
+<td>Evolving preference for explanation style</td>
+<td>Semantic memory + PEM personality alignment</td>
+</tr>
+<tr>
+<td>Remembering past misconceptions</td>
+<td>Episodic memory with time-stamped retrieval</td>
+</tr>
+<tr>
+<td>Calibrating to emotional state (frustration, motivation)</td>
+<td>PEM neuroticism/extraversion tracking</td>
+</tr>
+</tbody>
+</table><p><h3>Connection to Existing Tutoring Research</h3></p><p><ul><li><a href="knowledge-tracing-irt.html">knowledge-tracing-irt</a> provides real-time ability estimation but is session-constrained; integrating chronological episodic memory (as in PersonaVLM) could enable longitudinal knowledge modeling</li></ul>
 <ul><li><a href="self-regulated-learning.html">self-regulated-learning</a> frameworks identify regulation phases (planning, monitoring, reflection) that could map to Core/Procedural/Episodic memory types</li></ul>
 <ul><li><a href="tutoring-specific-vs-general-ai.html">tutoring-specific design</a> requires maintaining pedagogical guardrails even as the system personalizes; PersonaVLM's alignment mechanism could be constrained to educational (not just social) personality dimensions</li></ul></p><p><h2>Limitations for Education</h2></p><p>1. <strong>No educational evaluation:</strong> Persona-MME benchmark tests general personal assistant scenarios, not tutoring
 2. <strong>Privacy concerns in K-12:</strong> Longitudinal student memory raises FERPA/COPPA questions; PersonaVLM's self-contained pipeline (no API dependency) mitigates this but local deployment remains infrastructure-heavy

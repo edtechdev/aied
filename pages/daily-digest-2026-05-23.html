@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -33,12 +51,37 @@
         <h1>"Daily Digest: 2026-05-23"</h1>
         <div class="metadata">Created: 2026-05-23 | Tags: <a href="../tags/generative-ai.html" class="tag">generative-ai</a><a href="../tags/over-reliance.html" class="tag">over-reliance</a><a href="../tags/automated-grading.html" class="tag">automated-grading</a><a href="../tags/ai-literacy.html" class="tag">ai-literacy</a><a href="../tags/stem-education.html" class="tag">stem-education</a></div>
     </header>
-    <main class="container"><p><strong>Weekend scan — no new arXiv submissions for Saturday, May 23. 3 catch-up papers ingested from Friday May 22 and earlier in the week.</strong> Wiki now at 186 pages.</p><p><h2>Source Status</h2></p><p>| Source | Status | Papers |
-|--------|--------|--------|
-| arXiv cs.CY API | ✗ HTTP 500 | Fallback to listing page ✓ |
-| arXiv cs.HC API | ✗ HTTP 500 | Fallback to listing page ✓ |
-| Semantic Scholar | ✓ | 0 new |
-| OpenAlex | ✓ | 0 new |</p><p><h2>Ingested Papers</h2></p><p><h3>1. Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems</h3>
+    <main class="container"><p><strong>Weekend scan — no new arXiv submissions for Saturday, May 23. 3 catch-up papers ingested from Friday May 22 and earlier in the week.</strong> Wiki now at 186 pages.</p><p><h2>Source Status</h2></p><table>
+<thead>
+<tr>
+<th>Source</th>
+<th>Status</th>
+<th>Papers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>arXiv cs.CY API</td>
+<td>✗ HTTP 500</td>
+<td>Fallback to listing page ✓</td>
+</tr>
+<tr>
+<td>arXiv cs.HC API</td>
+<td>✗ HTTP 500</td>
+<td>Fallback to listing page ✓</td>
+</tr>
+<tr>
+<td>Semantic Scholar</td>
+<td>✓</td>
+<td>0 new</td>
+</tr>
+<tr>
+<td>OpenAlex</td>
+<td>✓</td>
+<td>0 new</td>
+</tr>
+</tbody>
+</table><p><h2>Ingested Papers</h2></p><p><h3>1. Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems</h3>
 <strong>Rismanchian et al. (2026)</strong> — arXiv:2605.21629 — 📄 <a href="https://arxiv.org/abs/2605.21629">Full text</a></p><p><strong>Finding:</strong> First large-scale behavioral evidence (3.2M ALEKS interactions) that generative AI has reduced student study time by 27% and caused a 25% decline in proctored retention measures. The authors introduce "cognitive surrender" to describe passive, unreflective AI dependency at population scale. → <a href="generative-ai-reduced-study-time-math.html">generative-ai-reduced-study-time-math</a></p><p><h3>2. Exploring LLMs for Automated Assessment of Student Self-Explanations in Programming Education</h3>
 <strong>Lekshmi-Narayanan et al. (2026)</strong> — arXiv:2605.21614 — 📄 <a href="https://arxiv.org/abs/2605.21614">Full text</a></p><p><strong>Finding:</strong> Rigorous empirical comparison of LLM-based vs. semantic similarity methods for binary classification of student self-explanation correctness in programming education. Addresses the gap in domain-specific, balanced-class datasets for automated scoring. → <a href="llm-automated-assessment-student-self-explanations.html">llm-automated-assessment-student-self-explanations</a></p><p><h3>3. The Efficiency-Gain Illusion: People Underestimate AI Use and Overestimate Its Benefits</h3>
 <strong>Yu et al. (2026)</strong> — arXiv:2605.22687 — 📄 <a href="https://arxiv.org/abs/2605.22687">Full text</a></p><p><strong>Finding:</strong> Three preregistered studies (N=2,691) documenting systematic miscalibration: people underestimate their AI usage rate and overestimate time savings, creating a self-reinforcing overreliance feedback loop. Provides a cognitive mechanism for the over-reliance phenomenon. → <a href="efficiency-gain-illusion-ai-overreliance.html">efficiency-gain-illusion-ai-overreliance</a></p><p><h2>Already in Wiki (Skipped)</h2>

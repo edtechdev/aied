@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -36,11 +54,32 @@
     <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.00200">arXiv:2605.00200</a> · <a href="raw/papers/cong-confidence-asag-2026.md">local</a></p><p>> Zero-shot LLMs perform strongly on ASAG without task-specific fine-tuning, but <strong>model-based confidence signals alone are insufficient</strong> for reliable uncertainty quantification. A hybrid framework combining epistemic (model-derived) and aleatoric (dataset-derived) uncertainty significantly improves selective grading and calibration.^<a href="cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Why Confidence Matters</h2></p><p>Automatic Short Answer Grading (ASAG) is never perfect. Upper bounds on accuracy arise from:
 <ul><li>Linguistic variability in student responses</li></ul>
 <ul><li>Ambiguity in scoring criteria</li></ul>
-<ul><li>Inherent disagreement among human graders</li></ul></p><p>Reliable confidence estimates are therefore essential for <strong>human-in-the-loop review</strong>—flagging uncertain cases for teacher attention rather than auto-grading everything.^<a href="cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Three Model-Based Confidence Strategies</h2></p><p>All generated with <code>gpt-oss-20b</code> at temperature 0.1:</p><p>| Strategy | Mechanism | Edge Case Failure |
-|---|---|---|
-| <strong>Verbalizing</strong> | Prompt model to self-report confidence in [0,1] | Overconfident on ambiguous but plausible phrasings |
-| <strong>Latent</strong> | Softmax log-likelihood of predicted label token | Underconfident when label token probabilities are flat |
-| <strong>Consistency</strong> | Sample 5 predictions at varying temperatures; measure agreement | Fails when model is consistently wrong |</p><p>All three, when used in isolation, miss <strong>aleatoric uncertainty</strong>—ambiguity intrinsic to the data itself.^<a href="cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Aleatoric Uncertainty via Semantic Clustering</h2></p><p>To capture data-level ambiguity:</p><p>1. <strong>Embed</strong> student responses with <code>all-MiniLM-L6-v2</code>
+<ul><li>Inherent disagreement among human graders</li></ul></p><p>Reliable confidence estimates are therefore essential for <strong>human-in-the-loop review</strong>—flagging uncertain cases for teacher attention rather than auto-grading everything.^<a href="cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Three Model-Based Confidence Strategies</h2></p><p>All generated with <code>gpt-oss-20b</code> at temperature 0.1:</p><table>
+<thead>
+<tr>
+<th>Strategy</th>
+<th>Mechanism</th>
+<th>Edge Case Failure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Verbalizing</strong></td>
+<td>Prompt model to self-report confidence in [0,1]</td>
+<td>Overconfident on ambiguous but plausible phrasings</td>
+</tr>
+<tr>
+<td><strong>Latent</strong></td>
+<td>Softmax log-likelihood of predicted label token</td>
+<td>Underconfident when label token probabilities are flat</td>
+</tr>
+<tr>
+<td><strong>Consistency</strong></td>
+<td>Sample 5 predictions at varying temperatures; measure agreement</td>
+<td>Fails when model is consistently wrong</td>
+</tr>
+</tbody>
+</table><p>All three, when used in isolation, miss <strong>aleatoric uncertainty</strong>—ambiguity intrinsic to the data itself.^<a href="cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Aleatoric Uncertainty via Semantic Clustering</h2></p><p>To capture data-level ambiguity:</p><p>1. <strong>Embed</strong> student responses with <code>all-MiniLM-L6-v2</code>
 2. <strong>Cluster</strong> via agglomerative hierarchical clustering (Ward linkage) on a 10% calibration subset
 3. <strong>Quantify</strong> within-cluster label heterogeneity via normalized Shannon entropy
 4. <strong>Assign</strong> test responses to nearest cluster centroid</p><p>High-entropy clusters indicate inherently ambiguous responses (e.g., partially correct, underspecified, or stylistically unusual).^<a href="cong-confidence-asag-2026.html">cong-confidence-asag-2026</a></p><p><h2>Hybrid Confidence Fusion</h2></p><p>Feature vector per response: <code>[s^verb, s^lat, s^cons, s^alea, token_length]</code></p><p><ul><li><strong>Classifier:</strong> Random Forest (500 trees) trained on human labels</li></ul>

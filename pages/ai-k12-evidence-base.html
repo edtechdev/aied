@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -43,14 +61,40 @@
 <ul><li>15% social-emotional</li></ul></p><p>Education levels in causal papers:
 <ul><li>~45% high school (international)</li></ul>
 <ul><li>~5% postsecondary</li></ul>
-<ul><li><strong>0% U.S. K-12 students</strong></li></ul></p><p><h2>Learning Science Lens</h2></p><p>The review frames findings through six established principles. See <a href="ai-learning-transfer.html">ai-learning-transfer</a> for the critical tension between immediate performance and durable learning.</p><p>| Principle | Implication for AI Tools |
-|---|---|
-| Cognitive load | AI reduces extraneous load but may also suppress <em>germane</em> (productive) load. |
-| Zone of proximal development | General-purpose AI often operates <em>outside</em> the ZPD by completing work for students. <a href="tutoring-specific-vs-general-ai.html">Tutoring-specific scaffolds</a> target readiness more precisely. |
-| Transfer | Unclear whether AI-assisted practice produces durable knowledge or merely tool-dependent performance. |
-| Metacognition | AI completing tasks reduces opportunities for students to monitor their own understanding. |
-| Expertise reversal | Novices need guidance; experts need independence. Effective AI must adapt to learner expertise. |
-| Desirable difficulties | Easier practice with AI feels better but may weaken long-term retention. |</p><p><h2>Key Open Questions</h2></p><p>1. Do AI-assisted gains persist when the tool is removed?
+<ul><li><strong>0% U.S. K-12 students</strong></li></ul></p><p><h2>Learning Science Lens</h2></p><p>The review frames findings through six established principles. See <a href="ai-learning-transfer.html">ai-learning-transfer</a> for the critical tension between immediate performance and durable learning.</p><table>
+<thead>
+<tr>
+<th>Principle</th>
+<th>Implication for AI Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cognitive load</td>
+<td>AI reduces extraneous load but may also suppress <em>germane</em> (productive) load.</td>
+</tr>
+<tr>
+<td>Zone of proximal development</td>
+<td>General-purpose AI often operates <em>outside</em> the ZPD by completing work for students. <a href="tutoring-specific-vs-general-ai.html">Tutoring-specific scaffolds</a> target readiness more precisely.</td>
+</tr>
+<tr>
+<td>Transfer</td>
+<td>Unclear whether AI-assisted practice produces durable knowledge or merely tool-dependent performance.</td>
+</tr>
+<tr>
+<td>Metacognition</td>
+<td>AI completing tasks reduces opportunities for students to monitor their own understanding.</td>
+</tr>
+<tr>
+<td>Expertise reversal</td>
+<td>Novices need guidance; experts need independence. Effective AI must adapt to learner expertise.</td>
+</tr>
+<tr>
+<td>Desirable difficulties</td>
+<td>Easier practice with AI feels better but may weaken long-term retention.</td>
+</tr>
+</tbody>
+</table><p><h2>Key Open Questions</h2></p><p>1. Do AI-assisted gains persist when the tool is removed?
 2. Does general-purpose chatbot use widen achievement gaps?
 3. What pedagogical guardrails are necessary to preserve <a href="metacognition.html">metacognition</a>? See the new evidence from Scheu et al. (2026) that structured courses increase metacognitive competence while raw LLM assistants do not.
 4. When will the first U.S. K-12 RCTs on LLM tools emerge?</p><p><h2>Related Pages</h2>

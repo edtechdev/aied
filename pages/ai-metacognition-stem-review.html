@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -37,15 +55,57 @@
 <ul><li><strong>Dataset:</strong> 135 peer-reviewed articles (2005–2025) from Scopus and Web of Science</li></ul>
 <ul><li><strong>Core studies:</strong> 24 studies selected via PRISMA 2020 protocols for in-depth review</li></ul>
 <ul><li><strong>Methods:</strong> Bibliometric mapping (Biblioshiny, VOSviewer) + qualitative thematic synthesis</li></ul>
-<ul><li><strong>Theoretical frameworks:</strong> Flavell's metacognition theory, General Systems Theory, Human-Centered vs. Posthumanist paradigms</li></ul></p><p><h2>Key Findings</h2></p><p><h3>1. Theoretical Frameworks Evolution</h3></p><p>| Paradigm | Core Idea | AI Role |
-|-----------|-----------|---------|
-| <strong>Human-Centered</strong> (traditional) | AI supports human agency with ethical oversight | Supportive tool under teacher control |
-| <strong>Posthumanist</strong> (emerging) | Learning = co-regulated process distributed between humans and AI | AI as co-agent in reflective processes |</p><p><strong>Finding:</strong> While most research remains grounded in <strong>human-centered conceptualizations</strong>, there are emerging indications of <strong>posthumanist framings</strong> where AI systems are positioned as <strong>co-regulators of learning</strong>.</p><p><h3>2. AI Tools Scaffolding Metacognition</h3></p><p>| Tool Category | Examples | Metacognitive Function |
-|--------------|---------|----------------------|
-| <strong>Intelligent Tutoring Systems (ITS)</strong> | Carnegie Learning, ALEKS | Personalized feedback, real-time monitoring, strategic prompts |
-| <strong>Adaptive Platforms</strong> | Deep RL-based systems | Enhance metacognitive outcomes via adaptive scaffolds |
-| <strong>Learning Analytics</strong> | Dashboards, tracking tools | Externalize metacognitive processes, support reflection |
-| <strong>Generative AI</strong> | ChatGPT (GPT-4.1, 4.5, 5), conversational agents | Metacognitive prompts, chatbot feedback, ME-CoT approaches |</p><p><strong>Core shift:</strong> From <strong>individual reflection</strong> → <strong>system-level regulation and distributed cognition</strong>.</p><p><h3>3. Metacognitive Outcomes</h3></p><p>Studies consistently show AI tools improve:
+<ul><li><strong>Theoretical frameworks:</strong> Flavell's metacognition theory, General Systems Theory, Human-Centered vs. Posthumanist paradigms</li></ul></p><p><h2>Key Findings</h2></p><p><h3>1. Theoretical Frameworks Evolution</h3></p><table>
+<thead>
+<tr>
+<th>Paradigm</th>
+<th>Core Idea</th>
+<th>AI Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Human-Centered</strong> (traditional)</td>
+<td>AI supports human agency with ethical oversight</td>
+<td>Supportive tool under teacher control</td>
+</tr>
+<tr>
+<td><strong>Posthumanist</strong> (emerging)</td>
+<td>Learning = co-regulated process distributed between humans and AI</td>
+<td>AI as co-agent in reflective processes</td>
+</tr>
+</tbody>
+</table><p><strong>Finding:</strong> While most research remains grounded in <strong>human-centered conceptualizations</strong>, there are emerging indications of <strong>posthumanist framings</strong> where AI systems are positioned as <strong>co-regulators of learning</strong>.</p><p><h3>2. AI Tools Scaffolding Metacognition</h3></p><table>
+<thead>
+<tr>
+<th>Tool Category</th>
+<th>Examples</th>
+<th>Metacognitive Function</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Intelligent Tutoring Systems (ITS)</strong></td>
+<td>Carnegie Learning, ALEKS</td>
+<td>Personalized feedback, real-time monitoring, strategic prompts</td>
+</tr>
+<tr>
+<td><strong>Adaptive Platforms</strong></td>
+<td>Deep RL-based systems</td>
+<td>Enhance metacognitive outcomes via adaptive scaffolds</td>
+</tr>
+<tr>
+<td><strong>Learning Analytics</strong></td>
+<td>Dashboards, tracking tools</td>
+<td>Externalize metacognitive processes, support reflection</td>
+</tr>
+<tr>
+<td><strong>Generative AI</strong></td>
+<td>ChatGPT (GPT-4.1, 4.5, 5), conversational agents</td>
+<td>Metacognitive prompts, chatbot feedback, ME-CoT approaches</td>
+</tr>
+</tbody>
+</table><p><strong>Core shift:</strong> From <strong>individual reflection</strong> → <strong>system-level regulation and distributed cognition</strong>.</p><p><h3>3. Metacognitive Outcomes</h3></p><p>Studies consistently show AI tools improve:
 <ul><li><strong>Reflective thinking</strong> and independent inquiry</li></ul>
 <ul><li><strong>Self-regulation</strong> and strategic monitoring (planning, monitoring, evaluation)</li></ul>
 <ul><li><strong>Motivation and reasoning</strong> (especially for low-achieving and underrepresented groups)</li></ul>

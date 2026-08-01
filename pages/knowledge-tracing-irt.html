@@ -19,6 +19,24 @@
         a.tag:hover {
             opacity: 0.85;
         }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
@@ -40,12 +58,37 @@ Extracts next-token logits for vocabulary tokens <strong>"GOOD"</strong> and <st
 Extracts logits for <strong>"HARD"</strong> and <strong>"EASY"</strong> from dialogue history + next tutor-posed task:
 <code>d = z^HARD − z^EASY</code></p><p><h3>3. IRT Predictor</h3>
 Maps ability and difficulty into correctness probability via a 1PL (Rasch) model with learnable scalar α:
-<code>p(correct) = 1 / (1 + exp(−α(θ − d)))</code></p><p>> <em>"This formulation provides interpretability since both student knowledge and task difficulty are explicitly represented as meaningful cognitive quantities."</em>^<a href="huang-interpretable-knowledge-tracing-2026.html">huang-interpretable-knowledge-tracing-2026</a></p><p><h2>Results</h2></p><p>Evaluated on QATD2k (real) and MathDial (simulated) tutor-student dialogue datasets:</p><p>| Model | QATD2k AUC | MathDial AUC |
-|-------|------------|--------------|
-| DKT | 54.73 | 63.14 |
-| DKVMN | 51.79 | 60.64 |
-| LLMKT | 64.89 | 75.99 |
-| <strong>Ours (IRT)</strong> | <strong>65.25</strong> | <strong>76.59</strong> |</p><p>LLM-based methods substantially outperform traditional deep learning models (∼10-15 AUC points), and the explicit IRT parameterization slightly improves over raw LLMKT.^<a href="huang-interpretable-knowledge-tracing-2026.html">huang-interpretable-knowledge-tracing-2026</a></p><p><h2>Relationship to Tutoring-Specific Design</h2></p><p>This framework is an enabler for <a href="tutoring-specific-vs-general-ai.html">tutoring-specific AI</a>: by explicitly modeling difficulty and student readiness at each turn, the system can dynamically calibrate scaffolds rather than defaulting to full assistance. It operationalizes the insight that general-purpose LLMs can be <em>re-framed</em> as psychometric instruments through prompt design.^<a href="huang-interpretable-knowledge-tracing-2026.html">huang-interpretable-knowledge-tracing-2026</a></p><p><h2>Limitations</h2></p><p><ul><li><strong>Simulated data:</strong> MathDial uses GPT-3.5 as the "student," which may not reflect real learner behavior</li></ul>
+<code>p(correct) = 1 / (1 + exp(−α(θ − d)))</code></p><p>> <em>"This formulation provides interpretability since both student knowledge and task difficulty are explicitly represented as meaningful cognitive quantities."</em>^<a href="huang-interpretable-knowledge-tracing-2026.html">huang-interpretable-knowledge-tracing-2026</a></p><p><h2>Results</h2></p><p>Evaluated on QATD2k (real) and MathDial (simulated) tutor-student dialogue datasets:</p><table>
+<thead>
+<tr>
+<th>Model</th>
+<th>QATD2k AUC</th>
+<th>MathDial AUC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>DKT</td>
+<td>54.73</td>
+<td>63.14</td>
+</tr>
+<tr>
+<td>DKVMN</td>
+<td>51.79</td>
+<td>60.64</td>
+</tr>
+<tr>
+<td>LLMKT</td>
+<td>64.89</td>
+<td>75.99</td>
+</tr>
+<tr>
+<td><strong>Ours (IRT)</strong></td>
+<td><strong>65.25</strong></td>
+<td><strong>76.59</strong></td>
+</tr>
+</tbody>
+</table><p>LLM-based methods substantially outperform traditional deep learning models (∼10-15 AUC points), and the explicit IRT parameterization slightly improves over raw LLMKT.^<a href="huang-interpretable-knowledge-tracing-2026.html">huang-interpretable-knowledge-tracing-2026</a></p><p><h2>Relationship to Tutoring-Specific Design</h2></p><p>This framework is an enabler for <a href="tutoring-specific-vs-general-ai.html">tutoring-specific AI</a>: by explicitly modeling difficulty and student readiness at each turn, the system can dynamically calibrate scaffolds rather than defaulting to full assistance. It operationalizes the insight that general-purpose LLMs can be <em>re-framed</em> as psychometric instruments through prompt design.^<a href="huang-interpretable-knowledge-tracing-2026.html">huang-interpretable-knowledge-tracing-2026</a></p><p><h2>Limitations</h2></p><p><ul><li><strong>Simulated data:</strong> MathDial uses GPT-3.5 as the "student," which may not reflect real learner behavior</li></ul>
 <ul><li><strong>Fine-tuning required:</strong> LoRA on Llama-3.1-8B; not zero-shot</li></ul>
 <ul><li><strong>Binary correctness only:</strong> Does not model partial understanding or open-ended reasoning</li></ul></p><p><h2>Related Pages</h2>
 <ul><li><a href="kt4eqg-personalized-question-generation.html">kt4eqg-personalized-question-generation</a> — 7 of 8 papers in May 28 scan</li></ul>
