@@ -3,7 +3,7 @@ title: "AICoFE: AI-Powered Feedback System"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [ai-feedback-quality, ai-assessment, student-experience]
+tags: [ai-ed-evaluation, feedback-loop, student-experience]
 sources: [raw/papers/becerra-aicofe-feedback-2026.md]
 confidence: low
 ---

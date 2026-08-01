@@ -3,7 +3,7 @@ title: "Supporting Tutors in the Gig Economy with Automated Feedback: A Case Stu
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: ["ai-feedback-quality", "teacher-role", "higher-ed", "intelligent-tutoring", "language-learning"]
+tags: [feedback-loop, higher-ed, intelligent-tutoring, language-learning, teacher-role]
 sources: [raw/papers/2606.22609.md]
 confidence: medium
 ---

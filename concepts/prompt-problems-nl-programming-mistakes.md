@@ -3,7 +3,7 @@ title: Understanding Student Perceptions, Mistakes, and Debugging Approaches whe
 created: 2026-07-07
 updated: 2026-07-07
 type: concept
-tags: [generative-ai, cs-education, ai-literacy, higher-ed, student-experience, programming-its, prompt-based-programming-lesson, scaffolding]
+tags: [ai-literacy, cs-education, generative-ai, higher-ed, programming-its, prompt-engineering, scaffolding, student-experience]
 sources: [raw/papers/2607.05034.md]
 confidence: high
 ---

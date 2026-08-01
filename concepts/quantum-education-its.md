@@ -3,7 +3,7 @@ title: Quantum Education Intelligent Tutoring
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [intelligent-tutoring, stem-education, higher-ed, adaptive-learning, knowledge-graph]
+tags: [adaptive-learning, higher-ed, intelligent-tutoring, knowledge-tracing, stem-education]
 sources: [raw/papers/2604.24807.md]
 confidence: medium
 ---

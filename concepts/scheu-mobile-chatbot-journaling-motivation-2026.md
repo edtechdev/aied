@@ -3,7 +3,7 @@ title: "Mobile Chatbot Journaling for Student Motivation"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [mobile-learning, chatbot, student-motivation, journaling]
+tags: [chatbot, journaling, mobile-learning, student-experience]
 sources: [raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
 confidence: low
 ---

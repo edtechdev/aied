@@ -3,7 +3,7 @@ title: "Invisible Impact of Empathy on Behavioral Change: Isolating the Effect o
 created: 2026-06-30
 updated: 2026-06-30
 type: concept
-tags: [affective-tutoring, feedback-loop, llm, personalized-learning, student-experience]
+tags: [affective-computing, feedback-loop, llm, personalized-learning, student-experience]
 sources: [raw/papers/2606.26641.md]
 confidence: medium
 ---

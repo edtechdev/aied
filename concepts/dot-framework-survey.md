@@ -3,7 +3,7 @@ title: "DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced 
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
-tags: [ai-in-education, dot-framework, survey, practitioner-beliefs, design-thinking, open-systems, institutional-barriers, human-oversight, ai-literacy, higher-education]
+tags: [ai-education, ai-literacy, design-thinking, dot-framework, higher-ed, human-in-the-loop, institutional-change, open-source, practitioner-beliefs, survey]
 sources:
   - https://arxiv.org/abs/2605.29041
 confidence: high

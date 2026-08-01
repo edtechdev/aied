@@ -3,7 +3,7 @@ title: Say What? Examining Text and Voice Input Modalities for Prompt-Based Prog
 created: 2026-07-08
 updated: 2026-07-08
 type: concept
-tags: [llm, generative-ai, cs-education, ai-literacy, student-experience, prompt-based-programming-lesson, programming-its]
+tags: [ai-literacy, cs-education, generative-ai, llm, programming-its, prompt-engineering, student-experience]
 sources: [raw/papers/2607.05808.md]
 confidence: high
 ---

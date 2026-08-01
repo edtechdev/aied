@@ -3,7 +3,7 @@ title: "Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workf
 created: 2026-05-17
 updated: 2026-05-17
 type: concept
-tags: [teacher-role, faculty-development, ai-literacy, generative-ai, scaffolding, multi-agent-instructional-design]
+tags: [ai-literacy, faculty-development, generative-ai, multi-agent, scaffolding, teacher-role]
 sources: [raw/papers/2605.13906.md]
 confidence: medium
 ---

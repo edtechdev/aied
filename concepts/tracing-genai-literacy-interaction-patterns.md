@@ -3,7 +3,7 @@ title: "Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writ
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
-tags: ['ai-literacy', 'learning-analytics', 'higher-ed', 'prompt-engineering', 'academic-writing']
+tags: [ai-literacy, higher-ed, learning-analytics, prompt-engineering, writing-education]
 sources: [raw/papers/2606.00040.md]
 confidence: high
 ---

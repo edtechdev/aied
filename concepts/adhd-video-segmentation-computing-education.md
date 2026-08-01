@@ -3,7 +3,7 @@ title: "Leveling the Playing Field: Temporal Video Segmentation for Individuals 
 created: 2026-07-28
 updated: 2026-07-28
 type: concept
-tags: [accessibility, neurodiversity, cs-education, instructional-video]
+tags: [accessible-learning, cs-education, instructional-design, neurodiversity]
 sources: [raw/papers/2607.24612.md]
 confidence: high
 ---

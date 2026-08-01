@@ -3,7 +3,7 @@ title: "Fair and explainable educational recommendations with a hybrid Graph-GRU
 created: 2026-08-01
 updated: 2026-08-01
 type: concept
-tags: [personalized-learning, learning-analytics, algorithmic-bias, bias-mitigation, xai-education-framework]
+tags: [ai-education, algorithmic-bias, bias-mitigation, learning-analytics, personalized-learning]
 sources: ["raw/articles/caeai-fair-recommendations.md"]
 confidence: high
 ---

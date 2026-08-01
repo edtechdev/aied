@@ -3,7 +3,7 @@ title: Authentic Assessment
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [assessment, evaluation, higher-ed, formative-assessment, self-regulated-learning, metacognition, ai-education]
+tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning]
 confidence: high
 sources: [raw/articles/zhan-boud-du-authentic-assessment-scoping-review-2025.md]
 ---

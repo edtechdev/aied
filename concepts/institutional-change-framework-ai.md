@@ -3,7 +3,7 @@ title: "A Framework for Institutional Change in the Age of AI"
 created: 2026-05-14
 updated: 2026-05-14
 type: concept
-tags: [institutional-change, higher-ed, stem-education, faculty-development, pedagogy, ai-era, change-management]
+tags: [ai-education, change-management, faculty-development, higher-ed, institutional-change, pedagogy, stem-education]
 sources: [raw/papers/2605.12757.md]
 confidence: high
 ---

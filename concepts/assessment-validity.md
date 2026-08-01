@@ -3,7 +3,7 @@ title: "Assessment Validity in AI Education"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [assessment, validity, educational-measurement, ai-literacy, teacher-competency]
+tags: [ai-literacy, assessment, assessment-validity, educational-theory, teacher-professional-development]
 sources: [2601.06101]
 confidence: high
 ---
