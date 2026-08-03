@@ -329,7 +329,7 @@
       "agentic-ai",
       "stub"
     ],
-    "content": "Agentic Workflows\nAutomated stub.\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nfive-stage-ai-literacy-continuum\nai-adoption-training-public-sector",
+    "content": "Agentic Workflows\nAutomated stub.\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nai-literacy-continuum-higher-education\nai-adoption-training-public-sector",
     "url": "pages/agentic-workflows.html"
   },
   {
@@ -884,9 +884,11 @@
       "ai-literacy",
       "higher-ed",
       "curriculum-design",
-      "ethics"
+      "ethics",
+      "instructional-design",
+      "personalized-learning"
     ],
-    "content": "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education\nLiu & Levy (2026) \u2014 ArXiv.\n\ud83d\udcc4 Full text (arXiv)Proposes a five-stage continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State. Found that reaching higher stages requires discipline-embedded experiences. ai-literacy, higher-ed, ethics, faculty-development, student-experience.Related Pages\nai-literacy \u2014 Literacy frameworks\nscaffolding \u2014 ",
+    "content": "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education\nLiu & Levy (2026) \u2014 ArXiv.\n\ud83d\udcc4 Full text (arXiv)Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State; the continuum doubles as a diagnostic tool for moving students beyond fluent-but-uncritical tool adoption. Found that reaching higher stages requires discipline-embedded experiences. ai-literacy, ",
     "url": "pages/ai-literacy-continuum-higher-education.html"
   },
   {
@@ -2404,7 +2406,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Curriculum Design\nAutomated stub.\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nfive-stage-ai-literacy-continuum\nai-adoption-training-public-sector",
+    "content": "Curriculum Design\nAutomated stub.\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nai-literacy-continuum-higher-education\nai-adoption-training-public-sector",
     "url": "pages/curriculum-design.html"
   },
   {
@@ -3085,19 +3087,6 @@
     ],
     "content": "Principled AI Education FrameworkThis is a stub page for \"Principled AI Education Framework\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
     "url": "pages/finkelstein-principled-ai-education-2025.html"
-  },
-  {
-    "slug": "five-stage-ai-literacy-continuum",
-    "title": "\"Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy\"",
-    "tags": [
-      "ai-literacy",
-      "curriculum-design",
-      "higher-ed",
-      "instructional-design",
-      "personalized-learning"
-    ],
-    "content": "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy\nLiu & Levy (2026) \u2014 arXiv:2606.00038.\ud83d\udcc4 Full text (arXiv)Proposes a 5-stage developmental continuum for AI literacy (Not Engaged -> Uncritical -> Informed -> Critical -> Improvement). Serves as a diagnostic tool for educators to move students beyond fluently-nonsense tool adoption. This work emphasizes that ai-literacy is a developmental capacity requiring structured scaffolding and prompt-engineering discipline.",
-    "url": "pages/five-stage-ai-literacy-continuum.html"
   },
   {
     "slug": "flowcode-ai-creative-coding",

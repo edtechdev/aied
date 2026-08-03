@@ -3,7 +3,7 @@ title: "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
-tags: ['ai-literacy', 'higher-ed', '"curriculum-design"', 'ethics']
+tags: ['ai-literacy', 'higher-ed', '"curriculum-design"', 'ethics', 'instructional-design', 'personalized-learning']
 sources: [raw/papers/2606.00038.md]
 confidence: high
 ---
@@ -11,7 +11,7 @@ confidence: high
 **Liu & Levy (2026)** — ArXiv.
 📄 [Full text (arXiv)](https://arxiv.org/abs/2606.00038)
 
-Proposes a five-stage continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State. Found that reaching higher stages requires discipline-embedded experiences. [[ai-literacy]], [[higher-ed]], [[ethics]], [[faculty-development]], [[student-experience]].
+Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State; the continuum doubles as a diagnostic tool for moving students beyond fluent-but-uncritical tool adoption. Found that reaching higher stages requires discipline-embedded experiences. [[ai-literacy]], [[higher-ed]], [[ethics]], [[faculty-development]], [[student-experience]].
 
 ## Related Pages
 - [[ai-literacy]] — Literacy frameworks

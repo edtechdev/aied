@@ -112,6 +112,12 @@
 - Full-text confirms the four-step learning-oriented collaborative design framework and the Western-overrepresentation limitation
 - Deployed
 
+## [2026-08-03] update | Merged duplicate Liu & Levy pages (user flag)
+- User flagged "Beyond Tool Adoption" (Liu & Levy 2026, arXiv:2606.00038) appearing twice — confirmed: ai-literacy-continuum-higher-education.md (2026-06-03) and five-stage-ai-literacy-continuum.md (2026-06-02) were near-identical pages for the SAME paper sharing one raw file (raw/papers/2606.00038.md), each with 5 back-links
+- Kept ai-literacy-continuum-higher-education (slug matches full title); folded in the duplicate's unique tags (instructional-design, personalized-learning) and its diagnostic-tool framing; rewired 5 back-links (curriculum-design, scaffolding, agentic-workflows, ai-literacy, metacognition); deleted the duplicate
+- Index: 571 → 570; Journal: 431 → 430; stale HTML removed
+- Deployed
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`

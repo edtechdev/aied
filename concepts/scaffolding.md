@@ -83,7 +83,7 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[guided-llm-scaffolding-independent-learning]]
 - [[ase-26-agentic-software-engineering-curriculum]]
-- [[five-stage-ai-literacy-continuum]]
+- [[ai-literacy-continuum-higher-education]]
 - [[ai-adoption-training-public-sector]]
 - [[ai-literacy-continuum-higher-education]] — Liu & Levy (2026)
 - [[ai-generated-traces-novice-programmers]] — Noviello et al. (2026)
