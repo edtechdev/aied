@@ -97,6 +97,14 @@
 - Awaiting user PDFs: full text of the real scoping review (to upgrade authentic-assessment raw file) + 2 AI-and-authentic-assessment papers (new entries)
 - Deployed
 
+## [2026-08-03] ingest | Two AI-and-authentic-assessment papers (user PDFs)
+- Tsiligkiris (2026) — "From authentic products to authenticated processes" (AEHE, T&F, OA). Systematic conceptual review (37 sources) → six-dimension framework for authentic assessment in AI-rich HE; core distinction authentic products vs authenticated processes; construct substitution risk; operational review tool with 4-point alignment scale. raw/papers/authentic-products-authenticated-processes-2026.md + concept page (high confidence)
+- Kickbusch et al. (2025) — "Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World" (Education Sciences 15(11):1537, MDPI, OA). Detection misdiagnoses the problem; authenticity must be redesigned; four-dimension authenticity continuum + discipline-agnostic "design for learning" patterns (critique/adapt/verify AI outputs, process logs, oral defences); equity/ethics/staff-development challenges. raw/papers/beyond-detection-authentic-assessment-ai-2025.md + concept page (high confidence)
+- Both cross-link to each other and to authentic-assessment (Zhan, Boud & Du 2025); 15 back-links added across 12 pages
+- Index: 569 → 571 pages; Journal: 431 entries
+- Note: real non-AI scoping review full-text PDF (Zhan, Boud & Du) still awaited for authentic-assessment raw upgrade
+- Deployed
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`

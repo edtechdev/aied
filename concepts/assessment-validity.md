@@ -39,6 +39,7 @@ Assessment validity—the degree to which an instrument measures what it claims 
 Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Between Self-Reported and Performance*. arXiv:2601.06101.
 
 ## Related Pages
+- [[authentic-products-authenticated-processes-2026]] — Authentic products vs. authenticated processes
 - [[rubric-aware-grading-rec-cbm]] — 2 of 8 papers in May 28 scan
 
 - [[lata-ferpa-compliant-local-llm-autograder]] — Instructor-authored rubrics maintain grading validity

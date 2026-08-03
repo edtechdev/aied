@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-03 | **Total pages:** 569
+**Last updated:** 2026-08-03 | **Total pages:** 571
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -120,6 +120,7 @@
 - [[astra-atco-training-simulator]] — ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots
 - [[at-risk-students-ml-prediction]] — Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms
 - [[authentic-assessment]] — Authentic Assessment
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[automated-assessment]] — Automated Assessment
 - [[automated-essay-scoring]] — Automated Essay Scoring
 - [[automated-feedback]] — Automated Feedback
@@ -133,6 +134,7 @@
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
 - [[benchmark]] — Benchmark
 - [[benchmark-driven-edtech]] — Benchmark Driven Edtech
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
 - [[bias-mitigation]] — Bias Mitigation
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[book-level-synthetic-textbook-organization]] — Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training

@@ -18,6 +18,7 @@ Role of feedback loops in AI-enhanced learning systems
 *This page is a stub — awaiting further sources and content.*
 
 ## Related Pages
+- [[authentic-products-authenticated-processes-2026]] — Sustainable evaluative judgement
 - [[scheu-mobile-chatbot-journaling-motivation-2026]] — LLM assistant usage forms an engagement feedback loop over time
 - [[feedback-futures-genai]] — AEHE special-issue editorial on GenAI feedback futures
 - [[chatgpt-feedback-engagement-genai]] — Students' 4-dimension engagement with ChatGPT feedback

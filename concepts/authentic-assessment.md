@@ -91,6 +91,8 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 4. **Social authenticity deficit:** Only 3 studies addressed social issues (citizenship, sustainability, ethics). How can AI assessment tools help students contribute to societal transformation rather than merely simulate it?
 
 ## Related Pages
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: authentic assessment in an AI-mediated world
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes
 - [[universities-ai-era-rethinking]] — Calls for assessment redesign centered on student agency and judgement
 - [[multimodal-learning-genai]] — Multimodal artefact assessment and assessment validity in AI-present contexts
 - [[principled-ai-education]] — Authentic assessment aligned with meaningful learning goals

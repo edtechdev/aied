@@ -31,7 +31,7 @@
       "plagiarism-detection",
       "policy-maker"
     ],
-    "content": "Academic IntegrityAcademic integrity challenges and solutions in AI-era educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nchatgpt-feedback-engagement-genai \u2014 Ethical decision-making about GenAI feedback use\ngenai-impact-chinese-students-hss \u2014 Findings on assessment validity concerns when GenAI use is widespread\nethical-ai-higher-ed-game-theory \u2014 3 of 8 papers in May 28 scan\ngenerative-ai-reduced-study-time-math \u2014 Evidence of widespread unproctored AI us",
+    "content": "Academic IntegrityAcademic integrity challenges and solutions in AI-era educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Moving from policing to design\nauthentic-products-authenticated-processes-2026 \u2014 AI-aware validity as part of assessment architecture\nchatgpt-feedback-engagement-genai \u2014 Ethical decision-making about GenAI feedback use\ngenai-impact-chinese-students-hss \u2014 Findings on assessment validity ",
     "url": "pages/academic-integrity.html"
   },
   {
@@ -543,7 +543,7 @@
       "academic-integrity",
       "plagiarism-detection"
     ],
-    "content": "AI Detection in EducationThis is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers.Related Pages\nllm-detecting-llm-generated-content-education \u2014 Distinguishing Artificial from Authentic: Evaluating LLMs foCitation",
+    "content": "AI Detection in EducationThis is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers.Related Pages\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Beyond Detection: redesigning authentic assessment\nllm-detecting-llm-generated-content-education \u2014 Distinguishing Artificial from Authentic: Evaluating LLMs foCitation",
     "url": "pages/ai-detection.html"
   },
   {
@@ -552,7 +552,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Ai Ed EvaluationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pagesllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ndot-framework-survey\nmachines-misread-pedagogical-quality -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a larger alignment effect than rationale-first evaluation, and the two are complementary.",
+    "content": "Ai Ed EvaluationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\nauthentic-products-authenticated-processes-2026 \u2014 Six-dimension framework for assessment designllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ndot-framework-survey\nmachines-misread-pedagogical-quality -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a large",
     "url": "pages/ai-ed-evaluation.html"
   },
   {
@@ -1421,6 +1421,21 @@
     "url": "pages/authentic-assessment.html"
   },
   {
+    "slug": "authentic-products-authenticated-processes-2026",
+    "title": "\"From authentic products to authenticated processes: authentic assessment in AI-rich higher education\"",
+    "tags": [
+      "authentic-assessment",
+      "assessment",
+      "assessment-validity",
+      "ai-ed-evaluation",
+      "generative-ai",
+      "academic-integrity",
+      "higher-ed"
+    ],
+    "content": "> \ud83d\udcc4 Full text: AEHE (T&F, OA) \u00b7 localFrom authentic products to authenticated processes> Tsiligkiris (2026) reframes authentic assessment as an evidential and validity-oriented design problem in AI-rich higher education. His central distinction \u2014 authentic products vs. authenticated processes \u2014 argues that assessment validity under generative AI depends not on realistic outputs alone but on architectures that make human judgement, verification, and responsibility visible. A systematic conceptual",
+    "url": "pages/authentic-products-authenticated-processes-2026.html"
+  },
+  {
     "slug": "automated-assessment",
     "title": "\"Automated Assessment\"",
     "tags": [
@@ -1562,6 +1577,20 @@
     ],
     "content": "BenchmarkEvaluation benchmarks for AI systems in educational contextsConnectionsRelated Pagesllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nanvil-ai-educational-animationsvocabulary-difficulty-prediction \u2014 LLM fine-tuned with soft-target loss achieves r>0.91 for vocabulary difficulty p\nreliable-programming-kt \u2014 Standardized evaluation protocol for programming knowledge tracing\nnsmq-riddles-science-math-b",
     "url": "pages/benchmark.html"
+  },
+  {
+    "slug": "beyond-detection-authentic-assessment-ai-2025",
+    "title": "\"Beyond Detection: redesigning authentic assessment in an AI-mediated world\"",
+    "tags": [
+      "authentic-assessment",
+      "ai-detection",
+      "academic-integrity",
+      "assessment",
+      "generative-ai",
+      "higher-ed"
+    ],
+    "content": "> \ud83d\udcc4 Full text: Education Sciences (MDPI, OA) \u00b7 localBeyond Detection: authentic assessment in an AI-mediated world> Kickbusch, Ashford-Rowe, Kemp, Boreland & Huijser (2025) argue the dominant institutional response to generative AI in assessment \u2014 surveillance and AI detection \u2014 misdiagnoses the problem: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, a",
+    "url": "pages/beyond-detection-authentic-assessment-ai-2025.html"
   },
   {
     "slug": "bias-mitigation",
@@ -2900,7 +2929,7 @@
     "tags": [
       "equity"
     ],
-    "content": "EquityStub page \u2014 full synthesis pending.Related Pages\npost-covid-ict-career-aspirations \u2014 5 of 8 papers in May 28 scan\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nai-lifelong-learning-policyculturally-aware-aied-community-learning \u2014 Culturally-aware AIED framework for Asia-Pacific contexts\nmetaphysics-learning-analytics \u2014 Normative claims in analytics risk embedding inequity- agent-voice-accents-k",
+    "content": "EquityStub page \u2014 full synthesis pending.Related Pages\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Equity and access challenges in authentic assessment\nauthentic-products-authenticated-processes-2026 \u2014 Inclusivity and representational fairness dimension\npost-covid-ict-career-aspirations \u2014 5 of 8 papers in May 28 scan\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nai-lifelong-learning-policycultura",
     "url": "pages/equity.html"
   },
   {
@@ -3043,7 +3072,7 @@
       "formative-assessment",
       "personalized-learning"
     ],
-    "content": "Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 LLM assistant usage forms an engagement feedback loop over time\nfeedback-futures-genai \u2014 AEHE special-issue editorial on GenAI feedback futures\nchatgpt-feedback-engagement-genai \u2014 Students' 4-dimension engagement with ChatGPT feedback\ngenai-teacher-feedback-comparison \u2014 N=6,960 student perceptions ",
+    "content": "Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nauthentic-products-authenticated-processes-2026 \u2014 Sustainable evaluative judgement\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 LLM assistant usage forms an engagement feedback loop over time\nfeedback-futures-genai \u2014 AEHE special-issue editorial on GenAI feedback futures\nchatgpt-feedback-engagement-genai \u2014 Students' 4-dimension engagement wit",
     "url": "pages/feedback-loop.html"
   },
   {
@@ -3779,7 +3808,7 @@
     "tags": [
       "human-in-the-loop"
     ],
-    "content": "Human In The LoopStub page \u2014 full synthesis pending.Related Pagesllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration",
+    "content": "Human In The LoopStub page \u2014 full synthesis pending.Related Pages\nauthentic-products-authenticated-processes-2026 \u2014 Authenticated processes: visible human judgementllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration",
     "url": "pages/human-in-the-loop.html"
   },
   {
@@ -5222,7 +5251,7 @@
       "academic-integrity",
       "student-experience"
     ],
-    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\ncritical-genai-use-predictors \u2014 Protective factors against uncritical overreliance on GenAI\nagency-gap-ai-writing \u2014 Over-direction risk of rigid proactive designs\nfeedback-futures-genai \u2014 Agency vs dependency tension in GenAI feedback\nchatgpt-feedback-engagement-genai \u2014 Metacognitive laziness and 83.9% uptake of ChatGPT feedback\nlearner-",
+    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Design for learning rather than detection\nauthentic-products-authenticated-processes-2026 \u2014 Construct substitution risk\ncritical-genai-use-predictors \u2014 Protective factors against uncritical overreliance on GenAI\nagency-gap-ai-writing \u2014 Over-direction risk of rigid proactive designs\nfeedback",
     "url": "pages/over-reliance.html"
   },
   {
