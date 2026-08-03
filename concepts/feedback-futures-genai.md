@@ -1,5 +1,5 @@
 ---
-title: "Feedback futures: beyond the limits of human and GenAI capacities"
+title: 'Feedback futures: beyond the limits of human and GenAI capacities'
 created: 2026-08-03
 updated: 2026-08-03
 type: concept

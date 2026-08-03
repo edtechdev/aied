@@ -3,7 +3,7 @@ title: Self-Efficacy and Favorability Shape Learning from Tutoring Systems and P
 created: 2026-06-17
 updated: 2026-06-17
 type: concept
-tags: ["intelligent-tutoring", "personalized-learning", "efficacy-study", "higher-ed", "student-experience"]
+tags: [intelligent-tutoring, personalized-learning, efficacy-study, higher-ed, student-experience]
 sources: [raw/papers/2606.17470.md]
 confidence: high
 ---

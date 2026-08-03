@@ -1,5 +1,5 @@
 ---
-title: "Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments"
+title: 'Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments'
 created: 2026-05-15
 updated: 2026-05-15
 type: concept

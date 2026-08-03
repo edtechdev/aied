@@ -1,5 +1,5 @@
 ---
-title: "Ground Truth Reliability Aided"
+title: Ground Truth Reliability Aided
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

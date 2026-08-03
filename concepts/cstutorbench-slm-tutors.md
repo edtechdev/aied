@@ -1,5 +1,5 @@
 ---
-title: "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming"
+title: 'CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming'
 created: 2026-07-08
 updated: 2026-07-08
 type: concept

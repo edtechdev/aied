@@ -1,5 +1,5 @@
 ---
-title: "CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy"
+title: 'CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy'
 created: 2026-05-19
 updated: 2026-05-22
 type: concept

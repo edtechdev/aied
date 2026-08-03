@@ -1,5 +1,5 @@
 ---
-title: "FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs"
+title: 'FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs'
 created: 2026-06-09
 updated: 2026-06-09
 type: concept

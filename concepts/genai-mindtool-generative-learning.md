@@ -1,5 +1,5 @@
 ---
-title: "Generative AI (GenAI) as a mindtool that supports generative learning (GL)"
+title: Generative AI (GenAI) as a mindtool that supports generative learning (GL)
 created: 2026-08-01
 updated: 2026-08-01
 type: concept

@@ -1,9 +1,9 @@
 ---
-title: "AI in Writing Education"
+title: AI in Writing Education
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ['writing-education', 'ai-literacy', 'scaffolding']
+tags: [writing-education, ai-literacy, scaffolding]
 sources: []
 confidence: low
 ---

@@ -3,7 +3,7 @@ title: Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: ["automated-grading", "llm", "stem-education", "higher-ed", "efficacy-study", "multimodal"]
+tags: [automated-grading, llm, stem-education, higher-ed, efficacy-study, multimodal]
 sources: ["raw/papers/2605.19043.md"]
 confidence: high
 ---

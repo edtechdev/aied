@@ -1,5 +1,5 @@
 ---
-title: "Comprehensive Review of Intelligent Tutoring Systems"
+title: Comprehensive Review of Intelligent Tutoring Systems
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

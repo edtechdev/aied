@@ -1,5 +1,5 @@
 ---
-title: "EduQwen: Pedagogical RL"
+title: 'EduQwen: Pedagogical RL'
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

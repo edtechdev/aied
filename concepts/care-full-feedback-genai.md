@@ -1,5 +1,5 @@
 ---
-title: "The care-full craft of feedback in an age of generative AI"
+title: The care-full craft of feedback in an age of generative AI
 created: 2026-08-03
 updated: 2026-08-03
 type: concept

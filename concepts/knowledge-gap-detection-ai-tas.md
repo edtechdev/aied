@@ -1,9 +1,9 @@
 ---
-title: Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
+title: "Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs"
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
-tags: ["knowledge-tracing", "llm", "student-modeling", "higher-ed", "learning-analytics"]
+tags: [knowledge-tracing, llm, student-modeling, higher-ed, learning-analytics]
 sources: [2606.10736.md]
 confidence: high
 ---

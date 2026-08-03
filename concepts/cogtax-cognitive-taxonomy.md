@@ -1,5 +1,5 @@
 ---
-title: "CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education"
+title: 'CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education'
 created: 2026-07-02
 updated: 2026-07-02
 type: concept

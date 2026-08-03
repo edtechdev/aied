@@ -1,5 +1,5 @@
 ---
-title: "SafeTutors: Pedagogical Safety in AI Tutoring"
+title: 'SafeTutors: Pedagogical Safety in AI Tutoring'
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

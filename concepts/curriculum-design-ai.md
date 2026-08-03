@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Design Ai"
+title: Curriculum Design Ai
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

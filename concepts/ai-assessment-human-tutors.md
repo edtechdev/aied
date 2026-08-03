@@ -1,9 +1,9 @@
 ---
-title: "AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice"
+title: 'AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice'
 created: 2026-06-18
 updated: 2026-06-18
 type: concept
-tags: ["intelligent-tutoring", "automated-grading", "feedback-loop", "teacher-role", "efficacy-study"]
+tags: [intelligent-tutoring, automated-grading, feedback-loop, teacher-role, efficacy-study]
 sources: [raw/papers/2606.18617.md]
 confidence: high
 ---

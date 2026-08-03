@@ -1,5 +1,5 @@
 ---
-title: "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors"
+title: 'TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors'
 created: 2026-05-11
 updated: 2026-05-11
 type: concept

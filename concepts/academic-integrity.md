@@ -3,7 +3,7 @@ title: Academic Integrity
 created: 2026-05-13
 updated: 2026-05-13
 type: concept
-tags: ["academic-integrity", "plagiarism-detection", "policy-maker"]
+tags: [academic-integrity, plagiarism-detection, policy-maker]
 sources: []
 confidence: low
 

@@ -1,5 +1,5 @@
 ---
-title: "Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use"
+title: 'Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use'
 created: 2026-05-11
 updated: 2026-05-22
 type: concept

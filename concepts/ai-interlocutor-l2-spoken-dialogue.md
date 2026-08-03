@@ -1,9 +1,9 @@
 ---
-title: What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
+title: "What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue"
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: ["language-learning", "llm", "intelligent-tutoring", "student-experience", "personalized-learning"]
+tags: [language-learning, llm, intelligent-tutoring, student-experience, personalized-learning]
 sources: [raw/papers/2606.22225.md]
 confidence: medium
 ---

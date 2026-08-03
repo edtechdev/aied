@@ -1,5 +1,5 @@
 ---
-title: "Zone Of Proximal Development"
+title: Zone Of Proximal Development
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

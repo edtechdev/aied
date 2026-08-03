@@ -3,7 +3,7 @@ title: "PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Sc
 created: 2026-06-19
 updated: 2026-06-19
 type: concept
-tags: ["automated-grading", "formative-assessment", "feedback-loop", "writing-education", "scaffolding", "llm"]
+tags: [automated-grading, formative-assessment, feedback-loop, writing-education, scaffolding, llm]
 sources: [raw/papers/2606.20287.md]
 confidence: high
 ---

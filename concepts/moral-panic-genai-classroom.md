@@ -3,7 +3,7 @@ title: "Navigating the moral panic: encouraging appropriate use of GenAI in the 
 created: 2026-07-19
 updated: 2026-07-19
 type: concept
-tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, over-reliance, ai-literacy, "assessment"]
+tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, over-reliance, ai-literacy, assessment]
 sources: [raw/papers/tandf-2026-moral-panic-genai.md]
 confidence: high
 ---

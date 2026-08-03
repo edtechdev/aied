@@ -3,7 +3,7 @@ title: "TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
-tags: ["professional-training", "llm", "formative-assessment", "student-experience", "edtech-platform"]
+tags: [professional-training, llm, formative-assessment, student-experience, edtech-platform]
 sources: [2606.07765.md]
 confidence: high
 ---

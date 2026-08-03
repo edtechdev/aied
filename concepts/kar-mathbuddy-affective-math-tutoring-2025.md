@@ -1,5 +1,5 @@
 ---
-title: "MathBuddy: Affective Math Tutoring"
+title: 'MathBuddy: Affective Math Tutoring'
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

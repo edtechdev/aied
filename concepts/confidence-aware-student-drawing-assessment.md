@@ -3,7 +3,7 @@ title: Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
 created: 2026-06-19
 updated: 2026-06-19
 type: concept
-tags: ["automated-grading", "stem-education", "formative-assessment", "k-12", "efficacy-study"]
+tags: [automated-grading, stem-education, formative-assessment, k-12, efficacy-study]
 sources: [raw/papers/2606.20264.md]
 confidence: high
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ai Co Intelligence"
+title: Ai Co Intelligence
 created: 2026-05-29
 updated: 2026-05-29
 type: concept

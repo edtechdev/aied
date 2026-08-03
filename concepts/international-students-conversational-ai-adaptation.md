@@ -1,5 +1,5 @@
 ---
-title: Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
+title: "Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation"
 created: 2026-05-15
 updated: 2026-05-15
 type: concept

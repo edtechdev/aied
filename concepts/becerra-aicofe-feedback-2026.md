@@ -1,5 +1,5 @@
 ---
-title: "AICoFE: AI-Powered Feedback System"
+title: 'AICoFE: AI-Powered Feedback System'
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

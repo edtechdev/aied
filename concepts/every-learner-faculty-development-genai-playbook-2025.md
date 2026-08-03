@@ -1,5 +1,5 @@
 ---
-title: "Every Learner: Faculty Development GenAI Playbook"
+title: 'Every Learner: Faculty Development GenAI Playbook'
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

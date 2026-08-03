@@ -1,9 +1,9 @@
 ---
-title: "StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing"
+title: 'StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing'
 created: 2026-05-25
 updated: 2026-05-25
 type: concept
-tags: ["intelligent-tutoring", "learning-analytics", "adaptive-learning", "benchmark", "open-source"]
+tags: [intelligent-tutoring, learning-analytics, adaptive-learning, benchmark, open-source]
 sources: [raw/papers/2605.23048.md]
 confidence: high
 ---

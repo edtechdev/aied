@@ -1,5 +1,5 @@
 ---
-title: "Distinguishing performance gains from learning when using generative AI"
+title: Distinguishing performance gains from learning when using generative AI
 created: 2026-05-14
 updated: 2026-05-14
 type: concept

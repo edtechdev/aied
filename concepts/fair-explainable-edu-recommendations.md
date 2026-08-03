@@ -1,5 +1,5 @@
 ---
-title: "Fair and explainable educational recommendations with a hybrid Graph-GRU framework"
+title: Fair and explainable educational recommendations with a hybrid Graph-GRU framework
 created: 2026-08-01
 updated: 2026-08-01
 type: concept

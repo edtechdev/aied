@@ -1,5 +1,5 @@
 ---
-title: "Collaborative AI Literacy Framework"
+title: Collaborative AI Literacy Framework
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

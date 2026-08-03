@@ -1,5 +1,5 @@
 ---
-title: LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
+title: "LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback"
 created: 2026-05-11
 updated: 2026-05-11
 type: concept

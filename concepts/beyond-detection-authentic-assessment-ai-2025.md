@@ -1,5 +1,5 @@
 ---
-title: "Beyond Detection: redesigning authentic assessment in an AI-mediated world"
+title: 'Beyond Detection: redesigning authentic assessment in an AI-mediated world'
 created: 2026-08-03
 updated: 2026-08-03
 type: concept

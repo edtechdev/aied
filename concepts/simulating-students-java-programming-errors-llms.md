@@ -1,5 +1,5 @@
 ---
-title: "Simulating Students' Java Programming Errors with Large Language Models"
+title: Simulating Students' Java Programming Errors with Large Language Models
 created: 2026-06-15
 updated: 2026-06-15
 type: concept

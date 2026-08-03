@@ -1,9 +1,9 @@
 ---
-title: "What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries"
+title: 'What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries'
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ["policy-maker", "equity", "k-12", "teacher-role", "ai-literacy"]
+tags: [policy-maker, equity, k-12, teacher-role, ai-literacy]
 sources: ["raw/articles/ai-education-global-capacity.md"]
 confidence: medium
 ---

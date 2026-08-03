@@ -3,7 +3,7 @@ title: "Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: ["ai-ed-evaluation", "llm", "formative-assessment", "teacher-role", "assessment"]
+tags: [ai-ed-evaluation, llm, formative-assessment, teacher-role, assessment]
 sources: [raw/papers/2606.23629.md]
 confidence: medium
 ---

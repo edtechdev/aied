@@ -1,9 +1,9 @@
 ---
-title: "The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking"
+title: 'The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking'
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ["higher-ed", "ai-literacy", "metacognition", "stem-education", "active-learning"]
+tags: [higher-ed, ai-literacy, metacognition, stem-education, active-learning]
 sources: ["raw/papers/2605.05472.md"]
 confidence: medium
 ---

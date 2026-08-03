@@ -3,7 +3,7 @@ title: "Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of
 created: 2026-06-12
 updated: 2026-06-12
 type: concept
-tags: ["generative-ai", "higher-ed", "student-experience", "policy-maker", "regulation", "academic-integrity"]
+tags: [generative-ai, higher-ed, student-experience, policy-maker, regulation, academic-integrity]
 sources: [raw/papers/2606.12436.md]
 confidence: high
 ---

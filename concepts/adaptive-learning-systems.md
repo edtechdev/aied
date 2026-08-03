@@ -3,7 +3,7 @@ title: Adaptive Learning Systems
 created: 2026-05-07
 updated: 2026-05-22
 type: concept
-tags: [adaptive-learning, "intelligent-tutoring", personalized-learning, architecture, ai-education]
+tags: [adaptive-learning, intelligent-tutoring, personalized-learning, architecture, ai-education]
 sources: [raw/papers/ma-deeptutor-agentic-personalized-tutoring-2026.md, raw/papers/yu-maic-mooc-llm-agents-2024.md, raw/papers/chudziak-ai-math-tutoring-platform-2025.md]
 confidence: medium
 ---

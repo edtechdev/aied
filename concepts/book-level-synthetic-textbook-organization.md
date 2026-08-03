@@ -1,5 +1,5 @@
 ---
-title: "Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training"
+title: 'Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training'
 created: 2026-07-31
 updated: 2026-07-31
 type: concept

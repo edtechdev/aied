@@ -1,5 +1,5 @@
 ---
-title: Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
+title: "Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept

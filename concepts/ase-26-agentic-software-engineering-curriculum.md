@@ -1,5 +1,5 @@
 ---
-title: "ASE-26: A Curriculum for Agentic Software Engineering as a Discipline"
+title: 'ASE-26: A Curriculum for Agentic Software Engineering as a Discipline'
 created: 2026-06-02
 updated: 2026-06-02
 type: concept

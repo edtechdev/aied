@@ -1,5 +1,5 @@
 ---
-title: An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
+title: "An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training"
 created: 2026-05-19
 updated: 2026-05-22
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing"
+title: 'Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing'
 created: 2026-06-02
 updated: 2026-06-02
 type: concept

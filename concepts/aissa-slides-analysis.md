@@ -1,9 +1,9 @@
 ---
-title: "AISSA: AI-based Student Slides Analysis Tool for Academic Presentations"
+title: 'AISSA: AI-based Student Slides Analysis Tool for Academic Presentations'
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ["automated-grading", "learning-analytics", "formative-assessment", "higher-ed", "llm"]
+tags: [automated-grading, learning-analytics, formative-assessment, higher-ed, llm]
 sources: ["raw/papers/2605.04729.md"]
 confidence: medium
 ---

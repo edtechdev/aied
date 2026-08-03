@@ -1,5 +1,5 @@
 ---
-title: "Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs"
+title: 'Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs'
 created: 2026-06-16
 updated: 2026-06-16
 type: concept

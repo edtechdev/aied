@@ -1,5 +1,5 @@
 ---
-title: "Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle"
+title: 'Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle'
 created: 2026-06-23
 updated: 2026-06-23
 type: concept

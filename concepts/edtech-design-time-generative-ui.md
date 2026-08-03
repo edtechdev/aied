@@ -1,5 +1,5 @@
 ---
-title: "The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization"
+title: 'The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization'
 created: 2026-06-16
 updated: 2026-06-16
 type: concept

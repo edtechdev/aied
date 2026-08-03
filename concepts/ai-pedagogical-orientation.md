@@ -1,5 +1,5 @@
 ---
-title: "Faculty Orientations Shape Adoption of AI in Research and Teaching"
+title: Faculty Orientations Shape Adoption of AI in Research and Teaching
 created: 2026-05-19
 updated: 2026-05-19
 type: concept

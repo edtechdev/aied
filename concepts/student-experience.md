@@ -1,9 +1,9 @@
 ---
-title: "Student Experience with AI"
+title: Student Experience with AI
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ['student-experience', 'k-12', 'higher-ed']
+tags: [student-experience, k-12, higher-ed]
 sources: []
 confidence: low
 ---

@@ -1,5 +1,5 @@
 ---
-title: "PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions"
+title: 'PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions'
 created: 2026-05-19
 updated: 2026-05-19
 type: concept

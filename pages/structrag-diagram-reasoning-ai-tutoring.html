@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>"Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education" - AI Ed Wiki</title>
+    <title>Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education - AI Ed Wiki</title>
     <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="../feed.xml">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
@@ -50,7 +50,7 @@
                 <li><a href="../feed.xml">📡 RSS</a></li>
             </ul>
         </nav>
-        <h1>"Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education"</h1>
+        <h1>Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education</h1>
         <div class="metadata">Created: 2026-08-03 | Tags: <a href="../tags/intelligent-tutoring.html" class="tag">intelligent-tutoring</a><a href="../tags/stem-education.html" class="tag">stem-education</a><a href="../tags/llm.html" class="tag">llm</a><a href="../tags/generative-ai.html" class="tag">generative-ai</a><a href="../tags/automated-grading.html" class="tag">automated-grading</a><a href="../tags/feedback-loop.html" class="tag">feedback-loop</a><a href="../tags/scaffolding.html" class="tag">scaffolding</a></div>
     </header>
     <main class="container"><p><strong>Yicheng Sun, Yihan Liao & Xiaoxue Ma (2026)</strong> — <em>Smart Learning Environments</em> (Springer), Article in Press. Open Access, CC BY 4.0. doi:10.1186/s40561-026-00459-9.</p><p>📄 <a href="https://doi.org/10.1186/s40561-026-00459-9">Full text (Springer, OA)</a> · <a href="https://github.com/SMLE-svg/StructRAG">StructRAG code & prompt templates (GitHub)</a></p><p><h2>Summary</h2></p><p>Presents <strong>StructRAG</strong>, a pattern-aware framework that improves how AI tutoring systems interpret <strong>complex engineering diagrams</strong> (circuit schematics, network topologies, block flowcharts) in STEM. Current AI systems fail on diagrammatic questions because they cannot reliably extract spatial relationships and structural connectivity from noisy real-world diagrams (curved lines, overlapping elements, occluded labels). StructRAG shifts from surface-level visual recognition to <strong>pattern-level structural reasoning</strong>: convert the diagram to a graph, retrieve structurally similar canonical patterns, and prompt an LLM to validate plausibility and completeness — enabling detection of missing connections and structure-aware feedback.^[raw/papers/sle-2026-structrag-diagram-reasoning.md]</p><p><h2>Architecture (four components)</h2></p><p>1. <strong>Diagram-to-Graph Conversion</strong> — OCR (Tesseract, multi-scale 1.0/1.5/2.0, majority voting) + classical CV (Hough Line Transform, contour detection, Zhang–Suen skeletonisation for curved paths). Edge confidence <code>Cij = 0.45·scont + 0.25·sprox + 0.20·salign + 0.10·snode</code>; edges ≥ 0.65 accepted, 0.40–0.65 routed to an <em>uncertain-edge set</em> U for pattern-level validation, < 0.40 discarded as noise.

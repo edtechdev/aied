@@ -1,5 +1,5 @@
 ---
-title: "MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing"
+title: 'MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing'
 created: 2026-05-25
 updated: 2026-05-25
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Awareness of Technological Isomorphism: AI in Elementary Math"
+title: 'Awareness of Technological Isomorphism: AI in Elementary Math'
 created: 2026-06-09
 updated: 2026-06-09
 type: concept

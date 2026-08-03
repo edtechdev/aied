@@ -1,9 +1,9 @@
 ---
-title: "TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics"
+title: 'TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics'
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
-tags: ['benchmark', 'cs-education', 'k-12', 'multimodal']
+tags: [benchmark, cs-education, k-12, multimodal]
 sources: [raw/papers/2606.03626.md]
 confidence: high
 ---

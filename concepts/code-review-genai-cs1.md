@@ -1,5 +1,5 @@
 ---
-title: Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
+title: "Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom"
 created: 2026-05-21
 updated: 2026-05-21
 type: concept

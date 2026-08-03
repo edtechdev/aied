@@ -1,5 +1,5 @@
 ---
-title: "Affective Computing"
+title: Affective Computing
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

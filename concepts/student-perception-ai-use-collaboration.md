@@ -1,9 +1,9 @@
 ---
-title: Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance
+title: "Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance"
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: ["student-experience", "cs-education", "collaborative-ai-tutoring", "over-reliance", "higher-ed"]
+tags: [student-experience, cs-education, collaborative-ai-tutoring, over-reliance, higher-ed]
 sources: [raw/papers/2606.23237.md]
 confidence: medium
 ---

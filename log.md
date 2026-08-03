@@ -34,6 +34,13 @@
      - RCT tag normalized: merged duplicate concepts RCT.md + rct.md → canonical rct.md (589 concepts = 589 index = 589 pages); SCHEMA taxonomy `RCT` → `rct`; all pages' RCT tag → rct; added rct tag to 3 RCT papers that lacked it (genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, lets-chat-chatbot-outreach-2026); generator tag→concept redirect is now case-robust (tags/rct.html → pages/rct.html)
      - Deployed
 
+     ## [2026-08-03] fix | Normalize quoted titles + tags (frontmatter hygiene)
+     - All 589 concept files normalized: titles YAML-unquoted/unescaped (421 files had YAML-quoted titles rendering with literal quotes; 368 long titles were split across lines and rendering TRUNCATED); tag tokens stripped of quote chars (126 lines); 328 frontmatter blocks had stray YAML `...` document-end markers (from old safe_dump pipeline) — all removed
+     - Root cause: original ingestion emitted frontmatter via yaml.safe_dump, which wraps long scalars at 80 chars and appends `...`; the line-based generator read only the first title line
+     - Generator now has _clean_title() (strips YAML quoting/escaping) + tag quote-stripping at pages-build time; every frontmatter block now parses as valid YAML
+     - Titles that legitimately start with a quoted phrase (7 papers) keep their quotes
+     - Deployed
+
      ## [2026-08-03] ingest | 6 PDF articles (AEHE feedback special issue + StructRAG)
      - Sources: 5 × Assessment & Evaluation in Higher Education 51(5) special issue on feedback & GenAI + 1 × Smart Learning Environments (Springer)
      - Raw saved: `raw/papers/tandf-2026-feedback-futures-genai.md`, `raw/papers/tandf-2026-chatgpt-feedback-engagement.md`, `raw/papers/tandf-2026-genai-teacher-feedback-comparison.md`, `raw/papers/tandf-2026-learner-centered-feedback-ai.md`, `raw/papers/tandf-2026-care-full-feedback-genai.md`, `raw/papers/sle-2026-structrag-diagram-reasoning.md`

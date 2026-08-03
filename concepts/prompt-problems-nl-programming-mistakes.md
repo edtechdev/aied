@@ -1,5 +1,5 @@
 ---
-title: Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
+title: "Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks"
 created: 2026-07-07
 updated: 2026-07-07
 type: concept

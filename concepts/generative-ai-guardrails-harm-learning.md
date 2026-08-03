@@ -1,5 +1,5 @@
 ---
-title: "Generative AI without guardrails can harm learning: Evidence from high school mathematics"
+title: 'Generative AI without guardrails can harm learning: Evidence from high school mathematics'
 created: 2026-07-19
 updated: 2026-07-19
 type: concept

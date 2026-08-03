@@ -1,5 +1,5 @@
 ---
-title: "Stanford Evidence Base: AI in K-12 Education"
+title: 'Stanford Evidence Base: AI in K-12 Education'
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

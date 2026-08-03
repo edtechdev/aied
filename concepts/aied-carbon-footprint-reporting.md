@@ -1,5 +1,5 @@
 ---
-title: "The Environmental Cost of LLMs in AIED: Reporting and Practices"
+title: 'The Environmental Cost of LLMs in AIED: Reporting and Practices'
 created: 2026-06-11
 updated: 2026-06-11
 type: concept

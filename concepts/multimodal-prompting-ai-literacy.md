@@ -1,5 +1,5 @@
 ---
-title: "Students' multimodal prompting practices as epistemic work in AI literacy development"
+title: Students' multimodal prompting practices as epistemic work in AI literacy development
 created: 2026-08-01
 updated: 2026-08-01
 type: concept

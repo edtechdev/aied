@@ -1,9 +1,9 @@
 ---
-title: "The Impact of AI on Work in Higher Education"
+title: The Impact of AI on Work in Higher Education
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ["higher-ed", "faculty-development", "administrator", "market-analysis", "policy-maker"]
+tags: [higher-ed, faculty-development, administrator, market-analysis, policy-maker]
 sources: ["raw/articles/ai-higher-ed-workforce-survey.md"]
 confidence: high
 ---

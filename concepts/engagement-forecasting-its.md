@@ -1,5 +1,5 @@
 ---
-title: "From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning"
+title: 'From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning'
 created: 2026-05-20
 updated: 2026-05-22
 type: concept

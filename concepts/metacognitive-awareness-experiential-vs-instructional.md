@@ -1,5 +1,5 @@
 ---
-title: Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning
+title: "Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning"
 created: 2026-07-23
 updated: 2026-07-23
 type: concept
