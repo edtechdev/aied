@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **LLMs in education** — the umbrella topic — is covered by hundreds of wiki pages: [[llm-tutoring-feedback-diagnosis-gap]], [[socraticode-k12-programming-tutor]], [[llm-reasoning-traces-metacognition]], and [[measuring-llm-tutors-teach-vs-solve]] capture the field's central questions about whether LLM tutors teach or solve, scaffold or substitute ([[llm]], [[intelligent-tutoring]]).
+
 
 # Llm In Education
 
-This is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

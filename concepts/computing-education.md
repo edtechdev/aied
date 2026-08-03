@@ -7,9 +7,10 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Computing education** is the wiki's most densely studied domain: [[reshaping-cs-education-genai]], [[llm-programming-support-governance-cs-education]], [[code-review-genai-cs1]], and [[vibe-coding-programming-process-visualizer]] document how LLMs transform programming pedagogy, assessment, and student debugging practices.
+
 # Computing Education
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[ai-generated-instructional-videos-computing-ed]]

@@ -6,8 +6,10 @@ type: concept
 tags: ["academic-integrity", "plagiarism-detection", "policy-maker"]
 sources: []
 confidence: low
-status: stub
+
 ---
+> **Academic integrity** — the principles of honest authorship, attribution, and independent assessment — is being renegotiated as generative AI blurs the line between assistance and substitution. The wiki's corpus spans [[llm-detecting-llm-generated-content-education]], [[plagiarism-detection]], and authorship-ownership studies like [[ai-writing-support-stage-ownership-2026]], which show that integrity frameworks must target process ([[authentic-assessment]]) rather than detection alone.
+
 
 # Academic Integrity
 

@@ -6,8 +6,10 @@ type: concept
 tags: ["over-reliance", "academic-integrity", "student-experience"]
 sources: []
 confidence: low
-status: stub
+
 ---
+> **Over-reliance** — uncritical acceptance of AI output — is one of the wiki's most-documented risks: [[trust-reliance-ai-education-2026]], [[ai-fallibility-warning-help-seeking]], [[efficiency-gain-illusion-ai-overreliance]], and [[sycophantic-ai-social-interaction-2026]] show trust without verification degrades learning and judgment (trust-calibration, [[critical-thinking]]).
+
 
 # Over-reliance on AI
 

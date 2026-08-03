@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **AI education** — teaching about AI itself — is examined through [[k-12-ai-education]], [[ml-literacy-primary-education]], [[principled-ai-education]], and [[ai-literacy-equity-programming-policy]], which find that curricula must span technical, ethical, and equity dimensions of AI literacy.
+
 
 # Ai Education
 
-This is a stub page for the concept of ai education. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

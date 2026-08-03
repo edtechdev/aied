@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Generative Ai
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[lets-chat-chatbot-outreach-2026]] — The non-generative chatbot contrast case

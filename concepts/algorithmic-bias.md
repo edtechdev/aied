@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Algorithmic bias** in educational AI is documented across [[gender-bias-transfer-llm-writing]], [[ai-scoring-language-bias-physics]], [[llm-cultural-relevance-k12]], and [[bias-mitigation]] — models inherit and amplify demographic, linguistic, and cultural biases that require systematic auditing and mitigation.
+
 
 # Algorithmic Bias
 
-This is a stub page for the concept of algorithmic bias. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

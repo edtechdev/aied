@@ -5,12 +5,13 @@ updated: 2026-07-29
 type: concept
 tags: [ai-literacy, curriculum-design, instructional-design]
 sources: [raw/papers/finkelstein-principled-ai-education-2025.md]
-confidence: low
+confidence: medium
 ---
+> **Principled AI Education Framework** — A principled way to think about AI in education:
+
 
 # Principled AI Education Framework
 
-This is a stub page for "Principled AI Education Framework". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.
 
 ## Related Pages
 

@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Cognitive Offloading
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[genai-can-harm-teaching-rct-2026]] — Teacher-side cognitive offloading harms students

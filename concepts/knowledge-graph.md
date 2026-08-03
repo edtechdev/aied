@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Knowledge Graph
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[concept-catalyst-engineering-scaffolds]]

@@ -7,9 +7,10 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Educational datasets** underpin AIED research and evaluation: [[student-misconceptions-conditionals-loops-taxonomy]], [[book-level-synthetic-textbook-organization]], and [[iks-instruct-dataset-indian-knowledge]] document dataset construction and the risks of synthetic or culturally narrow data ([[educational-nlp]], [[benchmark]]).
+
 # Educational Datasets
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[iks-instruct-dataset-indian-knowledge]]

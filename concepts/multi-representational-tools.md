@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Multi-representational tools** — presenting concepts across text, diagrams, and interactives — are studied in [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]], [[code-anchor-multi-view-visualization]], [[visual-query-tracer-declarative-logic-learning]], and [[supplynet-visual-exploratory-learning]]: AI-generated multiple representations support comprehension when mappings between forms are explicit ([[multimodal]], [[visualization]]).
+
 
 # Multi Representational Tools
 
-This is a stub page for the concept of multi representational tools. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

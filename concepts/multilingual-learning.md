@@ -7,9 +7,10 @@ tags: [multilingual-learning]
 sources: []
 confidence: low
 ---
+> **Multilingual learning** with AI is examined in [[genai-linguistic-diversity-academic-writing]], [[international-students-conversational-ai-adaptation]], [[ai-interlocutor-l2-spoken-dialogue]], and [[self-referential-l2-writing-llm-assessment]]: LLMs enable scalable language practice but risk privileging English and dominant varieties ([[equity]], [[language-learning]]).
+
 # Multilingual Learning
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[iks-instruct-dataset-indian-knowledge]]

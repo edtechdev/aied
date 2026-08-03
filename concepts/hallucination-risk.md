@@ -6,8 +6,10 @@ type: concept
 tags: ["hallucination-risk", "llm", "student-experience"]
 sources: []
 confidence: low
-status: stub
+
 ---
+> **Hallucination risk** — fabricated content from LLMs — is a documented failure mode in educational settings: [[llm-cognitive-diagnosis-handwritten-math]], [[eduguard-safe-rag-llm-tutor]], [[vetting-dual-llm-safety-education]], and [[llm-fallacy-misattribution]] examine detection, mitigation, and the misattribution of model errors to students ([[over-reliance]], trust-calibration).
+
 
 # Hallucination Risk
 

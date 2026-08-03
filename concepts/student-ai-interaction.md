@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Student Ai Interaction
 
-*Stub page — created as a back-link target.*
 
 ## Related Pages
 - [[sycophantic-ai-social-interaction-2026]] — Relational substitution with sycophantic AI

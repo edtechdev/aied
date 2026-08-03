@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Item response theory** — psychometric modeling of item difficulty and ability — meets LLMs in [[llm-item-difficulty-prediction]], [[llm-psychometric-calibration-cdp]], and [[knowledge-tracing-irt]]: AI predicts difficulty and calibrates assessment, improving measurement precision ([[educational-measurement]], [[assessment-validity]]).
+
 
 # Item Response Theory
 
-This is a stub page for the concept of item response theory. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

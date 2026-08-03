@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Socratic AI** — dialogue that elicits rather than supplies — is evaluated in [[codify-socratic-programming-tutor]], [[socratic-tests-conversational-assessment]], [[hashmi-socratic-physics-chatbot-2025]], and [[socraticode-k12-programming-tutor]]: questioning-based tutors support reasoning but risk being bypassed by direct-answer LLMs ([[socratic-method]], [[scaffolding]]).
+
 
 # Socratic Ai
 
-This is a stub page for the concept of socratic ai. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

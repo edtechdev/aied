@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Pedagogical safety** — ensuring AI tutors cannot mislead or harm learners — is studied in [[hazra-safetutors-pedagogical-safety-2026]], [[eduguard-safe-rag-llm-tutor]], [[petechat-guardrailed-ai-tutor]], and [[vetting-dual-llm-safety-education]]: safety requires layered guardrails, evaluation, and human oversight ([[ethics]], [[human-in-the-loop]]).
+
 
 # Pedagogical Safety
 
-This is a stub page for the concept of pedagogical safety. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

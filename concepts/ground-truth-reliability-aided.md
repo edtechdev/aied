@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Ground-truth reliability** in AIED evaluation asks whether the human labels used to judge AI are themselves trustworthy: [[ground-truth-reliability-aied]], [[vetting-dual-llm-safety-education]], and [[data-annotations-pedagogical-hints]] show expert disagreement and noisy annotations that can mislead benchmark conclusions ([[ai-ed-evaluation]], [[benchmark]]).
+
 
 # Ground Truth Reliability Aided
 
-This is a stub page for the concept of ground truth reliability aided. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

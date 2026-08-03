@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Prompt engineering** is both a learner skill and a system design lever: [[prompt-coach-agentic-tutor-prompt-engineering]], [[cotal-formative-assessment-scoring-2026]], [[learning-to-prompt-adaptive-tutoring]], and [[prompt-based-programming-lesson]] show prompts determine LLM output quality — making prompt literacy a core [[ai-literacy]] component ([[llm]], [[educational-content]]).
+
 
 # Prompt Engineering
 
-This is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 - [[cotal-formative-assessment-scoring-2026]] — Iterative refinement boosts grading by 38.9%

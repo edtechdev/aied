@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Cognitive load theory** — the limits of working memory in instruction — is the theoretical lens for much wiki work on AI scaffolding: [[concept-catalyst-engineering-scaffolds]], [[rethinking-scaffolding-llm-tutors]], and [[cognitive-offloading]] show AI can either reduce extraneous load or bypass the germane load that produces learning.
+
 
 # Cognitive Load Theory
 
-This is a stub page for the concept of cognitive load theory. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 
