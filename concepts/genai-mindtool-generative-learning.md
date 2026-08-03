@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [educational-theory, generative-ai, higher-ed, instructional-design, scaffolding]
-sources: ["raw/articles/caeai-genai-mindtool.md"]
+sources: ["raw/papers/caeai-genai-mindtool.md"]
 confidence: high
 ---
 

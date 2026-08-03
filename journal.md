@@ -126,59 +126,59 @@
 
 ## 2026-08-01
 
-- ● [[ai-tpack-preservice-math-teachers]] — "raw/articles/caeai-ai-tpack-math.md"
+- ● [[ai-tpack-preservice-math-teachers]] — "raw/papers/caeai-ai-tpack-math.md"
   **AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study**
   Tags: [ai-literacy, higher-ed, stem-education, faculty-development]
 
-- ● [[ai-vocational-education-training-review]] — "raw/articles/caeai-ai-vet-review.md"
+- ● [[ai-vocational-education-training-review]] — "raw/papers/caeai-ai-vet-review.md"
   **Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness**
   Tags: [professional-training, efficacy-study, intelligent-tutoring, generative-ai, adaptive-learning]
 
-- ● [[conversational-ai-informal-learning]] — "raw/articles/caeai-conversational-ai-informal.md"
+- ● [[conversational-ai-informal-learning]] — "raw/papers/caeai-conversational-ai-informal.md"
   **Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning**
   Tags: [generative-ai, informal-learning, llm, lifelong-learning, student-experience]
 
-- ● [[fair-explainable-edu-recommendations]] — "raw/articles/caeai-fair-recommendations.md"
+- ● [[fair-explainable-edu-recommendations]] — "raw/papers/caeai-fair-recommendations.md"
   **Fair and explainable educational recommendations with a hybrid Graph-GRU framework**
   Tags: [ai-education, bias-mitigation, learning-analytics, personalized-learning]
 
-- ● [[genai-mindtool-generative-learning]] — "raw/articles/caeai-genai-mindtool.md"
+- ● [[genai-mindtool-generative-learning]] — "raw/papers/caeai-genai-mindtool.md"
   **Generative AI (GenAI) as a mindtool that supports generative learning (GL)**
   Tags: [educational-theory, generative-ai, higher-ed, instructional-design, scaffolding]
 
-- ● [[genai-runaway-object-math-higher-ed]] — "raw/articles/caeai-genai-runaway-object.md"
+- ● [[genai-runaway-object-math-higher-ed]] — "raw/papers/caeai-genai-runaway-object.md"
   **GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics**
   Tags: [generative-ai, higher-ed, stem-education, faculty-development, educational-theory]
 
-- ● [[human-ai-collaboration-trust-expectations]] — "raw/articles/caeai-human-ai-collab-trust.md"
+- ● [[human-ai-collaboration-trust-expectations]] — "raw/papers/caeai-human-ai-collab-trust.md"
   **Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust**
   Tags: [human-in-the-loop, generative-ai, higher-ed, student-experience]
 
-- ● [[human-vs-llm-ordered-coding]] — "raw/articles/caeai-human-llm-coding.md"
+- ● [[human-vs-llm-ordered-coding]] — "raw/papers/caeai-human-llm-coding.md"
   **Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis**
   Tags: [automated-grading, educational-theory, ground-truth-reliability-aied, learning-analytics, llm]
 
-- ● [[llm-unlearning-math-privacy]] — "raw/articles/caeai-llm-unlearning-math.md"
+- ● [[llm-unlearning-math-privacy]] — "raw/papers/caeai-llm-unlearning-math.md"
   **Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education**
   Tags: [llm, privacy, k-12, pedagogical-safety, intelligent-tutoring]
 
-- ● [[ml-literacy-primary-education]] — "raw/articles/caeai-ml-literacy-primary.md"
+- ● [[ml-literacy-primary-education]] — "raw/papers/caeai-ml-literacy-primary.md"
   **Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design**
   Tags: [ai-literacy, k-12, computational-thinking, instructional-design]
 
-- ● [[multimodal-prompting-ai-literacy]] — "raw/articles/caeai-multimodal-prompting.md"
+- ● [[multimodal-prompting-ai-literacy]] — "raw/papers/caeai-multimodal-prompting.md"
   **Students' multimodal prompting practices as epistemic work in AI literacy development**
   Tags: [ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal]
 
-- ● [[quest-ai-inquiry-preservice-teachers]] — "raw/articles/caeai-quest-ai-inquiry.md"
+- ● [[quest-ai-inquiry-preservice-teachers]] — "raw/papers/caeai-quest-ai-inquiry.md"
   **Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers**
   Tags: [ai-literacy, faculty-development, generative-ai, efficacy-study, higher-ed]
 
-- ● [[same-ai-different-pathways]] — "raw/articles/caeai-same-ai-different-pathways.md"
+- ● [[same-ai-different-pathways]] — "raw/papers/caeai-same-ai-different-pathways.md"
   **Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts**
   Tags: [ai-literacy, cognitive-offloading, generative-ai, higher-ed, prompt-engineering]
 
-- ● [[vetting-dual-llm-safety-education]] — "raw/articles/caeai-vetting-safety.md"
+- ● [[vetting-dual-llm-safety-education]] — "raw/papers/caeai-vetting-safety.md"
   **VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI**
   Tags: [pedagogical-safety, k-12, llm, generative-ai]
 
@@ -224,7 +224,7 @@
   **Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course**
   Tags: [generative-ai, student-experience, stem-education, higher-ed, learning-analytics]
 
-- ● [[llm-intervention-design-cs-review]] — "raw/articles/llm-intervention-design-cs-review.md"
+- ● [[llm-intervention-design-cs-review]] — "raw/papers/llm-intervention-design-cs-review.md"
   **A review of intervention designs of LLM Integration in Undergraduate Computer Science Education**
   Tags: [cs-education, generative-ai, llm, scaffolding, instructional-design, efficacy-study, prompt-engineering, higher-ed, computational-thinking]
 
@@ -1246,7 +1246,7 @@
   **'Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost'**
   Tags: [generative-ai, efficacy-study, teacher-role, higher-ed, policy-maker]
 
-- ◐ [[codify-socratic-programming-tutor]] — raw/articles/codify-socratic-programming-tutor.md
+- ◐ [[codify-socratic-programming-tutor]] — raw/papers/codify-socratic-programming-tutor.md
   **'Codify: An Intelligent Socratic Tutoring System for Programming Education'**
   Tags: [intelligent-tutoring, llm, stem-education, higher-ed, adaptive-learning]
 
@@ -1330,7 +1330,7 @@
 
 ## 2026-05-21
 
-- ● [[ai-changing-teaching-workflows]] — raw/articles/ai-changing-teaching-workflows-2026-05-21.md
+- ● [[ai-changing-teaching-workflows]] — raw/papers/ai-changing-teaching-workflows-2026-05-21.md
   **How AI Is Changing Teaching Workflows**
   Tags: [generative-ai, teacher-role, faculty-development, efficacy-study, rct, k-12, higher-ed, student-experience, equity, ai-literacy, formative-assessment, learning-analytics, feedback-loop]
 
@@ -1428,7 +1428,7 @@
   **'Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design'**
   Tags: [ai-literacy, faculty-development, generative-ai, multi-agent, scaffolding, teacher-role]
 
-- ◐ [[codify-socratic-tutoring-programming]] — raw/articles/codify-socratic-tutoring-programming.md
+- ◐ [[codify-socratic-tutoring-programming]] — raw/papers/codify-socratic-tutoring-programming.md
   **'Codify: An Intelligent Socratic Tutoring System for Programming Education'**
   Tags: [generative-ai, higher-ed, intelligent-tutoring, llm, programming-its, scaffolding, socratic-method]
 
@@ -1438,7 +1438,7 @@
   **'AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention'**
   Tags: [higher-ed, llm, generative-ai, student-experience, affective-computing, edtech-platform]
 
-- ● [[chatgpt-critical-creative-thinking-review]] — raw/articles/chatgpt-critical-creative-thinking-review.md
+- ● [[chatgpt-critical-creative-thinking-review]] — raw/papers/chatgpt-critical-creative-thinking-review.md
   **'ChatGPT Critical and Creative Thinking: Systematic Review'**
   Tags: [ai-literacy, boundary-object, generative-ai, cognitive-offloading, creative-thinking, critical-thinking, higher-ed, instructional-design, metacognition, scaffolding, scoping-review, self-regulated-learning]
 
@@ -1622,7 +1622,7 @@
 
 ## 2026-05-10
 
-- ◐ [[critical-thinking-genai-scaffolding]] — raw/articles/critical-thinking-genai-scaffolding.md
+- ◐ [[critical-thinking-genai-scaffolding]] — raw/papers/critical-thinking-genai-scaffolding.md
   **Scaffolding Critical Thinking with Generative AI**
   Tags: [generative-ai, higher-ed, scaffolding]
 
@@ -1632,15 +1632,15 @@
   **Guidelines for Designing AI Technologies to Support Adult Learning**
   Tags: [lifelong-learning, personalized-learning, adaptive-learning, faculty-development, edtech-platform]
 
-- ◐ [[ai-education-global-capacity]] — "raw/articles/ai-education-global-capacity.md"
+- ◐ [[ai-education-global-capacity]] — "raw/papers/ai-education-global-capacity.md"
   **'What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries'**
   Tags: [policy-maker, equity, k-12, teacher-role, ai-literacy]
 
-- ◐ [[ai-higher-ed-bridge-gap]] — "raw/articles/ai-higher-ed-bridge-gap.md"
+- ◐ [[ai-higher-ed-bridge-gap]] — "raw/papers/ai-higher-ed-bridge-gap.md"
   **Higher Education Must Bridge the AI Gap**
   Tags: [higher-ed, equity, ai-literacy, policy-maker, regulation]
 
-- ● [[ai-higher-ed-workforce-survey]] — "raw/articles/ai-higher-ed-workforce-survey.md"
+- ● [[ai-higher-ed-workforce-survey]] — "raw/papers/ai-higher-ed-workforce-survey.md"
   **The Impact of AI on Work in Higher Education**
   Tags: [higher-ed, faculty-development, administrator, market-analysis, policy-maker]
 
@@ -1656,11 +1656,11 @@
   **'AISSA: AI-based Student Slides Analysis Tool for Academic Presentations'**
   Tags: [automated-grading, learning-analytics, formative-assessment, higher-ed, llm]
 
-- ● [[brookings-ai-students-report]] — "raw/articles/brookings-ai-students-report.md"
+- ● [[brookings-ai-students-report]] — "raw/papers/brookings-ai-students-report.md"
   **'A New Direction for Students in an AI World: Prosper, Prepare, Protect'**
   Tags: [policy-maker, k-12, student-experience, regulation, ai-literacy]
 
-- ◐ [[civic-education-ai-lesson-plans]] — raw/articles/civic-education-ai-lesson-plans.md
+- ◐ [[civic-education-ai-lesson-plans]] — raw/papers/civic-education-ai-lesson-plans.md
   **AI-Generated Lesson Plans in Civic Education**
   Tags: [k-12, ai-literacy, teacher-role, formative-assessment, equity]
 
@@ -1676,7 +1676,7 @@
   **Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing**
   Tags: [writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment]
 
-- ● [[state-policy-teacher-ai]] — "raw/articles/state-policy-teacher-ai.md"
+- ● [[state-policy-teacher-ai]] — "raw/papers/state-policy-teacher-ai.md"
   **How State Policy Can Help Teachers Use AI Well**
   Tags: [regulation, teacher-role, k-12, policy-maker, faculty-development]
 
@@ -1690,7 +1690,7 @@
   **'AI Literacy Assessment: Self-Reported vs Performance Misalignment'**
   Tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, faculty-development]
 
-- ● [[ai-metacognition-stem-review]] — raw/articles/mdpi-metacognition-ai-stem-2025.md
+- ● [[ai-metacognition-stem-review]] — raw/papers/mdpi-metacognition-ai-stem-2025.md
   **AI Tools Scaffolding Metacognition in STEM**
   Tags: [metacognition, stem-education, learning-analytics, intelligent-tutoring, posthumanist, ai-literacy]
 
@@ -1816,7 +1816,7 @@
   **AI Tutor Safety and Pedagogical Harms**
   Tags: [pedagogical-safety, intelligent-tutoring, adaptive-learning, k-12, higher-ed, llm, bias-mitigation]
 
-- ● [[authentic-assessment]] — raw/articles/zhan-boud-du-authentic-assessment-scoping-review-2025.md
+- ● [[authentic-assessment]] — raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md
   **Authentic Assessment**
   Tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning]
 
@@ -1836,7 +1836,7 @@
   **Educational VLM Evaluation**
   Tags: [assessment, multimodal, benchmark, pedagogical-safety, stem-education, ai-education]
 
-- ● [[faculty-development-genai]] — raw/articles/every-learner-faculty-development-genai-playbook-2025.md
+- ● [[faculty-development-genai]] — raw/papers/every-learner-faculty-development-genai-playbook-2025.md
   **Faculty Development and GenAI**
   Tags: [faculty-development, higher-ed, policy-maker, ai-literacy, generative-ai, ai-education]
 
@@ -1876,7 +1876,7 @@
   **Multimodal AI Tutoring in STEM**
   Tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity]
 
-- ● [[multimodal-learning-genai]] — raw/articles/varga-atkins-educators-guide-multimodal-learning-genai-2025.md
+- ● [[multimodal-learning-genai]] — raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md
   **Multimodal Learning with Generative AI**
   Tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback-loop, assessment]
 

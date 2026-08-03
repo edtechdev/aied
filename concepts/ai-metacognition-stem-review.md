@@ -4,10 +4,10 @@ created: 2026-05-08
 updated: 2026-05-08
 type: concept
 tags: [metacognition, stem-education, learning-analytics, intelligent-tutoring, posthumanist, ai-literacy]
-sources: [raw/articles/mdpi-metacognition-ai-stem-2025.md]
+sources: [raw/papers/mdpi-metacognition-ai-stem-2025.md]
 confidence: high
 ---
-> 📄 Full text: [MDPI](https://www.mdpi.com/2079-3200/13/1/148) · [local](raw/articles/mdpi-metacognition-ai-stem-2025.md)
+> 📄 Full text: [MDPI](https://www.mdpi.com/2079-3200/13/1/148) · [local](raw/papers/mdpi-metacognition-ai-stem-2025.md)
 
 
 

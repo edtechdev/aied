@@ -4,7 +4,7 @@ created: 2026-05-26
 updated: 2026-05-26
 type: concept
 tags: [intelligent-tutoring, llm, stem-education, higher-ed, adaptive-learning]
-sources: [raw/articles/codify-socratic-programming-tutor.md]
+sources: [raw/papers/codify-socratic-programming-tutor.md]
 confidence: medium
 ---
 

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [professional-training, efficacy-study, intelligent-tutoring, generative-ai, adaptive-learning]
-sources: ["raw/articles/caeai-ai-vet-review.md"]
+sources: ["raw/papers/caeai-ai-vet-review.md"]
 confidence: high
 ---
 

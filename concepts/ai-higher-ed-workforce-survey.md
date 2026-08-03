@@ -4,10 +4,10 @@ created: 2026-05-09
 updated: 2026-05-09
 type: concept
 tags: [higher-ed, faculty-development, administrator, market-analysis, policy-maker]
-sources: ["raw/articles/ai-higher-ed-workforce-survey.md"]
+sources: ["raw/papers/ai-higher-ed-workforce-survey.md"]
 confidence: high
 ---
-> 📄 Full text: [EDUCAUSE](https://www.educause.edu/research/2026/the-impact-of-ai-on-work-in-higher-education) · [local](raw/articles/ai-higher-ed-workforce-survey.md)
+> 📄 Full text: [EDUCAUSE](https://www.educause.edu/research/2026/the-impact-of-ai-on-work-in-higher-education) · [local](raw/papers/ai-higher-ed-workforce-survey.md)
 
 
 

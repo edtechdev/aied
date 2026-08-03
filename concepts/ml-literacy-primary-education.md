@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [ai-literacy, k-12, computational-thinking, instructional-design]
-sources: ["raw/articles/caeai-ml-literacy-primary.md"]
+sources: ["raw/papers/caeai-ml-literacy-primary.md"]
 confidence: high
 ---
 
