@@ -18,6 +18,7 @@ Student and faculty over-reliance on AI tools in education
 *This page is a stub — awaiting further sources and content.*
 
 ## Related Pages
+- [[critical-genai-use-predictors]] — Protective factors against uncritical overreliance on GenAI
 - [[agency-gap-ai-writing]] — Over-direction risk of rigid proactive designs
 - [[feedback-futures-genai]] — Agency vs dependency tension in GenAI feedback
 - [[chatgpt-feedback-engagement-genai]] — Metacognitive laziness and 83.9% uptake of ChatGPT feedback
