@@ -248,9 +248,9 @@
   **PersonaVLM: Long-Term Personalization for AI Tutors**
   Tags: [personalization, ai-tutoring, student-modeling, llm]
 
-- ○ [[scheu-mobile-chatbot-journaling-motivation-2026]] — raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md
-  **Mobile Chatbot Journaling for Student Motivation**
-  Tags: [chatbot, journaling, mobile-learning, student-experience]
+- ● [[scheu-mobile-chatbot-journaling-motivation-2026]] — raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md
+  **Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement**
+  Tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, engagement-metrics, efficacy-study, scaffolding]
 
 - ○ [[singh-eduqwen-pedagogical-rl-2026]] — raw/papers/singh-eduqwen-pedagogical-rl-2026.md
   **EduQwen: Pedagogical RL**

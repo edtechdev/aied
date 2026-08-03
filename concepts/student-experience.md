@@ -15,6 +15,7 @@ confidence: low
 ## Connections
 
 ## Related Pages
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Intrinsic motivation & engagement with a mobile journaling chatbot
 - [[agency-gap-ai-writing]] — Learners value confirmatory reactive support and dialogic proactive support
 - [[chatgpt-feedback-engagement-genai]] — Students' cognitive/metacognitive/affective/behavioural engagement with ChatGPT feedback
 - [[genai-teacher-feedback-comparison]] — Students value GenAI access + teacher trustworthiness

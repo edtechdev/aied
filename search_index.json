@@ -3384,7 +3384,7 @@
     "slug": "engagement-metrics",
     "title": "Engagement Metrics",
     "tags": [],
-    "content": "Engagement MetricsStub page for cross-referencing.Related Pages\ncross-subject-validity-delayed-start \u2014 Delayed start frequency as a generalizable engagement metric with cross-subject predictive validity\nframing-5-percent-problem-teachers-persistence -- Teachers identify four dimensions of low persistence in adaptive math platforms (motivation, cognitive roadblocks, resilience, context) and prioritize diagnosis over aggregate metrics.ai-assisted-learning-modes-eeg \u2014 AI-Assisted Learning Modes (EE",
+    "content": "Engagement MetricsStub page for cross-referencing.Related Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Response length (chars/prompt) as behavioral engagement metric\ncross-subject-validity-delayed-start \u2014 Delayed start frequency as a generalizable engagement metric with cross-subject predictive validity\nframing-5-percent-problem-teachers-persistence -- Teachers identify four dimensions of low persistence in adaptive math platforms (motivation, cognitive roadblocks, resilience, context",
     "url": "pages/engagement-metrics.html"
   },
   {
@@ -3570,7 +3570,7 @@
       "formative-assessment",
       "personalized-learning"
     ],
-    "content": "Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nfeedback-futures-genai \u2014 AEHE special-issue editorial on GenAI feedback futures\nchatgpt-feedback-engagement-genai \u2014 Students' 4-dimension engagement with ChatGPT feedback\ngenai-teacher-feedback-comparison \u2014 N=6,960 student perceptions of GenAI vs teacher feedback\nlearner-centered-feedback-ai \u2014 Teachers' practices & perceptions with AI feedback too",
+    "content": "Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 LLM assistant usage forms an engagement feedback loop over time\nfeedback-futures-genai \u2014 AEHE special-issue editorial on GenAI feedback futures\nchatgpt-feedback-engagement-genai \u2014 Students' 4-dimension engagement with ChatGPT feedback\ngenai-teacher-feedback-comparison \u2014 N=6,960 student perceptions ",
     "url": "pages/feedback-loop.html"
   },
   {
@@ -4071,7 +4071,7 @@
     "slug": "generative-ai",
     "title": "Generative Ai",
     "tags": [],
-    "content": "Generative AiStub page \u2014 full synthesis pending.Related Pages\ngenai-impact-chinese-students-hss \u2014 Survey of Chinese HSS students on GenAI's effects on learning motivation, creativity, and academic performance\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\ngenai-minoritized-knowledges-disability \u2014 epistemic marginalization of minoritized knowledges via GenAI\n  - efficiency-gain-illusion-ai-overreliance \u2014 Efficiency-gain illusion: systematic miscalibration about GenAI time-savin",
+    "content": "Generative AiStub page \u2014 full synthesis pending.Related Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 GPT-3.5 journaling assistant: scaffolds writing, no motivation gain\ngenai-impact-chinese-students-hss \u2014 Survey of Chinese HSS students on GenAI's effects on learning motivation, creativity, and academic performance\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\ngenai-minoritized-knowledges-disability \u2014 epistemic marginalization of minoritized knowledges via GenAI\n  -",
     "url": "pages/generative-ai.html"
   },
   {
@@ -4202,7 +4202,7 @@
       "generative-ai",
       "llm"
     ],
-    "content": "AI in Higher EducationConnectionsRelated Pages\nagency-gap-ai-writing \u2014 AI writing support in medical/nursing education\nfeedback-futures-genai \u2014 GenAI feedback governance and assessment design in universities\ngenai-teacher-feedback-comparison \u2014 Four-Australian-university survey of feedback perceptions\ncare-full-feedback-genai \u2014 Feedback as professional craft in university contexts\ngenai-impact-chinese-students-hss \u2014 Large-scale survey examining GenAI's role in academic development of humanities a",
+    "content": "AI in Higher EducationConnectionsRelated Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Chatbot journaling RCT at a German technical university\nagency-gap-ai-writing \u2014 AI writing support in medical/nursing education\nfeedback-futures-genai \u2014 GenAI feedback governance and assessment design in universities\ngenai-teacher-feedback-comparison \u2014 Four-Australian-university survey of feedback perceptions\ncare-full-feedback-genai \u2014 Feedback as professional craft in university contexts\ngenai-impac",
     "url": "pages/higher-ed.html"
   },
   {
@@ -6343,19 +6343,22 @@
       "scaffolding",
       "ai-education"
     ],
-    "content": "ScaffoldingInstructional scaffolding techniques and their implementation in AI-enhanced learning environmentsConnectionsRelated Pages\nagency-gap-ai-writing \u2014 Proactive designs scaffold reasoning but risk over-scaffolding\nlearner-centered-feedback-ai \u2014 AI as reflective scaffold for teachers' evaluative judgement\nstructrag-diagram-reasoning-ai-tutoring \u2014 Pattern templates scaffold structural reasoning\nai-coaching-rl-skill-development \u2014 RL-based coaching policy that dynamically fades scaffolding ba",
+    "content": "ScaffoldingInstructional scaffolding techniques and their implementation in AI-enhanced learning environmentsConnectionsRelated Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Course + LLM assistant as journaling scaffolds (2x2 RCT)\nagency-gap-ai-writing \u2014 Proactive designs scaffold reasoning but risk over-scaffolding\nlearner-centered-feedback-ai \u2014 AI as reflective scaffold for teachers' evaluative judgement\nstructrag-diagram-reasoning-ai-tutoring \u2014 Pattern templates scaffold structural ",
     "url": "pages/scaffolding.html"
   },
   {
     "slug": "scheu-mobile-chatbot-journaling-motivation-2026",
-    "title": "\"Mobile Chatbot Journaling for Student Motivation\"",
+    "title": "\"Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement\"",
     "tags": [
-      "chatbot",
-      "journaling",
-      "mobile-learning",
-      "student-experience"
+      "self-regulated-learning",
+      "generative-ai",
+      "higher-ed",
+      "student-experience",
+      "engagement-metrics",
+      "efficacy-study",
+      "scaffolding"
     ],
-    "content": "Mobile Chatbot Journaling for Student MotivationThis is a stub page for \"Mobile Chatbot Journaling for Student Motivation\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagementSven Scheu, Simone N. Loeffler & Alexander Maedche (2026) \u2014 International Journal of Educational Technology in Higher Education (Springer), 23:15. Open Access, CC BY 4.0. doi:10.1186/s41239-026-00589-7. (Page upgraded from stub to full synthesis 2026-08-03 \u2014 full text now ingested.)\ud83d\udcc4 Full text (Springer, OA)SummaryA randomized 2\u00d72 full-factorial field experiment (N = 179 German university students,",
     "url": "pages/scheu-mobile-chatbot-journaling-motivation-2026.html"
   },
   {
@@ -6763,7 +6766,7 @@
       "k-12",
       "higher-ed"
     ],
-    "content": "Student Experience with AI> Stub \u2014 pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.ConnectionsRelated Pages\nagency-gap-ai-writing \u2014 Learners value confirmatory reactive support and dialogic proactive support\nchatgpt-feedback-engagement-genai \u2014 Students' cognitive/metacognitive/affective/behavioural engagement with ChatGPT feedback\ngenai-teacher-feedback-comparison \u2014 Students value GenAI access + teacher trustworthiness\ngenai-impact-chinese-s",
+    "content": "Student Experience with AI> Stub \u2014 pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.ConnectionsRelated Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Intrinsic motivation & engagement with a mobile journaling chatbot\nagency-gap-ai-writing \u2014 Learners value confirmatory reactive support and dialogic proactive support\nchatgpt-feedback-engagement-genai \u2014 Students' cognitive/metacognitive/affective/behavioural engagement with ChatGPT feed",
     "url": "pages/student-experience.html"
   },
   {
