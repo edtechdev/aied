@@ -7,6 +7,8 @@ tags: [ai-education, institutional-change, faculty-development, higher-ed, pedag
 sources: [raw/papers/2605.12757.md]
 confidence: high
 ---
+> Perl-Nussbaum & Finkelstein (2026) adapt institutional-change models to generative AI as an **arrival technology** — one that entered classrooms before pedagogical evidence existed — yielding a six-dimension framework and design implications for leading change under uncertainty ([[faculty-development]], [[higher-ed]], [[policy-maker]]).
+
 
 # Institutional Change Framework for AI
 

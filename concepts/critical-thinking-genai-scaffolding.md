@@ -7,6 +7,8 @@ tags: [generative-ai, higher-ed, scaffolding]
 sources: [raw/articles/critical-thinking-genai-scaffolding.md]
 confidence: medium
 ---
+> Vendrell & Johnston (2026) propose a design-oriented framework for LLM use in higher education that strengthens rather than displaces [[critical-thinking]], countering [[cognitive-offloading]] and metacognitive disengagement ([[metacognition]], [[scaffolding]]).
+
 
 # Scaffolding Critical Thinking with Generative AI
 

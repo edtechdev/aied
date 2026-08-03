@@ -7,6 +7,8 @@ tags: [intelligent-tutoring, generative-ai, llm, scaffolding, feedback-loop]
 sources: []
 confidence: high
 ---
+> **AI tutoring** — the use of AI (especially [[llm|LLMs]] and [[intelligent-tutoring|intelligent tutoring systems]]) to provide personalized, adaptive, scalable instructional support: conversational tutors, scaffolded feedback systems, adaptive platforms, and agent-based tutors with long-term learner models. Effectiveness hinges on pedagogical design ([[scaffolding]], feedback quality, autonomy balance) rather than the model alone — see [[measuring-llm-tutors-teach-vs-solve]] and [[socratic-method]].
+
 
 # AI Tutoring
 

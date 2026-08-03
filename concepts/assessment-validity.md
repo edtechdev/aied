@@ -7,6 +7,8 @@ tags: [ai-literacy, assessment, assessment-validity, educational-theory, "facult
 sources: [2601.06101]
 confidence: high
 ---
+> **Assessment validity** — whether an instrument measures what it claims — is under strain in AI education: [[ai-literacy]] self-reports overestimate actual skill (40% gap; r=0.31 self-report vs r=0.72 task-based), demanding task-based, construct-aligned designs ([[benchmark]], [[automated-grading]]).
+
 
 # Assessment Validity in AI Education
 
