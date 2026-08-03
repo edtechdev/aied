@@ -4,7 +4,7 @@ created: 2026-07-31
 updated: 2026-07-31
 type: concept
 tags: [cs-education, generative-ai, llm, scaffolding, instructional-design, efficacy-study, prompt-engineering, higher-ed, computational-thinking]
-sources: ["raw/articles/llm-intervention-design-cs-review.md"]
+sources: ["raw/papers/llm-intervention-design-cs-review.md"]
 confidence: high
 ---
 

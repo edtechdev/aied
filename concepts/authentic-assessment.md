@@ -5,9 +5,9 @@ updated: 2026-05-07
 type: concept
 tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning]
 confidence: high
-sources: [raw/articles/zhan-boud-du-authentic-assessment-scoping-review-2025.md]
+sources: [raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md]
 ---
-> 📄 Full text: [Springer](https://link.springer.com/article/10.1007/s10734-025-01588-9) · [local](raw/articles/zhan-boud-du-authentic-assessment-scoping-review-2025.md)
+> 📄 Full text: [Springer](https://link.springer.com/article/10.1007/s10734-025-01588-9) · [local](raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md)
 
 
 

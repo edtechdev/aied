@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [ai-education, bias-mitigation, learning-analytics, personalized-learning]
-sources: ["raw/articles/caeai-fair-recommendations.md"]
+sources: ["raw/papers/caeai-fair-recommendations.md"]
 confidence: high
 ---
 

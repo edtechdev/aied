@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [generative-ai, higher-ed, stem-education, faculty-development, educational-theory]
-sources: ["raw/articles/caeai-genai-runaway-object.md"]
+sources: ["raw/papers/caeai-genai-runaway-object.md"]
 confidence: high
 ---
 

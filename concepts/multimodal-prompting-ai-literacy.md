@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal]
-sources: ["raw/articles/caeai-multimodal-prompting.md"]
+sources: ["raw/papers/caeai-multimodal-prompting.md"]
 confidence: high
 ---
 

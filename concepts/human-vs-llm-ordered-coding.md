@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [automated-grading, educational-theory, ground-truth-reliability-aied, learning-analytics, llm]
-sources: ["raw/articles/caeai-human-llm-coding.md"]
+sources: ["raw/papers/caeai-human-llm-coding.md"]
 confidence: high
 ---
 

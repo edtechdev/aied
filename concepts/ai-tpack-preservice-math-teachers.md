@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [ai-literacy, higher-ed, stem-education, faculty-development]
-sources: ["raw/articles/caeai-ai-tpack-math.md"]
+sources: ["raw/papers/caeai-ai-tpack-math.md"]
 confidence: high
 ---
 

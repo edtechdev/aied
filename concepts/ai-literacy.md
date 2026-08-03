@@ -5,9 +5,9 @@ updated: 2026-07-27
 type: concept
 tags: [ai-literacy, higher-ed, k-12, policy-maker, active-learning, collaborative-ai-tutoring]
 confidence: medium
-sources: [raw/papers/hingle-collaborative-ai-literacy-2025.md, raw/articles/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
+sources: [raw/papers/hingle-collaborative-ai-literacy-2025.md, raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
 ---
-> 📄 Full text: [arXiv:2508.15111](https://arxiv.org/abs/2508.15111v1) · [local](raw/papers/hingle-collaborative-ai-literacy-2025.md) · [Liverpool Repository](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf) · [local](raw/articles/varga-atkins-educators-guide-multimodal-learning-genai-2025.md)
+> 📄 Full text: [arXiv:2508.15111](https://arxiv.org/abs/2508.15111v1) · [local](raw/papers/hingle-collaborative-ai-literacy-2025.md) · [Liverpool Repository](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf) · [local](raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md)
 
 
 

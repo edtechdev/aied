@@ -4,10 +4,10 @@ created: 2026-05-09
 updated: 2026-05-09
 type: concept
 tags: [regulation, teacher-role, k-12, policy-maker, faculty-development]
-sources: ["raw/articles/state-policy-teacher-ai.md"]
+sources: ["raw/papers/state-policy-teacher-ai.md"]
 confidence: high
 ---
-> 📄 Full text: [NASBE](https://www.nasbe.org/how-state-policy-can-help-teachers-use-ai-well/) · [local](raw/articles/state-policy-teacher-ai.md)
+> 📄 Full text: [NASBE](https://www.nasbe.org/how-state-policy-can-help-teachers-use-ai-well/) · [local](raw/papers/state-policy-teacher-ai.md)
 
 
 

@@ -4,10 +4,10 @@ created: 2026-05-09
 updated: 2026-05-09
 type: concept
 tags: [k-12, ai-literacy, teacher-role, formative-assessment, equity]
-sources: [raw/articles/civic-education-ai-lesson-plans.md]
+sources: [raw/papers/civic-education-ai-lesson-plans.md]
 confidence: medium
 ---
-> 📄 Full text: [CITE Journal](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/) · [local](raw/articles/civic-education-ai-lesson-plans.md)
+> 📄 Full text: [CITE Journal](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/) · [local](raw/papers/civic-education-ai-lesson-plans.md)
 
 # AI-Generated Lesson Plans in Civic Education
 
