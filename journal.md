@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-03 | **Total entries:** 430
+**Last updated:** 2026-08-03 | **Total entries:** 429
 
 ## 2026-08-03
 
@@ -279,10 +279,6 @@
 - ○ [[zerkouk-comprehensive-review-its-2025]] — raw/papers/zerkouk-comprehensive-review-its-2025.md
   **Comprehensive Review of Intelligent Tutoring Systems**
   Tags: [intelligent-tutoring, literature-review, adaptive-learning]
-
-- ○ [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — []
-  **Authentic Assessment in the AI Era: Scoping Review**
-  Tags: [assessment, authentic-assessment, literature-review]
 
 
 ## 2026-07-28
