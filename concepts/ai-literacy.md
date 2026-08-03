@@ -81,6 +81,7 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 3. Can [[affective-tutoring|affective AI]] support or undermine AI literacy development?
 
 ## Related Pages
+- [[beyond-detection-authentic-assessment-ai-2025]] — Digital discernment in an AI-mediated world
 - [[critical-genai-use-predictors]] — Knowledge + critical-thinking disposition predict critical GenAI use
 - [[agency-gap-ai-writing]] — GLAT literacy predicts independent writing after support removal
 - [[feedback-futures-genai]] — GenAI feedback-literacy capacities across the special issue

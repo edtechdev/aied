@@ -1,12 +1,20 @@
 # Journal
 
-**Last updated:** 2026-08-03 | **Total entries:** 429
+**Last updated:** 2026-08-03 | **Total entries:** 431
 
 ## 2026-08-03
 
 - ● [[agency-gap-ai-writing]] — raw/papers/caeai-2026-agency-gap-ai-writing.md
   **The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning**
   Tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity, student-experience]
+
+- ● [[authentic-products-authenticated-processes-2026]] — raw/papers/authentic-products-authenticated-processes-2026.md
+  **From authentic products to authenticated processes: authentic assessment in AI-rich higher education**
+  Tags: [authentic-assessment, assessment, assessment-validity, ai-ed-evaluation, generative-ai, academic-integrity, higher-ed]
+
+- ● [[beyond-detection-authentic-assessment-ai-2025]] — raw/papers/beyond-detection-authentic-assessment-ai-2025.md
+  **Beyond Detection: redesigning authentic assessment in an AI-mediated world**
+  Tags: [authentic-assessment, ai-detection, academic-integrity, assessment, generative-ai, higher-ed]
 
 - ● [[care-full-feedback-genai]] — raw/papers/tandf-2026-care-full-feedback-genai.md
   **The care-full craft of feedback in an age of generative AI**
