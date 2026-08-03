@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-03 | **Total entries:** 442
+**Last updated:** 2026-08-03 | **Total entries:** 447
 
 ## 2026-08-03
 
@@ -12,9 +12,17 @@
   **The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning**
   Tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity, student-experience]
 
+- ● [[agentic-ai-pedagogical-best-practice-2026]] — raw/papers/agentic-ai-pedagogical-best-practice-2026.md
+  **Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning**
+  Tags: [agentic-ai, educational-theory, scaffolding, formative-assessment, metacognition, human-in-the-loop]
+
 - ● [[agreement-not-quality-llm-coding-verification]] — raw/papers/2607.28890.md
   **Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth**
   Tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, equity, research-methods]
+
+- ● [[ai-writing-support-stage-ownership-2026]] — raw/papers/ai-writing-support-stage-ownership-2026.md
+  **From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership**
+  Tags: [writing-education, student-experience, ai-generated-content, metacognition, generative-ai]
 
 - ● [[authentic-products-authenticated-processes-2026]] — raw/papers/authentic-products-authenticated-processes-2026.md
   **From authentic products to authenticated processes: authentic assessment in AI-rich higher education**
@@ -39,6 +47,10 @@
 - ● [[connected-ai-lesson-planning-vietnam]] — raw/papers/2607.28647.md
   **ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning**
   Tags: [llm, generative-ai, k-12, curriculum-design, teacher-role, global-south, ai-generated-content]
+
+- ● [[cotal-formative-assessment-scoring-2026]] — raw/papers/cotal-formative-assessment-scoring-2026.md
+  **CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback**
+  Tags: [formative-assessment, automated-grading, human-in-the-loop, prompt-engineering, benchmark, ai-ed-evaluation]
 
 - ● [[critical-genai-use-predictors]] — raw/papers/mdpi-2026-critical-genai-use-predictors.md
   **GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use**
@@ -103,6 +115,14 @@
 - ● [[structured-ai-demonstrations-engineering-mechanics]] — raw/papers/2607.28710.md
   **Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results**
   Tags: [llm, stem-education, higher-ed, student-experience, teacher-role, scaffolding, efficacy-study]
+
+- ● [[sycophantic-ai-social-interaction-2026]] — raw/papers/sycophantic-ai-social-interaction-2026.md
+  **Sycophantic AI makes human interaction feel more effortful and less satisfying over time**
+  Tags: [affective-computing, student-ai-interaction, over-reliance, ethics, generative-ai]
+
+- ● [[trust-reliance-ai-education-2026]] — raw/papers/trust-reliance-ai-education-2026.md
+  **Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators**
+  Tags: [ai-literacy, over-reliance, cs-education, student-ai-interaction, metacognition]
 
 ## 2026-08-01
 

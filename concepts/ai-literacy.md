@@ -81,6 +81,7 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 3. Can [[affective-tutoring|affective AI]] support or undermine AI literacy development?
 
 ## Related Pages
+- [[trust-reliance-ai-education-2026]] — AI literacy moderates trust-to-reliance
 - [[access-not-enough-ai-tutoring-2026]] — AI literacy platform engagement RCTs
 - [[beyond-detection-authentic-assessment-ai-2025]] — Digital discernment in an AI-mediated world
 - [[critical-genai-use-predictors]] — Knowledge + critical-thinking disposition predict critical GenAI use

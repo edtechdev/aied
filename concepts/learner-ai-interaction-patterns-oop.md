@@ -27,6 +27,7 @@ The work connects to broader discussions in AI and education around [[student-ex
 - Engages with questions of student experience and stem education in educational contexts
 
 ## Related Pages
+- [[trust-reliance-ai-education-2026]] — Controlled study of reliance behaviour
 
 - [[student-experience]]
 - [[generative-ai]]

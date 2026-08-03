@@ -20,6 +20,7 @@ Studies whether public LLM tutoring benchmarks distinguish learning-supportive b
 - LLM tutoring benchmarks conflate solving with teaching (r=0.421); recommends dual reporting of pedagogy and solving scores.
 
 ## Related Pages
+- [[agentic-ai-pedagogical-best-practice-2026]] — Automation-learning tension across benchmarks
 
 - [[ai-k12-evidence-base]] — Empirical evidence on AI in K-12 education outcomes
 - [[intelligent-tutoring]] — Automated tutoring systems and their evaluation

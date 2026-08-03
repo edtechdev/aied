@@ -15,6 +15,7 @@ confidence: low
 ## Connections
 
 ## Related Pages
+- [[ai-writing-support-stage-ownership-2026]] — Stage-dependent AI writing support and ownership
 - [[agency-gap-ai-writing]] — Multimodal analytical writing with reactive vs proactive agents
 - [[ai-assisted-writing-research-teams]] — 6 of 8 papers in May 28 scan
 - [[mindcopilot-llm-co-writing]] — Formal MDP model of human-LLM co-writing with interaction-aware metrics (IJCAI 2026)

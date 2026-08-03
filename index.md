@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-03 | **Total pages:** 585
+**Last updated:** 2026-08-03 | **Total pages:** 590
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -33,6 +33,7 @@
 - [[agentic-ai]] — Agentic AI in Education
 - [[agentic-ai-ecosystems-higher-education]] — Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[agentic-workflows]] — Agentic Workflows
@@ -108,6 +109,7 @@
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[ai-tutoring]] — AI Tutoring
 - [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness
+- [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership
 - [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
 - [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
@@ -187,6 +189,7 @@
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
 - [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
 - [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States
+- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
 - [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora
 - [[creative-thinking]] — Creative Thinking
 - [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education
@@ -552,6 +555,7 @@
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation
 - [[surfacing-isolated-learners]] — Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI
 - [[syal-multimodal-dialogue-stem-2026]] — Multimodal Dialogue in STEM Education
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
 - [[synthetic-data]] — Synthetic Data
 - [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
 - [[taklif-ai-interest-based-personalized-assignments]] — Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments
@@ -575,6 +579,7 @@
 - [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 - [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
 - [[turtleai-visual-programming-benchmark]] — TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics
 - [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals
 - [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education

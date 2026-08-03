@@ -62,6 +62,9 @@ This suggests that **metacognitive support and motivation are not identical**. T
 3. **Separate support for motivation vs. skill:** Metacognitive skill development (course-structured) and productivity enhancement (AI-assisted) may require different design strategies.
 
 ## Related Pages
+- [[ai-writing-support-stage-ownership-2026]] — Ownership of cognitive work by writing stage
+- [[trust-reliance-ai-education-2026]] — Need for cognition moderates AI reliance
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agent initiative displaces learner metacognition
 - [[beyond-detection-authentic-assessment-ai-2025]] — Reflective artefacts making thinking visible
 - [[critical-genai-use-predictors]] — Need for cognition bridges literacy and critical behaviour
 - [[chatgpt-feedback-engagement-genai]] — Metacognitive engagement gap with ChatGPT feedback

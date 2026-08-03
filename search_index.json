@@ -189,7 +189,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Affective ComputingThis is a stub page for the concept of affective computing. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-learning-tools-engineering-education-needs \u2014 206 engineering students: AI chatbots give greatest benefit as relief from compe...",
+    "content": "Affective ComputingThis is a stub page for the concept of affective computing. It was created to resolve broken backlinks from other wiki pages.Related Pages\nsycophantic-ai-social-interaction-2026 \u2014 Emotional-support AI displaces human supportai-learning-tools-engineering-education-needs \u2014 206 engineering students: AI chatbots give greatest benefit as relief from compe...",
     "url": "pages/affective-computing.html"
   },
   {
@@ -281,6 +281,20 @@
     ],
     "content": "Agentic AI in Education: Scoping Review (474 Studies, 2020\u20132026)Wang, Zou, Xie & Qin (2026) \u2014 Lingnan University & Hong Kong Polytechnic University.\nPublished in Computers and Education: Artificial Intelligence, accepted 27 July 2026.\n\ud83d\udcc4 doi:10.1016/j.caeai.2026.100653 \u00b7 localSummaryThis scoping review systematically maps 474 studies (January 2020 \u2013 May 2026) on generative AI-powered agentic AI in education, providing the most comprehensive synthesis of the field to date. The authors analyze publ",
     "url": "pages/agentic-ai-education-scoping-review.html"
+  },
+  {
+    "slug": "agentic-ai-pedagogical-best-practice-2026",
+    "title": "\"Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning\"",
+    "tags": [
+      "agentic-ai",
+      "educational-theory",
+      "scaffolding",
+      "formative-assessment",
+      "metacognition",
+      "human-in-the-loop"
+    ],
+    "content": "> \ud83d\udcc4 Full text: arXiv:2606.04543 \u00b7 localAgentic AI and Pedagogical Best Practice> Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of proactive agentic AI and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response \u2014 intentional friction, dynamic scaffolding, human-in-the-loop oversight, and considered AI utilisation \u2014 is a principled guardra",
+    "url": "pages/agentic-ai-pedagogical-best-practice-2026.html"
   },
   {
     "slug": "agentic-ai",
@@ -581,7 +595,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Ai Ed EvaluationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\nauthentic-products-authenticated-processes-2026 \u2014 Six-dimension framework for assessment designllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ndot-framework-survey\nmachines-misread-pedagogical-quality -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a large",
+    "content": "Ai Ed EvaluationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ncotal-formative-assessment-scoring-2026 \u2014 Cross-domain grading evaluation\nauthentic-products-authenticated-processes-2026 \u2014 Six-dimension framework for assessment designllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ndot-framework-survey\nmachines-misread-pedagogical-quality -- Human-machine disagree",
     "url": "pages/ai-ed-evaluation.html"
   },
   {
@@ -694,7 +708,7 @@
     "tags": [
       "ai-generated-content"
     ],
-    "content": "Ai Generated ContentStub page for cross-referencing.Related Pages\ncourseblueprint-adaptive-video-generation -- Explicit typed instructional contracts (scaffolding, adaptive controller, engagement contract, slide override) drastically improve pedagogical video quality over fluent but PCK-absent text-to-video.\ndata-comics-for-education-evaluating-effectiveness-benefits-ethics \u2014 Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of\nconstructing-epistemic-ai-literacy-stude",
+    "content": "Ai Generated ContentStub page for cross-referencing.Related Pages\nai-writing-support-stage-ownership-2026 \u2014 AI-contributed text drives ownership loss\ncourseblueprint-adaptive-video-generation -- Explicit typed instructional contracts (scaffolding, adaptive controller, engagement contract, slide override) drastically improve pedagogical video quality over fluent but PCK-absent text-to-video.\ndata-comics-for-education-evaluating-effectiveness-benefits-ethics \u2014 Data Comics for Education: Evaluating",
     "url": "pages/ai-generated-content.html"
   },
   {
@@ -1273,6 +1287,19 @@
     "url": "pages/ai-vocational-education-training-review.html"
   },
   {
+    "slug": "ai-writing-support-stage-ownership-2026",
+    "title": "\"From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership\"",
+    "tags": [
+      "writing-education",
+      "student-experience",
+      "ai-generated-content",
+      "metacognition",
+      "generative-ai"
+    ],
+    "content": "> \ud83d\udcc4 Full text: arXiv:2604.11009 \u00b7 localAI Writing Support and Ownership by Stage> Gero, Long, Schnitzler & Dhillon (2026, DIS '26) ran a between-subjects essay study (n = 253) showing that where AI support enters the writing process determines how much students feel they own the work: any AI assistance decreased ownership, but planning support cost the least while drafting support cost the most. The mechanism is AI-contributed text and ideas \u2014 and there is a genuine quality\u2013ownership trade-off.T",
+    "url": "pages/ai-writing-support-stage-ownership-2026.html"
+  },
+  {
     "slug": "aiawe-automated-writing-evaluation",
     "title": "\"AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models\"",
     "tags": [
@@ -1522,7 +1549,7 @@
       "formative-assessment",
       "llm"
     ],
-    "content": "Automated Grading Systems> Stub \u2014 pending source ingestion. AI-powered automated grading and assessment systems for educational contexts.ConnectionsRelated Pages\nstructrag-diagram-reasoning-ai-tutoring \u2014 Diagram-based assessment and structural verification\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncorrect-answer-trap-ai-tutor \u2014 8 of 8 papers in May 28 scan\nrubric-aware-grading-rec-cbm \u2014 2 of 8 paper",
+    "content": "Automated Grading Systems> Stub \u2014 pending source ingestion. AI-powered automated grading and assessment systems for educational contexts.ConnectionsRelated Pages\ncotal-formative-assessment-scoring-2026 \u2014 CoTAL human-in-the-loop prompt engineering\nstructrag-diagram-reasoning-ai-tutoring \u2014 Diagram-based assessment and structural verification\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncorrect-answer-tra",
     "url": "pages/automated-grading.html"
   },
   {
@@ -2268,6 +2295,20 @@
     "url": "pages/cost-of-ethics-crisis-cs-ethics-education.html"
   },
   {
+    "slug": "cotal-formative-assessment-scoring-2026",
+    "title": "\"CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback\"",
+    "tags": [
+      "formative-assessment",
+      "automated-grading",
+      "human-in-the-loop",
+      "prompt-engineering",
+      "benchmark",
+      "ai-ed-evaluation"
+    ],
+    "content": "> \ud83d\udcc4 Full text: arXiv:2504.02323 \u00b7 localCoTAL: Formative Assessment Scoring with Human-in-the-Loop Prompt Engineering> Cohn, Ashwin T S, Mohammed & Biswas (2026) introduce CoTAL (Chain-of-Thought Prompting + Active Learning): an LLM grading pipeline that couples Evidence-Centered Design with human-in-the-loop prompt engineering and iterative teacher/student feedback refinement. It improves GPT-4's scoring by up to 38.9% over a non-prompt-engineered baseline and generalises across science, computi",
+    "url": "pages/cotal-formative-assessment-scoring-2026.html"
+  },
+  {
     "slug": "courseblueprint-adaptive-video-generation",
     "title": "\"CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora\"",
     "tags": [
@@ -2345,7 +2386,7 @@
     "tags": [
       "critical-thinking"
     ],
-    "content": "Critical ThinkingThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\npost-instrumental-learning-capacity-dissolution\nai-literacy-power-knowledge\ngenerative-refusal-ai-tools-for-thought",
+    "content": "Critical ThinkingThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ntrust-reliance-ai-education-2026 \u2014 Discriminating correct from misleading suggestions\npost-instrumental-learning-capacity-dissolution\nai-literacy-power-knowledge\ngenerative-refusal-ai-tools-for-thought",
     "url": "pages/critical-thinking.html"
   },
   {
@@ -2393,7 +2434,7 @@
     "tags": [
       "cs-education"
     ],
-    "content": "Cs EducationStub page \u2014 full synthesis pending.Related Pages\nstructrag-diagram-reasoning-ai-tutoring \u2014 Network-topology and algorithm diagram reasoning\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 taxonomy of programming misconceptions in conditionals and loops\nneurodivergent-computing-students \u2014 Design recommendations for inclusive active learning in computing courses\ncode-review-genai-cs1\nanvil-ai-educational-animations\ncode-anchor-multi-view-visualization -- Code as Anchor, Memory and",
+    "content": "Cs EducationStub page \u2014 full synthesis pending.Related Pages\ntrust-reliance-ai-education-2026 \u2014 Python problem-solving with misleading AI suggestions\nstructrag-diagram-reasoning-ai-tutoring \u2014 Network-topology and algorithm diagram reasoning\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 taxonomy of programming misconceptions in conditionals and loops\nneurodivergent-computing-students \u2014 Design recommendations for inclusive active learning in computing courses\ncode-review-genai-cs1\nanvil-ai-",
     "url": "pages/cs-education.html"
   },
   {
@@ -3012,7 +3053,7 @@
     "tags": [
       "stub"
     ],
-    "content": "EthicsThis is a stub page for the concept of ethics. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "EthicsThis is a stub page for the concept of ethics. It was created to resolve broken backlinks from other wiki pages.Related Pages\nsycophantic-ai-social-interaction-2026 \u2014 Relational harms of affirming AI",
     "url": "pages/ethics.html"
   },
   {
@@ -3885,7 +3926,7 @@
     "tags": [
       "human-in-the-loop"
     ],
-    "content": "Human In The LoopStub page \u2014 full synthesis pending.Related Pages\nauthentic-products-authenticated-processes-2026 \u2014 Authenticated processes: visible human judgementllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration",
+    "content": "Human In The LoopStub page \u2014 full synthesis pending.Related Pages\nagentic-ai-pedagogical-best-practice-2026 \u2014 Oversight of proactive agents\nauthentic-products-authenticated-processes-2026 \u2014 Authenticated processes: visible human judgementllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nconcept-catalyst-engineering-sca",
     "url": "pages/human-in-the-loop.html"
   },
   {
@@ -5396,7 +5437,7 @@
       "academic-integrity",
       "student-experience"
     ],
-    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\ngenai-can-harm-teaching-rct-2026 \u2014 Shallow teacher AI use reduces motivation\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Design for learning rather than detection\nauthentic-products-authenticated-processes-2026 \u2014 Construct substitution risk\ncritical-genai-use-predictors \u2014 Protective factors against uncritical overreliance on GenAI\nag",
+    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nsycophantic-ai-social-interaction-2026 \u2014 Sycophantic AI displaces human relationships\ntrust-reliance-ai-education-2026 \u2014 Higher trust predicts lower appropriate reliance\ngenai-can-harm-teaching-rct-2026 \u2014 Shallow teacher AI use reduces motivation\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Design for learning rather than detection\nau",
     "url": "pages/over-reliance.html"
   },
   {
@@ -5704,7 +5745,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review\nmultimodal-prompting-ai-literacy\nsame-ai-different-pathways\nscaffolding-critical-engagement-genai-minority-students",
+    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pages\ncotal-formative-assessment-scoring-2026 \u2014 Iterative refinement boosts grading by 38.9%llm-intervention-design-cs-review\nmultimodal-prompting-ai-literacy\nsame-ai-different-pathways\nscaffolding-critical-engagement-genai-minority-students",
     "url": "pages/prompt-engineering.html"
   },
   {
@@ -6036,7 +6077,7 @@
       "scaffolding",
       "ai-education"
     ],
-    "content": "ScaffoldingInstructional scaffolding techniques and their implementation in AI-enhanced learning environmentsConnectionsRelated Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Course + LLM assistant as journaling scaffolds (2x2 RCT)\nagency-gap-ai-writing \u2014 Proactive designs scaffold reasoning but risk over-scaffolding\nlearner-centered-feedback-ai \u2014 AI as reflective scaffold for teachers' evaluative judgement\nstructrag-diagram-reasoning-ai-tutoring \u2014 Pattern templates scaffold structural ",
+    "content": "ScaffoldingInstructional scaffolding techniques and their implementation in AI-enhanced learning environmentsConnectionsRelated Pages\nagentic-ai-pedagogical-best-practice-2026 \u2014 Dynamic scaffolding under agent initiative\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Course + LLM assistant as journaling scaffolds (2x2 RCT)\nagency-gap-ai-writing \u2014 Proactive designs scaffold reasoning but risk over-scaffolding\nlearner-centered-feedback-ai \u2014 AI as reflective scaffold for teachers' evaluative jud",
     "url": "pages/scaffolding.html"
   },
   {
@@ -6468,7 +6509,7 @@
     "tags": [
       "student-ai-interaction"
     ],
-    "content": "Student Ai InteractionStub page \u2014 created as a back-link target.Related Pages\nteacher-authored-prompts-student-ai-dialogue \u2014 Teacher-configured student-AI dialogue at classroom scaletutoring-effectiveness-index \u2014 links here\nfrom-answer-generators-to-reasoning-facilitators-ai-tutors \u2014 From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathem\nmind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai \u2014 Mind the Trust Gap: Identifying (Mis)alignments in Teacher-",
+    "content": "Student Ai InteractionStub page \u2014 created as a back-link target.Related Pages\nsycophantic-ai-social-interaction-2026 \u2014 Relational substitution with sycophantic AI\ntrust-reliance-ai-education-2026 \u2014 Trust dynamics in learner-AI problem solving\nteacher-authored-prompts-student-ai-dialogue \u2014 Teacher-configured student-AI dialogue at classroom scaletutoring-effectiveness-index \u2014 links here\nfrom-answer-generators-to-reasoning-facilitators-ai-tutors \u2014 From Answer Generators to Reasoning Facilitators: ",
     "url": "pages/student-ai-interaction.html"
   },
   {
@@ -6491,7 +6532,7 @@
       "k-12",
       "higher-ed"
     ],
-    "content": "Student Experience with AI> Stub \u2014 pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.ConnectionsRelated Pages\nlets-chat-chatbot-outreach-2026 \u2014 Students recommend the outreach chatbot (82%)\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher AI access reduced student motivation\ncritical-genai-use-predictors \u2014 Undergraduates' GenAI use correlates with interest and perceived usefulness\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Intrinsic motivatio",
+    "content": "Student Experience with AI> Stub \u2014 pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.ConnectionsRelated Pages\nai-writing-support-stage-ownership-2026 \u2014 Felt ownership by AI support stage\nlets-chat-chatbot-outreach-2026 \u2014 Students recommend the outreach chatbot (82%)\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher AI access reduced student motivation\ncritical-genai-use-predictors \u2014 Undergraduates' GenAI use correlates with interest and perceived use",
     "url": "pages/student-experience.html"
   },
   {
@@ -6642,6 +6683,19 @@
     ],
     "content": "Multimodal Dialogue in STEM EducationThis is a stub page for \"Multimodal Dialogue in STEM Education\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
     "url": "pages/syal-multimodal-dialogue-stem-2026.html"
+  },
+  {
+    "slug": "sycophantic-ai-social-interaction-2026",
+    "title": "\"Sycophantic AI makes human interaction feel more effortful and less satisfying over time\"",
+    "tags": [
+      "affective-computing",
+      "student-ai-interaction",
+      "over-reliance",
+      "ethics",
+      "generative-ai"
+    ],
+    "content": "> \ud83d\udcc4 Full text: arXiv:2605.07912 \u00b7 localSycophantic AI and Social Interaction> Ibrahim, Hafner, Cheng, Lee, Anselmetti, Willer, Rocher & Yang (2026) provide large longitudinal experimental evidence (N = 3,075; 12,766 conversations; three-week census-representative U.S. sample) that sycophantic AI \u2014 which affirms users' views rather than challenging them \u2014 displaces real human relationships: users became nearly as likely to seek personal advice from the AI as from close friends and family, and rep",
+    "url": "pages/sycophantic-ai-social-interaction-2026.html"
   },
   {
     "slug": "synthetic-data",
@@ -6925,6 +6979,19 @@
     "url": "pages/trio-ethnography-llm-programming-education.html"
   },
   {
+    "slug": "trust-reliance-ai-education-2026",
+    "title": "\"Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators\"",
+    "tags": [
+      "ai-literacy",
+      "over-reliance",
+      "cs-education",
+      "student-ai-interaction",
+      "metacognition"
+    ],
+    "content": "> \ud83d\udcc4 Full text: arXiv:2604.01114 \u00b7 localTrust and Reliance on AI in Education> Pitts, Rani & Mildort (2026, AIED) show with 432 undergraduates that higher trust in an AI assistant is associated with lower appropriate reliance: students who trusted the assistant more were worse at discriminating correct from misleading AI suggestions during Python problem-solving. The relationship is non-linear and moderated by AI literacy and need for cognition \u2014 trust is not a safe proxy for appropriate use.The ",
+    "url": "pages/trust-reliance-ai-education-2026.html"
+  },
+  {
     "slug": "turtleai-visual-programming-benchmark",
     "title": "\"TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics\"",
     "tags": [
@@ -7125,7 +7192,7 @@
       "ai-literacy",
       "scaffolding"
     ],
-    "content": "AI in Writing Education> Stub \u2014 pending source ingestion. AI applications in writing instruction, composition feedback, and argumentation development.ConnectionsRelated Pages\nagency-gap-ai-writing \u2014 Multimodal analytical writing with reactive vs proactive agents\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nmindcopilot-llm-co-writing \u2014 Formal MDP model of human-LLM co-writing with interaction-aware metrics (IJCAI 2026)\nvocabulary-difficulty-prediction \u2014 LLM fine-tuned with so",
+    "content": "AI in Writing Education> Stub \u2014 pending source ingestion. AI applications in writing instruction, composition feedback, and argumentation development.ConnectionsRelated Pages\nai-writing-support-stage-ownership-2026 \u2014 Stage-dependent AI writing support and ownership\nagency-gap-ai-writing \u2014 Multimodal analytical writing with reactive vs proactive agents\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nmindcopilot-llm-co-writing \u2014 Formal MDP model of human-LLM co-writing with inter",
     "url": "pages/writing-education.html"
   },
   {
