@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-03 | **Total entries:** 432
+**Last updated:** 2026-08-03 | **Total entries:** 430
 
 ## 2026-08-03
 
@@ -329,10 +329,6 @@
 
 ## 2026-07-24
 
-- ● [[daily-digest-2026-07-24]] — raw/papers/2607.21534.md
-  **Daily AIED Digest — 2026-07-24**
-  Tags: [generative-ai, llm, higher-ed, cs-education, ai-detection]
-
 - ● [[genai-availability-grades-satisfaction]] — raw/papers/2607.21534.md
   **Generative AI Availability, Grades, and Student Satisfaction at a Large University**
   Tags: [generative-ai, higher-ed, efficacy-study, learning-gains, student-experience]
@@ -397,10 +393,6 @@
 
 
 ## 2026-07-20
-
-- ● [[daily-digest-2026-07-20]] — raw/papers/2607.16115.md
-  **Daily Digest: 2026-07-20**
-  Tags: [generative-ai, llm, intelligent-tutoring, over-reliance, writing-education, stem-education]
 
 - ● [[eduguard-safe-rag-llm-tutor]] — raw/papers/2607.15738.md
   **EduGuard: A Safe RAG-Based LLM Tutor for Programming Education**

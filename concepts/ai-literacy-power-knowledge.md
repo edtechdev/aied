@@ -33,7 +33,6 @@ The work connects to broader discussions in AI and education around [[ai-literac
 - [[critical-thinking]]
 - [[digital-literacy]]
 - [[generative-ai]]
-- [[daily-digest-2026-07-31]] — Today's ingestion digest
 
 ## Citation
 
