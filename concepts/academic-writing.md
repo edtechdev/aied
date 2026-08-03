@@ -7,9 +7,10 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Academic writing** in the AI era is studied across the wiki through [[aiawe-automated-writing-evaluation]], [[llm-fallacy-misattribution]], and [[genai-linguistic-diversity-academic-writing]] — the shared finding being that LLM assistance reshapes authorship, evaluation, and multilingual equity in scholarly production.
+
 # Academic Writing
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[genai-linguistic-diversity-academic-writing]]

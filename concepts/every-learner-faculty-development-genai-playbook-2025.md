@@ -7,10 +7,11 @@ tags: [faculty-development, generative-ai, higher-ed]
 sources: [[]]
 confidence: low
 ---
+> The **Every Learner** faculty-development GenAI playbook (2025) is a practitioner-oriented resource for integrating generative AI into teaching practice — the applied counterpart to the wiki's [[faculty-development]] evidence that structured training, not tool access, drives classroom outcomes ([[genai-can-harm-teaching-rct-2026]], [[teacher-ai-competency]]).
+
 
 # Every Learner: Faculty Development GenAI Playbook
 
-This is a stub page for "Every Learner: Faculty Development GenAI Playbook". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.
 
 ## Related Pages
 

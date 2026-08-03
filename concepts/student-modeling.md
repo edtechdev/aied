@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Student Modeling
 
-*Stub page — created as a back-link target.*
 
 ## Related Pages
 - [[cross-subject-validity-delayed-start]] — Cross-subject predictive validity of delayed start behavior as a generalizable learner behavior signal

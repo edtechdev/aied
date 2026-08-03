@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Human In The Loop
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[agentic-ai-pedagogical-best-practice-2026]] — Oversight of proactive agents

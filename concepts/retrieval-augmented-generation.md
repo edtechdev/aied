@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Retrieval-augmented generation** grounds educational AI in curated content: [[retrieval-augmented-tutoring-algorithm-kite]], [[eduguard-safe-rag-llm-tutor]], and [[structrag-diagram-reasoning-ai-tutoring]] demonstrate accuracy gains and hallucination reduction in domain-specific tutoring ([[rag]], [[hallucination-risk]]).
+
 
 # Retrieval Augmented Generation
 
-This is a stub page for the concept of retrieval augmented generation. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

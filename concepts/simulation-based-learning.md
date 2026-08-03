@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Simulation-based learning** with AI creates practice environments: [[ai-psychotherapy-training-avatars]], [[adaptive-virtual-patient-psychotherapy-training]], [[astra-atco-training-simulator]], and [[history-aware-student-simulation]] let learners rehearse high-stakes skills safely ([[professional-training]], [[active-learning]]).
+
 
 # Simulation Based Learning
 
-This is a stub page for the concept of simulation based learning. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

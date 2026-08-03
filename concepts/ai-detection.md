@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # AI Detection in Education
 
-This is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers.
 
 ## Related Pages
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment

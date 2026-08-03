@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Intelligent Tutoring Systems
 
-*Stub page — created as a back-link target.*
 
 ## Related Pages
 

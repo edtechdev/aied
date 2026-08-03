@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Ai Feedback Quality
 
-*Stub page — created as a back-link target.*
 
 ## Related Pages
 - [[genai-teacher-feedback-comparison]] — Students rate teacher feedback more trustworthy than GenAI

@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Prompt engineering education** — teaching students to write effective prompts — is examined in [[prompt-engineering-education]] pages and [[learning-to-prompt-adaptive-tutoring]]: prompt skill transfers to problem decomposition and communicates intent, becoming a legitimate learning objective ([[ai-literacy]], [[computational-thinking]]).
+
 
 # Prompt Engineering Education
 
-This is a stub page for the concept of prompt engineering education. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

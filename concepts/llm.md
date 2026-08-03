@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Llm
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[supplynet-visual-exploratory-learning]] — Contextual graph-based LLM multi-agent framework for educational simulation

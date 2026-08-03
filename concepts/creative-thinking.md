@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Creative Thinking
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[genai-architecture-education]]

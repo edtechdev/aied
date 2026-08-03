@@ -5,12 +5,13 @@ updated: 2026-07-29
 type: concept
 tags: [ai-literacy, collaborative-learning, instructional-design]
 sources: [raw/papers/hingle-collaborative-ai-literacy-2025.md]
-confidence: low
+confidence: medium
 ---
+> **Collaborative AI Literacy Framework** — SEFI 2025. Systematic review of 9 studies (2015-2023) on collaborative learning for AI literacy. Uses ICAP framework (Interactive-Constructive-Active-Passive) to analyze outcomes. CL effectively increases AI literacy across activities, settings, and learner groups. Most studies in classroom settings;
+
 
 # Collaborative AI Literacy Framework
 
-This is a stub page for "Collaborative AI Literacy Framework". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.
 
 ## Related Pages
 

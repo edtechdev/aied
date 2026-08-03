@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Zone of proximal development** — the learning range between solo and assisted performance — is the wiki's scaffolding lens: [[socratic-tests-conversational-assessment]], [[psyscore-essay-scoring-zpd-feedback]], [[rethinking-scaffolding-llm-tutors]], and [[concept-catalyst-engineering-scaffolds]] ask whether AI tutors calibrate assistance to each learner's ZPD ([[scaffolding]], [[educational-theory]]).
+
 
 # Zone Of Proximal Development
 
-This is a stub page for the concept of zone of proximal development. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

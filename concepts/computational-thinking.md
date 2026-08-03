@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Computational thinking** — decomposition, abstraction, and algorithmic reasoning — is taught and measured with AI in [[computational-thinking-ai-agent-creation]], [[turtleai-visual-programming-benchmark]], and [[code-anchor-multi-view-visualization]]: AI can support CT development when tasks remain generative rather than solution-complete.
+
 
 # Computational Thinking
 
-This is a stub page for the concept of computational thinking. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

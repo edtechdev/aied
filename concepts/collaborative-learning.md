@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Collaborative Learning
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[neurodivergent-computing-students]] — Neurodivergent students prefer smaller teams with explicitly defined roles

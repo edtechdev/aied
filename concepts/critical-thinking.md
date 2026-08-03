@@ -7,9 +7,10 @@ tags: [critical-thinking]
 sources: []
 confidence: low
 ---
+> **Critical thinking** is the most-studied outcome in the wiki's AI-era corpus: [[chatgpt-critical-creative-thinking-review]], [[students-llm-usage-critical-thinking]], [[critical-thinking-genai-scaffolding]], and [[trust-reliance-ai-education-2026]] converge on the finding that LLMs erode critical engagement when used uncritically and strengthen it when scaffolds enforce verification ([[over-reliance]], [[ai-literacy]]).
+
 # Critical Thinking
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[trust-reliance-ai-education-2026]] — Discriminating correct from misleading suggestions

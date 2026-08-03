@@ -7,9 +7,10 @@ tags: []
 sources: []
 confidence: low
 ---
+> **AI simulation of learners** — models that stand in for students — is studied in [[llm-student-simulation-misconception-faithfulness]], simulating-learners-java-programming-errors-llms, [[simulating-learner-task-selection]], and [[history-aware-student-simulation]]: simulated students enable scalable tutor training and evaluation when fidelity is validated ([[student-modeling]], [[benchmark]]).
+
 # Simulation Learning
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[tech-enhanced-tabletop-cybersecurity-education]]

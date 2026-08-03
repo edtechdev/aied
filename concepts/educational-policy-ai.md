@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Educational policy for AI** is analyzed in [[state-policy-teacher-ai]], [[genai-policy-prompting-rct]], [[ai-governance-education]], and [[regulation]]: policy design choices (allow/prompt/teach) measurably shape classroom use, and governance must keep pace with capability ([[policy-maker]]).
+
 
 # Educational Policy Ai
 
-This is a stub page for the concept of educational policy ai. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

@@ -7,9 +7,10 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Digital literacy** — the foundational competencies AI literacy builds on — appears in [[digital-literacy-illusion]], [[multimodal-prompting-ai-literacy]], and [[tracing-genai-literacy-interaction-patterns]]: perceived competence often exceeds measured skill, making task-based assessment essential ([[ai-literacy]], [[assessment-validity]]).
+
 # Digital Literacy
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[ai-literacy-power-knowledge]]

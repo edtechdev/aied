@@ -7,8 +7,8 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+
 # Curriculum Design
-Automated stub.
 ## Related Pages
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[guided-llm-scaffolding-independent-learning]]

@@ -5,12 +5,13 @@ updated: 2026-07-29
 type: concept
 tags: ["intelligent-tutoring", multimodal, socratic-method, stem-education]
 sources: [raw/papers/syal-multimodal-dialogue-stem-2026.md]
-confidence: low
+confidence: medium
 ---
+> **Multimodal Dialogue in STEM Education** — - **Text-only baseline:** Three major public LLMs achieved near-ceiling accuracy (**96%**, 95% CI [0.93, 0.98]) on 100 OpenStax physics problems with no statistically significant differences between models.
+
 
 # Multimodal Dialogue in STEM Education
 
-This is a stub page for "Multimodal Dialogue in STEM Education". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.
 
 ## Related Pages
 

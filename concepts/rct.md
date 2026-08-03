@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **RCT** evidence in the wiki spans K-12 and higher education: from [[genai-can-harm-teaching-rct-2026]] (teacher AI tools reducing student motivation) to [[access-not-enough-ai-tutoring-2026]] (human support driving AI-tutor take-up) and [[lets-chat-chatbot-outreach-2026]] (chatbot outreach raising course performance) — causal designs separate hype from effect ([[efficacy-study]], [[learning-gains]]).
+
 
 # Rct
 
-This is a stub page for the concept of rct. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

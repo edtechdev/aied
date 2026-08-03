@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Reinforcement Learning Education
 
-*Stub page — created as a back-link target.*
 
 ## Related Pages
 

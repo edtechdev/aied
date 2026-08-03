@@ -7,7 +7,7 @@
       "research-methods",
       "ai-ed-evaluation"
     ],
-    "content": "Randomized Controlled Trials in AI Education ResearchThis is a stub page for \"Randomized Controlled Trials in AI Education Research\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> Randomized controlled trials are the wiki's gold-standard causal evidence: genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, lets-chat-chatbot-outreach-2026, and genai-policy-prompting-rct are pre-registered field experiments showing AI's educational effects are real, heterogeneous, and sometimes negative. See also efficacy-study and randomized-controlled-trials-education for the wider evidence base.Randomized Controlled Trials in AI Education ResearchRelated Pages",
     "url": "pages/RCT.html"
   },
   {
@@ -31,14 +31,14 @@
       "plagiarism-detection",
       "policy-maker"
     ],
-    "content": "Academic IntegrityAcademic integrity challenges and solutions in AI-era educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Moving from policing to design\nauthentic-products-authenticated-processes-2026 \u2014 AI-aware validity as part of assessment architecture\nchatgpt-feedback-engagement-genai \u2014 Ethical decision-making about GenAI feedback use\ngenai-impact-chinese-students-hss \u2014 Findings on assessment validity ",
+    "content": "> Academic integrity \u2014 the principles of honest authorship, attribution, and independent assessment \u2014 is being renegotiated as generative AI blurs the line between assistance and substitution. The wiki's corpus spans llm-detecting-llm-generated-content-education, plagiarism-detection, and authorship-ownership studies like ai-writing-support-stage-ownership-2026, which show that integrity frameworks must target process (authentic-assessment) rather than detection alone.Academic IntegrityAcademic ",
     "url": "pages/academic-integrity.html"
   },
   {
     "slug": "academic-writing",
     "title": "\"Academic Writing\"",
     "tags": [],
-    "content": "Academic WritingThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ngenai-linguistic-diversity-academic-writing",
+    "content": "> Academic writing in the AI era is studied across the wiki through aiawe-automated-writing-evaluation, llm-fallacy-misattribution, and genai-linguistic-diversity-academic-writing \u2014 the shared finding being that LLM assistance reshapes authorship, evaluation, and multilingual equity in scholarly production.Academic WritingRelated Pages\ngenai-linguistic-diversity-academic-writing",
     "url": "pages/academic-writing.html"
   },
   {
@@ -74,7 +74,7 @@
     "tags": [
       "accessible-learning"
     ],
-    "content": "Accessible LearningStub page \u2014 created as a back-link target.Related Pagesspecial-r1-rl-special-education \u2014 links here\nastra-atco-training-simulator -- ASTRA uses autonomous AI sim-pilots for scalable air traffic control training; r...\nai-psychotherapy-training-avatars -- AI-driven interactive patient avatars for psychotherapy training provide accessi...\nadapt-adaptive-lesson-plan-transformer -- AdaPT uses transformers to adapt lesson plans across regional and differentiated...\nmedeasy-ai-standa",
+    "content": "Accessible LearningRelated Pagesspecial-r1-rl-special-education \u2014 links here\nastra-atco-training-simulator -- ASTRA uses autonomous AI sim-pilots for scalable air traffic control training; r...\nai-psychotherapy-training-avatars -- AI-driven interactive patient avatars for psychotherapy training provide accessi...\nadapt-adaptive-lesson-plan-transformer -- AdaPT uses transformers to adapt lesson plans across regional and differentiated...\nmedeasy-ai-standardized-patients -- MedEasy multi-agent sys",
     "url": "pages/accessible-learning.html"
   },
   {
@@ -85,7 +85,7 @@
       "active-learning",
       "higher-ed"
     ],
-    "content": "Active LearningThis is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers.Related Pages\nsupplynet-visual-exploratory-learning \u2014 Gamified visual simulation supporting exploratory learning via LLM-driven agents\nhuman-ai-collaboration-prerequisite-functions -- 5-level taxonomy: most human-AI interaction is consultation/delegation, not true collaboration\nwordstream-glass-learning-analytics -- Revisits WordStream (2009) as a quantitative encoding for",
+    "content": "Active LearningRelated Pages\nsupplynet-visual-exploratory-learning \u2014 Gamified visual simulation supporting exploratory learning via LLM-driven agents\nhuman-ai-collaboration-prerequisite-functions -- 5-level taxonomy: most human-AI interaction is consultation/delegation, not true collaboration\nwordstream-glass-learning-analytics -- Revisits WordStream (2009) as a quantitative encoding for qualitative learning a...\ncomputing-students-cybersecurity-attitudes -- Computing students show inconsistenci",
     "url": "pages/active-learning.html"
   },
   {
@@ -144,7 +144,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Adaptive Prompt RoutingThis is a stub page for the concept of adaptive prompt routing. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Adaptive prompt routing \u2014 dynamically selecting or composing LLM prompts per task and learner \u2014 connects the wiki's prompt-engineering and learning-to-prompt-adaptive-tutoring threads, where prompt selection becomes part of the tutoring system itself rather than a user skill.Adaptive Prompt RoutingRelated Pages",
     "url": "pages/adaptive-prompt-routing.html"
   },
   {
@@ -189,7 +189,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Affective ComputingThis is a stub page for the concept of affective computing. It was created to resolve broken backlinks from other wiki pages.Related Pages\nsycophantic-ai-social-interaction-2026 \u2014 Emotional-support AI displaces human supportai-learning-tools-engineering-education-needs \u2014 206 engineering students: AI chatbots give greatest benefit as relief from compe...",
+    "content": "> Affective computing in education uses physiological and behavioral signals to sense learner emotion and adapt instruction \u2014 see affective-text-wearable-student-health, multimodal-affective-its-presentation, and kar-mathbuddy-affective-math-tutoring-2025. The wiki also documents emotional risks of AI interaction, including sycophantic-ai-social-interaction-2026 and shame-guilt-ai-regulation-computing-education.Affective ComputingRelated Pages\nsycophantic-ai-social-interaction-2026 \u2014 Emotional-s",
     "url": "pages/affective-computing.html"
   },
   {
@@ -357,7 +357,7 @@
       "agentic-ai",
       "stub"
     ],
-    "content": "Agentic Workflows\nAutomated stub.\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nai-literacy-continuum-higher-education\nai-adoption-training-public-sector",
+    "content": "Agentic Workflows\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nai-literacy-continuum-higher-education\nai-adoption-training-public-sector",
     "url": "pages/agentic-workflows.html"
   },
   {
@@ -572,7 +572,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Ai Co IntelligenceStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ndot-framework-survey",
+    "content": "Ai Co IntelligenceRelated Pages\ndot-framework-survey",
     "url": "pages/ai-co-intelligence.html"
   },
   {
@@ -596,7 +596,7 @@
       "academic-integrity",
       "plagiarism-detection"
     ],
-    "content": "AI Detection in EducationThis is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers.Related Pages\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Beyond Detection: redesigning authentic assessment\nllm-detecting-llm-generated-content-education \u2014 Distinguishing Artificial from Authentic: Evaluating LLMs foCitation",
+    "content": "AI Detection in EducationRelated Pages\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Beyond Detection: redesigning authentic assessment\nllm-detecting-llm-generated-content-education \u2014 Distinguishing Artificial from Authentic: Evaluating LLMs foCitation",
     "url": "pages/ai-detection.html"
   },
   {
@@ -605,7 +605,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Ai Ed EvaluationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ncotal-formative-assessment-scoring-2026 \u2014 Cross-domain grading evaluation\nauthentic-products-authenticated-processes-2026 \u2014 Six-dimension framework for assessment designllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ndot-framework-survey\nmachines-misread-pedagogical-quality -- Human-machine disagree",
+    "content": "Ai Ed EvaluationRelated Pages\ncotal-formative-assessment-scoring-2026 \u2014 Cross-domain grading evaluation\nauthentic-products-authenticated-processes-2026 \u2014 Six-dimension framework for assessment designllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ndot-framework-survey\nmachines-misread-pedagogical-quality -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a larger al",
     "url": "pages/ai-ed-evaluation.html"
   },
   {
@@ -614,7 +614,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Ai Ed ImplementationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ndot-framework-survey\ngenai-policies-higher-ed-computing - translating GenAI policy into classroom practice",
+    "content": "Ai Ed ImplementationRelated Pages\ndot-framework-survey\ngenai-policies-higher-ed-computing - translating GenAI policy into classroom practice",
     "url": "pages/ai-ed-implementation.html"
   },
   {
@@ -636,7 +636,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Ai EducationThis is a stub page for the concept of ai education. It was created to resolve broken backlinks from other wiki pages.Related Pagesgenai-runaway-object-math-higher-ed",
+    "content": "> AI education \u2014 teaching about AI itself \u2014 is examined through k-12-ai-education, ml-literacy-primary-education, principled-ai-education, and ai-literacy-equity-programming-policy, which find that curricula must span technical, ethical, and equity dimensions of AI literacy.Ai EducationRelated Pagesgenai-runaway-object-math-higher-ed",
     "url": "pages/ai-education.html"
   },
   {
@@ -709,7 +709,7 @@
     "slug": "ai-feedback-quality",
     "title": "\"Ai Feedback Quality\"",
     "tags": [],
-    "content": "Ai Feedback QualityStub page \u2014 created as a back-link target.Related Pages\ngenai-teacher-feedback-comparison \u2014 Students rate teacher feedback more trustworthy than GenAI\nai-assistance-discretionary-feedback \u2014 Quality benchmarks for AI tutoring and feedback\nai-generated-feedback-higher-ed \u2014 RCT: GPT-o4-mini feedback met non-inferiority AND equivalence vs expert teacher; DeepSeek R1 non-inferior; effect depends on assessment architecture, not source\ntutoring-effectiveness-index \u2014 links herellm-fee",
+    "content": "Ai Feedback QualityRelated Pages\ngenai-teacher-feedback-comparison \u2014 Students rate teacher feedback more trustworthy than GenAI\nai-assistance-discretionary-feedback \u2014 Quality benchmarks for AI tutoring and feedback\nai-generated-feedback-higher-ed \u2014 RCT: GPT-o4-mini feedback met non-inferiority AND equivalence vs expert teacher; DeepSeek R1 non-inferior; effect depends on assessment architecture, not source\ntutoring-effectiveness-index \u2014 links herellm-feedback-programming-classroom \u2014 Natural lang",
     "url": "pages/ai-feedback-quality.html"
   },
   {
@@ -718,7 +718,7 @@
     "tags": [
       "ai-generated-content"
     ],
-    "content": "Ai Generated ContentStub page for cross-referencing.Related Pages\nai-writing-support-stage-ownership-2026 \u2014 AI-contributed text drives ownership loss\ncourseblueprint-adaptive-video-generation -- Explicit typed instructional contracts (scaffolding, adaptive controller, engagement contract, slide override) drastically improve pedagogical video quality over fluent but PCK-absent text-to-video.\ndata-comics-for-education-evaluating-effectiveness-benefits-ethics \u2014 Data Comics for Education: Evaluating",
+    "content": "Ai Generated ContentRelated Pages\nai-writing-support-stage-ownership-2026 \u2014 AI-contributed text drives ownership loss\ncourseblueprint-adaptive-video-generation -- Explicit typed instructional contracts (scaffolding, adaptive controller, engagement contract, slide override) drastically improve pedagogical video quality over fluent but PCK-absent text-to-video.\ndata-comics-for-education-evaluating-effectiveness-benefits-ethics \u2014 Data Comics for Education: Evaluating Effectiveness, Benefits, and th",
     "url": "pages/ai-generated-content.html"
   },
   {
@@ -779,7 +779,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Ai Governance EducationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ndot-framework-surveymetaphysics-learning-analytics \u2014 Norm-embedded LA and the is/ought problem in educational analytics- genai-policies-higher-ed-computing - institutional vs course-level GenAI policy coordination\nai-ethics-education-public-discourse - governance of ethical AI use",
+    "content": "Ai Governance EducationRelated Pages\ndot-framework-surveymetaphysics-learning-analytics \u2014 Norm-embedded LA and the is/ought problem in educational analytics- genai-policies-higher-ed-computing - institutional vs course-level GenAI policy coordination\nai-ethics-education-public-discourse - governance of ethical AI use",
     "url": "pages/ai-governance-education.html"
   },
   {
@@ -963,7 +963,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Ai Literacy In Higher EducationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ndot-framework-survey\ngender-differences-ai-literacy-deepfake -- Single-day AI literacy workshops partially narrow gender STEM gaps; males need targeted deepfake safety education",
+    "content": "Ai Literacy In Higher EducationRelated Pages\ndot-framework-survey\ngender-differences-ai-literacy-deepfake -- Single-day AI literacy workshops partially narrow gender STEM gaps; males need targeted deepfake safety education",
     "url": "pages/ai-literacy-in-higher-education.html"
   },
   {
@@ -1381,7 +1381,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Algorithmic BiasThis is a stub page for the concept of algorithmic bias. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics\nfair-explainable-edu-recommendations",
+    "content": "> Algorithmic bias in educational AI is documented across gender-bias-transfer-llm-writing, ai-scoring-language-bias-physics, llm-cultural-relevance-k12, and bias-mitigation \u2014 models inherit and amplify demographic, linguistic, and cultural biases that require systematic auditing and mitigation.Algorithmic BiasRelated Pagesai-scoring-language-bias-physics\nfair-explainable-edu-recommendations",
     "url": "pages/algorithmic-bias.html"
   },
   {
@@ -1444,7 +1444,7 @@
     "tags": [
       "assessment"
     ],
-    "content": "AssessmentStub page for cross-referencing.Related Pages\ntest-driven-ai-assisted-learning -- A lecture-free CS course with AI-assisted weekly closed-book tests maintained accountability and was scalable with a version-controlled AI agent workspace.\nmachines-misread-pedagogical-quality -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a larger alignment effect than rationale-first evaluation, and the two are complementary.ai-assessment-scale-reform \u2014 AI As",
+    "content": "AssessmentRelated Pages\ntest-driven-ai-assisted-learning -- A lecture-free CS course with AI-assisted weekly closed-book tests maintained accountability and was scalable with a version-controlled AI agent workspace.\nmachines-misread-pedagogical-quality -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a larger alignment effect than rationale-first evaluation, and the two are complementary.ai-assessment-scale-reform \u2014 AI Assessment Scale (AIAS) Reform\nllm",
     "url": "pages/assessment.html"
   },
   {
@@ -1509,21 +1509,21 @@
     "tags": [
       "stub"
     ],
-    "content": "Automated AssessmentThis is a stub page for the concept of automated assessment. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics\nhuman-vs-llm-ordered-coding\nsocratic-tests-conversational-assessment",
+    "content": "> Automated assessment \u2014 machine scoring and feedback at scale \u2014 is covered by automated-grading, aiawe-automated-writing-evaluation, psyscore-essay-scoring-zpd-feedback, and cotal-formative-assessment-scoring-2026: LLM-based scoring generalizes across domains when prompt-engineered with human-in-the-loop refinement and assessment-validity alignment.Automated AssessmentRelated Pagesai-scoring-language-bias-physics\nhuman-vs-llm-ordered-coding\nsocratic-tests-conversational-assessment",
     "url": "pages/automated-assessment.html"
   },
   {
     "slug": "automated-essay-scoring",
     "title": "\"Automated Essay Scoring\"",
     "tags": [],
-    "content": "Automated Essay ScoringThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nicle-plus-plus-essay-scoring\nai-scoring-language-bias-physics",
+    "content": "> Automated essay scoring research in the wiki \u2014 icle-plus-plus-essay-scoring, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation \u2014 shows transformer and LLM graders approaching human reliability while raising validity, bias, and feedback-quality questions (automated-grading, ai-ed-evaluation).Automated Essay ScoringRelated Pages\nicle-plus-plus-essay-scoring\nai-scoring-language-bias-physics",
     "url": "pages/automated-essay-scoring.html"
   },
   {
     "slug": "automated-feedback",
     "title": "\"Automated Feedback\"",
     "tags": [],
-    "content": "Automated FeedbackThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nllm-judged-helpfulness-pedagogy-signal",
+    "content": "> Automated feedback research spans ai-generated-feedback-higher-ed, foxglove-writing-feedback-experts-llms, structured-llm-feedback-programming, and tibetcpr-ai-training-feedback \u2014 machine feedback is most effective when immediate, specific, and sequenced with human judgment (feedback-loop, formative-assessment).Automated FeedbackRelated Pages\nllm-judged-helpfulness-pedagogy-signal",
     "url": "pages/automated-feedback.html"
   },
   {
@@ -1626,14 +1626,14 @@
       "feedback-loop",
       "student-experience"
     ],
-    "content": "AICoFE: AI-Powered Feedback SystemThis is a stub page for \"AICoFE: AI-Powered Feedback System\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> AICoFE: AI-Powered Feedback System \u2014 Peer feedback is essential for developing critical reflection, active learning, and evaluative judgment, yet student-generated comments are often superficial, inconsistent, or lack actionability due to limited feedback literacy.AICoFE: AI-Powered Feedback SystemRelated Pages",
     "url": "pages/becerra-aicofe-feedback-2026.html"
   },
   {
     "slug": "benchmark-driven-edtech",
     "title": "\"Benchmark Driven Edtech\"",
     "tags": [],
-    "content": "Benchmark Driven EdtechStub page \u2014 created as a back-link target.Related Pagestutoring-effectiveness-index \u2014 links here",
+    "content": "Benchmark Driven EdtechRelated Pagestutoring-effectiveness-index \u2014 links here",
     "url": "pages/benchmark-driven-edtech.html"
   },
   {
@@ -1668,7 +1668,7 @@
       "equity",
       "ethics"
     ],
-    "content": "Bias MitigationStub page \u2014 created as a back-link target for bias-mitigation in educational AI.Bias mitigation in AIED concerns identifying and reducing unfair, identity-patterned behavior in AI tutors and educational systems (e.g., differential refusals or softening of answers for marginalized students). Surfaced by recent auditing work on LLM history tutors.Related Pages\npaternalistic-filter-llm-history-education \u2014 Epistemic injustice via identity-patterned LLM refusals\nequity \u2014 Structural fai",
+    "content": "Bias MitigationBias mitigation in AIED concerns identifying and reducing unfair, identity-patterned behavior in AI tutors and educational systems (e.g., differential refusals or softening of answers for marginalized students). Surfaced by recent auditing work on LLM history tutors.Related Pages\npaternalistic-filter-llm-history-education \u2014 Epistemic injustice via identity-patterned LLM refusals\nequity \u2014 Structural fairness in AI education\nai-tutor-safety-harms \u2014 Catalogue of tutor harms\ndata-anno",
     "url": "pages/bias-mitigation.html"
   },
   {
@@ -1954,7 +1954,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Cognitive Load TheoryThis is a stub page for the concept of cognitive load theory. It was created to resolve broken backlinks from other wiki pages.Related Pagessame-ai-different-pathways",
+    "content": "> Cognitive load theory \u2014 the limits of working memory in instruction \u2014 is the theoretical lens for much wiki work on AI scaffolding: concept-catalyst-engineering-scaffolds, rethinking-scaffolding-llm-tutors, and cognitive-offloading show AI can either reduce extraneous load or bypass the germane load that produces learning.Cognitive Load TheoryRelated Pagessame-ai-different-pathways",
     "url": "pages/cognitive-load-theory.html"
   },
   {
@@ -1989,7 +1989,7 @@
     "tags": [
       "cognitive-offloading"
     ],
-    "content": "Cognitive OffloadingStub page \u2014 full synthesis pending.Related Pages\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher-side cognitive offloading harms studentsai-making-us-stupid \u2014 Cash et al. (2026) Trends Cog Sci: offloading cognition to AI impedes skill acquisition & accelerates skill decay; risks use-dependent; basic abilities possibly more resilient\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncognitive-",
+    "content": "Cognitive OffloadingRelated Pages\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher-side cognitive offloading harms studentsai-making-us-stupid \u2014 Cash et al. (2026) Trends Cog Sci: offloading cognition to AI impedes skill acquisition & accelerates skill decay; risks use-dependent; basic abilities possibly more resilient\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncognitive-offloading-speedup-illusion \u2014 CogSc",
     "url": "pages/cognitive-offloading.html"
   },
   {
@@ -2053,7 +2053,7 @@
     "tags": [
       "collaborative-learning"
     ],
-    "content": "Collaborative LearningStub page \u2014 full synthesis pending.Related Pages\nneurodivergent-computing-students \u2014 Neurodivergent students prefer smaller teams with explicitly defined roles\nxai-education-framework\nteacher-student-agency-orchestration\nsocial-robot-study-companions \u2014 Co-Creating Buildable and Open Social Robot Study Companions\nless-deliberate-teams-llm \u2014 team-based learning\nepistemic-emotions-collaborative-problem-solving \u2014 Ordered Network Analysis reveals structured persistence and trans",
+    "content": "Collaborative LearningRelated Pages\nneurodivergent-computing-students \u2014 Neurodivergent students prefer smaller teams with explicitly defined roles\nxai-education-framework\nteacher-student-agency-orchestration\nsocial-robot-study-companions \u2014 Co-Creating Buildable and Open Social Robot Study Companions\nless-deliberate-teams-llm \u2014 team-based learning\nepistemic-emotions-collaborative-problem-solving \u2014 Ordered Network Analysis reveals structured persistence and transition patterns of confusion and fru",
     "url": "pages/collaborative-learning.html"
   },
   {
@@ -2102,14 +2102,14 @@
     "tags": [
       "stub"
     ],
-    "content": "Computational ThinkingThis is a stub page for the concept of computational thinking. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review\nml-literacy-primary-education",
+    "content": "> Computational thinking \u2014 decomposition, abstraction, and algorithmic reasoning \u2014 is taught and measured with AI in computational-thinking-ai-agent-creation, turtleai-visual-programming-benchmark, and code-anchor-multi-view-visualization: AI can support CT development when tasks remain generative rather than solution-complete.Computational ThinkingRelated Pagesllm-intervention-design-cs-review\nml-literacy-primary-education",
     "url": "pages/computational-thinking.html"
   },
   {
     "slug": "computing-education",
     "title": "\"Computing Education\"",
     "tags": [],
-    "content": "Computing EducationThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nai-generated-instructional-videos-computing-ed\nlearner-ai-interaction-patterns-oop\nsolving-vs-evaluating-genai-solutions\nllm-intervention-design-cs-review",
+    "content": "> Computing education is the wiki's most densely studied domain: reshaping-cs-education-genai, llm-programming-support-governance-cs-education, code-review-genai-cs1, and vibe-coding-programming-process-visualizer document how LLMs transform programming pedagogy, assessment, and student debugging practices.Computing EducationRelated Pages\nai-generated-instructional-videos-computing-ed\nlearner-ai-interaction-patterns-oop\nsolving-vs-evaluating-genai-solutions\nllm-intervention-design-cs-review",
     "url": "pages/computing-education.html"
   },
   {
@@ -2159,7 +2159,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Confidence Aware Ai AssessmentThis is a stub page for the concept of confidence aware ai assessment. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Confidence-aware AI assessment \u2014 models that report uncertainty alongside scores \u2014 is examined in confidence-aware-student-drawing-assessment, cong-confidence-asag-2026, and llm-psychometric-calibration-cdp: calibrated confidence improves trust and enables appropriate delegation (trust-calibration, ai-ed-evaluation).Confidence Aware Ai AssessmentRelated Pages",
     "url": "pages/confidence-aware-ai-assessment.html"
   },
   {
@@ -2183,7 +2183,7 @@
       "automated-grading",
       "confidence"
     ],
-    "content": "Confidence-Aware Automatic Short Answer GradingThis is a stub page for \"Confidence-Aware Automatic Short Answer Grading\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> Confidence-Aware Automatic Short Answer Grading \u2014 Automatic Short Answer Grading (ASAG) with LLMs achieves strong zero-shot performance and synthetic feedback generation, but no system is perfect. Linguistic variability, ambiguous scoring criteria, and inherent human rater disagreement impose an upper bound on accuracy.Confidence-Aware Automatic Short Answer GradingRelated Pages",
     "url": "pages/cong-confidence-asag-2026.html"
   },
   {
@@ -2220,7 +2220,7 @@
     "tags": [
       "stub"
     ],
-    "content": "ConstructivistThis is a stub page for the concept of constructivist. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Constructivist learning theory \u2014 knowledge built through active experience \u2014 underpins wiki analyses of AI as genai-mindtool-generative-learning and icap-cognitive-engagement-llm-agents: AI tools support construction only when learners generate, not merely consume (active-learning, educational-theory).ConstructivistRelated Pages",
     "url": "pages/constructivist.html"
   },
   {
@@ -2337,7 +2337,7 @@
     "tags": [
       "creative-thinking"
     ],
-    "content": "Creative ThinkingStub page \u2014 full synthesis pending.Related Pages\ngenai-architecture-education",
+    "content": "Creative ThinkingRelated Pages\ngenai-architecture-education",
     "url": "pages/creative-thinking.html"
   },
   {
@@ -2396,7 +2396,7 @@
     "tags": [
       "critical-thinking"
     ],
-    "content": "Critical ThinkingThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ntrust-reliance-ai-education-2026 \u2014 Discriminating correct from misleading suggestions\npost-instrumental-learning-capacity-dissolution\nai-literacy-power-knowledge\ngenerative-refusal-ai-tools-for-thought",
+    "content": "> Critical thinking is the most-studied outcome in the wiki's AI-era corpus: chatgpt-critical-creative-thinking-review, students-llm-usage-critical-thinking, critical-thinking-genai-scaffolding, and trust-reliance-ai-education-2026 converge on the finding that LLMs erode critical engagement when used uncritically and strengthen it when scaffolds enforce verification (over-reliance, ai-literacy).Critical ThinkingRelated Pages\ntrust-reliance-ai-education-2026 \u2014 Discriminating correct from misleadi",
     "url": "pages/critical-thinking.html"
   },
   {
@@ -2444,7 +2444,7 @@
     "tags": [
       "cs-education"
     ],
-    "content": "Cs EducationStub page \u2014 full synthesis pending.Related Pages\ntrust-reliance-ai-education-2026 \u2014 Python problem-solving with misleading AI suggestions\nstructrag-diagram-reasoning-ai-tutoring \u2014 Network-topology and algorithm diagram reasoning\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 taxonomy of programming misconceptions in conditionals and loops\nneurodivergent-computing-students \u2014 Design recommendations for inclusive active learning in computing courses\ncode-review-genai-cs1\nanvil-ai-",
+    "content": "Cs EducationRelated Pages\ntrust-reliance-ai-education-2026 \u2014 Python problem-solving with misleading AI suggestions\nstructrag-diagram-reasoning-ai-tutoring \u2014 Network-topology and algorithm diagram reasoning\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 taxonomy of programming misconceptions in conditionals and loops\nneurodivergent-computing-students \u2014 Design recommendations for inclusive active learning in computing courses\ncode-review-genai-cs1\nanvil-ai-educational-animations\ncode-anchor-",
     "url": "pages/cs-education.html"
   },
   {
@@ -2507,7 +2507,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Curriculum Design AiThis is a stub page for the concept of curriculum design ai. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Curriculum design with AI \u2014 using generative models to plan lessons and materials \u2014 is studied in adapt-adaptive-lesson-plan-transformer, connected-ai-lesson-planning-vietnam, and llm-tts-dialogue-lesson-generation: AI-generated curricula can personalize at scale but require educator oversight and cultural grounding (curriculum-design, teacher-role).Curriculum Design AiRelated Pages",
     "url": "pages/curriculum-design-ai.html"
   },
   {
@@ -2516,7 +2516,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Curriculum Design\nAutomated stub.\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nai-literacy-continuum-higher-education\nai-adoption-training-public-sector\nconnected-ai-lesson-planning-vietnam",
+    "content": "Curriculum Design\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nai-literacy-continuum-higher-education\nai-adoption-training-public-sector\nconnected-ai-lesson-planning-vietnam",
     "url": "pages/curriculum-design.html"
   },
   {
@@ -2578,7 +2578,7 @@
     "slug": "design-education",
     "title": "\"Design Education\"",
     "tags": [],
-    "content": "Design EducationThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ngenai-architectural-design-studios",
+    "content": "> Design education with AI is examined in genai-architectural-design-studios, mixed-reality-engineering-learning, and tech-enhanced-tabletop-cybersecurity-education: generative tools reshape studio critique and iteration loops, shifting assessment toward process documentation (authentic-assessment).Design EducationRelated Pages\ngenai-architectural-design-studios",
     "url": "pages/design-education.html"
   },
   {
@@ -2587,7 +2587,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Design Thinking In EducationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ndot-framework-survey",
+    "content": "Design Thinking In EducationRelated Pages\ndot-framework-survey",
     "url": "pages/design-thinking-in-education.html"
   },
   {
@@ -2596,7 +2596,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Desirable DifficultiesThis is a stub page for the concept of desirable difficulties. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Desirable difficulties \u2014 the finding that harder retrieval conditions improve long-term learning \u2014 is the theoretical counterweight to AI smoothing: agentic-ai-pedagogical-best-practice-2026 calls for intentional friction, and retrieval-practice and generative-ai-reduced-study-time-math document the costs of removing productive struggle.Desirable DifficultiesRelated Pages",
     "url": "pages/desirable-difficulties.html"
   },
   {
@@ -2628,7 +2628,7 @@
     "slug": "digital-divide",
     "title": "Digital Divide",
     "tags": [],
-    "content": "Digital DivideStub page \u2014 full synthesis pending.Related Pages\nai-changing-teaching-workflows\nai-lifelong-learning-policy",
+    "content": "Digital DivideRelated Pages\nai-changing-teaching-workflows\nai-lifelong-learning-policy",
     "url": "pages/digital-divide.html"
   },
   {
@@ -2648,7 +2648,7 @@
     "slug": "digital-literacy",
     "title": "\"Digital Literacy\"",
     "tags": [],
-    "content": "Digital LiteracyThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nai-literacy-power-knowledge\nmultimodal-prompting-ai-literacy",
+    "content": "> Digital literacy \u2014 the foundational competencies AI literacy builds on \u2014 appears in digital-literacy-illusion, multimodal-prompting-ai-literacy, and tracing-genai-literacy-interaction-patterns: perceived competence often exceeds measured skill, making task-based assessment essential (ai-literacy, assessment-validity).Digital LiteracyRelated Pages\nai-literacy-power-knowledge\nmultimodal-prompting-ai-literacy",
     "url": "pages/digital-literacy.html"
   },
   {
@@ -2675,7 +2675,7 @@
     "tags": [
       "dropout-reduction"
     ],
-    "content": "Dropout ReductionStub page for cross-referencing.Related Pages\nat-risk-students-ml-prediction -- Logistic regression and linear SVM achieve highest accuracy for predicting student attrition using academic, demographic, and enrollment data.",
+    "content": "Dropout ReductionRelated Pages\nat-risk-students-ml-prediction -- Logistic regression and linear SVM achieve highest accuracy for predicting student attrition using academic, demographic, and enrollment data.",
     "url": "pages/dropout-reduction.html"
   },
   {
@@ -2775,14 +2775,14 @@
     "slug": "educational-content",
     "title": "\"Educational Content\"",
     "tags": [],
-    "content": "Educational ContentThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nbook-level-synthetic-textbook-organization",
+    "content": "> Educational content generation \u2014 AI-produced lessons, questions, and explanations \u2014 is evaluated in llm-educational-question-cognitive-depth, kt4eqg-personalized-question-generation, slidesqaqa-pedagogical-question-generation, and data-comics-for-education-evaluating-effectiveness-benefits-ethics: quality and pedagogical alignment vary widely and require validation before classroom use (prompt-engineering, ai-ed-evaluation).Educational ContentRelated Pages\nbook-level-synthetic-textbook-organiz",
     "url": "pages/educational-content.html"
   },
   {
     "slug": "educational-datasets",
     "title": "\"Educational Datasets\"",
     "tags": [],
-    "content": "Educational DatasetsThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\niks-instruct-dataset-indian-knowledge",
+    "content": "> Educational datasets underpin AIED research and evaluation: student-misconceptions-conditionals-loops-taxonomy, book-level-synthetic-textbook-organization, and iks-instruct-dataset-indian-knowledge document dataset construction and the risks of synthetic or culturally narrow data (educational-nlp, benchmark).Educational DatasetsRelated Pages\niks-instruct-dataset-indian-knowledge",
     "url": "pages/educational-datasets.html"
   },
   {
@@ -2804,7 +2804,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Educational MeasurementThis is a stub page for the concept of educational measurement. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics",
+    "content": "> Educational measurement \u2014 psychometric theory applied to learning data \u2014 runs through the wiki's item-response-theory, knowledge-tracing, and assessment-validity pages: LLM-era measurement must reconcile classical psychometrics with new AI-generated response streams (psychometrically-aware-ai, educational-nlp).Educational MeasurementRelated Pagesai-scoring-language-bias-physics",
     "url": "pages/educational-measurement.html"
   },
   {
@@ -2813,7 +2813,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Educational NlpThis is a stub page for the concept of educational nlp. It was created to resolve broken backlinks from other wiki pages.Related Pageshuman-vs-llm-ordered-coding",
+    "content": "> Educational NLP applies language technologies to learning: llm-item-difficulty-prediction, teaching-feedback-classification-benchmark, llm-sentiment-analysis-education-research, and vocabulary-difficulty-prediction show LLMs advancing analysis of student language at scale (educational-measurement, nlp-education).Educational NlpRelated Pageshuman-vs-llm-ordered-coding",
     "url": "pages/educational-nlp.html"
   },
   {
@@ -2822,7 +2822,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Educational Policy AiThis is a stub page for the concept of educational policy ai. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Educational policy for AI is analyzed in state-policy-teacher-ai, genai-policy-prompting-rct, ai-governance-education, and regulation: policy design choices (allow/prompt/teach) measurably shape classroom use, and governance must keep pace with capability (policy-maker).Educational Policy AiRelated Pages",
     "url": "pages/educational-policy-ai.html"
   },
   {
@@ -2831,7 +2831,7 @@
     "tags": [
       "educational-theory"
     ],
-    "content": "Educational TheoryThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ncritical-genai-use-predictors \u2014 Kuhn's epistemic orientation and intellectual values as predictors\npost-instrumental-learning-capacity-dissolution\nai-vocational-education-training-review\nsocratic-tests-conversational-assessment\nhypergamification-game-engine-lms\ncognitive-commons-ai-expertise-regeneration",
+    "content": "> Educational theory frames the wiki's AI analyses: constructivist, cognitive-load-theory, desirable-difficulties, and zone-of-proximal-development are the lenses through which papers like agentic-ai-pedagogical-best-practice-2026 and genai-mindtool-generative-learning evaluate whether AI supports or supplants learning mechanisms.Educational TheoryRelated Pages\ncritical-genai-use-predictors \u2014 Kuhn's epistemic orientation and intellectual values as predictors\npost-instrumental-learning-capacity-d",
     "url": "pages/educational-theory.html"
   },
   {
@@ -2897,7 +2897,7 @@
     "tags": [
       "efficacy-study"
     ],
-    "content": "Efficacy StudyStub page \u2014 full synthesis pending.Related Pages\nanvil-ai-educational-animations\nllm-intervention-design-cs-review\nai-vocational-education-training-review\nquest-ai-inquiry-preservice-teachers",
+    "content": "Efficacy StudyRelated Pages\nanvil-ai-educational-animations\nllm-intervention-design-cs-review\nai-vocational-education-training-review\nquest-ai-inquiry-preservice-teachers",
     "url": "pages/efficacy-study.html"
   },
   {
@@ -2997,7 +2997,7 @@
     "tags": [
       "engagement-metrics"
     ],
-    "content": "Engagement MetricsStub page for cross-referencing.Related Pages\nlets-chat-chatbot-outreach-2026 \u2014 A/B and DFW outcomes from chatbot outreach\naccess-not-enough-ai-tutoring-2026 \u2014 Usage minutes and stories as engagement outcomes\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Response length (chars/prompt) as behavioral engagement metric\ncross-subject-validity-delayed-start \u2014 Delayed start frequency as a generalizable engagement metric with cross-subject predictive validity\nframing-5-percent-pro",
+    "content": "Engagement MetricsRelated Pages\nlets-chat-chatbot-outreach-2026 \u2014 A/B and DFW outcomes from chatbot outreach\naccess-not-enough-ai-tutoring-2026 \u2014 Usage minutes and stories as engagement outcomes\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Response length (chars/prompt) as behavioral engagement metric\ncross-subject-validity-delayed-start \u2014 Delayed start frequency as a generalizable engagement metric with cross-subject predictive validity\nframing-5-percent-problem-teachers-persistence -- Tea",
     "url": "pages/engagement-metrics.html"
   },
   {
@@ -3041,7 +3041,7 @@
     "tags": [
       "equity"
     ],
-    "content": "EquityStub page \u2014 full synthesis pending.Related Pages\naccess-not-enough-ai-tutoring-2026 \u2014 Engagement gaps compound access gaps\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Equity and access challenges in authentic assessment\nauthentic-products-authenticated-processes-2026 \u2014 Inclusivity and representational fairness dimension\npost-covid-ict-career-aspirations \u2014 5 of 8 papers in May 28 scan\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nxai-education-framework\nai-changing-teaching-workf",
+    "content": "EquityRelated Pages\naccess-not-enough-ai-tutoring-2026 \u2014 Engagement gaps compound access gaps\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Equity and access challenges in authentic assessment\nauthentic-products-authenticated-processes-2026 \u2014 Inclusivity and representational fairness dimension\npost-covid-ict-career-aspirations \u2014 5 of 8 papers in May 28 scan\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-a",
     "url": "pages/equity.html"
   },
   {
@@ -3063,7 +3063,7 @@
     "tags": [
       "stub"
     ],
-    "content": "EthicsThis is a stub page for the concept of ethics. It was created to resolve broken backlinks from other wiki pages.Related Pages\nsycophantic-ai-social-interaction-2026 \u2014 Relational harms of affirming AI",
+    "content": "> Ethics of educational AI is examined across ethical-ai-higher-ed-game-theory, ai-ethics-education-public-discourse, child-safety-genai, and sycophantic-ai-social-interaction-2026: ethical analysis spans harm, autonomy, privacy, and the relational effects of AI on learners (pedagogical-safety, bias-mitigation).EthicsRelated Pages\nsycophantic-ai-social-interaction-2026 \u2014 Relational harms of affirming AI",
     "url": "pages/ethics.html"
   },
   {
@@ -3087,7 +3087,7 @@
       "generative-ai",
       "higher-ed"
     ],
-    "content": "Every Learner: Faculty Development GenAI PlaybookThis is a stub page for \"Every Learner: Faculty Development GenAI Playbook\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> The Every Learner faculty-development GenAI playbook (2025) is a practitioner-oriented resource for integrating generative AI into teaching practice \u2014 the applied counterpart to the wiki's faculty-development evidence that structured training, not tool access, drives classroom outcomes (genai-can-harm-teaching-rct-2026, teacher-ai-competency).Every Learner: Faculty Development GenAI PlaybookRelated Pages",
     "url": "pages/every-learner-faculty-development-genai-playbook-2025.html"
   },
   {
@@ -3136,7 +3136,7 @@
     "tags": [
       "faculty-development"
     ],
-    "content": "Faculty DevelopmentStub page \u2014 full synthesis pending.Related Pages\ngenai-can-harm-teaching-rct-2026 \u2014 Generative AI Can Harm Teaching (RCT)\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nllm-sentiment-analysis-education-research \u2014 1 of 8 papers in May 28 scan\npersistent-ai-agents-academic-research \u2014 how persistent AI agents reshape individual academic work\nai-changing-teaching-workflows\ngenai-architecture-education\nai-pedagogical-accompaniment-amico\nai-lifelong-learning-polic",
+    "content": "Faculty DevelopmentRelated Pages\ngenai-can-harm-teaching-rct-2026 \u2014 Generative AI Can Harm Teaching (RCT)\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nllm-sentiment-analysis-education-research \u2014 1 of 8 papers in May 28 scan\npersistent-ai-agents-academic-research \u2014 how persistent AI agents reshape individual academic work\nai-changing-teaching-workflows\ngenai-architecture-education\nai-pedagogical-accompaniment-amico\nai-lifelong-learning-policy\nanvil-ai-educational-animationsco",
     "url": "pages/faculty-development.html"
   },
   {
@@ -3159,7 +3159,7 @@
       "critical-thinking",
       "over-reliance"
     ],
-    "content": "Critical AI Tutors: Empower or Enslave?This is a stub page for \"Critical AI Tutors: Empower or Enslave?\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> Critical AI Tutors: Empower or Enslave? \u2014 Position paper arguing that unchecked AI tutor use leads to cognitive atrophy, loss of agency, emotional risks, and ethical concerns (privacy, academic integrity). Authors call for intentional, transparent, critically informed AI use that empowers rather than diminishes the learner. Workshop at AIED 2025.Critical AI Tutors: Empower or Enslave?Related Pages",
     "url": "pages/favero-critical-ai-tutors-empower-enslave-2025.html"
   },
   {
@@ -3184,7 +3184,7 @@
       "formative-assessment",
       "personalized-learning"
     ],
-    "content": "Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nauthentic-products-authenticated-processes-2026 \u2014 Sustainable evaluative judgement\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 LLM assistant usage forms an engagement feedback loop over time\nfeedback-futures-genai \u2014 AEHE special-issue editorial on GenAI feedback futures\nchatgpt-feedback-engagement-genai \u2014 Students' 4-dimension engagement wit",
+    "content": "> Feedback loops \u2014 the engine of formative learning \u2014 are redesigned by AI in care-full-feedback-genai, chatgpt-feedback-engagement-genai, repeated-ai-writing-feedback-semester, and sequenced-ai-feedback-learning: AI enables faster, more frequent loops, but feedback must remain corrective, humanly grounded, and learner-owned (formative-assessment, ai-generated-feedback-higher-ed).Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further ",
     "url": "pages/feedback-loop.html"
   },
   {
@@ -3195,7 +3195,7 @@
       "curriculum-design",
       "instructional-design"
     ],
-    "content": "Principled AI Education FrameworkThis is a stub page for \"Principled AI Education Framework\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> Principled AI Education Framework \u2014 A principled way to think about AI in education:Principled AI Education FrameworkRelated Pages",
     "url": "pages/finkelstein-principled-ai-education-2025.html"
   },
   {
@@ -3242,7 +3242,7 @@
     "slug": "formative-feedback-systems",
     "title": "\"Formative Feedback Systems\"",
     "tags": [],
-    "content": "Formative Feedback SystemsStub page \u2014 created as a back-link target.Related Pagessurfacing-isolated-learners \u2014 links here",
+    "content": "Formative Feedback SystemsRelated Pagessurfacing-isolated-learners \u2014 links here",
     "url": "pages/formative-feedback-systems.html"
   },
   {
@@ -3709,7 +3709,7 @@
     "tags": [
       "generative-ai"
     ],
-    "content": "Generative AiStub page \u2014 full synthesis pending.Related Pages\nlets-chat-chatbot-outreach-2026 \u2014 The non-generative chatbot contrast case\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher-facing GenAI RCT: motivation and achievement harms\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 GPT-3.5 journaling assistant: scaffolds writing, no motivation gain\ngenai-impact-chinese-students-hss \u2014 Survey of Chinese HSS students on GenAI's effects on learning motivation, creativity, and academic performance\nai-a",
+    "content": "Generative AiRelated Pages\nlets-chat-chatbot-outreach-2026 \u2014 The non-generative chatbot contrast case\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher-facing GenAI RCT: motivation and achievement harms\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 GPT-3.5 journaling assistant: scaffolds writing, no motivation gain\ngenai-impact-chinese-students-hss \u2014 Survey of Chinese HSS students on GenAI's effects on learning motivation, creativity, and academic performance\nai-assisted-writing-research-teams \u2014 6 ",
     "url": "pages/generative-ai.html"
   },
   {
@@ -3746,7 +3746,7 @@
       "collaborative-learning",
       "cs-education"
     ],
-    "content": "ProPACT: Pair Programming with AIThis is a stub page for \"ProPACT: Pair Programming with AI\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> ProPACT: Pair Programming with AI \u2014 ProPACT is an AI-driven adaptive tutor that \"treats collaboration itself as the object of instruction.\" Unlike individual-centric, reactive systems, it models dyadic learning states and intervenes before breakdowns occur.ProPACT: Pair Programming with AIRelated Pages",
     "url": "pages/golrang-propact-pair-programming-2026.html"
   },
   {
@@ -3755,7 +3755,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Ground Truth Reliability AidedThis is a stub page for the concept of ground truth reliability aided. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Ground-truth reliability in AIED evaluation asks whether the human labels used to judge AI are themselves trustworthy: ground-truth-reliability-aied, vetting-dual-llm-safety-education, and data-annotations-pedagogical-hints show expert disagreement and noisy annotations that can mislead benchmark conclusions (ai-ed-evaluation, benchmark).Ground Truth Reliability AidedRelated Pages",
     "url": "pages/ground-truth-reliability-aided.html"
   },
   {
@@ -3806,7 +3806,7 @@
       "llm",
       "student-experience"
     ],
-    "content": "Hallucination RiskLLM hallucination risks in educational contextsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nlets-chat-chatbot-outreach-2026 \u2014 Curated knowledge base avoids GenAI hallucination risk\ncritical-genai-use-predictors \u2014 Cross-checking outputs: 97% hold the web-search misconceptionllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 chatgpt-programming-education-",
+    "content": "> Hallucination risk \u2014 fabricated content from LLMs \u2014 is a documented failure mode in educational settings: llm-cognitive-diagnosis-handwritten-math, eduguard-safe-rag-llm-tutor, vetting-dual-llm-safety-education, and llm-fallacy-misattribution examine detection, mitigation, and the misattribution of model errors to students (over-reliance, trust-calibration).Hallucination RiskLLM hallucination risks in educational contextsConnectionsThis page is a stub \u2014 awaiting further sources and content.Rel",
     "url": "pages/hallucination-risk.html"
   },
   {
@@ -3818,7 +3818,7 @@
       "generative-ai",
       "intelligent-tutoring"
     ],
-    "content": "Socratic Physics ChatbotThis is a stub page for \"Socratic Physics Chatbot\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> Socratic Physics Chatbot \u2014 Physics education research. Custom Socratic AI chatbot deployed in large-enrollment introductory mechanics course with 150 first-year STEM majors. Full dialogue transcripts logged. Post-interaction surveys: median 4.0/5 for knowledge-based skills, 3.4/5 for overall effectiveness.Socratic Physics ChatbotRelated Pages",
     "url": "pages/hashmi-socratic-physics-chatbot-2025.html"
   },
   {
@@ -3828,7 +3828,7 @@
       "pedagogical-safety",
       "k-12"
     ],
-    "content": "SafeTutors: Pedagogical Safety in AI TutoringThis is a stub page for \"SafeTutors: Pedagogical Safety in AI Tutoring\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> SafeTutors: Pedagogical Safety in AI Tutoring \u2014 LLMs are rapidly deployed as AI tutors, yet current evaluation paradigms assess problem-solving accuracy and generic safety in isolation, failing to capture whether a model is simultaneously pedagogically effective and safe across student-tutor interaction.SafeTutors: Pedagogical Safety in AI TutoringRelated Pages",
     "url": "pages/hazra-safetutors-pedagogical-safety-2026.html"
   },
   {
@@ -3850,7 +3850,7 @@
       "collaborative-learning",
       "instructional-design"
     ],
-    "content": "Collaborative AI Literacy FrameworkThis is a stub page for \"Collaborative AI Literacy Framework\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> Collaborative AI Literacy Framework \u2014 SEFI 2025. Systematic review of 9 studies (2015-2023) on collaborative learning for AI literacy. Uses ICAP framework (Interactive-Constructive-Active-Passive) to analyze outcomes. CL effectively increases AI literacy across activities, settings, and learner groups. Most studies in classroom settings;Collaborative AI Literacy FrameworkRelated Pages",
     "url": "pages/hingle-collaborative-ai-literacy-2025.html"
   },
   {
@@ -3874,7 +3874,7 @@
       "interpretability",
       "student-modeling"
     ],
-    "content": "Interpretable Knowledge TracingThis is a stub page for \"Interpretable Knowledge Tracing\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> Interpretable Knowledge Tracing \u2014 Existing dialogue-based Knowledge Tracing (KT) suffers from two gaps:Interpretable Knowledge TracingRelated Pages",
     "url": "pages/huang-interpretable-knowledge-tracing-2026.html"
   },
   {
@@ -3921,7 +3921,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Human Ai CollaborationStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ndot-framework-survey\ngenerativism-learning-theory \u2014 Generativism's epistemic partnership principle as a framework for human-AI collaboration\nagent-voice-accents-k12-group-learning \u2014 Voice accent as a design feature shaping human-AI collaboration dynamics in group learning\nhuman-ai-collaboration-prerequisite-functions -- 5-level taxonomy: most human-AI interaction is consultation/dele",
+    "content": "Human Ai CollaborationRelated Pages\ndot-framework-survey\ngenerativism-learning-theory \u2014 Generativism's epistemic partnership principle as a framework for human-AI collaboration\nagent-voice-accents-k12-group-learning \u2014 Voice accent as a design feature shaping human-AI collaboration dynamics in group learning\nhuman-ai-collaboration-prerequisite-functions -- 5-level taxonomy: most human-AI interaction is consultation/delegation, not true collaboration\nsocial-robot-study-companions \u2014 Co-Creating Bui",
     "url": "pages/human-ai-collaboration.html"
   },
   {
@@ -3942,7 +3942,7 @@
     "tags": [
       "human-in-the-loop"
     ],
-    "content": "Human In The LoopStub page \u2014 full synthesis pending.Related Pages\nagentic-ai-pedagogical-best-practice-2026 \u2014 Oversight of proactive agents\nauthentic-products-authenticated-processes-2026 \u2014 Authenticated processes: visible human judgementllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nconcept-catalyst-engineering-sca",
+    "content": "Human In The LoopRelated Pages\nagentic-ai-pedagogical-best-practice-2026 \u2014 Oversight of proactive agents\nauthentic-products-authenticated-processes-2026 \u2014 Authenticated processes: visible human judgementllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orche",
     "url": "pages/human-in-the-loop.html"
   },
   {
@@ -4069,7 +4069,7 @@
     "slug": "inclusive-ai",
     "title": "Inclusive Ai",
     "tags": [],
-    "content": "Inclusive AiStub page \u2014 full synthesis pending.Related Pages\ngenai-minoritized-knowledges-disability \u2014 challenging inclusive design to address epistemological exclusion\nneurodivergent-computing-students \u2014 AI tool design must accommodate neurodivergent collaboration preferences\ngenai-architecture-education\nedtech-design-time-generative-ui -- Design-time GenUI with card-based semantic units embeds UDL and eliminates per-learner inference costs",
+    "content": "Inclusive AiRelated Pages\ngenai-minoritized-knowledges-disability \u2014 challenging inclusive design to address epistemological exclusion\nneurodivergent-computing-students \u2014 AI tool design must accommodate neurodivergent collaboration preferences\ngenai-architecture-education\nedtech-design-time-generative-ui -- Design-time GenUI with card-based semantic units embeds UDL and eliminates per-learner inference costs",
     "url": "pages/inclusive-ai.html"
   },
   {
@@ -4078,7 +4078,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Inclusive EducationThis is a stub page for the concept of inclusive education. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Inclusive education with AI covers special-education-ai, neurodivergent-computing-students, accessible-learning, and multilingual-learning: AI can personalize for diverse learners but risks exclusion when accessibility and cultural contexts are afterthoughts (equity).Inclusive EducationRelated Pages",
     "url": "pages/inclusive-education.html"
   },
   {
@@ -4100,7 +4100,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Institutional Ai ReadinessStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ndot-framework-survey",
+    "content": "Institutional Ai ReadinessRelated Pages\ndot-framework-survey",
     "url": "pages/institutional-ai-readiness.html"
   },
   {
@@ -4123,7 +4123,7 @@
     "tags": [
       "instructional-design"
     ],
-    "content": "Instructional DesignStub page \u2014 full synthesis pending.Related Pages\nconcept-catalyst-engineering-scaffolds\nanvil-ai-educational-animations\ndidactical-teacher-assistant-dimensional-modeling \u2014 Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes \nadhd-video-segmentation-computing-education \u2014 Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p\nai-generated-instructional-videos-computing-ed\nllm-intervent",
+    "content": "Instructional DesignRelated Pages\nconcept-catalyst-engineering-scaffolds\nanvil-ai-educational-animations\ndidactical-teacher-assistant-dimensional-modeling \u2014 Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes \nadhd-video-segmentation-computing-education \u2014 Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p\nai-generated-instructional-videos-computing-ed\nllm-intervention-design-cs-review\ngenai-mindtool",
     "url": "pages/instructional-design.html"
   },
   {
@@ -4144,7 +4144,7 @@
     "slug": "intelligent-tutoring-systems",
     "title": "\"Intelligent Tutoring Systems\"",
     "tags": [],
-    "content": "Intelligent Tutoring SystemsStub page \u2014 created as a back-link target.Related Pagesspecial-r1-rl-special-education \u2014 links here\ntutoring-effectiveness-index \u2014 links here\nself-efficacy-tutoring-learning \u2014 Self-Efficacy and Favorability Shape Learning from Tutoring \nparatutor-parent-child-tutoring \u2014 ParaTutor\nlecturaagents-multi-agent-teaching \u2014 LecturaAgents\nrethinking-scaffolding-llm-tutors \u2014 Rethinking Scaffolding in LLM Tutors\nai-assessment-human-tutors -- AI-driven assessment of human tutor t",
+    "content": "Intelligent Tutoring SystemsRelated Pagesspecial-r1-rl-special-education \u2014 links here\ntutoring-effectiveness-index \u2014 links here\nself-efficacy-tutoring-learning \u2014 Self-Efficacy and Favorability Shape Learning from Tutoring \nparatutor-parent-child-tutoring \u2014 ParaTutor\nlecturaagents-multi-agent-teaching \u2014 LecturaAgents\nrethinking-scaffolding-llm-tutors \u2014 Rethinking Scaffolding in LLM Tutors\nai-assessment-human-tutors -- AI-driven assessment of human tutor training performance correlates with real-l",
     "url": "pages/intelligent-tutoring-systems.html"
   },
   {
@@ -4174,7 +4174,7 @@
     "slug": "isolated-learner-detection",
     "title": "\"Isolated Learner Detection\"",
     "tags": [],
-    "content": "Isolated Learner DetectionStub page \u2014 created as a back-link target.Related Pagessurfacing-isolated-learners \u2014 links here\nengagement-intensity-learner-modeling -- Engagement intensity during AI ethics instruction serves as an effective learner...",
+    "content": "Isolated Learner DetectionRelated Pagessurfacing-isolated-learners \u2014 links here\nengagement-intensity-learner-modeling -- Engagement intensity during AI ethics instruction serves as an effective learner...",
     "url": "pages/isolated-learner-detection.html"
   },
   {
@@ -4183,7 +4183,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Item Response TheoryThis is a stub page for the concept of item response theory. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Item response theory \u2014 psychometric modeling of item difficulty and ability \u2014 meets LLMs in llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, and knowledge-tracing-irt: AI predicts difficulty and calibrates assessment, improving measurement precision (educational-measurement, assessment-validity).Item Response TheoryRelated Pages",
     "url": "pages/item-response-theory.html"
   },
   {
@@ -4194,14 +4194,14 @@
       "ai-ed-evaluation",
       "benchmark"
     ],
-    "content": "ISD Agent BenchmarkThis is a stub page for \"ISD Agent Benchmark\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> ISD Agent Benchmark \u2014 LLM agents have shown promising potential in automating Instructional Systems Design (ISD), a systematic approach to developing educational programs. However, evaluating these agents remains challenging due to the lack of standardized benchmarks and the risk of LLM-as-judge bias.ISD Agent BenchmarkRelated Pages",
     "url": "pages/jeon-isd-agent-bench-2026.html"
   },
   {
     "slug": "jill-watson",
     "title": "\"Jill Watson\"",
     "tags": [],
-    "content": "Jill WatsonStub page \u2014 created as a back-link target.Related Pagessurfacing-isolated-learners \u2014 links here",
+    "content": "Jill WatsonRelated Pagessurfacing-isolated-learners \u2014 links here",
     "url": "pages/jill-watson.html"
   },
   {
@@ -4223,7 +4223,7 @@
     "tags": [
       "k-12"
     ],
-    "content": "K 12Stub page \u2014 full synthesis pending.Related Pages\naccess-not-enough-ai-tutoring-2026 \u2014 Elementary AI tutoring RCTs\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher AI RCT in Turkish K-12 schools\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration\ndigital-literacy-illusion \u2014 Digital literacy illusion study with N=243 European secondary students\nteacher-authored-prompts-student-ai-dialogue \u2014 K-12 classroom implementation of ",
+    "content": "K 12Related Pages\naccess-not-enough-ai-tutoring-2026 \u2014 Elementary AI tutoring RCTs\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher AI RCT in Turkish K-12 schools\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration\ndigital-literacy-illusion \u2014 Digital literacy illusion study with N=243 European secondary students\nteacher-authored-prompts-student-ai-dialogue \u2014 K-12 classroom implementation of AI-mediated dialogueawareness-techn",
     "url": "pages/k-12.html"
   },
   {
@@ -4235,7 +4235,7 @@
       "intelligent-tutoring",
       "k-12"
     ],
-    "content": "MathBuddy: Affective Math TutoringThis is a stub page for \"MathBuddy: Affective Math Tutoring\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> MathBuddy: Affective Math Tutoring \u2014 EMNLP 2025 Demo. Emotionally aware LLM-powered math tutor. Dynamically models student emotions from conversational text and facial expressions, aggregated from both modalities to prompt emotionally-aware LLM responses. Maps affective states to relevant pedagogical strategies. Win rate: +23 points. DAMR score: +3 points at overall level.MathBuddy: Affective Math TutoringRelated Pages",
     "url": "pages/kar-mathbuddy-affective-math-tutoring-2025.html"
   },
   {
@@ -4246,7 +4246,7 @@
       "misinformation",
       "ai-literacy"
     ],
-    "content": "LLM Fallacy Misattribution in EducationThis is a stub page for \"LLM Fallacy Misattribution in Education\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> LLM Fallacy Misattribution in Education \u2014 The rapid integration of large language models (LLMs) into everyday workflows has transformed how individuals perform cognitive tasks such as writing, programming, analysis, and multilingual communication.LLM Fallacy Misattribution in EducationRelated Pages",
     "url": "pages/kim-llm-fallacy-misattribution-2026.html"
   },
   {
@@ -4279,7 +4279,7 @@
     "slug": "knowledge-graph",
     "title": "Knowledge Graph",
     "tags": [],
-    "content": "Knowledge GraphStub page \u2014 full synthesis pending.Related Pages\nconcept-catalyst-engineering-scaffolds\nlearnopt-exam-cognitive-structure -- Standardized exams have stable latent cognitive structures recoverable via LLM-tagged question analysis and knapsack optimization",
+    "content": "Knowledge GraphRelated Pages\nconcept-catalyst-engineering-scaffolds\nlearnopt-exam-cognitive-structure -- Standardized exams have stable latent cognitive structures recoverable via LLM-tagged question analysis and knapsack optimization",
     "url": "pages/knowledge-graph.html"
   },
   {
@@ -4302,7 +4302,7 @@
     "tags": [
       "knowledge-tracing"
     ],
-    "content": "Knowledge TracingStub page for cross-referencing.Related Pages\nskill-acquisition-without-temporal-info -- A neural framework predicts next-skill acquisition from snapshot CDM data using pseudo-temporal ordering via inclusion relations among skill sets.\npattern-kc-programming-recommendation \u2014 Pattern-based KC programming recommendation\nllm-psychometric-calibration-cdp \u2014 CDP framework dramatically improves LLM-simulated examinee alignment with human ...\nstudent-math-competence-clustering \u2014 119K st",
+    "content": "Knowledge TracingRelated Pages\nskill-acquisition-without-temporal-info -- A neural framework predicts next-skill acquisition from snapshot CDM data using pseudo-temporal ordering via inclusion relations among skill sets.\npattern-kc-programming-recommendation \u2014 Pattern-based KC programming recommendation\nllm-psychometric-calibration-cdp \u2014 CDP framework dramatically improves LLM-simulated examinee alignment with human ...\nstudent-math-competence-clustering \u2014 119K students across 13 UK exams: overa",
     "url": "pages/knowledge-tracing.html"
   },
   {
@@ -4387,7 +4387,7 @@
     "slug": "learning-analytics-dashboards",
     "title": "\"Learning Analytics Dashboards\"",
     "tags": [],
-    "content": "Learning Analytics DashboardsStub page \u2014 created as a back-link target.Related Pagessurfacing-isolated-learners \u2014 links here\nsavvy-student-attention-video-learning",
+    "content": "Learning Analytics DashboardsRelated Pagessurfacing-isolated-learners \u2014 links here\nsavvy-student-attention-video-learning",
     "url": "pages/learning-analytics-dashboards.html"
   },
   {
@@ -4449,14 +4449,14 @@
     "tags": [
       "learning-gains"
     ],
-    "content": "Learning GainsStub page for cross-referencing.Related Pages\nadaptive-pretesting-retention -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice \u2014 learner-directed AI study underperforms structured retrieval.\nlearning-behavior-background-advantage-ai-ed \u2014 Heterogeneous learning gains (2026-07-14)",
+    "content": "Learning GainsRelated Pages\nadaptive-pretesting-retention -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice \u2014 learner-directed AI study underperforms structured retrieval.\nlearning-behavior-background-advantage-ai-ed \u2014 Heterogeneous learning gains (2026-07-14)",
     "url": "pages/learning-gains.html"
   },
   {
     "slug": "learning-outcomes",
     "title": "\"Learning Outcomes\"",
     "tags": [],
-    "content": "Learning OutcomesThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\npost-instrumental-learning-capacity-dissolution\nlearner-ai-interaction-patterns-oop\nsolving-vs-evaluating-genai-solutions",
+    "content": "> Learning outcomes in the AI era are being redefined: genai-performance-vs-learning, generative-ai-reduced-study-time-math, and ai-assessment-human-tutors distinguish performance gains from durable learning, warning that AI-boosted scores can mask shallow understanding (learning-gains, assessment-validity).Learning OutcomesRelated Pages\npost-instrumental-learning-capacity-dissolution\nlearner-ai-interaction-patterns-oop\nsolving-vs-evaluating-genai-solutions",
     "url": "pages/learning-outcomes.html"
   },
   {
@@ -4555,7 +4555,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Llm Application EducationThis is a stub page for the concept of llm application education. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> LLM applications in education \u2014 the applied side of the corpus \u2014 are catalogued in llm-chatbots-cs-multiple-choice, llm-handwritten-math-grading, llm-design-problems-hot-pjbl, and moodle-ai-tutoring-deep-learning: applications span assessment, tutoring, content generation, and administration, each with distinct validity demands (llm, educational-nlp).Llm Application EducationRelated Pages",
     "url": "pages/llm-application-education.html"
   },
   {
@@ -4696,7 +4696,7 @@
     "slug": "llm-evaluation",
     "title": "\"Llm Evaluation\"",
     "tags": [],
-    "content": "Llm EvaluationThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nllm-judged-helpfulness-pedagogy-signal",
+    "content": "> LLM evaluation in education goes beyond accuracy: llm-judged-helpfulness-pedagogy-signal, teachbench-llm-teaching-evaluation, vetting-dual-llm-safety-education, and ground-truth-reliability-aied assess pedagogical quality, safety, and reliability of model output (ai-ed-evaluation, benchmark).Llm EvaluationRelated Pages\nllm-judged-helpfulness-pedagogy-signal",
     "url": "pages/llm-evaluation.html"
   },
   {
@@ -4761,7 +4761,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Llm In EducationThis is a stub page for the concept of llm in education. It was created to resolve broken backlinks from other wiki pages.Related Pagesagentic-ai-education-scoping-review \u2014 Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gapllm-intervention-design-cs-review\nvetting-dual-llm-safety-education\nconversational-ai-informal-learning\nhuman-vs-llm-ordered-coding\nllm-unlearning-math-privacy",
+    "content": "> LLMs in education \u2014 the umbrella topic \u2014 is covered by hundreds of wiki pages: llm-tutoring-feedback-diagnosis-gap, socraticode-k12-programming-tutor, llm-reasoning-traces-metacognition, and measuring-llm-tutors-teach-vs-solve capture the field's central questions about whether LLM tutors teach or solve, scaffold or substitute (llm, intelligent-tutoring).Llm In EducationRelated Pagesagentic-ai-education-scoping-review \u2014 Wang et al. (2026) scoping review: 474 studies on agentic AI in education,",
     "url": "pages/llm-in-education.html"
   },
   {
@@ -4813,7 +4813,7 @@
     "slug": "llm-math-tutoring",
     "title": "\"Llm Math Tutoring\"",
     "tags": [],
-    "content": "Llm Math TutoringStub page \u2014 created as a back-link target.Related Pagesspecial-r1-rl-special-education \u2014 links here\ntutoring-effectiveness-index \u2014 links here\nrepresentation-robustness-llm-math-problem-solving \u2014 Representation Robustness under Executable Reasoning Constra",
+    "content": "Llm Math TutoringRelated Pagesspecial-r1-rl-special-education \u2014 links here\ntutoring-effectiveness-index \u2014 links here\nrepresentation-robustness-llm-math-problem-solving \u2014 Representation Robustness under Executable Reasoning Constra",
     "url": "pages/llm-math-tutoring.html"
   },
   {
@@ -4985,7 +4985,7 @@
     "tags": [
       "llm"
     ],
-    "content": "LlmStub page \u2014 full synthesis pending.Related Pages\nsupplynet-visual-exploratory-learning \u2014 Contextual graph-based LLM multi-agent framework for educational simulation\nkt4eqg-personalized-question-generation \u2014 7 of 8 papers in May 28 scan\nrubric-aware-grading-rec-cbm \u2014 2 of 8 papers in May 28 scan\nsocially-fluent-ai-identity-detection \u2014 Socially fluent LLMs decouple conversational signals from source identity\nmindcopilot-llm-co-writing \u2014 Interaction-aware evaluation framework for LLM co-writing ",
+    "content": "LlmRelated Pages\nsupplynet-visual-exploratory-learning \u2014 Contextual graph-based LLM multi-agent framework for educational simulation\nkt4eqg-personalized-question-generation \u2014 7 of 8 papers in May 28 scan\nrubric-aware-grading-rec-cbm \u2014 2 of 8 papers in May 28 scan\nsocially-fluent-ai-identity-detection \u2014 Socially fluent LLMs decouple conversational signals from source identity\nmindcopilot-llm-co-writing \u2014 Interaction-aware evaluation framework for LLM co-writing (IJCAI 2026)\nconcept-catalyst-engin",
     "url": "pages/llm.html"
   },
   {
@@ -5007,7 +5007,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Mastery LearningThis is a stub page for the concept of mastery learning. It was created to resolve broken backlinks from other wiki pages.Related Pages\nmemdora-ai-spaced-repetition",
+    "content": "> Mastery learning \u2014 progression upon demonstrated competence \u2014 is enabled by adaptive AI: mastery-learning research in the wiki, alongside adaptive-learning, memdora-ai-spaced-repetition, and simulating-learner-task-selection, shows AI sequencing and assessment make mastery-based progression practical at scale (personalized-learning, formative-assessment).Mastery LearningRelated Pages\nmemdora-ai-spaced-repetition",
     "url": "pages/mastery-learning.html"
   },
   {
@@ -5156,7 +5156,7 @@
     "slug": "misconception-diagnosis",
     "title": "Misconception Diagnosis",
     "tags": [],
-    "content": "Misconception DiagnosisStub page for cross-referencing.Related Pages\ncorrect-answer-trap-misconceptions -- Fine-tuned classifiers detect only 57% of hidden student misconceptions, while reasoning models reach 84% but at 8:1 false alarms \u2014 a detect-verify-escalate pipeline with diagnostic follow-up questions is proposed.",
+    "content": "Misconception DiagnosisRelated Pages\ncorrect-answer-trap-misconceptions -- Fine-tuned classifiers detect only 57% of hidden student misconceptions, while reasoning models reach 84% but at 8:1 false alarms \u2014 a detect-verify-escalate pipeline with diagnostic follow-up questions is proposed.",
     "url": "pages/misconception-diagnosis.html"
   },
   {
@@ -5270,7 +5270,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Multi Representational ToolsThis is a stub page for the concept of multi representational tools. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Multi-representational tools \u2014 presenting concepts across text, diagrams, and interactives \u2014 are studied in data-comics-for-education-evaluating-effectiveness-benefits-ethics, code-anchor-multi-view-visualization, visual-query-tracer-declarative-logic-learning, and supplynet-visual-exploratory-learning: AI-generated multiple representations support comprehension when mappings between forms are explicit (multimodal, visualization).Multi Representational ToolsRelated Pages",
     "url": "pages/multi-representational-tools.html"
   },
   {
@@ -5292,7 +5292,7 @@
     "tags": [
       "multilingual-learning"
     ],
-    "content": "Multilingual LearningThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\niks-instruct-dataset-indian-knowledge\nai-scoring-language-bias-physics\nscaffolding-critical-engagement-genai-minority-students\nconnected-ai-lesson-planning-vietnam",
+    "content": "> Multilingual learning with AI is examined in genai-linguistic-diversity-academic-writing, international-students-conversational-ai-adaptation, ai-interlocutor-l2-spoken-dialogue, and self-referential-l2-writing-llm-assessment: LLMs enable scalable language practice but risk privileging English and dominant varieties (equity, language-learning).Multilingual LearningRelated Pages\niks-instruct-dataset-indian-knowledge\nai-scoring-language-bias-physics\nscaffolding-critical-engagement-genai-minority",
     "url": "pages/multilingual-learning.html"
   },
   {
@@ -5373,7 +5373,7 @@
     "tags": [
       "multimodal"
     ],
-    "content": "MultimodalStub page \u2014 full synthesis pending.Related Pages\nslidesqaqa-pedagogical-question-generation \u2014 joint text+visual reasoning for slide-based question generation\nanvil-ai-educational-animations\nmultimodal-prompting-ai-literacy\nsavvy-student-attention-video-learning",
+    "content": "MultimodalRelated Pages\nslidesqaqa-pedagogical-question-generation \u2014 joint text+visual reasoning for slide-based question generation\nanvil-ai-educational-animations\nmultimodal-prompting-ai-literacy\nsavvy-student-attention-video-learning",
     "url": "pages/multimodal.html"
   },
   {
@@ -5411,7 +5411,7 @@
       "student-modeling",
       "llm"
     ],
-    "content": "PersonaVLM: Long-Term Personalization for AI TutorsThis is a stub page for \"PersonaVLM: Long-Term Personalization for AI Tutors\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> PersonaVLM: Long-Term Personalization for AI Tutors \u2014 Multimodal Large Language Models (MLLMs) serve as daily assistants for millions. However, their ability to generate responses aligned with individual preferences remains limited.PersonaVLM: Long-Term Personalization for AI TutorsRelated Pages",
     "url": "pages/nie-personavlm-long-term-personalization-2026.html"
   },
   {
@@ -5420,7 +5420,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Nlp EducationThis is a stub page for the concept of nlp education. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> NLP in education \u2014 computational analysis of learner language \u2014 underpins aiawe-automated-writing-evaluation, llm-item-difficulty-prediction, short-answer-scoring-quality-degradation, and automated-grading: from essay scoring to misconception detection, NLP pipelines convert student text into assessment signal (educational-nlp, educational-measurement).Nlp EducationRelated Pages",
     "url": "pages/nlp-education.html"
   },
   {
@@ -5442,7 +5442,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Open SourceThis is a stub page for the concept of open source. It was created to resolve broken backlinks from other wiki pages.Related Pages\niks-instruct-dataset-indian-knowledge",
+    "content": "> Open-source AI in education is studied in lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, and open-source (tag) pages: local open models address privacy, cost, and customization but bring deployment and quality burdens (regulation, ai-ed-implementation).Open SourceRelated Pages\niks-instruct-dataset-indian-knowledge",
     "url": "pages/open-source.html"
   },
   {
@@ -5451,7 +5451,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Open Systems TheoryStub page \u2014 created during ingestion of dot-framework-survey. Content pending.Related Pages\ndot-framework-survey",
+    "content": "Open Systems TheoryRelated Pages\ndot-framework-survey",
     "url": "pages/open-systems-theory.html"
   },
   {
@@ -5462,7 +5462,7 @@
       "academic-integrity",
       "student-experience"
     ],
-    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nsycophantic-ai-social-interaction-2026 \u2014 Sycophantic AI displaces human relationships\ntrust-reliance-ai-education-2026 \u2014 Higher trust predicts lower appropriate reliance\ngenai-can-harm-teaching-rct-2026 \u2014 Shallow teacher AI use reduces motivation\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Design for learning rather than detection\nau",
+    "content": "> Over-reliance \u2014 uncritical acceptance of AI output \u2014 is one of the wiki's most-documented risks: trust-reliance-ai-education-2026, ai-fallibility-warning-help-seeking, efficiency-gain-illusion-ai-overreliance, and sycophantic-ai-social-interaction-2026 show trust without verification degrades learning and judgment (trust-calibration, critical-thinking).Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and cont",
     "url": "pages/over-reliance.html"
   },
   {
@@ -5535,7 +5535,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Pedagogical SafetyThis is a stub page for the concept of pedagogical safety. It was created to resolve broken backlinks from other wiki pages.Related Pagesvetting-dual-llm-safety-education\nllm-unlearning-math-privacy",
+    "content": "> Pedagogical safety \u2014 ensuring AI tutors cannot mislead or harm learners \u2014 is studied in hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, petechat-guardrailed-ai-tutor, and vetting-dual-llm-safety-education: safety requires layered guardrails, evaluation, and human oversight (ethics, human-in-the-loop).Pedagogical SafetyRelated Pagesvetting-dual-llm-safety-education\nllm-unlearning-math-privacy",
     "url": "pages/pedagogical-safety.html"
   },
   {
@@ -5569,7 +5569,7 @@
     "slug": "persona-based-tutoring",
     "title": "\"Persona Based Tutoring\"",
     "tags": [],
-    "content": "Persona Based TutoringStub page \u2014 created as a back-link target.Related Pagesspecial-r1-rl-special-education \u2014 links here",
+    "content": "Persona Based TutoringRelated Pagesspecial-r1-rl-special-education \u2014 links here",
     "url": "pages/persona-based-tutoring.html"
   },
   {
@@ -5625,7 +5625,7 @@
     "tags": [
       "policy-maker"
     ],
-    "content": "Policy MakerStub page \u2014 full synthesis pending.Related Pages\nai-lifelong-learning-policyai-assessment-scale-reform \u2014 AI Assessment Scale (AIAS) Reform\nai-literacy-equity-programming-policy \u2014 Curriculum policy decisions (2026-07-14)\ngenai-policies-higher-ed-computing - who sets AI-use rules in higher education\nai-ethics-education-public-discourse - policymakers integrating AI responsibly",
+    "content": "Policy MakerRelated Pages\nai-lifelong-learning-policyai-assessment-scale-reform \u2014 AI Assessment Scale (AIAS) Reform\nai-literacy-equity-programming-policy \u2014 Curriculum policy decisions (2026-07-14)\ngenai-policies-higher-ed-computing - who sets AI-use rules in higher education\nai-ethics-education-public-discourse - policymakers integrating AI responsibly",
     "url": "pages/policy-maker.html"
   },
   {
@@ -5659,7 +5659,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Posthumanist Ai EducationThis is a stub page for the concept of posthumanist ai education. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Posthumanist AI education \u2014 rethinking the human-machine boundary in learning \u2014 is explored in ai-co-intelligence, humanlike-ai-collaborative-writing, and boundary-object (tag): the wiki treats AI not as a neutral tool but as a participant reshaping identity, agency, and knowledge practices (educational-theory, ethics).Posthumanist Ai EducationRelated Pages",
     "url": "pages/posthumanist-ai-education.html"
   },
   {
@@ -5684,7 +5684,7 @@
       "equity",
       "regulation"
     ],
-    "content": "Privacy in Educational AIThis is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers.Related Pages\nchild-safety-genai \u2014 privacy in education\nllm-unlearning-math-privacyCitation\ncstutorbench-slm-tutors \u2014 Privacy/cost case for SLM tutors",
+    "content": "Privacy in Educational AIRelated Pages\nchild-safety-genai \u2014 privacy in education\nllm-unlearning-math-privacyCitation\ncstutorbench-slm-tutors \u2014 Privacy/cost case for SLM tutors",
     "url": "pages/privacy.html"
   },
   {
@@ -5706,7 +5706,7 @@
     "tags": [
       "professional-training"
     ],
-    "content": "Professional TrainingStub page \u2014 full synthesis pending.Related Pages\nai-coaching-rl-skill-development \u2014 RL-based AI coaching for accelerating professional skill development in motor domains\nsupplynet-visual-exploratory-learning \u2014 SupplyNet applies AI simulation to professional supply chain management training\ngenai-architecture-education\nmetacognitive-learning-scenarios-taxonomy \u2014 Scenario taxonomy enables targeted AI-enhanced professional development\nastra-atco-training-simulator -- ASTRA uses",
+    "content": "Professional TrainingRelated Pages\nai-coaching-rl-skill-development \u2014 RL-based AI coaching for accelerating professional skill development in motor domains\nsupplynet-visual-exploratory-learning \u2014 SupplyNet applies AI simulation to professional supply chain management training\ngenai-architecture-education\nmetacognitive-learning-scenarios-taxonomy \u2014 Scenario taxonomy enables targeted AI-enhanced professional development\nastra-atco-training-simulator -- ASTRA uses autonomous AI sim-pilots for scala",
     "url": "pages/professional-training.html"
   },
   {
@@ -5768,7 +5768,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Prompt Engineering EducationThis is a stub page for the concept of prompt engineering education. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Prompt engineering education \u2014 teaching students to write effective prompts \u2014 is examined in prompt-engineering-education pages and learning-to-prompt-adaptive-tutoring: prompt skill transfers to problem decomposition and communicates intent, becoming a legitimate learning objective (ai-literacy, computational-thinking).Prompt Engineering EducationRelated Pages",
     "url": "pages/prompt-engineering-education.html"
   },
   {
@@ -5777,7 +5777,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pages\ncotal-formative-assessment-scoring-2026 \u2014 Iterative refinement boosts grading by 38.9%llm-intervention-design-cs-review\nmultimodal-prompting-ai-literacy\nsame-ai-different-pathways\nscaffolding-critical-engagement-genai-minority-students",
+    "content": "> Prompt engineering is both a learner skill and a system design lever: prompt-coach-agentic-tutor-prompt-engineering, cotal-formative-assessment-scoring-2026, learning-to-prompt-adaptive-tutoring, and prompt-based-programming-lesson show prompts determine LLM output quality \u2014 making prompt literacy a core ai-literacy component (llm, educational-content).Prompt EngineeringRelated Pages\ncotal-formative-assessment-scoring-2026 \u2014 Iterative refinement boosts grading by 38.9%llm-intervention-design-c",
     "url": "pages/prompt-engineering.html"
   },
   {
@@ -5815,7 +5815,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Psychometrically Aware AiThis is a stub page for the concept of psychometrically aware ai. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Psychometrically aware AI \u2014 models aligned with measurement theory \u2014 is the standard advanced in llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, confidence-aware-ai-assessment, and item-response-theory: calibrated, uncertainty-aware AI assessment preserves validity and trust (educational-measurement, assessment-validity).Psychometrically Aware AiRelated Pages",
     "url": "pages/psychometrically-aware-ai.html"
   },
   {
@@ -5876,7 +5876,7 @@
     "tags": [
       "stub"
     ],
-    "content": "RagThis is a stub page for the concept of rag. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> RAG (retrieval-augmented generation) grounds LLM answers in vetted sources: eduguard-safe-rag-llm-tutor, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, and knowledge-graph show retrieval grounding reduces hallucination and improves domain accuracy in tutors (hallucination-risk, llm).RagRelated Pages",
     "url": "pages/rag.html"
   },
   {
@@ -5885,7 +5885,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Randomized Controlled Trials EducationThis is a stub page for the concept of randomized controlled trials education. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Randomized controlled trials are the wiki's gold-standard evidence: genai-policy-prompting-rct, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, and lets-chat-chatbot-outreach-2026 are pre-registered RCTs demonstrating that AI's educational effects are real, heterogeneous, and sometimes negative (RCT, efficacy-study).Randomized Controlled Trials EducationRelated Pages",
     "url": "pages/randomized-controlled-trials-education.html"
   },
   {
@@ -5894,7 +5894,7 @@
     "tags": [
       "stub"
     ],
-    "content": "RctThis is a stub page for the concept of rct. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-vocational-education-training-review",
+    "content": "> RCT evidence in the wiki spans K-12 and higher education: from genai-can-harm-teaching-rct-2026 (teacher AI tools reducing student motivation) to access-not-enough-ai-tutoring-2026 (human support driving AI-tutor take-up) and lets-chat-chatbot-outreach-2026 (chatbot outreach raising course performance) \u2014 causal designs separate hype from effect (efficacy-study, learning-gains).RctRelated Pagesai-vocational-education-training-review",
     "url": "pages/rct.html"
   },
   {
@@ -5925,7 +5925,7 @@
     "slug": "reinforcement-learning-education",
     "title": "\"Reinforcement Learning Education\"",
     "tags": [],
-    "content": "Reinforcement Learning EducationStub page \u2014 created as a back-link target.Related Pagesspecial-r1-rl-special-education \u2014 links here\ntutoring-effectiveness-index \u2014 links here\nq-learning-lab-rl-teaching \u2014 RL teaching artifact (2026-07-14)",
+    "content": "Reinforcement Learning EducationRelated Pagesspecial-r1-rl-special-education \u2014 links here\ntutoring-effectiveness-index \u2014 links here\nq-learning-lab-rl-teaching \u2014 RL teaching artifact (2026-07-14)",
     "url": "pages/reinforcement-learning-education.html"
   },
   {
@@ -5946,7 +5946,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Reinforcement LearningThis is a stub page for the concept of reinforcement learning. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Reinforcement learning trains AI tutors and agents through reward signals: special-r1-rl-special-education, singh-eduqwen-pedagogical-rl-2026, pedagogical-safety-rl, and ai-coaching-rl-skill-development align RL with pedagogical objectives, including safety and skill transfer (intelligent-tutoring, agentic-ai).Reinforcement LearningRelated Pages",
     "url": "pages/reinforcement-learning.html"
   },
   {
@@ -6022,7 +6022,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Retrieval Augmented GenerationThis is a stub page for the concept of retrieval augmented generation. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Retrieval-augmented generation grounds educational AI in curated content: retrieval-augmented-tutoring-algorithm-kite, eduguard-safe-rag-llm-tutor, and structrag-diagram-reasoning-ai-tutoring demonstrate accuracy gains and hallucination reduction in domain-specific tutoring (rag, hallucination-risk).Retrieval Augmented GenerationRelated Pages",
     "url": "pages/retrieval-augmented-generation.html"
   },
   {
@@ -6043,7 +6043,7 @@
     "slug": "retrieval-practice",
     "title": "\"Retrieval Practice\"",
     "tags": [],
-    "content": "Retrieval PracticeThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nmemdora-ai-spaced-repetition",
+    "content": "> Retrieval practice \u2014 the testing effect \u2014 interacts with AI convenience: retrieval-practice research and generative-ai-reduced-study-time-math, ai-assistance-reduces-persistence, and memdora-ai-spaced-repetition show that AI tools that eliminate retrieval and spacing demands undermine durable memory (desirable-difficulties, self-regulated-learning).Retrieval PracticeRelated Pages\nmemdora-ai-spaced-repetition",
     "url": "pages/retrieval-practice.html"
   },
   {
@@ -6243,14 +6243,14 @@
     "tags": [
       "stub"
     ],
-    "content": "Simulation Based LearningThis is a stub page for the concept of simulation based learning. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-vocational-education-training-review",
+    "content": "> Simulation-based learning with AI creates practice environments: ai-psychotherapy-training-avatars, adaptive-virtual-patient-psychotherapy-training, astra-atco-training-simulator, and history-aware-student-simulation let learners rehearse high-stakes skills safely (professional-training, active-learning).Simulation Based LearningRelated Pagesai-vocational-education-training-review",
     "url": "pages/simulation-based-learning.html"
   },
   {
     "slug": "simulation-learning",
     "title": "\"Simulation Learning\"",
     "tags": [],
-    "content": "Simulation LearningThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ntech-enhanced-tabletop-cybersecurity-education",
+    "content": "> AI simulation of learners \u2014 models that stand in for students \u2014 is studied in llm-student-simulation-misconception-faithfulness, simulating-learners-java-programming-errors-llms, simulating-learner-task-selection, and history-aware-student-simulation: simulated students enable scalable tutor training and evaluation when fidelity is validated (student-modeling, benchmark).Simulation LearningRelated Pages\ntech-enhanced-tabletop-cybersecurity-education",
     "url": "pages/simulation-learning.html"
   },
   {
@@ -6261,7 +6261,7 @@
       "pedagogical-safety",
       "reinforcement-learning"
     ],
-    "content": "EduQwen: Pedagogical RLThis is a stub page for \"EduQwen: Pedagogical RL\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> EduQwen: Pedagogical RL \u2014 We present a multi-stage optimization strategy combining reinforcement learning (RL) and supervised fine-tuning (SFT) to enhance pedagogical knowledge of LLMs, producing EduQwen 32B-RL1, EduQwen 32B-SFT, and EduQwen 32B-SFT-RL2. These are application-driven open-source pedagogical LLMs built on a dense Qwen3-32B backbone.EduQwen: Pedagogical RLRelated Pages",
     "url": "pages/singh-eduqwen-pedagogical-rl-2026.html"
   },
   {
@@ -6338,7 +6338,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Socratic AiThis is a stub page for the concept of socratic ai. It was created to resolve broken backlinks from other wiki pages.Related Pagesgenai-mindtool-generative-learning",
+    "content": "> Socratic AI \u2014 dialogue that elicits rather than supplies \u2014 is evaluated in codify-socratic-programming-tutor, socratic-tests-conversational-assessment, hashmi-socratic-physics-chatbot-2025, and socraticode-k12-programming-tutor: questioning-based tutors support reasoning but risk being bypassed by direct-answer LLMs (socratic-method, scaffolding).Socratic AiRelated Pagesgenai-mindtool-generative-learning",
     "url": "pages/socratic-ai.html"
   },
   {
@@ -6349,7 +6349,7 @@
       "critical-thinking",
       "socratic-method"
     ],
-    "content": "Socratic Method in AI EducationThis is a stub page for \"Socratic Method in AI Education\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> The Socratic method \u2014 teaching through guided questioning rather than direct answers \u2014 is operationalized in AI tutors across the wiki: socratic-tests-conversational-assessment, codify-socratic-programming-tutor, hashmi-socratic-physics-chatbot-2025, and socraticode-k12-programming-tutor show elicitation-based dialogue supports reasoning when learners cannot bypass questions (scaffolding, critical-thinking, intelligent-tutoring).Socratic Method in AI EducationRelated Pages",
     "url": "pages/socratic-method.html"
   },
   {
@@ -6358,7 +6358,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Socratic QuestioningThis is a stub page for the concept of socratic questioning. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Socratic questioning as an AI tutoring strategy is studied in socratic-method, codify-socratic-tutoring-programming, socratic-ai-dialogue, and correct-answer-trap-ai-tutor: guiding questions promote reasoning, but poorly timed or easily bypassed questioning fails (scaffolding, formative-assessment).Socratic QuestioningRelated Pages",
     "url": "pages/socratic-questioning.html"
   },
   {
@@ -6408,7 +6408,7 @@
     "slug": "spaced-repetition",
     "title": "\"Spaced Repetition\"",
     "tags": [],
-    "content": "Spaced RepetitionThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nmemdora-ai-spaced-repetition",
+    "content": "> Spaced repetition with AI is examined in memdora-ai-spaced-repetition and retrieval-practice: AI optimizes scheduling of review to combat forgetting, with evidence that adaptive spacing improves retention (self-regulated-learning, personalized-learning).Spaced RepetitionRelated Pages\nmemdora-ai-spaced-repetition",
     "url": "pages/spaced-repetition.html"
   },
   {
@@ -6417,14 +6417,14 @@
     "tags": [
       "stub"
     ],
-    "content": "Spatial ReasoningThis is a stub page for the concept of spatial reasoning. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Spatial reasoning support with AI appears in supplynet-visual-exploratory-learning, mllm-scientific-visualization-literacy, tactile-statistical-graphs-accessibility, and mixed-reality-engineering-learning: visual and embodied representations help learners build spatial understanding (multimodal, stem-education).Spatial ReasoningRelated Pages",
     "url": "pages/spatial-reasoning.html"
   },
   {
     "slug": "special-education-ai",
     "title": "\"Special Education Ai\"",
     "tags": [],
-    "content": "Special Education AiStub page \u2014 created as a back-link target.Related Pagesspecial-r1-rl-special-education \u2014 links here\nembodied-string-learning-blindness-low-vision-musicians \u2014 Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision",
+    "content": "Special Education AiRelated Pagesspecial-r1-rl-special-education \u2014 links here\nembodied-string-learning-blindness-low-vision-musicians \u2014 Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision",
     "url": "pages/special-education-ai.html"
   },
   {
@@ -6472,7 +6472,7 @@
       "ai-literacy",
       "evidence"
     ],
-    "content": "Stanford Evidence Base: AI in K-12 EducationThis is a stub page for \"Stanford Evidence Base: AI in K-12 Education\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> Stanford Evidence Base: AI in K-12 Education \u2014 > \"Research on how AI impacts K-12 students and educators is still extremely limited.\"Stanford Evidence Base: AI in K-12 EducationRelated Pages",
     "url": "pages/stanford-evidence-base-ai-k12-2026.html"
   },
   {
@@ -6549,7 +6549,7 @@
     "tags": [
       "student-ai-interaction"
     ],
-    "content": "Student Ai InteractionStub page \u2014 created as a back-link target.Related Pages\nsycophantic-ai-social-interaction-2026 \u2014 Relational substitution with sycophantic AI\ntrust-reliance-ai-education-2026 \u2014 Trust dynamics in learner-AI problem solving\nteacher-authored-prompts-student-ai-dialogue \u2014 Teacher-configured student-AI dialogue at classroom scaletutoring-effectiveness-index \u2014 links here\nfrom-answer-generators-to-reasoning-facilitators-ai-tutors \u2014 From Answer Generators to Reasoning Facilitators: ",
+    "content": "Student Ai InteractionRelated Pages\nsycophantic-ai-social-interaction-2026 \u2014 Relational substitution with sycophantic AI\ntrust-reliance-ai-education-2026 \u2014 Trust dynamics in learner-AI problem solving\nteacher-authored-prompts-student-ai-dialogue \u2014 Teacher-configured student-AI dialogue at classroom scaletutoring-effectiveness-index \u2014 links here\nfrom-answer-generators-to-reasoning-facilitators-ai-tutors \u2014 From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathem\nmind-the-tr",
     "url": "pages/student-ai-interaction.html"
   },
   {
@@ -6621,7 +6621,7 @@
     "tags": [
       "student-modeling"
     ],
-    "content": "Student ModelingStub page \u2014 created as a back-link target.Related Pages\ncross-subject-validity-delayed-start \u2014 Cross-subject predictive validity of delayed start behavior as a generalizable learner behavior signal\n  - simulating-students-java-programming-errors-llms \u2014 LLM-simulated student errors as scalable proxy data for student modelingsurfacing-isolated-learners \u2014 links here\nphysiological-signals-exam-outcomes-ml -- Random forest predicts exam outcomes from physiological signals as well as d",
+    "content": "Student ModelingRelated Pages\ncross-subject-validity-delayed-start \u2014 Cross-subject predictive validity of delayed start behavior as a generalizable learner behavior signal\n  - simulating-students-java-programming-errors-llms \u2014 LLM-simulated student errors as scalable proxy data for student modelingsurfacing-isolated-learners \u2014 links here\nphysiological-signals-exam-outcomes-ml -- Random forest predicts exam outcomes from physiological signals as well as deep learning with better interpretability\n",
     "url": "pages/student-modeling.html"
   },
   {
@@ -6727,7 +6727,7 @@
       "socratic-method",
       "stem-education"
     ],
-    "content": "Multimodal Dialogue in STEM EducationThis is a stub page for \"Multimodal Dialogue in STEM Education\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> Multimodal Dialogue in STEM Education \u2014 - Text-only baseline: Three major public LLMs achieved near-ceiling accuracy (96%, 95% CI [0.93, 0.98]) on 100 OpenStax physics problems with no statistically significant differences between models.Multimodal Dialogue in STEM EducationRelated Pages",
     "url": "pages/syal-multimodal-dialogue-stem-2026.html"
   },
   {
@@ -6747,7 +6747,7 @@
     "slug": "synthetic-data",
     "title": "\"Synthetic Data\"",
     "tags": [],
-    "content": "Synthetic DataThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nbook-level-synthetic-textbook-organization",
+    "content": "> Synthetic data \u2014 AI-generated training and evaluation material \u2014 is examined in book-level-synthetic-textbook-organization, llm-educational-simulation-adhd, simulating-learner-task-selection, and data-annotations-pedagogical-hints: synthetic corpora scale research but carry fidelity and bias risks (benchmark, educational-datasets).Synthetic DataRelated Pages\nbook-level-synthetic-textbook-organization",
     "url": "pages/synthetic-data.html"
   },
   {
@@ -6805,7 +6805,7 @@
     "slug": "teacher-ai-coagency",
     "title": "\"Teacher Ai Coagency\"",
     "tags": [],
-    "content": "Teacher Ai CoagencyStub page \u2014 created as a back-link target.Related Pagessurfacing-isolated-learners \u2014 links here",
+    "content": "Teacher Ai CoagencyRelated Pagessurfacing-isolated-learners \u2014 links here",
     "url": "pages/teacher-ai-coagency.html"
   },
   {
@@ -6814,7 +6814,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Teacher Ai CollaborationThis is a stub page for the concept of teacher ai collaboration. It was created to resolve broken backlinks from other wiki pages.Related Pagesagreement-not-quality-llm-coding-verification\nhuman-llm-collaborative-coding-k12-educator-ai\nconnected-ai-lesson-planning-vietnam",
+    "content": "> Teacher-AI collaboration is studied in ai-team-teaching-talk-analytics, teacher-ai-competency, ai-pedagogical-accompaniment-amico, and genai-can-harm-teaching-rct-2026: AI tools reshape teacher workflows, and their effects on students depend on teacher skill and training (faculty-development, teacher-ai-coagency).Teacher Ai CollaborationRelated Pagesagreement-not-quality-llm-coding-verification\nhuman-llm-collaborative-coding-k12-educator-ai\nconnected-ai-lesson-planning-vietnam",
     "url": "pages/teacher-ai-collaboration.html"
   },
   {
@@ -6862,7 +6862,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Teacher Professional DevelopmentThis is a stub page for the concept of teacher professional development. It was created to resolve broken backlinks from other wiki pages.Related Pagesquest-ai-inquiry-preservice-teachers\nai-tpack-preservice-math-teachers",
+    "content": "> Teacher professional development for AI is the leverage point across teacher-ai-competency, ai-tpack-preservice-math-teachers, every-learner-faculty-development-genai-playbook-2025, and quest-ai-inquiry-preservice-teachers: competency frameworks and structured training \u2014 not tool access \u2014 determine classroom outcomes (faculty-development, teacher-role).Teacher Professional DevelopmentRelated Pagesquest-ai-inquiry-preservice-teachers\nai-tpack-preservice-math-teachers",
     "url": "pages/teacher-professional-development.html"
   },
   {
@@ -7124,7 +7124,7 @@
       "generative-ai",
       "multimodal"
     ],
-    "content": "Educator's Guide to Multimodal Learning with GenAIThis is a stub page for \"Educator's Guide to Multimodal Learning with GenAI\". It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Educator's Guide to Multimodal Learning with GenAIThis is a stub pa\n> Varga-Atkins (2025) offers an educator's guide to multimodal learning with GenAI \u2014 practical guidance for weaving image, audio, and text modalities into learning design, connecting the wiki's multimodal, generative-ai, and instructional-design threads with accessibility considerations (accessible-learning, equity).Educator's Guide to Multimodal Learning with GenAIRelated Pages",
     "url": "pages/varga-atkins-educators-guide-multimodal-learning-genai-2025.html"
   },
   {
@@ -7185,7 +7185,7 @@
     "tags": [
       "stub"
     ],
-    "content": "VisualizationThis is a stub page for the concept of visualization. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "> Visualization in learning analytics and instruction is studied in visual-query-tracer-declarative-logic-learning, learning-analytics-dashboards, code-anchor-multi-view-visualization, and data-comics-for-education-evaluating-effectiveness-benefits-ethics: effective visuals make hidden processes visible to learners and teachers (learning-analytics, multi-representational-tools).VisualizationRelated Pages",
     "url": "pages/visualization.html"
   },
   {
@@ -7281,7 +7281,7 @@
       "literature-review",
       "adaptive-learning"
     ],
-    "content": "Comprehensive Review of Intelligent Tutoring SystemsThis is a stub page for \"Comprehensive Review of Intelligent Tutoring Systems\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
+    "content": "> Comprehensive Review of Intelligent Tutoring Systems \u2014 Journal of Computers in Education (2025). Systematic literature review 2010\u20132025 analyzing ITS in real educational settings. Examines pedagogical strategies, NLP, adaptive learning, student modeling, domain-specific applications. Results: mixed effectiveness, complex landscape of advancements and persistent challenges.Comprehensive Review of Intelligent Tutoring SystemsRelated Pages",
     "url": "pages/zerkouk-comprehensive-review-its-2025.html"
   },
   {
@@ -7290,7 +7290,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Zone Of Proximal DevelopmentThis is a stub page for the concept of zone of proximal development. It was created to resolve broken backlinks from other wiki pages.Related Pagessocratic-tests-conversational-assessment",
+    "content": "> Zone of proximal development \u2014 the learning range between solo and assisted performance \u2014 is the wiki's scaffolding lens: socratic-tests-conversational-assessment, psyscore-essay-scoring-zpd-feedback, rethinking-scaffolding-llm-tutors, and concept-catalyst-engineering-scaffolds ask whether AI tutors calibrate assistance to each learner's ZPD (scaffolding, educational-theory).Zone Of Proximal DevelopmentRelated Pagessocratic-tests-conversational-assessment",
     "url": "pages/zone-of-proximal-development.html"
   }
 ]

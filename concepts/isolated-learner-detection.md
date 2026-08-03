@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Isolated Learner Detection
 
-*Stub page — created as a back-link target.*
 
 ## Related Pages
 

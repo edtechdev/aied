@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Educational NLP** applies language technologies to learning: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]], and [[vocabulary-difficulty-prediction]] show LLMs advancing analysis of student language at scale ([[educational-measurement]], [[nlp-education]]).
+
 
 # Educational Nlp
 
-This is a stub page for the concept of educational nlp. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

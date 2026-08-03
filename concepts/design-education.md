@@ -7,9 +7,10 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Design education** with AI is examined in [[genai-architectural-design-studios]], [[mixed-reality-engineering-learning]], and [[tech-enhanced-tabletop-cybersecurity-education]]: generative tools reshape studio critique and iteration loops, shifting assessment toward process documentation ([[authentic-assessment]]).
+
 # Design Education
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[genai-architectural-design-studios]]
