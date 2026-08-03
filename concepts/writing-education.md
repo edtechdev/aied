@@ -15,6 +15,7 @@ confidence: low
 ## Connections
 
 ## Related Pages
+- [[agency-gap-ai-writing]] — Multimodal analytical writing with reactive vs proactive agents
 - [[ai-assisted-writing-research-teams]] — 6 of 8 papers in May 28 scan
 - [[mindcopilot-llm-co-writing]] — Formal MDP model of human-LLM co-writing with interaction-aware metrics (IJCAI 2026)
 - [[vocabulary-difficulty-prediction]] — LLM fine-tuned with soft-target loss achieves r>0.91 for vocabulary difficulty p

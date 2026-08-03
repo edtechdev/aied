@@ -117,6 +117,7 @@ The playbook's findings directly connect to research threads in the wiki:
 - **Assessment redesign** → [[formative-assessment]] and [[authentic-assessment]] frameworks
 
 ## Related Pages
+- [[learner-centered-feedback-ai]] — Experience gap: novices benefit, experts wary; de-skilling risk
 - [[dot-framework-survey]]
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)
 - [[ai-pedagogical-orientation]] — AI pedagogical orientation drives faculty AI adoption more than institutional factors

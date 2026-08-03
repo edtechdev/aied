@@ -15,6 +15,9 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 ## Connections
 
 ## Related Pages
+- [[agency-gap-ai-writing]] — Proactive designs scaffold reasoning but risk over-scaffolding
+- [[learner-centered-feedback-ai]] — AI as reflective scaffold for teachers' evaluative judgement
+- [[structrag-diagram-reasoning-ai-tutoring]] — Pattern templates scaffold structural reasoning
 - [[ai-coaching-rl-skill-development]] — RL-based coaching policy that dynamically fades scaffolding based on learner competence for motor skill development
 - [[correct-answer-trap-ai-tutor]] — 8 of 8 papers in May 28 scan
 - [[student-misconceptions-conditionals-loops-taxonomy]] — misconception taxonomy as a basis for targeted instructional scaffolds

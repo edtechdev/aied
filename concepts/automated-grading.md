@@ -15,6 +15,7 @@ confidence: low
 ## Connections
 
 ## Related Pages
+- [[structrag-diagram-reasoning-ai-tutoring]] — Diagram-based assessment and structural verification
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)
 - [[correct-answer-trap-ai-tutor]] — 8 of 8 papers in May 28 scan
 - [[rubric-aware-grading-rec-cbm]] — 2 of 8 papers in May 28 scan

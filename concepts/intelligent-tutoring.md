@@ -15,6 +15,7 @@ Intelligent tutoring systems and AI-driven tutoring agents in education
 ## Connections
 
 ## Related Pages
+- [[structrag-diagram-reasoning-ai-tutoring]] — Structural diagram reasoning inside ITS
 - [[ai-coaching-rl-skill-development]] — Extension of ITS scaffolding principles to embodied AI coaching for motor skill development with RL
 - [[supplynet-visual-exploratory-learning]] — LLM multi-agent simulation system for supply chain management education
 - [[correct-answer-trap-ai-tutor]] — 8 of 8 papers in May 28 scan

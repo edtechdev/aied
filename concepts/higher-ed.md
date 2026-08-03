@@ -13,6 +13,10 @@ confidence: low
 ## Connections
 
 ## Related Pages
+- [[agency-gap-ai-writing]] — AI writing support in medical/nursing education
+- [[feedback-futures-genai]] — GenAI feedback governance and assessment design in universities
+- [[genai-teacher-feedback-comparison]] — Four-Australian-university survey of feedback perceptions
+- [[care-full-feedback-genai]] — Feedback as professional craft in university contexts
 - [[genai-impact-chinese-students-hss]] — Large-scale survey examining GenAI's role in academic development of humanities and social sciences students
 - [[ai-assisted-writing-research-teams]] — 6 of 8 papers in May 28 scan
 - [[ethical-ai-higher-ed-game-theory]] — 3 of 8 papers in May 28 scan

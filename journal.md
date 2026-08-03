@@ -1,12 +1,43 @@
 # Journal
 
-**Last updated:** 2026-08-01 | **Total entries:** 413
+**Last updated:** 2026-08-03 | **Total entries:** 431
+
+## 2026-08-03
+
+- ● [[agency-gap-ai-writing]] — raw/papers/caeai-2026-agency-gap-ai-writing.md
+  **The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning**
+  Tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity, student-experience]
+
+- ● [[care-full-feedback-genai]] — raw/papers/tandf-2026-care-full-feedback-genai.md
+  **The care-full craft of feedback in an age of generative AI**
+  Tags: [generative-ai, feedback-loop, higher-ed, educational-theory, equity, teacher-role]
+
+- ● [[chatgpt-feedback-engagement-genai]] — raw/papers/tandf-2026-chatgpt-feedback-engagement.md
+  **Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence**
+  Tags: [generative-ai, feedback-loop, student-experience, higher-ed, ai-literacy, language-learning, over-reliance]
+
+- ● [[feedback-futures-genai]] — raw/papers/tandf-2026-feedback-futures-genai.md
+  **Feedback futures: beyond the limits of human and GenAI capacities**
+  Tags: [generative-ai, feedback-loop, higher-ed, ai-literacy, educational-theory, equity]
+
+- ● [[genai-teacher-feedback-comparison]] — raw/papers/tandf-2026-genai-teacher-feedback-comparison.md
+  **Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness**
+  Tags: [generative-ai, feedback-loop, student-experience, higher-ed, ai-literacy, engagement-metrics]
+
+- ● [[learner-centered-feedback-ai]] — raw/papers/tandf-2026-learner-centered-feedback-ai.md
+  **Enhancing learner-centered feedback with AI: teachers' practices and perceptions**
+  Tags: [generative-ai, feedback-loop, teacher-role, higher-ed, faculty-development, scaffolding]
+
+- ● [[structrag-diagram-reasoning-ai-tutoring]] — raw/papers/sle-2026-structrag-diagram-reasoning.md
+  **Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education**
+  Tags: [intelligent-tutoring, stem-education, llm, generative-ai, automated-grading, feedback-loop, scaffolding]
+
 
 ## 2026-08-01
 
 - ● [[ai-tpack-preservice-math-teachers]] — raw/articles/caeai-ai-tpack-math.md
   **AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study**
-  Tags: [ai-literacy, teacher-professional-development, stem-education, higher-ed, teacher-ai-competency]
+  Tags: [ai-literacy, higher-ed, stem-education, teacher-professional-development]
 
 - ● [[ai-vocational-education-training-review]] — raw/articles/caeai-ai-vet-review.md
   **Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness**
@@ -18,11 +49,11 @@
 
 - ● [[fair-explainable-edu-recommendations]] — raw/articles/caeai-fair-recommendations.md
   **Fair and explainable educational recommendations with a hybrid Graph-GRU framework**
-  Tags: [personalized-learning, learning-analytics, algorithmic-bias, bias-mitigation, xai-education-framework]
+  Tags: [ai-education, algorithmic-bias, bias-mitigation, learning-analytics, personalized-learning]
 
 - ● [[genai-mindtool-generative-learning]] — raw/articles/caeai-genai-mindtool.md
   **Generative AI (GenAI) as a mindtool that supports generative learning (GL)**
-  Tags: [generative-ai, instructional-design, higher-ed, learning-theory, scaffolding]
+  Tags: [educational-theory, generative-ai, higher-ed, instructional-design, scaffolding]
 
 - ● [[genai-runaway-object-math-higher-ed]] — raw/articles/caeai-genai-runaway-object.md
   **GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics**
@@ -34,7 +65,7 @@
 
 - ● [[human-vs-llm-ordered-coding]] — raw/articles/caeai-human-llm-coding.md
   **Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis**
-  Tags: [llm, learning-analytics, automated-assessment, educational-nlp, ground-truth-reliability-aied]
+  Tags: [automated-grading, educational-theory, ground-truth-reliability-aied, learning-analytics, llm]
 
 - ● [[llm-unlearning-math-privacy]] — raw/articles/caeai-llm-unlearning-math.md
   **Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education**
@@ -54,11 +85,12 @@
 
 - ● [[same-ai-different-pathways]] — raw/articles/caeai-same-ai-different-pathways.md
   **Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts**
-  Tags: [ai-literacy, generative-ai, higher-ed, prompt-engineering, cognitive-load-theory]
+  Tags: [ai-literacy, cognitive-offloading, generative-ai, higher-ed, prompt-engineering]
 
 - ● [[vetting-dual-llm-safety-education]] — raw/articles/caeai-vetting-safety.md
   **VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI**
   Tags: [ai-tutor-safety-harms, k-12, llm, pedagogical-safety, generative-ai]
+
 
 ## 2026-07-31
 
@@ -72,7 +104,7 @@
 
 - ● [[ai-scoring-language-bias-physics]] — raw/papers/2607.28210.md
   **AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics**
-  Tags: [automated-assessment, bias-mitigation, equity, multilingual-learning, physics-education, automated-essay-scoring, short-answer-grading, assessment-validity]
+  Tags: [assessment-validity, automated-grading, bias-mitigation, equity, multilingual-learning, physics-education]
 
 - ◐ [[book-level-synthetic-textbook-organization]] — raw/papers/2607.28109.md
   **Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training**
@@ -126,6 +158,7 @@
   **Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned**
   Tags: [edtech-platform, stem-education, higher-ed, professional-training, active-learning]
 
+
 ## 2026-07-30
 
 - ● [[ai-learning-tools-engineering-education-needs]] — raw/papers/2607.26338.md
@@ -145,30 +178,39 @@
   Tags: [personalized-learning, stem-education, learning-analytics, student-experience, adaptive-learning, k-12]
 
 - ● [[vibe-coding-programming-process-visualizer]] — raw/papers/2607.24757.md
-  **From Idea to Classroom in Days: Using \"Vibe Coding\" to Create a Programming Process Visualizer from IDE Activity Logs**
+  **From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs**
   Tags: [stem-education, higher-ed, teacher-role, learning-analytics, academic-integrity, edtech-platform]
+
 
 ## 2026-07-29
 
+- ○ [[RCT]] — []
+  **Randomized Controlled Trials in AI Education Research**
+  Tags: [RCT, research-methods, ai-ed-evaluation]
+
 - ● [[agentic-ai-education-scoping-review]] — raw/papers/agentic-ai-education-scoping-review-2026.md
   **Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm**
-  Tags: [agentic-ai, scoping-review, generative-ai, llm, intelligent-tutoring, multi-agent, higher-ed, stem-education, educational-theory, scaffolding, open-source, ai-literacy]
+  Tags: [agentic-ai, ai-literacy, educational-theory, generative-ai, higher-ed, intelligent-tutoring, llm, multi-agent, open-source, scaffolding, scoping-review, stem-education]
 
 - ○ [[becerra-aicofe-feedback-2026]] — raw/papers/becerra-aicofe-feedback-2026.md
   **AICoFE: AI-Powered Feedback System**
-  Tags: [ai-feedback-quality, ai-assessment, student-experience]
+  Tags: [ai-ed-evaluation, feedback-loop, student-experience]
 
 - ○ [[cong-confidence-asag-2026]] — raw/papers/cong-confidence-asag-2026.md
   **Confidence-Aware Automatic Short Answer Grading**
-  Tags: [automatic-short-answer-grading, confidence, assessment]
+  Tags: [assessment, automated-grading, confidence]
+
+- ○ [[every-learner-faculty-development-genai-playbook-2025]] — []
+  **Every Learner: Faculty Development GenAI Playbook**
+  Tags: [faculty-development, generative-ai, higher-ed]
 
 - ○ [[favero-critical-ai-tutors-empower-enslave-2025]] — raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md
   **Critical AI Tutors: Empower or Enslave?**
-  Tags: [ai-tutoring, critical-pedagogy, over-reliance]
+  Tags: [ai-tutoring, critical-thinking, over-reliance]
 
 - ○ [[finkelstein-principled-ai-education-2025]] — raw/papers/finkelstein-principled-ai-education-2025.md
   **Principled AI Education Framework**
-  Tags: [ai-literacy, curriculum-design, framework]
+  Tags: [ai-literacy, curriculum-design, instructional-design]
 
 - ○ [[golrang-propact-pair-programming-2026]] — raw/papers/golrang-propact-pair-programming-2026.md
   **ProPACT: Pair Programming with AI**
@@ -184,7 +226,7 @@
 
 - ○ [[hingle-collaborative-ai-literacy-2025]] — raw/papers/hingle-collaborative-ai-literacy-2025.md
   **Collaborative AI Literacy Framework**
-  Tags: [ai-literacy, collaborative-learning, framework]
+  Tags: [ai-literacy, collaborative-learning, instructional-design]
 
 - ○ [[huang-interpretable-knowledge-tracing-2026]] — raw/papers/huang-interpretable-knowledge-tracing-2026.md
   **Interpretable Knowledge Tracing**
@@ -192,7 +234,7 @@
 
 - ○ [[jeon-isd-agent-bench-2026]] — raw/papers/jeon-isd-agent-bench-2026.md
   **ISD Agent Benchmark**
-  Tags: [agent, benchmark, ai-ed-evaluation]
+  Tags: [agentic-ai, ai-ed-evaluation, benchmark]
 
 - ○ [[kar-mathbuddy-affective-math-tutoring-2025]] — raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md
   **MathBuddy: Affective Math Tutoring**
@@ -208,11 +250,15 @@
 
 - ○ [[scheu-mobile-chatbot-journaling-motivation-2026]] — raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md
   **Mobile Chatbot Journaling for Student Motivation**
-  Tags: [mobile-learning, chatbot, student-motivation, journaling]
+  Tags: [chatbot, journaling, mobile-learning, student-experience]
 
 - ○ [[singh-eduqwen-pedagogical-rl-2026]] — raw/papers/singh-eduqwen-pedagogical-rl-2026.md
   **EduQwen: Pedagogical RL**
-  Tags: [reinforcement-learning, pedagogical-ai, llm]
+  Tags: [llm, pedagogical-safety, reinforcement-learning]
+
+- ○ [[socratic-method]] — []
+  **Socratic Method in AI Education**
+  Tags: [ai-tutoring, critical-thinking, socratic-method]
 
 - ○ [[stanford-evidence-base-ai-k12-2026]] — raw/papers/stanford-evidence-base-ai-k12-2026.md
   **Stanford Evidence Base: AI in K-12 Education**
@@ -220,25 +266,30 @@
 
 - ○ [[syal-multimodal-dialogue-stem-2026]] — raw/papers/syal-multimodal-dialogue-stem-2026.md
   **Multimodal Dialogue in STEM Education**
-  Tags: [multimodal, dialogue, stem, ai-tutoring]
+  Tags: [ai-tutoring, multimodal, socratic-method, stem-education]
 
 - ○ [[varga-atkins-educators-guide-multimodal-learning-genai-2025]] — raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md
   **Educator's Guide to Multimodal Learning with GenAI**
-  Tags: [multimodal-learning, generative-ai, educator-guide]
+  Tags: [educator-guide, generative-ai, multimodal]
 
 - ○ [[zerkouk-comprehensive-review-its-2025]] — raw/papers/zerkouk-comprehensive-review-its-2025.md
   **Comprehensive Review of Intelligent Tutoring Systems**
   Tags: [intelligent-tutoring, literature-review, adaptive-learning]
 
+- ○ [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — []
+  **Authentic Assessment in the AI Era: Scoping Review**
+  Tags: [assessment-design, authentic-assessment, literature-review]
+
+
 ## 2026-07-28
 
 - ● [[adhd-video-segmentation-computing-education]] — raw/papers/2607.24612.md
   **Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education**
-  Tags: [accessibility, neurodiversity, cs-education, instructional-video]
+  Tags: [accessible-learning, cs-education, instructional-design, neurodiversity]
 
 - ● [[automated-formative-assessments-a-level-sciences]] — raw/papers/2607.23566.md
   **The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences**
-  Tags: [assessment, automated-grading, k-12, stem]
+  Tags: [assessment, automated-grading, k-12, stem-education]
 
 - ● [[didactical-teacher-assistant-dimensional-modeling]] — raw/papers/2607.22598.md
   **A didactical-driven teacher assistant for a dimensional modeling course**
@@ -246,7 +297,7 @@
 
 - ● [[epistemic-emotions-collaborative-problem-solving]] — raw/papers/2607.23317.md
   **Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving**
-  Tags: [affect, learning-analytics, collaboration]
+  Tags: [affect, human-ai-collaboration, learning-analytics]
 
 - ● [[genai-patient-education-transplant-handbooks]] — raw/papers/2607.22606.md
   **Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks**
@@ -257,8 +308,9 @@
   Tags: [assessment, metacognition, self-regulated-learning, higher-ed]
 
 - ● [[suacode-african-students-motivations]] — raw/papers/2607.22940.md
-  **\"Why SuaCode?\": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course**
+  **"Why SuaCode?": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course**
   Tags: [cs-education, equity, mooc, global-south]
+
 
 ## 2026-07-27
 
@@ -269,6 +321,7 @@
 - ● [[trio-ethnography-llm-programming-education]] — raw/papers/2607.22463.md
   **Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education**
   Tags: [generative-ai, stem-education, teacher-role, student-experience, higher-ed]
+
 
 ## 2026-07-24
 
@@ -296,6 +349,7 @@
   **Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving**
   Tags: [llm, stem-education, benchmark, assessment-validity]
 
+
 ## 2026-07-23
 
 - ● [[credential-cognitive-stewardship-ai-assessment]] — raw/papers/2607.19988.md
@@ -313,6 +367,7 @@
 - ● [[metacognitive-awareness-experiential-vs-instructional]] — raw/papers/2607.20047.md
   **Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning**
   Tags: [generative-ai, higher-ed, efficacy-study, student-experience, scaffolding]
+
 
 ## 2026-07-22
 
@@ -336,6 +391,7 @@
   **Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming**
   Tags: [stem-education, higher-ed, scaffolding, active-learning]
 
+
 ## 2026-07-20
 
 - ● [[daily-digest-2026-07-20]] — raw/papers/2607.16115.md
@@ -349,6 +405,7 @@
 - ● [[repeated-ai-writing-feedback-semester]] — raw/papers/2607.16115.md
   **Student Evaluation of Repeated AI Feedback Across a Semester of Writing**
   Tags: [generative-ai, llm, higher-ed, writing-education, feedback-loop, over-reliance, formative-assessment, ai-literacy]
+
 
 ## 2026-07-19
 
@@ -370,7 +427,8 @@
 
 - ● [[tool-invariant-framework-agentic-ai]] — raw/papers/arxiv-2026-tool-invariant-framework.md
   **A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI**
-  Tags: [generative-ai, agentic-ai, assessment-design, authentic-assessment, ai-literacy, over-reliance, higher-ed, computational-thinking, verification, oral-defense]
+  Tags: [agentic-ai, ai-literacy, assessment-design, authentic-assessment, computational-thinking, generative-ai, higher-ed, oral-defense, over-reliance, verification]
+
 
 ## 2026-07-17
 
@@ -382,11 +440,13 @@
   **Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy**
   Tags: [llm, generative-ai, stem-education, ai-literacy, benchmark]
 
+
 ## 2026-07-16
 
 - ● [[learning-engagement-assistant-lea]] — raw/papers/2607.13370.md
   **Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System**
   Tags: [llm, generative-ai, intelligent-tutoring, higher-ed, stem-education, formative-assessment, benchmark]
+
 
 ## 2026-07-15
 
@@ -401,6 +461,7 @@
 - ◐ [[llm-tts-dialogue-lesson-generation]] — raw/papers/2607.12235.md
   **A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential**
   Tags: [llm, generative-ai, personalized-learning, scaffolding, active-learning]
+
 
 ## 2026-07-14
 
@@ -434,7 +495,7 @@
 
 - ◐ [[q-learning-lab-rl-teaching]] — raw/papers/2607.10802.md
   **Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis**
-  Tags: [reinforcement-learning-education, active-learning, stem-education, higher-ed]
+  Tags: [active-learning, higher-ed, reinforcement-learning, stem-education]
 
 - ● [[student-mental-models-genai]] — raw/papers/2607.11692.md
   **Uncovering Students' Mental Models of Generative Artificial Intelligence**
@@ -443,6 +504,7 @@
 - ◐ [[teaching-feedback-classification-benchmark]] — raw/papers/2607.11873.md
   **A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol**
   Tags: [feedback-loop, automated-grading, teacher-role, formative-assessment, higher-ed]
+
 
 ## 2026-07-10
 
@@ -457,6 +519,7 @@
 - ● [[youtube-frames-chatgpt-education]] — raw/papers/2607.08698.md
   **How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata**
   Tags: [ai-literacy, student-experience, academic-integrity, higher-ed, generative-ai]
+
 
 ## 2026-07-09
 
@@ -488,11 +551,12 @@
   **Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components**
   Tags: [knowledge-tracing, personalized-learning, adaptive-learning, intelligent-tutoring, programming-its]
 
+
 ## 2026-07-08
 
 - ● [[agents-that-teach-incidental-learning]] — raw/papers/2607.06101.md
   **Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development**
-  Tags: [llm, generative-ai, agentic-workflows-education, over-reliance, cs-education, higher-ed, professional-training, self-regulated-learning]
+  Tags: [agentic-ai, cs-education, generative-ai, higher-ed, llm, over-reliance, professional-training, self-regulated-learning]
 
 - ● [[cstutorbench-slm-tutors]] — raw/papers/2607.05571.md
   **CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming**
@@ -504,11 +568,12 @@
 
 - ● [[prompt-coach-agentic-tutor-prompt-engineering]] — raw/papers/2607.06074.md
   **Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development**
-  Tags: [llm, intelligent-tutoring, feedback-loop, scaffolding, cs-education, formative-assessment, professional-training]
+  Tags: [agentic-ai, cs-education, feedback-loop, formative-assessment, intelligent-tutoring, llm, professional-training, scaffolding]
 
 - ● [[voice-text-prompt-problems-computing-education]] — raw/papers/2607.05808.md
   **Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education**
-  Tags: [llm, generative-ai, cs-education, ai-literacy, student-experience, prompt-based-programming-lesson, programming-its]
+  Tags: [ai-literacy, cs-education, generative-ai, llm, programming-its, prompt-engineering, student-experience]
+
 
 ## 2026-07-07
 
@@ -518,7 +583,8 @@
 
 - ● [[prompt-problems-nl-programming-mistakes]] — raw/papers/2607.05034.md
   **Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks**
-  Tags: [generative-ai, cs-education, ai-literacy, higher-ed, student-experience, programming-its, prompt-based-programming-lesson, scaffolding]
+  Tags: [ai-literacy, cs-education, generative-ai, higher-ed, programming-its, prompt-engineering, scaffolding, student-experience]
+
 
 ## 2026-07-03
 
@@ -546,11 +612,12 @@
   **Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI**
   Tags: [k-12, teacher-role, student-experience, ai-literacy, student-ai-interaction]
 
+
 ## 2026-07-02
 
 - ● [[child-safety-genai]] — raw/papers/2607.00395.md
   **Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework**
-  Tags: [generative-ai, k-12, ai-safety, equity, privacy]
+  Tags: [equity, generative-ai, k-12, pedagogical-safety, privacy]
 
 - ◐ [[cogtax-cognitive-taxonomy]] — raw/papers/2607.00140.md
   **CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education**
@@ -580,10 +647,11 @@
   **Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education**
   Tags: [special-education, equity, adaptive-learning, k-12, higher-ed]
 
+
 ## 2026-06-30
 
 - ● [[ai-availability-student-motivation]] — raw/papers/2606.30480.md
-  **\"Why Put in This Much Effort?\": How AI Availability Shapes Students’ Motivation in Introductory Programming**
+  **"Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming**
   Tags: [academic-integrity, higher-ed, llm, over-reliance, student-experience]
 
 - ● [[ai-in-the-wild-college]] — raw/papers/2606.29442.md
@@ -600,7 +668,7 @@
 
 - ◐ [[empathy-coaching-chatbot]] — raw/papers/2606.26641.md
   **Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions**
-  Tags: [affective-tutoring, feedback-loop, llm, personalized-learning, student-experience]
+  Tags: [affective-computing, feedback-loop, llm, personalized-learning, student-experience]
 
 - ● [[epistemic-proactivity-math]] — raw/papers/2606.28472.md
   **From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning**
@@ -622,6 +690,7 @@
   **Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers**
   Tags: [generative-ai, higher-ed, llm, stem-education, teacher-role]
 
+
 ## 2026-06-29
 
 - ● [[automated-presentation-coaching]] — raw/papers/2606.27380.md
@@ -636,10 +705,11 @@
   **Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction**
   Tags: [assessment, llm, learning-analytics, higher-ed, student-modeling, benchmark, k-12]
 
+
 ## 2026-06-26
 
 - ● [[ai-assessment-scale-reform]] — raw/papers/2606.26729.md
-  **A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform**
+  **'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform**
   Tags: [higher-ed, assessment, academic-integrity, generative-ai, teacher-role, policy-maker, ai-literacy]
 
 - ◐ [[ai-assisted-learning-modes-eeg]] — raw/papers/2606.26579.md
@@ -649,6 +719,7 @@
 - ● [[community-centered-ai-education-adults]] — raw/papers/2606.26565.md
   **Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study**
   Tags: [ai-literacy, lifelong-learning, equity, student-experience, edtech-platform, faculty-development, k-12]
+
 
 ## 2026-06-25
 
@@ -660,6 +731,7 @@
   **Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior**
   Tags: [learning-analytics, student-modeling, higher-ed, engagement-metrics, efficacy-study]
 
+
 ## 2026-06-24
 
 - ● [[genai-impact-chinese-students-hss]] — raw/papers/2606.24104.md
@@ -669,6 +741,7 @@
 - ● [[supplynet-visual-exploratory-learning]] — raw/papers/2606.24694.md
   **SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation**
   Tags: [intelligent-tutoring, llm, generative-ai, active-learning, professional-training]
+
 
 ## 2026-06-23
 
@@ -722,7 +795,8 @@
 
 - ◐ [[tutors-gig-economy-automated-feedback]] — raw/papers/2606.22609.md
   **Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle**
-  Tags: [ai-feedback-quality, teacher-role, higher-ed, intelligent-tutoring, language-learning]
+  Tags: [feedback-loop, higher-ed, intelligent-tutoring, language-learning, teacher-role]
+
 
 ## 2026-06-19
 
@@ -741,6 +815,7 @@
 - ● [[psyscore-essay-scoring-zpd-feedback]] — raw/papers/2606.20287.md
   **PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback**
   Tags: [automated-grading, formative-assessment, feedback-loop, writing-education, scaffolding, llm]
+
 
 ## 2026-06-18
 
@@ -780,6 +855,7 @@
   **Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics**
   Tags: [learning-analytics, k-12, higher-ed, qualitative-research, edtech-platform]
 
+
 ## 2026-06-17
 
 - ● [[gender-bias-transfer-llm-writing]] — raw/papers/2606.15914.md
@@ -805,6 +881,7 @@
 - ● [[social-robot-study-companions]] — raw/papers/2606.15239.md
   **Co-Creating Buildable and Open Social Robot Study Companions with University Students**
   Tags: [k-12, higher-ed, intelligent-tutoring, student-experience, stem-education]
+
 
 ## 2026-06-16
 
@@ -853,8 +930,9 @@
   Tags: [learning-analytics, edtech-platform, higher-ed, engagement-metrics]
 
 - ● [[shame-guilt-ai-regulation-computing-education]] — raw/papers/2606.14920.md
-  **\"Stuck in a Spiral\": Shame and Guilt as Social Regulators of AI Use in Computing Education**
+  **"Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education**
   Tags: [student-experience, higher-ed, academic-integrity, over-reliance, hallucination-risk]
+
 
 ## 2026-06-15
 
@@ -862,11 +940,12 @@
   **Simulating Students' Java Programming Errors with Large Language Models**
   Tags: [llm, stem-education, student-experience, intelligent-tutoring, learning-analytics, efficacy-study]
 
+
 ## 2026-06-12
 
 - ● [[agent-voice-accents-k12-group-learning]] — raw/papers/2606.12805.md
   **Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning**
-  Tags: [generative-ai, llm, k-12, student-experience, human-ai-collaboration, equity]
+  Tags: [equity, generative-ai, human-ai-collaboration, k-12, llm, student-experience]
 
 - ● [[aiawe-automated-writing-evaluation]] — raw/papers/2606.12801.md
   **AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models**
@@ -884,6 +963,7 @@
   **Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education**
   Tags: [generative-ai, higher-ed, student-experience, policy-maker, regulation, academic-integrity]
 
+
 ## 2026-06-11
 
 - ● [[aied-carbon-footprint-reporting]] — raw/papers/2606.11215.md
@@ -893,6 +973,7 @@
 - ● [[learning-by-chatting-genai-impact]] — raw/papers/2606.11669.md
   **Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning**
   Tags: [generative-ai, llm, over-reliance, student-experience, metacognition, higher-ed]
+
 
 ## 2026-06-10
 
@@ -906,7 +987,7 @@
 
 - ● [[ai-team-teaching-talk-analytics]] — 2606.09831.md
   **AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design**
-  Tags: [learning-analytics, teacher-role, higher-ed, active-learning, ai-classroom]
+  Tags: [active-learning, ai-education, higher-ed, learning-analytics, teacher-role]
 
 - ● [[cognitive-offloading-llm-synthesis-writing]] — 2606.10434.md
   **Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content**
@@ -948,6 +1029,7 @@
   **TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions**
   Tags: [professional-training, llm, formative-assessment, student-experience, edtech-platform]
 
+
 ## 2026-06-09
 
 - ◐ [[awareness-technological-isomorphism]] — raw/papers/2606.09598.md
@@ -982,6 +1064,7 @@
   **VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring**
   Tags: [edtech-platform, academic-integrity, stem-education, higher-ed, formative-assessment, scaffolding]
 
+
 ## 2026-06-04
 
 - ● [[ai-assistance-discretionary-feedback]] — raw/papers/2606.03095.md
@@ -991,6 +1074,7 @@
 - ● [[teacher-authored-prompts-student-ai-dialogue]] — raw/papers/2604.16738.md
   **Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation**
   Tags: [k-12, student-ai-interaction, teacher-role, scaffolding, generative-ai, llm, formative-assessment]
+
 
 ## 2026-06-03
 
@@ -1014,6 +1098,7 @@
   **TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics**
   Tags: [benchmark, cs-education, k-12, multimodal]
 
+
 ## 2026-06-02
 
 - ● [[ai-adoption-training-public-sector]] — raw/papers/2606.01517.md
@@ -1022,11 +1107,11 @@
 
 - ● [[ase-26-agentic-software-engineering-curriculum]] — raw/papers/2606.01152.md
   **ASE-26: A Curriculum for Agentic Software Engineering as a Discipline**
-  Tags: [curriculum-design, agentic-workflows, higher-ed, software-engineering, ai-literacy]
+  Tags: [agentic-ai, agentic-workflows, ai-literacy, curriculum-design, higher-ed, software-engineering]
 
 - ● [[five-stage-ai-literacy-continuum]] — raw/papers/2606.00038.md
   **Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy**
-  Tags: [ai-literacy, higher-ed, curriculum-design, framework, personalized-learning]
+  Tags: [ai-literacy, curriculum-design, higher-ed, instructional-design, personalized-learning]
 
 - ● [[guided-llm-scaffolding-independent-learning]] — raw/papers/2606.01375.md
   **Beyond Access: Guided LLM Scaffolding for Independent Learning**
@@ -1034,7 +1119,8 @@
 
 - ● [[tracing-genai-literacy-interaction-patterns]] — raw/papers/2606.00040.md
   **Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing**
-  Tags: [ai-literacy, learning-analytics, higher-ed, prompt-engineering, academic-writing]
+  Tags: [ai-literacy, higher-ed, learning-analytics, prompt-engineering, writing-education]
+
 
 ## 2026-06-01
 
@@ -1050,11 +1136,23 @@
   **The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals**
   Tags: [intelligent-tutoring, llm, benchmark, efficacy-study, automated-grading, formative-assessment]
 
+
+## 2026-05-31
+
+- ● [[llm-cognitive-diagnosis-handwritten-math]] — arxiv:2504.00843
+  **Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work**
+  Tags: [llm-evaluation, cognitive-diagnosis, handwritten-math, benchmark, teacher-in-the-loop, evidential-reasoning, hallucination, k-12]
+
+
 ## 2026-05-29
 
 - ● [[a4l-analytics-pipeline]] — raw/papers/2605.30303.md
   **Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains**
   Tags: [learning-analytics, edtech-platform, personalized-learning, higher-ed, feedback-loop]
+
+- ● [[dot-framework-survey]] — https://arxiv.org/abs/2605.29041
+  **DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education**
+  Tags: [ai-education, ai-literacy, design-thinking, dot-framework, higher-ed, human-in-the-loop, institutional-change, open-source, practitioner-beliefs, survey]
 
 - ● [[history-aware-student-simulation]] — raw/papers/2605.30051.md
   **Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues**
@@ -1065,14 +1163,15 @@
   Tags: [llm, intelligent-tutoring, scaffolding, teacher-role, over-reliance]
 
 - ● [[student-rationalization-ai-writing]] — raw/papers/2605.29090.md
-  **\"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing**
+  **"It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing**
   Tags: [academic-integrity, llm, student-experience, higher-ed, writing-education, ai-literacy]
+
 
 ## 2026-05-28
 
 - ● [[agentic-literacy-debt]] — raw/papers/2605.27396.md
   **Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named**
-  Tags: [ai-literacy, generative-ai, equity, policy-maker, k-12, higher-ed]
+  Tags: [agentic-ai, ai-literacy, equity, generative-ai, higher-ed, k-12, policy-maker]
 
 - ◐ [[ai-assisted-writing-research-teams]] — raw/papers/2605.27404.md
   **Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams**
@@ -1088,7 +1187,7 @@
 
 - ◐ [[kt4eqg-personalized-question-generation]] — raw/papers/2605.23933.md
   **KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing**
-  Tags: [adaptive-learning, learning-analytics, personalized-learning, llm, intelligent-tutoring, automated-question-generation]
+  Tags: [adaptive-learning, automated-grading, intelligent-tutoring, learning-analytics, llm, personalized-learning]
 
 - ◐ [[llm-sentiment-analysis-education-research]] — raw/papers/2605.27403.md
   **LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments**
@@ -1101,6 +1200,30 @@
 - ◐ [[rubric-aware-grading-rec-cbm]] — raw/papers/2605.27402.md
   **REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading**
   Tags: [automated-grading, llm, formative-assessment, higher-ed, scaffolding, efficacy-study]
+
+
+## 2026-05-27
+
+- ● [[ai-assistance-reduces-persistence]] — arxiv:2604.04721
+  **AI Assistance Reduces Persistence and Hurts Independent Performance**
+  Tags: [over-reliance, cognitive-offloading, persistence, learning, RCT, efficacy-study, generative-ai, student-experience, metacognition, scaffolding]
+
+- ● [[genai-minoritized-knowledges-disability]] — raw/papers/2605.26769.md
+  **Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability**
+  Tags: [generative-ai, higher-ed, special-education, equity, bias-mitigation, inclusive-ai]
+
+- ● [[persistent-ai-agents-academic-research]] — raw/papers/2605.26870.md
+  **Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study**
+  Tags: [llm, generative-ai, higher-ed, agentic-workflows-education, faculty-development, learning-analytics]
+
+- ● [[slidesqaqa-pedagogical-question-generation]] — raw/papers/2605.26428.md
+  **Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation**
+  Tags: [automated-question-generation, generative-ai, llm, higher-ed, scaffolding, formative-assessment, multimodal]
+
+- ● [[student-misconceptions-conditionals-loops-taxonomy]] — raw/papers/2605.26966.md
+  **How Students (Mis)understand Conditionals and Loops -- A Taxonomy**
+  Tags: [cs-education, stem-education, student-experience, higher-ed, benchmark]
+
 
 ## 2026-05-26
 
@@ -1121,7 +1244,7 @@
   Tags: [stem-education, generative-ai, automated-grading, higher-ed, policy-maker]
 
 - ● [[humanlike-ai-collaborative-writing]] — raw/papers/2605.24729.md
-  **\"It Felt a Bit Eerie\": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent**
+  **"It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent**
   Tags: [generative-ai, writing-education, student-experience, llm, higher-ed]
 
 - ● [[llm-reasoning-traces-metacognition]] — raw/papers/2605.25856.md
@@ -1131,6 +1254,7 @@
 - ● [[metacognitive-learning-scenarios-taxonomy]] — raw/papers/2605.24142.md
   **A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints**
   Tags: [metacognition, professional-training, adaptive-learning, lifelong-learning, scaffolding]
+
 
 ## 2026-05-25
 
@@ -1144,10 +1268,10 @@
 
 - ● [[mindcopilot-llm-co-writing]] — raw/papers/2605.23535.md
   **MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing**
-  Tags: [writing-education, llm, feedback-loop, higher-ed, human-in-the-loop-ai]
+  Tags: [feedback-loop, higher-ed, human-in-the-loop, llm, writing-education]
 
 - ● [[neurodivergent-computing-students]] — raw/papers/2605.23823.md
-  **\"I can't read your mind\": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning**
+  **"I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning**
   Tags: [student-experience, cs-education, special-education, equity, collaborative-learning]
 
 - ● [[socially-fluent-ai-identity-detection]] — raw/papers/2605.23426.md
@@ -1157,6 +1281,7 @@
 - ● [[stanbkt-bayesian-knowledge-tracing]] — raw/papers/2605.23048.md
   **StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing**
   Tags: [intelligent-tutoring, learning-analytics, adaptive-learning, benchmark, open-source]
+
 
 ## 2026-05-23
 
@@ -1171,6 +1296,7 @@
 - ◐ [[llm-automated-assessment-student-self-explanations]] — raw/papers/2605.21614.md
   **Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education**
   Tags: [llm, automated-grading, feedback-loop, stem-education, higher-ed, scaffolding]
+
 
 ## 2026-05-22
 
@@ -1189,6 +1315,7 @@
 - ● [[simulating-learner-task-selection]] — raw/papers/2605.21613.md
   **Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning**
   Tags: [intelligent-tutoring, mastery-learning, adaptive-learning, engagement-metrics, simulation, k-12, student-experience]
+
 
 ## 2026-05-21
 
@@ -1228,6 +1355,7 @@
   **Explainable Artificial Intelligence in Education (XAI-ED)**
   Tags: [intelligent-tutoring, learning-analytics, bias-mitigation, equity, privacy, metacognition, teacher-role, student-experience, adaptive-learning, ai-literacy, scaffolding]
 
+
 ## 2026-05-20
 
 - ● [[cognitive-shift-ai-education]] — raw/papers/2605.16292.md
@@ -1241,6 +1369,7 @@
 - ● [[vocabulary-difficulty-prediction]] — raw/papers/2605.14257.md
   **What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction**
   Tags: [language-learning, llm, generative-ai, benchmark, scaffolding, formative-assessment]
+
 
 ## 2026-05-19
 
@@ -1280,6 +1409,7 @@
   **The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance**
   Tags: [llm, generative-ai, feedback-loop, higher-ed, scaffolding, efficacy-study, stem-education]
 
+
 ## 2026-05-17
 
 - ◐ [[affective-text-wearable-student-health]] — raw/papers/2605.14360.md
@@ -1288,11 +1418,12 @@
 
 - ◐ [[ai-tpack-teacher-multi-agent-workflow]] — raw/papers/2605.13906.md
   **Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design**
-  Tags: [teacher-role, faculty-development, ai-literacy, generative-ai, scaffolding, multi-agent-instructional-design]
+  Tags: [ai-literacy, faculty-development, generative-ai, multi-agent, scaffolding, teacher-role]
 
 - ◐ [[codify-socratic-tutoring-programming]] — raw/articles/codify-socratic-tutoring-programming.md
   **Codify: An Intelligent Socratic Tutoring System for Programming Education**
-  Tags: [intelligent-tutoring, llm, generative-ai, programming-its, scaffolding, higher-ed, socratic-ai-dialogue]
+  Tags: [generative-ai, higher-ed, intelligent-tutoring, llm, programming-its, scaffolding, socratic-method]
+
 
 ## 2026-05-16
 
@@ -1302,7 +1433,7 @@
 
 - ● [[chatgpt-critical-creative-thinking-review]] — raw/articles/chatgpt-critical-creative-thinking-review.md
   **ChatGPT Critical and Creative Thinking: Systematic Review**
-  Tags: [chatgpt, critical-thinking, creative-thinking, higher-ed, systematic-review, cognitive-offloading, metacognition, instructional-design, scaffolding, ai-literacy, self-regulated-learning, boundary-object]
+  Tags: [ai-literacy, boundary-object, chatgpt, cognitive-offloading, creative-thinking, critical-thinking, higher-ed, instructional-design, metacognition, scaffolding, scoping-review, self-regulated-learning]
 
 - ● [[llm-student-misconception-identification]] — raw/papers/2605.00294.md
   **What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics**
@@ -1316,11 +1447,12 @@
   **Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education**
   Tags: [intelligent-tutoring, llm, generative-ai, scaffolding, formative-assessment, higher-ed]
 
+
 ## 2026-05-15
 
 - ○ [[agentic-ai-ecosystems-higher-education]] — raw/papers/2605.14266.md
   **Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence**
-  Tags: [higher-ed, generative-ai, llm, administrator, equity, intelligent-tutoring]
+  Tags: [administrator, agentic-ai, equity, generative-ai, higher-ed, intelligent-tutoring, llm]
 
 - ● [[computational-thinking-ai-agent-creation]] — raw/papers/2605.14330.md
   **Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study**
@@ -1328,7 +1460,7 @@
 
 - ◐ [[eduagentbench-agent-teaching-benchmark]] — raw/papers/2605.14322.md
   **Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows**
-  Tags: [benchmark, intelligent-tutoring, llm, generative-ai, scaffolding, teacher-role]
+  Tags: [agentic-ai, benchmark, generative-ai, intelligent-tutoring, llm, scaffolding, teacher-role]
 
 - ◐ [[eduframetrap-llm-sycophancy-educational-safety]] — raw/papers/2605.14604.md
   **Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks**
@@ -1358,6 +1490,7 @@
   **Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments**
   Tags: [higher-ed, generative-ai, llm, personalized-learning, edtech-platform]
 
+
 ## 2026-05-14
 
 - ◐ [[ai-generated-slides-student-perception]] — raw/papers/2605.13532.md
@@ -1382,7 +1515,7 @@
 
 - ● [[institutional-change-framework-ai]] — raw/papers/2605.12757.md
   **A Framework for Institutional Change in the Age of AI**
-  Tags: [institutional-change, higher-ed, stem-education, faculty-development, pedagogy, ai-era, change-management]
+  Tags: [ai-education, change-management, faculty-development, higher-ed, institutional-change, pedagogy, stem-education]
 
 - ● [[llm-children-reading-story-generation]] — raw/papers/2605.13709.md
   **Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety**
@@ -1391,6 +1524,7 @@
 - ● [[teacher-ai-adoption-confidence]] — raw/papers/2605.00343.md
   **AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes**
   Tags: [teacher-role, faculty-development, k-12, ai-literacy]
+
 
 ## 2026-05-13
 
@@ -1418,15 +1552,16 @@
   **Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing**
   Tags: [knowledge-tracing-irt, learning-analytics, personalized-learning, intelligent-tutoring]
 
+
 ## 2026-05-12
 
 - ◐ [[ai-powered-materials-discovery-ai-literacy]] — raw/papers/2605.09624.md
   **Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment**
-  Tags: [ai-literacy, stem-education, equity-in-ai-education, curriculum, metacognition]
+  Tags: [ai-literacy, curriculum, equity, metacognition, stem-education]
 
 - ● [[cost-of-ethics-crisis-cs-ethics-education]] — raw/papers/2605.09680.md
   **Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States**
-  Tags: [ai-education, ethics, cs-education, teacher-competency, regulation]
+  Tags: [ai-education, cs-education, ethics, regulation, teacher-professional-development]
 
 - ◐ [[reinforcement-learning-measurement-model-assessment]] — raw/papers/2605.09305.md
   **Reinforcement Learning Measurement Model**
@@ -1438,7 +1573,8 @@
 
 - ● [[understanding-student-effort-response-time]] — raw/papers/2605.08943.md
   **Understanding Student Effort Using Response-Time Propensities During Problem Solving**
-  Tags: [learning-analytics, adaptive-learning-systems, engagement-assessment, assessment, student-experience]
+  Tags: [adaptive-learning, assessment, engagement-metrics, learning-analytics, student-experience]
+
 
 ## 2026-05-11
 
@@ -1448,7 +1584,7 @@
 
 - ◐ [[ai-agents-peer-learning-discourse]] — raw/papers/2602.14477.md
   **When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community**
-  Tags: [llm, learning-analytics, collaborative-ai-tutoring, engagement-metrics, benchmark]
+  Tags: [agentic-ai, benchmark, collaborative-ai-tutoring, engagement-metrics, learning-analytics, llm]
 
 - ◐ [[cognitive-agent-compilation]] — raw/papers/2605.07040.md
   **Cognitive Agent Compilation for Explicit Problem Solver Modeling**
@@ -1482,11 +1618,13 @@
   **TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors**
   Tags: [llm, teacher-role, higher-ed, scaffolding, faculty-development]
 
+
 ## 2026-05-10
 
 - ◐ [[critical-thinking-genai-scaffolding]] — raw/articles/critical-thinking-genai-scaffolding.md
   **Scaffolding Critical Thinking with Generative AI**
   Tags: [generative-ai, higher-ed, scaffolding]
+
 
 ## 2026-05-09
 
@@ -1542,15 +1680,16 @@
   **How State Policy Can Help Teachers Use AI Well**
   Tags: [regulation, teacher-role, k-12, policy-maker, faculty-development]
 
+
 ## 2026-05-08
 
 - ◐ [[agentic-education-coding]] — raw/papers/2604.17460.md
   **Agentic Education with AI Coding Assistants**
-  Tags: [agentic-workflows, stem-education, higher-ed, generative-ai, scaffolding]
+  Tags: [agentic-ai, agentic-workflows, generative-ai, higher-ed, scaffolding, stem-education]
 
 - ● [[ai-literacy-assessment-misalignment]] — 2601.06101
   **AI Literacy Assessment: Self-Reported vs Performance Misalignment**
-  Tags: [ai-literacy, assessment, self-reported-vs-performance, k-12, validity, teacher-competency]
+  Tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, teacher-professional-development]
 
 - ● [[ai-metacognition-stem-review]] — raw/articles/mdpi-metacognition-ai-stem-2025.md
   **AI Tools Scaffolding Metacognition in STEM**
@@ -1558,9 +1697,9 @@
 
 - ● [[assessment-validity]] — 2601.06101
   **Assessment Validity in AI Education**
-  Tags: [assessment, validity, educational-measurement, ai-literacy, teacher-competency]
+  Tags: [ai-literacy, assessment, assessment-validity, educational-theory, teacher-professional-development]
 
-- ● [[automated-question-generation]] — 2512.10110
+- ● [[automated-question-generation]] — 2512.1011
   **Automated Question Generation**
   Tags: [nlp-education, assessment, llm, stem-education, automated-grading]
 
@@ -1578,19 +1717,19 @@
 
 - ● [[equity-in-ai-education]] — 2505.08083
   **Equity in AI Education**
-  Tags: [equity, access, inclusive-ai, culturally-sustaining-pedagogy, digital-divide]
+  Tags: [accessible-learning, culturally-sustaining-pedagogy, digital-divide, equity, inclusive-ai]
 
 - ● [[genai-policy-prompting-rct]] — 2602.16033
   **Transforming GenAI Policy to Prompting Instruction (RCT)**
-  Tags: [ai-literacy, k-12, regulation, RCT, teacher-development]
+  Tags: [ai-literacy, k-12, RCT, regulation, teacher-professional-development]
 
-- ● [[generate-then-validate-question-gen]] — 2512.10110
+- ● [[generate-then-validate-question-gen]] — 2512.1011
   **Generate-Then-Validate: Question Generation for Education**
-  Tags: [question-generation, validate-then-generate, nlp-education, stem-education, automated-grading, llm]
+  Tags: [automated-grading, llm, nlp-education, stem-education, validate-then-generate]
 
 - ● [[k-12-ai-education]] — 2602.16033
   **K-12 AI Education**
-  Tags: [k-12, ai-literacy, teacher-development, curriculum-design, equity]
+  Tags: [ai-literacy, curriculum-design, equity, k-12, teacher-professional-development]
 
 - ● [[llm-cultural-relevance-k12]] — 2505.08083
   **LLMs for Culturally Relevant K-12 Pedagogy**
@@ -1598,7 +1737,7 @@
 
 - ● [[multi-agent-instructional-design]] — raw/papers/2508.16659.md
   **Multi-Agent Systems for Instructional Design**
-  Tags: [agentic-workflows, ai-literacy, k-12, human-in-the-loop, pedagogical-safety]
+  Tags: [agentic-ai, agentic-workflows, ai-literacy, human-in-the-loop, k-12, pedagogical-safety]
 
 - ◐ [[neural-symbolic-knowledge-tracing]] — raw/papers/2604.08263.md
   **Neural-Symbolic Knowledge Tracing**
@@ -1618,7 +1757,7 @@
 
 - ◐ [[quantum-education-its]] — raw/papers/2604.24807.md
   **Quantum Education Intelligent Tutoring**
-  Tags: [intelligent-tutoring, stem-education, higher-ed, adaptive-learning, knowledge-graph]
+  Tags: [adaptive-learning, higher-ed, intelligent-tutoring, knowledge-tracing, stem-education]
 
 - ◐ [[short-answer-scoring-quality-degradation]] — raw/papers/2605.07647.md
   **Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation**
@@ -1630,7 +1769,7 @@
 
 - ● [[teacher-ai-competency]] — 2601.06101
   **Teacher AI Competency**
-  Tags: [teacher-development, ai-literacy, faculty-development, k-12]
+  Tags: [ai-literacy, faculty-development, k-12, teacher-professional-development]
 
 - ◐ [[text-simplification-its]] — raw/papers/2604.08947.md
   **Text Simplification for Intelligent Tutoring**
@@ -1639,6 +1778,7 @@
 - ◐ [[universities-ai-era-rethinking]] — raw/papers/2605.07056.md
   **The University AI Didn't Replace: Rethinking Universities in the AI Era**
   Tags: [higher-ed, teacher-role, administrator, policy-maker, regulation]
+
 
 ## 2026-05-07
 
@@ -1652,7 +1792,7 @@
 
 - ◐ [[agentic-workflows-education]] — raw/papers/kamalov-agentic-workflows-education-2026.md
   **Agentic Workflows in Education**
-  Tags: [agent, architecture, tutoring, benchmark, ai-education]
+  Tags: [agentic-ai, ai-education, benchmark, tutoring]
 
 - ◐ [[ai-k12-evidence-base]] — raw/papers/stanford-evidence-base-ai-k12-2026.md
   **AI in K-12 Evidence Base**
@@ -1680,7 +1820,7 @@
 
 - ● [[authentic-assessment]] — raw/articles/zhan-boud-du-authentic-assessment-scoping-review-2025.md
   **Authentic Assessment**
-  Tags: [assessment, evaluation, higher-ed, formative-assessment, self-regulated-learning, metacognition, ai-education]
+  Tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning]
 
 - ◐ [[automatic-short-answer-grading]] — raw/papers/cong-confidence-asag-2026.md
   **Automatic Short Answer Grading with LLMs**
@@ -1704,7 +1844,7 @@
 
 - ◐ [[formative-assessment]] — raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md
   **Formative Assessment in AI Education**
-  Tags: [assessment, evaluation, agent, safety, ai-education]
+  Tags: [agentic-ai, ai-ed-evaluation, ai-education, assessment, safety]
 
 - ◐ [[human-in-the-loop-ai]] — raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md
   **Human-in-the-Loop AI for Education**
@@ -1766,11 +1906,13 @@
   **Tutoring-Specific vs. General-Purpose AI in Education**
   Tags: [intelligent-tutoring, llm, generative-ai, personalized-learning, scaffolding, adaptive-learning]
 
+
 ## 2026-05-06
 
 - ● [[genai-meta-analysis-programming-learning]] — raw/papers/2605.04779.md
   **A meta-analysis of the effect of generative AI on productivity and learning in programming**
   Tags: [RCT, efficacy-study, generative-ai, higher-ed, learning-gains, meta-analysis]
+
 
 ## 2026-05-05
 

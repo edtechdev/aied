@@ -15,6 +15,7 @@ AI-supported language learning and second language acquisition technologies
 ## Connections
 
 ## Related Pages
+- [[chatgpt-feedback-engagement-genai]] — IELTS writing feedback via ChatGPT
 - [[self-referential-l2-writing-llm-assessment]] — L2 writing evaluation with profile-based intra-learner assessment
 - [[tutors-gig-economy-automated-feedback]] -- Tutors perceived AI feedback more negatively than learner feedback but found it useful for self-monitoring; discrepancies between the two sources caused confusion.
 - [[ai-interlocutor-l2-spoken-dialogue]] -- AI dialogue in L2 practice resembles 'supported monologue' with fewer turns but greater short-term linguistic uptake; human dialogue is faster and more balanced.

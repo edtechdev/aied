@@ -18,6 +18,10 @@ Student and faculty over-reliance on AI tools in education
 *This page is a stub — awaiting further sources and content.*
 
 ## Related Pages
+- [[agency-gap-ai-writing]] — Over-direction risk of rigid proactive designs
+- [[feedback-futures-genai]] — Agency vs dependency tension in GenAI feedback
+- [[chatgpt-feedback-engagement-genai]] — Metacognitive laziness and 83.9% uptake of ChatGPT feedback
+- [[learner-centered-feedback-ai]] — Novice-teacher deferral risk with AI feedback tools
 - [[ai-coaching-rl-skill-development]] — Over-reliance observed in motor skill learning when AI coaching provides excessive intervention
 - [[genai-impact-chinese-students-hss]] — Limited accuracy and over-reliance identified as top student concerns about GenAI
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)

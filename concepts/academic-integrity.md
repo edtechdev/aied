@@ -18,6 +18,7 @@ Academic integrity challenges and solutions in AI-era education
 *This page is a stub — awaiting further sources and content.*
 
 ## Related Pages
+- [[chatgpt-feedback-engagement-genai]] — Ethical decision-making about GenAI feedback use
 - [[genai-impact-chinese-students-hss]] — Findings on assessment validity concerns when GenAI use is widespread
 - [[ethical-ai-higher-ed-game-theory]] — 3 of 8 papers in May 28 scan
 - [[generative-ai-reduced-study-time-math]] — Evidence of widespread unproctored AI use and its impact on measured learning outcomes (2026)

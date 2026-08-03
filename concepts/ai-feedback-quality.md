@@ -13,6 +13,7 @@ confidence: low
 *Stub page — created as a back-link target.*
 
 ## Related Pages
+- [[genai-teacher-feedback-comparison]] — Students rate teacher feedback more trustworthy than GenAI
 - [[ai-assistance-discretionary-feedback]] — Quality benchmarks for AI tutoring and feedback
 - [[ai-generated-feedback-higher-ed]] — RCT: GPT-o4-mini feedback met non-inferiority AND equivalence vs expert teacher; DeepSeek R1 non-inferior; effect depends on assessment architecture, not source
 - [[tutoring-effectiveness-index]] — links here

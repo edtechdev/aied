@@ -13,6 +13,8 @@ confidence: low
 ## Connections
 
 ## Related Pages
+- [[learner-centered-feedback-ai]] — Teachers calibrate AI tone to preserve professional voice
+- [[care-full-feedback-genai]] — Feedback as professional craft and ethical practice
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)
 - [[xai-education-framework]]
 - [[ai-changing-teaching-workflows]]
