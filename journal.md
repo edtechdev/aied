@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-03 | **Total entries:** 446
+**Last updated:** 2026-08-03 | **Total entries:** 447
 
 ## 2026-08-03
 
@@ -95,6 +95,10 @@
 - ● [[llm-facilitation-timing-online-discussions]] — raw/papers/2607.28643.md
   **To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions**
   Tags: [llm, collaborative-learning, student-ai-interaction, engagement-metrics, nlp-education, human-in-the-loop]
+
+- ● [[responsible-assessment-ai-era-stanford-2026]] — raw/papers/responsible-assessment-ai-era-stanford-2026.md
+  **'Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference'**
+  Tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, educational-theory, equity, human-in-the-loop]
 
 - ● [[savvy-student-attention-video-learning]] — raw/papers/2607.29413.md
   **'SAVVY: Student Attention Visualization for Video-based Learning Analysis'**

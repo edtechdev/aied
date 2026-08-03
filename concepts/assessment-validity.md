@@ -55,3 +55,4 @@ Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Bet
 - [[representation-robustness-llm-math-problem-solving]] — Representation Robustness under Executable Reasoning Constra
 - [[ai-scoring-language-bias-physics]]
 - [[socratic-tests-conversational-assessment]]
+- [[responsible-assessment-ai-era-stanford-2026]] — Catalogs AI-scoring validity threats (construct-irrelevant variance, calibration, generalization)

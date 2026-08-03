@@ -6,7 +6,7 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 15:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:14:06 +0000</lastBuildDate>
     <item>
       <title>Access is Not Enough: Human Support Improves Engagement with AI Tutoring</title>
       <link>https://edtechdev.github.io/aied/pages/access-not-enough-ai-tutoring-2026.html</link>
@@ -169,6 +169,13 @@
       <description><![CDATA[<p>This study asks when (not just how) LLMs should facilitate online discussions, creating PEFK, a corpus standardizing and aggregating facilitation datasets, and running the first survey on facilitation timing with expert facilitators and LLM-as-a-judge models.</p>]]></description>
     </item>
     <item>
+      <title>Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference</title>
+      <link>https://edtechdev.github.io/aied/pages/responsible-assessment-ai-era-stanford-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/responsible-assessment-ai-era-stanford-2026.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Responsible assessment in the AI era** — assessment grounded in learners' sociocultural contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues generative AI has broken the assumption that final products measure human capability: learners can produce high-quality artifacts without the underlying learning, AI scoring introduces construct-irrelevant variance, and the gap between what is measured and what matters is widening. The field's response is a shift from testing events to systems of inference — continuous and <a href="formative-assessment.html">formative-assessment</a>, portfolio- and conversation-based evidence (<a href="socratic-tests-conversational-assessment.html">socratic-tests-conversational-assessment</a>), <a href="authentic-assessment.html">authentic-assessment</a> in real tasks, and <a href="human-in-the-loop.html">human-in-the-loop</a> design — paired with validity infrastructure for <a href="automated-grading.html">automated-grading</a>, shared definitions of emerging constructs like <a href="ai-literacy.html">ai-literacy</a>, and sustained attention to <a href="equity.html">equity</a>, transparency, and trust.</p>]]></description>
+    </item>
+    <item>
       <title>SAVVY: Student Attention Visualization for Video-based Learning Analysis</title>
       <link>https://edtechdev.github.io/aied/pages/savvy-student-attention-video-learning.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/savvy-student-attention-video-learning.html</guid>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/llm-unlearning-math-privacy.html</guid>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>Applied gradient-based LLM unlearning to 3 models pre-trained on ~3M Algebra I tutoring data points. Unlearned PII and harmful content while maintaining math task utility. PII output rate and harmfulness substantially decreased post-unlearning. Demonstrates a practical approach to making LLM-based math tutors more responsible and privacy-preserving.</p>]]></description>
-    </item>
-    <item>
-      <title>Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design</title>
-      <link>https://edtechdev.github.io/aied/pages/ml-literacy-primary-education.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ml-literacy-primary-education.html</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Designed and validated a 6-8 hour course teaching ML concepts to 752 primary students. Used guided worksheets, hands-on robot interaction, and iterative refinement. Students comprehended supervised learning and reinforcement learning (KNN, ANN). Fostered reflective thinking by comparing ML and human learning processes. Confirms feasibility of early ML education at scale.</p>]]></description>
     </item>
   </channel>
 </rss>

@@ -103,3 +103,4 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[llm-misconception-difficulty-easy-trap]] — LLMs systematically underestimate misconception-driven item difficulty ('Easy Tr...
 - [[icle-plus-plus-essay-scoring]]
 - [[socratic-tests-conversational-assessment]]
+- [[responsible-assessment-ai-era-stanford-2026]] — Stanford convening on extending formative assessment with AI feedback loops

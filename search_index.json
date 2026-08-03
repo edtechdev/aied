@@ -5997,6 +5997,22 @@
     "url": "pages/reshaping-cs-education-genai.html"
   },
   {
+    "slug": "responsible-assessment-ai-era-stanford-2026",
+    "title": "Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference",
+    "tags": [
+      "assessment",
+      "assessment-validity",
+      "formative-assessment",
+      "generative-ai",
+      "ai-ed-evaluation",
+      "educational-theory",
+      "equity",
+      "human-in-the-loop"
+    ],
+    "content": "\nResponsible assessment in the AI era \u2014 assessment grounded in learners' sociocultural contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues generative AI has broken the assumption that final products measure human capability: learners can produce h",
+    "url": "pages/responsible-assessment-ai-era-stanford-2026.html"
+  },
+  {
     "slug": "rethinking-scaffolding-llm-tutors",
     "title": "Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments",
     "tags": [

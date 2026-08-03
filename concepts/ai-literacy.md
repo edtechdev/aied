@@ -205,3 +205,4 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 - [[scaffolding-critical-engagement-genai-minority-students]]
 - [[agreement-not-quality-llm-coding-verification]]
 - [[human-llm-collaborative-coding-k12-educator-ai]]
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible-assessment report; AI literacy as an underdefined emerging construct
