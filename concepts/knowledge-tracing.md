@@ -3,7 +3,7 @@ title: Knowledge Tracing
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: []
+tags: [knowledge-tracing]
 sources: []
 confidence: low
 ---

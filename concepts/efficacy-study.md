@@ -3,7 +3,7 @@ title: Efficacy Study
 created: 2026-05-21
 updated: 2026-05-21
 type: concept
-tags: []
+tags: [efficacy-study]
 sources: []
 confidence: low
 ---

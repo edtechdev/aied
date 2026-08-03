@@ -3,7 +3,7 @@ title: Assessment
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: []
+tags: [assessment]
 sources: []
 confidence: low
 ---

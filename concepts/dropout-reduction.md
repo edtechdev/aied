@@ -3,7 +3,7 @@ title: Dropout Reduction
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: []
+tags: [dropout-reduction]
 sources: []
 confidence: low
 ---

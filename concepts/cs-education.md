@@ -3,7 +3,7 @@ title: Cs Education
 created: 2026-05-21
 updated: 2026-07-27
 type: concept
-tags: []
+tags: [cs-education]
 sources: []
 confidence: low
 ---

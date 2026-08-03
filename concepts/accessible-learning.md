@@ -3,7 +3,7 @@ title: "Accessible Learning"
 created: 2026-06-01
 updated: 2026-06-01
 type: concept
-tags: []
+tags: [accessible-learning]
 sources: []
 confidence: low
 ---
