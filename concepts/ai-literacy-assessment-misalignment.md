@@ -3,7 +3,7 @@ title: "AI Literacy Assessment: Self-Reported vs Performance Misalignment"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, teacher-professional-development]
+tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, "faculty-development"]
 sources: [2601.06101]
 confidence: high
 ---

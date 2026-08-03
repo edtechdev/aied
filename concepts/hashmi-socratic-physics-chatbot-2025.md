@@ -3,7 +3,7 @@ title: "Socratic Physics Chatbot"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [socratic-method, physics-education, chatbot, ai-tutoring]
+tags: [socratic-method, physics-education, "generative-ai", "intelligent-tutoring"]
 sources: [raw/papers/hashmi-socratic-physics-chatbot-2025.md]
 confidence: low
 ---

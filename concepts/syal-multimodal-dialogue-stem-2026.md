@@ -3,7 +3,7 @@ title: "Multimodal Dialogue in STEM Education"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [ai-tutoring, multimodal, socratic-method, stem-education]
+tags: ["intelligent-tutoring", multimodal, socratic-method, stem-education]
 sources: [raw/papers/syal-multimodal-dialogue-stem-2026.md]
 confidence: low
 ---

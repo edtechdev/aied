@@ -3,7 +3,7 @@ title: "ChatGPT Critical and Creative Thinking: Systematic Review"
 created: 2026-05-16
 updated: 2026-05-16
 type: concept
-tags: [ai-literacy, boundary-object, chatgpt, cognitive-offloading, creative-thinking, critical-thinking, higher-ed, instructional-design, metacognition, scaffolding, scoping-review, self-regulated-learning]
+tags: [ai-literacy, boundary-object, "generative-ai", cognitive-offloading, creative-thinking, critical-thinking, higher-ed, instructional-design, metacognition, scaffolding, scoping-review, self-regulated-learning]
 sources: [raw/articles/chatgpt-critical-creative-thinking-review.md]
 confidence: high
 ---

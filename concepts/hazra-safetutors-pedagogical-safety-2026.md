@@ -3,7 +3,7 @@ title: "SafeTutors: Pedagogical Safety in AI Tutoring"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [ai-tutor-safety-harms, pedagogical-safety, k-12]
+tags: [pedagogical-safety, k-12]
 sources: [raw/papers/hazra-safetutors-pedagogical-safety-2026.md]
 confidence: low
 ---

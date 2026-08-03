@@ -49,29 +49,40 @@ The `sha256:` lets a future re-ingest of the same URL skip processing when conte
 
 ## Tag Taxonomy
 
+Canonical tag list (reconciled 2026-08-03: 23 near-duplicate tags consolidated; taxonomy now indexes all 122 tags in use).
+
 ### Systems & Technology
 - `llm`, `generative-ai`, `adaptive-learning`, `intelligent-tutoring`, `edtech-platform`, `learning-analytics`, `automated-grading`, `ai-detection`, `agentic-ai`, `multi-agent`
+- `reinforcement-learning`, `multimodal`, `prompt-engineering`, `knowledge-tracing`, `student-modeling`, `nlp-education`, `programming-its`, `architecture`, `interpretability`, `ai-generated-content`, `content-quality`, `dot-framework`, `validate-then-generate`, `verification`
 
 ### Pedagogy & Practice
 - `personalized-learning`, `formative-assessment`, `feedback-loop`, `scaffolding`, `active-learning`, `blended-learning`, `mastery-learning`, `educational-theory`
+- `pedagogy`, `instructional-design`, `curriculum-design`, `assessment`, `authentic-assessment`, `socratic-method`, `project-based-learning`, `collaborative-learning`, `collaborative-ai-tutoring`, `design-thinking`, `training-methodology`, `simulation`, `oral-defense`, `pair-programming`
+
+### Learning & Cognition
+- `metacognition`, `self-regulated-learning`, `cognitive-offloading`, `critical-thinking`, `creative-thinking`, `computational-thinking`, `skill-decay`, `confidence`, `student-ai-interaction`
 
 ### Stakeholders
 - `k-12`, `higher-ed`, `lifelong-learning`, `teacher-role`, `student-experience`, `administrator`, `policy-maker`
+- `faculty-development`, `public-sector`, `practitioner-beliefs`, `educator-guide`
 
 ### Domain Areas
 - `stem-education`, `language-learning`, `writing-education`, `special-education`, `professional-training`
+- `ai-education`, `cs-education`, `math-education`, `physics-education`, `health-education`, `mooc`, `multilingual-learning`, `neurodiversity`, `accessible-learning`, `informal-learning`, `independent-learning`, `software-engineering`
 
 ### Research & Evaluation
 - `RCT`, `efficacy-study`, `benchmark`, `learning-gains`, `engagement-metrics`, `dropout-reduction`, `scoping-review`, `systematic-review`
+- `ai-ed-evaluation`, `assessment-validity`, `literature-review`, `meta-analysis`, `survey`, `qualitative-research`, `research-methods`, `evidence`, `ground-truth-reliability-aied`
 
 ### Ethics & Policy
 - `academic-integrity`, `bias-mitigation`, `privacy`, `equity`, `regulation`, `plagiarism-detection`, `hallucination-risk`, `over-reliance`
+- `ethics`, `pedagogical-safety`, `misinformation`, `global-south`, `culturally-sustaining-pedagogy`, `institutional-change`
 
 ### Affective & Social
-- `affective-computing`, `ai-literacy`, `faculty-development`
+- `affective-computing`, `ai-literacy`, `human-in-the-loop`, `boundary-object`, `posthumanist`, `trust-calibration`
 
 ### Meta
-- `comparison`, `timeline`, `controversy`, `prediction`, `market-analysis`, `open-source`
+- `comparison`, `timeline`, `controversy`, `prediction`, `market-analysis`, `open-source`, `stub`
 
 Rule: every tag on a page must appear in this taxonomy. If a new tag is needed, add it here first, then use it. This prevents tag sprawl.
 

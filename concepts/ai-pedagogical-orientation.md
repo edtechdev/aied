@@ -3,7 +3,7 @@ title: "Faculty Orientations Shape Adoption of AI in Research and Teaching"
 created: 2026-05-19
 updated: 2026-05-19
 type: concept
-tags: [faculty-development, higher-ed, stem-education, ai-literacy, technology-adoption, pedagogy, institutional-change, teacher-role]
+tags: [faculty-development, higher-ed, stem-education, ai-literacy, institutional-change, pedagogy, teacher-role]
 sources: [raw/papers/2605.18140.md]
 confidence: high
 ---

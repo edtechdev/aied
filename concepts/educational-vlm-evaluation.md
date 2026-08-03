@@ -3,7 +3,7 @@ title: Educational VLM Evaluation
 created: 2026-05-07
 updated: 2026-05-22
 type: concept
-tags: [assessment, multimodal, benchmark, safety, stem-education, ai-education]
+tags: [assessment, multimodal, benchmark, "pedagogical-safety", stem-education, ai-education]
 sources: [raw/papers/li-drawedumath-vlm-misdiagnosis-2026.md]
 confidence: medium
 ---

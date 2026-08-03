@@ -3,7 +3,7 @@ title: "Equity in AI Education"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [accessible-learning, culturally-sustaining-pedagogy, digital-divide, equity, inclusive-ai]
+tags: [accessible-learning, culturally-sustaining-pedagogy, equity]
 sources: [2505.08083]
 confidence: high
 ---

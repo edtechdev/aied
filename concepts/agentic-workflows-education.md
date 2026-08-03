@@ -3,7 +3,7 @@ title: Agentic Workflows in Education
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [agentic-ai, ai-education, benchmark, tutoring]
+tags: [agentic-ai, ai-education, benchmark, "intelligent-tutoring"]
 sources: [raw/papers/kamalov-agentic-workflows-education-2026.md]
 confidence: medium
 ---

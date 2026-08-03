@@ -3,7 +3,7 @@ title: Reinforcement Learning Measurement Model
 created: 2026-05-12
 updated: 2026-05-12
 type: concept
-tags: ["assessment", "learning-analytics", "knowledge-tracing", "knowledge-tracing-irt", "benchmark"]
+tags: [assessment, learning-analytics, knowledge-tracing, benchmark]
 sources: ["raw/papers/2605.09305.md"]
 confidence: medium
 ---

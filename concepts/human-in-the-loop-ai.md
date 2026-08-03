@@ -3,7 +3,7 @@ title: Human-in-the-Loop AI for Education
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [human-in-the-loop, assessment, safety, ai-education]
+tags: [human-in-the-loop, assessment, "pedagogical-safety", ai-education]
 sources: [raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md, raw/papers/yu-maic-mooc-llm-agents-2024.md]
 confidence: medium
 ---

@@ -3,7 +3,7 @@ title: Multi-Agent Systems for Instructional Design
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [agentic-ai, agentic-workflows, ai-literacy, human-in-the-loop, k-12, pedagogical-safety]
+tags: [agentic-ai, ai-literacy, human-in-the-loop, k-12, pedagogical-safety]
 sources: [raw/papers/2508.16659.md]
 confidence: high
 ---

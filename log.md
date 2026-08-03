@@ -64,6 +64,14 @@
 - Verified no dangling references in pages/, index.html, or search_index.js; tags on disk now 145, all referenced
 - No wiki content changed (no index/journal regen needed); deployed
 
+## [2026-08-03] update | Tag taxonomy reconciliation (145 → 122 tags)
+- Consolidated 23 near-duplicate tags into 13 canonical ones across 56 concept pages:
+  - agentic-workflows→agentic-ai; ai-tutoring, tutoring→intelligent-tutoring; assessment-design→assessment; chatbot, chatgpt, genai→generative-ai; computing-education→cs-education; curriculum→curriculum-design; efficiency-study→efficacy-study; knowledge-tracing-irt→knowledge-tracing; llm-pedagogy→pedagogy; ai-tutor-safety-harms, safety→pedagogical-safety; human-ai-collaboration→human-in-the-loop; teacher-professional-development→faculty-development; change-management, technology-adoption→institutional-change; digital-divide, inclusive-ai→equity; algorithmic-bias→bias-mitigation; affect→affective-computing; personalization→personalized-learning
+- Deduped duplicate tag tokens within 14 page frontmatters (quoted+unquoted same tag)
+- Rebuilt SCHEMA.md tag taxonomy: now indexes all 122 tags in use across 9 categories (+new Learning & Cognition category); removed stale tag HTML for merged tags (23 files)
+- Reconciliation: 122 in use = 122 tag pages = 122 listed in tags.html; every in-use tag present in taxonomy
+- Deployed
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`
