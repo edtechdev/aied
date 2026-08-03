@@ -7,6 +7,8 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Intelligent tutoring systems** — the field that predates LLMs — remains the wiki's reference architecture: [[zerkouk-comprehensive-review-its-2025]], [[llm-math-tutoring]], [[stanbkt-bayesian-knowledge-tracing]], and [[tutoring-effectiveness-index]] connect classical ITS to LLM-era tutors, with the shared question being pedagogical effectiveness, not just capability ([[intelligent-tutoring]], [[knowledge-tracing]]).
+
 
 
 # Intelligent Tutoring Systems

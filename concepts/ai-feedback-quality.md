@@ -7,6 +7,8 @@ tags: []
 sources: []
 confidence: low
 ---
+> **AI feedback quality** — whether machine-generated feedback is accurate, actionable, and pedagogically sound — is a cross-cutting wiki theme: [[ai-generated-feedback-higher-ed]], [[genai-teacher-feedback-comparison]], [[llm-feedback-programming-classroom]], and [[sequenced-ai-feedback-learning]] show AI feedback can match or exceed human baselines when [[human-in-the-loop]] and rubric-aligned ([[feedback-loop]]).
+
 
 
 # Ai Feedback Quality

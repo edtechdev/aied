@@ -53,14 +53,20 @@
         <h1>Interpretable Knowledge Tracing via IRT</h1>
         <div class="metadata">Created: 2026-05-07 | Tags: <a href="../tags/adaptive-learning.html" class="tag">adaptive-learning</a><a href="../tags/intelligent-tutoring.html" class="tag">intelligent-tutoring</a><a href="../tags/personalized-learning.html" class="tag">personalized-learning</a><a href="../tags/learning-analytics.html" class="tag">learning-analytics</a><a href="../tags/k-12.html" class="tag">k-12</a><a href="../tags/llm.html" class="tag">llm</a></div>
     </header>
-    <main class="container"><p>> 📄 Full text: <a href="https://arxiv.org/abs/2605.01097">arXiv:2605.01097</a> · <a href="raw/papers/huang-interpretable-knowledge-tracing-2026.md">local</a></p><p>> Most LLM-based dialogue tutoring systems produce opaque predictions. Huang et al. map raw LLM logits into <strong>student ability (θ)</strong> and <strong>task difficulty (d)</strong> parameters via Item Response Theory, yielding predictions that are both more accurate and interpretable in cognitive terms.^<a href="huang-interpretable-knowledge-tracing-2026.html">huang-interpretable-knowledge-tracing-2026</a></p><p><h2>The Problem with Opaque KT</h2></p><p>Two critical gaps in dialogue-based Knowledge Tracing (KT):</p><p>1. <strong>Ignored question difficulty:</strong> Existing methods rely only on student knowledge states. When a tutor scaffolds up or increases task difficulty, predictions become inaccurate.
+    <main class="container"><blockquote>
+📄 Full text: <a href="https://arxiv.org/abs/2605.01097">arXiv:2605.01097</a> · <a href="raw/papers/huang-interpretable-knowledge-tracing-2026.md">local</a>
+</blockquote><blockquote>
+Most LLM-based dialogue tutoring systems produce opaque predictions. Huang et al. map raw LLM logits into <strong>student ability (θ)</strong> and <strong>task difficulty (d)</strong> parameters via Item Response Theory, yielding predictions that are both more accurate and interpretable in cognitive terms.^<a href="huang-interpretable-knowledge-tracing-2026.html">huang-interpretable-knowledge-tracing-2026</a>
+</blockquote><p><h2>The Problem with Opaque KT</h2></p><p>Two critical gaps in dialogue-based Knowledge Tracing (KT):</p><p>1. <strong>Ignored question difficulty:</strong> Existing methods rely only on student knowledge states. When a tutor scaffolds up or increases task difficulty, predictions become inaccurate.
 2. <strong>Opaque representations:</strong> High-dimensional LLM embeddings lack interpretability, making it hard to align predictions with learning theory or gain tutor trust.</p><p><h2>The Framework</h2></p><p>Built on Llama-3.1-8B-Instruct with three modules:</p><p><h3>1. Knowledge Estimator</h3>
 Extracts next-token logits for vocabulary tokens <strong>"GOOD"</strong> and <strong>"BAD"</strong> from dialogue history + original question:
 <code>θ = z^GOOD − z^BAD</code></p><p><h3>2. Difficulty Estimator</h3>
 Extracts logits for <strong>"HARD"</strong> and <strong>"EASY"</strong> from dialogue history + next tutor-posed task:
 <code>d = z^HARD − z^EASY</code></p><p><h3>3. IRT Predictor</h3>
 Maps ability and difficulty into correctness probability via a 1PL (Rasch) model with learnable scalar α:
-<code>p(correct) = 1 / (1 + exp(−α(θ − d)))</code></p><p>> <em>"This formulation provides interpretability since both student knowledge and task difficulty are explicitly represented as meaningful cognitive quantities."</em>^<a href="huang-interpretable-knowledge-tracing-2026.html">huang-interpretable-knowledge-tracing-2026</a></p><p><h2>Results</h2></p><p>Evaluated on QATD2k (real) and MathDial (simulated) tutor-student dialogue datasets:</p><table>
+<code>p(correct) = 1 / (1 + exp(−α(θ − d)))</code></p><blockquote>
+<em>"This formulation provides interpretability since both student knowledge and task difficulty are explicitly represented as meaningful cognitive quantities."</em>^<a href="huang-interpretable-knowledge-tracing-2026.html">huang-interpretable-knowledge-tracing-2026</a>
+</blockquote><p><h2>Results</h2></p><p>Evaluated on QATD2k (real) and MathDial (simulated) tutor-student dialogue datasets:</p><table>
 <thead>
 <tr>
 <th>Model</th>

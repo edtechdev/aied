@@ -3,7 +3,7 @@ title: Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: ["RCT", "adaptive-learning", "formative-assessment", "learning-gains", "higher-ed"]
+tags: ["rct", "adaptive-learning", "formative-assessment", "learning-gains", "higher-ed"]
 sources: [raw/papers/2606.22328.md]
 confidence: medium
 ---

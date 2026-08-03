@@ -7,6 +7,8 @@ tags: [cognitive-offloading]
 sources: []
 confidence: low
 ---
+> **Cognitive offloading** — delegating mental work to AI — cuts across the wiki: [[cognitive-offloading-speedup-illusion]], [[genai-performance-vs-learning]], [[ai-making-us-stupid]], and [[efficiency-gain-illusion-ai-overreliance]] document the speedup-illusion pattern where apparent productivity hides skill erosion ([[over-reliance]], [[critical-thinking]]).
+
 
 
 # Cognitive Offloading

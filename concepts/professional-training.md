@@ -7,6 +7,8 @@ tags: [professional-training]
 sources: []
 confidence: low
 ---
+> **Professional training** with AI spans simulation and feedback: [[ai-psychotherapy-training-avatars]], [[adaptive-virtual-patient-psychotherapy-training]], [[medgame-llm-medical-education-gamification]], and [[tibetcpr-ai-training-feedback]] use AI avatars, patients, and feedback to train professionals at scale ([[simulation-based-learning]], [[formative-assessment]]).
+
 
 
 # Professional Training

@@ -7,6 +7,8 @@ tags: [privacy, equity, regulation]
 sources: []
 confidence: low
 ---
+> **Privacy** in educational AI is examined in [[lata-ferpa-compliant-local-llm-autograder]], [[ai-unlearning-math-privacy]] (llm-unlearning), [[child-safety-genai]], and [[regulation]]: student data protection constrains cloud AI and motivates local, private deployment ([[open-source]], [[ai-governance-education]]).
+
 
 
 # Privacy in Educational AI

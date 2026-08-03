@@ -7,6 +7,8 @@ tags: [multimodal]
 sources: []
 confidence: low
 ---
+> **Multimodal AI** — models processing text, images, audio, and handwriting — is applied across the wiki: [[mllm-scientific-visualization-literacy]], [[llm-handwritten-math-grading]], [[multimodal-ai-feedback-learning]], and [[vismatic-secure-sandbox-cs-education]] show multimodal understanding expanding what AI can assess and tutor ([[educational-nlp]], [[intelligent-tutoring]]).
+
 
 
 # Multimodal

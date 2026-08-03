@@ -7,6 +7,8 @@ tags: [collaborative-learning]
 sources: []
 confidence: low
 ---
+> **Collaborative learning** with AI is studied through [[ai-agents-peer-learning-discourse]], [[clara-collaboration-literacy-dashboard]], [[multi-agent-llm-social-learning]], and [[collaborative-ai-tutoring]] — agents can enrich peer discourse when they scaffold rather than substitute for human interaction ([[active-learning]]).
+
 
 
 # Collaborative Learning

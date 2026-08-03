@@ -28,6 +28,12 @@
      - Generator now emits a summary block on the 43 standalone tag pages (no same-named concept): "N article(s) on X" + SCHEMA taxonomy category + related-tag chips (co-occurring tags) + representative article links
      - Deployed
 
+     ## [2026-08-03] fix | Faculty-development summary + RCT tag normalization
+     - Found and fixed a stale-body rewrite bug: the summary-insert script clobbered 55 freshly-inserted summaries on pages that also had stub markers (rewrote from pre-insert body). Re-inserted all 55 (faculty-development included) — no page now carries "Stub page — full synthesis pending"
+     - Generator now renders markdown blockquotes (`> ...` → `<blockquote>`, Pico-styled) — previously summaries rendered with a literal ">" prefix
+     - RCT tag normalized: merged duplicate concepts RCT.md + rct.md → canonical rct.md (589 concepts = 589 index = 589 pages); SCHEMA taxonomy `RCT` → `rct`; all pages' RCT tag → rct; added rct tag to 3 RCT papers that lacked it (genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, lets-chat-chatbot-outreach-2026); generator tag→concept redirect is now case-robust (tags/rct.html → pages/rct.html)
+     - Deployed
+
      ## [2026-08-03] ingest | 6 PDF articles (AEHE feedback special issue + StructRAG)
      - Sources: 5 × Assessment & Evaluation in Higher Education 51(5) special issue on feedback & GenAI + 1 × Smart Learning Environments (Springer)
      - Raw saved: `raw/papers/tandf-2026-feedback-futures-genai.md`, `raw/papers/tandf-2026-chatgpt-feedback-engagement.md`, `raw/papers/tandf-2026-genai-teacher-feedback-comparison.md`, `raw/papers/tandf-2026-learner-centered-feedback-ai.md`, `raw/papers/tandf-2026-care-full-feedback-genai.md`, `raw/papers/sle-2026-structrag-diagram-reasoning.md`

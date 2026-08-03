@@ -7,6 +7,8 @@ tags: [human-in-the-loop]
 sources: []
 confidence: low
 ---
+> **Human-in-the-loop** design keeps educators and learners in the decision chain: [[cotal-formative-assessment-scoring-2026]], [[aicode-collaborative-feedback-system]], [[teacher-control-ai-generation-math-visuals]], and [[agentic-ai-pedagogical-best-practice-2026]] show oversight improves accuracy, trust, and pedagogical safety ([[trust-calibration]], [[teacher-role]]).
+
 
 
 # Human In The Loop

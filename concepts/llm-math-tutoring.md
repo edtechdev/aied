@@ -7,6 +7,8 @@ tags: []
 sources: []
 confidence: low
 ---
+> **LLM math tutoring** is a focused wiki cluster: [[llm-math-tutoring]], [[llm-handwritten-math-grading]], [[epistemic-proactivity-math]], [[generative-ai-reduced-study-time-math]], and [[learnmate2-llm-adaptive-learning]] examine tutoring, grading, and the risk that AI convenience erodes mathematical practice ([[intelligent-tutoring]], [[scaffolding]]).
+
 
 
 # Llm Math Tutoring

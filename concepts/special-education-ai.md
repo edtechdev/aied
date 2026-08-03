@@ -7,6 +7,8 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Special education AI** is documented in [[special-r1-rl-special-education]], [[dyslexlens-dyslexic-learners-ai]], [[genai-minoritized-knowledges-disability]], and [[neurodivergent-computing-students]]: AI personalization offers new support for diverse learners when accessibility and agency are designed in ([[accessible-learning]], [[equity]]).
+
 
 
 # Special Education Ai

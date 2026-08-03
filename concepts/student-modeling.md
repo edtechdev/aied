@@ -7,6 +7,8 @@ tags: [student-modeling]
 sources: []
 confidence: low
 ---
+> **Student modeling** — computational representations of learner knowledge and affect — is advanced by [[knowledge-tracing]], [[llm-student-modeling-memory]], [[engagement-intensity-learner-modeling]], and [[history-aware-student-simulation]]: LLMs add semantic depth to classical models ([[educational-measurement]], [[intelligent-tutoring]]).
+
 
 
 # Student Modeling

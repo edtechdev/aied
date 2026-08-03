@@ -7,6 +7,8 @@ tags: [engagement-metrics]
 sources: []
 confidence: low
 ---
+> **Engagement metrics** — time, actions, and interaction depth with AI tools — are measured in [[engagement-forecasting-its]], [[genai-tutor-engagement-patterns]], [[understanding-student-effort-response-time]], and [[access-not-enough-ai-tutoring-2026]]: take-up and sustained use are often the binding constraints on AI effectiveness ([[learning-analytics]], [[student-experience]]).
+
 
 
 # Engagement Metrics

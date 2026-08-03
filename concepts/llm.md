@@ -7,6 +7,8 @@ tags: [llm]
 sources: []
 confidence: low
 ---
+> **LLMs** (large language models) are the wiki's dominant technology: from [[llm-detecting-llm-generated-content-education]] and [[llm-feedback-programming-classroom]] to [[llm-student-simulation-misconception-faithfulness]] and [[special-r1-rl-special-education]], the corpus tracks LLMs as tutors, graders, simulators, and content generators — with capability consistently outpacing pedagogical validation ([[generative-ai]], [[ai-ed-evaluation]]).
+
 
 
 # Llm

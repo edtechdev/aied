@@ -7,6 +7,8 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Inclusive AI** — designing educational AI for marginalized and disabled learners — is documented in [[genai-minoritized-knowledges-disability]], [[dyslexlens-dyslexic-learners-ai]], [[special-education-ai]], and [[llm-cultural-relevance-k12]]: inclusion requires attending to representation, accessibility, and cultural grounding ([[equity]], [[accessible-learning]]).
+
 
 
 # Inclusive Ai
