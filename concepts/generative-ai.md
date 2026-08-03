@@ -13,6 +13,7 @@ confidence: low
 *Stub page — full synthesis pending.*
 
 ## Related Pages
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] — GPT-3.5 journaling assistant: scaffolds writing, no motivation gain
 - [[genai-impact-chinese-students-hss]] — Survey of Chinese HSS students on GenAI's effects on learning motivation, creativity, and academic performance
 - [[ai-assisted-writing-research-teams]] — 6 of 8 papers in May 28 scan
 - [[genai-minoritized-knowledges-disability]] — epistemic marginalization of minoritized knowledges via GenAI

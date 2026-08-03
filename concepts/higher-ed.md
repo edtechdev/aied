@@ -13,6 +13,7 @@ confidence: low
 ## Connections
 
 ## Related Pages
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Chatbot journaling RCT at a German technical university
 - [[agency-gap-ai-writing]] — AI writing support in medical/nursing education
 - [[feedback-futures-genai]] — GenAI feedback governance and assessment design in universities
 - [[genai-teacher-feedback-comparison]] — Four-Australian-university survey of feedback perceptions

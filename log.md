@@ -32,6 +32,14 @@
      - sha256: 641393849fa6134720887baa8b9707b7bc46eb3bb317e08215022ed4ffe04df9
      - Index: 627 → 628 pages; Journal: 431 entries
 
+## [2026-08-03] update | Scheu et al. (2026) — stub → full ingest (full text added)
+- Source: International Journal of Educational Technology in Higher Education (Springer), 23:15
+- DOI: 10.1186/s41239-026-00589-7; journal: ETHE
+- Raw upgraded: `raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md` — summary-only body (5.7KB, ingested 2026-05-07) replaced with cleaned full text (50.3KB); frontmatter `updated: 2026-08-03`; sha256 recomputed 83010993… → fed3744e60ca045b63cade332c5cee8c92120cd15367f401e13007a58228cb3a
+- Concept page rewritten from stub → full synthesis (2×2 RCT, N=179, 22 days): course ↑ intrinsic motivation (η²=.03/.04) but benefit temporary; LLM assistant no motivation effect but forms engagement feedback loop (B=6.20/day, p<.001); SRL gains across all groups incl. baseline
+- Confidence: low → high; journal icon ○ → ●; back-links added to 6 pages (scaffolding, student-experience, higher-ed, feedback-loop, generative-ai, engagement-metrics)
+- Index: 628 pages (title refreshed); Journal: 431 entries
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`
