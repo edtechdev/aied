@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-03 | **Total pages:** 590
+**Last updated:** 2026-08-03 | **Total pages:** 589
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -485,8 +485,7 @@
 - [[quest-ai-inquiry-preservice-teachers]] — Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers
 - [[rag]] — Rag
 - [[randomized-controlled-trials-education]] — Randomized Controlled Trials Education
-- [[RCT]] — Randomized Controlled Trials in AI Education Research
-- [[rct]] — Rct
+- [[rct]] — Randomized Controlled Trials in AI Education Research
 - [[regulating-ai-tutor-adolescent-srl]] — Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use
 - [[regulation]] — AI Regulation in Education
 - [[reinforcement-learning]] — Reinforcement Learning

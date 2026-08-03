@@ -7,6 +7,8 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Learning analytics dashboards** translate data into teacher/student action: [[clara-collaboration-literacy-dashboard]], [[expert-cognition-dashboard]], [[edumirror-educational-social-dynamics]], and [[aissa-slides-analysis]] show dashboards improve awareness when they present actionable, interpretable signals ([[learning-analytics]], [[visualization]]).
+
 
 
 # Learning Analytics Dashboards

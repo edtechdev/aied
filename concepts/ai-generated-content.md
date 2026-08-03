@@ -7,6 +7,8 @@ tags: [ai-generated-content]
 sources: []
 confidence: low
 ---
+> **AI-generated content** — text, code, images, and video produced by generative models — raises authorship and integrity questions documented in [[ai-writing-support-stage-ownership-2026]], [[llm-fallacy-misattribution]], and [[buggy-genai-code-student-responses]]: ownership falls as AI contribution rises, and quality must be verified ([[ai-detection]], [[academic-integrity]]).
+
 
 
 # Ai Generated Content

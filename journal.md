@@ -6,7 +6,7 @@
 
 - ● [[access-not-enough-ai-tutoring-2026]] — raw/papers/access-not-enough-ai-tutoring-2026.md
   **Access is Not Enough: Human Support Improves Engagement with AI Tutoring**
-  Tags: [intelligent-tutoring, equity, engagement-metrics, k-12, ai-literacy, student-experience]
+  Tags: [intelligent-tutoring, equity, engagement-metrics, k-12, ai-literacy, student-experience, rct]
 
 - ● [[agency-gap-ai-writing]] — raw/papers/caeai-2026-agency-gap-ai-writing.md
   **The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning**
@@ -62,7 +62,7 @@
 
 - ● [[genai-can-harm-teaching-rct-2026]] — raw/papers/genai-can-harm-teaching-rct-2026.md
   **Generative AI Can Harm Teaching**
-  Tags: [faculty-development, teacher-role, generative-ai, k-12, student-experience, cognitive-offloading, over-reliance]
+  Tags: [faculty-development, teacher-role, generative-ai, k-12, student-experience, cognitive-offloading, over-reliance, rct]
 
 - ● [[genai-expertise-pathways-sysadmin]] — raw/papers/2607.28650.md
   **Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration**
@@ -90,7 +90,7 @@
 
 - ● [[lets-chat-chatbot-outreach-2026]] — raw/papers/lets-chat-chatbot-outreach-2026.md
   **Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance**
-  Tags: [higher-ed, student-experience, generative-ai, engagement-metrics]
+  Tags: [higher-ed, student-experience, generative-ai, engagement-metrics, rct]
 
 - ● [[llm-facilitation-timing-online-discussions]] — raw/papers/2607.28643.md
   **To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions**
@@ -472,7 +472,7 @@
 
 - ● [[generative-ai-guardrails-harm-learning]] — raw/papers/pnas-2025-guardrails-harm-learning.md
   **Generative AI without guardrails can harm learning: Evidence from high school mathematics**
-  Tags: [generative-ai, over-reliance, stem-education, k-12, RCT, learning-gains, intelligent-tutoring, scaffolding]
+  Tags: [generative-ai, over-reliance, stem-education, k-12, rct, learning-gains, intelligent-tutoring, scaffolding]
 
 - ● [[moral-panic-genai-classroom]] — raw/papers/tandf-2026-moral-panic-genai.md
   **Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption**
@@ -784,7 +784,7 @@
 
 - ◐ [[adaptive-pretesting-retention]] — raw/papers/2606.22328.md
   **Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study**
-  Tags: ["RCT", "adaptive-learning", "formative-assessment", "learning-gains", "higher-ed"]
+  Tags: ["rct", "adaptive-learning", "formative-assessment", "learning-gains", "higher-ed"]
 
 - ◐ [[ai-interlocutor-l2-spoken-dialogue]] — raw/papers/2606.22225.md
   **What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue**
@@ -792,7 +792,7 @@
 
 - ◐ [[at-risk-students-ml-prediction]] — raw/papers/2606.20617.md
   **Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms**
-  Tags: ["learning-analytics", "higher-ed", "dropout-reduction", "student-modeling", "RCT"]
+  Tags: ["learning-analytics", "higher-ed", "dropout-reduction", "student-modeling", "rct"]
 
 - ○ [[bridging-instructional-design-framework-math]] — raw/papers/2606.20934.md
   **WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators**
@@ -1096,7 +1096,7 @@
 
 - ● [[ai-assistance-discretionary-feedback]] — raw/papers/2606.03095.md
   **AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education**
-  Tags: ['automated-grading', 'feedback-loop', 'higher-ed', 'llm', 'teacher-role', 'RCT', 'efficacy-study']
+  Tags: ['automated-grading', 'feedback-loop', 'higher-ed', 'llm', 'teacher-role', 'rct', 'efficacy-study']
 
 - ● [[teacher-authored-prompts-student-ai-dialogue]] — raw/papers/2604.16738.md
   **Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation**
@@ -1222,7 +1222,7 @@
 
 - ● [[ai-assistance-reduces-persistence]] — arxiv:2604.04721
   **AI Assistance Reduces Persistence and Hurts Independent Performance**
-  Tags: [over-reliance, cognitive-offloading, student-experience, educational-theory, RCT, efficacy-study, generative-ai, metacognition, scaffolding]
+  Tags: [over-reliance, cognitive-offloading, student-experience, educational-theory, rct, efficacy-study, generative-ai, metacognition, scaffolding]
 
 - ● [[genai-minoritized-knowledges-disability]] — raw/papers/2605.26769.md
   **Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability**
@@ -1332,7 +1332,7 @@
 
 - ● [[ai-changing-teaching-workflows]] — raw/articles/ai-changing-teaching-workflows-2026-05-21.md
   **How AI Is Changing Teaching Workflows**
-  Tags: [generative-ai, teacher-role, faculty-development, efficacy-study, RCT, k-12, higher-ed, student-experience, equity, ai-literacy, formative-assessment, learning-analytics, feedback-loop]
+  Tags: [generative-ai, teacher-role, faculty-development, efficacy-study, rct, k-12, higher-ed, student-experience, equity, ai-literacy, formative-assessment, learning-analytics, feedback-loop]
 
 - ◐ [[ai-lifelong-learning-policy]] — raw/papers/2605.16296.md
   **Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy**
@@ -1720,7 +1720,7 @@
 
 - ● [[genai-policy-prompting-rct]] — 2602.16033
   **Transforming GenAI Policy to Prompting Instruction (RCT)**
-  Tags: [ai-literacy, k-12, RCT, regulation, "faculty-development"]
+  Tags: [ai-literacy, k-12, rct, regulation, "faculty-development"]
 
 - ● [[generate-then-validate-question-gen]] — 2512.10110
   **Generate-Then-Validate: Question Generation for Education**
@@ -1794,7 +1794,7 @@
 
 - ◐ [[ai-k12-evidence-base]] — raw/papers/stanford-evidence-base-ai-k12-2026.md
   **AI in K-12 Evidence Base**
-  Tags: [k-12, RCT, efficacy-study, learning-gains, llm, adaptive-learning]
+  Tags: [k-12, rct, efficacy-study, learning-gains, llm, adaptive-learning]
 
 - ◐ [[ai-learning-transfer]] — raw/papers/stanford-evidence-base-ai-k12-2026.md
   **AI Learning Transfer**
@@ -1908,7 +1908,7 @@
 
 - ● [[genai-meta-analysis-programming-learning]] — raw/papers/2605.04779.md
   **A meta-analysis of the effect of generative AI on productivity and learning in programming**
-  Tags: [RCT, efficacy-study, generative-ai, higher-ed, learning-gains, meta-analysis]
+  Tags: [rct, efficacy-study, generative-ai, higher-ed, learning-gains, meta-analysis]
 
 ## 2026-05-05
 

@@ -7,6 +7,8 @@ tags: [equity]
 sources: []
 confidence: low
 ---
+> **Equity** in AI education spans access, bias, and representation: [[ai-literacy-equity-programming-policy]], [[genai-minoritized-knowledges-disability]], [[cross-cultural-student-perceptions-genai-computing]], and [[llm-cultural-relevance-k12]] document how AI can both narrow and widen gaps, with inclusion requiring deliberate design ([[digital-divide]], [[bias-mitigation]]).
+
 
 
 # Equity

@@ -7,6 +7,8 @@ tags: [pedagogy, active-learning, higher-ed]
 sources: []
 confidence: low
 ---
+> **Active learning** pedagogy — students constructing understanding through doing and discussing rather than receiving — is tested against AI in [[forap-pjbl-computing-education]], [[q-learning-lab-rl-teaching]], and [[epistemic-emotions-collaborative-problem-solving]], where agentic AI can either amplify or crowd out productive struggle ([[collaborative-learning]]).
+
 
 
 # Active Learning

@@ -7,6 +7,8 @@ tags: [learning-gains]
 sources: []
 confidence: low
 ---
+> **Learning gains** — the outcome measure that anchors the wiki's efficacy evidence — appear across [[ai-tutor-effectiveness-review]], [[genai-meta-analysis-programming-learning]], [[retrieval-augmented-tutoring-algorithm-kite]], and [[efficacy-study]]: gains are consistently positive but heterogeneous, moderated by scaffolding, context, and learner characteristics ([[RCT]], [[learning-outcomes]]).
+
 
 
 # Learning Gains

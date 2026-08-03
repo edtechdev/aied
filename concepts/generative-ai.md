@@ -7,6 +7,8 @@ tags: [generative-ai]
 sources: []
 confidence: low
 ---
+> **Generative AI** — LLMs and multimodal models — is the wiki's central technology subject, spanning [[chatgpt-feedback-engagement-genai]], [[genai-performance-vs-learning]], [[genai-policies-higher-ed-computing]], and [[structrag-diagram-reasoning-ai-tutoring]]: the corpus converges on capability being real but pedagogical framing deciding outcomes ([[llm]], [[ai-literacy]]).
+
 
 
 # Generative Ai

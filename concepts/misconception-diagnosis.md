@@ -7,6 +7,8 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Misconception diagnosis** — identifying and repairing learner misunderstandings — is advanced by LLMs in [[llm-student-misconception-identification]], [[llm-misconception-difficulty-easy-trap]], [[student-misconceptions-conditionals-loops-taxonomy]], and [[llm-student-simulation-misconception-faithfulness]]: models can detect and even simulate misconceptions, but fidelity and difficulty calibration remain challenges ([[knowledge-tracing]], [[student-modeling]]).
+
 
 
 # Misconception Diagnosis

@@ -7,6 +7,8 @@ tags: [assessment]
 sources: []
 confidence: low
 ---
+> **Assessment** in the wiki spans the full AI-era spectrum: [[formative-assessment]], [[automated-grading]], [[authentic-assessment]], and [[assessment-validity]] — with the emerging consensus that AI shifts assessment from product to process ([[authentic-products-authenticated-processes-2026]], [[beyond-detection-authentic-assessment-ai-2025]]).
+
 
 
 # Assessment

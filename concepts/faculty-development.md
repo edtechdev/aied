@@ -7,6 +7,8 @@ tags: [faculty-development]
 sources: []
 confidence: low
 ---
+> **Faculty development** for the AI era is the wiki's clearest implementation story: [[every-learner-faculty-development-genai-playbook-2025]], [[ai-tpack-preservice-math-teachers]], [[teacher-ai-competency]], and [[ai-changing-teaching-workflows]] show that teachers need structured, ongoing training — not tool access alone — and that AI support tools can backfire without it ([[genai-can-harm-teaching-rct-2026]], [[teacher-role]]).
+
 
 
 # Faculty Development

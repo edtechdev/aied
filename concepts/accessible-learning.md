@@ -7,6 +7,8 @@ tags: [accessible-learning]
 sources: []
 confidence: low
 ---
+> **Accessible learning** — designing instruction for the full range of learners including those with disabilities — appears in the wiki via [[tactile-statistical-graphs-accessibility]], [[dyslexlens-dyslexic-learners-ai]], [[embodied-string-learning-blindness-low-vision-musicians]], and [[special-education-ai]], with AI offering both assistive opportunity and new exclusion risks ([[equity]]).
+
 
 
 # Accessible Learning

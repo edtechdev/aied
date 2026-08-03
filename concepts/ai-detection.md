@@ -7,6 +7,8 @@ tags: [ai-detection, academic-integrity, plagiarism-detection]
 sources: []
 confidence: low
 ---
+> **AI-detection** — identifying machine-generated student work — is critiqued across the wiki: [[llm-detecting-llm-generated-content-education]], [[socially-fluent-ai-identity-detection]], and [[beyond-detection-authentic-assessment-ai-2025]] argue detection is unreliable and misdirected, favoring process-transparent [[authentic-assessment]] and [[academic-integrity]] redesign.
+
 
 
 # AI Detection in Education

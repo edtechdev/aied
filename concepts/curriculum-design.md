@@ -7,6 +7,8 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Curriculum design** for the AI era is discussed in [[curriculum-design-ai]], [[prompt-based-programming-lesson]], [[ase-26-agentic-software-engineering-curriculum]], and [[genai-architecture-education]]: curricula must embed AI literacy and agentic skills while preserving foundational knowledge ([[instructional-design]], [[educational-theory]]).
+
 
 # Curriculum Design
 ## Related Pages
