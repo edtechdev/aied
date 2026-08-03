@@ -3,7 +3,7 @@ title: Personalized Learning
 created: 2026-05-07
 updated: 2026-07-27
 type: concept
-tags: [personalized-learning, tutoring, adaptive-learning, ai-education]
+tags: [personalized-learning, "intelligent-tutoring", adaptive-learning, ai-education]
 sources: [raw/papers/ma-deeptutor-agentic-personalized-tutoring-2026.md, raw/papers/yu-maic-mooc-llm-agents-2024.md, raw/papers/nie-personavlm-long-term-personalization-2026.md]
 confidence: medium
 ---

@@ -3,7 +3,7 @@ title: "Artificial Intelligence in Lifelong Learning: Opportunities and Challeng
 created: 2026-05-21
 updated: 2026-05-21
 type: concept
-tags: [lifelong-learning, policy-maker, equity, digital-divide, intelligent-tutoring, ai-literacy, learning-analytics, bias-mitigation]
+tags: [lifelong-learning, policy-maker, equity, intelligent-tutoring, ai-literacy, learning-analytics, bias-mitigation]
 sources: [raw/papers/2605.16296.md]
 confidence: medium
 ---

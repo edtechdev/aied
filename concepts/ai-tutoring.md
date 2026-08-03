@@ -3,7 +3,7 @@ title: "AI Tutoring"
 created: "2026-08-01"
 updated: "2026-08-01"
 type: concept
-tags: [ai-tutoring, intelligent-tutoring, generative-ai, llm, scaffolding, feedback-loop]
+tags: [intelligent-tutoring, generative-ai, llm, scaffolding, feedback-loop]
 sources: []
 confidence: high
 ---

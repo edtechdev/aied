@@ -3,7 +3,7 @@ title: "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
-tags: ['ai-literacy', 'higher-ed', 'curriculum', 'ethics']
+tags: ['ai-literacy', 'higher-ed', '"curriculum-design"', 'ethics']
 sources: [raw/papers/2606.00038.md]
 confidence: high
 ---

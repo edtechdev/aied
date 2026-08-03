@@ -3,7 +3,7 @@ title: "LLMs for Culturally Relevant K-12 Pedagogy"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [culturally-sustaining-pedagogy, k-12, llm-pedagogy, equity, faculty-development, curriculum-design]
+tags: [culturally-sustaining-pedagogy, k-12, "pedagogy", equity, faculty-development, curriculum-design]
 sources: [2505.08083]
 confidence: high
 ---

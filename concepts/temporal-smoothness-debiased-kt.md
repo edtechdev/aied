@@ -3,7 +3,7 @@ title: Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 created: 2026-05-13
 updated: 2026-05-13
 type: concept
-tags: ["knowledge-tracing-irt", "learning-analytics", "personalized-learning", "intelligent-tutoring"]
+tags: ["knowledge-tracing", "learning-analytics", "personalized-learning", "intelligent-tutoring"]
 sources: [raw/papers/2605.05958.md]
 confidence: medium
 ---

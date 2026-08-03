@@ -3,7 +3,7 @@ title: "VETTING: A dual-LLM framework for in-loop safety verification via policy
 created: 2026-08-01
 updated: 2026-08-01
 type: concept
-tags: [ai-tutor-safety-harms, k-12, llm, pedagogical-safety, generative-ai]
+tags: [pedagogical-safety, k-12, llm, generative-ai]
 sources: ["raw/articles/caeai-vetting-safety.md"]
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: Pedagogical Safety in Educational Reinforcement Learning
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcement-learning, ai-tutor-safety-harms]
+tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcement-learning]
 sources: [raw/papers/2604.04237.md]
 confidence: medium
 ---
