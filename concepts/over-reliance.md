@@ -80,3 +80,6 @@ Student and faculty over-reliance on AI tools in education
 - [[chatgpt-impact-high-school-tests]] — Real-world student AI over-reliance patterns- [[digital-literacy-illusion]] — Digital literacy illusion — students overestimate AI detection skills
 - [[llm-reasoning-traces-metacognition]] — LLM reasoning traces increase overconfidence without improving performance
 - [[agents-that-teach-incidental-learning]] — Skill atrophy and Knowledge Debt from agentic coding over-reliance
+- [[scaffolding-critical-engagement-genai-minority-students]]
+- [[genai-expertise-pathways-sysadmin]]
+- [[cognitive-commons-ai-expertise-regeneration]]

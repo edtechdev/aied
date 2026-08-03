@@ -68,3 +68,4 @@ Intelligent tutoring systems and AI-driven tutoring agents in education
 - [[guided-llm-scaffolding-statistics]] — Amanlou et al. (2026)
 - [[ai-fallibility-warning-help-seeking]] — Nagashima et al. (2026)
 - [[cstutorbench-slm-tutors]] — Pedagogical rubric for tutor evaluation
+- [[socratic-tests-conversational-assessment]]

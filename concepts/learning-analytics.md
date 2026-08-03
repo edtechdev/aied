@@ -53,3 +53,8 @@ confidence: low
 - [[affective-text-wearable-student-health]] — Affective text mining for student well-being analytics from wearable data
 - [[aicode-collaborative-feedback-system]] — Educator dashboards for AI feedback curation
 - [[debugtracker-classroom-debugging]] — IDE event logs for debugging analytics
+- [[hypergamification-game-engine-lms]]
+- [[structured-ai-demonstrations-engineering-mechanics]]
+- [[icap-cognitive-engagement-llm-agents]]
+- [[savvy-student-attention-video-learning]]
+- [[llm-facilitation-timing-online-discussions]]

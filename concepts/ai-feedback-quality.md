@@ -24,3 +24,4 @@ confidence: low
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
 - [[teaching-feedback-classification-benchmark]] — Feedback quality benchmarking (2026-07-14)
 - [[repeated-ai-writing-feedback-semester]] — Longitudinal evidence that AI writing feedback is usually rated helpful but decays in perceived value.
+- [[agreement-not-quality-llm-coding-verification]]

@@ -21,3 +21,4 @@ confidence: low
 - [[llm-intervention-design-cs-review]]
 - [[genai-mindtool-generative-learning]]
 - [[ml-literacy-primary-education]]
+- [[connected-ai-lesson-planning-vietnam]]

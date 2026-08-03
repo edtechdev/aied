@@ -22,6 +22,7 @@ Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered Network Analysis to t
 - [[collaborative-learning]]
 - [[affective-text-wearable-student-health]]
 - [[engagement-assessment-video]]
+- [[icap-cognitive-engagement-llm-agents]]
 
 ## Citation
 

@@ -92,3 +92,6 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 - [[ai-fallibility-warning-help-seeking]] — Nagashima et al. (2026)
 - [[teacher-authored-prompts-student-ai-dialogue]] — Prompt design as cognitive scaffolding lever
 - [[prompt-coach-agentic-tutor-prompt-engineering]] — Socratic guidance inside the IDE
+- [[socratic-tests-conversational-assessment]]
+- [[structured-ai-demonstrations-engineering-mechanics]]
+- [[scaffolding-critical-engagement-genai-minority-students]]

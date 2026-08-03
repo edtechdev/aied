@@ -24,3 +24,5 @@ confidence: low
 - [[genai-literacy-image-discrimination]] — GenAI literacy training for image discrimination
 - [[tech-enhanced-tabletop-cybersecurity-education]]
 - [[ai-vocational-education-training-review]]
+- [[genai-expertise-pathways-sysadmin]]
+- [[cognitive-commons-ai-expertise-regeneration]]

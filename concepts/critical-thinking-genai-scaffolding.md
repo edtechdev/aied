@@ -83,3 +83,4 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - [[sequenced-ai-feedback-learning]] — Cao et al. RCT confirms scaffolding design risk: sequenced feedback hurt learning despite positive perceptions
 -
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinki
+- [[scaffolding-critical-engagement-genai-minority-students]]

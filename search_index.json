@@ -349,6 +349,21 @@
     "url": "pages/agents-that-teach-incidental-learning.html"
   },
   {
+    "slug": "agreement-not-quality-llm-coding-verification",
+    "title": "\"Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth\"",
+    "tags": [
+      "llm",
+      "qualitative-research",
+      "k-12",
+      "teacher-role",
+      "ai-ed-evaluation",
+      "equity",
+      "research-methods"
+    ],
+    "content": "Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground TruthAlex Liu, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He, Min Sun \u2014 arXiv preprint (2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisThis study challenges the standard practice of evaluating LLM qualitative coding by agreement with human coders, using data from a K-12 AI platform: five LLM systems and three trained human coders applied a 72-item hierarchical code",
+    "url": "pages/agreement-not-quality-llm-coding-verification.html"
+  },
+  {
     "slug": "ai-adoption-training-public-sector",
     "title": "The Main Barrier to AI Adoption in the Public Sector is Lack of Training",
     "tags": [
@@ -1443,7 +1458,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Automated AssessmentThis is a stub page for the concept of automated assessment. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics\nhuman-vs-llm-ordered-coding",
+    "content": "Automated AssessmentThis is a stub page for the concept of automated assessment. It was created to resolve broken backlinks from other wiki pages.Related Pagesai-scoring-language-bias-physics\nhuman-vs-llm-ordered-coding\nsocratic-tests-conversational-assessment",
     "url": "pages/automated-assessment.html"
   },
   {
@@ -1868,6 +1883,21 @@
     "url": "pages/cognitive-agent-compilation.html"
   },
   {
+    "slug": "cognitive-commons-ai-expertise-regeneration",
+    "title": "\"The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise\"",
+    "tags": [
+      "generative-ai",
+      "professional-training",
+      "educational-theory",
+      "cognitive-offloading",
+      "lifelong-learning",
+      "over-reliance",
+      "policy-maker"
+    ],
+    "content": "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional ExpertiseNolan Lovett \u2014 Human Resource Development Review (author accepted manuscript, 2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisThis conceptual paper introduces the Cognitive Commons framework, integrating commons theory, HRD scholarship, and distributed cognition to explain how rational AI adoption decisions can deplete the shared expertise pool professions require for renewal.It distinguishes Internalized Mas",
+    "url": "pages/cognitive-commons-ai-expertise-regeneration.html"
+  },
+  {
     "slug": "cognitive-load-theory",
     "title": "\"Cognitive Load Theory\"",
     "tags": [
@@ -2104,6 +2134,21 @@
     ],
     "content": "Confidence-Aware Automatic Short Answer GradingThis is a stub page for \"Confidence-Aware Automatic Short Answer Grading\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
     "url": "pages/cong-confidence-asag-2026.html"
+  },
+  {
+    "slug": "connected-ai-lesson-planning-vietnam",
+    "title": "\"ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning\"",
+    "tags": [
+      "llm",
+      "generative-ai",
+      "k-12",
+      "curriculum-design",
+      "teacher-role",
+      "global-south",
+      "ai-generated-content"
+    ],
+    "content": "ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student LearningThang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy \u2014 arXiv preprint (2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisConnectED is a human-centered AI system supporting the full instructional lifecycle in Vietnamese education: curriculum-aligned lesson design, interactive student learning, and feedback-driven refinement, built on VietEduQwen, a Vietname",
+    "url": "pages/connected-ai-lesson-planning-vietnam.html"
   },
   {
     "slug": "constructing-epistemic-ai-literacy-student-ai-co-programming",
@@ -2406,7 +2451,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Curriculum Design\nAutomated stub.\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nai-literacy-continuum-higher-education\nai-adoption-training-public-sector",
+    "content": "Curriculum Design\nAutomated stub.\nRelated Pages\ntracing-genai-literacy-interaction-patterns\nguided-llm-scaffolding-independent-learning\nase-26-agentic-software-engineering-curriculum\nai-literacy-continuum-higher-education\nai-adoption-training-public-sector\nconnected-ai-lesson-planning-vietnam",
     "url": "pages/curriculum-design.html"
   },
   {
@@ -2721,7 +2766,7 @@
     "tags": [
       "educational-theory"
     ],
-    "content": "Educational TheoryThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ncritical-genai-use-predictors \u2014 Kuhn's epistemic orientation and intellectual values as predictors\npost-instrumental-learning-capacity-dissolution\nai-vocational-education-training-review",
+    "content": "Educational TheoryThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ncritical-genai-use-predictors \u2014 Kuhn's epistemic orientation and intellectual values as predictors\npost-instrumental-learning-capacity-dissolution\nai-vocational-education-training-review\nsocratic-tests-conversational-assessment\nhypergamification-game-engine-lms\ncognitive-commons-ai-expertise-regeneration",
     "url": "pages/educational-theory.html"
   },
   {
@@ -3283,6 +3328,20 @@
     "url": "pages/genai-declaration-frameworks-higher-education.html"
   },
   {
+    "slug": "genai-expertise-pathways-sysadmin",
+    "title": "Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration",
+    "tags": [
+      "generative-ai",
+      "professional-training",
+      "cognitive-offloading",
+      "over-reliance",
+      "lifelong-learning",
+      "human-in-the-loop"
+    ],
+    "content": "Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System AdministrationRana Abou Khamis, Hala Assal, Ashraf Matrawy \u2014 arXiv preprint (2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisDrawing on 14 semi-structured interviews with IT professionals, this study explores how GenAI integration reshapes professional practice in system administration \u2014 troubleshooting, scripting, and system verification.Two unanticipated socio-technical findings: 'compression of traditional ex",
+    "url": "pages/genai-expertise-pathways-sysadmin.html"
+  },
+  {
     "slug": "genai-impact-chinese-students-hss",
     "title": "\"The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences\"",
     "tags": [
@@ -3801,6 +3860,21 @@
     "url": "pages/human-in-the-loop.html"
   },
   {
+    "slug": "human-llm-collaborative-coding-k12-educator-ai",
+    "title": "Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use",
+    "tags": [
+      "llm",
+      "qualitative-research",
+      "k-12",
+      "teacher-role",
+      "ai-ed-evaluation",
+      "generative-ai",
+      "research-methods"
+    ],
+    "content": "Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI UseAlex Liu, Min Sun, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He \u2014 arXiv preprint (2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisA multi-phase human-LLM collaborative pipeline adapted open, axial, and selective coding to build a hierarchical codebook from 45,000 messages exchanged between K-12 educators and a generative AI platform \u2014 an instance of LLMs as analytic assistants at a scale manual coding cann",
+    "url": "pages/human-llm-collaborative-coding-k12-educator-ai.html"
+  },
+  {
     "slug": "human-vs-llm-ordered-coding",
     "title": "\"Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis\"",
     "tags": [
@@ -3851,6 +3925,33 @@
     ],
     "content": "Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student NeedsAshish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger (2026) \u2014 Carnegie Mellon University & collaborators. EDM'26.\ud83d\udcc4 Full text (arXiv)Key FindingsIn a large-scale quasi-experiment with 635 students (grades 5-8), hybrid human-AI tutoring produced substantial gains over AI-only tutoring: +25% time on task, +36% skil",
     "url": "pages/hybrid-human-ai-tutoring-differentiated.html"
+  },
+  {
+    "slug": "hypergamification-game-engine-lms",
+    "title": "\"Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game\"",
+    "tags": [
+      "edtech-platform",
+      "active-learning",
+      "engagement-metrics",
+      "blended-learning",
+      "k-12"
+    ],
+    "content": "Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's GameAraz Yusubov, Michael Bechtel, Tangiz Alizada \u2014 arXiv preprint (2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisThe paper proposes 'hypergamification': using a comprehensive game environment generated from LMS content rather than bolting isolated game design elements onto a course. The key architectural idea is bidirectional integration \u2014 the game world is built from the LMS's actual learning content, and player a",
+    "url": "pages/hypergamification-game-engine-lms.html"
+  },
+  {
+    "slug": "icap-cognitive-engagement-llm-agents",
+    "title": "\"Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents\"",
+    "tags": [
+      "llm",
+      "collaborative-learning",
+      "learning-analytics",
+      "student-ai-interaction",
+      "nlp-education",
+      "collaborative-ai-tutoring"
+    ],
+    "content": "Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM AgentsLan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas \u2014 CogSci 2026 (accepted full paper).\n\ud83d\udcc4 Full text (arXiv)SynthesisThis study applies an extended 7-point ICAP framework (Interactive, Constructive, Active, Passive) to characterize cognitive engagement in collaborative dialogue, comparing trained human annotators with LLM-base",
+    "url": "pages/icap-cognitive-engagement-llm-agents.html"
   },
   {
     "slug": "icle-plus-plus-essay-scoring",
@@ -4200,7 +4301,7 @@
     "slug": "learning-analytics-dashboards",
     "title": "\"Learning Analytics Dashboards\"",
     "tags": [],
-    "content": "Learning Analytics DashboardsStub page \u2014 created as a back-link target.Related Pagessurfacing-isolated-learners \u2014 links here",
+    "content": "Learning Analytics DashboardsStub page \u2014 created as a back-link target.Related Pagessurfacing-isolated-learners \u2014 links here\nsavvy-student-attention-video-learning",
     "url": "pages/learning-analytics-dashboards.html"
   },
   {
@@ -4347,7 +4448,7 @@
       "personalized-learning",
       "professional-training"
     ],
-    "content": "Lifelong Learning and AI> Stub \u2014 pending source ingestion. Lifelong learning and AI support for continuous education beyond formal schooling.ConnectionsRelated Pages\nai-lifelong-learning-policycommunity-centered-ai-education-adults \u2014 Community AI Education for Adults\nconversational-ai-informal-learning",
+    "content": "Lifelong Learning and AI> Stub \u2014 pending source ingestion. Lifelong learning and AI support for continuous education beyond formal schooling.ConnectionsRelated Pages\nai-lifelong-learning-policycommunity-centered-ai-education-adults \u2014 Community AI Education for Adults\nconversational-ai-informal-learning\ngenai-expertise-pathways-sysadmin\ncognitive-commons-ai-expertise-regeneration",
     "url": "pages/lifelong-learning.html"
   },
   {
@@ -4490,6 +4591,20 @@
     "tags": [],
     "content": "Llm EvaluationThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\nllm-judged-helpfulness-pedagogy-signal",
     "url": "pages/llm-evaluation.html"
+  },
+  {
+    "slug": "llm-facilitation-timing-online-discussions",
+    "title": "\"To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions\"",
+    "tags": [
+      "llm",
+      "collaborative-learning",
+      "student-ai-interaction",
+      "engagement-metrics",
+      "nlp-education",
+      "human-in-the-loop"
+    ],
+    "content": "To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online DiscussionsDimitris Tsirmpas, Katerina Korre, John Pavlopoulos \u2014 arXiv preprint (2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisThis study asks when (not just how) LLMs should facilitate online discussions, creating PEFK, a corpus standardizing and aggregating facilitation datasets, and running the first survey on facilitation timing with expert facilitators and LLM-as-a-judge models.Key asymmetry: humans are more cautious wh",
+    "url": "pages/llm-facilitation-timing-online-discussions.html"
   },
   {
     "slug": "llm-fallacy-misattribution",
@@ -5070,7 +5185,7 @@
     "tags": [
       "multilingual-learning"
     ],
-    "content": "Multilingual LearningThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\niks-instruct-dataset-indian-knowledge\nai-scoring-language-bias-physics",
+    "content": "Multilingual LearningThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\niks-instruct-dataset-indian-knowledge\nai-scoring-language-bias-physics\nscaffolding-critical-engagement-genai-minority-students\nconnected-ai-lesson-planning-vietnam",
     "url": "pages/multilingual-learning.html"
   },
   {
@@ -5151,7 +5266,7 @@
     "tags": [
       "multimodal"
     ],
-    "content": "MultimodalStub page \u2014 full synthesis pending.Related Pages\nslidesqaqa-pedagogical-question-generation \u2014 joint text+visual reasoning for slide-based question generation\nanvil-ai-educational-animations\nmultimodal-prompting-ai-literacy",
+    "content": "MultimodalStub page \u2014 full synthesis pending.Related Pages\nslidesqaqa-pedagogical-question-generation \u2014 joint text+visual reasoning for slide-based question generation\nanvil-ai-educational-animations\nmultimodal-prompting-ai-literacy\nsavvy-student-attention-video-learning",
     "url": "pages/multimodal.html"
   },
   {
@@ -5548,7 +5663,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review\nmultimodal-prompting-ai-literacy\nsame-ai-different-pathways",
+    "content": "Prompt EngineeringThis is a stub page for the concept of prompt engineering. It was created to resolve broken backlinks from other wiki pages.Related Pagesllm-intervention-design-cs-review\nmultimodal-prompting-ai-literacy\nsame-ai-different-pathways\nscaffolding-critical-engagement-genai-minority-students",
     "url": "pages/prompt-engineering.html"
   },
   {
@@ -5845,6 +5960,35 @@
     "url": "pages/same-ai-different-pathways.html"
   },
   {
+    "slug": "savvy-student-attention-video-learning",
+    "title": "\"SAVVY: Student Attention Visualization for Video-based Learning Analysis\"",
+    "tags": [
+      "learning-analytics",
+      "multimodal",
+      "student-experience",
+      "engagement-metrics",
+      "higher-ed",
+      "edtech-platform"
+    ],
+    "content": "SAVVY: Student Attention Visualization for Video-based Learning AnalysisShixian Zhou, Minghuan Shen, Xiaolin Wen, Zijun Qiu, Yongliang Jiang, Xiangyang Wu, Fei Wu, Yong Wang, Zhiguang Zhou \u2014 arXiv preprint (2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisSAVVY is an interactive visual analytics system for video-based learning that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos.A novel atten",
+    "url": "pages/savvy-student-attention-video-learning.html"
+  },
+  {
+    "slug": "scaffolding-critical-engagement-genai-minority-students",
+    "title": "\"Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks\"",
+    "tags": [
+      "generative-ai",
+      "scaffolding",
+      "equity",
+      "multilingual-learning",
+      "prompt-engineering",
+      "ai-literacy",
+      "k-12"
+    ],
+    "content": "Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering TasksDeliang Wang, Cunling Bian \u2014 AIED 2026 (accepted full paper).\n\ud83d\udcc4 Full text (arXiv)SynthesisA three-week GenAI course for 78 ethnic minority preparatory students in China integrated a human-in-the-loop workflow and teacher modeling with contrasting cases to move students from passive consumption to critical co-creation with GenAI.Using epistemic network ",
+    "url": "pages/scaffolding-critical-engagement-genai-minority-students.html"
+  },
+  {
     "slug": "scaffolding",
     "title": "Scaffolding",
     "tags": [
@@ -6096,6 +6240,21 @@
     "url": "pages/socratic-questioning.html"
   },
   {
+    "slug": "socratic-tests-conversational-assessment",
+    "title": "\"The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations\"",
+    "tags": [
+      "llm",
+      "generative-ai",
+      "assessment",
+      "automated-assessment",
+      "assessment-validity",
+      "scaffolding",
+      "educational-theory"
+    ],
+    "content": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational ExaminationsIlya Mikhelson \u2014 Submitted to Computers and Education: Artificial Intelligence (2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisThe Socratic Test is an automated, computer-mediated conversational assessment that replaces static, deficit-based grading with a dynamic, additive model. It integrates Dynamic Assessment principles, multimodal workspaces, Bloom's Taxonomy for real-time proctoring, and the SOLO Taxonomy for",
+    "url": "pages/socratic-tests-conversational-assessment.html"
+  },
+  {
     "slug": "socraticode-k12-programming-tutor",
     "title": "\"Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study\"",
     "tags": [
@@ -6231,6 +6390,21 @@
     ],
     "content": "Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM educationYicheng Sun, Yihan Liao & Xiaoxue Ma (2026) \u2014 Smart Learning Environments (Springer), Article in Press. Open Access, CC BY 4.0. doi:10.1186/s40561-026-00459-9.\ud83d\udcc4 Full text (Springer, OA) \u00b7 StructRAG code & prompt templates (GitHub)SummaryPresents StructRAG, a pattern-aware framework that improves how AI tutoring systems interpret complex engineering diagrams (circuit schematics, network topologies, b",
     "url": "pages/structrag-diagram-reasoning-ai-tutoring.html"
+  },
+  {
+    "slug": "structured-ai-demonstrations-engineering-mechanics",
+    "title": "\"Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results\"",
+    "tags": [
+      "llm",
+      "stem-education",
+      "higher-ed",
+      "student-experience",
+      "teacher-role",
+      "scaffolding",
+      "efficacy-study"
+    ],
+    "content": "Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary ResultsShuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, Emma Lejeune \u2014 arXiv preprint (2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisThis descriptive study documents student LLM use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of domain-specific empirical evidence for pedagogical policy in engineering education.The ",
+    "url": "pages/structured-ai-demonstrations-engineering-mechanics.html"
   },
   {
     "slug": "structured-llm-feedback-programming",
@@ -6499,7 +6673,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Teacher Ai CollaborationThis is a stub page for the concept of teacher ai collaboration. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Teacher Ai CollaborationThis is a stub page for the concept of teacher ai collaboration. It was created to resolve broken backlinks from other wiki pages.Related Pagesagreement-not-quality-llm-coding-verification\nhuman-llm-collaborative-coding-k12-educator-ai\nconnected-ai-lesson-planning-vietnam",
     "url": "pages/teacher-ai-collaboration.html"
   },
   {
@@ -6962,7 +7136,7 @@
     "tags": [
       "stub"
     ],
-    "content": "Zone Of Proximal DevelopmentThis is a stub page for the concept of zone of proximal development. It was created to resolve broken backlinks from other wiki pages.Related Pages",
+    "content": "Zone Of Proximal DevelopmentThis is a stub page for the concept of zone of proximal development. It was created to resolve broken backlinks from other wiki pages.Related Pagessocratic-tests-conversational-assessment",
     "url": "pages/zone-of-proximal-development.html"
   }
 ]

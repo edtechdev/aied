@@ -18,3 +18,4 @@ Stub page for cross-referencing.
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in St
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable
 - [[llm-tts-dialogue-lesson-generation]] - LLM-generated lesson material
+- [[connected-ai-lesson-planning-vietnam]]

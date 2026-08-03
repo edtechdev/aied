@@ -1795,3 +1795,29 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - **CAEAI** → [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations with a hybrid Graph-GRU framework.
 - **CAEAI** → [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts.
 - **CAEAI** → [[ml-literacy-primary-education]] — Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design.
+
+## [2026-08-03] ingest | 12-paper arXiv scan batch (cs.CY + cs.HC listing pages)
+- Window: 2026-07-31 → 2026-08-03 (last scan anchor 2026-07-30)
+- Source status: arXiv cs.CY ✓ 20+14 (listing pages, API 429) | cs.HC ✓ 30+20 (listing pages, API 429) | Semantic Scholar ✓ 1 (out-of-window May 2026, skipped) | OpenAlex ✓ 10 (all future-dated Dec-2026 placeholders, 0 in-window)
+- Ingested 12 papers (all new, none previously in wiki):
+  - socratic-tests-conversational-assessment (arXiv:2607.29624) — Socratic Tests: dynamic multimodal conversational assessment; additive grading, ZPD quantification
+  - hypergamification-game-engine-lms (arXiv:2607.29300) — hypergamification: game env generated from LMS content; Unity/Blackboard pilot
+  - structured-ai-demonstrations-engineering-mechanics (arXiv:2607.28710) — 9 structured AI demos + student LLM use survey in engineering mechanics
+  - scaffolding-critical-engagement-genai-minority-students (arXiv:2607.28630) — 78 ethnic minority prep students; scaffolded prompt engineering shifts copying to critical co-creation
+  - icap-cognitive-engagement-llm-agents (arXiv:2607.28651) — ICAP engagement coding: human kappa 0.91-1.00 vs ICL LLM 0.54-0.61
+  - savvy-student-attention-video-learning (arXiv:2607.29413) — multimodal brain-signal attention tracking for video-based learning analytics
+  - agreement-not-quality-llm-coding-verification (arXiv:2607.28890) — blind expert verification: human-LLM coding quality indistinguishable despite low agreement (Jaccard 0.30)
+  - human-llm-collaborative-coding-k12-educator-ai (arXiv:2607.28889) — 45k educator messages → 72-item codebook via human-LLM inductive coding
+  - genai-expertise-pathways-sysadmin (arXiv:2607.28650) — GenAI compresses expertise pathways + performance-perception shift in sysadmin work
+  - connected-ai-lesson-planning-vietnam (arXiv:2607.28647) — VietEduQwen LLM; 87.02% on national exam; ADDIE-based lesson planning
+  - llm-facilitation-timing-online-discussions (arXiv:2607.28643) — PEFK corpus; LLMs over-eager to facilitate vs cautious humans
+  - cognitive-commons-ai-expertise-regeneration (arXiv:2607.29380) — Cognitive Commons framework; AI depletes shared professional expertise pool
+- Skipped (not AIED): 2607.29113 (word-learning co-design w/ DLD children, no AI), 2607.27863 (CS1 creative task cards, no AI)
+- Index: 570 → 582 pages; 88 back-links added across 58 target pages
+- Raw: raw/papers/2607.*.md with sha256 in frontmatter
+
+## [2026-08-03] meta | scan-complete
+- Window: 2026-07-31 → 2026-08-03
+- Source status: arXiv cs.CY ✓ (34 via listing pages) | cs.HC ✓ (50 via listing pages) | Semantic Scholar ✓ 1 (0 in-window) | OpenAlex ✓ 10 (0 in-window, future-dated placeholders)
+- Ingested 12 papers; 6 already in wiki (skipped: 2607.28179, 2607.28041, 2607.27586, 2607.28128, 2607.27547, 2607.28203); 2 not relevant
+- Wiki pages: 582

@@ -51,3 +51,4 @@ AI applications in science, technology, engineering, and mathematics education
 - [[tech-enhanced-tabletop-cybersecurity-education]]
 - [[genai-runaway-object-math-higher-ed]]
 - [[ai-tpack-preservice-math-teachers]]
+- [[structured-ai-demonstrations-engineering-mechanics]]

@@ -61,6 +61,8 @@ For instructors, these results suggest that AI education should explicitly surfa
 - [[chatgpt-programming-education-text-mining]] — Student experience with AI in programming education
 - [[ai-higher-ed-bridge-gap]] — Higher education AI integration challenges
 - [[generativism-learning-theory]] — Generativism describes the fundamental cognitive shift AI brings to learning
+- [[genai-expertise-pathways-sysadmin]]
+- [[cognitive-commons-ai-expertise-regeneration]]
 
 ## Citation
 

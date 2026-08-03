@@ -69,6 +69,7 @@ Intelligent tutoring systems increasingly include **video components** (e.g., wo
 - [[engagement-intensity-learner-modeling]] -- Engagement intensity during AI ethics instruction serves as an effective learner...
 - [[epistemic-emotions-collaborative-problem-solving]] — Ordered Network Analysis reveals structured persistence and transition patterns of confusion and fru
 - [[adhd-video-segmentation-computing-education]] — Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p
+- [[savvy-student-attention-video-learning]]
 
 ## Sources
 - Leng et al. (2026). *EduGage: Methods and Dataset for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning*. arXiv:2605.01238. [PDF](https://arxiv.org/pdf/2605.01238)
