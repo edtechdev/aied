@@ -52,3 +52,4 @@ confidence: low
 - [[scaffolding-critical-engagement-genai-minority-students]]
 - [[agreement-not-quality-llm-coding-verification]]
 - [[human-llm-collaborative-coding-k12-educator-ai]]
+- [[responsible-assessment-ai-era-stanford-2026]] — Socioculturally responsible assessment in the AI era
