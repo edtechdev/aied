@@ -7,6 +7,8 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Jill Watson** — Georgia Tech's famous AI teaching assistant — appears in the wiki as the canonical case of human-like AI in higher education, informing analysis of [[humanlike-ai-collaborative-writing]], [[socially-fluent-ai-identity-detection]], and [[agentic-ai]] more broadly: anthropomorphic AI raises both engagement and deception questions.
+
 
 
 # Jill Watson

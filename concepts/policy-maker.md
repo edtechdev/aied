@@ -7,6 +7,8 @@ tags: [policy-maker]
 sources: []
 confidence: low
 ---
+> **Policy-maker** perspectives run through the wiki's governance corpus: [[state-policy-teacher-ai]], [[genai-policies-higher-ed-computing]], [[educational-policy-ai]], and [[regulation]] translate research findings into institutional and governmental guidance for AI use in education ([[ai-governance-education]], [[institutional-ai-readiness]]).
+
 
 
 # Policy Maker

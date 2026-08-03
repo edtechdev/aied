@@ -7,6 +7,8 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Isolated-learner detection** — identifying students disengaged from collaboration — is studied in [[surfacing-isolated-learners]], [[edumirror-educational-social-dynamics]], and [[engagement-forecasting-its]]: learning analytics can surface withdrawal patterns that teachers and AI tutors can then address ([[learning-analytics]], [[engagement-metrics]]).
+
 
 
 # Isolated Learner Detection

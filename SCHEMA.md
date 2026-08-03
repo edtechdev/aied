@@ -71,7 +71,7 @@ Canonical tag list (reconciled 2026-08-03: 23 near-duplicate tags consolidated; 
 - `ai-education`, `cs-education`, `math-education`, `physics-education`, `health-education`, `mooc`, `multilingual-learning`, `neurodiversity`, `accessible-learning`, `informal-learning`, `independent-learning`, `software-engineering`
 
 ### Research & Evaluation
-- `RCT`, `efficacy-study`, `benchmark`, `learning-gains`, `engagement-metrics`, `dropout-reduction`, `scoping-review`, `systematic-review`
+- `rct`, `efficacy-study`, `benchmark`, `learning-gains`, `engagement-metrics`, `dropout-reduction`, `scoping-review`, `systematic-review`
 - `ai-ed-evaluation`, `assessment-validity`, `literature-review`, `meta-analysis`, `survey`, `qualitative-research`, `research-methods`, `evidence`, `ground-truth-reliability-aied`
 
 ### Ethics & Policy

@@ -3,7 +3,7 @@ title: AI in K-12 Evidence Base
 created: 2026-05-07
 updated: 2026-05-22
 type: concept
-tags: [k-12, RCT, efficacy-study, learning-gains, llm, adaptive-learning]
+tags: [k-12, rct, efficacy-study, learning-gains, llm, adaptive-learning]
 confidence: medium
 sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md]
 ---

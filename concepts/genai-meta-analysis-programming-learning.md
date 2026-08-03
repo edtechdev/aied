@@ -3,7 +3,7 @@ title: A meta-analysis of the effect of generative AI on productivity and learni
 created: 2026-05-06
 updated: 2026-05-11
 type: concept
-tags: [RCT, efficacy-study, generative-ai, higher-ed, learning-gains, meta-analysis]
+tags: [rct, efficacy-study, generative-ai, higher-ed, learning-gains, meta-analysis]
 sources: [raw/papers/2605.04779.md]
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "AI Assistance for Discretionary Work: Increasing Feedback Provision in H
 created: 2026-06-04
 updated: 2026-06-04
 type: concept
-tags: ['automated-grading', 'feedback-loop', 'higher-ed', 'llm', 'teacher-role', 'RCT', 'efficacy-study']
+tags: ['automated-grading', 'feedback-loop', 'higher-ed', 'llm', 'teacher-role', 'rct', 'efficacy-study']
 sources: [raw/papers/2606.03095.md]
 confidence: high
 ---

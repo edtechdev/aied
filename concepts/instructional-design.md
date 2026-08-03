@@ -7,6 +7,8 @@ tags: [instructional-design]
 sources: []
 confidence: low
 ---
+> **Instructional design** for AI-enhanced learning is examined in [[multi-agent-instructional-design]], [[ai-pedagogical-accompaniment-amico]], [[prompt-coach-agentic-tutor-prompt-engineering]], and [[bridging-instructional-design-framework-math]]: design choices about scaffolding, feedback, and agency determine whether AI helps or hinders ([[curriculum-design]], [[educational-theory]]).
+
 
 
 # Instructional Design

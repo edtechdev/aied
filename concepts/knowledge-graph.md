@@ -7,6 +7,8 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Knowledge graphs** structure domain knowledge for AI tutoring: [[structrag-diagram-reasoning-ai-tutoring]], [[retrieval-augmented-tutoring-algorithm-kite]], and [[cold-start-knowledge-tracing-safeinsights]] use graph and relational structure to improve retrieval, tracing, and reasoning in educational AI ([[knowledge-tracing]], [[rag]]).
+
 
 
 # Knowledge Graph

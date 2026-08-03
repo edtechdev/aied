@@ -7,6 +7,8 @@ tags: [bias-mitigation, equity, ethics]
 sources: []
 confidence: low
 ---
+> **Bias mitigation** in educational AI requires auditing models across the pipeline: [[gender-bias-transfer-llm-writing]], [[ai-scoring-language-bias-physics]], [[llm-cultural-relevance-k12]], and [[inclusive-ai]] (merged into [[equity]]) document bias sources and mitigation strategies from data curation to prompt design.
+
 
 
 # Bias Mitigation

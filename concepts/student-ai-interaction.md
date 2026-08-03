@@ -7,6 +7,8 @@ tags: [student-ai-interaction]
 sources: []
 confidence: low
 ---
+> **Student-AI interaction** patterns are tracked across the wiki: [[learner-ai-interaction-patterns-oop]], [[genai-tutor-engagement-patterns]], [[students-llm-usage-critical-thinking]], and [[trust-reliance-ai-education-2026]] show that how students query, verify, and rely on AI determines learning outcomes ([[over-reliance]], [[ai-literacy]]).
+
 
 
 # Student Ai Interaction

@@ -7,6 +7,8 @@ tags: [knowledge-tracing]
 sources: []
 confidence: low
 ---
+> **Knowledge tracing** — modeling what learners know over time — is the wiki's richest modeling thread: [[stanbkt-bayesian-knowledge-tracing]], [[mbp-kt-meta-behavioral-knowledge-tracing]], [[neural-symbolic-knowledge-tracing]], [[explainable-probabilistic-kt]], and [[difficulty-aware-dialogue-kt]] advance Bayesian, deep, and hybrid models, now enhanced by LLMs ([[student-modeling]], [[educational-measurement]]).
+
 
 
 # Knowledge Tracing

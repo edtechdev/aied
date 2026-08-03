@@ -7,6 +7,8 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **AI-ed evaluation** covers how AI education tools are benchmarked and assessed — see [[cotal-formative-assessment-scoring-2026]], [[benchmark]], [[ground-truth-reliability-aied]], and [[teachbench-llm-teaching-evaluation]] — with recurring findings that evaluation must be domain-specific and reliability-aware, not headline-accuracy-driven.
+
 
 
 # Ai Ed Evaluation

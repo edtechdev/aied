@@ -7,6 +7,8 @@ tags: [cs-education]
 sources: []
 confidence: low
 ---
+> **CS education** with generative AI is covered extensively: [[reshaping-cs-education-genai]], [[code-review-genai-cs1]], [[commenting-copilot-student-code-specs]], and [[human-vs-llm-ordered-coding]] examine how LLM assistance changes learning of programming fundamentals, with scaffolding and assessment redesign as the key levers ([[computing-education]]).
+
 
 
 # Cs Education
