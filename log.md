@@ -15,6 +15,13 @@
      - 25 back-links across 20 pages; Index: 585 → 590; Journal: 447 entries
      - Deployed
 
+     ## [2026-08-03] update | Tag taxonomy reconciliation (round 2)
+     - Fixed generator parse_frontmatter to handle block-style `tags:`/`sources:` lists (6 pages were invisible to tag generation)
+     - Normalized 6 block-style pages to inline tags; mapped 11 off-taxonomy tags → canonical (agentic-workflows-education→agentic-ai; automated-question-generation→prompt-engineering; cognitive-diagnosis→knowledge-tracing; evidential-reasoning→critical-thinking; hallucination→hallucination-risk; handwritten-math→multimodal; llm-evaluation→ai-ed-evaluation; teacher-in-the-loop→human-in-the-loop; inclusive-ai→equity; persistence→student-experience; learning→educational-theory; automated-assessment→automated-grading)
+     - Unquoted 2 quoted-literal tags ("curriculum-design", "efficacy-study")
+     - Result: 122 tags in use = 122 tag pages = 122 canonical (SCHEMA 126 incl. 5 unused); stale tags/automated-assessment.html removed
+     - Deployed
+
      ## [2026-08-03] ingest | 6 PDF articles (AEHE feedback special issue + StructRAG)
      - Sources: 5 × Assessment & Evaluation in Higher Education 51(5) special issue on feedback & GenAI + 1 × Smart Learning Environments (Springer)
      - Raw saved: `raw/papers/tandf-2026-feedback-futures-genai.md`, `raw/papers/tandf-2026-chatgpt-feedback-engagement.md`, `raw/papers/tandf-2026-genai-teacher-feedback-comparison.md`, `raw/papers/tandf-2026-learner-centered-feedback-ai.md`, `raw/papers/tandf-2026-care-full-feedback-genai.md`, `raw/papers/sle-2026-structrag-diagram-reasoning.md`

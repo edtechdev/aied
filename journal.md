@@ -106,7 +106,7 @@
 
 - ● [[socratic-tests-conversational-assessment]] — raw/papers/2607.29624.md
   **The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations**
-  Tags: [llm, generative-ai, assessment, automated-assessment, assessment-validity, scaffolding, educational-theory]
+  Tags: [llm, generative-ai, assessment, automated-grading, assessment-validity, scaffolding, educational-theory]
 
 - ● [[structrag-diagram-reasoning-ai-tutoring]] — raw/papers/sle-2026-structrag-diagram-reasoning.md
   **Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education**
@@ -1118,7 +1118,7 @@
 
 - ● [[ai-literacy-continuum-higher-education]] — raw/papers/2606.00038.md
   **Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education**
-  Tags: ['ai-literacy', 'higher-ed', '"curriculum-design"', 'ethics', 'instructional-design', 'personalized-learning']
+  Tags: [ai-literacy, higher-ed, curriculum-design, ethics, instructional-design, personalized-learning]
 
 - ● [[guided-llm-scaffolding-statistics]] — raw/papers/2606.01375.md
   **Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics**
@@ -1132,7 +1132,7 @@
 
 - ● [[ai-adoption-training-public-sector]] — raw/papers/2606.01517.md
   **The Main Barrier to AI Adoption in the Public Sector is Lack of Training**
-  Tags: ['ai-literacy', 'public-sector', 'training-methodology', '"efficacy-study"', 'prompt-engineering']
+  Tags: [ai-literacy, public-sector, training-methodology, efficacy-study, prompt-engineering]
 
 - ● [[ase-26-agentic-software-engineering-curriculum]] — raw/papers/2606.01152.md
   **ASE-26: A Curriculum for Agentic Software Engineering as a Discipline**
@@ -1164,7 +1164,7 @@
 
 - ● [[llm-cognitive-diagnosis-handwritten-math]] — arxiv:2504.00843
   **Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work**
-  Tags: [llm-evaluation, cognitive-diagnosis, handwritten-math, benchmark, teacher-in-the-loop, evidential-reasoning, hallucination, k-12]
+  Tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-loop, critical-thinking, hallucination-risk, k-12]
 
 ## 2026-05-29
 
@@ -1226,19 +1226,19 @@
 
 - ● [[ai-assistance-reduces-persistence]] — arxiv:2604.04721
   **AI Assistance Reduces Persistence and Hurts Independent Performance**
-  Tags: [over-reliance, cognitive-offloading, persistence, learning, RCT, efficacy-study, generative-ai, student-experience, metacognition, scaffolding]
+  Tags: [over-reliance, cognitive-offloading, student-experience, educational-theory, RCT, efficacy-study, generative-ai, metacognition, scaffolding]
 
 - ● [[genai-minoritized-knowledges-disability]] — raw/papers/2605.26769.md
   **Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability**
-  Tags: [generative-ai, higher-ed, special-education, equity, bias-mitigation, inclusive-ai]
+  Tags: [generative-ai, higher-ed, special-education, equity, bias-mitigation]
 
 - ● [[persistent-ai-agents-academic-research]] — raw/papers/2605.26870.md
   **Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study**
-  Tags: [llm, generative-ai, higher-ed, agentic-workflows-education, faculty-development, learning-analytics]
+  Tags: [llm, generative-ai, higher-ed, agentic-ai, faculty-development, learning-analytics]
 
 - ● [[slidesqaqa-pedagogical-question-generation]] — raw/papers/2605.26428.md
   **Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation**
-  Tags: [automated-question-generation, generative-ai, llm, higher-ed, scaffolding, formative-assessment, multimodal]
+  Tags: [prompt-engineering, generative-ai, llm, higher-ed, scaffolding, formative-assessment, multimodal]
 
 - ● [[student-misconceptions-conditionals-loops-taxonomy]] — raw/papers/2605.26966.md
   **How Students (Mis)understand Conditionals and Loops -- A Taxonomy**

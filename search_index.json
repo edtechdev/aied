@@ -401,7 +401,7 @@
       "efficacy-study",
       "prompt-engineering"
     ],
-    "content": "The Main Barrier to AI Adoption in the Public Sector is Lack of Training\nVinicius Santana Gomes (2026) \u2014 arXiv:2606.01517.\ud83d\udcc4 Full text (arXiv)Through Brazilian government case studies, demonstrates that a four-layer pedagogical methodology (Literacy, Protocol, Prompt Engineering, Audit) is the key to productivity gains (up to 50%), rather than premium models. This work emphasizes that ai-literacy is a developmental capacity requiring structured scaffolding and prompt-engineering discipline. It co",
+    "content": "",
     "url": "pages/ai-adoption-training-public-sector.html"
   },
   {
@@ -477,8 +477,18 @@
   {
     "slug": "ai-assistance-reduces-persistence",
     "title": "\"AI Assistance Reduces Persistence and Hurts Independent Performance\"",
-    "tags": [],
-    "content": "AI Assistance Reduces Persistence and Hurts Independent PerformanceCore FindingThrough randomized controlled trials (N=1,222) across mathematical reasoning and reading comprehension tasks, Liu et al. provide causal evidence that brief AI assistance (~10 minutes) produces two harmful effects:1. Reduced persistence: Users give up more easily on difficult tasks after using AI\n2. Impaired unassisted performance: People perform significantly worse without AI after using itCrucially, AI does improve s",
+    "tags": [
+      "over-reliance",
+      "cognitive-offloading",
+      "student-experience",
+      "educational-theory",
+      "RCT",
+      "efficacy-study",
+      "generative-ai",
+      "metacognition",
+      "scaffolding"
+    ],
+    "content": "",
     "url": "pages/ai-assistance-reduces-persistence.html"
   },
   {
@@ -931,7 +941,7 @@
       "instructional-design",
       "personalized-learning"
     ],
-    "content": "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education\nLiu & Levy (2026) \u2014 ArXiv.\n\ud83d\udcc4 Full text (arXiv)Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State; the continuum doubles as a diagnostic tool for moving students beyond fluent-but-uncritical tool adoption. Found that reaching higher stages requires discipline-embedded experiences. ai-literacy, ",
+    "content": "",
     "url": "pages/ai-literacy-continuum-higher-education.html"
   },
   {
@@ -3480,8 +3490,14 @@
   {
     "slug": "genai-minoritized-knowledges-disability",
     "title": "\"Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability\"",
-    "tags": [],
-    "content": "Generative AI and the Marginalization of Minoritized Knowledges in Higher Education: The Case of DisabilityFatiha Tali-Otmani (2026) \u2014 EFTS, Grhapes. arXiv preprint.\ud83d\udcc4 Full text (arXiv)OverviewThis paper argues that generative-ai systems in higher-ed are not epistemically neutral \u2014 they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric t",
+    "tags": [
+      "generative-ai",
+      "higher-ed",
+      "special-education",
+      "equity",
+      "bias-mitigation"
+    ],
+    "content": "",
     "url": "pages/genai-minoritized-knowledges-disability.html"
   },
   {
@@ -4585,8 +4601,17 @@
   {
     "slug": "llm-cognitive-diagnosis-handwritten-math",
     "title": "\"Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work\"",
-    "tags": [],
-    "content": "Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten MathSummaryThis paper introduces MathCog, a benchmark dataset of 3,036 teacher-annotated diagnostic verdicts across 639 student handwritten math responses to 110 problems. Evaluating 18 LLMs, the authors find that all models severely underperform (macro F1 Key Contributions1. MathCog Benchmark \u2014 First benchmark for cognitive skill diagnosis from handwritten math, grounded in TIMSS 2019 cognitive framework with Evident/Vague evide",
+    "tags": [
+      "ai-ed-evaluation",
+      "knowledge-tracing",
+      "multimodal",
+      "benchmark",
+      "human-in-the-loop",
+      "critical-thinking",
+      "hallucination-risk",
+      "k-12"
+    ],
+    "content": "",
     "url": "pages/llm-cognitive-diagnosis-handwritten-math.html"
   },
   {
@@ -5529,8 +5554,15 @@
   {
     "slug": "persistent-ai-agents-academic-research",
     "title": "\"Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study\"",
-    "tags": [],
-    "content": "Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case StudyAnas H. Alzahrani (2026) \u2014 arXiv preprint.\ud83d\udcc4 Full text (arXiv)OverviewThis is the first empirical study of what happens when AI agents are embedded persistently in a real academic research environment \u2014 with durable memory, local files, external tools, scheduled routines, delegated roles, and explicit safety protocols. Over 96 active days (January 31 to May 25, 2026), the researcher-agent ecosystem generated",
+    "tags": [
+      "llm",
+      "generative-ai",
+      "higher-ed",
+      "agentic-ai",
+      "faculty-development",
+      "learning-analytics"
+    ],
+    "content": "",
     "url": "pages/persistent-ai-agents-academic-research.html"
   },
   {
@@ -6248,8 +6280,16 @@
   {
     "slug": "slidesqaqa-pedagogical-question-generation",
     "title": "\"Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation\"",
-    "tags": [],
-    "content": "Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question GenerationJim Salsman (2026) \u2014 arXiv preprint. cs.CL; cs.HC.\ud83d\udcc4 Full text (arXiv)OverviewSlidesQAQA is a Flask-based system that extracts text and rendered images from PDF lecture slides and processes them through a four-stage llm pipeline: window planning (segment extraction), deck synthesis (cross-slide reasoning), slide annotation (per-slide question generation), and reconciliation (deck-level revision to redu",
+    "tags": [
+      "prompt-engineering",
+      "generative-ai",
+      "llm",
+      "higher-ed",
+      "scaffolding",
+      "formative-assessment",
+      "multimodal"
+    ],
+    "content": "",
     "url": "pages/slidesqaqa-pedagogical-question-generation.html"
   },
   {
@@ -6328,7 +6368,7 @@
       "llm",
       "generative-ai",
       "assessment",
-      "automated-assessment",
+      "automated-grading",
       "assessment-validity",
       "scaffolding",
       "educational-theory"
@@ -6565,8 +6605,14 @@
   {
     "slug": "student-misconceptions-conditionals-loops-taxonomy",
     "title": "\"How Students (Mis)understand Conditionals and Loops -- A Taxonomy\"",
-    "tags": [],
-    "content": "How Students (Mis)understand Conditionals and Loops -- A TaxonomyDimitri Eckert and Christian Kautz (2026) \u2014 arXiv preprint.\ud83d\udcc4 Full text (arXiv)OverviewThis paper presents a fine-grained taxonomy categorizing novice programmers' difficulties with reading and understanding control flow constructs \u2014 specifically conditionals (selection) and loops (iteration). Developed through the Extended Taxonomy Design Process (ETDP), the taxonomy integrates prior research with new empirical data from student qu",
+    "tags": [
+      "cs-education",
+      "stem-education",
+      "student-experience",
+      "higher-ed",
+      "benchmark"
+    ],
+    "content": "",
     "url": "pages/student-misconceptions-conditionals-loops-taxonomy.html"
   },
   {
