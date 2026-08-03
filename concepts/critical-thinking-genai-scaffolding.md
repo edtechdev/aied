@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [generative-ai, higher-ed, scaffolding]
-sources: [raw/articles/critical-thinking-genai-scaffolding.md]
+sources: [raw/papers/critical-thinking-genai-scaffolding.md]
 confidence: medium
 ---
 > Vendrell & Johnston (2026) propose a design-oriented framework for LLM use in higher education that strengthens rather than displaces [[critical-thinking]], countering [[cognitive-offloading]] and metacognitive disengagement ([[metacognition]], [[scaffolding]]).
@@ -26,7 +26,7 @@ Research shows that unguided AI use correlates with:
 - Shifted attitudes toward AI biases even when recognized (Fisher et al., 2025)
 - Overall erosion of critical thinking, decision-making, and analytical reasoning (Zhai et al., 2024)
 
-However, when students first engage independently *before* consulting AI, their outputs are significantly stronger (Kosmyna et al., 2025). This mirrors earlier technology integrations — calculators, search engines — where effects depend on pedagogical design, not the tool itself. ^[raw/articles/critical-thinking-genai-scaffolding.md]
+However, when students first engage independently *before* consulting AI, their outputs are significantly stronger (Kosmyna et al., 2025). This mirrors earlier technology integrations — calculators, search engines — where effects depend on pedagogical design, not the tool itself. ^[raw/papers/critical-thinking-genai-scaffolding.md]
 
 ## Six Essential Processes
 
@@ -70,7 +70,7 @@ Two illustrative scenarios demonstrate implementation:
 
 **Scenario B: AI-Mediated Debate and Synthesis.** Students engage in structured debate with AI as a provisional interlocutor, followed by independent written synthesis requiring assumption identification, counterargument consideration, and integration of AI-generated content with original reasoning.
 
-Both scenarios emphasize the critical sequence: *independent thinking first, AI interaction second, reflective integration third*. ^[raw/articles/critical-thinking-genai-scaffolding.md]
+Both scenarios emphasize the critical sequence: *independent thinking first, AI interaction second, reflective integration third*. ^[raw/papers/critical-thinking-genai-scaffolding.md]
 
 ## Open Questions
 

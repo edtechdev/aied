@@ -4,7 +4,7 @@ created: 2026-05-17
 updated: 2026-05-17
 type: concept
 tags: [generative-ai, higher-ed, intelligent-tutoring, llm, programming-its, scaffolding, socratic-method]
-sources: [raw/articles/codify-socratic-tutoring-programming.md]
+sources: [raw/papers/codify-socratic-tutoring-programming.md]
 confidence: medium
 ---
 

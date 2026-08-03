@@ -5,9 +5,9 @@ updated: 2026-05-07
 type: concept
 tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback-loop, assessment]
 confidence: high
-sources: [raw/articles/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
+sources: [raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
 ---
-> 📄 Full text: [Liverpool Repository](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf) · [local](raw/articles/varga-atkins-educators-guide-multimodal-learning-genai-2025.md)
+> 📄 Full text: [Liverpool Repository](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf) · [local](raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md)
 
 
 

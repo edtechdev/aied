@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [ai-literacy, cognitive-offloading, generative-ai, higher-ed, prompt-engineering]
-sources: ["raw/articles/caeai-same-ai-different-pathways.md"]
+sources: ["raw/papers/caeai-same-ai-different-pathways.md"]
 confidence: high
 ---
 

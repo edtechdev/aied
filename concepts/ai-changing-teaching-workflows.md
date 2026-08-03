@@ -4,7 +4,7 @@ created: 2026-05-21
 updated: 2026-05-21
 type: concept
 tags: [generative-ai, teacher-role, faculty-development, efficacy-study, rct, k-12, higher-ed, student-experience, equity, ai-literacy, formative-assessment, learning-analytics, feedback-loop]
-sources: [raw/articles/ai-changing-teaching-workflows-2026-05-21.md]
+sources: [raw/papers/ai-changing-teaching-workflows-2026-05-21.md]
 confidence: high
 ---
 

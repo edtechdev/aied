@@ -5,9 +5,9 @@ updated: 2026-05-07
 type: concept
 tags: [faculty-development, higher-ed, policy-maker, ai-literacy, generative-ai, ai-education]
 confidence: high
-sources: [raw/articles/every-learner-faculty-development-genai-playbook-2025.md, raw/articles/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
+sources: [raw/papers/every-learner-faculty-development-genai-playbook-2025.md, raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
 ---
-> 📄 Full text: [Every Learner](https://www.everylearnereverywhere.org/wp-content/uploads/Faculty-Development-and-GenAI-Playbook.pdf) · [local](raw/articles/every-learner-faculty-development-genai-playbook-2025.md) · [Liverpool Repository](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf) · [local](raw/articles/varga-atkins-educators-guide-multimodal-learning-genai-2025.md)
+> 📄 Full text: [Every Learner](https://www.everylearnereverywhere.org/wp-content/uploads/Faculty-Development-and-GenAI-Playbook.pdf) · [local](raw/papers/every-learner-faculty-development-genai-playbook-2025.md) · [Liverpool Repository](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf) · [local](raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md)
 
 
 

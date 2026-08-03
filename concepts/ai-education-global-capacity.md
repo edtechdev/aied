@@ -4,10 +4,10 @@ created: 2026-05-09
 updated: 2026-05-09
 type: concept
 tags: [policy-maker, equity, k-12, teacher-role, ai-literacy]
-sources: ["raw/articles/ai-education-global-capacity.md"]
+sources: ["raw/papers/ai-education-global-capacity.md"]
 confidence: medium
 ---
-> 📄 Full text: [WEF](https://www.weforum.org/stories/2026/04/what-ai-in-education-needs-next-lessons-from-youth-leaders-across-five-countries/) · [local](raw/articles/ai-education-global-capacity.md)
+> 📄 Full text: [WEF](https://www.weforum.org/stories/2026/04/what-ai-in-education-needs-next-lessons-from-youth-leaders-across-five-countries/) · [local](raw/papers/ai-education-global-capacity.md)
 
 
 

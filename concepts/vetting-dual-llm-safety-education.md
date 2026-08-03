@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [pedagogical-safety, k-12, llm, generative-ai]
-sources: ["raw/articles/caeai-vetting-safety.md"]
+sources: ["raw/papers/caeai-vetting-safety.md"]
 confidence: high
 ---
 

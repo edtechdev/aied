@@ -4,10 +4,10 @@ created: 2026-05-09
 updated: 2026-05-09
 type: concept
 tags: [policy-maker, k-12, student-experience, regulation, ai-literacy]
-sources: ["raw/articles/brookings-ai-students-report.md"]
+sources: ["raw/papers/brookings-ai-students-report.md"]
 confidence: high
 ---
-> 📄 Full text: [Brookings](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/) · [local](raw/articles/brookings-ai-students-report.md)
+> 📄 Full text: [Brookings](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/) · [local](raw/papers/brookings-ai-students-report.md)
 
 
 

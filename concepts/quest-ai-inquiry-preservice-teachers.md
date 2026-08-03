@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [ai-literacy, faculty-development, generative-ai, efficacy-study, higher-ed]
-sources: ["raw/articles/caeai-quest-ai-inquiry.md"]
+sources: ["raw/papers/caeai-quest-ai-inquiry.md"]
 confidence: high
 ---
 

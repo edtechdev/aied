@@ -4,10 +4,10 @@ created: 2026-05-09
 updated: 2026-05-09
 type: concept
 tags: [higher-ed, equity, ai-literacy, policy-maker, regulation]
-sources: ["raw/articles/ai-higher-ed-bridge-gap.md"]
+sources: ["raw/papers/ai-higher-ed-bridge-gap.md"]
 confidence: medium
 ---
-> 📄 Full text: [Science](https://www.science.org/doi/10.1126/science.aeh5777) · [local](raw/articles/ai-higher-ed-bridge-gap.md)
+> 📄 Full text: [Science](https://www.science.org/doi/10.1126/science.aeh5777) · [local](raw/papers/ai-higher-ed-bridge-gap.md)
 
 
 

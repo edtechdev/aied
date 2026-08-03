@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [llm, privacy, k-12, pedagogical-safety, intelligent-tutoring]
-sources: ["raw/articles/caeai-llm-unlearning-math.md"]
+sources: ["raw/papers/caeai-llm-unlearning-math.md"]
 confidence: high
 ---
 

@@ -4,7 +4,7 @@ created: 2026-08-01
 updated: 2026-08-01
 type: concept
 tags: [generative-ai, informal-learning, llm, lifelong-learning, student-experience]
-sources: ["raw/articles/caeai-conversational-ai-informal.md"]
+sources: ["raw/papers/caeai-conversational-ai-informal.md"]
 confidence: high
 ---
 
