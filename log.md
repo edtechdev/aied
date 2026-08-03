@@ -105,6 +105,13 @@
 - Note: real non-AI scoping review full-text PDF (Zhan, Boud & Du) still awaited for authentic-assessment raw upgrade
 - Deployed
 
+## [2026-08-03] update | authentic-assessment upgraded to full text (user PDF)
+- Upgraded raw/articles/zhan-boud-du-authentic-assessment-scoping-review-2025.md from 5.5 KB summary to 44 KB full text (references trimmed; page-number footers stripped); sha256 recomputed (fa2a2e25…)
+- Verified existing synthesis against full text: all dimension counts confirmed (37 studies; knowledge construction n=29, professional skills n=22, 21st-century skills n=29 [critical thinking n=17, communication n=13, problem-solving n=7], digital literacy n=5; rubrics n=22, co-designed n=3, student assessors n=7; feedback formative n=23 / summative n=12 / sustainable n=4; agency choices n=8, self-reflection n=18; social authenticity n=3)
+- Corrected social-collaboration counts on the concept page: peer strategies n=11→16, teacher–student n=10→16 (only 3 equitable), external n=6→5; added individual/group task split (n=18/16/3)
+- Full-text confirms the four-step learning-oriented collaborative design framework and the Western-overrepresentation limitation
+- Deployed
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`

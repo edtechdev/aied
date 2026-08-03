@@ -44,7 +44,7 @@ This scoping review of 37 empirical AA studies (2000–2024) proposes six design
 
 5. **Student agency** — choices about what/how/when/where to submit appeared in only **n=8 studies**. Self-reflection was more common but often **assigned/graded**, making it potentially **performative** (instrumental rather than genuine).
 
-6. **Social collaboration** — peer (n=11), teacher-student (n=10), and external partnerships (n=6). Social construction of assessment meaning was under-theorized but present.
+6. **Social collaboration** — mostly individual tasks (n=18) or group tasks (n=16), with few mixing both (n=3). Peer collaboration strategies (peer assessment, peer discussion) appeared in n=16 studies; teacher–student collaboration in n=16, though only 3 designed *equitable* teacher–student partnership (roles were usually feedback-giver, monitor, facilitator — a power imbalance); external industry/community connections in only n=5. Social construction of assessment meaning was under-theorized but present.
 
 ## AI-Specific Implications
 
