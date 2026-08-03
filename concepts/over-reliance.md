@@ -18,6 +18,8 @@ Student and faculty over-reliance on AI tools in education
 *This page is a stub — awaiting further sources and content.*
 
 ## Related Pages
+- [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI displaces human relationships
+- [[trust-reliance-ai-education-2026]] — Higher trust predicts lower appropriate reliance
 - [[genai-can-harm-teaching-rct-2026]] — Shallow teacher AI use reduces motivation
 - [[beyond-detection-authentic-assessment-ai-2025]] — Design for learning rather than detection
 - [[authentic-products-authenticated-processes-2026]] — Construct substitution risk

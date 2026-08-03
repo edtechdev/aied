@@ -13,5 +13,6 @@ confidence: low
 This is a stub page for the concept of affective computing. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
+- [[sycophantic-ai-social-interaction-2026]] — Emotional-support AI displaces human support
 
 - [[ai-learning-tools-engineering-education-needs]] — 206 engineering students: AI chatbots give greatest benefit as relief from compe...

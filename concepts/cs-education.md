@@ -13,6 +13,7 @@ confidence: low
 *Stub page — full synthesis pending.*
 
 ## Related Pages
+- [[trust-reliance-ai-education-2026]] — Python problem-solving with misleading AI suggestions
 - [[structrag-diagram-reasoning-ai-tutoring]] — Network-topology and algorithm diagram reasoning
 - [[student-misconceptions-conditionals-loops-taxonomy]] — taxonomy of programming misconceptions in conditionals and loops
 - [[neurodivergent-computing-students]] — Design recommendations for inclusive active learning in computing courses

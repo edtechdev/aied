@@ -13,4 +13,5 @@ confidence: low
 This is a stub page for the concept of ethics. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
+- [[sycophantic-ai-social-interaction-2026]] — Relational harms of affirming AI
 

@@ -13,6 +13,8 @@ confidence: low
 *Stub page — created as a back-link target.*
 
 ## Related Pages
+- [[sycophantic-ai-social-interaction-2026]] — Relational substitution with sycophantic AI
+- [[trust-reliance-ai-education-2026]] — Trust dynamics in learner-AI problem solving
 - [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-configured student-AI dialogue at classroom scale
 
 

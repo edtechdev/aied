@@ -12,6 +12,7 @@ confidence: low
 This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
+- [[trust-reliance-ai-education-2026]] — Discriminating correct from misleading suggestions
 - [[post-instrumental-learning-capacity-dissolution]]
 - [[ai-literacy-power-knowledge]]
 - [[generative-refusal-ai-tools-for-thought]]
