@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Desirable difficulties** — the finding that harder retrieval conditions improve long-term learning — is the theoretical counterweight to AI smoothing: [[agentic-ai-pedagogical-best-practice-2026]] calls for intentional friction, and [[retrieval-practice]] and [[generative-ai-reduced-study-time-math]] document the costs of removing productive struggle.
+
 
 # Desirable Difficulties
 
-This is a stub page for the concept of desirable difficulties. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

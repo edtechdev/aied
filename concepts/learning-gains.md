@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Learning Gains
 
-Stub page for cross-referencing.
 
 ## Related Pages
 - [[adaptive-pretesting-retention]] -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice — learner-directed AI study underperforms structured retrieval.

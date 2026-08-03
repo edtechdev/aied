@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Faculty Development
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching (RCT)

@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Constructivist** learning theory — knowledge built through active experience — underpins wiki analyses of AI as [[genai-mindtool-generative-learning]] and [[icap-cognitive-engagement-llm-agents]]: AI tools support construction only when learners generate, not merely consume ([[active-learning]], [[educational-theory]]).
+
 
 # Constructivist
 
-This is a stub page for the concept of constructivist. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

@@ -6,8 +6,10 @@ type: concept
 tags: ["feedback-loop", "formative-assessment", "personalized-learning"]
 sources: []
 confidence: low
-status: stub
+
 ---
+> **Feedback loops** — the engine of formative learning — are redesigned by AI in [[care-full-feedback-genai]], [[chatgpt-feedback-engagement-genai]], [[repeated-ai-writing-feedback-semester]], and [[sequenced-ai-feedback-learning]]: AI enables faster, more frequent loops, but feedback must remain corrective, humanly grounded, and learner-owned ([[formative-assessment]], [[ai-generated-feedback-higher-ed]]).
+
 
 # Feedback Loop
 

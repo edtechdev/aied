@@ -7,9 +7,10 @@ tags: []
 sources: []
 confidence: low
 ---
+> **LLM evaluation** in education goes beyond accuracy: [[llm-judged-helpfulness-pedagogy-signal]], [[teachbench-llm-teaching-evaluation]], [[vetting-dual-llm-safety-education]], and [[ground-truth-reliability-aied]] assess pedagogical quality, safety, and reliability of model output ([[ai-ed-evaluation]], [[benchmark]]).
+
 # Llm Evaluation
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[llm-judged-helpfulness-pedagogy-signal]]

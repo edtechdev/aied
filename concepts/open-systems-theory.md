@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Open Systems Theory
 
-*Stub page — created during ingestion of [[dot-framework-survey]]. Content pending.*
 
 ## Related Pages
 - [[dot-framework-survey]]

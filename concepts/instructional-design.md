@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Instructional Design
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[concept-catalyst-engineering-scaffolds]]

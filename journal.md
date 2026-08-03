@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-03 | **Total entries:** 447
+**Last updated:** 2026-08-03 | **Total entries:** 446
 
 ## 2026-08-03
 
@@ -276,55 +276,55 @@
   **Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm**
   Tags: [agentic-ai, ai-literacy, educational-theory, generative-ai, higher-ed, intelligent-tutoring, llm, multi-agent, open-source, scaffolding, scoping-review, stem-education]
 
-- ○ [[becerra-aicofe-feedback-2026]] — raw/papers/becerra-aicofe-feedback-2026.md
+- ◐ [[becerra-aicofe-feedback-2026]] — raw/papers/becerra-aicofe-feedback-2026.md
   **AICoFE: AI-Powered Feedback System**
   Tags: [ai-ed-evaluation, feedback-loop, student-experience]
 
-- ○ [[cong-confidence-asag-2026]] — raw/papers/cong-confidence-asag-2026.md
+- ◐ [[cong-confidence-asag-2026]] — raw/papers/cong-confidence-asag-2026.md
   **Confidence-Aware Automatic Short Answer Grading**
   Tags: [assessment, automated-grading, confidence]
 
-- ○ [[favero-critical-ai-tutors-empower-enslave-2025]] — raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md
+- ◐ [[favero-critical-ai-tutors-empower-enslave-2025]] — raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md
   **Critical AI Tutors: Empower or Enslave?**
   Tags: ["intelligent-tutoring", critical-thinking, over-reliance]
 
-- ○ [[finkelstein-principled-ai-education-2025]] — raw/papers/finkelstein-principled-ai-education-2025.md
+- ◐ [[finkelstein-principled-ai-education-2025]] — raw/papers/finkelstein-principled-ai-education-2025.md
   **Principled AI Education Framework**
   Tags: [ai-literacy, curriculum-design, instructional-design]
 
-- ○ [[golrang-propact-pair-programming-2026]] — raw/papers/golrang-propact-pair-programming-2026.md
+- ◐ [[golrang-propact-pair-programming-2026]] — raw/papers/golrang-propact-pair-programming-2026.md
   **ProPACT: Pair Programming with AI**
   Tags: [pair-programming, collaborative-learning, cs-education]
 
-- ○ [[hashmi-socratic-physics-chatbot-2025]] — raw/papers/hashmi-socratic-physics-chatbot-2025.md
+- ◐ [[hashmi-socratic-physics-chatbot-2025]] — raw/papers/hashmi-socratic-physics-chatbot-2025.md
   **Socratic Physics Chatbot**
   Tags: [socratic-method, physics-education, "generative-ai", "intelligent-tutoring"]
 
-- ○ [[hazra-safetutors-pedagogical-safety-2026]] — raw/papers/hazra-safetutors-pedagogical-safety-2026.md
+- ◐ [[hazra-safetutors-pedagogical-safety-2026]] — raw/papers/hazra-safetutors-pedagogical-safety-2026.md
   **SafeTutors: Pedagogical Safety in AI Tutoring**
   Tags: [pedagogical-safety, k-12]
 
-- ○ [[hingle-collaborative-ai-literacy-2025]] — raw/papers/hingle-collaborative-ai-literacy-2025.md
+- ◐ [[hingle-collaborative-ai-literacy-2025]] — raw/papers/hingle-collaborative-ai-literacy-2025.md
   **Collaborative AI Literacy Framework**
   Tags: [ai-literacy, collaborative-learning, instructional-design]
 
-- ○ [[huang-interpretable-knowledge-tracing-2026]] — raw/papers/huang-interpretable-knowledge-tracing-2026.md
+- ◐ [[huang-interpretable-knowledge-tracing-2026]] — raw/papers/huang-interpretable-knowledge-tracing-2026.md
   **Interpretable Knowledge Tracing**
   Tags: [knowledge-tracing, interpretability, student-modeling]
 
-- ○ [[jeon-isd-agent-bench-2026]] — raw/papers/jeon-isd-agent-bench-2026.md
+- ◐ [[jeon-isd-agent-bench-2026]] — raw/papers/jeon-isd-agent-bench-2026.md
   **ISD Agent Benchmark**
   Tags: [agentic-ai, ai-ed-evaluation, benchmark]
 
-- ○ [[kar-mathbuddy-affective-math-tutoring-2025]] — raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md
+- ◐ [[kar-mathbuddy-affective-math-tutoring-2025]] — raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md
   **MathBuddy: Affective Math Tutoring**
   Tags: [math-education, affective-computing, intelligent-tutoring, k-12]
 
-- ○ [[kim-llm-fallacy-misattribution-2026]] — raw/papers/kim-llm-fallacy-misattribution-2026.md
+- ◐ [[kim-llm-fallacy-misattribution-2026]] — raw/papers/kim-llm-fallacy-misattribution-2026.md
   **LLM Fallacy Misattribution in Education**
   Tags: [llm, misinformation, ai-literacy]
 
-- ○ [[nie-personavlm-long-term-personalization-2026]] — raw/papers/nie-personavlm-long-term-personalization-2026.md
+- ◐ [[nie-personavlm-long-term-personalization-2026]] — raw/papers/nie-personavlm-long-term-personalization-2026.md
   **PersonaVLM: Long-Term Personalization for AI Tutors**
   Tags: ["personalized-learning", "intelligent-tutoring", student-modeling, llm]
 
@@ -332,23 +332,19 @@
   **Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement**
   Tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, engagement-metrics, efficacy-study, scaffolding]
 
-- ○ [[singh-eduqwen-pedagogical-rl-2026]] — raw/papers/singh-eduqwen-pedagogical-rl-2026.md
+- ◐ [[singh-eduqwen-pedagogical-rl-2026]] — raw/papers/singh-eduqwen-pedagogical-rl-2026.md
   **EduQwen: Pedagogical RL**
   Tags: [llm, pedagogical-safety, reinforcement-learning]
 
-- ○ [[stanford-evidence-base-ai-k12-2026]] — raw/papers/stanford-evidence-base-ai-k12-2026.md
+- ◐ [[stanford-evidence-base-ai-k12-2026]] — raw/papers/stanford-evidence-base-ai-k12-2026.md
   **Stanford Evidence Base: AI in K-12 Education**
   Tags: [k-12, ai-literacy, evidence]
 
-- ○ [[syal-multimodal-dialogue-stem-2026]] — raw/papers/syal-multimodal-dialogue-stem-2026.md
+- ◐ [[syal-multimodal-dialogue-stem-2026]] — raw/papers/syal-multimodal-dialogue-stem-2026.md
   **Multimodal Dialogue in STEM Education**
   Tags: ["intelligent-tutoring", multimodal, socratic-method, stem-education]
 
-- ○ [[varga-atkins-educators-guide-multimodal-learning-genai-2025]] — raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md
-  **Educator's Guide to Multimodal Learning with GenAI**
-  Tags: [educator-guide, generative-ai, multimodal]
-
-- ○ [[zerkouk-comprehensive-review-its-2025]] — raw/papers/zerkouk-comprehensive-review-its-2025.md
+- ◐ [[zerkouk-comprehensive-review-its-2025]] — raw/papers/zerkouk-comprehensive-review-its-2025.md
   **Comprehensive Review of Intelligent Tutoring Systems**
   Tags: [intelligent-tutoring, literature-review, adaptive-learning]
 

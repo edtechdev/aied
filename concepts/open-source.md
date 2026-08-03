@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Open-source** AI in education is studied in [[lata-ferpa-compliant-local-llm-autograder]], [[vismatic-secure-sandbox-cs-education]], and [[open-source]] (tag) pages: local open models address [[privacy]], cost, and customization but bring deployment and quality burdens ([[regulation]], [[ai-ed-implementation]]).
+
 
 # Open Source
 
-This is a stub page for the concept of open source. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 - [[iks-instruct-dataset-indian-knowledge]]

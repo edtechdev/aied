@@ -5,12 +5,13 @@ updated: 2026-07-29
 type: concept
 tags: ["intelligent-tutoring", critical-thinking, over-reliance]
 sources: [raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md]
-confidence: low
+confidence: medium
 ---
+> **Critical AI Tutors: Empower or Enslave?** — Position paper arguing that unchecked AI tutor use leads to cognitive atrophy, loss of agency, emotional risks, and ethical concerns (privacy, academic integrity). Authors call for intentional, transparent, critically informed AI use that empowers rather than diminishes the learner. Workshop at AIED 2025.
+
 
 # Critical AI Tutors: Empower or Enslave?
 
-This is a stub page for "Critical AI Tutors: Empower or Enslave?". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.
 
 ## Related Pages
 

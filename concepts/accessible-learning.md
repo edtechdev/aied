@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Accessible Learning
 
-*Stub page — created as a back-link target.*
 
 ## Related Pages
 

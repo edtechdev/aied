@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Confidence-aware AI assessment** — models that report uncertainty alongside scores — is examined in [[confidence-aware-student-drawing-assessment]], [[cong-confidence-asag-2026]], and [[llm-psychometric-calibration-cdp]]: calibrated confidence improves trust and enables appropriate delegation (trust-calibration, [[ai-ed-evaluation]]).
+
 
 # Confidence Aware Ai Assessment
 
-This is a stub page for the concept of confidence aware ai assessment. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

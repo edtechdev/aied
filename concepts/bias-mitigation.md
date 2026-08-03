@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Bias Mitigation
 
-*Stub page — created as a back-link target for bias-mitigation in educational AI.*
 
 Bias mitigation in AIED concerns identifying and reducing unfair, identity-patterned behavior in AI tutors and educational systems (e.g., differential refusals or softening of answers for marginalized students). Surfaced by recent auditing work on LLM history tutors.
 

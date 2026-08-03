@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Automated assessment** — machine scoring and feedback at scale — is covered by [[automated-grading]], [[aiawe-automated-writing-evaluation]], [[psyscore-essay-scoring-zpd-feedback]], and [[cotal-formative-assessment-scoring-2026]]: LLM-based scoring generalizes across domains when prompt-engineered with [[human-in-the-loop]] refinement and [[assessment-validity]] alignment.
+
 
 # Automated Assessment
 
-This is a stub page for the concept of automated assessment. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

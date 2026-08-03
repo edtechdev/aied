@@ -7,9 +7,10 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Spaced repetition** with AI is examined in [[memdora-ai-spaced-repetition]] and [[retrieval-practice]]: AI optimizes scheduling of review to combat forgetting, with evidence that adaptive spacing improves retention ([[self-regulated-learning]], [[personalized-learning]]).
+
 # Spaced Repetition
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[memdora-ai-spaced-repetition]]

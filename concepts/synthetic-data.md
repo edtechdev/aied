@@ -7,9 +7,10 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Synthetic data** — AI-generated training and evaluation material — is examined in [[book-level-synthetic-textbook-organization]], [[llm-educational-simulation-adhd]], [[simulating-learner-task-selection]], and [[data-annotations-pedagogical-hints]]: synthetic corpora scale research but carry fidelity and bias risks ([[benchmark]], [[educational-datasets]]).
+
 # Synthetic Data
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[book-level-synthetic-textbook-organization]]

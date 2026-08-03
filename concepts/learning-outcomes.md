@@ -7,9 +7,10 @@ tags: []
 sources: []
 confidence: low
 ---
+> **Learning outcomes** in the AI era are being redefined: [[genai-performance-vs-learning]], [[generative-ai-reduced-study-time-math]], and [[ai-assessment-human-tutors]] distinguish performance gains from durable learning, warning that AI-boosted scores can mask shallow understanding ([[learning-gains]], [[assessment-validity]]).
+
 # Learning Outcomes
 
-This page is a stub. Content will be added as relevant sources are ingested.
 
 ## Related Pages
 - [[post-instrumental-learning-capacity-dissolution]]

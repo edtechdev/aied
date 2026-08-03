@@ -5,12 +5,13 @@ updated: 2026-07-29
 type: concept
 tags: [intelligent-tutoring, literature-review, adaptive-learning]
 sources: [raw/papers/zerkouk-comprehensive-review-its-2025.md]
-confidence: low
+confidence: medium
 ---
+> **Comprehensive Review of Intelligent Tutoring Systems** — Journal of Computers in Education (2025). Systematic literature review 2010–2025 analyzing ITS in real educational settings. Examines pedagogical strategies, NLP, adaptive learning, student modeling, domain-specific applications. Results: mixed effectiveness, complex landscape of advancements and persistent challenges.
+
 
 # Comprehensive Review of Intelligent Tutoring Systems
 
-This is a stub page for "Comprehensive Review of Intelligent Tutoring Systems". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.
 
 ## Related Pages
 

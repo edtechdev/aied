@@ -5,12 +5,13 @@ updated: 2026-07-29
 type: concept
 tags: [assessment, automated-grading, confidence]
 sources: [raw/papers/cong-confidence-asag-2026.md]
-confidence: low
+confidence: medium
 ---
+> **Confidence-Aware Automatic Short Answer Grading** — Automatic Short Answer Grading (ASAG) with LLMs achieves strong zero-shot performance and synthetic feedback generation, but **no system is perfect**. Linguistic variability, ambiguous scoring criteria, and inherent human rater disagreement impose an upper bound on accuracy.
+
 
 # Confidence-Aware Automatic Short Answer Grading
 
-This is a stub page for "Confidence-Aware Automatic Short Answer Grading". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.
 
 ## Related Pages
 

@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Equity
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[access-not-enough-ai-tutoring-2026]] — Engagement gaps compound access gaps

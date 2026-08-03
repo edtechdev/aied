@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Multimodal
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[slidesqaqa-pedagogical-question-generation]] — joint text+visual reasoning for slide-based question generation

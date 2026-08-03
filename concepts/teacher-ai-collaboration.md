@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Teacher-AI collaboration** is studied in [[ai-team-teaching-talk-analytics]], [[teacher-ai-competency]], [[ai-pedagogical-accompaniment-amico]], and [[genai-can-harm-teaching-rct-2026]]: AI tools reshape teacher workflows, and their effects on students depend on teacher skill and training ([[faculty-development]], [[teacher-ai-coagency]]).
+
 
 # Teacher Ai Collaboration
 
-This is a stub page for the concept of teacher ai collaboration. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

@@ -5,12 +5,13 @@ updated: 2026-07-29
 type: concept
 tags: [math-education, affective-computing, intelligent-tutoring, k-12]
 sources: [raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md]
-confidence: low
+confidence: medium
 ---
+> **MathBuddy: Affective Math Tutoring** — EMNLP 2025 Demo. Emotionally aware LLM-powered math tutor. Dynamically models student emotions from conversational text and facial expressions, aggregated from both modalities to prompt emotionally-aware LLM responses. Maps affective states to relevant pedagogical strategies. Win rate: +23 points. DAMR score: +3 points at overall level.
+
 
 # MathBuddy: Affective Math Tutoring
 
-This is a stub page for "MathBuddy: Affective Math Tutoring". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.
 
 ## Related Pages
 

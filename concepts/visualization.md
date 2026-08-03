@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Visualization** in learning analytics and instruction is studied in [[visual-query-tracer-declarative-logic-learning]], [[learning-analytics-dashboards]], [[code-anchor-multi-view-visualization]], and [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]]: effective visuals make hidden processes visible to learners and teachers ([[learning-analytics]], [[multi-representational-tools]]).
+
 
 # Visualization
 
-This is a stub page for the concept of visualization. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

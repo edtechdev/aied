@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Professional Training
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[ai-coaching-rl-skill-development]] — RL-based AI coaching for accelerating professional skill development in motor domains

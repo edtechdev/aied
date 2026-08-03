@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Teacher professional development** for AI is the leverage point across [[teacher-ai-competency]], [[ai-tpack-preservice-math-teachers]], [[every-learner-faculty-development-genai-playbook-2025]], and [[quest-ai-inquiry-preservice-teachers]]: competency frameworks and structured training — not tool access — determine classroom outcomes ([[faculty-development]], [[teacher-role]]).
+
 
 # Teacher Professional Development
 
-This is a stub page for the concept of teacher professional development. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 

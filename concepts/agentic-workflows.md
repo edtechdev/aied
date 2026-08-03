@@ -7,8 +7,8 @@ tags: [agentic-ai, stub]
 sources: []
 confidence: low
 ---
+
 # Agentic Workflows
-Automated stub.
 ## Related Pages
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[guided-llm-scaffolding-independent-learning]]

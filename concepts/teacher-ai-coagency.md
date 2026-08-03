@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Teacher Ai Coagency
 
-*Stub page — created as a back-link target.*
 
 ## Related Pages
 

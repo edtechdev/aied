@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Inclusive Ai
 
-*Stub page — full synthesis pending.*
 
 ## Related Pages
 - [[genai-minoritized-knowledges-disability]] — challenging inclusive design to address epistemological exclusion

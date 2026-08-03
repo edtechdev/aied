@@ -8,9 +8,9 @@ sources: []
 confidence: low
 ---
 
+
 # Active Learning
 
-This is a stub page created during the 2026-06-09 daily scan to support back-links from newly ingested papers.
 
 ## Related Pages
 - [[supplynet-visual-exploratory-learning]] — Gamified visual simulation supporting exploratory learning via LLM-driven agents

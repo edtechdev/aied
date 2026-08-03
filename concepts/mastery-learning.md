@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Mastery learning** — progression upon demonstrated competence — is enabled by adaptive AI: [[mastery-learning]] research in the wiki, alongside [[adaptive-learning]], [[memdora-ai-spaced-repetition]], and [[simulating-learner-task-selection]], shows AI sequencing and assessment make mastery-based progression practical at scale ([[personalized-learning]], [[formative-assessment]]).
+
 
 # Mastery Learning
 
-This is a stub page for the concept of mastery learning. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 - [[memdora-ai-spaced-repetition]]

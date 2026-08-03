@@ -7,10 +7,11 @@ tags: [stub]
 sources: []
 confidence: low
 ---
+> **Ethics** of educational AI is examined across [[ethical-ai-higher-ed-game-theory]], [[ai-ethics-education-public-discourse]], [[child-safety-genai]], and [[sycophantic-ai-social-interaction-2026]]: ethical analysis spans harm, autonomy, privacy, and the relational effects of AI on learners ([[pedagogical-safety]], [[bias-mitigation]]).
+
 
 # Ethics
 
-This is a stub page for the concept of ethics. It was created to resolve broken backlinks from other wiki pages.
 
 ## Related Pages
 - [[sycophantic-ai-social-interaction-2026]] — Relational harms of affirming AI
