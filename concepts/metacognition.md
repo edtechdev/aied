@@ -62,6 +62,7 @@ This suggests that **metacognitive support and motivation are not identical**. T
 3. **Separate support for motivation vs. skill:** Metacognitive skill development (course-structured) and productivity enhancement (AI-assisted) may require different design strategies.
 
 ## Related Pages
+- [[critical-genai-use-predictors]] — Need for cognition bridges literacy and critical behaviour
 - [[chatgpt-feedback-engagement-genai]] — Metacognitive engagement gap with ChatGPT feedback
 - **[[ai-assistance-reduces-persistence]]**: Causal evidence (N=1,222) that brief AI assistance reduces persistence and impairs unassisted performance — rapid emergence of over-reliance effects
 - [[cognitive-offloading-speedup-illusion]] — Users fail to accurately predict AI-assisted vs independent task completion times

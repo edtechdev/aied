@@ -2219,6 +2219,19 @@
     "url": "pages/critical-engagement-code-completion.html"
   },
   {
+    "slug": "critical-genai-use-predictors",
+    "title": "\"GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use\"",
+    "tags": [
+      "ai-literacy",
+      "higher-ed",
+      "student-experience",
+      "over-reliance",
+      "educational-theory"
+    ],
+    "content": "GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI UseMarkus H. Hefter, Benjamin Paa\u00dfen & Kirsten Berthold (2026) \u2014 AI Educ. (MDPI), 2, 27. Open Access, CC BY 4.0. doi:10.3390/aieduc2030027.\ud83d\udcc4 Full text (MDPI, OA)SummaryA correlational study (N = 67 undergraduate psychology students, Bielefeld University) testing two protective factors against uncritical GenAI overreliance: (1) knowledge about genAI and (2) the disposition to engage in c",
+    "url": "pages/critical-genai-use-predictors.html"
+  },
+  {
     "slug": "critical-thinking-genai-scaffolding",
     "title": "Scaffolding Critical Thinking with Generative AI",
     "tags": [
@@ -3222,7 +3235,7 @@
     "slug": "educational-theory",
     "title": "\"Educational Theory\"",
     "tags": [],
-    "content": "Educational TheoryThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\npost-instrumental-learning-capacity-dissolution\nai-vocational-education-training-review",
+    "content": "Educational TheoryThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ncritical-genai-use-predictors \u2014 Kuhn's epistemic orientation and intellectual values as predictors\npost-instrumental-learning-capacity-dissolution\nai-vocational-education-training-review",
     "url": "pages/educational-theory.html"
   },
   {
@@ -4168,7 +4181,7 @@
       "llm",
       "student-experience"
     ],
-    "content": "Hallucination RiskLLM hallucination risks in educational contextsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pagesllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 chatgpt-programming-education-text-mining \u2014 Unreliable outputs as documented peril of ChatGPT in programming educationai-campus-wellbeing-tools \u2014 SMMR layered architecture reduces hallucination in mental health as",
+    "content": "Hallucination RiskLLM hallucination risks in educational contextsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\ncritical-genai-use-predictors \u2014 Cross-checking outputs: 97% hold the web-search misconceptionllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 chatgpt-programming-education-text-mining \u2014 Unreliable outputs as documented peril of ChatGPT in programming educationa",
     "url": "pages/hallucination-risk.html"
   },
   {
@@ -4202,7 +4215,7 @@
       "generative-ai",
       "llm"
     ],
-    "content": "AI in Higher EducationConnectionsRelated Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Chatbot journaling RCT at a German technical university\nagency-gap-ai-writing \u2014 AI writing support in medical/nursing education\nfeedback-futures-genai \u2014 GenAI feedback governance and assessment design in universities\ngenai-teacher-feedback-comparison \u2014 Four-Australian-university survey of feedback perceptions\ncare-full-feedback-genai \u2014 Feedback as professional craft in university contexts\ngenai-impac",
+    "content": "AI in Higher EducationConnectionsRelated Pages\ncritical-genai-use-predictors \u2014 Correlational study at Bielefeld University\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Chatbot journaling RCT at a German technical university\nagency-gap-ai-writing \u2014 AI writing support in medical/nursing education\nfeedback-futures-genai \u2014 GenAI feedback governance and assessment design in universities\ngenai-teacher-feedback-comparison \u2014 Four-Australian-university survey of feedback perceptions\ncare-full-feedba",
     "url": "pages/higher-ed.html"
   },
   {
@@ -5734,7 +5747,7 @@
       "academic-integrity",
       "student-experience"
     ],
-    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nagency-gap-ai-writing \u2014 Over-direction risk of rigid proactive designs\nfeedback-futures-genai \u2014 Agency vs dependency tension in GenAI feedback\nchatgpt-feedback-engagement-genai \u2014 Metacognitive laziness and 83.9% uptake of ChatGPT feedback\nlearner-centered-feedback-ai \u2014 Novice-teacher deferral risk with AI feedback tools\nai-coaching-rl-sk",
+    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\ncritical-genai-use-predictors \u2014 Protective factors against uncritical overreliance on GenAI\nagency-gap-ai-writing \u2014 Over-direction risk of rigid proactive designs\nfeedback-futures-genai \u2014 Agency vs dependency tension in GenAI feedback\nchatgpt-feedback-engagement-genai \u2014 Metacognitive laziness and 83.9% uptake of ChatGPT feedback\nlearner-",
     "url": "pages/over-reliance.html"
   },
   {
@@ -6766,7 +6779,7 @@
       "k-12",
       "higher-ed"
     ],
-    "content": "Student Experience with AI> Stub \u2014 pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.ConnectionsRelated Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Intrinsic motivation & engagement with a mobile journaling chatbot\nagency-gap-ai-writing \u2014 Learners value confirmatory reactive support and dialogic proactive support\nchatgpt-feedback-engagement-genai \u2014 Students' cognitive/metacognitive/affective/behavioural engagement with ChatGPT feed",
+    "content": "Student Experience with AI> Stub \u2014 pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.ConnectionsRelated Pages\ncritical-genai-use-predictors \u2014 Undergraduates' GenAI use correlates with interest and perceived usefulness\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Intrinsic motivation & engagement with a mobile journaling chatbot\nagency-gap-ai-writing \u2014 Learners value confirmatory reactive support and dialogic proactive support\nchatgpt-feed",
     "url": "pages/student-experience.html"
   },
   {
