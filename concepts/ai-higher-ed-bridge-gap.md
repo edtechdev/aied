@@ -1,9 +1,9 @@
 ---
-title: "Higher Education Must Bridge the AI Gap"
+title: Higher Education Must Bridge the AI Gap
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ["higher-ed", "equity", "ai-literacy", "policy-maker", "regulation"]
+tags: [higher-ed, equity, ai-literacy, policy-maker, regulation]
 sources: ["raw/articles/ai-higher-ed-bridge-gap.md"]
 confidence: medium
 ---

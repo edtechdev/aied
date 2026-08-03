@@ -1,5 +1,5 @@
 ---
-title: "A Framework for Institutional Change in the Age of AI"
+title: A Framework for Institutional Change in the Age of AI
 created: 2026-05-14
 updated: 2026-05-14
 type: concept

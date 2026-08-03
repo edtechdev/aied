@@ -1,5 +1,5 @@
 ---
-title: "AI tools in Arab University English classrooms: Looking back and forward"
+title: 'AI tools in Arab University English classrooms: Looking back and forward'
 created: 2026-07-09
 updated: 2026-07-09
 type: concept

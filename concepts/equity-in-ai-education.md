@@ -1,5 +1,5 @@
 ---
-title: "Equity in AI Education"
+title: Equity in AI Education
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Principled AI Education Framework"
+title: Principled AI Education Framework
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

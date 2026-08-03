@@ -1,5 +1,5 @@
 ---
-title: "DebugTracker: Lightweight Process Evidence for Classroom Debugging"
+title: 'DebugTracker: Lightweight Process Evidence for Classroom Debugging'
 created: 2026-07-08
 updated: 2026-07-08
 type: concept

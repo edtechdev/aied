@@ -1,5 +1,5 @@
 ---
-title: Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
+title: "Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda"
 created: 2026-07-09
 updated: 2026-07-09
 type: concept

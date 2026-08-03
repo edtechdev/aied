@@ -1,9 +1,9 @@
 ---
-title: "Beyond Access: Guided LLM Scaffolding for Independent Learning"
+title: 'Beyond Access: Guided LLM Scaffolding for Independent Learning'
 created: 2026-06-02
 updated: 2026-06-02
 type: concept
-tags: ['intelligent-tutoring', 'scaffolding', 'higher-ed', 'metacognition', 'prompt-engineering']
+tags: [intelligent-tutoring, scaffolding, higher-ed, metacognition, prompt-engineering]
 sources: [raw/papers/2606.01375.md]
 confidence: high
 ---

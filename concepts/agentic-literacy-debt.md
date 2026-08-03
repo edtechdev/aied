@@ -1,5 +1,5 @@
 ---
-title: "Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named"
+title: 'Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named'
 created: 2026-05-28
 updated: 2026-05-28
 type: concept

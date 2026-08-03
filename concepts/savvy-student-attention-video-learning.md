@@ -1,5 +1,5 @@
 ---
-title: "SAVVY: Student Attention Visualization for Video-based Learning Analysis"
+title: 'SAVVY: Student Attention Visualization for Video-based Learning Analysis'
 created: 2026-08-03
 updated: 2026-08-03
 type: concept

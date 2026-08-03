@@ -1,5 +1,5 @@
 ---
-title: "Toward a Metaphysics of Learning Analytics: Ontological Positioning"
+title: 'Toward a Metaphysics of Learning Analytics: Ontological Positioning'
 created: 2026-06-09
 updated: 2026-06-09
 type: concept

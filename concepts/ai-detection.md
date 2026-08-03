@@ -1,5 +1,5 @@
 ---
-title: "AI Detection in Education"
+title: AI Detection in Education
 created: 2026-06-09
 updated: 2026-06-09
 type: concept

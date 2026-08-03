@@ -1,9 +1,9 @@
 ---
-title: "AI from the Administrator Perspective"
+title: AI from the Administrator Perspective
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ['administrator', 'policy-maker', 'higher-ed']
+tags: [administrator, policy-maker, higher-ed]
 sources: []
 confidence: low
 ---

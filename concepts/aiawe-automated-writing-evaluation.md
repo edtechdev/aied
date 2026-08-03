@@ -3,7 +3,7 @@ title: "AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA
 created: 2026-06-12
 updated: 2026-06-12
 type: concept
-tags: ["generative-ai", "llm", "automated-grading", "writing-education", "open-source"]
+tags: [generative-ai, llm, automated-grading, writing-education, open-source]
 sources: [raw/papers/2606.12801.md]
 confidence: high
 ---

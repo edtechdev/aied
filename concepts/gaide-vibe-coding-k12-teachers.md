@@ -1,5 +1,5 @@
 ---
-title: A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+title: "A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding"
 created: 2026-07-09
 updated: 2026-07-09
 type: concept

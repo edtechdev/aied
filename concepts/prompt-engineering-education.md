@@ -1,5 +1,5 @@
 ---
-title: "Prompt Engineering Education"
+title: Prompt Engineering Education
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

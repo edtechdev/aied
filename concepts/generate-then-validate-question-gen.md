@@ -1,5 +1,5 @@
 ---
-title: "Generate-Then-Validate: Question Generation for Education"
+title: 'Generate-Then-Validate: Question Generation for Education'
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

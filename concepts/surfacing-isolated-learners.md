@@ -1,5 +1,5 @@
 ---
-title: Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI
+title: "Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI"
 created: 2026-06-01
 updated: 2026-06-01
 type: concept

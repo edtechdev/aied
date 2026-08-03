@@ -1,5 +1,5 @@
 ---
-title: "A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges"
+title: 'A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges'
 created: 2026-06-29
 updated: 2026-06-29
 type: concept

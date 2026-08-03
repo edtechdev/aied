@@ -1,9 +1,9 @@
 ---
-title: "Transforming GenAI Policy to Prompting Instruction (RCT)"
+title: Transforming GenAI Policy to Prompting Instruction (RCT)
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [ai-literacy, k-12, rct, regulation, "faculty-development"]
+tags: [ai-literacy, k-12, rct, regulation, faculty-development]
 sources: [2602.16033]
 confidence: high
 ---

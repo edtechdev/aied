@@ -3,7 +3,7 @@ title: "Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assist
 created: 2026-06-17
 updated: 2026-06-17
 type: concept
-tags: ["llm", "generative-ai", "bias-mitigation", "writing-education", "higher-ed", "student-experience"]
+tags: [llm, generative-ai, bias-mitigation, writing-education, higher-ed, student-experience]
 sources: [raw/papers/2606.15914.md]
 confidence: high
 ---

@@ -1,9 +1,9 @@
 ---
-title: "Cognitive offloading and the speedup illusion in human-AI interaction"
+title: Cognitive offloading and the speedup illusion in human-AI interaction
 created: 2026-05-25
 updated: 2026-05-25
 type: concept
-tags: ["over-reliance", "metacognition", "efficacy-study", "student-experience", "cognitive-offloading"]
+tags: [over-reliance, metacognition, efficacy-study, student-experience, cognitive-offloading]
 sources: [raw/papers/2605.23177.md]
 confidence: high
 ---

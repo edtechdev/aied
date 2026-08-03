@@ -1,5 +1,5 @@
 ---
-title: "Accessible Learning"
+title: Accessible Learning
 created: 2026-06-01
 updated: 2026-06-01
 type: concept

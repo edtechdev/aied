@@ -1,5 +1,5 @@
 ---
-title: "Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning"
+title: 'Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning'
 created: 2026-08-03
 updated: 2026-08-03
 type: concept

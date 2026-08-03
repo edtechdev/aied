@@ -1,9 +1,9 @@
 ---
-title: "Framing the 5% Problem: Teachers' Perspectives on Persistence in Educational Technology"
+title: 'Framing the 5% Problem: Teachers'' Perspectives on Persistence in Educational Technology'
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: ["k-12", "teacher-role", "student-experience", "engagement-metrics", "adaptive-learning"]
+tags: [k-12, teacher-role, student-experience, engagement-metrics, adaptive-learning]
 sources: [raw/papers/2606.22294.md]
 confidence: medium
 ---

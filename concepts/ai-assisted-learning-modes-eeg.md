@@ -1,5 +1,5 @@
 ---
-title: An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students
+title: "An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students"
 created: 2026-06-26
 updated: 2026-06-26
 type: concept

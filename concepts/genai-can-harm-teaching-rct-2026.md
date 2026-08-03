@@ -1,5 +1,5 @@
 ---
-title: "Generative AI Can Harm Teaching"
+title: Generative AI Can Harm Teaching
 created: 2026-08-03
 updated: 2026-08-03
 type: concept

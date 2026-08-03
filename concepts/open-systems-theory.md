@@ -1,5 +1,5 @@
 ---
-title: "Open Systems Theory"
+title: Open Systems Theory
 created: 2026-05-29
 updated: 2026-05-29
 type: concept

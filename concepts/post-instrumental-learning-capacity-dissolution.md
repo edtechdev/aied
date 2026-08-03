@@ -1,5 +1,5 @@
 ---
-title: When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution
+title: "When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution"
 created: 2026-07-31
 updated: 2026-07-31
 type: concept

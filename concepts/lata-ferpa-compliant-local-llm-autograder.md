@@ -1,5 +1,5 @@
 ---
-title: "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework"
+title: 'LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework'
 created: 2026-05-15
 updated: 2026-05-22
 type: concept

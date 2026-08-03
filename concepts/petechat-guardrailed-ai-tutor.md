@@ -3,7 +3,7 @@ title: "Tutor, Not Solver: Designing a Guardrailed AI Assistant for Learning in 
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
-tags: ["intelligent-tutoring", "higher-ed", "llm", "academic-integrity", "scaffolding"]
+tags: [intelligent-tutoring, higher-ed, llm, academic-integrity, scaffolding]
 sources: [2606.09845.md]
 confidence: high
 ---

@@ -1,9 +1,9 @@
 ---
-title: "Lifelong Learning and AI"
+title: Lifelong Learning and AI
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ['lifelong-learning', 'personalized-learning', 'professional-training']
+tags: [lifelong-learning, personalized-learning, professional-training]
 sources: []
 confidence: low
 ---

@@ -1,5 +1,5 @@
 ---
-title: "'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform"
+title: '"A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform'
 created: 2026-06-26
 updated: 2026-06-26
 type: concept
@@ -8,7 +8,7 @@ sources: [raw/papers/2606.26729.md]
 confidence: high
 ---
 
-# 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform
+# "A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 
 **Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026)** — arXiv cs.HC
 📄 [Full text (arXiv)](https://arxiv.org/abs/2606.26729)

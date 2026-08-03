@@ -1,5 +1,5 @@
 ---
-title: "AI Assistance Reduces Persistence and Hurts Independent Performance"
+title: AI Assistance Reduces Persistence and Hurts Independent Performance
 created: 2026-05-27
 updated: 2026-05-27
 type: concept

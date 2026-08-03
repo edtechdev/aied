@@ -1,5 +1,5 @@
 ---
-title: "Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact"
+title: 'Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact'
 created: 2026-06-16
 updated: 2026-06-16
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Agentic AI in Education"
+title: Agentic AI in Education
 created: "2026-08-01"
 updated: "2026-08-01"
 type: concept

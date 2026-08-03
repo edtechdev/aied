@@ -1,5 +1,5 @@
 ---
-title: "Confidence-Aware Automatic Short Answer Grading"
+title: Confidence-Aware Automatic Short Answer Grading
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

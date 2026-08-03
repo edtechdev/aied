@@ -1,5 +1,5 @@
 ---
-title: Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?
+title: "Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept

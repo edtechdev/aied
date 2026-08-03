@@ -1,5 +1,5 @@
 ---
-title: "The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty"
+title: 'The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty'
 created: 2026-07-30
 updated: 2026-07-30
 type: concept

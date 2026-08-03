@@ -1,5 +1,5 @@
 ---
-title: A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+title: "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol"
 created: 2026-07-14
 updated: 2026-07-14
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Codify: An Intelligent Socratic Tutoring System for Programming Education"
+title: 'Codify: An Intelligent Socratic Tutoring System for Programming Education'
 created: 2026-05-17
 updated: 2026-05-17
 type: concept

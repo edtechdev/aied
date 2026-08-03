@@ -1,5 +1,5 @@
 ---
-title: "Stop Writing for Me: Generative Refusal in AI Tools for Thought"
+title: 'Stop Writing for Me: Generative Refusal in AI Tools for Thought'
 created: 2026-07-31
 updated: 2026-07-31
 type: concept

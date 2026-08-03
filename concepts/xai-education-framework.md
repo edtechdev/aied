@@ -1,5 +1,5 @@
 ---
-title: "Explainable Artificial Intelligence in Education (XAI-ED)"
+title: Explainable Artificial Intelligence in Education (XAI-ED)
 created: 2026-05-21
 updated: 2026-05-21
 type: concept

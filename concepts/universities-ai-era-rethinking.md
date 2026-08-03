@@ -1,5 +1,5 @@
 ---
-title: "The University AI Didn't Replace: Rethinking Universities in the AI Era"
+title: 'The University AI Didn''t Replace: Rethinking Universities in the AI Era'
 created: 2026-05-08
 updated: 2026-05-11
 type: concept

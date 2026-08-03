@@ -1,5 +1,5 @@
 ---
-title: Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education
+title: "Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education"
 created: 2026-07-23
 updated: 2026-07-23
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
+title: "Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education"
 created: 2026-07-31
 updated: 2026-07-31
 type: concept

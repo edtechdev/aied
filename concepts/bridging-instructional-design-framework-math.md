@@ -3,7 +3,7 @@ title: "WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: 
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: ["teacher-role", "k-12", "stem-education", "scaffolding", "ai-literacy"]
+tags: [teacher-role, k-12, stem-education, scaffolding, ai-literacy]
 sources: [raw/papers/2606.20934.md]
 confidence: low
 ---

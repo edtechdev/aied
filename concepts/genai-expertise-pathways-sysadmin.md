@@ -1,5 +1,5 @@
 ---
-title: Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
+title: "Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration"
 created: 2026-08-03
 updated: 2026-08-03
 type: concept

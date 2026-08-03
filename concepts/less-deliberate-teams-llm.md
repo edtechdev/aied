@@ -1,5 +1,5 @@
 ---
-title: "Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work"
+title: 'Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work'
 created: 2026-07-02
 updated: 2026-07-02
 type: concept

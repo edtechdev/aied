@@ -1,5 +1,5 @@
 ---
-title: "Educational Content"
+title: Educational Content
 created: 2026-07-31
 updated: 2026-07-31
 type: concept

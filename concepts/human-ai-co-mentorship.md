@@ -1,9 +1,9 @@
 ---
-title: "Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting"
+title: 'Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting'
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ["stem-education", "k-12", "higher-ed", "active-learning", "scaffolding"]
+tags: [stem-education, k-12, higher-ed, active-learning, scaffolding]
 sources: ["raw/papers/2605.05144.md"]
 confidence: medium
 ---

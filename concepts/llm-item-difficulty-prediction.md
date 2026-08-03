@@ -1,5 +1,5 @@
 ---
-title: Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
+title: "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction"
 created: 2026-06-29
 updated: 2026-06-29
 type: concept

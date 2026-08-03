@@ -1,5 +1,5 @@
 ---
-title: "DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education"
+title: 'DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education'
 created: 2026-05-29
 updated: 2026-05-29
 type: concept

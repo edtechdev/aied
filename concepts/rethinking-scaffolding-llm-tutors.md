@@ -3,7 +3,7 @@ title: "Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between
 created: 2026-06-17
 updated: 2026-06-17
 type: concept
-tags: ["scaffolding", "intelligent-tutoring", "llm", "benchmark", "efficacy-study", "student-experience"]
+tags: [scaffolding, intelligent-tutoring, llm, benchmark, efficacy-study, student-experience]
 sources: [raw/papers/2606.15766.md]
 confidence: high
 ---

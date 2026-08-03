@@ -1,5 +1,5 @@
 ---
-title: "Ai Education"
+title: Ai Education
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

@@ -1,9 +1,9 @@
 ---
-title: "Socratic Method in AI Education"
+title: Socratic Method in AI Education
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: ["intelligent-tutoring", critical-thinking, socratic-method]
+tags: [intelligent-tutoring, critical-thinking, socratic-method]
 sources: [[]]
 confidence: low
 ---

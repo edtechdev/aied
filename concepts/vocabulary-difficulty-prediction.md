@@ -1,5 +1,5 @@
 ---
-title: "What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction"
+title: What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 created: 2026-05-20
 updated: 2026-05-20
 type: concept

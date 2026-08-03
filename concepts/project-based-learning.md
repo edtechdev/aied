@@ -1,9 +1,9 @@
 ---
-title: "Project-Based Learning and AI"
+title: Project-Based Learning and AI
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ['active-learning', 'scaffolding', 'k-12']
+tags: [active-learning, scaffolding, k-12]
 sources: []
 confidence: low
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking"
+title: 'Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking'
 created: 2026-07-23
 updated: 2026-07-23
 type: concept

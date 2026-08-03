@@ -1,5 +1,5 @@
 ---
-title: "Little Impact of ChatGPT Availability on High School Student Test Score Performance"
+title: Little Impact of ChatGPT Availability on High School Student Test Score Performance
 created: 2026-05-14
 updated: 2026-05-14
 type: concept

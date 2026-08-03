@@ -1,5 +1,5 @@
 ---
-title: "Educator's Guide to Multimodal Learning with GenAI"
+title: Educator's Guide to Multimodal Learning with GenAI
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

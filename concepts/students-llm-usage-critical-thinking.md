@@ -1,5 +1,5 @@
 ---
-title: Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
+title: "Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks"
 created: 2026-05-15
 updated: 2026-05-15
 type: concept

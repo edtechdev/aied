@@ -3,7 +3,7 @@ title: "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Process
 created: 2026-07-03
 updated: 2026-07-03
 type: concept
-tags: [ai-literacy, "cs-education", student-ai-interaction, scaffolding, higher-ed]
+tags: [ai-literacy, cs-education, student-ai-interaction, scaffolding, higher-ed]
 sources: [raw/papers/2607.00211.md]
 confidence: high
 ---

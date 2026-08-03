@@ -1,9 +1,9 @@
 ---
-title: "Learning Analytics"
+title: Learning Analytics
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ['learning-analytics', 'efficacy-study', 'benchmark']
+tags: [learning-analytics, efficacy-study, benchmark]
 sources: []
 confidence: low
 ---

@@ -1,9 +1,9 @@
 ---
-title: "ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots"
+title: 'ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots'
 created: 2026-06-18
 updated: 2026-06-18
 type: concept
-tags: ["intelligent-tutoring", "adaptive-learning", "professional-training", "active-learning", "llm"]
+tags: [intelligent-tutoring, adaptive-learning, professional-training, active-learning, llm]
 sources: [raw/papers/2606.18319.md]
 confidence: medium
 ---

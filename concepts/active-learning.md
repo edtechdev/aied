@@ -1,5 +1,5 @@
 ---
-title: "Active Learning"
+title: Active Learning
 created: 2026-06-09
 updated: 2026-06-09
 type: concept

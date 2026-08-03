@@ -3,7 +3,7 @@ title: "CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Ge
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: ["llm", "generative-ai", "personalized-learning", "scaffolding", "higher-ed"]
+tags: [llm, generative-ai, personalized-learning, scaffolding, higher-ed]
 sources: [raw/papers/2606.20608.md]
 confidence: medium
 ---

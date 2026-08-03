@@ -3,7 +3,7 @@ title: "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ["writing-education", "scaffolding", "ai-literacy", "higher-ed", "formative-assessment"]
+tags: [writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment]
 sources: ["raw/papers/2605.05598.md"]
 confidence: medium
 ---

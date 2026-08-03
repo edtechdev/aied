@@ -1,5 +1,5 @@
 ---
-title: "Randomized Controlled Trials in AI Education Research"
+title: Randomized Controlled Trials in AI Education Research
 created: 2026-07-28
 updated: 2026-07-29
 type: concept

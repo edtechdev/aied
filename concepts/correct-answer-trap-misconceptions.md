@@ -3,7 +3,7 @@ title: "The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback f
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: ["formative-assessment", "llm", "automated-grading", "k-12", "student-modeling"]
+tags: [formative-assessment, llm, automated-grading, k-12, student-modeling]
 sources: [raw/papers/2606.23205.md]
 confidence: medium
 ---

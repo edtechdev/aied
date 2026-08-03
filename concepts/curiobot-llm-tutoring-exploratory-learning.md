@@ -3,7 +3,7 @@ title: "Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to In
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: ["llm", "intelligent-tutoring", "metacognition", "scaffolding", "active-learning"]
+tags: [llm, intelligent-tutoring, metacognition, scaffolding, active-learning]
 sources: [raw/papers/2606.22349.md]
 confidence: high
 ---

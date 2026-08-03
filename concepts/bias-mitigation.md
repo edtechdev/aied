@@ -1,5 +1,5 @@
 ---
-title: "Bias Mitigation"
+title: Bias Mitigation
 created: 2026-07-14
 updated: 2026-07-14
 type: concept

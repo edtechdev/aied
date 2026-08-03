@@ -1,5 +1,5 @@
 ---
-title: "Multi Representational Tools"
+title: Multi Representational Tools
 created: 2026-07-28
 updated: 2026-07-28
 type: concept
