@@ -3,7 +3,7 @@ title: Learning Gains
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: []
+tags: [learning-gains]
 sources: []
 confidence: low
 ---

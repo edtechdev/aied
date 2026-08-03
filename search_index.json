@@ -57,7 +57,9 @@
   {
     "slug": "accessible-learning",
     "title": "\"Accessible Learning\"",
-    "tags": [],
+    "tags": [
+      "accessible-learning"
+    ],
     "content": "Accessible LearningStub page \u2014 created as a back-link target.Related Pagesspecial-r1-rl-special-education \u2014 links here\nastra-atco-training-simulator -- ASTRA uses autonomous AI sim-pilots for scalable air traffic control training; r...\nai-psychotherapy-training-avatars -- AI-driven interactive patient avatars for psychotherapy training provide accessi...\nadapt-adaptive-lesson-plan-transformer -- AdaPT uses transformers to adapt lesson plans across regional and differentiated...\nmedeasy-ai-standa",
     "url": "pages/accessible-learning.html"
   },
@@ -660,7 +662,9 @@
   {
     "slug": "ai-generated-content",
     "title": "Ai Generated Content",
-    "tags": [],
+    "tags": [
+      "ai-generated-content"
+    ],
     "content": "Ai Generated ContentStub page for cross-referencing.Related Pages\ncourseblueprint-adaptive-video-generation -- Explicit typed instructional contracts (scaffolding, adaptive controller, engagement contract, slide override) drastically improve pedagogical video quality over fluent but PCK-absent text-to-video.\ndata-comics-for-education-evaluating-effectiveness-benefits-ethics \u2014 Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of\nconstructing-epistemic-ai-literacy-stude",
     "url": "pages/ai-generated-content.html"
   },
@@ -1369,7 +1373,9 @@
   {
     "slug": "assessment",
     "title": "Assessment",
-    "tags": [],
+    "tags": [
+      "assessment"
+    ],
     "content": "AssessmentStub page for cross-referencing.Related Pages\ntest-driven-ai-assisted-learning -- A lecture-free CS course with AI-assisted weekly closed-book tests maintained accountability and was scalable with a version-controlled AI agent workspace.\nmachines-misread-pedagogical-quality -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a larger alignment effect than rationale-first evaluation, and the two are complementary.ai-assessment-scale-reform \u2014 AI As",
     "url": "pages/assessment.html"
   },
@@ -1868,7 +1874,9 @@
   {
     "slug": "cognitive-offloading",
     "title": "Cognitive Offloading",
-    "tags": [],
+    "tags": [
+      "cognitive-offloading"
+    ],
     "content": "Cognitive OffloadingStub page \u2014 full synthesis pending.Related Pagesai-making-us-stupid \u2014 Cash et al. (2026) Trends Cog Sci: offloading cognition to AI impedes skill acquisition & accelerates skill decay; risks use-dependent; basic abilities possibly more resilient\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncognitive-offloading-speedup-illusion \u2014 CogSci 2026 study: N=1,237 users overestimate AI time ",
     "url": "pages/cognitive-offloading.html"
   },
@@ -1930,7 +1938,9 @@
   {
     "slug": "collaborative-learning",
     "title": "Collaborative Learning",
-    "tags": [],
+    "tags": [
+      "collaborative-learning"
+    ],
     "content": "Collaborative LearningStub page \u2014 full synthesis pending.Related Pages\nneurodivergent-computing-students \u2014 Neurodivergent students prefer smaller teams with explicitly defined roles\nxai-education-framework\nteacher-student-agency-orchestration\nsocial-robot-study-companions \u2014 Co-Creating Buildable and Open Social Robot Study Companions\nless-deliberate-teams-llm \u2014 team-based learning\nepistemic-emotions-collaborative-problem-solving \u2014 Ordered Network Analysis reveals structured persistence and trans",
     "url": "pages/collaborative-learning.html"
   },
@@ -2183,7 +2193,9 @@
   {
     "slug": "creative-thinking",
     "title": "Creative Thinking",
-    "tags": [],
+    "tags": [
+      "creative-thinking"
+    ],
     "content": "Creative ThinkingStub page \u2014 full synthesis pending.Related Pages\ngenai-architecture-education",
     "url": "pages/creative-thinking.html"
   },
@@ -2240,7 +2252,9 @@
   {
     "slug": "critical-thinking",
     "title": "\"Critical Thinking\"",
-    "tags": [],
+    "tags": [
+      "critical-thinking"
+    ],
     "content": "Critical ThinkingThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\npost-instrumental-learning-capacity-dissolution\nai-literacy-power-knowledge\ngenerative-refusal-ai-tools-for-thought",
     "url": "pages/critical-thinking.html"
   },
@@ -2286,7 +2300,9 @@
   {
     "slug": "cs-education",
     "title": "Cs Education",
-    "tags": [],
+    "tags": [
+      "cs-education"
+    ],
     "content": "Cs EducationStub page \u2014 full synthesis pending.Related Pages\nstructrag-diagram-reasoning-ai-tutoring \u2014 Network-topology and algorithm diagram reasoning\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 taxonomy of programming misconceptions in conditionals and loops\nneurodivergent-computing-students \u2014 Design recommendations for inclusive active learning in computing courses\ncode-review-genai-cs1\nanvil-ai-educational-animations\ncode-anchor-multi-view-visualization -- Code as Anchor, Memory and",
     "url": "pages/cs-education.html"
   },
@@ -2515,7 +2531,9 @@
   {
     "slug": "dropout-reduction",
     "title": "Dropout Reduction",
-    "tags": [],
+    "tags": [
+      "dropout-reduction"
+    ],
     "content": "Dropout ReductionStub page for cross-referencing.Related Pages\nat-risk-students-ml-prediction -- Logistic regression and linear SVM achieve highest accuracy for predicting student attrition using academic, demographic, and enrollment data.",
     "url": "pages/dropout-reduction.html"
   },
@@ -2669,7 +2687,9 @@
   {
     "slug": "educational-theory",
     "title": "\"Educational Theory\"",
-    "tags": [],
+    "tags": [
+      "educational-theory"
+    ],
     "content": "Educational TheoryThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\ncritical-genai-use-predictors \u2014 Kuhn's epistemic orientation and intellectual values as predictors\npost-instrumental-learning-capacity-dissolution\nai-vocational-education-training-review",
     "url": "pages/educational-theory.html"
   },
@@ -2733,7 +2753,9 @@
   {
     "slug": "efficacy-study",
     "title": "Efficacy Study",
-    "tags": [],
+    "tags": [
+      "efficacy-study"
+    ],
     "content": "Efficacy StudyStub page \u2014 full synthesis pending.Related Pages\nanvil-ai-educational-animations\nllm-intervention-design-cs-review\nai-vocational-education-training-review\nquest-ai-inquiry-preservice-teachers",
     "url": "pages/efficacy-study.html"
   },
@@ -2831,7 +2853,9 @@
   {
     "slug": "engagement-metrics",
     "title": "Engagement Metrics",
-    "tags": [],
+    "tags": [
+      "engagement-metrics"
+    ],
     "content": "Engagement MetricsStub page for cross-referencing.Related Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Response length (chars/prompt) as behavioral engagement metric\ncross-subject-validity-delayed-start \u2014 Delayed start frequency as a generalizable engagement metric with cross-subject predictive validity\nframing-5-percent-problem-teachers-persistence -- Teachers identify four dimensions of low persistence in adaptive math platforms (motivation, cognitive roadblocks, resilience, context",
     "url": "pages/engagement-metrics.html"
   },
@@ -2873,7 +2897,9 @@
   {
     "slug": "equity",
     "title": "Equity",
-    "tags": [],
+    "tags": [
+      "equity"
+    ],
     "content": "EquityStub page \u2014 full synthesis pending.Related Pages\npost-covid-ict-career-aspirations \u2014 5 of 8 papers in May 28 scan\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nai-lifelong-learning-policyculturally-aware-aied-community-learning \u2014 Culturally-aware AIED framework for Asia-Pacific contexts\nmetaphysics-learning-analytics \u2014 Normative claims in analytics risk embedding inequity- agent-voice-accents-k",
     "url": "pages/equity.html"
   },
@@ -2966,7 +2992,9 @@
   {
     "slug": "faculty-development",
     "title": "Faculty Development",
-    "tags": [],
+    "tags": [
+      "faculty-development"
+    ],
     "content": "Faculty DevelopmentStub page \u2014 full synthesis pending.Related Pages\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nllm-sentiment-analysis-education-research \u2014 1 of 8 papers in May 28 scan\npersistent-ai-agents-academic-research \u2014 how persistent AI agents reshape individual academic work\nai-changing-teaching-workflows\ngenai-architecture-education\nai-pedagogical-accompaniment-amico\nai-lifelong-learning-policy\nanvil-ai-educational-animationscommunity-centered-ai-education-adults \u2014",
     "url": "pages/faculty-development.html"
   },
@@ -3515,7 +3543,9 @@
   {
     "slug": "generative-ai",
     "title": "Generative Ai",
-    "tags": [],
+    "tags": [
+      "generative-ai"
+    ],
     "content": "Generative AiStub page \u2014 full synthesis pending.Related Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 GPT-3.5 journaling assistant: scaffolds writing, no motivation gain\ngenai-impact-chinese-students-hss \u2014 Survey of Chinese HSS students on GenAI's effects on learning motivation, creativity, and academic performance\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\ngenai-minoritized-knowledges-disability \u2014 epistemic marginalization of minoritized knowledges via GenAI\n  -",
     "url": "pages/generative-ai.html"
   },
@@ -3746,7 +3776,9 @@
   {
     "slug": "human-in-the-loop",
     "title": "Human In The Loop",
-    "tags": [],
+    "tags": [
+      "human-in-the-loop"
+    ],
     "content": "Human In The LoopStub page \u2014 full synthesis pending.Related Pagesllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration",
     "url": "pages/human-in-the-loop.html"
   },
@@ -3883,7 +3915,9 @@
   {
     "slug": "instructional-design",
     "title": "Instructional Design",
-    "tags": [],
+    "tags": [
+      "instructional-design"
+    ],
     "content": "Instructional DesignStub page \u2014 full synthesis pending.Related Pages\nconcept-catalyst-engineering-scaffolds\nanvil-ai-educational-animations\ndidactical-teacher-assistant-dimensional-modeling \u2014 Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes \nadhd-video-segmentation-computing-education \u2014 Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p\nai-generated-instructional-videos-computing-ed\nllm-intervent",
     "url": "pages/instructional-design.html"
   },
@@ -3981,7 +4015,9 @@
   {
     "slug": "k-12",
     "title": "K 12",
-    "tags": [],
+    "tags": [
+      "k-12"
+    ],
     "content": "K 12Stub page \u2014 full synthesis pending.Related Pages\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration\ndigital-literacy-illusion \u2014 Digital literacy illusion study with N=243 European secondary students\nteacher-authored-prompts-student-ai-dialogue \u2014 K-12 classroom implementation of AI-mediated dialogueawareness-technological-isomorphism \u2014 AI-integrated elementary mathematics through Technological Isomorphism\nregulating",
     "url": "pages/k-12.html"
   },
@@ -4058,7 +4094,9 @@
   {
     "slug": "knowledge-tracing",
     "title": "Knowledge Tracing",
-    "tags": [],
+    "tags": [
+      "knowledge-tracing"
+    ],
     "content": "Knowledge TracingStub page for cross-referencing.Related Pages\nskill-acquisition-without-temporal-info -- A neural framework predicts next-skill acquisition from snapshot CDM data using pseudo-temporal ordering via inclusion relations among skill sets.\npattern-kc-programming-recommendation \u2014 Pattern-based KC programming recommendation\nllm-psychometric-calibration-cdp \u2014 CDP framework dramatically improves LLM-simulated examinee alignment with human ...\nstudent-math-competence-clustering \u2014 119K st",
     "url": "pages/knowledge-tracing.html"
   },
@@ -4203,7 +4241,9 @@
   {
     "slug": "learning-gains",
     "title": "Learning Gains",
-    "tags": [],
+    "tags": [
+      "learning-gains"
+    ],
     "content": "Learning GainsStub page for cross-referencing.Related Pages\nadaptive-pretesting-retention -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice \u2014 learner-directed AI study underperforms structured retrieval.\nlearning-behavior-background-advantage-ai-ed \u2014 Heterogeneous learning gains (2026-07-14)",
     "url": "pages/learning-gains.html"
   },
@@ -4702,7 +4742,9 @@
   {
     "slug": "llm",
     "title": "Llm",
-    "tags": [],
+    "tags": [
+      "llm"
+    ],
     "content": "LlmStub page \u2014 full synthesis pending.Related Pages\nsupplynet-visual-exploratory-learning \u2014 Contextual graph-based LLM multi-agent framework for educational simulation\nkt4eqg-personalized-question-generation \u2014 7 of 8 papers in May 28 scan\nrubric-aware-grading-rec-cbm \u2014 2 of 8 papers in May 28 scan\nsocially-fluent-ai-identity-detection \u2014 Socially fluent LLMs decouple conversational signals from source identity\nmindcopilot-llm-co-writing \u2014 Interaction-aware evaluation framework for LLM co-writing ",
     "url": "pages/llm.html"
   },
@@ -5007,7 +5049,9 @@
   {
     "slug": "multilingual-learning",
     "title": "\"Multilingual Learning\"",
-    "tags": [],
+    "tags": [
+      "multilingual-learning"
+    ],
     "content": "Multilingual LearningThis page is a stub. Content will be added as relevant sources are ingested.Related Pages\niks-instruct-dataset-indian-knowledge\nai-scoring-language-bias-physics",
     "url": "pages/multilingual-learning.html"
   },
@@ -5086,7 +5130,9 @@
   {
     "slug": "multimodal",
     "title": "Multimodal",
-    "tags": [],
+    "tags": [
+      "multimodal"
+    ],
     "content": "MultimodalStub page \u2014 full synthesis pending.Related Pages\nslidesqaqa-pedagogical-question-generation \u2014 joint text+visual reasoning for slide-based question generation\nanvil-ai-educational-animations\nmultimodal-prompting-ai-literacy",
     "url": "pages/multimodal.html"
   },
@@ -5329,7 +5375,9 @@
   {
     "slug": "policy-maker",
     "title": "Policy Maker",
-    "tags": [],
+    "tags": [
+      "policy-maker"
+    ],
     "content": "Policy MakerStub page \u2014 full synthesis pending.Related Pages\nai-lifelong-learning-policyai-assessment-scale-reform \u2014 AI Assessment Scale (AIAS) Reform\nai-literacy-equity-programming-policy \u2014 Curriculum policy decisions (2026-07-14)\ngenai-policies-higher-ed-computing - who sets AI-use rules in higher education\nai-ethics-education-public-discourse - policymakers integrating AI responsibly",
     "url": "pages/policy-maker.html"
   },
@@ -5408,7 +5456,9 @@
   {
     "slug": "professional-training",
     "title": "Professional Training",
-    "tags": [],
+    "tags": [
+      "professional-training"
+    ],
     "content": "Professional TrainingStub page \u2014 full synthesis pending.Related Pages\nai-coaching-rl-skill-development \u2014 RL-based AI coaching for accelerating professional skill development in motor domains\nsupplynet-visual-exploratory-learning \u2014 SupplyNet applies AI simulation to professional supply chain management training\ngenai-architecture-education\nmetacognitive-learning-scenarios-taxonomy \u2014 Scenario taxonomy enables targeted AI-enhanced professional development\nastra-atco-training-simulator -- ASTRA uses",
     "url": "pages/professional-training.html"
   },
@@ -6182,7 +6232,9 @@
   {
     "slug": "student-ai-interaction",
     "title": "\"Student Ai Interaction\"",
-    "tags": [],
+    "tags": [
+      "student-ai-interaction"
+    ],
     "content": "Student Ai InteractionStub page \u2014 created as a back-link target.Related Pages\nteacher-authored-prompts-student-ai-dialogue \u2014 Teacher-configured student-AI dialogue at classroom scaletutoring-effectiveness-index \u2014 links here\nfrom-answer-generators-to-reasoning-facilitators-ai-tutors \u2014 From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathem\nmind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai \u2014 Mind the Trust Gap: Identifying (Mis)alignments in Teacher-",
     "url": "pages/student-ai-interaction.html"
   },
@@ -6246,7 +6298,9 @@
   {
     "slug": "student-modeling",
     "title": "\"Student Modeling\"",
-    "tags": [],
+    "tags": [
+      "student-modeling"
+    ],
     "content": "Student ModelingStub page \u2014 created as a back-link target.Related Pages\ncross-subject-validity-delayed-start \u2014 Cross-subject predictive validity of delayed start behavior as a generalizable learner behavior signal\n  - simulating-students-java-programming-errors-llms \u2014 LLM-simulated student errors as scalable proxy data for student modelingsurfacing-isolated-learners \u2014 links here\nphysiological-signals-exam-outcomes-ml -- Random forest predicts exam outcomes from physiological signals as well as d",
     "url": "pages/student-modeling.html"
   },

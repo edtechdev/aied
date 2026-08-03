@@ -3,7 +3,7 @@ title: Ai Generated Content
 created: 2026-06-23
 updated: 2026-06-23
 type: concept
-tags: []
+tags: [ai-generated-content]
 sources: []
 confidence: low
 ---

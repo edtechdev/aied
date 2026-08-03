@@ -3,7 +3,7 @@ title: "Student Ai Interaction"
 created: 2026-06-01
 updated: 2026-07-27
 type: concept
-tags: []
+tags: [student-ai-interaction]
 sources: []
 confidence: low
 ---

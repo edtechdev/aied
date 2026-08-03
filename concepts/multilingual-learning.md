@@ -3,7 +3,7 @@ title: "Multilingual Learning"
 created: 2026-07-31
 updated: 2026-07-31
 type: concept
-tags: []
+tags: [multilingual-learning]
 sources: []
 confidence: low
 ---

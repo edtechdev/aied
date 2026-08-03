@@ -3,7 +3,7 @@ title: Creative Thinking
 created: 2026-05-21
 updated: 2026-05-21
 type: concept
-tags: []
+tags: [creative-thinking]
 sources: []
 confidence: low
 ---

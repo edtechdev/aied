@@ -3,7 +3,7 @@ title: Generative Ai
 created: 2026-05-21
 updated: 2026-05-21
 type: concept
-tags: []
+tags: [generative-ai]
 sources: []
 confidence: low
 ---
