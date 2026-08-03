@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Ed Wiki</title>
+    <link>https://edtechdev.github.io/aied/</link>
+    <description>Recently added articles on AI in education</description>
+    <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2026 14:25:43 +0000</lastBuildDate>
+    <item>
+      <title>Access is Not Enough: Human Support Improves Engagement with AI Tutoring</title>
+      <link>https://edtechdev.github.io/aied/pages/access-not-enough-ai-tutoring-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/access-not-enough-ai-tutoring-2026.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Robinson, Gormley, Ribeiro & Loeb (2026) ran two RCTs showing that AI tutoring's binding constraint is take-up, not capability: despite dedicated session time, nearly half of students never used the platform and users averaged only 2–5 minutes per week. An in-person engagement tutor (not direct instruction) raised usage by 1–4 minutes/week and engagement by 71–80% — but dosage stayed far below…]]></description>
+    </item>
+    <item>
+      <title>The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning</title>
+      <link>https://edtechdev.github.io/aied/pages/agency-gap-ai-writing.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/agency-gap-ai-writing.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Yueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Gašević & Lixiang Yan (2026) — Computers and Education: Artificial Intelligence (Elsevier), Article in Press. Open Access, CC BY 4.0. doi:10.1016/j.caeai.2026.100655.]]></description>
+    </item>
+    <item>
+      <title>Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning</title>
+      <link>https://edtechdev.github.io/aied/pages/agentic-ai-pedagogical-best-practice-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/agentic-ai-pedagogical-best-practice-2026.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of proactive agentic AI and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — intentional friction, dynamic scaffolding, human-in-the-loop oversight, and considered AI utilisation — i…]]></description>
+    </item>
+    <item>
+      <title>Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth</title>
+      <link>https://edtechdev.github.io/aied/pages/agreement-not-quality-llm-coding-verification.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/agreement-not-quality-llm-coding-verification.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Alex Liu, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He, Min Sun — arXiv preprint (2026).]]></description>
+    </item>
+    <item>
+      <title>From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership</title>
+      <link>https://edtechdev.github.io/aied/pages/ai-writing-support-stage-ownership-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-writing-support-stage-ownership-2026.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Gero, Long, Schnitzler & Dhillon (2026, DIS '26) ran a between-subjects essay study (n = 253) showing that where AI support enters the writing process determines how much students feel they own the work: any AI assistance decreased ownership, but planning support cost the least while drafting support cost the most. The mechanism is AI-contributed text and ideas — and there is a genuine quality–…]]></description>
+    </item>
+    <item>
+      <title>From authentic products to authenticated processes: authentic assessment in AI-rich higher education</title>
+      <link>https://edtechdev.github.io/aied/pages/authentic-products-authenticated-processes-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/authentic-products-authenticated-processes-2026.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Tsiligkiris (2026) reframes authentic assessment as an evidential and validity-oriented design problem in AI-rich higher education. His central distinction — authentic products vs. authenticated processes — argues that assessment validity under generative AI depends not on realistic outputs alone but on architectures that make human judgement, verification, and responsibility visible. A systema…]]></description>
+    </item>
+    <item>
+      <title>Beyond Detection: redesigning authentic assessment in an AI-mediated world</title>
+      <link>https://edtechdev.github.io/aied/pages/beyond-detection-authentic-assessment-ai-2025.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/beyond-detection-authentic-assessment-ai-2025.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Kickbusch, Ashford-Rowe, Kemp, Boreland & Huijser (2025) argue the dominant institutional response to generative AI in assessment — surveillance and AI detection — misdiagnoses the problem: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer disc…]]></description>
+    </item>
+    <item>
+      <title>The care-full craft of feedback in an age of generative AI</title>
+      <link>https://edtechdev.github.io/aied/pages/care-full-feedback-genai.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/care-full-feedback-genai.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Naomi E. Winstone, Karen Gravett, Margaret Bearman, Christy Noble, Lasse X Jensen, Anna Jones & Kelli Nicola-Richmond (2026) — Assessment & Evaluation in Higher Education 51(5), 911–927. doi:10.1080/02602938.2026.2643333.]]></description>
+    </item>
+    <item>
+      <title>Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence</title>
+      <link>https://edtechdev.github.io/aied/pages/chatgpt-feedback-engagement-genai.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/chatgpt-feedback-engagement-genai.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Ying Zhan & Zi Yan (2026) — Assessment & Evaluation in Higher Education 51(5), 821–834. doi:10.1080/02602938.2025.2471821.]]></description>
+    </item>
+    <item>
+      <title>The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise</title>
+      <link>https://edtechdev.github.io/aied/pages/cognitive-commons-ai-expertise-regeneration.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/cognitive-commons-ai-expertise-regeneration.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Nolan Lovett — Human Resource Development Review (author accepted manuscript, 2026).]]></description>
+    </item>
+    <item>
+      <title>ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning</title>
+      <link>https://edtechdev.github.io/aied/pages/connected-ai-lesson-planning-vietnam.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/connected-ai-lesson-planning-vietnam.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy — arXiv preprint (2026).]]></description>
+    </item>
+    <item>
+      <title>CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback</title>
+      <link>https://edtechdev.github.io/aied/pages/cotal-formative-assessment-scoring-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/cotal-formative-assessment-scoring-2026.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Cohn, Ashwin T S, Mohammed & Biswas (2026) introduce CoTAL (Chain-of-Thought Prompting + Active Learning): an LLM grading pipeline that couples Evidence-Centered Design with human-in-the-loop prompt engineering and iterative teacher/student feedback refinement. It improves GPT-4's scoring by up to 38.9% over a non-prompt-engineered baseline and generalises across science, computing, and enginee…]]></description>
+    </item>
+    <item>
+      <title>GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use</title>
+      <link>https://edtechdev.github.io/aied/pages/critical-genai-use-predictors.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/critical-genai-use-predictors.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Markus H. Hefter, Benjamin Paaßen & Kirsten Berthold (2026) — AI Educ. (MDPI), 2, 27. Open Access, CC BY 4.0. doi:10.3390/aieduc2030027.]]></description>
+    </item>
+    <item>
+      <title>Feedback futures: beyond the limits of human and GenAI capacities</title>
+      <link>https://edtechdev.github.io/aied/pages/feedback-futures-genai.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/feedback-futures-genai.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Ying Zhan, James Wood, David Carless & Zi Yan (2026) — Assessment & Evaluation in Higher Education 51(5), 811–820. Editorial introducing the AEHE special issue on feedback and generative AI. doi:10.1080/02602938.2026.2672830.]]></description>
+    </item>
+    <item>
+      <title>Generative AI Can Harm Teaching</title>
+      <link>https://edtechdev.github.io/aied/pages/genai-can-harm-teaching-rct-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-can-harm-teaching-rct-2026.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Sungu, Lira & Duckworth (2026) ran one of the first large-scale RCTs of a teacher-facing generative AI tool and found it can harm students: providing teachers an AI teaching assistant reduced student intrinsic motivation by 0.11 SD and — among lower-performing teachers — cut student achievement by 0.13 SD. The pattern is a principal–agent problem: teachers (agents) gain labor savings from AI de…]]></description>
+    </item>
+    <item>
+      <title>Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration</title>
+      <link>https://edtechdev.github.io/aied/pages/genai-expertise-pathways-sysadmin.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-expertise-pathways-sysadmin.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Rana Abou Khamis, Hala Assal, Ashraf Matrawy — arXiv preprint (2026).]]></description>
+    </item>
+    <item>
+      <title>Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness</title>
+      <link>https://edtechdev.github.io/aied/pages/genai-teacher-feedback-comparison.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-teacher-feedback-comparison.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Michael Henderson, Margaret Bearman, Jennifer Chung, Tim Fawns, Simon Buckingham Shum, Kelly E. Matthews & Jimena de Mello Heredia (2026) — Assessment & Evaluation in Higher Education 51(5), 863–878. doi:10.1080/02602938.2025.2502582.]]></description>
+    </item>
+    <item>
+      <title>Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use</title>
+      <link>https://edtechdev.github.io/aied/pages/human-llm-collaborative-coding-k12-educator-ai.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-llm-collaborative-coding-k12-educator-ai.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Alex Liu, Min Sun, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He — arXiv preprint (2026).]]></description>
+    </item>
+    <item>
+      <title>Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game</title>
+      <link>https://edtechdev.github.io/aied/pages/hypergamification-game-engine-lms.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/hypergamification-game-engine-lms.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Araz Yusubov, Michael Bechtel, Tangiz Alizada — arXiv preprint (2026).]]></description>
+    </item>
+    <item>
+      <title>Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents</title>
+      <link>https://edtechdev.github.io/aied/pages/icap-cognitive-engagement-llm-agents.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/icap-cognitive-engagement-llm-agents.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas — CogSci 2026 (accepted full paper).]]></description>
+    </item>
+    <item>
+      <title>Enhancing learner-centered feedback with AI: teachers' practices and perceptions</title>
+      <link>https://edtechdev.github.io/aied/pages/learner-centered-feedback-ai.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/learner-centered-feedback-ai.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Ahmad Ari Aldino, Bhagya Maheshi, Yuheng Li, Ying Zhou, Yi-Shan Tsai, Dragan Gašević & Guanliang Chen (2026) — Assessment & Evaluation in Higher Education 51(5), 892–910. doi:10.1080/02602938.2026.2638920.]]></description>
+    </item>
+    <item>
+      <title>Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance</title>
+      <link>https://edtechdev.github.io/aied/pages/lets-chat-chatbot-outreach-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/lets-chat-chatbot-outreach-2026.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Meyer, Page, Mata et al. (2026) ran two pre-registered RCTs at Georgia State University testing a non-generative academic chatbot that texted students 2–3 customized nudges per week in large-enrollment online courses. It raised the probability of earning an A or B by 4 percentage points — driven entirely by women in Microeconomics (+7 grade points, +11 pp A/B, −10 pp DFW) — via a task-completio…]]></description>
+    </item>
+    <item>
+      <title>To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions</title>
+      <link>https://edtechdev.github.io/aied/pages/llm-facilitation-timing-online-discussions.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/llm-facilitation-timing-online-discussions.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Dimitris Tsirmpas, Katerina Korre, John Pavlopoulos — arXiv preprint (2026).]]></description>
+    </item>
+    <item>
+      <title>SAVVY: Student Attention Visualization for Video-based Learning Analysis</title>
+      <link>https://edtechdev.github.io/aied/pages/savvy-student-attention-video-learning.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/savvy-student-attention-video-learning.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Shixian Zhou, Minghuan Shen, Xiaolin Wen, Zijun Qiu, Yongliang Jiang, Xiangyang Wu, Fei Wu, Yong Wang, Zhiguang Zhou — arXiv preprint (2026).]]></description>
+    </item>
+    <item>
+      <title>Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks</title>
+      <link>https://edtechdev.github.io/aied/pages/scaffolding-critical-engagement-genai-minority-students.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/scaffolding-critical-engagement-genai-minority-students.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Deliang Wang, Cunling Bian — AIED 2026 (accepted full paper).]]></description>
+    </item>
+    <item>
+      <title>The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations</title>
+      <link>https://edtechdev.github.io/aied/pages/socratic-tests-conversational-assessment.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/socratic-tests-conversational-assessment.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Ilya Mikhelson — Submitted to Computers and Education: Artificial Intelligence (2026).]]></description>
+    </item>
+    <item>
+      <title>Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education</title>
+      <link>https://edtechdev.github.io/aied/pages/structrag-diagram-reasoning-ai-tutoring.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/structrag-diagram-reasoning-ai-tutoring.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Yicheng Sun, Yihan Liao & Xiaoxue Ma (2026) — Smart Learning Environments (Springer), Article in Press. Open Access, CC BY 4.0. doi:10.1186/s40561-026-00459-9.]]></description>
+    </item>
+    <item>
+      <title>Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results</title>
+      <link>https://edtechdev.github.io/aied/pages/structured-ai-demonstrations-engineering-mechanics.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/structured-ai-demonstrations-engineering-mechanics.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, Emma Lejeune — arXiv preprint (2026).]]></description>
+    </item>
+    <item>
+      <title>Sycophantic AI makes human interaction feel more effortful and less satisfying over time</title>
+      <link>https://edtechdev.github.io/aied/pages/sycophantic-ai-social-interaction-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/sycophantic-ai-social-interaction-2026.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Ibrahim, Hafner, Cheng, Lee, Anselmetti, Willer, Rocher & Yang (2026) provide large longitudinal experimental evidence (N = 3,075; 12,766 conversations; three-week census-representative U.S. sample) that sycophantic AI — which affirms users' views rather than challenging them — displaces real human relationships: users became nearly as likely to seek personal advice from the AI as from close fr…]]></description>
+    </item>
+    <item>
+      <title>Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators</title>
+      <link>https://edtechdev.github.io/aied/pages/trust-reliance-ai-education-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/trust-reliance-ai-education-2026.html</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Pitts, Rani & Mildort (2026, AIED) show with 432 undergraduates that higher trust in an AI assistant is associated with lower appropriate reliance: students who trusted the assistant more were worse at discriminating correct from misleading AI suggestions during Python problem-solving. The relationship is non-linear and moderated by AI literacy and need for cognition — trust is not a safe proxy…]]></description>
+    </item>
+    <item>
+      <title>AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study</title>
+      <link>https://edtechdev.github.io/aied/pages/ai-tpack-preservice-math-teachers.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-tpack-preservice-math-teachers.html</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Authors: Moeketsi Mosia, Fadip Audu Nannim, Felix Egara]]></description>
+    </item>
+    <item>
+      <title>Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness</title>
+      <link>https://edtechdev.github.io/aied/pages/ai-vocational-education-training-review.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-vocational-education-training-review.html</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Authors: Viola Deutscher, Herbert Thomann, Olga Zlatkin-Troitschanskaia, Ulrike Weyland, Stephan Abele, Amory H. Danek, Samuel Greiff, Andreas Rausch, Susan Seeber, Jürgen Seifried, Esther Winther]]></description>
+    </item>
+    <item>
+      <title>Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning</title>
+      <link>https://edtechdev.github.io/aied/pages/conversational-ai-informal-learning.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/conversational-ai-informal-learning.html</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Authors: Nađa Terzimehić, Babette Bühler, Enkelejda Kasneci]]></description>
+    </item>
+    <item>
+      <title>Fair and explainable educational recommendations with a hybrid Graph-GRU framework</title>
+      <link>https://edtechdev.github.io/aied/pages/fair-explainable-edu-recommendations.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/fair-explainable-edu-recommendations.html</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Authors: Edmund Evangelista, Syed M. Salman Bukhari]]></description>
+    </item>
+    <item>
+      <title>Generative AI (GenAI) as a mindtool that supports generative learning (GL)</title>
+      <link>https://edtechdev.github.io/aied/pages/genai-mindtool-generative-learning.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-mindtool-generative-learning.html</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Authors: Nada Dabbagh, Helen Fake]]></description>
+    </item>
+    <item>
+      <title>GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics</title>
+      <link>https://edtechdev.github.io/aied/pages/genai-runaway-object-math-higher-ed.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-runaway-object-math-higher-ed.html</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Authors: Dionysia Bakogianni, Yvonne Liljekvist, Phuong Bui]]></description>
+    </item>
+    <item>
+      <title>Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust</title>
+      <link>https://edtechdev.github.io/aied/pages/human-ai-collaboration-trust-expectations.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-ai-collaboration-trust-expectations.html</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Authors: Liana Razmerita, Xiaojiang Zheng, Jonathan P. Allen]]></description>
+    </item>
+    <item>
+      <title>Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis</title>
+      <link>https://edtechdev.github.io/aied/pages/human-vs-llm-ordered-coding.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-vs-llm-ordered-coding.html</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Authors: Kamila Misiejuk, Sonsoles López-Pernas, Eduardo Araujo Oliveira, Brendan Eagan, Mohammed Saqr]]></description>
+    </item>
+    <item>
+      <title>Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education</title>
+      <link>https://edtechdev.github.io/aied/pages/llm-unlearning-math-privacy.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/llm-unlearning-math-privacy.html</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Authors: Chenglu Li, Gökhan Gülfidan, Yinqi Zhang-Kopf]]></description>
+    </item>
+    <item>
+      <title>Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design</title>
+      <link>https://edtechdev.github.io/aied/pages/ml-literacy-primary-education.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ml-literacy-primary-education.html</guid>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[Authors: Siu Cheung Kong, Qiaoyi Wang]]></description>
+    </item>
+  </channel>
+</rss>
