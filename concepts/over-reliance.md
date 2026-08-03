@@ -18,6 +18,7 @@ Student and faculty over-reliance on AI tools in education
 *This page is a stub — awaiting further sources and content.*
 
 ## Related Pages
+- [[genai-can-harm-teaching-rct-2026]] — Shallow teacher AI use reduces motivation
 - [[beyond-detection-authentic-assessment-ai-2025]] — Design for learning rather than detection
 - [[authentic-products-authenticated-processes-2026]] — Construct substitution risk
 - [[critical-genai-use-predictors]] — Protective factors against uncritical overreliance on GenAI

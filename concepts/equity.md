@@ -13,6 +13,7 @@ confidence: low
 *Stub page — full synthesis pending.*
 
 ## Related Pages
+- [[access-not-enough-ai-tutoring-2026]] — Engagement gaps compound access gaps
 - [[beyond-detection-authentic-assessment-ai-2025]] — Equity and access challenges in authentic assessment
 - [[authentic-products-authenticated-processes-2026]] — Inclusivity and representational fairness dimension
 - [[post-covid-ict-career-aspirations]] — 5 of 8 papers in May 28 scan

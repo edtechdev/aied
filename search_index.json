@@ -55,6 +55,20 @@
     "url": "pages/academiclaw-student-agent-benchmark.html"
   },
   {
+    "slug": "access-not-enough-ai-tutoring-2026",
+    "title": "\"Access is Not Enough: Human Support Improves Engagement with AI Tutoring\"",
+    "tags": [
+      "intelligent-tutoring",
+      "equity",
+      "engagement-metrics",
+      "k-12",
+      "ai-literacy",
+      "student-experience"
+    ],
+    "content": "> \ud83d\udcc4 Full text: EdWorkingPaper 26-1451 \u00b7 localAccess is Not Enough> Robinson, Gormley, Ribeiro & Loeb (2026) ran two RCTs showing that AI tutoring's binding constraint is take-up, not capability: despite dedicated session time, nearly half of students never used the platform and users averaged only 2\u20135 minutes per week. An in-person engagement tutor (not direct instruction) raised usage by 1\u20134 minutes/week and engagement by 71\u201380% \u2014 but dosage stayed far below the level needed for reading gains, ",
+    "url": "pages/access-not-enough-ai-tutoring-2026.html"
+  },
+  {
     "slug": "accessible-learning",
     "title": "\"Accessible Learning\"",
     "tags": [
@@ -1938,7 +1952,7 @@
     "tags": [
       "cognitive-offloading"
     ],
-    "content": "Cognitive OffloadingStub page \u2014 full synthesis pending.Related Pagesai-making-us-stupid \u2014 Cash et al. (2026) Trends Cog Sci: offloading cognition to AI impedes skill acquisition & accelerates skill decay; risks use-dependent; basic abilities possibly more resilient\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncognitive-offloading-speedup-illusion \u2014 CogSci 2026 study: N=1,237 users overestimate AI time ",
+    "content": "Cognitive OffloadingStub page \u2014 full synthesis pending.Related Pages\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher-side cognitive offloading harms studentsai-making-us-stupid \u2014 Cash et al. (2026) Trends Cog Sci: offloading cognition to AI impedes skill acquisition & accelerates skill decay; risks use-dependent; basic abilities possibly more resilient\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncognitive-",
     "url": "pages/cognitive-offloading.html"
   },
   {
@@ -2932,7 +2946,7 @@
     "tags": [
       "engagement-metrics"
     ],
-    "content": "Engagement MetricsStub page for cross-referencing.Related Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Response length (chars/prompt) as behavioral engagement metric\ncross-subject-validity-delayed-start \u2014 Delayed start frequency as a generalizable engagement metric with cross-subject predictive validity\nframing-5-percent-problem-teachers-persistence -- Teachers identify four dimensions of low persistence in adaptive math platforms (motivation, cognitive roadblocks, resilience, context",
+    "content": "Engagement MetricsStub page for cross-referencing.Related Pages\nlets-chat-chatbot-outreach-2026 \u2014 A/B and DFW outcomes from chatbot outreach\naccess-not-enough-ai-tutoring-2026 \u2014 Usage minutes and stories as engagement outcomes\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Response length (chars/prompt) as behavioral engagement metric\ncross-subject-validity-delayed-start \u2014 Delayed start frequency as a generalizable engagement metric with cross-subject predictive validity\nframing-5-percent-pro",
     "url": "pages/engagement-metrics.html"
   },
   {
@@ -2976,7 +2990,7 @@
     "tags": [
       "equity"
     ],
-    "content": "EquityStub page \u2014 full synthesis pending.Related Pages\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Equity and access challenges in authentic assessment\nauthentic-products-authenticated-processes-2026 \u2014 Inclusivity and representational fairness dimension\npost-covid-ict-career-aspirations \u2014 5 of 8 papers in May 28 scan\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nxai-education-framework\nai-changing-teaching-workflows\nai-pedagogical-accompaniment-amico\nai-lifelong-learning-policycultura",
+    "content": "EquityStub page \u2014 full synthesis pending.Related Pages\naccess-not-enough-ai-tutoring-2026 \u2014 Engagement gaps compound access gaps\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Equity and access challenges in authentic assessment\nauthentic-products-authenticated-processes-2026 \u2014 Inclusivity and representational fairness dimension\npost-covid-ict-career-aspirations \u2014 5 of 8 papers in May 28 scan\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nxai-education-framework\nai-changing-teaching-workf",
     "url": "pages/equity.html"
   },
   {
@@ -3071,7 +3085,7 @@
     "tags": [
       "faculty-development"
     ],
-    "content": "Faculty DevelopmentStub page \u2014 full synthesis pending.Related Pages\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nllm-sentiment-analysis-education-research \u2014 1 of 8 papers in May 28 scan\npersistent-ai-agents-academic-research \u2014 how persistent AI agents reshape individual academic work\nai-changing-teaching-workflows\ngenai-architecture-education\nai-pedagogical-accompaniment-amico\nai-lifelong-learning-policy\nanvil-ai-educational-animationscommunity-centered-ai-education-adults \u2014",
+    "content": "Faculty DevelopmentStub page \u2014 full synthesis pending.Related Pages\ngenai-can-harm-teaching-rct-2026 \u2014 Generative AI Can Harm Teaching (RCT)\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nllm-sentiment-analysis-education-research \u2014 1 of 8 papers in May 28 scan\npersistent-ai-agents-academic-research \u2014 how persistent AI agents reshape individual academic work\nai-changing-teaching-workflows\ngenai-architecture-education\nai-pedagogical-accompaniment-amico\nai-lifelong-learning-polic",
     "url": "pages/faculty-development.html"
   },
   {
@@ -3313,6 +3327,21 @@
     ],
     "content": "Generative AI Availability, Grades, and Student Satisfaction at a Large University\nDumlao, Wang, Xie, Hu, Bar, Chaney, Gold & Teplitskiy (2026) \u2014 University of Michigan. arXiv preprint (cs.CY).\n\ud83d\udcc4 Full text (arXiv)This large-scale observational study tests the \"GenAI substitution hypothesis\" \u2014 the concern that students offload cognitive effort to generative-ai and earn inflated grades without learning. Using syllabus and administrative data from a large U.S. university (2015\u20132025; 156,135 student",
     "url": "pages/genai-availability-grades-satisfaction.html"
+  },
+  {
+    "slug": "genai-can-harm-teaching-rct-2026",
+    "title": "\"Generative AI Can Harm Teaching\"",
+    "tags": [
+      "faculty-development",
+      "teacher-role",
+      "generative-ai",
+      "k-12",
+      "student-experience",
+      "cognitive-offloading",
+      "over-reliance"
+    ],
+    "content": "> \ud83d\udcc4 Full text: SSRN 7007339 \u00b7 localGenerative AI Can Harm Teaching> Sungu, Lira & Duckworth (2026) ran one of the first large-scale RCTs of a teacher-facing generative AI tool and found it can harm students: providing teachers an AI teaching assistant reduced student intrinsic motivation by 0.11 SD and \u2014 among lower-performing teachers \u2014 cut student achievement by 0.13 SD. The pattern is a principal\u2013agent problem: teachers (agents) gain labor savings from AI delegation while students (principals",
+    "url": "pages/genai-can-harm-teaching-rct-2026.html"
   },
   {
     "slug": "genai-declaration-frameworks-higher-education",
@@ -3623,7 +3652,7 @@
     "tags": [
       "generative-ai"
     ],
-    "content": "Generative AiStub page \u2014 full synthesis pending.Related Pages\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 GPT-3.5 journaling assistant: scaffolds writing, no motivation gain\ngenai-impact-chinese-students-hss \u2014 Survey of Chinese HSS students on GenAI's effects on learning motivation, creativity, and academic performance\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\ngenai-minoritized-knowledges-disability \u2014 epistemic marginalization of minoritized knowledges via GenAI\n  -",
+    "content": "Generative AiStub page \u2014 full synthesis pending.Related Pages\nlets-chat-chatbot-outreach-2026 \u2014 The non-generative chatbot contrast case\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher-facing GenAI RCT: motivation and achievement harms\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 GPT-3.5 journaling assistant: scaffolds writing, no motivation gain\ngenai-impact-chinese-students-hss \u2014 Survey of Chinese HSS students on GenAI's effects on learning motivation, creativity, and academic performance\nai-a",
     "url": "pages/generative-ai.html"
   },
   {
@@ -3720,7 +3749,7 @@
       "llm",
       "student-experience"
     ],
-    "content": "Hallucination RiskLLM hallucination risks in educational contextsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\ncritical-genai-use-predictors \u2014 Cross-checking outputs: 97% hold the web-search misconceptionllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 chatgpt-programming-education-text-mining \u2014 Unreliable outputs as documented peril of ChatGPT in programming educationa",
+    "content": "Hallucination RiskLLM hallucination risks in educational contextsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nlets-chat-chatbot-outreach-2026 \u2014 Curated knowledge base avoids GenAI hallucination risk\ncritical-genai-use-predictors \u2014 Cross-checking outputs: 97% hold the web-search misconceptionllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 chatgpt-programming-education-",
     "url": "pages/hallucination-risk.html"
   },
   {
@@ -3753,7 +3782,7 @@
       "generative-ai",
       "llm"
     ],
-    "content": "AI in Higher EducationConnectionsRelated Pages\ncritical-genai-use-predictors \u2014 Correlational study at Bielefeld University\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Chatbot journaling RCT at a German technical university\nagency-gap-ai-writing \u2014 AI writing support in medical/nursing education\nfeedback-futures-genai \u2014 GenAI feedback governance and assessment design in universities\ngenai-teacher-feedback-comparison \u2014 Four-Australian-university survey of feedback perceptions\ncare-full-feedba",
+    "content": "AI in Higher EducationConnectionsRelated Pages\nlets-chat-chatbot-outreach-2026 \u2014 Chatbot outreach RCTs at Georgia State\ncritical-genai-use-predictors \u2014 Correlational study at Bielefeld University\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Chatbot journaling RCT at a German technical university\nagency-gap-ai-writing \u2014 AI writing support in medical/nursing education\nfeedback-futures-genai \u2014 GenAI feedback governance and assessment design in universities\ngenai-teacher-feedback-comparison \u2014 F",
     "url": "pages/higher-ed.html"
   },
   {
@@ -4068,7 +4097,7 @@
       "intelligent-tutoring",
       "ai-education"
     ],
-    "content": "Intelligent TutoringIntelligent tutoring systems and AI-driven tutoring agents in educationConnectionsRelated Pages\nstructrag-diagram-reasoning-ai-tutoring \u2014 Structural diagram reasoning inside ITS\nai-coaching-rl-skill-development \u2014 Extension of ITS scaffolding principles to embodied AI coaching for motor skill development with RL\nsupplynet-visual-exploratory-learning \u2014 LLM multi-agent simulation system for supply chain management education\ncorrect-answer-trap-ai-tutor \u2014 8 of 8 papers in May 28 ",
+    "content": "Intelligent TutoringIntelligent tutoring systems and AI-driven tutoring agents in educationConnectionsRelated Pages\nlets-chat-chatbot-outreach-2026 \u2014 Chatbot nudges increase human tutoring attendance\naccess-not-enough-ai-tutoring-2026 \u2014 Take-up is the binding constraint for AI tutoring\nstructrag-diagram-reasoning-ai-tutoring \u2014 Structural diagram reasoning inside ITS\nai-coaching-rl-skill-development \u2014 Extension of ITS scaffolding principles to embodied AI coaching for motor skill development with",
     "url": "pages/intelligent-tutoring.html"
   },
   {
@@ -4137,7 +4166,7 @@
     "tags": [
       "k-12"
     ],
-    "content": "K 12Stub page \u2014 full synthesis pending.Related Pages\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration\ndigital-literacy-illusion \u2014 Digital literacy illusion study with N=243 European secondary students\nteacher-authored-prompts-student-ai-dialogue \u2014 K-12 classroom implementation of AI-mediated dialogueawareness-technological-isomorphism \u2014 AI-integrated elementary mathematics through Technological Isomorphism\nregulating",
+    "content": "K 12Stub page \u2014 full synthesis pending.Related Pages\naccess-not-enough-ai-tutoring-2026 \u2014 Elementary AI tutoring RCTs\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher AI RCT in Turkish K-12 schools\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 scan\nconcept-catalyst-engineering-scaffolds\nteacher-student-agency-orchestration\ndigital-literacy-illusion \u2014 Digital literacy illusion study with N=243 European secondary students\nteacher-authored-prompts-student-ai-dialogue \u2014 K-12 classroom implementation of ",
     "url": "pages/k-12.html"
   },
   {
@@ -4439,6 +4468,18 @@
     ],
     "content": "Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative WorkSehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal \u2014 ACM SIGCSE Virtual 2026, submitted 29 Jun 2026\n\ud83d\udcc4 Full text (arXiv)Semester-long study of 96 CS students shows LLM usage dropped 42.7 percentage points when students moved from individual to team work; team context reduces deliberate LLM engagement.Key ContributionsSemester-long study of 96 CS students shows LLM usage dropped 42.7 percentage points w",
     "url": "pages/less-deliberate-teams-llm.html"
+  },
+  {
+    "slug": "lets-chat-chatbot-outreach-2026",
+    "title": "\"Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance\"",
+    "tags": [
+      "higher-ed",
+      "student-experience",
+      "generative-ai",
+      "engagement-metrics"
+    ],
+    "content": "> \ud83d\udcc4 Full text: NBER Working Paper 35397 \u00b7 localLet's Chat: Chatbot Outreach for Course Performance> Meyer, Page, Mata et al. (2026) ran two pre-registered RCTs at Georgia State University testing a non-generative academic chatbot that texted students 2\u20133 customized nudges per week in large-enrollment online courses. It raised the probability of earning an A or B by 4 percentage points \u2014 driven entirely by women in Microeconomics (+7 grade points, +11 pp A/B, \u221210 pp DFW) \u2014 via a task-completion c",
+    "url": "pages/lets-chat-chatbot-outreach-2026.html"
   },
   {
     "slug": "lifelong-learning",
@@ -5355,7 +5396,7 @@
       "academic-integrity",
       "student-experience"
     ],
-    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Design for learning rather than detection\nauthentic-products-authenticated-processes-2026 \u2014 Construct substitution risk\ncritical-genai-use-predictors \u2014 Protective factors against uncritical overreliance on GenAI\nagency-gap-ai-writing \u2014 Over-direction risk of rigid proactive designs\nfeedback",
+    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\ngenai-can-harm-teaching-rct-2026 \u2014 Shallow teacher AI use reduces motivation\nbeyond-detection-authentic-assessment-ai-2025 \u2014 Design for learning rather than detection\nauthentic-products-authenticated-processes-2026 \u2014 Construct substitution risk\ncritical-genai-use-predictors \u2014 Protective factors against uncritical overreliance on GenAI\nag",
     "url": "pages/over-reliance.html"
   },
   {
@@ -6450,7 +6491,7 @@
       "k-12",
       "higher-ed"
     ],
-    "content": "Student Experience with AI> Stub \u2014 pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.ConnectionsRelated Pages\ncritical-genai-use-predictors \u2014 Undergraduates' GenAI use correlates with interest and perceived usefulness\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Intrinsic motivation & engagement with a mobile journaling chatbot\nagency-gap-ai-writing \u2014 Learners value confirmatory reactive support and dialogic proactive support\nchatgpt-feed",
+    "content": "Student Experience with AI> Stub \u2014 pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.ConnectionsRelated Pages\nlets-chat-chatbot-outreach-2026 \u2014 Students recommend the outreach chatbot (82%)\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher AI access reduced student motivation\ncritical-genai-use-predictors \u2014 Undergraduates' GenAI use correlates with interest and perceived usefulness\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Intrinsic motivatio",
     "url": "pages/student-experience.html"
   },
   {
@@ -6732,7 +6773,7 @@
       "k-12",
       "higher-ed"
     ],
-    "content": "Teacher Role in AI-Enhanced EducationConnectionsRelated Pages\nlearner-centered-feedback-ai \u2014 Teachers calibrate AI tone to preserve professional voice\ncare-full-feedback-genai \u2014 Feedback as professional craft and ethical practice\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nanvil-ai-educational-animations\nteacher-student-agency-orchestration\nconcep",
+    "content": "Teacher Role in AI-Enhanced EducationConnectionsRelated Pages\ngenai-can-harm-teaching-rct-2026 \u2014 Principal-agent problem in AI-assisted teaching\nlearner-centered-feedback-ai \u2014 Teachers calibrate AI tone to preserve professional voice\ncare-full-feedback-genai \u2014 Feedback as professional craft and ethical practice\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-wo",
     "url": "pages/teacher-role.html"
   },
   {
