@@ -33,7 +33,6 @@ The work connects to broader discussions in AI and education around [[llm]], [[p
 - [[multilingual-learning]]
 - [[educational-datasets]]
 - [[open-source]]
-- [[daily-digest-2026-07-31]] — Today's ingestion digest
 
 ## Citation
 

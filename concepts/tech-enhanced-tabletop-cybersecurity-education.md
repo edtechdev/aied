@@ -33,7 +33,6 @@ The work connects to broader discussions in AI and education around [[active-lea
 - [[stem-education]]
 - [[professional-training]]
 - [[edtech-platform]]
-- [[daily-digest-2026-07-31]] — Today's ingestion digest
 
 ## Citation
 
