@@ -90,7 +90,7 @@
     "title": "Adaptive Learning Systems",
     "tags": [
       "adaptive-learning",
-      "tutoring",
+      "intelligent-tutoring",
       "personalized-learning",
       "architecture",
       "ai-education"
@@ -223,7 +223,7 @@
     "tags": [
       "equity",
       "generative-ai",
-      "human-ai-collaboration",
+      "human-in-the-loop",
       "k-12",
       "llm",
       "student-experience"
@@ -285,7 +285,6 @@
     "title": "Agentic Education with AI Coding Assistants",
     "tags": [
       "agentic-ai",
-      "agentic-workflows",
       "generative-ai",
       "higher-ed",
       "scaffolding",
@@ -316,7 +315,7 @@
       "agentic-ai",
       "ai-education",
       "benchmark",
-      "tutoring"
+      "intelligent-tutoring"
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2504.20082 \u00b7 localAgentic Workflows in EducationA design framework for educational AI systems structured around four agentic paradigms: reflection, planning, tool use, and multi-agent collaboration. Proposed by Kamalov et al. (2026) as a taxonomy for analyzing how AI agents operate in learning environments.Four Paradigms1. Reflection\nAgents evaluate their own outputs against criteria before delivering feedback to learners. Reduces immediate error propagation but adds latency",
     "url": "pages/agentic-workflows-education.html"
@@ -354,7 +353,7 @@
       "ai-literacy",
       "public-sector",
       "training-methodology",
-      "efficiency-study",
+      "efficacy-study",
       "prompt-engineering"
     ],
     "content": "The Main Barrier to AI Adoption in the Public Sector is Lack of Training\nVinicius Santana Gomes (2026) \u2014 arXiv:2606.01517.\ud83d\udcc4 Full text (arXiv)Through Brazilian government case studies, demonstrates that a four-layer pedagogical methodology (Literacy, Protocol, Prompt Engineering, Audit) is the key to productivity gains (up to 50%), rather than premium models. This work emphasizes that ai-literacy is a developmental capacity requiring structured scaffolding and prompt-engineering discipline. It co",
@@ -852,7 +851,6 @@
       "lifelong-learning",
       "policy-maker",
       "equity",
-      "digital-divide",
       "intelligent-tutoring",
       "ai-literacy",
       "learning-analytics",
@@ -870,7 +868,7 @@
       "assessment-validity",
       "k-12",
       "self-regulated-learning",
-      "teacher-professional-development"
+      "faculty-development"
     ],
     "content": "AI Literacy Assessment: Self-Reported vs Performance MisalignmentSynthesisHighlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31).Connectionsai-literacy \u2014 Core finding: self-report bias in AI literacy\nassessment-validity \u2014 Performance vs. self-reported measures\nteacher-ai-competency \u2014 Gap betwe",
     "url": "pages/ai-literacy-assessment-misalignment.html"
@@ -881,7 +879,7 @@
     "tags": [
       "ai-literacy",
       "higher-ed",
-      "curriculum",
+      "curriculum-design",
       "ethics"
     ],
     "content": "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education\nLiu & Levy (2026) \u2014 ArXiv.\n\ud83d\udcc4 Full text (arXiv)Proposes a five-stage continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State. Found that reaching higher stages requires discipline-embedded experiences. ai-literacy, higher-ed, ethics, faculty-development, student-experience.Related Pages\nai-literacy \u2014 Literacy frameworks\nscaffolding \u2014 ",
@@ -1016,9 +1014,8 @@
       "higher-ed",
       "stem-education",
       "ai-literacy",
-      "technology-adoption",
-      "pedagogy",
       "institutional-change",
+      "pedagogy",
       "teacher-role"
     ],
     "content": "Faculty Orientations Shape Adoption of AI in Research and TeachingAtherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026) \u2014 arXiv:2605.18140\ud83d\udcc4 arXiv \u00b7 PDF \u00b7 localKey Finding: AI Pedagogical OrientationA mixed-methods survey of 90 STEM faculty in the RCSA Cottrell community identified a coherent latent construct \u2014 AI pedagogical orientation \u2014 that strongly predicts AI adoption across research, teaching, and professional activities. This orientation reflects deep beliefs about AI's role in ",
@@ -1044,7 +1041,7 @@
     "title": "\"Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment\"",
     "tags": [
       "ai-literacy",
-      "curriculum",
+      "curriculum-design",
       "equity",
       "metacognition",
       "stem-education"
@@ -1140,7 +1137,7 @@
       "ai-literacy",
       "higher-ed",
       "stem-education",
-      "teacher-professional-development"
+      "faculty-development"
     ],
     "content": "AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling studyAuthors: Moeketsi Mosia, Fadip Audu Nannim, Felix Egara\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsSEM study of 130 preservice math teachers in South Africa (Global South context). AI-TPACK readiness explained 53% of variance. Positive associations: prior AI use, critical-ethical appraisal, and support/enablers. Senio",
     "url": "pages/ai-tpack-preservice-math-teachers.html"
@@ -1203,7 +1200,7 @@
     "slug": "ai-tutor-safety-harms",
     "title": "AI Tutor Safety and Pedagogical Harms",
     "tags": [
-      "safety",
+      "pedagogical-safety",
       "intelligent-tutoring",
       "adaptive-learning",
       "k-12",
@@ -1218,7 +1215,6 @@
     "slug": "ai-tutoring",
     "title": "\"AI Tutoring\"",
     "tags": [
-      "ai-tutoring",
       "intelligent-tutoring",
       "generative-ai",
       "llm",
@@ -1336,7 +1332,6 @@
     "title": "\"ASE-26: A Curriculum for Agentic Software Engineering as a Discipline\"",
     "tags": [
       "agentic-ai",
-      "agentic-workflows",
       "ai-literacy",
       "curriculum-design",
       "higher-ed",
@@ -1366,7 +1361,7 @@
       "assessment",
       "assessment-validity",
       "educational-theory",
-      "teacher-professional-development"
+      "faculty-development"
     ],
     "content": "Assessment Validity in AI EducationSynthesisAssessment validity\u2014the degree to which an instrument measures what it claims to measure\u2014is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revealed a 40% overestimation gap: teachers' self-reported AI literacy correlated weakly (r=0.31) with actual performance, while task-based assessments showed strong correlation (r=0.72) with classroom AI integration.Key Validity Threats in AI Education\n1",
     "url": "pages/assessment-validity.html"
@@ -1460,7 +1455,7 @@
     "tags": [
       "llm",
       "automated-grading",
-      "computing-education",
+      "cs-education",
       "formative-assessment",
       "higher-ed"
     ],
@@ -1670,7 +1665,7 @@
     "tags": [
       "ai-literacy",
       "boundary-object",
-      "chatgpt",
+      "generative-ai",
       "cognitive-offloading",
       "creative-thinking",
       "critical-thinking",
@@ -2074,7 +2069,7 @@
     "title": "\"Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming\"",
     "tags": [
       "ai-literacy",
-      "computing-education",
+      "cs-education",
       "student-ai-interaction",
       "scaffolding",
       "higher-ed"
@@ -2167,7 +2162,7 @@
       "cs-education",
       "ethics",
       "regulation",
-      "teacher-professional-development"
+      "faculty-development"
     ],
     "content": "Cost-of-Ethics Crisis in CS EducationMohamed Abdalla, Sahar Abdalla, Alicia Cappello et al. (2026) \u2014 Study of 129 CS students/recent grads in Canada and US.\ud83d\udcc4 Full text (arXiv)Key FindingsThis study examines the disconnect between ethics education and real-world decision-making among 129 computer science students and recent graduates during their job searches. Despite receiving contemporary CS ethics education, most students prioritize compensation, location, and workplace culture over ethical an",
     "url": "pages/cost-of-ethics-crisis-cs-ethics-education.html"
@@ -2452,7 +2447,7 @@
     "title": "A didactical-driven teacher assistant for a dimensional modeling course",
     "tags": [
       "llm",
-      "tutoring",
+      "intelligent-tutoring",
       "higher-ed",
       "pedagogy"
     ],
@@ -2463,7 +2458,7 @@
     "slug": "difficulty-aware-dialogue-kt",
     "title": "Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues",
     "tags": [
-      "knowledge-tracing-irt",
+      "knowledge-tracing",
       "intelligent-tutoring",
       "llm",
       "personalized-learning",
@@ -2685,7 +2680,7 @@
       "assessment",
       "multimodal",
       "benchmark",
-      "safety",
+      "pedagogical-safety",
       "stem-education",
       "ai-education"
     ],
@@ -2844,8 +2839,8 @@
     "slug": "epistemic-emotions-collaborative-problem-solving",
     "title": "Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving",
     "tags": [
-      "affect",
-      "human-ai-collaboration",
+      "affective-computing",
+      "human-in-the-loop",
       "learning-analytics"
     ],
     "content": "Ordered Network Analysis of Epistemic Emotions during Collaborative Problem SolvingSifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, Nathaniel Blanchard (2026) \u2014 Colorado State University / University of Pennsylvania. arXiv preprint (cs.CY).\ud83d\udcc4 Full text (arXiv)Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered Network Analysis to trace how epistemic emotions such as confusion and frustration persist and transition during co-situated collaborative problem solving. The work advances aff",
@@ -2870,9 +2865,7 @@
     "tags": [
       "accessible-learning",
       "culturally-sustaining-pedagogy",
-      "digital-divide",
-      "equity",
-      "inclusive-ai"
+      "equity"
     ],
     "content": "Equity in AI EducationSynthesisEquity in AI Education addresses systemic disparities in access to, representation within, and benefits from AI educational tools. Three critical dimensions emerge:1. Access & Infrastructure Equity\nDigital Divide: Unequal access to AI-powered learning tools across socioeconomic lines\nLanguage Barriers: Most AI tools prioritize English, marginalizing multilingual learners\nDisability Access: Need for AI tools designed with universal design principles2. Representation",
     "url": "pages/equity-in-ai-education.html"
@@ -2948,7 +2941,7 @@
     "slug": "explainable-probabilistic-kt",
     "title": "Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning",
     "tags": [
-      "knowledge-tracing-irt",
+      "knowledge-tracing",
       "learning-analytics",
       "intelligent-tutoring",
       "student-experience"
@@ -2982,7 +2975,6 @@
     "title": "\"Fair and explainable educational recommendations with a hybrid Graph-GRU framework\"",
     "tags": [
       "ai-education",
-      "algorithmic-bias",
       "bias-mitigation",
       "learning-analytics",
       "personalized-learning"
@@ -2994,7 +2986,7 @@
     "slug": "favero-critical-ai-tutors-empower-enslave-2025",
     "title": "\"Critical AI Tutors: Empower or Enslave?\"",
     "tags": [
-      "ai-tutoring",
+      "intelligent-tutoring",
       "critical-thinking",
       "over-reliance"
     ],
@@ -3085,7 +3077,7 @@
       "ai-ed-evaluation",
       "ai-education",
       "assessment",
-      "safety"
+      "pedagogical-safety"
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2604.03926 \u00b7 local \u00b7 arXiv:2504.20082 \u00b7 local \u00b7 arXiv:2507.04295 \u00b7 localFormative Assessment in AI EducationAssessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can generate, validate, and adapt formative assessment items at scale, though quality varies dramatically across assessment types.AI-Generated Formative ItemsMultiple-Choice Questions (CODE-GEN)Duan et al. (2026) demonstrate that agentic AI can reliably genera",
     "url": "pages/formative-assessment.html"
@@ -3199,7 +3191,7 @@
       "creative-thinking",
       "ai-literacy",
       "personalized-learning",
-      "inclusive-ai",
+      "equity",
       "professional-training"
     ],
     "content": "Gen-AI-tecture: using generative AI to support architectural students in design tasksTimo Kapsalis (2026) \u2014 (Independent). arXiv:2605.21361 [cs.HC] \u2014 Submitted to Journal of Architectural Education\ud83d\udcc4 Full text (arXiv)Kapsalis (2026) presents one of the first empirical studies of generative AI integration in architectural design education, using a locally executed, discipline-specific tool within a mixed-methods focus-group design. The study addresses three objectives: creativity impact, inclusivi",
@@ -3321,7 +3313,7 @@
     "slug": "genai-patient-education-transplant-handbooks",
     "title": "\"Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks\"",
     "tags": [
-      "genai",
+      "generative-ai",
       "health-education",
       "equity",
       "content-quality"
@@ -3363,7 +3355,7 @@
       "k-12",
       "RCT",
       "regulation",
-      "teacher-professional-development"
+      "faculty-development"
     ],
     "content": "Transforming GenAI Policy to Prompting Instruction: RCTSynthesisThis RCT investigates the impact of transforming institutional GenAI policies into actionable prompting instruction for K-12 educators. Key findings:Policy-to-Practice Gap: Most GenAI policies lack implementation guidance, leaving teachers unprepared\nPrompting Instruction Intervention: Teachers trained in prompt engineering showed 2.3x higher AI integration in lesson plans\nStudent Outcomes: Classes with prompt-trained teachers showe",
     "url": "pages/genai-policy-prompting-rct.html"
@@ -3630,8 +3622,8 @@
     "tags": [
       "socratic-method",
       "physics-education",
-      "chatbot",
-      "ai-tutoring"
+      "generative-ai",
+      "intelligent-tutoring"
     ],
     "content": "Socratic Physics ChatbotThis is a stub page for \"Socratic Physics Chatbot\". It was created to resolve broken backlinks from other wiki pages. The full concept page will be developed when the underlying source material is processed.Related Pages",
     "url": "pages/hashmi-socratic-physics-chatbot-2025.html"
@@ -3640,7 +3632,6 @@
     "slug": "hazra-safetutors-pedagogical-safety-2026",
     "title": "\"SafeTutors: Pedagogical Safety in AI Tutoring\"",
     "tags": [
-      "ai-tutor-safety-harms",
       "pedagogical-safety",
       "k-12"
     ],
@@ -3723,7 +3714,7 @@
     "slug": "human-ai-collaboration-trust-expectations",
     "title": "\"Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust\"",
     "tags": [
-      "human-ai-collaboration",
+      "human-in-the-loop",
       "generative-ai",
       "higher-ed",
       "student-experience"
@@ -3746,7 +3737,7 @@
     "tags": [
       "human-in-the-loop",
       "assessment",
-      "safety",
+      "pedagogical-safety",
       "ai-education"
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2604.03926 \u00b7 local \u00b7 arXiv:2409.03512 \u00b7 localHuman-in-the-Loop AI for EducationEducational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling production. Two recent implementations illustrate distinct architectures:CODE-GEN: Human-in-the-Loop MCQ GenerationDuan et al. (2026) built a RAG-based agentic system with two agents:\nGenerator Agent \u2014 Produces multiple-choice coding questions aligned w",
@@ -3880,10 +3871,9 @@
     "title": "\"A Framework for Institutional Change in the Age of AI\"",
     "tags": [
       "ai-education",
-      "change-management",
+      "institutional-change",
       "faculty-development",
       "higher-ed",
-      "institutional-change",
       "pedagogy",
       "stem-education"
     ],
@@ -3983,7 +3973,7 @@
       "curriculum-design",
       "equity",
       "k-12",
-      "teacher-professional-development"
+      "faculty-development"
     ],
     "content": "K-12 AI EducationSynthesisK-12 AI Education encompasses the integration of artificial intelligence literacy, tools, and pedagogical approaches into primary and secondary education. Recent research reveals three critical pillars:1. Teacher Preparation Gap\nTeachers systematically overestimate their AI competency (40% gap between self-report and performance in Zhang et al. 2026), yet brief training interventions (4-hour prompting workshops) yield 2.3x higher classroom AI integration (Xiao et al. 20",
     "url": "pages/k-12-ai-education.html"
@@ -4364,7 +4354,7 @@
     "tags": [
       "culturally-sustaining-pedagogy",
       "k-12",
-      "llm-pedagogy",
+      "pedagogy",
       "equity",
       "faculty-development",
       "curriculum-design"
@@ -4742,7 +4732,7 @@
     "slug": "mbp-kt-meta-behavioral-knowledge-tracing",
     "title": "\"MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing\"",
     "tags": [
-      "knowledge-tracing-irt",
+      "knowledge-tracing",
       "learning-analytics",
       "student-experience",
       "adaptive-learning"
@@ -4961,7 +4951,7 @@
       "authentic-assessment",
       "over-reliance",
       "ai-literacy",
-      "assessment-design"
+      "assessment"
     ],
     "content": "Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruptionJennifer M. Krebsbach & Victoria L. Cross (University of California, Davis) \u2014 Assessment & Evaluation in Higher Education (Taylor & Francis). Open Access, CC BY 4.0. doi:10.1080/02602938.2026.2686727.\ud83d\udcc4 Full text (Taylor & Francis, OA) \u2014 open data on GitHub (jenniferkrebsbach/moralpanic)SummaryA natural-experiment / design-based study tracking eight iterations of a lowe",
     "url": "pages/moral-panic-genai-classroom.html"
@@ -4971,7 +4961,6 @@
     "title": "Multi-Agent Systems for Instructional Design",
     "tags": [
       "agentic-ai",
-      "agentic-workflows",
       "ai-literacy",
       "human-in-the-loop",
       "k-12",
@@ -5131,8 +5120,8 @@
     "slug": "nie-personavlm-long-term-personalization-2026",
     "title": "\"PersonaVLM: Long-Term Personalization for AI Tutors\"",
     "tags": [
-      "personalization",
-      "ai-tutoring",
+      "personalized-learning",
+      "intelligent-tutoring",
       "student-modeling",
       "llm"
     ],
@@ -5249,8 +5238,7 @@
       "intelligent-tutoring",
       "pedagogical-safety",
       "adaptive-learning",
-      "reinforcement-learning",
-      "ai-tutor-safety-harms"
+      "reinforcement-learning"
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2604.04237 \u00b7 localPedagogical Safety in Educational Reinforcement Learning> First formal framework for defining and detecting pedagogical safety violations in RL-based AI tutoring systems.The Problem: Reward Hacking in Educational RLOlukola & Rahimi (2026) identify a critical gap: as reinforcement learning personalizes instruction in ITS, there is no formal framework for pedagogical safety.What is \"Reward Hacking\" in Education?In RL, agents optimize for a reward signal. In e",
     "url": "pages/pedagogical-safety-rl.html"
@@ -5296,7 +5284,7 @@
     "title": "Personalized Learning",
     "tags": [
       "personalized-learning",
-      "tutoring",
+      "intelligent-tutoring",
       "adaptive-learning",
       "ai-education"
     ],
@@ -5577,7 +5565,7 @@
     "title": "\"Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers\"",
     "tags": [
       "ai-literacy",
-      "teacher-professional-development",
+      "faculty-development",
       "generative-ai",
       "efficacy-study",
       "higher-ed"
@@ -5650,7 +5638,6 @@
       "assessment",
       "learning-analytics",
       "knowledge-tracing",
-      "knowledge-tracing-irt",
       "benchmark"
     ],
     "content": "Reinforcement Learning Measurement Model for Interactive AssessmentWenqian Xu, Feng Ji (2026) \u2014 RL-based measurement model for interactive assessments.\ud83d\udcc4 Full text (arXiv)Key FindingsInteractive assessments generate sequential process data that conventional item response models (IRT) cannot adequately handle. This paper proposes a reinforcement learning measurement model that links action choices to state-action values, extending beyond existing MDP-based measurement approaches.^[raw/papers/2605.",
@@ -5669,7 +5656,7 @@
     "slug": "reliable-programming-kt",
     "title": "\"Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols\"",
     "tags": [
-      "knowledge-tracing-irt",
+      "knowledge-tracing",
       "automated-grading",
       "benchmark",
       "learning-analytics"
@@ -5711,7 +5698,7 @@
     "tags": [
       "cs-education",
       "generative-ai",
-      "curriculum",
+      "curriculum-design",
       "higher-ed",
       "llm"
     ],
@@ -6024,7 +6011,7 @@
     "slug": "socratic-method",
     "title": "\"Socratic Method in AI Education\"",
     "tags": [
-      "ai-tutoring",
+      "intelligent-tutoring",
       "critical-thinking",
       "socratic-method"
     ],
@@ -6361,7 +6348,7 @@
     "slug": "syal-multimodal-dialogue-stem-2026",
     "title": "\"Multimodal Dialogue in STEM Education\"",
     "tags": [
-      "ai-tutoring",
+      "intelligent-tutoring",
       "multimodal",
       "socratic-method",
       "stem-education"
@@ -6449,8 +6436,7 @@
     "tags": [
       "ai-literacy",
       "faculty-development",
-      "k-12",
-      "teacher-professional-development"
+      "k-12"
     ],
     "content": "Teacher AI CompetencySynthesisTeacher AI competency encompasses the knowledge, skills, and dispositions required for effective AI integration in educational contexts. Emerging frameworks identify three competency dimensions:1. Technical Proficiency\nPrompt Engineering: Crafting effective prompts for educational objectives (Xiao et al. 2026: 4-hour training \u2192 2.3x integration increase)\nTool Evaluation: Assessing AI tools for pedagogical fit and safety\nTroubleshooting: Addressing AI-system failures",
     "url": "pages/teacher-ai-competency.html"
@@ -6477,7 +6463,7 @@
       "teacher-role",
       "stem-education",
       "ai-generated-content",
-      "curriculum",
+      "curriculum-design",
       "pedagogy"
     ],
     "content": "Teacher Control of AI-Generated Mathematics VisualsZhengxu Li, Junling Wang, April Yi Wang (2026) \u2014 ACM L@S 2026. Study of when teachers should control AI-generated classroom visuals.\ud83d\udcc4 Full text (arXiv)Key FindingsGenerative AI can help teachers rapidly create classroom-ready visual materials, particularly in mathematics where diagrams and visual representations must be pedagogically meaningful and instructionally correct. This paper investigates when and how teachers should control AI generatio",
@@ -6560,7 +6546,7 @@
     "slug": "temporal-smoothness-debiased-kt",
     "title": "Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing",
     "tags": [
-      "knowledge-tracing-irt",
+      "knowledge-tracing",
       "learning-analytics",
       "personalized-learning",
       "intelligent-tutoring"
@@ -6613,7 +6599,7 @@
     "tags": [
       "agentic-ai",
       "ai-literacy",
-      "assessment-design",
+      "assessment",
       "authentic-assessment",
       "computational-thinking",
       "generative-ai",
@@ -6745,10 +6731,9 @@
     "slug": "vetting-dual-llm-safety-education",
     "title": "\"VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI\"",
     "tags": [
-      "ai-tutor-safety-harms",
+      "pedagogical-safety",
       "k-12",
       "llm",
-      "pedagogical-safety",
       "generative-ai"
     ],
     "content": "VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AIAuthors: Hongming Li, Shan Zhang, Anthony F. Botelho\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100646 \u2014 Open Access (CC BY 4.0)Key FindingsProposes VETTING \u2014 a dual-LLM architecture where a generator LLM produces responses and a separate verifier LLM checks them against safety policies. Deployed with 151 middle school students, achieving F1=0.928 for safety violation detect",
@@ -6903,7 +6888,7 @@
     "slug": "zhan-boud-du-authentic-assessment-scoping-review-2025",
     "title": "\"Authentic Assessment in the AI Era: Scoping Review\"",
     "tags": [
-      "assessment-design",
+      "assessment",
       "authentic-assessment",
       "literature-review"
     ],

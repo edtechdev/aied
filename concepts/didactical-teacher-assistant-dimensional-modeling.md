@@ -3,7 +3,7 @@ title: A didactical-driven teacher assistant for a dimensional modeling course
 created: 2026-07-28
 updated: 2026-07-28
 type: concept
-tags: [llm, tutoring, higher-ed, pedagogy]
+tags: [llm, "intelligent-tutoring", higher-ed, pedagogy]
 sources: [raw/papers/2607.22598.md]
 confidence: high
 ---

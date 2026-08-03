@@ -3,7 +3,7 @@ title: "Authentic Assessment in the AI Era: Scoping Review"
 created: 2026-07-29
 updated: 2026-07-29
 type: concept
-tags: [assessment-design, authentic-assessment, literature-review]
+tags: ["assessment", authentic-assessment, literature-review]
 sources: [[]]
 confidence: low
 ---
