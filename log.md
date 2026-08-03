@@ -59,6 +59,11 @@
 - Daily scan cron (9a44c11daec8) updated: no longer creates digest pages; records `## [YYYY-MM-DD] meta | scan-complete` anchors in log.md; static-site regen command fixed (--output-path /home/doug/wiki + journal.html copy)
 - Deployed: c62ca95 (live digest page 404s, 0 digest links on homepage)
 
+## [2026-08-03] update | Removed 9 stale tag pages (pre-existing tag-consolidation leftovers)
+- Deleted orphaned tag pages not referenced in tags.html and used by zero concept pages: accessibility, agent, agentic-workflows-education, evaluation, framework, journaling, mobile-learning, teacher-ai-competency, teacher-development
+- Verified no dangling references in pages/, index.html, or search_index.js; tags on disk now 145, all referenced
+- No wiki content changed (no index/journal regen needed); deployed
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`
