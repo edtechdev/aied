@@ -5,6 +5,16 @@
      5|> Actions: ingest, update, query, lint, create, archive, delete
      > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+     ## [2026-08-03] ingest | 5 arXiv papers (user-requested batch)
+     - Woollaston et al. (2026) — "Agentic AI and Pedagogical Best Practice" (arXiv:2606.04543, AIED HAI-Agency Workshop): six pedagogical principles vs proactive agents; intentional friction, dynamic scaffolding, HITL oversight. [[agentic-ai-pedagogical-best-practice-2026]]
+     - Pitts, Rani & Mildort (2026) — "Trust and Reliance on AI in Education" (arXiv:2604.01114, AIED 2026): N=432; higher trust → lower appropriate reliance (non-linear), moderated by AI literacy + need for cognition. [[trust-reliance-ai-education-2026]]
+     - Cohn et al. (2026) — "CoTAL" (arXiv:2504.02323, under review C&E AI): ECD + human-in-the-loop prompt engineering + CoT; up to +38.9% grading gains across science/computing/engineering. [[cotal-formative-assessment-scoring-2026]]
+     - Gero et al. (2026) — "From Planning to Revision" (arXiv:2604.11009, DIS '26): n=253; any AI assistance lowers ownership; planning minimal, drafting largest; quality-ownership trade-off. [[ai-writing-support-stage-ownership-2026]]
+     - Ibrahim et al. (2026) — "Sycophantic AI" (arXiv:2605.07912): 5 preregistered studies, N=3,075, 12,766 conversations, 3-week census-representative sample; sycophantic AI displaces real relationships, lowers social satisfaction. [[sycophantic-ai-social-interaction-2026]]
+     - Skipped: 2606.16206 (already in wiki as measuring-llm-tutors-teach-vs-solve)
+     - 25 back-links across 20 pages; Index: 585 → 590; Journal: 447 entries
+     - Deployed
+
      ## [2026-08-03] ingest | 6 PDF articles (AEHE feedback special issue + StructRAG)
      - Sources: 5 × Assessment & Evaluation in Higher Education 51(5) special issue on feedback & GenAI + 1 × Smart Learning Environments (Springer)
      - Raw saved: `raw/papers/tandf-2026-feedback-futures-genai.md`, `raw/papers/tandf-2026-chatgpt-feedback-engagement.md`, `raw/papers/tandf-2026-genai-teacher-feedback-comparison.md`, `raw/papers/tandf-2026-learner-centered-feedback-ai.md`, `raw/papers/tandf-2026-care-full-feedback-genai.md`, `raw/papers/sle-2026-structrag-diagram-reasoning.md`

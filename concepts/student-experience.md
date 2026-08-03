@@ -15,6 +15,7 @@ confidence: low
 ## Connections
 
 ## Related Pages
+- [[ai-writing-support-stage-ownership-2026]] — Felt ownership by AI support stage
 - [[lets-chat-chatbot-outreach-2026]] — Students recommend the outreach chatbot (82%)
 - [[genai-can-harm-teaching-rct-2026]] — Teacher AI access reduced student motivation
 - [[critical-genai-use-predictors]] — Undergraduates' GenAI use correlates with interest and perceived usefulness

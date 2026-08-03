@@ -13,6 +13,7 @@ confidence: low
 *Stub page — full synthesis pending.*
 
 ## Related Pages
+- [[agentic-ai-pedagogical-best-practice-2026]] — Oversight of proactive agents
 - [[authentic-products-authenticated-processes-2026]] — Authenticated processes: visible human judgement
 
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)
