@@ -14,7 +14,7 @@ sources: [raw/articles/zhan-boud-du-authentic-assessment-scoping-review-2025.md]
 
 # Authentic Assessment
 
-> Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which threatens the validity of any task that can be replicated à la Wiggins (1990)—makes AA's broader forms essential. Zhan, Boud & Du (2025) propose a six-dimensional design model that centres student agency and social collaboration, directly relevant to how AI assessment tools should be designed.^[[zhan-boud-du-authentic-assessment-scoping-review-2025]]
+> Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which threatens the validity of any task that can be replicated à la Wiggins (1990)—makes AA's broader forms essential. Zhan, Boud & Du (2025) propose a six-dimensional design model that centres student agency and social collaboration, directly relevant to how AI assessment tools should be designed.
 
 ## The Evolution of Authenticity
 
