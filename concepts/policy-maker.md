@@ -3,7 +3,7 @@ title: Policy Maker
 created: 2026-05-21
 updated: 2026-05-21
 type: concept
-tags: []
+tags: [policy-maker]
 sources: []
 confidence: low
 ---

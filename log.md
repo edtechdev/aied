@@ -76,6 +76,14 @@
 - Generator (generate-static-site.py) + homepage template (index-template.html) updated: top 40 tags by usage rendered as a clickable word cloud (font-size 0.8–2.3rem scaled by sqrt popularity), each linking to tags/<tag>.html; heading links to full tags.html
 - Rebuilt static site; deployed (0f901a3); verified live via browser (cloud renders, tag pages 200)
 
+## [2026-08-03] update | Tag/concept page disambiguation
+- Explained + fixed the pages/<slug>.html vs tags/<slug>.html "duplicate" confusion: they are different page types (concept article vs auto-generated tag index); 79 of 122 tags have same-named concept pages
+- Tag pages now show a prominent "📖 Topic page: <Title> ▸" link to the same-named concept article whenever one exists (generator change, 76 tag pages affected)
+- Tagged 27 orphan concept pages (empty tags) with their own slug (faculty-development, llm, generative-ai, k-12, equity, etc.) so they appear in their own tag index
+- Fixed regex corruption introduced while editing the generator (2-backslash escapes → 1-backslash); verified all patterns compile and wikilinks render
+- Reconciliation: 570 concepts = 570 index = 570 pages; 122 tags in use = 122 tag pages
+- Deployed
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`

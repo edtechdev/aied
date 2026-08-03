@@ -3,7 +3,7 @@ title: "Student Modeling"
 created: 2026-06-01
 updated: 2026-06-01
 type: concept
-tags: []
+tags: [student-modeling]
 sources: []
 confidence: low
 ---
