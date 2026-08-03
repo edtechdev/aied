@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-03 | **Total entries:** 431
+**Last updated:** 2026-08-03 | **Total entries:** 430
 
 ## 2026-08-03
 
@@ -1088,7 +1088,7 @@
 
 - ● [[ai-literacy-continuum-higher-education]] — raw/papers/2606.00038.md
   **Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education**
-  Tags: [ai-literacy, higher-ed, "curriculum-design", ethics]
+  Tags: [ai-literacy, higher-ed, "curriculum-design", ethics, instructional-design, personalized-learning]
 
 - ● [[guided-llm-scaffolding-statistics]] — raw/papers/2606.01375.md
   **Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics**
@@ -1108,10 +1108,6 @@
 - ● [[ase-26-agentic-software-engineering-curriculum]] — raw/papers/2606.01152.md
   **ASE-26: A Curriculum for Agentic Software Engineering as a Discipline**
   Tags: [agentic-ai, ai-literacy, curriculum-design, higher-ed, software-engineering]
-
-- ● [[five-stage-ai-literacy-continuum]] — raw/papers/2606.00038.md
-  **Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy**
-  Tags: [ai-literacy, curriculum-design, higher-ed, instructional-design, personalized-learning]
 
 - ● [[guided-llm-scaffolding-independent-learning]] — raw/papers/2606.01375.md
   **Beyond Access: Guided LLM Scaffolding for Independent Learning**
