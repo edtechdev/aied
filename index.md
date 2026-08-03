@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-03 | **Total pages:** 570
+**Last updated:** 2026-08-03 | **Total pages:** 569
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -578,5 +578,4 @@
 - [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
-- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Authentic Assessment in the AI Era: Scoping Review
 - [[zone-of-proximal-development]] — Zone Of Proximal Development

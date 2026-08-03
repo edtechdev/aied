@@ -91,6 +91,12 @@
 - Reconciliation: 570 concepts = 570 pages; 122 tag files = 79 redirects + 43 indexes; all redirect targets exist
 - Deployed
 
+## [2026-08-03] update | Removed hallucinated stub (zhan-boud-du-authentic-assessment-scoping-review-2025)
+- User flagged the page title "Authentic Assessment in the AI Era: Scoping Review" as a hallucination — it is NOT a real paper title. The real paper (Zhan, Boud & Du 2025, "Designing for authentic assessment: a scoping review", Higher Education, DOI 10.1007/s10734-025-01588-9, non-AI) was already correctly ingested as the high-confidence [[authentic-assessment]] concept
+- Deleted the wrong-titled stub (empty/malformed sources), removed its footnote wikilink from authentic-assessment.md, rebuilt index (570→569) + journal, regenerated static site, removed stale page HTML
+- Awaiting user PDFs: full text of the real scoping review (to upgrade authentic-assessment raw file) + 2 AI-and-authentic-assessment papers (new entries)
+- Deployed
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`
