@@ -40,3 +40,4 @@ confidence: low
 - [[guided-llm-scaffolding-statistics]] — Amanlou et al. (2026)
 - [[ai-fallibility-warning-help-seeking]] — Nagashima et al. (2026)
 - [[debugtracker-classroom-debugging]] — Classroom debugging instruction
+- [[structured-ai-demonstrations-engineering-mechanics]]

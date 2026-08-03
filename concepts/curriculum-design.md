@@ -15,3 +15,4 @@ Automated stub.
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[ai-literacy-continuum-higher-education]]
 - [[ai-adoption-training-public-sector]]
+- [[connected-ai-lesson-planning-vietnam]]

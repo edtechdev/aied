@@ -200,3 +200,6 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 - [[guided-llm-scaffolding-statistics]] — Amanlou et al. (2026)
 - [[ai-fallibility-warning-help-seeking]] — Nagashima et al. (2026)
 - [[voice-text-prompt-problems-computing-education]] — Prompting literacy across modalities
+- [[scaffolding-critical-engagement-genai-minority-students]]
+- [[agreement-not-quality-llm-coding-verification]]
+- [[human-llm-collaborative-coding-k12-educator-ai]]

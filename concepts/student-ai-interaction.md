@@ -25,3 +25,5 @@ confidence: low
 - [[learning-engagement-assistant-lea]] — agentic RAG+KC tutoring system; first real-student classroom deployment (n=8) and cross-course scalability test
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinki
 - [[trio-ethnography-llm-programming-education]] — interpretation-focused complement to behavioral usage studies
+- [[icap-cognitive-engagement-llm-agents]]
+- [[llm-facilitation-timing-online-discussions]]

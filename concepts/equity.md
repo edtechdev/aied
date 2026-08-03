@@ -46,3 +46,6 @@ confidence: low
 - [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
 - [[ai-literacy-power-knowledge]]
 - [[genai-linguistic-diversity-academic-writing]]
+- [[scaffolding-critical-engagement-genai-minority-students]]
+- [[agreement-not-quality-llm-coding-verification]]
+- [[human-llm-collaborative-coding-k12-educator-ai]]

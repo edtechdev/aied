@@ -90,6 +90,7 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 
 - [[agentic-education-coding]] — Agentic vs. collaborative tutoring approaches
 - [[student-perception-ai-use-collaboration]] -- Misalignment in partners' beliefs about each other's AI use early in a project predicts lower final scores — especially for low-performing teams — and face-to-face sessions don't fix it.
+- [[icap-cognitive-engagement-llm-agents]]
 
 ## Sources
 - Golrang et al. (2026). *ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming*. arXiv:2605.02703. [PDF](https://arxiv.org/pdf/2605.02703)

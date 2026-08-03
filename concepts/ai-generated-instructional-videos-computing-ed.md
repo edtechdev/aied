@@ -33,6 +33,7 @@ The work connects to broader discussions in AI and education around [[student-ex
 - [[computing-education]]
 - [[instructional-design]]
 - [[edtech-platform]]
+- [[savvy-student-attention-video-learning]]
 
 ## Citation
 

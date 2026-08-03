@@ -61,3 +61,4 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[ai-tpack-preservice-math-teachers]]
 - [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK emerges from systems thinking, beliefs, and self-efficacy interplay
 - [[teacher-ai-adoption-confidence]] — Building teacher confidence for AI adoption
+- [[human-llm-collaborative-coding-k12-educator-ai]]

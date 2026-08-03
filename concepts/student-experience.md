@@ -112,3 +112,6 @@ confidence: low
 - [[ai-assistance-discretionary-feedback]] — Student usefulness ratings of AI-assisted feedback
 - [[voice-text-prompt-problems-computing-education]] — Voice vs text preference
 - [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
+- [[hypergamification-game-engine-lms]]
+- [[structured-ai-demonstrations-engineering-mechanics]]
+- [[savvy-student-attention-video-learning]]

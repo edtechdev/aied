@@ -74,3 +74,7 @@ confidence: low
 - [[ai-generated-slides-student-perception]] — AI slide generation in university courses
 - [[aicode-collaborative-feedback-system]] — Multi-LLM peer feedback system
 - [[ai-assistance-discretionary-feedback]] — Higher education feedback provision context
+- [[hypergamification-game-engine-lms]]
+- [[structured-ai-demonstrations-engineering-mechanics]]
+- [[savvy-student-attention-video-learning]]
+- [[llm-facilitation-timing-online-discussions]]

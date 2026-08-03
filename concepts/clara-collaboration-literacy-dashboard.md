@@ -22,3 +22,4 @@ CLARA introduces a novel architecture for [[learning-analytics]] where AI-produc
 
 ## Related Pages
 - [[expert-cognition-dashboard]] — ECD extends dashboard design from visualization to embedded expert cognition reasoning
+- [[icap-cognitive-engagement-llm-agents]]

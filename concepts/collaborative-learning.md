@@ -19,3 +19,5 @@ confidence: low
 - [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions
 - [[less-deliberate-teams-llm]] — team-based learning
 - [[epistemic-emotions-collaborative-problem-solving]] — Ordered Network Analysis reveals structured persistence and transition patterns of confusion and fru
+- [[icap-cognitive-engagement-llm-agents]]
+- [[llm-facilitation-timing-online-discussions]]

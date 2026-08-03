@@ -51,3 +51,7 @@ confidence: low
 - [[teacher-ai-adoption-confidence]] — Confidence mediates institutional support effects on adoption- [[ai-productivity-moderation]] — Learning curve and incentive factors moderate teacher AI adoption
 - [[ai-assistance-discretionary-feedback]] — Teacher orchestration and discretionary control over AI outputs
 - [[teacher-authored-prompts-student-ai-dialogue]] — Teachers as prompt architects in K-12 AI integration
+- [[structured-ai-demonstrations-engineering-mechanics]]
+- [[agreement-not-quality-llm-coding-verification]]
+- [[human-llm-collaborative-coding-k12-educator-ai]]
+- [[connected-ai-lesson-planning-vietnam]]

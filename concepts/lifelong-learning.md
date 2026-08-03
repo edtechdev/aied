@@ -19,3 +19,5 @@ confidence: low
 
 - [[community-centered-ai-education-adults]] — Community AI Education for Adults
 - [[conversational-ai-informal-learning]]
+- [[genai-expertise-pathways-sysadmin]]
+- [[cognitive-commons-ai-expertise-regeneration]]
