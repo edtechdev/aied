@@ -84,6 +84,13 @@
 - Reconciliation: 570 concepts = 570 index = 570 pages; 122 tags in use = 122 tag pages
 - Deployed
 
+## [2026-08-03] update | Merged tag pages into topic pages
+- Design change per user request: same-named tag pages and concept pages are now COMBINED — the concept page is canonical and auto-embeds the full "📎 N other pages tagged <tag>" index (generator appends it to every concept page whose slug is a tag with ≥1 other page)
+- tags/<tag>.html for the 79 same-named tags is now a meta-refresh redirect to pages/<tag>.html (canonical link + visible link); the 43 tags WITHOUT a concept page keep their full index pages
+- Concept pages no longer show a tag chip for their own slug (avoids self-redirect); the H1 + merged section carry the identity
+- Reconciliation: 570 concepts = 570 pages; 122 tag files = 79 redirects + 43 indexes; all redirect targets exist
+- Deployed
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`
