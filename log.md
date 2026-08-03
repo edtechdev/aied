@@ -51,6 +51,14 @@
 - Interventions recommended: refutation texts for misconceptions, video-based training of epistemic orientation/intellectual values
 - Index: 628 → 629 pages; Journal: 432 entries
 
+## [2026-08-03] update | Removed 59 redundant daily-digest pages from wiki + static site
+- Deleted all `concepts/daily-digest-*.md` (59 files) — redundant internal scan summaries superseded by journal + concept pages
+- Stripped 14 `[[daily-digest-2026-07-31]]` back-links from concept pages (learner-ai-interaction-patterns-oop, llm-judged-helpfulness-pedagogy-signal, ai-generated-instructional-videos-computing-ed, ai-literacy-power-knowledge, generative-refusal-ai-tools-for-thought, icle-plus-plus-essay-scoring, genai-architectural-design-studios, memdora-ai-spaced-repetition, book-level-synthetic-textbook-organization, genai-linguistic-diversity-academic-writing, solving-vs-evaluating-genai-solutions, iks-instruct-dataset-indian-knowledge, tech-enhanced-tabletop-cybersecurity-education, post-instrumental-learning-capacity-dissolution)
+- Removed stale build artifacts: pages/daily-digest-*.html (59), tags/daily-digest.html + 4 orphaned digest-era tag pages (daily-scan, ai-in-education, daily, digest)
+- Index rebuilt: 629 → 570 pages; Journal: 432 → 430 entries; three-way reconciliation 570 = 570 = 570
+- Daily scan cron (9a44c11daec8) updated: no longer creates digest pages; records `## [YYYY-MM-DD] meta | scan-complete` anchors in log.md; static-site regen command fixed (--output-path /home/doug/wiki + journal.html copy)
+- Deployed: c62ca95 (live digest page 404s, 0 digest links on homepage)
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`
