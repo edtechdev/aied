@@ -13,6 +13,7 @@ confidence: low
 Stub page for cross-referencing.
 
 ## Related Pages
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Response length (chars/prompt) as behavioral engagement metric
 - [[cross-subject-validity-delayed-start]] — Delayed start frequency as a generalizable engagement metric with cross-subject predictive validity
 - [[framing-5-percent-problem-teachers-persistence]] -- Teachers identify four dimensions of low persistence in adaptive math platforms (motivation, cognitive roadblocks, resilience, context) and prioritize diagnosis over aggregate metrics.
 

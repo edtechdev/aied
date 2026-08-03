@@ -15,6 +15,7 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 ## Connections
 
 ## Related Pages
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Course + LLM assistant as journaling scaffolds (2x2 RCT)
 - [[agency-gap-ai-writing]] — Proactive designs scaffold reasoning but risk over-scaffolding
 - [[learner-centered-feedback-ai]] — AI as reflective scaffold for teachers' evaluative judgement
 - [[structrag-diagram-reasoning-ai-tutoring]] — Pattern templates scaffold structural reasoning
