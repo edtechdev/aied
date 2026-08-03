@@ -307,7 +307,7 @@
       "higher-ed",
       "scaffolding"
     ],
-    "content": "Agentic AI in EducationAgentic AI refers to artificial intelligence systems that can autonomously plan, execute, and adapt multi-step workflows to achieve learning goals \u2014 going beyond single-turn question-answering to act as persistent, goal-directed collaborators in educational contexts. In education, agentic AI manifests as AI tutors that scaffold learning over extended interactions, multi-agent systems that orchestrate complex instructional designs, and autonomous agents that adapt their ped",
+    "content": "> Agentic AI \u2014 AI systems that autonomously plan, execute, and adapt multi-step workflows to achieve learning goals, going beyond single-turn Q&A to act as persistent, goal-directed collaborators: AI tutors that scaffold over extended interactions, multi-agent systems orchestrating instructional designs, and agents that co-regulate learning. The paradigm shift from prompt-responding tool to active collaborator is examined in agentic-ai-pedagogical-best-practice-2026 and tool-invariant-framework-",
     "url": "pages/agentic-ai.html"
   },
   {
@@ -401,7 +401,7 @@
       "efficacy-study",
       "prompt-engineering"
     ],
-    "content": "",
+    "content": "The Main Barrier to AI Adoption in the Public Sector is Lack of Training\nVinicius Santana Gomes (2026) \u2014 arXiv:2606.01517.\ud83d\udcc4 Full text (arXiv)Through Brazilian government case studies, demonstrates that a four-layer pedagogical methodology (Literacy, Protocol, Prompt Engineering, Audit) is the key to productivity gains (up to 50%), rather than premium models. This work emphasizes that ai-literacy is a developmental capacity requiring structured scaffolding and prompt-engineering discipline. It co",
     "url": "pages/ai-adoption-training-public-sector.html"
   },
   {
@@ -488,7 +488,7 @@
       "metacognition",
       "scaffolding"
     ],
-    "content": "",
+    "content": "AI Assistance Reduces Persistence and Hurts Independent PerformanceCore FindingThrough randomized controlled trials (N=1,222) across mathematical reasoning and reading comprehension tasks, Liu et al. provide causal evidence that brief AI assistance (~10 minutes) produces two harmful effects:1. Reduced persistence: Users give up more easily on difficult tasks after using AI\n2. Impaired unassisted performance: People perform significantly worse without AI after using itCrucially, AI does improve s",
     "url": "pages/ai-assistance-reduces-persistence.html"
   },
   {
@@ -941,7 +941,7 @@
       "instructional-design",
       "personalized-learning"
     ],
-    "content": "",
+    "content": "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education\nLiu & Levy (2026) \u2014 ArXiv.\n\ud83d\udcc4 Full text (arXiv)Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State; the continuum doubles as a diagnostic tool for moving students beyond fluent-but-uncritical tool adoption. Found that reaching higher stages requires discipline-embedded experiences. ai-literacy, ",
     "url": "pages/ai-literacy-continuum-higher-education.html"
   },
   {
@@ -1280,7 +1280,7 @@
       "scaffolding",
       "feedback-loop"
     ],
-    "content": "AI TutoringAI tutoring encompasses the use of artificial intelligence \u2014 particularly large language models and intelligent tutoring systems \u2014 to provide personalized, adaptive, and scalable instructional support to learners. AI tutors can take many forms: conversational tutors that engage in Socratic dialogue, scaffolded feedback systems that guide problem-solving, adaptive learning platforms that personalize content sequencing, and agent-based tutors that maintain long-term learner models. The ",
+    "content": "> AI tutoring \u2014 the use of AI (especially LLMs and intelligent tutoring systems) to provide personalized, adaptive, scalable instructional support: conversational tutors, scaffolded feedback systems, adaptive platforms, and agent-based tutors with long-term learner models. Effectiveness hinges on pedagogical design (scaffolding, feedback quality, autonomy balance) rather than the model alone \u2014 see measuring-llm-tutors-teach-vs-solve and socratic-method.AI TutoringAI tutoring encompasses the use ",
     "url": "pages/ai-tutoring.html"
   },
   {
@@ -1435,7 +1435,7 @@
       "educational-theory",
       "faculty-development"
     ],
-    "content": "Assessment Validity in AI EducationSynthesisAssessment validity\u2014the degree to which an instrument measures what it claims to measure\u2014is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revealed a 40% overestimation gap: teachers' self-reported AI literacy correlated weakly (r=0.31) with actual performance, while task-based assessments showed strong correlation (r=0.72) with classroom AI integration.Key Validity Threats in AI Education\n1",
+    "content": "> Assessment validity \u2014 whether an instrument measures what it claims \u2014 is under strain in AI education: ai-literacy self-reports overestimate actual skill (40% gap; r=0.31 self-report vs r=0.72 task-based), demanding task-based, construct-aligned designs (benchmark, automated-grading).Assessment Validity in AI EducationSynthesisAssessment validity\u2014the degree to which an instrument measures what it claims to measure\u2014is critical in AI education contexts where self-report bias distorts competency ",
     "url": "pages/assessment-validity.html"
   },
   {
@@ -1779,7 +1779,7 @@
       "scoping-review",
       "self-regulated-learning"
     ],
-    "content": "ChatGPT Critical and Creative Thinking: Systematic ReviewLi, Cui, and Hagedorn (2026) conducted a PRISMA-guided systematic review of 67 empirical studies (2022\u20132025) examining how ChatGPT influences university students' critical and creative thinking. Using a dual-lens framework \u2014 convergent (critical thinking) and divergent (creative thinking) processes \u2014 the review reveals that ChatGPT's cognitive effects are fundamentally contingent on pedagogical framing, not the tool itself.Theoretical Fram",
+    "content": "> Li, Cui & Hagedorn (2026) PRISMA-review 67 empirical studies (2022\u20132025) on ChatGPT and university students' critical and creative thinking: effects are contingent on pedagogical framing, not the tool itself (generative-ai).ChatGPT Critical and Creative Thinking: Systematic ReviewLi, Cui, and Hagedorn (2026) conducted a PRISMA-guided systematic review of 67 empirical studies (2022\u20132025) examining how ChatGPT influences university students' critical and creative thinking. Using a dual-lens fram",
     "url": "pages/chatgpt-critical-creative-thinking-review.html"
   },
   {
@@ -2387,7 +2387,7 @@
       "higher-ed",
       "scaffolding"
     ],
-    "content": "Scaffolding Critical Thinking with Generative AIVendrell & Johnston (2026) propose a design-oriented pedagogical framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from cognitive psychology, educational theory, and AI ethics, the framework addresses the risk that unstructured LLM use leads to cognitive offloading, metacognitive disengagement, and reduced epistemic agency.The Problem: Unstructured LLM UseA global survey rep",
+    "content": "> Vendrell & Johnston (2026) propose a design-oriented framework for LLM use in higher education that strengthens rather than displaces critical-thinking, countering cognitive-offloading and metacognitive disengagement (metacognition, scaffolding).Scaffolding Critical Thinking with Generative AIVendrell & Johnston (2026) propose a design-oriented pedagogical framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from cognitive",
     "url": "pages/critical-thinking-genai-scaffolding.html"
   },
   {
@@ -3497,7 +3497,7 @@
       "equity",
       "bias-mitigation"
     ],
-    "content": "",
+    "content": "Generative AI and the Marginalization of Minoritized Knowledges in Higher Education: The Case of DisabilityFatiha Tali-Otmani (2026) \u2014 EFTS, Grhapes. arXiv preprint.\ud83d\udcc4 Full text (arXiv)OverviewThis paper argues that generative-ai systems in higher-ed are not epistemically neutral \u2014 they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric t",
     "url": "pages/genai-minoritized-knowledges-disability.html"
   },
   {
@@ -4114,7 +4114,7 @@
       "pedagogy",
       "stem-education"
     ],
-    "content": "Institutional Change Framework for AICore ContributionPerl-Nussbaum & Finkelstein (2026) propose a six-dimension framework for adapting institutional change models in STEM higher education to the realities of generative AI. Unlike prior reforms based on adoption technologies (stable, evidence-based practices like Peer Instruction or PhET simulations), generative AI is an arrival technology \u2014 it entered classrooms before pedagogical evidence could form. The framework identifies where existing cha",
+    "content": "> Perl-Nussbaum & Finkelstein (2026) adapt institutional-change models to generative AI as an arrival technology \u2014 one that entered classrooms before pedagogical evidence existed \u2014 yielding a six-dimension framework and design implications for leading change under uncertainty (faculty-development, higher-ed, policy-maker).Institutional Change Framework for AICore ContributionPerl-Nussbaum & Finkelstein (2026) propose a six-dimension framework for adapting institutional change models in STEM high",
     "url": "pages/institutional-change-framework-ai.html"
   },
   {
@@ -4611,7 +4611,7 @@
       "hallucination-risk",
       "k-12"
     ],
-    "content": "",
+    "content": "> MathCog benchmark (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 hallucination-risk) \u2014 calling for evidence-aware architectures and teacher-in-the-loop designs (knowledge-tracing, multimodal, benchmark).Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten MathSummaryThis paper introduces MathCog, a benchmark dataset of 3,036 teacher-annotated diagnostic verdicts across 639 student handwritten math resp",
     "url": "pages/llm-cognitive-diagnosis-handwritten-math.html"
   },
   {
@@ -5562,7 +5562,7 @@
       "faculty-development",
       "learning-analytics"
     ],
-    "content": "",
+    "content": "Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case StudyAnas H. Alzahrani (2026) \u2014 arXiv preprint.\ud83d\udcc4 Full text (arXiv)OverviewThis is the first empirical study of what happens when AI agents are embedded persistently in a real academic research environment \u2014 with durable memory, local files, external tools, scheduled routines, delegated roles, and explicit safety protocols. Over 96 active days (January 31 to May 25, 2026), the researcher-agent ecosystem generated",
     "url": "pages/persistent-ai-agents-academic-research.html"
   },
   {
@@ -6289,7 +6289,7 @@
       "formative-assessment",
       "multimodal"
     ],
-    "content": "",
+    "content": "Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question GenerationJim Salsman (2026) \u2014 arXiv preprint. cs.CL; cs.HC.\ud83d\udcc4 Full text (arXiv)OverviewSlidesQAQA is a Flask-based system that extracts text and rendered images from PDF lecture slides and processes them through a four-stage llm pipeline: window planning (segment extraction), deck synthesis (cross-slide reasoning), slide annotation (per-slide question generation), and reconciliation (deck-level revision to redu",
     "url": "pages/slidesqaqa-pedagogical-question-generation.html"
   },
   {
@@ -6612,7 +6612,7 @@
       "higher-ed",
       "benchmark"
     ],
-    "content": "",
+    "content": "How Students (Mis)understand Conditionals and Loops -- A TaxonomyDimitri Eckert and Christian Kautz (2026) \u2014 arXiv preprint.\ud83d\udcc4 Full text (arXiv)OverviewThis paper presents a fine-grained taxonomy categorizing novice programmers' difficulties with reading and understanding control flow constructs \u2014 specifically conditionals (selection) and loops (iteration). Developed through the Extended Taxonomy Design Process (ETDP), the taxonomy integrates prior research with new empirical data from student qu",
     "url": "pages/student-misconceptions-conditionals-loops-taxonomy.html"
   },
   {
