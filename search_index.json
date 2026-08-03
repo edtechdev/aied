@@ -31,7 +31,7 @@
       "plagiarism-detection",
       "policy-maker"
     ],
-    "content": "Academic IntegrityAcademic integrity challenges and solutions in AI-era educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\ngenai-impact-chinese-students-hss \u2014 Findings on assessment validity concerns when GenAI use is widespread\nethical-ai-higher-ed-game-theory \u2014 3 of 8 papers in May 28 scan\ngenerative-ai-reduced-study-time-math \u2014 Evidence of widespread unproctored AI use and its impact on measured learning outcomes (2026)\ncode-review-genai-cs1\ntaklif-ai",
+    "content": "Academic IntegrityAcademic integrity challenges and solutions in AI-era educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nchatgpt-feedback-engagement-genai \u2014 Ethical decision-making about GenAI feedback use\ngenai-impact-chinese-students-hss \u2014 Findings on assessment validity concerns when GenAI use is widespread\nethical-ai-higher-ed-game-theory \u2014 3 of 8 papers in May 28 scan\ngenerative-ai-reduced-study-time-math \u2014 Evidence of widespread unproctored AI us",
     "url": "pages/academic-integrity.html"
   },
   {
@@ -201,6 +201,21 @@
     ],
     "content": "> \ud83d\udcc4 Full text: arXiv:2508.19993 \u00b7 local \u00b7 arXiv:2507.06878 \u00b7 localAffective Tutoring> Integrating emotional awareness into AI tutoring systems can yield measurable pedagogical gains, but the same affective sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.^kar-mathbuddy-affective-math-tutoring-2025^favero-critical-ai-tutors-empower-enslave-2025The Case For Affect-Aware TutorsMathBuddy (Kar et al., 2025)MathBuddy dynamically models student affect u",
     "url": "pages/affective-tutoring.html"
+  },
+  {
+    "slug": "agency-gap-ai-writing",
+    "title": "\"The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning\"",
+    "tags": [
+      "generative-ai",
+      "ai-literacy",
+      "writing-education",
+      "higher-ed",
+      "agentic-ai",
+      "equity",
+      "student-experience"
+    ],
+    "content": "The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoningYueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Ga\u0161evi\u0107 & Lixiang Yan (2026) \u2014 Computers and Education: Artificial Intelligence (Elsevier), Article in Press. Open Access, CC BY 4.0. doi:10.1016/j.caeai.2026.100655.\ud83d\udcc4 Full text (ScienceDirect, OA)SummaryA randomized experiment (n = 79 medical/nursing students) examining how the initiative design of an AI writing agent shapes reas",
+    "url": "pages/agency-gap-ai-writing.html"
   },
   {
     "slug": "agent-voice-accents-k12-group-learning",
@@ -640,7 +655,7 @@
     "slug": "ai-feedback-quality",
     "title": "\"Ai Feedback Quality\"",
     "tags": [],
-    "content": "Ai Feedback QualityStub page \u2014 created as a back-link target.Related Pages\nai-assistance-discretionary-feedback \u2014 Quality benchmarks for AI tutoring and feedback\nai-generated-feedback-higher-ed \u2014 RCT: GPT-o4-mini feedback met non-inferiority AND equivalence vs expert teacher; DeepSeek R1 non-inferior; effect depends on assessment architecture, not source\ntutoring-effectiveness-index \u2014 links herellm-feedback-programming-classroom \u2014 Natural language feedback vs test cases: quality matters more tha",
+    "content": "Ai Feedback QualityStub page \u2014 created as a back-link target.Related Pages\ngenai-teacher-feedback-comparison \u2014 Students rate teacher feedback more trustworthy than GenAI\nai-assistance-discretionary-feedback \u2014 Quality benchmarks for AI tutoring and feedback\nai-generated-feedback-higher-ed \u2014 RCT: GPT-o4-mini feedback met non-inferiority AND equivalence vs expert teacher; DeepSeek R1 non-inferior; effect depends on assessment architecture, not source\ntutoring-effectiveness-index \u2014 links herellm-fee",
     "url": "pages/ai-feedback-quality.html"
   },
   {
@@ -1460,7 +1475,7 @@
       "formative-assessment",
       "llm"
     ],
-    "content": "Automated Grading Systems> Stub \u2014 pending source ingestion. AI-powered automated grading and assessment systems for educational contexts.ConnectionsRelated Pages\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncorrect-answer-trap-ai-tutor \u2014 8 of 8 papers in May 28 scan\nrubric-aware-grading-rec-cbm \u2014 2 of 8 papers in May 28 scan\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 error taxonomy enabling e",
+    "content": "Automated Grading Systems> Stub \u2014 pending source ingestion. AI-powered automated grading and assessment systems for educational contexts.ConnectionsRelated Pages\nstructrag-diagram-reasoning-ai-tutoring \u2014 Diagram-based assessment and structural verification\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \ncorrect-answer-trap-ai-tutor \u2014 8 of 8 papers in May 28 scan\nrubric-aware-grading-rec-cbm \u2014 2 of 8 paper",
     "url": "pages/automated-grading.html"
   },
   {
@@ -1626,6 +1641,20 @@
     "url": "pages/buggy-genai-code-student-responses.html"
   },
   {
+    "slug": "care-full-feedback-genai",
+    "title": "\"The care-full craft of feedback in an age of generative AI\"",
+    "tags": [
+      "generative-ai",
+      "feedback-loop",
+      "higher-ed",
+      "educational-theory",
+      "equity",
+      "teacher-role"
+    ],
+    "content": "The care-full craft of feedback in an age of generative AINaomi E. Winstone, Karen Gravett, Margaret Bearman, Christy Noble, Lasse X Jensen, Anna Jones & Kelli Nicola-Richmond (2026) \u2014 Assessment & Evaluation in Higher Education 51(5), 911\u2013927. doi:10.1080/02602938.2026.2643333.\ud83d\udcc4 Full text (Taylor & Francis, OA)SummaryA conceptual/position paper arguing that feedback in an age of GenAI must be understood as \"matters of care\" \u2014 ethical, relational practices rather than information transmission. I",
+    "url": "pages/care-full-feedback-genai.html"
+  },
+  {
     "slug": "change-management",
     "title": "Change Management",
     "tags": [
@@ -1654,6 +1683,21 @@
     ],
     "content": "ChatGPT Critical and Creative Thinking: Systematic ReviewLi, Cui, and Hagedorn (2026) conducted a PRISMA-guided systematic review of 67 empirical studies (2022\u20132025) examining how ChatGPT influences university students' critical and creative thinking. Using a dual-lens framework \u2014 convergent (critical thinking) and divergent (creative thinking) processes \u2014 the review reveals that ChatGPT's cognitive effects are fundamentally contingent on pedagogical framing, not the tool itself.Theoretical Fram",
     "url": "pages/chatgpt-critical-creative-thinking-review.html"
+  },
+  {
+    "slug": "chatgpt-feedback-engagement-genai",
+    "title": "\"Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence\"",
+    "tags": [
+      "generative-ai",
+      "feedback-loop",
+      "student-experience",
+      "higher-ed",
+      "ai-literacy",
+      "language-learning",
+      "over-reliance"
+    ],
+    "content": "Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligenceYing Zhan & Zi Yan (2026) \u2014 Assessment & Evaluation in Higher Education 51(5), 821\u2013834. doi:10.1080/02602938.2025.2471821.\ud83d\udcc4 Full text (Taylor & Francis, OA)SummaryA qualitative study of 16 undergraduates at a Hong Kong teacher-education university who used ChatGPT 3.5 to obtain feedback on IELTS writing tasks. Data came from unobtrusive screen-recorded observ",
+    "url": "pages/chatgpt-feedback-engagement-genai.html"
   },
   {
     "slug": "chatgpt-impact-high-school-tests",
@@ -2235,7 +2279,7 @@
     "slug": "cs-education",
     "title": "Cs Education",
     "tags": [],
-    "content": "Cs EducationStub page \u2014 full synthesis pending.Related Pages\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 taxonomy of programming misconceptions in conditionals and loops\nneurodivergent-computing-students \u2014 Design recommendations for inclusive active learning in computing courses\ncode-review-genai-cs1\nanvil-ai-educational-animations\ncode-anchor-multi-view-visualization -- Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations\nstudent-perception",
+    "content": "Cs EducationStub page \u2014 full synthesis pending.Related Pages\nstructrag-diagram-reasoning-ai-tutoring \u2014 Network-topology and algorithm diagram reasoning\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 taxonomy of programming misconceptions in conditionals and loops\nneurodivergent-computing-students \u2014 Design recommendations for inclusive active learning in computing courses\ncode-review-genai-cs1\nanvil-ai-educational-animations\ncode-anchor-multi-view-visualization -- Code as Anchor, Memory and",
     "url": "pages/cs-education.html"
   },
   {
@@ -3505,6 +3549,20 @@
     "url": "pages/favero-critical-ai-tutors-empower-enslave-2025.html"
   },
   {
+    "slug": "feedback-futures-genai",
+    "title": "\"Feedback futures: beyond the limits of human and GenAI capacities\"",
+    "tags": [
+      "generative-ai",
+      "feedback-loop",
+      "higher-ed",
+      "ai-literacy",
+      "educational-theory",
+      "equity"
+    ],
+    "content": "Feedback futures: beyond the limits of human and GenAI capacitiesYing Zhan, James Wood, David Carless & Zi Yan (2026) \u2014 Assessment & Evaluation in Higher Education 51(5), 811\u2013820. Editorial introducing the AEHE special issue on feedback and generative AI. doi:10.1080/02602938.2026.2672830.\ud83d\udcc4 Full text (Taylor & Francis, OA)SummaryThis editorial synthesises the seven papers of the AEHE 51(5) special issue on feedback in the age of generative AI. Its central claim: the question is not whether GenAI",
+    "url": "pages/feedback-futures-genai.html"
+  },
+  {
     "slug": "feedback-loop",
     "title": "Feedback Loop",
     "tags": [
@@ -3512,7 +3570,7 @@
       "formative-assessment",
       "personalized-learning"
     ],
-    "content": "Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nllm-automated-assessment-student-self-explanations \u2014 LLM-based binary classification of student self-explanations for automated feedback (2026)\nai-changing-teaching-workflows\nchatgpt-critical-creative-thinking-review \u2014 Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)\nlata-ferpa-compliant-l",
+    "content": "Feedback LoopRole of feedback loops in AI-enhanced learning systemsConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nfeedback-futures-genai \u2014 AEHE special-issue editorial on GenAI feedback futures\nchatgpt-feedback-engagement-genai \u2014 Students' 4-dimension engagement with ChatGPT feedback\ngenai-teacher-feedback-comparison \u2014 N=6,960 student perceptions of GenAI vs teacher feedback\nlearner-centered-feedback-ai \u2014 Teachers' practices & perceptions with AI feedback too",
     "url": "pages/feedback-loop.html"
   },
   {
@@ -3898,6 +3956,20 @@
     "url": "pages/genai-skill-bypass-literacy.html"
   },
   {
+    "slug": "genai-teacher-feedback-comparison",
+    "title": "\"Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness\"",
+    "tags": [
+      "generative-ai",
+      "feedback-loop",
+      "student-experience",
+      "higher-ed",
+      "ai-literacy",
+      "engagement-metrics"
+    ],
+    "content": "Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthinessMichael Henderson, Margaret Bearman, Jennifer Chung, Tim Fawns, Simon Buckingham Shum, Kelly E. Matthews & Jimena de Mello Heredia (2026) \u2014 Assessment & Evaluation in Higher Education 51(5), 863\u2013878. doi:10.1080/02602938.2025.2502582.\ud83d\udcc4 Full text (Taylor & Francis, OA)SummaryThe largest study in the AEHE 51(5) special issue: a cross-sectional survey across four Australian universities (\u2248192,000 invi",
+    "url": "pages/genai-teacher-feedback-comparison.html"
+  },
+  {
     "slug": "genai-tutor-engagement-patterns",
     "title": "\"Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use\"",
     "tags": [
@@ -4130,7 +4202,7 @@
       "generative-ai",
       "llm"
     ],
-    "content": "AI in Higher EducationConnectionsRelated Pages\ngenai-impact-chinese-students-hss \u2014 Large-scale survey examining GenAI's role in academic development of humanities and social sciences students\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nethical-ai-higher-ed-game-theory \u2014 3 of 8 papers in May 28 scan\nllm-sentiment-analysis-education-research \u2014 1 of 8 papers in May 28 scan\ngenai-minoritized-knowledges-disability \u2014 GenAI's role in epistemic coloniality within higher education\nc",
+    "content": "AI in Higher EducationConnectionsRelated Pages\nagency-gap-ai-writing \u2014 AI writing support in medical/nursing education\nfeedback-futures-genai \u2014 GenAI feedback governance and assessment design in universities\ngenai-teacher-feedback-comparison \u2014 Four-Australian-university survey of feedback perceptions\ncare-full-feedback-genai \u2014 Feedback as professional craft in university contexts\ngenai-impact-chinese-students-hss \u2014 Large-scale survey examining GenAI's role in academic development of humanities a",
     "url": "pages/higher-ed.html"
   },
   {
@@ -4400,7 +4472,7 @@
       "intelligent-tutoring",
       "ai-education"
     ],
-    "content": "Intelligent TutoringIntelligent tutoring systems and AI-driven tutoring agents in educationConnectionsRelated Pages\nai-coaching-rl-skill-development \u2014 Extension of ITS scaffolding principles to embodied AI coaching for motor skill development with RL\nsupplynet-visual-exploratory-learning \u2014 LLM multi-agent simulation system for supply chain management education\ncorrect-answer-trap-ai-tutor \u2014 8 of 8 papers in May 28 scan\nkt4eqg-personalized-question-generation \u2014 7 of 8 papers in May 28 scan\nstanbk",
+    "content": "Intelligent TutoringIntelligent tutoring systems and AI-driven tutoring agents in educationConnectionsRelated Pages\nstructrag-diagram-reasoning-ai-tutoring \u2014 Structural diagram reasoning inside ITS\nai-coaching-rl-skill-development \u2014 Extension of ITS scaffolding principles to embodied AI coaching for motor skill development with RL\nsupplynet-visual-exploratory-learning \u2014 LLM multi-agent simulation system for supply chain management education\ncorrect-answer-trap-ai-tutor \u2014 8 of 8 papers in May 28 ",
     "url": "pages/intelligent-tutoring.html"
   },
   {
@@ -4580,7 +4652,7 @@
     "tags": [
       "ai-education"
     ],
-    "content": "Language LearningAI-supported language learning and second language acquisition technologiesConnectionsRelated Pages\nself-referential-l2-writing-llm-assessment \u2014 L2 writing evaluation with profile-based intra-learner assessment\ntutors-gig-economy-automated-feedback -- Tutors perceived AI feedback more negatively than learner feedback but found it useful for self-monitoring; discrepancies between the two sources caused confusion.\nai-interlocutor-l2-spoken-dialogue -- AI dialogue in L2 practice re",
+    "content": "Language LearningAI-supported language learning and second language acquisition technologiesConnectionsRelated Pages\nchatgpt-feedback-engagement-genai \u2014 IELTS writing feedback via ChatGPT\nself-referential-l2-writing-llm-assessment \u2014 L2 writing evaluation with profile-based intra-learner assessment\ntutors-gig-economy-automated-feedback -- Tutors perceived AI feedback more negatively than learner feedback but found it useful for self-monitoring; discrepancies between the two sources caused confusi",
     "url": "pages/language-learning.html"
   },
   {
@@ -4610,6 +4682,20 @@
     ],
     "content": "Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming CourseMarina Lepp (2026) \u2014 arXiv:2607.24755 (cs.HC, cs.AI, cs.CY)\ud83d\udcc4 Full text (arXiv)SummaryExamines how different forms of learner-AI interaction relate to learning outcomes in object-oriented programming courses. Identifies distinct patterns of GenAI use among students and correlates them with academic performance, finding that certain interaction patterns (seeking explanation rather than code generati",
     "url": "pages/learner-ai-interaction-patterns-oop.html"
+  },
+  {
+    "slug": "learner-centered-feedback-ai",
+    "title": "\"Enhancing learner-centered feedback with AI: teachers' practices and perceptions\"",
+    "tags": [
+      "generative-ai",
+      "feedback-loop",
+      "teacher-role",
+      "higher-ed",
+      "faculty-development",
+      "scaffolding"
+    ],
+    "content": "Enhancing learner-centered feedback with AI: teachers' practices and perceptionsAhmad Ari Aldino, Bhagya Maheshi, Yuheng Li, Ying Zhou, Yi-Shan Tsai, Dragan Ga\u0161evi\u0107 & Guanliang Chen (2026) \u2014 Assessment & Evaluation in Higher Education 51(5), 892\u2013910. doi:10.1080/02602938.2026.2638920.\ud83d\udcc4 Full text (Taylor & Francis, OA)SummaryAn empirical study of 21 higher-education teachers using PolyFeed, an AI-powered feedback tool combining (1) a BERT-based ML model (from Aldino et al. 2024) that detects whic",
+    "url": "pages/learner-centered-feedback-ai.html"
   },
   {
     "slug": "learning-analytics-dashboards",
@@ -5648,7 +5734,7 @@
       "academic-integrity",
       "student-experience"
     ],
-    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nai-coaching-rl-skill-development \u2014 Over-reliance observed in motor skill learning when AI coaching provides excessive intervention\ngenai-impact-chinese-students-hss \u2014 Limited accuracy and over-reliance identified as top student concerns about GenAI\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cogniti",
+    "content": "Over-reliance on AIStudent and faculty over-reliance on AI tools in educationConnectionsThis page is a stub \u2014 awaiting further sources and content.Related Pages\nagency-gap-ai-writing \u2014 Over-direction risk of rigid proactive designs\nfeedback-futures-genai \u2014 Agency vs dependency tension in GenAI feedback\nchatgpt-feedback-engagement-genai \u2014 Metacognitive laziness and 83.9% uptake of ChatGPT feedback\nlearner-centered-feedback-ai \u2014 Novice-teacher deferral risk with AI feedback tools\nai-coaching-rl-sk",
     "url": "pages/over-reliance.html"
   },
   {
@@ -6257,7 +6343,7 @@
       "scaffolding",
       "ai-education"
     ],
-    "content": "ScaffoldingInstructional scaffolding techniques and their implementation in AI-enhanced learning environmentsConnectionsRelated Pages\nai-coaching-rl-skill-development \u2014 RL-based coaching policy that dynamically fades scaffolding based on learner competence for motor skill development\ncorrect-answer-trap-ai-tutor \u2014 8 of 8 papers in May 28 scan\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 misconception taxonomy as a basis for targeted instructional scaffolds\nai-assistance-reduces-persisten",
+    "content": "ScaffoldingInstructional scaffolding techniques and their implementation in AI-enhanced learning environmentsConnectionsRelated Pages\nagency-gap-ai-writing \u2014 Proactive designs scaffold reasoning but risk over-scaffolding\nlearner-centered-feedback-ai \u2014 AI as reflective scaffold for teachers' evaluative judgement\nstructrag-diagram-reasoning-ai-tutoring \u2014 Pattern templates scaffold structural reasoning\nai-coaching-rl-skill-development \u2014 RL-based coaching policy that dynamically fades scaffolding ba",
     "url": "pages/scaffolding.html"
   },
   {
@@ -6621,6 +6707,21 @@
     "url": "pages/stem-education.html"
   },
   {
+    "slug": "structrag-diagram-reasoning-ai-tutoring",
+    "title": "\"Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education\"",
+    "tags": [
+      "intelligent-tutoring",
+      "stem-education",
+      "llm",
+      "generative-ai",
+      "automated-grading",
+      "feedback-loop",
+      "scaffolding"
+    ],
+    "content": "Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM educationYicheng Sun, Yihan Liao & Xiaoxue Ma (2026) \u2014 Smart Learning Environments (Springer), Article in Press. Open Access, CC BY 4.0. doi:10.1186/s40561-026-00459-9.\ud83d\udcc4 Full text (Springer, OA) \u00b7 StructRAG code & prompt templates (GitHub)SummaryPresents StructRAG, a pattern-aware framework that improves how AI tutoring systems interpret complex engineering diagrams (circuit schematics, network topologies, b",
+    "url": "pages/structrag-diagram-reasoning-ai-tutoring.html"
+  },
+  {
     "slug": "structured-llm-feedback-programming",
     "title": "The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance",
     "tags": [
@@ -6662,7 +6763,7 @@
       "k-12",
       "higher-ed"
     ],
-    "content": "Student Experience with AI> Stub \u2014 pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.ConnectionsRelated Pages\ngenai-impact-chinese-students-hss \u2014 Student perceptions of GenAI's impact on learning processes, performance, and challenges\nllm-sentiment-analysis-education-research \u2014 1 of 8 papers in May 28 scan\nstudent-misconceptions-conditionals-loops-taxonomy \u2014 empirical taxonomy of how students misunderstand control flow\nneurodivergent-computing",
+    "content": "Student Experience with AI> Stub \u2014 pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.ConnectionsRelated Pages\nagency-gap-ai-writing \u2014 Learners value confirmatory reactive support and dialogic proactive support\nchatgpt-feedback-engagement-genai \u2014 Students' cognitive/metacognitive/affective/behavioural engagement with ChatGPT feedback\ngenai-teacher-feedback-comparison \u2014 Students value GenAI access + teacher trustworthiness\ngenai-impact-chinese-s",
     "url": "pages/student-experience.html"
   },
   {
@@ -6943,7 +7044,7 @@
       "k-12",
       "higher-ed"
     ],
-    "content": "Teacher Role in AI-Enhanced EducationConnectionsRelated Pages\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nanvil-ai-educational-animations\nteacher-student-agency-orchestration\nconcept-catalyst-engineering-scaffolds\ncode-review-genai-cs1\nai-tutor-authoring-promptdecipher \u2014 PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Inte",
+    "content": "Teacher Role in AI-Enhanced EducationConnectionsRelated Pages\nlearner-centered-feedback-ai \u2014 Teachers calibrate AI tone to preserve professional voice\ncare-full-feedback-genai \u2014 Feedback as professional craft and ethical practice\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-workflows\nanvil-ai-educational-animations\nteacher-student-agency-orchestration\nconcep",
     "url": "pages/teacher-role.html"
   },
   {
@@ -7296,7 +7397,7 @@
       "ai-literacy",
       "scaffolding"
     ],
-    "content": "AI in Writing Education> Stub \u2014 pending source ingestion. AI applications in writing instruction, composition feedback, and argumentation development.ConnectionsRelated Pages\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nmindcopilot-llm-co-writing \u2014 Formal MDP model of human-LLM co-writing with interaction-aware metrics (IJCAI 2026)\nvocabulary-difficulty-prediction \u2014 LLM fine-tuned with soft-target loss achieves r>0.91 for vocabulary difficulty p\ncyberscholar-genai-writing-fe",
+    "content": "AI in Writing Education> Stub \u2014 pending source ingestion. AI applications in writing instruction, composition feedback, and argumentation development.ConnectionsRelated Pages\nagency-gap-ai-writing \u2014 Multimodal analytical writing with reactive vs proactive agents\nai-assisted-writing-research-teams \u2014 6 of 8 papers in May 28 scan\nmindcopilot-llm-co-writing \u2014 Formal MDP model of human-LLM co-writing with interaction-aware metrics (IJCAI 2026)\nvocabulary-difficulty-prediction \u2014 LLM fine-tuned with so",
     "url": "pages/writing-education.html"
   },
   {

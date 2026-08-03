@@ -18,6 +18,7 @@ This short paper provides rare descriptive classroom evidence on what happens wh
 The study surfaces the central tension in [[over-reliance]]: generative AI offers a fast, scalable route to immediate writing advice, but it is not a self-contained path to deeper reflection. Using a validated AI-text classifier, the authors estimate the share of essays that look like unaided student writing, linking tool use to the broader question of whether AI assistance erodes learning gains. These findings reinforce concerns echoed in [[generative-ai-reduced-study-time-math]] and [[sequenced-ai-feedback-learning]] about dosage and critical engagement. The paper argues benefits depend on whether students learn to use AI selectively and critically, a skill squarely within [[ai-literacy]] and the [[student-experience]] of writing support in [[writing-education]].
 
 ## Related Pages
+- [[genai-teacher-feedback-comparison]] — Large-scale perception data complements semester-long evaluation
 - [[ai-generated-feedback-higher-ed]] — Semester-long student evaluation of repeated GenAI writing feedback (n=283).
 - [[ai-feedback-quality]] — Longitudinal evidence that AI writing feedback is usually rated helpful but decays in perceived value.
 - [[over-reliance]] — Shows benefits of AI feedback depend on selective, critical use to avoid over-use harming learning.

@@ -15,6 +15,9 @@ confidence: low
 ## Connections
 
 ## Related Pages
+- [[agency-gap-ai-writing]] — Learners value confirmatory reactive support and dialogic proactive support
+- [[chatgpt-feedback-engagement-genai]] — Students' cognitive/metacognitive/affective/behavioural engagement with ChatGPT feedback
+- [[genai-teacher-feedback-comparison]] — Students value GenAI access + teacher trustworthiness
 - [[genai-impact-chinese-students-hss]] — Student perceptions of GenAI's impact on learning processes, performance, and challenges
 - [[llm-sentiment-analysis-education-research]] — 1 of 8 papers in May 28 scan
 - [[student-misconceptions-conditionals-loops-taxonomy]] — empirical taxonomy of how students misunderstand control flow
