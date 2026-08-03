@@ -7,6 +7,8 @@ tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffold
 sources: []
 confidence: high
 ---
+> **Agentic AI** — AI systems that autonomously plan, execute, and adapt multi-step workflows to achieve learning goals, going beyond single-turn Q&A to act as persistent, goal-directed collaborators: AI tutors that scaffold over extended interactions, [[multi-agent]] systems orchestrating instructional designs, and agents that co-regulate learning. The paradigm shift from prompt-responding tool to active collaborator is examined in [[agentic-ai-pedagogical-best-practice-2026]] and [[tool-invariant-framework-agentic-ai]].
+
 
 # Agentic AI in Education
 

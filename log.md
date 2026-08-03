@@ -22,6 +22,12 @@
      - Result: 122 tags in use = 122 tag pages = 122 canonical (SCHEMA 126 incl. 5 unused); stale tags/automated-assessment.html removed
      - Deployed
 
+     ## [2026-08-03] update | Summaries at top of every page + tag reconciliation re-applied
+     - Fixed reconcile script body-truncation bug (v1 dropped page bodies on 8 pages; restored from git 49c252d and re-applied tag mapping with bodies intact)
+     - Added blockquote synthesis summaries (with wikilinks) to the last 7 concept pages lacking them: agentic-ai, ai-tutoring, assessment-validity, institutional-change-framework-ai, chatgpt-critical-creative-thinking-review, llm-cognitive-diagnosis-handwritten-math, critical-thinking-genai-scaffolding → 590/590 pages have top summaries
+     - Generator now emits a summary block on the 43 standalone tag pages (no same-named concept): "N article(s) on X" + SCHEMA taxonomy category + related-tag chips (co-occurring tags) + representative article links
+     - Deployed
+
      ## [2026-08-03] ingest | 6 PDF articles (AEHE feedback special issue + StructRAG)
      - Sources: 5 × Assessment & Evaluation in Higher Education 51(5) special issue on feedback & GenAI + 1 × Smart Learning Environments (Springer)
      - Raw saved: `raw/papers/tandf-2026-feedback-futures-genai.md`, `raw/papers/tandf-2026-chatgpt-feedback-engagement.md`, `raw/papers/tandf-2026-genai-teacher-feedback-comparison.md`, `raw/papers/tandf-2026-learner-centered-feedback-ai.md`, `raw/papers/tandf-2026-care-full-feedback-genai.md`, `raw/papers/sle-2026-structrag-diagram-reasoning.md`

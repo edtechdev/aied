@@ -7,6 +7,8 @@ tags: [ai-literacy, boundary-object, "generative-ai", cognitive-offloading, crea
 sources: [raw/articles/chatgpt-critical-creative-thinking-review.md]
 confidence: high
 ---
+> Li, Cui & Hagedorn (2026) PRISMA-review **67 empirical studies (2022–2025)** on ChatGPT and university students' [[critical-thinking|critical]] and [[creative-thinking|creative]] thinking: effects are contingent on **pedagogical framing**, not the tool itself ([[generative-ai]]).
+
 
 # ChatGPT Critical and Creative Thinking: Systematic Review
 
