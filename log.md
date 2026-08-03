@@ -40,6 +40,17 @@
 - Confidence: low → high; journal icon ○ → ●; back-links added to 6 pages (scaffolding, student-experience, higher-ed, feedback-loop, generative-ai, engagement-metrics)
 - Index: 628 pages (title refreshed); Journal: 431 entries
 
+## [2026-08-03] ingest | Hefter, Paaßen & Berthold (2026) — Critical GenAI use predictors
+- Source: AI Educ. (MDPI), 2, 27; published 02 Aug 2026
+- DOI: 10.3390/aieduc2030027
+- Raw: `raw/papers/mdpi-2026-critical-genai-use-predictors.md` (50.3KB full text, sha256 b3389fc7dfd246f110ca09a5e01a4ce7f38c73fd858f1b7f512546c6a8e39d52)
+- Concept: `concepts/critical-genai-use-predictors.md`
+- Tags: ai-literacy, higher-ed, student-experience, over-reliance, educational-theory
+- Correlational study (N=67 psychology undergraduates): self-reported knowledge (r=.55) and objective knowledge (r=.31) predict critical GenAI use; epistemic orientation (β=.36) + intellectual values (β=.40) explain 33% of variance (R²=.33)
+- Exploratory: only 9% hold misconceptions (97% confident "GenAI performs web searches"); NFC correlates with critical use (r=.25) and negatively with perceived usefulness (r=−.27)
+- Interventions recommended: refutation texts for misconceptions, video-based training of epistemic orientation/intellectual values
+- Index: 628 → 629 pages; Journal: 432 entries
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`

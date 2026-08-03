@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-03 | **Total entries:** 431
+**Last updated:** 2026-08-03 | **Total entries:** 432
 
 ## 2026-08-03
 
@@ -15,6 +15,10 @@
 - ● [[chatgpt-feedback-engagement-genai]] — raw/papers/tandf-2026-chatgpt-feedback-engagement.md
   **Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence**
   Tags: [generative-ai, feedback-loop, student-experience, higher-ed, ai-literacy, language-learning, over-reliance]
+
+- ● [[critical-genai-use-predictors]] — raw/papers/mdpi-2026-critical-genai-use-predictors.md
+  **GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use**
+  Tags: [ai-literacy, higher-ed, student-experience, over-reliance, educational-theory]
 
 - ● [[feedback-futures-genai]] — raw/papers/tandf-2026-feedback-futures-genai.md
   **Feedback futures: beyond the limits of human and GenAI capacities**
