@@ -72,6 +72,10 @@
 - Reconciliation: 122 in use = 122 tag pages = 122 listed in tags.html; every in-use tag present in taxonomy
 - Deployed
 
+## [2026-08-03] update | Added tag cloud to homepage
+- Generator (generate-static-site.py) + homepage template (index-template.html) updated: top 40 tags by usage rendered as a clickable word cloud (font-size 0.8–2.3rem scaled by sqrt popularity), each linking to tags/<tag>.html; heading links to full tags.html
+- Rebuilt static site; deployed (0f901a3); verified live via browser (cloud renders, tag pages 200)
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`
