@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-03 | **Total pages:** 571
+**Last updated:** 2026-08-03 | **Total pages:** 570
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -258,7 +258,6 @@
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
 - [[feedback-loop]] — Feedback Loop
 - [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
-- [[five-stage-ai-literacy-continuum]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 - [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio
 - [[formative-assessment]] — Formative Assessment in AI Education
