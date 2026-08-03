@@ -13,6 +13,7 @@ confidence: low
 *Stub page — created during ingestion of [[dot-framework-survey]]. Content pending.*
 
 ## Related Pages
+- [[authentic-products-authenticated-processes-2026]] — Six-dimension framework for assessment design
 
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)
 - [[dot-framework-survey]]

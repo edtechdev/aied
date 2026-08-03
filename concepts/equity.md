@@ -13,6 +13,8 @@ confidence: low
 *Stub page — full synthesis pending.*
 
 ## Related Pages
+- [[beyond-detection-authentic-assessment-ai-2025]] — Equity and access challenges in authentic assessment
+- [[authentic-products-authenticated-processes-2026]] — Inclusivity and representational fairness dimension
 - [[post-covid-ict-career-aspirations]] — 5 of 8 papers in May 28 scan
 - [[agentic-literacy-debt]] — 4 of 8 papers in May 28 scan
 - [[xai-education-framework]]

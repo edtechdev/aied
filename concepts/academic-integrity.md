@@ -18,6 +18,8 @@ Academic integrity challenges and solutions in AI-era education
 *This page is a stub — awaiting further sources and content.*
 
 ## Related Pages
+- [[beyond-detection-authentic-assessment-ai-2025]] — Moving from policing to design
+- [[authentic-products-authenticated-processes-2026]] — AI-aware validity as part of assessment architecture
 - [[chatgpt-feedback-engagement-genai]] — Ethical decision-making about GenAI feedback use
 - [[genai-impact-chinese-students-hss]] — Findings on assessment validity concerns when GenAI use is widespread
 - [[ethical-ai-higher-ed-game-theory]] — 3 of 8 papers in May 28 scan
