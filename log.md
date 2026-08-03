@@ -1,3 +1,9 @@
+## [2026-08-03] ingest | Stanford Accelerator for Learning report — Responsible Assessment in the AI Era
+- Source: PDF sent by user (Stanford Accelerator for Learning + ETS white paper; McGee, Thille, Choi, Ercikan & Hau, 2026; from Jan 29, 2026 convening of ~100 education leaders)
+- Raw saved: `raw/papers/responsible-assessment-ai-era-stanford-2026.md`
+- Page created: `concepts/responsible-assessment-ai-era-stanford-2026.md` — responsible assessment = socioculturally grounded, valid, context-specific inferences from accumulated evidence; GenAI breaks output-as-capability assumption; shift from testing events to systems of inference (continuous/formative, portfolio, conversation-based ECD); validity threats in AI scoring (construct-irrelevant variance, underrepresentation, generalization, calibration); AI literacy + durable skills need operational definitions; action areas for education systems, researchers, developers, funders
+- Tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, educational-theory, equity, human-in-the-loop]
+- Back-linked from: assessment, assessment-validity, formative-assessment, automated-grading, ai-literacy, equity
      1|# Wiki Log
      2|
      3|> Chronological record of all wiki actions. Append-only.
