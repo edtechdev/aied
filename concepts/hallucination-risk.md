@@ -18,6 +18,7 @@ LLM hallucination risks in educational contexts
 *This page is a stub — awaiting further sources and content.*
 
 ## Related Pages
+- [[lets-chat-chatbot-outreach-2026]] — Curated knowledge base avoids GenAI hallucination risk
 - [[critical-genai-use-predictors]] — Cross-checking outputs: 97% hold the web-search misconception
 
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)

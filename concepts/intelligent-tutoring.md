@@ -15,6 +15,8 @@ Intelligent tutoring systems and AI-driven tutoring agents in education
 ## Connections
 
 ## Related Pages
+- [[lets-chat-chatbot-outreach-2026]] — Chatbot nudges increase human tutoring attendance
+- [[access-not-enough-ai-tutoring-2026]] — Take-up is the binding constraint for AI tutoring
 - [[structrag-diagram-reasoning-ai-tutoring]] — Structural diagram reasoning inside ITS
 - [[ai-coaching-rl-skill-development]] — Extension of ITS scaffolding principles to embodied AI coaching for motor skill development with RL
 - [[supplynet-visual-exploratory-learning]] — LLM multi-agent simulation system for supply chain management education

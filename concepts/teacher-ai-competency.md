@@ -50,6 +50,7 @@ Xiao, R., Ye, R., et al. (2026). *Transforming GenAI Policy to Prompting Instruc
 Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy*. arXiv:2505.08083.
 
 ## Related Pages
+- [[genai-can-harm-teaching-rct-2026]] — Teacher AI delegation harms students (RCT)
 - [[dot-framework-survey]]
 - [[post-covid-ict-career-aspirations]] — 5 of 8 papers in May 28 scan
 - [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-Ethics Crisis: Beliefs, Decisions, and Justification...
