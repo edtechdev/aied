@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-03 | **Total pages:** 582
+**Last updated:** 2026-08-03 | **Total pages:** 585
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -14,6 +14,7 @@
 - [[academic-integrity]] — Academic Integrity
 - [[academic-writing]] — Academic Writing
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
 - [[accessible-learning]] — Accessible Learning
 - [[active-learning]] — Active Learning
 - [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
@@ -275,6 +276,7 @@
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[genai-assessment-governance]] — Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment
 - [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction at a Large University
+- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
 - [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
 - [[genai-expertise-pathways-sysadmin]] — Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
 - [[genai-impact-chinese-students-hss]] — The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences
@@ -369,6 +371,7 @@
 - [[learnopt-exam-cognitive-structure]] — LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization
 - [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
 - [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
+- [[lets-chat-chatbot-outreach-2026]] — Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance
 - [[lifelong-learning]] — Lifelong Learning and AI
 - [[llm]] — Llm
 - [[llm-application-education]] — Llm Application Education

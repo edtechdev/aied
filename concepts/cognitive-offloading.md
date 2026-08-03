@@ -13,6 +13,7 @@ confidence: low
 *Stub page — full synthesis pending.*
 
 ## Related Pages
+- [[genai-can-harm-teaching-rct-2026]] — Teacher-side cognitive offloading harms students
 
 - [[ai-making-us-stupid]] — Cash et al. (2026) Trends Cog Sci: offloading cognition to AI impedes skill acquisition & accelerates skill decay; risks use-dependent; basic abilities possibly more resilient
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)

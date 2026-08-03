@@ -15,6 +15,8 @@ confidence: low
 ## Connections
 
 ## Related Pages
+- [[lets-chat-chatbot-outreach-2026]] — Students recommend the outreach chatbot (82%)
+- [[genai-can-harm-teaching-rct-2026]] — Teacher AI access reduced student motivation
 - [[critical-genai-use-predictors]] — Undergraduates' GenAI use correlates with interest and perceived usefulness
 - [[scheu-mobile-chatbot-journaling-motivation-2026]] — Intrinsic motivation & engagement with a mobile journaling chatbot
 - [[agency-gap-ai-writing]] — Learners value confirmatory reactive support and dialogic proactive support

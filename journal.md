@@ -4,6 +4,10 @@
 
 ## 2026-08-03
 
+- ● [[access-not-enough-ai-tutoring-2026]] — raw/papers/access-not-enough-ai-tutoring-2026.md
+  **Access is Not Enough: Human Support Improves Engagement with AI Tutoring**
+  Tags: [intelligent-tutoring, equity, engagement-metrics, k-12, ai-literacy, student-experience]
+
 - ● [[agency-gap-ai-writing]] — raw/papers/caeai-2026-agency-gap-ai-writing.md
   **The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning**
   Tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity, student-experience]
@@ -44,6 +48,10 @@
   **Feedback futures: beyond the limits of human and GenAI capacities**
   Tags: [generative-ai, feedback-loop, higher-ed, ai-literacy, educational-theory, equity]
 
+- ● [[genai-can-harm-teaching-rct-2026]] — raw/papers/genai-can-harm-teaching-rct-2026.md
+  **Generative AI Can Harm Teaching**
+  Tags: [faculty-development, teacher-role, generative-ai, k-12, student-experience, cognitive-offloading, over-reliance]
+
 - ● [[genai-expertise-pathways-sysadmin]] — raw/papers/2607.28650.md
   **Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration**
   Tags: [generative-ai, professional-training, cognitive-offloading, over-reliance, lifelong-learning, human-in-the-loop]
@@ -67,6 +75,10 @@
 - ● [[learner-centered-feedback-ai]] — raw/papers/tandf-2026-learner-centered-feedback-ai.md
   **Enhancing learner-centered feedback with AI: teachers' practices and perceptions**
   Tags: [generative-ai, feedback-loop, teacher-role, higher-ed, faculty-development, scaffolding]
+
+- ● [[lets-chat-chatbot-outreach-2026]] — raw/papers/lets-chat-chatbot-outreach-2026.md
+  **Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance**
+  Tags: [higher-ed, student-experience, generative-ai, engagement-metrics]
 
 - ● [[llm-facilitation-timing-online-discussions]] — raw/papers/2607.28643.md
   **To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions**
@@ -240,10 +252,6 @@
 
 ## 2026-07-29
 
-- ○ [[RCT]] — [[]]
-  **Randomized Controlled Trials in AI Education Research**
-  Tags: [RCT, research-methods, ai-ed-evaluation]
-
 - ● [[agentic-ai-education-scoping-review]] — raw/papers/agentic-ai-education-scoping-review-2026.md
   **Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm**
   Tags: [agentic-ai, ai-literacy, educational-theory, generative-ai, higher-ed, intelligent-tutoring, llm, multi-agent, open-source, scaffolding, scoping-review, stem-education]
@@ -255,10 +263,6 @@
 - ○ [[cong-confidence-asag-2026]] — raw/papers/cong-confidence-asag-2026.md
   **Confidence-Aware Automatic Short Answer Grading**
   Tags: [assessment, automated-grading, confidence]
-
-- ○ [[every-learner-faculty-development-genai-playbook-2025]] — [[]]
-  **Every Learner: Faculty Development GenAI Playbook**
-  Tags: [faculty-development, generative-ai, higher-ed]
 
 - ○ [[favero-critical-ai-tutors-empower-enslave-2025]] — raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md
   **Critical AI Tutors: Empower or Enslave?**
@@ -311,10 +315,6 @@
 - ○ [[singh-eduqwen-pedagogical-rl-2026]] — raw/papers/singh-eduqwen-pedagogical-rl-2026.md
   **EduQwen: Pedagogical RL**
   Tags: [llm, pedagogical-safety, reinforcement-learning]
-
-- ○ [[socratic-method]] — [[]]
-  **Socratic Method in AI Education**
-  Tags: ["intelligent-tutoring", critical-thinking, socratic-method]
 
 - ○ [[stanford-evidence-base-ai-k12-2026]] — raw/papers/stanford-evidence-base-ai-k12-2026.md
   **Stanford Evidence Base: AI in K-12 Education**
@@ -1144,7 +1144,7 @@
 
 - ● [[llm-cognitive-diagnosis-handwritten-math]] — arxiv:2504.00843
   **Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work**
-  Tags: []
+  Tags: [llm-evaluation, cognitive-diagnosis, handwritten-math, benchmark, teacher-in-the-loop, evidential-reasoning, hallucination, k-12]
 
 ## 2026-05-29
 
@@ -1206,23 +1206,23 @@
 
 - ● [[ai-assistance-reduces-persistence]] — arxiv:2604.04721
   **AI Assistance Reduces Persistence and Hurts Independent Performance**
-  Tags: []
+  Tags: [over-reliance, cognitive-offloading, persistence, learning, RCT, efficacy-study, generative-ai, student-experience, metacognition, scaffolding]
 
 - ● [[genai-minoritized-knowledges-disability]] — raw/papers/2605.26769.md
   **Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability**
-  Tags: []
+  Tags: [generative-ai, higher-ed, special-education, equity, bias-mitigation, inclusive-ai]
 
 - ● [[persistent-ai-agents-academic-research]] — raw/papers/2605.26870.md
   **Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study**
-  Tags: []
+  Tags: [llm, generative-ai, higher-ed, agentic-workflows-education, faculty-development, learning-analytics]
 
 - ● [[slidesqaqa-pedagogical-question-generation]] — raw/papers/2605.26428.md
   **Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation**
-  Tags: []
+  Tags: [automated-question-generation, generative-ai, llm, higher-ed, scaffolding, formative-assessment, multimodal]
 
 - ● [[student-misconceptions-conditionals-loops-taxonomy]] — raw/papers/2605.26966.md
   **How Students (Mis)understand Conditionals and Loops -- A Taxonomy**
-  Tags: []
+  Tags: [cs-education, stem-education, student-experience, higher-ed, benchmark]
 
 ## 2026-05-26
 

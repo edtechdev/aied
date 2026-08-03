@@ -13,6 +13,7 @@ confidence: low
 *Stub page — full synthesis pending.*
 
 ## Related Pages
+- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching (RCT)
 - [[ai-assisted-writing-research-teams]] — 6 of 8 papers in May 28 scan
 - [[llm-sentiment-analysis-education-research]] — 1 of 8 papers in May 28 scan
 - [[persistent-ai-agents-academic-research]] — how persistent AI agents reshape individual academic work
