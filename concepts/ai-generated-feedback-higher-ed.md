@@ -67,6 +67,9 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 - Connects to [[rag|retrieval-augmented generation]] as a calibration mechanism and to [[over-reliance]] (the authors flag it as a risk even in a positive-result study).
 
 ## Related Pages
+- [[genai-teacher-feedback-comparison]] — Perceptions vs outcomes: students still trust teachers more
+- [[learner-centered-feedback-ai]] — Teacher-side AI feedback tooling (PolyFeed)
+- [[care-full-feedback-genai]] — Care-full framing of AI feedback integration
 - [[ai-feedback-quality]] — Quality/validity of AI-generated feedback relative to experts
 - [[feedback-loop]] — Feedback as a dynamic, relational process
 - [[formative-assessment]] — The assessment context where AI feedback was tested

@@ -5,6 +5,33 @@
      5|> Actions: ingest, update, query, lint, create, archive, delete
      > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+     ## [2026-08-03] ingest | 6 PDF articles (AEHE feedback special issue + StructRAG)
+     - Sources: 5 × Assessment & Evaluation in Higher Education 51(5) special issue on feedback & GenAI + 1 × Smart Learning Environments (Springer)
+     - Raw saved: `raw/papers/tandf-2026-feedback-futures-genai.md`, `raw/papers/tandf-2026-chatgpt-feedback-engagement.md`, `raw/papers/tandf-2026-genai-teacher-feedback-comparison.md`, `raw/papers/tandf-2026-learner-centered-feedback-ai.md`, `raw/papers/tandf-2026-care-full-feedback-genai.md`, `raw/papers/sle-2026-structrag-diagram-reasoning.md`
+     - Pages created: `concepts/feedback-futures-genai.md`, `concepts/chatgpt-feedback-engagement-genai.md`, `concepts/genai-teacher-feedback-comparison.md`, `concepts/learner-centered-feedback-ai.md`, `concepts/care-full-feedback-genai.md`, `concepts/structrag-diagram-reasoning-ai-tutoring.md`
+     - Key findings:
+       - Zhan, Wood, Carless & Yan — special-issue editorial: 5 tensions (trust/uptake, task vs learning, agency vs dependency, access/avoidance/advantage, teacher labour redistribution); GenAI+human complementarity requires feedback literacy + design + institutional conditions
+       - Zhan & Yan — 16 students, ChatGPT IELTS feedback: 4-dimension engagement (cognitive strong via comparison, metacognitive weak = "metacognitive laziness", affective calm, behavioural superficial with 83.9% uptake); 5 GenAI feedback-literacy capacities
+       - Henderson et al. — N=6,960 four-university survey: teacher feedback more trustworthy (90.5% vs 60.1%) and slightly more helpful; GenAI feedback more accessible/understandable/less risky; complementary not interchangeable
+       - Aldino et al. — 21 teachers + PolyFeed (BERT ML + ChatGPT-4o): high ML-suggestion acceptance (Meeting Learning Objective 16/20); teachers heavily edit/remove AI praise (Edit-Praise f=11); "assist but verify"; experienced teachers more critical
+       - Winstone et al. — conceptual: feedback as "matters of care"; manifesto (10 principles); four values (meaning-making, educative relationships, trust, professional craft); "AI slop" vs "human slop"
+       - Sun, Liao & Ma — StructRAG: OCR+CV graph extraction + pattern retrieval + LLM reasoning for STEM diagrams; 89.3% question accuracy, 93.0% edge F1 on 1,650 questions (p<0.01 vs baselines)
+     - Index: 621 → 627 pages; Journal: 430 entries; sha256 in raw frontmatter
+     - Static site regenerated; deployed to GitHub Pages
+
+     ## [2026-08-03] ingest | Jin et al. (2026) — Agency gap in AI-supported writing
+     - Source: Computers and Education: Artificial Intelligence (Elsevier), Article in Press
+     - DOI: 10.1016/j.caeai.2026.100655
+     - Raw: `raw/papers/caeai-2026-agency-gap-ai-writing.md`
+     - Concept: `concepts/agency-gap-ai-writing.md`
+     - Tags: generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity, student-experience
+     - RCT (n=79 medical/nursing students): reactive vs proactive AI writing agents on multimodal analytical tasks
+     - Proactive design reorganised dialogue toward conceptual/evidential/constructive links (ENA, Cliff's δ −0.56/−0.78); no significant direct score effect
+     - GLAT literacy predicted immediate AI-removal performance on Visual Data Integration (OR 1.14), Critical Thinking (OR 1.15), Composite (OR 1.11); no significant literacy×design interaction
+     - Agency gap = relational mismatch between agent initiative and learner capability (under-support / over-direction)
+     - sha256: 641393849fa6134720887baa8b9707b7bc46eb3bb317e08215022ed4ffe04df9
+     - Index: 627 → 628 pages; Journal: 431 entries
+
      ## [2026-07-29] ingest | Wang et al. (2026) — Scoping Review of Agentic AI in Education
      - DOI: 10.1016/j.caeai.2026.100653
      - Raw: `raw/papers/agentic-ai-education-scoping-review-2026.md`

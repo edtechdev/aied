@@ -42,6 +42,9 @@ Yu et al. (2024) deployed a multi-agent classroom (Teacher Agent, TA Agent, clas
 Human-in-the-loop design is not merely a safety measure—it is a **resource-allitution strategy**. The frontier question is not *whether* to include humans, but *where* in the pipeline their judgment has highest marginal value.
 
 ## Related Pages
+- [[feedback-futures-genai]] — Proactively maintaining human agency in GenAI feedback
+- [[learner-centered-feedback-ai]] — Assist-but-verify: teachers accept/reject/edit AI feedback
+- [[care-full-feedback-genai]] — Human oversight of AI-generated feedback as matters of care
 - [[correct-answer-trap-ai-tutor]] — 8 of 8 papers in May 28 scan
 - [[mindcopilot-llm-co-writing]] — Co-writing formalized as Human-in-the-Loop Markov Decision Process (IJCAI 2026)
 - [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar

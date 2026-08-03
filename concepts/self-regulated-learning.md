@@ -74,6 +74,7 @@ For example:
 - **For researchers:** Long-term studies measuring SRL outcomes (not just immediate performance) are essential
 
 ## Related Pages
+- [[agency-gap-ai-writing]] — Reactive designs make learner regulation visible
 - [[cross-subject-validity-delayed-start]] — Delayed start behavior as a cross-subject behavioral proxy for self-regulation and learning outcomes
 - **[[ai-assistance-reduces-persistence]]**: Causal evidence (N=1,222) that brief AI assistance reduces persistence and impairs unassisted performance — rapid emergence of over-reliance effects
 - [[ai-fatigue-academic-contexts]] — Motivational Disengagement dimension threatens self-regulated learning capacity

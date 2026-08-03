@@ -75,6 +75,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 4. What are the pedagogical guardrails needed to prevent personalization from becoming over-accommodation?
 
 ## Related Pages
+- [[structrag-diagram-reasoning-ai-tutoring]] — LLM-guided structural reasoning over graphs
 - [[simulating-learner-task-selection]] — Task-selection preferences could inform student models for adaptive system design
 - [[expert-cognition-dashboard]] — Complements longitudinal student modeling with cognition-level dashboard aggregation
 - [[difficulty-aware-dialogue-kt]] — IRT-mapped LLM outputs for student modeling in dialogues

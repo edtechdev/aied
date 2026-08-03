@@ -18,6 +18,12 @@ Role of feedback loops in AI-enhanced learning systems
 *This page is a stub — awaiting further sources and content.*
 
 ## Related Pages
+- [[feedback-futures-genai]] — AEHE special-issue editorial on GenAI feedback futures
+- [[chatgpt-feedback-engagement-genai]] — Students' 4-dimension engagement with ChatGPT feedback
+- [[genai-teacher-feedback-comparison]] — N=6,960 student perceptions of GenAI vs teacher feedback
+- [[learner-centered-feedback-ai]] — Teachers' practices & perceptions with AI feedback tools (PolyFeed)
+- [[care-full-feedback-genai]] — Care-full, values-based approach to feedback in an age of GenAI
+- [[structrag-diagram-reasoning-ai-tutoring]] — Structure-aware diagram feedback in AI tutoring (StructRAG)
 - [[llm-automated-assessment-student-self-explanations]] — LLM-based binary classification of student self-explanations for automated feedback (2026)
 - [[ai-changing-teaching-workflows]]
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)

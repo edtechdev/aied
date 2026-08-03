@@ -13,6 +13,7 @@ confidence: high
 Agentic AI refers to artificial intelligence systems that can autonomously plan, execute, and adapt multi-step workflows to achieve learning goals — going beyond single-turn question-answering to act as persistent, goal-directed collaborators in educational contexts. In education, agentic AI manifests as AI tutors that scaffold learning over extended interactions, multi-agent systems that orchestrate complex instructional designs, and autonomous agents that adapt their pedagogical strategies based on learner needs. This emerging paradigm shifts AI from a tool that responds to prompts to a collaborator that actively guides, adapts, and co-regulates learning processes.
 
 ## Related Pages
+- [[agency-gap-ai-writing]] — Reactive vs proactive agent initiative and the agency gap
 
 - [[agentic-ai-education-scoping-review]]
 - [[agentic-workflows-education]]
