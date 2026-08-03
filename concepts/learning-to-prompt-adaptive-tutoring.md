@@ -3,7 +3,7 @@ title: "Learning to Prompt: Improving Student Engagement with Adaptive LLM-based
 created: 2026-06-19
 updated: 2026-06-19
 type: concept
-tags: ["intelligent-tutoring", "llm", "k-12", "personalized-learning", "scaffolding", "adaptive-learning"]
+tags: [intelligent-tutoring, llm, k-12, personalized-learning, scaffolding, adaptive-learning]
 sources: [raw/papers/2606.20138.md]
 confidence: high
 ---

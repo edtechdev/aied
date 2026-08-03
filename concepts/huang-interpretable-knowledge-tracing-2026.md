@@ -1,5 +1,5 @@
 ---
-title: "Interpretable Knowledge Tracing"
+title: Interpretable Knowledge Tracing
 created: 2026-07-29
 updated: 2026-07-29
 type: concept

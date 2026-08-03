@@ -1,5 +1,5 @@
 ---
-title: "AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention"
+title: 'AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention'
 created: 2026-05-16
 updated: 2026-05-16
 type: concept

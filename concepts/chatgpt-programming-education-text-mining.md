@@ -3,7 +3,7 @@ title: "Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT R
 created: 2026-05-13
 updated: 2026-05-13
 type: concept
-tags: ["over-reliance", "academic-integrity", "hallucination-risk", "stem-education", "feedback-loop", "student-experience"]
+tags: [over-reliance, academic-integrity, hallucination-risk, stem-education, feedback-loop, student-experience]
 sources: [raw/papers/2605.00361.md]
 confidence: medium
 ---

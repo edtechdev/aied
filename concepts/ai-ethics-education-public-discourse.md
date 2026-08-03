@@ -1,5 +1,5 @@
 ---
-title: A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+title: "A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data"
 created: 2026-07-15
 updated: 2026-07-15
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle"
+title: 'From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle'
 created: 2026-05-07
 updated: 2026-05-11
 type: concept

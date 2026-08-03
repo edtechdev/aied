@@ -1,5 +1,5 @@
 ---
-title: "Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use"
+title: 'Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use'
 created: 2026-06-09
 updated: 2026-06-09
 type: concept

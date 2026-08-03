@@ -3,7 +3,7 @@ title: Simulating Learners' Task-Selection Strategies and System Constraints in 
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: ["intelligent-tutoring", "mastery-learning", "adaptive-learning", "engagement-metrics", "simulation", "k-12", "student-experience"]
+tags: [intelligent-tutoring, mastery-learning, adaptive-learning, engagement-metrics, simulation, k-12, student-experience]
 sources: ["raw/papers/2605.21613.md"]
 confidence: high
 ---

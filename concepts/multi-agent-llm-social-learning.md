@@ -1,5 +1,5 @@
 ---
-title: "Beyond the AI Tutor: Social Learning with LLM Agents"
+title: 'Beyond the AI Tutor: Social Learning with LLM Agents'
 created: 2026-05-11
 updated: 2026-05-11
 type: concept

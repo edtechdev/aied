@@ -1,9 +1,9 @@
 ---
-title: "AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction"
+title: 'AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction'
 created: 2026-06-18
 updated: 2026-06-18
 type: concept
-tags: ["personalized-learning", "adaptive-learning", "k-12", "teacher-role", "generative-ai"]
+tags: [personalized-learning, adaptive-learning, k-12, teacher-role, generative-ai]
 sources: [raw/papers/2606.17633.md]
 confidence: high
 ---

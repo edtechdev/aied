@@ -1,9 +1,9 @@
 ---
-title: "AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education"
+title: 'AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education'
 created: 2026-06-04
 updated: 2026-06-04
 type: concept
-tags: ['automated-grading', 'feedback-loop', 'higher-ed', 'llm', 'teacher-role', 'rct', 'efficacy-study']
+tags: [automated-grading, feedback-loop, higher-ed, llm, teacher-role, rct, efficacy-study]
 sources: [raw/papers/2606.03095.md]
 confidence: high
 ---

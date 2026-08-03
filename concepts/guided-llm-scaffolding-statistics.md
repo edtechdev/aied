@@ -1,9 +1,9 @@
 ---
-title: "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics"
+title: 'Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics'
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
-tags: ['scaffolding', 'higher-ed', 'stem-education', 'independent-learning']
+tags: [scaffolding, higher-ed, stem-education, independent-learning]
 sources: [raw/papers/2606.01375.md]
 confidence: high
 ---

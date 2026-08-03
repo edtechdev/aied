@@ -1,5 +1,5 @@
 ---
-title: "Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design"
+title: 'Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design'
 created: 2026-05-17
 updated: 2026-05-17
 type: concept

@@ -1,9 +1,9 @@
 ---
-title: "Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity"
+title: 'Confident yet Concerned: Inconsistencies in Computing Students'' Attitudes on Cybersecurity'
 created: 2026-06-18
 updated: 2026-06-18
 type: concept
-tags: ["higher-ed", "student-experience", "ai-literacy", "academic-integrity", "engagement-metrics"]
+tags: [higher-ed, student-experience, ai-literacy, academic-integrity, engagement-metrics]
 sources: [raw/papers/2606.18541.md]
 confidence: medium
 ---

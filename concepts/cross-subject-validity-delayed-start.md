@@ -1,5 +1,5 @@
 ---
-title: "Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior"
+title: Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior
 created: 2026-06-25
 updated: 2026-06-25
 type: concept

@@ -3,7 +3,7 @@ title: "AI-Generated Traces for Novice Programmers: Learning Effects and Learner
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
-tags: ['cs-education', 'llm', 'scaffolding', 'personalized-learning']
+tags: [cs-education, llm, scaffolding, personalized-learning]
 sources: [raw/papers/2606.03288.md]
 confidence: high
 ---

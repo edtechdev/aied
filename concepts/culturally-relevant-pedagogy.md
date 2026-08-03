@@ -1,5 +1,5 @@
 ---
-title: "Culturally Relevant Pedagogy"
+title: Culturally Relevant Pedagogy
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

@@ -1,9 +1,9 @@
 ---
-title: "Building AI Companions that Prioritise Learning over Performance"
+title: Building AI Companions that Prioritise Learning over Performance
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ["llm", "personalized-learning", "adaptive-learning", "metacognition", "student-experience"]
+tags: [llm, personalized-learning, adaptive-learning, metacognition, student-experience]
 sources: ["raw/papers/2605.04816.md"]
 confidence: high
 ---

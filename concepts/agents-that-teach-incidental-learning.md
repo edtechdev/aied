@@ -1,5 +1,5 @@
 ---
-title: "Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development"
+title: 'Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development'
 created: 2026-07-08
 updated: 2026-07-08
 type: concept

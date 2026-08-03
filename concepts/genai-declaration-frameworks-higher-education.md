@@ -3,7 +3,7 @@ title: "Structuring Transparency: Developing Domain-Specific Generative AI Decla
 created: 2026-06-12
 updated: 2026-06-12
 type: concept
-tags: ["generative-ai", "higher-ed", "academic-integrity", "policy-maker", "ai-literacy"]
+tags: [generative-ai, higher-ed, academic-integrity, policy-maker, ai-literacy]
 sources: [raw/papers/2606.13389.md]
 confidence: high
 ---

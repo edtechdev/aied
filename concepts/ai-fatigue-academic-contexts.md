@@ -3,7 +3,7 @@ title: "Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a 
 created: 2026-05-25
 updated: 2026-05-25
 type: concept
-tags: ["student-experience", "over-reliance", "ai-literacy", "higher-ed", "affective-computing"]
+tags: [student-experience, over-reliance, ai-literacy, higher-ed, affective-computing]
 sources: [raw/papers/2605.23123.md]
 confidence: high
 ---

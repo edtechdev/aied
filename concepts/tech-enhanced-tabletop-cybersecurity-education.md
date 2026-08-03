@@ -1,5 +1,5 @@
 ---
-title: "Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned"
+title: 'Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned'
 created: 2026-07-31
 updated: 2026-07-31
 type: concept

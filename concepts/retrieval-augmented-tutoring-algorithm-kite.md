@@ -1,5 +1,5 @@
 ---
-title: "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education"
+title: Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 created: 2026-05-16
 updated: 2026-05-16
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Ai Feedback Quality"
+title: Ai Feedback Quality
 created: 2026-06-01
 updated: 2026-06-01
 type: concept

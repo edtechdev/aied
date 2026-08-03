@@ -3,7 +3,7 @@ title: Over-reliance on AI
 created: 2026-05-13
 updated: 2026-07-27
 type: concept
-tags: ["over-reliance", "academic-integrity", "student-experience"]
+tags: [over-reliance, academic-integrity, student-experience]
 sources: []
 confidence: low
 

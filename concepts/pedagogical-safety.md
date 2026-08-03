@@ -1,5 +1,5 @@
 ---
-title: "Pedagogical Safety"
+title: Pedagogical Safety
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

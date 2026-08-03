@@ -3,7 +3,7 @@ title: Reshaping Undergraduate Computer Science Education in the Generative AI E
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
-tags: ["cs-education", "generative-ai", "curriculum-design", "higher-ed", "llm"]
+tags: [cs-education, generative-ai, curriculum-design, higher-ed, llm]
 sources: [2606.07545.md]
 confidence: high
 ---

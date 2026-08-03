@@ -3,7 +3,7 @@ title: Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&A
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
-tags: ["generative-ai", "llm", "ai-literacy", "policy-maker", "higher-ed"]
+tags: [generative-ai, llm, ai-literacy, policy-maker, higher-ed]
 sources: [2606.08936.md]
 confidence: medium
 ---

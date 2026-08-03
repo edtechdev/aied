@@ -3,7 +3,7 @@ title: "AI-Integrated Learning Management System for Middle School: A Longitudin
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
-tags: ["k-12", "adaptive-learning", "personalized-learning", "formative-assessment", "intelligent-tutoring", "edtech-platform"]
+tags: [k-12, adaptive-learning, personalized-learning, formative-assessment, intelligent-tutoring, edtech-platform]
 sources: [2606.07544.md]
 confidence: medium
 ---

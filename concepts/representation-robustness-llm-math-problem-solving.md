@@ -1,5 +1,5 @@
 ---
-title: Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving
+title: "Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving"
 created: 2026-07-24
 updated: 2026-07-24
 type: concept

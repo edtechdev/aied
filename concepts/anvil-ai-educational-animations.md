@@ -1,5 +1,5 @@
 ---
-title: "ANVIL: Analogies and Videos for Lecturers"
+title: 'ANVIL: Analogies and Videos for Lecturers'
 created: 2026-05-21
 updated: 2026-05-21
 type: concept

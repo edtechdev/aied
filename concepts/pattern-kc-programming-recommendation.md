@@ -1,5 +1,5 @@
 ---
-title: Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
+title: "Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components"
 created: 2026-07-09
 updated: 2026-07-09
 type: concept

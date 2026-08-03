@@ -1,5 +1,5 @@
 ---
-title: "Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance"
+title: 'Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance'
 created: 2026-08-03
 updated: 2026-08-03
 type: concept

@@ -1,9 +1,9 @@
 ---
-title: "Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation"
+title: 'Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation'
 created: 2026-06-04
 updated: 2026-06-04
 type: concept
-tags: ['k-12', 'student-ai-interaction', 'teacher-role', 'scaffolding', 'generative-ai', 'llm', 'formative-assessment']
+tags: [k-12, student-ai-interaction, teacher-role, scaffolding, generative-ai, llm, formative-assessment]
 sources: [raw/papers/2604.16738.md]
 confidence: high
 ---

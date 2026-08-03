@@ -1,5 +1,5 @@
 ---
-title: "Using AI in engineering education: a balancing act, driven by clear purpose"
+title: 'Using AI in engineering education: a balancing act, driven by clear purpose'
 created: 2026-06-16
 updated: 2026-06-16
 type: concept

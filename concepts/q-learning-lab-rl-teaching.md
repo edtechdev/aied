@@ -1,5 +1,5 @@
 ---
-title: "Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis"
+title: 'Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis'
 created: 2026-07-14
 updated: 2026-07-14
 type: concept

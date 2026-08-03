@@ -1,5 +1,5 @@
 ---
-title: "AcademiClaw: When Students Set Challenges for AI Agents"
+title: 'AcademiClaw: When Students Set Challenges for AI Agents'
 created: 2026-05-11
 updated: 2026-05-11
 type: concept

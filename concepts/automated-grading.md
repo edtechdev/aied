@@ -1,9 +1,9 @@
 ---
-title: "Automated Grading Systems"
+title: Automated Grading Systems
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ['automated-grading', 'formative-assessment', 'llm']
+tags: [automated-grading, formative-assessment, llm]
 sources: []
 confidence: low
 ---

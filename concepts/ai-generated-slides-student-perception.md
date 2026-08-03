@@ -1,5 +1,5 @@
 ---
-title: "AI-Generated Slides: Are They Good? Can Students Tell?"
+title: 'AI-Generated Slides: Are They Good? Can Students Tell?'
 created: 2026-05-14
 updated: 2026-05-14
 type: concept

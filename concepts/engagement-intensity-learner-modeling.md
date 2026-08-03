@@ -3,7 +3,7 @@ title: Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics 
 created: 2026-06-18
 updated: 2026-06-18
 type: concept
-tags: ["personalized-learning", "adaptive-learning", "ai-literacy", "higher-ed", "engagement-metrics"]
+tags: [personalized-learning, adaptive-learning, ai-literacy, higher-ed, engagement-metrics]
 sources: [raw/papers/2606.18548.md]
 confidence: medium
 ---

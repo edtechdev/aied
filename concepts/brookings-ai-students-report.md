@@ -1,9 +1,9 @@
 ---
-title: "A New Direction for Students in an AI World: Prosper, Prepare, Protect"
+title: 'A New Direction for Students in an AI World: Prosper, Prepare, Protect'
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ["policy-maker", "k-12", "student-experience", "regulation", "ai-literacy"]
+tags: [policy-maker, k-12, student-experience, regulation, ai-literacy]
 sources: ["raw/articles/brookings-ai-students-report.md"]
 confidence: high
 ---

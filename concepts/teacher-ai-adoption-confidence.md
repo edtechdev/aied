@@ -1,5 +1,5 @@
 ---
-title: "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes"
+title: 'AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes'
 created: 2026-05-14
 updated: 2026-05-14
 type: concept

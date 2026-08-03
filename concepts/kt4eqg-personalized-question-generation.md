@@ -1,5 +1,5 @@
 ---
-title: "KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing"
+title: 'KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing'
 created: 2026-05-28
 updated: 2026-05-28
 type: concept

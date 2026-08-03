@@ -1,9 +1,9 @@
 ---
-title: "Guidelines for Designing AI Technologies to Support Adult Learning"
+title: Guidelines for Designing AI Technologies to Support Adult Learning
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ["lifelong-learning", "personalized-learning", "adaptive-learning", "faculty-development", "edtech-platform"]
+tags: [lifelong-learning, personalized-learning, adaptive-learning, faculty-development, edtech-platform]
 sources: ["raw/papers/2605.04616.md"]
 confidence: high
 ---

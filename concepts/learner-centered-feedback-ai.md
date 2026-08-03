@@ -1,5 +1,5 @@
 ---
-title: "Enhancing learner-centered feedback with AI: teachers' practices and perceptions"
+title: 'Enhancing learner-centered feedback with AI: teachers'' practices and perceptions'
 created: 2026-08-03
 updated: 2026-08-03
 type: concept

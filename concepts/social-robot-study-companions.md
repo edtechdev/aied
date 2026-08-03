@@ -3,7 +3,7 @@ title: Co-Creating Buildable and Open Social Robot Study Companions with Univers
 created: 2026-06-17
 updated: 2026-06-17
 type: concept
-tags: ["k-12", "higher-ed", "intelligent-tutoring", "student-experience", "stem-education"]
+tags: [k-12, higher-ed, intelligent-tutoring, student-experience, stem-education]
 sources: [raw/papers/2606.15239.md]
 confidence: high
 ---

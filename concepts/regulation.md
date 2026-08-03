@@ -1,9 +1,9 @@
 ---
-title: "AI Regulation in Education"
+title: AI Regulation in Education
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: ['regulation', 'policy-maker']
+tags: [regulation, policy-maker]
 sources: []
 confidence: low
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Desirable Difficulties"
+title: Desirable Difficulties
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

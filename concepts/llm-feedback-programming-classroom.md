@@ -1,5 +1,5 @@
 ---
-title: "LLM-Generated Feedback in Introductory Programming: A Classroom Study"
+title: 'LLM-Generated Feedback in Introductory Programming: A Classroom Study'
 created: 2026-06-09
 updated: 2026-06-09
 type: concept

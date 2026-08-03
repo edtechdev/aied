@@ -1,9 +1,9 @@
 ---
-title: Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights
+title: "Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights"
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
-tags: ["knowledge-tracing", "learning-analytics", "student-modeling", "benchmark", "higher-ed"]
+tags: [knowledge-tracing, learning-analytics, student-modeling, benchmark, higher-ed]
 sources: [2606.11004.md]
 confidence: high
 ---

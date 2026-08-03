@@ -1,9 +1,9 @@
 ---
-title: "Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content"
+title: 'Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content'
 created: 2026-06-10
 updated: 2026-06-10
 type: concept
-tags: ["writing-education", "llm", "student-experience", "higher-ed", "ai-literacy"]
+tags: [writing-education, llm, student-experience, higher-ed, ai-literacy]
 sources: [2606.10434.md]
 confidence: high
 ---

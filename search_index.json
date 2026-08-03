@@ -25,14 +25,14 @@
   },
   {
     "slug": "academic-writing",
-    "title": "\"Academic Writing\"",
+    "title": "Academic Writing",
     "tags": [],
     "content": "\nAcademic writing in the AI era is studied across the wiki through aiawe-automated-writing-evaluation, llm-fallacy-misattribution, and genai-linguistic-diversity-academic-writing \u2014 the shared finding being that LLM assistance reshapes authorship, evaluation, and multilingual equity in scholarly production.\nAcademic WritingRelated Pages\ngenai-linguistic-diversity-academic-writing",
     "url": "pages/academic-writing.html"
   },
   {
     "slug": "academiclaw-student-agent-benchmark",
-    "title": "\"AcademiClaw: When Students Set Challenges for AI Agents\"",
+    "title": "AcademiClaw: When Students Set Challenges for AI Agents",
     "tags": [
       "benchmark",
       "higher-ed",
@@ -45,7 +45,7 @@
   },
   {
     "slug": "access-not-enough-ai-tutoring-2026",
-    "title": "\"Access is Not Enough: Human Support Improves Engagement with AI Tutoring\"",
+    "title": "Access is Not Enough: Human Support Improves Engagement with AI Tutoring",
     "tags": [
       "intelligent-tutoring",
       "equity",
@@ -60,7 +60,7 @@
   },
   {
     "slug": "accessible-learning",
-    "title": "\"Accessible Learning\"",
+    "title": "Accessible Learning",
     "tags": [
       "accessible-learning"
     ],
@@ -69,7 +69,7 @@
   },
   {
     "slug": "active-learning",
-    "title": "\"Active Learning\"",
+    "title": "Active Learning",
     "tags": [
       "pedagogy",
       "active-learning",
@@ -80,7 +80,7 @@
   },
   {
     "slug": "adapt-adaptive-lesson-plan-transformer",
-    "title": "\"AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction\"",
+    "title": "AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction",
     "tags": [
       "personalized-learning",
       "adaptive-learning",
@@ -130,7 +130,7 @@
   },
   {
     "slug": "adaptive-prompt-routing",
-    "title": "\"Adaptive Prompt Routing\"",
+    "title": "Adaptive Prompt Routing",
     "tags": [
       "stub"
     ],
@@ -152,7 +152,7 @@
   },
   {
     "slug": "adhd-video-segmentation-computing-education",
-    "title": "\"Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education\"",
+    "title": "Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education",
     "tags": [
       "accessible-learning",
       "cs-education",
@@ -164,7 +164,7 @@
   },
   {
     "slug": "administrator",
-    "title": "\"AI from the Administrator Perspective\"",
+    "title": "AI from the Administrator Perspective",
     "tags": [
       "administrator",
       "policy-maker",
@@ -175,7 +175,7 @@
   },
   {
     "slug": "affective-computing",
-    "title": "\"Affective Computing\"",
+    "title": "Affective Computing",
     "tags": [
       "stub"
     ],
@@ -184,7 +184,7 @@
   },
   {
     "slug": "affective-text-wearable-student-health",
-    "title": "\"A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring\"",
+    "title": "A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring",
     "tags": [
       "affective-computing",
       "student-experience",
@@ -210,7 +210,7 @@
   },
   {
     "slug": "agency-gap-ai-writing",
-    "title": "\"The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning\"",
+    "title": "The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning",
     "tags": [
       "generative-ai",
       "ai-literacy",
@@ -239,7 +239,7 @@
   },
   {
     "slug": "agentic-ai-ecosystems-higher-education",
-    "title": "\"Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence\"",
+    "title": "Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence",
     "tags": [
       "administrator",
       "agentic-ai",
@@ -254,7 +254,7 @@
   },
   {
     "slug": "agentic-ai-education-scoping-review",
-    "title": "\"Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm\"",
+    "title": "Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm",
     "tags": [
       "agentic-ai",
       "ai-literacy",
@@ -274,7 +274,7 @@
   },
   {
     "slug": "agentic-ai-pedagogical-best-practice-2026",
-    "title": "\"Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning\"",
+    "title": "Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning",
     "tags": [
       "agentic-ai",
       "educational-theory",
@@ -288,7 +288,7 @@
   },
   {
     "slug": "agentic-ai",
-    "title": "\"Agentic AI in Education\"",
+    "title": "Agentic AI in Education",
     "tags": [
       "agentic-ai",
       "generative-ai",
@@ -315,7 +315,7 @@
   },
   {
     "slug": "agentic-literacy-debt",
-    "title": "\"Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named\"",
+    "title": "Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named",
     "tags": [
       "agentic-ai",
       "ai-literacy",
@@ -342,7 +342,7 @@
   },
   {
     "slug": "agentic-workflows",
-    "title": "\"Agentic Workflows\"",
+    "title": "Agentic Workflows",
     "tags": [
       "agentic-ai",
       "stub"
@@ -352,7 +352,7 @@
   },
   {
     "slug": "agents-that-teach-incidental-learning",
-    "title": "\"Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development\"",
+    "title": "Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development",
     "tags": [
       "agentic-ai",
       "cs-education",
@@ -368,7 +368,7 @@
   },
   {
     "slug": "agreement-not-quality-llm-coding-verification",
-    "title": "\"Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth\"",
+    "title": "Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth",
     "tags": [
       "llm",
       "qualitative-research",
@@ -396,7 +396,7 @@
   },
   {
     "slug": "ai-adult-learning-design",
-    "title": "\"Guidelines for Designing AI Technologies to Support Adult Learning\"",
+    "title": "Guidelines for Designing AI Technologies to Support Adult Learning",
     "tags": [
       "lifelong-learning",
       "personalized-learning",
@@ -409,7 +409,7 @@
   },
   {
     "slug": "ai-agents-peer-learning-discourse",
-    "title": "\"When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community\"",
+    "title": "When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community",
     "tags": [
       "agentic-ai",
       "benchmark",
@@ -423,7 +423,7 @@
   },
   {
     "slug": "ai-assessment-human-tutors",
-    "title": "\"AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice\"",
+    "title": "AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice",
     "tags": [
       "intelligent-tutoring",
       "automated-grading",
@@ -436,7 +436,7 @@
   },
   {
     "slug": "ai-assessment-scale-reform",
-    "title": "\"'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform\"",
+    "title": "\"A bit of chaos and madness\": The AI Assessment Scale and the work of assessment reform",
     "tags": [
       "higher-ed",
       "assessment",
@@ -446,12 +446,12 @@
       "policy-maker",
       "ai-literacy"
     ],
-    "content": "'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reformMike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026) \u2014 arXiv cs.HC\n\ud83d\udcc4 Full text (arXiv)\n\ud83d\udcc4 PDFThis study examines the implementation of the Artificial Intelligence Assessment Scale (AIAS), a structured framework for redesigning university assessment in response to generative AI. Surveying 80 academic staff, the researchers found that while the framework's transparency and guidance were va",
+    "content": "\"A bit of chaos and madness\": The AI Assessment Scale and the work of assessment reformMike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026) \u2014 arXiv cs.HC\n\ud83d\udcc4 Full text (arXiv)\n\ud83d\udcc4 PDFThis study examines the implementation of the Artificial Intelligence Assessment Scale (AIAS), a structured framework for redesigning university assessment in response to generative AI. Surveying 80 academic staff, the researchers found that while the framework's transparency and guidance were va",
     "url": "pages/ai-assessment-scale-reform.html"
   },
   {
     "slug": "ai-assistance-discretionary-feedback",
-    "title": "\"AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education\"",
+    "title": "AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education",
     "tags": [
       "automated-grading",
       "feedback-loop",
@@ -466,7 +466,7 @@
   },
   {
     "slug": "ai-assistance-reduces-persistence",
-    "title": "\"AI Assistance Reduces Persistence and Hurts Independent Performance\"",
+    "title": "AI Assistance Reduces Persistence and Hurts Independent Performance",
     "tags": [
       "over-reliance",
       "cognitive-offloading",
@@ -498,7 +498,7 @@
   },
   {
     "slug": "ai-assisted-writing-research-teams",
-    "title": "\"Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams\"",
+    "title": "Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -510,7 +510,7 @@
   },
   {
     "slug": "ai-availability-student-motivation",
-    "title": "\"\\\"Why Put in This Much Effort?\\\": How AI Availability Shapes Students\u2019 Motivation in Introductory Programming\"",
+    "title": "\"Why Put in This Much Effort?\": How AI Availability Shapes Students\u2019 Motivation in Introductory Programming",
     "tags": [
       "academic-integrity",
       "higher-ed",
@@ -523,7 +523,7 @@
   },
   {
     "slug": "ai-campus-wellbeing-tools",
-    "title": "\"AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention\"",
+    "title": "AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention",
     "tags": [
       "higher-ed",
       "llm",
@@ -537,7 +537,7 @@
   },
   {
     "slug": "ai-changing-teaching-workflows",
-    "title": "\"How AI Is Changing Teaching Workflows\"",
+    "title": "How AI Is Changing Teaching Workflows",
     "tags": [
       "generative-ai",
       "teacher-role",
@@ -558,7 +558,7 @@
   },
   {
     "slug": "ai-co-intelligence",
-    "title": "\"Ai Co Intelligence\"",
+    "title": "Ai Co Intelligence",
     "tags": [
       "stub"
     ],
@@ -567,7 +567,7 @@
   },
   {
     "slug": "ai-coaching-rl-skill-development",
-    "title": "\"AI Coaching for Accelerating Human Skill Development with Reinforcement Learning\"",
+    "title": "AI Coaching for Accelerating Human Skill Development with Reinforcement Learning",
     "tags": [
       "intelligent-tutoring",
       "personalized-learning",
@@ -580,7 +580,7 @@
   },
   {
     "slug": "ai-detection",
-    "title": "\"AI Detection in Education\"",
+    "title": "AI Detection in Education",
     "tags": [
       "ai-detection",
       "academic-integrity",
@@ -591,7 +591,7 @@
   },
   {
     "slug": "ai-ed-evaluation",
-    "title": "\"Ai Ed Evaluation\"",
+    "title": "Ai Ed Evaluation",
     "tags": [
       "stub"
     ],
@@ -600,7 +600,7 @@
   },
   {
     "slug": "ai-ed-implementation",
-    "title": "\"Ai Ed Implementation\"",
+    "title": "Ai Ed Implementation",
     "tags": [
       "stub"
     ],
@@ -609,7 +609,7 @@
   },
   {
     "slug": "ai-education-global-capacity",
-    "title": "\"What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries\"",
+    "title": "What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries",
     "tags": [
       "policy-maker",
       "equity",
@@ -622,7 +622,7 @@
   },
   {
     "slug": "ai-education",
-    "title": "\"Ai Education\"",
+    "title": "Ai Education",
     "tags": [
       "stub"
     ],
@@ -631,7 +631,7 @@
   },
   {
     "slug": "ai-enabled-serious-games",
-    "title": "\"AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems\"",
+    "title": "AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems",
     "tags": [
       "intelligent-tutoring",
       "generative-ai",
@@ -645,7 +645,7 @@
   },
   {
     "slug": "ai-engineering-education-balancing-act",
-    "title": "\"Using AI in engineering education: a balancing act, driven by clear purpose\"",
+    "title": "Using AI in engineering education: a balancing act, driven by clear purpose",
     "tags": [
       "higher-ed",
       "llm",
@@ -684,7 +684,7 @@
   },
   {
     "slug": "ai-fatigue-academic-contexts",
-    "title": "\"Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory\"",
+    "title": "Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory",
     "tags": [
       "student-experience",
       "over-reliance",
@@ -697,7 +697,7 @@
   },
   {
     "slug": "ai-feedback-quality",
-    "title": "\"Ai Feedback Quality\"",
+    "title": "Ai Feedback Quality",
     "tags": [],
     "content": "\nAI feedback quality \u2014 whether machine-generated feedback is accurate, actionable, and pedagogically sound \u2014 is a cross-cutting wiki theme: ai-generated-feedback-higher-ed, genai-teacher-feedback-comparison, llm-feedback-programming-classroom, and sequenced-ai-feedback-learning show AI feedback can match or exceed human baselines when human-in-the-loop and rubric-aligned (feedback-loop).\nAi Feedback QualityRelated Pages\ngenai-teacher-feedback-comparison \u2014 Students rate teacher feedback more trus",
     "url": "pages/ai-feedback-quality.html"
@@ -713,7 +713,7 @@
   },
   {
     "slug": "ai-generated-feedback-higher-ed",
-    "title": "\"Artificial intelligence and feedback in university education: effectiveness and student perceptions\"",
+    "title": "Artificial intelligence and feedback in university education: effectiveness and student perceptions",
     "tags": [
       "generative-ai",
       "feedback-loop",
@@ -740,7 +740,7 @@
   },
   {
     "slug": "ai-generated-slides-student-perception",
-    "title": "\"AI-Generated Slides: Are They Good? Can Students Tell?\"",
+    "title": "AI-Generated Slides: Are They Good? Can Students Tell?",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -753,7 +753,7 @@
   },
   {
     "slug": "ai-generated-traces-novice-programmers",
-    "title": "\"AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study\"",
+    "title": "AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study",
     "tags": [
       "cs-education",
       "llm",
@@ -765,7 +765,7 @@
   },
   {
     "slug": "ai-governance-education",
-    "title": "\"Ai Governance Education\"",
+    "title": "Ai Governance Education",
     "tags": [
       "stub"
     ],
@@ -774,7 +774,7 @@
   },
   {
     "slug": "ai-higher-ed-bridge-gap",
-    "title": "\"Higher Education Must Bridge the AI Gap\"",
+    "title": "Higher Education Must Bridge the AI Gap",
     "tags": [
       "higher-ed",
       "equity",
@@ -787,7 +787,7 @@
   },
   {
     "slug": "ai-higher-ed-workforce-survey",
-    "title": "\"The Impact of AI on Work in Higher Education\"",
+    "title": "The Impact of AI on Work in Higher Education",
     "tags": [
       "higher-ed",
       "faculty-development",
@@ -800,7 +800,7 @@
   },
   {
     "slug": "ai-in-the-wild-college",
-    "title": "\"AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI\"",
+    "title": "AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -840,7 +840,7 @@
   },
   {
     "slug": "ai-learning-assistants-higher-ed-large-scale",
-    "title": "\"Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis\"",
+    "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
     "tags": [
       "llm",
       "higher-ed",
@@ -853,7 +853,7 @@
   },
   {
     "slug": "ai-learning-companions-framework",
-    "title": "\"Building AI Companions that Prioritise Learning over Performance\"",
+    "title": "Building AI Companions that Prioritise Learning over Performance",
     "tags": [
       "llm",
       "personalized-learning",
@@ -866,7 +866,7 @@
   },
   {
     "slug": "ai-learning-tools-engineering-education-needs",
-    "title": "\"Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes\"",
+    "title": "Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes",
     "tags": [
       "higher-ed",
       "stem-education",
@@ -893,7 +893,7 @@
   },
   {
     "slug": "ai-lifelong-learning-policy",
-    "title": "\"Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy\"",
+    "title": "Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy",
     "tags": [
       "lifelong-learning",
       "policy-maker",
@@ -908,7 +908,7 @@
   },
   {
     "slug": "ai-literacy-assessment-misalignment",
-    "title": "\"AI Literacy Assessment: Self-Reported vs Performance Misalignment\"",
+    "title": "AI Literacy Assessment: Self-Reported vs Performance Misalignment",
     "tags": [
       "ai-literacy",
       "assessment",
@@ -922,7 +922,7 @@
   },
   {
     "slug": "ai-literacy-continuum-higher-education",
-    "title": "\"Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education\"",
+    "title": "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education",
     "tags": [
       "ai-literacy",
       "higher-ed",
@@ -936,7 +936,7 @@
   },
   {
     "slug": "ai-literacy-equity-programming-policy",
-    "title": "\"Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis\"",
+    "title": "Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis",
     "tags": [
       "ai-literacy",
       "equity",
@@ -949,7 +949,7 @@
   },
   {
     "slug": "ai-literacy-in-higher-education",
-    "title": "\"Ai Literacy In Higher Education\"",
+    "title": "Ai Literacy In Higher Education",
     "tags": [
       "stub"
     ],
@@ -958,7 +958,7 @@
   },
   {
     "slug": "ai-literacy-power-knowledge",
-    "title": "\"AI Literacy: An Exercise in Power-Knowledge\"",
+    "title": "AI Literacy: An Exercise in Power-Knowledge",
     "tags": [
       "ai-literacy",
       "equity",
@@ -984,7 +984,7 @@
   },
   {
     "slug": "ai-lms-middle-school-longitudinal",
-    "title": "\"AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes\"",
+    "title": "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes",
     "tags": [
       "k-12",
       "adaptive-learning",
@@ -998,7 +998,7 @@
   },
   {
     "slug": "ai-making-us-stupid",
-    "title": "\"Is AI making us stupid?\"",
+    "title": "Is AI making us stupid?",
     "tags": [
       "cognitive-offloading",
       "over-reliance",
@@ -1027,7 +1027,7 @@
   },
   {
     "slug": "ai-partner-science-epistemic-vigilance",
-    "title": "\"AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation\"",
+    "title": "AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation",
     "tags": [
       "personalized-learning",
       "scaffolding",
@@ -1041,7 +1041,7 @@
   },
   {
     "slug": "ai-pedagogical-accompaniment-amico",
-    "title": "\"Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China\"",
+    "title": "Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China",
     "tags": [
       "intelligent-tutoring",
       "scaffolding",
@@ -1057,7 +1057,7 @@
   },
   {
     "slug": "ai-pedagogical-orientation",
-    "title": "\"Faculty Orientations Shape Adoption of AI in Research and Teaching\"",
+    "title": "Faculty Orientations Shape Adoption of AI in Research and Teaching",
     "tags": [
       "faculty-development",
       "higher-ed",
@@ -1087,7 +1087,7 @@
   },
   {
     "slug": "ai-powered-materials-discovery-ai-literacy",
-    "title": "\"Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment\"",
+    "title": "Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment",
     "tags": [
       "ai-literacy",
       "curriculum-design",
@@ -1100,7 +1100,7 @@
   },
   {
     "slug": "ai-productivity-moderation",
-    "title": "\"Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost\"",
+    "title": "Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost",
     "tags": [
       "generative-ai",
       "efficacy-study",
@@ -1126,7 +1126,7 @@
   },
   {
     "slug": "ai-scoring-language-bias-physics",
-    "title": "\"AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics\"",
+    "title": "AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics",
     "tags": [
       "assessment-validity",
       "automated-grading",
@@ -1154,7 +1154,7 @@
   },
   {
     "slug": "ai-team-teaching-talk-analytics",
-    "title": "\"AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design\"",
+    "title": "AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design",
     "tags": [
       "active-learning",
       "ai-education",
@@ -1167,7 +1167,7 @@
   },
   {
     "slug": "ai-tools-arab-english-classrooms",
-    "title": "\"AI tools in Arab University English classrooms: Looking back and forward\"",
+    "title": "AI tools in Arab University English classrooms: Looking back and forward",
     "tags": [
       "language-learning",
       "higher-ed",
@@ -1181,7 +1181,7 @@
   },
   {
     "slug": "ai-tpack-preservice-math-teachers",
-    "title": "\"AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study\"",
+    "title": "AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study",
     "tags": [
       "ai-literacy",
       "higher-ed",
@@ -1193,7 +1193,7 @@
   },
   {
     "slug": "ai-tpack-teacher-multi-agent-workflow",
-    "title": "\"Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design\"",
+    "title": "Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design",
     "tags": [
       "ai-literacy",
       "faculty-development",
@@ -1207,7 +1207,7 @@
   },
   {
     "slug": "ai-tutor-authoring-promptdecipher",
-    "title": "\"PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions\"",
+    "title": "PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -1221,7 +1221,7 @@
   },
   {
     "slug": "ai-tutor-behavioral-evaluation",
-    "title": "\"The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness\"",
+    "title": "The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness",
     "tags": [
       "intelligent-tutoring",
       "efficacy-study",
@@ -1262,7 +1262,7 @@
   },
   {
     "slug": "ai-tutoring",
-    "title": "\"AI Tutoring\"",
+    "title": "AI Tutoring",
     "tags": [
       "intelligent-tutoring",
       "generative-ai",
@@ -1275,7 +1275,7 @@
   },
   {
     "slug": "ai-vocational-education-training-review",
-    "title": "\"Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness\"",
+    "title": "Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness",
     "tags": [
       "professional-training",
       "efficacy-study",
@@ -1288,7 +1288,7 @@
   },
   {
     "slug": "ai-writing-support-stage-ownership-2026",
-    "title": "\"From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership\"",
+    "title": "From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership",
     "tags": [
       "writing-education",
       "student-experience",
@@ -1301,7 +1301,7 @@
   },
   {
     "slug": "aiawe-automated-writing-evaluation",
-    "title": "\"AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models\"",
+    "title": "AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models",
     "tags": [
       "generative-ai",
       "llm",
@@ -1314,7 +1314,7 @@
   },
   {
     "slug": "aicode-collaborative-feedback-system",
-    "title": "\"AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education\"",
+    "title": "AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education",
     "tags": [
       "automated-grading",
       "feedback-loop",
@@ -1327,7 +1327,7 @@
   },
   {
     "slug": "aied-carbon-footprint-reporting",
-    "title": "\"The Environmental Cost of LLMs in AIED: Reporting and Practices\"",
+    "title": "The Environmental Cost of LLMs in AIED: Reporting and Practices",
     "tags": [
       "llm",
       "generative-ai",
@@ -1340,7 +1340,7 @@
   },
   {
     "slug": "aied-unfinished-mission-bypass",
-    "title": "\"AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass\"",
+    "title": "AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass",
     "tags": [
       "over-reliance",
       "student-experience",
@@ -1354,7 +1354,7 @@
   },
   {
     "slug": "aissa-slides-analysis",
-    "title": "\"AISSA: AI-based Student Slides Analysis Tool for Academic Presentations\"",
+    "title": "AISSA: AI-based Student Slides Analysis Tool for Academic Presentations",
     "tags": [
       "automated-grading",
       "learning-analytics",
@@ -1367,7 +1367,7 @@
   },
   {
     "slug": "algorithmic-bias",
-    "title": "\"Algorithmic Bias\"",
+    "title": "Algorithmic Bias",
     "tags": [
       "stub"
     ],
@@ -1376,7 +1376,7 @@
   },
   {
     "slug": "anvil-ai-educational-animations",
-    "title": "\"ANVIL: Analogies and Videos for Lecturers\"",
+    "title": "ANVIL: Analogies and Videos for Lecturers",
     "tags": [
       "generative-ai",
       "llm",
@@ -1391,7 +1391,7 @@
   },
   {
     "slug": "ase-26-agentic-software-engineering-curriculum",
-    "title": "\"ASE-26: A Curriculum for Agentic Software Engineering as a Discipline\"",
+    "title": "ASE-26: A Curriculum for Agentic Software Engineering as a Discipline",
     "tags": [
       "agentic-ai",
       "ai-literacy",
@@ -1417,7 +1417,7 @@
   },
   {
     "slug": "assessment-validity",
-    "title": "\"Assessment Validity in AI Education\"",
+    "title": "Assessment Validity in AI Education",
     "tags": [
       "ai-literacy",
       "assessment",
@@ -1439,7 +1439,7 @@
   },
   {
     "slug": "astra-atco-training-simulator",
-    "title": "\"ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots\"",
+    "title": "ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots",
     "tags": [
       "intelligent-tutoring",
       "adaptive-learning",
@@ -1480,7 +1480,7 @@
   },
   {
     "slug": "authentic-products-authenticated-processes-2026",
-    "title": "\"From authentic products to authenticated processes: authentic assessment in AI-rich higher education\"",
+    "title": "From authentic products to authenticated processes: authentic assessment in AI-rich higher education",
     "tags": [
       "authentic-assessment",
       "assessment",
@@ -1495,7 +1495,7 @@
   },
   {
     "slug": "automated-assessment",
-    "title": "\"Automated Assessment\"",
+    "title": "Automated Assessment",
     "tags": [
       "stub"
     ],
@@ -1504,14 +1504,14 @@
   },
   {
     "slug": "automated-essay-scoring",
-    "title": "\"Automated Essay Scoring\"",
+    "title": "Automated Essay Scoring",
     "tags": [],
     "content": "\nAutomated essay scoring research in the wiki \u2014 icle-plus-plus-essay-scoring, self-referential-l2-writing-llm-assessment, aiawe-automated-writing-evaluation \u2014 shows transformer and LLM graders approaching human reliability while raising validity, bias, and feedback-quality questions (automated-grading, ai-ed-evaluation).\nAutomated Essay ScoringRelated Pages\nicle-plus-plus-essay-scoring\nai-scoring-language-bias-physics",
     "url": "pages/automated-essay-scoring.html"
   },
   {
     "slug": "automated-feedback",
-    "title": "\"Automated Feedback\"",
+    "title": "Automated Feedback",
     "tags": [],
     "content": "\nAutomated feedback research spans ai-generated-feedback-higher-ed, foxglove-writing-feedback-experts-llms, structured-llm-feedback-programming, and tibetcpr-ai-training-feedback \u2014 machine feedback is most effective when immediate, specific, and sequenced with human judgment (feedback-loop, formative-assessment).\nAutomated FeedbackRelated Pages\nllm-judged-helpfulness-pedagogy-signal",
     "url": "pages/automated-feedback.html"
@@ -1543,7 +1543,7 @@
   },
   {
     "slug": "automated-grading",
-    "title": "\"Automated Grading Systems\"",
+    "title": "Automated Grading Systems",
     "tags": [
       "automated-grading",
       "formative-assessment",
@@ -1554,7 +1554,7 @@
   },
   {
     "slug": "automated-presentation-coaching",
-    "title": "\"A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges\"",
+    "title": "A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges",
     "tags": [
       "llm",
       "intelligent-tutoring",
@@ -1569,7 +1569,7 @@
   },
   {
     "slug": "automated-question-generation",
-    "title": "\"Automated Question Generation\"",
+    "title": "Automated Question Generation",
     "tags": [
       "nlp-education",
       "assessment",
@@ -1596,7 +1596,7 @@
   },
   {
     "slug": "awareness-technological-isomorphism",
-    "title": "\"Awareness of Technological Isomorphism: AI in Elementary Math\"",
+    "title": "Awareness of Technological Isomorphism: AI in Elementary Math",
     "tags": [
       "k-12",
       "ai-literacy",
@@ -1610,7 +1610,7 @@
   },
   {
     "slug": "becerra-aicofe-feedback-2026",
-    "title": "\"AICoFE: AI-Powered Feedback System\"",
+    "title": "AICoFE: AI-Powered Feedback System",
     "tags": [
       "ai-ed-evaluation",
       "feedback-loop",
@@ -1621,7 +1621,7 @@
   },
   {
     "slug": "benchmark-driven-edtech",
-    "title": "\"Benchmark Driven Edtech\"",
+    "title": "Benchmark Driven Edtech",
     "tags": [],
     "content": "\nBenchmark-driven edtech \u2014 the practice of letting public benchmarks steer educational AI development \u2014 is examined through benchmark, cstutorbench-slm-tutors, eduagentbench-agent-teaching-benchmark, and ground-truth-reliability-aied: benchmarks shape progress but can mislead when reliability and educational validity go unexamined.\nBenchmark Driven EdtechRelated Pagestutoring-effectiveness-index \u2014 links here",
     "url": "pages/benchmark-driven-edtech.html"
@@ -1638,7 +1638,7 @@
   },
   {
     "slug": "beyond-detection-authentic-assessment-ai-2025",
-    "title": "\"Beyond Detection: redesigning authentic assessment in an AI-mediated world\"",
+    "title": "Beyond Detection: redesigning authentic assessment in an AI-mediated world",
     "tags": [
       "authentic-assessment",
       "ai-detection",
@@ -1652,7 +1652,7 @@
   },
   {
     "slug": "bias-mitigation",
-    "title": "\"Bias Mitigation\"",
+    "title": "Bias Mitigation",
     "tags": [
       "bias-mitigation",
       "equity",
@@ -1663,7 +1663,7 @@
   },
   {
     "slug": "bloom-aligned-educational-control-llms",
-    "title": "\"From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs\"",
+    "title": "From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs",
     "tags": [
       "llm",
       "generative-ai",
@@ -1676,7 +1676,7 @@
   },
   {
     "slug": "book-level-synthetic-textbook-organization",
-    "title": "\"Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training\"",
+    "title": "Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training",
     "tags": [
       "generative-ai",
       "llm",
@@ -1688,7 +1688,7 @@
   },
   {
     "slug": "bridging-instructional-design-framework-math",
-    "title": "\"WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators\"",
+    "title": "WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators",
     "tags": [
       "teacher-role",
       "k-12",
@@ -1701,7 +1701,7 @@
   },
   {
     "slug": "brookings-ai-students-report",
-    "title": "\"A New Direction for Students in an AI World: Prosper, Prepare, Protect\"",
+    "title": "A New Direction for Students in an AI World: Prosper, Prepare, Protect",
     "tags": [
       "policy-maker",
       "k-12",
@@ -1714,7 +1714,7 @@
   },
   {
     "slug": "buggy-genai-code-student-responses",
-    "title": "\"When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code\"",
+    "title": "When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code",
     "tags": [
       "generative-ai",
       "cs-education",
@@ -1730,7 +1730,7 @@
   },
   {
     "slug": "care-full-feedback-genai",
-    "title": "\"The care-full craft of feedback in an age of generative AI\"",
+    "title": "The care-full craft of feedback in an age of generative AI",
     "tags": [
       "generative-ai",
       "feedback-loop",
@@ -1754,7 +1754,7 @@
   },
   {
     "slug": "chatgpt-critical-creative-thinking-review",
-    "title": "\"ChatGPT Critical and Creative Thinking: Systematic Review\"",
+    "title": "ChatGPT Critical and Creative Thinking: Systematic Review",
     "tags": [
       "ai-literacy",
       "boundary-object",
@@ -1774,7 +1774,7 @@
   },
   {
     "slug": "chatgpt-feedback-engagement-genai",
-    "title": "\"Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence\"",
+    "title": "Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence",
     "tags": [
       "generative-ai",
       "feedback-loop",
@@ -1789,7 +1789,7 @@
   },
   {
     "slug": "chatgpt-impact-high-school-tests",
-    "title": "\"Little Impact of ChatGPT Availability on High School Student Test Score Performance\"",
+    "title": "Little Impact of ChatGPT Availability on High School Student Test Score Performance",
     "tags": [
       "generative-ai",
       "k-12",
@@ -1802,7 +1802,7 @@
   },
   {
     "slug": "chatgpt-programming-education-text-mining",
-    "title": "\"Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education\"",
+    "title": "Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education",
     "tags": [
       "over-reliance",
       "academic-integrity",
@@ -1816,7 +1816,7 @@
   },
   {
     "slug": "child-safety-genai",
-    "title": "\"Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework\"",
+    "title": "Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework",
     "tags": [
       "equity",
       "generative-ai",
@@ -1842,7 +1842,7 @@
   },
   {
     "slug": "clara-collaboration-literacy-dashboard",
-    "title": "\"CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy\"",
+    "title": "CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy",
     "tags": [
       "learning-analytics",
       "generative-ai",
@@ -1856,7 +1856,7 @@
   },
   {
     "slug": "code-anchor-multi-view-visualization",
-    "title": "\"Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations\"",
+    "title": "Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations",
     "tags": [
       "cs-education",
       "student-experience",
@@ -1885,7 +1885,7 @@
   },
   {
     "slug": "codify-socratic-programming-tutor",
-    "title": "\"Codify: An Intelligent Socratic Tutoring System for Programming Education\"",
+    "title": "Codify: An Intelligent Socratic Tutoring System for Programming Education",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -1898,7 +1898,7 @@
   },
   {
     "slug": "codify-socratic-tutoring-programming",
-    "title": "\"Codify: An Intelligent Socratic Tutoring System for Programming Education\"",
+    "title": "Codify: An Intelligent Socratic Tutoring System for Programming Education",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -1925,7 +1925,7 @@
   },
   {
     "slug": "cognitive-commons-ai-expertise-regeneration",
-    "title": "\"The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise\"",
+    "title": "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
     "tags": [
       "generative-ai",
       "professional-training",
@@ -1940,7 +1940,7 @@
   },
   {
     "slug": "cognitive-load-theory",
-    "title": "\"Cognitive Load Theory\"",
+    "title": "Cognitive Load Theory",
     "tags": [
       "stub"
     ],
@@ -1949,7 +1949,7 @@
   },
   {
     "slug": "cognitive-offloading-llm-synthesis-writing",
-    "title": "\"Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content\"",
+    "title": "Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content",
     "tags": [
       "writing-education",
       "llm",
@@ -1962,7 +1962,7 @@
   },
   {
     "slug": "cognitive-offloading-speedup-illusion",
-    "title": "\"Cognitive offloading and the speedup illusion in human-AI interaction\"",
+    "title": "Cognitive offloading and the speedup illusion in human-AI interaction",
     "tags": [
       "over-reliance",
       "metacognition",
@@ -1984,7 +1984,7 @@
   },
   {
     "slug": "cognitive-shift-ai-education",
-    "title": "\"Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?\"",
+    "title": "Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?",
     "tags": [
       "ai-literacy",
       "student-experience",
@@ -1999,7 +1999,7 @@
   },
   {
     "slug": "cogtax-cognitive-taxonomy",
-    "title": "\"CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education\"",
+    "title": "CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education",
     "tags": [
       "llm",
       "formative-assessment",
@@ -2048,7 +2048,7 @@
   },
   {
     "slug": "commenting-copilot-student-code-specs",
-    "title": "\"Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications\"",
+    "title": "Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications",
     "tags": [
       "llm",
       "student-experience",
@@ -2060,7 +2060,7 @@
   },
   {
     "slug": "community-centered-ai-education-adults",
-    "title": "\"Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study\"",
+    "title": "Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study",
     "tags": [
       "ai-literacy",
       "lifelong-learning",
@@ -2075,7 +2075,7 @@
   },
   {
     "slug": "computational-thinking-ai-agent-creation",
-    "title": "\"Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study\"",
+    "title": "Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study",
     "tags": [
       "k-12",
       "ai-literacy",
@@ -2088,7 +2088,7 @@
   },
   {
     "slug": "computational-thinking",
-    "title": "\"Computational Thinking\"",
+    "title": "Computational Thinking",
     "tags": [
       "stub"
     ],
@@ -2097,14 +2097,14 @@
   },
   {
     "slug": "computing-education",
-    "title": "\"Computing Education\"",
+    "title": "Computing Education",
     "tags": [],
     "content": "\nComputing education is the wiki's most densely studied domain: reshaping-cs-education-genai, llm-programming-support-governance-cs-education, code-review-genai-cs1, and vibe-coding-programming-process-visualizer document how LLMs transform programming pedagogy, assessment, and student debugging practices.\nComputing EducationRelated Pages\nai-generated-instructional-videos-computing-ed\nlearner-ai-interaction-patterns-oop\nsolving-vs-evaluating-genai-solutions\nllm-intervention-design-cs-review",
     "url": "pages/computing-education.html"
   },
   {
     "slug": "computing-students-cybersecurity-attitudes",
-    "title": "\"Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity\"",
+    "title": "Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity",
     "tags": [
       "higher-ed",
       "student-experience",
@@ -2132,7 +2132,7 @@
   },
   {
     "slug": "concept-catalyst-k12-teacher",
-    "title": "\"Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI\"",
+    "title": "Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI",
     "tags": [
       "ai-literacy",
       "edtech-platform",
@@ -2145,7 +2145,7 @@
   },
   {
     "slug": "confidence-aware-ai-assessment",
-    "title": "\"Confidence Aware Ai Assessment\"",
+    "title": "Confidence Aware Ai Assessment",
     "tags": [
       "stub"
     ],
@@ -2167,7 +2167,7 @@
   },
   {
     "slug": "cong-confidence-asag-2026",
-    "title": "\"Confidence-Aware Automatic Short Answer Grading\"",
+    "title": "Confidence-Aware Automatic Short Answer Grading",
     "tags": [
       "assessment",
       "automated-grading",
@@ -2178,7 +2178,7 @@
   },
   {
     "slug": "connected-ai-lesson-planning-vietnam",
-    "title": "\"ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning\"",
+    "title": "ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning",
     "tags": [
       "llm",
       "generative-ai",
@@ -2193,7 +2193,7 @@
   },
   {
     "slug": "constructing-epistemic-ai-literacy-student-ai-co-programming",
-    "title": "\"Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming\"",
+    "title": "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
     "tags": [
       "ai-literacy",
       "cs-education",
@@ -2206,7 +2206,7 @@
   },
   {
     "slug": "constructivist",
-    "title": "\"Constructivist\"",
+    "title": "Constructivist",
     "tags": [
       "stub"
     ],
@@ -2215,7 +2215,7 @@
   },
   {
     "slug": "contextual-sycophancy-ai-literacy",
-    "title": "\"The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration\"",
+    "title": "The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration",
     "tags": [
       "llm",
       "generative-ai",
@@ -2230,7 +2230,7 @@
   },
   {
     "slug": "conversational-ai-informal-learning",
-    "title": "\"Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning\"",
+    "title": "Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning",
     "tags": [
       "generative-ai",
       "informal-learning",
@@ -2243,7 +2243,7 @@
   },
   {
     "slug": "conversational-ai-tutors-framework",
-    "title": "\"The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents\"",
+    "title": "The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents",
     "tags": [
       "intelligent-tutoring",
       "generative-ai",
@@ -2257,7 +2257,7 @@
   },
   {
     "slug": "correct-answer-trap-ai-tutor",
-    "title": "\"Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning\"",
+    "title": "Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning",
     "tags": [
       "intelligent-tutoring",
       "automated-grading",
@@ -2270,7 +2270,7 @@
   },
   {
     "slug": "correct-answer-trap-misconceptions",
-    "title": "\"The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions\"",
+    "title": "The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions",
     "tags": [
       "formative-assessment",
       "llm",
@@ -2283,7 +2283,7 @@
   },
   {
     "slug": "cost-of-ethics-crisis-cs-ethics-education",
-    "title": "\"Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States\"",
+    "title": "Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States",
     "tags": [
       "ai-education",
       "cs-education",
@@ -2296,7 +2296,7 @@
   },
   {
     "slug": "cotal-formative-assessment-scoring-2026",
-    "title": "\"CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback\"",
+    "title": "CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback",
     "tags": [
       "formative-assessment",
       "automated-grading",
@@ -2310,7 +2310,7 @@
   },
   {
     "slug": "courseblueprint-adaptive-video-generation",
-    "title": "\"CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora\"",
+    "title": "CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora",
     "tags": [
       "llm",
       "generative-ai",
@@ -2345,7 +2345,7 @@
   },
   {
     "slug": "critical-engagement-code-completion",
-    "title": "\"To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks\"",
+    "title": "To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks",
     "tags": [
       "formative-assessment",
       "higher-ed",
@@ -2358,7 +2358,7 @@
   },
   {
     "slug": "critical-genai-use-predictors",
-    "title": "\"GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use\"",
+    "title": "GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use",
     "tags": [
       "ai-literacy",
       "higher-ed",
@@ -2382,7 +2382,7 @@
   },
   {
     "slug": "critical-thinking",
-    "title": "\"Critical Thinking\"",
+    "title": "Critical Thinking",
     "tags": [
       "critical-thinking"
     ],
@@ -2404,7 +2404,7 @@
   },
   {
     "slug": "cross-dataset-bloom-question-classification",
-    "title": "\"Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs\"",
+    "title": "Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs",
     "tags": [
       "automated-grading",
       "llm",
@@ -2417,7 +2417,7 @@
   },
   {
     "slug": "cross-subject-validity-delayed-start",
-    "title": "\"Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior\"",
+    "title": "Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior",
     "tags": [
       "learning-analytics",
       "student-modeling",
@@ -2439,7 +2439,7 @@
   },
   {
     "slug": "cstutorbench-slm-tutors",
-    "title": "\"CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming\"",
+    "title": "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming",
     "tags": [
       "llm",
       "intelligent-tutoring",
@@ -2468,7 +2468,7 @@
   },
   {
     "slug": "culturally-relevant-pedagogy",
-    "title": "\"Culturally Relevant Pedagogy\"",
+    "title": "Culturally Relevant Pedagogy",
     "tags": [
       "equity",
       "curriculum-design",
@@ -2480,7 +2480,7 @@
   },
   {
     "slug": "curiobot-llm-tutoring-exploratory-learning",
-    "title": "\"Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior\"",
+    "title": "Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior",
     "tags": [
       "llm",
       "intelligent-tutoring",
@@ -2493,7 +2493,7 @@
   },
   {
     "slug": "curriculum-design-ai",
-    "title": "\"Curriculum Design Ai\"",
+    "title": "Curriculum Design Ai",
     "tags": [
       "stub"
     ],
@@ -2502,7 +2502,7 @@
   },
   {
     "slug": "curriculum-design",
-    "title": "\"Curriculum Design\"",
+    "title": "Curriculum Design",
     "tags": [
       "stub"
     ],
@@ -2511,7 +2511,7 @@
   },
   {
     "slug": "cyberscholar-genai-writing-feedback",
-    "title": "\"Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar\"",
+    "title": "Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar",
     "tags": [
       "generative-ai",
       "llm",
@@ -2526,7 +2526,7 @@
   },
   {
     "slug": "data-annotations-pedagogical-hints",
-    "title": "\"Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking\"",
+    "title": "Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking",
     "tags": [
       "ai-literacy",
       "cs-education",
@@ -2539,7 +2539,7 @@
   },
   {
     "slug": "data-comics-for-education-evaluating-effectiveness-benefits-ethics",
-    "title": "\"Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation\"",
+    "title": "Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation",
     "tags": [
       "ai-generated-content",
       "k-12",
@@ -2552,7 +2552,7 @@
   },
   {
     "slug": "debugtracker-classroom-debugging",
-    "title": "\"DebugTracker: Lightweight Process Evidence for Classroom Debugging\"",
+    "title": "DebugTracker: Lightweight Process Evidence for Classroom Debugging",
     "tags": [
       "programming-its",
       "learning-analytics",
@@ -2566,14 +2566,14 @@
   },
   {
     "slug": "design-education",
-    "title": "\"Design Education\"",
+    "title": "Design Education",
     "tags": [],
     "content": "\nDesign education with AI is examined in genai-architectural-design-studios, mixed-reality-engineering-learning, and tech-enhanced-tabletop-cybersecurity-education: generative tools reshape studio critique and iteration loops, shifting assessment toward process documentation (authentic-assessment).\nDesign EducationRelated Pages\ngenai-architectural-design-studios",
     "url": "pages/design-education.html"
   },
   {
     "slug": "design-thinking-in-education",
-    "title": "\"Design Thinking In Education\"",
+    "title": "Design Thinking In Education",
     "tags": [
       "stub"
     ],
@@ -2582,7 +2582,7 @@
   },
   {
     "slug": "desirable-difficulties",
-    "title": "\"Desirable Difficulties\"",
+    "title": "Desirable Difficulties",
     "tags": [
       "stub"
     ],
@@ -2623,7 +2623,7 @@
   },
   {
     "slug": "digital-literacy-illusion",
-    "title": "\"The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students\"",
+    "title": "The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students",
     "tags": [
       "k-12",
       "ai-literacy",
@@ -2636,14 +2636,14 @@
   },
   {
     "slug": "digital-literacy",
-    "title": "\"Digital Literacy\"",
+    "title": "Digital Literacy",
     "tags": [],
     "content": "\nDigital literacy \u2014 the foundational competencies AI literacy builds on \u2014 appears in digital-literacy-illusion, multimodal-prompting-ai-literacy, and tracing-genai-literacy-interaction-patterns: perceived competence often exceeds measured skill, making task-based assessment essential (ai-literacy, assessment-validity).\nDigital LiteracyRelated Pages\nai-literacy-power-knowledge\nmultimodal-prompting-ai-literacy",
     "url": "pages/digital-literacy.html"
   },
   {
     "slug": "dot-framework-survey",
-    "title": "\"DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education\"",
+    "title": "DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education",
     "tags": [
       "ai-education",
       "ai-literacy",
@@ -2670,7 +2670,7 @@
   },
   {
     "slug": "dura-llm-cs2",
-    "title": "\"Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2\"",
+    "title": "Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2",
     "tags": [
       "llm",
       "higher-ed",
@@ -2696,7 +2696,7 @@
   },
   {
     "slug": "dyslexlens-dyslexic-learners-ai",
-    "title": "\"DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums\"",
+    "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
     "tags": [
       "special-education",
       "llm",
@@ -2712,7 +2712,7 @@
   },
   {
     "slug": "ecnuclaw-k12-personalized-companion",
-    "title": "\"ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education\"",
+    "title": "ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education",
     "tags": [
       "k-12",
       "personalized-learning",
@@ -2725,7 +2725,7 @@
   },
   {
     "slug": "edtech-design-time-generative-ui",
-    "title": "\"The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization\"",
+    "title": "The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization",
     "tags": [
       "personalized-learning",
       "adaptive-learning",
@@ -2763,14 +2763,14 @@
   },
   {
     "slug": "educational-content",
-    "title": "\"Educational Content\"",
+    "title": "Educational Content",
     "tags": [],
     "content": "\nEducational content generation \u2014 AI-produced lessons, questions, and explanations \u2014 is evaluated in llm-educational-question-cognitive-depth, kt4eqg-personalized-question-generation, slidesqaqa-pedagogical-question-generation, and data-comics-for-education-evaluating-effectiveness-benefits-ethics: quality and pedagogical alignment vary widely and require validation before classroom use (prompt-engineering, ai-ed-evaluation).\nEducational ContentRelated Pages\nbook-level-synthetic-textbook-organiz",
     "url": "pages/educational-content.html"
   },
   {
     "slug": "educational-datasets",
-    "title": "\"Educational Datasets\"",
+    "title": "Educational Datasets",
     "tags": [],
     "content": "\nEducational datasets underpin AIED research and evaluation: student-misconceptions-conditionals-loops-taxonomy, book-level-synthetic-textbook-organization, and iks-instruct-dataset-indian-knowledge document dataset construction and the risks of synthetic or culturally narrow data (educational-nlp, benchmark).\nEducational DatasetsRelated Pages\niks-instruct-dataset-indian-knowledge",
     "url": "pages/educational-datasets.html"
@@ -2790,7 +2790,7 @@
   },
   {
     "slug": "educational-measurement",
-    "title": "\"Educational Measurement\"",
+    "title": "Educational Measurement",
     "tags": [
       "stub"
     ],
@@ -2799,7 +2799,7 @@
   },
   {
     "slug": "educational-nlp",
-    "title": "\"Educational Nlp\"",
+    "title": "Educational Nlp",
     "tags": [
       "stub"
     ],
@@ -2808,7 +2808,7 @@
   },
   {
     "slug": "educational-policy-ai",
-    "title": "\"Educational Policy Ai\"",
+    "title": "Educational Policy Ai",
     "tags": [
       "stub"
     ],
@@ -2817,7 +2817,7 @@
   },
   {
     "slug": "educational-theory",
-    "title": "\"Educational Theory\"",
+    "title": "Educational Theory",
     "tags": [
       "educational-theory"
     ],
@@ -2840,7 +2840,7 @@
   },
   {
     "slug": "eduframetrap-llm-sycophancy-educational-safety",
-    "title": "\"Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks\"",
+    "title": "Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks",
     "tags": [
       "intelligent-tutoring",
       "hallucination-risk",
@@ -2854,7 +2854,7 @@
   },
   {
     "slug": "eduguard-safe-rag-llm-tutor",
-    "title": "\"EduGuard: A Safe RAG-Based LLM Tutor for Programming Education\"",
+    "title": "EduGuard: A Safe RAG-Based LLM Tutor for Programming Education",
     "tags": [
       "llm",
       "generative-ai",
@@ -2870,7 +2870,7 @@
   },
   {
     "slug": "edumirror-educational-social-dynamics",
-    "title": "\"EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation\"",
+    "title": "EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation",
     "tags": [
       "intelligent-tutoring",
       "student-experience",
@@ -2892,7 +2892,7 @@
   },
   {
     "slug": "efficiency-gain-illusion-ai-overreliance",
-    "title": "\"The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks\"",
+    "title": "The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks",
     "tags": [
       "generative-ai",
       "over-reliance",
@@ -2904,7 +2904,7 @@
   },
   {
     "slug": "elevate-genai-virtual-tutors",
-    "title": "\"ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education\"",
+    "title": "ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education",
     "tags": [
       "generative-ai",
       "intelligent-tutoring",
@@ -2917,7 +2917,7 @@
   },
   {
     "slug": "embodied-string-learning-blindness-low-vision-musicians",
-    "title": "\"Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision\"",
+    "title": "Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision",
     "tags": [
       "special-education",
       "equity",
@@ -2929,7 +2929,7 @@
   },
   {
     "slug": "empathy-coaching-chatbot",
-    "title": "\"Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions\"",
+    "title": "Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions",
     "tags": [
       "affective-computing",
       "feedback-loop",
@@ -2955,7 +2955,7 @@
   },
   {
     "slug": "engagement-forecasting-its",
-    "title": "\"From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning\"",
+    "title": "From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning",
     "tags": [
       "intelligent-tutoring",
       "learning-analytics",
@@ -3003,7 +3003,7 @@
   },
   {
     "slug": "epistemic-proactivity-math",
-    "title": "\"From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning\"",
+    "title": "From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning",
     "tags": [
       "ai-literacy",
       "k-12",
@@ -3016,7 +3016,7 @@
   },
   {
     "slug": "equity-in-ai-education",
-    "title": "\"Equity in AI Education\"",
+    "title": "Equity in AI Education",
     "tags": [
       "accessible-learning",
       "culturally-sustaining-pedagogy",
@@ -3036,7 +3036,7 @@
   },
   {
     "slug": "ethical-ai-higher-ed-game-theory",
-    "title": "\"Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning\"",
+    "title": "Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning",
     "tags": [
       "higher-ed",
       "academic-integrity",
@@ -3049,7 +3049,7 @@
   },
   {
     "slug": "ethics",
-    "title": "\"Ethics\"",
+    "title": "Ethics",
     "tags": [
       "stub"
     ],
@@ -3058,7 +3058,7 @@
   },
   {
     "slug": "evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations",
-    "title": "\"Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations\"",
+    "title": "Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations",
     "tags": [
       "ai-generated-content",
       "formative-assessment",
@@ -3071,7 +3071,7 @@
   },
   {
     "slug": "every-learner-faculty-development-genai-playbook-2025",
-    "title": "\"Every Learner: Faculty Development GenAI Playbook\"",
+    "title": "Every Learner: Faculty Development GenAI Playbook",
     "tags": [
       "faculty-development",
       "generative-ai",
@@ -3082,7 +3082,7 @@
   },
   {
     "slug": "expert-cognition-dashboard",
-    "title": "\"Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education\"",
+    "title": "Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education",
     "tags": [
       "learning-analytics",
       "intelligent-tutoring",
@@ -3131,7 +3131,7 @@
   },
   {
     "slug": "fair-explainable-edu-recommendations",
-    "title": "\"Fair and explainable educational recommendations with a hybrid Graph-GRU framework\"",
+    "title": "Fair and explainable educational recommendations with a hybrid Graph-GRU framework",
     "tags": [
       "ai-education",
       "bias-mitigation",
@@ -3143,7 +3143,7 @@
   },
   {
     "slug": "favero-critical-ai-tutors-empower-enslave-2025",
-    "title": "\"Critical AI Tutors: Empower or Enslave?\"",
+    "title": "Critical AI Tutors: Empower or Enslave?",
     "tags": [
       "intelligent-tutoring",
       "critical-thinking",
@@ -3154,7 +3154,7 @@
   },
   {
     "slug": "feedback-futures-genai",
-    "title": "\"Feedback futures: beyond the limits of human and GenAI capacities\"",
+    "title": "Feedback futures: beyond the limits of human and GenAI capacities",
     "tags": [
       "generative-ai",
       "feedback-loop",
@@ -3179,7 +3179,7 @@
   },
   {
     "slug": "finkelstein-principled-ai-education-2025",
-    "title": "\"Principled AI Education Framework\"",
+    "title": "Principled AI Education Framework",
     "tags": [
       "ai-literacy",
       "curriculum-design",
@@ -3190,7 +3190,7 @@
   },
   {
     "slug": "flowcode-ai-creative-coding",
-    "title": "\"Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education\"",
+    "title": "Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education",
     "tags": [
       "scaffolding",
       "generative-ai",
@@ -3204,7 +3204,7 @@
   },
   {
     "slug": "forap-pjbl-computing-education",
-    "title": "\"Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio\"",
+    "title": "Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio",
     "tags": [
       "project-based-learning",
       "k-12",
@@ -3230,14 +3230,14 @@
   },
   {
     "slug": "formative-feedback-systems",
-    "title": "\"Formative Feedback Systems\"",
+    "title": "Formative Feedback Systems",
     "tags": [],
     "content": "\nFormative feedback systems \u2014 tools that give in-task guidance rather than terminal grades \u2014 are studied in llm-feedback-programming-classroom, structured-llm-feedback-programming, cyberscholar-genai-writing-feedback, and psyscore-essay-scoring-zpd-feedback: immediate, specific, and scaffolded machine feedback improves learning when aligned to rubrics and learner zone (formative-assessment, feedback-loop).\nFormative Feedback SystemsRelated Pagessurfacing-isolated-learners \u2014 links here",
     "url": "pages/formative-feedback-systems.html"
   },
   {
     "slug": "foxglove-writing-feedback-experts-llms",
-    "title": "\"FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs\"",
+    "title": "FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs",
     "tags": [
       "llm",
       "writing-education",
@@ -3251,7 +3251,7 @@
   },
   {
     "slug": "framing-5-percent-problem-teachers-persistence",
-    "title": "\"Framing the 5% Problem: Teachers' Perspectives on Persistence in Educational Technology\"",
+    "title": "Framing the 5% Problem: Teachers' Perspectives on Persistence in Educational Technology",
     "tags": [
       "k-12",
       "teacher-role",
@@ -3264,7 +3264,7 @@
   },
   {
     "slug": "from-answer-generators-to-reasoning-facilitators-ai-tutors",
-    "title": "\"From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments\"",
+    "title": "From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -3329,7 +3329,7 @@
   },
   {
     "slug": "genai-architecture-education",
-    "title": "\"Gen-AI-tecture: using generative AI to support architectural students in design tasks\"",
+    "title": "Gen-AI-tecture: using generative AI to support architectural students in design tasks",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -3345,7 +3345,7 @@
   },
   {
     "slug": "genai-assessment-governance",
-    "title": "\"Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment\"",
+    "title": "Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment",
     "tags": [
       "stem-education",
       "generative-ai",
@@ -3371,7 +3371,7 @@
   },
   {
     "slug": "genai-can-harm-teaching-rct-2026",
-    "title": "\"Generative AI Can Harm Teaching\"",
+    "title": "Generative AI Can Harm Teaching",
     "tags": [
       "faculty-development",
       "teacher-role",
@@ -3387,7 +3387,7 @@
   },
   {
     "slug": "genai-declaration-frameworks-higher-education",
-    "title": "\"Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education\"",
+    "title": "Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -3414,7 +3414,7 @@
   },
   {
     "slug": "genai-impact-chinese-students-hss",
-    "title": "\"The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences\"",
+    "title": "The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -3427,7 +3427,7 @@
   },
   {
     "slug": "genai-linguistic-diversity-academic-writing",
-    "title": "\"Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes\"",
+    "title": "Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes",
     "tags": [
       "generative-ai",
       "writing-education",
@@ -3467,7 +3467,7 @@
   },
   {
     "slug": "genai-mindtool-generative-learning",
-    "title": "\"Generative AI (GenAI) as a mindtool that supports generative learning (GL)\"",
+    "title": "Generative AI (GenAI) as a mindtool that supports generative learning (GL)",
     "tags": [
       "educational-theory",
       "generative-ai",
@@ -3480,7 +3480,7 @@
   },
   {
     "slug": "genai-minoritized-knowledges-disability",
-    "title": "\"Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability\"",
+    "title": "Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -3493,7 +3493,7 @@
   },
   {
     "slug": "genai-patient-education-transplant-handbooks",
-    "title": "\"Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks\"",
+    "title": "Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks",
     "tags": [
       "generative-ai",
       "health-education",
@@ -3505,7 +3505,7 @@
   },
   {
     "slug": "genai-performance-vs-learning",
-    "title": "\"Distinguishing performance gains from learning when using generative AI\"",
+    "title": "Distinguishing performance gains from learning when using generative AI",
     "tags": [
       "generative-ai",
       "metacognition",
@@ -3518,7 +3518,7 @@
   },
   {
     "slug": "genai-policies-higher-ed-computing",
-    "title": "\"A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education\"",
+    "title": "A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -3531,7 +3531,7 @@
   },
   {
     "slug": "genai-policy-prompting-rct",
-    "title": "\"Transforming GenAI Policy to Prompting Instruction (RCT)\"",
+    "title": "Transforming GenAI Policy to Prompting Instruction (RCT)",
     "tags": [
       "ai-literacy",
       "k-12",
@@ -3544,7 +3544,7 @@
   },
   {
     "slug": "genai-reliance-types-scale",
-    "title": "\"Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)\"",
+    "title": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)",
     "tags": [
       "generative-ai",
       "academic-integrity",
@@ -3558,7 +3558,7 @@
   },
   {
     "slug": "genai-runaway-object-math-higher-ed",
-    "title": "\"GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics\"",
+    "title": "GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -3571,7 +3571,7 @@
   },
   {
     "slug": "genai-skill-bypass-literacy",
-    "title": "\"The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy\"",
+    "title": "The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy",
     "tags": [
       "ai-literacy",
       "higher-ed",
@@ -3584,7 +3584,7 @@
   },
   {
     "slug": "genai-teacher-feedback-comparison",
-    "title": "\"Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness\"",
+    "title": "Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness",
     "tags": [
       "generative-ai",
       "feedback-loop",
@@ -3598,7 +3598,7 @@
   },
   {
     "slug": "genai-tutor-engagement-patterns",
-    "title": "\"Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use\"",
+    "title": "Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use",
     "tags": [
       "generative-ai",
       "intelligent-tutoring",
@@ -3612,7 +3612,7 @@
   },
   {
     "slug": "genai-usage-design-students-survey",
-    "title": "\"A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026\"",
+    "title": "A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -3625,7 +3625,7 @@
   },
   {
     "slug": "gender-bias-transfer-llm-writing",
-    "title": "\"Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing\"",
+    "title": "Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing",
     "tags": [
       "llm",
       "generative-ai",
@@ -3652,7 +3652,7 @@
   },
   {
     "slug": "generate-then-validate-question-gen",
-    "title": "\"Generate-Then-Validate: Question Generation for Education\"",
+    "title": "Generate-Then-Validate: Question Generation for Education",
     "tags": [
       "automated-grading",
       "llm",
@@ -3665,7 +3665,7 @@
   },
   {
     "slug": "generative-ai-guardrails-harm-learning",
-    "title": "\"Generative AI without guardrails can harm learning: Evidence from high school mathematics\"",
+    "title": "Generative AI without guardrails can harm learning: Evidence from high school mathematics",
     "tags": [
       "generative-ai",
       "over-reliance",
@@ -3681,7 +3681,7 @@
   },
   {
     "slug": "generative-ai-reduced-study-time-math",
-    "title": "\"Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build\"",
+    "title": "Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build",
     "tags": [
       "generative-ai",
       "over-reliance",
@@ -3705,7 +3705,7 @@
   },
   {
     "slug": "generative-refusal-ai-tools-for-thought",
-    "title": "\"Stop Writing for Me: Generative Refusal in AI Tools for Thought\"",
+    "title": "Stop Writing for Me: Generative Refusal in AI Tools for Thought",
     "tags": [
       "generative-ai",
       "writing-education",
@@ -3718,7 +3718,7 @@
   },
   {
     "slug": "generativism-learning-theory",
-    "title": "\"Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence\"",
+    "title": "Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence",
     "tags": [
       "generative-ai",
       "llm",
@@ -3731,7 +3731,7 @@
   },
   {
     "slug": "golrang-propact-pair-programming-2026",
-    "title": "\"ProPACT: Pair Programming with AI\"",
+    "title": "ProPACT: Pair Programming with AI",
     "tags": [
       "pair-programming",
       "collaborative-learning",
@@ -3742,7 +3742,7 @@
   },
   {
     "slug": "ground-truth-reliability-aided",
-    "title": "\"Ground Truth Reliability Aided\"",
+    "title": "Ground Truth Reliability Aided",
     "tags": [
       "stub"
     ],
@@ -3751,7 +3751,7 @@
   },
   {
     "slug": "ground-truth-reliability-aied",
-    "title": "\"Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education\"",
+    "title": "Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education",
     "tags": [
       "benchmark",
       "efficacy-study",
@@ -3766,7 +3766,7 @@
   },
   {
     "slug": "guided-llm-scaffolding-independent-learning",
-    "title": "\"Beyond Access: Guided LLM Scaffolding for Independent Learning\"",
+    "title": "Beyond Access: Guided LLM Scaffolding for Independent Learning",
     "tags": [
       "intelligent-tutoring",
       "scaffolding",
@@ -3779,7 +3779,7 @@
   },
   {
     "slug": "guided-llm-scaffolding-statistics",
-    "title": "\"Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics\"",
+    "title": "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics",
     "tags": [
       "scaffolding",
       "higher-ed",
@@ -3802,7 +3802,7 @@
   },
   {
     "slug": "hashmi-socratic-physics-chatbot-2025",
-    "title": "\"Socratic Physics Chatbot\"",
+    "title": "Socratic Physics Chatbot",
     "tags": [
       "socratic-method",
       "physics-education",
@@ -3814,7 +3814,7 @@
   },
   {
     "slug": "hazra-safetutors-pedagogical-safety-2026",
-    "title": "\"SafeTutors: Pedagogical Safety in AI Tutoring\"",
+    "title": "SafeTutors: Pedagogical Safety in AI Tutoring",
     "tags": [
       "pedagogical-safety",
       "k-12"
@@ -3835,7 +3835,7 @@
   },
   {
     "slug": "hingle-collaborative-ai-literacy-2025",
-    "title": "\"Collaborative AI Literacy Framework\"",
+    "title": "Collaborative AI Literacy Framework",
     "tags": [
       "ai-literacy",
       "collaborative-learning",
@@ -3859,7 +3859,7 @@
   },
   {
     "slug": "huang-interpretable-knowledge-tracing-2026",
-    "title": "\"Interpretable Knowledge Tracing\"",
+    "title": "Interpretable Knowledge Tracing",
     "tags": [
       "knowledge-tracing",
       "interpretability",
@@ -3870,7 +3870,7 @@
   },
   {
     "slug": "human-ai-co-mentorship",
-    "title": "\"Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting\"",
+    "title": "Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting",
     "tags": [
       "stem-education",
       "k-12",
@@ -3883,7 +3883,7 @@
   },
   {
     "slug": "human-ai-collaboration-prerequisite-functions",
-    "title": "\"What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it\"",
+    "title": "What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it",
     "tags": [
       "intelligent-tutoring",
       "scaffolding",
@@ -3896,7 +3896,7 @@
   },
   {
     "slug": "human-ai-collaboration-trust-expectations",
-    "title": "\"Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust\"",
+    "title": "Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust",
     "tags": [
       "human-in-the-loop",
       "generative-ai",
@@ -3908,7 +3908,7 @@
   },
   {
     "slug": "human-ai-collaboration",
-    "title": "\"Human Ai Collaboration\"",
+    "title": "Human Ai Collaboration",
     "tags": [
       "stub"
     ],
@@ -3953,7 +3953,7 @@
   },
   {
     "slug": "human-vs-llm-ordered-coding",
-    "title": "\"Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis\"",
+    "title": "Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis",
     "tags": [
       "automated-grading",
       "educational-theory",
@@ -3966,7 +3966,7 @@
   },
   {
     "slug": "humanlike-ai-collaborative-writing",
-    "title": "\"\\\"It Felt a Bit Eerie\\\": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent\"",
+    "title": "\"It Felt a Bit Eerie\": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent",
     "tags": [
       "generative-ai",
       "writing-education",
@@ -3979,7 +3979,7 @@
   },
   {
     "slug": "hybrid-e-assessment-semi-automated-grading",
-    "title": "\"Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations\"",
+    "title": "Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations",
     "tags": [
       "automated-grading",
       "assessment",
@@ -3992,7 +3992,7 @@
   },
   {
     "slug": "hybrid-human-ai-tutoring-differentiated",
-    "title": "\"Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs\"",
+    "title": "Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs",
     "tags": [
       "intelligent-tutoring",
       "k-12",
@@ -4005,7 +4005,7 @@
   },
   {
     "slug": "hypergamification-game-engine-lms",
-    "title": "\"Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game\"",
+    "title": "Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game",
     "tags": [
       "edtech-platform",
       "active-learning",
@@ -4018,7 +4018,7 @@
   },
   {
     "slug": "icap-cognitive-engagement-llm-agents",
-    "title": "\"Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents\"",
+    "title": "Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents",
     "tags": [
       "llm",
       "collaborative-learning",
@@ -4032,7 +4032,7 @@
   },
   {
     "slug": "icle-plus-plus-essay-scoring",
-    "title": "\"ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring\"",
+    "title": "ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring",
     "tags": [
       "automated-grading",
       "llm",
@@ -4045,7 +4045,7 @@
   },
   {
     "slug": "iks-instruct-dataset-indian-knowledge",
-    "title": "\"IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems\"",
+    "title": "IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems",
     "tags": [
       "llm",
       "personalized-learning",
@@ -4065,7 +4065,7 @@
   },
   {
     "slug": "inclusive-education",
-    "title": "\"Inclusive Education\"",
+    "title": "Inclusive Education",
     "tags": [
       "stub"
     ],
@@ -4087,7 +4087,7 @@
   },
   {
     "slug": "institutional-ai-readiness",
-    "title": "\"Institutional Ai Readiness\"",
+    "title": "Institutional Ai Readiness",
     "tags": [
       "stub"
     ],
@@ -4096,7 +4096,7 @@
   },
   {
     "slug": "institutional-change-framework-ai",
-    "title": "\"A Framework for Institutional Change in the Age of AI\"",
+    "title": "A Framework for Institutional Change in the Age of AI",
     "tags": [
       "ai-education",
       "institutional-change",
@@ -4133,7 +4133,7 @@
   },
   {
     "slug": "intelligent-tutoring-systems",
-    "title": "\"Intelligent Tutoring Systems\"",
+    "title": "Intelligent Tutoring Systems",
     "tags": [],
     "content": "\nIntelligent tutoring systems \u2014 the field that predates LLMs \u2014 remains the wiki's reference architecture: zerkouk-comprehensive-review-its-2025, llm-math-tutoring, stanbkt-bayesian-knowledge-tracing, and tutoring-effectiveness-index connect classical ITS to LLM-era tutors, with the shared question being pedagogical effectiveness, not just capability (intelligent-tutoring, knowledge-tracing).\nIntelligent Tutoring SystemsRelated Pagesspecial-r1-rl-special-education \u2014 links here\ntutoring-effectiven",
     "url": "pages/intelligent-tutoring-systems.html"
@@ -4163,14 +4163,14 @@
   },
   {
     "slug": "isolated-learner-detection",
-    "title": "\"Isolated Learner Detection\"",
+    "title": "Isolated Learner Detection",
     "tags": [],
     "content": "\nIsolated-learner detection \u2014 identifying students disengaged from collaboration \u2014 is studied in surfacing-isolated-learners, edumirror-educational-social-dynamics, and engagement-forecasting-its: learning analytics can surface withdrawal patterns that teachers and AI tutors can then address (learning-analytics, engagement-metrics).\nIsolated Learner DetectionRelated Pagessurfacing-isolated-learners \u2014 links here\nengagement-intensity-learner-modeling -- Engagement intensity during AI ethics instru",
     "url": "pages/isolated-learner-detection.html"
   },
   {
     "slug": "item-response-theory",
-    "title": "\"Item Response Theory\"",
+    "title": "Item Response Theory",
     "tags": [
       "stub"
     ],
@@ -4179,7 +4179,7 @@
   },
   {
     "slug": "jeon-isd-agent-bench-2026",
-    "title": "\"ISD Agent Benchmark\"",
+    "title": "ISD Agent Benchmark",
     "tags": [
       "agentic-ai",
       "ai-ed-evaluation",
@@ -4190,14 +4190,14 @@
   },
   {
     "slug": "jill-watson",
-    "title": "\"Jill Watson\"",
+    "title": "Jill Watson",
     "tags": [],
     "content": "\nJill Watson \u2014 Georgia Tech's famous AI teaching assistant \u2014 appears in the wiki as the canonical case of human-like AI in higher education, informing analysis of humanlike-ai-collaborative-writing, socially-fluent-ai-identity-detection, and agentic-ai more broadly: anthropomorphic AI raises both engagement and deception questions.\nJill WatsonRelated Pagessurfacing-isolated-learners \u2014 links here",
     "url": "pages/jill-watson.html"
   },
   {
     "slug": "k-12-ai-education",
-    "title": "\"K-12 AI Education\"",
+    "title": "K-12 AI Education",
     "tags": [
       "ai-literacy",
       "curriculum-design",
@@ -4219,7 +4219,7 @@
   },
   {
     "slug": "kar-mathbuddy-affective-math-tutoring-2025",
-    "title": "\"MathBuddy: Affective Math Tutoring\"",
+    "title": "MathBuddy: Affective Math Tutoring",
     "tags": [
       "math-education",
       "affective-computing",
@@ -4231,7 +4231,7 @@
   },
   {
     "slug": "kim-llm-fallacy-misattribution-2026",
-    "title": "\"LLM Fallacy Misattribution in Education\"",
+    "title": "LLM Fallacy Misattribution in Education",
     "tags": [
       "llm",
       "misinformation",
@@ -4298,7 +4298,7 @@
   },
   {
     "slug": "kt4eqg-personalized-question-generation",
-    "title": "\"KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing\"",
+    "title": "KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing",
     "tags": [
       "adaptive-learning",
       "automated-grading",
@@ -4312,7 +4312,7 @@
   },
   {
     "slug": "kutti-ai-voice-first-learning-companion",
-    "title": "\"Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children\"",
+    "title": "Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children",
     "tags": [
       "adaptive-learning",
       "intelligent-tutoring",
@@ -4334,7 +4334,7 @@
   },
   {
     "slug": "lata-ferpa-compliant-local-llm-autograder",
-    "title": "\"LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework\"",
+    "title": "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework",
     "tags": [
       "automated-grading",
       "higher-ed",
@@ -4362,7 +4362,7 @@
   },
   {
     "slug": "learner-centered-feedback-ai",
-    "title": "\"Enhancing learner-centered feedback with AI: teachers' practices and perceptions\"",
+    "title": "Enhancing learner-centered feedback with AI: teachers' practices and perceptions",
     "tags": [
       "generative-ai",
       "feedback-loop",
@@ -4376,14 +4376,14 @@
   },
   {
     "slug": "learning-analytics-dashboards",
-    "title": "\"Learning Analytics Dashboards\"",
+    "title": "Learning Analytics Dashboards",
     "tags": [],
     "content": "\nLearning analytics dashboards translate data into teacher/student action: clara-collaboration-literacy-dashboard, expert-cognition-dashboard, edumirror-educational-social-dynamics, and aissa-slides-analysis show dashboards improve awareness when they present actionable, interpretable signals (learning-analytics, visualization).\nLearning Analytics DashboardsRelated Pagessurfacing-isolated-learners \u2014 links here\nsavvy-student-attention-video-learning",
     "url": "pages/learning-analytics-dashboards.html"
   },
   {
     "slug": "learning-analytics",
-    "title": "\"Learning Analytics\"",
+    "title": "Learning Analytics",
     "tags": [
       "learning-analytics",
       "efficacy-study",
@@ -4407,7 +4407,7 @@
   },
   {
     "slug": "learning-by-chatting-genai-impact",
-    "title": "\"Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning\"",
+    "title": "Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning",
     "tags": [
       "generative-ai",
       "llm",
@@ -4421,7 +4421,7 @@
   },
   {
     "slug": "learning-engagement-assistant-lea",
-    "title": "\"Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System\"",
+    "title": "Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System",
     "tags": [
       "llm",
       "generative-ai",
@@ -4445,14 +4445,14 @@
   },
   {
     "slug": "learning-outcomes",
-    "title": "\"Learning Outcomes\"",
+    "title": "Learning Outcomes",
     "tags": [],
     "content": "\nLearning outcomes in the AI era are being redefined: genai-performance-vs-learning, generative-ai-reduced-study-time-math, and ai-assessment-human-tutors distinguish performance gains from durable learning, warning that AI-boosted scores can mask shallow understanding (learning-gains, assessment-validity).\nLearning OutcomesRelated Pages\npost-instrumental-learning-capacity-dissolution\nlearner-ai-interaction-patterns-oop\nsolving-vs-evaluating-genai-solutions",
     "url": "pages/learning-outcomes.html"
   },
   {
     "slug": "learning-to-prompt-adaptive-tutoring",
-    "title": "\"Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring\"",
+    "title": "Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -4466,7 +4466,7 @@
   },
   {
     "slug": "learnmate2-llm-adaptive-learning",
-    "title": "\"LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning\"",
+    "title": "LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning",
     "tags": [
       "personalized-learning",
       "adaptive-learning",
@@ -4480,7 +4480,7 @@
   },
   {
     "slug": "learnopt-exam-cognitive-structure",
-    "title": "\"LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization\"",
+    "title": "LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization",
     "tags": [
       "learning-analytics",
       "llm",
@@ -4493,7 +4493,7 @@
   },
   {
     "slug": "lecturaagents-multi-agent-teaching",
-    "title": "\"LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching\"",
+    "title": "LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
     "tags": [
       "llm",
       "generative-ai",
@@ -4506,7 +4506,7 @@
   },
   {
     "slug": "less-deliberate-teams-llm",
-    "title": "\"Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work\"",
+    "title": "Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work",
     "tags": [
       "llm",
       "student-experience",
@@ -4519,7 +4519,7 @@
   },
   {
     "slug": "lets-chat-chatbot-outreach-2026",
-    "title": "\"Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance\"",
+    "title": "Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance",
     "tags": [
       "higher-ed",
       "student-experience",
@@ -4532,7 +4532,7 @@
   },
   {
     "slug": "lifelong-learning",
-    "title": "\"Lifelong Learning and AI\"",
+    "title": "Lifelong Learning and AI",
     "tags": [
       "lifelong-learning",
       "personalized-learning",
@@ -4543,7 +4543,7 @@
   },
   {
     "slug": "llm-application-education",
-    "title": "\"Llm Application Education\"",
+    "title": "Llm Application Education",
     "tags": [
       "stub"
     ],
@@ -4552,7 +4552,7 @@
   },
   {
     "slug": "llm-automated-assessment-student-self-explanations",
-    "title": "\"Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education\"",
+    "title": "Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education",
     "tags": [
       "llm",
       "automated-grading",
@@ -4579,7 +4579,7 @@
   },
   {
     "slug": "llm-children-reading-story-generation",
-    "title": "\"Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety\"",
+    "title": "Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety",
     "tags": [
       "llm",
       "language-learning",
@@ -4592,7 +4592,7 @@
   },
   {
     "slug": "llm-cognitive-diagnosis-handwritten-math",
-    "title": "\"Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work\"",
+    "title": "Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work",
     "tags": [
       "ai-ed-evaluation",
       "knowledge-tracing",
@@ -4608,7 +4608,7 @@
   },
   {
     "slug": "llm-cultural-relevance-k12",
-    "title": "\"LLMs for Culturally Relevant K-12 Pedagogy\"",
+    "title": "LLMs for Culturally Relevant K-12 Pedagogy",
     "tags": [
       "culturally-sustaining-pedagogy",
       "k-12",
@@ -4635,7 +4635,7 @@
   },
   {
     "slug": "llm-detecting-llm-generated-content-education",
-    "title": "\"Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content\"",
+    "title": "Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content",
     "tags": [
       "ai-detection",
       "academic-integrity",
@@ -4660,7 +4660,7 @@
   },
   {
     "slug": "llm-educational-question-cognitive-depth",
-    "title": "\"From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions\"",
+    "title": "From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions",
     "tags": [
       "llm",
       "generative-ai",
@@ -4673,7 +4673,7 @@
   },
   {
     "slug": "llm-educational-simulation-adhd",
-    "title": "\"LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles\"",
+    "title": "LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles",
     "tags": [
       "llm",
       "student-experience",
@@ -4686,14 +4686,14 @@
   },
   {
     "slug": "llm-evaluation",
-    "title": "\"Llm Evaluation\"",
+    "title": "Llm Evaluation",
     "tags": [],
     "content": "\nLLM evaluation in education goes beyond accuracy: llm-judged-helpfulness-pedagogy-signal, teachbench-llm-teaching-evaluation, vetting-dual-llm-safety-education, and ground-truth-reliability-aied assess pedagogical quality, safety, and reliability of model output (ai-ed-evaluation, benchmark).\nLlm EvaluationRelated Pages\nllm-judged-helpfulness-pedagogy-signal",
     "url": "pages/llm-evaluation.html"
   },
   {
     "slug": "llm-facilitation-timing-online-discussions",
-    "title": "\"To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions\"",
+    "title": "To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions",
     "tags": [
       "llm",
       "collaborative-learning",
@@ -4721,7 +4721,7 @@
   },
   {
     "slug": "llm-feedback-programming-classroom",
-    "title": "\"LLM-Generated Feedback in Introductory Programming: A Classroom Study\"",
+    "title": "LLM-Generated Feedback in Introductory Programming: A Classroom Study",
     "tags": [
       "llm",
       "formative-assessment",
@@ -4749,7 +4749,7 @@
   },
   {
     "slug": "llm-in-education",
-    "title": "\"Llm In Education\"",
+    "title": "Llm In Education",
     "tags": [
       "stub"
     ],
@@ -4758,7 +4758,7 @@
   },
   {
     "slug": "llm-intervention-design-cs-review",
-    "title": "\"A review of intervention designs of LLM Integration in Undergraduate Computer Science Education\"",
+    "title": "A review of intervention designs of LLM Integration in Undergraduate Computer Science Education",
     "tags": [
       "cs-education",
       "generative-ai",
@@ -4790,7 +4790,7 @@
   },
   {
     "slug": "llm-judged-helpfulness-pedagogy-signal",
-    "title": "\"Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models\"",
+    "title": "Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models",
     "tags": [
       "llm",
       "intelligent-tutoring",
@@ -4803,14 +4803,14 @@
   },
   {
     "slug": "llm-math-tutoring",
-    "title": "\"Llm Math Tutoring\"",
+    "title": "Llm Math Tutoring",
     "tags": [],
     "content": "\nLLM math tutoring is a focused wiki cluster: llm-math-tutoring, llm-handwritten-math-grading, epistemic-proactivity-math, generative-ai-reduced-study-time-math, and learnmate2-llm-adaptive-learning examine tutoring, grading, and the risk that AI convenience erodes mathematical practice (intelligent-tutoring, scaffolding).\nLlm Math TutoringRelated Pagesspecial-r1-rl-special-education \u2014 links here\ntutoring-effectiveness-index \u2014 links here\nrepresentation-robustness-llm-math-problem-solving \u2014 Repre",
     "url": "pages/llm-math-tutoring.html"
   },
   {
     "slug": "llm-misconception-difficulty-easy-trap",
-    "title": "\"The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty\"",
+    "title": "The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty",
     "tags": [
       "llm",
       "formative-assessment",
@@ -4824,7 +4824,7 @@
   },
   {
     "slug": "llm-programming-support-governance-cs-education",
-    "title": "\"Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance\"",
+    "title": "Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance",
     "tags": [
       "llm",
       "cs-education",
@@ -4837,7 +4837,7 @@
   },
   {
     "slug": "llm-psychometric-calibration-cdp",
-    "title": "\"Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach\"",
+    "title": "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach",
     "tags": [
       "llm",
       "formative-assessment",
@@ -4850,7 +4850,7 @@
   },
   {
     "slug": "llm-reasoning-traces-metacognition",
-    "title": "\"Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition\"",
+    "title": "Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition",
     "tags": [
       "llm",
       "metacognition",
@@ -4863,7 +4863,7 @@
   },
   {
     "slug": "llm-reliance-types-undergrad",
-    "title": "\"Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University\"",
+    "title": "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University",
     "tags": [
       "ai-literacy",
       "higher-ed",
@@ -4876,7 +4876,7 @@
   },
   {
     "slug": "llm-sentiment-analysis-education-research",
-    "title": "\"LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments\"",
+    "title": "LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments",
     "tags": [
       "llm",
       "edtech-platform",
@@ -4890,7 +4890,7 @@
   },
   {
     "slug": "llm-student-misconception-identification",
-    "title": "\"What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics\"",
+    "title": "What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics",
     "tags": [
       "llm",
       "generative-ai",
@@ -4918,7 +4918,7 @@
   },
   {
     "slug": "llm-student-simulation-misconception-faithfulness",
-    "title": "\"Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators\"",
+    "title": "Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -4932,7 +4932,7 @@
   },
   {
     "slug": "llm-tts-dialogue-lesson-generation",
-    "title": "\"A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential\"",
+    "title": "A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential",
     "tags": [
       "llm",
       "generative-ai",
@@ -4945,7 +4945,7 @@
   },
   {
     "slug": "llm-tutoring-feedback-diagnosis-gap",
-    "title": "\"Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most\"",
+    "title": "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -4960,7 +4960,7 @@
   },
   {
     "slug": "llm-unlearning-math-privacy",
-    "title": "\"Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education\"",
+    "title": "Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education",
     "tags": [
       "llm",
       "privacy",
@@ -4982,7 +4982,7 @@
   },
   {
     "slug": "machines-misread-pedagogical-quality",
-    "title": "\"Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation\"",
+    "title": "Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation",
     "tags": [
       "ai-ed-evaluation",
       "llm",
@@ -4995,7 +4995,7 @@
   },
   {
     "slug": "mastery-learning",
-    "title": "\"Mastery Learning\"",
+    "title": "Mastery Learning",
     "tags": [
       "stub"
     ],
@@ -5004,7 +5004,7 @@
   },
   {
     "slug": "mbp-kt-meta-behavioral-knowledge-tracing",
-    "title": "\"MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing\"",
+    "title": "MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing",
     "tags": [
       "knowledge-tracing",
       "learning-analytics",
@@ -5016,7 +5016,7 @@
   },
   {
     "slug": "measuring-llm-tutors-teach-vs-solve",
-    "title": "\"Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact\"",
+    "title": "Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -5029,7 +5029,7 @@
   },
   {
     "slug": "medeasy-ai-standardized-patients",
-    "title": "\"MedEasy: Designing AI Standardized Patients for Clinical Consultation Training\"",
+    "title": "MedEasy: Designing AI Standardized Patients for Clinical Consultation Training",
     "tags": [
       "intelligent-tutoring",
       "generative-ai",
@@ -5042,7 +5042,7 @@
   },
   {
     "slug": "medgame-llm-medical-education-gamification",
-    "title": "\"MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education\"",
+    "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
     "tags": [
       "llm",
       "generative-ai",
@@ -5055,7 +5055,7 @@
   },
   {
     "slug": "memdora-ai-spaced-repetition",
-    "title": "\"Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition\"",
+    "title": "Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition",
     "tags": [
       "generative-ai",
       "adaptive-learning",
@@ -5094,7 +5094,7 @@
   },
   {
     "slug": "metacognitive-learning-scenarios-taxonomy",
-    "title": "\"A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints\"",
+    "title": "A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints",
     "tags": [
       "metacognition",
       "professional-training",
@@ -5107,7 +5107,7 @@
   },
   {
     "slug": "metaphysics-learning-analytics",
-    "title": "\"Toward a Metaphysics of Learning Analytics: Ontological Positioning\"",
+    "title": "Toward a Metaphysics of Learning Analytics: Ontological Positioning",
     "tags": [
       "learning-analytics",
       "higher-ed",
@@ -5120,7 +5120,7 @@
   },
   {
     "slug": "mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai",
-    "title": "\"Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI\"",
+    "title": "Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI",
     "tags": [
       "k-12",
       "teacher-role",
@@ -5133,7 +5133,7 @@
   },
   {
     "slug": "mindcopilot-llm-co-writing",
-    "title": "\"MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing\"",
+    "title": "MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing",
     "tags": [
       "feedback-loop",
       "higher-ed",
@@ -5153,7 +5153,7 @@
   },
   {
     "slug": "mixed-reality-engineering-learning",
-    "title": "\"Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning\"",
+    "title": "Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning",
     "tags": [
       "stem-education",
       "higher-ed",
@@ -5166,7 +5166,7 @@
   },
   {
     "slug": "ml-literacy-primary-education",
-    "title": "\"Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design\"",
+    "title": "Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design",
     "tags": [
       "ai-literacy",
       "k-12",
@@ -5204,7 +5204,7 @@
   },
   {
     "slug": "moodle-ai-tutoring-deep-learning",
-    "title": "\"From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle\"",
+    "title": "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle",
     "tags": [
       "intelligent-tutoring",
       "higher-ed",
@@ -5217,7 +5217,7 @@
   },
   {
     "slug": "moral-panic-genai-classroom",
-    "title": "\"Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption\"",
+    "title": "Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -5245,7 +5245,7 @@
   },
   {
     "slug": "multi-agent-llm-social-learning",
-    "title": "\"Beyond the AI Tutor: Social Learning with LLM Agents\"",
+    "title": "Beyond the AI Tutor: Social Learning with LLM Agents",
     "tags": [
       "llm",
       "intelligent-tutoring",
@@ -5258,7 +5258,7 @@
   },
   {
     "slug": "multi-representational-tools",
-    "title": "\"Multi Representational Tools\"",
+    "title": "Multi Representational Tools",
     "tags": [
       "stub"
     ],
@@ -5280,7 +5280,7 @@
   },
   {
     "slug": "multilingual-learning",
-    "title": "\"Multilingual Learning\"",
+    "title": "Multilingual Learning",
     "tags": [
       "multilingual-learning"
     ],
@@ -5348,7 +5348,7 @@
   },
   {
     "slug": "multimodal-prompting-ai-literacy",
-    "title": "\"Students' multimodal prompting practices as epistemic work in AI literacy development\"",
+    "title": "Students' multimodal prompting practices as epistemic work in AI literacy development",
     "tags": [
       "ai-literacy",
       "prompt-engineering",
@@ -5383,7 +5383,7 @@
   },
   {
     "slug": "neurodivergent-computing-students",
-    "title": "\"\\\"I can't read your mind\\\": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning\"",
+    "title": "\"I can't read your mind\": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning",
     "tags": [
       "student-experience",
       "cs-education",
@@ -5396,7 +5396,7 @@
   },
   {
     "slug": "nie-personavlm-long-term-personalization-2026",
-    "title": "\"PersonaVLM: Long-Term Personalization for AI Tutors\"",
+    "title": "PersonaVLM: Long-Term Personalization for AI Tutors",
     "tags": [
       "personalized-learning",
       "intelligent-tutoring",
@@ -5408,7 +5408,7 @@
   },
   {
     "slug": "nlp-education",
-    "title": "\"Nlp Education\"",
+    "title": "Nlp Education",
     "tags": [
       "stub"
     ],
@@ -5417,7 +5417,7 @@
   },
   {
     "slug": "nsmq-riddles-science-math-benchmark",
-    "title": "\"NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models\"",
+    "title": "NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models",
     "tags": [
       "benchmark",
       "stem-education",
@@ -5430,7 +5430,7 @@
   },
   {
     "slug": "open-source",
-    "title": "\"Open Source\"",
+    "title": "Open Source",
     "tags": [
       "stub"
     ],
@@ -5439,7 +5439,7 @@
   },
   {
     "slug": "open-systems-theory",
-    "title": "\"Open Systems Theory\"",
+    "title": "Open Systems Theory",
     "tags": [
       "stub"
     ],
@@ -5459,7 +5459,7 @@
   },
   {
     "slug": "paratutor-parent-child-tutoring",
-    "title": "\"ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time\"",
+    "title": "ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time",
     "tags": [
       "intelligent-tutoring",
       "scaffolding",
@@ -5472,7 +5472,7 @@
   },
   {
     "slug": "paternalistic-filter-llm-history-education",
-    "title": "\"The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students\"",
+    "title": "The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students",
     "tags": [
       "llm",
       "student-experience",
@@ -5523,7 +5523,7 @@
   },
   {
     "slug": "pedagogical-safety",
-    "title": "\"Pedagogical Safety\"",
+    "title": "Pedagogical Safety",
     "tags": [
       "stub"
     ],
@@ -5532,7 +5532,7 @@
   },
   {
     "slug": "pedagogy-ai-mistakes",
-    "title": "\"The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking\"",
+    "title": "The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking",
     "tags": [
       "higher-ed",
       "ai-literacy",
@@ -5545,7 +5545,7 @@
   },
   {
     "slug": "persistent-ai-agents-academic-research",
-    "title": "\"Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study\"",
+    "title": "Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study",
     "tags": [
       "llm",
       "generative-ai",
@@ -5559,7 +5559,7 @@
   },
   {
     "slug": "persona-based-tutoring",
-    "title": "\"Persona Based Tutoring\"",
+    "title": "Persona Based Tutoring",
     "tags": [],
     "content": "\nPersona-based tutoring \u2014 tutors with persistent identity and social presence \u2014 is explored in persona-based-tutoring, nie-personavlm-long-term-personalization-2026, social-robot-study-companions, and kutti-ai-voice-first-learning-companion: stable personas improve rapport and engagement but raise deception and attachment questions (affective-computing, ethics).\nPersona Based TutoringRelated Pagesspecial-r1-rl-special-education \u2014 links here",
     "url": "pages/persona-based-tutoring.html"
@@ -5578,7 +5578,7 @@
   },
   {
     "slug": "petechat-guardrailed-ai-tutor",
-    "title": "\"Tutor, Not Solver: Designing a Guardrailed AI Assistant for Learning in Higher Education (PeteChat)\"",
+    "title": "Tutor, Not Solver: Designing a Guardrailed AI Assistant for Learning in Higher Education (PeteChat)",
     "tags": [
       "intelligent-tutoring",
       "higher-ed",
@@ -5622,7 +5622,7 @@
   },
   {
     "slug": "post-covid-ict-career-aspirations",
-    "title": "\"Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?\"",
+    "title": "Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?",
     "tags": [
       "k-12",
       "higher-ed",
@@ -5647,7 +5647,7 @@
   },
   {
     "slug": "posthumanist-ai-education",
-    "title": "\"Posthumanist Ai Education\"",
+    "title": "Posthumanist Ai Education",
     "tags": [
       "stub"
     ],
@@ -5670,7 +5670,7 @@
   },
   {
     "slug": "privacy",
-    "title": "\"Privacy in Educational AI\"",
+    "title": "Privacy in Educational AI",
     "tags": [
       "privacy",
       "equity",
@@ -5681,7 +5681,7 @@
   },
   {
     "slug": "prober-ai-inquiry-writing",
-    "title": "\"Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing\"",
+    "title": "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing",
     "tags": [
       "writing-education",
       "scaffolding",
@@ -5716,7 +5716,7 @@
   },
   {
     "slug": "project-based-learning",
-    "title": "\"Project-Based Learning and AI\"",
+    "title": "Project-Based Learning and AI",
     "tags": [
       "active-learning",
       "scaffolding",
@@ -5727,7 +5727,7 @@
   },
   {
     "slug": "prompt-based-programming-lesson",
-    "title": "\"Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers\"",
+    "title": "Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -5740,7 +5740,7 @@
   },
   {
     "slug": "prompt-coach-agentic-tutor-prompt-engineering",
-    "title": "\"Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development\"",
+    "title": "Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development",
     "tags": [
       "agentic-ai",
       "cs-education",
@@ -5756,7 +5756,7 @@
   },
   {
     "slug": "prompt-engineering-education",
-    "title": "\"Prompt Engineering Education\"",
+    "title": "Prompt Engineering Education",
     "tags": [
       "stub"
     ],
@@ -5765,7 +5765,7 @@
   },
   {
     "slug": "prompt-engineering",
-    "title": "\"Prompt Engineering\"",
+    "title": "Prompt Engineering",
     "tags": [
       "stub"
     ],
@@ -5774,7 +5774,7 @@
   },
   {
     "slug": "prompt-injection-defenses-educational-llm-tutors",
-    "title": "\"Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs\"",
+    "title": "Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -5803,7 +5803,7 @@
   },
   {
     "slug": "psychometrically-aware-ai",
-    "title": "\"Psychometrically Aware Ai\"",
+    "title": "Psychometrically Aware Ai",
     "tags": [
       "stub"
     ],
@@ -5812,7 +5812,7 @@
   },
   {
     "slug": "psyscore-essay-scoring-zpd-feedback",
-    "title": "\"PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback\"",
+    "title": "PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback",
     "tags": [
       "automated-grading",
       "formative-assessment",
@@ -5826,7 +5826,7 @@
   },
   {
     "slug": "q-learning-lab-rl-teaching",
-    "title": "\"Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis\"",
+    "title": "Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis",
     "tags": [
       "active-learning",
       "higher-ed",
@@ -5851,7 +5851,7 @@
   },
   {
     "slug": "quest-ai-inquiry-preservice-teachers",
-    "title": "\"Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers\"",
+    "title": "Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers",
     "tags": [
       "ai-literacy",
       "faculty-development",
@@ -5864,7 +5864,7 @@
   },
   {
     "slug": "rag",
-    "title": "\"Rag\"",
+    "title": "Rag",
     "tags": [
       "stub"
     ],
@@ -5873,7 +5873,7 @@
   },
   {
     "slug": "randomized-controlled-trials-education",
-    "title": "\"Randomized Controlled Trials Education\"",
+    "title": "Randomized Controlled Trials Education",
     "tags": [
       "stub"
     ],
@@ -5882,7 +5882,7 @@
   },
   {
     "slug": "rct",
-    "title": "\"Randomized Controlled Trials in AI Education Research\"",
+    "title": "Randomized Controlled Trials in AI Education Research",
     "tags": [
       "rct",
       "research-methods",
@@ -5893,7 +5893,7 @@
   },
   {
     "slug": "regulating-ai-tutor-adolescent-srl",
-    "title": "\"Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use\"",
+    "title": "Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use",
     "tags": [
       "llm",
       "k-12",
@@ -5907,7 +5907,7 @@
   },
   {
     "slug": "regulation",
-    "title": "\"AI Regulation in Education\"",
+    "title": "AI Regulation in Education",
     "tags": [
       "regulation",
       "policy-maker"
@@ -5917,7 +5917,7 @@
   },
   {
     "slug": "reinforcement-learning-education",
-    "title": "\"Reinforcement Learning Education\"",
+    "title": "Reinforcement Learning Education",
     "tags": [],
     "content": "\nReinforcement learning education \u2014 teaching RL itself \u2014 is covered in q-learning-lab-rl-teaching and reinforcement-learning-measurement-model-assessment: RL curricula and assessment are being redesigned for the agentic era (stem-education, active-learning).\nReinforcement Learning EducationRelated Pagesspecial-r1-rl-special-education \u2014 links here\ntutoring-effectiveness-index \u2014 links here\nq-learning-lab-rl-teaching \u2014 RL teaching artifact (2026-07-14)",
     "url": "pages/reinforcement-learning-education.html"
@@ -5936,7 +5936,7 @@
   },
   {
     "slug": "reinforcement-learning",
-    "title": "\"Reinforcement Learning\"",
+    "title": "Reinforcement Learning",
     "tags": [
       "stub"
     ],
@@ -5945,7 +5945,7 @@
   },
   {
     "slug": "reliable-programming-kt",
-    "title": "\"Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols\"",
+    "title": "Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols",
     "tags": [
       "knowledge-tracing",
       "automated-grading",
@@ -5998,7 +5998,7 @@
   },
   {
     "slug": "rethinking-scaffolding-llm-tutors",
-    "title": "\"Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments\"",
+    "title": "Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments",
     "tags": [
       "scaffolding",
       "intelligent-tutoring",
@@ -6012,7 +6012,7 @@
   },
   {
     "slug": "retrieval-augmented-generation",
-    "title": "\"Retrieval Augmented Generation\"",
+    "title": "Retrieval Augmented Generation",
     "tags": [
       "stub"
     ],
@@ -6021,7 +6021,7 @@
   },
   {
     "slug": "retrieval-augmented-tutoring-algorithm-kite",
-    "title": "\"Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education\"",
+    "title": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -6035,14 +6035,14 @@
   },
   {
     "slug": "retrieval-practice",
-    "title": "\"Retrieval Practice\"",
+    "title": "Retrieval Practice",
     "tags": [],
     "content": "\nRetrieval practice \u2014 the testing effect \u2014 interacts with AI convenience: retrieval-practice research and generative-ai-reduced-study-time-math, ai-assistance-reduces-persistence, and memdora-ai-spaced-repetition show that AI tools that eliminate retrieval and spacing demands undermine durable memory (desirable-difficulties, self-regulated-learning).\nRetrieval PracticeRelated Pages\nmemdora-ai-spaced-repetition",
     "url": "pages/retrieval-practice.html"
   },
   {
     "slug": "rubric-aware-grading-rec-cbm",
-    "title": "\"REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading\"",
+    "title": "REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading",
     "tags": [
       "automated-grading",
       "llm",
@@ -6056,7 +6056,7 @@
   },
   {
     "slug": "same-ai-different-pathways",
-    "title": "\"Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts\"",
+    "title": "Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts",
     "tags": [
       "ai-literacy",
       "cognitive-offloading",
@@ -6069,7 +6069,7 @@
   },
   {
     "slug": "savvy-student-attention-video-learning",
-    "title": "\"SAVVY: Student Attention Visualization for Video-based Learning Analysis\"",
+    "title": "SAVVY: Student Attention Visualization for Video-based Learning Analysis",
     "tags": [
       "learning-analytics",
       "multimodal",
@@ -6083,7 +6083,7 @@
   },
   {
     "slug": "scaffolding-critical-engagement-genai-minority-students",
-    "title": "\"Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks\"",
+    "title": "Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks",
     "tags": [
       "generative-ai",
       "scaffolding",
@@ -6108,7 +6108,7 @@
   },
   {
     "slug": "scheu-mobile-chatbot-journaling-motivation-2026",
-    "title": "\"Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement\"",
+    "title": "Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement",
     "tags": [
       "self-regulated-learning",
       "generative-ai",
@@ -6136,7 +6136,7 @@
   },
   {
     "slug": "self-referential-l2-writing-llm-assessment",
-    "title": "\"Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs\"",
+    "title": "Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs",
     "tags": [
       "automated-grading",
       "writing-education",
@@ -6178,7 +6178,7 @@
   },
   {
     "slug": "shame-guilt-ai-regulation-computing-education",
-    "title": "\"\\\"Stuck in a Spiral\\\": Shame and Guilt as Social Regulators of AI Use in Computing Education\"",
+    "title": "\"Stuck in a Spiral\": Shame and Guilt as Social Regulators of AI Use in Computing Education",
     "tags": [
       "student-experience",
       "higher-ed",
@@ -6191,7 +6191,7 @@
   },
   {
     "slug": "short-answer-scoring-quality-degradation",
-    "title": "\"Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation\"",
+    "title": "Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation",
     "tags": [
       "automated-grading",
       "formative-assessment",
@@ -6219,7 +6219,7 @@
   },
   {
     "slug": "simulating-students-java-programming-errors-llms",
-    "title": "\"Simulating Students' Java Programming Errors with Large Language Models\"",
+    "title": "Simulating Students' Java Programming Errors with Large Language Models",
     "tags": [
       "llm",
       "stem-education",
@@ -6233,7 +6233,7 @@
   },
   {
     "slug": "simulation-based-learning",
-    "title": "\"Simulation Based Learning\"",
+    "title": "Simulation Based Learning",
     "tags": [
       "stub"
     ],
@@ -6242,14 +6242,14 @@
   },
   {
     "slug": "simulation-learning",
-    "title": "\"Simulation Learning\"",
+    "title": "Simulation Learning",
     "tags": [],
     "content": "\nAI simulation of learners \u2014 models that stand in for students \u2014 is studied in llm-student-simulation-misconception-faithfulness, simulating-learners-java-programming-errors-llms, simulating-learner-task-selection, and history-aware-student-simulation: simulated students enable scalable tutor training and evaluation when fidelity is validated (student-modeling, benchmark).\nSimulation LearningRelated Pages\ntech-enhanced-tabletop-cybersecurity-education",
     "url": "pages/simulation-learning.html"
   },
   {
     "slug": "singh-eduqwen-pedagogical-rl-2026",
-    "title": "\"EduQwen: Pedagogical RL\"",
+    "title": "EduQwen: Pedagogical RL",
     "tags": [
       "llm",
       "pedagogical-safety",
@@ -6273,7 +6273,7 @@
   },
   {
     "slug": "slidesqaqa-pedagogical-question-generation",
-    "title": "\"Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation\"",
+    "title": "Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation",
     "tags": [
       "prompt-engineering",
       "generative-ai",
@@ -6301,7 +6301,7 @@
   },
   {
     "slug": "socially-fluent-ai-identity-detection",
-    "title": "\"Socially fluent AI decouples conversational signals from source identity in online interaction\"",
+    "title": "Socially fluent AI decouples conversational signals from source identity in online interaction",
     "tags": [
       "ai-literacy",
       "over-reliance",
@@ -6328,7 +6328,7 @@
   },
   {
     "slug": "socratic-ai",
-    "title": "\"Socratic Ai\"",
+    "title": "Socratic Ai",
     "tags": [
       "stub"
     ],
@@ -6337,7 +6337,7 @@
   },
   {
     "slug": "socratic-method",
-    "title": "\"Socratic Method in AI Education\"",
+    "title": "Socratic Method in AI Education",
     "tags": [
       "intelligent-tutoring",
       "critical-thinking",
@@ -6348,7 +6348,7 @@
   },
   {
     "slug": "socratic-questioning",
-    "title": "\"Socratic Questioning\"",
+    "title": "Socratic Questioning",
     "tags": [
       "stub"
     ],
@@ -6357,7 +6357,7 @@
   },
   {
     "slug": "socratic-tests-conversational-assessment",
-    "title": "\"The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations\"",
+    "title": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
     "tags": [
       "llm",
       "generative-ai",
@@ -6372,7 +6372,7 @@
   },
   {
     "slug": "socraticode-k12-programming-tutor",
-    "title": "\"Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study\"",
+    "title": "Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -6400,14 +6400,14 @@
   },
   {
     "slug": "spaced-repetition",
-    "title": "\"Spaced Repetition\"",
+    "title": "Spaced Repetition",
     "tags": [],
     "content": "\nSpaced repetition with AI is examined in memdora-ai-spaced-repetition and retrieval-practice: AI optimizes scheduling of review to combat forgetting, with evidence that adaptive spacing improves retention (self-regulated-learning, personalized-learning).\nSpaced RepetitionRelated Pages\nmemdora-ai-spaced-repetition",
     "url": "pages/spaced-repetition.html"
   },
   {
     "slug": "spatial-reasoning",
-    "title": "\"Spatial Reasoning\"",
+    "title": "Spatial Reasoning",
     "tags": [
       "stub"
     ],
@@ -6416,7 +6416,7 @@
   },
   {
     "slug": "special-education-ai",
-    "title": "\"Special Education Ai\"",
+    "title": "Special Education Ai",
     "tags": [],
     "content": "\nSpecial education AI is documented in special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, genai-minoritized-knowledges-disability, and neurodivergent-computing-students: AI personalization offers new support for diverse learners when accessibility and agency are designed in (accessible-learning, equity).\nSpecial Education AiRelated Pagesspecial-r1-rl-special-education \u2014 links here\nembodied-string-learning-blindness-low-vision-musicians \u2014 Designing for What Cannot Be Seen: Supporti",
     "url": "pages/special-education-ai.html"
@@ -6432,7 +6432,7 @@
   },
   {
     "slug": "special-r1-rl-special-education",
-    "title": "\"Special-R1: Reinforcement Learning for Special Education \u2014 Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training\"",
+    "title": "Special-R1: Reinforcement Learning for Special Education \u2014 Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -6447,7 +6447,7 @@
   },
   {
     "slug": "stanbkt-bayesian-knowledge-tracing",
-    "title": "\"StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing\"",
+    "title": "StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing",
     "tags": [
       "intelligent-tutoring",
       "learning-analytics",
@@ -6460,7 +6460,7 @@
   },
   {
     "slug": "stanford-evidence-base-ai-k12-2026",
-    "title": "\"Stanford Evidence Base: AI in K-12 Education\"",
+    "title": "Stanford Evidence Base: AI in K-12 Education",
     "tags": [
       "k-12",
       "ai-literacy",
@@ -6471,7 +6471,7 @@
   },
   {
     "slug": "state-policy-teacher-ai",
-    "title": "\"How State Policy Can Help Teachers Use AI Well\"",
+    "title": "How State Policy Can Help Teachers Use AI Well",
     "tags": [
       "regulation",
       "teacher-role",
@@ -6494,7 +6494,7 @@
   },
   {
     "slug": "structrag-diagram-reasoning-ai-tutoring",
-    "title": "\"Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education\"",
+    "title": "Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education",
     "tags": [
       "intelligent-tutoring",
       "stem-education",
@@ -6509,7 +6509,7 @@
   },
   {
     "slug": "structured-ai-demonstrations-engineering-mechanics",
-    "title": "\"Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results\"",
+    "title": "Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results",
     "tags": [
       "llm",
       "stem-education",
@@ -6539,7 +6539,7 @@
   },
   {
     "slug": "student-ai-interaction",
-    "title": "\"Student Ai Interaction\"",
+    "title": "Student Ai Interaction",
     "tags": [
       "student-ai-interaction"
     ],
@@ -6548,7 +6548,7 @@
   },
   {
     "slug": "student-cheat-sheets-make-or-take",
-    "title": "\"Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets\"",
+    "title": "Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets",
     "tags": [
       "assessment",
       "metacognition",
@@ -6560,7 +6560,7 @@
   },
   {
     "slug": "student-experience",
-    "title": "\"Student Experience with AI\"",
+    "title": "Student Experience with AI",
     "tags": [
       "student-experience",
       "k-12",
@@ -6598,7 +6598,7 @@
   },
   {
     "slug": "student-misconceptions-conditionals-loops-taxonomy",
-    "title": "\"How Students (Mis)understand Conditionals and Loops -- A Taxonomy\"",
+    "title": "How Students (Mis)understand Conditionals and Loops -- A Taxonomy",
     "tags": [
       "cs-education",
       "stem-education",
@@ -6611,7 +6611,7 @@
   },
   {
     "slug": "student-modeling",
-    "title": "\"Student Modeling\"",
+    "title": "Student Modeling",
     "tags": [
       "student-modeling"
     ],
@@ -6633,7 +6633,7 @@
   },
   {
     "slug": "student-rationalization-ai-writing",
-    "title": "\"\\\"It's OK Because...\\\": The Wild West of Student Rationalization of AI Use in Academic Writing\"",
+    "title": "\"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing",
     "tags": [
       "academic-integrity",
       "llm",
@@ -6647,7 +6647,7 @@
   },
   {
     "slug": "student-regulatory-awareness-genai",
-    "title": "\"Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education\"",
+    "title": "Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education",
     "tags": [
       "generative-ai",
       "higher-ed",
@@ -6675,7 +6675,7 @@
   },
   {
     "slug": "suacode-african-students-motivations",
-    "title": "\"\\\"Why SuaCode?\\\": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course\"",
+    "title": "\"Why SuaCode?\": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course",
     "tags": [
       "cs-education",
       "equity",
@@ -6687,7 +6687,7 @@
   },
   {
     "slug": "supplynet-visual-exploratory-learning",
-    "title": "\"SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation\"",
+    "title": "SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -6714,7 +6714,7 @@
   },
   {
     "slug": "syal-multimodal-dialogue-stem-2026",
-    "title": "\"Multimodal Dialogue in STEM Education\"",
+    "title": "Multimodal Dialogue in STEM Education",
     "tags": [
       "intelligent-tutoring",
       "multimodal",
@@ -6726,7 +6726,7 @@
   },
   {
     "slug": "sycophantic-ai-social-interaction-2026",
-    "title": "\"Sycophantic AI makes human interaction feel more effortful and less satisfying over time\"",
+    "title": "Sycophantic AI makes human interaction feel more effortful and less satisfying over time",
     "tags": [
       "affective-computing",
       "student-ai-interaction",
@@ -6739,14 +6739,14 @@
   },
   {
     "slug": "synthetic-data",
-    "title": "\"Synthetic Data\"",
+    "title": "Synthetic Data",
     "tags": [],
     "content": "\nSynthetic data \u2014 AI-generated training and evaluation material \u2014 is examined in book-level-synthetic-textbook-organization, llm-educational-simulation-adhd, simulating-learner-task-selection, and data-annotations-pedagogical-hints: synthetic corpora scale research but carry fidelity and bias risks (benchmark, educational-datasets).\nSynthetic DataRelated Pages\nbook-level-synthetic-textbook-organization",
     "url": "pages/synthetic-data.html"
   },
   {
     "slug": "tactile-statistical-graphs-accessibility",
-    "title": "\"Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education\"",
+    "title": "Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education",
     "tags": [
       "special-education",
       "equity",
@@ -6759,7 +6759,7 @@
   },
   {
     "slug": "taklif-ai-interest-based-personalized-assignments",
-    "title": "\"Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments\"",
+    "title": "Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments",
     "tags": [
       "higher-ed",
       "generative-ai",
@@ -6785,7 +6785,7 @@
   },
   {
     "slug": "teacher-ai-adoption-confidence",
-    "title": "\"AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes\"",
+    "title": "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes",
     "tags": [
       "teacher-role",
       "faculty-development",
@@ -6797,14 +6797,14 @@
   },
   {
     "slug": "teacher-ai-coagency",
-    "title": "\"Teacher Ai Coagency\"",
+    "title": "Teacher Ai Coagency",
     "tags": [],
     "content": "\nTeacher-AI coagency \u2014 shared pedagogical authority \u2014 is theorized in teacher-student-agency-orchestration, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, human-ai-collaboration, and teacher-ai-collaboration: effective integration allocates judgment, oversight, and routine work deliberately (human-in-the-loop, teacher-role).\nTeacher Ai CoagencyRelated Pagessurfacing-isolated-learners \u2014 links here",
     "url": "pages/teacher-ai-coagency.html"
   },
   {
     "slug": "teacher-ai-collaboration",
-    "title": "\"Teacher Ai Collaboration\"",
+    "title": "Teacher Ai Collaboration",
     "tags": [
       "stub"
     ],
@@ -6813,7 +6813,7 @@
   },
   {
     "slug": "teacher-ai-competency",
-    "title": "\"Teacher AI Competency\"",
+    "title": "Teacher AI Competency",
     "tags": [
       "ai-literacy",
       "faculty-development",
@@ -6824,7 +6824,7 @@
   },
   {
     "slug": "teacher-authored-prompts-student-ai-dialogue",
-    "title": "\"Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation\"",
+    "title": "Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation",
     "tags": [
       "k-12",
       "student-ai-interaction",
@@ -6852,7 +6852,7 @@
   },
   {
     "slug": "teacher-professional-development",
-    "title": "\"Teacher Professional Development\"",
+    "title": "Teacher Professional Development",
     "tags": [
       "stub"
     ],
@@ -6872,7 +6872,7 @@
   },
   {
     "slug": "teacher-student-agency-orchestration",
-    "title": "\"Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing\"",
+    "title": "Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing",
     "tags": [
       "intelligent-tutoring",
       "teacher-role",
@@ -6899,7 +6899,7 @@
   },
   {
     "slug": "teachingcoach-chatbot-instructor-guidance",
-    "title": "\"TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors\"",
+    "title": "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors",
     "tags": [
       "llm",
       "teacher-role",
@@ -6912,7 +6912,7 @@
   },
   {
     "slug": "tech-enhanced-tabletop-cybersecurity-education",
-    "title": "\"Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned\"",
+    "title": "Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned",
     "tags": [
       "edtech-platform",
       "stem-education",
@@ -6937,7 +6937,7 @@
   },
   {
     "slug": "test-driven-ai-assisted-learning",
-    "title": "\"Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests\"",
+    "title": "Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests",
     "tags": [
       "cs-education",
       "llm",
@@ -6963,7 +6963,7 @@
   },
   {
     "slug": "tibetcpr-ai-training-feedback",
-    "title": "\"TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions\"",
+    "title": "TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions",
     "tags": [
       "professional-training",
       "llm",
@@ -6976,7 +6976,7 @@
   },
   {
     "slug": "tool-invariant-framework-agentic-ai",
-    "title": "\"A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI\"",
+    "title": "A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI",
     "tags": [
       "agentic-ai",
       "ai-literacy",
@@ -6994,7 +6994,7 @@
   },
   {
     "slug": "tracing-genai-literacy-interaction-patterns",
-    "title": "\"Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing\"",
+    "title": "Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing",
     "tags": [
       "ai-literacy",
       "higher-ed",
@@ -7007,7 +7007,7 @@
   },
   {
     "slug": "trio-ethnography-llm-programming-education",
-    "title": "\"Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education\"",
+    "title": "Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education",
     "tags": [
       "generative-ai",
       "stem-education",
@@ -7020,7 +7020,7 @@
   },
   {
     "slug": "trust-reliance-ai-education-2026",
-    "title": "\"Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators\"",
+    "title": "Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators",
     "tags": [
       "ai-literacy",
       "over-reliance",
@@ -7033,7 +7033,7 @@
   },
   {
     "slug": "turtleai-visual-programming-benchmark",
-    "title": "\"TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics\"",
+    "title": "TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics",
     "tags": [
       "benchmark",
       "cs-education",
@@ -7045,7 +7045,7 @@
   },
   {
     "slug": "tutoring-effectiveness-index",
-    "title": "\"The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals\"",
+    "title": "The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals",
     "tags": [
       "intelligent-tutoring",
       "llm",
@@ -7073,7 +7073,7 @@
   },
   {
     "slug": "tutors-gig-economy-automated-feedback",
-    "title": "\"Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle\"",
+    "title": "Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle",
     "tags": [
       "feedback-loop",
       "higher-ed",
@@ -7099,7 +7099,7 @@
   },
   {
     "slug": "universities-ai-era-rethinking",
-    "title": "\"The University AI Didn't Replace: Rethinking Universities in the AI Era\"",
+    "title": "The University AI Didn't Replace: Rethinking Universities in the AI Era",
     "tags": [
       "higher-ed",
       "teacher-role",
@@ -7112,7 +7112,7 @@
   },
   {
     "slug": "varga-atkins-educators-guide-multimodal-learning-genai-2025",
-    "title": "\"Educator's Guide to Multimodal Learning with GenAI\"",
+    "title": "Educator's Guide to Multimodal Learning with GenAI",
     "tags": [
       "educator-guide",
       "generative-ai",
@@ -7123,7 +7123,7 @@
   },
   {
     "slug": "vetting-dual-llm-safety-education",
-    "title": "\"VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI\"",
+    "title": "VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI",
     "tags": [
       "pedagogical-safety",
       "k-12",
@@ -7135,7 +7135,7 @@
   },
   {
     "slug": "vibe-coding-programming-process-visualizer",
-    "title": "\"From Idea to Classroom in Days: Using \\\"Vibe Coding\\\" to Create a Programming Process Visualizer from IDE Activity Logs\"",
+    "title": "From Idea to Classroom in Days: Using \"Vibe Coding\" to Create a Programming Process Visualizer from IDE Activity Logs",
     "tags": [
       "stem-education",
       "higher-ed",
@@ -7149,7 +7149,7 @@
   },
   {
     "slug": "vismatic-secure-sandbox-cs-education",
-    "title": "\"VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring\"",
+    "title": "VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring",
     "tags": [
       "edtech-platform",
       "academic-integrity",
@@ -7175,7 +7175,7 @@
   },
   {
     "slug": "visualization",
-    "title": "\"Visualization\"",
+    "title": "Visualization",
     "tags": [
       "stub"
     ],
@@ -7184,7 +7184,7 @@
   },
   {
     "slug": "vocabulary-difficulty-prediction",
-    "title": "\"What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction\"",
+    "title": "What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction",
     "tags": [
       "language-learning",
       "llm",
@@ -7213,7 +7213,7 @@
   },
   {
     "slug": "wordstream-glass-learning-analytics",
-    "title": "\"Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics\"",
+    "title": "Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics",
     "tags": [
       "learning-analytics",
       "k-12",
@@ -7226,7 +7226,7 @@
   },
   {
     "slug": "writing-education",
-    "title": "\"AI in Writing Education\"",
+    "title": "AI in Writing Education",
     "tags": [
       "writing-education",
       "ai-literacy",
@@ -7237,7 +7237,7 @@
   },
   {
     "slug": "xai-education-framework",
-    "title": "\"Explainable Artificial Intelligence in Education (XAI-ED)\"",
+    "title": "Explainable Artificial Intelligence in Education (XAI-ED)",
     "tags": [
       "intelligent-tutoring",
       "learning-analytics",
@@ -7256,7 +7256,7 @@
   },
   {
     "slug": "youtube-frames-chatgpt-education",
-    "title": "\"How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata\"",
+    "title": "How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata",
     "tags": [
       "ai-literacy",
       "student-experience",
@@ -7269,7 +7269,7 @@
   },
   {
     "slug": "zerkouk-comprehensive-review-its-2025",
-    "title": "\"Comprehensive Review of Intelligent Tutoring Systems\"",
+    "title": "Comprehensive Review of Intelligent Tutoring Systems",
     "tags": [
       "intelligent-tutoring",
       "literature-review",
@@ -7280,7 +7280,7 @@
   },
   {
     "slug": "zone-of-proximal-development",
-    "title": "\"Zone Of Proximal Development\"",
+    "title": "Zone Of Proximal Development",
     "tags": [
       "stub"
     ],

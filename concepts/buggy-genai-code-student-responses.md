@@ -1,5 +1,5 @@
 ---
-title: "When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code"
+title: 'When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code'
 created: 2026-07-07
 updated: 2026-07-07
 type: concept

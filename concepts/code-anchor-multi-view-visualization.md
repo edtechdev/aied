@@ -3,7 +3,7 @@ title: "Code as Anchor, Memory and Metaphor as Support: Learner Experiences with
 created: 2026-06-19
 updated: 2026-06-19
 type: concept
-tags: ["cs-education", "student-experience", "scaffolding", "active-learning", "feedback-loop"]
+tags: [cs-education, student-experience, scaffolding, active-learning, feedback-loop]
 sources: [raw/papers/2606.19570.md]
 confidence: high
 ---

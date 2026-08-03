@@ -1,5 +1,5 @@
 ---
-title: Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+title: "Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course"
 created: 2026-07-31
 updated: 2026-07-31
 type: concept

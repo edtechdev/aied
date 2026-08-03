@@ -3,7 +3,7 @@ title: "Expert Cognition Dashboard: From Learning Analytics to Cognition Intelli
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: ["learning-analytics", "intelligent-tutoring", "adaptive-learning", "student-experience", "teacher-role", "ai-literacy"]
+tags: [learning-analytics, intelligent-tutoring, adaptive-learning, student-experience, teacher-role, ai-literacy]
 sources: ["raw/papers/2605.17263.md"]
 confidence: medium
 ---

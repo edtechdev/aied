@@ -3,7 +3,7 @@ title: "Socially fluent AI decouples conversational signals from source identity
 created: 2026-05-25
 updated: 2026-05-25
 type: concept
-tags: ["ai-literacy", "over-reliance", "student-experience", "llm", "affective-computing"]
+tags: [ai-literacy, over-reliance, student-experience, llm, affective-computing]
 sources: [raw/papers/2605.23426.md]
 confidence: high
 ---

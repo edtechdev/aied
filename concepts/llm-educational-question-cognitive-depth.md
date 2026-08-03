@@ -3,7 +3,7 @@ title: "From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Gen
 created: 2026-06-18
 updated: 2026-06-18
 type: concept
-tags: ["llm", "generative-ai", "automated-grading", "assessment", "writing-education"]
+tags: [llm, generative-ai, automated-grading, assessment, writing-education]
 sources: [raw/papers/2606.18257.md]
 confidence: high
 ---

@@ -1,5 +1,5 @@
 ---
-title: Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images
+title: "Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images"
 created: 2026-06-30
 updated: 2026-06-30
 type: concept

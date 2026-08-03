@@ -1,5 +1,5 @@
 ---
-title: "Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study"
+title: 'Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study'
 created: 2026-06-26
 updated: 2026-06-26
 type: concept

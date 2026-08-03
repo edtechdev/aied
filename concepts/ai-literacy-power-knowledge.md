@@ -1,5 +1,5 @@
 ---
-title: "AI Literacy: An Exercise in Power-Knowledge"
+title: 'AI Literacy: An Exercise in Power-Knowledge'
 created: 2026-07-31
 updated: 2026-07-31
 type: concept

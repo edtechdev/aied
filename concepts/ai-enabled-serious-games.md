@@ -1,9 +1,9 @@
 ---
-title: "AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems"
+title: 'AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems'
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: ["intelligent-tutoring", "generative-ai", "adaptive-learning", "edtech-platform", "professional-training", "llm"]
+tags: [intelligent-tutoring, generative-ai, adaptive-learning, edtech-platform, professional-training, llm]
 sources: ["raw/papers/2605.21962.md"]
 confidence: medium
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators"
+title: 'Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators'
 created: 2026-08-03
 updated: 2026-08-03
 type: concept

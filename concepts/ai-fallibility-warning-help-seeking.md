@@ -3,7 +3,7 @@ title: Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tut
 created: 2026-06-03
 updated: 2026-06-03
 type: concept
-tags: ['intelligent-tutoring', 'student-experience', 'hallucination-risk', 'trust-calibration']
+tags: [intelligent-tutoring, student-experience, hallucination-risk, trust-calibration]
 sources: [raw/papers/2606.03822.md]
 confidence: high
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets"
+title: 'Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets'
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

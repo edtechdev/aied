@@ -1,5 +1,5 @@
 ---
-title: "AI Coaching for Accelerating Human Skill Development with Reinforcement Learning"
+title: AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 created: 2026-06-25
 updated: 2026-06-25
 type: concept

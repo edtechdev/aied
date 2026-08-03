@@ -1,5 +1,5 @@
 ---
-title: "Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks"
+title: 'Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks'
 created: 2026-05-15
 updated: 2026-05-15
 type: concept

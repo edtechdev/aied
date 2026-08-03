@@ -1,5 +1,5 @@
 ---
-title: "Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study"
+title: 'Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study'
 created: 2026-05-15
 updated: 2026-05-15
 type: concept

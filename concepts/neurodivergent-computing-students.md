@@ -3,7 +3,7 @@ title: "\"I can't read your mind\": A Study of Neurodivergent Computing Students
 created: 2026-05-25
 updated: 2026-05-25
 type: concept
-tags: ["student-experience", "cs-education", "special-education", "equity", "collaborative-learning"]
+tags: [student-experience, cs-education, special-education, equity, collaborative-learning]
 sources: [raw/papers/2605.23823.md]
 confidence: high
 ---

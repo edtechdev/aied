@@ -3,7 +3,7 @@ title: Toward Accessible Psychotherapy Training Using AI-Driven Interactive Pati
 created: 2026-06-18
 updated: 2026-06-18
 type: concept
-tags: ["generative-ai", "llm", "higher-ed", "active-learning", "feedback-loop"]
+tags: [generative-ai, llm, higher-ed, active-learning, feedback-loop]
 sources: [raw/papers/2606.17786.md]
 confidence: high
 ---

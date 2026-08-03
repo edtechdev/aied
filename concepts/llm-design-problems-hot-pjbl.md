@@ -1,5 +1,5 @@
 ---
-title: LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
+title: "LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning"
 created: 2026-07-14
 updated: 2026-07-14
 type: concept

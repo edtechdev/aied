@@ -1,9 +1,9 @@
 ---
-title: "Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence"
+title: 'Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence'
 created: 2026-06-12
 updated: 2026-06-12
 type: concept
-tags: ["generative-ai", "llm", "personalized-learning", "scaffolding", "higher-ed"]
+tags: [generative-ai, llm, personalized-learning, scaffolding, higher-ed]
 sources: [raw/papers/2606.12441.md]
 confidence: high
 ---

@@ -3,7 +3,7 @@ title: "Auditing Institutional Heterogeneity for Generative AI in Patient Educat
 created: 2026-07-28
 updated: 2026-07-28
 type: concept
-tags: ["generative-ai", health-education, equity, content-quality]
+tags: [generative-ai, health-education, equity, content-quality]
 sources: [raw/papers/2607.22606.md]
 confidence: high
 ---

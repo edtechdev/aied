@@ -3,7 +3,7 @@ title: Feedback Loop
 created: 2026-05-13
 updated: 2026-05-13
 type: concept
-tags: ["feedback-loop", "formative-assessment", "personalized-learning"]
+tags: [feedback-loop, formative-assessment, personalized-learning]
 sources: []
 confidence: low
 
