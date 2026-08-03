@@ -15,3 +15,6 @@ This page is a stub. Content will be added as relevant sources are ingested.
 - [[critical-genai-use-predictors]] — Kuhn's epistemic orientation and intellectual values as predictors
 - [[post-instrumental-learning-capacity-dissolution]]
 - [[ai-vocational-education-training-review]]
+- [[socratic-tests-conversational-assessment]]
+- [[hypergamification-game-engine-lms]]
+- [[cognitive-commons-ai-expertise-regeneration]]

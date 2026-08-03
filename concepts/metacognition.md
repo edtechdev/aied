@@ -98,3 +98,5 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[ai-literacy-continuum-higher-education]]
 - [[ai-adoption-training-public-sector]]
+- [[scaffolding-critical-engagement-genai-minority-students]]
+- [[icap-cognitive-engagement-llm-agents]]

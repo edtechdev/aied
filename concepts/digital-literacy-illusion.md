@@ -35,6 +35,7 @@ With 76.5% of students demanding pedagogical reform toward hands-on, active tech
 - [[ai-fatigue-academic-contexts]] — AI fatigue as a 5-dimension construct
 - [[genai-assessment-governance]] — GenAI governance in STEM assessment framework
 - [[k-12]] — K-12 education and AI
+- [[genai-expertise-pathways-sysadmin]]
 
 ## Citation
 **APA:** Rodriguez-Alvarez, N., Blanch-Marsolini, A. M., Vara-Gutierrez, S., Gil-Garcia, H., Calzon-Dueñas, J., & Rodriguez-Merino, F. (2026). *The illusion of competence: Self-perceived digital literacy and AI readiness among European secondary students*. arXiv:2605.26010. cs.CY.

@@ -28,6 +28,7 @@ This book chapter provides a comprehensive survey of AI integration in serious g
 - [[agentic-ai-ecosystems-higher-education]] — LLM and agent-based integration in serious games mirrors multi-agent AI frameworks
 - [[adaptive-learning-systems]] — Extends adaptive learning principles to game-based training across professional domains
 - [[ai-k12-evidence-base]] — Highlights critical gap in empirical evidence for long-term learning outcomes in AI-enabled games
+- [[hypergamification-game-engine-lms]]
 
 ## Citation
 

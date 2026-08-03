@@ -16,3 +16,4 @@ This is a stub page for the concept of automated assessment. It was created to r
 
 - [[ai-scoring-language-bias-physics]]
 - [[human-vs-llm-ordered-coding]]
+- [[socratic-tests-conversational-assessment]]

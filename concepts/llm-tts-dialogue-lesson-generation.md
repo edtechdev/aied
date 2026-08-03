@@ -31,6 +31,7 @@ confidence: medium
 - [[personalized-learning]] - adaptive lesson generation
 - [[active-learning]] - dialogue-based engagement
 - [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Langua
+- [[connected-ai-lesson-planning-vietnam]]
 
 ## Citation
 **APA:** Kumoi, G., Watanabe, F., Suko, T., Ishida, T., et al. (2026). *A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential*. arXiv:2607.12235.

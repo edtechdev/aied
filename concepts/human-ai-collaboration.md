@@ -20,3 +20,8 @@ confidence: low
 - [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions
 - [[student-mental-models-genai]] — Prerequisite for productive collaboration (2026-07-14)
 - [[human-ai-collaboration-trust-expectations]]
+- [[agreement-not-quality-llm-coding-verification]]
+- [[human-llm-collaborative-coding-k12-educator-ai]]
+- [[genai-expertise-pathways-sysadmin]]
+- [[llm-facilitation-timing-online-discussions]]
+- [[cognitive-commons-ai-expertise-regeneration]]

@@ -25,3 +25,5 @@ confidence: low
 - [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awarene
 - [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction
 - [[genai-mindtool-generative-learning]]
+- [[genai-expertise-pathways-sysadmin]]
+- [[cognitive-commons-ai-expertise-regeneration]]

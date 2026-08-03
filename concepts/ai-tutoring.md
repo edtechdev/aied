@@ -21,3 +21,4 @@ AI tutoring encompasses the use of artificial intelligence — particularly larg
 - [[scaffolding]]
 - [[feedback-loop]]
 - [[personalized-learning]]
+- [[socratic-tests-conversational-assessment]]

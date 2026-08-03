@@ -19,6 +19,7 @@ This scoping review synthesizes 90 peer-reviewed [[llm]]-based programming suppo
 - [[genai-policies-higher-ed-computing]] — policy layer of assistance governance
 - [[structured-llm-feedback-programming]] — example of bounded programming feedback
 - [[llm-feedback-programming-classroom]] — classroom deployment of LLM programming support
+- [[structured-ai-demonstrations-engineering-mechanics]]
 
 ## Citation
 **APA:** Kim, Monisha, Wu & Smith IV (2026). *Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance*. arXiv:2607.21257. arXiv preprint (cs.HC).
