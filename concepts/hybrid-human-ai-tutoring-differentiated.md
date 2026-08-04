@@ -36,6 +36,7 @@ This study extends the taxonomy in [[tutoring-specific-vs-general-ai]] by showin
 - [[k-12-ai-education]] — Grade 5-8 context and K-12 policy implications
 - [[ai-learning-transfer]] — MAP growth as transfer measure
 - [[human-ai-co-mentorship]] — Parallel work on human-AI co-instruction
+- [[oecd-digital-education-outlook-2026]]
 
 ## Citation
 

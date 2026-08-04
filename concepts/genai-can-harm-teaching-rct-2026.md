@@ -56,6 +56,7 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - [[genai-expertise-pathways-sysadmin]] — parallel expertise-compression finding
 - [[care-full-feedback-genai]] — relational teaching displaced by AI mediation
 - [[teacher-role]] — principal–agent tension in AI-assisted teaching
+- [[oecd-digital-education-outlook-2026]]
 
 ## Sources
 - Sungu, A., Lira, B., & Duckworth, A. L. (2026). Generative AI Can Harm Teaching. SSRN Working Paper 7007339. [SSRN](https://ssrn.com/abstract=7007339)
