@@ -48,6 +48,7 @@ Generative AI can function as either a cognitive tool (amplifying thinking) or a
 - [[scaffolding]] — Designing AI scaffolds that promote rather than replace thinking
 - [[ai-learning-companions-framework]] — Prioritizing learning over performance
 - [[learning-by-chatting-genai-impact]] — ChatGPT improved performance on search tasks but reduced actual learning outcomes
+- [[oecd-digital-education-outlook-2026]]
 
 ## Citation
 

@@ -88,3 +88,4 @@ Student and faculty over-reliance on AI tools in education
 - [[scaffolding-critical-engagement-genai-minority-students]]
 - [[genai-expertise-pathways-sysadmin]]
 - [[cognitive-commons-ai-expertise-regeneration]]
+- [[oecd-digital-education-outlook-2026]]

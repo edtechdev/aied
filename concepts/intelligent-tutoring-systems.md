@@ -30,3 +30,4 @@ confidence: low
 - [[gaze-informed-ai-children]] — intelligent tutoring systems
 - [[kutti-ai-voice-first-learning-companion]] — lightweight multi-signal alternative to full learner modeling
 - [[llm-judged-helpfulness-pedagogy-signal]]
+- [[oecd-digital-education-outlook-2026]]

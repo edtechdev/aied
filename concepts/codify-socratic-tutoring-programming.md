@@ -54,6 +54,7 @@ Initial deployment in programming courses showed promising results for student e
 - [[socratic-ai-dialogue]] — Socratic questioning approaches in AI tutoring
 - [[pedagogical-llm-training]] — Training LLMs for pedagogical interaction patterns
 - [[agentic-ai-ecosystems-higher-education]] — Multi-agent AI frameworks for higher education
+- [[oecd-digital-education-outlook-2026]]
 
 ## Citation
 **APA:** Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelligent Socratic tutoring system for programming education. *The International FLAIRS Conference Proceedings*, *39*(1). https://doi.org/10.32473/flairs.39.1.141554
