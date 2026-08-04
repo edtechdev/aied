@@ -15,3 +15,4 @@ confidence: low
 
 ## Related Pages
 - [[iks-instruct-dataset-indian-knowledge]]
+- [[egai-power-systems-education]] — Hands-on executable framework for engineering-grounded AI in power systems education

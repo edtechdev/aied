@@ -1863,3 +1863,33 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Source status: arXiv cs.CY ✓ (34 via listing pages) | cs.HC ✓ (50 via listing pages) | Semantic Scholar ✓ 1 (0 in-window) | OpenAlex ✓ 10 (0 in-window, future-dated placeholders)
 - Ingested 12 papers; 6 already in wiki (skipped: 2607.28179, 2607.28041, 2607.27586, 2607.28128, 2607.27547, 2607.28203); 2 not relevant
 - Wiki pages: 582
+
+## [2026-08-04] ingest | 4-paper batch: LLM safety eval, EGAI power systems, music scoring, GenAI literacy
+
+- **Source status:** arXiv ✓ 4 (cs.CY + cs.HC + cs.AI + cs.SD)
+- **Ingested (4 papers):**
+  - [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
+    Tags: [llm, k-12, pedagogical-safety, ai-tutor-safety-harms, benchmark]
+    Source: raw/papers/2608.02024.md (arXiv:2608.02024)
+  - [[egai-power-systems-education]] — Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
+    Tags: [ai-education, stem-education, curriculum-design, open-source, professional-training]
+    Source: raw/papers/2608.02599.md (arXiv:2608.02599)
+  - [[gpt4o-mini-music-analysis-scoring]] — Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias
+    Tags: [automated-grading, llm, assessment-validity, higher-ed, ai-ed-evaluation]
+    Source: raw/papers/2608.01783.md (arXiv:2608.01783)
+  - [[rail-ed-genai-literacy-teacher-education]] — Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education
+    Tags: [ai-literacy, generative-ai, k-12, teacher-role, educational-theory]
+    Source: raw/papers/2608.01705.md (arXiv:2608.01705)
+
+- **Key findings:**
+  - EduZone: automated safety-eval framework for K-12 LLMs; education-specific harms + multi-turn vulnerabilities
+  - EGAI: hands-on executable modules for AI-in-power-systems education; progressive difficulty from DNN to PINNs
+  - GPT-4o-mini scoring: few-shot CoT agrees best with teacher means; RAG over-scores; self-consistency trades agreement for repeatability
+  - RAIL-Ed: 6-pillar GenAI literacy framework for K-12 teacher education from 67-study systematic review; 3-level maturity rubric
+- **Index:** 594 pages
+
+## [2026-08-04] meta | scan-complete
+- Window: 2026-08-03 → 2026-08-04
+- Source status: arXiv ✓ 4 | Semantic Scholar ✓ N/A | OpenAlex ✓ N/A
+- Ingested 4 papers; 0 already in wiki
+- Wiki pages: 594

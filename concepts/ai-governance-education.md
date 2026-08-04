@@ -19,3 +19,4 @@ confidence: low
 
 - [[metaphysics-learning-analytics]] — Norm-embedded LA and the is/ought problem in educational analytics- [[genai-policies-higher-ed-computing]] - institutional vs course-level GenAI policy coordination
 - [[ai-ethics-education-public-discourse]] - governance of ethical AI use
+- [[eduzone-llm-safety-k12]] — EduZone: an evaluation framework for LLM safety in K-12 education

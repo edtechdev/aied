@@ -104,3 +104,4 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - [[eduguard-safe-rag-llm-tutor]] — EduGuard's verification + overreliance-control modules operationalise the safety-harms taxonomy for programming tutors.
 - [[vetting-dual-llm-safety-education]]
 - [[llm-children-reading-story-generation]] — Safety guarantees in children's reading generation- [[genai-assessment-governance]] — Governance framework provides structured decisions about when AI use is appropriate
+- [[eduzone-llm-safety-k12]] — EduZone: an evaluation framework for LLM safety in K-12 education

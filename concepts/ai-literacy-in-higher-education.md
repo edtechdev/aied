@@ -17,3 +17,4 @@ confidence: low
 ## Related Pages
 - [[dot-framework-survey]]
 - [[gender-differences-ai-literacy-deepfake]] -- Single-day AI literacy workshops partially narrow gender STEM gaps; males need targeted deepfake safety education
+- [[rail-ed-genai-literacy-teacher-education]] — RAIL-Ed: an integrative, developmental framework for GenAI literacy in K-12 teacher education
