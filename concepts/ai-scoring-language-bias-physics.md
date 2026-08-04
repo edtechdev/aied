@@ -63,3 +63,4 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[automatic-short-answer-grading]]
 - [[ai-assessment-human-tutors]]
 - [[educational-measurement]]
+- [[gpt4o-mini-music-analysis-scoring]] — GPT-4o-mini vs teacher mean scores for automated scoring of music analysis responses

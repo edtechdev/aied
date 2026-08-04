@@ -56,3 +56,4 @@ confidence: low
 - [[agreement-not-quality-llm-coding-verification]]
 - [[human-llm-collaborative-coding-k12-educator-ai]]
 - [[connected-ai-lesson-planning-vietnam]]
+- [[rail-ed-genai-literacy-teacher-education]] — RAIL-Ed: an integrative, developmental framework for GenAI literacy in K-12 teacher education

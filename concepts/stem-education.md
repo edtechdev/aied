@@ -52,3 +52,4 @@ AI applications in science, technology, engineering, and mathematics education
 - [[genai-runaway-object-math-higher-ed]]
 - [[ai-tpack-preservice-math-teachers]]
 - [[structured-ai-demonstrations-engineering-mechanics]]
+- [[egai-power-systems-education]] — Hands-on executable framework for engineering-grounded AI in power systems education

@@ -18,3 +18,4 @@ confidence: low
 - [[ai-literacy-continuum-higher-education]]
 - [[ai-adoption-training-public-sector]]
 - [[connected-ai-lesson-planning-vietnam]]
+- [[egai-power-systems-education]] — Hands-on executable framework for engineering-grounded AI in power systems education

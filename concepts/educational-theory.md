@@ -19,3 +19,4 @@ confidence: low
 - [[socratic-tests-conversational-assessment]]
 - [[hypergamification-game-engine-lms]]
 - [[cognitive-commons-ai-expertise-regeneration]]
+- [[rail-ed-genai-literacy-teacher-education]] — RAIL-Ed: an integrative, developmental framework for GenAI literacy in K-12 teacher education

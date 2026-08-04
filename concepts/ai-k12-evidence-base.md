@@ -79,3 +79,4 @@ The review frames findings through six established principles. See [[ai-learning
 -
 - [[awareness-technological-isomorphism]] — Empirical case study of AI integration in fifth-grade mathematics
 - [[culturally-aware-aied-community-learning]] — Community-based AIED framework for cultural contexts- [[aied-carbon-footprint-reporting]] — Environmental cost reporting as an evidence dimension for AIED deployment
+- [[eduzone-llm-safety-k12]] — EduZone: an evaluation framework for LLM safety in K-12 education

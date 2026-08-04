@@ -27,6 +27,7 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
   - [[formative-assessment]]
   - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[ai-scoring-language-bias-physics]]
+- [[gpt4o-mini-music-analysis-scoring]] — GPT-4o-mini vs teacher mean scores for automated scoring of music analysis responses
 
 ## Citation
 

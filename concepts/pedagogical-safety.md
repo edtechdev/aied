@@ -17,3 +17,4 @@ confidence: low
 
 - [[vetting-dual-llm-safety-education]]
 - [[llm-unlearning-math-privacy]]
+- [[eduzone-llm-safety-k12]] — EduZone: an evaluation framework for LLM safety in K-12 education
