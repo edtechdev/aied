@@ -20,6 +20,7 @@ Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Info
 - [[cs-education]] — Computer science pedagogy
 - [[mastery-learning]] — Independent learning goals
 - [[genai-literacy-image-discrimination]] — GenAI literacy training for image discrimination
+- [[rail-ed-genai-literacy-teacher-education]] — RAIL-Ed: an integrative, developmental framework for GenAI literacy in K-12 teacher education
 
 ## Citation
 **APA:** Liu & Levy (2026). *Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education*. arXiv:2606.00038.

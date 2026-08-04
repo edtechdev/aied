@@ -1,6 +1,25 @@
 # Journal
 
-**Last updated:** 2026-08-03 | **Total entries:** 447
+**Last updated:** 2026-08-04 | **Total entries:** 451
+
+## 2026-08-04
+
+- ● [[eduzone-llm-safety-k12]] — raw/papers/2608.02024.md
+  **"EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers"**
+  Tags: [llm, k-12, pedagogical-safety, ai-tutor-safety-harms, benchmark]
+
+- ● [[egai-power-systems-education]] — raw/papers/2608.02599.md
+  **"Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework"**
+  Tags: [ai-education, stem-education, curriculum-design, open-source, professional-training]
+
+- ● [[gpt4o-mini-music-analysis-scoring]] — raw/papers/2608.01783.md
+  **"Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias"**
+  Tags: [automated-grading, llm, assessment-validity, higher-ed, ai-ed-evaluation]
+
+- ● [[rail-ed-genai-literacy-teacher-education]] — raw/papers/2608.01705.md
+  **"Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education"**
+  Tags: [ai-literacy, generative-ai, k-12, teacher-role, educational-theory]
+
 
 ## 2026-08-03
 

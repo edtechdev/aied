@@ -56,3 +56,4 @@ Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Bet
 - [[ai-scoring-language-bias-physics]]
 - [[socratic-tests-conversational-assessment]]
 - [[responsible-assessment-ai-era-stanford-2026]] — Catalogs AI-scoring validity threats (construct-irrelevant variance, calibration, generalization)
+- [[gpt4o-mini-music-analysis-scoring]] — GPT-4o-mini vs teacher mean scores for automated scoring of music analysis responses

@@ -28,3 +28,4 @@ confidence: low
 - [[ai-vocational-education-training-review]]
 - [[genai-expertise-pathways-sysadmin]]
 - [[cognitive-commons-ai-expertise-regeneration]]
+- [[egai-power-systems-education]] — Hands-on executable framework for engineering-grounded AI in power systems education
