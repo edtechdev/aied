@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>inclusive-ai — AI Ed Wiki</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        nav ul {{ display: flex; flex-wrap: wrap; gap: 0.5rem; padding: 0; margin: 0 0 1.5rem 0; list-style: none; }}
+        nav a {{ text-decoration: none; padding: 0.35rem 0.75rem; border-radius: 4px; background: rgba(0,0,0,0.04); font-size: 0.875rem; }}
+        .article-card {{
+            margin-bottom: 1.5rem;
+            padding: 1.25rem 1.5rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 10px;
+            background: var(--card-background-color);
+            transition: box-shadow 0.15s, border-color 0.15s;
+        }}
+        .article-card:hover {{
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            border-color: var(--primary);
+        }}
+        .article-card h3 {{ margin: 0 0 0.4rem 0; font-size: 1.05rem; line-height: 1.35; }}
+        .article-card h3 a {{ text-decoration: none; color: var(--color); }}
+        .article-card h3 a:hover {{ color: var(--primary); }}
+        .article-card .snippet {{ font-size: 0.875rem; color: var(--muted-color); margin-top: 0.5rem; line-height: 1.55; }}
+        .article-card .snippet p {{ margin: 0; }}
+        .article-card .tags {{ margin-top: 0.75rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }}
+        .article-card .tags a {{ display: inline-block; padding: 0.15rem 0.5rem; background: var(--primary); color: var(--primary-inverse); border-radius: 4px; font-size: 0.72rem; text-decoration: none; }}
+        .article-card .tags a:hover {{ opacity: 0.85; }}
+        footer {{ margin-top: 3rem; padding: 2rem 0; border-top: 1px solid var(--card-border-color); text-align: center; color: var(--muted-color); font-size: 0.85rem; }}
+    </style>
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../tags.html">🏷️ Tags</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+            </ul>
+        </nav>
+        <h1>🏷️ inclusive-ai</h1>
+        <p>2 article(s) tagged with <strong>inclusive-ai</strong></p>
+        <div style="margin-bottom:1.25rem;"><div class="concept-summary" style="background:rgba(0,0,0,0.02);padding:0.75rem 1rem;border-radius:8px;font-size:0.9rem;line-height:1.5;">*Stub page — full synthesis pending.*</div><div style="margin-top:0.5rem;font-size:0.85rem;"><em>See also:</em> <a href="../pages/genai-minoritized-knowledges-disability.html">Genai Minoritized Knowledges Disability</a> · <a href="../pages/neurodivergent-computing-students.html">Neurodivergent Computing Students</a> · <a href="../pages/genai-architecture-education.html">Genai Architecture Education</a> · <a href="../pages/edtech-design-time-generative-ui.html">Edtech Design Time Generative Ui</a></div></div>
+    </header>
+    <main class="container">
+                <div class="article-card">
+            <h3><a href="../pages/equity-in-ai-education.html">Equity in AI Education</a></h3>
+            <div class="snippet">Synthesis Equity in AI Education addresses systemic disparities in access to, representation within, and benefits from AI educational tools. Three critical dimensions emerge: 1. Access & Infrastructure Equity Digital Divide: Unequal access to AI-powered learning tools across soci...</div>
+            <div class="tags"><a href="accessible-learning.html">accessible-learning</a><a href="culturally-sustaining-pedagogy.html">culturally-sustaining-pedagogy</a><a href="digital-divide.html">digital-divide</a><a href="equity.html">equity</a></div>
+        </div>
+        <div class="article-card">
+            <h3><a href="../pages/genai-architecture-education.html">Gen-AI-tecture: using generative AI to support architectural students in design tasks</a></h3>
+            <div class="snippet">Timo Kapsalis (2026) — (Independent). arXiv:2605.21361 [cs.HC] — Submitted to Journal of Architectural Education 📄 Full text (arXiv) Kapsalis (2026) presents one of the first empirical studies of generative AI integration in architectural design education, using a locally execute...</div>
+            <div class="tags"><a href="generative-ai.html">generative-ai</a><a href="higher-ed.html">higher-ed</a><a href="student-experience.html">student-experience</a><a href="creative-thinking.html">creative-thinking</a><a href="ai-literacy.html">ai-literacy</a><a href="personalized-learning.html">personalized-learning</a><a href="professional-training.html">professional-training</a></div>
+        </div>
+
+    </main>
+    <footer class="container">
+        <small>AI Ed Wiki · <a href="../index.html">Home</a> · <a href="../tags.html">All Tags</a> · Generated 2026-08-01</small>
+    </footer>
+</body>
+</html>

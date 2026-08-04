@@ -6,7 +6,35 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2026 17:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:30:29 +0000</lastBuildDate>
+    <item>
+      <title>EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers</title>
+      <link>https://edtechdev.github.io/aied/pages/eduzone-llm-safety-k12.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/eduzone-llm-safety-k12.html</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**EduZone is an automated evaluation framework that generates contextually grounded adversarial interactions to probe LLM safety in K-12 education, revealing that models are more vulnerable to education-specific harms and dynamic multi-turn conversations than existing guardrails address.**</p>]]></description>
+    </item>
+    <item>
+      <title>Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</title>
+      <link>https://edtechdev.github.io/aied/pages/egai-power-systems-education.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/egai-power-systems-education.html</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**An open, executable module library for engineering-grounded AI (EGAI) in power systems education lowers the entry barrier for newcomers, with a progressive difficulty ladder from DNN templates to physics-informed neural networks, delivered via IEEE online course and PES webinars.**</p>]]></description>
+    </item>
+    <item>
+      <title>Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias</title>
+      <link>https://edtechdev.github.io/aied/pages/gpt4o-mini-music-analysis-scoring.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/gpt4o-mini-music-analysis-scoring.html</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought prompting agreeing most strongly with teacher means while RAG systematically over-scores and self-consistency trades individual-level agreement for repeatability.**</p>]]></description>
+    </item>
+    <item>
+      <title>Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education</title>
+      <link>https://edtechdev.github.io/aied/pages/rail-ed-genai-literacy-teacher-education.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/rail-ed-genai-literacy-teacher-education.html</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**RAIL-Ed is an integrative, developmental, and dialectical framework for generative AI literacy in K-12 teacher education, built from a systematic review of 67 studies and specifying six interdependent pillars with a three-level maturity rubric.**</p>]]></description>
+    </item>
     <item>
       <title>Access is Not Enough: Human Support Improves Engagement with AI Tutoring</title>
       <link>https://edtechdev.github.io/aied/pages/access-not-enough-ai-tutoring-2026.html</link>
@@ -258,34 +286,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-mindtool-generative-learning.html</guid>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>Argues GenAI can serve as a Mindtool (knowledge representation tool) to facilitate Generative Learning rather than short-circuiting it. Proposes 8 pedagogical roles for GenAI: learning strategy/study buddy, collaborative thinking tool, possibility engine, Socratic opponent, personal tutor, exploratory research engine, motivator, and dynamic assessor. Provides a pedagogical framework for designing generative learning activities using GenAI.</p>]]></description>
-    </item>
-    <item>
-      <title>GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics</title>
-      <link>https://edtechdev.github.io/aied/pages/genai-runaway-object-math-higher-ed.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-runaway-object-math-higher-ed.html</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Qualitative study of 10 mathematics academics at a Swedish university, using Cultural-Historical Activity Theory (CHAT). Identifies 5 themes of GenAI-driven change: boundary fluidity, shifting objects, epistemic concerns, distributed innovation, and reconfigured roles. Adoption unfolds informally through student use and peer networks rather than institutional policy. GenAI is conceptualized as a 'runaway object' that evolves unpredictably and disrupts established boundaries.</p>]]></description>
-    </item>
-    <item>
-      <title>Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust</title>
-      <link>https://edtechdev.github.io/aied/pages/human-ai-collaboration-trust-expectations.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-ai-collaboration-trust-expectations.html</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Survey of 245 higher ed students using Expectation Confirmation Theory (ECT). Found positive relationships between effort expectation and performance expectation, with confirmation of GenAI collaboration significantly influencing intentions. GenAI distrust negatively moderates both (1) the effort→performance expectation link and (2) confirmation→collaboration intention link. Extends ECT to Human-AI collaboration in education.</p>]]></description>
-    </item>
-    <item>
-      <title>Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis</title>
-      <link>https://edtechdev.github.io/aied/pages/human-vs-llm-ordered-coding.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-vs-llm-ordered-coding.html</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Critical methodological paper on using LLMs for automated qualitative coding of ordered data (where code order matters). Presents two evaluation approaches for ordered coding quality. Demonstrates systematic and statistically significant differences between LLM and human coding across structural, transitional, and code-level metrics. Warns that LLM coding errors can propagate through automated feedback systems, amplifying inaccuracies. Uses consistent context window prompting method.</p>]]></description>
-    </item>
-    <item>
-      <title>Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education</title>
-      <link>https://edtechdev.github.io/aied/pages/llm-unlearning-math-privacy.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/llm-unlearning-math-privacy.html</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Applied gradient-based LLM unlearning to 3 models pre-trained on ~3M Algebra I tutoring data points. Unlearned PII and harmful content while maintaining math task utility. PII output rate and harmfulness substantially decreased post-unlearning. Demonstrates a practical approach to making LLM-based math tutors more responsible and privacy-preserving.</p>]]></description>
     </item>
   </channel>
 </rss>
