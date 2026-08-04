@@ -9,6 +9,7 @@
 ---
 
 ## Concepts
+
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[academic-integrity]] — Academic Integrity
 - [[academic-writing]] — Academic Writing
@@ -448,6 +449,7 @@
 - [[nie-personavlm-long-term-personalization-2026]] — 'PersonaVLM: Long-Term Personalization for AI Tutors'
 - [[nlp-education]] — Nlp Education
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
 - [[open-source]] — Open Source
 - [[open-systems-theory]] — Open Systems Theory
 - [[over-reliance]] — Over-reliance on AI

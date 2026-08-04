@@ -1893,3 +1893,5 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Source status: arXiv ✓ 4 | Semantic Scholar ✓ N/A | OpenAlex ✓ N/A
 - Ingested 4 papers; 0 already in wiki
 - Wiki pages: 594
+
+- 2026-08-04 | ingested [oecd-digital-education-outlook-2026](concepts/oecd-digital-education-outlook-2026.md) — OECD Digital Education Outlook 2026 (OECD report) — generative-ai, pedagogy, tutoring, teacher-support, assessment, policy
