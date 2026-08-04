@@ -626,7 +626,7 @@
     "tags": [
       "stub"
     ],
-    "content": "\nAI education \u2014 teaching about AI itself \u2014 is examined through k-12-ai-education, ml-literacy-primary-education, principled-ai-education, and ai-literacy-equity-programming-policy, which find that curricula must span technical, ethical, and equity dimensions of AI literacy.\nAi EducationRelated Pagesgenai-runaway-object-math-higher-ed",
+    "content": "\nAI education \u2014 teaching about AI itself \u2014 is examined through k-12-ai-education, ml-literacy-primary-education, principled-ai-education, and ai-literacy-equity-programming-policy, which find that curricula must span technical, ethical, and equity dimensions of AI literacy.\nAi EducationRelated Pagesgenai-runaway-object-math-higher-ed\negai-power-systems-education \u2014 Hands-on executable framework for engineering-grounded AI in power systems education",
     "url": "pages/ai-education.html"
   },
   {
@@ -1616,7 +1616,7 @@
       "feedback-loop",
       "student-experience"
     ],
-    "content": "\nAICoFE: AI-Powered Feedback System \u2014 Peer feedback is essential for developing critical reflection, active learning, and evaluative judgment, yet student-generated comments are often superficial, inconsistent, or lack actionability due to limited feedback literacy.\nAICoFE: AI-Powered Feedback SystemRelated Pages",
+    "content": "\nAICoFE (AI-based Collaborative Feedback) is a multi-LLM feedback generation system for higher education that combines independently fine-tuned language models with teacher-in-the-loop mediation, producing diverse feedback perspectives while preserving pedagogical authority through Learning Analytics dashboards.\nAuthors: Alvaro Becerra, Alejandra Palma, Ruth Cobos (GHIA Group, Universidad Aut\u00f3noma de Madrid) \u00b7 arXiv:2605.04740 \u00b7 Accepted at LASI Spain 2026Key Findings1. Multi-LLM diversity impro",
     "url": "pages/becerra-aicofe-feedback-2026.html"
   },
   {
@@ -2173,7 +2173,7 @@
       "automated-grading",
       "confidence"
     ],
-    "content": "\nConfidence-Aware Automatic Short Answer Grading \u2014 Automatic Short Answer Grading (ASAG) with LLMs achieves strong zero-shot performance and synthetic feedback generation, but no system is perfect. Linguistic variability, ambiguous scoring criteria, and inherent human rater disagreement impose an upper bound on accuracy.\nConfidence-Aware Automatic Short Answer GradingRelated Pages",
+    "content": "\nConfidence-Aware ASAG \u2014 A hybrid confidence estimation framework for Automatic Short Answer Grading with LLMs that fuses model-based confidence signals (verbalized, latent, consistency-based) with dataset-derived aleatoric uncertainty via Random Forest + Platt scaling, enabling reliable selective prediction and principled human-in-the-loop review workflows.\nAuthors: Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, Ulf Kroehne \u00b7 DIPF | Leibniz Institute, Goethe Univers",
     "url": "pages/cong-confidence-asag-2026.html"
   },
   {
@@ -2882,6 +2882,19 @@
     "url": "pages/edumirror-educational-social-dynamics.html"
   },
   {
+    "slug": "eduzone-llm-safety-k12",
+    "title": "EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers",
+    "tags": [
+      "llm",
+      "k-12",
+      "pedagogical-safety",
+      "ai-tutor-safety-harms",
+      "benchmark"
+    ],
+    "content": "\nEduZone is an automated evaluation framework that generates contextually grounded adversarial interactions to probe LLM safety in K-12 education, revealing that models are more vulnerable to education-specific harms and dynamic multi-turn conversations than existing guardrails address.\nEduZone: A Framework for Evaluating LLM Safety for K-12 Students and TeachersJunyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh \u2014 arXiv (cs.CY / cs.AI) preprint, 2026 (KAIST, Google Cloud A",
+    "url": "pages/eduzone-llm-safety-k12.html"
+  },
+  {
     "slug": "efficacy-study",
     "title": "Efficacy Study",
     "tags": [
@@ -2901,6 +2914,19 @@
     ],
     "content": "The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasksYu, Cheng, Jabbar, Sucholutsky, Collins, Jurafsky & Hawkins (2026) \u2014 Stanford University / Princeton University. arXiv preprint (cs.CY, cs.HC).\ud83d\udcc4 Full text (arXiv)SummaryAcross three pre-registered studies (N=2,691), this paper documents systematic miscalibration in how people perceive their own AI usage. The authors find that people not only use AI for cognitively simple tasks even ",
     "url": "pages/efficiency-gain-illusion-ai-overreliance.html"
+  },
+  {
+    "slug": "egai-power-systems-education",
+    "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+    "tags": [
+      "ai-education",
+      "stem-education",
+      "curriculum-design",
+      "open-source",
+      "professional-training"
+    ],
+    "content": "\nAn open, executable module library for engineering-grounded AI (EGAI) in power systems education lowers the entry barrier for newcomers, with a progressive difficulty ladder from DNN templates to physics-informed neural networks, delivered via IEEE online course and PES webinars.\nBridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable FrameworkJunjie Yin, Buxin She, Xinyu Feng, Fangxing Li \u2014 arXiv (cs.AI / eess.SY) preprint, 2026 (University of Tennessee, IEEE P",
+    "url": "pages/egai-power-systems-education.html"
   },
   {
     "slug": "elevate-genai-virtual-tutors",
@@ -3149,7 +3175,7 @@
       "critical-thinking",
       "over-reliance"
     ],
-    "content": "\nCritical AI Tutors: Empower or Enslave? \u2014 Position paper arguing that unchecked AI tutor use leads to cognitive atrophy, loss of agency, emotional risks, and ethical concerns (privacy, academic integrity). Authors call for intentional, transparent, critically informed AI use that empowers rather than diminishes the learner. Workshop at AIED 2025.\nCritical AI Tutors: Empower or Enslave?Related Pages",
+    "content": "\nCritical AI Tutors: Empower or Enslave? \u2014 A position paper presented at the AIED 2025 workshop that issues a stark warning: unchecked use of AI tutors risks creating a generation of cognitively atrophied learners who have traded genuine understanding for the illusion of competence. Drawing on cognitive science and pedagogical theory, the authors argue that AI tutors without intentional guardrails lead to cognitive atrophy, loss of agency, emotional risks, and serious ethical concerns around pri",
     "url": "pages/favero-critical-ai-tutors-empower-enslave-2025.html"
   },
   {
@@ -3185,7 +3211,7 @@
       "curriculum-design",
       "instructional-design"
     ],
-    "content": "\nPrincipled AI Education Framework \u2014 A principled way to think about AI in education:\nPrincipled AI Education FrameworkRelated Pages",
+    "content": "\nPrincipled AI Education Framework \u2014 A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Rather than focusing solely on the promise and peril of AI or its immediate implementation, this framework advances a third path \u2014 connecting broad educational goals to actionable practices through a set of explicit, scholarship-grounded principles.\nNoah Finkelstein, University of Colorado, Boul",
     "url": "pages/finkelstein-principled-ai-education-2025.html"
   },
   {
@@ -3737,8 +3763,21 @@
       "collaborative-learning",
       "cs-education"
     ],
-    "content": "\nProPACT: Pair Programming with AI \u2014 ProPACT is an AI-driven adaptive tutor that \"treats collaboration itself as the object of instruction.\" Unlike individual-centric, reactive systems, it models dyadic learning states and intervenes before breakdowns occur.\nProPACT: Pair Programming with AIRelated Pages",
+    "content": "\nProPACT (Proactive AI-Driven Adaptive Collaborative Tutor) is an AI-driven adaptive tutoring system for pair programming that treats collaboration itself as the object of instruction. Unlike individual-centric, reactive systems, it models dyadic learning states in real time and intervenes before collaborative breakdowns occur, using multimodal sensing and predictive forecasting.\nAuthors: Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg \u00b7 arXiv:2605.02703 \u00b7 Within-subjects experiment w",
     "url": "pages/golrang-propact-pair-programming-2026.html"
+  },
+  {
+    "slug": "gpt4o-mini-music-analysis-scoring",
+    "title": "Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias",
+    "tags": [
+      "automated-grading",
+      "llm",
+      "assessment-validity",
+      "higher-ed",
+      "ai-ed-evaluation"
+    ],
+    "content": "\nGPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought prompting agreeing most strongly with teacher means while RAG systematically over-scores and self-consistency trades individual-level agreement for repeatability.\nComparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific BiasBaicheng Lin, Lingxi Jin, Kyung-Seo",
+    "url": "pages/gpt4o-mini-music-analysis-scoring.html"
   },
   {
     "slug": "ground-truth-reliability-aided",
@@ -3809,7 +3848,7 @@
       "generative-ai",
       "intelligent-tutoring"
     ],
-    "content": "\nSocratic Physics Chatbot \u2014 Physics education research. Custom Socratic AI chatbot deployed in large-enrollment introductory mechanics course with 150 first-year STEM majors. Full dialogue transcripts logged. Post-interaction surveys: median 4.0/5 for knowledge-based skills, 3.4/5 for overall effectiveness.\nSocratic Physics ChatbotRelated Pages",
+    "content": "\nSocratic Physics Chatbot \u2014 A custom Socratic AI chatbot deployed in a large-enrollment introductory mechanics course with 150 first-year STEM majors, demonstrating that AI-driven Socratic dialogue can foster expert-like reasoning while generating fine-grained learning analytics for physics education research.\nAuthors: Hashmi et al. \u00b7 arXiv:2508.14778 \u00b7 Large-enrollment introductory mechanics course, 150 first-year STEM majors \u00b7 Full dialogue transcripts loggedKey Findings1. Socratic dialogue im",
     "url": "pages/hashmi-socratic-physics-chatbot-2025.html"
   },
   {
@@ -3819,7 +3858,7 @@
       "pedagogical-safety",
       "k-12"
     ],
-    "content": "\nSafeTutors: Pedagogical Safety in AI Tutoring \u2014 LLMs are rapidly deployed as AI tutors, yet current evaluation paradigms assess problem-solving accuracy and generic safety in isolation, failing to capture whether a model is simultaneously pedagogically effective and safe across student-tutor interaction.\nSafeTutors: Pedagogical Safety in AI TutoringRelated Pages",
+    "content": "\nSafeTutors is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across mathematics, physics, and chemistry. It argues that tutoring safety is fundamentally different from conventional LLM safety: the primary risk is not toxic content but the quiet erosion of learning through answer over-disclosure, misconception reinforcement, and the abdication of scaffolding.\nAuthors: Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Jul",
     "url": "pages/hazra-safetutors-pedagogical-safety-2026.html"
   },
   {
@@ -3841,7 +3880,7 @@
       "collaborative-learning",
       "instructional-design"
     ],
-    "content": "\nCollaborative AI Literacy Framework \u2014 SEFI 2025. Systematic review of 9 studies (2015-2023) on collaborative learning for AI literacy. Uses ICAP framework (Interactive-Constructive-Active-Passive) to analyze outcomes. CL effectively increases AI literacy across activities, settings, and learner groups. Most studies in classroom settings;\nCollaborative AI Literacy FrameworkRelated Pages",
+    "content": "\nCollaborative AI Literacy Framework \u2014 SEFI 2025. A systematic review of 9 studies (2015\u20132023) examining how collaborative learning (CL) approaches can be harnessed to build AI literacy across diverse educational contexts. Using the ICAP framework (Interactive\u2013Constructive\u2013Active\u2013Passive) as an analytical lens, the review demonstrates that CL effectively increases AI literacy across activities, settings, and learner groups. Most studies were conducted in classroom settings, with some broadening ",
     "url": "pages/hingle-collaborative-ai-literacy-2025.html"
   },
   {
@@ -3865,7 +3904,7 @@
       "interpretability",
       "student-modeling"
     ],
-    "content": "\nInterpretable Knowledge Tracing \u2014 Existing dialogue-based Knowledge Tracing (KT) suffers from two gaps:\nInterpretable Knowledge TracingRelated Pages",
+    "content": "\nInterpretable Knowledge Tracing \u2014 A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using Item Response Theory, producing interpretable cognitive quantities from LLM output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.\nShuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan (UMass Amherst) \u2014 arXiv:2605.01097, May 2026.Key Fi",
     "url": "pages/huang-interpretable-knowledge-tracing-2026.html"
   },
   {
@@ -4185,7 +4224,7 @@
       "ai-ed-evaluation",
       "benchmark"
     ],
-    "content": "\nISD Agent Benchmark \u2014 LLM agents have shown promising potential in automating Instructional Systems Design (ISD), a systematic approach to developing educational programs. However, evaluating these agents remains challenging due to the lack of standardized benchmarks and the risk of LLM-as-judge bias.\nISD Agent BenchmarkRelated Pages",
+    "content": "\nISD-Agent-Bench is a comprehensive benchmark for evaluating LLM-based instructional design agents, comprising 25,795 scenarios generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate LLM-as-judge bias.\nAuthors: YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee \u00b7 arXiv:2602.10620 \u00b7 1,017 test scenariosKey Findings1. Hybrid agents outperform both pure ",
     "url": "pages/jeon-isd-agent-bench-2026.html"
   },
   {
@@ -4226,7 +4265,7 @@
       "intelligent-tutoring",
       "k-12"
     ],
-    "content": "\nMathBuddy: Affective Math Tutoring \u2014 EMNLP 2025 Demo. Emotionally aware LLM-powered math tutor. Dynamically models student emotions from conversational text and facial expressions, aggregated from both modalities to prompt emotionally-aware LLM responses. Maps affective states to relevant pedagogical strategies. Win rate: +23 points. DAMR score: +3 points at overall level.\nMathBuddy: Affective Math TutoringRelated Pages",
+    "content": "\nMathBuddy: Affective Math Tutoring \u2014 EMNLP 2025 Demo. An emotionally aware LLM-powered mathematics tutor that dynamically models student emotions from both conversational text and facial expressions, aggregating multimodal affective signals to shape pedagogically appropriate LLM responses. Maps detected affective states to relevant pedagogical strategies, achieving a +23-point win rate advantage and +3-point improvement on the DAMR (Dimensions of Affective Math Response) score at the overall le",
     "url": "pages/kar-mathbuddy-affective-math-tutoring-2025.html"
   },
   {
@@ -4237,7 +4276,7 @@
       "misinformation",
       "ai-literacy"
     ],
-    "content": "\nLLM Fallacy Misattribution in Education \u2014 The rapid integration of large language models (LLMs) into everyday workflows has transformed how individuals perform cognitive tasks such as writing, programming, analysis, and multilingual communication.\nLLM Fallacy Misattribution in EducationRelated Pages",
+    "content": "\nThe LLM Fallacy is a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence \u2014 producing a systematic gap (\u2206C) between perceived and actual capability. This divergence persists regardless of whether the LLM output is correct or erroneous, and it is driven by three system-level properties (opacity, fluency, and interactional immediacy) mediated by attribution ambiguity and cognitive outsourcing.\nKim, Yu & Yi (ddai Inc., 2",
     "url": "pages/kim-llm-fallacy-misattribution-2026.html"
   },
   {
@@ -5403,7 +5442,7 @@
       "student-modeling",
       "llm"
     ],
-    "content": "\nPersonaVLM: Long-Term Personalization for AI Tutors \u2014 Multimodal Large Language Models (MLLMs) serve as daily assistants for millions. However, their ability to generate responses aligned with individual preferences remains limited.\nPersonaVLM: Long-Term Personalization for AI TutorsRelated Pages",
+    "content": "\nPersonaVLM introduces an agent framework for long-term personalization of multimodal LLMs, enabling AI tutors to remember, reason about, and align with a learner's evolving preferences across hundreds of interaction turns. Tested on 2,000+ curated cases across 200 personas in the Persona-MME benchmark, the framework outperforms GPT-4o by 5.2% in personalization accuracy while operating entirely without proprietary API dependencies \u2014 preserving user privacy.\nNie et al. (Nanjing University & Byte",
     "url": "pages/nie-personavlm-long-term-personalization-2026.html"
   },
   {
@@ -5429,12 +5468,35 @@
     "url": "pages/nsmq-riddles-science-math-benchmark.html"
   },
   {
+    "slug": "oecd-digital-education-outlook-2026",
+    "title": "OECD Digital Education Outlook 2026",
+    "tags": [
+      "generative-ai",
+      "pedagogy",
+      "tutoring",
+      "teacher-support",
+      "assessment",
+      "policy",
+      "oecd",
+      "higher-ed",
+      "k-12",
+      "ai-literacy",
+      "academic-integrity",
+      "learning-science",
+      "creativity",
+      "collaboration",
+      "metacognition"
+    ],
+    "content": "\nOECD flagship report synthesising empirical evidence and expert insights on generative AI in education. Central finding: general-purpose AI chatbots improve task performance but produce no durable learning gains; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.\nOECD Digital Education Outlook 2026The Core Finding: Performance Is Not LearningThe report's most consequential finding is that general-purpose GenAI tools (ChatGPT, Gemini, Claude) improv",
+    "url": "pages/oecd-digital-education-outlook-2026.html"
+  },
+  {
     "slug": "open-source",
     "title": "Open Source",
     "tags": [
       "stub"
     ],
-    "content": "\nOpen-source AI in education is studied in lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, and open-source (tag) pages: local open models address privacy, cost, and customization but bring deployment and quality burdens (regulation, ai-ed-implementation).\nOpen SourceRelated Pages\niks-instruct-dataset-indian-knowledge",
+    "content": "\nOpen-source AI in education is studied in lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, and open-source (tag) pages: local open models address privacy, cost, and customization but bring deployment and quality burdens (regulation, ai-ed-implementation).\nOpen SourceRelated Pages\niks-instruct-dataset-indian-knowledge\negai-power-systems-education \u2014 Hands-on executable framework for engineering-grounded AI in power systems education",
     "url": "pages/open-source.html"
   },
   {
@@ -5527,7 +5589,7 @@
     "tags": [
       "stub"
     ],
-    "content": "\nPedagogical safety \u2014 ensuring AI tutors cannot mislead or harm learners \u2014 is studied in hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, petechat-guardrailed-ai-tutor, and vetting-dual-llm-safety-education: safety requires layered guardrails, evaluation, and human oversight (ethics, human-in-the-loop).\nPedagogical SafetyRelated Pagesvetting-dual-llm-safety-education\nllm-unlearning-math-privacy",
+    "content": "\nPedagogical safety \u2014 ensuring AI tutors cannot mislead or harm learners \u2014 is studied in hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, petechat-guardrailed-ai-tutor, and vetting-dual-llm-safety-education: safety requires layered guardrails, evaluation, and human oversight (ethics, human-in-the-loop).\nPedagogical SafetyRelated Pagesvetting-dual-llm-safety-education\nllm-unlearning-math-privacy\neduzone-llm-safety-k12 \u2014 EduZone: an evaluation framework for LLM safety in K-12",
     "url": "pages/pedagogical-safety.html"
   },
   {
@@ -5870,6 +5932,19 @@
     ],
     "content": "\nRAG (retrieval-augmented generation) grounds LLM answers in vetted sources: eduguard-safe-rag-llm-tutor, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, and knowledge-graph show retrieval grounding reduces hallucination and improves domain accuracy in tutors (hallucination-risk, llm).\nRagRelated Pages",
     "url": "pages/rag.html"
+  },
+  {
+    "slug": "rail-ed-genai-literacy-teacher-education",
+    "title": "Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education",
+    "tags": [
+      "ai-literacy",
+      "generative-ai",
+      "k-12",
+      "teacher-role",
+      "educational-theory"
+    ],
+    "content": "\nRAIL-Ed is an integrative, developmental, and dialectical framework for generative AI literacy in K-12 teacher education, built from a systematic review of 67 studies and specifying six interdependent pillars with a three-level maturity rubric.\nRethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher EducationShahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashr",
+    "url": "pages/rail-ed-genai-literacy-teacher-education.html"
   },
   {
     "slug": "randomized-controlled-trials-education",
@@ -6271,7 +6346,7 @@
       "pedagogical-safety",
       "reinforcement-learning"
     ],
-    "content": "\nEduQwen: Pedagogical RL \u2014 We present a multi-stage optimization strategy combining reinforcement learning (RL) and supervised fine-tuning (SFT) to enhance pedagogical knowledge of LLMs, producing EduQwen 32B-RL1, EduQwen 32B-SFT, and EduQwen 32B-SFT-RL2. These are application-driven open-source pedagogical LLMs built on a dense Qwen3-32B backbone.\nEduQwen: Pedagogical RLRelated Pages",
+    "content": "\nEduQwen: Pedagogical RL \u2014 A multi-stage optimization strategy combining reinforcement learning (DAPO) and supervised fine-tuning (SFT) to enhance the pedagogical knowledge of open-source LLMs, producing a family of dense 32B-parameter models that achieve state-of-the-art performance on the Cross-Domain Pedagogical Knowledge (CDPK) Benchmark, surpassing even much larger proprietary systems such as Gemini-3 Pro. Demonstrates that domain-specialized optimization can transform mid-sized open-source",
     "url": "pages/singh-eduqwen-pedagogical-rl-2026.html"
   },
   {
@@ -6482,7 +6557,7 @@
       "ai-literacy",
       "evidence"
     ],
-    "content": "\nStanford Evidence Base: AI in K-12 Education \u2014 > \"Research on how AI impacts K-12 students and educators is still extremely limited.\"\nStanford Evidence Base: AI in K-12 EducationRelated Pages",
+    "content": "\nStanford Evidence Base: AI in K-12 Education \u2014 A 2026 systematic review from the Stanford SCALE Initiative analyzing 818 papers on AI in K-12 education. The central finding is stark: only 20 studies provide strong causal evidence, and zero high-quality causal studies examine U.S. K-12 student settings. The evidence that exists reveals a consistent pattern \u2014 AI improves performance during use but gains frequently fail to persist or transfer, and general-purpose AI tools can actively harm learnin",
     "url": "pages/stanford-evidence-base-ai-k12-2026.html"
   },
   {
@@ -6737,7 +6812,7 @@
       "socratic-method",
       "stem-education"
     ],
-    "content": "\nMultimodal Dialogue in STEM Education \u2014 - Text-only baseline: Three major public LLMs achieved near-ceiling accuracy (96%, 95% CI [0.93, 0.98]) on 100 OpenStax physics problems with no statistically significant differences between models.\nMultimodal Dialogue in STEM EducationRelated Pages",
+    "content": "\nThe Multimodal Interference Effect describes a systemic accuracy drop when LLMs encounter image-rich STEM problems: from ~96% on text-only physics problems to ~74% on multimodal ones. A simple three-step structured dialogue intervention \u2014 eliciting visual descriptions, correcting observable misreadings without giving away physics, and re-prompting \u2014 corrects 82% of all errors and 100% of visual processing errors, restoring accuracy to 95%.\nSyal, Prince, Gultepe, Brown & Sridhar (2026) \u00b7 arXiv: ",
     "url": "pages/syal-multimodal-dialogue-stem-2026.html"
   },
   {
@@ -7291,7 +7366,7 @@
       "literature-review",
       "adaptive-learning"
     ],
-    "content": "\nComprehensive Review of Intelligent Tutoring Systems \u2014 Journal of Computers in Education (2025). Systematic literature review 2010\u20132025 analyzing ITS in real educational settings. Examines pedagogical strategies, NLP, adaptive learning, student modeling, domain-specific applications. Results: mixed effectiveness, complex landscape of advancements and persistent challenges.\nComprehensive Review of Intelligent Tutoring SystemsRelated Pages",
+    "content": "\nComprehensive Review of Intelligent Tutoring Systems \u2014 Journal of Computers in Education (2025). A systematic literature review covering 2010\u20132025 that analyzes the deployment and effectiveness of Intelligent Tutoring Systems (ITS) in real educational settings. The review examines the full landscape of ITS research \u2014 pedagogical strategies, natural language processing, adaptive learning mechanisms, student modeling approaches, and domain-specific applications \u2014 and arrives at a nuanced verdict:",
     "url": "pages/zerkouk-comprehensive-review-its-2025.html"
   },
   {
