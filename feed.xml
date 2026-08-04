@@ -6,7 +6,7 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 15:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 23:00:32 +0000</lastBuildDate>
     <item>
       <title>EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers</title>
       <link>https://edtechdev.github.io/aied/pages/eduzone-llm-safety-k12.html</link>
@@ -27,6 +27,13 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/gpt4o-mini-music-analysis-scoring.html</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought prompting agreeing most strongly with teacher means while RAG systematically over-scores and self-consistency trades individual-level agreement for repeatability.**</p>]]></description>
+    </item>
+    <item>
+      <title>OECD Digital Education Outlook 2026</title>
+      <link>https://edtechdev.github.io/aied/pages/oecd-digital-education-outlook-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/oecd-digital-education-outlook-2026.html</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**OECD flagship report** synthesising empirical evidence and expert insights on generative AI in education. Central finding: general-purpose AI chatbots improve task performance but produce no durable learning gains; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.</p>]]></description>
     </item>
     <item>
       <title>Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education</title>
@@ -279,13 +286,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/fair-explainable-edu-recommendations.html</guid>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>Hybrid HKG-GRU framework for educational recommendations combining heterogeneous graph embeddings with sequential modeling (152 students, 59 resources, ~150K interactions). Multi-objective training with GroupDRO for fairness, MMR reranking for diversity, and built-in explainability through path-based and counterfactual analyses. HR@10=0.68, MRR=0.41. Addresses popularity bias and cold-start fairness in educational recommenders.</p>]]></description>
-    </item>
-    <item>
-      <title>Generative AI (GenAI) as a mindtool that supports generative learning (GL)</title>
-      <link>https://edtechdev.github.io/aied/pages/genai-mindtool-generative-learning.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-mindtool-generative-learning.html</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Argues GenAI can serve as a Mindtool (knowledge representation tool) to facilitate Generative Learning rather than short-circuiting it. Proposes 8 pedagogical roles for GenAI: learning strategy/study buddy, collaborative thinking tool, possibility engine, Socratic opponent, personal tutor, exploratory research engine, motivator, and dynamic assessor. Provides a pedagogical framework for designing generative learning activities using GenAI.</p>]]></description>
     </item>
   </channel>
 </rss>
