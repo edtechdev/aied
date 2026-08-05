@@ -89,3 +89,4 @@ Student and faculty over-reliance on AI tools in education
 - [[genai-expertise-pathways-sysadmin]]
 - [[cognitive-commons-ai-expertise-regeneration]]
 - [[oecd-digital-education-outlook-2026]]
+- [[calibrating-trustworthiness-llm-education-2026]] — related concept

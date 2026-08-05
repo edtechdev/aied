@@ -16,3 +16,5 @@ confidence: low
 ## Related Pages
 - [[sycophantic-ai-social-interaction-2026]] — Relational harms of affirming AI
 
+- [[league-ethical-governance-student-data-2026]] — related concept
+- [[genai-marketing-education-roles-2026]] — related concept

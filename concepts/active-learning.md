@@ -35,5 +35,6 @@ confidence: low
 - [[llm-tts-dialogue-lesson-generation]] - dialogue-based engagement
 - [[tech-enhanced-tabletop-cybersecurity-education]]
 - [[genai-architectural-design-studios]]
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept
 
 ## Citation
