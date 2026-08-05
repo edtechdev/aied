@@ -31,3 +31,4 @@ Educational technology platforms and their integration with AI capabilities
 - [[vibe-coding-programming-process-visualizer]] — Thonny log visualizer built via AI-assisted 'vibe coding' piloted with 160 stude...
 - [[ai-generated-instructional-videos-computing-ed]]
 - [[tech-enhanced-tabletop-cybersecurity-education]]
+- [[calibrating-trustworthiness-llm-education-2026]] — related concept

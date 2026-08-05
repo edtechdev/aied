@@ -58,3 +58,4 @@ confidence: low
 - [[icap-cognitive-engagement-llm-agents]]
 - [[savvy-student-attention-video-learning]]
 - [[llm-facilitation-timing-online-discussions]]
+- [[league-ethical-governance-student-data-2026]] — related concept

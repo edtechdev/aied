@@ -31,3 +31,4 @@ confidence: low
 - [[trio-ethnography-llm-programming-education]] — interpretation-focused complement to behavioral usage studies
 - [[icap-cognitive-engagement-llm-agents]]
 - [[llm-facilitation-timing-online-discussions]]
+- [[antiskillbench-persona-skills-privacy-2026]] — related concept

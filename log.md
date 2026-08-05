@@ -1,3 +1,14 @@
+
+## [2026-08-05] ingest | 6 arXiv papers (cron daily scan)
+
+- EduClaw-Bench: 30-day long-horizon benchmark for pedagogical LLM agents with simulated learners grounded in knowledge tracing; 10 agent adapters × 3 base-model tiers, 55 scenarios. [[educlaw-bench-pedagogical-llm-agents-2026]]
+- BAVD: behaviorally adaptive visual diversion framework for accessible, secure digital assessment; coupled dynamical-systems model with accessibility-aware attenuation. [[behaviorally-adaptive-visual-diversion-assessment-2026]]
+- AntiSkillBench: 7,500 persona-grounded dialogue traces; benchmarks privacy leakage, impersonation risk, and defenses in persona-skill pipelines for agents. [[antiskillbench-persona-skills-privacy-2026]]
+- LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics; EDULEARN26. [[league-ethical-governance-student-data-2026]]
+- GenAI in marketing education: three roles (tutor, teammate, tool) grounded in Role Theory + CoI model; published in JPP&M 44(3). [[genai-marketing-education-roles-2026]]
+- Co-designed 5 trustworthiness metrics (20 measures) for evaluating LLM responses in education; visualizations for A/B comparisons; increased inter-rater reliability. [[calibrating-trustworthiness-llm-education-2026]]
+- 35 back-links across 22 pages; Index: 604 pages; Journal: 456 entries
+- Sources: arXiv cs.CY (5 papers), arXiv cs.HC (1 paper); S2: 0 in-window; OpenAlex: 0 in-window
 ## [2026-08-03] ingest | Stanford Accelerator for Learning report — Responsible Assessment in the AI Era
 - Source: PDF sent by user (Stanford Accelerator for Learning + ETS white paper; McGee, Thille, Choi, Ercikan & Hau, 2026; from Jan 29, 2026 convening of ~100 education leaders)
 - Raw saved: `raw/papers/responsible-assessment-ai-era-stanford-2026.md`
@@ -1908,3 +1919,5 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
   Tags: llm, agentic-ai, multi-agent, mooc, online-education, personalized-learning
 - **[2604.26962](https://arxiv.org/abs/2604.26962)** -> [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
   Tags: llm, agentic-ai, personalized-learning, intelligent-tutoring, rag, question-generation
+
+## [2026-08-05] meta | scan-complete

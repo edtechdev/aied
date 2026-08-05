@@ -21,3 +21,5 @@ confidence: low
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)
 - [[dot-framework-survey]]
 - [[machines-misread-pedagogical-quality]] -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a larger alignment effect than rationale-first evaluation, and the two are complementary.
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept
+- [[calibrating-trustworthiness-llm-education-2026]] — related concept

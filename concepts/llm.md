@@ -45,3 +45,5 @@ confidence: low
 - [[book-level-synthetic-textbook-organization]]
 - [[iks-instruct-dataset-indian-knowledge]]
 - [[mooc-to-maic]]
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept
+- [[calibrating-trustworthiness-llm-education-2026]] — related concept

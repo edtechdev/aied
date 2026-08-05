@@ -23,6 +23,7 @@ Bias mitigation in AIED concerns identifying and reducing unfair, identity-patte
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinki
 - [[ai-scoring-language-bias-physics]]
 - [[fair-explainable-edu-recommendations]]
+- [[antiskillbench-persona-skills-privacy-2026]] — related concept
 
 ## Citation
 **APA:** (stub). *Bias Mitigation*. AI Ed Wiki.

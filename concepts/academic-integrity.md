@@ -52,3 +52,4 @@ Academic integrity challenges and solutions in AI-era education
 - [[chatgpt-impact-high-school-tests]] — AI cheating effects on test scores- [[genai-assessment-governance]] — Beyond ban-vs-allow: principled GenAI governance in assessment
 - [[moral-panic-genai-classroom]] — GenAI-available masked unethical use (elevated knowledge-score variability); paper knowledge quiz restored integrity & equity
 - [[ai-productivity-moderation]] — Incentives for fair AI use moderate productivity in educational settings
+- [[behaviorally-adaptive-visual-diversion-assessment-2026]] — related concept

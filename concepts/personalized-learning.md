@@ -85,3 +85,4 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[llm-children-reading-story-generation]] — Compact LLMs for difficulty-controlled reading stories
 - [[mooc-to-maic]]
 - [[deeptutor]]
+- [[antiskillbench-persona-skills-privacy-2026]] — related concept
