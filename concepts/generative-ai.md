@@ -70,3 +70,4 @@ confidence: low
 - [[code-gen]]
 - [[mooc-to-maic]]
 - [[deeptutor]]
+- [[genai-marketing-education-roles-2026]] — related concept

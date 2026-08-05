@@ -73,3 +73,4 @@ Intelligent tutoring systems and AI-driven tutoring agents in education
 - [[socratic-tests-conversational-assessment]]
 - [[mooc-to-maic]]
 - [[deeptutor]]
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept

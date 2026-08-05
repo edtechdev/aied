@@ -17,6 +17,9 @@ confidence: low
 ## Related Pages
 - [[child-safety-genai]] — privacy in education
 - [[llm-unlearning-math-privacy]]
+- [[behaviorally-adaptive-visual-diversion-assessment-2026]] — related concept
+- [[antiskillbench-persona-skills-privacy-2026]] — related concept
+- [[league-ethical-governance-student-data-2026]] — related concept
 
 ## Citation
 - [[cstutorbench-slm-tutors]] — Privacy/cost case for SLM tutors

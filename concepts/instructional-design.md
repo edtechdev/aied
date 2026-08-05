@@ -24,3 +24,5 @@ confidence: low
 - [[genai-mindtool-generative-learning]]
 - [[ml-literacy-primary-education]]
 - [[connected-ai-lesson-planning-vietnam]]
+- [[genai-marketing-education-roles-2026]] — related concept
+- [[calibrating-trustworthiness-llm-education-2026]] — related concept

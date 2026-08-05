@@ -27,3 +27,4 @@ confidence: low
 - [[skill-acquisition-without-temporal-info]] -- A neural framework predicts next-skill acquisition from snapshot CDM data using pseudo-temporal ordering via inclusion relations among skill sets.
 - [[llm-item-difficulty-prediction]] — Cognitive episode modeling from LLM reasoning traces
 - [[cogtax-cognitive-taxonomy]] — student modeling approaches
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept

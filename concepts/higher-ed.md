@@ -79,3 +79,6 @@ confidence: low
 - [[structured-ai-demonstrations-engineering-mechanics]]
 - [[savvy-student-attention-video-learning]]
 - [[llm-facilitation-timing-online-discussions]]
+- [[behaviorally-adaptive-visual-diversion-assessment-2026]] — related concept
+- [[league-ethical-governance-student-data-2026]] — related concept
+- [[genai-marketing-education-roles-2026]] — related concept

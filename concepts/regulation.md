@@ -22,3 +22,4 @@ confidence: low
 - [[universities-ai-era-rethinking]] — Higher education policy frameworks for AI era transformation
 - [[ecnuclaw-k12-personalized-companion]] — Privacy implications of five-dimension learner profiling for minors- [[genai-declaration-frameworks-higher-education]] — Institutional regulation of GenAI use through disclosure frameworks
 - [[student-regulatory-awareness-genai]] — Student awareness and compliance with institutional AI regulations
+- [[league-ethical-governance-student-data-2026]] — related concept

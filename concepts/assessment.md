@@ -21,3 +21,4 @@ confidence: low
 - [[ai-assessment-scale-reform]] — AI Assessment Scale (AIAS) Reform
 - [[llm-item-difficulty-prediction]] — LLM reasoning traces for item difficulty estimation
 - [[responsible-assessment-ai-era-stanford-2026]] — Stanford Accelerator for Learning + ETS report reframing assessment for the AI era
+- [[behaviorally-adaptive-visual-diversion-assessment-2026]] — related concept

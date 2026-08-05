@@ -25,3 +25,4 @@ confidence: low
 - [[embodied-string-learning-blindness-low-vision-musicians]] — Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision
 - [[suacode-african-students-motivations]] — African students' motivations for a smartphone-based coding MOOC center on access, career aspiration
 - [[adhd-video-segmentation-computing-education]] — Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p
+- [[behaviorally-adaptive-visual-diversion-assessment-2026]] — related concept
