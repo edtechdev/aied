@@ -67,3 +67,6 @@ confidence: low
 - [[conversational-ai-informal-learning]]
 - [[quest-ai-inquiry-preservice-teachers]]
 - [[same-ai-different-pathways]]
+- [[code-gen]]
+- [[mooc-to-maic]]
+- [[deeptutor]]

@@ -1499,7 +1499,7 @@
     "tags": [
       "stub"
     ],
-    "content": "\nAutomated assessment \u2014 machine scoring and feedback at scale \u2014 is covered by automated-grading, aiawe-automated-writing-evaluation, psyscore-essay-scoring-zpd-feedback, and cotal-formative-assessment-scoring-2026: LLM-based scoring generalizes across domains when prompt-engineered with human-in-the-loop refinement and assessment-validity alignment.\nAutomated AssessmentRelated Pagesai-scoring-language-bias-physics\nhuman-vs-llm-ordered-coding\nsocratic-tests-conversational-assessment",
+    "content": "\nAutomated assessment \u2014 machine scoring and feedback at scale \u2014 is covered by automated-grading, aiawe-automated-writing-evaluation, psyscore-essay-scoring-zpd-feedback, and cotal-formative-assessment-scoring-2026: LLM-based scoring generalizes across domains when prompt-engineered with human-in-the-loop refinement and assessment-validity alignment.\nAutomated AssessmentRelated Pagesai-scoring-language-bias-physics\nhuman-vs-llm-ordered-coding\nsocratic-tests-conversational-assessment\ncode-gen",
     "url": "pages/automated-assessment.html"
   },
   {
@@ -1513,7 +1513,7 @@
     "slug": "automated-feedback",
     "title": "Automated Feedback",
     "tags": [],
-    "content": "\nAutomated feedback research spans ai-generated-feedback-higher-ed, foxglove-writing-feedback-experts-llms, structured-llm-feedback-programming, and tibetcpr-ai-training-feedback \u2014 machine feedback is most effective when immediate, specific, and sequenced with human judgment (feedback-loop, formative-assessment).\nAutomated FeedbackRelated Pages\nllm-judged-helpfulness-pedagogy-signal",
+    "content": "\nAutomated feedback research spans ai-generated-feedback-higher-ed, foxglove-writing-feedback-experts-llms, structured-llm-feedback-programming, and tibetcpr-ai-training-feedback \u2014 machine feedback is most effective when immediate, specific, and sequenced with human judgment (feedback-loop, formative-assessment).\nAutomated FeedbackRelated Pages\nllm-judged-helpfulness-pedagogy-signal\ncode-gen",
     "url": "pages/automated-feedback.html"
   },
   {
@@ -1866,6 +1866,23 @@
     ],
     "content": "Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View VisualizationsNaaz Sibia, Jessica Wen, Amber Richardson, Yashika Jain, Khushi Malik, Bogdan Simion, Carolina Nobre, Angela Zavaleta Bernuy, Andrew Petersen, Michael Liut (2026). ICER 2026\n\ud83d\udcc4 Full text (arXiv)OverviewStudents spent ~47% of gaze time on code despite visual scaffolds. Three factors shape selective engagement with multi-representational tools: Agency (students want control over cognitive effort), Repr",
     "url": "pages/code-anchor-multi-view-visualization.html"
+  },
+  {
+    "slug": "code-gen",
+    "title": "CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation",
+    "tags": [
+      "llm",
+      "agentic-ai",
+      "rag",
+      "question-generation",
+      "coding-education",
+      "human-in-the-loop",
+      "assessment",
+      "automated-assessment",
+      "programming-education"
+    ],
+    "content": "\nA dual-agent RAG-based system for generating and validating coding comprehension MCQs, evaluated by 6 SMEs across 7 pedagogical dimensions (N=288 questions, 2,016 rating pairs). AI excels at criteria-matching and computational verification (concept alignment 98.6%, code validity 95.5%), but human expertise remains essential for distractor quality (79.9%) and pedagogically rich feedback \u2014 providing an evidence-based division of labor for human-in-the-loop educational content generation.\nCODE-GEN",
+    "url": "pages/code-gen.html"
   },
   {
     "slug": "code-review-genai-cs1",
@@ -2563,6 +2580,22 @@
     ],
     "content": "DebugTracker: Lightweight Process Evidence for Classroom DebuggingJiatong Liu et al. (2026) \u2014 The University of Hong Kong. arXiv.\ud83d\udcc4 Full text (arXiv)Debugging exercises are usually graded from final code and test outcomes, which hide how students reproduced failures, formed hypotheses, inspected evidence, edited code, and verified fixes. The authors present DebugTracker, a Visual Studio Code extension that records lightweight debugging-process evidence for classroom tasks. It separates uncoached ",
     "url": "pages/debugtracker-classroom-debugging.html"
+  },
+  {
+    "slug": "deeptutor",
+    "title": "DeepTutor: Towards Agentic Personalized Tutoring",
+    "tags": [
+      "llm",
+      "agentic-ai",
+      "personalized-learning",
+      "intelligent-tutoring",
+      "rag",
+      "question-generation",
+      "adaptive-learning",
+      "tutoring-systems"
+    ],
+    "content": "\nA fully open-source agentic tutoring framework that closes the loop between citation-grounded problem tutoring and difficulty-calibrated question generation, powered by a hybrid personalization engine combining static knowledge grounding with dynamic learner memory. Evaluated via TutorBench across 5 university disciplines, improving personalized metrics by 10.8% and general agentic reasoning by 29.4% across 5 backbone models.\nDeepTutor: Towards Agentic Personalized TutoringAuthors: Bingxi Zhao,",
+    "url": "pages/deeptutor.html"
   },
   {
     "slug": "design-education",
@@ -5242,6 +5275,22 @@
     "url": "pages/modular-educational-llm-agency.html"
   },
   {
+    "slug": "mooc-to-maic",
+    "title": "From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents",
+    "tags": [
+      "llm",
+      "agentic-ai",
+      "multi-agent",
+      "mooc",
+      "online-education",
+      "personalized-learning",
+      "intelligent-tutoring",
+      "course-design"
+    ],
+    "content": "\nA new paradigm for online education replacing MOOCs with LLM-driven multi-agent AI classrooms, piloted at Tsinghua University with 100K+ learning records from 500+ students. MAIC uses specialized agents (Teacher, Assistant, Classmate, Analyzer) to deliver personalized, adaptive learning at scale.\nFrom MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven AgentsAuthors: Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, et al. (33 authors, Tsinghua University)\nArXiv: 2409.03512\nSubmitte",
+    "url": "pages/mooc-to-maic.html"
+  },
+  {
     "slug": "moodle-ai-tutoring-deep-learning",
     "title": "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle",
     "tags": [
@@ -5930,7 +5979,7 @@
     "tags": [
       "stub"
     ],
-    "content": "\nRAG (retrieval-augmented generation) grounds LLM answers in vetted sources: eduguard-safe-rag-llm-tutor, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, and knowledge-graph show retrieval grounding reduces hallucination and improves domain accuracy in tutors (hallucination-risk, llm).\nRagRelated Pages",
+    "content": "\nRAG (retrieval-augmented generation) grounds LLM answers in vetted sources: eduguard-safe-rag-llm-tutor, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, and knowledge-graph show retrieval grounding reduces hallucination and improves domain accuracy in tutors (hallucination-risk, llm).\nRagRelated Pagescode-gen\nmooc-to-maic\ndeeptutor",
     "url": "pages/rag.html"
   },
   {
