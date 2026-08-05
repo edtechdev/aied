@@ -44,3 +44,4 @@ confidence: low
 - [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
 - [[book-level-synthetic-textbook-organization]]
 - [[iks-instruct-dataset-indian-knowledge]]
+- [[mooc-to-maic]]

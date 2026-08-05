@@ -6,7 +6,21 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 23:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 02:59:44 +0000</lastBuildDate>
+    <item>
+      <title>CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation</title>
+      <link>https://edtechdev.github.io/aied/pages/code-gen.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/code-gen.html</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**A dual-agent RAG-based system for generating and validating coding comprehension MCQs**, evaluated by 6 SMEs across 7 pedagogical dimensions (N=288 questions, 2,016 rating pairs). AI excels at criteria-matching and computational verification (concept alignment 98.6%, code validity 95.5%), but human expertise remains essential for distractor quality (79.9%) and pedagogically rich feedback — providing an evidence-based division of labor for <a href="human-in-the-loop.html">human-in-the-loop</a> educational content generation.</p>]]></description>
+    </item>
+    <item>
+      <title>DeepTutor: Towards Agentic Personalized Tutoring</title>
+      <link>https://edtechdev.github.io/aied/pages/deeptutor.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/deeptutor.html</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**A fully open-source agentic tutoring framework that closes the loop between citation-grounded problem tutoring and difficulty-calibrated question generation**, powered by a hybrid personalization engine combining static knowledge grounding with dynamic learner memory. Evaluated via TutorBench across 5 university disciplines, improving personalized metrics by 10.8% and general agentic reasoning by 29.4% across 5 backbone models.</p>]]></description>
+    </item>
     <item>
       <title>EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers</title>
       <link>https://edtechdev.github.io/aied/pages/eduzone-llm-safety-k12.html</link>
@@ -27,6 +41,13 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/gpt4o-mini-music-analysis-scoring.html</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought prompting agreeing most strongly with teacher means while RAG systematically over-scores and self-consistency trades individual-level agreement for repeatability.**</p>]]></description>
+    </item>
+    <item>
+      <title>From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents</title>
+      <link>https://edtechdev.github.io/aied/pages/mooc-to-maic.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/mooc-to-maic.html</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**A new paradigm for online education replacing MOOCs with LLM-driven multi-agent AI classrooms**, piloted at Tsinghua University with 100K+ learning records from 500+ students. MAIC uses specialized agents (Teacher, Assistant, Classmate, Analyzer) to deliver personalized, adaptive learning at scale.</p>]]></description>
     </item>
     <item>
       <title>OECD Digital Education Outlook 2026</title>
@@ -265,27 +286,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-tpack-preservice-math-teachers.html</guid>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>SEM study of 130 preservice math teachers in South Africa (Global South context). AI-TPACK readiness explained 53% of variance. Positive associations: prior AI use, critical-ethical appraisal, and support/enablers. Senior cohorts showed sharper gains in pedagogical AI competence. Year level effects less stable in sensitivity analysis. Cautious empirical account of AI-TPACK readiness in an under-studied context.</p>]]></description>
-    </item>
-    <item>
-      <title>Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness</title>
-      <link>https://edtechdev.github.io/aied/pages/ai-vocational-education-training-review.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-vocational-education-training-review.html</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>First systematic review of AI in vocational education (26 studies, 2015-2026). Intelligent XR shows consistent positive effects on procedural competence; ITS foster declarative and procedural knowledge; AI chatbots support self-regulation. Only 5 randomized experimental studies found. Documents a paradox: constructivist theories are espoused but behaviorist AI implementations dominate. Warns against an educational 'Turing Trap' of replicating human instruction instead of augmenting human judgment.</p>]]></description>
-    </item>
-    <item>
-      <title>Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning</title>
-      <link>https://edtechdev.github.io/aied/pages/conversational-ai-informal-learning.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/conversational-ai-informal-learning.html</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Large-scale survey of 776 German participants. 87% already use LLMs in everyday learning routines. Young adults lead adoption. Four learner types identified based on task patterns and device usage. Paradoxical trust behaviors: users rely on LLMs while distrusting accuracy and privacy. Emphasizes need for multi-modal learning, collaborative features, source provision, and design for diverse learner types.</p>]]></description>
-    </item>
-    <item>
-      <title>Fair and explainable educational recommendations with a hybrid Graph-GRU framework</title>
-      <link>https://edtechdev.github.io/aied/pages/fair-explainable-edu-recommendations.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/fair-explainable-edu-recommendations.html</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Hybrid HKG-GRU framework for educational recommendations combining heterogeneous graph embeddings with sequential modeling (152 students, 59 resources, ~150K interactions). Multi-objective training with GroupDRO for fairness, MMR reranking for diversity, and built-in explainability through path-based and counterfactual analyses. HR@10=0.68, MRR=0.41. Addresses popularity bias and cold-start fairness in educational recommenders.</p>]]></description>
     </item>
   </channel>
 </rss>

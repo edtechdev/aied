@@ -24,3 +24,6 @@ Agentic AI refers to artificial intelligence systems that can autonomously plan,
 - [[agentic-education-coding]]
 - [[multi-agent-instructional-design]]
 - [[tool-invariant-framework-agentic-ai]]
+- [[code-gen]]
+- [[mooc-to-maic]]
+- [[deeptutor]]

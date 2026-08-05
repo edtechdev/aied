@@ -27,6 +27,7 @@ This study provides one of the largest empirical validations of LLM-based [[feed
 - [[ai-generated-traces-novice-programmers]] — AI-generated traces and novice programmer studies
 - [[eduguard-safe-rag-llm-tutor]] — A RAG programming tutor evaluated on CS50-style forum queries and a classroom pilot.
 - [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support 
+- [[code-gen]]
 
 ## Citation
 **APA:** Heickal, H., & Lan, A. (2026). A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming. *arXiv:2606.08807*. Accepted at IRAISE 2026.
