@@ -1895,3 +1895,16 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Wiki pages: 594
 
 - 2026-08-04 | ingested [oecd-digital-education-outlook-2026](concepts/oecd-digital-education-outlook-2026.md) — OECD Digital Education Outlook 2026 (OECD report) — generative-ai, pedagogy, tutoring, teacher-support, assessment, policy
+
+## [2026-08-04] ingest | single-paper
+
+- **[2604.03926](https://arxiv.org/abs/2604.03926)** → [[code-gen]] — CODE-GEN: Human-in-the-Loop RAG-Based Agentic AI for MCQ Generation
+  Tags: llm, agentic-ai, rag, question-generation, coding-education, human-in-the-loop, assessment
+  AIED 2026 short paper. Dual-agent (Generator + Validator) RAG architecture evaluated by 6 SMEs across 7 pedagogical dimensions. 79.9%–98.6% success rates; distractor quality remains human-essential.
+
+## [2026-08-04] ingest | multi-paper
+
+- **[2409.03512](https://arxiv.org/abs/2409.03512)** -> [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
+  Tags: llm, agentic-ai, multi-agent, mooc, online-education, personalized-learning
+- **[2604.26962](https://arxiv.org/abs/2604.26962)** -> [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
+  Tags: llm, agentic-ai, personalized-learning, intelligent-tutoring, rag, question-generation

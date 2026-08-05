@@ -24,3 +24,6 @@ confidence: low
 - [[ai-pedagogical-accompaniment-amico]]
 - [[concept-catalyst-engineering-scaffolds]]
 - [[teacher-student-agency-orchestration]]
+- [[code-gen]]
+- [[mooc-to-maic]]
+- [[deeptutor]]

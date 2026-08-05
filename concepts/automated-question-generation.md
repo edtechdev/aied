@@ -49,3 +49,6 @@ Wei, Y., Stamper, J., et al. (2025). *Generate-Then-Validate: A Novel Question G
 - [[taklif-ai-interest-based-personalized-assignments]] — LLM-generated personalized assignments
 - [[nsmq-riddles-science-math-benchmark]] — Riddle format as AI-generated educational content benchmark
 - [[civic-education-ai-lesson-plans]] — AI-generated lesson plans show similar pattern: plausible output masking low cognitive demand
+- [[code-gen]]
+- [[mooc-to-maic]]
+- [[deeptutor]]

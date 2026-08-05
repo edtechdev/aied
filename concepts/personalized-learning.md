@@ -83,3 +83,5 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[fair-explainable-edu-recommendations]]
 - [[hybrid-human-ai-tutoring-differentiated]] — System-level differentiation as personalization
 - [[llm-children-reading-story-generation]] — Compact LLMs for difficulty-controlled reading stories
+- [[mooc-to-maic]]
+- [[deeptutor]]

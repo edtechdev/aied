@@ -71,3 +71,5 @@ Intelligent tutoring systems and AI-driven tutoring agents in education
 - [[ai-fallibility-warning-help-seeking]] — Nagashima et al. (2026)
 - [[cstutorbench-slm-tutors]] — Pedagogical rubric for tutor evaluation
 - [[socratic-tests-conversational-assessment]]
+- [[mooc-to-maic]]
+- [[deeptutor]]
