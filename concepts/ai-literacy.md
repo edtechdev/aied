@@ -207,3 +207,4 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 - [[human-llm-collaborative-coding-k12-educator-ai]]
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible-assessment report; AI literacy as an underdefined emerging construct
 - [[rail-ed-genai-literacy-teacher-education]] — RAIL-Ed: an integrative, developmental framework for GenAI literacy in K-12 teacher education
+- [[ai-literacy-legal-translation-2026]] — related

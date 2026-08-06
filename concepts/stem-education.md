@@ -53,3 +53,5 @@ AI applications in science, technology, engineering, and mathematics education
 - [[ai-tpack-preservice-math-teachers]]
 - [[structured-ai-demonstrations-engineering-mechanics]]
 - [[egai-power-systems-education]] — Hands-on executable framework for engineering-grounded AI in power systems education
+- [[chat-debugging-llm-hardware-education-2026]] — related
+- [[nuclear-diffusion-text-to-image-learning-2026]] — related

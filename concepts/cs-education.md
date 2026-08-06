@@ -44,3 +44,4 @@ confidence: low
 - [[ai-fallibility-warning-help-seeking]] — Nagashima et al. (2026)
 - [[debugtracker-classroom-debugging]] — Classroom debugging instruction
 - [[structured-ai-demonstrations-engineering-mechanics]]
+- [[chat-debugging-llm-hardware-education-2026]] — related

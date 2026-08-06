@@ -83,6 +83,7 @@ SCRIPT's contribution: **Python-specific** tutoring with German-language context
 - [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
 - [[code-gen]]
 - [[deeptutor]]
+- [[chat-debugging-llm-hardware-education-2026]] — related
 
 ## Sources
 - Deriyeva, Dannath, Paassen (2026). *SCRIPT: Implementing an Intelligent Tutoring System for Programming in a German University Context*. arXiv:2604.16117. [PDF](https://arxiv.org/pdf/2604.16117)

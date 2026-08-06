@@ -32,3 +32,4 @@ confidence: low
 - [[icap-cognitive-engagement-llm-agents]]
 - [[llm-facilitation-timing-online-discussions]]
 - [[antiskillbench-persona-skills-privacy-2026]] — related concept
+- [[ai-agents-constructive-conflict-design-education-2026]] — related

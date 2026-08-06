@@ -22,3 +22,5 @@ confidence: low
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable
 - [[llm-tts-dialogue-lesson-generation]] - LLM-generated lesson material
 - [[connected-ai-lesson-planning-vietnam]]
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — related
+- [[nuclear-diffusion-text-to-image-learning-2026]] — related

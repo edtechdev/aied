@@ -47,3 +47,4 @@ confidence: low
 - [[mooc-to-maic]]
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept
 - [[calibrating-trustworthiness-llm-education-2026]] — related concept
+- [[chat-debugging-llm-hardware-education-2026]] — related

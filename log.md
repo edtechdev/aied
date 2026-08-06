@@ -1,4 +1,16 @@
 
+
+## [2026-08-06] ingest | 6 arXiv papers (cron daily scan)
+
+- Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning (arXiv:2608.04892) — [[ai-powered-personalized-learning-elementary-fractions-2026]]
+- AI Literacy for Legal Translation: Developing Digital Resilience (arXiv:2608.04641) — [[ai-literacy-legal-translation-2026]]
+- Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition (arXiv:2608.05115) — [[privacy-aware-classroom-incident-recognition-2026]]
+- WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant (arXiv:2608.02420) — [[chat-debugging-llm-hardware-education-2026]]
+- NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts (arXiv:2608.04030) — [[nuclear-diffusion-text-to-image-learning-2026]]
+- Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers (arXiv:2608.04166) — [[ai-agents-constructive-conflict-design-education-2026]]
+- 34 back-links across 28 pages; Index: 613 pages
+- Sources: arXiv cs.CY/cs.HC listing pages (API returned 0 — used listing-page extraction); S2: 1 result out-of-window; OpenAlex: 10 results all future-dated Dec 2026 (0 in-window)
+## [2026-08-06] meta | scan-complete
 ## [2026-08-05] ingest | 6 arXiv papers (cron daily scan)
 
 - EduClaw-Bench: 30-day long-horizon benchmark for pedagogical LLM agents with simulated learners grounded in knowledge tracing; 10 agent adapters × 3 base-model tiers, 55 scenarios. [[educlaw-bench-pedagogical-llm-agents-2026]]
