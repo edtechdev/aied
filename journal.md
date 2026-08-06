@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-06 | Total entries: 467
+Last updated: 2026-08-06 | Total entries: 468
 
 ## 2026-08-06
 
@@ -33,6 +33,9 @@ Last updated: 2026-08-06 | Total entries: 467
 - ● [[lak2026-hint-button-unproductive-use]] — raw/papers/lak2026-hint-button-unproductive-use.md
   **Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems**
   Tags: [intelligent-tutoring, learning-analytics, hint-systems, k-12, math-education, gaming-the-system, student-experience, help-seeking, its-design]
+- ● [[llm-student-simulation-teacher-insights]] — raw/papers/llm-student-simulation-teacher-insights.md
+  **Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students**
+  Tags: [llm, student-simulation, teacher-training, dialogue-tutoring, k-12, authenticity, llm-evaluation, community-of-inquiry, scaffolding]
 - ● [[nuclear-diffusion-text-to-image-learning-2026]] — raw/papers/2608.04030.md
   **NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts**
   Tags: [generative-ai, stem-education, ai-generated-content, multimodal, content-quality, higher-ed]

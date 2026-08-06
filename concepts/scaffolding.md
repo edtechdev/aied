@@ -15,7 +15,8 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 ## Connections
 
 ## Related Pages
-- [[agentic-ai-pedagogical-best-practice-2026]] — Dynamic scaffolding under agent initiative
+-- [[llm-student-simulation-teacher-insights]]
+ [[agentic-ai-pedagogical-best-practice-2026]] — Dynamic scaffolding under agent initiative
 - [[scheu-mobile-chatbot-journaling-motivation-2026]] — Course + LLM assistant as journaling scaffolds (2x2 RCT)
 - [[agency-gap-ai-writing]] — Proactive designs scaffold reasoning but risk over-scaffolding
 - [[learner-centered-feedback-ai]] — AI as reflective scaffold for teachers' evaluative judgement
