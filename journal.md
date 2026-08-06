@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-06 | Total entries: 462
+Last updated: 2026-08-06 | Total entries: 463
 
 ## 2026-08-06
 
@@ -18,6 +18,9 @@ Last updated: 2026-08-06 | Total entries: 462
 - ◐ [[chat-debugging-llm-hardware-education-2026]] — raw/papers/2608.02420.md
   **WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant**
   Tags: [llm, cs-education, higher-ed, scaffolding, stem-education, student-experience]
+- ● [[knowloop-confusion-to-consolidation-2026]] — raw/papers/knowloop-confusion-to-consolidation-2026.md
+  **From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review**
+  Tags: [conversational-agents, personalized-learning, higher-ed, learning-by-teaching, dual-agent, scaffolding, confusion-detection, teach-back, lecture-review]
 - ● [[lak2026-hint-button-unproductive-use]] — raw/papers/lak2026-hint-button-unproductive-use.md
   **Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems**
   Tags: [intelligent-tutoring, learning-analytics, hint-systems, k-12, math-education, gaming-the-system, student-experience, help-seeking, its-design]

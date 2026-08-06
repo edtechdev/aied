@@ -83,3 +83,4 @@ confidence: low
 - [[league-ethical-governance-student-data-2026]] — related concept
 - [[genai-marketing-education-roles-2026]] — related concept
 - [[ai-literacy-legal-translation-2026]] — related
+- [[knowloop-confusion-to-consolidation-2026]]
