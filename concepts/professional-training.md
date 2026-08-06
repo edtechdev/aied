@@ -31,3 +31,4 @@ confidence: low
 - [[egai-power-systems-education]] — Hands-on executable framework for engineering-grounded AI in power systems education
 - [[genai-marketing-education-roles-2026]] — related concept
 - [[ai-literacy-legal-translation-2026]] — related
+- [[ai-adult-learning-guidelines-dis2026]]
