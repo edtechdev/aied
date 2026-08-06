@@ -1,18 +1,17 @@
 ---
-title: "Multi Agent"
+title: "Workforce Development"
 created: 2026-08-06
 updated: 2026-08-06
 type: concept
-tags: [multi-agent]
+tags: [workforce-development]
 sources: []
 confidence: low
 ---
 
 > **Stub.**
 
-# Multi Agent
+# Workforce Development
 
 ## Related Pages
 
 - [[crewscaler-ai-upskilling-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
