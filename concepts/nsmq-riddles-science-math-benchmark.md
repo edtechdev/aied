@@ -36,6 +36,10 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 - Can the benchmark be extended to other African and Global South educational systems?
 - What does the clue-progression format reveal about LLM reasoning vs. retrieval?
 
+## Source
+
+- [https://arxiv.org/abs/2605.07051](https://arxiv.org/abs/2605.07051)
+
 ## Related Pages
 - [[benchmark]]
 - [[ai-k12-evidence-base]]

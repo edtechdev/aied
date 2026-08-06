@@ -35,6 +35,10 @@ Methodologically, the DAMR evaluation framework and the eight-dimension pedagogi
 
 Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) contributes to the [[open-source]] educational AI ecosystem and enables further research into affect-aware [[pedagogical-llm-training]].
 
+## Source
+
+- [https://arxiv.org/abs/2508.19993v2](https://arxiv.org/abs/2508.19993v2)
+
 ## Related Pages
 
 - [[intelligent-tutoring-systems]] — The broader ITS context

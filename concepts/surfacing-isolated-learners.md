@@ -45,6 +45,10 @@ This is one of the first systems to operationalize **human-AI co-agency** in cla
 - Preliminary findings — not yet generalizable across diverse contexts
 - Weights set by researcher co-design, not learned from data
 
+## Source
+
+- [https://arxiv.org/abs/2605.29240](https://arxiv.org/abs/2605.29240)
+
 ## Related Pages
 
 - [[learning-analytics-dashboards]] — Extends analytics with interpretable topic prioritization

@@ -35,6 +35,10 @@ The review's identification of persistent student modeling limitations connects 
 
 For the [[edtech-platform]] industry and [[educational-policy-ai]] community, this review serves as a sobering reminder that technical capability does not guarantee educational effectiveness. The mixed evidence base should temper claims of AI tutoring as a silver bullet while also validating continued investment in rigorous ITS research and development. The path forward requires [[ai-ed-evaluation]] frameworks that match the sophistication of the systems being evaluated.
 
+## Source
+
+- [https://arxiv.org/abs/2507.18882v1](https://arxiv.org/abs/2507.18882v1)
+
 ## Related Pages
 
 - [[intelligent-tutoring-systems]] — Core concept: the ITS field

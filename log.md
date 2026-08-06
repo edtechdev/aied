@@ -1933,3 +1933,11 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
   Tags: llm, agentic-ai, personalized-learning, intelligent-tutoring, rag, question-generation
 
 ## [2026-08-05] meta | scan-complete
+
+- [2026-08-06] **Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems** — source: raw/papers/lak2026-hint-button-unproductive-use.md
+  Tags: intelligent-tutoring, learning-analytics, hint-systems, k-12, math-education, gaming-the-system, student-experience, help-seeking, its-design
+  999 K-12 students, 3 semesters: premature hint requests and superficial hint reading consistently associated with reduced learning gains after controlling for prior knowledge. Affordance perspective argues 'hint button' design enables bypass strategies.
+ - [2026-08-06] **Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module** — source: raw/papers/aaai2026-prompting-literacy-k12.md
+  Tags: ai-literacy, prompting-literacy, k-12, llm, ai-education, scenario-based-learning, automated-grading, student-experience
+  LLM-based module teaching prompting literacy to secondary students via scenario-based deliberate practice with AI auto-grader (0.92 accuracy). 11 classrooms, 2 iterations. T/F + open-ended outperforms MCQ for assessing prompting skills.
+

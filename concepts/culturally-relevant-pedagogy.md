@@ -42,6 +42,10 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 
 Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*. American Educational Research Journal.
 
+## Source
+
+- [https://arxiv.org/abs/2505.08083](https://arxiv.org/abs/2505.08083)
+
 ## Related Pages
 - [[taklif-ai-interest-based-personalized-assignments]] — Cultural contexts incorporated into assignment generation
 - [[international-students-conversational-ai-adaptation]] — Cultural context in AI-powered student support

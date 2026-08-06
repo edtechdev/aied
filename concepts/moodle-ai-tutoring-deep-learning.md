@@ -35,6 +35,10 @@ Unlike [[tutoring-specific-vs-general-ai]] debates about specialized tutors, thi
 - Can the deep learning scaffolding generalize across disciplines beyond the tested contexts?
 - What is the instructor's role when AI handles adaptive questioning within Moodle?
 
+## Source
+
+- [https://arxiv.org/abs/2605.06963](https://arxiv.org/abs/2605.06963)
+
 ## Related Pages
 - [[codify-socratic-tutoring-programming]] — Web-based ITS platform with integrated adaptive assessment and analytics
 - [[taklif-ai-interest-based-personalized-assignments]] — AI integration in LMS assignment workflows

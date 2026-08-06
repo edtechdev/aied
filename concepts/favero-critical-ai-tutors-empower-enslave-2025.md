@@ -33,6 +33,10 @@ The authors' emphasis on student voice — centering learner perspectives in des
 
 For educators and policymakers, this paper provides intellectual ammunition for resisting uncritical AI adoption. It suggests that [[regulation]] of educational AI should consider not just data privacy and bias but also cognitive and developmental outcomes — a position that resonates with calls in the [[ai-governance-education]] community for holistic evaluation frameworks.
 
+## Source
+
+- [https://arxiv.org/abs/2507.06878](https://arxiv.org/abs/2507.06878)
+
 ## Related Pages
 
 - [[intelligent-tutoring-systems]] — The broader ITS research context

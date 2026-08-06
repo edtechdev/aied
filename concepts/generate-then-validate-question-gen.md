@@ -23,6 +23,10 @@ Novel generate-then-validate approach for educational question generation. Reduc
 - [[automated-assessment]] — Reduces manual question authoring burden
 - [[educational-nlp]] — NLP techniques for learning materials
 
+## Source
+
+- [https://arxiv.org/abs/2512.10110](https://arxiv.org/abs/2512.10110)
+
 ## Related Pages
 - [[slidesqaqa-pedagogical-question-generation]] — contrasts with front-loaded pedagogical reasoning approach
 - [[short-answer-scoring-quality-degradation]] — Quality assurance methodology for automated assessment generation

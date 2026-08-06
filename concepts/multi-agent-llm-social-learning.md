@@ -30,6 +30,10 @@ Multi-agent LLM configurations for learning. Two experiments (N=315 math, N=247 
 - [[llm-student-modeling-memory]]
 - [[ai-tutor-effectiveness-review]]
 
+## Source
+
+- [https://arxiv.org/abs/2604.02677](https://arxiv.org/abs/2604.02677)
+
 ## Related Pages
 
 - [[agentic-ai-ecosystems-higher-education]] — Extends multi-agent LLM learning to institutional scale
