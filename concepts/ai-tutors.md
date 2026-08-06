@@ -1,18 +1,17 @@
 ---
-title: "Multi Agent"
+title: "Ai Tutors"
 created: 2026-08-06
 updated: 2026-08-06
 type: concept
-tags: [multi-agent]
+tags: [ai-tutors]
 sources: []
 confidence: low
 ---
 
 > **Stub.**
 
-# Multi Agent
+# Ai Tutors
 
 ## Related Pages
 
 - [[crewscaler-ai-upskilling-framework]]
-- [[instructional-agents-multi-agent-course-gen]]
