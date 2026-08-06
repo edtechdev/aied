@@ -6,7 +6,7 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 20:22:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:27:58 +0000</lastBuildDate>
     <item>
       <title>Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module</title>
       <link>https://edtechdev.github.io/aied/pages/aaai2026-prompting-literacy-k12.html</link>
@@ -127,6 +127,13 @@
       <description><![CDATA[<p>**Stub.** Full synthesis pending.</p>]]></description>
     </item>
     <item>
+      <title>Dialogue Tutoring</title>
+      <link>https://edtechdev.github.io/aied/pages/dialogue-tutoring.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/dialogue-tutoring.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
       <title>Educational Technology</title>
       <link>https://edtechdev.github.io/aied/pages/educational-technology.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/educational-technology.html</guid>
@@ -197,6 +204,13 @@
       <description><![CDATA[<p>**Stub:** Auto-created stub for cross-linking.</p>]]></description>
     </item>
     <item>
+      <title>Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students</title>
+      <link>https://edtechdev.github.io/aied/pages/llm-student-simulation-teacher-insights.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/llm-student-simulation-teacher-insights.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Semi-structured interviews with 12 teachers who tutored LLM-simulated students (MathDial dataset) reveal key authenticity gaps: overly complex language, lack of emotions, unnatural attentiveness, and logical inconsistency. The study categorizes four real-world student behavior types along scaffolding and presence dimensions, and provides design guidelines for building higher-fidelity LLM student simulations.</p>]]></description>
+    </item>
+    <item>
       <title>Math Education</title>
       <link>https://edtechdev.github.io/aied/pages/math-education.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/math-education.html</guid>
@@ -239,6 +253,13 @@
       <description><![CDATA[<p>**Stub:** Prompting literacy is the ability to craft effective natural-language prompts to communicate with AI chatbots for learning — encompassing what AI can do to support learning, when to use AI effectively, and how to structure prompts for different types of assistance.</p>]]></description>
     </item>
     <item>
+      <title>Student Simulation</title>
+      <link>https://edtechdev.github.io/aied/pages/student-simulation.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/student-simulation.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
       <title>Teacher Agency</title>
       <link>https://edtechdev.github.io/aied/pages/teacher-agency.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/teacher-agency.html</guid>
@@ -260,32 +281,11 @@
       <description><![CDATA[<p>**Stub.**</p>]]></description>
     </item>
     <item>
-      <title>Upskilling</title>
-      <link>https://edtechdev.github.io/aied/pages/upskilling.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/upskilling.html</guid>
+      <title>Teacher Training</title>
+      <link>https://edtechdev.github.io/aied/pages/teacher-training.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/teacher-training.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Stub.**</p>]]></description>
-    </item>
-    <item>
-      <title>Workforce Development</title>
-      <link>https://edtechdev.github.io/aied/pages/workforce-development.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/workforce-development.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Stub.**</p>]]></description>
-    </item>
-    <item>
-      <title>When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills</title>
-      <link>https://edtechdev.github.io/aied/pages/antiskillbench-persona-skills-privacy-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/antiskillbench-persona-skills-privacy-2026.html</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills** — Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 behaviorally rich profiles. Evaluates skill-level privacy leakage, agent-level attribute disclosure, and behavioral impersonation across three skill-distillation strategies... <a href="privacy.html">privacy</a> <a href="agentic-ai.html">agentic-ai</a> <a href="student-ai-interaction.html">student-ai-interaction</a> <a href="bias-mitigation.html">bias-mitigation</a> <a href="personalized-learning.html">personalized-learning</a> <a href="benchmark.html">benchmark</a></p>]]></description>
-    </item>
-    <item>
-      <title>Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery</title>
-      <link>https://edtechdev.github.io/aied/pages/behaviorally-adaptive-visual-diversion-assessment-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/behaviorally-adaptive-visual-diversion-assessment-2026.html</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... <a href="assessment.html">assessment</a> <a href="accessible-learning.html">accessible-learning</a> <a href="privacy.html">privacy</a> <a href="academic-integrity.html">academic-integrity</a> <a href="equity.html">equity</a> <a href="adaptive-learning.html">adaptive-learning</a></p>]]></description>
     </item>
   </channel>
 </rss>

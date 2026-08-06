@@ -2864,6 +2864,15 @@
     "url": "pages/desirable-difficulties.html"
   },
   {
+    "slug": "dialogue-tutoring",
+    "title": "Dialogue Tutoring",
+    "tags": [
+      "dialogue-tutoring"
+    ],
+    "content": "\nStub.\nDialogue TutoringRelated Pagesllm-student-simulation-teacher-insights",
+    "url": "pages/dialogue-tutoring.html"
+  },
+  {
     "slug": "didactical-teacher-assistant-dimensional-modeling",
     "title": "A didactical-driven teacher assistant for a dimensional modeling course",
     "tags": [
@@ -4634,7 +4643,7 @@
     "tags": [
       "k-12"
     ],
-    "content": "\nK-12 AI education is a major wiki domain: k-12-ai-education, ml-literacy-primary-education, gaide-vibe-coding-k12-teachers, concept-catalyst-k12-teacher, and scaffolding-critical-engagement-genai-minority-students span curricula, teacher support, and equity in schools (ai-education, equity).\nK 12Related Pages\naccess-not-enough-ai-tutoring-2026 \u2014 Elementary AI tutoring RCTs\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher AI RCT in Turkish K-12 schools\nagentic-literacy-debt \u2014 4 of 8 papers in May 28 s",
+    "content": "\nK-12 AI education is a major wiki domain: k-12-ai-education, ml-literacy-primary-education, gaide-vibe-coding-k12-teachers, concept-catalyst-k12-teacher, and scaffolding-critical-engagement-genai-minority-students span curricula, teacher support, and equity in schools (ai-education, equity).\nK 12Related Pages\n-- llm-student-simulation-teacher-insights\n access-not-enough-ai-tutoring-2026 \u2014 Elementary AI tutoring RCTs\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher AI RCT in Turkish K-12 schools\nagent",
     "url": "pages/k-12.html"
   },
   {
@@ -4713,7 +4722,7 @@
     "tags": [
       "knowledge-tracing"
     ],
-    "content": "\nKnowledge tracing \u2014 modeling what learners know over time \u2014 is the wiki's richest modeling thread: stanbkt-bayesian-knowledge-tracing, mbp-kt-meta-behavioral-knowledge-tracing, neural-symbolic-knowledge-tracing, explainable-probabilistic-kt, and difficulty-aware-dialogue-kt advance Bayesian, deep, and hybrid models, now enhanced by LLMs (student-modeling, educational-measurement).\nKnowledge TracingRelated Pages\nskill-acquisition-without-temporal-info -- A neural framework predicts next-skill ac",
+    "content": "\nKnowledge tracing \u2014 modeling what learners know over time \u2014 is the wiki's richest modeling thread: stanbkt-bayesian-knowledge-tracing, mbp-kt-meta-behavioral-knowledge-tracing, neural-symbolic-knowledge-tracing, explainable-probabilistic-kt, and difficulty-aware-dialogue-kt advance Bayesian, deep, and hybrid models, now enhanced by LLMs (student-modeling, educational-measurement).\nKnowledge TracingRelated Pages\n-- llm-student-simulation-teacher-insights\n skill-acquisition-without-temporal-info ",
     "url": "pages/knowledge-tracing.html"
   },
   {
@@ -5409,6 +5418,23 @@
     "url": "pages/llm-student-simulation-misconception-faithfulness.html"
   },
   {
+    "slug": "llm-student-simulation-teacher-insights",
+    "title": "Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students",
+    "tags": [
+      "llm",
+      "student-simulation",
+      "teacher-training",
+      "dialogue-tutoring",
+      "k-12",
+      "authenticity",
+      "llm-evaluation",
+      "community-of-inquiry",
+      "scaffolding"
+    ],
+    "content": "\nSynthesis: Semi-structured interviews with 12 teachers who tutored LLM-simulated students (MathDial dataset) reveal key authenticity gaps: overly complex language, lack of emotions, unnatural attentiveness, and logical inconsistency. The study categorizes four real-world student behavior types along scaffolding and presence dimensions, and provides design guidelines for building higher-fidelity LLM student simulations.\nCan LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutori",
+    "url": "pages/llm-student-simulation-teacher-insights.html"
+  },
+  {
     "slug": "llm-tts-dialogue-lesson-generation",
     "title": "A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential",
     "tags": [
@@ -5455,7 +5481,7 @@
     "tags": [
       "llm"
     ],
-    "content": "\nLLMs (large language models) are the wiki's dominant technology: from llm-detecting-llm-generated-content-education and llm-feedback-programming-classroom to llm-student-simulation-misconception-faithfulness and special-r1-rl-special-education, the corpus tracks LLMs as tutors, graders, simulators, and content generators \u2014 with capability consistently outpacing pedagogical validation (generative-ai, ai-ed-evaluation).\nLlmRelated Pages\nsupplynet-visual-exploratory-learning \u2014 Contextual graph-bas",
+    "content": "\nLLMs (large language models) are the wiki's dominant technology: from llm-detecting-llm-generated-content-education and llm-feedback-programming-classroom to llm-student-simulation-misconception-faithfulness and special-r1-rl-special-education, the corpus tracks LLMs as tutors, graders, simulators, and content generators \u2014 with capability consistently outpacing pedagogical validation (generative-ai, ai-ed-evaluation).\nLlmRelated Pages\n-- llm-student-simulation-teacher-insights\n supplynet-visual",
     "url": "pages/llm.html"
   },
   {
@@ -6716,7 +6742,7 @@
       "scaffolding",
       "ai-education"
     ],
-    "content": "ScaffoldingInstructional scaffolding techniques and their implementation in AI-enhanced learning environmentsConnectionsRelated Pages\nagentic-ai-pedagogical-best-practice-2026 \u2014 Dynamic scaffolding under agent initiative\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Course + LLM assistant as journaling scaffolds (2x2 RCT)\nagency-gap-ai-writing \u2014 Proactive designs scaffold reasoning but risk over-scaffolding\nlearner-centered-feedback-ai \u2014 AI as reflective scaffold for teachers' evaluative jud",
+    "content": "ScaffoldingInstructional scaffolding techniques and their implementation in AI-enhanced learning environmentsConnectionsRelated Pages\n-- llm-student-simulation-teacher-insights\n agentic-ai-pedagogical-best-practice-2026 \u2014 Dynamic scaffolding under agent initiative\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Course + LLM assistant as journaling scaffolds (2x2 RCT)\nagency-gap-ai-writing \u2014 Proactive designs scaffold reasoning but risk over-scaffolding\nlearner-centered-feedback-ai \u2014 AI as refl",
     "url": "pages/scaffolding.html"
   },
   {
@@ -7273,6 +7299,15 @@
     "url": "pages/student-regulatory-awareness-genai.html"
   },
   {
+    "slug": "student-simulation",
+    "title": "Student Simulation",
+    "tags": [
+      "student-simulation"
+    ],
+    "content": "\nStub.\nStudent SimulationRelated Pagesllm-student-simulation-teacher-insights",
+    "url": "pages/student-simulation.html"
+  },
+  {
     "slug": "students-llm-usage-critical-thinking",
     "title": "Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks",
     "tags": [
@@ -7530,6 +7565,15 @@
     ],
     "content": "\nStub.\nTeacher SupportRelated Pagesinstructional-agents-multi-agent-course-gen",
     "url": "pages/teacher-support.html"
+  },
+  {
+    "slug": "teacher-training",
+    "title": "Teacher Training",
+    "tags": [
+      "teacher-training"
+    ],
+    "content": "\nStub.\nTeacher TrainingRelated Pagesllm-student-simulation-teacher-insights",
+    "url": "pages/teacher-training.html"
   },
   {
     "slug": "teaching-feedback-classification-benchmark",

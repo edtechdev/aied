@@ -15,7 +15,8 @@ confidence: low
 
 
 ## Related Pages
-- [[supplynet-visual-exploratory-learning]] — Contextual graph-based LLM multi-agent framework for educational simulation
+-- [[llm-student-simulation-teacher-insights]]
+ [[supplynet-visual-exploratory-learning]] — Contextual graph-based LLM multi-agent framework for educational simulation
 - [[kt4eqg-personalized-question-generation]] — 7 of 8 papers in May 28 scan
 - [[rubric-aware-grading-rec-cbm]] — 2 of 8 papers in May 28 scan
 - [[socially-fluent-ai-identity-detection]] — Socially fluent LLMs decouple conversational signals from source identity

@@ -133,6 +133,7 @@
 - [[assessment-validity]] — Assessment Validity in AI Education
 - [[astra-atco-training-simulator]] — ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots
 - [[at-risk-students-ml-prediction]] — Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms
+- [[augmentation]] — Augmentation
 - [[authentic-assessment]] — Authentic Assessment
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[automated-assessment]] — Automated Assessment
@@ -351,6 +352,7 @@
 - [[human-ai-collaboration]] — Human Ai Collaboration
 - [[human-ai-collaboration-prerequisite-functions]] — What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it
 - [[human-ai-collaboration-trust-expectations]] — Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust
+- [[human-ai-interaction]] — Human Ai Interaction
 - [[human-computer-interaction]] — Human Computer Interaction
 - [[human-in-the-loop]] — Human In The Loop
 - [[human-in-the-loop-ai]] — Human-in-the-Loop AI for Education
@@ -359,6 +361,7 @@
 - [[humanlike-ai-collaborative-writing]] — \"It Felt a Bit Eerie\": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
 - [[hybrid-human-ai-tutoring-differentiated]] — Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
+- [[hybrid-intelligence]] — Hybrid Intelligence
 - [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game
 - [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents
 - [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
@@ -442,6 +445,7 @@
 - [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
 - [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
 - [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
+- [[llm-student-simulation-teacher-insights]] — Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students
 - [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential
 - [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
 - [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
@@ -510,6 +514,7 @@
 - [[privacy]] — Privacy in Educational AI
 - [[privacy-aware-classroom-incident-recognition-2026]] — Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition
 - [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing
+- [[professional-development]] — Professional Development
 - [[professional-training]] — Professional Training
 - [[programming-its]] — Programming Intelligent Tutoring Systems
 - [[project-based-learning]] — Project-Based Learning and AI
@@ -603,6 +608,7 @@
 - [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
 - [[taklif-ai-interest-based-personalized-assignments]] — Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments
 - [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
+- [[teacher-agency]] — Teacher Agency
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
 - [[teacher-ai-coagency]] — Teacher Ai Coagency
 - [[teacher-ai-collaboration]] — Teacher Ai Collaboration
