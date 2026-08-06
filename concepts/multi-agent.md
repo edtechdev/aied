@@ -14,4 +14,5 @@ confidence: low
 
 ## Related Pages
 
+- [[crewscaler-ai-upskilling-framework]]
 - [[instructional-agents-multi-agent-course-gen]]

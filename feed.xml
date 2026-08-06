@@ -6,7 +6,7 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 15:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 18:02:29 +0000</lastBuildDate>
     <item>
       <title>Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module</title>
       <link>https://edtechdev.github.io/aied/pages/aaai2026-prompting-literacy-k12.html</link>
@@ -50,6 +50,13 @@
       <description><![CDATA[<p>**Synthesis:** Examines AI-powered personalized learning in elementary fraction instruction through a systematic review, quantitative study (N=120), and qualitative teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and engagement. Teachers reported AI tools helped differentiate instruction but required professional development for effective integration. <a href="adaptive-learning.html">adaptive-learning</a>, <a href="personalized-learning.html">personalized-learning</a>, <a href="k-12.html">k-12</a>, <a href="math-education.html">math-education</a>, and <a href="ai-generated-content.html">ai-generated-content</a>.</p>]]></description>
     </item>
     <item>
+      <title>Ai Tutors</title>
+      <link>https://edtechdev.github.io/aied/pages/ai-tutors.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-tutors.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
       <title>Andragogy</title>
       <link>https://edtechdev.github.io/aied/pages/andragogy.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/andragogy.html</guid>
@@ -57,11 +64,25 @@
       <description><![CDATA[<p>**Stub:** Auto-created for cross-linking.</p>]]></description>
     </item>
     <item>
+      <title>Assessment Development</title>
+      <link>https://edtechdev.github.io/aied/pages/assessment-development.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/assessment-development.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
       <title>WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant</title>
       <link>https://edtechdev.github.io/aied/pages/chat-debugging-llm-hardware-education-2026.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/chat-debugging-llm-hardware-education-2026.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Synthesis:** Work-in-progress exploring LLMs as debugging assistants for physical hardware lab courses. Proposes 'Chat-Debugging' where students interact with an LLM to diagnose circuit faults. Aims to reduce frustration and improve debugging skill development. Initial prototype tested in an undergraduate hardware course; preliminary results suggest LLM assistance helps students identify faults faster and provides just-in-time scaffolding without giving away solutions. <a href="llm.html">llm</a>, <a href="scaffolding.html">scaffolding</a>, <a href="cs-education.html">cs-education</a>, <a href="stem-education.html">stem-education</a>, and <a href="student-experience.html">student-experience</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Content Generation</title>
+      <link>https://edtechdev.github.io/aied/pages/content-generation.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/content-generation.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
     </item>
     <item>
       <title>Content Quality</title>
@@ -76,6 +97,13 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/conversational-agents.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Stub:** Auto-created stub for cross-linking.</p>]]></description>
+    </item>
+    <item>
+      <title>AI-accelerated End-to-End Framework for Rapid Professional Upskilling</title>
+      <link>https://edtechdev.github.io/aied/pages/crewscaler-ai-upskilling-framework.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/crewscaler-ai-upskilling-framework.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** The Crew Scaler framework applies AI acceleration across all five stages of professional upskilling—knowledge acquisition, content development, content review and verification, AI-tutor coaching, and assessment development—with external validation from NASBA CPE accreditation, NVIDIA certification exam passes (3/3, 14 in progress), and a 1,267-item risk dataset production. Dual-efficiency design pairs AI-accelerated production with learning-efficient outputs (prerequisite ordering, spaced review, misconception-keyed distractors, 16 tutoring protocols).</p>]]></description>
     </item>
     <item>
       <title>Design Guidelines</title>
@@ -190,6 +218,20 @@
       <description><![CDATA[<p>**Stub.**</p>]]></description>
     </item>
     <item>
+      <title>Upskilling</title>
+      <link>https://edtechdev.github.io/aied/pages/upskilling.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/upskilling.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
+      <title>Workforce Development</title>
+      <link>https://edtechdev.github.io/aied/pages/workforce-development.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/workforce-development.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
       <title>When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills</title>
       <link>https://edtechdev.github.io/aied/pages/antiskillbench-persona-skills-privacy-2026.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/antiskillbench-persona-skills-privacy-2026.html</guid>
@@ -244,48 +286,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/deeptutor.html</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**A fully open-source agentic tutoring framework that closes the loop between citation-grounded problem tutoring and difficulty-calibrated question generation**, powered by a hybrid personalization engine combining static knowledge grounding with dynamic learner memory. Evaluated via TutorBench across 5 university disciplines, improving personalized metrics by 10.8% and general agentic reasoning by 29.4% across 5 backbone models.</p>]]></description>
-    </item>
-    <item>
-      <title>EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers</title>
-      <link>https://edtechdev.github.io/aied/pages/eduzone-llm-safety-k12.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/eduzone-llm-safety-k12.html</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**EduZone is an automated evaluation framework that generates contextually grounded adversarial interactions to probe LLM safety in K-12 education, revealing that models are more vulnerable to education-specific harms and dynamic multi-turn conversations than existing guardrails address.**</p>]]></description>
-    </item>
-    <item>
-      <title>Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</title>
-      <link>https://edtechdev.github.io/aied/pages/egai-power-systems-education.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/egai-power-systems-education.html</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**An open, executable module library for engineering-grounded AI (EGAI) in power systems education lowers the entry barrier for newcomers, with a progressive difficulty ladder from DNN templates to physics-informed neural networks, delivered via IEEE online course and PES webinars.**</p>]]></description>
-    </item>
-    <item>
-      <title>Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias</title>
-      <link>https://edtechdev.github.io/aied/pages/gpt4o-mini-music-analysis-scoring.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/gpt4o-mini-music-analysis-scoring.html</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought prompting agreeing most strongly with teacher means while RAG systematically over-scores and self-consistency trades individual-level agreement for repeatability.**</p>]]></description>
-    </item>
-    <item>
-      <title>From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents</title>
-      <link>https://edtechdev.github.io/aied/pages/mooc-to-maic.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/mooc-to-maic.html</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**A new paradigm for online education replacing MOOCs with LLM-driven multi-agent AI classrooms**, piloted at Tsinghua University with 100K+ learning records from 500+ students. MAIC uses specialized agents (Teacher, Assistant, Classmate, Analyzer) to deliver personalized, adaptive learning at scale.</p>]]></description>
-    </item>
-    <item>
-      <title>OECD Digital Education Outlook 2026</title>
-      <link>https://edtechdev.github.io/aied/pages/oecd-digital-education-outlook-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/oecd-digital-education-outlook-2026.html</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**OECD flagship report** synthesising empirical evidence and expert insights on generative AI in education. Central finding: general-purpose AI chatbots improve task performance but produce no durable learning gains; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.</p>]]></description>
-    </item>
-    <item>
-      <title>Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education</title>
-      <link>https://edtechdev.github.io/aied/pages/rail-ed-genai-literacy-teacher-education.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/rail-ed-genai-literacy-teacher-education.html</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**RAIL-Ed is an integrative, developmental, and dialectical framework for generative AI literacy in K-12 teacher education, built from a systematic review of 67 studies and specifying six interdependent pillars with a three-level maturity rubric.**</p>]]></description>
     </item>
   </channel>
 </rss>

@@ -15,7 +15,8 @@ confidence: low
 
 
 ## Related Pages
-- [[ai-coaching-rl-skill-development]] — RL-based AI coaching for accelerating professional skill development in motor domains
+-- [[crewscaler-ai-upskilling-framework]]
+ [[ai-coaching-rl-skill-development]] — RL-based AI coaching for accelerating professional skill development in motor domains
 - [[supplynet-visual-exploratory-learning]] — SupplyNet applies AI simulation to professional supply chain management training
 - [[genai-architecture-education]]
 - [[metacognitive-learning-scenarios-taxonomy]] — Scenario taxonomy enables targeted AI-enhanced professional development

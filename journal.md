@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-06 | Total entries: 465
+Last updated: 2026-08-06 | Total entries: 466
 
 ## 2026-08-06
 
@@ -21,6 +21,9 @@ Last updated: 2026-08-06 | Total entries: 465
 - ◐ [[chat-debugging-llm-hardware-education-2026]] — raw/papers/2608.02420.md
   **WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant**
   Tags: [llm, cs-education, higher-ed, scaffolding, stem-education, student-experience]
+- ● [[crewscaler-ai-upskilling-framework]] — raw/papers/2607.14044.md
+  **AI-accelerated End-to-End Framework for Rapid Professional Upskilling**
+  Tags: [professional-training, upskilling, workforce-development, llm, multi-agent, ai-tutors, assessment-development, content-generation, knowledge-acquisition, verification]
 - ● [[instructional-agents-multi-agent-course-gen]] — raw/papers/instructional-agents-multi-agent-course-gen.md
   **Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design**
   Tags: [multi-agent, llm, instructional-design, course-generation, addie, higher-ed, teacher-support, automated-courseware, faculty-development]

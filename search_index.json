@@ -1358,6 +1358,15 @@
     "url": "pages/ai-tutoring.html"
   },
   {
+    "slug": "ai-tutors",
+    "title": "Ai Tutors",
+    "tags": [
+      "ai-tutors"
+    ],
+    "content": "\nStub.\nAi TutorsRelated Pagescrewscaler-ai-upskilling-framework",
+    "url": "pages/ai-tutors.html"
+  },
+  {
     "slug": "ai-vocational-education-training-review",
     "title": "Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness",
     "tags": [
@@ -1508,6 +1517,15 @@
     ],
     "content": "ASE-26: A Curriculum for Agentic Software Engineering as a Discipline\nMikael Gorsky (2026) \u2014 arXiv:2606.01152.\ud83d\udcc4 Full text (arXiv)Formalizes Agentic Software Engineering (ASE) as a distinct discipline. Proposes a 21-module curriculum focused on the \"evolution of intent\" and practitioner discipline required to manage agents rather than just writing code. This work emphasizes that ai-literacy is a developmental capacity requiring structured scaffolding and prompt-engineering discipline. It connects",
     "url": "pages/ase-26-agentic-software-engineering-curriculum.html"
+  },
+  {
+    "slug": "assessment-development",
+    "title": "Assessment Development",
+    "tags": [
+      "assessment-development"
+    ],
+    "content": "\nStub.\nAssessment DevelopmentRelated Pagescrewscaler-ai-upskilling-framework",
+    "url": "pages/assessment-development.html"
   },
   {
     "slug": "assessment-team-problem-solving-computing-education",
@@ -2382,6 +2400,15 @@
     "url": "pages/constructivist.html"
   },
   {
+    "slug": "content-generation",
+    "title": "Content Generation",
+    "tags": [
+      "content-generation"
+    ],
+    "content": "\nStub.\nContent GenerationRelated Pagescrewscaler-ai-upskilling-framework",
+    "url": "pages/content-generation.html"
+  },
+  {
     "slug": "content-quality",
     "title": "Content Quality",
     "tags": [
@@ -2528,6 +2555,24 @@
     ],
     "content": "What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated EducationYao (2026) \u2014 Independent / university policy audit. arXiv preprint (cs.CY).\ud83d\udcc4 Full text (arXiv)Generative AI undermines a basic premise of educational assessment: that submitted work reliably evidences the human capacities a credential certifies. This paper proposes cognitive stewardship, a framework linking four elements \\u2014 the learning claim, the delegation boundary, the evidence standard, and safeguards ",
     "url": "pages/credential-cognitive-stewardship-ai-assessment.html"
+  },
+  {
+    "slug": "crewscaler-ai-upskilling-framework",
+    "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
+    "tags": [
+      "professional-training",
+      "upskilling",
+      "workforce-development",
+      "llm",
+      "multi-agent",
+      "ai-tutors",
+      "assessment-development",
+      "content-generation",
+      "knowledge-acquisition",
+      "verification"
+    ],
+    "content": "\nSynthesis: The Crew Scaler framework applies AI acceleration across all five stages of professional upskilling\u2014knowledge acquisition, content development, content review and verification, AI-tutor coaching, and assessment development\u2014with external validation from NASBA CPE accreditation, NVIDIA certification exam passes (3/3, 14 in progress), and a 1,267-item risk dataset production. Dual-efficiency design pairs AI-accelerated production with learning-efficient outputs (prerequisite ordering, s",
+    "url": "pages/crewscaler-ai-upskilling-framework.html"
   },
   {
     "slug": "critical-engagement-code-completion",
@@ -5693,7 +5738,7 @@
     "tags": [
       "multi-agent"
     ],
-    "content": "\nStub.\nMulti AgentRelated Pagesinstructional-agents-multi-agent-course-gen",
+    "content": "\nStub.\nMulti AgentRelated Pagescrewscaler-ai-upskilling-framework\ninstructional-agents-multi-agent-course-gen",
     "url": "pages/multi-agent.html"
   },
   {
@@ -6189,7 +6234,7 @@
     "tags": [
       "professional-training"
     ],
-    "content": "\nProfessional training with AI spans simulation and feedback: ai-psychotherapy-training-avatars, adaptive-virtual-patient-psychotherapy-training, medgame-llm-medical-education-gamification, and tibetcpr-ai-training-feedback use AI avatars, patients, and feedback to train professionals at scale (simulation-based-learning, formative-assessment).\nProfessional TrainingRelated Pages\nai-coaching-rl-skill-development \u2014 RL-based AI coaching for accelerating professional skill development in motor domain",
+    "content": "\nProfessional training with AI spans simulation and feedback: ai-psychotherapy-training-avatars, adaptive-virtual-patient-psychotherapy-training, medgame-llm-medical-education-gamification, and tibetcpr-ai-training-feedback use AI avatars, patients, and feedback to train professionals at scale (simulation-based-learning, formative-assessment).\nProfessional TrainingRelated Pages\n-- crewscaler-ai-upskilling-framework\n ai-coaching-rl-skill-development \u2014 RL-based AI coaching for accelerating profess",
     "url": "pages/professional-training.html"
   },
   {
@@ -7652,6 +7697,15 @@
     "url": "pages/universities-ai-era-rethinking.html"
   },
   {
+    "slug": "upskilling",
+    "title": "Upskilling",
+    "tags": [
+      "upskilling"
+    ],
+    "content": "\nStub.\nUpskillingRelated Pagescrewscaler-ai-upskilling-framework",
+    "url": "pages/upskilling.html"
+  },
+  {
     "slug": "varga-atkins-educators-guide-multimodal-learning-genai-2025",
     "title": "Educator's Guide to Multimodal Learning with GenAI",
     "tags": [
@@ -7764,6 +7818,15 @@
     ],
     "content": "Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning AnalyticsHuyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026) \u2014 Institution.\ud83d\udcc4 Full text (arXiv)Revisits WordStream (2009) as a quantitative encoding for qualitative learning analytics; demonstrates how structured coding can surface cohort-level trends while preserving individual narrative context.SynthesisThrough the WordStream Glass: Revisiting Quantitative Encoding for Q",
     "url": "pages/wordstream-glass-learning-analytics.html"
+  },
+  {
+    "slug": "workforce-development",
+    "title": "Workforce Development",
+    "tags": [
+      "workforce-development"
+    ],
+    "content": "\nStub.\nWorkforce DevelopmentRelated Pagescrewscaler-ai-upskilling-framework",
+    "url": "pages/workforce-development.html"
   },
   {
     "slug": "writing-education",
