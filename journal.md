@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-06 | Total entries: 466
+Last updated: 2026-08-06 | Total entries: 467
 
 ## 2026-08-06
 
@@ -39,6 +39,9 @@ Last updated: 2026-08-06 | Total entries: 466
 - ◐ [[privacy-aware-classroom-incident-recognition-2026]] — raw/papers/2608.05115.md
   **Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition**
   Tags: [k-12, privacy, multimodal, classroom, benchmark, ai-detection]
+- ● [[teacher-ai-teaming-five-levels]] — raw/papers/2511.19580.md
+  **Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence**
+  Tags: [teacher-role, teacher-ai-teaming, generative-ai, human-ai-interaction, teacher-agency, hybrid-intelligence, professional-development, augmentation]
 
 ## 2026-08-05
 

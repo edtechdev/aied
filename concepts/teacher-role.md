@@ -13,7 +13,8 @@ confidence: low
 ## Connections
 
 ## Related Pages
-- [[genai-can-harm-teaching-rct-2026]] — Principal-agent problem in AI-assisted teaching
+-- [[teacher-ai-teaming-five-levels]]
+ [[genai-can-harm-teaching-rct-2026]] — Principal-agent problem in AI-assisted teaching
 - [[learner-centered-feedback-ai]] — Teachers calibrate AI tone to preserve professional voice
 - [[care-full-feedback-genai]] — Feedback as professional craft and ethical practice
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)
