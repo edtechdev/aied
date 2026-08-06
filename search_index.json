@@ -2371,6 +2371,15 @@
     "url": "pages/contextual-sycophancy-ai-literacy.html"
   },
   {
+    "slug": "conversational-agents",
+    "title": "Conversational Agents",
+    "tags": [
+      "conversational-agents"
+    ],
+    "content": "\nStub: Auto-created stub for cross-linking.\nConversational AgentsRelated Pagesknowloop-confusion-to-consolidation-2026",
+    "url": "pages/conversational-agents.html"
+  },
+  {
     "slug": "conversational-ai-informal-learning",
     "title": "Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning",
     "tags": [
@@ -4557,6 +4566,23 @@
     "url": "pages/knowledge-tracing.html"
   },
   {
+    "slug": "knowloop-confusion-to-consolidation-2026",
+    "title": "From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review",
+    "tags": [
+      "conversational-agents",
+      "personalized-learning",
+      "higher-ed",
+      "learning-by-teaching",
+      "dual-agent",
+      "scaffolding",
+      "confusion-detection",
+      "teach-back",
+      "lecture-review"
+    ],
+    "content": "\nSynthesis: KnowLoop, a dual-agent conversational system for post-lecture review, structures learning around three stages\u2014Recognize (mark in-situ confusion during lectures), Resolve (Teaching Assistant provides context-grounded clarification), and Consolidate (Peer scaffolds reflective teach-back). A 22-participant study shows confusion points serve as personalized review anchors, lecture-grounded clarification enables more targeted support than general-purpose AI, and teach-back prompts learner",
+    "url": "pages/knowloop-confusion-to-consolidation-2026.html"
+  },
+  {
     "slug": "kt4eqg-personalized-question-generation",
     "title": "KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing",
     "tags": [
@@ -4710,6 +4736,15 @@
     ],
     "content": "Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and LearningShravika Mittal, Su Lin Blodgett, Q. Vera Liao\n\ud83d\udcc4 Full text (arXiv)SummaryIn an 8-day field experiment comparing ChatGPT vs. Google Search for informal learning, participants using ChatGPT experienced diminished agency, offloaded information selection to AI, and suffered greater meta-cognitive load \u2014 resulting in worse learning outcomes, particularly for higher-order critical thinking. The study ide",
     "url": "pages/learning-by-chatting-genai-impact.html"
+  },
+  {
+    "slug": "learning-by-teaching",
+    "title": "Learning By Teaching",
+    "tags": [
+      "learning-by-teaching"
+    ],
+    "content": "\nStub: Auto-created stub for cross-linking.\nLearning By TeachingRelated Pagesknowloop-confusion-to-consolidation-2026",
+    "url": "pages/learning-by-teaching.html"
   },
   {
     "slug": "learning-engagement-assistant-lea",

@@ -6,7 +6,7 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:25:46 +0000</lastBuildDate>
     <item>
       <title>Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module</title>
       <link>https://edtechdev.github.io/aied/pages/aaai2026-prompting-literacy-k12.html</link>
@@ -50,6 +50,13 @@
       <description><![CDATA[<p>**Stub.** Full synthesis pending.</p>]]></description>
     </item>
     <item>
+      <title>Conversational Agents</title>
+      <link>https://edtechdev.github.io/aied/pages/conversational-agents.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/conversational-agents.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub:** Auto-created stub for cross-linking.</p>]]></description>
+    </item>
+    <item>
       <title>Design Thinking</title>
       <link>https://edtechdev.github.io/aied/pages/design-thinking.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/design-thinking.html</guid>
@@ -71,11 +78,25 @@
       <description><![CDATA[<p>**Stub:** Help-seeking in learning environments encompasses how students request and use assistance — productive help-seeking involves attempting solutions first, while unproductive patterns like premature requests or superficial reading of hints are associated with reduced learning gains.</p>]]></description>
     </item>
     <item>
+      <title>From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review</title>
+      <link>https://edtechdev.github.io/aied/pages/knowloop-confusion-to-consolidation-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/knowloop-confusion-to-consolidation-2026.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** KnowLoop, a dual-agent conversational system for post-lecture review, structures learning around three stages—Recognize (mark in-situ confusion during lectures), Resolve (Teaching Assistant provides context-grounded clarification), and Consolidate (Peer scaffolds reflective teach-back). A 22-participant study shows confusion points serve as personalized review anchors, lecture-grounded clarification enables more targeted support than general-purpose AI, and teach-back prompts learners to reveal conceptual gaps and connect ideas across the lecture.</p>]]></description>
+    </item>
+    <item>
       <title>Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems</title>
       <link>https://edtechdev.github.io/aied/pages/lak2026-hint-button-unproductive-use.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/lak2026-hint-button-unproductive-use.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Synthesis:** A three-semester, 999-student analysis of hint usage in a K-12 mathematics ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced learning gains, even after controlling for prior knowledge. The work argues from an affordance perspective that the persistent "hint button" design common across ITSs can inadvertently enable bypass strategies, transforming scaffolds into shortcuts.</p>]]></description>
+    </item>
+    <item>
+      <title>Learning By Teaching</title>
+      <link>https://edtechdev.github.io/aied/pages/learning-by-teaching.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/learning-by-teaching.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub:** Auto-created stub for cross-linking.</p>]]></description>
     </item>
     <item>
       <title>Math Education</title>
@@ -265,27 +286,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/chatgpt-feedback-engagement-genai.html</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>1. **Prompt engineering** — the quality of GenAI feedback is largely determined by prompt clarity (e.g. the CLEAR framework; Lo 2023). 2. **Evaluative judgement** — discerning useful feedback from plausible-but-unreliable output. 3. **Emotional reflexivity** — balancing trust and doubt by understanding GenAI's capabilities and limits (Bearman & Ajjawi 2023). 4. **Ethical decision-making** — deciding how, when, and why to use GenAI feedback so work remains authentic (academic integrity). 5. **Metacognitive skills** — setting feedback goals, planning prompts, self-monitoring interactions, and reflecting on the whole process.^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]</p>]]></description>
-    </item>
-    <item>
-      <title>The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise</title>
-      <link>https://edtechdev.github.io/aied/pages/cognitive-commons-ai-expertise-regeneration.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/cognitive-commons-ai-expertise-regeneration.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>The paper reframes expertise development as collective stewardship rather than organizational optimization — a systems-level complement to individual-level cognitive-offloading and skill-decay findings, with implications for professional training and AI governance.</p>]]></description>
-    </item>
-    <item>
-      <title>ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning</title>
-      <link>https://edtechdev.github.io/aied/pages/connected-ai-lesson-planning-vietnam.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/connected-ai-lesson-planning-vietnam.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>ConnectED is a human-centered AI system supporting the full instructional lifecycle in Vietnamese education: curriculum-aligned lesson design, interactive student learning, and feedback-driven refinement, built on VietEduQwen, a Vietnamese educational LLM trained with SFT and DPO.</p>]]></description>
-    </item>
-    <item>
-      <title>CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback</title>
-      <link>https://edtechdev.github.io/aied/pages/cotal-formative-assessment-scoring-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/cotal-formative-assessment-scoring-2026.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Cohn, Ashwin T S, Mohammed & Biswas (2026) introduce **CoTAL** (Chain-of-Thought Prompting + Active Learning): an LLM grading pipeline that couples Evidence-Centered Design with human-in-the-loop prompt engineering and iterative teacher/student feedback refinement. It improves GPT-4's scoring by **up to 38.9% over a non-prompt-engineered baseline** and generalises across science, computing, and engineering — direct evidence that prompt-engineering quality, not model choice, is often the binding constraint in <a href="automated-grading.html">automated-grading</a>.</p>]]></description>
     </item>
   </channel>
 </rss>

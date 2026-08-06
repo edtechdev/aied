@@ -98,3 +98,4 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 - [[scaffolding-critical-engagement-genai-minority-students]]
 - [[chat-debugging-llm-hardware-education-2026]] — related
 - [[ai-agents-constructive-conflict-design-education-2026]] — related
+- [[knowloop-confusion-to-consolidation-2026]]
