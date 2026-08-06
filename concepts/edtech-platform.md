@@ -32,3 +32,4 @@ Educational technology platforms and their integration with AI capabilities
 - [[ai-generated-instructional-videos-computing-ed]]
 - [[tech-enhanced-tabletop-cybersecurity-education]]
 - [[calibrating-trustworthiness-llm-education-2026]] — related concept
+- [[privacy-aware-classroom-incident-recognition-2026]] — related

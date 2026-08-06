@@ -9,7 +9,6 @@
 ---
 
 ## Concepts
-
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[academic-integrity]] — Academic Integrity
 - [[academic-writing]] — Academic Writing
@@ -42,6 +41,7 @@
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 - [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[ai-assessment-human-tutors]] — 'AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice'
 - [[ai-assessment-scale-reform]] — '"A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform'
@@ -86,6 +86,7 @@
 - [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
 - [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis
 - [[ai-literacy-in-higher-education]] — Ai Literacy In Higher Education
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
 - [[ai-literacy-power-knowledge]] — 'AI Literacy: An Exercise in Power-Knowledge'
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
 - [[ai-making-us-stupid]] — Is AI making us stupid?
@@ -95,6 +96,7 @@
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
 - [[ai-powered-materials-discovery-ai-literacy]] — Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
 - [[ai-productivity-moderation]] — 'Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost'
 - [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars
 - [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics
@@ -150,6 +152,7 @@
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
 - [[change-management]] — Change Management
+- [[chat-debugging-llm-hardware-education-2026]] — WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant
 - [[chatgpt-critical-creative-thinking-review]] — 'ChatGPT Critical and Creative Thinking: Systematic Review'
 - [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence
 - [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
@@ -187,6 +190,7 @@
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
 - [[constructivist]] — Constructivist
+- [[content-quality]] — Content Quality
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
 - [[conversational-ai-informal-learning]] — Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
@@ -217,6 +221,7 @@
 - [[debugtracker-classroom-debugging]] — 'DebugTracker: Lightweight Process Evidence for Classroom Debugging'
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[design-education]] — Design Education
+- [[design-thinking]] — Design Thinking
 - [[design-thinking-in-education]] — Design Thinking In Education
 - [[desirable-difficulties]] — Desirable Difficulties
 - [[didactical-teacher-assistant-dimensional-modeling]] — A didactical-driven teacher assistant for a dimensional modeling course
@@ -423,6 +428,7 @@
 - [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
 - [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation
 - [[mastery-learning]] — Mastery Learning
+- [[math-education]] — Math Education
 - [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
 - [[measuring-llm-tutors-teach-vs-solve]] — 'Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact'
 - [[medeasy-ai-standardized-patients]] — 'MedEasy: Designing AI Standardized Patients for Clinical Consultation Training'
@@ -458,6 +464,7 @@
 - [[nie-personavlm-long-term-personalization-2026]] — 'PersonaVLM: Long-Term Personalization for AI Tutors'
 - [[nlp-education]] — Nlp Education
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
+- [[nuclear-diffusion-text-to-image-learning-2026]] — NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
 - [[open-source]] — Open Source
 - [[open-systems-theory]] — Open Systems Theory
@@ -481,6 +488,7 @@
 - [[posthumanist-ai-education]] — Posthumanist Ai Education
 - [[principled-ai-education]] — Principled AI in Education
 - [[privacy]] — Privacy in Educational AI
+- [[privacy-aware-classroom-incident-recognition-2026]] — Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition
 - [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing
 - [[professional-training]] — Professional Training
 - [[programming-its]] — Programming Intelligent Tutoring Systems

@@ -23,3 +23,4 @@ confidence: low
 - [[epistemic-emotions-collaborative-problem-solving]] — Ordered Network Analysis reveals structured persistence and transition patterns of confusion and fru
 - [[icap-cognitive-engagement-llm-agents]]
 - [[llm-facilitation-timing-online-discussions]]
+- [[ai-agents-constructive-conflict-design-education-2026]] — related

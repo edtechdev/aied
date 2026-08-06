@@ -118,3 +118,4 @@ confidence: low
 - [[hypergamification-game-engine-lms]]
 - [[structured-ai-demonstrations-engineering-mechanics]]
 - [[savvy-student-attention-video-learning]]
+- [[chat-debugging-llm-hardware-education-2026]] — related

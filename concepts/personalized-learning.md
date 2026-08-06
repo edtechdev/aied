@@ -86,3 +86,4 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[mooc-to-maic]]
 - [[deeptutor]]
 - [[antiskillbench-persona-skills-privacy-2026]] — related concept
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — related
