@@ -30,6 +30,10 @@ Large-scale analysis (N=11,406, 200 classes, 10 institutions) of GenAI tutor eng
 - [[ai-tutor-effectiveness-review]]
 - [[ai-tutor-behavioral-evaluation]]
 
+## Source
+
+- [https://arxiv.org/abs/2602.00447](https://arxiv.org/abs/2602.00447)
+
 ## Related Pages
 
 - [[simulating-learner-task-selection]] — Different task-selection strategies produce distinct engagement outcomes in tutoring systems

@@ -46,3 +46,4 @@ confidence: low
 - [[ai-assistance-discretionary-feedback]] — AI-generated feedback scaffolds in grading workflows
 - [[responsible-assessment-ai-era-stanford-2026]] — Report on AI scoring as the most common AI application in assessment, with validity costs
 - [[gpt4o-mini-music-analysis-scoring]] — GPT-4o-mini vs teacher mean scores for automated scoring of music analysis responses
+- [[aaai2026-prompting-literacy-k12]]

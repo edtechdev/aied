@@ -43,6 +43,10 @@ Wang et al. (2025) found that **78% of teachers** used LLMs to diversify curricu
 
 Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy*. arXiv:2505.08083.
 
+## Source
+
+- [https://arxiv.org/abs/2505.08083](https://arxiv.org/abs/2505.08083)
+
 ## Related Pages
 - [[feedback-futures-genai]] — Access, avoidance, and advantage in GenAI feedback
 - [[care-full-feedback-genai]] — Matthew effects and equitable feedback encounters

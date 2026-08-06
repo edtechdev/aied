@@ -33,6 +33,10 @@ The superiority of pedagogically designed tools over general-purpose AI is actio
 
 For the research community, the review functions as both a wake-up call and a roadmap. It identifies urgent priorities: long-term studies with delayed post-tests, research in authentic U.S. K-12 settings, studies of educator use and impact, and research designs that disentangle assisted performance from durable learning. The [[k-12-ai-education]] field urgently needs to move beyond descriptive and technical-computational papers (which together constitute 92% of the repository) toward rigorous causal designs.
 
+## Source
+
+- [https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
+
 ## Related Pages
 
 - [[ai-k12-evidence-base]] — Companion concept page for the K-12 AI evidence landscape

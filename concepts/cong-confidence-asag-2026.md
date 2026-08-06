@@ -32,6 +32,10 @@ For [[human-in-the-loop]] workflows in educational assessment, the selective pre
 
 The use of [[retrieval-augmented-generation]] and [[synthetic-data]] techniques for calibration could extend this framework beyond the SciEntsBank domain, enabling confidence-aware grading across diverse subject areas and languages.
 
+## Source
+
+- [https://arxiv.org/abs/2605.00200](https://arxiv.org/abs/2605.00200)
+
 ## Related Pages
 
 - [[automatic-short-answer-grading]] — Core ASAG paradigm for automated response evaluation

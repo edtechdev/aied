@@ -71,6 +71,10 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 - Can the benchmark be adapted for K-12 or professional training contexts?
 - What does the token-output disconnect imply for AI tutoring systems that bill by token usage?
 
+## Source
+
+- [https://arxiv.org/abs/2605.02661](https://arxiv.org/abs/2605.02661)
+
 ## Related Pages
 
 - [[multimodal-ai-tutoring]] — Multimodal AI capabilities tested in academic contexts

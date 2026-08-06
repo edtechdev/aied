@@ -41,6 +41,10 @@ For practical deployment, the framework's interpretability enables several downs
 
 Future work should extend the framework to multi-skill settings (where students may have different abilities across different knowledge components), explore fine-tuning strategies that further improve the knowledge and difficulty estimators, and validate the approach in live tutoring deployments with real tutor feedback on interpretability quality.
 
+## Source
+
+- [https://arxiv.org/abs/2605.01097](https://arxiv.org/abs/2605.01097)
+
 ## Related Pages
 
 - [[knowledge-tracing]] — Core concept page on knowledge tracing methods and applications

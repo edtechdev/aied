@@ -41,6 +41,12 @@ Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Bet
 
 Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy*. arXiv:2505.08083.
 
+## Source
+
+- [https://arxiv.org/abs/2602.16033](https://arxiv.org/abs/2602.16033)
+- [https://arxiv.org/abs/2601.06101](https://arxiv.org/abs/2601.06101)
+- [https://arxiv.org/abs/2505.08083](https://arxiv.org/abs/2505.08083)
+
 ## Related Pages
 - [[computational-thinking-ai-agent-creation]] — No-code AI agent creation for K-12 computational thinking
 - [[nsmq-riddles-science-math-benchmark]] — High school STEM competition as K-12 AI evaluation context

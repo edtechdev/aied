@@ -32,6 +32,10 @@ For [[cs-education]] specifically, ProPACT validates that AI-assisted pair progr
 
 The gaze-awareness tool (A3) is a particularly novel intervention: rather than providing didactic content, it surfaces the partner's attentional focus as a lightweight nudge toward shared attention. This aligns with [[multimodal-ai-tutoring]] research emphasizing non-verbal channels for learning support.
 
+## Source
+
+- [https://arxiv.org/abs/2605.02703](https://arxiv.org/abs/2605.02703)
+
 ## Related Pages
 
 - [[collaborative-learning]] — Foundational paradigm for dyadic and group learning processes

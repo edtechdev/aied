@@ -74,3 +74,4 @@ Intelligent tutoring systems and AI-driven tutoring agents in education
 - [[mooc-to-maic]]
 - [[deeptutor]]
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept
+- [[lak2026-hint-button-unproductive-use]]

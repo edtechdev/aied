@@ -35,6 +35,10 @@ The rethinking extends to [[assessment-validity]] concerns — if AI can produce
 - What is the timeline for meaningful institutional transformation vs. superficial adoption?
 - How does this institutional rethinking interact with [[principled-ai-education]] frameworks?
 
+## Source
+
+- [https://arxiv.org/abs/2605.07056](https://arxiv.org/abs/2605.07056)
+
 ## Related Pages
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)
 - [[institutional-change-framework-ai]] — Six-dimension framework for adapting institutional change models in STEM to generative AI
