@@ -4440,6 +4440,23 @@
     "url": "pages/institutional-change-framework-ai.html"
   },
   {
+    "slug": "instructional-agents-multi-agent-course-gen",
+    "title": "Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design",
+    "tags": [
+      "multi-agent",
+      "llm",
+      "instructional-design",
+      "course-generation",
+      "addie",
+      "higher-ed",
+      "teacher-support",
+      "automated-courseware",
+      "faculty-development"
+    ],
+    "content": "\nSynthesis: Instructional Agents is a multi-agent LLM framework that automates end-to-end course material generation by simulating role-based collaboration among Teaching Faculty, Instructional Designer, Teaching Assistant, Course Coordinator, and Program Chair agents, all structured around the ADDIE instructional design framework. Evaluated across 5 university courses, the system supports four modes (Autonomous, Catalog-Guided, Feedback-Guided, Full Co-Pilot) balancing automation and human over",
+    "url": "pages/instructional-agents-multi-agent-course-gen.html"
+  },
+  {
     "slug": "instructional-design",
     "title": "Instructional Design",
     "tags": [
@@ -5669,6 +5686,15 @@
     ],
     "content": "Beyond the AI Tutor: Social Learning with LLM AgentsAuthors: Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson\nYear: 2026\nVenue: arXiv (cs.HC, cs.CY)SummaryMulti-agent LLM configurations for learning. Two experiments (N=315 math, N=247 writing) \u2014 tutor+peers outperforms single tutor. Multi-model condition avoids idea homogeneity.Key ContributionsMulti-agent LLM configurations for learning. Two experiments (N=315 math, N=247 writing) \u2014 tutor+peers outperforms single tutor. Mult",
     "url": "pages/multi-agent-llm-social-learning.html"
+  },
+  {
+    "slug": "multi-agent",
+    "title": "Multi Agent",
+    "tags": [
+      "multi-agent"
+    ],
+    "content": "\nStub.\nMulti AgentRelated Pagesinstructional-agents-multi-agent-course-gen",
+    "url": "pages/multi-agent.html"
   },
   {
     "slug": "multi-representational-tools",
@@ -7389,6 +7415,15 @@
     ],
     "content": "Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic PairingKexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026) \u2014 Carnegie Mellon University; University of Washington; Ruhr-Universit\u00e4t Bochum. arXiv:2605.18761 [cs.HC] \u2014 Accepted at CSCW 2026, to appear in PACM HCI\ud83d\udcc4 Full text (arXiv)Yang et al. (2026) tackle a fundamental tension in AI-augmented classrooms: how to balance teacher orchestration with student agency during dynamic tr",
     "url": "pages/teacher-student-agency-orchestration.html"
+  },
+  {
+    "slug": "teacher-support",
+    "title": "Teacher Support",
+    "tags": [
+      "teacher-support"
+    ],
+    "content": "\nStub.\nTeacher SupportRelated Pagesinstructional-agents-multi-agent-course-gen",
+    "url": "pages/teacher-support.html"
   },
   {
     "slug": "teaching-feedback-classification-benchmark",

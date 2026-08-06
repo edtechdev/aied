@@ -30,3 +30,4 @@ confidence: low
 - [[gaide-vibe-coding-k12-teachers]] — GAIDE vibe-coding framework for K-12 teachers
 - [[genai-runaway-object-math-higher-ed]]
 - [[rail-ed-genai-literacy-teacher-education]] — RAIL-Ed: an integrative, developmental framework for GenAI literacy in K-12 teacher education
+- [[instructional-agents-multi-agent-course-gen]]

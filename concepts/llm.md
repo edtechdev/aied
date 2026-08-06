@@ -49,3 +49,4 @@ confidence: low
 - [[calibrating-trustworthiness-llm-education-2026]] — related concept
 - [[chat-debugging-llm-hardware-education-2026]] — related
 - [[aaai2026-prompting-literacy-k12]]
+- [[instructional-agents-multi-agent-course-gen]]

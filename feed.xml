@@ -6,7 +6,7 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:43:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:07:01 +0000</lastBuildDate>
     <item>
       <title>Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module</title>
       <link>https://edtechdev.github.io/aied/pages/aaai2026-prompting-literacy-k12.html</link>
@@ -120,6 +120,13 @@
       <description><![CDATA[<p>**Stub:** Auto-created for cross-linking.</p>]]></description>
     </item>
     <item>
+      <title>Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design</title>
+      <link>https://edtechdev.github.io/aied/pages/instructional-agents-multi-agent-course-gen.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/instructional-agents-multi-agent-course-gen.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Instructional Agents is a multi-agent LLM framework that automates end-to-end course material generation by simulating role-based collaboration among Teaching Faculty, Instructional Designer, Teaching Assistant, Course Coordinator, and Program Chair agents, all structured around the ADDIE instructional design framework. Evaluated across 5 university courses, the system supports four modes (Autonomous, Catalog-Guided, Feedback-Guided, Full Co-Pilot) balancing automation and human oversight.</p>]]></description>
+    </item>
+    <item>
       <title>From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review</title>
       <link>https://edtechdev.github.io/aied/pages/knowloop-confusion-to-consolidation-2026.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/knowloop-confusion-to-consolidation-2026.html</guid>
@@ -148,6 +155,13 @@
       <description><![CDATA[<p>**Stub.** Full synthesis pending.</p>]]></description>
     </item>
     <item>
+      <title>Multi Agent</title>
+      <link>https://edtechdev.github.io/aied/pages/multi-agent.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/multi-agent.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
       <title>NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts</title>
       <link>https://edtechdev.github.io/aied/pages/nuclear-diffusion-text-to-image-learning-2026.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/nuclear-diffusion-text-to-image-learning-2026.html</guid>
@@ -167,6 +181,13 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/prompting-literacy.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Stub:** Prompting literacy is the ability to craft effective natural-language prompts to communicate with AI chatbots for learning — encompassing what AI can do to support learning, when to use AI effectively, and how to structure prompts for different types of assistance.</p>]]></description>
+    </item>
+    <item>
+      <title>Teacher Support</title>
+      <link>https://edtechdev.github.io/aied/pages/teacher-support.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/teacher-support.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
     </item>
     <item>
       <title>When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills</title>
@@ -265,27 +286,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/rail-ed-genai-literacy-teacher-education.html</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**RAIL-Ed is an integrative, developmental, and dialectical framework for generative AI literacy in K-12 teacher education, built from a systematic review of 67 studies and specifying six interdependent pillars with a three-level maturity rubric.**</p>]]></description>
-    </item>
-    <item>
-      <title>Access is Not Enough: Human Support Improves Engagement with AI Tutoring</title>
-      <link>https://edtechdev.github.io/aied/pages/access-not-enough-ai-tutoring-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/access-not-enough-ai-tutoring-2026.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Robinson, Gormley, Ribeiro & Loeb (2026) ran two RCTs showing that AI tutoring's binding constraint is **take-up, not capability**: despite dedicated session time, nearly half of students never used the platform and users averaged only 2–5 minutes per week. An in-person engagement tutor (not direct instruction) raised usage by 1–4 minutes/week and engagement by 71–80% — but dosage stayed far below the level needed for reading gains, and achievement did not improve.</p>]]></description>
-    </item>
-    <item>
-      <title>The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning</title>
-      <link>https://edtechdev.github.io/aied/pages/agency-gap-ai-writing.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/agency-gap-ai-writing.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two multimodal analytical writing tasks (interpreting healthcare-simulation data visualisations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). GenAI literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalise AI-supported reasoning — neither an individual deficit nor a fixed property of the system.^[raw/papers/caeai-2026-agency-gap-ai-writing.md]</p>]]></description>
-    </item>
-    <item>
-      <title>Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning</title>
-      <link>https://edtechdev.github.io/aied/pages/agentic-ai-pedagogical-best-practice-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/agentic-ai-pedagogical-best-practice-2026.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **intentional friction, dynamic scaffolding, human-in-the-loop oversight, and considered AI utilisation** — is a principled guardrail for the wiki's agentic-education literature.</p>]]></description>
     </item>
   </channel>
 </rss>

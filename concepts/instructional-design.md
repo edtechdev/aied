@@ -26,3 +26,4 @@ confidence: low
 - [[connected-ai-lesson-planning-vietnam]]
 - [[genai-marketing-education-roles-2026]] — related concept
 - [[calibrating-trustworthiness-llm-education-2026]] — related concept
+- [[instructional-agents-multi-agent-course-gen]]

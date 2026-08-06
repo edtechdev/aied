@@ -85,3 +85,4 @@ confidence: low
 - [[ai-literacy-legal-translation-2026]] — related
 - [[knowloop-confusion-to-consolidation-2026]]
 - [[ai-adult-learning-guidelines-dis2026]]
+- [[instructional-agents-multi-agent-course-gen]]
