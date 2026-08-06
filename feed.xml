@@ -6,13 +6,27 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:25:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:43:43 +0000</lastBuildDate>
     <item>
       <title>Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module</title>
       <link>https://edtechdev.github.io/aied/pages/aaai2026-prompting-literacy-k12.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/aaai2026-prompting-literacy-k12.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Synthesis:** An LLM-based interactive module teaches K-12 students prompting literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ended questions as more effective than MCQs for assessing prompting literacy.</p>]]></description>
+    </item>
+    <item>
+      <title>Adult Learning</title>
+      <link>https://edtechdev.github.io/aied/pages/adult-learning.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/adult-learning.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub:** Auto-created for cross-linking.</p>]]></description>
+    </item>
+    <item>
+      <title>Guidelines for Designing AI Technologies to Support Adult Learning</title>
+      <link>https://edtechdev.github.io/aied/pages/ai-adult-learning-guidelines-dis2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-adult-learning-guidelines-dis2026.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for Adult Learning and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning technologies. The guidelines span cognitive, social, and teaching presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.</p>]]></description>
     </item>
     <item>
       <title>Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers</title>
@@ -36,6 +50,13 @@
       <description><![CDATA[<p>**Synthesis:** Examines AI-powered personalized learning in elementary fraction instruction through a systematic review, quantitative study (N=120), and qualitative teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and engagement. Teachers reported AI tools helped differentiate instruction but required professional development for effective integration. <a href="adaptive-learning.html">adaptive-learning</a>, <a href="personalized-learning.html">personalized-learning</a>, <a href="k-12.html">k-12</a>, <a href="math-education.html">math-education</a>, and <a href="ai-generated-content.html">ai-generated-content</a>.</p>]]></description>
     </item>
     <item>
+      <title>Andragogy</title>
+      <link>https://edtechdev.github.io/aied/pages/andragogy.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/andragogy.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub:** Auto-created for cross-linking.</p>]]></description>
+    </item>
+    <item>
       <title>WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant</title>
       <link>https://edtechdev.github.io/aied/pages/chat-debugging-llm-hardware-education-2026.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/chat-debugging-llm-hardware-education-2026.html</guid>
@@ -57,11 +78,25 @@
       <description><![CDATA[<p>**Stub:** Auto-created stub for cross-linking.</p>]]></description>
     </item>
     <item>
+      <title>Design Guidelines</title>
+      <link>https://edtechdev.github.io/aied/pages/design-guidelines.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/design-guidelines.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub:** Auto-created for cross-linking.</p>]]></description>
+    </item>
+    <item>
       <title>Design Thinking</title>
       <link>https://edtechdev.github.io/aied/pages/design-thinking.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/design-thinking.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Stub.** Full synthesis pending.</p>]]></description>
+    </item>
+    <item>
+      <title>Educational Technology</title>
+      <link>https://edtechdev.github.io/aied/pages/educational-technology.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/educational-technology.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub:** Auto-created for cross-linking.</p>]]></description>
     </item>
     <item>
       <title>Gaming the System</title>
@@ -76,6 +111,13 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/help-seeking.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Stub:** Help-seeking in learning environments encompasses how students request and use assistance — productive help-seeking involves attempting solutions first, while unproductive patterns like premature requests or superficial reading of hints are associated with reduced learning gains.</p>]]></description>
+    </item>
+    <item>
+      <title>Human Computer Interaction</title>
+      <link>https://edtechdev.github.io/aied/pages/human-computer-interaction.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-computer-interaction.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub:** Auto-created for cross-linking.</p>]]></description>
     </item>
     <item>
       <title>From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review</title>
@@ -244,48 +286,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/agentic-ai-pedagogical-best-practice-2026.html</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **intentional friction, dynamic scaffolding, human-in-the-loop oversight, and considered AI utilisation** — is a principled guardrail for the wiki's agentic-education literature.</p>]]></description>
-    </item>
-    <item>
-      <title>Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth</title>
-      <link>https://edtechdev.github.io/aied/pages/agreement-not-quality-llm-coding-verification.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/agreement-not-quality-llm-coding-verification.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>An independent domain expert judged 855 pairwise code-set comparisons blind to source, treating human and machine outputs symmetrically. Human-LLM agreement (mean Jaccard 0.30) fell well below human-human agreement (0.52), yet the blind verifier preferred human and LLM coding at indistinguishable rates (51.5% vs 48.5%, p = 0.537).</p>]]></description>
-    </item>
-    <item>
-      <title>From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership</title>
-      <link>https://edtechdev.github.io/aied/pages/ai-writing-support-stage-ownership-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-writing-support-stage-ownership-2026.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Gero, Long, Schnitzler & Dhillon (2026, DIS '26) ran a between-subjects essay study (n = 253) showing that **where** AI support enters the writing process determines how much students feel they own the work: any AI assistance decreased ownership, but planning support cost the least while drafting support cost the most. The mechanism is AI-contributed text and ideas — and there is a genuine **quality–ownership trade-off**.</p>]]></description>
-    </item>
-    <item>
-      <title>From authentic products to authenticated processes: authentic assessment in AI-rich higher education</title>
-      <link>https://edtechdev.github.io/aied/pages/authentic-products-authenticated-processes-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/authentic-products-authenticated-processes-2026.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Tsiligkiris (2026) reframes authentic assessment as an *evidential and validity-oriented design problem* in AI-rich higher education. His central distinction — **authentic products vs. authenticated processes** — argues that assessment validity under generative AI depends not on realistic outputs alone but on architectures that make human judgement, verification, and responsibility visible. A systematic conceptual review of 37 sources yields a six-dimension framework for redesigning assessment briefs at module and programme level.</p>]]></description>
-    </item>
-    <item>
-      <title>Beyond Detection: redesigning authentic assessment in an AI-mediated world</title>
-      <link>https://edtechdev.github.io/aied/pages/beyond-detection-authentic-assessment-ai-2025.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/beyond-detection-authentic-assessment-ai-2025.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Kickbusch, Ashford-Rowe, Kemp, Boreland & Huijser (2025) argue the dominant institutional response to generative AI in assessment — surveillance and AI detection — **misdiagnoses the problem**: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic "design for learning" patterns that position AI as a collaborator rather than a cheating application.</p>]]></description>
-    </item>
-    <item>
-      <title>The care-full craft of feedback in an age of generative AI</title>
-      <link>https://edtechdev.github.io/aied/pages/care-full-feedback-genai.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/care-full-feedback-genai.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>A conceptual/position paper arguing that feedback in an age of GenAI must be understood as **"matters of care"** — ethical, relational practices rather than information transmission. It builds on a ten-principle **Manifesto for Feedback in the Age of GenAI** (Winstone et al. 2025, Copenhagen Feedback Symposium) and distils **four core values** for integrating GenAI into a multimodal feedback landscape: (1) feedback processes should support **meaning-making**, (2) build **educative relationships**, (3) be **trustworthy**, and (4) be respected as a **professional craft**.^[raw/papers/tandf-2026-care-full-feedback-genai.md]</p>]]></description>
-    </item>
-    <item>
-      <title>Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence</title>
-      <link>https://edtechdev.github.io/aied/pages/chatgpt-feedback-engagement-genai.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/chatgpt-feedback-engagement-genai.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>1. **Prompt engineering** — the quality of GenAI feedback is largely determined by prompt clarity (e.g. the CLEAR framework; Lo 2023). 2. **Evaluative judgement** — discerning useful feedback from plausible-but-unreliable output. 3. **Emotional reflexivity** — balancing trust and doubt by understanding GenAI's capabilities and limits (Bearman & Ajjawi 2023). 4. **Ethical decision-making** — deciding how, when, and why to use GenAI feedback so work remains authentic (academic integrity). 5. **Metacognitive skills** — setting feedback goals, planning prompts, self-monitoring interactions, and reflecting on the whole process.^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]</p>]]></description>
     </item>
   </channel>
 </rss>
