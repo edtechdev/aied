@@ -33,6 +33,10 @@ Practically, the findings support the integration of collaborative AI literacy a
 
 Looking forward, the review highlights the potential for [[icap-cognitive-engagement-llm-agents]] research to further enrich collaborative AI literacy instruction by designing LLM-based agents that can serve as interactive learning partners within ICAP-structured activities, extending the social dimension of learning beyond human peers.
 
+## Source
+
+- [https://arxiv.org/abs/2508.15111v1](https://arxiv.org/abs/2508.15111v1)
+
 ## Related Pages
 
 - [[ai-literacy]] — Core concept: AI literacy definitions and competencies

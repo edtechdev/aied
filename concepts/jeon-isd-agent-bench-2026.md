@@ -32,6 +32,10 @@ The 51-variable Context Matrix is itself a contribution, formalizing what makes 
 
 For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a methodological advance that may generalize beyond instructional design to other educational AI evaluation tasks where LLM-as-judge bias is a concern.
 
+## Source
+
+- [https://arxiv.org/abs/2602.10620](https://arxiv.org/abs/2602.10620)
+
 ## Related Pages
 
 - [[instructional-design]] — Foundational ISD theories including ADDIE, Dick & Carey

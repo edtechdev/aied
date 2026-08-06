@@ -33,6 +33,10 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 - Can the framework generalize beyond Chinese LLM providers and K-12 contexts?
 - What are the privacy implications of five-dimensional profiling, especially for minors in [[regulation]] contexts?
 
+## Source
+
+- [https://arxiv.org/abs/2605.08040](https://arxiv.org/abs/2605.08040)
+
 ## Related Pages
 - [[personalized-learning]]
 - [[adaptive-learning-systems]]

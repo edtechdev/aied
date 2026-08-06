@@ -65,6 +65,10 @@ The framework was piloted through a faculty workshop series in a university phys
 - How do different institutional types (research universities, community colleges, liberal arts) shape framework application?
 - Can the framework be operationalized into assessment tools for institutional readiness?
 
+## Source
+
+- [https://arxiv.org/abs/2605.12757](https://arxiv.org/abs/2605.12757)
+
 ## Related Pages
 - [[ethical-ai-higher-ed-game-theory]] — 3 of 8 papers in May 28 scan
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)

@@ -6,7 +6,105 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:19:07 +0000</lastBuildDate>
+    <item>
+      <title>Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module</title>
+      <link>https://edtechdev.github.io/aied/pages/aaai2026-prompting-literacy-k12.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/aaai2026-prompting-literacy-k12.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** An LLM-based interactive module teaches K-12 students prompting literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ended questions as more effective than MCQs for assessing prompting literacy.</p>]]></description>
+    </item>
+    <item>
+      <title>Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers</title>
+      <link>https://edtechdev.github.io/aied/pages/ai-agents-constructive-conflict-design-education-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-agents-constructive-conflict-design-education-2026.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Investigates adversarial AI design agents that enact constructive conflict to prompt reconsideration in novice designers. Between-subjects experiment (N=48) comparing adversarial vs. cooperative AI agent roles. Adversarial agent condition produced significantly more design iterations, broader exploration of alternatives, and higher-rated final designs. Participants reported the conflict agent was frustrating but ultimately helpful — a productive friction dynamic. Connects to adversarial design theory and Socratic tutoring. <a href="agentic-ai.html">agentic-ai</a>, <a href="scaffolding.html">scaffolding</a>, <a href="student-ai-interaction.html">student-ai-interaction</a>, <a href="design-thinking.html">design-thinking</a>, and <a href="socratic-method.html">socratic-method</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>AI Literacy for Legal Translation: Developing Digital Resilience</title>
+      <link>https://edtechdev.github.io/aied/pages/ai-literacy-legal-translation-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-literacy-legal-translation-2026.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Proposes a four-component AI literacy framework for legal translation professionals: conceptual AI knowledge, technical operational skills, critical evaluation competencies, and ethical governance awareness. Argues generative AI extends rather than replaces professional translation competence. Identifies linguistic, technical, legal, ethical and cognitive risks of AI in legal translation and maps them to literacy components. Framework applicable beyond legal domain to other professional education contexts where AI augments expert judgment. <a href="ai-literacy.html">ai-literacy</a>, <a href="generative-ai.html">generative-ai</a>, <a href="professional-training.html">professional-training</a>, <a href="human-in-the-loop.html">human-in-the-loop</a>, and <a href="higher-ed.html">higher-ed</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning</title>
+      <link>https://edtechdev.github.io/aied/pages/ai-powered-personalized-learning-elementary-fractions-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-powered-personalized-learning-elementary-fractions-2026.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Examines AI-powered personalized learning in elementary fraction instruction through a systematic review, quantitative study (N=120), and qualitative teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and engagement. Teachers reported AI tools helped differentiate instruction but required professional development for effective integration. <a href="adaptive-learning.html">adaptive-learning</a>, <a href="personalized-learning.html">personalized-learning</a>, <a href="k-12.html">k-12</a>, <a href="math-education.html">math-education</a>, and <a href="ai-generated-content.html">ai-generated-content</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant</title>
+      <link>https://edtechdev.github.io/aied/pages/chat-debugging-llm-hardware-education-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/chat-debugging-llm-hardware-education-2026.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Work-in-progress exploring LLMs as debugging assistants for physical hardware lab courses. Proposes 'Chat-Debugging' where students interact with an LLM to diagnose circuit faults. Aims to reduce frustration and improve debugging skill development. Initial prototype tested in an undergraduate hardware course; preliminary results suggest LLM assistance helps students identify faults faster and provides just-in-time scaffolding without giving away solutions. <a href="llm.html">llm</a>, <a href="scaffolding.html">scaffolding</a>, <a href="cs-education.html">cs-education</a>, <a href="stem-education.html">stem-education</a>, and <a href="student-experience.html">student-experience</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Content Quality</title>
+      <link>https://edtechdev.github.io/aied/pages/content-quality.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/content-quality.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.** Full synthesis pending.</p>]]></description>
+    </item>
+    <item>
+      <title>Design Thinking</title>
+      <link>https://edtechdev.github.io/aied/pages/design-thinking.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/design-thinking.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.** Full synthesis pending.</p>]]></description>
+    </item>
+    <item>
+      <title>Gaming the System</title>
+      <link>https://edtechdev.github.io/aied/pages/gaming-the-system.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/gaming-the-system.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub:** "Gaming the system" refers to behaviors where students exploit system features to progress without engaging in intended cognitive work, widely documented in intelligent tutoring systems with 10-40% of students engaging at least intermittently.</p>]]></description>
+    </item>
+    <item>
+      <title>Help-Seeking</title>
+      <link>https://edtechdev.github.io/aied/pages/help-seeking.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/help-seeking.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub:** Help-seeking in learning environments encompasses how students request and use assistance — productive help-seeking involves attempting solutions first, while unproductive patterns like premature requests or superficial reading of hints are associated with reduced learning gains.</p>]]></description>
+    </item>
+    <item>
+      <title>Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems</title>
+      <link>https://edtechdev.github.io/aied/pages/lak2026-hint-button-unproductive-use.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/lak2026-hint-button-unproductive-use.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** A three-semester, 999-student analysis of hint usage in a K-12 mathematics ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced learning gains, even after controlling for prior knowledge. The work argues from an affordance perspective that the persistent "hint button" design common across ITSs can inadvertently enable bypass strategies, transforming scaffolds into shortcuts.</p>]]></description>
+    </item>
+    <item>
+      <title>Math Education</title>
+      <link>https://edtechdev.github.io/aied/pages/math-education.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/math-education.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.** Full synthesis pending.</p>]]></description>
+    </item>
+    <item>
+      <title>NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts</title>
+      <link>https://edtechdev.github.io/aied/pages/nuclear-diffusion-text-to-image-learning-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/nuclear-diffusion-text-to-image-learning-2026.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Systematic study of domain-adapted text-to-image models for nuclear engineering education. Fine-tunes Stable Diffusion on nuclear domain images; fine-tuned model achieves 78% domain accuracy vs 12% for base model. Proposes NuclearDiffusion as an educational tool where instructors generate accurate visualizations of nuclear concepts (reactor components, fuel cycles, safety systems). Demonstrates that domain-specific fine-tuning dramatically improves visual correctness for specialized STEM concept illustration. <a href="generative-ai.html">generative-ai</a>, <a href="ai-generated-content.html">ai-generated-content</a>, <a href="stem-education.html">stem-education</a>, <a href="content-quality.html">content-quality</a>, and <a href="multimodal.html">multimodal</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition</title>
+      <link>https://edtechdev.github.io/aied/pages/privacy-aware-classroom-incident-recognition-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/privacy-aware-classroom-incident-recognition-2026.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid benchmark combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong incident recognition while preserving student privacy (no facial recognition). Demonstrates that efficient motion-based features can generalize across classroom environments without collecting identifiable student data. <a href="privacy.html">privacy</a>, <a href="k-12.html">k-12</a>, <a href="multimodal.html">multimodal</a>, <a href="edtech-platform.html">edtech-platform</a>, and <a href="benchmark.html">benchmark</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Prompting Literacy</title>
+      <link>https://edtechdev.github.io/aied/pages/prompting-literacy.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/prompting-literacy.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub:** Prompting literacy is the ability to craft effective natural-language prompts to communicate with AI chatbots for learning — encompassing what AI can do to support learning, when to use AI effectively, and how to structure prompts for different types of assistance.</p>]]></description>
+    </item>
     <item>
       <title>When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills</title>
       <link>https://edtechdev.github.io/aied/pages/antiskillbench-persona-skills-privacy-2026.html</link>
@@ -188,104 +286,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/cotal-formative-assessment-scoring-2026.html</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>Cohn, Ashwin T S, Mohammed & Biswas (2026) introduce **CoTAL** (Chain-of-Thought Prompting + Active Learning): an LLM grading pipeline that couples Evidence-Centered Design with human-in-the-loop prompt engineering and iterative teacher/student feedback refinement. It improves GPT-4's scoring by **up to 38.9% over a non-prompt-engineered baseline** and generalises across science, computing, and engineering — direct evidence that prompt-engineering quality, not model choice, is often the binding constraint in <a href="automated-grading.html">automated-grading</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use</title>
-      <link>https://edtechdev.github.io/aied/pages/critical-genai-use-predictors.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/critical-genai-use-predictors.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>A correlational study (N = 67 undergraduate psychology students, Bielefeld University) testing two **protective factors against uncritical GenAI overreliance**: (1) **knowledge about genAI** and (2) the **disposition to engage in critical thinking** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual engagement as worthwhile). Both factors are framed as components of AI literacy and both are trainable, motivating intervention recommendations.^[raw/papers/mdpi-2026-critical-genai-use-predictors.md]</p>]]></description>
-    </item>
-    <item>
-      <title>Feedback futures: beyond the limits of human and GenAI capacities</title>
-      <link>https://edtechdev.github.io/aied/pages/feedback-futures-genai.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/feedback-futures-genai.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>1. **Usefulness, trust, and uptake.** GenAI is valued for speed, clarity, and accessibility, while teacher feedback is trusted for contextual understanding, disciplinary expertise, accountability, and human connection. Uptake depends on experienced care, recognition, and presence — relational conditions GenAI struggles to reproduce.^[raw/papers/tandf-2026-feedback-futures-genai.md] 2. **Immediate task achievement vs longer-term learning.** GenAI excels at helping students complete the task at hand but may orient them toward performance/avoidance goals rather than mastery — echoed in <a href="chatgpt-feedback-engagement-genai.html">chatgpt-feedback-engagement-genai</a>'s finding of weak metacognitive engagement and one-off interactions.^[raw/papers/tandf-2026-feedback-futures-genai.md] 3. **Agency vs dependency.** Agency can be extended via iterative prompting and comparison, but may become "thinner" when students stay active at the level of interaction while ceding evaluative work to the system.^[raw/papers/tandf-2026-feedback-futures-genai.md] 4. **Access, avoidance, and advantage.** GenAI is unlikely to benefit all students equally; non-users cite trustworthiness, preference for human feedback, and academic integrity. Access alone does not guarantee educative uptake.^[raw/papers/tandf-2026-feedback-futures-genai.md] 5. **Teacher judgement and labour redistribution.** GenAI redistributes rather than removes teacher labour — teachers still assess accuracy, tone, relationality, and pedagogical value, and poorly designed tools can *increase* workload (see <a href="learner-centered-feedback-ai.html">learner-centered-feedback-ai</a>).^[raw/papers/tandf-2026-feedback-futures-genai.md]</p>]]></description>
-    </item>
-    <item>
-      <title>Generative AI Can Harm Teaching</title>
-      <link>https://edtechdev.github.io/aied/pages/genai-can-harm-teaching-rct-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-can-harm-teaching-rct-2026.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Sungu, Lira & Duckworth (2026) ran one of the first large-scale RCTs of a teacher-facing generative AI tool and found it can *harm* students: providing teachers an AI teaching assistant **reduced student intrinsic motivation by 0.11 SD** and — among lower-performing teachers — **cut student achievement by 0.13 SD**. The pattern is a **principal–agent problem**: teachers (agents) gain labor savings from AI delegation while students (principals) bear the cost of displaced relational teaching and scaffolding.</p>]]></description>
-    </item>
-    <item>
-      <title>Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration</title>
-      <link>https://edtechdev.github.io/aied/pages/genai-expertise-pathways-sysadmin.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-expertise-pathways-sysadmin.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Two unanticipated socio-technical findings: 'compression of traditional expertise pathways' — GenAI acts as both mentor-like tutor and 'ladder-shortening' tool, accelerating unfamiliar-domain task performance while reducing exposure to the foundational build-fail-debug cycles that historically built expertise.</p>]]></description>
-    </item>
-    <item>
-      <title>Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness</title>
-      <link>https://edtechdev.github.io/aied/pages/genai-teacher-feedback-comparison.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-teacher-feedback-comparison.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>The largest study in the AEHE 51(5) special issue: a **cross-sectional survey across four Australian universities** (≈192,000 invited; 10,132 volunteered; this paper analyses **6,960 students** who answered the feedback items). It combines quantitative comparison of perceived helpfulness/trustworthiness of GenAI vs teacher feedback with **thematic analysis of 8,642 open-ended responses** (11,903 coded instances, 48 codes). Core conclusion: **GenAI and teacher feedback serve different needs — complementary but not interchangeable**.^[raw/papers/tandf-2026-genai-teacher-feedback-comparison.md]</p>]]></description>
-    </item>
-    <item>
-      <title>Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use</title>
-      <link>https://edtechdev.github.io/aied/pages/human-llm-collaborative-coding-k12-educator-ai.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-llm-collaborative-coding-k12-educator-ai.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>A multi-phase human-LLM collaborative pipeline adapted open, axial, and selective coding to build a hierarchical codebook from 45,000 messages exchanged between K-12 educators and a generative AI platform — an instance of LLMs as analytic assistants at a scale manual coding cannot match.</p>]]></description>
-    </item>
-    <item>
-      <title>Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game</title>
-      <link>https://edtechdev.github.io/aied/pages/hypergamification-game-engine-lms.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/hypergamification-game-engine-lms.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>The paper proposes 'hypergamification': using a comprehensive game environment generated from LMS content rather than bolting isolated game design elements onto a course. The key architectural idea is bidirectional integration — the game world is built from the LMS's actual learning content, and player activity flows back into the LMS.</p>]]></description>
-    </item>
-    <item>
-      <title>Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents</title>
-      <link>https://edtechdev.github.io/aied/pages/icap-cognitive-engagement-llm-agents.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/icap-cognitive-engagement-llm-agents.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>This study applies an extended 7-point ICAP framework (Interactive, Constructive, Active, Passive) to characterize cognitive engagement in collaborative dialogue, comparing trained human annotators with LLM-based labeling: in-context learning (ICL), zero-shot prompting, and self-reflective agents.</p>]]></description>
-    </item>
-    <item>
-      <title>Enhancing learner-centered feedback with AI: teachers' practices and perceptions</title>
-      <link>https://edtechdev.github.io/aied/pages/learner-centered-feedback-ai.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/learner-centered-feedback-ai.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI-powered feedback tool combining (1) a **BERT-based ML model** (from Aldino et al. 2024) that detects which learner-centered feedback components are missing from teacher-written feedback and suggests them, and (2) **ChatGPT-4o mini** to rephrase/enhance the teacher's draft. Teachers gave feedback on a simulated student presentation, then used the tool, then were interviewed. The study answers two questions: *how teachers interact with* AI feedback tools (RQ1) and *how they perceive* them (RQ2). Framework: Ryan et al.'s (2023) learner-centered feedback dimensions — **Future Impact, Sensemaking, Agency**.^[raw/papers/tandf-2026-learner-centered-feedback-ai.md]</p>]]></description>
-    </item>
-    <item>
-      <title>Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance</title>
-      <link>https://edtechdev.github.io/aied/pages/lets-chat-chatbot-outreach-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/lets-chat-chatbot-outreach-2026.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Meyer, Page, Mata et al. (2026) ran two pre-registered RCTs at Georgia State University testing a **non-generative** academic chatbot that texted students 2–3 customized nudges per week in large-enrollment online courses. It raised the probability of earning an A or B by **4 percentage points** — driven entirely by women in Microeconomics (+7 grade points, +11 pp A/B, −10 pp DFW) — via a task-completion channel (tutoring attendance, homework completion), with no spillover to other courses.</p>]]></description>
-    </item>
-    <item>
-      <title>To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions</title>
-      <link>https://edtechdev.github.io/aied/pages/llm-facilitation-timing-online-discussions.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/llm-facilitation-timing-online-discussions.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>This study asks when (not just how) LLMs should facilitate online discussions, creating PEFK, a corpus standardizing and aggregating facilitation datasets, and running the first survey on facilitation timing with expert facilitators and LLM-as-a-judge models.</p>]]></description>
-    </item>
-    <item>
-      <title>Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference</title>
-      <link>https://edtechdev.github.io/aied/pages/responsible-assessment-ai-era-stanford-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/responsible-assessment-ai-era-stanford-2026.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Responsible assessment in the AI era** — assessment grounded in learners' sociocultural contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues generative AI has broken the assumption that final products measure human capability: learners can produce high-quality artifacts without the underlying learning, AI scoring introduces construct-irrelevant variance, and the gap between what is measured and what matters is widening. The field's response is a shift from testing events to systems of inference — continuous and <a href="formative-assessment.html">formative-assessment</a>, portfolio- and conversation-based evidence (<a href="socratic-tests-conversational-assessment.html">socratic-tests-conversational-assessment</a>), <a href="authentic-assessment.html">authentic-assessment</a> in real tasks, and <a href="human-in-the-loop.html">human-in-the-loop</a> design — paired with validity infrastructure for <a href="automated-grading.html">automated-grading</a>, shared definitions of emerging constructs like <a href="ai-literacy.html">ai-literacy</a>, and sustained attention to <a href="equity.html">equity</a>, transparency, and trust.</p>]]></description>
-    </item>
-    <item>
-      <title>SAVVY: Student Attention Visualization for Video-based Learning Analysis</title>
-      <link>https://edtechdev.github.io/aied/pages/savvy-student-attention-video-learning.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/savvy-student-attention-video-learning.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>SAVVY is an interactive visual analytics system for video-based learning that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos.</p>]]></description>
-    </item>
-    <item>
-      <title>Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks</title>
-      <link>https://edtechdev.github.io/aied/pages/scaffolding-critical-engagement-genai-minority-students.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/scaffolding-critical-engagement-genai-minority-students.html</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>Using epistemic network analysis of collaborative discourse, thematic analysis of reflections, and paired-samples t-tests on prompt self-efficacy, the study documents 'strategic repurposing': students initially instrumentalized strategy talk to coordinate efficient copying before shifting toward genuine critical engagement.</p>]]></description>
     </item>
   </channel>
 </rss>

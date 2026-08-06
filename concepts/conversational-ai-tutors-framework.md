@@ -30,6 +30,10 @@ Synthesis paper bridging ITS research + GenAI. Keep/Change/Center/Study framewor
 - [[ai-tutor-effectiveness-review]]
 - [[pedagogy-ai-mistakes]]
 
+## Source
+
+- [https://arxiv.org/abs/2602.19303](https://arxiv.org/abs/2602.19303)
+
 ## Related Pages
 
 - [[codify-socratic-tutoring-programming]] — LLM + competency tracking instantiation of the conversational tutoring framework

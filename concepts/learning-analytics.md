@@ -59,3 +59,4 @@ confidence: low
 - [[savvy-student-attention-video-learning]]
 - [[llm-facilitation-timing-online-discussions]]
 - [[league-ethical-governance-student-data-2026]] — related concept
+- [[lak2026-hint-button-unproductive-use]]

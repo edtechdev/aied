@@ -34,6 +34,10 @@ The risk taxonomy itself is a significant contribution, providing a theoreticall
 
 For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTutors provides empirical evidence that current models are not safe enough for unsupervised deployment. The subject-dependence of harms suggests that safety evaluation must be integrated into discipline-specific [[ai-tutor-behavioral-evaluation]] pipelines rather than treated as a one-time gate.
 
+## Source
+
+- [https://arxiv.org/abs/2603.17373](https://arxiv.org/abs/2603.17373)
+
 ## Related Pages
 
 - [[pedagogical-safety]] — Foundational concept of safety specific to teaching contexts

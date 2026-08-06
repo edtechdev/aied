@@ -34,6 +34,10 @@ The simulation methodology also raises questions about [[ai-tutor-safety-harms]]
 - Can temporal stability be improved through prompt engineering or fine-tuning?
 - What is the ethical boundary for using simulated students in [[RCT]] designs?
 
+## Source
+
+- [https://arxiv.org/abs/2605.06307](https://arxiv.org/abs/2605.06307)
+
 ## Related Pages
 - [[llm-student-modeling-memory]]
 - [[student-experience]]

@@ -30,6 +30,10 @@ Pedagogically grounded chatbot for instructor PD. Data-centric pipeline extracts
 - [[scaffolding]]
 - [[teacher-ai-competency]]
 
+## Source
+
+- [https://arxiv.org/abs/2603.18189](https://arxiv.org/abs/2603.18189)
+
 ## Related Pages
 
 - [[ai-tpack-teacher-multi-agent-workflow]] — Differentiated scaffolding for teacher archetypes designing multi-agent workflows

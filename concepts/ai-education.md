@@ -17,3 +17,4 @@ confidence: low
 
 - [[genai-runaway-object-math-higher-ed]]
 - [[egai-power-systems-education]] — Hands-on executable framework for engineering-grounded AI in power systems education
+- [[aaai2026-prompting-literacy-k12]]

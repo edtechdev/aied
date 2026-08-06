@@ -32,6 +32,10 @@ For [[stem-education]] and [[physics-education]] specifically, the chatbot's dep
 
 The correlation between question specificity and course grade (*r* = 0.43) hints at a potential mechanism: AI-driven Socratic dialogue may improve outcomes by training the cognitive skill of precise problem formulation, which is foundational to [[physics-education]] and [[computational-thinking]].
 
+## Source
+
+- [https://arxiv.org/abs/2508.14778v1](https://arxiv.org/abs/2508.14778v1)
+
 ## Related Pages
 
 - [[socratic-method]] — Foundational pedagogical approach using guided questioning

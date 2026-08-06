@@ -36,6 +36,10 @@ The findings have implications beyond programming — the productivity-learning 
 - How do findings generalize beyond programming to other [[stem-education]] domains?
 - What instructional designs mitigate the learning cost while preserving productivity gains?
 
+## Source
+
+- [https://arxiv.org/abs/2605.04779](https://arxiv.org/abs/2605.04779)
+
 ## Related Pages
 - [[ai-learning-transfer]]
 - [[tutoring-specific-vs-general-ai]]

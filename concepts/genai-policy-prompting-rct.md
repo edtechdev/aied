@@ -33,6 +33,10 @@ This RCT investigates the impact of transforming institutional GenAI policies in
 
 Xiao, R., Ye, R., et al. (2026). *Transforming GenAI Policy to Prompting Instruction: An RCT*. arXiv preprint arXiv:2602.16033.
 
+## Source
+
+- [https://arxiv.org/abs/2602.16033](https://arxiv.org/abs/2602.16033)
+
 ## Related Pages
 - [[genai-declaration-frameworks-higher-education]] — Complementary empirical work on GenAI policy communication
 - [[student-regulatory-awareness-genai]] — Related findings on the effectiveness of GenAI policy communication

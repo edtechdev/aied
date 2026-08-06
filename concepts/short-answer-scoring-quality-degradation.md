@@ -31,6 +31,10 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - Relevant to [[ground-truth-reliability-aied]] concerns about scoring validity
 - Connects to [[generate-then-validate-question-gen]] methodologies for AI assessment quality
 
+## Source
+
+- [https://arxiv.org/abs/2605.07647](https://arxiv.org/abs/2605.07647)
+
 ## Related Pages
 - [[lata-ferpa-compliant-local-llm-autograder]] — Near-perfect accuracy contrasts with mid-range degradation
 - [[automated-grading]]

@@ -47,6 +47,10 @@ This is the first multi-turn pedagogical RL framework specifically targeting spe
 - Can the framework be extended to multimodal inputs for learners with specific math disabilities?
 - What are the ethical considerations of disability-profiling in AI tutoring systems?
 
+## Source
+
+- [https://arxiv.org/abs/2605.30670](https://arxiv.org/abs/2605.30670)
+
 ## Related Pages
 
 - [[intelligent-tutoring-systems]] — Special-R1 extends ITS research to disability-adaptive RL training

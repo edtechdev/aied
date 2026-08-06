@@ -54,6 +54,10 @@ TEI demonstrates that simple lexical and structural signals can effectively stee
 - Can the fixed weights be optimized per-domain without losing the training-free property?
 - How does TEI interact with different base model architectures and sizes?
 
+## Source
+
+- [https://arxiv.org/abs/2605.30666](https://arxiv.org/abs/2605.30666)
+
 ## Related Pages
 
 - [[intelligent-tutoring-systems]] — TEI offers a lightweight alternative to RL-based tutor alignment

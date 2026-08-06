@@ -30,6 +30,10 @@ EDM analysis of 2.4M+ AI agents engaging in peer-learning-like discourse. 28,683
 - [[scaffolding]]
 - [[ai-learning-companions-framework]]
 
+## Source
+
+- [https://arxiv.org/abs/2602.14477](https://arxiv.org/abs/2602.14477)
+
 ## Related Pages
 
 ## Citation

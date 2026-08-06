@@ -13,6 +13,22 @@
     "url": "pages/a4l-analytics-pipeline.html"
   },
   {
+    "slug": "aaai2026-prompting-literacy-k12",
+    "title": "Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module",
+    "tags": [
+      "ai-literacy",
+      "prompting-literacy",
+      "k-12",
+      "llm",
+      "ai-education",
+      "scenario-based-learning",
+      "automated-grading",
+      "student-experience"
+    ],
+    "content": "\nSynthesis: An LLM-based interactive module teaches K-12 students prompting literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ende",
+    "url": "pages/aaai2026-prompting-literacy-k12.html"
+  },
+  {
     "slug": "academic-integrity",
     "title": "Academic Integrity",
     "tags": [
@@ -408,6 +424,20 @@
     "url": "pages/ai-adult-learning-design.html"
   },
   {
+    "slug": "ai-agents-constructive-conflict-design-education-2026",
+    "title": "Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers",
+    "tags": [
+      "agentic-ai",
+      "design-thinking",
+      "higher-ed",
+      "scaffolding",
+      "student-ai-interaction",
+      "collaborative-learning"
+    ],
+    "content": "\nSynthesis: Investigates adversarial AI design agents that enact constructive conflict to prompt reconsideration in novice designers. Between-subjects experiment (N=48) comparing adversarial vs. cooperative AI agent roles. Adversarial agent condition produced significantly more design iterations, broader exploration of alternatives, and higher-rated final designs. Participants reported the conflict agent was frustrating but ultimately helpful \u2014 a productive friction dynamic. Connects to adversar",
+    "url": "pages/ai-agents-constructive-conflict-design-education-2026.html"
+  },
+  {
     "slug": "ai-agents-peer-learning-discourse",
     "title": "When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community",
     "tags": [
@@ -626,7 +656,7 @@
     "tags": [
       "stub"
     ],
-    "content": "\nAI education \u2014 teaching about AI itself \u2014 is examined through k-12-ai-education, ml-literacy-primary-education, principled-ai-education, and ai-literacy-equity-programming-policy, which find that curricula must span technical, ethical, and equity dimensions of AI literacy.\nAi EducationRelated Pagesgenai-runaway-object-math-higher-ed\negai-power-systems-education \u2014 Hands-on executable framework for engineering-grounded AI in power systems education",
+    "content": "\nAI education \u2014 teaching about AI itself \u2014 is examined through k-12-ai-education, ml-literacy-primary-education, principled-ai-education, and ai-literacy-equity-programming-policy, which find that curricula must span technical, ethical, and equity dimensions of AI literacy.\nAi EducationRelated Pagesgenai-runaway-object-math-higher-ed\negai-power-systems-education \u2014 Hands-on executable framework for engineering-grounded AI in power systems education\naaai2026-prompting-literacy-k12",
     "url": "pages/ai-education.html"
   },
   {
@@ -957,6 +987,20 @@
     "url": "pages/ai-literacy-in-higher-education.html"
   },
   {
+    "slug": "ai-literacy-legal-translation-2026",
+    "title": "AI Literacy for Legal Translation: Developing Digital Resilience",
+    "tags": [
+      "ai-literacy",
+      "professional-training",
+      "higher-ed",
+      "generative-ai",
+      "pedagogical-safety",
+      "human-in-the-loop"
+    ],
+    "content": "\nSynthesis: Proposes a four-component AI literacy framework for legal translation professionals: conceptual AI knowledge, technical operational skills, critical evaluation competencies, and ethical governance awareness. Argues generative AI extends rather than replaces professional translation competence. Identifies linguistic, technical, legal, ethical and cognitive risks of AI in legal translation and maps them to literacy components. Framework applicable beyond legal domain to other professio",
+    "url": "pages/ai-literacy-legal-translation-2026.html"
+  },
+  {
     "slug": "ai-literacy-power-knowledge",
     "title": "AI Literacy: An Exercise in Power-Knowledge",
     "tags": [
@@ -1097,6 +1141,20 @@
     ],
     "content": "AI-Powered Materials Discovery and AI LiteracyDongming Mei, Katherine Moore, Ben Sayler (2026) \u2014 Framework for integrating AI literacy with materials science education.\ud83d\udcc4 Full text (arXiv)Key FindingsThis paper presents a workflow-aligned framework for preparing students to use AI in materials discovery. The authors argue that in materials science, the limiting factor is no longer only algorithmic capability but human-AI collaboration competence. Students need to develop scientific judgment about",
     "url": "pages/ai-powered-materials-discovery-ai-literacy.html"
+  },
+  {
+    "slug": "ai-powered-personalized-learning-elementary-fractions-2026",
+    "title": "Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning",
+    "tags": [
+      "ai-generated-content",
+      "personalized-learning",
+      "k-12",
+      "math-education",
+      "adaptive-learning",
+      "student-experience"
+    ],
+    "content": "\nSynthesis: Examines AI-powered personalized learning in elementary fraction instruction through a systematic review, quantitative study (N=120), and qualitative teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and engagement. Teachers reported AI tools helped differentiate instruction but required professional developme",
+    "url": "pages/ai-powered-personalized-learning-elementary-fractions-2026.html"
   },
   {
     "slug": "ai-productivity-moderation",
@@ -1375,6 +1433,20 @@
     "url": "pages/algorithmic-bias.html"
   },
   {
+    "slug": "antiskillbench-persona-skills-privacy-2026",
+    "title": "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills",
+    "tags": [
+      "privacy",
+      "agentic-ai",
+      "student-ai-interaction",
+      "bias-mitigation",
+      "personalized-learning",
+      "benchmark"
+    ],
+    "content": "\nWhen Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills \u2014 Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 behaviorally rich profiles. Evaluates skill-level privacy leakage, agent-level attribute disclosure, and behavioral impersonation across three skill-distillation strategies... privacy agentic-ai student-ai-interaction bias-mitigation personalized-learning benchmark\nWhen Agents Learn to Be You: Benchmarking P",
+    "url": "pages/antiskillbench-persona-skills-privacy-2026.html"
+  },
+  {
     "slug": "anvil-ai-educational-animations",
     "title": "ANVIL: Analogies and Videos for Lecturers",
     "tags": [
@@ -1620,6 +1692,21 @@
     "url": "pages/becerra-aicofe-feedback-2026.html"
   },
   {
+    "slug": "behaviorally-adaptive-visual-diversion-assessment-2026",
+    "title": "Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery",
+    "tags": [
+      "assessment",
+      "accessible-learning",
+      "privacy",
+      "academic-integrity",
+      "equity",
+      "adaptive-learning",
+      "higher-ed"
+    ],
+    "content": "\nBehaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery \u2014 Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... assessment accessible-learning privacy academic-integrity equity adaptive-learning\nBehaviorally Adaptive Visual Diversion for Inclusive and Resilien",
+    "url": "pages/behaviorally-adaptive-visual-diversion-assessment-2026.html"
+  },
+  {
     "slug": "benchmark-driven-edtech",
     "title": "Benchmark Driven Edtech",
     "tags": [],
@@ -1729,6 +1816,21 @@
     "url": "pages/buggy-genai-code-student-responses.html"
   },
   {
+    "slug": "calibrating-trustworthiness-llm-education-2026",
+    "title": "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education",
+    "tags": [
+      "llm",
+      "ai-ed-evaluation",
+      "trust-calibration",
+      "human-in-the-loop",
+      "instructional-design",
+      "edtech-platform",
+      "interpretability"
+    ],
+    "content": "\nCalibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education \u2014 Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM res... llm ai-ed-evaluation trust-calibration human-in-the-loop instructional-design edtech-platform\nCalibrating Trustworthiness: Co-Designing Metri",
+    "url": "pages/calibrating-trustworthiness-llm-education-2026.html"
+  },
+  {
     "slug": "care-full-feedback-genai",
     "title": "The care-full craft of feedback in an age of generative AI",
     "tags": [
@@ -1751,6 +1853,20 @@
     ],
     "content": "Change ManagementInstitutional and organizational change management in higher education contexts.Related Pages\nai-pedagogical-orientation \u2014 AI pedagogical orientation drives faculty AI adoption more than institutional factors\ninstitutional-change-framework-ai \u2014 Six-dimension framework for adapting institutional change models in STEM to generative AI",
     "url": "pages/change-management.html"
+  },
+  {
+    "slug": "chat-debugging-llm-hardware-education-2026",
+    "title": "WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant",
+    "tags": [
+      "llm",
+      "cs-education",
+      "higher-ed",
+      "scaffolding",
+      "stem-education",
+      "student-experience"
+    ],
+    "content": "\nSynthesis: Work-in-progress exploring LLMs as debugging assistants for physical hardware lab courses. Proposes 'Chat-Debugging' where students interact with an LLM to diagnose circuit faults. Aims to reduce frustration and improve debugging skill development. Initial prototype tested in an undergraduate hardware course; preliminary results suggest LLM assistance helps students identify faults faster and provides just-in-time scaffolding without giving away solutions. llm, scaffolding, cs-educat",
+    "url": "pages/chat-debugging-llm-hardware-education-2026.html"
   },
   {
     "slug": "chatgpt-critical-creative-thinking-review",
@@ -2231,6 +2347,15 @@
     "url": "pages/constructivist.html"
   },
   {
+    "slug": "content-quality",
+    "title": "Content Quality",
+    "tags": [
+      "stub"
+    ],
+    "content": "\nStub. Full synthesis pending.\nContent QualityThis is a stub page. Content will be added when relevant sources are ingested.Related Pages\nnuclear-diffusion-text-to-image-learning-2026 \u2014 related",
+    "url": "pages/content-quality.html"
+  },
+  {
     "slug": "contextual-sycophancy-ai-literacy",
     "title": "The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration",
     "tags": [
@@ -2614,6 +2739,15 @@
     "url": "pages/design-thinking-in-education.html"
   },
   {
+    "slug": "design-thinking",
+    "title": "Design Thinking",
+    "tags": [
+      "stub"
+    ],
+    "content": "\nStub. Full synthesis pending.\nDesign ThinkingThis is a stub page. Content will be added when relevant sources are ingested.Related Pages\nai-agents-constructive-conflict-design-education-2026 \u2014 related",
+    "url": "pages/design-thinking.html"
+  },
+  {
     "slug": "desirable-difficulties",
     "title": "Desirable Difficulties",
     "tags": [
@@ -2872,6 +3006,22 @@
     "url": "pages/educational-vlm-evaluation.html"
   },
   {
+    "slug": "educlaw-bench-pedagogical-llm-agents-2026",
+    "title": "EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners",
+    "tags": [
+      "intelligent-tutoring",
+      "llm",
+      "agentic-ai",
+      "benchmark",
+      "knowledge-tracing",
+      "student-modeling",
+      "simulation",
+      "ai-ed-evaluation"
+    ],
+    "content": "\nEduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners \u2014 Introduces a 30-day long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in knowledge tracing. Evaluates 10 agent adapters over three base-model tiers and finds that tutoring quality depends on both the base model and a... intelligent-tutoring llm agentic-ai benchmark knowledge-tracing student-modeling\nEduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with",
+    "url": "pages/educlaw-bench-pedagogical-llm-agents-2026.html"
+  },
+  {
     "slug": "eduframetrap-llm-sycophancy-educational-safety",
     "title": "Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks",
     "tags": [
@@ -2933,7 +3083,7 @@
     "tags": [
       "efficacy-study"
     ],
-    "content": "\nEfficacy studies \u2014 controlled evaluations of AI education tools \u2014 are the wiki's evidence backbone: genai-policy-prompting-rct, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, and lets-chat-chatbot-outreach-2026 are pre-registered RCTs spanning K-12 and higher education (RCT, learning-gains).\nEfficacy StudyRelated Pages\nanvil-ai-educational-animations\nllm-intervention-design-cs-review\nai-vocational-education-training-review\nquest-ai-inquiry-preservice-teachers",
+    "content": "\nEfficacy studies \u2014 controlled evaluations of AI education tools \u2014 are the wiki's evidence backbone: genai-policy-prompting-rct, access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, and lets-chat-chatbot-outreach-2026 are pre-registered RCTs spanning K-12 and higher education (RCT, learning-gains).\nEfficacy StudyRelated Pages\nanvil-ai-educational-animations\nllm-intervention-design-cs-review\nai-vocational-education-training-review\nquest-ai-inquiry-preservice-teachers\nai-powered-p",
     "url": "pages/efficacy-study.html"
   },
   {
@@ -3112,7 +3262,7 @@
     "tags": [
       "stub"
     ],
-    "content": "\nEthics of educational AI is examined across ethical-ai-higher-ed-game-theory, ai-ethics-education-public-discourse, child-safety-genai, and sycophantic-ai-social-interaction-2026: ethical analysis spans harm, autonomy, privacy, and the relational effects of AI on learners (pedagogical-safety, bias-mitigation).\nEthicsRelated Pages\nsycophantic-ai-social-interaction-2026 \u2014 Relational harms of affirming AI",
+    "content": "\nEthics of educational AI is examined across ethical-ai-higher-ed-game-theory, ai-ethics-education-public-discourse, child-safety-genai, and sycophantic-ai-social-interaction-2026: ethical analysis spans harm, autonomy, privacy, and the relational effects of AI on learners (pedagogical-safety, bias-mitigation).\nEthicsRelated Pages\nsycophantic-ai-social-interaction-2026 \u2014 Relational harms of affirming AIleague-ethical-governance-student-data-2026 \u2014 related concept\ngenai-marketing-education-roles-",
     "url": "pages/ethics.html"
   },
   {
@@ -3349,6 +3499,17 @@
     "url": "pages/gaide-vibe-coding-k12-teachers.html"
   },
   {
+    "slug": "gaming-the-system",
+    "title": "Gaming the System",
+    "tags": [
+      "gaming-the-system",
+      "intelligent-tutoring",
+      "student-experience"
+    ],
+    "content": "\nStub: \"Gaming the system\" refers to behaviors where students exploit system features to progress without engaging in intended cognitive work, widely documented in intelligent tutoring systems with 10-40% of students engaging at least intermittently.\nGaming the SystemRelated Pageslak2026-hint-button-unproductive-use\nintelligent-tutoring\nstudent-experience",
+    "url": "pages/gaming-the-system.html"
+  },
+  {
     "slug": "gaze-informed-ai-children",
     "title": "Gaze-Informed Proactive AI Assistance for Children\u2019s Picture Exploration",
     "tags": [
@@ -3509,6 +3670,21 @@
     ],
     "content": "Generative AI Literacy Training Improves Intelligence Analysts\u2019 Discrimination of Real and AI-Generated ImagesKamali, Gerstner, Hullman & Groh (2026) \u2014 cs.HC / cs.AI / cs.CY\n\ud83d\udcc4 Full text (arXiv)Kamali et al. (2026) evaluate a Generative AI Literacy training intervention designed to improve intelligence analysts' ability to distinguish real photographs from AI-generated images. In a controlled experiment, trained analysts significantly outperformed untrained controls on image discrimination tasks,",
     "url": "pages/genai-literacy-image-discrimination.html"
+  },
+  {
+    "slug": "genai-marketing-education-roles-2026",
+    "title": "When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education",
+    "tags": [
+      "generative-ai",
+      "higher-ed",
+      "pedagogy",
+      "instructional-design",
+      "teacher-role",
+      "professional-training",
+      "ethics"
+    ],
+    "content": "\nWhen AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education \u2014 Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three GAI roles in education: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solv... generative-ai higher-ed pedagogy instructional-design teacher-role professional-training\nWhen AI Wears Many Hats: The Role of Generative Artificial ",
+    "url": "pages/genai-marketing-education-roles-2026.html"
   },
   {
     "slug": "genai-meta-analysis-programming-learning",
@@ -3893,6 +4069,18 @@
     ],
     "content": "\nSafeTutors is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across mathematics, physics, and chemistry. It argues that tutoring safety is fundamentally different from conventional LLM safety: the primary risk is not toxic content but the quiet erosion of learning through answer over-disclosure, misconception reinforcement, and the abdication of scaffolding.\nAuthors: Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Jul",
     "url": "pages/hazra-safetutors-pedagogical-safety-2026.html"
+  },
+  {
+    "slug": "help-seeking",
+    "title": "Help-Seeking",
+    "tags": [
+      "help-seeking",
+      "intelligent-tutoring",
+      "student-experience",
+      "metacognition"
+    ],
+    "content": "\nStub: Help-seeking in learning environments encompasses how students request and use assistance \u2014 productive help-seeking involves attempting solutions first, while unproductive patterns like premature requests or superficial reading of hints are associated with reduced learning gains.\nHelp-SeekingRelated Pageslak2026-hint-button-unproductive-use\nintelligent-tutoring\nstudent-experience",
+    "url": "pages/help-seeking.html"
   },
   {
     "slug": "higher-ed",
@@ -4396,6 +4584,23 @@
     "url": "pages/kutti-ai-voice-first-learning-companion.html"
   },
   {
+    "slug": "lak2026-hint-button-unproductive-use",
+    "title": "Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems",
+    "tags": [
+      "intelligent-tutoring",
+      "learning-analytics",
+      "hint-systems",
+      "k-12",
+      "math-education",
+      "gaming-the-system",
+      "student-experience",
+      "help-seeking",
+      "its-design"
+    ],
+    "content": "\nSynthesis: A three-semester, 999-student analysis of hint usage in a K-12 mathematics ITS finds that two simple, interpretable indicators\u2014premature hint requests and superficial hint reading\u2014are consistently associated with reduced learning gains, even after controlling for prior knowledge. The work argues from an affordance perspective that the persistent \"hint button\" design common across ITSs can inadvertently enable bypass strategies, transforming scaffolds into shortcuts.\nRevisiting the Hi",
+    "url": "pages/lak2026-hint-button-unproductive-use.html"
+  },
+  {
     "slug": "language-learning",
     "title": "Language Learning",
     "tags": [
@@ -4418,6 +4623,21 @@
     ],
     "content": "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM CourseworkLaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework\nRodr\u00edguez (2026) \u2014 Oregon State University. Submitted to Computers & Education.\n\ud83d\udcc4 Full text (arXiv)SummaryLaTA (LaTeX Teaching Assistant) is a privacy-preserving, drop-in autograder that addresses the core tension in educational LLM deployment: most automated-grading systems send student work to third-party APIs, violatin",
     "url": "pages/lata-ferpa-compliant-local-llm-autograder.html"
+  },
+  {
+    "slug": "league-ethical-governance-student-data-2026",
+    "title": "Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics",
+    "tags": [
+      "learning-analytics",
+      "privacy",
+      "equity",
+      "ethics",
+      "regulation",
+      "higher-ed",
+      "institutional-change"
+    ],
+    "content": "\nBeyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics \u2014 Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, educational policy, v... learning-analytics privacy equity ethics regulation higher-ed\nBeyond Compliance: A Proposed Framework for Ethical Governance of Student Data i",
+    "url": "pages/league-ethical-governance-student-data-2026.html"
   },
   {
     "slug": "learner-ai-interaction-patterns-oop",
@@ -5075,6 +5295,15 @@
     "url": "pages/mastery-learning.html"
   },
   {
+    "slug": "math-education",
+    "title": "Math Education",
+    "tags": [
+      "stub"
+    ],
+    "content": "\nStub. Full synthesis pending.\nMath EducationThis is a stub page. Content will be added when relevant sources are ingested.Related Pages\nai-powered-personalized-learning-elementary-fractions-2026 \u2014 related\nlak2026-hint-button-unproductive-use",
+    "url": "pages/math-education.html"
+  },
+  {
     "slug": "mbp-kt-meta-behavioral-knowledge-tracing",
     "title": "MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing",
     "tags": [
@@ -5517,6 +5746,20 @@
     "url": "pages/nsmq-riddles-science-math-benchmark.html"
   },
   {
+    "slug": "nuclear-diffusion-text-to-image-learning-2026",
+    "title": "NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts",
+    "tags": [
+      "generative-ai",
+      "stem-education",
+      "ai-generated-content",
+      "multimodal",
+      "content-quality",
+      "higher-ed"
+    ],
+    "content": "\nSynthesis: Systematic study of domain-adapted text-to-image models for nuclear engineering education. Fine-tunes Stable Diffusion on nuclear domain images; fine-tuned model achieves 78% domain accuracy vs 12% for base model. Proposes NuclearDiffusion as an educational tool where instructors generate accurate visualizations of nuclear concepts (reactor components, fuel cycles, safety systems). Demonstrates that domain-specific fine-tuning dramatically improves visual correctness for specialized ",
+    "url": "pages/nuclear-diffusion-text-to-image-learning-2026.html"
+  },
+  {
     "slug": "oecd-digital-education-outlook-2026",
     "title": "OECD Digital Education Outlook 2026",
     "tags": [
@@ -5780,6 +6023,20 @@
     "url": "pages/principled-ai-education.html"
   },
   {
+    "slug": "privacy-aware-classroom-incident-recognition-2026",
+    "title": "Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition",
+    "tags": [
+      "k-12",
+      "privacy",
+      "multimodal",
+      "classroom",
+      "benchmark",
+      "ai-detection"
+    ],
+    "content": "\nSynthesis: Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid benchmark combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong incident recognition while preserving student privacy (no facial recognition). Demonstrates that efficient motion-based features can generalize across classroom environments without collecting identifiable student data. privacy, k-12, multimo",
+    "url": "pages/privacy-aware-classroom-incident-recognition-2026.html"
+  },
+  {
     "slug": "privacy",
     "title": "Privacy in Educational AI",
     "tags": [
@@ -5787,7 +6044,7 @@
       "equity",
       "regulation"
     ],
-    "content": "\nPrivacy in educational AI is examined in lata-ferpa-compliant-local-llm-autograder, ai-unlearning-math-privacy (llm-unlearning), child-safety-genai, and regulation: student data protection constrains cloud AI and motivates local, private deployment (open-source, ai-governance-education).\nPrivacy in Educational AIRelated Pages\nchild-safety-genai \u2014 privacy in education\nllm-unlearning-math-privacyCitation\ncstutorbench-slm-tutors \u2014 Privacy/cost case for SLM tutors",
+    "content": "\nPrivacy in educational AI is examined in lata-ferpa-compliant-local-llm-autograder, ai-unlearning-math-privacy (llm-unlearning), child-safety-genai, and regulation: student data protection constrains cloud AI and motivates local, private deployment (open-source, ai-governance-education).\nPrivacy in Educational AIRelated Pages\nchild-safety-genai \u2014 privacy in education\nllm-unlearning-math-privacy\nbehaviorally-adaptive-visual-diversion-assessment-2026 \u2014 related concept\nantiskillbench-persona-skill",
     "url": "pages/privacy.html"
   },
   {
@@ -5911,6 +6168,18 @@
     ],
     "content": "Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming TasksVictor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026) \u2014 arXiv:2607.05034 [cs.CY]\ud83d\udcc4 Full text (arXiv)Learning to communicate with code-generating AI is an emerging skill for novice programmers. 'Prompt Problems' \u2014 having students solve computational tasks by writing natural-language prompts for code-generating models \u2014 is a recent ped",
     "url": "pages/prompt-problems-nl-programming-mistakes.html"
+  },
+  {
+    "slug": "prompting-literacy",
+    "title": "Prompting Literacy",
+    "tags": [
+      "prompting-literacy",
+      "ai-literacy",
+      "k-12",
+      "llm"
+    ],
+    "content": "\nStub: Prompting literacy is the ability to craft effective natural-language prompts to communicate with AI chatbots for learning \u2014 encompassing what AI can do to support learning, when to use AI effectively, and how to structure prompts for different types of assistance.\nPrompting LiteracyRelated Pagesaaai2026-prompting-literacy-k12\nai-literacy\nllm",
+    "url": "pages/prompting-literacy.html"
   },
   {
     "slug": "psychometrically-aware-ai",
@@ -6483,7 +6752,7 @@
       "critical-thinking",
       "socratic-method"
     ],
-    "content": "\nThe Socratic method \u2014 teaching through guided questioning rather than direct answers \u2014 is operationalized in AI tutors across the wiki: socratic-tests-conversational-assessment, codify-socratic-programming-tutor, hashmi-socratic-physics-chatbot-2025, and socraticode-k12-programming-tutor show elicitation-based dialogue supports reasoning when learners cannot bypass questions (scaffolding, critical-thinking, intelligent-tutoring).\nSocratic Method in AI EducationRelated Pages",
+    "content": "\nThe Socratic method \u2014 teaching through guided questioning rather than direct answers \u2014 is operationalized in AI tutors across the wiki: socratic-tests-conversational-assessment, codify-socratic-programming-tutor, hashmi-socratic-physics-chatbot-2025, and socraticode-k12-programming-tutor show elicitation-based dialogue supports reasoning when learners cannot bypass questions (scaffolding, critical-thinking, intelligent-tutoring).\nSocratic Method in AI EducationRelated Pagesai-agents-constructiv",
     "url": "pages/socratic-method.html"
   },
   {

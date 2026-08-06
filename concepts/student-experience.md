@@ -119,3 +119,5 @@ confidence: low
 - [[structured-ai-demonstrations-engineering-mechanics]]
 - [[savvy-student-attention-video-learning]]
 - [[chat-debugging-llm-hardware-education-2026]] — related
+- [[lak2026-hint-button-unproductive-use]]
+- [[aaai2026-prompting-literacy-k12]]
