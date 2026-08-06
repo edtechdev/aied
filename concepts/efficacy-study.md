@@ -19,3 +19,4 @@ confidence: low
 - [[llm-intervention-design-cs-review]]
 - [[ai-vocational-education-training-review]]
 - [[quest-ai-inquiry-preservice-teachers]]
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — related

@@ -28,3 +28,4 @@ Evaluation benchmarks for AI systems in educational contexts
 - [[mllm-scientific-visualization-literacy]] — reusable SciVis-literacy benchmark methodology (49 items, 18 viz)
 - [[llm-psychometric-calibration-cdp]] — CDP framework dramatically improves LLM-simulated examinee alignment with human ...
 - [[icle-plus-plus-essay-scoring]]
+- [[privacy-aware-classroom-incident-recognition-2026]] — related

@@ -29,3 +29,4 @@ Agentic AI refers to artificial intelligence systems that can autonomously plan,
 - [[deeptutor]]
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept
 - [[antiskillbench-persona-skills-privacy-2026]] — related concept
+- [[ai-agents-constructive-conflict-design-education-2026]] — related

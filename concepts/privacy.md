@@ -20,6 +20,7 @@ confidence: low
 - [[behaviorally-adaptive-visual-diversion-assessment-2026]] — related concept
 - [[antiskillbench-persona-skills-privacy-2026]] — related concept
 - [[league-ethical-governance-student-data-2026]] — related concept
+- [[privacy-aware-classroom-incident-recognition-2026]] — related
 
 ## Citation
 - [[cstutorbench-slm-tutors]] — Privacy/cost case for SLM tutors

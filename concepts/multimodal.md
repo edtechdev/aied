@@ -19,3 +19,5 @@ confidence: low
 - [[anvil-ai-educational-animations]]
 - [[multimodal-prompting-ai-literacy]]
 - [[savvy-student-attention-video-learning]]
+- [[privacy-aware-classroom-incident-recognition-2026]] — related
+- [[nuclear-diffusion-text-to-image-learning-2026]] — related

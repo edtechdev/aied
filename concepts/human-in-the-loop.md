@@ -28,3 +28,4 @@ confidence: low
 - [[mooc-to-maic]]
 - [[deeptutor]]
 - [[calibrating-trustworthiness-llm-education-2026]] — related concept
+- [[ai-literacy-legal-translation-2026]] — related

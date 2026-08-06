@@ -96,3 +96,5 @@ Instructional scaffolding techniques and their implementation in AI-enhanced lea
 - [[socratic-tests-conversational-assessment]]
 - [[structured-ai-demonstrations-engineering-mechanics]]
 - [[scaffolding-critical-engagement-genai-minority-students]]
+- [[chat-debugging-llm-hardware-education-2026]] — related
+- [[ai-agents-constructive-conflict-design-education-2026]] — related

@@ -71,3 +71,5 @@ confidence: low
 - [[mooc-to-maic]]
 - [[deeptutor]]
 - [[genai-marketing-education-roles-2026]] — related concept
+- [[ai-literacy-legal-translation-2026]] — related
+- [[nuclear-diffusion-text-to-image-learning-2026]] — related
