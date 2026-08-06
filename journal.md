@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-06 | Total entries: 464
+Last updated: 2026-08-06 | Total entries: 465
 
 ## 2026-08-06
 
@@ -21,6 +21,9 @@ Last updated: 2026-08-06 | Total entries: 464
 - ◐ [[chat-debugging-llm-hardware-education-2026]] — raw/papers/2608.02420.md
   **WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant**
   Tags: [llm, cs-education, higher-ed, scaffolding, stem-education, student-experience]
+- ● [[instructional-agents-multi-agent-course-gen]] — raw/papers/instructional-agents-multi-agent-course-gen.md
+  **Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design**
+  Tags: [multi-agent, llm, instructional-design, course-generation, addie, higher-ed, teacher-support, automated-courseware, faculty-development]
 - ● [[knowloop-confusion-to-consolidation-2026]] — raw/papers/knowloop-confusion-to-consolidation-2026.md
   **From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review**
   Tags: [conversational-agents, personalized-learning, higher-ed, learning-by-teaching, dual-agent, scaffolding, confusion-detection, teach-back, lecture-review]

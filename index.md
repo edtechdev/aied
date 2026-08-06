@@ -26,6 +26,7 @@
 - [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
 - [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education
 - [[administrator]] — AI from the Administrator Perspective
+- [[adult-learning]] — Adult Learning
 - [[affective-computing]] — Affective Computing
 - [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
 - [[affective-tutoring]] — Affective Tutoring
@@ -121,6 +122,7 @@
 - [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass
 - [[aissa-slides-analysis]] — AISSA: AI-based Student Slides Analysis Tool for Academic Presentations
 - [[algorithmic-bias]] — Algorithmic Bias
+- [[andragogy]] — Andragogy
 - [[antiskillbench-persona-skills-privacy-2026]] — When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
@@ -225,6 +227,7 @@
 - [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[design-education]] — Design Education
+- [[design-guidelines]] — Design Guidelines
 - [[design-thinking]] — Design Thinking
 - [[design-thinking-in-education]] — Design Thinking In Education
 - [[desirable-difficulties]] — Desirable Difficulties
@@ -248,6 +251,7 @@
 - [[educational-measurement]] — Educational Measurement
 - [[educational-nlp]] — Educational Nlp
 - [[educational-policy-ai]] — Educational Policy Ai
+- [[educational-technology]] — Educational Technology
 - [[educational-theory]] — Educational Theory
 - [[educational-vlm-evaluation]] — Educational VLM Evaluation
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
@@ -343,6 +347,7 @@
 - [[human-ai-collaboration]] — Human Ai Collaboration
 - [[human-ai-collaboration-prerequisite-functions]] — What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it
 - [[human-ai-collaboration-trust-expectations]] — Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust
+- [[human-computer-interaction]] — Human Computer Interaction
 - [[human-in-the-loop]] — Human In The Loop
 - [[human-in-the-loop-ai]] — Human-in-the-Loop AI for Education
 - [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
@@ -359,6 +364,7 @@
 - [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
 - [[institutional-ai-readiness]] — Institutional Ai Readiness
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[instructional-agents-multi-agent-course-gen]] — Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design
 - [[instructional-design]] — Instructional Design
 - [[instructional-guidance-genai-learning]] — Role of Instructional Guidance in Generative AI-Assisted Learning
 - [[intelligent-tutoring]] — Intelligent Tutoring
