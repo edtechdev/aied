@@ -1589,6 +1589,15 @@
     "url": "pages/at-risk-students-ml-prediction.html"
   },
   {
+    "slug": "augmentation",
+    "title": "Augmentation",
+    "tags": [
+      "augmentation"
+    ],
+    "content": "\nStub.\nAugmentationRelated Pagesteacher-ai-teaming-five-levels",
+    "url": "pages/augmentation.html"
+  },
+  {
     "slug": "authentic-assessment",
     "title": "Authentic Assessment",
     "tags": [
@@ -4042,7 +4051,7 @@
     "tags": [
       "generative-ai"
     ],
-    "content": "\nGenerative AI \u2014 LLMs and multimodal models \u2014 is the wiki's central technology subject, spanning chatgpt-feedback-engagement-genai, genai-performance-vs-learning, genai-policies-higher-ed-computing, and structrag-diagram-reasoning-ai-tutoring: the corpus converges on capability being real but pedagogical framing deciding outcomes (llm, ai-literacy).\nGenerative AiRelated Pages\nlets-chat-chatbot-outreach-2026 \u2014 The non-generative chatbot contrast case\ngenai-can-harm-teaching-rct-2026 \u2014 Teacher-fac",
+    "content": "\nGenerative AI \u2014 LLMs and multimodal models \u2014 is the wiki's central technology subject, spanning chatgpt-feedback-engagement-genai, genai-performance-vs-learning, genai-policies-higher-ed-computing, and structrag-diagram-reasoning-ai-tutoring: the corpus converges on capability being real but pedagogical framing deciding outcomes (llm, ai-literacy).\nGenerative AiRelated Pages\n-- teacher-ai-teaming-five-levels\n lets-chat-chatbot-outreach-2026 \u2014 The non-generative chatbot contrast case\ngenai-can-h",
     "url": "pages/generative-ai.html"
   },
   {
@@ -4283,6 +4292,15 @@
     "url": "pages/human-ai-collaboration.html"
   },
   {
+    "slug": "human-ai-interaction",
+    "title": "Human Ai Interaction",
+    "tags": [
+      "human-ai-interaction"
+    ],
+    "content": "\nStub.\nHuman Ai InteractionRelated Pagesteacher-ai-teaming-five-levels",
+    "url": "pages/human-ai-interaction.html"
+  },
+  {
     "slug": "human-computer-interaction",
     "title": "Human Computer Interaction",
     "tags": [
@@ -4378,6 +4396,15 @@
     ],
     "content": "Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student NeedsAshish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger (2026) \u2014 Carnegie Mellon University & collaborators. EDM'26.\ud83d\udcc4 Full text (arXiv)Key FindingsIn a large-scale quasi-experiment with 635 students (grades 5-8), hybrid human-AI tutoring produced substantial gains over AI-only tutoring: +25% time on task, +36% skil",
     "url": "pages/hybrid-human-ai-tutoring-differentiated.html"
+  },
+  {
+    "slug": "hybrid-intelligence",
+    "title": "Hybrid Intelligence",
+    "tags": [
+      "hybrid-intelligence"
+    ],
+    "content": "\nStub.\nHybrid IntelligenceRelated Pagesteacher-ai-teaming-five-levels",
+    "url": "pages/hybrid-intelligence.html"
   },
   {
     "slug": "hypergamification-game-engine-lms",
@@ -6229,6 +6256,15 @@
     "url": "pages/prober-ai-inquiry-writing.html"
   },
   {
+    "slug": "professional-development",
+    "title": "Professional Development",
+    "tags": [
+      "professional-development"
+    ],
+    "content": "\nStub.\nProfessional DevelopmentRelated Pagesteacher-ai-teaming-five-levels",
+    "url": "pages/professional-development.html"
+  },
+  {
     "slug": "professional-training",
     "title": "Professional Training",
     "tags": [
@@ -7361,6 +7397,15 @@
     "url": "pages/teachbench-llm-teaching-evaluation.html"
   },
   {
+    "slug": "teacher-agency",
+    "title": "Teacher Agency",
+    "tags": [
+      "teacher-agency"
+    ],
+    "content": "\nStub.\nTeacher AgencyRelated Pagesteacher-ai-teaming-five-levels",
+    "url": "pages/teacher-agency.html"
+  },
+  {
     "slug": "teacher-ai-adoption-confidence",
     "title": "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes",
     "tags": [
@@ -7398,6 +7443,22 @@
     ],
     "content": "Teacher AI CompetencySynthesisTeacher AI competency encompasses the knowledge, skills, and dispositions required for effective AI integration in educational contexts. Emerging frameworks identify three competency dimensions:1. Technical Proficiency\nPrompt Engineering: Crafting effective prompts for educational objectives (Xiao et al. 2026: 4-hour training \u2192 2.3x integration increase)\nTool Evaluation: Assessing AI tools for pedagogical fit and safety\nTroubleshooting: Addressing AI-system failures",
     "url": "pages/teacher-ai-competency.html"
+  },
+  {
+    "slug": "teacher-ai-teaming-five-levels",
+    "title": "Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence",
+    "tags": [
+      "teacher-role",
+      "teacher-ai-teaming",
+      "generative-ai",
+      "human-ai-interaction",
+      "teacher-agency",
+      "hybrid-intelligence",
+      "professional-development",
+      "augmentation"
+    ],
+    "content": "\nSynthesis: Drawing on a systematic literature review, this UCL chapter proposes a five-level framework of teacher-AI teaming\u2014transactional, situational, operational, praxical, and synergistic\u2014to capture how GenAI interactions may replace, complement, or augment teacher competence. The framework moves beyond task division toward collaborative decision-making where teachers and AI engage in negotiation, constructive challenge, and co-reasoning.\nTowards Synergistic Teacher-AI Interactions with Gen",
+    "url": "pages/teacher-ai-teaming-five-levels.html"
   },
   {
     "slug": "teacher-authored-prompts-student-ai-dialogue",
@@ -7444,7 +7505,7 @@
       "k-12",
       "higher-ed"
     ],
-    "content": "Teacher Role in AI-Enhanced EducationConnectionsRelated Pages\ngenai-can-harm-teaching-rct-2026 \u2014 Principal-agent problem in AI-assisted teaching\nlearner-centered-feedback-ai \u2014 Teachers calibrate AI tone to preserve professional voice\ncare-full-feedback-genai \u2014 Feedback as professional craft and ethical practice\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-education-framework\nai-changing-teaching-wo",
+    "content": "Teacher Role in AI-Enhanced EducationConnectionsRelated Pages\n-- teacher-ai-teaming-five-levels\n genai-can-harm-teaching-rct-2026 \u2014 Principal-agent problem in AI-assisted teaching\nlearner-centered-feedback-ai \u2014 Teachers calibrate AI tone to preserve professional voice\ncare-full-feedback-genai \u2014 Feedback as professional craft and ethical practice\nllm-cognitive-diagnosis-handwritten-math \u2014 MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 \nxai-educatio",
     "url": "pages/teacher-role.html"
   },
   {
