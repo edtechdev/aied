@@ -1,11 +1,14 @@
 # Journal
-Last updated: 2026-08-06 | Total entries: 463
+Last updated: 2026-08-06 | Total entries: 464
 
 ## 2026-08-06
 
 - ● [[aaai2026-prompting-literacy-k12]] — raw/papers/aaai2026-prompting-literacy-k12.md
   **Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module**
   Tags: [ai-literacy, prompting-literacy, k-12, llm, ai-education, scenario-based-learning, automated-grading, student-experience]
+- ● [[ai-adult-learning-guidelines-dis2026]] — raw/papers/ai-adult-learning-guidelines-dis2026.md
+  **Guidelines for Designing AI Technologies to Support Adult Learning**
+  Tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation]
 - ● [[ai-agents-constructive-conflict-design-education-2026]] — raw/papers/2608.04166.md
   **Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers**
   Tags: [agentic-ai, design-thinking, higher-ed, scaffolding, student-ai-interaction, collaborative-learning]

@@ -190,6 +190,15 @@
     "url": "pages/administrator.html"
   },
   {
+    "slug": "adult-learning",
+    "title": "Adult Learning",
+    "tags": [
+      "adult-learning"
+    ],
+    "content": "\nStub: Auto-created for cross-linking.\nAdult LearningRelated Pagesai-adult-learning-guidelines-dis2026",
+    "url": "pages/adult-learning.html"
+  },
+  {
     "slug": "affective-computing",
     "title": "Affective Computing",
     "tags": [
@@ -424,6 +433,23 @@
     "url": "pages/ai-adult-learning-design.html"
   },
   {
+    "slug": "ai-adult-learning-guidelines-dis2026",
+    "title": "Guidelines for Designing AI Technologies to Support Adult Learning",
+    "tags": [
+      "adult-learning",
+      "design-guidelines",
+      "andragogy",
+      "ai-education",
+      "human-computer-interaction",
+      "educational-technology",
+      "higher-ed",
+      "professional-training",
+      "heuristic-evaluation"
+    ],
+    "content": "\nSynthesis: Drawing on longitudinal deployment data from the National AI Institute for Adult Learning and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning technologies. The guidelines span cognitive, social, and teaching presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an int",
+    "url": "pages/ai-adult-learning-guidelines-dis2026.html"
+  },
+  {
     "slug": "ai-agents-constructive-conflict-design-education-2026",
     "title": "Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers",
     "tags": [
@@ -656,7 +682,7 @@
     "tags": [
       "stub"
     ],
-    "content": "\nAI education \u2014 teaching about AI itself \u2014 is examined through k-12-ai-education, ml-literacy-primary-education, principled-ai-education, and ai-literacy-equity-programming-policy, which find that curricula must span technical, ethical, and equity dimensions of AI literacy.\nAi EducationRelated Pagesgenai-runaway-object-math-higher-ed\negai-power-systems-education \u2014 Hands-on executable framework for engineering-grounded AI in power systems education\naaai2026-prompting-literacy-k12",
+    "content": "\nAI education \u2014 teaching about AI itself \u2014 is examined through k-12-ai-education, ml-literacy-primary-education, principled-ai-education, and ai-literacy-equity-programming-policy, which find that curricula must span technical, ethical, and equity dimensions of AI literacy.\nAi EducationRelated Pagesgenai-runaway-object-math-higher-ed\negai-power-systems-education \u2014 Hands-on executable framework for engineering-grounded AI in power systems education\naaai2026-prompting-literacy-k12\nai-adult-learnin",
     "url": "pages/ai-education.html"
   },
   {
@@ -1431,6 +1457,15 @@
     ],
     "content": "\nAlgorithmic bias in educational AI is documented across gender-bias-transfer-llm-writing, ai-scoring-language-bias-physics, llm-cultural-relevance-k12, and bias-mitigation \u2014 models inherit and amplify demographic, linguistic, and cultural biases that require systematic auditing and mitigation.\nAlgorithmic BiasRelated Pagesai-scoring-language-bias-physics\nfair-explainable-edu-recommendations",
     "url": "pages/algorithmic-bias.html"
+  },
+  {
+    "slug": "andragogy",
+    "title": "Andragogy",
+    "tags": [
+      "andragogy"
+    ],
+    "content": "\nStub: Auto-created for cross-linking.\nAndragogyRelated Pagesai-adult-learning-guidelines-dis2026",
+    "url": "pages/andragogy.html"
   },
   {
     "slug": "antiskillbench-persona-skills-privacy-2026",
@@ -2739,6 +2774,15 @@
     "url": "pages/design-education.html"
   },
   {
+    "slug": "design-guidelines",
+    "title": "Design Guidelines",
+    "tags": [
+      "design-guidelines"
+    ],
+    "content": "\nStub: Auto-created for cross-linking.\nDesign GuidelinesRelated Pagesai-adult-learning-guidelines-dis2026",
+    "url": "pages/design-guidelines.html"
+  },
+  {
     "slug": "design-thinking-in-education",
     "title": "Design Thinking In Education",
     "tags": [
@@ -2990,6 +3034,15 @@
     ],
     "content": "\nEducational policy for AI is analyzed in state-policy-teacher-ai, genai-policy-prompting-rct, ai-governance-education, and regulation: policy design choices (allow/prompt/teach) measurably shape classroom use, and governance must keep pace with capability (policy-maker).\nEducational Policy AiRelated Pages",
     "url": "pages/educational-policy-ai.html"
+  },
+  {
+    "slug": "educational-technology",
+    "title": "Educational Technology",
+    "tags": [
+      "educational-technology"
+    ],
+    "content": "\nStub: Auto-created for cross-linking.\nEducational TechnologyRelated Pagesai-adult-learning-guidelines-dis2026",
+    "url": "pages/educational-technology.html"
   },
   {
     "slug": "educational-theory",
@@ -4183,6 +4236,15 @@
     ],
     "content": "\nHuman-AI collaboration \u2014 the division of cognitive labor between people and models \u2014 is the wiki's core interaction theme: human-ai-collaboration-trust-expectations, humanlike-ai-collaborative-writing, genai-mindtool-generative-learning, and teacher-student-agency-orchestration examine trust, agency, and complementary roles (human-in-the-loop, agentic-ai).\nHuman Ai CollaborationRelated Pages\ndot-framework-survey\ngenerativism-learning-theory \u2014 Generativism's epistemic partnership principle as a ",
     "url": "pages/human-ai-collaboration.html"
+  },
+  {
+    "slug": "human-computer-interaction",
+    "title": "Human Computer Interaction",
+    "tags": [
+      "human-computer-interaction"
+    ],
+    "content": "\nStub: Auto-created for cross-linking.\nHuman Computer InteractionRelated Pagesai-adult-learning-guidelines-dis2026",
+    "url": "pages/human-computer-interaction.html"
   },
   {
     "slug": "human-in-the-loop-ai",

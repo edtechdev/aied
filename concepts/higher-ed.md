@@ -84,3 +84,4 @@ confidence: low
 - [[genai-marketing-education-roles-2026]] — related concept
 - [[ai-literacy-legal-translation-2026]] — related
 - [[knowloop-confusion-to-consolidation-2026]]
+- [[ai-adult-learning-guidelines-dis2026]]
