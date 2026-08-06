@@ -6,7 +6,7 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 18:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:22:21 +0000</lastBuildDate>
     <item>
       <title>Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module</title>
       <link>https://edtechdev.github.io/aied/pages/aaai2026-prompting-literacy-k12.html</link>
@@ -67,6 +67,13 @@
       <title>Assessment Development</title>
       <link>https://edtechdev.github.io/aied/pages/assessment-development.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/assessment-development.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
+      <title>Augmentation</title>
+      <link>https://edtechdev.github.io/aied/pages/augmentation.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/augmentation.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Stub.**</p>]]></description>
     </item>
@@ -141,11 +148,25 @@
       <description><![CDATA[<p>**Stub:** Help-seeking in learning environments encompasses how students request and use assistance — productive help-seeking involves attempting solutions first, while unproductive patterns like premature requests or superficial reading of hints are associated with reduced learning gains.</p>]]></description>
     </item>
     <item>
+      <title>Human Ai Interaction</title>
+      <link>https://edtechdev.github.io/aied/pages/human-ai-interaction.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-ai-interaction.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
       <title>Human Computer Interaction</title>
       <link>https://edtechdev.github.io/aied/pages/human-computer-interaction.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-computer-interaction.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Stub:** Auto-created for cross-linking.</p>]]></description>
+    </item>
+    <item>
+      <title>Hybrid Intelligence</title>
+      <link>https://edtechdev.github.io/aied/pages/hybrid-intelligence.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/hybrid-intelligence.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
     </item>
     <item>
       <title>Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design</title>
@@ -204,11 +225,32 @@
       <description><![CDATA[<p>**Synthesis:** Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid benchmark combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong incident recognition while preserving student privacy (no facial recognition). Demonstrates that efficient motion-based features can generalize across classroom environments without collecting identifiable student data. <a href="privacy.html">privacy</a>, <a href="k-12.html">k-12</a>, <a href="multimodal.html">multimodal</a>, <a href="edtech-platform.html">edtech-platform</a>, and <a href="benchmark.html">benchmark</a>.</p>]]></description>
     </item>
     <item>
+      <title>Professional Development</title>
+      <link>https://edtechdev.github.io/aied/pages/professional-development.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/professional-development.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
       <title>Prompting Literacy</title>
       <link>https://edtechdev.github.io/aied/pages/prompting-literacy.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/prompting-literacy.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Stub:** Prompting literacy is the ability to craft effective natural-language prompts to communicate with AI chatbots for learning — encompassing what AI can do to support learning, when to use AI effectively, and how to structure prompts for different types of assistance.</p>]]></description>
+    </item>
+    <item>
+      <title>Teacher Agency</title>
+      <link>https://edtechdev.github.io/aied/pages/teacher-agency.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/teacher-agency.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
+      <title>Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence</title>
+      <link>https://edtechdev.github.io/aied/pages/teacher-ai-teaming-five-levels.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/teacher-ai-teaming-five-levels.html</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Drawing on a systematic literature review, this UCL chapter proposes a five-level framework of teacher-AI teaming—transactional, situational, operational, praxical, and synergistic—to capture how GenAI interactions may replace, complement, or augment teacher competence. The framework moves beyond task division toward collaborative decision-making where teachers and AI engage in negotiation, constructive challenge, and co-reasoning.</p>]]></description>
     </item>
     <item>
       <title>Teacher Support</title>
@@ -244,48 +286,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/behaviorally-adaptive-visual-diversion-assessment-2026.html</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... <a href="assessment.html">assessment</a> <a href="accessible-learning.html">accessible-learning</a> <a href="privacy.html">privacy</a> <a href="academic-integrity.html">academic-integrity</a> <a href="equity.html">equity</a> <a href="adaptive-learning.html">adaptive-learning</a></p>]]></description>
-    </item>
-    <item>
-      <title>Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education</title>
-      <link>https://edtechdev.github.io/aied/pages/calibrating-trustworthiness-llm-education-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/calibrating-trustworthiness-llm-education-2026.html</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM res... <a href="llm.html">llm</a> <a href="ai-ed-evaluation.html">ai-ed-evaluation</a> <a href="trust-calibration.html">trust-calibration</a> <a href="human-in-the-loop.html">human-in-the-loop</a> <a href="instructional-design.html">instructional-design</a> <a href="edtech-platform.html">edtech-platform</a></p>]]></description>
-    </item>
-    <item>
-      <title>EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners</title>
-      <link>https://edtechdev.github.io/aied/pages/educlaw-bench-pedagogical-llm-agents-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/educlaw-bench-pedagogical-llm-agents-2026.html</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners** — Introduces a 30-day long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in knowledge tracing. Evaluates 10 agent adapters over three base-model tiers and finds that tutoring quality depends on both the base model and a... <a href="intelligent-tutoring.html">intelligent-tutoring</a> <a href="llm.html">llm</a> <a href="agentic-ai.html">agentic-ai</a> <a href="benchmark.html">benchmark</a> <a href="knowledge-tracing.html">knowledge-tracing</a> <a href="student-modeling.html">student-modeling</a></p>]]></description>
-    </item>
-    <item>
-      <title>When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education</title>
-      <link>https://edtechdev.github.io/aied/pages/genai-marketing-education-roles-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-marketing-education-roles-2026.html</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three GAI roles in education: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solv... <a href="generative-ai.html">generative-ai</a> <a href="higher-ed.html">higher-ed</a> <a href="pedagogy.html">pedagogy</a> <a href="instructional-design.html">instructional-design</a> <a href="teacher-role.html">teacher-role</a> <a href="professional-training.html">professional-training</a></p>]]></description>
-    </item>
-    <item>
-      <title>Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics</title>
-      <link>https://edtechdev.github.io/aied/pages/league-ethical-governance-student-data-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/league-ethical-governance-student-data-2026.html</guid>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics** — Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, educational policy, v... <a href="learning-analytics.html">learning-analytics</a> <a href="privacy.html">privacy</a> <a href="equity.html">equity</a> <a href="ethics.html">ethics</a> <a href="regulation.html">regulation</a> <a href="higher-ed.html">higher-ed</a></p>]]></description>
-    </item>
-    <item>
-      <title>CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation</title>
-      <link>https://edtechdev.github.io/aied/pages/code-gen.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/code-gen.html</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**A dual-agent RAG-based system for generating and validating coding comprehension MCQs**, evaluated by 6 SMEs across 7 pedagogical dimensions (N=288 questions, 2,016 rating pairs). AI excels at criteria-matching and computational verification (concept alignment 98.6%, code validity 95.5%), but human expertise remains essential for distractor quality (79.9%) and pedagogically rich feedback — providing an evidence-based division of labor for <a href="human-in-the-loop.html">human-in-the-loop</a> educational content generation.</p>]]></description>
-    </item>
-    <item>
-      <title>DeepTutor: Towards Agentic Personalized Tutoring</title>
-      <link>https://edtechdev.github.io/aied/pages/deeptutor.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/deeptutor.html</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**A fully open-source agentic tutoring framework that closes the loop between citation-grounded problem tutoring and difficulty-calibrated question generation**, powered by a hybrid personalization engine combining static knowledge grounding with dynamic learner memory. Evaluated via TutorBench across 5 university disciplines, improving personalized metrics by 10.8% and general agentic reasoning by 29.4% across 5 backbone models.</p>]]></description>
     </item>
   </channel>
 </rss>

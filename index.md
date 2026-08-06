@@ -114,6 +114,7 @@
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[ai-tutoring]] — AI Tutoring
+- [[ai-tutors]] — Ai Tutors
 - [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness
 - [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership
 - [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
@@ -127,6 +128,7 @@
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
 - [[assessment]] — Assessment
+- [[assessment-development]] — Assessment Development
 - [[assessment-team-problem-solving-computing-education]] — Assessment in Team Problem-Solving Exercises in Computing Education
 - [[assessment-validity]] — Assessment Validity in AI Education
 - [[astra-atco-training-simulator]] — ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots
@@ -195,6 +197,7 @@
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
 - [[constructivist]] — Constructivist
+- [[content-generation]] — Content Generation
 - [[content-quality]] — Content Quality
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
 - [[conversational-agents]] — Conversational Agents
@@ -604,6 +607,7 @@
 - [[teacher-ai-coagency]] — Teacher Ai Coagency
 - [[teacher-ai-collaboration]] — Teacher Ai Collaboration
 - [[teacher-ai-competency]] — Teacher AI Competency
+- [[teacher-ai-teaming-five-levels]] — Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence
 - [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation
 - [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics Visuals?
 - [[teacher-professional-development]] — Teacher Professional Development
@@ -627,6 +631,7 @@
 - [[tutors-gig-economy-automated-feedback]] — Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle
 - [[understanding-student-effort-response-time]] — Understanding Student Effort Using Response-Time Propensities During Problem Solving
 - [[universities-ai-era-rethinking]] — The University AI Didn''t Replace: Rethinking Universities in the AI Era
+- [[upskilling]] — Upskilling
 - [[varga-atkins-educators-guide-multimodal-learning-genai-2025]] — Educator's Guide to Multimodal Learning with GenAI
 - [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI
 - [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using \"Vibe Coding\" to Create a Programming Process Visualizer from IDE Activity Logs
@@ -636,6 +641,7 @@
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 - [[voice-text-prompt-problems-computing-education]] — Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education
 - [[wordstream-glass-learning-analytics]] — Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics
+- [[workforce-development]] — Workforce Development
 - [[writing-education]] — AI in Writing Education
 - [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
