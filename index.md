@@ -236,6 +236,7 @@
 - [[design-thinking]] — Design Thinking
 - [[design-thinking-in-education]] — Design Thinking In Education
 - [[desirable-difficulties]] — Desirable Difficulties
+- [[dialogue-tutoring]] — Dialogue Tutoring
 - [[didactical-teacher-assistant-dimensional-modeling]] — A didactical-driven teacher assistant for a dimensional modeling course
 - [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
 - [[digital-divide]] — Digital Divide
@@ -309,6 +310,7 @@
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
 - [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
 - [[genai-expertise-pathways-sysadmin]] — Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
+- [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation
 - [[genai-impact-chinese-students-hss]] — The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences
 - [[genai-linguistic-diversity-academic-writing]] — Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes
 - [[genai-literacy-image-discrimination]] — Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images
@@ -598,6 +600,7 @@
 - [[student-perception-ai-use-collaboration]] — Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance
 - [[student-rationalization-ai-writing]] — \"It's OK Because...\": The Wild West of Student Rationalization of AI Use in Academic Writing
 - [[student-regulatory-awareness-genai]] — Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education
+- [[student-simulation]] — Student Simulation
 - [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
 - [[suacode-african-students-motivations]] — \"Why SuaCode?\": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation
@@ -620,6 +623,7 @@
 - [[teacher-role]] — Teacher Role in AI-Enhanced Education
 - [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing
 - [[teacher-support]] — Teacher Support
+- [[teacher-training]] — Teacher Training
 - [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
 - [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors
 - [[tech-enhanced-tabletop-cybersecurity-education]] — Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned
