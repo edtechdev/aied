@@ -6,6 +6,7 @@
     <title>AI Ed Wiki</title>
     <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="feed.xml">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
     <style>
         /* Global search bar */
         .global-search {
@@ -660,51 +661,108 @@
 
     <script src="search_index.js"></script>
     <script>
-        // Global search: debounced redirect to search results page via search_index.js
-        // or show quick results inline
-        var gs = document.getElementById('global-search');
-        if (gs && window.SEARCH_INDEX) {
-            var index = window.SEARCH_INDEX;
+        (function() {
+            var gs = document.getElementById('global-search');
+            var pages = window.SEARCH_INDEX;
+            if (!gs || !pages) return;
+
+            // Build FlexSearch index
+            var flexIdx = new FlexSearch.Document({
+                tokenize: 'forward',
+                document: {
+                    id: 'id',
+                    index: ['title', 'tags', 'content'],
+                    store: ['id']
+                }
+            });
+            for (var i = 0; i < pages.length; i++) {
+                flexIdx.add({
+                    id: i,
+                    title: pages[i].title,
+                    tags: pages[i].tags.join(' '),
+                    content: pages[i].content
+                });
+            }
+
             var resultsDiv = document.createElement('div');
             resultsDiv.id = 'search-results';
             resultsDiv.style.cssText = 'margin-top:0.5rem;';
             gs.parentNode.insertBefore(resultsDiv, gs.nextSibling);
 
+            var timer = null;
             gs.addEventListener('input', function(e) {
-                var query = e.target.value.trim().toLowerCase();
+                clearTimeout(timer);
+                var rawQuery = e.target.value.trim();
                 resultsDiv.innerHTML = '';
 
-                if (query.length < 2) return;
+                if (rawQuery.length < 2) return;
 
-                var matches = [];
-                for (var i = 0; i < index.length; i++) {
-                    var page = index[i];
-                    var searchText = (page.title + ' ' + page.tags.join(' ') + ' ' + page.content).toLowerCase();
-                    if (searchText.indexOf(query) !== -1) {
-                        matches.push(page);
+                timer = setTimeout(function() {
+                    var q = rawQuery.toLowerCase();
+
+                    // FlexSearch candidate retrieval
+                    var flexResults = flexIdx.search(rawQuery, { limit: 100, enrich: true });
+
+                    // Deduplicate, score, and post-filter
+                    var seen = {};
+                    var candidates = [];
+                    for (var fi = 0; fi < flexResults.length; fi++) {
+                        var fr = flexResults[fi];
+                        if (!fr || !fr.result) continue;
+                        for (var ri = 0; ri < fr.result.length; ri++) {
+                            var id = fr.result[ri].id;
+                            if (seen[id]) continue;
+                            seen[id] = true;
+                            var page = pages[id];
+                            if (!page) continue;
+                            var t = page.title.toLowerCase();
+                            var tg = page.tags.join(' ').toLowerCase();
+                            var ct = page.content.toLowerCase();
+                            if ((t + ' ' + tg + ' ' + ct).indexOf(q) === -1) continue;
+                            var score = t.indexOf(q) !== -1 ? 3 : tg.indexOf(q) !== -1 ? 2 : 1;
+                            candidates.push({ page: page, score: score });
+                        }
                     }
-                    if (matches.length >= 8) break;
-                }
 
-                if (matches.length === 0) {
-                    resultsDiv.innerHTML = '<p style="color:var(--muted-color);padding:0.5rem;">No results found.</p>';
-                    return;
-                }
+                    // Linear-scan fallback for edge cases
+                    if (candidates.length === 0 || (flexResults.length === 0 && q.length <= 3)) {
+                        for (var li = 0; li < pages.length; li++) {
+                            if (seen[li]) continue;
+                            var lp = pages[li];
+                            var lt = lp.title.toLowerCase();
+                            var ltg = lp.tags.join(' ').toLowerCase();
+                            var lct = lp.content.toLowerCase();
+                            if ((lt + ' ' + ltg + ' ' + lct).indexOf(q) === -1) continue;
+                            seen[li] = true;
+                            var lscore = lt.indexOf(q) !== -1 ? 3 : ltg.indexOf(q) !== -1 ? 2 : 1;
+                            candidates.push({ page: lp, score: lscore });
+                        }
+                    }
 
-                var html = '';
-                for (var j = 0; j < matches.length; j++) {
-                    var p = matches[j];
-                    html += '<div style="padding:0.5rem 0.75rem;border-bottom:1px solid var(--card-border-color);">'
-                        + '<a href="pages/' + p.slug + '.html" style="font-weight:500;">' + p.title + '</a>'
-                        + '<div style="font-size:0.75rem;color:var(--muted-color);">' + p.tags.join(', ') + '</div>'
-                        + '</div>';
-                }
-                if (matches.length < index.filter(function(p) {
-                    return (p.title + ' ' + p.tags.join(' ') + ' ' + p.content).toLowerCase().indexOf(query) !== -1;
-                }).length) {
-                    html += '<div style="padding:0.5rem;text-align:center;font-size:0.8rem;color:var(--muted-color);">... <a href="search.html?q=' + encodeURIComponent(query) + '">more results ▸</a></div>';
-                }
-                resultsDiv.innerHTML = html;
+                    // Sort: title matches first, then tags, then content
+                    candidates.sort(function(a, b) { return b.score - a.score; });
+
+                    if (candidates.length === 0) {
+                        resultsDiv.innerHTML = '<p style="color:var(--muted-color);padding:0.5rem;">No results found.</p>';
+                        return;
+                    }
+
+                    var totalCount = candidates.length;
+                    var shown = candidates.slice(0, 8);
+                    var html = '';
+                    for (var j = 0; j < shown.length; j++) {
+                        var c = shown[j];
+                        var p = c.page;
+                        html += '<div style="padding:0.5rem 0.75rem;border-bottom:1px solid var(--card-border-color);">'
+                            + '<a href="pages/' + p.slug + '.html" style="font-weight:500;">' + p.title + '</a>'
+                            + '<div style="font-size:0.75rem;color:var(--muted-color);">' + p.tags.join(', ') + '</div>'
+                            + '</div>';
+                    }
+                    if (totalCount > 8) {
+                        html += '<div style="padding:0.5rem;text-align:center;font-size:0.8rem;color:var(--muted-color);">... <a href="search.html?q=' + encodeURIComponent(rawQuery) + '">' + totalCount + ' results ▸</a></div>';
+                    }
+                    resultsDiv.innerHTML = html;
+                }, 150);
 
                 // Hide results when clicking outside
                 document.addEventListener('click', function handler(ev) {
@@ -714,7 +772,7 @@
                     }
                 });
             });
-        }
+        })();
     </script>
 </body>
 </html>
