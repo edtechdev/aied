@@ -5100,6 +5100,20 @@
     "url": "pages/llm-cognitive-diagnosis-handwritten-math.html"
   },
   {
+    "slug": "llm-computational-thinking-physics-2026",
+    "title": "Using LLMs to Detect Growth in Computational Thinking in Introductory Physics",
+    "tags": [
+      "assessment",
+      "computational-thinking",
+      "higher-ed",
+      "llm",
+      "physics-education",
+      "stem-education"
+    ],
+    "content": "Savage, Shanker, Michlitsch &amp; Rebello (2026) demonstrate that LLMs can reliably mirror human coding of computational thinking growth in introductory physics — successfully scaling assessment of Data Practices and Computational Problem-Solving Practices, while revealing that Systems Thinking remains a challenge for both human and machine raters. Context As computation becomes increasingly central to physics education, scalable methods to assess authentic computational-thinking are critically needed. Written student responses capture nuanced reasoning but are labor-intensive to evaluate manually, especially in large-enrollment courses. Methodology The study used a pre/post semester survey design in introductory physics courses. Researchers first established a human-coded baseline grounded in CT literature, identifying significant growth in two practice areas. The same student responses were then evaluated by an LLM, and the results were compared against the human baseline. Key Findings LLM mirrors human coding: For Data Practices and Computational Problem-Solving Practices, the LLM successfully replicated human evaluations and scaled trend detection across large datasets Systems Thinking remains hard: Both human raters and the LLM struggled to reliably evaluate more complex constructs — revealing the frontier of automated CT assessment Scalable assessment: The approach offers a viable path to evaluating computational thinking at the scale of large-enrollment stem-education courses where manual coding is infeasible Connections to Wiki Extends llm -based assessment into physics education, complementing the automated-grading literature The finding that complex constructs resist automation mirrors results in ai-tutor-behavioral-evaluation and genai-feedback-design-multisite-experiment Submitted to PERC 2026, adding to the physics-education corpus on AI-augmented assessment Citation Savage, S., Shanker, A., Michlitsch, G., &amp; Rebello, N. S. (2026). Using LLMs to Det",
+    "url": "pages/llm-computational-thinking-physics-2026.html"
+  },
+  {
     "slug": "llm-cultural-relevance-k12",
     "title": "LLMs for Culturally Relevant K-12 Pedagogy",
     "tags": [
@@ -5838,6 +5852,20 @@
     ],
     "content": "Iwai Wataru, Duc V. Nguyen — cs.MM, cs.HC 📄 Full text (arXiv) This paper develops a VR-based immersive learning environment using Photon Fusion that allows teachers and students to be present in the same virtual space regardless of physical locations. The system enables real-time verbal communication and interaction with 3D learning materials, achieving stable real-time communication and state synchronization across multiple players. Evaluation demonstrates stable communication performance, good usability, and minimal VR sickness. This work connects to edtech-platform design for distributed education and to active-learning research by providing a technology platform for shared virtual classroom experiences. The system addresses a practical infrastructure gap in multi-site education scenarios where physical co-presence is not possible. Related Pages knowledge-tracing-irt — Knowledge tracing models and IRT for student modeling intelligent-tutoring — AI tutoring systems and adaptive instruction learning-analytics — Data-driven analysis of learning processes ai-literacy — Understanding and evaluating AI tools student-modeling — Representing learner knowledge and behavior cs-education — Computing education research and pedagogy self-regulated-learning — Metacognitive strategies for independent learning formative-assessment — Ongoing assessment to inform instruction automated-grading — AI-assisted evaluation of student work scaffolding — Instructional support that fades with competence Citations APA: Iwai Wataru, Duc V. Nguyen (2026). Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion . arXiv:2606.10325. cs.MM, cs.HC.",
     "url": "pages/multi-site-vr-immersive-learning.html"
+  },
+  {
+    "slug": "multiagent-classroom-dual-process-physics-teachers-2026",
+    "title": "A Multi-Agent AI Classroom for Prospective Physics Teachers",
+    "tags": [
+      "higher-ed",
+      "multi-agent",
+      "physics-education",
+      "simulation",
+      "stem-education",
+      "teacher-training"
+    ],
+    "content": "Tufino (2026) pilots a simulated multi-agent AI classroom where five AI students each enact distinct dual-process theory reasoning hazards — giving prospective physics teachers rare practice in responding to authentic student ideas. Diagnostic scores improved significantly, but the simulation revealed a knowing-doing gap between understanding theory and applying it in real-time responsive teaching. Context Responding productively to the reasoning students actually produce — in real time — is among the most difficult and slowest-to-acquire teaching skills, yet prospective teachers get few opportunities to practise it before entering a classroom. The Simulation The simulated classroom consists of five AI students , each consistently enacting a distinct reasoning pattern drawn from the dual-process theory (DPT) \"hazards\" framework from physics education research. Fifteen graduate students in a university teacher-training course worked through an instructional sequence on DPT and questioning strategies, then diagnosed vignettes before and after interacting in pairs with the simulated class. Key Findings Diagnostic scores improved significantly: Wilcoxon p = 0.014, effect size r = 0.79 (n = 11 paired) Knowing-doing gap: During the simulation, participants asked predominantly uniform guiding questions — DPT vocabulary appeared in only 2 of 71 substantive teacher turns Transfer to written work: Seven of thirteen POST sheets used DPT vocabulary readily — suggesting knowledge exists but isn't yet automated under live interaction pressure Developmental trajectory visible: The simulation makes the responsiveness-to-student-ideas trajectory visible at transcript-level granularity, revealing where each participant stands Connections to Wiki Extends multi-agent AI into teacher-training — a novel application beyond tutoring Complements llm-student-simulation-teacher-insights and student-simulation work on AI-simulated learners The knowing-doing gap mirrors findings in teacher-ai-c",
+    "url": "pages/multiagent-classroom-dual-process-physics-teachers-2026.html"
   },
   {
     "slug": "multilingual-learning",
