@@ -1,5 +1,11 @@
 # Journal
-Last updated: 2026-08-06 | Total entries: 468
+Last updated: 2026-08-06 | Total entries: 469
+
+## 2026-08-07
+
+- ● [[genai-feedback-design-multisite-experiment]] — raw/papers/genai-feedback-design-multisite-experiment.md
+  **Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation**
+  Tags: [generative-ai, feedback-design, higher-ed, scientific-argumentation, self-regulated-learning, peer-feedback, multisite-experiment, transfer, epistemic-agency]
 
 ## 2026-08-06
 

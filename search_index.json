@@ -3487,6 +3487,15 @@
     "url": "pages/favero-critical-ai-tutors-empower-enslave-2025.html"
   },
   {
+    "slug": "feedback-design",
+    "title": "Feedback Design",
+    "tags": [
+      "feedback-design"
+    ],
+    "content": "\nStub.\nFeedback DesignRelated Pagesgenai-feedback-design-multisite-experiment",
+    "url": "pages/feedback-design.html"
+  },
+  {
     "slug": "feedback-futures-genai",
     "title": "Feedback futures: beyond the limits of human and GenAI capacities",
     "tags": [
@@ -3756,6 +3765,23 @@
     ],
     "content": "Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System AdministrationRana Abou Khamis, Hala Assal, Ashraf Matrawy \u2014 arXiv preprint (2026).\n\ud83d\udcc4 Full text (arXiv)SynthesisDrawing on 14 semi-structured interviews with IT professionals, this study explores how GenAI integration reshapes professional practice in system administration \u2014 troubleshooting, scripting, and system verification.Two unanticipated socio-technical findings: 'compression of traditional ex",
     "url": "pages/genai-expertise-pathways-sysadmin.html"
+  },
+  {
+    "slug": "genai-feedback-design-multisite-experiment",
+    "title": "Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation",
+    "tags": [
+      "generative-ai",
+      "feedback-design",
+      "higher-ed",
+      "scientific-argumentation",
+      "self-regulated-learning",
+      "peer-feedback",
+      "multisite-experiment",
+      "transfer",
+      "epistemic-agency"
+    ],
+    "content": "\nSynthesis: A multisite, cluster-randomized field experiment (1,176 first-year undergraduates, 48 sections, 4 universities, 3 science domains) compares four feedback designs for scientific argumentation: peer-only, direct GenAI, reflective GenAI (self-evaluation then AI critique), and hybrid (self-evaluation + peer + GenAI). The hybrid condition produced the highest argument-quality gains and clearest advantage on conceptual learning; reflective and hybrid designs both outperformed direct GenAI ",
+    "url": "pages/genai-feedback-design-multisite-experiment.html"
   },
   {
     "slug": "genai-impact-chinese-students-hss",
@@ -4060,7 +4086,7 @@
     "tags": [
       "generative-ai"
     ],
-    "content": "\nGenerative AI \u2014 LLMs and multimodal models \u2014 is the wiki's central technology subject, spanning chatgpt-feedback-engagement-genai, genai-performance-vs-learning, genai-policies-higher-ed-computing, and structrag-diagram-reasoning-ai-tutoring: the corpus converges on capability being real but pedagogical framing deciding outcomes (llm, ai-literacy).\nGenerative AiRelated Pages\n-- teacher-ai-teaming-five-levels\n lets-chat-chatbot-outreach-2026 \u2014 The non-generative chatbot contrast case\ngenai-can-h",
+    "content": "\nGenerative AI \u2014 LLMs and multimodal models \u2014 is the wiki's central technology subject, spanning chatgpt-feedback-engagement-genai, genai-performance-vs-learning, genai-policies-higher-ed-computing, and structrag-diagram-reasoning-ai-tutoring: the corpus converges on capability being real but pedagogical framing deciding outcomes (llm, ai-literacy).\nGenerative AiRelated Pages\n-- genai-feedback-design-multisite-experiment\nteacher-ai-teaming-five-levels\n lets-chat-chatbot-outreach-2026 \u2014 The non-g",
     "url": "pages/generative-ai.html"
   },
   {
@@ -4215,7 +4241,7 @@
       "generative-ai",
       "llm"
     ],
-    "content": "AI in Higher EducationConnectionsRelated Pages\nlets-chat-chatbot-outreach-2026 \u2014 Chatbot outreach RCTs at Georgia State\ncritical-genai-use-predictors \u2014 Correlational study at Bielefeld University\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Chatbot journaling RCT at a German technical university\nagency-gap-ai-writing \u2014 AI writing support in medical/nursing education\nfeedback-futures-genai \u2014 GenAI feedback governance and assessment design in universities\ngenai-teacher-feedback-comparison \u2014 F",
+    "content": "AI in Higher EducationConnectionsRelated Pages\n-- genai-feedback-design-multisite-experiment\n lets-chat-chatbot-outreach-2026 \u2014 Chatbot outreach RCTs at Georgia State\ncritical-genai-use-predictors \u2014 Correlational study at Bielefeld University\nscheu-mobile-chatbot-journaling-motivation-2026 \u2014 Chatbot journaling RCT at a German technical university\nagency-gap-ai-writing \u2014 AI writing support in medical/nursing education\nfeedback-futures-genai \u2014 GenAI feedback governance and assessment design in uni",
     "url": "pages/higher-ed.html"
   },
   {
@@ -6117,6 +6143,15 @@
     ],
     "content": "\n\ud83d\udcc4 Full text: arXiv:2605.05472 \u00b7 local\nPedagogy of AI MistakesDefinition\nAn instructional approach that deliberately leverages AI errors, hallucinations, and limitations as teaching tools to foster higher-order thinking. Rather than viewing AI mistakes as failures to be avoided, this pedagogy treats them as cognitive provocations that demand analysis, evaluation, and reflection from students. Proposed by Hosseini (2026) in a database design course context.Mechanism\nStudents interact with AI-gene",
     "url": "pages/pedagogy-ai-mistakes.html"
+  },
+  {
+    "slug": "peer-feedback",
+    "title": "Peer Feedback",
+    "tags": [
+      "peer-feedback"
+    ],
+    "content": "\nStub.\nPeer FeedbackRelated Pagesgenai-feedback-design-multisite-experiment",
+    "url": "pages/peer-feedback.html"
   },
   {
     "slug": "persistent-ai-agents-academic-research",

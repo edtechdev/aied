@@ -1933,6 +1933,10 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
   Tags: llm, agentic-ai, personalized-learning, intelligent-tutoring, rag, question-generation
 
 ## [2026-08-05] meta | scan-complete
+- [2026-08-07] **Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation** — source: raw/papers/genai-feedback-design-multisite-experiment.md
+  Tags: generative-ai, feedback-design, higher-ed, scientific-argumentation, self-regulated-learning, peer-feedback, multisite-experiment, transfer, epistemic-agency
+  1,176 students, 4 universities, 3 science domains: hybrid feedback design (self-eval+peer+GenAI) best for transfer.
+
 
 - [2026-08-06] **Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems** — source: raw/papers/lak2026-hint-button-unproductive-use.md
   Tags: intelligent-tutoring, learning-analytics, hint-systems, k-12, math-education, gaming-the-system, student-experience, help-seeking, its-design
