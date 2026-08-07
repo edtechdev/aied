@@ -29,3 +29,4 @@ confidence: low
 - [[deeptutor]]
 - [[calibrating-trustworthiness-llm-education-2026]] — related concept
 - [[ai-literacy-legal-translation-2026]] — related
+- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler tool for metacognitive scaffolding during GenAI use

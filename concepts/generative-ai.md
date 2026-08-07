@@ -75,3 +75,5 @@ confidence: low
 - [[genai-marketing-education-roles-2026]] — related concept
 - [[ai-literacy-legal-translation-2026]] — related
 - [[nuclear-diffusion-text-to-image-learning-2026]] — related
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — analysis of AI-assisted SE syllabi across 23 university courses
+- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler tool for metacognitive scaffolding during GenAI use

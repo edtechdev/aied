@@ -92,3 +92,4 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[antiskillbench-persona-skills-privacy-2026]] — related concept
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — related
 - [[knowloop-confusion-to-consolidation-2026]]
+- [[precision-education-student-digital-twins-2026]] — precision education framework using AI-powered student digital twins
