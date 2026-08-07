@@ -31,4 +31,4 @@ The framework applies **transparent logical operations** over probabilistic stat
 
 ## Citation
 
-**APA:** Wu et al. (2026). *Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning*. arXiv:2605.09369. arXiv preprint.
+Wu et al. (2026). *Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning*. arXiv:2605.09369. arXiv preprint.

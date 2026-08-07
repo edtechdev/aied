@@ -48,7 +48,7 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 
 ## Citation
 
-**APA:** Teaching, F.M.T.M.R.O., Agents, A.L.T.L., Sun2∗, M.L.J.L.Z.L.H.L.M., Tsinghua, D.O.C.S.A.T., Inc, M., Course), I.I.T.C.W.P.M.A., & Tsinghua, P.E.A. (2026). *From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*. https://arxiv.org/abs/2409.03512
+Teaching, F.M.T.M.R.O., Agents, A.L.T.L., Sun2∗, M.L.J.L.Z.L.H.L.M., Tsinghua, D.O.C.S.A.T., Inc, M., Course), I.I.T.C.W.P.M.A., & Tsinghua, P.E.A. (2026). [*From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512)
 
 ## Related Pages
 

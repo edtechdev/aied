@@ -47,7 +47,7 @@ The null average performance effect masks strong offsetting heterogeneity — an
 
 ## Citation
 
-**APA:** instruction, C.T.T.A.T.P.A.T.A.B. (2026). *Generative AI Can Harm Teaching*. https://ssrn.com/abstract=7007339
+instruction, C.T.T.A.T.P.A.T.A.B. (2026). [*Generative AI Can Harm Teaching*](https://ssrn.com/abstract=7007339)
 
 ## Related Pages
 - [[faculty-development]] — teacher-facing AI adoption and its unintended effects

@@ -34,4 +34,4 @@ For online learning, the work informs when AI should intervene in discussion for
 
 ## Citation
 
-**APA:** Tsirmpas, D., Korre, K., & Pavlopoulos, J. (2026). To facilitate or not to facilitate: Human and LLM facilitator tendencies in online discussions. arXiv:2607.28643.
+Tsirmpas, D., Korre, K., & Pavlopoulos, J. (2026). To facilitate or not to facilitate: Human and LLM facilitator tendencies in online discussions. arXiv:2607.28643.

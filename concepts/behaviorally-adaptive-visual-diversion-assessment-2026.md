@@ -36,4 +36,4 @@ Institutions increasingly rely on browser lockdown, webcam monitoring, and behav
 
 ## Citation
 
-**APA:** Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, & Parali Prajithaa (2026). *Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery*. arXiv:2608.03531. arXiv:2608.03531 [cs.AI].
+Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, & Parali Prajithaa (2026). *Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery*. arXiv:2608.03531. arXiv:2608.03531 [cs.AI].

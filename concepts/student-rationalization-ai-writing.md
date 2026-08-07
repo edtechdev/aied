@@ -38,4 +38,4 @@ Generative AI challenges academic integrity not only by enabling students to del
 
 ## Citation
 
-**APA:** Jiyoon Kim, Kentaro Toyama, Sangmi Kim, & John M. Carroll (2026). *"It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing*. arXiv:2605.29090. arXiv preprint.
+Jiyoon Kim, Kentaro Toyama, Sangmi Kim, & John M. Carroll (2026). *"It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing*. arXiv:2605.29090. arXiv preprint.

@@ -57,7 +57,7 @@ This aligns with the [[tutoring-specific-vs-general-ai|tutoring-specific design]
 
 ## Citation
 
-**APA:** Chrisochoides, A.I.E.N. (2026). *Quantum Education Intelligent Tutoring*. https://arxiv.org/abs/2604.24807
+Chrisochoides, A.I.E.N. (2026). [*Quantum Education Intelligent Tutoring*](https://arxiv.org/abs/2604.24807)
 
 ## Related Pages
 - [[adaptive-learning-systems]] — General adaptive systems context

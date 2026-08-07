@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[ai-literac
 
 ## Citation
 
-**APA:** Brady D. Lund, Zoë Abbie Teel (2026). *AI Literacy: An Exercise in Power-Knowledge*. arXiv:2607.27547. cs.AI, cs.CY.
+Brady D. Lund, Zoë Abbie Teel (2026). *AI Literacy: An Exercise in Power-Knowledge*. arXiv:2607.27547. cs.AI, cs.CY.

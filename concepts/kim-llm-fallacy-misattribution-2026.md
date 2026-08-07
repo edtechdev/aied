@@ -34,13 +34,9 @@ For AI literacy efforts, the LLM Fallacy suggests a new dimension beyond the typ
 
 The long-term institutional risk is credential inflation: if degrees and certificates increasingly signal AI-output-production ability rather than independently grounded competence, the signaling value of educational credentials erodes. This is not a theoretical concern — it is the direct implication of the LLM Fallacy playing out at scale across cohorts of students using AI tools without attribution-aware pedagogy.
 
-## Source
-
-- [https://arxiv.org/abs/2604.14807](https://arxiv.org/abs/2604.14807)
-
 ## Citation
 
-**APA:** Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). *LLM Fallacy Misattribution in Education*. https://arxiv.org/abs/2604.14807
+Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). [*LLM Fallacy Misattribution in Education*](https://arxiv.org/abs/2604.14807)
 
 ## Related Pages
 

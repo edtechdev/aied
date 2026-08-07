@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[llm]], [[p
 
 ## Citation
 
-**APA:** Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani (2026). *IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems*. arXiv:2607.23322. cs.CL, cs.CY.
+Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani (2026). *IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems*. arXiv:2607.23322. cs.CL, cs.CY.

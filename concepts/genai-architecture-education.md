@@ -33,4 +33,4 @@ The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educati
 
 ## Citation
 
-**APA:** Timo Kapsalis (2026). *Gen-AI-tecture: using generative AI to support architectural students in design tasks*. arXiv:2605.21361. arXiv:2605.21361 [cs.HC] — Submitted to Journal of Architectural Education.
+Timo Kapsalis (2026). *Gen-AI-tecture: using generative AI to support architectural students in design tasks*. arXiv:2605.21361. arXiv:2605.21361 [cs.HC] — Submitted to Journal of Architectural Education.

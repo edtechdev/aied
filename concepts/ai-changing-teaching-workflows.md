@@ -89,4 +89,4 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 
 ## Citation
 
-**APA:** Ler, L. (2026). *How AI Is Changing Teaching Workflows.* Edtech Insiders. https://edtechinsiders.substack.com/p/how-ai-is-changing-teaching-workflows
+Ler, L. (2026). [*How AI Is Changing Teaching Workflows.*](https://edtechinsiders.substack.com/p/how-ai-is-changing-teaching-workflows) Edtech Insiders

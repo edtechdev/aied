@@ -30,4 +30,4 @@ The doubly robust property ensures the estimator remains unbiased if *either* th
 
 ## Citation
 
-**APA:** Zhan et al. (2026). *Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing*. arXiv:2605.05958. arXiv preprint.
+Zhan et al. (2026). *Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing*. arXiv:2605.05958. arXiv preprint.

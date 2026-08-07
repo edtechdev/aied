@@ -31,4 +31,4 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
 
 ## Citation
 
-**APA:** Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borchers, Kenneth R. Koedinger (2026). *AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice*. arXiv:2606.18617.
+Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borchers, Kenneth R. Koedinger (2026). *AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice*. arXiv:2606.18617.

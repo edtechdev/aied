@@ -36,4 +36,4 @@ The flipped classroom component is particularly notable — it creates dedicated
 
 ## Citation
 
-**APA:** Peter Fowles, Erik Falor, Sulove Bhattarai, John Edwards, Seth Poulsen (2026). *Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom*. arXiv:2605.21374. arXiv:2605.21374 [cs.HC].
+Peter Fowles, Erik Falor, Sulove Bhattarai, John Edwards, Seth Poulsen (2026). *Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom*. arXiv:2605.21374. arXiv:2605.21374 [cs.HC].

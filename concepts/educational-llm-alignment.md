@@ -60,7 +60,7 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 
 ## Citation
 
-**APA:** (Stanford, A.M.H.Y.K., 2026, S.M.R.A., & improvement, P.W.E.B.M.E.S.N. (2026). *Educational LLM Alignment*. https://arxiv.org/abs/2603.00883
+(Stanford, A.M.H.Y.K., 2026, S.M.R.A., & improvement, P.W.E.B.M.E.S.N. (2026). [*Educational LLM Alignment*](https://arxiv.org/abs/2603.00883)
 
 ## Related Pages
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration

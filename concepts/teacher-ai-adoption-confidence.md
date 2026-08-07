@@ -40,4 +40,4 @@ This paper provides empirical clarity for [[teacher-role]] policy: institutional
 
 ## Citation
 
-**APA:** Sibug, V. B., Cruz, M. A. D., Vital, V. P., Grume, J. C., Gamboa, A. B., Fernando, E. Q., Feliciano, L. D., Salenga, J. L., & Miranda, J. P. P. (2026). *AI adoption among teachers: Insights on concerns, support, confidence, and attitudes*. Proceedings of the 9th International Conference on Education and Multimedia Technology (ICEMT 2025), 267-269. arXiv:2605.00343.
+Sibug, V. B., Cruz, M. A. D., Vital, V. P., Grume, J. C., Gamboa, A. B., Fernando, E. Q., Feliciano, L. D., Salenga, J. L., & Miranda, J. P. P. (2026). *AI adoption among teachers: Insights on concerns, support, confidence, and attitudes*. Proceedings of the 9th International Conference on Education and Multimedia Technology (ICEMT 2025), 267-269. arXiv:2605.00343.

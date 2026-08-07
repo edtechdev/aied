@@ -35,13 +35,9 @@ The framework also speaks to the growing evidence gap documented in [[ai-k12-evi
 
 For course design, the framework connects directly to [[scaffolding]] practices and the [[zone-of-proximal-development]]: AI tools should provide support calibrated to learner readiness, not do the work for students. It also intersects with [[ai-metacognition-stem-review]] findings on how AI can either support or undermine metacognitive development depending on implementation choices.
 
-## Source
-
-- [https://arxiv.org/abs/2510.01467](https://arxiv.org/abs/2510.01467)
-
 ## Citation
 
-**APA:** education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). *Principled AI Education Framework*. https://arxiv.org/abs/2510.01467
+education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). [*Principled AI Education Framework*](https://arxiv.org/abs/2510.01467)
 
 ## Related Pages
 

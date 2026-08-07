@@ -92,7 +92,7 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 
 ## Citation
 
-**APA:** Education, H., Du4, Y.Z.D.B.Z., 2025, R.D.A.N., Zhan, Y., Boud, D., Du, Z., & The, D.O.C.A.I.A.A.R.C. (2026). *Authentic Assessment*. https://doi.org/10.1007/s10734-025-01588-9
+Education, H., Du4, Y.Z.D.B.Z., 2025, R.D.A.N., Zhan, Y., Boud, D., Du, Z., & The, D.O.C.A.I.A.A.R.C. (2026). [*Authentic Assessment*](https://doi.org/10.1007/s10734-025-01588-9)
 
 ## Related Pages
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: authentic assessment in an AI-mediated world

@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[generative
 
 ## Citation
 
-**APA:** Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026). *Development and applications of Generative AI in architectural design studios*. arXiv:2607.24752. cs.HC.
+Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026). *Development and applications of Generative AI in architectural design studios*. arXiv:2607.24752. cs.HC.

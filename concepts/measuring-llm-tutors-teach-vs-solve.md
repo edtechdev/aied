@@ -30,4 +30,4 @@ Studies whether public LLM tutoring benchmarks distinguish learning-supportive b
 
 ## Citation
 
-**APA:** Junyi Yao, Zihao Zheng, Baichuan Li (2026). *Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact*. arXiv:2606.16206. arXiv preprint.
+Junyi Yao, Zihao Zheng, Baichuan Li (2026). *Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact*. arXiv:2606.16206. arXiv preprint.

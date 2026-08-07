@@ -35,4 +35,4 @@ The work connects AI-based attention estimation to instructional design practice
 
 ## Citation
 
-**APA:** Zhou, S., Shen, M., Wen, X., Qiu, Z., Jiang, Y., Wu, X., Wu, F., Wang, Y., & Zhou, Z. (2026). SAVVY: Student attention visualization for video-based learning analysis. arXiv:2607.29413.
+Zhou, S., Shen, M., Wen, X., Qiu, Z., Jiang, Y., Wu, X., Wu, F., Wang, Y., & Zhou, Z. (2026). SAVVY: Student attention visualization for video-based learning analysis. arXiv:2607.29413.

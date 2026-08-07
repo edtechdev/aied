@@ -35,4 +35,4 @@ The article provides a procedural account (what LLMs can do, in which phases, un
 
 ## Citation
 
-**APA:** Liu, A., Sun, M., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., & He, K. (2026). Human-LLM collaborative inductive coding for conceptualizing K-12 educator AI use. arXiv:2607.28889.
+Liu, A., Sun, M., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., & He, K. (2026). Human-LLM collaborative inductive coding for conceptualizing K-12 educator AI use. arXiv:2607.28889.

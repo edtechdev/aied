@@ -62,7 +62,7 @@ This parallels concerns in [[educational-llm-alignment]] where benchmark misalig
 
 ## Citation
 
-**APA:** Rahimi, A.O.O.N. (2026). *Pedagogical Safety in Educational Reinforcement Learning*. https://arxiv.org/abs/2604.04237
+Rahimi, A.O.O.N. (2026). [*Pedagogical Safety in Educational Reinforcement Learning*](https://arxiv.org/abs/2604.04237)
 
 ## Related Pages
 - [[prompt-injection-defenses-educational-llm-tutors]] — Security-usability trade-offs in guardrail design

@@ -53,7 +53,7 @@ The platform enables **modular, tool-assisted learning**: students learn new top
 
 ## Citation
 
-**APA:** |, B.P. (2026). *Adaptive Learning Systems*. https://arxiv.org/abs/2604.26962
+|, B.P. (2026). [*Adaptive Learning Systems*](https://arxiv.org/abs/2604.26962)
 
 ## Related Pages
 - [[stanbkt-bayesian-knowledge-tracing]] — Posterior inference from BKT enables principled adaptive interventions

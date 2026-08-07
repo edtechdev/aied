@@ -35,13 +35,9 @@ The rethinking extends to [[assessment-validity]] concerns — if AI can produce
 - What is the timeline for meaningful institutional transformation vs. superficial adoption?
 - How does this institutional rethinking interact with [[principled-ai-education]] frameworks?
 
-## Source
-
-- [https://arxiv.org/abs/2605.07056](https://arxiv.org/abs/2605.07056)
-
 ## Citation
 
-**APA:** Hopkins, A.K.P.B.A., The, T., Macquarie, K.P.B.A.A.H., AI, I.R.T.P.P.A.F.D.F.L.O., 2024), T.A.D.R.E.A.M.M., & lack, A.U.C.H.A.N.T.E.O. (2026). *The University AI Didn''t Replace: Rethinking Universities in the AI Era*. https://arxiv.org/abs/2605.07056
+Hopkins, A.K.P.B.A., The, T., Macquarie, K.P.B.A.A.H., AI, I.R.T.P.P.A.F.D.F.L.O., 2024), T.A.D.R.E.A.M.M., & lack, A.U.C.H.A.N.T.E.O. (2026). [*The University AI Didn''t Replace: Rethinking Universities in the AI Era*](https://arxiv.org/abs/2605.07056)
 
 ## Related Pages
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)

@@ -52,7 +52,7 @@ The paper identifies four gaps in existing frameworks:
 
 ## Citation
 
-**APA:** Ogburn, A.T.N.H.N.R., below:, C.S.S.D.T.I., 4.0](https://info.arxiv.org/help/license/index.html#licenses-available), C.B., Nguyen, T., Nguyen, H., & Ogburn, R. (2026). *AI-accelerated End-to-End Framework for Rapid Professional Upskilling*. other words, roughly 120 million workers are at the medium-term risk of redundancy \[ [37](https://arxiv. https://arxiv.org/abs/2607.14044
+Nguyen, T., Nguyen, H., & Ogburn, R. (2026). [*AI-accelerated End-to-End Framework for Rapid Professional Upskilling*](https://arxiv.org/abs/2607.14044). arXiv preprint.
 
 ## Related Pages
 
@@ -65,7 +65,3 @@ The paper identifies four gaps in existing frameworks:
 - [[content-generation]]
 - [[ai-adult-learning-guidelines-dis2026]]
 - [[instructional-agents-multi-agent-course-gen]]
-
-## Source
-
-- [https://arxiv.org/abs/2607.14044](https://arxiv.org/abs/2607.14044)

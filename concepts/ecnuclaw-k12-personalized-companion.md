@@ -33,13 +33,9 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 - Can the framework generalize beyond Chinese LLM providers and K-12 contexts?
 - What are the privacy implications of five-dimensional profiling, especially for minors in [[regulation]] contexts?
 
-## Source
-
-- [https://arxiv.org/abs/2605.08040](https://arxiv.org/abs/2605.08040)
-
 ## Citation
 
-**APA:** Zhang, A.Y.Z.J.L.Z., TUDY, E.L.A.L.E.R.I.N.S., OMPANION, C., DUCATION, F.R.F.K.P.E.E., REPRINT, A.P., 1,2, Y.Z.J.L.A.Z.Z., & Normal, A.E.L.E.C. (2026). *ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education*. https://arxiv.org/abs/2605.08040
+Zhang, A.Y.Z.J.L.Z., TUDY, E.L.A.L.E.R.I.N.S., OMPANION, C., DUCATION, F.R.F.K.P.E.E., REPRINT, A.P., 1,2, Y.Z.J.L.A.Z.Z., & Normal, A.E.L.E.C. (2026). [*ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education*](https://arxiv.org/abs/2605.08040)
 
 ## Related Pages
 - [[personalized-learning]]

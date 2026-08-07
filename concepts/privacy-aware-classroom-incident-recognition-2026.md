@@ -27,4 +27,4 @@ Pilot study on privacy-aware computer vision for classroom incident detection. I
 
 ## Citation
 
-**APA:** Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, & Chiat Pin Tay (2026). *Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition*. arXiv:2608.05115. arXiv preprint (cross-listed cs.CV/cs.HC).
+Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, & Chiat Pin Tay (2026). *Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition*. arXiv:2608.05115. arXiv preprint (cross-listed cs.CV/cs.HC).

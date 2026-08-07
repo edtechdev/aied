@@ -28,4 +28,4 @@ Examines AI-powered personalized learning in elementary fraction instruction thr
 
 ## Citation
 
-**APA:** Kenneth Holman (2024). *Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning*. arXiv:2608.04892. PhD dissertation, University of Central Florida.
+Kenneth Holman (2024). *Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning*. arXiv:2608.04892. PhD dissertation, University of Central Florida.

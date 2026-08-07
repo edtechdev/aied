@@ -52,7 +52,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 ## Citation
 
-**APA:** Wang, A.X.D.F.N.C. & |, C.F. (2026). *Formative Assessment in AI Education*. Conference on Artificial Intelligence in Education (AIED 2026). https://arxiv.org/abs/2604.03926
+Wang, A.X.D.F.N.C. & |, C.F. (2026). [*Formative Assessment in AI Education*](https://arxiv.org/abs/2604.03926). Conference on Artificial Intelligence in Education (AIED 2026)
 
 ## Related Pages
 - [[cotal-formative-assessment-scoring-2026]] — LLM scoring with ECD-aligned rubrics

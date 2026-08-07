@@ -28,4 +28,4 @@ Investigates adversarial AI design agents that enact constructive conflict to pr
 
 ## Citation
 
-**APA:** Howard Ziyu Han, & Nikolas Martelaro (2026). *Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers*. arXiv:2608.04166. Human-Agent Interaction (HAI) 2026.
+Howard Ziyu Han, & Nikolas Martelaro (2026). *Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers*. arXiv:2608.04166. Human-Agent Interaction (HAI) 2026.

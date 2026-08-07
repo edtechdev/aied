@@ -32,13 +32,9 @@ For [[human-in-the-loop]] workflows in educational assessment, the selective pre
 
 The use of [[retrieval-augmented-generation]] and [[synthetic-data]] techniques for calibration could extend this framework beyond the SciEntsBank domain, enabling confidence-aware grading across diverse subject areas and languages.
 
-## Source
-
-- [https://arxiv.org/abs/2605.00200](https://arxiv.org/abs/2605.00200)
-
 ## Citation
 
-**APA:** Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). *Confidence-Aware Automatic Short Answer Grading*. https://arxiv.org/abs/2605.00200
+Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). [*Confidence-Aware Automatic Short Answer Grading*](https://arxiv.org/abs/2605.00200)
 
 ## Related Pages
 

@@ -39,7 +39,7 @@ A heuristic evaluation of the original deployed systems against the guidelines d
 
 ## Citation
 
-**APA:** Reddig, J.M., Jr, G.R.S., authors), S.A.S.E.A., & 2026, D. (2026). *Guidelines for Designing AI Technologies to Support Adult Learning*. https://arxiv.org/abs/2605.04616
+Reddig, J.M., Jr, G.R.S., authors), S.A.S.E.A., & 2026, D. (2026). [*Guidelines for Designing AI Technologies to Support Adult Learning*](https://arxiv.org/abs/2605.04616)
 
 ## Related Pages
 - [[personalized-learning]]

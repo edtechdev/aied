@@ -52,4 +52,4 @@ Generative AI can function as either a cognitive tool (amplifying thinking) or a
 
 ## Citation
 
-**APA:** Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). Distinguishing performance gains from learning when using generative AI. *Nature Reviews Psychology*, 4(7), 435-436. arXiv:2605.13731.
+Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). Distinguishing performance gains from learning when using generative AI. *Nature Reviews Psychology*, 4(7), 435-436. arXiv:2605.13731.

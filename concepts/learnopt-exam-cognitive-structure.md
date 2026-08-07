@@ -30,4 +30,4 @@ Standardized examinations are typically treated as uniform syllabus coverage pro
 
 ## Citation
 
-**APA:** Joy Bose, Om Thomas (2026). *LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization*. arXiv:2606.15349. arXiv preprint.
+Joy Bose, Om Thomas (2026). *LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization*. arXiv:2606.15349. arXiv preprint.

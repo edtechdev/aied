@@ -35,7 +35,7 @@ While AI tools are globally available, the critical variable is local absorption
 
 ## Citation
 
-**APA:** Forum, S.W.E. (2026). *What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries*
+Forum, S.W.E. (2026). *What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries*
 
 ## Related Pages
 - [[post-covid-ict-career-aspirations]] — 5 of 8 papers in May 28 scan

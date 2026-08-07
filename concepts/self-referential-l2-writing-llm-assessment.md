@@ -34,13 +34,9 @@ The self-referential approach aligns with [[personalized-learning]] goals and th
 - Extends [[llm-student-modeling-memory]] to assessment contexts — profiling over time
 - Complements [[human-in-the-loop-ai]] by identifying where humans vs. AI add value
 
-## Source
-
-- [https://arxiv.org/abs/2605.04298](https://arxiv.org/abs/2605.04298)
-
 ## Citation
 
-**APA:** Gales, A.S.B.K.K.M., Approach, T.S.A.A.A.P., LLMs, T.L.W.E.W., Gales, S.B.K.K.M., prac-, A.I.R.W.C.D.T.A.C.E., & (PCC), G.A.U.D.S.W.S.A.P.C.C. (2026). *Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs*. https://arxiv.org/abs/2605.04298
+Gales, A.S.B.K.K.M., Approach, T.S.A.A.A.P., LLMs, T.L.W.E.W., Gales, S.B.K.K.M., prac-, A.I.R.W.C.D.T.A.C.E., & (PCC), G.A.U.D.S.W.S.A.P.C.C. (2026). [*Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs*](https://arxiv.org/abs/2605.04298)
 
 ## Related Pages
 - [[vocabulary-difficulty-prediction]] — LLM fine-tuned with soft-target loss achieves r>0.91 for vocabulary difficulty p

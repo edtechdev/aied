@@ -34,7 +34,7 @@ Automated question generation reduces manual authoring burden for educators and 
 
 ## Citation
 
-**APA:** F, A.W.Y.S.J.C.P. (2026). *Generate-Then-Validate: Question Generation for Education*. (LAK 2026), April 27-May 01. https://arxiv.org/abs/2512.10110
+F, A.W.Y.S.J.C.P. (2026). [*Generate-Then-Validate: Question Generation for Education*](https://arxiv.org/abs/2512.10110). (LAK 2026), April 27-May 01
 
 ## Related Pages
 
@@ -44,10 +44,6 @@ Automated question generation reduces manual authoring burden for educators and 
 - [[llm]] — Underlying generation technology
 - [[slidesqaqa-pedagogical-question-generation]] — Contrasts with front-loaded pedagogical reasoning approach
 - [[short-answer-scoring-quality-degradation]] — Quality assurance methodology
-
-## Source
-
-- [https://arxiv.org/abs/2512.10110](https://arxiv.org/abs/2512.10110)
 
 ## References
 

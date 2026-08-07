@@ -32,13 +32,9 @@ The pedagogical framing is equally important. The intervention constrains the hu
 
 For deployment, this suggests a design pattern: AI tutoring interfaces for STEM should include a *visual grounding checkpoint* — a deliberate step where the system describes what it sees before attempting a solution, giving the student (or a human supervisor) an opportunity to correct perceptual errors. This pattern echoes the verification step in the [[ai-tutor-behavioral-evaluation]] framework and could be automated further with vision-language consistency checks.
 
-## Source
-
-- [https://arxiv.org/abs/2605.04131](https://arxiv.org/abs/2605.04131)
-
 ## Citation
 
-**APA:** tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). *Multimodal Dialogue in STEM Education*. https://arxiv.org/abs/2605.04131
+tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal Dialogue in STEM Education*](https://arxiv.org/abs/2605.04131)
 
 ## Related Pages
 

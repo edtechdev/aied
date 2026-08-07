@@ -31,4 +31,4 @@ This paper proposes a paradigm shift from Learning Analytics to Cognition Intell
 
 ## Citation
 
-**APA:** Annie Yuan (2026). *Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education*. arXiv:2605.17263. arXiv preprint (cs.HC).
+Annie Yuan (2026). *Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education*. arXiv:2605.17263. arXiv preprint (cs.HC).

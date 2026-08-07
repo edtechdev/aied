@@ -29,4 +29,4 @@ Examines gender differences in AI literacy, safety awareness, and STEM career as
 
 ## Citation
 
-**APA:** Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026). *Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement*. arXiv:2606.14718. arXiv preprint.
+Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026). *Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement*. arXiv:2606.14718. arXiv preprint.

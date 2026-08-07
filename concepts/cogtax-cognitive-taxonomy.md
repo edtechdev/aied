@@ -31,4 +31,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-**APA:** Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira (2026). *CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education*. arXiv:2607.00140. Universidade de Vigo, submitted 30 Jun 2026
+Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira (2026). *CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education*. arXiv:2607.00140. Universidade de Vigo, submitted 30 Jun 2026

@@ -59,4 +59,4 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 
 ## Citation
 
-**APA:** Aldino, A. A., Maheshi, B., Li, Y., Zhou, Y., Tsai, Y.-S., Gašević, D., & Chen, G. (2026). Enhancing learner-centered feedback with AI: Teachers' practices and perceptions. *Assessment & Evaluation in Higher Education*, 51(5), 892–910. https://doi.org/10.1080/02602938.2026.2638920
+Aldino, A. A., Maheshi, B., Li, Y., Zhou, Y., Tsai, Y.-S., Gašević, D., & Chen, G. (2026). Enhancing learner-centered feedback with AI: Teachers' practices and perceptions. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2026.2638920), 51(5), 892–910

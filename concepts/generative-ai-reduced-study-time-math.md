@@ -59,4 +59,4 @@ This study provides the strongest empirical evidence yet for the [[over-reliance
 
 ## Citation
 
-**APA:** Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). *Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build*. arXiv:2605.21629.
+Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). *Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build*. arXiv:2605.21629.

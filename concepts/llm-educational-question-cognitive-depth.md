@@ -29,4 +29,4 @@ From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated E
 
 ## Citation
 
-**APA:** Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026). *From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions*. arXiv:2606.18257.
+Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026). *From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions*. arXiv:2606.18257.

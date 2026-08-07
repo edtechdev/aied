@@ -13,13 +13,9 @@ confidence: medium
 # GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics
 
 
-## Source
-
-- [https://doi.org/10.1016/j.caeai.2026.100637](https://doi.org/10.1016/j.caeai.2026.100637)
-
 ## Citation
 
-**APA:** Bui, A.D.B.Y.L.P., 100637, S.C.A.E.A.I.V., & Access), L.C.B. (2026). *GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics*. https://doi.org/10.1016/j.caeai.2026.100637
+Bui, A.D.B.Y.L.P., 100637, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics*](https://doi.org/10.1016/j.caeai.2026.100637)
 
 ## Related Pages
 - [[generative-ai]]

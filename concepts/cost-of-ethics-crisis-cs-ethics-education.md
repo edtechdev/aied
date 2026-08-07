@@ -36,4 +36,4 @@ The ethics education gap identified here suggests that AI literacy curricula fac
 
 ## Citation
 
-**APA:** Abdalla, M., Abdalla, S., Cappello, A., Dowling, K., Metaxa, D., Widder, D. G., & Stinson, C. (2026). *Cost-of-ethics crisis: Beliefs, decisions, and justifications in the job searches of computer science students in Canada and the United States*. arXiv:2605.09680.
+Abdalla, M., Abdalla, S., Cappello, A., Dowling, K., Metaxa, D., Widder, D. G., & Stinson, C. (2026). *Cost-of-ethics crisis: Beliefs, decisions, and justifications in the job searches of computer science students in Canada and the United States*. arXiv:2605.09680.

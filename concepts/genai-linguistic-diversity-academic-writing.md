@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[generative
 
 ## Citation
 
-**APA:** Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026). *Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes*. arXiv:2607.28505. cs.CL.
+Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026). *Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes*. arXiv:2607.28505. cs.CL.

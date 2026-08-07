@@ -28,4 +28,4 @@ As generative AI becomes central to software development, CS education is shifti
 
 ## Citation
 
-**APA:** Victor-Alexandru Padurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ahana Ghosh, Adish Singla (2026). *When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code*. arXiv:2607.05068. arXiv:2607.05068 [cs.SE, cs.CY].
+Victor-Alexandru Padurean, Kaitlin Riegel, Alkis Gotovos, Jyotika Mahapatra, Ahana Ghosh, Adish Singla (2026). *When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code*. arXiv:2607.05068. arXiv:2607.05068 [cs.SE, cs.CY].

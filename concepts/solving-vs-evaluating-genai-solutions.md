@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[generative
 
 ## Citation
 
-**APA:** Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). *Is Solving Better Than Evaluating GenAI Solutions?*. arXiv:2607.27586. cs.CY, cs.AI.
+Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). *Is Solving Better Than Evaluating GenAI Solutions?*. arXiv:2607.27586. cs.CY, cs.AI.

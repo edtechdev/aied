@@ -36,4 +36,4 @@ The findings extend concerns about cognitive offloading and skill decay from cla
 
 ## Citation
 
-**APA:** Abou Khamis, R., Assal, H., & Matrawy, A. (2026). Unanticipated effects of generative AI on expertise pathways and performance perception in system administration. arXiv:2607.28650.
+Abou Khamis, R., Assal, H., & Matrawy, A. (2026). Unanticipated effects of generative AI on expertise pathways and performance perception in system administration. arXiv:2607.28650.

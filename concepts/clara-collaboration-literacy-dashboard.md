@@ -22,7 +22,7 @@ CLARA introduces a novel architecture for [[learning-analytics]] where AI-produc
 
 ## Citation
 
-**APA:** 2026, A. (2026). *CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy*. https://arxiv.org/abs/2605.17259
+2026, A. (2026). [*CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy*](https://arxiv.org/abs/2605.17259)
 
 ## Related Pages
 - [[expert-cognition-dashboard]] — ECD extends dashboard design from visualization to embedded expert cognition reasoning

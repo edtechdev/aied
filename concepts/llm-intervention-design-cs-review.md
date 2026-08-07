@@ -50,7 +50,7 @@ For [[higher-ed]] contexts, the review provides actionable guidance: semester-lo
 
 ## Citation
 
-**APA:** School), A.A.V.I.B., implementation, A.Q.H.S.M.R.D.O., & generators, P.L.A.L.C.R.T.S. (2026). *A review of intervention designs of LLM Integration in Undergraduate Computer Science Education*
+School), A.A.V.I.B., implementation, A.Q.H.S.M.R.D.O., & generators, P.L.A.L.C.R.T.S. (2026). *A review of intervention designs of LLM Integration in Undergraduate Computer Science Education*
 
 ## Related Pages
 

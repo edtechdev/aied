@@ -41,4 +41,4 @@ Fine-tuning designs were systematically compared, with the curriculum-derived tr
 
 ## Citation
 
-**APA:** Shen, Q., Cao, F., Yao, M., Gilda, S., Dorr, B. J., & Leite, W. L. (2026). *Children's English reading story generation via supervised fine-tuning of compact LLMs with controllable difficulty and safety*. Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026). arXiv:2605.13709.
+Shen, Q., Cao, F., Yao, M., Gilda, S., Dorr, B. J., & Leite, W. L. (2026). *Children's English reading story generation via supervised fine-tuning of compact LLMs with controllable difficulty and safety*. Proceedings of the 21st Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2026). arXiv:2605.13709.

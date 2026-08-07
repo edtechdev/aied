@@ -67,4 +67,4 @@ A qualitative study of **16 undergraduates** at a Hong Kong teacher-education un
 
 ## Citation
 
-**APA:** Zhan, Y., & Yan, Z. (2026). Students' engagement with ChatGPT feedback: Implications for student feedback literacy in the context of generative artificial intelligence. *Assessment & Evaluation in Higher Education*, 51(5), 821–834. https://doi.org/10.1080/02602938.2025.2471821
+Zhan, Y., & Yan, Z. (2026). Students' engagement with ChatGPT feedback: Implications for student feedback literacy in the context of generative artificial intelligence. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2025.2471821), 51(5), 821–834

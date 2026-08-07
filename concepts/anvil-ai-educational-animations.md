@@ -34,4 +34,4 @@ The positive educator response to perceived value and usability suggests that AI
 
 ## Citation
 
-**APA:** Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026). *ANVIL: Analogies and Videos for Lecturers*. arXiv:2605.16295. arXiv:2605.16295 [cs.CY; cs.AI; cs.CL; cs.GR; cs.HC; cs.MM].
+Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026). *ANVIL: Analogies and Videos for Lecturers*. arXiv:2605.16295. arXiv:2605.16295 [cs.CY; cs.AI; cs.CL; cs.GR; cs.HC; cs.MM].

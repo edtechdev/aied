@@ -79,13 +79,9 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - How should [[faculty-development-genai|faculty development]] programs train instructors to implement these principles at scale?
 - What empirical evidence is needed to validate the framework's efficacy claims?
 
-## Source
-
-- [https://doi.org/10.1016/j.caeai.2026.100572](https://doi.org/10.1016/j.caeai.2026.100572)
-
 ## Citation
 
-**APA:** ScienceDirect, C.L.A.A., Intelligence, C.A.E.A., for, S.C.T.W.G.A.D.P., b, M.V.A.S.J., (AERC), A.A.E.R.C., O, A.R.T.I.C.L.E.I.N.F., T, A.B.S.T.R.A.C., & AI, G. (2026). *Scaffolding Critical Thinking with Generative AI*. https://doi.org/10.1016/j.caeai.2026.100572
+ScienceDirect, C.L.A.A., Intelligence, C.A.E.A., for, S.C.T.W.G.A.D.P., b, M.V.A.S.J., (AERC), A.A.E.R.C., O, A.R.T.I.C.L.E.I.N.F., T, A.B.S.T.R.A.C., & AI, G. (2026). [*Scaffolding Critical Thinking with Generative AI*](https://doi.org/10.1016/j.caeai.2026.100572)
 
 ## Related Pages
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)

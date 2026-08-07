@@ -28,4 +28,4 @@ Proposes a four-component AI literacy framework for legal translation profession
 
 ## Citation
 
-**APA:** Łucja Biel (2026). *AI Literacy for Legal Translation: Developing Digital Resilience*. arXiv:2608.04641. Book chapter.
+Łucja Biel (2026). *AI Literacy for Legal Translation: Developing Digital Resilience*. arXiv:2608.04641. Book chapter.

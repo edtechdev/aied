@@ -46,4 +46,4 @@ For educators, the taxonomy supports more precise diagnosis of student difficult
 
 ## Citation
 
-**APA:** Eckert, D., & Kautz, C. (2026). *How Students (Mis)understand Conditionals and Loops -- A Taxonomy*. arXiv:2605.26966.
+Eckert, D., & Kautz, C. (2026). *How Students (Mis)understand Conditionals and Loops -- A Taxonomy*. arXiv:2605.26966.

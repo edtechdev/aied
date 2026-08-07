@@ -30,4 +30,4 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[inc
 
 ## Citation
 
-**APA:** Cynthia Zastudil, Srishty Muthusekaran, Rayhona Nasimova, Stephen MacNeil (2026). *"I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning*. arXiv:2605.23823. arXiv preprint (cs.HC).
+Cynthia Zastudil, Srishty Muthusekaran, Rayhona Nasimova, Stephen MacNeil (2026). *"I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning*. arXiv:2605.23823. arXiv preprint (cs.HC).

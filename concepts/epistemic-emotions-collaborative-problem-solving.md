@@ -26,4 +26,4 @@ Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered Network Analysis to t
 
 ## Citation
 
-**APA:** Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, Nathaniel Blanchard (2026). *Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving*. arXiv:2607.23317.
+Sifatul Anindho, Videep Venkatesha, Jaclyn Ocumpaugh, Nathaniel Blanchard (2026). *Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving*. arXiv:2607.23317.

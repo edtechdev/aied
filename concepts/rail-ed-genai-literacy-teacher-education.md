@@ -39,4 +39,4 @@ Aligned with the UNESCO AI Competency Framework for Teachers and the OECD/Europe
 
 ## Citation
 
-**APA:** Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education. arXiv:2608.01705. arXiv (cs.CY / cs.HC) preprint.
+Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education. arXiv:2608.01705. arXiv (cs.CY / cs.HC) preprint.
