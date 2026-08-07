@@ -53,9 +53,7 @@
         <h1>LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework</h1>
         <div class="metadata">Created: 2026-05-15 | Tags: <a href="../tags/automated-grading.html" class="tag">automated-grading</a><a href="../tags/higher-ed.html" class="tag">higher-ed</a><a href="../tags/stem-education.html" class="tag">stem-education</a><a href="../tags/llm.html" class="tag">llm</a><a href="../tags/generative-ai.html" class="tag">generative-ai</a><a href="../tags/efficacy-study.html" class="tag">efficacy-study</a><a href="../tags/feedback-loop.html" class="tag">feedback-loop</a></div>
     </header>
-    <main class="container"><p>LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
-<strong>Rodríguez (2026)</strong> — Oregon State University. Submitted to Computers & Education.
-📄 <a href="https://arxiv.org/abs/2605.05410">Full text (arXiv)</a></p><p><h2>Summary</h2></p><p>LaTA (LaTeX Teaching Assistant) is a <strong>privacy-preserving, drop-in autograder</strong> that addresses the core tension in educational LLM deployment: most <a href="automated-grading.html">automated-grading</a> systems send student work to third-party APIs, violating FERPA and exposing institutions to data risk.</p><p><strong>System architecture:</strong>
+    <main class="container"><p><h2>Summary</h2></p><p>LaTA (LaTeX Teaching Assistant) is a <strong>privacy-preserving, drop-in autograder</strong> that addresses the core tension in educational LLM deployment: most <a href="automated-grading.html">automated-grading</a> systems send student work to third-party APIs, violating FERPA and exposing institutions to data risk.</p><p><strong>System architecture:</strong>
 <ul><li><strong>Four-stage pipeline:</strong> Ingest → Segment → Grade → Report</li></ul>
 <ul><li><strong>Grading engine:</strong> gpt-oss:120b running <strong>entirely on local commodity hardware</strong> (single Mac Studio)</li></ul>
 <ul><li><strong>Rubric format:</strong> YAML with binary per-item scoring, comparing student work against instructor-authored reference solutions</li></ul>
