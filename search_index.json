@@ -541,6 +541,20 @@
     "url": "pages/ai-assisted-learning-modes-eeg.html"
   },
   {
+    "slug": "ai-assisted-se-curriculum-syllabus-analysis-2026",
+    "title": "Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis",
+    "tags": [
+      "ai-education",
+      "curriculum-design",
+      "generative-ai",
+      "higher-ed",
+      "instructional-design",
+      "software-engineering"
+    ],
+    "content": "This paper analyses 23 publicly available syllabi from upper-division, credit-bearing university courses that teach AI-assisted software development. The study identifies common curricular themes — prompt engineering, code review with AI, AI-augmented testing, ethical considerations — and maps how different institutions are defining this emerging subject area. Key findings include: a strong emphasis on critical evaluation of AI-generated code over pure generation speed, widespread integration of human-AI collaboration workflows, and substantial variation in how ethics and professional responsibility are addressed. The authors derive design guidance for future AI-assisted SE curricula, emphasising the need to balance tool fluency with foundational software engineering knowledge. Citation APA:** Geng, Francis et al. (2026). *Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis*. arXiv:2608.05898.. Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis .",
+    "url": "pages/ai-assisted-se-curriculum-syllabus-analysis-2026.html"
+  },
+  {
     "slug": "ai-assisted-writing-research-teams",
     "title": "Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams",
     "tags": [
@@ -2512,6 +2526,19 @@
     ],
     "content": "Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026) — arXiv:2606.20608 (cs.CY; cs.AI; cs.CV) 📄 Full text (arXiv) Islam et al. (2026) address a core limitation of generative text-to-video for education: while visually fluent, such systems lack pedagogical content knowledge (PCK). CourseBlueprint provides a structured pipeline producing adaptive pedagogical videos grounded in a course corpus (undergraduate biomedical-imaging course BMED 2300, 23 lectures, 1,116 slides). The pipeline includes four components with typed intermediate representations and validation: a scaffolding module with prerequisite concept graphs, an adaptive controller assigning style specifications per learner persona, an engagement generator using a fixed rhetorical contract (hook→retrieval→core→analogy→forward contract), and a deterministic slide-image override mechanism. Ablation results show removing the engagement contract crashes the engagement score from 5.00 to 1.20. The slide override converts a 0/9 corpus-grounding failure into 9/10 successful matches. This work demonstrates that generative-ai for education needs explicit pedagogical structure — not just fluency — and connects to scaffolding , personalized-learning , and ai-generated-content research in higher-ed . Related Pages courseblueprint-adaptive-video-generation -- This page Citation APA: Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026). CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora . arXiv:2606.20608. arXiv:2606.20608 (cs.CY; cs.AI; cs.CV)",
     "url": "pages/courseblueprint-adaptive-video-generation.html"
+  },
+  {
+    "slug": "coursegraph-cs-course-comparison-2026",
+    "title": "CourseGraph: Finding overlaps and differences in Computer Science courses across universities",
+    "tags": [
+      "cs-education",
+      "curriculum-design",
+      "edtech-platform",
+      "higher-ed",
+      "student-experience"
+    ],
+    "content": "This paper presents CourseGraph, a methodology for automatically evaluating external course equivalences by modelling course content as structured knowledge graphs. Designed for student mobility programmes like Erasmus+, CourseGraph extracts topics from course descriptions, maps relationships between concepts, and identifies substantive overlap vs. complementarity between courses at different universities. The system mimics the manual workflow of curriculum advisors — analysing syllabi, comparing learning objectives, and flagging redundancies — but scales to thousands of course pairs. Evaluation on CS programmes across multiple European universities demonstrates that CourseGraph's overlap judgments align closely with expert advisor decisions while dramatically reducing processing time. Citation APA:** Nijdam, Arthur, Wagner, Paul Stankovski, & Ramezanian, Sara (2026). *CourseGraph: Finding overlaps and differences in Computer Science courses across universities*. arXiv:2608.05910.. CourseGraph: Finding overlaps and differences in Computer Science courses across universities .",
+    "url": "pages/coursegraph-cs-course-comparison-2026.html"
   },
   {
     "slug": "creative-thinking",
@@ -5429,6 +5456,19 @@
     "url": "pages/llm-tts-dialogue-lesson-generation.html"
   },
   {
+    "slug": "llm-turing-test-italian-legal-exams-2026",
+    "title": "What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries",
+    "tags": [
+      "ai-ed-evaluation",
+      "assessment",
+      "benchmark",
+      "llm",
+      "professional-training"
+    ],
+    "content": "This paper reports a blind Turing Test evaluating leading LLMs on three Italian professional legal examinations: the Bar exam, Judges exam, and Notary exam. LLMs generated full written papers that were anonymised and graded by expert examiners using real examination rubrics. Results show marked variance across models and tasks: some LLMs match or exceed human passing thresholds on certain exam sections, while all models struggle with tasks requiring deep legal reasoning, jurisdiction-specific knowledge, and nuanced argumentation. The study highlights both the promise and the current limits of LLMs in high-stakes professional assessment contexts, raising implications for AI's role in legal education and certification. Citation APA:** Bertoli, Germana et al. (2026). *What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries*. arXiv:2608.06166.. What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries .",
+    "url": "pages/llm-turing-test-italian-legal-exams-2026.html"
+  },
+  {
     "slug": "llm-tutoring-feedback-diagnosis-gap",
     "title": "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most",
     "tags": [
@@ -6224,6 +6264,20 @@
     ],
     "content": "Posthumanist AI education — rethinking the human-machine boundary in learning — is explored in ai-co-intelligence , humanlike-ai-collaborative-writing , and boundary-object (tag): the wiki treats AI not as a neutral tool but as a participant reshaping identity, agency, and knowledge practices ( educational-theory , ethics ). Related Pages",
     "url": "pages/posthumanist-ai-education.html"
+  },
+  {
+    "slug": "precision-education-student-digital-twins-2026",
+    "title": "From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways",
+    "tags": [
+      "adaptive-learning",
+      "higher-ed",
+      "learning-analytics",
+      "personalized-learning",
+      "predictive-modeling",
+      "student-modeling"
+    ],
+    "content": "This paper proposes a precision education framework that adapts precision medicine's predictive, preventive approach to higher education. It envisions AI-powered student digital twins — computational models that integrate academic, behavioural, and career trajectory data to forecast risk, personalise interventions, and align course pathways with employment outcomes. The paper argues that traditional reactive models (responding after students fail or drop out) can be replaced with continuous risk stratification, early-warning nudges, and dynamic pathway optimisation. Key architectural components include federated data integration across institutional silos, explainable AI for advisor trust, and longitudinal models that evolve with the student. Citation APA:** Dutta, Kaushik (2026). *From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways*. arXiv:2608.06322.. From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways .",
+    "url": "pages/precision-education-student-digital-twins-2026.html"
   },
   {
     "slug": "principled-ai-education",
@@ -7863,6 +7917,20 @@
     ],
     "content": "Taveter et al. (2026) — FIE 2026 (IEEE Frontiers in Education Conference). 📄 Full text (arXiv) Describes rapid development of a Thonny log visualizer using AI-assisted 'vibe coding' to make student programming processes visible to teachers. Piloted in a 160-student introductory programming course. Provides interactive timelines, session summaries, code-size graphs, and programming-process replays supporting teacher decision-making and academic-integrity clarification. Relevance to AI in Education: This paper contributes to the understanding of llm-assessment , personalized-learning , and student-experience . The findings have implications for adaptive-learning systems, formative-assessment design, and the broader edtech-platform landscape. Future work should explore how these results generalize across stem-education and higher-ed contexts. This research connects to the growing body of work on ai-literacy and teacher-role , highlighting both the promise and limitations of AI tools in educational settings. Related Pages stem-education — related concept higher-ed — related concept teacher-role — related concept learning-analytics — related concept academic-integrity — related concept edtech-platform — related concept Citation APA: Heidi Taveter, Marina Lepp (2026). From Idea to Classroom in Days: Using Vibe Coding to Create a Programming Process Visualizer from IDE Activity Logs . arXiv:2607.24757. FIE 2026 (IEEE Frontiers in Education Conference).",
     "url": "pages/vibe-coding-programming-process-visualizer.html"
+  },
+  {
+    "slug": "vibe-compiler-metacognition-genai-agency-2026",
+    "title": "Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-",
+    "tags": [
+      "cognitive-offloading",
+      "critical-thinking",
+      "generative-ai",
+      "human-in-the-loop",
+      "metacognition",
+      "self-regulated-learning"
+    ],
+    "content": "This paper introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool to preserve human epistemic agency during GenAI-assisted intellectual work. The model frames intellectual construction as a reciprocal interaction between Synthesis (combining components into a whole) and Analysis (decomposing a whole into components), arguing that over-reliance on AI for synthesis erodes metacognitive capacity. Vibe Compiler implements this model by requiring users to externalise their reasoning structure — specifying components, relationships, and constraints — before AI generates any output. In preliminary trials, the tool improved users' ability to articulate, critique, and refine AI-generated reasoning, suggesting that structured metacognitive scaffolding can mitigate the cognitive offloading risks identified in [[over-reliance]] research. Citation APA:** Mizoguchi, Riichiro et al. (2026). *Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-*. arXiv:2608.05545.. Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI- .",
+    "url": "pages/vibe-compiler-metacognition-genai-agency-2026.html"
   },
   {
     "slug": "vismatic-secure-sandbox-cs-education",
