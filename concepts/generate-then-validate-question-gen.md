@@ -1,36 +1,49 @@
 ---
 title: 'Generate-Then-Validate: Question Generation for Education'
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-07
 type: concept
-tags: [automated-grading, llm, nlp-education, stem-education, validate-then-generate]
-sources: [2512.10110]
+tags: [question-generation, llm, automated-assessment, stem-education, hallucination-reduction]
+sources: [raw/papers/2512.10110.md]
 confidence: high
 ---
 
+> **Synthesis:** A novel generate-then-validate pipeline for educational question generation that reduces LLM hallucination by 62% compared to direct generation, validated on STEM datasets with 89% accuracy and a 23% improvement over baseline LLMs on relevance metrics. The two-stage approach first generates candidate questions, then validates them against domain constraints and pedagogical criteria.
+
 # Generate-Then-Validate: Question Generation for Education
 
-## Synthesis
+## Approach
 
-Novel generate-then-validate approach for educational question generation. Reduces hallucination by 62% compared to direct generation. Validated on STEM datasets with 89% accuracy. Outperforms baseline LLMs by 23% on relevance metrics.
+The paper introduces a two-stage pipeline for automated educational question generation:
 
-## Connections
+1. **Generate** — an LLM produces candidate questions based on source material and specified learning objectives
+2. **Validate** — a separate validation module checks each candidate against domain constraints, factual accuracy, and pedagogical quality criteria
+
+This architecture addresses a core limitation of direct generation: LLMs produce plausible-sounding but factually incorrect or pedagogically inappropriate questions at high rates. The validation stage acts as a quality filter, discarding or flagging candidates that fail domain-specific checks.
+
+## Key Findings
+
+- **62% reduction in hallucination** compared to direct LLM generation
+- **89% accuracy** on STEM datasets (physics, chemistry, biology)
+- **23% improvement** over baseline LLMs on relevance and pedagogical alignment metrics
+- The validate stage catches factual errors, inappropriate difficulty levels, and misaligned learning objectives
+
+## Significance
+
+Automated question generation reduces manual authoring burden for educators and enables adaptive assessment at scale. The generate-then-validate approach is particularly relevant for STEM domains where factual precision is critical and hallucinated content can mislead learners. This work connects to the broader [[automated-question-generation]] and [[automated-assessment]] literature.
+
+## Related Pages
 
 - [[automated-question-generation]] — Core methodology contribution
-- [[nlp-education]] — LLM application for assessment
-- [[stem-education]] — Primary validation domain
-- [[llm-application-education]] — Generative AI for assessment
 - [[automated-assessment]] — Reduces manual question authoring burden
-- [[educational-nlp]] — NLP techniques for learning materials
+- [[stem-education]] — Primary validation domain
+- [[llm]] — Underlying generation technology
+- [[slidesqaqa-pedagogical-question-generation]] — Contrasts with front-loaded pedagogical reasoning approach
+- [[short-answer-scoring-quality-degradation]] — Quality assurance methodology
 
 ## Source
 
 - [https://arxiv.org/abs/2512.10110](https://arxiv.org/abs/2512.10110)
-
-## Related Pages
-- [[slidesqaqa-pedagogical-question-generation]] — contrasts with front-loaded pedagogical reasoning approach
-- [[short-answer-scoring-quality-degradation]] — Quality assurance methodology for automated assessment generation
-- [[nsmq-riddles-science-math-benchmark]] — Educational question benchmark from the Global South
 
 ## References
 

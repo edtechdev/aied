@@ -1,28 +1,25 @@
 ---
-title: Generative AI (GenAI) as a mindtool that supports generative learning (GL)
-created: 2026-08-01
-updated: 2026-08-01
+title: "Generative AI (GenAI) as a mindtool that supports generative learning (GL)"
+created: 2026-06-03
+updated: 2026-08-07
 type: concept
 tags: [educational-theory, generative-ai, higher-ed, instructional-design, scaffolding]
-sources: ["raw/papers/caeai-genai-mindtool.md"]
-confidence: high
+sources: [raw/papers/caeai-genai-mindtool.md]
+confidence: medium
 ---
+
+> **Synthesis:** Generative AI (GenAI) as a mindtool that supports generative learning (GL)
 
 # Generative AI (GenAI) as a mindtool that supports generative learning (GL)
 
-**Authors:** Nada Dabbagh, Helen Fake
-**Source:** [Computers and Education: Artificial Intelligence, Vol 11, 100626](https://doi.org/10.1016/j.caeai.2026.100626) — Open Access (CC BY 4.0)
 
-## Key Findings
+## Source
 
-Argues GenAI can serve as a Mindtool (knowledge representation tool) to facilitate Generative Learning rather than short-circuiting it. Proposes 8 pedagogical roles for GenAI: learning strategy/study buddy, collaborative thinking tool, possibility engine, Socratic opponent, personal tutor, exploratory research engine, motivator, and dynamic assessor. Provides a pedagogical framework for designing generative learning activities using GenAI.
+- [https://doi.org/10.1016/j.caeai.2026.100626](https://doi.org/10.1016/j.caeai.2026.100626)
 
 ## Related Pages
-
+- [[educational-theory]]
 - [[generative-ai]]
+- [[higher-ed]]
 - [[instructional-design]]
 - [[scaffolding]]
-- [[cognitive-offloading]]
-- [[over-reliance]]
-- [[higher-ed]]
-- [[socratic-ai]]

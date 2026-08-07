@@ -1,5 +1,5 @@
 # Journal
-Last updated: 2026-08-06 | Total entries: 469
+Last updated: 2026-08-07 | Total entries: 469
 
 ## 2026-08-07
 
@@ -198,48 +198,12 @@ Last updated: 2026-08-06 | Total entries: 469
 
 ## 2026-08-01
 
-- ● [[ai-tpack-preservice-math-teachers]] — "raw/papers/caeai-ai-tpack-math.md"
-  **AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study**
-  Tags: [ai-literacy, higher-ed, stem-education, faculty-development]
 - ● [[ai-vocational-education-training-review]] — "raw/papers/caeai-ai-vet-review.md"
   **Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness**
   Tags: [professional-training, efficacy-study, intelligent-tutoring, generative-ai, adaptive-learning]
-- ● [[conversational-ai-informal-learning]] — "raw/papers/caeai-conversational-ai-informal.md"
-  **Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning**
-  Tags: [generative-ai, informal-learning, llm, lifelong-learning, student-experience]
-- ● [[fair-explainable-edu-recommendations]] — "raw/papers/caeai-fair-recommendations.md"
-  **Fair and explainable educational recommendations with a hybrid Graph-GRU framework**
-  Tags: [ai-education, bias-mitigation, learning-analytics, personalized-learning]
-- ● [[genai-mindtool-generative-learning]] — "raw/papers/caeai-genai-mindtool.md"
-  **Generative AI (GenAI) as a mindtool that supports generative learning (GL)**
-  Tags: [educational-theory, generative-ai, higher-ed, instructional-design, scaffolding]
-- ● [[genai-runaway-object-math-higher-ed]] — "raw/papers/caeai-genai-runaway-object.md"
-  **GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics**
-  Tags: [generative-ai, higher-ed, stem-education, faculty-development, educational-theory]
-- ● [[human-ai-collaboration-trust-expectations]] — "raw/papers/caeai-human-ai-collab-trust.md"
-  **Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust**
-  Tags: [human-in-the-loop, generative-ai, higher-ed, student-experience]
 - ● [[human-vs-llm-ordered-coding]] — "raw/papers/caeai-human-llm-coding.md"
   **Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis**
   Tags: [automated-grading, educational-theory, ground-truth-reliability-aied, learning-analytics, llm]
-- ● [[llm-unlearning-math-privacy]] — "raw/papers/caeai-llm-unlearning-math.md"
-  **Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education**
-  Tags: [llm, privacy, k-12, pedagogical-safety, intelligent-tutoring]
-- ● [[ml-literacy-primary-education]] — "raw/papers/caeai-ml-literacy-primary.md"
-  **Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design**
-  Tags: [ai-literacy, k-12, computational-thinking, instructional-design]
-- ● [[multimodal-prompting-ai-literacy]] — "raw/papers/caeai-multimodal-prompting.md"
-  **Students' multimodal prompting practices as epistemic work in AI literacy development**
-  Tags: [ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal]
-- ● [[quest-ai-inquiry-preservice-teachers]] — "raw/papers/caeai-quest-ai-inquiry.md"
-  **Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers**
-  Tags: [ai-literacy, faculty-development, generative-ai, efficacy-study, higher-ed]
-- ● [[same-ai-different-pathways]] — "raw/papers/caeai-same-ai-different-pathways.md"
-  **Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts**
-  Tags: [ai-literacy, cognitive-offloading, generative-ai, higher-ed, prompt-engineering]
-- ● [[vetting-dual-llm-safety-education]] — "raw/papers/caeai-vetting-safety.md"
-  **VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI**
-  Tags: [pedagogical-safety, k-12, llm, generative-ai]
 
 ## 2026-07-31
 
@@ -987,7 +951,7 @@ Last updated: 2026-08-06 | Total entries: 469
 
 ## 2026-06-03
 
-- ● [[ai-fallibility-warning-help-seeking]] — raw/papers/2606.03822.md
+- ◐ [[ai-fallibility-warning-help-seeking]] — raw/papers/2606.03822.md
   **Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System**
   Tags: [intelligent-tutoring, student-experience, hallucination-risk, trust-calibration]
 - ● [[ai-generated-traces-novice-programmers]] — raw/papers/2606.03288.md
@@ -996,12 +960,48 @@ Last updated: 2026-08-06 | Total entries: 469
 - ● [[ai-literacy-continuum-higher-education]] — raw/papers/2606.00038.md
   **Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education**
   Tags: [ai-literacy, higher-ed, curriculum-design, ethics, instructional-design, personalized-learning]
-- ● [[guided-llm-scaffolding-statistics]] — raw/papers/2606.01375.md
-  **'Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics'**
+- ◐ [[ai-tpack-preservice-math-teachers]] — raw/papers/caeai-ai-tpack-math.md
+  **AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study**
+  Tags: [ai-literacy, higher-ed, stem-education, faculty-development]
+- ◐ [[conversational-ai-informal-learning]] — raw/papers/caeai-conversational-ai-informal.md
+  **Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning**
+  Tags: [generative-ai, informal-learning, llm, lifelong-learning, student-experience]
+- ◐ [[fair-explainable-edu-recommendations]] — raw/papers/caeai-fair-recommendations.md
+  **Fair and explainable educational recommendations with a hybrid Graph-GRU framework**
+  Tags: [ai-education, bias-mitigation, learning-analytics, personalized-learning]
+- ◐ [[genai-mindtool-generative-learning]] — raw/papers/caeai-genai-mindtool.md
+  **Generative AI (GenAI) as a mindtool that supports generative learning (GL)**
+  Tags: [educational-theory, generative-ai, higher-ed, instructional-design, scaffolding]
+- ◐ [[genai-runaway-object-math-higher-ed]] — raw/papers/caeai-genai-runaway-object.md
+  **GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics**
+  Tags: [generative-ai, higher-ed, stem-education, faculty-development, educational-theory]
+- ◐ [[guided-llm-scaffolding-statistics]] — raw/papers/2606.01375.md
+  **Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics**
   Tags: [scaffolding, higher-ed, stem-education, independent-learning]
-- ● [[turtleai-visual-programming-benchmark]] — raw/papers/2606.03626.md
-  **'TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics'**
+- ◐ [[human-ai-collaboration-trust-expectations]] — raw/papers/caeai-human-ai-collab-trust.md
+  **Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust**
+  Tags: [human-in-the-loop, generative-ai, higher-ed, student-experience]
+- ◐ [[llm-unlearning-math-privacy]] — raw/papers/caeai-llm-unlearning-math.md
+  **Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education**
+  Tags: [llm, privacy, k-12, pedagogical-safety, intelligent-tutoring]
+- ◐ [[ml-literacy-primary-education]] — raw/papers/caeai-ml-literacy-primary.md
+  **Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design**
+  Tags: [ai-literacy, k-12, computational-thinking, instructional-design]
+- ◐ [[multimodal-prompting-ai-literacy]] — raw/papers/caeai-multimodal-prompting.md
+  **Students' multimodal prompting practices as epistemic work in AI literacy development**
+  Tags: [ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal]
+- ◐ [[quest-ai-inquiry-preservice-teachers]] — raw/papers/caeai-quest-ai-inquiry.md
+  **Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers**
+  Tags: [ai-literacy, faculty-development, generative-ai, efficacy-study, higher-ed]
+- ◐ [[same-ai-different-pathways]] — raw/papers/caeai-same-ai-different-pathways.md
+  **Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts**
+  Tags: [ai-literacy, cognitive-offloading, generative-ai, higher-ed, prompt-engineering]
+- ◐ [[turtleai-visual-programming-benchmark]] — raw/papers/2606.03626.md
+  **TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics**
   Tags: [benchmark, cs-education, k-12, multimodal]
+- ◐ [[vetting-dual-llm-safety-education]] — raw/papers/caeai-vetting-safety.md
+  **VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI**
+  Tags: [pedagogical-safety, k-12, llm, generative-ai]
 
 ## 2026-06-02
 
@@ -1458,9 +1458,9 @@ Last updated: 2026-08-06 | Total entries: 469
 - ● [[genai-policy-prompting-rct]] — 2602.16033
   **Transforming GenAI Policy to Prompting Instruction (RCT)**
   Tags: [ai-literacy, k-12, rct, regulation, faculty-development]
-- ● [[generate-then-validate-question-gen]] — 2512.10110
+- ● [[generate-then-validate-question-gen]] — raw/papers/2512.10110.md
   **'Generate-Then-Validate: Question Generation for Education'**
-  Tags: [automated-grading, llm, nlp-education, stem-education, validate-then-generate]
+  Tags: [question-generation, llm, automated-assessment, stem-education, hallucination-reduction]
 - ● [[k-12-ai-education]] — 2602.16033
   **K-12 AI Education**
   Tags: [ai-literacy, curriculum-design, equity, k-12, faculty-development]
