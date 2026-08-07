@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Search - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
     <style>
         .search-result {
             margin-bottom: 1rem;
@@ -21,11 +22,20 @@
             max-height: 3.5em;
             overflow: hidden;
         }
+        .search-result .snippet em {
+            font-style: normal;
+            font-weight: bold;
+            background: yellow;
+            color: #000;
+            padding: 0 2px;
+            border-radius: 2px;
+        }
         .search-result .meta {
             font-size: 0.72rem;
             color: var(--muted-color);
             margin-top: 0.3rem;
         }
+        #status { color: var(--muted-color); }
     </style>
 </head>
 <body>
@@ -42,7 +52,7 @@
     </header>
     <main class="container">
         <input type="text" id="search-input" placeholder="Type to search..." style="width:100%; padding:0.75rem; margin-bottom:1rem;">
-        <p id="status" style="color:var(--muted-color);"></p>
+        <p id="status"></p>
         <div id="results"></div>
     </main>
 
@@ -52,16 +62,35 @@
             var input = document.getElementById('search-input');
             var resultsDiv = document.getElementById('results');
             var status = document.getElementById('status');
-            var index = window.SEARCH_INDEX;
+            var pages = window.SEARCH_INDEX;
 
-            if (!index) {
+            if (!pages) {
                 status.textContent = 'Error: search index failed to load.';
                 return;
             }
 
-            status.textContent = index.length + ' pages indexed. Type to search.';
+            // ----- Build FlexSearch index -----
+            var flexIdx = new FlexSearch.Document({
+                tokenize: 'forward',
+                document: {
+                    id: 'id',
+                    index: ['title', 'tags', 'content'],
+                    store: ['id']
+                }
+            });
 
-            // Check for ?q= query parameter
+            for (var i = 0; i < pages.length; i++) {
+                flexIdx.add({
+                    id: i,
+                    title: pages[i].title,
+                    tags: pages[i].tags.join(' '),
+                    content: pages[i].content
+                });
+            }
+
+            status.textContent = pages.length + ' pages indexed. Type to search.';
+
+            // ----- ?q= pre-population -----
             var params = new URLSearchParams(window.location.search);
             var q = params.get('q');
             if (q) {
@@ -69,40 +98,94 @@
                 doSearch(q);
             }
 
-            input.addEventListener('input', function(e) {
-                var query = e.target.value.trim();
+            // ----- Debounced input -----
+            var timer = null;
+            input.addEventListener('input', function() {
+                clearTimeout(timer);
+                var query = this.value.trim();
                 if (query.length < 2) {
                     resultsDiv.innerHTML = '<p style="color:var(--muted-color);">Type at least 2 characters to search.</p>';
                     return;
                 }
-                doSearch(query);
+                timer = setTimeout(function() { doSearch(query); }, 150);
             });
 
             function doSearch(query) {
                 var q = query.toLowerCase();
-                var matches = [];
-                for (var i = 0; i < index.length; i++) {
-                    var page = index[i];
-                    var searchText = (page.title + ' ' + page.tags.join(' ') + ' ' + page.content).toLowerCase();
-                    if (searchText.indexOf(q) !== -1) {
-                        matches.push(page);
+
+                // Phase 1: FlexSearch candidate retrieval
+                var flexResults = flexIdx.search(query, {
+                    limit: 300,
+                    enrich: true
+                });
+
+                // Phase 2: deduplicate and post-filter with indexOf
+                var seen = {};
+                var candidates = [];
+                for (var fi = 0; fi < flexResults.length; fi++) {
+                    var fieldResult = flexResults[fi];
+                    if (!fieldResult || !fieldResult.result) continue;
+                    for (var ri = 0; ri < fieldResult.result.length; ri++) {
+                        var match = fieldResult.result[ri];
+                        var id = match.id;
+                        if (seen[id]) continue;
+                        seen[id] = true;
+
+                        var page = pages[id];
+                        if (!page) continue;
+                        var searchText = (page.title + ' ' + page.tags.join(' ') + ' ' + page.content).toLowerCase();
+                        if (searchText.indexOf(q) !== -1) {
+                            candidates.push(page);
+                        }
                     }
                 }
 
-                if (matches.length === 0) {
+                // Phase 3: if FlexSearch missed some, fall back to linear scan
+                // (FlexSearch tokenizer can miss short/non-word queries like "zz")
+                if (candidates.length === 0 || (flexResults.length === 0 && q.length <= 3)) {
+                    // Linear scan fallback for short/edge-case queries
+                    for (var li = 0; li < pages.length; li++) {
+                        if (seen[li]) continue;
+                        var lp = pages[li];
+                        var ltext = (lp.title + ' ' + lp.tags.join(' ') + ' ' + lp.content).toLowerCase();
+                        if (ltext.indexOf(q) !== -1) {
+                            seen[li] = true;
+                            candidates.push(lp);
+                        }
+                    }
+                }
+
+                if (candidates.length === 0) {
                     resultsDiv.innerHTML = '<p style="color:var(--muted-color);">No results found for "<strong>' + escapeHtml(query) + '</strong>".</p>';
                     return;
                 }
 
-                var html = '<p style="color:var(--muted-color);margin-bottom:1rem;">' + matches.length + ' result' + (matches.length !== 1 ? 's' : '') + ' for "<strong>' + escapeHtml(query) + '</strong>"</p>';
-                for (var j = 0; j < matches.length; j++) {
-                    var p = matches[j];
-                    var snippet = p.content.substring(0, 250);
-                    var idx = snippet.toLowerCase().indexOf(q);
-                    if (idx > 30) snippet = '...' + snippet.substring(idx - 20);
+                var html = '<p style="color:var(--muted-color);margin-bottom:1rem;">'
+                    + candidates.length + ' result' + (candidates.length !== 1 ? 's' : '')
+                    + ' for "<strong>' + escapeHtml(query) + '</strong>"</p>';
+
+                for (var j = 0; j < candidates.length; j++) {
+                    var p = candidates[j];
+                    var lowerContent = p.content.toLowerCase();
+                    var idx = lowerContent.indexOf(q);
+                    var snippet;
+                    if (idx >= 0) {
+                        var start = Math.max(0, idx - 30);
+                        var end = Math.min(p.content.length, idx + q.length + 120);
+                        snippet = (start > 0 ? '...' : '') + p.content.substring(start, end);
+                        // Highlight query matches
+                        snippet = escapeHtml(snippet).replace(
+                            new RegExp('(' + escapeRegex(query) + ')', 'gi'),
+                            '<em>$1</em>'
+                        );
+                    } else {
+                        snippet = escapeHtml(p.content.substring(0, 200));
+                    }
+                    if (p.content.length > 200) snippet += '...';
+
                     html += '<div class="search-result">'
                         + '<h3><a href="' + p.url + '">' + p.title + '</a></h3>'
-                        + '<div class="snippet">' + escapeHtml(snippet) + (p.content.length > 250 ? '...' : '') + '</div>'
+                        + '<div class="snippet">' + snippet + '</div>'
                         + '<div class="meta">' + (p.tags.length ? p.tags.join(', ') : 'No tags') + '</div>'
                         + '</div>';
                 }
@@ -113,6 +196,10 @@
                 var div = document.createElement('div');
                 div.appendChild(document.createTextNode(text));
                 return div.innerHTML;
+            }
+
+            function escapeRegex(str) {
+                return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
             }
         })();
     </script>
