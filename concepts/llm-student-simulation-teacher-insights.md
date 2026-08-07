@@ -62,7 +62,7 @@ LLMs captured the bottom-right quadrant reasonably well but failed to represent 
 
 ## Citation
 
-**APA:** Learners?, C.L.E.S.H., Students, T.I.F.T.L., Daheim1,2, D.M.J.M.N., Sachan1, Ö.N.Y.X.Z.M., Fraser, E.Z.T.D.S., many, L.L.M.O., & aims, F.B.H.L.S.A.P.U.T.S. (2026). *Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students*. Innovative Use of NLP for Building Educational Applications) **DOI:** https://aclanthology
+Learners?, C.L.E.S.H., Students, T.I.F.T.L., Daheim1,2, D.M.J.M.N., Sachan1, Ö.N.Y.X.Z.M., Fraser, E.Z.T.D.S., many, L.L.M.O., & aims, F.B.H.L.S.A.P.U.T.S. (2026). [*Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students*](https://aclanthology). Innovative Use of NLP for Building Educational Applications) **DOI:** https://aclanthology
 
 ## Related Pages
 
@@ -74,7 +74,3 @@ LLMs captured the bottom-right quadrant reasonably well but failed to represent 
 - [[community-of-inquiry]]
 - [[scaffolding]]
 - [[knowledge-tracing]]
-
-## Source
-
-- [https://aclanthology.org/2025.bea-1.8](https://aclanthology.org/2025.bea-1.8)

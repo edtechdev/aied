@@ -36,4 +36,4 @@ Results show greater vulnerability to education-specific risks and dynamic multi
 
 ## Citation
 
-**APA:** Junyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh (2026). EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers. arXiv:2608.02024. arXiv (cs.CY / cs.AI) preprint.
+Junyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh (2026). EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers. arXiv:2608.02024. arXiv (cs.CY / cs.AI) preprint.

@@ -36,13 +36,9 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 - Can the benchmark be extended to other African and Global South educational systems?
 - What does the clue-progression format reveal about LLM reasoning vs. retrieval?
 
-## Source
-
-- [https://arxiv.org/abs/2605.07051](https://arxiv.org/abs/2605.07051)
-
 ## Citation
 
-**APA:** al, A.G.B.N.I.S.J.E., and, N.R.A.B.O.S., Large, M.R.F.Q., Models, L., Yeboah3,4, P.A.J.A.M.K.T., and, W.E.A.K.M.N.S.Y., Kumbol2,3, V., & Zurich, E. (2026). *NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models*. https://arxiv.org/abs/2605.07051
+al, A.G.B.N.I.S.J.E., and, N.R.A.B.O.S., Large, M.R.F.Q., Models, L., Yeboah3,4, P.A.J.A.M.K.T., and, W.E.A.K.M.N.S.Y., Kumbol2,3, V., & Zurich, E. (2026). [*NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models*](https://arxiv.org/abs/2605.07051)
 
 ## Related Pages
 - [[benchmark]]

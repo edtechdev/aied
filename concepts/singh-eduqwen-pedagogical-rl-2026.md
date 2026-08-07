@@ -35,13 +35,9 @@ Third, the hard-negative mining methodology offers a template for [[pedagogical-
 
 Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about harm prevention but about proactive pedagogical quality: a model that resists the urge to give answers and instead guides, questions, and scaffolds represents a meaningful step toward [[intelligent-tutoring-systems]] that genuinely teach rather than simply inform.
 
-## Source
-
-- [https://arxiv.org/abs/2604.06385](https://arxiv.org/abs/2604.06385)
-
 ## Citation
 
-**APA:** Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). *EduQwen: Pedagogical RL*. https://arxiv.org/abs/2604.06385
+Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). [*EduQwen: Pedagogical RL*](https://arxiv.org/abs/2604.06385)
 
 ## Related Pages
 

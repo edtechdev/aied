@@ -25,4 +25,4 @@ Addo, Munagah, Kumbol, Uchidiuno and Boateng study why African students enroll i
 
 ## Citation
 
-**APA:** Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, George Boateng (2026). *"Why SuaCode?": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course*. arXiv:2607.22940.
+Michael Addo, Nana Maryam Munagah, Victor Kumbol, Judith Uchidiuno, George Boateng (2026). *"Why SuaCode?": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course*. arXiv:2607.22940.

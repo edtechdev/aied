@@ -38,7 +38,7 @@ confidence: high
 
 ## Citation
 
-**APA:** quality, M.F.O.A.T.A.E. (2026). *From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership*. https://arxiv.org/abs/2604.11009
+quality, M.F.O.A.T.A.E. (2026). [*From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership*](https://arxiv.org/abs/2604.11009)
 
 ## Related Pages
 - [[writing-education]] — the application domain

@@ -29,5 +29,5 @@ Learning to communicate with code-generating AI is an emerging skill for novice 
 
 ## Citation
 
-**APA:** Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026). *Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks*. arXiv:2607.05034. arXiv:2607.05034 [cs.CY].
+Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026). *Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks*. arXiv:2607.05034. arXiv:2607.05034 [cs.CY].
 - [[voice-text-prompt-problems-computing-education]] — Text vs voice modality on Prompt Problems

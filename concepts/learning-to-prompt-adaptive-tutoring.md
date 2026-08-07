@@ -59,4 +59,4 @@ Adaptive LLM tutoring with subject-aware prompt routing based on 14 pedagogical 
 
 ## Citation
 
-**APA:** Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer (2026). *Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring*. arXiv:2606.20138. arXiv cs.AI preprint.
+Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer (2026). *Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring*. arXiv:2606.20138. arXiv cs.AI preprint.

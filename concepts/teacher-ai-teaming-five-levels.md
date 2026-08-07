@@ -40,7 +40,7 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 
 ## Citation
 
-**APA:** (UCL), A.M.C.W.S.Q.Z.S.B., with, T.S.T.I., Intelligence, G.A., Cukurova, M., Suraworachet, W., and, Q.Z., Bulathwela, S., & about, T.H.T.A.O.T.T.T.G.R.C. (2026). *Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence*. https://arxiv.org/abs/2511.19580
+Cukurova, M., Suraworachet, W., Zhou, Q., & Bulathwela, S. (2025). [*Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence*](https://arxiv.org/abs/2511.19580). arXiv preprint.
 
 ## Related Pages
 
@@ -52,7 +52,3 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 - [[hybrid-intelligence]]
 - [[augmentation]]
 - [[professional-development]]
-
-## Source
-
-- [https://arxiv.org/abs/2511.19580](https://arxiv.org/abs/2511.19580)

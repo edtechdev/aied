@@ -60,7 +60,7 @@ This operationalizes [[agentic-workflows-education]] for a specific tool:
 
 ## Citation
 
-**APA:** Naboulsi, A.Z. (2026). *Agentic Education with AI Coding Assistants*. https://arxiv.org/abs/2604.17460
+Naboulsi, A.Z. (2026). [*Agentic Education with AI Coding Assistants*](https://arxiv.org/abs/2604.17460)
 
 ## Related Pages
 - [[computational-thinking-ai-agent-creation]] — No-code agent creation vs. coding assistants for CT development

@@ -56,7 +56,7 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 
 ## Citation
 
-**APA:** al, A.R.R.G.P.A.D.E. (2026). *Text Simplification for Intelligent Tutoring*. https://arxiv.org/abs/2604.08947
+al, A.R.R.G.P.A.D.E. (2026). [*Text Simplification for Intelligent Tutoring*](https://arxiv.org/abs/2604.08947)
 
 ## Related Pages
 - [[adaptive-learning-systems]] — Content adaptation as core ITS function

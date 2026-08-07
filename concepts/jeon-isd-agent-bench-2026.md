@@ -32,13 +32,9 @@ The 51-variable Context Matrix is itself a contribution, formalizing what makes 
 
 For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a methodological advance that may generalize beyond instructional design to other educational AI evaluation tasks where LLM-as-judge bias is a concern.
 
-## Source
-
-- [https://arxiv.org/abs/2602.10620](https://arxiv.org/abs/2602.10620)
-
 ## Citation
 
-**APA:** |, C.D., |, S.F.A., |, C.M., |, P.M.L.F.D.P., |, T.R.R., reasoning, A.C.I.F.M.R., alignment, A.E.I.P.D.O., & bias, I.M.P.M.L. (2026). *ISD Agent Benchmark*. https://arxiv.org/abs/2602.10620
+|, C.D., |, S.F.A., |, C.M., |, P.M.L.F.D.P., |, T.R.R., reasoning, A.C.I.F.M.R., alignment, A.E.I.P.D.O., & bias, I.M.P.M.L. (2026). [*ISD Agent Benchmark*](https://arxiv.org/abs/2602.10620)
 
 ## Related Pages
 

@@ -22,7 +22,7 @@ CyberScholar demonstrates rubric-grounded [[retrieval-augmented-generation]] for
 
 ## Citation
 
-**APA:** Nascimento, D.O. & preprint, A. (2026). *Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar*. https://arxiv.org/abs/2605.17055
+Nascimento, D.O. & preprint, A. (2026). [*Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar*](https://arxiv.org/abs/2605.17055)
 
 ## Related Pages
 - [[mindcopilot-llm-co-writing]] — Interaction-aware evaluation complements output-quality metrics for writing feedback

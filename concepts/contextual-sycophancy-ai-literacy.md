@@ -22,7 +22,7 @@ This AIED 2026 LBR paper identifies a pernicious feedback loop in educational hu
 
 ## Citation
 
-**APA:** D, A.K.C.G.S.O. & Results), V.A.L. (2026). *The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration*. https://arxiv.org/abs/2605.18372
+D, A.K.C.G.S.O. & Results), V.A.L. (2026). [*The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration*](https://arxiv.org/abs/2605.18372)
 
 ## Related Pages
 - [[cognitive-shift-ai-education]] — 471 students surveyed 2020–2026 show shift from AI preference to human intellige

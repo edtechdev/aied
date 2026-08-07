@@ -38,4 +38,4 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 
 ## Citation
 
-**APA:** Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv:2608.02599. arXiv (cs.AI / eess.SY) preprint.
+Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv:2608.02599. arXiv (cs.AI / eess.SY) preprint.

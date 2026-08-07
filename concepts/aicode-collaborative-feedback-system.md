@@ -38,4 +38,4 @@ AICoFe extends prior work on [[ai-peer-feedback-systems]] from experimental prot
 
 ## Citation
 
-**APA:** Becerra, A., Palma, A., & Cobos, R. (2026). *AICoFe: Implementation and deployment of an AI-based collaborative feedback system for higher education*. Proceedings of the Learning Analytics Summer Institute Spain 2026 (LASI Spain 2026). arXiv:2605.04740.
+Becerra, A., Palma, A., & Cobos, R. (2026). *AICoFe: Implementation and deployment of an AI-based collaborative feedback system for higher education*. Proceedings of the Learning Analytics Summer Institute Spain 2026 (LASI Spain 2026). arXiv:2605.04740.

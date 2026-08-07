@@ -31,4 +31,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-**APA:** Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman (2026). *Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning*. arXiv:2607.00979. submitted 1 Jul 2026
+Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman (2026). *Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning*. arXiv:2607.00979. submitted 1 Jul 2026

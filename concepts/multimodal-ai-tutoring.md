@@ -65,7 +65,7 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 
 ## Citation
 
-**APA:** tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). *Multimodal AI Tutoring in STEM*. https://arxiv.org/abs/2605.04131
+tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal AI Tutoring in STEM*](https://arxiv.org/abs/2605.04131)
 
 ## Related Pages
 - [[llm-handwritten-math-grading]] — Demonstrates vision+LLM pipeline for authentic STEM assessment at scale

@@ -35,4 +35,4 @@ By situating the research within real K-12 classroom dynamics and publishing at 
 
 ## Citation
 
-**APA:** Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026). *Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing*. arXiv:2605.18761. arXiv:2605.18761 [cs.HC] — Accepted at CSCW 2026, to appear in PACM HCI.
+Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026). *Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing*. arXiv:2605.18761. arXiv:2605.18761 [cs.HC] — Accepted at CSCW 2026, to appear in PACM HCI.

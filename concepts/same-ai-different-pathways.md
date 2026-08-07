@@ -13,13 +13,9 @@ confidence: medium
 # Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
 
 
-## Source
-
-- [https://doi.org/10.1016/j.caeai.2026.100601](https://doi.org/10.1016/j.caeai.2026.100601)
-
 ## Citation
 
-**APA:** Shen, A.Q., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). *Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts*. https://doi.org/10.1016/j.caeai.2026.100601
+Shen, A.Q., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts*](https://doi.org/10.1016/j.caeai.2026.100601)
 
 ## Related Pages
 - [[ai-literacy]]

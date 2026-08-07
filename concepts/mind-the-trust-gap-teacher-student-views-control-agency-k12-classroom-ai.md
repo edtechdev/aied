@@ -29,4 +29,4 @@ As AI technologies enter [[k-12]] classrooms, understanding how different stakeh
 
 ## Citation
 
-**APA:** Tomohiro Nagashima, Lisa Siegrist, Niklas Scholz, Shintaro Sato, Martina Vincoli, Man Su (2026). *Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI*. arXiv:2607.01506.
+Tomohiro Nagashima, Lisa Siegrist, Niklas Scholz, Shintaro Sato, Martina Vincoli, Man Su (2026). *Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI*. arXiv:2607.01506.

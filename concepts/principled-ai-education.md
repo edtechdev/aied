@@ -67,7 +67,7 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 
 ## Citation
 
-**APA:** education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). *Principled AI in Education*. https://arxiv.org/abs/2510.01467
+education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). [*Principled AI in Education*](https://arxiv.org/abs/2510.01467)
 
 ## Related Pages
 - [[lata-ferpa-compliant-local-llm-autograder]] — Open-source, zero-marginal-cost, privacy-preserving AI

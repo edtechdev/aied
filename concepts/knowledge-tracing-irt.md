@@ -66,7 +66,7 @@ This framework is an enabler for [[tutoring-specific-vs-general-ai|tutoring-spec
 
 ## Citation
 
-**APA:** Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). *Interpretable Knowledge Tracing via IRT*. https://arxiv.org/abs/2605.01097
+Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing via IRT*](https://arxiv.org/abs/2605.01097)
 
 ## Related Pages
 - [[kt4eqg-personalized-question-generation]] — 7 of 8 papers in May 28 scan

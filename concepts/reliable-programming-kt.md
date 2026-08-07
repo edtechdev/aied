@@ -30,4 +30,4 @@ This reinforces [[ground-truth-reliability-aied]] by showing that experimental p
 
 ## Citation
 
-**APA:** Kim & Kim (2026). *Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols*. arXiv:2605.04727. ITS 2026 (Springer LNCS).
+Kim & Kim (2026). *Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols*. arXiv:2605.04727. ITS 2026 (Springer LNCS).

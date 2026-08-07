@@ -38,7 +38,7 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 
 ## Citation
 
-**APA:** ASSESSMENT, R., ERA, I.T.A., a, K.I.F., Conference, F., McGee, N.J., Thille, C., Choi, I., & Ercikan, K. (2026). *Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference*
+ASSESSMENT, R., ERA, I.T.A., a, K.I.F., Conference, F., McGee, N.J., Thille, C., Choi, I., & Ercikan, K. (2026). *Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference*
 
 ## Related Pages
 

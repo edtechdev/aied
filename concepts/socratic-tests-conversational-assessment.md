@@ -36,4 +36,4 @@ A stated goal is human-AI alignment for measurement reliability: the conversatio
 
 ## Citation
 
-**APA:** Mikhelson, I. (2026). The theoretical foundation of Socratic tests: Dynamic, multimodal, conversational examinations. arXiv:2607.29624.
+Mikhelson, I. (2026). The theoretical foundation of Socratic tests: Dynamic, multimodal, conversational examinations. arXiv:2607.29624.

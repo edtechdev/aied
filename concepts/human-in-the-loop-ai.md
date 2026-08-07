@@ -43,7 +43,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 
 ## Citation
 
-**APA:** Wang, A.X.D.F.N.C. & |, C.F. (2026). *Human-in-the-Loop AI for Education*. Conference on Artificial Intelligence in Education (AIED 2026). https://arxiv.org/abs/2604.03926
+Wang, A.X.D.F.N.C. & |, C.F. (2026). [*Human-in-the-Loop AI for Education*](https://arxiv.org/abs/2604.03926). Conference on Artificial Intelligence in Education (AIED 2026)
 
 ## Related Pages
 - [[feedback-futures-genai]] — Proactively maintaining human agency in GenAI feedback

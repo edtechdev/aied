@@ -50,7 +50,7 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 
 ## Citation
 
-**APA:** Reidsma, A.M.F.D., Bremen, V.C.J., Conversational, F.C.T.C.A.S., Review, W.F.P., & Fang, M. (2026). *From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review*. ACM Conversational User Interfaces 2026 (CUI ’26), July 21–24. https://doi.org/10.1145/3816046.3816288
+Fang, M., & Reidsma, D. (2026). [*From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review*](https://doi.org/10.1145/3816046.3816288). In *ACM Conversational User Interfaces 2026 (CUI '26)*, Bremen, Germany.
 
 ## Related Pages
 
@@ -62,7 +62,3 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 - [[ai-tutors]]
 - [[dual-agent]]
 - [[student-experience]]
-
-## Source
-
-- [https://doi.org/10.1145/3816046.3816288](https://doi.org/10.1145/3816046.3816288)

@@ -28,5 +28,5 @@ For [[writing-education]], this represents a paradigm shift. Traditional automat
 
 ## Citation
 
-**APA:** Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026). *MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing*. arXiv:2605.23535. IJCAI 2026.
+Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026). *MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing*. arXiv:2605.23535. IJCAI 2026.
 - [[humanlike-ai-collaborative-writing]] — Anthropomorphic design choices amplify both benefits and costs of AI co-writing

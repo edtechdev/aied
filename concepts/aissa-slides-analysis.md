@@ -34,7 +34,7 @@ Tested with 46 undergraduate students in a real academic setting. Findings: tech
 
 ## Citation
 
-**APA:** Cobos, A.A.B.D.G.R. & 2026, V.L.S. (2026). *AISSA: AI-based Student Slides Analysis Tool for Academic Presentations*. https://arxiv.org/abs/2605.04729
+Cobos, A.A.B.D.G.R. & 2026, V.L.S. (2026). [*AISSA: AI-based Student Slides Analysis Tool for Academic Presentations*](https://arxiv.org/abs/2605.04729)
 
 ## Related Pages
 - [[slidesqaqa-pedagogical-question-generation]] — complementary slide analysis focused on pedagogical question extraction

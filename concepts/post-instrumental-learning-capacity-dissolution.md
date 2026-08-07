@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[over-relia
 
 ## Citation
 
-**APA:** Kai Yao (2026). *When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution*. arXiv:2607.28041. cs.CY.
+Kai Yao (2026). *When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution*. arXiv:2607.28041. cs.CY.

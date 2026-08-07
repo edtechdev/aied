@@ -47,7 +47,7 @@ Evaluated across 5 university-level courses using both human and automated revie
 
 ## Citation
 
-**APA:** 24-29, V.E.M., Workload, I.A.R.T.F., Design, T.M.I., Wei, H.Y.W.X.J.T.N.K.H., State, A., Contribution, E., scalable, I.W.L.I.D.C.I.A.P.A., & McGrath-Champ, F.B.L.A.O.E.G.A. (2026). *Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design*
+Yao, H., Xu, W., Turnau, J., Kellam, N., & Wei, H. (2026). [*Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design*](https://aclanthology.org/2026.eacl-long.191). In *Proceedings of EACL 2026*.
 
 ## Related Pages
 
@@ -59,7 +59,3 @@ Evaluated across 5 university-level courses using both human and automated revie
 - [[faculty-development]]
 - [[course-generation]]
 - [[automated-courseware]]
-
-## Source
-
-- [https://aclanthology.org/2026.eacl-long.191](https://aclanthology.org/2026.eacl-long.191)

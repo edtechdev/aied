@@ -52,4 +52,4 @@ These results have direct implications for AI literacy education: users need not
 
 ## Citation
 
-**APA:** Yu, S., Cheng, M., Jabbar, A., Sucholutsky, I., Collins, K. M., Jurafsky, D., & Hawkins, R. D. (2026). *The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks*. arXiv:2605.22687.
+Yu, S., Cheng, M., Jabbar, A., Sucholutsky, I., Collins, K. M., Jurafsky, D., & Hawkins, R. D. (2026). *The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks*. arXiv:2605.22687.

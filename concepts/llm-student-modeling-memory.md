@@ -76,7 +76,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 ## Citation
 
-**APA:** Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). *LLM Student Modeling and Long-Term Memory Architecture*. https://arxiv.org/abs/2604.13074
+Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). [*LLM Student Modeling and Long-Term Memory Architecture*](https://arxiv.org/abs/2604.13074)
 
 ## Related Pages
 - [[structrag-diagram-reasoning-ai-tutoring]] — LLM-guided structural reasoning over graphs

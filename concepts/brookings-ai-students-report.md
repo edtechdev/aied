@@ -37,7 +37,7 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 
 ## Citation
 
-**APA:** Institution, S.B. (2026). *A New Direction for Students in an AI World: Prosper, Prepare, Protect*
+Institution, S.B. (2026). *A New Direction for Students in an AI World: Prosper, Prepare, Protect*
 
 ## Related Pages
 - [[ai-k12-evidence-base]]

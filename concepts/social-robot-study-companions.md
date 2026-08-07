@@ -31,4 +31,4 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Citation
 
-**APA:** Farnaz Baksh, Matevz B. Zorec, Feiazie Baksh, Karl Kruusamae (2026). *Co-Creating Buildable and Open Social Robot Study Companions with University Students*. arXiv:2606.15239. ICSR + ART 2026, London.
+Farnaz Baksh, Matevz B. Zorec, Feiazie Baksh, Karl Kruusamae (2026). *Co-Creating Buildable and Open Social Robot Study Companions with University Students*. arXiv:2606.15239. ICSR + ART 2026, London.

@@ -36,4 +36,4 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 
 ## Citation
 
-**APA:** Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). *Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics*. arXiv:2608.03968. EDULEARN26 Proceedings (IATED, 2026).
+Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). *Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics*. arXiv:2608.03968. EDULEARN26 Proceedings (IATED, 2026).

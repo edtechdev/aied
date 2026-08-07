@@ -32,4 +32,4 @@ This book chapter provides a comprehensive survey of AI integration in serious g
 
 ## Citation
 
-**APA:** Priyamvada Tripathi, Bill Kapralos (2026). *AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems*. arXiv:2605.21962. Springer book chapter, Advances in Global Applied Artificial Intelligence.
+Priyamvada Tripathi, Bill Kapralos (2026). *AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems*. arXiv:2605.21962. Springer book chapter, Advances in Global Applied Artificial Intelligence.

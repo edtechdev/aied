@@ -29,4 +29,4 @@ Asks what is gained and lost when 'collaboration' is applied freely to human-AI 
 
 ## Citation
 
-**APA:** Mutlu Cukurova (2026). *What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it*. arXiv:2606.15509. Handbook of AI and the Future of Education (forthcoming).
+Mutlu Cukurova (2026). *What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it*. arXiv:2606.15509. Handbook of AI and the Future of Education (forthcoming).

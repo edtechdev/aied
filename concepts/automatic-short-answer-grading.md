@@ -69,7 +69,7 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 
 ## Citation
 
-**APA:** Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). *Automatic Short Answer Grading with LLMs*. https://arxiv.org/abs/2605.00200
+Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). [*Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200)
 
 ## Related Pages
 - [[rubric-aware-grading-rec-cbm]] — 2 of 8 papers in May 28 scan

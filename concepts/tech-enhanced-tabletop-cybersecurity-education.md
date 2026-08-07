@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[active-lea
 
 ## Citation
 
-**APA:** Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). *Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned*. arXiv:2607.28179. cs.CY, cs.CR.
+Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). *Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned*. arXiv:2607.28179. cs.CY, cs.CR.

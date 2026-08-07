@@ -37,4 +37,4 @@ The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as
 
 ## Citation
 
-**APA:** Xu, W., & Ji, F. (2026). *Reinforcement learning measurement model*. arXiv:2605.09305.
+Xu, W., & Ji, F. (2026). *Reinforcement learning measurement model*. arXiv:2605.09305.

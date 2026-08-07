@@ -53,4 +53,4 @@ Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring 
 
 ## Citation
 
-**APA:** Sun, Y., Liao, Y., & Ma, X. (2026). Advancing diagram-based reasoning in AI tutoring systems: A structural approach for STEM education. *Smart Learning Environments*. Advance online publication. https://doi.org/10.1186/s40561-026-00459-9
+Sun, Y., Liao, Y., & Ma, X. (2026). Advancing diagram-based reasoning in AI tutoring systems: A structural approach for STEM education. [*Smart Learning Environments*](https://doi.org/10.1186/s40561-026-00459-9). Advance online publication

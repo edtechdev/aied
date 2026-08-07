@@ -22,6 +22,6 @@ SocratiCode demonstrates a participatory design evolution from directive AI tuto
 
 ## Citation
 
-**APA:** preprint, A. (2026). *Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study*. https://arxiv.org/abs/2605.17857
+preprint, A. (2026). [*Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study*](https://arxiv.org/abs/2605.17857)
 
 ## Related Pages

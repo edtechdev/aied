@@ -32,13 +32,9 @@ The [[learning-analytics-dashboards]] component of AICoFE is notable for its rol
 
 For [[higher-ed]] institutions facing growing assessment loads, AICoFE models a path where AI-assisted feedback scales without sacrificing the relational and interpretive dimensions of effective [[formative-assessment]].
 
-## Source
-
-- [https://arxiv.org/abs/2605.04740](https://arxiv.org/abs/2605.04740)
-
 ## Citation
 
-**APA:** Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). *AICoFE: AI-Powered Feedback System*. https://arxiv.org/abs/2605.04740
+Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). [*AICoFE: AI-Powered Feedback System*](https://arxiv.org/abs/2605.04740)
 
 ## Related Pages
 

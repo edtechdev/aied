@@ -29,4 +29,4 @@ Based on a questionnaire of 100 higher-education engineering students and a crit
 
 ## Citation
 
-**APA:** Olya Kudina (2026). *Using AI in engineering education: a balancing act, driven by clear purpose*. arXiv:2606.16626. The Routledge Handbook of the Philosophy of Engineering, 2nd ed..
+Olya Kudina (2026). *Using AI in engineering education: a balancing act, driven by clear purpose*. arXiv:2606.16626. The Routledge Handbook of the Philosophy of Engineering, 2nd ed..

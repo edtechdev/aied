@@ -40,4 +40,4 @@ This study extends the taxonomy in [[tutoring-specific-vs-general-ai]] by showin
 
 ## Citation
 
-**APA:** Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). *Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs*. Proceedings of the 19th International Conference on Educational Data Mining (EDM'26). arXiv:2605.11155.
+Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). *Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs*. Proceedings of the 19th International Conference on Educational Data Mining (EDM'26). arXiv:2605.11155.

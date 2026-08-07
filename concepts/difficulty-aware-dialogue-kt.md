@@ -31,4 +31,4 @@ The framework was validated across two tutor-student dialogue datasets and outpe
 
 ## Citation
 
-**APA:** Huang et al. (2026). *Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues*. arXiv:2605.01097. arXiv preprint.
+Huang et al. (2026). *Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues*. arXiv:2605.01097. arXiv preprint.

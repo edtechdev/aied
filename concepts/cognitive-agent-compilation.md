@@ -71,4 +71,4 @@ CAC connects to several threads in AI education research:
 - [[pedagogical-safety-rl]] — Safety frameworks for RL-based tutoring
 ## Citation
 
-**APA:** Moon, H., Rosé, C., & Stamper, J. (2026). *Cognitive Agent Compilation for Explicit Problem Solver Modeling*. arXiv:2605.07040. Accepted to AIED 2026 Blue Sky.
+Moon, H., Rosé, C., & Stamper, J. (2026). *Cognitive Agent Compilation for Explicit Problem Solver Modeling*. arXiv:2605.07040. Accepted to AIED 2026 Blue Sky.

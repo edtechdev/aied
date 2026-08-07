@@ -29,4 +29,4 @@ Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Ava
 
 ## Citation
 
-**APA:** Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler (2026). *Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars*. arXiv:2606.17786.
+Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler (2026). *Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars*. arXiv:2606.17786.

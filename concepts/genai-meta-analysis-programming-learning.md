@@ -36,13 +36,9 @@ The findings have implications beyond programming — the productivity-learning 
 - How do findings generalize beyond programming to other [[stem-education]] domains?
 - What instructional designs mitigate the learning cost while preserving productivity gains?
 
-## Source
-
-- [https://arxiv.org/abs/2605.04779](https://arxiv.org/abs/2605.04779)
-
 ## Citation
 
-**APA:** Schweisthal, A.S.M.M.G.J., on, A.M.O.T.E.O.G.A., Manuel, S.M.M.G.J.S., 1,2, S.A.S.F., Munich, L.M., Munich, M.C.F.M.L., searched, O.G.C.A.O.P.A.L.W.S., & us-, A.S.W.R.T.C.G.W.U.P. (2026). *A meta-analysis of the effect of generative AI on productivity and learning in programming*. contrast, we find no statistically significant effect of GenAI assistance on learning outcomes (g = 0. https://arxiv.org/abs/2605.04779
+Schweisthal, A.S.M.M.G.J., on, A.M.O.T.E.O.G.A., Manuel, S.M.M.G.J.S., 1,2, S.A.S.F., Munich, L.M., Munich, M.C.F.M.L., searched, O.G.C.A.O.P.A.L.W.S., & us-, A.S.W.R.T.C.G.W.U.P. (2026). [*A meta-analysis of the effect of generative AI on productivity and learning in programming*](https://arxiv.org/abs/2605.04779). contrast, we find no statistically significant effect of GenAI assistance on learning outcomes (g = 0
 
 ## Related Pages
 - [[ai-learning-transfer]]

@@ -29,4 +29,4 @@ While [[llm]]s now enable rapid generation of learning materials like [[ai-gener
 
 ## Citation
 
-**APA:** Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026). *Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations*. arXiv:2606.31012.
+Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026). *Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations*. arXiv:2606.31012.

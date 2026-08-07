@@ -29,4 +29,4 @@ Methodologically, trio-ethnography offers a low-cost reflective instrument for f
 
 ## Citation
 
-**APA:** Ren, McDowell & Zhou (2026). *Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education*. arXiv:2607.22463. arXiv preprint.
+Ren, McDowell & Zhou (2026). *Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education*. arXiv:2607.22463. arXiv preprint.

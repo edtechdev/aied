@@ -22,7 +22,7 @@ PromptDecipher addresses a critical gap in AI tutor deployment: teacher quality 
 
 ## Citation
 
-**APA:** J, A.K.M.X.R.S. (2026). *PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions*. practice, however, teachers rarely fulfill these roles. https://arxiv.org/abs/2605.16605
+J, A.K.M.X.R.S. (2026). [*PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions*](https://arxiv.org/abs/2605.16605). practice, however, teachers rarely fulfill these roles
 
 ## Related Pages
 - [[concept-catalyst-engineering-scaffolds]]

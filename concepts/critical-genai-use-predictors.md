@@ -64,4 +64,4 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 
 ## Citation
 
-**APA:** Hefter, M. H., Paaßen, B., & Berthold, K. (2026). GenAI knowledge, epistemic orientation, and intellectual values predict undergraduate students' critical GenAI use. *AI Educ.*, 2, 27. https://doi.org/10.3390/aieduc2030027
+Hefter, M. H., Paaßen, B., & Berthold, K. (2026). GenAI knowledge, epistemic orientation, and intellectual values predict undergraduate students' critical GenAI use. [*AI Educ.*](https://doi.org/10.3390/aieduc2030027), 2, 27

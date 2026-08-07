@@ -30,7 +30,7 @@ Validated across five diverse educational contexts, levels, and tool designs, re
 
 ## Citation
 
-**APA:** Khosravi, H., Gasevic, D., Sadiq, S., Yan, L., Lodge, J., Tangen, J., Denny, P., & DiCerbo, K. (2026). *Building AI Companions that Prioritise Learning over Performance*. https://arxiv.org/abs/2605.04816
+Khosravi, H., Gasevic, D., Sadiq, S., Yan, L., Lodge, J., Tangen, J., Denny, P., & DiCerbo, K. (2026). [*Building AI Companions that Prioritise Learning over Performance*](https://arxiv.org/abs/2605.04816)
 
 ## Related Pages
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)

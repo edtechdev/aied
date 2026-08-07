@@ -29,4 +29,4 @@ Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cyb
 
 ## Citation
 
-**APA:** Victor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026). *Confident yet Concerned: Inconsistencies in Computing Students&#39; Attitudes on Cybersecurity*. arXiv:2606.18541.
+Victor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026). *Confident yet Concerned: Inconsistencies in Computing Students&#39; Attitudes on Cybersecurity*. arXiv:2606.18541.

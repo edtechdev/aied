@@ -40,7 +40,7 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 
 ## Citation
 
-**APA:** CRPE, S.N. (2026). *How State Policy Can Help Teachers Use AI Well*
+CRPE, S.N. (2026). *How State Policy Can Help Teachers Use AI Well*
 
 ## Related Pages
 - [[regulation]]

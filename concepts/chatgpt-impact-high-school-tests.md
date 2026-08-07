@@ -40,4 +40,4 @@ The seasonal variation identification strategy is innovative for causal inferenc
 
 ## Citation
 
-**APA:** Huntington-Klein, N. (2026). *Little impact of ChatGPT availability on high school student test score performance*. arXiv:2605.08812.
+Huntington-Klein, N. (2026). *Little impact of ChatGPT availability on high school student test score performance*. arXiv:2605.08812.

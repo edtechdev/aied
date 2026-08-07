@@ -100,4 +100,4 @@ This paper provides direct empirical evidence for several wiki threads:
 - [[llm-student-modeling-memory]] — Student modeling for personalized multimodal feedback
 ## Citation
 
-**APA:** Zhao, C. Q., Cao, J., Lin, J., & Koedinger, K. R. (2026). *LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback*. arXiv:2601.15280. Accepted to LAK 2026.
+Zhao, C. Q., Cao, J., Lin, J., & Koedinger, K. R. (2026). *LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback*. arXiv:2601.15280. Accepted to LAK 2026.
