@@ -5527,6 +5527,21 @@
     "url": "pages/llm.html"
   },
   {
+    "slug": "lodge-loble-cognitive-offloading-2026",
+    "title": "Artificial Intelligence, Cognitive Offloading and Implications for Education",
+    "tags": [
+      "ai-literacy",
+      "cognitive-offloading",
+      "equity",
+      "higher-ed",
+      "k-12",
+      "metacognition",
+      "teacher-role"
+    ],
+    "content": "Lodge &amp; Loble (2026) provide a landmark report on the cognitive science of AI in education: the core risk is not plagiarism but cognitive offloading — students outsourcing the mental work required for durable learning. They distinguish beneficial offloading from detrimental outsourcing, introduce metacognitive laziness and a new equity gap, and propose evidence-based pedagogical strategies for moving from atrophy to augmentation. Context With 80% of Australian students already using AI and adoption accelerating globally, the education sector faces a paradox: AI can simultaneously enhance and undermine learning. This report, from the University of Technology Sydney's Australian Network for Quality Digital Education, provides the most comprehensive synthesis to date of how cognitive offloading operates in educational AI use. Core Framework The report builds on cognitive load theory and the science of learning to distinguish two types of offloading: Beneficial offloading: Delegating lower-order cognitive work (calculation, transcription) frees capacity for higher-order thinking — a legitimate cognitive tool, like writing or calculators before it Detrimental offloading (outsourcing): Bypassing the \"desirable difficulties\" — retrieval practice, elaboration, generation — that research shows are essential for building durable knowledge Key Concepts The Performance Paradox AI makes learning tasks feel fluent and easy, producing what feels like mastery. But the cognitive work that AI eliminates is precisely the work that produces lasting learning-gains . Students perform well with AI assistance but retain less — a finding consistent with the cognitive offloading speedup illusion and genai-performance-vs-learning research. Metacognitive Laziness When AI handles cognitive heavy lifting, students develop an illusion of competence — overestimating what they've learned because the AI-generated output feels familiar. This connects to metacognition research showing that accurat",
+    "url": "pages/lodge-loble-cognitive-offloading-2026.html"
+  },
+  {
     "slug": "machines-misread-pedagogical-quality",
     "title": "Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation",
     "tags": [
