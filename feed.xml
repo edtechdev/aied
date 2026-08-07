@@ -6,7 +6,28 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2026 20:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 05:57:01 +0000</lastBuildDate>
+    <item>
+      <title>Feedback Design</title>
+      <link>https://edtechdev.github.io/aied/pages/feedback-design.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/feedback-design.html</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
+    <item>
+      <title>Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation</title>
+      <link>https://edtechdev.github.io/aied/pages/genai-feedback-design-multisite-experiment.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-feedback-design-multisite-experiment.html</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** A multisite, cluster-randomized field experiment (1,176 first-year undergraduates, 48 sections, 4 universities, 3 science domains) compares four feedback designs for scientific argumentation: peer-only, direct GenAI, reflective GenAI (self-evaluation then AI critique), and hybrid (self-evaluation + peer + GenAI). The hybrid condition produced the highest argument-quality gains and clearest advantage on conceptual learning; reflective and hybrid designs both outperformed direct GenAI on delayed AI-free transfer. Findings suggest that GenAI's educational value depends less on AI access than on preserving student agency, evaluative judgment, and ownership during revision.</p>]]></description>
+    </item>
+    <item>
+      <title>Peer Feedback</title>
+      <link>https://edtechdev.github.io/aied/pages/peer-feedback.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/peer-feedback.html</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Stub.**</p>]]></description>
+    </item>
     <item>
       <title>Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module</title>
       <link>https://edtechdev.github.io/aied/pages/aaai2026-prompting-literacy-k12.html</link>
@@ -263,27 +284,6 @@
       <title>Teacher Agency</title>
       <link>https://edtechdev.github.io/aied/pages/teacher-agency.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/teacher-agency.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Stub.**</p>]]></description>
-    </item>
-    <item>
-      <title>Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence</title>
-      <link>https://edtechdev.github.io/aied/pages/teacher-ai-teaming-five-levels.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/teacher-ai-teaming-five-levels.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Synthesis:** Drawing on a systematic literature review, this UCL chapter proposes a five-level framework of teacher-AI teaming—transactional, situational, operational, praxical, and synergistic—to capture how GenAI interactions may replace, complement, or augment teacher competence. The framework moves beyond task division toward collaborative decision-making where teachers and AI engage in negotiation, constructive challenge, and co-reasoning.</p>]]></description>
-    </item>
-    <item>
-      <title>Teacher Support</title>
-      <link>https://edtechdev.github.io/aied/pages/teacher-support.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/teacher-support.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Stub.**</p>]]></description>
-    </item>
-    <item>
-      <title>Teacher Training</title>
-      <link>https://edtechdev.github.io/aied/pages/teacher-training.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/teacher-training.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Stub.**</p>]]></description>
     </item>
