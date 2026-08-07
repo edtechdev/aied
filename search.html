@@ -5,7 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Search - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
+    <style>
+        .search-result {
+            margin-bottom: 1rem;
+            padding: 1rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 8px;
+        }
+        .search-result h3 { margin-top: 0; }
+        .search-result .snippet {
+            font-size: 0.85rem;
+            color: var(--muted-color);
+            margin-top: 0.3rem;
+            line-height: 1.4;
+            max-height: 3.5em;
+            overflow: hidden;
+        }
+        .search-result .meta {
+            font-size: 0.72rem;
+            color: var(--muted-color);
+            margin-top: 0.3rem;
+        }
+    </style>
 </head>
 <body>
     <header class="container">
@@ -20,87 +41,80 @@
         <h1>Search AI Ed Wiki</h1>
     </header>
     <main class="container">
-        <input type="text" id="search-input" placeholder="Type to search (min 2 chars)..." style="width:100%; padding:0.75rem; margin-bottom:1rem;">
+        <input type="text" id="search-input" placeholder="Type to search..." style="width:100%; padding:0.75rem; margin-bottom:1rem;">
+        <p id="status" style="color:var(--muted-color);"></p>
         <div id="results"></div>
     </main>
+
+    <script src="search_index.js"></script>
     <script>
-        let index;
-        let pages = [];
-
-        fetch('search_index.json')
-            .then(res => res.json())
-            .then(data => {
-                pages = data;
-                index = new FlexSearch.Document({
-                    tokenize: 'forward',
-                    document: {
-                        id: 'id',
-                        index: ['title', 'tags', 'content'],
-                        store: ['title', 'url', 'tags']
-                    }
-                });
-                data.forEach((page, i) => {
-                    index.add({
-                        id: i,
-                        title: page.title,
-                        tags: page.tags.join(' '),
-                        content: page.content
-                    });
-                });
-            })
-            .catch(err => {
-                document.getElementById('results').innerHTML = '<p style="color:red;">Error loading search index: ' + err.message + '</p>';
-            });
-
-        document.getElementById('search-input').addEventListener('input', function(e) {
-            const query = e.target.value.trim();
-            const resultsDiv = document.getElementById('results');
-            resultsDiv.innerHTML = '';
-
-            if (query.length < 2) {
-                resultsDiv.innerHTML = '<p>Type at least 2 characters to search.</p>';
-                return;
-            }
+        (function() {
+            var input = document.getElementById('search-input');
+            var resultsDiv = document.getElementById('results');
+            var status = document.getElementById('status');
+            var index = window.SEARCH_INDEX;
 
             if (!index) {
-                resultsDiv.innerHTML = '<p>Index still loading, please wait...</p>';
+                status.textContent = 'Error: search index failed to load.';
                 return;
             }
 
-            const results = index.search(query, { limit: 20, enrich: true });
-            if (!results || results.length === 0) {
-                resultsDiv.innerHTML = '<p>No results found.</p>';
-                return;
+            status.textContent = index.length + ' pages indexed. Type to search.';
+
+            // Check for ?q= query parameter
+            var params = new URLSearchParams(window.location.search);
+            var q = params.get('q');
+            if (q) {
+                input.value = q;
+                doSearch(q);
             }
 
-            // FlexSearch.Document.search() returns an array of field result objects:
-            // [{ field: "title", result: [...] }, { field: "tags", result: [...] }, ...]
-            // We deduplicate by ID since the same doc can match in multiple fields.
-            const seen = new Set();
-            const matches = [];
-            results.forEach(fieldResult => {
-                (fieldResult.result || []).forEach(match => {
-                    if (seen.has(match.id)) return;
-                    seen.add(match.id);
-                    matches.push(match);
-                });
+            input.addEventListener('input', function(e) {
+                var query = e.target.value.trim();
+                if (query.length < 2) {
+                    resultsDiv.innerHTML = '<p style="color:var(--muted-color);">Type at least 2 characters to search.</p>';
+                    return;
+                }
+                doSearch(query);
             });
 
-            if (matches.length === 0) {
-                resultsDiv.innerHTML = '<p>No results found.</p>';
-                return;
+            function doSearch(query) {
+                var q = query.toLowerCase();
+                var matches = [];
+                for (var i = 0; i < index.length; i++) {
+                    var page = index[i];
+                    var searchText = (page.title + ' ' + page.tags.join(' ') + ' ' + page.content).toLowerCase();
+                    if (searchText.indexOf(q) !== -1) {
+                        matches.push(page);
+                    }
+                }
+
+                if (matches.length === 0) {
+                    resultsDiv.innerHTML = '<p style="color:var(--muted-color);">No results found for "<strong>' + escapeHtml(query) + '</strong>".</p>';
+                    return;
+                }
+
+                var html = '<p style="color:var(--muted-color);margin-bottom:1rem;">' + matches.length + ' result' + (matches.length !== 1 ? 's' : '') + ' for "<strong>' + escapeHtml(query) + '</strong>"</p>';
+                for (var j = 0; j < matches.length; j++) {
+                    var p = matches[j];
+                    var snippet = p.content.substring(0, 250);
+                    var idx = snippet.toLowerCase().indexOf(q);
+                    if (idx > 30) snippet = '...' + snippet.substring(idx - 20);
+                    html += '<div class="search-result">'
+                        + '<h3><a href="' + p.url + '">' + p.title + '</a></h3>'
+                        + '<div class="snippet">' + escapeHtml(snippet) + (p.content.length > 250 ? '...' : '') + '</div>'
+                        + '<div class="meta">' + (p.tags.length ? p.tags.join(', ') : 'No tags') + '</div>'
+                        + '</div>';
+                }
+                resultsDiv.innerHTML = html;
             }
 
-            matches.forEach(match => {
-                const page = pages[match.id];
-                if (!page) return;
-                const tags = (page.tags || []).join(', ') || 'No tags';
-                resultsDiv.innerHTML += `<div style="margin-bottom:1rem; padding:1rem; border:1px solid #ddd; border-radius:8px;">
-                    <h3><a href="${page.url}">${page.title}</a></h3>
-                    <p><small>Tags: ${tags}</small></p>
-                </div>`;
-            });
-        });
+            function escapeHtml(text) {
+                var div = document.createElement('div');
+                div.appendChild(document.createTextNode(text));
+                return div.innerHTML;
+            }
+        })();
     </script>
 </body>
 </html>
