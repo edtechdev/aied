@@ -103,3 +103,4 @@ For example:
 - [[student-cheat-sheets-make-or-take]] — Students choose between self-created and instructor-provided cheat sheets based on trust, personaliz
 - [[genai-performance-vs-learning]] — SRL cycle disrupted by performance-only AI use- [[llm-reasoning-traces-metacognition]] — Metacognitive calibration requires active reasoning before AI exposure
 - [[metacognitive-learning-scenarios-taxonomy]] — Taxonomy operationalizes SRL progression from novice to expert
+- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler tool for metacognitive scaffolding during GenAI use

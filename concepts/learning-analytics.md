@@ -60,3 +60,4 @@ confidence: low
 - [[llm-facilitation-timing-online-discussions]]
 - [[league-ethical-governance-student-data-2026]] — related concept
 - [[lak2026-hint-button-unproductive-use]]
+- [[precision-education-student-digital-twins-2026]] — precision education framework using AI-powered student digital twins

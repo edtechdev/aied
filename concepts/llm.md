@@ -51,3 +51,4 @@ confidence: low
 - [[chat-debugging-llm-hardware-education-2026]] — related
 - [[aaai2026-prompting-literacy-k12]]
 - [[instructional-agents-multi-agent-course-gen]]
+- [[llm-turing-test-italian-legal-exams-2026]] — blind Turing test on Italian legal professional exams

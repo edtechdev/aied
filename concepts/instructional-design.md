@@ -27,3 +27,5 @@ confidence: low
 - [[genai-marketing-education-roles-2026]] — related concept
 - [[calibrating-trustworthiness-llm-education-2026]] — related concept
 - [[instructional-agents-multi-agent-course-gen]]
+- [[coursegraph-cs-course-comparison-2026]] — CourseGraph for evaluating CS course equivalence across universities
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — analysis of AI-assisted SE syllabi across 23 university courses
