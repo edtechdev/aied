@@ -1,25 +1,26 @@
 ---
-title: Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
+title: "Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-08-07
 type: concept
 tags: [intelligent-tutoring, student-experience, hallucination-risk, trust-calibration]
 sources: [raw/papers/2606.03822.md]
-confidence: high
+confidence: medium
 ---
-# Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
-**Nagashima et al. (2026)** — ArXiv.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.03822)
 
-Lightweight transparency cues (warnings about possible AI errors) increased hint requests in a math ITS, likely due to responsibility shifting or verification needs. [[intelligent-tutoring]], [[student-experience]], [[hallucination-risk]], [[scaffolding]], [[active-learning]].
+> **Synthesis:** Recent work in Technology-Enhanced Learning and HumanComputer Interaction highlights the importance of transparency and trust calibration in AI-supported learning environments as they pose a risk of hallucinations. In this study, we investigate whether a simple transparency intervention that warns s
+
+# Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
+
+## Abstract
+
+Recent work in Technology-Enhanced Learning and HumanComputer Interaction highlights the importance of transparency and trust calibration in AI-supported learning environments as they pose a risk of hallucinations. In this study, we investigate whether a simple transparency intervention that warns students that a pedagogical agent may make mistakes affects learner behavior in a math intelligent tutoring system. We conducted a classroom experiment with 252 school students using two system versions: one including a warning message about potential system errors, and one that does not mention potential errors. Using log data, we analyzed students’ problem-solving performance data, including help-seeking behavior, error rate, and time-on-task. Results show that students who were warned about po
+
+## Source
+
+- [https://arxiv.org/abs/2606.03822](https://arxiv.org/abs/2606.03822)
 
 ## Related Pages
-- [[ai-literacy]] — Literacy frameworks
-- [[scaffolding]] — Educational scaffolding techniques
-- [[intelligent-tutoring]] — ITS research
-- [[cs-education]] — Computer science pedagogy
-- [[mastery-learning]] — Independent learning goals
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors
-
-## Citation
-**APA:** Nagashima et al. (2026). *Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System*. arXiv:2606.03822.
+- [[intelligent-tutoring]]
+- [[student-experience]]
+- [[hallucination-risk]]

@@ -1,26 +1,24 @@
 ---
 title: "Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design"
-created: 2026-08-01
-updated: 2026-08-01
+created: 2026-06-03
+updated: 2026-08-07
 type: concept
 tags: [ai-literacy, k-12, computational-thinking, instructional-design]
-sources: ["raw/papers/caeai-ml-literacy-primary.md"]
-confidence: high
+sources: [raw/papers/caeai-ml-literacy-primary.md]
+confidence: medium
 ---
+
+> **Synthesis:** Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design
 
 # Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design
 
-**Authors:** Siu Cheung Kong, Qiaoyi Wang
-**Source:** [Computers and Education: AI, Vol 11](https://doi.org/10.1016/j.caeai.2026.100631) — Open Access (CC BY 4.0)
 
-## Key Findings
+## Source
 
-Designed and validated a 6-8 hour course teaching ML concepts to 752 primary students. Used guided worksheets, hands-on robot interaction, and iterative refinement. Students comprehended supervised learning and reinforcement learning (KNN, ANN). Fostered reflective thinking by comparing ML and human learning processes. Confirms feasibility of early ML education at scale.
+- [https://doi.org/10.1016/j.caeai.2026.100631](https://doi.org/10.1016/j.caeai.2026.100631)
 
 ## Related Pages
-
 - [[ai-literacy]]
 - [[k-12]]
 - [[computational-thinking]]
 - [[instructional-design]]
-- [[k-12-ai-education]]
