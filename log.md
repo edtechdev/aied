@@ -1,5 +1,16 @@
 
 
+## [2026-08-07] ingest | 5 arXiv papers (cron daily scan)
+
+- AI-powered precision education with student digital twins (arXiv:2608.06322) — [[precision-education-student-digital-twins-2026]]
+- blind Turing test on Italian legal professional exams (arXiv:2608.06166) — [[llm-turing-test-italian-legal-exams-2026]]
+- CourseGraph for evaluating CS course equivalence across universities (arXiv:2608.05910) — [[coursegraph-cs-course-comparison-2026]]
+- analysis of AI-assisted SE syllabi across 23 university courses (arXiv:2608.05898) — [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
+- Vibe Compiler tool for metacognitive scaffolding during GenAI use (arXiv:2608.05545) — [[vibe-compiler-metacognition-genai-agency-2026]]
+- 27 back-links across 21 pages; Index: 654 pages; Journal: 474 entries
+- Sources: arXiv cs.CY (5 papers), arXiv cs.HC (0 additional — 1 cross-listing); S2: 1 result out-of-window; OpenAlex: 10 results all future-dated Dec 2026 (0 in-window)
+## [2026-08-07] meta | scan-complete
+
 ## [2026-08-06] ingest | 6 arXiv papers (cron daily scan)
 
 - Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning (arXiv:2608.04892) — [[ai-powered-personalized-learning-elementary-fractions-2026]]

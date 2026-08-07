@@ -17,3 +17,4 @@ confidence: low
 - [[post-instrumental-learning-capacity-dissolution]]
 - [[ai-literacy-power-knowledge]]
 - [[generative-refusal-ai-tools-for-thought]]
+- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler tool for metacognitive scaffolding during GenAI use

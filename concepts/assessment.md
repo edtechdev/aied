@@ -22,3 +22,4 @@ confidence: low
 - [[llm-item-difficulty-prediction]] — LLM reasoning traces for item difficulty estimation
 - [[responsible-assessment-ai-era-stanford-2026]] — Stanford Accelerator for Learning + ETS report reframing assessment for the AI era
 - [[behaviorally-adaptive-visual-diversion-assessment-2026]] — related concept
+- [[llm-turing-test-italian-legal-exams-2026]] — blind Turing test on Italian legal professional exams

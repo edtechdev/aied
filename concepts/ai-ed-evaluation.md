@@ -23,3 +23,4 @@ confidence: low
 - [[machines-misread-pedagogical-quality]] -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a larger alignment effect than rationale-first evaluation, and the two are complementary.
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept
 - [[calibrating-trustworthiness-llm-education-2026]] — related concept
+- [[llm-turing-test-italian-legal-exams-2026]] — blind Turing test on Italian legal professional exams

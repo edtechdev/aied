@@ -30,3 +30,4 @@ confidence: low
 - [[genai-mindtool-generative-learning]]
 - [[genai-expertise-pathways-sysadmin]]
 - [[cognitive-commons-ai-expertise-regeneration]]
+- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler tool for metacognitive scaffolding during GenAI use

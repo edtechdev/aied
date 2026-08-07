@@ -28,3 +28,4 @@ confidence: low
 - [[llm-item-difficulty-prediction]] — Cognitive episode modeling from LLM reasoning traces
 - [[cogtax-cognitive-taxonomy]] — student modeling approaches
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept
+- [[precision-education-student-digital-twins-2026]] — precision education framework using AI-powered student digital twins

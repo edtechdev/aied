@@ -122,3 +122,4 @@ confidence: low
 - [[lak2026-hint-button-unproductive-use]]
 - [[aaai2026-prompting-literacy-k12]]
 - [[knowloop-confusion-to-consolidation-2026]]
+- [[coursegraph-cs-course-comparison-2026]] — CourseGraph for evaluating CS course equivalence across universities

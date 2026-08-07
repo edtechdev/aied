@@ -19,3 +19,5 @@ confidence: low
 - [[ai-adoption-training-public-sector]]
 - [[connected-ai-lesson-planning-vietnam]]
 - [[egai-power-systems-education]] — Hands-on executable framework for engineering-grounded AI in power systems education
+- [[coursegraph-cs-course-comparison-2026]] — CourseGraph for evaluating CS course equivalence across universities
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — analysis of AI-assisted SE syllabi across 23 university courses
