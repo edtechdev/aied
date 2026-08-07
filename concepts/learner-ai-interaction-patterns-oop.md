@@ -37,4 +37,4 @@ The work connects to broader discussions in AI and education around [[student-ex
 
 ## Citation
 
-**APA:** Marina Lepp (2026). *Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course*. arXiv:2607.24755. cs.HC, cs.AI, cs.CY.
+Marina Lepp (2026). *Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course*. arXiv:2607.24755. cs.HC, cs.AI, cs.CY.

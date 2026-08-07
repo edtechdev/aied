@@ -31,4 +31,4 @@ The finding that full automation reduces cognitive engagement echoes the [[over-
 
 ## Citation
 
-**APA:** Kashika Khurana, Ally Liew (2026). *An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students*. arXiv:2606.26579. arXiv cs.HC / cs.CY.
+Kashika Khurana, Ally Liew (2026). *An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students*. arXiv:2606.26579. arXiv cs.HC / cs.CY.

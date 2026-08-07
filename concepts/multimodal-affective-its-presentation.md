@@ -22,7 +22,7 @@ This paper presents one of the most comprehensive closed-loop [[intelligent-tuto
 
 ## Citation
 
-**APA:** K.-E, A.S.H.H. & Technologies, V.I.T.O.L. (2026). *An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training*. https://arxiv.org/abs/2605.17468
+K.-E, A.S.H.H. & Technologies, V.I.T.O.L. (2026). [*An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training*](https://arxiv.org/abs/2605.17468)
 
 ## Related Pages
 - [[ai-enabled-serious-games]] — Complements multimodal ITS architectures with game-based training contexts

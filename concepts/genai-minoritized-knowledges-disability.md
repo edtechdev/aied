@@ -49,4 +49,4 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 
 ## Citation
 
-**APA:** Tali-Otmani, F. (2026). *Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability*. arXiv:2605.26769.
+Tali-Otmani, F. (2026). *Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability*. arXiv:2605.26769.

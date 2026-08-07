@@ -29,4 +29,4 @@ Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficie
 
 ## Citation
 
-**APA:** Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026). *The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization*. arXiv:2606.15902. NextGen Learning Interfaces Workshop, AIED 2026.
+Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026). *The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization*. arXiv:2606.15902. NextGen Learning Interfaces Workshop, AIED 2026.

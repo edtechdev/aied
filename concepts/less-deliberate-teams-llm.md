@@ -31,4 +31,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-**APA:** Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal (2026). *Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work*. arXiv:2606.30860. ACM SIGCSE Virtual 2026, submitted 29 Jun 2026
+Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal (2026). *Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work*. arXiv:2606.30860. ACM SIGCSE Virtual 2026, submitted 29 Jun 2026

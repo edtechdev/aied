@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[spaced-rep
 
 ## Citation
 
-**APA:** Ruiyang Zhang (2026). *Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition*. arXiv:2607.25096. cs.HC.
+Ruiyang Zhang (2026). *Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition*. arXiv:2607.25096. cs.HC.

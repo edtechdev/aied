@@ -34,4 +34,4 @@ The cross-context pilot in Italy and China provides initial evidence of feasibil
 
 ## Citation
 
-**APA:** Pier Paolo Benedetti (2026). *Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China*. arXiv:2605.20665. arXiv:2605.20665 [cs.HC] — Accepted at ICAIE 2026.
+Pier Paolo Benedetti (2026). *Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China*. arXiv:2605.20665. arXiv:2605.20665 [cs.HC] — Accepted at ICAIE 2026.

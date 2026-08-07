@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[automated-
 
 ## Citation
 
-**APA:** Shengjie Li, Vincent Ng (2026). *ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring*. arXiv:2607.27671. cs.CL.
+Shengjie Li, Vincent Ng (2026). *ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring*. arXiv:2607.27671. cs.CL.

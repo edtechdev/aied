@@ -36,4 +36,4 @@ A key part of developing large language model (LLM)-powered, automated tutoring 
 
 ## Citation
 
-**APA:** Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, & Andrew Lan (2026). *Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues*. arXiv:2605.30051. arXiv preprint.
+Zhangqi Duan, Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Simon Woodhead, & Andrew Lan (2026). *Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues*. arXiv:2605.30051. arXiv preprint.

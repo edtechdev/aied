@@ -29,4 +29,4 @@ ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpil
 
 ## Citation
 
-**APA:** Ethan Chew, Enjia Wu, Iruss Eng Wei Yeow, Ian Weiqin Lim, Ranen Sim, Brandon Koh Ziheng, Kaleb Nim, Caden Toh Jun Yi, Wei Dong Soin, Darius Kai Keat Koh, Galen King Yu Tay, Prannaya Gupta, Jonathan Ee Fang Koong, Yong Zhi Lim (2026). *ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots*. arXiv:2606.18319.
+Ethan Chew, Enjia Wu, Iruss Eng Wei Yeow, Ian Weiqin Lim, Ranen Sim, Brandon Koh Ziheng, Kaleb Nim, Caden Toh Jun Yi, Wei Dong Soin, Darius Kai Keat Koh, Galen King Yu Tay, Prannaya Gupta, Jonathan Ee Fang Koong, Yong Zhi Lim (2026). *ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots*. arXiv:2606.18319.

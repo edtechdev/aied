@@ -142,13 +142,9 @@ This review is a **keystone synthesis** connecting multiple threads in the AI ed
 
 The review's core insight — that ChatGPT's cognitive effects are contingent on pedagogy, not inherent to the technology — reinforces a pattern visible across the wiki: **AI in education succeeds or fails based on how it is implemented, not what it can do.**
 
-## Source
-
-- [https://www.sciencedirect.com/science/article/pii/S2666920X26000330](https://www.sciencedirect.com/science/article/pii/S2666920X26000330)
-
 ## Citation
 
-**APA:** 100571, J.C.A.E.A.I.V.J., Access), L.C.B., 100571, C.A.E.A.C.I., ScienceDirect, C.L.A.A., Intelligence, C.A.E.A., review, T.C.I.O.C.I.H.E.A.S., & c, C.L.A.H.C.B.L.S.H. (2026). *ChatGPT Critical and Creative Thinking: Systematic Review*
+100571, J.C.A.E.A.I.V.J., Access), L.C.B., 100571, C.A.E.A.C.I., ScienceDirect, C.L.A.A., Intelligence, C.A.E.A., review, T.C.I.O.C.I.H.E.A.S., & c, C.L.A.H.C.B.L.S.H. (2026). *ChatGPT Critical and Creative Thinking: Systematic Review*
 
 ## Related Pages
 - [[critical-genai-use-predictors]] — Disposition toward critical thinking predicts critical use

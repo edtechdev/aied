@@ -29,4 +29,4 @@ Evaluates cross-dataset generalization of ML/DL methods and LLMs for automatic B
 
 ## Citation
 
-**APA:** Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, Gábor Kismihók (2026). *Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs*. arXiv:2606.13684. AIED 2026.
+Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, Gábor Kismihók (2026). *Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs*. arXiv:2606.13684. AIED 2026.

@@ -26,4 +26,4 @@ Brisson, Segarra and Smits present a didactically-driven LLM teacher assistant f
 
 ## Citation
 
-**APA:** Laurent Brisson, Maria Segarra, Grégory Smits (2026). *A didactical-driven teacher assistant for a dimensional modeling course*. arXiv:2607.22598.
+Laurent Brisson, Maria Segarra, Grégory Smits (2026). *A didactical-driven teacher assistant for a dimensional modeling course*. arXiv:2607.22598.

@@ -69,7 +69,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 
 ## Citation
 
-**APA:** RAG-Based, C.A.H., Question, A.A.S.F.M., Frederick, X.D., Wang1, A.C., multiple-choice, A.A.I.W.A.G.A.P., 2,016, J.A.Q.T.S.P.A.T.O., & generation, H.A.A.E.I.A.E.C. (2026). *CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation*. https://arxiv.org/abs/2604.03926
+RAG-Based, C.A.H., Question, A.A.S.F.M., Frederick, X.D., Wang1, A.C., multiple-choice, A.A.I.W.A.G.A.P., 2,016, J.A.Q.T.S.P.A.T.O., & generation, H.A.A.E.I.A.E.C. (2026). [*CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation*](https://arxiv.org/abs/2604.03926)
 
 ## Related Pages
 

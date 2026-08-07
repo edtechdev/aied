@@ -98,4 +98,4 @@ This paper directly informs several threads in the wiki:
 - [[engagement-assessment-video]] — Measuring engagement in learning contexts
 ## Citation
 
-**APA:** Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R. (2026). *Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning*. arXiv:2604.07469.
+Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R. (2026). *Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning*. arXiv:2604.07469.

@@ -29,4 +29,4 @@ An interview study with 19 computing students through a functionalist perspectiv
 
 ## Citation
 
-**APA:** Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, Stephen MacNeil (2026). *"Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education*. arXiv:2606.14920. arXiv preprint.
+Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, Stephen MacNeil (2026). *"Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education*. arXiv:2606.14920. arXiv preprint.

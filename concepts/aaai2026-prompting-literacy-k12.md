@@ -70,13 +70,9 @@ The study demonstrates that [[prompting-literacy]] can be taught effectively to 
 3. **Assessment aligned to competency** — open-ended + T/F outperform MCQs for higher-order prompting skills
 4. **Addressing the digital divide** — prior AI access correlates with initial performance, underscoring the need for in-school prompting literacy instruction
 
-## Source
-
-- [https://doi.org/10.1609/aaai.v40i28.36924](https://doi.org/10.1609/aaai.v40i28.36924)
-
 ## Citation
 
-**APA:** Module, S.T.A.A.L., Koedinger1, K.R., Mellon, C., Hua, N.T., Model, T.A.T.N.W.D.A.L., reserved, I.A.R., & education, W.A.C.H.P.F.K. (2026). *Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module*. https://doi.org/10.1609/aaai.v40i28.36924
+Module, S.T.A.A.L., Koedinger1, K.R., Mellon, C., Hua, N.T., Model, T.A.T.N.W.D.A.L., reserved, I.A.R., & education, W.A.C.H.P.F.K. (2026). [*Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module*](https://doi.org/10.1609/aaai.v40i28.36924)
 
 ## Related Pages
 

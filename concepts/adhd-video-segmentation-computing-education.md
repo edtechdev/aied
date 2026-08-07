@@ -26,4 +26,4 @@ Pimenova, Begel and colleagues evaluate a post-hoc video processing intervention
 
 ## Citation
 
-**APA:** Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, Andrew Begel (2026). *Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education*. arXiv:2607.24612.
+Veronica Pimenova, Chris Lee, Baramee Bhakdibhumi, Simon Chu, Andrew Begel (2026). *Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education*. arXiv:2607.24612.

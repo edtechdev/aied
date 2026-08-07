@@ -29,4 +29,4 @@ Epistemic thinking — understanding how knowledge is constructed and justified 
 
 ## Citation
 
-**APA:** Mengqian Wu (2026). *Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming*. arXiv:2607.00211.
+Mengqian Wu (2026). *Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming*. arXiv:2607.00211.

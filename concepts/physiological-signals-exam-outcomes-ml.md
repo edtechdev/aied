@@ -29,4 +29,4 @@ Investigates ML models to predict exam outcomes from physiological data (electro
 
 ## Citation
 
-**APA:** Lala Yamazaki, Ramchandra Rimal (2026). *Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning*. arXiv:2606.14960. arXiv preprint.
+Lala Yamazaki, Ramchandra Rimal (2026). *Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning*. arXiv:2606.14960. arXiv preprint.

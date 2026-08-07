@@ -63,4 +63,4 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 
 ## Citation
 
-**APA:** Qiu, E. S., Thomas, D. R., Guo, B., Aleven, V., & Borchers, C. (2026). *From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning.* arXiv:2605.12788. EDM 2026.
+Qiu, E. S., Thomas, D. R., Guo, B., Aleven, V., & Borchers, C. (2026). *From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning.* arXiv:2605.12788. EDM 2026.

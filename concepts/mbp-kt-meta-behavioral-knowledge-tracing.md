@@ -31,4 +31,4 @@ The parameter-free global extraction module makes this broadly applicable — ex
 
 ## Citation
 
-**APA:** Jia et al. (2026). *MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing*. arXiv:2605.08697. arXiv preprint.
+Jia et al. (2026). *MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing*. arXiv:2605.08697. arXiv preprint.

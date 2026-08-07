@@ -27,4 +27,4 @@ Systematic study of domain-adapted text-to-image models for nuclear engineering 
 
 ## Citation
 
-**APA:** Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, & Majdi I. Radaideh (2026). *NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts*. arXiv:2608.04030. arXiv preprint (cross-listed cs.GR/cs.CY).
+Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, & Majdi I. Radaideh (2026). *NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts*. arXiv:2608.04030. arXiv preprint (cross-listed cs.GR/cs.CY).

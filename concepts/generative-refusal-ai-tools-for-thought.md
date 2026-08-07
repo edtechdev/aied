@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[generative
 
 ## Citation
 
-**APA:** Sora Kang (2026). *Stop Writing for Me: Generative Refusal in AI Tools for Thought*. arXiv:2607.24751. cs.HC.
+Sora Kang (2026). *Stop Writing for Me: Generative Refusal in AI Tools for Thought*. arXiv:2607.24751. cs.HC.

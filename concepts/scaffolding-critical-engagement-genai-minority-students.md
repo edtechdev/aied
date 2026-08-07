@@ -36,4 +36,4 @@ Results indicate pedagogical scaffolding can transform how minoritized students 
 
 ## Citation
 
-**APA:** Wang, D., & Bian, C. (2026). Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse in prompt engineering tasks. AIED 2026. arXiv:2607.28630.
+Wang, D., & Bian, C. (2026). Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse in prompt engineering tasks. AIED 2026. arXiv:2607.28630.

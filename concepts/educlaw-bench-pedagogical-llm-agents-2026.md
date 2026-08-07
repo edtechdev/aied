@@ -36,4 +36,4 @@ Large language models (LLMs) power educational applications from tutoring to ess
 
 ## Citation
 
-**APA:** Unggi Lee, Sookbun Lee, Yeil Jeong, Eunjoo Lee, Minchul Shin, & Hoilym Kwon (2026). *EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners*. arXiv:2608.03206. arXiv:2608.03206 [cs.CY].
+Unggi Lee, Sookbun Lee, Yeil Jeong, Eunjoo Lee, Minchul Shin, & Hoilym Kwon (2026). *EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners*. arXiv:2608.03206. arXiv:2608.03206 [cs.CY].

@@ -99,7 +99,7 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 
 ## Citation
 
-**APA:** accuracy?, H.D.R.C.W.C.D.I.P., predictions?, H.D.R.P.I.E.O.S.K., & 2021, O.L.E.M.C.S. (2026). *Neural-Symbolic Knowledge Tracing*. https://arxiv.org/abs/2604.08263
+accuracy?, H.D.R.C.W.C.D.I.P., predictions?, H.D.R.P.I.E.O.S.K., & 2021, O.L.E.M.C.S. (2026). [*Neural-Symbolic Knowledge Tracing*](https://arxiv.org/abs/2604.08263)
 
 ## Related Pages
 

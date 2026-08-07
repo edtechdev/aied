@@ -34,4 +34,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-**APA:** Haein Kong (2026). *Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework*. arXiv:2607.00395. HEAL Workshop at CHI 2026, submitted 1 Jul 2026
+Haein Kong (2026). *Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework*. arXiv:2607.00395. HEAL Workshop at CHI 2026, submitted 1 Jul 2026

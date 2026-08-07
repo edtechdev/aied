@@ -32,4 +32,4 @@ The central finding is a **dual positioning**: ChatGPT is consistently framed as
 
 ## Citation
 
-**APA:** Grume et al. (2026). *Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education*. arXiv:2605.00361. Pedagogical Innovations in CS Education (IGI Global).
+Grume et al. (2026). *Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education*. arXiv:2605.00361. Pedagogical Innovations in CS Education (IGI Global).

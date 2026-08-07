@@ -36,4 +36,4 @@ Preliminary data show shifting student behaviors and complex relationships betwe
 
 ## Citation
 
-**APA:** Geng, S., Lallos-Harrell, H., Ashar, J., McKenna, T. J., Dasgupta, A., Farny, C., & Lejeune, E. (2026). Structured AI demonstrations and student LLM use in engineering mechanics: Study design and preliminary results. arXiv:2607.28710.
+Geng, S., Lallos-Harrell, H., Ashar, J., McKenna, T. J., Dasgupta, A., Farny, C., & Lejeune, E. (2026). Structured AI demonstrations and student LLM use in engineering mechanics: Study design and preliminary results. arXiv:2607.28710.

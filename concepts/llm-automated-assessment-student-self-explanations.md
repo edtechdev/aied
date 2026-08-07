@@ -46,4 +46,4 @@ This work extends the [[automated-grading]] landscape by addressing a specific g
 
 ## Citation
 
-**APA:** Lekshmi-Narayanan, A.-B., Hassany, M., & Brusilovsky, P. (2026). *Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education*. arXiv:2605.21614.
+Lekshmi-Narayanan, A.-B., Hassany, M., & Brusilovsky, P. (2026). *Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education*. arXiv:2605.21614.

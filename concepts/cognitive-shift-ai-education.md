@@ -66,4 +66,4 @@ For instructors, these results suggest that AI education should explicitly surfa
 
 ## Citation
 
-**APA:** Rekik, I. (2026). *Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?* arXiv:2605.16292. ICLR HCAIR Workshop 2026.
+Rekik, I. (2026). *Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?* arXiv:2605.16292. ICLR HCAIR Workshop 2026.

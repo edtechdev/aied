@@ -26,4 +26,4 @@ Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior softwa
 
 ## Citation
 
-**APA:** Helen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026). *Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets*. arXiv:2607.24736.
+Helen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026). *Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets*. arXiv:2607.24736.

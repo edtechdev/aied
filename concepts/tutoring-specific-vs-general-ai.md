@@ -61,7 +61,7 @@ sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md]
 
 ## Citation
 
-**APA:** Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). *Tutoring-Specific vs. General-Purpose AI in Education*. https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf
+Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*Tutoring-Specific vs. General-Purpose AI in Education*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
 
 ## Related Pages
 - [[difficulty-aware-dialogue-kt]] — General LLMs reframed as psychometric instruments through IRT mapping

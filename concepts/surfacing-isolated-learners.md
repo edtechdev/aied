@@ -45,10 +45,6 @@ This is one of the first systems to operationalize **human-AI co-agency** in cla
 - Preliminary findings — not yet generalizable across diverse contexts
 - Weights set by researcher co-design, not learned from data
 
-## Source
-
-- [https://arxiv.org/abs/2605.29240](https://arxiv.org/abs/2605.29240)
-
 ## Related Pages
 
 - [[learning-analytics-dashboards]] — Extends analytics with interpretable topic prioritization
@@ -60,4 +56,4 @@ This is one of the first systems to operationalize **human-AI co-agency** in cla
 
 ## Citation
 
-**APA:** Park, J., Medhat, Y., Wai, H. P., Thajchayapong, P., & Goel, A. K. (2026). *Surfacing isolated learners with outcome-independent mediation of feedback between teachers and students using AI*. arXiv:2605.29240. HAI-Agency Workshop, AIED 2026.
+Park, J., Medhat, Y., Wai, H. P., Thajchayapong, P., & Goel, A. K. (2026). *Surfacing isolated learners with outcome-independent mediation of feedback between teachers and students using AI*. arXiv:2605.29240. HAI-Agency Workshop, AIED 2026.

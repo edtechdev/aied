@@ -63,7 +63,7 @@ This suggests that **metacognitive support and motivation are not identical**. T
 
 ## Citation
 
-**APA:** Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). *Metacognition*. https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf
+Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*Metacognition*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
 
 ## Related Pages
 - [[ai-writing-support-stage-ownership-2026]] — Ownership of cognitive work by writing stage

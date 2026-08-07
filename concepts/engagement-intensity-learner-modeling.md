@@ -29,4 +29,4 @@ Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruc
 
 ## Citation
 
-**APA:** Yongkyung Oh, Lynn Talton, Alex Bui (2026). *Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction*. arXiv:2606.18548.
+Yongkyung Oh, Lynn Talton, Alex Bui (2026). *Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction*. arXiv:2606.18548.

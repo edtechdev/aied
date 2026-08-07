@@ -29,4 +29,4 @@ Investigates LLM chatbots' performance on 70 MCQs for a university CS lecture on
 
 ## Citation
 
-**APA:** Markos Stamatakis, Omkar Gavali, Joshua Berger, Christian Wartena, Anett Hoppe, Ralph Ewerth (2026). *Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?*. arXiv:2606.15919. arXiv preprint.
+Markos Stamatakis, Omkar Gavali, Joshua Berger, Christian Wartena, Anett Hoppe, Ralph Ewerth (2026). *Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?*. arXiv:2606.15919. arXiv preprint.

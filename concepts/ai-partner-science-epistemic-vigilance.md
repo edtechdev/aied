@@ -29,4 +29,4 @@ Argues that epistemic vigilance — the human evaluation of AI output calibrated
 
 ## Citation
 
-**APA:** Marcus Kubsch (2026). *AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation*. arXiv:2606.16822. arXiv preprint (physics.ed-ph).
+Marcus Kubsch (2026). *AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation*. arXiv:2606.16822. arXiv preprint (physics.ed-ph).

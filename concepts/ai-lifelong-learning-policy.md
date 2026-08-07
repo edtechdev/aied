@@ -35,4 +35,4 @@ Key tensions identified include the promise of [[intelligent-tutoring]] and [[le
 
 ## Citation
 
-**APA:** Andresa Theodora, Nikolaos Tselios (2026). *Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy*. arXiv:2605.16296. arXiv:2605.16296 [cs.CY].
+Andresa Theodora, Nikolaos Tselios (2026). *Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy*. arXiv:2605.16296. arXiv:2605.16296 [cs.CY].

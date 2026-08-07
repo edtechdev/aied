@@ -43,4 +43,4 @@ This work extends research on [[llm-student-simulation-misconception-faithfulnes
 
 ## Citation
 
-**APA:** Keramati, A., Cao, J., Mohammadi, I., Warschauer, M., & Shi, Y. (2026). *Simulating Students' Java Programming Errors with Large Language Models*. arXiv:2606.14113.
+Keramati, A., Cao, J., Mohammadi, I., Warschauer, M., & Shi, Y. (2026). *Simulating Students' Java Programming Errors with Large Language Models*. arXiv:2606.14113.

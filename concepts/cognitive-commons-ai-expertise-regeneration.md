@@ -36,4 +36,4 @@ The paper reframes expertise development as collective stewardship rather than o
 
 ## Citation
 
-**APA:** Lovett, N. (2026). The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise. Human Resource Development Review. arXiv:2607.29380.
+Lovett, N. (2026). The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise. Human Resource Development Review. arXiv:2607.29380.

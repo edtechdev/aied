@@ -59,4 +59,4 @@ PsyScore integrates diagnostic assessment with instructional scaffolding through
 
 ## Citation
 
-**APA:** Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng (2026). *PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback*. arXiv:2606.20287. East China Normal University / arXiv cs.CL preprint.
+Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng (2026). *PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback*. arXiv:2606.20287. East China Normal University / arXiv cs.CL preprint.

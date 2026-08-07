@@ -22,7 +22,7 @@ This paper exposes a critical diagnostic blind spot in LLM-based tutoring agents
 
 ## Citation
 
-**APA:** preprint, A. (2026). *Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most*. https://arxiv.org/abs/2605.16207
+preprint, A. (2026). [*Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most*](https://arxiv.org/abs/2605.16207)
 
 ## Related Pages
 - [[llm-handwritten-math-grading]] — Shares diagnostic precision challenges: transcription errors are the primary failure mode

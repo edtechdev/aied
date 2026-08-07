@@ -36,4 +36,4 @@ The work connects to broader discussions in AI and education around [[generative
 
 ## Citation
 
-**APA:** Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026). *Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training*. arXiv:2607.28109. cs.AI.
+Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026). *Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training*. arXiv:2607.28109. cs.AI.

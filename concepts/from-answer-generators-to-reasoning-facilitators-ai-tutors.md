@@ -29,4 +29,4 @@ The rapid integration of [[llm]]s into [[intelligent-tutoring]] threatens to red
 
 ## Citation
 
-**APA:** Yuming Feng, Yuan Tian, Erica Zhao (2026). *From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments*. arXiv:2607.01692.
+Yuming Feng, Yuan Tian, Erica Zhao (2026). *From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments*. arXiv:2607.01692.

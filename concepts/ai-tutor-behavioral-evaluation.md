@@ -38,7 +38,7 @@ This work addresses a critical evaluation gap. An AI tutor that gives perfect pe
 
 ## Citation
 
-**APA:** Niousha, R., Smith, S.B., Akram, B., Brusilovsky, P., Hellas, A., Leinonen, J., DeNero, J., & Norouzi, N. (2026). *The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness*. https://arxiv.org/abs/2605.05648
+Niousha, R., Smith, S.B., Akram, B., Brusilovsky, P., Hellas, A., Leinonen, J., DeNero, J., & Norouzi, N. (2026). [*The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness*](https://arxiv.org/abs/2605.05648)
 
 ## Related Pages
 - [[teacher-student-agency-orchestration]]

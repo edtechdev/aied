@@ -75,7 +75,7 @@ For example:
 
 ## Citation
 
-**APA:** (Karlsruhe, S.S.S.N.L.A.M., self-regulated, E.S.G.P., Education, S.E.A.I.J.O.E.T.I.H., their, G.I.P.S.O.S.W.S., 2006), B.C., & SRL, S.A.W.A.A.T.L.B.A.D. (2026). *Self-Regulated Learning*. International Journal of Educational Technology in Higher Education (Springer), 23:15, accepted 30 Ma. https://link.springer.com/content/pdf/10.1186/s41239-026-00589-7.pdf
+(Karlsruhe, S.S.S.N.L.A.M., self-regulated, E.S.G.P., Education, S.E.A.I.J.O.E.T.I.H., their, G.I.P.S.O.S.W.S., 2006), B.C., & SRL, S.A.W.A.A.T.L.B.A.D. (2026). [*Self-Regulated Learning*](https://link.springer.com/content/pdf/10.1186/s41239-026-00589-7.pdf). International Journal of Educational Technology in Higher Education (Springer), 23:15, accepted 30 Ma
 
 ## Related Pages
 -- [[genai-feedback-design-multisite-experiment]]

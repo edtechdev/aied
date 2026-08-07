@@ -53,7 +53,7 @@ DeepTutor addresses a critical gap in [[intelligent-tutoring]]: the disconnect b
 
 ## Citation
 
-**APA:** Report, T., Personalized, D.T.A., & Tutoring, D.T.A.P. (2026). *DeepTutor: Towards Agentic Personalized Tutoring*. https://arxiv.org/abs/2604.26962
+Report, T., Personalized, D.T.A., & Tutoring, D.T.A.P. (2026). [*DeepTutor: Towards Agentic Personalized Tutoring*](https://arxiv.org/abs/2604.26962)
 
 ## Related Pages
 

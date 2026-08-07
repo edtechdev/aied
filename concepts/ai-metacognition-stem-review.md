@@ -124,7 +124,7 @@ Teacher ↔ AI System ↔ Student
 
 ## Citation
 
-**APA:** Egara, A.M.T.S.C.N.M.M.F.O., (MDPI), J.J.O.I., Review, S., AI, M.T.S.O.M.A.L.B., Review, T.I.S.C.A.B., Tsakeni, M., Nwafor, S.C., & Mosia, M. (2026). *AI Tools Scaffolding Metacognition in STEM*. Journal of Intelligence (MDPI) (MDPI). https://mdpi-res.com/d_attachment/jintelligence/jintelligence-13-00148/article_deploy/jintelligence-13-00148.pdf?version=1763188408
+Egara, A.M.T.S.C.N.M.M.F.O., (MDPI), J.J.O.I., Review, S., AI, M.T.S.O.M.A.L.B., Review, T.I.S.C.A.B., Tsakeni, M., Nwafor, S.C., & Mosia, M. (2026). [*AI Tools Scaffolding Metacognition in STEM*](https://mdpi-res.com/d_attachment/jintelligence/jintelligence-13-00148/article_deploy/jintelligence-13-00148.pdf?version=1763188408). Journal of Intelligence (MDPI) (MDPI)
 
 ## Related Pages
 - [[engagement-forecasting-its]] — Feature-based engagement forecasting reduces MAE 22-33% vs heuristics; effort dr

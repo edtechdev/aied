@@ -43,7 +43,7 @@ The gap between *capability* and *pedagogical utility* is analogous to the LLM m
 
 ## Citation
 
-**APA:** Lo, A.L.L.A.Z.N.A.R.K.K. (2026). *Educational VLM Evaluation*. https://arxiv.org/abs/2603.00925
+Lo, A.L.L.A.Z.N.A.R.K.K. (2026). [*Educational VLM Evaluation*](https://arxiv.org/abs/2603.00925)
 
 ## Related Pages
 - [[llm-handwritten-math-grading]] — Vision-capable LLM evaluation in authentic instructional settings with real student work

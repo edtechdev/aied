@@ -31,4 +31,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-**APA:** Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan (2026). *Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2*. arXiv:2606.30908. SIGCSE Virtual 2026, submitted 29 Jun 2026
+Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan (2026). *Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2*. arXiv:2606.30908. SIGCSE Virtual 2026, submitted 29 Jun 2026

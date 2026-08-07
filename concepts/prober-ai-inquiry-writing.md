@@ -29,7 +29,7 @@ Conventional AI writing tools that generate or rewrite text risk creating cognit
 
 ## Citation
 
-**APA:** Zhou, A.R.B.S.W.Y. & place), V.N.E.H. (2026). *Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing*. https://arxiv.org/abs/2605.05598
+Zhou, A.R.B.S.W.Y. & place), V.N.E.H. (2026). [*Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing*](https://arxiv.org/abs/2605.05598)
 
 ## Related Pages
 - [[sequenced-ai-feedback-learning]] — Cao et al. RCT: sequenced feedback caused resubmission gaming; inverted questioning may avoid this trap

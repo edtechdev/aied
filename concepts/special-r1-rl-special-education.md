@@ -47,10 +47,6 @@ This is the first multi-turn pedagogical RL framework specifically targeting spe
 - Can the framework be extended to multimodal inputs for learners with specific math disabilities?
 - What are the ethical considerations of disability-profiling in AI tutoring systems?
 
-## Source
-
-- [https://arxiv.org/abs/2605.30670](https://arxiv.org/abs/2605.30670)
-
 ## Related Pages
 
 - [[intelligent-tutoring-systems]] — Special-R1 extends ITS research to disability-adaptive RL training
@@ -62,4 +58,4 @@ This is the first multi-turn pedagogical RL framework specifically targeting spe
 
 ## Citation
 
-**APA:** Lee, U., Na, J., Jeong, Y., Park, H., & Jang, Y. (2026). *Special-R1: Reinforcement learning for special education: Aligning LLM tutors to diverse learners through disability-adaptive training*. arXiv:2605.30670.
+Lee, U., Na, J., Jeong, Y., Park, H., & Jang, Y. (2026). *Special-R1: Reinforcement learning for special education: Aligning LLM tutors to diverse learners through disability-adaptive training*. arXiv:2605.30670.
