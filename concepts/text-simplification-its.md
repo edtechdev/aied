@@ -54,6 +54,10 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 - **Human-in-the-loop:** Teachers validate automated simplifications (cf. [[human-in-the-loop-ai]])
 - **Quality assurance:** Prevent oversimplification (losing key concepts) or undersimplification (frustrating learners)
 
+## Citation
+
+**APA:** al, A.R.R.G.P.A.D.E. (2026). *Text Simplification for Intelligent Tutoring*. https://arxiv.org/abs/2604.08947
+
 ## Related Pages
 - [[adaptive-learning-systems]] — Content adaptation as core ITS function
 - [[human-in-the-loop-ai]] — Strategic interleaving of AI generation + human judgment

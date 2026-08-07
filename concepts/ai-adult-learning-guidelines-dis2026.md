@@ -73,6 +73,10 @@ The guidelines span four categories:
 3. **Heuristic evaluation using these 19 guidelines** provides a structured method for assessing adult learning technologies against empirically grounded criteria.
 4. **The guideline exploration tool** connects abstract design principles to concrete stakeholder quotes, supporting ideation and technology refinement.
 
+## Citation
+
+**APA:** 13-17, V.D.J., Adult, G.F.D.A.T.T.S., Reddig∗, J., Computing, I., Georgia, A., & Morris, W.G. (2026). *Guidelines for Designing AI Technologies to Support Adult Learning*. Designing Interactive Systems Conference (DIS ’26), June 13–17. https://doi.org/10.1145/3800645.3813102
+
 ## Related Pages
 
 - [[adult-learning]]

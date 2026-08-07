@@ -65,6 +65,10 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 3. **Match technology to model** — Which AI affordance serves this model? (e.g., Socratic dialogue for productive failure, peer matching for social learning)
 4. **Evaluate against displacement** — Does the tool do something the learner should do themselves? If yes, redesign.
 
+## Citation
+
+**APA:** education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). *Principled AI in Education*. https://arxiv.org/abs/2510.01467
+
 ## Related Pages
 - [[lata-ferpa-compliant-local-llm-autograder]] — Open-source, zero-marginal-cost, privacy-preserving AI
 - [[institutional-change-framework-ai]] — Six-dimension framework for adapting institutional change models in STEM to generative AI

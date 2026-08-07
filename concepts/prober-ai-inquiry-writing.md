@@ -27,6 +27,10 @@ This gating mechanism deliberately creates friction — students cannot bypass c
 ## Why This Matters
 Conventional AI writing tools that generate or rewrite text risk creating cognitive debt — students outsource thinking rather than developing it. Prober.ai's approach connects to [[metacognition]] by forcing reflective engagement and to [[socratic-ai-dialogue]] through inquiry-based interaction. It represents a design pattern for "cognition-preserving AI" that could extend beyond writing to other domains.
 
+## Citation
+
+**APA:** Zhou, A.R.B.S.W.Y. & place), V.N.E.H. (2026). *Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing*. https://arxiv.org/abs/2605.05598
+
 ## Related Pages
 - [[sequenced-ai-feedback-learning]] — Cao et al. RCT: sequenced feedback caused resubmission gaming; inverted questioning may avoid this trap
 -

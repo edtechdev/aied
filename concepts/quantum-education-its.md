@@ -55,6 +55,10 @@ This aligns with the [[tutoring-specific-vs-general-ai|tutoring-specific design]
 - **Visualization integration:** Quantum tutoring shows the importance of domain-aligned visual scaffolds (cf. [[multimodal-ai-tutoring]] which also emphasizes multimodal errors in STEM)
 - **Scalability:** Addresses equity gaps between well-resourced and under-resourced institutions
 
+## Citation
+
+**APA:** Chrisochoides, A.I.E.N. (2026). *Quantum Education Intelligent Tutoring*. https://arxiv.org/abs/2604.24807
+
 ## Related Pages
 - [[adaptive-learning-systems]] — General adaptive systems context
 - [[knowledge-tracing-irt]] — Learner modeling techniques relevant to knowledge-graph traversal

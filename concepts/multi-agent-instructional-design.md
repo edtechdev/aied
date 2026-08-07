@@ -105,6 +105,10 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 - **Quality ≠ rubric scores:** Teachers' qualitative preferences didn't always match statistical significance
 - **KLI as design principle:** Learning sciences frameworks can be operationalized in AI architectures
 
+## Citation
+
+**APA:** John, A.W.J.X.R.H.X.S. (2026). *Multi-Agent Systems for Instructional Design*. https://arxiv.org/abs/2508.16659
+
 ## Related Pages
 - [[agentic-ai-ecosystems-higher-education]] — Multi-agent AI coordination for instructional design
 - [[agentic-workflows-education]] — Multi-agent collaboration and discussion paradigms

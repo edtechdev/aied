@@ -38,6 +38,10 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 
 - [https://arxiv.org/abs/2603.17373](https://arxiv.org/abs/2603.17373)
 
+## Citation
+
+**APA:** acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). *SafeTutors: Pedagogical Safety in AI Tutoring*. https://arxiv.org/abs/2603.17373
+
 ## Related Pages
 
 - [[pedagogical-safety]] — Foundational concept of safety specific to teaching contexts

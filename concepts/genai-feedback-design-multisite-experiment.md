@@ -53,6 +53,10 @@ Direct GenAI feedback may encourage passive uptake — students outsource evalua
 
 The core insight: **GenAI's educational value depends less on AI access per se than on whether feedback environments preserve student agency, evaluative judgment, and ownership during revision.**
 
+## Citation
+
+**APA:** Ateş, H. (2026). Human-centered GenAI feedback design in higher education: A multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation. *International Journal of Educational Technology in Higher Education*, *23*(38). https://doi.org/10.1186/s41239-026-00614-9
+
 ## Related Pages
 
 - [[generative-ai]]

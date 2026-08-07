@@ -48,6 +48,10 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 3. **Support fluid transitions** between stages — learners experience Resolve and Consolidate as interleaved, not strictly sequential
 4. **Context-grounded AI outperforms general-purpose AI for lecture review** — knowing the lecture content enables more targeted, efficient support
 
+## Citation
+
+**APA:** Reidsma, A.M.F.D., Bremen, V.C.J., Conversational, F.C.T.C.A.S., Review, W.F.P., & Fang, M. (2026). *From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review*. ACM Conversational User Interfaces 2026 (CUI ’26), July 21–24. https://doi.org/10.1145/3816046.3816288
+
 ## Related Pages
 
 - [[conversational-agents]]

@@ -65,6 +65,10 @@ Three system properties enable the fallacy via two cognitive mediators:
 
 **Tool design:** Systems that surface their reasoning process (reducing opacity) or require iterative refinement by the user (reducing immediacy) may mitigate the fallacy.
 
+## Citation
+
+**APA:** Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). *The LLM Fallacy and Misattribution of Competence*. https://arxiv.org/abs/2604.14807
+
 ## Related Pages
 
 - [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)

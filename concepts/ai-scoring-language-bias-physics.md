@@ -51,6 +51,10 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 3. **Multimodal assessment**: The findings support calls for assessment approaches that reduce dependence on linguistic production, particularly for [[multilingual-learning]] populations.
 4. **Teacher-AI collaboration**: Rather than replacing teacher assessment, AI scoring may be most useful when teachers remain in the loop to calibrate for language effects.
 
+## Citation
+
+**APA:** Tschisgale", A.S.F.P.L., Leibniz, P.E., to, E.A.S.A.H.L.Q.S.N.C.L., & frequently, T.C.S.I.P.T.A.P.P.T. (2026). *AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics*. https://arxiv.org/abs/2607.28210
+
 ## Related Pages
 
 - [[automated-assessment]]

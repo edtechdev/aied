@@ -46,6 +46,10 @@ MAIC deploys a suite of specialized AI agents:
 
 MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agentic-ai]] in education. It demonstrates how LLM-driven multi-agent systems can transform the MOOC paradigm from one-size-fits-all broadcasting to truly adaptive, personalized [[intelligent-tutoring]] at scale. The platform vision extends toward an open collaborative hub for AI-driven education research.
 
+## Citation
+
+**APA:** Teaching, F.M.T.M.R.O., Agents, A.L.T.L., Sun2∗, M.L.J.L.Z.L.H.L.M., Tsinghua, D.O.C.S.A.T., Inc, M., Course), I.I.T.C.W.P.M.A., & Tsinghua, P.E.A. (2026). *From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*. https://arxiv.org/abs/2409.03512
+
 ## Related Pages
 
 - [[agentic-ai]] — Multi-agent architecture foundation

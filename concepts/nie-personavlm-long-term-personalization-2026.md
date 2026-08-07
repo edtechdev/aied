@@ -32,6 +32,10 @@ The privacy-preserving design is also significant. Schools and districts operati
 
 However, educators and designers should be cautious about the [[correct-answer-trap-ai-tutor]]: even a well-personalized tutor can prioritize affinity over accuracy if alignment is tuned too aggressively. Personalization that mirrors a student's preferences without challenging misconceptions risks reinforcing errors. Future work integrating PersonaVLM-style memory with deliberate [[taklif-ai-interest-based-personalized-assignments]] frameworks — where personalization serves pedagogical goals, not just user satisfaction — would be a productive direction.
 
+## Citation
+
+**APA:** Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). *PersonaVLM: Long-Term Personalization for AI Tutors*. https://arxiv.org/abs/2604.13074
+
 ## Related Pages
 
 - [[ai-tutoring]] — Foundational overview of AI tutoring systems

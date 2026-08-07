@@ -38,6 +38,10 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 - Equity gaps data reinforces concerns in [[equity-in-ai-education]]
 - "Human connection" emphasis connects to [[teacher-role]]
 
+## Citation
+
+**APA:** CRPE, S.N. (2026). *How State Policy Can Help Teachers Use AI Well*
+
 ## Related Pages
 - [[regulation]]
 - [[faculty-development-genai]]

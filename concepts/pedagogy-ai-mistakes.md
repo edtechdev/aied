@@ -36,6 +36,10 @@ This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, C
 - What is the optimal error difficulty — too obvious vs. too subtle?
 - How does this approach affect trust in AI tools long-term?
 
+## Citation
+
+**APA:** Hosseini, A.H. (2026). *The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking*. https://arxiv.org/abs/2605.05472
+
 ## Related Pages
 - [[institutional-change-framework-ai]] — Six-dimension framework for adapting institutional change models in STEM to generative AI
 - [[conversational-ai-tutors-framework]] — Affect detection and knowledge tracing as proven methods to keep in AI tutors

@@ -41,6 +41,10 @@ The gap between *capability* and *pedagogical utility* is analogous to the LLM m
 2. **Real student data is essential** — Synthetic or expert-curated datasets miss the distribution of actual learner work
 3. **Error-focused evaluation** — Benchmarks should weight error-diagnosis accuracy higher than solution-generation accuracy
 
+## Citation
+
+**APA:** Lo, A.L.L.A.Z.N.A.R.K.K. (2026). *Educational VLM Evaluation*. https://arxiv.org/abs/2603.00925
+
 ## Related Pages
 - [[llm-handwritten-math-grading]] — Vision-capable LLM evaluation in authentic instructional settings with real student work
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: academic capability evaluation complements VLM-focused DrawEduMath with broader task coverage

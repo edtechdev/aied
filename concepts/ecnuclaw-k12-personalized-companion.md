@@ -37,6 +37,10 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 
 - [https://arxiv.org/abs/2605.08040](https://arxiv.org/abs/2605.08040)
 
+## Citation
+
+**APA:** Zhang, A.Y.Z.J.L.Z., TUDY, E.L.A.L.E.R.I.N.S., OMPANION, C., DUCATION, F.R.F.K.P.E.E., REPRINT, A.P., 1,2, Y.Z.J.L.A.Z.Z., & Normal, A.E.L.E.C. (2026). *ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education*. https://arxiv.org/abs/2605.08040
+
 ## Related Pages
 - [[personalized-learning]]
 - [[adaptive-learning-systems]]

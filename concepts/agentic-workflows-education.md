@@ -41,6 +41,10 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - **Orchestration overhead:** Coordination cost scales non-linearly with agent count.
 - **Latency:** Reflection and multi-agent negotiation introduce response delays.
 
+## Citation
+
+**APA:** 2026, S.A.R.J., education:, P.P.F.A.W.I., & LLMs, F.A.S.M.D.I.C.V.S. (2026). *Agentic Workflows in Education*. https://arxiv.org/abs/2504.20082v2
+
 ## Related Pages
 - [[persistent-ai-agents-academic-research]] — PARE-M measurement framework for persistent agent deployments
 - [[ai-changing-teaching-workflows]]

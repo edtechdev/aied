@@ -51,6 +51,10 @@ DeepTutor is a fully open-source [[agentic-ai]] framework that unifies two tutor
 
 DeepTutor addresses a critical gap in [[intelligent-tutoring]]: the disconnect between tutoring traces and subsequent practice. By coupling both through a shared learner memory, it demonstrates that closed-loop personalization yields measurable gains in both tutoring quality and reasoning capability. The fully open-source release and TutorBench benchmark provide infrastructure for the broader [[adaptive-learning]] research community.
 
+## Citation
+
+**APA:** Report, T., Personalized, D.T.A., & Tutoring, D.T.A.P. (2026). *DeepTutor: Towards Agentic Personalized Tutoring*. https://arxiv.org/abs/2604.26962
+
 ## Related Pages
 
 - [[agentic-ai]] — Agentic framework architecture
