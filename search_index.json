@@ -430,7 +430,7 @@
       "edtech-platform"
     ],
     "content": "\n\ud83d\udcc4 Full text: arXiv:2605.04616 \u00b7 local\nAI Design Guidelines for Adult LearningDefinition\nA set of 19 empirically-grounded design guidelines for AI-supported learning technologies tailored to adult learners, synthesized by Reddig et al. (2026) from longitudinal deployment data at a US national research institute focused on adult learning and online education.The Adult Learning Gap\nMost AI educational technology is designed for and evaluated in K-12 contexts. Adult learners have fundamentally diff",
-    "url": "pages/ai-adult-learning-design.html"
+    "url": "pages/ai-adult-learning-guidelines-dis2026.html"
   },
   {
     "slug": "ai-adult-learning-guidelines-dis2026",
@@ -1416,7 +1416,7 @@
       "learning-analytics"
     ],
     "content": "AICoFe: AI-Based Collaborative Feedback System for Higher EducationAlvaro Becerra, Alejandra Palma, Ruth Cobos (2026) \u2014 LASI Spain 2026.\ud83d\udcc4 Full text (arXiv)System ArchitectureAICoFe orchestrates a multi-LLM pipeline using GPT-4.1-mini, Gemini 2.5 Flash, and Llama 3.1 to synthesize quantitative rubric data and qualitative observations into actionable feedback for higher education students. The key innovation is a teacher-in-the-loop mediation workflow: educators use specialized Learning Analytics ",
-    "url": "pages/aicode-collaborative-feedback-system.html"
+    "url": "pages/ai-peer-feedback-systems.html"
   },
   {
     "slug": "aied-carbon-footprint-reporting",
@@ -2089,7 +2089,7 @@
       "adaptive-learning"
     ],
     "content": "Codify: Socratic Programming TutorIlyasov, Bardelli, Torres & Keshtkar (2026) \u2014 St. John's University. The International FLAIRS Conference Proceedings, Vol. 39 No. 1 (Poster).\ud83d\udcc4 DOI: 10.32473/flairs.39.1.141554Codify (also called AI Tutor) is an intelligent-tutoring system that leverages LLMs, competency tracking, and adaptive assessment to provide Socratic, discovery-based programming education. Rather than giving direct answers, it guides students through dialogue designed to elicit their own r",
-    "url": "pages/codify-socratic-programming-tutor.html"
+    "url": "pages/codify-socratic-tutoring-programming.html"
   },
   {
     "slug": "codify-socratic-tutoring-programming",
@@ -4186,7 +4186,7 @@
       "independent-learning"
     ],
     "content": "\nSynthesis: Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics\nBeyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate StatisticsCitationScaffolding, B.A.G.L., in, F.I.L., Statistics, U., Fatemeh, M.A.Y.A.M.L., Bahrakb, B.A.F.B.B., Engineering, S.O.E.A.C., & course, S.E.G.L.U.I.A.U.P.A.S. (2026). Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics. the 34th International Conference on Computers",
-    "url": "pages/guided-llm-scaffolding-statistics.html"
+    "url": "pages/guided-llm-scaffolding-independent-learning.html"
   },
   {
     "slug": "hallucination-risk",
