@@ -5,14 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Search - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
 </head>
 <body>
     <header class="container">
         <nav>
             <ul>
                 <li><a href="index.html">🏠 Home</a></li>
-                <li><a href="search.html">🔍 Search</a></li>
+                <li><a href="journal.html">📰 Journal</a></li>
+                <li><strong><a href="tags.html">🏷️ Tags</a></strong></li>
+                <li><strong><a href="search.html">🔍 Search</a></strong></li>
             </ul>
         </nav>
         <h1>Search AI Ed Wiki</h1>
@@ -22,20 +24,21 @@
         <div id="results"></div>
     </main>
     <script>
-        let index = new FlexSearch.Document({
-            tokenize: 'forward',
-            document: {
-                id: 'id',
-                index: ['title', 'tags', 'content'],
-                store: ['title', 'url', 'tags']
-            }
-        });
+        let index;
         let pages = [];
-        
+
         fetch('search_index.json')
             .then(res => res.json())
             .then(data => {
                 pages = data;
+                index = new FlexSearch.Document({
+                    tokenize: 'forward',
+                    document: {
+                        id: 'id',
+                        index: ['title', 'tags', 'content'],
+                        store: ['title', 'url', 'tags']
+                    }
+                });
                 data.forEach((page, i) => {
                     index.add({
                         id: i,
@@ -53,22 +56,45 @@
             const query = e.target.value.trim();
             const resultsDiv = document.getElementById('results');
             resultsDiv.innerHTML = '';
-            
+
             if (query.length < 2) {
                 resultsDiv.innerHTML = '<p>Type at least 2 characters to search.</p>';
                 return;
             }
-            
-            const results = index.search(query, { limit: 20 });
+
+            if (!index) {
+                resultsDiv.innerHTML = '<p>Index still loading, please wait...</p>';
+                return;
+            }
+
+            const results = index.search(query, { limit: 20, enrich: true });
             if (!results || results.length === 0) {
                 resultsDiv.innerHTML = '<p>No results found.</p>';
                 return;
             }
-            
-            results.forEach(result => {
-                const page = pages[result.id];
+
+            // FlexSearch.Document.search() returns an array of field result objects:
+            // [{ field: "title", result: [...] }, { field: "tags", result: [...] }, ...]
+            // We deduplicate by ID since the same doc can match in multiple fields.
+            const seen = new Set();
+            const matches = [];
+            results.forEach(fieldResult => {
+                (fieldResult.result || []).forEach(match => {
+                    if (seen.has(match.id)) return;
+                    seen.add(match.id);
+                    matches.push(match);
+                });
+            });
+
+            if (matches.length === 0) {
+                resultsDiv.innerHTML = '<p>No results found.</p>';
+                return;
+            }
+
+            matches.forEach(match => {
+                const page = pages[match.id];
                 if (!page) return;
-                const tags = page.tags.join(', ') || 'No tags';
+                const tags = (page.tags || []).join(', ') || 'No tags';
                 resultsDiv.innerHTML += `<div style="margin-bottom:1rem; padding:1rem; border:1px solid #ddd; border-radius:8px;">
                     <h3><a href="${page.url}">${page.title}</a></h3>
                     <p><small>Tags: ${tags}</small></p>
