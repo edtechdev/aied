@@ -68,6 +68,10 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 - **For adaptive systems:** The "tutoring" unit need not be an individual—collaboration itself can be scaffolded
 - **For transfer:** Does improved dyadic regulation transfer to unsupervised pair work? Not yet tested
 
+## Citation
+
+**APA:** Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |, S.D.M., & |, I.F.T.T.C.F. (2026). *Collaborative AI Tutoring*. https://arxiv.org/abs/2605.02703
+
 ## Related Pages
 - [[engagement-forecasting-its]] — Feature-based engagement forecasting reduces MAE 22-33% vs heuristics; effort dr
 - [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy

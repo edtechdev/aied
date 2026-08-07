@@ -51,6 +51,10 @@ The platform enables **modular, tool-assisted learning**: students learn new top
 3. **Cross-modality coherence** — Adaptation should be consistent across text, code, and visual explanations
 4. **Proactive vs. reactive** — Move from answering questions to anticipating learning needs
 
+## Citation
+
+**APA:** |, B.P. (2026). *Adaptive Learning Systems*. https://arxiv.org/abs/2604.26962
+
 ## Related Pages
 - [[stanbkt-bayesian-knowledge-tracing]] — Posterior inference from BKT enables principled adaptive interventions
 - [[ai-enabled-serious-games]] — Extends adaptive learning principles to game-based training across professional domains

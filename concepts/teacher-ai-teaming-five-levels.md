@@ -38,6 +38,10 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 
 - **Hybrid intelligence**: The vision is teachers and AI as complementary agents—each bringing distinct capabilities—rather than AI as a replacement.
 
+## Citation
+
+**APA:** (UCL), A.M.C.W.S.Q.Z.S.B., with, T.S.T.I., Intelligence, G.A., Cukurova, M., Suraworachet, W., and, Q.Z., Bulathwela, S., & about, T.H.T.A.O.T.T.T.G.R.C. (2026). *Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence*. https://arxiv.org/abs/2511.19580
+
 ## Related Pages
 
 - [[teacher-role]]

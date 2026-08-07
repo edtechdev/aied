@@ -67,6 +67,10 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - **Design:** Guardrails must target pedagogical failure modes (over-disclosure, misconception reinforcement) not just content correctness
 - **Policy:** Procurement criteria for educational AI should include pedagogical safety audits alongside accuracy metrics
 
+## Citation
+
+**APA:** acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). *AI Tutor Safety and Pedagogical Harms*. https://arxiv.org/abs/2603.17373
+
 ## Related Pages
 - [[xai-education-framework]]
 - [[ai-lifelong-learning-policy]]

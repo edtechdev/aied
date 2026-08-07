@@ -38,6 +38,10 @@ The simulation methodology also raises questions about [[ai-tutor-safety-harms]]
 
 - [https://arxiv.org/abs/2605.06307](https://arxiv.org/abs/2605.06307)
 
+## Citation
+
+**APA:** Leins, A.J.G.J.H.N., Evaluating, L.E.S., ADHD, T.S.P.S.A., Leins, J.G.J.H.N., Berlin, B.H.B., & Pokutta, T.K.S. (2026). *LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles*. https://arxiv.org/abs/2605.06307
+
 ## Related Pages
 - [[llm-student-modeling-memory]]
 - [[student-experience]]

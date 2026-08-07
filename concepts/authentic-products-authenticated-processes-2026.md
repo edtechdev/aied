@@ -42,6 +42,10 @@ The framework becomes a **review instrument for assessment briefs**: teams exami
 - Echoes [[over-reliance]] concerns: polished-but-superficial AI-mediated outputs as a validity threat
 - Inclusion dimension connects to [[equity]] and the "matters of care" stance of [[care-full-feedback-genai]]
 
+## Citation
+
+**APA:** corpus, S.A.N.I.S.O.I.R.A.C. (2026). *From authentic products to authenticated processes: authentic assessment in AI-rich higher education*. https://doi.org/10.1080/02602938.2026.2695376
+
 ## Related Pages
 - [[authentic-assessment]] — the non-AI scoping review (Zhan, Boud & Du 2025) this framework builds on
 - [[beyond-detection-authentic-assessment-ai-2025]] — Kickbusch et al. (2025), the design-not-detection companion piece

@@ -57,6 +57,10 @@ SCRIPT's contribution: **Python-specific** tutoring with German-language context
 - **Classroom integration:** Real deployment reveals usability barriers invisible in lab prototypes
 - **Scalability:** ITS enables personalized feedback without proportional instructor hiring
 
+## Citation
+
+**APA:** Paassen, A.A.D.J.D.B. (2026). *Programming Intelligent Tutoring Systems*. https://arxiv.org/abs/2604.16117
+
 ## Related Pages
   - [[simulating-students-java-programming-errors-llms]] — LLM-generated synthetic errors as training data for programming ITS
 

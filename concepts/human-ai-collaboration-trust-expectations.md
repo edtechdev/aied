@@ -17,6 +17,10 @@ confidence: medium
 
 - [https://doi.org/10.1016/j.caeai.2026.100625](https://doi.org/10.1016/j.caeai.2026.100625)
 
+## Citation
+
+**APA:** Allen, A.L.R.X.Z.J.P., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). *Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust*. https://doi.org/10.1016/j.caeai.2026.100625
+
 ## Related Pages
 - [[human-in-the-loop]]
 - [[generative-ai]]

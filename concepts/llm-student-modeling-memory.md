@@ -74,6 +74,10 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 3. Would a tutoring system with PersonaVLM-style memory produce better [[ai-learning-transfer|transfer outcomes]] than episodic-only systems?
 4. What are the pedagogical guardrails needed to prevent personalization from becoming over-accommodation?
 
+## Citation
+
+**APA:** Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). *LLM Student Modeling and Long-Term Memory Architecture*. https://arxiv.org/abs/2604.13074
+
 ## Related Pages
 - [[structrag-diagram-reasoning-ai-tutoring]] — LLM-guided structural reasoning over graphs
 - [[simulating-learner-task-selection]] — Task-selection preferences could inform student models for adaptive system design

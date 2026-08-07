@@ -67,6 +67,10 @@ Feature vector per response: `[s^verb, s^lat, s^cons, s^alea, token_length]`
 
 ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai|tutoring-specific feedback]]: while tutoring tools generate formative scaffolds, grading tools must manage summative uncertainty. Both require explicit epistemic humility—acknowledging when the model should defer to human judgment.^[[cong-confidence-asag-2026]]
 
+## Citation
+
+**APA:** Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). *Automatic Short Answer Grading with LLMs*. https://arxiv.org/abs/2605.00200
+
 ## Related Pages
 - [[rubric-aware-grading-rec-cbm]] — 2 of 8 papers in May 28 scan
   - [[llm-automated-assessment-student-self-explanations]] — Binary classification of student self-explanations using LLMs vs. semantic similarity (2026)

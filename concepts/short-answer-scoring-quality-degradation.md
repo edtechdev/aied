@@ -35,6 +35,10 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 
 - [https://arxiv.org/abs/2605.07647](https://arxiv.org/abs/2605.07647)
 
+## Citation
+
+**APA:** Klebanov, A.A.V.G.S.M.A.B.B., Scoring:, Q.A.I.A.S.A., Adaptation, M.D.A.T.I.O.T., Klebanov2, A.V.G.S.M.A.B.B., Alexandron1, A.S.G., & Princeton, E. (2026). *Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation*. par- require ample training data (Gurin Schleifer et al. https://arxiv.org/abs/2605.07647
+
 ## Related Pages
 - [[lata-ferpa-compliant-local-llm-autograder]] — Near-perfect accuracy contrasts with mid-range degradation
 - [[automated-grading]]

@@ -36,6 +36,10 @@ The use of [[retrieval-augmented-generation]] and [[synthetic-data]] techniques 
 
 - [https://arxiv.org/abs/2605.00200](https://arxiv.org/abs/2605.00200)
 
+## Citation
+
+**APA:** Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). *Confidence-Aware Automatic Short Answer Grading*. https://arxiv.org/abs/2605.00200
+
 ## Related Pages
 
 - [[automatic-short-answer-grading]] — Core ASAG paradigm for automated response evaluation

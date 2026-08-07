@@ -23,6 +23,10 @@ Instead of "learn theory first, apply later," students identified the sequence o
 ## Connections to Agentic Workflows
 This model bridges [[agentic-workflows-education]] and practical classroom implementation. Where agentic workflows describe AI agent paradigms (reflection, planning, tool use, multi-agent collaboration), co-mentorship shows how those paradigms manifest in human-AI educational partnerships. The daily stand-up structure echoes the reflection loop in [[agentic-education-coding]].
 
+## Citation
+
+**APA:** Khvatskii, A.F.C.A.C.R.S.J.G.G. (2026). *Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting*. https://arxiv.org/abs/2605.05144
+
 ## Related Pages
 - [[agentic-workflows-education]]
 - [[agentic-education-coding]]

@@ -45,6 +45,10 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - Skill-substitution channel mirrors the [[genai-expertise-pathways-sysadmin]] finding that GenAI compresses expertise pathways and resets performance expectations
 - Complements the design-not-detection agenda of [[beyond-detection-authentic-assessment-ai-2025]]: teacher-facing AI needs the same design scrutiny as assessment-facing AI
 
+## Citation
+
+**APA:** instruction, C.T.T.A.T.P.A.T.A.B. (2026). *Generative AI Can Harm Teaching*. https://ssrn.com/abstract=7007339
+
 ## Related Pages
 - [[faculty-development]] — teacher-facing AI adoption and its unintended effects
 - [[teacher-ai-competency]] — what teachers need to use AI as augmentation, not substitution

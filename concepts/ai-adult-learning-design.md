@@ -37,6 +37,10 @@ A heuristic evaluation of the original deployed systems against the guidelines d
 - Relevant to [[faculty-development-genai]] as faculty themselves are adult learners
 - Addresses gaps in [[lifelong-learning]] technology design
 
+## Citation
+
+**APA:** Reddig, J.M., Jr, G.R.S., authors), S.A.S.E.A., & 2026, D. (2026). *Guidelines for Designing AI Technologies to Support Adult Learning*. https://arxiv.org/abs/2605.04616
+
 ## Related Pages
 - [[personalized-learning]]
 - [[adaptive-learning-systems]]

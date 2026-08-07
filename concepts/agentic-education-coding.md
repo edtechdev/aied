@@ -58,6 +58,10 @@ This operationalizes [[agentic-workflows-education]] for a specific tool:
 - **Recursive pedagogy:** Advanced agents can teach novice users (and novice agents)
 - **Transfer concerns:** Does learning with Claude Code transfer to other agentic tools?
 
+## Citation
+
+**APA:** Naboulsi, A.Z. (2026). *Agentic Education with AI Coding Assistants*. https://arxiv.org/abs/2604.17460
+
 ## Related Pages
 - [[computational-thinking-ai-agent-creation]] — No-code agent creation vs. coding assistants for CT development
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: tests agentic AI on real student coding/research tasks — directly relevant to education coding workflows

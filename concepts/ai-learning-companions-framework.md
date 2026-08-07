@@ -28,6 +28,10 @@ LLMs demonstrably improve task outputs (writing quality, code correctness, analy
 ## Case Studies
 Validated across five diverse educational contexts, levels, and tool designs, revealing both promise and current limitations. The framework calls for a deliberate shift from task-optimized LLMs toward companions that foster durable understanding, metacognitive growth, and learner agency — connecting directly to [[self-regulated-learning]] and [[metacognition]].
 
+## Citation
+
+**APA:** Khosravi, H., Gasevic, D., Sadiq, S., Yan, L., Lodge, J., Tangen, J., Denny, P., & DiCerbo, K. (2026). *Building AI Companions that Prioritise Learning over Performance*. https://arxiv.org/abs/2605.04816
+
 ## Related Pages
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)
 - [[international-students-conversational-ai-adaptation]] — AI companion role for ongoing cultural adaptation support

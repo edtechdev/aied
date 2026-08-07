@@ -63,6 +63,10 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 
 - [https://doi.org/10.1145/3785022.3785040](https://doi.org/10.1145/3785022.3785040)
 
+## Citation
+
+**APA:** McLaren, A.M.A.M.M.J.S.B.M., Associations, R.T.H.B.C.N., in, B.U.H.U.A.L.O., Systems, I.T., An, M., Mehrvarz, M., Mellon, C., & PA, P. (2026). *Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems*. LAK26: 16th International Learning Analytics and Knowledge Conference (LAK 2026), April 27–May 01. https://doi.org/10.1145/3785022.3785040
+
 ## Related Pages
 
 - [[intelligent-tutoring]]

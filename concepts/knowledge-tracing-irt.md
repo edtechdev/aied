@@ -64,6 +64,10 @@ This framework is an enabler for [[tutoring-specific-vs-general-ai|tutoring-spec
 - **Fine-tuning required:** LoRA on Llama-3.1-8B; not zero-shot
 - **Binary correctness only:** Does not model partial understanding or open-ended reasoning
 
+## Citation
+
+**APA:** Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). *Interpretable Knowledge Tracing via IRT*. https://arxiv.org/abs/2605.01097
+
 ## Related Pages
 - [[kt4eqg-personalized-question-generation]] — 7 of 8 papers in May 28 scan
 - [[stanbkt-bayesian-knowledge-tracing]] — Bayesian BKT framework extends beyond IRT's point-estimate limitations

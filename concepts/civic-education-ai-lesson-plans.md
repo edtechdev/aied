@@ -86,6 +86,10 @@ Civic education is a uniquely high-stakes domain for AI application because:
 - Can better prompt engineering (e.g., explicitly requesting higher-order thinking and multicultural integration) close the gap?
 - What does the teacher revision process look like in practice — do teachers have the time and training to meaningfully redesign AI outputs?
 
+## Citation
+
+**APA:** (2025), A.T.T.M.R.X.C.P.K., 25(3), J.C.I.I.T.A.T.E., Name].", I.A.H.I.L.F., |, B.L.T.A.O., levels, O.A.A.A.R.U.O.A., & |, B.L.T. (2026). *AI-Generated Lesson Plans in Civic Education*
+
 ## Related Pages
 
 - [[nsmq-riddles-science-math-benchmark]] — Global South content quality parallel to Western curriculum concerns

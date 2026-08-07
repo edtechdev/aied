@@ -60,6 +60,10 @@ The review frames findings through six established principles. See [[ai-learning
 3. What pedagogical guardrails are necessary to preserve [[metacognition]]? See the new evidence from Scheu et al. (2026) that structured courses increase metacognitive competence while raw LLM assistants do not.
 4. When will the first U.S. K-12 RCTs on LLM tools emerge?
 
+## Citation
+
+**APA:** Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). *AI in K-12 Evidence Base*. https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf
+
 ## Related Pages
 - [[ai-enabled-serious-games]] — Highlights critical gap in empirical evidence for long-term learning outcomes in AI-enabled games
 - [[xai-education-framework]]

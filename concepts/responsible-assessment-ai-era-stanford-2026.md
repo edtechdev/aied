@@ -36,6 +36,10 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 - **Construct definitions** — the underdefined AI literacy / durable-skills problem echoes [[ai-literacy]] debates and [[educational-theory]] work on what AI-era competencies mean operationally.
 - **Equity & trust** — sociocultural responsiveness, bias in AI scoring, and human accountability map to [[equity]], [[human-in-the-loop]], and [[ai-ed-evaluation]].
 
+## Citation
+
+**APA:** ASSESSMENT, R., ERA, I.T.A., a, K.I.F., Conference, F., McGee, N.J., Thille, C., Choi, I., & Ercikan, K. (2026). *Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference*
+
 ## Related Pages
 
 - [[assessment]] — Assessment is at a moment of change; the report reframes validity and purpose for the AI era

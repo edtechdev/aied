@@ -60,6 +60,10 @@ The paper proposes detecting reward hacking via:
 
 This parallels concerns in [[educational-llm-alignment]] where benchmark misalignment with teaching quality reveals similar optimization gaps.
 
+## Citation
+
+**APA:** Rahimi, A.O.O.N. (2026). *Pedagogical Safety in Educational Reinforcement Learning*. https://arxiv.org/abs/2604.04237
+
 ## Related Pages
 - [[prompt-injection-defenses-educational-llm-tutors]] — Security-usability trade-offs in guardrail design
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Social-epistemic courage as RL training objective

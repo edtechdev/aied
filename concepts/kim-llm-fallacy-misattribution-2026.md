@@ -38,6 +38,10 @@ The long-term institutional risk is credential inflation: if degrees and certifi
 
 - [https://arxiv.org/abs/2604.14807](https://arxiv.org/abs/2604.14807)
 
+## Citation
+
+**APA:** Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). *LLM Fallacy Misattribution in Education*. https://arxiv.org/abs/2604.14807
+
 ## Related Pages
 
 - [[cognitive-offloading-llm-synthesis-writing]] — How LLMs change the cognitive division of labor in writing

@@ -59,6 +59,10 @@ sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md]
 - **For policy:** School/district procurement criteria should distinguish between "AI-integrated" tools (tutoring-specific) and "AI-access" tools (general chatbox).
 - **For research:** Head-to-head RCTs comparing pedagogically designed AI vs. raw LLM access on delayed post-tests are urgently needed.
 
+## Citation
+
+**APA:** Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). *Tutoring-Specific vs. General-Purpose AI in Education*. https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf
+
 ## Related Pages
 - [[difficulty-aware-dialogue-kt]] — General LLMs reframed as psychometric instruments through IRT mapping
 - [[genai-meta-analysis-programming-learning]] — Productivity gains vs. learning outcomes across general AI tools

@@ -36,6 +36,10 @@ confidence: high
 - The quality–ownership trade-off complicates the [[ai-assisted-writing-research-teams]] productivity story: quality gains may carry authorship costs
 - For [[writing-education]]: guidance should be stage-aware (planning support preserves ownership; drafting support needs disclosure/critique structures)
 
+## Citation
+
+**APA:** quality, M.F.O.A.T.A.E. (2026). *From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership*. https://arxiv.org/abs/2604.11009
+
 ## Related Pages
 - [[writing-education]] — the application domain
 - [[student-experience]] — felt ownership as a student outcome

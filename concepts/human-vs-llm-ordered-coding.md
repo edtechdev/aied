@@ -17,6 +17,10 @@ confidence: high
 
 Critical methodological paper on using LLMs for automated qualitative coding of ordered data (where code order matters). Presents two evaluation approaches for ordered coding quality. Demonstrates systematic and statistically significant differences between LLM and human coding across structural, transitional, and code-level metrics. Warns that LLM coding errors can propagate through automated feedback systems, amplifying inaccuracies. Uses consistent context window prompting method.
 
+## Citation
+
+**APA:** Saqr, A.K.M.S.L.E.A.O.B.E.M., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). *Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis*. https://doi.org/10.1016/j.caeai.2026.100649
+
 ## Related Pages
 
 - [[llm-in-education]]

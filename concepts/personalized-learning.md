@@ -36,6 +36,10 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - **Longitudinal validity** — Personalization benefits may decay if profiles become stale or overfit
 - **Equity risks** — Over-personalization can strand learners in low-expectation tracks
 
+## Citation
+
+**APA:** |, B.P. (2026). *Personalized Learning*. https://arxiv.org/abs/2604.26962
+
 ## Related Pages
 - [[kt4eqg-personalized-question-generation]] — 7 of 8 papers in May 28 scan
 - [[genai-architecture-education]]

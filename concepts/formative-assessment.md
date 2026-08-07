@@ -50,6 +50,10 @@ Zhao et al. (2025) present **LearnLens**, a modular LLM system for science educa
 
 Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if governance is weak.
 
+## Citation
+
+**APA:** Wang, A.X.D.F.N.C. & |, C.F. (2026). *Formative Assessment in AI Education*. Conference on Artificial Intelligence in Education (AIED 2026). https://arxiv.org/abs/2604.03926
+
 ## Related Pages
 - [[cotal-formative-assessment-scoring-2026]] — LLM scoring with ECD-aligned rubrics
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agent feedback pre-empting self-assessment

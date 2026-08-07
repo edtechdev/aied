@@ -35,6 +35,10 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 - Risk framing extends [[ai-tutor-safety-harms]] beyond tutoring to general educational AI
 - Policy recommendations complement [[regulation]] and [[ai-k12-evidence-base]]
 
+## Citation
+
+**APA:** Institution, S.B. (2026). *A New Direction for Students in an AI World: Prosper, Prepare, Protect*
+
 ## Related Pages
 - [[ai-k12-evidence-base]]
 - [[ai-learning-transfer]]

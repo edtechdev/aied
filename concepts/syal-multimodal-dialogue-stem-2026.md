@@ -36,6 +36,10 @@ For deployment, this suggests a design pattern: AI tutoring interfaces for STEM 
 
 - [https://arxiv.org/abs/2605.04131](https://arxiv.org/abs/2605.04131)
 
+## Citation
+
+**APA:** tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). *Multimodal Dialogue in STEM Education*. https://arxiv.org/abs/2605.04131
+
 ## Related Pages
 
 - [[multimodal-ai-tutoring]] — Overview of multimodal approaches in AI tutoring
