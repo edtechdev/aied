@@ -50,6 +50,10 @@ The paper identifies four gaps in existing frameworks:
 - **Shallow pedagogy**: default LLM tutoring achieves only 52–70% correct actions
 - **Self-referential validation**: most frameworks generate their own success measures rather than facing external standards
 
+## Citation
+
+**APA:** Ogburn, A.T.N.H.N.R., below:, C.S.S.D.T.I., 4.0](https://info.arxiv.org/help/license/index.html#licenses-available), C.B., Nguyen, T., Nguyen, H., & Ogburn, R. (2026). *AI-accelerated End-to-End Framework for Rapid Professional Upskilling*. other words, roughly 120 million workers are at the medium-term risk of redundancy \[ [37](https://arxiv. https://arxiv.org/abs/2607.14044
+
 ## Related Pages
 
 - [[professional-training]]

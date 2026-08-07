@@ -97,6 +97,10 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 - How does this compare to [[llm-student-modeling-memory|LLM-based longitudinal student modeling]] in both accuracy and interpretability?
 - Is the 13% improvement maintained with more diverse student populations and subject domains?
 
+## Citation
+
+**APA:** accuracy?, H.D.R.C.W.C.D.I.P., predictions?, H.D.R.P.I.E.O.S.K., & 2021, O.L.E.M.C.S. (2026). *Neural-Symbolic Knowledge Tracing*. https://arxiv.org/abs/2604.08263
+
 ## Related Pages
 
 - [[stanbkt-bayesian-knowledge-tracing]] — Interpretable probabilistic alternative to neural knowledge tracing methods

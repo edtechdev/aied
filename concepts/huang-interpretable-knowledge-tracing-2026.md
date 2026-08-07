@@ -45,6 +45,10 @@ Future work should extend the framework to multi-skill settings (where students 
 
 - [https://arxiv.org/abs/2605.01097](https://arxiv.org/abs/2605.01097)
 
+## Citation
+
+**APA:** Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). *Interpretable Knowledge Tracing*. https://arxiv.org/abs/2605.01097
+
 ## Related Pages
 
 - [[knowledge-tracing]] — Core concept page on knowledge tracing methods and applications

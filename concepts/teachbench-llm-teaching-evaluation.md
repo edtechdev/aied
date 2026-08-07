@@ -85,6 +85,10 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 - **Student proxies:** Fixed-capability student agents enable reproducible evaluation
 - **Outcome metrics:** Performance improvement > response quality scores
 
+## Citation
+
+**APA:** Models, T.A.S.F.F.E.T.A.I.L.L. (2026). *TeachBench - Evaluating LLM Teaching Ability*. https://arxiv.org/abs/2601.21375
+
 ## Related Pages
 - [[eduagentbench-agent-teaching-benchmark]] — EduAgentBench complements TeachBench with workflow-level teaching tasks
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: student-sourced benchmark for AI agent academic capabilities, complements TeachBench's teaching quality focus

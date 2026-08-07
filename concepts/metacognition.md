@@ -61,6 +61,10 @@ This suggests that **metacognitive support and motivation are not identical**. T
 2. **Model metacognitive language:** The example-based course worked partly because it exposed students to proficient models' metacognitive self-talk.
 3. **Separate support for motivation vs. skill:** Metacognitive skill development (course-structured) and productivity enhancement (AI-assisted) may require different design strategies.
 
+## Citation
+
+**APA:** Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). *Metacognition*. https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf
+
 ## Related Pages
 - [[ai-writing-support-stage-ownership-2026]] — Ownership of cognitive work by writing stage
 - [[trust-reliance-ai-education-2026]] — Need for cognition moderates AI reliance

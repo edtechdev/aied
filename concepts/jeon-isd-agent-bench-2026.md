@@ -36,6 +36,10 @@ For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a me
 
 - [https://arxiv.org/abs/2602.10620](https://arxiv.org/abs/2602.10620)
 
+## Citation
+
+**APA:** |, C.D., |, S.F.A., |, C.M., |, P.M.L.F.D.P., |, T.R.R., reasoning, A.C.I.F.M.R., alignment, A.E.I.P.D.O., & bias, I.M.P.M.L. (2026). *ISD Agent Benchmark*. https://arxiv.org/abs/2602.10620
+
 ## Related Pages
 
 - [[instructional-design]] — Foundational ISD theories including ADDIE, Dick & Carey

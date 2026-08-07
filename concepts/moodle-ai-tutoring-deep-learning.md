@@ -39,6 +39,10 @@ Unlike [[tutoring-specific-vs-general-ai]] debates about specialized tutors, thi
 
 - [https://arxiv.org/abs/2605.06963](https://arxiv.org/abs/2605.06963)
 
+## Citation
+
+**APA:** Majstrak, A.A.O.M.K.G., Understanding:, F.S.L.T.D., Moodle, A.G.A.T.S.F., Skwarek, A.O.M.K.G.M.J.O.S.P.J., Wróblewska, A., Warsaw, F.O.M.A.I.S., scalability, R.G.L.E., & (LMS), M.S. (2026). *From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle*. https://arxiv.org/abs/2605.06963
+
 ## Related Pages
 - [[codify-socratic-tutoring-programming]] — Web-based ITS platform with integrated adaptive assessment and analytics
 - [[taklif-ai-interest-based-personalized-assignments]] — AI integration in LMS assignment workflows

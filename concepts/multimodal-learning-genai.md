@@ -129,6 +129,10 @@ The guide includes 15+ educator case studies spanning:
 3. **Assessment validity**: When students use GenAI to create multimodal assessment artefacts, how can assessors distinguish genuine human meaning-making from AI-generated polish?
 4. **Scaling the MMLD-AI model**: Can the six engagement types be operationalized as automatic learning design recommendations, or does human pedagogical judgment remain essential?
 
+## Citation
+
+**APA:** AI, G., Original, T., Multimodal, A.E.G.T., AI, L.A.G., Investigators:, P., Varga-Atkins, T., Saunders, S., & Hallam, S.B.S. (2026). *Multimodal Learning with Generative AI*. https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf
+
 ## Related Pages
 - [[dot-framework-survey]]
 - [[multimodal-ai-feedback-learning]] — Zhao et al.: concrete implementation of multimodal AI feedback system validating the MMLD-AI framework

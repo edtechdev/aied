@@ -90,6 +90,10 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 2. Can the RL-SFT-RL pipeline be combined with longitudinal memory (see [[llm-student-modeling-memory]]) for personalized tutoring?
 3. Would ISD-agent theory improve general tutoring conversation, or is it limited to macro-level curriculum design?
 
+## Citation
+
+**APA:** Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). *Training Pedagogical LLMs for Tutoring*. https://arxiv.org/abs/2604.06385
+
 ## Related Pages
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
 - [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most

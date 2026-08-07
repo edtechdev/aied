@@ -60,6 +60,10 @@ LLMs captured the bottom-right quadrant reasonably well but failed to represent 
 - **MathDial** is the only publicly available dataset of real teacher/LLM-student interactions
 - Addresses the growing trend of using unvalidated LLM simulations in educational contexts
 
+## Citation
+
+**APA:** Learners?, C.L.E.S.H., Students, T.I.F.T.L., Daheim1,2, D.M.J.M.N., Sachan1, Ö.N.Y.X.Z.M., Fraser, E.Z.T.D.S., many, L.L.M.O., & aims, F.B.H.L.S.A.P.U.T.S. (2026). *Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students*. Innovative Use of NLP for Building Educational Applications) **DOI:** https://aclanthology
+
 ## Related Pages
 
 - [[llm]]

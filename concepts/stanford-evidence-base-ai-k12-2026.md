@@ -37,6 +37,10 @@ For the research community, the review functions as both a wake-up call and a ro
 
 - [https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
 
+## Citation
+
+**APA:** Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). *Stanford Evidence Base: AI in K-12 Education*. https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf
+
 ## Related Pages
 
 - [[ai-k12-evidence-base]] — Companion concept page for the K-12 AI evidence landscape

@@ -39,6 +39,10 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 
 - [https://arxiv.org/abs/2604.06385](https://arxiv.org/abs/2604.06385)
 
+## Citation
+
+**APA:** Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). *EduQwen: Pedagogical RL*. https://arxiv.org/abs/2604.06385
+
 ## Related Pages
 
 - [[pedagogical-safety]] — The broader field of safety in educational AI systems

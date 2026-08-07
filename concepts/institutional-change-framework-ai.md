@@ -69,6 +69,10 @@ The framework was piloted through a faculty workshop series in a university phys
 
 - [https://arxiv.org/abs/2605.12757](https://arxiv.org/abs/2605.12757)
 
+## Citation
+
+**APA:** (, A.D.P.N.D.F., (cs.CY), S.P.E.C.A.S., 4.0, L.C.B., approaches, D.A.T.A.D.M.E.C.I., research, I.A.R.B.W.E.T.A.F.V., transferred, I.A.T.A.S.M.C.B.C.A., months, A.R.A.C.A.W.M.C.S.W., & interventions, I.A.R.T.S.B. (2026). *A Framework for Institutional Change in the Age of AI*. https://arxiv.org/abs/2605.12757
+
 ## Related Pages
 - [[ethical-ai-higher-ed-game-theory]] — 3 of 8 papers in May 28 scan
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)

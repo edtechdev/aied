@@ -58,6 +58,10 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 - Are there tasks where the alignment gap is smaller (e.g., factual tutoring vs. qualitative judgment)?
 - How does this interact with [[llm-fallacy-misattribution]] — do students over-trust misaligned AI outputs?
 
+## Citation
+
+**APA:** (Stanford, A.M.H.Y.K., 2026, S.M.R.A., & improvement, P.W.E.B.M.E.S.N. (2026). *Educational LLM Alignment*. https://arxiv.org/abs/2603.00883
+
 ## Related Pages
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
 - [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training

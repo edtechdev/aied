@@ -76,6 +76,10 @@ This preserves pedagogical authority while reducing teacher workload.^[[becerra-
 
 AICoFe represents a **human-centered AI** paradigm for education: AI augments rather than replaces human judgment. This contrasts with fully automated grading or feedback systems that remove the teacher from the loop. The key insight is that **pedagogical authority resides with the teacher**, and AI's role is to expand the range and depth of actionable comments they can craft.^[[becerra-aicofe-feedback-2026]]
 
+## Citation
+
+**APA:** Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). *AI Peer Feedback Systems*. https://arxiv.org/abs/2605.04740
+
 ## Related Pages
 - [[mindcopilot-llm-co-writing]] — Hierarchical acceptance rates offer template for evaluating collaborative feedback
 - [[moodle-ai-tutoring-deep-learning]] — Shares strategy of embedding AI tools into existing educational workflows

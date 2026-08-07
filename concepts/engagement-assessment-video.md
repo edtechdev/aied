@@ -56,6 +56,10 @@ Intelligent tutoring systems increasingly include **video components** (e.g., wo
 - **Just-in-time scaffolds** when engagement drops
 - **Self-regulated learning support** ([[self-regulated-learning]])
 
+## Citation
+
+**APA:** al, A.Z.L.E.E.Y.S.E. (2026). *Engagement Assessment in Video Learning*. https://arxiv.org/abs/2605.01238
+
 ## Related Pages
 - [[affective-text-wearable-student-health]] — NLP analysis of affective text signals for student health monitoring
 - [[understanding-student-effort-response-time]] — Understanding Student Effort Using Response-Time Propensitie...

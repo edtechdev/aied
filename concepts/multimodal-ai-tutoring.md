@@ -63,6 +63,10 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 2. What happens when the *student* directly implements the dialogue protocol vs. an intermediary system?
 3. Do visual reasoning capabilities improve in newer model generations (e.g., GPT-5 multimodal)?
 
+## Citation
+
+**APA:** tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). *Multimodal AI Tutoring in STEM*. https://arxiv.org/abs/2605.04131
+
 ## Related Pages
 - [[llm-handwritten-math-grading]] — Demonstrates vision+LLM pipeline for authentic STEM assessment at scale
 - [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training

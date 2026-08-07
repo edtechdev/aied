@@ -48,6 +48,10 @@ This review is valuable because it shifts the conversation from "do LLMs work?" 
 
 For [[higher-ed]] contexts, the review provides actionable guidance: semester-long Virtual Tutor designs with structured feedback outperform short-term coding-assistant interventions. This aligns with [[code-review-genai-cs1]] work on structured feedback and the broader [[computing-education]] push toward [[computational-thinking]] over syntax mastery.
 
+## Citation
+
+**APA:** School), A.A.V.I.B., implementation, A.Q.H.S.M.R.D.O., & generators, P.L.A.L.C.R.T.S. (2026). *A review of intervention designs of LLM Integration in Undergraduate Computer Science Education*
+
 ## Related Pages
 
 - [[cs-education]]

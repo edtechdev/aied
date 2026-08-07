@@ -32,6 +32,10 @@ This architecture addresses a core limitation of direct generation: LLMs produce
 
 Automated question generation reduces manual authoring burden for educators and enables adaptive assessment at scale. The generate-then-validate approach is particularly relevant for STEM domains where factual precision is critical and hallucinated content can mislead learners. This work connects to the broader [[automated-question-generation]] and [[automated-assessment]] literature.
 
+## Citation
+
+**APA:** F, A.W.Y.S.J.C.P. (2026). *Generate-Then-Validate: Question Generation for Education*. (LAK 2026), April 27-May 01. https://arxiv.org/abs/2512.10110
+
 ## Related Pages
 
 - [[automated-question-generation]] — Core methodology contribution
