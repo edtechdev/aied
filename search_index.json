@@ -7882,17 +7882,6 @@
     "url": "pages/varga-atkins-educators-guide-multimodal-genai-2025.html"
   },
   {
-    "slug": "varga-atkins-educators-guide-multimodal-learning-genai-2025",
-    "title": "Educator's Guide to Multimodal Learning with GenAI",
-    "tags": [
-      "educator-guide",
-      "generative-ai",
-      "multimodal"
-    ],
-    "content": "This is a stub pa Varga-Atkins (2025) offers an educator's guide to multimodal learning with GenAI — practical guidance for weaving image, audio, and text modalities into learning design, connecting the wiki's multimodal , generative-ai , and instructional-design threads with accessibility considerations ( accessible-learning , equity ). Educator's Guide to Multimodal Learning with GenAI Related Pages",
-    "url": "pages/varga-atkins-educators-guide-multimodal-learning-genai-2025.html"
-  },
-  {
     "slug": "vetting-dual-llm-safety-education",
     "title": "VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI",
     "tags": [
