@@ -1,27 +1,24 @@
 ---
-title: Fair and explainable educational recommendations with a hybrid Graph-GRU framework
-created: 2026-08-01
-updated: 2026-08-01
+title: "Fair and explainable educational recommendations with a hybrid Graph-GRU framework"
+created: 2026-06-03
+updated: 2026-08-07
 type: concept
 tags: [ai-education, bias-mitigation, learning-analytics, personalized-learning]
-sources: ["raw/papers/caeai-fair-recommendations.md"]
-confidence: high
+sources: [raw/papers/caeai-fair-recommendations.md]
+confidence: medium
 ---
+
+> **Synthesis:** Fair and explainable educational recommendations with a hybrid Graph-GRU framework
 
 # Fair and explainable educational recommendations with a hybrid Graph-GRU framework
 
-**Authors:** Edmund Evangelista, Syed M. Salman Bukhari
-**Source:** [Computers and Education: AI, Vol 11](https://doi.org/10.1016/j.caeai.2026.100643) — Open Access (CC BY 4.0)
 
-## Key Findings
+## Source
 
-Hybrid HKG-GRU framework for educational recommendations combining heterogeneous graph embeddings with sequential modeling (152 students, 59 resources, ~150K interactions). Multi-objective training with GroupDRO for fairness, MMR reranking for diversity, and built-in explainability through path-based and counterfactual analyses. HR@10=0.68, MRR=0.41. Addresses popularity bias and cold-start fairness in educational recommenders.
+- [https://doi.org/10.1016/j.caeai.2026.100643](https://doi.org/10.1016/j.caeai.2026.100643)
 
 ## Related Pages
-
-- [[personalized-learning]]
-- [[learning-analytics]]
-- [[algorithmic-bias]]
+- [[ai-education]]
 - [[bias-mitigation]]
-- [[xai-education-framework]]
-- [[adaptive-learning]]
+- [[learning-analytics]]
+- [[personalized-learning]]

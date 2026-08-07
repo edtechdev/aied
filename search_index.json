@@ -735,7 +735,7 @@
       "hallucination-risk",
       "trust-calibration"
     ],
-    "content": "Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System\nNagashima et al. (2026) \u2014 ArXiv.\n\ud83d\udcc4 Full text (arXiv)Lightweight transparency cues (warnings about possible AI errors) increased hint requests in a math ITS, likely due to responsibility shifting or verification needs. intelligent-tutoring, student-experience, hallucination-risk, scaffolding, active-learning.Related Pages\nai-literacy \u2014 Literacy frameworks\nscaffolding \u2014 Educational scaffolding techniques\nintellig",
+    "content": "\nSynthesis: Recent work in Technology-Enhanced Learning and HumanComputer Interaction highlights the importance of transparency and trust calibration in AI-supported learning environments as they pose a risk of hallucinations. In this study, we investigate whether a simple transparency intervention that warns s\nWarning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring SystemAbstractRecent work in Technology-Enhanced Learning and HumanComputer Interaction highlights the impor",
     "url": "pages/ai-fallibility-warning-help-seeking.html"
   },
   {
@@ -1272,7 +1272,7 @@
       "stem-education",
       "faculty-development"
     ],
-    "content": "AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling studyAuthors: Moeketsi Mosia, Fadip Audu Nannim, Felix Egara\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsSEM study of 130 preservice math teachers in South Africa (Global South context). AI-TPACK readiness explained 53% of variance. Positive associations: prior AI use, critical-ethical appraisal, and support/enablers. Senio",
+    "content": "\nSynthesis: AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study\nAI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling studySourcehttps://doi.org/10.1016/j.caeai.2026.100650Related Pages\nai-literacy\nhigher-ed\nstem-education\nfaculty-development",
     "url": "pages/ai-tpack-preservice-math-teachers.html"
   },
   {
@@ -2460,7 +2460,7 @@
       "lifelong-learning",
       "student-experience"
     ],
-    "content": "Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learningAuthors: Na\u0111a Terzimehi\u0107, Babette B\u00fchler, Enkelejda Kasneci\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsLarge-scale survey of 776 German participants. 87% already use LLMs in everyday learning routines. Young adults lead adoption. Four learner types identified based on task patterns and device usage. Paradoxical trust behaviors: users rely on L",
+    "content": "\nSynthesis: Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning\nConversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learningSourcehttps://doi.org/10.1016/j.caeai.2026.100634Related Pages\ngenerative-ai\nllm\nlifelong-learning\nstudent-experience",
     "url": "pages/conversational-ai-informal-learning.html"
   },
   {
@@ -3472,7 +3472,7 @@
       "learning-analytics",
       "personalized-learning"
     ],
-    "content": "Fair and explainable educational recommendations with a hybrid Graph-GRU frameworkAuthors: Edmund Evangelista, Syed M. Salman Bukhari\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsHybrid HKG-GRU framework for educational recommendations combining heterogeneous graph embeddings with sequential modeling (152 students, 59 resources, ~150K interactions). Multi-objective training with GroupDRO for fairness, MMR reranking for diversity, and built-in explainability th",
+    "content": "\nSynthesis: Fair and explainable educational recommendations with a hybrid Graph-GRU framework\nFair and explainable educational recommendations with a hybrid Graph-GRU frameworkSourcehttps://doi.org/10.1016/j.caeai.2026.100643Related Pages\nai-education\nbias-mitigation\nlearning-analytics\npersonalized-learning",
     "url": "pages/fair-explainable-edu-recommendations.html"
   },
   {
@@ -3861,7 +3861,7 @@
       "instructional-design",
       "scaffolding"
     ],
-    "content": "Generative AI (GenAI) as a mindtool that supports generative learning (GL)Authors: Nada Dabbagh, Helen Fake\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100626 \u2014 Open Access (CC BY 4.0)Key FindingsArgues GenAI can serve as a Mindtool (knowledge representation tool) to facilitate Generative Learning rather than short-circuiting it. Proposes 8 pedagogical roles for GenAI: learning strategy/study buddy, collaborative thinking tool, possibility engine, Socratic opponent, persona",
+    "content": "\nSynthesis: Generative AI (GenAI) as a mindtool that supports generative learning (GL)\nGenerative AI (GenAI) as a mindtool that supports generative learning (GL)Sourcehttps://doi.org/10.1016/j.caeai.2026.100626Related Pages\neducational-theory\ngenerative-ai\nhigher-ed\ninstructional-design\nscaffolding",
     "url": "pages/genai-mindtool-generative-learning.html"
   },
   {
@@ -3952,7 +3952,7 @@
       "faculty-development",
       "educational-theory"
     ],
-    "content": "GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematicsAuthors: Dionysia Bakogianni, Yvonne Liljekvist, Phuong Bui\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100637 \u2014 Open Access (CC BY 4.0)Key FindingsQualitative study of 10 mathematics academics at a Swedish university, using Cultural-Historical Activity Theory (CHAT). Identifies 5 themes of GenAI-driven change: boundary fluidity, shifting objects, epistemic ",
+    "content": "\nSynthesis: GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics\nGenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematicsSourcehttps://doi.org/10.1016/j.caeai.2026.100637Related Pages\ngenerative-ai\nhigher-ed\nstem-education\nfaculty-development\neducational-theory",
     "url": "pages/genai-runaway-object-math-higher-ed.html"
   },
   {
@@ -4040,13 +4040,13 @@
     "slug": "generate-then-validate-question-gen",
     "title": "Generate-Then-Validate: Question Generation for Education",
     "tags": [
-      "automated-grading",
+      "question-generation",
       "llm",
-      "nlp-education",
+      "automated-assessment",
       "stem-education",
-      "validate-then-generate"
+      "hallucination-reduction"
     ],
-    "content": "Generate-Then-Validate: Question Generation for EducationSynthesisNovel generate-then-validate approach for educational question generation. Reduces hallucination by 62% compared to direct generation. Validated on STEM datasets with 89% accuracy. Outperforms baseline LLMs by 23% on relevance metrics.Connectionsautomated-question-generation \u2014 Core methodology contribution\nnlp-education \u2014 LLM application for assessment\nstem-education \u2014 Primary validation domain\nllm-application-education \u2014 Generati",
+    "content": "\nSynthesis: A novel generate-then-validate pipeline for educational question generation that reduces LLM hallucination by 62% compared to direct generation, validated on STEM datasets with 89% accuracy and a 23% improvement over baseline LLMs on relevance metrics. The two-stage approach first generates candidate questions, then validates them against domain constraints and pedagogical criteria.\nGenerate-Then-Validate: Question Generation for EducationApproachThe paper introduces a two-stage pipe",
     "url": "pages/generate-then-validate-question-gen.html"
   },
   {
@@ -4185,7 +4185,7 @@
       "stem-education",
       "independent-learning"
     ],
-    "content": "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics\nAmanlou et al. (2026) \u2014 ArXiv.\n\ud83d\udcc4 Full text (arXiv)Compares unrestricted vs. guided LLM access. Guided group showed significantly better independent performance on quizzes, using AI for stepwise reasoning rather than answer-getting. scaffolding, higher-ed, stem-education, mastery-learning, formative-assessment.Related Pages\nai-literacy \u2014 Literacy frameworks\nscaffolding \u2014 Educational scaffolding techniques\ni",
+    "content": "\nSynthesis: Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics\nBeyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate StatisticsSourcehttps://arxiv.org/abs/2606.01375Related Pages\nscaffolding\nhigher-ed\nstem-education",
     "url": "pages/guided-llm-scaffolding-statistics.html"
   },
   {
@@ -4314,7 +4314,7 @@
       "higher-ed",
       "student-experience"
     ],
-    "content": "Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrustAuthors: Liana Razmerita, Xiaojiang Zheng, Jonathan P. Allen\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsSurvey of 245 higher ed students using Expectation Confirmation Theory (ECT). Found positive relationships between effort expectation and performance expectation, with confirmation of GenAI collaboration significantly influencing intentions. GenAI distru",
+    "content": "\nSynthesis: Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust\nHuman-AI collaboration in higher education: Exploring the impact of technology expectations and distrustSourcehttps://doi.org/10.1016/j.caeai.2026.100625Related Pages\nhuman-in-the-loop\ngenerative-ai\nhigher-ed\nstudent-experience",
     "url": "pages/human-ai-collaboration-trust-expectations.html"
   },
   {
@@ -5498,7 +5498,7 @@
       "pedagogical-safety",
       "intelligent-tutoring"
     ],
-    "content": "Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics educationAuthors: Chenglu Li, G\u00f6khan G\u00fclfidan, Yinqi Zhang-Kopf\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsApplied gradient-based LLM unlearning to 3 models pre-trained on ~3M Algebra I tutoring data points. Unlearned PII and harmful content while maintaining math task utility. PII output rate and harmfulness substantially decreased post-unlearn",
+    "content": "\nSynthesis: Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education\nBalancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics educationSourcehttps://doi.org/10.1016/j.caeai.2026.100642Related Pages\nllm\nprivacy\nk-12\npedagogical-safety\nintelligent-tutoring",
     "url": "pages/llm-unlearning-math-privacy.html"
   },
   {
@@ -5712,7 +5712,7 @@
       "computational-thinking",
       "instructional-design"
     ],
-    "content": "Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course designAuthors: Siu Cheung Kong, Qiaoyi Wang\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsDesigned and validated a 6-8 hour course teaching ML concepts to 752 primary students. Used guided worksheets, hands-on robot interaction, and iterative refinement. Students comprehended supervised learning and reinforcement learning (KNN, ANN). Fostered reflective t",
+    "content": "\nSynthesis: Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design\nFostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course designSourcehttps://doi.org/10.1016/j.caeai.2026.100631Related Pages\nai-literacy\nk-12\ncomputational-thinking\ninstructional-design",
     "url": "pages/ml-literacy-primary-education.html"
   },
   {
@@ -5920,7 +5920,7 @@
       "generative-ai",
       "multimodal"
     ],
-    "content": "Students' multimodal prompting practices as epistemic work in AI literacy developmentAuthors: Sylvana Sofkova Hashemi\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100635 \u2014 Open Access (CC BY 4.0)Key FindingsEmpirical study with 28 postgraduate students engaged in collaborative multimodal prompting tasks. Found prompting strategies vary along a continuum from basic input-output to strategic, iterative, dialogic practices. Prompting emerges as a central epistemic practice \u2014 st",
+    "content": "\nSynthesis: Students' multimodal prompting practices as epistemic work in AI literacy development\nStudents' multimodal prompting practices as epistemic work in AI literacy developmentSourcehttps://doi.org/10.1016/j.caeai.2026.100635Related Pages\nai-literacy\nprompt-engineering\nhigher-ed\ngenerative-ai\nmultimodal",
     "url": "pages/multimodal-prompting-ai-literacy.html"
   },
   {
@@ -6504,7 +6504,7 @@
       "efficacy-study",
       "higher-ed"
     ],
-    "content": "Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachersAuthors: Dongyun Cao, Yuting Yan, Anyuan Xiong, David Wicks\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsQuasi-experimental study with 95 preservice teachers over 10 weeks. QUEST+AI model (Question, Understand, Engage, Solve, Teach) integrated with coached GenAI use. Experimental group showed higher overall AI literacy (largest ",
+    "content": "\nSynthesis: Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers\nEffects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachersSourcehttps://doi.org/10.1016/j.caeai.2026.100630Related Pages\nai-literacy\nfaculty-development\ngenerative-ai\nefficacy-study\nhigher-ed",
     "url": "pages/quest-ai-inquiry-preservice-teachers.html"
   },
   {
@@ -6738,7 +6738,7 @@
       "higher-ed",
       "prompt-engineering"
     ],
-    "content": "Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contextsAuthors: Qinjie Shen\nSource: Computers and Education: AI, Vol 11 \u2014 Open Access (CC BY 4.0)Key FindingsMixed-methods study of Design (n=221) and Business (n=222) students in Thailand. AI literacy predicted prompting proficiency and verification behavior (pRelated Pagesai-literacy\ngenerative-ai\nhigher-ed\nprompt-engineering\ncognitive-load-theory\ntrust-calibration",
+    "content": "\nSynthesis: Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts\nSame AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contextsSourcehttps://doi.org/10.1016/j.caeai.2026.100601Related Pages\nai-literacy\ncognitive-offloading\ngenerative-ai\nhigher-ed\nprompt-engineering",
     "url": "pages/same-ai-different-pathways.html"
   },
   {
@@ -7766,7 +7766,7 @@
       "k-12",
       "multimodal"
     ],
-    "content": "TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics\nWen et al. (2026) \u2014 ArXiv.\n\ud83d\udcc4 Full text (arXiv)Introduces TurtleAI benchmark (823 tasks). Finds that current VLMs (GPT-5, o3) struggle with spatial reasoning in educational graphics. Fine-tuning improves visual-code alignment. benchmark, cs-education, k-12, generative-ai, spatial-reasoning.Related Pages\nai-literacy \u2014 Literacy frameworks\nscaffolding \u2014 Educational scaffolding techniques\nintelligent-tutoring \u2014 ITS res",
+    "content": "\nSynthesis: Vision-language models (VLMs) have been explored for visual programming, where they generate code to solve visual tasks. However, most prior work focuses on visual programming for productivity; it remains unclear how well current VLMs perform on education-oriented visual programming and what factors\nTurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle GraphicsAbstractVision-language models (VLMs) have been explored for visual programming, where they generate code",
     "url": "pages/turtleai-visual-programming-benchmark.html"
   },
   {
@@ -7865,7 +7865,7 @@
       "llm",
       "generative-ai"
     ],
-    "content": "VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AIAuthors: Hongming Li, Shan Zhang, Anthony F. Botelho\nSource: Computers and Education: Artificial Intelligence, Vol 11, 100646 \u2014 Open Access (CC BY 4.0)Key FindingsProposes VETTING \u2014 a dual-LLM architecture where a generator LLM produces responses and a separate verifier LLM checks them against safety policies. Deployed with 151 middle school students, achieving F1=0.928 for safety violation detect",
+    "content": "\nSynthesis: VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI\nVETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AISourcehttps://doi.org/10.1016/j.caeai.2026.100646Related Pages\npedagogical-safety\nk-12\nllm\ngenerative-ai",
     "url": "pages/vetting-dual-llm-safety-education.html"
   },
   {
