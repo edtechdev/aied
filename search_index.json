@@ -4465,6 +4465,20 @@
     "url": "pages/icle-plus-plus-essay-scoring.html"
   },
   {
+    "slug": "idan-anand-genai-productivity-divide-2026",
+    "title": "Generative AI and the Productivity Divide: Human-AI Complementarities in Education",
+    "tags": [
+      "ai-literacy",
+      "efficacy-study",
+      "equity",
+      "generative-ai",
+      "higher-ed",
+      "scaffolding"
+    ],
+    "content": "Idan &amp; Anand (2026) conduct an RCT showing GenAI access boosts mean task performance — but gains are concentrated among those with high AI Interaction Competence (AIC), the ability to elicit, filter, and verify model outputs. GPA and prior knowledge don't predict GenAI-augmented performance; AIC does. A conceptual-map scaffolding intervention reduced variance, revealing that structured workflows can mitigate the new AI-driven equity gap. Context As GenAI becomes ubiquitous in knowledge work, a critical question emerges: does AI level the playing field or widen it? Prior research on ai-literacy and cognitive-offloading suggests uneven returns, but rigorous causal evidence has been scarce. Study Design Participants — analogs of early-career knowledge workers — were randomly assigned to self-study a technical domain using either traditional resources or LLM assistance. The researchers measured task performance, prior knowledge, GPA, and crucially, AI Interaction Competence (AIC) : skill in prompting, filtering outputs, and critically verifying AI-generated content. Key Findings Mean boost, uneven distribution: GenAI significantly increased average task performance, but the top quartile captured most gains while the bottom quartile saw limited or negative returns AIC predicts success, GPA does not: Neither GPA nor prior domain knowledge predicted GenAI-augmented performance — only AIC did, suggesting a new axis of capability inequality Scaffolding mitigates the divide: A conceptual-map scaffolding intervention reduced outcome variance, demonstrating that standardized workflows can narrow the productivity gap Managerial implications: Firms should pair GenAI access with short AIC micro-training and standard operating procedures to capture value consistently Connections to Wiki Directly extends the equity literature by identifying a new mechanism of AI-driven inequality: interaction skill rather than domain knowledge Complements ai-literacy frameworks by operationalizi",
+    "url": "pages/idan-anand-genai-productivity-divide-2026.html"
+  },
+  {
     "slug": "iks-instruct-dataset-indian-knowledge",
     "title": "IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems",
     "tags": [
