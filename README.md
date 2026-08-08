@@ -90,3 +90,18 @@ To add a new search source (e.g., ERIC, PubMed), update the Hermes cron job prom
 ## Manual Ingestion
 
 To ingest a specific paper immediately, send the arXiv URL or OSF/EdArXiv preprint link to Hermes. The `research-wiki` skill handles the full workflow automatically.
+
+## Run Your Own Wiki
+
+Want to set up your own automated research wiki for a different domain? Everything you need is in the [`tooling/`](tooling/) directory:
+
+- **`tooling/README.md`** — Complete setup guide
+- **`tooling/SKILL.md`** — Hermes Agent skill definition
+- **`tooling/scripts/`** — Static site generator, journal regenerator, backlink tool
+- **`tooling/templates/`** — HTML template for the homepage
+- **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
+- **`tooling/cron/`** — Cron job prompt template
+- **`tooling/example/`** — Starter wiki files to get going quickly
+- **`tooling/config.example.yaml`** — Scan configuration for customization
+
+Just copy the `tooling/` directory into a new repo, follow the README, and you'll have your own daily-scan research wiki in ~15 minutes. No API keys required.

@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>__WIKI_TITLE__</title>
+    <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="feed.xml">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        /* Global search bar */
+        .global-search {
+            margin: 0 0 2rem 0;
+        }
+        .global-search input {
+            width: 100%;
+            padding: 0.9rem 1.2rem;
+            font-size: 1.1rem;
+            border: 2px solid var(--primary);
+            border-radius: 12px;
+            background: var(--card-background-color);
+            color: var(--color);
+            transition: box-shadow 0.2s;
+        }
+        .global-search input:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(109, 40, 217, 0.25);
+            border-color: var(--primary);
+        }
+        /* Journal section */
+        .journal-section {
+            margin: 1.5rem 0;
+        }
+        .journal-section h2 {
+            margin-top: 0;
+            margin-bottom: 1rem;
+        }
+        .journal-section h2 a {
+            font-size: 0.75rem;
+            font-weight: normal;
+            margin-left: 0.5rem;
+        }
+        .journal-day {
+            margin-bottom: 1rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 8px;
+            padding: 0.75rem 1rem;
+            background: var(--card-background-color);
+        }
+        .journal-day summary {
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 1rem;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+        .journal-day summary:hover {
+            text-decoration: underline;
+        }
+        .journal-entry {
+            padding: 0.4rem 0 0.4rem 1.2rem;
+            border-left: 2px solid var(--primary);
+            margin: 0.3rem 0;
+        }
+        .journal-entry a.title-link {
+            font-weight: 500;
+            font-size: 0.95rem;
+        }
+        .journal-entry .entry-tags {
+            font-size: 0.72rem;
+            color: var(--muted-color);
+            margin-top: 0.2rem;
+        }
+        .journal-entry .entry-tags a {
+            display: inline-block;
+            padding: 0.05rem 0.35rem;
+            margin: 0.1rem 0.15rem 0.1rem 0;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 3px;
+            font-size: 0.7rem;
+            text-decoration: none;
+        }
+        .journal-entry .entry-tags a:hover {
+            opacity: 0.85;
+        }
+        .journal-empty {
+            text-align: center;
+            color: var(--muted-color);
+            padding: 2rem;
+        }
+        /* Tag cloud */
+        .tag-cloud-section {
+            margin: 2.5rem 0 1rem 0;
+        }
+        .tag-cloud-section h2 {
+            margin-bottom: 1rem;
+        }
+        .tag-cloud-section h2 a {
+            font-size: 0.75rem;
+            font-weight: normal;
+            margin-left: 0.5rem;
+        }
+        .tag-cloud {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: center;
+            gap: 0.4rem 0.9rem;
+            padding: 1.5rem 1rem;
+            border: 1px solid var(--card-border-color);
+            border-radius: 12px;
+            background: var(--card-background-color);
+            line-height: 1.6;
+        }
+        .tag-cloud a.cloud-tag {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            padding: 0.1rem 0.4rem;
+            border-radius: 4px;
+            transition: background 0.15s, color 0.15s;
+        }
+        .tag-cloud a.cloud-tag:hover {
+            background: var(--primary);
+            color: var(--primary-inverse);
+        }
+        footer {
+            margin-top: 3rem;
+            padding: 2rem 0;
+            border-top: 1px solid var(--card-border-color);
+            text-align: center;
+            color: var(--muted-color);
+        }
+    </style>
+</head>
+<body>
+    <header class="container">
+        <nav>
+            <ul>
+                <li><strong>🎓 __WIKI_TITLE__</strong></li>
+                <li><a href="tags.html">🏷️ Tags</a></li>
+                <li><a href="search.html">🔍 Search</a></li>
+                <li><a href="feed.xml">📡 RSS</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container">
+        <!-- Global Search Bar -->
+        <div class="global-search">
+            <input type="text" id="global-search" placeholder="Search across all pages, tags, and content..." autocomplete="off">
+        </div>
+
+        <!-- Recent Journal Entries -->
+        <div class="journal-section">
+            <h2>📋 Recent Additions <a href="journal.html">(view all ▸)</a></h2>
+            <div id="journal-entries">
+                __JOURNAL_ENTRIES__
+            </div>
+        </div>
+
+        <!-- Tag Cloud -->
+        __TAG_CLOUD__
+    </main>
+
+    <footer class="container">
+        <small>
+            __WIKI_TITLE__ · Generated __DATE__ ·
+            <a href="https://github.com/NousResearch/hermes-agent">Powered by Hermes Agent</a>
+        </small>
+    </footer>
+
+    <script src="search_index.js"></script>
+    <script>
+        // Global search: debounced redirect to search results page via search_index.js
+        // or show quick results inline
+        var gs = document.getElementById('global-search');
+        if (gs && window.SEARCH_INDEX) {
+            var index = window.SEARCH_INDEX;
+            var resultsDiv = document.createElement('div');
+            resultsDiv.id = 'search-results';
+            resultsDiv.style.cssText = 'margin-top:0.5rem;';
+            gs.parentNode.insertBefore(resultsDiv, gs.nextSibling);
+
+            gs.addEventListener('input', function(e) {
+                var query = e.target.value.trim().toLowerCase();
+                resultsDiv.innerHTML = '';
+
+                if (query.length < 2) return;
+
+                var matches = [];
+                for (var i = 0; i < index.length; i++) {
+                    var page = index[i];
+                    var searchText = (page.title + ' ' + page.tags.join(' ') + ' ' + page.content).toLowerCase();
+                    if (searchText.indexOf(query) !== -1) {
+                        matches.push(page);
+                    }
+                    if (matches.length >= 8) break;
+                }
+
+                if (matches.length === 0) {
+                    resultsDiv.innerHTML = '<p style="color:var(--muted-color);padding:0.5rem;">No results found.</p>';
+                    return;
+                }
+
+                var html = '';
+                for (var j = 0; j < matches.length; j++) {
+                    var p = matches[j];
+                    html += '<div style="padding:0.5rem 0.75rem;border-bottom:1px solid var(--card-border-color);">'
+                        + '<a href="pages/' + p.slug + '.html" style="font-weight:500;">' + p.title + '</a>'
+                        + '<div style="font-size:0.75rem;color:var(--muted-color);">' + p.tags.join(', ') + '</div>'
+                        + '</div>';
+                }
+                if (matches.length < index.filter(function(p) {
+                    return (p.title + ' ' + p.tags.join(' ') + ' ' + p.content).toLowerCase().indexOf(query) !== -1;
+                }).length) {
+                    html += '<div style="padding:0.5rem;text-align:center;font-size:0.8rem;color:var(--muted-color);">... <a href="search.html?q=' + encodeURIComponent(query) + '">more results ▸</a></div>';
+                }
+                resultsDiv.innerHTML = html;
+
+                // Hide results when clicking outside
+                document.addEventListener('click', function handler(ev) {
+                    if (!gs.contains(ev.target) && !resultsDiv.contains(ev.target)) {
+                        resultsDiv.innerHTML = '';
+                        document.removeEventListener('click', handler);
+                    }
+                });
+            });
+        }
+    </script>
+</body>
+</html>
