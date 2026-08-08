@@ -7,9 +7,11 @@ tags: [generative-ai, feedback-loop, student-experience, higher-ed, ai-literacy,
 sources: [raw/papers/tandf-2026-chatgpt-feedback-engagement.md]
 confidence: high
 ---
+
 # Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence
 
-**Ying Zhan & Zi Yan (2026)** — [DOI](https://doi.org/10.1080/02602938.2025.2471821)
+**Ying Zhan & Zi Yan (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 821–834. doi:10.1080/02602938.2025.2471821.
+
 ## Summary
 
 A qualitative study of **16 undergraduates** at a Hong Kong teacher-education university who used **ChatGPT 3.5** to obtain feedback on IELTS writing tasks. Data came from unobtrusive screen-recorded observations plus stimulated-recall interviews. The study extends the traditional tripartite model of feedback engagement (cognitive, affective, behavioural) to a **four-dimensional model adding metacognitive engagement**, and asks what feedback literacy students need in a GenAI context.^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]
@@ -63,4 +65,4 @@ A qualitative study of **16 undergraduates** at a Hong Kong teacher-education un
 
 ## Citation
 
-Zhan, Y., & Yan, Z. (2026). Students' engagement with ChatGPT feedback: Implications for student feedback literacy in the context of generative artificial intelligence. *Assessment & Evaluation in Higher Education*, 51(5), 821–834
+Zhan, Y., & Yan, Z. (2026). Students' engagement with ChatGPT feedback: Implications for student feedback literacy in the context of generative artificial intelligence. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2025.2471821), 51(5), 821–834

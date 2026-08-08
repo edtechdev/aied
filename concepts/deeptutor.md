@@ -7,14 +7,13 @@ tags: [llm, agentic-ai, personalized-learning, intelligent-tutoring, rag, questi
 sources: [raw/papers/2604.26962.md]
 confidence: high
 ---
-> **A fully open-source agentic tutoring framework that closes the loop between citation-grounded problem tutoring and difficulty-calibrated question generation**, powered by a hybrid personalization engine combining static knowledge grounding with dynamic learner memory. Evaluated via TutorBench across 5 university disciplines, improving personalized metrics by 10.8% and general agentic reasoning by 29.4% across 5 backbone models.
-> **Source:** [DeepTutor: Towards Agentic Personalized Tutoring](https://arxiv.org/abs/2604.26962)
 
+> **A fully open-source agentic tutoring framework that closes the loop between citation-grounded problem tutoring and difficulty-calibrated question generation**, powered by a hybrid personalization engine combining static knowledge grounding with dynamic learner memory. Evaluated via TutorBench across 5 university disciplines, improving personalized metrics by 10.8% and general agentic reasoning by 29.4% across 5 backbone models.
 
 ## DeepTutor: Towards Agentic Personalized Tutoring
 
 **Authors:** Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang (University of Hong Kong)
-**ArXiv:** [2604.26962](https://arxiv.org/abs/2604.26962) (v3, July 2026)
+**ArXiv:** 2604.26962 (v3, July 2026)
 **Code:** [github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 
 ### Overview
@@ -54,7 +53,7 @@ DeepTutor addresses a critical gap in [[intelligent-tutoring]]: the disconnect b
 
 ## Citation
 
-Report, T., Personalized, D.T.A., & Tutoring, D.T.A.P. (2026). *DeepTutor: Towards Agentic Personalized Tutoring*
+Report, T., Personalized, D.T.A., & Tutoring, D.T.A.P. (2026). [*DeepTutor: Towards Agentic Personalized Tutoring*](https://arxiv.org/abs/2604.26962)
 
 ## Related Pages
 

@@ -7,9 +7,11 @@ tags: [knowledge-tracing, intelligent-tutoring, llm, personalized-learning, feed
 sources: [raw/papers/2605.01097.md]
 confidence: medium
 ---
+
 # Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
 
-**Huang, S., Scarlatos, A., Lee, J., Lan, A. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.01097)
+**Huang, S., Scarlatos, A., Lee, J., Lan, A. (2026)** — arXiv preprint.
+
 ## Analysis
 
 This paper bridges LLM-based dialogue tutoring and interpretable student modeling. By mapping opaque LLM representations to **Item Response Theory** parameters — student ability (θ) and question difficulty (b) — the framework makes turn-by-turn predictions both accurate and cognitively meaningful. This connects directly to [[knowledge-tracing-irt]] by extending IRT beyond static assessment into live dialogue.^[2605.01097](raw/papers/2605.01097.md)
@@ -27,4 +29,4 @@ The framework was validated across two tutor-student dialogue datasets and outpe
 
 ## Citation
 
-Huang et al. (2026). Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues. arXiv:2605.01097. arXiv preprint.
+Huang et al. (2026). [Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues](https://arxiv.org/abs/2605.01097). arXiv:2605.01097. arXiv preprint.

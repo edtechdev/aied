@@ -7,9 +7,8 @@ tags: [ai-ed-evaluation, feedback-loop, student-experience]
 sources: [raw/papers/becerra-aicofe-feedback-2026.md]
 confidence: medium
 ---
-> **AICoFE** (AI-based Collaborative Feedback) is a multi-LLM feedback generation system for higher education that combines independently fine-tuned language models with **teacher-in-the-loop mediation**, producing diverse feedback perspectives while preserving pedagogical authority through Learning Analytics dashboards.
-> **Source:** ['AICoFE: AI-Powered Feedback System'](https://arxiv.org/abs/2605.04740)
 
+> **AICoFE** (AI-based Collaborative Feedback) is a multi-LLM feedback generation system for higher education that combines independently fine-tuned language models with **teacher-in-the-loop mediation**, producing diverse feedback perspectives while preserving pedagogical authority through Learning Analytics dashboards.
 
 **Authors:** Alvaro Becerra, Alejandra Palma, Ruth Cobos (GHIA Group, Universidad Autónoma de Madrid) · arXiv:2605.04740 · Accepted at LASI Spain 2026
 
@@ -35,7 +34,7 @@ For [[higher-ed]] institutions facing growing assessment loads, AICoFE models a 
 
 ## Citation
 
-Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). *AICoFE: AI-Powered Feedback System*
+Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). [*AICoFE: AI-Powered Feedback System*](https://arxiv.org/abs/2605.04740)
 
 ## Related Pages
 

@@ -7,9 +7,11 @@ tags: [intelligent-tutoring, personalized-learning, efficacy-study, higher-ed, s
 sources: [raw/papers/2606.17470.md]
 confidence: high
 ---
+
 # Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice
 
-**Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho** (2026) . [EC-TEL 2026](https://arxiv.org/abs/2606.17470)
+**Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho** (2026). EC-TEL 2026
+
 ## Key Findings
 
 Lower baseline self-efficacy predicts greater learning gains regardless of practice format. ITS-based practice did not improve post-training self-efficacy over paper. Benefits of tutor vs. paper practice vary with motivational profiles.
@@ -28,4 +30,4 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Citation
 
-Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho (2026). Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice. arXiv:2606.17470. EC-TEL 2026.
+Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho (2026). [Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice](https://arxiv.org/abs/2606.17470). arXiv:2606.17470. EC-TEL 2026.

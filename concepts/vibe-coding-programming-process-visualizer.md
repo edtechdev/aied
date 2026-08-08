@@ -7,9 +7,11 @@ tags: [stem-education, higher-ed, teacher-role, learning-analytics, academic-int
 sources: [raw/papers/2607.24757.md]
 confidence: high
 ---
+
 # From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
 
-**Taveter et al. (2026)** — [FIE 2026 (IEEE Frontiers in Education Conference)](https://arxiv.org/abs/2607.24757)
+**Taveter et al. (2026)** — FIE 2026 (IEEE Frontiers in Education Conference).
+
 Describes rapid development of a Thonny log visualizer using AI-assisted 'vibe coding' to make student programming processes visible to teachers. Piloted in a 160-student introductory programming course. Provides interactive timelines, session summaries, code-size graphs, and programming-process replays supporting teacher decision-making and academic-integrity clarification.
 
 **Relevance to AI in Education:** This paper contributes to the understanding of [[llm-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
@@ -26,4 +28,4 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 
 ## Citation
 
-Heidi Taveter, Marina Lepp (2026). From Idea to Classroom in Days: Using Vibe Coding to Create a Programming Process Visualizer from IDE Activity Logs. arXiv:2607.24757. FIE 2026 (IEEE Frontiers in Education Conference).
+Heidi Taveter, Marina Lepp (2026). [From Idea to Classroom in Days: Using Vibe Coding to Create a Programming Process Visualizer from IDE Activity Logs](https://arxiv.org/abs/2607.24757). arXiv:2607.24757. FIE 2026 (IEEE Frontiers in Education Conference).

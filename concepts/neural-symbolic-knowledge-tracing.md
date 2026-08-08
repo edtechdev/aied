@@ -7,11 +7,10 @@ tags: [intelligent-tutoring, learning-analytics, adaptive-learning, pedagogical-
 sources: [raw/papers/2604.08263.md]
 confidence: medium
 ---
+
 # Neural-Symbolic Knowledge Tracing
 
 > Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems.
-> **Source:** [Neural-Symbolic Knowledge Tracing](https://arxiv.org/abs/2604.08263)
-
 
 ## The Problem with Pure Neural Approaches
 
@@ -98,7 +97,7 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 
 ## Citation
 
-accuracy?, H.D.R.C.W.C.D.I.P., predictions?, H.D.R.P.I.E.O.S.K., & 2021, O.L.E.M.C.S. (2026). *Neural-Symbolic Knowledge Tracing*
+accuracy?, H.D.R.C.W.C.D.I.P., predictions?, H.D.R.P.I.E.O.S.K., & 2021, O.L.E.M.C.S. (2026). [*Neural-Symbolic Knowledge Tracing*](https://arxiv.org/abs/2604.08263)
 
 ## Related Pages
 

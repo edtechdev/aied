@@ -7,9 +7,11 @@ tags: [agentic-ai, cs-education, generative-ai, higher-ed, llm, over-reliance, p
 sources: [raw/papers/2607.06101.md]
 confidence: high
 ---
+
 # Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 
-**Rohit Mehra et al. (2026)** — [arXiv preprint](https://arxiv.org/abs/2607.06101)
+**Rohit Mehra et al. (2026)** — IBM Research / International Institute of Information Technology. arXiv.
+
 As AI coding agents take over substantial implementation work, developers increasingly lose the informal, effortful problem-solving through which software engineering expertise historically accumulated. The authors argue this "incidental learning" will not return spontaneously and that over-reliance on agentic coding lets unpracticed skills atrophy, accruing a developer-level analogue of Technical Debt they name **Knowledge Debt** — changes the agent executes that the developer cannot fully understand. They propose six design principles for learning-aware development and operationalize them in **SHIELD**, a multi-agent system that surfaces contextual, out-of-band learning moments drawn from the coding agent's own reasoning without disrupting developer flow.
 
 ## Key Contributions
@@ -27,4 +29,4 @@ As AI coding agents take over substantial implementation work, developers increa
 
 ## Citation
 
-Mehra, R., Suri, S., Tagadinamani, P. K., Singi, K., & Kaulgud, V. (2026). Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development. arXiv:2607.06101.
+Mehra, R., Suri, S., Tagadinamani, P. K., Singi, K., & Kaulgud, V. (2026). [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](https://arxiv.org/abs/2607.06101). arXiv:2607.06101.

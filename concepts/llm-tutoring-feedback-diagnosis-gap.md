@@ -7,9 +7,11 @@ tags: [intelligent-tutoring, llm, generative-ai, benchmark, scaffolding, feedbac
 sources: [raw/papers/2605.16207.md]
 confidence: high
 ---
+
 # Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
 
-**Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026)** — [North Carolina State University. arXiv preprint](https://arxiv.org/abs/2605.16207)
+**Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026)** — North Carolina State University. arXiv preprint.
+
 ## Key Finding
 LLM tutors achieve near-ceiling on correct steps but systematically over-reject valid-suboptimal reasoning and over-validate incorrect solutions — precisely where adaptive tutoring matters most.
 
@@ -18,7 +20,7 @@ This paper exposes a critical diagnostic blind spot in LLM-based tutoring agents
 
 ## Citation
 
-preprint, A. (2026). *Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most*
+preprint, A. (2026). [*Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most*](https://arxiv.org/abs/2605.16207)
 
 ## Related Pages
 - [[llm-handwritten-math-grading]] — Shares diagnostic precision challenges: transcription errors are the primary failure mode

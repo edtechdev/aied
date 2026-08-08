@@ -8,8 +8,6 @@ sources: [raw/papers/huang-interpretable-knowledge-tracing-2026.md]
 confidence: medium
 ---
 > **Interpretable Knowledge Tracing** — A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using Item Response Theory, producing interpretable cognitive quantities from LLM output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.
-> **Source:** [Interpretable Knowledge Tracing](https://arxiv.org/abs/2605.01097)
-
 
 **Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan** (UMass Amherst) — arXiv:2605.01097, May 2026.
 
@@ -45,7 +43,7 @@ Future work should extend the framework to multi-skill settings (where students 
 
 ## Citation
 
-Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). *Interpretable Knowledge Tracing*
+Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing*](https://arxiv.org/abs/2605.01097)
 
 ## Related Pages
 

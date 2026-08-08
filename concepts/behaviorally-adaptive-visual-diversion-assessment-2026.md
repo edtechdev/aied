@@ -7,9 +7,8 @@ tags: [assessment, accessible-learning, privacy, academic-integrity, equity, ada
 sources: [raw/papers/2608.03531.md]
 confidence: high
 ---
-> **Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... [[assessment]] [[accessible-learning]] [[privacy]] [[academic-integrity]] [[equity]] [[adaptive-learning]]
-> **Source:** [Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery](https://arxiv.org/abs/2608.03531)
 
+> **Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... [[assessment]] [[accessible-learning]] [[privacy]] [[academic-integrity]] [[equity]] [[adaptive-learning]]
 
 # Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery
 
@@ -35,4 +34,4 @@ Institutions increasingly rely on browser lockdown, webcam monitoring, and behav
 
 ## Citation
 
-Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, & Parali Prajithaa (2026). Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery. arXiv:2608.03531. arXiv:2608.03531 [cs.AI].
+Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, & Parali Prajithaa (2026). [Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery](https://arxiv.org/abs/2608.03531). arXiv:2608.03531. arXiv:2608.03531 [cs.AI].

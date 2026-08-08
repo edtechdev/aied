@@ -7,9 +7,11 @@ tags: [generative-ai, higher-ed, student-experience, active-learning]
 sources: [raw/papers/2607.24752.md]
 confidence: medium
 ---
+
 # Development and applications of Generative AI in architectural design studios
 
-**Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026)** — [arXiv:2607.24752 (cs.HC)](https://arxiv.org/abs/2607.24752)
+**Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026)** — arXiv:2607.24752 (cs.HC)
+
 ## Summary
 
 Examines the integration of deep generative models into architectural design education. Explores how GenAI tools affect the creative process in design studios, finding both enhancement of ideation and concerns about the erosion of foundational design skills. Proposes pedagogical frameworks for balancing AI augmentation with skill development.
@@ -32,4 +34,4 @@ The work connects to broader discussions in AI and education around [[generative
 
 ## Citation
 
-Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026). Development and applications of Generative AI in architectural design studios. arXiv:2607.24752. cs.HC.
+Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026). [Development and applications of Generative AI in architectural design studios](https://arxiv.org/abs/2607.24752). arXiv:2607.24752. cs.HC.

@@ -7,9 +7,11 @@ tags: [intelligent-tutoring, mastery-learning, adaptive-learning, engagement-met
 sources: ["raw/papers/2605.21613.md"]
 confidence: high
 ---
+
 # Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
 
-**Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers (2026)** — [Carnegie Mellon University. EDM 2026 (short paper)](https://arxiv.org/abs/2605.21613)
+**Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers (2026)** — Carnegie Mellon University. EDM 2026 (short paper).
+
 ## Summary
 
 Intelligent Tutoring Systems often grant learners shared control over skill and problem selection. We propose a simulation-based framework to examine how learner task-selection strategies and system constraints shape mastery learning efficiency.
@@ -27,4 +29,4 @@ This paper introduces a simulation-based framework for evaluating how learner ta
 
 ## Citation
 
-Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers (2026). Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning. arXiv:2605.21613. EDM 2026 (short paper).
+Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers (2026). [Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning](https://arxiv.org/abs/2605.21613). arXiv:2605.21613. EDM 2026 (short paper).

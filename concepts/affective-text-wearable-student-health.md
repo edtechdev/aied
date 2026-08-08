@@ -7,9 +7,11 @@ tags: [affective-computing, student-experience, higher-ed, learning-analytics]
 sources: [raw/papers/2605.14360.md]
 confidence: medium
 ---
+
 # Brief Affective Text and Wearable Sensing for Student Health Monitoring
 
-**Tamunotonye Harry, Johanna Hidalgo, Matthew Price, Yuanyuan Feng, Kathryn Stanton, Connie Tompkins, Peter Sheridan Dodds, Mikaela Irene Fudolig, Laura Bloomfield, Christopher Danforth (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.14360)
+**Tamunotonye Harry, Johanna Hidalgo, Matthew Price, Yuanyuan Feng, Kathryn Stanton, Connie Tompkins, Peter Sheridan Dodds, Mikaela Irene Fudolig, Laura Bloomfield, Christopher Danforth (2026)** — University of Vermont and collaborators. arXiv:2605.14360 [cs.HC]. Submitted to ACM IMWUT.
+
 ## Key Findings
 
 In a year-long study of 458 university students (3,610 person-waves) using Oura rings for passive physiological sensing, researchers examined whether **ultra-brief affective text prompts** (median 3-word responses to "what concerns you most?") could enrich the interpretation of wearable data. Using NLP methods spanning dictionary-based (LIWC), general pretrained embeddings, and domain-adapted models:
@@ -45,4 +47,4 @@ The dissociation between topic and affect aligns with [[multimodal-ai-feedback-l
 
 ## Citation
 
-Harry, T., Hidalgo, J., Price, M., Feng, Y., Stanton, K., Tompkins, C., Dodds, P. S., Fudolig, M. I., Bloomfield, L., & Danforth, C. (2026). A formative study of brief affective text as a complement to wearable sensing for longitudinal student health monitoring. arXiv:2605.14360 [cs.HC]. Submitted to ACM IMWUT.
+Harry, T., Hidalgo, J., Price, M., Feng, Y., Stanton, K., Tompkins, C., Dodds, P. S., Fudolig, M. I., Bloomfield, L., & Danforth, C. (2026). [A formative study of brief affective text as a complement to wearable sensing for longitudinal student health monitoring](https://arxiv.org/abs/2605.14360). arXiv:2605.14360 [cs.HC]. Submitted to ACM IMWUT.

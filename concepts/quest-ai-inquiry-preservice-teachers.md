@@ -7,16 +7,15 @@ tags: [ai-literacy, faculty-development, generative-ai, efficacy-study, higher-e
 sources: [raw/papers/caeai-quest-ai-inquiry.md]
 confidence: medium
 ---
-> **Synthesis:** Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers
-> **Source:** [Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers](https://doi.org/10.1016/j.caeai.2026.100630)
 
+> **Synthesis:** Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers
 
 # Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers
 
 
 ## Citation
 
-Wicks, A.D.C.Y.Y.A.X.D., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). *Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers*
+Wicks, A.D.C.Y.Y.A.X.D., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers*](https://doi.org/10.1016/j.caeai.2026.100630)
 
 ## Related Pages
 - [[ai-literacy]]

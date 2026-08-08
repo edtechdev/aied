@@ -6,9 +6,8 @@ tags: [generative-ai, ai-literacy, equity, productivity, efficacy-study, higher-
 sources: [raw/papers/2605.18143.md]
 confidence: high
 ---
-> **Synthesis:** Idan & Anand (2026) conduct an RCT showing that GenAI access significantly increases task performance on average — but the gains are highly uneven, NOT predicted by GPA or prior knowledge, but by AI Interaction Competence (AIC): the ability to elicit, filter, and verify model outputs. High-AIC participants realized outsized gains while low-AIC saw limited or negative returns. A scaffolding intervention (conceptual maps) reduced outcome variance, showing that standardized workflows can mitigate the new "AI productivity divide."
-> **Source:** [Generative AI and the Productivity Divide: Human-AI Complementarities in Education](https://arxiv.org/abs/2605.18143)
 
+> **Synthesis:** Idan & Anand (2026) conduct an RCT showing that GenAI access significantly increases task performance on average — but the gains are highly uneven, NOT predicted by GPA or prior knowledge, but by AI Interaction Competence (AIC): the ability to elicit, filter, and verify model outputs. High-AIC participants realized outsized gains while low-AIC saw limited or negative returns. A scaffolding intervention (conceptual maps) reduced outcome variance, showing that standardized workflows can mitigate the new "AI productivity divide."
 
 # Generative AI and the Productivity Divide: Human-AI Complementarities in Education
 
@@ -32,6 +31,4 @@ This work connects to: [[generative-ai]][[ai-literacy]][[equity]][[efficacy-stud
 
 ## Citation
 
-Idan & Anand (2026) conduct an RCT showing that GenAI access significantly increases task performance on average — but the gains are highly uneven, NOT predicted by GPA or prior knowledge, but by AI Interaction Competence (AIC): the ability to elicit, filter, and verify model outputs. High-AIC participants realized outsized gains while low-AIC saw limited or negative returns. A scaffolding intervention (conceptual maps) reduced outcome variance, showing that standardized workflows can mitigate the new "AI productivity divide."
-
-# Generative AI and the Productivity Divide: Human-AI Complementarities in Education. Generative AI and the Productivity Divide: Human-AI Complementarities in Education.
+Idan, L., & Anand, B. (2026). [Generative AI and the Productivity Divide: Human-AI Complementarities in Education](https://arxiv.org/abs/2605.18143).

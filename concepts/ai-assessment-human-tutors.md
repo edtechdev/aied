@@ -7,9 +7,11 @@ tags: [intelligent-tutoring, automated-grading, feedback-loop, teacher-role, eff
 sources: [raw/papers/2606.18617.md]
 confidence: high
 ---
+
 # AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 
-**Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borchers, Kenneth R. Koedinger (2026)** — [Institution](https://arxiv.org/abs/2606.18617)
+**Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borchers, Kenneth R. Koedinger (2026)** — Institution.
+
 AI-driven assessment of human tutor training performance correlates with real-life tutoring quality; bridges the gap between training metrics and classroom practice.
 
 ## Synthesis
@@ -27,4 +29,4 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
 
 ## Citation
 
-Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borchers, Kenneth R. Koedinger (2026). AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice. arXiv:2606.18617.
+Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borchers, Kenneth R. Koedinger (2026). [AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice](https://arxiv.org/abs/2606.18617). arXiv:2606.18617.

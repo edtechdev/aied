@@ -7,11 +7,10 @@ tags: [pedagogical-safety, intelligent-tutoring, adaptive-learning, k-12, higher
 confidence: high
 sources: [raw/papers/hazra-safetutors-pedagogical-safety-2026.md]
 ---
+
 # AI Tutor Safety and Pedagogical Harms
 
 > "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that **all tested models show broad pedagogical harm**, with failures escalating from **17.7% in single-turn to 77.8% in multi-turn** student-tutor dialogue.^[[hazra-safetutors-pedagogical-safety-2026]]
-> **Source:** [AI Tutor Safety and Pedagogical Harms](https://arxiv.org/abs/2603.17373)
-
 
 ## Why Tutoring Safety Is Different
 
@@ -66,7 +65,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 
 ## Citation
 
-acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). *AI Tutor Safety and Pedagogical Harms*
+acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). [*AI Tutor Safety and Pedagogical Harms*](https://arxiv.org/abs/2603.17373)
 
 ## Related Pages
 - [[xai-education-framework]]

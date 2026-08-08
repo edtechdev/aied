@@ -7,9 +7,11 @@ tags: [intelligent-tutoring, llm, teacher-role, faculty-development, edtech-plat
 sources: [raw/papers/2605.16605.md]
 confidence: high
 ---
+
 # PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
 
-**Koyama, M., Xiao, R., & Stamper, J. (2026)** — [Carnegie Mellon University. arXiv preprint](https://arxiv.org/abs/2605.16605)
+**Koyama, M., Xiao, R., & Stamper, J. (2026)** — Carnegie Mellon University. arXiv preprint.
+
 ## Key Finding
 Teachers virtually never test AI tutoring bots before student deployment; PromptDecipher enforces QA as a first-class activity by letting teachers edit bot responses directly.
 
@@ -18,7 +20,7 @@ PromptDecipher addresses a critical gap in AI tutor deployment: teacher quality 
 
 ## Citation
 
-J, A.K.M.X.R.S. (2026). *PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions*. practice, however, teachers rarely fulfill these roles
+J, A.K.M.X.R.S. (2026). [*PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions*](https://arxiv.org/abs/2605.16605). practice, however, teachers rarely fulfill these roles
 
 ## Related Pages
 - [[concept-catalyst-engineering-scaffolds]]

@@ -7,9 +7,11 @@ tags: [project-based-learning, generative-ai, formative-assessment, stem-educati
 sources: [raw/papers/2607.11032.md]
 confidence: high
 ---
+
 # LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
 
-**Ahmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026)** — [arXiv preprint](https://arxiv.org/abs/2607.11032)
+**Ahmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026)** — arXiv preprint.
+
 Introduces 'design problems' (DPs): concise, scenario-based prompts that require applying knowledge in transfer contexts, generated with LLMs to assess higher-order thinking (HOT) in project-based learning. Traditional PjBL assessments often fail to capture HOT, especially transfer; DPs target that gap.
 
 Bridges [[generative-ai]] generation with [[formative-assessment]] and [[project-based-learning]], linking to [[scaffolding]] of complex tasks and [[higher-ed]]/[[cs-education]] contexts. It contributes a concrete method for scaling HOT assessment and informs [[ai-generated-content]] used for evaluation rather than just content delivery.
@@ -24,4 +26,4 @@ Bridges [[generative-ai]] generation with [[formative-assessment]] and [[project
 
 ## Citation
 
-Ahmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026). LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning. arXiv:2607.11032. arXiv preprint.
+Ahmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026). [LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning](https://arxiv.org/abs/2607.11032). arXiv:2607.11032. arXiv preprint.

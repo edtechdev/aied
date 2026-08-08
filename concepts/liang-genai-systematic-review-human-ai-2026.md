@@ -6,9 +6,8 @@ tags: [systematic-review, generative-ai, human-ai-interaction, ai-literacy, high
 sources: [raw/papers/liang-genai-systematic-review-2026.md]
 confidence: high
 ---
-> **Synthesis:** Liang, Yang, Sha, Gašević, Yan & Chen (2026) systematically review 56 empirical studies on GenAI in education through the AIED-HCD framework, analyzing three human–AI interaction modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated human–AI complementarity.
-> **Source:** [A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective](https://doi.org/10.1111/bjet.70055)
 
+> **Synthesis:** Liang, Yang, Sha, Gašević, Yan & Chen (2026) systematically review 56 empirical studies on GenAI in education through the AIED-HCD framework, analyzing three human–AI interaction modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated human–AI complementarity.
 
 # A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
 
@@ -32,6 +31,4 @@ This work connects to: [[systematic-review]][[generative-ai]][[human-ai-interact
 
 ## Citation
 
-Liang, Yang, Sha, Gašević, Yan & Chen (2026) systematically review 56 empirical studies on GenAI in education through the AIED-HCD framework, analyzing three human–AI interaction modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated human–AI complementarity.
-
-# A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective. A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective.
+Liang, Z., Yang, K., Sha, L., Gašević, D., Yan, L., & Chen, G. (2026). [A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective](https://doi.org/10.1111/bjet.70055).

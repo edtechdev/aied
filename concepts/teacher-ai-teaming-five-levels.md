@@ -7,9 +7,8 @@ tags: [teacher-role, teacher-ai-teaming, generative-ai, human-ai-interaction, te
 sources: [raw/papers/2511.19580.md]
 confidence: high
 ---
-> **Synthesis:** Drawing on a systematic literature review, this UCL chapter proposes a five-level framework of teacher-AI teaming—transactional, situational, operational, praxical, and synergistic—to capture how GenAI interactions may replace, complement, or augment teacher competence. The framework moves beyond task division toward collaborative decision-making where teachers and AI engage in negotiation, constructive challenge, and co-reasoning.
-> **Source:** [Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence](https://arxiv.org/abs/2511.19580)
 
+> **Synthesis:** Drawing on a systematic literature review, this UCL chapter proposes a five-level framework of teacher-AI teaming—transactional, situational, operational, praxical, and synergistic—to capture how GenAI interactions may replace, complement, or augment teacher competence. The framework moves beyond task division toward collaborative decision-making where teachers and AI engage in negotiation, constructive challenge, and co-reasoning.
 
 # Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence
 
@@ -41,7 +40,7 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 
 ## Citation
 
-Cukurova, M., Suraworachet, W., Zhou, Q., & Bulathwela, S. (2025). *Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence*. arXiv preprint.
+Cukurova, M., Suraworachet, W., Zhou, Q., & Bulathwela, S. (2025). [*Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence*](https://arxiv.org/abs/2511.19580). arXiv preprint.
 
 ## Related Pages
 

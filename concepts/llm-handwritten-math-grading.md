@@ -7,9 +7,11 @@ tags: [automated-grading, llm, stem-education, higher-ed, efficacy-study, multim
 sources: ["raw/papers/2605.19043.md"]
 confidence: high
 ---
+
 # Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
 
-**Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.19043)
+**Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026)** — University of Illinois Urbana-Champaign. International Conference on AI in Education (AIED 2026).
+
 ## Summary
 
 Automated grading systems have enabled scalable assessment for many response types, but handwritten mathematics remains a barrier due to the complexity of multi-step solutions. Vision-capable large language models (LLMs) offer new opportunities here, yet their reliability in authentic instructional settings remains poorly understood.
@@ -30,4 +32,4 @@ This paper presents an empirical evaluation of a vision-capable LLM-based grader
 
 ## Citation
 
-Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026). Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs. arXiv:2605.19043. International Conference on AI in Education (AIED 2026).
+Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026). [Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs](https://arxiv.org/abs/2605.19043). arXiv:2605.19043. International Conference on AI in Education (AIED 2026).

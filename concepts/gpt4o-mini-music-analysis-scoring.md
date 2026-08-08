@@ -7,9 +7,8 @@ tags: [automated-grading, llm, assessment-validity, higher-ed, ai-ed-evaluation]
 sources: [raw/papers/2608.01783.md]
 confidence: high
 ---
-> **GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought prompting agreeing most strongly with teacher means while RAG systematically over-scores and self-consistency trades individual-level agreement for repeatability.**
-> **Source:** [Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias](https://arxiv.org/abs/2608.01783)
 
+> **GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought prompting agreeing most strongly with teacher means while RAG systematically over-scores and self-consistency trades individual-level agreement for repeatability.**
 
 # Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias
 
@@ -38,4 +37,4 @@ Operational use requires strategy-specific calibration, dimension-level validati
 
 ## Citation
 
-Baicheng Lin, Lingxi Jin, Kyung-Seok Min (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv:2608.01783. arXiv (cs.HC / cs.SD) preprint.
+Baicheng Lin, Lingxi Jin, Kyung-Seok Min (2026). [Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias](https://arxiv.org/abs/2608.01783). arXiv:2608.01783. arXiv (cs.HC / cs.SD) preprint.

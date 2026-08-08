@@ -7,9 +7,11 @@ tags: [llm, formative-assessment, adaptive-learning, feedback-loop, student-expe
 sources: [raw/papers/2607.26067.md]
 confidence: high
 ---
+
 # The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 
-**Hadi et al. (2026)** — [EDM 2026 (Educational Data Mining Conference)](https://arxiv.org/abs/2607.26067)
+**Hadi et al. (2026)** — EDM 2026 (Educational Data Mining Conference).
+
 LLMs systematically underestimate the difficulty of misconception-driven items ('The Easy Trap'). While LLM ratings show moderate rank correlation with empirical student difficulty (rho=0.52-0.70), they misclassify several fraction items as easy that are among the hardest for students (e.g., 34% correct). LLMs approximate curricular rather than cognitive difficulty.
 
 **Relevance to AI in Education:** This paper contributes to the understanding of [[llm-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
@@ -26,4 +28,4 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 
 ## Citation
 
-Amanda La Hadi, Muhammad Johan Alibasa, Guanliang Chen, A. Taufiq Asyhari (2026). The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty. arXiv:2607.26067. EDM 2026 (Educational Data Mining Conference).
+Amanda La Hadi, Muhammad Johan Alibasa, Guanliang Chen, A. Taufiq Asyhari (2026). [The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty](https://arxiv.org/abs/2607.26067). arXiv:2607.26067. EDM 2026 (Educational Data Mining Conference).

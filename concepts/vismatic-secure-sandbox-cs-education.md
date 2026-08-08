@@ -9,7 +9,8 @@ confidence: high
 ---
 # VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring
 
-**Arroyo, López & Torres (2026)** — [Universidad de Granada](https://arxiv.org/abs/2606.05929)
+**Arroyo, López & Torres (2026)** — Universidad de Granada.
+
 Addresses a critical tension in [[stem-education|CS education]]: the widespread adoption of generative AI makes it impossible to distinguish authentic student effort from AI code synthesis by evaluating final submissions alone. The paper presents **VISMATIC**, a rootless containerized framework that pairs robust environment isolation with explicit user-interaction tracking at the API level.
 
 **Key innovation:** VISMATIC captures macro-level behavioral metrics (keystroke patterns, command execution timing, copy-paste behavior) that successfully flag statistical anomalies indicative of automated or off-platform workflows — while preserving student anonymity. Unlike JupyterHub, which exposes the host system to arbitrary shell commands, VISMATIC's rootless containers prevent lateral movement and host compromise.
@@ -26,4 +27,4 @@ The framework provides a scalable blueprint for [[academic-integrity|preserving 
 
 ## Citation
 
-Arroyo, G., López, L., & Torres, J. C. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. arXiv:2606.05929.
+Arroyo, G., López, L., & Torres, J. C. (2026). Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education. [arXiv:2606.05929](https://arxiv.org/abs/2606.05929).
