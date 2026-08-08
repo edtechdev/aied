@@ -7,9 +7,11 @@ tags: [teacher-role, stem-education, ai-generated-content, curriculum-design, pe
 sources: ["raw/papers/2605.10672.md"]
 confidence: high
 ---
+
 # Teacher Control of AI-Generated Mathematics Visuals
 
-**Zhengxu Li, Junling Wang, April Yi Wang (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.10672)
+**Zhengxu Li, Junling Wang, April Yi Wang (2026)** — ACM L@S 2026. Study of when teachers should control AI-generated classroom visuals.
+
 ## Key Findings
 
 Generative AI can help teachers rapidly create classroom-ready visual materials, particularly in mathematics where diagrams and visual representations must be **pedagogically meaningful and instructionally correct**. This paper investigates when and how teachers should control AI generation of mathematical visuals.^[raw/papers/2605.10672.md]
@@ -32,4 +34,4 @@ The findings also relate to [[ai-generated-content]] and [[principled-ai-educati
 
 ## Citation
 
-Li, Z., Wang, J., & Wang, A. Y. (2026). When should teachers control AI generation for mathematics visuals? arXiv:2605.10672. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S 2026), Seoul, Republic of Korea.
+Li, Z., Wang, J., & Wang, A. Y. (2026). [When should teachers control AI generation for mathematics visuals?](https://arxiv.org/abs/2605.10672) arXiv:2605.10672. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S 2026), Seoul, Republic of Korea.

@@ -7,9 +7,8 @@ tags: [agentic-ai, design-thinking, higher-ed, scaffolding, student-ai-interacti
 sources: [raw/papers/2608.04166.md]
 confidence: high
 ---
-> **Synthesis:** Investigates adversarial AI design agents that enact constructive conflict to prompt reconsideration in novice designers. Between-subjects experiment (N=48) comparing adversarial vs. cooperative AI agent roles. Adversarial agent condition produced significantly more design iterations, broader exploration of alternatives, and higher-rated final designs. Participants reported the conflict agent was frustrating but ultimately helpful — a productive friction dynamic. Connects to adversarial design theory and Socratic tutoring. [[agentic-ai]], [[scaffolding]], [[student-ai-interaction]], [[design-thinking]], and [[socratic-method]].
-> **Source:** [Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers](https://arxiv.org/abs/2608.04166)
 
+> **Synthesis:** Investigates adversarial AI design agents that enact constructive conflict to prompt reconsideration in novice designers. Between-subjects experiment (N=48) comparing adversarial vs. cooperative AI agent roles. Adversarial agent condition produced significantly more design iterations, broader exploration of alternatives, and higher-rated final designs. Participants reported the conflict agent was frustrating but ultimately helpful — a productive friction dynamic. Connects to adversarial design theory and Socratic tutoring. [[agentic-ai]], [[scaffolding]], [[student-ai-interaction]], [[design-thinking]], and [[socratic-method]].
 
 # Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 
@@ -27,4 +26,4 @@ Investigates adversarial AI design agents that enact constructive conflict to pr
 
 ## Citation
 
-Howard Ziyu Han, & Nikolas Martelaro (2026). Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers. arXiv:2608.04166. Human-Agent Interaction (HAI) 2026.
+Howard Ziyu Han, & Nikolas Martelaro (2026). [Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers](https://arxiv.org/abs/2608.04166). arXiv:2608.04166. Human-Agent Interaction (HAI) 2026.

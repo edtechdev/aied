@@ -7,9 +7,11 @@ tags: [ai-literacy, faculty-development, generative-ai, multi-agent, scaffolding
 sources: [raw/papers/2605.13906.md]
 confidence: medium
 ---
+
 # Modeling AI-TPACK in Practice
 
-**Yimeng Sun, Haiyang Xin, Shuang Li, Qiannan Niu, Ching Sing Chai, Lingyun Huang, Gaowei Chen (2026)** — [Multiple institutions. arXiv:2605.13906 [cs.CY]](https://arxiv.org/abs/2605.13906)
+**Yimeng Sun, Haiyang Xin, Shuang Li, Qiannan Niu, Ching Sing Chai, Lingyun Huang, Gaowei Chen (2026)** — Multiple institutions. arXiv:2605.13906 [cs.CY].
+
 ## Key Findings
 
 This study investigates how teachers design multi-agent instructional workflows and identifies three distinct **teacher archetypes** that emerge from behavioral log analysis of 61 in-service teachers:

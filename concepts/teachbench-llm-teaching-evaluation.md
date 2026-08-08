@@ -7,11 +7,10 @@ tags: [llm, benchmark, formative-assessment, personalized-learning, feedback-loo
 sources: [raw/papers/2601.21375.md]
 confidence: high
 ---
+
 # TeachBench: Evaluating LLM Teaching Ability
 
 > Syllabus-grounded framework for measuring LLM teaching capability via student performance improvement after multi-turn instruction.
-> **Source:** [TeachBench - Evaluating LLM Teaching Ability](https://arxiv.org/abs/2601.21375)
-
 
 ## The Gap in LLM Evaluation
 
@@ -84,7 +83,7 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 
 ## Citation
 
-Models, T.A.S.F.F.E.T.A.I.L.L. (2026). *TeachBench - Evaluating LLM Teaching Ability*
+Models, T.A.S.F.F.E.T.A.I.L.L. (2026). [*TeachBench - Evaluating LLM Teaching Ability*](https://arxiv.org/abs/2601.21375)
 
 ## Related Pages
 - [[eduagentbench-agent-teaching-benchmark]] — EduAgentBench complements TeachBench with workflow-level teaching tasks

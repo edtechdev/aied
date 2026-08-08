@@ -7,9 +7,11 @@ tags: [higher-ed, student-experience, ai-literacy, academic-integrity, engagemen
 sources: [raw/papers/2606.18541.md]
 confidence: medium
 ---
+
 # Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity
 
-**Victor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026)** — [Institution](https://arxiv.org/abs/2606.18541)
+**Victor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026)** — Institution.
+
 Computing students show inconsistencies between confidence in cybersecurity knowledge and actual safe practices; educational interventions are needed to close the gap.
 
 ## Synthesis
@@ -25,4 +27,4 @@ Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cyb
 
 ## Citation
 
-Victor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026). Confident yet Concerned: Inconsistencies in Computing Students&#39; Attitudes on Cybersecurity. arXiv:2606.18541.
+Victor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026). [Confident yet Concerned: Inconsistencies in Computing Students&#39; Attitudes on Cybersecurity](https://arxiv.org/abs/2606.18541). arXiv:2606.18541.

@@ -7,9 +7,11 @@ tags: [intelligent-tutoring, llm, generative-ai, scaffolding, formative-assessme
 sources: [raw/papers/2605.12988.md]
 confidence: high
 ---
+
 # Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 
-**Jain, Bhatt, Pitts, Pandya, Brusilovsky, Norouzi, Hellas, Leinonen & Akram (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.12988)
+**Jain, Bhatt, Pitts, Pandya, Brusilovsky, Norouzi, Hellas, Leinonen & Akram (2026)** — University of Pittsburgh, Aalto University, UC San Diego. Accepted to BEA 2026 (co-located with ACL 2026).
+
 ## Synthesis
 
 KITE (Knowledge-Informed Tutoring Engine) introduces a [[intelligent-tutoring]] architecture that grounds its responses in course materials through a multimodal [[scaffolding|RAG pipeline]]. Unlike generic LLM tutors that may drift from curriculum content, KITE retrieves relevant material — lecture slides, problem sets, code examples — before generating Socratic hints, guiding questions, and progressive scaffolds tailored to the student's current error.
@@ -39,4 +41,4 @@ This work contributes to the growing literature on [[llm-student-modeling-memory
 
 ## Citation
 
-Jain, M., Bhatt, T., Pitts, G., Pandya, A., Brusilovsky, P., Norouzi, N., Hellas, A., Leinonen, J., & Akram, B. (2026). Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education. arXiv:2605.12988. BEA 2026.
+Jain, M., Bhatt, T., Pitts, G., Pandya, A., Brusilovsky, P., Norouzi, N., Hellas, A., Leinonen, J., & Akram, B. (2026). [Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education](https://arxiv.org/abs/2605.12988). arXiv:2605.12988. BEA 2026.

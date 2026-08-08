@@ -6,9 +6,8 @@ tags: [physics-education, student-experience, ai-literacy, higher-ed, stem-educa
 sources: [raw/papers/becker-chatgpt-typology-physics-2026.md]
 confidence: high
 ---
-> **Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from physics students using qualitative content analysis and latent class analysis, identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for scaffolding despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over overreliance concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all AI policies and calling for differentiated pedagogy.
-> **Source:** [Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education](https://doi.org/10.1103/gd1w-1637)
 
+> **Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from physics students using qualitative content analysis and latent class analysis, identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for scaffolding despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over overreliance concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all AI policies and calling for differentiated pedagogy.
 
 # Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education
 
@@ -33,6 +32,4 @@ This work connects to: [[physics-education]][[student-experience]][[ai-literacy]
 
 ## Citation
 
-Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from physics students using qualitative content analysis and latent class analysis, identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for scaffolding despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over overreliance concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all AI policies and calling for differentiated pedagogy.
-
-# Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education. Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education.
+Becker, E., Bauer, A., Schrader, J., Bitzenbauer, P., & Veith, J. (2026). [Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education](https://doi.org/10.1103/gd1w-1637).

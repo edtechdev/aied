@@ -7,9 +7,11 @@ tags: [generative-ai, over-reliance, stem-education, k-12, higher-ed, learning-g
 sources: [raw/papers/2605.21629.md]
 confidence: high
 ---
+
 # Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
 
-**Rismanchian, Uzun, Matayoshi, Cosyn & Kurd-Misto (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.21629)
+**Rismanchian, Uzun, Matayoshi, Cosyn & Kurd-Misto (2026)** — ALEKS/McGraw Hill. arXiv preprint (cs.CY, cs.AI, cs.HC).
+
 ## Summary
 
 This landmark study provides the **first large-scale behavioral and outcome evidence** that [[generative-ai]] has fundamentally altered how students study and what they retain. Using a ten-year panel of **3.2 million ALEKS learning interactions** and complementary placement-assessment data, the authors employ a quasi-experimental design that exploits within-curriculum variation in AI susceptibility: text-based word problems that can be transcribed into AI prompts serve as the treated group, while graph-based problems requiring interactive platform manipulation serve as the comparison.
@@ -55,4 +57,4 @@ This study provides the strongest empirical evidence yet for the [[over-reliance
 
 ## Citation
 
-Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build. arXiv:2605.21629.
+Rismanchian, S., Uzun, H., Matayoshi, J., Cosyn, E., & Kurd-Misto, E. (2026). [Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build](https://arxiv.org/abs/2605.21629). arXiv:2605.21629.

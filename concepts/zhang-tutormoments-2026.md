@@ -31,6 +31,4 @@ This work connects to: [[intelligent-tutoring]][[scaffolding]][[llm-evaluation]]
 
 ## Citation
 
-Zhang et al. (2026) introduce TutorMoments, a replay-based evaluation framework that tests whether LM tutors adapt their pedagogical actions to context — scaffolding when support is needed, pushing for rigor when students are ready, and avoiding over-scaffolding. Evaluating 462 teacher-annotated transcripts from grades 2-7 math tutoring, they find frontier models default toward over-helpfulness at the expense of productive struggle. The paper argues that AI optimized for helpfulness may be misaligned with the pedagogical goal of providing the right help at the right moment.
-
-# When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle. [When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle](https://example.com/tutormoments-preview.pdf).
+Zhang, A., Ross, A., Patel, K., Bernado, J., Bowie, R., Ribeiro, A. T., Halper, D., Valayaputtur, H., Andreas, J., Loeb, S., Lucy, L., Lo, K., & Knight, R. (2026). [When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle](https://example.com/tutormoments-preview.pdf).

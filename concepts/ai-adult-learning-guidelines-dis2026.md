@@ -7,9 +7,8 @@ tags: [adult-learning, design-guidelines, andragogy, ai-education, human-compute
 sources: [raw/papers/ai-adult-learning-guidelines-dis2026.md]
 confidence: high
 ---
-> **Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for Adult Learning and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning technologies. The guidelines span cognitive, social, and teaching presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.
-> **Source:** [Guidelines for Designing AI Technologies to Support Adult Learning](https://doi.org/10.1145/3800645.3813102)
 
+> **Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for Adult Learning and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning technologies. The guidelines span cognitive, social, and teaching presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.
 
 # Guidelines for Designing AI Technologies to Support Adult Learning
 
@@ -76,7 +75,7 @@ The guidelines span four categories:
 
 ## Citation
 
-13-17, V.D.J., Adult, G.F.D.A.T.T.S., Reddig∗, J., Computing, I., Georgia, A., & Morris, W.G. (2026). *Guidelines for Designing AI Technologies to Support Adult Learning*. Designing Interactive Systems Conference (DIS ’26), June 13–17
+13-17, V.D.J., Adult, G.F.D.A.T.T.S., Reddig∗, J., Computing, I., Georgia, A., & Morris, W.G. (2026). [*Guidelines for Designing AI Technologies to Support Adult Learning*](https://doi.org/10.1145/3800645.3813102). Designing Interactive Systems Conference (DIS ’26), June 13–17
 
 ## Related Pages
 

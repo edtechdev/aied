@@ -7,11 +7,10 @@ tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education]
 confidence: high
 sources: [raw/papers/singh-eduqwen-pedagogical-rl-2026.md, raw/papers/lelievre-pedagogy-benchmark-llm-knowledge-2025.md, raw/papers/lin-automatic-llm-interactive-lessons-2025.md, raw/papers/jeon-isd-agent-bench-2026.md]
 ---
+
 # Training Pedagogical LLMs for Tutoring
 
 > Domain-specialized optimization can transform a mid-sized open-source model (Qwen3-32B) into a pedagogical domain expert that outperforms far larger proprietary systems — but only when training rewards *guiding* rather than *answering*.^[[singh-eduqwen-pedagogical-rl-2026]] Classical instructional design theory (ADDIE, Dick & Carey) combined with modern ReAct reasoning achieves the highest performance in automated instructional design.^[[jeon-isd-agent-bench-2026]]
-> **Source:** [Training Pedagogical LLMs for Tutoring](https://arxiv.org/abs/2604.06385)
-
 
 ## The Alignment Problem
 
@@ -89,7 +88,7 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 
 ## Citation
 
-Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). *Training Pedagogical LLMs for Tutoring*
+Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). [*Training Pedagogical LLMs for Tutoring*](https://arxiv.org/abs/2604.06385)
 
 ## Related Pages
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration

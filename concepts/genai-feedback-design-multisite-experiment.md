@@ -7,9 +7,8 @@ tags: [generative-ai, feedback-design, higher-ed, scientific-argumentation, self
 sources: [raw/papers/genai-feedback-design-multisite-experiment.md]
 confidence: high
 ---
-> **Synthesis:** A multisite, cluster-randomized field experiment (1,176 first-year undergraduates, 48 sections, 4 universities, 3 science domains) compares four feedback designs for scientific argumentation: peer-only, direct GenAI, reflective GenAI (self-evaluation then AI critique), and hybrid (self-evaluation + peer + GenAI). The hybrid condition produced the highest argument-quality gains and clearest advantage on conceptual learning; reflective and hybrid designs both outperformed direct GenAI on delayed AI-free transfer. Findings suggest that GenAI's educational value depends less on AI access than on preserving student agency, evaluative judgment, and ownership during revision.
-> **Source:** [Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation](https://doi.org/10.1186/s41239-026-00614-9)
 
+> **Synthesis:** A multisite, cluster-randomized field experiment (1,176 first-year undergraduates, 48 sections, 4 universities, 3 science domains) compares four feedback designs for scientific argumentation: peer-only, direct GenAI, reflective GenAI (self-evaluation then AI critique), and hybrid (self-evaluation + peer + GenAI). The hybrid condition produced the highest argument-quality gains and clearest advantage on conceptual learning; reflective and hybrid designs both outperformed direct GenAI on delayed AI-free transfer. Findings suggest that GenAI's educational value depends less on AI access than on preserving student agency, evaluative judgment, and ownership during revision.
 
 # Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation
 
@@ -56,7 +55,7 @@ The core insight: **GenAI's educational value depends less on AI access per se t
 
 ## Citation
 
-Ateş, H. (2026). Human-centered GenAI feedback design in higher education: A multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation. *International Journal of Educational Technology in Higher Education*, *23*(38)
+Ateş, H. (2026). Human-centered GenAI feedback design in higher education: A multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation. [*International Journal of Educational Technology in Higher Education*](https://doi.org/10.1186/s41239-026-00614-9), *23*(38)
 
 ## Related Pages
 

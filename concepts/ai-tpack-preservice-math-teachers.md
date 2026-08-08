@@ -7,16 +7,15 @@ tags: [ai-literacy, higher-ed, stem-education, faculty-development]
 sources: [raw/papers/caeai-ai-tpack-math.md]
 confidence: medium
 ---
-> **Synthesis:** AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study
-> **Source:** [AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study](https://doi.org/10.1016/j.caeai.2026.100650)
 
+> **Synthesis:** AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study
 
 # AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study
 
 
 ## Citation
 
-Egara, A.M.M.F.A.N.F., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). *AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study*
+Egara, A.M.M.F.A.N.F., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study*](https://doi.org/10.1016/j.caeai.2026.100650)
 
 ## Related Pages
 - [[ai-literacy]]

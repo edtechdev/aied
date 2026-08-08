@@ -55,4 +55,4 @@ confidence: high
 
 ## Citation
 
-- Meyer, K. E., Page, L. C., Mata, C., Smith, E., Walsh, B. T., Fifield, C. L., Tyson, M., Eremionkhale, A. E., Evans, M., Frost, S., & Jung, E. E. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. NBER Working Paper No. 35397. [NBER](https://www.nber.org/papers/w35397)
+- Meyer, K. E., Page, L. C., Mata, C., Smith, E., Walsh, B. T., Fifield, C. L., Tyson, M., Eremionkhale, A. E., Evans, M., Frost, S., & Jung, E. E. (2026). [Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. NBER Working Paper No. 35397. NBER](https://www.nber.org/papers/w35397)

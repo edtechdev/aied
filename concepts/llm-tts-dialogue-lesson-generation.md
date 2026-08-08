@@ -7,9 +7,11 @@ tags: [llm, generative-ai, personalized-learning, scaffolding, active-learning]
 sources: [raw/papers/2607.12235.md]
 confidence: medium
 ---
+
 # A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential
 
-**Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, et al. (2026)** - [arXiv preprint (IEEE). arXiv preprint](https://arxiv.org/abs/2607.12235)
+**Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, et al. (2026)** - arXiv preprint (IEEE). arXiv preprint.
+
 ## Key Findings
 
 - Proposes a human-in-the-loop LLM+TTS pipeline that generates Expert-Novice dialogue lessons, augmenting rather than replacing educators - see [[ai-generated-content]].
@@ -31,4 +33,4 @@ confidence: medium
 
 ## Citation
 
-Kumoi, G., Watanabe, F., Suko, T., Ishida, T., et al. (2026). A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential. arXiv:2607.12235.
+Kumoi, G., Watanabe, F., Suko, T., Ishida, T., et al. (2026). [A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235). arXiv:2607.12235.

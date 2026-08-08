@@ -7,9 +7,11 @@ tags: [generative-ai, higher-ed, student-experience, faculty-development, ai-lit
 sources: [raw/papers/2605.13532.md]
 confidence: medium
 ---
+
 # AI-Generated Slides: Are They Good? Can Students Tell?
 
-**Juho Leinonen, Lisa Zhang, Arto Hellas (2026)** — [WCCCE 2026](https://arxiv.org/abs/2605.13532)
+**Juho Leinonen, Lisa Zhang, Arto Hellas (2026)** — WCCCE 2026.
+
 ## Key Findings
 
 This study evaluated five generative AI tools for creating instructional slides from instructor-authored course notes: NotebookLM, Claude, M365 Copilot, Cursor, and Claude Code. Educators assessed slides for accuracy, completeness, and pedagogical soundness.
@@ -37,4 +39,4 @@ The finding that coding assistants outperform dedicated education tools and gene
 
 ## Citation
 
-Leinonen, J., Zhang, L., & Hellas, A. (2026). AI-generated slides: Are they good? Can students tell? Proceedings of the Western Canada Conference on Computing Education (WCCCE 2026). arXiv:2605.13532.
+Leinonen, J., Zhang, L., & Hellas, A. (2026). [AI-generated slides: Are they good? Can students tell?](https://arxiv.org/abs/2605.13532) Proceedings of the Western Canada Conference on Computing Education (WCCCE 2026). arXiv:2605.13532.

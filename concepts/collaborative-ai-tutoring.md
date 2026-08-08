@@ -7,11 +7,10 @@ tags: [intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formativ
 confidence: medium
 sources: [raw/papers/golrang-propact-pair-programming-2026.md]
 ---
+
 # Collaborative AI Tutoring
 
 > Most adaptive learning systems are individual-centric and reactive. **ProPACT** treats **collaboration itself as the object of instruction**, intervening *before* dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.^[[golrang-propact-pair-programming-2026]]
-> **Source:** [Collaborative AI Tutoring](https://arxiv.org/abs/2605.02703)
-
 
 ## The Dyadic Learner Model
 
@@ -67,7 +66,7 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 
 ## Citation
 
-Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |, S.D.M., & |, I.F.T.T.C.F. (2026). *Collaborative AI Tutoring*
+Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |, S.D.M., & |, I.F.T.T.C.F. (2026). [*Collaborative AI Tutoring*](https://arxiv.org/abs/2605.02703)
 
 ## Related Pages
 - [[engagement-forecasting-its]] — Feature-based engagement forecasting reduces MAE 22-33% vs heuristics; effort dr

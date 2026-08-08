@@ -7,9 +7,8 @@ tags: [personalized-learning, intelligent-tutoring, student-modeling, llm]
 sources: [raw/papers/nie-personavlm-long-term-personalization-2026.md]
 confidence: medium
 ---
-> **PersonaVLM** introduces an agent framework for long-term personalization of multimodal LLMs, enabling AI tutors to remember, reason about, and align with a learner's evolving preferences across hundreds of interaction turns. Tested on 2,000+ curated cases across 200 personas in the Persona-MME benchmark, the framework outperforms GPT-4o by 5.2% in personalization accuracy while operating entirely without proprietary API dependencies — preserving user privacy.
-> **Source:** ['PersonaVLM: Long-Term Personalization for AI Tutors'](https://arxiv.org/abs/2604.13074)
 
+> **PersonaVLM** introduces an agent framework for long-term personalization of multimodal LLMs, enabling AI tutors to remember, reason about, and align with a learner's evolving preferences across hundreds of interaction turns. Tested on 2,000+ curated cases across 200 personas in the Persona-MME benchmark, the framework outperforms GPT-4o by 5.2% in personalization accuracy while operating entirely without proprietary API dependencies — preserving user privacy.
 
 **Nie et al. (Nanjing University & ByteDance), CVPR 2026** · arXiv: 2604.13074 · [Project Page](https://personavlm.github.io/)
 
@@ -35,7 +34,7 @@ However, educators and designers should be cautious about the [[correct-answer-t
 
 ## Citation
 
-Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). *PersonaVLM: Long-Term Personalization for AI Tutors*
+Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). [*PersonaVLM: Long-Term Personalization for AI Tutors*](https://arxiv.org/abs/2604.13074)
 
 ## Related Pages
 

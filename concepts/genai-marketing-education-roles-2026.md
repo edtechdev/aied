@@ -7,9 +7,8 @@ tags: [generative-ai, higher-ed, pedagogy, instructional-design, teacher-role, p
 sources: [raw/papers/2608.03973.md]
 confidence: high
 ---
-> **When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three GAI roles in education: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solv... [[generative-ai]] [[higher-ed]] [[pedagogy]] [[instructional-design]] [[teacher-role]] [[professional-training]]
-> **Source:** [When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education](https://arxiv.org/abs/2608.03973)
 
+> **When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three GAI roles in education: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solv... [[generative-ai]] [[higher-ed]] [[pedagogy]] [[instructional-design]] [[teacher-role]] [[professional-training]]
 
 # When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
 
@@ -35,4 +34,4 @@ Generative Artificial Intelligence (GAI) is increasingly being integrated into m
 
 ## Citation
 
-Unnati Narang, Vishal Sachdev, & Ruichun Liu (2026). When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education. arXiv:2608.03973. Journal of Public Policy & Marketing, 44(3), 473-489 (2025).
+Unnati Narang, Vishal Sachdev, & Ruichun Liu (2026). [When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education](https://arxiv.org/abs/2608.03973). arXiv:2608.03973. Journal of Public Policy & Marketing, 44(3), 473-489 (2025).

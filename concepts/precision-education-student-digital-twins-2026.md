@@ -7,9 +7,8 @@ tags: [adaptive-learning, student-modeling, personalized-learning, higher-ed, pr
 sources: [raw/papers/2608.06322.md]
 confidence: medium
 ---
-> **Synthesis:** This paper proposes a precision education framework that adapts precision medicine's predictive, preventive approach to higher education. It envisions AI-powered student digital twins — computational models that integrate academic, behavioural, and career trajectory data to forecast risk, personalise interventions, and align course pathways with employment outcomes. The paper argues that traditional reactive models (responding after students fail or drop out) can be replaced with continuous risk stratification, early-warning nudges, and dynamic pathway optimisation. Key architectural components include federated data integration across institutional silos, explainable AI for advisor trust, and longitudinal models that evolve with the student.
-> **Source:** [From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways](https://arxiv.org/abs/2608.06322)
 
+> **Synthesis:** This paper proposes a precision education framework that adapts precision medicine's predictive, preventive approach to higher education. It envisions AI-powered student digital twins — computational models that integrate academic, behavioural, and career trajectory data to forecast risk, personalise interventions, and align course pathways with employment outcomes. The paper argues that traditional reactive models (responding after students fail or drop out) can be replaced with continuous risk stratification, early-warning nudges, and dynamic pathway optimisation. Key architectural components include federated data integration across institutional silos, explainable AI for advisor trust, and longitudinal models that evolve with the student.
 
 # From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways
 
@@ -37,4 +36,4 @@ This work connects to: [[student-modeling]][[adaptive-learning]][[personalized-l
 
 ## Citation
 
-Dutta, Kaushik (2026). From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways. arXiv:2608.06322.
+Dutta, Kaushik (2026). [From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways](https://arxiv.org/abs/2608.06322). arXiv:2608.06322.

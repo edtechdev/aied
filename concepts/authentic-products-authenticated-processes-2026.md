@@ -7,11 +7,10 @@ tags: [authentic-assessment, assessment, assessment-validity, ai-ed-evaluation, 
 sources: [raw/papers/authentic-products-authenticated-processes-2026.md]
 confidence: high
 ---
+
 # From authentic products to authenticated processes
 
 > Tsiligkiris (2026) reframes authentic assessment as an *evidential and validity-oriented design problem* in AI-rich higher education. His central distinction — **authentic products vs. authenticated processes** — argues that assessment validity under generative AI depends not on realistic outputs alone but on architectures that make human judgement, verification, and responsibility visible. A systematic conceptual review of 37 sources yields a six-dimension framework for redesigning assessment briefs at module and programme level.
-> **Source:** [From authentic products to authenticated processes: authentic assessment in AI-rich higher education](https://doi.org/10.1080/02602938.2026.2695376)
-
 
 ## The core argument
 
@@ -43,7 +42,7 @@ The framework becomes a **review instrument for assessment briefs**: teams exami
 
 ## Citation
 
-corpus, S.A.N.I.S.O.I.R.A.C. (2026). *From authentic products to authenticated processes: authentic assessment in AI-rich higher education*
+corpus, S.A.N.I.S.O.I.R.A.C. (2026). [*From authentic products to authenticated processes: authentic assessment in AI-rich higher education*](https://doi.org/10.1080/02602938.2026.2695376)
 
 ## Related Pages
 - [[authentic-assessment]] — the non-AI scoping review (Zhan, Boud & Du 2025) this framework builds on
