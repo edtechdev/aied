@@ -7,11 +7,9 @@ tags: [over-reliance, academic-integrity, hallucination-risk, stem-education, fe
 sources: [raw/papers/2605.00361.md]
 confidence: medium
 ---
-
 # Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education
 
-**Grume, J.C., Miranda, J.P.P., De Leon, A.P., Salenga, J.L., Hernandez, H.E., Castro, M.A.A., Maniago, V.G.M., Canlas, J.D., Quiambao, J.B. (2026)** — Pedagogical Innovations in CS Education (IGI Global).
-
+**Grume, J.C., Miranda, J.P.P., De Leon, A.P., Salenga, J.L., Hernandez, H.E., Castro, M.A.A., Maniago, V.G.M., Canlas, J.D., Quiambao, J.B. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.00361)
 ## Analysis
 
 This book chapter presents a **text mining analysis** of how scholarly literature frames ChatGPT's role in programming education. Using term frequency analysis, phrase pattern extraction, and topic modeling, the authors identify four dominant themes: pedagogical implementation, student-centered learning, AI infrastructure, and assessment design.^[raw/papers/2605.00361.md]
@@ -30,4 +28,4 @@ The central finding is a **dual positioning**: ChatGPT is consistently framed as
 
 ## Citation
 
-Grume et al. (2026). [Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education](https://arxiv.org/abs/2605.00361). arXiv:2605.00361. Pedagogical Innovations in CS Education (IGI Global).
+Grume et al. (2026). Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education. arXiv:2605.00361. Pedagogical Innovations in CS Education (IGI Global).

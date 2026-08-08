@@ -7,10 +7,11 @@ tags: [llm, benchmark, efficacy-study, bias-mitigation, teacher-role]
 sources: [raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md]
 confidence: medium
 ---
-
 # Educational LLM Alignment
 
 > The gap between what LLMs are *capable* of and what actually *benefits learners* — benchmark performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels.
+> **Source:** [Educational LLM Alignment](https://arxiv.org/abs/2603.00883)
+
 
 ## The Three-Layer Alignment Problem
 
@@ -59,7 +60,7 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 
 ## Citation
 
-(Stanford, A.M.H.Y.K., 2026, S.M.R.A., & improvement, P.W.E.B.M.E.S.N. (2026). [*Educational LLM Alignment*](https://arxiv.org/abs/2603.00883)
+(Stanford, A.M.H.Y.K., 2026, S.M.R.A., & improvement, P.W.E.B.M.E.S.N. (2026). *Educational LLM Alignment*
 
 ## Related Pages
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration

@@ -7,11 +7,9 @@ tags: [generative-ai, writing-education, student-experience, llm, higher-ed]
 sources: [raw/papers/2605.24729.md]
 confidence: high
 ---
-
 # Humanlike AI in Collaborative Writing
 
-**Yin, Chiang, Cox & Xiao (2026)** — University of British Columbia.
-
+**Yin, Chiang, Cox & Xiao (2026)** — [University of British Columbia](https://arxiv.org/abs/2605.24729)
 This comparative user study (n=48) examines how the temporal and visual dimensions of AI collaboration shape the experience of [[writing-education|writing tasks]], revealing that humanlike design features in AI agents create both positive social expectations and unexpected social costs.
 
 ## The Humanlike-to-Machinelike Spectrum
@@ -36,4 +34,4 @@ The study also connects to [[socially-fluent-ai-identity-detection|research on A
 
 ## Citation
 
-Yin, M., Chiang, A., Cox, S. R., & Xiao, R. (2026). ["It felt a bit eerie": Exploring humanlike interactions during collaborative writing with an artificial agent](https://arxiv.org/abs/2605.24729). arXiv:2605.24729. cs.HC.
+Yin, M., Chiang, A., Cox, S. R., & Xiao, R. (2026). "It felt a bit eerie": Exploring humanlike interactions during collaborative writing with an artificial agent. arXiv:2605.24729. cs.HC.

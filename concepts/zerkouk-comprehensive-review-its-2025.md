@@ -8,6 +8,8 @@ sources: [raw/papers/zerkouk-comprehensive-review-its-2025.md]
 confidence: medium
 ---
 > **Comprehensive Review of Intelligent Tutoring Systems** — Journal of Computers in Education (2025). A systematic literature review covering 2010–2025 that analyzes the deployment and effectiveness of Intelligent Tutoring Systems (ITS) in real educational settings. The review examines the full landscape of ITS research — pedagogical strategies, natural language processing, adaptive learning mechanisms, student modeling approaches, and domain-specific applications — and arrives at a nuanced verdict: the evidence for ITS effectiveness is mixed, revealing a complex landscape of genuine advancements alongside persistent challenges in scientific rigor and real-world impact.
+> **Source:** [Comprehensive Review of Intelligent Tutoring Systems](https://arxiv.org/abs/2507.18882v1)
+
 
 **Authors:** Zerkouk et al. · **Venue:** Journal of Computers in Education (2025) · **arXiv:** 2507.18882
 
@@ -41,7 +43,7 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 
 ## Citation
 
-— Journal of Computers in Education (2025). A systematic literature review covering 2010–2025 that analyzes the deployment and effectiveness of Intelligent Tutoring Systems (ITS) in real educational settings. The review examines the full landscape of ITS research — pedagogical strategies, natural language processing, adaptive learning mechanisms, student modeling approaches, and domain-specific applications — and arrives at a nuanced verdict: the evidence for ITS effectiveness is mixed, revealing a complex landscape of genuine advancements alongside persistent challenges in scientific rigor and real-world impact.. [Comprehensive Review of Intelligent Tutoring Systems](https://arxiv.org/abs/2507.18882v1).
+— Journal of Computers in Education (2025). A systematic literature review covering 2010–2025 that analyzes the deployment and effectiveness of Intelligent Tutoring Systems (ITS) in real educational settings. The review examines the full landscape of ITS research — pedagogical strategies, natural language processing, adaptive learning mechanisms, student modeling approaches, and domain-specific applications — and arrives at a nuanced verdict: the evidence for ITS effectiveness is mixed, revealing a complex landscape of genuine advancements alongside persistent challenges in scientific rigor and real-world impact.. Comprehensive Review of Intelligent Tutoring Systems.
 
 ## Related Pages
 

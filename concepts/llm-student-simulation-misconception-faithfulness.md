@@ -7,11 +7,9 @@ tags: [intelligent-tutoring, llm, generative-ai, benchmark, hallucination-risk, 
 sources: [raw/papers/2605.12748.md]
 confidence: high
 ---
-
 # LLM Student Simulation and Misconception Faithfulness
 
-**Do, Sonkar & Sachan (2026)** — ETH Zurich. arXiv preprint.
-
+**Do, Sonkar & Sachan (2026)** — [ETH Zurich. arXiv preprint](https://arxiv.org/abs/2605.12748)
 ## Synthesis
 
 This paper exposes a critical failure mode in using LLMs as simulated students for [[intelligent-tutoring]] development and evaluation. The authors introduce **misconception faithfulness** — the property that a simulated student holds a coherent, misconception-driven belief state and updates it *only* when feedback addresses the underlying misconception — and show that across seven LLMs (4B to 120B parameters), simulators exhibit near-zero faithfulness.
@@ -38,4 +36,4 @@ For [[student-experience]] and [[benchmark]] development, this paper motivates a
 
 ## Citation
 
-Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv:2605.12748.
+Do, H., Sonkar, S., & Sachan, M. (2026). Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators. arXiv:2605.12748.

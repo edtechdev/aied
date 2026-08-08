@@ -7,10 +7,11 @@ tags: [metacognition, over-reliance, llm, k-12, higher-ed, academic-integrity]
 confidence: high
 sources: [raw/papers/kim-llm-fallacy-misattribution-2026.md]
 ---
-
 # The LLM Fallacy and Misattribution of Competence
 
 > The LLM fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.^[[kim-llm-fallacy-misattribution-2026]]
+> **Source:** [The LLM Fallacy and Misattribution of Competence](https://arxiv.org/abs/2604.14807)
+
 
 ## Distinctions from Related Phenomena
 
@@ -63,7 +64,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 
 ## Citation
 
-Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). [*The LLM Fallacy and Misattribution of Competence*](https://arxiv.org/abs/2604.14807)
+Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). *The LLM Fallacy and Misattribution of Competence*
 
 ## Related Pages
 

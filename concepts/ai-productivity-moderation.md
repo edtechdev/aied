@@ -7,11 +7,9 @@ tags: [generative-ai, efficacy-study, teacher-role, higher-ed, policy-maker]
 sources: [raw/papers/2605.24688.md]
 confidence: high
 ---
-
 # AI Productivity Moderation Factors
 
-**Cho, Kim & Kim (2026)** — Accepted at ICML 2026 (position paper).
-
+**Cho, Kim & Kim (2026)** — [Accepted at ICML 2026 (position paper)](https://arxiv.org/abs/2605.24688)
 This ICML 2026 position paper argues that adopting AI in organizational practice does not automatically yield productivity gains — human and environmental factors critically moderate the relationship. Drawing on the partial equilibrium model of Gries and Naudé (2022), it identifies five key moderators that can attenuate or negate productivity benefits.
 
 ## Five Moderating Factors
@@ -40,4 +38,4 @@ For [[higher-ed]] institutions investing in AI infrastructure, this paper serves
 
 ## Citation
 
-Cho, W. I., Kim, S., & Kim, G. (2026). [Position: Adopting AI in practice does not guarantee the productivity boost](https://arxiv.org/abs/2605.24688). arXiv:2605.24688. Accepted at ICML 2026. cs.CY.
+Cho, W. I., Kim, S., & Kim, G. (2026). Position: Adopting AI in practice does not guarantee the productivity boost. arXiv:2605.24688. Accepted at ICML 2026. cs.CY.

@@ -8,6 +8,8 @@ sources: [raw/papers/singh-eduqwen-pedagogical-rl-2026.md]
 confidence: medium
 ---
 > **EduQwen: Pedagogical RL** — A multi-stage optimization strategy combining reinforcement learning (DAPO) and supervised fine-tuning (SFT) to enhance the pedagogical knowledge of open-source LLMs, producing a family of dense 32B-parameter models that achieve state-of-the-art performance on the Cross-Domain Pedagogical Knowledge (CDPK) Benchmark, surpassing even much larger proprietary systems such as Gemini-3 Pro. Demonstrates that domain-specialized optimization can transform mid-sized open-source LLMs into true pedagogical domain experts, prioritizing guided learning over answer-giving.
+> **Source:** ['EduQwen: Pedagogical RL'](https://arxiv.org/abs/2604.06385)
+
 
 **Authors:** Navan Preet Singh*, Xiaokun Wang*, Anurag Garikipati, Madalina Ciobanu, Qingqing Mao, Ritankar Das (Forta, East China Normal University, Incept Labs, Titan Holdings) · **arXiv:** 2604.06385 (April 2026)
 
@@ -37,7 +39,7 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 
 ## Citation
 
-Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). [*EduQwen: Pedagogical RL*](https://arxiv.org/abs/2604.06385)
+Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). *EduQwen: Pedagogical RL*
 
 ## Related Pages
 

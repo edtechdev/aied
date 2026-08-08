@@ -48,7 +48,7 @@ Wei, Y., Stamper, J., et al. (2025). *Generate-Then-Validate: A Novel Question G
 
 ## Citation
 
-Automated question generation leverages NLP and LLMs to create educational assessments at scale. Wei & Stamper (2025). [Automated Question Generation](https://arxiv.org/abs/2512.10110).
+Automated question generation leverages NLP and LLMs to create educational assessments at scale. Wei & Stamper (2025). Automated Question Generation.
 
 ## Related Pages
 - [[kt4eqg-personalized-question-generation]] — 7 of 8 papers in May 28 scan

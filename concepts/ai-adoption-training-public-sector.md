@@ -7,10 +7,8 @@ tags: [ai-literacy, public-sector, training-methodology, efficacy-study, prompt-
 sources: [raw/papers/2606.01517.md]
 confidence: high
 ---
-
 # The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-**Vinicius Santana Gomes (2026)** — arXiv:2606.01517.
-
+**Vinicius Santana Gomes (2026)** — [arXiv:2606.01517](https://arxiv.org/abs/2606.01517)
 Through Brazilian government case studies, demonstrates that a four-layer pedagogical methodology (Literacy, Protocol, Prompt Engineering, Audit) is the key to productivity gains (up to 50%), rather than premium models. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-workflows]] rather than just syntax mastery.
 
 ## Related Pages
@@ -23,4 +21,4 @@ Through Brazilian government case studies, demonstrates that a four-layer pedago
 
 ## Citation
 
-Vinicius Santana Gomes (2026). [The Main Barrier to AI Adoption in the Public Sector is Lack of Training](https://arxiv.org/abs/2606.01517). arXiv:2606.01517.
+Vinicius Santana Gomes (2026). The Main Barrier to AI Adoption in the Public Sector is Lack of Training. arXiv:2606.01517.

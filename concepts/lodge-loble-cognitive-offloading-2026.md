@@ -6,8 +6,9 @@ tags: [cognitive-offloading, ai-literacy, equity, metacognition, teacher-role, k
 sources: [raw/papers/lodge-loble-cognitive-offloading-2026.md]
 confidence: high
 ---
-
 > **Synthesis:** Lodge & Loble (2026) provide a comprehensive report on the cognitive science behind AI use in education, arguing that the core risk of generative AI is not plagiarism but cognitive offloading — students outsourcing the mental work required for durable learning. They distinguish beneficial offloading (freeing capacity for higher-order thinking) from detrimental outsourcing (bypassing desirable difficulties), introduce the concept of metacognitive laziness and a new metacognitive equity gap, and propose pedagogical strategies to move from cognitive atrophy to augmentation.
+> **Source:** [Artificial intelligence, cognitive offloading and implications for education](https://doi.org/10.71741/4pyxmbnjaq.31302475)
+
 
 # Artificial intelligence, cognitive offloading and implications for education
 
@@ -34,4 +35,4 @@ This report connects to: [[cognitive-offloading]][[ai-literacy]][[equity]][[meta
 
 Lodge & Loble (2026) provide a comprehensive report on the cognitive science behind AI use in education, arguing that the core risk of generative AI is not plagiarism but cognitive offloading — students outsourcing the mental work required for durable learning. They distinguish beneficial offloading (freeing capacity for higher-order thinking) from detrimental outsourcing (bypassing desirable difficulties), introduce the concept of metacognitive laziness and a new metacognitive equity gap, and propose pedagogical strategies to move from cognitive atrophy to augmentation.
 
-# Artificial intelligence, cognitive offloading and implications for education. [Artificial intelligence, cognitive offloading and implications for education](https://doi.org/10.71741/4pyxmbnjaq.31302475).
+# Artificial intelligence, cognitive offloading and implications for education. Artificial intelligence, cognitive offloading and implications for education.

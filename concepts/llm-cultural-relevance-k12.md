@@ -46,7 +46,7 @@ Explores LLMs to support K-12 teachers in designing culturally relevant pedagogy
 
 ## References
 
-Wang, J., Xiao, R., et al. (2025). [LLMs for Culturally Relevant K-12 Pedagogy](https://arxiv.org/abs/2505.08083).
+Wang, J., Xiao, R., et al. (2025). LLMs for Culturally Relevant K-12 Pedagogy.
 
 ## Related Pages
 - [[civic-education-ai-lesson-plans]] — Evidence that LLM-generated civics plans are overwhelmingly monocultural (94% no multicultural content)

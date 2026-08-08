@@ -7,11 +7,9 @@ tags: [k-12, student-experience, llm, generative-ai, engagement-metrics, affecti
 sources: [raw/papers/2606.26579.md]
 confidence: medium
 ---
-
 # An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students
 
-**Kashika Khurana, Ally Liew (2026)** — arXiv cs.HC / cs.CY
-📄 [PDF](https://arxiv.org/pdf/2606.26579)
+**Kashika Khurana, Ally Liew (2026)** — [arXiv cs.HC / cs.CY](https://arxiv.org/abs/2606.26579)📄 [PDF](https://arxiv.org/pdf/2606.26579)
 
 This study investigates how different modes of AI interaction affect cognitive engagement and learning outcomes in high school students. Using a within-subjects design with 24 students, the researchers compared three conditions: **Auto mode** (AI solves problems independently), **Interactive mode** (student-AI collaboration with scaffolding), and **Manual mode** (no AI assistance). The Interactive mode produced the highest [[engagement-metrics|cognitive engagement]] and task accuracy, while the Auto mode led to reduced engagement and potential [[over-reliance]].
 
@@ -30,4 +28,4 @@ The finding that full automation reduces cognitive engagement echoes the [[over-
 
 ## Citation
 
-Kashika Khurana, Ally Liew (2026). [An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students](https://arxiv.org/abs/2606.26579). arXiv:2606.26579. arXiv cs.HC / cs.CY.
+Kashika Khurana, Ally Liew (2026). An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students. arXiv:2606.26579. arXiv cs.HC / cs.CY.

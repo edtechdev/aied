@@ -7,10 +7,8 @@ tags: [generative-ai, higher-ed, student-experience, ai-literacy, academic-integ
 sources: [raw/papers/2607.17094.md]
 confidence: high
 ---
-
 # A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
-**Stefana Broadbent, et al. (2026)** — arXiv preprint. arXiv:2607.17094 [cs.CY].
-
+**Stefana Broadbent, et al. (2026)** — [arXiv preprint. arXiv:2607.17094 [cs.CY]](https://arxiv.org/abs/2607.17094)
 This survey of design students at the Politecnico di Milano (2025/2026), paired with AI-use journals kept during research assignments, examines how [[generative-ai]] enters the design process. Reported use is very frequent and concentrated in the early, ideation-heavy stages of projects.
 
 Crucially, high GenAI adoption did not reduce students' perceived project ownership or creativity, a finding relevant to [[higher-ed]] policy and the [[student-experience]] of AI-augmented studio work. The study speaks to ongoing [[ai-literacy]] efforts and to [[academic-integrity]] debates about authorship and process transparency in design and [[writing-education]], offering educators a discipline-specific evidence base for [[generative-ai]] guidance rather than blanket restriction.

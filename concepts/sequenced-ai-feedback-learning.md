@@ -7,11 +7,9 @@ tags: [feedback-loop, formative-assessment, scaffolding, generative-ai, efficacy
 sources: [raw/papers/2604.07469.md]
 confidence: high
 ---
-
 # Sequenced AI Feedback on Student Learning
 
-**Cao, Zhao, Schunn, McLaughlin, Lin & Koedinger (2026)** — UNC Chapel Hill, CMU, U Pittsburgh, U Hong Kong. Randomized experiment (n=199).
-
+**Cao, Zhao, Schunn, McLaughlin, Lin & Koedinger (2026)** — [arXiv preprint](https://arxiv.org/abs/2604.07469)
 ## Core Finding
 
 **Sequenced AI feedback harms learning despite boosting engagement and positive perceptions.**
@@ -96,4 +94,4 @@ This paper directly informs several threads in the wiki:
 - [[engagement-assessment-video]] — Measuring engagement in learning contexts
 ## Citation
 
-Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R. (2026). [Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning](https://arxiv.org/abs/2604.07469). arXiv:2604.07469.
+Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R. (2026). Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning. arXiv:2604.07469.

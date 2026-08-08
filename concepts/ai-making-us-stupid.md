@@ -8,11 +8,9 @@ sources: [raw/papers/cell-2026-ai-making-us-stupid.md]
 confidence: high
 contested: false
 ---
-
 # Is AI making us stupid?
 
-**Trent N. Cash, Megan O. Kelly, Brooke N. Macnamara, Evan F. Risko (2026)** — *Trends in Cognitive Sciences* (Cell Press), Science & Society. Available online 9 July 2026. doi:10.1016/j.tics.2026.06.004.
-
+**Trent N. Cash, Megan O. Kelly, Brooke N. Macnamara, Evan F. Risko (2026)** — [DOI](https://doi.org/10.1016/j.tics.2026.06.004)
 ## Summary
 
 A 3-page **perspective** (opinion/review, not an empirical study) addressing whether AI use erodes human cognition. The authors' answer: **not inherently — but the risk is real and follows the cognitive-psychology principle of *cognitive offloading*.** When people delegate reasoning, writing, memory, or problem-solving to AI, they forgo the mental practice that builds and maintains those capacities. The threat is **use-dependent**, not intrinsic to the technology: AI that *augments* thinking preserves the underlying processes; AI that *replaces* them outsources exactly the practice that builds expertise.
@@ -65,4 +63,4 @@ Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [
 
 ## Citation
 
-Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). Is AI making us stupid? [*Trends in Cognitive Sciences*](https://doi.org/10.1016/j.tics.2026.06.004)
+Cash, T. N., Kelly, M. O., Macnamara, B. N., & Risko, E. F. (2026). Is AI making us stupid? *Trends in Cognitive Sciences*

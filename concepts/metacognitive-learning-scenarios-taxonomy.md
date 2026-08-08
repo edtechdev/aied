@@ -7,11 +7,9 @@ tags: [metacognition, professional-training, adaptive-learning, lifelong-learnin
 sources: [raw/papers/2605.24142.md]
 confidence: high
 ---
-
 # Metacognitive Learning Scenarios Taxonomy
 
-**Gibson, Azukas & Yilmaz Soylu (2026)** — Curtin University, East Stroudsburg University.
-
+**Gibson, Azukas & Yilmaz Soylu (2026)** — [Curtin University, East Stroudsburg University](https://arxiv.org/abs/2605.24142)
 This paper addresses a fundamental gap in [[metacognition]] research: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced professional development. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.
 
 ## Systems Model & Scenario Generation
@@ -39,4 +37,4 @@ The taxonomy enables targeted, scenario-specific professional development interv
 
 ## Citation
 
-Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2026). [A taxonomy of metacognitive learning scenarios in professional contexts: Integrating systems theory with empirical constraints](https://arxiv.org/abs/2605.24142). arXiv:2605.24142. cs.HC.
+Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2026). A taxonomy of metacognitive learning scenarios in professional contexts: Integrating systems theory with empirical constraints. arXiv:2605.24142. cs.HC.

@@ -7,8 +7,9 @@ tags: [intelligent-tutoring, llm, agentic-ai, benchmark, knowledge-tracing, stud
 sources: [raw/papers/2608.03206.md]
 confidence: high
 ---
-
 > **EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners** — Introduces a 30-day long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in knowledge tracing. Evaluates 10 agent adapters over three base-model tiers and finds that tutoring quality depends on both the base model and a... [[intelligent-tutoring]] [[llm]] [[agentic-ai]] [[benchmark]] [[knowledge-tracing]] [[student-modeling]]
+> **Source:** [EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners](https://arxiv.org/abs/2608.03206)
+
 
 # EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
 
@@ -34,4 +35,4 @@ Large language models (LLMs) power educational applications from tutoring to ess
 
 ## Citation
 
-Unggi Lee, Sookbun Lee, Yeil Jeong, Eunjoo Lee, Minchul Shin, & Hoilym Kwon (2026). [EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners](https://arxiv.org/abs/2608.03206). arXiv:2608.03206. arXiv:2608.03206 [cs.CY].
+Unggi Lee, Sookbun Lee, Yeil Jeong, Eunjoo Lee, Minchul Shin, & Hoilym Kwon (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. arXiv:2608.03206. arXiv:2608.03206 [cs.CY].

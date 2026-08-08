@@ -7,10 +7,11 @@ tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcemen
 sources: [raw/papers/2604.04237.md]
 confidence: medium
 ---
-
 # Pedagogical Safety in Educational Reinforcement Learning
 
 > First formal framework for defining and detecting *pedagogical safety* violations in RL-based AI tutoring systems.
+> **Source:** [Pedagogical Safety in Educational Reinforcement Learning](https://arxiv.org/abs/2604.04237)
+
 
 ## The Problem: Reward Hacking in Educational RL
 
@@ -58,7 +59,7 @@ This parallels concerns in [[educational-llm-alignment]] where benchmark misalig
 
 ## Citation
 
-Rahimi, A.O.O.N. (2026). [*Pedagogical Safety in Educational Reinforcement Learning*](https://arxiv.org/abs/2604.04237)
+Rahimi, A.O.O.N. (2026). *Pedagogical Safety in Educational Reinforcement Learning*
 
 ## Related Pages
 - [[prompt-injection-defenses-educational-llm-tutors]] — Security-usability trade-offs in guardrail design

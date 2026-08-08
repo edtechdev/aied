@@ -7,8 +7,9 @@ tags: [learning-analytics, privacy, equity, ethics, regulation, higher-ed, insti
 sources: [raw/papers/2608.03968.md]
 confidence: high
 ---
-
 > **Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics** — Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, educational policy, v... [[learning-analytics]] [[privacy]] [[equity]] [[ethics]] [[regulation]] [[higher-ed]]
+> **Source:** [Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics](https://arxiv.org/abs/2608.03968)
+
 
 # Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics
 
@@ -34,4 +35,4 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 
 ## Citation
 
-Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). [Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics](https://arxiv.org/abs/2608.03968). arXiv:2608.03968. EDULEARN26 Proceedings (IATED, 2026).
+Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics. arXiv:2608.03968. EDULEARN26 Proceedings (IATED, 2026).

@@ -7,11 +7,9 @@ tags: [ai-literacy, student-experience, higher-ed, stem-education, over-reliance
 sources: [raw/papers/2605.16292.md]
 confidence: high
 ---
-
 # Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?
 
-**Islem Rekik (2026)** — ICLR HCAIR Workshop 2026.
-
+**Islem Rekik (2026)** — [ICLR HCAIR Workshop 2026](https://arxiv.org/abs/2605.16292)
 ## Overview
 
 This paper presents a striking longitudinal finding: as AI becomes a routine educational tool, students systematically revalue **human intelligence (HI) over artificial intelligence (AI)**. Drawing on 6 years of classroom poll data (2020–2026) from 471 undergraduate and MSc computer science students, Rekik documents a cognitive shift that progresses through four phases: hype → distrust → trust → dependency.
@@ -64,4 +62,4 @@ For instructors, these results suggest that AI education should explicitly surfa
 
 ## Citation
 
-Rekik, I. (2026). [Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?](https://arxiv.org/abs/2605.16292) arXiv:2605.16292. ICLR HCAIR Workshop 2026.
+Rekik, I. (2026). Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence? arXiv:2605.16292. ICLR HCAIR Workshop 2026.

@@ -7,8 +7,9 @@ tags: [llm, agentic-ai, rag, question-generation, coding-education, human-in-the
 sources: [raw/papers/2604.03926.md]
 confidence: high
 ---
-
 > **A dual-agent RAG-based system for generating and validating coding comprehension MCQs**, evaluated by 6 SMEs across 7 pedagogical dimensions (N=288 questions, 2,016 rating pairs). AI excels at criteria-matching and computational verification (concept alignment 98.6%, code validity 95.5%), but human expertise remains essential for distractor quality (79.9%) and pedagogically rich feedback — providing an evidence-based division of labor for [[human-in-the-loop]] educational content generation.
+> **Source:** [CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation](https://arxiv.org/abs/2604.03926)
+
 
 ## CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation
 
@@ -69,7 +70,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 
 ## Citation
 
-RAG-Based, C.A.H., Question, A.A.S.F.M., Frederick, X.D., Wang1, A.C., multiple-choice, A.A.I.W.A.G.A.P., 2,016, J.A.Q.T.S.P.A.T.O., & generation, H.A.A.E.I.A.E.C. (2026). [*CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation*](https://arxiv.org/abs/2604.03926)
+RAG-Based, C.A.H., Question, A.A.S.F.M., Frederick, X.D., Wang1, A.C., multiple-choice, A.A.I.W.A.G.A.P., 2,016, J.A.Q.T.S.P.A.T.O., & generation, H.A.A.E.I.A.E.C. (2026). *CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation*
 
 ## Related Pages
 

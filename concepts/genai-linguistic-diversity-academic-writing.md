@@ -7,11 +7,9 @@ tags: [generative-ai, writing-education, equity, higher-ed, language-learning]
 sources: [raw/papers/2607.28505.md]
 confidence: high
 ---
-
 # Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes
 
-**Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026)** — arXiv:2607.28505 (cs.CL)
-
+**Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026)** — [arXiv:2607.28505 (cs.CL)](https://arxiv.org/abs/2607.28505)
 ## Summary
 
 Structured scholarly dialogue among five sociolinguists examining how GenAI tools influence academic writing practices, reinforce or disrupt linguistic hierarchies, and impact the legitimacy of diverse English varieties in global scholarly communication. Raises concerns about linguistic homogenization and the marginalization of World Englishes.
@@ -34,4 +32,4 @@ The work connects to broader discussions in AI and education around [[generative
 
 ## Citation
 
-Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026). [Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes](https://arxiv.org/abs/2607.28505). arXiv:2607.28505. cs.CL.
+Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026). Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes. arXiv:2607.28505. cs.CL.

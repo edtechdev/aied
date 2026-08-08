@@ -8,6 +8,8 @@ sources: [raw/papers/hingle-collaborative-ai-literacy-2025.md]
 confidence: medium
 ---
 > **Collaborative AI Literacy Framework** — SEFI 2025. A systematic review of 9 studies (2015–2023) examining how collaborative learning (CL) approaches can be harnessed to build AI literacy across diverse educational contexts. Using the ICAP framework (Interactive–Constructive–Active–Passive) as an analytical lens, the review demonstrates that CL effectively increases AI literacy across activities, settings, and learner groups. Most studies were conducted in classroom settings, with some broadening participation through educators, families, or AI agents supporting teamwork. Instructional activities spanned all four ICAP modes, revealing a rich design space for collaborative AI literacy interventions.
+> **Source:** [Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1)
+
 
 **Authors:** (SEFI 2025 Proceedings) · Presented at the 2025 SEFI Annual Conference
 
@@ -39,7 +41,7 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 
 ## Citation
 
-[Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1).
+Collaborative AI Literacy Framework.
 
 ## Related Pages
 

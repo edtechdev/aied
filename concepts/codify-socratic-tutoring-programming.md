@@ -56,4 +56,4 @@ Initial deployment in programming courses showed promising results for student e
 
 ## Citation
 
-Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelligent Socratic tutoring system for programming education. [The International FLAIRS Conference Proceedings](https://doi.org/10.32473/flairs.39.1.141554), *39*(1). https://doi.org/10.32473/flairs.39.1.141554
+Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelligent Socratic tutoring system for programming education. The International FLAIRS Conference Proceedings, *39*(1). https://doi.org/10.32473/flairs.39.1.141554

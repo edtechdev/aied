@@ -52,7 +52,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 Need for AI tools designed with universal design principles
 
 ### 2. Representational Equity
-Wang et al. (2025) found that. [Equity in AI Education](https://arxiv.org/abs/2505.08083).
+Wang et al. (2025) found that. Equity in AI Education.
 
 ## Related Pages
 - [[feedback-futures-genai]] — Access, avoidance, and advantage in GenAI feedback

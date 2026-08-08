@@ -7,11 +7,9 @@ tags: [llm, generative-ai, ai-literacy, hallucination-risk, student-experience, 
 sources: [raw/papers/2605.18372.md]
 confidence: high
 ---
-
 # The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
 
-**Koyuturk, C., Guidotti, S., & Ognibene, D. (2026)** — University of Milano-Bicocca. AIED 2026 LBR (Late-Breaking Results).
-
+**Koyuturk, C., Guidotti, S., & Ognibene, D. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.18372)
 ## Key Finding
 LLM sycophancy creates a feedback loop where user errors propagate into AI advice, degrading outcomes; AI literacy training reduces but doesn't eliminate this contextual sycophantic dependence.
 
@@ -20,7 +18,7 @@ This AIED 2026 LBR paper identifies a pernicious feedback loop in educational hu
 
 ## Citation
 
-D, A.K.C.G.S.O. & Results), V.A.L. (2026). [*The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration*](https://arxiv.org/abs/2605.18372)
+D, A.K.C.G.S.O. & Results), V.A.L. (2026). *The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration*
 
 ## Related Pages
 - [[cognitive-shift-ai-education]] — 471 students surveyed 2020–2026 show shift from AI preference to human intellige

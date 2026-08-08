@@ -7,11 +7,9 @@ tags: [generative-ai, higher-ed, writing-education, faculty-development]
 sources: [raw/papers/2605.27404.md]
 confidence: medium
 ---
-
 # Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
 
-**Wang et al. (2026)** — Peking University / Sun Yat-sen University. *arXiv preprint*.
-
+**Wang et al. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.27404)
 **AI-Assisted Writing Transforms Research Teams** challenges the longstanding "Big Science" trend toward ever-larger teams, showing that AI writing tools enable smaller, younger research teams to produce highly impactful publications. Analyzing 147,074 full-text publications from PLoS and Nature portfolio journals since 2020, the study uses propensity score matching and multiple regression methods to demonstrate that AI-assisted writing is associated with more compact, junior-leaning teams — and counterintuitively, higher probability of producing impactful work. This has direct implications for [[higher-ed]] doctoral training and [[faculty-development]]: if junior researchers can produce frontier-quality work with smaller teams and AI assistance, the traditional apprenticeship model of large lab groups may need rethinking. The findings connect to [[ai-productivity-moderation]] research showing that AI productivity gains are not automatic, and to [[persistent-ai-agents-academic-research]] findings on how AI is reshaping research workflows. For [[writing-education]], the democratization of research writing through AI tools raises questions about how [[generative-ai]] reshapes the development of scholarly writing skills and the [[faculty-development]] needed to mentor AI-augmented researchers.
 
 ## Related Pages
@@ -27,4 +25,4 @@ confidence: medium
 
 ## Citation
 
-Haoyang Wang, Mingze Zhang, Yi Bu, Star Xing Zhao, Meijun Liu (2026). [Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams](https://arxiv.org/abs/2605.27404). arXiv:2605.27404. arXiv preprint.
+Haoyang Wang, Mingze Zhang, Yi Bu, Star Xing Zhao, Meijun Liu (2026). Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams. arXiv:2605.27404. arXiv preprint.

@@ -7,8 +7,9 @@ tags: [pair-programming, collaborative-learning, cs-education]
 sources: [raw/papers/golrang-propact-pair-programming-2026.md]
 confidence: medium
 ---
-
 > **ProPACT** (Proactive AI-Driven Adaptive Collaborative Tutor) is an AI-driven adaptive tutoring system for pair programming that **treats collaboration itself as the object of instruction.** Unlike individual-centric, reactive systems, it models *dyadic* learning states in real time and intervenes *before* collaborative breakdowns occur, using multimodal sensing and predictive forecasting.
+> **Source:** ['ProPACT: Pair Programming with AI'](https://arxiv.org/abs/2605.02703)
+
 
 **Authors:** Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg · arXiv:2605.02703 · Within-subjects experiment with 26 pair-programming dyads (52 CS/Engineering students)
 
@@ -34,7 +35,7 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 
 ## Citation
 
-Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |, S.D.M., & |, I.F.T.T.C.F. (2026). [*ProPACT: Pair Programming with AI*](https://arxiv.org/abs/2605.02703)
+Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |, S.D.M., & |, I.F.T.T.C.F. (2026). *ProPACT: Pair Programming with AI*
 
 ## Related Pages
 
