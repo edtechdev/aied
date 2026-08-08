@@ -6,7 +6,35 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 14:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 14:44:59 +0000</lastBuildDate>
+    <item>
+      <title>Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education</title>
+      <link>https://edtechdev.github.io/aied/pages/becker-chatgpt-typology-physics-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/becker-chatgpt-typology-physics-2026.html</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from physics students using qualitative content analysis and latent class analysis, identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for scaffolding despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over overreliance concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all AI policies and calling for differentiated pedagogy.</p>]]></description>
+    </item>
+    <item>
+      <title>Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration</title>
+      <link>https://edtechdev.github.io/aied/pages/fouad-bentley-trust-utility-gap-physics-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/fouad-bentley-trust-utility-gap-physics-2026.html</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Fouad & Bentley (2026) survey 81 introductory physics students and find a striking 50-percentage-point trust-utility gap: 91% use AI for coursework but only 41% trust AI physics explanations — evidence of domain-calibrated skepticism, not uncritical adoption. Students spontaneously identified where AI fails in physics (visual-spatial reasoning, circuits, abstract reasoning), aligning with known benchmarks. 65% prefer optional over mandatory AI integration.</p>]]></description>
+    </item>
+    <item>
+      <title>Generative AI and the Productivity Divide: Human-AI Complementarities in Education</title>
+      <link>https://edtechdev.github.io/aied/pages/idan-anand-genai-productivity-divide-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/idan-anand-genai-productivity-divide-2026.html</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Idan & Anand (2026) conduct an RCT showing that GenAI access significantly increases task performance on average — but the gains are highly uneven, NOT predicted by GPA or prior knowledge, but by AI Interaction Competence (AIC): the ability to elicit, filter, and verify model outputs. High-AIC participants realized outsized gains while low-AIC saw limited or negative returns. A scaffolding intervention (conceptual maps) reduced outcome variance, showing that standardized workflows can mitigate the new "AI productivity divide."</p>]]></description>
+    </item>
+    <item>
+      <title>A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective</title>
+      <link>https://edtechdev.github.io/aied/pages/liang-genai-systematic-review-human-ai-2026.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/liang-genai-systematic-review-human-ai-2026.html</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Liang, Yang, Sha, Gašević, Yan & Chen (2026) systematically review 56 empirical studies on GenAI in education through the AIED-HCD framework, analyzing three human–AI interaction modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated human–AI complementarity.</p>]]></description>
+    </item>
     <item>
       <title>When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle</title>
       <link>https://edtechdev.github.io/aied/pages/zhang-tutormoments-2026.html</link>
@@ -20,13 +48,6 @@
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/ai-assisted-se-curriculum-syllabus-analysis-2026.html</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Synthesis:** This paper analyses 23 publicly available syllabi from upper-division, credit-bearing university courses that teach AI-assisted software development. The study identifies common curricular themes — prompt engineering, code review with AI, AI-augmented testing, ethical considerations — and maps how different institutions are defining this emerging subject area. Key findings include: a strong emphasis on critical evaluation of AI-generated code over pure generation speed, widespread integration of human-AI collaboration workflows, and substantial variation in how ethics and professional responsibility are addressed. The authors derive design guidance for future AI-assisted SE curricula, emphasising the need to balance tool fluency with foundational software engineering knowledge.</p>]]></description>
-    </item>
-    <item>
-      <title>Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education</title>
-      <link>https://edtechdev.github.io/aied/pages/becker-chatgpt-typology-physics-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/becker-chatgpt-typology-physics-2026.html</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from physics students using qualitative content analysis and latent class analysis, identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for scaffolding despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over overreliance concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all AI policies and calling for differentiated pedagogy.</p>]]></description>
     </item>
     <item>
       <title>CourseGraph: Finding overlaps and differences in Computer Science courses across universities</title>
@@ -43,32 +64,11 @@
       <description><![CDATA[<p>**Stub.**</p>]]></description>
     </item>
     <item>
-      <title>Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration</title>
-      <link>https://edtechdev.github.io/aied/pages/fouad-bentley-trust-utility-gap-physics-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/fouad-bentley-trust-utility-gap-physics-2026.html</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Synthesis:** Fouad & Bentley (2026) survey 81 introductory physics students and find a striking 50-percentage-point trust-utility gap: 91% use AI for coursework but only 41% trust AI physics explanations — evidence of domain-calibrated skepticism, not uncritical adoption. Students spontaneously identified where AI fails in physics (visual-spatial reasoning, circuits, abstract reasoning), aligning with known benchmarks. 65% prefer optional over mandatory AI integration.</p>]]></description>
-    </item>
-    <item>
       <title>Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation</title>
       <link>https://edtechdev.github.io/aied/pages/genai-feedback-design-multisite-experiment.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/genai-feedback-design-multisite-experiment.html</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Synthesis:** A multisite, cluster-randomized field experiment (1,176 first-year undergraduates, 48 sections, 4 universities, 3 science domains) compares four feedback designs for scientific argumentation: peer-only, direct GenAI, reflective GenAI (self-evaluation then AI critique), and hybrid (self-evaluation + peer + GenAI). The hybrid condition produced the highest argument-quality gains and clearest advantage on conceptual learning; reflective and hybrid designs both outperformed direct GenAI on delayed AI-free transfer. Findings suggest that GenAI's educational value depends less on AI access than on preserving student agency, evaluative judgment, and ownership during revision.</p>]]></description>
-    </item>
-    <item>
-      <title>Generative AI and the Productivity Divide: Human-AI Complementarities in Education</title>
-      <link>https://edtechdev.github.io/aied/pages/idan-anand-genai-productivity-divide-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/idan-anand-genai-productivity-divide-2026.html</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Synthesis:** Idan & Anand (2026) conduct an RCT showing that GenAI access significantly increases task performance on average — but the gains are highly uneven, NOT predicted by GPA or prior knowledge, but by AI Interaction Competence (AIC): the ability to elicit, filter, and verify model outputs. High-AIC participants realized outsized gains while low-AIC saw limited or negative returns. A scaffolding intervention (conceptual maps) reduced outcome variance, showing that standardized workflows can mitigate the new "AI productivity divide."</p>]]></description>
-    </item>
-    <item>
-      <title>A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective</title>
-      <link>https://edtechdev.github.io/aied/pages/liang-genai-systematic-review-human-ai-2026.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/liang-genai-systematic-review-human-ai-2026.html</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Synthesis:** Liang, Yang, Sha, Gašević, Yan & Chen (2026) systematically review 56 empirical studies on GenAI in education through the AIED-HCD framework, analyzing three human–AI interaction modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated human–AI complementarity.</p>]]></description>
     </item>
     <item>
       <title>Using LLMs to Detect Growth in Computational Thinking in Introductory Physics</title>

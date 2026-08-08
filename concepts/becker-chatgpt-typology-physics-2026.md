@@ -1,6 +1,6 @@
 ---
 title: "Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education"
-created: 2026-08-07
+created: 2026-08-08
 type: concept
 tags: [physics-education, student-experience, ai-literacy, higher-ed, stem-education, trust-calibration]
 sources: [raw/papers/becker-chatgpt-typology-physics-2026.md]
