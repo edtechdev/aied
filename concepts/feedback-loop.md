@@ -55,3 +55,4 @@ Role of feedback loops in AI-enhanced learning systems
 - [[aicode-collaborative-feedback-system]] — Closing feedback quality-consistency gap with multi-LLM
 - [[ai-assistance-discretionary-feedback]] — Discretionary feedback quantity as a pedagogical loop
 - [[cstutorbench-slm-tutors]] — Tutor feedback quality benchmarking
+- [[interactive-learning-dashboards-engagement]] — Interactive JoL + LLM agent feedback loop improves mastery calibration in dashboards

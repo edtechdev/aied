@@ -61,3 +61,4 @@ confidence: low
 - [[league-ethical-governance-student-data-2026]] — related concept
 - [[lak2026-hint-button-unproductive-use]]
 - [[precision-education-student-digital-twins-2026]] — precision education framework using AI-powered student digital twins
+- [[interactive-learning-dashboards-engagement]] — ILAD study showing interactive dashboards with LLM agents improve engagement and metacognitive calibration

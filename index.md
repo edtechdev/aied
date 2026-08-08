@@ -9,7 +9,6 @@
 ---
 
 ## Concepts
-
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[academic-integrity]] — Academic Integrity
@@ -148,6 +147,7 @@
 - [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
 - [[awareness-technological-isomorphism]] — 'Awareness of Technological Isomorphism: AI in Elementary Math'
 - [[becerra-aicofe-feedback-2026]] — 'AICoFE: AI-Powered Feedback System'
+- [[becker-chatgpt-typology-physics-2026]] — Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education
 - [[behaviorally-adaptive-visual-diversion-assessment-2026]] — Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery
 - [[benchmark]] — Benchmark
 - [[benchmark-driven-edtech]] — Benchmark Driven Edtech
@@ -299,6 +299,7 @@
 - [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio
 - [[formative-assessment]] — Formative Assessment in AI Education
 - [[formative-feedback-systems]] — Formative Feedback Systems
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration
 - [[foxglove-writing-feedback-experts-llms]] — 'FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs'
 - [[framing-5-percent-problem-teachers-persistence]] — 'Framing the 5% Problem: Teachers'' Perspectives on Persistence in Educational Technology'
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
@@ -370,6 +371,7 @@
 - [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game
 - [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents
 - [[icle-plus-plus-essay-scoring]] — 'ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring'
+- [[idan-anand-genai-productivity-divide-2026]] — Generative AI and the Productivity Divide: Human-AI Complementarities in Education
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems
 - [[inclusive-ai]] — Inclusive Ai
 - [[inclusive-education]] — Inclusive Education
@@ -381,6 +383,7 @@
 - [[instructional-guidance-genai-learning]] — Role of Instructional Guidance in Generative AI-Assisted Learning
 - [[intelligent-tutoring]] — Intelligent Tutoring
 - [[intelligent-tutoring-systems]] — Intelligent Tutoring Systems
+- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualisations as engagement tools
 - [[international-students-conversational-ai-adaptation]] — Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
 - [[isolated-learner-detection]] — Isolated Learner Detection
 - [[item-response-theory]] — Item Response Theory
@@ -418,6 +421,7 @@
 - [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
 - [[less-deliberate-teams-llm]] — 'Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work'
 - [[lets-chat-chatbot-outreach-2026]] — 'Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance'
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
 - [[lifelong-learning]] — Lifelong Learning and AI
 - [[llm]] — Llm
 - [[llm-application-education]] — Llm Application Education
@@ -425,6 +429,7 @@
 - [[llm-chatbots-cs-multiple-choice]] — Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?
 - [[llm-children-reading-story-generation]] — Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
+- [[llm-computational-thinking-physics-2026]] — Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
 - [[llm-design-problems-hot-pjbl]] — LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
 - [[llm-detecting-llm-generated-content-education]] — Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content
@@ -455,6 +460,7 @@
 - [[llm-turing-test-italian-legal-exams-2026]] — What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries
 - [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
 - [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
+- [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
 - [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation
 - [[mastery-learning]] — Mastery Learning
 - [[math-education]] — Math Education
@@ -482,6 +488,7 @@
 - [[multi-agent-llm-social-learning]] — 'Beyond the AI Tutor: Social Learning with LLM Agents'
 - [[multi-representational-tools]] — Multi Representational Tools
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
 - [[multilingual-learning]] — Multilingual Learning
 - [[multimodal]] — Multimodal
 - [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
@@ -663,5 +670,5 @@
 - [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
+- [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
 - [[zone-of-proximal-development]] — Zone Of Proximal Development
-

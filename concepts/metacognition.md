@@ -104,3 +104,4 @@ Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*Metacognitio
 - [[scaffolding-critical-engagement-genai-minority-students]]
 - [[icap-cognitive-engagement-llm-agents]]
 - [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler tool for metacognitive scaffolding during GenAI use
+- [[interactive-learning-dashboards-engagement]] — Interactive LAD with JoL self-assessment improves judgement calibration in CS course

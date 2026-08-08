@@ -52,3 +52,4 @@ confidence: low
 - [[aaai2026-prompting-literacy-k12]]
 - [[instructional-agents-multi-agent-course-gen]]
 - [[llm-turing-test-italian-legal-exams-2026]] — blind Turing test on Italian legal professional exams
+- [[interactive-learning-dashboards-engagement]] — LLM-powered pedagogical agent enables interactive engagement with learning analytics data

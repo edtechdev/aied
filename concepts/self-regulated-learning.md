@@ -100,3 +100,4 @@ For example:
 - [[genai-performance-vs-learning]] — SRL cycle disrupted by performance-only AI use- [[llm-reasoning-traces-metacognition]] — Metacognitive calibration requires active reasoning before AI exposure
 - [[metacognitive-learning-scenarios-taxonomy]] — Taxonomy operationalizes SRL progression from novice to expert
 - [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler tool for metacognitive scaffolding during GenAI use
+- [[interactive-learning-dashboards-engagement]] — Elicit-style pedagogical agent improves self-assessment accuracy vs tell-style
