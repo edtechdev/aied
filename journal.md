@@ -2,7 +2,7 @@
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
 > Browse recent additions by date. ● = high confidence, ◐ = medium, ○ = low.
-> Last updated: 2026-08-08 | Total entries: 494
+> Last updated: 2026-08-08 | Total entries: 495
 
 ---
 
@@ -19,6 +19,10 @@
 - ● [[idan-anand-genai-productivity-divide-2026]] — `2605.18143`
   Generative AI and the Productivity Divide: Human-AI Complementarities in Education
   _generative-ai, ai-literacy, equity, productivity +3_
+
+- ● [[interactive-learning-dashboards-engagement]] — `interactive-learning-dashboards-engagement`
+  Interactive learning dashboards: rethinking learning visualisations as engagement tools
+  _learning-analytics, metacognition, llm, higher-ed +5_
 
 - ● [[liang-genai-systematic-review-human-ai-2026]] — `liang-genai-systematic-review-2026`
   A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective

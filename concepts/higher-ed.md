@@ -90,3 +90,4 @@ confidence: low
 - [[precision-education-student-digital-twins-2026]] — precision education framework using AI-powered student digital twins
 - [[coursegraph-cs-course-comparison-2026]] — CourseGraph for evaluating CS course equivalence across universities
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — analysis of AI-assisted SE syllabi across 23 university courses
+- [[interactive-learning-dashboards-engagement]] — Interactive LAD study in university CS course: elicit beats tell for metacognition

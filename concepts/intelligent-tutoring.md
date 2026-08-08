@@ -75,3 +75,4 @@ Intelligent tutoring systems and AI-driven tutoring agents in education
 - [[deeptutor]]
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept
 - [[lak2026-hint-button-unproductive-use]]
+- [[interactive-learning-dashboards-engagement]] — Applying Chi's ICAP interactivity framework to learning dashboards

@@ -6,7 +6,7 @@
     <description>Recently added articles on AI in education</description>
     <atom:link href="https://edtechdev.github.io/aied/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Aug 2026 15:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:46:40 +0000</lastBuildDate>
     <item>
       <title>Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education</title>
       <link>https://edtechdev.github.io/aied/pages/becker-chatgpt-typology-physics-2026.html</link>
@@ -29,11 +29,25 @@
       <description><![CDATA[<p>**Synthesis:** Idan & Anand (2026) conduct an RCT showing that GenAI access significantly increases task performance on average — but the gains are highly uneven, NOT predicted by GPA or prior knowledge, but by AI Interaction Competence (AIC): the ability to elicit, filter, and verify model outputs. High-AIC participants realized outsized gains while low-AIC saw limited or negative returns. A scaffolding intervention (conceptual maps) reduced outcome variance, showing that standardized workflows can mitigate the new "AI productivity divide."</p>]]></description>
     </item>
     <item>
+      <title>Interactive learning dashboards: rethinking learning visualisations as engagement tools</title>
+      <link>https://edtechdev.github.io/aied/pages/interactive-learning-dashboards-engagement.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/interactive-learning-dashboards-engagement.html</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an LLM-powered pedagogical agent and a Judgement of Learning (JoL) self-assessment feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more reflection and more accurate mastery calibration. The study bridges <a href="learning-analytics.html">learning-analytics</a> dashboard design with <a href="intelligent-tutoring.html">intelligent-tutoring</a> principles and <a href="metacognition.html">metacognition</a> research, showing that how learners interact with their data matters more than simply seeing it.</p>]]></description>
+    </item>
+    <item>
       <title>A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective</title>
       <link>https://edtechdev.github.io/aied/pages/liang-genai-systematic-review-human-ai-2026.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/liang-genai-systematic-review-human-ai-2026.html</guid>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Synthesis:** Liang, Yang, Sha, Gašević, Yan & Chen (2026) systematically review 56 empirical studies on GenAI in education through the AIED-HCD framework, analyzing three human–AI interaction modes along dimensions of human control and AI automation. They find that practice remains cautious toward high-AI-automation modes, but a high-control + high-automation mode is emerging as a trend — suggesting the future is not AI replacing humans but calibrated human–AI complementarity.</p>]]></description>
+    </item>
+    <item>
+      <title>Pedagogical Agent</title>
+      <link>https://edtechdev.github.io/aied/pages/pedagogical-agent.html</link>
+      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/pedagogical-agent.html</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>**Synthesis**: Pedagogical agents are AI-driven conversational interfaces embedded in learning environments that use pedagogical strategies (eliciting, telling, scaffolding) to support learner engagement, reflection, and metacognition. Designs vary from simple information providers to interactive dialogue partners that adapt to learner states.</p>]]></description>
     </item>
     <item>
       <title>When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle</title>
@@ -270,20 +284,6 @@
       <title>Human Ai Interaction</title>
       <link>https://edtechdev.github.io/aied/pages/human-ai-interaction.html</link>
       <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-ai-interaction.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Stub.**</p>]]></description>
-    </item>
-    <item>
-      <title>Human Computer Interaction</title>
-      <link>https://edtechdev.github.io/aied/pages/human-computer-interaction.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/human-computer-interaction.html</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description><![CDATA[<p>**Stub:** Auto-created for cross-linking.</p>]]></description>
-    </item>
-    <item>
-      <title>Hybrid Intelligence</title>
-      <link>https://edtechdev.github.io/aied/pages/hybrid-intelligence.html</link>
-      <guid isPermaLink="true">https://edtechdev.github.io/aied/pages/hybrid-intelligence.html</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[<p>**Stub.**</p>]]></description>
     </item>

@@ -23,3 +23,4 @@ confidence: low
 
 - [[ai-assisted-learning-modes-eeg]] — AI-Assisted Learning Modes (EEG Study)
 - [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Langua
+- [[interactive-learning-dashboards-engagement]] — 5-week ILAD study: elicit agent produced more reflection than tell or no agent
