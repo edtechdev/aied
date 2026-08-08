@@ -10,7 +10,6 @@ confidence: high
 # Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use
 
 **Abdelghani, Kaiser & Murayama (2026)** — University of Tuebingen / Max Planck Institute.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.08568)
 
 Examines how 98 Grade-9 students across three German Gymnasium schools regulated their use of a Mistral-Large GenAI tutor while preparing for a math exam. Despite overwhelmingly selecting scaffolded support before the session, students' actual interactions were dominated by instrumental requests (asking for answers) with almost no explicit monitoring or evaluation of their own learning.
 
@@ -27,4 +26,5 @@ The paper proposes a turn-level codebook combining SRL and [[metacognition|help-
 - [[ai-learning-companions-framework]] — Frameworks for designing AI learning companions
 
 ## Citation
-**APA:** Abdelghani, R., Kaiser, P., & Murayama, K. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. *arXiv:2606.08568*.
+
+Abdelghani, R., Kaiser, P., & Murayama, K. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. [arXiv:2606.08568](https://arxiv.org/abs/2606.08568).

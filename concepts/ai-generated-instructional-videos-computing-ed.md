@@ -12,8 +12,6 @@ confidence: high
 
 **Esse Ciego, Shubbhi Taneja, Wilson Wong, Amanpreet Kapoor (2026)** — arXiv:2607.28203 (cs.HC)
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.28203)
-
 ## Summary
 
 Studies student perceptions of AI-generated instructional videos in computing education. Finds students value personalization and rapid production but express concerns about accuracy and the loss of instructor presence. Identifies clear preferences for hybrid approaches where AI generates draft content that instructors review and refine.
@@ -37,4 +35,4 @@ The work connects to broader discussions in AI and education around [[student-ex
 
 ## Citation
 
-Esse Ciego, Shubbhi Taneja, Wilson Wong, Amanpreet Kapoor (2026). *Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education*. arXiv:2607.28203. cs.HC.
+Esse Ciego, Shubbhi Taneja, Wilson Wong, Amanpreet Kapoor (2026). [Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education](https://arxiv.org/abs/2607.28203). arXiv:2607.28203. cs.HC.

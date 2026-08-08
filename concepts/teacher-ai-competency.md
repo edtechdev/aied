@@ -54,6 +54,13 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [https://arxiv.org/abs/2601.06101](https://arxiv.org/abs/2601.06101)
 - [https://arxiv.org/abs/2602.16033](https://arxiv.org/abs/2602.16033)
 
+## Citation
+
+Ensuring AI tools serve diverse learners
+
+### The Competency Gap
+Zhang et al. (2026) documented a. [Teacher AI Competency](https://arxiv.org/abs/2601.06101).
+
 ## Related Pages
 - [[genai-can-harm-teaching-rct-2026]] — Teacher AI delegation harms students (RCT)
 - [[dot-framework-survey]]

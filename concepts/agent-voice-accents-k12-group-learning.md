@@ -11,7 +11,6 @@ confidence: high
 # Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 
 **Ravi, Stevens, Hurt, Hanks, Lin & Anderson (2026)**.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.12805)
 
 Ravi et al. investigate how the voice accent of a [[generative-ai]] conversational peer agent shapes learners' perceptions, trust, and interactional dynamics in [[k-12]] group learning. While prior work examined agent accent effects in one-to-one settings, little is known about how these effects manifest in multi-party group contexts — a critical gap as [[intelligent-tutoring|AI peer agents]] enter collaborative classrooms.
 
@@ -32,4 +31,5 @@ The findings advance understanding of how GenAI's sociolinguistic design feature
 - [[ai-literacy]] — AI literacy and understanding of AI capabilities
 
 ## Citation
-**APA:** Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., & Anderson, E. (2026). Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning. arXiv:2606.12805.
+
+Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., & Anderson, E. (2026). [Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning](https://arxiv.org/abs/2606.12805). arXiv:2606.12805.

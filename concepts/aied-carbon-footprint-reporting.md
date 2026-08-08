@@ -11,7 +11,6 @@ confidence: high
 # The Environmental Cost of LLMs in AIED: Reporting and Practices
 
 **Sabrina C. Eimler, Lukas Erle, Daniel Flood, Aditi Haiman, Luca Häckert, André Helgert, Lachlan McGinness, Büsra Yapici**
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.11215)
 
 ## Summary
 
@@ -49,4 +48,5 @@ LLM usage has become pervasive in the [[ai-k12-evidence-base|AIED]] community, b
 - [[ground-truth-reliability-aied]] — Systemic under-reporting of essential methodological details in AIED
 
 ## Citation
-**APA:** Eimler, S. C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., & Yapici, B. (2026). *The Environmental Cost of LLMs in AIED: Reporting and Practices*. arXiv:2606.11215. 
+
+Eimler, S. C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., & Yapici, B. (2026). [The Environmental Cost of LLMs in AIED: Reporting and Practices](https://arxiv.org/abs/2606.11215). arXiv:2606.11215.

@@ -7,10 +7,6 @@ tags: [agentic-ai, ai-education, benchmark, intelligent-tutoring]
 sources: [raw/papers/kamalov-agentic-workflows-education-2026.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2504.20082](https://arxiv.org/abs/2504.20082v2) · [local](raw/papers/kamalov-agentic-workflows-education-2026.md)
-
-
-
 
 # Agentic Workflows in Education
 
@@ -74,7 +70,3 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[multi-agent-instructional-design]] — Multi-agent collaboration for instructional design (KLI framework)
 - [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
 
-
-## Sources
-- Kamalov et al. (2026). *Evolution of AI in Education: Agentic Workflows*. arXiv:2504.20082v2. [PDF](https://arxiv.org/pdf/2504.20082v2)
-- [[agents-that-teach-incidental-learning]] — SHIELD multi-agent learning-aware development system

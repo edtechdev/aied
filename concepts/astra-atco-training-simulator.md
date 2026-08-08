@@ -12,8 +12,6 @@ confidence: medium
 
 **Ethan Chew, Enjia Wu, Iruss Eng Wei Yeow, Ian Weiqin Lim, Ranen Sim, Brandon Koh Ziheng, Kaleb Nim, Caden Toh Jun Yi, Wei Dong Soin, Darius Kai Keat Koh, Galen King Yu Tay, Prannaya Gupta, Jonathan Ee Fang Koong, Yong Zhi Lim (2026)** — Institution.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.18319)
-
 ASTRA uses autonomous AI sim-pilots for scalable air traffic control training; reduces dependency on human role-players while maintaining realistic scenario complexity.
 
 ## Synthesis
@@ -29,4 +27,4 @@ ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpil
 
 ## Citation
 
-Ethan Chew, Enjia Wu, Iruss Eng Wei Yeow, Ian Weiqin Lim, Ranen Sim, Brandon Koh Ziheng, Kaleb Nim, Caden Toh Jun Yi, Wei Dong Soin, Darius Kai Keat Koh, Galen King Yu Tay, Prannaya Gupta, Jonathan Ee Fang Koong, Yong Zhi Lim (2026). *ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots*. arXiv:2606.18319.
+Ethan Chew, Enjia Wu, Iruss Eng Wei Yeow, Ian Weiqin Lim, Ranen Sim, Brandon Koh Ziheng, Kaleb Nim, Caden Toh Jun Yi, Wei Dong Soin, Darius Kai Keat Koh, Galen King Yu Tay, Prannaya Gupta, Jonathan Ee Fang Koong, Yong Zhi Lim (2026). [ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots](https://arxiv.org/abs/2606.18319). arXiv:2606.18319.

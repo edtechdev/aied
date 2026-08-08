@@ -14,8 +14,6 @@ confidence: high
 
 **Unnati Narang, Vishal Sachdev, Ruichun Liu (2026)** — Journal of Public Policy & Marketing, 44(3), 473-489 (2025).
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.03973)
-
 ## Key Findings
 
 Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three GAI roles in education: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solving), and tool. Each role influences teaching, social, and cognitive presence differently. Identifies ethical considerations: data privacy, plagiarism, AI dependency, and assessment fairness. Provides concrete examples for GAI integration in courses.
@@ -36,4 +34,4 @@ Generative Artificial Intelligence (GAI) is increasingly being integrated into m
 
 ## Citation
 
-Unnati Narang, Vishal Sachdev, & Ruichun Liu (2026). *When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education*. arXiv:2608.03973. Journal of Public Policy & Marketing, 44(3), 473-489 (2025).
+Unnati Narang, Vishal Sachdev, & Ruichun Liu (2026). [When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education](https://arxiv.org/abs/2608.03973). arXiv:2608.03973. Journal of Public Policy & Marketing, 44(3), 473-489 (2025).

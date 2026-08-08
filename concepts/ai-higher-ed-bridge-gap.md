@@ -7,10 +7,6 @@ tags: [higher-ed, equity, ai-literacy, policy-maker, regulation]
 sources: ["raw/papers/ai-higher-ed-bridge-gap.md"]
 confidence: medium
 ---
-> 📄 Full text: [Science](https://www.science.org/doi/10.1126/science.aeh5777) · [local](raw/papers/ai-higher-ed-bridge-gap.md)
-
-
-
 
 # Higher Education Must Bridge the AI Gap
 
@@ -27,6 +23,10 @@ AI's unprecedented speed, scale, and portability compress the time institutions 
 
 ## Cross-Sector Response
 An eLetter response argued universities cannot bridge the gap alone — commercial LLMs are structurally opaque. Proposed cross-sector ecosystems (universities + research centers + industry) for algorithmic transparency. Cited China's "AI + Education" Action Plan (April 2026) and the Xiaoya platform deployed across 3,500+ universities.
+
+## Citation
+
+[Higher Education Must Bridge the AI Gap](https://www.science.org/doi/10.1126/science.aeh5777).
 
 ## Related Pages
 - [[persistent-ai-agents-academic-research]] — PARE-M as a framework for bridging AI capability and institutional adoption

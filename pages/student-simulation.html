@@ -7,78 +7,55 @@
     <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="../feed.xml">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag {display:inline-block;padding:0.15rem 0.5rem;margin:0.15rem;background:var(--primary);color:var(--primary-inverse);border-radius:4px;font-size:0.8rem;text-decoration:none}
-        a.tag:hover {opacity:0.85}
-        table {width:100%;border-collapse:collapse;margin:1rem 0}
-        th,td {padding:0.5rem 0.75rem;border:1px solid var(--card-border-color);text-align:left}
-        th {background:rgba(0,0,0,0.04);font-weight:600}
-        tr:nth-child(even) {background:rgba(0,0,0,0.02)}
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
     <header class="container">
-        <nav><ul><li><a href="../index.html">🏠 Home</a></li><li><a href="../journal.html">📋 Journal</a></li><li><a href="../search.html">🔍 Search</a></li><li><a href="../feed.xml">📡 RSS</a></li></ul></nav>
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+                <li><a href="../feed.xml">📡 RSS</a></li>
+            </ul>
+        </nav>
         <h1>Student Simulation</h1>
-        <div class="metadata">Created: 2026-08-06 · Updated: 2026-08-07 | Tags: <a href="student-simulation.html" class="tag">student-simulation</a><a href="../tags/llm.html" class="tag">llm</a><a href="../tags/simulation.html" class="tag">simulation</a><a href="../tags/teacher-training.html" class="tag">teacher-training</a><a href="../tags/student-modeling.html" class="tag">student-modeling</a></div>
+        <div class="metadata">Created: 2026-08-06 | Tags: <span class="tag">student-simulation</span></div>
     </header>
     <main class="container"><blockquote>
-<p><strong>Student simulation</strong> is the use of AI — increasingly LLM-powered agents — to model realistic learner behaviors, misconceptions, and reasoning patterns for purposes of teacher training, tutor evaluation, and educational research. The research community is rapidly moving from simple scripted student models toward multi-agent classrooms and psychometrically calibrated simulated examinees.</p>
-</blockquote>
-
-<h2>What We Learn from Student Simulation Research</h2>
-
-<h3>1. Fidelity and Misconception Faithfulness</h3>
-<p>The central tension in student simulation is between <strong>faithfulness</strong> — can the simulated student genuinely reproduce learner errors and misconceptions? — and <strong>convenience</strong>. Research by <a href="llm-student-simulation-misconception-faithfulness.html">Golrang et al. (2026)</a> reveals that LLM-simulated students can slip into sycophantic problem-solving rather than exhibiting genuine misconception patterns, raising a critical question: are we simulating students or evaluating LLM compliance? Related work on <a href="simulating-students-java-programming-errors-llms.html">simulating Java programming errors</a> shows LLMs can realistically reproduce common novice mistakes, but the fidelity ceiling varies by domain.</p>
-
-<h3>2. Teacher Training and Practice</h3>
-<p>Simulated students offer prospective teachers rare opportunities to practice responding to authentic learner reasoning. <a href="multiagent-classroom-dual-process-physics-teachers-2026.html">Tufino (2026)</a> demonstrated this with a multi-agent AI classroom where five AI students enacted distinct dual-process theory reasoning hazards — producing significant diagnostic improvement (p=0.014, r=0.79) but revealing a knowing-doing gap between theory knowledge and real-time responsive teaching. <a href="llm-student-simulation-teacher-insights.html">Teachers' insights from tutoring LLM students</a> further illuminate the gap between what teachers report and how simulated students actually behave in dialogue.</p>
-
-<h3>3. Persona Stability and History Awareness</h3>
-<p>A key challenge is maintaining consistent student personas across interactions. <a href="history-aware-student-simulation.html">History-aware profiles for student simulation</a> address the question "Who am I?" — ensuring that simulated students remember prior interactions and maintain stable characteristics. <a href="llm-educational-simulation-adhd.html">Temporal student persona stability</a> research evaluates whether LLM-based educational simulations can maintain consistent behavioral patterns over extended interactions, especially for neurodivergent learner profiles.</p>
-
-<h3>4. Multi-Agent Classrooms and Social Dynamics</h3>
-<p>Beyond individual student agents, researchers are building entire simulated classrooms. Tufino's <a href="multiagent-classroom-dual-process-physics-teachers-2026.html">multi-agent physics classroom</a> and <a href="edumirror-educational-social-dynamics.html">EduMirror</a> model educational social dynamics with value-driven multi-agent simulation. The <a href="educlaw-bench-pedagogical-llm-agents-2026.html">EduClaw-Bench</a> provides a long-horizon benchmark for pedagogical LLM agents operating with simulated students in extended teaching scenarios.</p>
-
-<h3>5. Psychometric Calibration</h3>
-<p>For assessment and evaluation purposes, simulated students must be psychometrically valid. <a href="llm-psychometric-calibration-cdp.html">Research on psychometric calibration</a> explores aligning LLM-simulated examinees with human test-takers using cognitive diagnostic profiles — ensuring that simulated performance distributions match real student populations.</p>
-
-<h3>6. Task Selection and Learning Behavior</h3>
-<p>Simulating how learners choose tasks and navigate learning environments is essential for evaluating <a href="adaptive-learning.html">adaptive-learning</a> systems. <a href="simulating-learner-task-selection.html">Research on learners' task-selection strategies</a> models how students make decisions under system constraints — critical for designing effective <a href="personalized-learning.html">personalized-learning</a> platforms.</p>
-
-<h3>7. Tooling and Authoring</h3>
-<p>Making student simulation accessible to educators and researchers is an emerging priority. <a href="ai-tutor-authoring-promptdecipher.html">PromptDecipher</a> supports AI tutor authoring through editable simulated interactions, lowering the barrier for domain experts to create and refine simulated student behaviors.</p>
-
-<h2>Key Open Questions</h2>
-<ul>
-<li><strong>Faithfulness vs. sycophancy:</strong> How do we ensure simulated students exhibit genuine misconceptions rather than LLM-trained compliance?</li>
-<li><strong>Generalization:</strong> Can simulated students trained on one domain transfer their behavior patterns to new subjects?</li>
-<li><strong>Teacher uptake:</strong> What factors predict whether teachers will actually use student simulations for practice?</li>
-<li><strong>Ethical boundaries:</strong> When does a simulated student become too convincing, potentially misleading educators about real student capabilities?</li>
-</ul>
-
-<h2>📎 Pages tagged <a href="../tags/student-simulation.html">student-simulation</a></h2>
-<ul>
-<li><a href="ai-tutor-authoring-promptdecipher.html">PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions</a></li>
-<li><a href="educlaw-bench-pedagogical-llm-agents-2026.html">EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Students</a></li>
-<li><a href="edumirror-educational-social-dynamics.html">EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation</a></li>
-<li><a href="history-aware-student-simulation.html">History-Aware Profiles for Student Simulation in Tutoring Dialogues</a></li>
-<li><a href="llm-educational-simulation-adhd.html">LLM-Based Educational Simulation: Temporal Student Persona Stability and ADHD</a></li>
-<li><a href="llm-psychometric-calibration-cdp.html">Aligning LLM-Simulated and Human Examinees for Psychometric Calibration</a></li>
-<li><a href="llm-student-simulation-misconception-faithfulness.html">Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness</a></li>
-<li><a href="llm-student-simulation-teacher-insights.html">Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students</a></li>
-<li><a href="multiagent-classroom-dual-process-physics-teachers-2026.html">A Multi-Agent AI Classroom for Prospective Physics Teachers</a></li>
-<li><a href="simulating-learner-task-selection.html">Simulating Learners' Task-Selection Strategies and System Constraints</a></li>
-<li><a href="simulating-students-java-programming-errors-llms.html">Simulating Students' Java Programming Errors with Large Language Models</a></li>
-</ul>
-
-<h2>See Also</h2>
-<ul>
-<li><a href="student-modeling.html">Student Modeling</a> — computational representations of learner knowledge and skills</li>
-<li><a href="simulation.html">Simulation</a> — broader simulation approaches in education</li>
-<li><a href="teacher-training.html">Teacher Training</a> — preparing educators for AI-augmented classrooms</li>
-<li><a href="intelligent-tutoring.html">Intelligent Tutoring</a> — AI systems that teach, increasingly evaluated with simulated students</li>
-</ul>
-</main>
-    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-08-07</small></footer>
+<strong>Stub.</strong>
+</blockquote><p><h2>Related Pages</h2></p><p><ul><li><a href="llm-student-simulation-teacher-insights.html">llm-student-simulation-teacher-insights</a></li></ul></p><hr><h2>📎 1 other page tagged <a href="../tags/student-simulation.html">student-simulation</a></h2><ul><li><a href="llm-student-simulation-teacher-insights.html">Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students</a></li></ul></main>
+    <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-08-08</small></footer>
 </body>
 </html>

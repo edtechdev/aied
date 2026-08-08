@@ -10,7 +10,6 @@ confidence: low
 # Toward a Metaphysics of Learning Analytics: Ontological Positioning
 
 **Takii (2026)** — Author. Unknown institution.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.06851)
 
 Attempts to establish a **metaphysical foundation** for Learning Analytics (LA) by addressing the ontological question of what LA fundamentally *is*. Despite 15 years of development since the first LAK conference, metaphysical discussions of LA have been sparse. The paper identifies eight agents (including learners) as ontological prerequisites for LA and uses the is/ought problem to argue that LA cannot derive normative claims from data alone.
 
@@ -27,4 +26,5 @@ While speculative and lacking empirical validation (hence *low confidence*), the
 - [[ai-governance-education]] — Governance frameworks for educational AI and analytics
 
 ## Citation
-**APA:** Takii, K. (2026). Toward a Metaphysics of Learning Analytics: Ontological Positioning of Data, Inference, and Normativity. *arXiv:2606.06851*.
+
+Takii, K. (2026). Toward a Metaphysics of Learning Analytics: Ontological Positioning of Data, Inference, and Normativity. [arXiv:2606.06851](https://arxiv.org/abs/2606.06851).

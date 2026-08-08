@@ -7,10 +7,6 @@ tags: [llm, personalized-learning, adaptive-learning, intelligent-tutoring, gene
 confidence: medium
 sources: [raw/papers/nie-personavlm-long-term-personalization-2026.md]
 ---
-> 📄 Full text: [arXiv:2604.13074](https://arxiv.org/abs/2604.13074) · [local](raw/papers/nie-personavlm-long-term-personalization-2026.md)
-
-
-
 
 # LLM Student Modeling and Long-Term Memory Architecture
 

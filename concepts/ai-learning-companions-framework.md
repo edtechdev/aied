@@ -7,10 +7,6 @@ tags: [llm, personalized-learning, adaptive-learning, metacognition, student-exp
 sources: ["raw/papers/2605.04816.md"]
 confidence: high
 ---
-> 📄 Full text: [arXiv:2605.04816](https://arxiv.org/abs/2605.04816) · [local](raw/papers/2605.04816.md)
-
-
-
 
 # AI Learning Companions Framework
 

@@ -12,8 +12,6 @@ confidence: medium
 
 **Jia, Y., Li, D., Chen, J., Mao, Z., Tong, M., Li, Y., Wang, X. (2026)** — arXiv preprint.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.08697)
-
 ## Analysis
 
 This paper proposes **MBP-KT**, which transforms raw learner interaction sequences into structured **meta-behavioral patterns** before extracting collaborative signals. Raw sequences contain redundant noise; by decomposing interactions into distinct behavioral patterns (success-streaks, struggle-recovery, hesitation), the model captures higher-order learning dynamics.^[2605.08697](raw/papers/2605.08697.md)
@@ -31,4 +29,4 @@ The parameter-free global extraction module makes this broadly applicable — ex
 
 ## Citation
 
-Jia et al. (2026). *MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing*. arXiv:2605.08697. arXiv preprint.
+Jia et al. (2026). [MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing](https://arxiv.org/abs/2605.08697). arXiv:2605.08697. arXiv preprint.

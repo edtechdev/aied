@@ -41,4 +41,4 @@ Pedagogically grounded chatbot for instructor PD. Data-centric pipeline extracts
 
 ## Citation
 
-Isabel Molnar et al. (2026). *TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors*. arXiv:2603.18189. cs.AI.
+Isabel Molnar et al. (2026). [TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors](https://arxiv.org/abs/2603.18189). arXiv:2603.18189. cs.AI.

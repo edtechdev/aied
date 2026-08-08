@@ -12,7 +12,6 @@ confidence: medium
 
 LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
 **Wang, Lee, & Mutlu (2026)** — University of Wisconsin-Madison. CHI-related publication.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.06257)
 
 ## Summary
 
@@ -42,4 +41,5 @@ The work also contributes to understanding how [[scaffolding]] can be implemente
 - [[agentic-ai-ecosystems-higher-education]] — Multi-agent AI in higher education
 
 ## Citation
-**APA:** Wang, X. J., Lee, C. P., & Mutlu, B. (2026). *LearnMate^2: Design and evaluation of an LLM-powered personalized and adaptive support system for online learning*. arXiv:2605.06257. https://doi.org/10.1145/3800645.3812972
+
+Wang, X. J., Lee, C. P., & Mutlu, B. (2026). [LearnMate^2: Design and evaluation of an LLM-powered personalized and adaptive support system for online learning](https://arxiv.org/abs/2605.06257). arXiv:2605.06257. https://doi.org/10.1145/3800645.3812972

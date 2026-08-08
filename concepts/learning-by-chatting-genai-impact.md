@@ -11,7 +11,6 @@ confidence: high
 # Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
 
 **Shravika Mittal, Su Lin Blodgett, Q. Vera Liao**
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.11669)
 
 ## Summary
 
@@ -57,4 +56,5 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 - [[efficiency-gain-illusion-ai-overreliance]] — Overestimation of AI assistance benefits
 
 ## Citation
-**APA:** Mittal, S., Blodgett, S. L., & Liao, Q. V. (2026). *Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning*. arXiv:2606.11669.
+
+Mittal, S., Blodgett, S. L., & Liao, Q. V. (2026). [Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning](https://arxiv.org/abs/2606.11669). arXiv:2606.11669.

@@ -7,10 +7,6 @@ tags: [agentic-ai, generative-ai, higher-ed, scaffolding, stem-education]
 sources: [raw/papers/2604.17460.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2604.17460](https://arxiv.org/abs/2604.17460) · [local](raw/papers/2604.17460.md)
-
-
-
 
 # Agentic Education with AI Coding Assistants
 
@@ -74,7 +70,3 @@ Naboulsi, A.Z. (2026). [*Agentic Education with AI Coding Assistants*](https://a
 - [[metacognition]] — Strategic tool selection and self-regulation
 - [[lecturaagents-multi-agent-teaching]] — LecturaAgents
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in St
-
-## Sources
-- Naboulsi (2026). *Agentic Education: Using Claude Code to Teach Claude Code*. arXiv:2604.17460. [PDF](https://arxiv.org/pdf/2604.17460)
-- [[agents-that-teach-incidental-learning]] — Knowledge Debt and "agents that teach" design principles

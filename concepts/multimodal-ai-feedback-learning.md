@@ -12,8 +12,6 @@ confidence: high
 
 **Zhao, Cao, Lin & Koedinger (2026)** — CMU, UNC, U Hong Kong. Accepted to LAK 2026. Online crowdsourcing experiment.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2601.15280)
-
 ## Core Finding
 
 **AI multimodal feedback matches educator feedback for learning while significantly outperforming it on student perceptions.**
@@ -100,4 +98,4 @@ This paper provides direct empirical evidence for several wiki threads:
 - [[llm-student-modeling-memory]] — Student modeling for personalized multimodal feedback
 ## Citation
 
-Zhao, C. Q., Cao, J., Lin, J., & Koedinger, K. R. (2026). *LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback*. arXiv:2601.15280. Accepted to LAK 2026.
+Zhao, C. Q., Cao, J., Lin, J., & Koedinger, K. R. (2026). [LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback](https://arxiv.org/abs/2601.15280). arXiv:2601.15280. Accepted to LAK 2026.

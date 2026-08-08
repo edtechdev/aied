@@ -7,10 +7,6 @@ tags: [agentic-ai, ai-ed-evaluation, ai-education, assessment, pedagogical-safet
 sources: [raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md, raw/papers/kamalov-agentic-workflows-education-2026.md, raw/papers/zhao-learnlens-curriculum-feedback-2025.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2604.03926](https://arxiv.org/abs/2604.03926) · [local](raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md) · [arXiv:2504.20082](https://arxiv.org/abs/2504.20082v2) · [local](raw/papers/kamalov-agentic-workflows-education-2026.md) · [arXiv:2507.04295](https://arxiv.org/abs/2507.04295v4) · [local](raw/papers/zhao-learnlens-curriculum-feedback-2025.md)
-
-
-
 
 # Formative Assessment in AI Education
 

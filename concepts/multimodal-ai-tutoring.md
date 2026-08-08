@@ -7,10 +7,6 @@ tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity]
 confidence: medium
 sources: [raw/papers/syal-multimodal-dialogue-stem-2026.md]
 ---
-> 📄 Full text: [arXiv:2605.04131](https://arxiv.org/abs/2605.04131) · [local](raw/papers/syal-multimodal-dialogue-stem-2026.md)
-
-
-
 
 # Multimodal AI Tutoring in STEM
 
@@ -84,6 +80,3 @@ tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal AI Tutoring in STE
 
 - [[engagement-assessment-video]] — Multimodal engagement sensing in STEM tutoring
 - [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Langua
-
-## Sources
-- Syal et al. (2026). *A Dialogue-Based Framework for Correcting Multimodal Errors in AI-Assisted STEM Education*. arXiv:2605.04131. [PDF](https://arxiv.org/pdf/2605.04131)

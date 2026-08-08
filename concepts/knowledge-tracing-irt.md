@@ -7,10 +7,6 @@ tags: [adaptive-learning, intelligent-tutoring, personalized-learning, learning-
 confidence: medium
 sources: [raw/papers/huang-interpretable-knowledge-tracing-2026.md]
 ---
-> 📄 Full text: [arXiv:2605.01097](https://arxiv.org/abs/2605.01097) · [local](raw/papers/huang-interpretable-knowledge-tracing-2026.md)
-
-
-
 
 # Interpretable Knowledge Tracing via IRT
 
@@ -93,7 +89,3 @@ Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & L
 
 - [[llm-student-misconception-identification]] — Extends KT beyond correct/incorrect to specific misconception categories- [[learnopt-exam-cognitive-structure]] -- Standardized exams have stable latent cognitive structures recoverable via LLM-tagged question analysis and knapsack optimization
 - [[llm-item-difficulty-prediction]] — LLM reasoning traces for item difficulty estimation
-
-## Sources
-- Huang et al. (2026). *Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues*. arXiv:2605.01097. [PDF](https://arxiv.org/pdf/2605.01097)
-- [[codify-socratic-programming-tutor]] — Competency modeling with topic-level mastery tracking in Codify

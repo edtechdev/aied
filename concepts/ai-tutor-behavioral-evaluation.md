@@ -7,10 +7,6 @@ tags: [intelligent-tutoring, efficacy-study, higher-ed, benchmark, engagement-me
 sources: ["raw/papers/2605.05648.md"]
 confidence: high
 ---
-> 📄 Full text: [arXiv:2605.05648](https://arxiv.org/abs/2605.05648) · [local](raw/papers/2605.05648.md)
-
-
-
 
 # AI Tutor Behavioral Evaluation
 

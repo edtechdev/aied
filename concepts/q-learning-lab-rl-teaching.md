@@ -12,8 +12,6 @@ confidence: medium
 
 **Ekkachai Jueng (2026)** — arXiv preprint.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.10802)
-
 Presents Q-Learning Lab, a single-file tool that makes the Bellman update concrete by letting undergraduates inspect how each value is computed and why actions are chosen, through learner-generated trace analysis. It addresses the abstraction gap where students watch policy convergence without understanding mechanism.
 
 A [[reinforcement-learning-education]] artifact grounded in [[active-learning]] and [[stem-education]] for [[higher-ed]]. It connects to [[self-regulated-learning]] by making the learning process observable, and to [[scaffolding]] of difficult quantitative concepts, offering a reproducible teaching tool for ML/RL courses.
@@ -27,4 +25,5 @@ A [[reinforcement-learning-education]] artifact grounded in [[active-learning]] 
 - [[scaffolding]] — Scaffolding quantitative concepts
 
 ## Citation
-**APA:** Ekkachai Jueng (2026). *Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis*. arXiv:2607.10802. arXiv preprint.
+
+Ekkachai Jueng (2026). [Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis](https://arxiv.org/abs/2607.10802). arXiv:2607.10802. arXiv preprint.

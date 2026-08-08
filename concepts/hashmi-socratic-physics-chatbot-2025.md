@@ -36,6 +36,10 @@ The correlation between question specificity and course grade (*r* = 0.43) hints
 
 - [https://arxiv.org/abs/2508.14778v1](https://arxiv.org/abs/2508.14778v1)
 
+## Citation
+
+[Socratic Physics Chatbot](https://arxiv.org/abs/2508.14778v1).
+
 ## Related Pages
 
 - [[socratic-method]] — Foundational pedagogical approach using guided questioning

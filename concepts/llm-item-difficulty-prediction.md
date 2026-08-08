@@ -11,7 +11,6 @@ confidence: high
 # Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
 
 **Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026)** — Computation and Language (cs.CL).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.28186)
 
 This paper introduces Epi2Diff (Episode to Difficulty), a framework that maps LLM reasoning traces into cognitively grounded episode sequences for predicting human item difficulty in [[assessment|educational assessment]]. The authors argue that difficulty should be viewed not only as a property of item text but also as an observable consequence of problem-solving burden. By analyzing reasoning traces from large reasoning models (LRMs), Epi2Diff extracts compact cognitive episodes that capture reasoning scale, effort allocation, and state transitions — enabling interpretable [[student-modeling|student modeling]] without costly human calibration.
 
@@ -28,4 +27,5 @@ This approach represents a novel intersection of [[benchmark|LLM benchmarking]] 
 - [[ai-learning-transfer]] — AI learning transfer
 
 ## Citation
-**APA:** Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026). *Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction*. arXiv:2606.28186. Computation and Language (cs.CL).
+
+Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026). [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](https://arxiv.org/abs/2606.28186). arXiv:2606.28186. Computation and Language (cs.CL).

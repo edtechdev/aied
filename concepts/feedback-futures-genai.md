@@ -12,8 +12,6 @@ confidence: high
 
 **Ying Zhan, James Wood, David Carless & Zi Yan (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 811–820. Editorial introducing the AEHE special issue on feedback and generative AI. doi:10.1080/02602938.2026.2672830.
 
-📄 [Full text (Taylor & Francis, OA)](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2672830)
-
 ## Summary
 
 This editorial synthesises the seven papers of the AEHE 51(5) special issue on feedback in the age of generative AI. Its central claim: the question is **not whether GenAI feedback is useful, but how human and GenAI feedback can be combined to sustainably support learning rather than merely improve immediate performance**. Teacher and student feedback literacy are necessary but not sufficient — what is also required is deliberate pedagogic design, institutional conditions that prioritise learning over efficiency, and the purposeful development of human judgement that cannot be delegated to the tool.^[raw/papers/tandf-2026-feedback-futures-genai.md]

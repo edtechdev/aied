@@ -7,10 +7,6 @@ tags: [higher-ed, faculty-development, administrator, market-analysis, policy-ma
 sources: ["raw/papers/ai-higher-ed-workforce-survey.md"]
 confidence: high
 ---
-> 📄 Full text: [EDUCAUSE](https://www.educause.edu/research/2026/the-impact-of-ai-on-work-in-higher-education) · [local](raw/papers/ai-higher-ed-workforce-survey.md)
-
-
-
 
 # AI Impact on Higher Ed Workforce (EDUCAUSE 2026)
 
@@ -28,6 +24,10 @@ A large-scale survey (n=1,960) by EDUCAUSE (2026) examining how AI is reshaping 
 
 ## Implications
 The survey reveals a significant policy-awareness gap: despite near-universal AI use, nearly half of respondents are unaware of institutional AI policies. This suggests policies either don't exist or aren't effectively communicated. The prevalence of "shadow AI" use (56%) indicates a disconnect between institutional tool provision and staff needs. Connects to [[faculty-development-genai]] regarding upskilling challenges and [[ai-literacy]] for the awareness gap.
+
+## Citation
+
+[The Impact of AI on Work in Higher Education](https://www.educause.edu/research/2026/the-impact-of-ai-on-work-in-higher-education).
 
 ## Related Pages
 - [[universities-ai-era-rethinking]] — Institutional response to 94% staff AI usage in higher education

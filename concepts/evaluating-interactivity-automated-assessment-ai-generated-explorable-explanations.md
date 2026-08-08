@@ -11,7 +11,6 @@ confidence: high
 # Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations
 
 **Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026)**
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.31012)
 
 While [[llm]]s now enable rapid generation of learning materials like [[ai-generated-content]], evaluating the pedagogical quality of these materials remains an open challenge. This paper proposes an automated assessment framework for evaluating interactivity in AI-generated explorable explanations — dynamic, learner-driven content that students can manipulate to discover concepts. The framework addresses the gap between content generation speed and quality assurance, providing metrics for [[formative-assessment]] of learning designs. This connects to [[learning-analytics]] approaches for understanding how students engage with AI-produced educational content in [[higher-ed]] settings.
 
@@ -29,4 +28,4 @@ While [[llm]]s now enable rapid generation of learning materials like [[ai-gener
 
 ## Citation
 
-Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026). *Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations*. arXiv:2606.31012.
+Xiaozao Wang, Zhewei Wang, Hongyi Wen (2026). [Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations](https://arxiv.org/abs/2606.31012). arXiv:2606.31012.

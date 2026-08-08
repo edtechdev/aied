@@ -12,8 +12,6 @@ confidence: medium
 
 **Nick Huntington-Klein (2026)** — Single-author study.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.08812)
-
 ## Research Design
 
 This paper uses a clever identification strategy: measure the **seasonal drop in ChatGPT activity during non-school summer months** (2023 and 2024). Areas with larger summer dropoffs have heavier school-related AI use. The author then examines whether higher AI-use areas show different test score trends.
@@ -40,4 +38,4 @@ The seasonal variation identification strategy is innovative for causal inferenc
 
 ## Citation
 
-Huntington-Klein, N. (2026). *Little impact of ChatGPT availability on high school student test score performance*. arXiv:2605.08812.
+Huntington-Klein, N. (2026). [Little impact of ChatGPT availability on high school student test score performance](https://arxiv.org/abs/2605.08812). arXiv:2605.08812.

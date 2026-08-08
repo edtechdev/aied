@@ -12,8 +12,6 @@ confidence: high
 
 **Kaitlin Riegel et al. (2026)** — University of Auckland / University of Michigan. arXiv.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.05808)
-
 Nearly all prior research on LLMs in computing education has used text input, yet voice-enabled interfaces are becoming common. This exploratory study investigated how introductory programming students interact with **Prompt Problems** — tasks requiring natural-language prompts to generate correct code — under free choice of text or voice (N = 919). For two of three problems, students who typed were more likely to succeed on the first attempt than those submitting unedited voice prompts; editing transcribed voice prompts before submission erased the gap. Most students tried and preferred text, though some used voice complementarily. Qualitative analysis revealed perceived roles, drawbacks, and advantages of each modality, with implications for multimodal tools and instructional design.
 
 ## Key Contributions
@@ -32,4 +30,5 @@ Nearly all prior research on LLMs in computing education has used text input, ye
 - [[programming-its]] — Prompt-based programming tutoring
 
 ## Citation
-**APA:** Riegel, K., Hua, Y. C., Denny, P., Pădurean, V.-A., & Leinonen, J. (2026). *Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education*. arXiv:2607.05808.
+
+Riegel, K., Hua, Y. C., Denny, P., Pădurean, V.-A., & Leinonen, J. (2026). [Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education](https://arxiv.org/abs/2607.05808). arXiv:2607.05808.

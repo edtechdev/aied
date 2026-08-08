@@ -12,7 +12,6 @@ confidence: high
 
 Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study
 **Sun et al. (2026)** — Multiple institutions. arXiv cs.CY.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.14330)
 
 ## Summary
 
@@ -41,4 +40,5 @@ These findings challenge linear learning assumptions in [[k-12-ai-education]] an
 - [[understanding-student-effort-response-time]] — Student effort modeling
 
 ## Citation
-**APA:** Sun, Y., Xin, H., Niu, Q., Li, S., Huang, L., & Chen, G. (2026). *Computational thinking development in AI agent creation: A mixed-methods study*. arXiv:2605.14330.
+
+Sun, Y., Xin, H., Niu, Q., Li, S., Huang, L., & Chen, G. (2026). [Computational thinking development in AI agent creation: A mixed-methods study](https://arxiv.org/abs/2605.14330). arXiv:2605.14330.

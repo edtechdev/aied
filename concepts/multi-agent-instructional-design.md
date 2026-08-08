@@ -7,10 +7,6 @@ tags: [agentic-ai, ai-literacy, human-in-the-loop, k-12, pedagogical-safety]
 sources: [raw/papers/2508.16659.md]
 confidence: high
 ---
-> 📄 Full text: [arXiv:2508.16659](https://arxiv.org/abs/2508.16659) · [local](raw/papers/2508.16659.md)
-
-
-
 
 # Multi-Agent Systems for Instructional Design
 
@@ -120,6 +116,3 @@ John, A.W.J.X.R.H.X.S. (2026). [*Multi-Agent Systems for Instructional Design*](
 - [[metacognition]] — Learning processes: memory, induction, understanding
 - [[teachbench-llm-teaching-evaluation]] — Complementary: teaching ability vs. material design
 - [[lecturaagents-multi-agent-teaching]] — LecturaAgents
-
-## Sources
-- Wang, Jiayi et al. (2025). *Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design*. arXiv:2508.16659. [PDF](https://arxiv.org/pdf/2508.16659)

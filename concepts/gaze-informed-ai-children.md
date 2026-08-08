@@ -11,7 +11,6 @@ confidence: high
 # Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
 
 **Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit** — submitted 1 Jul 2026
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.00445)
 
 Ollie, a gaze-informed AI assistant for children's picture exploration, uses eye-tracking to trigger LLM narrative descriptions; within-subject experiment shows gaze-informed assistance keeps children's attention longer and guides exploration effectively.
 
@@ -32,4 +31,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit (2026). *Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration*. arXiv:2607.00445. submitted 1 Jul 2026
+Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit (2026). [Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration](https://arxiv.org/abs/2607.00445). arXiv:2607.00445. submitted 1 Jul 2026

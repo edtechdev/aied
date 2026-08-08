@@ -7,10 +7,6 @@ tags: [writing-education, scaffolding, ai-literacy, higher-ed, formative-assessm
 sources: ["raw/papers/2605.05598.md"]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2605.05598](https://arxiv.org/abs/2605.05598) · [local](raw/papers/2605.05598.md)
-
-
-
 
 # Prober.ai: Gated Inquiry Writing Feedback
 

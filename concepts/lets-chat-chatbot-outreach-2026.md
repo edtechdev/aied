@@ -8,8 +8,6 @@ sources: [raw/papers/lets-chat-chatbot-outreach-2026.md]
 confidence: high
 ---
 
-> 📄 Full text: [NBER Working Paper 35397](https://www.nber.org/papers/w35397) · [local](raw/papers/lets-chat-chatbot-outreach-2026.md)
-
 # Let's Chat: Chatbot Outreach for Course Performance
 
 > Meyer, Page, Mata et al. (2026) ran two pre-registered RCTs at Georgia State University testing a **non-generative** academic chatbot that texted students 2–3 customized nudges per week in large-enrollment online courses. It raised the probability of earning an A or B by **4 percentage points** — driven entirely by women in Microeconomics (+7 grade points, +11 pp A/B, −10 pp DFW) — via a task-completion channel (tutoring attendance, homework completion), with no spillover to other courses.
@@ -55,5 +53,6 @@ confidence: high
 - [[equity]] — women-only effects in Microeconomics
 - [[over-reliance]] — low-stakes outreach avoids the reliance trap
 
-## Sources
+## Citation
+
 - Meyer, K. E., Page, L. C., Mata, C., Smith, E., Walsh, B. T., Fifield, C. L., Tyson, M., Eremionkhale, A. E., Evans, M., Frost, S., & Jung, E. E. (2026). Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. NBER Working Paper No. 35397. [NBER](https://www.nber.org/papers/w35397)

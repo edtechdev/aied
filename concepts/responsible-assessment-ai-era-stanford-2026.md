@@ -14,8 +14,6 @@ confidence: high
 
 **Nneka J. McGee, Candace Thille, Ikkyu Choi, Kadriye Ercikan & Isabelle C. Hau (2026)** — Stanford Accelerator for Learning, Stanford University, with support from ETS.
 
-📄 [Full text (PDF)](https://acceleratelearning.stanford.edu/conference/responsible-assessment-in-the-ai-era/) · [local](raw/papers/responsible-assessment-ai-era-stanford-2026.md)
-
 ## Summary
 
 The report synthesizes a future-focused convening (January 29, 2026) on how assessment should evolve as AI reshapes learning, work, and measurement. It defines **responsible assessment** as assessment that is grounded in individuals' sociocultural contexts and designed to produce valid, trustworthy, context-specific inferences from accumulated evidence — a shift toward continuous, context-rich, developmentally oriented practices that leverage AI responsibly (building on Johnson, 2025).
@@ -38,7 +36,7 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 
 ## Citation
 
-ASSESSMENT, R., ERA, I.T.A., a, K.I.F., Conference, F., McGee, N.J., Thille, C., Choi, I., & Ercikan, K. (2026). *Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference*
+ASSESSMENT, R., ERA, I.T.A., a, K.I.F., Conference, F., McGee, N.J., Thille, C., Choi, I., & Ercikan, K. (2026). [Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference](https://acceleratelearning.stanford.edu/conference/responsible-assessment-in-the-ai-era/)
 
 ## Related Pages
 

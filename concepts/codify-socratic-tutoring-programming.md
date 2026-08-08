@@ -12,8 +12,6 @@ confidence: medium
 
 **Allan Ilyasov, Giulio Bardelli, Sebastian Torres, Fazel Keshtkar (2026)** — St. John's University. *The International FLAIRS Conference Proceedings*, 39(1). DOI: [10.32473/flairs.39.1.141554](https://doi.org/10.32473/flairs.39.1.141554).
 
-📄 [Full text (FLAIRS)](https://doi.org/10.32473/flairs.39.1.141554)
-
 ## System Overview
 
 Codify (also referred to as "AI Tutor") is a web-based [[intelligent-tutoring]] platform for programming education that integrates conversational AI, adaptive assessment, and learning analytics. It leverages **LLMs deployed via AWS Bedrock** with a **Socratic teaching methodology** that promotes discovery-based learning over direct answer generation — students are guided through questions and hints rather than given solutions outright.
@@ -57,4 +55,5 @@ Initial deployment in programming courses showed promising results for student e
 - [[oecd-digital-education-outlook-2026]]
 
 ## Citation
-**APA:** Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelligent Socratic tutoring system for programming education. *The International FLAIRS Conference Proceedings*, *39*(1). https://doi.org/10.32473/flairs.39.1.141554
+
+Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelligent Socratic tutoring system for programming education. [The International FLAIRS Conference Proceedings](https://doi.org/10.32473/flairs.39.1.141554), *39*(1). https://doi.org/10.32473/flairs.39.1.141554

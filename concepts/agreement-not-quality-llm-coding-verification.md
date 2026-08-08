@@ -11,7 +11,6 @@ confidence: high
 # Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
 
 **Alex Liu, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He, Min Sun** — arXiv preprint (2026).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.28890)
 
 ## Synthesis
 
@@ -35,4 +34,4 @@ The study contributes a transferable blind-verification protocol for evaluating 
 
 ## Citation
 
-Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). Agreement is not quality: Blind expert verification of human and LLM qualitative coding. arXiv:2607.28890.
+Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). [Agreement is not quality: Blind expert verification of human and LLM qualitative coding](https://arxiv.org/abs/2607.28890). arXiv:2607.28890.

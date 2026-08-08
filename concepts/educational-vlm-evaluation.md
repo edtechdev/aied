@@ -7,10 +7,6 @@ tags: [assessment, multimodal, benchmark, pedagogical-safety, stem-education, ai
 sources: [raw/papers/li-drawedumath-vlm-misdiagnosis-2026.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2603.00925](https://arxiv.org/abs/2603.00925) · [local](raw/papers/li-drawedumath-vlm-misdiagnosis-2026.md)
-
-
-
 
 # Educational VLM Evaluation
 
@@ -56,6 +52,3 @@ Lo, A.L.L.A.Z.N.A.R.K.K. (2026). [*Educational VLM Evaluation*](https://arxiv.or
 - [[multimodal-ai-tutoring]] — Multimodal tutoring systems that must handle handwritten/drawn student work
 - [[formative-assessment]] — Assessment of learner understanding that requires error diagnosis
 - [[pedagogical-llm-training]] — Training methods that could address the capability-utility gap
-
-## Sources
-- Li Lucy, Zhang, A., Anderson, N., Knight, R., & Lo, K. (2026). *The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors*. arXiv:2603.00925. [PDF](https://arxiv.org/pdf/2603.00925)

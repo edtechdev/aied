@@ -11,7 +11,6 @@ confidence: high
 # A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
 
 **Wen Liang, Li Siyan, Zackary Rackauckas, Julia Hirschberg (2026)** — Computation and Language (cs.CL).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.27380)
 
 This survey provides the first systematic review of automated presentation coaching systems, organizing them along a five-dimensional task taxonomy: segmental pronunciation, lexical stress, suprasegmental prosody, pacing, and content faithfulness. The authors review systems spanning pronunciation tutors, fluency and prosody coaches, multimodal trainers, and conference Q&A practice tools, identifying coverage gaps in pacing and content feedback dimensions.
 
@@ -29,4 +28,5 @@ Key open challenges include the scarcity of annotated presentation corpora, achi
 - [[ai-literacy]] — AI literacy concepts and programs
 
 ## Citation
-**APA:** Wen Liang, Li Siyan, Zackary Rackauckas, Julia Hirschberg (2026). *A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges*. arXiv:2606.27380. Computation and Language (cs.CL).
+
+Wen Liang, Li Siyan, Zackary Rackauckas, Julia Hirschberg (2026). [A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges](https://arxiv.org/abs/2606.27380). arXiv:2606.27380. Computation and Language (cs.CL).

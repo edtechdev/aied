@@ -12,8 +12,6 @@ confidence: high
 
 **Gibson, Azukas & Yilmaz Soylu (2026)** — Curtin University, East Stroudsburg University.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.24142)
-
 This paper addresses a fundamental gap in [[metacognition]] research: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced professional development. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.
 
 ## Systems Model & Scenario Generation
@@ -40,4 +38,5 @@ The taxonomy enables targeted, scenario-specific professional development interv
 - [[llm-educational-question-cognitive-depth]] -- LLM-generated educational questions show varying cognitive depth; models excel a...
 
 ## Citation
-**APA:** Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2026). *A taxonomy of metacognitive learning scenarios in professional contexts: Integrating systems theory with empirical constraints*. arXiv:2605.24142. cs.HC.
+
+Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2026). [A taxonomy of metacognitive learning scenarios in professional contexts: Integrating systems theory with empirical constraints](https://arxiv.org/abs/2605.24142). arXiv:2605.24142. cs.HC.

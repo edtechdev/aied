@@ -14,8 +14,6 @@ confidence: high
 
 **Unggi Lee, Sookbun Lee, Yeil Jeong, Eunjoo Lee, Minchul Shin, Hoilym Kwon (2026)** — arXiv:2608.03206 [cs.CY].
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.03206)
-
 ## Key Findings
 
 Introduces a 30-day long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in knowledge tracing. Evaluates 10 agent adapters over three base-model tiers and finds that tutoring quality depends on both the base model and agent harness together, and almost no combination sustains good tutoring over the full horizon. Calibration check (ECE=0.049) and live-classroom field study confirm the simulated learner tracks reality. Scored on learning gain, responsiveness, helpfulness, and curriculum-design axes (Gagné and Rosenshine).
@@ -36,4 +34,4 @@ Large language models (LLMs) power educational applications from tutoring to ess
 
 ## Citation
 
-Unggi Lee, Sookbun Lee, Yeil Jeong, Eunjoo Lee, Minchul Shin, & Hoilym Kwon (2026). *EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners*. arXiv:2608.03206. arXiv:2608.03206 [cs.CY].
+Unggi Lee, Sookbun Lee, Yeil Jeong, Eunjoo Lee, Minchul Shin, & Hoilym Kwon (2026). [EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners](https://arxiv.org/abs/2608.03206). arXiv:2608.03206. arXiv:2608.03206 [cs.CY].

@@ -7,10 +7,6 @@ tags: [lifelong-learning, personalized-learning, adaptive-learning, faculty-deve
 sources: ["raw/papers/2605.04616.md"]
 confidence: high
 ---
-> 📄 Full text: [arXiv:2605.04616](https://arxiv.org/abs/2605.04616) · [local](raw/papers/2605.04616.md)
-
-
-
 
 # AI Design Guidelines for Adult Learning
 

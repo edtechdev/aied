@@ -12,8 +12,6 @@ confidence: high
 
 **Shao et al. (2026)** — Under review.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.26338)
-
 Survey of 206 engineering students: AI chatbots provide greatest perceived benefit as relief from competence frustration, smaller benefits for autonomy, weakest for relatedness. Baseline motivational states matter more than demographics; inattention moderates how baseline competence and autonomy relate to perceived AI benefits. Offers design principles for engineering-specific AI learning tools.
 
 **Relevance to AI in Education:** This paper contributes to the understanding of [[llm-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
@@ -29,4 +27,5 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[personalized-learning]] — related concept
 
 ## Citation
-**APA:** Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous (2026). *Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes*. arXiv:2607.26338. Under review.
+
+Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous (2026). [Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes](https://arxiv.org/abs/2607.26338). arXiv:2607.26338. Under review.

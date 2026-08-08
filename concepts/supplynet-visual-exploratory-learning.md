@@ -11,7 +11,6 @@ confidence: high
 # SupplyNet: LLM Multi-Agent Simulation for Supply Chain Education
 
 **Yanjia Li, Kelcy Kexin Han, Tianrui Hu, Yi-Fan Cao, Huamin Qu, Sicheng Song (2026)** — Hong Kong University of Science and Technology, City University of Hong Kong.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.24694)
 
 SupplyNet is a gamified visual simulation system that uses a contextual graph-based [[llm]] multi-agent framework to model interdependent supply chain dynamics. Designed for [[professional-training]] in supply chain management (SCM), it replaces traditional abstract simulations with a manipulable decision space combining an interactive network view, a branching timeline for "what-if" exploration, and a task-oriented analysis console.
 
@@ -38,4 +37,5 @@ SupplyNet represents a novel application of [[intelligent-tutoring]] principles 
 - [[stem-education]] — STEM education with AI support
 
 ## Citation
-**APA:** Li, Y., Han, K. K., Hu, T., Cao, Y.-F., Qu, H., & Song, S. (2026). *SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation*. arXiv:2606.24694.
+
+Li, Y., Han, K. K., Hu, T., Cao, Y.-F., Qu, H., & Song, S. (2026). [SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation](https://arxiv.org/abs/2606.24694). arXiv:2606.24694.

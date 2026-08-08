@@ -14,8 +14,6 @@ confidence: high
 
 **Mohammed I. Radaideh et al. (2026)** — arXiv preprint (cross-listed cs.GR/cs.CY).
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.04030)
-
 Systematic study of domain-adapted text-to-image models for nuclear engineering education. Fine-tunes Stable Diffusion on nuclear domain images; fine-tuned model achieves 78% domain accuracy vs 12% for base model. Proposes NuclearDiffusion as an educational tool where instructors generate accurate visualizations of nuclear concepts (reactor components, fuel cycles, safety systems). Demonstrates that domain-specific fine-tuning dramatically improves visual correctness for specialized STEM concept illustration.
 
 ## Related Pages
@@ -27,4 +25,4 @@ Systematic study of domain-adapted text-to-image models for nuclear engineering 
 
 ## Citation
 
-Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, & Majdi I. Radaideh (2026). *NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts*. arXiv:2608.04030. arXiv preprint (cross-listed cs.GR/cs.CY).
+Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, & Majdi I. Radaideh (2026). [NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts](https://arxiv.org/abs/2608.04030). arXiv:2608.04030. arXiv preprint (cross-listed cs.GR/cs.CY).

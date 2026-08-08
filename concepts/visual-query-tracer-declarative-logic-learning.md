@@ -10,7 +10,6 @@ confidence: high
 
 # Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
 **Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, et al. (2026)** — arXiv preprint. arXiv:2607.18864 [cs.HC].
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.18864)
 
 Nemo Explain Visualizer (nev) is an interactive visual query tracer and builder for the Datalog reasoner Nemo. Although built for expert users, the authors conducted a qualitative study with 14 participants at varying levels of involvement in a university knowledge-graph course to assess whether such tools help students learn declarative logic programming.
 
@@ -24,4 +23,5 @@ Participants rated the tracer positively for building intuition about query eval
 - [[higher-ed]] — related AIED work
 
 ## Citation
-**APA:** Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, et al. (2026). *Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming*. arXiv:2607.18864. arXiv:2607.18864 [cs.HC].
+
+Julián Méndez, Lukas Gerlach, Tobias Wieland, Alex Ivliev, et al. (2026). [Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming](https://arxiv.org/abs/2607.18864). arXiv:2607.18864. arXiv:2607.18864 [cs.HC].

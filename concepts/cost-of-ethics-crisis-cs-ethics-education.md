@@ -12,8 +12,6 @@ confidence: high
 
 **Mohamed Abdalla, Sahar Abdalla, Alicia Cappello et al. (2026)** — Study of 129 CS students/recent grads in Canada and US.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.09680)
-
 ## Key Findings
 
 This study examines the disconnect between **ethics education** and real-world decision-making among 129 computer science students and recent graduates during their job searches. Despite receiving contemporary CS ethics education, most students prioritize compensation, location, and workplace culture over ethical and social concerns when choosing employers.
@@ -36,4 +34,4 @@ The ethics education gap identified here suggests that AI literacy curricula fac
 
 ## Citation
 
-Abdalla, M., Abdalla, S., Cappello, A., Dowling, K., Metaxa, D., Widder, D. G., & Stinson, C. (2026). *Cost-of-ethics crisis: Beliefs, decisions, and justifications in the job searches of computer science students in Canada and the United States*. arXiv:2605.09680.
+Abdalla, M., Abdalla, S., Cappello, A., Dowling, K., Metaxa, D., Widder, D. G., & Stinson, C. (2026). [Cost-of-ethics crisis: Beliefs, decisions, and justifications in the job searches of computer science students in Canada and the United States](https://arxiv.org/abs/2605.09680). arXiv:2605.09680.

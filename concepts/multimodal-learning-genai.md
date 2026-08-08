@@ -7,10 +7,6 @@ tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaf
 confidence: high
 sources: [raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
 ---
-> 📄 Full text: [Liverpool Repository](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf) · [local](raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md)
-
-
-
 
 # Multimodal Learning with Generative AI
 
@@ -152,6 +148,3 @@ AI, G., Original, T., Multimodal, A.E.G.T., AI, L.A.G., Investigators:, P., Varg
 - [[multimodal-ai-tutoring]] — Multimodal errors and corrections; this guide focuses on productive multimodal use
 - [[collaborative-ai-tutoring]] — Group-level cyber-social collaboration
 - [[socratic-ai-dialogue]] — Discussion/discourse as one of six engagement types
-
-## Sources
-- Varga-Atkins, T., Saunders, S., Beckingham, S., Hartley, P., Keshishi, N., Lacković, N., Li, N., Lindsay, R., Wen, R., & Winder, I. (2025). *An Educators' Guide to Multimodal Learning and Generative AI*. University of Liverpool. [PDF](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf)

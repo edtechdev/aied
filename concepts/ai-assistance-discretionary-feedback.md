@@ -11,7 +11,6 @@ confidence: high
 # AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 
 **Romina Mahinpei, Victoria Dean, Ruth Fong, Lydia T. Liu, Manoel Horta Ribeiro (2026)** — arXiv.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.03095)
 
 This field experiment shows that AI-generated feedback drafts can measurably increase the rate and length of feedback that teaching assistants actually deliver to students, without sacrificing perceived usefulness or instructor time-efficiency. The design keeps humans firmly in the loop: TAs could edit or discard every draft, and the intervention still produced significant gains.
 The finding connects directly to [[automated-grading]] and [[ai-feedback-quality]] debates: AI does not replace the grader here, but reduces the activation energy for starting a feedback document. TAs treated drafts as editable scaffolds rather than authority, which aligns with [[teacher-role]] research on maintaining instructor agency. The +10.8pp provision effect and +39.8-char length increase are rare quantified benchmarks for discretionary AI assistance in education.
@@ -28,4 +27,5 @@ Practical implication: if deployed at scale, AI feedback scaffolding could be es
 - [[ai-assessment-human-tutors]] -- AI-driven assessment of human tutor training performance correlates with real-li...
 
 ## Citation
-**APA:** Romina Mahinpei, Victoria Dean, Ruth Fong, Lydia T. Liu, Manoel Horta Ribeiro (2026). *AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education*. arXiv:2606.03095. arXiv.
+
+Romina Mahinpei, Victoria Dean, Ruth Fong, Lydia T. Liu, Manoel Horta Ribeiro (2026). [AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education](https://arxiv.org/abs/2606.03095). arXiv:2606.03095. arXiv.

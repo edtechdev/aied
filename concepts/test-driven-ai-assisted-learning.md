@@ -11,7 +11,6 @@ confidence: medium
 # Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests
 
 **Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang (2026)** — arXiv:2606.23315 (cs.CY)
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.23315)
 
 Liu et al. (2026) report on a 13-week Test-Driven, AI-Assisted (TDAA) redesign of a Theory of Computation course at HKUST (Guangzhou). The course replaced all lectures with self-directed, AI-assisted learning and weekly closed-book tests serving as high-frequency quality gates. AI agents helped the instructor prepare learning paths, course websites, test drafting, grading workflows, and content repairs — all managed through a version-controlled agent workspace. Student survey data (N=18), weekly scores, and git history suggest the model preserved individual accountability while making material production and marking scalable with human oversight. The work contributes a reusable design pattern for [[ai-changing-teaching-workflows]] that integrates [[active-learning]] principles with [[llm]]-powered scaffolding, and offers practical implications for [[assessment]] design in [[higher-ed]] contexts. The approach connects to broader conversations about [[automated-grading]] and [[llm-student-modeling-memory]] as enablers of scalable personalized education.
 
@@ -19,4 +18,5 @@ Liu et al. (2026) report on a 13-week Test-Driven, AI-Assisted (TDAA) redesign o
 - [[test-driven-ai-assisted-learning]] -- This page
 
 ## Citation
-**APA:** Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang (2026). *Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests*. arXiv:2606.23315. arXiv:2606.23315 (cs.CY)
+
+Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang (2026). [Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests](https://arxiv.org/abs/2606.23315). arXiv:2606.23315. arXiv:2606.23315 (cs.CY)

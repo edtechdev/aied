@@ -14,8 +14,6 @@ confidence: medium
 
 **Tufino, E. (2026)** — arXiv:2608.05820.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.05820)
-
 ## Summary
 
 Responding productively to authentic student reasoning is among the most difficult teaching skills to develop, and prospective teachers get few opportunities to practice it. This pilot study created a simulated class of five AI students, each consistently enacting a distinct dual-process theory reasoning hazard. Fifteen graduate students in a physics teacher preparation course diagnosed vignettes before/after interacting with the simulated class, showing significant diagnostic improvement — but their actual questioning during the simulation revealed a gap between knowing DPT vocabulary and applying it in real-time.
@@ -31,3 +29,9 @@ Responding productively to authentic student reasoning is among the most difficu
 ## Connections
 
 This work connects to: [[multi-agent]][[physics-education]][[teacher-training]][[simulation]][[stem-education]][[higher-ed]][[dual-process-theory]]
+
+## Citation
+
+Tufino (2026) pilots a simulated multi-agent AI classroom where five AI students each enact distinct dual-process theory (DPT) reasoning hazards, giving prospective physics teachers rare practice in responding to authentic student reasoning. Fifteen graduate students showed significant improvement in diagnostic scores (p=0.014, r=0.79), but during the simulation itself used predominantly uniform guiding questions — revealing a knowing-doing gap on the developmental trajectory toward responsive teaching.
+
+# A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers. [A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers](https://arxiv.org/abs/2608.05820).

@@ -7,10 +7,6 @@ tags: [edtech-platform, feedback-loop, formative-assessment, teacher-role, highe
 confidence: medium
 sources: [raw/papers/becerra-aicofe-feedback-2026.md]
 ---
-> 📄 Full text: [arXiv:2605.04740](https://arxiv.org/abs/2605.04740) · [local](raw/papers/becerra-aicofe-feedback-2026.md)
-
-
-
 
 # AI Peer Feedback Systems
 

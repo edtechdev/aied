@@ -7,10 +7,6 @@ tags: [regulation, teacher-role, k-12, policy-maker, faculty-development]
 sources: ["raw/papers/state-policy-teacher-ai.md"]
 confidence: high
 ---
-> 📄 Full text: [NASBE](https://www.nasbe.org/how-state-policy-can-help-teachers-use-ai-well/) · [local](raw/papers/state-policy-teacher-ai.md)
-
-
-
 
 # State Policy for Teacher AI Use
 
@@ -40,7 +36,7 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 
 ## Citation
 
-CRPE, S.N. (2026). *How State Policy Can Help Teachers Use AI Well*
+CRPE, S.N. (2026). [How State Policy Can Help Teachers Use AI Well](https://www.nasbe.org/how-state-policy-can-help-teachers-use-ai-well/)
 
 ## Related Pages
 - [[regulation]]

@@ -39,6 +39,10 @@ Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) 
 
 - [https://arxiv.org/abs/2508.19993v2](https://arxiv.org/abs/2508.19993v2)
 
+## Citation
+
+['MathBuddy: Affective Math Tutoring'](https://arxiv.org/abs/2508.19993v2).
+
 ## Related Pages
 
 - [[intelligent-tutoring-systems]] — The broader ITS context

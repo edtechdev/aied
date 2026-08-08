@@ -12,8 +12,6 @@ confidence: high
 
 **Ying Zhan & Zi Yan (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 821–834. doi:10.1080/02602938.2025.2471821.
 
-📄 [Full text (Taylor & Francis, OA)](https://www.tandfonline.com/doi/full/10.1080/02602938.2025.2471821)
-
 ## Summary
 
 A qualitative study of **16 undergraduates** at a Hong Kong teacher-education university who used **ChatGPT 3.5** to obtain feedback on IELTS writing tasks. Data came from unobtrusive screen-recorded observations plus stimulated-recall interviews. The study extends the traditional tripartite model of feedback engagement (cognitive, affective, behavioural) to a **four-dimensional model adding metacognitive engagement**, and asks what feedback literacy students need in a GenAI context.^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]

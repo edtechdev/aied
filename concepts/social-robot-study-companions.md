@@ -11,7 +11,6 @@ confidence: high
 # Co-Creating Buildable and Open Social Robot Study Companions with University Students
 
 **Farnaz Baksh, Matevz B. Zorec, Feiazie Baksh, Karl Kruusamae** (2026). ICSR + ART 2026, London
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.15239)
 
 ## Key Findings
 
@@ -31,4 +30,4 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Citation
 
-Farnaz Baksh, Matevz B. Zorec, Feiazie Baksh, Karl Kruusamae (2026). *Co-Creating Buildable and Open Social Robot Study Companions with University Students*. arXiv:2606.15239. ICSR + ART 2026, London.
+Farnaz Baksh, Matevz B. Zorec, Feiazie Baksh, Karl Kruusamae (2026). [Co-Creating Buildable and Open Social Robot Study Companions with University Students](https://arxiv.org/abs/2606.15239). arXiv:2606.15239. ICSR + ART 2026, London.

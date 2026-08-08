@@ -7,10 +7,6 @@ tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education]
 confidence: high
 sources: [raw/papers/singh-eduqwen-pedagogical-rl-2026.md, raw/papers/lelievre-pedagogy-benchmark-llm-knowledge-2025.md, raw/papers/lin-automatic-llm-interactive-lessons-2025.md, raw/papers/jeon-isd-agent-bench-2026.md]
 ---
-> 📄 Full text: [arXiv:2604.06385](https://arxiv.org/abs/2604.06385) · [local](raw/papers/singh-eduqwen-pedagogical-rl-2026.md) · [arXiv:2506.18710](https://arxiv.org/abs/2506.18710v3) · [local](raw/papers/lelievre-pedagogy-benchmark-llm-knowledge-2025.md) · [arXiv:2506.17356](https://arxiv.org/abs/2506.17356v1) · [local](raw/papers/lin-automatic-llm-interactive-lessons-2025.md) · [arXiv:2602.10620](https://arxiv.org/abs/2602.10620) · [local](raw/papers/jeon-isd-agent-bench-2026.md)
-
-
-
 
 # Training Pedagogical LLMs for Tutoring
 
@@ -115,8 +111,3 @@ Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & 
 - [[lecturaagents-multi-agent-teaching]] — LecturaAgents
 - [[llm-tts-dialogue-lesson-generation]] - steering LLMs for pedagogy
 - [[eduguard-safe-rag-llm-tutor]] — Bakes safety and pedagogical strategy selection into the generation pipeline.
-
-## Sources
-- Singh et al. (2026). *Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via RL and SFT*. arXiv:2604.06385. [PDF](https://arxiv.org/pdf/2604.06385)
-- Lelièvre et al. (2025). *Benchmarking the Pedagogical Knowledge of Large Language Models*. arXiv:2506.18710v3. [PDF](https://arxiv.org/pdf/2506.18710v3)
-- Jeon et al. (2026). *ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents*. arXiv:2602.10620. [PDF](https://arxiv.org/pdf/2602.10620)

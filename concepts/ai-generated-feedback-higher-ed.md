@@ -12,8 +12,6 @@ confidence: high
 
 **Valentina Grion (Pegaso Telematic University), Beatrice Doria (Pegaso Telematic University), Daniele Agostini (University of Trento), Giorgia Slaviero (University of Padua) (2026)** — *Assessment & Evaluation in Higher Education* (Taylor & Francis). Open Access, CC BY 4.0. doi:10.1080/02602938.2026.2697962.
 
-📄 [Full text (Taylor & Francis, OA)](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2697962) — open supplementary materials (rubric, assignment, AI prompt protocol, anonymised datasets) at [Zenodo 20814177](https://doi.org/10.5281/zenodo.20814177)
-
 ## Summary
 
 This quasi-experimental study directly compares **AI-generated feedback** (two LLMs: **GPT-o4-mini** and **DeepSeek R1**) with **expert human-teacher feedback** in a project-based university course (Assessment & Learning, third-year Primary Teacher Education, University of Padua). The central question is not "is AI feedback worse?" but *under what pedagogical conditions* AI feedback can be a credible, educationally meaningful component of formative assessment. The answer the authors land on: **feedback effectiveness depends less on its source than on the pedagogical architecture in which it is embedded** — strong assessment literacy and explicit, shared criteria make AI feedback comparable to teacher feedback.
@@ -83,4 +81,5 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 - [[repeated-ai-writing-feedback-semester]] — Semester-long student evaluation of repeated GenAI writing feedback (n=283).
 
 ## Citation
-**APA:** Grion, V., Doria, B., Agostini, D., & Slaviero, G. (2026). Artificial intelligence and feedback in university education: effectiveness and student perceptions. *Assessment & Evaluation in Higher Education*. https://doi.org/10.1080/02602938.2026.2697962
+
+Grion, V., Doria, B., Agostini, D., & Slaviero, G. (2026). Artificial intelligence and feedback in university education: effectiveness and student perceptions. [Assessment & Evaluation in Higher Education](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2697962). https://doi.org/10.1080/02602938.2026.2697962

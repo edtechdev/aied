@@ -8,8 +8,6 @@ sources: [raw/papers/genai-can-harm-teaching-rct-2026.md]
 confidence: high
 ---
 
-> 📄 Full text: [SSRN 7007339](https://ssrn.com/abstract=7007339) · [local](raw/papers/genai-can-harm-teaching-rct-2026.md)
-
 # Generative AI Can Harm Teaching
 
 > Sungu, Lira & Duckworth (2026) ran one of the first large-scale RCTs of a teacher-facing generative AI tool and found it can *harm* students: providing teachers an AI teaching assistant **reduced student intrinsic motivation by 0.11 SD** and — among lower-performing teachers — **cut student achievement by 0.13 SD**. The pattern is a **principal–agent problem**: teachers (agents) gain labor savings from AI delegation while students (principals) bear the cost of displaced relational teaching and scaffolding.
@@ -47,7 +45,7 @@ The null average performance effect masks strong offsetting heterogeneity — an
 
 ## Citation
 
-instruction, C.T.T.A.T.P.A.T.A.B. (2026). [*Generative AI Can Harm Teaching*](https://ssrn.com/abstract=7007339)
+Sungu, Lira & Duckworth (2026). [*Generative AI Can Harm Teaching*](https://ssrn.com/abstract=7007339)
 
 ## Related Pages
 - [[faculty-development]] — teacher-facing AI adoption and its unintended effects
@@ -61,6 +59,3 @@ instruction, C.T.T.A.T.P.A.T.A.B. (2026). [*Generative AI Can Harm Teaching*](ht
 - [[care-full-feedback-genai]] — relational teaching displaced by AI mediation
 - [[teacher-role]] — principal–agent tension in AI-assisted teaching
 - [[oecd-digital-education-outlook-2026]]
-
-## Sources
-- Sungu, A., Lira, B., & Duckworth, A. L. (2026). Generative AI Can Harm Teaching. SSRN Working Paper 7007339. [SSRN](https://ssrn.com/abstract=7007339)

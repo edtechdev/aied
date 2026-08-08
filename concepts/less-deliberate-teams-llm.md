@@ -11,7 +11,6 @@ confidence: high
 # Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
 
 **Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal** — ACM SIGCSE Virtual 2026, submitted 29 Jun 2026
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.30860)
 
 Semester-long study of 96 CS students shows LLM usage dropped 42.7 percentage points when students moved from individual to team work; team context reduces deliberate LLM engagement.
 
@@ -31,4 +30,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal (2026). *Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work*. arXiv:2606.30860. ACM SIGCSE Virtual 2026, submitted 29 Jun 2026
+Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal (2026). [Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work](https://arxiv.org/abs/2606.30860). arXiv:2606.30860. ACM SIGCSE Virtual 2026, submitted 29 Jun 2026

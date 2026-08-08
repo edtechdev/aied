@@ -11,7 +11,6 @@ confidence: high
 # AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
 
 **Gayed (2026)** — Waseda University.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.12801)
 
 Gayed presents **AiAWE**, an open-source [[automated-grading|automated writing evaluation]] (AWE) system that scores argumentative essays using a LoRA-adapted instruction-tuned [[llm|large language model]] (Gemma-3-27B-it). Using a proprietary ETS dataset of 480 TOEFL Independent Writing essays (120 training, 360 evaluation), the system achieves:
 
@@ -32,4 +31,5 @@ Three broader findings emerge: (1) model scale is not a reliable predictor of do
 - [[open-source]] — Open-source AI tools for education
 
 ## Citation
-**APA:** Gayed, J. M. (2026). AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models. arXiv:2606.12801.
+
+Gayed, J. M. (2026). [AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models](https://arxiv.org/abs/2606.12801). arXiv:2606.12801.

@@ -12,8 +12,6 @@ confidence: medium
 
 **Amrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, et al. (2026)** - George Mason University; Montgomery College. arXiv preprint.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.12296)
-
 ## Key Findings
 
 - Compares institutional-level GenAI policy documents against course-level instructor policies, exposing a gap between top-down guidance and classroom uptake in [[higher-ed]].
@@ -33,4 +31,5 @@ confidence: medium
 - [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support 
 
 ## Citation
-**APA:** Ganguly, A., Johri, A., McDonald, N., Ali, A., et al. (2026). *A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education*. arXiv:2607.12296.
+
+Ganguly, A., Johri, A., McDonald, N., Ali, A., et al. (2026). [A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education](https://arxiv.org/abs/2607.12296). arXiv:2607.12296.

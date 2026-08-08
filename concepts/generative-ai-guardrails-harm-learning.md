@@ -12,8 +12,6 @@ confidence: high
 
 **Hamsa Bastani, Osbert Bastani, Alp Sungu, Haosen Ge, Özge Kurucu, Rehema Mushi (2025)** — *Proceedings of the National Academy of Sciences (PNAS)*, 122(26). doi:10.1073/pnas.2422633122.
 
-📄 [Full text (PNAS)](https://www.pnas.org/doi/10.1073/pnas.2422633122) — RCT preregistered with the University of Pennsylvania IRB; anonymized data and code at [github.com/obastani/GenAICanHarmLearning](https://github.com/obastani/GenAICanHarmLearning)
-
 ## Summary
 
 This landmark field experiment is among the first randomized controlled trials to causally demonstrate that **unguarded generative-AI tutoring can harm skill acquisition**, not merely fail to help. Conducted with **nearly 1,000 high-school math students** across ~50 classes at a large school in Turkey (Fall 2023–2024), the study compares three arms assigned at the classroom level: a **control** arm (textbook/notes only), **GPT Base** (a ChatGPT-like GPT-4 chat interface), and **GPT Tutor** (GPT-4 with teacher-designed guardrails — hints instead of answers, plus the correct solution and common mistakes baked into the prompt). Each 90-minute session had three parts: a teacher lecture, an AI-assisted practice period (treatment only here), and an unassisted closed-book exam on conceptually similar problems.
@@ -72,4 +70,5 @@ Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), 
 - [[student-experience]] — Students' misperception of their own learning
 
 ## Citation
-**APA:** Bastani, H., Bastani, O., Sungu, A., Ge, H., Kurucu, Ö., & Mushi, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. *Proceedings of the National Academy of Sciences*, 122(26). https://doi.org/10.1073/pnas.2422633122
+
+Bastani, H., Bastani, O., Sungu, A., Ge, H., Kurucu, Ö., & Mushi, R. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/10.1073/pnas.2422633122), 122(26). https://doi.org/10.1073/pnas.2422633122
