@@ -8188,6 +8188,24 @@
     "url": "pages/zerkouk-comprehensive-review-its-2025.html"
   },
   {
+    "slug": "zhang-tutormoments-2026",
+    "title": "When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle",
+    "tags": [
+      "ai-tutoring",
+      "benchmark",
+      "intelligent-tutoring",
+      "k-12",
+      "llm",
+      "llm-evaluation",
+      "math-education",
+      "over-reliance",
+      "scaffolding",
+      "teacher-role"
+    ],
+    "content": "Zhang, Ross, Patel et al. (2026) introduce TutorMoments — a replay-based framework that evaluates whether LM intelligent-tutoring systems adapt their pedagogical actions to context. Testing frontier models against 462 teacher-annotated math-education transcripts from grades 2-7, they find LMs default to over-reliance -inducing over- scaffolding , rarely pushing for productive struggle — even when students are ready. Context AI tutors optimized for helpfulness may harm learning. Research on cognitive-offloading and genai-performance-vs-learning shows that AI assistance can improve short-term performance while reducing long-term learning. The TutorMoments framework directly tests whether frontier LMs navigate the \"assistance dilemma\" — knowing when to help versus when to let students struggle productively. The TutorMoments Framework TutorMoments evaluates AI tutors through situation-conditioned replay : Expert math-education teachers identify key pedagogical decision points in authentic tutoring transcripts Each moment is annotated as scaffolding-appropriate (student needs support) or rigor-appropriate (student ready for challenge) The framework replays these moments to test whether LM tutors select appropriate instructional moves This enables apples-to-apples comparison: different tutor actions evaluated under identical conditions The dataset — TutorMoments-Preview — contains 462 transcripts from 198 students (grades 2-7) interacting with 173 human tutors, yielding 1,500+ teacher-annotated key moments. Key Findings Over-scaffolding default: Minimally prompted frontier LMs over-scaffold — aligning with the \"helpful assistant\" training objective at the expense of scaffolding that fades appropriately Rigor gap: LMs rarely push for rigor even when students are demonstrably ready — missing opportunities for metacognition and deeper learning Evaluation-aware prompting helps: Prompts that make LMs aware of the evaluation criteria substantially improve adaptability, but cros",
+    "url": "pages/zhang-tutormoments-2026.html"
+  },
+  {
     "slug": "zone-of-proximal-development",
     "title": "Zone Of Proximal Development",
     "tags": [
