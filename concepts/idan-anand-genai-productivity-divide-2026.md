@@ -1,6 +1,6 @@
 ---
 title: "Generative AI and the Productivity Divide: Human-AI Complementarities in Education"
-created: 2026-08-07
+created: 2026-08-08
 type: concept
 tags: [generative-ai, ai-literacy, equity, productivity, efficacy-study, higher-ed, scaffolding]
 sources: [raw/papers/2605.18143.md]
