@@ -14,8 +14,6 @@ confidence: medium
 
 **Mizoguchi et al. (2026)** — arXiv. arXiv:2608.05545.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.05545)
-
 ## Summary
 
 Generative AI used as a capable servant has greatly accelerated intellectual work, but it also risks eroding human epistemic agency by encouraging uncritical acceptance of AI-generated reasoning. This creates a need for mechanisms that preserve human agency by augmenting metacognition during AI-assisted intellectual work. To address this, we propose the Synthesis-Analysis Reciprocity Model, which views intellectual construction as a reciprocal interaction between Synthesis, which combines components into an artifact, and Analysis, which critically evaluates them against objective indicators and constrains subsequent synthesis. Grounded in this model, we present the Vibe Compiler, a research-logic compiler that helps researchers transform vague ideas (Vibes) into coherent research logic. Th
@@ -38,4 +36,4 @@ This work connects to: [[metacognition]][[critical-thinking]][[cognitive-offload
 
 ## Citation
 
-**APA:** Mizoguchi, Riichiro et al. (2026). *Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-*. arXiv:2608.05545.
+Mizoguchi, Riichiro et al. (2026). [Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-](https://arxiv.org/abs/2608.05545). arXiv:2608.05545.

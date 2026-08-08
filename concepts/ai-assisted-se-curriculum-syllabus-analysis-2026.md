@@ -14,8 +14,6 @@ confidence: medium
 
 **Geng et al. (2026)** — arXiv. arXiv:2608.05898.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.05898)
-
 ## Summary
 
 As Generative AI coding tools reshape professional software development, universities have begun designing courses to prepare students for AI-assisted development workflows. By analyzing the syllabi of these courses, we can gather empirical evidence about these courses, reveal how this emerging curricular area is being defined, and gain guidance for future curriculum design. We analyzed 23 publicly available syllabi and course materials of upper-division, credit-bearing courses that meet specific criteria, including explicitly addressing Generative AI in software engineering. Through iterative qualitative coding, we characterized courses' learning objectives, assessments, topics, and documented AI tools. Our analysis reveals commonalities and differences among these courses that allow rese
@@ -39,4 +37,4 @@ This work connects to: [[ai-education]][[cs-education]][[curriculum-design]][[ge
 
 ## Citation
 
-**APA:** Geng, Francis et al. (2026). *Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis*. arXiv:2608.05898.
+Geng, Francis et al. (2026). [Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis](https://arxiv.org/abs/2608.05898). arXiv:2608.05898.

@@ -10,7 +10,6 @@ confidence: medium
 # Culturally-Aware AI for Cross-Boundary Community Learning
 
 **Zhao, Zhang, Cai, Gao & Zhang (2026)** — Authors. Multiple institutions.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.09041)
 
 Reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solutions for cultural heritage preservation and sustainable development. The paper argues that AIED research often lacks human-centered grounding and adequate attention to cultural context, and that Community-Based Learning — a pedagogy rooted in social work — remains underrepresented in AIED, particularly within Asia-Pacific contexts.
 
@@ -27,4 +26,5 @@ The framework emphasizes [[equity|cultural contextualization]] of AI tools, comm
 - [[ai-k12-evidence-base]] — Evidence base for AI in education across cultural contexts
 
 ## Citation
-**APA:** Zhao, J., Zhang, W., Cai, J., Gao, H., & Zhang, L. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. *arXiv:2606.09041*.
+
+Zhao, J., Zhang, W., Cai, J., Gao, H., & Zhang, L. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. [arXiv:2606.09041](https://arxiv.org/abs/2606.09041).

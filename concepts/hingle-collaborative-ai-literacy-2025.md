@@ -37,6 +37,10 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 
 - [https://arxiv.org/abs/2508.15111v1](https://arxiv.org/abs/2508.15111v1)
 
+## Citation
+
+[Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1).
+
 ## Related Pages
 
 - [[ai-literacy]] — Core concept: AI literacy definitions and competencies

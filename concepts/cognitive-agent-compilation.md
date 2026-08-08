@@ -12,8 +12,6 @@ confidence: medium
 
 **Moon, Rosé & Stamper (2026)** — CMU. Accepted to AIED 2026 Blue Sky track.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.07040)
-
 ## Core Idea
 
 **Cognitive Agent Compilation (CAC)** is a framework that uses a strong teacher LLM to compile problem-solving knowledge into an explicit, inspectable target agent. Unlike end-to-end LLM tutoring approaches, CAC separates the agent into three components:
@@ -71,4 +69,4 @@ CAC connects to several threads in AI education research:
 - [[pedagogical-safety-rl]] — Safety frameworks for RL-based tutoring
 ## Citation
 
-Moon, H., Rosé, C., & Stamper, J. (2026). *Cognitive Agent Compilation for Explicit Problem Solver Modeling*. arXiv:2605.07040. Accepted to AIED 2026 Blue Sky.
+Moon, H., Rosé, C., & Stamper, J. (2026). [Cognitive Agent Compilation for Explicit Problem Solver Modeling](https://arxiv.org/abs/2605.07040). arXiv:2605.07040. Accepted to AIED 2026 Blue Sky.

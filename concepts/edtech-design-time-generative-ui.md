@@ -11,7 +11,6 @@ confidence: medium
 # The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization
 
 **Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026)** — NextGen Learning Interfaces Workshop, AIED 2026  
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.15902)
 
 Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficient. Proposes design-time card-based GenUI where educational content is encoded as modality-agnostic semantic units and GenAI produces multiple interface representations (interactive, audio, simplified text, low-bandwidth) at design time for instructor verification. Embeds Universal Design for Learning into authoring workflow and eliminates per-learner inference costs.
 
@@ -29,4 +28,4 @@ Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficie
 
 ## Citation
 
-Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026). *The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization*. arXiv:2606.15902. NextGen Learning Interfaces Workshop, AIED 2026.
+Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026). [The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization](https://arxiv.org/abs/2606.15902). arXiv:2606.15902. NextGen Learning Interfaces Workshop, AIED 2026.

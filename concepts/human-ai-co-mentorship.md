@@ -7,10 +7,6 @@ tags: [stem-education, k-12, higher-ed, active-learning, scaffolding]
 sources: ["raw/papers/2605.05144.md"]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2605.05144](https://arxiv.org/abs/2605.05144) · [local](raw/papers/2605.05144.md)
-
-
-
 
 # Human-AI Co-Mentorship
 

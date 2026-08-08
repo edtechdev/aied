@@ -7,7 +7,6 @@ tags: [llm, benchmark, efficacy-study, bias-mitigation, teacher-role]
 sources: [raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2603.00883](https://arxiv.org/abs/2603.00883) · [local](raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md)
 
 # Educational LLM Alignment
 
@@ -83,6 +82,3 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 - [[pedagogical-safety-rl]] — RL safety and alignment with teaching quality
 - [[teachbench-llm-teaching-evaluation]] — Syllabus-grounded teaching evaluation vs. alignment benchmarks
 - [[aied-carbon-footprint-reporting]] — Connection between LLM alignment, computational cost reporting, and environmental ethics
-
-## Sources
-- Hardy, M., & Kim, Y. (2026). *Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact*. arXiv:2603.00883. [PDF](https://arxiv.org/pdf/2603.00883)

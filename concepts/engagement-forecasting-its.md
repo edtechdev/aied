@@ -12,8 +12,6 @@ confidence: high
 
 **Qiu, Thomas, Guo, Aleven & Borchers (2026)** — EDM 2026.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.12788)
-
 ## Overview
 
 This paper tackles a core ITS challenge: predicting when students will disengage so tutors can intervene before it's too late. It introduces **engagement forecasting** as a supervised prediction task with two complementary targets: minutes practiced per week (effort) and new skills mastered per week (progress).
@@ -63,4 +61,4 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 
 ## Citation
 
-Qiu, E. S., Thomas, D. R., Guo, B., Aleven, V., & Borchers, C. (2026). *From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning.* arXiv:2605.12788. EDM 2026.
+Qiu, E. S., Thomas, D. R., Guo, B., Aleven, V., & Borchers, C. (2026). [From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning.](https://arxiv.org/abs/2605.12788) arXiv:2605.12788. EDM 2026.

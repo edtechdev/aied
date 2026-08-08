@@ -7,10 +7,6 @@ tags: [ai-education, higher-ed, pedagogy, scaffolding, policy-maker, active-lear
 confidence: high
 sources: [raw/papers/finkelstein-principled-ai-education-2025.md]
 ---
-> 📄 Full text: [arXiv:2510.01467](https://arxiv.org/abs/2510.01467) · [local](raw/papers/finkelstein-principled-ai-education-2025.md) — *updated to **v2** (revised 2026-07-24)*
-
-
-
 
 # Principled AI in Education
 
@@ -93,6 +89,3 @@ education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). [*Principled AI in Educat
 - [[ai-ethics-education-public-discourse]] - grounding ethics frameworks in discourse
 - [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
 
-
-## Sources
-- Finkelstein, N. D. (2025). *A principled way to think about AI in education: guidance for educators and policy makers based on goals, models of human learning, and use of technologies*. arXiv:2510.01467 (v2, revised 2026-07-24). [PDF](https://arxiv.org/pdf/2510.01467)

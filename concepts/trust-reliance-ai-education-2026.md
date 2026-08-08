@@ -8,8 +8,6 @@ sources: [raw/papers/trust-reliance-ai-education-2026.md]
 confidence: high
 ---
 
-> 📄 Full text: [arXiv:2604.01114](https://arxiv.org/abs/2604.01114) · [local](raw/papers/trust-reliance-ai-education-2026.md)
-
 # Trust and Reliance on AI in Education
 
 > Pitts, Rani & Mildort (2026, AIED) show with 432 undergraduates that **higher trust in an AI assistant is associated with lower appropriate reliance**: students who trusted the assistant more were worse at discriminating correct from misleading AI suggestions during Python problem-solving. The relationship is non-linear and **moderated by AI literacy and need for cognition** — trust is not a safe proxy for appropriate use.
@@ -47,5 +45,6 @@ confidence: high
 - [[tool-invariant-framework-agentic-ai]] — verification-gated designs
 - [[trust-calibration]] — the design goal for AI assistance
 
-## Sources
+## Citation
+
 - Pitts, G., Rani, N., & Mildort, W. (2026). Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators. [arXiv:2604.01114](https://arxiv.org/abs/2604.01114). AIED 2026.

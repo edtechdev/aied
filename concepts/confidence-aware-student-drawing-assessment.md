@@ -11,7 +11,6 @@ confidence: high
 # Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
 
 **Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai** (2026). arXiv cs.AI preprint
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.20264)
 
 ## Overview
 
@@ -57,4 +56,4 @@ Vision Transformer (ViT) with LoRA adaptation for automated scoring of student-d
 
 ## Citation
 
-Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). *Confidence-Aware Automated Assessment of Student-Drawn Scientific Models*. arXiv:2606.20264. arXiv cs.AI preprint.
+Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). [Confidence-Aware Automated Assessment of Student-Drawn Scientific Models](https://arxiv.org/abs/2606.20264). arXiv:2606.20264. arXiv cs.AI preprint.

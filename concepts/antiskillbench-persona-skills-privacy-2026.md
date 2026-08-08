@@ -14,8 +14,6 @@ confidence: high
 
 **Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, Tongliang Liu (2026)** — arXiv:2608.03700 [cs.CR].
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.03700)
-
 ## Key Findings
 
 Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 behaviorally rich profiles. Evaluates skill-level privacy leakage, agent-level attribute disclosure, and behavioral impersonation across three skill-distillation strategies. Experiments across three frontier agents show persona-skill risks persist across agent backbones and distillation protocols, extending from explicit attributes to communication styles and personality traits. Existing defenses exhibit limited and distillation-dependent effectiveness, failing to generalize across risk and distillation strategies.
@@ -34,4 +32,4 @@ Persona skills distill personal interaction histories into portable and executab
 
 ## Citation
 
-Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, & Tongliang Liu (2026). *When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills*. arXiv:2608.03700. arXiv:2608.03700 [cs.CR].
+Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, & Tongliang Liu (2026). [When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills](https://arxiv.org/abs/2608.03700). arXiv:2608.03700. arXiv:2608.03700 [cs.CR].

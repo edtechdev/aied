@@ -11,7 +11,6 @@ confidence: high
 # Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education
 
 **Bischof, Schön, Rauschenberger & Neumann (2026)** — University of Applied Sciences and Arts Hannover.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.12436)
 
 Bischof et al. investigate how students' awareness of [[generative-ai]] regulations relates to their perceived compliance and actual usage behavior in [[higher-ed]]. While previous research mainly examines adoption rates and attitudes, students' awareness of institutional regulations and their perceived compliance have remained unexplored — an important gap as institutions create and apply AI policies.
 
@@ -32,4 +31,5 @@ These findings highlight a significant gap between [[regulation|institutional re
 - [[ai-higher-ed-bridge-gap]] — Implementation gaps in higher education AI policy
 
 ## Citation
-**APA:** Bischof, L., Schön, E.-M., Rauschenberger, M., & Neumann, M. (2026). Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education. arXiv:2606.12436.
+
+Bischof, L., Schön, E.-M., Rauschenberger, M., & Neumann, M. (2026). [Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education](https://arxiv.org/abs/2606.12436). arXiv:2606.12436.

@@ -7,10 +7,6 @@ tags: [intelligent-tutoring, stem-education, higher-ed, adaptive-learning, forma
 sources: [raw/papers/2604.16117.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2604.16117](https://arxiv.org/abs/2604.16117) · [local](raw/papers/2604.16117.md)
-
-
-
 
 # Programming Intelligent Tutoring Systems
 
@@ -88,7 +84,3 @@ Paassen, A.A.D.J.D.B. (2026). [*Programming Intelligent Tutoring Systems*](https
 - [[code-gen]]
 - [[deeptutor]]
 - [[chat-debugging-llm-hardware-education-2026]] — related
-
-## Sources
-- Deriyeva, Dannath, Paassen (2026). *SCRIPT: Implementing an Intelligent Tutoring System for Programming in a German University Context*. arXiv:2604.16117. [PDF](https://arxiv.org/pdf/2604.16117)
-- [[debugtracker-classroom-debugging]] — Process-evidence capture for debugging tutoring

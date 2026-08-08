@@ -7,10 +7,6 @@ tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-educat
 sources: [raw/papers/ma-deeptutor-agentic-personalized-tutoring-2026.md, raw/papers/yu-maic-mooc-llm-agents-2024.md, raw/papers/nie-personavlm-long-term-personalization-2026.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2604.26962](https://arxiv.org/abs/2604.26962) · [local](raw/papers/ma-deeptutor-agentic-personalized-tutoring-2026.md) · [arXiv:2409.03512](https://arxiv.org/abs/2409.03512) · [local](raw/papers/yu-maic-mooc-llm-agents-2024.md) · [arXiv:2604.13074](https://arxiv.org/abs/2604.13074) · [local](raw/papers/nie-personavlm-long-term-personalization-2026.md)
-
-
-
 
 # Personalized Learning
 

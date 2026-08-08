@@ -7,10 +7,6 @@ tags: [intelligent-tutoring, nlp-education, adaptive-learning, human-in-the-loop
 sources: [raw/papers/2604.08947.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2604.08947](https://arxiv.org/abs/2604.08947) · [local](raw/papers/2604.08947.md)
-
-
-
 
 # Text Simplification for Intelligent Tutoring
 
@@ -64,6 +60,3 @@ al, A.R.R.G.P.A.D.E. (2026). [*Text Simplification for Intelligent Tutoring*](ht
 - [[ai-tutor-effectiveness-review]] — LLM integration challenges in ITS
 - [[formative-assessment]] — Content must be assessable at simplified level
 - [[ai-literacy]] — Simplified content for building AI literacy
-
-## Sources
-- Roscan et al. (2026). *MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator*. arXiv:2604.08947. [PDF](https://arxiv.org/pdf/2604.08947)

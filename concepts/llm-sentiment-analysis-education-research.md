@@ -12,8 +12,6 @@ confidence: medium
 
 **Gonzalez et al. (2026)** — Virginia Tech / University of Texas at El Paso. *arXiv preprint*.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.27403)
-
 **LLM-Assisted Sentiment Analysis for Mixed-Methods Education Research** demonstrates how LLMs can serve as scalable qualitative research assistants, enabling researchers to investigate multiple demographic variables simultaneously rather than being limited to simple binary comparisons. Using 151 longitudinal written reflections from a study abroad program, the authors show that LLM-assisted sentiment analysis combined with statistical testing can uncover granular patterns: prior experience living abroad was the only personal variable that significantly impacted students' sentiments about their language and communication behaviors. This workflow bridges computational and qualitative methods, suggesting that LLMs can reduce the bottleneck of manual qualitative coding without replacing the interpretive depth of thematic analysis. The approach has implications for [[higher-ed]] research methodology, complementing existing [[learning-analytics]] pipelines and extending mixed-methods capabilities beyond what has been possible with [[automated-grading]] and [[formative-assessment]] systems alone. The paper connects to discussions about [[faculty-development]] in equipping researchers with AI literacy for methodological innovation, and relates to [[ai-literacy]] as both a tool for researchers and a consideration in how computational methods change the practice of qualitative inquiry.
 
 ## Key Findings
@@ -33,4 +31,5 @@ confidence: medium
 - [[a4l-analytics-pipeline]] — A4L modular analytics pipeline for cross-domain educational AI data
 
 ## Citation
-**APA:** Xiomara Gonzalez, Gabriella Coloyan Fleming, Andrew Katz, Maya Denton, Jessica Deters (2026). *LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments*. arXiv:2605.27403. arXiv preprint.
+
+Xiomara Gonzalez, Gabriella Coloyan Fleming, Andrew Katz, Maya Denton, Jessica Deters (2026). [LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments](https://arxiv.org/abs/2605.27403). arXiv:2605.27403. arXiv preprint.

@@ -11,7 +11,6 @@ confidence: high
 # Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results
 
 **Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, Emma Lejeune** — arXiv preprint (2026).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.28710)
 
 ## Synthesis
 
@@ -36,4 +35,4 @@ Preliminary data show shifting student behaviors and complex relationships betwe
 
 ## Citation
 
-Geng, S., Lallos-Harrell, H., Ashar, J., McKenna, T. J., Dasgupta, A., Farny, C., & Lejeune, E. (2026). Structured AI demonstrations and student LLM use in engineering mechanics: Study design and preliminary results. arXiv:2607.28710.
+Geng, S., Lallos-Harrell, H., Ashar, J., McKenna, T. J., Dasgupta, A., Farny, C., & Lejeune, E. (2026). [Structured AI demonstrations and student LLM use in engineering mechanics: Study design and preliminary results](https://arxiv.org/abs/2607.28710). arXiv:2607.28710.

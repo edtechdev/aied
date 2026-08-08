@@ -7,10 +7,6 @@ tags: [policy-maker, k-12, student-experience, regulation, ai-literacy]
 sources: ["raw/papers/brookings-ai-students-report.md"]
 confidence: high
 ---
-> 📄 Full text: [Brookings](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/) · [local](raw/papers/brookings-ai-students-report.md)
-
-
-
 
 # Brookings Report: AI and Students (Prosper, Prepare, Protect)
 
@@ -37,7 +33,7 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 
 ## Citation
 
-Institution, S.B. (2026). *A New Direction for Students in an AI World: Prosper, Prepare, Protect*
+Institution, S.B. (2026). [A New Direction for Students in an AI World: Prosper, Prepare, Protect](https://www.brookings.edu/articles/a-new-direction-for-students-in-an-ai-world-prosper-prepare-protect/)
 
 ## Related Pages
 - [[ai-k12-evidence-base]]

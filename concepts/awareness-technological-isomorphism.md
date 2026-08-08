@@ -10,7 +10,6 @@ confidence: medium
 # Awareness of Technological Isomorphism: AI in Elementary Math
 
 **Li & Cao (2026)** — Authors. Unknown institution.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.09598)
 
 Introduces a novel core concept, **"Awareness of Technological Isomorphism,"** defined as a student's metacognitive realization that their own mathematical cognitive operations (observing trends, inducing patterns, making predictions) share an underlying logical structure with AI technical operations (pattern recognition, predictive modeling). This awareness facilitates [[ai-learning-transfer|cognitive transfer from disciplinary mathematics to AI comprehension]].
 
@@ -27,4 +26,5 @@ The paper proposes a **three-stage pedagogical pathway** — Perception → Comp
 - [[ai-k12-evidence-base]] — Evidence base for AI in K-12 education
 
 ## Citation
-**APA:** Li, L., & Cao, Y. (2026). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction — A Case Study of the Compound Line Graph. *arXiv:2606.09598*.
+
+Li, L., & Cao, Y. (2026). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction — A Case Study of the Compound Line Graph. [arXiv:2606.09598](https://arxiv.org/abs/2606.09598).

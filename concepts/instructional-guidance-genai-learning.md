@@ -10,7 +10,6 @@ confidence: high
 # Role of Instructional Guidance in Generative AI-Assisted Learning
 
 **Hou, Xiao, Liu & Mueller (2026)** — Lawrence Technological University / Michigan Technological University.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.05509)
 
 Investigates how instructional guidance shapes student-AI interaction in [[higher-ed|construction engineering education]]. Introduces a **five-step prompting framework** grounded in Generative Learning Theory (GLT) to guide learner interaction during review activities. Three conditions tested in a controlled experiment: slide-based learning, unprompted AI-supported learning, and prompted AI-supported learning.
 
@@ -27,4 +26,5 @@ Demonstrates that the effectiveness of AI-supported learning depends critically 
 - [[ai-learning-transfer]] — Cognitive transfer facilitated by structured AI guidance
 
 ## Citation
-**APA:** Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. *arXiv:2606.05509*.
+
+Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. [arXiv:2606.05509](https://arxiv.org/abs/2606.05509).

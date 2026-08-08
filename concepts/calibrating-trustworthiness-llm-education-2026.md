@@ -14,8 +14,6 @@ confidence: high
 
 **Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, Alex Endert (2026)** — arXiv:2608.04006 [cs.HC] (under review).
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.04006)
-
 ## Key Findings
 
 Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM responses. Making trustworthiness explicit increased inter-rater reliability and helped learning engineers resolve conflicting objectives and produce more consistent judgments. Proposes design guidelines for future LLM evaluation tools that enable pedagogically-aligned learning tools.
@@ -36,4 +34,4 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 
 ## Citation
 
-Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, & Alex Endert (2026). *Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education*. arXiv:2608.04006. arXiv:2608.04006 [cs.HC] (under review).
+Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, & Alex Endert (2026). [Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education](https://arxiv.org/abs/2608.04006). arXiv:2608.04006. arXiv:2608.04006 [cs.HC] (under review).

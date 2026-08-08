@@ -12,8 +12,6 @@ confidence: high
 
 **Fernandes, Buschek, Tankelevitch, Kosch & Welsch (2026)** — University of Bayreuth, Microsoft Research.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.25856)
-
 This preregistered between-subjects study (N=559) provides the first rigorous evidence that [[llm]] reasoning traces — increasingly common in AI interfaces — do not improve performance and can actively impair it. More critically, they create a dangerous [[metacognition|metacognitive]] blind spot: participants substantially overestimate their performance regardless of trace format.
 
 ## Key Findings
@@ -38,4 +36,5 @@ While [[genai-assessment-governance|GenAI assessment governance]] focuses on *wh
 - [[genai-assessment-governance]] — GenAI assessment governance
 
 ## Citation
-**APA:** Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). *Explaining too much? Understanding how large language model reasoning traces influence performance and metacognition*. arXiv:2605.25856. cs.HC.
+
+Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). [Explaining too much? Understanding how large language model reasoning traces influence performance and metacognition](https://arxiv.org/abs/2605.25856). arXiv:2605.25856. cs.HC.

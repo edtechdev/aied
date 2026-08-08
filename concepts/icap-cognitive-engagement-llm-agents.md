@@ -11,7 +11,6 @@ confidence: high
 # Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents
 
 **Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas** — CogSci 2026 (accepted full paper).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.28651)
 
 ## Synthesis
 
@@ -35,4 +34,4 @@ Findings highlight the promise of reflective-agent approaches for scaling engage
 
 ## Citation
 
-Do, L. A., Jiang, H., Aeron, S., & Thomas, A. K. (2026). Measuring cognitive engagement in collaborative discourse with an extended ICAP framework. CogSci 2026. arXiv:2607.28651.
+Do, L. A., Jiang, H., Aeron, S., & Thomas, A. K. (2026). [Measuring cognitive engagement in collaborative discourse with an extended ICAP framework. CogSci 2026](https://arxiv.org/abs/2607.28651). arXiv:2607.28651.

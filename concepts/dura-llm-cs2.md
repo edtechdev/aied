@@ -11,7 +11,6 @@ confidence: high
 # Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
 
 **Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan** — SIGCSE Virtual 2026, submitted 29 Jun 2026
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.30908)
 
 DURA framework (Demystify-Use-Reflect-Assess) for structured LLM integration in CS2 courses shows students value instructional guidance alongside LLM access, with increased office hours attendance.
 
@@ -31,4 +30,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan (2026). *Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2*. arXiv:2606.30908. SIGCSE Virtual 2026, submitted 29 Jun 2026
+Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan (2026). [Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2](https://arxiv.org/abs/2606.30908). arXiv:2606.30908. SIGCSE Virtual 2026, submitted 29 Jun 2026

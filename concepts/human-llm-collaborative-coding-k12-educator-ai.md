@@ -11,7 +11,6 @@ confidence: high
 # Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
 
 **Alex Liu, Min Sun, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He** — arXiv preprint (2026).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.28889)
 
 ## Synthesis
 
@@ -35,4 +34,4 @@ The article provides a procedural account (what LLMs can do, in which phases, un
 
 ## Citation
 
-Liu, A., Sun, M., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., & He, K. (2026). Human-LLM collaborative inductive coding for conceptualizing K-12 educator AI use. arXiv:2607.28889.
+Liu, A., Sun, M., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., & He, K. (2026). [Human-LLM collaborative inductive coding for conceptualizing K-12 educator AI use](https://arxiv.org/abs/2607.28889). arXiv:2607.28889.

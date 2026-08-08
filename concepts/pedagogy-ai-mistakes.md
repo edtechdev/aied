@@ -7,10 +7,6 @@ tags: [higher-ed, ai-literacy, metacognition, stem-education, active-learning]
 sources: ["raw/papers/2605.05472.md"]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2605.05472](https://arxiv.org/abs/2605.05472) · [local](raw/papers/2605.05472.md)
-
-
-
 
 # Pedagogy of AI Mistakes
 

@@ -12,7 +12,6 @@ confidence: medium
 
 Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments
 **Kurdya et al. (2026)** — Multiple institutions. arXiv cs.AI.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.05842)
 
 ## Summary
 
@@ -43,4 +42,5 @@ This work connects to the broader [[automated-question-generation]] literature a
 - [[moodle-ai-tutoring-deep-learning]] — AI tutoring in LMS platforms
 
 ## Citation
-**APA:** Kurdya, Z., Zuqlam, M., Amassi, S., Telbany, S., & Saad, M. (2026). *Taklif.AI: LLM-powered platform for interest-based personalized college assignments*. arXiv:2605.05842.
+
+Kurdya, Z., Zuqlam, M., Amassi, S., Telbany, S., & Saad, M. (2026). [Taklif.AI: LLM-powered platform for interest-based personalized college assignments](https://arxiv.org/abs/2605.05842). arXiv:2605.05842.

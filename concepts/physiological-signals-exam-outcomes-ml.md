@@ -11,7 +11,6 @@ confidence: medium
 # Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
 
 **Lala Yamazaki, Ramchandra Rimal (2026)** — arXiv preprint  
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.14960)
 
 Investigates ML models to predict exam outcomes from physiological data (electrodermal activity, heart rate, skin temperature) collected during exams. Evaluates logistic regression, random forest, SVM, transformers, LSTM, and GRU. Random forest often outperformed deep learning models while offering interpretability. Highlights value of physiological data for understanding student stress and real-time intervention potential.
 
@@ -29,4 +28,4 @@ Investigates ML models to predict exam outcomes from physiological data (electro
 
 ## Citation
 
-Lala Yamazaki, Ramchandra Rimal (2026). *Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning*. arXiv:2606.14960. arXiv preprint.
+Lala Yamazaki, Ramchandra Rimal (2026). [Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning](https://arxiv.org/abs/2606.14960). arXiv:2606.14960. arXiv preprint.

@@ -12,8 +12,6 @@ confidence: high
 
 **Rodriguez-Alvarez et al. (2026)** — IES Parquesol, Moate Community School, IES Jose Jimenez Lozano, Universidad de Valladolid.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.26010)
-
 This multicenter study (N=243 European secondary students) systematically challenges the 'Digital Native' paradigm by demonstrating a severe confidence-competence gap in digital and AI literacy. Students report near-maximum self-efficacy in passive digital consumption (browsing, social media) but exhibit a sharp decline when evaluated on active technological creation and algorithmic logic — a collective Dunning-Kruger effect.
 
 ## The AI Paradox
@@ -38,4 +36,5 @@ With 76.5% of students demanding pedagogical reform toward hands-on, active tech
 - [[genai-expertise-pathways-sysadmin]]
 
 ## Citation
-**APA:** Rodriguez-Alvarez, N., Blanch-Marsolini, A. M., Vara-Gutierrez, S., Gil-Garcia, H., Calzon-Dueñas, J., & Rodriguez-Merino, F. (2026). *The illusion of competence: Self-perceived digital literacy and AI readiness among European secondary students*. arXiv:2605.26010. cs.CY.
+
+Rodriguez-Alvarez, N., Blanch-Marsolini, A. M., Vara-Gutierrez, S., Gil-Garcia, H., Calzon-Dueñas, J., & Rodriguez-Merino, F. (2026). [The illusion of competence: Self-perceived digital literacy and AI readiness among European secondary students](https://arxiv.org/abs/2605.26010). arXiv:2605.26010. cs.CY.

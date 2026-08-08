@@ -7,10 +7,6 @@ tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education]
 sources: [raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md, raw/papers/yu-maic-mooc-llm-agents-2024.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2604.03926](https://arxiv.org/abs/2604.03926) · [local](raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md) · [arXiv:2409.03512](https://arxiv.org/abs/2409.03512) · [local](raw/papers/yu-maic-mooc-llm-agents-2024.md)
-
-
-
 
 # Human-in-the-Loop AI for Education
 

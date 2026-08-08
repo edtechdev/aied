@@ -14,8 +14,6 @@ confidence: high
 
 **Sahana Varadaraju, Bharathwaj Vijayakumar (2026)** — EDULEARN26 Proceedings (IATED, 2026).
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.03968)
-
 ## Key Findings
 
 Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, educational policy, value-sensitive design, and capability-oriented approaches to educational justice. Demonstrates practical value through an illustrative early-alert case study showing how institutions can review LA practices in a more transparent and educationally meaningful way.
@@ -36,4 +34,4 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 
 ## Citation
 
-Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). *Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics*. arXiv:2608.03968. EDULEARN26 Proceedings (IATED, 2026).
+Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). [Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics](https://arxiv.org/abs/2608.03968). arXiv:2608.03968. EDULEARN26 Proceedings (IATED, 2026).

@@ -7,10 +7,6 @@ tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcemen
 sources: [raw/papers/2604.04237.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2604.04237](https://arxiv.org/abs/2604.04237) · [local](raw/papers/2604.04237.md)
-
-
-
 
 # Pedagogical Safety in Educational Reinforcement Learning
 
@@ -74,5 +70,3 @@ Rahimi, A.O.O.N. (2026). [*Pedagogical Safety in Educational Reinforcement Learn
 - [[metacognition]] — RL systems may undermine (or scaffold) learner self-regulation
 
 - [[llm-student-simulation-misconception-faithfulness]] — SFS-aligned RL training for misconception-faithful simulators
-## Sources
-- Olukola & Rahimi (2026). *Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems*. arXiv:2604.04237. [PDF](https://arxiv.org/pdf/2604.04237)

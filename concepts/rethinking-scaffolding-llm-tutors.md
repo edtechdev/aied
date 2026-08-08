@@ -11,7 +11,6 @@ confidence: high
 # Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
 
 **Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson** (2026). Pluralistic Alignment Workshop @ ICML 2026
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.15766)
 
 ## Key Findings
 
@@ -33,4 +32,4 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Citation
 
-Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson (2026). *Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments*. arXiv:2606.15766. Pluralistic Alignment Workshop @ ICML 2026.
+Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson (2026). [Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments](https://arxiv.org/abs/2606.15766). arXiv:2606.15766. Pluralistic Alignment Workshop @ ICML 2026.

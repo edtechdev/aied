@@ -11,7 +11,6 @@ confidence: high
 # PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback
 
 **Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng** (2026). East China Normal University / arXiv cs.CL preprint
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.20287)
 
 ## Overview
 
@@ -59,4 +58,4 @@ PsyScore integrates diagnostic assessment with instructional scaffolding through
 
 ## Citation
 
-Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng (2026). *PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback*. arXiv:2606.20287. East China Normal University / arXiv cs.CL preprint.
+Wei Xia, Jin Wu, Haoran Shi, Xiangyu Wang, Chanjin Zheng (2026). [PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback](https://arxiv.org/abs/2606.20287). arXiv:2606.20287. East China Normal University / arXiv cs.CL preprint.

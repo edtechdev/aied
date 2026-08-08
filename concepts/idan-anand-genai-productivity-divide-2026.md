@@ -13,8 +13,6 @@ confidence: high
 
 **Idan, L., & Anand, B. (2026)** — Harvard University. arXiv:2605.18143.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.18143)
-
 ## Summary
 
 This randomized controlled experiment assigned participants — analogs of early-career knowledge workers — to self-study a technical domain using either traditional resources or LLM assistance. On average, GenAI significantly increased task performance, but the distribution was highly skewed: the top quartile of users captured most of the gains while the bottom quartile saw negligible or negative returns. Critically, performance was not predicted by GPA or prior domain knowledge, but by **AI Interaction Competence (AIC)** — the ability to elicit, filter, and verify model outputs. A conceptual-map scaffolding intervention reduced outcome variance, suggesting that organizations can mitigate AI-mediated inequality through structured workflows.
@@ -30,3 +28,9 @@ This randomized controlled experiment assigned participants — analogs of early
 ## Connections
 
 This work connects to: [[generative-ai]][[ai-literacy]][[equity]][[efficacy-study]][[higher-ed]][[scaffolding]][[cognitive-offloading]]
+
+## Citation
+
+Idan & Anand (2026) conduct an RCT showing that GenAI access significantly increases task performance on average — but the gains are highly uneven, NOT predicted by GPA or prior knowledge, but by AI Interaction Competence (AIC): the ability to elicit, filter, and verify model outputs. High-AIC participants realized outsized gains while low-AIC saw limited or negative returns. A scaffolding intervention (conceptual maps) reduced outcome variance, showing that standardized workflows can mitigate the new "AI productivity divide."
+
+# Generative AI and the Productivity Divide: Human-AI Complementarities in Education. [Generative AI and the Productivity Divide: Human-AI Complementarities in Education](https://arxiv.org/abs/2605.18143).

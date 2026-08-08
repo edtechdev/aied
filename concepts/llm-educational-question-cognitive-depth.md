@@ -12,8 +12,6 @@ confidence: high
 
 **Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026)** — Institution.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.18257)
-
 LLM-generated educational questions show varying cognitive depth; models excel at factual recall but struggle with higher-order thinking questions per Bloom's taxonomy.
 
 ## Synthesis
@@ -29,4 +27,4 @@ From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated E
 
 ## Citation
 
-Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026). *From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions*. arXiv:2606.18257.
+Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026). [From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions](https://arxiv.org/abs/2606.18257). arXiv:2606.18257.

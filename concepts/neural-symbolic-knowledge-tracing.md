@@ -8,8 +8,6 @@ sources: [raw/papers/2604.08263.md]
 confidence: medium
 ---
 
-> 📄 Full text: [arXiv:2604.08263](https://arxiv.org/abs/2604.08263) · [local](raw/papers/2604.08263.md)
-
 # Neural-Symbolic Knowledge Tracing
 
 > Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems.
@@ -115,7 +113,3 @@ accuracy?, H.D.R.C.W.C.D.I.P., predictions?, H.D.R.P.I.E.O.S.K., & 2021, O.L.E.M
 - [[pedagogical-llm-training]] — Training pipelines for tutoring alignment
 - [[principled-ai-education]] — Framework connecting educational goals to technology use
 - [[ai-tutor-effectiveness-review]] — Broader ITS effectiveness; interpretability as a key dimension
-
-## Sources
-
-- Hooshyar et al. (2026). *Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling*. arXiv:2604.08263. [PDF](https://arxiv.org/pdf/2604.08263)

@@ -39,4 +39,4 @@ Multi-agent LLM configurations for learning. Two experiments (N=315 math, N=247 
 - [[agentic-ai-ecosystems-higher-education]] — Extends multi-agent LLM learning to institutional scale
 ## Citation
 
-Harsh Kumar et al. (2026). *Beyond the AI Tutor: Social Learning with LLM Agents*. arXiv:2604.02677. cs.HC, cs.CY.
+Harsh Kumar et al. (2026). [Beyond the AI Tutor: Social Learning with LLM Agents](https://arxiv.org/abs/2604.02677). arXiv:2604.02677. cs.HC, cs.CY.

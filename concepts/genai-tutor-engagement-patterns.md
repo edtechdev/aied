@@ -42,4 +42,4 @@ Large-scale analysis (N=11,406, 200 classes, 10 institutions) of GenAI tutor eng
 - [[students-llm-usage-critical-thinking]] — Student-initiated LLM use vs. tutor-driven interaction
 ## Citation
 
-Youjie Chen et al. (2026). *Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use*. arXiv:2602.00447. cs.CY.
+Youjie Chen et al. (2026). [Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use](https://arxiv.org/abs/2602.00447). arXiv:2602.00447. cs.CY.

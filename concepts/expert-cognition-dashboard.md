@@ -12,8 +12,6 @@ confidence: medium
 
 **Annie Yuan (2026)**. arXiv preprint (cs.HC).
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.17263)
-
 ## Summary
 
 Current AI-driven educational systems primarily rely on behavioural analytics and performance metrics, lacking the ability to model expert cognition used to interpret learner development and identify misconceptions. This paper introduces the Expert Cognition Dashboard (ECD), a cognition-centred reporting infrastructure for AI Twin-driven education systems.
@@ -31,4 +29,4 @@ This paper proposes a paradigm shift from Learning Analytics to Cognition Intell
 
 ## Citation
 
-Annie Yuan (2026). *Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education*. arXiv:2605.17263. arXiv preprint (cs.HC).
+Annie Yuan (2026). [Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education](https://arxiv.org/abs/2605.17263). arXiv:2605.17263. arXiv preprint (cs.HC).

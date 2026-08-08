@@ -8,8 +8,6 @@ sources: [raw/papers/agentic-ai-pedagogical-best-practice-2026.md]
 confidence: high
 ---
 
-> 📄 Full text: [arXiv:2606.04543](https://arxiv.org/abs/2606.04543) · [local](raw/papers/agentic-ai-pedagogical-best-practice-2026.md)
-
 # Agentic AI and Pedagogical Best Practice
 
 > Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **intentional friction, dynamic scaffolding, human-in-the-loop oversight, and considered AI utilisation** — is a principled guardrail for the wiki's agentic-education literature.
@@ -56,5 +54,6 @@ Education AI is shifting from passive chatbots to **proactive agents** that init
 - [[agentic-workflows]] — agentic education practice
 - [[genai-can-harm-teaching-rct-2026]] — empirical evidence of automation displacing pedagogy
 
-## Sources
+## Citation
+
 - Woollaston, S., Flanagan, B., Wijerathne, I., & Ogata, H. (2026). Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning. [arXiv:2606.04543](https://arxiv.org/abs/2606.04543)

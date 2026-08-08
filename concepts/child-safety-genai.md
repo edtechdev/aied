@@ -11,7 +11,6 @@ confidence: high
 # Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
 
 **Haein Kong** — HEAL Workshop at CHI 2026, submitted 1 Jul 2026
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.00395)
 
 Proposes an evaluation framework for child-specific harms in generative AI; applied to education domain, Llama Guard models struggle to detect unsafe user prompts from children.
 
@@ -34,4 +33,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-Haein Kong (2026). *Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework*. arXiv:2607.00395. HEAL Workshop at CHI 2026, submitted 1 Jul 2026
+Haein Kong (2026). [Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework](https://arxiv.org/abs/2607.00395). arXiv:2607.00395. HEAL Workshop at CHI 2026, submitted 1 Jul 2026

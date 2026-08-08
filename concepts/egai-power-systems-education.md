@@ -13,7 +13,6 @@ confidence: high
 # Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
 
 **Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li** — arXiv (cs.AI / eess.SY) preprint, 2026 (University of Tennessee, IEEE PES).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.02599)
 
 ## Synthesis
 
@@ -38,4 +37,4 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 
 ## Citation
 
-Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv:2608.02599. arXiv (cs.AI / eess.SY) preprint.
+Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). [Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework](https://arxiv.org/abs/2608.02599). arXiv:2608.02599. arXiv (cs.AI / eess.SY) preprint.

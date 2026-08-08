@@ -7,10 +7,6 @@ tags: [metacognition, stem-education, learning-analytics, intelligent-tutoring, 
 sources: [raw/papers/mdpi-metacognition-ai-stem-2025.md]
 confidence: high
 ---
-> 📄 Full text: [MDPI](https://www.mdpi.com/2079-3200/13/1/148) · [local](raw/papers/mdpi-metacognition-ai-stem-2025.md)
-
-
-
 
 # AI Tools Scaffolding Metacognition in STEM
 
@@ -139,6 +135,3 @@ Egara, A.M.T.S.C.N.M.M.F.O., (MDPI), J.J.O.I., Review, S., AI, M.T.S.O.M.A.L.B.,
 - [[posthumanist-ai-education]] — Emerging paradigm: AI as co-regulator (stub needed)
 - [[tutoring-specific-vs-general-ai]] — Domain-specific tutoring vs. generic chatbots
 - [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awarene
-
-## Sources
-- Tsakeni, M., Nwafor, S.C., Mosia, M., & Egara, F.O. (2025). *Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach (2005–2025)*. Journal of Intelligence, 13(1), 148. https://doi.org/10.3390/jintelligence13110148

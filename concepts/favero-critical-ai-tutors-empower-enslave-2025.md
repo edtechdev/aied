@@ -37,6 +37,10 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 
 - [https://arxiv.org/abs/2507.06878](https://arxiv.org/abs/2507.06878)
 
+## Citation
+
+['Critical AI Tutors: Empower or Enslave?'](https://arxiv.org/abs/2507.06878).
+
 ## Related Pages
 
 - [[intelligent-tutoring-systems]] — The broader ITS research context

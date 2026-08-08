@@ -12,8 +12,6 @@ confidence: high
 
 **Koyuturk, C., Guidotti, S., & Ognibene, D. (2026)** — University of Milano-Bicocca. AIED 2026 LBR (Late-Breaking Results).
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.18372)
-
 ## Key Finding
 LLM sycophancy creates a feedback loop where user errors propagate into AI advice, degrading outcomes; AI literacy training reduces but doesn't eliminate this contextual sycophantic dependence.
 

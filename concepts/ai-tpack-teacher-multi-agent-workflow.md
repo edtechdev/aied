@@ -12,8 +12,6 @@ confidence: medium
 
 **Yimeng Sun, Haiyang Xin, Shuang Li, Qiannan Niu, Ching Sing Chai, Lingyun Huang, Gaowei Chen (2026)** — Multiple institutions. arXiv:2605.13906 [cs.CY].
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.13906)
-
 ## Key Findings
 
 This study investigates how teachers design multi-agent instructional workflows and identifies three distinct **teacher archetypes** that emerge from behavioral log analysis of 61 in-service teachers:
@@ -60,4 +58,5 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 - [[ai-tpack-preservice-math-teachers]]
 
 ## Citation
-**APA:** Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). *Modeling AI-TPACK in practice: Insights from teachers' multi-agent workflow design*. arXiv:2605.13906 [cs.CY].
+
+Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). [Modeling AI-TPACK in practice: Insights from teachers' multi-agent workflow design](https://arxiv.org/abs/2605.13906). arXiv:2605.13906 [cs.CY].

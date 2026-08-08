@@ -12,8 +12,6 @@ confidence: high
 
 **Suen, H.-Y., & Hung, K.-E. (2026)** — National Taiwan Normal University. IEEE Transactions on Learning Technologies.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.17468)
-
 ## Key Finding
 Closed-loop ITS with multimodal affective scoring (facial, vocal, textual, oculomotor) produced significant presentation skill gains (Cohen's d = 0.39-0.90, N=204) over 30 days.
 

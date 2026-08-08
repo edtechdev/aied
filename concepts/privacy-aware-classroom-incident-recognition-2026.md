@@ -14,8 +14,6 @@ confidence: medium
 
 **Paritosh Parmar et al. (2026)** — arXiv preprint (cross-listed cs.CV/cs.HC).
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.05115)
-
 Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid benchmark combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong incident recognition while preserving student privacy (no facial recognition). Demonstrates that efficient motion-based features can generalize across classroom environments without collecting identifiable student data.
 
 ## Related Pages
@@ -27,4 +25,4 @@ Pilot study on privacy-aware computer vision for classroom incident detection. I
 
 ## Citation
 
-Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, & Chiat Pin Tay (2026). *Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition*. arXiv:2608.05115. arXiv preprint (cross-listed cs.CV/cs.HC).
+Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, & Chiat Pin Tay (2026). [Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition](https://arxiv.org/abs/2608.05115). arXiv:2608.05115. arXiv preprint (cross-listed cs.CV/cs.HC).

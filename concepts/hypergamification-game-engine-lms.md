@@ -11,7 +11,6 @@ confidence: high
 # Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game
 
 **Araz Yusubov, Michael Bechtel, Tangiz Alizada** — arXiv preprint (2026).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.29300)
 
 ## Synthesis
 
@@ -34,4 +33,4 @@ The authors discuss limitations (integration complexity, content-authoring burde
 
 ## Citation
 
-Yusubov, A., Bechtel, M., & Alizada, T. (2026). Hypergamigication through integrating game engines and learning management systems: Ender's Game. arXiv:2607.29300.
+Yusubov, A., Bechtel, M., & Alizada, T. (2026). [Hypergamigication through integrating game engines and learning management systems: Ender's Game](https://arxiv.org/abs/2607.29300). arXiv:2607.29300.

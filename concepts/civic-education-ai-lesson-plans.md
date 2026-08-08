@@ -7,7 +7,6 @@ tags: [k-12, ai-literacy, teacher-role, formative-assessment, equity]
 sources: [raw/papers/civic-education-ai-lesson-plans.md]
 confidence: medium
 ---
-> 📄 Full text: [CITE Journal](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/) · [local](raw/papers/civic-education-ai-lesson-plans.md)
 
 # AI-Generated Lesson Plans in Civic Education
 
@@ -88,7 +87,7 @@ Civic education is a uniquely high-stakes domain for AI application because:
 
 ## Citation
 
-(2025), A.T.T.M.R.X.C.P.K., 25(3), J.C.I.I.T.A.T.E., Name].", I.A.H.I.L.F., |, B.L.T.A.O., levels, O.A.A.A.R.U.O.A., & |, B.L.T. (2026). *AI-Generated Lesson Plans in Civic Education*
+(2025), A.T.T.M.R.X.C.P.K., 25(3), J.C.I.I.T.A.T.E., Name].", I.A.H.I.L.F., |, B.L.T.A.O., levels, O.A.A.A.R.U.O.A., & |, B.L.T. (2026). [AI-Generated Lesson Plans in Civic Education](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/)
 
 ## Related Pages
 
@@ -103,7 +102,3 @@ Civic education is a uniquely high-stakes domain for AI application because:
 - [[llm-cultural-relevance-k12]] — LLMs and culturally relevant curriculum design
 - [[automated-question-generation]] — Broader pattern of AI-generated educational content limitations
 - [[formative-assessment]] — AI-generated assessment items and validation needs
-
-## Sources
-
-- Trust, T., Maloy, R., Xu, C., & Pelletier, K. (2025). Civic education in the age of AI: Should we trust AI-generated lesson plans? *Contemporary Issues in Technology and Teacher Education, 25*(3).

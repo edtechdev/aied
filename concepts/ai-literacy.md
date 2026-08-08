@@ -7,10 +7,6 @@ tags: [ai-literacy, higher-ed, k-12, policy-maker, active-learning, collaborativ
 confidence: medium
 sources: [raw/papers/hingle-collaborative-ai-literacy-2025.md, raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
 ---
-> 📄 Full text: [arXiv:2508.15111](https://arxiv.org/abs/2508.15111v1) · [local](raw/papers/hingle-collaborative-ai-literacy-2025.md) · [Liverpool Repository](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf) · [local](raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md)
-
-
-
 
 # AI Literacy
 
@@ -79,6 +75,10 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 1. Does AI literacy transfer across domains (e.g., from chatbot evaluation to algorithmic bias detection)?
 2. How does AI literacy interact with [[self-regulated-learning|SRL]] — does knowing how AI works change self-regulation strategies?
 3. Can [[affective-tutoring|affective AI]] support or undermine AI literacy development?
+
+## Citation
+
+Chi & Wylie (2014). [AI Literacy](https://arxiv.org/abs/2508.15111v1).
 
 ## Related Pages
 - [[trust-reliance-ai-education-2026]] — AI literacy moderates trust-to-reliance

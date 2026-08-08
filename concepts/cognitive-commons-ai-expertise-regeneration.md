@@ -11,7 +11,6 @@ confidence: high
 # The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise
 
 **Nolan Lovett** — Human Resource Development Review (author accepted manuscript, 2026).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.29380)
 
 ## Synthesis
 
@@ -36,4 +35,4 @@ The paper reframes expertise development as collective stewardship rather than o
 
 ## Citation
 
-Lovett, N. (2026). The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise. Human Resource Development Review. arXiv:2607.29380.
+Lovett, N. (2026). [The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise. Human Resource Development Review](https://arxiv.org/abs/2607.29380). arXiv:2607.29380.

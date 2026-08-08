@@ -8,8 +8,6 @@ sources: [raw/papers/authentic-products-authenticated-processes-2026.md]
 confidence: high
 ---
 
-> 📄 Full text: [AEHE (T&F, OA)](https://doi.org/10.1080/02602938.2026.2695376) · [local](raw/papers/authentic-products-authenticated-processes-2026.md)
-
 # From authentic products to authenticated processes
 
 > Tsiligkiris (2026) reframes authentic assessment as an *evidential and validity-oriented design problem* in AI-rich higher education. His central distinction — **authentic products vs. authenticated processes** — argues that assessment validity under generative AI depends not on realistic outputs alone but on architectures that make human judgement, verification, and responsibility visible. A systematic conceptual review of 37 sources yields a six-dimension framework for redesigning assessment briefs at module and programme level.
@@ -58,6 +56,3 @@ corpus, S.A.N.I.S.O.I.R.A.C. (2026). [*From authentic products to authenticated 
 - [[equity]] — representational fairness dimension
 - [[academic-integrity]] — AI policy embedded in assessment architecture, not a stand-alone rule
 - [[feedback-loop]] — sustainable evaluative judgement
-
-## Sources
-- Tsiligkiris, V. (2026). From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich higher education. *Assessment & Evaluation in Higher Education*. [DOI](https://doi.org/10.1080/02602938.2026.2695376)

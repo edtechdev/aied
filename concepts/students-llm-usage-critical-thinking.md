@@ -12,7 +12,6 @@ confidence: high
 
 Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
 **Park, Orozco Vasquez, & Conati (2026)** — University of British Columbia. Accepted at EDM 2026.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.04534)
 
 ## Summary
 
@@ -38,4 +37,5 @@ This work complements [[genai-tutor-engagement-patterns]] by shifting focus from
 - [[scaffolding]] — Instructional scaffolding
 
 ## Citation
-**APA:** Park, M., Orozco Vasquez, I., & Conati, C. (2026). *Characterizing students' LLM usage behaviors and their association with learning in critical thinking tasks*. In *Proceedings of EDM 2026*. arXiv:2605.04534.
+
+Park, M., Orozco Vasquez, I., & Conati, C. (2026). [Characterizing students' LLM usage behaviors and their association with learning in critical thinking tasks](https://arxiv.org/abs/2605.04534). In *Proceedings of EDM 2026*. arXiv:2605.04534.

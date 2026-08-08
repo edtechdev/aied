@@ -12,8 +12,6 @@ confidence: high
 
 **Xie, D., Anderson, K., Eze, T., Lin, C., Shin, B., & Worsley, M. (2026)** — Northwestern University. AIED 2026.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.17259)
-
 ## Key Finding
 Agentic analytics using AI-produced concept-map artifacts as shared human-AI representations improves collaboration quality analysis and AI response grounding over transcript-only baselines.
 

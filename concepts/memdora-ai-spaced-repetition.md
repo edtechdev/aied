@@ -12,8 +12,6 @@ confidence: high
 
 **Ruiyang Zhang (2026)** — arXiv:2607.25096 (cs.HC)
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.25096)
-
 ## Summary
 
 Presents Memdora, a cross-platform AI spaced repetition system that addresses limitations of binary flip-and-rate flashcard interactions. Grounded in cognitive science evidence on retrieval practice, it enables richer interaction patterns and reduces context-switching by generating flashcards from reading material. Demonstrates improved retention compared to traditional SRS tools.
@@ -36,4 +34,4 @@ The work connects to broader discussions in AI and education around [[spaced-rep
 
 ## Citation
 
-Ruiyang Zhang (2026). *Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition*. arXiv:2607.25096. cs.HC.
+Ruiyang Zhang (2026). [Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition](https://arxiv.org/abs/2607.25096). arXiv:2607.25096. cs.HC.
