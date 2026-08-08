@@ -7,11 +7,9 @@ tags: [llm, generative-ai, formative-assessment, higher-ed, learning-analytics, 
 sources: [raw/papers/2605.00294.md]
 confidence: high
 ---
-
 # Using LLMs to Identify Student Misconceptions
 
-**Parker & Zavala-Cerna (2026)** — Published in *Education and Information Technologies*.
-
+**Parker & Zavala-Cerna (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.00294)
 ## Synthesis
 
 This paper presents a systematic two-stage methodology for surfacing student misconceptions at scale. Drawing on 3,802 medical student enrollments across 5 biomedical science courses (9 course periods, 40-50 quizzes each), Parker and Zavala-Cerna first use quantitative quiz-level performance metrics to identify challenging topics, then deploy LLMs to analyze quiz questions, student response patterns, and lecture transcripts in combination — extracting the specific misconceptions underlying poor performance.
@@ -38,4 +36,4 @@ For [[student-experience]], the implications are direct: students struggling wit
 
 ## Citation
 
-Parker, M. J., & Zavala-Cerna, M. G. (2026). [What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics](https://arxiv.org/abs/2605.00294). Education and Information Technologies. arXiv:2605.00294.
+Parker, M. J., & Zavala-Cerna, M. G. (2026). What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics. Education and Information Technologies. arXiv:2605.00294.

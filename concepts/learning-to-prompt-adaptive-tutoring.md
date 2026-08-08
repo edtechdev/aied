@@ -7,11 +7,9 @@ tags: [intelligent-tutoring, llm, k-12, personalized-learning, scaffolding, adap
 sources: [raw/papers/2606.20138.md]
 confidence: high
 ---
-
 # Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
 
-**Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer** (2026). arXiv cs.AI preprint
-
+**Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer** (2026) . [arXiv cs.AI preprint](https://arxiv.org/abs/2606.20138)
 ## Overview
 
 Adaptive LLM tutoring with subject-aware prompt routing based on 14 pedagogical features. A/B test on 656 conversations from 359 Dutch high-school students showed sim-to-real transfer. A stochastic router achieved 28.1% exercise conversion rate vs 19.6% baseline. Reduces interaction turns by ~3 (p=0.007) while maintaining pedagogical quality.
@@ -58,4 +56,4 @@ Adaptive LLM tutoring with subject-aware prompt routing based on 14 pedagogical 
 
 ## Citation
 
-Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer (2026). [Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring](https://arxiv.org/abs/2606.20138). arXiv:2606.20138. arXiv cs.AI preprint.
+Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer (2026). Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring. arXiv:2606.20138. arXiv cs.AI preprint.

@@ -7,8 +7,9 @@ tags: [question-generation, llm, automated-assessment, stem-education, hallucina
 sources: [raw/papers/2512.10110.md]
 confidence: high
 ---
-
 > **Synthesis:** A novel generate-then-validate pipeline for educational question generation that reduces LLM hallucination by 62% compared to direct generation, validated on STEM datasets with 89% accuracy and a 23% improvement over baseline LLMs on relevance metrics. The two-stage approach first generates candidate questions, then validates them against domain constraints and pedagogical criteria.
+> **Source:** ['Generate-Then-Validate: Question Generation for Education'](https://arxiv.org/abs/2512.10110)
+
 
 # Generate-Then-Validate: Question Generation for Education
 
@@ -34,7 +35,7 @@ Automated question generation reduces manual authoring burden for educators and 
 
 ## Citation
 
-F, A.W.Y.S.J.C.P. (2026). [*Generate-Then-Validate: Question Generation for Education*](https://arxiv.org/abs/2512.10110). (LAK 2026), April 27-May 01
+F, A.W.Y.S.J.C.P. (2026). *Generate-Then-Validate: Question Generation for Education*. (LAK 2026), April 27-May 01
 
 ## Related Pages
 

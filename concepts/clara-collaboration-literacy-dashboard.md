@@ -7,11 +7,9 @@ tags: [learning-analytics, generative-ai, llm, higher-ed, edtech-platform, colla
 sources: [raw/papers/2605.17259.md]
 confidence: high
 ---
-
 # CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
 
-**Xie, D., Anderson, K., Eze, T., Lin, C., Shin, B., & Worsley, M. (2026)** — Northwestern University. AIED 2026.
-
+**Xie, D., Anderson, K., Eze, T., Lin, C., Shin, B., & Worsley, M. (2026)** — [Northwestern University. AIED 2026](https://arxiv.org/abs/2605.17259)
 ## Key Finding
 Agentic analytics using AI-produced concept-map artifacts as shared human-AI representations improves collaboration quality analysis and AI response grounding over transcript-only baselines.
 
@@ -20,7 +18,7 @@ CLARA introduces a novel architecture for [[learning-analytics]] where AI-produc
 
 ## Citation
 
-2026, A. (2026). [*CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy*](https://arxiv.org/abs/2605.17259)
+2026, A. (2026). *CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy*
 
 ## Related Pages
 - [[expert-cognition-dashboard]] — ECD extends dashboard design from visualization to embedded expert cognition reasoning

@@ -7,8 +7,9 @@ tags: [conversational-agents, personalized-learning, higher-ed, learning-by-teac
 sources: [raw/papers/knowloop-confusion-to-consolidation-2026.md]
 confidence: high
 ---
-
 > **Synthesis:** KnowLoop, a dual-agent conversational system for post-lecture review, structures learning around three stages—Recognize (mark in-situ confusion during lectures), Resolve (Teaching Assistant provides context-grounded clarification), and Consolidate (Peer scaffolds reflective teach-back). A 22-participant study shows confusion points serve as personalized review anchors, lecture-grounded clarification enables more targeted support than general-purpose AI, and teach-back prompts learners to reveal conceptual gaps and connect ideas across the lecture.
+> **Source:** [From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review](https://doi.org/10.1145/3816046.3816288)
+
 
 # From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review
 
@@ -50,7 +51,7 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 
 ## Citation
 
-Fang, M., & Reidsma, D. (2026). [*From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review*](https://doi.org/10.1145/3816046.3816288). In *ACM Conversational User Interfaces 2026 (CUI '26)*, Bremen, Germany.
+Fang, M., & Reidsma, D. (2026). *From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review*. In *ACM Conversational User Interfaces 2026 (CUI '26)*, Bremen, Germany.
 
 ## Related Pages
 

@@ -7,11 +7,9 @@ tags: [language-learning, llm, generative-ai, benchmark, scaffolding, formative-
 sources: [raw/papers/2605.14257.md]
 confidence: high
 ---
-
 # What Makes Words Hard? Vocabulary Difficulty Prediction at BEA 2026
 
-**Nohejl, Wu, Ide, Riera Machin, Chang & Yanaka (2026)** — BEA 2026.
-
+**Nohejl, Wu, Ide, Riera Machin, Chang & Yanaka (2026)** — [BEA 2026](https://arxiv.org/abs/2605.14257)
 🔗 [Code](https://github.com/adno/vocabulary-difficulty)
 
 ## Overview
@@ -56,4 +54,4 @@ BEA (Building Educational Applications) is the premier venue for NLP-for-educati
 
 ## Citation
 
-Nohejl, A., Wu, X., Ide, Y., Riera Machin, M. A., Chang, Y.-N., & Yanaka, H. (2026). [What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction.](https://arxiv.org/abs/2605.14257) arXiv:2605.14257. BEA 2026.
+Nohejl, A., Wu, X., Ide, Y., Riera Machin, M. A., Chang, Y.-N., & Yanaka, H. (2026). What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction. arXiv:2605.14257. BEA 2026.

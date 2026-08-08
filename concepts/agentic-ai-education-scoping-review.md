@@ -7,11 +7,9 @@ tags: [agentic-ai, ai-literacy, educational-theory, generative-ai, higher-ed, in
 sources: [raw/papers/agentic-ai-education-scoping-review-2026.md]
 confidence: high
 ---
-
 # Agentic AI in Education: Scoping Review (474 Studies, 2020–2026)
 
-**Wang, Zou, Xie & Qin (2026)** — Lingnan University & Hong Kong Polytechnic University.
-Published in *Computers and Education: Artificial Intelligence*, accepted 27 July 2026.
+**Wang, Zou, Xie & Qin (2026)** — [DOI](https://doi.org/10.1016/j.caeai.2026.100653)Published in *Computers and Education: Artificial Intelligence*, accepted 27 July 2026.
 📄 doi:[10.1016/j.caeai.2026.100653](https://doi.org/10.1016/j.caeai.2026.100653) · [local](raw/papers/agentic-ai-education-scoping-review-2026.md)
 
 ## Summary
@@ -71,7 +69,7 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 
 ## Citation
 
-Qin, N.W.D.Z.H.X.S.J., doi:[10.1016/j.caeai.2026.100653](https://doi.org/10.1016/j.caeai.2026.100653), C.A.E.A.I.A.J., applications, G.A.A.S.A.I.P.F.E., 2026, R.S.M.S.P.B.J.A.M., technical, H.E.S.D.A.T.T.S.I.T.O., technologies, I.G.M.A.L.A.T.M.W.A., the, W.O.A.O.F.A.P.R.L.A.A., & studies, F.A.E.P.T.G.R.L.O. (2026). [*Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm*](https://doi.org/10.1016/j.caeai.2026.100653),). https://doi.org/10.1016/j.caeai.2026.100653
+Qin, N.W.D.Z.H.X.S.J., doi:10.1016/j.caeai.2026.100653, C.A.E.A.I.A.J., applications, G.A.A.S.A.I.P.F.E., 2026, R.S.M.S.P.B.J.A.M., technical, H.E.S.D.A.T.T.S.I.T.O., technologies, I.G.M.A.L.A.T.M.W.A., the, W.O.A.O.F.A.P.R.L.A.A., & studies, F.A.E.P.T.G.R.L.O. (2026). [*Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm*](https://doi.org/10.1016/j.caeai.2026.100653),). https://doi.org/10.1016/j.caeai.2026.100653
 
 ## Related Pages
 

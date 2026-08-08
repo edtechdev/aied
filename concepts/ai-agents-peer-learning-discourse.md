@@ -38,4 +38,4 @@ EDM analysis of 2.4M+ AI agents engaging in peer-learning-like discourse. 28,683
 
 ## Citation
 
-Eason Chen et al. (2026). [When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community](https://arxiv.org/abs/2602.14477). arXiv:2602.14477. cs.HC.
+Eason Chen et al. (2026). When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community. arXiv:2602.14477. cs.HC.

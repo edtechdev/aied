@@ -7,8 +7,9 @@ tags: [intelligent-tutoring, learning-analytics, hint-systems, k-12, math-educat
 sources: [raw/papers/lak2026-hint-button-unproductive-use.md]
 confidence: high
 ---
-
 > **Synthesis:** A three-semester, 999-student analysis of hint usage in a K-12 mathematics ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced learning gains, even after controlling for prior knowledge. The work argues from an affordance perspective that the persistent "hint button" design common across ITSs can inadvertently enable bypass strategies, transforming scaffolds into shortcuts.
+> **Source:** [Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems](https://doi.org/10.1145/3785022.3785040)
+
 
 # Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems
 
@@ -61,7 +62,7 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 
 ## Citation
 
-McLaren, A.M.A.M.M.J.S.B.M., Associations, R.T.H.B.C.N., in, B.U.H.U.A.L.O., Systems, I.T., An, M., Mehrvarz, M., Mellon, C., & PA, P. (2026). [*Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems*](https://doi.org/10.1145/3785022.3785040). LAK26: 16th International Learning Analytics and Knowledge Conference (LAK 2026), April 27–May 01
+McLaren, A.M.A.M.M.J.S.B.M., Associations, R.T.H.B.C.N., in, B.U.H.U.A.L.O., Systems, I.T., An, M., Mehrvarz, M., Mellon, C., & PA, P. (2026). *Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems*. LAK26: 16th International Learning Analytics and Knowledge Conference (LAK 2026), April 27–May 01
 
 ## Related Pages
 

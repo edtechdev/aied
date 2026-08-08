@@ -7,10 +7,11 @@ tags: [intelligent-tutoring, benchmark, efficacy-study, higher-ed, k-12]
 confidence: high
 sources: [raw/papers/zerkouk-comprehensive-review-its-2025.md]
 ---
-
 # AI Tutor Effectiveness Review
 
 > A comprehensive systematic review of AI-based Intelligent Tutoring Systems (2010–2025) reveals a field with transformative potential but mixed real-world effectiveness, persistent implementation challenges, and a critical need for stronger experimental rigor.^[[zerkouk-comprehensive-review-its-2025]]
+> **Source:** [AI Tutor Effectiveness Review](https://arxiv.org/abs/2507.18882v1)
+
 
 ## Review Scope
 
@@ -62,7 +63,7 @@ The review identifies a **critical need for stronger experimental design and dat
 
 ## Citation
 
-Zerkouk, Mihoubi & Chikhaoui (2025). [AI Tutor Effectiveness Review](https://arxiv.org/abs/2507.18882v1).
+Zerkouk, Mihoubi & Chikhaoui (2025). AI Tutor Effectiveness Review.
 
 ## Related Pages
 - [[engagement-forecasting-its]] — Feature-based engagement forecasting reduces MAE 22-33% vs heuristics; effort dr

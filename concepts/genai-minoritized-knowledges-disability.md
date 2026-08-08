@@ -8,11 +8,9 @@ sources:
   - raw/papers/2605.26769.md
 confidence: high
 ---
-
 # Generative AI and the Marginalization of Minoritized Knowledges in Higher Education: The Case of Disability
 
-**Fatiha Tali-Otmani (2026)** — EFTS, Grhapes. arXiv preprint.
-
+**Fatiha Tali-Otmani (2026)** — [EFTS, Grhapes. arXiv preprint](https://arxiv.org/abs/2605.26769)
 ## Overview
 
 This paper argues that [[generative-ai]] systems in [[higher-ed]] are not epistemically neutral — they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric training data reinforces epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration, where technological architectures confine them to reductive stereotypes or exclude them from the design process entirely.
@@ -47,4 +45,4 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 
 ## Citation
 
-Tali-Otmani, F. (2026). [Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability](https://arxiv.org/abs/2605.26769). arXiv:2605.26769.
+Tali-Otmani, F. (2026). Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability. arXiv:2605.26769.

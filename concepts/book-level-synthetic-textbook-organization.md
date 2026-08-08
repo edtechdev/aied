@@ -7,11 +7,9 @@ tags: [generative-ai, llm, personalized-learning, educational-theory]
 sources: [raw/papers/2607.28109.md]
 confidence: medium
 ---
-
 # Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training
 
-**Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026)** — arXiv:2607.28109 (cs.AI)
-
+**Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026)** — [arXiv:2607.28109 (cs.AI)](https://arxiv.org/abs/2607.28109)
 ## Summary
 
 Studies how organizing synthetic content into coherent book-level documents affects language model training, moving beyond local rewriting. Presents a scalable synthesis pipeline that retrieves source material, clusters it into topical units, and plans hierarchical textbook structures. Shows book-level organization significantly outperforms isolated content generation for educational knowledge acquisition in LLMs.
@@ -34,4 +32,4 @@ The work connects to broader discussions in AI and education around [[generative
 
 ## Citation
 
-Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026). [Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training](https://arxiv.org/abs/2607.28109). arXiv:2607.28109. cs.AI.
+Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026). Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training. arXiv:2607.28109. cs.AI.

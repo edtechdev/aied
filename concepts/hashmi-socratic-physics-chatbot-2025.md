@@ -7,8 +7,9 @@ tags: [socratic-method, physics-education, generative-ai, intelligent-tutoring]
 sources: [raw/papers/hashmi-socratic-physics-chatbot-2025.md]
 confidence: medium
 ---
-
 > **Socratic Physics Chatbot** — A custom Socratic AI chatbot deployed in a large-enrollment introductory mechanics course with 150 first-year STEM majors, demonstrating that AI-driven Socratic dialogue can foster expert-like reasoning while generating fine-grained learning analytics for physics education research.
+> **Source:** [Socratic Physics Chatbot](https://arxiv.org/abs/2508.14778v1)
+
 
 **Authors:** Hashmi et al. · arXiv:2508.14778 · Large-enrollment introductory mechanics course, 150 first-year STEM majors · Full dialogue transcripts logged
 
@@ -38,7 +39,7 @@ The correlation between question specificity and course grade (*r* = 0.43) hints
 
 ## Citation
 
-[Socratic Physics Chatbot](https://arxiv.org/abs/2508.14778v1).
+Socratic Physics Chatbot.
 
 ## Related Pages
 

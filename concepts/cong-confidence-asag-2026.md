@@ -7,8 +7,9 @@ tags: [assessment, automated-grading, confidence]
 sources: [raw/papers/cong-confidence-asag-2026.md]
 confidence: medium
 ---
-
 > **Confidence-Aware ASAG** — A hybrid confidence estimation framework for Automatic Short Answer Grading with LLMs that fuses model-based confidence signals (verbalized, latent, consistency-based) with dataset-derived aleatoric uncertainty via Random Forest + Platt scaling, enabling reliable selective prediction and principled human-in-the-loop review workflows.
+> **Source:** [Confidence-Aware Automatic Short Answer Grading](https://arxiv.org/abs/2605.00200)
+
 
 **Authors:** Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, Ulf Kroehne · DIPF | Leibniz Institute, Goethe University Frankfurt, Chemnitz University of Technology · AIED 2026 · LLM: gpt-oss-20b · Dataset: SciEntsBank Test_UD (4,562 responses)
 
@@ -34,7 +35,7 @@ The use of [[retrieval-augmented-generation]] and [[synthetic-data]] techniques 
 
 ## Citation
 
-Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). [*Confidence-Aware Automatic Short Answer Grading*](https://arxiv.org/abs/2605.00200)
+Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). *Confidence-Aware Automatic Short Answer Grading*
 
 ## Related Pages
 

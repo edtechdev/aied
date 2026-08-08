@@ -7,8 +7,9 @@ tags: [ai-literacy, generative-ai, k-12, teacher-role, educational-theory]
 sources: [raw/papers/2608.01705.md]
 confidence: high
 ---
-
 > **RAIL-Ed is an integrative, developmental, and dialectical framework for generative AI literacy in K-12 teacher education, built from a systematic review of 67 studies and specifying six interdependent pillars with a three-level maturity rubric.**
+> **Source:** [Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education](https://arxiv.org/abs/2608.01705)
+
 
 # Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education
 
@@ -38,4 +39,4 @@ Aligned with the UNESCO AI Competency Framework for Teachers and the OECD/Europe
 
 ## Citation
 
-Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha (2026). [Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education](https://arxiv.org/abs/2608.01705). arXiv:2608.01705. arXiv (cs.CY / cs.HC) preprint.
+Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha (2026). Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education. arXiv:2608.01705. arXiv (cs.CY / cs.HC) preprint.

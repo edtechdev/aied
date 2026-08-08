@@ -7,11 +7,9 @@ tags: [ai-literacy, equity, policy-maker, academic-integrity, higher-ed]
 sources: [raw/papers/2607.12295.md]
 confidence: medium
 ---
-
 # A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
 
-**Akriti Bagale, Nafisa Mehjabin, Ali Unlu, Aditya Johri, et al. (2026)** - George Mason University; University of Virginia. arXiv preprint.
-
+**Akriti Bagale, Nafisa Mehjabin, Ali Unlu, Aditya Johri, et al. (2026)** - [arXiv preprint](https://arxiv.org/abs/2607.12295)
 ## Key Findings
 
 - Longitudinal Twitter/X analysis maps how the public debates AI ethics concerns in [[higher-ed]] and schools over time.
@@ -31,4 +29,4 @@ confidence: medium
 
 ## Citation
 
-Bagale, A., Mehjabin, N., Unlu, A., Johri, A., et al. (2026). [A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data](https://arxiv.org/abs/2607.12295). arXiv:2607.12295.
+Bagale, A., Mehjabin, N., Unlu, A., Johri, A., et al. (2026). A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data. arXiv:2607.12295.

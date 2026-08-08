@@ -7,11 +7,9 @@ tags: [generative-ai, llm, writing-education, k-12, formative-assessment, feedba
 sources: [raw/papers/2605.17055.md]
 confidence: high
 ---
-
 # Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
 
-**Zheldibayeva, R., de Oliveira Nascimento, A. K., Castro, V., Cope, B., & Kalantzis, M. (2026)** — University of Illinois Urbana-Champaign. arXiv preprint.
-
+**Zheldibayeva, R., de Oliveira Nascimento, A. K., Castro, V., Cope, B., & Kalantzis, M. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.17055)
 ## Key Finding
 RAG-based rubric-grounded GenAI writing feedback improved student revision quality (N=143, grades 7-11) and saved teacher time, but automated ratings were inconsistent.
 
@@ -20,7 +18,7 @@ CyberScholar demonstrates rubric-grounded [[retrieval-augmented-generation]] for
 
 ## Citation
 
-Nascimento, D.O. & preprint, A. (2026). [*Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar*](https://arxiv.org/abs/2605.17055)
+Nascimento, D.O. & preprint, A. (2026). *Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar*
 
 ## Related Pages
 - [[mindcopilot-llm-co-writing]] — Interaction-aware evaluation complements output-quality metrics for writing feedback

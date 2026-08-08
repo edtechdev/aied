@@ -7,11 +7,9 @@ tags: [generative-ai, metacognition, over-reliance, higher-ed, scaffolding]
 sources: [raw/papers/2605.13731.md]
 confidence: high
 ---
-
 # Distinguishing Performance Gains from Learning When Using Generative AI
 
-**Lixiang Yan, Samuel Greiff, Jason M. Lodge, Dragan Gašević (2026)** — *Nature Reviews Psychology*, 4(7), 435-436.
-
+**Lixiang Yan, Samuel Greiff, Jason M. Lodge, Dragan Gašević (2026)** — [*Nature Reviews Psychology*, 4(7), 435-436](https://arxiv.org/abs/2605.13731)
 ## Core Argument
 
 This *Nature Reviews Psychology* piece draws a critical distinction that has been under-theorized in AIED research:
@@ -50,4 +48,4 @@ Generative AI can function as either a cognitive tool (amplifying thinking) or a
 
 ## Citation
 
-Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). Distinguishing performance gains from learning when using generative AI. [Nature Reviews Psychology](https://arxiv.org/abs/2605.13731), 4(7), 435-436. arXiv:2605.13731.
+Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). Distinguishing performance gains from learning when using generative AI. Nature Reviews Psychology, 4(7), 435-436. arXiv:2605.13731.

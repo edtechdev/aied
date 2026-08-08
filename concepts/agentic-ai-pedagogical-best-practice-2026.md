@@ -7,10 +7,11 @@ tags: [agentic-ai, educational-theory, scaffolding, formative-assessment, metaco
 sources: [raw/papers/agentic-ai-pedagogical-best-practice-2026.md]
 confidence: high
 ---
-
 # Agentic AI and Pedagogical Best Practice
 
 > Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **intentional friction, dynamic scaffolding, human-in-the-loop oversight, and considered AI utilisation** — is a principled guardrail for the wiki's agentic-education literature.
+> **Source:** ['Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning'](https://arxiv.org/abs/2606.04543)
+
 
 ## The tension: automation vs. learning
 
@@ -56,4 +57,4 @@ Education AI is shifting from passive chatbots to **proactive agents** that init
 
 ## Citation
 
-- Woollaston, S., Flanagan, B., Wijerathne, I., & Ogata, H. (2026). Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning. [arXiv:2606.04543](https://arxiv.org/abs/2606.04543)
+- Woollaston, S., Flanagan, B., Wijerathne, I., & Ogata, H. (2026). Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning. arXiv:2606.04543

@@ -7,11 +7,9 @@ tags: [generative-ai, llm, instructional-design, higher-ed, cs-education, teache
 sources: [raw/papers/2605.16295.md]
 confidence: high
 ---
-
 # ANVIL: Analogies and Videos for Lecturers
 
-**Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026)** — Delft University of Technology. arXiv:2605.16295 [cs.CY; cs.AI; cs.CL; cs.GR; cs.HC; cs.MM]
-
+**Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.16295)
 Noviello, Birillo, and Migut (2026) present ANVIL, an end-to-end multimodal generation pipeline for educational content — one of the first systems to automate the full journey from concept definition to rendered instructional animation. The four-stage pipeline (analogy generation, screenplay compilation, animation code generation with automated repair) represents a significant advance in AI-generated [[instructional-design]] materials.
 
 ANVIL's evaluation approach is methodologically notable: rather than relying solely on automated metrics, the authors ground quality assessment in teacher evaluations and then use those findings to guide scalable automated screening. The LLM-based evaluator for analogy quality and fidelity-to-screenplay proxy for video assessment offer a replicable framework for evaluating [[generative-ai]] educational outputs at scale — addressing a key challenge identified in [[benchmark]] and [[efficacy-study]] literature.
@@ -32,4 +30,4 @@ The positive educator response to perceived value and usability suggests that AI
 
 ## Citation
 
-Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026). [ANVIL: Analogies and Videos for Lecturers](https://arxiv.org/abs/2605.16295). arXiv:2605.16295. arXiv:2605.16295 [cs.CY; cs.AI; cs.CL; cs.GR; cs.HC; cs.MM].
+Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026). ANVIL: Analogies and Videos for Lecturers. arXiv:2605.16295. arXiv:2605.16295 [cs.CY; cs.AI; cs.CL; cs.GR; cs.HC; cs.MM].

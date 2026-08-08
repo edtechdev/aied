@@ -7,11 +7,9 @@ tags: [intelligent-tutoring, scaffolding, k-12, personalized-learning, llm]
 sources: [raw/papers/2606.18030.md]
 confidence: high
 ---
-
 # ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time
 
-**Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan** (2026). arXiv cs.HC
-
+**Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan** (2026) . [arXiv cs.HC](https://arxiv.org/abs/2606.18030)
 ## Key Findings
 
 Generic LLM assistance reduces the parent's tutoring role; ParaTutor preserves parent-led support and sustains child reasoning through role-separated scaffolding. LLM support for multi-user learning must be distributed by user roles.
@@ -30,4 +28,4 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Citation
 
-Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan (2026). [ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time](https://arxiv.org/abs/2606.18030). arXiv:2606.18030. arXiv cs.HC.
+Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan (2026). ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time. arXiv:2606.18030. arXiv cs.HC.

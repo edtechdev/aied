@@ -7,11 +7,9 @@ tags: [llm, automated-grading, feedback-loop, stem-education, higher-ed, scaffol
 sources: [raw/papers/2605.21614.md]
 confidence: medium
 ---
-
 # Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
 
-**Lekshmi-Narayanan, Hassany & Brusilovsky (2026)** — University of Pittsburgh. arXiv preprint (cs.HC, cs.LG).
-
+**Lekshmi-Narayanan, Hassany & Brusilovsky (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.21614)
 ## Summary
 
 This paper presents a rigorous empirical comparison between [[llm|LLM]]-based and semantic similarity methods for [[automated-grading|automated assessment]] of student self-explanations in programming education. The task is framed as binary classification — determining whether a student's explanation of a worked-example step is correct or incorrect.
@@ -44,4 +42,4 @@ This work extends the [[automated-grading]] landscape by addressing a specific g
 
 ## Citation
 
-Lekshmi-Narayanan, A.-B., Hassany, M., & Brusilovsky, P. (2026). [Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education](https://arxiv.org/abs/2605.21614). arXiv:2605.21614.
+Lekshmi-Narayanan, A.-B., Hassany, M., & Brusilovsky, P. (2026). Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education. arXiv:2605.21614.

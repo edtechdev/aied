@@ -7,8 +7,9 @@ tags: [llm, misinformation, ai-literacy]
 sources: [raw/papers/kim-llm-fallacy-misattribution-2026.md]
 confidence: medium
 ---
-
 > **The LLM Fallacy** is a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence — producing a systematic gap (∆C) between perceived and actual capability. This divergence persists regardless of whether the LLM output is correct or erroneous, and it is driven by three system-level properties (opacity, fluency, and interactional immediacy) mediated by attribution ambiguity and cognitive outsourcing.
+> **Source:** [LLM Fallacy Misattribution in Education](https://arxiv.org/abs/2604.14807)
+
 
 **Kim, Yu & Yi (ddai Inc., 2026)** · arXiv: 2604.14807v2
 
@@ -36,7 +37,7 @@ The long-term institutional risk is credential inflation: if degrees and certifi
 
 ## Citation
 
-Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). [*LLM Fallacy Misattribution in Education*](https://arxiv.org/abs/2604.14807)
+Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). *LLM Fallacy Misattribution in Education*
 
 ## Related Pages
 

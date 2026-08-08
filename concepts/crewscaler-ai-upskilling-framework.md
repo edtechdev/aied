@@ -7,8 +7,9 @@ tags: [professional-training, upskilling, workforce-development, llm, multi-agen
 sources: [raw/papers/2607.14044.md]
 confidence: high
 ---
-
 > **Synthesis:** The Crew Scaler framework applies AI acceleration across all five stages of professional upskilling—knowledge acquisition, content development, content review and verification, AI-tutor coaching, and assessment development—with external validation from NASBA CPE accreditation, NVIDIA certification exam passes (3/3, 14 in progress), and a 1,267-item risk dataset production. Dual-efficiency design pairs AI-accelerated production with learning-efficient outputs (prerequisite ordering, spaced review, misconception-keyed distractors, 16 tutoring protocols).
+> **Source:** [AI-accelerated End-to-End Framework for Rapid Professional Upskilling](https://arxiv.org/abs/2607.14044)
+
 
 # AI-accelerated End-to-End Framework for Rapid Professional Upskilling
 
@@ -52,7 +53,7 @@ The paper identifies four gaps in existing frameworks:
 
 ## Citation
 
-Nguyen, T., Nguyen, H., & Ogburn, R. (2026). [*AI-accelerated End-to-End Framework for Rapid Professional Upskilling*](https://arxiv.org/abs/2607.14044). arXiv preprint.
+Nguyen, T., Nguyen, H., & Ogburn, R. (2026). *AI-accelerated End-to-End Framework for Rapid Professional Upskilling*. arXiv preprint.
 
 ## Related Pages
 

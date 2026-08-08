@@ -7,11 +7,9 @@ tags: [knowledge-tracing, learning-analytics, personalized-learning, intelligent
 sources: [raw/papers/2605.05958.md]
 confidence: medium
 ---
-
 # Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 
-**Zhan, P., Chen, W., Chen, W., Pan, S., Cai, R. (2026)** — arXiv preprint.
-
+**Zhan, P., Chen, W., Chen, W., Pan, S., Cai, R. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.05958)
 ## Analysis
 
 This paper addresses a critical but under-examined issue in KT systems: **selection bias** from non-random exercise recommendations. Prior KT methods train on observed logs using standard empirical risk, producing biased mastery estimates that compound errors in downstream recommendation loops. The proposed **Temporal Smoothness Doubly Robust (TSDR)** framework combines a propensity model with an error imputation model, regularized for temporal smoothness.^[2605.05958](raw/papers/2605.05958.md)
@@ -28,4 +26,4 @@ The doubly robust property ensures the estimator remains unbiased if *either* th
 
 ## Citation
 
-Zhan et al. (2026). [Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing](https://arxiv.org/abs/2605.05958). arXiv:2605.05958. arXiv preprint.
+Zhan et al. (2026). Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing. arXiv:2605.05958. arXiv preprint.

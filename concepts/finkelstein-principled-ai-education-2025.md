@@ -8,6 +8,8 @@ sources: [raw/papers/finkelstein-principled-ai-education-2025.md]
 confidence: medium
 ---
 > **Principled AI Education Framework** — A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Rather than focusing solely on the promise and peril of AI or its immediate implementation, this framework advances a third path — connecting broad educational goals to actionable practices through a set of explicit, scholarship-grounded principles.
+> **Source:** [Principled AI Education Framework](https://arxiv.org/abs/2510.01467)
+
 
 **Noah Finkelstein**, University of Colorado, Boulder — Drafted July 2025, updated July 2026.
 
@@ -37,7 +39,7 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 
 ## Citation
 
-education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). [*Principled AI Education Framework*](https://arxiv.org/abs/2510.01467)
+education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). *Principled AI Education Framework*
 
 ## Related Pages
 

@@ -7,11 +7,9 @@ tags: [faculty-development, higher-ed, stem-education, ai-literacy, institutiona
 sources: [raw/papers/2605.18140.md]
 confidence: high
 ---
-
 # Faculty Orientations Shape Adoption of AI in Research and Teaching
 
-**Atherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026)** — arXiv:2605.18140
-
+**Atherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026)** — [arXiv:2605.18140](https://arxiv.org/abs/2605.18140)
 📄 [arXiv](https://arxiv.org/abs/2605.18140) · [PDF](https://arxiv.org/pdf/2605.18140) · [local](raw/papers/2605.18140.md)
 
 ## Key Finding: AI Pedagogical Orientation
@@ -81,4 +79,4 @@ These are not resolvable by more information or better tools — they require di
 
 ## Citation
 
-Atherton, T. J., Descamps, I., Holmes, T. R., Vizcarra, C. L., Sui, N., Webel, M., & Foley, J. J., IV. (2026). [Faculty orientations shape adoption of AI in research and teaching](https://arxiv.org/abs/2605.18140). arXiv:2605.18140.
+Atherton, T. J., Descamps, I., Holmes, T. R., Vizcarra, C. L., Sui, N., Webel, M., & Foley, J. J., IV. (2026). Faculty orientations shape adoption of AI in research and teaching. arXiv:2605.18140.

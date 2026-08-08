@@ -7,10 +7,11 @@ tags: [authentic-assessment, ai-detection, academic-integrity, assessment, gener
 sources: [raw/papers/beyond-detection-authentic-assessment-ai-2025.md]
 confidence: high
 ---
-
 # Beyond Detection: authentic assessment in an AI-mediated world
 
 > Kickbusch, Ashford-Rowe, Kemp, Boreland & Huijser (2025) argue the dominant institutional response to generative AI in assessment — surveillance and AI detection — **misdiagnoses the problem**: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic "design for learning" patterns that position AI as a collaborator rather than a cheating application.
+> **Source:** ['Beyond Detection: redesigning authentic assessment in an AI-mediated world'](https://doi.org/10.3390/educsci15111537)
+
 
 ## The case against detection
 
@@ -67,4 +68,4 @@ Stage-appropriate authenticity: early units get constrained, well-scaffolded tas
 
 ## Citation
 
-- Kickbusch, S., Ashford-Rowe, K., Kemp, A., Boreland, J., & Huijser, H. (2025). Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World. *Education Sciences*, 15(11), 1537. [DOI](https://doi.org/10.3390/educsci15111537)
+- Kickbusch, S., Ashford-Rowe, K., Kemp, A., Boreland, J., & Huijser, H. (2025). Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World. *Education Sciences*, 15(11), 1537. DOI

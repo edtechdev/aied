@@ -7,8 +7,9 @@ tags: [llm, k-12, pedagogical-safety, ai-tutor-safety-harms, benchmark]
 sources: [raw/papers/2608.02024.md]
 confidence: high
 ---
-
 > **EduZone is an automated evaluation framework that generates contextually grounded adversarial interactions to probe LLM safety in K-12 education, revealing that models are more vulnerable to education-specific harms and dynamic multi-turn conversations than existing guardrails address.**
+> **Source:** [EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers](https://arxiv.org/abs/2608.02024)
+
 
 # EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
 
@@ -35,4 +36,4 @@ Results show greater vulnerability to education-specific risks and dynamic multi
 
 ## Citation
 
-Junyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh (2026). [EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers](https://arxiv.org/abs/2608.02024). arXiv:2608.02024. arXiv (cs.CY / cs.AI) preprint.
+Junyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh (2026). EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers. arXiv:2608.02024. arXiv (cs.CY / cs.AI) preprint.

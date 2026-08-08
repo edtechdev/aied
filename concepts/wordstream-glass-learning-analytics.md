@@ -7,11 +7,9 @@ tags: [learning-analytics, k-12, higher-ed, qualitative-research, edtech-platfor
 sources: [raw/papers/2606.18692.md]
 confidence: medium
 ---
-
 # Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics
 
-**Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026)** — Institution.
-
+**Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026)** — [Institution](https://arxiv.org/abs/2606.18692)
 Revisits WordStream (2009) as a quantitative encoding for qualitative learning analytics; demonstrates how structured coding can surface cohort-level trends while preserving individual narrative context.
 
 ## Synthesis
@@ -27,4 +25,4 @@ Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative L
 
 ## Citation
 
-Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026). [Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics](https://arxiv.org/abs/2606.18692). arXiv:2606.18692.
+Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026). Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics. arXiv:2606.18692.

@@ -7,15 +7,16 @@ tags: [generative-ai, informal-learning, llm, lifelong-learning, student-experie
 sources: [raw/papers/caeai-conversational-ai-informal.md]
 confidence: medium
 ---
-
 > **Synthesis:** Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning
+> **Source:** [Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning](https://doi.org/10.1016/j.caeai.2026.100634)
+
 
 # Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning
 
 
 ## Citation
 
-Kasneci, A.N.T.B.B.E., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning*](https://doi.org/10.1016/j.caeai.2026.100634)
+Kasneci, A.N.T.B.B.E., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). *Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning*
 
 ## Related Pages
 - [[generative-ai]]

@@ -7,10 +7,11 @@ tags: [faculty-development, teacher-role, generative-ai, k-12, student-experienc
 sources: [raw/papers/genai-can-harm-teaching-rct-2026.md]
 confidence: high
 ---
-
 # Generative AI Can Harm Teaching
 
 > Sungu, Lira & Duckworth (2026) ran one of the first large-scale RCTs of a teacher-facing generative AI tool and found it can *harm* students: providing teachers an AI teaching assistant **reduced student intrinsic motivation by 0.11 SD** and — among lower-performing teachers — **cut student achievement by 0.13 SD**. The pattern is a **principal–agent problem**: teachers (agents) gain labor savings from AI delegation while students (principals) bear the cost of displaced relational teaching and scaffolding.
+> **Source:** [Generative AI Can Harm Teaching](https://ssrn.com/abstract=7007339)
+
 
 ## The experiment
 
@@ -45,7 +46,7 @@ The null average performance effect masks strong offsetting heterogeneity — an
 
 ## Citation
 
-Sungu, Lira & Duckworth (2026). [*Generative AI Can Harm Teaching*](https://ssrn.com/abstract=7007339)
+Sungu, Lira & Duckworth (2026). *Generative AI Can Harm Teaching*
 
 ## Related Pages
 - [[faculty-development]] — teacher-facing AI adoption and its unintended effects

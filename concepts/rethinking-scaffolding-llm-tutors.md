@@ -7,11 +7,9 @@ tags: [scaffolding, intelligent-tutoring, llm, benchmark, efficacy-study, studen
 sources: [raw/papers/2606.15766.md]
 confidence: high
 ---
-
 # Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
 
-**Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson** (2026). Pluralistic Alignment Workshop @ ICML 2026
-
+**Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson** (2026) . [Pluralistic Alignment Workshop @ ICML 2026](https://arxiv.org/abs/2606.15766)
 ## Key Findings
 
 Real-world students show lower uptake of LLM tutor scaffolding than benchmarks assume (9,490 chats across 9 datasets). Bypassing scaffolding often signals a mismatch between pedagogical framing and learner goals, not a failure. Benchmarks must evaluate tutor adaptability to student-driven interaction.
@@ -32,4 +30,4 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Citation
 
-Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson (2026). [Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments](https://arxiv.org/abs/2606.15766). arXiv:2606.15766. Pluralistic Alignment Workshop @ ICML 2026.
+Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson (2026). Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments. arXiv:2606.15766. Pluralistic Alignment Workshop @ ICML 2026.

@@ -7,11 +7,9 @@ tags: [stem-education, generative-ai, intelligent-tutoring, scaffolding, adaptiv
 sources: [raw/papers/2607.05412.md]
 confidence: high
 ---
-
 # Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
 
-**Chan, Chen, Hong, Song, Wang & Xu (2026)** — ISLS 2026 (arXiv preprint).
-
+**Chan, Chen, Hong, Song, Wang & Xu (2026)** — [ISLS 2026 (arXiv preprint)](https://arxiv.org/abs/2607.05412)
 STEM education faces challenges in personalization and interdisciplinary integration. AI technology has brought new possibilities, but the mechanisms by which AI reshapes the STEM education ecosystem require systematic investigation. This study employs bibliometric methods to analyze 242 publications from 2015-2025, constructing knowledge maps to reveal the evolutionary trajectory. The findings show that the field has transformed from intelligent tutoring systems to inquiry-based learning and computational thinking cultivation driven by LLMs. AI's key contribution lies in providing intelligent scaffolding that lowers the threshold for understanding knowledge. In this sense, AI is a core driving force promoting its shift from knowledge transmission to capability development.
 
 Bibliometric analysis of 242 STEM-education papers (2015-2025) shows the field shifted from classic intelligent tutoring systems toward LLM-driven inquiry-based learning and computational-thinking cultivation; AI's main value is intelligent scaffolding that lowers the knowledge threshold and moves STEM from knowledge transmission to capability development.
@@ -27,4 +25,4 @@ This work connects to core wiki themes: [[stem-education]] [[intelligent-tutorin
 
 ## Citation
 
-Chan, Chen, Hong, Song, Wang & Xu (2026). [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](https://arxiv.org/abs/2607.05412). arXiv:2607.05412. ISLS 2026 (arXiv preprint).
+Chan, Chen, Hong, Song, Wang & Xu (2026). Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda. arXiv:2607.05412. ISLS 2026 (arXiv preprint).
