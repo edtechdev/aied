@@ -7,9 +7,11 @@ tags: [adaptive-learning, assessment, engagement-metrics, learning-analytics, st
 sources: ["raw/papers/2605.08943.md"]
 confidence: high
 ---
+
 # Student Effort Measurement via Response-Time Propensities
 
-**Conrad Borchers, Lijin Zhang, Kexin Yang et al. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.08943)
+**Conrad Borchers, Lijin Zhang, Kexin Yang et al. (2026)** — Response-time analysis for student effort during problem solving.
+
 ## Key Findings
 
 Adaptive learning systems produce substantial learning gains, yet many students engage too briefly or superficially to benefit. This paper addresses the central challenge of **measuring student effort** during multi-step problem solving using response-time propensities.^[raw/papers/2605.08943.md]
@@ -33,4 +35,4 @@ The approach also relates to [[engagement-assessment-video]] and broader [[asses
 
 ## Citation
 
-Borchers, C., Zhang, L., Yang, K., Nagashima, T., & Domingue, B. W. (2026). Understanding student effort using response-time propensities during problem solving. arXiv:2605.08943.
+Borchers, C., Zhang, L., Yang, K., Nagashima, T., & Domingue, B. W. (2026). [Understanding student effort using response-time propensities during problem solving](https://arxiv.org/abs/2605.08943). arXiv:2605.08943.

@@ -7,11 +7,10 @@ tags: [agentic-ai, generative-ai, higher-ed, scaffolding, stem-education]
 sources: [raw/papers/2604.17460.md]
 confidence: medium
 ---
+
 # Agentic Education with AI Coding Assistants
 
 > Using agentic AI workflows (Claude Code) to teach AI coding tools — structured pedagogy for tool mastery.
-> **Source:** [Agentic Education with AI Coding Assistants](https://arxiv.org/abs/2604.17460)
-
 
 ## The Gap in AI Coding Education
 
@@ -57,7 +56,7 @@ This operationalizes [[agentic-workflows-education]] for a specific tool:
 
 ## Citation
 
-Naboulsi, A.Z. (2026). *Agentic Education with AI Coding Assistants*
+Naboulsi, A.Z. (2026). [*Agentic Education with AI Coding Assistants*](https://arxiv.org/abs/2604.17460)
 
 ## Related Pages
 - [[computational-thinking-ai-agent-creation]] — No-code agent creation vs. coding assistants for CT development

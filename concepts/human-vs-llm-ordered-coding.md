@@ -11,7 +11,7 @@ confidence: high
 # Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis
 
 **Authors:** Kamila Misiejuk, Sonsoles López-Pernas, Eduardo Araujo Oliveira, Brendan Eagan, Mohammed Saqr
-**Source:** [Computers and Education: AI, Vol 11](https://doi.org/10.1016/j.caeai.2026.100649) — Open Access (CC BY 4.0)
+**Source:** Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)
 
 ## Key Findings
 
@@ -19,7 +19,7 @@ Critical methodological paper on using LLMs for automated qualitative coding of 
 
 ## Citation
 
-Saqr, A.K.M.S.L.E.A.O.B.E.M., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). *Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis*
+Saqr, A.K.M.S.L.E.A.O.B.E.M., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis*](https://doi.org/10.1016/j.caeai.2026.100649)
 
 ## Related Pages
 

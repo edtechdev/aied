@@ -9,7 +9,8 @@ confidence: low
 ---
 # Toward a Metaphysics of Learning Analytics: Ontological Positioning
 
-**Takii (2026)** — [Author. Unknown institution](https://arxiv.org/abs/2606.06851)
+**Takii (2026)** — Author. Unknown institution.
+
 Attempts to establish a **metaphysical foundation** for Learning Analytics (LA) by addressing the ontological question of what LA fundamentally *is*. Despite 15 years of development since the first LAK conference, metaphysical discussions of LA have been sparse. The paper identifies eight agents (including learners) as ontological prerequisites for LA and uses the is/ought problem to argue that LA cannot derive normative claims from data alone.
 
 **Critical contribution:** Defines **norm-embedded LA** as a class of practices where LA's purpose (improving learning) is conflated with its operations (measuring behavior), creating an ontological tension. Challenges the field to clarify its identity from internal principles rather than external frameworks.
@@ -26,4 +27,4 @@ While speculative and lacking empirical validation (hence *low confidence*), the
 
 ## Citation
 
-Takii, K. (2026). Toward a Metaphysics of Learning Analytics: Ontological Positioning of Data, Inference, and Normativity. arXiv:2606.06851.
+Takii, K. (2026). Toward a Metaphysics of Learning Analytics: Ontological Positioning of Data, Inference, and Normativity. [arXiv:2606.06851](https://arxiv.org/abs/2606.06851).

@@ -7,9 +7,8 @@ tags: [intelligent-tutoring, multimodal, socratic-method, stem-education]
 sources: [raw/papers/syal-multimodal-dialogue-stem-2026.md]
 confidence: medium
 ---
-> **The Multimodal Interference Effect** describes a systemic accuracy drop when LLMs encounter image-rich STEM problems: from ~96% on text-only physics problems to ~74% on multimodal ones. A simple three-step structured dialogue intervention — eliciting visual descriptions, correcting observable misreadings without giving away physics, and re-prompting — corrects 82% of all errors and 100% of visual processing errors, restoring accuracy to 95%.
-> **Source:** [Multimodal Dialogue in STEM Education](https://arxiv.org/abs/2605.04131)
 
+> **The Multimodal Interference Effect** describes a systemic accuracy drop when LLMs encounter image-rich STEM problems: from ~96% on text-only physics problems to ~74% on multimodal ones. A simple three-step structured dialogue intervention — eliciting visual descriptions, correcting observable misreadings without giving away physics, and re-prompting — corrects 82% of all errors and 100% of visual processing errors, restoring accuracy to 95%.
 
 **Syal, Prince, Gultepe, Brown & Sridhar (2026)** · arXiv: 2605.04131
 
@@ -35,7 +34,7 @@ For deployment, this suggests a design pattern: AI tutoring interfaces for STEM 
 
 ## Citation
 
-tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). *Multimodal Dialogue in STEM Education*
+tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal Dialogue in STEM Education*](https://arxiv.org/abs/2605.04131)
 
 ## Related Pages
 

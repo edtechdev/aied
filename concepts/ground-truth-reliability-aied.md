@@ -7,9 +7,11 @@ tags: [benchmark, efficacy-study, learning-analytics, generative-ai, llm, automa
 sources: [raw/papers/2603.29141.md]
 confidence: high
 ---
+
 # Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
 
-**Thomas, Borchers, Vanacore, Koedinger & Kizilcec (2026)** — [CMU & Cornell. Accepted as full paper at AIED 2026](https://arxiv.org/abs/2603.29141)
+**Thomas, Borchers, Vanacore, Koedinger & Kizilcec (2026)** — CMU & Cornell. Accepted as full paper at AIED 2026.
+
 ## Core Argument
 
 The AIED community over-relies on **inter-rater reliability (IRR)** — typically a single Cohen's κ coefficient — as a mechanical gatekeeper for "ground truth." This practice is insufficient and potentially misleading for the complex, noisy realities of educational data. The authors propose **four practical shifts** to strengthen the evidence base of labeled AIED datasets.
@@ -106,4 +108,4 @@ This paper is a **methodological backbone** for much of the research in this wik
 
 ## Citation
 
-Thomas, D. R., Borchers, C., Vanacore, K. P., Koedinger, K. R., & Kizilcec, R. F. (2026). Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education. arXiv:2603.29141. Accepted to AIED 2026.
+Thomas, D. R., Borchers, C., Vanacore, K. P., Koedinger, K. R., & Kizilcec, R. F. (2026). [Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education](https://arxiv.org/abs/2603.29141). arXiv:2603.29141. Accepted to AIED 2026.

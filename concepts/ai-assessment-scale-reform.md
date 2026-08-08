@@ -7,9 +7,11 @@ tags: [higher-ed, assessment, academic-integrity, generative-ai, teacher-role, p
 sources: [raw/papers/2606.26729.md]
 confidence: high
 ---
+
 # "A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 
-**Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026)** — [arXiv cs.HC](https://arxiv.org/abs/2606.26729)📄 [PDF](https://arxiv.org/pdf/2606.26729)
+**Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026)** — arXiv cs.HC
+📄 [PDF](https://arxiv.org/pdf/2606.26729)
 
 This study examines the implementation of the Artificial Intelligence Assessment Scale (AIAS), a structured framework for redesigning [[assessment|university assessment]] in response to [[generative-ai|generative AI]]. Surveying 80 academic staff, the researchers found that while the framework's transparency and guidance were valued, implementation was hampered by departmental inconsistencies, workload pressures, and uncertainty about appropriate AI use levels.
 
@@ -28,4 +30,4 @@ The findings have implications for [[teacher-role|faculty development]] and [[po
 
 ## Citation
 
-Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026). 'A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform. arXiv:2606.26729. arXiv cs.HC.
+Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026). ['A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform](https://arxiv.org/abs/2606.26729). arXiv:2606.26729. arXiv cs.HC.

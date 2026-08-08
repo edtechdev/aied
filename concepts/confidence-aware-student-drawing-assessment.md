@@ -7,9 +7,11 @@ tags: [automated-grading, stem-education, formative-assessment, k-12, efficacy-s
 sources: [raw/papers/2606.20264.md]
 confidence: high
 ---
+
 # Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
 
-**Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai** (2026) . [arXiv cs.AI preprint](https://arxiv.org/abs/2606.20264)
+**Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai** (2026). arXiv cs.AI preprint
+
 ## Overview
 
 Vision Transformer (ViT) with LoRA adaptation for automated scoring of student-drawn scientific models on six NGSS-aligned middle school assessment items. A confidence-aware framework derives response-level confidence from test-time predictive distributions, enabling selective automation: high-confidence responses auto-scored, uncertain cases deferred for human review. Improves scoring reliability while supporting practical trade-off between automated coverage and scoring risk.
@@ -54,4 +56,4 @@ Vision Transformer (ViT) with LoRA adaptation for automated scoring of student-d
 
 ## Citation
 
-Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). Confidence-Aware Automated Assessment of Student-Drawn Scientific Models. arXiv:2606.20264. arXiv cs.AI preprint.
+Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). [Confidence-Aware Automated Assessment of Student-Drawn Scientific Models](https://arxiv.org/abs/2606.20264). arXiv:2606.20264. arXiv cs.AI preprint.

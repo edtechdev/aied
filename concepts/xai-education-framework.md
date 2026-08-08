@@ -7,10 +7,12 @@ tags: [intelligent-tutoring, learning-analytics, bias-mitigation, equity, privac
 sources: [raw/papers/khosravi-xai-education-2022.md]
 confidence: high
 ---
+
 # Explainable Artificial Intelligence in Education (XAI-ED)
 
-**Khosravi, Buckingham Shum, Chen, Conati, Tsai, Kay, Knight, Martinez-Maldonado, Sadiq & Gašević (2022)** — [DOI](https://doi.org/10.1016/j.caeai.2022.100074)
-📄 [DOI: 10.1016/j.caeai.2022.100074](https://doi.org/10.1016/j.caeai.2022.100074) | [PDF](raw/papers/khosravi-xai-education-2022.pdf)
+**Khosravi, Buckingham Shum, Chen, Conati, Tsai, Kay, Knight, Martinez-Maldonado, Sadiq & Gašević (2022)** — Computers and Education: Artificial Intelligence, 3, 100074.
+
+📄 DOI: 10.1016/j.caeai.2022.100074 | [PDF](raw/papers/khosravi-xai-education-2022.pdf)
 
 ## Core Contribution
 
@@ -93,4 +95,4 @@ The XAI-ED framework has become a foundational reference in AIED, cited across t
 
 ## Citation
 
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). Explainable Artificial Intelligence in education. *Computers and Education: Artificial Intelligence, 3*, 100074
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). Explainable Artificial Intelligence in education. [*Computers and Education: Artificial Intelligence, 3*](https://doi.org/10.1016/j.caeai.2022.100074), 100074

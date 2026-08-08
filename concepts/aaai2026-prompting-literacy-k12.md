@@ -7,9 +7,8 @@ tags: [ai-literacy, prompting-literacy, k-12, llm, ai-education, scenario-based-
 sources: [raw/papers/aaai2026-prompting-literacy-k12.md]
 confidence: high
 ---
-> **Synthesis:** An LLM-based interactive module teaches K-12 students prompting literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ended questions as more effective than MCQs for assessing prompting literacy.
-> **Source:** [Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module](https://doi.org/10.1609/aaai.v40i28.36924)
 
+> **Synthesis:** An LLM-based interactive module teaches K-12 students prompting literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ended questions as more effective than MCQs for assessing prompting literacy.
 
 # Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 
@@ -73,7 +72,7 @@ The study demonstrates that [[prompting-literacy]] can be taught effectively to 
 
 ## Citation
 
-Module, S.T.A.A.L., Koedinger1, K.R., Mellon, C., Hua, N.T., Model, T.A.T.N.W.D.A.L., reserved, I.A.R., & education, W.A.C.H.P.F.K. (2026). *Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module*
+Module, S.T.A.A.L., Koedinger1, K.R., Mellon, C., Hua, N.T., Model, T.A.T.N.W.D.A.L., reserved, I.A.R., & education, W.A.C.H.P.F.K. (2026). [*Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module*](https://doi.org/10.1609/aaai.v40i28.36924)
 
 ## Related Pages
 

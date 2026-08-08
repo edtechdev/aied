@@ -7,9 +7,11 @@ tags: [generative-ai, higher-ed, student-experience, llm, ai-literacy]
 sources: [raw/papers/2606.24104.md]
 confidence: high
 ---
+
 # The Impact of GenAI on Chinese HSS Students' Academic Development
 
-**Lei Fan and Fangxue Liu (2026)** — [arXiv preprint](https://arxiv.org/abs/2606.24104)
+**Lei Fan and Fangxue Liu (2026)** — Xi'an Jiaotong-Liverpool University, University of Liverpool. 
+
 This large-scale survey of humanities and social sciences (HSS) students in China examines how [[generative-ai]] reshapes academic development across four dimensions: usage patterns, effects on learning processes and performance, challenges, and preferred curricular integration approaches. Over half of respondents reported enhanced learning motivation, independent thinking, and creativity, though a substantial minority saw little change or decline. A larger majority reported academic performance gains, though the authors caution these may partly reflect limitations in conventional [[assessment]] practices.
 
 ## Key Findings
@@ -39,4 +41,4 @@ The study highlights the need for [[higher-ed]] institutions to develop nuanced 
 
 ## Citation
 
-Fan, L., & Liu, F. (2026). The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences. arXiv:2606.24104.
+Fan, L., & Liu, F. (2026). [The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences](https://arxiv.org/abs/2606.24104). arXiv:2606.24104.

@@ -7,9 +7,8 @@ tags: [agentic-ai, ai-ed-evaluation, benchmark]
 sources: [raw/papers/jeon-isd-agent-bench-2026.md]
 confidence: medium
 ---
-> **ISD-Agent-Bench** is a comprehensive benchmark for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate LLM-as-judge bias.
-> **Source:** [ISD Agent Benchmark](https://arxiv.org/abs/2602.10620)
 
+> **ISD-Agent-Bench** is a comprehensive benchmark for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate LLM-as-judge bias.
 
 **Authors:** YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee · arXiv:2602.10620 · 1,017 test scenarios
 
@@ -35,7 +34,7 @@ For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a me
 
 ## Citation
 
-|, C.D., |, S.F.A., |, C.M., |, P.M.L.F.D.P., |, T.R.R., reasoning, A.C.I.F.M.R., alignment, A.E.I.P.D.O., & bias, I.M.P.M.L. (2026). *ISD Agent Benchmark*
+|, C.D., |, S.F.A., |, C.M., |, P.M.L.F.D.P., |, T.R.R., reasoning, A.C.I.F.M.R., alignment, A.E.I.P.D.O., & bias, I.M.P.M.L. (2026). [*ISD Agent Benchmark*](https://arxiv.org/abs/2602.10620)
 
 ## Related Pages
 

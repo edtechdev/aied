@@ -7,9 +7,11 @@ tags: [intelligent-tutoring, scaffolding, active-learning, student-experience, t
 sources: [raw/papers/2606.15509.md]
 confidence: high
 ---
+
 # What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it
 
-**Mutlu Cukurova (2026)** — [arXiv preprint](https://arxiv.org/abs/2606.15509)
+**Mutlu Cukurova (2026)** — Handbook of AI and the Future of Education (forthcoming)  
+
 Asks what is gained and lost when 'collaboration' is applied freely to human-AI interaction. Argues true collaboration requires symmetric/negotiated relationship, shared goals, low and shifting division of labor, interactive exchange, and mutual modeling. Introduces a 5-level diagnostic taxonomy: Transactional, Situational, Operational, Praxical, and Synergistic. Only Synergistic satisfies full collaborative conditions. Most current human-AI interaction is consultation, governance, delegation, or instruction.
 
 ## Key Contributions
@@ -26,4 +28,4 @@ Asks what is gained and lost when 'collaboration' is applied freely to human-AI 
 
 ## Citation
 
-Mutlu Cukurova (2026). What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it. arXiv:2606.15509. Handbook of AI and the Future of Education (forthcoming).
+Mutlu Cukurova (2026). [What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it](https://arxiv.org/abs/2606.15509). arXiv:2606.15509. Handbook of AI and the Future of Education (forthcoming).

@@ -10,7 +10,7 @@ confidence: medium
 
 # Codify: An Intelligent Socratic Tutoring System for Programming Education
 
-**Allan Ilyasov, Giulio Bardelli, Sebastian Torres, Fazel Keshtkar (2026)** — St. John's University. *The International FLAIRS Conference Proceedings*, 39(1). DOI: [10.32473/flairs.39.1.141554](https://doi.org/10.32473/flairs.39.1.141554).
+**Allan Ilyasov, Giulio Bardelli, Sebastian Torres, Fazel Keshtkar (2026)** — St. John's University. *The International FLAIRS Conference Proceedings*, 39(1). DOI: 10.32473/flairs.39.1.141554.
 
 ## System Overview
 
@@ -56,4 +56,4 @@ Initial deployment in programming courses showed promising results for student e
 
 ## Citation
 
-Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelligent Socratic tutoring system for programming education. The International FLAIRS Conference Proceedings, *39*(1). https://doi.org/10.32473/flairs.39.1.141554
+Ilyasov, A., Bardelli, G., Torres, S., & Keshtkar, F. (2026). Codify: An intelligent Socratic tutoring system for programming education. [The International FLAIRS Conference Proceedings](https://doi.org/10.32473/flairs.39.1.141554), *39*(1). https://doi.org/10.32473/flairs.39.1.141554

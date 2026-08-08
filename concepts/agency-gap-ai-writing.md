@@ -7,9 +7,11 @@ tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equ
 sources: [raw/papers/caeai-2026-agency-gap-ai-writing.md]
 confidence: high
 ---
+
 # The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 
-**Yueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Gašević & Lixiang Yan (2026)** — [DOI](https://doi.org/10.1016/j.caeai.2026.100655)
+**Yueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Gašević & Lixiang Yan (2026)** — *Computers and Education: Artificial Intelligence* (Elsevier), Article in Press. Open Access, CC BY 4.0. doi:10.1016/j.caeai.2026.100655.
+
 ## Summary
 
 A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two multimodal analytical writing tasks (interpreting healthcare-simulation data visualisations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). GenAI literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalise AI-supported reasoning — neither an individual deficit nor a fixed property of the system.^[raw/papers/caeai-2026-agency-gap-ai-writing.md]
@@ -59,4 +61,4 @@ A randomized experiment (n = 79 medical/nursing students) examining how the **in
 
 ## Citation
 
-Jin, Y., Yang, K., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2026). The agency gap in AI-supported writing: How reactive and proactive agent designs shape multimodal reasoning. *Computers and Education: Artificial Intelligence*. Advance online publication
+Jin, Y., Yang, K., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2026). The agency gap in AI-supported writing: How reactive and proactive agent designs shape multimodal reasoning. [*Computers and Education: Artificial Intelligence*](https://doi.org/10.1016/j.caeai.2026.100655). Advance online publication

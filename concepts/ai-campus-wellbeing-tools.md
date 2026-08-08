@@ -7,9 +7,11 @@ tags: [higher-ed, llm, generative-ai, student-experience, affective-computing, e
 sources: [raw/papers/2605.10804.md]
 confidence: medium
 ---
+
 # AI-Driven Campus Well-being Tools
 
-**Tang (2026)** — [PhD Dissertation, University of Missouri](https://arxiv.org/abs/2605.10804)
+**Tang (2026)** — PhD Dissertation, University of Missouri.
+
 ## Synthesis
 
 This dissertation presents an integrated AI framework for campus well-being spanning prevention (improving feedback collection) and intervention (advancing mental health detection). It represents an important application of [[llm]] and [[generative-ai]] technologies to [[student-experience]] that extends beyond academic learning to holistic student support in [[higher-ed]].
@@ -34,4 +36,4 @@ The integrated framework — where adaptive survey insights flow into specialize
 
 ## Citation
 
-Tang, J. (2026). New AI-Driven Tools for Enhancing Campus Well-being: A Prevention and Intervention Approach [PhD Dissertation, University of Missouri]. arXiv:2605.10804.
+Tang, J. (2026). [New AI-Driven Tools for Enhancing Campus Well-being: A Prevention and Intervention Approach](https://arxiv.org/abs/2605.10804) [PhD Dissertation, University of Missouri]. arXiv:2605.10804.

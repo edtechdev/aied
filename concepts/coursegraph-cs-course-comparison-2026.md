@@ -7,9 +7,8 @@ tags: [cs-education, curriculum-design, edtech-platform, student-experience, hig
 sources: [raw/papers/2608.05910.md]
 confidence: medium
 ---
-> **Synthesis:** This paper presents CourseGraph, a methodology for automatically evaluating external course equivalences by modelling course content as structured knowledge graphs. Designed for student mobility programmes like Erasmus+, CourseGraph extracts topics from course descriptions, maps relationships between concepts, and identifies substantive overlap vs. complementarity between courses at different universities. The system mimics the manual workflow of curriculum advisors — analysing syllabi, comparing learning objectives, and flagging redundancies — but scales to thousands of course pairs. Evaluation on CS programmes across multiple European universities demonstrates that CourseGraph's overlap judgments align closely with expert advisor decisions while dramatically reducing processing time.
-> **Source:** [CourseGraph: Finding overlaps and differences in Computer Science courses across universities](https://arxiv.org/abs/2608.05910)
 
+> **Synthesis:** This paper presents CourseGraph, a methodology for automatically evaluating external course equivalences by modelling course content as structured knowledge graphs. Designed for student mobility programmes like Erasmus+, CourseGraph extracts topics from course descriptions, maps relationships between concepts, and identifies substantive overlap vs. complementarity between courses at different universities. The system mimics the manual workflow of curriculum advisors — analysing syllabi, comparing learning objectives, and flagging redundancies — but scales to thousands of course pairs. Evaluation on CS programmes across multiple European universities demonstrates that CourseGraph's overlap judgments align closely with expert advisor decisions while dramatically reducing processing time.
 
 # CourseGraph: Finding overlaps and differences in Computer Science courses across universities
 
@@ -37,4 +36,4 @@ This work connects to: [[cs-education]][[curriculum-design]][[instructional-desi
 
 ## Citation
 
-Nijdam, Arthur, Wagner, Paul Stankovski, & Ramezanian, Sara (2026). CourseGraph: Finding overlaps and differences in Computer Science courses across universities. arXiv:2608.05910.
+Nijdam, Arthur, Wagner, Paul Stankovski, & Ramezanian, Sara (2026). [CourseGraph: Finding overlaps and differences in Computer Science courses across universities](https://arxiv.org/abs/2608.05910). arXiv:2608.05910.

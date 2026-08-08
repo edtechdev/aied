@@ -7,11 +7,10 @@ tags: [edtech-platform, feedback-loop, formative-assessment, teacher-role, highe
 confidence: medium
 sources: [raw/papers/becerra-aicofe-feedback-2026.md]
 ---
+
 # AI Peer Feedback Systems
 
 > Student peer feedback is often superficial or inconsistent. **AICoFe** (AI-based Collaborative Feedback) uses a multi-LLM pipeline (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate diverse perspectives on student presentations, but the critical design feature is **teacher-in-the-loop mediation**—educators curate and compose final feedback before delivery.^[[becerra-aicofe-feedback-2026]]
-> **Source:** [AI Peer Feedback Systems](https://arxiv.org/abs/2605.04740)
-
 
 ## The Problem
 
@@ -75,7 +74,7 @@ AICoFe represents a **human-centered AI** paradigm for education: AI augments ra
 
 ## Citation
 
-Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). *AI Peer Feedback Systems*
+Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). [*AI Peer Feedback Systems*](https://arxiv.org/abs/2605.04740)
 
 ## Related Pages
 - [[mindcopilot-llm-co-writing]] — Hierarchical acceptance rates offer template for evaluating collaborative feedback

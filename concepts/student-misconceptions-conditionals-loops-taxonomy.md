@@ -8,9 +8,11 @@ sources:
   - raw/papers/2605.26966.md
 confidence: high
 ---
+
 # How Students (Mis)understand Conditionals and Loops -- A Taxonomy
 
-**Dimitri Eckert and Christian Kautz (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.26966)
+**Dimitri Eckert and Christian Kautz (2026)** — arXiv preprint.
+
 ## Overview
 
 This paper presents a fine-grained taxonomy categorizing novice programmers' difficulties with reading and understanding control flow constructs — specifically conditionals (selection) and loops (iteration). Developed through the Extended Taxonomy Design Process (ETDP), the taxonomy integrates prior research with new empirical data from student quizzes and interviews. It provides a harmonized framework for [[cs-education]] researchers to classify and analyze student errors systematically.
@@ -42,4 +44,4 @@ For educators, the taxonomy supports more precise diagnosis of student difficult
 
 ## Citation
 
-Eckert, D., & Kautz, C. (2026). How Students (Mis)understand Conditionals and Loops -- A Taxonomy. arXiv:2605.26966.
+Eckert, D., & Kautz, C. (2026). [How Students (Mis)understand Conditionals and Loops -- A Taxonomy](https://arxiv.org/abs/2605.26966). arXiv:2605.26966.

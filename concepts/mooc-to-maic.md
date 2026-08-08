@@ -7,14 +7,13 @@ tags: [llm, agentic-ai, multi-agent, mooc, online-education, personalized-learni
 sources: [raw/papers/2409.03512.md]
 confidence: high
 ---
-> **A new paradigm for online education replacing MOOCs with LLM-driven multi-agent AI classrooms**, piloted at Tsinghua University with 100K+ learning records from 500+ students. MAIC uses specialized agents (Teacher, Assistant, Classmate, Analyzer) to deliver personalized, adaptive learning at scale.
-> **Source:** [From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents](https://arxiv.org/abs/2409.03512)
 
+> **A new paradigm for online education replacing MOOCs with LLM-driven multi-agent AI classrooms**, piloted at Tsinghua University with 100K+ learning records from 500+ students. MAIC uses specialized agents (Teacher, Assistant, Classmate, Analyzer) to deliver personalized, adaptive learning at scale.
 
 ## From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 
 **Authors:** Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, et al. (33 authors, Tsinghua University)
-**ArXiv:** [2409.03512](https://arxiv.org/abs/2409.03512)
+**ArXiv:** 2409.03512
 **Submitted:** September 2024
 
 ### Overview
@@ -49,7 +48,7 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 
 ## Citation
 
-Teaching, F.M.T.M.R.O., Agents, A.L.T.L., Sun2∗, M.L.J.L.Z.L.H.L.M., Tsinghua, D.O.C.S.A.T., Inc, M., Course), I.I.T.C.W.P.M.A., & Tsinghua, P.E.A. (2026). *From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*
+Teaching, F.M.T.M.R.O., Agents, A.L.T.L., Sun2∗, M.L.J.L.Z.L.H.L.M., Tsinghua, D.O.C.S.A.T., Inc, M., Course), I.I.T.C.W.P.M.A., & Tsinghua, P.E.A. (2026). [*From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512)
 
 ## Related Pages
 

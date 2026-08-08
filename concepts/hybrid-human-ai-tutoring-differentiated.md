@@ -7,9 +7,11 @@ tags: [intelligent-tutoring, k-12, personalized-learning, efficacy-study, learni
 sources: [raw/papers/2605.11155.md]
 confidence: high
 ---
+
 # Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
 
-**Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger (2026)** — [Carnegie Mellon University & collaborators. EDM'26](https://arxiv.org/abs/2605.11155)
+**Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger (2026)** — Carnegie Mellon University & collaborators. EDM'26.
+
 ## Key Findings
 
 In a large-scale quasi-experiment with 635 students (grades 5-8), hybrid human-AI tutoring produced substantial gains over AI-only tutoring: +25% time on task, +36% skill proficiency, and +61% standardized academic growth.
@@ -36,4 +38,4 @@ This study extends the taxonomy in [[tutoring-specific-vs-general-ai]] by showin
 
 ## Citation
 
-Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs. Proceedings of the 19th International Conference on Educational Data Mining (EDM'26). arXiv:2605.11155.
+Gurung, A., Gao, G., Gutterman, J., Thomas, D. R., Gupta, S., Branstetter, L., Brunskill, E., Aleven, V., & Koedinger, K. R. (2026). [Improving hybrid human-AI tutoring by differentiating human tutor roles based on student needs](https://arxiv.org/abs/2605.11155). Proceedings of the 19th International Conference on Educational Data Mining (EDM'26). arXiv:2605.11155.

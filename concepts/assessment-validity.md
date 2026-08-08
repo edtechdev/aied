@@ -8,8 +8,6 @@ sources: [2601.06101]
 confidence: high
 ---
 > **Assessment validity** — whether an instrument measures what it claims — is under strain in AI education: [[ai-literacy]] self-reports overestimate actual skill (40% gap; r=0.31 self-report vs r=0.72 task-based), demanding task-based, construct-aligned designs ([[benchmark]], [[automated-grading]]).
-> **Source:** [Assessment Validity in AI Education](https://arxiv.org/abs/2601.06101)
-
 
 # Assessment Validity in AI Education
 
@@ -43,17 +41,11 @@ Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Bet
 
 ## Source
 
-- [https://arxiv.org/abs/2601.06101](https://arxiv.org/abs/2601.06101)
+- https://arxiv.org/abs/2601.06101
 
 ## Citation
 
-— whether an instrument measures what it claims — is under strain in AI education: [[ai-literacy]] self-reports overestimate actual skill (40% gap; r=0.31 self-report vs r=0.72 task-based), demanding task-based, construct-aligned designs ([[benchmark]], [[automated-grading]]).
-
-# Assessment Validity in AI Education
-
-## Synthesis
-
-Assessment validity—the degree to which an instrument measures what it claims to measure—is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revealed a. Assessment Validity in AI Education.
+[Assessment Validity in AI Education](https://arxiv.org/abs/2601.06101).
 
 ## Related Pages
 - [[authentic-products-authenticated-processes-2026]] — Authentic products vs. authenticated processes

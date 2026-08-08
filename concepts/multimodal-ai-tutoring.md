@@ -7,11 +7,10 @@ tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity]
 confidence: medium
 sources: [raw/papers/syal-multimodal-dialogue-stem-2026.md]
 ---
+
 # Multimodal AI Tutoring in STEM
 
 > General-purpose LLMs achieve near-ceiling accuracy (~96%) on text-only physics problems, but accuracy drops to **~74%** on image-rich multimodal problems due to the **Multimodal Interference Effect**. A simple structured dialogue intervention—requiring no retraining—recovers performance to **95%**.^[[syal-multimodal-dialogue-stem-2026]]
-> **Source:** [Multimodal AI Tutoring in STEM](https://arxiv.org/abs/2605.04131)
-
 
 ## The Multimodal Interference Effect
 
@@ -62,7 +61,7 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 
 ## Citation
 
-tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). *Multimodal AI Tutoring in STEM*
+tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal AI Tutoring in STEM*](https://arxiv.org/abs/2605.04131)
 
 ## Related Pages
 - [[llm-handwritten-math-grading]] — Demonstrates vision+LLM pipeline for authentic STEM assessment at scale

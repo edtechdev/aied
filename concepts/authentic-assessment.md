@@ -7,11 +7,10 @@ tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-
 confidence: high
 sources: [raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md]
 ---
+
 # Authentic Assessment
 
 > Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which threatens the validity of any task that can be replicated à la Wiggins (1990)—makes AA's broader forms essential. Zhan, Boud & Du (2025) propose a six-dimensional design model that centres student agency and social collaboration, directly relevant to how AI assessment tools should be designed.
-> **Source:** [Authentic Assessment](https://doi.org/10.1007/s10734-025-01588-9)
-
 
 ## The Evolution of Authenticity
 
@@ -89,7 +88,7 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 
 ## Citation
 
-Education, H., Du4, Y.Z.D.B.Z., 2025, R.D.A.N., Zhan, Y., Boud, D., Du, Z., & The, D.O.C.A.I.A.A.R.C. (2026). *Authentic Assessment*
+Education, H., Du4, Y.Z.D.B.Z., 2025, R.D.A.N., Zhan, Y., Boud, D., Du, Z., & The, D.O.C.A.I.A.A.R.C. (2026). [*Authentic Assessment*](https://doi.org/10.1007/s10734-025-01588-9)
 
 ## Related Pages
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: authentic assessment in an AI-mediated world

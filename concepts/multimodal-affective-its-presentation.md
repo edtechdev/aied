@@ -7,9 +7,11 @@ tags: [intelligent-tutoring, affective-computing, multimodal, higher-ed, profess
 sources: [raw/papers/2605.17468.md]
 confidence: high
 ---
+
 # An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
 
-**Suen, H.-Y., & Hung, K.-E. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.17468)
+**Suen, H.-Y., & Hung, K.-E. (2026)** — National Taiwan Normal University. IEEE Transactions on Learning Technologies.
+
 ## Key Finding
 Closed-loop ITS with multimodal affective scoring (facial, vocal, textual, oculomotor) produced significant presentation skill gains (Cohen's d = 0.39-0.90, N=204) over 30 days.
 
@@ -18,7 +20,7 @@ This paper presents one of the most comprehensive closed-loop [[intelligent-tuto
 
 ## Citation
 
-K.-E, A.S.H.H. & Technologies, V.I.T.O.L. (2026). *An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training*
+K.-E, A.S.H.H. & Technologies, V.I.T.O.L. (2026). [*An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training*](https://arxiv.org/abs/2605.17468)
 
 ## Related Pages
 - [[ai-enabled-serious-games]] — Complements multimodal ITS architectures with game-based training contexts

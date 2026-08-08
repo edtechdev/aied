@@ -17,23 +17,7 @@ The emphasis on bounded AI support — rather than open-ended tutoring — disti
 
 ## Citation
 
-The emphasis on bounded AI support — rather than open-ended tutoring — distinguishes this approach from systems like Khan Academy's Khanmigo and reflects pedagogical concerns about [[scaffolding]] versus answer-giving in K-12 AI tools.
-
-## Related Pages
-- [[knowledge-tracing-irt]] — Knowledge tracing models and IRT for student modeling
-- [[intelligent-tutoring]] — AI tutoring systems and adaptive instruction
-- [[learning-analytics]] — Data-driven analysis of learning processes
-- [[ai-literacy]] — Understanding and evaluating AI tools
-- [[student-modeling]] — Representing learner knowledge and behavior
-- [[cs-education]] — Computing education research and pedagogy
-- [[self-regulated-learning]] — Metacognitive strategies for independent learning
-- [[formative-assessment]] — Ongoing assessment to inform instruction
-- [[automated-grading]] — AI-assisted evaluation of student work
-- [[scaffolding]] — Instructional support that fades with competence
-
-## Citations
-
-**APA:** Misan Paul Etchie, Taiwo Olutosin (2026). [AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes](https://arxiv.org/abs/2606.07544).
+[AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes](https://arxiv.org/abs/2606.07544).
 
 ## Related Pages
 - [[knowledge-tracing-irt]] — Knowledge tracing models and IRT for student modeling

@@ -7,11 +7,10 @@ tags: [ai-literacy, higher-ed, k-12, policy-maker, active-learning, collaborativ
 confidence: medium
 sources: [raw/papers/hingle-collaborative-ai-literacy-2025.md, raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
 ---
+
 # AI Literacy
 
 > AI literacy — the knowledge and skills needed to understand, evaluate, and effectively use AI technologies — is increasingly recognized as a core competency. Collaborative learning approaches show consistent effectiveness across activities, settings, and learner groups, and the ICAP framework helps explain why.^[[hingle-collaborative-ai-literacy-2025]]
-> **Source:** [AI Literacy](https://arxiv.org/abs/2508.15111v1)
-
 
 ## The ICAP Framework
 
@@ -79,7 +78,7 @@ This framework complements the ICAP engagement hierarchy by adding **institution
 
 ## Citation
 
-Chi & Wylie (2014). AI Literacy.
+Chi & Wylie (2014). [AI Literacy](https://arxiv.org/abs/2508.15111v1).
 
 ## Related Pages
 - [[trust-reliance-ai-education-2026]] — AI literacy moderates trust-to-reliance

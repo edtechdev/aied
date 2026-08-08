@@ -7,9 +7,11 @@ tags: [ai-literacy, curriculum-design, equity, metacognition, stem-education]
 sources: ["raw/papers/2605.09624.md"]
 confidence: medium
 ---
+
 # AI-Powered Materials Discovery and AI Literacy
 
-**Dongming Mei, Katherine Moore, Ben Sayler (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.09624)
+**Dongming Mei, Katherine Moore, Ben Sayler (2026)** — Framework for integrating AI literacy with materials science education.
+
 ## Key Findings
 
 This paper presents a workflow-aligned framework for preparing students to use AI in materials discovery. The authors argue that in materials science, the limiting factor is no longer only algorithmic capability but **human-AI collaboration competence**. Students need to develop scientific judgment about when to trust AI predictions and how to integrate them into research workflows.^[raw/papers/2605.09624.md]
@@ -32,4 +34,4 @@ The framework also touches on [[metacognition]] — students need to develop jud
 
 ## Citation
 
-Mei, D., Moore, K., & Sayler, B. (2026). Preparing students for AI-powered materials discovery: A workflow-aligned framework for AI literacy, equity, and scientific judgment. arXiv:2605.09624.
+Mei, D., Moore, K., & Sayler, B. (2026). [Preparing students for AI-powered materials discovery: A workflow-aligned framework for AI literacy, equity, and scientific judgment](https://arxiv.org/abs/2605.09624). arXiv:2605.09624.
