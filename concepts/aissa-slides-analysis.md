@@ -7,10 +7,6 @@ tags: [automated-grading, learning-analytics, formative-assessment, higher-ed, l
 sources: ["raw/papers/2605.04729.md"]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2605.04729](https://arxiv.org/abs/2605.04729) · [local](raw/papers/2605.04729.md)
-
-
-
 
 # AISSA: AI Slides Analysis Tool
 

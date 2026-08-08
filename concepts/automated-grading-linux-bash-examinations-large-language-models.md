@@ -11,7 +11,6 @@ confidence: high
 # Automated Grading of Linux/Bash Examinations Using Large Language Models
 
 **Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira (2026)**
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.02432)
 
 This paper presents an [[llm]]-based grading system for Linux/bash command-line examinations, applying a four-level cognitive taxonomy to assess student work in programming courses. The system addresses the scalability challenge of rising enrolments by providing [[automated-grading]] that captures both partial correctness and conceptual understanding. The approach demonstrates high agreement with human graders, suggesting a viable path toward [[formative-assessment]] at scale. Results indicate that LLMs can evaluate command-line proficiency more nuancedly than traditional rule-based autograders, offering detailed [[ai-feedback-quality]] feedback for students.
 
@@ -29,4 +28,4 @@ This paper presents an [[llm]]-based grading system for Linux/bash command-line 
 
 ## Citation
 
-Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira (2026). *Automated Grading of Linux/Bash Examinations Using Large Language Models*. arXiv:2607.02432.
+Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira (2026). [Automated Grading of Linux/Bash Examinations Using Large Language Models](https://arxiv.org/abs/2607.02432). arXiv:2607.02432.

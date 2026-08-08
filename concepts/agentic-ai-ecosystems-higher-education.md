@@ -12,7 +12,6 @@ confidence: low
 
 Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence
 **Sudarshan et al. (2026)** — Multiple institutions. 50-page perspective paper.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.14266)
 
 ## Summary
 
@@ -43,6 +42,6 @@ The paper raises critical questions: Can agentic AI represent the **next generat
 - [[llm-educational-question-cognitive-depth]] -- LLM-generated educational questions show varying cognitive depth; models excel a...
 - [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
 
-
 ## Citation
-**APA:** Sudarshan, V. K., Sisodia, A., Ramachandra, R. A., Batra, S., & Leng Leng, J. C. (2026). *Agentic AI ecosystems in higher education: A perspective on AI agents to emerging inclusive, agentic multi-agent AI framework for learning, teaching and institutional intelligence*. arXiv:2605.14266.
+
+Sudarshan, V. K., Sisodia, A., Ramachandra, R. A., Batra, S., & Leng Leng, J. C. (2026). [Agentic AI ecosystems in higher education: A perspective on AI agents to emerging inclusive, agentic multi-agent AI framework for learning, teaching and institutional intelligence](https://arxiv.org/abs/2605.14266). arXiv:2605.14266.

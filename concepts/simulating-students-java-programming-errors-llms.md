@@ -11,7 +11,6 @@ confidence: high
 # Simulating Students' Java Programming Errors with Large Language Models
 
 **Keramati, Cao, Mohammadi, Warschauer & Shi (2026)** — University of California, Irvine.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.14113)
 
 ## Summary
 
@@ -43,4 +42,4 @@ This work extends research on [[llm-student-simulation-misconception-faithfulnes
 
 ## Citation
 
-Keramati, A., Cao, J., Mohammadi, I., Warschauer, M., & Shi, Y. (2026). *Simulating Students' Java Programming Errors with Large Language Models*. arXiv:2606.14113.
+Keramati, A., Cao, J., Mohammadi, I., Warschauer, M., & Shi, Y. (2026). [Simulating Students' Java Programming Errors with Large Language Models](https://arxiv.org/abs/2606.14113). arXiv:2606.14113.

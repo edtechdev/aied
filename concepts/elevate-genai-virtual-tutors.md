@@ -11,7 +11,6 @@ confidence: high
 # ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
 
 **Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni** — submitted 17 Jun 2026
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.30662)
 
 ELEVATE framework deploys GenAI-driven 3D avatar tutors on consumer-grade hardware with local-first execution model, emphasizing privacy, teacher governance, and equity in K-12 education.
 
@@ -32,4 +31,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni (2026). *ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education*. arXiv:2606.30662. submitted 17 Jun 2026
+Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni (2026). [ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education](https://arxiv.org/abs/2606.30662). arXiv:2606.30662. submitted 17 Jun 2026

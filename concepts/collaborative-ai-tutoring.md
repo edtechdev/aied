@@ -7,10 +7,6 @@ tags: [intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formativ
 confidence: medium
 sources: [raw/papers/golrang-propact-pair-programming-2026.md]
 ---
-> 📄 Full text: [arXiv:2605.02703](https://arxiv.org/abs/2605.02703) · [local](raw/papers/golrang-propact-pair-programming-2026.md)
-
-
-
 
 # Collaborative AI Tutoring
 
@@ -96,6 +92,3 @@ Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |
 - [[student-perception-ai-use-collaboration]] -- Misalignment in partners' beliefs about each other's AI use early in a project predicts lower final scores — especially for low-performing teams — and face-to-face sessions don't fix it.
 - [[icap-cognitive-engagement-llm-agents]]
 - [[oecd-digital-education-outlook-2026]]
-
-## Sources
-- Golrang et al. (2026). *ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming*. arXiv:2605.02703. [PDF](https://arxiv.org/pdf/2605.02703)

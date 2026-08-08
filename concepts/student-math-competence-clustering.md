@@ -12,8 +12,6 @@ confidence: high
 
 **Mawdsley et al. (2026)** — arXiv preprint.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.26063)
-
 On 119,034 students across 13 UK national exams, Bernoulli Mixture Models found few distinct skill clusters — overall ability dominates. A simple explainable model achieved 78% accuracy, competitive with complex approaches. Small personalization gains are possible by accounting for individual question-level strengths, but students don't develop strongly divergent ability profiles across topics.
 
 **Relevance to AI in Education:** This paper contributes to the understanding of [[llm-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
@@ -29,4 +27,5 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[knowledge-tracing]] — related concept
 
 ## Citation
-**APA:** Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, Paul Edwards (2026). *Archetypes or ability? Clustering for modelling student mathematical competence*. arXiv:2607.26063. arXiv preprint.
+
+Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, Paul Edwards (2026). [Archetypes or ability? Clustering for modelling student mathematical competence](https://arxiv.org/abs/2607.26063). arXiv:2607.26063. arXiv preprint.

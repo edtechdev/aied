@@ -13,7 +13,6 @@ confidence: high
 # EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
 
 **Junyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh** — arXiv (cs.CY / cs.AI) preprint, 2026 (KAIST, Google Cloud AI Research, NYU).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.02024)
 
 ## Synthesis
 
@@ -36,4 +35,4 @@ Results show greater vulnerability to education-specific risks and dynamic multi
 
 ## Citation
 
-Junyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh (2026). EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers. arXiv:2608.02024. arXiv (cs.CY / cs.AI) preprint.
+Junyeong Park, Jieun Han, Haneul Yoo, So-Yeon Ahn, Jinsung Yoon, Alice Oh (2026). [EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers](https://arxiv.org/abs/2608.02024). arXiv:2608.02024. arXiv (cs.CY / cs.AI) preprint.

@@ -13,7 +13,6 @@ confidence: high
 # Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias
 
 **Baicheng Lin, Lingxi Jin, Kyung-Seok Min** — arXiv (cs.HC / cs.SD) preprint, 2026 (Sejong University, Ewha Womans University).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.01783)
 
 ## Synthesis
 
@@ -38,4 +37,4 @@ Operational use requires strategy-specific calibration, dimension-level validati
 
 ## Citation
 
-Baicheng Lin, Lingxi Jin, Kyung-Seok Min (2026). Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias. arXiv:2608.01783. arXiv (cs.HC / cs.SD) preprint.
+Baicheng Lin, Lingxi Jin, Kyung-Seok Min (2026). [Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias](https://arxiv.org/abs/2608.01783). arXiv:2608.01783. arXiv (cs.HC / cs.SD) preprint.

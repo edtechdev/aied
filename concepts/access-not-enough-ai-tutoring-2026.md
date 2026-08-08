@@ -8,8 +8,6 @@ sources: [raw/papers/access-not-enough-ai-tutoring-2026.md]
 confidence: high
 ---
 
-> 📄 Full text: [EdWorkingPaper 26-1451](https://doi.org/10.26300/pz7p-p388) · [local](raw/papers/access-not-enough-ai-tutoring-2026.md)
-
 # Access is Not Enough
 
 > Robinson, Gormley, Ribeiro & Loeb (2026) ran two RCTs showing that AI tutoring's binding constraint is **take-up, not capability**: despite dedicated session time, nearly half of students never used the platform and users averaged only 2–5 minutes per week. An in-person engagement tutor (not direct instruction) raised usage by 1–4 minutes/week and engagement by 71–80% — but dosage stayed far below the level needed for reading gains, and achievement did not improve.
@@ -55,5 +53,6 @@ confidence: high
 - [[learner-ai-interaction-patterns-oop]] — measuring real usage patterns
 - [[beyond-detection-authentic-assessment-ai-2025]] — engagement must be designed, not assumed
 
-## Sources
+## Citation
+
 - Robinson, C. D., Gormley, D., Trindade Ribeiro, A., & Loeb, S. (2026). Access is Not Enough: Human Support Improves Engagement with AI Tutoring. EdWorkingPaper No. 26-1451, Annenberg Institute at Brown University. [DOI](https://doi.org/10.26300/pz7p-p388)

@@ -11,7 +11,6 @@ confidence: high
 # Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation
 
 **Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026)**
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.02361)
 
 Data comics combine sequential visual narratives with data visualization to improve student engagement with [[ai-generated-content]] in educational settings. This paper evaluates the effectiveness of AI-assisted creation of data comics, finding that they significantly enhance student engagement and comprehension compared to traditional visualization formats. The study also examines ethical dimensions including authorship attribution of AI-produced content, accuracy of generated visuals, and the risk of misleading representations. These findings have direct implications for [[k-12]] education, where [[active-learning]] approaches benefit from engaging visual materials.
 
@@ -29,4 +28,4 @@ Data comics combine sequential visual narratives with data visualization to impr
 
 ## Citation
 
-Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026). *Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation*. arXiv:2607.02361.
+Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026). [Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation](https://arxiv.org/abs/2607.02361). arXiv:2607.02361.

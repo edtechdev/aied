@@ -7,10 +7,6 @@ tags: [adaptive-learning, higher-ed, intelligent-tutoring, knowledge-tracing, st
 sources: [raw/papers/2604.24807.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2604.24807](https://arxiv.org/abs/2604.24807) · [local](raw/papers/2604.24807.md)
-
-
-
 
 # Quantum Education Intelligent Tutoring
 
@@ -65,6 +61,3 @@ Chrisochoides, A.I.E.N. (2026). [*Quantum Education Intelligent Tutoring*](https
 - [[multimodal-ai-tutoring]] — STEM visualization and multimodal scaffolding
 - [[tutoring-specific-vs-general-ai]] — Domain-specific vs. general-purpose tutoring design
 - [[stem-education]] — *(stub — create when second source emerges)*
-
-## Sources
-- Elhaimeur & Chrisochoides (2026). *From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education*. arXiv:2604.24807. [PDF](https://arxiv.org/pdf/2604.24807)

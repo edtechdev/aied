@@ -12,8 +12,6 @@ confidence: high
 
 **Ahmad D. Suleiman, Jan DeWaters, David C. Shepherd, Turgay Korkmaz, Faraz Hussain, Yu Liu, Daqing Hou (2026)** — arXiv preprint.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.11129)
-
 Presents FORAP (Framework for Organizing Reusable and Adaptable Project-Based Learning projects) and a portfolio of 14 adoption-ready PjBL packages for computing education. The framework addresses the gap between PjBL's known benefits and its slow classroom adoption by making projects reusable, adaptable, and scalable across contexts.
 
 Anchors in [[project-based-learning]] and [[active-learning]] practice for [[k-12]] and [[higher-ed]], connecting to [[cs-education]] and [[stem-education]] implementation. It complements [[scaffolding]] approaches by providing structures teachers can adopt without rebuilding from scratch, lowering barriers to [[teacher-role]] adoption of hands-on computing pedagogy.
@@ -27,4 +25,5 @@ Anchors in [[project-based-learning]] and [[active-learning]] practice for [[k-1
 - [[teacher-role]] — Teacher adoption barriers
 
 ## Citation
-**APA:** Ahmad D. Suleiman, Jan DeWaters, David C. Shepherd, Turgay Korkmaz, Faraz Hussain, Yu Liu, Daqing Hou (2026). *Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio*. arXiv:2607.11129. arXiv preprint.
+
+Ahmad D. Suleiman, Jan DeWaters, David C. Shepherd, Turgay Korkmaz, Faraz Hussain, Yu Liu, Daqing Hou (2026). [Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio](https://arxiv.org/abs/2607.11129). arXiv:2607.11129. arXiv preprint.

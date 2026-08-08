@@ -13,8 +13,6 @@ confidence: high
 
 **Anas H. Alzahrani (2026)** — arXiv preprint.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.26870)
-
 ## Overview
 
 This is the first empirical study of what happens when AI agents are embedded **persistently** in a real academic research environment — with durable memory, local files, external tools, scheduled routines, delegated roles, and explicit safety protocols. Over 96 active days (January 31 to May 25, 2026), the researcher-agent ecosystem generated 75,671 de-duplicated telemetry records, 23,710 assistant messages, and 73.95 million tokens (82.9% cache reads). The study introduces **PARE-M** (Persistent Agentic Research Environment Measurement), a framework covering architecture, utilization, artifact production, resource use, reproducibility, and governance.
@@ -48,4 +46,4 @@ PARE-M provides six measurement dimensions that could be adapted for [[learning-
 
 ## Citation
 
-Alzahrani, A. H. (2026). *Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study*. arXiv:2605.26870.
+Alzahrani, A. H. (2026). [Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study](https://arxiv.org/abs/2605.26870). arXiv:2605.26870.

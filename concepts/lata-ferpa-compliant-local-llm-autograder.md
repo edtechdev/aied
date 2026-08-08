@@ -12,7 +12,6 @@ confidence: high
 
 LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
 **Rodríguez (2026)** — Oregon State University. Submitted to Computers & Education.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.05410)
 
 ## Summary
 
@@ -50,4 +49,5 @@ LaTA's success connects to the broader [[stem-education]] and [[higher-ed]] land
 - [[short-answer-scoring-quality-degradation]] — Quality issues in automated scoring
 
 ## Citation
-**APA:** Rodríguez, J. A. (2026). *LaTA: A drop-in, FERPA-compliant local-LLM autograder for upper-division STEM coursework*. arXiv:2605.05410. Submitted to Computers & Education.
+
+Rodríguez, J. A. (2026). [LaTA: A drop-in, FERPA-compliant local-LLM autograder for upper-division STEM coursework](https://arxiv.org/abs/2605.05410). arXiv:2605.05410. Submitted to Computers & Education.

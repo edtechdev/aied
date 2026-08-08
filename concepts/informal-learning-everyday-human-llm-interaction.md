@@ -10,7 +10,6 @@ confidence: high
 
 # Informal Learning Emerges in Everyday Human-LLM Interaction
 **Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026)** — arXiv preprint. arXiv:2607.17643 [cs.HC].
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.17643)
 
 As LLMs take over task execution, a central worry is that everyday AI use becomes cognitive offloading that erodes people's own capability development. This study analyses 128,569 naturalistic human-LLM conversations, translating learning-science constructs into turn-level behavioural signatures to test whether informal learning actually emerges in routine use.
 
@@ -26,4 +25,5 @@ The authors find that users do engage in learning-supporting behaviours — cogn
 - [[conversational-ai-informal-learning]]
 
 ## Citation
-**APA:** Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026). *Informal Learning Emerges in Everyday Human-LLM Interaction*. arXiv:2607.17643. arXiv:2607.17643 [cs.HC].
+
+Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026). [Informal Learning Emerges in Everyday Human-LLM Interaction](https://arxiv.org/abs/2607.17643). arXiv:2607.17643. arXiv:2607.17643 [cs.HC].

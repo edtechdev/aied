@@ -10,7 +10,6 @@ confidence: high
 
 # Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision
 **Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, et al. (2026)** — arXiv preprint. arXiv:2607.18598 [cs.HC].
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.18598)
 
 Bowed string performance depends on fine bodily coordination usually taught through visual demonstration, creating persistent barriers for musicians with blindness and low-vision (BLV). This design study worked with four advanced BLV string musicians and three instructors using practice-video analysis, lesson observation, and expert reflection to surface embodied, non-visual learning strategies.
 
@@ -25,4 +24,5 @@ The work extends [[special-education]] and [[special-education-ai]] by centring 
 - [[higher-ed]] — related AIED work
 
 ## Citation
-**APA:** Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, et al. (2026). *Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision*. arXiv:2607.18598. arXiv:2607.18598 [cs.HC].
+
+Shi Shi, Lingyun Chen, Zitao Zhang, Amanda R. Draper, et al. (2026). [Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision](https://arxiv.org/abs/2607.18598). arXiv:2607.18598. arXiv:2607.18598 [cs.HC].

@@ -11,7 +11,6 @@ confidence: high
 # Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
 
 **Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, Sampath Jayarathna** — IEEE IRI 2026, submitted 1 Jul 2026
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.01214)
 
 Three-layer JavaScript pipeline (1500 lines) generates tactile 3D-printed statistical graphs for blind/low-vision students in under 250ms, with optional LLM-based chart extraction from images.
 
@@ -33,4 +32,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, Sampath Jayarathna (2026). *Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education*. arXiv:2607.01214. IEEE IRI 2026, submitted 1 Jul 2026
+Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, Sampath Jayarathna (2026). [Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education](https://arxiv.org/abs/2607.01214). arXiv:2607.01214. IEEE IRI 2026, submitted 1 Jul 2026

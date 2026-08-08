@@ -10,7 +10,6 @@ confidence: high
 # LLM-Generated Feedback in Introductory Programming: A Classroom Study
 
 **Heickal & Lan (2026)** — University of Massachusetts Amherst.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.08807)
 
 Presents a **large-scale classroom study** (N=215 students, 6,693 submissions across 17 labs) deploying AI-generated feedback through a randomized protocol in an introductory Python programming course. Students received one of three conditions: natural language hints, AI-generated failing test cases, or no AI feedback (control). The resulting dataset, **ProgFeed**, captures fine-grained temporal learning trajectories.
 
@@ -30,4 +29,5 @@ This study provides one of the largest empirical validations of LLM-based [[feed
 - [[code-gen]]
 
 ## Citation
-**APA:** Heickal, H., & Lan, A. (2026). A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming. *arXiv:2606.08807*. Accepted at IRAISE 2026.
+
+Heickal, H., & Lan, A. (2026). A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming. [arXiv:2606.08807](https://arxiv.org/abs/2606.08807). Accepted at IRAISE 2026.

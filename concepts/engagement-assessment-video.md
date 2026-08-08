@@ -7,10 +7,6 @@ tags: [adaptive-learning, learning-analytics, affective-computing, higher-ed, fe
 sources: [raw/papers/2605.01238.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2605.01238](https://arxiv.org/abs/2605.01238) · [local](raw/papers/2605.01238.md)
-
-
-
 
 # Engagement Assessment in Video Learning
 
@@ -74,6 +70,3 @@ al, A.Z.L.E.E.Y.S.E. (2026). [*Engagement Assessment in Video Learning*](https:/
 - [[epistemic-emotions-collaborative-problem-solving]] — Ordered Network Analysis reveals structured persistence and transition patterns of confusion and fru
 - [[adhd-video-segmentation-computing-education]] — Automatically segmenting instructional videos into single-instruction chunks with pauses equalizes p
 - [[savvy-student-attention-video-learning]]
-
-## Sources
-- Leng et al. (2026). *EduGage: Methods and Dataset for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning*. arXiv:2605.01238. [PDF](https://arxiv.org/pdf/2605.01238)

@@ -11,7 +11,6 @@ confidence: high
 # Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
 
 **Micallef & Petrovska (2026)** — University of Malta.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.13389)
 
 As [[generative-ai]] disrupts [[higher-ed]], institutions increasingly require students to declare AI use. However, generic binary declarations (e.g., "I used GenAI") fail to capture the nuanced application of these tools across different academic tasks. Micallef & Petrovska argue that establishing transparency is key to protecting [[academic-integrity]], promoting [[ai-literacy]], and shifting the focus from policing to professional practice.
 
@@ -28,4 +27,5 @@ This domain-specific approach is proposed as a foundation for fostering more hon
 - [[ai-higher-ed-bridge-gap]] — Bridging AI adoption gaps in higher education
 
 ## Citation
-**APA:** Micallef, N., & Petrovska, O. (2026). Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education. arXiv:2606.13389.
+
+Micallef, N., & Petrovska, O. (2026). [Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education](https://arxiv.org/abs/2606.13389). arXiv:2606.13389.

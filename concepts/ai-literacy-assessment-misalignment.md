@@ -31,6 +31,10 @@ Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Bet
 
 - [https://arxiv.org/abs/2601.06101](https://arxiv.org/abs/2601.06101)
 
+## Citation
+
+Zhang, S., Xiao, R., et al. (2026). ['AI Literacy Assessment: Self-Reported vs Performance Misalignment'](https://arxiv.org/abs/2601.06101).
+
 ## Related Pages
 - [[critical-genai-use-predictors]] — Self-reported vs objective knowledge both predict critical use
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)

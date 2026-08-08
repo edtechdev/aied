@@ -14,8 +14,6 @@ confidence: medium
 
 **Bertoli et al. (2026)** — arXiv. arXiv:2608.06166.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.06166)
-
 ## Summary
 
 The article reports on a blind Turing Test experiment, assessing the performance of out-of-the-box leading LLMs on three Italian legal professional exams: the Bar, Judges and Notary exams. Leading LLMs were asked to generate full written exam papers, which were made indistinguishable from human submissions and anonymously evaluated by expert examiners, using the same criteria applied in real examinations. Results reveal marked differences across both models and tasks. While some LLMs match or exceed top human performance in adversarial legal argumentation and doctrinal analysis, all models fail in the notary exam, which requires goal-directed legal planning under strict formal and substantive constraints. Beyond ranking models, the study identifies task-specific strengths, limitations and 
@@ -38,4 +36,4 @@ This work connects to: [[llm]][[assessment]][[professional-training]][[ai-ed-eva
 
 ## Citation
 
-**APA:** Bertoli, Germana et al. (2026). *What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries*. arXiv:2608.06166.
+Bertoli, Germana et al. (2026). [What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries](https://arxiv.org/abs/2608.06166). arXiv:2608.06166.

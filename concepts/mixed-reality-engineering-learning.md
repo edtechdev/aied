@@ -11,7 +11,6 @@ confidence: medium
 # Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
 
 **Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman** — submitted 1 Jul 2026
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.00979)
 
 User study with 24 participants comparing classroom instruction, mixed-reality apps, and physical toolkits for Engineering Mechanics reveals multimodal learning improves engagement but complex visualizations remain challenging.
 
@@ -31,4 +30,4 @@ This paper contributes to the growing body of research on AI applications in edu
 
 ## Citation
 
-Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman (2026). *Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning*. arXiv:2607.00979. submitted 1 Jul 2026
+Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman (2026). [Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning](https://arxiv.org/abs/2607.00979). arXiv:2607.00979. submitted 1 Jul 2026

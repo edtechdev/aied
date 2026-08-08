@@ -7,10 +7,6 @@ tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-
 confidence: high
 sources: [raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md]
 ---
-> 📄 Full text: [Springer](https://link.springer.com/article/10.1007/s10734-025-01588-9) · [local](raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md)
-
-
-
 
 # Authentic Assessment
 
@@ -119,6 +115,3 @@ Education, H., Du4, Y.Z.D.B.Z., 2025, R.D.A.N., Zhan, Y., Boud, D., Du, Z., & Th
 - [[cognitive-load-theory]] — *(create when second source emerges)*
 - [[zone-of-proximal-development]] — *(create when second source emerges)*
 - [[student-cheat-sheets-make-or-take]] — Students choose between self-created and instructor-provided cheat sheets based on trust, personaliz
-
-## Sources
-- Zhan, Y., Boud, D., & Du, Z. (2025). Designing for authentic assessment: a scoping review. *Higher Education*. Springer Nature. [DOI](https://doi.org/10.1007/s10734-025-01588-9)

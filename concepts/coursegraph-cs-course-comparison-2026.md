@@ -14,8 +14,6 @@ confidence: medium
 
 **Nijdam et al. (2026)** — arXiv. arXiv:2608.05910.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.05910)
-
 ## Summary
 
 Student mobility programs such as Erasmus+ enable students to take courses at other universities, broadening their academic and cultural horizons. However, this flexibility also leads to a practical challenge: ensuring that students do not take courses elsewhere that substantially overlap with courses in their home curriculum. In this work, we propose CourseGraph, a methodology that automates the evaluation of external courses based on insights obtained from the process followed by curriculum administrators when assessing courses for inclusion in a degree program. Course- Graph extracts information such as course titles, descriptions, and learning outcomes from the course webpage. Then, this information is represented semantically using a BERT-based language model, after which the pair-wis
@@ -38,4 +36,4 @@ This work connects to: [[cs-education]][[curriculum-design]][[instructional-desi
 
 ## Citation
 
-**APA:** Nijdam, Arthur, Wagner, Paul Stankovski, & Ramezanian, Sara (2026). *CourseGraph: Finding overlaps and differences in Computer Science courses across universities*. arXiv:2608.05910.
+Nijdam, Arthur, Wagner, Paul Stankovski, & Ramezanian, Sara (2026). [CourseGraph: Finding overlaps and differences in Computer Science courses across universities](https://arxiv.org/abs/2608.05910). arXiv:2608.05910.

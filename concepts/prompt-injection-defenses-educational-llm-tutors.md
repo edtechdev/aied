@@ -12,7 +12,6 @@ confidence: medium
 
 Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs
 **Maiorano (2026)** — arXiv cs.CR/cs.AI.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.06669)
 
 ## Summary
 
@@ -45,4 +44,5 @@ The paper highlights that **educational settings have unique requirements**: fal
 - [[vetting-dual-llm-safety-education]]
 
 ## Citation
-**APA:** Maiorano, A. C. (2026). *Evaluating prompt injection defenses for educational LLM tutors: Security-usability-latency trade-offs*. arXiv:2605.06669.
+
+Maiorano, A. C. (2026). [Evaluating prompt injection defenses for educational LLM tutors: Security-usability-latency trade-offs](https://arxiv.org/abs/2605.06669). arXiv:2605.06669.

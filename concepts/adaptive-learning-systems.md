@@ -7,10 +7,6 @@ tags: [adaptive-learning, intelligent-tutoring, personalized-learning, architect
 sources: [raw/papers/ma-deeptutor-agentic-personalized-tutoring-2026.md, raw/papers/yu-maic-mooc-llm-agents-2024.md, raw/papers/chudziak-ai-math-tutoring-platform-2025.md]
 confidence: medium
 ---
-> 📄 Full text: [arXiv:2604.26962](https://arxiv.org/abs/2604.26962) · [local](raw/papers/ma-deeptutor-agentic-personalized-tutoring-2026.md) · [arXiv:2409.03512](https://arxiv.org/abs/2409.03512) · [local](raw/papers/yu-maic-mooc-llm-agents-2024.md) · [arXiv:2507.12484](https://arxiv.org/abs/2507.12484v1) · [local](raw/papers/chudziak-ai-math-tutoring-platform-2025.md)
-
-
-
 
 # Adaptive Learning Systems
 
@@ -81,8 +77,6 @@ The platform enables **modular, tool-assisted learning**: students learn new top
 - [[learnmate2-llm-adaptive-learning]] — Integrated system with PlanMate, StudyMate, AdaptMate components
 - [[k-12-ai-education]] — K-12 adaptive platforms
 
-
-
 - [[quantum-education-its]] — Knowledge-graph augmented ITS for quantum computing education
 
 - [[neural-symbolic-knowledge-tracing]] — Interpretable learner models for adaptivity
@@ -98,8 +92,3 @@ The platform enables **modular, tool-assisted learning**: students learn new top
 - [[adapt-adaptive-lesson-plan-transformer]] -- AdaPT uses transformers to adapt lesson plans across regional and differentiated...
 - [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
 
-
-## Sources
-- Ma et al. (2026). *DeepTutor: Towards Agentic Personalized Tutoring*. arXiv:2604.26962. [PDF](https://arxiv.org/pdf/2604.26962)
-- Yu et al. (2024). *From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*. arXiv:2409.03512. [PDF](https://arxiv.org/pdf/2409.03512)
-- Chudziak, J. A. & Kostka, A. (2025). *AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education*. arXiv:2507.12484v1. [PDF](https://arxiv.org/pdf/2507.12484v1)

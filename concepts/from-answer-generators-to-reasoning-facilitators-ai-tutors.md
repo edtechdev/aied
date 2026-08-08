@@ -11,7 +11,6 @@ confidence: high
 # From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
 
 **Yuming Feng, Yuan Tian, Erica Zhao (2026)**
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.01692)
 
 The rapid integration of [[llm]]s into [[intelligent-tutoring]] threatens to reduce mathematical learning to mere answer generation. This paper presents a design framework for AI tutors that act as reasoning facilitators rather than answer generators, specifically targeting high-stakes exam preparation environments. Through usability studies, the authors demonstrate that [[scaffolding]] approaches — where the AI guides students through reasoning steps without providing final answers — yield superior learning outcomes. The framework provides concrete guidelines for designing [[student-ai-interaction]] patterns that prioritize deep understanding over superficial completion in [[higher-ed]] mathematics.
 
@@ -29,4 +28,4 @@ The rapid integration of [[llm]]s into [[intelligent-tutoring]] threatens to red
 
 ## Citation
 
-Yuming Feng, Yuan Tian, Erica Zhao (2026). *From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments*. arXiv:2607.01692.
+Yuming Feng, Yuan Tian, Erica Zhao (2026). [From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments](https://arxiv.org/abs/2607.01692). arXiv:2607.01692.

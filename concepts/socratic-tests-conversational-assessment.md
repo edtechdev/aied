@@ -11,7 +11,6 @@ confidence: high
 # The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
 
 **Ilya Mikhelson** — Submitted to Computers and Education: Artificial Intelligence (2026).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.29624)
 
 ## Synthesis
 
@@ -36,4 +35,4 @@ A stated goal is human-AI alignment for measurement reliability: the conversatio
 
 ## Citation
 
-Mikhelson, I. (2026). The theoretical foundation of Socratic tests: Dynamic, multimodal, conversational examinations. arXiv:2607.29624.
+Mikhelson, I. (2026). [The theoretical foundation of Socratic tests: Dynamic, multimodal, conversational examinations](https://arxiv.org/abs/2607.29624). arXiv:2607.29624.

@@ -7,10 +7,6 @@ tags: [intelligent-tutoring, scaffolding, active-learning, higher-ed, stem-educa
 confidence: medium
 sources: [raw/papers/hashmi-socratic-physics-chatbot-2025.md, raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md]
 ---
-> 📄 Full text: [arXiv:2508.14778](https://arxiv.org/abs/2508.14778v1) · [local](raw/papers/hashmi-socratic-physics-chatbot-2025.md) · [arXiv:2507.06878](https://arxiv.org/abs/2507.06878) · [local](raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md)
-
-
-
 
 # Socratic AI Dialogue
 
@@ -72,6 +68,6 @@ Favero et al. (2025) caution that even Socratic AI can undermine agency if stude
 - [[knowledge-tracing-irt]] — Modeling when a student is ready for less Socratic, more direct support
 
 - [[retrieval-augmented-tutoring-algorithm-kite]] — KITE extends Socratic tutoring with retrieval-augmented generation
-## Sources
-- Hashmi, S. F. A. & Rebello, N. S. (2025). *Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot*. arXiv:2508.14778v1. [PDF](https://arxiv.org/pdf/2508.14778v1)
-- Favero et al. (2025). *Do AI tutors empower or enslave learners?* arXiv:2507.06878. [PDF](https://arxiv.org/pdf/2507.06878)
+## Citation
+
+- Hashmi, S. F. A. & Rebello, N. S. (2025). *Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot*. arXiv:2508.14778v1. [PDF](https://arxiv.org/pdf/2508.14778v1) - Favero et al. (2025). *Do AI tutors empower or enslave learners?* arXiv:2507.06878. [PDF](https://arxiv.org/pdf/2507.06878)

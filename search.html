@@ -5,223 +5,76 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Search - AI Ed Wiki</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
-    <style>
-        .search-result {
-            margin-bottom: 1rem;
-            padding: 1rem;
-            border: 1px solid var(--card-border-color);
-            border-radius: 8px;
-        }
-        .search-result h3 { margin-top: 0; }
-        .search-result .snippet {
-            font-size: 0.85rem;
-            color: var(--muted-color);
-            margin-top: 0.3rem;
-            line-height: 1.4;
-            max-height: 3.5em;
-            overflow: hidden;
-        }
-        .search-result .snippet em {
-            font-style: normal;
-            font-weight: bold;
-            background: yellow;
-            color: #000;
-            padding: 0 2px;
-            border-radius: 2px;
-        }
-        .search-result .meta {
-            font-size: 0.72rem;
-            color: var(--muted-color);
-            margin-top: 0.3rem;
-        }
-        #status { color: var(--muted-color); }
-    </style>
+    <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.min.js"></script>
 </head>
 <body>
     <header class="container">
         <nav>
             <ul>
                 <li><a href="index.html">🏠 Home</a></li>
-                <li><a href="journal.html">📰 Journal</a></li>
-                <li><strong><a href="tags.html">🏷️ Tags</a></strong></li>
-                <li><strong><a href="search.html">🔍 Search</a></strong></li>
+                <li><a href="search.html">🔍 Search</a></li>
             </ul>
         </nav>
         <h1>Search AI Ed Wiki</h1>
     </header>
     <main class="container">
-        <input type="text" id="search-input" placeholder="Type to search..." style="width:100%; padding:0.75rem; margin-bottom:1rem;">
-        <p id="status"></p>
+        <input type="text" id="search-input" placeholder="Type to search (min 2 chars)..." style="width:100%; padding:0.75rem; margin-bottom:1rem;">
         <div id="results"></div>
     </main>
-
-    <script src="search_index.js"></script>
     <script>
-        (function() {
-            var input = document.getElementById('search-input');
-            var resultsDiv = document.getElementById('results');
-            var status = document.getElementById('status');
-            var pages = window.SEARCH_INDEX;
+        let index = new FlexSearch.Document({
+            tokenize: 'forward',
+            document: {
+                id: 'id',
+                index: ['title', 'tags', 'content'],
+                store: ['title', 'url', 'tags']
+            }
+        });
+        let pages = [];
+        
+        fetch('search_index.json')
+            .then(res => res.json())
+            .then(data => {
+                pages = data;
+                data.forEach((page, i) => {
+                    index.add({
+                        id: i,
+                        title: page.title,
+                        tags: page.tags.join(' '),
+                        content: page.content
+                    });
+                });
+            })
+            .catch(err => {
+                document.getElementById('results').innerHTML = '<p style="color:red;">Error loading search index: ' + err.message + '</p>';
+            });
 
-            if (!pages) {
-                status.textContent = 'Error: search index failed to load.';
+        document.getElementById('search-input').addEventListener('input', function(e) {
+            const query = e.target.value.trim();
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+            
+            if (query.length < 2) {
+                resultsDiv.innerHTML = '<p>Type at least 2 characters to search.</p>';
                 return;
             }
-
-            // ----- Build FlexSearch index -----
-            var flexIdx = new FlexSearch.Document({
-                tokenize: 'forward',
-                document: {
-                    id: 'id',
-                    index: ['title', 'tags', 'content'],
-                    store: ['id']
-                }
+            
+            const results = index.search(query, { limit: 20 });
+            if (!results || results.length === 0) {
+                resultsDiv.innerHTML = '<p>No results found.</p>';
+                return;
+            }
+            
+            results.forEach(result => {
+                const page = pages[result.id];
+                if (!page) return;
+                const tags = page.tags.join(', ') || 'No tags';
+                resultsDiv.innerHTML += `<div style="margin-bottom:1rem; padding:1rem; border:1px solid #ddd; border-radius:8px;">
+                    <h3><a href="${page.url}">${page.title}</a></h3>
+                    <p><small>Tags: ${tags}</small></p>
+                </div>`;
             });
-
-            for (var i = 0; i < pages.length; i++) {
-                flexIdx.add({
-                    id: i,
-                    title: pages[i].title,
-                    tags: pages[i].tags.join(' '),
-                    content: pages[i].content
-                });
-            }
-
-            status.textContent = pages.length + ' pages indexed. Type to search.';
-
-            // ----- ?q= pre-population -----
-            var params = new URLSearchParams(window.location.search);
-            var q = params.get('q');
-            if (q) {
-                input.value = q;
-                doSearch(q);
-            }
-
-            // ----- Debounced input -----
-            var timer = null;
-            input.addEventListener('input', function() {
-                clearTimeout(timer);
-                var query = this.value.trim();
-                if (query.length < 2) {
-                    resultsDiv.innerHTML = '<p style="color:var(--muted-color);">Type at least 2 characters to search.</p>';
-                    return;
-                }
-                timer = setTimeout(function() { doSearch(query); }, 150);
-            });
-
-            function doSearch(query) {
-                var q = query.toLowerCase();
-
-                // Phase 1: FlexSearch candidate retrieval
-                var flexResults = flexIdx.search(query, {
-                    limit: 300,
-                    enrich: true
-                });
-
-                // Phase 2: deduplicate, post-filter with indexOf, and score by match location
-                // Score: title=3, tags=2, content=1  → higher scores sort first
-                var seen = {};
-                var candidates = [];
-                for (var fi = 0; fi < flexResults.length; fi++) {
-                    var fieldResult = flexResults[fi];
-                    if (!fieldResult || !fieldResult.result) continue;
-                    for (var ri = 0; ri < fieldResult.result.length; ri++) {
-                        var match = fieldResult.result[ri];
-                        var id = match.id;
-                        if (seen[id]) continue;
-                        seen[id] = true;
-
-                        var page = pages[id];
-                        if (!page) continue;
-                        var titleLower = page.title.toLowerCase();
-                        var tagsLower = page.tags.join(' ').toLowerCase();
-                        var contentLower = page.content.toLowerCase();
-                        var fullText = titleLower + ' ' + tagsLower + ' ' + contentLower;
-                        if (fullText.indexOf(q) !== -1) {
-                            var score = 0;
-                            if (titleLower.indexOf(q) !== -1) score = 3;
-                            else if (tagsLower.indexOf(q) !== -1) score = 2;
-                            else score = 1;
-                            candidates.push({ page: page, score: score });
-                        }
-                    }
-                }
-
-                // Phase 3: if FlexSearch missed some, fall back to linear scan
-                if (candidates.length === 0 || (flexResults.length === 0 && q.length <= 3)) {
-                    for (var li = 0; li < pages.length; li++) {
-                        if (seen[li]) continue;
-                        var lp = pages[li];
-                        var ltTitle = lp.title.toLowerCase();
-                        var ltTags = lp.tags.join(' ').toLowerCase();
-                        var ltContent = lp.content.toLowerCase();
-                        var ltFull = ltTitle + ' ' + ltTags + ' ' + ltContent;
-                        if (ltFull.indexOf(q) !== -1) {
-                            seen[li] = true;
-                            var lscore = 0;
-                            if (ltTitle.indexOf(q) !== -1) lscore = 3;
-                            else if (ltTags.indexOf(q) !== -1) lscore = 2;
-                            else lscore = 1;
-                            candidates.push({ page: lp, score: lscore });
-                        }
-                    }
-                }
-
-                // Sort: title matches first, then tags, then content
-                candidates.sort(function(a, b) { return b.score - a.score; });
-
-                if (candidates.length === 0) {
-                    resultsDiv.innerHTML = '<p style="color:var(--muted-color);">No results found for "<strong>' + escapeHtml(query) + '</strong>".</p>';
-                    return;
-                }
-
-                var html = '<p style="color:var(--muted-color);margin-bottom:1rem;">'
-                    + candidates.length + ' result' + (candidates.length !== 1 ? 's' : '')
-                    + ' for "<strong>' + escapeHtml(query) + '</strong>"</p>';
-
-                for (var j = 0; j < candidates.length; j++) {
-                    var c = candidates[j];
-                    var p = c.page;
-                    var scoreBadge = c.score === 3 ? ' <small style="background:var(--primary);color:var(--primary-inverse);padding:0 4px;border-radius:3px;font-size:0.7rem;">title</small>'
-                        : c.score === 2 ? ' <small style="background:#6c757d;color:#fff;padding:0 4px;border-radius:3px;font-size:0.7rem;">tag</small>'
-                        : '';
-                    var lowerContent = p.content.toLowerCase();
-                    var idx = lowerContent.indexOf(q);
-                    var snippet;
-                    if (idx >= 0) {
-                        var start = Math.max(0, idx - 30);
-                        var end = Math.min(p.content.length, idx + q.length + 120);
-                        snippet = (start > 0 ? '...' : '') + p.content.substring(start, end);
-                        // Highlight query matches
-                        snippet = escapeHtml(snippet).replace(
-                            new RegExp('(' + escapeRegex(query) + ')', 'gi'),
-                            '<em>$1</em>'
-                        );
-                    } else {
-                        snippet = escapeHtml(p.content.substring(0, 200));
-                    }
-                    if (p.content.length > 200) snippet += '...';
-
-                    html += '<div class="search-result">'
-                        + '<h3><a href="' + p.url + '">' + p.title + '</a>' + scoreBadge + '</h3>'
-                        + '<div class="snippet">' + snippet + '</div>'
-                        + '<div class="meta">' + (p.tags.length ? p.tags.join(', ') : 'No tags') + '</div>'
-                        + '</div>';
-                }
-                resultsDiv.innerHTML = html;
-            }
-
-            function escapeHtml(text) {
-                var div = document.createElement('div');
-                div.appendChild(document.createTextNode(text));
-                return div.innerHTML;
-            }
-
-            function escapeRegex(str) {
-                return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-            }
-        })();
+        });
     </script>
 </body>
 </html>

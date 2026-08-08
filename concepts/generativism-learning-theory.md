@@ -11,7 +11,6 @@ confidence: high
 # Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence
 
 **Li & Zheng (2026)**.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.12441)
 
 Li & Zheng argue that the four dominant learning theories — behaviorism, cognitivism, constructivism, and connectivism — show significant conceptual limitations as [[generative-ai]] proliferates in [[higher-ed|educational settings]]. They propose **Generativism**, a new learning theory for the generative AI age, which posits that learning increasingly occurs through the iterative co-construction of knowledge between human learners and AI systems.
 
@@ -33,4 +32,5 @@ Generativism has profound implications for [[intelligent-tutoring-systems|instru
 - [[cognitive-shift-ai-education]] — How AI shifts cognitive processes in education
 
 ## Citation
-**APA:** Li, S., & Zheng, J. (2026). Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence. arXiv:2606.12441.
+
+Li, S., & Zheng, J. (2026). [Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence](https://arxiv.org/abs/2606.12441). arXiv:2606.12441.

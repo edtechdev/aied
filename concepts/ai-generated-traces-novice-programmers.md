@@ -9,7 +9,6 @@ confidence: high
 ---
 # AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
 **Noviello et al. (2026)** — ArXiv.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.03288)
 
 Multi-institutional study on Generated Animated Traces (GATs) for CS1. Found that mid-engagement students may experience a performance decrement due to coordination costs (Expertise-Reversal Effect). [[cs-education]], [[scaffolding]], [[personalized-learning]], [[stem-education]], [[mastery-learning]].
 
@@ -23,4 +22,5 @@ Multi-institutional study on Generated Animated Traces (GATs) for CS1. Found tha
 - [[llm-feedback-programming-classroom]] — ProgFeed dataset of 6,693 submissions across 17 labs
 - [[vismatic-secure-sandbox-cs-education]] — VISMATIC detects AI-generated code through behavioral metrics
 ## Citation
-**APA:** Noviello et al. (2026). *AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study*. arXiv:2606.03288.
+
+Noviello et al. (2026). [AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study](https://arxiv.org/abs/2606.03288). arXiv:2606.03288.

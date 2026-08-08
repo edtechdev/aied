@@ -12,7 +12,6 @@ confidence: medium
 
 Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 **Chen et al. (2026)** — Multiple institutions. Under review.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.14322)
 
 ## Summary
 
@@ -39,4 +38,5 @@ The finding that models struggle most with **multi-step teaching workflows** in 
 
 - [[retrieval-augmented-tutoring-algorithm-kite]] — KITE: complementary tutoring architecture with simulated evaluation
 ## Citation
-**APA:** Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu, H. (2026). *Are agents ready to teach? A multi-stage benchmark for real-world teaching workflows*. arXiv:2605.14322.
+
+Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu, H. (2026). [Are agents ready to teach? A multi-stage benchmark for real-world teaching workflows](https://arxiv.org/abs/2605.14322). arXiv:2605.14322.

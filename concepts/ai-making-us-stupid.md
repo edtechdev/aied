@@ -13,8 +13,6 @@ contested: false
 
 **Trent N. Cash, Megan O. Kelly, Brooke N. Macnamara, Evan F. Risko (2026)** — *Trends in Cognitive Sciences* (Cell Press), Science & Society. Available online 9 July 2026. doi:10.1016/j.tics.2026.06.004.
 
-📄 Full text ingested from user-supplied PDF (`raw/papers/cell-2026-ai-making-us-stupid.md`). © 2026 Elsevier Ltd.
-
 ## Summary
 
 A 3-page **perspective** (opinion/review, not an empirical study) addressing whether AI use erodes human cognition. The authors' answer: **not inherently — but the risk is real and follows the cognitive-psychology principle of *cognitive offloading*.** When people delegate reasoning, writing, memory, or problem-solving to AI, they forgo the mental practice that builds and maintains those capacities. The threat is **use-dependent**, not intrinsic to the technology: AI that *augments* thinking preserves the underlying processes; AI that *replaces* them outsources exactly the practice that builds expertise.

@@ -11,7 +11,6 @@ confidence: high
 # DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
 
 **Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026)** — Artificial Intelligence (cs.AI).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.27619)
 
 DysLexLens is a low-resource LLM framework designed to analyze how [[special-education|dyslexic learners]] experience AI tools by mining online forum discussions. The framework employs dictionary-driven filtering to construct focused corpora from Reddit, integrates LLM-assisted knowledge graph reasoning, and generates verifiable query responses about learners' lived experiences with AI for reading, writing, and study tasks.
 
@@ -29,4 +28,5 @@ By grounding analysis in real user discourse rather than controlled experiments,
 - [[llm-student-modeling-memory]] — LLM memory for student modeling
 
 ## Citation
-**APA:** Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026). *DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums*. arXiv:2606.27619. Artificial Intelligence (cs.AI).
+
+Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026). [DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums](https://arxiv.org/abs/2606.27619). arXiv:2606.27619. Artificial Intelligence (cs.AI).

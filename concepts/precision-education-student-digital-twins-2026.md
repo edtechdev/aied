@@ -14,8 +14,6 @@ confidence: medium
 
 **Dutta (2026)** — arXiv. arXiv:2608.06322.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.06322)
-
 ## Summary
 
 Higher education remains largely reactive in its approach to student success. Institutions frequently identify academic problems only after students have failed courses, fallen behind in degree progression, accumulated excessive debt, or departed without a credential. Healthcare faced a similar challenge decades ago. It responded by shifting from reactive treatment to preventive care powered by predictive models, risk stratification, electronic health records, and artificial intelligence (AI). This paper argues that higher education stands at an analogous inflection point. Drawing on advances in learning analytics, educational data mining, machine learning, workforce analytics, and digital twin technologies, we propose a paradigm we call Precision Education. Under this framework, AI contin
@@ -38,4 +36,4 @@ This work connects to: [[student-modeling]][[adaptive-learning]][[personalized-l
 
 ## Citation
 
-**APA:** Dutta, Kaushik (2026). *From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways*. arXiv:2608.06322.
+Dutta, Kaushik (2026). [From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways](https://arxiv.org/abs/2608.06322). arXiv:2608.06322.

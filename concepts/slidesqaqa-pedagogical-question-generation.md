@@ -13,8 +13,6 @@ confidence: high
 
 **Jim Salsman (2026)** — arXiv preprint. cs.CL; cs.HC.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.26428)
-
 ## Overview
 
 SlidesQAQA is a Flask-based system that extracts text and rendered images from PDF lecture slides and processes them through a four-stage [[llm]] pipeline: **window planning** (segment extraction), **deck synthesis** (cross-slide reasoning), **slide annotation** (per-slide question generation), and **reconciliation** (deck-level revision to reduce redundancy and improve coverage). The key innovation is joint reasoning about slide modality and pedagogical role, with a bounded question budget that forces prioritization of important content.
@@ -49,4 +47,4 @@ SlidesQAQA represents a practical step toward AI systems that understand pedagog
 
 ## Citation
 
-Salsman, J. (2026). *Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation*. arXiv:2605.26428.
+Salsman, J. (2026). [Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation](https://arxiv.org/abs/2605.26428). arXiv:2605.26428.

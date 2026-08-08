@@ -11,7 +11,6 @@ confidence: high
 # SAVVY: Student Attention Visualization for Video-based Learning Analysis
 
 **Shixian Zhou, Minghuan Shen, Xiaolin Wen, Zijun Qiu, Yongliang Jiang, Xiangyang Wu, Fei Wu, Yong Wang, Zhiguang Zhou** — arXiv preprint (2026).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.29413)
 
 ## Synthesis
 
@@ -35,4 +34,4 @@ The work connects AI-based attention estimation to instructional design practice
 
 ## Citation
 
-Zhou, S., Shen, M., Wen, X., Qiu, Z., Jiang, Y., Wu, X., Wu, F., Wang, Y., & Zhou, Z. (2026). SAVVY: Student attention visualization for video-based learning analysis. arXiv:2607.29413.
+Zhou, S., Shen, M., Wen, X., Qiu, Z., Jiang, Y., Wu, X., Wu, F., Wang, Y., & Zhou, Z. (2026). [SAVVY: Student attention visualization for video-based learning analysis](https://arxiv.org/abs/2607.29413). arXiv:2607.29413.

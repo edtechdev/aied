@@ -7,58 +7,59 @@
     <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="../feed.xml">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
     <style>
-        a.tag {display:inline-block;padding:0.15rem 0.5rem;margin:0.15rem;background:var(--primary);color:var(--primary-inverse);border-radius:4px;font-size:0.8rem;text-decoration:none}
-        a.tag:hover {opacity:0.85}
-        table {width:100%;border-collapse:collapse;margin:1rem 0}
-        th,td {padding:0.5rem 0.75rem;border:1px solid var(--card-border-color);text-align:left}
-        th {background:rgba(0,0,0,0.04);font-weight:600}
-        tr:nth-child(even) {background:rgba(0,0,0,0.02)}
+        a.tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            margin: 0.15rem;
+            background: var(--primary);
+            color: var(--primary-inverse);
+            border-radius: 4px;
+            font-size: 0.8rem;
+            text-decoration: none;
+        }
+        a.tag:hover {
+            opacity: 0.85;
+        }
+        /* Table styling */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        th, td {
+            padding: 0.5rem 0.75rem;
+            border: 1px solid var(--card-border-color);
+            text-align: left;
+        }
+        th {
+            background: rgba(0,0,0,0.04);
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background: rgba(0,0,0,0.02);
+        }
     </style>
 </head>
 <body>
     <header class="container">
-        <nav><ul><li><a href="../index.html">🏠 Home</a></li><li><a href="../journal.html">📋 Journal</a></li><li><a href="../search.html">🔍 Search</a></li><li><a href="../feed.xml">📡 RSS</a></li></ul></nav>
+        <nav>
+            <ul>
+                <li><a href="../index.html">🏠 Home</a></li>
+                <li><a href="../journal.html">📋 Journal</a></li>
+                <li><a href="../search.html">🔍 Search</a></li>
+                <li><a href="../feed.xml">📡 RSS</a></li>
+            </ul>
+        </nav>
         <h1>When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle</h1>
         <div class="metadata">Created: 2026-08-08 | Tags: <a href="../tags/intelligent-tutoring.html" class="tag">intelligent-tutoring</a><a href="../tags/scaffolding.html" class="tag">scaffolding</a><a href="../tags/llm.html" class="tag">llm</a><a href="../tags/llm-evaluation.html" class="tag">llm-evaluation</a><a href="../tags/k-12.html" class="tag">k-12</a><a href="../tags/math-education.html" class="tag">math-education</a><a href="../tags/benchmark.html" class="tag">benchmark</a><a href="../tags/ai-tutoring.html" class="tag">ai-tutoring</a><a href="../tags/teacher-role.html" class="tag">teacher-role</a><a href="../tags/over-reliance.html" class="tag">over-reliance</a></div>
     </header>
     <main class="container"><blockquote>
-Zhang, Ross, Patel et al. (2026) introduce TutorMoments — a replay-based framework that evaluates whether LM <a href="intelligent-tutoring.html">intelligent-tutoring</a> systems adapt their pedagogical actions to context. Testing frontier models against 462 teacher-annotated <a href="math-education.html">math-education</a> transcripts from grades 2-7, they find LMs default to <a href="over-reliance.html">over-reliance</a>-inducing over-<a href="scaffolding.html">scaffolding</a>, rarely pushing for productive struggle — even when students are ready.
-</blockquote>
-
-<h2>Context</h2>
-<p>AI tutors optimized for helpfulness may harm learning. Research on <a href="cognitive-offloading.html">cognitive-offloading</a> and <a href="genai-performance-vs-learning.html">genai-performance-vs-learning</a> shows that AI assistance can improve short-term performance while reducing long-term learning. The TutorMoments framework directly tests whether frontier LMs navigate the "assistance dilemma" — knowing <em>when</em> to help versus when to let students struggle productively.</p>
-
-<h2>The TutorMoments Framework</h2>
-<p>TutorMoments evaluates AI tutors through <strong>situation-conditioned replay</strong>:</p>
-<ol>
-<li>Expert <a href="math-education.html">math-education</a> teachers identify key pedagogical decision points in authentic tutoring transcripts</li>
-<li>Each moment is annotated as <strong>scaffolding-appropriate</strong> (student needs support) or <strong>rigor-appropriate</strong> (student ready for challenge)</li>
-<li>The framework replays these moments to test whether LM tutors select appropriate instructional moves</li>
-<li>This enables apples-to-apples comparison: different tutor actions evaluated under identical conditions</li>
-</ol>
-<p>The dataset — <strong>TutorMoments-Preview</strong> — contains 462 transcripts from 198 students (grades 2-7) interacting with 173 human tutors, yielding 1,500+ teacher-annotated key moments.</p>
-
-<h2>Key Findings</h2>
-<ul>
-<li><strong>Over-scaffolding default:</strong> Minimally prompted frontier LMs over-scaffold — aligning with the "helpful assistant" training objective at the expense of <a href="scaffolding.html">scaffolding</a> that fades appropriately</li>
-<li><strong>Rigor gap:</strong> LMs rarely push for rigor even when students are demonstrably ready — missing opportunities for <a href="metacognition.html">metacognition</a> and deeper learning</li>
-<li><strong>Evaluation-aware prompting helps:</strong> Prompts that make LMs aware of the evaluation criteria substantially improve adaptability, but cross-model differences remain large</li>
-<li><strong>Narrow move repertoire:</strong> Tutor behavior concentrates into a small set of moves, lacking the strategic diversity of human <a href="teacher-role.html">teacher-role</a> behavior</li>
-<li><strong>Grounding in theory:</strong> Framework operationalizes <a href="scaffolding.html">scaffolding</a>, zone of proximal development, desirable difficulties, and productive struggle as evaluation criteria</li>
-</ul>
-
-<h2>Connections to Wiki</h2>
-<ul>
-<li>Provides the most direct <a href="benchmark.html">benchmark</a> of the assistance dilemma, complementing <a href="correct-answer-trap-ai-tutor.html">correct-answer-trap-ai-tutor</a> and <a href="rethinking-scaffolding-llm-tutors.html">rethinking-scaffolding-llm-tutors</a></li>
-<li>Connects to <a href="over-reliance.html">over-reliance</a> and <a href="cognitive-offloading.html">cognitive-offloading</a> literature — over-scaffolding from AI may accelerate skill atrophy</li>
-<li>Extends <a href="ai-tutoring.html">ai-tutoring</a> evaluation beyond answer correctness to pedagogical adaptability</li>
-<li>Complements <a href="llm-student-simulation-misconception-faithfulness.html">llm-student-simulation-misconception-faithfulness</a> — both evaluate whether AI-based systems faithfully reproduce desired educational behaviors</li>
-<li>Cross-cutting team from <a href="https://allenai.org">Allen AI</a>, Stanford, MIT, UW — a major multi-institution effort</li>
-</ul>
-
-<h2>Citation</h2>
-<p>Zhang, A., Ross, A., Patel, K., Bernado, J., Bowie, R., Ribeiro, A. T., Halper, D., Valayaputtur, H., Andreas, J., Loeb, S., Lucy, L., Lo, K., &amp; Knight, R. (2026). <em>When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle</em>. Preprint.</p>
-</main>
+<strong>Synthesis:</strong> Zhang et al. (2026) introduce TutorMoments, a replay-based evaluation framework that tests whether LM tutors adapt their pedagogical actions to context — scaffolding when support is needed, pushing for rigor when students are ready, and avoiding over-scaffolding. Evaluating 462 teacher-annotated transcripts from grades 2-7 math tutoring, they find frontier models default toward over-helpfulness at the expense of productive struggle. The paper argues that AI optimized for helpfulness may be misaligned with the pedagogical goal of providing the right help at the right moment.
+</blockquote><p><strong>Zhang, A., Ross, A., Patel, K., Bernado, J., Bowie, R., Ribeiro, A. T., Halper, D., Valayaputtur, H., Andreas, J., Loeb, S., Lucy, L., Lo, K., & Knight, R. (2026)</strong> — Allen Institute for AI, UW, MIT, Stanford, Step Up Labs. Preprint.</p><p><h2>Summary</h2></p><p>TutorMoments evaluates whether LM tutors select instructional actions appropriate to the pedagogical demands of specific learning moments. Expert math teachers annotate key decision points in authentic tutoring transcripts: scaffolding-appropriate moments (student needs support) and rigor-appropriate moments (student is ready for challenge). The framework then replays these moments to test whether LMs select appropriate tutor moves. Findings show minimally prompted LMs frequently over-scaffold and rarely push for rigor; evaluation-aware prompting improves adaptability but behavior concentrates into a narrow set of tutor moves. The dataset includes 462 transcripts from 198 students in grades 2-7 interacting with 173 human tutors, with 1,500+ teacher-annotated key moments.</p><p><h2>Key Findings</h2></p><p><ul><li>Minimally prompted frontier LMs default toward over-scaffolding — being "helpful" rather than pedagogically adaptive</li></ul>
+<ul><li>LMs rarely push for rigor even when students are ready for challenge</li></ul>
+<ul><li>Evaluation-aware prompts substantially improve adaptability but reveal large cross-model differences</li></ul>
+<ul><li>Tutor behavior concentrates into a narrow set of moves, lacking the diversity of human tutor strategies</li></ul>
+<ul><li>Framework operationalizes productive struggle, zone of proximal development, and desirable difficulties as evaluation criteria</li></ul></p><p><h2>Connections</h2></p><p>This work connects to: <a href="intelligent-tutoring.html">intelligent-tutoring</a><a href="scaffolding.html">scaffolding</a><a href="llm-evaluation.html">llm-evaluation</a><a href="math-education.html">math-education</a><a href="benchmark.html">benchmark</a><a href="teacher-role.html">teacher-role</a><a href="over-reliance.html">over-reliance</a><a href="k-12.html">k-12</a></p><p><h2>Citation</h2></p><p>Zhang et al. (2026) introduce TutorMoments, a replay-based evaluation framework that tests whether LM tutors adapt their pedagogical actions to context — scaffolding when support is needed, pushing for rigor when students are ready, and avoiding over-scaffolding. Evaluating 462 teacher-annotated transcripts from grades 2-7 math tutoring, they find frontier models default toward over-helpfulness at the expense of productive struggle. The paper argues that AI optimized for helpfulness may be misaligned with the pedagogical goal of providing the right help at the right moment.</p><p><h1>When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle. <a href="https://example.com/tutormoments-preview.pdf">When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle</a>.</h1></p></main>
     <footer class="container"><small>Part of AI Ed Wiki · <a href="../index.html">Home</a> · Generated 2026-08-08</small></footer>
 </body>
 </html>

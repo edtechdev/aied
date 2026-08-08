@@ -12,7 +12,6 @@ confidence: medium
 
 Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
 **Nourian et al. (2026)** — Multiple institutions. arXiv cs.HC.
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.15127)
 
 ## Summary
 
@@ -36,4 +35,5 @@ The findings have implications for designing [[equity-in-ai-education]] interven
 - [[ai-higher-ed-bridge-gap]] — Higher education AI gap
 
 ## Citation
-**APA:** Nourian, L., Callis, A., Patterson, S., Miao, J., Heard, J., & Tigwell, G. W. (2026). *Understanding how international students in the U.S. are using conversational AI to support cross-cultural adaptation*. arXiv:2605.15127.
+
+Nourian, L., Callis, A., Patterson, S., Miao, J., Heard, J., & Tigwell, G. W. (2026). [Understanding how international students in the U.S. are using conversational AI to support cross-cultural adaptation](https://arxiv.org/abs/2605.15127). arXiv:2605.15127.

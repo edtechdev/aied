@@ -14,8 +14,6 @@ confidence: high
 
 **Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, Parali Prajithaa (2026)** — arXiv:2608.03531 [cs.AI].
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2608.03531)
-
 ## Key Findings
 
 Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (Diversion Field Generator, Rendering Tensor, Behavior Tensor, Multi-dimensional Entropy Model). Establishes theoretical properties for content fidelity, rendering stability, entropy boundedness, and closed-loop adaptation stability. Explicitly addresses the trade-off between accessibility and capture resistance.
@@ -36,4 +34,4 @@ Institutions increasingly rely on browser lockdown, webcam monitoring, and behav
 
 ## Citation
 
-Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, & Parali Prajithaa (2026). *Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery*. arXiv:2608.03531. arXiv:2608.03531 [cs.AI].
+Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, & Parali Prajithaa (2026). [Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery](https://arxiv.org/abs/2608.03531). arXiv:2608.03531. arXiv:2608.03531 [cs.AI].

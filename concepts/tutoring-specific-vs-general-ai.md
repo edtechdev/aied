@@ -7,10 +7,6 @@ tags: [intelligent-tutoring, llm, generative-ai, personalized-learning, scaffold
 confidence: medium
 sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md]
 ---
-> 📄 Full text: [Stanford SCALE](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf) · [local](raw/papers/stanford-evidence-base-ai-k12-2026.md)
-
-
-
 
 # Tutoring-Specific vs. General-Purpose AI in Education
 

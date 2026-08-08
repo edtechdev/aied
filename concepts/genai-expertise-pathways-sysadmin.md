@@ -11,7 +11,6 @@ confidence: high
 # Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
 
 **Rana Abou Khamis, Hala Assal, Ashraf Matrawy** — arXiv preprint (2026).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.28650)
 
 ## Synthesis
 
@@ -36,4 +35,4 @@ The findings extend concerns about cognitive offloading and skill decay from cla
 
 ## Citation
 
-Abou Khamis, R., Assal, H., & Matrawy, A. (2026). Unanticipated effects of generative AI on expertise pathways and performance perception in system administration. arXiv:2607.28650.
+Abou Khamis, R., Assal, H., & Matrawy, A. (2026). [Unanticipated effects of generative AI on expertise pathways and performance perception in system administration](https://arxiv.org/abs/2607.28650). arXiv:2607.28650.

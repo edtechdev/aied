@@ -7,10 +7,6 @@ tags: [metacognition, over-reliance, llm, k-12, higher-ed, academic-integrity]
 confidence: high
 sources: [raw/papers/kim-llm-fallacy-misattribution-2026.md]
 ---
-> 📄 Full text: [arXiv:2604.14807](https://arxiv.org/abs/2604.14807) · [local](raw/papers/kim-llm-fallacy-misattribution-2026.md)
-
-
-
 
 # The LLM Fallacy and Misattribution of Competence
 
@@ -85,7 +81,3 @@ Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (20
 - [[educational-llm-alignment]] — Benchmark-based misaligned confidence as fallacy enabler
 - [[educational-vlm-evaluation]] — Multimodal instances of misattribution in student work
 - [[learning-by-chatting-genai-impact]] — Empirical evidence of misattribution of ChatGPT outputs to self-understanding
-
-## Sources
-- Kim, H., Yu, H., & Yi, H. (2026). *The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*. arXiv:2604.14807. [PDF](https://arxiv.org/pdf/2604.14807)
-- [[llm-reasoning-traces-metacognition]] — Reasoning traces as UI artifacts — not transparent windows into model cognition

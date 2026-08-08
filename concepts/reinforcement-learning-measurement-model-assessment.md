@@ -12,8 +12,6 @@ confidence: medium
 
 **Wenqian Xu, Feng Ji (2026)** — RL-based measurement model for interactive assessments.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.09305)
-
 ## Key Findings
 
 Interactive assessments generate sequential process data that conventional item response models (IRT) cannot adequately handle. This paper proposes a **reinforcement learning measurement model** that links action choices to state-action values, extending beyond existing MDP-based measurement approaches.^[raw/papers/2605.09305.md]
@@ -37,4 +35,4 @@ The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as
 
 ## Citation
 
-Xu, W., & Ji, F. (2026). *Reinforcement learning measurement model*. arXiv:2605.09305.
+Xu, W., & Ji, F. (2026). [Reinforcement learning measurement model](https://arxiv.org/abs/2605.09305). arXiv:2605.09305.

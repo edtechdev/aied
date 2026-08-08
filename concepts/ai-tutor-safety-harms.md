@@ -7,10 +7,6 @@ tags: [pedagogical-safety, intelligent-tutoring, adaptive-learning, k-12, higher
 confidence: high
 sources: [raw/papers/hazra-safetutors-pedagogical-safety-2026.md]
 ---
-> 📄 Full text: [arXiv:2603.17373](https://arxiv.org/abs/2603.17373) · [local](raw/papers/hazra-safetutors-pedagogical-safety-2026.md)
-
-
-
 
 # AI Tutor Safety and Pedagogical Harms
 

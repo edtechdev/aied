@@ -12,8 +12,6 @@ confidence: high
 
 **Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borchers, Kenneth R. Koedinger (2026)** — Institution.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.18617)
-
 AI-driven assessment of human tutor training performance correlates with real-life tutoring quality; bridges the gap between training metrics and classroom practice.
 
 ## Synthesis
@@ -31,4 +29,4 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
 
 ## Citation
 
-Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borchers, Kenneth R. Koedinger (2026). *AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice*. arXiv:2606.18617.
+Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borchers, Kenneth R. Koedinger (2026). [AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice](https://arxiv.org/abs/2606.18617). arXiv:2606.18617.

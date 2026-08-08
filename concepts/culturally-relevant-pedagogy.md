@@ -46,6 +46,23 @@ Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*. A
 
 - [https://arxiv.org/abs/2505.08083](https://arxiv.org/abs/2505.08083)
 
+## Citation
+
+While AI tools can scaffold CRP implementation, they risk **reinforcing dominant narratives** if not carefully prompted. Teachers must retain agency in evaluating AI suggestions for cultural authenticity and community alignment.
+
+## Connections
+
+- [[llm-cultural-relevance-k12]] — LLM support for CRP implementation
+- [[equity-in-ai-education]] — Addressing representation gaps in AI educational tools
+- [[k-12-ai-education]] — CRP in AI-enhanced curriculum design
+- [[inclusive-education]] — Broader framework for equitable education
+- [[curriculum-design-ai]] — AI-supported lesson planning
+- [[human-in-the-loop-ai]] — Teacher agency in evaluating AI suggestions
+
+## References
+
+Wang, J., Xiao, R., et al. (2025). [Culturally Relevant Pedagogy](https://arxiv.org/abs/2505.08083).
+
 ## Related Pages
 - [[taklif-ai-interest-based-personalized-assignments]] — Cultural contexts incorporated into assignment generation
 - [[international-students-conversational-ai-adaptation]] — Cultural context in AI-powered student support

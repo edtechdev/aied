@@ -7,10 +7,6 @@ tags: [affective-computing, intelligent-tutoring, adaptive-learning, scaffolding
 confidence: medium
 sources: [raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md, raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md]
 ---
-> 📄 Full text: [arXiv:2508.19993](https://arxiv.org/abs/2508.19993v2) · [local](raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md) · [arXiv:2507.06878](https://arxiv.org/abs/2507.06878) · [local](raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md)
-
-
-
 
 # Affective Tutoring
 
@@ -77,6 +73,6 @@ Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the m
 - [[empathy-coaching-chatbot]] — empathy effects in coaching chatbots
 - [[epistemic-emotions-collaborative-problem-solving]] — Ordered Network Analysis reveals structured persistence and transition patterns of confusion and fru
 
-## Sources
-- Kar et al. (2025). *MathBuddy: A Multimodal System for Affective Math Tutoring*. arXiv:2508.19993v2. [PDF](https://arxiv.org/pdf/2508.19993v2)
-- Favero et al. (2025). *Do AI tutors empower or enslave learners?* arXiv:2507.06878. [PDF](https://arxiv.org/pdf/2507.06878)
+## Citation
+
+- Kar et al. (2025). *MathBuddy: A Multimodal System for Affective Math Tutoring*. arXiv:2508.19993v2. [PDF](https://arxiv.org/pdf/2508.19993v2) - Favero et al. (2025). *Do AI tutors empower or enslave learners?* arXiv:2507.06878. [PDF](https://arxiv.org/pdf/2507.06878)

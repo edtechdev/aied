@@ -7,10 +7,6 @@ tags: [policy-maker, equity, k-12, teacher-role, ai-literacy]
 sources: ["raw/papers/ai-education-global-capacity.md"]
 confidence: medium
 ---
-> 📄 Full text: [WEF](https://www.weforum.org/stories/2026/04/what-ai-in-education-needs-next-lessons-from-youth-leaders-across-five-countries/) · [local](raw/papers/ai-education-global-capacity.md)
-
-
-
 
 # AI Education Global Capacity
 
@@ -35,7 +31,7 @@ While AI tools are globally available, the critical variable is local absorption
 
 ## Citation
 
-Forum, S.W.E. (2026). *What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries*
+Forum, S.W.E. (2026). [What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries](https://www.weforum.org/stories/2026/04/what-ai-in-education-needs-next-lessons-from-youth-leaders-across-five-countries/)
 
 ## Related Pages
 - [[post-covid-ict-career-aspirations]] — 5 of 8 papers in May 28 scan

@@ -12,8 +12,6 @@ confidence: high
 
 **Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, Sicheng Song (2026)** — Institution.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.17633)
-
 AdaPT uses transformers to adapt lesson plans across regional and differentiated instruction contexts; improves teacher efficiency while maintaining pedagogical alignment with local curricula.
 
 ## Synthesis
@@ -29,4 +27,4 @@ AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated In
 
 ## Citation
 
-Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, Sicheng Song (2026). *AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction*. arXiv:2606.17633.
+Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, Sicheng Song (2026). [AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction](https://arxiv.org/abs/2606.17633). arXiv:2606.17633.

@@ -10,7 +10,6 @@ confidence: high
 
 # Assessment in Team Problem-Solving Exercises in Computing Education
 **Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026)** — arXiv preprint. arXiv:2607.19209 [cs.CY].
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.19209)
 
 Tabletop exercises (TTXs) let learner teams rehearse high-stakes workplace tasks such as cybersecurity incident response, but their open-ended, collaborative nature makes [[formative-assessment]] difficult: teams often receive delayed or incomplete feedback. This full research-to-practice paper compares assessment methods that exploit the action and communication logs captured by TTX platforms to evaluate how well teams meet learning objectives.
 
@@ -25,4 +24,5 @@ The work situates team problem-solving assessment within [[cs-education]] and br
 - [[learning-analytics]] — related AIED work
 
 ## Citation
-**APA:** Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026). *Assessment in Team Problem-Solving Exercises in Computing Education*. arXiv:2607.19209. arXiv:2607.19209 [cs.CY].
+
+Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026). [Assessment in Team Problem-Solving Exercises in Computing Education](https://arxiv.org/abs/2607.19209). arXiv:2607.19209. arXiv:2607.19209 [cs.CY].

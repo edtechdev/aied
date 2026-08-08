@@ -12,8 +12,6 @@ confidence: high
 
 **Jennifer M. Krebsbach & Victoria L. Cross (University of California, Davis)** — *Assessment & Evaluation in Higher Education* (Taylor & Francis). Open Access, CC BY 4.0. doi:10.1080/02602938.2026.2686727.
 
-📄 [Full text (Taylor & Francis, OA)](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2686727) — open data on [GitHub (jenniferkrebsbach/moralpanic)](https://github.com/jenniferkrebsbach/moralpanic)
-
 ## Summary
 
 A **natural-experiment / design-based study** tracking eight iterations of a lower-division *Data Visualisation in the Social Sciences* course (n = 921 across six years) to test whether — and how — GenAI changes student learning. The authors frame faculty anxiety about GenAI as the latest in a series of "moral panics" (calculators, word processors, search engines, e-learning) and argue the productive response is to **teach and embed GenAI use**, not ban it. They compare three instructional conditions on two quiz types (knowledge vs. applied):
@@ -65,4 +63,5 @@ The integrated redesign **resolved both academic-integrity and authenticity conc
 - [[higher-ed]] — Deployment context (university)
 
 ## Citation
-**APA:** Krebsbach, J. M., & Cross, V. L. (2026). Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption. *Assessment & Evaluation in Higher Education*. https://doi.org/10.1080/02602938.2026.2686727
+
+Krebsbach, J. M., & Cross, V. L. (2026). Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption. [Assessment & Evaluation in Higher Education](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2686727). https://doi.org/10.1080/02602938.2026.2686727

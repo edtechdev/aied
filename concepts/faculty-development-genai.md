@@ -7,10 +7,6 @@ tags: [faculty-development, higher-ed, policy-maker, ai-literacy, generative-ai,
 confidence: high
 sources: [raw/papers/every-learner-faculty-development-genai-playbook-2025.md, raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
 ---
-> 📄 Full text: [Every Learner](https://www.everylearnereverywhere.org/wp-content/uploads/Faculty-Development-and-GenAI-Playbook.pdf) · [local](raw/papers/every-learner-faculty-development-genai-playbook-2025.md) · [Liverpool Repository](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf) · [local](raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md)
-
-
-
 
 # Faculty Development and GenAI
 
@@ -115,6 +111,10 @@ The playbook's findings directly connect to research threads in the wiki:
 - **Traffic Light policy models** → [[human-in-the-loop-ai]] structured governance
 - **Humanities resistance** → [[authentic-assessment]] concerns about authorship and creativity
 - **Assessment redesign** → [[formative-assessment]] and [[authentic-assessment]] frameworks
+
+## Citation
+
+[Faculty Development and GenAI](https://www.everylearnereverywhere.org/wp-content/uploads/Faculty-Development-and-GenAI-Playbook.pdf).
 
 ## Related Pages
 - [[learner-centered-feedback-ai]] — Experience gap: novices benefit, experts wary; de-skilling risk

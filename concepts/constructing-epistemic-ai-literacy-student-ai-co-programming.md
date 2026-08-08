@@ -11,7 +11,6 @@ confidence: high
 # Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
 
 **Mengqian Wu (2026)**
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.00211)
 
 Epistemic thinking — understanding how knowledge is constructed and justified — plays a central role in [[ai-literacy]], particularly when students co-program with generative AI. This paper introduces a framework for detecting epistemic aims and processes in [[student-ai-interaction]] during programming activities. The analysis reveals that students engage in question construction, AI output evaluation, and solution integration as distinct epistemic processes. These findings inform [[scaffolding]] design for programming education and connect to broader discussions of [[agentic-education-coding]] where students maintain agency while leveraging AI assistance.
 
@@ -29,4 +28,4 @@ Epistemic thinking — understanding how knowledge is constructed and justified 
 
 ## Citation
 
-Mengqian Wu (2026). *Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming*. arXiv:2607.00211.
+Mengqian Wu (2026). [Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming](https://arxiv.org/abs/2607.00211). arXiv:2607.00211.

@@ -7,10 +7,6 @@ tags: [intelligent-tutoring, benchmark, efficacy-study, higher-ed, k-12]
 confidence: high
 sources: [raw/papers/zerkouk-comprehensive-review-its-2025.md]
 ---
-> 📄 Full text: [arXiv:2507.18882](https://arxiv.org/abs/2507.18882v1) · [local](raw/papers/zerkouk-comprehensive-review-its-2025.md)
-
-
-
 
 # AI Tutor Effectiveness Review
 
@@ -63,6 +59,10 @@ The review identifies a **critical need for stronger experimental design and dat
 2. **Teacher integration is a bottleneck.** Technical sophistication matters less than curriculum fit and teacher control — see [[human-in-the-loop-ai]].
 3. **Long-term studies are essential.** Most ITS research measures immediate outcomes; SRL, metacognition, and transfer require longitudinal designs.
 4. **Domain-specificity is real.** A system effective in math may fail in writing; claiming "general tutoring" without domain evidence is overstated.
+
+## Citation
+
+Zerkouk, Mihoubi & Chikhaoui (2025). [AI Tutor Effectiveness Review](https://arxiv.org/abs/2507.18882v1).
 
 ## Related Pages
 - [[engagement-forecasting-its]] — Feature-based engagement forecasting reduces MAE 22-33% vs heuristics; effort dr

@@ -11,7 +11,6 @@ confidence: high
 # AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
 
 **Marcus Kubsch (2026)** — arXiv preprint (physics.ed-ph)  
-📄 [Full text (arXiv)](https://arxiv.org/abs/2606.16822)
 
 Argues that epistemic vigilance — the human evaluation of AI output calibrated to how far a fallible source can be trusted — is the binding constraint on productive augmentation. AI's fluent, confident prose reads as trustworthy whether or not it is, making evaluation harder. Vigilance sets how deeply a claim is processed and is thus the precondition for learning with AI. Design factors (prompts, feedback, scaffolding) matter only through whether they engage the learner's evaluation. Because vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps.
 
@@ -29,4 +28,4 @@ Argues that epistemic vigilance — the human evaluation of AI output calibrated
 
 ## Citation
 
-Marcus Kubsch (2026). *AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation*. arXiv:2606.16822. arXiv preprint (physics.ed-ph).
+Marcus Kubsch (2026). [AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation](https://arxiv.org/abs/2606.16822). arXiv:2606.16822. arXiv preprint (physics.ed-ph).

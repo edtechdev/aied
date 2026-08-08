@@ -11,7 +11,6 @@ confidence: high
 # EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
 
 **Hossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026)** — arXiv:2607.15738 (cs.CY).
-📄 [Full text (arXiv)](https://arxiv.org/abs/2607.15738)
 
 EduGuard is a retrieval-augmented generation (RAG) tutoring framework that directly confronts the safety and pedagogical failures of unrestricted LLM tutors in introductory programming. Unrestricted tutors hallucinate, contradict course policy, reveal complete solutions, and foster passive dependence; EduGuard counters these with query understanding, instructor-approved course retrieval, pedagogical-strategy selection, rubric-aware generation, claim-level verification, and explicit overreliance control. The design maps onto the [[ai-tutor-safety-harms]] taxonomy and directly targets [[hallucination-risk]] and [[over-reliance]] in deployed tutors.
 
@@ -27,4 +26,5 @@ To make evaluation provenance explicit the authors build BILearn-CS, a 600-query
 - [[didactical-teacher-assistant-dimensional-modeling]] — Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes 
 
 ## Citation
-**APA:** Hossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026). *EduGuard: A Safe RAG-Based LLM Tutor for Programming Education*. arXiv:2607.15738.
+
+Hossain, S. M. A., Shayoni, R. K., Mridha, M. F., & Shin, J. (2026). [EduGuard: A Safe RAG-Based LLM Tutor for Programming Education](https://arxiv.org/abs/2607.15738). arXiv:2607.15738.

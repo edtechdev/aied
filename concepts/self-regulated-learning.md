@@ -7,10 +7,6 @@ tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, for
 confidence: high
 sources: [raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md, raw/papers/stanford-evidence-base-ai-k12-2026.md]
 ---
-> 📄 Full text: [Springer](https://link.springer.com/content/pdf/10.1186/s41239-026-00589-7.pdf) · [local](raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md) · [Stanford SCALE](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf) · [local](raw/papers/stanford-evidence-base-ai-k12-2026.md)
-
-
-
 
 # Self-Regulated Learning
 

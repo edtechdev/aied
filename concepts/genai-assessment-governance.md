@@ -12,8 +12,6 @@ confidence: high
 
 **Gao, Chen, Li & Zhai (2026)** — University of Georgia.
 
-📄 [Full text (arXiv)](https://arxiv.org/abs/2605.24837)
-
 This paper proposes a principled framework grounded in Evidence-Centered Design (ECD) that treats [[generative-ai]] as a design variable within STEM assessment arguments rather than an external threat. This represents a significant evolution beyond the binary debate of 'ban AI vs. allow AI' that has dominated discussions about [[academic-integrity]] in education.
 
 ## Three Governance Stances
@@ -47,4 +45,5 @@ By situating GenAI governance within validity arguments, the framework offers ac
 - [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support 
 
 ## Citation
-**APA:** Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). *Generative AI as a design variable: An evidence-centered framework for principled governance in STEM assessment*. arXiv:2605.24837. cs.CY.
+
+Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). [Generative AI as a design variable: An evidence-centered framework for principled governance in STEM assessment](https://arxiv.org/abs/2605.24837). arXiv:2605.24837. cs.CY.

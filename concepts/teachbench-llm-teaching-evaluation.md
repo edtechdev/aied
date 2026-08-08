@@ -7,10 +7,6 @@ tags: [llm, benchmark, formative-assessment, personalized-learning, feedback-loo
 sources: [raw/papers/2601.21375.md]
 confidence: high
 ---
-> 📄 Full text: [arXiv:2601.21375](https://arxiv.org/abs/2601.21375) · [local](raw/papers/2601.21375.md)
-
-
-
 
 # TeachBench: Evaluating LLM Teaching Ability
 
@@ -102,6 +98,3 @@ Models, T.A.S.F.F.E.T.A.I.L.L. (2026). [*TeachBench - Evaluating LLM Teaching Ab
 - [[programming-its]] — SCRIPT's individualized hints as teaching strategy
 
 - [[multi-agent-instructional-design]] — Complementary: material design vs. teaching ability evaluation
-
-## Sources
-- Li, Zheng et al. (2026). *TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models*. arXiv:2601.21375. [PDF](https://arxiv.org/pdf/2601.21375)
