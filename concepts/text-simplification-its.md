@@ -7,10 +7,11 @@ tags: [intelligent-tutoring, nlp-education, adaptive-learning, human-in-the-loop
 sources: [raw/papers/2604.08947.md]
 confidence: medium
 ---
-
 # Text Simplification for Intelligent Tutoring
 
 > Human-in-the-loop evaluation framework for text simplification in ITS, addressing LLM output variability across prompting strategies.
+> **Source:** [Text Simplification for Intelligent Tutoring](https://arxiv.org/abs/2604.08947)
+
 
 ## The Challenge of Text Simplification in Education
 
@@ -52,7 +53,7 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 
 ## Citation
 
-al, A.R.R.G.P.A.D.E. (2026). [*Text Simplification for Intelligent Tutoring*](https://arxiv.org/abs/2604.08947)
+al, A.R.R.G.P.A.D.E. (2026). *Text Simplification for Intelligent Tutoring*
 
 ## Related Pages
 - [[adaptive-learning-systems]] — Content adaptation as core ITS function

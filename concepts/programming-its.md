@@ -7,10 +7,11 @@ tags: [intelligent-tutoring, stem-education, higher-ed, adaptive-learning, forma
 sources: [raw/papers/2604.16117.md]
 confidence: medium
 ---
-
 # Programming Intelligent Tutoring Systems
 
 > ITS for programming education with individualized hints, addressing the scarcity of human tutors for practice-intensive coding courses.
+> **Source:** [Programming Intelligent Tutoring Systems](https://arxiv.org/abs/2604.16117)
+
 
 ## SCRIPT: Python Programming Tutor
 
@@ -55,7 +56,7 @@ SCRIPT's contribution: **Python-specific** tutoring with German-language context
 
 ## Citation
 
-Paassen, A.A.D.J.D.B. (2026). [*Programming Intelligent Tutoring Systems*](https://arxiv.org/abs/2604.16117)
+Paassen, A.A.D.J.D.B. (2026). *Programming Intelligent Tutoring Systems*
 
 ## Related Pages
   - [[simulating-students-java-programming-errors-llms]] — LLM-generated synthetic errors as training data for programming ITS

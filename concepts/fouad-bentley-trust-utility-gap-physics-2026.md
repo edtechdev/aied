@@ -6,8 +6,9 @@ tags: [physics-education, trust-calibration, ai-literacy, student-experience, hi
 sources: [raw/papers/fouad-bentley-trust-utility-gap-2026.md]
 confidence: high
 ---
-
 > **Synthesis:** Fouad & Bentley (2026) survey 81 introductory physics students and find a striking 50-percentage-point trust-utility gap: 91% use AI for coursework but only 41% trust AI physics explanations — evidence of domain-calibrated skepticism, not uncritical adoption. Students spontaneously identified where AI fails in physics (visual-spatial reasoning, circuits, abstract reasoning), aligning with known benchmarks. 65% prefer optional over mandatory AI integration.
+> **Source:** [Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration](https://doi.org/10.1103/bdl1-6bn4)
+
 
 # Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration
 
@@ -34,4 +35,4 @@ This work connects to: [[physics-education]][[trust-calibration]][[ai-literacy]]
 
 Fouad & Bentley (2026) survey 81 introductory physics students and find a striking 50-percentage-point trust-utility gap: 91% use AI for coursework but only 41% trust AI physics explanations — evidence of domain-calibrated skepticism, not uncritical adoption. Students spontaneously identified where AI fails in physics (visual-spatial reasoning, circuits, abstract reasoning), aligning with known benchmarks. 65% prefer optional over mandatory AI integration.
 
-# Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration. [Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration](https://doi.org/10.1103/bdl1-6bn4).
+# Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration. Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration.

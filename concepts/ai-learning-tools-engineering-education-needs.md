@@ -7,11 +7,9 @@ tags: [higher-ed, stem-education, student-experience, affective-computing, perso
 sources: [raw/papers/2607.26338.md]
 confidence: high
 ---
-
 # Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
 
-**Shao et al. (2026)** — Under review.
-
+**Shao et al. (2026)** — [Under review](https://arxiv.org/abs/2607.26338)
 Survey of 206 engineering students: AI chatbots provide greatest perceived benefit as relief from competence frustration, smaller benefits for autonomy, weakest for relatedness. Baseline motivational states matter more than demographics; inattention moderates how baseline competence and autonomy relate to perceived AI benefits. Offers design principles for engineering-specific AI learning tools.
 
 **Relevance to AI in Education:** This paper contributes to the understanding of [[llm-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
@@ -28,4 +26,4 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 
 ## Citation
 
-Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous (2026). [Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes](https://arxiv.org/abs/2607.26338). arXiv:2607.26338. Under review.
+Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous (2026). Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes. arXiv:2607.26338. Under review.

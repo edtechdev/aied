@@ -7,11 +7,9 @@ tags: [personalized-learning, adaptive-learning, ai-literacy, higher-ed, engagem
 sources: [raw/papers/2606.18548.md]
 confidence: medium
 ---
-
 # Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
 
-**Yongkyung Oh, Lynn Talton, Alex Bui (2026)** — Institution.
-
+**Yongkyung Oh, Lynn Talton, Alex Bui (2026)** — [Institution](https://arxiv.org/abs/2606.18548)
 Engagement intensity during AI ethics instruction serves as an effective learner-modeling signal for adaptive instruction; prior LLM experience influences engagement patterns.
 
 ## Synthesis
@@ -27,4 +25,4 @@ Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruc
 
 ## Citation
 
-Yongkyung Oh, Lynn Talton, Alex Bui (2026). [Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction](https://arxiv.org/abs/2606.18548). arXiv:2606.18548.
+Yongkyung Oh, Lynn Talton, Alex Bui (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. arXiv:2606.18548.

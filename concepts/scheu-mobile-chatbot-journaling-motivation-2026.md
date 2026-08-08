@@ -7,11 +7,9 @@ tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, en
 sources: [raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
 confidence: high
 ---
-
 # Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
 
-**Sven Scheu, Simone N. Loeffler & Alexander Maedche (2026)** — *International Journal of Educational Technology in Higher Education* (Springer), 23:15. Open Access, CC BY 4.0. doi:10.1186/s41239-026-00589-7. *(Page upgraded from stub to full synthesis 2026-08-03 — full text now ingested.)*
-
+**Sven Scheu, Simone N. Loeffler & Alexander Maedche (2026)** — [DOI](https://doi.org/10.1186/s41239-026-00589-7)
 ## Summary
 
 A **randomized 2×2 full-factorial field experiment** (N = 179 German university students, 22 days of app use, 12-week follow-up) testing two design principles for a **mobile chatbot-based learning journaling system** aimed at keeping students motivated to maintain reflective learning journals — a known pain point (rapid decline in motivation/engagement after brief use). The two principles: (1) an **example-based built-in course** (7 days, one SRL topic per day, time-gated, modeled example responses) and (2) an **LLM-based journaling assistant** (GPT-3.5-turbo-1106) that scaffolds entries by summarizing drafts, asking clarifying follow-up questions, and generating alternative first-person formulations.^[raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
@@ -57,4 +55,4 @@ A **randomized 2×2 full-factorial field experiment** (N = 179 German university
 
 ## Citation
 
-Scheu, S., Loeffler, S. N., & Maedche, A. (2026). Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement. [*International Journal of Educational Technology in Higher Education*](https://doi.org/10.1186/s41239-026-00589-7), 23, 15
+Scheu, S., Loeffler, S. N., & Maedche, A. (2026). Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement. *International Journal of Educational Technology in Higher Education*, 23, 15

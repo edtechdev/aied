@@ -7,11 +7,9 @@ tags: [agentic-ai, cs-education, feedback-loop, formative-assessment, intelligen
 sources: [raw/papers/2607.06074.md]
 confidence: high
 ---
-
 # Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development
 
-**Rohit Mehra et al. (2026)** — IBM Research / International Institute of Information Technology. arXiv.
-
+**Rohit Mehra et al. (2026)** — [arXiv preprint](https://arxiv.org/abs/2607.06074)
 Prompt engineering is a critical yet undertaught skill for software developers, poorly served by traditional instruction because of its evolving, interactive, context-dependent nature. The authors introduce **Prompt Coach (PC)**, an agentic tutor embedded in-flow within a developer's IDE that teaches prompt crafting through Socratic guidance. PC scores prompt quality across multiple dimensions and surfaces targeted questions that guide self-correction, grounded in the developer's codebase and the target LLM's behavior. An early empirical study with 15 professional developers showed statistically significant improvements after a single 60-minute session, with the largest gains on dimensions developers commonly overlook, plus strong trust and adoption readiness.
 
 ## Key Contributions
@@ -30,4 +28,4 @@ Prompt engineering is a critical yet undertaught skill for software developers, 
 
 ## Citation
 
-Mehra, R., Singi, K., Kaulgud, V., Sharma, V. S., & Choudhury, S. G. (2026). [Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development](https://arxiv.org/abs/2607.06074). arXiv:2607.06074.
+Mehra, R., Singi, K., Kaulgud, V., Sharma, V. S., & Choudhury, S. G. (2026). Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development. arXiv:2607.06074.

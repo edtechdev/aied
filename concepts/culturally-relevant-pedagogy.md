@@ -61,7 +61,7 @@ While AI tools can scaffold CRP implementation, they risk **reinforcing dominant
 
 ## References
 
-Wang, J., Xiao, R., et al. (2025). [Culturally Relevant Pedagogy](https://arxiv.org/abs/2505.08083).
+Wang, J., Xiao, R., et al. (2025). Culturally Relevant Pedagogy.
 
 ## Related Pages
 - [[taklif-ai-interest-based-personalized-assignments]] — Cultural contexts incorporated into assignment generation

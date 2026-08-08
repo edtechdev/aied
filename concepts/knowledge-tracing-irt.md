@@ -7,10 +7,11 @@ tags: [adaptive-learning, intelligent-tutoring, personalized-learning, learning-
 confidence: medium
 sources: [raw/papers/huang-interpretable-knowledge-tracing-2026.md]
 ---
-
 # Interpretable Knowledge Tracing via IRT
 
 > Most LLM-based dialogue tutoring systems produce opaque predictions. Huang et al. map raw LLM logits into **student ability (θ)** and **task difficulty (d)** parameters via Item Response Theory, yielding predictions that are both more accurate and interpretable in cognitive terms.^[[huang-interpretable-knowledge-tracing-2026]]
+> **Source:** [Interpretable Knowledge Tracing via IRT](https://arxiv.org/abs/2605.01097)
+
 
 ## The Problem with Opaque KT
 
@@ -62,7 +63,7 @@ This framework is an enabler for [[tutoring-specific-vs-general-ai|tutoring-spec
 
 ## Citation
 
-Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing via IRT*](https://arxiv.org/abs/2605.01097)
+Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). *Interpretable Knowledge Tracing via IRT*
 
 ## Related Pages
 - [[kt4eqg-personalized-question-generation]] — 7 of 8 papers in May 28 scan

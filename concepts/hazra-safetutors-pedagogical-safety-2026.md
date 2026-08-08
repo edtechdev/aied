@@ -7,8 +7,9 @@ tags: [pedagogical-safety, k-12]
 sources: [raw/papers/hazra-safetutors-pedagogical-safety-2026.md]
 confidence: medium
 ---
-
 > **SafeTutors** is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across mathematics, physics, and chemistry. It argues that **tutoring safety is fundamentally different from conventional LLM safety**: the primary risk is not toxic content but the quiet erosion of learning through answer over-disclosure, misconception reinforcement, and the abdication of scaffolding.
+> **Source:** ['SafeTutors: Pedagogical Safety in AI Tutoring'](https://arxiv.org/abs/2603.17373)
+
 
 **Authors:** Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy · arXiv:2603.17373 · 3,135 single-turn + 2,820 multi-turn instances · 11 models tested
 
@@ -36,7 +37,7 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 
 ## Citation
 
-acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). [*SafeTutors: Pedagogical Safety in AI Tutoring*](https://arxiv.org/abs/2603.17373)
+acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). *SafeTutors: Pedagogical Safety in AI Tutoring*
 
 ## Related Pages
 

@@ -7,11 +7,9 @@ tags: [llm, generative-ai, feedback-loop, higher-ed, scaffolding, efficacy-study
 sources: [raw/papers/2605.16933.md]
 confidence: high
 ---
-
 # The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
 
-**Mihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026)** — Aalto University, University of Pittsburgh, UC San Diego. arXiv preprint.
-
+**Mihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.16933)
 ## Key Finding
 LLM-generated feedback produces faster time-to-solution than compiler-only baseline; counterintuitively, less guided feedback showed stronger effects than more guided variants.
 
@@ -20,7 +18,7 @@ This study provides empirical evidence on how LLM-generated feedback structure a
 
 ## Citation
 
-Mihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026). [The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance](https://arxiv.org/abs/2605.16933).
+Mihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026). The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance.
 
 ## Related Pages
 - [[mindcopilot-llm-co-writing]] — Behavior-centered evaluation framework applicable beyond writing to programming feedback

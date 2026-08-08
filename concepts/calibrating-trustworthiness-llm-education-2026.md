@@ -7,8 +7,9 @@ tags: [llm, ai-ed-evaluation, trust-calibration, human-in-the-loop, instructiona
 sources: [raw/papers/2608.04006.md]
 confidence: high
 ---
-
 > **Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM res... [[llm]] [[ai-ed-evaluation]] [[trust-calibration]] [[human-in-the-loop]] [[instructional-design]] [[edtech-platform]]
+> **Source:** [Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education](https://arxiv.org/abs/2608.04006)
+
 
 # Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
 
@@ -34,4 +35,4 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 
 ## Citation
 
-Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, & Alex Endert (2026). [Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education](https://arxiv.org/abs/2608.04006). arXiv:2608.04006. arXiv:2608.04006 [cs.HC] (under review).
+Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, & Alex Endert (2026). Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education. arXiv:2608.04006. arXiv:2608.04006 [cs.HC] (under review).

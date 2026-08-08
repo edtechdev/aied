@@ -7,11 +7,9 @@ tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, student-expe
 sources: [raw/papers/2605.09369.md]
 confidence: medium
 ---
-
 # Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
 
-**Wu, S., Xu, C., Zhang, W. (2026)** — arXiv preprint.
-
+**Wu, S., Xu, C., Zhang, W. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.09369)
 ## Analysis
 
 This paper introduces **PLKT** (Probabilistic Logical Knowledge Tracing), which replaces deterministic vector embeddings with **beta-distributed probabilistic embeddings**, allowing explicit representation of uncertainty in each knowledge state.^[raw/papers/2605.09369.md]
@@ -29,4 +27,4 @@ The framework applies **transparent logical operations** over probabilistic stat
 
 ## Citation
 
-Wu et al. (2026). [Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning](https://arxiv.org/abs/2605.09369). arXiv:2605.09369. arXiv preprint.
+Wu et al. (2026). Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning. arXiv:2605.09369. arXiv preprint.

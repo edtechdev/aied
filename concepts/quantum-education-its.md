@@ -7,10 +7,11 @@ tags: [adaptive-learning, higher-ed, intelligent-tutoring, knowledge-tracing, st
 sources: [raw/papers/2604.24807.md]
 confidence: medium
 ---
-
 # Quantum Education Intelligent Tutoring
 
 > Knowledge-graph-augmented ITS for quantum computing education, addressing instructor scarcity and concept counterintuitiveness.
+> **Source:** [Quantum Education Intelligent Tutoring](https://arxiv.org/abs/2604.24807)
+
 
 ## System Architecture
 
@@ -53,7 +54,7 @@ This aligns with the [[tutoring-specific-vs-general-ai|tutoring-specific design]
 
 ## Citation
 
-Chrisochoides, A.I.E.N. (2026). [*Quantum Education Intelligent Tutoring*](https://arxiv.org/abs/2604.24807)
+Chrisochoides, A.I.E.N. (2026). *Quantum Education Intelligent Tutoring*
 
 ## Related Pages
 - [[adaptive-learning-systems]] — General adaptive systems context

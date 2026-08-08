@@ -7,10 +7,11 @@ tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, for
 confidence: high
 sources: [raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md, raw/papers/stanford-evidence-base-ai-k12-2026.md]
 ---
-
 # Self-Regulated Learning
 
 > Self-regulated learning (SRL) describes learners as active participants who can shape and develop their cognitive and behavioral actions in a successful way. AI tools can either scaffold SRL development or inadvertently short-circuit it by removing the regulatory demands that build expertise.^[[scheu-mobile-chatbot-journaling-motivation-2026]]^[[stanford-evidence-base-ai-k12-2026]]
+> **Source:** [Self-Regulated Learning](https://link.springer.com/content/pdf/10.1186/s41239-026-00589-7.pdf)
+
 
 ## Definition
 

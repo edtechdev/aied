@@ -7,11 +7,9 @@ tags: [intelligent-tutoring, personalized-learning, scaffolding, adaptive-learni
 sources: [raw/papers/2606.25337.md]
 confidence: medium
 ---
-
 # AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 
-**Wang, Gu, Loquercio, Hu & Mangharam (2026)** — University of Pennsylvania. cs.RO, cs.AI, cs.HC.
-
+**Wang, Gu, Loquercio, Hu & Mangharam (2026)** — [University of Pennsylvania. cs.RO, cs.AI, cs.HC](https://arxiv.org/abs/2606.25337)
 This paper explores how an embodied AI agent can act as a [[scaffolding|coach]] that accelerates human motor-skill development using [[adaptive-learning|reinforcement learning]]. The authors argue that effective coaching requires dynamically balancing guidance with learner autonomy — too much assistance leads to [[over-reliance]] and skill atrophy, while too little leaves learners struggling.
 
 **Key findings:**
@@ -35,4 +33,4 @@ This paper explores how an embodied AI agent can act as a [[scaffolding|coach]] 
 
 ## Citation
 
-Wang, W., Gu, E., Loquercio, A., Hu, H., & Mangharam, R. (2026). [AI Coaching for Accelerating Human Skill Development with Reinforcement Learning](https://arxiv.org/abs/2606.25337). arXiv:2606.25337. cs.RO.
+Wang, W., Gu, E., Loquercio, A., Hu, H., & Mangharam, R. (2026). AI Coaching for Accelerating Human Skill Development with Reinforcement Learning. arXiv:2606.25337. cs.RO.

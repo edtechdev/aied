@@ -7,8 +7,9 @@ tags: [llm, computational-thinking, physics-education, stem-education, assessmen
 sources: [raw/papers/2608.06200.md]
 confidence: medium
 ---
-
 > **Synthesis:** Savage, Shanker, Michlitsch & Rebello (2026) investigate using LLMs to evaluate students' written explanations of computational physics problems at scale. Establishing a human-coded baseline grounded in CT literature, they found significant growth in Data Practices and Computational Problem-Solving Practices. The LLM successfully mirrored human evaluations for these constructs, but both human raters and the LLM struggled with more complex constructs like Systems Thinking. This work demonstrates that LLMs offer a viable, scalable method for assessing computational thinking in large-enrollment physics courses.
+> **Source:** [Using LLMs to Detect Growth in Computational Thinking in Introductory Physics](https://arxiv.org/abs/2608.06200)
+
 
 # Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
 
@@ -33,4 +34,4 @@ This work connects to: [[llm]][[computational-thinking]][[physics-education]][[s
 
 Savage, Shanker, Michlitsch & Rebello (2026) investigate using LLMs to evaluate students' written explanations of computational physics problems at scale. Establishing a human-coded baseline grounded in CT literature, they found significant growth in Data Practices and Computational Problem-Solving Practices. The LLM successfully mirrored human evaluations for these constructs, but both human raters and the LLM struggled with more complex constructs like Systems Thinking. This work demonstrates that LLMs offer a viable, scalable method for assessing computational thinking in large-enrollment physics courses.
 
-# Using LLMs to Detect Growth in Computational Thinking in Introductory Physics. [Using LLMs to Detect Growth in Computational Thinking in Introductory Physics](https://arxiv.org/abs/2608.06200).
+# Using LLMs to Detect Growth in Computational Thinking in Introductory Physics. Using LLMs to Detect Growth in Computational Thinking in Introductory Physics.

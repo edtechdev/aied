@@ -7,11 +7,9 @@ tags: [cs-education, student-experience, scaffolding, active-learning, feedback-
 sources: [raw/papers/2606.19570.md]
 confidence: high
 ---
-
 # Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations
 
-**Naaz Sibia, Jessica Wen, Amber Richardson, Yashika Jain, Khushi Malik, Bogdan Simion, Carolina Nobre, Angela Zavaleta Bernuy, Andrew Petersen, Michael Liut** (2026). ICER 2026
-
+**Naaz Sibia, Jessica Wen, Amber Richardson, Yashika Jain, Khushi Malik, Bogdan Simion, Carolina Nobre, Angela Zavaleta Bernuy, Andrew Petersen, Michael Liut** (2026) . [ICER 2026](https://arxiv.org/abs/2606.19570)
 ## Overview
 
 Students spent ~47% of gaze time on code despite visual scaffolds. Three factors shape selective engagement with multi-representational tools: Agency (students want control over cognitive effort), Representational Fit (same design feels helpful to some, overwhelming to others), and Legitimacy (metaphorical scaffolds perceived as childish at university level).
@@ -57,4 +55,4 @@ Students spent ~47% of gaze time on code despite visual scaffolds. Three factors
 
 ## Citation
 
-Naaz Sibia, Jessica Wen, Amber Richardson, Yashika Jain, Khushi Malik, Bogdan Simion, Carolina Nobre, Angela Zavaleta Bernuy, Andrew Petersen, Michael Liut (2026). [Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations](https://arxiv.org/abs/2606.19570). arXiv:2606.19570. ICER 2026.
+Naaz Sibia, Jessica Wen, Amber Richardson, Yashika Jain, Khushi Malik, Bogdan Simion, Carolina Nobre, Angela Zavaleta Bernuy, Andrew Petersen, Michael Liut (2026). Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations. arXiv:2606.19570. ICER 2026.

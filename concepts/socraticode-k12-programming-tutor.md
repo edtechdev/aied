@@ -7,11 +7,9 @@ tags: [intelligent-tutoring, llm, generative-ai, k-12, scaffolding, student-expe
 sources: [raw/papers/2605.17857.md]
 confidence: medium
 ---
-
 # Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
 
-**Lucas, C., Bihani, A., Kukka, R., Tsai, C.-H., Sarker, J., & Imran, M. M. (2026)** — University of Nebraska at Omaha, Penn State. arXiv preprint.
-
+**Lucas, C., Bihani, A., Kukka, R., Tsai, C.-H., Sarker, J., & Imran, M. M. (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.17857)
 ## Key Finding
 Socratic questioning, reflection prompts, misconception checks, and mandatory pauses produce better K-12 engagement than directive answer-giving AI tutors.
 
@@ -20,6 +18,6 @@ SocratiCode demonstrates a participatory design evolution from directive AI tuto
 
 ## Citation
 
-preprint, A. (2026). [*Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study*](https://arxiv.org/abs/2605.17857)
+preprint, A. (2026). *Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study*
 
 ## Related Pages

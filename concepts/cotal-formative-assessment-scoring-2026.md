@@ -7,10 +7,11 @@ tags: [formative-assessment, automated-grading, human-in-the-loop, prompt-engine
 sources: [raw/papers/cotal-formative-assessment-scoring-2026.md]
 confidence: high
 ---
-
 # CoTAL: Formative Assessment Scoring with Human-in-the-Loop Prompt Engineering
 
 > Cohn, Ashwin T S, Mohammed & Biswas (2026) introduce **CoTAL** (Chain-of-Thought Prompting + Active Learning): an LLM grading pipeline that couples Evidence-Centered Design with human-in-the-loop prompt engineering and iterative teacher/student feedback refinement. It improves GPT-4's scoring by **up to 38.9% over a non-prompt-engineered baseline** and generalises across science, computing, and engineering — direct evidence that prompt-engineering quality, not model choice, is often the binding constraint in [[automated-grading]].
+> **Source:** [CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback](https://arxiv.org/abs/2504.02323)
+
 
 ## How it works
 
@@ -46,4 +47,4 @@ confidence: high
 
 ## Citation
 
-- Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. [arXiv:2504.02323](https://arxiv.org/abs/2504.02323). Under review, Computers and Education: Artificial Intelligence.
+- Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback. arXiv:2504.02323. Under review, Computers and Education: Artificial Intelligence.

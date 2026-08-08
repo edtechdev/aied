@@ -7,10 +7,11 @@ tags: [agentic-ai, ai-literacy, human-in-the-loop, k-12, pedagogical-safety]
 sources: [raw/papers/2508.16659.md]
 confidence: high
 ---
-
 # Multi-Agent Systems for Instructional Design
 
 > Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators.
+> **Source:** [Multi-Agent Systems for Instructional Design](https://arxiv.org/abs/2508.16659)
+
 
 ## The Prompting Gap in K-12 Education
 
@@ -103,7 +104,7 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 
 ## Citation
 
-John, A.W.J.X.R.H.X.S. (2026). [*Multi-Agent Systems for Instructional Design*](https://arxiv.org/abs/2508.16659)
+John, A.W.J.X.R.H.X.S. (2026). *Multi-Agent Systems for Instructional Design*
 
 ## Related Pages
 - [[agentic-ai-ecosystems-higher-education]] — Multi-agent AI coordination for instructional design

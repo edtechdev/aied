@@ -7,15 +7,16 @@ tags: [generative-ai, higher-ed, stem-education, faculty-development, educationa
 sources: [raw/papers/caeai-genai-runaway-object.md]
 confidence: medium
 ---
-
 > **Synthesis:** GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics
+> **Source:** [GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics](https://doi.org/10.1016/j.caeai.2026.100637)
+
 
 # GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics
 
 
 ## Citation
 
-Bui, A.D.B.Y.L.P., 100637, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics*](https://doi.org/10.1016/j.caeai.2026.100637)
+Bui, A.D.B.Y.L.P., 100637, S.C.A.E.A.I.V., & Access), L.C.B. (2026). *GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics*
 
 ## Related Pages
 - [[generative-ai]]

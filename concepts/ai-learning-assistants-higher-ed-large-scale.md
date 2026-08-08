@@ -9,8 +9,7 @@ confidence: high
 ---
 # Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 
-**A. Leypold, M. Knolle, A. F. D. S. et al. (2026)** — arXiv preprint. Venue: arXiv:2607.08748.
-
+**A. Leypold, M. Knolle, A. F. D. S. et al. (2026)** — [arXiv preprint. Venue: arXiv:2607.08748](https://arxiv.org/abs/2607.08748)
 Presents a large-scale descriptive analysis of an AI learning assistant (Syntea) using objective log data from 77,543 higher-education students, characterizing real usage patterns, adoption, and engagement at scale. The work connects to broader debates about how [[generative-ai]] systems reshape [[student-experience]] and the conditions under which AI support [[scaffolding|scaffolds]] rather than undermines learning. It has direct implications for [[pedagogy-ai-mistakes]] and the risk of [[over-reliance]] when assistants absorb too much of the cognitive load. Findings also bear on [[ai-literacy]] and [[self-regulated-learning]], and on how institutions should govern [[student-ai-interaction]] and [[academic-integrity]]. Practitioners in [[higher-ed]] and [[teacher-role|teachers]] can use the evidence to calibrate when to deploy [[llm]]-based help and how to pair it with [[feedback-loop|feedback]] that preserves learning gains.
 
 ## Related Pages
@@ -23,4 +22,4 @@ Presents a large-scale descriptive analysis of an AI learning assistant (Syntea)
 
 ## Citation
 
-A. Leypold, M. Knolle, A. F. D. S. et al. (2026). [Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis](https://arxiv.org/abs/2607.08748). arXiv:2607.08748.
+A. Leypold, M. Knolle, A. F. D. S. et al. (2026). Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis. arXiv:2607.08748.

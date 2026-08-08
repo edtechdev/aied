@@ -33,7 +33,7 @@ Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Bet
 
 ## Citation
 
-Zhang, S., Xiao, R., et al. (2026). ['AI Literacy Assessment: Self-Reported vs Performance Misalignment'](https://arxiv.org/abs/2601.06101).
+Zhang, S., Xiao, R., et al. (2026). 'AI Literacy Assessment: Self-Reported vs Performance Misalignment'.
 
 ## Related Pages
 - [[critical-genai-use-predictors]] — Self-reported vs objective knowledge both predict critical use

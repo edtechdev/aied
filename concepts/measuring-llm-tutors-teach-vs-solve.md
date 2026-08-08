@@ -7,11 +7,9 @@ tags: [intelligent-tutoring, llm, feedback-loop, scaffolding, benchmark]
 sources: [raw/papers/2606.16206.md]
 confidence: high
 ---
-
 # Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
 
-**Junyi Yao, Zihao Zheng, Baichuan Li (2026)** — arXiv preprint  
-
+**Junyi Yao, Zihao Zheng, Baichuan Li (2026)** — [arXiv preprint](https://arxiv.org/abs/2606.16206)
 Studies whether public LLM tutoring benchmarks distinguish learning-supportive behavior from mere answer production. Proposes a lightweight diagnostic based on the gap between solving-oriented and pedagogy-oriented benchmark performance. Using MathTutorBench, shows correlation between solving and pedagogy composites is only r=0.421 across 8 models, with several models shifting rank when evaluated on pedagogy. Benchmarks reward guiding questions, calibrated hints, and non-disclosive scaffolding. Recommends reporting solving and pedagogy scores separately.
 
 ## Key Contributions
@@ -29,4 +27,4 @@ Studies whether public LLM tutoring benchmarks distinguish learning-supportive b
 
 ## Citation
 
-Junyi Yao, Zihao Zheng, Baichuan Li (2026). [Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact](https://arxiv.org/abs/2606.16206). arXiv:2606.16206. arXiv preprint.
+Junyi Yao, Zihao Zheng, Baichuan Li (2026). Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact. arXiv:2606.16206. arXiv preprint.

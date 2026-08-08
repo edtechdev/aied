@@ -7,10 +7,8 @@ tags: [ai-literacy, higher-ed, learning-analytics, prompt-engineering, writing-e
 sources: [raw/papers/2606.00040.md]
 confidence: high
 ---
-
 # Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
-**Angxuan Chen & Jiyou Jia (2026)** — arXiv:2606.00040.
-
+**Angxuan Chen & Jiyou Jia (2026)** — [arXiv:2606.00040](https://arxiv.org/abs/2606.00040)
 Identifies interaction signatures of LLM literacy using Epistemic Network Analysis (ENA) on logs from 162 students. High-literacy students exhibit iterative, strategic refinement and dense cognitive networking, while low-literacy students rely on direct, linear commands. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-workflows]] rather than just syntax mastery.
 
 ## Related Pages
@@ -22,4 +20,4 @@ Identifies interaction signatures of LLM literacy using Epistemic Network Analys
 
 ## Citation
 
-Angxuan Chen & Jiyou Jia (2026). [Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing](https://arxiv.org/abs/2606.00040). arXiv:2606.00040.
+Angxuan Chen & Jiyou Jia (2026). Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing. arXiv:2606.00040.

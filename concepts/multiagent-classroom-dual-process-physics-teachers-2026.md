@@ -7,8 +7,9 @@ tags: [multi-agent, physics-education, teacher-training, dual-process-theory, si
 sources: [raw/papers/2608.05820.md]
 confidence: medium
 ---
-
 > **Synthesis:** Tufino (2026) pilots a simulated multi-agent AI classroom where five AI students each enact distinct dual-process theory (DPT) reasoning hazards, giving prospective physics teachers rare practice in responding to authentic student reasoning. Fifteen graduate students showed significant improvement in diagnostic scores (p=0.014, r=0.79), but during the simulation itself used predominantly uniform guiding questions — revealing a knowing-doing gap on the developmental trajectory toward responsive teaching.
+> **Source:** [A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers](https://arxiv.org/abs/2608.05820)
+
 
 # A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
 
@@ -34,4 +35,4 @@ This work connects to: [[multi-agent]][[physics-education]][[teacher-training]][
 
 Tufino (2026) pilots a simulated multi-agent AI classroom where five AI students each enact distinct dual-process theory (DPT) reasoning hazards, giving prospective physics teachers rare practice in responding to authentic student reasoning. Fifteen graduate students showed significant improvement in diagnostic scores (p=0.014, r=0.79), but during the simulation itself used predominantly uniform guiding questions — revealing a knowing-doing gap on the developmental trajectory toward responsive teaching.
 
-# A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers. [A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers](https://arxiv.org/abs/2608.05820).
+# A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers. A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers.

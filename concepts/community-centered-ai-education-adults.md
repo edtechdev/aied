@@ -7,11 +7,9 @@ tags: [ai-literacy, lifelong-learning, equity, student-experience, edtech-platfo
 sources: [raw/papers/2606.26565.md]
 confidence: high
 ---
-
 # Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study
 
-**Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026)** — arXiv cs.HC
-📄 [PDF](https://arxiv.org/pdf/2606.26565)
+**Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026)** — [arXiv cs.HC](https://arxiv.org/abs/2606.26565)📄 [PDF](https://arxiv.org/pdf/2606.26565)
 
 This case study reports on a community-based participatory research project that co-designed an [[ai-literacy|AI literacy]] program for 54 adults (48 in-person and 6 virtual) in a predominantly African American community in the Midwestern United States. The program covered fundamental AI concepts, societal implications, and practical applications, using hands-on activities and concrete examples over abstract technical explanations.
 
@@ -29,4 +27,4 @@ The study contributes design considerations for [[edtech-platform|educational te
 
 ## Citation
 
-Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026). [Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study](https://arxiv.org/abs/2606.26565). arXiv:2606.26565. arXiv cs.HC.
+Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026). Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study. arXiv:2606.26565. arXiv cs.HC.

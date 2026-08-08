@@ -7,10 +7,11 @@ tags: [automated-grading, llm, formative-assessment, feedback-loop, higher-ed, l
 confidence: medium
 sources: [raw/papers/cong-confidence-asag-2026.md]
 ---
-
 # Automatic Short Answer Grading with LLMs
 
 > Zero-shot LLMs perform strongly on ASAG without task-specific fine-tuning, but **model-based confidence signals alone are insufficient** for reliable uncertainty quantification. A hybrid framework combining epistemic (model-derived) and aleatoric (dataset-derived) uncertainty significantly improves selective grading and calibration.^[[cong-confidence-asag-2026]]
+> **Source:** [Automatic Short Answer Grading with LLMs](https://arxiv.org/abs/2605.00200)
+
 
 ## Why Confidence Matters
 
@@ -65,7 +66,7 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 
 ## Citation
 
-Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). [*Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200)
+Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). *Automatic Short Answer Grading with LLMs*
 
 ## Related Pages
 - [[rubric-aware-grading-rec-cbm]] — 2 of 8 papers in May 28 scan

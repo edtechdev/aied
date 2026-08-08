@@ -7,11 +7,9 @@ tags: [generative-ai, over-reliance, ai-literacy, student-experience]
 sources: [raw/papers/2605.22687.md]
 confidence: medium
 ---
-
 # The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
 
-**Yu, Cheng, Jabbar, Sucholutsky, Collins, Jurafsky & Hawkins (2026)** — Stanford University / Princeton University. arXiv preprint (cs.CY, cs.HC).
-
+**Yu, Cheng, Jabbar, Sucholutsky, Collins, Jurafsky & Hawkins (2026)** — [arXiv preprint](https://arxiv.org/abs/2605.22687)
 ## Summary
 
 Across three pre-registered studies (N=2,691), this paper documents systematic miscalibration in how people perceive their own [[generative-ai|AI]] usage. The authors find that people not only use AI for cognitively simple tasks even when it provides no meaningful efficiency benefit, but also systematically misperceive both how much they use AI and how much it helps them.
@@ -50,4 +48,4 @@ These results have direct implications for AI literacy education: users need not
 
 ## Citation
 
-Yu, S., Cheng, M., Jabbar, A., Sucholutsky, I., Collins, K. M., Jurafsky, D., & Hawkins, R. D. (2026). [The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks](https://arxiv.org/abs/2605.22687). arXiv:2605.22687.
+Yu, S., Cheng, M., Jabbar, A., Sucholutsky, I., Collins, K. M., Jurafsky, D., & Hawkins, R. D. (2026). The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks. arXiv:2605.22687.

@@ -7,10 +7,11 @@ tags: [adaptive-learning, learning-analytics, affective-computing, higher-ed, fe
 sources: [raw/papers/2605.01238.md]
 confidence: medium
 ---
-
 # Engagement Assessment in Video Learning
 
 > Sensor-based momentary assessment of engagement in self-guided video learning environments.
+> **Source:** [Engagement Assessment in Video Learning](https://arxiv.org/abs/2605.01238)
+
 
 ## The Engagement Problem in Video Learning
 
@@ -54,7 +55,7 @@ Intelligent tutoring systems increasingly include **video components** (e.g., wo
 
 ## Citation
 
-al, A.Z.L.E.E.Y.S.E. (2026). [*Engagement Assessment in Video Learning*](https://arxiv.org/abs/2605.01238)
+al, A.Z.L.E.E.Y.S.E. (2026). *Engagement Assessment in Video Learning*
 
 ## Related Pages
 - [[affective-text-wearable-student-health]] — NLP analysis of affective text signals for student health monitoring

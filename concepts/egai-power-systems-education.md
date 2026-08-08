@@ -7,8 +7,9 @@ tags: [ai-education, stem-education, curriculum-design, open-source, professiona
 sources: [raw/papers/2608.02599.md]
 confidence: high
 ---
-
 > **An open, executable module library for engineering-grounded AI (EGAI) in power systems education lowers the entry barrier for newcomers, with a progressive difficulty ladder from DNN templates to physics-informed neural networks, delivered via IEEE online course and PES webinars.**
+> **Source:** [Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework](https://arxiv.org/abs/2608.02599)
+
 
 # Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
 
@@ -37,4 +38,4 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 
 ## Citation
 
-Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). [Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework](https://arxiv.org/abs/2608.02599). arXiv:2608.02599. arXiv (cs.AI / eess.SY) preprint.
+Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework. arXiv:2608.02599. arXiv (cs.AI / eess.SY) preprint.

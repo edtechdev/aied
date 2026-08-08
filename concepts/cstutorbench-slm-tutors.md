@@ -7,11 +7,9 @@ tags: [llm, intelligent-tutoring, k-12, privacy, benchmark, cs-education, feedba
 sources: [raw/papers/2607.05571.md]
 confidence: high
 ---
-
 # CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
 
-**H. Chad Lane & Bryson Kageler (2026)** — University of Arizona / University of Illinois. arXiv.
-
+**H. Chad Lane & Bryson Kageler (2026)** — [arXiv preprint](https://arxiv.org/abs/2607.05571)
 Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance on proprietary models, motivating small language models (SLMs) as an alternative. The authors introduce **CSTutorBench**, a benchmark evaluating language models as CS tutors in VEX VR, a block-based robotics environment. It comprises 17 scenario-based questions scored against a pedagogical rubric grounded in tutoring and feedback research, using a human-in-the-loop LLM-as-judge pipeline. Across 11 models (4B–120B parameters), models handled surface-level criteria (vocabulary, tone) well but struggled with deeper pedagogical behaviors — especially avoiding answer leakage and engaging with student debugging histories. Model family and instruction-tuning predicted tutoring quality better than parameter count; a targeted prompt revision improved scores for 10 of 11 models.
 
 ## Key Contributions
@@ -31,4 +29,4 @@ Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance 
 
 ## Citation
 
-Lane, H. C., & Kageler, B. (2026). [CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming](https://arxiv.org/abs/2607.05571). arXiv:2607.05571.
+Lane, H. C., & Kageler, B. (2026). CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming. arXiv:2607.05571.

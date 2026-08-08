@@ -7,10 +7,11 @@ tags: [llm, personalized-learning, adaptive-learning, intelligent-tutoring, gene
 confidence: medium
 sources: [raw/papers/nie-personavlm-long-term-personalization-2026.md]
 ---
-
 # LLM Student Modeling and Long-Term Memory Architecture
 
 > PersonaVLM demonstrates a general-purpose framework for long-term user personalization—chronological memory extraction, evolving personality inference, and persona-aligned response generation—that maps directly onto the challenge of building AI tutoring systems that remember a student's learning history across months or years.^[[nie-personavlm-long-term-personalization-2026]]
+> **Source:** [LLM Student Modeling and Long-Term Memory Architecture](https://arxiv.org/abs/2604.13074)
+
 
 ## The Challenge in Educational Contexts
 
@@ -72,7 +73,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 ## Citation
 
-Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). [*LLM Student Modeling and Long-Term Memory Architecture*](https://arxiv.org/abs/2604.13074)
+Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). *LLM Student Modeling and Long-Term Memory Architecture*
 
 ## Related Pages
 - [[structrag-diagram-reasoning-ai-tutoring]] — LLM-guided structural reasoning over graphs

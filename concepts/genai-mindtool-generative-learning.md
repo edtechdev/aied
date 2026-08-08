@@ -7,15 +7,16 @@ tags: [educational-theory, generative-ai, higher-ed, instructional-design, scaff
 sources: [raw/papers/caeai-genai-mindtool.md]
 confidence: medium
 ---
-
 > **Synthesis:** Generative AI (GenAI) as a mindtool that supports generative learning (GL)
+> **Source:** [Generative AI (GenAI) as a mindtool that supports generative learning (GL)](https://doi.org/10.1016/j.caeai.2026.100626)
+
 
 # Generative AI (GenAI) as a mindtool that supports generative learning (GL)
 
 
 ## Citation
 
-Fake, A.N.D.H., 100626, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Generative AI (GenAI) as a mindtool that supports generative learning (GL)*](https://doi.org/10.1016/j.caeai.2026.100626)
+Fake, A.N.D.H., 100626, S.C.A.E.A.I.V., & Access), L.C.B. (2026). *Generative AI (GenAI) as a mindtool that supports generative learning (GL)*
 
 ## Related Pages
 - [[educational-theory]]
