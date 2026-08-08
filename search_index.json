@@ -243,6 +243,7 @@
       "equity",
       "generative-ai",
       "higher-ed",
+      "rct",
       "student-experience",
       "writing-education"
     ],
@@ -781,6 +782,7 @@
       "generative-ai",
       "higher-ed",
       "learning-gains",
+      "rct",
       "student-experience"
     ],
     "content": "Summary This quasi-experimental study directly compares AI-generated feedback (two LLMs: GPT-o4-mini and DeepSeek R1 ) with expert human-teacher feedback in a project-based university course (Assessment & Learning, third-year Primary Teacher Education, University of Padua). The central question is not \"is AI feedback worse?\" but under what pedagogical conditions AI feedback can be a credible, educationally meaningful component of formative assessment. The answer the authors land on: feedback effectiveness depends less on its source than on the pedagogical architecture in which it is embedded — strong assessment literacy and explicit, shared criteria make AI feedback comparable to teacher feedback. Method (key parameters) Design: 47 student groups (N = 238; 146 attending, 92 non-attending) randomly assigned to one of three feedback conditions — DeepSeek R1 (16 groups), expert human teacher (16), GPT-o4-mini (15). Unit of analysis = group (4–5 students each) to preserve independence. Task: Two-stage project (PRE then POST), evaluated with a shared analytic rubric (0–30 points) co-constructed with students. AI prompt design: Both LLMs were given all course materials plus an assignment brief, the pedagogical framework, and the co-constructed rubric via a Retrieval-Augmented Generation (RAG) setup; instructed to act as a university professor and give objective, justified, actionable formative feedback. The rubric + an exemplar functioned as a \"calibration device\" that transferred the teacher's evaluative expectations into the AI. Analyses: Wilcoxon signed-rank (PRE–POST), Kruskal–Wallis across sources, robust linear models (HC3) for attendance moderation, and — crucially — non-inferiority and equivalence tests (Welch-adjusted 90% CIs, pre-specified margin ±1 point on the 30-point scale), because non-significant differences don't imply practical equivalence.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md] Key Findings RQ1 — Feedback improves performance regardl",
@@ -1755,8 +1757,12 @@
       "ai-literacy",
       "higher-ed",
       "physics-education",
+      "qualitative-research",
       "stem-education",
+      "student-ai-interaction",
       "student-experience",
+      "survey",
+      "technology-adoption",
       "trust-calibration"
     ],
     "content": "Becker, Bauer, Schrader, Bitzenbauer &amp; Veith (2026) analyze 1,189 survey responses and find two distinct ChatGPT user profiles in physics-education : 70% are Pragmatic Users who scaffold with AI despite knowing its inaccuracies, and 30% are Skeptical Non-Users who avoid it over over-reliance concerns. Both groups make calculated trade-offs — challenging one-size-fits-all AI policies and calling for differentiated pedagogy. Context While 61–88% of university students now use ChatGPT, the student-experience of AI in physics is poorly understood — especially in a discipline where Fouad &amp; Bentley (2026) recently documented a 50-point trust-utility gap. This study develops the first data-driven typology of how physics students perceive and use ChatGPT. Two User Profiles Pragmatic Users (70%) Skeptical Non-Users (30%) Use ChatGPT for conceptual clarification, finding starting points, scaffolding Avoid ChatGPT over concerns about overreliance and hindered independent problem-solving Aware of AI inaccuracies but calculate that benefits outweigh risks Calculate that risks (dependence, learning loss) outweigh benefits See AI as a scaffolding tool — not a solution generator Value independent reasoning as core to stem-education identity Key Findings Qualitative content analysis of 1,189 responses + latent class analysis identified exactly two profiles Both groups make calculated risk-utility trade-offs — neither is uncritical or naive Findings challenge institutional one-size-fits-all AI policies (mandatory AI, blanket bans) Recommend differentiated pedagogy: support reflective AI use for Pragmatic Users while validating practices of Skeptical Non-Users Complements trust-calibration literature — domain-specific skepticism, not blanket rejection or adoption Connections to Wiki Directly paired with Fouad &amp; Bentley (2026) — both published same day (Aug 6) in Phys. Rev. PER, both on physics students' AI attitudes Extends ai-literacy by showing that informed non-use is a",
@@ -3593,7 +3599,10 @@
       "higher-ed",
       "physics-education",
       "stem-education",
+      "student-ai-interaction",
       "student-experience",
+      "survey",
+      "technology-adoption",
       "trust-calibration"
     ],
     "content": "Fouad &amp; Bentley (2026) survey 81 introductory physics-education students and find a striking 50-percentage-point trust-utility gap: 91% use AI for coursework but only 41% trust AI physics explanations — evidence of domain-calibrated skepticism. Students spontaneously identified AI failure modes (visual-spatial reasoning, circuits, abstract reasoning) that align with known benchmark results, and 65% prefer optional over mandatory AI integration. Context As AI becomes pervasive in stem-education , understanding student-experience is critical — especially in physics, where the discipline's distinctive epistemic demands (abstract reasoning, visual-spatial interpretation, mathematical formalism) create unique challenges for ai-literacy . The Trust-Utility Gap The headline finding: 91% of students use AI for physics coursework, but only 41% trust AI-generated physics explanations . This 50-percentage-point gap represents domain-calibrated skepticism — students are sophisticated users who know where AI fails in physics, not uncritical adopters. They spontaneously identified failure modes: Visual-spatial reasoning: Interpreting diagrams, graphs, and free-body diagrams Circuit analysis: Tracing current through multiloop circuits Abstract physical reasoning: Dimensional analysis, conceptual relationships Notably, these failure modes align with Kortemeyer's benchmarking results showing that AI performance is weakest on multirepresentational tasks — suggesting students' trust-calibration tracks AI competence boundaries in physics. Key Findings 50-point trust-utility gap (91% use vs 41% trust); Cohen's κ = 0.78 for thematic coding 65% prefer optional AI integration; high-performing students overrepresented (13.9 pp) — preference may be inflated Verification gap identified: disconnect between self-reported and actual verification behavior Domain-specific skepticism, not naive acceptance — contrasts with general over-reliance findings Implications for teacher-role : optional A",
@@ -4501,7 +4510,10 @@
       "equity",
       "generative-ai",
       "higher-ed",
-      "scaffolding"
+      "rct",
+      "scaffolding",
+      "technology-adoption",
+      "verification"
     ],
     "content": "Idan &amp; Anand (2026) conduct an RCT showing GenAI access boosts mean task performance — but gains are concentrated among those with high AI Interaction Competence (AIC), the ability to elicit, filter, and verify model outputs. GPA and prior knowledge don't predict GenAI-augmented performance; AIC does. A conceptual-map scaffolding intervention reduced variance, revealing that structured workflows can mitigate the new AI-driven equity gap. Context As GenAI becomes ubiquitous in knowledge work, a critical question emerges: does AI level the playing field or widen it? Prior research on ai-literacy and cognitive-offloading suggests uneven returns, but rigorous causal evidence has been scarce. Study Design Participants — analogs of early-career knowledge workers — were randomly assigned to self-study a technical domain using either traditional resources or LLM assistance. The researchers measured task performance, prior knowledge, GPA, and crucially, AI Interaction Competence (AIC) : skill in prompting, filtering outputs, and critically verifying AI-generated content. Key Findings Mean boost, uneven distribution: GenAI significantly increased average task performance, but the top quartile captured most gains while the bottom quartile saw limited or negative returns AIC predicts success, GPA does not: Neither GPA nor prior domain knowledge predicted GenAI-augmented performance — only AIC did, suggesting a new axis of capability inequality Scaffolding mitigates the divide: A conceptual-map scaffolding intervention reduced outcome variance, demonstrating that standardized workflows can narrow the productivity gap Managerial implications: Firms should pair GenAI access with short AIC micro-training and standard operating procedures to capture value consistently Connections to Wiki Directly extends the equity literature by identifying a new mechanism of AI-driven inequality: interaction skill rather than domain knowledge Complements ai-literacy frameworks by operationalizi",
     "url": "pages/idan-anand-genai-productivity-divide-2026.html"
@@ -5078,6 +5090,8 @@
       "generative-ai",
       "higher-ed",
       "human-ai-interaction",
+      "literature-review",
+      "research-methods",
       "systematic-review"
     ],
     "content": "Liang, Yang, Sha, Gašević, Yan &amp; Chen (2026) systematically review 56 empirical GenAI-in-education studies through the AIED-HCD framework, analyzing human–AI interaction modes along dimensions of human-ai-interaction . They find cautious adoption of high-AI-automation modes, but an emerging trend of high human control + high AI automation — calibrated human–AI complementarity rather than replacement. Context As generative-ai proliferates in education, dozens of empirical studies have appeared — but literature reviews have rarely analyzed effectiveness from a human–AI interaction lens. This systematic-review fills that gap using the AIED-HCD framework from learning-analytics research. Framework: AIED-HCD Interaction Modes Studies were classified along two dimensions: human control (teacher/learner oversight) and AI automation (autonomy of AI actions). Three modes emerged: Low automation + high human control: AI as tool under explicit user direction — most common in current practice Balanced: Shared agency between human and AI High automation + high human control: AI acts autonomously but with strong human oversight — emerging trend Key Findings 56 empirical studies analyzed; efficacy-study evidence varies by interaction mode Most practice remains conservative — low-AI-automation with teacher/learner in control High-control + high-automation mode emerging as most promising design pattern Sensitivity analysis confirms findings robust across contexts and educational levels Educational contextual factors (domain, learner level) significantly moderate interaction mode effectiveness Connections to Wiki Directly informs ai-literacy by showing that effective AI use depends on interaction design, not just individual skill Complements Idan &amp; Anand (2026) on the productivity divide — interaction competence matters as much as access The high-control + high-automation pattern mirrors teacher-role findings on AI as amplifier, not replacement Connects to metacognition resea",
@@ -6970,6 +6984,7 @@
       "feedback-loop",
       "formative-assessment",
       "generative-ai",
+      "rct",
       "scaffolding",
       "student-experience"
     ],
