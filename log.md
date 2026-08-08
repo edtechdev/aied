@@ -1956,3 +1956,12 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
   Tags: ai-literacy, prompting-literacy, k-12, llm, ai-education, scenario-based-learning, automated-grading, student-experience
   LLM-based module teaching prompting literacy to secondary students via scenario-based deliberate practice with AI auto-grader (0.92 accuracy). 11 classrooms, 2 iterations. T/F + open-ended outperforms MCQ for assessing prompting skills.
 
+
+## [2026-08-08] ingest | 1 paper: Interactive Learning Dashboards
+- **Source:** Education and Information Technologies (DOI: 10.1007/s10639-026-14082-1)
+- **Ingested (1 paper):**
+  - [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualisations as engagement tools
+    Tags: learning-analytics, metacognition, llm, higher-ed, engagement-metrics, self-regulated-learning, intelligent-tutoring, pedagogical-agent, cs-education
+- **Back-links added:** 10 links across 10 targets
+- **Index change:** 663 pages
+- **Key findings:** Interactive LAD with elicit-style LLM agent improves JoL calibration and reflection in CS course
