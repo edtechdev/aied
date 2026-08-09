@@ -8,37 +8,49 @@ import BaseLayout from '../layouts/BaseLayout.astro';
     <input type="text" id="search-input" placeholder="Search by title, tag, or content..." autocomplete="off" />
   </div>
   <div id="search-results">
-    <p style="color:var(--muted-color)">Type to search across all articles...</p>
+    <p style="color:var(--muted-color)">Loading search index...</p>
   </div>
 </BaseLayout>
 
 <script>
   let pages: any[] = [];
+  let ready = false;
   
   fetch('/aied/search-index.json')
     .then(r => r.json())
-    .then(data => { pages = data; });
+    .then(data => { 
+      pages = data;
+      ready = true;
+      document.getElementById('search-results')!.innerHTML = 
+        '<p style="color:var(--muted-color)">Type to search across ' + pages.length + ' articles...</p>';
+      // Process any pending query from URL
+      const params = new URLSearchParams(window.location.search);
+      const q = params.get('q');
+      if (q) {
+        (document.getElementById('search-input') as HTMLInputElement).value = q;
+        doSearch(q);
+      }
+    })
+    .catch(() => {
+      document.getElementById('search-results')!.innerHTML = 
+        '<p style="color:red">Failed to load search index. Please try again.</p>';
+    });
 
-  document.getElementById('search-input')!.addEventListener('input', (e) => {
-    const q = (e.target as HTMLInputElement).value.toLowerCase().trim();
+  function doSearch(q: string) {
+    if (!ready || !q) return;
     const results = document.getElementById('search-results')!;
-    
-    if (!q) {
-      results.innerHTML = '<p style="color:var(--muted-color)">Type to search across all articles...</p>';
-      return;
-    }
-
     const matches = pages.filter((p: any) => {
       const text = `${p.title} ${p.tags?.join(' ')} ${p.body || ''}`.toLowerCase();
-      return text.includes(q);
+      return text.includes(q.toLowerCase());
     }).slice(0, 30);
 
     if (matches.length === 0) {
-      results.innerHTML = '<p>No results found. Try a different search term.</p>';
+      results.innerHTML = '<p>No results found for "<strong>' + q + '</strong>". Try a different search term.</p>';
       return;
     }
 
-    results.innerHTML = matches.map((p: any) => `
+    results.innerHTML = '<p style="color:var(--muted-color)">' + matches.length + ' result' + (matches.length !== 1 ? 's' : '') + ' for "<strong>' + q + '</strong>"</p>' +
+      matches.map((p: any) => `
       <div class="page-item">
         <a href="/aied/pages/${p.slug}" style="font-weight:500;">${p.title}</a>
         <div style="font-size:0.8rem;color:var(--muted-color);">
@@ -48,13 +60,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         </div>
       </div>
     `).join('');
-  });
-
-  // Check URL for ?q= param
-  const params = new URLSearchParams(window.location.search);
-  const q = params.get('q');
-  if (q) {
-    (document.getElementById('search-input') as HTMLInputElement).value = q;
-    (document.getElementById('search-input') as HTMLInputElement).dispatchEvent(new Event('input'));
   }
+
+  document.getElementById('search-input')!.addEventListener('input', (e) => {
+    const q = (e.target as HTMLInputElement).value.trim();
+    doSearch(q);
+  });
 </script>
