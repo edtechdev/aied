@@ -22,10 +22,6 @@ TutorMoments evaluates whether LM tutors select instructional actions appropriat
 - Tutor behavior concentrates into a narrow set of moves, lacking the diversity of human tutor strategies
 - Framework operationalizes productive struggle, zone of proximal development, and desirable difficulties as evaluation criteria
 
-## Connections
-
-This work connects to: [[intelligent-tutoring]][[scaffolding]][[llm-evaluation]][[math-education]][[benchmark]][[teacher-role]][[over-reliance]][[k-12]]
-
 ## Connected Concepts
 
 - [[k-12]]

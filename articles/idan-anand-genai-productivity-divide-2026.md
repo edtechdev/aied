@@ -19,10 +19,6 @@ This randomized controlled experiment assigned participants — analogs of early
 - Conceptual map scaffolding intervention reduced outcome variance
 - Introduces the concept of a new "productivity divide" driven by AI interaction skills rather than domain expertise
 
-## Connections
-
-This work connects to: [[generative-ai]][[ai-literacy]][[equity]][[efficacy-study]][[higher-ed]][[scaffolding]][[cognitive-offloading]]
-
 ## Connected Concepts
 
 - [[ai-literacy]]

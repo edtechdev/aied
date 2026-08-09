@@ -27,12 +27,6 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 - **Prepare:** Holistic AI literacy for all stakeholders; prepare teachers to teach with and through AI; clear vision for ethical use
 - **Protect:** Comprehensive regulatory frameworks; privacy and safety in procurement; break engagement addiction; support families
 
-## Connections
-- The central finding aligns with concerns raised in [[ai-learning-transfer]] and [[llm-fallacy-misattribution]]
-- The "teach, not tell" recommendation connects to [[tutoring-specific-vs-general-ai]]
-- Risk framing extends [[ai-tutor-safety-harms]] beyond tutoring to general educational AI
-- Policy recommendations complement [[regulation]] and [[ai-k12-evidence-base]]
-
 ## Connected Concepts
 
 - [[regulation]]

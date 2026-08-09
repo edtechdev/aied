@@ -22,14 +22,6 @@ Multi-agent LLM configurations for learning. Two experiments (N=315 math, N=247 
 
 Multi-agent LLM configurations for learning. Two experiments (N=315 math, N=247 writing) — tutor+peers outperforms single tutor. Multi-model condition avoids idea homogeneity.
 
-## Connections
-
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[collaborative-ai-tutoring]]
-- [[llm-student-modeling-memory]]
-- [[ai-tutor-effectiveness-review]]
-
 ## Source
 
 - https://arxiv.org/abs/2604.02677

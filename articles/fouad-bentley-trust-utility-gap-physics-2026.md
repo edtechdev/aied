@@ -20,10 +20,6 @@ A mixed-methods survey of 81 introductory physics undergraduates reveals a 50-po
 - 65% prefer optional over mandatory AI integration
 - Verification gap identified: self-reported vs actual verification behavior
 
-## Connections
-
-This work connects to: [[physics-education]][[trust-calibration]][[ai-literacy]][[student-experience]][[higher-ed]][[stem-education]]
-
 ## Connected Concepts
 
 - [[ai-literacy]]

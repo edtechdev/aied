@@ -20,10 +20,6 @@ This report from the Australian Network for Quality Digital Education investigat
 - **Equity gap:** Students with strong prior knowledge and metacognitive skills leverage AI better — widening existing divides
 - **80% of Australian students** already use AI; two-thirds of early secondary teachers use it (OECD 2025)
 
-## Connections
-
-This report connects to: [[cognitive-offloading]][[ai-literacy]][[equity]][[metacognition]][[teacher-role]][[k-12]][[higher-ed]][[policy-maker]]
-
 ## Connected Concepts
 
 - [[ai-literacy]]
