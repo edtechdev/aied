@@ -54,3 +54,6 @@ Adaptive learning refers to educational technologies that dynamically adjust con
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 - [[ai-learning-transfer]] — AI Learning Transfer
+- [[tact-pedagogically-adaptive-esl-tutoring]]
+- [[multimodal-knowledge-graph-educational-reasoning]]
+- [[proprl-prerequisite-relation-learning]]

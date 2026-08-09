@@ -56,3 +56,4 @@ Agentic AI refers to artificial intelligence systems that can autonomously plan,
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 - [[ai-learning-transfer]] — AI Learning Transfer
+- [[adversarial-stress-testing-role-playing-agents]]
