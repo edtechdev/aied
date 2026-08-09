@@ -1,0 +1,53 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const concepts = await getCollection('concepts');
+  const tagSet = new Set<string>();
+  concepts.forEach(c => (c.data.tags || []).forEach(t => tagSet.add(t)));
+  return [...tagSet].map(tag => ({ params: { tag } }));
+}
+
+const { tag } = Astro.params;
+const concepts = await getCollection('concepts');
+const pages = concepts.filter(c => (c.data.tags || []).includes(tag!));
+
+// Find co-occurring tags
+const coTags: Record<string, number> = {};
+pages.forEach(c => {
+  (c.data.tags || []).forEach(t => {
+    if (t !== tag) coTags[t] = (coTags[t] || 0) + 1;
+  });
+});
+const related = Object.entries(coTags).sort((a, b) => b[1] - a[1]).slice(0, 15);
+---
+
+<BaseLayout title={`Tag: ${tag}`}>
+  <h1>🏷️ <Fragment set:html={`${tag}`} /></h1>
+  <p>{pages.length} page{pages.length !== 1 ? 's' : ''} tagged with <strong>{tag}</strong></p>
+
+  <div style="margin:1.5rem 0;">
+    {pages.map(c => (
+      <div class="page-item">
+        <a href={`/aied/pages/${c.id.replace('.md', '')}`} style="font-weight:500;">
+          {c.data.title}
+        </a>
+        <div style="font-size:0.8rem;color:var(--muted-color);">
+          {c.data.created} · {(c.data.tags || []).slice(0, 5).map(t => (
+            <a href={`/aied/tags/${t}`} class="tag-chip" style="font-size:0.7rem;padding:0.03rem 0.35rem;">{t}</a>
+          ))}
+        </div>
+      </div>
+    ))}
+  </div>
+
+  {related.length > 0 && (
+    <div style="margin-top:2rem;padding:1rem;background:var(--card-background-color);border-radius:8px;">
+      <h3>Related Tags</h3>
+      {related.map(([t, n]) => (
+        <a href={`/aied/tags/${t}`} class="tag-chip">{t} ({n})</a>
+      ))}
+    </div>
+  )}
+</BaseLayout>

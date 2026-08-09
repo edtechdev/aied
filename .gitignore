@@ -1,6 +1,18 @@
-# Build output (deployed to root)
-static-site/
+# Build output
+dist/
 
-# Obsidian config
-.obsidian/
+# Dev
+.astro/
+
+# Deps
+node_modules/
+
+# Raw papers (not committed)
 raw/
+
+# Static site (Pico-based, not Astro)
+static-site/
+pages/
+tags/
+search_index.js
+search_index.json

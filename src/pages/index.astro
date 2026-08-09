@@ -1,0 +1,97 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const concepts = await getCollection('concepts');
+const conceptPages = concepts.filter(c => c.data.type === 'concept');
+
+// Build tag cloud
+const tagCounts: Record<string, number> = {};
+conceptPages.forEach(c => {
+  (c.data.tags || []).forEach(tag => {
+    tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+  });
+});
+const topTags = Object.entries(tagCounts)
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, 50);
+
+// Group by created date for journal
+const byDate: Record<string, typeof conceptPages> = {};
+conceptPages.forEach(c => {
+  const d = c.data.created.split('T')[0];
+  (byDate[d] ||= []).push(c);
+});
+const dates = Object.keys(byDate).sort().reverse().slice(0, 14);
+
+// RSS feed
+import rss from '@astrojs/rss';
+export const GET = () => {
+  const items = conceptPages
+    .filter(c => c.data.sources?.length > 0)
+    .sort((a, b) => b.data.created.localeCompare(a.data.created))
+    .slice(0, 40)
+    .map(c => ({
+      title: c.data.title,
+      link: `/aied/pages/${c.id.replace('.md', '')}`,
+      pubDate: new Date(c.data.created),
+      description: c.body?.split('\n').slice(0, 5).join(' ')?.slice(0, 400) || '',
+    }));
+  return rss({
+    title: 'AI Ed Wiki',
+    description: 'AI in Education Research',
+    site: 'https://edtechdev.github.io',
+    items,
+    stylesheet: '/aied/rss.xsl',
+  } as any);
+};
+---
+
+<BaseLayout title="Home">
+  <div class="search-bar">
+    <input type="text" id="home-search" placeholder="Search 660+ articles on AI in education..." 
+           autocomplete="off"
+           onkeyup="if(event.key==='Enter'){window.location='/aied/search?q='+encodeURIComponent(this.value)}" />
+  </div>
+
+  <section>
+    <h2>📋 Recent Additions</h2>
+    {dates.slice(0, 7).map(date => (
+      <details class="journal-day" open={date === dates[0]} style="margin-bottom:0.75rem;border:1px solid var(--card-border-color);border-radius:8px;padding:0.75rem 1rem;">
+        <summary style="cursor:pointer;font-weight:bold;color:var(--primary);">
+          {date} — {byDate[date].length} new page{byDate[date].length !== 1 ? 's' : ''}
+        </summary>
+        {byDate[date].map(c => (
+          <div class="journal-entry" style="padding:0.4rem 0 0.4rem 1.2rem;border-left:2px solid var(--primary);margin:0.3rem 0;">
+            <a href={`/aied/pages/${c.id.replace('.md', '')}`} style="font-weight:500;">
+              {c.data.title}
+            </a>
+            <div style="font-size:0.72rem;color:var(--muted-color);margin-top:0.2rem;">
+              {(c.data.tags || []).slice(0, 6).map(tag => (
+                <a href={`/aied/tags/${tag}`} class="tag-chip" style="font-size:0.68rem;padding:0.05rem 0.4rem;">{tag}</a>
+              ))}
+            </div>
+          </div>
+        ))}
+      </details>
+    ))}
+    <p style="margin-top:1rem;"><a href="/aied/journal">View all journal entries →</a></p>
+  </section>
+
+  <hr style="margin:2rem 0" />
+
+  <section>
+    <h2>🏷️ Popular Tags</h2>
+    <div style="line-height:2.2;margin-bottom:1rem;">
+      {topTags.map(([tag, count]) => {
+        const size = 0.75 + (count / Math.max(...topTags.map(t => t[1]))) * 1.5;
+        return (
+          <a href={`/aied/tags/${tag}`} class="tag-chip" style={`font-size:${size.toFixed(2)}rem`}>
+            {tag} ({count})
+          </a>
+        );
+      })}
+    </div>
+    <p><a href="/aied/tags">All tags →</a></p>
+  </section>
+</BaseLayout>
