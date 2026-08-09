@@ -13,11 +13,11 @@ Research in this wiki explores edtech platform through multiple lenses:
 
 ## Connected Concepts
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[ai-ed-evaluation]]
-- [[ai-ed-implementation]]
+- [[ai-education]]
 - [[ai-literacy]]
 - [[ai-tutoring]]
 - [[automated-assessment]]

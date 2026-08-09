@@ -10,10 +10,10 @@ confidence: medium
 
 ## Connected Concepts
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-literacy]]

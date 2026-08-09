@@ -22,13 +22,13 @@ The study identifies key decision points where teacher input is essential: ensur
 
 This work connects to [[teacher-role]] by showing how teachers remain essential as pedagogical validators of AI-generated content. It intersects with [[stem-education]] since mathematics visual generation is a core need in STEM teaching.^[raw/papers/2605.10672.md]
 
-The findings also relate to [[ai-generated-content]] and [[principled-ai-education]], suggesting that principled AI use in education requires human oversight for pedagogically sensitive outputs. The teacher control framework connects to [[agentic-workflows-education]] where AI agents assist but humans direct.
+The findings also relate to [[generative-ai]] and [[principled-ai-education]], suggesting that principled AI use in education requires human oversight for pedagogically sensitive outputs. The teacher control framework connects to [[agentic-workflows-education]] where AI agents assist but humans direct.
 
 ## Connected Concepts
 
 - [[teacher-role]]
 
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-education]]
 - [[curriculum-design]]
 ## Connected Articles

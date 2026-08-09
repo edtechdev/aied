@@ -13,11 +13,11 @@ confidence: high
 Closed-loop ITS with multimodal affective scoring (facial, vocal, textual, oculomotor) produced significant presentation skill gains (Cohen's d = 0.39-0.90, N=204) over 30 days.
 
 ## Synthesis
-This paper presents one of the most comprehensive closed-loop [[intelligent-tutoring]] for soft-skill training. The system operationalizes a seven-dimension BARS across facial, vocal, textual, and oculomotor inputs, using an XGBoost backbone for interpretable scoring that approaches expert-rater reliability (Spearman's rho 0.69-0.78). The three-layer feedback architecture — rubric-aligned scoring, audience-expressive diagnostics, and [[retrieval-augmented-generation]] conversational coaching — creates a complete deliberate practice loop. With 204 adult learners and Cohen's d of 0.39-0.90 across all seven dimensions, this is among the stronger efficacy signals in ITS research. The interpretability requirement (feedback traceable to observable cues) directly addresses concerns raised in [[educational-llm-alignment]] about opaque AI feedback, while the multimodal approach extends beyond text-only systems like [[cyberscholar-genai-writing-feedback]]. The closed-loop architecture shares philosophical ground with [[ai-tutor-behavioral-evaluation]]'s call for behavioral feedback loops, and the retrieval-augmented coaching component parallels [[retrieval-augmented-tutoring-algorithm-kite]]'s approach to grounded tutoring.
+This paper presents one of the most comprehensive closed-loop [[intelligent-tutoring]] for soft-skill training. The system operationalizes a seven-dimension BARS across facial, vocal, textual, and oculomotor inputs, using an XGBoost backbone for interpretable scoring that approaches expert-rater reliability (Spearman's rho 0.69-0.78). The three-layer feedback architecture — rubric-aligned scoring, audience-expressive diagnostics, and [[rag]] conversational coaching — creates a complete deliberate practice loop. With 204 adult learners and Cohen's d of 0.39-0.90 across all seven dimensions, this is among the stronger efficacy signals in ITS research. The interpretability requirement (feedback traceable to observable cues) directly addresses concerns raised in [[educational-llm-alignment]] about opaque AI feedback, while the multimodal approach extends beyond text-only systems like [[cyberscholar-genai-writing-feedback]]. The closed-loop architecture shares philosophical ground with [[ai-tutor-behavioral-evaluation]]'s call for behavioral feedback loops, and the retrieval-augmented coaching component parallels [[retrieval-augmented-tutoring-algorithm-kite]]'s approach to grounded tutoring.
 
 ## Connected Concepts
 
-- [[retrieval-augmented-generation]]
+- [[rag]]
 
 - [[affective-computing]]
 - [[higher-ed]]

@@ -13,18 +13,18 @@ confidence: high
 Agentic analytics using AI-produced concept-map artifacts as shared human-AI representations improves collaboration quality analysis and AI response grounding over transcript-only baselines.
 
 ## Synthesis
-CLARA introduces a novel architecture for [[learning-analytics]] where AI-produced artifacts (concept maps, seven-dimension collaboration assessments) serve as shared representations between human dashboard users and AI reasoning agents. By indexing these artifacts into vector databases, CLARA establishes a human-AI common ground that simultaneously scaffolds human interpretation of collaboration data and grounds AI reasoning — improving both retrieval performance and response quality. This dual-use architecture has implications beyond collaboration analytics: the principle of AI-produced artifacts as shared infrastructure could apply to [[intelligent-tutoring]] where student models, [[knowledge-tracing-irt]] estimates, and concept maps could serve as common ground between tutor agents and teacher dashboards. The artifact-as-knowledge-infrastructure approach also resonates with [[retrieval-augmented-generation]] patterns used in [[retrieval-augmented-tutoring-algorithm-kite]] and [[cyberscholar-genai-writing-feedback]], where structured content representations improve AI response quality. CLARA's focus on semantic dimensions beyond behavioral signals parallels the shift advocated by [[ai-tutor-behavioral-evaluation]] toward evaluating what students actually do, not just what the AI says.
+CLARA introduces a novel architecture for [[learning-analytics]] where AI-produced artifacts (concept maps, seven-dimension collaboration assessments) serve as shared representations between human dashboard users and AI reasoning agents. By indexing these artifacts into vector databases, CLARA establishes a human-AI common ground that simultaneously scaffolds human interpretation of collaboration data and grounds AI reasoning — improving both retrieval performance and response quality. This dual-use architecture has implications beyond collaboration analytics: the principle of AI-produced artifacts as shared infrastructure could apply to [[intelligent-tutoring]] where student models, [[knowledge-tracing-irt]] estimates, and concept maps could serve as common ground between tutor agents and teacher dashboards. The artifact-as-knowledge-infrastructure approach also resonates with [[rag]] patterns used in [[retrieval-augmented-tutoring-algorithm-kite]] and [[cyberscholar-genai-writing-feedback]], where structured content representations improve AI response quality. CLARA's focus on semantic dimensions beyond behavioral signals parallels the shift advocated by [[ai-tutor-behavioral-evaluation]] toward evaluating what students actually do, not just what the AI says.
 
 ## Connected Concepts
 
 - [[learning-analytics]]
-- [[retrieval-augmented-generation]]
+- [[rag]]
 
 - [[generative-ai]]
 - [[higher-ed]]
 - [[knowledge-tracing]]
 - [[llm]]
-- [[visualization]]
+- visualization
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

@@ -62,7 +62,7 @@ This framework is an enabler for [[tutoring-specific-vs-general-ai|tutoring-spec
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[affective-tutoring]]
 - [[item-response-theory]]
 - [[personalized-learning]]

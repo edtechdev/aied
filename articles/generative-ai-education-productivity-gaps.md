@@ -35,12 +35,12 @@ Chat logs were analyzed to understand differential AI usage patterns across educ
 
 ## Implications for Education and Workforce
 
-This study provides some of the strongest causal evidence yet that generative AI can serve as a **productivity equalizer** across education levels. However, the re-emergence of gaps in unassisted settings and the differential quality of AI use suggest that [[ai-literacy]] and [[upskilling|skill development]] remain critical. Educational institutions should focus on teaching effective AI collaboration strategies, not just tool access.
+This study provides some of the strongest causal evidence yet that generative AI can serve as a **productivity equalizer** across education levels. However, the re-emergence of gaps in unassisted settings and the differential quality of AI use suggest that [[ai-literacy]] and [[professional-training|skill development]] remain critical. Educational institutions should focus on teaching effective AI collaboration strategies, not just tool access.
 
 ## Connected Concepts
 - [[ai-education]]
 - [[ai-literacy]]
-- [[randomized-controlled-trials-education]]
+- [[rct]]
 - [[higher-ed]]
 
 - [[generative-ai]]

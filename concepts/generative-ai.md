@@ -23,7 +23,7 @@ confidence: medium
 - [[ai-literacy]]
 - [[assessment]]
 - [[automated-assessment]]
-- [[benchmark]]
+- benchmark
 - [[cs-education]]
 - [[faculty-development]]
 - [[feedback-loop]]

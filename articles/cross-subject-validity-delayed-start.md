@@ -9,7 +9,7 @@ confidence: high
 ---
 
 > **Gutterman, Gurung, Branstetter, Koedinger & Aleven (2026)** — Carnegie Mellon University. cs.CY.
-This study examines the [[student-modeling]] validity of **delayed start behavior** — when students begin assignments or practice sessions past a recommended start time — as a predictor of [[learning-gains]] across multiple subjects. The authors test whether a behavioral detector developed for one academic domain (e.g., chemistry) can predict learning outcomes in another (e.g., physics or statistics), a property they term **cross-subject predictive validity**.
+This study examines the [[student-modeling]] validity of **delayed start behavior** — when students begin assignments or practice sessions past a recommended start time — as a predictor of learning-gains across multiple subjects. The authors test whether a behavioral detector developed for one academic domain (e.g., chemistry) can predict learning outcomes in another (e.g., physics or statistics), a property they term **cross-subject predictive validity**.
 
 **Key findings:**
 - Delayed start behavior shows significant predictive validity for learning outcomes across different subjects, indicating it captures a generalizable aspect of [[self-regulated-learning]] rather than being domain-specific.
@@ -17,7 +17,7 @@ This study examines the [[student-modeling]] validity of **delayed start behavio
 - The detector generalizes across different learning platforms and content domains, reducing the need to retrain behavioral models per course.
 
 **Implications:**
-- Delayed start is a low-cost, generalizable [[engagement-metrics|engagement metric]] that instructors and [[adaptive-learning]] systems can use to identify at-risk students early.
+- Delayed start is a low-cost, generalizable engagement metric that instructors and [[adaptive-learning]] systems can use to identify at-risk students early.
 - Supports the feasibility of cross-platform [[learning-analytics]] models that transfer without per-course calibration.
 - Opens opportunities for [[formative-assessment]] interventions triggered by behavioral signals.
 

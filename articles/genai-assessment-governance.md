@@ -28,7 +28,7 @@ The framework articulates three context-dependent governance stances based on ho
 Two task designs deployed in an introductory physics course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge. This connects to [[automated-grading]] and [[automatic-short-answer-grading]] research on making student reasoning visible and scorable.
 
 ## Implications for Policy
-By situating GenAI governance within validity arguments, the framework offers actionable guidance for preserving learning integrity while preparing students for AI-enabled workplaces. This has direct relevance for [[policy-maker]] decisions about assessment design and [[ai-literacy]] standards. The framework also complements emerging work on [[ai-tutor-safety-harms|AI tutor safety]] by providing structured decision-making about when AI interaction is educationally appropriate.
+By situating GenAI governance within validity arguments, the framework offers actionable guidance for preserving learning integrity while preparing students for AI-enabled workplaces. This has direct relevance for [[educational-policy-ai]] decisions about assessment design and [[ai-literacy]] standards. The framework also complements emerging work on [[ai-tutor-safety-harms|AI tutor safety]] by providing structured decision-making about when AI interaction is educationally appropriate.
 
 ## Connected Concepts
 

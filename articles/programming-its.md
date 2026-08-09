@@ -55,7 +55,7 @@ SCRIPT's contribution: **Python-specific** tutoring with German-language context
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[formative-assessment]]
 - [[student-misconceptions-conditionals-loops-taxonomy]]
 

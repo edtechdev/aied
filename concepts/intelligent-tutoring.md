@@ -29,7 +29,7 @@ Key research in the wiki includes:
 - **[[student-modeling]]** — broader learner representation including affect, engagement, and misconceptions
 - **[[adaptive-learning]]** — systems that personalize content sequencing based on learner state
 - **[[scaffolding]]** — providing just enough support to enable progress without giving away answers
-- **[[productive-struggle]]** — letting students wrestle with difficulty rather than over-helping
+- **productive-struggle** — letting students wrestle with difficulty rather than over-helping
 - **[[feedback-loop]]** — ITS feedback cycles that diagnose, guide, and verify
 
 ### Historical context
@@ -43,9 +43,9 @@ The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor)
 - [[student-modeling]]
 - [[adaptive-learning]]
 - [[scaffolding]]
-- [[productive-struggle]]
+- productive-struggle
 - [[feedback-loop]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[socratic-method]]
 - [[cognitive-load-theory]]
 - [[zone-of-proximal-development]]

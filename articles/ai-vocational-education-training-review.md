@@ -19,7 +19,7 @@ First systematic review of AI in vocational education (26 studies, 2015-2026). I
 
 - [[adaptive-learning]]
 - [[professional-training]]
-- [[simulation-based-learning]]
+- simulation-based-learning
 
 - [[constructivist]]
 - [[generative-ai]]

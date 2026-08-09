@@ -103,7 +103,7 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 
 ## Connected Concepts
 
-- [[agentic-ai-ecosystems-higher-education]]
+- [[agentic-ai]]
 - [[ai-literacy]]
 - [[faculty-development]]
 - [[formative-assessment]]

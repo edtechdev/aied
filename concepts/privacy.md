@@ -14,7 +14,7 @@ Research in this wiki explores privacy through multiple lenses:
 ## Connected Concepts
 - [[adaptive-learning]]
 - [[agentic-ai]]
-- [[ai-assistance-reduces-persistence]]
+- [[over-reliance]]
 - [[ai-governance-education]]
 - [[ai-literacy]]
 - [[bias-mitigation]]

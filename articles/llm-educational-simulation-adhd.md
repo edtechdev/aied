@@ -20,7 +20,7 @@ Gonnermann-Müller, Haase & Leins (2026) evaluate whether **LLM-generated studen
 
 Using LLMs to simulate students is an emerging practice in educational research, but the **temporal stability** of these simulations — especially for neurodivergent profiles — has been underexamined. If LLM-generated personas drift or become inconsistent, they cannot serve as valid proxies for real students in:
 - Teacher training simulations
-- [[adaptive-learning-systems]] testing
+- [[adaptive-learning]] testing
 - [[intelligent-tutoring]] system evaluation
 - [[learning-analytics]] research methodology
 
@@ -38,7 +38,7 @@ The simulation methodology also raises questions about [[ai-tutor-safety-harms]]
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[learning-analytics]]
 - [[student-experience]]
 

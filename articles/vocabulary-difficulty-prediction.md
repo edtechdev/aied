@@ -44,7 +44,7 @@ The **soft-target loss function** for LLM fine-tuning on rating (regression) tas
 
 ## Benchmark Context
 
-BEA (Building Educational Applications) is the premier venue for NLP-for-education research. This shared task establishes a new [[benchmark]] for vocabulary difficulty prediction with open-source code, encouraging reproducible research in a domain where educational impact depends on reliable, interpretable models.
+BEA (Building Educational Applications) is the premier venue for NLP-for-education research. This shared task establishes a new benchmark for vocabulary difficulty prediction with open-source code, encouraging reproducible research in a domain where educational impact depends on reliable, interpretable models.
 
 ## Connected Concepts
 

@@ -39,7 +39,7 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[ai-literacy]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]

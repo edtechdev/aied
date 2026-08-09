@@ -18,21 +18,21 @@ LearnMate^2 addresses the **personalization gap** in online learning: while onli
 
 1. **Personalized study plans** — tailored learning paths based on individual learner profiles
 2. **Real-time contextual assistance** — in-context support during learning sessions via [[conversational-ai-tutors-framework]]
-3. **Adaptive learning activities** — dynamic tasks responding to learner performance, implementing [[adaptive-learning-systems]] principles
+3. **Adaptive learning activities** — dynamic tasks responding to learner performance, implementing [[adaptive-learning]] principles
 
 **Iterative development and evaluation:**
 - **Preliminary study (n=24)** assessed effectiveness, informed system refinements
 - **Comparative evaluation (n=16)** against a state-of-the-art online learning platform plus an LLM
 - **Results:** LearnMate^2 improved both learning outcomes and user experience vs. the baseline
 
-The study demonstrates that LLM-powered [[personalized-learning]] can bridge the guidance gap in open online education. This connects to the broader [[adaptive-learning-systems]] literature and extends findings from [[learnmate2-llm-adaptive-learning]] prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai-ecosystems-higher-education]] vision of integrated educational AI.
+The study demonstrates that LLM-powered [[personalized-learning]] can bridge the guidance gap in open online education. This connects to the broader [[adaptive-learning]] literature and extends findings from [[learnmate2-llm-adaptive-learning]] prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai]] vision of integrated educational AI.
 
 The work also contributes to understanding how [[scaffolding]] can be implemented at scale in digital environments, complementing [[ai-metacognition-stem-review]] findings on metacognitive support tools.
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
-- [[agentic-ai-ecosystems-higher-education]]
+- [[adaptive-learning]]
+- [[agentic-ai]]
 - [[personalized-learning]]
 - [[scaffolding]]
 

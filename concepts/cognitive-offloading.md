@@ -10,7 +10,7 @@ confidence: low
 
 ## Connected Concepts
 - [[affective-computing]]
-- [[ai-assistance-reduces-persistence]]
+- [[over-reliance]]
 - [[ai-education]]
 - [[ai-governance-education]]
 - [[ai-literacy]]

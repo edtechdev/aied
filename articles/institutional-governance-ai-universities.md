@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.03584v1.md']
 confidence: high
 ---
 
-> **Synthesis:** This study analyzes AI policies across higher education institutions in 34 U.S. states, using NLP to uncover a clear divergence: university-level policies emphasize data security and risk mitigation, while school-level policies (when they exist) focus on pedagogical applications and tool usage. Relatively few business schools maintain distinct AI policies, creating misalignment with discipline-specific learning objectives. The findings highlight the challenges of [[institutional-ai-readiness|institutional AI governance]] and the tension between centralized [[regulation|compliance-oriented policies]] and the need for discipline-specific pedagogical guidance.
+> **Synthesis:** This study analyzes AI policies across higher education institutions in 34 U.S. states, using NLP to uncover a clear divergence: university-level policies emphasize data security and risk mitigation, while school-level policies (when they exist) focus on pedagogical applications and tool usage. Relatively few business schools maintain distinct AI policies, creating misalignment with discipline-specific learning objectives. The findings highlight the challenges of institutional AI governance and the tension between centralized [[regulation|compliance-oriented policies]] and the need for discipline-specific pedagogical guidance.
 
 ## Research Approach
 
@@ -38,7 +38,7 @@ The study applied natural language processing to analyze AI policies from instit
 The study reveals a fundamental structural challenge in [[ai-education|AI governance]]: risk-averse centralized policies that fail to address pedagogical needs at the discipline level. The authors recommend that guidelines be aligned with broader institutional policies while explicitly addressing discipline-specific learning objectives and evolving workforce demands. This aligns with emerging [[ai-literacy]] frameworks that emphasize both technical and pedagogical dimensions of AI readiness.
 
 ## Connected Concepts
-- [[institutional-ai-readiness]]
+- institutional-ai-readiness
 - [[regulation]]
 - [[ai-education]]
 - [[ai-literacy]]

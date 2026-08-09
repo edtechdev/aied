@@ -62,7 +62,7 @@ The review identifies a **critical need for stronger experimental design and dat
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[affective-tutoring]]
 - [[assessment-validity]]
 - [[human-in-the-loop-ai]]

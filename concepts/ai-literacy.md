@@ -9,13 +9,13 @@ confidence: high
 
 > **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI technologies in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical evaluation of AI outputs, and ethical awareness of AI's societal implications.
 
-AI literacy has rapidly emerged as a core competency for learners, educators, and institutions as [[generative-ai|generative AI]] becomes embedded in education. Unlike general digital literacy, AI literacy requires understanding probabilistic systems that can hallucinate, exhibit bias, and shift agency from human to machine — making [[critical-thinking]] and [[trust-calibration]] central to the construct.
+AI literacy has rapidly emerged as a core competency for learners, educators, and institutions as [[generative-ai|generative AI]] becomes embedded in education. Unlike general digital literacy, AI literacy requires understanding probabilistic systems that can hallucinate, exhibit bias, and shift agency from human to machine — making [[critical-thinking]] and [[over-reliance]] central to the construct.
 
 ### Dimensions of AI literacy
 
 AI literacy research in this wiki spans four interconnected dimensions:
 
-**Foundational knowledge:** Understanding what [[llm|LLMs]] are, how they differ from rule-based systems, and their fundamental limitations. This includes awareness of model capabilities, training data biases, and the distinction between task-specific AI and general-purpose models. Research in [[prompting-literacy]] examines how understanding prompt mechanisms affects effective AI use.
+**Foundational knowledge:** Understanding what [[llm|LLMs]] are, how they differ from rule-based systems, and their fundamental limitations. This includes awareness of model capabilities, training data biases, and the distinction between task-specific AI and general-purpose models. Research in [[prompt-engineering]] examines how understanding prompt mechanisms affects effective AI use.
 
 **Practical competence:** The ability to use AI tools effectively — from [[prompt-engineering]] to interpreting outputs. Studies of [[genai-usage-design-students-survey|student GenAI usage patterns]] reveal that tool access alone doesn't produce competence; structured practice and [[scaffolding]] are essential. The [[gaide-vibe-coding-k12-teachers|vibe coding framework]] shows how K-12 teachers can develop practical AI literacy through guided tool creation.
 
@@ -34,8 +34,8 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 ## Connected Concepts
 
 - [[critical-thinking]]
-- [[trust-calibration]]
-- [[prompting-literacy]]
+- [[over-reliance]]
+- [[prompt-engineering]]
 - [[over-reliance]]
 - [[academic-integrity]]
 - [[ai-tutoring]]

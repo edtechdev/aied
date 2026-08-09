@@ -34,7 +34,7 @@ The paper identifies and validates two computationally straightforward behaviora
 
 The authors interpret findings through two lenses:
 
-- **KLI Framework** ([[knowledge-learning-instruction]]): Mathematical skills in *Decimal Point* engage induction and refinement processes requiring active schema construction. Rapidly accessing bottom-out hints circumvents these cognitive activities.
+- **KLI Framework** (knowledge-learning-instruction): Mathematical skills in *Decimal Point* engage induction and refinement processes requiring active schema construction. Rapidly accessing bottom-out hints circumvents these cognitive activities.
 
 - **Affordance Perspective**: The persistent, salient "hint button" signals to learners that help is always available. For some students, this creates an unintended affordance where the interface effectively collapses into one that reveals the answer immediately, transforming the task into a copying exercise.
 
@@ -43,8 +43,8 @@ The authors interpret findings through two lenses:
 Rather than removing hints, the paper proposes re-engineering delivery mechanisms:
 
 1. **Delayed hint availability** — requiring minimum engagement time or solution attempts before hints are accessible, particularly for the bottom-out hint.
-2. **Beyond behavioral compliance** — prior work shows that interventions regulating help-seeking can improve observed behaviors without producing corresponding learning gains. The challenge extends beyond timing to ensuring meaningful [[cognitive-engagement]].
-3. **Shift from whether to how** — the central design question should move from whether to provide hints to how to structure hint delivery mechanisms aligned with [[productive-struggle]] principles.
+2. **Beyond behavioral compliance** — prior work shows that interventions regulating help-seeking can improve observed behaviors without producing corresponding learning gains. The challenge extends beyond timing to ensuring meaningful [[active-learning]].
+3. **Shift from whether to how** — the central design question should move from whether to provide hints to how to structure hint delivery mechanisms aligned with productive-struggle principles.
 
 ## Practical Significance
 
@@ -59,7 +59,7 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 
 ## Connected Concepts
 
-- [[gaming-the-system]]
+- gaming-the-system
 - [[help-seeking]]
 - [[k-12]]
 - [[learning-analytics]]

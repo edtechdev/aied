@@ -25,7 +25,7 @@ Critically, the authors identify a **session-level carryover effect**: prior AI 
 
 ## Connection to [[over-reliance]]
 
-This study provides a cognitive mechanism for the [[over-reliance]] phenomenon: the efficiency-gain illusion explains *why* students and other users continue to reach for AI even when it demonstrably doesn't help — and in fact may harm [[learning-gains|learning outcomes]], as documented in related work. The findings complement [[cognitive-shift-ai-education]] by identifying the perceptual biases that drive behavioral change.
+This study provides a cognitive mechanism for the [[over-reliance]] phenomenon: the efficiency-gain illusion explains *why* students and other users continue to reach for AI even when it demonstrably doesn't help — and in fact may harm learning outcomes, as documented in related work. The findings complement [[cognitive-shift-ai-education]] by identifying the perceptual biases that drive behavioral change.
 
 ## Implications for [[ai-literacy]]
 
@@ -33,7 +33,7 @@ These results have direct implications for AI literacy education: users need not
 
 ## Connected Concepts
 
-- [[ai-assistance-reduces-persistence]]
+- [[over-reliance]]
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[student-experience]]

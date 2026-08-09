@@ -13,7 +13,7 @@ confidence: high
 ## Key Findings
 
 - **Geographically concentrated research:** Most AI and robotics education studies come from a small number of countries, limiting generalizability.
-- **Methodologically short-term:** Few longitudinal studies exist, making it difficult to assess lasting impacts on [[learning-gains]] and student outcomes.
+- **Methodologically short-term:** Few longitudinal studies exist, making it difficult to assess lasting impacts on learning-gains and student outcomes.
 - **Equity gap:** Insufficient attention to [[equity]], human-centred design, and social implications of automation in education.
 - **Policy gaps:** [[educational-policy-ai|AI education policies]] lag far behind technological deployment.
 

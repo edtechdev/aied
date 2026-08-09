@@ -12,10 +12,10 @@ Research in this wiki explores academic integrity through multiple lenses:
 - **Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration:** EchoPrompt introduces a training-free zero-shot detector for  that exploits the latent prompt dependency inherent in machine-generated content.
 
 ## Connected Concepts
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[agentic-ai]]
-- [[agentic-ai-ecosystems-higher-education]]
-- [[ai-assistance-reduces-persistence]]
+- [[agentic-ai]]
+- [[over-reliance]]
 - [[ai-education]]
 - [[ai-governance-education]]
 - [[ai-literacy]]

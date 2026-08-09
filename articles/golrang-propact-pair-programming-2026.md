@@ -24,7 +24,7 @@ confidence: medium
 
 ProPACT represents a shift from *individual* to *dyadic* learner modeling in [[intelligent-tutoring]]. By treating the pair — not the person — as the unit of analysis, it addresses a long-standing gap in [[collaborative-learning]] support. Traditional ITS architectures focus on individual cognition; ProPACT demonstrates that multimodal signals (gaze, pupil dilation) can be fused to model the health of a collaborative process in real time.
 
-The proactive forecasting approach is a departure from reactive feedback paradigms common in [[adaptive-learning-systems]]. By predicting breakdowns 30 seconds ahead, ProPACT avoids the latency inherent in "detect-then-respond" architectures, allowing scaffolds to arrive *before* students experience frustration or disengagement. This has implications for [[engagement-metrics]] and real-time classroom orchestration.
+The proactive forecasting approach is a departure from reactive feedback paradigms common in [[adaptive-learning]]. By predicting breakdowns 30 seconds ahead, ProPACT avoids the latency inherent in "detect-then-respond" architectures, allowing scaffolds to arrive *before* students experience frustration or disengagement. This has implications for engagement-metrics and real-time classroom orchestration.
 
 For [[cs-education]] specifically, ProPACT validates that AI-assisted pair programming can improve both task outcomes and collaborative skill development. The system's integration with [[collaborative-ai-tutoring]] workflows suggests a future where AI tutors monitor not just what students produce (code), but *how* they work together.
 
@@ -32,7 +32,7 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 
 - [[adaptive-learning]]
 - [[ai-tutoring]]

@@ -42,7 +42,7 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 ## Implications for Adaptive Learning
 
 ### For ITS Design
-- **Content adaptation layer:** Dynamic text simplification as part of [[adaptive-learning-systems]]
+- **Content adaptation layer:** Dynamic text simplification as part of [[adaptive-learning]]
 - **Learner model integration:** Simplify based on real-time reading level assessment
 - **Multi-modal extension:** Could extend to diagram/math notation simplification
 
@@ -52,7 +52,7 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[ai-literacy]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]

@@ -25,7 +25,7 @@ The work connects AI-based attention estimation to instructional design practice
 - [[learning-analytics]]
 - [[student-experience]]
 
-- [[visualization]]
+- visualization
 ## Connected Articles
 
 - [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education

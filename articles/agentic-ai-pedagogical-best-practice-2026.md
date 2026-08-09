@@ -35,7 +35,7 @@ Education AI is shifting from passive chatbots to **proactive agents** that init
 ## Connected Concepts
 
 - [[agentic-ai]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[desirable-difficulties]]
 - [[formative-assessment]]
 - [[metacognition]]

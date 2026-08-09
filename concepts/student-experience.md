@@ -25,7 +25,7 @@ Examines gender differences in AI literacy, safety awareness, and STEM career as
 - [[collaborative-learning]]
 - [[cs-education]]
 - [[edtech-platform]]
-- [[engagement-metrics]]
+- engagement-metrics
 - [[equity]]
 - [[faculty-development]]
 - [[generative-ai]]

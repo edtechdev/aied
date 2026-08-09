@@ -18,7 +18,7 @@ Boateng et al. (2026) introduce **NSMQ Riddles**, a benchmark of 1.8K scientific
 
 ## Why It's Distinctive
 
-Unlike standard [[benchmark]] datasets (MMLU, GSM8K), NSMQ Riddles:
+Unlike standard benchmark datasets (MMLU, GSM8K), NSMQ Riddles:
 - Features **progressive clue revelation** — early clues are vague (worth more points), testing incremental reasoning
 - Covers **biology, chemistry, physics, and math** at the high school level
 - Evaluates models against **human student performance** in a competitive format

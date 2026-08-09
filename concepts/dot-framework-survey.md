@@ -23,10 +23,10 @@ This factor structure provides a psychometric anchor for understanding how educa
 Practitioners reported frequent use of **iterative prompting** and **content generation**, but far less engagement with **needs assessment** and **feedback loops** — the front and back ends of a full design cycle. This gap between design-oriented theory and current implementation is the study's central diagnostic finding. It echoes broader patterns in [[ai-literacy]] where educators adopt AI for productivity but not yet for systematic instructional redesign.
 
 ### AI as "Fallible Intern"
-The study operationalizes AI as a **co-intelligent collaborator** following four tenets: (1) AI is fallible — always review, (2) AI supports not replaces higher-order thinking, (3) instructors should actively experiment, (4) instructor maintains agency. This framing aligns with [[ai-co-intelligence]] and [[human-ai-collaboration]] paradigms where the human remains the epistemic authority.
+The study operationalizes AI as a **co-intelligent collaborator** following four tenets: (1) AI is fallible — always review, (2) AI supports not replaces higher-order thinking, (3) instructors should actively experiment, (4) instructor maintains agency. This framing aligns with ai-co-intelligence and [[human-ai-collaboration]] paradigms where the human remains the epistemic authority.
 
 ### Institutional Barriers
-Widespread lack of policy, training, and infrastructure was reported — consistent with findings across [[institutional-ai-readiness]] and [[ai-governance-education]]. Without institutional scaffolding, even motivated practitioners remain in ad-hoc, fragmented adoption patterns.
+Widespread lack of policy, training, and infrastructure was reported — consistent with findings across institutional-ai-readiness and [[ai-governance-education]]. Without institutional scaffolding, even motivated practitioners remain in ad-hoc, fragmented adoption patterns.
 
 ## The DOT Framework
 
@@ -36,7 +36,7 @@ The DOT Framework integrates **Design Thinking stages** (Empathize → Define �
 
 This study provides the *first empirical evidence* supporting DOT as a descriptive model — practitioners' beliefs and behaviors partially map to its structure, but the gaps (needs assessment, feedback) reveal where the model is aspirational rather than descriptive of current practice.
 
-## Implications for [[ai-ed-implementation]]
+## Implications for [[ai-education]]
 - **Measurement**: The 19-item belief scale offers a validated starting point for [[ai-ed-evaluation]] studies
 - **Professional Development**: Training should target the full design cycle, not just tool use — especially needs assessment and feedback integration
 - **Policy**: Institutional AI strategies need to address governance concerns while building on practitioners' existing favorable dispositions
@@ -44,16 +44,16 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[adult-learning]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-co-intelligence]]
+- [[agentic-ai]]
+- ai-co-intelligence
 - [[ai-ed-evaluation]]
-- [[ai-ed-implementation]]
+- [[ai-education]]
 - [[ai-governance-education]]
 - [[ai-literacy]]
 - [[ai-literacy]]

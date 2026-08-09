@@ -74,7 +74,7 @@ Student agency in AA (choice, self-reflection, co-design) is isomorphic to the [
 Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwen]]) should explicitly align with the six-dimensional framework. A model trained to reward "guiding over answering" still falls short if it does not understand **sustainable feedback**, **co-designed rubrics**, or **social authenticity**.
 
 ### Adaptive Systems
-[[adaptive-learning-systems|Adaptive systems]] that personalize only *content difficulty* miss the personalization of *assessment authenticity*. DeepTutor's multi-resolution memory and MAIC's archetype agents begin to address this, but neither incorporates student co-design of assessment parameters.
+[[adaptive-learning|Adaptive systems]] that personalize only *content difficulty* miss the personalization of *assessment authenticity*. DeepTutor's multi-resolution memory and MAIC's archetype agents begin to address this, but neither incorporates student co-design of assessment parameters.
 
 ## Open Questions
 
@@ -88,7 +88,7 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[cognitive-load-theory]]
 - [[desirable-difficulties]]
 - [[faculty-development]]

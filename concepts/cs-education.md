@@ -23,7 +23,7 @@ Research in this wiki explores cs education through multiple lenses:
 - [[human-ai-collaboration]]
 - [[k-12]]
 - [[llm]]
-- [[llm-in-education]]
+- [[ai-education]]
 - [[prompt-engineering]]
 - [[rag]]
 - [[regulation]]

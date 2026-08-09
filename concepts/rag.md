@@ -7,15 +7,15 @@ tags: [llm, agentic-ai, question-generation, coding-education, human-in-the-loop
 confidence: medium
 ---
 
-> **RAG** (retrieval-augmented generation) grounds LLM answers in vetted sources: [[eduguard-safe-rag-llm-tutor]], [[retrieval-augmented-tutoring-algorithm-kite]], [[structrag-diagram-reasoning-ai-tutoring]], and [[knowledge-graph]] show retrieval grounding reduces hallucination and improves domain accuracy in tutors ([[hallucination-risk]], [[llm]]).
+> **RAG** (retrieval-augmented generation) grounds LLM answers in vetted sources: [[eduguard-safe-rag-llm-tutor]], [[retrieval-augmented-tutoring-algorithm-kite]], [[structrag-diagram-reasoning-ai-tutoring]], and knowledge-graph show retrieval grounding reduces hallucination and improves domain accuracy in tutors ([[hallucination-risk]], [[llm]]).
 
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[affective-computing]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[assessment-validity]]

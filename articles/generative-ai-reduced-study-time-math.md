@@ -34,7 +34,7 @@ The authors introduce the term **cognitive surrender** to describe students offl
 This study provides the strongest empirical evidence yet for the [[over-reliance]] phenomenon documented across the wiki. It extends findings from [[genai-performance-vs-learning]] and [[cognitive-shift-ai-education]] by demonstrating effects at population scale with objective behavioral measures rather than self-report. The findings have direct implications for:
 - [[academic-integrity]] policy and assessment governance
 - [[ai-literacy]] curriculum design
-- [[learning-gains]] measurement methodology
+- learning-gains measurement methodology
 - Educational [[regulation]] and AI policy
 
 ## Connected Concepts

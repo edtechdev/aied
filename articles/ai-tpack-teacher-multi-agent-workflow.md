@@ -37,11 +37,11 @@ This connects to the [[teacher-ai-adoption-confidence]] finding that teacher con
 
 ## Connection to Agentic AI in Education
 
-The multi-agent workflow framing positions this work at the intersection of [[agentic-ai-ecosystems-higher-education]] and teacher professional learning. As [[eduagentbench-agent-teaching-benchmark]] establishes benchmarks for what agent tutors should do, this study addresses the complementary question: **how should teachers learn to design and orchestrate those agents?**
+The multi-agent workflow framing positions this work at the intersection of [[agentic-ai]] and teacher professional learning. As [[eduagentbench-agent-teaching-benchmark]] establishes benchmarks for what agent tutors should do, this study addresses the complementary question: **how should teachers learn to design and orchestrate those agents?**
 
 ## Connected Concepts
 
-- [[agentic-ai-ecosystems-higher-education]]
+- [[agentic-ai]]
 - [[faculty-development]]
 - [[teacher-ai-competency]]
 

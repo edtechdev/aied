@@ -30,7 +30,7 @@ This work contributes to the growing literature on [[llm-student-modeling-memory
 - [[higher-ed]]
 - [[llm]]
 - [[rag]]
-- [[socratic-ai]]
+- [[socratic-method]]
 ## Connected Articles
 
 - [[ai-learning-transfer]] — AI Learning Transfer

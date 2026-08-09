@@ -7,7 +7,7 @@ tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-
 confidence: high
 ---
 
-> **MathCog** benchmark (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], [[benchmark]]).
+> **MathCog** benchmark (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], benchmark).
 
 # Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten Math
 
@@ -45,7 +45,7 @@ Current LLMs lack the ability to calibrate confidence based on evidential qualit
 The authors advocate for [[human-in-the-loop-ai]] systems where LLM predictions support rather than replace teacher judgment. This aligns with [[teacher-role]] research on AI augmentation vs. automation, and with findings from [[over-reliance]] studies showing that uncalibrated AI outputs can degrade human diagnostic accuracy.
 
 ### Benchmarking Beyond Accuracy
-MathCog demonstrates that standard accuracy metrics obscure critical failure modes in educational AI. The evidential calibration metrics (OverAttr, FalseAttr) introduced here complement evaluation approaches in [[benchmark]] design and [[ai-ed-evaluation]]. The dataset's Evident/Vague distinction parallels concerns in [[cognitive-offloading]] about when learners (and AI systems) should recognize the limits of available information.
+MathCog demonstrates that standard accuracy metrics obscure critical failure modes in educational AI. The evidential calibration metrics (OverAttr, FalseAttr) introduced here complement evaluation approaches in benchmark design and [[ai-ed-evaluation]]. The dataset's Evident/Vague distinction parallels concerns in [[cognitive-offloading]] about when learners (and AI systems) should recognize the limits of available information.
 
 ### Connection to LLM Fallacy Research
 This paper directly extends work on [[llm-fallacy-misattribution]] — the hallucination of evidence and over-attribution patterns documented here are a specific educational manifestation of broader LLM reasoning failures. The finding that reasoning models (DeepSeek-R1, o1-Preview) show no systematic advantage echoes questions about whether chain-of-thought reasoning actually improves diagnostic reliability.
@@ -64,13 +64,13 @@ MathCog builds on existing [[llm-handwritten-math-grading]] work but shifts focu
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-literacy]]
