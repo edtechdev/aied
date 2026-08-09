@@ -13,20 +13,17 @@ Bias mitigation in AIED concerns identifying and reducing unfair, identity-patte
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
+- [[llm]]
+- [[student-experience]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[teacher-role]]
+- [[scaffolding]]
+- [[pedagogical-llm-training]]
+- [[learning-analytics]]
+- [[rag]]
+- [[k-12]]
 - [[automated-grading]]
 
 ## Connected Articles

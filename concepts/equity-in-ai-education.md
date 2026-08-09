@@ -35,21 +35,18 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
+- [[generative-ai]]
+- [[llm]]
+- [[higher-ed]]
+- [[k-12]]
+- [[regulation]]
+- [[human-in-the-loop-ai]]
+- [[teacher-role]]
+- [[ethics]]
+- [[k-12-ai-education]]
+- [[personalized-learning]]
 
 ## Connected Articles
 

@@ -9,21 +9,7 @@ confidence: low
 > **Assessment** is a central concept in AI in education research, connected to 8 articles in this wiki. 
 
 ## Connected Concepts
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[ai-ed-evaluation]]
-- [[ai-literacy]]
-- [[automated-grading]]
-- [[computational-thinking]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[knowledge-tracing]]
-- [[learning-analytics]]
-- [[llm]]
-- [[personalized-learning]]
-- [[scaffolding]]
+
 
 ## Connected Articles
 - [[test-driven-ai-assisted-learning]]

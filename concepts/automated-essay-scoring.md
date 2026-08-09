@@ -27,18 +27,12 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 
 ## Connected Concepts
 
-- [[automated-assessment]]
-- [[automated-grading]]
-- [[writing-education]]
-- [[prompt-engineering]]
-- [[generative-ai]]
-- [[assessment-validity]]
-- [[educational-measurement]]
-- [[bias-mitigation]]
-- [[equity]]
-- [[formative-assessment]]
-- [[feedback-loop]]
 - [[ai-literacy]]
+- [[prompt-engineering]]
+- [[automated-assessment]]
+- [[writing-education]]
+- [[higher-ed]]
+- [[k-12]]
 
 ## Connected Articles
 

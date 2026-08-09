@@ -12,23 +12,18 @@ Research in this wiki explores over reliance through multiple lenses:
 - **Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-:** This paper introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool to preserve human epistemic agency during GenAI-assisted intellectual work.
 
 ## Connected Concepts
-- [[affective-computing]]
-- [[ai-education]]
 - [[ai-literacy]]
 - [[ai-tutoring]]
-- [[automated-grading]]
-- [[bias-mitigation]]
-- [[ethics]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
+- [[adaptive-learning]]
+- [[ai-education]]
+- [[assessment-validity]]
+- [[administrator]]
+- [[ai-ed-evaluation]]
+- [[agentic-ai]]
+- [[affective-tutoring]]
+- [[affective-computing]]
 - [[llm]]
-- [[metacognition]]
-- [[personalized-learning]]
-- [[rag]]
-- [[cognitive-offloading]]
-- [[over-reliance]]
+- [[student-experience]]
 
 ## Connected Articles
 - [[vibe-compiler-metacognition-genai-agency-2026]]

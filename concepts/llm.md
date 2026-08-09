@@ -18,18 +18,18 @@ Examines gender differences in AI literacy, safety awareness, and STEM career as
 - **[[supplynet-visual-exploratory-learning]]:** Yanjia Li, Kelcy Kexin Han, Tianrui Hu, Yi-Fan Cao, Huamin Qu, Sicheng Song (2026)** — Hong Kong University of Science and Technology, City University of Hong Kong.
 
 ## Connected Concepts
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[agentic-ai]]
-- [[ai-literacy]]
-- benchmark
-- [[cs-education]]
-- [[equity]]
-- [[feedback-loop]]
-- [[formative-assessment]]
+- [[higher-ed]]
 - [[generative-ai]]
-- [[hallucination-risk]]
+- [[scaffolding]]
+- [[student-experience]]
+- [[ai-literacy]]
+- [[k-12]]
+- [[formative-assessment]]
+- [[rag]]
+- [[learning-analytics]]
+- [[automated-grading]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
 
 ## Connected Articles
 - [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven ...

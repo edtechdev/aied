@@ -18,19 +18,18 @@ Evaluates cross-dataset generalization of ML/DL methods and LLMs for automatic B
 - **[[ai-assistance-discretionary-feedback]]:** Romina Mahinpei, Victoria Dean, Ruth Fong, Lydia T.
 
 ## Connected Concepts
-- [[active-learning]]
 - [[ai-literacy]]
-- [[automated-grading]]
-- [[cs-education]]
-- efficacy-study
-- [[equity]]
-- [[equity-in-ai-education]]
-- [[faculty-development]]
-- [[feedback-loop]]
-- [[formative-assessment]]
-- [[generative-ai]]
 - [[higher-ed]]
+- [[generative-ai]]
+- [[llm]]
+- [[k-12]]
+- [[scaffolding]]
+- [[student-experience]]
+- [[formative-assessment]]
+- [[faculty-development]]
+- [[learning-analytics]]
 - [[teacher-ai-competency]]
+- [[adaptive-learning]]
 
 ## Connected Articles
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised M...

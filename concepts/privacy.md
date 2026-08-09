@@ -12,21 +12,7 @@ Research in this wiki explores privacy through multiple lenses:
 - **Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition:** Pilot study on privacy-aware computer vision for classroom incident detection.
 
 ## Connected Concepts
-- [[adaptive-learning]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-governance-education]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[cognitive-load-theory]]
-- [[ethics]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[learning-analytics]]
-- [[llm]]
-- [[metacognition]]
-- [[pedagogical-safety]]
+
 
 ## Connected Articles
 - [[privacy-aware-classroom-incident-recognition-2026]]

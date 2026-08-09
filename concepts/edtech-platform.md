@@ -12,21 +12,14 @@ Research in this wiki explores edtech platform through multiple lenses:
 - **Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition:** Pilot study on privacy-aware computer vision for classroom incident detection.
 
 ## Connected Concepts
+- [[intelligent-tutoring]]
+- [[personalized-learning]]
 - [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[ai-ed-evaluation]]
 - [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[automated-assessment]]
-- [[automated-grading]]
-- [[automated-question-generation]]
-- [[culturally-relevant-pedagogy]]
-- [[educational-nlp]]
-- [[educational-policy-ai]]
-- [[formative-assessment]]
+- [[generative-ai]]
+- [[multimodal]]
+- [[learning-analytics]]
+- [[ai-governance-education]]
 
 ## Connected Articles
 - [[privacy-aware-classroom-incident-recognition-2026]]

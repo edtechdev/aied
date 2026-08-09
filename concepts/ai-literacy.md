@@ -33,21 +33,18 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 
 ## Connected Concepts
 
-- [[critical-thinking]]
-- [[over-reliance]]
-- [[prompt-engineering]]
-- [[over-reliance]]
-- [[academic-integrity]]
-- [[ai-tutoring]]
-- [[teacher-ai-competency]]
-- [[faculty-development]]
-- [[scaffolding]]
-- [[active-learning]]
-- [[collaborative-learning]]
-- [[equity]]
-- [[privacy]]
+- [[higher-ed]]
 - [[generative-ai]]
+- [[llm]]
+- [[student-experience]]
+- [[scaffolding]]
+- [[k-12]]
 - [[ai-education]]
+- [[teacher-role]]
+- [[formative-assessment]]
+- [[metacognition]]
+- [[agentic-ai]]
+- [[adaptive-learning]]
 
 ## Connected Articles
 

@@ -11,21 +11,18 @@ Adaptive learning refers to educational technologies that dynamically adjust con
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
+- [[llm]]
+- [[personalized-learning]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
-- [[automated-question-generation]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[student-experience]]
+- [[learning-analytics]]
+- [[generative-ai]]
+- [[scaffolding]]
+- [[formative-assessment]]
+- [[affective-tutoring]]
+- [[metacognition]]
 
 ## Connected Articles
 

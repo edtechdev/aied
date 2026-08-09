@@ -11,7 +11,15 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[ai-team-teaching-talk-analytics]]
+- [[teacher-ai-competency]]
+- [[llm]]
+- [[k-12]]
+- [[teacher-role]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[ai-ed-evaluation]]
+- [[human-ai-collaboration]]
+- [[curriculum-design]]
 
 ## Connected Articles
 

@@ -54,21 +54,18 @@ This suggests that **metacognitive support and motivation are not identical**. T
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
+- [[scaffolding]]
+- [[self-regulated-learning]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
+- [[llm]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[student-experience]]
+- [[adaptive-learning]]
+- [[k-12]]
+- [[formative-assessment]]
+- [[rag]]
+- [[agentic-ai]]
 
 ## Connected Articles
 

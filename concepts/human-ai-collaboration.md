@@ -11,8 +11,18 @@ confidence: medium
 
 ## Connected Concepts
 
+- [[generative-ai]]
+- [[llm]]
 - [[agentic-ai]]
-- [[dot-framework-survey]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[ai-education]]
+- [[k-12]]
+- [[teacher-role]]
+- [[student-experience]]
+- [[professional-training]]
+- [[lifelong-learning]]
+- [[ai-ed-evaluation]]
 
 ## Connected Articles
 

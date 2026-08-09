@@ -13,22 +13,18 @@ AI tutoring encompasses the use of artificial intelligence — particularly larg
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
+- [[llm]]
+- [[scaffolding]]
 - [[ai-literacy]]
+- [[adaptive-learning]]
+- [[agentic-ai]]
+- [[ai-education]]
+- [[affective-tutoring]]
+- [[affective-computing]]
+- [[higher-ed]]
+- [[administrator]]
 - [[assessment-validity]]
-- [[automated-grading]]
-- [[automated-question-generation]]
-- [[intelligent-tutoring]]
+- [[ai-ed-evaluation]]
 
 ## Connected Articles
 

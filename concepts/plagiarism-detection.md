@@ -11,21 +11,12 @@ Technologies and methods for detecting AI-generated content in academic submissi
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
+- [[llm]]
+- [[higher-ed]]
+- [[prompt-engineering]]
 - [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
+- [[generative-ai]]
+- [[academic-integrity]]
 
 ## Connected Articles
 

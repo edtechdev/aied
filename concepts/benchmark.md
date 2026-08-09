@@ -22,12 +22,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 ## Connected Concepts
 
-- [[ai-ed-evaluation]]
-- [[assessment-validity]]
-- [[knowledge-tracing]]
-- [[bias-mitigation]]
-- [[generative-ai]]
-- [[llm]]
+
 
 ## Connected Articles
 

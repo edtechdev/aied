@@ -11,7 +11,18 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[ai-governance-education]]
+- [[knowledge-tracing]]
+- [[socratic-method]]
+- [[learning-analytics]]
+- [[pedagogical-llm-training]]
+- [[metacognition]]
+- [[rct]]
+- [[ai-ed-evaluation]]
+- [[adaptive-learning]]
+- [[educational-nlp]]
+- [[mastery-learning]]
+- [[scaffolding]]
+- [[ai-education]]
 
 ## Connected Articles
 

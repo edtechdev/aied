@@ -13,21 +13,18 @@ A pedagogical agent is an interactive AI component within a learning system that
 
 ## Connected Concepts
 
+- [[llm]]
+- [[higher-ed]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[learning-analytics]]
+- [[pedagogical-safety]]
+- [[pedagogical-llm-training]]
 - [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
+- [[scaffolding]]
 - [[ai-education]]
-- [[ai-literacy]]
+- [[generative-ai]]
 - [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-assessment]]
 
 ## Connected Articles
 

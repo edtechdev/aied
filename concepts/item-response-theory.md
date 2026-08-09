@@ -11,8 +11,16 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[assessment-validity]]
-- [[educational-measurement]]
+- [[knowledge-tracing]]
+- [[rag]]
+- [[ai-tutoring]]
+- [[socratic-ai-dialogue]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[llm]]
+- [[k-12]]
+- [[learning-analytics]]
+- [[affective-tutoring]]
 
 ## Connected Articles
 

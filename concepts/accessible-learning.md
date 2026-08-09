@@ -10,5 +10,5 @@ confidence: low
 
 ## Connected Concepts
 
-## Connected Articles
+
 

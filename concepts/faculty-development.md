@@ -16,5 +16,16 @@ Research themes include:
 
 ## Connected Concepts
 
-## Connected Articles
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[teacher-role]]
+- [[scaffolding]]
+- [[teacher-ai-competency]]
+- [[generative-ai]]
+- [[ai-education]]
+- [[metacognition]]
+- [[k-12]]
+- [[human-in-the-loop-ai]]
+- [[student-experience]]
+- [[llm]]
 
