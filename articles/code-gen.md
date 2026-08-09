@@ -8,7 +8,7 @@ sources: ['raw/papers/2604.03926.md']
 confidence: high
 ---
 
-> **A dual-agent RAG-based system for generating and validating coding comprehension MCQs**, evaluated by 6 SMEs across 7 pedagogical dimensions (N=288 questions, 2,016 rating pairs). AI excels at criteria-matching and computational verification (concept alignment 98.6%, code validity 95.5%), but human expertise remains essential for distractor quality (79.9%) and pedagogically rich feedback — providing an evidence-based division of labor for [[human-in-the-loop]] educational content generation.
+> **A dual-agent RAG-based system for generating and validating coding comprehension MCQs**, evaluated by 6 SMEs across 7 pedagogical dimensions (N=288 questions, 2,016 rating pairs). AI excels at criteria-matching and computational verification (concept alignment 98.6%, code validity 95.5%), but human expertise remains essential for distractor quality (79.9%) and pedagogically rich feedback — providing an evidence-based division of labor for [[human-in-the-loop-ai]] educational content generation.
 
 **Authors:** Xiaojing Duan, Frederick Nwanganga, Chaoli Wang (University of Notre Dame)
 **Venue:** AIED 2026 (short paper)
@@ -16,7 +16,7 @@ confidence: high
 
 ### Overview
 
-CODE-GEN (Context-aligned, Output-validated, Dual-agent, Expert-guided GENeration) is a [[human-in-the-loop]] [[agentic-ai]] system for generating contextually grounded multiple-choice coding comprehension questions. It integrates [[rag]] with a dual-agent architecture separating question generation from quality validation.
+CODE-GEN (Context-aligned, Output-validated, Dual-agent, Expert-guided GENeration) is a [[human-in-the-loop-ai]] [[agentic-ai]] system for generating contextually grounded multiple-choice coding comprehension questions. It integrates [[rag]] with a dual-agent architecture separating question generation from quality validation.
 
 ### Architecture
 
@@ -63,7 +63,7 @@ CODE-GEN (Context-aligned, Output-validated, Dual-agent, Expert-guided GENeratio
 
 ### Significance for [[automated-assessment]] and [[automated-question-generation]]
 
-CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation can serve as scalable first-line quality control for [[automated-assessment]] item generation. The explicit evaluation of the Validator against human judgment — rather than assuming automated evaluation is reliable — provides an evidence-based framework for determining where AI can be safely delegated and where [[human-in-the-loop]] oversight must be maintained.
+CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation can serve as scalable first-line quality control for [[automated-assessment]] item generation. The explicit evaluation of the Validator against human judgment — rather than assuming automated evaluation is reliable — provides an evidence-based framework for determining where AI can be safely delegated and where [[human-in-the-loop-ai]] oversight must be maintained.
 
 ## Connected Concepts
 

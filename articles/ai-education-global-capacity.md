@@ -29,13 +29,13 @@ While AI tools are globally available, the critical variable is local absorption
 - Extends [[ai-k12-evidence-base]] with global implementation perspective beyond US/Stanford scope
 - Addresses [[equity-in-ai-education]] disparities across countries
 - The assessment misalignment in China echoes concerns in [[authentic-assessment]]
-- Teacher readiness theme connects to [[faculty-development-genai]] and [[teacher-ai-competency]]
+- Teacher readiness theme connects to [[faculty-development]] and [[teacher-ai-competency]]
 
 ## Connected Concepts
 
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[regulation]]
 - [[teacher-ai-competency]]
 

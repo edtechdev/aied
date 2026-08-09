@@ -21,7 +21,7 @@ The theory is built on four core principles:
 3. **Generative Literacy** — Learners must develop skills to critically interpret, evaluate, and guide AI-generated content, complementing [[ai-literacy]] frameworks.
 4. **Adaptive Metacognition** — Learners monitor and regulate their own cognition *and* the AI's contributions during collaborative learning, extending [[scaffolding]] and [[self-regulated-learning]].
 
-Generativism has profound implications for [[intelligent-tutoring-systems|instructional design]], [[formative-assessment|learning and assessment]], and [[teacher-role|expertise development]] in contexts where generative AI plays an integral role in cognition. The framework challenges existing [[principled-ai-education|educational AI principles]] and offers a foundation for rethinking how [[llm|large language models]] reshape the fundamental nature of learning itself.
+Generativism has profound implications for [[intelligent-tutoring|instructional design]], [[formative-assessment|learning and assessment]], and [[teacher-role|expertise development]] in contexts where generative AI plays an integral role in cognition. The framework challenges existing [[principled-ai-education|educational AI principles]] and offers a foundation for rethinking how [[llm|large language models]] reshape the fundamental nature of learning itself.
 
 ## Connected Concepts
 

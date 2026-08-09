@@ -16,7 +16,7 @@ This paper investigates whether [[llm|large language models]] can serve as scala
 - **Diversity vs. Alignment trade-off**: LLMs generate diverse error patterns, but alignment with authentic student errors varies significantly by model. Claude Sonnet 4 achieves the most balanced performance across both dimensions.
 - **Functional indistinguishability**: A blinded expert annotation study (N=401) found that synthetic errors are functionally indistinguishable from authentic student errors.
 - **Task difficulty effects**: Higher-struggling-level problems elicit more diverse but less student-like errors — LLMs struggle more to simulate realistic mistakes on harder tasks.
-- **Practical implications**: Synthetic errors could be integrated into [[intelligent-tutoring-systems|intelligent tutoring systems]], teachable agents, and large-scale [[learning-analytics|learning analytics]] pipelines without waiting for authentic classroom data accumulation.
+- **Practical implications**: Synthetic errors could be integrated into [[intelligent-tutoring|intelligent tutoring systems]], teachable agents, and large-scale [[learning-analytics|learning analytics]] pipelines without waiting for authentic classroom data accumulation.
 
 ## Methodology
 

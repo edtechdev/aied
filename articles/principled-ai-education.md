@@ -64,7 +64,7 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[human-in-the-loop-ai]]
 - [[metacognition]]
 - [[self-regulated-learning]]

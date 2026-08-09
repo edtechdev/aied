@@ -43,7 +43,7 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 
 ## Connected Concepts
 
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[scaffolding]]

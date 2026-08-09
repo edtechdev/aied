@@ -36,7 +36,7 @@ confidence: high
 
 ## Implications for AI in Engineering Education
 
-This study contributes to understanding AI's role in [[computing-education|engineering education]] by revealing a dual challenge:
+This study contributes to understanding AI's role in [[cs-education|engineering education]] by revealing a dual challenge:
 
 1. **Tool limitations:** Current LLMs are not yet reliable for tasks requiring spatial reasoning about physical circuits
 2. **Pedagogical challenge:** Simply providing AI access does not replace the need for strong fundamental knowledge — students must develop the critical thinking skills to evaluate AI outputs

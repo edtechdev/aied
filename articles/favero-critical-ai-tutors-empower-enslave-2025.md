@@ -14,7 +14,7 @@ confidence: medium
 
 ## Key Findings
 
-This position paper occupies a critical counterpoint in the [[intelligent-tutoring-systems]] literature. While much of the field focuses on optimizing AI tutor performance and learning gains, the authors argue that effectiveness metrics alone are dangerously insufficient — what matters equally are the cognitive and developmental *costs* that AI tutors may impose on learners.
+This position paper occupies a critical counterpoint in the [[intelligent-tutoring]] literature. While much of the field focuses on optimizing AI tutor performance and learning gains, the authors argue that effectiveness metrics alone are dangerously insufficient — what matters equally are the cognitive and developmental *costs* that AI tutors may impose on learners.
 
 **Cognitive atrophy and the shortcut problem.** The central argument draws on [[cognitive-load-theory]] and the well-established finding that effortful cognitive processing is essential for durable learning. When [[intelligent-tutoring]] systems provide immediate, high-quality answers and solutions, they effectively short-circuit the very cognitive processes — struggling with problems, retrieving from memory, constructing explanations — that produce deep understanding. This phenomenon, which the authors term *cognitive atrophy*, mirrors concerns raised in the [[efficiency-gain-illusion-ai-overreliance]] and [[cognitive-offloading]] literatures: learners may feel more productive while learning less.
 

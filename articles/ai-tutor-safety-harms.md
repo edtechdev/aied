@@ -67,7 +67,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 
 - [[affective-tutoring]]
 - [[ai-literacy]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[metacognition]]
 - [[pedagogical-llm-training]]
 - [[self-regulated-learning]]

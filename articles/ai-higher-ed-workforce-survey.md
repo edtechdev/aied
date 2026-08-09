@@ -25,13 +25,13 @@ A large-scale survey (n=1,960) by EDUCAUSE (2026) examining how AI is reshaping 
 - Top risks: misinformation (55%), data consent (52%), loss of fundamental skills (51%)
 
 ## Implications
-The survey reveals a significant policy-awareness gap: despite near-universal AI use, nearly half of respondents are unaware of institutional AI policies. This suggests policies either don't exist or aren't effectively communicated. The prevalence of "shadow AI" use (56%) indicates a disconnect between institutional tool provision and staff needs. Connects to [[faculty-development-genai]] regarding upskilling challenges and [[ai-literacy]] for the awareness gap.
+The survey reveals a significant policy-awareness gap: despite near-universal AI use, nearly half of respondents are unaware of institutional AI policies. This suggests policies either don't exist or aren't effectively communicated. The prevalence of "shadow AI" use (56%) indicates a disconnect between institutional tool provision and staff needs. Connects to [[faculty-development]] regarding upskilling challenges and [[ai-literacy]] for the awareness gap.
 
 ## Connected Concepts
 
 - [[administrator]]
 - [[ai-literacy]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[higher-ed]]
 - [[regulation]]
 

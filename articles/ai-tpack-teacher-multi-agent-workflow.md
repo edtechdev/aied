@@ -24,7 +24,7 @@ The core theoretical contribution is that effective AI-TPACK integration — the
 2. **Pedagogical beliefs**: Underlying assumptions about teaching and learning that fundamentally shape design choices
 3. **Self-efficacy**: Confidence in one's ability to orchestrate complex AI-enhanced workflows
 
-This challenges static, checklist-based models of [[teacher-ai-competency]] and aligns with broader research showing that [[faculty-development-genai]] must address cognitive-behavioral diversity, not just technology training.
+This challenges static, checklist-based models of [[teacher-ai-competency]] and aligns with broader research showing that [[faculty-development]] must address cognitive-behavioral diversity, not just technology training.
 
 ## Implications for Teacher Professional Development
 
@@ -42,7 +42,7 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 ## Connected Concepts
 
 - [[agentic-ai-ecosystems-higher-education]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[teacher-ai-competency]]
 
 - [[ai-literacy]]

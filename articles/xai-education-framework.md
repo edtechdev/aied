@@ -68,7 +68,7 @@ Analytics for collaborative learning environments that surface group dynamics an
 
 ## Significance for AIED
 
-The XAI-ED framework has become a foundational reference in AIED, cited across the [[ai-k12-evidence-base]], [[ai-tutor-safety-harms]], and [[ai-literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety]] and [[human-in-the-loop]] design.
+The XAI-ED framework has become a foundational reference in AIED, cited across the [[ai-k12-evidence-base]], [[ai-tutor-safety-harms]], and [[ai-literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety]] and [[human-in-the-loop-ai]] design.
 
 ## Connected Concepts
 

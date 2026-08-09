@@ -7,7 +7,7 @@ tags: [ai-education, ai-literacy, design-thinking, dot-framework, higher-ed, hum
 confidence: high
 ---
 
-A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the **DOT Framework** — a synthesis of [[design-thinking-in-education]] and [[open-systems-theory]].
+A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the **DOT Framework** — a synthesis of [[design-thinking]] and [[open-systems-theory]].
 
 ## Core Findings
 

@@ -74,13 +74,13 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 
 - How do these principles scale across class sizes, disciplines, and institutional contexts?
 - What is the minimum threshold of AI literacy needed for students to benefit from scaffolded integration?
-- How should [[faculty-development-genai|faculty development]] programs train instructors to implement these principles at scale?
+- How should [[faculty-development|faculty development]] programs train instructors to implement these principles at scale?
 - What empirical evidence is needed to validate the framework's efficacy claims?
 
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[formative-assessment]]
 - [[metacognition]]
 - [[self-regulated-learning]]
