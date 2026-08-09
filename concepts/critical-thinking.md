@@ -3,17 +3,41 @@ title: Critical Thinking
 created: 2026-08-09
 updated: 2026-08-09
 type: concept
-tags: [ai-education, generative-ai, higher-ed, student-experience]
-confidence: low
+tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
+confidence: medium
 ---
-> **Critical Thinking** — a key concept in AI in education research. Explored across 3 articles in this wiki.
 
-Research themes include:
-- **Authors:** Favero et al. · **Workshop:** AIED 2025 · **arXiv:** 2507.06878
-- The review draws on an integrated constellation of theories spanning cognitive, sociocultural, and technological dimensions:
-- The framework identifies six interconnected cognitive and metacognitive processes that must be deliberately supported in AI-enhanced learning environments:
+> **Critical thinking** — the ability to analyze, evaluate, and synthesize information — is both a skill that AI tools can help develop and a competency that students must apply when using AI. In AI in education research, critical thinking appears in two interrelated forms: as a learning objective (teaching students to think critically) and as a safeguard against uncritical AI reliance.
+
+Critical thinking is central to [[ai-literacy]] — students who cannot critically evaluate AI outputs are vulnerable to [[over-reliance]], hallucinated information, and biased recommendations. Research on [[cognitive-offloading]] shows that easy access to AI answers can displace critical engagement, while [[socratic-method|Socratic approaches]] that withhold direct answers preserve the cognitive effort necessary for deeper thinking.
+
+### Critical thinking in AI education research
+
+The wiki's articles explore critical thinking through design-based and empirical lenses. [[ai-agents-constructive-conflict-design-education-2026|Adversarial AI agents]] enact constructive conflict to prompt reconsideration in novice designers — a Socratic variant that forces critical re-evaluation. [[genai-can-harm-teaching-rct-2026|RCT research on GenAI in teaching]] raises the question of whether AI tools that optimize for surface-level outcomes may inadvertently suppress the critical thinking that leads to deeper learning.
+
+[[chatgpt-critical-creative-thinking-review|Reviews of ChatGPT's impact on thinking]] document mixed findings: AI can scaffold critical analysis when used deliberately (e.g., asking students to critique AI-generated arguments), but it can also short-circuit thinking when used as an answer engine. This tension connects to [[ai-literacy-assessment-misalignment]] research showing that self-reported AI competence far exceeds actual critical evaluation ability.
+
+### Connections to other concepts
+
+Critical thinking intersects with [[scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering]] (formulating questions that elicit critical analysis), and [[trust-calibration]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity]] and serves as a key dimension of [[ai-literacy]] frameworks across both [[k-12]] and [[higher-ed]] contexts.
 
 ## Connected Concepts
 
+- [[ai-literacy]]
+- [[over-reliance]]
+- [[cognitive-offloading]]
+- [[scaffolding]]
+- [[socratic-method]]
+- [[trust-calibration]]
+- [[academic-integrity]]
+- [[prompt-engineering]]
+- [[higher-ed]]
+- [[k-12]]
+
 ## Connected Articles
 
+- [[ai-agents-constructive-conflict-design-education-2026]] — Adversarial AI Agents for Constructive Conflict
+- [[genai-can-harm-teaching-rct-2026]] — Is Using GenAI Tools Improving Teaching Quality?
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT's Impact on Critical and Creative Thinking
+- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment Misalignment
+- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning

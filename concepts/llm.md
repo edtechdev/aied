@@ -6,51 +6,37 @@ type: concept
 tags: [llm, higher-ed, generative-ai, intelligent-tutoring, student-experience, scaffolding, k-12, personalized-learning, formative-assessment, feedback-loop]
 confidence: medium
 ---
+> **Large Language Models** is a foundational concept in AI in education research, appearing across 257 articles in this wiki. 
 
-> **LLMs** (large language models) are the wiki's dominant technology: from [[llm-detecting-llm-generated-content-education]] and [[llm-feedback-programming-classroom]] to [[llm-student-simulation-misconception-faithfulness]] and [[special-r1-rl-special-education]], the corpus tracks LLMs as tutors, graders, simulators, and content generators — with capability consistently outpacing pedagogical validation ([[generative-ai]], [[ai-ed-evaluation]]).
+### How Large Language Models appears in the research
+- **[[ai-psychotherapy-training-avatars]]:** Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler (2026)** — Institution.
+- **[[astra-atco-training-simulator]]:** Ethan Chew, Enjia Wu, Iruss Eng Wei Yeow, Ian Weiqin Lim, Ranen Sim, Brandon Koh Ziheng, Kaleb Nim, Caden Toh Jun Yi, Wei Dong Soin, Darius Kai Keat Koh, Galen King Yu Tay, Prannaya Gupta, Jonathan Ee.
+- **[[prompt-problems-nl-programming-mistakes]]:** Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026)** — arXiv:2607.
+- **[[courseblueprint-adaptive-video-generation]]:** Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026)** — arXiv:2606.
+- **[[gender-differences-ai-literacy-deepfake]]:** Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026)** — arXiv preprint
+Examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian sec.
+- **[[supplynet-visual-exploratory-learning]]:** Yanjia Li, Kelcy Kexin Han, Tianrui Hu, Yi-Fan Cao, Huamin Qu, Sicheng Song (2026)** — Hong Kong University of Science and Technology, City University of Hong Kong.
 
 ## Connected Concepts
-
+- [[active-learning]]
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
 - [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
+- [[benchmark]]
+- [[cs-education]]
+- [[equity]]
+- [[feedback-loop]]
+- [[formative-assessment]]
+- [[generative-ai]]
+- [[hallucination-risk]]
 
 ## Connected Articles
-
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
-- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
-- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
-- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
-- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
-- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
-- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
-- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
-- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
-- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
-- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
-- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven ...
+- [[astra-atco-training-simulator]] — ASTRA: A Scalable Next-Generation ATCO Training Simulator...
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...
+- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
+- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedag...
+- [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy Workshop Outcomes and D...
+- [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supp...
+- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Educ...
