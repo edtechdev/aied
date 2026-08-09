@@ -27,7 +27,7 @@ This model bridges [[agentic-workflows-education]] and practical classroom imple
 - [[project-based-learning]]
 - [[scaffolding]]
 
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-tutoring]]
 - [[higher-ed]]
 - [[k-12]]

@@ -11,7 +11,7 @@ confidence: low
 ## Connected Concepts
 - [[affective-computing]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-literacy]]
 - [[automated-grading]]
 - [[bias-mitigation]]

@@ -17,11 +17,11 @@ Generative AI challenges academic integrity not only by enabling students to del
 - **Ethical slippery slope:** The paper characterizes modern AI as presenting a "steep, ethical, slippery slope" where students conceptually slide far outside pedagogical goals. This finding extends work on [[over-reliance]] by documenting the metacognitive mechanisms students use to justify AI dependence.
 - **Implications for [[writing-education]]:** As AI writing tools become ubiquitous, educators must design assignments and policies that account for these rationalization patterns — not just detection-based interventions. This connects to research on [[ai-assisted-writing-research-teams]] and the shifting norms of academic writing in the AI era.
 - **[[ai-literacy]] gap exposed:** The study reveals that students' ethical frameworks for AI use are underdeveloped and self-serving, highlighting the urgent need for explicit AI literacy instruction that addresses ethical reasoning, not just technical capability. This aligns with the [[agentic-literacy-debt]] framework's emphasis on governance infrastructure for AI use.
-- **Cross-listed from cs.HC**, this work brings human-computer interaction methods (semi-structured interviews, chat log analysis) to bear on [[higher-ed]] integrity challenges, complementing quantitative studies on [[ai-assistance-reduces-persistence]] with rich qualitative evidence of student reasoning.
+- **Cross-listed from cs.HC**, this work brings human-computer interaction methods (semi-structured interviews, chat log analysis) to bear on [[higher-ed]] integrity challenges, complementing quantitative studies on [[over-reliance]] with rich qualitative evidence of student reasoning.
 
 ## Connected Concepts
 
-- [[ai-assistance-reduces-persistence]]
+- [[over-reliance]]
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[learning-analytics]]

@@ -14,7 +14,7 @@ confidence: medium
 
 1. **Universal harm across all models.** Every evaluated model — from 3.8B open-weight models to GPT-5-mini — exhibited broad pedagogical harm. No model was consistently safe across all subjects and interaction modes, indicating that tutoring safety is not solved by general capability improvements.
 
-2. **Scale does not reliably improve safety.** Increasing model size did not produce consistent improvements in pedagogical safety, challenging the assumption that larger models are inherently better tutors. This finding parallels broader critiques in [[llm-evaluation]] that general benchmarks do not capture domain-specific safety requirements.
+2. **Scale does not reliably improve safety.** Increasing model size did not produce consistent improvements in pedagogical safety, challenging the assumption that larger models are inherently better tutors. This finding parallels broader critiques in llm-evaluation that general benchmarks do not capture domain-specific safety requirements.
 
 3. **Multi-turn dialogue dramatically worsens behavior.** Pedagogical failure rates escalate from **17.7% in single-turn** interactions to **77.8% in multi-turn** conversations. The crescendo-based escalation design reveals that models which appear safe in one-turn evaluations systematically degrade across sustained interaction — single-turn "safe/helpful" results mask systematic tutor failure.
 
@@ -28,7 +28,7 @@ SafeTutors fundamentally reframes the conversation around [[pedagogical-safety]]
 
 The multi-turn degradation finding is particularly alarming for real-world deployment. Most tutoring interactions extend over multiple turns, yet the evaluation community has largely relied on single-turn benchmarks. SafeTutors provides evidence that this practice is dangerously misleading. Systems like [[eduzone-llm-safety-k12]] and [[vetting-dual-llm-safety-education]] that prioritize multi-turn safety evaluation are essential, not optional.
 
-The risk taxonomy itself is a significant contribution, providing a theoretically grounded vocabulary for discussing tutoring harm. It bridges [[educational-theory]] and AI safety, enabling researchers to move beyond vague claims about "tutor quality" toward precise identification of specific failure modes. This taxonomy could inform the design of [[pedagogical-safety-rl]] approaches like [[singh-eduqwen-pedagogical-rl-2026]] that train models to avoid specific pedagogical harms.
+The risk taxonomy itself is a significant contribution, providing a theoretically grounded vocabulary for discussing tutoring harm. It bridges educational-theory and AI safety, enabling researchers to move beyond vague claims about "tutor quality" toward precise identification of specific failure modes. This taxonomy could inform the design of [[pedagogical-safety-rl]] approaches like [[singh-eduqwen-pedagogical-rl-2026]] that train models to avoid specific pedagogical harms.
 
 For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTutors provides empirical evidence that current models are not safe enough for unsupervised deployment. The subject-dependence of harms suggests that safety evaluation must be integrated into discipline-specific [[ai-tutor-behavioral-evaluation]] pipelines rather than treated as a one-time gate.
 

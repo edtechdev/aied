@@ -15,7 +15,7 @@ confidence: medium
 ## Key Findings
 
 - Longitudinal Twitter/X analysis maps how the public debates AI ethics concerns in [[higher-ed]] and schools over time.
-- Surfaces the ethical concerns (bias, fairness, accountability) that educators and [[policy-maker]]s must address for responsible adoption.
+- Surfaces the ethical concerns (bias, fairness, accountability) that educators and [[educational-policy-ai]]s must address for responsible adoption.
 - Ties public sentiment to [[equity]] questions about who benefits and who is harmed by GenAI in education.
 - Complements [[principled-ai-education]] frameworks by grounding them in real discourse rather than expert opinion alone.
 - Relevant to [[academic-integrity]] debates, as public concern shapes institutional response and policy.

@@ -13,7 +13,7 @@ confidence: medium
 
 This ITS 2026 paper challenges claims about attention-augmented Programming Knowledge Tracing (PKT) superiority. The authors identify three critical protocol flaws: **attention dimension misconfiguration**, **temporal causality violations** (ignoring ServerTimestamp), and **hyperparameter leakage** across CV folds. When controlled, the gap between attention-enhanced models and standard DKT narrows significantly.^[2605.04727](raw/papers/2605.04727.md)
 
-This reinforces [[ground-truth-reliability-aied]] by showing that experimental protocol flaws can produce misleading performance claims. It also has implications for [[benchmark]] design in educational AI, arguing for standardized evaluation frameworks. The CodeWorkout dataset protocol serves as a template for [[programming-its]] research.
+This reinforces [[ground-truth-reliability-aied]] by showing that experimental protocol flaws can produce misleading performance claims. It also has implications for benchmark design in educational AI, arguing for standardized evaluation frameworks. The CodeWorkout dataset protocol serves as a template for [[programming-its]] research.
 
 ## Connected Concepts
 

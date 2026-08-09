@@ -43,7 +43,7 @@ This enables **adaptive interventions** in video learning:
 2. **Trigger scaffolds** (reflection prompt, content re-summarization)
 3. **Close loop:** Learner reflects → re-engages → improved outcomes
 
-This aligns with [[adaptive-learning-systems]] principles: real-time learner modeling → personalized intervention.
+This aligns with [[adaptive-learning]] principles: real-time learner modeling → personalized intervention.
 
 ## Implications for ITS
 
@@ -54,7 +54,7 @@ Intelligent tutoring systems increasingly include **video components** (e.g., wo
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[affective-tutoring]]
 - [[formative-assessment]]
 - [[self-regulated-learning]]

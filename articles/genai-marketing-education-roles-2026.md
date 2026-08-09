@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.03973.md']
 confidence: high
 ---
 
-> **When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three GAI roles in education: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solv... [[generative-ai]] [[higher-ed]] [[pedagogy]] [[instructional-design]] [[teacher-role]] [[professional-training]]
+> **When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three GAI roles in education: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solv... [[generative-ai]] [[higher-ed]] pedagogy [[instructional-design]] [[teacher-role]] [[professional-training]]
 
 Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three GAI roles in education: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solving), and tool. Each role influences teaching, social, and cognitive presence differently. Identifies ethical considerations: data privacy, plagiarism, AI dependency, and assessment fairness. Provides concrete examples for GAI integration in courses.
 

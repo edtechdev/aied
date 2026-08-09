@@ -14,7 +14,7 @@ Research in this wiki explores stem education through multiple lenses:
 
 ## Connected Concepts
 - [[adaptive-learning]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-education]]
 - [[ai-literacy]]
 - [[assessment-validity]]

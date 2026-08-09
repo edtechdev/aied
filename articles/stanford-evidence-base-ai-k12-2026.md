@@ -28,7 +28,7 @@ confidence: medium
 
 This review is a watershed document for the field. It establishes that the evidence base for AI in K-12 education is not merely thin — it is *absent* for the populations and contexts where deployment is most aggressively pursued (U.S. K-12 classrooms). The finding that zero high-quality causal studies exist for U.S. K-12 students should give pause to every district administrator, edtech vendor, and policy maker advocating for rapid AI adoption.
 
-The consistent pattern of immediate gains without durable transfer challenges the prevailing assumption that AI assistance automatically improves learning. It suggests that many AI education tools may function as **performance prosthetics** — helping students complete tasks in the moment without building the underlying knowledge that enables independent performance later. This distinction between assisted performance and genuine learning is well-established in [[randomized-controlled-trials-education|RCT-based education research]] but has been largely overlooked in the AI education hype cycle.
+The consistent pattern of immediate gains without durable transfer challenges the prevailing assumption that AI assistance automatically improves learning. It suggests that many AI education tools may function as **performance prosthetics** — helping students complete tasks in the moment without building the underlying knowledge that enables independent performance later. This distinction between assisted performance and genuine learning is well-established in [[rct|RCT-based education research]] but has been largely overlooked in the AI education hype cycle.
 
 The superiority of pedagogically designed tools over general-purpose AI is actionable: it implies that simply giving students access to ChatGPT or similar chatbots is not merely suboptimal but potentially harmful. Effective AI in education requires deliberate instructional design — [[scaffolding]], [[zone-of-proximal-development|ZPD]]-aligned support, refusal to bypass student thinking, and integration with established learning activities. This connects to broader work on [[ai-pedagogical-orientation]] and the growing recognition that [[access-not-enough-ai-tutoring-2026|access to AI tutoring is not enough]] without thoughtful pedagogical integration.
 
@@ -42,7 +42,7 @@ For the research community, the review functions as both a wake-up call and a ro
 - [[k-12]]
 - [[k-12-ai-education]]
 - [[metacognition]]
-- [[randomized-controlled-trials-education]]
+- [[rct]]
 - [[scaffolding]]
 - [[zone-of-proximal-development]]
 

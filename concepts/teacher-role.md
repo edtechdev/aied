@@ -22,7 +22,7 @@ Evaluates cross-dataset generalization of ML/DL methods and LLMs for automatic B
 - [[ai-literacy]]
 - [[automated-grading]]
 - [[cs-education]]
-- [[efficacy-study]]
+- efficacy-study
 - [[equity]]
 - [[equity-in-ai-education]]
 - [[faculty-development]]

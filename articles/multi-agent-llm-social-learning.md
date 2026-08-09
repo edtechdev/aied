@@ -22,7 +22,7 @@ Multi-agent LLM configurations for learning. Two experiments (N=315 math, N=247 
 
 ## Connected Concepts
 
-- [[agentic-ai-ecosystems-higher-education]]
+- [[agentic-ai]]
 - [[scaffolding]]
 
 - [[agentic-ai]]

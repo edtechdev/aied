@@ -38,7 +38,7 @@ The review identifies four design elements that distinguish effective interventi
 
 ### Language and Methodological Gaps
 
-Java interventions showed more consistent gains; Python — despite dominance in CS1 — lacks sufficient experimental isolation. The review also documents critical methodological weaknesses: inconsistent outcome operationalization, variable control group definitions, and chronic **underreporting of effect sizes and confidence intervals** — a concern that connects to broader [[efficacy-study]] design standards.
+Java interventions showed more consistent gains; Python — despite dominance in CS1 — lacks sufficient experimental isolation. The review also documents critical methodological weaknesses: inconsistent outcome operationalization, variable control group definitions, and chronic **underreporting of effect sizes and confidence intervals** — a concern that connects to broader efficacy-study design standards.
 
 ## Relevance to AI in Education
 
@@ -51,7 +51,7 @@ For [[higher-ed]] contexts, the review provides actionable guidance: semester-lo
 - [[computational-thinking]]
 - [[generative-ai]]
 - [[higher-ed]]
-- [[llm-in-education]]
+- [[ai-education]]
 - [[prompt-engineering]]
 - [[reshaping-cs-education-genai]]
 - [[scaffolding]]

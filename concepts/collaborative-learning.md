@@ -10,7 +10,7 @@ confidence: low
 
 ## Connected Concepts
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[ai-education]]

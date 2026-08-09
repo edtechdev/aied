@@ -101,7 +101,7 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 | Cyber-social partnership (complementary strengths) | [[principled-ai-education]] — "AI must augment, not displace" aligns perfectly |
 | Four costs framework (individual, environment, knowledge, jobs) | [[ai-tutor-safety-harms]] — Costs to knowledge overlap with cognitive offloading; environmental costs are a new dimension |
 | AI literacy levels and scales | [[ai-literacy]] — ICAP framework; collaborative learning; this guide adds institutional scaling and multimodal specificity |
-| MMLD-AI model (UDL + ABC + six engagement types) | [[adaptive-learning-systems]] — Multi-resolution personalization; [[agentic-workflows-education]] — Planning and reflection paradigms |
+| MMLD-AI model (UDL + ABC + six engagement types) | [[adaptive-learning]] — Multi-resolution personalization; [[agentic-workflows-education]] — Planning and reflection paradigms |
 | Dual-Track Cyber-Social Model | [[pedagogical-llm-training]] — Reward "guiding" over "answering"; [[human-in-the-loop-ai]] — Human verification of AI outputs |
 | Multimodal assessment redesign | [[authentic-assessment]] — Six-dimensional framework; [[formative-assessment]] — AI-generated feedback with human validation |
 | Scaffolding and metacognition | [[self-regulated-learning]] — UDL's emphasis on student agency; [[metacognition]] — Cyber-social metacognitive awareness |
@@ -127,7 +127,7 @@ The guide includes 15+ educator case studies spanning:
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[ai-literacy]]
 - [[dot-framework-survey]]
 - [[faculty-development]]

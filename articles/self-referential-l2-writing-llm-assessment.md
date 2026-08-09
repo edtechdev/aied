@@ -41,7 +41,7 @@ The self-referential approach aligns with [[personalized-learning]] goals and th
 - [[automated-grading]]
 - [[automated-question-generation]]
 - [[formative-assessment]]
-- [[ground-truth-reliability-aided]]
+- ground-truth-reliability-aided
 - [[human-in-the-loop-ai]]
 - [[personalized-learning]]
 - [[writing-education]]

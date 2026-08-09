@@ -97,7 +97,7 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[pedagogical-llm-training]]
 - [[student-experience]]
 

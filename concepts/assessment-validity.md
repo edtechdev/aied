@@ -7,7 +7,7 @@ tags: [ai-literacy, assessment, assessment-validity, educational-theory, faculty
 confidence: high
 ---
 
-> **Assessment validity** — whether an instrument measures what it claims — is under strain in AI education: [[ai-literacy]] self-reports overestimate actual skill (40% gap; r=0.31 self-report vs r=0.72 task-based), demanding task-based, construct-aligned designs ([[benchmark]], [[automated-grading]]).
+> **Assessment validity** — whether an instrument measures what it claims — is under strain in AI education: [[ai-literacy]] self-reports overestimate actual skill (40% gap; r=0.31 self-report vs r=0.72 task-based), demanding task-based, construct-aligned designs (benchmark, [[automated-grading]]).
 
 Assessment validity—the degree to which an instrument measures what it claims to measure—is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revealed a **40% overestimation gap**: teachers' self-reported AI literacy correlated weakly (r=0.31) with actual performance, while task-based assessments showed strong correlation (r=0.72) with classroom AI integration.
 
@@ -33,14 +33,14 @@ Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Bet
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
+- [[agentic-ai]]
+- [[over-reliance]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-literacy]]

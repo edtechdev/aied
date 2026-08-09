@@ -26,7 +26,7 @@ The EduQwen project addresses a fundamental misalignment in LLM behavior for edu
 
 ## Implications
 
-This work carries significant implications for the [[educational-llm-alignment]] and [[pedagogical-safety]] landscape. First, it demonstrates that [[reinforcement-learning-education]] approaches — particularly DAPO with carefully constructed reward models that prioritize guidance over answer-giving — can effectively reshape LLM behavior for educational contexts. The synthetic SFT stage highlights how high-quality, difficult-example-focused data can efficiently transfer pedagogical capability without massive datasets.
+This work carries significant implications for the [[educational-llm-alignment]] and [[pedagogical-safety]] landscape. First, it demonstrates that [[reinforcement-learning]] approaches — particularly DAPO with carefully constructed reward models that prioritize guidance over answer-giving — can effectively reshape LLM behavior for educational contexts. The synthetic SFT stage highlights how high-quality, difficult-example-focused data can efficiently transfer pedagogical capability without massive datasets.
 
 Second, the success of [[open-source]] 32B models over proprietary giants has practical consequences for [[edtech-platform]] deployment: schools and institutions can run domain-specialized pedagogical models locally, preserving privacy and reducing costs while maintaining state-of-the-art quality. This aligns with broader movements toward [[responsible-assessment-ai-era-stanford-2026]] and transparent educational AI.
 

@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.03952v1.md']
 confidence: high
 ---
 
-> **Synthesis:** TACT (Taxonomy-Aligned Conversational Tutor) presents a human-grounded framework for training and evaluating pedagogically adaptive ESL tutors powered by [[llm|LLMs]]. Built on a Tutor-Strategy Taxonomy (13 strategies) and a Student-Move Taxonomy, TACT produces TACTutor — a model that improves over its Qwen3.5-4B backbone by 20.30% on a strategy-balanced benchmark and outperforms all evaluated proprietary baselines. The framework represents a significant advance in [[scaffolding|pedagogically grounded]] [[tutoring-systems|AI tutoring]], moving beyond generic response generation toward truly adaptive instructional dialogue.
+> **Synthesis:** TACT (Taxonomy-Aligned Conversational Tutor) presents a human-grounded framework for training and evaluating pedagogically adaptive ESL tutors powered by [[llm|LLMs]]. Built on a Tutor-Strategy Taxonomy (13 strategies) and a Student-Move Taxonomy, TACT produces TACTutor — a model that improves over its Qwen3.5-4B backbone by 20.30% on a strategy-balanced benchmark and outperforms all evaluated proprietary baselines. The framework represents a significant advance in [[scaffolding|pedagogically grounded]] [[intelligent-tutoring|AI tutoring]], moving beyond generic response generation toward truly adaptive instructional dialogue.
 
 ## Framework Design
 

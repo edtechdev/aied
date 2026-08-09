@@ -7,19 +7,19 @@ tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generativ
 confidence: medium
 ---
 
-> **AI-ed evaluation** covers how AI education tools are benchmarked and assessed — see [[cotal-formative-assessment-scoring-2026]], [[benchmark]], [[ground-truth-reliability-aied]], and [[teachbench-llm-teaching-evaluation]] — with recurring findings that evaluation must be domain-specific and reliability-aware, not headline-accuracy-driven.
+> **AI-ed evaluation** covers how AI education tools are benchmarked and assessed — see [[cotal-formative-assessment-scoring-2026]], benchmark, [[ground-truth-reliability-aied]], and [[teachbench-llm-teaching-evaluation]] — with recurring findings that evaluation must be domain-specific and reliability-aware, not headline-accuracy-driven.
 
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
+- [[agentic-ai]]
+- [[over-reliance]]
 - [[ai-education]]
 - [[ai-literacy]]
 - [[ai-tutoring]]

@@ -7,7 +7,7 @@ tags: []
 confidence: medium
 ---
 
-> **Desirable difficulties** — the finding that harder retrieval conditions improve long-term learning — is the theoretical counterweight to AI smoothing: [[agentic-ai-pedagogical-best-practice-2026]] calls for intentional friction, and [[retrieval-practice]] and [[generative-ai-reduced-study-time-math]] document the costs of removing productive struggle.
+> **Desirable difficulties** — the finding that harder retrieval conditions improve long-term learning — is the theoretical counterweight to AI smoothing: [[agentic-ai-pedagogical-best-practice-2026]] calls for intentional friction, and retrieval-practice and [[generative-ai-reduced-study-time-math]] document the costs of removing productive struggle.
 
 ## Connected Articles
 

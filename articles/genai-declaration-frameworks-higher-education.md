@@ -13,7 +13,7 @@ As [[generative-ai]] disrupts [[higher-ed]], institutions increasingly require s
 
 The paper contributes a design artifact: a framework of two task-specific declaration structures — one for writing-focused activities and one for coding assessments — developed for a Computer Science department based on an existing taxonomy of GenAI usage. By categorising AI usage across specific cognitive and developmental stages (e.g., structural planning vs. textual content generation, or code improvement vs. code generation), the framework encourages students to reflect on their own learning process and clarifies the boundary between acceptable assistance and [[academic-integrity|academic misconduct]].
 
-This domain-specific approach is proposed as a foundation for fostering more honest assessment in Computer Science and other disciplines, aiming to better prepare students for professional environments where documenting GenAI workflows might be an essential job requirement. The work connects to broader discussions about [[ai-higher-ed-bridge-gap]] and the tension between [[policy-maker|institutional regulation]] and [[student-experience|student practice]].
+This domain-specific approach is proposed as a foundation for fostering more honest assessment in Computer Science and other disciplines, aiming to better prepare students for professional environments where documenting GenAI workflows might be an essential job requirement. The work connects to broader discussions about [[ai-higher-ed-bridge-gap]] and the tension between [[educational-policy-ai|institutional regulation]] and [[student-experience|student practice]].
 
 ## Connected Concepts
 

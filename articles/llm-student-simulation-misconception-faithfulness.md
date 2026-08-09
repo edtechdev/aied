@@ -22,7 +22,7 @@ This connects directly to [[eduframetrap-llm-sycophancy-educational-safety]], wh
 
 The post-training pipeline — combining supervised fine-tuning, preference optimization, and [[pedagogical-safety-rl|RL with SFS-aligned rewards]] — achieved SFS gains up to +0.56, demonstrating that misconception faithfulness is trainable. This has implications for [[ai-tutor-safety-harms]]: if student simulators used for tutor safety testing are themselves unfaithful, safety evaluations conducted on them may systematically miss harm patterns that real students would exhibit.
 
-For [[student-experience]] and [[benchmark]] development, this paper motivates a paradigm shift from static output matching toward interactive, belief-aware student modeling — a theme that also resonates with [[llm-student-modeling-memory]] and the behavioral evaluation framework in [[ai-tutor-behavioral-evaluation]].
+For [[student-experience]] and benchmark development, this paper motivates a paradigm shift from static output matching toward interactive, belief-aware student modeling — a theme that also resonates with [[llm-student-modeling-memory]] and the behavioral evaluation framework in [[ai-tutor-behavioral-evaluation]].
 
 ## Connected Concepts
 

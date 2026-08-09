@@ -28,7 +28,7 @@ Research in this wiki explores over reliance through multiple lenses:
 - [[personalized-learning]]
 - [[rag]]
 - [[cognitive-offloading]]
-- [[trust-calibration]]
+- [[over-reliance]]
 
 ## Connected Articles
 - [[vibe-compiler-metacognition-genai-agency-2026]]

@@ -31,7 +31,7 @@ The finding that models struggle most with **multi-step teaching workflows** in 
 - [[scaffolding]]
 
 - [[agentic-ai]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[generative-ai]]
 - [[llm]]
 - [[teacher-role]]

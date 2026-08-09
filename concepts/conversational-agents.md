@@ -14,18 +14,18 @@ Research themes include:
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
+- [[agentic-ai]]
+- [[over-reliance]]
 - [[ai-tutoring]]
 - [[automated-grading]]
 - [[automated-question-generation]]
 - [[computational-thinking]]
-- [[learning-by-teaching]]
+- learning-by-teaching
 - [[lifelong-learning]]
 - [[llm]]
 

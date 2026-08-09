@@ -22,13 +22,13 @@ confidence: medium
 
 ## Implications
 
-This work addresses a critical gap in [[automatic-short-answer-grading]]: the gap between knowing that LLMs can grade short answers and trusting them enough to deploy in high-stakes settings. The central insight — that model confidence signals are unreliable on their own — is consistent with broader findings in [[confidence-aware-ai-assessment]] and [[psychometrically-aware-ai]], which argue that AI assessment systems must be calibrated against human judgment uncertainty, not just accuracy.
+This work addresses a critical gap in [[automatic-short-answer-grading]]: the gap between knowing that LLMs can grade short answers and trusting them enough to deploy in high-stakes settings. The central insight — that model confidence signals are unreliable on their own — is consistent with broader findings in [[confidence-aware-ai-assessment]] and psychometrically-aware-ai, which argue that AI assessment systems must be calibrated against human judgment uncertainty, not just accuracy.
 
 The explicit modeling of aleatoric uncertainty is particularly important for [[automated-grading]]. In ASAG, some student responses are genuinely ambiguous even to expert human raters — this is not a model failure but a property of the task. By modeling this inherent ambiguity through semantic clustering, the framework prevents the system from overconfidently misclassifying responses that are fundamentally uncertain.
 
 For [[human-in-the-loop-ai]] workflows in educational assessment, the selective prediction approach provides a principled mechanism for triage: rather than requiring educators to review everything (defeating the purpose of automation) or trusting the model blindly (risking harm), the confidence framework identifies exactly which responses need human attention. This has practical implications for [[short-answer-scoring-quality-degradation]] research and the design of [[hybrid-e-assessment-semi-automated-grading]] systems.
 
-The use of [[retrieval-augmented-generation]] and [[synthetic-data]] techniques for calibration could extend this framework beyond the SciEntsBank domain, enabling confidence-aware grading across diverse subject areas and languages.
+The use of [[rag]] and synthetic-data techniques for calibration could extend this framework beyond the SciEntsBank domain, enabling confidence-aware grading across diverse subject areas and languages.
 
 ## Connected Concepts
 
@@ -36,8 +36,8 @@ The use of [[retrieval-augmented-generation]] and [[synthetic-data]] techniques 
 - [[automated-grading]]
 - [[confidence-aware-ai-assessment]]
 - [[hybrid-e-assessment-semi-automated-grading]]
-- [[psychometrically-aware-ai]]
-- [[retrieval-augmented-generation]]
+- psychometrically-aware-ai
+- [[rag]]
 
 ## Connected Articles
 

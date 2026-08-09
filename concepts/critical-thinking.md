@@ -19,7 +19,7 @@ The wiki's articles explore critical thinking through design-based and empirical
 
 ### Connections to other concepts
 
-Critical thinking intersects with [[scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering]] (formulating questions that elicit critical analysis), and [[trust-calibration]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity]] and serves as a key dimension of [[ai-literacy]] frameworks across both [[k-12]] and [[higher-ed]] contexts.
+Critical thinking intersects with [[scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering]] (formulating questions that elicit critical analysis), and [[over-reliance]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity]] and serves as a key dimension of [[ai-literacy]] frameworks across both [[k-12]] and [[higher-ed]] contexts.
 
 ## Connected Concepts
 
@@ -28,7 +28,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[socratic-method]]
-- [[trust-calibration]]
+- [[over-reliance]]
 - [[academic-integrity]]
 - [[prompt-engineering]]
 - [[higher-ed]]

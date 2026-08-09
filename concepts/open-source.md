@@ -7,22 +7,22 @@ tags: [llm, stem-education, intelligent-tutoring, educational-theory, generative
 confidence: medium
 ---
 
-> **Open-source** AI in education is studied in [[lata-ferpa-compliant-local-llm-autograder]], [[vismatic-secure-sandbox-cs-education]], and [[open-source]] (tag) pages: local open models address [[privacy]], cost, and customization but bring deployment and quality burdens ([[regulation]], [[ai-ed-implementation]]).
+> **Open-source** AI in education is studied in [[lata-ferpa-compliant-local-llm-autograder]], [[vismatic-secure-sandbox-cs-education]], and [[open-source]] (tag) pages: local open models address [[privacy]], cost, and customization but bring deployment and quality burdens ([[regulation]], [[ai-education]]).
 
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[adult-learning]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
+- [[agentic-ai]]
+- [[over-reliance]]
 - [[ai-ed-evaluation]]
-- [[ai-ed-implementation]]
+- [[ai-education]]
 - [[ai-education]]
 - [[ai-literacy]]
 - [[ai-tutoring]]

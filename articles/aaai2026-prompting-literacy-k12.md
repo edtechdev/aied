@@ -61,7 +61,7 @@ The lowest accuracy (Purpose, 0.85) stemmed from the auto-grader over-generating
 
 ## Design Implications
 
-The study demonstrates that [[prompting-literacy]] can be taught effectively to K-12 students through structured practice with automated feedback. Key design principles:
+The study demonstrates that [[prompt-engineering]] can be taught effectively to K-12 students through structured practice with automated feedback. Key design principles:
 
 1. **Scenario-based deliberate practice** with authentic AI interaction
 2. **Immediate, dimension-level feedback** powered by LLM auto-grading
@@ -75,7 +75,7 @@ The study demonstrates that [[prompting-literacy]] can be taught effectively to 
 - [[automated-grading]]
 - [[k-12]]
 - [[llm]]
-- [[prompting-literacy]]
+- [[prompt-engineering]]
 - [[student-experience]]
 
 - [[rag]]

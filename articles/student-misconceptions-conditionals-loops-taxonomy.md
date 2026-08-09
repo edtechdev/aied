@@ -29,14 +29,14 @@ For educators, the taxonomy supports more precise diagnosis of student difficult
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
+- [[agentic-ai]]
+- [[over-reliance]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-literacy]]

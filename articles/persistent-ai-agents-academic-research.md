@@ -12,7 +12,7 @@ This is the first empirical study of what happens when AI agents are embedded **
 
 ## Key Findings
 
-The workflow was overwhelmingly **cache-dominant** (82.9% cache reads), suggesting that persistent agentic environments shift the economic unit from **cost per token** to **cost per completed artifact**. With 17 configured agents, 502 memory-related files, and 57 skill files, the ecosystem resembles the [[agentic-ai-ecosystems-higher-education]] vision but at the individual-investigator scale.
+The workflow was overwhelmingly **cache-dominant** (82.9% cache reads), suggesting that persistent agentic environments shift the economic unit from **cost per token** to **cost per completed artifact**. With 17 configured agents, 502 memory-related files, and 57 skill files, the ecosystem resembles the [[agentic-ai]] vision but at the individual-investigator scale.
 
 The study also recorded 889 failure, verification, correction, or protocol-proxy events — roughly one intervention every 1.5 hours of active system time. This aligns with findings from [[ai-productivity-moderation]] research showing that AI productivity gains require active human involvement rather than passive delegation.
 
@@ -29,15 +29,15 @@ PARE-M provides six measurement dimensions that could be adapted for [[learning-
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
-- [[agentic-ai-ecosystems-higher-education]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
+- [[agentic-ai]]
+- [[agentic-ai]]
+- [[over-reliance]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-literacy]]

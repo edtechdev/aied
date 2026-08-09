@@ -58,7 +58,7 @@ This parallels concerns in [[educational-llm-alignment]] where benchmark misalig
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[metacognition]]
 
 - [[adaptive-learning]]

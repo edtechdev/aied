@@ -14,7 +14,7 @@ confidence: medium
 
 ## Key Findings
 
-- Proposes a human-in-the-loop LLM+TTS pipeline that generates Expert-Novice dialogue lessons, augmenting rather than replacing educators - see [[ai-generated-content]].
+- Proposes a human-in-the-loop LLM+TTS pipeline that generates Expert-Novice dialogue lessons, augmenting rather than replacing educators - see [[generative-ai]].
 - Three-stage workflow (LLM slide/narration generation -> educator review -> automated audiovisual integration) parallels [[scaffolding]] design.
 - Builds on cognitive apprenticeship theory to structure dialogue narration, supporting [[active-learning]].
 - A quasi-experiment with 245 first-year high school students suggests educational potential of dialogue-based lessons.

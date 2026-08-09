@@ -36,7 +36,7 @@ This paper challenges the implicit theory behind many [[faculty-development]] pr
 The finding that concerns do not moderate adoption contrasts with [[teacher-ai-adoption-confidence]], where institutional support → confidence → attitudes. This paper suggests a different mechanism: orientation shapes adoption directly, without being mediated by confidence or moderated by concerns. The [[teacher-role]] literature may need to incorporate epistemic dimensions alongside attitudinal ones.
 
 ### Institutional Change
-The weak association between institutional initiatives and AI use is a cautionary note for [[institutional-change-framework-ai]] and [[change-management]]: top-down strategic plans and degree programs may have limited impact if they don't engage with faculty pedagogical orientations. Bottom-up, colleague-driven information flow (64% cited department colleagues) suggests peer networks are more influential than central initiatives.
+The weak association between institutional initiatives and AI use is a cautionary note for [[institutional-change-framework-ai]] and change-management: top-down strategic plans and degree programs may have limited impact if they don't engage with faculty pedagogical orientations. Bottom-up, colleague-driven information flow (64% cited department colleagues) suggests peer networks are more influential than central initiatives.
 
 ### AI Literacy
 The orientation construct connects to [[ai-literacy]] at a deeper level: it's not just about knowing what AI can do, but having a coherent philosophy about what AI *should* do in one's discipline. This aligns with the distinction between instrumental and critical AI literacy.

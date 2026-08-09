@@ -18,14 +18,14 @@ Examines gender differences in AI literacy, safety awareness, and STEM career as
 - [[academic-integrity]]
 - [[active-learning]]
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[affective-tutoring]]
 - [[ai-literacy]]
 - [[assessment]]
 - [[automated-grading]]
-- [[benchmark]]
+- benchmark
 - [[edtech-platform]]
-- [[engagement-metrics]]
+- engagement-metrics
 - [[equity]]
 
 ## Connected Articles

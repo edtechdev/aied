@@ -81,7 +81,7 @@ This may mean:
 
 ## Connected Concepts
 
-- [[ai-assistance-reduces-persistence]]
+- [[over-reliance]]
 
 - [[adaptive-learning]]
 - [[ai-tutoring]]

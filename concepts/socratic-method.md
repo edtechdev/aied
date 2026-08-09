@@ -31,17 +31,17 @@ The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provid
 
 ### Connections to other concepts
 
-The Socratic method is closely tied to [[scaffolding]] (providing just enough support), [[productive-struggle]] (letting students wrestle with difficulty), and [[intelligent-tutoring]] (adaptive question sequencing). It contrasts with [[over-reliance]] — students who receive direct answers may bypass learning, while Socratic guidance maintains cognitive engagement. The approach also connects to [[trust-calibration]], as students must learn when to trust AI-generated questions versus when to question them.
+The Socratic method is closely tied to [[scaffolding]] (providing just enough support), productive-struggle (letting students wrestle with difficulty), and [[intelligent-tutoring]] (adaptive question sequencing). It contrasts with [[over-reliance]] — students who receive direct answers may bypass learning, while Socratic guidance maintains cognitive engagement. The approach also connects to [[over-reliance]], as students must learn when to trust AI-generated questions versus when to question them.
 
 ## Connected Concepts
 
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[ai-tutoring]]
-- [[productive-struggle]]
+- productive-struggle
 - [[critical-thinking]]
 - [[over-reliance]]
-- [[trust-calibration]]
+- [[over-reliance]]
 - [[learning-analytics]]
 - [[cognitive-offloading]]
 - [[feedback-loop]]

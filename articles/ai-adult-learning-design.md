@@ -31,13 +31,13 @@ A heuristic evaluation of the original deployed systems against the guidelines d
 
 ## Connections to Wiki
 - Extends [[personalized-learning]] into the adult learning domain
-- Complements [[adaptive-learning-systems]] with adult-specific design principles
+- Complements [[adaptive-learning]] with adult-specific design principles
 - Relevant to [[faculty-development]] as faculty themselves are adult learners
 - Addresses gaps in [[lifelong-learning]] technology design
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[faculty-development]]
 - [[human-in-the-loop-ai]]
 - [[lifelong-learning]]

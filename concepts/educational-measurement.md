@@ -7,7 +7,7 @@ tags: []
 confidence: medium
 ---
 
-> **Educational measurement** — psychometric theory applied to learning data — runs through the wiki's [[item-response-theory]], [[knowledge-tracing]], and [[assessment-validity]] pages: LLM-era measurement must reconcile classical psychometrics with new AI-generated response streams ([[psychometrically-aware-ai]], [[educational-nlp]]).
+> **Educational measurement** — psychometric theory applied to learning data — runs through the wiki's [[item-response-theory]], [[knowledge-tracing]], and [[assessment-validity]] pages: LLM-era measurement must reconcile classical psychometrics with new AI-generated response streams (psychometrically-aware-ai, [[educational-nlp]]).
 
 ## Connected Concepts
 

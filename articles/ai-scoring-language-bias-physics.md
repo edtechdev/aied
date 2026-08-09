@@ -34,7 +34,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 
 - **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity]] concerns as [[automated-grading]] scales.
 
-- **[[multilingual-learning]]**: The finding that multilingual learners are disproportionately affected connects directly to broader concerns about AI tools in linguistically diverse classrooms. See also [[language-learning]] and [[genai-linguistic-diversity-academic-writing]].
+- **[[language-learning]]**: The finding that multilingual learners are disproportionately affected connects directly to broader concerns about AI tools in linguistically diverse classrooms. See also [[language-learning]] and [[genai-linguistic-diversity-academic-writing]].
 
 - **[[automatic-short-answer-grading]]**: The study's comparison of ML and LLM approaches provides evidence that newer LLM-based systems are not immune to this bias — it persists across both paradigms. See related work on [[short-answer-scoring-quality-degradation]].
 
@@ -46,7 +46,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 
 1. **Benchmarking AI scoring**: AI-based scoring systems should be explicitly evaluated for language bias, not just overall agreement with human scores.
 2. **High-stakes caution**: As AI scoring moves toward higher-stakes decisions, the asymmetric language bias becomes increasingly consequential.
-3. **Multimodal assessment**: The findings support calls for assessment approaches that reduce dependence on linguistic production, particularly for [[multilingual-learning]] populations.
+3. **Multimodal assessment**: The findings support calls for assessment approaches that reduce dependence on linguistic production, particularly for [[language-learning]] populations.
 4. **Teacher-AI collaboration**: Rather than replacing teacher assessment, AI scoring may be most useful when teachers remain in the loop to calibrate for language effects.
 
 ## Connected Concepts

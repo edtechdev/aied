@@ -10,7 +10,7 @@ confidence: low
 
 ## Connected Concepts
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[ai-ed-evaluation]]
 - [[ai-literacy]]
 - [[automated-grading]]

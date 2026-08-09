@@ -14,14 +14,14 @@ Agentic AI refers to artificial intelligence systems that can autonomously plan,
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[affective-computing]]
 - [[affective-tutoring]]
-- [[agentic-ai-ecosystems-higher-education]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
+- [[agentic-ai]]
+- [[agentic-ai]]
+- [[over-reliance]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-literacy]]

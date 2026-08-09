@@ -26,7 +26,7 @@ An eLetter response argued universities cannot bridge the gap alone — commerci
 
 ## Connected Concepts
 
-- [[agentic-ai-ecosystems-higher-education]]
+- [[agentic-ai]]
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
 - [[higher-ed]]

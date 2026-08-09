@@ -23,7 +23,7 @@ PsyScore integrates diagnostic assessment with instructional scaffolding through
 - **Method:** Within-subjects study (N=19 undergraduates, post-CS1/CS2) using think-aloud, interviews, and webcam gaze tracking with a multi-representational probe.
 - **Gaze finding:** ~47% of time on code despite visual scaffolds; students without prior experience anchored more in code and ignored metaphor views.
 - **Three engagement themes:** Agency (control over cognitive effort), Representational Fit (wide individual variation), Legitimacy (metaphors seen as childish at university level).
-- **Implication:** [[multi-representational-tools]] need attention to affective and social factors, not just cognitive design.
+- **Implication:** multi-representational-tools need attention to affective and social factors, not just cognitive design.
 
 ### Paper 2: Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
 - **Problem:** Static-prompt LLM tutoring systems fail to adapt across diverse academic disciplines.
@@ -45,7 +45,7 @@ PsyScore integrates diagnostic assessment with instructional scaffolding through
 - **Scoring performance:** QWK 0.747 (besting prior SOTA 0.722); 1st in 6/8 ASAP++ prompts and 10/11 trait dimensions.
 - **Feedback quality:** ZPD-based strategy mapping (Explicit Correction for θ<-1, Scaffolding for -1<θ<1, Socratic for θ>1). Multi-agent fusion from Llama-4-Scout, Qwen3-235B, GPT-4o.
 - **Evaluation:** >90% win rate in Actionability vs GPT-4o, Llama-4-Scout, Qwen3.
-- **Implication:** [[psychometrically-aware-ai]] can unify assessment and instruction, transforming automated essay scoring from summative to formative.
+- **Implication:** psychometrically-aware-ai can unify assessment and instruction, transforming automated essay scoring from summative to formative.
 
 ## Connected Concepts
 
@@ -53,8 +53,8 @@ PsyScore integrates diagnostic assessment with instructional scaffolding through
 - [[automated-grading]]
 - [[confidence-aware-ai-assessment]]
 - [[formative-assessment]]
-- [[multi-representational-tools]]
-- [[psychometrically-aware-ai]]
+- multi-representational-tools
+- psychometrically-aware-ai
 - [[scaffolding]]
 - [[writing-education]]
 
