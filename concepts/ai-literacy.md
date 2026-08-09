@@ -38,7 +38,7 @@ Collaborative learning was effective across diverse contexts, but the mechanism 
 | Understanding how tutoring AI works | [[tutoring-specific-vs-general-ai]] — students should know whether they're interacting with a general LLM or pedagogically optimized system |
 | Evaluating AI feedback quality | [[ai-peer-feedback-systems]], [[formative-assessment]] — literacy to assess whether AI-generated feedback is useful |
 | Prompt engineering as constructive activity | [[pedagogical-llm-training]] — reverse-engineering effective tutoring behavior |
-| AI ethics and policy co-construction | [[faculty-development-genai]], [[authentic-assessment]] — institutional literacy for governance |
+| AI ethics and policy co-construction | [[faculty-development]], [[authentic-assessment]] — institutional literacy for governance |
 
 ## Multimodal AI Literacy Levels (Varga-Atkins et al., 2025)
 

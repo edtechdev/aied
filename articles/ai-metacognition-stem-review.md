@@ -70,7 +70,7 @@ Despite benefits, scholars warn of:
 - **Deep reinforcement learning** enhances metacognitive outcomes (vs. static adaptive rules)
 - Aligns with: system-level regulation > individual reflection
 
-### vs. [[intelligent-tutoring-systems|Intelligent Tutoring Systems]]
+### vs. [[intelligent-tutoring|Intelligent Tutoring Systems]]
 - ITS identified as **key scaffolding tool** for metacognitive development
 - Combines **content mastery** (object level) with **reflective monitoring** (meta level)
 - Consistent with: [[tutoring-specific-vs-general-ai]] — domain-specific tutoring outperforms generic chatbots

@@ -7,7 +7,7 @@ tags: [question-generation, llm, stem-education, hallucination-reduction, agenti
 confidence: medium
 ---
 
-> **Automated assessment** — machine scoring and feedback at scale — is covered by [[automated-grading]], [[aiawe-automated-writing-evaluation]], [[psyscore-essay-scoring-zpd-feedback]], and [[cotal-formative-assessment-scoring-2026]]: LLM-based scoring generalizes across domains when prompt-engineered with [[human-in-the-loop]] refinement and [[assessment-validity]] alignment.
+> **Automated assessment** — machine scoring and feedback at scale — is covered by [[automated-grading]], [[aiawe-automated-writing-evaluation]], [[psyscore-essay-scoring-zpd-feedback]], and [[cotal-formative-assessment-scoring-2026]]: LLM-based scoring generalizes across domains when prompt-engineered with [[human-in-the-loop-ai]] refinement and [[assessment-validity]] alignment.
 
 ## Connected Concepts
 

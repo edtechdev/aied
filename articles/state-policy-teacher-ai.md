@@ -34,7 +34,7 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[regulation]]
 - [[teacher-role]]
 

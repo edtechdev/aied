@@ -91,7 +91,7 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 - [[adaptive-learning-systems]]
 - [[cognitive-load-theory]]
 - [[desirable-difficulties]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[metacognition]]

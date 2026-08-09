@@ -7,7 +7,7 @@ tags: [agentic-ai, llm, higher-ed, generative-ai, intelligent-tutoring, scaffold
 confidence: medium
 ---
 
-> **Agentic workflows** — AI systems that plan and execute multi-step tasks — are evaluated educationally in [[tool-invariant-framework-agentic-ai]], [[persistent-ai-agents-academic-research]], and [[agentic-ai-education-scoping-review]], with the central question being whether agent initiative supports or displaces learner agency ([[agentic-ai]], [[human-in-the-loop]]).
+> **Agentic workflows** — AI systems that plan and execute multi-step tasks — are evaluated educationally in [[tool-invariant-framework-agentic-ai]], [[persistent-ai-agents-academic-research]], and [[agentic-ai-education-scoping-review]], with the central question being whether agent initiative supports or displaces learner agency ([[agentic-ai]], [[human-in-the-loop-ai]]).
 
 ## Connected Concepts
 

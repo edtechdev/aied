@@ -30,7 +30,7 @@ Current technology-adoption models ([[scaffolding]]-like frameworks such as DoI 
 ## Connections to Wiki
 
 ### Faculty Development
-This paper challenges the implicit theory behind many [[faculty-development-genai]] programs: providing tools, workshops, and institutional support may be insufficient if faculty have not developed a coherent pedagogical orientation toward AI. The Cottrell community is already pedagogically motivated — yet 22% used no AI at all. Faculty development must help instructors articulate *what AI means for their discipline*, not just *how to use it*.
+This paper challenges the implicit theory behind many [[faculty-development]] programs: providing tools, workshops, and institutional support may be insufficient if faculty have not developed a coherent pedagogical orientation toward AI. The Cottrell community is already pedagogically motivated — yet 22% used no AI at all. Faculty development must help instructors articulate *what AI means for their discipline*, not just *how to use it*.
 
 ### Teacher Adoption
 The finding that concerns do not moderate adoption contrasts with [[teacher-ai-adoption-confidence]], where institutional support → confidence → attitudes. This paper suggests a different mechanism: orientation shapes adoption directly, without being mediated by confidence or moderated by concerns. The [[teacher-role]] literature may need to incorporate epistemic dimensions alongside attitudinal ones.
@@ -65,7 +65,7 @@ These are not resolvable by more information or better tools — they require di
 - [[ai-literacy]]
 - [[bridging-instructional-design-framework-math]]
 - [[dot-framework-survey]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[higher-ed]]
 - [[scaffolding]]
 - [[teacher-ai-competency]]

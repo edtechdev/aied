@@ -34,7 +34,7 @@ Second, the success of [[open-source]] 32B models over proprietary giants has pr
 
 Third, the hard-negative mining methodology offers a template for [[pedagogical-llm-training]] more broadly — rather than training on all data indiscriminately, identifying and targeting specific failure modes of the base model creates more efficient optimization pathways.
 
-Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about harm prevention but about proactive pedagogical quality: a model that resists the urge to give answers and instead guides, questions, and scaffolds represents a meaningful step toward [[intelligent-tutoring-systems]] that genuinely teach rather than simply inform.
+Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about harm prevention but about proactive pedagogical quality: a model that resists the urge to give answers and instead guides, questions, and scaffolds represents a meaningful step toward [[intelligent-tutoring]] that genuinely teach rather than simply inform.
 
 ## Connected Concepts
 

@@ -20,7 +20,7 @@ Binkowski & Hopkins (2026) argue that rather than replacing universities, AI **r
 
 The paper positions AI not as a threat to universities' existence but as a **catalyst for reimagining** what universities do. This connects to broader discussions in [[ai-higher-ed-bridge-gap]] about the three-pillar AI literacy framework needed for higher education, and complements the [[ai-higher-ed-workforce-survey]] finding that 94% of staff already use AI for work.
 
-The institutional-level perspective aligns with work on [[faculty-development-genai]] — centers for teaching and learning navigating GenAI adoption. Unlike student-facing studies of [[student-experience]], this paper focuses on the **institutional response** required from leadership, administration, and policy structures.
+The institutional-level perspective aligns with work on [[faculty-development]] — centers for teaching and learning navigating GenAI adoption. Unlike student-facing studies of [[student-experience]], this paper focuses on the **institutional response** required from leadership, administration, and policy structures.
 
 The rethinking extends to [[assessment-validity]] concerns — if AI can produce university-level work, what does assessment mean? This echoes the [[authentic-assessment]] framework's call for assessments that center student agency and evaluative judgement.
 
@@ -40,7 +40,7 @@ The rethinking extends to [[assessment-validity]] concerns — if AI can produce
 ## Connected Concepts
 
 - [[assessment-validity]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[regulation]]
 - [[student-experience]]
 - [[teacher-ai-competency]]

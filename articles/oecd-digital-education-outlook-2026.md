@@ -23,7 +23,7 @@ Hybrid systems that combine GenAI with explicit pedagogical models show more pro
 - **JeepyTA**: AI teaching assistant in university contexts rated comparable to human TAs in clarity and accuracy
 - **Tutor Copilot**: Mobilises less-qualified tutors effectively through AI support
 
-The report draws a sharp line: GenAI tools "designed or used with an intentional pedagogical purpose" produce sustained learning improvements; tools used as answer-dispensing shortcuts do not. See [[ai-tutoring]], [[intelligent-tutoring-systems]], [[codify-socratic-tutoring-programming]].
+The report draws a sharp line: GenAI tools "designed or used with an intentional pedagogical purpose" produce sustained learning improvements; tools used as answer-dispensing shortcuts do not. See [[ai-tutoring]], [[intelligent-tutoring]], [[codify-socratic-tutoring-programming]].
 
 ## Tutoring: The 9-Percentage-Point Effect
 

@@ -133,7 +133,7 @@ This review is a **keystone synthesis** connecting multiple threads in the AI ed
 - **[[human-in-the-loop-ai]]** provides implementation architectures for the scaffolding strategies recommended
 - **[[ai-learning-companions-framework]]** offers design paradigms aligned with "dialogic partner" and "boundary object" concepts
 - **[[feedback-loop]]** operationalizes the multi-source feedback recommendation
-- **[[faculty-development-genai]]** is essential — educators need training to implement these scaffolds
+- **[[faculty-development]]** is essential — educators need training to implement these scaffolds
 - **[[student-experience]]** captures the learner perspective on usage patterns
 - **[[higher-ed]]** and [[universities-ai-era-rethinking]] provide the institutional context
 - **[[institutional-change-framework-ai]]** frames how activity systems must adapt
@@ -144,7 +144,7 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 
 - [[ai-literacy-assessment-misalignment]]
 - [[dot-framework-survey]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[metacognition]]

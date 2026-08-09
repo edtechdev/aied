@@ -7,7 +7,7 @@ tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-
 confidence: high
 ---
 
-> **MathCog** benchmark (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], [[benchmark]]).
+> **MathCog** benchmark (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], [[benchmark]]).
 
 # Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten Math
 
@@ -42,7 +42,7 @@ All models perform worse when student evidence is Vague (implicit, incomplete, o
 Current LLMs lack the ability to calibrate confidence based on evidential quality. Educational AI systems need explicit mechanisms to **detect when evidence is insufficient** and communicate uncertainty rather than fabricate confident diagnoses. This connects to broader challenges in [[ground-truth-reliability-aied]] and [[hallucination-risk]].
 
 ### Teacher-in-the-Loop Architecture
-The authors advocate for [[human-in-the-loop]] systems where LLM predictions support rather than replace teacher judgment. This aligns with [[teacher-role]] research on AI augmentation vs. automation, and with findings from [[over-reliance]] studies showing that uncalibrated AI outputs can degrade human diagnostic accuracy.
+The authors advocate for [[human-in-the-loop-ai]] systems where LLM predictions support rather than replace teacher judgment. This aligns with [[teacher-role]] research on AI augmentation vs. automation, and with findings from [[over-reliance]] studies showing that uncalibrated AI outputs can degrade human diagnostic accuracy.
 
 ### Benchmarking Beyond Accuracy
 MathCog demonstrates that standard accuracy metrics obscure critical failure modes in educational AI. The evidential calibration metrics (OverAttr, FalseAttr) introduced here complement evaluation approaches in [[benchmark]] design and [[ai-ed-evaluation]]. The dataset's Evident/Vague distinction parallels concerns in [[cognitive-offloading]] about when learners (and AI systems) should recognize the limits of available information.

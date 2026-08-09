@@ -20,7 +20,7 @@ confidence: medium
 - [[design-guidelines]]
 - [[educational-technology]]
 - [[ethics]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[formative-assessment]]
 
 ## Connected Articles
