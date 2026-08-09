@@ -3,53 +3,70 @@ title: Llm
 created: 2026-05-21
 updated: 2026-05-21
 type: concept
-tags: [llm]
-sources: []
-confidence: low
+tags: [llm, higher-ed, generative-ai, intelligent-tutoring, student-experience, scaffolding, k-12, personalized-learning, formative-assessment, feedback-loop]
+confidence: medium
 ---
+
 > **LLMs** (large language models) are the wiki's dominant technology: from [[llm-detecting-llm-generated-content-education]] and [[llm-feedback-programming-classroom]] to [[llm-student-simulation-misconception-faithfulness]] and [[special-r1-rl-special-education]], the corpus tracks LLMs as tutors, graders, simulators, and content generators — with capability consistently outpacing pedagogical validation ([[generative-ai]], [[ai-ed-evaluation]]).
 
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-grading]]
 
+## Connected Concepts
 
-# Llm
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-grading]]
 
+## Connected Articles
 
-## Related Pages
--- [[llm-student-simulation-teacher-insights]]
- [[supplynet-visual-exploratory-learning]] — Contextual graph-based LLM multi-agent framework for educational simulation
-- [[kt4eqg-personalized-question-generation]] — 7 of 8 papers in May 28 scan
-- [[rubric-aware-grading-rec-cbm]] — 2 of 8 papers in May 28 scan
-- [[socially-fluent-ai-identity-detection]] — Socially fluent LLMs decouple conversational signals from source identity
-- [[mindcopilot-llm-co-writing]] — Interaction-aware evaluation framework for LLM co-writing (IJCAI 2026)
-- [[concept-catalyst-engineering-scaffolds]]
-- [[anvil-ai-educational-animations]]
-- [[llm-reasoning-traces-metacognition]] — Reasoning traces and metacognitive calibration with LLMs
-- [[codify-socratic-programming-tutor]] — LLM-powered Socratic tutoring for programming education
-- [[aiawe-automated-writing-evaluation]] — LoRA-adapted instruction-tuned LLMs outperforming proprietary models on rubric-aligned scoring
-- [[cross-dataset-bloom-question-classification]] -- LLMs with tailored prompting generalize better than supervised models for cross-dataset Bloom taxonomy classification
-- [[llm-chatbots-cs-multiple-choice]] -- ChatGPT answers with explanations do not improve student MCQ performance; GPT-4o/5 outperform smaller models
-- [[courseblueprint-adaptive-video-generation]] -- Explicit typed instructional contracts (scaffolding, adaptive controller, engagement contract, slide override) drastically improve pedagogical video quality over fluent but PCK-absent text-to-video.
-- [[ai-interlocutor-l2-spoken-dialogue]] -- AI dialogue in L2 practice resembles 'supported monologue' with fewer turns but greater short-term linguistic uptake; human dialogue is faster and more balanced.
-- [[curiobot-llm-tutoring-exploratory-learning]] -- Curiosity-oriented LLM interventions (novelty, complexity, conflict, uncertainty) increased exploratory learner behaviors up to 2.4x — acting as a partially independent interaction-level mechanism.
-- [[prompt-based-programming-lesson]] — prompt-based programming teaching intervention
-- [[ai-in-the-wild-college]] — large-scale analysis of student-GenAI interactions
-- [[llm-diverse-explanations-programming]] — diverse LLM explanations in programming education
-- [[empathy-coaching-chatbot]] — empathy effects in coaching chatbots
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathem
-- [[bloom-aligned-educational-control-llms]] — Introduces a Bloom-aligned framework for measuring 'educational control' in LLMs: the abil…
-- [[ai-learning-assistants-higher-ed-large-scale]] — Presents a large-scale descriptive analysis of an AI learning assistant (Syntea) using obj…
-- [[paternalistic-filter-llm-history-education]] — LLM history tutors audited (2026-07-14)
-- [[commenting-copilot-student-code-specs]] — LLM code-generation tools (2026-07-14)
-- [[knowledge-distillation-ai-tutor-evaluation]] — LLM-based assessment (2026-07-14)
-- [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
-- [[book-level-synthetic-textbook-organization]]
-- [[iks-instruct-dataset-indian-knowledge]]
-- [[mooc-to-maic]]
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — related concept
-- [[calibrating-trustworthiness-llm-education-2026]] — related concept
-- [[chat-debugging-llm-hardware-education-2026]] — related
-- [[aaai2026-prompting-literacy-k12]]
-- [[instructional-agents-multi-agent-course-gen]]
-- [[llm-turing-test-italian-legal-exams-2026]] — blind Turing test on Italian legal professional exams
-- [[interactive-learning-dashboards-engagement]] — LLM-powered pedagogical agent enables interactive engagement with learning analytics data
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer

@@ -3,18 +3,21 @@ title: Ai Literacy In Higher Education
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
-tags: [stub]
-sources: []
-confidence: low
+tags: []
+confidence: medium
 ---
+
 > **AI literacy in higher education** — the competencies students and staff need to use AI critically — is mapped by [[ai-literacy-continuum-higher-education]], [[five-stage-ai-literacy-continuum]] (merged), [[constructing-epistemic-ai-literacy-student-ai-co-programming]], and [[ai-literacy-assessment-misalignment]], which show literacy must be assessed through task-based performance, not self-report ([[assessment-validity]]).
 
+- [[ai-literacy-assessment-misalignment]]
 
+## Connected Concepts
 
-# Ai Literacy In Higher Education
+- [[ai-literacy-assessment-misalignment]]
 
+## Connected Articles
 
-## Related Pages
-- [[dot-framework-survey]]
-- [[gender-differences-ai-literacy-deepfake]] -- Single-day AI literacy workshops partially narrow gender STEM gaps; males need targeted deepfake safety education
-- [[rail-ed-genai-literacy-teacher-education]] — RAIL-Ed: an integrative, developmental framework for GenAI literacy in K-12 teacher education
+- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
+- [[rail-ed-genai-literacy-teacher-education]] — Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education
+- [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement
