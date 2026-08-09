@@ -4,66 +4,107 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <BaseLayout title="Search">
   <h1>🔍 Search</h1>
-  <div class="search-bar">
-    <input type="text" id="search-input" placeholder="Search by title, tag, or content..." autocomplete="off" />
-  </div>
-  <div id="search-results">
-    <p style="color:var(--muted-color)">Loading search index...</p>
+  <p style="color:var(--muted-color);margin-bottom:1.5rem;">
+    Search across articles and concepts. Use the <strong>Type</strong> filter to narrow results.
+  </p>
+
+  <div class="search-interface">
+    <pagefind-config></pagefind-config>
+    <div class="search-controls">
+      <pagefind-input placeholder="Search articles and concepts..."></pagefind-input>
+      <pagefind-filter-dropdown filter="page_type" label="Type" sort="alphabetical"></pagefind-filter-dropdown>
+    </div>
+    <pagefind-summary></pagefind-summary>
+    <pagefind-results show-excerpt></pagefind-results>
   </div>
 </BaseLayout>
 
-<script>
-  let pages: any[] = [];
-  let ready = false;
-  
-  fetch('/aied/search-index.json')
-    .then(r => r.json())
-    .then(data => { 
-      pages = data;
-      ready = true;
-      document.getElementById('search-results')!.innerHTML = 
-        '<p style="color:var(--muted-color)">Type to search across ' + pages.length + ' articles...</p>';
-      // Process any pending query from URL
-      const params = new URLSearchParams(window.location.search);
-      const q = params.get('q');
-      if (q) {
-        (document.getElementById('search-input') as HTMLInputElement).value = q;
-        doSearch(q);
-      }
-    })
-    .catch(() => {
-      document.getElementById('search-results')!.innerHTML = 
-        '<p style="color:red">Failed to load search index. Please try again.</p>';
-    });
+<link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
 
-  function doSearch(q: string) {
-    if (!ready || !q) return;
-    const results = document.getElementById('search-results')!;
-    const matches = pages.filter((p: any) => {
-      const text = `${p.title} ${p.tags?.join(' ')} ${p.body || ''}`.toLowerCase();
-      return text.includes(q.toLowerCase());
-    }).slice(0, 30);
-
-    if (matches.length === 0) {
-      results.innerHTML = '<p>No results found for "<strong>' + q + '</strong>". Try a different search term.</p>';
-      return;
-    }
-
-    results.innerHTML = '<p style="color:var(--muted-color)">' + matches.length + ' result' + (matches.length !== 1 ? 's' : '') + ' for "<strong>' + q + '</strong>"</p>' +
-      matches.map((p: any) => `
-      <div class="page-item">
-        <a href="/aied/pages/${p.slug}" style="font-weight:500;">${p.title}</a>
-        <div style="font-size:0.8rem;color:var(--muted-color);">
-          ${p.created || ''} · ${(p.tags || []).slice(0, 5).map((t: string) => 
-            `<a href="/aied/tags/${t}" class="tag-chip" style="font-size:0.68rem;padding:0.03rem 0.35rem;">${t}</a>`
-          ).join('')}
-        </div>
-      </div>
-    `).join('');
+<style>
+  .search-interface {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .search-controls {
+    display: flex;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  .search-controls pagefind-input {
+    flex: 1;
+    min-width: 250px;
+  }
+  .search-controls pagefind-filter-dropdown {
+    flex-shrink: 0;
   }
 
-  document.getElementById('search-input')!.addEventListener('input', (e) => {
-    const q = (e.target as HTMLInputElement).value.trim();
-    doSearch(q);
-  });
+  /* Style Pagefind component UI */
+  pagefind-input::part(input) {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1.05rem;
+    border: 2px solid var(--card-border-color);
+    border-radius: 6px;
+    background: var(--card-background-color);
+  }
+  pagefind-input::part(input):focus {
+    border-color: var(--primary);
+    outline: none;
+  }
+
+  pagefind-filter-dropdown::part(trigger) {
+    padding: 0.75rem 1rem;
+    font-size: 0.95rem;
+    border: 2px solid var(--card-border-color);
+    border-radius: 6px;
+    background: var(--card-background-color);
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  pagefind-filter-dropdown::part(trigger):hover {
+    border-color: var(--primary);
+  }
+  pagefind-filter-dropdown::part(trigger):focus {
+    border-color: var(--primary);
+    outline: none;
+  }
+
+  pagefind-summary::part(summary) {
+    margin-bottom: 0.75rem;
+    font-size: 0.9rem;
+    color: var(--muted-color);
+  }
+
+  pagefind-results::part(result) {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--card-border-color);
+  }
+  pagefind-results::part(result-title) {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--primary);
+    text-decoration: none;
+  }
+  pagefind-results::part(result-title):hover {
+    text-decoration: underline;
+  }
+  pagefind-results::part(result-excerpt) {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: var(--muted-color);
+    margin-top: 0.25rem;
+  }
+  pagefind-results::part(result-filters) {
+    margin-top: 0.5rem;
+    display: flex;
+    gap: 0.3rem;
+    flex-wrap: wrap;
+  }
+</style>
+
+<script is:inline>
+  import("/aied/pagefind/pagefind-component-ui.js");
 </script>

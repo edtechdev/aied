@@ -1,0 +1,137 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map(a => ({ params: { slug: a.id.replace('.md', '') } }));
+}
+
+const { slug } = Astro.params;
+const articles = await getCollection('articles');
+const article = articles.find(a => a.id.replace('.md', '') === slug);
+if (!article) return Astro.redirect('/aied/');
+
+const { title, tags, confidence, created, sources } = article.data;
+const body = article.body || '';
+
+function renderMarkdown(text: string, pageTitle: string): string {
+  let html = '';
+  let inBlockquote = false;
+  let inList = false;
+
+  for (const line of text.split('\n')) {
+    const trimmed = line.trim();
+
+    if (trimmed.startsWith('> ')) {
+      if (!inBlockquote) { html += '<blockquote class="blockquote">'; inBlockquote = true; }
+      html += `<p>${renderInline(trimmed.slice(2))}</p>`;
+      continue;
+    }
+    if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
+
+    if (trimmed.startsWith('# ') && trimmed.slice(2).trim() === pageTitle) continue;
+
+    if (trimmed.startsWith('### ')) { html += `<h3>${renderInline(trimmed.slice(4))}</h3>`; continue; }
+    if (trimmed.startsWith('## ')) { html += `<h2>${renderInline(trimmed.slice(3))}</h2>`; continue; }
+    if (trimmed.startsWith('# ')) { html += `<h1>${renderInline(trimmed.slice(2))}</h1>`; continue; }
+
+    if (trimmed.startsWith('|') && trimmed.endsWith('|')) {
+      const cells = trimmed.split('|').slice(1, -1).map(c => c.trim());
+      if (cells.every(c => /^-{3,}$/.test(c) || c.startsWith('---'))) continue;
+      html += '<tr>' + cells.map(c => `<td>${renderInline(c)}</td>`).join('') + '</tr>';
+      if (!inList) { html = html.replace(/\/tr>$/, ''); html += '<tr>'; inList = true; }
+      continue;
+    }
+
+    if (/^[-*]\s/.test(trimmed)) {
+      if (!inList) { html += '<ul>'; }
+      html += `<li>${renderInline(trimmed.slice(2))}</li>`;
+      inList = true;
+      continue;
+    }
+    if (inList) { html += '</ul>'; inList = false; }
+
+    if (/^[-*]{3,}$/.test(trimmed)) { html += '<hr>'; continue; }
+    if (!trimmed) { if (!inBlockquote && !inList) html += ''; continue; }
+
+    html += `<p>${renderInline(trimmed)}</p>`;
+  }
+
+  if (inBlockquote) html += '</blockquote>';
+  if (inList) html += '</ul>';
+  return html;
+}
+
+function renderInline(text: string): string {
+  return text
+    .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, p, l) => {
+      const page = p.replace('.md', '').trim();
+      const label = l || page.replace(/-/g, ' ');
+      return `<a href="/aied/pages/${page}">${label}</a>`;
+    })
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(/`([^`]+)`/g, '<code>$1</code>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+    .replace(/doi:(\S+)/g, '<a href="https://doi.org/$1">doi:$1</a>');
+}
+
+const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○';
+
+// Find related articles (sharing tags)
+const allArticles = await getCollection('articles');
+const relatedArticles = allArticles
+  .filter(a => a.id.replace('.md', '') !== slug)
+  .filter(a => (a.data.tags || []).some(t => (tags || []).includes(t)))
+  .sort((a, b) => b.data.created.localeCompare(a.data.created))
+  .slice(0, 8);
+---
+
+<BaseLayout title={title}>
+  <article data-pagefind-filter="page_type:article">
+    <div class="page-header">
+      <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">📄 Research Article</p>
+      <h1>{title}</h1>
+      <div style="color:var(--muted-color);font-size:0.9rem">
+        {confIcon} {confidence} · {created}
+        {(tags || []).map((tag: string) => (
+          <a href={`/aied/tags/${tag}`} class="tag-chip">{tag}</a>
+        ))}
+      </div>
+    </div>
+
+    <div style="line-height:1.8" data-pagefind-body>
+      <Fragment set:html={renderMarkdown(body, title)} />
+    </div>
+
+    {(sources || []).length > 0 && (
+      <div class="citation">
+        <h3>📎 Source{ sources.length > 1 ? 's' : '' }</h3>
+        <ul>
+          {sources.map((s: string) => (
+            <li><code>{s}</code></li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    {relatedArticles.length > 0 && (
+      <section style="margin-top:2rem;padding:1rem;background:var(--card-background-color);border-radius:8px;">
+        <h2>📄 Related Articles</h2>
+        {relatedArticles.map(a => (
+          <div class="page-item">
+            <a href={`/aied/articles/${a.id.replace('.md', '')}`} style="font-weight:500;">
+              {a.data.title}
+            </a>
+            <div style="font-size:0.75rem;color:var(--muted-color);">
+              {a.data.created} · {(a.data.tags || []).slice(0, 4).map((t: string) => (
+                <a href={`/aied/tags/${t}`} class="tag-chip" style="font-size:0.65rem;padding:0.02rem 0.3rem;">{t}</a>
+              ))}
+            </div>
+          </div>
+        ))}
+      </section>
+    )}
+  </article>
+</BaseLayout>

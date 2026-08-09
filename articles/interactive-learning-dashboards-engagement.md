@@ -1,0 +1,55 @@
+---
+title: "Interactive learning dashboards: rethinking learning visualisations as engagement tools"
+created: 2026-08-08
+updated: 2026-08-08
+type: article
+tags: [learning-analytics, metacognition, llm, higher-ed, engagement-metrics, self-regulated-learning, intelligent-tutoring, pedagogical-agent, cs-education]
+sources: [raw/papers/interactive-learning-dashboards-engagement.md]
+confidence: high
+---
+
+> **Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an LLM-powered pedagogical agent and a Judgement of Learning (JoL) self-assessment feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more reflection and more accurate mastery calibration. The study bridges [[learning-analytics]] dashboard design with [[intelligent-tutoring]] principles and [[metacognition]] research, showing that how learners interact with their data matters more than simply seeing it.
+
+# Interactive learning dashboards: rethinking learning visualisations as engagement tools
+
+## Study Design
+
+- **30 CS students** in a university programming course, paid to regularly use the ILAD over **5 weeks**
+- **3 conditions** randomized: no agent, "tell" agent (provides info about learner data), "elicit" agent (asks questions about learner data)
+- ILAD extended a conventional LAD with two features:
+  1. **LLM-powered pedagogical agent** with access to learning analytics and course context
+  2. **Interactive Judgement of Learning (JoL)** — self-assessment required before viewing system metrics
+
+## Key Findings
+
+- Students in the **elicit condition** engaged in more reflection
+- Elicit-condition students more **accurately judged their own mastery** (better JoL calibration)
+- The "tell" agent (providing information) did not produce the same benefits — highlighting that pedagogical strategy matters, not just AI presence
+- The study demonstrates how interactivity can shift LADs from static visualizations to engagement tools that promote [[metacognition|metacognitive]] processes
+
+## Design Implications
+
+The paper challenges the dominant LAD paradigm of "show data → hope for insight." Drawing on [[intelligent-tutoring]] research (Chi's ICAP framework), the authors argue that:
+
+1. **Interactivity ≠ navigation** — clicking filters is not cognitive engagement; two-way dialogue is
+2. **Elicitation beats telling** — asking learners to self-assess before revealing metrics drives calibration better than showing data upfront
+3. **LLMs enable scalable interactivity** — the pedagogical agent can ask personalized questions at scale, bringing ITS-style dialogue to dashboard contexts
+
+These findings connect to broader [[self-regulated-learning]] theory and the [[metacognition]] literature on judgement calibration.
+
+## Citation
+
+Graf, L., Bassner, P., Anzinger, M., Dietrich, F., Krusche, S., & Poquet, O. (2026). [Interactive learning dashboards: rethinking learning visualisations as engagement tools](https://doi.org/10.1007/s10639-026-14082-1). *Education and Information Technologies*.
+
+## Related Pages
+
+- [[learning-analytics]] — Dashboard design and effectiveness
+- [[metacognition]] — Judgement of Learning and calibration
+- [[intelligent-tutoring]] — Pedagogical agent design principles
+- [[self-regulated-learning]] — Learner awareness and strategic behavior
+- [[engagement-metrics]] — Measuring engagement with learning tools
+- [[cs-education]] — Programming course context
+- [[higher-ed]] — University setting
+- [[pedagogical-agent]] — Agent interaction design
+- [[llm]] — LLM-powered educational tools
+- [[feedback-loop]] — Feedback timing and format

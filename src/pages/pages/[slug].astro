@@ -1,161 +1,31 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
+  const articles = await getCollection('articles');
   const concepts = await getCollection('concepts');
-  return concepts
-    .filter(c => c.data.type === 'concept')
-    .map(c => ({ params: { slug: c.id.replace('.md', '') } }));
+  // Collect all valid slugs
+  const slugs = new Set<string>();
+  articles.forEach(a => slugs.add(a.id.replace('.md', '')));
+  concepts.forEach(c => slugs.add(c.id.replace('.md', '')));
+  return [...slugs].map(slug => ({ params: { slug } }));
 }
 
 const { slug } = Astro.params;
+const articles = await getCollection('articles');
 const concepts = await getCollection('concepts');
-const concept = concepts.find(c => c.id.replace('.md', '') === slug);
-if (!concept) return Astro.redirect('/aied/');
 
-const { title, tags, confidence, created } = concept.data;
-const body = concept.body || '';
+// Check which collection this slug belongs to
+const isArticle = articles.some(a => a.id.replace('.md', '') === slug);
+const isConcept = concepts.some(c => c.id.replace('.md', '') === slug);
 
-// Collect all unique tags from the body's wikilinks for related concepts
-const bodyWikilinks = [...(body.match(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g) || [])]
-  .map(m => m.replace(/\[\[|\]\]/g, '').replace(/\|.*$/, '').replace('.md', '').trim())
-  .filter(Boolean);
-const relatedSlugs = [...new Set(bodyWikilinks)];
-
-function renderMarkdown(text: string, pageTitle: string): string {
-  let html = '';
-  let inBlockquote = false;
-  let inList = false;
-  
-  for (const line of text.split('\n')) {
-    const trimmed = line.trim();
-    
-    if (trimmed.startsWith('> ')) {
-      if (!inBlockquote) { html += '<blockquote class="blockquote">'; inBlockquote = true; }
-      html += `<p>${renderInline(trimmed.slice(2))}</p>`;
-      continue;
-    }
-    if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
-    
-    if (trimmed.startsWith('# ') && trimmed.slice(2).trim() === pageTitle) continue;
-    
-    if (trimmed.startsWith('### ')) { html += `<h3>${renderInline(trimmed.slice(4))}</h3>`; continue; }
-    if (trimmed.startsWith('## ')) { html += `<h2>${renderInline(trimmed.slice(3))}</h2>`; continue; }
-    if (trimmed.startsWith('# ')) { html += `<h1>${renderInline(trimmed.slice(2))}</h1>`; continue; }
-    
-    if (trimmed.startsWith('|') && trimmed.endsWith('|')) {
-      const cells = trimmed.split('|').slice(1, -1).map(c => c.trim());
-      if (cells.every(c => /^-{3,}$/.test(c) || c.startsWith('---'))) continue;
-      html += '<tr>' + cells.map(c => `<td>${renderInline(c)}</td>`).join('') + '</tr>';
-      if (!inList) { html = html.replace(/\/tr>$/, ''); html += '<tr>'; inList = true; }
-      continue;
-    }
-    
-    if (/^[-*]\s/.test(trimmed)) {
-      if (!inList) { html += '<ul>'; }
-      html += `<li>${renderInline(trimmed.slice(2))}</li>`;
-      inList = true;
-      continue;
-    }
-    if (inList) { html += '</ul>'; inList = false; }
-    
-    if (/^[-*]{3,}$/.test(trimmed)) { html += '<hr>'; continue; }
-    if (!trimmed) { if (!inBlockquote && !inList) html += ''; continue; }
-    
-    html += `<p>${renderInline(trimmed)}</p>`;
-  }
-  
-  if (inBlockquote) html += '</blockquote>';
-  if (inList) html += '</ul>';
-  return html;
+if (isArticle) {
+  return Astro.redirect(`/aied/articles/${slug}`, 301);
 }
-
-function renderInline(text: string): string {
-  return text
-    .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, p, l) => {
-      const page = p.replace('.md', '').trim();
-      const label = l || page.replace(/-/g, ' ');
-      return `<a href="/aied/pages/${page}">${label}</a>`;
-    })
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    .replace(/\*(.+?)\*/g, '<em>$1</em>')
-    .replace(/`([^`]+)`/g, '<code>$1</code>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
-    .replace(/doi:(\S+)/g, '<a href="https://doi.org/$1">doi:$1</a>');
+if (isConcept) {
+  return Astro.redirect(`/aied/concepts/${slug}`, 301);
 }
-
-const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○';
-
-// Find articles tagged with this concept's slug (for concept hub pages)
-const conceptTag = slug.replace(/-/g, ' ');
-const taggedArticles = concepts
-  .filter(c => c.id.replace('.md', '') !== slug)
-  .filter(c => (c.data.tags || []).some((t: string) => t === slug || t === conceptTag))
-  .sort((a, b) => b.data.created.localeCompare(a.data.created))
-  .slice(0, 50);
-
-// Find related concept pages (those referenced via wikilinks in the body)
-const relatedConcepts = concepts
-  .filter(c => c.id.replace('.md', '') !== slug)
-  .filter(c => relatedSlugs.includes(c.id.replace('.md', '')))
-  .slice(0, 20);
+return Astro.redirect('/aied/', 301);
 ---
 
-<BaseLayout title={title}>
-  <article>
-    <div class="page-header">
-      <h1>{title}</h1>
-      <div style="color:var(--muted-color);font-size:0.9rem">
-        {confIcon} {confidence} · {created}
-        {(tags || []).map((tag: string) => (
-          <a href={`/aied/tags/${tag}`} class="tag-chip">{tag}</a>
-        ))}
-      </div>
-    </div>
-
-    <div style="line-height:1.8">
-      <Fragment set:html={renderMarkdown(body, title)} />
-    </div>
-
-    {taggedArticles.length > 0 && (
-      <section style="margin-top:3rem;padding-top:1.5rem;border-top:2px solid var(--primary);">
-        <h2>📄 Articles Tagged with {title}</h2>
-        <p style="color:var(--muted-color)">{taggedArticles.length} article{taggedArticles.length !== 1 ? 's' : ''}</p>
-        {taggedArticles.map(c => {
-          const excerpt = (c.body || '').split('\n').filter(l => l.startsWith('>')).join(' ').slice(0, 200);
-          return (
-            <div class="page-item" style="padding:0.5rem 0;">
-              <a href={`/aied/pages/${c.id.replace('.md', '')}`} style="font-weight:500;">
-                {c.data.title}
-              </a>
-              {excerpt && <div style="font-size:0.8rem;color:var(--muted-color);margin-top:0.15rem;">{excerpt}…</div>}
-              <div style="font-size:0.75rem;color:var(--muted-color);">
-                {c.data.created} · {(c.data.tags || []).filter((t: string) => t !== slug).slice(0, 4).map((t: string) => (
-                  <a href={`/aied/tags/${t}`} class="tag-chip" style="font-size:0.65rem;padding:0.02rem 0.3rem;">{t}</a>
-                ))}
-              </div>
-            </div>
-          );
-        })}
-        {taggedArticles.length === 50 && <p style="color:var(--muted-color)"><em>Showing 50 of more articles.</em></p>}
-      </section>
-    )}
-
-    {relatedConcepts.length > 0 && (
-      <section style="margin-top:2rem;padding:1rem;background:var(--card-background-color);border-radius:8px;">
-        <h2>🔗 Related Concepts</h2>
-        {relatedConcepts.map(c => (
-          <div class="page-item" style="padding:0.3rem 0;">
-            <a href={`/aied/pages/${c.id.replace('.md', '')}`} style="font-weight:500;">{c.data.title}</a>
-            <div style="font-size:0.75rem;color:var(--muted-color);">
-              {(c.data.tags || []).slice(0, 4).map((t: string) => (
-                <a href={`/aied/tags/${t}`} class="tag-chip" style="font-size:0.65rem;padding:0.02rem 0.3rem;">{t}</a>
-              ))}
-            </div>
-          </div>
-        ))}
-      </section>
-    )}
-  </article>
-</BaseLayout>
+<!-- This page redirects to the correct collection URL -->
