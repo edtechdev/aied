@@ -9,12 +9,8 @@ confidence: medium
 ---
 
 > **Lala Yamazaki, Ramchandra Rimal (2026)** — arXiv preprint
-
-**Lala Yamazaki, Ramchandra Rimal (2026)** — arXiv preprint  
-
 Investigates ML models to predict exam outcomes from physiological data (electrodermal activity, heart rate, skin temperature) collected during exams. Evaluates logistic regression, random forest, SVM, transformers, LSTM, and GRU. Random forest often outperformed deep learning models while offering interpretability. Highlights value of physiological data for understanding student stress and real-time intervention potential.
 
-## Key Contributions
 
 - Random forest predicts exam outcomes from physiological signals as well as deep learning, with better interpretability.
 

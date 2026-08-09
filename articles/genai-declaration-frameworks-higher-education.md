@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Micallef & Petrovska (2026)** — University of Malta.
-
-**Micallef & Petrovska (2026)** — University of Malta.
-
 As [[generative-ai]] disrupts [[higher-ed]], institutions increasingly require students to declare AI use. However, generic binary declarations (e.g., "I used GenAI") fail to capture the nuanced application of these tools across different academic tasks. Micallef & Petrovska argue that establishing transparency is key to protecting [[academic-integrity]], promoting [[ai-literacy]], and shifting the focus from policing to professional practice.
 
 The paper contributes a design artifact: a framework of two task-specific declaration structures — one for writing-focused activities and one for coding assessments — developed for a Computer Science department based on an existing taxonomy of GenAI usage. By categorising AI usage across specific cognitive and developmental stages (e.g., structural planning vs. textual content generation, or code improvement vs. code generation), the framework encourages students to reflect on their own learning process and clarifies the boundary between acceptable assistance and [[academic-integrity|academic misconduct]].

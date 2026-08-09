@@ -10,19 +10,10 @@ confidence: high
 
 > **Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026)** — arXiv:2607.28179 (cs.CY, cs.CR)
 
-**Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026)** — arXiv:2607.28179 (cs.CY, cs.CR)
-
-## Summary
-
 Innovative practice paper examining the integration of technology-enhanced tabletop exercises into cybersecurity curricula. Addresses the gap between professional TTX practice and university adoption, presenting lessons learned from implementation in computing education contexts.
 
-The work connects to broader discussions in AI and education around [[active-learning]], [[simulation-learning]], [[stem-education]], contributing to our understanding of how edtech platform shapes educational practice.
 
-## Key Contributions
 
-- Contributes empirical or theoretical advances relevant to the [[active-learning]] domain
-- Published in 2026, reflecting the fast-moving landscape of AI in education research
-- Engages with questions of stem education and higher ed in educational contexts
 
 ## Connected Concepts
 

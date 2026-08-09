@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Lin Ler (2026)** — Edtech Insiders. Part 2 of 7 in the AI & Efficacy Editorial Research Series, drawing from Stanford's AI Hub for Education Research Repository (SCALE Initiative).
-
-**Lin Ler (2026)** — Edtech Insiders. Part 2 of 7 in the AI & Efficacy Editorial Research Series, drawing from Stanford's AI Hub for Education Research Repository (SCALE Initiative).
-
 📄 [Full article](https://edtechinsiders.substack.com/p/how-ai-is-changing-teaching-workflows)
 
 ## Core Thesis

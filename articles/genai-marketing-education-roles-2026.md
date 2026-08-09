@@ -10,10 +10,6 @@ confidence: high
 
 > **When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three GAI roles in education: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solv... [[generative-ai]] [[higher-ed]] [[pedagogy]] [[instructional-design]] [[teacher-role]] [[professional-training]]
 
-**Unnati Narang, Vishal Sachdev, Ruichun Liu (2026)** — Journal of Public Policy & Marketing, 44(3), 473-489 (2025).
-
-## Key Findings
-
 Uses multipronged analysis (syllabi review, educator survey, qualitative interviews) and Role Theory + Community of Inquiry model to propose three GAI roles in education: tutor (grasping theoretical concepts), teammate (brainstorming and problem-solving), and tool. Each role influences teaching, social, and cognitive presence differently. Identifies ethical considerations: data privacy, plagiarism, AI dependency, and assessment fairness. Provides concrete examples for GAI integration in courses.
 
 ## Abstract

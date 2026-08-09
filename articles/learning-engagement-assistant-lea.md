@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Teri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026)** — arXiv preprint (extension of ICAART 2026 conference paper). Venue: arXiv (categories: cs.CY, cs.AI, cs.HC).
-
-**Teri Rumble, Javad Zarrin, P. George Lovell, Ruth Falconer (2026)** — arXiv preprint (extension of ICAART 2026 conference paper). Venue: arXiv (categories: cs.CY, cs.AI, cs.HC).
-
 LEA (Learning Engagement Assistant) is an **agentic AI tutoring system** that couples course-specific retrieval-augmented generation (RAG) with structured [[knowledge-tracing]] / Knowledge Component (KC) models across integrated Chat, Tutor, and Quiz modes. This paper reports the first real-student classroom deployment of LEA (n = 8, STEM course CMP511) and the first empirical test of its cross-course scalability, extending a prior simulation-only validation that used synthetic learner agents.
 
 The study exposes a key gap between simulated evaluation and [[student-ai-interaction|real classroom deployment]]: synthetic learners predicted engagement patterns that diverged from observed behaviour, arguing that simulation alone cannot anticipate all aspects of live use. A RAGAS-based scalability evaluation across 660 questions found Answer Relevancy (0.88-0.94) and Context Precision (0.88-0.90) stable across courses, while Faithfulness declined with curriculum distance from LEA's original course (0.69 to 0.50) — a preliminary signal that downstream components, not the orchestration layer, constrain course-agnostic tutoring.

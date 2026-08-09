@@ -9,9 +9,6 @@ confidence: medium
 ---
 
 > **Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026)** — Institution.
-
-**Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026)** — Institution.
-
 Revisits WordStream (2009) as a quantitative encoding for qualitative learning analytics; demonstrates how structured coding can surface cohort-level trends while preserving individual narrative context.
 
 ## Synthesis

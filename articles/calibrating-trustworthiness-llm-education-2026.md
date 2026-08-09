@@ -10,10 +10,6 @@ confidence: high
 
 > **Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM res... [[llm]] [[ai-ed-evaluation]] [[trust-calibration]] [[human-in-the-loop]] [[instructional-design]] [[edtech-platform]]
 
-**Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, Alex Endert (2026)** — arXiv:2608.04006 [cs.HC] (under review).
-
-## Key Findings
-
 Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to pedagogical use. Designed visualizations mapping trustworthiness violations onto LLM responses. Making trustworthiness explicit increased inter-rater reliability and helped learning engineers resolve conflicting objectives and produce more consistent judgments. Proposes design guidelines for future LLM evaluation tools that enable pedagogically-aligned learning tools.
 
 ## Abstract

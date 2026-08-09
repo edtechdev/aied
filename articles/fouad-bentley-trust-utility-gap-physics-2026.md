@@ -10,13 +10,8 @@ confidence: high
 
 > **Synthesis:** Fouad & Bentley (2026) survey 81 introductory physics students and find a striking 50-percentage-point trust-utility gap: 91% use AI for coursework but only 41% trust AI physics explanations — evidence of domain-calibrated skepticism, not uncritical adoption. Students spontaneously identified where AI fails in physics (visual-spatial reasoning, circuits, abstract reasoning), aligning with known benchmarks. 65% prefer optional over mandatory AI integration.
 
-**Fouad, E., & Bentley, I. (2026)** — Florida Polytechnic University. Phys. Rev. Phys. Educ. Res. 22, 020114. doi:10.1103/bdl1-6bn4.
-
-## Summary
-
 A mixed-methods survey of 81 introductory physics undergraduates reveals a 50-point trust-utility gap: 91% [95% CI: 83%–96%] use AI for physics coursework, but only 41% [95% CI: 30%–52%] trust AI-generated physics explanations. Thematic analysis identified eight themes; the most distinctive finding was that 40% of qualitative respondents spontaneously articulated where AI fails — visual-spatial reasoning, circuit analysis, and abstract physical reasoning — aligning with known benchmarks. Students show domain-calibrated skepticism rather than uncritical adoption, and 65% prefer optional AI integration.
 
-## Key Findings
 
 - 91% use AI for physics, only 41% trust it — 50-point trust-utility gap
 - Students show domain-specific skepticism, not naive acceptance

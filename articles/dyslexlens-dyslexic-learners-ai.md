@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026)** — Artificial Intelligence (cs.AI).
-
-**Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026)** — Artificial Intelligence (cs.AI).
-
 DysLexLens is a low-resource LLM framework designed to analyze how [[special-education|dyslexic learners]] experience AI tools by mining online forum discussions. The framework employs dictionary-driven filtering to construct focused corpora from Reddit, integrates LLM-assisted knowledge graph reasoning, and generates verifiable query responses about learners' lived experiences with AI for reading, writing, and study tasks.
 
 The research reveals that while dyslexic learners find value in AI tools for [[ai-literacy|supporting literacy]], they face significant [[accessible-learning|accessibility barriers]] including inconsistent output quality and lack of [[equity|equitable]] accommodations. This has direct implications for [[student-experience|student-AI interaction]] design and suggests that inclusive AI education must address [[language-learning|language and literacy support]] across both [[k-12|K-12]] and [[higher-ed|higher education]] settings.

@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Hou, Xiao, Liu & Mueller (2026)** — Lawrence Technological University / Michigan Technological University.
-
-**Hou, Xiao, Liu & Mueller (2026)** — Lawrence Technological University / Michigan Technological University.
-
 Investigates how instructional guidance shapes student-AI interaction in [[higher-ed|construction engineering education]]. Introduces a **five-step prompting framework** grounded in Generative Learning Theory (GLT) to guide learner interaction during review activities. Three conditions tested in a controlled experiment: slide-based learning, unprompted AI-supported learning, and prompted AI-supported learning.
 
 **Key findings:** Performance differences concentrated on tasks requiring explanation and reasoning (higher-order cognitive outcomes). The prompted condition achieved significantly higher open-ended scores (≈2–3 points on 18-point scale, p<0.01). No significant differences in multiple-choice recall across conditions. Unprompted AI use did not outperform traditional slide-based review.

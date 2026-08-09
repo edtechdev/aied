@@ -10,19 +10,10 @@ confidence: high
 
 > **Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026)** — arXiv:2607.28505 (cs.CL)
 
-**Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026)** — arXiv:2607.28505 (cs.CL)
-
-## Summary
-
 Structured scholarly dialogue among five sociolinguists examining how GenAI tools influence academic writing practices, reinforce or disrupt linguistic hierarchies, and impact the legitimacy of diverse English varieties in global scholarly communication. Raises concerns about linguistic homogenization and the marginalization of World Englishes.
 
-The work connects to broader discussions in AI and education around [[generative-ai]], [[academic-writing]], [[equity]], contributing to our understanding of how generative ai shapes educational practice.
 
-## Key Contributions
 
-- Contributes empirical or theoretical advances relevant to the [[generative-ai]] domain
-- Published in 2026, reflecting the fast-moving landscape of AI in education research
-- Engages with questions of writing education and equity in educational contexts
 
 ## Connected Concepts
 

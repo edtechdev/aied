@@ -10,19 +10,10 @@ confidence: high
 
 > **Esse Ciego, Shubbhi Taneja, Wilson Wong, Amanpreet Kapoor (2026)** — arXiv:2607.28203 (cs.HC)
 
-**Esse Ciego, Shubbhi Taneja, Wilson Wong, Amanpreet Kapoor (2026)** — arXiv:2607.28203 (cs.HC)
-
-## Summary
-
 Studies student perceptions of AI-generated instructional videos in computing education. Finds students value personalization and rapid production but express concerns about accuracy and the loss of instructor presence. Identifies clear preferences for hybrid approaches where AI generates draft content that instructors review and refine.
 
-The work connects to broader discussions in AI and education around [[student-experience]], [[generative-ai]], [[computing-education]], contributing to our understanding of how generative ai shapes educational practice.
 
-## Key Contributions
 
-- Contributes empirical or theoretical advances relevant to the [[student-experience]] domain
-- Published in 2026, reflecting the fast-moving landscape of AI in education research
-- Engages with questions of student experience and stem education in educational contexts
 
 ## Connected Concepts
 

@@ -9,9 +9,6 @@ confidence: medium
 ---
 
 > **Yongkyung Oh, Lynn Talton, Alex Bui (2026)** — Institution.
-
-**Yongkyung Oh, Lynn Talton, Alex Bui (2026)** — Institution.
-
 Engagement intensity during AI ethics instruction serves as an effective learner-modeling signal for adaptive instruction; prior LLM experience influences engagement patterns.
 
 ## Synthesis

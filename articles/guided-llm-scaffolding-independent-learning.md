@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Amanlou et al. (2026)** — arXiv:2606.01375.
-
-**Amanlou et al. (2026)** — arXiv:2606.01375.
-
 Experimental study comparing Guided vs. Unrestricted LLM access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and self-assessment calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-workflows]] rather than just syntax mastery.
 
 ## Connected Concepts

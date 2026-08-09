@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Lane (2026)** — AIED 2026, LNCS 3032 (Springer).
-
-**Lane (2026)** — AIED 2026, LNCS 3032 (Springer).
-
 The widespread availability of general-purpose AI that can perform complex cognitive tasks threatens to undermine education at scale. This effortless bypass dilemma sharpens a challenge AIED has long engaged with but must now confront directly: ensuring learners choose effortful engagement when easier alternatives are available to complete learning tasks. In this paper, I argue that AIED's longstanding agenda of building more effective intelligent educational tools should continue, but with a renewed emphasis on the urgency of ensuring learners choose to engage authentically. Drawing on established motivational and learning theories, I outline five directions in which AIED can build on its existing strengths: supporting autonomy and agency, building learner resilience to metacognitive threats, designing for interest and relevance, amplifying process-based assessment, and empowering teachers. I then share four envisioned technologies that embody key features of this future and conclude by outlining how AIED must now evolve.
 
 Position paper (AIED 2026) reframes the effortless bypass dilemma: AIED must keep building better tools but foreground learner agency and motivation so students choose authentic effort. Five directions: autonomy/agency, metacognitive resilience, interest/relevance, process-based assessment, and teacher empowerment.
