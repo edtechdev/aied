@@ -10,10 +10,16 @@ node_modules/
 # Raw papers (not committed)
 raw/
 
-# Static site (Pico-based, not Astro)
-static-site/
+# Obsidian
+.obsidian/
+
+# Old Pico static site artifacts (removed, prevent recreation)
+index.html
+journal.html
+search.html
+tags.html
+search_index.js
+search_index.json
+feed.xml
 /pages/
 /tags/
-search_index.js
-search_index.json.obsidian/
-.obsidian/
