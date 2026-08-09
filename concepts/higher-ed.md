@@ -52,3 +52,8 @@ confidence: medium
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 - [[ai-learning-transfer]] — AI Learning Transfer
+- [[detecting-llm-generated-text-latent-prompt]]
+- [[generative-ai-education-productivity-gaps]]
+- [[institutional-governance-ai-universities]]
+- [[chat-debugging-human-ai-collaboration-circuits]]
+- [[skill-diversity-worker-resilience]]

@@ -74,3 +74,4 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 - [[ai-learning-transfer]] — AI Learning Transfer
+- [[proprl-prerequisite-relation-learning]]

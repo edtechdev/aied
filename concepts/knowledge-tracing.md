@@ -54,3 +54,5 @@ confidence: medium
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
 - [[ai-learning-transfer]] — AI Learning Transfer
+- [[multimodal-knowledge-graph-educational-reasoning]]
+- [[proprl-prerequisite-relation-learning]]
