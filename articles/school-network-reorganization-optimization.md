@@ -25,7 +25,7 @@ A synthetic benchmark generator enables scalability testing, while the real-worl
 
 - **Optimal aggregation plans:** Framework identifies consolidation strategies that maintain educational quality while improving resource efficiency
 - **Policy scenario analysis:** Model adapts to different policy scenarios, allowing decision-makers to explore trade-offs between cost, accessibility, and educational outcomes
-- **Quantum compatibility:** Reformulation as a constrained quadratic model demonstrates readiness for emerging [[quantum-computing]] technologies
+- **Quantum compatibility:** Reformulation as a constrained quadratic model demonstrates readiness for emerging quantum-computing technologies
 - **Sustainable planning:** Robust methodology supports equitable and sustainable [[k-12|school network]] planning
 
 ## Educational Planning Implications

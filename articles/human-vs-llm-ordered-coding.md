@@ -20,7 +20,7 @@ Critical methodological paper on using LLMs for automated qualitative coding of 
 - [[automated-assessment]]
 - [[educational-nlp]]
 - [[learning-analytics]]
-- [[llm-in-education]]
+- [[ai-education]]
 
 - [[automated-grading]]
 - [[llm]]

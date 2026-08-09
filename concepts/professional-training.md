@@ -7,20 +7,20 @@ tags: [professional-training, generative-ai, llm, higher-ed, intelligent-tutorin
 confidence: medium
 ---
 
-> **Professional training** with AI spans simulation and feedback: [[ai-psychotherapy-training-avatars]], [[adaptive-virtual-patient-psychotherapy-training]], [[medgame-llm-medical-education-gamification]], and [[tibetcpr-ai-training-feedback]] use AI avatars, patients, and feedback to train professionals at scale ([[simulation-based-learning]], [[formative-assessment]]).
+> **Professional training** with AI spans simulation and feedback: [[ai-psychotherapy-training-avatars]], [[adaptive-virtual-patient-psychotherapy-training]], [[medgame-llm-medical-education-gamification]], and [[tibetcpr-ai-training-feedback]] use AI avatars, patients, and feedback to train professionals at scale (simulation-based-learning, [[formative-assessment]]).
 
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[adult-learning]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
+- [[agentic-ai]]
+- [[over-reliance]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-literacy]]

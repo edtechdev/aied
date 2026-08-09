@@ -32,11 +32,11 @@ The authors reconstruct skill hierarchies directly from observed co-occurrence p
 
 ## Implications for Education and Training
 
-This framework has direct implications for [[ai-education|educational policy]] and [[professional-development|workforce training]]:
+This framework has direct implications for [[ai-education|educational policy]] and [[faculty-development|workforce training]]:
 
 - **Curriculum design:** Educational programs should cultivate both depth (specialization) and breadth (diversity) rather than treating them as competing goals
 - **Reskilling pathways:** The diversity frontier identifies concrete reskilling targets — skills that maximize workers' adaptive capacity
-- **[[upskilling]] strategy:** Training interventions should target frontier-proximate skill combinations that boost resilience to automation
+- **[[professional-training]] strategy:** Training interventions should target frontier-proximate skill combinations that boost resilience to automation
 - **[[ai-literacy]] as adaptive capital:** AI literacy itself may function as a frontier-expanding meta-skill, enabling workers to integrate AI tools into diverse domains
 
 ## Connected Concepts

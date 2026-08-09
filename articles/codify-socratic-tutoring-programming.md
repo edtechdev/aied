@@ -35,11 +35,11 @@ The RAG architecture aligns with [[retrieval-augmented-tutoring-algorithm-kite|K
 
 ## Preliminary Evidence
 
-Initial deployment in programming courses showed promising results for student engagement and perceived learning support. Students particularly valued the 24/7 availability and conversational style as a supplement to traditional instruction. However, the paper reports preliminary observations rather than a controlled [[efficacy-study]], and the evidence base remains early-stage.
+Initial deployment in programming courses showed promising results for student engagement and perceived learning support. Students particularly valued the 24/7 availability and conversational style as a supplement to traditional instruction. However, the paper reports preliminary observations rather than a controlled efficacy-study, and the evidence base remains early-stage.
 
 ## Connected Concepts
 
-- [[agentic-ai-ecosystems-higher-education]]
+- [[agentic-ai]]
 - [[automated-grading]]
 - [[llm]]
 - [[pedagogical-llm-training]]

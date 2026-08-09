@@ -65,7 +65,7 @@ Despite benefits, scholars warn of:
 - Confirms: metacognition is **central to STEM success** but challenging to foster
 - AI tools offer scalable scaffolding, but require **teacher preparation in AI literacy**
 
-### vs. [[adaptive-learning-systems|Adaptive Learning Systems]]
+### vs. [[adaptive-learning|Adaptive Learning Systems]]
 - **ALEKS, Carnegie Learning** highlighted as successful adaptive platforms for metacognition
 - **Deep reinforcement learning** enhances metacognitive outcomes (vs. static adaptive rules)
 - Aligns with: system-level regulation > individual reflection
@@ -120,7 +120,7 @@ Teacher ↔ AI System ↔ Student
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[ai-literacy]]
 - [[human-in-the-loop-ai]]
 - [[learning-analytics]]

@@ -19,9 +19,9 @@ confidence: medium
 ## Connected Concepts
 - [[active-learning]]
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[affective-tutoring]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-literacy]]
 - [[ai-tutoring]]
 - [[collaborative-learning]]
@@ -30,7 +30,7 @@ confidence: medium
 - [[formative-assessment]]
 - [[generative-ai]]
 - [[zone-of-proximal-development]]
-- [[productive-struggle]]
+- productive-struggle
 
 ## Connected Articles
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...

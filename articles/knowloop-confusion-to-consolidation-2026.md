@@ -50,7 +50,7 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 
 - [[conversational-agents]]
 - [[higher-ed]]
-- [[learning-by-teaching]]
+- learning-by-teaching
 - [[personalized-learning]]
 - [[scaffolding]]
 - [[student-experience]]

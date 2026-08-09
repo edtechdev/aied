@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.03206.md']
 confidence: high
 ---
 
-> **EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners** — Introduces a 30-day long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in knowledge tracing. Evaluates 10 agent adapters over three base-model tiers and finds that tutoring quality depends on both the base model and a... [[intelligent-tutoring]] [[llm]] [[agentic-ai]] [[benchmark]] [[knowledge-tracing]] [[student-modeling]]
+> **EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners** — Introduces a 30-day long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in knowledge tracing. Evaluates 10 agent adapters over three base-model tiers and finds that tutoring quality depends on both the base model and a... [[intelligent-tutoring]] [[llm]] [[agentic-ai]] benchmark [[knowledge-tracing]] [[student-modeling]]
 
 Introduces a 30-day long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in knowledge tracing. Evaluates 10 agent adapters over three base-model tiers and finds that tutoring quality depends on both the base model and agent harness together, and almost no combination sustains good tutoring over the full horizon. Calibration check (ECE=0.049) and live-classroom field study confirm the simulated learner tracks reality. Scored on learning gain, responsiveness, helpfulness, and curriculum-design axes (Gagné and Rosenshine).
 

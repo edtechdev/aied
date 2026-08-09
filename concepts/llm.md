@@ -21,9 +21,9 @@ Examines gender differences in AI literacy, safety awareness, and STEM career as
 - [[active-learning]]
 - [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-literacy]]
-- [[benchmark]]
+- benchmark
 - [[cs-education]]
 - [[equity]]
 - [[feedback-loop]]

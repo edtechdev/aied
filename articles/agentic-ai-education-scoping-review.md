@@ -21,10 +21,10 @@ This scoping review systematically maps **474 studies** (January 2020 – May 20
 ## Key Findings
 
 ### 1. Rapid Expansion Since 2025
-The field has grown explosively, but the literature is dominated by **conference papers** concentrated in **higher education**, **STEM disciplines**, and **text-based tutoring** scenarios. This mirrors the general trajectory of [[llm-in-education]] research, but with a specific agentic inflection point in 2025.
+The field has grown explosively, but the literature is dominated by **conference papers** concentrated in **higher education**, **STEM disciplines**, and **text-based tutoring** scenarios. This mirrors the general trajectory of [[ai-education]] research, but with a specific agentic inflection point in 2025.
 
 ### 2. Technology Stack: GPT + LangChain Dominate
-**GPT-series models** and **LangChain** are the most widely adopted technologies. Notably, **OpenClaw** and other frontier agent paradigms (governed tool orchestration, persistent memory, long-horizon planning, multi-agent coordination) remain **largely absent** from educational research — revealing a significant technology–application gap. This stands in contrast to the vision articulated in [[agentic-ai-ecosystems-higher-education]].
+**GPT-series models** and **LangChain** are the most widely adopted technologies. Notably, **OpenClaw** and other frontier agent paradigms (governed tool orchestration, persistent memory, long-horizon planning, multi-agent coordination) remain **largely absent** from educational research — revealing a significant technology–application gap. This stands in contrast to the vision articulated in [[agentic-ai]].
 
 ### 3. Agentic Capabilities Remain Modest
 Across the six capability dimensions analyzed:
@@ -41,7 +41,7 @@ This maps closely to the four-paradigm framework in [[agentic-workflows-educatio
 Only **138 of 474 studies** (29%) explicitly drew on educational theory, revealing a **clear disciplinary divide** between technically oriented research (CS/engineering) and pedagogically oriented work (education/learning sciences). This echoes broader concerns in [[principled-ai-education]] about the gap between technological capability and pedagogical intentionality.
 
 ### 5. Methodological Limitations
-Most studies rely on **small-scale, short-term designs**. Longitudinal and real-world validation studies are rare, limiting the evidence base for claims about effectiveness. The review calls for more rigorous [[efficacy-study]] designs and attention to [[student-experience]] beyond immediate performance metrics.
+Most studies rely on **small-scale, short-term designs**. Longitudinal and real-world validation studies are rare, limiting the evidence base for claims about effectiveness. The review calls for more rigorous efficacy-study designs and attention to [[student-experience]] beyond immediate performance metrics.
 
 ### 6. Six Dimensions of Agentic Capability (the Review's Analytical Framework)
 
@@ -71,10 +71,10 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
-- [[agentic-ai-ecosystems-higher-education]]
+- [[adaptive-learning]]
+- [[agentic-ai]]
 - [[human-in-the-loop-ai]]
-- [[llm-in-education]]
+- [[ai-education]]
 - [[open-source]]
 - [[student-experience]]
 

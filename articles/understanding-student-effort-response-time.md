@@ -20,13 +20,13 @@ The authors develop models that infer student effort from response-time patterns
 
 ## Connections to AIED
 
-This work directly connects to [[learning-analytics]] by providing a validated method for inferring effort from interaction logs. It has implications for [[adaptive-learning-systems]] that could use early effort detection to intervene before students disengage.^[raw/papers/2605.08943.md]
+This work directly connects to [[learning-analytics]] by providing a validated method for inferring effort from interaction logs. It has implications for [[adaptive-learning]] that could use early effort detection to intervene before students disengage.^[raw/papers/2605.08943.md]
 
 The approach also relates to [[engagement-assessment-video]] and broader [[assessment]] frameworks, suggesting that response-time analysis could complement other engagement signals in multi-modal effort detection systems.
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[learning-analytics]]
 
 - [[adaptive-learning]]

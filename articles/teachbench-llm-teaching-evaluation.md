@@ -88,7 +88,7 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 - [[ai-literacy]]
 - [[formative-assessment]]
 
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[llm]]
 - [[personalized-learning]]
 ## Connected Articles

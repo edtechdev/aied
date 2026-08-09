@@ -17,7 +17,7 @@ Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruc
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[ai-literacy]]
 - [[student-experience]]
 

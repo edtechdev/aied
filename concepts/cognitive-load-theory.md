@@ -10,8 +10,8 @@ confidence: medium
 
 ## Connected Concepts
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[ai-assistance-reduces-persistence]]
+- [[adaptive-learning]]
+- [[over-reliance]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-governance-education]]

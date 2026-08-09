@@ -23,7 +23,7 @@ This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feed
 
 - [[higher-ed]]
 - [[llm]]
-- [[visualization]]
+- visualization
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

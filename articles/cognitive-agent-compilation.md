@@ -44,7 +44,7 @@ CAC connects to several threads in AI education research:
 - **[[knowledge-tracing-irt]]**: CAC makes knowledge tracing explicit and inspectable, complementing interpretable approaches like IRT-based knowledge tracing
 - **[[neural-symbolic-knowledge-tracing]]**: Shares the goal of combining explicit (symbolic) knowledge representation with neural approaches for interpretable learner modeling
 - **[[agentic-workflows-education]]**: CAC is a specific agentic architecture for education, separated into knowledge, policy, and verification components
-- **[[adaptive-learning-systems]]**: CAC enables adaptive behavior grounded in explicit, editable learner models
+- **[[adaptive-learning]]**: CAC enables adaptive behavior grounded in explicit, editable learner models
 - **[[llm-student-modeling-memory]]**: CAC addresses the learner modeling challenge from the knowledge representation angle, complementing memory-based approaches
 - **[[pedagogical-llm-training]]**: CAC offers an alternative to training pipelines — compile rather than train for pedagogical alignment
 - **[[personalized-learning]]**: Explicit learner models in CAC enable personalization that is inspectable and editable by educators
@@ -59,7 +59,7 @@ CAC connects to several threads in AI education research:
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[pedagogical-llm-training]]
 - [[personalized-learning]]
 

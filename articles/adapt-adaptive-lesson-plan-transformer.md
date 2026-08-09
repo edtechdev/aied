@@ -17,7 +17,7 @@ AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated In
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[ai-literacy-assessment-misalignment]]
 - [[k-12]]
 - [[teacher-role]]

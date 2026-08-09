@@ -30,7 +30,7 @@ The framework also touches on [[metacognition]] — students need to develop jud
 - [[equity-in-ai-education]]
 - [[metacognition]]
 
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-education]]
 - [[curriculum-design]]
 ## Connected Articles

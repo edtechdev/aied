@@ -20,7 +20,7 @@ confidence: medium
 - [[active-learning]]
 - [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-literacy]]
 - [[ai-tutoring]]
 - [[assessment]]

@@ -22,11 +22,11 @@ confidence: medium
 
 ## Implications
 
-ISD-Agent-Bench fills a significant gap in the evaluation landscape. While [[benchmark]]-driven progress has propelled general LLM capabilities, instructional design agents have lacked standardized, theory-grounded evaluation. This benchmark enables rigorous comparison of [[agentic-ai-education-scoping-review]] approaches and provides a foundation for future research on [[multi-agent-instructional-design]] systems.
+ISD-Agent-Bench fills a significant gap in the evaluation landscape. While benchmark-driven progress has propelled general LLM capabilities, instructional design agents have lacked standardized, theory-grounded evaluation. This benchmark enables rigorous comparison of [[agentic-ai-education-scoping-review]] approaches and provides a foundation for future research on [[multi-agent-instructional-design]] systems.
 
 The finding that classical ISD theory improves agent performance has practical implications for system builders: rather than treating instructional design as a generic prompting task, agents benefit from structured theoretical grounding. This resonates with broader work on [[educational-llm-alignment]], which argues that pedagogical goals require more than general capability — they require specific structural priors.
 
-The 51-variable Context Matrix is itself a contribution, formalizing what makes instructional design contexts vary (learner characteristics, content domain, delivery mode, constraints, outcomes). This taxonomy could inform future work on [[agentic-workflows-education]] and context-aware [[llm-evaluation]].
+The 51-variable Context Matrix is itself a contribution, formalizing what makes instructional design contexts vary (learner characteristics, content domain, delivery mode, constraints, outcomes). This taxonomy could inform future work on [[agentic-workflows-education]] and context-aware llm-evaluation.
 
 For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a methodological advance that may generalize beyond instructional design to other educational AI evaluation tasks where LLM-as-judge bias is a concern.
 
@@ -35,7 +35,7 @@ For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a me
 - [[agentic-ai]]
 - [[ai-ed-evaluation]]
 
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-education]]
 - [[llm]]
 - [[rag]]

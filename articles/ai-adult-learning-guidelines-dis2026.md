@@ -76,10 +76,10 @@ The guidelines span four categories:
 - [[adult-learning]]
 - [[ai-education]]
 - [[andragogy]]
-- [[design-guidelines]]
-- [[educational-technology]]
+- design-guidelines
+- educational-technology
 - [[higher-ed]]
-- [[human-computer-interaction]]
+- human-computer-interaction
 - [[professional-training]]
 
 - [[rag]]

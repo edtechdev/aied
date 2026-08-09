@@ -30,7 +30,7 @@ Generative AI can function as either a cognitive tool (amplifying thinking) or a
 
 ## Connected Concepts
 
-- [[ai-assistance-reduces-persistence]]
+- [[over-reliance]]
 - [[metacognition]]
 - [[scaffolding]]
 - [[self-regulated-learning]]

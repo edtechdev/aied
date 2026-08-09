@@ -16,9 +16,9 @@ This position paper occupies a critical counterpoint in the [[intelligent-tutori
 
 **Cognitive atrophy and the shortcut problem.** The central argument draws on [[cognitive-load-theory]] and the well-established finding that effortful cognitive processing is essential for durable learning. When [[intelligent-tutoring]] systems provide immediate, high-quality answers and solutions, they effectively short-circuit the very cognitive processes — struggling with problems, retrieving from memory, constructing explanations — that produce deep understanding. This phenomenon, which the authors term *cognitive atrophy*, mirrors concerns raised in the [[efficiency-gain-illusion-ai-overreliance]] and [[cognitive-offloading]] literatures: learners may feel more productive while learning less.
 
-**Loss of agency and dependency.** Beyond cognitive effects, the paper identifies a broader threat to learner agency. Prolonged reliance on AI tutors can produce [[over-reliance]] — a state where students lose confidence in their own reasoning abilities and become dependent on AI assistance even for tasks they could complete independently. This dependency dynamic connects to the [[correct-answer-trap-ai-tutor]] problem and the finding that [[ai-assistance-reduces-persistence]] — students give up more quickly when AI help is available.
+**Loss of agency and dependency.** Beyond cognitive effects, the paper identifies a broader threat to learner agency. Prolonged reliance on AI tutors can produce [[over-reliance]] — a state where students lose confidence in their own reasoning abilities and become dependent on AI assistance even for tasks they could complete independently. This dependency dynamic connects to the [[correct-answer-trap-ai-tutor]] problem and the finding that [[over-reliance]] — students give up more quickly when AI help is available.
 
-**Emotional and well-being risks.** The authors highlight underexplored emotional dimensions: AI tutor interactions can erode self-efficacy when students compare themselves unfavorably to flawless AI outputs, contribute to [[ai-fatigue-academic-contexts]], and diminish the relational aspects of learning that [[teacher-ai-coagency]] frameworks seek to preserve.
+**Emotional and well-being risks.** The authors highlight underexplored emotional dimensions: AI tutor interactions can erode self-efficacy when students compare themselves unfavorably to flawless AI outputs, contribute to [[ai-fatigue-academic-contexts]], and diminish the relational aspects of learning that [[teacher-ai-collaboration]] frameworks seek to preserve.
 
 **Ethical concerns.** The paper catalogs significant ethical risks including [[academic-integrity]] erosion, questionable [[privacy]] practices in educational AI systems, and the broader societal implications of [[ai-making-us-stupid]] — a provocative framing that challenges the edtech optimism narrative.
 
@@ -34,7 +34,7 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 
 ## Connected Concepts
 
-- [[ai-assistance-reduces-persistence]]
+- [[over-reliance]]
 - [[ai-governance-education]]
 - [[cognitive-load-theory]]
 - [[pedagogical-safety]]

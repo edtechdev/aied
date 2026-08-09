@@ -20,12 +20,12 @@ DURA framework (Demystify-Use-Reflect-Assess) for structured LLM integration in 
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[llm-in-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[llm-in-education]]
+- [[ai-education]]
 - [[student-experience]]
 
 - [[higher-ed]]

@@ -13,14 +13,14 @@ Research themes include:
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[adult-learning]]
 - [[ai-education]]
-- [[design-guidelines]]
-- [[educational-technology]]
+- design-guidelines
+- educational-technology
 - [[ethics]]
-- [[human-computer-interaction]]
+- human-computer-interaction
 
 ## Connected Articles
 

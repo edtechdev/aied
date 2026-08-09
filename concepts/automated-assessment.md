@@ -14,7 +14,7 @@ confidence: medium
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[agentic-ai]]
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[ai-literacy]]

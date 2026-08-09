@@ -38,7 +38,7 @@ The system's knowledge-graph approach allows *structured progression* through th
 
 ## Connection to Broader ITS Trends
 
-Unlike general-purpose ITS (e.g., [[adaptive-learning-systems|adaptive systems]] for math or programming), quantum education requires:
+Unlike general-purpose ITS (e.g., [[adaptive-learning|adaptive systems]] for math or programming), quantum education requires:
 - **Domain-specific visualizations** (quantum circuits, state spaces)
 - **Specialized misconception handling** (classical intuition interference)
 - **Formalism scaffolding** (gradual introduction of mathematical tools)
@@ -53,14 +53,14 @@ This aligns with the [[tutoring-specific-vs-general-ai|tutoring-specific design]
 
 ## Connected Concepts
 
-- [[adaptive-learning-systems]]
+- [[adaptive-learning]]
 
 - [[adaptive-learning]]
 - [[ai-tutoring]]
 - [[higher-ed]]
 - [[knowledge-tracing]]
 - [[scaffolding]]
-- [[visualization]]
+- visualization
 ## Connected Articles
 
 - [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT

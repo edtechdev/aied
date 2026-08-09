@@ -63,12 +63,12 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 
 - [[affective-tutoring]]
 
-- [[agentic-workflows]]
+- [[agentic-ai]]
 - [[higher-ed]]
 - [[k-12]]
 - [[llm]]
 - [[scaffolding]]
-- [[visualization]]
+- visualization
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

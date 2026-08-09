@@ -23,7 +23,7 @@ Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative L
 - [[student-experience]]
 
 - [[k-12]]
-- [[visualization]]
+- visualization
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

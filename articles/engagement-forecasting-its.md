@@ -42,7 +42,7 @@ The focus on middle-school students (N=425) aligns with the [[ai-k12-evidence-ba
 
 ## Methodological Contribution
 
-The paper establishes a **reproducible benchmark** for engagement forecasting, with clearly defined prediction targets, a documented feature set, and public interaction log data. This is significant for the [[benchmark]] landscape in AIED, where many systems are evaluated on proprietary data with incomparable metrics.
+The paper establishes a **reproducible benchmark** for engagement forecasting, with clearly defined prediction targets, a documented feature set, and public interaction log data. This is significant for the benchmark landscape in AIED, where many systems are evaluated on proprietary data with incomparable metrics.
 
 ## Connected Concepts
 

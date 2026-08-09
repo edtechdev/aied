@@ -17,7 +17,7 @@ From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated E
 
 ## Connected Concepts
 
-- [[agentic-ai-ecosystems-higher-education]]
+- [[agentic-ai]]
 - [[ai-literacy-assessment-misalignment]]
 - [[writing-education]]
 

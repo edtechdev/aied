@@ -24,7 +24,7 @@ confidence: medium
 
 This study provides empirical evidence that the [[socratic-method]] — a pedagogical approach with ancient roots — can be effectively operationalized through [[generative-ai]] at scale. Unlike rule-based Socratic tutors that rely on pre-scripted question sequences, an LLM-powered chatbot can adapt its questioning dynamically to each student's reasoning trajectory, making it viable for [[intelligent-tutoring]] in large-enrollment courses where one-on-one Socratic dialogue is otherwise impractical.
 
-The specificity trajectory finding is significant for [[socratic-ai]] research: it demonstrates that the benefit of Socratic dialogue is not just in the answers students produce, but in the *quality of questions they learn to ask.* This metacognitive dimension aligns with research on [[socratic-questioning]] as a tool for developing disciplinary ways of thinking rather than merely transmitting content.
+The specificity trajectory finding is significant for [[socratic-method]] research: it demonstrates that the benefit of Socratic dialogue is not just in the answers students produce, but in the *quality of questions they learn to ask.* This metacognitive dimension aligns with research on [[socratic-method]] as a tool for developing disciplinary ways of thinking rather than merely transmitting content.
 
 For [[stem-education]] and [[physics-education]] specifically, the chatbot's deployment in a real course (not a lab study) with 150 students establishes feasibility for production use. The dual-purpose architecture — serving both instruction and research — models how AI tutoring systems can function as instruments for [[educational-measurement]] as well as pedagogical tools.
 
@@ -36,9 +36,9 @@ The correlation between question specificity and course grade (*r* = 0.43) hints
 - [[educational-measurement]]
 - [[generative-ai]]
 - [[learning-analytics]]
-- [[socratic-ai]]
+- [[socratic-method]]
 - [[socratic-ai-dialogue]]
-- [[socratic-questioning]]
+- [[socratic-method]]
 - [[socratic-method]]
 
 ## Connected Articles
