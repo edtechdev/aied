@@ -6,15 +6,32 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-> **Active Learning** — a key concept in AI in education research. Explored across 10 articles in this wiki.
-
-Research themes include:
-- # SupplyNet: LLM Multi-Agent Simulation for Supply Chain Education
-- **Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, et al. (2026)** - arXiv preprint (IEEE). arXiv preprint.
-- **Authors:** (SEFI 2025 Proceedings) · Presented at the 2025 SEFI Annual Conference
-- **Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026)**
+> **Active Learning** is a central concept in AI in education research, connected to 10 articles in this wiki. 
 
 ## Connected Concepts
+- [[ai-literacy]]
+- [[automated-grading]]
+- [[formative-assessment]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[k-12]]
+- [[k-12-ai-education]]
+- [[learning-analytics]]
+- [[llm]]
+- [[pedagogical-llm-training]]
+- [[personalized-learning]]
+- [[professional-training]]
+- [[project-based-learning]]
+- [[reinforcement-learning]]
 
 ## Connected Articles
-
+- [[supplynet-visual-exploratory-learning]]
+- [[test-driven-ai-assisted-learning]]
+- [[llm-diverse-explanations-programming]]
+- [[llm-tts-dialogue-lesson-generation]]
+- [[hingle-collaborative-ai-literacy-2025]]
+- [[q-learning-lab-rl-teaching]]
+- [[forap-pjbl-computing-education]]
+- [[flowcode-ai-creative-coding]]
+- [[instructional-guidance-genai-learning]]
+- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]]
