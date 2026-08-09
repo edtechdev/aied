@@ -1,16 +1,14 @@
 ---
-title: 'Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference'
+title: "Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference"
 created: 2026-08-03
 updated: 2026-08-03
 type: article
-tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, educational-theory, equity, human-in-the-loop]
-sources: [raw/papers/responsible-assessment-ai-era-stanford-2026.md]
+tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, educational-theory, equity, human-in-the-loop, automated-grading, ai-literacy]
+sources: ['raw/papers/responsible-assessment-ai-era-stanford-2026.md']
 confidence: high
 ---
 
 > **Responsible assessment in the AI era** — assessment grounded in learners' sociocultural contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues generative AI has broken the assumption that final products measure human capability: learners can produce high-quality artifacts without the underlying learning, AI scoring introduces construct-irrelevant variance, and the gap between what is measured and what matters is widening. The field's response is a shift from testing events to systems of inference — continuous and [[formative-assessment]], portfolio- and conversation-based evidence ([[socratic-tests-conversational-assessment]]), [[authentic-assessment]] in real tasks, and [[human-in-the-loop]] design — paired with validity infrastructure for [[automated-grading]], shared definitions of emerging constructs like [[ai-literacy]], and sustained attention to [[equity]], transparency, and trust.
-
-# Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
 
 **Nneka J. McGee, Candace Thille, Ikkyu Choi, Kadriye Ercikan & Isabelle C. Hau (2026)** — Stanford Accelerator for Learning, Stanford University, with support from ETS.
 
@@ -34,17 +32,42 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 - **Construct definitions** — the underdefined AI literacy / durable-skills problem echoes [[ai-literacy]] debates and [[educational-theory]] work on what AI-era competencies mean operationally.
 - **Equity & trust** — sociocultural responsiveness, bias in AI scoring, and human accountability map to [[equity]], [[human-in-the-loop]], and [[ai-ed-evaluation]].
 
+## Connected Concepts
+
+- [[ai-ed-evaluation]]
+- [[ai-literacy]]
+- [[assessment-validity]]
+- [[automated-grading]]
+- [[formative-assessment]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations...
+- [[authentic-assessment]] — Authentic Assessment
+- [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
+- [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation
+- [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+
 ## Citation
 
 ASSESSMENT, R., ERA, I.T.A., a, K.I.F., Conference, F., McGee, N.J., Thille, C., Choi, I., & Ercikan, K. (2026). [Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference](https://acceleratelearning.stanford.edu/conference/responsible-assessment-in-the-ai-era/)
-
-## Related Pages
-
-- [[assessment]] — Assessment is at a moment of change; the report reframes validity and purpose for the AI era
-- [[assessment-validity]] — Validity threats from AI scoring (construct-irrelevant variance, calibration, generalization)
-- [[formative-assessment]] — Extending formative assessment with AI feedback loops and embedded evidence
-- [[automated-grading]] — AI scoring is the most widely used AI application in assessment, with new validity costs
-- [[ai-literacy]] — AI literacy as an emerging construct in need of operational definition
-- [[authentic-assessment]] — Live demonstrations, portfolios, and scenario-based assessments as authentic evidence
-- [[equity]] — Socioculturally responsive assessment and bias in AI-mediated scoring
-- [[human-in-the-loop]] — Keeping humans in the loop for high-stakes AI assessment decisions

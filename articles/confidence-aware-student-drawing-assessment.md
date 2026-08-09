@@ -3,12 +3,12 @@ title: Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
 created: 2026-06-19
 updated: 2026-06-19
 type: article
-tags: [automated-grading, stem-education, formative-assessment, k-12, efficacy-study]
-sources: [raw/papers/2606.20264.md]
+tags: [automated-grading, stem-education, formative-assessment, k-12, efficacy-study, multi-representational-tools, psychometrically-aware-ai, adaptive-prompt-routing, assessment-validity]
+sources: ['raw/papers/2606.20264.md']
 confidence: high
 ---
 
-# Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
+> **Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai** (2026). arXiv cs.AI preprint
 
 **Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai** (2026). arXiv cs.AI preprint
 
@@ -47,12 +47,44 @@ Vision Transformer (ViT) with LoRA adaptation for automated scoring of student-d
 - **Evaluation:** >90% win rate in Actionability vs GPT-4o, Llama-4-Scout, Qwen3.
 - **Implication:** [[psychometrically-aware-ai]] can unify assessment and instruction, transforming automated essay scoring from summative to formative.
 
-## Related Pages
+## Connected Concepts
+
+- [[adaptive-prompt-routing]]
+- [[assessment-validity]]
 - [[automated-grading]]
-- [[stem-education]]
+- [[confidence-aware-ai-assessment]]
 - [[formative-assessment]]
 - [[k-12]]
-- [[assessment-validity]]
+- [[multi-representational-tools]]
+- [[psychometrically-aware-ai]]
+
+## Connected Articles
+
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
 
 ## Citation
 

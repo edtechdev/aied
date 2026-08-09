@@ -1,15 +1,14 @@
 ---
-title: "A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI"
+title: A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 created: 2026-07-19
 updated: 2026-07-19
 type: article
 tags: [agentic-ai, ai-literacy, assessment, authentic-assessment, computational-thinking, generative-ai, higher-ed, oral-defense, over-reliance, verification]
-sources: [raw/papers/arxiv-2026-tool-invariant-framework.md]
+sources: ['raw/papers/arxiv-2026-tool-invariant-framework.md']
 confidence: high
-contested: false
 ---
 
-# A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
+> **Larry Engelhardt (Francis Marion University)** — *arXiv:2607.15518* [physics.ed-ph], submitted 17 Jul 2026. CC BY 4.0. doi:10.48550/arXiv.2607.15518.
 
 **Larry Engelhardt (Francis Marion University)** — *arXiv:2607.15518* [physics.ed-ph], submitted 17 Jul 2026. CC BY 4.0. doi:10.48550/arXiv.2607.15518.
 
@@ -56,24 +55,39 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 - **Motivation over prohibition:** a guardrailed tutor (Fall 2025) helped engaged students but was useless to answer-seekers ("an unguardrailed model is two browser tabs away"). Framing: homework is the gym, not the job; AI is a forklift at the gym. Design for motivation, not bans.
 - Term "**comprehension debt**" (gap between code a system contains and code its maintainers understand) imported from software engineering as a risk of AI-assisted production.
 
-## Connections to the wiki
+## Connected Concepts
 
-- A direct, discipline-specific instantiation of the [[authentic-assessment]] and [[academic-integrity]] thread already running through the wiki — its "split instrument" (AI-free quiz + oral defense) is the computational-physics cousin of Krebsbach & Cross's split-format (paper knowledge + open applied) in [[moral-panic-genai-classroom]].
-- Grounds the [[over-reliance]] and [[cognitive-offloading]] concern in a concrete mechanism: agentic AI removes the *incidental* practice that built supervisory judgment, so the course must *manufacture* it (white-box + error injection).
-- Speaks directly to [[agentic-literacy-debt]] (introduces "comprehension debt"; the validation-authority principle is the epistemic counterpart to literacy debt) and to [[generative-ai-guardrails-harm-learning]] (the author's own guardrailed tutor failed for unmotivated students — guardrails alone are insufficient; assessment-side design is required).
-- Reinforces [[ai-literacy]] (interactional expertise, calibrated reliance) and [[computational-thinking]].
+- [[ai-literacy]]
+- [[computational-thinking]]
+- [[higher-ed]]
 
-## Related Pages
-- [[authentic-assessment]] — Oral defense + comment-stripped AI-assisted work as authenticity/integrity design
-- [[academic-integrity]] — Proxy collapse: artifact no longer certifies student; verification-gated defense restores certification
-- [[moral-panic-genai-classroom]] — Companion split-format (paper knowledge + open applied); both argue design beats ban
-- [[over-reliance]] — Agentic AI removes incidental supervisory practice; course must manufacture it
-- [[cognitive-offloading]] — Offloading code authorship; verification burden returns to the student
-- [[agentic-literacy-debt]] — Comprehension debt; validation authority as epistemic counterpart
-- [[generative-ai-guardrails-harm-learning]] — Author's guardrailed tutor failed unmotivated students; assessment design > tool guardrails
-- [[ai-literacy]] — Interactional expertise; calibrated reliance as the core AI-era skill
-- [[computational-thinking]] — Five pillars repackage Weintrop/Weller/Odden CT constructs, re-weighted
-- [[higher-ed]] — Small-class deployment context
+## Connected Articles
+
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[authentic-assessment]] — Authentic Assessment
+- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
+- [[moral-panic-genai-classroom]] — Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation a...
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
 
 ## Citation
 

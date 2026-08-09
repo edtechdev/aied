@@ -1,10 +1,10 @@
 ---
-title: 'AICoFE: AI-Powered Feedback System'
+title: "AICoFE: AI-Powered Feedback System"
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [ai-ed-evaluation, feedback-loop, student-experience]
-sources: [raw/papers/becerra-aicofe-feedback-2026.md]
+tags: [ai-ed-evaluation, feedback-loop, student-experience, human-in-the-loop-ai, higher-ed, learning-analytics, formative-assessment]
+sources: ['raw/papers/becerra-aicofe-feedback-2026.md']
 confidence: medium
 ---
 
@@ -32,17 +32,41 @@ The [[learning-analytics-dashboards]] component of AICoFE is notable for its rol
 
 For [[higher-ed]] institutions facing growing assessment loads, AICoFE models a path where AI-assisted feedback scales without sacrificing the relational and interpretive dimensions of effective [[formative-assessment]].
 
+## Connected Concepts
+
+- [[formative-assessment]]
+- [[higher-ed]]
+- [[human-in-the-loop-ai]]
+- [[learning-analytics]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
+
 ## Citation
 
 Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). [*AICoFE: AI-Powered Feedback System*](https://arxiv.org/abs/2605.04740)
-
-## Related Pages
-
-- [[automated-feedback]] — Broader landscape of AI-generated feedback in education
-- [[human-in-the-loop-ai]] — Architectures that keep human judgment central to AI workflows
-- [[ai-feedback-quality]] — Research on what makes AI-generated feedback effective
-- [[ai-peer-feedback-systems]] — AI systems that augment peer feedback processes
-- [[learning-analytics-dashboards]] — Visual interfaces for educational data and feedback
-- [[higher-ed]] — Institutional context for large-scale feedback challenges
-- [[formative-assessment]] — Assessment paradigms emphasizing learning over grading
-- [[ai-generated-feedback-higher-ed]] — AI feedback specifically in university contexts

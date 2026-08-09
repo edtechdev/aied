@@ -4,11 +4,11 @@ created: 2026-08-03
 updated: 2026-08-03
 type: article
 tags: [generative-ai, feedback-loop, student-experience, higher-ed, ai-literacy, engagement-metrics]
-sources: [raw/papers/tandf-2026-genai-teacher-feedback-comparison.md]
+sources: ['raw/papers/tandf-2026-genai-teacher-feedback-comparison.md']
 confidence: high
 ---
 
-# Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
+> **Michael Henderson, Margaret Bearman, Jennifer Chung, Tim Fawns, Simon Buckingham Shum, Kelly E. Matthews & Jimena de Mello Heredia (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 863–878. doi:10.1080/02602938.2025.2502582.
 
 **Michael Henderson, Margaret Bearman, Jennifer Chung, Tim Fawns, Simon Buckingham Shum, Kelly E. Matthews & Jimena de Mello Heredia (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 863–878. doi:10.1080/02602938.2025.2502582.
 
@@ -44,18 +44,39 @@ The two most frequent comparison themes were the nature of the feedback **inform
 - The "less risky" property makes GenAI feedback valuable for feedback seeking, especially for anxious students — complementing [[chatgpt-feedback-engagement-genai]]'s "calm, stress-free" affective finding — while teacher feedback retains contextual expertise and relational recognition.^[raw/papers/tandf-2026-genai-teacher-feedback-comparison.md]
 - Directly challenges replacement narratives: GenAI is an **additional source**, not a substitute for the teacher-learner relationship (cf. [[ai-generated-feedback-higher-ed]], which found equivalent *outcomes* under strong assessment architecture — outcomes and *perceptions* can diverge).
 
-## Related Pages
+## Connected Concepts
 
-- [[feedback-futures-genai]] — Editorial synthesis; this study anchors the usefulness–trust–uptake tension
-- [[chatgpt-feedback-engagement-genai]] — Deep engagement study: trust split, affective calm, uptake rates
-- [[learner-centered-feedback-ai]] — Teacher-side interaction with AI feedback tools
-- [[ai-generated-feedback-higher-ed]] — Randomised equivalence study: AI vs teacher feedback outcomes
-- [[ai-feedback-quality]] — Quality and validity of AI-generated feedback
-- [[feedback-loop]] — Feedback as process, not information
-- [[student-experience]] — Student perceptions and affective responses
-- [[ai-literacy]] — The evaluative-judgement capacities students need
-- [[higher-ed]] — Deployment context (four Australian universities)
-- [[repeated-ai-writing-feedback-semester]] — Semester-long student evaluation of repeated GenAI writing feedback
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...
+- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
+- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers' practices and perceptions
+- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 
 ## Citation
 

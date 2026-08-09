@@ -3,12 +3,12 @@ title: A Framework for Institutional Change in the Age of AI
 created: 2026-05-14
 updated: 2026-05-14
 type: article
-tags: [ai-education, institutional-change, faculty-development, higher-ed, pedagogy, stem-education]
-sources: [raw/papers/2605.12757.md]
+tags: [ai-education, institutional-change, faculty-development, higher-ed, pedagogy, stem-education, agentic-ai-ecosystems-higher-education, faculty-development-genai, scaffolding, student-experience]
+sources: ['raw/papers/2605.12757.md']
 confidence: high
 ---
-> Perl-Nussbaum & Finkelstein (2026) adapt institutional-change models to generative AI as an **arrival technology** — one that entered classrooms before pedagogical evidence existed — yielding a six-dimension framework and design implications for leading change under uncertainty ([[faculty-development]], [[higher-ed]], [[policy-maker]]).
 
+> Perl-Nussbaum & Finkelstein (2026) adapt institutional-change models to generative AI as an **arrival technology** — one that entered classrooms before pedagogical evidence existed — yielding a six-dimension framework and design implications for leading change under uncertainty ([[faculty-development]], [[higher-ed]], [[policy-maker]]).
 
 # Institutional Change Framework for AI
 
@@ -65,24 +65,44 @@ The framework was piloted through a faculty workshop series in a university phys
 - How do different institutional types (research universities, community colleges, liberal arts) shape framework application?
 - Can the framework be operationalized into assessment tools for institutional readiness?
 
+## Connected Concepts
+
+- [[agentic-ai-ecosystems-higher-education]]
+- [[ai-literacy]]
+- [[faculty-development-genai]]
+- [[higher-ed]]
+- [[scaffolding]]
+- [[student-experience]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+- [[ethical-ai-higher-ed-game-theory]] — Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking
+- [[principled-ai-education]] — Principled AI in Education
+- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+
 ## Citation
 
 (, A.D.P.N.D.F., (cs.CY), S.P.E.C.A.S., 4.0, L.C.B., approaches, D.A.T.A.D.M.E.C.I., research, I.A.R.B.W.E.T.A.F.V., transferred, I.A.T.A.S.M.C.B.C.A., months, A.R.A.C.A.W.M.C.S.W., & interventions, I.A.R.T.S.B. (2026). [*A Framework for Institutional Change in the Age of AI*](https://arxiv.org/abs/2605.12757)
-
-## Related Pages
-- [[ethical-ai-higher-ed-game-theory]] — 3 of 8 papers in May 28 scan
-- [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)
-- [[ai-pedagogical-orientation]] — AI pedagogical orientation drives faculty AI adoption more than institutional factors
-- [[agentic-ai-ecosystems-higher-education]] — Agentic AI as driver of institutional transformation
-- [[universities-ai-era-rethinking]]
-- [[faculty-development-genai]]
-- [[principled-ai-education]]
-- [[higher-ed]]
-- [[stem-education]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[scaffolding]]
-- [[pedagogy-ai-mistakes]]
-- [[ai-education-global-capacity]]
-- [[change-management]]

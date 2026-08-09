@@ -3,12 +3,12 @@ title: Collaborative AI Tutoring
 created: 2026-05-07
 updated: 2026-05-07
 type: article
-tags: [intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formative-assessment, learning-analytics]
+tags: [intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formative-assessment, learning-analytics, zone-of-proximal-development, affective-tutoring, adaptive-learning-systems, metacognition]
+sources: ['raw/papers/golrang-propact-pair-programming-2026.md']
 confidence: medium
-sources: [raw/papers/golrang-propact-pair-programming-2026.md]
 ---
 
-# Collaborative AI Tutoring
+> ProPACT constructs a real-time model of pair collaboration using three signals:
 
 > Most adaptive learning systems are individual-centric and reactive. **ProPACT** treats **collaboration itself as the object of instruction**, intervening *before* dyadic breakdowns occur by forecasting suboptimal states up to 30 seconds in advance.^[[golrang-propact-pair-programming-2026]]
 
@@ -64,31 +64,43 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 - **For adaptive systems:** The "tutoring" unit need not be an individual—collaboration itself can be scaffolded
 - **For transfer:** Does improved dyadic regulation transfer to unsupervised pair work? Not yet tested
 
+## Connected Concepts
+
+- [[adaptive-learning-systems]]
+- [[affective-tutoring]]
+- [[ai-literacy]]
+- [[metacognition]]
+- [[socratic-ai-dialogue]]
+- [[zone-of-proximal-development]]
+
+## Connected Articles
+
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[authentic-assessment]] — Authentic Assessment
+- [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
+- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[golrang-propact-pair-programming-2026]] — ProPACT: Pair Programming with AI
+- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation...
+- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+- [[programming-its]] — Programming Intelligent Tutoring Systems
+- [[student-perception-ai-use-collaboration]] — Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance
+- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+
 ## Citation
 
 Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |, S.D.M., & |, I.F.T.T.C.F. (2026). [*Collaborative AI Tutoring*](https://arxiv.org/abs/2605.02703)
-
-## Related Pages
-- [[engagement-forecasting-its]] — Feature-based engagement forecasting reduces MAE 22-33% vs heuristics; effort dr
-- [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
-- [[ai-agents-peer-learning-discourse]] — AI agent communities exhibit peer-learning-like discourse patterns
-- [[multi-agent-llm-social-learning]] — Multi-agent LLMs enable collaborative learning with both AI tutor and AI peers
-- [[genai-meta-analysis-programming-learning]] — Meta-analytic context for individual ProPACT and tutoring studies
-- [[ai-tutor-behavioral-evaluation]] — behavioral evaluation axis for AI tutors — measuring what students actually do with feedback
-- [[multimodal-learning-genai]] — Collaboration as one of six engagement types; group-level cyber-social partnership
-- [[ai-literacy]] — Collaborative learning with AI partners
-- [[ai-tutor-effectiveness-review]] — Dyadic regulation as effectiveness factor
-- [[socratic-ai-dialogue]] — Socratic dialogue in dyadic and group settings
-- [[affective-tutoring]] — Group-level affect and joint emotional states
-- [[authentic-assessment]] — Social collaboration and real-time assessment in dyadic contexts
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose AI design
-- [[ai-k12-evidence-base]] — Broader evidence landscape
-- [[adaptive-learning-systems]] — Real-time cognitive-load calibration of dyadic scaffolds
-- [[zone-of-proximal-development]] — *(create when second source emerges)*
-
-- [[programming-its]] — SCRIPT for Python vs. ProPACT for pair programming
-
-- [[agentic-education-coding]] — Agentic vs. collaborative tutoring approaches
-- [[student-perception-ai-use-collaboration]] -- Misalignment in partners' beliefs about each other's AI use early in a project predicts lower final scores — especially for low-performing teams — and face-to-face sessions don't fix it.
-- [[icap-cognitive-engagement-llm-agents]]
-- [[oecd-digital-education-outlook-2026]]

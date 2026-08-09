@@ -3,12 +3,12 @@ title: Multi-Agent Systems for Instructional Design
 created: 2026-05-08
 updated: 2026-05-08
 type: article
-tags: [agentic-ai, ai-literacy, human-in-the-loop, k-12, pedagogical-safety]
-sources: [raw/papers/2508.16659.md]
+tags: [agentic-ai, ai-literacy, human-in-the-loop, k-12, pedagogical-safety, agentic-ai-ecosystems-higher-education, human-in-the-loop-ai, faculty-development-genai, metacognition]
+sources: ['raw/papers/2508.16659.md']
 confidence: high
 ---
 
-# Multi-Agent Systems for Instructional Design
+> **Wang et al. (2025)** address a critical problem: **60% of K-12 teachers** now use AI for teaching tasks, but most lack the expertise to prompt effectively for high-quality instructional materials.
 
 > Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators.
 
@@ -101,18 +101,43 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 - **Quality ≠ rubric scores:** Teachers' qualitative preferences didn't always match statistical significance
 - **KLI as design principle:** Learning sciences frameworks can be operationalized in AI architectures
 
+## Connected Concepts
+
+- [[agentic-ai-ecosystems-higher-education]]
+- [[ai-literacy]]
+- [[faculty-development-genai]]
+- [[formative-assessment]]
+- [[human-in-the-loop-ai]]
+- [[metacognition]]
+
+## Connected Articles
+
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
+- [[principled-ai-education]] — Principled AI in Education
+- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
+
 ## Citation
 
 John, A.W.J.X.R.H.X.S. (2026). [*Multi-Agent Systems for Instructional Design*](https://arxiv.org/abs/2508.16659)
-
-## Related Pages
-- [[agentic-ai-ecosystems-higher-education]] — Multi-agent AI coordination for instructional design
-- [[agentic-workflows-education]] — Multi-agent collaboration and discussion paradigms
-- [[principled-ai-education]] — Framework for applying learning sciences to AI
-- [[human-in-the-loop-ai]] — Teacher evaluation and feedback on AI-generated materials
-- [[ai-literacy]] — Helping educators use AI tools effectively
-- [[faculty-development-genai]] — K-12 teachers' AI adoption patterns
-- [[formative-assessment]] — Assessment design in learning activities
-- [[metacognition]] — Learning processes: memory, induction, understanding
-- [[teachbench-llm-teaching-evaluation]] — Complementary: teaching ability vs. material design
-- [[lecturaagents-multi-agent-teaching]] — LecturaAgents

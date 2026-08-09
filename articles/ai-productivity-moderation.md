@@ -1,12 +1,14 @@
 ---
-title: 'Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost'
+title: "Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost"
 created: 2026-05-26
 updated: 2026-05-26
 type: article
-tags: [generative-ai, efficacy-study, teacher-role, higher-ed, policy-maker]
-sources: [raw/papers/2605.24688.md]
+tags: [generative-ai, efficacy-study, teacher-role, higher-ed, policy-maker, persistent-ai-agents-academic-research]
+sources: ['raw/papers/2605.24688.md']
 confidence: high
 ---
+
+> **Cho, Kim & Kim (2026)** — Accepted at ICML 2026 (position paper).
 
 # AI Productivity Moderation Factors
 
@@ -28,15 +30,40 @@ The incentives factor connects to concerns in [[academic-integrity]] — if stud
 
 For [[higher-ed]] institutions investing in AI infrastructure, this paper serves as a cautionary reminder that deployment without attention to training, incentives, and organizational readiness may fall short of promised gains — a finding consistent with [[ai-fatigue-academic-contexts|research on AI fatigue]] among students.
 
-## Related Pages
-- [[ai-assisted-writing-research-teams]] — 6 of 8 papers in May 28 scan
-- [[persistent-ai-agents-academic-research]] — empirical evidence that AI productivity requires active human involvement
-- [[cognitive-offloading-speedup-illusion]] — Speedup illusion and miscalibration
-- [[teacher-role]] — Teacher roles with AI
-- [[academic-integrity]] — Academic integrity and AI
-- [[genai-assessment-governance]] — GenAI assessment governance
-- [[ai-fatigue-academic-contexts]] — AI fatigue dimensions
-- [[generative-ai]] — Generative AI in education
+## Connected Concepts
+
+- [[generative-ai]]
+- [[higher-ed]]
+- [[persistent-ai-agents-academic-research]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
+- [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
+- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
+- [[genai-assessment-governance]] — Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
 
 ## Citation
 

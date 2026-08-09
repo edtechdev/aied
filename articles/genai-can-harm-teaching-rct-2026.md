@@ -3,12 +3,12 @@ title: Generative AI Can Harm Teaching
 created: 2026-08-03
 updated: 2026-08-03
 type: article
-tags: [faculty-development, teacher-role, generative-ai, k-12, student-experience, cognitive-offloading, over-reliance, rct]
-sources: [raw/papers/genai-can-harm-teaching-rct-2026.md]
+tags: [faculty-development, teacher-role, generative-ai, k-12, student-experience, cognitive-offloading, over-reliance, rct, teacher-ai-competency, rag]
+sources: ['raw/papers/genai-can-harm-teaching-rct-2026.md']
 confidence: high
 ---
 
-# Generative AI Can Harm Teaching
+> The null average performance effect masks strong offsetting heterogeneity — and the exam had severe ceiling compression (control mean 89.2/100, 47% ≥ 95), which also limits power. The belief reversal is striking: it contradicts "familiarity breeds acceptance" and suggests an arc from initial awe at AI's instant responses to awareness of its unintended effects.
 
 > Sungu, Lira & Duckworth (2026) ran one of the first large-scale RCTs of a teacher-facing generative AI tool and found it can *harm* students: providing teachers an AI teaching assistant **reduced student intrinsic motivation by 0.11 SD** and — among lower-performing teachers — **cut student achievement by 0.13 SD**. The pattern is a **principal–agent problem**: teachers (agents) gain labor savings from AI delegation while students (principals) bear the cost of displaced relational teaching and scaffolding.
 
@@ -35,27 +35,42 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - **Shallow use: median 2 prompts, mean 4.7 messages** per session — teachers accepted outputs with minimal iteration
 - Interpretation: **task delegation, not pedagogical collaboration** — the tool was a generator of finished artifacts rather than an iterative partner, limiting the pedagogical reflection that separates augmentation from substitution
 
-## Connections to the wiki
+## Connected Concepts
 
-- Direct causal evidence for the [[cognitive-offloading]] concern applied to *teachers* rather than students, and for [[over-reliance]] at the instructor level
-- A counterweight to [[faculty-development]] narratives that AI support tools straightforwardly improve teaching — effectiveness depends on how the tool is used ([[teacher-ai-competency]])
-- The motivational harm connects to [[student-experience]] and the relational critiques in [[care-full-feedback-genai]] (feedback as "matters of care" is displaced when AI mediates material production)
-- Skill-substitution channel mirrors the [[genai-expertise-pathways-sysadmin]] finding that GenAI compresses expertise pathways and resets performance expectations
-- Complements the design-not-detection agenda of [[beyond-detection-authentic-assessment-ai-2025]]: teacher-facing AI needs the same design scrutiny as assessment-facing AI
+- [[generative-ai]]
+- [[k-12]]
+- [[student-experience]]
+- [[teacher-ai-competency]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+- [[genai-expertise-pathways-sysadmin]] — Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
 
 ## Citation
 
 Sungu, Lira & Duckworth (2026). [*Generative AI Can Harm Teaching*](https://ssrn.com/abstract=7007339)
-
-## Related Pages
-- [[faculty-development]] — teacher-facing AI adoption and its unintended effects
-- [[teacher-ai-competency]] — what teachers need to use AI as augmentation, not substitution
-- [[cognitive-offloading]] — the mechanism behind degraded pedagogical reasoning
-- [[over-reliance]] — shallow, accept-output AI use
-- [[student-experience]] — motivational and confidence harm to students
-- [[generative-ai]] — teacher-side deployment effects
-- [[k-12]] — K-12 context of the field experiment
-- [[genai-expertise-pathways-sysadmin]] — parallel expertise-compression finding
-- [[care-full-feedback-genai]] — relational teaching displaced by AI mediation
-- [[teacher-role]] — principal–agent tension in AI-assisted teaching
-- [[oecd-digital-education-outlook-2026]]

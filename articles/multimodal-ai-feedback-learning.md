@@ -1,12 +1,14 @@
 ---
-title: "LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback"
+title: LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
 created: 2026-05-11
 updated: 2026-05-11
 type: article
-tags: [multimodal, feedback-loop, generative-ai, llm, student-experience, learning-analytics]
-sources: [raw/papers/2601.15280.md]
+tags: [multimodal, feedback-loop, generative-ai, llm, student-experience, learning-analytics, automated-grading, human-in-the-loop-ai, formative-assessment, rag]
+sources: ['raw/papers/2601.15280.md']
 confidence: high
 ---
+
+> **Zhao, Cao, Lin & Koedinger (2026)** — CMU, UNC, U Hong Kong. Accepted to LAK 2026. Online crowdsourcing experiment.
 
 # Multimodal AI Feedback vs. Educator Feedback
 
@@ -62,19 +64,6 @@ This is a strong result for AI feedback systems:
 - **Scalability**: The system can provide real-time, context-aware support without instructor availability constraints
 - **Question-type effects**: The engagement pattern differences suggest adaptive strategies — AI may be better for open-ended work while human-like interaction helps for multiple-choice
 
-## Connection to the Wiki
-
-This paper provides direct empirical evidence for several wiki threads:
-
-- **[[sequenced-ai-feedback-learning]]**: Cao et al. found sequenced feedback harmed learning — Zhao et al. show that direct AI feedback (not sequenced) can match educators. Together, these papers clarify *how* to structure AI feedback effectively.
-- **[[multimodal-ai-tutoring]]**: Direct companion — multimodal errors and dialogue corrections in tutoring, while Zhao et al. focus on multimodal feedback delivery
-- **[[multimodal-learning-genai]]**: The MMLD-AI unifying model for multimodal teaching/learning — Zhao et al.'s system is a concrete implementation
-- **[[formative-assessment]]**: AI-generated multimodal feedback as a scalable formative assessment tool
-- **[[ai-peer-feedback-systems]]**: Multi-LLM collaborative feedback — Zhao et al. add the multimodal dimension
-- **[[ai-tutor-effectiveness-review]]**: Empirical evidence for AI feedback effectiveness, contributing to the mixed evidence base
-- **[[automated-grading]]**: Feedback quality is downstream of grading accuracy — multimodal delivery may improve feedback without changing the grade
-- **[[engagement-assessment-video]]**: Multimodal engagement tracking connects to multimodal feedback delivery
-
 ## Methodological Notes
 
 - Online crowdsourcing experiment — participants recruited via a platform, not classroom students
@@ -88,14 +77,40 @@ This paper provides direct empirical evidence for several wiki threads:
 - How does each modality (text vs. slides vs. audio) contribute to the overall effect?
 - Can multimodal AI feedback reduce the negative behavioral pathway identified in sequenced feedback studies (fewer resubmissions)?
 
-## Related Pages
+## Connected Concepts
 
-- [[affective-text-wearable-student-health]] — Emotional register signals in student language predict learning-relevant outcomes
-- [[feedback-loop]] — AI feedback loops and their impact on learning
-- [[collaborative-ai-tutoring]] — Proactive AI tutoring with real-time support
-- [[ai-learning-transfer]] — Do gains from AI feedback persist when the system is removed?
-- [[human-in-the-loop-ai]] — The role of human judgment alongside AI feedback delivery
-- [[llm-student-modeling-memory]] — Student modeling for personalized multimodal feedback
+- [[automated-grading]]
+- [[formative-assessment]]
+- [[human-in-the-loop-ai]]
+
+## Connected Articles
+
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
+- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+
 ## Citation
 
 Zhao, C. Q., Cao, J., Lin, J., & Koedinger, K. R. (2026). [LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback](https://arxiv.org/abs/2601.15280). arXiv:2601.15280. Accepted to LAK 2026.

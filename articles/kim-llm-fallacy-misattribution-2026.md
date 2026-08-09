@@ -3,8 +3,8 @@ title: LLM Fallacy Misattribution in Education
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [llm, misinformation, ai-literacy]
-sources: [raw/papers/kim-llm-fallacy-misattribution-2026.md]
+tags: [llm, misinformation, ai-literacy, ai-assistance-reduces-persistence, cognitive-load-theory, cognitive-offloading-llm-synthesis-writing, assessment-validity]
+sources: ['raw/papers/kim-llm-fallacy-misattribution-2026.md']
 confidence: medium
 ---
 
@@ -34,19 +34,42 @@ For AI literacy efforts, the LLM Fallacy suggests a new dimension beyond the typ
 
 The long-term institutional risk is credential inflation: if degrees and certificates increasingly signal AI-output-production ability rather than independently grounded competence, the signaling value of educational credentials erodes. This is not a theoretical concern — it is the direct implication of the LLM Fallacy playing out at scale across cohorts of students using AI tools without attribution-aware pedagogy.
 
+## Connected Concepts
+
+- [[ai-assistance-reduces-persistence]]
+- [[ai-literacy]]
+- [[assessment-validity]]
+- [[cognitive-load-theory]]
+- [[cognitive-offloading-llm-synthesis-writing]]
+
+## Connected Articles
+
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
+- [[authentic-assessment]] — Authentic Assessment
+- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
+- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
+- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
+
 ## Citation
 
 Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). [*LLM Fallacy Misattribution in Education*](https://arxiv.org/abs/2604.14807)
-
-## Related Pages
-
-- [[cognitive-offloading-llm-synthesis-writing]] — How LLMs change the cognitive division of labor in writing
-- [[cognitive-offloading-speedup-illusion]] — The subjective sense of speed vs. objective performance under AI assistance
-- [[efficiency-gain-illusion-ai-overreliance]] — Overreliance masquerading as productivity gain
-- [[assessment-validity]] — The threat to assessment validity when AI mediation is invisible
-- [[ai-literacy]] — Foundational AI literacy frameworks and competencies
-- [[agentic-literacy-debt]] — The accumulated cost of unexamined AI delegation
-- [[ai-assistance-reduces-persistence]] — Evidence that AI assistance can reduce independent effort
-- [[cognitive-load-theory]] — Theoretical framework for understanding cognitive outsourcing
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Attribution challenges in AI co-production
-- [[ai-partner-science-epistemic-vigilance]] — Calibrating trust in AI as an epistemic partner

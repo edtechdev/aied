@@ -3,12 +3,12 @@ title: AI Tutor Safety and Pedagogical Harms
 created: 2026-05-07
 updated: 2026-05-07
 type: article
-tags: [pedagogical-safety, intelligent-tutoring, adaptive-learning, k-12, higher-ed, llm, bias-mitigation]
+tags: [pedagogical-safety, intelligent-tutoring, adaptive-learning, k-12, higher-ed, llm, bias-mitigation, pedagogical-llm-training, self-regulated-learning, faculty-development-genai]
+sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
 confidence: high
-sources: [raw/papers/hazra-safetutors-pedagogical-safety-2026.md]
 ---
 
-# AI Tutor Safety and Pedagogical Harms
+> Conventional LLM safety benchmarks focus on toxic outputs, jailbreaks, and bias. In education, the primary risks are quieter:
 
 > "Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different." SafeTutors exposes that **all tested models show broad pedagogical harm**, with failures escalating from **17.7% in single-turn to 77.8% in multi-turn** student-tutor dialogue.^[[hazra-safetutors-pedagogical-safety-2026]]
 
@@ -63,45 +63,44 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - **Design:** Guardrails must target pedagogical failure modes (over-disclosure, misconception reinforcement) not just content correctness
 - **Policy:** Procurement criteria for educational AI should include pedagogical safety audits alongside accuracy metrics
 
+## Connected Concepts
+
+- [[affective-tutoring]]
+- [[ai-literacy]]
+- [[faculty-development-genai]]
+- [[metacognition]]
+- [[pedagogical-llm-training]]
+- [[self-regulated-learning]]
+- [[socratic-ai-dialogue]]
+
+## Connected Articles
+
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
+- [[ai-pedagogical-accompaniment-amico]] — Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mo...
+- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
+- [[authentic-assessment]] — Authentic Assessment
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
+- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
+- [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
+- [[genai-assessment-governance]] — Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment
+- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
+- [[llm-children-reading-story-generation]] — Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty a...
+- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
+- [[paternalistic-filter-llm-history-education]] — The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginal...
+
 ## Citation
 
 acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). [*AI Tutor Safety and Pedagogical Harms*](https://arxiv.org/abs/2603.17373)
-
-## Related Pages
-- [[xai-education-framework]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-pedagogical-accompaniment-amico]]
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
-- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-- [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
-- [[prompt-injection-defenses-educational-llm-tutors]] — Prompt injection as a safety threat to educational LLMs
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy identified as educational safety risk
-- [[llm-educational-simulation-adhd]] — Questions whether safety testing on simulations generalizes to real students
-- [[brookings-ai-students-report]] — Brookings global report: AI risks overshadow benefits for students; 12 recommendations
-- [[ai-learning-companions-framework]] — three-foundation framework for AI learning companions prioritizing durable learning over performance
-- [[multimodal-learning-genai]] — Environmental costs and knowledge costs as expanded harm dimensions
-- [[ai-literacy]] — Student recognition of pedagogical harms as protective literacy
-- [[principled-ai-education]] — Augment-not-displace as harm prevention principle
-- [[faculty-development-genai]] — Institutional neglect of safety in rapid adoption
-- [[ai-tutor-effectiveness-review]] — Mixed real-world effectiveness as safety signal
-- [[socratic-ai-dialogue]] — Socratic dependency as a long-term pedagogical harm
-- [[affective-tutoring]] — Emotional risks and parasocial dependency as harm dimensions
-- [[authentic-assessment]] — Performative reflection and displaced metacognition as pedagogical harms
-- [[tutoring-specific-vs-general-ai]] — Pedagogical design vs. general-purpose helpfulness
-- [[metacognition]] — Metacognitive suppression mechanisms
-- [[self-regulated-learning]] — Motivation and regulatory erosion
-- [[ai-learning-transfer]] — How pedagogical harms undermine durable learning
-- [[llm-fallacy-misattribution]] — Self-perceptual distortions enabled by fluent AI output
-- [[pedagogical-llm-training]] — Training methods that align models with tutoring safety principles
-- [[educational-llm-alignment]] — Misalignment between benchmark scores and teaching quality
-- [[educational-vlm-evaluation]] — VLM failures on pedagogical tasks
-- [[agentic-workflows-education]] — Interpretability/trustworthiness challenges in multi-agent systems
-- [[neural-symbolic-knowledge-tracing]] — Interpretable models enable safety auditing
-- [[pedagogical-safety-rl]] — Four-layer safety framework complements SafeTutors taxonomy
-- [[aied-carbon-footprint-reporting]] — Environmental cost of LLMs in AIED as an ethical imperative
-- [[shame-guilt-ai-regulation-computing-education]] -- Shame and guilt create cycles of hiding and moral tension around AI use in computing education
-- [[paternalistic-filter-llm-history-education]] — Catalogue of tutor harms (2026-07-14)
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard's verification + overreliance-control modules operationalise the safety-harms taxonomy for programming tutors.
-- [[vetting-dual-llm-safety-education]]
-- [[llm-children-reading-story-generation]] — Safety guarantees in children's reading generation- [[genai-assessment-governance]] — Governance framework provides structured decisions about when AI use is appropriate
-- [[eduzone-llm-safety-k12]] — EduZone: an evaluation framework for LLM safety in K-12 education
