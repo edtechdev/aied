@@ -9,11 +9,6 @@ confidence: medium
 
 > **Psychometrically aware AI** — models aligned with measurement theory — is the standard advanced in [[llm-psychometric-calibration-cdp]], [[llm-item-difficulty-prediction]], [[confidence-aware-ai-assessment]], and [[item-response-theory]]: calibrated, uncertainty-aware AI assessment preserves validity and trust ([[educational-measurement]], [[assessment-validity]]).
 
-- [[assessment-validity]]
-- [[confidence-aware-ai-assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
-
 ## Connected Concepts
 
 - [[assessment-validity]]

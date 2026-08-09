@@ -9,22 +9,6 @@ confidence: medium
 
 > **Stub:** Prompting literacy is the ability to craft effective natural-language prompts to communicate with AI chatbots for learning — encompassing what AI can do to support learning, when to use AI effectively, and how to structure prompts for different types of assistance.
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

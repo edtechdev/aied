@@ -9,22 +9,6 @@ confidence: medium
 
 > **NLP in education** — computational analysis of learner language — underpins [[aiawe-automated-writing-evaluation]], [[llm-item-difficulty-prediction]], [[short-answer-scoring-quality-degradation]], and [[automated-grading]]: from essay scoring to misconception detection, NLP pipelines convert student text into assessment signal ([[educational-nlp]], [[educational-measurement]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[automated-grading]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

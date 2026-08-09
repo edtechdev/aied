@@ -9,22 +9,6 @@ confidence: medium
 
 > **Stub:** "Gaming the system" refers to behaviors where students exploit system features to progress without engaging in intended cognitive work, widely documented in intelligent tutoring systems with 10-40% of students engaging at least intermittently.
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

@@ -9,22 +9,6 @@ confidence: medium
 
 > **Ethics** of educational AI is examined across [[ethical-ai-higher-ed-game-theory]], [[ai-ethics-education-public-discourse]], [[child-safety-genai]], and [[sycophantic-ai-social-interaction-2026]]: ethical analysis spans harm, autonomy, privacy, and the relational effects of AI on learners ([[pedagogical-safety]], [[bias-mitigation]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[andragogy]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

@@ -9,8 +9,6 @@ confidence: medium
 
 > **Ground-truth reliability** in AIED evaluation asks whether the human labels used to judge AI are themselves trustworthy: [[ground-truth-reliability-aied]], [[vetting-dual-llm-safety-education]], and [[data-annotations-pedagogical-hints]] show expert disagreement and noisy annotations that can mislead benchmark conclusions ([[ai-ed-evaluation]], [[benchmark]]).
 
-- [[ai-ed-evaluation]]
-
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]

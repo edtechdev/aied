@@ -9,22 +9,6 @@ confidence: medium
 
 > **Generative AI** — LLMs and multimodal models — is the wiki's central technology subject, spanning [[chatgpt-feedback-engagement-genai]], [[genai-performance-vs-learning]], [[genai-policies-higher-ed-computing]], and [[structrag-diagram-reasoning-ai-tutoring]]: the corpus converges on capability being real but pedagogical framing deciding outcomes ([[llm]], [[ai-literacy]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]
