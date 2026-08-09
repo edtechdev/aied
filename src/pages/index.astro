@@ -2,40 +2,50 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 
+const articles = await getCollection('articles');
 const concepts = await getCollection('concepts');
-const conceptPages = concepts.filter(c => c.data.type === 'concept');
 
-// Build tag cloud
+// === Articles: recently added ===
+const articlesByDate: Record<string, typeof articles> = {};
+articles.forEach(a => {
+  const d = a.data.created.split('T')[0];
+  (articlesByDate[d] ||= []).push(a);
+});
+const articleDates = Object.keys(articlesByDate).sort().reverse().slice(0, 10);
+
+// === Concepts: recently updated ===
+const conceptsSorted = concepts
+  .filter(c => c.data.updated || c.data.created)
+  .sort((a, b) => {
+    const aDate = a.data.updated || a.data.created;
+    const bDate = b.data.updated || b.data.created;
+    return bDate.localeCompare(aDate);
+  })
+  .slice(0, 15);
+
+// === Tag cloud from articles ===
 const tagCounts: Record<string, number> = {};
-conceptPages.forEach(c => {
-  (c.data.tags || []).forEach(tag => {
+articles.forEach(a => {
+  (a.data.tags || []).forEach(tag => {
     tagCounts[tag] = (tagCounts[tag] || 0) + 1;
   });
 });
 const topTags = Object.entries(tagCounts)
   .sort((a, b) => b[1] - a[1])
-  .slice(0, 50);
+  .slice(0, 40);
 
-// Group by created date for journal
-const byDate: Record<string, typeof conceptPages> = {};
-conceptPages.forEach(c => {
-  const d = c.data.created.split('T')[0];
-  (byDate[d] ||= []).push(c);
-});
-const dates = Object.keys(byDate).sort().reverse().slice(0, 14);
-
-// RSS feed
+// === RSS ===
 import rss from '@astrojs/rss';
 export const GET = () => {
-  const items = conceptPages
-    .filter(c => c.data.sources?.length > 0)
+  const items = articles
+    .filter(a => (a.data.sources || []).length > 0)
     .sort((a, b) => b.data.created.localeCompare(a.data.created))
     .slice(0, 40)
-    .map(c => ({
-      title: c.data.title,
-      link: `/aied/pages/${c.id.replace('.md', '')}`,
-      pubDate: new Date(c.data.created),
-      description: c.body?.split('\n').slice(0, 5).join(' ')?.slice(0, 400) || '',
+    .map(a => ({
+      title: a.data.title,
+      link: `/aied/articles/${a.id.replace('.md', '')}`,
+      pubDate: new Date(a.data.created),
+      description: a.body?.split('\n').slice(0, 5).join(' ')?.slice(0, 400) || '',
     }));
   return rss({
     title: 'AI Ed Wiki',
@@ -49,25 +59,26 @@ export const GET = () => {
 
 <BaseLayout title="Home">
   <div class="search-bar">
-    <input type="text" id="home-search" placeholder="Search 660+ articles on AI in education..." 
+    <input type="text" id="home-search" placeholder={`Search ${articles.length + concepts.length} articles & concepts on AI in education...`}
            autocomplete="off"
            onkeyup="if(event.key==='Enter'){window.location='/aied/search?q='+encodeURIComponent(this.value)}" />
   </div>
 
-  <section>
-    <h2>📋 Recent Additions</h2>
-    {dates.slice(0, 7).map(date => (
-      <details class="journal-day" open={date === dates[0]} style="margin-bottom:0.75rem;border:1px solid var(--card-border-color);border-radius:8px;padding:0.75rem 1rem;">
+  <!-- === Recently Added Articles === -->
+  <section style="margin-bottom:2.5rem;">
+    <h2>📄 Recently Added Articles <span style="font-size:0.8rem;color:var(--muted-color);font-weight:normal;">({articles.length} total)</span></h2>
+    {articleDates.slice(0, 7).map(date => (
+      <details class="journal-day" open={date === articleDates[0]} style="margin-bottom:0.75rem;border:1px solid var(--card-border-color);border-radius:8px;padding:0.75rem 1rem;">
         <summary style="cursor:pointer;font-weight:bold;color:var(--primary);">
-          {date} — {byDate[date].length} new page{byDate[date].length !== 1 ? 's' : ''}
+          {date} — {articlesByDate[date].length} new article{articlesByDate[date].length !== 1 ? 's' : ''}
         </summary>
-        {byDate[date].map(c => (
+        {articlesByDate[date].map(a => (
           <div class="journal-entry" style="padding:0.4rem 0 0.4rem 1.2rem;border-left:2px solid var(--primary);margin:0.3rem 0;">
-            <a href={`/aied/pages/${c.id.replace('.md', '')}`} style="font-weight:500;">
-              {c.data.title}
+            <a href={`/aied/articles/${a.id.replace('.md', '')}`} style="font-weight:500;">
+              {a.data.title}
             </a>
             <div style="font-size:0.72rem;color:var(--muted-color);margin-top:0.2rem;">
-              {(c.data.tags || []).slice(0, 6).map(tag => (
+              {(a.data.tags || []).slice(0, 6).map(tag => (
                 <a href={`/aied/tags/${tag}`} class="tag-chip" style="font-size:0.68rem;padding:0.05rem 0.4rem;">{tag}</a>
               ))}
             </div>
@@ -75,16 +86,49 @@ export const GET = () => {
         ))}
       </details>
     ))}
-    <p style="margin-top:1rem;"><a href="/aied/journal">View all journal entries →</a></p>
+    <p style="margin-top:0.5rem;"><a href="/aied/journal">View all articles →</a></p>
   </section>
 
   <hr style="margin:2rem 0" />
 
+  <!-- === Recently Updated Concepts === -->
+  <section style="margin-bottom:2.5rem;">
+    <h2>🏷️ Recently Updated Concepts <span style="font-size:0.8rem;color:var(--muted-color);font-weight:normal;">({concepts.length} total)</span></h2>
+    <div>
+      {conceptsSorted.map(c => {
+        const excerpt = (c.body || '')
+          .split('\n')
+          .filter(l => l.trim() && !l.startsWith('#') && !l.startsWith('>') && !l.startsWith('|'))
+          .slice(0, 2).join(' ').slice(0, 180);
+        return (
+          <div class="page-item">
+            <a href={`/aied/concepts/${c.id.replace('.md', '')}`} style="font-weight:500;">
+              {c.data.title}
+            </a>
+            {excerpt && (
+              <div style="font-size:0.8rem;color:var(--muted-color);margin-top:0.15rem;line-height:1.4;">
+                {excerpt}{excerpt.length >= 180 ? '...' : ''}
+              </div>
+            )}
+            <div style="font-size:0.75rem;color:var(--muted-color);">
+              {c.data.updated || c.data.created} · {(c.data.tags || []).slice(0, 4).map((t: string) => (
+                <a href={`/aied/tags/${t}`} class="tag-chip" style="font-size:0.65rem;padding:0.02rem 0.3rem;">{t}</a>
+              ))}
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <hr style="margin:2rem 0" />
+
+  <!-- === Popular Tags === -->
   <section>
-    <h2>🏷️ Popular Tags</h2>
+    <h2>🔖 Popular Tags</h2>
     <div style="line-height:2.2;margin-bottom:1rem;">
       {topTags.map(([tag, count]) => {
-        const size = 0.75 + (count / Math.max(...topTags.map(t => t[1]))) * 1.5;
+        const size = 0.75 + (count / Math.max(...topTags.map(t => t[1]))) * 1.3;
         return (
           <a href={`/aied/tags/${tag}`} class="tag-chip" style={`font-size:${size.toFixed(2)}rem`}>
             {tag} ({count})
@@ -92,6 +136,5 @@ export const GET = () => {
         );
       })}
     </div>
-    <p><a href="/aied/tags">All tags →</a></p>
   </section>
 </BaseLayout>

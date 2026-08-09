@@ -15,4 +15,5 @@ static-site/
 /pages/
 /tags/
 search_index.js
-search_index.json
+search_index.json.obsidian/
+.obsidian/
