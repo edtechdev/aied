@@ -5,11 +5,14 @@ updated: 2026-08-09
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
----
+---> **Socratic Method** — a key concept in AI in education research, explored across 5 articles in this wiki. 
 
-> **Stub:** Socratic Method — referenced by 7 pages (e.g., ai-agents-constructive-conflict-design-education-2026, ai-tutoring, genai-performance-vs-learning, hashmi-socratic-physics-chatbot-2025, socratic-ai). Needs synthesis from connected articles.
+Connected research includes:
+  - Investigates adversarial AI design agents that enact constructive conflict to prompt reconsideration in novice designers.
 
 ## Connected Concepts
 
 ## Connected Articles
+
+
 

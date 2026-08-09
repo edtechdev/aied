@@ -6,8 +6,12 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Critical Thinking** — a key concept in AI in education research. Explored across 3 articles in this wiki.
 
-> **Stub:** Critical Thinking — referenced by 3 pages (e.g., chatgpt-critical-creative-thinking-review, critical-thinking-genai-scaffolding, favero-critical-ai-tutors-empower-enslave-2025). Needs synthesis from connected articles.
+Research themes include:
+- **Authors:** Favero et al. · **Workshop:** AIED 2025 · **arXiv:** 2507.06878
+- The review draws on an integrated constellation of theories spanning cognitive, sociocultural, and technological dimensions:
+- The framework identifies six interconnected cognitive and metacognitive processes that must be deliberately supported in AI-enhanced learning environments:
 
 ## Connected Concepts
 

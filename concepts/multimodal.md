@@ -6,8 +6,11 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Multimodal** — a key concept in AI in education research. Explored across 3 articles in this wiki.
 
-> **Stub:** Multimodal — referenced by 7 pages (e.g., llm-cognitive-diagnosis-handwritten-math, multi-representational-tools, nuclear-diffusion-text-to-image-learning-2026, privacy-aware-classroom-incident-recognition-2026, slidesqaqa-pedagogical-question-generation). Needs synthesis from connected articles.
+Research themes include:
+- Systematic study of domain-adapted text-to-image models for nuclear engineering education. Fine-tunes Stable Diffusion on nuclear domain images; fine-tuned model achieves 78% domain accuracy vs 12% for base model. Proposes NuclearDiffusion as an educ
+- Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid benchmark combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong inci
 
 ## Connected Concepts
 

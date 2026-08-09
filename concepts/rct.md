@@ -6,8 +6,11 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **RCT** — a key concept in AI in education research. Explored across 2 articles in this wiki.
 
-> **Stub:** RCT — referenced by 2 pages (e.g., generative-ai-education-productivity-gaps, zerkouk-comprehensive-review-its-2025). Needs synthesis from connected articles.
+Research themes include:
+- In a  with 1,174 participants, Cruces et al. find that  substantially narrows education-based productivity gaps, closing approximately three-quarters of the initial performance differe
+- **Authors:** Zerkouk et al. · **Venue:** Journal of Computers in Education (2025) · **arXiv:** 2507.18882
 
 ## Connected Concepts
 

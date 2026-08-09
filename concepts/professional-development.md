@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Professional Development** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** Professional Development — referenced by 1 pages (e.g., skill-diversity-worker-resilience). Needs synthesis from connected articles.
+Research themes include:
+- Using LinkedIn data on 2.4 million U.S. workers and 16,753 distinct skills, this paper introduces three complementary measures of skill complexity — specialization, diversity, and the diversity frontier — and demonstrates that workers near the fronti
 
 ## Connected Concepts
 

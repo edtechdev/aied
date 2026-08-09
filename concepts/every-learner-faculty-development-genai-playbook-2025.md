@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Every Learner Faculty Development GenAI Playbook 2025 — referenced by 2 pages (e.g., faculty-development-genai, teacher-professional-development). Needs synthesis from connected articles.
+> **Every Learner Faculty Development GenAI Playbook 2025** — a key concept in AI in education research. 
 
 ## Connected Concepts
 

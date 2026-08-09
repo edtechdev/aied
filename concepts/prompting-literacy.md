@@ -6,8 +6,10 @@ type: concept
 tags: [prompting-literacy, ai-literacy, k-12, llm, higher-ed, generative-ai, student-experience, intelligent-tutoring, scaffolding, stem-education]
 confidence: medium
 ---
+> **Prompting Literacy** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** Prompting literacy is the ability to craft effective natural-language prompts to communicate with AI chatbots for learning — encompassing what AI can do to support learning, when to use AI effectively, and how to structure prompts for different types of assistance.
+Research themes include:
+- An LLM-based interactive module teaches K-12 students prompting literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module i
 
 ## Connected Concepts
 

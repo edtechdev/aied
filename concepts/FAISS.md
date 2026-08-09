@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **FAISS** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** FAISS — referenced by 1 pages (e.g., code-gen). Needs synthesis from connected articles.
+Research themes include:
+- ### Significance for  and 
 
 ## Connected Concepts
 

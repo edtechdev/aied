@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Change Management** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** Change Management — referenced by 1 pages (e.g., ai-pedagogical-orientation). Needs synthesis from connected articles.
+Research themes include:
+- These are not resolvable by more information or better tools — they require disciplinary conversation and pedagogical judgment.
 
 ## Connected Concepts
 

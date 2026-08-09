@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Dropout Reduction — referenced by 1 pages (e.g., at-risk-students-ml-prediction). Needs synthesis from connected articles.
+> **Dropout Reduction** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
 ## Connected Concepts
 

@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **LLM Math Tutoring** — a key concept in AI in education research. Explored across 2 articles in this wiki.
 
-> **Stub:** LLM Math Tutoring — referenced by 2 pages (e.g., kar-mathbuddy-affective-math-tutoring-2025, representation-robustness-llm-math-problem-solving). Needs synthesis from connected articles.
+Research themes include:
+- **Authors:** Kar et al. (ITU-NLP) · **Venue:** EMNLP 2025 Demo Track · **Code:** github.com/ITU-NLP/MathBuddy
 
 ## Connected Concepts
 

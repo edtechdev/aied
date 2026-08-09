@@ -6,8 +6,12 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Assessment** — a key concept in AI in education research. Explored across 8 articles in this wiki.
 
-> **Stub:** Assessment — referenced by 8 pages (e.g., ai-assessment-scale-reform, behaviorally-adaptive-visual-diversion-assessment-2026, genai-impact-chinese-students-hss, llm-item-difficulty-prediction, machines-misread-pedagogical-quality). Needs synthesis from connected articles.
+Research themes include:
+- # Reinforcement Learning Measurement Model for Interactive Assessment
+- # The Impact of GenAI on Chinese HSS Students' Academic Development
+- # Student Effort Measurement via Response-Time Propensities
 
 ## Connected Concepts
 
