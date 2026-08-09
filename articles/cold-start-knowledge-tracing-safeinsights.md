@@ -1,15 +1,15 @@
 ---
-title: Reshaping Undergraduate Computer Science Education in the Generative AI Era
+title: Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights
 created: 2026-06-10
 updated: 2026-06-10
-type: concept
-tags: [cs-education, generative-ai, curriculum-design, higher-ed, llm, student-experience, ai-literacy, scaffolding, intelligent-tutoring, stem-education]
+type: article
+tags: [knowledge-tracing, learning-analytics, student-modeling, benchmark, higher-ed, llm, generative-ai, student-experience, ai-literacy, stem-education]
 confidence: high
 ---
 
-**Yi-Chieh Lee, Nattapat Boonprakong, Yugin Tan, Harold Soh et al.** — Workshop report from NUS-Google Workshops — cs.CY
+**Jiayi Zhang, Ryan S. Baker, Debshila Basu Mallick, Cristina Heffernan, Neil Heffernan** — cs.HC
 
-This white paper synthesizes findings from two international NUS-Google Workshops in Singapore convening faculty, industry practitioners, and students to reshape undergraduate CS education in response to generative AI. The central argument is that as GenAI automates implementation-level programming, debugging, and testing, CS curricula must shift toward understanding and verifying AI-generated artifacts. Critical skills to preserve include system design, abstraction, and critical evaluation; skills becoming less important include low-level implementation details. The paper proposes prerequisites for reform: fostering AI-native competencies, re-centering fundamental education, enhancing advanced pathways, embracing new pedagogies, and shifting institutional support. This connects to broader debates in [[cs-education]] about what constitutes core competence in an era of AI pair programmers, and aligns with [[ai-literacy]] frameworks that emphasize evaluation over generation.
+This paper replicates and extends prior work on the cold-start problem in knowledge tracing — the challenge of making accurate predictions when a student begins practicing a new skill. Using a more recent ASSISTments dataset (FoundationalASSIST), the study evaluates KT model performance across both practice trajectories and four problem types: fill-in-the-blank, multiple-choice select-one, multiple-choice select-all, and order/sort. Results show that KT model performance varies across both dimensions, with deep-learning-based models maintaining advantages during early practice but with context-dependent consistency. The study also serves as a proof of concept for SafeInsights, a privacy-preserving research infrastructure designed to facilitate reproducible educational data mining research. This work extends [[knowledge-tracing-irt]] findings by demonstrating that problem type — not just skill — moderates model performance, with implications for [[student-modeling]] in adaptive learning systems.
 
 ## Connected Concepts
 
@@ -32,15 +32,15 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 ## Connected Articles
 
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
 - [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
-- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 - [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
-- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
 - [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 - [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
 - [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
 - [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
 - [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
 - [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect

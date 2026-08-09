@@ -1,20 +1,21 @@
 ---
-title: The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+title: Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 created: 2026-06-10
 updated: 2026-06-10
-type: concept
-tags: [professional-training, llm, generative-ai, intelligent-tutoring, student-experience, higher-ed, ai-literacy, scaffolding, k-12, stem-education]
-confidence: high
+type: article
+tags: [edtech-platform, active-learning, student-experience, higher-ed, engagement-metrics, generative-ai, llm, ai-literacy, stem-education, scaffolding]
+confidence: medium
 ---
 
-**Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, Haiyi Zhu** — cs.CY, cs.HC
+**Iwai Wataru, Duc V. Nguyen** — cs.MM, cs.HC
 
-The Adaptive Virtual Patient (AVP) is an LLM-driven simulated patient for psychotherapy training that adapts its disclosure behavior — from guarded through moderate openness to full disclosure — in response to trainee skill. Grounded in a structural equation model fit to nearly 2,000 hours of real-world psychotherapy transcripts, the AVP quantifies how therapist empathy and exploration shift patient openness. An LLM generates utterances conditioned on a disclosure level updated each turn by the dynamics module. In evaluation with 20 clinicians and trainees over 80 sessions (1,033 turns), the AVP's disclosure rises in response to therapist empathy and exploration, while a prompt-only baseline stays flat; ablations confirm that the empirically motivated parameterization outperforms alternatives. This represents a significant advance in [[intelligent-tutoring]] for professional training domains where authentic practice opportunities are scarce and where existing role-play systems lack grounded, adaptive behavior.
+This paper develops a VR-based immersive learning environment using Photon Fusion that allows teachers and students to be present in the same virtual space regardless of physical locations. The system enables real-time verbal communication and interaction with 3D learning materials, achieving stable real-time communication and state synchronization across multiple players. Evaluation demonstrates stable communication performance, good usability, and minimal VR sickness. This work connects to [[edtech-platform]] design for distributed education and to [[active-learning]] research by providing a technology platform for shared virtual classroom experiences. The system addresses a practical infrastructure gap in multi-site education scenarios where physical co-presence is not possible.
 
 ## Connected Concepts
 
 - [[adaptive-learning]]
 - [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
 - [[affective-computing]]
 - [[affective-tutoring]]
@@ -26,8 +27,7 @@ The Adaptive Virtual Patient (AVP) is an LLM-driven simulated patient for psycho
 - [[ai-literacy]]
 - [[ai-tutoring]]
 - [[assessment-validity]]
-- [[automated-grading]]
-- [[automated-question-generation]]
+- [[automated-assessment]]
 
 ## Connected Articles
 
