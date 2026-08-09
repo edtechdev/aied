@@ -14,7 +14,7 @@ const { title, tags, confidence, created } = concept.data;
 const body = concept.body || '';
 const slug = concept.id.replace('.md', '');
 
-function renderMarkdown(text: string): string {
+function renderMarkdown(text: string, pageTitle: string): string {
   let html = '';
   let inBlockquote = false;
   let inList = false;
@@ -29,6 +29,11 @@ function renderMarkdown(text: string): string {
       continue;
     }
     if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
+    
+    // Skip the first # heading that matches page title (already shown in header)
+    if (trimmed.startsWith('# ') && trimmed.slice(2).trim() === pageTitle) {
+      continue;
+    }
     
     // Headers
     if (trimmed.startsWith('### ')) { html += `<h3>${renderInline(trimmed.slice(4))}</h3>`; continue; }
@@ -110,7 +115,7 @@ const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○'
     </div>
 
     <div style="line-height:1.8">
-      <Fragment set:html={renderMarkdown(body)} />
+      <Fragment set:html={renderMarkdown(body, title)} />
     </div>
   </article>
 </BaseLayout>
