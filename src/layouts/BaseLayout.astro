@@ -1,0 +1,124 @@
+---
+// Base layout with nav, search, footer
+const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title} — AI Ed Wiki</title>
+  <meta name="description" content={description} />
+  <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="/aied/rss.xml" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
+  <style>
+    :root {
+      --primary: #6d28d9;
+    }
+    body {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    header {
+      background: var(--primary);
+      padding: 1rem 0;
+    }
+    header .container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header a {
+      color: white;
+      text-decoration: none;
+    }
+    header nav a {
+      margin-left: 1.5rem;
+      font-size: 0.95rem;
+    }
+    main {
+      flex: 1;
+      padding-top: 2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 0;
+      color: var(--muted-color);
+      font-size: 0.85rem;
+    }
+    .page-header {
+      margin-bottom: 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 2px solid var(--primary);
+    }
+    .blockquote {
+      border-left: 4px solid var(--primary);
+      padding: 1rem 1.5rem;
+      margin: 1.5rem 0;
+      background: var(--card-background-color);
+      border-radius: 0 8px 8px 0;
+    }
+    .tag-chip {
+      display: inline-block;
+      padding: 0.15rem 0.6rem;
+      margin: 0.15rem;
+      border-radius: 12px;
+      background: var(--primary);
+      color: white;
+      font-size: 0.8rem;
+      text-decoration: none;
+    }
+    .tag-chip:hover {
+      opacity: 0.85;
+      color: white;
+    }
+    .citation {
+      margin-top: 3rem;
+      padding: 1rem;
+      background: var(--card-background-color);
+      border-radius: 8px;
+    }
+    .page-item {
+      padding: 0.5rem 0;
+      border-bottom: 1px solid var(--card-border-color);
+    }
+    .page-item:last-child {
+      border-bottom: none;
+    }
+    .search-bar {
+      margin: 1rem 0 2rem 0;
+    }
+    .search-bar input {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      font-size: 1.05rem;
+    }
+  </style>
+  <script is:inline src="/aied/pagefind/pagefind.js"></script>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="/aied/" style="font-size:1.3rem;font-weight:700">🧠 AI Ed Wiki</a>
+      <nav>
+        <a href="/aied/">Home</a>
+        <a href="/aied/journal">Journal</a>
+        <a href="/aied/tags">Tags</a>
+        <a href="/aied/search">Search</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    <slot />
+  </main>
+  <footer>
+    <div class="container">
+      Built with <a href="https://astro.build">Astro</a> · 
+      <a href="https://github.com/edtechdev/aied">GitHub</a> · 
+      <a href="/aied/rss.xml">RSS</a>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const concepts = await getCollection('concepts');
+const pages = concepts.filter(c => c.data.type === 'concept');
+
+const byDate: Record<string, typeof pages> = {};
+pages.forEach(c => {
+  const d = c.data.created.split('T')[0];
+  (byDate[d] ||= []).push(c);
+});
+const dates = Object.keys(byDate).sort().reverse();
+---
+
+<BaseLayout title="Journal">
+  <h1>📋 Journal</h1>
+  <p>Reverse-chronological index of all {pages.length} articles ingested into the wiki.</p>
+
+  {dates.map(date => (
+    <details class="journal-day" open={date === dates[0]} style="margin-bottom:0.75rem;border:1px solid var(--card-border-color);border-radius:8px;padding:0.75rem 1rem;">
+      <summary style="cursor:pointer;font-weight:bold;color:var(--primary);font-size:1.05rem;">
+        {date} — {byDate[date].length} page{byDate[date].length !== 1 ? 's' : ''}
+      </summary>
+      {byDate[date].map(c => (
+        <div class="journal-entry" style="padding:0.4rem 0 0.4rem 1.2rem;border-left:2px solid var(--primary);margin:0.3rem 0;">
+          <a href={`/aied/pages/${c.id.replace('.md', '')}`} style="font-weight:500;">
+            {c.data.title}
+          </a>
+          <div style="font-size:0.72rem;color:var(--muted-color);margin-top:0.2rem;">
+            {(c.data.tags || []).slice(0, 6).map(tag => (
+              <a href={`/aied/tags/${tag}`} class="tag-chip" style="font-size:0.68rem;padding:0.05rem 0.4rem;">{tag}</a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </details>
+  ))}
+</BaseLayout>
