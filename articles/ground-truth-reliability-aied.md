@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Thomas, Borchers, Vanacore, Koedinger & Kizilcec (2026)** — CMU & Cornell. Accepted as full paper at AIED 2026.
-
-**Thomas, Borchers, Vanacore, Koedinger & Kizilcec (2026)** — CMU & Cornell. Accepted as full paper at AIED 2026.
-
 ## Core Argument
 
 The AIED community over-relies on **inter-rater reliability (IRR)** — typically a single Cohen's κ coefficient — as a mechanical gatekeeper for "ground truth." This practice is insufficient and potentially misleading for the complex, noisy realities of educational data. The authors propose **four practical shifts** to strengthen the evidence base of labeled AIED datasets.

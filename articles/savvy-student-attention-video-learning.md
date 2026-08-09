@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Shixian Zhou, Minghuan Shen, Xiaolin Wen, Zijun Qiu, Yongliang Jiang, Xiangyang Wu, Fei Wu, Yong Wang, Zhiguang Zhou** — arXiv preprint (2026).
-
-**Shixian Zhou, Minghuan Shen, Xiaolin Wen, Zijun Qiu, Yongliang Jiang, Xiangyang Wu, Fei Wu, Yong Wang, Zhiguang Zhou** — arXiv preprint (2026).
-
 ## Synthesis
 
 SAVVY is an interactive visual analytics system for video-based learning that integrates visual and auditory attention signals from multimodal brain data to support top-down exploration of student attention variation across instructional videos.

@@ -9,9 +9,6 @@ confidence: medium
 ---
 
 > **Nick Huntington-Klein (2026)** — Single-author study.
-
-**Nick Huntington-Klein (2026)** — Single-author study.
-
 ## Research Design
 
 This paper uses a clever identification strategy: measure the **seasonal drop in ChatGPT activity during non-school summer months** (2023 and 2024). Areas with larger summer dropoffs have heavier school-related AI use. The author then examines whether higher AI-use areas show different test score trends.

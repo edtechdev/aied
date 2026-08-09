@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Taveter et al. (2026)** — FIE 2026 (IEEE Frontiers in Education Conference).
-
-**Taveter et al. (2026)** — FIE 2026 (IEEE Frontiers in Education Conference).
-
 Describes rapid development of a Thonny log visualizer using AI-assisted 'vibe coding' to make student programming processes visible to teachers. Piloted in a 160-student introductory programming course. Provides interactive timelines, session summaries, code-size graphs, and programming-process replays supporting teacher decision-making and academic-integrity clarification.
 
 **Relevance to AI in Education:** This paper contributes to the understanding of [[llm-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.

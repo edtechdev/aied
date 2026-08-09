@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Ilya Mikhelson** — Submitted to Computers and Education: Artificial Intelligence (2026).
-
-**Ilya Mikhelson** — Submitted to Computers and Education: Artificial Intelligence (2026).
-
 ## Synthesis
 
 The Socratic Test is an automated, computer-mediated conversational assessment that replaces static, deficit-based grading with a dynamic, additive model. It integrates Dynamic Assessment principles, multimodal workspaces, Bloom's Taxonomy for real-time proctoring, and the SOLO Taxonomy for structural evaluation.

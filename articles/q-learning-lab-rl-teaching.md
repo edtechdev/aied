@@ -9,9 +9,6 @@ confidence: medium
 ---
 
 > **Ekkachai Jueng (2026)** — arXiv preprint.
-
-**Ekkachai Jueng (2026)** — arXiv preprint.
-
 Presents Q-Learning Lab, a single-file tool that makes the Bellman update concrete by letting undergraduates inspect how each value is computed and why actions are chosen, through learner-generated trace analysis. It addresses the abstraction gap where students watch policy convergence without understanding mechanism.
 
 A [[reinforcement-learning-education]] artifact grounded in [[active-learning]] and [[stem-education]] for [[higher-ed]]. It connects to [[self-regulated-learning]] by making the learning process observable, and to [[scaffolding]] of difficult quantitative concepts, offering a reproducible teaching tool for ML/RL courses.

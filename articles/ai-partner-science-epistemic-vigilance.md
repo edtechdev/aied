@@ -9,12 +9,8 @@ confidence: high
 ---
 
 > **Marcus Kubsch (2026)** — arXiv preprint (physics.ed-ph)
-
-**Marcus Kubsch (2026)** — arXiv preprint (physics.ed-ph)  
-
 Argues that epistemic vigilance — the human evaluation of AI output calibrated to how far a fallible source can be trusted — is the binding constraint on productive augmentation. AI's fluent, confident prose reads as trustworthy whether or not it is, making evaluation harder. Vigilance sets how deeply a claim is processed and is thus the precondition for learning with AI. Design factors (prompts, feedback, scaffolding) matter only through whether they engage the learner's evaluation. Because vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps.
 
-## Key Contributions
 
 - Epistemic vigilance is the binding constraint on productive AI-augmented learning; uniform AI integration risks widening achievement gaps.
 

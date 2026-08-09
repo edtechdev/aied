@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Synthesis:** Systematic study of domain-adapted text-to-image models for nuclear engineering education. Fine-tunes Stable Diffusion on nuclear domain images; fine-tuned model achieves 78% domain accuracy vs 12% for base model. Proposes NuclearDiffusion as an educational tool where instructors generate accurate visualizations of nuclear concepts (reactor components, fuel cycles, safety systems). Demonstrates that domain-specific fine-tuning dramatically improves visual correctness for specialized STEM concept illustration. [[generative-ai]], [[ai-generated-content]], [[stem-education]], [[content-quality]], and [[multimodal]].
-
-**Mohammed I. Radaideh et al. (2026)** — arXiv preprint (cross-listed cs.GR/cs.CY).
-
 Systematic study of domain-adapted text-to-image models for nuclear engineering education. Fine-tunes Stable Diffusion on nuclear domain images; fine-tuned model achieves 78% domain accuracy vs 12% for base model. Proposes NuclearDiffusion as an educational tool where instructors generate accurate visualizations of nuclear concepts (reactor components, fuel cycles, safety systems). Demonstrates that domain-specific fine-tuning dramatically improves visual correctness for specialized STEM concept illustration.
 
 ## Connected Concepts

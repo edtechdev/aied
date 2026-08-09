@@ -9,14 +9,10 @@ confidence: high
 ---
 
 > **Qiu, Thomas, Guo, Aleven & Borchers (2026)** — EDM 2026.
-
-**Qiu, Thomas, Guo, Aleven & Borchers (2026)** — EDM 2026.
-
 ## Overview
 
 This paper tackles a core ITS challenge: predicting when students will disengage so tutors can intervene before it's too late. It introduces **engagement forecasting** as a supervised prediction task with two complementary targets: minutes practiced per week (effort) and new skills mastered per week (progress).
 
-## Key Findings
 
 **Benchmarking 15 predictors on 425 middle-school students:**
 - Feature-based models (regressions, decision trees, neural networks) reduce **MAE by 22–33%** compared to heuristic baselines

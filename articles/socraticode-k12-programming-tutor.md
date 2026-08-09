@@ -9,9 +9,6 @@ confidence: medium
 ---
 
 > **Lucas, C., Bihani, A., Kukka, R., Tsai, C.-H., Sarker, J., & Imran, M. M. (2026)** — University of Nebraska at Omaha, Penn State. arXiv preprint.
-
-**Lucas, C., Bihani, A., Kukka, R., Tsai, C.-H., Sarker, J., & Imran, M. M. (2026)** — University of Nebraska at Omaha, Penn State. arXiv preprint.
-
 ## Key Finding
 Socratic questioning, reflection prompts, misconception checks, and mandatory pauses produce better K-12 engagement than directive answer-giving AI tutors.
 

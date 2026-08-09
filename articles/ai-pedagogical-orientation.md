@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Atherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026)** — arXiv:2605.18140
-
-**Atherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026)** — arXiv:2605.18140
-
 📄 arXiv · [PDF](https://arxiv.org/pdf/2605.18140) · [local](raw/papers/2605.18140.md)
 
 ## Key Finding: AI Pedagogical Orientation

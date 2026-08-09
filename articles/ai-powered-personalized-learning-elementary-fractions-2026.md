@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Synthesis:** Examines AI-powered personalized learning in elementary fraction instruction through a systematic review, quantitative study (N=120), and qualitative teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and engagement. Teachers reported AI tools helped differentiate instruction but required professional development for effective integration. [[adaptive-learning]], [[personalized-learning]], [[k-12]], [[math-education]], and [[ai-generated-content]].
-
-**Kenneth Holman (2024)** — PhD dissertation, University of Central Florida.
-
 Examines AI-powered personalized learning in elementary fraction instruction through a systematic review, quantitative study (N=120), and qualitative teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension for students with math learning difficulties compared to traditional instruction. AI personalization increased student interest and engagement. Teachers reported AI tools helped differentiate instruction but required professional development for effective integration.
 
 ## Connected Concepts

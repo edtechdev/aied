@@ -10,17 +10,12 @@ confidence: medium
 
 > **Lekshmi-Narayanan, Hassany & Brusilovsky (2026)** — University of Pittsburgh. arXiv preprint (cs.HC, cs.LG).
 
-**Lekshmi-Narayanan, Hassany & Brusilovsky (2026)** — University of Pittsburgh. arXiv preprint (cs.HC, cs.LG).
-
-## Summary
-
 This paper presents a rigorous empirical comparison between [[llm|LLM]]-based and semantic similarity methods for [[automated-grading|automated assessment]] of student self-explanations in programming education. The task is framed as binary classification — determining whether a student's explanation of a worked-example step is correct or incorrect.
 
 Worked examples — step-by-step problem solutions — are a well-established [[scaffolding]] technique, and their effectiveness increases when students are prompted to self-explain each step. However, manually assessing these [[self-regulated-learning|self-explanations]] doesn't scale. The prevailing approach has been to compare student responses to reference explanations using semantic similarity metrics, but recent advances in large language models raise the question of whether LLM-based scoring now outperforms these traditional methods.
 
 The authors address a critical gap: high-quality, domain-specific datasets with balanced class distributions for automated scoring tasks. Their contribution is both methodological (a rigorous comparison framework) and empirical (which approach works better, and under what conditions).
 
-## Key Contributions
 
 - **Binary classification framing**: Self-explanations scored as correct or incorrect, a practical framing for real-world deployment in [[intelligent-tutoring|intelligent tutoring systems]]
 - **Dataset contribution**: Domain-specific labeled data for programming self-explanations with balanced classes

@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, Sicheng Song (2026)** — Institution.
-
-**Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, Sicheng Song (2026)** — Institution.
-
 AdaPT uses transformers to adapt lesson plans across regional and differentiated instruction contexts; improves teacher efficiency while maintaining pedagogical alignment with local curricula.
 
 ## Synthesis

@@ -9,12 +9,8 @@ confidence: high
 ---
 
 > **Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, Stephen MacNeil (2026)** — arXiv preprint
-
-**Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, Stephen MacNeil (2026)** — arXiv preprint  
-
 An interview study with 19 computing students through a functionalist perspective of shame and guilt. Findings show these emotions regulate when and how students make their AI use visible, engaging in hiding behaviors and selective disclosure. Students described shaming themselves, peers, and faculty for using AI. Shame and guilt coexist with continued AI use, creating cycles of reduced agency and moral tension rather than promoting behavior change. Students used language and metaphors of addiction. Highlights need to consider socio-emotional aspects of AI use in policy and classroom practice.
 
-## Key Contributions
 
 - Shame and guilt regulate AI use visibility in computing education, creating cycles of hiding and moral tension rather than behavior change.
 

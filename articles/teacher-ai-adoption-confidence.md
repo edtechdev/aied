@@ -10,10 +10,6 @@ confidence: high
 
 > **Vanessa B. Sibug, Maria Anna D. Cruz, Vicky P. Vital, Juvy C. Grume, Almer B. Gamboa, Emerson Q. Fernando, Lloyd D. Feliciano, Jordan L. Salenga, John Paul P. Miranda (2026)** — ICEMT 2025.
 
-**Vanessa B. Sibug, Maria Anna D. Cruz, Vicky P. Vital, Juvy C. Grume, Almer B. Gamboa, Emerson Q. Fernando, Lloyd D. Feliciano, Jordan L. Salenga, John Paul P. Miranda (2026)** — ICEMT 2025.
-
-## Key Findings
-
 A study of 260 Filipino teachers examined how institutional support, teacher confidence, and teacher concerns influence AI adoption attitudes:
 
 - **Institutional support significantly predicted both teacher confidence and positive attitudes toward AI adoption.**

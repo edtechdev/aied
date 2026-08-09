@@ -10,19 +10,10 @@ confidence: high
 
 > **Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang (2026)** — arXiv:2607.28128 (cs.CL, cs.AI, cs.CY)
 
-**Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang (2026)** — arXiv:2607.28128 (cs.CL, cs.AI, cs.CY)
-
-## Summary
-
 Pre-registered study auditing whether general-purpose helpfulness rubrics can distinguish direct answer-giving from pedagogical guidance in LLM tutors. Uses deterministic detectors for answer leakage and next-turn independent work across three tutor models. Finds that helpfulness ratings conflate genuine pedagogical scaffolding with simply giving correct answers.
 
-The work connects to broader discussions in AI and education around [[intelligent-tutoring-systems]], [[automated-feedback]], [[llm-evaluation]], contributing to our understanding of how llm shapes educational practice.
 
-## Key Contributions
 
-- Contributes empirical or theoretical advances relevant to the [[intelligent-tutoring-systems]] domain
-- Published in 2026, reflecting the fast-moving landscape of AI in education research
-- Engages with questions of intelligent tutoring and automated grading in educational contexts
 
 ## Connected Concepts
 

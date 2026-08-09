@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Synthesis:** Investigates adversarial AI design agents that enact constructive conflict to prompt reconsideration in novice designers. Between-subjects experiment (N=48) comparing adversarial vs. cooperative AI agent roles. Adversarial agent condition produced significantly more design iterations, broader exploration of alternatives, and higher-rated final designs. Participants reported the conflict agent was frustrating but ultimately helpful — a productive friction dynamic. Connects to adversarial design theory and Socratic tutoring. [[agentic-ai]], [[scaffolding]], [[student-ai-interaction]], [[design-thinking]], and [[socratic-method]].
-
-**Howard Ziyu Han & Nikolas Martelaro (2026)** — Human-Agent Interaction (HAI) 2026.
-
 Investigates adversarial AI design agents that enact constructive conflict to prompt reconsideration in novice designers. Between-subjects experiment (N=48) comparing adversarial vs. cooperative AI agent roles. Adversarial agent condition produced significantly more design iterations, broader exploration of alternatives, and higher-rated final designs. Participants reported the conflict agent was frustrating but ultimately helpful — a productive friction dynamic. Connects to adversarial design theory and Socratic tutoring.
 
 ## Connected Concepts
