@@ -9,10 +9,6 @@ confidence: medium
 
 > Stub — pending source ingestion. AI adoption, strategy, and governance from the institutional administrator and leadership perspective.
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

@@ -9,22 +9,6 @@ confidence: medium
 
 > **Open-source** AI in education is studied in [[lata-ferpa-compliant-local-llm-autograder]], [[vismatic-secure-sandbox-cs-education]], and [[open-source]] (tag) pages: local open models address [[privacy]], cost, and customization but bring deployment and quality burdens ([[regulation]], [[ai-ed-implementation]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-ed-implementation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

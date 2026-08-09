@@ -9,8 +9,6 @@ confidence: medium
 
 > **Retrieval-augmented generation** grounds educational AI in curated content: [[retrieval-augmented-tutoring-algorithm-kite]], [[eduguard-safe-rag-llm-tutor]], and [[structrag-diagram-reasoning-ai-tutoring]] demonstrate accuracy gains and hallucination reduction in domain-specific tutoring ([[rag]], [[hallucination-risk]]).
 
-- [[rag]]
-
 ## Connected Concepts
 
 - [[rag]]

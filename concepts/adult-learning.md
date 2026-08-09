@@ -9,9 +9,6 @@ confidence: medium
 
 > **Stub:** Auto-created for cross-linking.
 
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-
 ## Connected Concepts
 
 - [[adaptive-learning-systems]]

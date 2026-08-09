@@ -9,9 +9,6 @@ confidence: medium
 
 > **Simulation-based learning** with AI creates practice environments: [[ai-psychotherapy-training-avatars]], [[adaptive-virtual-patient-psychotherapy-training]], [[astra-atco-training-simulator]], and [[history-aware-student-simulation]] let learners rehearse high-stakes skills safely ([[professional-training]], [[active-learning]]).
 
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[professional-training]]
-
 ## Connected Concepts
 
 - [[adaptive-virtual-patient-psychotherapy-training]]

@@ -9,22 +9,6 @@ confidence: medium
 
 > **Prompt engineering** is both a learner skill and a system design lever: [[prompt-coach-agentic-tutor-prompt-engineering]], [[cotal-formative-assessment-scoring-2026]], [[learning-to-prompt-adaptive-tutoring]], and [[prompt-based-programming-lesson]] show prompts determine LLM output quality — making prompt literacy a core [[ai-literacy]] component ([[llm]], [[educational-content]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

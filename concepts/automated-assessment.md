@@ -9,16 +9,6 @@ confidence: medium
 
 > **Automated assessment** — machine scoring and feedback at scale — is covered by [[automated-grading]], [[aiawe-automated-writing-evaluation]], [[psyscore-essay-scoring-zpd-feedback]], and [[cotal-formative-assessment-scoring-2026]]: LLM-based scoring generalizes across domains when prompt-engineered with [[human-in-the-loop]] refinement and [[assessment-validity]] alignment.
 
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-
 ## Connected Concepts
 
 - [[adaptive-virtual-patient-psychotherapy-training]]

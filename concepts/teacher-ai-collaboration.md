@@ -9,8 +9,6 @@ confidence: medium
 
 > **Teacher-AI collaboration** is studied in [[ai-team-teaching-talk-analytics]], [[teacher-ai-competency]], [[ai-pedagogical-accompaniment-amico]], and [[genai-can-harm-teaching-rct-2026]]: AI tools reshape teacher workflows, and their effects on students depend on teacher skill and training ([[faculty-development]], [[teacher-ai-coagency]]).
 
-- [[ai-team-teaching-talk-analytics]]
-
 ## Connected Concepts
 
 - [[ai-team-teaching-talk-analytics]]

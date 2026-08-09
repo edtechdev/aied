@@ -9,22 +9,6 @@ confidence: medium
 
 > **Pedagogical safety** — ensuring AI tutors cannot mislead or harm learners — is studied in [[hazra-safetutors-pedagogical-safety-2026]], [[eduguard-safe-rag-llm-tutor]], [[petechat-guardrailed-ai-tutor]], and [[vetting-dual-llm-safety-education]]: safety requires layered guardrails, evaluation, and human oversight ([[ethics]], [[human-in-the-loop]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[automated-grading]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

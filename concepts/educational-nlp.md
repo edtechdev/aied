@@ -9,8 +9,6 @@ confidence: medium
 
 > **Educational NLP** applies language technologies to learning: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]], and [[vocabulary-difficulty-prediction]] show LLMs advancing analysis of student language at scale ([[educational-measurement]], [[nlp-education]]).
 
-- [[educational-measurement]]
-
 ## Connected Concepts
 
 - [[educational-measurement]]

@@ -9,22 +9,6 @@ confidence: medium
 
 > **LLMs** (large language models) are the wiki's dominant technology: from [[llm-detecting-llm-generated-content-education]] and [[llm-feedback-programming-classroom]] to [[llm-student-simulation-misconception-faithfulness]] and [[special-r1-rl-special-education]], the corpus tracks LLMs as tutors, graders, simulators, and content generators — with capability consistently outpacing pedagogical validation ([[generative-ai]], [[ai-ed-evaluation]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

@@ -9,22 +9,6 @@ confidence: medium
 
 > **Stub:** Help-seeking in learning environments encompasses how students request and use assistance — productive help-seeking involves attempting solutions first, while unproductive patterns like premature requests or superficial reading of hints are associated with reduced learning gains.
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

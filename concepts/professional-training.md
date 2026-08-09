@@ -9,22 +9,6 @@ confidence: medium
 
 > **Professional training** with AI spans simulation and feedback: [[ai-psychotherapy-training-avatars]], [[adaptive-virtual-patient-psychotherapy-training]], [[medgame-llm-medical-education-gamification]], and [[tibetcpr-ai-training-feedback]] use AI avatars, patients, and feedback to train professionals at scale ([[simulation-based-learning]], [[formative-assessment]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[andragogy]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]
