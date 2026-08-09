@@ -28,18 +28,26 @@ const related = Object.entries(coTags).sort((a, b) => b[1] - a[1]).slice(0, 15);
   <p>{pages.length} page{pages.length !== 1 ? 's' : ''} tagged with <strong>{tag}</strong></p>
 
   <div style="margin:1.5rem 0;">
-    {pages.map(c => (
+    {pages.map(c => {
+      const summary = ((c.body || '')
+        .split('\n')
+        .filter(l => l.startsWith('>'))
+        .join(' ')
+        .slice(0, 200))
+        || (c.body || '').split('\n').filter(l => l.trim() && !l.startsWith('#') && !l.startsWith('>') && !l.startsWith('|') && !l.startsWith('-')).slice(0, 2).join(' ').slice(0, 200);
+      return (
       <div class="page-item">
         <a href={`/aied/pages/${c.id.replace('.md', '')}`} style="font-weight:500;">
           {c.data.title}
         </a>
+        {summary && <div style="font-size:0.82rem;color:var(--muted-color);margin-top:0.15rem;line-height:1.4;">{summary}…</div>}
         <div style="font-size:0.8rem;color:var(--muted-color);">
-          {c.data.created} · {(c.data.tags || []).slice(0, 5).map(t => (
+          {c.data.created} · {(c.data.tags || []).filter(t => t !== tag).slice(0, 5).map(t => (
             <a href={`/aied/tags/${t}`} class="tag-chip" style="font-size:0.7rem;padding:0.03rem 0.35rem;">{t}</a>
           ))}
         </div>
       </div>
-    ))}
+    )})}
   </div>
 
   {related.length > 0 && (

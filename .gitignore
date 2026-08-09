@@ -12,7 +12,7 @@ raw/
 
 # Static site (Pico-based, not Astro)
 static-site/
-pages/
-tags/
+/pages/
+/tags/
 search_index.js
 search_index.json
