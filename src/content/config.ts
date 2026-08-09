@@ -1,7 +1,8 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { resolve } from 'path';
 
-const conceptsDir = '/home/doug/wiki/concepts';
+const conceptsDir = resolve(process.cwd(), 'concepts');
 
 const concepts = defineCollection({
   loader: glob({ pattern: '*.md', base: conceptsDir }),
