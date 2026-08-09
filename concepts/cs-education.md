@@ -5,11 +5,14 @@ updated: 2026-08-09
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, cs-education]
 confidence: low
----
+---> **CS Education** — a key concept in AI in education research, explored across 27 articles in this wiki. 
 
-> **Stub:** CS Education — referenced by 26 pages (e.g., adhd-video-segmentation-computing-education, ai-generated-traces-novice-programmers, anvil-ai-educational-animations, assessment-team-problem-solving-computing-education, buggy-genai-code-student-responses). Needs synthesis from connected articles.
+Connected research includes:
+  - This exploratory study investigates how undergraduates use [[llm|LLMs]] to debug malfunctioning analog circuits under exam conditions, identifying both promising [[human-ai-collaboration|collaborative.
 
 ## Connected Concepts
 
 ## Connected Articles
+
+
 

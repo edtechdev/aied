@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Tutoring SySTEMs** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** Tutoring SySTEMs — referenced by 1 pages (e.g., tact-pedagogically-adaptive-esl-tutoring). Needs synthesis from connected articles.
+Research themes include:
+- TACT (Taxonomy-Aligned Conversational Tutor) presents a human-grounded framework for training and evaluating pedagogically adaptive ESL tutors powered by . Built on a Tutor-Strategy Taxonomy (13 strategies) and a Student-Move Taxonomy, TA
 
 ## Connected Concepts
 

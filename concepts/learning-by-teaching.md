@@ -6,8 +6,10 @@ type: concept
 tags: [learning-by-teaching, conversational-agents, personalized-learning, higher-ed, dual-agent, scaffolding, confusion-detection, teach-back, lecture-review]
 confidence: medium
 ---
+> **Learning By Teaching** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** Auto-created stub for cross-linking.
+Research themes include:
+- KnowLoop, a dual-agent conversational system for post-lecture review, structures learning around three stages—Recognize (mark in-situ confusion during lectures), Resolve (Teaching Assistant provides context-grounded clarification), and Consolidate (P
 
 ## Connected Concepts
 

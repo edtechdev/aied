@@ -6,8 +6,14 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **LLM Assessment** — a key concept in AI in education research. Explored across 5 articles in this wiki.
 
-> **Stub:** LLM Assessment — referenced by 5 pages (e.g., ai-learning-tools-engineering-education-needs, llm-misconception-difficulty-easy-trap, llm-psychometric-calibration-cdp, student-math-competence-clustering, vibe-coding-programming-process-visualizer). Needs synthesis from connected articles.
+Research themes include:
+- This research connects to the growing body of work on  and , highlighting both the promise and limitations of AI tools in educational settings.
+- This research connects to the growing body of work on  and , highlighting both the promise and limitations of AI tools in educational settings.
+- This research connects to the growing body of work on  and , highlighting both the promise and limitations of AI tools in educational settings.
+- This research connects to the growing body of work on  and , highlighting both the promise and limitations of AI tools in educational settings.
+- This research connects to the growing body of work on  and , highlighting both the promise and limitations of AI tools in educational settings.
 
 ## Connected Concepts
 

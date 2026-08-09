@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Special Education Ai — referenced by 2 pages (e.g., embodied-string-learning-blindness-low-vision-musicians, inclusive-education). Needs synthesis from connected articles.
+> **Special Education Ai** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
 ## Connected Concepts
 

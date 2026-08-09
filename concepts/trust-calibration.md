@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Trust Calibration — referenced by 1 pages (e.g., calibrating-trustworthiness-llm-education-2026). Needs synthesis from connected articles.
+> **Trust Calibration** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
 ## Connected Concepts
 

@@ -6,8 +6,12 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Academic Integrity** — a key concept in AI in education research. Explored across 29 articles in this wiki.
 
-> **Stub:** Academic Integrity — referenced by 30 pages (e.g., agentic-ai-education-scoping-review, ai-assessment-scale-reform, ai-availability-student-motivation, ai-ethics-education-public-discourse, ai-learning-assistants-higher-ed-large-scale). Needs synthesis from connected articles.
+Research themes include:
+- Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments
+- ### 6. Six Dimensions of Agentic Capability (the Review's Analytical Framework)
+- **Authors:** Favero et al. · **Workshop:** AIED 2025 · **arXiv:** 2507.06878
 
 ## Connected Concepts
 

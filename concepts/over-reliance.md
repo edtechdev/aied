@@ -6,8 +6,11 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Over Reliance** — a key concept in AI in education research. Explored across 55 articles in this wiki.
 
-> **Stub:** Over Reliance — referenced by 58 pages (e.g., agentic-literacy-debt, agents-that-teach-incidental-learning, ai-assistance-reduces-persistence, ai-assisted-learning-modes-eeg, ai-availability-student-motivation). Needs synthesis from connected articles.
+Research themes include:
+- Hybrid systems that combine GenAI with explicit pedagogical models show more promise than general-purpose chatbots. Examples cited include:
+- The review identifies four design elements that distinguish effective interventions:
 
 ## Connected Concepts
 

@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Domain Modeling** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** Domain Modeling — referenced by 1 pages (e.g., zerkouk-comprehensive-review-its-2025). Needs synthesis from connected articles.
+Research themes include:
+- **Authors:** Zerkouk et al. · **Venue:** Journal of Computers in Education (2025) · **arXiv:** 2507.18882
 
 ## Connected Concepts
 

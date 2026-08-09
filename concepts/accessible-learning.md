@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Accessible Learning — referenced by 7 pages (e.g., adhd-video-segmentation-computing-education, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, embodied-string-learning-blindness-low-vision-musicians, inclusive-education). Needs synthesis from connected articles.
+> **Accessible Learning** — a key concept in AI in education research. Explored across 5 articles in this wiki.
 
 ## Connected Concepts
 

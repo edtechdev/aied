@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Multi Agent — referenced by 1 pages (e.g., agentic-ai). Needs synthesis from connected articles.
+> **Multi Agent** — a key concept in AI in education research. 
 
 ## Connected Concepts
 

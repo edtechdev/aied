@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Content Quality** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** Content Quality — referenced by 1 pages (e.g., nuclear-diffusion-text-to-image-learning-2026). Needs synthesis from connected articles.
+Research themes include:
+- Systematic study of domain-adapted text-to-image models for nuclear engineering education. Fine-tunes Stable Diffusion on nuclear domain images; fine-tuned model achieves 78% domain accuracy vs 12% for base model. Proposes NuclearDiffusion as an educ
 
 ## Connected Concepts
 

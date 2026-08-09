@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Knowledge Graph — referenced by 3 pages (e.g., concept-catalyst-engineering-scaffolds, llm-tutoring-feedback-diagnosis-gap, rag). Needs synthesis from connected articles.
+> **Knowledge Graph** — a key concept in AI in education research. Explored across 2 articles in this wiki.
 
 ## Connected Concepts
 

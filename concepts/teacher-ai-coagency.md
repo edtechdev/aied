@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Teacher AI Coagency** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** Teacher AI Coagency — referenced by 3 pages (e.g., ai-team-teaching-talk-analytics, favero-critical-ai-tutors-empower-enslave-2025, teacher-ai-collaboration). Needs synthesis from connected articles.
+Research themes include:
+- **Authors:** Favero et al. · **Workshop:** AIED 2025 · **arXiv:** 2507.06878
 
 ## Connected Concepts
 

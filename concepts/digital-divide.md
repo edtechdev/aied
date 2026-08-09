@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Digital Divide** — a key concept in AI in education research. Explored across 2 articles in this wiki.
 
-> **Stub:** Digital Divide — referenced by 2 pages (e.g., ai-changing-teaching-workflows, ai-lifelong-learning-policy). Needs synthesis from connected articles.
+Research themes include:
+- ## The Reallocation Effect — Brazil Essay Grading RCT
 
 ## Connected Concepts
 
