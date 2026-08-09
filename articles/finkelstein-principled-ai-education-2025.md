@@ -46,6 +46,8 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 - [[scaffolding]]
 - [[zone-of-proximal-development]]
 
+- [[ai-literacy]]
+- [[curriculum-design]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

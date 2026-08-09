@@ -17,6 +17,7 @@ Tran, Harper & Price (2026) examine a pressing motivational paradox in contempor
 - [[higher-ed]]
 - [[student-experience]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction at a Large University

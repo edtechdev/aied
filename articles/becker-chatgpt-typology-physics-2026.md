@@ -29,6 +29,8 @@ This study develops a data-driven typology of physics students' ChatGPT use thro
 - [[higher-ed]]
 - [[student-experience]]
 
+- [[rag]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

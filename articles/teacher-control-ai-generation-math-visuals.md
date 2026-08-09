@@ -28,6 +28,9 @@ The findings also relate to [[ai-generated-content]] and [[principled-ai-educati
 
 - [[teacher-role]]
 
+- [[agentic-workflows]]
+- [[ai-education]]
+- [[curriculum-design]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

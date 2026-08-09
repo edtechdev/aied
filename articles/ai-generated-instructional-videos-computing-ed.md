@@ -20,6 +20,7 @@ Studies student perceptions of AI-generated instructional videos in computing ed
 - [[generative-ai]]
 - [[student-experience]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization for Video-based Learning Analysis

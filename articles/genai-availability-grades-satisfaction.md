@@ -17,6 +17,7 @@ This large-scale observational study tests the "GenAI substitution hypothesis" �
 - [[higher-ed]]
 - [[student-experience]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming

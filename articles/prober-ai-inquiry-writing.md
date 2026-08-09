@@ -30,6 +30,13 @@ Conventional AI writing tools that generate or rewrite text risk creating cognit
 - [[metacognition]]
 - [[socratic-ai-dialogue]]
 
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[formative-assessment]]
+- [[higher-ed]]
+- [[llm]]
+- [[scaffolding]]
+- [[writing-education]]
 ## Connected Articles
 
 - [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning

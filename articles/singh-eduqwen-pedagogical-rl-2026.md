@@ -42,6 +42,9 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 - [[pedagogical-llm-training]]
 - [[pedagogical-safety]]
 
+- [[llm]]
+- [[rag]]
+- [[reinforcement-learning]]
 ## Connected Articles
 
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning

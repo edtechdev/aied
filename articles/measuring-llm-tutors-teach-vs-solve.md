@@ -19,6 +19,10 @@ Studies whether public LLM tutoring benchmarks distinguish learning-supportive b
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[agentic-ai]]
+- [[k-12]]
+- [[llm]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning

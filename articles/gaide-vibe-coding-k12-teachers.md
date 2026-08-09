@@ -22,6 +22,7 @@ This work connects to core wiki themes: [[k-12]] [[teacher-role]] [[ai-literacy]
 - [[k-12]]
 - [[teacher-role]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

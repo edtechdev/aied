@@ -20,6 +20,8 @@ Learning to communicate with code-generating AI is an emerging skill for novice 
 - [[scaffolding]]
 - [[student-experience]]
 
+- [[llm]]
+- [[prompt-engineering]]
 ## Connected Articles
 
 - [[programming-its]] — Programming Intelligent Tutoring Systems

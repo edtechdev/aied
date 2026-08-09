@@ -36,6 +36,12 @@ The work also contributes to understanding how [[scaffolding]] can be implemente
 - [[personalized-learning]]
 - [[scaffolding]]
 
+- [[adaptive-learning]]
+- [[agentic-ai]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[metacognition]]
 ## Connected Articles
 
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM

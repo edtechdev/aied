@@ -36,6 +36,9 @@ These findings challenge linear learning assumptions in [[k-12-ai-education]] an
 - [[personalized-learning]]
 - [[scaffolding]]
 
+- [[ai-education]]
+- [[k-12]]
+- [[metacognition]]
 ## Connected Articles
 
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants

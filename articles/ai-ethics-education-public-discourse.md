@@ -27,6 +27,8 @@ confidence: medium
 - [[ai-literacy]]
 - [[higher-ed]]
 
+- [[ai-education]]
+- [[ethics]]
 ## Connected Articles
 
 - [[principled-ai-education]] — Principled AI in Education

@@ -59,6 +59,12 @@ This operationalizes [[agentic-workflows-education]] for a specific tool:
 - [[ai-literacy]]
 - [[metacognition]]
 
+- [[agentic-ai]]
+- [[ai-tutoring]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[rag]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

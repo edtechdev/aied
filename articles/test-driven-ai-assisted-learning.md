@@ -17,6 +17,7 @@ Liu et al. (2026) report on a 13-week Test-Driven, AI-Assisted (TDAA) redesign o
 - [[higher-ed]]
 - [[llm]]
 
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

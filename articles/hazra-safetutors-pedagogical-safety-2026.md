@@ -40,6 +40,9 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 - [[k-12]]
 - [[pedagogical-safety]]
 
+- [[llm]]
+- [[regulation]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

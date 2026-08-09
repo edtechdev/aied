@@ -20,6 +20,9 @@ Examines how different forms of learner-AI interaction relate to learning outcom
 - [[generative-ai]]
 - [[student-experience]]
 
+- [[ai-education]]
+- [[higher-ed]]
+- [[learning-analytics]]
 ## Connected Articles
 
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators

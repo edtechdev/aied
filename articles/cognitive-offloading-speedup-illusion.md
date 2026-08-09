@@ -19,6 +19,8 @@ The findings complement the companion paper on the [[efficiency-gain-illusion-ai
 - [[ai-assistance-reduces-persistence]]
 - [[metacognition]]
 
+- [[llm]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-learning-transfer]] — AI Learning Transfer

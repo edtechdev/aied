@@ -42,6 +42,7 @@ The long-term institutional risk is credential inflation: if degrees and certifi
 - [[cognitive-load-theory]]
 - [[cognitive-offloading-llm-synthesis-writing]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named

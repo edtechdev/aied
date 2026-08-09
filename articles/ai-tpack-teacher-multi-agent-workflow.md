@@ -45,6 +45,11 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 - [[faculty-development-genai]]
 - [[teacher-ai-competency]]
 
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[rag]]
+- [[scaffolding]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

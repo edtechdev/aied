@@ -54,6 +54,10 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 - [[scaffolding]]
 - [[self-regulated-learning]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks

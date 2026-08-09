@@ -40,6 +40,10 @@ This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, C
 - [[metacognition]]
 - [[socratic-ai-dialogue]]
 
+- [[ai-tutoring]]
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?

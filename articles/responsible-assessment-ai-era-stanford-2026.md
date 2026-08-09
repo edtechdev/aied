@@ -36,6 +36,7 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 - [[automated-grading]]
 - [[formative-assessment]]
 
+- [[generative-ai]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

@@ -24,6 +24,7 @@ The study contributes design considerations for [[edtech-platform|educational te
 - [[lifelong-learning]]
 - [[student-experience]]
 
+- [[k-12]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

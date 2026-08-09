@@ -34,6 +34,7 @@ This work extends the [[automated-grading]] landscape by addressing a specific g
 - [[scaffolding]]
 - [[self-regulated-learning]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models

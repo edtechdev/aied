@@ -57,6 +57,7 @@ The core insight: **GenAI's educational value depends less on AI access per se t
 - [[higher-ed]]
 - [[self-regulated-learning]]
 
+- [[rag]]
 ## Connected Articles
 
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning

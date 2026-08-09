@@ -85,6 +85,9 @@ The paper illustrates these shifts through case studies of **multimodal tutoring
 - [[human-in-the-loop-ai]]
 - [[llm-cognitive-diagnosis-handwritten-math]]
 
+- [[generative-ai]]
+- [[learning-analytics]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

@@ -53,6 +53,8 @@ The framework's relevance to education is twofold:
 - [[ai-education]]
 - [[human-ai-collaboration]]
 
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
 - [[human-ai-collaboration-trust-expectations]] — Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust

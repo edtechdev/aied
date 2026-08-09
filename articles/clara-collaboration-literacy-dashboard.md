@@ -20,6 +20,11 @@ CLARA introduces a novel architecture for [[learning-analytics]] where AI-produc
 - [[learning-analytics]]
 - [[retrieval-augmented-generation]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[knowledge-tracing]]
+- [[llm]]
+- [[visualization]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

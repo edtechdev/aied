@@ -30,6 +30,8 @@ The finding that coding assistants outperform dedicated education tools and gene
 - [[slidesqaqa-pedagogical-question-generation]]
 - [[student-experience]]
 
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design

@@ -59,6 +59,10 @@ SCRIPT's contribution: **Python-specific** tutoring with German-language context
 - [[formative-assessment]]
 - [[student-misconceptions-conditionals-loops-taxonomy]]
 
+- [[adaptive-learning]]
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

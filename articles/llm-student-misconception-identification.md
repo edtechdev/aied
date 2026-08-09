@@ -32,6 +32,9 @@ For [[student-experience]], the implications are direct: students struggling wit
 - [[student-experience]]
 - [[student-misconceptions-conditionals-loops-taxonomy]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning

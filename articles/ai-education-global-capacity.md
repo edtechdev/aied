@@ -39,6 +39,8 @@ While AI tools are globally available, the critical variable is local absorption
 - [[regulation]]
 - [[teacher-ai-competency]]
 
+- [[k-12]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

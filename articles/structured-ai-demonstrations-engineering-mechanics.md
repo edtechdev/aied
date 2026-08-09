@@ -27,6 +27,7 @@ Preliminary data show shifting student behaviors and complex relationships betwe
 - [[student-experience]]
 - [[teacher-role]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Ass...

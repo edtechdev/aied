@@ -36,6 +36,7 @@ As school districts worldwide face declining enrollments and budget pressures, A
 - [[ai-education]]
 - [[equity]]
 
+- [[k-12]]
 ## Connected Articles
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 

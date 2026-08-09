@@ -15,6 +15,11 @@ Generative AI undermines a basic premise of educational assessment: that submitt
 
 - [[assessment-validity]]
 
+- [[formative-assessment]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform

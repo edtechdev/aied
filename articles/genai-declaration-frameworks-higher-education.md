@@ -24,6 +24,7 @@ This domain-specific approach is proposed as a foundation for fostering more hon
 - [[regulation]]
 - [[student-experience]]
 
+- [[rag]]
 ## Connected Articles
 
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap

@@ -58,6 +58,7 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 - [[randomized-controlled-trials-education]]
 - [[scaffolding]]
 
+- [[socratic-questioning]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review

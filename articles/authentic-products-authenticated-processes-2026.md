@@ -38,6 +38,9 @@ The framework becomes a **review instrument for assessment briefs**: teams exami
 - [[assessment-validity]]
 - [[formative-assessment]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[authentic-assessment]] — Authentic Assessment

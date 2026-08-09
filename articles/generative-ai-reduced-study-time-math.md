@@ -44,6 +44,9 @@ This study provides the strongest empirical evidence yet for the [[over-reliance
 - [[regulation]]
 - [[student-experience]]
 
+- [[ai-education]]
+- [[higher-ed]]
+- [[k-12]]
 ## Connected Articles
 
 - [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?

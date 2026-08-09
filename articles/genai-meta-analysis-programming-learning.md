@@ -44,6 +44,9 @@ The findings have implications beyond programming — the productivity-learning 
 - [[regulation]]
 - [[writing-education]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants

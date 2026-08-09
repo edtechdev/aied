@@ -20,6 +20,9 @@ introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool t
 - [[metacognition]]
 - [[self-regulated-learning]]
 
+- [[generative-ai]]
+- [[rag]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

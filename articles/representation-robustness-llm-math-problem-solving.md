@@ -17,6 +17,8 @@ This study probes how sensitive [[llm]] mathematical problem solving is to the s
 - [[llm]]
 - [[llm-cognitive-diagnosis-handwritten-math]]
 
+- [[rag]]
+- [[reinforcement-learning]]
 ## Connected Articles
 
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning

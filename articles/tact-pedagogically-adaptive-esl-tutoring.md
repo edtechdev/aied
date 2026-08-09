@@ -59,6 +59,8 @@ TACT advances the state of [[ai-tutoring|AI tutoring]] by grounding LLM training
 - [[pedagogical-safety]]
 - [[ai-education]]
 
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 - [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
 - [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming

@@ -58,6 +58,7 @@ DeepTutor addresses a critical gap in [[intelligent-tutoring]]: the disconnect b
 - [[personalized-learning]]
 - [[rag]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[programming-its]] — Programming Intelligent Tutoring Systems

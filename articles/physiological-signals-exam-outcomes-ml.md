@@ -19,6 +19,10 @@ Investigates ML models to predict exam outcomes from physiological data (electro
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[higher-ed]]
+- [[k-12]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

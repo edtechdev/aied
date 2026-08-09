@@ -31,6 +31,9 @@ The ethics education gap identified here suggests that AI literacy curricula fac
 - [[regulation]]
 - [[teacher-ai-competency]]
 
+- [[ai-education]]
+- [[ethics]]
+- [[pedagogical-safety]]
 ## Connected Articles
 
 - [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning

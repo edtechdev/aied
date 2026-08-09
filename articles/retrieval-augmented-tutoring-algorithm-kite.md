@@ -26,6 +26,11 @@ This work contributes to the growing literature on [[llm-student-modeling-memory
 - [[scaffolding]]
 - [[socratic-ai-dialogue]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
+- [[socratic-ai]]
 ## Connected Articles
 
 - [[ai-learning-transfer]] — AI Learning Transfer

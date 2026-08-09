@@ -19,6 +19,8 @@ This reinforces [[ground-truth-reliability-aied]] by showing that experimental p
 
 - [[learning-analytics]]
 
+- [[automated-grading]]
+- [[knowledge-tracing]]
 ## Connected Articles
 
 - [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education

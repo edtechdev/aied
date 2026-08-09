@@ -49,6 +49,8 @@ The integrated redesign **resolved both academic-integrity and authenticity conc
 - [[ai-literacy]]
 - [[higher-ed]]
 
+- [[generative-ai]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

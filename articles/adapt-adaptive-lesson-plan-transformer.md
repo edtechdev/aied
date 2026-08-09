@@ -22,6 +22,10 @@ AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated In
 - [[k-12]]
 - [[teacher-role]]
 
+- [[adaptive-learning]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[personalized-learning]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

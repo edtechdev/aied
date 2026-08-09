@@ -18,6 +18,7 @@ This study by Tran, Marwan & Price (2026) introduces and evaluates a 45-minute s
 - [[llm]]
 - [[teacher-role]]
 
+- [[generative-ai]]
 ## Connected Articles
 
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks

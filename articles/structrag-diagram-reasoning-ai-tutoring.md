@@ -40,6 +40,9 @@ Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring 
 - [[automated-grading]]
 - [[scaffolding]]
 
+- [[generative-ai]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture

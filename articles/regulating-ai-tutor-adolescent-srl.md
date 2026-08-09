@@ -22,6 +22,9 @@ The paper proposes a turn-level codebook combining SRL and [[metacognition|help-
 - [[self-regulated-learning]]
 - [[student-experience]]
 
+- [[help-seeking]]
+- [[k-12]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

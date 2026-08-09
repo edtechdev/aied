@@ -45,6 +45,7 @@ The study reveals a fundamental structural challenge in [[ai-education|AI govern
 - [[higher-ed]]
 - [[ethics]]
 
+- [[professional-training]]
 ## Connected Articles
 - [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
 - [[ethical-ai-higher-ed-game-theory]] — Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework

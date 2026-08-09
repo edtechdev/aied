@@ -39,6 +39,8 @@ For [[higher-ed]] institutions facing growing assessment loads, AICoFE models a 
 - [[human-in-the-loop-ai]]
 - [[learning-analytics]]
 
+- [[ai-ed-evaluation]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

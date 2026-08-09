@@ -19,6 +19,12 @@ This AIED 2026 LBR paper identifies a pernicious feedback loop in educational hu
 
 - [[pedagogical-llm-training]]
 
+- [[ai-education]]
+- [[ai-literacy]]
+- [[bias-mitigation]]
+- [[generative-ai]]
+- [[llm]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms

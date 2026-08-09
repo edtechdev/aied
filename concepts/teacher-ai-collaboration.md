@@ -1,5 +1,5 @@
 ---
-title: Teacher Ai Collaboration
+title: Teacher AI Collaboration
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

@@ -24,6 +24,8 @@ Prompt engineering is a critical yet undertaught skill for software developers, 
 - [[professional-training]]
 - [[scaffolding]]
 
+- [[agentic-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers

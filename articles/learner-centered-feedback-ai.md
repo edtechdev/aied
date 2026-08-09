@@ -49,6 +49,8 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 - [[scaffolding]]
 - [[teacher-role]]
 
+- [[generative-ai]]
+- [[rag]]
 ## Connected Articles
 
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning

@@ -64,6 +64,11 @@ confidence: medium
 - [[self-regulated-learning]]
 - [[zone-of-proximal-development]]
 
+- [[adaptive-learning]]
+- [[generative-ai]]
+- [[llm]]
+- [[personalized-learning]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

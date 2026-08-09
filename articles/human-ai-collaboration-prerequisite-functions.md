@@ -19,6 +19,10 @@ Asks what is gained and lost when 'collaboration' is applied freely to human-AI 
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[k-12]]
+- [[llm]]
+- [[scaffolding]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

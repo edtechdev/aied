@@ -60,6 +60,11 @@ The review frames findings through six established principles. See [[ai-learning
 
 - [[metacognition]]
 
+- [[adaptive-learning]]
+- [[ai-education]]
+- [[k-12]]
+- [[lifelong-learning]]
+- [[llm]]
 ## Connected Articles
 
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

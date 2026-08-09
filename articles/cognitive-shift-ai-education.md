@@ -49,6 +49,10 @@ For instructors, these results suggest that AI education should explicitly surfa
 
 - [[ai-literacy]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[scaffolding]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?

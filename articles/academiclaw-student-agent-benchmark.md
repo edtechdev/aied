@@ -67,6 +67,12 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 - [[automated-grading]]
 - [[pedagogical-llm-training]]
 
+- [[ai-tutoring]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[open-source]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants

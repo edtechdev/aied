@@ -40,6 +40,9 @@ The dissociation between topic and affect aligns with [[multimodal-ai-feedback-l
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[affective-computing]]
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention

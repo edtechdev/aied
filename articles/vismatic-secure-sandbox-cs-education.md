@@ -20,6 +20,7 @@ The framework provides a scalable blueprint for [[academic-integrity|preserving 
 - [[formative-assessment]]
 - [[scaffolding]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study

@@ -22,6 +22,7 @@ The focus on teacher agency and modification is critical. Rather than generating
 - [[scaffolding]]
 - [[teacher-role]]
 
+- [[generative-ai]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design

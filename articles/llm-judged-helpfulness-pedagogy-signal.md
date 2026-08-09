@@ -20,6 +20,9 @@ Pre-registered study auditing whether general-purpose helpfulness rubrics can di
 - [[adaptive-learning]]
 - [[student-experience]]
 
+- [[automated-grading]]
+- [[llm]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

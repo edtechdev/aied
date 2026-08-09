@@ -45,6 +45,9 @@ The rethinking extends to [[assessment-validity]] concerns — if AI can produce
 - [[student-experience]]
 - [[teacher-ai-competency]]
 
+- [[administrator]]
+- [[higher-ed]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning

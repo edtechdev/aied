@@ -18,6 +18,7 @@ Hossain (2026) develops a typology of LLM reliance among undergraduate writers a
 - [[student-experience]]
 - [[writing-education]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

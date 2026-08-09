@@ -20,6 +20,9 @@ Identifies interaction signatures of LLM literacy using Epistemic Network Analys
 - [[prompt-engineering]]
 - [[scaffolding]]
 
+- [[higher-ed]]
+- [[learning-analytics]]
+- [[writing-education]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

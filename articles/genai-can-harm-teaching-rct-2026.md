@@ -43,6 +43,7 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - [[teacher-ai-competency]]
 - [[teacher-role]]
 
+- [[rag]]
 ## Connected Articles
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world

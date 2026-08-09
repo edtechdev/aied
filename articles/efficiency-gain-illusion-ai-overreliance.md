@@ -38,6 +38,8 @@ These results have direct implications for AI literacy education: users need not
 - [[generative-ai]]
 - [[student-experience]]
 
+- [[ai-education]]
+- [[rag]]
 ## Connected Articles
 
 - [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction

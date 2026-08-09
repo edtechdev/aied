@@ -36,6 +36,9 @@ Fine-tuning designs were systematically compared, with the curriculum-derived tr
 - [[personalized-learning]]
 - [[scaffolding]]
 
+- [[generative-ai]]
+- [[k-12]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms

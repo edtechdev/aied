@@ -21,6 +21,7 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
 - [[formative-assessment]]
 - [[teacher-role]]
 
+- [[automated-grading]]
 ## Connected Articles
 
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education

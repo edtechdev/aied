@@ -68,6 +68,10 @@ This framework is an enabler for [[tutoring-specific-vs-general-ai|tutoring-spec
 - [[personalized-learning]]
 - [[socratic-ai-dialogue]]
 
+- [[adaptive-learning]]
+- [[k-12]]
+- [[learning-analytics]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

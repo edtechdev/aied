@@ -38,6 +38,8 @@ By situating GenAI governance within validity arguments, the framework offers ac
 - [[generative-ai]]
 - [[scaffolding]]
 
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms

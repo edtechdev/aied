@@ -51,6 +51,7 @@ A **randomized 2×2 full-factorial field experiment** (N = 179 German university
 - [[self-regulated-learning]]
 - [[student-experience]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

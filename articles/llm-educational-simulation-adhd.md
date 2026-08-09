@@ -42,6 +42,11 @@ The simulation methodology also raises questions about [[ai-tutor-safety-harms]]
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[adaptive-learning]]
+- [[ai-education]]
+- [[ai-tutoring]]
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education

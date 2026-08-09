@@ -19,6 +19,12 @@ This paper introduces a simulation-based framework for evaluating how learner ta
 
 - [[adaptive-learning-systems]]
 
+- [[adaptive-learning]]
+- [[k-12]]
+- [[knowledge-tracing]]
+- [[llm]]
+- [[mastery-learning]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning

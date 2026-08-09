@@ -21,6 +21,8 @@ Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Ava
 - [[higher-ed]]
 - [[professional-training]]
 
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

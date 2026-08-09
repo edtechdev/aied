@@ -19,6 +19,9 @@ The implications for education are significant. As AI agents increasingly partic
 - [[llm]]
 - [[student-experience]]
 
+- [[affective-computing]]
+- [[ai-tutoring]]
+- [[rag]]
 ## Connected Articles
 
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks

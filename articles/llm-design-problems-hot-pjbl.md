@@ -21,6 +21,7 @@ Bridges [[generative-ai]] generation with [[formative-assessment]] and [[project
 - [[project-based-learning]]
 - [[scaffolding]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

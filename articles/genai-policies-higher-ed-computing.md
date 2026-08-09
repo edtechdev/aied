@@ -27,6 +27,8 @@ confidence: medium
 - [[ai-literacy]]
 - [[higher-ed]]
 
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[cross-cultural-student-perceptions-genai-computing]] — Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Ed...

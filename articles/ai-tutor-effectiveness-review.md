@@ -69,6 +69,8 @@ The review identifies a **critical need for stronger experimental design and dat
 - [[pedagogical-llm-training]]
 - [[socratic-ai-dialogue]]
 
+- [[higher-ed]]
+- [[k-12]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

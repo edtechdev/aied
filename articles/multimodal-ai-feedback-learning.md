@@ -81,6 +81,11 @@ This is a strong result for AI feedback systems:
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 
+- [[generative-ai]]
+- [[learning-analytics]]
+- [[llm]]
+- [[rag]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring

@@ -99,6 +99,9 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 - [[self-regulated-learning]]
 - [[zone-of-proximal-development]]
 
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

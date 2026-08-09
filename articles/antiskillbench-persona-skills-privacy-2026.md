@@ -22,6 +22,7 @@ Persona skills distill personal interaction histories into portable and executab
 - [[bias-mitigation]]
 - [[personalized-learning]]
 
+- [[rag]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

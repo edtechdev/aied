@@ -22,6 +22,7 @@ This work directly informs the design of [[formative-assessment|AI writing feedb
 - [[k-12]]
 - [[writing-education]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

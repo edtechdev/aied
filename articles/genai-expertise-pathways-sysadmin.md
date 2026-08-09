@@ -25,6 +25,8 @@ The findings extend concerns about cognitive offloading and skill decay from cla
 - [[lifelong-learning]]
 - [[professional-training]]
 
+- [[ai-education]]
+- [[generative-ai]]
 ## Connected Articles
 
 - [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?

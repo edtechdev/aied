@@ -15,6 +15,8 @@ Systematic study of domain-adapted text-to-image models for nuclear engineering 
 
 - [[generative-ai]]
 
+- [[higher-ed]]
+- [[visualization]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

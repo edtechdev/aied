@@ -37,6 +37,10 @@ This work connects to the broader [[automated-question-generation]] literature a
 - [[culturally-relevant-pedagogy]]
 - [[personalized-learning]]
 
+- [[ai-tutoring]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI

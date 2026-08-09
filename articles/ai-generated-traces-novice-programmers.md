@@ -18,6 +18,7 @@ Multi-institutional study on Generated Animated Traces (GATs) for CS1. Found tha
 - [[personalized-learning]]
 - [[scaffolding]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[llm-feedback-programming-classroom]] — LLM-Generated Feedback in Introductory Programming: A Classroom Study

@@ -19,6 +19,7 @@ Proposes a four-component AI literacy framework for legal translation profession
 - [[higher-ed]]
 - [[professional-training]]
 
+- [[pedagogical-safety]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

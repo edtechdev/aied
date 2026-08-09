@@ -58,6 +58,9 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 - [[human-in-the-loop-ai]]
 - [[zone-of-proximal-development]]
 
+- [[adaptive-learning]]
+- [[generative-ai]]
+- [[nlp-education]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review

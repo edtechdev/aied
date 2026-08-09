@@ -45,6 +45,7 @@ LaTA's success connects to the broader [[stem-education]] and [[higher-ed]] land
 - [[higher-ed]]
 - [[llm]]
 
+- [[open-source]]
 ## Connected Articles
 
 - [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs

@@ -43,6 +43,8 @@ This study provides some of the strongest causal evidence yet that generative AI
 - [[randomized-controlled-trials-education]]
 - [[higher-ed]]
 
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 - [[idan-anand-genai-productivity-divide-2026]] — Generative AI and the Productivity Divide: Human-AI Complementarities in Education
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming

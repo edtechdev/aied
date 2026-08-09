@@ -22,6 +22,9 @@ Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance 
 - [[k-12]]
 - [[scaffolding]]
 
+- [[llm]]
+- [[prompt-engineering]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

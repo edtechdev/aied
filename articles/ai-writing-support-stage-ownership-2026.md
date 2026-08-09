@@ -33,6 +33,7 @@ confidence: high
 - [[student-experience]]
 - [[writing-education]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams

@@ -61,6 +61,8 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 - [[computational-thinking]]
 - [[higher-ed]]
 
+- [[agentic-ai]]
+- [[generative-ai]]
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named

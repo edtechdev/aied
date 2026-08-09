@@ -30,6 +30,11 @@ The finding that models struggle most with **multi-step teaching workflows** in 
 - [[pedagogical-llm-training]]
 - [[scaffolding]]
 
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[generative-ai]]
+- [[llm]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

@@ -150,6 +150,9 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 - [[metacognition]]
 - [[student-experience]]
 
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

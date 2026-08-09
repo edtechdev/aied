@@ -37,6 +37,9 @@ The paper highlights that **educational settings have unique requirements**: fal
 - [[regulation]]
 - [[student-experience]]
 
+- [[generative-ai]]
+- [[llm]]
+- [[pedagogical-safety]]
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms

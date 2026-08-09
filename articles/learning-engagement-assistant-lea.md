@@ -22,6 +22,9 @@ The work sits within the broader literature on [[intelligent-tutoring]] and [[ag
 - [[knowledge-tracing]]
 - [[personalized-learning]]
 
+- [[generative-ai]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

@@ -20,6 +20,7 @@ For [[writing-education]], this represents a paradigm shift. Traditional automat
 - [[llm]]
 - [[writing-education]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

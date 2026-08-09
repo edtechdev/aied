@@ -35,6 +35,10 @@ Generative AI can function as either a cognitive tool (amplifying thinking) or a
 - [[scaffolding]]
 - [[self-regulated-learning]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

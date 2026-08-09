@@ -31,6 +31,9 @@ Synthesis paper bridging ITS research + GenAI. Keep/Change/Center/Study framewor
 - [[personalized-learning]]
 - [[scaffolding]]
 
+- [[adaptive-learning]]
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review

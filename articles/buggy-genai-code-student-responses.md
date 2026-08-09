@@ -20,6 +20,7 @@ As generative AI becomes central to software development, CS education is shifti
 - [[reshaping-cs-education-genai]]
 - [[student-experience]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom

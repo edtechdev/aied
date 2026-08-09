@@ -24,6 +24,8 @@ Critical methodological paper on using LLMs for automated qualitative coding of 
 - [[learning-analytics]]
 - [[llm-in-education]]
 
+- [[automated-grading]]
+- [[llm]]
 ## Connected Articles
 
 - [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
