@@ -9,8 +9,6 @@ confidence: high
 ---
 
 > **Author:** Anusha Vissapragada (Hult International Business School) **Source:** [EdArXiv preprint](https://osf.io/preprints/edarxiv/knhyz_v1) (2026)
-
-**Author:** Anusha Vissapragada (Hult International Business School)
 **Source:** [EdArXiv preprint](https://osf.io/preprints/edarxiv/knhyz_v1) (2026)
 
 ## Key Findings

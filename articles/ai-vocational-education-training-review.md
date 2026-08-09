@@ -9,8 +9,6 @@ confidence: high
 ---
 
 > **Authors:** Viola Deutscher, Herbert Thomann, Olga Zlatkin-Troitschanskaia, Ulrike Weyland, Stephan Abele, Amory H. Danek, Samuel Greiff, Andreas Rausch, Susan Seeber, Jürgen Seifried, Esther Winther **Source:** Computers and Education: Artificial Intelligence, Vol 11, 100628 — Open Access (CC BY 4.0)
-
-**Authors:** Viola Deutscher, Herbert Thomann, Olga Zlatkin-Troitschanskaia, Ulrike Weyland, Stephan Abele, Amory H. Danek, Samuel Greiff, Andreas Rausch, Susan Seeber, Jürgen Seifried, Esther Winther
 **Source:** Computers and Education: Artificial Intelligence, Vol 11, 100628 — Open Access (CC BY 4.0)
 
 ## Key Findings

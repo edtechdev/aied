@@ -10,8 +10,6 @@ confidence: medium
 
 > **Critical AI Tutors: Empower or Enslave?** — A position paper presented at the AIED 2025 workshop that issues a stark warning: unchecked use of AI tutors risks creating a generation of cognitively atrophied learners who have traded genuine understanding for the illusion of competence. Drawing on cognitive science and pedagogical theory, the authors argue that AI tutors without intentional guardrails lead to cognitive atrophy, loss of agency, emotional risks, and serious ethical concerns around privacy and academic integrity. The paper advocates for critically informed, transparent AI use that empowers rather than diminishes the learner, and calls for student perspectives to be centered in the design and deployment of AI tutoring systems.
 
-**Authors:** Favero et al. · **Workshop:** AIED 2025 · **arXiv:** 2507.06878
-
 ## Key Findings
 
 This position paper occupies a critical counterpoint in the [[intelligent-tutoring]] literature. While much of the field focuses on optimizing AI tutor performance and learning gains, the authors argue that effectiveness metrics alone are dangerously insufficient — what matters equally are the cognitive and developmental *costs* that AI tutors may impose on learners.
@@ -33,10 +31,6 @@ For system designers, the paper implies that [[ai-tutor-safety-harms]] framework
 The authors' emphasis on student voice — centering learner perspectives in design decisions — connects to the [[student-experience]] literature and the growing recognition that [[generative-ai-guardrails-harm-learning]] must be co-designed with the very populations they aim to protect.
 
 For educators and policymakers, this paper provides intellectual ammunition for resisting uncritical AI adoption. It suggests that [[regulation]] of educational AI should consider not just data privacy and bias but also cognitive and developmental outcomes — a position that resonates with calls in the [[ai-governance-education]] community for holistic evaluation frameworks.
-
-## Source
-
-- https://arxiv.org/abs/2507.06878
 
 ## Connected Concepts
 

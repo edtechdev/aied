@@ -9,8 +9,6 @@ confidence: medium
 ---
 
 > **Authors:** Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla **Year:** 2026 **Venue:** arXiv (cs.AI)
-
-**Authors:** Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V. Chawla
 **Year:** 2026
 **Venue:** arXiv (cs.AI)
 
@@ -21,10 +19,6 @@ Pedagogically grounded chatbot for instructor PD. Data-centric pipeline extracts
 ## Key Contributions
 
 Pedagogically grounded chatbot for instructor PD. Data-centric pipeline extracts pedagogical rules + synthetic dialogue fine-tuning. Outperforms GPT-4o mini on clarity/reflectiveness/responsiveness.
-
-## Source
-
-- https://arxiv.org/abs/2603.18189
 
 ## Connected Concepts
 

@@ -10,8 +10,6 @@ confidence: medium
 
 > **Confidence-Aware ASAG** — A hybrid confidence estimation framework for Automatic Short Answer Grading with LLMs that fuses model-based confidence signals (verbalized, latent, consistency-based) with dataset-derived aleatoric uncertainty via Random Forest + Platt scaling, enabling reliable selective prediction and principled human-in-the-loop review workflows.
 
-**Authors:** Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, Ulf Kroehne · DIPF | Leibniz Institute, Goethe University Frankfurt, Chemnitz University of Technology · AIED 2026 · LLM: gpt-oss-20b · Dataset: SciEntsBank Test_UD (4,562 responses)
-
 ## Key Findings
 
 1. **Model-based confidence alone is insufficient.** Three LLM confidence signals were systematically compared — **verbalizing** (prompting the model to self-report confidence), **latent** (softmax-normalized conditional log-likelihood of the predicted label token), and **consistency-based** (agreement fraction across 5 predictions at temperatures [0.2–1.0]) — and none individually provided reliable uncertainty estimates for ASAG.

@@ -9,8 +9,6 @@ confidence: medium
 ---
 
 > **Authors:** Eason Chen, Ce Guan, A Elshafiey, Zhonghao Zhao, Joshua Zekeri, Afeez Edeifo Shaibu, Emmanuel Osadebe Prince **Year:** 2026 **Venue:** arXiv (cs.HC)
-
-**Authors:** Eason Chen, Ce Guan, A Elshafiey, Zhonghao Zhao, Joshua Zekeri, Afeez Edeifo Shaibu, Emmanuel Osadebe Prince
 **Year:** 2026
 **Venue:** arXiv (cs.HC)
 
@@ -21,10 +19,6 @@ EDM analysis of 2.4M+ AI agents engaging in peer-learning-like discourse. 28,683
 ## Key Contributions
 
 EDM analysis of 2.4M+ AI agents engaging in peer-learning-like discourse. 28,683 posts. Response taxonomy: validation (22%), knowledge extension (18%), application (12%), metacognitive (7%). Statement:question ratio 11.4:1. Six design hypotheses for educational AI.
-
-## Source
-
-- https://arxiv.org/abs/2602.14477
 
 ## Connected Concepts
 

@@ -84,4 +84,5 @@ TEI demonstrates that simple lexical and structural signals can effectively stee
 
 ## Citation
 
-Jaechang, S., & Lee, U. (2026). *The tutoring effectiveness index: Predicting LLM math tutor quality from four conversation signals*. arXiv:2605.30666. CIKM 2026.
+[The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals](https://arxiv.org/abs/2605.30666).
+

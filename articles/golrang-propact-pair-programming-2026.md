@@ -10,8 +10,6 @@ confidence: medium
 
 > **ProPACT** (Proactive AI-Driven Adaptive Collaborative Tutor) is an AI-driven adaptive tutoring system for pair programming that **treats collaboration itself as the object of instruction.** Unlike individual-centric, reactive systems, it models *dyadic* learning states in real time and intervenes *before* collaborative breakdowns occur, using multimodal sensing and predictive forecasting.
 
-**Authors:** Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg · arXiv:2605.02703 · Within-subjects experiment with 26 pair-programming dyads (52 CS/Engineering students)
-
 ## Key Findings
 
 1. **Significant performance gains from proactive feedback.** Dyads receiving ProPACT feedback achieved substantially higher debugging success (*t*[49.96] = −13.51, *p* < .0001) and completed tasks more efficiently (*t*[44.70] = 4.39, *p* < .0001) compared to the no-feedback control condition.

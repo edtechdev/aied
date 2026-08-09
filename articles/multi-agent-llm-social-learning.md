@@ -9,8 +9,6 @@ confidence: high
 ---
 
 > **Authors:** Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson **Year:** 2026 **Venue:** arXiv (cs.HC, cs.CY)
-
-**Authors:** Harsh Kumar, Zi Kang (Jace) Mu, Jonathan Vincentius, Ashton Anderson
 **Year:** 2026
 **Venue:** arXiv (cs.HC, cs.CY)
 
@@ -21,10 +19,6 @@ Multi-agent LLM configurations for learning. Two experiments (N=315 math, N=247 
 ## Key Contributions
 
 Multi-agent LLM configurations for learning. Two experiments (N=315 math, N=247 writing) — tutor+peers outperforms single tutor. Multi-model condition avoids idea homogeneity.
-
-## Source
-
-- https://arxiv.org/abs/2604.02677
 
 ## Connected Concepts
 

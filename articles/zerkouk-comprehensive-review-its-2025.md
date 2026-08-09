@@ -10,8 +10,6 @@ confidence: medium
 
 > **Comprehensive Review of Intelligent Tutoring Systems** — Journal of Computers in Education (2025). A systematic literature review covering 2010–2025 that analyzes the deployment and effectiveness of Intelligent Tutoring Systems (ITS) in real educational settings. The review examines the full landscape of ITS research — pedagogical strategies, natural language processing, adaptive learning mechanisms, student modeling approaches, and domain-specific applications — and arrives at a nuanced verdict: the evidence for ITS effectiveness is mixed, revealing a complex landscape of genuine advancements alongside persistent challenges in scientific rigor and real-world impact.
 
-**Authors:** Zerkouk et al. · **Venue:** Journal of Computers in Education (2025) · **arXiv:** 2507.18882
-
 ## Key Findings
 
 This review provides the most comprehensive mapping of the [[intelligent-tutoring]] field since the emergence of LLM-based tutoring approaches transformed the landscape. Spanning a 15-year window (2010–2025), it captures both the pre-LLM era of traditional ITS and the post-LLM era that has fundamentally reshaped what is technically possible.
@@ -35,10 +33,6 @@ For system designers, the review's catalog of pedagogical gaps suggests concrete
 The review's identification of persistent student modeling limitations connects directly to emerging work on [[llm-student-modeling-memory]] and [[history-aware-student-simulation]], which offer potential pathways toward more sophisticated learner representations. Similarly, the call for [[adaptive-learning]] that goes beyond simple difficulty adjustment toward truly personalized pedagogical experiences connects to the [[learnmate2-llm-adaptive-learning]] and [[nie-personavlm-long-term-personalization-2026]] research streams.
 
 For the [[edtech-platform]] industry and [[educational-policy-ai]] community, this review serves as a sobering reminder that technical capability does not guarantee educational effectiveness. The mixed evidence base should temper claims of AI tutoring as a silver bullet while also validating continued investment in rigorous ITS research and development. The path forward requires [[ai-ed-evaluation]] frameworks that match the sophistication of the systems being evaluated.
-
-## Source
-
-- https://arxiv.org/abs/2507.18882v1
 
 ## Connected Concepts
 

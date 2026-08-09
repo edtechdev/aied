@@ -9,8 +9,6 @@ confidence: high
 ---
 
 > **A fully open-source agentic tutoring framework that closes the loop between citation-grounded problem tutoring and difficulty-calibrated question generation**, powered by a hybrid personalization engine combining static knowledge grounding with dynamic learner memory. Evaluated via TutorBench across 5 university disciplines, improving personalized metrics by 10.8% and general agentic reasoning by 29.4% across 5 backbone models.
-
-**Authors:** Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang (University of Hong Kong)
 **ArXiv:** 2604.26962 (v3, July 2026)
 **Code:** [github.com/HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
 

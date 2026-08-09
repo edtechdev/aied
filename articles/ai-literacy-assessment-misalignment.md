@@ -8,10 +8,6 @@ confidence: high
 sources: []
 ---Highlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31).
 
-## Source
-
-- https://arxiv.org/abs/2601.06101
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

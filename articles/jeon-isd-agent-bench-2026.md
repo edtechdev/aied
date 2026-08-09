@@ -10,8 +10,6 @@ confidence: medium
 
 > **ISD-Agent-Bench** is a comprehensive benchmark for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate LLM-as-judge bias.
 
-**Authors:** YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee · arXiv:2602.10620 · 1,017 test scenarios
-
 ## Key Findings
 
 1. **Hybrid agents outperform both pure theory and pure technique.** The best-performing approach integrates classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) with modern ReAct-style reasoning. The performance hierarchy is: Hybrid (theory + technique) > pure theory-based > technique-only. This demonstrates that grounding LLM agents in established educational design theory provides a structural advantage that raw prompting cannot replicate.
