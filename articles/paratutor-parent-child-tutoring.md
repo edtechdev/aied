@@ -25,6 +25,8 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[k-12]]
 - [[scaffolding]]
 
+- [[llm]]
+- [[personalized-learning]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

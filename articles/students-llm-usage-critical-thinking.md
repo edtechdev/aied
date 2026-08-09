@@ -33,6 +33,10 @@ This work complements [[genai-tutor-engagement-patterns]] by shifting focus from
 - [[learning-analytics]]
 - [[scaffolding]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI

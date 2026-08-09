@@ -23,6 +23,8 @@ This approach represents a novel intersection of [[benchmark|LLM benchmarking]] 
 - [[learning-analytics]]
 - [[personalized-learning]]
 
+- [[knowledge-tracing]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-learning-transfer]] — AI Learning Transfer

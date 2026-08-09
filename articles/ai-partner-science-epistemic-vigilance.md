@@ -19,6 +19,11 @@ Argues that epistemic vigilance — the human evaluation of AI output calibrated
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[higher-ed]]
+- [[k-12]]
+- [[llm]]
+- [[personalized-learning]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

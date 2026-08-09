@@ -31,6 +31,11 @@ Multi-agent LLM configurations for learning. Two experiments (N=315 math, N=247 
 - [[agentic-ai-ecosystems-higher-education]]
 - [[scaffolding]]
 
+- [[agentic-ai]]
+- [[ai-tutoring]]
+- [[higher-ed]]
+- [[llm]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review

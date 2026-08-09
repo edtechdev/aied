@@ -60,11 +60,26 @@ function renderMarkdown(text: string, pageTitle: string): string {
   return html;
 }
 
+function smartTitle(label: string): string {
+  const KNOWN: Record<string, string> = {
+    'ai': 'AI', 'llm': 'LLM', 'rag': 'RAG', 'nlp': 'NLP',
+    'k-12': 'K-12', 'irt': 'IRT', 'its': 'ITS', 'rct': 'RCT',
+    'stem': 'STEM', 'cs': 'CS', 'ide': 'IDE', 'api': 'API',
+    'srl': 'SRL', 'lms': 'LMS', 'mooc': 'MOOC', 'vr': 'VR',
+    'ar': 'AR', 'ui': 'UI', 'ux': 'UX', 'sdk': 'SDK',
+    'tpack': 'TPACK', 'asag': 'ASAG', 'kt': 'KT',
+    'rl': 'RL', 'ml': 'ML', 'xai': 'XAI',
+    'genai': 'GenAI', 'aied': 'AIED', 'pjbl': 'PjBL',
+    'hci': 'HCI', 'zpd': 'ZPD',
+  };
+  return label.replace(/\b\w+\b/g, w => KNOWN[w.toLowerCase()] || (w[0].toUpperCase() + w.slice(1)));
+}
+
 function renderInline(text: string): string {
   return text
     .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, p, l) => {
       const page = p.replace('.md', '').trim();
-      const label = l || page.replace(/-/g, ' ');
+      const label = l || smartTitle(page.replace(/-/g, ' '));
       return `<a href="/aied/pages/${page}">${label}</a>`;
     })
     .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')

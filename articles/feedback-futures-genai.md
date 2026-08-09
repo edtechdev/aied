@@ -52,6 +52,9 @@ The editors distill five recurring tensions from the special issue:
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 
+- [[ai-education]]
+- [[generative-ai]]
+- [[rag]]
 ## Connected Articles
 
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning

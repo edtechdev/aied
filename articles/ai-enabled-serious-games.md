@@ -20,6 +20,12 @@ This book chapter provides a comprehensive survey of AI integration in serious g
 - [[adaptive-learning-systems]]
 - [[agentic-ai-ecosystems-higher-education]]
 
+- [[adaptive-learning]]
+- [[agentic-ai]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[professional-training]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

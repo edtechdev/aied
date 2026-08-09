@@ -15,6 +15,9 @@ Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered Network Analysis to t
 
 - [[affective-tutoring]]
 
+- [[affective-computing]]
+- [[learning-analytics]]
+- [[llm]]
 ## Connected Articles
 
 - [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring

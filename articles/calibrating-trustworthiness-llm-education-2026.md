@@ -21,6 +21,7 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 - [[ai-ed-evaluation]]
 - [[llm]]
 
+- [[visualization]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

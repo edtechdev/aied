@@ -18,6 +18,8 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[inc
 - [[equity-in-ai-education]]
 - [[student-experience]]
 
+- [[ai-education]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education

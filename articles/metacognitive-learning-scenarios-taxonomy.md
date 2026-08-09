@@ -37,6 +37,7 @@ The taxonomy enables targeted, scenario-specific professional development interv
 - [[scaffolding]]
 - [[self-regulated-learning]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[llm-educational-question-cognitive-depth]] — From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions

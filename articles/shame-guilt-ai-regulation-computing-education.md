@@ -19,6 +19,9 @@ An interview study with 19 computing students through a functionalist perspectiv
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[higher-ed]]
+- [[k-12]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

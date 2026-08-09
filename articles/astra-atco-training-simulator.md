@@ -22,6 +22,7 @@ ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpil
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[professional-training]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

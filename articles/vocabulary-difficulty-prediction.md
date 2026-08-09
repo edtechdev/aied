@@ -51,6 +51,12 @@ BEA (Building Educational Applications) is the premier venue for NLP-for-educati
 - [[formative-assessment]]
 - [[writing-education]]
 
+- [[generative-ai]]
+- [[k-12]]
+- [[llm]]
+- [[open-source]]
+- [[rag]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

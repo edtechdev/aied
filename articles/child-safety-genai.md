@@ -27,6 +27,10 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[k-12]]
 - [[llm-in-education]]
 
+- [[generative-ai]]
+- [[llm]]
+- [[pedagogical-safety]]
+- [[rag]]
 ## Connected Articles
 
 - [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics ed...

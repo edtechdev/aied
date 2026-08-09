@@ -46,6 +46,7 @@ For the research community, the review functions as both a wake-up call and a ro
 - [[scaffolding]]
 - [[zone-of-proximal-development]]
 
+- [[ai-literacy]]
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring

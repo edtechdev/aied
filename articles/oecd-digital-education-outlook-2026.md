@@ -63,6 +63,10 @@ A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with inte
 
 - [[ai-tutoring]]
 
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[k-12]]
 ## Connected Articles
 
 - [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education

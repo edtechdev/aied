@@ -63,6 +63,10 @@ CAC connects to several threads in AI education research:
 - [[pedagogical-llm-training]]
 - [[personalized-learning]]
 
+- [[adaptive-learning]]
+- [[ai-tutoring]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants

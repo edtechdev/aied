@@ -52,6 +52,9 @@ Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [
 - [[metacognition]]
 - [[self-regulated-learning]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

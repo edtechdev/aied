@@ -1,5 +1,5 @@
 ---
-title: Llm In Education
+title: LLM In Education
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

@@ -29,6 +29,7 @@ The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as
 - [[knowledge-tracing]]
 - [[learning-analytics]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT

@@ -21,6 +21,8 @@ This work connects to core wiki themes: [[knowledge-tracing]] [[personalized-lea
 - [[knowledge-tracing]]
 - [[personalized-learning]]
 
+- [[generative-ai]]
+- [[rag]]
 ## Connected Articles
 
 - [[programming-its]] — Programming Intelligent Tutoring Systems

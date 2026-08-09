@@ -20,6 +20,10 @@ The cross-context pilot in Italy and China provides initial evidence of feasibil
 - [[ai-literacy]]
 - [[scaffolding]]
 
+- [[k-12]]
+- [[pedagogical-safety]]
+- [[student-experience]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

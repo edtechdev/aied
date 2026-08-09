@@ -16,6 +16,8 @@ Hutchison et al. (2026) develop and validate a method for measuring critical eng
 - [[formative-assessment]]
 - [[student-experience]]
 
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-learning-transfer]] — AI Learning Transfer

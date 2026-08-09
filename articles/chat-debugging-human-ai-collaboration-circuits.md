@@ -49,6 +49,8 @@ The findings support a [[scaffolding]] approach where AI tools complement rather
 - [[ai-education]]
 - [[higher-ed]]
 
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance

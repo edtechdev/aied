@@ -19,6 +19,8 @@ Abdelghani, Kaiser & Murayama (2026) trace how middle and high school students' 
 - [[self-regulated-learning]]
 - [[student-experience]]
 
+- [[llm]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[representation-robustness-llm-math-problem-solving]] — Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem So...

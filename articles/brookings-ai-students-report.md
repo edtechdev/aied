@@ -32,6 +32,9 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 - [[regulation]]
 - [[student-experience]]
 
+- [[ai-literacy]]
+- [[k-12]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

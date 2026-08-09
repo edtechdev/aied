@@ -32,6 +32,9 @@ EDM analysis of 2.4M+ AI agents engaging in peer-learning-like discourse. 28,683
 - [[metacognition]]
 - [[scaffolding]]
 
+- [[agentic-ai]]
+- [[ai-tutoring]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

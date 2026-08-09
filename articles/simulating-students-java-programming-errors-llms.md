@@ -31,6 +31,7 @@ This work extends research on [[llm-student-simulation-misconception-faithfulnes
 - [[learning-analytics]]
 - [[llm]]
 
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study

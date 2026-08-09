@@ -28,6 +28,9 @@ The paper reframes expertise development as collective stewardship rather than o
 - [[lifelong-learning]]
 - [[professional-training]]
 
+- [[ai-education]]
+- [[generative-ai]]
+- [[rag]]
 ## Connected Articles
 
 - [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?

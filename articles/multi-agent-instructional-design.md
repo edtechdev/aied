@@ -110,6 +110,9 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 - [[human-in-the-loop-ai]]
 - [[metacognition]]
 
+- [[agentic-ai]]
+- [[k-12]]
+- [[pedagogical-safety]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

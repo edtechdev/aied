@@ -16,6 +16,9 @@ Li, Padman and Krishnan audit 102 US transplant-center patient handbooks that se
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[equity-in-ai-education]]
 
+- [[ai-education]]
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[medeasy-ai-standardized-patients]] — MedEasy: Designing AI Standardized Patients for Clinical Consultation Training

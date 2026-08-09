@@ -58,6 +58,7 @@ For [[higher-ed]] contexts, the review provides actionable guidance: semester-lo
 - [[reshaping-cs-education-genai]]
 - [[scaffolding]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom

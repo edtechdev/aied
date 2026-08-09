@@ -19,6 +19,9 @@ PromptDecipher addresses a critical gap in AI tutor deployment: teacher quality 
 
 - [[teacher-role]]
 
+- [[agentic-workflows]]
+- [[ai-literacy]]
+- [[llm]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

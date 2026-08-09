@@ -24,6 +24,7 @@ This paper presents an [[llm]]-based grading system for Linux/bash command-line 
 - [[llm]]
 - [[scaffolding]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

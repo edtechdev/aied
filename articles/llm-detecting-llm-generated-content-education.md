@@ -16,6 +16,7 @@ As students increasingly use [[llm]]s to draft written responses and program cod
 - [[llm]]
 - [[plagiarism-detection]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[socially-fluent-ai-identity-detection]] — Socially fluent AI decouples conversational signals from source identity in online interaction

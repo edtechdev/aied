@@ -1,5 +1,5 @@
 ---
-title: Llm
+title: LLM
 created: 2026-05-21
 updated: 2026-05-21
 type: concept

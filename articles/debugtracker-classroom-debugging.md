@@ -23,6 +23,7 @@ Debugging exercises are usually graded from final code and test outcomes, which 
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[programming-its]] — Programming Intelligent Tutoring Systems

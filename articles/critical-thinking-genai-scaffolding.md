@@ -86,6 +86,9 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - [[self-regulated-learning]]
 - [[socratic-ai-dialogue]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

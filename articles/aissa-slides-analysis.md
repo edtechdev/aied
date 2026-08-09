@@ -32,6 +32,8 @@ Tested with 46 undergraduate students in a real academic setting. Findings: tech
 - [[learning-analytics]]
 - [[slidesqaqa-pedagogical-question-generation]]
 
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

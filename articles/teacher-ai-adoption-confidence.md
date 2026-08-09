@@ -28,6 +28,8 @@ This paper provides empirical clarity for [[teacher-role]] policy: institutional
 - [[teacher-ai-competency]]
 - [[teacher-role]]
 
+- [[higher-ed]]
+- [[k-12]]
 ## Connected Articles
 
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching

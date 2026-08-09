@@ -32,6 +32,8 @@ The study also connects to [[socially-fluent-ai-identity-detection|research on A
 - [[student-experience]]
 - [[writing-education]]
 
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

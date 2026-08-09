@@ -44,6 +44,9 @@ Unlike [[tutoring-specific-vs-general-ai]] debates about specialized tutors, thi
 - [[metacognition]]
 - [[scaffolding]]
 
+- [[adaptive-learning]]
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

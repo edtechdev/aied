@@ -25,6 +25,10 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[pedagogical-llm-training]]
 - [[personalized-learning]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants

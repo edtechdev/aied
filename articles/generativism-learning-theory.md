@@ -36,6 +36,7 @@ Generativism has profound implications for [[intelligent-tutoring-systems|instru
 - [[self-regulated-learning]]
 - [[teacher-role]]
 
+- [[personalized-learning]]
 ## Connected Articles
 
 - [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?

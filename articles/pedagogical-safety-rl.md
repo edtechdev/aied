@@ -61,6 +61,11 @@ This parallels concerns in [[educational-llm-alignment]] where benchmark misalig
 - [[adaptive-learning-systems]]
 - [[metacognition]]
 
+- [[adaptive-learning]]
+- [[llm]]
+- [[pedagogical-safety]]
+- [[rag]]
+- [[reinforcement-learning]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review

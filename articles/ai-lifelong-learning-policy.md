@@ -24,6 +24,8 @@ Key tensions identified include the promise of [[intelligent-tutoring]] and [[le
 - [[regulation]]
 - [[teacher-role]]
 
+- [[ai-literacy]]
+- [[bias-mitigation]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

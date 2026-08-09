@@ -1,5 +1,5 @@
 ---
-title: Human Ai Collaboration
+title: Human AI Collaboration
 created: 2026-05-29
 updated: 2026-05-29
 type: concept

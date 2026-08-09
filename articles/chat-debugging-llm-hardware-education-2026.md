@@ -17,6 +17,7 @@ Work-in-progress exploring LLMs as debugging assistants for physical hardware la
 - [[scaffolding]]
 - [[student-experience]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[programming-its]] — Programming Intelligent Tutoring Systems

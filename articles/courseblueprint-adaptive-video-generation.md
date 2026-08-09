@@ -18,6 +18,7 @@ Islam et al. (2026) address a core limitation of generative text-to-video for ed
 - [[personalized-learning]]
 - [[scaffolding]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

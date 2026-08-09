@@ -63,6 +63,10 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 - [[faculty-development-genai]]
 - [[pedagogical-llm-training]]
 
+- [[bias-mitigation]]
+- [[ethics]]
+- [[llm]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

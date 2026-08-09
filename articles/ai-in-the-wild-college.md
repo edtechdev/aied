@@ -18,6 +18,8 @@ Karidi, Amir & Roll (2026) present one of the largest empirical analyses to date
 - [[llm]]
 - [[student-experience]]
 
+- [[higher-ed]]
+- [[learning-analytics]]
 ## Connected Articles
 
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap

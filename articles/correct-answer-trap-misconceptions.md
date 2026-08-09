@@ -17,6 +17,7 @@ Imran and Bulathwela (2026) identify the 'correct answer trap' — automated fee
 - [[formative-assessment]]
 - [[k-12]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

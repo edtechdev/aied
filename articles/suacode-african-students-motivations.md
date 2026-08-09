@@ -15,6 +15,8 @@ Addo, Munagah, Kumbol, Uchidiuno and Boateng study why African students enroll i
 
 - [[equity-in-ai-education]]
 
+- [[ai-education]]
+- [[ai-literacy]]
 ## Connected Articles
 
 - [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis

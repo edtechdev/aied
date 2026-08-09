@@ -16,6 +16,7 @@ Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior softwa
 - [[metacognition]]
 - [[self-regulated-learning]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study

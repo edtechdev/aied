@@ -16,6 +16,7 @@ Gheisari and Salarian (2026) apply supervised machine learning classification to
 - [[higher-ed]]
 - [[learning-analytics]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training

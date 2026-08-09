@@ -34,6 +34,7 @@ Pedagogically grounded chatbot for instructor PD. Data-centric pipeline extracts
 - [[teacher-ai-competency]]
 - [[teacher-role]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design

@@ -19,6 +19,10 @@ Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficie
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[adaptive-learning]]
+- [[k-12]]
+- [[llm]]
+- [[personalized-learning]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

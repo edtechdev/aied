@@ -16,6 +16,11 @@ A quasi-experimental, short-term longitudinal study with 126 first-year engineer
 - [[metacognition]]
 - [[self-regulated-learning]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[regulation]]
+- [[scaffolding]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM

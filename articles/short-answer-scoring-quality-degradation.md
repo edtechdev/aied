@@ -40,6 +40,8 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 
+- [[llm]]
+- [[open-source]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

@@ -37,6 +37,10 @@ For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a me
 - [[agentic-ai]]
 - [[ai-ed-evaluation]]
 
+- [[agentic-workflows]]
+- [[ai-education]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm

@@ -16,6 +16,10 @@ Machine learning courses typically hand students pre-labeled datasets, hiding th
 - [[ai-literacy]]
 - [[bias-mitigation]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[rag]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI

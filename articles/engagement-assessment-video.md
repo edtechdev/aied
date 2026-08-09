@@ -59,6 +59,10 @@ Intelligent tutoring systems increasingly include **video components** (e.g., wo
 - [[formative-assessment]]
 - [[self-regulated-learning]]
 
+- [[adaptive-learning]]
+- [[affective-computing]]
+- [[higher-ed]]
+- [[learning-analytics]]
 ## Connected Articles
 
 - [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education

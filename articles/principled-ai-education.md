@@ -69,6 +69,9 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[metacognition]]
 - [[self-regulated-learning]]
 
+- [[ai-education]]
+- [[higher-ed]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm

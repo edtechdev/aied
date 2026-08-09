@@ -16,6 +16,9 @@ Akgun and Toker (2026) examine whether learning gains from GenAI-enabled adaptiv
 - [[adaptive-learning]]
 - [[personalized-learning]]
 
+- [[formative-assessment]]
+- [[higher-ed]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-learning-transfer]] — AI Learning Transfer

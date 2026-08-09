@@ -25,6 +25,7 @@ The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educati
 - [[professional-training]]
 - [[student-experience]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

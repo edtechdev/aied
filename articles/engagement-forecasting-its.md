@@ -48,6 +48,11 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 
 - [[learning-analytics]]
 
+- [[ai-tutoring]]
+- [[k-12]]
+- [[metacognition]]
+- [[rag]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

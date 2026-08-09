@@ -44,6 +44,9 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 - [[k-12-ai-education]]
 - [[pedagogical-llm-training]]
 
+- [[ai-education]]
+- [[k-12]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

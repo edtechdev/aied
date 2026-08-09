@@ -17,6 +17,9 @@ To make evaluation provenance explicit the authors build BILearn-CS, a 600-query
 
 - [[pedagogical-llm-training]]
 
+- [[generative-ai]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms

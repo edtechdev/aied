@@ -24,6 +24,9 @@ The finding that full automation reduces cognitive engagement echoes the [[over-
 - [[k-12]]
 - [[student-experience]]
 
+- [[generative-ai]]
+- [[llm]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[learning-behavior-background-advantage-ai-ed]] — Learning behavior accounts for background-related advantage in AI-assisted education

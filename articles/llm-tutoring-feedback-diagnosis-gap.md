@@ -19,6 +19,9 @@ This paper exposes a critical diagnostic blind spot in LLM-based tutoring agents
 
 - [[scaffolding]]
 
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

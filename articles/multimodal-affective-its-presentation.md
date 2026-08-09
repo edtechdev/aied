@@ -19,6 +19,11 @@ This paper presents one of the most comprehensive closed-loop [[intelligent-tuto
 
 - [[retrieval-augmented-generation]]
 
+- [[affective-computing]]
+- [[higher-ed]]
+- [[learning-analytics]]
+- [[llm]]
+- [[professional-training]]
 ## Connected Articles
 
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems

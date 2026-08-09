@@ -58,6 +58,7 @@ Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), 
 - [[socratic-ai-dialogue]]
 - [[student-experience]]
 
+- [[generative-ai]]
 ## Connected Articles
 
 - [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI

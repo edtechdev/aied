@@ -27,6 +27,9 @@ Findings highlight the promise of reflective-agent approaches for scaling engage
 - [[learning-analytics]]
 - [[metacognition]]
 
+- [[ai-tutoring]]
+- [[llm]]
+- [[nlp-education]]
 ## Connected Articles
 
 - [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy

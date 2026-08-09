@@ -73,6 +73,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 - [[generative-ai]]
 - [[rag]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[llm-feedback-programming-classroom]] — LLM-Generated Feedback in Introductory Programming: A Classroom Study

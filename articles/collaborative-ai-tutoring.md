@@ -73,6 +73,11 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 - [[socratic-ai-dialogue]]
 - [[zone-of-proximal-development]]
 
+- [[adaptive-learning]]
+- [[formative-assessment]]
+- [[higher-ed]]
+- [[learning-analytics]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants

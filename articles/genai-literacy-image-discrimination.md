@@ -17,6 +17,9 @@ Kamali et al. (2026) evaluate a Generative AI Literacy training intervention des
 - [[generative-ai]]
 - [[professional-training]]
 
+- [[higher-ed]]
+- [[llm]]
+- [[regulation]]
 ## Connected Articles
 
 - [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education

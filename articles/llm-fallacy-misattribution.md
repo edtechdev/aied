@@ -67,6 +67,11 @@ Three system properties enable the fallacy via two cognitive mediators:
 - [[metacognition]]
 - [[self-regulated-learning]]
 
+- [[higher-ed]]
+- [[k-12]]
+- [[llm]]
+- [[rag]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

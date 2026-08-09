@@ -27,6 +27,7 @@ Three broader findings emerge: (1) model scale is not a reliable predictor of do
 - [[open-source]]
 - [[writing-education]]
 
+- [[automated-assessment]]
 ## Connected Articles
 
 - [[llm-automated-assessment-student-self-explanations]] — Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education

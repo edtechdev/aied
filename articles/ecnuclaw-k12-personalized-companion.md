@@ -45,6 +45,9 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 - [[regulation]]
 - [[self-regulated-learning]]
 
+- [[k-12]]
+- [[llm]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

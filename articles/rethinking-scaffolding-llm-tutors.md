@@ -24,6 +24,9 @@ This paper contributes directly to understanding how AI systems interact with le
 
 - [[scaffolding]]
 
+- [[help-seeking]]
+- [[llm]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System

@@ -37,6 +37,9 @@ A conceptual/position paper arguing that feedback in an age of GenAI must be und
 - [[human-in-the-loop-ai]]
 - [[teacher-role]]
 
+- [[ai-education]]
+- [[ethics]]
+- [[generative-ai]]
 ## Connected Articles
 
 - [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...

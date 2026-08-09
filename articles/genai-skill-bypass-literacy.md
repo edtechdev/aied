@@ -21,6 +21,8 @@ This work connects to core wiki themes: [[ai-literacy]] [[higher-ed]] [[over-rel
 - [[generative-ai]]
 - [[higher-ed]]
 
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

@@ -33,6 +33,8 @@ AICoFe extends prior work on [[ai-peer-feedback-systems]] from experimental prot
 - [[human-in-the-loop-ai]]
 - [[learning-analytics]]
 
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

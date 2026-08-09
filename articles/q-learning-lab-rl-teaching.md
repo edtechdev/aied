@@ -19,6 +19,8 @@ A [[reinforcement-learning-education]] artifact grounded in [[active-learning]] 
 - [[scaffolding]]
 - [[self-regulated-learning]]
 
+- [[llm]]
+- [[reinforcement-learning]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

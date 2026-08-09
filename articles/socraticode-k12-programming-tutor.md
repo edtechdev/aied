@@ -22,6 +22,11 @@ SocratiCode demonstrates a participatory design evolution from directive AI tuto
 - [[metacognition]]
 - [[self-regulated-learning]]
 
+- [[generative-ai]]
+- [[k-12]]
+- [[llm]]
+- [[scaffolding]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education

@@ -25,6 +25,8 @@ Artificial intelligence assistants deployed in online learning environments crea
 - [[personalized-learning]]
 - [[student-experience]]
 
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams

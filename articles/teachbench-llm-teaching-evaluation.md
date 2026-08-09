@@ -88,6 +88,9 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 - [[ai-literacy]]
 - [[formative-assessment]]
 
+- [[agentic-workflows]]
+- [[llm]]
+- [[personalized-learning]]
 ## Connected Articles
 
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

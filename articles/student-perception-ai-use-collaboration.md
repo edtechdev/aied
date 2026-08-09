@@ -15,6 +15,8 @@ Graf et al. (2026) identify a new challenge in collaborative programming educati
 
 - [[student-experience]]
 
+- [[ai-tutoring]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring

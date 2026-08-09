@@ -20,6 +20,8 @@ Formalizes Agentic Software Engineering (ASE) as a distinct discipline. Proposes
 - [[prompt-engineering]]
 - [[scaffolding]]
 
+- [[agentic-ai]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

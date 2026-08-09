@@ -27,6 +27,7 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[student-experience]]
 - [[teacher-role]]
 
+- [[k-12]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

@@ -32,6 +32,10 @@ Validated across five diverse educational contexts, levels, and tool designs, re
 - [[personalized-learning]]
 - [[self-regulated-learning]]
 
+- [[adaptive-learning]]
+- [[llm]]
+- [[scaffolding]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community

@@ -25,6 +25,8 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[human-ai-collaboration]]
 - [[student-experience]]
 
+- [[higher-ed]]
+- [[k-12]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

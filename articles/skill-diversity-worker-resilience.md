@@ -44,6 +44,8 @@ This framework has direct implications for [[ai-education|educational policy]] a
 - [[ai-literacy]]
 - [[higher-ed]]
 
+- [[llm]]
+- [[professional-training]]
 ## Connected Articles
 - [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?

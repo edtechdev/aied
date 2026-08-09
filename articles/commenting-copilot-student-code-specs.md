@@ -21,6 +21,7 @@ Situates in [[llm]]-assisted [[programming-its]] and [[student-experience]] with
 - [[reshaping-cs-education-genai]]
 - [[student-experience]]
 
+- [[rag]]
 ## Connected Articles
 
 - [[programming-its]] — Programming Intelligent Tutoring Systems

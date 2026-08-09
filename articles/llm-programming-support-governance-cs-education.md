@@ -16,6 +16,7 @@ This scoping review synthesizes 90 peer-reviewed [[llm]]-based programming suppo
 - [[llm]]
 - [[scaffolding]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[genai-assessment-governance]] — Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment

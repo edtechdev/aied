@@ -21,6 +21,8 @@ The parameter-free global extraction module makes this broadly applicable — ex
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[adaptive-learning]]
+- [[knowledge-tracing]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT

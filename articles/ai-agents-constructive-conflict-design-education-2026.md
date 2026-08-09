@@ -16,6 +16,7 @@ Investigates adversarial AI design agents that enact constructive conflict to pr
 - [[agentic-ai]]
 - [[scaffolding]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

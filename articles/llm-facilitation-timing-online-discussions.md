@@ -26,6 +26,8 @@ For online learning, the work informs when AI should intervene in discussion for
 - [[human-ai-collaboration]]
 - [[learning-analytics]]
 
+- [[llm]]
+- [[nlp-education]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

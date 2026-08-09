@@ -19,6 +19,7 @@ Links [[generative-ai]] use to [[learning-gains]], [[personalized-learning]], an
 - [[personalized-learning]]
 - [[student-experience]]
 
+- [[rag]]
 ## Connected Articles
 
 - [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...

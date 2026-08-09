@@ -25,6 +25,8 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[personalized-learning]]
 - [[self-regulated-learning]]
 
+- [[higher-ed]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-learning-transfer]] — AI Learning Transfer
