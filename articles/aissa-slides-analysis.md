@@ -24,12 +24,6 @@ A web-based system that uses LLMs and Learning Analytics dashboards to provide a
 ## Pilot Results
 Tested with 46 undergraduate students in a real academic setting. Findings: technically reliable, economically feasible, and perceived by students as useful for iterative slide improvement.
 
-## Connections
-- Extends [[automated-grading]] beyond text assessment to multimodal presentation evaluation
-- Applies [[learning-analytics]] dashboards to formative feedback workflows
-- Complements [[formative-assessment]] approaches with rubric-based automation
-- Demonstrates scalable AI feedback deployment, relevant to [[ai-peer-feedback-systems]]
-
 ## Connected Concepts
 
 - [[automated-grading]]

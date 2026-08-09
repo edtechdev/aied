@@ -30,12 +30,6 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 4. **Center human connection** — AI must foster, not replace, human relationships
 5. **Build evidence infrastructure** — fund research on what works; share findings across districts
 
-## Connections
-- Complements [[faculty-development-genai]] with state-level policy levers
-- Extends [[regulation]] discussion with concrete state-level mechanisms
-- Equity gaps data reinforces concerns in [[equity-in-ai-education]]
-- "Human connection" emphasis connects to [[teacher-role]]
-
 ## Connected Concepts
 
 - [[ai-literacy]]

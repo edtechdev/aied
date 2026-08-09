@@ -22,14 +22,6 @@ Pedagogically grounded chatbot for instructor PD. Data-centric pipeline extracts
 
 Pedagogically grounded chatbot for instructor PD. Data-centric pipeline extracts pedagogical rules + synthetic dialogue fine-tuning. Outperforms GPT-4o mini on clarity/reflectiveness/responsiveness.
 
-## Connections
-
-- [[teacher-role]]
-- [[faculty-development-genai]]
-- [[higher-ed]]
-- [[scaffolding]]
-- [[teacher-ai-competency]]
-
 ## Source
 
 - https://arxiv.org/abs/2603.18189

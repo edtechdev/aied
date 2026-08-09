@@ -22,14 +22,6 @@ Synthesis paper bridging ITS research + GenAI. Keep/Change/Center/Study framewor
 
 Synthesis paper bridging ITS research + GenAI. Keep/Change/Center/Study framework. Keep knowledge tracing/affect detection; Change delivery with GenAI; Center meaning-making/student agency; Study efficacy/integration.
 
-## Connections
-
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[personalized-learning]]
-- [[ai-tutor-effectiveness-review]]
-- [[pedagogy-ai-mistakes]]
-
 ## Source
 
 - https://arxiv.org/abs/2602.19303

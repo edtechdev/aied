@@ -15,10 +15,6 @@ Student mobility programs such as Erasmus+ enable students to take courses at ot
 
 presents CourseGraph, a methodology for automatically evaluating external course equivalences by modelling course content as structured knowledge graphs. Designed for student mobility programmes like Erasmus+, CourseGraph extracts topics from course descriptions, maps relationships between concepts, and identifies substantive overlap vs. complementarity between courses at different universities. The system mimics the manual workflow of curriculum advisors — analysing syllabi, comparing learning objectives, and flagging redundancies — but scales to thousands of course pairs. Evaluation on CS programmes across multiple European universities demonstrates that CourseGraph's overlap judgments align closely with expert advisor decisions while dramatically reducing processing time.
 
-## Connections
-
-This work connects to: [[cs-education]][[curriculum-design]][[instructional-design]][[higher-ed]][[student-experience]]
-
 ## Connected Concepts
 
 - [[curriculum-design]]

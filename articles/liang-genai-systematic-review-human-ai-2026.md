@@ -19,10 +19,6 @@ This BJET review synthesizes 56 empirical studies on GenAI in education, uniquel
 - Most current practice remains in lower-automation modes with strong teacher/learner oversight
 - Sensitivity analysis confirms findings robust across interaction modes
 
-## Connections
-
-This work connects to: [[systematic-review]][[generative-ai]][[human-ai-interaction]][[ai-literacy]][[higher-ed]][[efficacy-study]]
-
 ## Connected Concepts
 
 - [[ai-literacy]]
