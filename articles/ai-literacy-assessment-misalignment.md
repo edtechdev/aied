@@ -1,15 +1,16 @@
 ---
-title: "Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations"
-created: 2026-06-10
-updated: 2026-06-10
-type: concept
-tags: [automated-grading, assessment, higher-ed, generative-ai, formative-assessment, llm, student-experience, ai-literacy, scaffolding, stem-education]
+title: "AI Literacy Assessment: Self-Reported vs Performance Misalignment"
+created: 2026-05-08
+updated: 2026-05-08
+type: article
+tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, faculty-development, higher-ed, generative-ai, llm, student-experience]
 confidence: high
----
+sources: []
+---Highlights critical misalignment between self-reported AI literacy and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31).
 
-**Hartwig Grabowski, Michael Canz** — cs.AI, cs.CV, cs.CY
+## Source
 
-This paper identifies the didactic narrowing caused by fully digital e-assessment (overuse of closed question formats) and proposes a hybrid approach that retains paper-based, problem-oriented examination tasks while enabling semi-automated grading. The core technical innovation is applying vision-capable LLMs to recognize handwritten characters in structured answer fields under realistic exam conditions, combined with a two-pass validation principle and comparison against a solution key to reduce misclassifications. The approach addresses organizational, technical, and legal constraints that become relevant in large student cohorts. This work connects [[automated-grading]] research to real-world assessment practice by acknowledging that fully digital assessment often degrades assessment quality, even as institutions push for scalability. The hybrid approach could inform [[formative-assessment]] redesign in large-enrollment STEM courses.
+- https://arxiv.org/abs/2601.06101
 
 ## Connected Concepts
 
@@ -27,15 +28,14 @@ This paper identifies the didactic narrowing caused by fully digital e-assessmen
 - [[ai-literacy]]
 - [[ai-tutoring]]
 - [[assessment-validity]]
-- [[automated-assessment]]
+- [[automated-grading]]
 
 ## Connected Articles
 
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
 - [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
-- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 - [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
-- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
 - [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 - [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
@@ -55,4 +55,9 @@ This paper identifies the didactic narrowing caused by fully digital e-assessmen
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-tpack-preservice-math-teachers]] — AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structura...
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+
+## Citation
+
+AI Literacy Assessment: Self-Reported vs Performance Misalignment

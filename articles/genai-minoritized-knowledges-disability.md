@@ -2,14 +2,11 @@
 title: "Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability"
 created: 2026-05-27
 updated: 2026-05-27
-type: concept
+type: article
 tags: [generative-ai, higher-ed, special-education, equity, bias-mitigation, llm, student-experience, ai-literacy, scaffolding, stem-education]
 confidence: high
----
-
-**Fatiha Tali-Otmani (2026)** — EFTS, Grhapes. arXiv preprint.
-
-## Overview
+sources: []
+---## Overview
 
 This paper argues that [[generative-ai]] systems in [[higher-ed]] are not epistemically neutral — they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric training data reinforces epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration, where technological architectures confine them to reductive stereotypes or exclude them from the design process entirely.
 
@@ -74,3 +71,7 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+
+## Citation
+
+Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
