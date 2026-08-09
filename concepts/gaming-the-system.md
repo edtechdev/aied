@@ -6,8 +6,10 @@ type: concept
 tags: [gaming-the-system, intelligent-tutoring, student-experience, llm, higher-ed, generative-ai, ai-literacy, k-12, scaffolding, adaptive-learning]
 confidence: medium
 ---
+> **Gaming the System** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** "Gaming the system" refers to behaviors where students exploit system features to progress without engaging in intended cognitive work, widely documented in intelligent tutoring systems with 10-40% of students engaging at least intermittently.
+Research themes include:
+- A three-semester, 999-student analysis of hint usage in a K-12 mathematics ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced learning gains, even after co
 
 ## Connected Concepts
 

@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Pedagogy — referenced by 1 pages (e.g., genai-marketing-education-roles-2026). Needs synthesis from connected articles.
+> **Pedagogy** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
 ## Connected Concepts
 

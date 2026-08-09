@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Inclusive Ai — referenced by 4 pages (e.g., bias-mitigation, genai-architecture-education, genai-minoritized-knowledges-disability, neurodivergent-computing-students). Needs synthesis from connected articles.
+> **Inclusive Ai** — a key concept in AI in education research. Explored across 3 articles in this wiki.
 
 ## Connected Concepts
 

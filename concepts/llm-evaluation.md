@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **LLM Evaluation** — a key concept in AI in education research. Explored across 2 articles in this wiki.
 
-> **Stub:** LLM Evaluation — referenced by 2 pages (e.g., hazra-safetutors-pedagogical-safety-2026, jeon-isd-agent-bench-2026). Needs synthesis from connected articles.
+Research themes include:
+- **Authors:** YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee · arXiv:2602.10620 · 1,017 test scenarios
 
 ## Connected Concepts
 

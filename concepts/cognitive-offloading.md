@@ -6,8 +6,11 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Cognitive Offloading** — a key concept in AI in education research. Explored across 11 articles in this wiki.
 
-> **Stub:** Cognitive Offloading — referenced by 14 pages (e.g., ai-co-intelligence, ai-fatigue-academic-contexts, ai-making-us-stupid, buggy-genai-code-student-responses, code-review-genai-cs1). Needs synthesis from connected articles.
+Research themes include:
+- **Authors:** Favero et al. · **Workshop:** AIED 2025 · **arXiv:** 2507.06878
+- ## Core distinction: skills vs. basic cognitive abilities
 
 ## Connected Concepts
 

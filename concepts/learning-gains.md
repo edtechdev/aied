@@ -6,8 +6,11 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Learning Gains** — a key concept in AI in education research. Explored across 6 articles in this wiki.
 
-> **Stub:** Learning Gains — referenced by 6 pages (e.g., adaptive-pretesting-retention, cross-subject-validity-delayed-start, efficiency-gain-illusion-ai-overreliance, generative-ai-reduced-study-time-math, learning-behavior-background-advantage-ai-ed). Needs synthesis from connected articles.
+Research themes include:
+- **Authors:** Zerkouk et al. · **Venue:** Journal of Computers in Education (2025) · **arXiv:** 2507.18882
+- 1. **Self-estimate miscalibration**: People on average **underestimate how often they actually use AI** — they believe they use it significantly less than objective measures show.
 
 ## Connected Concepts
 

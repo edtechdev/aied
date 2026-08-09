@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Reinforcement Learning Education** — a key concept in AI in education research. Explored across 2 articles in this wiki.
 
-> **Stub:** Reinforcement Learning Education — referenced by 2 pages (e.g., q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026). Needs synthesis from connected articles.
+Research themes include:
+- **Three-stage optimization pipeline.** The team used a dense Qwen3-32B backbone (chosen over MoE architectures for superior responsiveness to iterative optimization) and applied:
 
 ## Connected Concepts
 

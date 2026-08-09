@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Hallucination Risk — referenced by 5 pages (e.g., chatgpt-programming-education-text-mining, eduguard-safe-rag-llm-tutor, llm-cognitive-diagnosis-handwritten-math, rag, retrieval-augmented-generation). Needs synthesis from connected articles.
+> **Hallucination Risk** — a key concept in AI in education research. Explored across 2 articles in this wiki.
 
 ## Connected Concepts
 

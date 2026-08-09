@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Five Stage AI Literacy Continuum — referenced by 1 pages (e.g., ai-literacy-in-higher-education). Needs synthesis from connected articles.
+> **Five Stage AI Literacy Continuum** — a key concept in AI in education research. 
 
 ## Connected Concepts
 

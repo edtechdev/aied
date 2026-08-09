@@ -6,8 +6,12 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **RCT** — a key concept in AI in education research. Explored across 5 articles in this wiki.
 
-> **Stub:** RCT — referenced by 6 pages (e.g., adaptive-pretesting-retention, ai-assistance-discretionary-feedback, ai-changing-teaching-workflows, genai-meta-analysis-programming-learning, llm-educational-simulation-adhd). Needs synthesis from connected articles.
+Research themes include:
+- # Generative AI Meta-Analysis: Programming Productivity vs. Learning
+- ## The Reallocation Effect — Brazil Essay Grading RCT
+- # LLM Educational Simulations for ADHD Student Personas
 
 ## Connected Concepts
 

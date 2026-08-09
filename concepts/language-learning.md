@@ -6,8 +6,11 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Language Learning** — a key concept in AI in education research. Explored across 7 articles in this wiki.
 
-> **Stub:** Language Learning — referenced by 7 pages (e.g., ai-interlocutor-l2-spoken-dialogue, ai-scoring-language-bias-physics, ai-tools-arab-english-classrooms, automated-presentation-coaching, dyslexlens-dyslexic-learners-ai). Needs synthesis from connected articles.
+Research themes include:
+- # Generative AI Meta-Analysis: Programming Productivity vs. Learning
+- **Authors:** Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany)
 
 ## Connected Concepts
 

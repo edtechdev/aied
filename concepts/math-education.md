@@ -6,8 +6,11 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Math Education** — a key concept in AI in education research. Explored across 2 articles in this wiki.
 
-> **Stub:** Math Education — referenced by 2 pages (e.g., ai-powered-personalized-learning-elementary-fractions-2026, kar-mathbuddy-affective-math-tutoring-2025). Needs synthesis from connected articles.
+Research themes include:
+- Examines AI-powered personalized learning in elementary fraction instruction through a systematic review, quantitative study (N=120), and qualitative teacher interviews. Found that AI-adaptive platforms significantly improved fraction comprehension f
+- **Authors:** Kar et al. (ITU-NLP) · **Venue:** EMNLP 2025 Demo Track · **Code:** github.com/ITU-NLP/MathBuddy
 
 ## Connected Concepts
 

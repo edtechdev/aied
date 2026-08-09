@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, cs-education]
 confidence: low
 ---
+> **Learning AnalytiCS Dashboards** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** Learning AnalytiCS Dashboards — referenced by 2 pages (e.g., becerra-aicofe-feedback-2026, visualization). Needs synthesis from connected articles.
+Research themes include:
+- **Authors:** Alvaro Becerra, Alejandra Palma, Ruth Cobos (GHIA Group, Universidad Autónoma de Madrid) · arXiv:2605.04740 · Accepted at LASI Spain 2026
 
 ## Connected Concepts
 

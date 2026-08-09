@@ -6,8 +6,7 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-
-> **Stub:** Institutional Change — referenced by 1 pages (e.g., institutional-ai-readiness). Needs synthesis from connected articles.
+> **Institutional Change** — a key concept in AI in education research. 
 
 ## Connected Concepts
 

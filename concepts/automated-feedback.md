@@ -6,8 +6,10 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
+> **Automated Feedback** — a key concept in AI in education research. Explored across 1 articles in this wiki.
 
-> **Stub:** Automated Feedback — referenced by 1 pages (e.g., becerra-aicofe-feedback-2026). Needs synthesis from connected articles.
+Research themes include:
+- **Authors:** Alvaro Becerra, Alejandra Palma, Ruth Cobos (GHIA Group, Universidad Autónoma de Madrid) · arXiv:2605.04740 · Accepted at LASI Spain 2026
 
 ## Connected Concepts
 
