@@ -1,12 +1,13 @@
 ---
-title: 'MathBuddy: Affective Math Tutoring'
+title: "MathBuddy: Affective Math Tutoring"
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [math-education, affective-computing, intelligent-tutoring, k-12]
-sources: [raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md]
+tags: [math-education, affective-computing, intelligent-tutoring, k-12, pedagogical-llm-training, affective-tutoring, open-source, rag]
+sources: ['raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md']
 confidence: medium
 ---
+
 > **MathBuddy: Affective Math Tutoring** — EMNLP 2025 Demo. An emotionally aware LLM-powered mathematics tutor that dynamically models student emotions from both conversational text and facial expressions, aggregating multimodal affective signals to shape pedagogically appropriate LLM responses. Maps detected affective states to relevant pedagogical strategies, achieving a +23-point win rate advantage and +3-point improvement on the DAMR (Dimensions of Affective Math Response) score at the overall level. Evaluated across eight pedagogical dimensions in user studies, MathBuddy demonstrates that affective awareness substantially improves the quality of AI math tutoring.
 
 **Authors:** Kar et al. (ITU-NLP) · **Venue:** EMNLP 2025 Demo Track · **Code:** github.com/ITU-NLP/MathBuddy
@@ -39,20 +40,42 @@ Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) 
 
 - https://arxiv.org/abs/2508.19993v2
 
+## Connected Concepts
+
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[k-12]]
+- [[open-source]]
+- [[pedagogical-llm-training]]
+
+## Connected Articles
+
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
+- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentati...
+- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
+- [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
+- [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
+- [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+
 ## Citation
 
 ['MathBuddy: Affective Math Tutoring'](https://arxiv.org/abs/2508.19993v2).
-
-## Related Pages
-
-- [[intelligent-tutoring-systems]] — The broader ITS context
-- [[affective-computing]] — Affective computing in human-computer interaction
-- [[affective-tutoring]] — Affect-aware tutoring systems
-- [[llm-math-tutoring]] — LLMs applied to mathematics education
-- [[k-12]] — K-12 education context
-- [[multimodal-ai-tutoring]] — Multimodal approaches to AI tutoring
-- [[multimodal-affective-its-presentation]] — Multimodal affective ITS presentations
-- [[student-modeling]] — Student modeling in ITS
-- [[engagement-metrics]] — Measuring learner engagement
-- [[pedagogical-llm-training]] — Training LLMs for pedagogical purposes
-- [[math-education]] — Mathematics education

@@ -3,12 +3,12 @@ title: Neural-Symbolic Knowledge Tracing
 created: 2026-05-08
 updated: 2026-05-22
 type: article
-tags: [intelligent-tutoring, learning-analytics, adaptive-learning, pedagogical-safety, mastery-learning]
-sources: [raw/papers/2604.08263.md]
+tags: [intelligent-tutoring, learning-analytics, adaptive-learning, pedagogical-safety, mastery-learning, pedagogical-llm-training, student-experience, adaptive-learning-systems, rag]
+sources: ['raw/papers/2604.08263.md']
 confidence: medium
 ---
 
-# Neural-Symbolic Knowledge Tracing
+> **Hooshyar et al. (2026)** identify key limitations in both LLM-based tutoring and conventional Deep Knowledge Tracing (DKT):
 
 > Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems.
 
@@ -95,21 +95,40 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 - How does this compare to [[llm-student-modeling-memory|LLM-based longitudinal student modeling]] in both accuracy and interpretability?
 - Is the 13% improvement maintained with more diverse student populations and subject domains?
 
+## Connected Concepts
+
+- [[adaptive-learning-systems]]
+- [[pedagogical-llm-training]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
+- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
+- [[principled-ai-education]] — Principled AI in Education
+- [[simulating-learner-task-selection]] — Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
+- [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+
 ## Citation
 
 accuracy?, H.D.R.C.W.C.D.I.P., predictions?, H.D.R.P.I.E.O.S.K., & 2021, O.L.E.M.C.S. (2026). [*Neural-Symbolic Knowledge Tracing*](https://arxiv.org/abs/2604.08263)
-
-## Related Pages
-
-- [[stanbkt-bayesian-knowledge-tracing]] — Interpretable probabilistic alternative to neural knowledge tracing methods
-- [[simulating-learner-task-selection]] — Simulation of learner behavior patterns complements symbolic knowledge tracing approaches
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — Structured meta-behavior representations complementing symbolic KT
-- [[explainable-probabilistic-kt]] — Probabilistic logical reasoning bridges neural and symbolic KT
-- [[cognitive-agent-compilation]] — CAC shares the goal of combining explicit symbolic knowledge with neural methods
-- [[knowledge-tracing-irt]] — Interpretable Bayesian/IRT approaches to knowledge tracing
-- [[adaptive-learning-systems]] — Broader adaptive systems context
-- [[llm-student-modeling-memory]] — LLM-based learner modeling (contrast: opaque vs. interpretable)
-- [[ai-tutor-safety-harms]] — Safety auditing requires interpretable learner models
-- [[pedagogical-llm-training]] — Training pipelines for tutoring alignment
-- [[principled-ai-education]] — Framework connecting educational goals to technology use
-- [[ai-tutor-effectiveness-review]] — Broader ITS effectiveness; interpretability as a key dimension

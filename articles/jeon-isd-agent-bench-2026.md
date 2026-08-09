@@ -3,8 +3,8 @@ title: ISD Agent Benchmark
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [agentic-ai, ai-ed-evaluation, benchmark]
-sources: [raw/papers/jeon-isd-agent-bench-2026.md]
+tags: [agentic-ai, ai-ed-evaluation, benchmark, rag, llm, agentic-workflows, ai-education]
+sources: ['raw/papers/jeon-isd-agent-bench-2026.md']
 confidence: medium
 ---
 
@@ -32,18 +32,39 @@ The 51-variable Context Matrix is itself a contribution, formalizing what makes 
 
 For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a methodological advance that may generalize beyond instructional design to other educational AI evaluation tasks where LLM-as-judge bias is a concern.
 
+## Connected Concepts
+
+- [[agentic-ai]]
+- [[ai-ed-evaluation]]
+
+## Connected Articles
+
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
+- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
+- [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
+- [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
+
 ## Citation
 
 |, C.D., |, S.F.A., |, C.M., |, P.M.L.F.D.P., |, T.R.R., reasoning, A.C.I.F.M.R., alignment, A.E.I.P.D.O., & bias, I.M.P.M.L. (2026). [*ISD Agent Benchmark*](https://arxiv.org/abs/2602.10620)
-
-## Related Pages
-
-- [[instructional-design]] — Foundational ISD theories including ADDIE, Dick & Carey
-- [[multi-agent-instructional-design]] — Multi-agent approaches to instructional design automation
-- [[agentic-ai-education-scoping-review]] — Landscape of agentic AI in education
-- [[benchmark]] — Benchmark methodology in AI research
-- [[llm-evaluation]] — Frameworks and challenges in evaluating LLM outputs
-- [[agentic-ai]] — Core paradigm of autonomous AI agents
-- [[ai-ed-evaluation]] — Evaluation specifically in AI and education
-- [[educational-llm-alignment]] — Aligning LLMs with pedagogical objectives
-- [[agentic-workflows-education]] — Agentic workflow patterns in educational contexts

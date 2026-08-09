@@ -3,12 +3,12 @@ title: Faculty Orientations Shape Adoption of AI in Research and Teaching
 created: 2026-05-19
 updated: 2026-05-19
 type: article
-tags: [faculty-development, higher-ed, stem-education, ai-literacy, institutional-change, pedagogy, teacher-role]
-sources: [raw/papers/2605.18140.md]
+tags: [faculty-development, higher-ed, stem-education, ai-literacy, institutional-change, pedagogy, teacher-role, teacher-ai-competency, faculty-development-genai, scaffolding]
+sources: ['raw/papers/2605.18140.md']
 confidence: high
 ---
 
-# Faculty Orientations Shape Adoption of AI in Research and Teaching
+> **Atherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026)** — arXiv:2605.18140
 
 **Atherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026)** — arXiv:2605.18140
 
@@ -63,21 +63,44 @@ These are not resolvable by more information or better tools — they require di
 - Can faculty development interventions shift orientation, or is it a stable trait?
 - How does orientation relate to actual classroom practice (not just self-reported use)?
 
-## Related Pages
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[bridging-instructional-design-framework-math]]
 - [[dot-framework-survey]]
-- [[ai-lifelong-learning-policy]]
-- [[cognitive-shift-ai-education]] — 471 students surveyed 2020–2026 show shift from AI preference to human intellige
-- [[faculty-development-genai]] — Professional development for AI readiness
-- [[teacher-ai-adoption-confidence]] — Teacher confidence pathway to adoption
-- [[teacher-role]] — Teacher perspectives on AI in education
-- [[teacher-ai-competency]] — Building teacher AI skills
-- [[institutional-change-framework-ai]] — Institutional strategies for AI era
-- [[change-management]] — Organizational change in higher ed
-- [[ai-literacy]] — AI literacy as foundation
-- [[higher-ed]] — AI in higher education context
-- [[scaffolding]] — Scaffolding frameworks in AI education
-- [[stem-education]] — STEM education context
-- [[bridging-instructional-design-framework-math]] -- Proposes operationalizing learning theories as metadata dimensions for teacher-support systems in mathematics education, focusing on conceptual structure of content.
+- [[faculty-development-genai]]
+- [[higher-ed]]
+- [[scaffolding]]
+- [[teacher-ai-competency]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
+- [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 
 ## Citation
 

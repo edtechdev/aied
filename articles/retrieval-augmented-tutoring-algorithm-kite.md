@@ -3,12 +3,12 @@ title: Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in
 created: 2026-05-16
 updated: 2026-05-16
 type: article
-tags: [intelligent-tutoring, llm, generative-ai, scaffolding, formative-assessment, higher-ed]
-sources: [raw/papers/2605.12988.md]
+tags: [intelligent-tutoring, llm, generative-ai, scaffolding, formative-assessment, higher-ed, personalized-learning, socratic-ai-dialogue, rag, socratic-ai]
+sources: ['raw/papers/2605.12988.md']
 confidence: high
 ---
 
-# Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
+> **Jain, Bhatt, Pitts, Pandya, Brusilovsky, Norouzi, Hellas, Leinonen & Akram (2026)** — University of Pittsburgh, Aalto University, UC San Diego. Accepted to BEA 2026 (co-located with ACL 2026).
 
 **Jain, Bhatt, Pitts, Pandya, Brusilovsky, Norouzi, Hellas, Leinonen & Akram (2026)** — University of Pittsburgh, Aalto University, UC San Diego. Accepted to BEA 2026 (co-located with ACL 2026).
 
@@ -22,22 +22,40 @@ KITE was evaluated through three complementary lenses. RAGAs-based metrics confi
 
 This work contributes to the growing literature on [[llm-student-modeling-memory|LLM-based student modeling]] by demonstrating that retrieval-augmented tutoring can maintain both pedagogical and content fidelity. It also connects to [[programming-its]] research by targeting algorithmic reasoning specifically, and to [[personalized-learning]] through its adaptive response strategies. The simulated student evaluation approach offers a replicable, low-cost methodology that could accelerate tutor development cycles — a theme also explored in [[eduagentbench-agent-teaching-benchmark]] for broader tutor evaluation.
 
-## Related Pages
-- [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
-- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
-- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
+## Connected Concepts
 
-- [[codify-socratic-tutoring-programming]] — Broader-scope RAG tutoring platform with integrated gamification and assessment
-- [[intelligent-tutoring]] — Core paradigm for AI tutoring systems
-- [[scaffolding]] — Progressive support strategies central to KITE's design
-- [[socratic-ai-dialogue]] — Dialogic tutoring approach that KITE extends with retrieval
-- [[programming-its]] — Related domain of intelligent tutoring for programming
-- [[formative-assessment]] — Feedback methodology KITE operationalizes
-- [[llm-student-modeling-memory]] — Student modeling techniques relevant to adaptive tutoring
-- [[eduagentbench-agent-teaching-benchmark]] — Complementary holistic evaluation framework
-- [[ai-learning-transfer]] — Learning outcomes that retrieval-grounded tutoring aims to improve
-- [[didactical-teacher-assistant-dimensional-modeling]] — Encoding tutoring strategy in an explicit didactic layer (rather than implicit LLM prompting) makes 
-- [[genai-patient-education-transplant-handbooks]] — Grounding genAI patient-education assistants in institution-authored handbooks produces inconsistent
+- [[formative-assessment]]
+- [[personalized-learning]]
+- [[scaffolding]]
+- [[socratic-ai-dialogue]]
+
+## Connected Articles
+
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
+- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
+- [[didactical-teacher-assistant-dimensional-modeling]] — A didactical-driven teacher assistant for a dimensional modeling course
+- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[genai-patient-education-transplant-handbooks]] — Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant...
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentati...
+- [[programming-its]] — Programming Intelligent Tutoring Systems
+- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agentic-workflows-education]] — Agentic Workflows in Education
 
 ## Citation
 

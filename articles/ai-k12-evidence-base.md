@@ -3,12 +3,12 @@ title: AI in K-12 Evidence Base
 created: 2026-05-07
 updated: 2026-05-22
 type: article
-tags: [k-12, rct, efficacy-study, learning-gains, llm, adaptive-learning]
+tags: [k-12, rct, efficacy-study, learning-gains, llm, adaptive-learning, metacognition, lifelong-learning, ai-education]
+sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
-sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md]
 ---
 
-# AI in K-12 Evidence Base
+> The field is growing explosively (from 28 relevant papers in Jan 2023 to 818 by Oct 2025) but remains thin on causal evidence:
 
 > As of October 2025, only **20 of 818 papers** in the AI Hub Research Repository meet standards for strong causal inference (RCTs or QEDs) on AI in education — and **zero** examine U.S. K-12 student settings.^[[stanford-evidence-base-ai-k12-2026]]
 
@@ -56,27 +56,38 @@ The review frames findings through six established principles. See [[ai-learning
 3. What pedagogical guardrails are necessary to preserve [[metacognition]]? See the new evidence from Scheu et al. (2026) that structured courses increase metacognitive competence while raw LLM assistants do not.
 4. When will the first U.S. K-12 RCTs on LLM tools emerge?
 
+## Connected Concepts
+
+- [[metacognition]]
+
+## Connected Articles
+
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
+- [[ai-pedagogical-accompaniment-amico]] — Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mo...
+- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
+- [[awareness-technological-isomorphism]] — Awareness of Technological Isomorphism: AI in Elementary Math
+- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
+- [[culturally-aware-aied-community-learning]] — Culturally-Aware AI for Cross-Boundary Community Learning
+- [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
+- [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
+- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
+- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
+- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
+- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
+- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
+- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participato...
+- [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base: AI in K-12 Education
+- [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing
+- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
+- [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+
 ## Citation
 
 Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*AI in K-12 Evidence Base*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
-
-## Related Pages
-- [[ai-enabled-serious-games]] — Highlights critical gap in empirical evidence for long-term learning outcomes in AI-enabled games
-- [[xai-education-framework]]
-- [[ai-changing-teaching-workflows]]
-- [[ai-lifelong-learning-policy]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-pedagogical-accompaniment-amico]]
-- [[genai-architecture-education]]
-- [[code-review-genai-cs1]]
-- [[engagement-forecasting-its]] — Feature-based engagement forecasting reduces MAE 22-33% vs heuristics; effort dr
-- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: multi-dimensional evaluation methodology models rigorous benchmark design for AI-in-education
-- [[nsmq-riddles-science-math-benchmark]] — African educational content addresses geographic bias in AI evidence
-- [[llm-educational-simulation-adhd]] — Highlights evidence gap for special education populations in AI research
-- [[ecnuclaw-k12-personalized-companion]] — Chinese educational framework extends geographic scope of K-12 AI evidence
-- [[ground-truth-reliability-aied]] — Thomas et al.: complementary framework for measurement quality in AIED research — what the SCALE review's 20 rigorous studies also need
--
-- [[awareness-technological-isomorphism]] — Empirical case study of AI integration in fifth-grade mathematics
-- [[culturally-aware-aied-community-learning]] — Community-based AIED framework for cultural contexts- [[aied-carbon-footprint-reporting]] — Environmental cost reporting as an evidence dimension for AIED deployment
-- [[eduzone-llm-safety-k12]] — EduZone: an evaluation framework for LLM safety in K-12 education

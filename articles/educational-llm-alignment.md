@@ -3,12 +3,12 @@ title: Educational LLM Alignment
 created: 2026-05-07
 updated: 2026-05-09
 type: article
-tags: [llm, benchmark, efficacy-study, bias-mitigation, teacher-role]
-sources: [raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md]
+tags: [llm, benchmark, efficacy-study, bias-mitigation, teacher-role, pedagogical-llm-training, faculty-development-genai, ai-literacy, ethics]
+sources: ['raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md']
 confidence: medium
 ---
 
-# Educational LLM Alignment
+> Hardy & Kim (2026) identify a **cascading proxy** problem in AI-for-education evaluation:
 
 > The gap between what LLMs are *capable* of and what actually *benefits learners* — benchmark performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels.
 
@@ -57,28 +57,40 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 - Are there tasks where the alignment gap is smaller (e.g., factual tutoring vs. qualitative judgment)?
 - How does this interact with [[llm-fallacy-misattribution]] — do students over-trust misaligned AI outputs?
 
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[faculty-development-genai]]
+- [[pedagogical-llm-training]]
+
+## Connected Articles
+
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
+- [[authentic-assessment]] — Authentic Assessment
+- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
+- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
+- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
+- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentati...
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
+- [[principled-ai-education]] — Principled AI in Education
+- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
+- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+
 ## Citation
 
 (Stanford, A.M.H.Y.K., 2026, S.M.R.A., & improvement, P.W.E.B.M.E.S.N. (2026). [*Educational LLM Alignment*](https://arxiv.org/abs/2603.00883)
-
-## Related Pages
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
-- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
-- [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Kind-but-correct behavior as alignment requirement
-- [[ground-truth-reliability-aied]] — Thomas et al.: benchmark-misalignment parallel — IRR alone misaligns with ground truth validity
-- [[multimodal-learning-genai]] — Alignment between AI multimodal capabilities and pedagogical engagement types
-- [[ai-literacy]] — Critical evaluation as a defense against misaligned hype
-- [[principled-ai-education]] — Framework for defining what alignment should mean
-- [[faculty-development-genai]] — Faculty distrust of benchmarks as misalignment symptom
-- [[ai-tutor-effectiveness-review]] — Mixed effectiveness as evidence of alignment failures
-- [[authentic-assessment]] — Benchmark misalignment also affects assessment validity
-- [[ai-tutor-safety-harms]] — Misalignment manifests as pedagogical safety failures
-- [[llm-fallacy-misattribution]] — Misalignment with actual impact drives learner self-deception
-- [[pedagogical-llm-training]] — Training methods designed to align models with tutoring impact
-- [[ai-k12-evidence-base]] — Empirical findings on what actually improves K-12 outcomes
-- [[tutoring-specific-vs-general-ai]] — Domain-specific alignment vs. general-purpose capability
-- [[learnmate2-llm-adaptive-learning]] — Teacher-like scaffolding behaviors through contextual grounding
-- [[pedagogical-safety-rl]] — RL safety and alignment with teaching quality
-- [[teachbench-llm-teaching-evaluation]] — Syllabus-grounded teaching evaluation vs. alignment benchmarks
-- [[aied-carbon-footprint-reporting]] — Connection between LLM alignment, computational cost reporting, and environmental ethics

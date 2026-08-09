@@ -3,12 +3,12 @@ title: "The agency gap in AI-supported writing: how reactive and proactive agent
 created: 2026-08-03
 updated: 2026-08-03
 type: article
-tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity, student-experience]
-sources: [raw/papers/caeai-2026-agency-gap-ai-writing.md]
+tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity, student-experience, scaffolding, rag, regulation]
+sources: ['raw/papers/caeai-2026-agency-gap-ai-writing.md']
 confidence: high
 ---
 
-# The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+> **Yueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Gašević & Lixiang Yan (2026)** — *Computers and Education: Artificial Intelligence* (Elsevier), Article in Press. Open Access, CC BY 4.0. doi:10.1016/j.caeai.2026.100655.
 
 **Yueqiao Jin, Kaixun Yang, Roberto Martinez-Maldonado, Dragan Gašević & Lixiang Yan (2026)** — *Computers and Education: Artificial Intelligence* (Elsevier), Article in Press. Open Access, CC BY 4.0. doi:10.1016/j.caeai.2026.100655.
 
@@ -46,18 +46,42 @@ A randomized experiment (n = 79 medical/nursing students) examining how the **in
 - Practice: make initiative **visible and adjustable** (request/skip/pause prompting), structure proactive prompts to orient–interpret–connect–synthesise rather than supply answers, and fade prompts as learners demonstrate independence; teach GenAI literacy as part of academic writing ([[ai-literacy]], [[agentic-ai]]).
 - Limitations: n = 79 underpowered for mediation; medical/nursing sample; immediate AI-removal task measures near transfer, not durable learning; agency gap theorised, not directly measured; no manipulation-check coding of agent turns.^[raw/papers/caeai-2026-agency-gap-ai-writing.md]
 
-## Related Pages
+## Connected Concepts
 
-- [[feedback-futures-genai]] — Agency vs dependency as a core tension in GenAI feedback
-- [[chatgpt-feedback-engagement-genai]] — Student-side agency, prompting, and metacognitive engagement
-- [[learner-centered-feedback-ai]] — Teacher-side calibration of AI initiative/voice
-- [[ai-literacy]] — GLAT-measured literacy as the learner-side capability
-- [[agentic-ai]] — Agent initiative as a design variable
-- [[scaffolding]] — Proactive designs as scaffolding; expertise-reversal risk
-- [[over-reliance]] — Over-direction and dependency risks of proactive designs
-- [[student-experience]] — Learner perceptions of reactive vs proactive support
-- [[writing-education]] — Multimodal analytical writing as the task context
-- [[higher-ed]] — Deployment context (medical/nursing education)
+- [[agentic-ai]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[scaffolding]]
+- [[student-experience]]
+- [[writing-education]]
+
+## Connected Articles
+
+- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...
+- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
+- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers' practices and perceptions
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
 
 ## Citation
 

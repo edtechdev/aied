@@ -1,12 +1,14 @@
 ---
-title: 'AcademiClaw: When Students Set Challenges for AI Agents'
+title: "AcademiClaw: When Students Set Challenges for AI Agents"
 created: 2026-05-11
 updated: 2026-05-11
 type: article
-tags: [benchmark, higher-ed, llm, generative-ai, student-experience]
-sources: [raw/papers/2605.02661.md]
+tags: [benchmark, higher-ed, llm, generative-ai, student-experience, pedagogical-llm-training, automated-grading, ai-tutoring, open-source]
+sources: ['raw/papers/2605.02661.md']
 confidence: high
 ---
+
+> **Yu, Lu, Si et al. (77 authors, 2026)** — Shanghai Jiao Tong University, SII, GAIR. Open-source benchmark.
 
 # AcademiClaw: Student-Sourced AI Agent Benchmark
 
@@ -46,17 +48,6 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 3. **Token-output disconnect**: Challenges the assumption that more compute solves academic problems — relevant to AI tutoring cost/benefit analysis
 4. **Safety in academic contexts**: The 5-category safety audit surfaces risks specific to educational AI deployment
 
-## Connection to the Wiki
-
-- **[[teachbench-llm-teaching-evaluation]]**: Both are benchmarks evaluating AI in educational contexts — TeachBench for teaching quality, AcademiClaw for academic task completion
-- **[[agentic-education-coding]]**: AcademiClaw tests agentic capabilities directly relevant to coding education workflows
-- **[[ai-k12-evidence-base]]**: AcademiClaw's rigorous multi-dimensional evaluation methodology models best practices for AI-in-education benchmarks
-- **[[educational-vlm-evaluation]]**: Shares the theme of evaluating AI capabilities on educationally-relevant tasks, complementing DrawEduMath's VLM focus
-- **[[benchmark]]**: Directly contributes to the wiki's benchmark concept — AcademiClaw as an exemplar of student-sourced evaluation
-- **[[programming-its]]**: Many AcademiClaw tasks involve programming; the benchmark provides a diagnostic framework for what programming ITS agents need to handle
-- **[[automated-grading]]**: The 6-technique rubric approach connects to automated assessment methodology
-- **[[ai-learning-transfer]]**: The capability boundary findings raise transfer questions — if frontier models struggle with academic tasks, how well do AI tutoring systems transfer?
-
 ## Limitations
 
 - Contributor pool concentrated at a single institution (SJTU) — limits cultural and disciplinary diversity
@@ -71,12 +62,38 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 - Can the benchmark be adapted for K-12 or professional training contexts?
 - What does the token-output disconnect imply for AI tutoring systems that bill by token usage?
 
-## Related Pages
+## Connected Concepts
 
-- [[multimodal-ai-tutoring]] — Multimodal AI capabilities tested in academic contexts
-- [[collaborative-ai-tutoring]] — Agent collaboration strategies relevant to AcademiClaw task types
-- [[pedagogical-llm-training]] — Training pipelines that could target AcademiClaw capability gaps
-- [[ai-tutor-behavioral-evaluation]] — Behavioral evaluation axis for AI tutors complements AcademiClaw's safety audit
+- [[automated-grading]]
+- [[pedagogical-llm-training]]
+
+## Connected Articles
+
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
+- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[programming-its]] — Programming Intelligent Tutoring Systems
+- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 
 ## Citation
 

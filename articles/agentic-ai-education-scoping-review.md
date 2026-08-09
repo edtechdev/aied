@@ -3,10 +3,12 @@ title: "Agentic AI in Education: A Scoping Review of Research Landscape, Capabil
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [agentic-ai, ai-literacy, educational-theory, generative-ai, higher-ed, intelligent-tutoring, llm, multi-agent, open-source, scaffolding, scoping-review, stem-education]
-sources: [raw/papers/agentic-ai-education-scoping-review-2026.md]
+tags: [agentic-ai, ai-literacy, educational-theory, generative-ai, higher-ed, intelligent-tutoring, llm, multi-agent, open-source, scaffolding]
+sources: ['raw/papers/agentic-ai-education-scoping-review-2026.md']
 confidence: high
 ---
+
+> **Wang, Zou, Xie & Qin (2026)** — Lingnan University & Hong Kong Polytechnic University. Published in *Computers and Education: Artificial Intelligence*, accepted 27 July 2026. 📄 doi:10.1016/j.caeai.2026.100653 · [local](raw/papers/agentic-ai-education-scoping-review-2026.md)
 
 # Agentic AI in Education: Scoping Review (474 Studies, 2020–2026)
 
@@ -69,17 +71,43 @@ The review identifies several converging priorities:
 
 The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-source]] AI project in early 2026 — as an illustrative reference point for the "frontier agent paradigm": systems that feature governed tool orchestration via MCP, persistent memory, long-horizon planning, multi-agent coordination, and auditable action. The finding that these capabilities are largely absent from educational agentic systems is the review's most striking technology–application gap. While the authors are careful not to position OpenClaw as a normative target, its feature set serves as a useful benchmark for assessing how far educational systems lag behind general-purpose agentic infrastructure.
 
+## Connected Concepts
+
+- [[adaptive-learning-systems]]
+- [[agentic-ai-ecosystems-higher-education]]
+- [[human-in-the-loop-ai]]
+- [[llm-in-education]]
+- [[open-source]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[principled-ai-education]] — Principled AI in Education
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+
 ## Citation
 
 Qin, N.W.D.Z.H.X.S.J., doi:[10.1016/j.caeai.2026.100653](https://doi.org/10.1016/j.caeai.2026.100653), C.A.E.A.I.A.J., applications, G.A.A.S.A.I.P.F.E., 2026, R.S.M.S.P.B.J.A.M., technical, H.E.S.D.A.T.T.S.I.T.O., technologies, I.G.M.A.L.A.T.M.W.A., the, W.O.A.O.F.A.P.R.L.A.A., & studies, F.A.E.P.T.G.R.L.O. (2026). [*Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm*](https://doi.org/10.1016/j.caeai.2026.100653),). https://doi.org/10.1016/j.caeai.2026.100653
-
-## Related Pages
-
-- [[agentic-workflows-education]] — Kamalov's four-paradigm framework (reflection, planning, tool use, multi-agent)
-- [[agentic-ai-ecosystems-higher-education]] — Multi-agent frameworks for institutional intelligence
-- [[llm-in-education]] — Foundation of LLM-powered educational systems
-- [[adaptive-learning-systems]] — Tutoring systems that agentic AI builds upon
-- [[human-in-the-loop-ai]] — Governance and oversight frameworks
-- [[principled-ai-education]] — Bridging the pedagogical theory gap
-- [[student-experience]] — Learner-centered evaluation
-- [[equity]] — Ethics and inclusive design in agentic systems

@@ -3,10 +3,12 @@ title: TeachBench - Evaluating LLM Teaching Ability
 created: 2026-05-08
 updated: 2026-05-08
 type: article
-tags: [llm, benchmark, formative-assessment, personalized-learning, feedback-loop]
-sources: [raw/papers/2601.21375.md]
+tags: [llm, benchmark, formative-assessment, personalized-learning, feedback-loop, ai-literacy, agentic-workflows]
+sources: ['raw/papers/2601.21375.md']
 confidence: high
 ---
+
+> **Li et al. (2026)** address a critical gap: while LLMs are increasingly used as teaching assistants, their **teaching capability remains insufficiently evaluated**.
 
 # TeachBench: Evaluating LLM Teaching Ability
 
@@ -81,20 +83,39 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 - **Student proxies:** Fixed-capability student agents enable reproducible evaluation
 - **Outcome metrics:** Performance improvement > response quality scores
 
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[formative-assessment]]
+
+## Connected Articles
+
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
+- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
+- [[programming-its]] — Programming Intelligent Tutoring Systems
+- [[quantum-education-its]] — Quantum Education Intelligent Tutoring
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+
 ## Citation
 
 Models, T.A.S.F.F.E.T.A.I.L.L. (2026). [*TeachBench - Evaluating LLM Teaching Ability*](https://arxiv.org/abs/2601.21375)
-
-## Related Pages
-- [[eduagentbench-agent-teaching-benchmark]] — EduAgentBench complements TeachBench with workflow-level teaching tasks
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: student-sourced benchmark for AI agent academic capabilities, complements TeachBench's teaching quality focus
-- [[nsmq-riddles-science-math-benchmark]] — Syllabus-grounded evaluation from Ghanaian national competition
-- [[educational-llm-alignment]] — Benchmark misalignment with teaching quality
-- [[ai-tutor-effectiveness-review]] — Mixed effectiveness landscape for deployed ITS
-- [[agentic-workflows-education]] — Teacher agents in agentic education paradigms
-- [[formative-assessment]] — Teaching evaluation as formative feedback for models
-- [[ai-literacy]] — Teaching ability as advanced AI literacy skill
-- [[quantum-education-its]] — Knowledge-grounded teaching (knowledge graph approach)
-- [[programming-its]] — SCRIPT's individualized hints as teaching strategy
-
-- [[multi-agent-instructional-design]] — Complementary: material design vs. teaching ability evaluation

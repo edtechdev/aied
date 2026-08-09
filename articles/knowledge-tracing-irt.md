@@ -3,12 +3,12 @@ title: Interpretable Knowledge Tracing via IRT
 created: 2026-05-07
 updated: 2026-05-07
 type: article
-tags: [adaptive-learning, intelligent-tutoring, personalized-learning, learning-analytics, k-12, llm]
+tags: [adaptive-learning, intelligent-tutoring, personalized-learning, learning-analytics, k-12, llm, item-response-theory, affective-tutoring, adaptive-learning-systems, socratic-ai-dialogue]
+sources: ['raw/papers/huang-interpretable-knowledge-tracing-2026.md']
 confidence: medium
-sources: [raw/papers/huang-interpretable-knowledge-tracing-2026.md]
 ---
 
-# Interpretable Knowledge Tracing via IRT
+> Two critical gaps in dialogue-based Knowledge Tracing (KT):
 
 > Most LLM-based dialogue tutoring systems produce opaque predictions. Huang et al. map raw LLM logits into **student ability (θ)** and **task difficulty (d)** parameters via Item Response Theory, yielding predictions that are both more accurate and interpretable in cognitive terms.^[[huang-interpretable-knowledge-tracing-2026]]
 
@@ -60,32 +60,42 @@ This framework is an enabler for [[tutoring-specific-vs-general-ai|tutoring-spec
 - **Fine-tuning required:** LoRA on Llama-3.1-8B; not zero-shot
 - **Binary correctness only:** Does not model partial understanding or open-ended reasoning
 
+## Connected Concepts
+
+- [[adaptive-learning-systems]]
+- [[affective-tutoring]]
+- [[item-response-theory]]
+- [[personalized-learning]]
+- [[socratic-ai-dialogue]]
+
+## Connected Articles
+
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
+- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
+- [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
+- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
+- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
+- [[learnopt-exam-cognitive-structure]] — LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained...
+- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
+- [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Chal...
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
+- [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
+- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
+- [[reinforcement-learning-measurement-model-assessment]] — Reinforcement Learning Measurement Model
+- [[reliable-programming-kt]] — Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental...
+- [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
+- [[temporal-smoothness-debiased-kt]] — Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
+- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+
 ## Citation
 
 Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing via IRT*](https://arxiv.org/abs/2605.01097)
-
-## Related Pages
-- [[kt4eqg-personalized-question-generation]] — 7 of 8 papers in May 28 scan
-- [[stanbkt-bayesian-knowledge-tracing]] — Bayesian BKT framework extends beyond IRT's point-estimate limitations
-- [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
-- [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
-- [[difficulty-aware-dialogue-kt]] — Difficulty-aware dialogue KT extends IRT-based tracing to conversational settings
-- [[reliable-programming-kt]] — Controlled re-evaluation of PKT protocol reliability
-- [[temporal-smoothness-debiased-kt]] — Doubly robust KT framework correcting selection bias
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — Meta-behavioral pattern extraction for enhanced collaborative KT
-- [[explainable-probabilistic-kt]] — Probabilistic embeddings replacing deterministic KT vectors
-- [[reinforcement-learning-measurement-model-assessment]] — Reinforcement Learning Measurement Model
-- [[cognitive-agent-compilation]] — CAC makes knowledge tracing explicit and inspectable, complementing IRT-based approaches
-- [[ai-tutor-behavioral-evaluation]] — behavioral evaluation axis for AI tutors — measuring what students actually do with feedback
-- [[socratic-ai-dialogue]] — Modeling readiness for less Socratic, more direct support
-- [[affective-tutoring]] — Combining affective and cognitive learner models
-- [[tutoring-specific-vs-general-ai]] — Tutoring-specific vs. general-purpose AI design
-- [[adaptive-learning-systems]] — Agent-native learner-profile engines like DeepTutor
-- [[personalized-learning]] — Longitudinal memory architectures for individual adaptation
-- [[item-response-theory]] — *(create when second source emerges)*
-- [[llm-student-modeling-memory]] — Longitudinal memory architecture for student modeling (PersonaVLM framework)
-
-- [[neural-symbolic-knowledge-tracing]] — Interpretable vs. neural approaches to knowledge tracing
-
-- [[llm-student-misconception-identification]] — Extends KT beyond correct/incorrect to specific misconception categories- [[learnopt-exam-cognitive-structure]] -- Standardized exams have stable latent cognitive structures recoverable via LLM-tagged question analysis and knapsack optimization
-- [[llm-item-difficulty-prediction]] — LLM reasoning traces for item difficulty estimation

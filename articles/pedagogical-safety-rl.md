@@ -3,12 +3,12 @@ title: Pedagogical Safety in Educational Reinforcement Learning
 created: 2026-05-08
 updated: 2026-05-08
 type: article
-tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcement-learning]
-sources: [raw/papers/2604.04237.md]
+tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcement-learning, adaptive-learning-systems, metacognition, rag, llm]
+sources: ['raw/papers/2604.04237.md']
 confidence: medium
 ---
 
-# Pedagogical Safety in Educational Reinforcement Learning
+> **Olukola & Rahimi (2026)** identify a critical gap: as reinforcement learning personalizes instruction in ITS, **there is no formal framework for pedagogical safety**.
 
 > First formal framework for defining and detecting *pedagogical safety* violations in RL-based AI tutoring systems.
 
@@ -56,17 +56,39 @@ The paper proposes detecting reward hacking via:
 
 This parallels concerns in [[educational-llm-alignment]] where benchmark misalignment with teaching quality reveals similar optimization gaps.
 
+## Connected Concepts
+
+- [[adaptive-learning-systems]]
+- [[metacognition]]
+
+## Connected Articles
+
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
+- [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
+- [[prompt-injection-defenses-educational-llm-tutors]] — Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+
 ## Citation
 
 Rahimi, A.O.O.N. (2026). [*Pedagogical Safety in Educational Reinforcement Learning*](https://arxiv.org/abs/2604.04237)
-
-## Related Pages
-- [[prompt-injection-defenses-educational-llm-tutors]] — Security-usability trade-offs in guardrail design
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Social-epistemic courage as RL training objective
-- [[ai-tutor-safety-harms]] — SafeTutors taxonomy of 11 harm dimensions
-- [[educational-llm-alignment]] — Benchmark misalignment with student outcomes
-- [[adaptive-learning-systems]] — RL as personalization mechanism
-- [[ai-tutor-effectiveness-review]] — Effectiveness requires pedagogical (not just statistical) validation
-- [[metacognition]] — RL systems may undermine (or scaffold) learner self-regulation
-
-- [[llm-student-simulation-misconception-faithfulness]] — SFS-aligned RL training for misconception-faithful simulators

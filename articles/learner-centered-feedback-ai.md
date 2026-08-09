@@ -1,12 +1,14 @@
 ---
-title: 'Enhancing learner-centered feedback with AI: teachers'' practices and perceptions'
+title: "Enhancing learner-centered feedback with AI: teachers'' practices and perceptions"
 created: 2026-08-03
 updated: 2026-08-03
 type: article
-tags: [generative-ai, feedback-loop, teacher-role, higher-ed, faculty-development, scaffolding]
-sources: [raw/papers/tandf-2026-learner-centered-feedback-ai.md]
+tags: [generative-ai, feedback-loop, teacher-role, higher-ed, faculty-development, scaffolding, human-in-the-loop-ai, faculty-development-genai, rag]
+sources: ['raw/papers/tandf-2026-learner-centered-feedback-ai.md']
 confidence: high
 ---
+
+> **Ahmad Ari Aldino, Bhagya Maheshi, Yuheng Li, Ying Zhou, Yi-Shan Tsai, Dragan Gašević & Guanliang Chen (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 892–910. doi:10.1080/02602938.2026.2638920.
 
 # Enhancing learner-centered feedback with AI: teachers' practices and perceptions
 
@@ -41,19 +43,41 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 - **Design implications:** adjustable tone parameters, discipline-specific templates, and transparency controls; without them AI adoption may *increase* rather than reduce workload and can erode teacher authority if positioned as autonomous providers.
 - The authors call for future research on **student perspectives** of AI-assisted teacher feedback and longitudinal study of whether reliance strengthens or displaces evaluative judgement.^[raw/papers/tandf-2026-learner-centered-feedback-ai.md]
 
-## Related Pages
-- [[agency-gap-ai-writing]] — Calibrating AI initiative to learner/teacher needs
+## Connected Concepts
 
-- [[feedback-futures-genai]] — Editorial citing this study's "reflective scaffold" reading and workload redistribution
-- [[genai-teacher-feedback-comparison]] — Student-side complement: perceptions of AI vs teacher feedback
-- [[chatgpt-feedback-engagement-genai]] — Student-side engagement with ChatGPT feedback
-- [[feedback-loop]] — Feedback as dialogic process; the framework used here (Future Impact / Sensemaking / Agency)
-- [[teacher-role]] — Teacher agency and professional judgement in AI-mediated feedback
-- [[human-in-the-loop-ai]] — "Assist but verify" pattern; teachers accept/reject/edit AI output
-- [[scaffolding]] — AI as scaffold for evaluative judgement, especially for novice teachers
-- [[faculty-development-genai]] — Professional development implications (de-skilling risk)
-- [[over-reliance]] — Novice-teacher deferral risk
-- [[higher-ed]] — Deployment context
+- [[faculty-development-genai]]
+- [[higher-ed]]
+- [[human-in-the-loop-ai]]
+- [[scaffolding]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...
+- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
+- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
 
 ## Citation
 

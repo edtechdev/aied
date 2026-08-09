@@ -1,14 +1,14 @@
 ---
-title: 'From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning'
+title: "From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning"
 created: 2026-05-20
 updated: 2026-05-22
 type: article
-tags: [intelligent-tutoring, learning-analytics, engagement-metrics, k-12, efficacy-study, benchmark, scaffolding]
-sources: [raw/papers/2605.12788.md]
+tags: [intelligent-tutoring, learning-analytics, engagement-metrics, k-12, efficacy-study, benchmark, scaffolding, rag, ai-tutoring, metacognition]
+sources: ['raw/papers/2605.12788.md']
 confidence: high
 ---
 
-# From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
+> **Qiu, Thomas, Guo, Aleven & Borchers (2026)** — EDM 2026.
 
 **Qiu, Thomas, Guo, Aleven & Borchers (2026)** — EDM 2026.
 
@@ -48,16 +48,37 @@ The focus on middle-school students (N=425) aligns with the [[ai-k12-evidence-ba
 
 The paper establishes a **reproducible benchmark** for engagement forecasting, with clearly defined prediction targets, a documented feature set, and public interaction log data. This is significant for the [[benchmark]] landscape in AIED, where many systems are evaluated on proprietary data with incomparable metrics.
 
-## Related Pages
-- [[simulating-learner-task-selection]] — Extends engagement research by modeling the behavioral mechanisms of task-selection strategies
-- [[genai-tutor-engagement-patterns]] — Student engagement patterns with generative AI tutors
-- [[ai-tutor-behavioral-evaluation]] — Behavioral evaluation frameworks for AI tutoring
-- [[ai-tutor-effectiveness-review]] — Systematic review of AI tutor effectiveness
-- [[collaborative-ai-tutoring]] — Hybrid human-AI tutoring approaches
-- [[ai-k12-evidence-base]] — Evidence base for AI in K-12 education
-- [[ai-metacognition-stem-review]] — AI for metacognition scaffolding in STEM
-- [[learning-analytics]] — Core page on learning analytics in education
-- [[physiological-signals-exam-outcomes-ml]] -- Random forest predicts exam outcomes from physiological signals as well as deep learning with better interpretability
+## Connected Concepts
+
+- [[learning-analytics]]
+
+## Connected Articles
+
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
+- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
+- [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
+- [[simulating-learner-task-selection]] — Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 
 ## Citation
 

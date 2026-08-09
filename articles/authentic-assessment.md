@@ -3,12 +3,12 @@ title: Authentic Assessment
 created: 2026-05-07
 updated: 2026-05-07
 type: article
-tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning]
+tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning, pedagogical-llm-training, human-in-the-loop-ai, zone-of-proximal-development]
+sources: ['raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md']
 confidence: high
-sources: [raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md]
 ---
 
-# Authentic Assessment
+> Wiggins (1990) proposed AA as a counterbalance to standardised tests: direct examination of "student performance on worthy intellectual tasks."
 
 > Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which threatens the validity of any task that can be replicated à la Wiggins (1990)—makes AA's broader forms essential. Zhan, Boud & Du (2025) propose a six-dimensional design model that centres student agency and social collaboration, directly relevant to how AI assessment tools should be designed.
 
@@ -86,32 +86,47 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 
 4. **Social authenticity deficit:** Only 3 studies addressed social issues (citizenship, sustainability, ethics). How can AI assessment tools help students contribute to societal transformation rather than merely simulate it?
 
+## Connected Concepts
+
+- [[adaptive-learning-systems]]
+- [[cognitive-load-theory]]
+- [[desirable-difficulties]]
+- [[faculty-development-genai]]
+- [[formative-assessment]]
+- [[human-in-the-loop-ai]]
+- [[metacognition]]
+- [[pedagogical-llm-training]]
+- [[self-regulated-learning]]
+- [[zone-of-proximal-development]]
+
+## Connected Articles
+
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[moral-panic-genai-classroom]] — Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation a...
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[principled-ai-education]] — Principled AI in Education
+- [[student-cheat-sheets-make-or-take]] — Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets
+- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
+- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+
 ## Citation
 
 Education, H., Du4, Y.Z.D.B.Z., 2025, R.D.A.N., Zhan, Y., Boud, D., Du, Z., & The, D.O.C.A.I.A.A.R.C. (2026). [*Authentic Assessment*](https://doi.org/10.1007/s10734-025-01588-9)
-
-## Related Pages
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: authentic assessment in an AI-mediated world
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes
-- [[universities-ai-era-rethinking]] — Calls for assessment redesign centered on student agency and judgement
-- [[multimodal-learning-genai]] — Multimodal artefact assessment and assessment validity in AI-present contexts
-- [[principled-ai-education]] — Authentic assessment aligned with meaningful learning goals
-- [[faculty-development-genai]] — Humanities resistance tied to authorship/authenticity concerns
-- [[formative-assessment]] — AI-generated formative items; contrast with the authentic-assessment design framework
-- [[self-regulated-learning]] — Agency, choice, and the reciprocal motivation loop
-- [[metacognition]] — Monitoring and regulation in self/peer assessment contexts
-- [[pedagogical-llm-training]] — Training pipelines that should incorporate the six-dimensional framework
-- [[adaptive-learning-systems]] — Beyond content adaptivity toward assessment co-design
-- [[human-in-the-loop-ai]] — Teacher-student-AI triadic co-design of assessment
-- [[agentic-workflows-education]] — Planning and reflection paradigms as design enablers
-- [[educational-llm-alignment]] — Benchmark misalignment also appears in AA: what benchmarks measure may diverge from what authentic assessment values
-- [[ai-tutor-safety-harms]] — Performative reflection as a pedagogical harm; displaced metacognition
-- [[llm-fallacy-misattribution]] — AI-authored work misattributed as student competence undermines assessment authenticity
-- [[moral-panic-genai-classroom]] — Split-format (paper knowledge + open applied) restored integrity & equity; GenAI-available masked cheating via elevated variability
-- [[tool-invariant-framework-agentic-ai]] — Verification-gated oral defense of comment-stripped AI-assisted work; proxy collapse (artifact no longer certifies student)
-- [[ai-peer-feedback-systems]] — AI-mediated peer assessment as a mechanism for social collaboration and evaluative judgement
-- [[collaborative-ai-tutoring]] — Social collaboration in real-time pair and group contexts
-- [[desirable-difficulties]] — *(create when second source emerges)*
-- [[cognitive-load-theory]] — *(create when second source emerges)*
-- [[zone-of-proximal-development]] — *(create when second source emerges)*
-- [[student-cheat-sheets-make-or-take]] — Students choose between self-created and instructor-provided cheat sheets based on trust, personaliz

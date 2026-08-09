@@ -3,12 +3,12 @@ title: Multimodal Learning with Generative AI
 created: 2026-05-07
 updated: 2026-05-07
 type: article
-tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback-loop, assessment]
+tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback-loop, assessment, pedagogical-llm-training, self-regulated-learning]
+sources: ['raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md']
 confidence: high
-sources: [raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
 ---
 
-# Multimodal Learning with Generative AI
+> The guide adopts a middle way between "techno-fixing" and rejecting AI as an existential threat. It argues that:
 
 > A comprehensive educator's guide to integrating Generative AI into multimodal teaching, learning, and assessment across higher education. Built on Kress's social semiotic theory of multimodality, the guide positions GenAI as a 'cyber-social' partner that complements—but cannot replace—human meaning-making. It proposes the **MMLD-AI** unifying model (UDL + ABC Learning Design) and the **Dual-Track Cyber-Social Learning Model** for designing effective human-AI collaboration.^[[varga-atkins-educators-guide-multimodal-learning-genai-2025]]
 
@@ -125,26 +125,48 @@ The guide includes 15+ educator case studies spanning:
 3. **Assessment validity**: When students use GenAI to create multimodal assessment artefacts, how can assessors distinguish genuine human meaning-making from AI-generated polish?
 4. **Scaling the MMLD-AI model**: Can the six engagement types be operationalized as automatic learning design recommendations, or does human pedagogical judgment remain essential?
 
+## Connected Concepts
+
+- [[adaptive-learning-systems]]
+- [[ai-literacy]]
+- [[dot-framework-survey]]
+- [[faculty-development-genai]]
+- [[formative-assessment]]
+- [[human-in-the-loop-ai]]
+- [[metacognition]]
+- [[pedagogical-llm-training]]
+- [[self-regulated-learning]]
+- [[socratic-ai-dialogue]]
+- [[varga-atkins-educators-guide-multimodal-learning-genai-2025]]
+
+## Connected Articles
+
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[authentic-assessment]] — Authentic Assessment
+- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
+- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[principled-ai-education]] — Principled AI in Education
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+
 ## Citation
 
 AI, G., Original, T., Multimodal, A.E.G.T., AI, L.A.G., Investigators:, P., Varga-Atkins, T., Saunders, S., & Hallam, S.B.S. (2026). [*Multimodal Learning with Generative AI*](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf)
-
-## Related Pages
-- [[dot-framework-survey]]
-- [[multimodal-ai-feedback-learning]] — Zhao et al.: concrete implementation of multimodal AI feedback system validating the MMLD-AI framework
-- [[ai-literacy]] — Collaborative learning and ICAP framework; this guide adds multimodal and institutional dimensions
-- [[faculty-development-genai]] — CTL-level professional learning; this guide adds module/programme/institutional scaling
-- [[principled-ai-education]] — Goals-models-technologies framework; this guide provides concrete multimodal implementation
-- [[authentic-assessment]] — Assessment redesign for AI-present contexts; this guide adds multimodal artefact assessment
-- [[formative-assessment]] — AI feedback generation; this guide adds multimodal feedback strategies
-- [[self-regulated-learning]] — UDL and student agency; this guide adds cyber-social regulation
-- [[metacognition]] — Metacognitive awareness of human vs. AI strengths/weaknesses
-- [[pedagogical-llm-training]] — Training for guiding behavior; this guide adds multimodal output training
-- [[human-in-the-loop-ai]] — Educator verification of AI outputs; this guide adds peer and self-assessment loops
-- [[adaptive-learning-systems]] — Personalized content; this guide adds multimodal personalisation
-- [[agentic-workflows-education]] — Planning and reflection paradigms as engagement types
-- [[ai-tutor-safety-harms]] — Costs to knowledge overlap; environmental costs expand the taxonomy
-- [[educational-llm-alignment]] — Alignment between AI capabilities and pedagogical goals
-- [[multimodal-ai-tutoring]] — Multimodal errors and corrections; this guide focuses on productive multimodal use
-- [[collaborative-ai-tutoring]] — Group-level cyber-social collaboration
-- [[socratic-ai-dialogue]] — Discussion/discourse as one of six engagement types

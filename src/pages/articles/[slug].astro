@@ -12,13 +12,12 @@ const articles = await getCollection('articles');
 const article = articles.find(a => a.id.replace('.md', '') === slug);
 if (!article) return Astro.redirect('/aied/');
 
-const { title, tags, confidence, created, sources } = article.data;
+const { title, tags, confidence, created } = article.data;
 const body = article.body || '';
 
 function renderMarkdown(text: string, pageTitle: string): string {
   let html = '';
   let inBlockquote = false;
-  let inList = false;
 
   for (const line of text.split('\n')) {
     const trimmed = line.trim();
@@ -30,6 +29,7 @@ function renderMarkdown(text: string, pageTitle: string): string {
     }
     if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
 
+    // Skip H1 matching page title
     if (trimmed.startsWith('# ') && trimmed.slice(2).trim() === pageTitle) continue;
 
     if (trimmed.startsWith('### ')) { html += `<h3>${renderInline(trimmed.slice(4))}</h3>`; continue; }
@@ -40,26 +40,21 @@ function renderMarkdown(text: string, pageTitle: string): string {
       const cells = trimmed.split('|').slice(1, -1).map(c => c.trim());
       if (cells.every(c => /^-{3,}$/.test(c) || c.startsWith('---'))) continue;
       html += '<tr>' + cells.map(c => `<td>${renderInline(c)}</td>`).join('') + '</tr>';
-      if (!inList) { html = html.replace(/\/tr>$/, ''); html += '<tr>'; inList = true; }
       continue;
     }
 
     if (/^[-*]\s/.test(trimmed)) {
-      if (!inList) { html += '<ul>'; }
       html += `<li>${renderInline(trimmed.slice(2))}</li>`;
-      inList = true;
       continue;
     }
-    if (inList) { html += '</ul>'; inList = false; }
 
     if (/^[-*]{3,}$/.test(trimmed)) { html += '<hr>'; continue; }
-    if (!trimmed) { if (!inBlockquote && !inList) html += ''; continue; }
+    if (!trimmed) { html += ''; continue; }
 
     html += `<p>${renderInline(trimmed)}</p>`;
   }
 
   if (inBlockquote) html += '</blockquote>';
-  if (inList) html += '</ul>';
   return html;
 }
 
@@ -78,14 +73,6 @@ function renderInline(text: string): string {
 }
 
 const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○';
-
-// Find related articles (sharing tags)
-const allArticles = await getCollection('articles');
-const relatedArticles = allArticles
-  .filter(a => a.id.replace('.md', '') !== slug)
-  .filter(a => (a.data.tags || []).some(t => (tags || []).includes(t)))
-  .sort((a, b) => b.data.created.localeCompare(a.data.created))
-  .slice(0, 8);
 ---
 
 <BaseLayout title={title}>
@@ -104,34 +91,5 @@ const relatedArticles = allArticles
     <div style="line-height:1.8" data-pagefind-body>
       <Fragment set:html={renderMarkdown(body, title)} />
     </div>
-
-    {(sources || []).length > 0 && (
-      <div class="citation">
-        <h3>📎 Source{ sources.length > 1 ? 's' : '' }</h3>
-        <ul>
-          {sources.map((s: string) => (
-            <li><code>{s}</code></li>
-          ))}
-        </ul>
-      </div>
-    )}
-
-    {relatedArticles.length > 0 && (
-      <section style="margin-top:2rem;padding:1rem;background:var(--card-background-color);border-radius:8px;">
-        <h2>📄 Related Articles</h2>
-        {relatedArticles.map(a => (
-          <div class="page-item">
-            <a href={`/aied/articles/${a.id.replace('.md', '')}`} style="font-weight:500;">
-              {a.data.title}
-            </a>
-            <div style="font-size:0.75rem;color:var(--muted-color);">
-              {a.data.created} · {(a.data.tags || []).slice(0, 4).map((t: string) => (
-                <a href={`/aied/tags/${t}`} class="tag-chip" style="font-size:0.65rem;padding:0.02rem 0.3rem;">{t}</a>
-              ))}
-            </div>
-          </div>
-        ))}
-      </section>
-    )}
   </article>
 </BaseLayout>

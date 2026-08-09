@@ -1,16 +1,14 @@
 ---
-title: "Guidelines for Designing AI Technologies to Support Adult Learning"
+title: Guidelines for Designing AI Technologies to Support Adult Learning
 created: 2026-08-06
 updated: 2026-08-06
 type: article
-tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation]
-sources: [raw/papers/ai-adult-learning-guidelines-dis2026.md]
+tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation, rag]
+sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']
 confidence: high
 ---
 
 > **Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for Adult Learning and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning technologies. The guidelines span cognitive, social, and teaching presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.
-
-# Guidelines for Designing AI Technologies to Support Adult Learning
 
 ## Context and Motivation
 
@@ -73,18 +71,45 @@ The guidelines span four categories:
 3. **Heuristic evaluation using these 19 guidelines** provides a structured method for assessing adult learning technologies against empirically grounded criteria.
 4. **The guideline exploration tool** connects abstract design principles to concrete stakeholder quotes, supporting ideation and technology refinement.
 
+## Connected Concepts
+
+- [[adult-learning]]
+- [[ai-education]]
+- [[andragogy]]
+- [[design-guidelines]]
+- [[educational-technology]]
+- [[higher-ed]]
+- [[human-computer-interaction]]
+- [[professional-training]]
+
+## Connected Articles
+
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
+- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+
 ## Citation
 
 13-17, V.D.J., Adult, G.F.D.A.T.T.S., Reddig∗, J., Computing, I., Georgia, A., & Morris, W.G. (2026). [*Guidelines for Designing AI Technologies to Support Adult Learning*](https://doi.org/10.1145/3800645.3813102). Designing Interactive Systems Conference (DIS ’26), June 13–17
-
-## Related Pages
-
-- [[adult-learning]]
-- [[andragogy]]
-- [[design-guidelines]]
-- [[ai-education]]
-- [[educational-technology]]
-- [[higher-ed]]
-- [[professional-training]]
-- [[heuristic-evaluation]]
-- [[human-computer-interaction]]

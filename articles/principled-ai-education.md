@@ -3,12 +3,12 @@ title: Principled AI in Education
 created: 2026-05-07
 updated: 2026-07-28
 type: article
-tags: [ai-education, higher-ed, pedagogy, scaffolding, policy-maker, active-learning]
+tags: [ai-education, higher-ed, pedagogy, scaffolding, policy-maker, active-learning, self-regulated-learning, human-in-the-loop-ai, faculty-development-genai, metacognition]
+sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: high
-sources: [raw/papers/finkelstein-principled-ai-education-2025.md]
 ---
 
-# Principled AI in Education
+> The framework rests on three interconnected anchors that must be addressed *before* selecting tools:
 
 > Rejecting the binary promise-vs-peril discourse and the rush to immediate implementation, Finkelstein (2025) proposes a principled framework anchored in three questions: What are our educational goals? What do we know about human learning? How can technologies serve those goals and models?^[[finkelstein-principled-ai-education-2025]]
 
@@ -61,31 +61,42 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 3. **Match technology to model** — Which AI affordance serves this model? (e.g., Socratic dialogue for productive failure, peer matching for social learning)
 4. **Evaluate against displacement** — Does the tool do something the learner should do themselves? If yes, redesign.
 
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[faculty-development-genai]]
+- [[human-in-the-loop-ai]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+
+## Connected Articles
+
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
+- [[authentic-assessment]] — Authentic Assessment
+- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics Visuals?
+- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+
 ## Citation
 
 education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). [*Principled AI in Education*](https://arxiv.org/abs/2510.01467)
-
-## Related Pages
-- [[lata-ferpa-compliant-local-llm-autograder]] — Open-source, zero-marginal-cost, privacy-preserving AI
-- [[institutional-change-framework-ai]] — Six-dimension framework for adapting institutional change models in STEM to generative AI
-- [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics V...
-- [[universities-ai-era-rethinking]] — Institutional-level application of augment-don't-displace principle
-- [[critical-thinking-genai-scaffolding]] — Vendrell & Johnston (2026): eight design principles for scaffolding critical thinking with LLMs in higher education.
-- [[ai-higher-ed-bridge-gap]] — Science editorial: three-pillar AI literacy framework for higher education
-- [[multimodal-learning-genai]] — Concrete multimodal implementation of goals-models-technologies framework
-- [[ai-k12-evidence-base]] — Evidence base with similar goal-first orientation
-- [[ai-tutor-safety-harms]] — Displacement harms as violation of the augment principle
-- [[self-regulated-learning]] — Learner agency as a non-negotiable goal
-- [[metacognition]] — Human learning model: monitoring one's own thinking
-- [[authentic-assessment]] — Assessment aligned with meaningful learning goals
-- [[human-in-the-loop-ai]] — Role clarification for educators and technologies
-- [[faculty-development-genai]] — Institutional implementation of principled frameworks
-- [[educational-llm-alignment]] — Alignment as a technical expression of principled design
-- [[ai-learning-transfer]] — Transfer as an educational goal that AI can serve or undermine
-- [[agentic-workflows-education]] — Agentic paradigls as technology choices serving learning models
-
-- [[multi-agent-instructional-design]] — KLI framework as principled approach to AI instructional design
-- [[aied-carbon-footprint-reporting]] — Environmental sustainability as a dimension of principled AI in education
-- [[ai-ethics-education-public-discourse]] - grounding ethics frameworks in discourse
-- [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
-

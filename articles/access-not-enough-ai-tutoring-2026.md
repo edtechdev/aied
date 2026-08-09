@@ -1,14 +1,12 @@
 ---
-title: 'Access is Not Enough: Human Support Improves Engagement with AI Tutoring'
+title: "Access is Not Enough: Human Support Improves Engagement with AI Tutoring"
 created: 2026-08-03
 updated: 2026-08-03
 type: article
-tags: [intelligent-tutoring, equity, engagement-metrics, k-12, ai-literacy, student-experience, rct]
-sources: [raw/papers/access-not-enough-ai-tutoring-2026.md]
+tags: [intelligent-tutoring, equity, engagement-metrics, k-12, ai-literacy, student-experience, rct, rag]
+sources: ['raw/papers/access-not-enough-ai-tutoring-2026.md']
 confidence: high
 ---
-
-# Access is Not Enough
 
 > Robinson, Gormley, Ribeiro & Loeb (2026) ran two RCTs showing that AI tutoring's binding constraint is **take-up, not capability**: despite dedicated session time, nearly half of students never used the platform and users averaged only 2–5 minutes per week. An in-person engagement tutor (not direct instruction) raised usage by 1–4 minutes/week and engagement by 71–80% — but dosage stayed far below the level needed for reading gains, and achievement did not improve.
 
@@ -33,26 +31,40 @@ confidence: high
 - **No reading achievement gains** in either district (negative, non-significant) — consistent with the achieved dosage
 - Strong site-level variation: some sites saw little effect, others meaningful gains — local implementation conditions matter
 
-## Connections to the wiki
+## Connected Concepts
 
-- Direct evidence on the [[intelligent-tutoring]] take-up problem: system quality is worthless without student engagement
-- Extends the [[equity]] analysis of AI tutoring: access gaps compound with engagement gaps (special-ed and lower-achieving students used less)
-- The engagement-tutor mechanism (relationship-building, check-ins, reflection) resonates with [[human-in-the-loop]] and the relational care arguments of [[care-full-feedback-genai]]
-- Contrasts with [[learner-ai-interaction-patterns-oop]]: even when usage is measured, the dosage threshold for achievement effects is often missed
-- Supports the "design for learning" stance of [[beyond-detection-authentic-assessment-ai-2025]]: engagement must be designed, not assumed
+- [[ai-literacy]]
+- [[k-12]]
+- [[student-experience]]
 
-## Related Pages
-- [[intelligent-tutoring]] — the platform technology whose take-up is the binding constraint
-- [[equity]] — who uses (and who is left out of) AI learning tools
-- [[engagement-metrics]] — usage and story-completion as the measured outcomes
-- [[k-12]] — elementary school context
-- [[ai-literacy]] — the platform's domain
-- [[student-experience]] — motivation and participation
-- [[human-in-the-loop]] — the tutor-supported engagement architecture
-- [[care-full-feedback-genai]] — relational support as the engagement lever
-- [[learner-ai-interaction-patterns-oop]] — measuring real usage patterns
-- [[beyond-detection-authentic-assessment-ai-2025]] — engagement must be designed, not assumed
+## Connected Articles
+
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
 
 ## Citation
 
-- Robinson, C. D., Gormley, D., Trindade Ribeiro, A., & Loeb, S. (2026). [Access is Not Enough: Human Support Improves Engagement with AI Tutoring. EdWorkingPaper No. 26-1451, Annenberg Institute at Brown University. DOI](https://doi.org/10.26300/pz7p-p388)
+Robinson, C. D., Gormley, D., Trindade Ribeiro, A., & Loeb, S. (2026). [Access is Not Enough: Human Support Improves Engagement with AI Tutoring. EdWorkingPaper No. 26-1451, Annenberg Institute at Brown University. DOI](https://doi.org/10.26300/pz7p-p388)

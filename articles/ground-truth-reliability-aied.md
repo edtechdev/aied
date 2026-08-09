@@ -3,12 +3,12 @@ title: "Modernizing Ground Truth: Four Shifts Toward Improving Reliability and V
 created: 2026-05-11
 updated: 2026-05-11
 type: article
-tags: [benchmark, efficacy-study, learning-analytics, generative-ai, llm, automated-grading, human-in-the-loop]
-sources: [raw/papers/2603.29141.md]
+tags: [benchmark, efficacy-study, learning-analytics, generative-ai, llm, automated-grading, human-in-the-loop, ai-literacy-assessment-misalignment, human-in-the-loop-ai, llm-cognitive-diagnosis-handwritten-math]
+sources: ['raw/papers/2603.29141.md']
 confidence: high
 ---
 
-# Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
+> **Thomas, Borchers, Vanacore, Koedinger & Kizilcec (2026)** — CMU & Cornell. Accepted as full paper at AIED 2026.
 
 **Thomas, Borchers, Vanacore, Koedinger & Kizilcec (2026)** — CMU & Cornell. Accepted as full paper at AIED 2026.
 
@@ -65,19 +65,6 @@ Go beyond agreement statistics with:
 
 The paper illustrates these shifts through case studies of **multimodal tutoring data**, demonstrating how the four-shift framework applies to real AIED annotation challenges.
 
-## Connection to the Wiki
-
-This paper is a **methodological backbone** for much of the research in this wiki. Many studies summarized here rely on labeled data; this paper provides the framework for evaluating whether those labels are trustworthy.
-
-- **[[assessment-validity]]**: The four shifts extend validity concerns from assessment instruments to the labeled datasets that train and evaluate AIED systems
-- **[[ai-k12-evidence-base]]**: Stanford SCALE found only 20/818 papers met causal inference standards — Thomas et al. address the complementary problem of measurement quality in the remaining papers
-- **[[automated-grading]]**: Automated grading systems depend on ground truth labels; the four shifts provide a quality framework for evaluating those labels
-- **[[human-in-the-loop-ai]]**: Shift 3 (LLM annotation risks) directly operationalizes HITL principles for AIED annotation workflows
-- **[[educational-vlm-evaluation]]**: Evaluation methodology for vision-language models in education connects to the multimodal segmentation challenges discussed
-- **[[ai-literacy-assessment-misalignment]]**: The disconnect between self-report and actual skills exemplifies why agreement alone (students agree with each other about their skills) doesn't guarantee validity
-- **[[educational-llm-alignment]]**: Hardy & Kim's finding that benchmarks misalign with teaching quality parallels the argument that IRR alone misaligns with ground truth validity
-- **[[formative-assessment]]**: Formative assessment systems that rely on AI-generated labels need the validity framework proposed here to ensure labels support learning
-
 ## Practical Recommendations
 
 1. **Always report multiple IRR metrics** (κ, α, percentage agreement) and discuss their limitations given the data characteristics
@@ -92,19 +79,42 @@ This paper is a **methodological backbone** for much of the research in this wik
 - How should the four shifts be adapted for fully automated annotation pipelines with no human raters?
 - Can uncertainty-aware labeling be standardized across the field, or is it inherently task-specific?
 
-## Related Pages
+## Connected Concepts
 
-- [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)
-- [[rubric-aware-grading-rec-cbm]] — 2 of 8 papers in May 28 scan
+- [[ai-literacy-assessment-misalignment]]
+- [[assessment-validity]]
+- [[automated-grading]]
+- [[formative-assessment]]
+- [[human-in-the-loop-ai]]
+- [[llm-cognitive-diagnosis-handwritten-math]]
 
-- [[reliable-programming-kt]] — Attention-dimension misconfiguration as reliability threat
-- [[self-referential-l2-writing-llm-assessment]] — Rasch-model calibration for more rigorous AIED measurement
-- [[short-answer-scoring-quality-degradation]] — Quality-conditioned agreement addresses scoring reliability concerns
-- [[ai-tutor-effectiveness-review]] — Systematic review whose conclusions depend on the quality of labeled evaluation data
-- [[ai-tutor-safety-harms]] — Safety taxonomies require reliable annotation of harm categories
-- [[automatic-short-answer-grading]] — Grading systems that depend on ground truth label quality
-- [[knowledge-tracing-irt]] — Interpretable knowledge tracing that requires reliable ground truth for training- [[aied-carbon-footprint-reporting]] — Parallel under-reporting of computational costs and ground truth methodology
-- [[human-vs-llm-ordered-coding]]
+## Connected Articles
+
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
+- [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis
+- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
+- [[reliable-programming-kt]] — Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental...
+- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
+- [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
+- [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specifi...
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agentic-workflows-education]] — Agentic Workflows in Education
 
 ## Citation
 

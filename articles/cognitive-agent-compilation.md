@@ -3,12 +3,12 @@ title: Cognitive Agent Compilation for Explicit Problem Solver Modeling
 created: 2026-05-11
 updated: 2026-05-11
 type: article
-tags: [intelligent-tutoring, llm, adaptive-learning, personalized-learning]
-sources: [raw/papers/2605.07040.md]
+tags: [intelligent-tutoring, llm, adaptive-learning, personalized-learning, pedagogical-llm-training, adaptive-learning-systems, rag, ai-tutoring]
+sources: ['raw/papers/2605.07040.md']
 confidence: medium
 ---
 
-# Cognitive Agent Compilation for Explicit Problem Solver Modeling
+> **Moon, Rosé & Stamper (2026)** — CMU. Accepted to AIED 2026 Blue Sky track.
 
 **Moon, Rosé & Stamper (2026)** — CMU. Accepted to AIED 2026 Blue Sky track.
 
@@ -60,13 +60,40 @@ CAC connects to several threads in AI education research:
 - **Domain breadth**: The initial implementation is domain-specific — can CAC generalize across subjects?
 - **Bounded rationality in practice**: Does bounded-knowledge AI actually improve educational outcomes compared to unbounded LLM tutors?
 
-## Related Pages
+## Connected Concepts
 
-- [[agentic-education-coding]] — Agentic workflows for teaching coding
-- [[ai-learning-companions-framework]] — Framework for AI companions prioritizing learning over performance
-- [[collaborative-ai-tutoring]] — Proactive AI tutoring with real-time cognitive load forecasting
-- [[multi-agent-instructional-design]] — Multi-agent systems for instructional design
-- [[pedagogical-safety-rl]] — Safety frameworks for RL-based tutoring
+- [[adaptive-learning-systems]]
+- [[pedagogical-llm-training]]
+- [[personalized-learning]]
+
+## Connected Articles
+
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
+- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
+- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
+- [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
+- [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+
 ## Citation
 
 Moon, H., Rosé, C., & Stamper, J. (2026). [Cognitive Agent Compilation for Explicit Problem Solver Modeling](https://arxiv.org/abs/2605.07040). arXiv:2605.07040. Accepted to AIED 2026 Blue Sky.

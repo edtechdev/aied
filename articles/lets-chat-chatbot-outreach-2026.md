@@ -1,10 +1,10 @@
 ---
-title: 'Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance'
+title: "Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance"
 created: 2026-08-03
 updated: 2026-08-03
 type: article
-tags: [higher-ed, student-experience, generative-ai, engagement-metrics, rct]
-sources: [raw/papers/lets-chat-chatbot-outreach-2026.md]
+tags: [higher-ed, student-experience, generative-ai, engagement-metrics, rct, rag, llm]
+sources: ['raw/papers/lets-chat-chatbot-outreach-2026.md']
 confidence: high
 ---
 
@@ -33,26 +33,40 @@ confidence: high
 - Shows the channel matters: chatbot outreach moved students to *human* tutoring — a complementarity rather than substitution story
 - A useful counterpoint to [[genai-can-harm-teaching-rct-2026]]: this is student-facing, non-generative, low-stakes outreach, where AI assistance had positive effects — the harm findings are about generative teacher-facing tools used for delegation
 
-## Connections to the wiki
+## Connected Concepts
 
-- A positive control for the [[higher-ed]] AI-outreach literature: rule-based chatbots with curated content bases avoid the [[hallucination-risk]] of generative systems while capturing the engagement gains
-- The task-completion channel connects to [[engagement-metrics]] and to the "nudge vs. tutoring" debate — it works by pushing students toward human support
-- The null spillover (no habit formation) mirrors [[genai-availability-grades-satisfaction]]: proximal effects do not always translate into durable learning gains
-- Ties to [[student-experience]]: students liked and recommended the bot (82%)
-- Contrast with [[beyond-detection-authentic-assessment-ai-2025]]'s generative-AI framing: outreach chatbots are a low-ambition, high-reliability AI use case
+- [[generative-ai]]
+- [[higher-ed]]
+- [[student-experience]]
 
-## Related Pages
-- [[higher-ed]] — large-enrollment online course context
-- [[student-experience]] — engagement and recommendation outcomes
-- [[engagement-metrics]] — A/B, DFW, and task completion as outcomes
-- [[generative-ai]] — the non-generative contrast case
-- [[hallucination-risk]] — why the curated knowledge base matters
-- [[genai-can-harm-teaching-rct-2026]] — the teacher-facing generative-AI counterpoint
-- [[genai-availability-grades-satisfaction]] — null results on grades elsewhere
-- [[intelligent-tutoring]] — human tutoring as the mechanism
-- [[equity]] — women-only effects in Microeconomics
-- [[over-reliance]] — low-stakes outreach avoids the reliance trap
+## Connected Articles
+
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction at a Large University
+- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
 
 ## Citation
 
-- Meyer, K. E., Page, L. C., Mata, C., Smith, E., Walsh, B. T., Fifield, C. L., Tyson, M., Eremionkhale, A. E., Evans, M., Frost, S., & Jung, E. E. (2026). [Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. NBER Working Paper No. 35397. NBER](https://www.nber.org/papers/w35397)
+Meyer, K. E., Page, L. C., Mata, C., Smith, E., Walsh, B. T., Fifield, C. L., Tyson, M., Eremionkhale, A. E., Evans, M., Frost, S., & Jung, E. E. (2026). [Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance. NBER Working Paper No. 35397. NBER](https://www.nber.org/papers/w35397)

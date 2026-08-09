@@ -1,10 +1,10 @@
 ---
-title: 'SafeTutors: Pedagogical Safety in AI Tutoring'
+title: "SafeTutors: Pedagogical Safety in AI Tutoring"
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [pedagogical-safety, k-12]
-sources: [raw/papers/hazra-safetutors-pedagogical-safety-2026.md]
+tags: [pedagogical-safety, k-12, ai-tutoring, llm, scaffolding, regulation]
+sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
 confidence: medium
 ---
 
@@ -34,18 +34,40 @@ The risk taxonomy itself is a significant contribution, providing a theoreticall
 
 For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTutors provides empirical evidence that current models are not safe enough for unsupervised deployment. The subject-dependence of harms suggests that safety evaluation must be integrated into discipline-specific [[ai-tutor-behavioral-evaluation]] pipelines rather than treated as a one-time gate.
 
+## Connected Concepts
+
+- [[ai-tutoring]]
+- [[k-12]]
+- [[pedagogical-safety]]
+
+## Connected Articles
+
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
+- [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
+- [[singh-eduqwen-pedagogical-rl-2026]] — EduQwen: Pedagogical RL
+- [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+
 ## Citation
 
 acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). [*SafeTutors: Pedagogical Safety in AI Tutoring*](https://arxiv.org/abs/2603.17373)
-
-## Related Pages
-
-- [[pedagogical-safety]] — Foundational concept of safety specific to teaching contexts
-- [[ai-tutor-safety-harms]] — Taxonomy and analysis of AI tutoring harms
-- [[ai-tutoring]] — Broader landscape of AI-based tutoring systems
-- [[llm-evaluation]] — Frameworks and methods for evaluating LLM behavior
-- [[eduzone-llm-safety-k12]] — Safety benchmarks for K-12 educational LLM deployment
-- [[vetting-dual-llm-safety-education]] — Dual-LLM approaches to educational safety vetting
-- [[k-12]] — Educational context with highest-stakes safety requirements
-- [[educational-theory]] — Theoretical foundations informing the SafeTutors taxonomy
-- [[ai-tutor-behavioral-evaluation]] — Behavioral evaluation frameworks for AI tutors

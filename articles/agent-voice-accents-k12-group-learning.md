@@ -3,12 +3,12 @@ title: Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Gr
 created: 2026-06-12
 updated: 2026-06-12
 type: article
-tags: [equity, generative-ai, human-in-the-loop, k-12, llm, student-experience]
-sources: [raw/papers/2606.12805.md]
+tags: [equity, generative-ai, human-in-the-loop, k-12, llm, student-experience, human-ai-collaboration, ai-literacy, teacher-role]
+sources: ['raw/papers/2606.12805.md']
 confidence: high
 ---
 
-# Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+> **Ravi, Stevens, Hurt, Hanks, Lin & Anderson (2026)**.
 
 **Ravi, Stevens, Hurt, Hanks, Lin & Anderson (2026)**.
 
@@ -22,13 +22,41 @@ The between-subjects mixed-methods study involved 33 teachers interacting with a
 
 The findings advance understanding of how GenAI's sociolinguistic design features shape group dynamics in CSCL (computer-supported collaborative learning), with implications for designing [[equity|culturally inclusive AI partners]]. The work connects to [[human-ai-collaboration]] debates about [[teacher-role|teacher and AI roles]] in collaborative classrooms, and raises important questions about [[ai-literacy|how accent may inadvertently reinforce or disrupt power dynamics]] in educational AI.
 
-## Related Pages
-- [[human-ai-collaboration]] — Human-AI collaboration frameworks
-- [[k-12]] — K-12 AI in education
-- [[equity]] — Equity and inclusion in AI education
-- [[intelligent-tutoring]] — Intelligent tutoring systems
-- [[teacher-role]] — Teacher roles in AI-mediated classrooms
-- [[ai-literacy]] — AI literacy and understanding of AI capabilities
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[human-ai-collaboration]]
+- [[k-12]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
 
 ## Citation
 

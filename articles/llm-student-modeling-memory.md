@@ -3,12 +3,12 @@ title: LLM Student Modeling and Long-Term Memory Architecture
 created: 2026-05-07
 updated: 2026-05-22
 type: article
-tags: [llm, personalized-learning, adaptive-learning, intelligent-tutoring, generative-ai, lifelong-learning]
+tags: [llm, personalized-learning, adaptive-learning, intelligent-tutoring, generative-ai, lifelong-learning, pedagogical-llm-training, self-regulated-learning, metacognition, rag]
+sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
 confidence: medium
-sources: [raw/papers/nie-personavlm-long-term-personalization-2026.md]
 ---
 
-# LLM Student Modeling and Long-Term Memory Architecture
+> Current AI tutoring systems treat each session as independent. Adaptive systems use real-time knowledge tracing (e.g., [[knowledge-tracing-irt|IRT-based models]]) but rarely retain a longitudinal student model that evolves across semesters. Longitudinal personalization is essential for effective scaffolding because:
 
 > PersonaVLM demonstrates a general-purpose framework for long-term user personalization—chronological memory extraction, evolving personality inference, and persona-aligned response generation—that maps directly onto the challenge of building AI tutoring systems that remember a student's learning history across months or years.^[[nie-personavlm-long-term-personalization-2026]]
 
@@ -70,32 +70,41 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 3. Would a tutoring system with PersonaVLM-style memory produce better [[ai-learning-transfer|transfer outcomes]] than episodic-only systems?
 4. What are the pedagogical guardrails needed to prevent personalization from becoming over-accommodation?
 
+## Connected Concepts
+
+- [[metacognition]]
+- [[pedagogical-llm-training]]
+- [[personalized-learning]]
+- [[self-regulated-learning]]
+
+## Connected Articles
+
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
+- [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
+- [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
+- [[expert-cognition-dashboard]] — Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education
+- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[llm-children-reading-story-generation]] — Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty a...
+- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
+- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
+- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
+- [[nie-personavlm-long-term-personalization-2026]] — PersonaVLM: Long-Term Personalization for AI Tutors
+- [[simulating-learner-task-selection]] — Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
+- [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
+- [[test-driven-ai-assisted-learning]] — Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests
+- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+
 ## Citation
 
 Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). [*LLM Student Modeling and Long-Term Memory Architecture*](https://arxiv.org/abs/2604.13074)
-
-## Related Pages
-- [[structrag-diagram-reasoning-ai-tutoring]] — LLM-guided structural reasoning over graphs
-- [[simulating-learner-task-selection]] — Task-selection preferences could inform student models for adaptive system design
-- [[expert-cognition-dashboard]] — Complements longitudinal student modeling with cognition-level dashboard aggregation
-- [[difficulty-aware-dialogue-kt]] — IRT-mapped LLM outputs for student modeling in dialogues
-- [[multi-agent-llm-social-learning]] — Multi-agent LLM peers model different error types (conceptual vs. arithmetic)
-- [[llm-educational-simulation-adhd]] — Tests temporal stability of LLM learner simulations for ADHD profiles
-- [[ecnuclaw-k12-personalized-companion]] — Turn-by-turn profiling vs. persistent memory architectures: comparison point
-- [[cognitive-agent-compilation]] — CAC addresses learner modeling from the knowledge representation angle, complementing memory-based approaches
-- [[ai-learning-companions-framework]] — three-foundation framework for AI learning companions prioritizing durable learning over performance
-- [[ai-tutor-effectiveness-review]] — Student modeling advances in the broader ITS landscape
-- [[knowledge-tracing-irt]] — Real-time ability estimation (session-level)
-- [[tutoring-specific-vs-general-ai]] — Pedagogical guardrails vs. user preference alignment
-- [[self-regulated-learning]] — Longitudinal regulation frameworks
-- [[ai-learning-transfer]] — Durability of gains across sessions
-- [[ai-tutor-safety-harms]] — Longitudinal memory must not enable over-accommodation harms
-- [[pedagogical-llm-training]] — Training pipelines for tutoring-aligned models
-- [[metacognition]] — Student awareness of their own learning
-- [[personalized-learning]] — Realization of personalized learning via longitudinal memory
-- [[learnmate2-llm-adaptive-learning]] — StudyMate uses session history for contextual grounding
-- [[neural-symbolic-knowledge-tracing]] — Learner modeling with neural-symbolic architectures
-- [[test-driven-ai-assisted-learning]] -- A lecture-free CS course with AI-assisted weekly closed-book tests maintained accountability and was scalable with a version-controlled AI agent workspace.
-- [[correct-answer-trap-misconceptions]] -- Fine-tuned classifiers detect only 57% of hidden student misconceptions, while reasoning models reach 84% but at 8:1 false alarms — a detect-verify-escalate pipeline with diagnostic follow-up questions is proposed.
-- [[dyslexlens-dyslexic-learners-ai]] — LLM-based analysis of dyslexic learner discourse
-- [[llm-children-reading-story-generation]] — Compact 8B LLMs as alternative to large API models
