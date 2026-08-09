@@ -1,121 +1,65 @@
 ---
 title: AI Literacy
 created: 2026-05-07
-updated: 2026-07-27
+updated: 2026-08-09
 type: concept
-tags: [ai-literacy, higher-ed, k-12, policy-maker, active-learning, collaborative-ai-tutoring, generative-ai, llm, student-experience, stem-education]
-confidence: medium
+tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
+confidence: high
 ---
 
-> AI literacy — the knowledge and skills needed to understand, evaluate, and effectively use AI technologies — is increasingly recognized as a core competency. Collaborative learning approaches show consistent effectiveness across activities, settings, and learner groups, and the ICAP framework helps explain why.^[[hingle-collaborative-ai-literacy-2025]]
+> **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI technologies in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical evaluation of AI outputs, and ethical awareness of AI's societal implications.
 
-Chi & Wylie (2014) propose that learning activities can be ordered by depth of cognitive engagement:
+AI literacy has rapidly emerged as a core competency for learners, educators, and institutions as [[generative-ai|generative AI]] becomes embedded in education. Unlike general digital literacy, AI literacy requires understanding probabilistic systems that can hallucinate, exhibit bias, and shift agency from human to machine — making [[critical-thinking]] and [[trust-calibration]] central to the construct.
 
-| Mode | Student behavior | AI literacy example |
-|---|---|---|
-| **Passive** | Receiving information | Watching a video about how LLMs work |
-| **Active** | Manipulating information | Running prompt experiments, observing outputs |
-| **Constructive** | Generating new ideas | Designing a prompt engineering task for peers |
-| **Interactive** | Co-constructing with others | Debating AI ethics in a group, building a shared policy |
+### Dimensions of AI literacy
 
-Hingle & Johri's systematic review (9 studies, 2015–2023) found that **collaborative learning activities for AI literacy included all four ICAP modes**. This suggests that effective AI literacy programs should span the full engagement spectrum, not just information delivery.
+AI literacy research in this wiki spans four interconnected dimensions:
 
-## Collaborative Learning for AI Literacy
+**Foundational knowledge:** Understanding what [[llm|LLMs]] are, how they differ from rule-based systems, and their fundamental limitations. This includes awareness of model capabilities, training data biases, and the distinction between task-specific AI and general-purpose models. Research in [[prompting-literacy]] examines how understanding prompt mechanisms affects effective AI use.
 
-### Settings and Participants
-- Most studies: traditional **classroom settings**
-- Some broadened participation via:
-  - **Educators and families** (intergenerational AI literacy)
-  - **AI agents supporting teamwork** (human-AI collaborative learning)
+**Practical competence:** The ability to use AI tools effectively — from [[prompt-engineering]] to interpreting outputs. Studies of [[genai-usage-design-students-survey|student GenAI usage patterns]] reveal that tool access alone doesn't produce competence; structured practice and [[scaffolding]] are essential. The [[gaide-vibe-coding-k12-teachers|vibe coding framework]] shows how K-12 teachers can develop practical AI literacy through guided tool creation.
 
-### Key Insight
-Collaborative learning was effective across diverse contexts, but the mechanism was not uniform collaboration per se — it was the **ICAP depth** of the collaborative activity. Interactive (co-constructive) activities produced stronger literacy outcomes than Active or Passive ones.
+**Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[over-reliance]] research showing that students who trust AI uncritically learn less.
 
-## Relationship to AI-in-Ed Research
+**Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[faculty-development]], and governance frameworks. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
 
-| AI literacy application | Wiki connection |
-|---|---|
-| Understanding how tutoring AI works | [[tutoring-specific-vs-general-ai]] — students should know whether they're interacting with a general LLM or pedagogically optimized system |
-| Evaluating AI feedback quality | [[ai-peer-feedback-systems]], [[formative-assessment]] — literacy to assess whether AI-generated feedback is useful |
-| Prompt engineering as constructive activity | [[pedagogical-llm-training]] — reverse-engineering effective tutoring behavior |
-| AI ethics and policy co-construction | [[faculty-development]], [[authentic-assessment]] — institutional literacy for governance |
+### How AI literacy is developed
 
-## Multimodal AI Literacy Levels (Varga-Atkins et al., 2025)
+Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. The ICAP framework (Passive → Active → Constructive → Interactive) provides a useful progression: students learn AI literacy best when they co-construct knowledge rather than passively receive information. Practical activities — designing prompts, evaluating outputs in groups, debating AI ethics — outperform lectures.
 
-The Educators' Guide distinguishes three operational levels of multimodal GenAI literacy:
+### Connections across the wiki
 
-| Level | Capabilities | Example Activities |
-|-------|-------------|-------------------|
-| **Basic** | Awareness of multimodal GenAI platforms, capabilities, and appropriate uses | Creating prompts; generating visual outputs; understanding platform limitations |
-| **Intermediate** | Co-create multimodal content; critically evaluate outputs; scaffold uses for peers | Transforming lecture notes into visuals or podcasts; annotating AI-generated essays or images for bias |
-| **Advanced** | Design activities/assessments incorporating multimodal GenAI; lead ethical/philosophical discussions | Redesigning a module to include GenAI co-creation; institutional policy drafting; graduate attribute alignment |
-
-These levels operate across **four scales**:
-- **Individual** (student workshops, reflective assignments)
-- **Module** (embedded learning outcomes, optional tasks with rubrics)
-- **Programme** (cross-module policies, consistent guidance, alignment with graduate attributes)
-- **Institutional** (clear policies, vetted tools, data privacy protocols)
-
-This framework complements the ICAP engagement hierarchy by adding **institutional scaling** and **multimodal specificity**. Where ICAP asks *how deeply* students engage, the multimodal literacy framework asks *at what level* and *at what scale*.
-
-## Implications for Curriculum Design
-
-1. **Start passive, move to interactive** — Begin with conceptual foundations, progress to co-construction
-2. **Use AI agents as collaborative partners** — Not just tools to learn *about*, but teammates to learn *with*
-3. **Embed assessment in co-construction** — AI literacy assessment can itself be an interactive activity (e.g., group policy debates)
-4. **Foster critical evaluation** — Students must be able to detect [[ai-tutor-safety-harms|pedagogical harms]], bias, and misinformation in AI outputs
-
-## Open Questions
-
-1. Does AI literacy transfer across domains (e.g., from chatbot evaluation to algorithmic bias detection)?
-2. How does AI literacy interact with [[self-regulated-learning|SRL]] — does knowing how AI works change self-regulation strategies?
-3. Can [[affective-tutoring|affective AI]] support or undermine AI literacy development?
+AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutors are effective), [[teacher-ai-competency]] (educator preparedness), [[academic-integrity]] (knowing what constitutes appropriate AI use), and [[ai-education]] broadly. It is both a prerequisite for effective AI use and an outcome of well-designed AI integration — students learn AI literacy BY using AI critically, not just by learning ABOUT AI.
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy-assessment-misalignment]]
+- [[critical-thinking]]
+- [[trust-calibration]]
+- [[prompting-literacy]]
+- [[over-reliance]]
+- [[academic-integrity]]
 - [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
+- [[teacher-ai-competency]]
+- [[faculty-development]]
+- [[scaffolding]]
+- [[active-learning]]
+- [[collaborative-learning]]
+- [[equity]]
+- [[privacy]]
+- [[generative-ai]]
+- [[ai-education]]
 
 ## Connected Articles
 
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
-- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
-- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
-- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
-- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
-- [[authentic-assessment]] — Authentic Assessment
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
-- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
-- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
-- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
-- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
-- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
-- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
-- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
-- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[generative-ai-education-productivity-gaps]]
-- [[institutional-governance-ai-universities]]
-- [[skill-diversity-worker-resilience]]
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Framework for Faculty Readiness
+- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
+- [[genai-usage-design-students-survey]] — A Study of GenAI Usage by Design Students
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World
+- [[raza-farooq-aied-review-2020-2025]] — Review of AI in Education 2020-2025
+- [[liang-genai-systematic-review-human-ai-2026]] — Systematic Review of GenAI in Education
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers
+- [[gaide-vibe-coding-k12-teachers]] — Vibe Coding Framework for K-12 Teachers
+- [[ai-ethics-education-public-discourse]] — AI Ethics in Education Public Discourse
+- [[institutional-change-framework-ai]] — Framework for Institutional Change in the Age of AI
+- [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform

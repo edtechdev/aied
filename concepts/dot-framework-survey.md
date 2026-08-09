@@ -20,7 +20,7 @@ Exploratory factor analysis of 19 Likert-scale items yielded a three-factor stru
 This factor structure provides a psychometric anchor for understanding how educators conceptualize AI's role — not as a monolithic "good or bad" judgment but as differentiated beliefs spanning capability, governance, and collaborative practice.
 
 ### Practice vs. Theory Gap
-Practitioners reported frequent use of **iterative prompting** and **content generation**, but far less engagement with **needs assessment** and **feedback loops** — the front and back ends of a full design cycle. This gap between design-oriented theory and current implementation is the study's central diagnostic finding. It echoes broader patterns in [[ai-literacy-in-higher-education]] where educators adopt AI for productivity but not yet for systematic instructional redesign.
+Practitioners reported frequent use of **iterative prompting** and **content generation**, but far less engagement with **needs assessment** and **feedback loops** — the front and back ends of a full design cycle. This gap between design-oriented theory and current implementation is the study's central diagnostic finding. It echoes broader patterns in [[ai-literacy]] where educators adopt AI for productivity but not yet for systematic instructional redesign.
 
 ### AI as "Fallible Intern"
 The study operationalizes AI as a **co-intelligent collaborator** following four tenets: (1) AI is fallible — always review, (2) AI supports not replaces higher-order thinking, (3) instructors should actively experiment, (4) instructor maintains agency. This framing aligns with [[ai-co-intelligence]] and [[human-ai-collaboration]] paradigms where the human remains the epistemic authority.
@@ -56,7 +56,7 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 - [[ai-ed-implementation]]
 - [[ai-governance-education]]
 - [[ai-literacy]]
-- [[ai-literacy-in-higher-education]]
+- [[ai-literacy]]
 - [[ai-tutoring]]
 - [[andragogy]]
 
