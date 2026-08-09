@@ -22,14 +22,6 @@ EDM analysis of 2.4M+ AI agents engaging in peer-learning-like discourse. 28,683
 
 EDM analysis of 2.4M+ AI agents engaging in peer-learning-like discourse. 28,683 posts. Response taxonomy: validation (22%), knowledge extension (18%), application (12%), metacognitive (7%). Statement:question ratio 11.4:1. Six design hypotheses for educational AI.
 
-## Connections
-
-- [[collaborative-ai-tutoring]]
-- [[learning-analytics]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[ai-learning-companions-framework]]
-
 ## Source
 
 - https://arxiv.org/abs/2602.14477

@@ -15,10 +15,6 @@ As Generative AI coding tools reshape professional software development, univers
 
 analyses 23 publicly available syllabi from upper-division, credit-bearing university courses that teach AI-assisted software development. The study identifies common curricular themes — prompt engineering, code review with AI, AI-augmented testing, ethical considerations — and maps how different institutions are defining this emerging subject area. Key findings include: a strong emphasis on critical evaluation of AI-generated code over pure generation speed, widespread integration of human-AI collaboration workflows, and substantial variation in how ethics and professional responsibility are addressed. The authors derive design guidance for future AI-assisted SE curricula, emphasising the need to balance tool fluency with foundational software engineering knowledge.
 
-## Connections
-
-This work connects to: [[ai-education]][[cs-education]][[curriculum-design]][[generative-ai]][[instructional-design]][[software-engineering]]
-
 ## Connected Concepts
 
 - [[ai-education]]

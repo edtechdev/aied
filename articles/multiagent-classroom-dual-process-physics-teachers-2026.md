@@ -19,10 +19,6 @@ Responding productively to authentic student reasoning is among the most difficu
 - Seven of thirteen POST sheets used DPT vocabulary readily — revealing a knowing-doing gap
 - The simulation makes the developmental trajectory toward responsive teaching visible at transcript-level granularity
 
-## Connections
-
-This work connects to: [[multi-agent]][[physics-education]][[teacher-training]][[simulation]][[stem-education]][[higher-ed]][[dual-process-theory]]
-
 ## Connected Concepts
 
 - [[higher-ed]]

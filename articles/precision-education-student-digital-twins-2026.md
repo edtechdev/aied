@@ -15,10 +15,6 @@ Higher education remains largely reactive in its approach to student success. In
 
 proposes a precision education framework that adapts precision medicine's predictive, preventive approach to higher education. It envisions AI-powered student digital twins — computational models that integrate academic, behavioural, and career trajectory data to forecast risk, personalise interventions, and align course pathways with employment outcomes. The paper argues that traditional reactive models (responding after students fail or drop out) can be replaced with continuous risk stratification, early-warning nudges, and dynamic pathway optimisation. Key architectural components include federated data integration across institutional silos, explainable AI for advisor trust, and longitudinal models that evolve with the student.
 
-## Connections
-
-This work connects to: [[student-modeling]][[adaptive-learning]][[personalized-learning]][[learning-analytics]][[higher-ed]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

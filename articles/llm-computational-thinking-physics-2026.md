@@ -18,10 +18,6 @@ As computation becomes more central to physics education, scalable methods to as
 - The approach scales CT assessment to large-enrollment physics courses where manual coding is infeasible
 - Submitted to Physics Education Research Conference (PERC) 2026
 
-## Connections
-
-This work connects to: [[llm]][[computational-thinking]][[physics-education]][[stem-education]][[assessment]][[higher-ed]][[automated-grading]]
-
 ## Connected Concepts
 
 - [[automated-grading]]

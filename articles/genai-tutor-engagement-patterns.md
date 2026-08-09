@@ -22,14 +22,6 @@ Large-scale analysis (N=11,406, 200 classes, 10 institutions) of GenAI tutor eng
 
 Large-scale analysis (N=11,406, 200 classes, 10 institutions) of GenAI tutor engagement. Four engagement types; 10.4% shallow with copy-paste. Students at selective institutions more likely to engage deeply.
 
-## Connections
-
-- [[intelligent-tutoring]]
-- [[student-experience]]
-- [[learning-analytics]]
-- [[ai-tutor-effectiveness-review]]
-- [[ai-tutor-behavioral-evaluation]]
-
 ## Source
 
 - https://arxiv.org/abs/2602.00447

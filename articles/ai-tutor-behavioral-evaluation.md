@@ -23,12 +23,6 @@ A framework for evaluating AI tutoring systems that extends beyond pedagogical q
 ## Significance for AI in Education
 This work addresses a critical evaluation gap. An AI tutor that gives perfect pedagogical feedback is worthless if students ignore it or apply it incorrectly. The behavioral axis complements pedagogical assessment to provide a complete picture of real-world effectiveness. This has direct implications for [[ai-tutor-effectiveness-review]] and challenges the assumptions in [[tutoring-specific-vs-general-ai]] about what makes tutoring effective.
 
-## Connections
-- Complements pedagogical evaluation frameworks in [[ai-tutor-effectiveness-review]] by adding behavioral measurement
-- Extends [[knowledge-tracing-irt]] by providing another lens on student-tutor interaction patterns
-- Relevant to [[collaborative-ai-tutoring]] where student engagement with proactive interventions must be measured
-- Connects to [[automatic-short-answer-grading]]: both address evaluation methodology gaps in AIEd
-
 ## Open Questions
 - Can behavioral evaluation be automated at scale across different tutoring domains?
 - How do behavioral metrics correlate with long-term learning outcomes vs. short-term perception?

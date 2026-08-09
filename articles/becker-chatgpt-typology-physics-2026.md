@@ -23,10 +23,6 @@ This study develops a data-driven typology of physics students' ChatGPT use thro
 - Both groups make calculated trade-offs; neither is uncritical
 - Calls for differentiated pedagogy respecting both profiles
 
-## Connections
-
-This work connects to: [[physics-education]][[student-experience]][[ai-literacy]][[higher-ed]][[stem-education]][[trust-calibration]]
-
 ## Connected Concepts
 
 - [[ai-literacy]]
