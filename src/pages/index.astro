@@ -95,28 +95,26 @@ export const GET = () => {
     <h2>🏷️ Recently Updated Concepts <span style="font-size:0.8rem;color:var(--muted-color);font-weight:normal;">({concepts.length} total)</span></h2>
     <div>
       {conceptsSorted.map(c => {
-        const excerpt = (c.body || '')
-          .split('\n')
-          .filter(l => l.trim() && !l.startsWith('#') && !l.startsWith('>') && !l.startsWith('|'))
-          .slice(0, 2).join(' ').slice(0, 180);
-        return (
-          <div class="page-item">
-            <a href={`/aied/concepts/${c.id.replace('.md', '')}`} style="font-weight:500;">
-              {c.data.title}
-            </a>
-            {excerpt && (
-              <div style="font-size:0.8rem;color:var(--muted-color);margin-top:0.15rem;line-height:1.4;">
-                {excerpt}{excerpt.length >= 180 ? '...' : ''}
-              </div>
-            )}
-            <div style="font-size:0.75rem;color:var(--muted-color);">
-              {c.data.updated || c.data.created} · {(c.data.tags || []).slice(0, 4).map((t: string) => (
-                <a href={`/aied/tags/${t}`} class="tag-chip" style="font-size:0.65rem;padding:0.02rem 0.3rem;">{t}</a>
-              ))}
-            </div>
-          </div>
-        );
-      })}
+              const excerpt = (c.body || '')
+                .replace(/\[\[([^\]]+)\]\]/g, '')
+                .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+                .replace(/\^\[\[[^\]]+\]\]/g, '')
+                .split('\n')
+                .filter(l => l.trim() && !l.startsWith('#') && !l.startsWith('>') && !l.startsWith('|') && !l.trim().startsWith('- ') && !l.trim().startsWith('* '))
+                .slice(0, 2).join(' ').slice(0, 200).trim();
+              return (
+                <div class="page-item">
+                  <a href={`/aied/concepts/${c.id.replace('.md', '')}`} style="font-weight:500;">
+                    {c.data.title}
+                  </a>
+                  {excerpt && (
+                    <div style="font-size:0.8rem;color:var(--muted-color);margin-top:0.15rem;line-height:1.4;">
+                      {excerpt}{excerpt.length >= 200 ? '...' : ''}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
     </div>
   </section>
 
