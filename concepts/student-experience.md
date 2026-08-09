@@ -6,51 +6,37 @@ type: concept
 tags: [student-experience, k-12, higher-ed, generative-ai, llm, ai-literacy, stem-education, scaffolding, intelligent-tutoring, teacher-role]
 confidence: medium
 ---
+> **Student Experience with AI** is a foundational concept in AI in education research, appearing across 161 articles in this wiki. 
 
-> Stub — pending source ingestion. Student experience, attitudes, and outcomes with AI in learning environments.
+### How Student Experience with AI appears in the research
+- **[[prompt-problems-nl-programming-mistakes]]:** Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026)** — arXiv:2607.
+- **[[gender-differences-ai-literacy-deepfake]]:** Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026)** — arXiv preprint
+Examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian sec.
+- **[[teacher-student-agency-orchestration]]:** Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026)** — Carnegie Mellon University; University of Washington; Ruhr-Universität Bochum.
+- **[[epistemic-proactivity-math]]:** Abdelghani, Kaiser & Murayama (2026)** — cs.
+- **[[ai-generated-slides-student-perception]]:** Juho Leinonen, Lisa Zhang, Arto Hellas (2026)** — WCCCE 2026.
+- **[[hypergamification-game-engine-lms]]:** Araz Yusubov, Michael Bechtel, Tangiz Alizada** — arXiv preprint (2026).
 
 ## Connected Concepts
-
+- [[academic-integrity]]
+- [[active-learning]]
 - [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-assessment]]
+- [[collaborative-learning]]
+- [[cs-education]]
+- [[edtech-platform]]
+- [[engagement-metrics]]
+- [[equity]]
+- [[faculty-development]]
+- [[generative-ai]]
+- [[higher-ed]]
 
 ## Connected Articles
-
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
-- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
-- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
-- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
-- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
-- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
-- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
-- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
-- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
-- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
-- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
-- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...
+- [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy Workshop Outcomes and D...
+- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Cr...
+- [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration To...
+- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Traject...
+- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
+- [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Le...
+- [[commenting-copilot-student-code-specs]] — Commenting with Copilot: A Taxonomy and Multi-Year Analys...
