@@ -2,14 +2,11 @@
 title: "Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study"
 created: 2026-05-27
 updated: 2026-05-27
-type: concept
+type: article
 tags: [llm, generative-ai, higher-ed, agentic-ai, faculty-development, learning-analytics, student-experience, intelligent-tutoring, ai-literacy, scaffolding]
 confidence: high
----
-
-**Anas H. Alzahrani (2026)** — arXiv preprint.
-
-## Overview
+sources: []
+---## Overview
 
 This is the first empirical study of what happens when AI agents are embedded **persistently** in a real academic research environment — with durable memory, local files, external tools, scheduled routines, delegated roles, and explicit safety protocols. Over 96 active days (January 31 to May 25, 2026), the researcher-agent ecosystem generated 75,671 de-duplicated telemetry records, 23,710 assistant messages, and 73.95 million tokens (82.9% cache reads). The study introduces **PARE-M** (Persistent Agentic Research Environment Measurement), a framework covering architecture, utilization, artifact production, resource use, reproducibility, and governance.
 
@@ -74,3 +71,7 @@ PARE-M provides six measurement dimensions that could be adapted for [[learning-
 - [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+
+## Citation
+
+Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
