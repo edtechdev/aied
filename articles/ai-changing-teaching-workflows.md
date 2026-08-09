@@ -44,7 +44,7 @@ A large-scale experiment across **178 schools, ~19,000 high school seniors** tes
 - Students in AI classrooms had **~35% more one-on-one conversations** with teachers about writing and wrote **30% more essays**
 - Teacher at-home work hours dropped **20%**; those reporting time as "very insufficient" fell from 23% to 9%
 
-**The most important finding:** The largest learning gains were on the most complex, highest-order writing task — precisely what AI is *least* equipped to evaluate. AI freed teachers to do what only they can do. This directly supports the [[feedback-loop]] and [[formative-assessment]] literature, extending it with causal evidence from a large-scale [[RCT]].
+**The most important finding:** The largest learning gains were on the most complex, highest-order writing task — precisely what AI is *least* equipped to evaluate. AI freed teachers to do what only they can do. This directly supports the [[feedback-loop]] and [[formative-assessment]] literature, extending it with causal evidence from a large-scale [[rct]].
 
 **Caveat:** The bottom quartile showed no improvement — freed-up teacher time alone wasn't sufficient. This connects to [[equity]] concerns about differential benefits from AI integration.
 

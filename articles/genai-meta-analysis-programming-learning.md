@@ -22,7 +22,7 @@ The meta-analysis examines the **productivity-learning trade-off** that sits at 
 
 ## Significance for AIED
 
-This paper provides the **highest-level evidence synthesis** currently available on the impact of generative AI in programming education. It bridges [[RCT]]-level findings with practical implications for:
+This paper provides the **highest-level evidence synthesis** currently available on the impact of generative AI in programming education. It bridges [[rct]]-level findings with practical implications for:
 
 - **Curriculum design:** When should AI tools be introduced in programming courses?
 - **Assessment:** How do we [[assessment-validity|validly assess]] programming skill when AI is available?

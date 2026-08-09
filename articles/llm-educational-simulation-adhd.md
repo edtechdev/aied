@@ -34,7 +34,7 @@ The simulation methodology also raises questions about [[ai-tutor-safety-harms]]
 
 - How do LLM-simulated ADHD profiles compare to [[multimodal-ai-tutoring]] systems that work with real neurodivergent students?
 - Can temporal stability be improved through prompt engineering or fine-tuning?
-- What is the ethical boundary for using simulated students in [[RCT]] designs?
+- What is the ethical boundary for using simulated students in [[rct]] designs?
 
 ## Connected Concepts
 

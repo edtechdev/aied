@@ -7,7 +7,7 @@ tags: []
 confidence: medium
 ---
 
-> **AI literacy in higher education** — the competencies students and staff need to use AI critically — is mapped by [[ai-literacy-continuum-higher-education]], [[five-stage-ai-literacy-continuum]] (merged), [[constructing-epistemic-ai-literacy-student-ai-co-programming]], and [[ai-literacy-assessment-misalignment]], which show literacy must be assessed through task-based performance, not self-report ([[assessment-validity]]).
+> **AI literacy in higher education** — the competencies students and staff need to use AI critically — is mapped by [[ai-literacy-continuum-higher-education]], five-stage-ai-literacy-continuum (merged), [[constructing-epistemic-ai-literacy-student-ai-co-programming]], and [[ai-literacy-assessment-misalignment]], which show literacy must be assessed through task-based performance, not self-report ([[assessment-validity]]).
 
 ## Connected Concepts
 

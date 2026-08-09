@@ -7,7 +7,7 @@ tags: [k-12, llm, intelligent-tutoring, human-in-the-loop, ai-literacy, adaptive
 confidence: medium
 ---
 
-> **Pedagogical safety** — ensuring AI tutors cannot mislead or harm learners — is studied in [[hazra-safetutors-pedagogical-safety-2026]], [[eduguard-safe-rag-llm-tutor]], [[petechat-guardrailed-ai-tutor]], and [[vetting-dual-llm-safety-education]]: safety requires layered guardrails, evaluation, and human oversight ([[ethics]], [[human-in-the-loop-ai]]).
+> **Pedagogical safety** — ensuring AI tutors cannot mislead or harm learners — is studied in [[hazra-safetutors-pedagogical-safety-2026]], [[eduguard-safe-rag-llm-tutor]], petechat-guardrailed-ai-tutor, and [[vetting-dual-llm-safety-education]]: safety requires layered guardrails, evaluation, and human oversight ([[ethics]], [[human-in-the-loop-ai]]).
 
 ## Connected Concepts
 
