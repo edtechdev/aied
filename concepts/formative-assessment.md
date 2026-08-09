@@ -60,6 +60,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[ai-literacy]]
 - [[ai-tutoring]]
 - [[andragogy]]
+- [[assessment-validity]]
 
 ## Connected Articles
 

@@ -28,6 +28,7 @@ confidence: medium
 - [[cs-education]]
 - [[edtech-platform]]
 - [[feedback-loop]]
+- [[faculty-development]]
 
 ## Connected Articles
 - [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven ...

@@ -30,6 +30,7 @@ Evaluates cross-dataset generalization of ML/DL methods and LLMs for automatic B
 - [[formative-assessment]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[teacher-ai-competency]]
 
 ## Connected Articles
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised M...

@@ -23,6 +23,7 @@ confidence: low
 - [[k-12-ai-education]]
 - [[learning-analytics]]
 - [[llm]]
+- [[active-learning]]
 
 ## Connected Articles
 - [[epistemic-emotions-collaborative-problem-solving]]

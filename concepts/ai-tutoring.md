@@ -28,6 +28,7 @@ AI tutoring encompasses the use of artificial intelligence — particularly larg
 - [[assessment-validity]]
 - [[automated-grading]]
 - [[automated-question-generation]]
+- [[intelligent-tutoring]]
 
 ## Connected Articles
 
