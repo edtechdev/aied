@@ -10,8 +10,6 @@ confidence: high
 
 > **Michael Henderson, Margaret Bearman, Jennifer Chung, Tim Fawns, Simon Buckingham Shum, Kelly E. Matthews & Jimena de Mello Heredia (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 863–878. doi:10.1080/02602938.2025.2502582.
 
-**Michael Henderson, Margaret Bearman, Jennifer Chung, Tim Fawns, Simon Buckingham Shum, Kelly E. Matthews & Jimena de Mello Heredia (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 863–878. doi:10.1080/02602938.2025.2502582.
-
 ## Summary
 
 The largest study in the AEHE 51(5) special issue: a **cross-sectional survey across four Australian universities** (≈192,000 invited; 10,132 volunteered; this paper analyses **6,960 students** who answered the feedback items). It combines quantitative comparison of perceived helpfulness/trustworthiness of GenAI vs teacher feedback with **thematic analysis of 8,642 open-ended responses** (11,903 coded instances, 48 codes). Core conclusion: **GenAI and teacher feedback serve different needs — complementary but not interchangeable**.^[raw/papers/tandf-2026-genai-teacher-feedback-comparison.md]

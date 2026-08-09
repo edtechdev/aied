@@ -10,8 +10,6 @@ confidence: high
 
 > **Mihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026)** — Aalto University, University of Pittsburgh, UC San Diego. arXiv preprint.
 
-**Mihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026)** — Aalto University, University of Pittsburgh, UC San Diego. arXiv preprint.
-
 ## Key Finding
 LLM-generated feedback produces faster time-to-solution than compiler-only baseline; counterintuitively, less guided feedback showed stronger effects than more guided variants.
 

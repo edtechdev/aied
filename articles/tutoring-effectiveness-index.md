@@ -12,8 +12,6 @@ confidence: high
 
 # The Tutoring Effectiveness Index (TEI)
 
-**Authors:** Shim Jaechang, Unggi Lee (2026) — CIKM 2026
-
 ## What It Is
 
 TEI is a **training-free, judge-free index** that selects the best tutoring response from multiple LLM candidate outputs using only four internal conversation signals — no RL training, no external judge model, no reward model required.

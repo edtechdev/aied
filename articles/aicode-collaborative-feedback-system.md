@@ -12,8 +12,6 @@ confidence: medium
 
 # AICoFe: AI-Based Collaborative Feedback System for Higher Education
 
-**Alvaro Becerra, Alejandra Palma, Ruth Cobos (2026)** — LASI Spain 2026.
-
 ## System Architecture
 
 AICoFe orchestrates a multi-LLM pipeline using GPT-4.1-mini, Gemini 2.5 Flash, and Llama 3.1 to synthesize quantitative rubric data and qualitative observations into actionable feedback for higher education students. The key innovation is a **teacher-in-the-loop mediation workflow**: educators use specialized Learning Analytics dashboards to curate and refine AI-generated feedback drafts before delivery.

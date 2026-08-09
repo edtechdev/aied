@@ -7,8 +7,6 @@ tags: [higher-ed, assessment, academic-integrity, generative-ai, teacher-role, p
 sources: ['raw/papers/2606.26729.md']
 confidence: high
 ---
-
-**Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026)** — arXiv cs.HC
 📄 [PDF](https://arxiv.org/pdf/2606.26729)
 
 This study examines the implementation of the Artificial Intelligence Assessment Scale (AIAS), a structured framework for redesigning [[assessment|university assessment]] in response to [[generative-ai|generative AI]]. Surveying 80 academic staff, the researchers found that while the framework's transparency and guidance were valued, implementation was hampered by departmental inconsistencies, workload pressures, and uncertainty about appropriate AI use levels.

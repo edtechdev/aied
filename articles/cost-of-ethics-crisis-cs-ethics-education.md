@@ -12,8 +12,6 @@ confidence: high
 
 # Cost-of-Ethics Crisis in CS Education
 
-**Mohamed Abdalla, Sahar Abdalla, Alicia Cappello et al. (2026)** — Study of 129 CS students/recent grads in Canada and US.
-
 ## Key Findings
 
 This study examines the disconnect between **ethics education** and real-world decision-making among 129 computer science students and recent graduates during their job searches. Despite receiving contemporary CS ethics education, most students prioritize compensation, location, and workplace culture over ethical and social concerns when choosing employers.

@@ -12,8 +12,6 @@ confidence: high
 
 # The Illusion of Competence: Digital Literacy & AI Readiness
 
-**Rodriguez-Alvarez et al. (2026)** — IES Parquesol, Moate Community School, IES Jose Jimenez Lozano, Universidad de Valladolid.
-
 This multicenter study (N=243 European secondary students) systematically challenges the 'Digital Native' paradigm by demonstrating a severe confidence-competence gap in digital and AI literacy. Students report near-maximum self-efficacy in passive digital consumption (browsing, social media) but exhibit a sharp decline when evaluated on active technological creation and algorithmic logic — a collective Dunning-Kruger effect.
 
 ## The AI Paradox

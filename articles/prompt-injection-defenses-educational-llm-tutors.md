@@ -11,7 +11,6 @@ confidence: medium
 > Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs **Maiorano (2026)** — arXiv cs.CR/cs.AI.
 
 Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs
-**Maiorano (2026)** — arXiv cs.CR/cs.AI.
 
 ## Summary
 
