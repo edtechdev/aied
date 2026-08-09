@@ -14,26 +14,87 @@ const { title, tags, confidence, created } = concept.data;
 const body = concept.body || '';
 const slug = concept.id.replace('.md', '');
 
-// Simple wikilink renderer
-function renderWikilinks(text: string): string {
-  return text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, p, l) => {
-    const page = p.replace('.md', '');
-    const label = l || page.replace(/-/g, ' ');
-    return `<a href="/aied/pages/${page}">${label}</a>`;
-  }).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+function renderMarkdown(text: string): string {
+  let html = '';
+  let inBlockquote = false;
+  let inList = false;
+  
+  for (const line of text.split('\n')) {
+    const trimmed = line.trim();
+    
+    // Blockquote
+    if (trimmed.startsWith('> ')) {
+      if (!inBlockquote) { html += '<blockquote class="blockquote">'; inBlockquote = true; }
+      html += `<p>${renderInline(trimmed.slice(2))}</p>`;
+      continue;
+    }
+    if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
+    
+    // Headers
+    if (trimmed.startsWith('### ')) { html += `<h3>${renderInline(trimmed.slice(4))}</h3>`; continue; }
+    if (trimmed.startsWith('## ')) { html += `<h2>${renderInline(trimmed.slice(3))}</h2>`; continue; }
+    if (trimmed.startsWith('# ')) { html += `<h1>${renderInline(trimmed.slice(2))}</h1>`; continue; }
+    
+    // Table rows
+    if (trimmed.startsWith('|') && trimmed.endsWith('|')) {
+      const cells = trimmed.split('|').slice(1, -1).map(c => c.trim());
+      const isHeader = cells.every(c => /^-{3,}$/.test(c.trim()) || c.startsWith('---'));
+      if (isHeader) continue;
+      html += '<tr>' + cells.map(c => {
+        const tag = inList ? 'td' : 'td';
+        return `<${tag}>${renderInline(c)}</${tag}>`;
+      }).join('') + '</tr>';
+      if (!inList) { html = html.slice(0, -5) + '</table>'; html = html.replace(/\/tr>$/, ''); html += '<tr>'; inList = true; }
+      continue;
+    }
+    
+    // List items
+    if (/^[-*]\s/.test(trimmed)) {
+      if (!inList) { html += '<ul>'; }
+      html += `<li>${renderInline(trimmed.slice(2))}</li>`;
+      inList = true;
+      continue;
+    }
+    if (inList) { html += '</ul>'; inList = false; }
+    if (trimmed.startsWith('<tr>')) continue;
+    
+    // Horizontal rule
+    if (/^[-*]{3,}$/.test(trimmed)) { html += '<hr>'; continue; }
+    
+    // Empty line → paragraph break
+    if (!trimmed) { if (!inBlockquote && !inList) html += ''; continue; }
+    
+    // Regular paragraph
+    html += `<p>${renderInline(trimmed)}</p>`;
+  }
+  
+  if (inBlockquote) html += '</blockquote>';
+  if (inList) html += '</ul>';
+  
+  return html;
+}
+
+function renderInline(text: string): string {
+  return text
+    // Wikilinks [[page]] or [[page|label]]
+    .replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, p, l) => {
+      const page = p.replace('.md', '').trim();
+      const label = l || page.replace(/-/g, ' ');
+      return `<a href="/aied/pages/${page}">${label}</a>`;
+    })
+    // Bold
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    // Italic
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    // Inline code
+    .replace(/`([^`]+)`/g, '<code>$1</code>')
+    // Markdown links [text](url)
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
-    .replace(/\n\n/g, '</p><p>')
-    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
-    .replace(/^# (.+)$/gm, '<h1>$1</h1>')
-    .replace(/^- (.+)$/gm, '<li>$1</li>');
+    // DOI links
+    .replace(/doi:(\S+)/g, '<a href="https://doi.org/$1">doi:$1</a>');
 }
 
 const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○';
-
-// Split body into sections
-const parts = body.split(/^## /m);
-const mainContent = parts.length > 0 ? parts[0] : '';
-const sections = parts.slice(1);
 ---
 
 <BaseLayout title={title}>
@@ -49,18 +110,7 @@ const sections = parts.slice(1);
     </div>
 
     <div style="line-height:1.8">
-      <Fragment set:html={`<p>${renderWikilinks(mainContent)}</p>`} />
-      {sections.map(sec => {
-        const lines = sec.split('\n');
-        const header = lines[0].trim();
-        const secBody = lines.slice(1).join('\n');
-        return (
-          <div>
-            <h2>{header}</h2>
-            <Fragment set:html={`<p>${renderWikilinks(secBody)}</p>`} />
-          </div>
-        );
-      })}
+      <Fragment set:html={renderMarkdown(body)} />
     </div>
   </article>
 </BaseLayout>
