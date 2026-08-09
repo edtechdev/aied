@@ -60,7 +60,7 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[pedagogical-llm-training]]
 
 - [[bias-mitigation]]

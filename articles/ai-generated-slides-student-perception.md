@@ -24,7 +24,7 @@ The finding that coding assistants outperform dedicated education tools and gene
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[higher-ed]]
 - [[scaffolding]]
 - [[slidesqaqa-pedagogical-question-generation]]

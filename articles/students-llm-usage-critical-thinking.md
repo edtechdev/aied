@@ -24,12 +24,12 @@ This study extends prior work on student LLM use by analyzing data from **two of
 
 3. The **student initiative** dimension is particularly valuable for understanding [[ai-literacy]] development — it maps onto the distinction between using AI as a crutch vs. as a cognitive tool, directly relevant to [[scaffolding]] design.
 
-This work complements [[genai-tutor-engagement-patterns]] by shifting focus from tutoring to student-initiated LLM use in authentic academic tasks. The EDM 2026 acceptance places it within the [[learning-analytics]] community's growing interest in modeling AI-augmented learning behaviors. Findings also inform [[faculty-development-genai]] strategies for guiding student AI use.
+This work complements [[genai-tutor-engagement-patterns]] by shifting focus from tutoring to student-initiated LLM use in authentic academic tasks. The EDM 2026 acceptance places it within the [[learning-analytics]] community's growing interest in modeling AI-augmented learning behaviors. Findings also inform [[faculty-development]] strategies for guiding student AI use.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[learning-analytics]]
 - [[scaffolding]]
 

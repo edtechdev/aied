@@ -24,7 +24,7 @@ confidence: medium
 - [[automated-question-generation]]
 - [[computational-thinking]]
 - [[conversational-agents]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[formative-assessment]]
 
 ## Connected Articles

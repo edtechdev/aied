@@ -105,7 +105,7 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 
 - [[agentic-ai-ecosystems-higher-education]]
 - [[ai-literacy]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[metacognition]]

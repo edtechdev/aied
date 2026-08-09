@@ -46,7 +46,7 @@ Java interventions showed more consistent gains; Python — despite dominance in
 
 This review is valuable because it shifts the conversation from "do LLMs work?" to "**what design choices make LLMs effective?**" The evidence strongly supports [[scaffolding]]-based approaches over simple tool access, reinforcing findings across the [[genai-meta-analysis-programming-learning]] literature. The "tool frustration" paradox is an important contribution — it suggests that poorly designed [[generative-ai]] integration can be worse than no integration at all.
 
-For [[higher-ed]] contexts, the review provides actionable guidance: semester-long Virtual Tutor designs with structured feedback outperform short-term coding-assistant interventions. This aligns with [[code-review-genai-cs1]] work on structured feedback and the broader [[computing-education]] push toward [[computational-thinking]] over syntax mastery.
+For [[higher-ed]] contexts, the review provides actionable guidance: semester-long Virtual Tutor designs with structured feedback outperform short-term coding-assistant interventions. This aligns with [[code-review-genai-cs1]] work on structured feedback and the broader [[cs-education]] push toward [[computational-thinking]] over syntax mastery.
 
 ## Connected Concepts
 

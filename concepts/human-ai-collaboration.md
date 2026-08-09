@@ -7,7 +7,7 @@ tags: []
 confidence: medium
 ---
 
-> **Human-AI collaboration** — the division of cognitive labor between people and models — is the wiki's core interaction theme: [[human-ai-collaboration-trust-expectations]], [[humanlike-ai-collaborative-writing]], [[genai-mindtool-generative-learning]], and [[teacher-student-agency-orchestration]] examine trust, agency, and complementary roles ([[human-in-the-loop]], [[agentic-ai]]).
+> **Human-AI collaboration** — the division of cognitive labor between people and models — is the wiki's core interaction theme: [[human-ai-collaboration-trust-expectations]], [[humanlike-ai-collaborative-writing]], [[genai-mindtool-generative-learning]], and [[teacher-student-agency-orchestration]] examine trust, agency, and complementary roles ([[human-in-the-loop-ai]], [[agentic-ai]]).
 
 ## Connected Concepts
 

@@ -20,7 +20,7 @@ Proposes an evaluation framework for child-specific harms in generative AI; appl
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[llm-in-education]], [[intelligent-tutoring-systems]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[llm-in-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
 

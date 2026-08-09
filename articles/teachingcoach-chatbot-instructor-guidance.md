@@ -28,7 +28,7 @@ Pedagogically grounded chatbot for instructor PD. Data-centric pipeline extracts
 
 ## Connected Concepts
 
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[higher-ed]]
 - [[scaffolding]]
 - [[teacher-ai-competency]]

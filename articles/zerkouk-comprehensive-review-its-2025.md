@@ -14,7 +14,7 @@ confidence: medium
 
 ## Key Findings
 
-This review provides the most comprehensive mapping of the [[intelligent-tutoring-systems]] field since the emergence of LLM-based tutoring approaches transformed the landscape. Spanning a 15-year window (2010–2025), it captures both the pre-LLM era of traditional ITS and the post-LLM era that has fundamentally reshaped what is technically possible.
+This review provides the most comprehensive mapping of the [[intelligent-tutoring]] field since the emergence of LLM-based tutoring approaches transformed the landscape. Spanning a 15-year window (2010–2025), it captures both the pre-LLM era of traditional ITS and the post-LLM era that has fundamentally reshaped what is technically possible.
 
 **Mixed effectiveness evidence.** The review's central finding is that ITS effectiveness is neither uniformly positive nor categorically negative. Some systems demonstrate substantial [[learning-gains]], particularly in well-structured domains like mathematics and programming where [[student-modeling]] and [[knowledge-tracing]] techniques are most mature. Other deployments show negligible or context-dependent effects. This mixed picture challenges both the optimistic narrative that AI tutoring is a proven solution and the pessimistic narrative that it is ineffective. Instead, it calls for more nuanced questions: *which* systems, for *which* learners, in *which* contexts, produce *which* outcomes? This aligns with the [[ai-tutor-effectiveness-review]] literature's emphasis on contextual factors.
 

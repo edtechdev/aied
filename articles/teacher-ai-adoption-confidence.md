@@ -18,12 +18,12 @@ A study of 260 Filipino teachers examined how institutional support, teacher con
 
 ## Practical Implications
 
-This paper provides empirical clarity for [[teacher-role]] policy: institutional support matters, but it only helps if it builds teacher confidence. Simply providing tools or mandates without confidence-building will not shift attitudes. The finding that concerns did not moderate the relationships suggests that addressing concerns directly may be less effective than building confidence through support, aligning with [[faculty-development-genai]] on the importance of hands-on experience.
+This paper provides empirical clarity for [[teacher-role]] policy: institutional support matters, but it only helps if it builds teacher confidence. Simply providing tools or mandates without confidence-building will not shift attitudes. The finding that concerns did not moderate the relationships suggests that addressing concerns directly may be less effective than building confidence through support, aligning with [[faculty-development]] on the importance of hands-on experience.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[faculty-development-genai]]
+- [[faculty-development]]
 - [[k-12-ai-education]]
 - [[teacher-ai-competency]]
 - [[teacher-role]]

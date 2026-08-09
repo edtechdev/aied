@@ -62,7 +62,7 @@ Nearly half of educator-AI conversations involved assessment tasks, but some tea
 
 ## What's Next: Agentic AI
 
-The shift from single-prompt chatbots to agentic AI systems represents the next evolution. A multi-agent scoring system — separate agents for content, grammar, and coherence, with a lead synthesizer — outperformed standalone GPT-4o by **8.4% accuracy and 13% consistency**. The teacher's role shifts from prompter to orchestrator, connecting to [[agentic-workflows-education]] and [[human-in-the-loop]] design patterns.
+The shift from single-prompt chatbots to agentic AI systems represents the next evolution. A multi-agent scoring system — separate agents for content, grammar, and coherence, with a lead synthesizer — outperformed standalone GPT-4o by **8.4% accuracy and 13% consistency**. The teacher's role shifts from prompter to orchestrator, connecting to [[agentic-workflows-education]] and [[human-in-the-loop-ai]] design patterns.
 
 ## Connected Concepts
 
