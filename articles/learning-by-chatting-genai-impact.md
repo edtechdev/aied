@@ -31,7 +31,7 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 
 ### For AI Tutor Design
 - The finding that ChatGPT's output bias favours "solution-oriented artifacts over principled knowledge" directly parallels the challenge identified in [[tutoring-effectiveness-index|tutoring effectiveness]] — that AI tutors must be designed to elicit reasoning, not provide answers.
-- The [[petechat-guardrailed-ai-tutor|PeteChat/Tutor Not Solver]] design principles directly address this tension through homework guardrails and SRL support.
+- The PeteChat/Tutor Not Solver design principles directly address this tension through homework guardrails and SRL support.
 
 ### For Metacognition & Self-Regulated Learning
 - The study provides empirical evidence for the theoretical concern raised in [[llm-fallacy-misattribution]]: that learners misattribute AI-generated outputs to their own understanding, short-circuiting metacognitive monitoring.
@@ -50,7 +50,7 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 
 - [[ai-literacy]]
 - [[metacognition]]
-- [[petechat-guardrailed-ai-tutor]]
+- petechat-guardrailed-ai-tutor
 - [[scaffolding]]
 - [[self-regulated-learning]]
 

@@ -125,7 +125,7 @@ Teacher ↔ AI System ↔ Student
 - [[human-in-the-loop-ai]]
 - [[learning-analytics]]
 - [[metacognition]]
-- [[posthumanist-ai-education]]
+- posthumanist-ai-education
 
 - [[rag]]
 ## Connected Articles

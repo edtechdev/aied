@@ -10,7 +10,7 @@ confidence: high
 
 > The guide adopts a middle way between "techno-fixing" and rejecting AI as an existential threat. It argues that:
 
-> A comprehensive educator's guide to integrating Generative AI into multimodal teaching, learning, and assessment across higher education. Built on Kress's social semiotic theory of multimodality, the guide positions GenAI as a 'cyber-social' partner that complements—but cannot replace—human meaning-making. It proposes the **MMLD-AI** unifying model (UDL + ABC Learning Design) and the **Dual-Track Cyber-Social Learning Model** for designing effective human-AI collaboration.^[[varga-atkins-educators-guide-multimodal-learning-genai-2025]]
+> A comprehensive educator's guide to integrating Generative AI into multimodal teaching, learning, and assessment across higher education. Built on Kress's social semiotic theory of multimodality, the guide positions GenAI as a 'cyber-social' partner that complements—but cannot replace—human meaning-making. It proposes the **MMLD-AI** unifying model (UDL + ABC Learning Design) and the **Dual-Track Cyber-Social Learning Model** for designing effective human-AI collaboration.^varga-atkins-educators-guide-multimodal-learning-genai-2025
 
 ## Core Position: Pragmatic, Not Uncritical
 
@@ -137,7 +137,7 @@ The guide includes 15+ educator case studies spanning:
 - [[pedagogical-llm-training]]
 - [[self-regulated-learning]]
 - [[socratic-ai-dialogue]]
-- [[varga-atkins-educators-guide-multimodal-learning-genai-2025]]
+- varga-atkins-educators-guide-multimodal-learning-genai-2025
 
 - [[ai-education]]
 - [[generative-ai]]

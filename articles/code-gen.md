@@ -18,7 +18,7 @@ CODE-GEN (Context-aligned, Output-validated, Dual-agent, Expert-guided GENeratio
 
 ### Architecture
 
-1. **RAG Pipeline:** Instructional materials (learning objectives, example questions, code) are parsed with a domain-specific chunking strategy that preserves semantic coherence, embedded via OpenAI text-embedding-3-small, and indexed in a [[FAISS]] vector store. On generation, nearest-neighbor retrieval injects relevant examples into the Generator's prompt.
+1. **RAG Pipeline:** Instructional materials (learning objectives, example questions, code) are parsed with a domain-specific chunking strategy that preserves semantic coherence, embedded via OpenAI text-embedding-3-small, and indexed in a FAISS vector store. On generation, nearest-neighbor retrieval injects relevant examples into the Generator's prompt.
 
 2. **Generator Agent (GPT-4.1):** Produces MCQs with stem, executable code, four answer options, and explanatory feedback. Augmented with an Arithmetic Expression Evaluator tool for deterministic computation.
 

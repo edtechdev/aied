@@ -7,7 +7,7 @@ tags: []
 confidence: medium
 ---
 
-> **Teacher professional development** for AI is the leverage point across [[teacher-ai-competency]], [[ai-tpack-preservice-math-teachers]], [[every-learner-faculty-development-genai-playbook-2025]], and [[quest-ai-inquiry-preservice-teachers]]: competency frameworks and structured training — not tool access — determine classroom outcomes ([[faculty-development]], [[teacher-role]]).
+> **Teacher professional development** for AI is the leverage point across [[teacher-ai-competency]], [[ai-tpack-preservice-math-teachers]], every-learner-faculty-development-genai-playbook-2025, and [[quest-ai-inquiry-preservice-teachers]]: competency frameworks and structured training — not tool access — determine classroom outcomes ([[faculty-development]], [[teacher-role]]).
 
 ## Connected Concepts
 

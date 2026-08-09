@@ -7,7 +7,7 @@ tags: [ai-literacy, higher-ed, generative-ai, scaffolding, cs-education, program
 confidence: medium
 ---
 
-> **Prompt engineering** is both a learner skill and a system design lever: [[prompt-coach-agentic-tutor-prompt-engineering]], [[cotal-formative-assessment-scoring-2026]], [[learning-to-prompt-adaptive-tutoring]], and [[prompt-based-programming-lesson]] show prompts determine LLM output quality — making prompt literacy a core [[ai-literacy]] component ([[llm]], [[educational-content]]).
+> **Prompt engineering** is both a learner skill and a system design lever: [[prompt-coach-agentic-tutor-prompt-engineering]], [[cotal-formative-assessment-scoring-2026]], [[learning-to-prompt-adaptive-tutoring]], and [[prompt-based-programming-lesson]] show prompts determine LLM output quality — making prompt literacy a core [[ai-literacy]] component ([[llm]], educational-content).
 
 ## Connected Concepts
 
