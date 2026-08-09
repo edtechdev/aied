@@ -18,3 +18,4 @@ confidence: medium
 - [[lets-chat-chatbot-outreach-2026]] — Let's Chat: Leveraging Chatbot Outreach for Improved Course Performance
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[generative-ai-education-productivity-gaps]]

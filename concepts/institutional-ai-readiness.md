@@ -18,3 +18,4 @@ confidence: medium
 
 - [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[institutional-governance-ai-universities]]
