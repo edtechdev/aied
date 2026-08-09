@@ -9,8 +9,6 @@ confidence: medium
 
 > **Randomized controlled trials** are the wiki's gold-standard evidence: [[genai-policy-prompting-rct]], [[genai-can-harm-teaching-rct-2026]], [[access-not-enough-ai-tutoring-2026]], and [[lets-chat-chatbot-outreach-2026]] are pre-registered RCTs demonstrating that AI's educational effects are real, heterogeneous, and sometimes negative ([[RCT]], [[efficacy-study]]).
 
-- [[genai-policy-prompting-rct]]
-
 ## Connected Concepts
 
 - [[genai-policy-prompting-rct]]

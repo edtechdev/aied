@@ -9,22 +9,6 @@ confidence: medium
 
 > **RAG** (retrieval-augmented generation) grounds LLM answers in vetted sources: [[eduguard-safe-rag-llm-tutor]], [[retrieval-augmented-tutoring-algorithm-kite]], [[structrag-diagram-reasoning-ai-tutoring]], and [[knowledge-graph]] show retrieval grounding reduces hallucination and improves domain accuracy in tutors ([[hallucination-risk]], [[llm]]).
 
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[computational-thinking]]
-- [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[llm]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
-- [[nlp-education]]
-- [[pedagogical-safety]]
-- [[plagiarism-detection]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

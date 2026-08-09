@@ -9,22 +9,6 @@ confidence: medium
 
 > **Reinforcement learning** trains AI tutors and agents through reward signals: [[special-r1-rl-special-education]], [[singh-eduqwen-pedagogical-rl-2026]], [[pedagogical-safety-rl]], and [[ai-coaching-rl-skill-development]] align RL with pedagogical objectives, including safety and skill transfer ([[intelligent-tutoring]], [[agentic-ai]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
-- [[automated-question-generation]]
-- [[bias-mitigation]]
-- [[computational-thinking]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

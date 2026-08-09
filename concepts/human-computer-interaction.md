@@ -9,18 +9,6 @@ confidence: medium
 
 > **Stub:** Auto-created for cross-linking.
 
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[adult-learning]]
-- [[ai-education]]
-- [[andragogy]]
-- [[curriculum-design]]
-- [[design-guidelines]]
-- [[educational-technology]]
-- [[ethics]]
-- [[faculty-development-genai]]
-- [[formative-assessment]]
-
 ## Connected Concepts
 
 - [[adaptive-learning-systems]]

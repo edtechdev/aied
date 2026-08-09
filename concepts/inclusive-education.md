@@ -9,8 +9,6 @@ confidence: medium
 
 > **Inclusive education** with AI covers [[special-education-ai]], [[neurodivergent-computing-students]], [[accessible-learning]], and [[multilingual-learning]]: AI can personalize for diverse learners but risks exclusion when accessibility and cultural contexts are afterthoughts ([[equity]]).
 
-- [[neurodivergent-computing-students]] — I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning
-
 ## Connected Articles
 
 - [[neurodivergent-computing-students]] — I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning

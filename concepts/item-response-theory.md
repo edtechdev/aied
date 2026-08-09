@@ -9,9 +9,6 @@ confidence: medium
 
 > **Item response theory** — psychometric modeling of item difficulty and ability — meets LLMs in [[llm-item-difficulty-prediction]], [[llm-psychometric-calibration-cdp]], and [[knowledge-tracing-irt]]: AI predicts difficulty and calibrates assessment, improving measurement precision ([[educational-measurement]], [[assessment-validity]]).
 
-- [[assessment-validity]]
-- [[educational-measurement]]
-
 ## Connected Concepts
 
 - [[assessment-validity]]

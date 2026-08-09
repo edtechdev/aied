@@ -9,22 +9,6 @@ confidence: medium
 
 > **Curriculum design** for the AI era is discussed in [[curriculum-design-ai]], [[prompt-based-programming-lesson]], [[ase-26-agentic-software-engineering-curriculum]], and [[genai-architecture-education]]: curricula must embed AI literacy and agentic skills while preserving foundational knowledge ([[instructional-design]], [[educational-theory]]).
 
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[andragogy]]
-- [[assessment-validity]]
-- [[automated-question-generation]]
-- [[bias-mitigation]]
-
 ## Connected Concepts
 
 - [[adaptive-learning-systems]]

@@ -9,11 +9,6 @@ confidence: medium
 
 > **Affective computing** in education uses physiological and behavioral signals to sense learner emotion and adapt instruction — see [[affective-text-wearable-student-health]], [[multimodal-affective-its-presentation]], and [[kar-mathbuddy-affective-math-tutoring-2025]]. The wiki also documents emotional risks of AI interaction, including [[sycophantic-ai-social-interaction-2026]] and [[shame-guilt-ai-regulation-computing-education]].
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

@@ -9,18 +9,6 @@ confidence: medium
 
 > **AI education** — teaching about AI itself — is examined through [[k-12-ai-education]], [[ml-literacy-primary-education]], [[principled-ai-education]], and [[ai-literacy-equity-programming-policy]], which find that curricula must span technical, ethical, and equity dimensions of AI literacy.
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-assistance-reduces-persistence]]
-- [[ai-ed-evaluation]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

@@ -9,8 +9,6 @@ confidence: medium
 
 > **Confidence-aware AI assessment** — models that report uncertainty alongside scores — is examined in [[confidence-aware-student-drawing-assessment]], [[cong-confidence-asag-2026]], and [[llm-psychometric-calibration-cdp]]: calibrated confidence improves trust and enables appropriate delegation (trust-calibration, [[ai-ed-evaluation]]).
 
-- [[ai-ed-evaluation]]
-
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]

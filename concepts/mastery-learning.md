@@ -9,22 +9,6 @@ confidence: medium
 
 > **Mastery learning** — progression upon demonstrated competence — is enabled by adaptive AI: [[mastery-learning]] research in the wiki, alongside [[adaptive-learning]], [[memdora-ai-spaced-repetition]], and [[simulating-learner-task-selection]], shows AI sequencing and assessment make mastery-based progression practical at scale ([[personalized-learning]], [[formative-assessment]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
-- [[automated-question-generation]]
-- [[bias-mitigation]]
-- [[cold-start-knowledge-tracing-safeinsights]]
-- [[culturally-relevant-pedagogy]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]

@@ -9,22 +9,6 @@ confidence: medium
 
 > **Knowledge tracing** — modeling what learners know over time — is the wiki's richest modeling thread: [[stanbkt-bayesian-knowledge-tracing]], [[mbp-kt-meta-behavioral-knowledge-tracing]], [[neural-symbolic-knowledge-tracing]], [[explainable-probabilistic-kt]], and [[difficulty-aware-dialogue-kt]] advance Bayesian, deep, and hybrid models, now enhanced by LLMs ([[student-modeling]], [[educational-measurement]]).
 
-- [[adaptive-learning]]
-- [[adaptive-learning-systems]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-workflows]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
-- [[automated-question-generation]]
-
 ## Connected Concepts
 
 - [[adaptive-learning]]
