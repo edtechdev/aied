@@ -3,8 +3,8 @@ title: Multimodal Dialogue in STEM Education
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [intelligent-tutoring, multimodal, socratic-method, stem-education]
-sources: [raw/papers/syal-multimodal-dialogue-stem-2026.md]
+tags: [intelligent-tutoring, multimodal, socratic-method, stem-education, llm, ai-tutoring, scaffolding, metacognition]
+sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
 confidence: medium
 ---
 
@@ -32,17 +32,34 @@ The pedagogical framing is equally important. The intervention constrains the hu
 
 For deployment, this suggests a design pattern: AI tutoring interfaces for STEM should include a *visual grounding checkpoint* — a deliberate step where the system describes what it sees before attempting a solution, giving the student (or a human supervisor) an opportunity to correct perceptual errors. This pattern echoes the verification step in the [[ai-tutor-behavioral-evaluation]] framework and could be automated further with vision-language consistency checks.
 
+## Connected Articles
+
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations...
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
+- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Envir...
+- [[hashmi-socratic-physics-chatbot-2025]] — Socratic Physics Chatbot
+- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+
 ## Citation
 
 tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal Dialogue in STEM Education*](https://arxiv.org/abs/2605.04131)
-
-## Related Pages
-
-- [[multimodal-ai-tutoring]] — Overview of multimodal approaches in AI tutoring
-- [[correct-answer-trap-ai-tutor]] — The pitfall of optimizing for answer correctness over learning
-- [[ai-metacognition-stem-review]] — Metacognitive scaffolds in STEM AI tutoring
-- [[hashmi-socratic-physics-chatbot-2025]] — Socratic dialogue applied to physics tutoring
-- [[ai-scoring-language-bias-physics]] — Bias and modality effects in physics assessment
-- [[ai-tutor-behavioral-evaluation]] — Frameworks for evaluating AI tutor behavior
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — Moving tutors from answer provision to reasoning support
-- [[socratic-method]] — The pedagogical foundation of the dialogue intervention

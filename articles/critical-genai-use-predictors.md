@@ -1,14 +1,14 @@
 ---
-title: "GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use"
+title: GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
 created: 2026-08-03
 updated: 2026-08-03
 type: article
-tags: [ai-literacy, higher-ed, student-experience, over-reliance, educational-theory]
-sources: [raw/papers/mdpi-2026-critical-genai-use-predictors.md]
+tags: [ai-literacy, higher-ed, student-experience, over-reliance, educational-theory, ai-literacy-assessment-misalignment, metacognition]
+sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']
 confidence: high
 ---
 
-# GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
+> **Markus H. Hefter, Benjamin Paaßen & Kirsten Berthold (2026)** — *AI Educ.* (MDPI), 2, 27. Open Access, CC BY 4.0. doi:10.3390/aieduc2030027.
 
 **Markus H. Hefter, Benjamin Paaßen & Kirsten Berthold (2026)** — *AI Educ.* (MDPI), 2, 27. Open Access, CC BY 4.0. doi:10.3390/aieduc2030027.
 
@@ -48,17 +48,41 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 - Knowledge about **human learning** (metacognitive understanding of cognitive offloading costs) is proposed as an additional "meta-knowledge" predictor worth studying.
 - Limitations: small psychology-only sample (88% female), self-report critical-use scale, correlational design (no causality), and the risk that static knowledge-test items go stale as tools evolve — future work should use performance-based measures like the GLAT and objective behaviour logs, and experimental/longitudinal designs.^[raw/papers/mdpi-2026-critical-genai-use-predictors.md]
 
-## Related Pages
+## Connected Concepts
 
-- [[ai-literacy]] — Knowledge + dispositions as the two protective factors
-- [[over-reliance]] — The target risk: uncritical overreliance on GenAI outputs
-- [[chatgpt-critical-creative-thinking-review]] — Critical-thinking framing of GenAI use
-- [[ai-literacy-assessment-misalignment]] — Self-reported vs performance-based literacy measurement (mirrored here)
-- [[metacognition]] — Knowledge about human learning as meta-knowledge; NFC bridge
-- [[student-experience]] — Undergraduate usage and validation behaviours
-- [[higher-ed]] — Deployment context
-- [[educational-theory]] — Kuhn's epistemic development and intellectual values framing
-- [[hallucination-risk]] — Why cross-checking outputs matters
+- [[ai-literacy]]
+- [[ai-literacy-assessment-misalignment]]
+- [[higher-ed]]
+- [[metacognition]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 
 ## Citation
 

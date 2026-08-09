@@ -1,12 +1,14 @@
 ---
-title: 'What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries'
+title: "What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries"
 created: 2026-05-09
 updated: 2026-05-09
 type: article
-tags: [policy-maker, equity, k-12, teacher-role, ai-literacy]
-sources: ["raw/papers/ai-education-global-capacity.md"]
+tags: [policy-maker, equity, k-12, teacher-role, ai-literacy, teacher-ai-competency, equity-in-ai-education, faculty-development-genai, regulation]
+sources: ['raw/papers/ai-education-global-capacity.md']
 confidence: medium
 ---
+
+> A global perspective on AI in education readiness, framed around the insight that the real bottleneck is human and institutional capacity, not technical access. Based on a WEF (2026) synthesis of youth leader initiatives across the United States, Kenya, China, UAE, and Switzerland.
 
 # AI Education Global Capacity
 
@@ -29,16 +31,42 @@ While AI tools are globally available, the critical variable is local absorption
 - The assessment misalignment in China echoes concerns in [[authentic-assessment]]
 - Teacher readiness theme connects to [[faculty-development-genai]] and [[teacher-ai-competency]]
 
-## Citation
+## Connected Concepts
 
-Forum, S.W.E. (2026). [What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries](https://www.weforum.org/stories/2026/04/what-ai-in-education-needs-next-lessons-from-youth-leaders-across-five-countries/)
-
-## Related Pages
-- [[post-covid-ict-career-aspirations]] — 5 of 8 papers in May 28 scan
-- [[institutional-change-framework-ai]] — Six-dimension framework for adapting institutional change models in STEM to generative AI
-- [[universities-ai-era-rethinking]] — Institutional capacity as bottleneck mirrors WEF synthesis findings
-- [[ai-k12-evidence-base]]
+- [[ai-literacy]]
 - [[equity-in-ai-education]]
 - [[faculty-development-genai]]
 - [[regulation]]
-- [[ai-literacy]]
+- [[teacher-ai-competency]]
+
+## Connected Articles
+
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[authentic-assessment]] — Authentic Assessment
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
+- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
+- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
+
+## Citation
+
+Forum, S.W.E. (2026). [What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries](https://www.weforum.org/stories/2026/04/what-ai-in-education-needs-next-lessons-from-youth-leaders-across-five-countries/)

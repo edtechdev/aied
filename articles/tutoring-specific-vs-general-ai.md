@@ -2,13 +2,13 @@
 title: Tutoring-Specific vs. General-Purpose AI in Education
 created: 2026-05-07
 updated: 2026-05-07
-type: comparison
-tags: [intelligent-tutoring, llm, generative-ai, personalized-learning, scaffolding, adaptive-learning]
+type: article
+tags: [intelligent-tutoring, llm, generative-ai, personalized-learning, scaffolding, adaptive-learning, pedagogical-llm-training, self-regulated-learning, zone-of-proximal-development, metacognition]
+sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
-sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md]
 ---
 
-# Tutoring-Specific vs. General-Purpose AI in Education
+> 1. **Desirable difficulties** — General-purpose AI removes productive struggle; tutoring tools preserve it via graduated hints. 2. **Germane load** — Effective learning requires processing that feels effortful. General AI short-circuits this. See [[cognitive-load-theory]]. 3. **Metacognition suppression** — When AI completes reasoning, students lose practice in monitoring their own understanding.
 
 > The single most consistent finding in the 2026 Stanford SCALE review: **pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots** on durable learning outcomes.^[[stanford-evidence-base-ai-k12-2026]]
 
@@ -55,33 +55,43 @@ sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md]
 - **For policy:** School/district procurement criteria should distinguish between "AI-integrated" tools (tutoring-specific) and "AI-access" tools (general chatbox).
 - **For research:** Head-to-head RCTs comparing pedagogically designed AI vs. raw LLM access on delayed post-tests are urgently needed.
 
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[cognitive-load-theory]]
+- [[metacognition]]
+- [[pedagogical-llm-training]]
+- [[self-regulated-learning]]
+- [[zone-of-proximal-development]]
+
+## Connected Articles
+
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
+- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
+- [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[hybrid-human-ai-tutoring-differentiated]] — Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
+- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[moodle-ai-tutoring-deep-learning]] — From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle
+- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
+- [[quantum-education-its]] — Quantum Education Intelligent Tutoring
+- [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base: AI in K-12 Education
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+
 ## Citation
 
 Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*Tutoring-Specific vs. General-Purpose AI in Education*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
-
-## Related Pages
-- [[difficulty-aware-dialogue-kt]] — General LLMs reframed as psychometric instruments through IRT mapping
-- [[genai-meta-analysis-programming-learning]] — Productivity gains vs. learning outcomes across general AI tools
-- [[nsmq-riddles-science-math-benchmark]] — LLMs underperform top students, reinforcing specialized tutoring needs
-- [[moodle-ai-tutoring-deep-learning]] — Shows how general LLMs can be scaffolded into tutoring roles
-- [[critical-thinking-genai-scaffolding]] — Vendrell & Johnston (2026): eight design principles for scaffolding critical thinking with LLMs in higher education.
-- [[ai-learning-companions-framework]] — three-foundation framework for AI learning companions prioritizing durable learning over performance
-- [[ai-tutor-behavioral-evaluation]] — behavioral evaluation axis for AI tutors — measuring what students actually do with feedback
-- [[ai-literacy]] — Students should know whether they interact with a general LLM or pedagogical system
-- [[ai-k12-evidence-base]] — The broader evidence landscape
-- [[ai-learning-transfer]] — Durability of gains when AI is removed
-- [[multimodal-ai-tutoring]] — Structured dialogue as tutoring-specific intervention in STEM
-- [[collaborative-ai-tutoring]] — ProPACT's proactive dyadic scaffolds (tutoring-specific design)
-- [[knowledge-tracing-irt]] — Explicit ability/difficulty calibration for tutoring
-- [[metacognition]] — How tutoring-specific design preserves metacognitive demand vs. general AI suppression
-- [[self-regulated-learning]] — The SRL framework and AI's role in scaffolding or displacing regulation
-- [[ai-tutor-safety-harms]] — SafeTutors taxonomy: pedagogical harms from "helpful" general-purpose AI
-- [[llm-fallacy-misattribution]] — Students misattributing AI-generated outputs as their own competence
-- [[pedagogical-llm-training]] — Training methods (EduQwen) that align models with tutoring-specific design
-- [[educational-llm-alignment]] — Why general LLMs fail on tutoring impact despite benchmark success
-- [[educational-vlm-evaluation]] — Visual tutoring-specific design for STEM work
-- [[agentic-workflows-education]] — Agentic paradigms that embed tutoring-specific guardrails
-- [[zone-of-proximal-development]] — *(create when second source emerges)*
-- [[quantum-education-its]] — Domain-specific vs. general-purpose tutoring design
-- [[ai-metacognition-stem-review]] — Domain-specific tutoring (ITS) vs. generic chatbots for metacognitive scaffolding
-- [[hybrid-human-ai-tutoring-differentiated]] — Human component remains differentiable alongside AI

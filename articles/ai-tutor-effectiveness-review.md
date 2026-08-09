@@ -3,12 +3,12 @@ title: AI Tutor Effectiveness Review
 created: 2026-05-07
 updated: 2026-05-07
 type: article
-tags: [intelligent-tutoring, benchmark, efficacy-study, higher-ed, k-12]
+tags: [intelligent-tutoring, benchmark, efficacy-study, higher-ed, k-12, pedagogical-llm-training, human-in-the-loop-ai, affective-tutoring, adaptive-learning-systems]
+sources: ['raw/papers/zerkouk-comprehensive-review-its-2025.md']
 confidence: high
-sources: [raw/papers/zerkouk-comprehensive-review-its-2025.md]
 ---
 
-# AI Tutor Effectiveness Review
+> Zerkouk, Mihoubi & Chikhaoui (2025) systematically analyzed qualified studies from 2010–2025 across:
 
 > A comprehensive systematic review of AI-based Intelligent Tutoring Systems (2010–2025) reveals a field with transformative potential but mixed real-world effectiveness, persistent implementation challenges, and a critical need for stronger experimental rigor.^[[zerkouk-comprehensive-review-its-2025]]
 
@@ -60,37 +60,43 @@ The review identifies a **critical need for stronger experimental design and dat
 3. **Long-term studies are essential.** Most ITS research measures immediate outcomes; SRL, metacognition, and transfer require longitudinal designs.
 4. **Domain-specificity is real.** A system effective in math may fail in writing; claiming "general tutoring" without domain evidence is overstated.
 
+## Connected Concepts
+
+- [[adaptive-learning-systems]]
+- [[affective-tutoring]]
+- [[assessment-validity]]
+- [[human-in-the-loop-ai]]
+- [[pedagogical-llm-training]]
+- [[socratic-ai-dialogue]]
+
+## Connected Articles
+
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
+- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
+- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
+- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
+- [[hybrid-human-ai-tutoring-differentiated]] — Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
+- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
+- [[learning-to-prompt-adaptive-tutoring]] — Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[moodle-ai-tutoring-deep-learning]] — From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle
+- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
+- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
+- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
+- [[text-simplification-its]] — Text Simplification for Intelligent Tutoring
+- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
+
 ## Citation
 
 Zerkouk, Mihoubi & Chikhaoui (2025). [AI Tutor Effectiveness Review](https://arxiv.org/abs/2507.18882v1).
-
-## Related Pages
-- [[engagement-forecasting-its]] — Feature-based engagement forecasting reduces MAE 22-33% vs heuristics; effort dr
-- [[conversational-ai-tutors-framework]] — Research agenda: efficacy testing, student experience, human instruction integration
-- [[genai-tutor-engagement-patterns]] — Engagement heterogeneity by institution selectivity and course discipline
-- [[multi-agent-llm-social-learning]] — Multi-agent tutoring outperforms single-agent on learning transfer and idea diversity
-- [[moodle-ai-tutoring-deep-learning]] — LMS integration addresses deployment barriers from systematic review
-- [[multimodal-ai-feedback-learning]] — Zhao et al.: positive evidence for AI feedback effectiveness — matches human educators on learning
-- [[ai-tutor-behavioral-evaluation]] — behavioral evaluation axis for AI tutors — measuring what students actually do with feedback
-- [[multimodal-learning-genai]] — Real-world case studies and practical implementation guidance
-- [[ai-k12-evidence-base]] — Parallel systematic review with similar rigor concerns
-- [[pedagogical-llm-training]] — State-of-the-art training pipelines
-- [[educational-llm-alignment]] — Benchmark misalignment with teaching quality
-- [[ai-tutor-safety-harms]] — Safety harms that effectiveness reviews often overlook
-- [[agentic-workflows-education]] — Multi-agent ITS architectures
-- [[human-in-the-loop-ai]] — Teacher integration as a success factor
-- [[affective-tutoring]] — Affective computing as an advancement area
-- [[collaborative-ai-tutoring]] — Dyadic and group ITS
-- [[adaptive-learning-systems]] — Adaptive algorithms reviewed
-- [[socratic-ai-dialogue]] — Socratic methods as pedagogical strategy
-- [[llm-student-modeling-memory]] — Student modeling advances
-- [[learnmate2-llm-adaptive-learning]] — Empirical evidence: outperforms state-of-the-art LLMs
-- [[assessment-validity]] — Valid assessment needed for intervention efficacy
-- [[pedagogical-safety-rl]] — Safety a prerequisite for effectiveness
-- [[text-simplification-its]] — LLM integration challenges in ITS
-- [[teachbench-llm-teaching-evaluation]] — Benchmark for teaching effectiveness vs. deployed ITS outcomes
-- [[ai-metacognition-stem-review]] — ITS identified as key scaffolding tool for metacognitive development
-- [[lecturaagents-multi-agent-teaching]] — LecturaAgents
-- [[learning-to-prompt-adaptive-tutoring]] -- Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
-- [[hybrid-human-ai-tutoring-differentiated]] — Hybrid human-AI tutoring with differentiated roles (EDM'26)
-- [[chatgpt-impact-high-school-tests]] — Null effect of ChatGPT on high school test scores

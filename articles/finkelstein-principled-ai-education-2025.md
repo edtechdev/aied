@@ -3,10 +3,11 @@ title: Principled AI Education Framework
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [ai-literacy, curriculum-design, instructional-design]
-sources: [raw/papers/finkelstein-principled-ai-education-2025.md]
+tags: [ai-literacy, curriculum-design, instructional-design, generative-ai, zone-of-proximal-development, scaffolding, metacognition]
+sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
 confidence: medium
 ---
+
 > **Principled AI Education Framework** — A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Rather than focusing solely on the promise and peril of AI or its immediate implementation, this framework advances a third path — connecting broad educational goals to actionable practices through a set of explicit, scholarship-grounded principles.
 
 **Noah Finkelstein**, University of Colorado, Boulder — Drafted July 2025, updated July 2026.
@@ -35,19 +36,44 @@ The framework also speaks to the growing evidence gap documented in [[ai-k12-evi
 
 For course design, the framework connects directly to [[scaffolding]] practices and the [[zone-of-proximal-development]]: AI tools should provide support calibrated to learner readiness, not do the work for students. It also intersects with [[ai-metacognition-stem-review]] findings on how AI can either support or undermine metacognitive development depending on implementation choices.
 
+## Connected Concepts
+
+- [[ai-education]]
+- [[cognitive-load-theory]]
+- [[desirable-difficulties]]
+- [[generative-ai]]
+- [[metacognition]]
+- [[scaffolding]]
+- [[zone-of-proximal-development]]
+
+## Connected Articles
+
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+
 ## Citation
 
 education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). [*Principled AI Education Framework*](https://arxiv.org/abs/2510.01467)
-
-## Related Pages
-
-- [[ai-education]] — Core concept page on AI in education
-- [[ai-learning-transfer]] — Evidence on whether AI-assisted learning transfers to independent performance
-- [[ai-k12-evidence-base]] — The Stanford SCALE review of causal evidence on AI in K-12
-- [[metacognition]] — Metacognitive development and its relationship to AI tool use
-- [[scaffolding]] — Guided support practices relevant to principled AI integration
-- [[zone-of-proximal-development]] — Vygotsky's ZPD and its implications for AI tutoring design
-- [[desirable-difficulties]] — Why easier AI-mediated practice may undermine long-term learning
-- [[cognitive-load-theory]] — Managing cognitive load when integrating AI into instruction
-- [[ai-metacognition-stem-review]] — Review of AI's impact on metacognition in STEM education
-- [[generative-ai]] — Broader context on generative AI capabilities and limitations in education

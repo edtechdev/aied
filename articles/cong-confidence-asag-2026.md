@@ -3,8 +3,8 @@ title: Confidence-Aware Automatic Short Answer Grading
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [assessment, automated-grading, confidence]
-sources: [raw/papers/cong-confidence-asag-2026.md]
+tags: [assessment, automated-grading, confidence, psychometrically-aware-ai, hybrid-e-assessment-semi-automated-grading, retrieval-augmented-generation, ai-ed-evaluation]
+sources: ['raw/papers/cong-confidence-asag-2026.md']
 confidence: medium
 ---
 
@@ -32,17 +32,43 @@ For [[human-in-the-loop]] workflows in educational assessment, the selective pre
 
 The use of [[retrieval-augmented-generation]] and [[synthetic-data]] techniques for calibration could extend this framework beyond the SciEntsBank domain, enabling confidence-aware grading across diverse subject areas and languages.
 
+## Connected Concepts
+
+- [[ai-ed-evaluation]]
+- [[automated-grading]]
+- [[confidence-aware-ai-assessment]]
+- [[hybrid-e-assessment-semi-automated-grading]]
+- [[psychometrically-aware-ai]]
+- [[retrieval-augmented-generation]]
+
+## Connected Articles
+
+- [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
+- [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specifi...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations...
+- [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
+- [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
+- [[aissa-slides-analysis]] — AISSA: AI-based Student Slides Analysis Tool for Academic Presentations
+- [[authentic-assessment]] — Authentic Assessment
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
+- [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
+- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
+- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
+- [[behaviorally-adaptive-visual-diversion-assessment-2026]] — Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
+- [[code-gen]] — CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation
+- [[confidence-aware-student-drawing-assessment]] — Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
+- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
+- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
+- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
+- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
+
 ## Citation
 
 Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). [*Confidence-Aware Automatic Short Answer Grading*](https://arxiv.org/abs/2605.00200)
-
-## Related Pages
-
-- [[automatic-short-answer-grading]] — Core ASAG paradigm for automated response evaluation
-- [[confidence-aware-ai-assessment]] — Broader landscape of confidence estimation in AI assessment
-- [[automated-grading]] — General approaches to AI-assisted grading
-- [[human-in-the-loop]] — Architectures that route uncertain cases to human judgment
-- [[psychometrically-aware-ai]] — AI systems calibrated against measurement principles
-- [[short-answer-scoring-quality-degradation]] — Quality challenges in ASAG at scale
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid human-AI grading workflows
-- [[ai-ed-evaluation]] — Evaluation frameworks in AI and education

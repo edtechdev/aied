@@ -3,12 +3,12 @@ title: AI Learning Transfer
 created: 2026-05-07
 updated: 2026-05-07
 type: article
-tags: [efficacy-study, llm, adaptive-learning, formative-assessment, k-12]
+tags: [efficacy-study, llm, adaptive-learning, formative-assessment, k-12, ai-assistance-reduces-persistence, ai-tutoring, scaffolding]
+sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
-sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md]
 ---
 
-# AI Learning Transfer
+> Students using AI typically show **immediate, measurable gains** on the tasks where AI is available. Yet when AI is removed:
 
 > The central open question in AI education research: **Do performance gains with AI tools persist when students must demonstrate understanding independently?**^[[stanford-evidence-base-ai-k12-2026]]
 
@@ -79,24 +79,38 @@ This may mean:
 - Reflective prompts requiring students to explain AI-generated content in their own words
 - Strict separation between "practice with AI" and "demonstrate mastery" phases
 
+## Connected Concepts
+
+- [[ai-assistance-reduces-persistence]]
+
+## Connected Articles
+
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
+- [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
+- [[awareness-technological-isomorphism]] — Awareness of Technological Isomorphism: AI in Elementary Math
+- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
+- [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attentio...
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
+- [[hybrid-human-ai-tutoring-differentiated]] — Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
+- [[instructional-guidance-genai-learning]] — Role of Instructional Guidance in Generative AI-Assisted Learning
+- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
+- [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers
+- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice
+- [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
+- [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base: AI in K-12 Education
+- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
+- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+
 ## Citation
 
 Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*AI Learning Transfer*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
-
-## Related Pages
-- **[[ai-assistance-reduces-persistence]]**: Causal evidence (N=1,222) that brief AI assistance reduces persistence and impairs unassisted performance — rapid emergence of over-reliance effects
-- [[cognitive-offloading-speedup-illusion]] — Speedup illusion may reduce deliberate practice and learning transfer
-- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: 55% ceiling on frontier models raises transfer questions for AI tutoring systems
-- [[genai-meta-analysis-programming-learning]] — Highest-level evidence on whether AI gains persist when tools removed
-- [[sequenced-ai-feedback-learning]] — Cao et al. RCT: learning outcome disparity between feedback conditions raises transfer and retention questions
-- [[awareness-technological-isomorphism]] — Technological Isomorphism bridges elementary math and AI comprehension
-- [[instructional-guidance-genai-learning]] — Structured prompting improves AI-assisted learning outcomes- [[ai-partner-science-epistemic-vigilance]] -- Epistemic vigilance determines whether AI augments or undermines learning; uniform AI integration risks widening achievement gaps
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[adaptive-pretesting-retention]] -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice — learner-directed AI study underperforms structured retrieval.
-- [[llm-item-difficulty-prediction]] — Model reasoning as proxy for human cognitive processes
-- [[prompt-based-programming-lesson]] — prompt-based programming teaching intervention
-- [[ai-availability-student-motivation]] — AI availability and student motivation study
-- [[critical-engagement-code-completion]] — measuring critical engagement with AI code completion
-- [[hybrid-human-ai-tutoring-differentiated]] — MAP growth as learning transfer measure
-- [[genai-performance-vs-learning]] — Distinguishing performance gains from actual learning

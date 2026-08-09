@@ -1,14 +1,14 @@
 ---
-title: 'Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design'
+title: "Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design"
 created: 2026-05-17
 updated: 2026-05-17
 type: article
-tags: [ai-literacy, faculty-development, generative-ai, multi-agent, scaffolding, teacher-role]
-sources: [raw/papers/2605.13906.md]
+tags: [ai-literacy, faculty-development, generative-ai, multi-agent, scaffolding, teacher-role, teacher-ai-competency, agentic-ai-ecosystems-higher-education, faculty-development-genai, rag]
+sources: ['raw/papers/2605.13906.md']
 confidence: medium
 ---
 
-# Modeling AI-TPACK in Practice
+> **Yimeng Sun, Haiyang Xin, Shuang Li, Qiannan Niu, Ching Sing Chai, Lingyun Huang, Gaowei Chen (2026)** — Multiple institutions. arXiv:2605.13906 [cs.CY].
 
 **Yimeng Sun, Haiyang Xin, Shuang Li, Qiannan Niu, Ching Sing Chai, Lingyun Huang, Gaowei Chen (2026)** — Multiple institutions. arXiv:2605.13906 [cs.CY].
 
@@ -43,19 +43,39 @@ This connects to the [[teacher-ai-adoption-confidence]] finding that teacher con
 
 The multi-agent workflow framing positions this work at the intersection of [[agentic-ai-ecosystems-higher-education]] and teacher professional learning. As [[eduagentbench-agent-teaching-benchmark]] establishes benchmarks for what agent tutors should do, this study addresses the complementary question: **how should teachers learn to design and orchestrate those agents?**
 
-## Related Pages
-- [[ai-changing-teaching-workflows]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
+## Connected Concepts
+
+- [[agentic-ai-ecosystems-higher-education]]
+- [[faculty-development-genai]]
+- [[teacher-ai-competency]]
+
+## Connected Articles
+
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
+- [[ai-tpack-preservice-math-teachers]] — AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structura...
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-- [[teacher-ai-adoption-confidence]] — Teacher confidence mediates institutional support for AI adoption
-- [[faculty-development-genai]] — Approaches to developing faculty capability with generative AI
-- [[teachingcoach-chatbot-instructor-guidance]] — Fine-tuned scaffolding chatbot for instructors
-- [[agentic-ai-ecosystems-higher-education]] — Multi-agent AI frameworks for higher education
-- [[eduagentbench-agent-teaching-benchmark]] — Benchmark for holistic AI tutor evaluation
-- [[ai-generated-slides-student-perception]] — Student perception of AI-generated educational content
-- [[teacher-ai-competency]] — Frameworks for teacher AI competency development
-- [[ai-tpack-preservice-math-teachers]]
+- [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
+- [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
+- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 
 ## Citation
 

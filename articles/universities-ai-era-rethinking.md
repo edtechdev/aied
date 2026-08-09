@@ -1,12 +1,14 @@
 ---
-title: 'The University AI Didn''t Replace: Rethinking Universities in the AI Era'
+title: "The University AI Didn''t Replace: Rethinking Universities in the AI Era"
 created: 2026-05-08
 updated: 2026-05-11
 type: article
-tags: [higher-ed, teacher-role, administrator, policy-maker, regulation]
-sources: [raw/papers/2605.07056.md]
+tags: [higher-ed, teacher-role, administrator, policy-maker, regulation, teacher-ai-competency, faculty-development-genai, student-experience, assessment-validity]
+sources: ['raw/papers/2605.07056.md']
 confidence: medium
 ---
+
+> Binkowski & Hopkins (2026) argue that rather than replacing universities, AI **redefines their essential functions** — requiring a fundamental rethinking of institutional purpose, pedagogy, and assessment in higher education.
 
 # Universities in the AI Era
 
@@ -35,21 +37,42 @@ The rethinking extends to [[assessment-validity]] concerns — if AI can produce
 - What is the timeline for meaningful institutional transformation vs. superficial adoption?
 - How does this institutional rethinking interact with [[principled-ai-education]] frameworks?
 
+## Connected Concepts
+
+- [[assessment-validity]]
+- [[faculty-development-genai]]
+- [[regulation]]
+- [[student-experience]]
+- [[teacher-ai-competency]]
+
+## Connected Articles
+
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
+- [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
+- [[authentic-assessment]] — Authentic Assessment
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+- [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[principled-ai-education]] — Principled AI in Education
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+
 ## Citation
 
 Hopkins, A.K.P.B.A., The, T., Macquarie, K.P.B.A.A.H., AI, I.R.T.P.P.A.F.D.F.L.O., 2024), T.A.D.R.E.A.M.M., & lack, A.U.C.H.A.N.T.E.O. (2026). [*The University AI Didn''t Replace: Rethinking Universities in the AI Era*](https://arxiv.org/abs/2605.07056)
-
-## Related Pages
-- [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)
-- [[institutional-change-framework-ai]] — Six-dimension framework for adapting institutional change models in STEM to generative AI
-- [[ai-higher-ed-bridge-gap]]
-- [[ai-higher-ed-workforce-survey]]
-- [[faculty-development-genai]]
-- [[ai-education-global-capacity]]
-- [[teacher-ai-competency]]
-- [[assessment-validity]]
-- [[authentic-assessment]]
-- [[regulation]]
-- [[principled-ai-education]]
-- [[student-experience]]
-- [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Ed

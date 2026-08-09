@@ -3,12 +3,12 @@ title: "Navigating the moral panic: encouraging appropriate use of GenAI in the 
 created: 2026-07-19
 updated: 2026-07-19
 type: article
-tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, over-reliance, ai-literacy, assessment]
-sources: [raw/papers/tandf-2026-moral-panic-genai.md]
+tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, over-reliance, ai-literacy, assessment, rag]
+sources: ['raw/papers/tandf-2026-moral-panic-genai.md']
 confidence: high
 ---
 
-# Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption
+> **Jennifer M. Krebsbach & Victoria L. Cross (University of California, Davis)** — *Assessment & Evaluation in Higher Education* (Taylor & Francis). Open Access, CC BY 4.0. doi:10.1080/02602938.2026.2686727.
 
 **Jennifer M. Krebsbach & Victoria L. Cross (University of California, Davis)** — *Assessment & Evaluation in Higher Education* (Taylor & Francis). Open Access, CC BY 4.0. doi:10.1080/02602938.2026.2686727.
 
@@ -44,23 +44,38 @@ Mixed: 53% preferred the new split format (paper knowledge + take-home applied);
 ## Interpretation: design beats ban
 The integrated redesign **resolved both academic-integrity and authenticity concerns** by splitting the quiz: a high-integrity paper knowledge test + a high-authenticity, open-resource applied task where GenAI use was taught. The authors caution they likely over-learned the "moral panic" lesson — assuming universal, effective GenAI adoption — when in reality uptake was partial and often ineffective. Their conclusion: monitor our own hypotheses about student GenAI use, keep learning objectives central, and **design authentic assessments for the new environment** rather than condemn the technology.
 
-## Connections to the wiki
-- A rare **natural-experiment** counterpart to the RCTs: it shows *unequal, undirected* GenAI access widens score variability (equity loss) and depresses applied performance, while *taught, structured* use restores parity — directly extending [[generative-ai-guardrails-harm-learning]] (design is decisive) and [[ai-generated-feedback-higher-ed]] (well-architected AI use matches/exceeds baseline).
-- Reinforces [[over-reliance]] (the integrated cohort's below-baseline knowledge scores are attributed to over-reliance) and [[cognitive-offloading]] / [[ai-making-us-stupid]] (offloading summarisation → less preparation).
-- Strong [[authentic-assessment]] and [[academic-integrity]] contribution: the split-format (paper knowledge + open applied) is a concrete, replicable design pattern.
-- Ties to [[ai-literacy]] (teaching use is the intervention) and [[equity]] (variability as an equity proxy).
+## Connected Concepts
 
-## Related Pages
-- [[generative-ai-guardrails-harm-learning]] — PNAS RCT: unguarded AI tutoring harms learning; guardrails neutralize it (design decisive)
-- [[ai-generated-feedback-higher-ed]] — Well-architected AI feedback matched teacher feedback (same "coach not crutch" logic)
-- [[over-reliance]] — Below-baseline knowledge scores attributed to GenAI over-reliance
-- [[cognitive-offloading]] — Offloading summarisation reduces hands-on preparation
-- [[ai-making-us-stupid]] — Cognitive offloading → skill decay framework (Cash et al. 2026)
-- [[authentic-assessment]] — Split-format (paper knowledge + open applied) as an authenticity/integrity design
-- [[academic-integrity]] — Cheating masked by GenAI availability; paper delivery restores integrity
-- [[ai-literacy]] — Teaching students to use GenAI is the active intervention
-- [[equity]] — Score variability as an equity signal; taught use reduced the gap
-- [[higher-ed]] — Deployment context (university)
+- [[ai-literacy]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[ai-making-us-stupid]] — Is AI making us stupid?
+- [[authentic-assessment]] — Authentic Assessment
+- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
 
 ## Citation
 

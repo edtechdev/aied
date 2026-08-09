@@ -3,10 +3,11 @@ title: Interpretable Knowledge Tracing
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [knowledge-tracing, interpretability, student-modeling]
-sources: [raw/papers/huang-interpretable-knowledge-tracing-2026.md]
+tags: [knowledge-tracing, interpretability, student-modeling, cold-start-knowledge-tracing-safeinsights, item-response-theory, ai-tutoring, rag]
+sources: ['raw/papers/huang-interpretable-knowledge-tracing-2026.md']
 confidence: medium
 ---
+
 > **Interpretable Knowledge Tracing** — A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using Item Response Theory, producing interpretable cognitive quantities from LLM output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.
 
 **Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan** (UMass Amherst) — arXiv:2605.01097, May 2026.
@@ -41,19 +42,40 @@ For practical deployment, the framework's interpretability enables several downs
 
 Future work should extend the framework to multi-skill settings (where students may have different abilities across different knowledge components), explore fine-tuning strategies that further improve the knowledge and difficulty estimators, and validate the approach in live tutoring deployments with real tutor feedback on interpretability quality.
 
+## Connected Concepts
+
+- [[ai-tutoring]]
+- [[cold-start-knowledge-tracing-safeinsights]]
+- [[item-response-theory]]
+- [[knowledge-tracing]]
+
+## Connected Articles
+
+- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
+- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
+- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
+- [[at-risk-students-ml-prediction]] — Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms
+- [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
+- [[code-gen]] — CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation
+- [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
+- [[cross-subject-validity-delayed-start]] — Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior
+- [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
+- [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
+- [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
+- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
+- [[nie-personavlm-long-term-personalization-2026]] — PersonaVLM: Long-Term Personalization for AI Tutors
+- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
+- [[precision-education-student-digital-twins-2026]] — From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Suc...
+- [[quantum-education-its]] — Quantum Education Intelligent Tutoring
+- [[reinforcement-learning-measurement-model-assessment]] — Reinforcement Learning Measurement Model
+- [[reliable-programming-kt]] — Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental...
+- [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
+- [[temporal-smoothness-debiased-kt]] — Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
+- [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
+
 ## Citation
 
 Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing*](https://arxiv.org/abs/2605.01097)
-
-## Related Pages
-
-- [[knowledge-tracing]] — Core concept page on knowledge tracing methods and applications
-- [[knowledge-tracing-irt]] — IRT-based approaches to knowledge tracing
-- [[item-response-theory]] — Foundational psychometric theory underlying the Rasch model used here
-- [[student-modeling]] — Broader context on modeling student knowledge and learning
-- [[ai-tutoring]] — AI tutoring systems that benefit from interpretable student models
-- [[cold-start-knowledge-tracing-safeinsights]] — Related work on KT with limited data
-- [[neural-symbolic-knowledge-tracing]] — Neural-symbolic approaches to interpretable KT
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — Meta-behavioral knowledge tracing approaches
-- [[llm-student-modeling-memory]] — LLM-based student modeling with memory mechanisms
-- [[ai-tutor-authoring-promptdecipher]] — Tutor authoring tools that can leverage difficulty estimates

@@ -3,10 +3,11 @@ title: Comprehensive Review of Intelligent Tutoring Systems
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [intelligent-tutoring, literature-review, adaptive-learning]
-sources: [raw/papers/zerkouk-comprehensive-review-its-2025.md]
+tags: [intelligent-tutoring, literature-review, adaptive-learning, pedagogical-llm-training, educational-nlp, socratic-questioning, scaffolding]
+sources: ['raw/papers/zerkouk-comprehensive-review-its-2025.md']
 confidence: medium
 ---
+
 > **Comprehensive Review of Intelligent Tutoring Systems** — Journal of Computers in Education (2025). A systematic literature review covering 2010–2025 that analyzes the deployment and effectiveness of Intelligent Tutoring Systems (ITS) in real educational settings. The review examines the full landscape of ITS research — pedagogical strategies, natural language processing, adaptive learning mechanisms, student modeling approaches, and domain-specific applications — and arrives at a nuanced verdict: the evidence for ITS effectiveness is mixed, revealing a complex landscape of genuine advancements alongside persistent challenges in scientific rigor and real-world impact.
 
 **Authors:** Zerkouk et al. · **Venue:** Journal of Computers in Education (2025) · **arXiv:** 2507.18882
@@ -39,21 +40,52 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 
 - https://arxiv.org/abs/2507.18882v1
 
+## Connected Concepts
+
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[affective-tutoring]]
+- [[ai-ed-evaluation]]
+- [[ai-ed-implementation]]
+- [[automated-question-generation]]
+- [[educational-nlp]]
+- [[educational-policy-ai]]
+- [[knowledge-tracing]]
+- [[learning-analytics]]
+- [[mastery-learning]]
+- [[metacognition]]
+- [[pedagogical-llm-training]]
+- [[randomized-controlled-trials-education]]
+- [[scaffolding]]
+
+## Connected Articles
+
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
+- [[history-aware-student-simulation]] — Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[nie-personavlm-long-term-personalization-2026]] — PersonaVLM: Long-Term Personalization for AI Tutors
+- [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
+- [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
+- [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
+- [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+
 ## Citation
 
 [Comprehensive Review of Intelligent Tutoring Systems](https://arxiv.org/abs/2507.18882v1).
-
-## Related Pages
-
-- [[intelligent-tutoring-systems]] — Core concept: the ITS field
-- [[adaptive-learning]] — Adaptive learning systems and approaches
-- [[student-modeling]] — Student modeling in educational technology
-- [[knowledge-tracing]] — Knowledge tracing techniques
-- [[educational-nlp]] — NLP applications in education
-- [[ai-tutor-effectiveness-review]] — Reviews of AI tutor effectiveness
-- [[ai-ed-evaluation]] — Evaluation frameworks for AI in education
-- [[learning-analytics]] — Learning analytics and data-driven improvement
-- [[domain-modeling]] — Domain modeling for educational systems
-- [[adaptive-learning-systems]] — Adaptive learning system architectures
-- [[randomized-controlled-trials-education]] — RCT methodology in education
-- [[edtech-platform]] — Educational technology platforms

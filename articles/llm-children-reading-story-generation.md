@@ -1,12 +1,14 @@
 ---
-title: "Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety"
+title: Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety
 created: 2026-05-14
 updated: 2026-05-14
 type: article
-tags: [llm, language-learning, k-12, ai-literacy, generative-ai]
-sources: [raw/papers/2605.13709.md]
+tags: [llm, language-learning, k-12, ai-literacy, generative-ai, equity-in-ai-education, k-12-ai-education, scaffolding, personalized-learning]
+sources: ['raw/papers/2605.13709.md']
 confidence: high
 ---
+
+> **Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite (2026)** — University of Florida. BEA 2026 @ ACL 2026.
 
 # Children's English Reading Story Generation via SFT of Compact LLMs
 
@@ -28,14 +30,41 @@ The generated stories were designed for use by teachers, parents, and children i
 
 Fine-tuning designs were systematically compared, with the curriculum-derived training data providing curriculum alignment that general-purpose models lack. The quantitative and qualitative evaluation framework provides a template for assessing AI-generated educational content.
 
-## Related Pages
-- [[vocabulary-difficulty-prediction]] — LLM fine-tuned with soft-target loss achieves r>0.91 for vocabulary difficulty p
-- [[language-learning]] — Reading instruction and literacy development
-- [[k-12-ai-education]] — Classroom and home deployment for children
-- [[ai-literacy]] — AI-generated reading materials and student-AI interaction
-- [[scaffolding]] — Difficulty-controlled stories as reading scaffolds
-- [[personalized-learning]] — Matching story difficulty to student level
-- [[llm-student-modeling-memory]] — Compact LLM deployment as alternative to large API models
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+- [[k-12-ai-education]]
+- [[personalized-learning]]
+- [[scaffolding]]
+
+## Connected Articles
+
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
 
 ## Citation
 

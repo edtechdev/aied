@@ -3,12 +3,12 @@ title: "From authentic products to authenticated processes: authentic assessment
 created: 2026-08-03
 updated: 2026-08-03
 type: article
-tags: [authentic-assessment, assessment, assessment-validity, ai-ed-evaluation, generative-ai, academic-integrity, higher-ed]
-sources: [raw/papers/authentic-products-authenticated-processes-2026.md]
+tags: [authentic-assessment, assessment, assessment-validity, ai-ed-evaluation, generative-ai, academic-integrity, higher-ed, ai-literacy, formative-assessment, llm]
+sources: ['raw/papers/authentic-products-authenticated-processes-2026.md']
 confidence: high
 ---
 
-# From authentic products to authenticated processes
+> Generative AI has not created the need for authentic assessment — it has made weaknesses in assessment design harder to ignore. Polished products can now be generated or substantially mediated by tools, so **product resemblance is an increasingly unreliable signal of capability**. Tsiligkiris calls this risk **construct substitution**: an AI-generated or AI-mediated product is attributed to the st
 
 > Tsiligkiris (2026) reframes authentic assessment as an *evidential and validity-oriented design problem* in AI-rich higher education. His central distinction — **authentic products vs. authenticated processes** — argues that assessment validity under generative AI depends not on realistic outputs alone but on architectures that make human judgement, verification, and responsibility visible. A systematic conceptual review of 37 sources yields a six-dimension framework for redesigning assessment briefs at module and programme level.
 
@@ -31,28 +31,41 @@ Crucially, the evidential question survives any AI policy: whether AI use is **p
 
 The framework becomes a **review instrument for assessment briefs**: teams examine each dimension for evidence generated, validity risks, and redesign priorities — using a 4-point indicative alignment scale (weak → partial → substantial → strong). Not every assessment must maximise all six dimensions; across a programme, tasks may emphasise different ones. It complements (rather than replaces) the [[ai-ed-evaluation|AI Assessment Scale]] by treating AI permissions as part of a defensible assessment argument, alongside fairness, agency, cognitive demand, and process evidence.
 
-## Connections to the wiki
+## Connected Concepts
 
-- Directly extends [[authentic-assessment]] (Zhan, Boud & Du 2025): the six-dimension framework retains that review's agency and collaboration insights but adds **process transparency**, **inclusivity**, and **AI-aware validity** as contemporary requirements
-- Joins the [[assessment-validity]] critique: GenAI turns product-only evidence into an inference hazard (cf. [[ai-detection|detection limits]])
-- The "authenticated processes" turn aligns with [[human-in-the-loop]] designs and the verification-based defenses in [[tool-invariant-framework-agentic-ai]] and [[llm-fallacy-misattribution]]
-- Process transparency resonates with [[formative-assessment]] and [[feedback-loop]] architectures that make reasoning visible
-- Echoes [[over-reliance]] concerns: polished-but-superficial AI-mediated outputs as a validity threat
-- Inclusion dimension connects to [[equity]] and the "matters of care" stance of [[care-full-feedback-genai]]
+- [[ai-ed-evaluation]]
+- [[ai-literacy]]
+- [[assessment-validity]]
+- [[formative-assessment]]
+
+## Connected Articles
+
+- [[authentic-assessment]] — Authentic Assessment
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 
 ## Citation
 
 corpus, S.A.N.I.S.O.I.R.A.C. (2026). [*From authentic products to authenticated processes: authentic assessment in AI-rich higher education*](https://doi.org/10.1080/02602938.2026.2695376)
-
-## Related Pages
-- [[authentic-assessment]] — the non-AI scoping review (Zhan, Boud & Du 2025) this framework builds on
-- [[beyond-detection-authentic-assessment-ai-2025]] — Kickbusch et al. (2025), the design-not-detection companion piece
-- [[assessment-validity]] — construct substitution as a validity failure mode
-- [[ai-detection]] — why detection-based responses cannot secure validity
-- [[ai-literacy]] — digital discernment as an assessed capability
-- [[human-in-the-loop]] — judgement and verification visible in the assessment architecture
-- [[formative-assessment]] — process evidence and feedback-use statements
-- [[over-reliance]] — uncritical AI-mediated production as the risk being designed against
-- [[equity]] — representational fairness dimension
-- [[academic-integrity]] — AI policy embedded in assessment architecture, not a stand-alone rule
-- [[feedback-loop]] — sustainable evaluative judgement

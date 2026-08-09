@@ -1,12 +1,13 @@
 ---
-title: 'Stanford Evidence Base: AI in K-12 Education'
+title: "Stanford Evidence Base: AI in K-12 Education"
 created: 2026-07-29
 updated: 2026-07-29
 type: article
-tags: [k-12, ai-literacy, evidence]
-sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md]
+tags: [k-12, ai-literacy, evidence, zone-of-proximal-development, k-12-ai-education, ai-tutoring, scaffolding]
+sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
 ---
+
 > **Stanford Evidence Base: AI in K-12 Education** — A 2026 systematic review from the Stanford SCALE Initiative analyzing 818 papers on AI in K-12 education. The central finding is stark: only 20 studies provide strong causal evidence, and zero high-quality causal studies examine U.S. K-12 student settings. The evidence that exists reveals a consistent pattern — AI improves performance during use but gains frequently fail to persist or transfer, and general-purpose AI tools can actively harm learning outcomes compared to pedagogically designed alternatives.
 
 **Stanford SCALE Initiative, AI Hub for Education** — Published 2026. Analysis of repository spanning through October 2025.
@@ -33,23 +34,46 @@ The superiority of pedagogically designed tools over general-purpose AI is actio
 
 For the research community, the review functions as both a wake-up call and a roadmap. It identifies urgent priorities: long-term studies with delayed post-tests, research in authentic U.S. K-12 settings, studies of educator use and impact, and research designs that disentangle assisted performance from durable learning. The [[k-12-ai-education]] field urgently needs to move beyond descriptive and technical-computational papers (which together constitute 92% of the repository) toward rigorous causal designs.
 
+## Connected Concepts
+
+- [[ai-tutoring]]
+- [[cognitive-load-theory]]
+- [[desirable-difficulties]]
+- [[k-12]]
+- [[k-12-ai-education]]
+- [[metacognition]]
+- [[randomized-controlled-trials-education]]
+- [[scaffolding]]
+- [[zone-of-proximal-development]]
+
+## Connected Articles
+
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
+
 ## Citation
 
 Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*Stanford Evidence Base: AI in K-12 Education*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
-
-## Related Pages
-
-- [[ai-k12-evidence-base]] — Companion concept page for the K-12 AI evidence landscape
-- [[ai-learning-transfer]] — The critical question of whether AI-assisted learning transfers to independent performance
-- [[k-12]] — Core concept page for K-12 education context
-- [[k-12-ai-education]] — AI education specifically in K-12 settings
-- [[randomized-controlled-trials-education]] — RCT methodology and findings in education research
-- [[cognitive-load-theory]] — How AI affects cognitive load during learning
-- [[zone-of-proximal-development]] — Vygotsky's ZPD and why AI must operate within it
-- [[desirable-difficulties]] — Why easier AI-mediated practice may harm long-term learning
-- [[metacognition]] — How AI can undermine metacognitive development
-- [[ai-tutor-effectiveness-review]] — Broader review of AI tutoring effectiveness
-- [[ai-tutoring]] — AI tutoring systems and their pedagogical design
-- [[genai-can-harm-teaching-rct-2026]] — RCT evidence on generative AI harming teaching outcomes
-- [[access-not-enough-ai-tutoring-2026]] — Evidence that AI tutoring access alone is insufficient
-- [[ai-pedagogical-orientation]] — Pedagogical frameworks for AI integration in education

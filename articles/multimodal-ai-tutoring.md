@@ -3,12 +3,12 @@ title: Multimodal AI Tutoring in STEM
 created: 2026-05-07
 updated: 2026-05-22
 type: article
-tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity]
+tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity, affective-tutoring, scaffolding, agentic-workflows, visualization]
+sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
 confidence: medium
-sources: [raw/papers/syal-multimodal-dialogue-stem-2026.md]
 ---
 
-# Multimodal AI Tutoring in STEM
+> When LLMs process STEM problems that require interpreting diagrams, graphs, or schematics alongside text, their accuracy degrades substantially. This effect is:
 
 > General-purpose LLMs achieve near-ceiling accuracy (~96%) on text-only physics problems, but accuracy drops to **~74%** on image-rich multimodal problems due to the **Multimodal Interference Effect**. A simple structured dialogue intervention—requiring no retraining—recovers performance to **95%**.^[[syal-multimodal-dialogue-stem-2026]]
 
@@ -59,24 +59,38 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 2. What happens when the *student* directly implements the dialogue protocol vs. an intermediary system?
 3. Do visual reasoning capabilities improve in newer model generations (e.g., GPT-5 multimodal)?
 
+## Connected Concepts
+
+- [[affective-tutoring]]
+
+## Connected Articles
+
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
+- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
+- [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
+- [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
+- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentati...
+- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[quantum-education-its]] — Quantum Education Intelligent Tutoring
+- [[syal-multimodal-dialogue-stem-2026]] — Multimodal Dialogue in STEM Education
+- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+
 ## Citation
 
 tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal AI Tutoring in STEM*](https://arxiv.org/abs/2605.04131)
-
-## Related Pages
-- [[llm-handwritten-math-grading]] — Demonstrates vision+LLM pipeline for authentic STEM assessment at scale
-- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
-- [[llm-educational-simulation-adhd]] — Contrasts simulated ADHD profiles with real neurodivergent student data
-- [[multimodal-ai-feedback-learning]] — Zhao et al.: multimodal feedback delivery (text + slides + audio) produces equivalent learning to educator feedback
-- [[multimodal-learning-genai]] — Productive multimodal use (this guide) vs. multimodal errors and corrections
-- [[affective-tutoring]] — Facial expression + text as multimodal affect signals
-- [[tutoring-specific-vs-general-ai]] — How tutoring-specific guardrails affect learning outcomes
-- [[ai-k12-evidence-base]] — Broader evidence landscape for AI in education
-- [[educational-vlm-evaluation]] — DrawEduMath: VLMs fail on struggling-student handwritten STEM work
-- [[agentic-workflows-education]] — Tool-use paradigm for visual reasoning augmentation
-- [[stem-education]] — *(create when second source emerges)*
-
-- [[quantum-education-its]] — Quantum circuit visualizations and STEM tutoring
-
-- [[engagement-assessment-video]] — Multimodal engagement sensing in STEM tutoring
-- [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Langua

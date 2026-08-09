@@ -1,12 +1,14 @@
 ---
-title: "Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators"
+title: Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
 created: 2026-05-16
 updated: 2026-05-16
 type: article
-tags: [intelligent-tutoring, llm, generative-ai, benchmark, hallucination-risk, student-experience]
-sources: [raw/papers/2605.12748.md]
+tags: [intelligent-tutoring, llm, generative-ai, benchmark, hallucination-risk, student-experience, pedagogical-safety]
+sources: ['raw/papers/2605.12748.md']
 confidence: high
 ---
+
+> **Do, Sonkar & Sachan (2026)** — ETH Zurich. arXiv preprint.
 
 # LLM Student Simulation and Misconception Faithfulness
 
@@ -24,17 +26,37 @@ The post-training pipeline — combining supervised fine-tuning, preference opti
 
 For [[student-experience]] and [[benchmark]] development, this paper motivates a paradigm shift from static output matching toward interactive, belief-aware student modeling — a theme that also resonates with [[llm-student-modeling-memory]] and the behavioral evaluation framework in [[ai-tutor-behavioral-evaluation]].
 
-## Related Pages
-  - [[simulating-students-java-programming-errors-llms]] — Related work on simulating student errors with LLMs for programming education
+## Connected Concepts
 
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Complementary finding: sycophancy in educational contexts
-- [[intelligent-tutoring]] — Domain that relies on student simulation for development
-- [[ai-tutor-safety-harms]] — Safety evaluation implications of unfaithful simulators
-- [[llm-student-modeling-memory]] — Related student modeling paradigms
-- [[pedagogical-safety-rl]] — RL training methodology used in the faithfulness pipeline
-- [[benchmark]] — SFS as a new evaluation metric for student simulators
-- [[ai-tutor-behavioral-evaluation]] — Behavioral evaluation framework for tutor effectiveness
-- [[hallucination-risk]] — Related LLM reliability concern in educational contexts
+- [[student-experience]]
+
+## Connected Articles
+
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
+- [[simulating-students-java-programming-errors-llms]] — Simulating Students' Java Programming Errors with Large Language Models
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 
 ## Citation
 

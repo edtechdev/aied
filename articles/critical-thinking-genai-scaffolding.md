@@ -3,14 +3,12 @@ title: Scaffolding Critical Thinking with Generative AI
 created: 2026-05-10
 updated: 2026-05-10
 type: article
-tags: [generative-ai, higher-ed, scaffolding]
-sources: [raw/papers/critical-thinking-genai-scaffolding.md]
+tags: [generative-ai, higher-ed, scaffolding, self-regulated-learning, faculty-development-genai, metacognition, ai-literacy]
+sources: ['raw/papers/critical-thinking-genai-scaffolding.md']
 confidence: medium
 ---
+
 > Vendrell & Johnston (2026) propose a design-oriented framework for LLM use in higher education that strengthens rather than displaces [[critical-thinking]], countering [[cognitive-offloading]] and metacognitive disengagement ([[metacognition]], [[scaffolding]]).
-
-
-# Scaffolding Critical Thinking with Generative AI
 
 Vendrell & Johnston (2026) propose a design-oriented pedagogical framework for integrating LLMs into higher education in ways that strengthen rather than displace critical thinking. Drawing from cognitive psychology, educational theory, and AI ethics, the framework addresses the risk that unstructured LLM use leads to cognitive offloading, metacognitive disengagement, and reduced [[metacognition|epistemic agency]].
 
@@ -79,14 +77,43 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - How should [[faculty-development-genai|faculty development]] programs train instructors to implement these principles at scale?
 - What empirical evidence is needed to validate the framework's efficacy claims?
 
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[faculty-development-genai]]
+- [[formative-assessment]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[socratic-ai-dialogue]]
+
+## Connected Articles
+
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[ai-learning-transfer]] — AI Learning Transfer
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+- [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking
+- [[principled-ai-education]] — Principled AI in Education
+- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discours...
+- [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
+- [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
+- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+
 ## Citation
 
 ScienceDirect, C.L.A.A., Intelligence, C.A.E.A., for, S.C.T.W.G.A.D.P., b, M.V.A.S.J., (AERC), A.A.E.R.C., O, A.R.T.I.C.L.E.I.N.F., T, A.B.S.T.R.A.C., & AI, G. (2026). [*Scaffolding Critical Thinking with Generative AI*](https://doi.org/10.1016/j.caeai.2026.100572)
-
-## Related Pages
-- [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)
-- [[students-llm-usage-critical-thinking]] — LLM use in academic critical thinking tasks
-- [[sequenced-ai-feedback-learning]] — Cao et al. RCT confirms scaffolding design risk: sequenced feedback hurt learning despite positive perceptions
--
-- [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinki
-- [[scaffolding-critical-engagement-genai-minority-students]]

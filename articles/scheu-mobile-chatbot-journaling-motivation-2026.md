@@ -1,14 +1,14 @@
 ---
-title: "Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement"
+title: Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
 created: 2026-07-29
 updated: 2026-08-03
 type: article
-tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, engagement-metrics, efficacy-study, scaffolding]
-sources: [raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
+tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, engagement-metrics, efficacy-study, scaffolding, metacognition, llm]
+sources: ['raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md']
 confidence: high
 ---
 
-# Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
+> **Sven Scheu, Simone N. Loeffler & Alexander Maedche (2026)** — *International Journal of Educational Technology in Higher Education* (Springer), 23:15. Open Access, CC BY 4.0. doi:10.1186/s41239-026-00589-7. *(Page upgraded from stub to full synthesis 2026-08-03 — full text now ingested.)*
 
 **Sven Scheu, Simone N. Loeffler & Alexander Maedche (2026)** — *International Journal of Educational Technology in Higher Education* (Springer), 23:15. Open Access, CC BY 4.0. doi:10.1186/s41239-026-00589-7. *(Page upgraded from stub to full synthesis 2026-08-03 — full text now ingested.)*
 
@@ -44,16 +44,42 @@ A **randomized 2×2 full-factorial field experiment** (N = 179 German university
 - For reflective-learning-tool design: pair one-off course-style scaffolding with **recurring/adaptive support** (follow-up prompts, phase-specific guidance, timely interventions) to sustain engagement; the LLM assistant is the more promising candidate for durable engagement dynamics, but needs to be used (only 55.9% used it post-onboarding — a self-selection caveat).
 - Engagement measured as text length only; cognitive engagement/reflection quality untested. Implementation is a single instantiation; seasonal/semester effects possible; long-term effects beyond 3 weeks unverified.^[raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
 
-## Related Pages
+## Connected Concepts
 
-- [[self-regulated-learning]] — SRL strategy use as the outcome and theoretical frame
-- [[scaffolding]] — Course and assistant as scaffolding mechanisms (modeling, worked examples)
-- [[generative-ai]] — The LLM-based journaling assistant (GPT-3.5-turbo)
-- [[student-experience]] — Intrinsic motivation and engagement of student users
-- [[higher-ed]] — Deployment context (German technical university)
-- [[metacognition]] — Reflection and metacognitive strategy development via journaling
-- [[feedback-loop]] — The assistant's usage→engagement feedback loop
-- [[engagement-metrics]] — Behavioral engagement operationalized as response length
+- [[generative-ai]]
+- [[higher-ed]]
+- [[metacognition]]
+- [[scaffolding]]
+- [[self-regulated-learning]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
+- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
 
 ## Citation
 
