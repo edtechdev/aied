@@ -10,8 +10,6 @@ confidence: medium
 
 > **SafeTutors** is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across mathematics, physics, and chemistry. It argues that **tutoring safety is fundamentally different from conventional LLM safety**: the primary risk is not toxic content but the quiet erosion of learning through answer over-disclosure, misconception reinforcement, and the abdication of scaffolding.
 
-**Authors:** Rima Hazra, Bikram Ghuku, Ilona Marchenko, Yaroslava Tokarieva, Sayan Layek, Somnath Banerjee, Julia Stoyanovich, Mykola Pechenizkiy · arXiv:2603.17373 · 3,135 single-turn + 2,820 multi-turn instances · 11 models tested
-
 ## Key Findings
 
 1. **Universal harm across all models.** Every evaluated model — from 3.8B open-weight models to GPT-5-mini — exhibited broad pedagogical harm. No model was consistently safe across all subjects and interaction modes, indicating that tutoring safety is not solved by general capability improvements.

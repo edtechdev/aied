@@ -9,8 +9,6 @@ confidence: high
 ---
 
 > **Authors:** Kirk Vanacore, Ryan S. Baker, Avery H. Closser, Jeremy Roschelle **Year:** 2026 **Venue:** arXiv (cs.HC)
-
-**Authors:** Kirk Vanacore, Ryan S. Baker, Avery H. Closser, Jeremy Roschelle
 **Year:** 2026
 **Venue:** arXiv (cs.HC)
 
@@ -21,10 +19,6 @@ Synthesis paper bridging ITS research + GenAI. Keep/Change/Center/Study framewor
 ## Key Contributions
 
 Synthesis paper bridging ITS research + GenAI. Keep/Change/Center/Study framework. Keep knowledge tracing/affect detection; Change delivery with GenAI; Center meaning-making/student agency; Study efficacy/integration.
-
-## Source
-
-- https://arxiv.org/abs/2602.19303
 
 ## Connected Concepts
 

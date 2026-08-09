@@ -9,8 +9,6 @@ confidence: high
 ---
 
 > **Authors:** Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević **Year:** 2026 **Venue:** arXiv (cs.CY)
-
-**Authors:** Youjie Chen, Xixi Shi, Xinyu Liu, Shuaiguo Wang, Tracy Xiao Liu, Dragan Gašević
 **Year:** 2026
 **Venue:** arXiv (cs.CY)
 
@@ -21,10 +19,6 @@ Large-scale analysis (N=11,406, 200 classes, 10 institutions) of GenAI tutor eng
 ## Key Contributions
 
 Large-scale analysis (N=11,406, 200 classes, 10 institutions) of GenAI tutor engagement. Four engagement types; 10.4% shallow with copy-paste. Students at selective institutions more likely to engage deeply.
-
-## Source
-
-- https://arxiv.org/abs/2602.00447
 
 ## Connected Concepts
 

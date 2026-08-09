@@ -10,8 +10,6 @@ confidence: high
 
 > **Authors:** Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany)
 
-**Authors:** Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany)
-
 **Source:** arXiv:2607.28210 (physics.ed-ph, July 2026)
 
 ## Key Findings

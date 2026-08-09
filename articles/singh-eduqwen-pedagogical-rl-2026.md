@@ -10,8 +10,6 @@ confidence: medium
 
 > **EduQwen: Pedagogical RL** — A multi-stage optimization strategy combining reinforcement learning (DAPO) and supervised fine-tuning (SFT) to enhance the pedagogical knowledge of open-source LLMs, producing a family of dense 32B-parameter models that achieve state-of-the-art performance on the Cross-Domain Pedagogical Knowledge (CDPK) Benchmark, surpassing even much larger proprietary systems such as Gemini-3 Pro. Demonstrates that domain-specialized optimization can transform mid-sized open-source LLMs into true pedagogical domain experts, prioritizing guided learning over answer-giving.
 
-**Authors:** Navan Preet Singh*, Xiaokun Wang*, Anurag Garikipati, Madalina Ciobanu, Qingqing Mao, Ritankar Das (Forta, East China Normal University, Incept Labs, Titan Holdings) · **arXiv:** 2604.06385 (April 2026)
-
 ## Key Findings
 
 The EduQwen project addresses a fundamental misalignment in LLM behavior for education: general-purpose models are optimized for immediate helpfulness — providing answers directly — while effective pedagogy requires guiding learners to discover answers themselves. This gap, labeled the [[correct-answer-trap-ai-tutor]], drives the core research question.
