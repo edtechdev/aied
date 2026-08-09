@@ -59,9 +59,8 @@ export const GET = () => {
 
 <BaseLayout title="Home">
   <div class="search-bar">
-    <input type="text" id="home-search" placeholder={`Search ${articles.length + concepts.length} articles & concepts on AI in education...`}
-           autocomplete="off"
-           onkeyup="if(event.key==='Enter'){window.location='/aied/search?q='+encodeURIComponent(this.value)}" />
+    <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
+    <pagefind-searchbox placeholder={`Search ${articles.length + concepts.length} articles & concepts...`}></pagefind-searchbox>
   </div>
 
   <!-- === Recently Added Articles === -->
@@ -138,3 +137,23 @@ export const GET = () => {
     </div>
   </section>
 </BaseLayout>
+
+<link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
+<script is:inline>
+  import("/aied/pagefind/pagefind-component-ui.js");
+</script>
+
+<style>
+  pagefind-searchbox::part(input) {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1.05rem;
+    border: 2px solid var(--card-border-color);
+    border-radius: 6px;
+    background: var(--card-background-color);
+  }
+  pagefind-searchbox::part(input):focus {
+    border-color: var(--primary);
+    outline: none;
+  }
+</style>
