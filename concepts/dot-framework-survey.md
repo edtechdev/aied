@@ -1,15 +1,11 @@
 ---
-title: 'DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education'
+title: "DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education"
 created: 2026-05-29
 updated: 2026-05-29
 type: concept
 tags: [ai-education, ai-literacy, design-thinking, dot-framework, higher-ed, human-in-the-loop, institutional-change, open-source, practitioner-beliefs, survey]
-sources:
-  - https://arxiv.org/abs/2605.29041
 confidence: high
 ---
-
-# DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
 
 A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the **DOT Framework** — a synthesis of [[design-thinking-in-education]] and [[open-systems-theory]].
 
@@ -46,13 +42,48 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 - **Policy**: Institutional AI strategies need to address governance concerns while building on practitioners' existing favorable dispositions
 - **Future Research**: Confirmatory factor analysis needed; outcome-based studies linking DOT-aligned practices to instructional quality
 
-## Related Pages
-- [[design-thinking-in-education]]
-- [[open-systems-theory]]
-- [[ai-literacy-in-higher-education]]
+## Connected Concepts
+
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[adult-learning]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
 - [[ai-co-intelligence]]
-- [[human-ai-collaboration]]
-- [[institutional-ai-readiness]]
-- [[ai-governance-education]]
-- [[ai-ed-implementation]]
 - [[ai-ed-evaluation]]
+- [[ai-ed-implementation]]
+- [[ai-governance-education]]
+- [[ai-literacy]]
+- [[ai-literacy-in-higher-education]]
+- [[ai-tutoring]]
+- [[andragogy]]
+
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms: Looking back and forward
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-tpack-preservice-math-teachers]] — AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structura...
+- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education

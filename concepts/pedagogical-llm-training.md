@@ -3,16 +3,11 @@ title: Training Pedagogical LLMs for Tutoring
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education]
+tags: [llm, intelligent-tutoring, adaptive-learning, benchmark, ai-education, higher-ed, generative-ai, student-experience, scaffolding, k-12]
 confidence: high
-sources: [raw/papers/singh-eduqwen-pedagogical-rl-2026.md, raw/papers/lelievre-pedagogy-benchmark-llm-knowledge-2025.md, raw/papers/lin-automatic-llm-interactive-lessons-2025.md, raw/papers/jeon-isd-agent-bench-2026.md]
 ---
 
-# Training Pedagogical LLMs for Tutoring
-
 > Domain-specialized optimization can transform a mid-sized open-source model (Qwen3-32B) into a pedagogical domain expert that outperforms far larger proprietary systems — but only when training rewards *guiding* rather than *answering*.^[[singh-eduqwen-pedagogical-rl-2026]] Classical instructional design theory (ADDIE, Dick & Carey) combined with modern ReAct reasoning achieves the highest performance in automated instructional design.^[[jeon-isd-agent-bench-2026]]
-
-## The Alignment Problem
 
 General-purpose LLMs are optimized for helpfulness: users want quick, correct answers. Tutoring requires the opposite: the goal is **not to provide the answer, but to help the student get to the answer themselves**. This creates a fundamental incentive mismatch.
 
@@ -86,28 +81,48 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 2. Can the RL-SFT-RL pipeline be combined with longitudinal memory (see [[llm-student-modeling-memory]]) for personalized tutoring?
 3. Would ISD-agent theory improve general tutoring conversation, or is it limited to macro-level curriculum design?
 
-## Citation
+## Connected Concepts
 
-Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). [*Training Pedagogical LLMs for Tutoring*](https://arxiv.org/abs/2604.06385)
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[adult-learning]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[andragogy]]
 
-## Related Pages
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
-- [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
-- [[codify-socratic-tutoring-programming]] — Socratic tutoring system demonstrating discovery-based LLM-driven instruction
-- [[eduagentbench-agent-teaching-benchmark]] — EduAgentBench findings highlight gaps in current pedagogical LLM training
-- [[nsmq-riddles-science-math-benchmark]] — Tests pedagogical LLMs on Global South educational content
-- [[cognitive-agent-compilation]] — CAC offers compilation as an alternative to training for pedagogical alignment
-- [[civic-education-ai-lesson-plans]] — 310 AI civics plans demonstrate training gap: 90% lower-order thinking, minimal multicultural integration
-- [[multimodal-learning-genai]] — Training for multimodal output generation and cyber-social collaboration
-- [[authentic-assessment]] — Six-dimensional framework that should inform pedagogical training
-- [[ai-tutor-safety-harms]] — Pedagogical harms that training must prevent
-- [[tutoring-specific-vs-general-ai]] — Why general-purpose helpfulness is misaligned with tutoring
-- [[metacognition]] — Preserving metacognitive demand through training incentives
-- [[llm-student-modeling-memory]] — Longitudinal personalization as a next training frontier
-- [[socratic-ai-dialogue]] — Socratic dialogue as a training target for guiding behavior
-- [[affective-tutoring]] — Affective calibration as a future training objective
-- [[knowledge-tracing-irt]] — Real-time calibration that pedagogical models should support
-- [[measuring-llm-tutors-teach-vs-solve]] -- Benchmarks conflate solving with teaching (r=0.421); pedagogy and solving scores should be reported separately
-- [[lecturaagents-multi-agent-teaching]] — LecturaAgents
-- [[llm-tts-dialogue-lesson-generation]] - steering LLMs for pedagogy
-- [[eduguard-safe-rag-llm-tutor]] — Bakes safety and pedagogical strategy selection into the generation pipeline.
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform

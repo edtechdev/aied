@@ -3,59 +3,68 @@ title: Teacher Role in AI-Enhanced Education
 created: 2026-05-11
 updated: 2026-05-11
 type: concept
-tags: [teacher-role, k-12, higher-ed]
-sources: []
-confidence: low
+tags: [teacher-role, k-12, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, intelligent-tutoring]
+confidence: medium
 ---
 
-# Teacher Role in AI-Enhanced Education
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-assessment]]
 
-## Connections
+## Connected Concepts
 
-## Related Pages
--- [[teacher-ai-teaming-five-levels]]
- [[genai-can-harm-teaching-rct-2026]] — Principal-agent problem in AI-assisted teaching
-- [[learner-centered-feedback-ai]] — Teachers calibrate AI tone to preserve professional voice
-- [[care-full-feedback-genai]] — Feedback as professional craft and ethical practice
-- [[llm-cognitive-diagnosis-handwritten-math]] — MathCog benchmark: 18 LLMs evaluated on cognitive skill diagnosis from handwritten math; all F1 < 0.5; systematic over-attribution and hallucination of evidence (2025)
-- [[xai-education-framework]]
-- [[ai-changing-teaching-workflows]]
-- [[anvil-ai-educational-animations]]
-- [[teacher-student-agency-orchestration]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[code-review-genai-cs1]]
-- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-- [[ai-pedagogical-orientation]] — AI pedagogical orientation drives faculty AI adoption more than institutional factors
-- [[institutional-change-framework-ai]] — Six-dimension framework for adapting institutional change models in STEM to generative AI
-- [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics V...
-- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach provides AI-powered scaffolding chatbot for instructor PD
-- [[modular-educational-llm-agency]] — Modular agent architecture for responsible LLM-based learning assistance
-- [[culturally-aware-aied-community-learning]] — Multi-stakeholder collaboration framework for culturally-aware AIED- [[agent-voice-accents-k12-group-learning]] — Teacher perspectives on AI agent voice characteristics in group work settings
-- [[cross-dataset-bloom-question-classification]] -- LLMs with tailored prompting generalize better than supervised models for cross-dataset Bloom taxonomy classification
-- [[ai-engineering-education-balancing-act]] -- Students attachment to LLM efficiency reflects 'cruel optimism' - benefits depend on critical thinking skills they are still developing
-- [[ai-assessment-human-tutors]] -- AI-driven assessment of human tutor training performance correlates with real-li...
-- [[adapt-adaptive-lesson-plan-transformer]] -- AdaPT uses transformers to adapt lesson plans across regional and differentiated...
-- [[framing-5-percent-problem-teachers-persistence]] -- Teachers identify four dimensions of low persistence in adaptive math platforms (motivation, cognitive roadblocks, resilience, context) and prioritize diagnosis over aggregate metrics.
-- [[bridging-instructional-design-framework-math]] -- Proposes operationalizing learning theories as metadata dimensions for teacher-support systems in mathematics education, focusing on conceptual structure of content.
-- [[machines-misread-pedagogical-quality]] -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a larger alignment effect than rationale-first evaluation, and the two are complementary.
-- [[tutors-gig-economy-automated-feedback]] -- Tutors perceived AI feedback more negatively than learner feedback but found it useful for self-monitoring; discrepancies between the two sources caused confusion.
-- [[ai-assessment-scale-reform]] — AI Assessment Scale (AIAS) Reform
-- [[prompt-based-programming-lesson]] — prompt-based programming teaching intervention
-- [[concept-catalyst-k12-teacher]] — scrutable interfaces for K-12 teacher-AI interaction
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward
-- [[gaide-vibe-coding-k12-teachers]] — GAIDE vibe-coding framework for K-12 teachers
-- [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms
-- [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission
-- [[ai-literacy-equity-programming-policy]] — Teachers implementing policy (2026-07-14)
-- [[forap-pjbl-computing-education]] — Teacher adoption barriers (2026-07-14)
-- [[teaching-feedback-classification-benchmark]] — Teacher evaluation support (2026-07-14)
-- [[vibe-coding-programming-process-visualizer]] — Thonny log visualizer built via AI-assisted 'vibe coding' piloted with 160 stude...
-- [[teacher-ai-adoption-confidence]] — Confidence mediates institutional support effects on adoption- [[ai-productivity-moderation]] — Learning curve and incentive factors moderate teacher AI adoption
-- [[ai-assistance-discretionary-feedback]] — Teacher orchestration and discretionary control over AI outputs
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teachers as prompt architects in K-12 AI integration
-- [[structured-ai-demonstrations-engineering-mechanics]]
-- [[agreement-not-quality-llm-coding-verification]]
-- [[human-llm-collaborative-coding-k12-educator-ai]]
-- [[connected-ai-lesson-planning-vietnam]]
-- [[rail-ed-genai-literacy-teacher-education]] — RAIL-Ed: an integrative, developmental framework for GenAI literacy in K-12 teacher education
-- [[genai-marketing-education-roles-2026]] — related concept
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-assessment]]
+
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer

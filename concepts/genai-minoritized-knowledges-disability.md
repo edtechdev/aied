@@ -3,13 +3,9 @@ title: "Generative AI and the marginalization of minoritized knowledges in highe
 created: 2026-05-27
 updated: 2026-05-27
 type: concept
-tags: [generative-ai, higher-ed, special-education, equity, bias-mitigation]
-sources:
-  - raw/papers/2605.26769.md
+tags: [generative-ai, higher-ed, special-education, equity, bias-mitigation, llm, student-experience, ai-literacy, scaffolding, stem-education]
 confidence: high
 ---
-
-# Generative AI and the Marginalization of Minoritized Knowledges in Higher Education: The Case of Disability
 
 **Fatiha Tali-Otmani (2026)** — EFTS, Grhapes. arXiv preprint.
 
@@ -33,18 +29,48 @@ Tali-Otmani explores whether a **researcher-machine hybridization** could preser
 
 For the [[special-education]] AIED community, this paper raises the stakes beyond accessibility to knowledge legitimacy. AI tools for disabled learners must not only be accessible but must also amplify rather than suppress their epistemological contributions. This requires rethinking [[ai-literacy]] to include critical awareness of whose knowledge is being represented and validated.
 
-## Related Pages
-- [[agentic-literacy-debt]] — 4 of 8 papers in May 28 scan
+## Connected Concepts
 
-- [[generative-ai]] — the technology whose epistemic effects are under scrutiny
-- [[special-education]] — the stakeholder context for disability-centered AI
-- [[higher-ed]] — the institutional setting where epistemic marginalization occurs
-- [[equity]] — broader concerns about fairness in AI education
-- [[bias-mitigation]] — technical approaches critiqued as insufficiently structural
-- [[inclusive-ai]] — design frameworks that this work challenges to go deeper
-- [[digital-literacy-illusion]] — surface competency masking deeper exclusion
-- [[genai-assessment-governance]] — parallel governance concerns about whose standards apply
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-assessment]]
 
-## Citation
+## Connected Articles
 
-Tali-Otmani, F. (2026). [Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability](https://arxiv.org/abs/2605.26769). arXiv:2605.26769.
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[genai-assessment-governance]] — Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming

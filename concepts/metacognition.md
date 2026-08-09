@@ -3,16 +3,11 @@ title: Metacognition
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding]
+tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
-sources: [raw/papers/stanford-evidence-base-ai-k12-2026.md, raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
 ---
 
-# Metacognition
-
 > Metacognition — thinking about one's own thinking — is both a target of AI education research (can AI tools develop students' metacognitive skills?) and a risk factor (AI completing tasks may suppress metacognitive practice).^[[stanford-evidence-base-ai-k12-2026]]^[[scheu-mobile-chatbot-journaling-motivation-2026]]
-
-## Definition
 
 Metacognition in education refers to learners' awareness, monitoring, and regulation of their own cognitive processes:
 
@@ -57,51 +52,48 @@ This suggests that **metacognitive support and motivation are not identical**. T
 2. **Model metacognitive language:** The example-based course worked partly because it exposed students to proficient models' metacognitive self-talk.
 3. **Separate support for motivation vs. skill:** Metacognitive skill development (course-structured) and productivity enhancement (AI-assisted) may require different design strategies.
 
-## Citation
+## Connected Concepts
 
-Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*Metacognition*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-grading]]
 
-## Related Pages
-- [[ai-writing-support-stage-ownership-2026]] — Ownership of cognitive work by writing stage
-- [[trust-reliance-ai-education-2026]] — Need for cognition moderates AI reliance
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agent initiative displaces learner metacognition
-- [[beyond-detection-authentic-assessment-ai-2025]] — Reflective artefacts making thinking visible
-- [[critical-genai-use-predictors]] — Need for cognition bridges literacy and critical behaviour
-- [[chatgpt-feedback-engagement-genai]] — Metacognitive engagement gap with ChatGPT feedback
-- **[[ai-assistance-reduces-persistence]]**: Causal evidence (N=1,222) that brief AI assistance reduces persistence and impairs unassisted performance — rapid emergence of over-reliance effects
-- [[cognitive-offloading-speedup-illusion]] — Users fail to accurately predict AI-assisted vs independent task completion times
-- [[llm-automated-assessment-student-self-explanations]] — Self-explanation assessment as a window into metacognitive engagement (2026)
-- [[xai-education-framework]]
-- [[code-review-genai-cs1]]
-- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
-- [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)
-- [[ai-powered-materials-discovery-ai-literacy]] — Preparing Students for AI-Powered Materials Discovery: A Wor...
-- [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-Ethics Crisis: Beliefs, Decisions, and Justification...
-- [[ai-agents-peer-learning-discourse]] — 7% of AI agent comments show metacognitive reflection patterns
-- [[moodle-ai-tutoring-deep-learning]] — Students must recognize surface understanding to benefit from deep scaffolding
-- [[ecnuclaw-k12-personalized-companion]] — Five-dimension learner profile includes metacognitive dimension tracking
-- [[sequenced-ai-feedback-learning]] — Cao et al. RCT: students felt they learned more with sequenced feedback but actually learned less — calibration failure
-- [[llm-student-misconception-identification]] — Surfacing student misconceptions supports metacognitive awareness
-- [[awareness-technological-isomorphism]] — Technological Isomorphism as metacognitive awareness of AI operations
-- [[regulating-ai-tutor-adolescent-srl]] — Adolescent metacognitive monitoring deficits during AI tutor use- [[learning-by-chatting-genai-impact]] — ChatGPT users experienced higher meta-cognitive load from reduced agency
-- [[ai-partner-science-epistemic-vigilance]] -- Epistemic vigilance determines whether AI augments or undermines learning; uniform AI integration risks widening achievement gaps
-- [[curiobot-llm-tutoring-exploratory-learning]] -- Curiosity-oriented LLM interventions (novelty, complexity, conflict, uncertainty) increased exploratory learner behaviors up to 2.4x — acting as a partially independent interaction-level mechanism.
-- [[epistemic-proactivity-math]] — epistemic proactivity in student-AI math interactions
-- [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
-- [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission
-- [[student-mental-models-genai]] — Mental models as metacognitive skill (2026-07-14)
-- [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
-- [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awarene
-- [[student-cheat-sheets-make-or-take]] — Students choose between self-created and instructor-provided cheat sheets based on trust, personaliz
-- [[genai-performance-vs-learning]] — GenAI can bypass metacognitive processing- [[llm-reasoning-traces-metacognition]] — LLM reasoning traces impair metacognitive calibration
-- [[metacognitive-learning-scenarios-taxonomy]] — Taxonomy of 24 metacognitive professional learning scenarios
-- [[codify-socratic-programming-tutor]] — Codify: Socratic ITS for programming education
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[guided-llm-scaffolding-independent-learning]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[ai-literacy-continuum-higher-education]]
-- [[ai-adoption-training-public-sector]]
-- [[scaffolding-critical-engagement-genai-minority-students]]
-- [[icap-cognitive-engagement-llm-agents]]
-- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler tool for metacognitive scaffolding during GenAI use
-- [[interactive-learning-dashboards-engagement]] — Interactive LAD with JoL self-assessment improves judgement calibration in CS course
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base: AI in K-12 Education
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer

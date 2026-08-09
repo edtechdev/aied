@@ -3,18 +3,11 @@ title: Affective Tutoring
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [affective-computing, intelligent-tutoring, adaptive-learning, scaffolding, k-12, higher-ed]
+tags: [affective-computing, intelligent-tutoring, adaptive-learning, scaffolding, k-12, higher-ed, llm, generative-ai, student-experience, ai-literacy]
 confidence: medium
-sources: [raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md, raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md]
 ---
 
-# Affective Tutoring
-
 > Integrating emotional awareness into AI tutoring systems can yield measurable pedagogical gains, but the same affective sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.^[[kar-mathbuddy-affective-math-tutoring-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
-
-## The Case For Affect-Aware Tutors
-
-### MathBuddy (Kar et al., 2025)
 
 MathBuddy dynamically models student affect using two modalities:
 
@@ -54,25 +47,48 @@ The authors argue that emotional risks are part of a broader pattern of **erosio
 
 Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the motivational-affective harm dimension. An affective tutor that is "too supportive" may suppress the frustration that drives productive struggle and self-regulation. See also [[llm-fallacy-misattribution]] — students may attribute emotional support to genuine relationship, reinforcing reliance.
 
-## Related Pages
-- [[affective-text-wearable-student-health]] — Ultra-brief affective prompts enrich physiological data interpretation at minimal burden
-- [[ecnuclaw-k12-personalized-companion]] — Emotion-aware profiles connect to affect detection strategies
-- [[multimodal-learning-genai]] — Multimodal emotion recognition (text + facial + audio) as part of engagement design
-- [[adaptive-learning-systems]] — Affect as an input signal for adaptive difficulty calibration
-- [[knowledge-tracing-irt]] — Combining affective and cognitive learner models
-- [[ai-tutor-safety-harms]] — Motivational-affective harms and parasocial dependency
-- [[llm-fallacy-misattribution]] — Emotional misattribution risk
-- [[metacognition]] — Affect-aware scaffolds that preserve vs. displace metacognitive monitoring
-- [[self-regulated-learning]] — Emotional self-regulation as a component of SRL
-- [[collaborative-ai-tutoring]] — Group-level affect and joint emotional states
-- [[pedagogical-llm-training]] — Should affective responsiveness be a training objective?
-- [[socratic-ai-dialogue]] — Socratic methods may produce stronger affective engagement than directive tutoring
-- [[principled-ai-education]] — Affective tutoring as augmentation vs. displacement of human capacity
+## Connected Concepts
 
-- [[engagement-assessment-video]] — Emotional dimension of engagement
-- [[empathy-coaching-chatbot]] — empathy effects in coaching chatbots
-- [[epistemic-emotions-collaborative-problem-solving]] — Ordered Network Analysis reveals structured persistence and transition patterns of confusion and fru
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-grading]]
+- [[automated-question-generation]]
 
-## Citation
+## Connected Articles
 
-- Kar et al. (2025). *MathBuddy: A Multimodal System for Affective Math Tutoring*. arXiv:2508.19993v2. [PDF](https://arxiv.org/pdf/2508.19993v2) - Favero et al. (2025). *Do AI tutors empower or enslave learners?* arXiv:2507.06878. [PDF](https://arxiv.org/pdf/2507.06878)
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM

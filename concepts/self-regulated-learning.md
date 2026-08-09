@@ -3,16 +3,11 @@ title: Self-Regulated Learning
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning]
+tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 confidence: high
-sources: [raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md, raw/papers/stanford-evidence-base-ai-k12-2026.md]
 ---
 
-# Self-Regulated Learning
-
 > Self-regulated learning (SRL) describes learners as active participants who can shape and develop their cognitive and behavioral actions in a successful way. AI tools can either scaffold SRL development or inadvertently short-circuit it by removing the regulatory demands that build expertise.^[[scheu-mobile-chatbot-journaling-motivation-2026]]^[[stanford-evidence-base-ai-k12-2026]]
-
-## Definition
 
 SRL is the process whereby learners actively manage their own learning through three interrelated phases:
 
@@ -69,35 +64,48 @@ For example:
 - **For AI policy:** Procurement criteria should ask whether a tool develops or displaces self-regulation
 - **For researchers:** Long-term studies measuring SRL outcomes (not just immediate performance) are essential
 
-## Citation
+## Connected Concepts
 
-(Karlsruhe, S.S.S.N.L.A.M., self-regulated, E.S.G.P., Education, S.E.A.I.J.O.E.T.I.H., their, G.I.P.S.O.S.W.S., 2006), B.C., & SRL, S.A.W.A.A.T.L.B.A.D. (2026). [*Self-Regulated Learning*](https://link.springer.com/content/pdf/10.1186/s41239-026-00589-7.pdf). International Journal of Educational Technology in Higher Education (Springer), 23:15, accepted 30 Ma
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-grading]]
 
-## Related Pages
--- [[genai-feedback-design-multisite-experiment]]
- [[agency-gap-ai-writing]] — Reactive designs make learner regulation visible
-- [[cross-subject-validity-delayed-start]] — Delayed start behavior as a cross-subject behavioral proxy for self-regulation and learning outcomes
-- **[[ai-assistance-reduces-persistence]]**: Causal evidence (N=1,222) that brief AI assistance reduces persistence and impairs unassisted performance — rapid emergence of over-reliance effects
-- [[ai-fatigue-academic-contexts]] — Motivational Disengagement dimension threatens self-regulated learning capacity
-- [[llm-automated-assessment-student-self-explanations]] — Automated scoring of self-explanations as an SRL support tool (2026)
-- [[xai-education-framework]]
-- [[teacher-student-agency-orchestration]]
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
-- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
-- [[cost-of-ethics-crisis-cs-ethics-education]] — Cost-of-Ethics Crisis: Beliefs, Decisions, and Justification...
-- [[ecnuclaw-k12-personalized-companion]] — Contextual dimension connects to regulatory skill development in dialogue
-- [[sequenced-ai-feedback-learning]] — Cao et al. RCT: autonomy-supportive sequenced feedback backfired — caution for SRL-aligned AI design
-- [[regulating-ai-tutor-adolescent-srl]] — Adolescents default to answer-seeking despite SRL intentions with AI tutor- [[learning-by-chatting-genai-impact]] — Learner agency and help-seeking in ChatGPT-mediated information seeking
-- [[generativism-learning-theory]] — Adaptive metacognition in Generativism builds on self-regulated learning theory
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[curiobot-llm-tutoring-exploratory-learning]] -- Curiosity-oriented LLM interventions (novelty, complexity, conflict, uncertainty) increased exploratory learner behaviors up to 2.4x — acting as a partially independent interaction-level mechanism.
-- [[epistemic-proactivity-math]] — epistemic proactivity in student-AI math interactions
-- [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission
-- [[q-learning-lab-rl-teaching]] — Observable learning process (2026-07-14)
-- [[informal-learning-everyday-human-llm-interaction]] — Informal Learning Emerges in Everyday Human-LLM Interaction
-- [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awarene
-- [[student-cheat-sheets-make-or-take]] — Students choose between self-created and instructor-provided cheat sheets based on trust, personaliz
-- [[genai-performance-vs-learning]] — SRL cycle disrupted by performance-only AI use- [[llm-reasoning-traces-metacognition]] — Metacognitive calibration requires active reasoning before AI exposure
-- [[metacognitive-learning-scenarios-taxonomy]] — Taxonomy operationalizes SRL progression from novice to expert
-- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler tool for metacognitive scaffolding during GenAI use
-- [[interactive-learning-dashboards-engagement]] — Elicit-style pedagogical agent improves self-assessment accuracy vs tell-style
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base: AI in K-12 Education
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer

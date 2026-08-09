@@ -3,41 +3,54 @@ title: Adaptive Learning
 created: 2026-05-26
 updated: 2026-07-27
 type: concept
-tags: [adaptive-learning, intelligent-tutoring, personalized-learning]
-sources: []
-confidence: low
+tags: [adaptive-learning, intelligent-tutoring, personalized-learning, llm, higher-ed, scaffolding, student-experience, generative-ai, k-12, learning-analytics]
+confidence: medium
 ---
-
-# Adaptive Learning
 
 Adaptive learning refers to educational technologies that dynamically adjust content, difficulty, pacing, or instructional approach based on individual learner performance, preferences, or needs. It is a core component of modern [[intelligent-tutoring]] systems.
 
-## Related Pages
-- [[ai-coaching-rl-skill-development]] — Reinforcement learning for adaptive coaching that balances guidance vs. autonomy in motor skill training
-- [[kt4eqg-personalized-question-generation]] — 7 of 8 papers in May 28 scan
-- [[metacognitive-learning-scenarios-taxonomy]] — 24 metacognitive scenarios mapped to adaptive learning tiers
-- [[codify-socratic-programming-tutor]] — Competency-driven adaptive difficulty and scaffolding in programming tutor
-- [[intelligent-tutoring]] — Intelligent tutoring systems
-- [[edtech-design-time-generative-ui]] -- Design-time GenUI with card-based semantic units embeds UDL and eliminates per-learner inference costs
-- [[astra-atco-training-simulator]] -- ASTRA uses autonomous AI sim-pilots for scalable air traffic control training; r...
-- [[learning-to-prompt-adaptive-tutoring]] -- Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
-- [[adaptive-pretesting-retention]] -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice — learner-directed AI study underperforms structured retrieval.
-- [[framing-5-percent-problem-teachers-persistence]] -- Teachers identify four dimensions of low persistence in adaptive math platforms (motivation, cognitive roadblocks, resilience, context) and prioritize diagnosis over aggregate metrics.
-- [[skill-acquisition-without-temporal-info]] -- A neural framework predicts next-skill acquisition from snapshot CDM data using pseudo-temporal ordering via inclusion relations among skill sets.
-- [[llm-item-difficulty-prediction]] — LLM-based item difficulty for adaptive systems
-- [[tactile-statistical-graphs-accessibility]] — adaptive learning systems
-- [[gaze-informed-ai-children]] — adaptive learning systems
-- [[ai-stem-bibliometric-trends]] — AI unlocking STEM education: Bibliometric trends
-- [[pattern-kc-programming-recommendation]] — Pattern-based KC programming recommendation
-- [[kutti-ai-voice-first-learning-companion]] — real-time struggle detection on commodity mobile hardware
-- [[llm-psychometric-calibration-cdp]] — CDP framework dramatically improves LLM-simulated examinee alignment with human ...
-- [[llm-misconception-difficulty-easy-trap]] — LLMs systematically underestimate misconception-driven item difficulty ('Easy Tr...
-- [[student-math-competence-clustering]] — 119K students across 13 UK exams: overall ability dominates skill clusters; simp...
-- [[llm-judged-helpfulness-pedagogy-signal]]
-- [[memdora-ai-spaced-repetition]]
-- [[ai-vocational-education-training-review]]
-- [[fair-explainable-edu-recommendations]]
-- [[deeptutor]]
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]] — related concept
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — related
-- [[precision-education-student-digital-twins-2026]] — precision education framework using AI-powered student digital twins
+## Connected Concepts
+
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-grading]]
+- [[automated-question-generation]]
+
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer
