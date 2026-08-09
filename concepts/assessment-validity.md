@@ -47,6 +47,7 @@ Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Bet
 - [[ai-tutoring]]
 - [[automated-grading]]
 - [[automated-question-generation]]
+- [[formative-assessment]]
 
 ## Connected Articles
 

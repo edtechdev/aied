@@ -23,6 +23,7 @@ confidence: low
 - [[professional-training]]
 - [[project-based-learning]]
 - [[reinforcement-learning]]
+- [[collaborative-learning]]
 
 ## Connected Articles
 - [[supplynet-visual-exploratory-learning]]
