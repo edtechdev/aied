@@ -9,21 +9,7 @@ confidence: low
 > **Language Learning** is a central concept in AI in education research, connected to 7 articles in this wiki. 
 
 ## Connected Concepts
-- [[ai-literacy]]
-- [[algorithmic-bias]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[automated-grading]]
-- [[bias-mitigation]]
-- [[educational-measurement]]
-- [[equity-in-ai-education]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[personalized-learning]]
-- [[professional-training]]
-- [[rag]]
+
 
 ## Connected Articles
 - [[genai-meta-analysis-programming-learning]]

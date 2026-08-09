@@ -11,10 +11,7 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[assessment-validity]]
-- [[confidence-aware-ai-assessment]]
-- [[educational-measurement]]
-- [[item-response-theory]]
+
 
 ## Connected Articles
 

@@ -34,21 +34,16 @@ Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*. A
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
+- [[higher-ed]]
+- [[llm]]
+- [[generative-ai]]
+- [[personalized-learning]]
+- [[automated-question-generation]]
 - [[ai-tutoring]]
-- [[assessment-validity]]
+- [[human-in-the-loop-ai]]
+- [[student-experience]]
+- [[rag]]
+- [[equity-in-ai-education]]
 
 ## Connected Articles
 

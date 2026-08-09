@@ -28,21 +28,18 @@ Xiao, R., Ye, R., et al. (2026). *Transforming GenAI Policy to Prompting Instruc
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[regulation]]
+- [[generative-ai]]
+- [[k-12-ai-education]]
+- [[pedagogical-llm-training]]
+- [[human-in-the-loop-ai]]
+- [[k-12]]
+- [[teacher-ai-competency]]
+- [[teacher-role]]
+- [[automated-question-generation]]
 
 ## Connected Articles
 

@@ -12,20 +12,13 @@ Research in this wiki explores equity through multiple lenses:
 - **School network reorganization under educational and spatial constraints using classical and quantum optimization:** This paper develops an optimization framework for school network reorganization that integrates geographic, administrative, and educational criteria into an Integer Linear Programming formulation.
 
 ## Connected Concepts
-- [[adaptive-learning]]
-- [[agentic-ai]]
-- [[agentic-ai]]
 - [[ai-education]]
-- [[ai-literacy]]
-- [[algorithmic-bias]]
-- [[automated-grading]]
-- [[bias-mitigation]]
-- [[dot-framework-survey]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
 - [[k-12]]
+- [[ethics]]
+- [[ai-literacy]]
+- [[faculty-development]]
+- [[teacher-ai-competency]]
+- [[ai-governance-education]]
 - [[learning-analytics]]
 
 ## Connected Articles

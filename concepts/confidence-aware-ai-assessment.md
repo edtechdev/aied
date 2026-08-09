@@ -12,6 +12,17 @@ confidence: medium
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
+- [[adaptive-prompt-routing]]
+- [[automated-grading]]
+- [[scaffolding]]
+- [[formative-assessment]]
+- [[personalized-learning]]
+- [[student-experience]]
+- [[k-12]]
+- [[llm]]
+- [[rag]]
+- [[assessment-validity]]
+- [[writing-education]]
 
 ## Connected Articles
 

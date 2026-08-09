@@ -9,21 +9,7 @@ confidence: low
 > **Active Learning** is a central concept in AI in education research, connected to 10 articles in this wiki. 
 
 ## Connected Concepts
-- [[ai-literacy]]
-- [[automated-grading]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[k-12-ai-education]]
-- [[learning-analytics]]
-- [[llm]]
-- [[pedagogical-llm-training]]
-- [[personalized-learning]]
-- [[professional-training]]
-- [[project-based-learning]]
-- [[reinforcement-learning]]
-- [[collaborative-learning]]
+
 
 ## Connected Articles
 - [[supplynet-visual-exploratory-learning]]

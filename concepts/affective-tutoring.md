@@ -50,20 +50,17 @@ Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the m
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
 - [[affective-computing]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
 - [[ai-literacy]]
 - [[ai-tutoring]]
+- [[ai-ed-evaluation]]
+- [[agentic-ai]]
+- [[ai-education]]
+- [[administrator]]
 - [[assessment-validity]]
-- [[automated-grading]]
-- [[automated-question-generation]]
+- [[over-reliance]]
+- [[llm]]
+- [[automated-assessment]]
 
 ## Connected Articles
 

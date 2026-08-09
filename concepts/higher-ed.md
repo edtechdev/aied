@@ -16,19 +16,18 @@ confidence: medium
 - **[[courseblueprint-adaptive-video-generation]]:** Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026)** — arXiv:2606.
 
 ## Connected Concepts
-- [[academic-integrity]]
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[agentic-ai]]
+- [[llm]]
+- [[generative-ai]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment]]
+- [[student-experience]]
+- [[scaffolding]]
+- [[formative-assessment]]
+- [[learning-analytics]]
+- [[rag]]
+- [[k-12]]
+- [[teacher-role]]
 - [[automated-grading]]
-- [[cs-education]]
-- [[edtech-platform]]
-- [[feedback-loop]]
-- [[faculty-development]]
+- [[metacognition]]
 
 ## Connected Articles
 - [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven ...

@@ -13,21 +13,7 @@ Research in this wiki explores cs education through multiple lenses:
 - **Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits:** This exploratory study investigates how undergraduates use  to debug malfunctioning analog circuits under exam conditions, identifying both promising  and critical limitations.
 
 ## Connected Concepts
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[bias-mitigation]]
-- [[computational-thinking]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[human-ai-collaboration]]
-- [[k-12]]
-- [[llm]]
-- [[ai-education]]
-- [[prompt-engineering]]
-- [[rag]]
-- [[regulation]]
-- [[reshaping-cs-education-genai]]
+
 
 ## Connected Articles
 - [[chat-debugging-llm-hardware-education-2026]]

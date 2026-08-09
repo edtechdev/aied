@@ -31,21 +31,18 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 
 ## Connected Concepts
 
+- [[llm]]
 - [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[generative-ai]]
+- [[scaffolding]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[andragogy]]
+- [[k-12]]
+- [[rag]]
+- [[learning-analytics]]
+- [[formative-assessment]]
+- [[knowledge-tracing]]
 
 ## Connected Articles
 

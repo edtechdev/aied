@@ -9,20 +9,16 @@ confidence: low
 > **Instructional Design** is a central concept in AI in education research, connected to 10 articles in this wiki. 
 
 ## Connected Concepts
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[computational-thinking]]
-- [[ethics]]
-- [[generative-ai]]
 - [[higher-ed]]
-- [[k-12]]
-- [[k-12-ai-education]]
-- [[llm]]
+- [[faculty-development]]
+- [[assessment-validity]]
+- [[ai-literacy]]
+- [[teacher-ai-competency]]
+- [[academic-integrity]]
+- [[scaffolding]]
+- [[ai-education]]
+- [[generative-ai]]
+- [[teacher-role]]
 
 ## Connected Articles
 - [[anvil-ai-educational-animations]]

@@ -18,18 +18,18 @@ Examines gender differences in AI literacy, safety awareness, and STEM career as
 - **[[hypergamification-game-engine-lms]]:** Araz Yusubov, Michael Bechtel, Tangiz Alizada** — arXiv preprint (2026).
 
 ## Connected Concepts
-- [[academic-integrity]]
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[collaborative-learning]]
-- [[cs-education]]
-- [[edtech-platform]]
-- engagement-metrics
-- [[equity]]
-- [[faculty-development]]
-- [[generative-ai]]
 - [[higher-ed]]
+- [[llm]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[scaffolding]]
+- [[learning-analytics]]
+- [[k-12]]
+- [[personalized-learning]]
+- [[teacher-role]]
+- [[rag]]
+- [[adaptive-learning]]
+- [[formative-assessment]]
 
 ## Connected Articles
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...

@@ -11,21 +11,18 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[affective-computing]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[ai-ed-evaluation]]
+- [[llm]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[student-experience]]
+- [[scaffolding]]
+- [[personalized-learning]]
+- [[k-12]]
 - [[ai-education]]
-- [[assessment-validity]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
-- [[computational-thinking]]
+- [[adaptive-learning]]
+- [[metacognition]]
 - [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[lifelong-learning]]
 
 ## Connected Articles
 

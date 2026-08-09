@@ -45,22 +45,18 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
+- [[llm]]
+- [[higher-ed]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[andragogy]]
-- [[assessment-validity]]
+- [[automated-grading]]
+- [[generative-ai]]
+- [[scaffolding]]
+- [[learning-analytics]]
+- [[k-12]]
+- [[student-experience]]
+- [[adaptive-learning]]
+- [[human-in-the-loop-ai]]
+- [[teacher-role]]
 
 ## Connected Articles
 

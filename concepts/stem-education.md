@@ -13,21 +13,11 @@ Research in this wiki explores stem education through multiple lenses:
 - **WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant:** Work-in-progress exploring LLMs as debugging assistants for physical hardware lab courses.
 
 ## Connected Concepts
-- [[adaptive-learning]]
-- [[agentic-ai]]
-- [[ai-education]]
 - [[ai-literacy]]
-- [[assessment-validity]]
-- [[computational-thinking]]
-- [[curriculum-design]]
-- [[educational-measurement]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
+- [[faculty-development]]
 - [[k-12]]
-- [[learning-analytics]]
-- [[llm]]
-- [[metacognition]]
+- [[teacher-ai-competency]]
+- [[ai-education]]
 
 ## Connected Articles
 - [[nuclear-diffusion-text-to-image-learning-2026]]

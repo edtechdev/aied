@@ -28,15 +28,7 @@ Knowledge graphs connect to [[domain-modeling]] (defining what to teach), [[curr
 
 ## Connected Concepts
 
-- [[knowledge-tracing]]
-- [[student-modeling]]
-- [[adaptive-learning]]
-- [[domain-modeling]]
-- [[curriculum-design]]
-- [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[llm]]
-- [[generative-ai]]
+
 
 ## Connected Articles
 

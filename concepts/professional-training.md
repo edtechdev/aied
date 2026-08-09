@@ -11,21 +11,18 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
+- [[llm]]
+- [[generative-ai]]
+- [[higher-ed]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[andragogy]]
+- [[formative-assessment]]
+- [[ai-education]]
+- [[rag]]
+- [[adaptive-learning]]
+- [[scaffolding]]
+- [[lifelong-learning]]
+- [[regulation]]
+- [[ethics]]
 
 ## Connected Articles
 

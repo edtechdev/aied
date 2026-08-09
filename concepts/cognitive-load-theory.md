@@ -9,21 +9,18 @@ confidence: medium
 > **Cognitive Load Theory** is a central concept in AI in education research, connected to 7 articles in this wiki. 
 
 ## Connected Concepts
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-governance-education]]
+- [[metacognition]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[cognitive-offloading-llm-synthesis-writing]]
-- [[curriculum-design]]
+- [[zone-of-proximal-development]]
+- [[scaffolding]]
+- [[llm]]
 - [[desirable-difficulties]]
-- [[faculty-development]]
-- [[formative-assessment]]
+- [[self-regulated-learning]]
 - [[generative-ai]]
+- [[over-reliance]]
+- [[student-experience]]
+- [[pedagogical-llm-training]]
+- [[human-in-the-loop-ai]]
 
 ## Connected Articles
 - [[kim-llm-fallacy-misattribution-2026]]

@@ -9,21 +9,11 @@ confidence: low
 > **Cognitive Offloading** is a central concept in AI in education research, connected to 11 articles in this wiki. 
 
 ## Connected Concepts
-- [[affective-computing]]
-- [[over-reliance]]
-- [[ai-education]]
-- [[ai-governance-education]]
 - [[ai-literacy]]
-- [[cognitive-load-theory]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
+- [[collaborative-learning]]
 - [[k-12]]
-- [[llm]]
-- [[metacognition]]
-- [[pedagogical-safety]]
-- [[rag]]
-- [[regulation]]
+- [[ai-education]]
+- [[writing-education]]
 
 ## Connected Articles
 - [[code-review-genai-cs1]]
