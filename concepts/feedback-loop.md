@@ -6,14 +6,33 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-> **Feedback Loop** — a key concept in AI in education research. Explored across 24 articles in this wiki.
-
-Research themes include:
-- Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-- ## The Reallocation Effect — Brazil Essay Grading RCT
-- AI-generated feedback was experienced as acceptable and supportive, comparable to teacher feedback.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]
+> **Feedback Loop** is a central concept in AI in education research, connected to 24 articles in this wiki. 
 
 ## Connected Concepts
+- [[affective-computing]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-literacy]]
+- [[automated-grading]]
+- [[bias-mitigation]]
+- [[ethics]]
+- [[formative-assessment]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[human-in-the-loop-ai]]
+- [[k-12]]
+- [[knowledge-tracing]]
+- [[learning-analytics]]
+- [[llm]]
 
 ## Connected Articles
-
+- [[cstutorbench-slm-tutors]]
+- [[eduagentbench-agent-teaching-benchmark]]
+- [[sycophantic-ai-social-interaction-2026]]
+- [[llm-diverse-explanations-programming]]
+- [[ai-changing-teaching-workflows]]
+- [[bloom-aligned-educational-control-llms]]
+- [[learning-engagement-assistant-lea]]
+- [[automated-presentation-coaching]]
+- [[ai-learning-assistants-higher-ed-large-scale]]
+- [[ai-generated-feedback-higher-ed]]

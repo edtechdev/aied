@@ -6,15 +6,32 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-> **Instructional Design** — a key concept in AI in education research. Explored across 10 articles in this wiki.
-
-Research themes include:
-- The review identifies four design elements that distinguish effective interventions:
-- **Authors:** YoungHoon Jeon, Suwan Kim, Haein Son, Sookbun Lee, Yeil Jeong, Unggi Lee · arXiv:2602.10620 · 1,017 test scenarios
-- **Authors:** (SEFI 2025 Proceedings) · Presented at the 2025 SEFI Annual Conference
-- **Authors:** Kar et al. (ITU-NLP) · **Venue:** EMNLP 2025 Demo Track · **Code:** github.com/ITU-NLP/MathBuddy
+> **Instructional Design** is a central concept in AI in education research, connected to 10 articles in this wiki. 
 
 ## Connected Concepts
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[computational-thinking]]
+- [[ethics]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[k-12]]
+- [[k-12-ai-education]]
+- [[llm]]
 
 ## Connected Articles
-
+- [[anvil-ai-educational-animations]]
+- [[genai-marketing-education-roles-2026]]
+- [[llm-intervention-design-cs-review]]
+- [[jeon-isd-agent-bench-2026]]
+- [[adhd-video-segmentation-computing-education]]
+- [[concept-catalyst-engineering-scaffolds]]
+- [[hingle-collaborative-ai-literacy-2025]]
+- [[kar-mathbuddy-affective-math-tutoring-2025]]
+- [[calibrating-trustworthiness-llm-education-2026]]
+- [[didactical-teacher-assistant-dimensional-modeling]]

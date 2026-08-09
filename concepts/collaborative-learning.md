@@ -6,14 +6,28 @@ type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
 ---
-> **Collaborative Learning** — a key concept in AI in education research. Explored across 6 articles in this wiki.
-
-Research themes include:
-- **Authors:** Anahita Golrang, Kshitij Sharma, Simon Dehaen, Olga Viberg · arXiv:2605.02703 · Within-subjects experiment with 26 pair-programming dyads (52 CS/Engineering students)
-- **Authors:** (SEFI 2025 Proceedings) · Presented at the 2025 SEFI Annual Conference
-- This taxonomy connects to the  literature's ongoing tension between model complexity and interpretability.
+> **Collaborative Learning** is a central concept in AI in education research, connected to 6 articles in this wiki. 
 
 ## Connected Concepts
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[bias-mitigation]]
+- [[equity-in-ai-education]]
+- [[higher-ed]]
+- [[k-12]]
+- [[k-12-ai-education]]
+- [[learning-analytics]]
+- [[llm]]
 
 ## Connected Articles
-
+- [[epistemic-emotions-collaborative-problem-solving]]
+- [[golrang-propact-pair-programming-2026]]
+- [[teacher-student-agency-orchestration]]
+- [[neurodivergent-computing-students]]
+- [[hingle-collaborative-ai-literacy-2025]]
+- [[xai-education-framework]]

@@ -5,14 +5,38 @@ updated: 2026-08-09
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, cs-education]
 confidence: low
----> **CS Education** — a key concept in AI in education research, explored across 27 articles in this wiki. 
+---
+> **CS Education** is a central concept in AI in education research, connected to 26 articles in this wiki. 
 
-Connected research includes:
-  - This exploratory study investigates how undergraduates use [[llm|LLMs]] to debug malfunctioning analog circuits under exam conditions, identifying both promising [[human-ai-collaboration|collaborative.
+Research in this wiki explores cs education through multiple lenses:
+- **WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant:** Work-in-progress exploring LLMs as debugging assistants for physical hardware lab courses.
+- **Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits:** This exploratory study investigates how undergraduates use  to debug malfunctioning analog circuits under exam conditions, identifying both promising  and critical limitations.
 
 ## Connected Concepts
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[bias-mitigation]]
+- [[computational-thinking]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[human-ai-collaboration]]
+- [[k-12]]
+- [[llm]]
+- [[llm-in-education]]
+- [[prompt-engineering]]
+- [[rag]]
+- [[regulation]]
+- [[reshaping-cs-education-genai]]
 
 ## Connected Articles
-
-
-
+- [[chat-debugging-llm-hardware-education-2026]]
+- [[chat-debugging-human-ai-collaboration-circuits]]
+- [[anvil-ai-educational-animations]]
+- [[cstutorbench-slm-tutors]]
+- [[data-annotations-pedagogical-hints]]
+- [[visual-query-tracer-declarative-logic-learning]]
+- [[prompt-problems-nl-programming-mistakes]]
+- [[student-perception-ai-use-collaboration]]
+- [[trio-ethnography-llm-programming-education]]
+- [[llm-intervention-design-cs-review]]

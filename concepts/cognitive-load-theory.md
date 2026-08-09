@@ -6,11 +6,30 @@ type: concept
 tags: []
 confidence: medium
 ---
+> **Cognitive Load Theory** is a central concept in AI in education research, connected to 7 articles in this wiki. 
 
-> **Cognitive load theory** — the limits of working memory in instruction — is the theoretical lens for much wiki work on AI scaffolding: [[concept-catalyst-engineering-scaffolds]], [[rethinking-scaffolding-llm-tutors]], and [[cognitive-offloading]] show AI can either reduce extraneous load or bypass the germane load that produces learning.
+## Connected Concepts
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-governance-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[cognitive-offloading-llm-synthesis-writing]]
+- [[curriculum-design]]
+- [[desirable-difficulties]]
+- [[faculty-development]]
+- [[formative-assessment]]
+- [[generative-ai]]
 
 ## Connected Articles
-
-- [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
-- [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
+- [[kim-llm-fallacy-misattribution-2026]]
+- [[favero-critical-ai-tutors-empower-enslave-2025]]
+- [[authentic-assessment]]
+- [[finkelstein-principled-ai-education-2025]]
+- [[stanford-evidence-base-ai-k12-2026]]
+- [[tutoring-specific-vs-general-ai]]
+- [[socraticode-k12-programming-tutor]]
