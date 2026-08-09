@@ -11,7 +11,6 @@ confidence: high
 > Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study **Sun et al. (2026)** — Multiple institutions. arXiv cs.CY.
 
 Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study
-**Sun et al. (2026)** — Multiple institutions. arXiv cs.CY.
 
 ## Summary
 

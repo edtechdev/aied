@@ -10,8 +10,6 @@ confidence: high
 
 > **Naomi E. Winstone, Karen Gravett, Margaret Bearman, Christy Noble, Lasse X Jensen, Anna Jones & Kelli Nicola-Richmond (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 911–927. doi:10.1080/02602938.2026.2643333.
 
-**Naomi E. Winstone, Karen Gravett, Margaret Bearman, Christy Noble, Lasse X Jensen, Anna Jones & Kelli Nicola-Richmond (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 911–927. doi:10.1080/02602938.2026.2643333.
-
 ## Summary
 
 A conceptual/position paper arguing that feedback in an age of GenAI must be understood as **"matters of care"** — ethical, relational practices rather than information transmission. It builds on a ten-principle **Manifesto for Feedback in the Age of GenAI** (Winstone et al. 2025, Copenhagen Feedback Symposium) and distils **four core values** for integrating GenAI into a multimodal feedback landscape: (1) feedback processes should support **meaning-making**, (2) build **educative relationships**, (3) be **trustworthy**, and (4) be respected as a **professional craft**.^[raw/papers/tandf-2026-care-full-feedback-genai.md]

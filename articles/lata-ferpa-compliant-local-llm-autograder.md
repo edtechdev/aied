@@ -11,7 +11,6 @@ confidence: high
 > LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework **Rodríguez (2026)** — Oregon State University. Submitted to Computers & Education.
 
 LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
-**Rodríguez (2026)** — Oregon State University. Submitted to Computers & Education.
 
 ## Summary
 

@@ -12,8 +12,6 @@ confidence: high
 
 # Student Effort Measurement via Response-Time Propensities
 
-**Conrad Borchers, Lijin Zhang, Kexin Yang et al. (2026)** — Response-time analysis for student effort during problem solving.
-
 ## Key Findings
 
 Adaptive learning systems produce substantial learning gains, yet many students engage too briefly or superficially to benefit. This paper addresses the central challenge of **measuring student effort** during multi-step problem solving using response-time propensities.^[raw/papers/2605.08943.md]

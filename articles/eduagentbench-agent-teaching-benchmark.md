@@ -11,7 +11,6 @@ confidence: medium
 > Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows **Chen et al. (2026)** — Multiple institutions. Under review.
 
 Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-**Chen et al. (2026)** — Multiple institutions. Under review.
 
 ## Summary
 

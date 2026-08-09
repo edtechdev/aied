@@ -11,7 +11,6 @@ confidence: high
 > Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks **Park, Orozco Vasquez, & Conati (2026)** — University of British Columbia. Accepted at EDM 2026.
 
 Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
-**Park, Orozco Vasquez, & Conati (2026)** — University of British Columbia. Accepted at EDM 2026.
 
 ## Summary
 

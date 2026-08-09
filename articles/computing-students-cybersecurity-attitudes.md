@@ -12,8 +12,6 @@ confidence: medium
 
 # Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity
 
-**Victor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026)** — Institution.
-
 Computing students show inconsistencies between confidence in cybersecurity knowledge and actual safe practices; educational interventions are needed to close the gap.
 
 ## Synthesis
