@@ -1,15 +1,16 @@
 ---
-title: Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
+title: "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes"
 created: 2026-06-10
 updated: 2026-06-10
-type: concept
-tags: [generative-ai, llm, ai-literacy, policy-maker, higher-ed, student-experience, intelligent-tutoring, scaffolding, k-12, stem-education]
+type: article
+tags: [k-12, adaptive-learning, personalized-learning, formative-assessment, intelligent-tutoring, edtech-platform, llm, higher-ed, generative-ai, student-experience]
 confidence: medium
 ---
 
-**Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu et al.** — cs.IR, cs.AI, cs.HC
+**Misan Paul Etchie, Taiwo Olutosin** — cs.CY, cs.AI, cs.HC
 
-This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS), which examined how GenAI is reshaping academic search systems and research practices. Three thematic clusters emerged: foundations and principles (guiding theories, design principles for human-centered GenAI-enhanced search), applications and opportunities, and search-as-learning — the idea that academic search systems should foster higher-order cognitive processes including synthesis, critical evaluation, and knowledge construction. The workshop emphasized transparency, credibility, research integrity, and long-term scholarly needs. The 'search-as-learning' theme is most directly relevant to [[ai-literacy]] and [[ai-education]] domains, as it reframes academic search not merely as information retrieval but as a learning activity. This connects to [[formative-assessment]] and [[self-regulated-learning]] research exploring how AI-mediated research tools shape student learning processes.
+This paper proposes an AI-integrated LMS designed specifically for middle school instruction, addressing the gap between current LMS platforms (which function as workflow tools) and the need for real-time instructional support during the critical middle-school learning window. Key features include policy-gated AI assistance (bounded AI to avoid [[over-reliance]]), formative feedback and hinting during practice, spaced review and adaptive practice recommendations, and teacher dashboards for misconception patterns. The system is designed with privacy-first architecture including data minimization, age-appropriate response constraints, auditable logs, and role-based access control. The proposed longitudinal study tracks students from middle school through high school into post-high school pathways, linking fine-grained learning traces to institutional outcomes. This design study is complementary to [[intelligent-tutoring]] systems research and [[personalized-learning]] implementations in K-12 settings.},
+The emphasis on bounded AI support — rather than open-ended tutoring — distinguishes this approach from systems like Khan Academy's Khanmigo and reflects pedagogical concerns about [[scaffolding]] versus answer-giving in K-12 AI tools.
 
 ## Connected Concepts
 
@@ -27,7 +28,7 @@ This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Sea
 - [[ai-literacy]]
 - [[ai-tutoring]]
 - [[assessment-validity]]
-- [[automated-assessment]]
+- [[automated-grading]]
 
 ## Connected Articles
 
@@ -42,17 +43,17 @@ This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Sea
 - [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
 - [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 - [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
 - [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
 - [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
-- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
 - [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-learning-transfer]] — AI Learning Transfer
