@@ -9,21 +9,7 @@ confidence: low
 > **Feedback Loop** is a central concept in AI in education research, connected to 24 articles in this wiki. 
 
 ## Connected Concepts
-- [[affective-computing]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[ai-literacy]]
-- [[automated-grading]]
-- [[bias-mitigation]]
-- [[ethics]]
-- [[formative-assessment]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[human-in-the-loop-ai]]
-- [[k-12]]
-- [[knowledge-tracing]]
-- [[learning-analytics]]
-- [[llm]]
+
 
 ## Connected Articles
 - [[cstutorbench-slm-tutors]]

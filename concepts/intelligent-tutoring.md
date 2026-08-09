@@ -38,18 +38,17 @@ The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor)
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[adaptive-learning]]
 - [[knowledge-tracing]]
+- [[llm]]
 - [[student-modeling]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- productive-struggle
-- [[feedback-loop]]
-- [[adaptive-learning]]
-- [[socratic-method]]
-- [[cognitive-load-theory]]
-- [[zone-of-proximal-development]]
-- [[help-seeking]]
+- [[personalized-learning]]
+- [[generative-ai]]
+- [[learning-analytics]]
+- [[edtech-platform]]
+- [[ai-education]]
+- [[multimodal]]
+- [[ai-governance-education]]
 
 ## Connected Articles
 

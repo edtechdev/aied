@@ -13,13 +13,18 @@ Research themes include:
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[ai-education]]
 - [[andragogy]]
-- design-guidelines
-- educational-technology
-- [[ethics]]
-- human-computer-interaction
+- [[over-reliance]]
+- [[ai-tutoring]]
+- [[administrator]]
+- [[ai-literacy]]
+- [[ai-ed-evaluation]]
+- [[adaptive-learning]]
+- [[agentic-ai]]
+- [[affective-tutoring]]
+- [[affective-computing]]
+- [[higher-ed]]
 
 ## Connected Articles
 

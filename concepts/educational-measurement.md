@@ -12,6 +12,17 @@ confidence: medium
 ## Connected Concepts
 
 - [[assessment-validity]]
+- [[generative-ai]]
+- [[socratic-method]]
+- [[socratic-ai-dialogue]]
+- [[learning-analytics]]
+- [[computational-thinking]]
+- [[higher-ed]]
+- [[personalized-learning]]
+- [[ai-literacy]]
+- [[student-experience]]
+- [[professional-training]]
+- [[constructivist]]
 
 ## Connected Articles
 

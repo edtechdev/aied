@@ -14,5 +14,5 @@ Research themes include:
 
 ## Connected Concepts
 
-## Connected Articles
+
 

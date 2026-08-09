@@ -23,16 +23,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 ## Connected Concepts
 
-- [[ai-literacy]]
-- [[over-reliance]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[socratic-method]]
-- [[over-reliance]]
-- [[academic-integrity]]
-- [[prompt-engineering]]
-- [[higher-ed]]
-- [[k-12]]
+
 
 ## Connected Articles
 

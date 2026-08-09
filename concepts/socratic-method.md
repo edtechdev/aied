@@ -36,15 +36,17 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 ## Connected Concepts
 
 - [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[ai-tutoring]]
-- productive-struggle
-- [[critical-thinking]]
-- [[over-reliance]]
-- [[over-reliance]]
 - [[learning-analytics]]
-- [[cognitive-offloading]]
-- [[feedback-loop]]
+- [[computational-thinking]]
+- [[generative-ai]]
+- [[socratic-ai-dialogue]]
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
+- [[educational-measurement]]
+- [[personalized-learning]]
+- [[formative-assessment]]
+- [[knowledge-tracing]]
 
 ## Connected Articles
 

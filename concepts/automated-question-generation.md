@@ -34,21 +34,18 @@ Wei, Y., Stamper, J., et al. (2025). *Generate-Then-Validate: A Novel Question G
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
+- [[llm]]
+- [[generative-ai]]
+- [[personalized-learning]]
 - [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
+- [[higher-ed]]
+- [[adaptive-learning]]
+- [[automated-grading]]
+- [[formative-assessment]]
 - [[ai-education]]
-- [[ai-literacy]]
+- [[rag]]
 - [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-assessment]]
+- [[ai-literacy]]
 
 ## Connected Articles
 

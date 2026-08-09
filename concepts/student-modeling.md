@@ -3,40 +3,50 @@ title: Student Modeling
 created: 2026-08-09
 updated: 2026-08-09
 type: concept
-tags: [ai-education, generative-ai, higher-ed, student-experience]
-confidence: low
+tags: [student-modeling, knowledge-tracing, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring]
+confidence: high
 ---
-> **Student Modeling** is a central concept in AI in education research, connected to 13 articles in this wiki. 
 
-Research in this wiki explores student modeling through multiple lenses:
-- **Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning:** This paper introduces an evidence-grounded multimodal pipeline that constructs provenance-rich  from lecture videos by integrating speech transcripts, slide OCR, and vision-language model analysis.
-- **ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs:** ProPRL advances  by going beyond conventional link prediction to adaptively integrate complementary educational evidence from concept-resource hypergraphs and directed learning-behavior graphs.
+> **Student modeling** — the broad practice of representing learner characteristics including knowledge, skills, affective states, engagement, and preferences in computational form. Student modeling is the foundation upon which adaptive and personalized AI in education systems are built.
+
+Student modeling is the umbrella term encompassing all ways of representing learners in AI systems. Where [[knowledge-tracing]] specifically tracks cognitive knowledge over time, student modeling includes affective modeling, engagement tracking, learning style inference, and preference learning. A complete student model answers: *who is this learner, what do they know, how do they feel, and what do they need next?*
+
+### Dimensions of student modeling
+
+- **Cognitive modeling:** [[knowledge-tracing]] and [[cognitive-diagnosis]] systems track what students know and their skill mastery
+- **Affective modeling:** [[affective-computing]] and [[affective-tutoring]] detect and respond to student emotions and motivation
+- **Behavioral modeling:** [[learning-analytics]] systems infer engagement patterns from clickstream and interaction data
+- **Proficiency modeling:** [[personalized-learning]] and [[adaptive-learning]] platforms use student models to sequence content
+
+### LLM-era student modeling
+
+Recent advances use [[llm|LLMs]] for richer student modeling. The [[xie-hillm-cd-2026|HiLLM-CD framework]] represents students as proficiency trees, while [[multimodal-knowledge-graph-educational-reasoning|multimodal approaches]] construct evidence-grounded knowledge representations from diverse data sources. LLMs enable automated model construction from educational text, reducing reliance on expert annotation.
+
+### Connections to other concepts
+
+Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[personalized-learning]] (for content sequencing), and [[learning-analytics]] (for dashboards and interventions). It connects fundamentally to [[knowledge-tracing]] for cognitive tracking and to [[adaptive-learning]] for system adaptation.
 
 ## Connected Concepts
+
+- [[knowledge-tracing]]
 - [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
+- [[ai-education]]
+- [[generative-ai]]
+- [[personalized-learning]]
+- [[llm]]
+- [[intelligent-tutoring]]
+- [[learning-analytics]]
+- [[cognitive-diagnosis]]
 - [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
+- [[formative-assessment]]
+- [[student-experience]]
 
 ## Connected Articles
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[proprl-prerequisite-relation-learning]]
-- [[correct-answer-trap-misconceptions]]
-- [[skill-acquisition-without-temporal-info]]
-- [[at-risk-students-ml-prediction]]
-- [[educlaw-bench-pedagogical-llm-agents-2026]]
-- [[knowledge-gap-detection-ai-tas]]
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[llm-item-difficulty-prediction]]
+
+- [[xie-hillm-cd-2026]] — HiLLM-CD: Hierarchical Cognitive Diagnosis
+- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal KG for Educational Reasoning
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: Pedagogical LLM Agent Benchmark
+- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
+- [[knowledge-gap-detection-ai-tas]] — Knowledge Gap Detection with AI TAs
+- [[correct-answer-trap-misconceptions]] — Correct Answer Trap and Misconceptions
+- [[llm-item-difficulty-prediction]] — LLM Item Difficulty Prediction

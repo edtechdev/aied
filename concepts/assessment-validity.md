@@ -32,22 +32,18 @@ Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Bet
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
 - [[automated-grading]]
-- [[automated-question-generation]]
+- [[ai-ed-evaluation]]
+- [[llm]]
+- [[administrator]]
+- [[ai-tutoring]]
+- [[adaptive-learning]]
+- [[affective-tutoring]]
 - [[formative-assessment]]
+- [[higher-ed]]
+- [[over-reliance]]
+- [[agentic-ai]]
 
 ## Connected Articles
 

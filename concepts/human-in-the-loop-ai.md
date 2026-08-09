@@ -36,21 +36,18 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
+- [[higher-ed]]
+- [[formative-assessment]]
+- [[generative-ai]]
+- [[llm]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[andragogy]]
+- [[automated-grading]]
+- [[ai-education]]
+- [[scaffolding]]
+- [[adaptive-learning]]
+- [[rag]]
+- [[metacognition]]
+- [[learning-analytics]]
 
 ## Connected Articles
 

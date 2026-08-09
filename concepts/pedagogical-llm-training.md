@@ -83,21 +83,18 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 
 ## Connected Concepts
 
+- [[llm]]
+- [[generative-ai]]
+- [[metacognition]]
 - [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
+- [[rag]]
 - [[ai-education]]
+- [[scaffolding]]
+- [[higher-ed]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[andragogy]]
+- [[human-in-the-loop-ai]]
+- [[personalized-learning]]
+- [[pedagogical-safety]]
 
 ## Connected Articles
 

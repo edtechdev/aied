@@ -9,21 +9,11 @@ confidence: low
 > **Collaborative Learning** is a central concept in AI in education research, connected to 6 articles in this wiki. 
 
 ## Connected Concepts
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[ai-education]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[bias-mitigation]]
-- [[equity-in-ai-education]]
-- [[higher-ed]]
+- [[cognitive-offloading]]
 - [[k-12]]
-- [[k-12-ai-education]]
-- [[learning-analytics]]
-- [[llm]]
-- [[active-learning]]
+- [[ai-education]]
+- [[writing-education]]
 
 ## Connected Articles
 - [[epistemic-emotions-collaborative-problem-solving]]

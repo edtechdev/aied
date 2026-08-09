@@ -15,21 +15,13 @@ Research themes include:
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
+- [[student-experience]]
+- [[llm]]
+- [[scaffolding]]
+- [[k-12]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[learning-analytics]]
 
 ## Connected Articles
 

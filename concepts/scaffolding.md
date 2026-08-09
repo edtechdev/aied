@@ -17,20 +17,18 @@ confidence: medium
 - **[[teachingcoach-chatbot-instructor-guidance]]:** Authors:** Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V.
 
 ## Connected Concepts
-- [[active-learning]]
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[collaborative-learning]]
-- [[cs-education]]
-- [[faculty-development]]
-- [[formative-assessment]]
+- [[llm]]
+- [[higher-ed]]
 - [[generative-ai]]
-- [[zone-of-proximal-development]]
-- productive-struggle
+- [[ai-literacy]]
+- [[student-experience]]
+- [[metacognition]]
+- [[k-12]]
+- [[formative-assessment]]
+- [[teacher-role]]
+- [[self-regulated-learning]]
+- [[personalized-learning]]
+- [[learning-analytics]]
 
 ## Connected Articles
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...

@@ -17,18 +17,18 @@ confidence: medium
 - **[[code-gen]]:** A dual-agent RAG-based system for generating and validating coding comprehension MCQs**, evaluated by 6 SMEs across 7 pedagogical dimensions (N=288 questions, 2,016 rating pairs).
 
 ## Connected Concepts
-- [[active-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[agentic-ai]]
-- [[ai-literacy]]
-- [[assessment]]
-- [[automated-assessment]]
-- benchmark
-- [[cs-education]]
-- [[faculty-development]]
-- [[feedback-loop]]
-- [[hallucination-risk]]
 - [[higher-ed]]
+- [[llm]]
+- [[ai-literacy]]
+- [[student-experience]]
+- [[scaffolding]]
+- [[rag]]
+- [[formative-assessment]]
+- [[teacher-role]]
+- [[ai-education]]
+- [[personalized-learning]]
+- [[k-12]]
+- [[metacognition]]
 
 ## Connected Articles
 - [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven ...

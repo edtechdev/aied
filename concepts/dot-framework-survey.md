@@ -44,21 +44,18 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[adult-learning]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- ai-co-intelligence
-- [[ai-ed-evaluation]]
+- [[ai-literacy]]
 - [[ai-education]]
-- [[ai-governance-education]]
-- [[ai-literacy]]
-- [[ai-literacy]]
-- [[ai-tutoring]]
-- [[andragogy]]
+- [[higher-ed]]
+- [[faculty-development]]
+- [[scaffolding]]
+- [[teacher-role]]
+- [[human-in-the-loop-ai]]
+- [[metacognition]]
+- [[generative-ai]]
+- [[bias-mitigation]]
+- [[regulation]]
+- [[learning-analytics]]
 
 ## Connected Articles
 

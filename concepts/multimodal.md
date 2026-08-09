@@ -14,5 +14,12 @@ Research themes include:
 
 ## Connected Concepts
 
-## Connected Articles
+- [[intelligent-tutoring]]
+- [[personalized-learning]]
+- [[edtech-platform]]
+- [[adaptive-learning]]
+- [[ai-education]]
+- [[generative-ai]]
+- [[learning-analytics]]
+- [[ai-governance-education]]
 

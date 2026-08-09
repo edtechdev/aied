@@ -66,21 +66,18 @@ For example:
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
-- [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
+- [[metacognition]]
+- [[scaffolding]]
+- [[higher-ed]]
+- [[llm]]
+- [[generative-ai]]
+- [[student-experience]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-grading]]
+- [[adaptive-learning]]
+- [[rag]]
+- [[formative-assessment]]
+- [[k-12]]
+- [[teacher-role]]
 
 ## Connected Articles
 

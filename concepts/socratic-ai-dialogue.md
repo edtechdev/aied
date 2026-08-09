@@ -49,21 +49,18 @@ Favero et al. (2025) caution that even Socratic AI can undermine agency if stude
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[adaptive-learning]]
-- [[adaptive-virtual-patient-psychotherapy-training]]
-- [[administrator]]
-- [[affective-computing]]
+- [[higher-ed]]
+- [[pedagogical-llm-training]]
 - [[affective-tutoring]]
-- [[agentic-ai]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
+- [[scaffolding]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-assessment]]
+- [[metacognition]]
+- [[llm]]
+- [[generative-ai]]
+- [[formative-assessment]]
+- [[adaptive-learning]]
+- [[k-12]]
+- [[learning-analytics]]
 
 ## Connected Articles
 
