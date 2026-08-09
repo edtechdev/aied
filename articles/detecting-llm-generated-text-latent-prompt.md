@@ -39,6 +39,8 @@ The rise of [[llm|LLM-generated content]] in educational settings creates an urg
 - [[academic-integrity]]
 - [[higher-ed]]
 
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 - [[llm-detecting-llm-generated-content-education]] — Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world

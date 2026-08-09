@@ -22,6 +22,7 @@ The paper proposes a **three-stage pedagogical pathway** — Perception → Comp
 - [[metacognition]]
 - [[scaffolding]]
 
+- [[personalized-learning]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

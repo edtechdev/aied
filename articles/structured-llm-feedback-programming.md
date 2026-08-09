@@ -21,6 +21,11 @@ This study provides empirical evidence on how LLM-generated feedback structure a
 - [[desirable-difficulties]]
 - [[socratic-questioning]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

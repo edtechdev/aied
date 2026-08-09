@@ -20,6 +20,9 @@ Results show MLLMs do **not** exhibit uniform SciVis literacy. Gemini is the str
 - [[generative-ai]]
 - [[higher-ed]]
 
+- [[llm]]
+- [[open-source]]
+- [[visualization]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

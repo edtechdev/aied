@@ -42,6 +42,10 @@ The gap between *capability* and *pedagogical utility* is analogous to the LLM m
 - [[formative-assessment]]
 - [[pedagogical-llm-training]]
 
+- [[ai-education]]
+- [[llm]]
+- [[pedagogical-safety]]
+- [[rag]]
 ## Connected Articles
 
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

@@ -21,6 +21,7 @@ This construct has significant implications for [[over-reliance]] research: AI f
 - [[self-regulated-learning]]
 - [[student-experience]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[ai-productivity-moderation]] — Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost

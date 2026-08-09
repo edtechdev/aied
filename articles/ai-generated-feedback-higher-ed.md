@@ -71,6 +71,8 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 - [[scaffolding]]
 - [[student-experience]]
 
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

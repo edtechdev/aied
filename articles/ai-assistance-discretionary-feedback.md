@@ -20,6 +20,8 @@ Practical implication: if deployed at scale, AI feedback scaffolding could be es
 - [[higher-ed]]
 - [[teacher-role]]
 
+- [[llm]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice

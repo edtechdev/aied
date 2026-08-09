@@ -28,6 +28,9 @@ For [[student-experience]] and [[benchmark]] development, this paper motivates a
 
 - [[student-experience]]
 
+- [[generative-ai]]
+- [[llm]]
+- [[pedagogical-safety]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

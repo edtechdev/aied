@@ -30,6 +30,8 @@ The findings advance understanding of how GenAI's sociolinguistic design feature
 - [[k-12]]
 - [[teacher-role]]
 
+- [[llm]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

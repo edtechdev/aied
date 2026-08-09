@@ -22,6 +22,7 @@ By grounding analysis in real user discourse rather than controlled experiments,
 - [[k-12]]
 - [[student-experience]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture

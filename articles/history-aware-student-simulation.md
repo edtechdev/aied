@@ -25,6 +25,9 @@ A key part of developing large language model (LLM)-powered, automated tutoring 
 - [[reinforcement-learning]]
 - [[student-experience]]
 
+- [[llm]]
+- [[personalized-learning]]
+- [[rag]]
 ## Connected Articles
 
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing

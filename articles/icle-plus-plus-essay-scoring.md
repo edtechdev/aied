@@ -21,6 +21,8 @@ Introduces ICLE++, a corpus of persuasive student essays annotated with both hol
 - [[formative-assessment]]
 - [[writing-education]]
 
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

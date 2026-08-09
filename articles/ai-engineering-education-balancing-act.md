@@ -19,6 +19,11 @@ Based on a questionnaire of 100 higher-education engineering students and a crit
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[k-12]]
+- [[llm]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

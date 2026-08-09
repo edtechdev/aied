@@ -42,6 +42,7 @@ Education AI is shifting from passive chatbots to **proactive agents** that init
 - [[scaffolding]]
 - [[zone-of-proximal-development]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

@@ -77,6 +77,11 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 - [[personalized-learning]]
 - [[self-regulated-learning]]
 
+- [[adaptive-learning]]
+- [[generative-ai]]
+- [[lifelong-learning]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

@@ -31,6 +31,10 @@ Large-scale analysis (N=11,406, 200 classes, 10 institutions) of GenAI tutor eng
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring

@@ -21,6 +21,11 @@ Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruc
 - [[ai-literacy]]
 - [[student-experience]]
 
+- [[adaptive-learning]]
+- [[ethics]]
+- [[higher-ed]]
+- [[llm]]
+- [[personalized-learning]]
 ## Connected Articles
 
 - [[engagement-assessment-video]] — Engagement Assessment in Video Learning

@@ -24,6 +24,7 @@ Epistemic thinking — understanding how knowledge is constructed and justified 
 - [[llm]]
 - [[scaffolding]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants

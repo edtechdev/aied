@@ -38,6 +38,8 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 - [[regulation]]
 - [[teacher-role]]
 
+- [[ai-education]]
+- [[k-12]]
 ## Connected Articles
 
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes

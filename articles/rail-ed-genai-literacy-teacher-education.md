@@ -31,6 +31,9 @@ Aligned with the UNESCO AI Competency Framework for Teachers and the OECD/Europe
 - [[generative-ai]]
 - [[teacher-role]]
 
+- [[higher-ed]]
+- [[k-12]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education

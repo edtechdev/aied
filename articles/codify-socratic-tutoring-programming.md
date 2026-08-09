@@ -46,6 +46,8 @@ Initial deployment in programming courses showed promising results for student e
 - [[scaffolding]]
 - [[socratic-ai-dialogue]]
 
+- [[generative-ai]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...

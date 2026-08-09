@@ -19,6 +19,10 @@ The study surfaces the central tension in [[over-reliance]]: generative AI offer
 - [[student-experience]]
 - [[writing-education]]
 
+- [[formative-assessment]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

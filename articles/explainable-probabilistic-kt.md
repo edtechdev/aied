@@ -20,6 +20,7 @@ The framework applies **transparent logical operations** over probabilistic stat
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[knowledge-tracing]]
 ## Connected Articles
 
 - [[expert-cognition-dashboard]] — Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education

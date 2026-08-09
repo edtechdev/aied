@@ -52,6 +52,9 @@ A qualitative study of **16 undergraduates** at a Hong Kong teacher-education un
 - [[metacognition]]
 - [[student-experience]]
 
+- [[generative-ai]]
+- [[regulation]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning

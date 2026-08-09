@@ -22,6 +22,9 @@ Nearly all prior research on LLMs in computing education has used text input, ye
 - [[ai-literacy]]
 - [[student-experience]]
 
+- [[generative-ai]]
+- [[llm]]
+- [[prompt-engineering]]
 ## Connected Articles
 
 - [[programming-its]] — Programming Intelligent Tutoring Systems

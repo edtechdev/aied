@@ -20,6 +20,7 @@ Structured scholarly dialogue among five sociolinguists examining how GenAI tool
 - [[generative-ai]]
 - [[writing-education]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

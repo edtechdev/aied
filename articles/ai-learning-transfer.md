@@ -83,6 +83,12 @@ This may mean:
 
 - [[ai-assistance-reduces-persistence]]
 
+- [[adaptive-learning]]
+- [[ai-tutoring]]
+- [[formative-assessment]]
+- [[k-12]]
+- [[llm]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

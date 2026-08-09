@@ -78,6 +78,7 @@ The study demonstrates that [[prompting-literacy]] can be taught effectively to 
 - [[prompting-literacy]]
 - [[student-experience]]
 
+- [[rag]]
 ## Connected Articles
 
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

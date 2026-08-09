@@ -52,6 +52,8 @@ Stage-appropriate authenticity: early units get constrained, well-scaffolded tas
 - [[metacognition]]
 - [[self-regulated-learning]]
 
+- [[generative-ai]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[authentic-assessment]] — Authentic Assessment

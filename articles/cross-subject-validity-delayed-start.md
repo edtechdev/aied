@@ -28,6 +28,8 @@ This study examines the [[student-modeling]] validity of **delayed start behavio
 - [[learning-analytics]]
 - [[self-regulated-learning]]
 
+- [[higher-ed]]
+- [[regulation]]
 ## Connected Articles
 
 - [[at-risk-students-ml-prediction]] — Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms

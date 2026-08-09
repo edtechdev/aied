@@ -21,6 +21,7 @@ Demonstrates that the effectiveness of AI-supported learning depends critically 
 - [[personalized-learning]]
 - [[scaffolding]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[ai-learning-transfer]] — AI Learning Transfer

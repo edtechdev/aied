@@ -29,6 +29,9 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[k-12]]
 - [[llm-in-education]]
 
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

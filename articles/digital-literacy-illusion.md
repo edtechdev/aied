@@ -29,6 +29,7 @@ With 76.5% of students demanding pedagogical reform toward hands-on, active tech
 - [[genai-minoritized-knowledges-disability]]
 - [[k-12]]
 
+- [[student-experience]]
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named

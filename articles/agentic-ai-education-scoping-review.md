@@ -78,6 +78,12 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 - [[open-source]]
 - [[student-experience]]
 
+- [[agentic-ai]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

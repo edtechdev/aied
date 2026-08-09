@@ -48,6 +48,7 @@ The two most frequent comparison themes were the nature of the feedback **inform
 - [[higher-ed]]
 - [[student-experience]]
 
+- [[generative-ai]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

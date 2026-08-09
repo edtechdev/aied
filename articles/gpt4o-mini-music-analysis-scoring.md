@@ -30,6 +30,9 @@ Operational use requires strategy-specific calibration, dimension-level validati
 - [[automated-grading]]
 - [[higher-ed]]
 
+- [[ai-ed-evaluation]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice

@@ -58,6 +58,7 @@ PsyScore integrates diagnostic assessment with instructional scaffolding through
 - [[scaffolding]]
 - [[writing-education]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

@@ -37,6 +37,8 @@ Codify represents the trend toward LLM-powered tutoring systems that combine con
 - [[scaffolding]]
 - [[self-regulated-learning]]
 
+- [[higher-ed]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

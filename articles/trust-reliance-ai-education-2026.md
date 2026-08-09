@@ -27,6 +27,9 @@ confidence: high
 - [[ai-literacy]]
 - [[metacognition]]
 
+- [[agentic-ai]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course

@@ -55,6 +55,12 @@ This aligns with the [[tutoring-specific-vs-general-ai|tutoring-specific design]
 
 - [[adaptive-learning-systems]]
 
+- [[adaptive-learning]]
+- [[ai-tutoring]]
+- [[higher-ed]]
+- [[knowledge-tracing]]
+- [[scaffolding]]
+- [[visualization]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT

@@ -29,6 +29,8 @@ Results indicate pedagogical scaffolding can transform how minoritized students 
 - [[prompt-engineering]]
 - [[scaffolding]]
 
+- [[generative-ai]]
+- [[k-12]]
 ## Connected Articles
 
 - [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI

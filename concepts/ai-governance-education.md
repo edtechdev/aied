@@ -1,5 +1,5 @@
 ---
-title: Ai Governance Education
+title: AI Governance Education
 created: 2026-05-29
 updated: 2026-05-29
 type: concept

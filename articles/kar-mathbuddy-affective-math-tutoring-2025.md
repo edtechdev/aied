@@ -48,6 +48,7 @@ Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) 
 - [[open-source]]
 - [[pedagogical-llm-training]]
 
+- [[rag]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

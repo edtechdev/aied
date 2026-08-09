@@ -25,6 +25,13 @@ This paper proposes a paradigm shift from Learning Analytics to Cognition Intell
 - [[adaptive-learning-systems]]
 - [[learning-analytics]]
 
+- [[adaptive-learning]]
+- [[ai-literacy]]
+- [[llm]]
+- [[scaffolding]]
+- [[student-experience]]
+- [[teacher-role]]
+- [[visualization]]
 ## Connected Articles
 
 - [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy

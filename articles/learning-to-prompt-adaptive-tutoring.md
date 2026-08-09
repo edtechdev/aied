@@ -59,6 +59,8 @@ Adaptive LLM tutoring with subject-aware prompt routing based on 14 pedagogical 
 - [[psychometrically-aware-ai]]
 - [[student-experience]]
 
+- [[llm]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review

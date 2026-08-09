@@ -21,6 +21,7 @@ The positive educator response to perceived value and usability suggests that AI
 - [[llm]]
 - [[teacher-role]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

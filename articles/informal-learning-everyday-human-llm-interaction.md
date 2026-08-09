@@ -21,6 +21,7 @@ The authors find that users do engage in learning-supporting behaviours — cogn
 - [[self-regulated-learning]]
 - [[student-experience]]
 
+- [[generative-ai]]
 ## Connected Articles
 
 - [[conversational-ai-informal-learning]] — Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning

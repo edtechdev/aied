@@ -139,6 +139,10 @@ The guide includes 15+ educator case studies spanning:
 - [[socratic-ai-dialogue]]
 - [[varga-atkins-educators-guide-multimodal-learning-genai-2025]]
 
+- [[ai-education]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

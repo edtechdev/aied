@@ -23,6 +23,9 @@ First systematic review of AI in vocational education (26 studies, 2015-2026). I
 - [[professional-training]]
 - [[simulation-based-learning]]
 
+- [[constructivist]]
+- [[generative-ai]]
+- [[regulation]]
 ## Connected Articles
 
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

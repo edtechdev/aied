@@ -36,6 +36,7 @@ The study highlights the need for [[higher-ed]] institutions to develop nuanced 
 - [[personalized-learning]]
 - [[student-experience]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[cross-cultural-student-perceptions-genai-computing]] — Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Ed...

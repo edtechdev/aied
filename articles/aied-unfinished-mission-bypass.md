@@ -22,6 +22,8 @@ This work connects to core wiki themes: [[over-reliance]] [[student-experience]]
 - [[student-experience]]
 - [[teacher-role]]
 
+- [[formative-assessment]]
+- [[generative-ai]]
 ## Connected Articles
 
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

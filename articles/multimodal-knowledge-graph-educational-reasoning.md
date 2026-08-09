@@ -51,6 +51,7 @@ The auditable construction method is the key contribution — unlike black-box k
 - [[adaptive-learning]]
 - [[ai-education]]
 
+- [[generative-ai]]
 ## Connected Articles
 - [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
 - [[learnopt-exam-cognitive-structure]] — LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs

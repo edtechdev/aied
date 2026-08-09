@@ -18,6 +18,7 @@ Siyan et al. (2026) conduct a carefully controlled experiment isolating the effe
 - [[personalized-learning]]
 - [[student-experience]]
 
+- [[affective-computing]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

@@ -20,6 +20,12 @@ Methodologically, trio-ethnography offers a low-cost reflective instrument for f
 - [[ai-literacy]]
 - [[scaffolding]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[regulation]]
+- [[student-experience]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

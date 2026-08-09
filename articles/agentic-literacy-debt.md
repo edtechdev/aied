@@ -22,6 +22,7 @@ confidence: high
 - [[k-12]]
 - [[llm]]
 
+- [[agentic-ai]]
 ## Connected Articles
 
 - [[digital-literacy-illusion]] — The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students

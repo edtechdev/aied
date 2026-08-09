@@ -18,6 +18,7 @@ Tseng et al. (2026) investigate human-machine alignment in LLM-based pretest que
 - [[formative-assessment]]
 - [[llm]]
 
+- [[teacher-role]]
 ## Connected Articles
 
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

@@ -23,6 +23,11 @@ As AI coding agents take over substantial implementation work, developers increa
 - [[professional-training]]
 - [[self-regulated-learning]]
 
+- [[agentic-ai]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants

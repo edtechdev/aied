@@ -21,6 +21,9 @@ This work connects to core wiki themes: [[language-learning]] [[higher-ed]] [[wr
 - [[higher-ed]]
 - [[writing-education]]
 
+- [[generative-ai]]
+- [[scaffolding]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

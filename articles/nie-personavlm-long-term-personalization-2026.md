@@ -38,6 +38,9 @@ However, educators and designers should be cautious about the [[correct-answer-t
 - [[ai-tutoring]]
 - [[personalized-learning]]
 
+- [[k-12]]
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review

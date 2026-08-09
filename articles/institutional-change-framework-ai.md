@@ -75,6 +75,7 @@ The framework was piloted through a faculty workshop series in a university phys
 - [[student-experience]]
 - [[teacher-role]]
 
+- [[ai-education]]
 ## Connected Articles
 
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries

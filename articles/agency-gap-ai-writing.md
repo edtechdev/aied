@@ -53,6 +53,9 @@ A randomized experiment (n = 79 medical/nursing students) examining how the **in
 - [[student-experience]]
 - [[writing-education]]
 
+- [[generative-ai]]
+- [[rag]]
+- [[regulation]]
 ## Connected Articles
 
 - [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...

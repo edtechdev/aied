@@ -22,6 +22,8 @@ Key open challenges include the scarcity of annotated presentation corpora, achi
 - [[professional-training]]
 - [[scaffolding]]
 
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

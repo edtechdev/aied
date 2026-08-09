@@ -1,5 +1,5 @@
 ---
-title: Posthumanist Ai Education
+title: Posthumanist AI Education
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

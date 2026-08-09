@@ -27,6 +27,10 @@ This model bridges [[agentic-workflows-education]] and practical classroom imple
 - [[project-based-learning]]
 - [[scaffolding]]
 
+- [[agentic-workflows]]
+- [[ai-tutoring]]
+- [[higher-ed]]
+- [[k-12]]
 ## Connected Articles
 
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants

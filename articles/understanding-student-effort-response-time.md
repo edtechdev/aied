@@ -29,6 +29,9 @@ The approach also relates to [[engagement-assessment-video]] and broader [[asses
 - [[adaptive-learning-systems]]
 - [[learning-analytics]]
 
+- [[adaptive-learning]]
+- [[computational-thinking]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[computational-thinking-ai-agent-creation]] — Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study

@@ -1,5 +1,5 @@
 ---
-title: Educational Policy Ai
+title: Educational Policy AI
 created: 2026-07-28
 updated: 2026-07-28
 type: concept

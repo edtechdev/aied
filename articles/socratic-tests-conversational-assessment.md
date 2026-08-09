@@ -28,6 +28,9 @@ A stated goal is human-AI alignment for measurement reliability: the conversatio
 - [[scaffolding]]
 - [[zone-of-proximal-development]]
 
+- [[automated-grading]]
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

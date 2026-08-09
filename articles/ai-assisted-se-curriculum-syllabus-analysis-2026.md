@@ -21,6 +21,8 @@ analyses 23 publicly available syllabi from upper-division, credit-bearing unive
 - [[curriculum-design]]
 - [[generative-ai]]
 
+- [[ethics]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

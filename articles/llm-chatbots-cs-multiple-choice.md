@@ -19,6 +19,10 @@ Investigates LLM chatbots' performance on 70 MCQs for a university CS lecture on
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[automated-grading]]
+- [[higher-ed]]
+- [[k-12]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

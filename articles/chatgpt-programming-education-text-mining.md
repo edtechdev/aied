@@ -20,6 +20,7 @@ The central finding is a **dual positioning**: ChatGPT is consistently framed as
 
 - [[student-experience]]
 
+- [[ai-education]]
 ## Connected Articles
 
 - [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?

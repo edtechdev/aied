@@ -17,6 +17,7 @@ Examines AI-powered personalized learning in elementary fraction instruction thr
 - [[k-12]]
 - [[personalized-learning]]
 
+- [[student-experience]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

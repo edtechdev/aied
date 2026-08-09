@@ -19,6 +19,9 @@ For [[intelligent-tutoring]] systems, this represents a significant methodologic
 - [[learning-analytics]]
 - [[open-source]]
 
+- [[adaptive-learning]]
+- [[knowledge-tracing]]
+- [[visualization]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT

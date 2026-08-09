@@ -16,6 +16,9 @@ MedGame transforms static clinical cases into structured, executable storytellin
 - [[generative-ai]]
 - [[llm]]
 
+- [[ai-tutoring]]
+- [[open-source]]
+- [[professional-training]]
 ## Connected Articles
 
 - [[genai-patient-education-transplant-handbooks]] — Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant...

@@ -127,6 +127,7 @@ Teacher ↔ AI System ↔ Student
 - [[metacognition]]
 - [[posthumanist-ai-education]]
 
+- [[rag]]
 ## Connected Articles
 
 - [[computational-thinking-ai-agent-creation]] — Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study

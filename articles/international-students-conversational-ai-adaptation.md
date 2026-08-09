@@ -33,6 +33,8 @@ The findings have implications for designing [[equity-in-ai-education]] interven
 - [[human-in-the-loop-ai]]
 - [[student-experience]]
 
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap

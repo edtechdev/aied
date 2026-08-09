@@ -27,6 +27,8 @@ The study contributes a transferable blind-verification protocol for evaluating 
 - [[teacher-ai-collaboration]]
 - [[teacher-role]]
 
+- [[ai-ed-evaluation]]
+- [[llm]]
 ## Connected Articles
 
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

@@ -46,6 +46,9 @@ The self-referential approach aligns with [[personalized-learning]] goals and th
 - [[personalized-learning]]
 - [[writing-education]]
 
+- [[ai-education]]
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

@@ -52,6 +52,7 @@ The paper identifies four gaps in existing frameworks:
 
 - [[professional-training]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning

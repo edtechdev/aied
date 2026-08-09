@@ -97,6 +97,8 @@ Civic education is a uniquely high-stakes domain for AI application because:
 - [[pedagogical-llm-training]]
 - [[teacher-ai-competency]]
 
+- [[k-12]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[educational-llm-alignment]] — Educational LLM Alignment

@@ -23,6 +23,7 @@ The work also extends [[teacher-role]] scholarship by showing that teachers can 
 - [[scaffolding]]
 - [[teacher-role]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

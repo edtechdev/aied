@@ -91,6 +91,9 @@ This paper directly informs several threads in the wiki:
 - [[metacognition]]
 - [[self-regulated-learning]]
 
+- [[generative-ai]]
+- [[scaffolding]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-learning-transfer]] — AI Learning Transfer

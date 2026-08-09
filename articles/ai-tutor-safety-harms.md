@@ -73,6 +73,12 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - [[self-regulated-learning]]
 - [[socratic-ai-dialogue]]
 
+- [[adaptive-learning]]
+- [[bias-mitigation]]
+- [[higher-ed]]
+- [[k-12]]
+- [[llm]]
+- [[pedagogical-safety]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

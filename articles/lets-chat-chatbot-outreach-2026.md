@@ -39,6 +39,8 @@ confidence: high
 - [[higher-ed]]
 - [[student-experience]]
 
+- [[llm]]
+- [[rag]]
 ## Connected Articles
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world

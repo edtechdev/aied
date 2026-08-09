@@ -1,5 +1,5 @@
 ---
-title: Institutional Ai Readiness
+title: Institutional AI Readiness
 created: 2026-05-29
 updated: 2026-05-29
 type: concept

@@ -20,6 +20,9 @@ Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Info
 - [[scaffolding]]
 - [[student-experience]]
 
+- [[curriculum-design]]
+- [[k-12]]
+- [[personalized-learning]]
 ## Connected Articles
 
 - [[genai-literacy-image-discrimination]] — Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images

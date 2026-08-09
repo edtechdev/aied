@@ -28,6 +28,7 @@ Generative AI challenges academic integrity not only by enabling students to del
 - [[student-experience]]
 - [[writing-education]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named

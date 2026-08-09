@@ -101,6 +101,11 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 - [[pedagogical-llm-training]]
 - [[student-experience]]
 
+- [[adaptive-learning]]
+- [[learning-analytics]]
+- [[mastery-learning]]
+- [[pedagogical-safety]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review

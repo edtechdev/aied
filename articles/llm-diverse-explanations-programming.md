@@ -17,6 +17,7 @@ Bernstein, Denny, Leinonen et al. (2026) investigate whether providing students 
 - [[scaffolding]]
 - [[student-experience]]
 
+- [[higher-ed]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

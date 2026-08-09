@@ -46,6 +46,8 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[pedagogical-llm-training]]
 - [[persistent-ai-agents-academic-research]]
 
+- [[agentic-ai]]
+- [[ai-education]]
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm

@@ -23,6 +23,8 @@ The flipped classroom component is particularly notable — it creates dedicated
 - [[student-experience]]
 - [[teacher-role]]
 
+- [[generative-ai]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

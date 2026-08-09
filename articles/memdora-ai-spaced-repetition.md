@@ -21,6 +21,7 @@ Presents Memdora, a cross-platform AI spaced repetition system that addresses li
 - [[generative-ai]]
 - [[mastery-learning]]
 
+- [[student-experience]]
 ## Connected Articles
 
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

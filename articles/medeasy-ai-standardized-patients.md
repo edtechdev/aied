@@ -20,6 +20,8 @@ MedEasy: Designing AI Standardized Patients for Clinical Consultation Training i
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[professional-training]]
 
+- [[generative-ai]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[genai-patient-education-transplant-handbooks]] — Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant...

@@ -19,6 +19,10 @@ Team-based projects are a cornerstone of engineering and computing courses, but 
 - [[learning-analytics]]
 - [[student-experience]]
 
+- [[higher-ed]]
+- [[llm]]
+- [[personalized-learning]]
+- [[rag]]
 ## Connected Articles
 
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base

@@ -26,6 +26,8 @@ The Evaluation phase closes the loop by connecting student performance data to i
 - [[teacher-ai-collaboration]]
 - [[teacher-role]]
 
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...

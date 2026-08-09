@@ -53,6 +53,7 @@ ProPRL's property-aware approach ensures that these systems respect the asymmetr
 - [[student-modeling]]
 - [[ai-education]]
 
+- [[llm]]
 ## Connected Articles
 - [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System

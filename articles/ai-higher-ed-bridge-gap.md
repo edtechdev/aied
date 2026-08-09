@@ -33,6 +33,7 @@ An eLetter response argued universities cannot bridge the gap alone — commerci
 - [[persistent-ai-agents-academic-research]]
 - [[regulation]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI

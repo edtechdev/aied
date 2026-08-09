@@ -49,6 +49,7 @@ Future work should extend the framework to multi-skill settings (where students 
 - [[item-response-theory]]
 - [[knowledge-tracing]]
 
+- [[rag]]
 ## Connected Articles
 
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions

@@ -44,6 +44,8 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 - [[ai-literacy-assessment-misalignment]]
 - [[k-12-ai-education]]
 
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries

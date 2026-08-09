@@ -32,6 +32,8 @@ While [[genai-assessment-governance|GenAI assessment governance]] focuses on *wh
 - [[metacognition]]
 - [[self-regulated-learning]]
 
+- [[scaffolding]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

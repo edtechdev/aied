@@ -21,6 +21,7 @@ The doubly robust property ensures the estimator remains unbiased if *either* th
 - [[personalized-learning]]
 - [[student-experience]]
 
+- [[knowledge-tracing]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT

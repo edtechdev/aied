@@ -17,6 +17,7 @@ The work extends [[special-education]] and [[special-education-ai]] by centring 
 
 - [[higher-ed]]
 
+- [[professional-training]]
 ## Connected Articles
 
 - [[neurodivergent-computing-students]] — I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning

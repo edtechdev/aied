@@ -22,6 +22,11 @@ CyberScholar demonstrates rubric-grounded [[retrieval-augmented-generation]] for
 - [[retrieval-augmented-generation]]
 - [[teacher-role]]
 
+- [[generative-ai]]
+- [[k-12]]
+- [[llm]]
+- [[rag]]
+- [[writing-education]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design

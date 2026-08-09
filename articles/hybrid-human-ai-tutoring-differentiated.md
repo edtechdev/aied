@@ -30,6 +30,8 @@ This study extends the taxonomy in [[tutoring-specific-vs-general-ai]] by showin
 - [[k-12-ai-education]]
 - [[personalized-learning]]
 
+- [[ai-education]]
+- [[k-12]]
 ## Connected Articles
 
 - [[ai-learning-transfer]] — AI Learning Transfer

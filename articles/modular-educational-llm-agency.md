@@ -26,6 +26,7 @@ The widespread adoption of AI chatbots in education will drastically change lear
 - [[student-experience]]
 - [[teacher-role]]
 
+- [[llm]]
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
