@@ -27,7 +27,7 @@ Aligned with the UNESCO AI Competency Framework for Teachers and the OECD/Europe
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[ai-literacy-in-higher-education]]
+- [[ai-literacy]]
 - [[generative-ai]]
 - [[teacher-role]]
 
