@@ -6,16 +6,31 @@ type: concept
 tags: []
 confidence: medium
 ---
-
-> **Zone of proximal development** — the learning range between solo and assisted performance — is the wiki's scaffolding lens: [[socratic-tests-conversational-assessment]], [[psyscore-essay-scoring-zpd-feedback]], [[rethinking-scaffolding-llm-tutors]], and [[concept-catalyst-engineering-scaffolds]] ask whether AI tutors calibrate assistance to each learner's ZPD ([[scaffolding]], [[educational-theory]]).
+> **Zone Of Proximal Development** is a central concept in AI in education research, connected to 8 articles in this wiki. 
 
 ## Connected Concepts
-
-- [[scaffolding]]
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-assessment]]
+- [[automated-grading]]
+- [[cognitive-load-theory]]
+- [[curriculum-design]]
+- [[desirable-difficulties]]
 
 ## Connected Articles
-
-- [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
-- [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
-- [[psyscore-essay-scoring-zpd-feedback]] — PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback
+- [[collaborative-ai-tutoring]]
+- [[authentic-assessment]]
+- [[finkelstein-principled-ai-education-2025]]
+- [[stanford-evidence-base-ai-k12-2026]]
+- [[agentic-ai-pedagogical-best-practice-2026]]
+- [[tutoring-specific-vs-general-ai]]
+- [[text-simplification-its]]
+- [[socratic-tests-conversational-assessment]]

@@ -5,17 +5,38 @@ updated: 2026-08-09
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
----> **Student Modeling** — a key concept in AI in education research, explored across 16 articles in this wiki. 
+---
+> **Student Modeling** is a central concept in AI in education research, connected to 13 articles in this wiki. 
 
-Connected research includes:
-  - This paper introduces an evidence-grounded multimodal pipeline that constructs provenance-rich [[knowledge-tracing|knowledge graphs]] from lecture videos by integrating speech transcripts, slide OCR, .
-  - This paper introduces an evidence-grounded multimodal pipeline that constructs provenance-rich [[knowledge-tracing|knowledge graphs]] from lecture videos by integrating speech transcripts, slide OCR, .
-  - ProPRL advances [[adaptive-learning|prerequisite relation learning]] by going beyond conventional link prediction to adaptively integrate complementary educational evidence from concept-resource hyper.
-  - ProPRL advances [[adaptive-learning|prerequisite relation learning]] by going beyond conventional link prediction to adaptively integrate complementary educational evidence from concept-resource hyper.
+Research in this wiki explores student modeling through multiple lenses:
+- **Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning:** This paper introduces an evidence-grounded multimodal pipeline that constructs provenance-rich  from lecture videos by integrating speech transcripts, slide OCR, and vision-language model analysis.
+- **ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs:** ProPRL advances  by going beyond conventional link prediction to adaptively integrate complementary educational evidence from concept-resource hypergraphs and directed learning-behavior graphs.
 
 ## Connected Concepts
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-ed-implementation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
 
 ## Connected Articles
-
-
-
+- [[multimodal-knowledge-graph-educational-reasoning]]
+- [[proprl-prerequisite-relation-learning]]
+- [[correct-answer-trap-misconceptions]]
+- [[skill-acquisition-without-temporal-info]]
+- [[at-risk-students-ml-prediction]]
+- [[educlaw-bench-pedagogical-llm-agents-2026]]
+- [[knowledge-gap-detection-ai-tas]]
+- [[huang-interpretable-knowledge-tracing-2026]]
+- [[zerkouk-comprehensive-review-its-2025]]
+- [[llm-item-difficulty-prediction]]
