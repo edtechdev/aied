@@ -24,6 +24,7 @@ confidence: medium
 - [[cognitive-load-theory]]
 - [[curriculum-design]]
 - [[desirable-difficulties]]
+- [[scaffolding]]
 
 ## Connected Articles
 - [[collaborative-ai-tutoring]]

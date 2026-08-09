@@ -29,6 +29,8 @@ confidence: medium
 - [[faculty-development]]
 - [[formative-assessment]]
 - [[generative-ai]]
+- [[zone-of-proximal-development]]
+- [[productive-struggle]]
 
 ## Connected Articles
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...
