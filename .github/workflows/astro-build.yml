@@ -23,4 +23,4 @@ jobs:
           echo "Concepts built: $(find dist/concepts -name 'index.html' | wc -l)"
           echo "Tag pages built: $(find dist/tags -name 'index.html' | wc -l)"
           test -f dist/index.html
-          test -f dist/search-index.json
+          test -f dist/pagefind/pagefind-entry.json
