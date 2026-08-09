@@ -1,0 +1,24 @@
+name: Build & Verify
+
+on:
+  push:
+    branches: [astro]
+  pull_request:
+    branches: [astro]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: 'npm'
+      - run: npm ci
+      - run: npx astro build
+      - name: Verify output
+        run: |
+          echo "Pages built: $(find dist/pages -name 'index.html' | wc -l)"
+          test -f dist/index.html
+          test -f dist/search-index.json
