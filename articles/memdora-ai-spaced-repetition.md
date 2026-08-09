@@ -10,19 +10,10 @@ confidence: high
 
 > **Ruiyang Zhang (2026)** — arXiv:2607.25096 (cs.HC)
 
-**Ruiyang Zhang (2026)** — arXiv:2607.25096 (cs.HC)
-
-## Summary
-
 Presents Memdora, a cross-platform AI spaced repetition system that addresses limitations of binary flip-and-rate flashcard interactions. Grounded in cognitive science evidence on retrieval practice, it enables richer interaction patterns and reduces context-switching by generating flashcards from reading material. Demonstrates improved retention compared to traditional SRS tools.
 
-The work connects to broader discussions in AI and education around [[spaced-repetition]], [[adaptive-learning]], [[mastery-learning]], contributing to our understanding of how generative ai shapes educational practice.
 
-## Key Contributions
 
-- Contributes empirical or theoretical advances relevant to the [[spaced-repetition]] domain
-- Published in 2026, reflecting the fast-moving landscape of AI in education research
-- Engages with questions of adaptive learning and mastery learning in educational contexts
 
 ## Connected Concepts
 

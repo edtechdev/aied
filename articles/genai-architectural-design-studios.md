@@ -10,19 +10,10 @@ confidence: medium
 
 > **Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026)** — arXiv:2607.24752 (cs.HC)
 
-**Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026)** — arXiv:2607.24752 (cs.HC)
-
-## Summary
-
 Examines the integration of deep generative models into architectural design education. Explores how GenAI tools affect the creative process in design studios, finding both enhancement of ideation and concerns about the erosion of foundational design skills. Proposes pedagogical frameworks for balancing AI augmentation with skill development.
 
-The work connects to broader discussions in AI and education around [[generative-ai]], [[student-experience]], [[higher-ed]], contributing to our understanding of how generative ai shapes educational practice.
 
-## Key Contributions
 
-- Contributes empirical or theoretical advances relevant to the [[generative-ai]] domain
-- Published in 2026, reflecting the fast-moving landscape of AI in education research
-- Engages with questions of higher ed and student experience in educational contexts
 
 ## Connected Concepts
 

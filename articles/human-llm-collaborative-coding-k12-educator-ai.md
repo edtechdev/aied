@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Alex Liu, Min Sun, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He** — arXiv preprint (2026).
-
-**Alex Liu, Min Sun, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He** — arXiv preprint (2026).
-
 ## Synthesis
 
 A multi-phase human-LLM collaborative pipeline adapted open, axial, and selective coding to build a hierarchical codebook from 45,000 messages exchanged between K-12 educators and a generative AI platform — an instance of LLMs as analytic assistants at a scale manual coding cannot match.

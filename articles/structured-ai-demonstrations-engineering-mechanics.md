@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, Emma Lejeune** — arXiv preprint (2026).
-
-**Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, Emma Lejeune** — arXiv preprint (2026).
-
 ## Synthesis
 
 This descriptive study documents student LLM use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of domain-specific empirical evidence for pedagogical policy in engineering education.

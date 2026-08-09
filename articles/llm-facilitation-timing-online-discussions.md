@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Dimitris Tsirmpas, Katerina Korre, John Pavlopoulos** — arXiv preprint (2026).
-
-**Dimitris Tsirmpas, Katerina Korre, John Pavlopoulos** — arXiv preprint (2026).
-
 ## Synthesis
 
 This study asks when (not just how) LLMs should facilitate online discussions, creating PEFK, a corpus standardizing and aggregating facilitation datasets, and running the first survey on facilitation timing with expert facilitators and LLM-as-a-judge models.

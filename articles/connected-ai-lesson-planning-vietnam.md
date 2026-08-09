@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy** — arXiv preprint (2026).
-
-**Thang Doan Viet, Anh Nguyen Hoang, Tinh Luong Son, Anh Hoang Thi Ngoc, Huyen Giang Thi Thu, Tai Le Quy** — arXiv preprint (2026).
-
 ## Synthesis
 
 ConnectED is a human-centered AI system supporting the full instructional lifecycle in Vietnamese education: curriculum-aligned lesson design, interactive student learning, and feedback-driven refinement, built on VietEduQwen, a Vietnamese educational LLM trained with SFT and DPO.

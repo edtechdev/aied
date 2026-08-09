@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Araz Yusubov, Michael Bechtel, Tangiz Alizada** — arXiv preprint (2026).
-
-**Araz Yusubov, Michael Bechtel, Tangiz Alizada** — arXiv preprint (2026).
-
 ## Synthesis
 
 The paper proposes 'hypergamification': using a comprehensive game environment generated from LMS content rather than bolting isolated game design elements onto a course. The key architectural idea is bidirectional integration — the game world is built from the LMS's actual learning content, and player activity flows back into the LMS.

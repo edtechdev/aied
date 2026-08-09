@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Synthesis:** Proposes a four-component AI literacy framework for legal translation professionals: conceptual AI knowledge, technical operational skills, critical evaluation competencies, and ethical governance awareness. Argues generative AI extends rather than replaces professional translation competence. Identifies linguistic, technical, legal, ethical and cognitive risks of AI in legal translation and maps them to literacy components. Framework applicable beyond legal domain to other professional education contexts where AI augments expert judgment. [[ai-literacy]], [[generative-ai]], [[professional-training]], [[human-in-the-loop]], and [[higher-ed]].
-
-**Łucja Biel (2026)** — Book chapter.
-
 Proposes a four-component AI literacy framework for legal translation professionals: conceptual AI knowledge, technical operational skills, critical evaluation competencies, and ethical governance awareness. Argues generative AI extends rather than replaces professional translation competence. Identifies linguistic, technical, legal, ethical and cognitive risks of AI in legal translation and maps them to literacy components. Framework applicable beyond legal domain to other professional education contexts where AI augments expert judgment.
 
 ## Connected Concepts

@@ -10,19 +10,10 @@ confidence: medium
 
 > **Sora Kang (2026)** — arXiv:2607.24751 (cs.HC)
 
-**Sora Kang (2026)** — arXiv:2607.24751 (cs.HC)
-
-## Summary
-
 Position paper exploring "Generative Refusal" — AI tools that strategically withhold text generation to demand user articulation, functioning as a Maieutic Partner rather than a cognitive offloading tool. Argues that in domains where the labor of articulation is central to craft, AI should enhance rather than bypass human cognition.
 
-The work connects to broader discussions in AI and education around [[generative-ai]], [[writing-education]], [[scaffolding]], contributing to our understanding of how generative ai shapes educational practice.
 
-## Key Contributions
 
-- Contributes empirical or theoretical advances relevant to the [[generative-ai]] domain
-- Published in 2026, reflecting the fast-moving landscape of AI in education research
-- Engages with questions of writing education and scaffolding in educational contexts
 
 ## Connected Concepts
 

@@ -9,9 +9,6 @@ confidence: medium
 ---
 
 > **Andresa Theodora, Nikolaos Tselios (2026)** — (University-affiliated). arXiv:2605.16296 [cs.CY]
-
-**Andresa Theodora, Nikolaos Tselios (2026)** — (University-affiliated). arXiv:2605.16296 [cs.CY]
-
 Theodora and Tselios (2026) provide a policy-oriented synthesis of AI's dual role in adult and [[lifelong-learning]] contexts — as both an enabler of personalized, scalable education and a source of significant equity and governance challenges. Drawing on international policy frameworks, the paper argues that AI integration in adult education requires balanced policies promoting inclusion, transparency, and human-centered pedagogy.
 
 The paper fills a notable gap in the [[ai-k12-evidence-base]] and related literature, which has predominantly focused on K-12 and higher education. Adult learners face distinct challenges: they are more likely to be affected by the [[digital-divide]], have less institutional support than traditional students, and often engage in self-directed learning where AI tools may operate with minimal human oversight. The paper's emphasis on [[policy-maker]] responsibilities connects to broader [[regulation]] discussions.

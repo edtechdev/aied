@@ -10,19 +10,10 @@ confidence: high
 
 > **Marina Lepp (2026)** — arXiv:2607.24755 (cs.HC, cs.AI, cs.CY)
 
-**Marina Lepp (2026)** — arXiv:2607.24755 (cs.HC, cs.AI, cs.CY)
-
-## Summary
-
 Examines how different forms of learner-AI interaction relate to learning outcomes in object-oriented programming courses. Identifies distinct patterns of GenAI use among students and correlates them with academic performance, finding that certain interaction patterns (seeking explanation rather than code generation) are associated with stronger learning outcomes.
 
-The work connects to broader discussions in AI and education around [[student-experience]], [[generative-ai]], [[computing-education]], contributing to our understanding of how generative ai shapes educational practice.
 
-## Key Contributions
 
-- Contributes empirical or theoretical advances relevant to the [[student-experience]] domain
-- Published in 2026, reflecting the fast-moving landscape of AI in education research
-- Engages with questions of student experience and stem education in educational contexts
 
 ## Connected Concepts
 

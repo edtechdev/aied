@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026)** — North Carolina State University. arXiv preprint.
-
-**Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026)** — North Carolina State University. arXiv preprint.
-
 ## Key Finding
 LLM tutors achieve near-ceiling on correct steps but systematically over-reject valid-suboptimal reasoning and over-validate incorrect solutions — precisely where adaptive tutoring matters most.
 

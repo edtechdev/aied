@@ -9,12 +9,8 @@ confidence: high
 ---
 
 > **Julius Gabelmann et al. (2026)** — AISoLA 2025 (Track: Responsible and Trusted AI).
-
-**Julius Gabelmann et al. (2026)** — AISoLA 2025 (Track: Responsible and Trusted AI).
-
 The widespread adoption of AI chatbots in education will drastically change learning, making responsible deployment a critical concern. While large language models (LLMs) might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to pedagogical concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, critical thinking, or creativity. In this paper, we introduce an agentic AI chatbot architecture assisting students with exercise solving, specifically designed to contribute to more responsible AI use in education. We base our conceptual development on the identification of several desiderata for responsible LLM-based educational systems, argue for the structural shortcomings inherent in monolithic, out-of-the-box solutions, and instead suggest modularizing the agentic architecture.
 
-## Key Contributions
 
 - **Modular over monolithic:** Gabelmann et al. argue that monolithic, out-of-the-box LLM solutions structurally impede responsible deployment in education because LLMs lack inherent pedagogical discipline. They propose modularizing the agentic architecture into stage-specific components for exercise solving, each capable of incorporating targeted pedagogical advice.
 - **Pedagogical desiderata:** The paper derives formal requirements (desiderata) for responsible LLM-based educational systems, arguing that systems must be controllable, transparent, and overseeable. This directly addresses [[over-reliance]] risks identified in studies showing that brief AI assistance impairs independent performance.

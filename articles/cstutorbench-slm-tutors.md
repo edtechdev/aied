@@ -9,12 +9,8 @@ confidence: high
 ---
 
 > **H. Chad Lane & Bryson Kageler (2026)** — University of Arizona / University of Illinois. arXiv.
-
-**H. Chad Lane & Bryson Kageler (2026)** — University of Arizona / University of Illinois. arXiv.
-
 Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance on proprietary models, motivating small language models (SLMs) as an alternative. The authors introduce **CSTutorBench**, a benchmark evaluating language models as CS tutors in VEX VR, a block-based robotics environment. It comprises 17 scenario-based questions scored against a pedagogical rubric grounded in tutoring and feedback research, using a human-in-the-loop LLM-as-judge pipeline. Across 11 models (4B–120B parameters), models handled surface-level criteria (vocabulary, tone) well but struggled with deeper pedagogical behaviors — especially avoiding answer leakage and engaging with student debugging histories. Model family and instruction-tuning predicted tutoring quality better than parameter count; a targeted prompt revision improved scores for 10 of 11 models.
 
-## Key Contributions
 - **K-12 privacy-aware tutoring:** Motivates on-device SLMs for [[k-12]] to address [[privacy]] and cost vs proprietary LLMs.
 - **Pedagogically grounded benchmark:** 17 scenarios scored on a rubric tied to [[intelligent-tutoring]] and [[feedback-loop]] research, in block-based programming.
 - **Depth gap:** Models ace surface tone but leak answers and ignore debugging history — aligning with [[ai-tutor-behavioral-evaluation]] concerns.

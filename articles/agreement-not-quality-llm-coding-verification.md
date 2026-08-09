@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Alex Liu, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He, Min Sun** — arXiv preprint (2026).
-
-**Alex Liu, Lief Esbenshade, Michael Xiao, Victor Tian, Zachary Zhang, Kevin He, Min Sun** — arXiv preprint (2026).
-
 ## Synthesis
 
 This study challenges the standard practice of evaluating LLM qualitative coding by agreement with human coders, using data from a K-12 AI platform: five LLM systems and three trained human coders applied a 72-item hierarchical codebook to 2,560 educator messages.

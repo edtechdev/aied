@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Bischof, Schön, Rauschenberger & Neumann (2026)** — University of Applied Sciences and Arts Hannover.
-
-**Bischof, Schön, Rauschenberger & Neumann (2026)** — University of Applied Sciences and Arts Hannover.
-
 Bischof et al. investigate how students' awareness of [[generative-ai]] regulations relates to their perceived compliance and actual usage behavior in [[higher-ed]]. While previous research mainly examines adoption rates and attitudes, students' awareness of institutional regulations and their perceived compliance have remained unexplored — an important gap as institutions create and apply AI policies.
 
 The study surveyed 151 undergraduate students in Business Information Systems and E-Government programs at Hochschule Hannover (Germany). Key findings:

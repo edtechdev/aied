@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Alexis Popovici, Andrei Ionascu, Adrian-Marius Dumitran (2026)** — arXiv preprint.
-
-**Alexis Popovici, Andrei Ionascu, Adrian-Marius Dumitran (2026)** — arXiv preprint.
-
 A systematic API audit of four LLMs acting as history tutors evaluates 1,800 responses about the 1989 Romanian Revolution, exposing a 'paternalistic filter': models differentially refuse or soften answers for marginalized students, reproducing epistemic injustice. The audit reveals that guardrails and refusals are not uniform but patterned by student identity and topic sensitivity.
 
 Centers on [[llm]] tutors in [[student-experience]] and the harms catalogued under [[ai-tutor-safety-harms]], with strong links to [[bias-mitigation]] and [[equity]] in [[higher-ed]]. It extends [[over-reliance]] concerns by showing even refusal behavior can entrench inequality, and calls for fairness evaluations that account for differential treatment across student groups.

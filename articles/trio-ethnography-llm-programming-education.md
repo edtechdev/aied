@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Ren, McDowell & Zhou (2026)** — arXiv preprint (cs.HC, cs.AI).
-
-**Ren, McDowell & Zhou (2026)** — arXiv preprint (cs.HC, cs.AI).
-
 This experience report introduces trio-ethnography — structured dialogue between two computing educators with differing teaching philosophies and one undergraduate CS student — as a method for surfacing how educators' interpretations of students' AI use evolve. The central finding is that much AI-supported learning is invisible from the classroom: across three conversations, the student's lived-experience narratives revealed learning processes that neither educator could infer from observable behavior, prompting both to revise assumptions about AI use, assessment design, and transparency in [[cs-education]].
 
 The paper complicates the dominant framing of [[student-ai-interaction]] research, which typically measures behavior (prompt logs, usage frequency) rather than interpretation. Educators here initially read student AI use through the lens of [[over-reliance]] risk, but dialogue revealed more nuanced self-regulation and [[scaffolding]]-seeking than surveillance-style observation suggested. This aligns with broader calls for [[ai-literacy]] frameworks that treat students as reflective agents rather than compliance subjects.

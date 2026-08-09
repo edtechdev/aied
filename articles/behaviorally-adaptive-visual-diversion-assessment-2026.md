@@ -10,10 +10,6 @@ confidence: high
 
 > **Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... [[assessment]] [[accessible-learning]] [[privacy]] [[academic-integrity]] [[equity]] [[adaptive-learning]]
 
-**Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, Parali Prajithaa (2026)** — arXiv:2608.03531 [cs.AI].
-
-## Key Findings
-
 Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (Diversion Field Generator, Rendering Tensor, Behavior Tensor, Multi-dimensional Entropy Model). Establishes theoretical properties for content fidelity, rendering stability, entropy boundedness, and closed-loop adaptation stability. Explicitly addresses the trade-off between accessibility and capture resistance.
 
 ## Abstract

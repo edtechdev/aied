@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Yubo Li, Rema Padman, Ramayya Krishnan (2026)** — Carnegie Mellon University. arXiv preprint (cs.CY).
-
-**Yubo Li, Rema Padman, Ramayya Krishnan (2026)** — Carnegie Mellon University. arXiv preprint (cs.CY).
-
 Li, Padman and Krishnan audit 102 US transplant-center patient handbooks that serve as grounding corpora for generative AI patient-education assistants. They show large institutional heterogeneity in the underlying education materials, undermining the premise that grounding a genAI assistant in local content yields consistent guidance: patients at different institutions can receive materially different AI-mediated answers to the same question. The study extends grounding-quality concerns familiar from [[retrieval-augmented-tutoring-algorithm-kite]] into health education, and connects to AI-driven medical training work such as [[medeasy-ai-standardized-patients]], [[adaptive-virtual-patient-psychotherapy-training]] and [[medgame-llm-medical-education-gamification]]. The equity implication (institution-dependent quality of AI-mediated education) parallels [[equity-in-ai-education]].
 
 ## Connected Concepts

@@ -9,9 +9,6 @@ confidence: high
 ---
 
 > **Rana Abou Khamis, Hala Assal, Ashraf Matrawy** — arXiv preprint (2026).
-
-**Rana Abou Khamis, Hala Assal, Ashraf Matrawy** — arXiv preprint (2026).
-
 ## Synthesis
 
 Drawing on 14 semi-structured interviews with IT professionals, this study explores how GenAI integration reshapes professional practice in system administration — troubleshooting, scripting, and system verification.
