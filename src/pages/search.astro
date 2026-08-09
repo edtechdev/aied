@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Search">
+  <h1>🔍 Search</h1>
+  <div class="search-bar">
+    <input type="text" id="search-input" placeholder="Search by title, tag, or content..." autocomplete="off" />
+  </div>
+  <div id="search-results">
+    <p style="color:var(--muted-color)">Type to search across all articles...</p>
+  </div>
+</BaseLayout>
+
+<script>
+  let pages: any[] = [];
+  
+  fetch('/aied/search-index.json')
+    .then(r => r.json())
+    .then(data => { pages = data; });
+
+  document.getElementById('search-input')!.addEventListener('input', (e) => {
+    const q = (e.target as HTMLInputElement).value.toLowerCase().trim();
+    const results = document.getElementById('search-results')!;
+    
+    if (!q) {
+      results.innerHTML = '<p style="color:var(--muted-color)">Type to search across all articles...</p>';
+      return;
+    }
+
+    const matches = pages.filter((p: any) => {
+      const text = `${p.title} ${p.tags?.join(' ')} ${p.body || ''}`.toLowerCase();
+      return text.includes(q);
+    }).slice(0, 30);
+
+    if (matches.length === 0) {
+      results.innerHTML = '<p>No results found. Try a different search term.</p>';
+      return;
+    }
+
+    results.innerHTML = matches.map((p: any) => `
+      <div class="page-item">
+        <a href="/aied/pages/${p.slug}" style="font-weight:500;">${p.title}</a>
+        <div style="font-size:0.8rem;color:var(--muted-color);">
+          ${p.created || ''} · ${(p.tags || []).slice(0, 5).map((t: string) => 
+            `<a href="/aied/tags/${t}" class="tag-chip" style="font-size:0.68rem;padding:0.03rem 0.35rem;">${t}</a>`
+          ).join('')}
+        </div>
+      </div>
+    `).join('');
+  });
+
+  // Check URL for ?q= param
+  const params = new URLSearchParams(window.location.search);
+  const q = params.get('q');
+  if (q) {
+    (document.getElementById('search-input') as HTMLInputElement).value = q;
+    (document.getElementById('search-input') as HTMLInputElement).dispatchEvent(new Event('input'));
+  }
+</script>

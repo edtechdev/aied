@@ -1,0 +1,66 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const concepts = await getCollection('concepts');
+  return concepts
+    .filter(c => c.data.type === 'concept')
+    .map(c => ({ params: { slug: c.id.replace('.md', '') }, props: { concept: c } }));
+}
+
+const { concept } = Astro.props;
+const { title, tags, confidence, created } = concept.data;
+const body = concept.body || '';
+const slug = concept.id.replace('.md', '');
+
+// Simple wikilink renderer
+function renderWikilinks(text: string): string {
+  return text.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, p, l) => {
+    const page = p.replace('.md', '');
+    const label = l || page.replace(/-/g, ' ');
+    return `<a href="/aied/pages/${page}">${label}</a>`;
+  }).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+    .replace(/\n\n/g, '</p><p>')
+    .replace(/^## (.+)$/gm, '<h2>$1</h2>')
+    .replace(/^# (.+)$/gm, '<h1>$1</h1>')
+    .replace(/^- (.+)$/gm, '<li>$1</li>');
+}
+
+const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○';
+
+// Split body into sections
+const parts = body.split(/^## /m);
+const mainContent = parts.length > 0 ? parts[0] : '';
+const sections = parts.slice(1);
+---
+
+<BaseLayout title={title}>
+  <article>
+    <div class="page-header">
+      <h1>{title}</h1>
+      <div style="color:var(--muted-color);font-size:0.9rem">
+        {confIcon} {confidence} · {created}
+        {(tags || []).map((tag: string) => (
+          <a href={`/aied/tags/${tag}`} class="tag-chip">{tag}</a>
+        ))}
+      </div>
+    </div>
+
+    <div style="line-height:1.8">
+      <Fragment set:html={`<p>${renderWikilinks(mainContent)}</p>`} />
+      {sections.map(sec => {
+        const lines = sec.split('\n');
+        const header = lines[0].trim();
+        const secBody = lines.slice(1).join('\n');
+        return (
+          <div>
+            <h2>{header}</h2>
+            <Fragment set:html={`<p>${renderWikilinks(secBody)}</p>`} />
+          </div>
+        );
+      })}
+    </div>
+  </article>
+</BaseLayout>
