@@ -11,7 +11,6 @@ confidence: medium
 > Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments **Kurdya et al. (2026)** — Multiple institutions. arXiv cs.AI.
 
 Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments
-**Kurdya et al. (2026)** — Multiple institutions. arXiv cs.AI.
 
 ## Summary
 

@@ -11,7 +11,6 @@ confidence: medium
 > Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks **Kasneci & Kasneci (2026)** — Position paper. arXiv cs.AI/cs.HC.
 
 Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
-**Kasneci & Kasneci (2026)** — Position paper. arXiv cs.AI/cs.HC.
 
 ## Summary
 

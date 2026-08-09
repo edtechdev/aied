@@ -12,8 +12,6 @@ confidence: medium
 
 # AI-Powered Materials Discovery and AI Literacy
 
-**Dongming Mei, Katherine Moore, Ben Sayler (2026)** — Framework for integrating AI literacy with materials science education.
-
 ## Key Findings
 
 This paper presents a workflow-aligned framework for preparing students to use AI in materials discovery. The authors argue that in materials science, the limiting factor is no longer only algorithmic capability but **human-AI collaboration competence**. Students need to develop scientific judgment about when to trust AI predictions and how to integrate them into research workflows.^[raw/papers/2605.09624.md]

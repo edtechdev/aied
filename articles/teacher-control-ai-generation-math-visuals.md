@@ -12,8 +12,6 @@ confidence: high
 
 # Teacher Control of AI-Generated Mathematics Visuals
 
-**Zhengxu Li, Junling Wang, April Yi Wang (2026)** — ACM L@S 2026. Study of when teachers should control AI-generated classroom visuals.
-
 ## Key Findings
 
 Generative AI can help teachers rapidly create classroom-ready visual materials, particularly in mathematics where diagrams and visual representations must be **pedagogically meaningful and instructionally correct**. This paper investigates when and how teachers should control AI generation of mathematical visuals.^[raw/papers/2605.10672.md]

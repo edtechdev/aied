@@ -12,8 +12,6 @@ confidence: high
 
 # Humanlike AI in Collaborative Writing
 
-**Yin, Chiang, Cox & Xiao (2026)** — University of British Columbia.
-
 This comparative user study (n=48) examines how the temporal and visual dimensions of AI collaboration shape the experience of [[writing-education|writing tasks]], revealing that humanlike design features in AI agents create both positive social expectations and unexpected social costs.
 
 ## The Humanlike-to-Machinelike Spectrum

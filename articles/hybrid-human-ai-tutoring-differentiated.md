@@ -10,8 +10,6 @@ confidence: high
 
 > **Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger (2026)** — Carnegie Mellon University & collaborators. EDM'26.
 
-**Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger (2026)** — Carnegie Mellon University & collaborators. EDM'26.
-
 ## Key Findings
 
 In a large-scale quasi-experiment with 635 students (grades 5-8), hybrid human-AI tutoring produced substantial gains over AI-only tutoring: +25% time on task, +36% skill proficiency, and +61% standardized academic growth.

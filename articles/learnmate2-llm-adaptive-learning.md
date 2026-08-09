@@ -11,7 +11,6 @@ confidence: medium
 > LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning **Wang, Lee, & Mutlu (2026)** — University of Wisconsin-Madison. CHI-related publication.
 
 LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-**Wang, Lee, & Mutlu (2026)** — University of Wisconsin-Madison. CHI-related publication.
 
 ## Summary
 

@@ -12,8 +12,6 @@ confidence: medium
 
 # AI-Driven Campus Well-being Tools
 
-**Tang (2026)** — PhD Dissertation, University of Missouri.
-
 ## Synthesis
 
 This dissertation presents an integrated AI framework for campus well-being spanning prevention (improving feedback collection) and intervention (advancing mental health detection). It represents an important application of [[llm]] and [[generative-ai]] technologies to [[student-experience]] that extends beyond academic learning to holistic student support in [[higher-ed]].

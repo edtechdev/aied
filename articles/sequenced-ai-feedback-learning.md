@@ -12,8 +12,6 @@ confidence: high
 
 # Sequenced AI Feedback on Student Learning
 
-**Cao, Zhao, Schunn, McLaughlin, Lin & Koedinger (2026)** — UNC Chapel Hill, CMU, U Pittsburgh, U Hong Kong. Randomized experiment (n=199).
-
 ## Core Finding
 
 **Sequenced AI feedback harms learning despite boosting engagement and positive perceptions.**

@@ -12,8 +12,6 @@ confidence: high
 
 # What Makes Words Hard? Vocabulary Difficulty Prediction at BEA 2026
 
-**Nohejl, Wu, Ide, Riera Machin, Chang & Yanaka (2026)** — BEA 2026.
-
 🔗 [Code](https://github.com/adno/vocabulary-difficulty)
 
 ## Overview

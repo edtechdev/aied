@@ -11,7 +11,6 @@ confidence: medium
 > Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation **Nourian et al. (2026)** — Multiple institutions. arXiv cs.HC.
 
 Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
-**Nourian et al. (2026)** — Multiple institutions. arXiv cs.HC.
 
 ## Summary
 

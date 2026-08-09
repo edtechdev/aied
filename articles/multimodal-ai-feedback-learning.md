@@ -12,8 +12,6 @@ confidence: high
 
 # Multimodal AI Feedback vs. Educator Feedback
 
-**Zhao, Cao, Lin & Koedinger (2026)** — CMU, UNC, U Hong Kong. Accepted to LAK 2026. Online crowdsourcing experiment.
-
 ## Core Finding
 
 **AI multimodal feedback matches educator feedback for learning while significantly outperforming it on student perceptions.**

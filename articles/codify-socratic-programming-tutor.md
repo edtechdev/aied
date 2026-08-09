@@ -12,8 +12,6 @@ confidence: medium
 
 # Codify: Socratic Programming Tutor
 
-**Ilyasov, Bardelli, Torres & Keshtkar (2026)** — St. John's University. The International FLAIRS Conference Proceedings, Vol. 39 No. 1 (Poster).
-
 📄 DOI: 10.32473/flairs.39.1.141554
 
 Codify (also called AI Tutor) is an [[intelligent-tutoring]] system that leverages [[llm|LLMs]], competency tracking, and adaptive assessment to provide Socratic, discovery-based programming education. Rather than giving direct answers, it guides students through dialogue designed to elicit their own reasoning.
