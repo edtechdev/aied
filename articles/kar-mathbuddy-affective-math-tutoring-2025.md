@@ -10,8 +10,6 @@ confidence: medium
 
 > **MathBuddy: Affective Math Tutoring** — EMNLP 2025 Demo. An emotionally aware LLM-powered mathematics tutor that dynamically models student emotions from both conversational text and facial expressions, aggregating multimodal affective signals to shape pedagogically appropriate LLM responses. Maps detected affective states to relevant pedagogical strategies, achieving a +23-point win rate advantage and +3-point improvement on the DAMR (Dimensions of Affective Math Response) score at the overall level. Evaluated across eight pedagogical dimensions in user studies, MathBuddy demonstrates that affective awareness substantially improves the quality of AI math tutoring.
 
-**Authors:** Kar et al. (ITU-NLP) · **Venue:** EMNLP 2025 Demo Track · **Code:** github.com/ITU-NLP/MathBuddy
-
 ## Key Findings
 
 MathBuddy addresses a critical gap in [[llm-math-tutoring]]: most AI math tutors respond to the *content* of student answers but ignore the *emotional state* of the learner. This is problematic because mathematics learning is deeply affective — frustration, confusion, anxiety, and confidence all shape how students engage with mathematical problems and whether they persist through difficulty.
@@ -35,10 +33,6 @@ The dual-modality aggregation strategy (text + facial expression) also has impli
 Methodologically, the DAMR evaluation framework and the eight-dimension pedagogical assessment provide a template for rigorous evaluation of affect-aware tutoring systems — addressing concerns about [[ai-tutor-behavioral-evaluation]] and the need for multi-dimensional quality metrics beyond simple accuracy measures.
 
 Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) contributes to the [[open-source]] educational AI ecosystem and enables further research into affect-aware [[pedagogical-llm-training]].
-
-## Source
-
-- https://arxiv.org/abs/2508.19993v2
 
 ## Connected Concepts
 

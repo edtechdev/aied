@@ -9,8 +9,6 @@ confidence: high
 ---
 
 > **Authors:** Kamila Misiejuk, Sonsoles López-Pernas, Eduardo Araujo Oliveira, Brendan Eagan, Mohammed Saqr **Source:** Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)
-
-**Authors:** Kamila Misiejuk, Sonsoles López-Pernas, Eduardo Araujo Oliveira, Brendan Eagan, Mohammed Saqr
 **Source:** Computers and Education: AI, Vol 11 — Open Access (CC BY 4.0)
 
 ## Key Findings

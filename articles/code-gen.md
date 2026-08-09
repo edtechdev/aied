@@ -9,8 +9,6 @@ confidence: high
 ---
 
 > **A dual-agent RAG-based system for generating and validating coding comprehension MCQs**, evaluated by 6 SMEs across 7 pedagogical dimensions (N=288 questions, 2,016 rating pairs). AI excels at criteria-matching and computational verification (concept alignment 98.6%, code validity 95.5%), but human expertise remains essential for distractor quality (79.9%) and pedagogically rich feedback — providing an evidence-based division of labor for [[human-in-the-loop-ai]] educational content generation.
-
-**Authors:** Xiaojing Duan, Frederick Nwanganga, Chaoli Wang (University of Notre Dame)
 **Venue:** AIED 2026 (short paper)
 **ArXiv:** 2604.03926
 

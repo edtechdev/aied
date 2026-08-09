@@ -10,8 +10,6 @@ confidence: medium
 
 > **AICoFE** (AI-based Collaborative Feedback) is a multi-LLM feedback generation system for higher education that combines independently fine-tuned language models with **teacher-in-the-loop mediation**, producing diverse feedback perspectives while preserving pedagogical authority through Learning Analytics dashboards.
 
-**Authors:** Alvaro Becerra, Alejandra Palma, Ruth Cobos (GHIA Group, Universidad Autónoma de Madrid) · arXiv:2605.04740 · Accepted at LASI Spain 2026
-
 ## Key Findings
 
 1. **Multi-LLM diversity improves feedback quality.** AICoFE uses three independently fine-tuned LLMs (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) to generate diverse feedback perspectives from the same input data — quantitative rubric scores, validated qualitative observations, rubric level descriptions, and instructional materials. Each model produces independent drafts that the teacher can inspect and curate.

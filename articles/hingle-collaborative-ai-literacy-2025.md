@@ -10,8 +10,6 @@ confidence: medium
 
 > **Collaborative AI Literacy Framework** — SEFI 2025. A systematic review of 9 studies (2015–2023) examining how collaborative learning (CL) approaches can be harnessed to build AI literacy across diverse educational contexts. Using the ICAP framework (Interactive–Constructive–Active–Passive) as an analytical lens, the review demonstrates that CL effectively increases AI literacy across activities, settings, and learner groups. Most studies were conducted in classroom settings, with some broadening participation through educators, families, or AI agents supporting teamwork. Instructional activities spanned all four ICAP modes, revealing a rich design space for collaborative AI literacy interventions.
 
-**Authors:** (SEFI 2025 Proceedings) · Presented at the 2025 SEFI Annual Conference
-
 ## Key Findings
 
 This systematic review is among the first to map the intersection of [[collaborative-learning]] and [[ai-literacy]], two fields that have largely developed in parallel despite their natural synergies. The review identified 9 studies (2015–2023) that met inclusion criteria for collaborative learning interventions targeting AI literacy outcomes.
@@ -33,10 +31,6 @@ For the [[collaborative-learning]] research community, this review provides a st
 Practically, the findings support the integration of collaborative AI literacy activities into existing [[k-12-ai-education]] curricula and [[faculty-development]] programs. The success of interventions that involve families and community members suggests that AI literacy is not solely a school-based competency but a societal one — a perspective aligned with [[ai-education-global-capacity]] and [[ai-lifelong-learning-policy]].
 
 Looking forward, the review highlights the potential for [[icap-cognitive-engagement-llm-agents]] research to further enrich collaborative AI literacy instruction by designing LLM-based agents that can serve as interactive learning partners within ICAP-structured activities, extending the social dimension of learning beyond human peers.
-
-## Source
-
-- https://arxiv.org/abs/2508.15111v1
 
 ## Connected Concepts
 

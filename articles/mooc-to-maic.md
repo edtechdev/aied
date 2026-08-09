@@ -9,8 +9,6 @@ confidence: high
 ---
 
 > **A new paradigm for online education replacing MOOCs with LLM-driven multi-agent AI classrooms**, piloted at Tsinghua University with 100K+ learning records from 500+ students. MAIC uses specialized agents (Teacher, Assistant, Classmate, Analyzer) to deliver personalized, adaptive learning at scale.
-
-**Authors:** Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, et al. (33 authors, Tsinghua University)
 **ArXiv:** 2409.03512
 **Submitted:** September 2024
 

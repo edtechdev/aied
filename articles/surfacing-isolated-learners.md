@@ -75,4 +75,5 @@ This is one of the first systems to operationalize **human-AI co-agency** in cla
 
 ## Citation
 
-Park, J., Medhat, Y., Wai, H. P., Thajchayapong, P., & Goel, A. K. (2026). *Surfacing isolated learners with outcome-independent mediation of feedback between teachers and students using AI*. arXiv:2605.29240. HAI-Agency Workshop, AIED 2026.
+[Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI](https://arxiv.org/abs/2605.29240).
+

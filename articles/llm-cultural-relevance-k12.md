@@ -8,10 +8,6 @@ confidence: high
 sources: []
 ---Explores LLMs to support K-12 teachers in designing culturally relevant pedagogy. 78% of teachers found LLM suggestions helpful for diversifying curriculum materials. Addresses equity gaps in AI educational tools by centering marginalized perspectives.
 
-## Source
-
-- https://arxiv.org/abs/2505.08083
-
 ## Connected Concepts
 
 - [[adaptive-learning]]
