@@ -1,15 +1,15 @@
 ---
-title: "TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions"
+title: Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
 created: 2026-06-10
 updated: 2026-06-10
-type: concept
-tags: [professional-training, llm, formative-assessment, student-experience, edtech-platform, higher-ed, generative-ai, intelligent-tutoring, scaffolding, k-12]
-confidence: high
+type: article
+tags: [generative-ai, llm, ai-literacy, policy-maker, higher-ed, student-experience, intelligent-tutoring, scaffolding, k-12, stem-education]
+confidence: medium
 ---
 
-**Yibo Meng, Ruiqi Chen, Zhiming Liu, Xiaolan Ding** — Accepted at MobileHCI 2026 — cs.HC
+**Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu et al.** — cs.IR, cs.AI, cs.HC
 
-TibetCPR is a low-cost, self-guided CPR training system that pairs depth-driven electrotactile feedback with rhythm-driven visual cues within a Tibetan-language narrative, designed for regions where instructor-mediated training is fragmented and learners' linguistic/educational backgrounds are heterogeneous. In a randomized study with 40 lay community members aged 19–56, the experimental group showed progressive minute-by-minute stabilization of rhythm and depth across a 10-minute intervention, substantially exceeding unguided-practice control, with gains transferring to an unscaffolded post-test (SUS=84.3). The paper synthesizes three transferable design principles for self-guided embodied training: feedback as a calibration reference rather than an immediate corrector; modality temporal granularity matched to behavior's temporal structure; and autonomous interpretability as a deployment prerequisite. These principles connect to [[formative-assessment]] and [[scaffolding]] in skills training contexts, and the feedback-as-calibration approach has implications for [[intelligent-tutoring]] systems that provide real-time guidance in embodied learning tasks.
+This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS), which examined how GenAI is reshaping academic search systems and research practices. Three thematic clusters emerged: foundations and principles (guiding theories, design principles for human-centered GenAI-enhanced search), applications and opportunities, and search-as-learning — the idea that academic search systems should foster higher-order cognitive processes including synthesis, critical evaluation, and knowledge construction. The workshop emphasized transparency, credibility, research integrity, and long-term scholarly needs. The 'search-as-learning' theme is most directly relevant to [[ai-literacy]] and [[ai-education]] domains, as it reframes academic search not merely as information retrieval but as a learning activity. This connects to [[formative-assessment]] and [[self-regulated-learning]] research exploring how AI-mediated research tools shape student learning processes.
 
 ## Connected Concepts
 
@@ -17,7 +17,6 @@ TibetCPR is a low-cost, self-guided CPR training system that pairs depth-driven 
 - [[adaptive-learning-systems]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
-- [[adult-learning]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
@@ -27,7 +26,8 @@ TibetCPR is a low-cost, self-guided CPR training system that pairs depth-driven 
 - [[ai-education]]
 - [[ai-literacy]]
 - [[ai-tutoring]]
-- [[andragogy]]
+- [[assessment-validity]]
+- [[automated-assessment]]
 
 ## Connected Articles
 
@@ -42,17 +42,17 @@ TibetCPR is a low-cost, self-guided CPR training system that pairs depth-driven 
 - [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
 - [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
 - [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 - [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
 - [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
 - [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
 - [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer

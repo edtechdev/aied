@@ -1,15 +1,15 @@
 ---
-title: "EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation"
+title: "TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions"
 created: 2026-06-10
 updated: 2026-06-10
-type: concept
-tags: [intelligent-tutoring, student-experience, llm, higher-ed, scaffolding, generative-ai, ai-literacy, k-12, stem-education, learning-analytics]
+type: article
+tags: [professional-training, llm, formative-assessment, student-experience, edtech-platform, higher-ed, generative-ai, intelligent-tutoring, scaffolding, k-12]
 confidence: high
 ---
 
-**Jingzhe Lin, Hengbin Yu, Yongdan Zeng, Fangwei Zhong** — ICML 2026 — cs.MA, cs.CY
+**Yibo Meng, Ruiqi Chen, Zhiming Liu, Xiaolan Ding** — Accepted at MobileHCI 2026 — cs.HC
 
-EduMirror introduces a multi-agent simulator for studying educational social dynamics, addressing the dilemma that observational studies lack causal power while controlled experiments face ethical constraints. The simulator features value-driven agents grounded in psychological needs and social value orientation, with a dual-track measurement protocol quantifying both observable behaviors and latent psychological states. Validation through case studies on school bullying and group cooperation, plus broader evaluations across diverse educational scenarios, shows the simulator generates realistic, theory-consistent dynamics measurable by empirical criteria. This enables structured in silico educational research for hypothesis testing and counterfactual intervention analysis. The approach connects to [[student-modeling]] by modeling latent psychological states and to [[learning-analytics]] by providing a sandbox for testing interventions before deployment in real classrooms.
+TibetCPR is a low-cost, self-guided CPR training system that pairs depth-driven electrotactile feedback with rhythm-driven visual cues within a Tibetan-language narrative, designed for regions where instructor-mediated training is fragmented and learners' linguistic/educational backgrounds are heterogeneous. In a randomized study with 40 lay community members aged 19–56, the experimental group showed progressive minute-by-minute stabilization of rhythm and depth across a 10-minute intervention, substantially exceeding unguided-practice control, with gains transferring to an unscaffolded post-test (SUS=84.3). The paper synthesizes three transferable design principles for self-guided embodied training: feedback as a calibration reference rather than an immediate corrector; modality temporal granularity matched to behavior's temporal structure; and autonomous interpretability as a deployment prerequisite. These principles connect to [[formative-assessment]] and [[scaffolding]] in skills training contexts, and the feedback-as-calibration approach has implications for [[intelligent-tutoring]] systems that provide real-time guidance in embodied learning tasks.
 
 ## Connected Concepts
 
@@ -17,6 +17,7 @@ EduMirror introduces a multi-agent simulator for studying educational social dyn
 - [[adaptive-learning-systems]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[administrator]]
+- [[adult-learning]]
 - [[affective-computing]]
 - [[affective-tutoring]]
 - [[agentic-ai]]
@@ -26,8 +27,7 @@ EduMirror introduces a multi-agent simulator for studying educational social dyn
 - [[ai-education]]
 - [[ai-literacy]]
 - [[ai-tutoring]]
-- [[assessment-validity]]
-- [[automated-assessment]]
+- [[andragogy]]
 
 ## Connected Articles
 

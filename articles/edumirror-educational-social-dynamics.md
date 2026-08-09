@@ -1,16 +1,15 @@
 ---
-title: "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes"
+title: "EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation"
 created: 2026-06-10
 updated: 2026-06-10
-type: concept
-tags: [k-12, adaptive-learning, personalized-learning, formative-assessment, intelligent-tutoring, edtech-platform, llm, higher-ed, generative-ai, student-experience]
-confidence: medium
+type: article
+tags: [intelligent-tutoring, student-experience, llm, higher-ed, scaffolding, generative-ai, ai-literacy, k-12, stem-education, learning-analytics]
+confidence: high
 ---
 
-**Misan Paul Etchie, Taiwo Olutosin** — cs.CY, cs.AI, cs.HC
+**Jingzhe Lin, Hengbin Yu, Yongdan Zeng, Fangwei Zhong** — ICML 2026 — cs.MA, cs.CY
 
-This paper proposes an AI-integrated LMS designed specifically for middle school instruction, addressing the gap between current LMS platforms (which function as workflow tools) and the need for real-time instructional support during the critical middle-school learning window. Key features include policy-gated AI assistance (bounded AI to avoid [[over-reliance]]), formative feedback and hinting during practice, spaced review and adaptive practice recommendations, and teacher dashboards for misconception patterns. The system is designed with privacy-first architecture including data minimization, age-appropriate response constraints, auditable logs, and role-based access control. The proposed longitudinal study tracks students from middle school through high school into post-high school pathways, linking fine-grained learning traces to institutional outcomes. This design study is complementary to [[intelligent-tutoring]] systems research and [[personalized-learning]] implementations in K-12 settings.},
-The emphasis on bounded AI support — rather than open-ended tutoring — distinguishes this approach from systems like Khan Academy's Khanmigo and reflects pedagogical concerns about [[scaffolding]] versus answer-giving in K-12 AI tools.
+EduMirror introduces a multi-agent simulator for studying educational social dynamics, addressing the dilemma that observational studies lack causal power while controlled experiments face ethical constraints. The simulator features value-driven agents grounded in psychological needs and social value orientation, with a dual-track measurement protocol quantifying both observable behaviors and latent psychological states. Validation through case studies on school bullying and group cooperation, plus broader evaluations across diverse educational scenarios, shows the simulator generates realistic, theory-consistent dynamics measurable by empirical criteria. This enables structured in silico educational research for hypothesis testing and counterfactual intervention analysis. The approach connects to [[student-modeling]] by modeling latent psychological states and to [[learning-analytics]] by providing a sandbox for testing interventions before deployment in real classrooms.
 
 ## Connected Concepts
 
@@ -28,7 +27,7 @@ The emphasis on bounded AI support — rather than open-ended tutoring — disti
 - [[ai-literacy]]
 - [[ai-tutoring]]
 - [[assessment-validity]]
-- [[automated-grading]]
+- [[automated-assessment]]
 
 ## Connected Articles
 
