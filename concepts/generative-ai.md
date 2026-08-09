@@ -3,77 +3,70 @@ title: Generative Ai
 created: 2026-05-21
 updated: 2026-05-21
 type: concept
-tags: [generative-ai]
-sources: []
-confidence: low
+tags: [generative-ai, higher-ed, llm, student-experience, ai-literacy, scaffolding, intelligent-tutoring, over-reliance, k-12, teacher-role]
+confidence: medium
 ---
+
 > **Generative AI** — LLMs and multimodal models — is the wiki's central technology subject, spanning [[chatgpt-feedback-engagement-genai]], [[genai-performance-vs-learning]], [[genai-policies-higher-ed-computing]], and [[structrag-diagram-reasoning-ai-tutoring]]: the corpus converges on capability being real but pedagogical framing deciding outcomes ([[llm]], [[ai-literacy]]).
 
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-grading]]
 
+## Connected Concepts
 
-# Generative Ai
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-grading]]
 
+## Connected Articles
 
-## Related Pages
--- [[genai-feedback-design-multisite-experiment]]
-- [[teacher-ai-teaming-five-levels]]
- [[lets-chat-chatbot-outreach-2026]] — The non-generative chatbot contrast case
-- [[genai-can-harm-teaching-rct-2026]] — Teacher-facing GenAI RCT: motivation and achievement harms
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — GPT-3.5 journaling assistant: scaffolds writing, no motivation gain
-- [[genai-impact-chinese-students-hss]] — Survey of Chinese HSS students on GenAI's effects on learning motivation, creativity, and academic performance
-- [[ai-assisted-writing-research-teams]] — 6 of 8 papers in May 28 scan
-- [[genai-minoritized-knowledges-disability]] — epistemic marginalization of minoritized knowledges via GenAI
-  - [[efficiency-gain-illusion-ai-overreliance]] — Efficiency-gain illusion: systematic miscalibration about GenAI time-savings on simple tasks (2026)
-- [[ai-changing-teaching-workflows]]
-- [[genai-architecture-education]]
-- [[anvil-ai-educational-animations]]
-- [[genai-assessment-governance]] — ECD framework treats GenAI as assessment design variable
-- [[humanlike-ai-collaborative-writing]] — Anthropomorphic AI writing tools create uncanny social costs
-- [[ai-productivity-moderation]] — Productivity gains from GenAI not automatic — five moderating factors
-- [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-authored prompt layers for generative AI tools
-
-- [[aiawe-automated-writing-evaluation]] — LoRA-adapted LLMs for automated writing evaluation tasks
-- [[courseblueprint-adaptive-video-generation]] -- Explicit typed instructional contracts (scaffolding, adaptive controller, engagement contract, slide override) drastically improve pedagogical video quality over fluent but PCK-absent text-to-video.
-- [[ai-in-the-wild-college]] — large-scale analysis of student-GenAI interactions
-- [[concept-catalyst-k12-teacher]] — scrutable interfaces for K-12 teacher-AI interaction
-- [[genai-literacy-image-discrimination]] — GenAI literacy training for image discrimination
-- [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[ai-stem-bibliometric-trends]] — AI unlocking STEM education: Bibliometric trends
-- [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass
-- [[gaide-vibe-coding-k12-teachers]] — GAIDE vibe-coding framework for K-12 teachers
-- [[flowcode-ai-creative-coding]] — Flowcode: AI creative-coding environment
-- [[bloom-aligned-educational-control-llms]] — Introduces a Bloom-aligned framework for measuring 'educational control' in LLMs: the abil…
-- [[youtube-frames-chatgpt-education]] — Uses epistemic network analysis of multimodal YouTube metadata (transcripts, titles, thumb…
-- [[student-mental-models-genai]] — Core technology under study (2026-07-14)
-- [[llm-design-problems-hot-pjbl]] — LLM-generated problems (2026-07-14)
-- [[learning-behavior-background-advantage-ai-ed]] — AI-assisted education (2026-07-14)
-- [[genai-reliance-types-scale]] — reliance modes for generative-AI writing tools
-- [[mllm-scientific-visualization-literacy]] — evaluates multimodal generative-AI systems on literacy tasks
-- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
-- [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Langua
-- [[ai-literacy-power-knowledge]]
-- [[ai-generated-instructional-videos-computing-ed]]
-- [[memdora-ai-spaced-repetition]]
-- [[learner-ai-interaction-patterns-oop]]
-- [[solving-vs-evaluating-genai-solutions]]
-- [[genai-linguistic-diversity-academic-writing]]
-- [[book-level-synthetic-textbook-organization]]
-- [[genai-architectural-design-studios]]
-- [[generative-refusal-ai-tools-for-thought]]
-- [[llm-intervention-design-cs-review]]
-- [[genai-mindtool-generative-learning]]
-- [[multimodal-prompting-ai-literacy]]
-- [[genai-runaway-object-math-higher-ed]]
-- [[human-ai-collaboration-trust-expectations]]
-- [[conversational-ai-informal-learning]]
-- [[quest-ai-inquiry-preservice-teachers]]
-- [[same-ai-different-pathways]]
-- [[code-gen]]
-- [[mooc-to-maic]]
-- [[deeptutor]]
-- [[genai-marketing-education-roles-2026]] — related concept
-- [[ai-literacy-legal-translation-2026]] — related
-- [[nuclear-diffusion-text-to-image-learning-2026]] — related
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — analysis of AI-assisted SE syllabi across 23 university courses
-- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler tool for metacognitive scaffolding during GenAI use
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer

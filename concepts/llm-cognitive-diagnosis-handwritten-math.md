@@ -1,15 +1,13 @@
 ---
-title: "Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work"
+title: Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 created: 2026-05-31
 updated: 2026-05-31
 type: concept
-tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-loop, critical-thinking, hallucination-risk, k-12]
-sources:
-  - arxiv:2504.00843
+tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-loop, critical-thinking, hallucination-risk, k-12, llm, generative-ai]
 confidence: high
 ---
-> **MathCog** benchmark (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], [[benchmark]]).
 
+> **MathCog** benchmark (3,036 teacher-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], [[benchmark]]).
 
 # Benchmarking LLMs for Diagnosing Cognitive Skills from Handwritten Math
 
@@ -63,15 +61,48 @@ MathCog builds on existing [[llm-handwritten-math-grading]] work but shifts focu
 - Korean-to-English machine translation may introduce artifacts
 - Static benchmark; does not capture iterative diagnostic processes teachers use in practice
 
-## Related Pages
+## Connected Concepts
 
-- [[llm-handwritten-math-grading]] — Prior work on LLM-based grading of handwritten math responses
-- [[llm-fallacy-misattribution]] — Foundational study on LLM fallacy misattribution in educational contexts
-- [[hallucination-risk]] — Broader framework for hallucination risks in AI education tools
-- [[over-reliance]] — Over-reliance on AI outputs, including uncalibrated diagnostic confidence
-- [[cognitive-offloading]] — Cognitive offloading dynamics relevant to evidential over-attribution
-- [[ground-truth-reliability-aied]] — Ground truth reliability challenges in AIED benchmarks
-- [[human-in-the-loop]] — Teacher-in-the-loop architectures for AI-augmented assessment
-- [[teacher-role]] — Teacher role in AI-augmented educational workflows
-- [[benchmark]] — Benchmark design considerations for educational AI evaluation
-- [[automated-grading]] — Broader automated grading landscape, of which cognitive diagnosis is an extension- [[representation-robustness-llm-math-problem-solving]] — Representation Robustness under Executable Reasoning Constra
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-assessment]]
+- [[automated-grading]]
+
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
+- [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
+- [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[crewscaler-ai-upskilling-framework]] — AI-accelerated End-to-End Framework for Rapid Professional Upskilling
+- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform

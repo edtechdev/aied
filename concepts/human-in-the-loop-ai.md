@@ -3,12 +3,9 @@ title: Human-in-the-Loop AI for Education
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education]
-sources: [raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md, raw/papers/yu-maic-mooc-llm-agents-2024.md]
+tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
 confidence: medium
 ---
-
-# Human-in-the-Loop AI for Education
 
 Educational AI systems that strategically interleave automated generation with human expert judgment, preserving pedagogical quality while scaling production. Two recent implementations illustrate distinct architectures:
 
@@ -37,35 +34,48 @@ Yu et al. (2024) deployed a multi-agent classroom (Teacher Agent, TA Agent, clas
 
 Human-in-the-loop design is not merely a safety measure—it is a **resource-allitution strategy**. The frontier question is not *whether* to include humans, but *where* in the pipeline their judgment has highest marginal value.
 
-## Citation
+## Connected Concepts
 
-Wang, A.X.D.F.N.C. & |, C.F. (2026). [*Human-in-the-Loop AI for Education*](https://arxiv.org/abs/2604.03926). Conference on Artificial Intelligence in Education (AIED 2026)
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[adult-learning]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[andragogy]]
 
-## Related Pages
-- [[feedback-futures-genai]] — Proactively maintaining human agency in GenAI feedback
-- [[learner-centered-feedback-ai]] — Assist-but-verify: teachers accept/reject/edit AI feedback
-- [[care-full-feedback-genai]] — Human oversight of AI-generated feedback as matters of care
-- [[correct-answer-trap-ai-tutor]] — 8 of 8 papers in May 28 scan
-- [[mindcopilot-llm-co-writing]] — Co-writing formalized as Human-in-the-Loop Markov Decision Process (IJCAI 2026)
-- [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
-- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
-- [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)
-- [[self-referential-l2-writing-llm-assessment]] — Maps where human raters vs. LLMs add value in writing assessment
-- [[short-answer-scoring-quality-degradation]] — Mid-range responses as the zone where human judgment remains essential
-- [[ground-truth-reliability-aied]] — Thomas et al. Shift 3: LLM annotation requires human verification workflows to prevent automation bias
-- [[civic-education-ai-lesson-plans]] — AI-generated civics lesson plans require human judgment to elevate beyond recall-level activities
-- [[multimodal-learning-genai]] — Educator verification of multimodal AI outputs; peer and self-assessment loops
-- [[ai-literacy]] — Human oversight as a literacy-enabling design
-- [[principled-ai-education]] — Role clarification for educators and technologies
-- [[faculty-development-genai]] — CTL governance and policy development
-- [[authentic-assessment]] — Teacher-student-AI triadic co-design of assessment
-- [[agentic-workflows-education]] — Multi-agent architectures that embed human checkpoints
-- [[adaptive-learning-systems]] — Human validation of adaptive decisions
-- [[formative-assessment]] — SME validation of assessment-item quality
-- [[ai-peer-feedback-systems]] — Collaborative feedback systems with human oversight
-- [[automatic-short-answer-grading]] — Human-in-the-loop grading calibration
-- [[equity-in-ai-education]] — Teacher agency to counter AI bias
-- [[text-simplification-its]] — Human evaluation of LLM simplifications
-- [[multi-agent-instructional-design]] — Teacher evaluation and feedback on AI-generated learning activities
-- [[ai-metacognition-stem-review]] — Human-centered paradigm: AI as supportive tool with teacher oversight
-- [[aicode-collaborative-feedback-system]] — Teacher-in-the-loop feedback mediation- [[agentic-ai-education-scoping-review]] — Wang et al. (2026) scoping review: 474 studies on agentic AI in education, capability dimensions, and the frontier-agent technology gap
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer

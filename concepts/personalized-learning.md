@@ -3,12 +3,9 @@ title: Personalized Learning
 created: 2026-05-07
 updated: 2026-07-27
 type: concept
-tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education]
-sources: [raw/papers/ma-deeptutor-agentic-personalized-tutoring-2026.md, raw/papers/yu-maic-mooc-llm-agents-2024.md, raw/papers/nie-personavlm-long-term-personalization-2026.md]
+tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium
 ---
-
-# Personalized Learning
 
 Tailoring educational experiences to individual learner profiles, including prior knowledge, learning pace, preferences, and affective states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge.
 
@@ -32,60 +29,48 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - **Longitudinal validity** — Personalization benefits may decay if profiles become stale or overfit
 - **Equity risks** — Over-personalization can strand learners in low-expectation tracks
 
-## Citation
+## Connected Concepts
 
-|, B.P. (2026). [*Personalized Learning*](https://arxiv.org/abs/2604.26962)
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[adult-learning]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[andragogy]]
 
-## Related Pages
-- [[kt4eqg-personalized-question-generation]] — 7 of 8 papers in May 28 scan
-- [[genai-architecture-education]]
-- [[learnmate2-llm-adaptive-learning]] — LLM-powered personalized study plans and adaptive activities
-- [[taklif-ai-interest-based-personalized-assignments]] — Interest-based personalization using LLMs
-- [[computational-thinking-ai-agent-creation]] — Optimal Development Zone effect for personalized instruction
-- [[temporal-smoothness-debiased-kt]] — Unbiased mastery estimates for reliable adaptive recommendations
-- [[conversational-ai-tutors-framework]] — GenAI enables dynamic content generation for personalized tutoring
-- [[self-referential-l2-writing-llm-assessment]] — Profile-based assessment aligns with personalized learning goals
-- [[ecnuclaw-k12-personalized-companion]] — Open-source K-12 framework with five-dimension turn-by-turn learner profiling
-- [[cognitive-agent-compilation]] — Explicit learner models in CAC enable inspectable, editable personalization
-- [[ai-adult-learning-design]] — 19 design guidelines for AI technologies supporting adult learners
-- [[ai-learning-companions-framework]] — three-foundation framework for AI learning companions prioritizing durable learning over performance
-- [[adaptive-learning-systems]] — The technical systems that deliver personalized experiences
-- [[llm-student-modeling-memory]] — Longitudinal memory for maintaining learner profiles
-- [[knowledge-tracing-irt]] — Models that infer what a learner knows in real time
-- [[tutoring-specific-vs-general-ai]] — Design trade-offs when personalization is the goal
-- [[agentic-workflows-education]] — Agentic paradigms for orchestrating personalized tutoring
-- [[a4l-analytics-pipeline]] — A4L modular analytics pipeline for cross-domain educational AI data
-- [[history-aware-student-simulation]] — History-conditioned student simulation with RL-optimized profiles for tutoring
-- [[instructional-guidance-genai-learning]] — Five-step GLT-based prompting improves personalized AI learning- [[dynamic-skill-matching-capstone-teams]] -- LLM-driven team formation for capstone projects outperforms CATME Team-Maker in skill coverage and preference alignment
-- [[learnopt-exam-cognitive-structure]] -- Standardized exams have stable latent cognitive structures recoverable via LLM-tagged question analysis and knapsack optimization
-- [[edtech-design-time-generative-ui]] -- Design-time GenUI with card-based semantic units embeds UDL and eliminates per-learner inference costs
-- [[self-efficacy-tutoring-learning]] — Self-Efficacy and Favorability Shape Learning from Tutoring
-- [[lecturaagents-multi-agent-teaching]] — LecturaAgents
-- [[code-anchor-multi-view-visualization]] -- Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations
-- [[learning-to-prompt-adaptive-tutoring]] -- Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
-- [[adaptive-pretesting-retention]] -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice — learner-directed AI study underperforms structured retrieval.
-- [[bridging-instructional-design-framework-math]] -- Proposes operationalizing learning theories as metadata dimensions for teacher-support systems in mathematics education, focusing on conceptual structure of content.
-- [[skill-acquisition-without-temporal-info]] -- A neural framework predicts next-skill acquisition from snapshot CDM data using pseudo-temporal ordering via inclusion relations among skill sets.
-- [[courseblueprint-adaptive-video-generation]] -- Explicit typed instructional contracts (scaffolding, adaptive controller, engagement contract, slide override) drastically improve pedagogical video quality over fluent but PCK-absent text-to-video.
-- [[ai-interlocutor-l2-spoken-dialogue]] -- AI dialogue in L2 practice resembles 'supported monologue' with fewer turns but greater short-term linguistic uptake; human dialogue is faster and more balanced.
-- [[automated-presentation-coaching]] — Personalized feedback in presentation coaching
-- [[empathy-coaching-chatbot]] — empathy effects in coaching chatbots
-- [[elevate-genai-virtual-tutors]] — personalized learning approaches
-- [[pattern-kc-programming-recommendation]] — Pattern-based KC programming recommendation
-- [[ai-learning-assistants-higher-ed-large-scale]] — Presents a large-scale descriptive analysis of an AI learning assistant (Syntea) using obj…
-- [[learning-behavior-background-advantage-ai-ed]] — Personalization design (2026-07-14)
-- [[llm-tts-dialogue-lesson-generation]] - adaptive lesson generation
-- [[kutti-ai-voice-first-learning-companion]] — offline-first ASR extends personalization to low-resource settings
-- [[student-math-competence-clustering]] — 119K students across 13 UK exams: overall ability dominates skill clusters; simp...
-- [[ai-learning-tools-engineering-education-needs]] — 206 engineering students: AI chatbots give greatest benefit as relief from compe...
-- [[book-level-synthetic-textbook-organization]]
-- [[iks-instruct-dataset-indian-knowledge]]
-- [[fair-explainable-edu-recommendations]]
-- [[hybrid-human-ai-tutoring-differentiated]] — System-level differentiation as personalization
-- [[llm-children-reading-story-generation]] — Compact LLMs for difficulty-controlled reading stories
-- [[mooc-to-maic]]
-- [[deeptutor]]
-- [[antiskillbench-persona-skills-privacy-2026]] — related concept
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — related
-- [[knowloop-confusion-to-consolidation-2026]]
-- [[precision-education-student-digital-twins-2026]] — precision education framework using AI-powered student digital twins
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer

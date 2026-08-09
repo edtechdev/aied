@@ -3,12 +3,9 @@ title: Formative Assessment in AI Education
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [agentic-ai, ai-ed-evaluation, ai-education, assessment, pedagogical-safety]
-sources: [raw/papers/duan-code-gen-human-loop-rag-mcq-2026.md, raw/papers/kamalov-agentic-workflows-education-2026.md, raw/papers/zhao-learnlens-curriculum-feedback-2025.md]
+tags: [agentic-ai, ai-ed-evaluation, ai-education, assessment, pedagogical-safety, llm, higher-ed, generative-ai, k-12, scaffolding]
 confidence: medium
 ---
-
-# Formative Assessment in AI Education
 
 Assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. AI systems can generate, validate, and adapt formative assessment items at scale, though quality varies dramatically across assessment types.
 
@@ -46,61 +43,48 @@ Zhao et al. (2025) present **LearnLens**, a modular LLM system for science educa
 
 Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if governance is weak.
 
-## Citation
+## Connected Concepts
 
-Wang, A.X.D.F.N.C. & |, C.F. (2026). [*Formative Assessment in AI Education*](https://arxiv.org/abs/2604.03926). Conference on Artificial Intelligence in Education (AIED 2026)
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[adult-learning]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[andragogy]]
 
-## Related Pages
-- [[cotal-formative-assessment-scoring-2026]] — LLM scoring with ECD-aligned rubrics
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agent feedback pre-empting self-assessment
-- [[authentic-products-authenticated-processes-2026]] — Process transparency and feedback-use evidence
-- [[correct-answer-trap-ai-tutor]] — 8 of 8 papers in May 28 scan
-- [[rubric-aware-grading-rec-cbm]] — 2 of 8 papers in May 28 scan
-- [[llm-sentiment-analysis-education-research]] — 1 of 8 papers in May 28 scan
-- [[student-misconceptions-conditionals-loops-taxonomy]] — taxonomy for precise diagnosis within formative assessment cycles
-- [[ai-changing-teaching-workflows]]
-- [[code-review-genai-cs1]]
-- [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
-- [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
-- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
-- [[lata-ferpa-compliant-local-llm-autograder]] — Rapid feedback enabling regrading and expanded TA hours
-- [[self-referential-l2-writing-llm-assessment]] — LLMs as complementary weakness detectors alongside teacher strengths
-- [[short-answer-scoring-quality-degradation]] — Mid-range degradation threatens nuanced feedback in formative systems
-- [[moodle-ai-tutoring-deep-learning]] — Uses formative cycles within LMS to promote deep learning
-- [[multimodal-ai-feedback-learning]] — Zhao et al.: AI multimodal feedback as scalable formative assessment matching educator quality
-- [[ground-truth-reliability-aied]] — Thomas et al.: formative systems using AI labels need validity evidence beyond inter-rater agreement
-- [[sequenced-ai-feedback-learning]] — Cao et al. RCT: sequenced AI feedback harmed learning vs. direct feedback despite better engagement
--
-- [[retrieval-augmented-tutoring-algorithm-kite]] — KITE's simulated-student evaluation framework for tutoring feedback
-- [[llm-student-misconception-identification]] — Misconception-specific interventions enabled by LLM diagnosis
-- [[teacher-authored-prompts-student-ai-dialogue]] — DOK and instructional intent alignment in assessments
+## Connected Articles
 
-- [[llm-feedback-programming-classroom]] — LLM-generated feedback as formative assessment in programming
-- [[vismatic-secure-sandbox-cs-education]] — Process-oriented monitoring for formative assessment in AI era
-- [[foxglove-writing-feedback-experts-llms]] — Goal-oriented and anchored feedback for formative writing assessment- [[cross-dataset-bloom-question-classification]] -- LLMs with tailored prompting generalize better than supervised models for cross-dataset Bloom taxonomy classification
-- [[llm-chatbots-cs-multiple-choice]] -- ChatGPT answers with explanations do not improve student MCQ performance; GPT-4o/5 outperform smaller models
-- [[ai-assessment-human-tutors]] -- AI-driven assessment of human tutor training performance correlates with real-li...
-- [[learning-to-prompt-adaptive-tutoring]] -- Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
-- [[confidence-aware-student-drawing-assessment]] -- Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
-- [[psyscore-essay-scoring-zpd-feedback]] -- PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback
-- [[correct-answer-trap-misconceptions]] -- Fine-tuned classifiers detect only 57% of hidden student misconceptions, while reasoning models reach 84% but at 8:1 false alarms — a detect-verify-escalate pipeline with diagnostic follow-up questions is proposed.
-- [[adaptive-pretesting-retention]] -- Adaptive AI pretesting boosts initial learning, but long-term retention over 7 weeks depends on subsequent retrieval practice — learner-directed AI study underperforms structured retrieval.
-- [[machines-misread-pedagogical-quality]] -- Human-machine disagreements in AI pretest evaluation are systematic; rubric revision has a larger alignment effect than rationale-first evaluation, and the two are complementary.
-- [[critical-engagement-code-completion]] — measuring critical engagement with AI code completion
-- [[cogtax-cognitive-taxonomy]] — formative assessment tools
-- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
-- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathem
-- [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable
-- [[prompt-coach-agentic-tutor-prompt-engineering]] — Self-correction oriented tutoring
-- [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission
-- [[llm-design-problems-hot-pjbl]] — HOT assessment method (2026-07-14)
-- [[teaching-feedback-classification-benchmark]] — Formative feedback (2026-07-14)
-- [[learning-engagement-assistant-lea]] — agentic RAG+KC tutoring system; first real-student classroom deployment (n=8) and cross-course scalability test
-- [[mllm-scientific-visualization-literacy]] — assessment instrument for visualization competence
-- [[assessment-team-problem-solving-computing-education]] — Assessment in Team Problem-Solving Exercises in Computing Education
-- [[automated-formative-assessments-a-level-sciences]] — Automating the marking of handwritten mock exams enables much higher formative-assessment frequency 
-- [[llm-psychometric-calibration-cdp]] — CDP framework dramatically improves LLM-simulated examinee alignment with human ...
-- [[llm-misconception-difficulty-easy-trap]] — LLMs systematically underestimate misconception-driven item difficulty ('Easy Tr...
-- [[icle-plus-plus-essay-scoring]]
-- [[socratic-tests-conversational-assessment]]
-- [[responsible-assessment-ai-era-stanford-2026]] — Stanford convening on extending formative assessment with AI feedback loops
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer

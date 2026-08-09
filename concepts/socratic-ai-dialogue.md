@@ -3,16 +3,11 @@ title: Socratic AI Dialogue
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [intelligent-tutoring, scaffolding, active-learning, higher-ed, stem-education, formative-assessment]
+tags: [intelligent-tutoring, scaffolding, active-learning, higher-ed, stem-education, formative-assessment, llm, generative-ai, student-experience, ai-literacy]
 confidence: medium
-sources: [raw/papers/hashmi-socratic-physics-chatbot-2025.md, raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md]
 ---
 
-# Socratic AI Dialogue
-
 > Socratic dialogue — asking structured questions rather than providing answers — is one of the strongest pedagogical scaffolds for deep learning. When automated via AI, it produces measurable reasoning gains but also requires careful calibration to avoid frustrating learners or displacing human mentorship.^[[hashmi-socratic-physics-chatbot-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
-
-## Hashmi & Rebello (2025): Physics Socratic Chatbot
 
 Deployed a custom Socratic AI chatbot in a large-enrollment introductory mechanics course:
 
@@ -52,22 +47,48 @@ Favero et al. (2025) caution that even Socratic AI can undermine agency if stude
 2. How does Socratic specificity correlate with *actual* (not self-reported) course performance?
 3. Can Socratic AI be combined with [[ai-peer-feedback-systems|peer feedback]] for social amplification?
 
-## Related Pages
-- [[codify-socratic-tutoring-programming]] — LLM-powered Socratic tutoring platform with competency tracking for programming
-- [[critical-thinking-genai-scaffolding]] — Vendrell & Johnston (2026): eight design principles for scaffolding critical thinking with LLMs in higher education.
-- [[prober-ai-inquiry-writing]] — inverted AI-tutoring: LLM asks questions only, gates suggestions behind reflection
-- [[pedagogy-ai-mistakes]] — deliberately leveraging AI errors to foster higher-order thinking
-- [[multimodal-learning-genai]] — Discussion/discourse as one of six engagement types; Socratic dialogue in multimodal contexts
-- [[pedagogical-llm-training]] — Training tutors to guide rather than answer
-- [[affective-tutoring]] — Affective calibration of Socratic dialogue
-- [[ai-tutor-safety-harms]] — Long-term Socratic dependency as a potential harm
-- [[self-regulated-learning]] — Socratic dialogue as external regulation that should fade
-- [[metacognition]] — Question specificity as a metacognitive skill
-- [[collaborative-ai-tutoring]] — Socratic dialogue in dyadic and group settings
-- [[ai-learning-transfer]] — Does Socratic reasoning transfer when AI is removed?
-- [[knowledge-tracing-irt]] — Modeling when a student is ready for less Socratic, more direct support
+## Connected Concepts
 
-- [[retrieval-augmented-tutoring-algorithm-kite]] — KITE extends Socratic tutoring with retrieval-augmented generation
-## Citation
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[assessment-validity]]
+- [[automated-assessment]]
 
-- Hashmi, S. F. A. & Rebello, N. S. (2025). *Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot*. arXiv:2508.14778v1. [PDF](https://arxiv.org/pdf/2508.14778v1) - Favero et al. (2025). *Do AI tutors empower or enslave learners?* arXiv:2507.06878. [PDF](https://arxiv.org/pdf/2507.06878)
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
+- [[ai-learning-transfer]] — AI Learning Transfer

@@ -3,16 +3,11 @@ title: Faculty Development and GenAI
 created: 2026-05-07
 updated: 2026-05-07
 type: concept
-tags: [faculty-development, higher-ed, policy-maker, ai-literacy, generative-ai, ai-education]
+tags: [faculty-development, higher-ed, policy-maker, ai-literacy, generative-ai, ai-education, llm, student-experience, stem-education, scaffolding]
 confidence: high
-sources: [raw/papers/every-learner-faculty-development-genai-playbook-2025.md, raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md]
 ---
 
-# Faculty Development and GenAI
-
 > Faculty professional learning around Generative AI is permanent, necessary, and structurally under-resourced. The Every Learner Everywhere / OLC playbook documents a field in pragmatic transition: not exuberant adoption, but grudging recognition that "you can't undo it."^[[every-learner-faculty-development-genai-playbook-2025]]
-
-## Study Design
 
 Mixed-methods study of Centers for Teaching and Learning (CTLs):
 - **Survey:** n=42 CTL leaders/directors (US and Australia)
@@ -112,35 +107,48 @@ The playbook's findings directly connect to research threads in the wiki:
 - **Humanities resistance** → [[authentic-assessment]] concerns about authorship and creativity
 - **Assessment redesign** → [[formative-assessment]] and [[authentic-assessment]] frameworks
 
-## Citation
+## Connected Concepts
 
-[Faculty Development and GenAI](https://www.everylearnereverywhere.org/wp-content/uploads/Faculty-Development-and-GenAI-Playbook.pdf).
+- [[adaptive-learning]]
+- [[adaptive-learning-systems]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[administrator]]
+- [[adult-learning]]
+- [[affective-computing]]
+- [[affective-tutoring]]
+- [[agentic-ai]]
+- [[agentic-workflows]]
+- [[ai-assistance-reduces-persistence]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[andragogy]]
 
-## Related Pages
-- [[learner-centered-feedback-ai]] — Experience gap: novices benefit, experts wary; de-skilling risk
-- [[dot-framework-survey]]
-- [[chatgpt-critical-creative-thinking-review]] — Systematic review: ChatGPT's dual impact on critical and creative thinking in higher education (67 studies)
-- [[ai-pedagogical-orientation]] — AI pedagogical orientation drives faculty AI adoption more than institutional factors
-- [[students-llm-usage-critical-thinking]] — Informing strategies for guiding student AI use
-- [[institutional-change-framework-ai]] — Six-dimension framework for adapting institutional change models in STEM to generative AI
-- [[teachingcoach-chatbot-instructor-guidance]] — Fine-tuned chatbot outperforms GPT-4o mini on clarity and reflectiveness
-- [[universities-ai-era-rethinking]] — CTLs as agents of institutional AI transformation
-- [[critical-thinking-genai-scaffolding]] — Vendrell & Johnston (2026): eight design principles for scaffolding critical thinking with LLMs in higher education.
-- [[state-policy-teacher-ai]] — NASBE/CRPE: five state policy recommendations for teacher AI adoption
-- [[ai-higher-ed-workforce-survey]] — EDUCAUSE survey: 94% use AI, 54% policy awareness, 56% shadow AI in higher ed
-- [[ai-education-global-capacity]] — global perspective: human/institutional capacity as AI-in-education bottleneck
-- [[ai-adult-learning-design]] — 19 design guidelines for AI technologies supporting adult learners
-- [[multimodal-learning-genai]] — Module-level and programme-level strategies for GenAI integration
-- [[principled-ai-education]] — Finkelstein's goals-models-technologies framework as a lens for faculty development design
-- [[ai-tutor-safety-harms]] — Student harms that faculty development should address
-- [[human-in-the-loop-ai]] — Governance and teacher control in institutional adoption
-- [[formative-assessment]] — Assessment redesign as a core faculty development topic
-- [[authentic-assessment]] — Redesigning assessment for an AI-present world
-- [[ai-literacy]] — Student-facing literacy; faculty need analogous professional literacy
-- [[educational-llm-alignment]] — Misalignment awareness for faculty evaluators
-- [[metacognition]] — Faculty awareness of how their GenAI use models behavior for students
-- [[multi-agent-instructional-design]] — K-12 teachers AI adoption patterns and tool development
-- [[ai-literacy-equity-programming-policy]] — Teacher AI-literacy preparedness (2026-07-14)
-- [[ai-tpack-teacher-multi-agent-workflow]] — Three teacher archetypes for AI workflow design and differentiated scaffolding
-- [[ai-generated-slides-student-perception]] — GenAI slide generation and student perception
-- [[teacher-ai-adoption-confidence]] — Institutional support builds teacher AI confidence
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for I...
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Co...
+- [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
+- [[authentic-assessment]] — Authentic Assessment
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+- [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
+- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico...
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study o...
+- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
