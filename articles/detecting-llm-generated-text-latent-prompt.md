@@ -33,19 +33,14 @@ This training-free approach contrasts with existing zero-shot detectors that rel
 The rise of [[llm|LLM-generated content]] in educational settings creates an urgent need for robust detection tools. EchoPrompt's zero-shot approach eliminates the need for costly detector training on specific LLM versions or domains, making it more practical for deployment in [[higher-ed|higher education]] contexts. The method's robustness to paraphrasing is particularly valuable given that students increasingly use rephrasing tools to evade simpler detectors.
 
 ## Connected Concepts
+
 - [[plagiarism-detection]]
 - [[ai-education]]
-- [[prompt-engineering]]
 - [[academic-integrity]]
-- [[higher-ed]]
-
-- [[generative-ai]]
 - [[llm]]
+- [[higher-ed]]
 ## Connected Articles
-- [[llm-detecting-llm-generated-content-education]] — Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
-- [[llm-educational-question-cognitive-depth]] — From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions
+
 
 ## Citation
 Bao, H., Ren, Y., Cao, Y., You, J., Fang, F., & Wang, S. (2026). [*Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration*](https://arxiv.org/abs/2608.05741v1). arXiv:2608.05741v1.

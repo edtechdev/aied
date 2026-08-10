@@ -97,43 +97,14 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[pedagogical-llm-training]]
 - [[student-experience]]
-
-- [[adaptive-learning]]
-- [[learning-analytics]]
-- [[mastery-learning]]
-- [[pedagogical-safety]]
-- [[rag]]
+- [[pedagogical-llm-training]]
 ## Connected Articles
 
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
-- [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
-- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
-- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing
-- [[principled-ai-education]] — Principled AI in Education
-- [[simulating-learner-task-selection]] — Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
-- [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
-
+- [[knowledge-tracing-irt]]
+- [[ai-tutor-safety-harms]]
+- [[principled-ai-education]]
+- [[llm-student-modeling-memory]]
 ## Citation
 
 accuracy?, H.D.R.C.W.C.D.I.P., predictions?, H.D.R.P.I.E.O.S.K., & 2021, O.L.E.M.C.S. (2026). [*Neural-Symbolic Knowledge Tracing*](https://arxiv.org/abs/2604.08263)

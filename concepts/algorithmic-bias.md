@@ -11,6 +11,5 @@ confidence: medium
 
 ## Connected Articles
 
-- [[gender-bias-transfer-llm-writing]] — Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing
-- [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations...
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations with a hybrid Graph-GRU framework
+- [[ai-lifelong-learning-policy]]
+- [[ai-scoring-language-bias-physics]]

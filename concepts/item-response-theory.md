@@ -12,18 +12,8 @@ confidence: medium
 ## Connected Concepts
 
 - [[knowledge-tracing]]
-- [[rag]]
+- [[student-modeling]]
 - [[ai-tutoring]]
-- [[socratic-ai-dialogue]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[llm]]
-- [[k-12]]
-- [[learning-analytics]]
-- [[affective-tutoring]]
-
 ## Connected Articles
 
-- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
+- [[huang-interpretable-knowledge-tracing-2026]]

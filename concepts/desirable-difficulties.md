@@ -11,5 +11,7 @@ confidence: medium
 
 ## Connected Articles
 
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
+- [[agentic-ai-pedagogical-best-practice-2026]]
+- [[finkelstein-principled-ai-education-2025]]
+- [[stanford-evidence-base-ai-k12-2026]]
+- [[structured-llm-feedback-programming]]

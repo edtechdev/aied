@@ -48,17 +48,14 @@ The framework's relevance to education is twofold:
 - The open-source release provides infrastructure for the AIED community to evaluate safety and robustness of educational language agents
 
 ## Connected Concepts
-- [[agentic-ai]]
-- [[pedagogical-safety]]
-- [[ai-education]]
-- [[human-ai-collaboration]]
 
-- [[generative-ai]]
-- [[llm]]
+- [[agentic-ai]]
+- [[ai-education]]
+- [[pedagogical-safety]]
+- [[ai-tutoring]]
+- [[pedagogical-agent]]
 ## Connected Articles
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[human-ai-collaboration-trust-expectations]] — Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust
-- [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning
+
 
 ## Citation
 Shouqi, S., Nazly, A., Wanniarachchi, J., & De Alwis, R. (2026). [*Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation*](https://arxiv.org/abs/2608.03166v1). arXiv:2608.03166v1.

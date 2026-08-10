@@ -25,29 +25,25 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 
 ## Connected Concepts
 
-- [[ai-literacy]]
-- [[llm]]
-- [[higher-ed]]
 - [[scaffolding]]
-- [[generative-ai]]
-- [[metacognition]]
-- [[k-12]]
-- [[cognitive-offloading]]
+- [[ai-literacy]]
 - [[agentic-ai]]
-- [[student-experience]]
-- [[ai-education]]
+- [[metacognition]]
 - [[curriculum-design]]
-
+- [[over-reliance]]
+- [[writing-education]]
+- [[k-12]]
+- [[generative-ai]]
+- [[instructional-design]]
+- [[cs-education]]
+- [[higher-ed]]
 ## Connected Articles
 
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
-- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering
-- [[choi-anchor-aes-prompting-2025]] — Anchor-Based Prompting for AES
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI: K-12 Prompting Literacy
-- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy Through Interaction Patterns
-- [[guided-llm-scaffolding-independent-learning]] — Guided LLM Scaffolding for Independent Learning
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical GenAI Engagement
-- [[voice-text-prompt-problems-computing-education]] — Voice vs Text Prompt Modalities
-- [[same-ai-different-pathways]] — Unpacking AI-Mediated Learning Mechanisms
-- [[cstutorbench-slm-tutors]] — CSTutorBench: SLM Tutors
-- [[multimodal-prompting-ai-literacy]] — Multimodal Prompting as Epistemic Work
+- [[aaai2026-prompting-literacy-k12]]
+- [[ai-adoption-training-public-sector]]
+- [[ase-26-agentic-software-engineering-curriculum]]
+- [[choi-anchor-aes-prompting-2025]]
+- [[guided-llm-scaffolding-independent-learning]]
+- [[llm-intervention-design-cs-review]]
+- [[misiejuk-cognitive-offloading-prompting-2026]]
+- [[tracing-genai-literacy-interaction-patterns]]

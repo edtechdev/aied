@@ -78,43 +78,8 @@ The paper illustrates these shifts through case studies of **multimodal tutoring
 
 ## Connected Concepts
 
-- [[ai-literacy-assessment-misalignment]]
-- [[assessment-validity]]
-- [[automated-grading]]
-- [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[llm-cognitive-diagnosis-handwritten-math]]
-
-- [[generative-ai]]
-- [[learning-analytics]]
-- [[llm]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
-- [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
-- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis
-- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
-- [[reliable-programming-kt]] — Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental...
-- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
-- [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs
-- [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specifi...
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agentic-workflows-education]] — Agentic Workflows in Education
 
 ## Citation
 

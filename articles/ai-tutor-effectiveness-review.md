@@ -62,43 +62,18 @@ The review identifies a **critical need for stronger experimental design and dat
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[affective-tutoring]]
-- [[assessment-validity]]
-- [[human-in-the-loop-ai]]
 - [[pedagogical-llm-training]]
-- [[socratic-ai-dialogue]]
-
-- [[higher-ed]]
-- [[k-12]]
+- [[affective-tutoring]]
+- [[human-in-the-loop-ai]]
 ## Connected Articles
 
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
-- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
-- [[hybrid-human-ai-tutoring-differentiated]] — Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
-- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
-- [[learning-to-prompt-adaptive-tutoring]] — Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
-- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
-- [[moodle-ai-tutoring-deep-learning]] — From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle
-- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
-- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
-- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
-- [[text-simplification-its]] — Text Simplification for Intelligent Tutoring
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
-
+- [[zerkouk-comprehensive-review-its-2025]]
+- [[ai-k12-evidence-base]]
+- [[educational-llm-alignment]]
+- [[knowledge-tracing-irt]]
+- [[ai-tutor-safety-harms]]
+- [[agentic-workflows-education]]
+- [[collaborative-ai-tutoring]]
 ## Citation
 
 Zerkouk, Mihoubi & Chikhaoui (2025). [AI Tutor Effectiveness Review](https://arxiv.org/abs/2507.18882v1).

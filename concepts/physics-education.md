@@ -13,5 +13,10 @@ Research themes include:
 
 ## Connected Concepts
 
-
-
+- [[socratic-method]]
+- [[stem-education]]
+- [[intelligent-tutoring]]
+- [[generative-ai]]
+- [[learning-analytics]]
+- [[educational-measurement]]
+- [[computational-thinking]]

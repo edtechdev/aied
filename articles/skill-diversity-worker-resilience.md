@@ -40,17 +40,14 @@ This framework has direct implications for [[ai-education|educational policy]] a
 - **[[ai-literacy]] as adaptive capital:** AI literacy itself may function as a frontier-expanding meta-skill, enabling workers to integrate AI tools into diverse domains
 
 ## Connected Concepts
-- [[ai-education]]
-- [[ai-literacy]]
-- [[higher-ed]]
 
-- [[llm]]
+- [[workforce-development]]
+- [[ai-education]]
+- [[faculty-development]]
 - [[professional-training]]
+- [[ai-literacy]]
 ## Connected Articles
-- [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
-- [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
-- [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
-- [[idan-anand-genai-productivity-divide-2026]] — Generative AI and the Productivity Divide: Human-AI Complementarities in Education
+
 
 ## Citation
 Carpanelli, M., Duszynski, J., & Stephany, F. (2026). [*Navigating the skill diversity frontier: How skill complexity explains worker resilience*](https://arxiv.org/abs/2608.02102v1). arXiv:2608.02102v1.

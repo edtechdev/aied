@@ -11,20 +11,19 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[teacher-ai-competency]]
-- [[llm]]
-- [[k-12]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[ai-literacy]]
-- [[ai-ed-evaluation]]
-- [[human-ai-collaboration]]
-- [[curriculum-design]]
-
+- [[intelligent-tutoring]]
+- [[academic-integrity]]
+- [[over-reliance]]
+- [[student-experience]]
+- [[privacy]]
+- [[regulation]]
+- [[learning-analytics]]
+- [[cognitive-offloading]]
+- [[cognitive-load-theory]]
+- [[critical-thinking]]
+- [[pedagogical-safety]]
+- [[ai-governance-education]]
 ## Connected Articles
 
-- [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
-- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
-- [[ai-pedagogical-accompaniment-amico]] — Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mo...
-- [[connected-ai-lesson-planning-vietnam]] — ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
+- [[ai-team-teaching-talk-analytics]]
+- [[favero-critical-ai-tutors-empower-enslave-2025]]

@@ -66,46 +66,12 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[affective-tutoring]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[socratic-ai-dialogue]]
 - [[zone-of-proximal-development]]
-
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[higher-ed]]
-- [[learning-analytics]]
-- [[scaffolding]]
+- [[metacognition]]
 ## Connected Articles
 
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
-- [[authentic-assessment]] — Authentic Assessment
-- [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
-- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
-- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-- [[golrang-propact-pair-programming-2026]] — ProPACT: Pair Programming with AI
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation...
-- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[student-perception-ai-use-collaboration]] — Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance
-- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-
+- [[golrang-propact-pair-programming-2026]]
+- [[tutoring-specific-vs-general-ai]]
 ## Citation
 
 Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |, S.D.M., & |, I.F.T.T.C.F. (2026). [*Collaborative AI Tutoring*](https://arxiv.org/abs/2605.02703)

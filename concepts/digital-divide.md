@@ -13,5 +13,15 @@ Research themes include:
 
 ## Connected Concepts
 
-
-
+- [[teacher-role]]
+- [[faculty-development]]
+- [[equity]]
+- [[generative-ai]]
+- [[scaffolding]]
+- [[feedback-loop]]
+- [[formative-assessment]]
+- [[rct]]
+- [[human-in-the-loop-ai]]
+- [[lifelong-learning]]
+- [[educational-policy-ai]]
+- [[regulation]]

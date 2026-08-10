@@ -38,25 +38,32 @@ The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor)
 
 ## Connected Concepts
 
+- [[scaffolding]]
 - [[adaptive-learning]]
-- [[knowledge-tracing]]
 - [[llm]]
-- [[student-modeling]]
-- [[personalized-learning]]
-- [[generative-ai]]
 - [[learning-analytics]]
-- [[edtech-platform]]
+- [[equity]]
+- [[personalized-learning]]
+- [[student-experience]]
+- [[self-regulated-learning]]
+- [[generative-ai]]
 - [[ai-education]]
-- [[multimodal]]
-- [[ai-governance-education]]
-
+- [[metacognition]]
+- [[over-reliance]]
 ## Connected Articles
 
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents
-- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the Hint Button: Consistent Negative Associations
-- [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[correct-answer-trap-ai-tutor]] — The Correct Answer Trap
-- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding for LLM Tutors
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive ITS Review
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[agent-voice-accents-k12-group-learning]]
+- [[ai-coaching-rl-skill-development]]
+- [[ai-enabled-serious-games]]
+- [[ai-interlocutor-l2-spoken-dialogue]]
+- [[ai-lifelong-learning-policy]]
+- [[ai-lms-middle-school-longitudinal]]
+- [[ai-metacognition-stem-review]]
+- [[ai-pedagogical-accompaniment-amico]]
+- [[ai-stem-bibliometric-trends]]
+- [[automated-presentation-coaching]]
+- [[child-safety-genai]]
+- [[clara-collaboration-literacy-dashboard]]
+- [[codify-socratic-programming-tutor]]
+- [[codify-socratic-tutoring-programming]]
