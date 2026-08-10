@@ -1,0 +1,58 @@
+---
+title: "Use This Wiki with Your Own AI Assistant"
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+<BaseLayout title="Use This Wiki with Your Own AI Assistant" description="Copy-paste prompt for using the AI in Education Wiki with your own chatbot or agent.">
+  <h1>Use This Wiki with Your Own AI Assistant</h1>
+
+  <p style="line-height:1.7">
+    This wiki is <strong>agent-ready</strong>: the full catalog and content are published as machine-readable
+    text files that any AI chatbot, coding agent, or LLM tool can ingest. Give your assistant the link below
+    and it can answer questions about AI in education research with citations back to this wiki.
+  </p>
+
+  <h2>Quick start</h2>
+  <p style="line-height:1.7">
+    Point your AI assistant at one of these files — most tools can read a URL directly:
+  </p>
+  <ul style="line-height:1.9">
+    <li><a href="/aied/llms.txt">llms.txt</a> — complete catalog: every article and concept, one line each, with description</li>
+    <li><a href="/aied/llms-full.txt">llms-full.txt</a> — full text of every article and concept page</li>
+    <li><a href="/aied/sitemap-index.xml">Sitemap</a> — all page URLs</li>
+    <li><a href="/aied/rss.xml">RSS feed</a> — latest additions</li>
+  </ul>
+
+  <h2>Copy-paste prompt</h2>
+  <p style="line-height:1.7">
+    Paste this into your AI chatbot or agent to use the wiki as a research reference:
+  </p>
+  <pre style="background:#f6f6f7;border:1px solid #ddd;border-radius:8px;padding:1rem;font-size:0.85rem;line-height:1.55;overflow-x:auto;white-space:pre-wrap;"><code>You are a research assistant for AI in education. Use the AI in Education Wiki
+as your knowledge base.
+
+1. First fetch the catalog: https://edtechdev.github.io/aied/llms.txt
+   (If you need full text of specific pages, fetch them from
+   https://edtechdev.github.io/aied/llms-full.txt or the individual page URLs.)
+
+2. When answering questions about AI in education research, ground your answer
+   in articles and concepts from this wiki. Cite the wiki page title and URL
+   for every claim you make from it, e.g.:
+   "According to the wiki article 'X' (URL), ..."
+
+3. If asked about a topic, synthesize across multiple related articles and
+   concepts rather than relying on a single page. Mention when the wiki does
+   not cover a topic instead of guessing.
+
+4. Recommend related articles and concepts when relevant.
+
+Example question: "What does the research say about AI feedback for student writing?"
+→ Fetch llms.txt, find the writing/feedback articles, read the most relevant
+  pages, and answer with citations.</code></pre>
+
+  <h2>Notes for agents</h2>
+  <ul style="line-height:1.9">
+    <li>The wiki covers AI in education research: tutoring, assessment, feedback, AI literacy, teacher AI competency, policy, and more.</li>
+    <li>Articles include APA citations; the original paper links are in each citation.</li>
+    <li>Concept pages synthesize the related articles — start there for overviews.</li>
+  </ul>
+</BaseLayout>
