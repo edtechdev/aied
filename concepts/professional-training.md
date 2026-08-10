@@ -1,38 +1,46 @@
 ---
-title: Professional Training
-created: 2026-05-21
-updated: 2026-05-21
+title: Professional Training and AI
+created: 2026-08-09
+updated: 2026-08-09
 type: concept
-tags: [professional-training, generative-ai, llm, higher-ed, intelligent-tutoring, adaptive-learning, scaffolding, active-learning, personalized-learning, over-reliance]
-confidence: medium
+tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation-based-learning, higher-ed, generative-ai, llm]
+confidence: high
 ---
 
-> **Professional training** with AI spans simulation and feedback: [[ai-psychotherapy-training-avatars]], [[adaptive-virtual-patient-psychotherapy-training]], [[medgame-llm-medical-education-gamification]], and [[tibetcpr-ai-training-feedback]] use AI avatars, patients, and feedback to train professionals at scale (simulation-based-learning, [[formative-assessment]]).
+> **Professional training** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends AI in education beyond formal schooling into workplace and lifelong learning contexts.
+
+### AI in professional training
+
+- **Skill development:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-coaching-rl-skill-development|RL-based skill coaching]] demonstrate AI-driven professional development.
+- **Simulation and practice:** [[adaptive-virtual-patient-psychotherapy-training|Virtual patient training]] and [[astra-atco-training-simulator|ATCO training simulators]] create AI-powered professional practice environments.
+- **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] research connect professional training to continuous education.
+- **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
+
+### Distinct from academic education
+
+Professional training differs from academic education in its focus on applied skills, immediate workplace relevance, and adult learner characteristics. [[adult-learning]] theory and [[andragogy]] principles inform professional AI training design.
+
+### Connections
+
+Professional training connects to [[lifelong-learning]], [[adult-learning]], [[faculty-development]] (the academic parallel), [[simulation-based-learning]], and [[ai-literacy]] (workplace AI competency).
 
 ## Connected Concepts
 
+- [[lifelong-learning]]
+- [[adult-learning]]
+- [[faculty-development]]
 - [[ai-literacy]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[stem-education]]
-- [[self-regulated-learning]]
-- [[adaptive-learning]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[over-reliance]]
+- [[simulation-based-learning]]
 - [[higher-ed]]
-- [[feedback-loop]]
+- [[generative-ai]]
+- [[llm]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+
 ## Connected Articles
 
-- [[agents-that-teach-incidental-learning]]
+- [[crewscaler-ai-upskilling-framework]]
 - [[ai-coaching-rl-skill-development]]
-- [[ai-literacy-legal-translation-2026]]
-- [[automated-presentation-coaching]]
-- [[genai-literacy-image-discrimination]]
-- [[genai-marketing-education-roles-2026]]
-- [[generative-ai-education-productivity-gaps]]
-- [[metacognitive-learning-scenarios-taxonomy]]
-- [[prompt-coach-agentic-tutor-prompt-engineering]]
-- [[skill-diversity-worker-resilience]]
-- [[supplynet-visual-exploratory-learning]]
+- [[adaptive-virtual-patient-psychotherapy-training]]
+- [[astra-atco-training-simulator]]
+- [[ai-adoption-training-public-sector]]
