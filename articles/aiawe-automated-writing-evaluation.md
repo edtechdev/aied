@@ -30,6 +30,7 @@ Three broader findings emerge: (1) model scale is not a reliable predictor of do
 ## Connected Articles
 
 - [[short-answer-scoring-quality-degradation]]
+- [[icle-plus-plus-essay-scoring]]
 ## Citation
 
 Gayed, J. M. (2026). [AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models](https://arxiv.org/abs/2606.12801). arXiv:2606.12801.

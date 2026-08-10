@@ -53,6 +53,7 @@ PsyScore integrates diagnostic assessment with instructional scaffolding through
 - [[confidence-aware-ai-assessment]]
 ## Connected Articles
 
+- [[icle-plus-plus-essay-scoring]]
 
 ## Citation
 
