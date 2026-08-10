@@ -1,42 +1,54 @@
 ---
 title: AI Education
-created: 2026-07-28
-updated: 2026-07-28
+created: 2026-08-09
+updated: 2026-08-09
 type: concept
-tags: [higher-ed, stem-education, llm, generative-ai, benchmark, assessment, curriculum-design, professional-training, multimodal, automated-grading]
-confidence: medium
+tags: [ai-literacy, ai-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai]
+confidence: high
 ---
 
-> **AI education** — teaching about AI itself — is examined through [[k-12-ai-education]], [[ml-literacy-primary-education]], [[principled-ai-education]], and [[ai-literacy-equity-programming-policy]], which find that curricula must span technical, ethical, and equity dimensions of AI literacy.
+> **AI Education** — the broad field encompassing both AI in education (using AI to teach) and AI literacy (teaching about AI). As the wiki's umbrella concept, AI education connects instructional technology, learning science, educational policy, and AI development.
+
+### Two dimensions of AI education
+
+AI education research in the wiki spans two interconnected dimensions:
+
+- **AI for education:** Using AI to improve teaching and learning — [[ai-tutoring|AI tutoring]], [[automated-grading]], [[personalized-learning]], [[formative-assessment]], and [[learning-analytics]].
+- **Education about AI:** Developing [[ai-literacy]] — teaching students and educators to understand, use, and critically evaluate AI. [[prompt-engineering]], [[critical-thinking]], and [[ethics]] are core literacy components.
+
+### Cross-cutting themes
+
+- **Evidence and evaluation:** [[ai-ed-evaluation]], [[rct|randomized trials]], and [[meta-analysis|meta-analyses]] build the evidence base for what works.
+- **Policy and governance:** [[educational-policy-ai]], [[regulation]], and [[ai-governance-education]] address the institutional frameworks needed for responsible AI adoption.
+- **Equity and access:** [[equity]] and [[bias-mitigation]] research examines whether AI education serves all learners.
+- **Teacher preparation:** [[teacher-ai-competency]] and [[faculty-development]] ensure educators are prepared for AI-augmented classrooms.
+
+### Field maturity
+
+The wiki reflects a field in rapid evolution — from early ITS research to LLM-driven tutoring, from detection-focused academic integrity to assessment redesign, from tool-centric studies to sociotechnical frameworks.
+
+### Connections
+
+AI education connects to every concept in the wiki — it is the field that all other concepts collectively define.
 
 ## Connected Concepts
 
-- [[equity]]
-- [[intelligent-tutoring]]
 - [[ai-literacy]]
-- [[higher-ed]]
-- [[adaptive-learning]]
-- [[rct]]
+- [[ai-tutoring]]
 - [[generative-ai]]
-- [[professional-training]]
-- [[student-modeling]]
-- [[knowledge-tracing]]
+- [[llm]]
+- [[higher-ed]]
+- [[k-12]]
+- [[teacher-role]]
+- [[educational-policy-ai]]
+- [[equity]]
+- [[regulation]]
 - [[learning-analytics]]
-- [[edtech-platform]]
+
 ## Connected Articles
 
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[agentic-ai-education-scoping-review]]
-- [[child-safety-genai]]
-- [[cogtax-cognitive-taxonomy]]
-- [[detecting-llm-generated-text-latent-prompt]]
-- [[dura-llm-cs2]]
-- [[elevate-genai-virtual-tutors]]
-- [[gaze-informed-ai-children]]
-- [[genai-academic-search-workshop]]
-- [[genai-policies-higher-ed-computing]]
-- [[generative-ai-education-productivity-gaps]]
-- [[institutional-governance-ai-universities]]
-- [[less-deliberate-teams-llm]]
-- [[mixed-reality-engineering-learning]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
+- [[raza-farooq-aied-review-2020-2025]]
+- [[liang-genai-systematic-review-human-ai-2026]]
+- [[brookings-ai-students-report]]
+- [[white-wu-robotics-ai-education-2026]]
+- [[institutional-change-framework-ai]]

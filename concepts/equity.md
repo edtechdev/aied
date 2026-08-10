@@ -1,44 +1,50 @@
 ---
-title: Equity
+title: Equity in AI Education
 created: 2026-08-09
 updated: 2026-08-09
 type: concept
-tags: [ai-education, generative-ai, higher-ed, student-experience]
-confidence: low
+tags: [bias-mitigation, special-education, accessible-learning, culturally-relevant-pedagogy, ai-literacy, educational-policy-ai, higher-ed, k-12]
+confidence: high
 ---
-> **Equity** is a central concept in AI in education research, connected to 33 articles in this wiki. 
 
-Research in this wiki explores equity through multiple lenses:
-- **School network reorganization under educational and spatial constraints using classical and quantum optimization:** This paper develops an optimization framework for school network reorganization that integrates geographic, administrative, and educational criteria into an Integer Linear Programming formulation.
+> **Equity** — the principle that AI in education should serve all learners fairly, without exacerbating existing disparities. Equity research in the wiki examines access gaps, bias in AI systems, culturally responsive design, and the distribution of AI's benefits and harms.
+
+### Equity dimensions in AIED
+
+- **Access equity:** [[access-not-enough-ai-tutoring-2026|Access is not enough]] — providing AI tools without addressing structural barriers does not close gaps. [[digital-divide|Digital divide]] research and [[ai-literacy-equity-programming-policy|equity policy analysis]] document who gets left behind.
+- **Bias in AI systems:** [[bias-mitigation]], [[ai-scoring-language-bias-physics|language bias in scoring]], and [[algorithmic-bias|algorithmic bias]] research show that AI can encode and amplify existing biases unless explicitly designed for fairness.
+- **Culturally responsive AI:** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]] and [[community-centered-ai-education-adults|community-centered AI education]] advocate for AI that reflects diverse cultural contexts.
+- **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], and [[dyslexlens-dyslexic-learners-ai|dyslexic learners]] represent groups whose needs are often overlooked in AI system design.
+- **Global equity:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives.
+
+### Equity as a design principle
+
+The wiki argues that equity must be designed into AI systems, not added as an afterthought. This connects to [[bias-mitigation]] (the technical approach), [[institutional-change-framework-ai|institutional change]] (the systemic approach), and [[ai-literacy]] (ensuring all students can use AI effectively).
+
+### Connections
+
+Equity connects to [[bias-mitigation]], [[special-education]], [[accessibility|accessible learning]], [[culturally-relevant-pedagogy]], and [[educational-policy-ai]] — it is the cross-cutting concern that every AI education deployment must address.
 
 ## Connected Concepts
 
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[ai-education]]
-- [[student-experience]]
-- [[faculty-development]]
-- [[generative-ai]]
-- [[over-reliance]]
-- [[educational-policy-ai]]
-- [[teacher-role]]
-- [[k-12]]
+- [[bias-mitigation]]
 - [[special-education]]
+- [[accessible-learning]]
+- [[culturally-relevant-pedagogy]]
+- [[ai-literacy]]
+- [[educational-policy-ai]]
+- [[higher-ed]]
+- [[k-12]]
+- [[privacy]]
+- [[regulation]]
+- [[ethics]]
+
 ## Connected Articles
 
-- [[agent-voice-accents-k12-group-learning]]
-- [[agentic-ai-education-scoping-review]]
-- [[ai-changing-teaching-workflows]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-literacy-equity-programming-policy]]
-- [[ai-pedagogical-accompaniment-amico]]
+- [[access-not-enough-ai-tutoring-2026]]
 - [[ai-scoring-language-bias-physics]]
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[child-safety-genai]]
-- [[cogtax-cognitive-taxonomy]]
-- [[community-centered-ai-education-adults]]
-- [[cross-cultural-student-perceptions-genai-computing]]
+- [[ai-literacy-equity-programming-policy]]
 - [[culturally-aware-aied-community-learning]]
-- [[dura-llm-cs2]]
+- [[community-centered-ai-education-adults]]
+- [[amponsah-ai-acceptance-science-teachers-2026]]
+- [[neurodivergent-computing-students]]

@@ -1,45 +1,47 @@
 ---
-title: STEM Education
+title: STEM Education and AI
 created: 2026-08-09
 updated: 2026-08-09
 type: concept
-tags: [ai-education, generative-ai, higher-ed, student-experience]
-confidence: low
+tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, ai-tutoring, automated-grading]
+confidence: high
 ---
-> **STEM Education** is a central concept in AI in education research, connected to 34 articles in this wiki. 
 
-Research in this wiki explores stem education through multiple lenses:
-- **NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts:** Systematic study of domain-adapted text-to-image models for nuclear engineering education.
-- **WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant:** Work-in-progress exploring LLMs as debugging assistants for physical hardware lab courses.
+> **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for AI in education research in the wiki. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for AI tutoring and assessment.
+
+### STEM as the primary AIED domain
+
+- **Mathematics:** [[math-education|Math education]] research spans [[generative-ai-reduced-study-time-math|GenAI impact on math learning]], [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutoring]], and [[math-competence-clustering|competence clustering]].
+- **Physics:** [[physics-education|Physics education]] includes [[becker-chatgpt-typology-physics-2026|ChatGPT typology studies]], [[hashmi-socratic-physics-chatbot-2025|Socratic physics chatbots]], and [[ai-scoring-language-bias-physics|scoring bias analysis]].
+- **Computer science:** [[cs-education|CS education]] is the most-researched STEM subfield — [[code-review-genai-cs1|code review]], [[debugtracker-classroom-debugging|debugging tools]], and [[prompt-problems-nl-programming-mistakes|prompting studies]].
+- **Engineering:** [[concept-catalyst-engineering-scaffolds|Engineering scaffolds]], [[structured-ai-demonstrations-engineering-mechanics|mechanics demonstrations]], and [[ai-engineering-education-balancing-act|curriculum balancing]] bring AI to engineering education.
+
+### Why STEM dominates
+
+STEM's structured knowledge representation, verifiable answers, and computational thinking alignment make it the most natural fit for AI tutoring. [[computational-thinking|Computational thinking research]] explores this alignment explicitly.
+
+### Connections
+
+STEM education connects to [[cs-education]], [[math-education]], [[physics-education]], [[computational-thinking]], [[k-12]], [[higher-ed]], and [[ai-tutoring]] — it is the domain context for much of the wiki's tutoring and assessment research.
 
 ## Connected Concepts
 
-- [[higher-ed]]
-- [[formative-assessment]]
-- [[teacher-role]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
 - [[cs-education]]
+- [[math-education]]
+- [[physics-education]]
+- [[computational-thinking]]
+- [[k-12]]
+- [[higher-ed]]
+- [[ai-tutoring]]
+- [[automated-grading]]
+- [[formative-assessment]]
+- [[personalized-learning]]
 - [[llm]]
-- [[intelligent-tutoring]]
+
 ## Connected Articles
 
-- [[ai-coaching-rl-skill-development]]
-- [[ai-generated-traces-novice-programmers]]
-- [[ai-learning-tools-engineering-education-needs]]
-- [[ai-powered-materials-discovery-ai-literacy]]
-- [[ai-stem-bibliometric-trends]]
-- [[anvil-ai-educational-animations]]
-- [[assessment-team-problem-solving-computing-education]]
-- [[awareness-technological-isomorphism]]
-- [[bridging-instructional-design-framework-math]]
-- [[chat-debugging-llm-hardware-education-2026]]
+- [[becker-chatgpt-typology-physics-2026]]
+- [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[concept-catalyst-engineering-scaffolds]]
-- [[critical-engagement-code-completion]]
-- [[epistemic-proactivity-math]]
-- [[forap-pjbl-computing-education]]
-- [[genai-meta-analysis-programming-learning]]
+- [[generative-ai-reduced-study-time-math]]
+- [[ai-metacognition-stem-review]]

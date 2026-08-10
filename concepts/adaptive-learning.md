@@ -1,42 +1,47 @@
 ---
 title: Adaptive Learning
-created: 2026-05-26
-updated: 2026-07-27
+created: 2026-08-09
+updated: 2026-08-09
 type: concept
-tags: [adaptive-learning, intelligent-tutoring, personalized-learning, llm, higher-ed, scaffolding, student-experience, generative-ai, k-12, learning-analytics]
-confidence: medium
+tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
+confidence: high
 ---
 
-Adaptive learning refers to educational technologies that dynamically adjust content, difficulty, pacing, or instructional approach based on individual learner performance, preferences, or needs. It is a core component of modern [[intelligent-tutoring]] systems.
+> **Adaptive learning** — AI-driven educational systems that adjust content, pacing, and instructional strategies based on individual learner characteristics and performance. Adaptive learning is the operational goal of much AI in education research: using student models to personalize instruction.
+
+### Core mechanisms
+
+- **Measure-model-adapt loop:** [[knowledge-tracing]] estimates what the student knows, [[student-modeling]] represents the learner, and the system adapts difficulty, content, and feedback accordingly.
+- **Personalization at scale:** [[personalized-learning]] systems use adaptive algorithms to serve unique learning paths for each student. [[deeptutor|DeepTutor]] and [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutors]] demonstrate adaptive personalization in practice.
+- **Content sequencing:** [[adaptive-pretesting-retention|Adaptive pretesting]] and [[adapt-adaptive-lesson-plan-transformer|lesson plan transformers]] optimize the order and type of content presented.
+- **ITS integration:** [[intelligent-tutoring|Intelligent tutoring systems]] are the canonical adaptive learning platform, combining diagnosis with adaptation.
+
+### Effectiveness evidence
+
+The wiki documents mixed evidence: adaptive systems improve outcomes when adaptation is grounded in reliable [[student-modeling|student models]], but poorly-calibrated adaptation can harm learning. [[personalized-learning|Personalization research]] distinguishes effective adaptation from superficial customization.
+
+### Connections
+
+Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[personalized-learning]] (the goal), [[intelligent-tutoring]] (the platform), [[cognitive-diagnosis]] (fine-grained assessment), and [[scaffolding]] (adaptation as dynamic scaffolding).
 
 ## Connected Concepts
 
+- [[knowledge-tracing]]
 - [[personalized-learning]]
 - [[intelligent-tutoring]]
-- [[formative-assessment]]
-- [[learning-analytics]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ai-literacy]]
+- [[student-modeling]]
 - [[scaffolding]]
-- [[self-regulated-learning]]
-- [[edtech-platform]]
-- [[stem-education]]
-- [[teacher-role]]
+- [[cognitive-diagnosis]]
+- [[llm]]
+- [[learning-analytics]]
+- [[higher-ed]]
+- [[k-12]]
+- [[formative-assessment]]
+
 ## Connected Articles
 
-- [[adaptive-pretesting-retention]]
-- [[ai-adult-learning-design]]
-- [[ai-coaching-rl-skill-development]]
-- [[ai-enabled-serious-games]]
-- [[ai-learning-tools-engineering-education-needs]]
-- [[ai-metacognition-stem-review]]
-- [[ai-powered-personalized-learning-elementary-fractions-2026]]
-- [[ai-stem-bibliometric-trends]]
-- [[authentic-assessment]]
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[codify-socratic-programming-tutor]]
-- [[cognitive-agent-compilation]]
-- [[cross-subject-validity-delayed-start]]
 - [[deeptutor]]
-- [[ecnuclaw-k12-personalized-companion]]
+- [[ai-powered-personalized-learning-elementary-fractions-2026]]
+- [[adaptive-pretesting-retention]]
+- [[adapt-adaptive-lesson-plan-transformer]]
+- [[zerkouk-comprehensive-review-its-2025]]
