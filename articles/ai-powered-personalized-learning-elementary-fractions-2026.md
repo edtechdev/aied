@@ -13,12 +13,16 @@ Examines AI-powered personalized learning in elementary fraction instruction thr
 
 ## Connected Concepts
 
+- [[math-education]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[k-12]]
-- [[math-education]]
 - [[generative-ai]]
+- [[student-experience]]
 ## Connected Articles
+
+- [[epistemic-proactivity-math]]
+- [[kar-mathbuddy-affective-math-tutoring-2025]]
 
 
 ## Citation

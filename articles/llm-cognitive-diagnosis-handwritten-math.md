@@ -3,7 +3,7 @@ title: Benchmarking Large Language Models for Diagnosing Students' Cognitive Ski
 created: 2026-05-31
 updated: 2026-05-31
 type: article
-tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-loop, critical-thinking, hallucination-risk, k-12, llm, generative-ai]
+tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-loop, critical-thinking, hallucination-risk, k-12, llm, generative-ai, math-education]
 confidence: high
 ---
 
@@ -63,6 +63,7 @@ MathCog builds on existing [[llm-handwritten-math-grading]] work but shifts focu
 
 ## Connected Concepts
 
+- [[math-education]]
 - [[hallucination-risk]]
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]

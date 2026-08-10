@@ -3,7 +3,7 @@ title: Representation Robustness under Executable Reasoning Constraints in Large
 created: 2026-07-24
 updated: 2026-07-24
 type: article
-tags: [llm, stem-education, benchmark, assessment-validity, llm-cognitive-diagnosis-handwritten-math, reinforcement-learning, rag]
+tags: [llm, stem-education, benchmark, assessment-validity, reinforcement-learning, rag, math-education]
 sources: ['raw/papers/2607.20520.md']
 confidence: high
 ---

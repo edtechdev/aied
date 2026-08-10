@@ -3,7 +3,7 @@ title: "From Prompting to Epistemic Proactivity: Temporal Trajectories of Studen
 created: 2026-06-30
 updated: 2026-06-30
 type: article
-tags: [ai-literacy, k-12, metacognition, stem-education, student-experience, self-regulated-learning, llm, scaffolding]
+tags: [ai-literacy, k-12, metacognition, stem-education, student-experience, self-regulated-learning, llm, scaffolding, math-education]
 sources: ['raw/papers/2606.28472.md']
 confidence: high
 ---
@@ -13,13 +13,18 @@ Abdelghani, Kaiser & Murayama (2026) trace how middle and high school students' 
 
 ## Connected Concepts
 
+- [[math-education]]
 - [[ai-literacy]]
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[stem-education]]
 - [[k-12]]
 - [[student-experience]]
+- [[scaffolding]]
 ## Connected Articles
+
+- [[kar-mathbuddy-affective-math-tutoring-2025]]
+- [[ai-powered-personalized-learning-elementary-fractions-2026]]
 
 
 ## Citation
