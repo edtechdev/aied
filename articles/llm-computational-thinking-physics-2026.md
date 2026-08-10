@@ -20,7 +20,16 @@ As computation becomes more central to physics education, scalable methods to as
 
 ## Connected Concepts
 
+- [[physics-education]]
+- [[computational-thinking]]
+- [[stem-education]]
+- [[automated-grading]]
+- [[educational-measurement]]
+- [[higher-ed]]
 ## Connected Articles
+
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[ai-scoring-language-bias-physics]]
 
 
 ## Citation
