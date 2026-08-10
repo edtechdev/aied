@@ -3,7 +3,7 @@ title: "AI literacy-related domains and AI-TPACK readiness among preservice math
 created: 2026-06-03
 updated: 2026-08-07
 type: article
-tags: [ai-literacy, higher-ed, stem-education, faculty-development]
+tags: [ai-literacy, higher-ed, stem-education, faculty-development, math-education]
 sources: ['raw/papers/caeai-ai-tpack-math.md']
 confidence: medium
 ---
@@ -12,7 +12,16 @@ confidence: medium
 
 ## Connected Concepts
 
+- [[math-education]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[stem-education]]
+- [[faculty-development]]
+- [[teacher-role]]
 ## Connected Articles
+
+- [[teacher-control-ai-generation-math-visuals]]
+- [[genai-runaway-object-math-higher-ed]]
 
 
 ## Citation
