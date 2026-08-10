@@ -3,42 +3,45 @@ title: Academic Integrity
 created: 2026-08-09
 updated: 2026-08-09
 type: concept
-tags: [ai-education, generative-ai, higher-ed, student-experience]
-confidence: low
+tags: [assessment-validity, ai-literacy, plagiarism-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
+confidence: high
 ---
-> **Academic Integrity** is a central concept in AI in education research, connected to 29 articles in this wiki. 
 
-Research in this wiki explores academic integrity through multiple lenses:
-- **Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration:** EchoPrompt introduces a training-free zero-shot detector for  that exploits the latent prompt dependency inherent in machine-generated content.
+> **Academic integrity** — the ethical framework governing honest academic work in the age of AI. Academic integrity research in the wiki has evolved from detection-focused approaches to fundamental assessment redesign.
+
+### The evolution of academic integrity
+
+- **Detection skepticism:** [[ai-detection]] research and institutional analyses increasingly find that AI detection tools are unreliable and procedurally unfair. [[ai-assessment-scale-reform|The AI Assessment Scale]] argues for redesign over detection.
+- **Assessment redesign:** [[authentic-assessment]], [[beyond-detection-authentic-assessment-ai-2025|beyond detection approaches]], and [[process-based assessment]] shift the focus from catching AI use to designing assessments where AI use is either irrelevant or transparent.
+- **Policy development:** [[genai-policies-higher-ed-computing|Institutional AI policies]] and [[educational-policy-ai]] research examine how universities develop and communicate integrity expectations.
+- **Student understanding:** [[ai-literacy]] research explores whether students understand what constitutes appropriate vs. inappropriate AI use — many integrity violations may stem from unclear boundaries rather than deliberate cheating.
+- **Plagiarism redefined:** [[plagiarism-detection|AI plagiarism detection]] research questions whether traditional plagiarism frameworks apply to AI-generated content. [[detecting-llm-generated-text-latent-prompt|LLM text detection]] faces fundamental limitations.
+
+### From policing to pedagogy
+
+The wiki documents a paradigm shift: from AI as an integrity threat to be policed, to AI as a tool whose appropriate use must be taught. This connects to [[ai-literacy]] (teaching appropriate use) and [[assessment-validity]] (designing assessments that measure learning, not AI-detection ability).
+
+### Connections
+
+Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagiarism-detection]], [[authentic-assessment]], [[educational-policy-ai]], and [[regulation]]. It is the ethical dimension of AI in education.
 
 ## Connected Concepts
 
-- [[higher-ed]]
-- [[over-reliance]]
+- [[assessment-validity]]
 - [[ai-literacy]]
-- [[generative-ai]]
-- [[student-experience]]
-- [[teacher-role]]
-- [[llm]]
-- [[regulation]]
-- [[equity]]
-- [[scaffolding]]
+- [[plagiarism-detection]]
+- [[authentic-assessment]]
 - [[educational-policy-ai]]
-- [[cognitive-offloading]]
+- [[regulation]]
+- [[higher-ed]]
+- [[k-12]]
+- [[ethics]]
+- [[over-reliance]]
+
 ## Connected Articles
 
-- [[agentic-ai-education-scoping-review]]
 - [[ai-assessment-scale-reform]]
-- [[ai-availability-student-motivation]]
-- [[ai-ethics-education-public-discourse]]
-- [[ai-learning-assistants-higher-ed-large-scale]]
-- [[ai-productivity-moderation]]
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[bloom-aligned-educational-control-llms]]
-- [[chatgpt-programming-education-text-mining]]
-- [[code-review-genai-cs1]]
-- [[cost-of-ethics-crisis-cs-ethics-education]]
-- [[credential-cognitive-stewardship-ai-assessment]]
-- [[cross-cultural-student-perceptions-genai-computing]]
+- [[beyond-detection-authentic-assessment-ai-2025]]
+- [[genai-policies-higher-ed-computing]]
 - [[detecting-llm-generated-text-latent-prompt]]
-- [[ethical-ai-higher-ed-game-theory]]
+- [[credential-cognitive-stewardship-ai-assessment]]
