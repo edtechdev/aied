@@ -48,7 +48,7 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 
 ## Connected Concepts
 
-- [[conversational-agents]]
+- [[ai-tutoring]]
 - [[higher-ed]]
 - learning-by-teaching
 - [[personalized-learning]]

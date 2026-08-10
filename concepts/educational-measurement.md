@@ -17,7 +17,7 @@ confidence: medium
 - [[intelligent-tutoring]]
 - [[stem-education]]
 - [[physics-education]]
-- [[inclusive-ai]]
+- [[equity]]
 - [[personalized-learning]]
 - [[faculty-development]]
 - [[equity-in-ai-education]]

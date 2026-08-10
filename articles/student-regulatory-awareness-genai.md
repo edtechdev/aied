@@ -17,7 +17,7 @@ The study surveyed 151 undergraduate students in Business Information Systems an
 2. **Regulatory awareness shows only weak to moderate associations** with actual usage behavior — knowing the rules does not strongly predict what students actually do.
 3. **Students primarily rely on privately accessed GenAI tools** (e.g., personal ChatGPT accounts) rather than institutionally provided solutions.
 
-These findings highlight a significant gap between [[regulation|institutional regulations]] and [[student-experience|student practices]]. The paper connects to insights from [[genai-policy-prompting-rct]] on how policies are communicated, and to [[academic-integrity]] debates about effective AI governance. The authors call for improved policy communication and better integration of GenAI into teaching and learning contexts, recognizing that [[ai-literacy|regulatory awareness alone]] is insufficient to shape student behavior.
+These findings highlight a significant gap between [[regulation|institutional regulations]] and [[student-experience|student practices]]. The paper connects to insights from [[regulation]] on how policies are communicated, and to [[academic-integrity]] debates about effective AI governance. The authors call for improved policy communication and better integration of GenAI into teaching and learning contexts, recognizing that [[ai-literacy|regulatory awareness alone]] is insufficient to shape student behavior.
 
 ## Connected Concepts
 
@@ -25,7 +25,7 @@ These findings highlight a significant gap between [[regulation|institutional re
 - [[higher-ed]]
 - [[regulation]]
 - [[student-experience]]
-- [[genai-policy-prompting-rct]]
+- [[regulation]]
 - [[academic-integrity]]
 - [[ai-literacy]]
 ## Connected Articles

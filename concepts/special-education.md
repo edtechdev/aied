@@ -14,7 +14,7 @@ confidence: low
 - [[student-experience]]
 - [[higher-ed]]
 - [[ai-literacy]]
-- [[inclusive-ai]]
+- [[equity]]
 - [[accessible-learning]]
 - [[intelligent-tutoring]]
 - [[adaptive-learning]]

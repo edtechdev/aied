@@ -1,50 +1,52 @@
 ---
-title: LLM
-created: 2026-05-21
-updated: 2026-05-21
+title: Large Language Models (LLMs)
+created: 2026-08-09
+updated: 2026-08-09
 type: concept
-tags: [llm, higher-ed, generative-ai, intelligent-tutoring, student-experience, scaffolding, k-12, personalized-learning, formative-assessment, feedback-loop]
-confidence: medium
+tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, ai-tutoring, automated-grading, ai-literacy]
+confidence: high
 ---
-> **Large Language Models** is a foundational concept in AI in education research, appearing across 257 articles in this wiki. 
 
-### How Large Language Models appears in the research
-- **[[ai-psychotherapy-training-avatars]]:** Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler (2026)** — Institution.
-- **[[astra-atco-training-simulator]]:** Ethan Chew, Enjia Wu, Iruss Eng Wei Yeow, Ian Weiqin Lim, Ranen Sim, Brandon Koh Ziheng, Kaleb Nim, Caden Toh Jun Yi, Wei Dong Soin, Darius Kai Keat Koh, Galen King Yu Tay, Prannaya Gupta, Jonathan Ee.
-- **[[prompt-problems-nl-programming-mistakes]]:** Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026)** — arXiv:2607.
-- **[[courseblueprint-adaptive-video-generation]]:** Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026)** — arXiv:2606.
-- **[[gender-differences-ai-literacy-deepfake]]:** Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026)** — arXiv preprint
-Examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian sec.
-- **[[supplynet-visual-exploratory-learning]]:** Yanjia Li, Kelcy Kexin Han, Tianrui Hu, Yi-Fan Cao, Huamin Qu, Sicheng Song (2026)** — Hong Kong University of Science and Technology, City University of Hong Kong.
+> **Large Language Models (LLMs)** — neural network models trained on vast text corpora that generate human-like text, powering most modern AI in education applications. LLMs are the computational backbone of generative AI tutoring, assessment, and content generation in education.
+
+### LLMs as the engine of AIED
+
+LLMs are the most-referenced concept in the wiki (60+ articles) because they underpin nearly every AI education application:
+
+- **Tutoring:** [[ai-tutoring|AI tutors]] use LLMs for dialogue, explanation, and problem-solving guidance. [[pedagogical-llm-training|Pedagogical training]] adapts general LLMs for educational use.
+- **Assessment:** [[automated-grading|Grading systems]], [[automated-essay-scoring|essay scoring]], and [[llm-item-difficulty-prediction|item difficulty prediction]] leverage LLM capabilities.
+- **Content:** [[generative-ai|Generative AI]] content creation relies on LLMs. [[automated-question-generation|Question generation]] and [[ai-generated-instructional-videos-computing-ed|video generation]] are LLM-driven.
+- **Safety:** [[pedagogical-safety]], [[hallucination-risk]], and [[ai-tutor-safety-harms]] research examine LLM-specific risks.
+- **Diagnosis:** [[knowledge-tracing]] and [[cognitive-diagnosis]] increasingly incorporate LLMs for richer student modeling.
+
+### Model-specific research
+
+The wiki covers both general-purpose LLMs (GPT-4, Claude) and education-specific adaptations. [[cstutorbench-slm-tutors|Small language model benchmarks]] compare SLM performance for tutoring. [[educational-llm-alignment|Educational alignment]] research addresses how to make LLMs pedagogically appropriate.
+
+### Connections
+
+LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]] (how outputs are controlled), [[rag]] (knowledge grounding), [[hallucination-risk]] (the primary limitation), and [[pedagogical-safety]] (educational guardrailing).
 
 ## Connected Concepts
 
-- [[scaffolding]]
-- [[intelligent-tutoring]]
-- [[higher-ed]]
-- [[student-experience]]
 - [[generative-ai]]
+- [[prompt-engineering]]
+- [[rag]]
+- [[hallucination-risk]]
+- [[pedagogical-safety]]
+- [[ai-tutoring]]
 - [[automated-grading]]
-- [[self-regulated-learning]]
-- [[formative-assessment]]
 - [[ai-literacy]]
-- [[over-reliance]]
-- [[feedback-loop]]
-- [[stem-education]]
+- [[knowledge-tracing]]
+- [[higher-ed]]
+- [[scaffolding]]
+
 ## Connected Articles
 
-- [[ai-campus-wellbeing-tools]]
-- [[ai-in-the-wild-college]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[ai-learning-assistants-higher-ed-large-scale]]
-- [[aiawe-automated-writing-evaluation]]
-- [[automated-grading-linux-bash-examinations-large-language-models]]
-- [[bloom-aligned-educational-control-llms]]
-- [[calibrating-trustworthiness-llm-education-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[chat-debugging-llm-hardware-education-2026]]
-- [[codify-socratic-programming-tutor]]
-- [[codify-socratic-tutoring-programming]]
-- [[commenting-copilot-student-code-specs]]
-- [[correct-answer-trap-ai-tutor]]
-- [[detecting-llm-generated-text-latent-prompt]]
+- [[pedagogical-llm-training]]
+- [[educational-llm-alignment]]
+- [[cstutorbench-slm-tutors]]
+- [[ai-tutor-safety-harms]]
+- [[llm-item-difficulty-prediction]]
+- [[eduguard-safe-rag-llm-tutor]]
+- [[llm-intervention-design-cs-review]]

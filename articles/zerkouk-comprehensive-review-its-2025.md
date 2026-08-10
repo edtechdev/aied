@@ -16,7 +16,7 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 
 **Mixed effectiveness evidence.** The review's central finding is that ITS effectiveness is neither uniformly positive nor categorically negative. Some systems demonstrate substantial learning-gains, particularly in well-structured domains like mathematics and programming where [[student-modeling]] and [[knowledge-tracing]] techniques are most mature. Other deployments show negligible or context-dependent effects. This mixed picture challenges both the optimistic narrative that AI tutoring is a proven solution and the pessimistic narrative that it is ineffective. Instead, it calls for more nuanced questions: *which* systems, for *which* learners, in *which* contexts, produce *which* outcomes? This aligns with the [[ai-tutor-effectiveness-review]] literature's emphasis on contextual factors.
 
-**Pedagogical strategies.** The review catalogs the range of pedagogical approaches embedded in ITS, from [[socratic-method]] and [[scaffolding]] to [[mastery-learning]] and [[adaptive-learning]] pathways. A key finding is that many ITS implementations lack explicit pedagogical grounding — the tutoring behavior is often driven by technical capabilities (what the system can do) rather than pedagogical principles (what the system should do). This echoes concerns in the [[pedagogical-llm-training]] literature about the gap between technical sophistication and pedagogical intentionality.
+**Pedagogical strategies.** The review catalogs the range of pedagogical approaches embedded in ITS, from [[socratic-method]] and [[scaffolding]] to [[adaptive-learning]] and [[adaptive-learning]] pathways. A key finding is that many ITS implementations lack explicit pedagogical grounding — the tutoring behavior is often driven by technical capabilities (what the system can do) rather than pedagogical principles (what the system should do). This echoes concerns in the [[pedagogical-llm-training]] literature about the gap between technical sophistication and pedagogical intentionality.
 
 **NLP and adaptive mechanisms.** The integration of [[educational-nlp]] techniques — including [[automated-question-generation]], short-answer assessment, and dialogue management — has advanced substantially over the review period. However, the review notes that many NLP components are evaluated in isolation rather than as integrated parts of tutoring systems that actually interact with learners. Similarly, [[adaptive-learning]] show promise but often rely on narrow student models that fail to capture the full complexity of learner cognition and affect — a gap that the [[affective-tutoring]] and [[multimodal-ai-tutoring]] communities are beginning to address.
 
@@ -46,7 +46,7 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 - [[educational-policy-ai]]
 - [[knowledge-tracing]]
 - [[learning-analytics]]
-- [[mastery-learning]]
+- [[adaptive-learning]]
 - [[metacognition]]
 - [[pedagogical-llm-training]]
 - [[rct]]

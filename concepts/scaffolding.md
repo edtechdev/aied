@@ -1,49 +1,50 @@
 ---
 title: Scaffolding
-created: 2026-05-11
-updated: 2026-07-27
+created: 2026-08-09
+updated: 2026-08-09
 type: concept
-tags: [scaffolding, ai-education, llm, higher-ed, generative-ai, intelligent-tutoring, stem-education, personalized-learning, feedback-loop, k-12]
-confidence: medium
+tags: [zone-of-proximal-development, over-reliance, cognitive-load-theory, feedback-loop, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
+confidence: high
 ---
-> **Scaffolding in AI Education** is a foundational concept in AI in education research, appearing across 140 articles in this wiki. 
 
-### How Scaffolding in AI Education appears in the research
-- **[[prompt-problems-nl-programming-mistakes]]:** Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026)** — arXiv:2607.
-- **[[courseblueprint-adaptive-video-generation]]:** Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026)** — arXiv:2606.
-- **[[teacher-student-agency-orchestration]]:** Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026)** — Carnegie Mellon University; University of Washington; Ruhr-Universität Bochum.
-- **[[epistemic-proactivity-math]]:** Abdelghani, Kaiser & Murayama (2026)** — cs.
-- **[[ai-generated-slides-student-perception]]:** Juho Leinonen, Lisa Zhang, Arto Hellas (2026)** — WCCCE 2026.
-- **[[teachingcoach-chatbot-instructor-guidance]]:** Authors:** Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V.
+> **Scaffolding** — structured support that helps learners accomplish tasks they cannot yet complete independently, with support fading as competence grows. In AI in education, scaffolding is the primary design principle for ensuring AI tools support learning rather than replace it.
+
+### How scaffolding appears in AIED
+
+- **Prompt-based scaffolding:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] teaches structured prompting as a learning intervention. [[scaffolding-critical-engagement-genai-minority-students|Critical engagement scaffolding]] uses culturally responsive approaches.
+- **Socratic scaffolding:** [[socratic-method|Socratic AI dialogue]] withholds direct answers, using questions to guide discovery — a form of [[productive-struggle]] scaffolding.
+- **Adaptive fading:** [[intelligent-tutoring|Intelligent tutoring systems]] adjust scaffolding based on [[knowledge-tracing]] estimates, providing more support for unmastered concepts and less for known ones.
+- **Hint systems:** [[correct-answer-trap-ai-tutor|AI tutor hint research]] examines when hints help versus when they encourage over-reliance.
+- **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
+
+### The ZPD connection
+
+[[zone-of-proximal-development|Vygotsky's Zone of Proximal Development]] provides the theoretical foundation: scaffolding targets the space between what learners can do independently and what they can achieve with support. AI tools should operate in this zone — enough support to enable progress, not so much that learning is bypassed.
+
+### Connections
+
+Scaffolding connects to [[over-reliance]] (scaffolding that doesn't fade creates dependency), [[cognitive-load-theory]] (scaffolding manages cognitive load), [[feedback-loop]] (scaffolding provides formative feedback), and [[ai-literacy]] (learners must recognize when scaffolding is beneficial vs. when it displaces learning).
 
 ## Connected Concepts
 
-- [[intelligent-tutoring]]
-- [[ai-literacy]]
-- [[llm]]
-- [[self-regulated-learning]]
-- [[student-experience]]
-- [[generative-ai]]
+- [[zone-of-proximal-development]]
 - [[over-reliance]]
-- [[higher-ed]]
-- [[formative-assessment]]
-- [[teacher-role]]
+- [[cognitive-load-theory]]
+- [[feedback-loop]]
+- [[ai-literacy]]
+- [[intelligent-tutoring]]
+- [[socratic-method]]
 - [[metacognition]]
-- [[cs-education]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[llm]]
+- [[higher-ed]]
+
 ## Connected Articles
 
-- [[agency-gap-ai-writing]]
-- [[ai-adoption-training-public-sector]]
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[ai-changing-teaching-workflows]]
-- [[ai-coaching-rl-skill-development]]
-- [[ai-generated-traces-novice-programmers]]
-- [[ai-learning-assistants-higher-ed-large-scale]]
-- [[ai-lms-middle-school-longitudinal]]
-- [[ai-pedagogical-accompaniment-amico]]
-- [[ai-pedagogical-orientation]]
-- [[ai-stem-bibliometric-trends]]
-- [[ase-26-agentic-software-engineering-curriculum]]
-- [[automated-presentation-coaching]]
-- [[bloom-aligned-educational-control-llms]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
+- [[guided-llm-scaffolding-independent-learning]]
+- [[scaffolding-critical-engagement-genai-minority-students]]
+- [[rethinking-scaffolding-llm-tutors]]
+- [[concept-catalyst-engineering-scaffolds]]
+- [[correct-answer-trap-ai-tutor]]
+- [[critical-thinking-genai-scaffolding]]

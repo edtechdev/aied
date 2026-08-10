@@ -1,35 +1,46 @@
 ---
-title: RAG
-created: 2026-07-28
-updated: 2026-07-28
+title: RAG (Retrieval-Augmented Generation)
+created: 2026-08-09
+updated: 2026-08-09
 type: concept
-tags: [llm, agentic-ai, question-generation, coding-education, human-in-the-loop, assessment, automated-assessment, programming-education, personalized-learning, intelligent-tutoring]
-confidence: medium
+tags: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, ai-tutoring, pedagogical-llm-training, pedagogical-safety]
+confidence: high
 ---
 
-> **RAG** (retrieval-augmented generation) grounds LLM answers in vetted sources: [[eduguard-safe-rag-llm-tutor]], [[retrieval-augmented-tutoring-algorithm-kite]], [[structrag-diagram-reasoning-ai-tutoring]], and knowledge-graph show retrieval grounding reduces hallucination and improves domain accuracy in tutors ([[hallucination-risk]], [[llm]]).
+> **RAG (Retrieval-Augmented Generation)** — an AI architecture that combines information retrieval with text generation, allowing LLMs to ground responses in external knowledge sources rather than relying solely on training data. In education, RAG addresses hallucination, enables curriculum-grounded tutoring, and powers domain-specific AI tutors.
+
+### How RAG is used in education
+
+- **Hallucination reduction:** [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[eduzone-llm-safety-k12|EduZone]] use RAG to keep AI tutor responses grounded in verified educational content, reducing [[hallucination-risk]].
+- **Curriculum-grounded tutoring:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] retrieves relevant curriculum materials to inform tutoring responses, ensuring alignment with course content.
+- **Textbook and materials indexing:** [[book-level-synthetic-textbook-organization|Synthetic textbook organization]] indexes educational content for retrieval. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extends retrieval to structured diagrams.
+- **Training pipeline integration:** [[pedagogical-llm-training|Pedagogical LLM training]] uses RAG to ground tutor training in educational best practices.
+
+### RAG vs fine-tuning
+
+RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up-to-date, domain-specific grounding without retraining, while fine-tuning embeds pedagogical behaviors. The wiki's research explores both approaches and their combination.
+
+### Connections
+
+RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structured knowledge for retrieval), [[hallucination-risk]] (the primary problem RAG addresses), and [[edtech-platform]] (RAG powers production educational systems).
 
 ## Connected Concepts
 
-- [[intelligent-tutoring]]
-- [[agentic-ai]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[teacher-role]]
-- [[faculty-development]]
-- [[adaptive-learning]]
-- [[automated-grading]]
+- [[llm]]
 - [[generative-ai]]
-- [[over-reliance]]
-- [[automated-assessment]]
-- [[automated-question-generation]]
+- [[hallucination-risk]]
+- [[knowledge-graph]]
+- [[edtech-platform]]
+- [[ai-tutoring]]
+- [[pedagogical-llm-training]]
+- [[pedagogical-safety]]
+- [[k-12]]
+- [[higher-ed]]
+
 ## Connected Articles
 
-- [[ai-generated-feedback-higher-ed]]
-- [[clara-collaboration-literacy-dashboard]]
-- [[code-gen]]
-- [[cong-confidence-asag-2026]]
-- [[cyberscholar-genai-writing-feedback]]
-- [[deeptutor]]
-- [[mooc-to-maic]]
-- [[multimodal-affective-its-presentation]]
+- [[eduguard-safe-rag-llm-tutor]]
+- [[eduzone-llm-safety-k12]]
+- [[retrieval-augmented-tutoring-algorithm-kite]]
+- [[structrag-diagram-reasoning-ai-tutoring]]
+- [[book-level-synthetic-textbook-organization]]
