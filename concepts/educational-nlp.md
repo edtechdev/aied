@@ -7,7 +7,7 @@ tags: []
 confidence: medium
 ---
 
-> **Educational NLP** applies language technologies to learning: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]], and [[vocabulary-difficulty-prediction]] show LLMs advancing analysis of student language at scale ([[educational-measurement]], [[nlp-education]]).
+> **Educational NLP** applies language technologies to learning: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]], and [[vocabulary-difficulty-prediction]] show LLMs advancing analysis of student language at scale ([[educational-measurement]], [[educational-nlp]]).
 
 ## Connected Concepts
 
@@ -16,7 +16,7 @@ confidence: medium
 - [[knowledge-tracing]]
 - [[socratic-method]]
 - [[scaffolding]]
-- [[mastery-learning]]
+- [[adaptive-learning]]
 - [[pedagogical-llm-training]]
 - [[metacognition]]
 - [[rct]]

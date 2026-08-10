@@ -18,7 +18,7 @@ This position paper occupies a critical counterpoint in the [[intelligent-tutori
 
 **Loss of agency and dependency.** Beyond cognitive effects, the paper identifies a broader threat to learner agency. Prolonged reliance on AI tutors can produce [[over-reliance]] — a state where students lose confidence in their own reasoning abilities and become dependent on AI assistance even for tasks they could complete independently. This dependency dynamic connects to the [[correct-answer-trap-ai-tutor]] problem and the finding that [[over-reliance]] — students give up more quickly when AI help is available.
 
-**Emotional and well-being risks.** The authors highlight underexplored emotional dimensions: AI tutor interactions can erode self-efficacy when students compare themselves unfavorably to flawless AI outputs, contribute to [[ai-fatigue-academic-contexts]], and diminish the relational aspects of learning that [[teacher-ai-collaboration]] frameworks seek to preserve.
+**Emotional and well-being risks.** The authors highlight underexplored emotional dimensions: AI tutor interactions can erode self-efficacy when students compare themselves unfavorably to flawless AI outputs, contribute to [[ai-fatigue-academic-contexts]], and diminish the relational aspects of learning that [[teacher-role]] frameworks seek to preserve.
 
 **Ethical concerns.** The paper catalogs significant ethical risks including [[academic-integrity]] erosion, questionable [[privacy]] practices in educational AI systems, and the broader societal implications of [[ai-making-us-stupid]] — a provocative framing that challenges the edtech optimism narrative.
 

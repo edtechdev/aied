@@ -12,7 +12,7 @@ This paper argues that [[generative-ai]] systems in [[higher-ed]] are not episte
 
 ## Double Marginalization
 
-The paper identifies a **double marginalization** for disabled learners: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity]] challenges documented in [[digital-literacy-illusion]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[inclusive-ai]] frameworks by focusing on knowledge production rather than just access.
+The paper identifies a **double marginalization** for disabled learners: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity]] challenges documented in [[digital-literacy-illusion]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[equity]] frameworks by focusing on knowledge production rather than just access.
 
 ## Epistemic Coloniality
 
@@ -31,7 +31,7 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 - [[generative-ai]]
 - [[higher-ed]]
 - [[equity]]
-- [[inclusive-ai]]
+- [[equity]]
 - [[bias-mitigation]]
 - [[special-education]]
 - [[ai-literacy]]
