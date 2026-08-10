@@ -1,27 +1,45 @@
 ---
-title: Privacy
+title: Privacy in AI Education
 created: 2026-08-09
 updated: 2026-08-09
 type: concept
-tags: [ai-education, generative-ai, higher-ed, student-experience]
-confidence: low
+tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity, ai-governance-education, educational-policy-ai]
+confidence: high
 ---
-> **Privacy** is a central concept in AI in education research, connected to 9 articles in this wiki. 
 
-Research in this wiki explores privacy through multiple lenses:
-- **Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition:** Pilot study on privacy-aware computer vision for classroom incident detection.
+> **Privacy** — the protection of student data, identity, and autonomy in AI-augmented learning environments. Privacy concerns intensify as AI systems collect increasingly granular behavioral data for personalization and analytics.
+
+### Privacy challenges
+
+- **Data collection at scale:** [[learning-analytics]] and [[edtech-platform|educational platforms]] collect clickstream, writing, and interaction data. [[privacy]] research examines whether this collection is proportionate to educational benefit.
+- **Student surveillance:** [[ai-fatigue-academic-contexts|AI fatigue]] and [[over-reliance]] research connect to privacy concerns — constant AI monitoring can feel invasive even when well-intentioned.
+- **K-12 protections:** [[k-12]] settings demand stronger privacy safeguards due to minor status. [[child-safety-genai|Child safety]] research extends privacy to safety considerations.
+- **Federated and edge AI:** [[privacy-preserving-edge-ai|Edge AI approaches]] keep student data local, reducing central collection. [[ai-lms-middle-school-longitudinal|LMS privacy architectures]] demonstrate privacy-first design.
+
+### The personalization-privacy tradeoff
+
+[[personalized-learning]] requires detailed learner data to function, creating a tension with privacy. The wiki explores [[privacy-preserving]] approaches that balance personalization with data minimization.
+
+### Connections
+
+Privacy connects to [[learning-analytics]] (the data collector), [[personalized-learning]] (the data consumer), [[k-12]] (heightened protections), [[ethics]] (normative framework), and [[regulation]] (legal requirements).
 
 ## Connected Concepts
 
-- [[intelligent-tutoring]]
-- [[over-reliance]]
-- [[scaffolding]]
-- [[student-experience]]
-- [[regulation]]
-- [[academic-integrity]]
-- [[equity]]
-- [[faculty-development]]
-- [[adaptive-learning]]
-- [[k-12]]
+- [[learning-analytics]]
 - [[personalized-learning]]
-- [[higher-ed]]
+- [[k-12]]
+- [[ethics]]
+- [[regulation]]
+- [[equity]]
+- [[ai-governance-education]]
+- [[educational-policy-ai]]
+- [[pedagogical-safety]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[ai-fatigue-academic-contexts]]
+- [[ai-lms-middle-school-longitudinal]]
+- [[child-safety-genai]]
+- [[eduzone-llm-safety-k12]]

@@ -1,47 +1,48 @@
 ---
 title: Learning Analytics
-created: 2026-05-09
-updated: 2026-05-09
+created: 2026-08-09
+updated: 2026-08-09
 type: concept
-tags: [learning-analytics, efficacy-study, benchmark, llm, higher-ed, intelligent-tutoring, generative-ai, student-experience, formative-assessment, k-12]
-confidence: medium
+tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, engagement-metrics, ai-ed-evaluation, feedback-loop]
+confidence: high
 ---
-> **Learning Analytics** is a foundational concept in AI in education research, appearing across 85 articles in this wiki. 
 
-### How Learning Analytics appears in the research
-- **[[gender-differences-ai-literacy-deepfake]]:** Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026)** — arXiv preprint
-Examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian sec.
-- **[[reinforcement-learning-measurement-model-assessment]]:** Wenqian Xu, Feng Ji (2026)** — RL-based measurement model for interactive assessments.
-- **[[hypergamification-game-engine-lms]]:** Araz Yusubov, Michael Bechtel, Tangiz Alizada** — arXiv preprint (2026).
+> **Learning analytics** — the measurement, collection, analysis, and reporting of data about learners and their contexts for the purpose of understanding and optimizing learning. AI has transformed learning analytics from descriptive dashboards to predictive and prescriptive systems.
+
+### AI-enhanced analytics
+
+- **Predictive analytics:** Machine learning on learner interaction data predicts outcomes — from [[at-risk-students-ml-prediction|at-risk identification]] to [[knowledge-tracing|knowledge state estimation]].
+- **Engagement analytics:** [[engagement-metrics|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
+- **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
+- **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
+- **Privacy tensions:** [[privacy]] and [[data-minimization]] concerns grow as analytics become more granular and AI-driven.
+
+### From description to intervention
+
+Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback-loop|instructional interventions]].
+
+### Connections
+
+Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[formative-assessment]] (analytics-driven assessment), [[student-modeling]] (the learner representation analytics populate), [[privacy]] (the ethical constraint), and [[edtech-platform]] (where analytics are deployed).
 
 ## Connected Concepts
 
-- [[intelligent-tutoring]]
-- [[adaptive-learning]]
+- [[knowledge-tracing]]
 - [[student-modeling]]
 - [[formative-assessment]]
-- [[student-experience]]
+- [[privacy]]
+- [[edtech-platform]]
+- [[engagement-metrics]]
+- [[ai-ed-evaluation]]
+- [[feedback-loop]]
 - [[higher-ed]]
-- [[personalized-learning]]
-- [[faculty-development]]
-- [[ai-literacy]]
+- [[k-12]]
 - [[llm]]
-- [[regulation]]
-- [[scaffolding]]
+
 ## Connected Articles
 
-- [[a4l-analytics-pipeline]]
-- [[affective-text-wearable-student-health]]
-- [[ai-lifelong-learning-policy]]
-- [[ai-team-teaching-talk-analytics]]
-- [[aicode-collaborative-feedback-system]]
-- [[assessment-team-problem-solving-computing-education]]
 - [[at-risk-students-ml-prediction]]
-- [[becerra-aicofe-feedback-2026]]
-- [[clara-collaboration-literacy-dashboard]]
-- [[cross-subject-validity-delayed-start]]
-- [[debugtracker-classroom-debugging]]
-- [[edumirror-educational-social-dynamics]]
-- [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]]
-- [[expert-cognition-dashboard]]
-- [[hashmi-socratic-physics-chatbot-2025]]
+- [[engagement-intensity-learner-modeling]]
+- [[misiejuk-cognitive-offloading-prompting-2026]]
+- [[teaching-feedback-classification-benchmark]]
+- [[wordstream-glass-learning-analytics]]
