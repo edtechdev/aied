@@ -9,7 +9,7 @@ confidence: high
 ---
 
 > **Noviello et al. (2026)** — ArXiv.
-Multi-institutional study on Generated Animated Traces (GATs) for CS1. Found that mid-engagement students may experience a performance decrement due to coordination costs (Expertise-Reversal Effect). [[cs-education]], [[scaffolding]], [[personalized-learning]], [[stem-education]], [[mastery-learning]].
+Multi-institutional study on Generated Animated Traces (GATs) for CS1. Found that mid-engagement students may experience a performance decrement due to coordination costs (Expertise-Reversal Effect). [[cs-education]], [[scaffolding]], [[personalized-learning]], [[stem-education]], [[adaptive-learning]].
 
 ## Connected Concepts
 
@@ -17,7 +17,7 @@ Multi-institutional study on Generated Animated Traces (GATs) for CS1. Found tha
 - [[scaffolding]]
 - [[personalized-learning]]
 - [[stem-education]]
-- [[mastery-learning]]
+- [[adaptive-learning]]
 ## Connected Articles
 
 

@@ -7,7 +7,7 @@ tags: [bias-mitigation, equity, ethics, higher-ed, ai-literacy, generative-ai, k
 confidence: medium
 ---
 
-> **Bias mitigation** in educational AI requires auditing models across the pipeline: [[gender-bias-transfer-llm-writing]], [[ai-scoring-language-bias-physics]], [[llm-cultural-relevance-k12]], and [[inclusive-ai]] (merged into [[equity]]) document bias sources and mitigation strategies from data curation to prompt design.
+> **Bias mitigation** in educational AI requires auditing models across the pipeline: [[gender-bias-transfer-llm-writing]], [[ai-scoring-language-bias-physics]], [[llm-cultural-relevance-k12]], and [[equity]] (merged into [[equity]]) document bias sources and mitigation strategies from data curation to prompt design.
 
 Bias mitigation in AIED concerns identifying and reducing unfair, identity-patterned behavior in AI tutors and educational systems (e.g., differential refusals or softening of answers for marginalized students). Surfaced by recent auditing work on LLM history tutors.
 

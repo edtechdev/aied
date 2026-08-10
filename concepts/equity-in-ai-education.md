@@ -40,7 +40,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[teacher-ai-competency]]
 - [[cs-education]]
 - [[language-learning]]
-- [[inclusive-ai]]
+- [[equity]]
 - [[special-education]]
 - [[stem-education]]
 - [[metacognition]]

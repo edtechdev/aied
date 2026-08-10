@@ -58,7 +58,7 @@ Nearly half of educator-AI conversations involved assessment tasks, but some tea
 
 ### 3. Equity Divides
 - **Student level:** AI materials lack targeted supports for multilingual learners and students with disabilities — a 30% time reduction is net negative if it comes at the expense of vulnerable learners
-- **Teacher level:** Under-resourced teachers may simply use AI to keep pace rather than upgrade practice, widening the gap between well-supported and under-supported schools — a [[digital-divide]] within the teaching profession itself
+- **Teacher level:** Under-resourced teachers may simply use AI to keep pace rather than upgrade practice, widening the gap between well-supported and under-supported schools — a [[equity]] within the teaching profession itself
 
 ## What's Next: Agentic AI
 

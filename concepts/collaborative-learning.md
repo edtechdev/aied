@@ -21,7 +21,7 @@ confidence: low
 - [[student-experience]]
 - [[adaptive-learning]]
 - [[equity-in-ai-education]]
-- [[inclusive-ai]]
+- [[equity]]
 ## Connected Articles
 
 - [[epistemic-emotions-collaborative-problem-solving]]

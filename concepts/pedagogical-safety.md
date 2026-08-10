@@ -19,7 +19,7 @@ confidence: medium
 - [[scaffolding]]
 - [[over-reliance]]
 - [[pedagogical-llm-training]]
-- [[teacher-ai-collaboration]]
+- [[teacher-role]]
 - [[reinforcement-learning]]
 - [[teacher-role]]
 - [[self-regulated-learning]]

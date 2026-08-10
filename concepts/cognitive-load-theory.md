@@ -17,7 +17,7 @@ confidence: medium
 - [[metacognition]]
 - [[prompt-engineering]]
 - [[intelligent-tutoring]]
-- [[teacher-ai-collaboration]]
+- [[teacher-role]]
 - [[privacy]]
 - [[critical-thinking]]
 - [[pedagogical-safety]]

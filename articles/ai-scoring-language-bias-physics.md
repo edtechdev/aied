@@ -30,7 +30,7 @@ The stakes fall hardest on **multilingual learners**, whose language proficiency
 
 This paper makes a critical contribution to the [[automated-assessment]] and [[automated-essay-scoring]] literature by demonstrating that the [[bias-mitigation]] problem in AI scoring is not merely a technical artifact of specific models but appears to be **fundamental to the task itself**. Key connections:
 
-- **Not just an AI problem**: The finding that the same [[algorithmic-bias]] pattern exists in human physics teachers challenges the assumption that AI introduces unique biases. Instead, it suggests a deeper [[assessment-validity]] challenge: distinguishing conceptual understanding from linguistic expression in text-based explanations is inherently difficult.
+- **Not just an AI problem**: The finding that the same [[bias-mitigation]] pattern exists in human physics teachers challenges the assumption that AI introduces unique biases. Instead, it suggests a deeper [[assessment-validity]] challenge: distinguishing conceptual understanding from linguistic expression in text-based explanations is inherently difficult.
 
 - **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity]] concerns as [[automated-grading]] scales.
 
@@ -54,7 +54,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[automated-assessment]]
 - [[automated-essay-scoring]]
 - [[bias-mitigation]]
-- [[algorithmic-bias]]
+- [[bias-mitigation]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
 - [[equity]]

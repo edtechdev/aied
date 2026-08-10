@@ -69,7 +69,7 @@ Far from making teachers obsolete, these results reinforce the [[teacher-ai-comp
 - Integrating multicultural and critical perspectives.
 - Adapting plans to specific classroom contexts and student needs.
 
-This aligns with [[genai-policy-prompting-rct|evidence that teacher prompting instruction]] can improve AI output quality — but only when teachers understand *what* to look for.
+This aligns with [[regulation|evidence that teacher prompting instruction]] can improve AI output quality — but only when teachers understand *what* to look for.
 
 ### The Civic Education Context Matters
 
@@ -90,7 +90,7 @@ Civic education is a uniquely high-stakes domain for AI application because:
 - [[ai-literacy]]
 - [[automated-question-generation]]
 - [[formative-assessment]]
-- [[genai-policy-prompting-rct]]
+- [[regulation]]
 - [[human-in-the-loop-ai]]
 - [[k-12-ai-education]]
 - [[llm-cultural-relevance-k12]]
