@@ -1,38 +1,45 @@
 ---
-title: Instructional Design
+title: Instructional Design with AI
 created: 2026-08-09
 updated: 2026-08-09
 type: concept
-tags: [ai-education, generative-ai, higher-ed, student-experience]
-confidence: low
+tags: [curriculum-design, faculty-development, personalized-learning, formative-assessment, scaffolding, ai-literacy, adaptive-learning, higher-ed]
+confidence: high
 ---
-> **Instructional Design** is a central concept in AI in education research, connected to 10 articles in this wiki. 
+
+> **Instructional design** — the systematic process of creating effective learning experiences. AI is transforming instructional design by automating content creation, personalizing learning paths, and enabling data-driven design iteration.
+
+### AI in instructional design
+
+- **Content creation:** [[ai-generated-instructional-videos-computing-ed|AI-generated videos]], [[automated-question-generation]], and [[book-level-synthetic-textbook-organization|synthetic textbooks]] automate instructional material production.
+- **Learning path design:** [[personalized-learning]] and [[adaptive-learning]] systems use AI to design individualized learning sequences.
+- **Feedback integration:** [[formative-assessment]] and [[ai-feedback-quality]] research inform instructional design decisions.
+- **Teacher support:** [[faculty-development]] and [[teacher-role]] research connect instructional design to educator preparation.
+
+### Design frameworks
+
+[[instructional-guidance-genai-learning|Instructional guidance research]] and [[bridging-instructional-design-framework-math|math frameworks]] provide structured approaches to integrating AI into instructional design. [[cotal-formative-assessment-scoring-2026|CoTAL]] demonstrates human-in-the-loop design for assessment.
+
+### Connections
+
+Instructional design connects to [[curriculum-design]], [[faculty-development]], [[personalized-learning]], [[formative-assessment]], [[scaffolding]], and [[ai-literacy]]. It is the bridge between AI capabilities and effective pedagogy.
 
 ## Connected Concepts
 
+- [[curriculum-design]]
 - [[faculty-development]]
-- [[generative-ai]]
-- [[cs-education]]
-- [[teacher-role]]
+- [[personalized-learning]]
+- [[formative-assessment]]
 - [[scaffolding]]
-- [[stem-education]]
-- [[over-reliance]]
-- [[k-12]]
-- [[human-in-the-loop-ai]]
-- [[higher-ed]]
 - [[ai-literacy]]
-- [[ai-ed-evaluation]]
+- [[adaptive-learning]]
+- [[higher-ed]]
+- [[k-12]]
+- [[teacher-role]]
+
 ## Connected Articles
 
-- [[adhd-video-segmentation-computing-education]]
-- [[anvil-ai-educational-animations]]
-- [[calibrating-trustworthiness-llm-education-2026]]
-- [[concept-catalyst-engineering-scaffolds]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[genai-marketing-education-roles-2026]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[jeon-isd-agent-bench-2026]]
-- [[kar-mathbuddy-affective-math-tutoring-2025]]
-- [[llm-intervention-design-cs-review]]
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[talebzadeh-ai-green-education-2026]]
+- [[instructional-guidance-genai-learning]]
+- [[bridging-instructional-design-framework-math]]
+- [[cotal-formative-assessment-scoring-2026]]
+- [[ai-generated-instructional-videos-computing-ed]]

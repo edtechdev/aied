@@ -1,35 +1,45 @@
 ---
 title: Automated Assessment
-created: 2026-07-28
-updated: 2026-07-28
+created: 2026-08-09
+updated: 2026-08-09
 type: concept
-tags: [question-generation, llm, stem-education, hallucination-reduction, agentic-ai, rag, coding-education, human-in-the-loop, assessment, programming-education]
-confidence: medium
+tags: [automated-grading, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, confidence-aware-ai-assessment, llm]
+confidence: high
 ---
 
-> **Automated assessment** — machine scoring and feedback at scale — is covered by [[automated-grading]], [[aiawe-automated-writing-evaluation]], [[psyscore-essay-scoring-zpd-feedback]], and [[cotal-formative-assessment-scoring-2026]]: LLM-based scoring generalizes across domains when prompt-engineered with [[human-in-the-loop-ai]] refinement and [[assessment-validity]] alignment.
+> **Automated assessment** — the use of AI to evaluate student work, from formative quizzes to high-stakes exams. Automated assessment spans multiple modalities — multiple-choice, short answer, essay, code, and performance-based evaluation.
+
+### Assessment modalities
+
+- **Short answer and essay:** [[automated-short-answer-grading]], [[automated-essay-scoring]], and [[cong-confidence-asag-2026|confidence-aware approaches]] handle free-text evaluation.
+- **Code assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Bash grading]] and [[code-review-genai-cs1|code review]] demonstrate programming assessment.
+- **Formative assessment:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] focus on formative rather than summative use.
+- **Performance assessment:** [[engagement-assessment-video|Video engagement assessment]] and [[confidence-aware-student-drawing-assessment|drawing assessment]] extend automation beyond text.
+
+### Quality and fairness
+
+Automated assessment quality depends on [[assessment-validity]] and [[bias-mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that automated scoring can systematically disadvantage certain student populations.
+
+### Connections
+
+Automated assessment connects to [[automated-grading]] (the scoring mechanism), [[assessment-validity]] (quality assurance), [[formative-assessment]] (use context), [[bias-mitigation]] (fairness), and [[teacher-role]] (how automation changes instructor work).
 
 ## Connected Concepts
 
-- [[personalized-learning]]
-- [[student-experience]]
+- [[automated-grading]]
+- [[assessment-validity]]
 - [[formative-assessment]]
-- [[edtech-platform]]
-- [[stem-education]]
-- [[higher-ed]]
+- [[bias-mitigation]]
 - [[teacher-role]]
-- [[adaptive-learning]]
-- [[ai-literacy]]
-- [[automated-question-generation]]
-- [[human-in-the-loop-ai]]
-- [[rag]]
+- [[automated-essay-scoring]]
+- [[confidence-aware-ai-assessment]]
+- [[llm]]
+- [[higher-ed]]
+- [[ai-ed-evaluation]]
+
 ## Connected Articles
 
-- [[ai-learning-tools-engineering-education-needs]]
+- [[automated-short-answer-grading]]
+- [[automated-formative-assessments-a-level-sciences]]
+- [[cong-confidence-asag-2026]]
 - [[ai-scoring-language-bias-physics]]
-- [[code-gen]]
-- [[generate-then-validate-question-gen]]
-- [[llm-misconception-difficulty-easy-trap]]
-- [[llm-psychometric-calibration-cdp]]
-- [[student-math-competence-clustering]]
-- [[vibe-coding-programming-process-visualizer]]
