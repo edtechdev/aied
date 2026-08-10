@@ -1,87 +1,80 @@
-# AI Ed Wiki — Daily Scan Pipeline
+# AI Ed Wiki
 
-A knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice. Automatically ingests new AI-in-education papers daily from arXiv and Semantic Scholar.
+A knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice. Automatically ingests new AI-in-education papers and journal articles, then publishes them as an agent-ready static site.
 
 **Live site:** [edtechdev.github.io/aied](https://edtechdev.github.io/aied)
 
 ## What It Does
 
-Every day at 9:00 AM, a Hermes Agent cron job:
-1. Searches **arXiv** (cs.CY, cs.HC, cs.CL, cs.AI) and **Semantic Scholar** for new AI-in-education papers
-2. Filters for relevance (AI/LLM applied to education, tutoring, feedback, grading, assessment)
-3. Skips already-ingested papers (checks `raw/papers/`)
-4. Ingests new papers: raw source → concept page → back-links → index → log → journal
-5. Regenerates the **static HTML site** with search and tag filtering
-6. Sends a **Telegram summary** of what was added, skipped, and not relevant
+Hermes Agent cron jobs keep the wiki current:
+
+1. **Daily scan (weekdays 9 AM)** — searches arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph) and EdArXiv for new AI-in-education papers
+2. **Weekly journal scan (Sundays 8 AM)** — ingests open-access articles from journal RSS feeds (Computers and Education: Artificial Intelligence, British Journal of Educational Technology, and others)
+3. **Manual ingestion** — PDFs or preprint URLs can be sent to Hermes at any time
+4. Each run: filters for relevance → skips already-ingested items → creates article pages (and updates concept pages) → rebuilds the site → commits and pushes to GitHub Pages
+
+## Site Structure
+
+The site is built with **Astro 5** (static site generator), deployed via GitHub Actions to GitHub Pages.
+
+```
+wiki/
+├── articles/          # Article pages (one markdown file per paper)
+├── concepts/          # Synthesized concept pages (topic overviews)
+├── raw/
+│   └── papers/        # Raw source text (arXiv, PDFs, RSS abstracts)
+├── src/
+│   ├── layouts/       # BaseLayout.astro (nav, search, footer)
+│   └── pages/         # Astro pages: index, journal, search, articles/[slug], concepts/[slug], tags, rss, use-with-ai
+├── public/
+│   ├── llms.txt       # Agent-ready catalog (all pages, one line each)
+│   ├── llms-full.txt  # Full text of every page
+│   ├── robots.txt     # Search indexing + Content-Signal + Schemamap
+│   └── schema/        # Schema.org metadata
+├── tooling/           # Reusable tooling for running your own wiki
+├── astro.config.mjs   # Astro config (base /aied, pagefind, sitemap)
+├── package.json       # Astro 5, pagefind, sitemap, rss
+└── .github/workflows/ # Build & deploy to GitHub Pages
+```
 
 ## Quick Commands
 
 ```bash
-# View the wiki locally
-python3 -m http.server 8080 --directory static-site/
+# Install dependencies
+npm install
 
-# Search the wiki (CLI)
-grep -r "search term" concepts/
+# Develop locally
+npm run dev
 
-# Check web server status
-ss -tlnp | grep 8080
+# Build the static site (outputs to dist/)
+npm run build
+
+# Preview the production build
+npm run preview
+
+# Regenerate agent-ready files (llms.txt, llms-full.txt)
+python3 tooling/scripts/generate-llms-files.py
 ```
+
+The built site lands in `dist/` and is deployed to GitHub Pages via the GitHub Actions workflow (`.github/workflows/astro-deploy.yml`).
+
+## Page Structure
+
+- **Article pages** — frontmatter (title, date, type, tags, sources, confidence) → synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → APA citation with hyperlinked title
+- **Concept pages** — frontmatter → synthesis → research themes with wikilinks to related articles → Connected Concepts → Connected Articles
+- All inter-page links use `[[wikilink]]` syntax which the Astro templates render as hyperlinks
+- Tags are comma-delimited in frontmatter and rendered as links in the page header
 
 ## Configuration
 
-The pipeline runs as a Hermes Agent cron job. Key configurable parameters:
-- **Schedule:** `0 9 * * *` (9 AM daily)
-- **Search sources:** arXiv categories (cs.CY, cs.HC, cs.CL, cs.AI) + Semantic Scholar
-- **Search keywords:** title terms for education relevance
-- **Date window:** Auto-advances each run based on last ingestion date
-- **Notification:** Delivers to a Telegram chat
+The pipeline runs as Hermes Agent cron jobs:
 
-## Wiki Structure
+| Job | Schedule | Sources |
+|-----|----------|---------|
+| Daily AI in Education Scan | Weekdays 9:00 AM | arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph), EdArXiv |
+| Weekly Journal RSS Ingestion | Sundays 8:00 AM | CAEAI (open access), BJET (hybrid — paywalled articles skipped) |
 
-```
-wiki/
-├── concepts/          # Synthesized concept pages (one per paper/topic)
-├── raw/
-│   ├── papers/        # Raw arXiv paper text files
-│   ├── articles/      # Non-arXiv article text files
-│   └── assets/        # Media files
-├── entities/          # Notable organizations, people, products
-├── queries/           # Saved queries and daily digests
-├── comparisons/       # Side-by-side analyses
-├── SCHEMA.md          # Domain, conventions, tag taxonomy, page thresholds
-├── index.md           # Full alphabetical content catalog
-├── journal.md         # Reverse-chronological index of all ingested papers
-├── log.md             # Audit log of every wiki action
-└── static-site/       # Generated static HTML site (deployed to GitHub Pages)
-    ├── index.html     # Homepage with search, tag filter, all pages
-    ├── journal.html   # Full reverse-chronological journal
-    ├── search.html    # FlexSearch-powered full-text search
-    ├── tags.html      # Tag directory
-    ├── tags/          # Per-tag listing pages
-    ├── search_index.json / .js
-    └── pages/         # Individual HTML pages
-```
-
-## Dependencies
-
-The pipeline uses only standard tools:
-- **arXiv API:** No key required, rate-limited (~1 req/3s)
-- **Semantic Scholar API:** No key required, rate-limited (~100 req/5min)
-- **pdftotext:** For PDF extraction (from poppler-utils)
-- **curl:** For API calls (with --retry for rate limiting)
-- **Python stdlib:** xml.etree, json, re, hashlib, subprocess, PyYAML
-- **FlexSearch 0.7.31:** Client-side search (CDN, no install needed)
-- **Pico CSS:** UI framework (CDN, no install needed)
-
-## Troubleshooting
-
-| Problem | Check |
-|---------|-------|
-| Web server not responding | `ss -tlnp \| grep 8080` — restart if needed: `python3 -m http.server 8080 --directory static-site/ &` |
-| arXiv API 429 errors | Rate limit hit — retries built in (--retry 3 --retry-delay 2), wait 1 min |
-| Static site out of date | Regenerate via `scripts/generate-static-site.py` in the research-wiki skill |
-| YAML parsing errors | Check concept page frontmatter — titles with colons must be quoted: `title: "X: Y"` |
-| Missing pages | Check `index.md` count vs. `ls concepts/*.md \| wc -l` — may need re-sort |
+Notifications deliver to Telegram.
 
 ## Use This Wiki with Your Own AI Assistant
 
@@ -117,13 +110,19 @@ Example question: "What does the research say about AI feedback for student writ
   pages, and answer with citations.
 ```
 
-## Adding New Sources
-
-To add a new search source (e.g., ERIC, PubMed), update the Hermes cron job prompt with the new source and search parameters.
-
 ## Manual Ingestion
 
-To ingest a specific paper immediately, send the arXiv URL or OSF/EdArXiv preprint link to Hermes. The `research-wiki` skill handles the full workflow automatically.
+To ingest a specific paper immediately, send the arXiv URL, OSF/EdArXiv preprint link, DOI, or PDF to Hermes. The ingestion workflow handles: text extraction → article page → concept updates → back-links → rebuild → push.
+
+## Troubleshooting
+
+| Problem | Check |
+|---------|-------|
+| Site not updating | Confirm the GitHub Actions deploy workflow ran: Actions tab → astro-deploy |
+| Search index stale | Search is Pagefind-based — run `npm run build` so `dist/pagefind/` regenerates |
+| llms.txt out of date | `python3 tooling/scripts/generate-llms-files.py` then `npm run build` |
+| Broken wikilinks | Links use `[[slug]]` — the slug must match a file in `articles/` or `concepts/` |
+| YAML parsing errors | Titles with colons must be quoted: `title: "X: Y"` |
 
 ## Run Your Own Wiki
 
@@ -131,11 +130,11 @@ Want to set up your own automated research wiki for a different domain? Everythi
 
 - **`tooling/README.md`** — Complete setup guide
 - **`tooling/SKILL.md`** — Hermes Agent skill definition
-- **`tooling/scripts/`** — Static site generator, journal regenerator, backlink tool
+- **`tooling/scripts/`** — Static site generator, journal regenerator, backlink tool, RSS fetcher, llms generator
 - **`tooling/templates/`** — HTML template for the homepage
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
 - **`tooling/cron/`** — Cron job prompt template
 - **`tooling/example/`** — Starter wiki files to get going quickly
 - **`tooling/config.example.yaml`** — Scan configuration for customization
 
-Just copy the `tooling/` directory into a new repo, follow the README, and you'll have your own daily-scan research wiki in ~15 minutes. No API keys required.
+Just copy the `tooling/` directory into a new repo, follow the README, and you'll have your own research wiki in ~15 minutes. No API keys required.
