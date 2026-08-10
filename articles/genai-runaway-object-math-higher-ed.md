@@ -3,7 +3,7 @@ title: "GenAI as a runaway object in higher education: A socio-cultural view on 
 created: 2026-06-03
 updated: 2026-08-07
 type: article
-tags: [generative-ai, higher-ed, stem-education, faculty-development, educational-theory]
+tags: [generative-ai, higher-ed, stem-education, faculty-development, educational-theory, math-education]
 sources: ['raw/papers/caeai-genai-runaway-object.md']
 confidence: medium
 ---
@@ -12,7 +12,15 @@ confidence: medium
 
 ## Connected Concepts
 
+- [[math-education]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[stem-education]]
+- [[faculty-development]]
 ## Connected Articles
+
+- [[ai-tpack-preservice-math-teachers]]
+- [[epistemic-proactivity-math]]
 
 
 ## Citation
