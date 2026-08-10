@@ -83,6 +83,40 @@ The pipeline uses only standard tools:
 | YAML parsing errors | Check concept page frontmatter — titles with colons must be quoted: `title: "X: Y"` |
 | Missing pages | Check `index.md` count vs. `ls concepts/*.md \| wc -l` — may need re-sort |
 
+## Use This Wiki with Your Own AI Assistant
+
+The wiki is agent-ready. Any AI chatbot or agent can use it as a research reference:
+
+- **`llms.txt`** — complete catalog (every article and concept with one-line descriptions)
+- **`llms-full.txt`** — full text of every page
+- **Use with AI page:** https://edtechdev.github.io/aied/use-with-ai
+
+Copy-paste prompt for your AI chatbot or agent:
+
+```text
+You are a research assistant for AI in education. Use the AI in Education Wiki
+as your knowledge base.
+
+1. First fetch the catalog: https://edtechdev.github.io/aied/llms.txt
+   (If you need full text of specific pages, fetch them from
+   https://edtechdev.github.io/aied/llms-full.txt or the individual page URLs.)
+
+2. When answering questions about AI in education research, ground your answer
+   in articles and concepts from this wiki. Cite the wiki page title and URL
+   for every claim you make from it, e.g.:
+   "According to the wiki article 'X' (URL), ..."
+
+3. If asked about a topic, synthesize across multiple related articles and
+   concepts rather than relying on a single page. Mention when the wiki does
+   not cover a topic instead of guessing.
+
+4. Recommend related articles and concepts when relevant.
+
+Example question: "What does the research say about AI feedback for student writing?"
+→ Fetch llms.txt, find the writing/feedback articles, read the most relevant
+  pages, and answer with citations.
+```
+
 ## Adding New Sources
 
 To add a new search source (e.g., ERIC, PubMed), update the Hermes cron job prompt with the new source and search parameters.
