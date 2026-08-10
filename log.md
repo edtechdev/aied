@@ -1,6 +1,22 @@
 
 
 ## [2026-08-07] ingest | 5 arXiv papers (cron daily scan)
+## [2026-08-10] ingest | 8 papers (5 arXiv + 3 EdArXiv)
+
+- A bottom-up taxonomy of student discourse with a Socratic AI physics tutor (arXiv physics.ed-ph, 2608.07373) — [[socratic-ai-physics-tutor-taxonomy-2026]]
+- Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education (arXiv cs.AI/cs.CY, 2608.07364) — [[curriculum-as-code-instructional-design-2026]]
+- Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency (arXiv cs.CY, 2608.05177) — [[ai-feedback-critical-thinking-writing-2026]]
+- Challenges for Musical Education in the Age of AI and Digital Transformation (arXiv cs.CY, 2608.05176) — [[musical-education-ai-digital-transformation-2026]]
+- Teaching Intro AI When the Tools Can Do the Homework (arXiv cs.CY, 2608.05175) — [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
+- Polished Artifacts, Fragile Engagement? (EdArXiv, b8zjk_v1) — [[polished-artifacts-fragile-engagement-2026]]
+- The Absent Cognitive Baseline (EdArXiv, 4cr8j_v5) — [[absent-cognitive-baseline-2026]]
+- LUDIA: A Design and Evidence Statement (EdArXiv, 3nmgp_v1) — [[ludia-udl-ai-thought-partner-2026]]
+
+- 0 back-links added (minimal batch); Index: N/A; Journal: N/A
+- Sources: arXiv cs.CY (3 papers via listing pages), arXiv physics.ed-ph (1 paper via listing pages), arXiv cs.AI/cs.CY (1 cross-list)
+- EdArXiv: 3 papers (OSF API via browser)
+## [2026-08-10] meta | scan-complete
+
 
 - AI-powered precision education with student digital twins (arXiv:2608.06322) — [[precision-education-student-digital-twins-2026]]
 - blind Turing test on Italian legal professional exams (arXiv:2608.06166) — [[llm-turing-test-italian-legal-exams-2026]]
