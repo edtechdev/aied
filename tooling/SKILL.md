@@ -1,6 +1,6 @@
 ---
 name: research-wiki
-description: "End-to-end management of a structured markdown research wiki — ingestion of papers into SCHEMA.md wikis, back-linking, journal regeneration, and static HTML export with client-side search. Two phases: ingestion (write) and export (publish)."
+description: "End-to-end management of a structured markdown research wiki — ingestion of papers into articles/ and concepts/ pages, back-linking, journal regeneration, and Astro static site export with Pagefind search. Two phases: ingestion (write) and export (publish)."
 category: research
 ---
 
@@ -8,8 +8,8 @@ category: research
 
 End-to-end management of a structured markdown research wiki that follows a `SCHEMA.md` convention. Two phases:
 
-1. **Ingestion** — fetching papers, creating concept pages, back-linking, regenerating journal
-2. **Export** — converting the wiki to standalone static HTML with search and tag filtering
+1. **Ingestion** — fetching papers, creating article/concept pages, back-linking, regenerating journal
+2. **Export** — building the Astro static site with search, tag filtering, RSS, and agent-ready llms files
 
 > **Alias / naming note:** Some cron and pipeline configs instruct the agent to "follow the `research-wiki-ingestion` skill." That name is **not** a separate installed skill — the ingestion workflow it points to is **Phase 1 (Ingestion)** of this `research-wiki` skill. If a task references `research-wiki-ingestion`, load `research-wiki` and use Phase 1.
 
@@ -21,8 +21,8 @@ Use this phase when the user asks to ingest research papers (arXiv or non-arXiv)
 
 ### Trigger Conditions
 - User requests ingestion of a research paper, article, or URL into the wiki
-- Task involves populating a knowledge base with academic sources and synthesized concept pages
-- Wiki has defined directory structure: `raw/papers/` (arXiv), `raw/articles/` (non-arXiv), `concepts/`, `index.md`, `log.md`
+- Task involves populating a knowledge base with academic sources and synthesized pages
+- Wiki has defined directory structure: `articles/` (per-paper pages), `concepts/` (topic pages), `raw/papers/`, `index.md`, `log.md`
 
 ### Core Workflow
 *In interactive sessions, prefer `execute_code` for bulk Python work — use Python's `open()`/`os` modules for ALL file I/O (not `read_file` from `hermes_tools`, which returns an incompatible dict format in the execute_code sandbox). `write_file` from hermes_tools works correctly in execute_code. In cron contexts, `execute_code` availability varies \u2014 use `execute_code` if it passes the probe, otherwise fall back to `terminal()` with explicit `workdir=/home/doug`. Always probe first. **Primary approach: write complex scripts to `/tmp/` via `write_file`, then run with `terminal('python3 /tmp/script.py', workdir='/home/doug')`** or embed in `execute_code()` when available. Use inline `python3 -c "..."` only for short (<20 line) one-off logic (e.g. simple parsing, file count checks). For multi-phase ingestion (fetching, ingesting, backlinks, index, journal, static site), break into separate phase-scripts — this avoids command-length truncation and isolates failures. `web_extract` replaces `urllib`-based API calls when `execute_code` is unavailable.*
@@ -33,20 +33,23 @@ Use this phase when the user asks to ingest research papers (arXiv or non-arXiv)
    - **Narrow date-window daily scans (cron):** for a tight `submittedDate` window (last-scan→today), `execute_code` + `urllib` against the arXiv API is the clean PRIMARY — date-precise and bypasses the terminal HTTP block. Use listing-page/`web_extract` only as fallback when the API returns 0 on a weekend or errors (see weekend / HTTP-500 pitfalls). See `references/validated-4-source-daily-scan-2026-07-16.md` for the exact 4-source recipe.
    - Non-arXiv sources: Try HTML metadata fetch first. If Access Denied, fallback to PDF download via `curl`, extract text with `pdftotext`.
 2. **Save Raw Source**
-   - arXiv: `raw/papers/<arxiv_id>.md` with frontmatter: `source_url`, `ingested_date`, `sha256`
-   - Non-arXiv: `raw/articles/<slug>.md` with same frontmatter + full extracted text
-3. **Create Concept Page**
-   - Path: `concepts/<slug>.md`
-   - Frontmatter (required): `title`, `created`, `updated`, `type: concept`, `tags`, `sources`, `confidence` (`high`/`medium`/`low`)
-   - Body: Synthesis of key findings, 5+ outbound links to existing wiki pages (use `[[page-slug]]` syntax)
-4. **Raw Source Size Management**
+   - `raw/papers/<arxiv_id>.md` with frontmatter: `source_url`, `ingested_date`, `sha256`
+   - Non-arXiv: `raw/papers/<slug>.md` with same frontmatter + full extracted text (all raw sources live under `raw/papers/`)
+3. **Create Article Page**
+   - Path: `articles/<slug>.md`
+   - Frontmatter (required): `title`, `created`, `updated`, `type: article`, `tags`, `sources`, `confidence` (`high`/`medium`/`low`)
+   - Body: synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → Citation (APA, hyperlinked title)
+4. **Update/Create Concept Pages**
+   - Only create a `concepts/<slug>.md` page when the topic is genuinely new (check existing concepts first — avoid duplicates)
+   - Add the new article to related concept pages' Connected Articles lists
+5. **Raw Source Size Management**
    - Truncate full text in raw source files to 50k chars maximum
-5. **Update Wiki Index**
-   - Collect all existing concept entries from `index.md` Concepts section
+6. **Update Wiki Index**
+   - Collect all existing entries from `index.md` Articles and Concepts sections
    - Remove duplicates, add new entries, sort **all** alphabetically by filename (lowercase)
-   - Rewrite the entire Concepts section — never append-only
-6. **Update Ingest Log**
-   - Append to `log.md`: Date, source, concept page, tags, brief summary
+   - Rewrite the entire sections — never append-only
+7. **Update Ingest Log**
+   - Append to `log.md`: Date, source, article page, tags, brief summary
 7. **Add Back-Links**
    - Identify 5+ existing relevant concept pages
    - Add links to their `## Related Pages` sections (create section if missing)
@@ -70,7 +73,7 @@ Use this phase when the user asks to ingest research papers (arXiv or non-arXiv)
    - After the initial pass, do a **second-pass verification**: read each target file with `open()` and confirm `f"[[{slug}]"` appears. This catches silent-write failures, YAML parse errors, or read_file corruption that may have caused a page to be skipped.
 8. **Regenerate Journal**
    - `journal.md` must be regenerated after every ingestion batch — it is NOT append-only
-   - **Primary approach: inline Python.** In interactive sessions, use `execute_code` with inline Python that imports `yaml`, walks `concepts/`, extracts frontmatter, groups by `created`, and writes `journal.md`. In cron, use `terminal()` with `python3 -c "..."` and explicit `workdir=/home/doug` (or `execute_code()` when available). The script at `scripts/regenerate-journal.py` serves as a reference implementation — copy its logic inline rather than invoking it directly.
+   - **Primary approach: inline Python.** In interactive sessions, use `execute_code` with inline Python that imports `yaml`, walks `articles/` and `concepts/`, extracts frontmatter, groups by `created`, and writes `journal.md`. In cron, use `terminal()` with `python3 -c "..."` and explicit `workdir` (or `execute_code()` when available).
    - **In cron, `yaml` may not be available** — use regex-based frontmatter parsing as a stdlib-only fallback. Parse each line of the frontmatter directly:
      ```python
      fm_match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
@@ -92,7 +95,7 @@ Use this phase when the user asks to ingest research papers (arXiv or non-arXiv)
    - Collect all concept pages from `concepts/`, extract frontmatter with `yaml.safe_load()`
    - Skip low-confidence stubs with no `sources`
    - Group entries by `created` date, sort newest-first
-   - Format: a strict **3-line** entry per page so `regenerate-journal-html.py` can parse it — (1) `- {icon} [[slug]] — {source}` where `{source}` is the raw path (e.g. `raw/papers/X.md`), (2) `  **{full title}**` on its own indented line, (3) `  Tags: [{comma, separated, tags}]` on its own indented line. (A compact one-line-per-entry format will silently produce an EMPTY journal.html — see the Export Phase pitfall.) Group by `created` date and put a `## {date}` header above each day's entries.
+   - Format: one `- {icon} [[slug]] — {source}` line per entry, with the full title and tags on the following lines, group by `created` date with a `## {date}` header. (The old pre-Astro pipeline required a strict 3-line format for `regenerate-journal-html.py`; that parser is retired — the Astro site renders `journal.md` directly.)
    - Update header (top of file, immediately after `# Journal`): `Last updated: <today> | Total entries: <count>` on its own line.
    - **Post-regeneration sanity check**: verify ALL newly ingested papers appear by searching for their slugs in the output
 
@@ -207,41 +210,40 @@ This is distinct from the colon pitfall above and happens most often with papers
 - **Refreshing an already-ingested paper to a NEWER version (v1 → v3, etc.)**: "Already in wiki" is NOT the end of the story when the user explicitly asks to update to the latest version. This is the deliberate opposite of the dedup skip — rewrite the raw file in place. Procedure (validated 2026-07-14, arXiv:2605.21629 v1→v3): (1) Detect current version via `grep "arXiv:<id>v\d"` in the raw file; find latest on `https://arxiv.org/abs/<id>` (submission-history block shows `vN [last revised <date>]`). (2) Fetch NEW-version full text from the **PDF**, NOT the `/html/<id>vN` page — `web_extract` on the HTML returns duplicated/garbled Unicode (`3.23.2 million`, `26.9%26.9\\%`, `p<0.001p<0.001`) that pollutes the raw file. Use `curl -sL --retry 3 --retry-delay 2 "https://arxiv.org/pdf/<id>" -o /tmp/<id>.pdf && pdftotext /tmp/<id>.pdf /tmp/<id>.txt`. (3) Cap body at 50k chars with a **slice** (`body[:50000]`), never `truncate` — the terminal SQL filter blocks that word. (4) Rewrite raw frontmatter: keep `source_url` + `ingested`, ADD `updated: <today>` and `version: vN (last revised <date>)`, and RECOMPUTE `sha256` over the new body. Old vs new SHA will differ — that's exactly the drift signal the SCHEMA `sha256` field exists to catch. (5) Bump the concept page's `updated` date and add a visible "updated to **vN**" note next to the source link. Do NOT rewrite the synthesis body unless the headline findings actually changed — version bumps usually add methodology/appendix material, not new results (in the 2605.21629 case all headline numbers were identical v1→v3). (6) Regenerate the static site and restart the `http.server` if it's down (HTTP 000 = server not running, not a content bug). See `references/refresh-paper-version.md` for the exact script.
 - **read_file Line-Number Corruption in Concept Pages**: The standalone `read_file` tool returns content with line-number prefixes (`     1|content`). If this annotated output is ever written back to disk via `write_file` or `patch`, the line numbers become **baked into the file content**. The file no longer starts with `---`, so YAML frontmatter parsing silently fails, and the page is excluded from index regeneration and journal rebuilds with no error. **Prevention**: NEVER pipe `read_file` output into `write_file` or `patch`. Always use Python `open()` for reading files in `execute_code` scripts, and read with `open()` before writing. **Detection**: check for files whose first 20 bytes contain `|---` after spaces+digits (`if raw.startswith(b'     ') and b'|---' in raw[:20]`). **Recovery**: run `scripts/detect-readfile-corruption.py` which strips line-number prefixes with `re.match(r'\s*\d+\|(.*)', line)`. This corrupted 30 pages (May 2026) — always verify index count against actual file count after regeneration.
 
-## Phase 2: Wiki Static Export
+## Phase 2: Wiki Static Export (Astro)
 
-Use this phase when the user asks to convert a markdown wiki to static HTML, or when a cron job requires site regeneration.
+Use this phase when the user asks to build the wiki's static site, or when a cron job requires site regeneration.
 
 ### Trigger Conditions
-- User asks to convert wiki to static HTML site
-- Cron job daily scan requires site regeneration
-- New concept pages ingested and journal.md updated
+- User asks to build/publish the wiki site
+- Cron job daily/weekly scan requires site regeneration
+- New article/concept pages ingested and journal.md updated
 
 ### Workflow
 
-1. **Regenerate journal.md first** — Use inline Python to regenerate journal (see Phase 1, step 8). In cron, use `terminal()` with `python3 -c "..."` and `workdir=/home/doug` (or `execute_code()` when available). Do NOT invoke `scripts/regenerate-journal.py` directly — its relative paths fail in cron contexts.
-2. **Generate static site** — Run:
+1. **Regenerate journal.md first** — Use inline Python to regenerate journal (see Phase 1, step 8).
+2. **Regenerate agent-ready files** — Run:
    ```bash
-   python3 scripts/generate-static-site.py --wiki-path /home/doug/wiki --output-path static-site --wiki-title 'AI Ed Wiki'
+   python3 tooling/scripts/generate-llms-files.py
    ```
-   If script is missing, fall back to inline `execute_code` Python generation.
-3. **Regenerate journal.html** — The static-site generator does NOT touch `static-site/journal.html`. Run the dedicated script after generation:
+   This rebuilds `public/llms.txt` and `public/llms-full.txt` from the current `articles/` and `concepts/` markdown.
+3. **Build the Astro site** — Run:
    ```bash
-   python3 scripts/regenerate-journal-html.py --wiki-path /home/doug/wiki
+   cd [WIKI_PATH]
+   npm run build
    ```
-   In cron contexts, write to `/tmp` and execute via `terminal()`.
-4. **Verify output** — Count HTML files in `static-site/pages/`, match against concept page count, spot-check rendering. Confirm new entries appear in `journal.html`.
+   This produces `dist/` with Pagefind search index, sitemap, RSS, and all pages.
+4. **Commit and push** — GitHub Actions deploys `dist/` to GitHub Pages:
+   ```bash
+   git add -A && git commit -m "..." && git push
+   ```
 
 ### Pitfalls — Export Phase
-- **Script path mismatches**: `scripts/generate-static-site.py` may not exist. Check with `os.path.exists()` before invoking.
+- **The old `generate-static-site.py` pipeline is obsolete.** The wiki is now an Astro 5 site. Do not regenerate `static-site/` or `journal.html` — those artifacts belong to the retired pre-Astro pipeline. Any docs referencing `scripts/generate-static-site.py`, `scripts/regenerate-journal-html.py`, or `templates/index-template.html` are historical.
+- **Script path mismatches**: `scripts/generate-static-site.py` was removed from `tooling/scripts/`. The current scripts are `fetch-rss-feeds.py`, `generate-llms-files.py`, `add-backlinks.py`, `detect-readfile-corruption.py`.
 - **Wiki path variations**: Some wikis use `/home/doug/wiki`, others relative paths. Resolve correct base path from structure.
-- **Static site vs live wiki**: Static site is a snapshot — does not reflect new content until regenerated.
-- **Index template missing = warning only**: When `templates/index-template.html` is not found, the generator script falls back to an inline template and prints a warning. This is non-fatal — the site still generates correctly. The warning can be ignored unless the generated index.html looks wrong.
-- **Static-site script workdir**: The `generate-static-site.py` script lives at `~/.hermes/skills/research-wiki/scripts/`. When invoking via `terminal()`, set `workdir="/home/doug/.hermes/skills/research-wiki"` (NOT `wiki-static-export` — that directory does not exist). If you get `No such file or directory`, verify the skill directory path with `search_files` before retrying.
-- **Static-site `--output-path` is relative to `workdir`, NOT to `--wiki-path`**: When you run `python3 scripts/generate-static-site.py --wiki-path /home/doug/wiki --output-path static-site` with `workdir=/home/doug/.hermes/skills/research-wiki`, the site is written to `/home/doug/.hermes/skills/research-wiki/static-site` — NOT `/home/doug/wiki/static-site`. **CONFIRMED 2026-07-13**: this silently produced a stray site in the skill dir while the real wiki site stayed stale; `ls /home/doug/wiki/static-site/` failed because the real dir was untouched. **FIX**: always pass an ABSOLUTE output path — `--output-path /home/doug/wiki/static-site`. `regenerate-journal-html.py --wiki-path /home/doug/wiki` is safe because it resolves `static-site/` from the absolute wiki path. Verify after generation: `ls /home/doug/wiki/static-site/pages/ | wc -l` and `test -f /home/doug/wiki/static-site/pages/<new>.html`.
-- **journal.md header can retain template placeholders**: A prior run left `Last updated: {today} | Total entries: {len(entries)}` literally in journal.md (Python template braces never substituted). When you regenerate, confirm the header line shows a real date/count, not the literal `{today}`/`{len(entries)}` string. After regenerating, verify with `grep -n 'Last updated' /home/doug/wiki/journal.md` and assert the line contains no `{`. If it does, replace it directly (e.g. `re.sub(r'^Last updated:.*', f'Last updated: {TODAY} | Total entries: {N}', txt, flags=re.M)`) rather than re-running the full generator.
-- **journal.html not regenerated by script**: `generate-static-site.py` generates `index.html`, `search.html`, and individual concept pages, but does NOT touch `static-site/journal.html`. After running the script, run `scripts/regenerate-journal-html.py --wiki-path /home/doug/wiki` to rebuild journal.html from journal.md. In cron contexts, write the script to `/tmp` and execute with `terminal()`. See `scripts/regenerate-journal-html.py` for the implementation.
-- **journal.md Entry Format Must Match `regenerate-journal-html.py`'s Parser (silent-failure trap)**: The HTML regenerator does NOT parse the free-form Phase-1 journal format. Its regex requires a strict **3-line** entry block: (1) `- {icon} [[slug]] — {source}` where `{source}` is the raw path (e.g. `raw/papers/X.md`), (2) `  **{full title}**` on its own indented line, (3) `  Tags: [{comma, separated, tags}]` on its own indented line. A compact one-line-per-entry format like `- ● [[slug]] — *Title* _(tags)_` parses to **ZERO rows** — journal.html regenerates with NO error and silently omits every entry. If you regenerate journal.md yourself (inline Python / regex fallback), emit exactly this 3-line shape, or `regenerate-journal-html.py` will produce an empty table. After regenerating journal.html, verify with Python `open().read()` that every newly ingested slug string appears in `static-site/journal.html` — do NOT trust the script's `OK: ... (N entries)` stdout: the `N` is pulled from the `Total entries:` header line in journal.md, NOT from the number of rows actually parsed, so a fully empty `<tbody>` still prints a plausible count (observed: `OK: journal.html regenerated (329 entries, 2026-07-15)` with a 177 KB empty table). **The #1 silent failure in inline regeneration is the separator character.** `regenerate-journal-html.py` parses each entry with a regex that requires the literal em-dash `—` (U+2014) between `[[slug]]` and the source path — NOT a plain ASCII hyphen `-`. If your inline Python builds the entry line with `f"- {icon} [[{slug}]] - {source}"` (hyphen), the regex matches ZERO rows and the table body is empty with no error and no warning. **Always build the separator from the codepoint**: `EM = "\u2014"` then `f"- {icon} [[{slug}]] {EM} {source}"`. A verified copy-paste-safe regenerator (entry line + verification snippet) is in `references/journal-regeneration-em-dash.md`. The same em-dash convention applies to `index.md` entries (`- [[slug]] — Title`) for consistency with the pre-existing wiki, though the static-site generator tolerates a hyphen there.
-- **Static site server may be down after regeneration**: The Python `http.server` on port 8080 may not be running when you need it (e.g., after a fresh regeneration). Verify with `subprocess.run(['curl', '-s', '-o', '/dev/null', '-w', '%{http_code}', 'http://localhost:8080/'])` and restart if needed. In interactive sessions use: `subprocess.Popen(['python3', '-m', 'http.server', '8080'], cwd='/home/doug/wiki/static-site', start_new_session=True)`. **In cron**, use `terminal()` with `background=true` — foreground `&` is rejected by the terminal tool: `terminal("python3 -m http.server 8080", background=True, workdir="/home/doug/wiki/static-site")`.
+- **Pagefind must rebuild**: search index lives in `dist/pagefind/` — always run `npm run build` after content changes; a stale `dist/` shows old search results.
+- **Frontmatter-rewrite scripts must preserve the body**: when rewriting frontmatter, always append `content[m.end():]` (the body). Diff page sizes before/after any batch edit.
 
 ### Cron Stall Recovery
 
@@ -263,10 +265,11 @@ When a daily ingestion cron job stalls mid-pipeline (typically during an `execut
 
 ## Support Files
 - `scripts/add-backlinks.py` — Re-runnable back-link addition script
-- `scripts/regenerate-journal.py` — Re-runnable journal regeneration from concept frontmatter
-- `scripts/regenerate-journal-html.py` — Parses journal.md and rebuilds static-site/journal.html (required after every generate-static-site.py run)
-- `scripts/generate-static-site.py` — Static site generator with search, tags, filtering
+- `scripts/fetch-rss-feeds.py` — Journal RSS feed fetcher (CAEAI, BJET; output JSON for the weekly ingestion cron)
+- `scripts/generate-llms-files.py` — Regenerates `public/llms.txt` and `public/llms-full.txt` from articles/ + concepts/
 - `scripts/detect-readfile-corruption.py` — Detect and repair wiki pages corrupted by read_file line-number prefixes
+- `cron/daily-scan-prompt.md` — Daily arXiv/EdArXiv scan cron prompt
+- `cron/weekly-rss-scan-prompt.md` — Weekly journal RSS ingestion cron prompt (open-access check included)
 - `references/web-search-fallback.md` — Proven web_search query patterns for arXiv discovery when API is rate-limited
 - `references/arxiv-listing-extraction.md` — Deterministic arXiv ID extraction from listing pages to bypass API blocks
 - `references/arxiv-api-query-pattern.md` — Proven `execute_code` + `urllib` pattern for date-window arXiv API queries (works in cron; bypasses terminal HTTP block)
@@ -276,7 +279,6 @@ When a daily ingestion cron job stalls mid-pipeline (typically during an `execut
 - `references/validated-10-paper-batch-2026-06-30.md` — Concrete end-to-end benchmark: timings, hybrid fetch pattern, phase scripts, and memory fallback for a 10-paper batch
 - `references/validated-6-paper-batch-2026-07-03.md` — Medium-volume benchmark: 6-paper batch with all APIs responsive, two-script phase architecture
 - `references/cs-cl-ai-fallback-validation.md` — Validation notes on the cs.CL+cs.AI fallback search (added 2026-06-15)
-- `references/journal-regeneration-em-dash.md` — Verified inline-Python `journal.md` regenerator using the em-dash separator (avoids the silent empty-`<tbody>` bug in `regenerate-journal-html.py`).
 - `references/refresh-paper-version.md` — Refresh an already-ingested paper to a newer arXiv version (v1→v3): detection, PDF fetch, frontmatter + sha256 update
 - `references/validated-4-source-daily-scan-2026-07-16.md` — Exact 4-source daily scan (arXiv cs.CY/cs.HC via execute_code urllib + Semantic Scholar bulk + OpenAlex via terminal curl): hybrid fetch split, dedup/filter, 2-script ingest, confirmed S2/OpenAlex outcomes
 
@@ -287,5 +289,5 @@ When a daily ingestion cron job stalls mid-pipeline (typically during an `execut
 - Validate frontmatter with SCHEMA.md requirements
 - Confirm `journal.md` regenerated with correct entry count, newest entry at top
 - **Post-regeneration sanity check**: verify ALL newly ingested slugs appear in both `index.md` and `journal.md` by searching for them with Python `open().read()`. Silent YAML parse failures (unquoted colons, `sources: null`, read_file corruption) can drop entries with no error.
-- **Three-Way Count Reconciliation**: After rebuild, these three counts MUST agree: (a) `len([f for f in os.listdir('concepts') if f.endswith('.md')])`, (b) the number of `- [[slug]]` lines in `index.md`, and (c) the number of `*.html` files in `static-site/pages/`. A 1-page gap is almost always the digest-created-after-index-rebuild ordering bug (see Ingestion Phase); a 10+ gap means a `type` filter dropped digests/entities/comparisons. The static-site generator counts from `concepts/` directly, so its count (c) is authoritative — trust it over a stale `index.md`. Reconcile before declaring the run complete.
+- **Three-Way Count Reconciliation (Astro-era)**: After rebuild, these counts MUST agree: (a) `len([f for f in os.listdir('articles') if f.endswith('.md')])` + `len([f for f in os.listdir('concepts') if f.endswith('.md')])`, (b) the number of `- [[slug]]` lines in `index.md`, and (c) the number of article+concept pages in the built site. `npm run build` prints the page count — trust it as authoritative. Reconcile before declaring the run complete.
 - Count HTML files against concept page count after export

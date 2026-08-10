@@ -1,65 +1,58 @@
 # AI Ed Wiki — Daily Scan Configuration
 # Used by the daily AIED scan cron job
 
-schedule: "0 9 * * *"  # 9:00 AM daily (Eastern)
+schedule: "0 9 * * 1-5"  # 9:00 AM weekdays (Eastern)
 
 search_window:
   default_days: 3  # Fallback when no prior run date in memory
   memory_key: "last_arxiv_scan_date"
 
 sources:
-  - name: arXiv cs.CY
+  - name: arXiv CS + education
     type: arxiv_api
-    url: "http://export.arxiv.org/api/query"
-    categories: ["cs.CY"]
+    url: "https://export.arxiv.org/api/query"
+    categories: ["cs.CY", "cs.HC", "cs.CL", "cs.AI"]
     keywords: ["education", "learning", "student", "teacher", "classroom", "tutor", "school",
                "curriculum", "pedagog", "grading", "feedback", "literacy", "assessment",
                "metacognit"]
     max_results: 20
     retry: {max_attempts: 3, delay_seconds: 2}
 
-  - name: arXiv cs.HC
+  - name: arXiv physics.ed-ph
     type: arxiv_api
-    url: "http://export.arxiv.org/api/query"
-    categories: ["cs.HC"]
-    keywords: ["education", "learning", "student", "teacher", "classroom", "tutor", "school",
-               "curriculum", "pedagog", "grading", "feedback", "literacy", "assessment",
-               "metacognit"]
+    url: "https://export.arxiv.org/api/query"
+    categories: ["physics.ed-ph"]
+    keywords: ["AI", "LLM", "chatbot", "generative", "machine learning"]
     max_results: 10
     retry: {max_attempts: 3, delay_seconds: 2}
 
-  - name: Semantic Scholar
-    type: semanticscholar_api
-    url: "https://api.semanticscholar.org/graph/v1/paper/search/bulk"
-    query: "AI education OR intelligent tutoring OR LLM learning OR AI classroom"
-    fields_of_study: ["Education", "Computer Science"]
-    year: 2026
+  - name: EdArXiv
+    type: web_search
+    url: "https://osf.io/preprints/edarxiv/discover"
+    query: "AI OR LLM OR generative education learning teaching tutoring"
     max_results: 20
     retry: {max_attempts: 3, delay_seconds: 2}
 
-  - name: OpenAlex
-    type: openalex_api
-    url: "https://api.openalex.org/works"
-    query: "artificial intelligence education OR intelligent tutoring OR AI tutoring OR LLM education"
-    year: 2026
-    max_results: 10
-    retry: {max_attempts: 3, delay_seconds: 2}
-
-  - name: arXiv cs.CL + cs.AI (fallback)
-    type: arxiv_api
-    url: "http://export.arxiv.org/api/query"
-    categories: ["cs.CL", "cs.AI"]
-    keywords: ["education", "learning", "student", "teacher", "classroom", "tutor", "school"]
-    max_results: 10
-    trigger_when: "cs.CY + cs.HC combined < 5 new papers"
-    retry: {max_attempts: 3, delay_seconds: 2}
+journal_rss:
+  # Weekly cron job checks these feeds (see tooling/cron/weekly-rss-scan-prompt.md)
+  feeds:
+    - name: "Computers and Education: Artificial Intelligence"
+      url: "https://rss.sciencedirect.com/publication/science/2666920X"
+      open_access: true
+      max_age_days: 90
+    - name: "British Journal of Educational Technology"
+      url: "https://bera-journals.onlinelibrary.wiley.com/feed/14678535/most-recent"
+      open_access: "check_per_article"  # hybrid journal — verify before ingesting
+      max_age_days: 30
+  fetcher_script: "tooling/scripts/fetch-rss-feeds.py"
 
 wiki:
   path: ./
+  articles_dir: articles/
   concepts_dir: concepts/
   raw_dir: raw/papers/
-  static_site_dir: static-site/
-  static_site_url: http://localhost:8080
+  site_build: "npm run build"  # Astro static site build
+  site_url: "https://YOUR_USERNAME.github.io/YOUR_REPO"
 
 notification:
   platform: telegram
@@ -81,9 +74,9 @@ relevance_filter:
   default_policy: "ingest"  # When uncertain, ingest
 
 deduplication:
-  method: "arxiv_id"
+  method: "doi_or_arxiv_id"
   check_path: "raw/papers/"
-  
+
 rate_limiting:
   strategy: "exponential_backoff"
   base_delay: 2  # seconds

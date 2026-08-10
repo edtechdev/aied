@@ -75,40 +75,25 @@ Prepend new entries after the header line:
 
 Update header: `*Last updated: YYYY-MM-DD | Total entries: N*`
 
-### 7. Regenerate Static Site
+### 7. Rebuild the Astro Site
 
-Run `generate-static-site.py` first to rebuild index.html, search.html, and individual concept pages:
+The wiki is published as an Astro static site (the old `generate-static-site.py` pipeline is retired):
 
 ```bash
-python3 scripts/generate-static-site.py --wiki-path /home/doug/wiki --output-path static-site --wiki-title 'AI Ed Wiki'
+# Regenerate agent-ready files, then build and deploy
+python3 tooling/scripts/generate-llms-files.py
+npm run build          # rebuilds dist/ with Pagefind search + sitemap
+git add -A && git commit -m "recover: [TODAY] — completed stalled scan" && git push
 ```
 
-Then manually patch `static-site/journal.html` (the script does NOT touch it):
-- Update the header's date and entry count
-- Insert new `<tr>` rows into `<tbody>` for each paper + daily digest
+GitHub Actions deploys `dist/` to GitHub Pages automatically on push. Verify with `npm run build` output (page count) and the Actions tab.
 
-For each new paper, insert:
-```html
-<tr><td class="conf-cell">&#x25cf;</td><td><a href="pages/{slug}.html">{title}</a></td><td class="source">{arxiv_id}</td><td class="tags-cell">{tags}</td></tr>
+### 8. Verify the Deployed Site
+
+```bash
+curl -s -o /dev/null -w '%{http_code}' https://YOUR_USERNAME.github.io/YOUR_REPO/
 ```
-
-Also patch `static-site/index.html`:
-- Update page count in header: `N pages | M tags`
-- Insert new `<div class="page-item">` entries inside `<div id="pages-list">`
-
-### 8. Restart Static Site Server
-
-```python
-import subprocess, urllib.request, time
-result = subprocess.run(['curl', '-s', '-o', '/dev/null', '-w', '%{http_code}', 'http://localhost:8080/'],
-                       capture_output=True, text=True, timeout=5)
-if result.stdout != '200':
-    subprocess.Popen(['python3', '-m', 'http.server', '8080'],
-                    cwd='/home/doug/wiki/static-site',
-                    start_new_session=True)
-    time.sleep(0.5)
-    urllib.request.urlopen('http://localhost:8080/', timeout=3)
-```
+Expect `200`. If the CDN is stale, wait a minute — GitHub Pages caches briefly.
 
 ### 9. Update Memory
 
