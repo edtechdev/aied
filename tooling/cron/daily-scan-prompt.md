@@ -21,8 +21,8 @@ Search window: start from the day AFTER that date, end today ([TODAY]). If no pr
 ### 1. arXiv API (primary)
 Query these categories via `execute_code` + Python `urllib` (see `references/arxiv-api-query-pattern.md`):
 
-- **cs.CY** (Computers and Society — education): max_results=20
-- **cs.HC** (Human-Computer Interaction): max_results=10
+- **cs.CY, cs.HC, cs.CL, cs.AI** (education-relevant): max_results=20 per category
+- **physics.ed-ph** (physics education): max_results=10
 
 Use keyword filter on title: `education OR learning OR student OR teacher OR classroom OR tutor OR school OR curriculum OR pedagog OR grading OR feedback OR literacy OR assessment OR metacognit`
 
@@ -31,55 +31,48 @@ Query format:
 cat:cs.CY AND (ti:education OR ti:learning OR ...) AND submittedDate:[START TO END]
 ```
 
-### 2. Semantic Scholar (secondary)
-Bulk search endpoint. Query for AI education terms. Filter by `fieldsOfStudy: Education, Computer Science`.
+### 2. EdArXiv (secondary)
+Search the EdArXiv preprint server via `web_extract` or `web_search`:
+`https://osf.io/preprints/edarxiv/discover`
+Query for recent AI-in-education preprints (AI, LLM, generative, tutoring, assessment).
 
-### 3. OpenAlex (tertiary)
-Search works endpoint filtered by `publication_year`, extract arXiv IDs from `locations[].landing_page_url`.
+### 3. Fallback: web search
+If API sources fail or return nothing, use `web_search` with date-anchored queries (see `references/web-search-fallback.md`).
 
-### 4. Fallback: cs.CL + cs.AI
-Only if primary categories yield < 5 new papers combined.
+## Ingestion Workflow
 
-## Ingestion Pipeline (per paper)
+For each new relevant paper:
 
-1. **Save raw source** → `raw/papers/[arxiv_id].md` with frontmatter (source_url, ingested_date, sha256)
-   - Fetch PDF via `curl` + `pdftotext`, truncate body to 50k chars
+1. **Save raw source** → `raw/papers/[arxiv_id_or_slug].md` with frontmatter (source_url, ingested_date, sha256)
+   - Fetch PDF via `curl` + `pdftotext` (or `web_extract` for HTML versions), truncate body to 50k chars
 
-2. **Create concept page** → `concepts/[slug].md`
-   - Frontmatter: title, created, updated, type: concept, tags, sources, confidence
-   - Body: Blockquote synthesis + key findings + 5+ wikilinks to existing pages
+2. **Create article page** → `articles/[slug].md` (this is the wiki's page type for individual papers)
+   - Frontmatter: title, created, updated, type: article, tags, sources, confidence
+   - Body structure: synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → Citation (APA, hyperlinked title)
 
-3. **Add back-links** to 5+ existing concept pages (update their `## Related Pages` sections)
+3. **Update/create concept pages** → `concepts/[slug].md` for topics that synthesize multiple papers
+   - Only create if the concept is genuinely new (check existing concepts first — avoid duplicates)
+   - Add the new article to relevant concept pages' Connected Articles lists
 
-4. **Rebuild index.md** — scan ALL `concepts/*.md`, sort alphabetically, rewrite Concepts section
+4. **Add back-links** to 3-5+ related pages (update their Connected Articles sections)
 
-5. **Append to log.md** — date, sources, paper list, tags, index change
+5. **Append to log.md** — date, sources, paper list, tags
 
-6. **Regenerate journal.md** — extract frontmatter from all concept pages, group by `created`, newest first
+6. **Regenerate journal.md** — extract frontmatter from all article pages, group by `created`, newest first
 
-7. **Regenerate static site:**
+7. **Regenerate agent-ready files** (llms.txt, llms-full.txt):
    ```bash
-   python3 [YOUR_WIKI_PATH]/tooling/scripts/generate-static-site.py \
-     --wiki-path [YOUR_WIKI_PATH] \
-     --output-path static-site \
-     --wiki-title "[YOUR_WIKI_TITLE]" \
-     --site-url "https://YOUR_USERNAME.github.io/YOUR_REPO"
+   python3 [YOUR_WIKI_PATH]/tooling/scripts/generate-llms-files.py
    ```
-   Then run `regenerate-journal-html.py --wiki-path [YOUR_WIKI_PATH]`
 
-8. **Rebuild search_index** (done by generate-static-site.py above)
-
-9. **Regenerate RSS feed** (done by generate-static-site.py above)
-
-10. **Update index.html** journal count (done by generate-static-site.py above)
-
-11. **Commit and push:**
-    ```bash
-    cd [YOUR_WIKI_PATH]
-    git add concepts/ raw/ index.md journal.md log.md static-site/
-    git commit -m "scan: [TODAY] — N new papers on [TOPIC SUMMARY]"
-    git push
-    ```
+8. **Build and deploy the Astro site:**
+   ```bash
+   cd [YOUR_WIKI_PATH]
+   npm run build        # builds dist/ with pagefind search + sitemap
+   git add -A
+   git commit -m "scan: [TODAY] — N new papers on [TOPIC SUMMARY]"
+   git push             # GitHub Actions deploys dist/ to GitHub Pages
+   ```
 
 ## Relevance Filtering
 
@@ -101,21 +94,6 @@ Only if primary categories yield < 5 new papers combined.
 
 After completion, send a summary with:
 - Source status (API results per source)
-- Papers ingested (title + concept page slug for each)
-- Papers skipped (with reason)
-- Index count (before → after)
-- Live site URL
-
-## Pitfalls to Avoid
-
-- **Use em-dash `—` (U+2014) in journal.md entries**, not ASCII hyphen — or journal.html will be empty
-- **Never filter index rebuild to `type: concept` only** — include ALL types (digest, comparison, entity, summary)
-- **Always pass absolute paths** to scripts (not relative — cron has a different working directory)
-- **Verify all new slugs appear in index.md and journal.md** after regeneration
-- **Pre-flight dedup**: check `raw/papers/[id].md` exists BEFORE downloading PDFs
-- **Weekend scans**: arXiv has no new submissions Sat/Sun. Report "Weekend — no new submissions" and check for catch-up papers.
-- **Quote titles with colons** in YAML frontmatter: `title: "X: Y"`
-- **Save scan-complete anchor** to log.md for next run:
-  ```
-  ## [YYYY-MM-DD] meta | scan-complete
-  ```
+- Papers ingested (title + article page slug for each)
+- Concepts created/updated
+- Build/push status

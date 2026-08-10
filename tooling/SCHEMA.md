@@ -6,11 +6,12 @@ AI in Education — research, products, policies, and pedagogical debates around
 ## Conventions
 - File names: lowercase, hyphens, no spaces (e.g., `adaptive-learning-systems.md`)
 - Every wiki page starts with YAML frontmatter (see below)
-- Use `wikilinks` to link between pages (minimum 2 outbound links per page)
+- Use `wikilinks` to link between pages (`[[page-slug]]` or `[[page-slug|display text]]`)
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md`
-- **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/articles/source-file.md]`
+- **Two page types:** `articles/<slug>.md` for individual papers, `concepts/<slug>.md` for broad topics that synthesize multiple papers. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper.
+- **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/papers/source-file.md]`
   at the end of paragraphs whose claims come from a specific source. This lets a reader trace each
   claim back without re-reading the whole raw file. Optional on single-source pages where the
   `sources:` frontmatter is enough.
@@ -21,9 +22,9 @@ AI in Education — research, products, policies, and pedagogical debates around
 title: Page Title
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-type: entity | concept | comparison | query | summary
+type: article | concept
 tags: [from taxonomy below]
-sources: [raw/articles/source-name.md]
+sources: [raw/papers/source-name.md]
 # Optional quality signals:
 confidence: high | medium | low        # how well-supported the claims are
 contested: true                        # set when the page has unresolved contradictions
@@ -32,6 +33,39 @@ contradictions: [other-page-slug]      # pages this one conflicts with
 ```
 
 `confidence` and `contested` are optional but recommended for opinion-heavy or fast-moving topics. Lint surfaces `contested: true` and `confidence: low` pages for review so weak claims don't silently harden into accepted wiki fact.
+
+### Article page body structure
+```
+> **Synthesis:** 2-4 sentence summary of what the paper does and finds
+
+## Key Findings
+- 3-5 distinct bullet points with the most important results
+
+## Connected Concepts
+- [[concept-slug]]  (3-6 genuinely related concepts)
+
+## Connected Articles
+- [[article-slug]]  (2-4 genuinely related articles)
+
+## Citation
+Author, A. (2026). [*Full Title*](https://doi.org/...). Journal.
+```
+
+### Concept page body structure
+```
+> **Synthesis:** definition + overview of the concept
+
+## Key research themes
+Theme descriptions with [[wikilinks]] to related articles
+
+## Connected Concepts
+- [[concept-slug]]
+
+## Connected Articles
+- [[article-slug]]
+
+(No citation section — concepts synthesize multiple sources.)
+```
 
 ### raw/ Frontmatter
 
@@ -123,7 +157,7 @@ When new information conflicts with existing content:
 
 ## Journal (`journal.md`)
 - Reverse chronological index of all ingested articles/papers.
-- Automatically regenerated: sorted by `created` date in concept frontmatter, newest first.
-- Shows: confidence icon (●/◐/○), wikilink to concept page, source reference, full title, and tags.
+- Automatically regenerated: sorted by `created` date in article frontmatter, newest first.
+- Shows: confidence icon (●/◐/○), wikilink to article page, source reference, full title, and tags.
 - Excludes low-confidence stubs with no sources.
 - Regenerate after every ingestion batch to keep current.
