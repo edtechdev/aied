@@ -1,33 +1,47 @@
 ---
 title: Pedagogical Safety
-created: 2026-07-28
-updated: 2026-07-28
+created: 2026-08-09
+updated: 2026-08-09
 type: concept
-tags: [k-12, llm, intelligent-tutoring, human-in-the-loop, ai-literacy, adaptive-learning, generative-ai, benchmark, higher-ed, reinforcement-learning]
-confidence: medium
+tags: [hallucination-risk, rag, k-12, ethics, regulation, ai-governance-education, llm, over-reliance]
+confidence: high
 ---
 
-> **Pedagogical safety** — ensuring AI tutors cannot mislead or harm learners — is studied in [[hazra-safetutors-pedagogical-safety-2026]], [[eduguard-safe-rag-llm-tutor]], petechat-guardrailed-ai-tutor, and [[vetting-dual-llm-safety-education]]: safety requires layered guardrails, evaluation, and human oversight ([[ethics]], [[human-in-the-loop-ai]]).
+> **Pedagogical safety** — the design principle that AI education systems must protect learners from harm, including inappropriate content, unsafe advice, biased treatment, and manipulative interaction patterns. Safety is particularly critical for K-12 contexts.
+
+### Safety dimensions
+
+- **Content safety:** [[eduzone-llm-safety-k12|EduZone]] and [[eduguard-safe-rag-llm-tutor|EduGuard]] implement guardrails that prevent AI tutors from generating harmful, inappropriate, or inaccurate content.
+- **Interaction safety:** [[ai-tutor-safety-harms|AI tutor harm taxonomies]] categorize potential harms — from [[over-reliance]] to [[cognitive-offloading]] to emotional manipulation.
+- **Age-appropriate design:** [[child-safety-genai|Child safety frameworks]] and [[k-12]] research establish age-specific safety requirements.
+- **Hallucination as safety risk:** [[hallucination-risk]] is a safety concern when students cannot distinguish fabricated from factual information.
+
+### Safety by design
+
+The wiki advocates safety as a design requirement, not an afterthought. [[pedagogical-llm-training|Pedagogical LLM training]] and [[educational-llm-alignment|educational alignment]] build safety into model behavior. [[rag|Retrieval-augmented generation]] grounds responses in verified content.
+
+### Connections
+
+Pedagogical safety connects to [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[regulation]], [[ai-governance-education]], and [[llm]]. It is the protective layer that enables safe AI education deployment.
 
 ## Connected Concepts
 
-- [[intelligent-tutoring]]
-- [[ai-tutoring]]
-- [[privacy]]
-- [[student-experience]]
+- [[hallucination-risk]]
+- [[rag]]
+- [[k-12]]
+- [[ethics]]
 - [[regulation]]
-- [[scaffolding]]
+- [[ai-governance-education]]
+- [[llm]]
 - [[over-reliance]]
-- [[pedagogical-llm-training]]
-- [[teacher-role]]
-- [[reinforcement-learning]]
-- [[teacher-role]]
-- [[self-regulated-learning]]
+- [[ai-tutoring]]
+- [[child-safety-genai]]
+
 ## Connected Articles
 
-- [[adversarial-stress-testing-role-playing-agents]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[xai-education-framework]]
+- [[eduzone-llm-safety-k12]]
+- [[eduguard-safe-rag-llm-tutor]]
+- [[ai-tutor-safety-harms]]
+- [[child-safety-genai]]
+- [[educational-llm-alignment]]
+- [[eduframetrap-llm-sycophancy-educational-safety]]

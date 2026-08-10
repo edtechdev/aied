@@ -1,58 +1,48 @@
 ---
 title: Assessment Validity in AI Education
-created: 2026-05-08
-updated: 2026-05-08
+created: 2026-08-09
+updated: 2026-08-09
 type: concept
-tags: [ai-literacy, assessment, assessment-validity, educational-theory, faculty-development, higher-ed, generative-ai, student-experience, k-12, llm]
+tags: [authentic-assessment, automated-grading, confidence-aware-ai-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity]
 confidence: high
 ---
 
-> **Assessment validity** — whether an instrument measures what it claims — is under strain in AI education: [[ai-literacy]] self-reports overestimate actual skill (40% gap; r=0.31 self-report vs r=0.72 task-based), demanding task-based, construct-aligned designs (benchmark, [[automated-grading]]).
+> **Assessment validity** — whether assessments measure what they claim to measure. AI in education raises fundamental validity questions: do AI-graded assessments assess student learning or AI prompting skill? Does AI use invalidate traditional assessment assumptions?
 
-Assessment validity—the degree to which an instrument measures what it claims to measure—is critical in AI education contexts where self-report bias distorts competency evaluation. Zhang et al. (2026) revealed a **40% overestimation gap**: teachers' self-reported AI literacy correlated weakly (r=0.31) with actual performance, while task-based assessments showed strong correlation (r=0.72) with classroom AI integration.
+### Validity challenges
 
-### Key Validity Threats in AI Education
-1. **Self-Report Bias:** Learners and educators overestimate skills due to familiarity with AI tools without deep understanding
-2. **Construct Irrelevance:** Assessments measuring technical prompt syntax rather than pedagogical reasoning
-3. **Cultural Bias:** Standardized tests reflecting dominant cultural perspectives on AI use
-4. **Rapid Obsolescence:** AI tools evolve faster than assessment instruments
+- **Construct validity:** When students use AI on assessments, does the score reflect student knowledge or AI capability? [[genai-performance-vs-learning|Performance vs. learning]] research addresses this directly.
+- **Consequential validity:** Do AI-mediated assessments have fair consequences? [[ai-scoring-language-bias-physics|Language bias studies]] show that AI scoring can disadvantage non-native speakers.
+- **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
+- **Confidence and calibration:** [[confidence-aware-ai-assessment|Confidence-aware systems]] improve validity by flagging uncertain assessments.
 
-### Validity Frameworks
-- **Content Validity:** Does the assessment cover essential AI literacy domains (prompting, ethics, pedagogy)?
-- **Criterion Validity:** Does it predict real-world AI integration in classrooms?
-- **Construct Validity:** Does it measure AI literacy vs. general tech comfort?
+### Redesign over detection
 
-## References
+The wiki argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not detecting AI use. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[process-based assessment]] represent validity-forward thinking.
 
-Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Between Self-Reported and Performance*. arXiv:2601.06101.
+### Connections
 
-## Source
-
-- https://arxiv.org/abs/2601.06101
+Assessment validity connects to [[authentic-assessment]], [[automated-grading]], [[confidence-aware-ai-assessment]], [[formative-assessment]], [[academic-integrity]], and [[rct]] (which relies on valid outcome measures).
 
 ## Connected Concepts
 
+- [[authentic-assessment]]
 - [[automated-grading]]
-- [[stem-education]]
-- [[llm]]
+- [[confidence-aware-ai-assessment]]
 - [[formative-assessment]]
-- [[regulation]]
-- [[language-learning]]
-- [[faculty-development]]
-- [[student-experience]]
-- [[teacher-ai-competency]]
-- [[scaffolding]]
 - [[academic-integrity]]
-- [[ai-literacy]]
+- [[rct]]
+- [[bias-mitigation]]
+- [[equity]]
+- [[ai-ed-evaluation]]
+- [[educational-measurement]]
+- [[llm]]
+
 ## Connected Articles
 
+- [[genai-performance-vs-learning]]
 - [[ai-scoring-language-bias-physics]]
-- [[credential-cognitive-stewardship-ai-assessment]]
-- [[genai-meta-analysis-programming-learning]]
-- [[kim-llm-fallacy-misattribution-2026]]
-- [[lata-ferpa-compliant-local-llm-autograder]]
-- [[representation-robustness-llm-math-problem-solving]]
-- [[rubric-aware-grading-rec-cbm]]
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[student-misconceptions-conditionals-loops-taxonomy]]
-- [[universities-ai-era-rethinking]]
+- [[ai-assessment-scale-reform]]
+- [[beyond-detection-authentic-assessment-ai-2025]]
+- [[confidence-aware-student-drawing-assessment]]
+- [[cong-confidence-asag-2026]]
