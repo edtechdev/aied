@@ -58,8 +58,8 @@ const related = Object.entries(coTags).sort((a, b) => b[1] - a[1]).slice(0, 15);
         </a>
         {summary && <div style="font-size:0.82rem;color:var(--muted-color);margin-top:0.15rem;line-height:1.4;">{summary}…</div>}
         <div style="font-size:0.8rem;color:var(--muted-color);">
-          {p.data.created} · {(p.data.tags || []).filter(t => t !== tag).slice(0, 5).map(t => (
-            <a href={`/aied/tags/${t}`} class="tag-chip" style="font-size:0.7rem;padding:0.03rem 0.35rem;">{t}</a>
+          {p.data.created} · {(p.data.tags || []).filter(t => t !== tag).slice(0, 5).map((t, i) => (
+            <>{i > 0 ? ', ' : ''}<a href={`/aied/tags/${t}`} class="tag-chip" style="font-size:0.7rem;padding:0.03rem 0.35rem;">{t}</a></>
           ))}
         </div>
       </div>
