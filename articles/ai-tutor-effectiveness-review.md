@@ -47,7 +47,7 @@ The review identifies a **critical need for stronger experimental design and dat
 
 | Claim in review | Supporting evidence in wiki | Contradictory evidence |
 |---|---|---|
-| ITS show mixed real-world effectiveness | [[ai-k12-evidence-base]] (only 20/818 papers meet causal standards) | [[pedagogical-llm-training|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
+| ITS show mixed real-world effectiveness | [[stanford-evidence-base-ai-k12-2026]] (only 20/818 papers meet causal standards) | [[pedagogical-llm-training|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
 | Need for stronger experimental rigor | [[educational-llm-alignment|Hardy & Kim]] (benchmark≠teaching quality) | — |
 | NLP advances for dialogue | [[knowledge-tracing-irt]] (interpretable dialogue modeling) | [[ai-tutor-safety-harms|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
 | Affective computing as advancement | [[affective-tutoring|MathBuddy]] (+23 points win rate) | [[ai-tutor-safety-harms]] (emotional risks, parasocial dependency) |
@@ -68,7 +68,7 @@ The review identifies a **critical need for stronger experimental design and dat
 ## Connected Articles
 
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[educational-llm-alignment]]
 - [[knowledge-tracing-irt]]
 - [[ai-tutor-safety-harms]]

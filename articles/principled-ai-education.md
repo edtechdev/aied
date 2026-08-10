@@ -46,7 +46,7 @@ This principle is the through-line of the framework. Technology use must be alig
 
 | Finkelstein principle | Supporting wiki evidence | Tension |
 |---|---|---|
-| Goals before tools | [[ai-k12-evidence-base]] (few causal studies because goals were ill-defined) | Industry pressure to deploy fast |
+| Goals before tools | [[stanford-evidence-base-ai-k12-2026]] (few causal studies because goals were ill-defined) | Industry pressure to deploy fast |
 | Augment, not displace | [[ai-tutor-safety-harms]] (displacement harms catalogued) | [[llm-fallacy-misattribution]] (users willingly displace themselves) |
 | Meaningful learning | [[self-regulated-learning]] (SRL as meaningful engagement) | Convenience tempts toward shortcut design |
 | Democratic societies | [[ai-literacy]] (distributed AI literacy for citizenship) | Platform concentration concentrates power |
@@ -78,8 +78,8 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
 - [[authentic-assessment]] — Authentic Assessment

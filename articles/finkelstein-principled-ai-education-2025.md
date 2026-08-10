@@ -30,9 +30,9 @@ The paper includes concrete scenarios illustrating how multiple principles inter
 
 Finkelstein's framework directly challenges the prevailing discourse that oscillates between uncritical AI adoption and reactionary prohibition. By grounding decisions in explicit principles derived from decades of learning sciences scholarship, educators and policy makers gain a stable foundation for action even as AI technologies evolve rapidly. The framework is deliberately flexible — designed for varied educational contexts across disciplines and institution types while maintaining fidelity to enduring educational values.
 
-The emphasis on **discernment**, **empathy**, and **sense of self** as non-negotiable educational outcomes has profound implications for AI tool design. Systems that optimize for immediate task completion at the expense of student reflection, that reduce collaborative learning to isolated human-AI interaction, or that erode students' sense of belonging and agency fail the principled test — regardless of their technical sophistication. This aligns with findings from [[ai-learning-transfer]] showing that AI-assisted performance gains frequently fail to transfer to unassisted contexts, and with [[desirable-difficulties]] research demonstrating that easier practice can harm long-term retention.
+The emphasis on **discernment**, **empathy**, and **sense of self** as non-negotiable educational outcomes has profound implications for AI tool design. Systems that optimize for immediate task completion at the expense of student reflection, that reduce collaborative learning to isolated human-AI interaction, or that erode students' sense of belonging and agency fail the principled test — regardless of their technical sophistication. This aligns with findings from [[transfer-of-learning]] showing that AI-assisted performance gains frequently fail to transfer to unassisted contexts, and with [[desirable-difficulties]] research demonstrating that easier practice can harm long-term retention.
 
-The framework also speaks to the growing evidence gap documented in [[ai-k12-evidence-base]]: without principled foundations, the rush to implement AI in education proceeds without adequate causal evidence of effectiveness. Finkelstein's approach provides a normative compass — even where empirical evidence is thin, principles grounded in learning science can guide responsible implementation while research catches up.
+The framework also speaks to the growing evidence gap documented in [[stanford-evidence-base-ai-k12-2026]]: without principled foundations, the rush to implement AI in education proceeds without adequate causal evidence of effectiveness. Finkelstein's approach provides a normative compass — even where empirical evidence is thin, principles grounded in learning science can guide responsible implementation while research catches up.
 
 For course design, the framework connects directly to [[scaffolding]] practices and the [[zone-of-proximal-development]]: AI tools should provide support calibrated to learner readiness, not do the work for students. It also intersects with [[ai-metacognition-stem-review]] findings on how AI can either support or undermine metacognitive development depending on implementation choices.
 
@@ -50,8 +50,8 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 - [[curriculum-design]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

@@ -13,7 +13,7 @@ Kapsalis (2026) presents one of the first empirical studies of generative AI int
 
 This work extends the [[generative-ai]] education literature beyond text-based domains (coding, writing) into visual-spatial design disciplines. The finding that gen-AI tools broadened participation is particularly significant for [[equity]] research — students who traditionally struggled with manual drafting or 3D modeling gained new entry points. This connects to [[ai-literacy]] discussions about AI as an accessibility tool and [[personalized-learning]] frameworks that emphasize multiple pathways to competence.
 
-The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educational-measurement]] and privacy-conscious deployment. The study operationalizes [[constructivist]] principles by positioning AI as a tool for learner-led meaning-making within human-AI networks. For [[faculty-development]], the paper provides evidence-based guidance on gen-AI integration in studio-based disciplines, an area where the [[ai-k12-evidence-base]] and related literature have been thin.
+The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educational-measurement]] and privacy-conscious deployment. The study operationalizes [[constructivist]] principles by positioning AI as a tool for learner-led meaning-making within human-AI networks. For [[faculty-development]], the paper provides evidence-based guidance on gen-AI integration in studio-based disciplines, an area where the [[stanford-evidence-base-ai-k12-2026]] and related literature have been thin.
 
 ## Connected Concepts
 
@@ -26,7 +26,7 @@ The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educati
 - [[faculty-development]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 Timo Kapsalis (2026). [Gen-AI-tecture: using generative AI to support architectural students in design tasks](https://arxiv.org/abs/2605.21361). arXiv:2605.21361. arXiv:2605.21361 [cs.HC] — Submitted to Journal of Architectural Education.

@@ -49,7 +49,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 ## Relationship to Existing Wiki Concepts
 
 - [[metacognition]] — The LLM fallacy is a metacognitive calibration failure: students cannot accurately monitor their own understanding because fluent AI output creates false fluency signals
-- [[ai-learning-transfer]] — Misattribution undermines transfer because students believe they have mastered material they have merely prompted; the gap between perceived and actual capability manifests as transfer failure
+- [[transfer-of-learning]] — Misattribution undermines transfer because students believe they have mastered material they have merely prompted; the gap between perceived and actual capability manifests as transfer failure
 - [[ai-tutor-safety-harms]] — SafeTutors' Cognitive (fluency illusion) and Ethical-Epistemic (misrepresentation) dimensions are tutoring-specific expressions of the fallacy
 - [[self-regulated-learning]] — Attribution ambiguity disrupts the self-evaluation phase of SRL, preventing accurate causal attribution and adaptation
 
@@ -75,7 +75,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[authentic-assessment]] — Authentic Assessment
 - [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect

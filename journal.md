@@ -2002,11 +2002,11 @@
   Agentic Workflows in Education
   _agentic-ai, ai-education, benchmark, intelligent-tutoring_
 
-- ◐ [[ai-k12-evidence-base]] — `stanford-evidence-base-ai-k12-2026`
+- ◐ [[stanford-evidence-base-ai-k12-2026]] — `stanford-evidence-base-ai-k12-2026`
   AI in K-12 Evidence Base
   _k-12, rct, efficacy-study, learning-gains +2_
 
-- ◐ [[ai-learning-transfer]] — `stanford-evidence-base-ai-k12-2026`
+- ◐ [[transfer-of-learning]] — `stanford-evidence-base-ai-k12-2026`
   AI Learning Transfer
   _efficacy-study, llm, adaptive-learning, formative-assessment +1_
 
