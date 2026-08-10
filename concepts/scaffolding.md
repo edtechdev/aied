@@ -17,25 +17,33 @@ confidence: medium
 - **[[teachingcoach-chatbot-instructor-guidance]]:** Authors:** Isabel Molnar, Peiyu Li, Si Chen, Sugana Chawla, James Lang, Ronald Metoyer, Ting Hua, Nitesh V.
 
 ## Connected Concepts
-- [[llm]]
-- [[higher-ed]]
-- [[generative-ai]]
+
+- [[intelligent-tutoring]]
 - [[ai-literacy]]
+- [[llm]]
+- [[self-regulated-learning]]
 - [[student-experience]]
-- [[metacognition]]
-- [[k-12]]
+- [[generative-ai]]
+- [[over-reliance]]
+- [[higher-ed]]
 - [[formative-assessment]]
 - [[teacher-role]]
-- [[self-regulated-learning]]
-- [[personalized-learning]]
-- [[learning-analytics]]
-
+- [[metacognition]]
+- [[cs-education]]
 ## Connected Articles
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedag...
-- [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration To...
-- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Traject...
-- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
-- [[human-ai-co-mentorship]] — Human-AI Co-Mentorship in Project-Based Learning: A Case ...
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instr...
+
+- [[agency-gap-ai-writing]]
+- [[ai-adoption-training-public-sector]]
+- [[ai-agents-constructive-conflict-design-education-2026]]
+- [[ai-changing-teaching-workflows]]
+- [[ai-coaching-rl-skill-development]]
+- [[ai-generated-traces-novice-programmers]]
+- [[ai-learning-assistants-higher-ed-large-scale]]
+- [[ai-lms-middle-school-longitudinal]]
+- [[ai-pedagogical-accompaniment-amico]]
+- [[ai-pedagogical-orientation]]
+- [[ai-stem-bibliometric-trends]]
+- [[ase-26-agentic-software-engineering-curriculum]]
+- [[automated-presentation-coaching]]
+- [[bloom-aligned-educational-control-llms]]
+- [[chat-debugging-human-ai-collaboration-circuits]]

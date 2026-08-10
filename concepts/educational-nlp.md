@@ -11,23 +11,18 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[learning-analytics]]
-- [[ai-education]]
+- [[intelligent-tutoring]]
+- [[student-modeling]]
 - [[knowledge-tracing]]
 - [[socratic-method]]
+- [[scaffolding]]
+- [[mastery-learning]]
 - [[pedagogical-llm-training]]
-- [[educational-policy-ai]]
 - [[metacognition]]
 - [[rct]]
-- [[ai-ed-evaluation]]
+- [[learning-analytics]]
+- [[educational-policy-ai]]
 - [[adaptive-learning]]
-- [[mastery-learning]]
-- [[scaffolding]]
-
 ## Connected Articles
 
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case...
-- [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
-- [[human-vs-llm-ordered-coding]] — Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis
-- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[zerkouk-comprehensive-review-its-2025]]

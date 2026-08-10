@@ -15,25 +15,33 @@ Examines gender differences in AI literacy, safety awareness, and STEM career as
 - **[[hypergamification-game-engine-lms]]:** Araz Yusubov, Michael Bechtel, Tangiz Alizada** — arXiv preprint (2026).
 
 ## Connected Concepts
-- [[llm]]
-- [[higher-ed]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[adaptive-learning]]
-- [[scaffolding]]
-- [[personalized-learning]]
-- [[automated-grading]]
-- [[generative-ai]]
-- [[knowledge-tracing]]
 
+- [[intelligent-tutoring]]
+- [[adaptive-learning]]
+- [[student-modeling]]
+- [[formative-assessment]]
+- [[student-experience]]
+- [[higher-ed]]
+- [[personalized-learning]]
+- [[faculty-development]]
+- [[ai-literacy]]
+- [[llm]]
+- [[regulation]]
+- [[scaffolding]]
 ## Connected Articles
-- [[reliable-programming-kt]] — Ensuring Reliability in Programming Knowledge Tracing: A ...
-- [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy Workshop Outcomes and D...
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Cr...
-- [[reinforcement-learning-measurement-model-assessment]] — Reinforcement Learning Measurement Model
-- [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Le...
-- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computatio...
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[modular-educational-llm-agency]] — Modularizing Educational LLM-Agency for Fostering Respons...
+
+- [[a4l-analytics-pipeline]]
+- [[affective-text-wearable-student-health]]
+- [[ai-lifelong-learning-policy]]
+- [[ai-team-teaching-talk-analytics]]
+- [[aicode-collaborative-feedback-system]]
+- [[assessment-team-problem-solving-computing-education]]
+- [[at-risk-students-ml-prediction]]
+- [[becerra-aicofe-feedback-2026]]
+- [[clara-collaboration-literacy-dashboard]]
+- [[cross-subject-validity-delayed-start]]
+- [[debugtracker-classroom-debugging]]
+- [[edumirror-educational-social-dynamics]]
+- [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]]
+- [[expert-cognition-dashboard]]
+- [[hashmi-socratic-physics-chatbot-2025]]

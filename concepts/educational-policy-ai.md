@@ -11,19 +11,27 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[knowledge-tracing]]
-- [[socratic-method]]
-- [[learning-analytics]]
-- [[pedagogical-llm-training]]
-- [[metacognition]]
-- [[rct]]
-- [[ai-ed-evaluation]]
-- [[adaptive-learning]]
-- [[educational-nlp]]
-- [[mastery-learning]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[equity]]
+- [[faculty-development]]
+- [[teacher-role]]
+- [[academic-integrity]]
+- [[intelligent-tutoring]]
 - [[scaffolding]]
+- [[generative-ai]]
+- [[learning-analytics]]
+- [[student-experience]]
 - [[ai-education]]
-
 ## Connected Articles
 
-- [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
+- [[ai-assessment-scale-reform]]
+- [[ai-ethics-education-public-discourse]]
+- [[ai-lifelong-learning-policy]]
+- [[ai-literacy-equity-programming-policy]]
+- [[genai-assessment-governance]]
+- [[genai-declaration-frameworks-higher-education]]
+- [[genai-policies-higher-ed-computing]]
+- [[institutional-change-framework-ai]]
+- [[white-wu-robotics-ai-education-2026]]
+- [[zerkouk-comprehensive-review-its-2025]]

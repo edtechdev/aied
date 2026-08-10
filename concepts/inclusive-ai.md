@@ -10,5 +10,15 @@ confidence: low
 
 ## Connected Concepts
 
-
-
+- [[special-education]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[personalized-learning]]
+- [[student-experience]]
+- [[faculty-development]]
+- [[equity]]
+- [[cs-education]]
+- [[higher-ed]]
+- [[educational-measurement]]
+- [[bias-mitigation]]
+- [[constructivist]]

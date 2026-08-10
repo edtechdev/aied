@@ -38,28 +38,30 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 ## Connected Concepts
 
 - [[over-reliance]]
-- [[cognitive-load-theory]]
 - [[ai-literacy]]
-- [[scaffolding]]
 - [[metacognition]]
-- [[self-regulated-learning]]
-- [[prompt-engineering]]
-- [[critical-thinking]]
 - [[student-experience]]
+- [[self-regulated-learning]]
+- [[scaffolding]]
+- [[formative-assessment]]
 - [[generative-ai]]
-- [[llm]]
-- [[higher-ed]]
-
+- [[academic-integrity]]
+- [[teacher-role]]
+- [[critical-thinking]]
+- [[regulation]]
 ## Connected Articles
 
-- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
-- [[cognitive-offloading-speedup-illusion]] — Cognitive Offloading and the Speedup Illusion
-- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
-- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning
-- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI Tutors: Empower or Enslave?
-- [[genai-availability-grades-satisfaction]] — GenAI Availability, Grades, and Satisfaction
-- [[ai-making-us-stupid]] — Is AI Making Us Stupid?
-- [[metacognitive-awareness-experiential-vs-instructional]] — Metacognitive Awareness
-- [[ai-fatigue-academic-contexts]] — AI Fatigue in Academic Contexts
-- [[tzirides-thinking-through-ai-2025]] — Thinking Through AI Framework
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with GenAI
+- [[ai-fatigue-academic-contexts]]
+- [[ai-making-us-stupid]]
+- [[buggy-genai-code-student-responses]]
+- [[code-review-genai-cs1]]
+- [[cognitive-offloading-speedup-illusion]]
+- [[critical-thinking-genai-scaffolding]]
+- [[favero-critical-ai-tutors-empower-enslave-2025]]
+- [[genai-availability-grades-satisfaction]]
+- [[generative-ai-guardrails-harm-learning]]
+- [[generative-ai-reduced-study-time-math]]
+- [[llm-cognitive-diagnosis-handwritten-math]]
+- [[metacognitive-awareness-experiential-vs-instructional]]
+- [[misiejuk-cognitive-offloading-prompting-2026]]
+- [[tzirides-thinking-through-ai-2025]]

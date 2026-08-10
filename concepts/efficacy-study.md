@@ -15,5 +15,3 @@ Research themes include:
 
 ## Connected Concepts
 
-
-

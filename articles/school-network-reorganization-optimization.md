@@ -33,12 +33,12 @@ A synthetic benchmark generator enables scalability testing, while the real-worl
 As school districts worldwide face declining enrollments and budget pressures, AI-powered optimization offers data-driven alternatives to politically-driven consolidation decisions. The framework's multi-criteria approach ensures that educational quality and equity considerations are not sacrificed to purely financial optimization.
 
 ## Connected Concepts
-- [[ai-education]]
-- [[equity]]
 
+- [[equity]]
+- [[ai-education]]
 - [[k-12]]
 ## Connected Articles
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
+
 
 ## Citation
 Ciacco, A., Di Puglia Pugliese, L., & Guerriero, F. (2026). [*School network reorganization under educational and spatial constraints using classical and quantum optimization*](https://arxiv.org/abs/2608.05427v1). arXiv:2608.05427v1.

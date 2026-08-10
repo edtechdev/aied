@@ -13,5 +13,7 @@ Research themes include:
 
 ## Connected Concepts
 
-
-
+- [[scaffolding]]
+- [[student-experience]]
+- [[socratic-method]]
+- [[agentic-ai]]

@@ -28,11 +28,3 @@ Knowledge graphs connect to [[domain-modeling]] (defining what to teach), [[curr
 
 ## Connected Concepts
 
-
-
-## Connected Articles
-
-- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive ITS Review
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[cold-start-knowledge-tracing-safeinsights]] — Cold-Start Problem in Knowledge Tracing

@@ -47,19 +47,13 @@ Accurate prerequisite modeling is foundational to:
 ProPRL's property-aware approach ensures that these systems respect the asymmetric nature of learning dependencies.
 
 ## Connected Concepts
-- [[knowledge-tracing]]
+
 - [[adaptive-learning]]
+- [[knowledge-tracing]]
 - [[personalized-learning]]
 - [[student-modeling]]
-- [[ai-education]]
-
-- [[llm]]
 ## Connected Articles
-- [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
-- [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
-- [[learnopt-exam-cognitive-structure]] — LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs
+
 
 ## Citation
 Cheng, X., Wang, J., He, C., Dong, R., & Guan, Q. (2026). [*ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs*](https://arxiv.org/abs/2608.03006v1). arXiv:2608.03006v1.

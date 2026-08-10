@@ -10,5 +10,15 @@ confidence: low
 
 ## Connected Concepts
 
-
-
+- [[equity]]
+- [[student-experience]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[inclusive-ai]]
+- [[accessible-learning]]
+- [[intelligent-tutoring]]
+- [[adaptive-learning]]
+- [[k-12]]
+- [[generative-ai]]
+- [[personalized-learning]]
+- [[cs-education]]

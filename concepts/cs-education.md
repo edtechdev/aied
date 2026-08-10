@@ -14,15 +14,15 @@ Research in this wiki explores cs education through multiple lenses:
 
 ## Connected Concepts
 
-
-## Connected Articles
-- [[chat-debugging-llm-hardware-education-2026]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[anvil-ai-educational-animations]]
-- [[cstutorbench-slm-tutors]]
-- [[data-annotations-pedagogical-hints]]
-- [[visual-query-tracer-declarative-logic-learning]]
-- [[prompt-problems-nl-programming-mistakes]]
-- [[student-perception-ai-use-collaboration]]
-- [[trio-ethnography-llm-programming-education]]
-- [[llm-intervention-design-cs-review]]
+- [[scaffolding]]
+- [[student-experience]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[stem-education]]
+- [[formative-assessment]]
+- [[instructional-design]]
+- [[generative-ai]]
+- [[feedback-loop]]
+- [[over-reliance]]
+- [[llm]]
+- [[teacher-role]]

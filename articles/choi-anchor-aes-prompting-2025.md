@@ -26,22 +26,15 @@ The work complements [[psyscore-essay-scoring-zpd-feedback]] research on psychom
 
 ## Connected Concepts
 
+- [[k-12]]
 - [[automated-essay-scoring]]
 - [[prompt-engineering]]
 - [[writing-education]]
 - [[ai-literacy]]
-- [[automated-assessment]]
-- [[k-12]]
-- [[higher-ed]]
-
 ## Connected Articles
 
-- [[psyscore-essay-scoring-zpd-feedback]] — PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
-- [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically diverse students
-- [[self-referential-l2-writing-llm-assessment]] — Towards Self-Referential Analytic Assessment of L2 Writing
-- [[aiawe-automated-writing-evaluation]] — AIAWE: Automated Writing Evaluation
-
+- [[psyscore-essay-scoring-zpd-feedback]]
+- [[icle-plus-plus-essay-scoring]]
 ## Citation
 
 Choi, J., Tate, T., Ritchie, D., Nixon, N., & Warschauer, M. (2025). [*Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting*](https://doi.org/10.35542/osf.io/cbhgz_v1). EdArXiv. doi:10.35542/osf.io/cbhgz_v1.

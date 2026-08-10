@@ -16,25 +16,33 @@ confidence: medium
 - **[[courseblueprint-adaptive-video-generation]]:** Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026)** — arXiv:2606.
 
 ## Connected Concepts
-- [[llm]]
-- [[generative-ai]]
+
 - [[ai-literacy]]
 - [[student-experience]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[learning-analytics]]
-- [[rag]]
-- [[k-12]]
+- [[generative-ai]]
 - [[teacher-role]]
-- [[automated-grading]]
-- [[metacognition]]
-
+- [[formative-assessment]]
+- [[llm]]
+- [[over-reliance]]
+- [[scaffolding]]
+- [[academic-integrity]]
+- [[stem-education]]
+- [[equity]]
+- [[personalized-learning]]
 ## Connected Articles
-- [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven ...
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...
-- [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design in higher education:...
-- [[student-cheat-sheets-make-or-take]] — Make or Take: How Students Navigate Self-Created and Inst...
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedag...
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a ...
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Cr...
-- [[human-ai-co-mentorship]] — Human-AI Co-Mentorship in Project-Based Learning: A Case ...
+
+- [[agentic-literacy-debt]]
+- [[ai-assessment-scale-reform]]
+- [[ai-assistance-discretionary-feedback]]
+- [[ai-assisted-writing-research-teams]]
+- [[ai-availability-student-motivation]]
+- [[ai-campus-wellbeing-tools]]
+- [[ai-ethics-education-public-discourse]]
+- [[ai-learning-assistants-higher-ed-large-scale]]
+- [[ai-learning-tools-engineering-education-needs]]
+- [[ai-literacy-continuum-higher-education]]
+- [[ai-literacy-equity-programming-policy]]
+- [[ai-literacy-legal-translation-2026]]
+- [[ai-productivity-moderation]]
+- [[ai-tools-arab-english-classrooms]]
+- [[assessment-team-problem-solving-computing-education]]

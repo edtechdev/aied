@@ -27,19 +27,19 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 
 ## Connected Concepts
 
-- [[ai-literacy]]
-- [[prompt-engineering]]
-- [[automated-assessment]]
-- [[writing-education]]
-- [[higher-ed]]
+- [[bias-mitigation]]
+- [[equity-in-ai-education]]
+- [[equity]]
+- [[automated-grading]]
+- [[language-learning]]
+- [[educational-measurement]]
 - [[k-12]]
-
+- [[prompt-engineering]]
+- [[writing-education]]
+- [[automated-assessment]]
+- [[ai-literacy]]
+- [[assessment-validity]]
 ## Connected Articles
 
-- [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible AES with LLMs Through Prompting
-- [[psyscore-essay-scoring-zpd-feedback]] — PsyScore: Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring
-- [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
-- [[ai-scoring-language-bias-physics]] — AI Scoring Systematically Underestimates Linguistically Diverse Students
-- [[self-referential-l2-writing-llm-assessment]] — Self-Referential Analytic Assessment of L2 Writing
-- [[aiawe-automated-writing-evaluation]] — AIAWE: Automated Writing Evaluation
-- [[confidence-aware-student-drawing-assessment]] — Confidence-Aware Automated Assessment of Student-Drawn Models
+- [[ai-scoring-language-bias-physics]]
+- [[choi-anchor-aes-prompting-2025]]

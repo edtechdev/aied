@@ -10,12 +10,15 @@ confidence: low
 
 ## Connected Concepts
 
-
-## Connected Articles
-- [[genai-meta-analysis-programming-learning]]
-- [[ai-interlocutor-l2-spoken-dialogue]]
-- [[automated-presentation-coaching]]
-- [[ai-scoring-language-bias-physics]]
-- [[ai-tools-arab-english-classrooms]]
-- [[dyslexlens-dyslexic-learners-ai]]
-- [[tutors-gig-economy-automated-feedback]]
+- [[intelligent-tutoring]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[writing-education]]
+- [[student-experience]]
+- [[personalized-learning]]
+- [[equity]]
+- [[assessment-validity]]
+- [[ai-feedback-quality]]
+- [[rct]]
+- [[regulation]]
+- [[stem-education]]

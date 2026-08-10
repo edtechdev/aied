@@ -14,16 +14,15 @@ Research themes include:
 
 ## Connected Concepts
 
-- [[ai-literacy]]
-- [[ai-education]]
-- [[metacognition]]
 - [[scaffolding]]
-- [[higher-ed]]
-- [[llm]]
+- [[adaptive-learning]]
+- [[teacher-role]]
+- [[metacognition]]
+- [[intelligent-tutoring]]
+- [[automated-grading]]
 - [[generative-ai]]
-- [[knowledge-tracing]]
-- [[socratic-method]]
+- [[ai-literacy]]
+- [[feedback-loop]]
 - [[learning-analytics]]
-- [[pedagogical-llm-training]]
-- [[educational-policy-ai]]
-
+- [[ai-education]]
+- [[regulation]]

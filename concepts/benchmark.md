@@ -22,12 +22,3 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 ## Connected Concepts
 
-
-
-## Connected Articles
-
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: Pedagogical LLM Agent Benchmark
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Small Language Model Tutors
-- [[anvil-ai-educational-animations]] — ANVIL: AI Educational Animations
-- [[teaching-feedback-classification-benchmark]] — Teaching Feedback Classification Benchmark
-- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark

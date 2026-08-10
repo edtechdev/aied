@@ -14,5 +14,15 @@ Research themes include:
 
 ## Connected Concepts
 
-
-
+- [[k-12]]
+- [[personalized-learning]]
+- [[student-modeling]]
+- [[open-source]]
+- [[pedagogical-llm-training]]
+- [[intelligent-tutoring]]
+- [[adaptive-learning]]
+- [[generative-ai]]
+- [[affective-tutoring]]
+- [[instructional-design]]
+- [[affective-computing]]
+- [[ai-tutoring]]

@@ -11,21 +11,14 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[ai-ed-evaluation]]
 - [[adaptive-prompt-routing]]
-- [[automated-grading]]
-- [[scaffolding]]
-- [[formative-assessment]]
-- [[personalized-learning]]
-- [[student-experience]]
-- [[k-12]]
-- [[llm]]
+- [[human-in-the-loop-ai]]
 - [[rag]]
-- [[assessment-validity]]
-- [[writing-education]]
-
+- [[automated-grading]]
 ## Connected Articles
 
-- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
-- [[cong-confidence-asag-2026]] — Confidence-Aware Automatic Short Answer Grading
-- [[confidence-aware-student-drawing-assessment]] — Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
+- [[code-anchor-multi-view-visualization]]
+- [[confidence-aware-student-drawing-assessment]]
+- [[cong-confidence-asag-2026]]
+- [[learning-to-prompt-adaptive-tutoring]]
+- [[psyscore-essay-scoring-zpd-feedback]]

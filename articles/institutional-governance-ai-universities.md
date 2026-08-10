@@ -38,20 +38,13 @@ The study applied natural language processing to analyze AI policies from instit
 The study reveals a fundamental structural challenge in [[ai-education|AI governance]]: risk-averse centralized policies that fail to address pedagogical needs at the discipline level. The authors recommend that guidelines be aligned with broader institutional policies while explicitly addressing discipline-specific learning objectives and evolving workforce demands. This aligns with emerging [[ai-literacy]] frameworks that emphasize both technical and pedagogical dimensions of AI readiness.
 
 ## Connected Concepts
-- institutional-ai-readiness
+
 - [[regulation]]
+- [[higher-ed]]
 - [[ai-education]]
 - [[ai-literacy]]
-- [[higher-ed]]
-- [[ethics]]
-
-- [[professional-training]]
 ## Connected Articles
-- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
-- [[ethical-ai-higher-ed-game-theory]] — Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework
-- [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
-- [[cross-cultural-student-perceptions-genai-computing]] — Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use
-- [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice
+
 
 ## Citation
 Manikonda, L., & Outlaw, D. (2026). [*Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools*](https://arxiv.org/abs/2608.03584v1). arXiv:2608.03584v1.

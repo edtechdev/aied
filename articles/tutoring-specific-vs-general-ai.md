@@ -57,46 +57,11 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[ai-literacy]]
 - [[cognitive-load-theory]]
-- [[metacognition]]
-- [[pedagogical-llm-training]]
-- [[self-regulated-learning]]
 - [[zone-of-proximal-development]]
-
-- [[adaptive-learning]]
-- [[generative-ai]]
-- [[llm]]
-- [[personalized-learning]]
-- [[scaffolding]]
 ## Connected Articles
 
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-learning-transfer]] — AI Learning Transfer
-- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
-- [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
-- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-- [[hybrid-human-ai-tutoring-differentiated]] — Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs
-- [[knowledge-tracing-irt]] — Interpretable Knowledge Tracing via IRT
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[moodle-ai-tutoring-deep-learning]] — From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle
-- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
-- [[quantum-education-its]] — Quantum Education Intelligent Tutoring
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base: AI in K-12 Education
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-
+- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*Tutoring-Specific vs. General-Purpose AI in Education*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)

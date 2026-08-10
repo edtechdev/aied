@@ -33,30 +33,32 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 
 ## Connected Concepts
 
-- [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
 - [[student-experience]]
+- [[higher-ed]]
+- [[over-reliance]]
+- [[generative-ai]]
 - [[scaffolding]]
-- [[k-12]]
-- [[ai-education]]
 - [[teacher-role]]
 - [[formative-assessment]]
+- [[faculty-development]]
+- [[self-regulated-learning]]
 - [[metacognition]]
-- [[agentic-ai]]
-- [[adaptive-learning]]
-
+- [[academic-integrity]]
+- [[equity]]
 ## Connected Articles
 
-- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
-- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Framework for Faculty Readiness
-- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
-- [[genai-usage-design-students-survey]] — A Study of GenAI Usage by Design Students
-- [[brookings-ai-students-report]] — A New Direction for Students in an AI World
-- [[raza-farooq-aied-review-2020-2025]] — Review of AI in Education 2020-2025
-- [[liang-genai-systematic-review-human-ai-2026]] — Systematic Review of GenAI in Education
-- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers
-- [[gaide-vibe-coding-k12-teachers]] — Vibe Coding Framework for K-12 Teachers
-- [[ai-ethics-education-public-discourse]] — AI Ethics in Education Public Discourse
-- [[institutional-change-framework-ai]] — Framework for Institutional Change in the Age of AI
-- [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform
+- [[agency-gap-ai-writing]]
+- [[agent-voice-accents-k12-group-learning]]
+- [[agentic-literacy-debt]]
+- [[agents-that-teach-incidental-learning]]
+- [[ai-adoption-training-public-sector]]
+- [[ai-assessment-scale-reform]]
+- [[ai-changing-teaching-workflows]]
+- [[ai-ethics-education-public-discourse]]
+- [[ai-fatigue-academic-contexts]]
+- [[ai-generated-feedback-higher-ed]]
+- [[ai-generated-slides-student-perception]]
+- [[ai-higher-ed-workforce-survey]]
+- [[ai-in-the-wild-college]]
+- [[ai-learning-assistants-higher-ed-large-scale]]
+- [[ai-learning-tools-engineering-education-needs]]
