@@ -43,3 +43,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 
 - [[ai-scoring-language-bias-physics]]
 - [[choi-anchor-aes-prompting-2025]]
+- [[icle-plus-plus-essay-scoring]]
+- [[psyscore-essay-scoring-zpd-feedback]]
+- [[self-referential-l2-writing-llm-assessment]]
+- [[aiawe-automated-writing-evaluation]]

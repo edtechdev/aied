@@ -50,6 +50,7 @@ The self-referential approach aligns with [[personalized-learning]] goals and th
 - [[ground-truth-reliability-aied]]
 - [[sequenced-ai-feedback-learning]]
 - [[llm-student-modeling-memory]]
+- [[icle-plus-plus-essay-scoring]]
 ## Citation
 
 Gales, A.S.B.K.K.M., Approach, T.S.A.A.A.P., LLMs, T.L.W.E.W., Gales, S.B.K.K.M., prac-, A.I.R.W.C.D.T.A.C.E., & (PCC), G.A.U.D.S.W.S.A.P.C.C. (2026). [*Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs*](https://arxiv.org/abs/2605.04298)
