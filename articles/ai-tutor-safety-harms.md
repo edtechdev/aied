@@ -54,7 +54,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - [[tutoring-specific-vs-general-ai]] — SafeTutors reveals that even "helpful" general-purpose AI produces systematic tutoring harm; pedagogical design is not an add-on but a safety requirement
 - [[metacognition]] — The Metacognitive and Reflective-Critical dimensions directly map to metacognitive suppression risks
 - [[self-regulated-learning]] — Motivational-Affective harms undermine the SRL↔motivation reciprocal loop
-- [[ai-learning-transfer]] — Cognitive offloading and shallow learning directly undermine transfer; SafeTutors provides a mechanistic taxonomy for why
+- [[transfer-of-learning]] — Cognitive offloading and shallow learning directly undermine transfer; SafeTutors provides a mechanistic taxonomy for why
 - [[llm-fallacy-misattribution]] — Fluency illusion (Cognitive dimension) and misrepresentation of understanding (Ethical-Epistemic dimension) are tutoring-specific instantiations of the LLM Fallacy
 
 ## Implications
@@ -71,7 +71,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 
 - [[hazra-safetutors-pedagogical-safety-2026]]
 - [[tutoring-specific-vs-general-ai]]
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 - [[llm-fallacy-misattribution]]
 ## Citation
 

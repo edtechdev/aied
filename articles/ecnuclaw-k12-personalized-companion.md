@@ -27,7 +27,7 @@ Profile updates feed into an **adaptive strategy engine** that adjusts guidance 
 
 ## Significance for AIED
 
-ECNUClaw advances the field of [[personalized-learning]] by operationalizing real-time learner profiling within dialogue-based tutoring. Unlike static learner models in [[adaptive-learning]], ECNUClaw updates profiles turn-by-turn, enabling genuinely responsive [[intelligent-tutoring]] at scale. The five-dimensional profile connects to work on [[metacognition]] (metacognitive dimension), [[self-regulated-learning]] (contextual dimension), and [[affective-tutoring]] (emotional dimension). The system's grounding in Chinese educational frameworks also extends the geographic scope beyond Western-centric [[ai-k12-evidence-base]] research.
+ECNUClaw advances the field of [[personalized-learning]] by operationalizing real-time learner profiling within dialogue-based tutoring. Unlike static learner models in [[adaptive-learning]], ECNUClaw updates profiles turn-by-turn, enabling genuinely responsive [[intelligent-tutoring]] at scale. The five-dimensional profile connects to work on [[metacognition]] (metacognitive dimension), [[self-regulated-learning]] (contextual dimension), and [[affective-tutoring]] (emotional dimension). The system's grounding in Chinese educational frameworks also extends the geographic scope beyond Western-centric [[stanford-evidence-base-ai-k12-2026]] research.
 
 ## Open Questions
 
@@ -46,7 +46,7 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 - [[regulation]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[llm-student-modeling-memory]]
 ## Citation
 

@@ -69,7 +69,7 @@ This suggests that **metacognitive support and motivation are not identical**. T
 ## Connected Articles
 
 - [[ai-adoption-training-public-sector]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-learning-companions-framework]]
 - [[ai-making-us-stupid]]
 - [[ai-metacognition-stem-review]]

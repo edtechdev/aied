@@ -26,7 +26,7 @@ While AI tools are globally available, the critical variable is local absorption
 - **Switzerland:** Privacy, quality, and system reliability as non-negotiables
 
 ## Connections to Wiki
-- Extends [[ai-k12-evidence-base]] with global implementation perspective beyond US/Stanford scope
+- Extends [[stanford-evidence-base-ai-k12-2026]] with global implementation perspective beyond US/Stanford scope
 - Addresses [[equity-in-ai-education]] disparities across countries
 - The assessment misalignment in China echoes concerns in [[authentic-assessment]]
 - Teacher readiness theme connects to [[faculty-development]] and [[teacher-ai-competency]]
@@ -43,7 +43,7 @@ While AI tools are globally available, the critical variable is local absorption
 - [[teacher-role]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[authentic-assessment]] — Authentic Assessment
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?

@@ -50,9 +50,9 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
 - [[ai-stem-bibliometric-trends]] — Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms

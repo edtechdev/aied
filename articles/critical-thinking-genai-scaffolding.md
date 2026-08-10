@@ -56,9 +56,9 @@ The framework identifies six interconnected cognitive and metacognitive processe
 
 This model aligns with the [[principled-ai-education]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[tutoring-specific-vs-general-ai]] that pedagogically-designed AI outperforms raw LLM chatbots on learning outcomes. The metacognitive focus connects to [[self-regulated-learning]] cycles of planning, monitoring, and evaluation, while drawing on feedback literacy principles (Carless & Boud, 2018).
 
-P1's use of counterarguments as cognitive stimuli parallels the [[socratic-ai-dialogue]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving learner agency connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[ai-learning-transfer]] — the central question of whether AI-assisted gains persist when tools are removed.
+P1's use of counterarguments as cognitive stimuli parallels the [[socratic-ai-dialogue]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving learner agency connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[transfer-of-learning]] — the central question of whether AI-assisted gains persist when tools are removed.
 
-P2's scaffolded positioning of LLMs aligns with [[ai-literacy]] frameworks that progress from understanding to critical engagement to creative application, and the framework's overall design-based research methodology parallels the evidence standards discussed in [[ai-k12-evidence-base]].
+P2's scaffolded positioning of LLMs aligns with [[ai-literacy]] frameworks that progress from understanding to critical engagement to creative application, and the framework's overall design-based research methodology parallels the evidence standards discussed in [[stanford-evidence-base-ai-k12-2026]].
 
 ## Practical Application
 
@@ -91,9 +91,9 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - [[scaffolding]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking
 - [[principled-ai-education]] — Principled AI in Education

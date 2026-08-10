@@ -20,7 +20,7 @@ This systematic review is among the first to map the intersection of [[collabora
 
 **Classroom-centric but expanding.** Most studies took place in classroom settings, but the review identified emerging patterns of collaboration that extend beyond traditional boundaries: educator-family partnerships, peer-to-peer learning communities, and AI-agent-supported teamwork. These expanding participation models connect to the [[community-centered-ai-education-adults]] paradigm and suggest pathways toward more inclusive [[ai-literacy-equity-programming-policy]].
 
-**Limited but growing evidence base.** The small sample size (9 studies) reflects the nascency of empirical research at this intersection. The authors note the need for more rigorous study designs, larger sample sizes, and longitudinal tracking of AI literacy development — concerns echoed in broader calls for [[ai-k12-evidence-base]] research.
+**Limited but growing evidence base.** The small sample size (9 studies) reflects the nascency of empirical research at this intersection. The authors note the need for more rigorous study designs, larger sample sizes, and longitudinal tracking of AI literacy development — concerns echoed in broader calls for [[stanford-evidence-base-ai-k12-2026]] research.
 
 ## Implications
 
@@ -43,7 +43,7 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 ## Connected Articles
 
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
 - [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
 - [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
