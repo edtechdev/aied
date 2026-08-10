@@ -28,25 +28,32 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 
 ## Connected Concepts
 
+- [[learning-analytics]]
 - [[knowledge-tracing]]
 - [[adaptive-learning]]
-- [[ai-education]]
-- [[generative-ai]]
-- [[personalized-learning]]
-- [[llm]]
 - [[intelligent-tutoring]]
-- [[learning-analytics]]
-- [[cognitive-diagnosis]]
-- [[affective-computing]]
+- [[personalized-learning]]
 - [[formative-assessment]]
-- [[student-experience]]
-
+- [[k-12]]
+- [[affective-tutoring]]
+- [[llm]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[ai-tutoring]]
 ## Connected Articles
 
-- [[xie-hillm-cd-2026]] — HiLLM-CD: Hierarchical Cognitive Diagnosis
-- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal KG for Educational Reasoning
-- [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: Pedagogical LLM Agent Benchmark
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[knowledge-gap-detection-ai-tas]] — Knowledge Gap Detection with AI TAs
-- [[correct-answer-trap-misconceptions]] — Correct Answer Trap and Misconceptions
-- [[llm-item-difficulty-prediction]] — LLM Item Difficulty Prediction
+- [[at-risk-students-ml-prediction]]
+- [[cold-start-knowledge-tracing-safeinsights]]
+- [[correct-answer-trap-misconceptions]]
+- [[cross-subject-validity-delayed-start]]
+- [[educlaw-bench-pedagogical-llm-agents-2026]]
+- [[edumirror-educational-social-dynamics]]
+- [[huang-interpretable-knowledge-tracing-2026]]
+- [[kar-mathbuddy-affective-math-tutoring-2025]]
+- [[knowledge-gap-detection-ai-tas]]
+- [[llm-item-difficulty-prediction]]
+- [[multimodal-knowledge-graph-educational-reasoning]]
+- [[proprl-prerequisite-relation-learning]]
+- [[simulating-students-java-programming-errors-llms]]
+- [[skill-acquisition-without-temporal-info]]
+- [[xie-hillm-cd-2026]]

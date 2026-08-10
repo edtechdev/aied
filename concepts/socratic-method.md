@@ -36,22 +36,22 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 ## Connected Concepts
 
 - [[scaffolding]]
+- [[intelligent-tutoring]]
 - [[learning-analytics]]
-- [[computational-thinking]]
-- [[generative-ai]]
-- [[socratic-ai-dialogue]]
-- [[higher-ed]]
-- [[llm]]
-- [[rag]]
-- [[educational-measurement]]
-- [[personalized-learning]]
-- [[formative-assessment]]
+- [[stem-education]]
+- [[student-modeling]]
+- [[student-experience]]
+- [[agentic-ai]]
+- [[metacognition]]
 - [[knowledge-tracing]]
-
+- [[adaptive-learning]]
+- [[generative-ai]]
+- [[over-reliance]]
 ## Connected Articles
 
-- [[hashmi-socratic-physics-chatbot-2025]] — Socratic Physics Chatbot
-- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents
-- [[syal-multimodal-dialogue-stem-2026]] — Multimodal Dialogue in STEM Education
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning When Using Generative AI
+- [[ai-agents-constructive-conflict-design-education-2026]]
+- [[genai-performance-vs-learning]]
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[structured-llm-feedback-programming]]
+- [[syal-multimodal-dialogue-stem-2026]]
+- [[zerkouk-comprehensive-review-its-2025]]

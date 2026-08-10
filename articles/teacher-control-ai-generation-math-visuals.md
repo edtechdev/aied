@@ -27,38 +27,12 @@ The findings also relate to [[generative-ai]] and [[principled-ai-education]], s
 ## Connected Concepts
 
 - [[teacher-role]]
-
-- [[agentic-ai]]
-- [[ai-education]]
-- [[curriculum-design]]
+- [[stem-education]]
+- [[generative-ai]]
 ## Connected Articles
 
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[principled-ai-education]] — Principled AI in Education
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
-- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
-- [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
-- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
-- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
-- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[ai-pedagogical-accompaniment-amico]] — Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mo...
-- [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
-- [[ai-powered-materials-discovery-ai-literacy]] — Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scie...
-- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
-- [[ai-productivity-moderation]] — Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost
-
+- [[principled-ai-education]]
+- [[agentic-workflows-education]]
 ## Citation
 
 Li, Z., Wang, J., & Wang, A. Y. (2026). [When should teachers control AI generation for mathematics visuals?](https://arxiv.org/abs/2605.10672) arXiv:2605.10672. Proceedings of the Thirteenth ACM Conference on Learning @ Scale (L@S 2026), Seoul, Republic of Korea.

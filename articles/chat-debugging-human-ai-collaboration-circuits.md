@@ -44,18 +44,14 @@ This study contributes to understanding AI's role in [[cs-education|engineering 
 The findings support a [[scaffolding]] approach where AI tools complement rather than replace instructor-guided learning in hands-on engineering contexts.
 
 ## Connected Concepts
+
+- [[llm]]
 - [[human-ai-collaboration]]
 - [[computational-thinking]]
-- [[ai-education]]
-- [[higher-ed]]
-
-- [[generative-ai]]
-- [[llm]]
+- [[cs-education]]
+- [[scaffolding]]
 ## Connected Articles
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
-- [[chatgpt-programming-education-text-mining]] — Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education
-- [[human-ai-collaboration-trust-expectations]] — Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust
+
 
 ## Citation
 Hu, J., & Ash, A. (2026). [*Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits*](https://arxiv.org/abs/2608.02955v1). arXiv:2608.02955v1.

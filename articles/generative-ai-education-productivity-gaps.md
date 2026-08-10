@@ -38,19 +38,14 @@ Chat logs were analyzed to understand differential AI usage patterns across educ
 This study provides some of the strongest causal evidence yet that generative AI can serve as a **productivity equalizer** across education levels. However, the re-emergence of gaps in unassisted settings and the differential quality of AI use suggest that [[ai-literacy]] and [[professional-training|skill development]] remain critical. Educational institutions should focus on teaching effective AI collaboration strategies, not just tool access.
 
 ## Connected Concepts
+
+- [[rct]]
+- [[generative-ai]]
 - [[ai-education]]
 - [[ai-literacy]]
-- [[rct]]
-- [[higher-ed]]
-
-- [[generative-ai]]
-- [[llm]]
+- [[professional-training]]
 ## Connected Articles
-- [[idan-anand-genai-productivity-divide-2026]] — Generative AI and the Productivity Divide: Human-AI Complementarities in Education
-- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-- [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+
 
 ## Citation
 Cruces, G., Fernandez Meijide, D., Galiani, S., Galvez, R., & Lombardi, M. (2026). [*Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment*](https://arxiv.org/abs/2608.04198v1). arXiv:2608.04198v1.

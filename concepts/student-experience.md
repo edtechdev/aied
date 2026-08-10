@@ -18,25 +18,33 @@ Examines gender differences in AI literacy, safety awareness, and STEM career as
 - **[[hypergamification-game-engine-lms]]:** Araz Yusubov, Michael Bechtel, Tangiz Alizada** — arXiv preprint (2026).
 
 ## Connected Concepts
-- [[higher-ed]]
-- [[llm]]
+
 - [[ai-literacy]]
+- [[higher-ed]]
+- [[over-reliance]]
 - [[generative-ai]]
 - [[scaffolding]]
-- [[learning-analytics]]
-- [[k-12]]
-- [[personalized-learning]]
 - [[teacher-role]]
-- [[rag]]
-- [[adaptive-learning]]
 - [[formative-assessment]]
-
+- [[llm]]
+- [[personalized-learning]]
+- [[cs-education]]
+- [[stem-education]]
+- [[intelligent-tutoring]]
 ## Connected Articles
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...
-- [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy Workshop Outcomes and D...
-- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Cr...
-- [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration To...
-- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Traject...
-- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
-- [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Le...
-- [[commenting-copilot-student-code-specs]] — Commenting with Copilot: A Taxonomy and Multi-Year Analys...
+
+- [[agentic-ai-education-scoping-review]]
+- [[ai-agents-constructive-conflict-design-education-2026]]
+- [[ai-assisted-learning-modes-eeg]]
+- [[ai-availability-student-motivation]]
+- [[ai-campus-wellbeing-tools]]
+- [[ai-fatigue-academic-contexts]]
+- [[ai-in-the-wild-college]]
+- [[ai-interlocutor-l2-spoken-dialogue]]
+- [[ai-learning-assistants-higher-ed-large-scale]]
+- [[ai-learning-tools-engineering-education-needs]]
+- [[ai-literacy-continuum-higher-education]]
+- [[aied-unfinished-mission-bypass]]
+- [[antiskillbench-persona-skills-privacy-2026]]
+- [[assessment-team-problem-solving-computing-education]]
+- [[bloom-aligned-educational-control-llms]]

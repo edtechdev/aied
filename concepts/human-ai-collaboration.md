@@ -12,33 +12,20 @@ confidence: medium
 ## Connected Concepts
 
 - [[generative-ai]]
-- [[llm]]
-- [[agentic-ai]]
-- [[higher-ed]]
 - [[ai-literacy]]
-- [[ai-education]]
-- [[k-12]]
+- [[llm]]
+- [[scaffolding]]
+- [[intelligent-tutoring]]
 - [[teacher-role]]
+- [[higher-ed]]
+- [[k-12]]
+- [[over-reliance]]
 - [[student-experience]]
-- [[professional-training]]
-- [[lifelong-learning]]
-- [[ai-ed-evaluation]]
-
+- [[metacognition]]
+- [[self-regulated-learning]]
 ## Connected Articles
 
-- [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
-- [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing
-- [[cognitive-commons-ai-expertise-regeneration]] — The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise
-- [[student-mental-models-genai]] — Uncovering Students' Mental Models of Generative Artificial Intelligence
-- [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
-- [[humanlike-ai-collaborative-writing]] — It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent
-- [[human-ai-collaboration-prerequisite-functions]] — What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it
-- [[generativism-learning-theory]] — Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence
-- [[genai-expertise-pathways-sysadmin]] — Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
-- [[genai-mindtool-generative-learning]] — Generative AI (GenAI) as a mindtool that supports generative learning (GL)
-- [[human-ai-collaboration-trust-expectations]] — Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[llm-facilitation-timing-online-discussions]] — To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[adversarial-stress-testing-role-playing-agents]]
+- [[agent-voice-accents-k12-group-learning]]
 - [[chat-debugging-human-ai-collaboration-circuits]]
+- [[generativism-learning-theory]]
+- [[student-mental-models-genai]]

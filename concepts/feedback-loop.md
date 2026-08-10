@@ -10,15 +10,15 @@ confidence: low
 
 ## Connected Concepts
 
-
-## Connected Articles
-- [[cstutorbench-slm-tutors]]
-- [[eduagentbench-agent-teaching-benchmark]]
-- [[sycophantic-ai-social-interaction-2026]]
-- [[llm-diverse-explanations-programming]]
-- [[ai-changing-teaching-workflows]]
-- [[bloom-aligned-educational-control-llms]]
-- [[learning-engagement-assistant-lea]]
-- [[automated-presentation-coaching]]
-- [[ai-learning-assistants-higher-ed-large-scale]]
-- [[ai-generated-feedback-higher-ed]]
+- [[scaffolding]]
+- [[student-experience]]
+- [[formative-assessment]]
+- [[higher-ed]]
+- [[automated-grading]]
+- [[ai-literacy]]
+- [[llm]]
+- [[generative-ai]]
+- [[intelligent-tutoring]]
+- [[teacher-role]]
+- [[human-in-the-loop-ai]]
+- [[over-reliance]]

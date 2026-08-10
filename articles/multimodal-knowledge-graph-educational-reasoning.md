@@ -46,17 +46,13 @@ The auditable construction method is the key contribution — unlike black-box k
 - **Multi-lecture reasoning** requires connecting concepts across different instructional sessions
 
 ## Connected Concepts
+
 - [[knowledge-tracing]]
+- [[ai-education]]
 - [[student-modeling]]
 - [[adaptive-learning]]
-- [[ai-education]]
-
-- [[generative-ai]]
 ## Connected Articles
-- [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
-- [[learnopt-exam-cognitive-structure]] — LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
+
 
 ## Citation
 Al Farib, S., Meem, M. A., Islam, S. R., & Raihan, M. T. (2026). [*Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning*](https://arxiv.org/abs/2608.03161v1). arXiv:2608.03161v1.

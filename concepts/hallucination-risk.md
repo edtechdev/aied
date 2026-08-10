@@ -10,5 +10,12 @@ confidence: low
 
 ## Connected Concepts
 
-
-
+- [[over-reliance]]
+- [[human-in-the-loop-ai]]
+- [[knowledge-tracing]]
+- [[multimodal]]
+- [[teacher-role]]
+- [[pedagogical-llm-training]]
+- [[academic-integrity]]
+- [[cognitive-offloading]]
+- [[ai-ed-evaluation]]

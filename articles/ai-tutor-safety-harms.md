@@ -65,48 +65,14 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 
 ## Connected Concepts
 
-- [[affective-tutoring]]
-- [[ai-literacy]]
-- [[faculty-development]]
 - [[metacognition]]
-- [[pedagogical-llm-training]]
 - [[self-regulated-learning]]
-- [[socratic-ai-dialogue]]
-
-- [[adaptive-learning]]
-- [[bias-mitigation]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[pedagogical-safety]]
 ## Connected Articles
 
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-learning-transfer]] — AI Learning Transfer
-- [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
-- [[ai-pedagogical-accompaniment-amico]] — Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mo...
-- [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
-- [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
-- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
-- [[authentic-assessment]] — Authentic Assessment
-- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
-- [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
-- [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
-- [[genai-assessment-governance]] — Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
-- [[llm-children-reading-story-generation]] — Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty a...
-- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
-- [[paternalistic-filter-llm-history-education]] — The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginal...
-
+- [[hazra-safetutors-pedagogical-safety-2026]]
+- [[tutoring-specific-vs-general-ai]]
+- [[ai-learning-transfer]]
+- [[llm-fallacy-misattribution]]
 ## Citation
 
 acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). [*AI Tutor Safety and Pedagogical Harms*](https://arxiv.org/abs/2603.17373)

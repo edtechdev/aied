@@ -18,25 +18,33 @@ Examines gender differences in AI literacy, safety awareness, and STEM career as
 - **[[supplynet-visual-exploratory-learning]]:** Yanjia Li, Kelcy Kexin Han, Tianrui Hu, Yi-Fan Cao, Huamin Qu, Sicheng Song (2026)** — Hong Kong University of Science and Technology, City University of Hong Kong.
 
 ## Connected Concepts
-- [[higher-ed]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[student-experience]]
-- [[ai-literacy]]
-- [[k-12]]
-- [[formative-assessment]]
-- [[rag]]
-- [[learning-analytics]]
-- [[automated-grading]]
-- [[personalized-learning]]
-- [[adaptive-learning]]
 
+- [[scaffolding]]
+- [[intelligent-tutoring]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[generative-ai]]
+- [[automated-grading]]
+- [[self-regulated-learning]]
+- [[formative-assessment]]
+- [[ai-literacy]]
+- [[over-reliance]]
+- [[feedback-loop]]
+- [[stem-education]]
 ## Connected Articles
-- [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven ...
-- [[astra-atco-training-simulator]] — ASTRA: A Scalable Next-Generation ATCO Training Simulator...
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...
-- [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedag...
-- [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy Workshop Outcomes and D...
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supp...
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Educ...
+
+- [[ai-campus-wellbeing-tools]]
+- [[ai-in-the-wild-college]]
+- [[ai-interlocutor-l2-spoken-dialogue]]
+- [[ai-learning-assistants-higher-ed-large-scale]]
+- [[aiawe-automated-writing-evaluation]]
+- [[automated-grading-linux-bash-examinations-large-language-models]]
+- [[bloom-aligned-educational-control-llms]]
+- [[calibrating-trustworthiness-llm-education-2026]]
+- [[chat-debugging-human-ai-collaboration-circuits]]
+- [[chat-debugging-llm-hardware-education-2026]]
+- [[codify-socratic-programming-tutor]]
+- [[codify-socratic-tutoring-programming]]
+- [[commenting-copilot-student-code-specs]]
+- [[correct-answer-trap-ai-tutor]]
+- [[detecting-llm-generated-text-latent-prompt]]

@@ -51,23 +51,15 @@ This approach ensures the model learns *when* and *why* to apply specific strate
 TACT advances the state of [[ai-tutoring|AI tutoring]] by grounding LLM training in established pedagogical theory rather than treating tutoring as generic dialogue generation. The taxonomy-aligned training approach could be adapted to other domains (math, science, programming) and other languages, offering a principled path toward more effective and [[pedagogical-safety|pedagogically safe]] AI tutors.
 
 ## Connected Concepts
+
+- [[llm]]
 - [[scaffolding]]
-- [[pedagogical-agent]]
+- [[intelligent-tutoring]]
 - [[pedagogical-llm-training]]
-- [[adaptive-learning]]
 - [[ai-tutoring]]
 - [[pedagogical-safety]]
-- [[ai-education]]
-
-- [[generative-ai]]
-- [[llm]]
 ## Connected Articles
-- [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
-- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
-- [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking
+
 
 ## Citation
 Yang, D., Lin, S., Shen, L., Sheng, R., Qu, H., & Chen, Z. (2026). [*TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring*](https://arxiv.org/abs/2608.03952v1). arXiv:2608.03952v1.

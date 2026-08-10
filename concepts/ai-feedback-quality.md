@@ -16,5 +16,15 @@ Research themes include:
 
 ## Connected Concepts
 
-
-
+- [[formative-assessment]]
+- [[automated-grading]]
+- [[higher-ed]]
+- [[feedback-loop]]
+- [[teacher-role]]
+- [[language-learning]]
+- [[ai-literacy]]
+- [[over-reliance]]
+- [[writing-education]]
+- [[automated-assessment]]
+- [[automated-essay-scoring]]
+- [[bias-mitigation]]

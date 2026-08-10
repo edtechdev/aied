@@ -14,12 +14,15 @@ Research themes include:
 
 ## Connected Concepts
 
-- [[intelligent-tutoring]]
-- [[personalized-learning]]
-- [[edtech-platform]]
-- [[adaptive-learning]]
-- [[ai-education]]
 - [[generative-ai]]
-- [[learning-analytics]]
-- [[ai-governance-education]]
-
+- [[edtech-platform]]
+- [[stem-education]]
+- [[privacy]]
+- [[teacher-role]]
+- [[over-reliance]]
+- [[scaffolding]]
+- [[personalized-learning]]
+- [[intelligent-tutoring]]
+- [[knowledge-tracing]]
+- [[adaptive-learning]]
+- [[hallucination-risk]]

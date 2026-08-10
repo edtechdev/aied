@@ -18,25 +18,33 @@ Evaluates cross-dataset generalization of ML/DL methods and LLMs for automatic B
 - **[[ai-assistance-discretionary-feedback]]:** Romina Mahinpei, Victoria Dean, Ruth Fong, Lydia T.
 
 ## Connected Concepts
+
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[generative-ai]]
-- [[llm]]
-- [[k-12]]
-- [[scaffolding]]
 - [[student-experience]]
+- [[scaffolding]]
+- [[generative-ai]]
+- [[stem-education]]
 - [[formative-assessment]]
 - [[faculty-development]]
-- [[learning-analytics]]
-- [[teacher-ai-competency]]
+- [[k-12]]
+- [[over-reliance]]
+- [[intelligent-tutoring]]
 - [[adaptive-learning]]
-
 ## Connected Articles
-- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised M...
-- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powe...
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leade...
-- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teache...
-- [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using ...
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback...
-- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a ...
+
+- [[agent-voice-accents-k12-group-learning]]
+- [[ai-assessment-scale-reform]]
+- [[ai-assistance-discretionary-feedback]]
+- [[ai-changing-teaching-workflows]]
+- [[ai-learning-assistants-higher-ed-large-scale]]
+- [[ai-learning-tools-engineering-education-needs]]
+- [[ai-lifelong-learning-policy]]
+- [[ai-literacy-equity-programming-policy]]
+- [[ai-pedagogical-orientation]]
+- [[ai-productivity-moderation]]
+- [[ai-tutor-authoring-promptdecipher]]
+- [[aied-unfinished-mission-bypass]]
+- [[anvil-ai-educational-animations]]
+- [[bloom-aligned-educational-control-llms]]
+- [[bridging-instructional-design-framework-math]]

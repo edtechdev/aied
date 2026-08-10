@@ -17,25 +17,33 @@ confidence: medium
 - **[[code-gen]]:** A dual-agent RAG-based system for generating and validating coding comprehension MCQs**, evaluated by 6 SMEs across 7 pedagogical dimensions (N=288 questions, 2,016 rating pairs).
 
 ## Connected Concepts
+
 - [[higher-ed]]
-- [[llm]]
 - [[ai-literacy]]
 - [[student-experience]]
 - [[scaffolding]]
-- [[rag]]
-- [[formative-assessment]]
+- [[over-reliance]]
 - [[teacher-role]]
-- [[ai-education]]
-- [[personalized-learning]]
-- [[k-12]]
-- [[metacognition]]
-
+- [[academic-integrity]]
+- [[llm]]
+- [[intelligent-tutoring]]
+- [[stem-education]]
+- [[faculty-development]]
+- [[formative-assessment]]
 ## Connected Articles
-- [[ai-psychotherapy-training-avatars]] — Toward Accessible Psychotherapy Training Using AI-Driven ...
-- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debuggin...
-- [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design in higher education:...
-- [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedag...
-- [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supp...
-- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Educ...
-- [[code-gen]] — CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System...
-- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
+
+- [[agent-voice-accents-k12-group-learning]]
+- [[ai-assessment-scale-reform]]
+- [[ai-assisted-writing-research-teams]]
+- [[ai-campus-wellbeing-tools]]
+- [[ai-changing-teaching-workflows]]
+- [[ai-coaching-rl-skill-development]]
+- [[ai-in-the-wild-college]]
+- [[ai-learning-assistants-higher-ed-large-scale]]
+- [[ai-literacy-legal-translation-2026]]
+- [[ai-powered-personalized-learning-elementary-fractions-2026]]
+- [[ai-stem-bibliometric-trends]]
+- [[aiawe-automated-writing-evaluation]]
+- [[anvil-ai-educational-animations]]
+- [[bloom-aligned-educational-control-llms]]
+- [[buggy-genai-code-student-responses]]

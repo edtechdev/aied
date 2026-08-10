@@ -40,41 +40,20 @@ The findings have implications beyond programming — the productivity-learning 
 
 ## Connected Concepts
 
+- [[rct]]
 - [[assessment-validity]]
 - [[regulation]]
 - [[writing-education]]
-
-- [[generative-ai]]
-- [[higher-ed]]
-- [[llm]]
+- [[language-learning]]
+- [[stem-education]]
 ## Connected Articles
 
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[ai-learning-transfer]] — AI Learning Transfer
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
-- [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[suacode-african-students-motivations]] — Why SuaCode?": Understanding African Students' Motivations for Taking a Smartphone-Based Online Coding Course
-- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
-
+- [[ai-learning-transfer]]
+- [[tutoring-specific-vs-general-ai]]
+- [[collaborative-ai-tutoring]]
+- [[agentic-education-coding]]
+- [[programming-its]]
+- [[llm-fallacy-misattribution]]
 ## Citation
 
 Schweisthal, A.S.M.M.G.J., on, A.M.O.T.E.O.G.A., Manuel, S.M.M.G.J.S., 1,2, S.A.S.F., Munich, L.M., Munich, M.C.F.M.L., searched, O.G.C.A.O.P.A.L.W.S., & us-, A.S.W.R.T.C.G.W.U.P. (2026). [*A meta-analysis of the effect of generative AI on productivity and learning in programming*](https://arxiv.org/abs/2605.04779). contrast, we find no statistically significant effect of GenAI assistance on learning outcomes (g = 0

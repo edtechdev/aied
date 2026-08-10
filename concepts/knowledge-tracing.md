@@ -25,27 +25,28 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 ## Connected Concepts
 
-- [[adaptive-learning]]
-- [[learning-analytics]]
-- [[llm]]
-- [[personalized-learning]]
 - [[student-modeling]]
-- [[student-experience]]
-- [[higher-ed]]
-- [[generative-ai]]
-- [[formative-assessment]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
 - [[intelligent-tutoring]]
-- [[cognitive-diagnosis]]
-- [[scaffolding]]
-
+- [[learning-analytics]]
+- [[formative-assessment]]
+- [[ai-education]]
+- [[ai-ed-evaluation]]
+- [[multimodal]]
+- [[teacher-role]]
+- [[over-reliance]]
+- [[llm]]
 ## Connected Articles
 
-- [[stanbkt-bayesian-knowledge-tracing]] — Standardized BKT Knowledge Tracing
-- [[mbp-kt-meta-behavioral-knowledge-tracing]] — Meta-Behavioral Knowledge Tracing
-- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
-- [[explainable-probabilistic-kt]] — Explainable Probabilistic Knowledge Tracing
-- [[difficulty-aware-dialogue-kt]] — Difficulty-Aware Dialogue Knowledge Tracing
-- [[xie-hillm-cd-2026]] — HiLLM-CD: Hierarchical Cognitive Diagnosis
-- [[cold-start-knowledge-tracing-safeinsights]] — Cold-Start Problem in KT
-- [[huang-interpretable-knowledge-tracing-2026]] — Interpretable Knowledge Tracing
-- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive ITS Review
+- [[educlaw-bench-pedagogical-llm-agents-2026]]
+- [[huang-interpretable-knowledge-tracing-2026]]
+- [[learning-engagement-assistant-lea]]
+- [[llm-cognitive-diagnosis-handwritten-math]]
+- [[multimodal-knowledge-graph-educational-reasoning]]
+- [[pattern-kc-programming-recommendation]]
+- [[proprl-prerequisite-relation-learning]]
+- [[reinforcement-learning-measurement-model-assessment]]
+- [[skill-acquisition-without-temporal-info]]
+- [[xie-hillm-cd-2026]]
+- [[zerkouk-comprehensive-review-its-2025]]

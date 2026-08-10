@@ -10,15 +10,15 @@ confidence: low
 
 ## Connected Concepts
 
-
-## Connected Articles
-- [[supplynet-visual-exploratory-learning]]
-- [[test-driven-ai-assisted-learning]]
-- [[llm-diverse-explanations-programming]]
-- [[llm-tts-dialogue-lesson-generation]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[q-learning-lab-rl-teaching]]
-- [[forap-pjbl-computing-education]]
-- [[flowcode-ai-creative-coding]]
-- [[instructional-guidance-genai-learning]]
-- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]]
+- [[scaffolding]]
+- [[generative-ai]]
+- [[stem-education]]
+- [[higher-ed]]
+- [[llm]]
+- [[intelligent-tutoring]]
+- [[feedback-loop]]
+- [[student-experience]]
+- [[personalized-learning]]
+- [[k-12]]
+- [[professional-training]]
+- [[assessment]]

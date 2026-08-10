@@ -23,12 +23,15 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 
 ## Connected Concepts
 
-
-
-## Connected Articles
-
-- [[ai-agents-constructive-conflict-design-education-2026]] — Adversarial AI Agents for Constructive Conflict
-- [[genai-can-harm-teaching-rct-2026]] — Is Using GenAI Tools Improving Teaching Quality?
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT's Impact on Critical and Creative Thinking
-- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment Misalignment
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
+- [[student-experience]]
+- [[metacognition]]
+- [[faculty-development]]
+- [[cognitive-offloading]]
+- [[intelligent-tutoring]]
+- [[over-reliance]]
+- [[teacher-ai-collaboration]]
+- [[privacy]]
+- [[pedagogical-safety]]
+- [[regulation]]
+- [[generative-ai]]
+- [[higher-ed]]

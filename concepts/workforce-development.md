@@ -13,5 +13,7 @@ Research themes include:
 
 ## Connected Concepts
 
-
-
+- [[faculty-development]]
+- [[professional-training]]
+- [[ai-literacy]]
+- [[ai-education]]

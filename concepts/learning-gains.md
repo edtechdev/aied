@@ -24,12 +24,3 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 
 ## Connected Concepts
 
-
-
-## Connected Articles
-
-- [[adaptive-pretesting-retention]] — Do Gains from GenAI-Enabled Adaptive Pretesting Persist?
-- [[genai-meta-analysis-programming-learning]] — Meta-Analysis of GenAI Effect on Programming Learning
-- [[lak2026-hint-button-unproductive-use]] — Hint Button: Consistent Negative Associations
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
-- [[instructional-guidance-genai-learning]] — Instructional Guidance and GenAI Learning

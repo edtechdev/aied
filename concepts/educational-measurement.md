@@ -11,19 +11,20 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[assessment-validity]]
 - [[generative-ai]]
 - [[socratic-method]]
-- [[socratic-ai-dialogue]]
 - [[learning-analytics]]
-- [[computational-thinking]]
-- [[higher-ed]]
+- [[intelligent-tutoring]]
+- [[stem-education]]
+- [[physics-education]]
+- [[inclusive-ai]]
 - [[personalized-learning]]
-- [[ai-literacy]]
-- [[student-experience]]
-- [[professional-training]]
-- [[constructivist]]
-
+- [[faculty-development]]
+- [[equity-in-ai-education]]
+- [[equity]]
+- [[language-learning]]
 ## Connected Articles
 
-- [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations...
+- [[ai-scoring-language-bias-physics]]
+- [[genai-architecture-education]]
+- [[hashmi-socratic-physics-chatbot-2025]]

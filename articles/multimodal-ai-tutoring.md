@@ -61,42 +61,10 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 
 ## Connected Concepts
 
-- [[affective-tutoring]]
-
-- [[agentic-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[llm]]
-- [[scaffolding]]
-- visualization
 ## Connected Articles
 
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
-- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
-- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
-- [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
-- [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
-- [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentati...
-- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[quantum-education-its]] — Quantum Education Intelligent Tutoring
-- [[syal-multimodal-dialogue-stem-2026]] — Multimodal Dialogue in STEM Education
-- [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-
+- [[syal-multimodal-dialogue-stem-2026]]
+- [[tutoring-specific-vs-general-ai]]
 ## Citation
 
 tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal AI Tutoring in STEM*](https://arxiv.org/abs/2605.04131)

@@ -13,14 +13,15 @@ Research in this wiki explores privacy through multiple lenses:
 
 ## Connected Concepts
 
-
-## Connected Articles
-- [[privacy-aware-classroom-incident-recognition-2026]]
-- [[cstutorbench-slm-tutors]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[genai-impact-chinese-students-hss]]
-- [[antiskillbench-persona-skills-privacy-2026]]
-- [[league-ethical-governance-student-data-2026]]
-- [[ai-pedagogical-accompaniment-amico]]
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
-- [[xai-education-framework]]
+- [[intelligent-tutoring]]
+- [[over-reliance]]
+- [[scaffolding]]
+- [[student-experience]]
+- [[regulation]]
+- [[academic-integrity]]
+- [[equity]]
+- [[faculty-development]]
+- [[adaptive-learning]]
+- [[k-12]]
+- [[personalized-learning]]
+- [[higher-ed]]

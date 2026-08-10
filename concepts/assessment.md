@@ -10,13 +10,15 @@ confidence: low
 
 ## Connected Concepts
 
-
-## Connected Articles
-- [[test-driven-ai-assisted-learning]]
-- [[reinforcement-learning-measurement-model-assessment]]
-- [[machines-misread-pedagogical-quality]]
-- [[llm-item-difficulty-prediction]]
-- [[genai-impact-chinese-students-hss]]
-- [[ai-assessment-scale-reform]]
-- [[understanding-student-effort-response-time]]
-- [[behaviorally-adaptive-visual-diversion-assessment-2026]]
+- [[higher-ed]]
+- [[learning-analytics]]
+- [[adaptive-learning]]
+- [[academic-integrity]]
+- [[llm]]
+- [[automated-grading]]
+- [[personalized-learning]]
+- [[generative-ai]]
+- [[privacy]]
+- [[knowledge-tracing]]
+- [[formative-assessment]]
+- [[student-modeling]]

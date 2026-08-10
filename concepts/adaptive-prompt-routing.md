@@ -11,4 +11,7 @@ confidence: medium
 
 ## Connected Articles
 
-- [[learning-to-prompt-adaptive-tutoring]] — Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
+- [[code-anchor-multi-view-visualization]]
+- [[confidence-aware-student-drawing-assessment]]
+- [[learning-to-prompt-adaptive-tutoring]]
+- [[psyscore-essay-scoring-zpd-feedback]]
