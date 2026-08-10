@@ -18,11 +18,14 @@ const body = article.body || '';
 function renderMarkdown(text: string, pageTitle: string): string {
   let html = '';
   let inBlockquote = false;
+  let inTable = false;
+  let inTableHead = true;
 
   for (const line of text.split('\n')) {
     const trimmed = line.trim();
 
     if (trimmed.startsWith('> ')) {
+      if (inTable) { html += '</tbody></table>'; inTable = false; inTableHead = true; }
       if (!inBlockquote) { html += '<blockquote class="blockquote">'; inBlockquote = true; }
       html += `<p>${renderInline(trimmed.slice(2))}</p>`;
       continue;
@@ -36,12 +39,28 @@ function renderMarkdown(text: string, pageTitle: string): string {
     if (trimmed.startsWith('## ')) { html += `<h2>${renderInline(trimmed.slice(3))}</h2>`; continue; }
     if (trimmed.startsWith('# ')) { html += `<h1>${renderInline(trimmed.slice(2))}</h1>`; continue; }
 
+    // Tables
     if (trimmed.startsWith('|') && trimmed.endsWith('|')) {
       const cells = trimmed.split('|').slice(1, -1).map(c => c.trim());
-      if (cells.every(c => /^-{3,}$/.test(c) || c.startsWith('---'))) continue;
-      html += '<tr>' + cells.map(c => `<td>${renderInline(c)}</td>`).join('') + '</tr>';
+      if (cells.every(c => /^:?-{3,}:?$/.test(c))) {
+        inTableHead = false;
+        continue;
+      }
+      if (!inTable) {
+        html += '<table>';
+        inTable = true;
+        inTableHead = true;
+      }
+      if (inTableHead) {
+        html += '<thead><tr>' + cells.map(c => `<th>${renderInline(c)}</th>`).join('') + '</tr></thead><tbody>';
+        inTableHead = false;
+      } else {
+        html += '<tr>' + cells.map(c => `<td>${renderInline(c)}</td>`).join('') + '</tr>';
+      }
       continue;
     }
+
+    if (inTable) { html += '</tbody></table>'; inTable = false; inTableHead = true; }
 
     if (/^[-*]\s/.test(trimmed)) {
       html += `<li>${renderInline(trimmed.slice(2))}</li>`;
@@ -54,6 +73,7 @@ function renderMarkdown(text: string, pageTitle: string): string {
     html += `<p>${renderInline(trimmed)}</p>`;
   }
 
+  if (inTable) html += '</tbody></table>';
   if (inBlockquote) html += '</blockquote>';
   return html;
 }
