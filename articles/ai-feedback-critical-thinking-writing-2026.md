@@ -27,9 +27,10 @@ The work contributes to understanding of [[critical-thinking]] in educational co
 - [[ai-generated-content]]
 
 ## Connected Articles
-- [[ai-tutoring]] — AI Tutoring
-- [[generative-ai]] — Generative AI
-- [[ai-education]] — AI in Education
+
+- [[genai-teacher-feedback-comparison]]
+- [[repeated-ai-writing-feedback-semester]]
+- [[foxglove-writing-feedback-experts-llms]]
 
 ## Citation
 Zhu, Q., Zhai, X., Zou, Y., & Gao, C. (2026). [*Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency*](https://arxiv.org/abs/2608.05177). arXiv:2608.05177.

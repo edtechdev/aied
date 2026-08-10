@@ -26,9 +26,10 @@ The work contributes to understanding of [[metacognition]] in educational contex
 - [[higher-ed]]
 
 ## Connected Articles
-- [[ai-tutoring]] — AI Tutoring
-- [[generative-ai]] — Generative AI
-- [[ai-education]] — AI in Education
+
+- [[cognitive-offloading-speedup-illusion]]
+- [[digital-literacy-illusion]]
+- [[ai-making-us-stupid]]
 
 ## Citation
 Jia, Y., & Xu, J. (2026). [*The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment*](https://doi.org/10.35542/osf.io/4cr8j_v5). EdArXiv Preprint.
