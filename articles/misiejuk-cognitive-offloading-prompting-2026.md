@@ -26,14 +26,14 @@ Students used LLMs to generate network datasets meeting specified criteria. Each
 
 This study directly contributes to understanding [[cognitive-offloading]] in practice — not as a theoretical concern but as observable patterns in how students distribute cognitive effort. High-quality submissions did **not** avoid AI use; they integrated AI use with active cognitive engagement. This aligns with [[genai-performance-vs-learning]] findings that how students use AI matters more than whether they use it.
 
-The finding that *contextual prompting* (providing domain details in prompts) correlates with quality connects to [[prompting-literacy]] and [[prompt-engineering]] research. It also supports [[scaffolding]] approaches that teach students to prompt with context rather than issuing bare instructions. The longitudinal dimension — tracking patterns across 4 assignments — provides evidence that prompting strategies evolve with practice, relevant to [[ai-literacy]] curriculum design.
+The finding that *contextual prompting* (providing domain details in prompts) correlates with quality connects to [[prompt-engineering]] and [[prompt-engineering]] research. It also supports [[scaffolding]] approaches that teach students to prompt with context rather than issuing bare instructions. The longitudinal dimension — tracking patterns across 4 assignments — provides evidence that prompting strategies evolve with practice, relevant to [[ai-literacy]] curriculum design.
 
 The [[cognitive-load-theory]] framing connects to [[over-reliance]] research: when students offload generative work without contributing domain knowledge, learning suffers even if task completion looks successful.
 
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[prompting-literacy]]
+- [[prompt-engineering]]
 - [[prompt-engineering]]
 - [[ai-literacy]]
 - [[cognitive-load-theory]]
