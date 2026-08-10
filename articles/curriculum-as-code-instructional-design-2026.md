@@ -25,9 +25,10 @@ The work contributes to understanding of [[instructional-design]] in educational
 - [[generative-ai]]
 
 ## Connected Articles
-- [[ai-tutoring]] — AI Tutoring
-- [[generative-ai]] — Generative AI
-- [[ai-education]] — AI in Education
+
+- [[bridging-instructional-design-framework-math]]
+- [[courseblueprint-adaptive-video-generation]]
+- [[didactical-teacher-assistant-dimensional-modeling]]
 
 ## Citation
 Paiva, H. M. (2026). [*Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education*](https://arxiv.org/abs/2608.07364). arXiv:2608.07364.
