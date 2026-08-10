@@ -26,9 +26,9 @@ The work contributes to understanding of [[universal-design-for-learning]] in ed
 - [[edtech]]
 
 ## Connected Articles
-- [[ai-tutoring]] — AI Tutoring
-- [[generative-ai]] — Generative AI
-- [[ai-education]] — AI in Education
+
+- [[dyslexlens-dyslexic-learners-ai]]
+- [[embodied-string-learning-blindness-low-vision-musicians]]
 
 ## Citation
 Stark, B. (2026). [*LUDIA: A Design and Evidence Statement*](https://doi.org/10.35542/osf.io/3nmgp_v1). EdArXiv Preprint.

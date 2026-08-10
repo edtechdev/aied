@@ -25,9 +25,10 @@ The work contributes to understanding of [[collaborative-learning]] in education
 - [[generative-ai]]
 
 ## Connected Articles
-- [[ai-tutoring]] — AI Tutoring
-- [[generative-ai]] — Generative AI
-- [[ai-education]] — AI in Education
+
+- [[cognitive-offloading-speedup-illusion]]
+- [[efficiency-gain-illusion-ai-overreliance]]
+- [[critical-genai-use-predictors]]
 
 ## Citation
 Kimmerle, J. (2026). [*Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction*](https://doi.org/10.35542/osf.io/b8zjk_v1). EdArXiv Preprint.

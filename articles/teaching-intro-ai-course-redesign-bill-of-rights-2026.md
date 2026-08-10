@@ -26,9 +26,9 @@ The work contributes to understanding of [[academic-integrity]] in educational c
 - [[higher-ed]]
 
 ## Connected Articles
-- [[ai-tutoring]] — AI Tutoring
-- [[generative-ai]] — Generative AI
-- [[ai-education]] — AI in Education
+
+- [[finkelstein-principled-ai-education-2025]]
+- [[beyond-detection-authentic-assessment-ai-2025]]
 
 ## Citation
 Pisan, Y. (2026). [*Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights*](https://arxiv.org/abs/2608.05175). arXiv:2608.05175.
