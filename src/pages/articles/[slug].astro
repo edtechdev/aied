@@ -117,8 +117,8 @@ const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○'
       <h1>{title}</h1>
       <div style="color:var(--muted-color);font-size:0.9rem">
         {confIcon} {confidence} · {created}
-        {(tags || []).map((tag: string) => (
-          <a href={`/aied/tags/${tag}`} class="tag-chip">{tag}</a>
+        {(tags || []).map((tag: string, i: number) => (
+          <>{i > 0 ? ', ' : ''}<a href={`/aied/tags/${tag}`} class="tag-chip">{tag}</a></>
         ))}
       </div>
     </div>
