@@ -26,9 +26,10 @@ The work contributes to understanding of [[ai-tutoring]] in educational contexts
 - [[student-experience]]
 
 ## Connected Articles
-- [[ai-tutoring]] — AI Tutoring
-- [[generative-ai]] — Generative AI
-- [[ai-education]] — AI in Education
+
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[becker-chatgpt-typology-physics-2026]]
+- [[fouad-bentley-trust-utility-gap-physics-2026]]
 
 ## Citation
 Hashmi, S. F. A., & Rebello, N. S. (2026). [*A Bottom-Up Taxonomy of Student Discourse with a Socratic AI Physics Tutor*](https://arxiv.org/abs/2608.07373). arXiv:2608.07373.
