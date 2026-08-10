@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://edtechdev.github.io/aied/sitemap-index.xml
+
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
