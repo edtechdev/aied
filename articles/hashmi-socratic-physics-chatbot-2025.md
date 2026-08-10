@@ -36,19 +36,16 @@ The correlation between question specificity and course grade (*r* = 0.43) hints
 - [[educational-measurement]]
 - [[generative-ai]]
 - [[learning-analytics]]
-- [[socratic-method]]
+- [[physics-education]]
 - [[socratic-ai-dialogue]]
 - [[socratic-method]]
-- [[socratic-method]]
-
+- [[stem-education]]
+- [[intelligent-tutoring]]
 ## Connected Articles
 
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness: The AI Assessment Scale and the work of assessment reform
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning When Using Generative AI
-- [[hashmi-socratic-physics-chatbot-2025]] — Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot
+- [[socratic-ai-physics-tutor-taxonomy-2026]]
+- [[fouad-bentley-trust-utility-gap-physics-2026]]
+- [[becker-chatgpt-typology-physics-2026]]
 
 ## Citation
 

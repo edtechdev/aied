@@ -54,7 +54,6 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[automated-assessment]]
 - [[automated-essay-scoring]]
 - [[bias-mitigation]]
-- [[bias-mitigation]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
 - [[equity]]
@@ -62,6 +61,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[language-learning]]
 - [[ai-feedback-quality]]
 - [[educational-measurement]]
+- [[physics-education]]
 ## Connected Articles
 
 - [[genai-linguistic-diversity-academic-writing]]

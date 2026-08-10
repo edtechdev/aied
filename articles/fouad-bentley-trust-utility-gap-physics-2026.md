@@ -22,7 +22,17 @@ A mixed-methods survey of 81 introductory physics undergraduates reveals a 50-po
 
 ## Connected Concepts
 
+- [[physics-education]]
+- [[ai-literacy]]
+- [[trust-calibration]]
+- [[student-experience]]
+- [[higher-ed]]
+- [[stem-education]]
 ## Connected Articles
+
+- [[becker-chatgpt-typology-physics-2026]]
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[socratic-ai-physics-tutor-taxonomy-2026]]
 
 
 ## Citation
