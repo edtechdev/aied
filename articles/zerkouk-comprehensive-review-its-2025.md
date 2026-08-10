@@ -78,7 +78,7 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 - [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
 
 ## Citation

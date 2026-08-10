@@ -16,7 +16,7 @@ confidence: high
 A design framework for LLM-powered educational agents that prioritize durable learning over short-term task performance. Introduced by Khosravi et al. (2026), AI learning companions are defined as adaptive, pedagogically informed agents integrated into learning environments — distinct from both task-oriented LLMs and simple prompted tutors.
 
 ## The Learning-Performance Paradox
-LLMs demonstrably improve task outputs (writing quality, code correctness, analysis speed), but this can create a paradox: students who produce better work with AI may learn less. This mirrors and extends the [[llm-fallacy-misattribution]] phenomenon where users misattribute AI-assisted outputs to their own competence. The framework addresses the question posed by [[ai-learning-transfer]]: do AI-assisted gains persist when the tool is removed?
+LLMs demonstrably improve task outputs (writing quality, code correctness, analysis speed), but this can create a paradox: students who produce better work with AI may learn less. This mirrors and extends the [[llm-fallacy-misattribution]] phenomenon where users misattribute AI-assisted outputs to their own competence. The framework addresses the question posed by [[transfer-of-learning]]: do AI-assisted gains persist when the tool is removed?
 
 ## Three Foundations
 1. **Pedagogical Foundation** — grounded in learning science; how students learn *with* AI, not just *from* it
@@ -33,7 +33,7 @@ Validated across five diverse educational contexts, levels, and tool designs, re
 ## Connected Articles
 
 - [[llm-fallacy-misattribution]]
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 - [[llm-student-modeling-memory]]
 - [[ai-tutor-safety-harms]]
 ## Citation

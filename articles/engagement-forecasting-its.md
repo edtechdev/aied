@@ -38,7 +38,7 @@ The finding that effort and progress have distinct predictive signatures is prac
 
 This paper extends the [[ai-tutor-effectiveness-review]] findings on what makes ITS effective by adding a temporal prediction layer. Where prior work evaluates whether tutoring works on average, engagement forecasting asks *when* it works and *for whom* — connecting to the personalized intervention paradigm in [[collaborative-ai-tutoring]].
 
-The focus on middle-school students (N=425) aligns with the [[ai-k12-evidence-base]], which calls for more rigorous K-12 efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within educational data mining.
+The focus on middle-school students (N=425) aligns with the [[stanford-evidence-base-ai-k12-2026]], which calls for more rigorous K-12 efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within educational data mining.
 
 ## Methodological Contribution
 
@@ -50,7 +50,7 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 
 - [[ai-tutor-effectiveness-review]]
 - [[collaborative-ai-tutoring]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[genai-tutor-engagement-patterns]]
 ## Citation
 

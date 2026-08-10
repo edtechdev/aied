@@ -26,7 +26,7 @@ Using LLMs to simulate students is an emerging practice in educational research,
 
 ## Connections to Wiki
 
-This work extends the [[llm-student-modeling-memory]] discourse on how LLMs represent learners over time, but applies it to **simulation validity** rather than tutoring personalization. The focus on ADHD profiles connects to broader [[student-experience]] research and highlights gaps in [[ai-k12-evidence-base]] — the Stanford SCALE review found few studies with adequate causal inference for special education populations.
+This work extends the [[llm-student-modeling-memory]] discourse on how LLMs represent learners over time, but applies it to **simulation validity** rather than tutoring personalization. The focus on ADHD profiles connects to broader [[student-experience]] research and highlights gaps in [[stanford-evidence-base-ai-k12-2026]] — the Stanford SCALE review found few studies with adequate causal inference for special education populations.
 
 The simulation methodology also raises questions about [[ai-tutor-safety-harms]] — if tutoring systems are tested on simulated neurodivergent learners, do the safety assessments generalize? This echoes [[educational-vlm-evaluation]] concerns about AI systems that underperform with specific student populations.
 
@@ -46,7 +46,7 @@ The simulation methodology also raises questions about [[ai-tutor-safety-harms]]
 ## Connected Articles
 
 - [[llm-student-modeling-memory]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-safety-harms]]
 - [[educational-vlm-evaluation]]
 - [[multimodal-ai-tutoring]]

@@ -18,7 +18,7 @@ Current AI tutoring systems treat each session as independent. Adaptive systems 
 
 1. **Preferences shift** — A student may initially prefer worked examples, later shift to Socratic questioning, then return to examples under stress
 2. **Expertise builds** — [[self-regulated-learning|SRL skills]] develop over time, changing what scaffolding is appropriate
-3. **Transfer depends on history** — Whether [[ai-learning-transfer|AI-assisted gains persist]] may depend on whether the tutor *remembers* past learning and spacing
+3. **Transfer depends on history** — Whether [[transfer-of-learning|AI-assisted gains persist]] may depend on whether the tutor *remembers* past learning and spacing
 
 ## The PersonaVLM Architecture (General Framework)
 
@@ -67,7 +67,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 1. What educational personality/adaptation dimensions should replace/modify Big Five? (e.g., academic goal orientation, prior knowledge state, metacognitive monitoring accuracy)
 2. How does longitudinal memory interact with spaced repetition and forgetting curves?
-3. Would a tutoring system with PersonaVLM-style memory produce better [[ai-learning-transfer|transfer outcomes]] than episodic-only systems?
+3. Would a tutoring system with PersonaVLM-style memory produce better [[transfer-of-learning|transfer outcomes]] than episodic-only systems?
 4. What are the pedagogical guardrails needed to prevent personalization from becoming over-accommodation?
 
 ## Connected Concepts
@@ -77,7 +77,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 - [[knowledge-tracing-irt]]
 - [[nie-personavlm-long-term-personalization-2026]]
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 

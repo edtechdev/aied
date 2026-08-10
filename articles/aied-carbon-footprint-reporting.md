@@ -14,7 +14,7 @@ confidence: high
 
 ## Summary
 
-LLM usage has become pervasive in the [[ai-k12-evidence-base|AIED]] community, but the computational and environmental costs of deploying these models remain almost entirely unreported. This paper systematically reviews the AIED 2025 conference proceedings and finds that while most projects use LLMs, nearly none report computational resources or discuss environmental impacts as an ethical concern.
+LLM usage has become pervasive in the [[stanford-evidence-base-ai-k12-2026|AIED]] community, but the computational and environmental costs of deploying these models remain almost entirely unreported. This paper systematically reviews the AIED 2025 conference proceedings and finds that while most projects use LLMs, nearly none report computational resources or discuss environmental impacts as an ethical concern.
 
 ## Key Findings
 
@@ -38,11 +38,11 @@ LLM usage has become pervasive in the [[ai-k12-evidence-base|AIED]] community, b
 ### Connection to Broader AIED Themes
 - The lack of reporting parallels the [[ground-truth-reliability-aied|ground truth reliability crisis]] in AIED — in both cases, essential contextual information goes unreported, undermining the field's ability to aggregate evidence and make informed decisions.
 - The [[ai-tutor-safety-harms|ethics of AI in education]] must expand beyond bias and privacy to include environmental sustainability.
-- Institutional [[ai-k12-evidence-base|adoption decisions]] should weigh environmental costs alongside learning gains and implementation costs.
+- Institutional [[stanford-evidence-base-ai-k12-2026|adoption decisions]] should weigh environmental costs alongside learning gains and implementation costs.
 
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-safety-harms]]
 - [[principled-ai-education]]
 - [[ground-truth-reliability-aied]]

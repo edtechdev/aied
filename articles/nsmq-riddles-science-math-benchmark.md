@@ -22,7 +22,7 @@ Unlike standard benchmark datasets (MMLU, GSM8K), NSMQ Riddles:
 - Features **progressive clue revelation** — early clues are vague (worth more points), testing incremental reasoning
 - Covers **biology, chemistry, physics, and math** at the high school level
 - Evaluates models against **human student performance** in a competitive format
-- Represents African educational content, addressing geographic bias in [[ai-k12-evidence-base]]
+- Represents African educational content, addressing geographic bias in [[stanford-evidence-base-ai-k12-2026]]
 
 The benchmark found that even state-of-the-art models (GPT-5.4, Gemini 3.1 Pro, Claude Opus 4.6) **underperform the best student contestants**, highlighting gaps in LLM scientific reasoning.
 
@@ -44,7 +44,7 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 - [[pedagogical-llm-training]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[teachbench-llm-teaching-evaluation]]
 - [[educational-vlm-evaluation]]
 - [[civic-education-ai-lesson-plans]]

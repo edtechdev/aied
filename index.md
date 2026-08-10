@@ -79,11 +79,11 @@
 - [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
 - [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — The Evidence Base on AI in K-12
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[transfer-of-learning]] — Transfer of Learning
 - [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
 - [[ai-literacy]] — AI Literacy
 - [[ai-literacy-assessment-misalignment]] — 'AI Literacy Assessment: Self-Reported vs Performance Misalignment'

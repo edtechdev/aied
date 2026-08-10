@@ -67,7 +67,7 @@ This paper directly informs several threads in the wiki:
 - **[[metacognition]]**: The engagement-learning disconnect exemplifies the metacognitive calibration problem — students felt they were learning more with sequenced feedback when they were actually learning less
 - **[[ai-peer-feedback-systems]]**: Multi-LLM collaborative feedback systems must consider feedback sequencing carefully to avoid the pitfalls identified here
 - **[[pedagogy-ai-mistakes]]**: Hosseini's work on deliberately leveraging AI errors connects to the finding that easy, encouraging feedback may be less pedagogically effective than direct correction
-- **[[ai-learning-transfer]]**: The learning outcome disparity between conditions raises transfer implications — do sequenced-feedback students retain less when the scaffolding is removed?
+- **[[transfer-of-learning]]**: The learning outcome disparity between conditions raises transfer implications — do sequenced-feedback students retain less when the scaffolding is removed?
 
 ## Methodological Strengths
 
@@ -94,7 +94,7 @@ This paper directly informs several threads in the wiki:
 - [[prober-ai-inquiry-writing]]
 - [[ai-peer-feedback-systems]]
 - [[pedagogy-ai-mistakes]]
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 ## Citation
 
 Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R. (2026). [Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning](https://arxiv.org/abs/2604.07469). arXiv:2604.07469.
