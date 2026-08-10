@@ -2,14 +2,10 @@
 
 Last rebuilt: [DATE]
 
+## Articles
+
+- [[example-paper]] — Example Paper: A Guide to Getting Started
+
 ## Concepts
 
-- [[example-page]] — Example concept page
-
-## Comparisons
-
-*No comparison pages yet.*
-
-## Entities
-
-*No entity pages yet.*
+- [[example-concept]] — Example Concept

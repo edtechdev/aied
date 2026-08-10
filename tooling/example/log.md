@@ -1,7 +1,8 @@
 # Wiki Action Log
 
 ## [DATE] setup | wiki initialized
-- Created wiki directory structure
+- Created wiki directory structure (articles/, concepts/, raw/papers/)
 - Installed research-wiki tooling
-- Set up Hermes Agent cron job
+- Set up Hermes Agent cron jobs (daily scan, weekly RSS)
+
 ## [DATE] meta | scan-complete
