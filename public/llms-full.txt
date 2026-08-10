@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 524 articles and 100 concepts.
+> Complete text of 522 articles and 101 concepts.
 
 # Articles
 
@@ -344,7 +344,7 @@ Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, Sicheng Song (2026). [AdaPT: Adap
 ## [Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study](https://edtechdev.github.io/aied/articles/adaptive-pretesting-retention/)
 
 > **Mahir Akgun, Sacip Toker (2026)** — 27th International Conference on AI in Education
-Akgun and Toker (2026) examine whether learning gains from GenAI-enabled adaptive pretesting persist over a seven-week retention period. Undergraduate participants completed adaptive AI-assisted pretesting, received instruction, took a baseline assessment, and were randomly assigned to three follow-up conditions: adaptive spaced retrieval practice, fixed spaced retrieval practice, or learner-directed AI-supported study. Multivariate analyses showed significant effects of condition on posttest performance and practice effort, with both retrieval-based conditions significantly outperforming learner-directed study. The findings indicate that while AI-adaptive pretesting can elevate initial understanding — especially for higher-order reasoning — sustained learning critically depends on how subsequent AI-supported practice is structured. This [[rct]] contributes to the [[adaptive-learning]] literature by showing that initial gains are fragile without structured retrieval, and has practical implications for designing [[personalized-learning]] sequences that maximize learning-gains and promote [[ai-learning-transfer]].
+Akgun and Toker (2026) examine whether learning gains from GenAI-enabled adaptive pretesting persist over a seven-week retention period. Undergraduate participants completed adaptive AI-assisted pretesting, received instruction, took a baseline assessment, and were randomly assigned to three follow-up conditions: adaptive spaced retrieval practice, fixed spaced retrieval practice, or learner-directed AI-supported study. Multivariate analyses showed significant effects of condition on posttest performance and practice effort, with both retrieval-based conditions significantly outperforming learner-directed study. The findings indicate that while AI-adaptive pretesting can elevate initial understanding — especially for higher-order reasoning — sustained learning critically depends on how subsequent AI-supported practice is structured. This [[rct]] contributes to the [[adaptive-learning]] literature by showing that initial gains are fragile without structured retrieval, and has practical implications for designing [[personalized-learning]] sequences that maximize learning-gains and promote [[transfer-of-learning]].
 
 ## Connected Concepts
 
@@ -353,7 +353,7 @@ Akgun and Toker (2026) examine whether learning gains from GenAI-enabled adaptiv
 - [[personalized-learning]]
 ## Connected Articles
 
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 ## Citation
 
 Mahir Akgun, Sacip Toker (2026). [Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study](https://arxiv.org/abs/2606.22328). arXiv:2606.22328. 27th International Conference on AI in Education
@@ -1496,7 +1496,7 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers' Multi-Agent Workflow Design
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics
 - [[test-driven-ai-assisted-learning]] — Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests
@@ -1582,7 +1582,7 @@ While AI tools are globally available, the critical variable is local absorption
 - **Switzerland:** Privacy, quality, and system reliability as non-negotiables
 
 ## Connections to Wiki
-- Extends [[ai-k12-evidence-base]] with global implementation perspective beyond US/Stanford scope
+- Extends [[stanford-evidence-base-ai-k12-2026]] with global implementation perspective beyond US/Stanford scope
 - Addresses [[equity-in-ai-education]] disparities across countries
 - The assessment misalignment in China echoes concerns in [[authentic-assessment]]
 - Teacher readiness theme connects to [[faculty-development]] and [[teacher-ai-competency]]
@@ -1599,7 +1599,7 @@ While AI tools are globally available, the critical variable is local absorption
 - [[teacher-role]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[authentic-assessment]] — Authentic Assessment
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
@@ -2114,70 +2114,6 @@ Russell Scheinberg, Ameeta Agrawal, Tetyana Sydorenko, Kalab Kahsay, Nina Vyatki
 
 ---
 
-## [AI in K-12 Evidence Base](https://edtechdev.github.io/aied/articles/ai-k12-evidence-base/)
-
-> The field is growing explosively (from 28 relevant papers in Jan 2023 to 818 by Oct 2025) but remains thin on causal evidence:
-
-> As of October 2025, only **20 of 818 papers** in the AI Hub Research Repository meet standards for strong causal inference (RCTs or QEDs) on AI in education — and **zero** examine U.S. K-12 student settings.^[[stanford-evidence-base-ai-k12-2026]]
-
-## The Evidence Gap
-
-The field is growing explosively (from 28 relevant papers in Jan 2023 to 818 by Oct 2025) but remains thin on causal evidence:
-
-- 87% of repository papers are arXiv preprints
-- 64% of all papers study postsecondary settings
-- Only 8% use RCTs; 5% use quasi-experimental designs (QEDs)
-- Most causal studies are international, short-term (e.g., single 20-minute sessions), and focused on immediate outcomes
-
-The review authors (Stanford SCALE, 2026) applied *What Works Clearinghouse (2025)* standards for quality review, using a two-step LLM pre-screening followed by human review.
-
-## What the Causal Literature Says
-
-Out of 20 high-quality causal papers, outcomes break down as:
-- 35% math
-- 25% other academic
-- 20% literacy
-- 15% social-emotional
-
-Education levels in causal papers:
-- ~45% high school (international)
-- ~5% postsecondary
-- **0% U.S. K-12 students**
-
-## Learning Science Lens
-
-The review frames findings through six established principles. See [[ai-learning-transfer]] for the critical tension between immediate performance and durable learning.
-
-| Principle | Implication for AI Tools |
-|---|---|
-| Cognitive load | AI reduces extraneous load but may also suppress *germane* (productive) load. |
-| Zone of proximal development | General-purpose AI often operates *outside* the ZPD by completing work for students. [[tutoring-specific-vs-general-ai|Tutoring-specific scaffolds]] target readiness more precisely. |
-| Transfer | Unclear whether AI-assisted practice produces durable knowledge or merely tool-dependent performance. |
-| Metacognition | AI completing tasks reduces opportunities for students to monitor their own understanding. |
-| Expertise reversal | Novices need guidance; experts need independence. Effective AI must adapt to learner expertise. |
-| Desirable difficulties | Easier practice with AI feels better but may weaken long-term retention. |
-
-## Key Open Questions
-
-1. Do AI-assisted gains persist when the tool is removed?
-2. Does general-purpose chatbot use widen achievement gaps?
-3. What pedagogical guardrails are necessary to preserve [[metacognition]]? See the new evidence from Scheu et al. (2026) that structured courses increase metacognitive competence while raw LLM assistants do not.
-4. When will the first U.S. K-12 RCTs on LLM tools emerge?
-
-## Connected Concepts
-
-- [[metacognition]]
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-learning-transfer]]
-- [[tutoring-specific-vs-general-ai]]
-## Citation
-
-Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*AI in K-12 Evidence Base*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
-
----
-
 ## [Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis](https://edtechdev.github.io/aied/articles/ai-learning-assistants-higher-ed-large-scale/)
 
 > **A. Leypold, M. Knolle, A. F. D. S. et al. (2026)** — arXiv preprint. Venue: arXiv:2607.08748.
@@ -2215,7 +2151,7 @@ A. Leypold, M. Knolle, A. F. D. S. et al. (2026). [Using AI-based Learning Assis
 A design framework for LLM-powered educational agents that prioritize durable learning over short-term task performance. Introduced by Khosravi et al. (2026), AI learning companions are defined as adaptive, pedagogically informed agents integrated into learning environments — distinct from both task-oriented LLMs and simple prompted tutors.
 
 ## The Learning-Performance Paradox
-LLMs demonstrably improve task outputs (writing quality, code correctness, analysis speed), but this can create a paradox: students who produce better work with AI may learn less. This mirrors and extends the [[llm-fallacy-misattribution]] phenomenon where users misattribute AI-assisted outputs to their own competence. The framework addresses the question posed by [[ai-learning-transfer]]: do AI-assisted gains persist when the tool is removed?
+LLMs demonstrably improve task outputs (writing quality, code correctness, analysis speed), but this can create a paradox: students who produce better work with AI may learn less. This mirrors and extends the [[llm-fallacy-misattribution]] phenomenon where users misattribute AI-assisted outputs to their own competence. The framework addresses the question posed by [[transfer-of-learning]]: do AI-assisted gains persist when the tool is removed?
 
 ## Three Foundations
 1. **Pedagogical Foundation** — grounded in learning science; how students learn *with* AI, not just *from* it
@@ -2232,7 +2168,7 @@ Validated across five diverse educational contexts, levels, and tool designs, re
 ## Connected Articles
 
 - [[llm-fallacy-misattribution]]
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 - [[llm-student-modeling-memory]]
 - [[ai-tutor-safety-harms]]
 ## Citation
@@ -2271,98 +2207,12 @@ Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous (2026). [Designing 
 
 ---
 
-## [AI Learning Transfer](https://edtechdev.github.io/aied/articles/ai-learning-transfer/)
-
-> Students using AI typically show **immediate, measurable gains** on the tasks where AI is available. Yet when AI is removed:
-
-> The central open question in AI education research: **Do performance gains with AI tools persist when students must demonstrate understanding independently?**^[[stanford-evidence-base-ai-k12-2026]]
-
-## The Transfer Paradox
-
-Students using AI typically show **immediate, measurable gains** on the tasks where AI is available. Yet when AI is removed:
-
-- Effects become **mixed or negative**
-- Gains often **fail to transfer** to unassessed settings
-- Students may become **dependent on the tool** at the expense of independent reasoning
-
-This pattern is the defining risk of integrating AI into learning environments.
-
-## Key Studies
-
-| Study | Context | Immediate Effect | Transfer Effect | Mechanism |
-|---|---|---|---|---|
-| Bastani et al. (2025) | High school math | Higher practice grades | **~17% worse** on closed-book finals | General-purpose chatbot did the work |
-| Chen et al. (2025) | Programming homework | Higher homework scores | **No improvement** on unassisted exams | LLM-Tutor solved problems for students |
-| Lehmann et al. (2025) | Programming | More topics covered | **Harmed understanding**; widened gaps | General AI for low-prior learners |
-| Stadler et al. (2024) | Academic research | Faster task completion | **Lower-quality reasoning** vs. search | Reduced cognitive engagement |
-| Kosmyna et al. (2025) | Essay writing | Higher essay quality | **83% failed to recall** their own quotes | Outsourced authorship |
-
-All five studies show a **negative or null transfer** pattern when general-purpose AI is the intervention.
-
-### Misalignment Amplification
-
-Hardy & Kim (2026) demonstrate that shared pretraining biases across LLMs produce behaviors poorly aligned with teaching quality and **negatively aligned** with student outcomes. Multi-model ensembles even *exacerbate* misalignment. See [[educational-llm-alignment]].
-
-## Mechanisms Undermining Transfer
-
-### 1. Metacognitive Displacement
-AI completing reasoning reduces opportunities for students to monitor their own understanding and select strategies. Students who used AI were less able to explain their answers when queried.^[[stanford-evidence-base-ai-k12-2026]]
-
-### 2. Germane Load Suppression
-General-purpose AI reduces not just extraneous (distracting) cognitive load but also *germane* load — the productive mental effort that encodes durable knowledge. Easier practice feels better but stores weaker traces. See [[tutoring-specific-vs-general-ai]].
-
-### 3. Over-Reliance / Expertise Reversal
-Novices given answers do not build schemas. General AI provides answers; effective tutoring provides **structured guidance**. When novices are given expert-level shortcuts, learning is disrupted.^[[stanford-evidence-base-ai-k12-2026]]
-
-### 4. Tool-Dependent Performance
-Students may optimize for the specific affordances of the AI tool (e.g., prompt engineering, reliance on generated code structure) rather than building domain generalization.
-
-## Conditions Supporting Positive Transfer
-
-The limited evidence suggests transfer is possible when:
-
-- **Pedagogical guardrails are present** — step-by-step hints, misconception targeting, Socratic questioning (Bastani et al., 2025 tutoring variant)
-- **Traditional strategies are preserved** — note-taking paired with AI use improved retention (Kreijkes et al., 2026)
-- **AI is used for formative, not summative, practice** — scaffolding during learning, not during assessment
-- **Learner expertise is calibrated** — the tool adapts support to readiness rather than defaulting to full assistance
-
-## Unanswered Questions
-
-1. **Time scale:** Does transfer improve over weeks/months of use, or does dependence deepen?
-2. **Domain differences:** Is transfer better in well-structured domains (math) vs. ill-structured domains (writing)?
-3. **Individual differences:** Do high-prior-knowledge students suffer less transfer loss than novices?
-4. **Skill remediation:** Can explicit "AI-off" practice sessions reverse tool dependence?
-
-## Implications
-
-For educators and tool designers, the provisional rule is:
-
-> If students *can* complete a task with AI, design expectations so they *must* also demonstrate the task without it.
-
-This may mean:
-- Closed-book assessments after AI-assisted practice
-- Reflective prompts requiring students to explain AI-generated content in their own words
-- Strict separation between "practice with AI" and "demonstrate mastery" phases
-
-## Connected Concepts
-
-## Connected Articles
-
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[educational-llm-alignment]]
-- [[tutoring-specific-vs-general-ai]]
-## Citation
-
-Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*AI Learning Transfer*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
-
----
-
 ## [Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy](https://edtechdev.github.io/aied/articles/ai-lifelong-learning-policy/)
 
 > **Andresa Theodora, Nikolaos Tselios (2026)** — (University-affiliated). arXiv:2605.16296 [cs.CY]
 Theodora and Tselios (2026) provide a policy-oriented synthesis of AI's dual role in adult and [[lifelong-learning]] contexts — as both an enabler of personalized, scalable education and a source of significant equity and governance challenges. Drawing on international policy frameworks, the paper argues that AI integration in adult education requires balanced policies promoting inclusion, transparency, and human-centered pedagogy.
 
-The paper fills a notable gap in the [[ai-k12-evidence-base]] and related literature, which has predominantly focused on K-12 and higher education. Adult learners face distinct challenges: they are more likely to be affected by the [[equity]], have less institutional support than traditional students, and often engage in self-directed learning where AI tools may operate with minimal human oversight. The paper's emphasis on [[educational-policy-ai]] responsibilities connects to broader [[regulation]] discussions.
+The paper fills a notable gap in the [[stanford-evidence-base-ai-k12-2026]] and related literature, which has predominantly focused on K-12 and higher education. Adult learners face distinct challenges: they are more likely to be affected by the [[equity]], have less institutional support than traditional students, and often engage in self-directed learning where AI tools may operate with minimal human oversight. The paper's emphasis on [[educational-policy-ai]] responsibilities connects to broader [[regulation]] discussions.
 
 Key tensions identified include the promise of [[intelligent-tutoring]] and [[learning-analytics]] for personalized workforce development versus risks of [[bias-mitigation]] and [[over-reliance]]. The call for "responsible innovation" aligns with [[equity]] frameworks in educational AI and echoes concerns about [[ai-tutor-safety-harms]] in contexts where adult learners may lack the support structures available in formal education. For [[faculty-development]] and [[teacher-role]] in adult education, the paper highlights the urgent need for educator training in AI literacy — a theme consistent with [[ai-pedagogical-orientation]] research.
 
@@ -2381,7 +2231,7 @@ Key tensions identified include the promise of [[intelligent-tutoring]] and [[le
 - [[teacher-role]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-safety-harms]]
 - [[ai-pedagogical-orientation]]
 ## Citation
@@ -2777,7 +2627,7 @@ Benedetti (2026) introduces a theoretically grounded framework for AI-enabled pe
 
 The dual-mode design — AmicoMio for structured, task-oriented interaction and AmicoTuo for reflective, supportive engagement — represents a novel contribution to [[intelligent-tutoring]] architecture. Rather than pursuing a single interaction style, the system adapts its mode to the pedagogical context. This aligns with [[scaffolding]] theory's emphasis on calibrating support to learner needs and connects to recent work on [[ai-tutor-behavioral-evaluation]] that stresses context-sensitive deployment.
 
-The cross-context pilot in Italy and China provides initial evidence of feasibility in vocational education, an underserved domain in the [[ai-k12-evidence-base]]. The framework's emphasis on AI as a "relational bridge" to human interaction — not a replacement — addresses concerns raised in [[ai-tutor-safety-harms]] about dependency and [[over-reliance]]. The principle of data minimization further connects to [[privacy]] and [[equity]] discussions in educational AI deployment. For [[faculty-development]], the observable indicators offer concrete assessment tools for evaluating AI integration quality.
+The cross-context pilot in Italy and China provides initial evidence of feasibility in vocational education, an underserved domain in the [[stanford-evidence-base-ai-k12-2026]]. The framework's emphasis on AI as a "relational bridge" to human interaction — not a replacement — addresses concerns raised in [[ai-tutor-safety-harms]] about dependency and [[over-reliance]]. The principle of data minimization further connects to [[privacy]] and [[equity]] discussions in educational AI deployment. For [[faculty-development]], the observable indicators offer concrete assessment tools for evaluating AI integration quality.
 
 ## Connected Concepts
 
@@ -2790,7 +2640,7 @@ The cross-context pilot in Italy and China provides initial evidence of feasibil
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-safety-harms]]
 ## Citation
 
@@ -3378,7 +3228,7 @@ The review identifies a **critical need for stronger experimental design and dat
 
 | Claim in review | Supporting evidence in wiki | Contradictory evidence |
 |---|---|---|
-| ITS show mixed real-world effectiveness | [[ai-k12-evidence-base]] (only 20/818 papers meet causal standards) | [[pedagogical-llm-training|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
+| ITS show mixed real-world effectiveness | [[stanford-evidence-base-ai-k12-2026]] (only 20/818 papers meet causal standards) | [[pedagogical-llm-training|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
 | Need for stronger experimental rigor | [[educational-llm-alignment|Hardy & Kim]] (benchmark≠teaching quality) | — |
 | NLP advances for dialogue | [[knowledge-tracing-irt]] (interpretable dialogue modeling) | [[ai-tutor-safety-harms|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
 | Affective computing as advancement | [[affective-tutoring|MathBuddy]] (+23 points win rate) | [[ai-tutor-safety-harms]] (emotional risks, parasocial dependency) |
@@ -3399,7 +3249,7 @@ The review identifies a **critical need for stronger experimental design and dat
 ## Connected Articles
 
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[educational-llm-alignment]]
 - [[knowledge-tracing-irt]]
 - [[ai-tutor-safety-harms]]
@@ -3459,7 +3309,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - [[tutoring-specific-vs-general-ai]] — SafeTutors reveals that even "helpful" general-purpose AI produces systematic tutoring harm; pedagogical design is not an add-on but a safety requirement
 - [[metacognition]] — The Metacognitive and Reflective-Critical dimensions directly map to metacognitive suppression risks
 - [[self-regulated-learning]] — Motivational-Affective harms undermine the SRL↔motivation reciprocal loop
-- [[ai-learning-transfer]] — Cognitive offloading and shallow learning directly undermine transfer; SafeTutors provides a mechanistic taxonomy for why
+- [[transfer-of-learning]] — Cognitive offloading and shallow learning directly undermine transfer; SafeTutors provides a mechanistic taxonomy for why
 - [[llm-fallacy-misattribution]] — Fluency illusion (Cognitive dimension) and misrepresentation of understanding (Ethical-Epistemic dimension) are tutoring-specific instantiations of the LLM Fallacy
 
 ## Implications
@@ -3476,7 +3326,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 
 - [[hazra-safetutors-pedagogical-safety-2026]]
 - [[tutoring-specific-vs-general-ai]]
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 - [[llm-fallacy-misattribution]]
 ## Citation
 
@@ -3640,7 +3490,7 @@ Becerra, A., Palma, A., & Cobos, R. (2026). [AICoFe: Implementation and deployme
 
 ## Summary
 
-LLM usage has become pervasive in the [[ai-k12-evidence-base|AIED]] community, but the computational and environmental costs of deploying these models remain almost entirely unreported. This paper systematically reviews the AIED 2025 conference proceedings and finds that while most projects use LLMs, nearly none report computational resources or discuss environmental impacts as an ethical concern.
+LLM usage has become pervasive in the [[stanford-evidence-base-ai-k12-2026|AIED]] community, but the computational and environmental costs of deploying these models remain almost entirely unreported. This paper systematically reviews the AIED 2025 conference proceedings and finds that while most projects use LLMs, nearly none report computational resources or discuss environmental impacts as an ethical concern.
 
 ## Key Findings
 
@@ -3664,11 +3514,11 @@ LLM usage has become pervasive in the [[ai-k12-evidence-base|AIED]] community, b
 ### Connection to Broader AIED Themes
 - The lack of reporting parallels the [[ground-truth-reliability-aied|ground truth reliability crisis]] in AIED — in both cases, essential contextual information goes unreported, undermining the field's ability to aggregate evidence and make informed decisions.
 - The [[ai-tutor-safety-harms|ethics of AI in education]] must expand beyond bias and privacy to include environmental sustainability.
-- Institutional [[ai-k12-evidence-base|adoption decisions]] should weigh environmental costs alongside learning gains and implementation costs.
+- Institutional [[stanford-evidence-base-ai-k12-2026|adoption decisions]] should weigh environmental costs alongside learning gains and implementation costs.
 
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-safety-harms]]
 - [[principled-ai-education]]
 - [[ground-truth-reliability-aied]]
@@ -4261,7 +4111,7 @@ Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Br
 ## [Awareness of Technological Isomorphism: AI in Elementary Math](https://edtechdev.github.io/aied/articles/awareness-technological-isomorphism/)
 
 > **Li & Cao (2026)** — Authors. Unknown institution.
-Introduces a novel core concept, **"Awareness of Technological Isomorphism,"** defined as a student's metacognitive realization that their own mathematical cognitive operations (observing trends, inducing patterns, making predictions) share an underlying logical structure with AI technical operations (pattern recognition, predictive modeling). This awareness facilitates [[ai-learning-transfer|cognitive transfer from disciplinary mathematics to AI comprehension]].
+Introduces a novel core concept, **"Awareness of Technological Isomorphism,"** defined as a student's metacognitive realization that their own mathematical cognitive operations (observing trends, inducing patterns, making predictions) share an underlying logical structure with AI technical operations (pattern recognition, predictive modeling). This awareness facilitates [[transfer-of-learning|cognitive transfer from disciplinary mathematics to AI comprehension]].
 
 The paper proposes a **three-stage pedagogical pathway** — Perception → Comprehension → Creation — validated through a case study on compound line graphs with fifth-grade students in China. This framework bridges elementary [[stem-education|mathematics education]] with [[ai-literacy|AI literacy]], offering a replicable model for deep convergence of disciplinary instruction and AI understanding. The concept is distinguished from computational thinking: it focuses on the isomorphic interface between domain knowledge and AI operations rather than programming skills.
 
@@ -4273,7 +4123,7 @@ The paper proposes a **three-stage pedagogical pathway** — Perception → Comp
 - [[ai-literacy]]
 ## Connected Articles
 
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 ## Citation
 
 Li, L., & Cao, Y. (2026). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction — A Case Study of the Compound Line Graph. [arXiv:2606.09598](https://arxiv.org/abs/2606.09598).
@@ -4611,8 +4461,8 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 - [[llm]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
@@ -5497,7 +5347,7 @@ RAG-Based, C.A.H., Question, A.A.S.F.M., Frederick, X.D., Wang1, A.C., multiple-
 > **Peter Fowles, Erik Falor, Sulove Bhattarai, John Edwards, Seth Poulsen (2026)** — Utah State University. arXiv:2605.21374 [cs.HC]
 Oral code reviews paired with a flipped classroom represent a pragmatic harm-reduction approach to generative AI in CS education. Rather than banning LLMs, Fowles et al. (2026) designed weekly formative assessments where students must explain their submitted code regardless of its origin. Over three semesters at Utah State University, keystroke logs confirmed significantly higher AI usage (increased paste-to-type ratios), yet exam scores showed no statistically significant decline. Students reported positive attitudes toward the code review format, with negative feedback centered on logistical issues (scheduling, TA training) rather than pedagogical objections.
 
-This study addresses a core tension in the [[ai-k12-evidence-base]]: how to maintain [[academic-integrity]] while acknowledging that AI tools are now part of professional practice. The approach aligns with [[ai-literacy]] frameworks that emphasize critical engagement over prohibition. Unlike AI detection tools, which create adversarial dynamics, oral assessments reframe the conversation around understanding and [[metacognition]]. The findings also complement research on [[over-reliance]] and [[cognitive-offloading]], suggesting that structured accountability mechanisms can preserve learning outcomes even as AI usage rises.
+This study addresses a core tension in the [[stanford-evidence-base-ai-k12-2026]]: how to maintain [[academic-integrity]] while acknowledging that AI tools are now part of professional practice. The approach aligns with [[ai-literacy]] frameworks that emphasize critical engagement over prohibition. Unlike AI detection tools, which create adversarial dynamics, oral assessments reframe the conversation around understanding and [[metacognition]]. The findings also complement research on [[over-reliance]] and [[cognitive-offloading]], suggesting that structured accountability mechanisms can preserve learning outcomes even as AI usage rises.
 
 The flipped classroom component is particularly notable — it creates dedicated time for one-on-one assessments without sacrificing content coverage, addressing a scalability concern that has limited adoption of oral assessment in large CS1 courses. This connects to broader discussions about [[formative-assessment]] design in AI-rich environments and the evolving role of [[teacher-role]] as learning facilitator rather than knowledge dispenser.
 
@@ -5512,7 +5362,7 @@ The flipped classroom component is particularly notable — it creates dedicated
 - [[teacher-role]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 Peter Fowles, Erik Falor, Sulove Bhattarai, John Edwards, Seth Poulsen (2026). [Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom](https://arxiv.org/abs/2605.21374). arXiv:2605.21374. arXiv:2605.21374 [cs.HC].
@@ -5779,7 +5629,7 @@ This study compares two approaches to profiling how learners offload cognitive a
 
 This preregistered large-scale study (N = 1,237) investigates whether people are well-calibrated in estimating the time savings from AI assistance on simple cognitive tasks. The key finding is a **speedup illusion**: participants accurately predict how long they'll take independently but significantly *underestimate* how long they'll take with AI assistance — despite actual completion times being equivalent between independent and AI-assisted conditions. Notably, this bias is AI-specific; the same miscalibration does not appear when participants imagine help from another human. A critical dissociation emerges between time and effort: participants report **lower subjective effort** with AI even when completion times are identical, suggesting subjective experience drives AI adoption more than objective efficiency.
 
-The findings complement the companion paper on the [[efficiency-gain-illusion-ai-overreliance]] (same authors, arXiv:2605.22687) which found people underestimate their rate of AI usage and overestimate benefits on simple tasks. Together, these studies reveal a **dual miscalibration** that could entrench inefficient [[over-reliance]] patterns: users choose AI believing it saves time and effort, when for simple tasks it may do neither. This has direct implications for educational settings — students using AI for simple cognitive work (arithmetic, basic writing, spell-checking) may [[cognitive-offloading|cognitively offload]] without actual efficiency gains, reducing [[ai-learning-transfer|learning transfer]] through diminished deliberate practice. Presented at CogSci 2026, the work bridges cognitive science and [[metacognition]] research with practical design implications for AI tools in learning environments.
+The findings complement the companion paper on the [[efficiency-gain-illusion-ai-overreliance]] (same authors, arXiv:2605.22687) which found people underestimate their rate of AI usage and overestimate benefits on simple tasks. Together, these studies reveal a **dual miscalibration** that could entrench inefficient [[over-reliance]] patterns: users choose AI believing it saves time and effort, when for simple tasks it may do neither. This has direct implications for educational settings — students using AI for simple cognitive work (arithmetic, basic writing, spell-checking) may [[cognitive-offloading|cognitively offload]] without actual efficiency gains, reducing [[transfer-of-learning|learning transfer]] through diminished deliberate practice. Presented at CogSci 2026, the work bridges cognitive science and [[metacognition]] research with practical design implications for AI tools in learning environments.
 
 ## Connected Concepts
 
@@ -5789,7 +5639,7 @@ The findings complement the companion paper on the [[efficiency-gain-illusion-ai
 ## Connected Articles
 
 - [[efficiency-gain-illusion-ai-overreliance]]
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 ## Citation
 
 Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins (2026). [Cognitive offloading and the speedup illusion in human-AI interaction](https://arxiv.org/abs/2605.23177). arXiv:2605.23177. Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026). - [[digital-literacy-illusion]] — Digital literacy illusion confirms AI overestimation in secondary students - [[llm-reasoning-traces-metacognition]] — Processing fluency account of trace-induced overconfidence - [[ai-productivity-moderation]] — Learning curve factor explains when AI productivity gains fail
@@ -6489,7 +6339,7 @@ Abdalla, M., Abdalla, S., Cappello, A., Dowling, K., Metaxa, D., Widder, D. G., 
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
 - [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 
 ## Citation
 
@@ -6614,7 +6464,7 @@ Nguyen, T., Nguyen, H., & Ogburn, R. (2026). [*AI-accelerated End-to-End Framewo
 ## [To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks](https://edtechdev.github.io/aied/articles/critical-engagement-code-completion/)
 
 > **Hutchison, Applebaum, Angelikas, Patel et al. (2026)** — cs.HC (ITiCSE 2026)
-Hutchison et al. (2026) develop and validate a method for measuring critical engagement with AI code completion tools in educational settings. Using behavioral signals (time-to-accept, edit distance from suggestion) and embedded attention checks, they find that the majority of students accept AI code suggestions passively, without critically evaluating correctness or appropriateness. This 'tab-and-go' behavior directly threatens the development of programming skills, as students bypass the cognitive effort required for [[ai-learning-transfer]]. The work provides a methodological toolkit for [[formative-assessment]] in AI-augmented programming courses, enabling instructors to detect when students are [[over-reliance|over-reliant]] on AI. The findings connect to [[student-experience]] research in [[stem-education]] by showing that the mere availability of AI tools does not lead to productive learning — structured pedagogical interventions are required to ensure students engage critically rather than deferring to AI output.
+Hutchison et al. (2026) develop and validate a method for measuring critical engagement with AI code completion tools in educational settings. Using behavioral signals (time-to-accept, edit distance from suggestion) and embedded attention checks, they find that the majority of students accept AI code suggestions passively, without critically evaluating correctness or appropriateness. This 'tab-and-go' behavior directly threatens the development of programming skills, as students bypass the cognitive effort required for [[transfer-of-learning]]. The work provides a methodological toolkit for [[formative-assessment]] in AI-augmented programming courses, enabling instructors to detect when students are [[over-reliance|over-reliant]] on AI. The findings connect to [[student-experience]] research in [[stem-education]] by showing that the mere availability of AI tools does not lead to productive learning — structured pedagogical interventions are required to ensure students engage critically rather than deferring to AI output.
 
 ## Connected Concepts
 
@@ -6624,7 +6474,7 @@ Hutchison et al. (2026) develop and validate a method for measuring critical eng
 - [[stem-education]]
 ## Connected Articles
 
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 ## Citation
 
 Jessica Hutchison, Ian Tyler Applebaum, Kenneth Angelikas, Kush Rakesh Patel, Phuoc Nguyen, Antonio Lazaro, Nicholas Rucinski, Rahad Arman Nabid, Stephen MacNeil (2026). [To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks](https://arxiv.org/abs/2606.30549). arXiv:2606.30549. cs.HC (ITiCSE 2026).
@@ -6761,9 +6611,9 @@ The framework identifies six interconnected cognitive and metacognitive processe
 
 This model aligns with the [[principled-ai-education]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[tutoring-specific-vs-general-ai]] that pedagogically-designed AI outperforms raw LLM chatbots on learning outcomes. The metacognitive focus connects to [[self-regulated-learning]] cycles of planning, monitoring, and evaluation, while drawing on feedback literacy principles (Carless & Boud, 2018).
 
-P1's use of counterarguments as cognitive stimuli parallels the [[socratic-ai-dialogue]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving learner agency connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[ai-learning-transfer]] — the central question of whether AI-assisted gains persist when tools are removed.
+P1's use of counterarguments as cognitive stimuli parallels the [[socratic-ai-dialogue]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving learner agency connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[transfer-of-learning]] — the central question of whether AI-assisted gains persist when tools are removed.
 
-P2's scaffolded positioning of LLMs aligns with [[ai-literacy]] frameworks that progress from understanding to critical engagement to creative application, and the framework's overall design-based research methodology parallels the evidence standards discussed in [[ai-k12-evidence-base]].
+P2's scaffolded positioning of LLMs aligns with [[ai-literacy]] frameworks that progress from understanding to critical engagement to creative application, and the framework's overall design-based research methodology parallels the evidence standards discussed in [[stanford-evidence-base-ai-k12-2026]].
 
 ## Practical Application
 
@@ -6796,9 +6646,9 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - [[scaffolding]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking
 - [[principled-ai-education]] — Principled AI in Education
@@ -7376,7 +7226,7 @@ Profile updates feed into an **adaptive strategy engine** that adjusts guidance 
 
 ## Significance for AIED
 
-ECNUClaw advances the field of [[personalized-learning]] by operationalizing real-time learner profiling within dialogue-based tutoring. Unlike static learner models in [[adaptive-learning]], ECNUClaw updates profiles turn-by-turn, enabling genuinely responsive [[intelligent-tutoring]] at scale. The five-dimensional profile connects to work on [[metacognition]] (metacognitive dimension), [[self-regulated-learning]] (contextual dimension), and [[affective-tutoring]] (emotional dimension). The system's grounding in Chinese educational frameworks also extends the geographic scope beyond Western-centric [[ai-k12-evidence-base]] research.
+ECNUClaw advances the field of [[personalized-learning]] by operationalizing real-time learner profiling within dialogue-based tutoring. Unlike static learner models in [[adaptive-learning]], ECNUClaw updates profiles turn-by-turn, enabling genuinely responsive [[intelligent-tutoring]] at scale. The five-dimensional profile connects to work on [[metacognition]] (metacognitive dimension), [[self-regulated-learning]] (contextual dimension), and [[affective-tutoring]] (emotional dimension). The system's grounding in Chinese educational frameworks also extends the geographic scope beyond Western-centric [[stanford-evidence-base-ai-k12-2026]] research.
 
 ## Open Questions
 
@@ -7395,7 +7245,7 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 - [[regulation]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[llm-student-modeling-memory]]
 ## Citation
 
@@ -7499,7 +7349,7 @@ Choice of LLM and prompting strategy accounts for only ~15% of misalignment. The
 1. **Stop benchmarking alone** — High scores on MMLU or even pedagogy-specific benchmarks do not predict beneficial educational impact. See [[teachbench-llm-teaching-evaluation]] for syllabus-grounded alternatives.
 2. **Ensembles are not a safety net** — When models share the same flawed pretraining priors, voting and weighting make things worse.
 3. **Pretraining is the intervention point** — The field's focus on post-hoc alignment (RLHF, prompting) misses that shared pretraining corpora embed the core misalignment. See [[pedagogical-llm-training]] for training approaches.
-4. **Measure impact directly** — Practitioners must evaluate against intended student outcomes, not proxy task accuracy. Connects to [[ai-k12-evidence-base]] demands for causal evidence.
+4. **Measure impact directly** — Practitioners must evaluate against intended student outcomes, not proxy task accuracy. Connects to [[stanford-evidence-base-ai-k12-2026]] demands for causal evidence.
 
 This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effectiveness literature]]: if even the best models can't align with student learning, what does "effective" tutoring AI look like? It also reinforces the [[tutoring-specific-vs-general-ai]] finding that general-purpose AI underperforms pedagogically-designed systems.
 
@@ -7515,7 +7365,7 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 ## Connected Articles
 
 - [[teachbench-llm-teaching-evaluation]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-effectiveness-review]]
 - [[tutoring-specific-vs-general-ai]]
 - [[llm-fallacy-misattribution]]
@@ -7956,7 +7806,7 @@ The finding that effort and progress have distinct predictive signatures is prac
 
 This paper extends the [[ai-tutor-effectiveness-review]] findings on what makes ITS effective by adding a temporal prediction layer. Where prior work evaluates whether tutoring works on average, engagement forecasting asks *when* it works and *for whom* — connecting to the personalized intervention paradigm in [[collaborative-ai-tutoring]].
 
-The focus on middle-school students (N=425) aligns with the [[ai-k12-evidence-base]], which calls for more rigorous K-12 efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within educational data mining.
+The focus on middle-school students (N=425) aligns with the [[stanford-evidence-base-ai-k12-2026]], which calls for more rigorous K-12 efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within educational data mining.
 
 ## Methodological Contribution
 
@@ -7968,7 +7818,7 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 
 - [[ai-tutor-effectiveness-review]]
 - [[collaborative-ai-tutoring]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[genai-tutor-engagement-patterns]]
 ## Citation
 
@@ -8394,9 +8244,9 @@ The paper includes concrete scenarios illustrating how multiple principles inter
 
 Finkelstein's framework directly challenges the prevailing discourse that oscillates between uncritical AI adoption and reactionary prohibition. By grounding decisions in explicit principles derived from decades of learning sciences scholarship, educators and policy makers gain a stable foundation for action even as AI technologies evolve rapidly. The framework is deliberately flexible — designed for varied educational contexts across disciplines and institution types while maintaining fidelity to enduring educational values.
 
-The emphasis on **discernment**, **empathy**, and **sense of self** as non-negotiable educational outcomes has profound implications for AI tool design. Systems that optimize for immediate task completion at the expense of student reflection, that reduce collaborative learning to isolated human-AI interaction, or that erode students' sense of belonging and agency fail the principled test — regardless of their technical sophistication. This aligns with findings from [[ai-learning-transfer]] showing that AI-assisted performance gains frequently fail to transfer to unassisted contexts, and with [[desirable-difficulties]] research demonstrating that easier practice can harm long-term retention.
+The emphasis on **discernment**, **empathy**, and **sense of self** as non-negotiable educational outcomes has profound implications for AI tool design. Systems that optimize for immediate task completion at the expense of student reflection, that reduce collaborative learning to isolated human-AI interaction, or that erode students' sense of belonging and agency fail the principled test — regardless of their technical sophistication. This aligns with findings from [[transfer-of-learning]] showing that AI-assisted performance gains frequently fail to transfer to unassisted contexts, and with [[desirable-difficulties]] research demonstrating that easier practice can harm long-term retention.
 
-The framework also speaks to the growing evidence gap documented in [[ai-k12-evidence-base]]: without principled foundations, the rush to implement AI in education proceeds without adequate causal evidence of effectiveness. Finkelstein's approach provides a normative compass — even where empirical evidence is thin, principles grounded in learning science can guide responsible implementation while research catches up.
+The framework also speaks to the growing evidence gap documented in [[stanford-evidence-base-ai-k12-2026]]: without principled foundations, the rush to implement AI in education proceeds without adequate causal evidence of effectiveness. Finkelstein's approach provides a normative compass — even where empirical evidence is thin, principles grounded in learning science can guide responsible implementation while research catches up.
 
 For course design, the framework connects directly to [[scaffolding]] practices and the [[zone-of-proximal-development]]: AI tools should provide support calibrated to learner readiness, not do the work for students. It also intersects with [[ai-metacognition-stem-review]] findings on how AI can either support or undermine metacognitive development depending on implementation choices.
 
@@ -8414,8 +8264,8 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 - [[curriculum-design]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
@@ -8723,7 +8573,7 @@ Kapsalis (2026) presents one of the first empirical studies of generative AI int
 
 This work extends the [[generative-ai]] education literature beyond text-based domains (coding, writing) into visual-spatial design disciplines. The finding that gen-AI tools broadened participation is particularly significant for [[equity]] research — students who traditionally struggled with manual drafting or 3D modeling gained new entry points. This connects to [[ai-literacy]] discussions about AI as an accessibility tool and [[personalized-learning]] frameworks that emphasize multiple pathways to competence.
 
-The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educational-measurement]] and privacy-conscious deployment. The study operationalizes [[constructivist]] principles by positioning AI as a tool for learner-led meaning-making within human-AI networks. For [[faculty-development]], the paper provides evidence-based guidance on gen-AI integration in studio-based disciplines, an area where the [[ai-k12-evidence-base]] and related literature have been thin.
+The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educational-measurement]] and privacy-conscious deployment. The study operationalizes [[constructivist]] principles by positioning AI as a tool for learner-led meaning-making within human-AI networks. For [[faculty-development]], the paper provides evidence-based guidance on gen-AI integration in studio-based disciplines, an area where the [[stanford-evidence-base-ai-k12-2026]] and related literature have been thin.
 
 ## Connected Concepts
 
@@ -8736,7 +8586,7 @@ The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educati
 - [[faculty-development]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
 Timo Kapsalis (2026). [Gen-AI-tecture: using generative AI to support architectural students in design tasks](https://arxiv.org/abs/2605.21361). arXiv:2605.21361. arXiv:2605.21361 [cs.HC] — Submitted to Journal of Architectural Education.
@@ -9169,7 +9019,7 @@ Maier, Gunzenhäuser & Schweisthal (2026) conduct a **meta-analysis synthesizing
 
 ## Key Findings
 
-The meta-analysis examines the **productivity-learning trade-off** that sits at the heart of [[ai-learning-transfer]] debates: when AI tools boost immediate coding output, do they simultaneously undermine the development of foundational programming skills? This directly connects to the broader question of whether [[tutoring-specific-vs-general-ai]] matters — general AI coding assistants may optimize for productivity at the expense of learning.
+The meta-analysis examines the **productivity-learning trade-off** that sits at the heart of [[transfer-of-learning]] debates: when AI tools boost immediate coding output, do they simultaneously undermine the development of foundational programming skills? This directly connects to the broader question of whether [[tutoring-specific-vs-general-ai]] matters — general AI coding assistants may optimize for productivity at the expense of learning.
 
 ## Significance for AIED
 
@@ -9199,7 +9049,7 @@ The findings have implications beyond programming — the productivity-learning 
 - [[stem-education]]
 ## Connected Articles
 
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 - [[tutoring-specific-vs-general-ai]]
 - [[collaborative-ai-tutoring]]
 - [[agentic-education-coding]]
@@ -9940,9 +9790,9 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
 - [[ai-stem-bibliometric-trends]] — Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
@@ -10272,7 +10122,7 @@ This systematic review is among the first to map the intersection of [[collabora
 
 **Classroom-centric but expanding.** Most studies took place in classroom settings, but the review identified emerging patterns of collaboration that extend beyond traditional boundaries: educator-family partnerships, peer-to-peer learning communities, and AI-agent-supported teamwork. These expanding participation models connect to the [[community-centered-ai-education-adults]] paradigm and suggest pathways toward more inclusive [[ai-literacy-equity-programming-policy]].
 
-**Limited but growing evidence base.** The small sample size (9 studies) reflects the nascency of empirical research at this intersection. The authors note the need for more rigorous study designs, larger sample sizes, and longitudinal tracking of AI literacy development — concerns echoed in broader calls for [[ai-k12-evidence-base]] research.
+**Limited but growing evidence base.** The small sample size (9 studies) reflects the nascency of empirical research at this intersection. The authors note the need for more rigorous study designs, larger sample sizes, and longitudinal tracking of AI literacy development — concerns echoed in broader calls for [[stanford-evidence-base-ai-k12-2026]] research.
 
 ## Implications
 
@@ -10295,7 +10145,7 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 ## Connected Articles
 
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
 - [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
 - [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
@@ -12610,7 +12460,7 @@ Using LLMs to simulate students is an emerging practice in educational research,
 
 ## Connections to Wiki
 
-This work extends the [[llm-student-modeling-memory]] discourse on how LLMs represent learners over time, but applies it to **simulation validity** rather than tutoring personalization. The focus on ADHD profiles connects to broader [[student-experience]] research and highlights gaps in [[ai-k12-evidence-base]] — the Stanford SCALE review found few studies with adequate causal inference for special education populations.
+This work extends the [[llm-student-modeling-memory]] discourse on how LLMs represent learners over time, but applies it to **simulation validity** rather than tutoring personalization. The focus on ADHD profiles connects to broader [[student-experience]] research and highlights gaps in [[stanford-evidence-base-ai-k12-2026]] — the Stanford SCALE review found few studies with adequate causal inference for special education populations.
 
 The simulation methodology also raises questions about [[ai-tutor-safety-harms]] — if tutoring systems are tested on simulated neurodivergent learners, do the safety assessments generalize? This echoes [[educational-vlm-evaluation]] concerns about AI systems that underperform with specific student populations.
 
@@ -12630,7 +12480,7 @@ The simulation methodology also raises questions about [[ai-tutor-safety-harms]]
 ## Connected Articles
 
 - [[llm-student-modeling-memory]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-safety-harms]]
 - [[educational-vlm-evaluation]]
 - [[multimodal-ai-tutoring]]
@@ -12707,7 +12557,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 ## Relationship to Existing Wiki Concepts
 
 - [[metacognition]] — The LLM fallacy is a metacognitive calibration failure: students cannot accurately monitor their own understanding because fluent AI output creates false fluency signals
-- [[ai-learning-transfer]] — Misattribution undermines transfer because students believe they have mastered material they have merely prompted; the gap between perceived and actual capability manifests as transfer failure
+- [[transfer-of-learning]] — Misattribution undermines transfer because students believe they have mastered material they have merely prompted; the gap between perceived and actual capability manifests as transfer failure
 - [[ai-tutor-safety-harms]] — SafeTutors' Cognitive (fluency illusion) and Ethical-Epistemic (misrepresentation) dimensions are tutoring-specific expressions of the fallacy
 - [[self-regulated-learning]] — Attribution ambiguity disrupts the self-evaluation phase of SRL, preventing accurate causal attribution and adaptation
 
@@ -12733,7 +12583,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[authentic-assessment]] — Authentic Assessment
 - [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
@@ -12905,7 +12755,7 @@ This paper introduces Epi2Diff (Episode to Difficulty), a framework that maps LL
 
 The work connects to [[knowledge-tracing-irt|knowledge tracing and IRT]] by offering a process-level view of item difficulty that complements traditional outcome-based models. It has implications for [[adaptive-learning|adaptive learning systems]], where more precise difficulty estimates enable better [[personalized-learning|personalized item selection]], and for [[learning-analytics|learning analytics]], where reasoning trace analysis can provide instructors with fine-grained diagnostic information about which cognitive steps students find challenging.
 
-This approach represents a novel intersection of LLM benchmarking and [[assessment]] design, suggesting that reasoning models can serve as cognitive proxies for human test-takers in [[k-12|K-12]] and [[higher-ed|higher education]] settings. It connects to [[ai-learning-transfer|AI learning transfer]] by examining how model reasoning processes mirror human cognitive processes during problem-solving.
+This approach represents a novel intersection of LLM benchmarking and [[assessment]] design, suggesting that reasoning models can serve as cognitive proxies for human test-takers in [[k-12|K-12]] and [[higher-ed|higher education]] settings. It connects to [[transfer-of-learning|AI learning transfer]] by examining how model reasoning processes mirror human cognitive processes during problem-solving.
 
 ## Connected Concepts
 
@@ -12919,7 +12769,7 @@ This approach represents a novel intersection of LLM benchmarking and [[assessme
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 ## Citation
 
 Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026). [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](https://arxiv.org/abs/2606.28186). arXiv:2606.28186. Computation and Language (cs.CL).
@@ -13160,7 +13010,7 @@ Current AI tutoring systems treat each session as independent. Adaptive systems 
 
 1. **Preferences shift** — A student may initially prefer worked examples, later shift to Socratic questioning, then return to examples under stress
 2. **Expertise builds** — [[self-regulated-learning|SRL skills]] develop over time, changing what scaffolding is appropriate
-3. **Transfer depends on history** — Whether [[ai-learning-transfer|AI-assisted gains persist]] may depend on whether the tutor *remembers* past learning and spacing
+3. **Transfer depends on history** — Whether [[transfer-of-learning|AI-assisted gains persist]] may depend on whether the tutor *remembers* past learning and spacing
 
 ## The PersonaVLM Architecture (General Framework)
 
@@ -13209,7 +13059,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 1. What educational personality/adaptation dimensions should replace/modify Big Five? (e.g., academic goal orientation, prior knowledge state, metacognitive monitoring accuracy)
 2. How does longitudinal memory interact with spaced repetition and forgetting curves?
-3. Would a tutoring system with PersonaVLM-style memory produce better [[ai-learning-transfer|transfer outcomes]] than episodic-only systems?
+3. Would a tutoring system with PersonaVLM-style memory produce better [[transfer-of-learning|transfer outcomes]] than episodic-only systems?
 4. What are the pedagogical guardrails needed to prevent personalization from becoming over-accommodation?
 
 ## Connected Concepts
@@ -13219,7 +13069,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 - [[knowledge-tracing-irt]]
 - [[nie-personavlm-long-term-personalization-2026]]
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 
@@ -14986,7 +14836,7 @@ Unlike standard benchmark datasets (MMLU, GSM8K), NSMQ Riddles:
 - Features **progressive clue revelation** — early clues are vague (worth more points), testing incremental reasoning
 - Covers **biology, chemistry, physics, and math** at the high school level
 - Evaluates models against **human student performance** in a competitive format
-- Represents African educational content, addressing geographic bias in [[ai-k12-evidence-base]]
+- Represents African educational content, addressing geographic bias in [[stanford-evidence-base-ai-k12-2026]]
 
 The benchmark found that even state-of-the-art models (GPT-5.4, Gemini 3.1 Pro, Claude Opus 4.6) **underperform the best student contestants**, highlighting gaps in LLM scientific reasoning.
 
@@ -15008,7 +14858,7 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 - [[pedagogical-llm-training]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[teachbench-llm-teaching-evaluation]]
 - [[educational-vlm-evaluation]]
 - [[civic-education-ai-lesson-plans]]
@@ -15532,7 +15382,7 @@ This principle is the through-line of the framework. Technology use must be alig
 
 | Finkelstein principle | Supporting wiki evidence | Tension |
 |---|---|---|
-| Goals before tools | [[ai-k12-evidence-base]] (few causal studies because goals were ill-defined) | Industry pressure to deploy fast |
+| Goals before tools | [[stanford-evidence-base-ai-k12-2026]] (few causal studies because goals were ill-defined) | Industry pressure to deploy fast |
 | Augment, not displace | [[ai-tutor-safety-harms]] (displacement harms catalogued) | [[llm-fallacy-misattribution]] (users willingly displace themselves) |
 | Meaningful learning | [[self-regulated-learning]] (SRL as meaningful engagement) | Convenience tempts toward shortcut design |
 | Democratic societies | [[ai-literacy]] (distributed AI literacy for citizenship) | Platform concentration concentrates power |
@@ -15564,8 +15414,8 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
 - [[authentic-assessment]] — Authentic Assessment
@@ -16834,7 +16684,7 @@ This paper directly informs several threads in the wiki:
 - **[[metacognition]]**: The engagement-learning disconnect exemplifies the metacognitive calibration problem — students felt they were learning more with sequenced feedback when they were actually learning less
 - **[[ai-peer-feedback-systems]]**: Multi-LLM collaborative feedback systems must consider feedback sequencing carefully to avoid the pitfalls identified here
 - **[[pedagogy-ai-mistakes]]**: Hosseini's work on deliberately leveraging AI errors connects to the finding that easy, encouraging feedback may be less pedagogically effective than direct correction
-- **[[ai-learning-transfer]]**: The learning outcome disparity between conditions raises transfer implications — do sequenced-feedback students retain less when the scaffolding is removed?
+- **[[transfer-of-learning]]**: The learning outcome disparity between conditions raises transfer implications — do sequenced-feedback students retain less when the scaffolding is removed?
 
 ## Methodological Strengths
 
@@ -16861,7 +16711,7 @@ This paper directly informs several threads in the wiki:
 - [[prober-ai-inquiry-writing]]
 - [[ai-peer-feedback-systems]]
 - [[pedagogy-ai-mistakes]]
-- [[ai-learning-transfer]]
+- [[transfer-of-learning]]
 ## Citation
 
 Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R. (2026). [Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning](https://arxiv.org/abs/2604.07469). arXiv:2604.07469.
@@ -17054,10 +16904,10 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
 - [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
 
 ## Citation
@@ -17416,7 +17266,7 @@ Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. 
 
 **The Evidence Gap.** Of 818 papers in the AI Hub Research Repository, only 20 met What Works Clearinghouse (2025) standards for strong causal inference (RCTs or quasi-experimental designs). Zero high-quality causal studies examine U.S. K-12 *student* settings; very few exist for U.S. K-12 *educators*. Most causal research is international, conducted in postsecondary settings, short-term (often single 20-minute sessions), and focused on immediate outcomes. The repository grew from 28 relevant papers in January 2023 to over 800 by October 2025, but methodological rigor has not kept pace with volume.
 
-**Immediate Gains, Uncertain Transfer.** AI significantly improves performance *while students use it* — math proofs, programming, economics exams, physics, and argumentative writing all show gains during AI-supported practice. However, effects are mixed or negative when AI is removed. Bastani et al. (2025) found high schoolers using a general-purpose chatbot for math practice performed **~17% worse** on closed-book final exams than peers with no AI access, despite higher practice grades. Chen et al. (2025) found LLM-Tutor improved homework scores but did not improve unassisted exam scores. Lehmann et al. (2025) found general-purpose AI for programming increased topics covered but harmed understanding and widened achievement gaps for low-prior-knowledge students. Kosmyna et al. (2025) found AI essay assistance led to **83% of participants failing to recall a quote** from their own essay, versus 11% for non-AI users. This pattern — performance boost during use, learning loss after removal — is the central empirical finding of the review and directly implicates [[ai-learning-transfer]] as the most critical open question in AI education research.
+**Immediate Gains, Uncertain Transfer.** AI significantly improves performance *while students use it* — math proofs, programming, economics exams, physics, and argumentative writing all show gains during AI-supported practice. However, effects are mixed or negative when AI is removed. Bastani et al. (2025) found high schoolers using a general-purpose chatbot for math practice performed **~17% worse** on closed-book final exams than peers with no AI access, despite higher practice grades. Chen et al. (2025) found LLM-Tutor improved homework scores but did not improve unassisted exam scores. Lehmann et al. (2025) found general-purpose AI for programming increased topics covered but harmed understanding and widened achievement gaps for low-prior-knowledge students. Kosmyna et al. (2025) found AI essay assistance led to **83% of participants failing to recall a quote** from their own essay, versus 11% for non-AI users. This pattern — performance boost during use, learning loss after removal — is the central empirical finding of the review and directly implicates [[transfer-of-learning]] as the most critical open question in AI education research.
 
 **Easier Doesn't Mean Better.** Students consistently report greater enjoyment and reduced cognitive burden when using AI tools. However, reduced effort can undermine deeper learning. Kreijkes et al. (2026) found retention improved only when AI use was paired with traditional strategies like note-taking. Stadler et al. (2024) found general-purpose AI reduced [[cognitive-load-theory|cognitive load]] but produced lower-quality reasoning and argumentation compared to traditional search. This aligns with [[desirable-difficulties]] research: making practice easier often harms long-term retention and transfer, even when it feels better in the moment.
 
@@ -17450,8 +17300,7 @@ For the research community, the review functions as both a wake-up call and a ro
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
-- [[ai-learning-transfer]] — AI Learning Transfer
+- [[transfer-of-learning]] — Transfer of Learning
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
@@ -17477,7 +17326,7 @@ For the research community, the review functions as both a wake-up call and a ro
 
 ## Citation
 
-Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*Stanford Evidence Base: AI in K-12 Education*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
+Stanford SCALE Initiative, AI Hub for Education. (2026). [*The Evidence Base on AI in K-12: A 2026 Review*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf). Stanford University.
 
 ---
 
@@ -19642,7 +19491,7 @@ Analytics for collaborative learning environments that surface group dynamics an
 
 ## Significance for AIED
 
-The XAI-ED framework has become a foundational reference in AIED, cited across the [[ai-k12-evidence-base]], [[ai-tutor-safety-harms]], and [[ai-literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety]] and [[human-in-the-loop-ai]] design.
+The XAI-ED framework has become a foundational reference in AIED, cited across the [[stanford-evidence-base-ai-k12-2026]], [[ai-tutor-safety-harms]], and [[ai-literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety]] and [[human-in-the-loop-ai]] design.
 
 ## Connected Concepts
 
@@ -19663,7 +19512,7 @@ The XAI-ED framework has become a foundational reference in AIED, cited across t
 - [[pedagogical-safety]]
 ## Connected Articles
 
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-tutor-safety-harms]]
 ## Citation
 
@@ -19828,7 +19677,7 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 - [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
-- [[ai-k12-evidence-base]] — AI in K-12 Evidence Base
+- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
 
 ## Citation
@@ -22114,7 +21963,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 
 - **Safety and guardrailing:** K-12 AI use demands stronger [[pedagogical-safety]] protections. [[eduzone-llm-safety-k12|EduZone]], [[eduguard-safe-rag-llm-tutor|EduGuard]], and [[ai-tutor-safety-harms|tutor harm research]] specifically address child-safe AI interaction.
 - **AI literacy curricula:** [[aaai2026-prompting-literacy-k12|K-12 AI literacy modules]] and [[brookings-ai-students-report|policy frameworks]] develop age-appropriate AI understanding. The [[gaide-vibe-coding-k12-teachers|vibe coding framework]] empowers teachers to create their own AI tools.
-- **Evidence base:** [[ai-k12-evidence-base|The K-12 AI evidence base]] and [[stanford-evidence-base-ai-k12-2026|Stanford evidence reviews]] aggregate what works at scale.
+- **Evidence base:** [[stanford-evidence-base-ai-k12-2026|The K-12 AI evidence base]] aggregates what works at scale, with [[transfer-of-learning]] as the critical open question about whether AI-assisted gains persist.
 - **Tutoring at grade level:** [[ecnuclaw-k12-personalized-companion|K-12 personalized companions]] and [[correct-answer-trap-ai-tutor|correct answer trap research]] examine tutoring effectiveness for younger students.
 - **Developmental appropriateness:** [[child-safety-genai|Child safety research]] and [[special-education]] considerations address the needs of diverse K-12 populations.
 
@@ -22147,7 +21996,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[ai-tutor-safety-harms]]
 - [[aaai2026-prompting-literacy-k12]]
 - [[brookings-ai-students-report]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ecnuclaw-k12-personalized-companion]]
 - [[gaide-vibe-coding-k12-teachers]]
 
@@ -22532,7 +22381,7 @@ This suggests that **metacognitive support and motivation are not identical**. T
 ## Connected Articles
 
 - [[ai-adoption-training-public-sector]]
-- [[ai-k12-evidence-base]]
+- [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-learning-companions-framework]]
 - [[ai-making-us-stupid]]
 - [[ai-metacognition-stem-review]]
@@ -23853,6 +23702,87 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[gaide-vibe-coding-k12-teachers]]
 - [[teacher-authored-prompts-student-ai-dialogue]]
 - [[ai-tpack-preservice-math-teachers]]
+
+---
+
+## [Transfer of Learning](https://edtechdev.github.io/aied/concepts/transfer-of-learning/)
+
+> **Transfer of Learning** — the extent to which knowledge or skills acquired in one context (e.g., practice with an AI tool) persist and apply in a different context (e.g., independent performance without the tool). In AI in education, transfer is the central open question: whether performance gains students show *with* AI tools translate into durable learning they can demonstrate *without* them.
+
+Transfer of learning is a foundational concern in education research, and AI tools have made it urgent. The defining empirical pattern documented across AI in education studies is a **transfer paradox**: students using AI typically show immediate, measurable gains on tasks where AI is available, but those gains often fail to persist — or even reverse — when AI is removed and students must demonstrate understanding independently. This pattern implicates [[over-reliance]], [[cognitive-load-theory]], and [[metacognition]] as the mechanisms at work, and connects directly to debates about [[ai-tutoring]] design.
+
+### The transfer paradox
+
+Students using AI typically show **immediate, measurable gains** on the tasks where AI is available. Yet when AI is removed:
+
+- Effects become **mixed or negative**
+- Gains often **fail to transfer** to unassessed settings
+- Students may become **dependent on the tool** at the expense of independent reasoning
+
+The evidence base, synthesized in the [[stanford-evidence-base-ai-k12-2026|Stanford Evidence Base on AI in K-12]] review, is consistent across domains:
+
+| Study | Context | Immediate Effect | Transfer Effect | Mechanism |
+|---|---|---|---|---|
+| Bastani et al. (2025) | High school math | Higher practice grades | **~17% worse** on closed-book finals | General-purpose chatbot did the work |
+| Chen et al. (2025) | Programming homework | Higher homework scores | **No improvement** on unassisted exams | LLM-Tutor solved problems for students |
+| Lehmann et al. (2025) | Programming | More topics covered | **Harmed understanding**; widened gaps | General AI for low-prior learners |
+| Stadler et al. (2024) | Academic research | Faster task completion | **Lower-quality reasoning** vs. search | Reduced cognitive engagement |
+| Kosmyna et al. (2025) | Essay writing | Higher essay quality | **83% failed to recall** their own quotes | Outsourced authorship |
+
+All five studies show a **negative or null transfer** pattern when general-purpose AI is the intervention.
+
+### Mechanisms undermining transfer
+
+**Metacognitive displacement.** AI completing reasoning reduces opportunities for students to monitor their own understanding and select strategies. Students who used AI were less able to explain their answers when queried. This connects to [[metacognition]] research on self-monitoring and the [[vibe-compiler-metacognition-genai-agency-2026|evidence that structured courses increase metacognitive competence while raw LLM assistants do not]].
+
+**Germane load suppression.** General-purpose AI reduces not just extraneous (distracting) cognitive load but also *germane* load — the productive mental effort that encodes durable knowledge. Easier practice feels better but stores weaker traces. See [[cognitive-load-theory]] and the distinction between [[tutoring-specific-vs-general-ai|tutoring-specific vs general AI]].
+
+**Over-reliance / expertise reversal.** Novices given answers do not build schemas. General AI provides answers; effective tutoring provides structured guidance. When novices are given expert-level shortcuts, learning is disrupted — the [[desirable-difficulties]] principle in reverse.
+
+**Tool-dependent performance.** Students may optimize for the specific affordances of the AI tool (prompt engineering, reliance on generated code structure) rather than building domain generalization — a form of [[cognitive-offloading-speedup-illusion|cognitive offloading]] that feels productive but displaces durable learning.
+
+### Conditions supporting positive transfer
+
+The limited evidence suggests transfer is possible when:
+
+- **Pedagogical guardrails are present** — step-by-step hints, misconception targeting, Socratic questioning (Bastani et al., 2025 tutoring variant)
+- **Traditional strategies are preserved** — note-taking paired with AI use improved retention (Kreijkes et al., 2026)
+- **AI is used for formative, not summative, practice** — scaffolding during learning, not during assessment
+- **Learner expertise is calibrated** — the tool adapts support to readiness rather than defaulting to full assistance
+
+This aligns with [[ai-tutoring]] research showing that tutoring-specific tools with pedagogical guardrails outperform general-purpose chatbots, and with [[scaffolding]] principles about fading support as competence grows.
+
+### Unanswered questions
+
+1. **Time scale:** Does transfer improve over weeks/months of use, or does dependence deepen?
+2. **Domain differences:** Is transfer better in well-structured domains (math) vs. ill-structured domains (writing)?
+3. **Individual differences:** Do high-prior-knowledge students suffer less transfer loss than novices?
+4. **Skill remediation:** Can explicit "AI-off" practice sessions reverse tool dependence?
+
+### Connections to related concepts
+
+Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), [[cognitive-load-theory]] (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[over-reliance]] (tool dependence), and [[zone-of-proximal-development]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[tutoring-specific-vs-general-ai]] and the central question for [[ai-tutoring]] effectiveness.
+
+## Connected Concepts
+
+- [[metacognition]]
+- [[cognitive-load-theory]]
+- [[desirable-difficulties]]
+- [[over-reliance]]
+- [[scaffolding]]
+- [[zone-of-proximal-development]]
+- [[ai-tutoring]]
+- [[k-12]]
+- [[self-regulated-learning]]
+## Connected Articles
+
+- [[stanford-evidence-base-ai-k12-2026]]
+- [[tutoring-specific-vs-general-ai]]
+- [[educational-llm-alignment]]
+- [[cognitive-offloading-speedup-illusion]]
+- [[vibe-compiler-metacognition-genai-agency-2026]]
+- [[ai-tutor-safety-harms]]
+- [[brookings-ai-students-report]]
 
 ---
 
