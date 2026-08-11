@@ -41,4 +41,4 @@ SlidesQAQA represents a practical step toward AI systems that understand pedagog
 - [[aissa-slides-analysis]]
 ## Citation
 
-Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
+Salsman, J. (2026). [*Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation*](https://arxiv.org/abs/2605.26428). arXiv:2605.26428.

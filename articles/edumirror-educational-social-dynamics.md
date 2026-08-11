@@ -17,3 +17,6 @@ EduMirror introduces a multi-agent simulator for studying educational social dyn
 - [[learning-analytics]]
 ## Connected Articles
 
+## Citation
+
+Lin, J., Yu, H., Zeng, Y., & Zhong, F. (2026). [*EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation*](https://arxiv.org/abs/2606.07948). arXiv:2606.07948.

@@ -17,4 +17,4 @@ confidence: medium
 
 ## Citation
 
-Zhang-Kopf, A.C.L.G.G.Y., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education*](https://doi.org/10.1016/j.caeai.2026.100642)
+Li, C., Gülfidan, G., & Zhang-Kopf, Y. (2026). [*Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education*](https://doi.org/10.1016/j.caeai.2026.100642).

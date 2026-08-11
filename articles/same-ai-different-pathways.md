@@ -47,4 +47,4 @@ confidence: medium
 
 ## Citation
 
-Shen, A.Q., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts*](https://doi.org/10.1016/j.caeai.2026.100601)
+Shen, Q. (2026). [*Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts*](https://doi.org/10.1016/j.caeai.2026.100601).

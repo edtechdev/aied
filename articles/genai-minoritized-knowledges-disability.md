@@ -41,4 +41,4 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 - [[genai-assessment-governance]]
 ## Citation
 
-Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
+Tali-Otmani, F. (2026). [*Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: The case of disability*](https://arxiv.org/abs/2605.26769). arXiv:2605.26769.

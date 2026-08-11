@@ -114,4 +114,4 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 
 ## Citation
 
-Qin, N.W.D.Z.H.X.S.J., doi:[10.1016/j.caeai.2026.100653](https://doi.org/10.1016/j.caeai.2026.100653), C.A.E.A.I.A.J., applications, G.A.A.S.A.I.P.F.E., 2026, R.S.M.S.P.B.J.A.M., technical, H.E.S.D.A.T.T.S.I.T.O., technologies, I.G.M.A.L.A.T.M.W.A., the, W.O.A.O.F.A.P.R.L.A.A., & studies, F.A.E.P.T.G.R.L.O. (2026). [*Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm*](https://doi.org/10.1016/j.caeai.2026.100653),). https://doi.org/10.1016/j.caeai.2026.100653
+Wang, N., Zou, D., Xie, H., & Qin, S. J. (2026). [*A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities, and insights from the frontier agent paradigm, exemplified by OpenClaw*](https://doi.org/10.1016/j.caeai.2026.100653).

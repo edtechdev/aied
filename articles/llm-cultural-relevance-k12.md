@@ -15,4 +15,4 @@ sources: []
 
 ## Citation
 
-LLMs for Culturally Relevant K-12 Pedagogy
+Wang, J., Xiao, R., Hou, X., Li, H., Tseng, Y. J., Stamper, J., & Koedinger, K. (2025). [*LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example*](https://arxiv.org/abs/2505.08083). arXiv:2505.08083.

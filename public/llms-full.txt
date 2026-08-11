@@ -371,6 +371,10 @@ The Adaptive Virtual Patient (AVP) is an LLM-driven simulated patient for psycho
 - [[intelligent-tutoring]]
 ## Connected Articles
 
+## Citation
+
+Chen, A., Jin, S., Bao, C., Wang, C., Kraut, R. E., Wu, T., & Zhu, H. (2026). [*The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills*](https://arxiv.org/abs/2606.10051). arXiv:2606.10051.
+
 ---
 
 ## [Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education](https://edtechdev.github.io/aied/articles/adhd-video-segmentation-computing-education/)
@@ -721,7 +725,7 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 
 ## Citation
 
-Qin, N.W.D.Z.H.X.S.J., doi:[10.1016/j.caeai.2026.100653](https://doi.org/10.1016/j.caeai.2026.100653), C.A.E.A.I.A.J., applications, G.A.A.S.A.I.P.F.E., 2026, R.S.M.S.P.B.J.A.M., technical, H.E.S.D.A.T.T.S.I.T.O., technologies, I.G.M.A.L.A.T.M.W.A., the, W.O.A.O.F.A.P.R.L.A.A., & studies, F.A.E.P.T.G.R.L.O. (2026). [*Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm*](https://doi.org/10.1016/j.caeai.2026.100653),). https://doi.org/10.1016/j.caeai.2026.100653
+Wang, N., Zou, D., Xie, H., & Qin, S. J. (2026). [*A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities, and insights from the frontier agent paradigm, exemplified by OpenClaw*](https://doi.org/10.1016/j.caeai.2026.100653).
 
 ---
 
@@ -2251,7 +2255,7 @@ Highlights critical misalignment between self-reported AI literacy and actual pe
 
 ## Citation
 
-AI Literacy Assessment: Self-Reported vs Performance Misalignment
+Zhang, S., Xiao, R., Botelho, A. F., Liao, G., Chiu, T. K. F., Stamper, J., & Koedinger, K. R. (2026). [*How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures*](https://arxiv.org/abs/2601.06101). arXiv:2601.06101.
 
 ---
 
@@ -2388,6 +2392,10 @@ The emphasis on bounded AI support — rather than open-ended tutoring — disti
 - [[personalized-learning]]
 - [[scaffolding]]
 ## Connected Articles
+
+## Citation
+
+Etchie, M. P., & Olutosin, T. (2026). [*AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High School and Beyond*](https://arxiv.org/abs/2606.07544). arXiv:2606.07544.
 
 ---
 
@@ -3023,6 +3031,10 @@ This paper presents an AI-based speech processing approach to analyze classroom 
 - [[teacher-role]]
 ## Connected Articles
 
+## Citation
+
+Liu, Y., Martinez-Maldonado, R., Alfredo, R., Mejia-Domenzain, P., Rahayu, D., & Nawaz, S. (2026). [*AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design*](https://arxiv.org/abs/2606.09831). arXiv:2606.09831.
+
 ---
 
 ## [AI tools in Arab University English classrooms: Looking back and forward](https://edtechdev.github.io/aied/articles/ai-tools-arab-english-classrooms/)
@@ -3070,7 +3082,7 @@ Shormani & Alshawsh (2026). [AI tools in Arab University English classrooms: Loo
 
 ## Citation
 
-Egara, A.M.M.F.A.N.F., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study*](https://doi.org/10.1016/j.caeai.2026.100650)
+Mosia, M., Nannim, F. A., & Egara, F. (2026). [*AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study*](https://doi.org/10.1016/j.caeai.2026.100650).
 
 ---
 
@@ -3350,7 +3362,7 @@ First systematic review of AI in vocational education (26 studies, 2015-2026). I
 
 ## Citation
 
-100628, S.C.A.E.A.I.V. & Access), L.C.B. (2026). [*Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness*](https://doi.org/10.1016/j.caeai.2026.100628)
+Deutscher, V., Thomann, H., Zlatkin-Troitschanskaia, O., Weyland, U., Abele, S., Danek, A. H., Greiff, S., Rausch, A., Seeber, S., Seifried, J., & Winther, E. (2026). [*Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness*](https://doi.org/10.1016/j.caeai.2026.100628).
 
 ---
 
@@ -4426,7 +4438,7 @@ Castillo Ventura et al. (2026) address the gap between instructional design of d
 
 ## Citation
 
-WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+Castillo Ventura, E., Solis Lastra, J. U., & Alves Franco Brandão, A. (2026). [*WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators*](https://arxiv.org/abs/2606.20934). arXiv:2606.20934.
 
 ---
 
@@ -5621,6 +5633,10 @@ This study compares two approaches to profiling how learners offload cognitive a
 - [[self-regulated-learning]]
 ## Connected Articles
 
+## Citation
+
+Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., & Jovanovic, J. (2026). [*Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content*](https://arxiv.org/abs/2606.10434). arXiv:2606.10434.
+
 ---
 
 ## [Cognitive offloading and the speedup illusion in human-AI interaction](https://edtechdev.github.io/aied/articles/cognitive-offloading-speedup-illusion/)
@@ -5740,6 +5756,10 @@ This paper replicates and extends prior work on the cold-start problem in knowle
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]
+
+## Citation
+
+Zhang, J., Baker, R. S., Basu Mallick, D., Heffernan, C., & Heffernan, N. (2026). [*A Case Study Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights, an Education Research Infrastructure*](https://arxiv.org/abs/2606.11004). arXiv:2606.11004.
 
 ---
 
@@ -6177,7 +6197,7 @@ D, A.K.C.G.S.O. & Results), V.A.L. (2026). [*The Hidden Cost of Contextual Sycop
 
 ## Citation
 
-Kasneci, A.N.T.B.B.E., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning*](https://doi.org/10.1016/j.caeai.2026.100634)
+Terzimehić, N., Bühler, B., & Kasneci, E. (2026). [*Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning*](https://doi.org/10.1016/j.caeai.2026.100634).
 
 ---
 
@@ -6674,7 +6694,7 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 
 ## Citation
 
-ScienceDirect, C.L.A.A., Intelligence, C.A.E.A., for, S.C.T.W.G.A.D.P., b, M.V.A.S.J., (AERC), A.A.E.R.C., O, A.R.T.I.C.L.E.I.N.F., T, A.B.S.T.R.A.C., & AI, G. (2026). [*Scaffolding Critical Thinking with Generative AI*](https://doi.org/10.1016/j.caeai.2026.100572)
+Vendrell, M., & Johnston, S.-K. (2026). [*Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education*](https://doi.org/10.1016/j.caeai.2026.100572).
 
 ---
 
@@ -7521,6 +7541,10 @@ EduMirror introduces a multi-agent simulator for studying educational social dyn
 - [[learning-analytics]]
 ## Connected Articles
 
+## Citation
+
+Lin, J., Yu, H., Zeng, Y., & Zhong, F. (2026). [*EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation*](https://arxiv.org/abs/2606.07948). arXiv:2606.07948.
+
 ---
 
 ## [EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers](https://edtechdev.github.io/aied/articles/eduzone-llm-safety-k12/)
@@ -8064,7 +8088,7 @@ Zach Anthis & Avgousta Kyriakidou-Zacharoudiou (2026). [*Face value: How avatar 
 
 ## Citation
 
-Bukhari, A.E.E.S.M.S., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Fair and explainable educational recommendations with a hybrid Graph-GRU framework*](https://doi.org/10.1016/j.caeai.2026.100643)
+Evangelista, E., & Bukhari, S. M. S. (2026). [*Fair and explainable educational recommendations with a hybrid Graph-GRU framework*](https://doi.org/10.1016/j.caeai.2026.100643).
 
 ---
 
@@ -8543,6 +8567,10 @@ This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Sea
 - [[formative-assessment]]
 - [[self-regulated-learning]]
 ## Connected Articles
+
+## Citation
+
+Liu, Y., Arguello, J., Hoeber, O., et al. (2026). [*Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)*](https://arxiv.org/abs/2606.08936). arXiv:2606.08936.
 
 ---
 
@@ -9072,7 +9100,7 @@ Schweisthal, A.S.M.M.G.J., on, A.M.O.T.E.O.G.A., Manuel, S.M.M.G.J.S., 1,2, S.A.
 
 ## Citation
 
-Fake, A.N.D.H., 100626, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Generative AI (GenAI) as a mindtool that supports generative learning (GL)*](https://doi.org/10.1016/j.caeai.2026.100626)
+Dabbagh, N., & Fake, H. (2026). [*Generative AI (GenAI) as a mindtool that supports generative learning (GL)*](https://doi.org/10.1016/j.caeai.2026.100626).
 
 ---
 
@@ -9113,7 +9141,7 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 - [[genai-assessment-governance]]
 ## Citation
 
-Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
+Tali-Otmani, F. (2026). [*Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: The case of disability*](https://arxiv.org/abs/2605.26769). arXiv:2605.26769.
 
 ---
 
@@ -9250,7 +9278,7 @@ Shahin Hossain, Tukhbita Afroz Nawmi (2026). [Measuring How Students Rely on Gen
 
 ## Citation
 
-Bui, A.D.B.Y.L.P., 100637, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics*](https://doi.org/10.1016/j.caeai.2026.100637)
+Bakogianni, D., Liljekvist, Y., & Bui, P. (2026). [*GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics*](https://doi.org/10.1016/j.caeai.2026.100637).
 
 ---
 
@@ -10337,7 +10365,7 @@ Mutlu Cukurova (2026). [What do you mean by human-AI collaboration: Prerequisite
 
 ## Citation
 
-Allen, A.L.R.X.Z.J.P., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust*](https://doi.org/10.1016/j.caeai.2026.100625)
+Razmerita, L., Zheng, X., & Allen, J. P. (2026). [*Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust*](https://doi.org/10.1016/j.caeai.2026.100625).
 
 ---
 
@@ -10381,7 +10409,7 @@ Critical methodological paper on using LLMs for automated qualitative coding of 
 
 ## Citation
 
-Saqr, A.K.M.S.L.E.A.O.B.E.M., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis*](https://doi.org/10.1016/j.caeai.2026.100649)
+Misiejuk, K., López-Pernas, S., Oliveira, E. A., Eagan, B., & Saqr, M. (2026). [*Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis*](https://doi.org/10.1016/j.caeai.2026.100649).
 
 ---
 
@@ -10435,7 +10463,7 @@ This paper identifies the didactic narrowing caused by fully digital e-assessmen
 
 ## Citation
 
-Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
+Grabowski, H., & Canz, M. (2026). [*Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations*](https://arxiv.org/abs/2606.08855). arXiv:2606.08855.
 
 ---
 
@@ -11225,7 +11253,7 @@ Curricula that deploy AI teaching assistants generate a byproduct — student in
 - [[knowledge-tracing-irt]]
 ## Citation
 
-Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
+Medhat, Y., Park, J., Thajchayapong, P., & Goel, A. K. (2026). [*Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs*](https://arxiv.org/abs/2606.10736). arXiv:2606.10736.
 
 ---
 
@@ -12305,6 +12333,10 @@ MathCog builds on existing [[llm-handwritten-math-grading]] work but shifts focu
 - [[llm-fallacy-misattribution]]
 - [[llm-handwritten-math-grading]]
 
+## Citation
+
+Kim, Y., Jin, H., Doh, H., Kim, E., Jung, D., Kim, S., Choi, K., Son, J., & Kim, J. (2025). [*Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work*](https://arxiv.org/abs/2504.00843). arXiv:2504.00843.
+
 ---
 
 ## [Using LLMs to Detect Growth in Computational Thinking in Introductory Physics](https://edtechdev.github.io/aied/articles/llm-computational-thinking-physics-2026/)
@@ -12350,7 +12382,7 @@ Explores LLMs to support K-12 teachers in designing culturally relevant pedagogy
 
 ## Citation
 
-LLMs for Culturally Relevant K-12 Pedagogy
+Wang, J., Xiao, R., Hou, X., Li, H., Tseng, Y. J., Stamper, J., & Koedinger, K. (2025). [*LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example*](https://arxiv.org/abs/2505.08083). arXiv:2505.08083.
 
 ---
 
@@ -12665,9 +12697,6 @@ Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026). [
 
 ## [A review of intervention designs of LLM Integration in Undergraduate Computer Science Education](https://edtechdev.github.io/aied/articles/llm-intervention-design-cs-review/)
 
-> **Author:** Anusha Vissapragada (Hult International Business School) **Source:** [EdArXiv preprint](https://osf.io/preprints/edarxiv/knhyz_v1) (2026)
-**Source:** [EdArXiv preprint](https://osf.io/preprints/edarxiv/knhyz_v1) (2026)
-
 ## Key Findings
 
 This scoping review analyzed **13 experimental studies** on LLM integration in undergraduate [[cs-education]], examining how intervention design choices shape learning outcomes. The central finding: **LLM effectiveness depends less on the model itself than on pedagogical design**.
@@ -12744,7 +12773,7 @@ For [[higher-ed]] contexts, the review provides actionable guidance: semester-lo
 
 ## Citation
 
-School), A.A.V.I.B., implementation, A.Q.H.S.M.R.D.O., & generators, P.L.A.L.C.R.T.S. (2026). *A review of intervention designs of LLM Integration in Undergraduate Computer Science Education*
+Vissapragada, A. (2026). [*A review of intervention designs of LLM Integration in Undergraduate Computer Science Education*](https://osf.io/preprints/edarxiv/knhyz_v1). EdArXiv preprint.
 
 ---
 
@@ -13289,7 +13318,7 @@ preprint, A. (2026). [*Confirming Correct, Missing the Rest: LLM Tutoring Agents
 
 ## Citation
 
-Zhang-Kopf, A.C.L.G.G.Y., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education*](https://doi.org/10.1016/j.caeai.2026.100642)
+Li, C., Gülfidan, G., & Zhang-Kopf, Y. (2026). [*Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education*](https://doi.org/10.1016/j.caeai.2026.100642).
 
 ---
 
@@ -13733,7 +13762,7 @@ Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, M
 
 ## Citation
 
-Wang, A.S.C.K.Q., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design*](https://doi.org/10.1016/j.caeai.2026.100631)
+Kong, S. C., & Wang, Q. (2026). [*Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design*](https://doi.org/10.1016/j.caeai.2026.100631).
 
 ---
 
@@ -14082,6 +14111,10 @@ This paper develops a VR-based immersive learning environment using Photon Fusio
 - [[edtech-platform]]
 - [[active-learning]]
 ## Connected Articles
+
+## Citation
+
+Wataru, I., & Nguyen, D. V. (2026). [*Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion*](https://arxiv.org/abs/2606.10325). arXiv:2606.10325.
 
 ---
 
@@ -14524,7 +14557,7 @@ AI, G., Original, T., Multimodal, A.E.G.T., AI, L.A.G., Investigators:, P., Varg
 
 ## Citation
 
-Hashemi, A.S.S., 100635, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Students' multimodal prompting practices as epistemic work in AI literacy development*](https://doi.org/10.1016/j.caeai.2026.100635)
+Sofkova Hashemi, S. (2026). [*Students' multimodal prompting practices as epistemic work in AI literacy development*](https://doi.org/10.1016/j.caeai.2026.100635).
 
 ---
 
@@ -14979,7 +15012,7 @@ A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with inte
 
 ## Citation
 
-OECD (2026). *OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education*. OECD Publishing, Paris. https://doi.org/10.1787/062a7394-en
+OECD (2026). [*OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education*](https://doi.org/10.1787/062a7394-en). OECD Publishing, Paris.
 
 ---
 
@@ -15197,7 +15230,7 @@ PARE-M provides six measurement dimensions that could be adapted for [[learning-
 - [[ai-higher-ed-bridge-gap]]
 ## Citation
 
-Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
+Alzahrani, A. H. (2026). [*Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study*](https://arxiv.org/abs/2605.26870). arXiv:2605.26870.
 
 ---
 
@@ -15870,7 +15903,7 @@ Chrisochoides, A.I.E.N. (2026). [*Quantum Education Intelligent Tutoring*](https
 
 ## Citation
 
-Wicks, A.D.C.Y.Y.A.X.D., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers*](https://doi.org/10.1016/j.caeai.2026.100630)
+Cao, D., Yan, Y., Xiong, A., & Wicks, D. (2026). [*Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers*](https://doi.org/10.1016/j.caeai.2026.100630).
 
 ---
 
@@ -16108,6 +16141,10 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 - [[ai-literacy]]
 ## Connected Articles
 
+## Citation
+
+Lee, Y.-C., Boonprakong, N., Tan, Y., Soh, H., et al. (2026). [*Reshaping Undergraduate Computer Science Education in the Generative AI Era*](https://arxiv.org/abs/2606.07545). arXiv:2606.07545.
+
 ---
 
 ## [Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference](https://edtechdev.github.io/aied/articles/responsible-assessment-ai-era-stanford-2026/)
@@ -16296,7 +16333,7 @@ Chengshuai Zhao, Fan Zhang, Kumar Satvik Chaudhary, Yiwen Li, Lo Pang-Yun Ting, 
 
 ## Citation
 
-Shen, A.Q., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts*](https://doi.org/10.1016/j.caeai.2026.100601)
+Shen, Q. (2026). [*Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts*](https://doi.org/10.1016/j.caeai.2026.100601).
 
 ---
 
@@ -17023,7 +17060,7 @@ SlidesQAQA represents a practical step toward AI systems that understand pedagog
 - [[aissa-slides-analysis]]
 ## Citation
 
-Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
+Salsman, J. (2026). [*Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation*](https://arxiv.org/abs/2605.26428). arXiv:2605.26428.
 
 ---
 
@@ -17599,7 +17636,7 @@ For educators, the taxonomy supports more precise diagnosis of student difficult
 - [[llm-student-misconception-identification]]
 ## Citation
 
-How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+Eckert, D., & Kautz, C. (2026). [*How Students (Mis)understand Conditionals and Loops – A Taxonomy*](https://arxiv.org/abs/2605.26966). arXiv:2605.26966.
 
 ---
 
@@ -18674,6 +18711,10 @@ TibetCPR is a low-cost, self-guided CPR training system that pairs depth-driven 
 - [[intelligent-tutoring]]
 ## Connected Articles
 
+## Citation
+
+Meng, Y., Chen, R., Liu, Z., & Ding, X. (2026). [*TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet*](https://arxiv.org/abs/2606.07765). arXiv:2606.07765.
+
 ---
 
 ## [A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI](https://edtechdev.github.io/aied/articles/tool-invariant-framework-agentic-ai/)
@@ -19166,7 +19207,7 @@ Tao He et al. (2026). [*Unveiling patterns of socially shared regulation in rela
 
 ## Citation
 
-Botelho, A.H.L.S.Z.A.F., 100646, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI*](https://doi.org/10.1016/j.caeai.2026.100646)
+Li, H., Zhang, S., & Botelho, A. F. (2026). [*VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI*](https://doi.org/10.1016/j.caeai.2026.100646).
 
 ---
 

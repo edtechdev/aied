@@ -17,4 +17,4 @@ confidence: medium
 
 ## Citation
 
-Allen, A.L.R.X.Z.J.P., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust*](https://doi.org/10.1016/j.caeai.2026.100625)
+Razmerita, L., Zheng, X., & Allen, J. P. (2026). [*Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust*](https://doi.org/10.1016/j.caeai.2026.100625).

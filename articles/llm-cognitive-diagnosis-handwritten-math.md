@@ -77,3 +77,7 @@ MathCog builds on existing [[llm-handwritten-math-grading]] work but shifts focu
 - [[ground-truth-reliability-aied]]
 - [[llm-fallacy-misattribution]]
 - [[llm-handwritten-math-grading]]
+
+## Citation
+
+Kim, Y., Jin, H., Doh, H., Kim, E., Jung, D., Kim, S., Choi, K., Son, J., & Kim, J. (2025). [*Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work*](https://arxiv.org/abs/2504.00843). arXiv:2504.00843.
