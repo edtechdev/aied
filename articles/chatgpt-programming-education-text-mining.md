@@ -12,7 +12,7 @@ confidence: medium
 
 ## Analysis
 
-This book chapter presents a **text mining analysis** of how scholarly literature frames ChatGPT's role in programming education. Using term frequency analysis, phrase pattern extraction, and topic modeling, the authors identify four dominant themes: pedagogical implementation, student-centered learning, AI infrastructure, and assessment design.^[raw/papers/2605.00361.md]
+This book chapter presents a **text mining analysis** of how scholarly literature frames ChatGPT's role in programming education. Using term frequency analysis, phrase pattern extraction, and topic modeling, the authors identify four dominant themes: pedagogical implementation, student-centered learning, AI infrastructure, and assessment design.
 
 The central finding is a **dual positioning**: ChatGPT is consistently framed as both a learning aid (enhancing explanation, feedback, efficiency) and a pedagogical risk (overreliance, unreliable outputs, academic integrity). This connects to [[academic-integrity]], [[over-reliance]], and [[hallucination-risk]] by documenting these as dominant framings in the research literature. Notably, research is skewed toward classroom practice while systematic assessment design and institutional governance remain underexplored.
 

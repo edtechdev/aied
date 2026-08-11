@@ -8,11 +8,11 @@ sources: ['raw/papers/agentic-ai-education-scoping-review-2026.md']
 confidence: high
 ---
 
-> **Wang, Zou, Xie & Qin (2026)** — Lingnan University & Hong Kong Polytechnic University. Published in *Computers and Education: Artificial Intelligence*, accepted 27 July 2026. 📄 doi:10.1016/j.caeai.2026.100653 · [local](raw/papers/agentic-ai-education-scoping-review-2026.md)
+> **Wang, Zou, Xie & Qin (2026)** — Lingnan University & Hong Kong Polytechnic University. Published in *Computers and Education: Artificial Intelligence*, accepted 27 July 2026. 📄 doi:10.1016/j.caeai.2026.100653
 
 # Agentic AI in Education: Scoping Review (474 Studies, 2020–2026)
 Published in *Computers and Education: Artificial Intelligence*, accepted 27 July 2026.
-📄 doi:10.1016/j.caeai.2026.100653 · [local](raw/papers/agentic-ai-education-scoping-review-2026.md)
+📄 doi:10.1016/j.caeai.2026.100653
 
 ## Summary
 

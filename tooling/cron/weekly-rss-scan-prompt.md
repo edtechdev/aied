@@ -31,7 +31,7 @@ For each NEW article, fetch the article page URL using `web_extract`.
 
 **Extract the full abstract and key findings from the publisher page** — the RSS feed gives only a short snippet. Use the richer publisher content to write the article.
 
-**Save full text when available** to `raw/papers/<doi-slug>.md` with frontmatter (source_url, ingested_date, doi). Reference it in the article's `sources:` field.
+**Save full text when available** to `raw/papers/<doi-slug>.md` with frontmatter (source_url, ingested_date, doi). Reference it in the article's `sources:` field ONLY — never put `raw/` paths in the article body (`^[raw/...]` footnotes and `[local](raw/...)` links render as broken literal text on the live site; the Astro renderer doesn't process them and `raw/` isn't deployed).
 
 ### 4. Write article files
 Create `articles/<slug>.md` with:
