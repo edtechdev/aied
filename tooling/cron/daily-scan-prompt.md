@@ -49,6 +49,7 @@ For each new relevant paper:
 2. **Create article page** → `articles/[slug].md` (this is the wiki's page type for individual papers)
    - Frontmatter: title, created, updated, type: article, tags, sources, confidence
    - Body structure: synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → Citation (APA, hyperlinked title)
+   - **NEVER reference `raw/` paths in the article body** — no `^[raw/papers/x.md]` footnotes, no `[local](raw/papers/x.md)` / `[PDF](raw/...)` links. The Astro renderer leaves `^[...]` footnotes as literal text and `raw/` is not deployed, so they appear as broken text on the live site. The raw file is referenced ONLY in the `sources:` frontmatter field; in-body citations use the real paper URL (arXiv/DOI).
 
 3. **Update/create concept pages** → `concepts/[slug].md` for topics that synthesize multiple papers
    - Only create if the concept is genuinely new (check existing concepts first — avoid duplicates)

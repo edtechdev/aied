@@ -18,11 +18,11 @@ This study examines the disconnect between **ethics education** and real-world d
 
 Even when expressing ethical concerns, respondents justified taking contradictory actions through shared explanations: desire to make money or perceived inability to avoid unethical workplaces. This highlights a critical gap in how CS ethics education translates to actual behavioral change.
 
-The findings have significant implications for **AI safety in education**: teaching ethical reasoning about autonomous systems without connecting to students' material circumstances may be insufficient. This connects to broader debates about [[pedagogical-safety-rl]], [[teacher-ai-competency]], and [[equity-in-ai-education]] in shaping student values.^[raw/papers/2605.09680.md]
+The findings have significant implications for **AI safety in education**: teaching ethical reasoning about autonomous systems without connecting to students' material circumstances may be insufficient. This connects to broader debates about [[pedagogical-safety-rl]], [[teacher-ai-competency]], and [[equity-in-ai-education]] in shaping student values.
 
 ## Connections to AIED
 
-The ethics education gap identified here suggests that AI literacy curricula face a similar risk: students may understand AI ethics principles theoretically while still choosing to use AI tools unethically in practice. This mirrors findings on [[academic-integrity]] and [[over-reliance]] patterns in student AI use.^[raw/papers/2605.09680.md]
+The ethics education gap identified here suggests that AI literacy curricula face a similar risk: students may understand AI ethics principles theoretically while still choosing to use AI tools unethically in practice. This mirrors findings on [[academic-integrity]] and [[over-reliance]] patterns in student AI use.
 
 ## Connected Concepts
 

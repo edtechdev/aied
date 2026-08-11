@@ -14,13 +14,13 @@ confidence: medium
 
 ## Key Findings
 
-Interactive assessments generate sequential process data that conventional item response models (IRT) cannot adequately handle. This paper proposes a **reinforcement learning measurement model** that links action choices to state-action values, extending beyond existing MDP-based measurement approaches.^[raw/papers/2605.09305.md]
+Interactive assessments generate sequential process data that conventional item response models (IRT) cannot adequately handle. This paper proposes a **reinforcement learning measurement model** that links action choices to state-action values, extending beyond existing MDP-based measurement approaches.
 
-The model addresses the gap between traditional static assessment models and the dynamic, interactive nature of modern computer-based assessments. It builds on prior work (LaMar, 2018) but improves reliability of estimates for interactive assessments where students' action sequences carry diagnostic information.^[raw/papers/2605.09305.md]
+The model addresses the gap between traditional static assessment models and the dynamic, interactive nature of modern computer-based assessments. It builds on prior work (LaMar, 2018) but improves reliability of estimates for interactive assessments where students' action sequences carry diagnostic information.
 
 ## Connections to AIED
 
-This work directly extends [[knowledge-tracing-irt]] by replacing static IRT with a dynamic RL-based approach. It connects to [[assessment]] by providing a new framework for scoring interactive assessments that capture student problem-solving processes rather than just final answers.^[raw/papers/2605.09305.md]
+This work directly extends [[knowledge-tracing-irt]] by replacing static IRT with a dynamic RL-based approach. It connects to [[assessment]] by providing a new framework for scoring interactive assessments that capture student problem-solving processes rather than just final answers.
 
 The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as it extracts diagnostic signals from interaction data that go beyond traditional performance metrics.
 

@@ -501,7 +501,7 @@ Harry, T., Hidalgo, J., Price, M., Feng, Y., Stanton, K., Tompkins, C., Dodds, P
 
 ## Summary
 
-A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two multimodal analytical writing tasks (interpreting healthcare-simulation data visualisations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). GenAI literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalise AI-supported reasoning — neither an individual deficit nor a fixed property of the system.^[raw/papers/caeai-2026-agency-gap-ai-writing.md]
+A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two multimodal analytical writing tasks (interpreting healthcare-simulation data visualisations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). GenAI literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalise AI-supported reasoning — neither an individual deficit nor a fixed property of the system.
 
 ## Key findings
 
@@ -509,29 +509,29 @@ A randomized experiment (n = 79 medical/nursing students) examining how the **in
 - ENA (explaining 38.3%/22.7% and 27.5%/26.4% of variance) separated conditions with **large effects** (Cliff's δ = −0.56, −0.78; both p < .001).
 - **Proactive** dialogues: stronger links between conceptual reasoning, adequate reasoning, and constructive engagement (EP-CS–EP-CP-Adeq, EP-PS–EP-CP-Adeq, I-CON–EP-CP-Adeq) — more integrated epistemic elaboration.
 - **Reactive** dialogues: more factual/procedural/off-task pairings (EP-PS–EP-OFF, EP-OFF–I-ACT) — the learner's own regulation is more visible but discourse stays descriptive.
-- The difference is in *how ideas are connected*, not how often categories appear and not the final score.^[raw/papers/caeai-2026-agency-gap-ai-writing.md]
+- The difference is in *how ideas are connected*, not how often categories appear and not the final score.
 
 ### RQ2 — GenAI literacy predicts immediate independent performance
 - After AI support was removed, GLAT predicted **Visual Data Integration** (OR 1.14, p = .039), **Critical Thinking** (OR 1.15, p = .029), and the **Composite score** (OR 1.11, p = .032) — modest, higher-order effects; not significant for insightfulness, organisation, or linguistic quality.
 - AI-supported performance strongly predicted AI-removal performance on all dimensions (all p ≤ .001) — continuity, but cannot distinguish learning from stable competence.
-- No significant condition effect and **no significant literacy-by-design interaction**.^[raw/papers/caeai-2026-agency-gap-ai-writing.md]
+- No significant condition effect and **no significant literacy-by-design interaction**.
 
 ### RQ3 — Mediation patterns are suggestive, not confirmatory
 - Reactive condition: significant total literacy→performance association (β = 0.172, p = .020) with direct path remaining (β = 0.140); indirect effect non-significant (95% CI [−0.022, 0.108]).
 - Proactive condition: total and direct coefficients near zero; indirect non-significant.
-- Pattern is *consistent with* smaller literacy-related performance differences under proactive scaffolding, but does **not establish** compensation, mediation, or moderation — hypothesis-generating for future adequately powered tests.^[raw/papers/caeai-2026-agency-gap-ai-writing.md]
+- Pattern is *consistent with* smaller literacy-related performance differences under proactive scaffolding, but does **not establish** compensation, mediation, or moderation — hypothesis-generating for future adequately powered tests.
 
 ### RQ4 — Three design heuristics from learner reflections
 1. **Sustain autonomy** through contextual and confirmatory feedback (reactive strength: confirms interpretations, lowers barrier, but redundant for proficient learners).
 2. **Promote integrative reasoning and immediate independent application** through dialogic scaffolding (proactive strength: connects evidence across visuals, prompts self-correction; risks over-scaffolding easy tasks).
-3. **Ensure equity through adaptive alignment** of initiative with learner expertise and task complexity — a uniform interaction style may under-support some learners while over-directing others.^[raw/papers/caeai-2026-agency-gap-ai-writing.md]
+3. **Ensure equity through adaptive alignment** of initiative with learner expertise and task complexity — a uniform interaction style may under-support some learners while over-directing others.
 
 ## Interpretation
 
 - **Process ≠ outcome**: agent design produced large differences in the relational organisation of dialogue but no significant direct effect on immediate writing scores — the mechanism is how epistemic work is distributed, not output quality.
 - The agency gap frames the failure modes: **under-support** (low literacy × strongly reactive design) and **over-direction** (high capability × rigidly proactive design), echoing [[scaffolding]]'s expertise-reversal effect and adaptive-scaffolding accounts.
 - Practice: make initiative **visible and adjustable** (request/skip/pause prompting), structure proactive prompts to orient–interpret–connect–synthesise rather than supply answers, and fade prompts as learners demonstrate independence; teach GenAI literacy as part of academic writing ([[ai-literacy]], [[agentic-ai]]).
-- Limitations: n = 79 underpowered for mediation; medical/nursing sample; immediate AI-removal task measures near transfer, not durable learning; agency gap theorised, not directly measured; no manipulation-check coding of agent turns.^[raw/papers/caeai-2026-agency-gap-ai-writing.md]
+- Limitations: n = 79 underpowered for mediation; medical/nursing sample; immediate AI-removal task measures near transfer, not durable learning; agency gap theorised, not directly measured; no manipulation-check coding of agent turns.
 
 ## Connected Concepts
 
@@ -615,11 +615,11 @@ Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., & Anderson, E. (2026). [Exp
 
 ## [Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm](https://edtechdev.github.io/aied/articles/agentic-ai-education-scoping-review/)
 
-> **Wang, Zou, Xie & Qin (2026)** — Lingnan University & Hong Kong Polytechnic University. Published in *Computers and Education: Artificial Intelligence*, accepted 27 July 2026. 📄 doi:10.1016/j.caeai.2026.100653 · [local](raw/papers/agentic-ai-education-scoping-review-2026.md)
+> **Wang, Zou, Xie & Qin (2026)** — Lingnan University & Hong Kong Polytechnic University. Published in *Computers and Education: Artificial Intelligence*, accepted 27 July 2026. 📄 doi:10.1016/j.caeai.2026.100653
 
 # Agentic AI in Education: Scoping Review (474 Studies, 2020–2026)
 Published in *Computers and Education: Artificial Intelligence*, accepted 27 July 2026.
-📄 doi:10.1016/j.caeai.2026.100653 · [local](raw/papers/agentic-ai-education-scoping-review-2026.md)
+📄 doi:10.1016/j.caeai.2026.100653
 
 ## Summary
 
@@ -1791,18 +1791,18 @@ This quasi-experimental study directly compares **AI-generated feedback** (two L
 - **Design:** 47 student groups (N = 238; 146 attending, 92 non-attending) randomly assigned to one of three feedback conditions — DeepSeek R1 (16 groups), expert human teacher (16), GPT-o4-mini (15). Unit of analysis = group (4–5 students each) to preserve independence.
 - **Task:** Two-stage project (PRE then POST), evaluated with a shared analytic rubric (0–30 points) co-constructed with students.
 - **AI prompt design:** Both LLMs were given all course materials plus an assignment brief, the pedagogical framework, and the co-constructed rubric via a **Retrieval-Augmented Generation (RAG)** setup; instructed to act as a university professor and give objective, justified, actionable formative feedback. The rubric + an exemplar functioned as a "calibration device" that transferred the teacher's evaluative expectations into the AI.
-- **Analyses:** Wilcoxon signed-rank (PRE–POST), Kruskal–Wallis across sources, robust linear models (HC3) for attendance moderation, and — crucially — **non-inferiority and equivalence tests** (Welch-adjusted 90% CIs, pre-specified margin ±1 point on the 30-point scale), because non-significant differences don't imply practical equivalence.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]
+- **Analyses:** Wilcoxon signed-rank (PRE–POST), Kruskal–Wallis across sources, robust linear models (HC3) for attendance moderation, and — crucially — **non-inferiority and equivalence tests** (Welch-adjusted 90% CIs, pre-specified margin ±1 point on the 30-point scale), because non-significant differences don't imply practical equivalence.
 
 ## Key Findings
 
 ### RQ1 — Feedback improves performance regardless of source
-Across all 47 groups, project performance rose significantly from PRE to POST (Wilcoxon W = 1081, p < 0.001, rank-biserial rrb = 0.77 — a large effect); mean score +3.9 points (23.81 → 27.70), with post-test scores converging near the ceiling (median 28).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]
+Across all 47 groups, project performance rose significantly from PRE to POST (Wilcoxon W = 1081, p < 0.001, rank-biserial rrb = 0.77 — a large effect); mean score +3.9 points (23.81 → 27.70), with post-test scores converging near the ceiling (median 28).
 
 ### RQ2 — No significant difference between feedback sources
-Post-feedback scores did **not** differ by source (Kruskal–Wallis H(2) = 1.91, p = 0.384, ε² = 0.042); gain scores likewise non-significant (H(2) = 0.74, p = 0.690). Pairwise Hodges–Lehmann contrasts all had CIs spanning zero.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]
+Post-feedback scores did **not** differ by source (Kruskal–Wallis H(2) = 1.91, p = 0.384, ε² = 0.042); gain scores likewise non-significant (H(2) = 0.74, p = 0.690). Pairwise Hodges–Lehmann contrasts all had CIs spanning zero.
 
 ### RQ3 — Attendance doesn't matter
-Robust linear model: no main effect of attendance (F(1,41) = 1.52, p = 0.225), no source × attendance interaction (F(2,41) = 0.97, p = 0.389).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]
+Robust linear model: no main effect of attendance (F(1,41) = 1.52, p = 0.225), no source × attendance interaction (F(2,41) = 0.97, p = 0.389).
 
 ### RQ4 — AI feedback is practically comparable to teacher feedback
 | Comparison (AI − Teacher) | Mean diff | 90% CI | Non-inferior? | Equivalent? |
@@ -1810,7 +1810,7 @@ Robust linear model: no main effect of attendance (F(1,41) = 1.52, p = 0.225), n
 | **GPT-o4-mini** vs Teacher | +0.23 | [−0.46, 0.91] | **Yes** | **Yes** |
 | **DeepSeek R1** vs Teacher | +0.56 | [−0.05, 1.18] | **Yes** | No (upper bound exceeds +1) |
 
-Same pattern on baseline-adjusted gains (DIFF_ADJ). **GPT-o4-mini met both non-inferiority and full equivalence**; **DeepSeek R1 met non-inferiority** (practically comparable, but with more uncertainty).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]
+Same pattern on baseline-adjusted gains (DIFF_ADJ). **GPT-o4-mini met both non-inferiority and full equivalence**; **DeepSeek R1 met non-inferiority** (practically comparable, but with more uncertainty).
 
 ### Student perceptions — equally positive across sources
 Validated 19-item questionnaire (N = 200; scales: perceived mastery α = 0.81, positive emotions α = 0.85, negative emotions α = 0.73). Students were **blind** to feedback source. No significant differences across conditions on any scale:
@@ -1819,15 +1819,15 @@ Validated 19-item questionnaire (N = 200; scales: perceived mastery α = 0.81, p
 - Negative emotions: M ≈ 1.22–1.39 (low)
 - Overall satisfaction: ~98% (DeepSeek 97.5%, teacher 94%, GPT-o4-mini 100%) — analysed descriptively due to ceiling.
 
-AI-generated feedback was experienced as acceptable and supportive, comparable to teacher feedback.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]
+AI-generated feedback was experienced as acceptable and supportive, comparable to teacher feedback.
 
 ## Interpretation: Source vs. Architecture
-The authors' core argument: **feedback works as a systemic, relational process, not a function of who (or what) produces it.** In this study both AI and teacher feedback were anchored to the *same explicit rubric and student co-constructed exemplar*, which made criteria transparent and gave the AI an "interpretative anchor" usually tacit in human grading. It is the **teacher's assessment literacy** — encoded in the rubric and exemplar — that calibrated the AI, not the model alone. Thus generative AI is best seen as a **support for teachers with strong assessment literacy** (scaling timeliness/consistency) rather than an autonomous replacement. The study explicitly warns against over-reliance and unequal access, and calls for maintaining teacher oversight and students' critical engagement.^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]
+The authors' core argument: **feedback works as a systemic, relational process, not a function of who (or what) produces it.** In this study both AI and teacher feedback were anchored to the *same explicit rubric and student co-constructed exemplar*, which made criteria transparent and gave the AI an "interpretative anchor" usually tacit in human grading. It is the **teacher's assessment literacy** — encoded in the rubric and exemplar — that calibrated the AI, not the model alone. Thus generative AI is best seen as a **support for teachers with strong assessment literacy** (scaling timeliness/consistency) rather than an autonomous replacement. The study explicitly warns against over-reliance and unequal access, and calls for maintaining teacher oversight and students' critical engagement.
 
 ## Limitations (per authors)
 - **Ceiling effect:** 91% of groups scored ≥27/30 (SD = 0.95) — limits sensitivity of post-test comparisons; equivalence rests mainly on adjusted-gain analyses.
 - **Small group-level N = 47** → wide CIs; modest source differences can't be fully ruled out.
-- **No prior-AI-experience data** collected; single course / discipline (Primary Teacher Education); **student assessment literacy not measured** (treated as a hypothesis, not tested).^[raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md]
+- **No prior-AI-experience data** collected; single course / discipline (Primary Teacher Education); **student assessment literacy not measured** (treated as a hypothesis, not tested).
 
 ## Implications for the wiki
 - A strong, well-controlled (randomised, blind, equivalence-tested) data point that **AI-generated feedback can match expert teacher feedback** for project-based learning **when criteria are explicit and assessment literacy is high** — complementing [[ai-feedback-quality]] and [[ai-learning-companions-framework]] work.
@@ -2651,7 +2651,7 @@ Pier Paolo Benedetti (2026). [Design Principles and Observable Indicators for AI
 ## [Faculty Orientations Shape Adoption of AI in Research and Teaching](https://edtechdev.github.io/aied/articles/ai-pedagogical-orientation/)
 
 > **Atherton, Descamps, Holmes, Vizcarra, Sui, Webel & Foley (2026)** — arXiv:2605.18140
-📄 arXiv · [PDF](https://arxiv.org/pdf/2605.18140) · [local](raw/papers/2605.18140.md)
+📄 arXiv · [PDF](https://arxiv.org/pdf/2605.18140)
 
 ## Key Finding: AI Pedagogical Orientation
 
@@ -2810,13 +2810,13 @@ Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.
 
 ## Key Findings
 
-This paper presents a workflow-aligned framework for preparing students to use AI in materials discovery. The authors argue that in materials science, the limiting factor is no longer only algorithmic capability but **human-AI collaboration competence**. Students need to develop scientific judgment about when to trust AI predictions and how to integrate them into research workflows.^[raw/papers/2605.09624.md]
+This paper presents a workflow-aligned framework for preparing students to use AI in materials discovery. The authors argue that in materials science, the limiting factor is no longer only algorithmic capability but **human-AI collaboration competence**. Students need to develop scientific judgment about when to trust AI predictions and how to integrate them into research workflows.
 
-The framework connects AI literacy to equity and scientific judgment, emphasizing that students from under-resourced backgrounds may lack exposure to AI-powered research workflows. This intersects with broader [[equity-in-ai-education]] and [[stem-education]] concerns.^[raw/papers/2605.09624.md]
+The framework connects AI literacy to equity and scientific judgment, emphasizing that students from under-resourced backgrounds may lack exposure to AI-powered research workflows. This intersects with broader [[equity-in-ai-education]] and [[stem-education]] concerns.
 
 ## Connections to AIED
 
-The materials discovery context offers a model for how AI literacy should be taught across STEM disciplines: not as abstract knowledge, but as embedded workflow competence. This connects to [[agentic-workflows-education]] where students learn to use AI tools as part of authentic research practice rather than as separate subjects.^[raw/papers/2605.09624.md]
+The materials discovery context offers a model for how AI literacy should be taught across STEM disciplines: not as abstract knowledge, but as embedded workflow competence. This connects to [[agentic-workflows-education]] where students learn to use AI tools as part of authentic research practice rather than as separate subjects.
 
 The framework also touches on [[metacognition]] — students need to develop judgment about AI outputs, which requires meta-awareness of their own reasoning processes when evaluating AI-generated predictions.
 
@@ -4551,23 +4551,23 @@ Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, & Alex Endert (2026).
 
 ## Summary
 
-A conceptual/position paper arguing that feedback in an age of GenAI must be understood as **"matters of care"** — ethical, relational practices rather than information transmission. It builds on a ten-principle **Manifesto for Feedback in the Age of GenAI** (Winstone et al. 2025, Copenhagen Feedback Symposium) and distils **four core values** for integrating GenAI into a multimodal feedback landscape: (1) feedback processes should support **meaning-making**, (2) build **educative relationships**, (3) be **trustworthy**, and (4) be respected as a **professional craft**.^[raw/papers/tandf-2026-care-full-feedback-genai.md]
+A conceptual/position paper arguing that feedback in an age of GenAI must be understood as **"matters of care"** — ethical, relational practices rather than information transmission. It builds on a ten-principle **Manifesto for Feedback in the Age of GenAI** (Winstone et al. 2025, Copenhagen Feedback Symposium) and distils **four core values** for integrating GenAI into a multimodal feedback landscape: (1) feedback processes should support **meaning-making**, (2) build **educative relationships**, (3) be **trustworthy**, and (4) be respected as a **professional craft**.
 
 ## Core arguments
 
-- **Feedback as more than comments.** Feedback information ("bits and bytes") is only input; without student sense-making and uptake it does not constitute feedback. GenAI comment-generators risk replicating Sadler's "dangling data" critique — and may entrench an information-centric view the field spent decades moving past.^[raw/papers/tandf-2026-care-full-feedback-genai.md]
+- **Feedback as more than comments.** Feedback information ("bits and bytes") is only input; without student sense-making and uptake it does not constitute feedback. GenAI comment-generators risk replicating Sadler's "dangling data" critique — and may entrench an information-centric view the field spent decades moving past.
 - **"AI slop" and "human slop."** GenAI's mass-produced, speedy content (Madsen & Puyt 2025's "AI slop") has a human analogue: comment banks, quick marks, and standardised templates that already weaken feedback practice. Quantity and speed ≠ quality.
 - **Relational recognition.** Only human feedback can be *recognitive* — "the mutual acknowledgement of agency, vulnerability, and shared humanity" (Corbin, Tai & Flenady 2025); GenAI feedback is "extra-recognitive." Students in Otaki et al. (2026) described GenAI interactions as "each interaction feels like a new beginning," lacking the continuous timeline of human relationships.
-- **The safe-space paradox.** GenAI feedback reduces perceived personal risk (asking "stupid" questions, exposing weaknesses) — a genuine benefit, especially in power-hierarchical cultures — but may come at the cost of priming students for the friction of professional feedback encounters.^[raw/papers/tandf-2026-care-full-feedback-genai.md]
+- **The safe-space paradox.** GenAI feedback reduces perceived personal risk (asking "stupid" questions, exposing weaknesses) — a genuine benefit, especially in power-hierarchical cultures — but may come at the cost of priming students for the friction of professional feedback encounters.
 - **Epistemic trust.** Trust is dynamic and relational ("a verb, not a noun"): students ascribe less trust to AI-generated than human feedback (Ruwe & Kuklick 2026; Henderson et al. 2025 — see [[genai-teacher-feedback-comparison]]), algorithm aversion makes AI trust decline sharply after errors, and GPT-4 limitations (outdated data, over-generalisation, hallucinations) strike at expertise, integrity, and benevolence — the dimensions of epistemic trust.
-- **Feedback as professional craft.** Tuck's ethnography shows marking is non-linear, context-sensitive, and entangled with "readings of students" — including their "back stories." Multimodal feedback (written + dialogic + digital) is where this craft lives; GenAI lacks genuine dialogue. Risk: outsourcing feedback production erodes the craft (skill atrophy, "unthinking") and even human-in-the-loop approval can internalise AI bias.^[raw/papers/tandf-2026-care-full-feedback-genai.md]
+- **Feedback as professional craft.** Tuck's ethnography shows marking is non-linear, context-sensitive, and entangled with "readings of students" — including their "back stories." Multimodal feedback (written + dialogic + digital) is where this craft lives; GenAI lacks genuine dialogue. Risk: outsourcing feedback production erodes the craft (skill atrophy, "unthinking") and even human-in-the-loop approval can internalise AI bias.
 
 ## Agenda for the future — four respects
 
 - **Respect for scholarship:** design GenAI integration starting from known feedback challenges (e.g. ipsative feedback across modules) rather than from comment generation; research beyond self-report.
 - **Respect for equity:** equitable access to meaningful feedback encounters; scaffold feedback literacies and evaluative judgement to avoid amplifying Matthew effects; respect conscientious objectors to GenAI.
 - **Respect for professional craft:** distinguish what GenAI cannot replicate (relationship-rich, multimodal, dialogic feedback); protect against de-prioritising care-full feedback because it is labour-intensive.
-- **Respect for human connection:** preserve situated, meaningful, care-full elements of feedback encounters; study how trust, connection, and engagement evolve as GenAI enters the ecosystem.^[raw/papers/tandf-2026-care-full-feedback-genai.md]
+- **Respect for human connection:** preserve situated, meaningful, care-full elements of feedback encounters; study how trust, connection, and engagement evolve as GenAI enters the ecosystem.
 
 ## Connected Concepts
 
@@ -4871,27 +4871,27 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 
 > **Ying Zhan & Zi Yan (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 821–834. doi:10.1080/02602938.2025.2471821.
 
-A qualitative study of **16 undergraduates** at a Hong Kong teacher-education university who used **ChatGPT 3.5** to obtain feedback on IELTS writing tasks. Data came from unobtrusive screen-recorded observations plus stimulated-recall interviews. The study extends the traditional tripartite model of feedback engagement (cognitive, affective, behavioural) to a **four-dimensional model adding metacognitive engagement**, and asks what feedback literacy students need in a GenAI context.^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]
+A qualitative study of **16 undergraduates** at a Hong Kong teacher-education university who used **ChatGPT 3.5** to obtain feedback on IELTS writing tasks. Data came from unobtrusive screen-recorded observations plus stimulated-recall interviews. The study extends the traditional tripartite model of feedback engagement (cognitive, affective, behavioural) to a **four-dimensional model adding metacognitive engagement**, and asks what feedback literacy students need in a GenAI context.
 
 ## Key findings by engagement dimension
 
 ### Cognitive engagement — active, comparison-driven
-- Three strategies: **selective attention** (n = 8, focusing on areas of self-assessed weakness), **extracting key information** (n = 4, filtering lengthy ChatGPT output), and **comparison** (n = 10 — comparing original vs revised versions, ChatGPT comments across time, against IELTS criteria, and against teachers' previous comments).^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]
+- Three strategies: **selective attention** (n = 8, focusing on areas of self-assessed weakness), **extracting key information** (n = 4, filtering lengthy ChatGPT output), and **comparison** (n = 10 — comparing original vs revised versions, ChatGPT comments across time, against IELTS criteria, and against teachers' previous comments).
 - Comparison is "a hub" for internal feedback (Nicol 2021): in GenAI contexts students can instantaneously compare multiple sources and versions — something hard in traditional feedback environments.
 
 ### Metacognitive engagement — weaker, signalling "metacognitive laziness"
 - Only **5 of 16** monitored their revision process; 6 reflected after finishing; **none** used goal-setting or planning strategies.
-- Echoes Fan et al.'s (2025) *metacognitive laziness*: ChatGPT may boost short-term task performance while impeding self-regulation and knowledge transfer. Most revisions targeted **local** aspects of L2 writing (grammar, vocabulary, sentence structure), which may not transfer to future writing tasks.^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]
+- Echoes Fan et al.'s (2025) *metacognitive laziness*: ChatGPT may boost short-term task performance while impeding self-regulation and knowledge transfer. Most revisions targeted **local** aspects of L2 writing (grammar, vocabulary, sentence structure), which may not transfer to future writing tasks.
 
 ### Affective engagement — calm, but selectively trusting
 - Majority (n = 13) described interactions as calm, relaxed, stress-free — minimal emotional resistance (unlike typical teacher-feedback contexts).
 - **Trust split:** trusted ChatGPT on **language forms** (n = 11) but doubted its **examples/evidence** (n = 12); some doubted its legitimacy as an IELTS examiner.
-- Negative affect arose when ChatGPT misunderstood prompts or repeated similar suggestions.^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]
+- Negative affect arose when ChatGPT misunderstood prompts or repeated similar suggestions.
 
 ### Behavioural engagement — superficial patterns
 - **308 prompts** total (9–40 per student); more prompts on **local aspects** (n = 104) than global (n = 55); 11.3% were direct copies of the draft; only 1.6% probed ChatGPT's credibility.
 - Interactions were mostly **one-off** (n = 133 one-round vs 34 two-round vs 18 three-round).
-- **High uptake:** 56.3% of ChatGPT comments honestly followed, 27.6% adapted, 16.1% rejected (83.9% overall uptake) — but revisions were superficial and local, and some students avoided directly using AI content due to academic-integrity beliefs.^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]
+- **High uptake:** 56.3% of ChatGPT comments honestly followed, 27.6% adapted, 16.1% rejected (83.9% overall uptake) — but revisions were superficial and local, and some students avoided directly using AI content due to academic-integrity beliefs.
 
 ## Five capacities for student feedback literacy in a GenAI context
 
@@ -4899,12 +4899,12 @@ A qualitative study of **16 undergraduates** at a Hong Kong teacher-education un
 2. **Evaluative judgement** — discerning useful feedback from plausible-but-unreliable output.
 3. **Emotional reflexivity** — balancing trust and doubt by understanding GenAI's capabilities and limits (Bearman & Ajjawi 2023).
 4. **Ethical decision-making** — deciding how, when, and why to use GenAI feedback so work remains authentic (academic integrity).
-5. **Metacognitive skills** — setting feedback goals, planning prompts, self-monitoring interactions, and reflecting on the whole process.^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]
+5. **Metacognitive skills** — setting feedback goals, planning prompts, self-monitoring interactions, and reflecting on the whole process.
 
 ## Implications
 
 - Feedback literacy and engagement are bidirectional and mutually reinforcing; the model proposed here (Figure 2) shows the four engagement dimensions interplaying with these five literacy capacities.
-- GenAI feedback can lower the emotional barrier to feedback seeking (important in power-hierarchical cultures — see [[genai-teacher-feedback-comparison]]'s "less risky" finding), but without metacognitive scaffolding students drift toward **superficial, high-uptake, low-transfer** use — a core [[over-reliance]] risk.^[raw/papers/tandf-2026-chatgpt-feedback-engagement.md]
+- GenAI feedback can lower the emotional barrier to feedback seeking (important in power-hierarchical cultures — see [[genai-teacher-feedback-comparison]]'s "less risky" finding), but without metacognitive scaffolding students drift toward **superficial, high-uptake, low-transfer** use — a core [[over-reliance]] risk.
 
 ## Connected Concepts
 
@@ -4955,7 +4955,7 @@ Huntington-Klein, N. (2026). [Little impact of ChatGPT availability on high scho
 
 ## Analysis
 
-This book chapter presents a **text mining analysis** of how scholarly literature frames ChatGPT's role in programming education. Using term frequency analysis, phrase pattern extraction, and topic modeling, the authors identify four dominant themes: pedagogical implementation, student-centered learning, AI infrastructure, and assessment design.^[raw/papers/2605.00361.md]
+This book chapter presents a **text mining analysis** of how scholarly literature frames ChatGPT's role in programming education. Using term frequency analysis, phrase pattern extraction, and topic modeling, the authors identify four dominant themes: pedagogical implementation, student-centered learning, AI infrastructure, and assessment design.
 
 The central finding is a **dual positioning**: ChatGPT is consistently framed as both a learning aid (enhancing explanation, feedback, efficiency) and a pedagogical risk (overreliance, unreliable outputs, academic integrity). This connects to [[academic-integrity]], [[over-reliance]], and [[hallucination-risk]] by documenting these as dominant framings in the research literature. Notably, research is skewed toward classroom practice while systematic assessment design and institutional governance remain underexplored.
 
@@ -6262,11 +6262,11 @@ This study examines the disconnect between **ethics education** and real-world d
 
 Even when expressing ethical concerns, respondents justified taking contradictory actions through shared explanations: desire to make money or perceived inability to avoid unethical workplaces. This highlights a critical gap in how CS ethics education translates to actual behavioral change.
 
-The findings have significant implications for **AI safety in education**: teaching ethical reasoning about autonomous systems without connecting to students' material circumstances may be insufficient. This connects to broader debates about [[pedagogical-safety-rl]], [[teacher-ai-competency]], and [[equity-in-ai-education]] in shaping student values.^[raw/papers/2605.09680.md]
+The findings have significant implications for **AI safety in education**: teaching ethical reasoning about autonomous systems without connecting to students' material circumstances may be insufficient. This connects to broader debates about [[pedagogical-safety-rl]], [[teacher-ai-competency]], and [[equity-in-ai-education]] in shaping student values.
 
 ## Connections to AIED
 
-The ethics education gap identified here suggests that AI literacy curricula face a similar risk: students may understand AI ethics principles theoretically while still choosing to use AI tools unethically in practice. This mirrors findings on [[academic-integrity]] and [[over-reliance]] patterns in student AI use.^[raw/papers/2605.09680.md]
+The ethics education gap identified here suggests that AI literacy curricula face a similar risk: students may understand AI ethics principles theoretically while still choosing to use AI tools unethically in practice. This mirrors findings on [[academic-integrity]] and [[over-reliance]] patterns in student AI use.
 
 ## Connected Concepts
 
@@ -6485,39 +6485,39 @@ Jessica Hutchison, Ian Tyler Applebaum, Kenneth Angelikas, Kush Rakesh Patel, Ph
 
 > **Markus H. Hefter, Benjamin Paaßen & Kirsten Berthold (2026)** — *AI Educ.* (MDPI), 2, 27. Open Access, CC BY 4.0. doi:10.3390/aieduc2030027.
 
-A correlational study (N = 67 undergraduate psychology students, Bielefeld University) testing two **protective factors against uncritical GenAI overreliance**: (1) **knowledge about genAI** and (2) the **disposition to engage in critical thinking** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual engagement as worthwhile). Both factors are framed as components of AI literacy and both are trainable, motivating intervention recommendations.^[raw/papers/mdpi-2026-critical-genai-use-predictors.md]
+A correlational study (N = 67 undergraduate psychology students, Bielefeld University) testing two **protective factors against uncritical GenAI overreliance**: (1) **knowledge about genAI** and (2) the **disposition to engage in critical thinking** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual engagement as worthwhile). Both factors are framed as components of AI literacy and both are trainable, motivating intervention recommendations.
 
 ## Method highlights
 
 - **Critical use of genAI** measured with a newly developed 10-item scale (α = .78) covering validation behaviours (cross-checking outputs, verifying factual accuracy, comparing with literature).
 - **Knowledge measured two ways** — the study's key methodological contribution: *self-reported* (18 SNAIL items, α = .90) AND *objective/performance-based* (12 items from Köhler & Hartig's ChatGPT scale + Hornberger et al.'s AI literacy test), each objective item paired with a certainty rating to compute a **misconception score** (correctness × certainty; Eitel/Hefter procedure).
-- Dispositions: epistemic orientation (5 items, α = .70), intellectual values (14 fictive-person items, α = .90), plus need for cognition (NFC, 4-item short scale, α = .54).^[raw/papers/mdpi-2026-critical-genai-use-predictors.md]
+- Dispositions: epistemic orientation (5 items, α = .70), intellectual values (14 fictive-person items, α = .90), plus need for cognition (NFC, 4-item short scale, α = .54).
 
 ## Key findings
 
 ### H1 — GenAI knowledge predicts critical use: SUPPORTED
 - Self-reported knowledge: r = .55, p < .001; **objective knowledge: r = .31, p = .011** — both significant.
-- The stronger self-report correlation likely reflects common-method bias (both self-report Likert scales) rather than a substantive difference — the objective test cross-validates the finding.^[raw/papers/mdpi-2026-critical-genai-use-predictors.md]
+- The stronger self-report correlation likely reflects common-method bias (both self-report Likert scales) rather than a substantive difference — the objective test cross-validates the finding.
 
 ### H2 — Critical-thinking disposition predicts critical use: SUPPORTED
 - Multiple regression: F(2,64) = 17.19, p < .001, **R² = .33** — a third of the variance in critical GenAI use.
-- Epistemic orientation β = .36, p < .001; **intellectual values β = .40, p < .001**; low multicollinearity (VIF = 1.05), Durbin-Watson 2.23.^[raw/papers/mdpi-2026-critical-genai-use-predictors.md]
+- Epistemic orientation β = .36, p < .001; **intellectual values β = .40, p < .001**; low multicollinearity (VIF = 1.05), Durbin-Watson 2.23.
 
 ### Exploratory — misconceptions are narrow but real
 - Only **9% of participants** had misconception scores below zero; just 3 of 12 items showed actual misconceptions (incorrect + high confidence).
 - The standout: **97% confidently believed "GenAI performs web searches"** (misconception score −3.00) — though the authors note current chatbots technically trigger web searches, so this item may be superseded by evolving tool capabilities.
-- Most students correctly and confidently knew GenAI "may provide content that is not based on facts" (score 2.91, highest).^[raw/papers/mdpi-2026-critical-genai-use-predictors.md]
+- Most students correctly and confidently knew GenAI "may provide content that is not based on facts" (score 2.91, highest).
 
 ### Exploratory — need for cognition (NFC)
 - Actual genAI use correlated only with **interest** (r = .54) and **perceived usefulness** (r = .58) — not with knowledge or dispositions.
 - **Perceived usefulness negatively correlated with NFC** (r = −.27, p = .027): high-NFC students view GenAI utility more sceptically.
-- **NFC positively correlated with critical use** (r = .25, p = .044): the motivational drive to invest cognitive effort bridges AI literacy and actual critical behaviour.^[raw/papers/mdpi-2026-critical-genai-use-predictors.md]
+- **NFC positively correlated with critical use** (r = .25, p = .044): the motivational drive to invest cognitive effort bridges AI literacy and actual critical behaviour.
 
 ## Implications
 
 - Institutions should move **beyond basic tool training**: target conceptual misconceptions (e.g. via refutation texts), foster epistemic orientation and intellectual values (video-based interventions shown effective in prior Hefter work), and consider NFC when designing interventions (low-NFC learners may need extra incentives like feedback/interactivity).
 - Knowledge about **human learning** (metacognitive understanding of cognitive offloading costs) is proposed as an additional "meta-knowledge" predictor worth studying.
-- Limitations: small psychology-only sample (88% female), self-report critical-use scale, correlational design (no causality), and the risk that static knowledge-test items go stale as tools evolve — future work should use performance-based measures like the GLAT and objective behaviour logs, and experimental/longitudinal designs.^[raw/papers/mdpi-2026-critical-genai-use-predictors.md]
+- Limitations: small psychology-only sample (88% female), self-report critical-use scale, correlational design (no causality), and the risk that static knowledge-test items go stale as tools evolve — future work should use performance-based measures like the GLAT and objective behaviour logs, and experimental/longitudinal designs.
 
 ## Connected Concepts
 
@@ -6579,7 +6579,7 @@ Research shows that unguided AI use correlates with:
 - Shifted attitudes toward AI biases even when recognized (Fisher et al., 2025)
 - Overall erosion of critical thinking, decision-making, and analytical reasoning (Zhai et al., 2024)
 
-However, when students first engage independently *before* consulting AI, their outputs are significantly stronger (Kosmyna et al., 2025). This mirrors earlier technology integrations — calculators, search engines — where effects depend on pedagogical design, not the tool itself. ^[raw/papers/critical-thinking-genai-scaffolding.md]
+However, when students first engage independently *before* consulting AI, their outputs are significantly stronger (Kosmyna et al., 2025). This mirrors earlier technology integrations — calculators, search engines — where effects depend on pedagogical design, not the tool itself. 
 
 ## Six Essential Processes
 
@@ -6623,7 +6623,7 @@ Two illustrative scenarios demonstrate implementation:
 
 **Scenario B: AI-Mediated Debate and Synthesis.** Students engage in structured debate with AI as a provisional interlocutor, followed by independent written synthesis requiring assumption identification, counterargument consideration, and integration of AI-generated content with original reasoning.
 
-Both scenarios emphasize the critical sequence: *independent thinking first, AI interaction second, reflective integration third*. ^[raw/papers/critical-thinking-genai-scaffolding.md]
+Both scenarios emphasize the critical sequence: *independent thinking first, AI interaction second, reflective integration third*. 
 
 ## Open Questions
 
@@ -7073,7 +7073,7 @@ Laurent Brisson, Maria Segarra, Grégory Smits (2026). [A didactical-driven teac
 > **Huang, S., Scarlatos, A., Lee, J., Lan, A. (2026)** — arXiv preprint.
 ## Analysis
 
-This paper bridges LLM-based dialogue tutoring and interpretable student modeling. By mapping opaque LLM representations to **Item Response Theory** parameters — student ability (θ) and question difficulty (b) — the framework makes turn-by-turn predictions both accurate and cognitively meaningful. This connects directly to [[knowledge-tracing-irt]] by extending IRT beyond static assessment into live dialogue.^[2605.01097](raw/papers/2605.01097.md)
+This paper bridges LLM-based dialogue tutoring and interpretable student modeling. By mapping opaque LLM representations to **Item Response Theory** parameters — student ability (θ) and question difficulty (b) — the framework makes turn-by-turn predictions both accurate and cognitively meaningful. This connects directly to [[knowledge-tracing-irt]] by extending IRT beyond static assessment into live dialogue.
 
 The framework was validated across two tutor-student dialogue datasets and outperformed existing KT baselines. The approach also operationalizes [[intelligent-tutoring]] by enabling tutors to calibrate scaffolds based on explicit difficulty-aware readiness estimates, and supports [[llm-student-modeling-memory]] by providing a principled way to convert LLM outputs into structured student state representations.
 
@@ -8018,7 +8018,7 @@ Annie Yuan (2026). [Expert Cognition Dashboard: From Learning Analytics to Cogni
 > **Wu, S., Xu, C., Zhang, W. (2026)** — arXiv preprint.
 ## Analysis
 
-This paper introduces **PLKT** (Probabilistic Logical Knowledge Tracing), which replaces deterministic vector embeddings with **beta-distributed probabilistic embeddings**, allowing explicit representation of uncertainty in each knowledge state.^[raw/papers/2605.09369.md]
+This paper introduces **PLKT** (Probabilistic Logical Knowledge Tracing), which replaces deterministic vector embeddings with **beta-distributed probabilistic embeddings**, allowing explicit representation of uncertainty in each knowledge state.
 
 The framework applies **transparent logical operations** over probabilistic states to construct auditable reasoning paths — showing educators *which specific past actions* led to a prediction. This bridges [[neural-symbolic-knowledge-tracing]] paradigms and supports [[intelligent-tutoring]] by providing explainable predictions that can be inspected and trusted.
 
@@ -8143,7 +8143,7 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 
 ## Summary
 
-This editorial synthesises the seven papers of the AEHE 51(5) special issue on feedback in the age of generative AI. Its central claim: the question is **not whether GenAI feedback is useful, but how human and GenAI feedback can be combined to sustainably support learning rather than merely improve immediate performance**. Teacher and student feedback literacy are necessary but not sufficient — what is also required is deliberate pedagogic design, institutional conditions that prioritise learning over efficiency, and the purposeful development of human judgement that cannot be delegated to the tool.^[raw/papers/tandf-2026-feedback-futures-genai.md]
+This editorial synthesises the seven papers of the AEHE 51(5) special issue on feedback in the age of generative AI. Its central claim: the question is **not whether GenAI feedback is useful, but how human and GenAI feedback can be combined to sustainably support learning rather than merely improve immediate performance**. Teacher and student feedback literacy are necessary but not sufficient — what is also required is deliberate pedagogic design, institutional conditions that prioritise learning over efficiency, and the purposeful development of human judgement that cannot be delegated to the tool.
 
 The issue's papers include four also ingested into this wiki: [[learner-centered-feedback-ai]], [[chatgpt-feedback-engagement-genai]], [[genai-teacher-feedback-comparison]], and [[care-full-feedback-genai]].
 
@@ -8151,30 +8151,30 @@ The issue's papers include four also ingested into this wiki: [[learner-centered
 
 The editors distill five recurring tensions from the special issue:
 
-1. **Usefulness, trust, and uptake.** GenAI is valued for speed, clarity, and accessibility, while teacher feedback is trusted for contextual understanding, disciplinary expertise, accountability, and human connection. Uptake depends on experienced care, recognition, and presence — relational conditions GenAI struggles to reproduce.^[raw/papers/tandf-2026-feedback-futures-genai.md]
-2. **Immediate task achievement vs longer-term learning.** GenAI excels at helping students complete the task at hand but may orient them toward performance/avoidance goals rather than mastery — echoed in [[chatgpt-feedback-engagement-genai]]'s finding of weak metacognitive engagement and one-off interactions.^[raw/papers/tandf-2026-feedback-futures-genai.md]
-3. **Agency vs dependency.** Agency can be extended via iterative prompting and comparison, but may become "thinner" when students stay active at the level of interaction while ceding evaluative work to the system.^[raw/papers/tandf-2026-feedback-futures-genai.md]
-4. **Access, avoidance, and advantage.** GenAI is unlikely to benefit all students equally; non-users cite trustworthiness, preference for human feedback, and academic integrity. Access alone does not guarantee educative uptake.^[raw/papers/tandf-2026-feedback-futures-genai.md]
-5. **Teacher judgement and labour redistribution.** GenAI redistributes rather than removes teacher labour — teachers still assess accuracy, tone, relationality, and pedagogical value, and poorly designed tools can *increase* workload (see [[learner-centered-feedback-ai]]).^[raw/papers/tandf-2026-feedback-futures-genai.md]
+1. **Usefulness, trust, and uptake.** GenAI is valued for speed, clarity, and accessibility, while teacher feedback is trusted for contextual understanding, disciplinary expertise, accountability, and human connection. Uptake depends on experienced care, recognition, and presence — relational conditions GenAI struggles to reproduce.
+2. **Immediate task achievement vs longer-term learning.** GenAI excels at helping students complete the task at hand but may orient them toward performance/avoidance goals rather than mastery — echoed in [[chatgpt-feedback-engagement-genai]]'s finding of weak metacognitive engagement and one-off interactions.
+3. **Agency vs dependency.** Agency can be extended via iterative prompting and comparison, but may become "thinner" when students stay active at the level of interaction while ceding evaluative work to the system.
+4. **Access, avoidance, and advantage.** GenAI is unlikely to benefit all students equally; non-users cite trustworthiness, preference for human feedback, and academic integrity. Access alone does not guarantee educative uptake.
+5. **Teacher judgement and labour redistribution.** GenAI redistributes rather than removes teacher labour — teachers still assess accuracy, tone, relationality, and pedagogical value, and poorly designed tools can *increase* workload (see [[learner-centered-feedback-ai]]).
 
 ## Conditions of partnership
 
-- GenAI and human feedback are **complementary but only if the complementarity is specified** — via sequencing, comparison, editing, and governance across multiple sources and moments ("an ecology of configured encounters").^[raw/papers/tandf-2026-feedback-futures-genai.md]
+- GenAI and human feedback are **complementary but only if the complementarity is specified** — via sequencing, comparison, editing, and governance across multiple sources and moments ("an ecology of configured encounters").
 - The subtler risk is **displacement, not replacement**: the speed of GenAI feedback may gradually displace the slower, careful work of educational judgement without anyone consciously deciding it should.
 - **Human agency must be proactively maintained rather than assumed** — humans remain responsible for judging, adapting, and rejecting GenAI responses.
-- The editors warn against both "AI slop" and "human slop" (low-quality, standardised feedback from comment banks and templates), arguing GenAI may entrench the latter if ungoverned (see [[care-full-feedback-genai]]).^[raw/papers/tandf-2026-feedback-futures-genai.md]
+- The editors warn against both "AI slop" and "human slop" (low-quality, standardised feedback from comment banks and templates), arguing GenAI may entrench the latter if ungoverned (see [[care-full-feedback-genai]]).
 
 ## Feedback literacy for GenAI contexts
 
-- In a GenAI-enhanced essay-writing study in the issue, **feedback literacy predicted performance while frequency of GenAI use, trust, and prior knowledge did not** — the learner's capacity to seek, evaluate, and act on feedback shapes GenAI's educational value.^[raw/papers/tandf-2026-feedback-futures-genai.md]
-- Existing feedback literacy frameworks (Carless & Boud 2018; Molloy et al. 2020) must be **extended** with GenAI-specific capacities: evaluative judgement (GenAI output can look authoritative while being hallucinatory), metacognitive skill (monitoring when GenAI supports vs narrows vs substitutes thinking), and ethical decision-making (when and how GenAI use supports rather than substitutes for students' own intellectual work).^[raw/papers/tandf-2026-feedback-futures-genai.md]
-- Teacher feedback literacy (design, relational, pragmatic dimensions; Carless & Winstone 2023) is less well theorised: design requires workable GenAI+human feedback workflows; relational oversight cuts both ways (teacher feedback is often perceived as more negative/risky than GenAI — see [[genai-teacher-feedback-comparison]]); pragmatically, what must remain human-led is not only connection but **accountable judgement**.^[raw/papers/tandf-2026-feedback-futures-genai.md]
+- In a GenAI-enhanced essay-writing study in the issue, **feedback literacy predicted performance while frequency of GenAI use, trust, and prior knowledge did not** — the learner's capacity to seek, evaluate, and act on feedback shapes GenAI's educational value.
+- Existing feedback literacy frameworks (Carless & Boud 2018; Molloy et al. 2020) must be **extended** with GenAI-specific capacities: evaluative judgement (GenAI output can look authoritative while being hallucinatory), metacognitive skill (monitoring when GenAI supports vs narrows vs substitutes thinking), and ethical decision-making (when and how GenAI use supports rather than substitutes for students' own intellectual work).
+- Teacher feedback literacy (design, relational, pragmatic dimensions; Carless & Winstone 2023) is less well theorised: design requires workable GenAI+human feedback workflows; relational oversight cuts both ways (teacher feedback is often perceived as more negative/risky than GenAI — see [[genai-teacher-feedback-comparison]]); pragmatically, what must remain human-led is not only connection but **accountable judgement**.
 
 ## Governance and assessment design
 
 - Policy cannot be purely top-down: acceptable GenAI support varies across courses and disciplines, and ambiguous institutional direction pushes responsibility down to individual teachers, individualising the challenge.
 - Assessment reform should make learning processes visible rather than treating final products as direct evidence; institutions must be deliberate about when GenAI use is itself part of what is being assessed.
-- Research should move beyond self-report toward in-situ methods (think-aloud, trace/log data, stimulated recall) and toward how learners **orchestrate feedback across sources** (human, GenAI, artefactual) that differ in credibility and value. Equity research should track not just tool access but educationally productive use.^[raw/papers/tandf-2026-feedback-futures-genai.md]
+- Research should move beyond self-report toward in-situ methods (think-aloud, trace/log data, stimulated recall) and toward how learners **orchestrate feedback across sources** (human, GenAI, artefactual) that differ in credibility and value. Equity research should track not just tool access but educationally productive use.
 
 ## Connected Concepts
 
@@ -9285,19 +9285,19 @@ Oliveira, English, Ryan, Misiejuk, dal Ponte, Lopez-Pernas & Saqr (2026). [The G
 
 ## Summary
 
-The largest study in the AEHE 51(5) special issue: a **cross-sectional survey across four Australian universities** (≈192,000 invited; 10,132 volunteered; this paper analyses **6,960 students** who answered the feedback items). It combines quantitative comparison of perceived helpfulness/trustworthiness of GenAI vs teacher feedback with **thematic analysis of 8,642 open-ended responses** (11,903 coded instances, 48 codes). Core conclusion: **GenAI and teacher feedback serve different needs — complementary but not interchangeable**.^[raw/papers/tandf-2026-genai-teacher-feedback-comparison.md]
+The largest study in the AEHE 51(5) special issue: a **cross-sectional survey across four Australian universities** (≈192,000 invited; 10,132 volunteered; this paper analyses **6,960 students** who answered the feedback items). It combines quantitative comparison of perceived helpfulness/trustworthiness of GenAI vs teacher feedback with **thematic analysis of 8,642 open-ended responses** (11,903 coded instances, 48 codes). Core conclusion: **GenAI and teacher feedback serve different needs — complementary but not interchangeable**.
 
 ## Quantitative findings
 
 - **Usage split:** 49.7% (n = 3,461) of students had sought feedback from GenAI; 50.3% had not.
 - **Helpfulness:** 83.9% rated AI feedback somewhat/very helpful vs 82.2% for teacher feedback — a small but significant teacher advantage (mean diff 0.14, t(3327) = −7.17, p < .001, d = −0.13).
-- **Trustworthiness:** the striking gap — **90.5% rated teacher feedback somewhat/very trustworthy vs 60.1% for AI** (mean diff 0.93, t(3327) = −49.30, p < .001, d = −0.89, a large effect). 58.3% rated teacher feedback *very* trustworthy vs 8.8% for AI.^[raw/papers/tandf-2026-genai-teacher-feedback-comparison.md]
+- **Trustworthiness:** the striking gap — **90.5% rated teacher feedback somewhat/very trustworthy vs 60.1% for AI** (mean diff 0.93, t(3327) = −49.30, p < .001, d = −0.89, a large effect). 58.3% rated teacher feedback *very* trustworthy vs 8.8% for AI.
 
 ## Qualitative findings — why they differ
 
 When comparing GenAI to teacher feedback, students said GenAI was **more**: accessible/easy (99.3% of access codes), fast, voluminous, understandable, objective (less biased), and positive in tone — and **less risky** (99.3% of relational-risk codes: less vulnerable, no loss of social status). It aided sense-making and could be used before submission.
 
-Teacher feedback was **more**: relevant, contextualised (95.2% of contextualisation codes), specific, in-depth, personal/relational, and expert — but also more frequently **negative in tone** (e.g. dismissive, insulting) and more likely to produce negative feelings (85.3% of negativity codes).^[raw/papers/tandf-2026-genai-teacher-feedback-comparison.md]
+Teacher feedback was **more**: relevant, contextualised (95.2% of contextualisation codes), specific, in-depth, personal/relational, and expert — but also more frequently **negative in tone** (e.g. dismissive, insulting) and more likely to produce negative feelings (85.3% of negativity codes).
 
 The two most frequent comparison themes were the nature of the feedback **information** (54.8% of coded instances; quality, reliability, relevance, contextualisation) and feedback **processes** (22.7%; access, timing, effort, sense-making).
 
@@ -9306,13 +9306,13 @@ The two most frequent comparison themes were the nature of the feedback **inform
 - **28.1%** were unaware it was possible or did not know how (a support/equity gap, not a preference).
 - **28.7%** cited trustworthiness/reliability concerns.
 - **22.5%** cited values: preference for human connection (4.3%) or no perceived need (6.3%).
-- Smaller shares: academic integrity (9.1%), privacy (2.7%), wanting to preserve effortful learning (18 of 24 effort codes).^[raw/papers/tandf-2026-genai-teacher-feedback-comparison.md]
+- Smaller shares: academic integrity (9.1%), privacy (2.7%), wanting to preserve effortful learning (18 of 24 effort codes).
 
 ## Implications
 
 - Students already self-initiate GenAI feedback at scale, so institutions should actively support **how** students engage with it (feedback literacy, evaluative judgement — cf. [[ai-literacy]]).
 - The trust gap (90.5% vs 60.1%) is not simply an accuracy verdict; it partly reflects source-credibility heuristics (Lipnevich & Smith 2008; Nazaretsky et al. 2024) and may be context-dependent (language-form advice vs deeply contextual course guidance).
-- The "less risky" property makes GenAI feedback valuable for feedback seeking, especially for anxious students — complementing [[chatgpt-feedback-engagement-genai]]'s "calm, stress-free" affective finding — while teacher feedback retains contextual expertise and relational recognition.^[raw/papers/tandf-2026-genai-teacher-feedback-comparison.md]
+- The "less risky" property makes GenAI feedback valuable for feedback seeking, especially for anxious students — complementing [[chatgpt-feedback-engagement-genai]]'s "calm, stress-free" affective finding — while teacher feedback retains contextual expertise and relational recognition.
 - Directly challenges replacement narratives: GenAI is an **additional source**, not a substitute for the teacher-learner relationship (cf. [[ai-generated-feedback-higher-ed]], which found equivalent *outcomes* under strong assessment architecture — outcomes and *perceptions* can diverge).
 
 ## Connected Concepts
@@ -9573,31 +9573,31 @@ Relative to control (practice mean 0.284; exam mean 0.321, normalized grades):
 | **GPT Tutor** | **+127%** (β = 0.361\*\*) | ≈ 0 (β = −0.004, n.s.) |
 
 - GPT Base significantly **improves** practice performance but **significantly worsens** later unassisted exam performance — students who never had AI access actually outperformed them.
-- GPT Tutor's guardrails **largely eliminate the learning harm** (point estimate near zero), though they do not produce a positive learning effect either.^[raw/papers/pnas-2025-guardrails-harm-learning.md]
+- GPT Tutor's guardrails **largely eliminate the learning harm** (point estimate near zero), though they do not produce a positive learning effect either.
 
 ### Mechanism: Students Use GPT Base as a Crutch
 Two candidate explanations for the harm were tested — (1) GPT Base's errors mislead students, and (2) students offload thinking by copying answers. The evidence strongly favors the second:
 - **Error analysis:** When GPT Base's logical-error rate on a practice problem is higher, it hurts *practice* performance but shows **no spillover** to the corresponding unassisted exam problem — so students aren't being systematically misled into exam errors.
 - **Engagement analysis:** Students in the GPT Base arm send far fewer messages and overwhelmingly just "ask for the answer" or restate the question (superficial conversations dominate). In the GPT Tutor arm, a growing share of conversations are *substantive* (asking for help, attempting answers independently), and this improves within the very first session.
-- GPT Base answered correctly only **51% of the time** on the 57 practice problems (42% logical errors, 8% arithmetic errors) — yet students still copy its outputs.^[raw/papers/pnas-2025-guardrails-harm-learning.md]
+- GPT Base answered correctly only **51% of the time** on the 57 practice problems (42% logical errors, 8% arithmetic errors) — yet students still copy its outputs.
 
 ### Students Don't Perceive the Harm
-Students in the GPT Base arm performed *worse* on the exam but did **not** report learning or performing less; GPT Tutor users *perceived* they performed better than control even though exam scores were statistically indistinguishable. This perceived-vs-actual-learning mismatch parallels the "feeling of learning" literature and means self-report is an unreliable gauge of AI's learning impact.^[raw/papers/pnas-2025-guardrails-harm-learning.md]
+Students in the GPT Base arm performed *worse* on the exam but did **not** report learning or performing less; GPT Tutor users *perceived* they performed better than control even though exam scores were statistically indistinguishable. This perceived-vs-actual-learning mismatch parallels the "feeling of learning" literature and means self-report is an unreliable gauge of AI's learning impact.
 
 ### Secondary Results
 - **Skill-gap narrowing is temporary:** Both AI arms reduced grade dispersion (HHI) during practice (biggest help to weakest students), but the effect **does not persist** on the unassisted exam.
 - **Limited heterogeneity:** Little evidence of differential effects by student ability, resources, or effort on exam performance.
-- **Robustness:** Intention-to-treat (including noncompliers), alternative specifications, and absenteeism checks all confirm the pattern.^[raw/papers/pnas-2025-guardrails-harm-learning.md]
+- **Robustness:** Intention-to-treat (including noncompliers), alternative specifications, and absenteeism checks all confirm the pattern.
 
 ## Design Lesson: What the Guardrails Did
-GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive prompt design is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe misconceptions) and call for combining pedagogical software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.^[raw/papers/pnas-2025-guardrails-harm-learning.md]
+GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive prompt design is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe misconceptions) and call for combining pedagogical software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.
 
 ## Implications
 - **For the wiki:** This is the strongest *causal, field-deployed* evidence for the [[over-reliance]] and [[cognitive-offloading]] phenomena, and a direct, preregistered demonstration of the [[genai-performance-vs-learning]] distinction (performance ↑, learning ↓). It complements [[generative-ai-reduced-study-time-math]] (population-scale behavioral evidence) and [[over-reliance]] (lab causal evidence), and motivates [[scaffolding]] and [[socratic-ai-dialogue]] designs that preserve learning.
 - **For practice/policy:** Because ChatGPT-like tools are already widely used by students off-platform, the GPT Base harm is immediately relevant. Deployments where learning matters need explicit guardrails (hint-not-answer prompts, teacher-authored scaffolding, answer-checking).
 
 ## Limitations (per authors)
-Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), short-term outcomes only; writing and other subjects lack the objective grading used here. Generalizability to newer models and other contexts requires further study.^[raw/papers/pnas-2025-guardrails-harm-learning.md]
+Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), short-term outcomes only; writing and other subjects lack the objective grading used here. Generalizability to newer models and other contexts requires further study.
 
 ## Connected Concepts
 
@@ -11604,32 +11604,32 @@ Marina Lepp (2026). [Patterns of Learner-AI Interaction and Academic Performance
 
 ## Summary
 
-An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI-powered feedback tool combining (1) a **BERT-based ML model** (from Aldino et al. 2024) that detects which learner-centered feedback components are missing from teacher-written feedback and suggests them, and (2) **ChatGPT-4o mini** to rephrase/enhance the teacher's draft. Teachers gave feedback on a simulated student presentation, then used the tool, then were interviewed. The study answers two questions: *how teachers interact with* AI feedback tools (RQ1) and *how they perceive* them (RQ2). Framework: Ryan et al.'s (2023) learner-centered feedback dimensions — **Future Impact, Sensemaking, Agency**.^[raw/papers/tandf-2026-learner-centered-feedback-ai.md]
+An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI-powered feedback tool combining (1) a **BERT-based ML model** (from Aldino et al. 2024) that detects which learner-centered feedback components are missing from teacher-written feedback and suggests them, and (2) **ChatGPT-4o mini** to rephrase/enhance the teacher's draft. Teachers gave feedback on a simulated student presentation, then used the tool, then were interviewed. The study answers two questions: *how teachers interact with* AI feedback tools (RQ1) and *how they perceive* them (RQ2). Framework: Ryan et al.'s (2023) learner-centered feedback dimensions — **Future Impact, Sensemaking, Agency**.
 
 ## RQ1 — How teachers interacted with the tools
 
 ### ML suggestion acceptance (detection → adoption)
 - The ML model most often flagged missing **Meeting Learning Objective** (20 of 21 teachers omitted it; **16 accepted** the suggestion) and **Student–Teacher Relationship** (14 omitted; **12 accepted**).
 - **Affirmation and Encouragement** was missing in 6 cases but accepted by **all** 6 teachers (100%).
-- Teachers used professional judgement to accept or reject suggestions — the ML functioned as a diagnostic assistant, not an autopilot.^[raw/papers/tandf-2026-learner-centered-feedback-ai.md]
+- Teachers used professional judgement to accept or reject suggestions — the ML functioned as a diagnostic assistant, not an autopilot.
 
 ### Revision of ChatGPT-enhanced feedback
 - **12 of 21 teachers** made further sentence-level revisions; the rest left the text unchanged.
 - Most common actions: **editing (f = 32)** and **removing (f = 27)**; adding was rare (f = 8).
-- The dominant pattern was **calibrating tone**: Edit–Praise (f = 11, e.g. "First of all, I want to congratulate you on completing your assignment!" → "Well done on completing your assignment"), Remove–Suggestion (f = 9), Remove–Encouragement (f = 8), Remove–Praise (f = 6), Edit–Correction (f = 9). Teachers systematically **moderated exaggerated praise and generic suggestions** to protect authenticity and professional voice.^[raw/papers/tandf-2026-learner-centered-feedback-ai.md]
+- The dominant pattern was **calibrating tone**: Edit–Praise (f = 11, e.g. "First of all, I want to congratulate you on completing your assignment!" → "Well done on completing your assignment"), Remove–Suggestion (f = 9), Remove–Encouragement (f = 8), Remove–Praise (f = 6), Edit–Correction (f = 9). Teachers systematically **moderated exaggerated praise and generic suggestions** to protect authenticity and professional voice.
 - Revisions clustered most strongly in the **Agency dimension** — especially Student–Teacher Relationship (f = 24; encouragement f = 11) — confirming that the relational/affective dimension of feedback resists AI delegation.
 
 ## RQ2 — Teacher perceptions
 
 - **Benefits:** promotes reflection (n = 14), improves language and structure (n = 11), identifies missing components (n = 10), saves time (n = 2).
 - **Challenges:** need for human editing (n = 9), inconsistent tone (n = 7), potential misinformation (n = 5), trust issues (n = 5).
-- **Experience gap:** teachers with **>5 years of experience reported more challenges** (tone, editing burden, trust, misinformation); **less-experienced teachers valued scaffolding benefits** (identifying missing components, saving time). The authors flag a developmental risk: novice teachers who defer to AI suggestions may build less independent feedback judgement.^[raw/papers/tandf-2026-learner-centered-feedback-ai.md]
+- **Experience gap:** teachers with **>5 years of experience reported more challenges** (tone, editing burden, trust, misinformation); **less-experienced teachers valued scaffolding benefits** (identifying missing components, saving time). The authors flag a developmental risk: novice teachers who defer to AI suggestions may build less independent feedback judgement.
 
 ## Interpretation
 
 - The tools were most valuable as **reflective prompts that surface overlooked aspects** of feedback — "making invisible gaps visible" — scaffolding teachers' evaluative judgement, rather than as providers of finalised text (an **"assist but verify"** pattern; cf. [[human-in-the-loop-ai]]).
 - **Design implications:** adjustable tone parameters, discipline-specific templates, and transparency controls; without them AI adoption may *increase* rather than reduce workload and can erode teacher authority if positioned as autonomous providers.
-- The authors call for future research on **student perspectives** of AI-assisted teacher feedback and longitudinal study of whether reliance strengthens or displaces evaluative judgement.^[raw/papers/tandf-2026-learner-centered-feedback-ai.md]
+- The authors call for future research on **student perspectives** of AI-assisted teacher feedback and longitudinal study of whether reliance strengthens or displaces evaluative judgement.
 
 ## Connected Concepts
 
@@ -13405,7 +13405,7 @@ Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026). [Why Machines Misread Pedagogical Qu
 > **Jia, Y., Li, D., Chen, J., Mao, Z., Tong, M., Li, Y., Wang, X. (2026)** — arXiv preprint.
 ## Analysis
 
-This paper proposes **MBP-KT**, which transforms raw learner interaction sequences into structured **meta-behavioral patterns** before extracting collaborative signals. Raw sequences contain redundant noise; by decomposing interactions into distinct behavioral patterns (success-streaks, struggle-recovery, hesitation), the model captures higher-order learning dynamics.^[2605.08697](raw/papers/2605.08697.md)
+This paper proposes **MBP-KT**, which transforms raw learner interaction sequences into structured **meta-behavioral patterns** before extracting collaborative signals. Raw sequences contain redundant noise; by decomposing interactions into distinct behavioral patterns (success-streaks, struggle-recovery, hesitation), the model captures higher-order learning dynamics.
 
 The parameter-free global extraction module makes this broadly applicable — extracted representations can be injected into any downstream KT architecture. This connects to [[neural-symbolic-knowledge-tracing]] by introducing structured behavioral representations, and to [[adaptive-learning]] by providing a model-agnostic enhancement layer.
 
@@ -13904,22 +13904,22 @@ A **natural-experiment / design-based study** tracking eight iterations of a low
 
 ## Method (key design)
 - Quizzes 3–6 analysed (first two dropped as orientation; Quiz 7 dropped as low-stakes). Item-level performance (% correct = difficulty; SD = variability) from the LMS.
-- **3 × 4 mixed-design ANOVA**: AI-availability (between, 3 levels) × quiz number (within, 4 levels). Small per-condition N (2–3 cohorts), so effect sizes (ω²) reported as the primary evidence.^[raw/papers/tandf-2026-moral-panic-genai.md]
+- **3 × 4 mixed-design ANOVA**: AI-availability (between, 3 levels) × quiz number (within, 4 levels). Small per-condition N (2–3 cohorts), so effect sizes (ω²) reported as the primary evidence.
 
 ## Key Findings
 
 ### Applied questions — "available" hurt, "integrated" recovered
 - **Main effect of GenAI availability:** F(2,5) = 5.85, p = 0.049, **ω² = 0.35** (GenAI availability accounts for 35% of variance in applied-question performance).
 - In the **GenAI-available** condition, applied performance was **significantly lower** than baseline on Quizzes 4, 5, 6. Because applied questions could *not* be answered directly by GenAI, the drop indicates students were **less prepared** — either unable to use GenAI effectively or unable to critically evaluate its output.
-- In the **GenAI-integrated** condition, applied performance **returned to ~pre-GenAI levels** (and exceeded baseline on one harder quiz). Teaching students to use GenAI for data summarising levelled the field.^[raw/papers/tandf-2026-moral-panic-genai.md]
+- In the **GenAI-integrated** condition, applied performance **returned to ~pre-GenAI levels** (and exceeded baseline on one harder quiz). Teaching students to use GenAI for data summarising levelled the field.
 
 ### Knowledge questions — availability masked cheating; paper quiz revealed a deficit
 - Same main effect, **ω² = 0.35**. Knowledge performance stayed at baseline during GenAI-available, then **dropped below baseline** once delivered on paper in the integrated condition.
-- The authors interpret the *stable central tendency but elevated variability* during GenAI-available as evidence that **some students unethically used GenAI** to boost knowledge scores (heterogeneous use masked underlying learning differences). Moving knowledge quizzes to paper removed that opportunity and exposed that integrated-cohort students were **less prepared** — plausibly from over-reliance on GenAI to summarise content.^[raw/papers/tandf-2026-moral-panic-genai.md]
+- The authors interpret the *stable central tendency but elevated variability* during GenAI-available as evidence that **some students unethically used GenAI** to boost knowledge scores (heterogeneous use masked underlying learning differences). Moving knowledge quizzes to paper removed that opportunity and exposed that integrated-cohort students were **less prepared** — plausibly from over-reliance on GenAI to summarise content.
 
 ### Variability — the headline signal
 - **Applied-question variability:** F(2,5) = 64.84, p < 0.001, **ω² = 0.88** — GenAI availability accounted for **88%** of variability. Variability spiked in the GenAI-available condition, returned to baseline under integration.
-- **Knowledge-question variability:** availability × time interaction F(6,15) = 11.65, p < 0.001, ω² = 0.57; main effect ω² = 0.78. GenAI availability accounted for **78%** of the increase. Paper delivery produced the **lowest, most stable variability** → read as greater **equity** in the classroom.^[raw/papers/tandf-2026-moral-panic-genai.md]
+- **Knowledge-question variability:** availability × time interaction F(6,15) = 11.65, p < 0.001, ω² = 0.57; main effect ω² = 0.78. GenAI availability accounted for **78%** of the increase. Paper delivery produced the **lowest, most stable variability** → read as greater **equity** in the classroom.
 
 ### Student feedback (pilot, n = 28/149 responded)
 Mixed: 53% preferred the new split format (paper knowledge + take-home applied); common praise was reduced stress and more active calculation. Others preferred the old 25-min efficiency.
@@ -16004,13 +16004,13 @@ Janka Pecuchova et al. (2026). [*Reimagining feedback through generative AI in e
 
 ## Key Findings
 
-Interactive assessments generate sequential process data that conventional item response models (IRT) cannot adequately handle. This paper proposes a **reinforcement learning measurement model** that links action choices to state-action values, extending beyond existing MDP-based measurement approaches.^[raw/papers/2605.09305.md]
+Interactive assessments generate sequential process data that conventional item response models (IRT) cannot adequately handle. This paper proposes a **reinforcement learning measurement model** that links action choices to state-action values, extending beyond existing MDP-based measurement approaches.
 
-The model addresses the gap between traditional static assessment models and the dynamic, interactive nature of modern computer-based assessments. It builds on prior work (LaMar, 2018) but improves reliability of estimates for interactive assessments where students' action sequences carry diagnostic information.^[raw/papers/2605.09305.md]
+The model addresses the gap between traditional static assessment models and the dynamic, interactive nature of modern computer-based assessments. It builds on prior work (LaMar, 2018) but improves reliability of estimates for interactive assessments where students' action sequences carry diagnostic information.
 
 ## Connections to AIED
 
-This work directly extends [[knowledge-tracing-irt]] by replacing static IRT with a dynamic RL-based approach. It connects to [[assessment]] by providing a new framework for scoring interactive assessments that capture student problem-solving processes rather than just final answers.^[raw/papers/2605.09305.md]
+This work directly extends [[knowledge-tracing-irt]] by replacing static IRT with a dynamic RL-based approach. It connects to [[assessment]] by providing a new framework for scoring interactive assessments that capture student problem-solving processes rather than just final answers.
 
 The approach also relates to [[knowledge-tracing]] and [[learning-analytics]] as it extracts diagnostic signals from interaction data that go beyond traditional performance metrics.
 
@@ -16033,7 +16033,7 @@ Xu, W., & Ji, F. (2026). [Reinforcement learning measurement model](https://arxi
 > **Kim, J., Kim, H. (2026)** — ITS 2026 (Springer LNCS).
 ## Analysis
 
-This ITS 2026 paper challenges claims about attention-augmented Programming Knowledge Tracing (PKT) superiority. The authors identify three critical protocol flaws: **attention dimension misconfiguration**, **temporal causality violations** (ignoring ServerTimestamp), and **hyperparameter leakage** across CV folds. When controlled, the gap between attention-enhanced models and standard DKT narrows significantly.^[2605.04727](raw/papers/2605.04727.md)
+This ITS 2026 paper challenges claims about attention-augmented Programming Knowledge Tracing (PKT) superiority. The authors identify three critical protocol flaws: **attention dimension misconfiguration**, **temporal causality violations** (ignoring ServerTimestamp), and **hyperparameter leakage** across CV folds. When controlled, the gap between attention-enhanced models and standard DKT narrows significantly.
 
 This reinforces [[ground-truth-reliability-aied]] by showing that experimental protocol flaws can produce misleading performance claims. It also has implications for benchmark design in educational AI, arguing for standardized evaluation frameworks. The CodeWorkout dataset protocol serves as a template for [[programming-its]] research.
 
@@ -16401,35 +16401,35 @@ Wang, D., & Bian, C. (2026). [Scaffolding critical engagement with GenAI: Transf
 
 ## Summary
 
-A **randomized 2×2 full-factorial field experiment** (N = 179 German university students, 22 days of app use, 12-week follow-up) testing two design principles for a **mobile chatbot-based learning journaling system** aimed at keeping students motivated to maintain reflective learning journals — a known pain point (rapid decline in motivation/engagement after brief use). The two principles: (1) an **example-based built-in course** (7 days, one SRL topic per day, time-gated, modeled example responses) and (2) an **LLM-based journaling assistant** (GPT-3.5-turbo-1106) that scaffolds entries by summarizing drafts, asking clarifying follow-up questions, and generating alternative first-person formulations.^[raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
+A **randomized 2×2 full-factorial field experiment** (N = 179 German university students, 22 days of app use, 12-week follow-up) testing two design principles for a **mobile chatbot-based learning journaling system** aimed at keeping students motivated to maintain reflective learning journals — a known pain point (rapid decline in motivation/engagement after brief use). The two principles: (1) an **example-based built-in course** (7 days, one SRL topic per day, time-gated, modeled example responses) and (2) an **LLM-based journaling assistant** (GPT-3.5-turbo-1106) that scaffolds entries by summarizing drafts, asking clarifying follow-up questions, and generating alternative first-person formulations.
 
 ## Design & method
 
 - **Groups:** Baseline (B, n=53) | Assistant (A, n=53) | Course (C, n=52) | Course+Assistant (CA, n=52); stratified randomization (gender, age, LIST-K SRL scales).
-- **Measures:** Intrinsic Motivation Inventory (IMI: enjoyment, perceived choice, pressure, competence, effort); LIST-K (SRL: cognition, metacognition, internal/external resource strategies) at pre/post/12-week follow-up; **behavioral engagement = characters written per journal prompt** (7,286 responses; 1,904 entries; mean 10.64 entries/student).^[raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
-- Engagement analyses: multiple regression + mixed-effects robustness check; outliers trimmed (top 1% and single-word messages removed → 5,181 messages, M = 71.87 chars).^[raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
+- **Measures:** Intrinsic Motivation Inventory (IMI: enjoyment, perceived choice, pressure, competence, effort); LIST-K (SRL: cognition, metacognition, internal/external resource strategies) at pre/post/12-week follow-up; **behavioral engagement = characters written per journal prompt** (7,286 responses; 1,904 entries; mean 10.64 entries/student).
+- Engagement analyses: multiple regression + mixed-effects robustness check; outliers trimmed (top 1% and single-word messages removed → 5,181 messages, M = 71.87 chars).
 
 ## Key findings
 
 ### Intrinsic motivation (H1/H2)
 - **Course → motivation: SUPPORTED.** Small significant effect on enjoyment (η² = 0.03, F(1,153) = 4.81, p < .05) and perceived competence (η² = 0.04, F(1,154) = 5.77, p < .05). No effect on perceived choice or pressure.
-- **Assistant → motivation: NOT SUPPORTED.** No significant effect on enjoyment (p = .67) or competence (p = .95); no interaction between features. Even usage-days analysis found no competence effect (t = 1.95, p = .054).^[raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
+- **Assistant → motivation: NOT SUPPORTED.** No significant effect on enjoyment (p = .67) or competence (p = .95); no interaction between features. Even usage-days analysis found no competence effect (t = 1.95, p = .054).
 
 ### Behavioral engagement (H3/H4)
 - **Both features SUPPORTED.** Regression on characters written: Assistant B = 18.32***, Course B = 22.95***, with a significant **negative interaction** (Course×Assistant B = −15.21***) — mean message lengths B 51.21 → A 71.25 / C 79.26 / CA 83.04.
-- **Distinct mechanisms:** the course's effect was *constant* (unrelated to course days completed), while the **assistant formed a positive feedback loop** — more assistant use predicted longer messages over time (B = 6.20 per assistant day, p < .001), echoing the social-cognitive modeling account (Schunk): the assistant's model adapts, the course's static examples do not.^[raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
+- **Distinct mechanisms:** the course's effect was *constant* (unrelated to course days completed), while the **assistant formed a positive feedback loop** — more assistant use predicted longer messages over time (B = 6.20 per assistant day, p < .001), echoing the social-cognitive modeling account (Schunk): the assistant's model adapts, the course's static examples do not.
 
 ### Course benefit is temporary
 - Course users were far more likely to be "early" writers (OR = 3.45, p < .001) — less reliant on the 9 PM notification — but **significantly fewer reached 10+ journal days** (OR = 0.38, p < .001): most completed the 7-day course, journaled one more day, then stopped. Static one-off scaffolding stimulates early activity but does not sustain it.
 
 ### SRL development
 - All groups (including baseline) significantly increased cognitive and metacognitive strategy use from pre to 12-week follow-up (p < .05) — the structured prompting concept itself supported SRL, unlike earlier structured-journal studies.
-- 32 of 97 users reported the auto-generated summaries helped them reflect on prior entries (an unprompted purpose).^[raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
+- 32 of 97 users reported the auto-generated summaries helped them reflect on prior entries (an unprompted purpose).
 
 ## Implications
 
 - For reflective-learning-tool design: pair one-off course-style scaffolding with **recurring/adaptive support** (follow-up prompts, phase-specific guidance, timely interventions) to sustain engagement; the LLM assistant is the more promising candidate for durable engagement dynamics, but needs to be used (only 55.9% used it post-onboarding — a self-selection caveat).
-- Engagement measured as text length only; cognitive engagement/reflection quality untested. Implementation is a single instantiation; seasonal/semester effects possible; long-term effects beyond 3 weeks unverified.^[raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md]
+- Engagement measured as text length only; cognitive engagement/reflection quality untested. Implementation is a single instantiation; seasonal/semester effects possible; long-term effects beyond 3 weeks unverified.
 
 ## Connected Concepts
 
@@ -17402,14 +17402,14 @@ CRPE, S.N. (2026). [How State Policy Can Help Teachers Use AI Well](https://www.
 
 > **Yicheng Sun, Yihan Liao & Xiaoxue Ma (2026)** — *Smart Learning Environments* (Springer), Article in Press. Open Access, CC BY 4.0. doi:10.1186/s40561-026-00459-9.
 
-Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring systems interpret **complex engineering diagrams** (circuit schematics, network topologies, block flowcharts) in STEM. Current AI systems fail on diagrammatic questions because they cannot reliably extract spatial relationships and structural connectivity from noisy real-world diagrams (curved lines, overlapping elements, occluded labels). StructRAG shifts from surface-level visual recognition to **pattern-level structural reasoning**: convert the diagram to a graph, retrieve structurally similar canonical patterns, and prompt an LLM to validate plausibility and completeness — enabling detection of missing connections and structure-aware feedback.^[raw/papers/sle-2026-structrag-diagram-reasoning.md]
+Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring systems interpret **complex engineering diagrams** (circuit schematics, network topologies, block flowcharts) in STEM. Current AI systems fail on diagrammatic questions because they cannot reliably extract spatial relationships and structural connectivity from noisy real-world diagrams (curved lines, overlapping elements, occluded labels). StructRAG shifts from surface-level visual recognition to **pattern-level structural reasoning**: convert the diagram to a graph, retrieve structurally similar canonical patterns, and prompt an LLM to validate plausibility and completeness — enabling detection of missing connections and structure-aware feedback.
 
 ## Architecture (four components)
 
 1. **Diagram-to-Graph Conversion** — OCR (Tesseract, multi-scale 1.0/1.5/2.0, majority voting) + classical CV (Hough Line Transform, contour detection, Zhang–Suen skeletonisation for curved paths). Edge confidence `Cij = 0.45·scont + 0.25·sprox + 0.20·salign + 0.10·snode`; edges ≥ 0.65 accepted, 0.40–0.65 routed to an *uncertain-edge set* U for pattern-level validation, < 0.40 discarded as noise.
 2. **Structural Pattern Retrieval** — abstracts the recognized graph into topology patterns (star, ring, chain/bus, bridge/mesh, tree, hybrid, cross-layer) and retrieves similar templates from a curated library using **graph-edit-distance (GED)** matching.
 3. **Pattern-Aware Prompt Construction** — feeds the LLM the graph G, uncertain edges U, retrieved templates, and candidate corrections ΔE.
-4. **LLM-Guided Structural Reasoning and Correction** — GPT-4 jointly interprets G, U, T*, and ΔE to decide which uncertain edges to add and which structures to correct, with output ensembling.^[raw/papers/sle-2026-structrag-diagram-reasoning.md]
+4. **LLM-Guided Structural Reasoning and Correction** — GPT-4 jointly interprets G, U, T*, and ΔE to decide which uncertain edges to add and which structures to correct, with output ensembling.
 
 ## Results (1,650 STEM diagram-based questions)
 
@@ -17417,14 +17417,14 @@ Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring 
 - **RQ2 (missing-connection recovery):** micro-averaged **edge-level F1 = 93.0%** (CI [91.8, 94.2]) — best in every topology category; largest gains over OCR+CV on irregular (26.4 pts), bridge/mesh (23.1), and ring (21.6) topologies.
 - **RQ3 (retrieval strategy):** pattern-level retrieval beats node-level statistics and example-based retrieval.
 - Best on star (94.5%) and chain/bus (93.1%); hardest on bridge/mesh (85.8%) and unclassified/irregular (81.4%) diagrams — yet still best-in-class there.
-- Component ablation (Table 10): full pipeline 89.3/93.0 vs pattern-aware GPT-4 without ensembling 87.8/91.4 and template retrieval + GED without LLM 82.7/87.6 — every component contributes.^[raw/papers/sle-2026-structrag-diagram-reasoning.md]
+- Component ablation (Table 10): full pipeline 89.3/93.0 vs pattern-aware GPT-4 without ensembling 87.8/91.4 and template retrieval + GED without LLM 82.7/87.6 — every component contributes.
 
 ## Interpretation
 
 - Question-level accuracy is always lower than edge-level F1 because Acc demands a perfect whole-diagram match, while F1 captures partial correctness — relevant for education, where identifying *most* missing connections already yields useful structural feedback.
 - Grounded in **cognitive apprenticeship**: instructors guide students through visual problem-solving by highlighting analogies, missing links, and logical dependencies; StructRAG's template retrieval mirrors that by making structural relationships explicit and auditable (an intermediate graph representation, rather than end-to-end visual matching).
 - Interviews with 12 STEM educators were positive: actionable structural feedback, adaptability across diagram types, and help explaining missing/ambiguous connections to students struggling with abstract topologies.
-- Limitations: dataset withheld (university teaching materials; schema/code/prompts released), and no learner-outcome study yet — future work should test effects on learning, retention, transfer, motivation, and cognitive load in live tutoring contexts.^[raw/papers/sle-2026-structrag-diagram-reasoning.md]
+- Limitations: dataset withheld (university teaching materials; schema/code/prompts released), and no learner-outcome study yet — future work should test effects on learning, retention, transfer, motivation, and cognitive load in live tutoring contexts.
 
 ## Connected Concepts
 
@@ -18330,13 +18330,13 @@ Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, Kevin He (2026).
 
 ## Key Findings
 
-Generative AI can help teachers rapidly create classroom-ready visual materials, particularly in mathematics where diagrams and visual representations must be **pedagogically meaningful and instructionally correct**. This paper investigates when and how teachers should control AI generation of mathematical visuals.^[raw/papers/2605.10672.md]
+Generative AI can help teachers rapidly create classroom-ready visual materials, particularly in mathematics where diagrams and visual representations must be **pedagogically meaningful and instructionally correct**. This paper investigates when and how teachers should control AI generation of mathematical visuals.
 
-The study identifies key decision points where teacher input is essential: ensuring pedagogical correctness of visual representations, alignment with curriculum goals, and appropriateness for student levels. The authors propose a framework for teacher-AI collaboration in visual material creation that balances AI efficiency with pedagogical control.^[raw/papers/2605.10672.md]
+The study identifies key decision points where teacher input is essential: ensuring pedagogical correctness of visual representations, alignment with curriculum goals, and appropriateness for student levels. The authors propose a framework for teacher-AI collaboration in visual material creation that balances AI efficiency with pedagogical control.
 
 ## Connections to AIED
 
-This work connects to [[teacher-role]] by showing how teachers remain essential as pedagogical validators of AI-generated content. It intersects with [[stem-education]] since mathematics visual generation is a core need in STEM teaching.^[raw/papers/2605.10672.md]
+This work connects to [[teacher-role]] by showing how teachers remain essential as pedagogical validators of AI-generated content. It intersects with [[stem-education]] since mathematics visual generation is a core need in STEM teaching.
 
 The findings also relate to [[generative-ai]] and [[principled-ai-education]], suggesting that principled AI use in education requires human oversight for pedagogically sensitive outputs. The teacher control framework connects to [[agentic-workflows-education]] where AI agents assist but humans direct.
 
@@ -18521,7 +18521,7 @@ Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). [Techno
 > **Zhan, P., Chen, W., Chen, W., Pan, S., Cai, R. (2026)** — arXiv preprint.
 ## Analysis
 
-This paper addresses a critical but under-examined issue in KT systems: **selection bias** from non-random exercise recommendations. Prior KT methods train on observed logs using standard empirical risk, producing biased mastery estimates that compound errors in downstream recommendation loops. The proposed **Temporal Smoothness Doubly Robust (TSDR)** framework combines a propensity model with an error imputation model, regularized for temporal smoothness.^[2605.05958](raw/papers/2605.05958.md)
+This paper addresses a critical but under-examined issue in KT systems: **selection bias** from non-random exercise recommendations. Prior KT methods train on observed logs using standard empirical risk, producing biased mastery estimates that compound errors in downstream recommendation loops. The proposed **Temporal Smoothness Doubly Robust (TSDR)** framework combines a propensity model with an error imputation model, regularized for temporal smoothness.
 
 The doubly robust property ensures the estimator remains unbiased if *either* the propensity or imputation model is correct. This connects to [[personalized-learning]] by ensuring adaptive recommendations are not systematically biased toward high-engagement students.
 
@@ -19056,13 +19056,13 @@ Tzirides, A., Galla, M., Cope, B., & Kalantzis, M. (2025). [*Thinking Through AI
 
 ## Key Findings
 
-Adaptive learning systems produce substantial learning gains, yet many students engage too briefly or superficially to benefit. This paper addresses the central challenge of **measuring student effort** during multi-step problem solving using response-time propensities.^[raw/papers/2605.08943.md]
+Adaptive learning systems produce substantial learning gains, yet many students engage too briefly or superficially to benefit. This paper addresses the central challenge of **measuring student effort** during multi-step problem solving using response-time propensities.
 
-The authors develop models that infer student effort from response-time patterns, finding that common log-based proxies like time-on-task are insufficient. They propose response-time propensity modeling as a more nuanced approach to identifying when students are superficially engaging versus deeply working through problems.^[raw/papers/2605.08943.md]
+The authors develop models that infer student effort from response-time patterns, finding that common log-based proxies like time-on-task are insufficient. They propose response-time propensity modeling as a more nuanced approach to identifying when students are superficially engaging versus deeply working through problems.
 
 ## Connections to AIED
 
-This work directly connects to [[learning-analytics]] by providing a validated method for inferring effort from interaction logs. It has implications for [[adaptive-learning]] that could use early effort detection to intervene before students disengage.^[raw/papers/2605.08943.md]
+This work directly connects to [[learning-analytics]] by providing a validated method for inferring effort from interaction logs. It has implications for [[adaptive-learning]] that could use early effort detection to intervene before students disengage.
 
 The approach also relates to [[engagement-assessment-video]] and broader [[assessment]] frameworks, suggesting that response-time analysis could complement other engagement signals in multi-modal effort detection systems.
 
@@ -19432,7 +19432,7 @@ Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujil
 ## [Explainable Artificial Intelligence in Education (XAI-ED)](https://edtechdev.github.io/aied/articles/xai-education-framework/)
 
 > **Khosravi, Buckingham Shum, Chen, Conati, Tsai, Kay, Knight, Martinez-Maldonado, Sadiq & Gašević (2022)** — Computers and Education: Artificial Intelligence, 3, 100074.
-📄 DOI: 10.1016/j.caeai.2022.100074 | [PDF](raw/papers/khosravi-xai-education-2022.pdf)
+📄 DOI: 10.1016/j.caeai.2022.100074
 
 ## Core Contribution
 
