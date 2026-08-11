@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 522 articles and 101 concepts.
+> Complete text of 528 articles and 101 concepts.
 
 # Articles
 
@@ -1328,6 +1328,50 @@ Romina Mahinpei, Victoria Dean, Ruth Fong, Lydia T. Liu, Manoel Horta Ribeiro (2
 
 ---
 
+## [Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education](https://edtechdev.github.io/aied/articles/ai-assisted-collaborative-learning-model-dbr/)
+
+> **Synthesis:** Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education
+
+## Key Findings
+
+- Design-Based Research (DBR) study developing and evaluating an **AI-Assisted Collaborative Learning (AACL) Model** across a single implementation cycle: an **eight-week intervention** with undergraduate students at an Indonesian public university, structured around authentic problem-based tasks with students organized into groups of four to five.
+- Expert validation by three specialists (educational technology, instructional design, AI in education) rated the model **highly valid with an overall score of 92.4%** — Learning Design 94.1%, AI Integration 91.6%, Collaborative Learning 93.2%, and Activities 90.7% — with minor revisions focused on collaborative reflection, prompt-design guidelines, and ethical AI usage instructions.
+- **Critical thinking mean scores rose from 68.21 (SD = 7.34) to 84.63 (SD = 6.28), a 24.1% gain**, with the largest improvements in evidence evaluation (66.91 → 85.27, +27.4%) and analysis (67.84 → 84.11, +24.0%).
+- **Problem-solving performance rose from an initial project average of 70.14 to 88.72 after model refinement**; the strongest final criteria scores were team collaboration (90.02) and decision justification (89.41).
+- Student perceptions (five-point Likert questionnaire) were highly positive: **overall satisfaction 4.47**, learning motivation 4.54, collaborative learning support 4.51, problem-solving support 4.48, critical thinking enhancement 4.43, and ease of AI use 4.36.
+- Qualitative analysis surfaced three recurring themes: students viewed AI as an **effective brainstorming partner that stimulated idea generation rather than replacing independent thinking**; AI-generated responses made collaborative interaction more active; and students became increasingly aware of the importance of **verifying AI-generated information against academic literature** before group decisions.
+
+## Study Design & Method
+
+The study followed a Design-Based Research methodology with four iterative phases — needs analysis, model design, classroom implementation, and model refinement — combining iterative design cycles with continuous evaluation. The model was built on constructivist learning principles, collaborative knowledge construction, and human–AI collaboration, positioning generative AI as an "intelligent learning partner" that supports idea generation, information analysis, reflection, and collaborative decision-making while students remain the primary decision-makers. The eight-week implementation used a four-stage learning cycle: (1) problem identification (exploring authentic cases and formulating research questions); (2) AI-assisted collaborative inquiry (groups gather information and compare viewpoints); (3) collaborative problem-solving (analyzing evidence, evaluating AI-generated responses, proposing solutions); and (4) reflection and presentation (peer feedback and reflection on AI-assisted collaboration). Instructors acted as facilitators, monitoring AI usage and encouraging critical assessment of AI content. Data sources included expert validation, pre- and post-intervention critical thinking and problem-solving assessments, structured questionnaires, classroom observations, reflective journals, focus-group discussions, and collaborative project reports. Qualitative data were analyzed thematically; quantitative data used descriptive statistics and paired-sample analysis (specific test statistics not reported in the paper), with findings triangulated across sources.
+
+## Key Results
+
+- **Model development:** needs-analysis interviews found collaborative activities were often limited to information sharing and that generative AI use in instruction was largely unstructured and focused on content generation rather than collaborative knowledge construction — motivating the integrated AACL framework.
+- **Critical thinking gains:** pre/post assessments covering analytical reasoning, evidence evaluation, argument construction, and reflective judgment showed substantial improvement across all dimensions; classroom observations tracked a shift from accepting AI outputs uncritically to questioning accuracy, comparing alternative viewpoints, and supporting arguments with empirical evidence.
+- **Problem-solving gains:** students increasingly used AI to generate multiple perspectives rather than seek single answers, and group discussions became more analytical as learners debated AI-generated recommendations and selected solutions based on academic evidence and collaborative reasoning.
+- **Implementation challenges:** students initially showed varying levels of AI literacy, requiring additional instructional support in prompt engineering and information verification; some groups relied excessively on AI-generated content before gradually developing critical evaluation strategies.
+
+## Implications for AI in Education
+
+The study demonstrates that **AI functions most effectively as a collaborative learning partner when embedded in structured pedagogical activities** rather than used as an isolated tool. The four-stage cycle offers a concrete, transferable instructional model for [[higher-ed]] institutions seeking responsible AI integration: authentic collaborative tasks that require evidence evaluation, decision justification, and reflection on AI-generated information. Rather than emphasizing technical AI proficiency alone, instructors should design structured prompt guidance, peer discussion, and reflective evaluation into collaborative activities to strengthen higher-order thinking — directly connecting to [[collaborative-learning]] and [[critical-thinking]] research. The 92.4% expert validity score and positive student perceptions support the feasibility of the approach, while the observed over-reliance early in the intervention suggests pairing [[generative-ai]] tools with explicit AI literacy training and collaborative assessment rubrics.
+
+## Limitations
+
+- The study reports a single DBR implementation cycle within one course and institution; the participants section does not report a sample size, and the paired-sample statistical analysis is described without reporting test statistics.
+- Students' initially varying AI literacy required extra instructional support, and some groups over-relied on AI-generated content before developing critical evaluation strategies.
+- The authors call for future iterations with explicit AI literacy training, collaborative assessment rubrics, longitudinal implementation across multiple academic disciplines, and additional research with larger samples and comparative experimental designs to strengthen the empirical evidence.
+
+## Connected Concepts
+
+## Connected Articles
+
+## Citation
+
+Putra, A. D., Wijanarko, F., & Safitri, N. (2026). [*Design-based research for developing an AI-assisted collaborative learning model to enhance critical thinking and problem-solving skills in higher education*](https://educationresourcescenter.com/jel/article/view/59).
+
+---
+
 ## [An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students](https://edtechdev.github.io/aied/articles/ai-assisted-learning-modes-eeg/)
 
 > **Kashika Khurana, Ally Liew (2026)** — arXiv cs.HC / cs.CY 📄 [PDF](https://arxiv.org/pdf/2606.26579)
@@ -1555,6 +1599,50 @@ Ler, L. (2026). [*How AI Is Changing Teaching Workflows.*](https://edtechinsider
 
 ---
 
+## [AI chatbot design principles to enhance the collective efficacy in collaborative learning](https://edtechdev.github.io/aied/articles/ai-chatbot-collective-efficacy-collaborative-learning/)
+
+> **Synthesis:** AI chatbot design principles to enhance the collective efficacy in collaborative learning
+
+## Key Findings
+
+- A design and development research study (Method Type 2, Richey & Klein 2014) producing a validated framework for chatbots that enhance **collective efficacy** — the shared belief among team members in their collective ability to accomplish tasks (Bandura, 2000) — in collaborative learning: **4 design elements, 10 design principles, and 46 actionable sub-guidelines**.
+- The final four design elements are **Group Cohesion Support, Affective Cohesion Support, Support for Collaborative Learning Activities, and Inducing Conversation**, spanning principles of belongingness formation, establishing interdependence, creating a positive atmosphere, empathy formation, promoting sharing, enhancing collaborative problem-solving, supporting social regulation, providing immediate scaffolding, familiarity, and personification.
+- The principles were derived from a Scopus literature review (social sciences, English; terms including "chatbot," "design," "collective efficacy," "collaborative learning tools") that collected 929 papers, narrowed to 116, and analyzed 73 for chatbot design elements, principles, and guidelines.
+- Validation proceeded through **three rounds of expert review with five experts** (Ph.D.-level, 10–13 years of experience in collaborative learning and AI chatbots): round one showed low validity (M = 2.80, SD = 0.84; content validity index 0.60; inter-rater agreement 0.00), while rounds two and three reached near-perfect scores — round three scored 4/4 on all domains except explanatory power (M = 3.80, SD = 0.45), with CVI and inter-rater agreement of 1.00.
+- A **usability test with eight participants** (three AI chatbot designers and five instructors who design collaborative learning sessions, ~30-minute interviews each) confirmed strengths — learners addressing challenges independently, chatbot-mediated team facilitation, and precise guidance preventing unproductive time — while identifying limited feedback for non-participating learners as a weakness.
+- The framework is designed to be usable by **educators without technical expertise**, supporting scalable, accessible implementation in real classrooms.
+
+## Study Design & Method
+
+The study used Design and Development Research Method Type 2, proceeding through two stages: design principle development and validation. In the development stage, initial design principles were derived from a systematic literature review (929 Scopus papers collected; 116 selected after excluding technically focused papers; 73 analyzed after excluding non-educational-chatbot or non-collaborative-learning contexts), from which design elements, principles, and detailed guidelines were extracted and consolidated. The initial framework comprised **three design elements (learning support, emotional support, rapport building), ten principles, and 54 sub-guidelines**. In the validation stage, internal validity was tested through three rounds of expert validation using surveys adapted from Nail and Jung (2001) — rating validity, explanatory power, usefulness, and generalizability on a 4-point Likert scale — plus ~30-minute semi-structured interviews; external validity was tested through the usability test with designers and instructors, analyzed thematically and folded back into the final principles.
+
+## Key Results
+
+- **Iterative refinement:** round one of expert validation forced reorganization of principles under design elements and consolidation of redundant sub-guidelines (e.g., Sense of Belonging merged into Interdependence); round two split and introduced principles (Sense of Belonging Formation, Social Regulation Support) and separated compound sub-guidelines; round three restructured the design elements — splitting collective-efficacy formation into group cohesion and collaborative problem-solving support and reclassifying immediate feedback under the dialogue-inducing element — yielding the final 4-element, 10-principle, 46-sub-guideline framework.
+- **Validation trajectory:** validity rose from M = 2.80 (SD = 0.84) with CVI 0.60 and inter-rater agreement 0.00 in round one to 3.80 with CVI and inter-rater agreement of 1.00 in round two, and to 4/4 across domains (explanatory power M = 3.80, SD = 0.45) with perfect CVI and inter-rater agreement in round three.
+- **Usability findings:** the chatbot design helped learners solve problems independently, mediated within-team discussion, and offered precise guidance that prevented unproductive time use; suggested improvements included personalized feedback for inactive learners.
+- **Interdisciplinary perspectives:** educators emphasized pedagogical soundness and real classroom dynamics while developers and educational technologists emphasized usability, feasibility, and real-world implementation, jointly shaping the final principles.
+
+## Implications for AI in Education
+
+The study directly addresses a structural problem of [[collaborative-learning]] in [[higher-ed]]: a single instructor cannot monitor multiple teams and deliver real-time, team-specific feedback, whereas an AI chatbot can track conversation logs, analyze discussions, and deliver tailored feedback continuously. The resulting design framework — including **immediate scaffolding**, social regulation support, and empathy formation — gives educators a concrete, theory-grounded blueprint for building or specifying collaborative-learning chatbots without coding expertise. It also reinforces that affective design (belongingness, positive atmosphere, empathy, personification) matters as much as cognitive support for team functioning, and it flags ethical obligations: informed consent for user-log data, mitigation of algorithmic bias and culturally or emotionally inappropriate responses, and institutional data-governance policies for AI-assisted learning environments.
+
+## Limitations
+
+- The design principles have not yet been implemented in and evaluated against real educational settings; the authors call for studies that build chatbots from the principles and test their effect on collaborative learning outcomes to assess generalizability.
+- The principles are general rather than context-specific; project-based, maker, and discussion-based learning each have distinct characteristics that may require optimized or additional design principles.
+- The usability test used a small, relatively homogeneous sample of eight participants, and expert validation involved a small expert group with limited diversity of perspectives, potentially biasing the results; broader stakeholder samples and iterative testing cycles are recommended.
+
+## Connected Concepts
+
+## Connected Articles
+
+## Citation
+
+Kim, M., & Lim, C. (2025). [*AI chatbot design principles to enhance the collective efficacy in collaborative learning*](https://doi.org/10.1007/s12564-025-10080-z).
+
+---
+
 ## [AI Coaching for Accelerating Human Skill Development with Reinforcement Learning](https://edtechdev.github.io/aied/articles/ai-coaching-rl-skill-development/)
 
 > **Wang, Gu, Loquercio, Hu & Mangharam (2026)** — University of Pennsylvania. cs.RO, cs.AI, cs.HC.
@@ -1587,6 +1675,90 @@ This paper explores how an embodied AI agent can act as a [[scaffolding|coach]] 
 ## Citation
 
 Wang, W., Gu, E., Loquercio, A., Hu, H., & Mangharam, R. (2026). [AI Coaching for Accelerating Human Skill Development with Reinforcement Learning](https://arxiv.org/abs/2606.25337). arXiv:2606.25337. cs.RO.
+
+---
+
+## [Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving](https://edtechdev.github.io/aied/articles/ai-collaborative-learning-skills-impacts/)
+
+> **Synthesis:** Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving
+
+## Key Findings
+
+- Mixed-methods study of **102 undergraduate students** in interdisciplinary project-based courses, of which **96 responses (94.1%) were valid** for analysis; qualitative input came from **80 open-ended survey responses** and **15 semi-structured interviews**, triangulated with analysis of student project outputs.
+- **83% of respondents reported that LLMs enhanced creativity** (generating new ideas, offering different perspectives during brainstorming), and **78% said LLMs increased their group's overall productivity** — although **20% felt LLM use decreased individual accountability and contribution**, creating workload imbalances.
+- **81% noted LLMs acted as neutral mediators** that helped resolve differences and speed consensus building, while **17% indicated the presence of LLMs diminished the need for critical engagement**, with AI suggestions sometimes accepted without discussion.
+- Correlation analysis showed the strongest relationship between **consensus-building impact and productivity impact (r = 0.71)**, followed by collective intelligence and productivity (0.69); AI comfort correlated with perceived creativity impact (0.56) and problem-solving impact (0.59), and digital proficiency showed only moderate correlations (0.52, 0.47, 0.50).
+- **No statistically significant differences** in perceived LLM impact were found across groups based on prior AI use, AI comfort, or digital proficiency — a t-test (t = 1.414, p = 0.2929) and ANOVA (f = 5.33, p = 0.1028) at α = 0.05 both failed to reject the null hypothesis.
+- Respondents were predominantly business and management majors (62%), aged 18–26 with an even gender split; **90% were very comfortable with AI tools** and **96% had prior LLM experience**, with digital proficiency rated intermediate (54%) or advanced (40%).
+
+## Study Design & Method
+
+The study used a descriptive, mixed-methods design with no variable manipulation. Quantitative data came from a structured Likert-scale survey measuring perceived impacts of LLMs on group collaboration, creativity, and problem-solving efficacy. Qualitative data came from open-ended survey items, audio-recorded semi-structured interviews transcribed for thematic analysis, and inspection of student project outputs for originality and collaborative innovation. Statistical analysis combined a Pearson correlation matrix with t-tests and ANOVA (implemented in Python) to compare perceptions across groups defined by AI comfort, digital proficiency, and prior LLM use. Because the hypothesis tests returned non-significant results, the authors additionally explored alternative factors (specific courses taken, exposure to AI tools, learning styles) and proposed k-means clustering as a way to segment student interaction patterns.
+
+## Key Results
+
+- **Perceived benefits:** students credited LLMs with improving problem-solving (e.g., quick summaries of long texts freed groups to focus on higher-order tasks), structuring group discussion, synthesizing individual contributions into cohesive action plans, and boosting collective intelligence.
+- **Perceived risks:** overreliance on AI to build consensus was flagged as a threat to interpersonal skill development; some group members became passive and deferred to AI-generated solutions; instructors were advised to monitor group dynamics and intervene when workload distribution becomes imbalanced.
+- **Digital competence does not shape perceptions:** the absence of significant group differences suggests familiarity and digital skill are weak predictors of how students perceive LLM effects on creativity, problem-solving, consensus building, and productivity.
+- **Balanced integration:** the authors warn that heavy dependence on generative AI can impair self-regulated learning, intrinsic motivation, and performance, citing the phenomenon of "metacognitive laziness" — outsourcing cognitive effort to AI reduces engagement with deeper learning strategies and can erode independent analysis, synthesis, and evaluation over time.
+
+## Implications for AI in Education
+
+The study's central message is that LLMs must be **designed and deployed to support rather than disrupt human collaboration**. Positive correlations between AI comfort and perceived creativity/problem-solving gains suggest that building familiarity with AI tools matters more than raw technical skill, so educators should teach strategic use alongside technical proficiency. The documented overreliance risks point to concrete design responses: group projects that require students to reflect on AI outputs and justify decisions independently of the AI's suggestions, clear guidelines on tool use, and instructor monitoring of group dynamics. The authors call for **balanced AI integration** that preserves the essential human elements of group work — meaningful discussion, challenging assumptions, and collective knowledge construction — connecting to [[collaborative-learning]] and [[critical-thinking]] research, and echoing [[self-regulated-learning]] concerns that outsourcing cognitive effort ("metacognitive laziness") undermines deep learning. Findings also support [[generative-ai]] adoption in [[higher-ed]] settings as a complement to, not a replacement for, human effort in teamwork.
+
+## Connected Concepts
+
+## Connected Articles
+
+## Citation
+
+Agnaou, A., & El Asri, H. (2025). [*Artificial intelligence and collaborative learning: Impacts on creativity, critical thinking, and problem-solving*](https://doi.org/10.5590/JERAP.2025.15.2120).
+
+---
+
+## [A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade](https://edtechdev.github.io/aied/articles/ai-collaborative-learning-systematic-review/)
+
+> **Synthesis:** A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
+
+## Key Findings
+
+- A PRISMA 2020 systematic review covering **27 studies** of AI-powered collaborative learning in higher education, drawn from a Scopus search (run July 16, 2024, query: TITLE-ABS-KEY "artificial intelligence" AND collaborative AND learning AND higher AND education) that identified 163 records → 145 screened after excluding 18 conference reviews → 59 retrieved → 27 included after eligibility assessment.
+- The review organizes AI tools into four functional categories: **predictive analytics/early warning systems**, **language-based systems** (chatbots, large language models, natural language processing), **recommender algorithms**, and **intelligent tutoring and monitoring applications** — each contributing differently to collaborative learning dynamics.
+- Evidence indicates AI-powered **predictive analytics and multimodal approaches (including emotional and physiological monitoring) enhance student engagement and motivation**, enabling early identification of at-risk students and timely, data-driven interventions (e.g., combining AI with learning analytics for continuous feedback improved collaborative learning performance and satisfaction).
+- **Personalized learning systems and recommender algorithms** were found to underpin effective collaborative environments, while **good task design** (balancing challenge and accessibility, embedding collaboration requirements) and **emotional engagement and social presence** emerged as critical success factors.
+- The annual distribution of included articles shows a **marked increase in publications over the decade**, reflecting growing research interest in AI-enhanced collaborative learning in higher education.
+- Key challenges identified include **algorithmic bias, over-reliance on technology, and teacher training needs**, alongside ethical concerns about **transparency, data protection, and balancing full automation with human touch**; the review notes AI's role in collaborative learning remains understudied relative to individual learning contexts.
+
+## About the Review
+
+The review synthesizes a decade (2014–2024) of research on AI-enhanced collaborative learning in higher education. Inclusion criteria: articles published 2014–2024, written in English, explicitly focused on AI-based collaborative learning in higher education, with eligible designs limited to empirical studies, case studies, and meta-analyses, and populations of higher education students or instructors. Six research questions structured the synthesis, covering the impact of AI-powered multimodal approaches on engagement and motivation; the influence of task design on AI-powered collaborative environments; the role of affective factors and social presence; the effectiveness of remote learning and virtual laboratories; innovative teaching methods enabled by AI; and future directions. Studies were coded and tabulated by focus area, methodology, application, main findings, and AI methods, and grouped by intervention type, outcome measures, and population characteristics.
+
+## Key Results
+
+- **Academic performance:** predictive analytics and machine learning support early identification of at-risk students and continuous feedback loops that improve collaborative performance and satisfaction; AI-driven feedback systems appear across the reviewed studies as a core intervention type.
+- **Engagement and motivation:** multimodal AI approaches that track emotional and physiological responses (e.g., heart rate, facial expressions, electrodermal activity) give instructors real-time insight into engagement, supporting timely interventions to maintain motivation.
+- **Task design and assessment:** effective tasks balance challenge and accessibility; AI can dynamically adjust task difficulty based on group performance, monitor participation, and enforce equitable contribution so dominant members cannot take over and reserved students are not left behind.
+- **Social presence and emotion:** AI tools that increase social presence and emotional engagement make learners feel more connected to the learning process, improving collaborative outcomes.
+- **Remote and virtual learning:** AI-powered virtual laboratories simulate physical lab environments, allowing distance students to collaborate on complex projects with engagement comparable to on-campus settings.
+- **Innovations and future directions:** integration with blended/flipped classrooms, learning analytics, and emerging immersive technologies (metaverse, augmented and virtual reality) are highlighted, alongside calls to investigate underrepresented approaches such as symbolic AI and hybrid systems that merge reasoning-based methods.
+
+## Implications for AI in Education
+
+For educators and institutions, the review frames AI not as a replacement for collaboration but as a layer that personalizes feedback, monitors group dynamics, and supports equitable participation in real time. Practical takeaways: invest in **task design** (challenge calibrated to group ability, collaboration requirements embedded in the task structure), use **predictive and multimodal analytics** to detect disengagement early, and attend to **social presence and emotional engagement** rather than only cognitive outcomes. The identified challenges — bias, over-reliance, teacher training, transparency, and data protection — imply that AI integration in [[collaborative-learning]] needs institutional guardrails and educator upskilling, consistent with broader concerns about [[generative-ai]] deployment in [[higher-ed]].
+
+## Limitations
+
+- The review's scope is constrained by its stated eligibility criteria: a single database (Scopus), English-language articles only, and a 2014–2024 publication window, which may exclude relevant non-English or pre-2014 work and non-indexed venues.
+- The synthesis draws on heterogeneous study designs and outcome measures, which limits direct comparability of effect sizes across interventions.
+- The review itself notes the field's open research gaps — AI's role in collaborative (versus individual) learning is understudied, and future work should address group cohesion, equal participation, and effective collective collaboration.
+
+## Connected Concepts
+
+## Connected Articles
+
+## Citation
+
+Kovari, A. (2025). [*A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade*](https://doi.org/10.1016/j.ssaho.2025.101335).
 
 ---
 
@@ -4873,6 +5045,50 @@ A conceptual/position paper arguing that feedback in an age of GenAI must be und
 ## Citation
 
 Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., & Nicola-Richmond, K. (2026). The care-full craft of feedback in an age of generative AI. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2026.2643333), 51(5), 911–927
+
+---
+
+## [Artificial intelligence assisted design of a novel cooperative learning technique for higher education](https://edtechdev.github.io/aied/articles/ccct-cooperative-learning-technique/)
+
+> **Synthesis:** Artificial intelligence assisted design of a novel cooperative learning technique for higher education
+
+## Key Findings
+
+- A mixed-methods explanatory sequential study with **67 sophomore prospective teachers** at Hakkari University (Turkey) in the spring 2024–2025 semester: an experimental group of **31** Guidance and Psychological Counseling students (19 female, 12 male) versus a control group of **36** Primary School Mathematics Teaching students, in a theoretical "Curriculum Development in Education" course.
+- The intervention was designed by prompting **five AI chatbots (ChatGPT, Copilot, DeepSeek, Gemini, Qwen)** with course documents and cooperative learning principles in a single, non-iterative prompt; the researcher selected **Qwen's "Curriculum Concept Constellation Technique (CCCT)"** using a four-criterion rubric (novelty, alignment with cooperative learning principles, course context fit, clarity and practicality) — the other four proposals were judged syntheses or adaptations of existing methods.
+- CCCT has students collaboratively map curriculum concepts as "stars" into visual "constellations," working in heterogeneous teams of 4–6 with assigned roles (Star Finder, Constellation Designer, Metaphor Maker, Visual Artist, Navigator) across a two-week cycle ending in a gallery walk and group reflection.
+- **Academic achievement:** the experimental group's post-test (M = 51.45, SD = 6.08) significantly outperformed the control (M = 43.89, SD = 10.76), p = 0.001, **g = 0.839**; only the experimental group improved significantly from pre-test (p = 0.005, g = 0.738) while the control showed a weak effect (g = 0.119).
+- **Co-regulation:** experimental group rose from M = 61.32 to 65.45 (p = 0.043, **g = 0.512**); **attitudes toward cooperativeness** rose from M = 68.03 to 75.19 (p = 0.007, **g = 0.751**).
+- Qualitative analysis yielded five themes — fostering student agency and accountability, social cohesion and interpersonal growth, cognitive and pedagogical engagement, collaborative learning dynamics, and structural/logistical challenges (unequal participation, time constraints).
+
+## Study Design & Method
+
+The study used an explanatory sequential mixed-methods design in three phases. Phase I developed the technique: two documents (course content; cooperative learning foundations and existing techniques) were given to five AI chatbots asked to propose a new, original cooperative learning technique; proposals were evaluated by the researcher against a rubric (novelty/distinctiveness, alignment with the five essential elements of cooperative learning, fit with the theoretical course and two-session timeframe, clarity and practicality). Phase II implemented the selected CCCT over two weeks, with pre- and post-measurement: a 15-item multiple-choice achievement test (KR-20 = 0.70), a 20-item cooperativeness scale (α = 0.80), and a 19-item co-regulated learning questionnaire (α = 0.89). Pre-tests showed no significant baseline differences; the experimental group was arranged into six heterogeneous teams based on pre-test scores, gender, GPA, and prior cooperative learning experience. Phase III collected semi-structured interviews (four open-ended questions) with experimental-group students.
+
+## Key Results
+
+- **CCCT mechanics:** groups identify 5–7 key concepts ("stars") such as John Dewey's philosophy, behaviorism, societal needs, and developmental psychology, connect them into "constellations," and invent metaphors for the relationships (e.g., "Behaviorism is the gravitational force pulling all other ideas toward measurable outcomes"); role allocation, constellation creation, a gallery walk, and reflection structure the two weeks.
+- **Mechanism accounts:** participants described CCCT making abstract theoretical content more accessible and memorable (e.g., "When the lesson was conducted with this technique, I actually got more efficiency and it was more fun," P13), attributing gains to interaction, visual elements, shared responsibility, and holistic understanding — consistent with the authors' framing in cognitive elaboration, dual coding, and constructivist theories.
+- **Human–AI division of labor:** the authors stress the process was "AI-generated" rather than "co-design" — chatbots were prompted once and the researcher retained all selection, adaptation, and implementation decisions, with human oversight judged necessary to contextualize AI output.
+
+## Implications for AI in Education
+
+The study positions generative AI as a **scalable ideation tool for pedagogical innovation**: one-shot prompting of multiple chatbots followed by principled, human rubric-based selection produced a novel, implementable cooperative learning technique that incorporates all five essential elements of cooperative learning and generated meaningful learning gains. For practitioners, this offers a low-cost template for generating course-tailored instructional methods; the CCCT itself demonstrates a concrete way to teach abstract theoretical content through metaphorical, visual, role-based collaboration — relevant to [[collaborative-learning]] and [[scaffolding]] in [[higher-ed]]. The authors caution that AI output requires systematic evaluation and continued human oversight, and that effectiveness should be compared against established cooperative learning techniques before claiming additive value.
+
+## Limitations
+
+- Small sample from two departments of a single university limits generalizability; unmeasured disciplinary differences between intact classes (counseling students' possible inclination toward metaphorical, reflective thinking vs. mathematics students' logical, sequential orientation) may partly explain effects.
+- The control condition was traditional lecture-based instruction rather than an established cooperative learning technique, so the study does not show CCCT is superior to existing cooperative learning methods.
+- The two-week intervention duration makes a novelty effect ("more fun," "more enjoyable") impossible to rule out; longitudinal studies are needed.
+- No formal systematic review (e.g., PRISMA) or bibliometric analysis was used to establish the pedagogical gap motivating the new technique, and qualitative data relied on self-report, which may be subject to social desirability bias.
+
+## Connected Concepts
+
+## Connected Articles
+
+## Citation
+
+Tutal, Ö. (2026). [*Artificial intelligence assisted design of a novel cooperative learning technique for higher education*](https://doi.org/10.1038/s41598-026-50770-1).
 
 ---
 
@@ -13085,6 +13301,50 @@ As computation becomes more central to physics education, scalable methods to as
 ## Citation
 
 Savage, S., Shanker, A., Michlitsch, G., & Rebello, N. S. (2026). [Using LLMs to Detect Growth in Computational Thinking in Introductory Physics](https://arxiv.org/abs/2608.06200).
+
+---
+
+## [Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review](https://edtechdev.github.io/aied/articles/llm-critical-thinking-teamwork-review/)
+
+> **Synthesis:** Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
+
+## Key Findings
+
+- Systematic literature review following the **PRISMA 2020 protocol**, searching the **Web of Science Core Collection** for studies published **2023–2024**; of **203 studies screened, 22 articles** were included (10 from search string A, 12 from search string B), and the review is **registered in PROSPERO (CRD420251165731)**.
+- LLMs often produce **incomplete or incorrect responses, prompting students to question, verify, and improve** the information — creating validation-and-correction cycles that the reviewed studies link to enhanced critical thinking and mental independence.
+- LLMs act as **catalysts for collaboration**: supporting idea generation, organization, and peer feedback, simulating rubric-based evaluations and expert reviews, and democratizing access to knowledge — promoting more equitable collaborative learning, especially in diverse and large-class settings.
+- For problem-solving, LLMs help students **explore alternative solutions, incorporate interdisciplinary perspectives, and simulate authentic real-world scenarios** — e.g., clinical and ethical dilemmas in health sciences, and prototype testing, debugging, and refinement in STEM.
+- LLMs deliver **scalable, timely, personalized feedback** in large courses (near-instant responses reduce delay and dependence on instructor availability) and can **reduce faculty workload** by automating feedback on routine tasks such as drafts, quizzes, and structured assignments.
+- LLMs support **assessment reform**: generating rubrics and varied assessment items aligned with learning outcomes, and shifting assessment from factual recall toward scenario-based, competency-based evaluation.
+
+## About the Review
+
+The review addressed four research questions (RQ1–RQ4) on how LLMs can foster critical thinking, collaborative skills, and problem-solving; bridge theory and practice; deliver personalized feedback in large courses; and support assessment development. Search criteria limited records to peer-reviewed English-language journal articles published between January 2023 and December 2024 (IC1–IC4), with exclusions for duplicates, non-journal document types, non-English language, and early access (EC1–EC4). Of 165 records entering the inclusion/exclusion stage, 117 were excluded and 48 papers were retrieved for eligibility assessment against five criteria (C1–C5): explicit teaching–learning focus, direct use of LLMs by students, pedagogical or subject-specific application in higher education, practical or empirical evidence of learning outcomes, and structured data or evaluation. The 48 eligible documents spanned **35 countries** — led by the United States (n = 9), Germany (n = 8), Australia (n = 6), and England (n = 6) — with Frontiers Media SA and MDPI each publishing seven of the analyzed documents. Methodological rigor was enforced through the PRISMA 2020 protocol, the structured eligibility criteria, and PROSPERO registration.
+
+## Main Findings
+
+- **Critical thinking:** students learn to evaluate the accuracy, consistency, and trustworthiness of LLM-generated content; effectively framing prompts improves their understanding and analytical skills, engaging them in comparison, synthesis, and assessment.
+- **Collaboration:** LLMs enrich teamwork by aiding idea generation and peer feedback, simulating expert or peer roles from various fields, and lowering participation barriers in large and diverse classes.
+- **Theory–practice gap:** simulations, hands-on project work, and instant alternative solutions on error accelerate learning cycles and support self-management and independent learning via anytime/anywhere access.
+- **Feedback at scale:** LLM-supported feedback extends beyond one-way correction to become a social, iterative process, and enables students to generate practice tests and self-assessments that strengthen metacognitive skills.
+- **Assessment:** scenario-based and problem-focused evaluation lets students demonstrate applied skills in realistic settings (engineering, health care, business), shifting the assessment culture from knowledge reproduction to applied understanding.
+- **Systemic implications:** the authors argue LLMs can transform curricula, feedback, and assessment at institutional and policy levels — improving educational equity, workforce readiness, and innovation — provided institutions establish ethical, equitable, and sustainable adoption frameworks.
+
+## Implications for AI in Education
+
+The review positions LLMs not merely as instructional tools but as **catalysts for systemic improvement** in [[higher-ed]]: embedding LLMs in curricula and assessment can move teaching beyond memorization toward reasoning, hands-on learning, and competency-based evaluation. For instructors, the evidence supports using LLM imperfections deliberately — having students verify, critique, and refine AI outputs turns the technology's limitations into [[critical-thinking]] exercises. For institutions, the review calls for policies that incorporate [[generative-ai]] literacy into curricula, prepare faculty for responsible use, and protect academic integrity. The findings on personalized, scalable feedback connect to [[assessment]] and feedback research in large-enrollment courses, while the collaborative and problem-solving benefits align with [[collaborative-learning]] frameworks. The authors caution that impact depends on faculty, managers, and policymakers adopting the tools within broader educational reform.
+
+## Limitations
+
+The authors explicitly list four limitations: (a) the search relied on the Web of Science Core Collection without considering other databases; (b) inclusion was restricted to scientific journal publications, excluding other document types; (c) the included documents did not focus on challenges of LLM adoption in teaching and learning, such as ethical concerns or privacy; and (d) the review covered only 2023 and 2024, the first two years of the technology's emergence. No formal risk-of-bias or quality-assessment instrument was applied to the included studies beyond the PRISMA 2020 protocol and the structured eligibility criteria.
+
+## Connected Concepts
+
+## Connected Articles
+
+## Citation
+
+Martínez-Peláez, R., Mena, L. J., Toral-Cruz, H., Ochoa-Brust, A., González Potes, A., Flores, V., Ostos, R., Ramírez Pacheco, J. C., Félix, R. A., & Félix, V. G. (2025). [*Can large language models foster critical thinking, teamwork, and problem-solving skills in higher education? A literature review*](https://doi.org/10.3390/systems13111013).
 
 ---
 
