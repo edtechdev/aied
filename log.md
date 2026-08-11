@@ -1981,3 +1981,9 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - **Back-links added:** 10 links across 10 targets
 - **Index change:** 663 pages
 - **Key findings:** Interactive LAD with elicit-style LLM agent improves JoL calibration and reflection in CS course
+
+## [2026-08-11] meta | scan-complete
+
+- Source: arXiv cs+education (rate-limited, used listing pages), physics.ed-ph (3 already ingested), EdArXiv OSF (2 queries)
+- Ingested 9 new articles: LLM difficulty calibration, learnity graphs, VeriForge, Spritz mediation, PCHL-HE framework, elementary writing GenAI review, GenAI PD AI-PCK, UK HE AI policy, GenAI HE systematic review
+- Backlinks added to 43 concepts; build OK (1562 pages); pushed b085b66b
