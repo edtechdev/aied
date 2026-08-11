@@ -1,7 +1,7 @@
 ---
 title: Confidence Aware AI Assessment
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-11
 type: concept
 tags: []
 confidence: medium
@@ -22,3 +22,4 @@ confidence: medium
 - [[cong-confidence-asag-2026]]
 - [[learning-to-prompt-adaptive-tutoring]]
 - [[psyscore-essay-scoring-zpd-feedback]]
+- [[llm-difficulty-calibration-programming-exams-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [zone-of-proximal-development, over-reliance, cognitive-load-theory, feedback-loop, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 confidence: high
@@ -48,3 +48,4 @@ Scaffolding connects to [[over-reliance]] (scaffolding that doesn't fade creates
 - [[concept-catalyst-engineering-scaffolds]]
 - [[correct-answer-trap-ai-tutor]]
 - [[critical-thinking-genai-scaffolding]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]

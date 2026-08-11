@@ -1,7 +1,7 @@
 ---
 title: Bias Mitigation
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-11
 type: concept
 tags: [bias-mitigation, equity, ethics, higher-ed, ai-literacy, generative-ai, k-12, student-experience, teacher-role, llm]
 confidence: medium
@@ -34,3 +34,4 @@ Bias mitigation in AIED concerns identifying and reducing unfair, identity-patte
 - [[genai-minoritized-knowledges-disability]]
 - [[paternalistic-filter-llm-history-education]]
 - [[xai-education-framework]]
+- [[genai-higher-education-systematic-review-2026]]

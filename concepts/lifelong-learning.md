@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning and AI
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-11
 type: concept
 tags: [lifelong-learning, personalized-learning, professional-training, llm, intelligent-tutoring, higher-ed, generative-ai, adaptive-learning, scaffolding, k-12]
 confidence: medium
@@ -29,3 +29,4 @@ confidence: medium
 - [[ai-lifelong-learning-policy]]
 - [[community-centered-ai-education-adults]]
 - [[metacognitive-learning-scenarios-taxonomy]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]

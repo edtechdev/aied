@@ -1,7 +1,7 @@
 ---
 title: AI from the Administrator Perspective
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-11
 type: concept
 tags: [administrator, policy-maker, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
 confidence: medium
@@ -20,3 +20,4 @@ confidence: medium
 ## Connected Articles
 
 - [[ai-campus-wellbeing-tools]]
+- [[ai-uk-higher-education-policy-2026]]

@@ -1,7 +1,7 @@
 ---
 title: AI Governance Education
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-08-11
 type: concept
 tags: []
 confidence: medium
@@ -15,3 +15,4 @@ confidence: medium
 - [[genai-policies-higher-ed-computing]]
 - [[raza-farooq-aied-review-2020-2025]]
 - [[white-wu-robotics-ai-education-2026]]
+- [[ai-uk-higher-education-policy-2026]]

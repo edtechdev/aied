@@ -1,7 +1,7 @@
 ---
 title: Ethics in AI Education
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-governance-education, ai-literacy]
 confidence: high
@@ -45,3 +45,5 @@ Ethics connects to [[equity]], [[privacy]], [[bias-mitigation]], [[regulation]],
 - [[cost-of-ethics-crisis-cs-ethics-education]]
 - [[xai-education-framework]]
 - [[ai-tutor-safety-harms]]
+- [[ai-uk-higher-education-policy-2026]]
+- [[genai-higher-education-systematic-review-2026]]

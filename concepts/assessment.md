@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low
@@ -22,3 +22,9 @@ confidence: low
 - [[knowledge-tracing]]
 - [[formative-assessment]]
 - [[student-modeling]]
+
+## Connected Articles
+
+- [[llm-difficulty-calibration-programming-exams-2026]]
+- [[elementary-writing-genai-systematic-review-2026]]
+- [[genai-higher-education-systematic-review-2026]]

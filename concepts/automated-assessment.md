@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [automated-grading, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, confidence-aware-ai-assessment, llm]
 confidence: high
@@ -43,3 +43,5 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[automated-formative-assessments-a-level-sciences]]
 - [[cong-confidence-asag-2026]]
 - [[ai-scoring-language-bias-physics]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
+- [[genai-higher-education-systematic-review-2026]]

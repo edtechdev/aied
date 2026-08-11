@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: 2026-06-02
-updated: 2026-08-10
+updated: 2026-08-11
 type: concept
 tags: [curriculum-design, instructional-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
 confidence: high
@@ -53,3 +53,4 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[finkelstein-principled-ai-education-2025]]
 - [[hingle-collaborative-ai-literacy-2025]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]

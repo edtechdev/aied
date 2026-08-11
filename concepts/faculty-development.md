@@ -1,7 +1,7 @@
 ---
 title: Faculty Development
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, instructional-design, curriculum-design]
 confidence: high
@@ -43,3 +43,6 @@ Faculty development connects to [[teacher-ai-competency]] (the outcome), [[teach
 - [[ai-tpack-preservice-math-teachers]]
 - [[crewscaler-ai-upskilling-framework]]
 - [[ai-assessment-scale-reform]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[genai-pd-ai-pck-learning-gain-2026]]
+- [[genai-higher-education-systematic-review-2026]]

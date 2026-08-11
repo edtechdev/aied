@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop AI for Education
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-11
 type: concept
 tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
 confidence: medium
@@ -65,3 +65,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[correct-answer-trap-ai-tutor]]
 - [[cyberscholar-genai-writing-feedback]]
 - [[eduagentbench-agent-teaching-benchmark]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]

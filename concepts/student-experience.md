@@ -1,7 +1,7 @@
 ---
 title: Student Experience with AI
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, over-reliance, cognitive-offloading, equity, k-12]
 confidence: high
@@ -45,3 +45,4 @@ Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai
 - [[aied-unfinished-mission-bypass]]
 - [[student-mental-models-genai]]
 - [[genai-usage-design-students-survey]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Instructional Design with AI
 created: 2026-08-09
-updated: 2026-08-10
+updated: 2026-08-11
 type: concept
 tags: [instructional-design, curriculum-design, faculty-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
 confidence: high
@@ -50,3 +50,5 @@ Instructional design is the bridge discipline of AI in education — it connects
 - [[cotal-formative-assessment-scoring-2026]]
 - [[genai-mindtool-generative-learning]]
 - [[ludia-udl-ai-thought-partner-2026]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [assessment-validity, ai-literacy, plagiarism-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
 confidence: high
@@ -45,3 +45,5 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[genai-policies-higher-ed-computing]]
 - [[detecting-llm-generated-text-latent-prompt]]
 - [[credential-cognitive-stewardship-ai-assessment]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[genai-higher-education-systematic-review-2026]]

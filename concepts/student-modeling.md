@@ -1,7 +1,7 @@
 ---
 title: Student Modeling
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [student-modeling, knowledge-tracing, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring]
 confidence: high
@@ -57,3 +57,4 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[simulating-students-java-programming-errors-llms]]
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]

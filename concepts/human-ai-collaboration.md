@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-08-11
 type: concept
 tags: []
 confidence: medium
@@ -29,3 +29,5 @@ confidence: medium
 - [[chat-debugging-human-ai-collaboration-circuits]]
 - [[generativism-learning-theory]]
 - [[student-mental-models-genai]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[genai-higher-education-systematic-review-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: 2026-05-07
-updated: 2026-08-10
+updated: 2026-08-11
 type: concept
 tags: [transfer-of-learning, metacognition, cognitive-load-theory, desirable-difficulties, k-12, ai-tutoring, scaffolding, over-reliance]
 confidence: high
@@ -83,3 +83,4 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[vibe-compiler-metacognition-genai-agency-2026]]
 - [[ai-tutor-safety-harms]]
 - [[brookings-ai-students-report]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]

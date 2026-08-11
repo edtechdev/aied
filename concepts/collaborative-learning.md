@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: 2026-08-09
-updated: 2026-08-10
+updated: 2026-08-11
 type: concept
 tags: [collaborative-learning, cscl, ai-education, student-experience, scaffolding, equity, k-12, higher-ed]
 confidence: high
@@ -43,3 +43,4 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[golrang-propact-pair-programming-2026]]
 - [[teacher-student-agency-orchestration]]
 - [[collaborative-ai-tutoring]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
