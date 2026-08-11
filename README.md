@@ -25,7 +25,7 @@ wiki/
 │   └── papers/        # Raw source text (arXiv, PDFs, RSS abstracts)
 ├── src/
 │   ├── layouts/       # BaseLayout.astro (nav, search, footer)
-│   └── pages/         # Astro pages: index, journal, search, articles/[slug], concepts/[slug], tags, rss, use-with-ai
+│   └── pages/         # Astro pages: index, journal, search, articles/[slug], concepts/[slug], tags, rss, ai
 ├── public/
 │   ├── llms.txt       # Agent-ready catalog (all pages, one line each)
 │   ├── llms-full.txt  # Full text of every page
@@ -82,7 +82,7 @@ The wiki is agent-ready. Any AI chatbot or agent can use it as a research refere
 
 - **`llms.txt`** — complete catalog (every article and concept with one-line descriptions)
 - **`llms-full.txt`** — full text of every page
-- **Use with AI page:** https://edtechdev.github.io/aied/use-with-ai
+- **Use with AI page:** https://edtechdev.github.io/aied/ai
 
 Copy-paste prompt for your AI chatbot or agent:
 
