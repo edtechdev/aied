@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [regulation, ai-governance-education, faculty-development, equity, higher-ed, k-12, academic-integrity, ethics]
 confidence: high
@@ -45,3 +45,5 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 - [[brookings-ai-students-report]]
 - [[ai-assessment-scale-reform]]
 - [[stanford-evidence-base-ai-k12-2026]]
+- [[ai-uk-higher-education-policy-2026]]
+- [[genai-higher-education-systematic-review-2026]]

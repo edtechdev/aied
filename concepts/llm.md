@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, ai-tutoring, automated-grading, ai-literacy]
 confidence: high
@@ -50,3 +50,5 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[llm-item-difficulty-prediction]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[llm-intervention-design-cs-review]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-11
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 confidence: high
@@ -95,3 +95,4 @@ For example:
 - [[cross-subject-validity-delayed-start]]
 - [[curiobot-llm-tutoring-exploratory-learning]]
 - [[ecnuclaw-k12-personalized-companion]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-11
 type: concept
 tags: []
 confidence: medium
@@ -28,3 +28,4 @@ confidence: medium
 - [[ai-scoring-language-bias-physics]]
 - [[genai-architecture-education]]
 - [[hashmi-socratic-physics-chatbot-2025]]
+- [[llm-difficulty-calibration-programming-exams-2026]]

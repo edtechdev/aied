@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: 2026-05-07
-updated: 2026-07-27
+updated: 2026-08-11
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium
@@ -60,3 +60,5 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[courseblueprint-adaptive-video-generation]]
 - [[ecnuclaw-k12-personalized-companion]]
 - [[empathy-coaching-chatbot]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[genai-higher-education-systematic-review-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, domain-modeling, ai-education]
 confidence: high
@@ -28,3 +28,7 @@ Knowledge graphs connect to [[domain-modeling]] (defining what to teach), [[curr
 
 ## Connected Concepts
 
+## Connected Articles
+
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Agentic AI in Education
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-11
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education]
 confidence: high
@@ -42,3 +42,4 @@ Agentic AI refers to artificial intelligence systems that can autonomously plan,
 - [[guided-llm-scaffolding-independent-learning]]
 - [[jeon-isd-agent-bench-2026]]
 - [[learnmate2-llm-adaptive-learning]]
+- [[pchl-he-framework-genai-content-creation-2026]]

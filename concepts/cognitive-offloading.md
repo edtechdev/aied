@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [cognitive-offloading, cognitive-load-theory, over-reliance, ai-literacy, student-experience, generative-ai]
 confidence: high
@@ -65,3 +65,4 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[metacognitive-awareness-experiential-vs-instructional]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[tzirides-thinking-through-ai-2025]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]

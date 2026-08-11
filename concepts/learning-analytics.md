@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, engagement-metrics, ai-ed-evaluation, feedback-loop]
 confidence: high
@@ -46,3 +46,4 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[teaching-feedback-classification-benchmark]]
 - [[wordstream-glass-learning-analytics]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
