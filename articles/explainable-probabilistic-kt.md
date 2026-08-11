@@ -11,7 +11,7 @@ confidence: medium
 > **Wu, S., Xu, C., Zhang, W. (2026)** — arXiv preprint.
 ## Analysis
 
-This paper introduces **PLKT** (Probabilistic Logical Knowledge Tracing), which replaces deterministic vector embeddings with **beta-distributed probabilistic embeddings**, allowing explicit representation of uncertainty in each knowledge state.^[raw/papers/2605.09369.md]
+This paper introduces **PLKT** (Probabilistic Logical Knowledge Tracing), which replaces deterministic vector embeddings with **beta-distributed probabilistic embeddings**, allowing explicit representation of uncertainty in each knowledge state.
 
 The framework applies **transparent logical operations** over probabilistic states to construct auditable reasoning paths — showing educators *which specific past actions* led to a prediction. This bridges [[neural-symbolic-knowledge-tracing]] paradigms and supports [[intelligent-tutoring]] by providing explainable predictions that can be inspected and trusted.
 

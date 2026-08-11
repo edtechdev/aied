@@ -9,7 +9,7 @@ confidence: high
 ---
 
 > **Khosravi, Buckingham Shum, Chen, Conati, Tsai, Kay, Knight, Martinez-Maldonado, Sadiq & Gašević (2022)** — Computers and Education: Artificial Intelligence, 3, 100074.
-📄 DOI: 10.1016/j.caeai.2022.100074 | [PDF](raw/papers/khosravi-xai-education-2022.pdf)
+📄 DOI: 10.1016/j.caeai.2022.100074
 
 ## Core Contribution
 
