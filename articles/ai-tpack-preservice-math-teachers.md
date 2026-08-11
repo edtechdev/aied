@@ -26,4 +26,4 @@ confidence: medium
 
 ## Citation
 
-Egara, A.M.M.F.A.N.F., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study*](https://doi.org/10.1016/j.caeai.2026.100650)
+Mosia, M., Nannim, F. A., & Egara, F. (2026). [*AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study*](https://doi.org/10.1016/j.caeai.2026.100650).

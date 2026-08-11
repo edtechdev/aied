@@ -22,4 +22,4 @@ First systematic review of AI in vocational education (26 studies, 2015-2026). I
 
 ## Citation
 
-100628, S.C.A.E.A.I.V. & Access), L.C.B. (2026). [*Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness*](https://doi.org/10.1016/j.caeai.2026.100628)
+Deutscher, V., Thomann, H., Zlatkin-Troitschanskaia, O., Weyland, U., Abele, S., Danek, A. H., Greiff, S., Rausch, A., Seeber, S., Seifried, J., & Winther, E. (2026). [*Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness*](https://doi.org/10.1016/j.caeai.2026.100628).

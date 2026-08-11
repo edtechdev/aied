@@ -40,4 +40,4 @@ PARE-M provides six measurement dimensions that could be adapted for [[learning-
 - [[ai-higher-ed-bridge-gap]]
 ## Citation
 
-Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
+Alzahrani, A. H. (2026). [*Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study*](https://arxiv.org/abs/2605.26870). arXiv:2605.26870.

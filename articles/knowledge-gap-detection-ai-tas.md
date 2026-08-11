@@ -18,4 +18,4 @@ Curricula that deploy AI teaching assistants generate a byproduct — student in
 - [[knowledge-tracing-irt]]
 ## Citation
 
-Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
+Medhat, Y., Park, J., Thajchayapong, P., & Goel, A. K. (2026). [*Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs*](https://arxiv.org/abs/2606.10736). arXiv:2606.10736.

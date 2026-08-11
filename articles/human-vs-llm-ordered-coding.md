@@ -22,4 +22,4 @@ Critical methodological paper on using LLMs for automated qualitative coding of 
 
 ## Citation
 
-Saqr, A.K.M.S.L.E.A.O.B.E.M., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis*](https://doi.org/10.1016/j.caeai.2026.100649)
+Misiejuk, K., López-Pernas, S., Oliveira, E. A., Eagan, B., & Saqr, M. (2026). [*Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis*](https://doi.org/10.1016/j.caeai.2026.100649).

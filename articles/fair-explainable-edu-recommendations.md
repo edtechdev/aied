@@ -17,4 +17,4 @@ confidence: medium
 
 ## Citation
 
-Bukhari, A.E.E.S.M.S., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Fair and explainable educational recommendations with a hybrid Graph-GRU framework*](https://doi.org/10.1016/j.caeai.2026.100643)
+Evangelista, E., & Bukhari, S. M. S. (2026). [*Fair and explainable educational recommendations with a hybrid Graph-GRU framework*](https://doi.org/10.1016/j.caeai.2026.100643).

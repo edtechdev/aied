@@ -40,4 +40,4 @@ For educators, the taxonomy supports more precise diagnosis of student difficult
 - [[llm-student-misconception-identification]]
 ## Citation
 
-How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+Eckert, D., & Kautz, C. (2026). [*How Students (Mis)understand Conditionals and Loops – A Taxonomy*](https://arxiv.org/abs/2605.26966). arXiv:2605.26966.

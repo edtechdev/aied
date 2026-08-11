@@ -17,3 +17,7 @@ This paper replicates and extends prior work on the cold-start problem in knowle
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]
+
+## Citation
+
+Zhang, J., Baker, R. S., Basu Mallick, D., Heffernan, C., & Heffernan, N. (2026). [*A Case Study Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights, an Education Research Infrastructure*](https://arxiv.org/abs/2606.11004). arXiv:2606.11004.
