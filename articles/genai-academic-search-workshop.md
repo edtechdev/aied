@@ -19,3 +19,6 @@ This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Sea
 - [[self-regulated-learning]]
 ## Connected Articles
 
+## Citation
+
+Liu, Y., Arguello, J., Hoeber, O., et al. (2026). [*Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)*](https://arxiv.org/abs/2606.08936). arXiv:2606.08936.

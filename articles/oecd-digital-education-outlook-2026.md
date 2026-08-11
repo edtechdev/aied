@@ -97,4 +97,4 @@ A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with inte
 
 ## Citation
 
-OECD (2026). *OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education*. OECD Publishing, Paris. https://doi.org/10.1787/062a7394-en
+OECD (2026). [*OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education*](https://doi.org/10.1787/062a7394-en). OECD Publishing, Paris.

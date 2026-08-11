@@ -17,4 +17,4 @@ confidence: medium
 
 ## Citation
 
-Hashemi, A.S.S., 100635, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Students' multimodal prompting practices as epistemic work in AI literacy development*](https://doi.org/10.1016/j.caeai.2026.100635)
+Sofkova Hashemi, S. (2026). [*Students' multimodal prompting practices as epistemic work in AI literacy development*](https://doi.org/10.1016/j.caeai.2026.100635).

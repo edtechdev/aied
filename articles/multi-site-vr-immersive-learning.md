@@ -17,3 +17,6 @@ This paper develops a VR-based immersive learning environment using Photon Fusio
 - [[active-learning]]
 ## Connected Articles
 
+## Citation
+
+Wataru, I., & Nguyen, D. V. (2026). [*Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion*](https://arxiv.org/abs/2606.10325). arXiv:2606.10325.

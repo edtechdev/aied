@@ -119,4 +119,4 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 
 ## Citation
 
-ScienceDirect, C.L.A.A., Intelligence, C.A.E.A., for, S.C.T.W.G.A.D.P., b, M.V.A.S.J., (AERC), A.A.E.R.C., O, A.R.T.I.C.L.E.I.N.F., T, A.B.S.T.R.A.C., & AI, G. (2026). [*Scaffolding Critical Thinking with Generative AI*](https://doi.org/10.1016/j.caeai.2026.100572)
+Vendrell, M., & Johnston, S.-K. (2026). [*Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education*](https://doi.org/10.1016/j.caeai.2026.100572).

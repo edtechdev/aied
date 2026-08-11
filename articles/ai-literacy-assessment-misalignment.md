@@ -15,4 +15,4 @@ sources: []
 
 ## Citation
 
-AI Literacy Assessment: Self-Reported vs Performance Misalignment
+Zhang, S., Xiao, R., Botelho, A. F., Liao, G., Chiu, T. K. F., Stamper, J., & Koedinger, K. R. (2026). [*How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures*](https://arxiv.org/abs/2601.06101). arXiv:2601.06101.

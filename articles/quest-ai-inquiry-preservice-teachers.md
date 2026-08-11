@@ -17,4 +17,4 @@ confidence: medium
 
 ## Citation
 
-Wicks, A.D.C.Y.Y.A.X.D., 2026, S.C.A.E.A.I.V., & Access), L.C.B. (2026). [*Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers*](https://doi.org/10.1016/j.caeai.2026.100630)
+Cao, D., Yan, Y., Xiong, A., & Wicks, D. (2026). [*Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers*](https://doi.org/10.1016/j.caeai.2026.100630).

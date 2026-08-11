@@ -8,9 +8,6 @@ sources: ['raw/papers/llm-intervention-design-cs-review.md']
 confidence: high
 ---
 
-> **Author:** Anusha Vissapragada (Hult International Business School) **Source:** [EdArXiv preprint](https://osf.io/preprints/edarxiv/knhyz_v1) (2026)
-**Source:** [EdArXiv preprint](https://osf.io/preprints/edarxiv/knhyz_v1) (2026)
-
 ## Key Findings
 
 This scoping review analyzed **13 experimental studies** on LLM integration in undergraduate [[cs-education]], examining how intervention design choices shape learning outcomes. The central finding: **LLM effectiveness depends less on the model itself than on pedagogical design**.
@@ -87,4 +84,4 @@ For [[higher-ed]] contexts, the review provides actionable guidance: semester-lo
 
 ## Citation
 
-School), A.A.V.I.B., implementation, A.Q.H.S.M.R.D.O., & generators, P.L.A.L.C.R.T.S. (2026). *A review of intervention designs of LLM Integration in Undergraduate Computer Science Education*
+Vissapragada, A. (2026). [*A review of intervention designs of LLM Integration in Undergraduate Computer Science Education*](https://osf.io/preprints/edarxiv/knhyz_v1). EdArXiv preprint.
