@@ -26,6 +26,14 @@ The study targets a known failure of accuracy-focused recommenders: students wit
 
 For [[personalized-learning]] platforms, the work demonstrates that fairness, diversity, and explainability can be engineered into recommenders without sacrificing predictive accuracy, which matters for [[equity]] in resource-constrained and cold-start settings. The persistence of catalogue-level popularity bias even after intervention shows that bias mitigation is partial and requires ongoing measurement. The model-centric explanations are intended to support more transparent educational recommendation, consistent with [[human-in-the-loop-ai]] oversight of automated learning-resource navigation.
 
+## Limitations
+
+- **Dataset scale and diversity:** evaluation rests on a single course with limited institutional and demographic diversity, constraining generalizability of the fairness and robustness findings.
+- **Scope of the fairness definition:** fairness is operationalized through participation-based cohorts (learner activity level) because the public Moodle dataset lacks achievement, prior knowledge, learning profiles, or demographic attributes; the results are therefore an audit of behavior across engagement levels rather than a full assessment of educational equity. As the authors note, a low-activity learner may be struggling, disengaged, or already familiar with the material, and activity level does not necessarily reflect ability or need.
+- **No human-centered bias auditing:** no instructor/student evaluation was conducted, so interpretability and trust claims remain model-centric and technical.
+- **Temporal modeling scope:** only short-range item→precedes→item edges within a single course are captured; multi-semester trajectories, cross-course relationships, and contextual shifts are not modeled.
+- **Persistence of systemic popularity bias:** substantial catalogue-level popularity bias remains despite GroupDRO and exposure-based regularization, as reflected in high Gini exposure metrics.
+
 ## Connected Concepts
 
 ## Connected Articles
