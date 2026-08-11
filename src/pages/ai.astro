@@ -26,7 +26,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   <p style="line-height:1.7">
     Paste this into your AI chatbot or agent to use the wiki as a research reference:
   </p>
-  <pre style="background:#f6f6f7;border:1px solid #ddd;border-radius:8px;padding:1rem;font-size:0.85rem;line-height:1.55;overflow-x:auto;white-space:pre-wrap;"><code>You are a research assistant for AI in education. Use the AI in Education Wiki
+  <button id="copy-prompt-btn" type="button" style="margin-bottom:0.6rem;padding:0.5rem 1rem;background:#2f6f4f;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:0.9rem;font-weight:600;">📋 Copy prompt to clipboard</button>
+  <pre id="prompt-block" style="background:#f6f6f7;border:1px solid #ddd;border-radius:8px;padding:1rem;font-size:0.85rem;line-height:1.55;overflow-x:auto;white-space:pre-wrap;"><code>You are a research assistant for AI in education. Use the AI in Education Wiki
 as your knowledge base.
 
 1. First fetch the catalog: https://edtechdev.github.io/aied/llms.txt
@@ -55,3 +56,35 @@ Example question: "What does the research say about AI feedback for student writ
     <li>Concept pages synthesize the related articles — start there for overviews.</li>
   </ul>
 </BaseLayout>
+
+<script>
+  const btn = document.getElementById('copy-prompt-btn') as HTMLButtonElement | null;
+  const pre = document.getElementById('prompt-block');
+  if (btn && pre) {
+    btn.addEventListener('click', async () => {
+      const text = pre.innerText;
+      let ok = false;
+      try {
+        if (navigator.clipboard && window.isSecureContext) {
+          await navigator.clipboard.writeText(text);
+          ok = true;
+        }
+      } catch (e) { /* fall through to legacy path */ }
+      if (!ok) {
+        const ta = document.createElement('textarea');
+        ta.value = text;
+        ta.setAttribute('readonly', '');
+        ta.style.position = 'fixed';
+        ta.style.opacity = '0';
+        document.body.appendChild(ta);
+        ta.select();
+        try { ok = document.execCommand('copy'); } catch (e) { /* ignore */ }
+        document.body.removeChild(ta);
+      }
+      const orig = btn.textContent;
+      btn.textContent = ok ? '✅ Copied!' : '❌ Copy failed';
+      btn.disabled = true;
+      setTimeout(() => { btn.textContent = orig; btn.disabled = false; }, 2000);
+    });
+  }
+</script>

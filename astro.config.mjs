@@ -8,5 +8,8 @@ export default defineConfig({
   base: '/aied',
   output: 'static',
   trailingSlash: 'never',
+  redirects: {
+    '/use-with-ai': '/aied/ai',
+  },
   integrations: [pagefind(), sitemap()],
 });
