@@ -13,6 +13,22 @@ Introduces 'design problems' (DPs): concise, scenario-based prompts that require
 
 Bridges [[generative-ai]] generation with [[formative-assessment]] and [[active-learning]], linking to [[scaffolding]] of complex tasks and [[higher-ed]]/[[cs-education]] contexts. It contributes a concrete method for scaling HOT assessment and informs [[generative-ai]] used for evaluation rather than just content delivery.
 
+## Key Findings
+
+- **Design problems (DPs)** are concise, scenario-based prompts that require applying project concepts in **new situations**, targeting higher-order thinking (HOT) that traditional PjBL assessments often fail to capture, especially in transfer contexts.
+- **Surveys of 31 instructors** showed that instructors value DPs for assessing HOT, but **creation effort is a barrier** to adoption.
+- An evaluation of **80 LLM-generated DPs** showed LLMs can produce **high-quality prompts with strong expert agreement**, effectively lowering the creation barrier.
+- Students **rated DPs from different LLMs similarly**, and their performance on DP tasks showed **negligible correlation with traditional project grades**, suggesting DPs capture **distinct aspects of higher-order thinking** rather than duplicating existing measures.
+- **Keystroke data suggested deeper cognitive engagement** through planning and revision behaviors while students worked on DP tasks.
+
+## Study Design & Method
+
+The study triangulates three perspectives: instructor perceptions (surveys with 31 instructors), LLM generation capability (80 generated DPs evaluated for quality and expert agreement), and student experience (performance data plus keystroke logs). The negligible correlation between DP performance and traditional project grades is the key psychometric signal: it indicates the assessment captures a different construct — transfer-oriented higher-order thinking — than project artifacts alone.
+
+## Implications for AI in Education
+
+DPs appear to be a **useful complement to traditional assessments**, particularly in situations where AI use or collaboration may undermine individual learning: because DPs demand application in novel scenarios, they are harder to complete by simply reusing project artifacts or generated code. The strong expert agreement on LLM-generated prompts makes scalable HOT assessment feasible, and the keystroke evidence connects DP work to deeper engagement. This positions LLM-generated DPs as a practical instrument for [[formative-assessment]] and for evaluating transfer in project-based computing education.
+
 ## Connected Concepts
 
 - [[generative-ai]]

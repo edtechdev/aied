@@ -4,12 +4,27 @@ created: 2026-06-10
 updated: 2026-06-10
 type: article
 tags: [edtech-platform, active-learning, student-experience, higher-ed, engagement-metrics, generative-ai, llm, ai-literacy, stem-education, scaffolding]
+sources: ['raw/papers/2606.10325.md']
 confidence: medium
 ---
 
-**Iwai Wataru, Duc V. Nguyen** — cs.MM, cs.HC
+> This paper develops a VR-based immersive learning environment using Photon Fusion that allows teachers and students to be present in the same virtual space regardless of physical locations. The system enables real-time verbal communication and interaction with 3D learning materials, achieving stable real-time communication and state synchronization across multiple players. Evaluation demonstrates stable communication performance, good usability, and minimal VR sickness. This work connects to [[edtech-platform]] design for distributed education and to [[active-learning]] research by providing a technology platform for shared virtual classroom experiences. The system addresses a practical infrastructure gap in multi-site education scenarios where physical co-presence is not possible.
 
-This paper develops a VR-based immersive learning environment using Photon Fusion that allows teachers and students to be present in the same virtual space regardless of physical locations. The system enables real-time verbal communication and interaction with 3D learning materials, achieving stable real-time communication and state synchronization across multiple players. Evaluation demonstrates stable communication performance, good usability, and minimal VR sickness. This work connects to [[edtech-platform]] design for distributed education and to [[active-learning]] research by providing a technology platform for shared virtual classroom experiences. The system addresses a practical infrastructure gap in multi-site education scenarios where physical co-presence is not possible.
+## Key Findings
+
+- A Photon Fusion-based architecture supports stable real-time communication and state synchronization among multiple players in a shared virtual classroom.
+- Teachers and students can occupy the same virtual space regardless of physical location, with two-way voice communication and shared manipulation of 3D models.
+- The design avoids the frame-rate instability of earlier peer-to-peer approaches (WebSocket/WebRTC with a server on a PC), where processing load depended on the head-mounted display (HMD) and degraded as simultaneous users increased.
+- Evaluation results show stable communication performance, good usability, and minimal VR sickness, confirming effectiveness as an immersive learning environment.
+- UI consistency was identified as an area needing improvement, and future work targets a wider variety of learning materials plus UI and network enhancements.
+
+## Study Design & Evaluation
+
+The system targets support for up to twenty participants, aiming for high usability through improved operability compared with earlier systems whose complex operation methods, such as hand tracking, resulted in poor usability. The evaluation involved 10 undergraduate and graduate students from the same academic department, aged 21 to 24 (9 men, 1 woman); 3 participants had prior VR experience while 7 had none. In a one-hour experiment using the Meta Quest 3 headset, participants launched the application and entered the VR classroom to familiarize themselves with the system, took a 10-minute break, re-entered the classroom, and conducted a science experiment. Afterwards they completed the System Usability Scale (SUS) and the Simulation Sickness Questionnaire (SSQ), while the frame rate of the teacher's device was recorded to evaluate device load.
+
+## Implications for AI in Education
+
+The system addresses a practical infrastructure gap in multi-site education: VR enables learning activities that are difficult to simulate in traditional classrooms, such as gaining a three-dimensional understanding of human structures or conducting chemistry experiments without physical constraints. By decoupling co-presence from physical location, platforms of this kind support distributed [[higher-ed]] and [[stem-education]] scenarios in which hands-on, immersive activities must be shared across sites. The documented trade-offs — usability, UI consistency, and motion sickness — offer a reference point for [[edtech-platform]] designers weighing the costs and benefits of real-time immersive environments against conventional video-based remote instruction.
 
 ## Connected Concepts
 

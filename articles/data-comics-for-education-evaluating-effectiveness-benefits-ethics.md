@@ -10,9 +10,23 @@ confidence: high
 
 > **Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026)**
 
-**Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026)**
-
 Data comics combine sequential visual narratives with data visualization to improve student engagement with [[generative-ai]] in educational settings. This paper evaluates the effectiveness of AI-assisted creation of data comics, finding that they significantly enhance student engagement and comprehension compared to traditional visualization formats. The study also examines ethical dimensions including authorship attribution of AI-produced content, accuracy of generated visuals, and the risk of misleading representations. These findings have direct implications for [[k-12]] education, where [[active-learning]] approaches benefit from engaging visual materials.
+
+## Key Findings
+
+- In a within-subjects study with 60 university students, participants consistently performed better with GenAI-assisted **data comics** than with conventional visualizations across information retrieval and comprehension tasks, with the largest advantage in insight comprehension tasks.
+- The comprehension benefit held **independent of prior visualization literacy**, suggesting data comics can support learners regardless of their starting skill with charts and graphs.
+- Students rated data comics as **more engaging and easier to understand** than conventional visualizations, and several highlighted the value of the narrative style for information recall — although the authors note this construct was not directly measured.
+- Participants raised **ethical concerns about GenAI-driven misinformation and ownership**, pointing to authorship attribution of AI-produced content and the accuracy of generated visuals as open questions.
+- Perceived limitations were widespread: two-thirds of participants (N = 36) flagged downsides, most commonly **information overload (N = 18)**, with "too busy" layouts slowing the location of key insights.
+
+## Study Design & Method
+
+The study used a within-subjects experimental design in which 60 university students completed information retrieval and comprehension tasks using both conventional visualisations and data comics created with assistance from generative AI tools. Task performance was compared across the two formats, and students also provided qualitative feedback on engagement, comprehension, and perceived limitations. The authors frame the work against the challenge of preparing students from diverse disciplines to interpret and use data for reasoning and critical thinking in their future professional practice.
+
+## Implications for AI in Education
+
+For [[higher-ed]] and [[k-12]] settings, the results suggest that AI-assisted data comics are a promising medium for data communication and [[active-learning]], particularly where students struggle with visualization literacy. At the same time, the ethical concerns raised by participants — misinformation risk, authorship attribution, and the potential for misleading representations — underscore the need for verification and transparency when [[generative-ai]] is used to produce instructional visuals, since data comics can sometimes increase cognitive load with excessive detail even as they engage readers.
 
 ## Connected Concepts
 

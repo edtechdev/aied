@@ -14,13 +14,21 @@ confidence: high
 
 Proposes an evaluation framework for child-specific harms in generative AI; applied to education domain, Llama Guard models struggle to detect unsafe user prompts from children.
 
-## Key Contributions
+## Key Findings
 
-- Proposes an evaluation framework for child-specific harms in generative AI; applied to education domain, Llama Guard models struggle to detect unsafe user prompts from children.
+- Most existing AI safety evaluation frameworks and benchmarks focus on general (adult) user populations and overlook risks unique to younger users, despite evidence of heavy youth engagement — a recent national survey found 72% of U.S. adolescents have used AI companions.
+- The paper proposes an evaluation framework that integrates expert-guided risk factors with real-world AI incident data, identifying hazard categories from expert guidelines and AI incident databases and using them to construct a synthetic test set for model evaluation.
+- Applied to the education domain, three Llama Guard models were evaluated on their ability to detect unsafe user prompts; the models struggled to identify education-related unsafe prompts.
+- The evaluation pipeline includes incident-grounded prompt generation — producing harmful education-related prompts framed from a teen or student perspective based on reported incidents — alongside generation of safe prompts for contrast.
+- Future work is framed as extending the evaluation to additional risk categories and incorporating domain experts throughout the evaluation pipeline.
 
-## Connections to AI in Education
+## Study Design & Method
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+The framework combines two evidence sources: hazard categories derived from expert guidelines and categories mined from AI incident databases. These inform a synthetic test set in which harmful and safe education-domain user prompts are generated from incident descriptions, with the user assumed to be a teen or student. The resulting test set is used to evaluate safety classifiers — here, three Llama Guard models — on their detection of unsafe user prompts, with assessments scored as safe or unsafe. This design lets the authors measure child-specific safety performance in a region where existing general-population benchmarks leave a gap.
+
+## Implications for AI in Education
+
+The results carry a direct warning for AI-based learning environments: general-purpose safety classifiers do not reliably catch education-related unsafe prompts from children, so [[pedagogical-safety]] cannot be assumed from standard model safeguards. Schools and edtech providers deploying [[generative-ai]] tools need child-specific evaluation, incident-grounded testing, and human oversight rather than reliance on off-the-shelf safety models. The framework's structure — expert guidance plus incident data plus synthetic testing — is itself a template that educational institutions and researchers can reuse to evaluate tools for younger users, with implications for [[privacy]] and [[equity]] in who is protected by default safety practices.
 
 ## Connected Concepts
 

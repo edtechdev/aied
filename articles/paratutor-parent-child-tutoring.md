@@ -10,15 +10,21 @@ confidence: high
 
 > **Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan** (2026). arXiv cs.HC
 
-**Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan** (2026). arXiv cs.HC
-
 ## Key Findings
 
-Generic LLM assistance reduces the parent's tutoring role; ParaTutor preserves parent-led support and sustains child reasoning through role-separated scaffolding. LLM support for multi-user learning must be distributed by user roles.
+- Effective parent–child tutoring depends on preserving distinct, asymmetric roles: parents guide the learning process while children remain actively engaged in understanding and reasoning.
+- Recurring challenges include parents struggling to understand problem structure, lacking sufficient knowledge to provide support, and encountering communication difficulties that disrupt shared understanding.
+- Generic LLM assistance tends to reduce the parent's tutoring role; ParaTutor better preserves parent-led support and sustains children's participation in reasoning through role-separated [[scaffolding]].
+- In multi-user learning, the value of LLM support depends not only on model capability but on how support is distributed across users with different roles.
+- Emotionally supportive language — gentle reminders, positive reinforcement, neutral phrasing such as "let's try a different way" — enhances persistence, reduces frustration, and fosters learner confidence.
 
-## Relevance to AI in Education
+## Study Design & Method
 
-This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings.  Shows that role-separated LLM scaffolding preserves parent-led tutoring dynamics, unlike generic LLM assistance that reduces the parent role.
+The work began with a formative study in the Chinese home tutoring context that identified locally common math word problem-solving procedures, common challenges in parental tutoring, and seven strategies commonly adopted by parents. ParaTutor was then developed using multi-agent chatbots, providing parents with guidance for tutoring and children with visual grounding for problem solving. The system was evaluated with 23 parent–child dyads (children aged 10–12) under four tutoring conditions that varied how LLM assistance was delivered. Design features for emotional buffering include sentence starters such as "You're on the right track," "let's think it through together," and "That's okay, let's try another way," which help parents maintain a constructive tone when children struggle or make mistakes.
+
+## Implications for AI in Education
+
+ParaTutor illustrates how LLM support for multi-user learning must be distributed by user roles rather than offered as a single generic interface. Compared with general conversational LLM support, ParaTutor kept parents centrally involved by making guidance something they delivered and adapted in interaction rather than merely retrieved from the model. Phase-gated support helped dyads progress without jumping to answers: parents of higher-performing children more frequently chose approaches that encourage independent thinking, reflecting a belief that their role is to support rather than control the learning process. For [[intelligent-tutoring]] and [[human-ai-collaboration]] research, the study contributes design implications for LLM systems that support family learning, particularly in [[math-education]] contexts where LLM accuracy is limited and children should not interact with models independently.
 
 ## Connected Concepts
 

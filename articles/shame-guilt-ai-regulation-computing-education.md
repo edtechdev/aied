@@ -9,10 +9,23 @@ confidence: high
 ---
 
 > **Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, Stephen MacNeil (2026)** — arXiv preprint
-An interview study with 19 computing students through a functionalist perspective of shame and guilt. Findings show these emotions regulate when and how students make their AI use visible, engaging in hiding behaviors and selective disclosure. Students described shaming themselves, peers, and faculty for using AI. Shame and guilt coexist with continued AI use, creating cycles of reduced agency and moral tension rather than promoting behavior change. Students used language and metaphors of addiction. Highlights need to consider socio-emotional aspects of AI use in policy and classroom practice.
+> An interview study with 19 computing students through a functionalist perspective of shame and guilt. Findings show these emotions regulate when and how students make their AI use visible, engaging in hiding behaviors and selective disclosure. Students described shaming themselves, peers, and faculty for using AI. Shame and guilt coexist with continued AI use, creating cycles of reduced agency and moral tension rather than promoting behavior change. Students used language and metaphors of addiction. Highlights need to consider socio-emotional aspects of AI use in policy and classroom practice.
 
+## Key Findings
 
-- Shame and guilt regulate AI use visibility in computing education, creating cycles of hiding and moral tension rather than behavior change.
+- Shame and guilt regulate when and how students make their AI use visible, producing hiding behaviors and selective disclosure.
+- Students described shaming themselves, peers, and faculty for using AI, indicating that these emotions circulate socially rather than only privately.
+- Shame and guilt coexist with continued AI use, creating cycles of reduced agency and moral tension rather than promoting behavior change.
+- Students used language and metaphors of addiction to describe their relationships with AI use.
+- These experiences emerged alongside broader feelings of nihilism and pessimism about their academic futures.
+
+## Study Design & Method
+
+The study interviewed 19 computing students and analyzed their relationships with AI use through a functionalist lens of shame and guilt — that is, asking what social work these emotions do in regulating behavior. The analysis examined how students' emotional experiences relate to academic identity, confidence, and self-perception, and how those experiences intersect with institutional responses such as surveillance and detection.
+
+## Implications for Policy and Classroom Practice
+
+The findings suggest that prevailing responses to AI use — particularly those emphasizing surveillance and detection — risk overlooking or exacerbating the socio-emotional costs of AI use. When shame drives students to hide their AI use rather than change it, detection-focused policy can deepen the spiral: reduced agency, moral tension, and addiction-like language describe a dynamic in which students continue using AI but cannot openly negotiate how to do so well. Left unaddressed, these dynamics may undermine students' learning, identities, and long-term engagement in computing fields. For instructors and institutions, the study highlights the need to consider the socio-emotional aspects of AI use alongside [[academic-integrity]] enforcement — creating classroom conditions in which AI use can be discussed candidly, so that policy addresses behavior rather than driving it underground. The work also connects to [[over-reliance]] and [[student-experience]] research by showing that the emotional valence of AI use is itself consequential for learning and persistence in [[cs-education]].
 
 ## Connected Concepts
 
