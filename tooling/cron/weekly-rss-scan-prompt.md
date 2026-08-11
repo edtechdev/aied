@@ -54,6 +54,8 @@ confidence: high
 - **Connected Concepts:** 3-6 genuinely related concepts from `concepts/`
 - **Connected Articles:** 2-4 genuinely related articles from `articles/`
 - **Citation:** APA format with hyperlinked title (DOI link)
+- **Article body must be substantial** — at least ~1,000 characters of synthesis/findings beyond the blockquote. A title + one-line blockquote is a stub; expand with key contributions, findings, and implications.
+- **Write the citation yourself in APA format** (Authors, Year. *Title*. URL). NEVER paste the Elsevier/ScienceDirect auto-generated citation from the publisher page — it comes out garbled (author lists like "ScienceDirect, C.L.A.A., ... & Access), L.C.B."). Get the real author list from Crossref: `curl -s https://api.crossref.org/works/<doi>` (fields: message.author[].family/given, message.title, message.volume, message.page).
 
 ### 5. Build and push
 ```
