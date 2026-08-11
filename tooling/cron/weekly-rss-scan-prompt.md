@@ -33,6 +33,8 @@ For each NEW article, fetch the article page URL using `web_extract`.
 
 **Save full text when available** to `raw/papers/<doi-slug>.md` with frontmatter (source_url, ingested_date, doi). Reference it in the article's `sources:` field ONLY — never put `raw/` paths in the article body (`^[raw/...]` footnotes and `[local](raw/...)` links render as broken literal text on the live site; the Astro renderer doesn't process them and `raw/` isn't deployed).
 
+**If the article is open access but full text CANNOT be retrieved** (e.g., the publisher blocks scraping with CAPTCHA/bot protection, as ScienceDirect does; or the fetch times out after retries): still create the article page from the abstract (the pipeline works fine from an abstract), save the abstract into `raw/papers/<doi-slug>.md` with the same frontmatter, and ADD the article to a running `FULL_TEXT_PENDING` list with: article slug, full title, DOI, and publisher page URL. The wiki maintainer will manually download the PDF and send it to complete the full text.
+
 ### 4. Write article files
 Create `articles/<slug>.md` with:
 
@@ -64,3 +66,13 @@ cd [YOUR_WIKI_PATH] && python3 tooling/scripts/generate-llms-files.py && npm run
 
 ### 6. Report
 Count articles checked, already existing, paywalled/skipped, and new articles ingested (with titles). List paywalled articles separately.
+
+**CRITICAL — report any article whose full text could not be retrieved.** For each one, include: the article title, the wiki article slug/URL, the DOI, and the publisher page link, formatted so the maintainer can click through and download the PDF:
+
+```
+FULL TEXT PENDING (N articles) — please send PDFs:
+1. <Full Paper Title> — wiki: https://edtechdev.github.io/aied/articles/<slug>/ — DOI: <doi> — publisher: <url>
+2. ...
+```
+
+The maintainer will manually download each PDF and send it; when received, save it to `raw/papers/<doi-slug>.md` and upgrade the article body from the full text.
