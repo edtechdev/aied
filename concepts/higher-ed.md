@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 confidence: high
@@ -52,3 +52,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ai-higher-ed-workforce-survey]] — AI in Higher Education Workforce Survey
 - [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[ai-uk-higher-education-policy-2026]]
+- [[genai-higher-education-systematic-review-2026]]

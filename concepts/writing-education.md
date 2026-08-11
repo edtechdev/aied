@@ -1,7 +1,7 @@
 ---
 title: AI in Writing Education
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition]
 confidence: high
@@ -48,3 +48,5 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[student-rationalization-ai-writing]]
 - [[care-full-feedback-genai]]
 - [[self-referential-l2-writing-llm-assessment]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[elementary-writing-genai-systematic-review-2026]]

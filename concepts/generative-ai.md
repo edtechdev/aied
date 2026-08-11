@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, ai-tutoring, over-reliance, hallucination-risk, cognitive-offloading]
 confidence: high
@@ -49,3 +49,9 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[instructional-guidance-genai-learning]]
 - [[genai-performance-vs-learning]]
 - [[liang-genai-systematic-review-human-ai-2026]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[elementary-writing-genai-systematic-review-2026]]
+- [[genai-pd-ai-pck-learning-gain-2026]]
+- [[genai-higher-education-systematic-review-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-11
 type: concept
 tags: [ai-literacy, faculty-development, k-12, higher-ed, generative-ai, student-experience, llm, equity, teacher-role, intelligent-tutoring]
 confidence: high
@@ -64,3 +64,4 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[universities-ai-era-rethinking]]
 - [[white-wu-robotics-ai-education-2026]]
+- [[genai-pd-ai-pck-learning-gain-2026]]

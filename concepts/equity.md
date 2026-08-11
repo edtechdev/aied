@@ -1,7 +1,7 @@
 ---
 title: Equity in AI Education
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [bias-mitigation, special-education, accessible-learning, culturally-relevant-pedagogy, ai-literacy, educational-policy-ai, higher-ed, k-12]
 confidence: high
@@ -48,3 +48,6 @@ Equity connects to [[bias-mitigation]], [[special-education]], [[accessibility|a
 - [[community-centered-ai-education-adults]]
 - [[amponsah-ai-acceptance-science-teachers-2026]]
 - [[neurodivergent-computing-students]]
+- [[elementary-writing-genai-systematic-review-2026]]
+- [[ai-uk-higher-education-policy-2026]]
+- [[genai-higher-education-systematic-review-2026]]

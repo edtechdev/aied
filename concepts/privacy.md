@@ -1,7 +1,7 @@
 ---
 title: Privacy in AI Education
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity, ai-governance-education, educational-policy-ai]
 confidence: high
@@ -43,3 +43,4 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[ai-lms-middle-school-longitudinal]]
 - [[child-safety-genai]]
 - [[eduzone-llm-safety-k12]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]

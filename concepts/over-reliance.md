@@ -1,7 +1,7 @@
 ---
 title: Over-Reliance
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [over-reliance, cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai]
 confidence: high
@@ -60,3 +60,4 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance from Learning
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
+- [[veriforge-narrative-drafting-scaffolding-2026]]

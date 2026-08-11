@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: 2026-08-09
-updated: 2026-08-10
+updated: 2026-08-11
 type: concept
 tags: [hallucination-risk, ai-ed-evaluation, generative-ai, llm, pedagogical-safety, human-in-the-loop-ai, over-reliance]
 confidence: high
@@ -39,3 +39,5 @@ Hallucination in educational AI takes several forms documented in this wiki's ar
 - [[eduframetrap-llm-sycophancy-educational-safety]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[prompt-injection-defenses-educational-llm-tutors]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[genai-higher-education-systematic-review-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Professional Training and AI
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation-based-learning, higher-ed, generative-ai, llm]
 confidence: high
@@ -44,3 +44,4 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[astra-atco-training-simulator]]
 - [[ai-adoption-training-public-sector]]
+- [[genai-pd-ai-pck-learning-gain-2026]]

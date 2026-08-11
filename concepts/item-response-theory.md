@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-11
 type: concept
 tags: []
 confidence: medium
@@ -17,3 +17,4 @@ confidence: medium
 ## Connected Articles
 
 - [[huang-interpretable-knowledge-tracing-2026]]
+- [[llm-difficulty-calibration-programming-exams-2026]]

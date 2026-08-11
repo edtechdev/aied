@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, ai-tutoring, pedagogical-llm-training, pedagogical-safety]
 confidence: high
@@ -44,3 +44,5 @@ RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structu
 - [[retrieval-augmented-tutoring-algorithm-kite]]
 - [[structrag-diagram-reasoning-ai-tutoring]]
 - [[book-level-synthetic-textbook-organization]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]

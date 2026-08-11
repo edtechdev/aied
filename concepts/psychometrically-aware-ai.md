@@ -1,7 +1,7 @@
 ---
 title: Psychometrically Aware AI
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-11
 type: concept
 tags: []
 confidence: medium
@@ -11,3 +11,6 @@ confidence: medium
 
 ## Connected Concepts
 
+## Connected Articles
+
+- [[llm-difficulty-calibration-programming-exams-2026]]

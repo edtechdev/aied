@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: 2026-05-07
-updated: 2026-08-09
+updated: 2026-08-11
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -69,3 +69,6 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[possibility-ai-literacy-critical-editorial]]
 - [[sec-ai-literacy-narrative-review-2026]]
 - [[teacher-education-ai-literacy-sdt-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[elementary-writing-genai-systematic-review-2026]]
+- [[genai-higher-education-systematic-review-2026]]
