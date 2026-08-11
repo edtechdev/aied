@@ -10,15 +10,21 @@ confidence: high
 
 > **Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho** (2026). EC-TEL 2026
 
-**Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho** (2026). EC-TEL 2026
-
 ## Key Findings
 
-Lower baseline self-efficacy predicts greater learning gains regardless of practice format. ITS-based practice did not improve post-training self-efficacy over paper. Benefits of tutor vs. paper practice vary with motivational profiles.
+- Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format.
+- Among students with lower baseline self-efficacy, greater favorability toward the tutor was associated with greater learning gains during tutor practice, whereas the pattern differed in paper-based practice.
+- Intelligent Tutoring System (ITS)-based practice did not significantly improve post-training self-efficacy relative to paper-based methods.
+- The benefits of tutor- and paper-based practice varied with baseline self-efficacy and favorability, so no single format dominated for all learners.
+- The findings underscore the potential value of tailoring practice format to students' motivational profiles.
+
+## Study Design & Method
+
+The study examined how self-efficacy and favorability toward practice shape learning across two common practice formats: paper-based practice and system-based tutoring practice. Using a counterbalanced within-subject design with matched problem sets, the authors isolated the effect of practice format while modeling motivational differences. The work builds on the observation that technology-enhanced learning systems in domains such as mathematics and science can improve learning outcomes through scaffolded support, step-level feedback, and individualized practice, but that learners' motivational profiles may influence how they respond to one format versus another.
 
 ## Relevance to AI in Education
 
-This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. Demonstrates that motivational factors (self-efficacy, favorability) modulate the effectiveness of ITS-based vs. paper-based practice, suggesting personalized practice format assignment.
+This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. It demonstrates that motivational factors — self-efficacy and favorability — modulate the effectiveness of ITS-based versus paper-based practice, suggesting that the value of an [[intelligent-tutoring]] system is not uniform across learners. For [[personalized-learning]] design, the results imply that practice format assignment should consider the learner's motivational profile: students who feel favorably toward the tutor and enter with lower self-efficacy may benefit more from system-based practice, while the same assignment could be less beneficial for others. The finding that ITS practice did not improve post-training [[self-regulated-learning]]-relevant beliefs such as self-efficacy relative to paper is a caution for the field's implicit assumption that richer technology automatically enhances motivation. The study lays groundwork for aligning instructional formats with learners' [[motivation]]al needs rather than treating practice format as a neutral delivery channel.
 
 ## Connected Concepts
 

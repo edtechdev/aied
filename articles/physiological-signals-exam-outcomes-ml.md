@@ -9,10 +9,23 @@ confidence: medium
 ---
 
 > **Lala Yamazaki, Ramchandra Rimal (2026)** — arXiv preprint
-Investigates ML models to predict exam outcomes from physiological data (electrodermal activity, heart rate, skin temperature) collected during exams. Evaluates logistic regression, random forest, SVM, transformers, LSTM, and GRU. Random forest often outperformed deep learning models while offering interpretability. Highlights value of physiological data for understanding student stress and real-time intervention potential.
+> Investigates ML models to predict exam outcomes from physiological data (electrodermal activity, heart rate, skin temperature) collected during exams. Evaluates logistic regression, random forest, SVM, transformers, LSTM, and GRU. Random forest often outperformed deep learning models while offering interpretability. Highlights value of physiological data for understanding student stress and real-time intervention potential.
 
+## Key Findings
 
-- Random forest predicts exam outcomes from physiological signals as well as deep learning, with better interpretability.
+- Random forest predicts exam outcomes from physiological signals as well as deep learning models, with better interpretability and computational efficiency.
+- Random forest achieved the highest mean performance (0.96), effectively modeling non-linear relationships in the data.
+- GRU and LSTM models yielded reliable results with mean performance metrics of 0.92 and 0.93, demonstrating excellent generalization to unseen data.
+- Transformers showed notable versatility on tabular data with a slightly lower mean metric of approximately 0.90, comparable to the LSTM and GRU models.
+- SVM exhibited moderate performance (mean metrics around 0.74), while logistic regression performed lowest with mean metrics below 0.42, making it ill-suited to the dataset's complexity.
+
+## Study Design & Method
+
+Physiological stress indicators — electrodermal activity, heart rate, and skin temperature — were collected during examination sessions and analyzed to uncover their association with academic performance. A diverse set of machine learning approaches was employed, ranging from standard models (logistic regression, random forest, support vector machines) to advanced architectures (transformers, long short-term memory, and gated recurrent unit models), with a key focus on assessing the adaptability of transformers in processing numerical data. Standard performance metrics — accuracy, precision, recall, and F1-score — were used to compare model efficacy, and trend analysis was conducted across 30 replicates to examine the mean performance and consistency of the models.
+
+## Implications for AI in Education
+
+By elucidating the relationships between physiological signals and academic performance, this study contributes to understanding the stressors that affect students' mental health and promotes leveraging physiological data to enhance student well-being and academic outcomes. The results highlight the value of physiological data for real-time intervention: stress indicators gathered unobtrusively during exams could feed [[learning-analytics]] and [[affective-computing]] pipelines that flag struggling students before outcomes are finalized. The study also underscores the importance of experimenting with a broad class of models aligned with the objectives of the problem at hand, balancing precision, efficiency, and interpretability — a practical lesson for [[student-modeling]] in educational settings where model transparency matters for trust and adoption.
 
 ## Connected Concepts
 

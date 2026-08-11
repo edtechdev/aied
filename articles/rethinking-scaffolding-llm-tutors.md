@@ -10,15 +10,21 @@ confidence: high
 
 > **Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson** (2026). Pluralistic Alignment Workshop @ ICML 2026
 
-**Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson** (2026). Pluralistic Alignment Workshop @ ICML 2026
-
 ## Key Findings
 
-Real-world students show lower uptake of LLM tutor scaffolding than benchmarks assume (9,490 chats across 9 datasets). Bypassing scaffolding often signals a mismatch between pedagogical framing and learner goals, not a failure. Benchmarks must evaluate tutor adaptability to student-driven interaction.
+- Alignment and evaluation methods for embedding scaffolding behaviour into chatbots rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation.
+- The paper introduces an evaluation pipeline around two metrics — Chatbot Scaffolding and Student Uptake — applied across nine datasets of 9,490 chats spanning AI tutor benchmarks and real-world deployments of educational chatbots.
+- While benchmarks assume a high-scaffolding, high-student-uptake environment, students in real-world settings exhibit lower levels of uptake overall, frequently bypassing the chatbot's pedagogical framing to drive the interaction toward their own learning goals at little interpersonal cost.
+- Bypassing scaffolding is not necessarily detrimental; it frequently highlights a mismatch between a chatbot's pedagogical framing and the student's learning goals.
+- Future benchmarks must move beyond the assumption that students will simply take up the scaffolding, and instead evaluate how chatbots navigate diverse learning contexts and student-driven interaction patterns.
+
+## Study Design & Method
+
+Scaffolding describes how a tutor calibrates support to the learner's current state — guiding through graduated hints, posing questions rather than giving answers, and withdrawing support as the student gains competence. Delivering timely, dialogic, and scaffolded feedback to every student at every moment of struggle is difficult at scale, and LLM-based chatbots have been proposed as a way to approach this challenge. However, deploying LLMs as tutors introduces a tension: they are trained to be helpful by presenting information and answering directly, rather than engaging students in guided discovery — behaviour that is at odds with scaffolding, where a tutor withholds answers to promote reasoning. The evaluation pipeline operationalizes this tension through the Chatbot Scaffolding and Student Uptake metrics, and the corpus spans both benchmark datasets and real-world chatbot deployments.
 
 ## Relevance to AI in Education
 
-This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings.     Challenges benchmark assumptions about student uptake of LLM tutor scaffolding, showing real-world learners frequently bypass pedagogical framing for their own goals.
+This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. It challenges benchmark assumptions about student uptake of LLM tutor scaffolding, showing that real-world learners frequently bypass pedagogical framing in favour of their own goals, and that this behaviour is often a rational response to a mismatch rather than a failure of engagement. For [[ai-tutoring]] design, the implication is that scaffolding should be adaptive to student-driven interaction patterns — including [[help-seeking]] styles — rather than presupposed by the interface. The conversational structure of tutoring normally allows students to respond, negotiate, and ask follow-up questions, building understanding iteratively and exercising agency; benchmarks that ignore this dynamic risk overestimating both the value of rigid scaffolding and the quality of LLM tutors. For the [[benchmark]] community, the work argues for evaluation designs that reward chatbots for navigating diverse learning contexts instead of assuming uptake.
 
 ## Connected Concepts
 
