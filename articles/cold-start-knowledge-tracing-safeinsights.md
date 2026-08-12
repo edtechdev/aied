@@ -5,6 +5,7 @@ updated: 2026-06-10
 type: article
 tags: [knowledge-tracing, learning-analytics, student-modeling, benchmark, higher-ed, llm, generative-ai, student-experience, ai-literacy, stem-education]
 confidence: high
+sources: []
 ---
 
 **Jiayi Zhang, Ryan S. Baker, Debshila Basu Mallick, Cristina Heffernan, Neil Heffernan** — cs.HC

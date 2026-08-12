@@ -5,6 +5,7 @@ updated: 2026-06-10
 type: article
 tags: [cs-education, generative-ai, curriculum-design, higher-ed, llm, student-experience, ai-literacy, scaffolding, intelligent-tutoring, stem-education]
 confidence: high
+sources: []
 ---
 
 **Yi-Chieh Lee, Nattapat Boonprakong, Yugin Tan, Harold Soh et al.** — Workshop report from NUS-Google Workshops — cs.CY
