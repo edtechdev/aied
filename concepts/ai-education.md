@@ -48,6 +48,7 @@ AI education connects to every concept in the wiki — it is the field that all 
 ## Connected Articles
 
 - [[raza-farooq-aied-review-2020-2025]]
+- [[genai-policies-higher-ed-computing]] — Comparative institutional/course GenAI policy in computing
 - [[liang-genai-systematic-review-human-ai-2026]]
 - [[brookings-ai-students-report]]
 - [[white-wu-robotics-ai-education-2026]]

@@ -45,6 +45,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 ## Connected Articles
 
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
+- [[genai-policies-higher-ed-computing]] — Institutional vs course GenAI policy in computing
 - [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use
 - [[institutional-change-framework-ai]] — Institutional Change in the Age of AI
 - [[genai-availability-grades-satisfaction]] — GenAI Availability and Student Satisfaction
