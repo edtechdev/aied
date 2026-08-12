@@ -5,6 +5,7 @@ updated: 2026-06-10
 type: article
 tags: [writing-education, llm, student-experience, higher-ed, ai-literacy, generative-ai, intelligent-tutoring, scaffolding, k-12, stem-education]
 confidence: high
+sources: []
 ---
 
 **Oleksandra Poquet, Mani Shankar Nanduri, Maria Ximena Salinas Loyer, Matthias Stadler, Michael Sailer, Jelena Jovanovic** — Accepted at EC-TEL 2026 — cs.HC, cs.ET

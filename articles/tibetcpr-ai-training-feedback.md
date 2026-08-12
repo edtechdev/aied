@@ -5,6 +5,7 @@ updated: 2026-06-10
 type: article
 tags: [professional-training, llm, formative-assessment, student-experience, edtech-platform, higher-ed, generative-ai, intelligent-tutoring, scaffolding, k-12]
 confidence: high
+sources: []
 ---
 
 **Yibo Meng, Ruiqi Chen, Zhiming Liu, Xiaolan Ding** — Accepted at MobileHCI 2026 — cs.HC

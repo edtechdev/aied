@@ -5,6 +5,7 @@ updated: 2026-06-10
 type: article
 tags: [active-learning, ai-education, higher-ed, learning-analytics, teacher-role, generative-ai, llm, student-experience, ai-literacy, stem-education]
 confidence: high
+sources: []
 ---
 
 **Yuchen Liu, Roberto Martinez-Maldonado, Riordan Alfredo, Paola Mejia-Domenzain, Dwi Rahayu, Sadia Nawaz** — AIED 2026 — cs.HC, cs.AI
