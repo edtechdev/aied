@@ -67,4 +67,4 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 
 ## Citation
 
-Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |, S.D.M., & |, I.F.T.T.C.F. (2026). [*ProPACT: Pair Programming with AI*](https://arxiv.org/abs/2605.02703)
+Golrang, A., Sharma, K., Dehaen, S., & Viberg, O. (2026). [*ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming*](https://arxiv.org/abs/2605.02703). arXiv:2605.02703.

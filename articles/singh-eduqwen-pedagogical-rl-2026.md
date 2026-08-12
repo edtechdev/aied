@@ -73,4 +73,4 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 
 ## Citation
 
-Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). [*EduQwen: Pedagogical RL*](https://arxiv.org/abs/2604.06385)
+Singh, N. P., Wang, X., Garikipati, A., Ciobanu, M., Mao, Q., & Das, R. (2026). [*Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via RL and SFT*](https://arxiv.org/abs/2604.06385). arXiv:2604.06385.

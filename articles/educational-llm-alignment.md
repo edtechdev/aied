@@ -69,4 +69,4 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 - [[llm-fallacy-misattribution]]
 ## Citation
 
-(Stanford, A.M.H.Y.K., 2026, S.M.R.A., & improvement, P.W.E.B.M.E.S.N. (2026). [*Educational LLM Alignment*](https://arxiv.org/abs/2603.00883)
+Hardy, M., & Kim, Y. (2026). [*Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact*](https://arxiv.org/abs/2603.00883). arXiv:2603.00883.

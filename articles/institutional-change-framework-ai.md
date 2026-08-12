@@ -83,4 +83,4 @@ The framework was piloted through a faculty workshop series in a university phys
 - [[ai-education-global-capacity]]
 ## Citation
 
-(, A.D.P.N.D.F., (cs.CY), S.P.E.C.A.S., 4.0, L.C.B., approaches, D.A.T.A.D.M.E.C.I., research, I.A.R.B.W.E.T.A.F.V., transferred, I.A.T.A.S.M.C.B.C.A., months, A.R.A.C.A.W.M.C.S.W., & interventions, I.A.R.T.S.B. (2026). [*A Framework for Institutional Change in the Age of AI*](https://arxiv.org/abs/2605.12757)
+Perl-Nussbaum, D., & Finkelstein, N. D. (2026). [*A Framework for Institutional Change in the Age of AI*](https://arxiv.org/abs/2605.12757). arXiv:2605.12757.

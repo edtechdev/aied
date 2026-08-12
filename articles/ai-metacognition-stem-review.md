@@ -129,4 +129,4 @@ Teacher ↔ AI System ↔ Student
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 
-Egara, A.M.T.S.C.N.M.M.F.O., (MDPI), J.J.O.I., Review, S., AI, M.T.S.O.M.A.L.B., Review, T.I.S.C.A.B., Tsakeni, M., Nwafor, S.C., & Mosia, M. (2026). [*AI Tools Scaffolding Metacognition in STEM*](https://mdpi-res.com/d_attachment/jintelligence/jintelligence-13-00148/article_deploy/jintelligence-13-00148.pdf?version=1763188408). Journal of Intelligence (MDPI) (MDPI)
+Tsakeni, M., Nwafor, S. C., Mosia, M., & Egara, F. O. (2025). [*Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach*](https://doi.org/10.3390/jintelligence13110148). *Journal of Intelligence*.
