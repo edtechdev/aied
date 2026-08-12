@@ -30,5 +30,5 @@ The work contributes to understanding of [[collaborative-learning]] in education
 - [[efficiency-gain-illusion-ai-overreliance]]
 - [[critical-genai-use-predictors]]
 
-## Citation
-Kimmerle, J. (2026). [*Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction*](https://doi.org/10.35542/osf.io/b8zjk_v1). EdArXiv Preprint.
+## Citation## Citation
+Kimmerle, J. (2026). [*Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction*](https://doi.org/10.35542/osf.io/b8zjk_v1). EdArXiv preprint.

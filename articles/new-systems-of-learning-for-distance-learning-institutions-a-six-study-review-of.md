@@ -22,5 +22,5 @@ This study examines how a large-scale distance learning institution designed, im
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
 - [[taklif-ai-interest-based-personalized-assignments]]
 
-## Citation
-Bart Rienties et al. (2026). [*New systems of learning for distance learning institutions? A six-study review of implementing AIDA*](https://doi.org/10.1016/j.caeai.2026.100607). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Rienties, B., Coughlan, T., Domingue, J., & Herodotou, C. (2026). [*New systems of learning for distance learning institutions? A six-study review of implementing AIDA*](https://doi.org/10.1016/j.caeai.2026.100607). *Computers and Education: Artificial Intelligence*.

@@ -69,5 +69,4 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 
 ## Citation
 
-[AcademiClaw: When Students Set Challenges for AI Agents](https://arxiv.org/abs/2605.02661).
-
+Yu, J., Lu, P., Si, W., Lu, H., Wu, J., Tao, K., et al. (2026). [AcademiClaw: When Students Set Challenges for AI Agents](https://arxiv.org/abs/2605.02661). arXiv:2605.02661.

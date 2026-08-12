@@ -23,4 +23,4 @@ Emotion regulation has been recognized as a key factor affecting students' acade
 - [[ai-in-the-wild-college]]
 
 ## Citation
-Xiao-Li Zheng et al. (2026). [*From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach*](https://doi.org/10.1111/bjet.70083). British Journal of Educational Technology.
+Zheng, X.-L., Lyu, Z.-Y., Wang, S.-Y., Wang, F., Kong, X., Hwang, G.-J., et al. (2026). [*From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach*](https://doi.org/10.1111/bjet.70083). *British Journal of Educational Technology.*

@@ -48,4 +48,4 @@ The review also connects to broader debates about [[ethics]] and learner efficac
 
 ## Citation
 
-(EdArXiv preprint, 2026). [*Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making*](https://osf.io/6kjmy). EdArXiv.
+Ashiq, S. (2026). [*Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making*](https://osf.io/6kjmy). EdArXiv preprint.

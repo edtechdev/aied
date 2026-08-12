@@ -22,5 +22,5 @@ This paper introduces the Epistemic Entanglement Framework, a theory-informed mo
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]]
 
-## Citation
-Anita Samuel (2026). [*Learning with machines: Toward a theory of epistemic co-agency*](https://doi.org/10.1016/j.caeai.2026.100573). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Samuel, A. (2026). [*Learning with machines: Toward a theory of epistemic co-agency*](https://doi.org/10.1016/j.caeai.2026.100573). *Computers and Education: Artificial Intelligence*.

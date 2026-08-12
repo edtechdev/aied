@@ -49,4 +49,4 @@ The integration of AI into elementary writing also raises [[equity]] considerati
 
 ## Citation
 
-(EdArXiv preprint, 2026). [*Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review*](https://osf.io/ztr2x). EdArXiv.
+Abedini, P. (2026). [*Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review*](https://osf.io/ztr2x). EdArXiv preprint.

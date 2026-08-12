@@ -24,5 +24,5 @@ This study investigated different collaboration modes and how they interact with
 - [[computational-thinking-ai-agent-creation]]
 - [[ai-in-the-wild-college]]
 
-## Citation
-Ching-Huei Chen & Kun Huang (2026). [*Not all collaboration benefits from competition: Collaboration modes in a computational thinking game*](https://doi.org/10.1111/bjet.70081). British Journal of Educational Technology.
+## Citation## Citation
+Chen, C.-H., & Huang, K. (2026). [*Not all collaboration benefits from competition: Collaboration modes in a computational thinking game*](https://doi.org/10.1111/bjet.70081). *British Journal of Educational Technology*.

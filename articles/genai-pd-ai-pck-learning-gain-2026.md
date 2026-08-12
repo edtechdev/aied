@@ -48,4 +48,4 @@ For [[professional-training]] and institutional [[educational-policy-ai]], the f
 
 ## Citation
 
-(EdArXiv preprint, 2026). [*Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers*](https://osf.io/njztk). EdArXiv.
+Talebzadeh, H. (2026). [*Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers*](https://osf.io/njztk). EdArXiv preprint.

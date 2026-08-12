@@ -23,5 +23,5 @@ This article reports on a Delphi study that created the Scaffolded AI Literacy (
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]]
 
-## Citation
-Kathryn MacCallum et al. (2026). [*The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education*](https://doi.org/10.1016/j.caeai.2026.100584). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+MacCallum, K., Parsons, D., & Mohaghegh, M. (2026). [*The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education*](https://doi.org/10.1016/j.caeai.2026.100584). *Computers and Education: Artificial Intelligence*.

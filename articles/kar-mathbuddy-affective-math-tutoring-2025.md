@@ -58,4 +58,4 @@ Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) 
 
 ## Citation
 
-['MathBuddy: Affective Math Tutoring'](https://arxiv.org/abs/2508.19993v2).
+Kar, D., Böss, L., Braca, D., Dennerlein, S. M., Hubig, N. C., Wintersberger, P., et al. (2025). [MathBuddy: Affective Math Tutoring](https://arxiv.org/abs/2508.19993v2). arXiv:2508.19993.

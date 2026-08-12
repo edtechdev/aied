@@ -53,5 +53,5 @@ The framework is conceptual and would benefit from empirical validation, but it 
 
 ## Citation
 
-(EdArXiv preprint, 2026). [*From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education*](https://osf.io/wudk7). EdArXiv.
+Nalyvaiko, O. (2026). [*From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education*](https://osf.io/wudk7). EdArXiv preprint.
 

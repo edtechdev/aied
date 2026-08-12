@@ -23,5 +23,5 @@ This study examined the effects of pedagogical agents (real vs. virtual) and met
 - [[learning-to-prompt-adaptive-tutoring]]
 - [[icap-cognitive-engagement-llm-agents]]
 
-## Citation
-Ke Xu et al. (2026). [*The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning*](https://doi.org/10.1111/bjet.70064). British Journal of Educational Technology.
+## Citation## Citation
+Xu, K., Zhang, Q., Zhang, Y., Xu, H., Pi, Z., & Yang, J. (2026). [*The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning*](https://doi.org/10.1111/bjet.70064). *British Journal of Educational Technology*.

@@ -83,4 +83,4 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 
 ## Citation
 
-[Comprehensive Review of Intelligent Tutoring Systems](https://arxiv.org/abs/2507.18882v1).
+Zerkouk, M., Mihoubi, M., & Chikhaoui, B. (2025). [Comprehensive Review of Intelligent Tutoring Systems](https://arxiv.org/abs/2507.18882v1). *Journal of Computers in Education*.

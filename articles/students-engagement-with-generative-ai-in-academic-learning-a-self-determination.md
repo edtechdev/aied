@@ -24,5 +24,5 @@ This qualitative case study examines undergraduate students' engagement with Gen
 - [[generative-ai-reduced-study-time-math]]
 - [[generative-ai-guardrails-harm-learning]]
 
-## Citation
-Razia Isaeva et al. (2026). [*Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study*](https://doi.org/10.1016/j.caeai.2026.100606). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Isaeva, R., Caner, H. N., Caner, M., Giray, L., & Karadag, E. (2026). [*Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study*](https://doi.org/10.1016/j.caeai.2026.100606). *Computers and Education: Artificial Intelligence*.
