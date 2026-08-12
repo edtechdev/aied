@@ -24,6 +24,7 @@ confidence: medium
 - [[professional-training]]
 - [[self-regulated-learning]]
 ## Connected Articles
+- [[ai-guided-learning-audiovideo-2026]]
 
 - [[ai-adult-learning-design]]
 - [[ai-lifelong-learning-policy]]

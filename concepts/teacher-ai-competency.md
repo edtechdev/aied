@@ -55,6 +55,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[student-experience]]
 - [[regulation]]
 ## Connected Articles
+- [[ai-acceptance-preservice-science-teachers-2026]]
 
 - [[ai-education-global-capacity]]
 - [[ai-tpack-teacher-multi-agent-workflow]]

@@ -79,6 +79,9 @@ For example:
 - [[higher-ed]]
 - [[generative-ai]]
 ## Connected Articles
+- [[haiml-human-centered-ai-metacognitive-model-2026]]
+- [[metacognitively-discordant-completion-genai-2026]]
+- [[ai-guided-learning-audiovideo-2026]]
 
 - [[agents-that-teach-incidental-learning]]
 - [[ai-fatigue-academic-contexts]]

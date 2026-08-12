@@ -36,6 +36,9 @@ Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai
 - [[self-regulated-learning]]
 
 ## Connected Articles
+- [[genai-student-experiences-uk-he-survey-2026]]
+- [[metacognitively-discordant-completion-genai-2026]]
+- [[ai-generated-interactive-fiction-education-2026]]
 
 - [[ai-in-the-wild-college]]
 - [[genai-availability-grades-satisfaction]]

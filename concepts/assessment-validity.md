@@ -39,6 +39,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[llm]]
 
 ## Connected Articles
+- [[competency-based-education-genai-production-2026]]
 
 - [[genai-performance-vs-learning]]
 - [[ai-scoring-language-bias-physics]]

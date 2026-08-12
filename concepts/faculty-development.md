@@ -35,6 +35,7 @@ Faculty development connects to [[teacher-ai-competency]] (the outcome), [[teach
 - [[professional-training]]
 
 ## Connected Articles
+- [[ai-acceptance-preservice-science-teachers-2026]]
 
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[teacher-ai-adoption-confidence]]

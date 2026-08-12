@@ -50,6 +50,8 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[critical-thinking]]
 - [[regulation]]
 ## Connected Articles
+- [[haiml-human-centered-ai-metacognitive-model-2026]]
+- [[metacognitively-discordant-completion-genai-2026]]
 
 - [[ai-fatigue-academic-contexts]]
 - [[ai-making-us-stupid]]

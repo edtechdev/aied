@@ -39,6 +39,9 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[over-reliance]]
 
 ## Connected Articles
+- [[genai-student-experiences-uk-he-survey-2026]]
+- [[metacognitively-discordant-completion-genai-2026]]
+- [[competency-based-education-genai-production-2026]]
 
 - [[ai-assessment-scale-reform]]
 - [[beyond-detection-authentic-assessment-ai-2025]]

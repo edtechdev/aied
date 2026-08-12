@@ -24,6 +24,7 @@ confidence: low
 - [[student-modeling]]
 
 ## Connected Articles
+- [[competency-based-education-genai-production-2026]]
 
 - [[llm-difficulty-calibration-programming-exams-2026]]
 - [[elementary-writing-genai-systematic-review-2026]]

@@ -40,6 +40,7 @@ Feedback loops connect to [[formative-assessment]] (the assessment philosophy th
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[ai-guided-learning-audiovideo-2026]]
 
 - [[sequenced-ai-feedback-learning]]
 - [[correct-answer-trap-ai-tutor]]
