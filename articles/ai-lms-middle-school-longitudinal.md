@@ -5,6 +5,7 @@ updated: 2026-06-10
 type: article
 tags: [k-12, adaptive-learning, personalized-learning, formative-assessment, intelligent-tutoring, edtech-platform, llm, higher-ed, generative-ai, student-experience]
 confidence: medium
+sources: []
 ---
 
 **Misan Paul Etchie, Taiwo Olutosin** — cs.CY, cs.AI, cs.HC

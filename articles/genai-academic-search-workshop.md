@@ -5,6 +5,7 @@ updated: 2026-06-10
 type: article
 tags: [generative-ai, llm, ai-literacy, policy-maker, higher-ed, student-experience, intelligent-tutoring, scaffolding, k-12, stem-education]
 confidence: medium
+sources: []
 ---
 
 **Yifan Liu, Jaime Arguello, Orland Hoeber, Chang Liu et al.** — cs.IR, cs.AI, cs.HC

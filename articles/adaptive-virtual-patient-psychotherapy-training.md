@@ -5,6 +5,7 @@ updated: 2026-06-10
 type: article
 tags: [professional-training, llm, generative-ai, intelligent-tutoring, student-experience, higher-ed, ai-literacy, scaffolding, k-12, stem-education]
 confidence: high
+sources: []
 ---
 
 **Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, Haiyi Zhu** — cs.CY, cs.HC

@@ -5,6 +5,7 @@ updated: 2026-06-10
 type: article
 tags: [intelligent-tutoring, student-experience, llm, higher-ed, scaffolding, generative-ai, ai-literacy, k-12, stem-education, learning-analytics]
 confidence: high
+sources: []
 ---
 
 **Jingzhe Lin, Hengbin Yu, Yongdan Zeng, Fangwei Zhong** — ICML 2026 — cs.MA, cs.CY
