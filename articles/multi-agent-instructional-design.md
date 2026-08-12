@@ -8,8 +8,6 @@ sources: ['raw/papers/2508.16659.md']
 confidence: high
 ---
 
-> **Wang et al. (2025)** address a critical problem: **60% of K-12 teachers** now use AI for teaching tasks, but most lack the expertise to prompt effectively for high-quality instructional materials.
-
 > Embedding the Knowledge–Learning–Instruction (KLI) framework into multi-agent systems to act as sophisticated instructional designers for K-12 educators.
 
 ## The Prompting Gap in K-12 Education
@@ -110,4 +108,4 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 - [[teachbench-llm-teaching-evaluation]]
 ## Citation
 
-John, A.W.J.X.R.H.X.S. (2026). [*Multi-Agent Systems for Instructional Design*](https://arxiv.org/abs/2508.16659)
+Wang, J., Xiao, R., Hou, X., & Stamper, J. (2025). [*Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design*](https://arxiv.org/abs/2508.16659). arXiv:2508.16659.
