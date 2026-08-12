@@ -6,32 +6,72 @@ AI in Education — research, products, policies, and pedagogical debates around
 ## Conventions
 - File names: lowercase, hyphens, no spaces (e.g., `adaptive-learning-systems.md`)
 - Every wiki page starts with YAML frontmatter (see below)
-- Use `wikilinks` to link between pages (minimum 2 outbound links per page)
+- Use `wikilinks` to link between pages (`[[page-slug]]` or `[[page-slug|display text]]`)
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md`
-- **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/articles/source-file.md]`
+- **Two page types:** `articles/<slug>.md` for individual papers, `concepts/<slug>.md` for broad topics that synthesize multiple papers. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper.
+- **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/papers/source-file.md]`
   at the end of paragraphs whose claims come from a specific source. This lets a reader trace each
   claim back without re-reading the whole raw file. Optional on single-source pages where the
   `sources:` frontmatter is enough.
 
 ## Frontmatter
+
+Only these fields are validated by the live schema (`src/content.config.ts`). Extra fields in
+frontmatter are ignored at build time, so keep to this list.
+
 ```yaml
 ---
 title: Page Title
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-type: entity | concept | comparison | query | summary
+type: article | concept
 tags: [from taxonomy below]
-sources: [raw/articles/source-name.md]
-# Optional quality signals:
+sources: [raw/papers/source-name.md]   # articles only
 confidence: high | medium | low        # how well-supported the claims are
-contested: true                        # set when the page has unresolved contradictions
-contradictions: [other-page-slug]      # pages this one conflicts with
 ---
 ```
 
-`confidence` and `contested` are optional but recommended for opinion-heavy or fast-moving topics. Lint surfaces `contested: true` and `confidence: low` pages for review so weak claims don't silently harden into accepted wiki fact.
+`confidence` is optional (defaults to `medium`) but recommended for opinion-heavy or fast-moving
+topics. A `confidence: low` page signals weak or partial support so weak claims don't silently
+harden into accepted wiki fact. There is **no** `contested` or `contradictions` field — the schema
+does not validate them, so do not add them to frontmatter. Record unresolved disagreements in the
+page body instead (see Update Policy below).
+
+### Article page body structure
+```
+> **Synthesis:** 2-4 sentence summary of what the paper does and finds
+
+## Key Findings
+- 3-5 distinct bullet points with the most important results
+
+## Connected Concepts
+- [[concept-slug]]  (3-6 genuinely related concepts)
+
+## Connected Articles
+- [[article-slug]]  (2-4 genuinely related articles)
+
+## Citation
+Author, A. (2026). [*Full Title*](https://doi.org/...). Journal.
+```
+Exactly one `## Citation` per article, as a single APA-style line (hyperlinked full title, first 6
+authors + ", et al." for longer lists, source suffix per the wiki's citation rules).
+
+### Concept page body structure
+```
+> **Synthesis:** definition + overview of the concept
+
+## Key research themes
+Theme descriptions with [[wikilinks]] to related articles
+
+## Connected Concepts
+- [[concept-slug]]
+
+## Connected Articles
+- [[article-slug]]
+```
+(No citation section — concepts synthesize multiple sources.)
 
 ### raw/ Frontmatter
 
@@ -40,12 +80,16 @@ Raw sources ALSO get a small frontmatter block so re-ingests can detect drift:
 ```yaml
 ---
 source_url: https://example.com/article   # original URL, if applicable
-ingested: YYYY-MM-DD
+ingested: YYYY-MM-DD                       # or ingested_date
 sha256: <hex digest of the raw content below the frontmatter>
 ---
 ```
 
-The `sha256:` lets a future re-ingest of the same URL skip processing when content is unchanged, and flag drift when it has changed. Compute over the body only (everything after the closing `---`), not the frontmatter itself.
+`raw/` is gitignored and never committed. Raw files may also carry an `authors:` list (used as the
+source of truth when a page's citation authors need verification). The `sha256:` lets a future
+re-ingest of the same URL skip processing when content is unchanged, and flag drift when it has
+changed. Compute over the body only (everything after the closing `---`), not the frontmatter
+itself.
 
 ## Tag Taxonomy
 
@@ -91,14 +135,7 @@ Rule: every tag on a page must appear in this taxonomy. If a new tag is needed, 
 - **Add to existing page** when a source mentions something already covered
 - **DON'T create a page** for passing mentions, minor details, or things outside the domain
 - **Split a page** when it exceeds ~200 lines — break into sub-topics with cross-links
-- **Archive a page** when its content is fully superseded — move to `_archive/`, remove from index
-
-## Entity Pages
-One page per notable entity. Include:
-- Overview / what it is
-- Key facts and dates
-- Relationships to other entities (wikilinks)
-- Source references
+- **Archive a page** when its content is fully superseded — remove it from `index.md` and the live site
 
 ## Concept Pages
 One page per concept or topic. Include:
@@ -107,23 +144,16 @@ One page per concept or topic. Include:
 - Open questions or debates
 - Related concepts (wikilinks)
 
-## Comparison Pages
-Side-by-side analyses. Include:
-- What is being compared and why
-- Dimensions of comparison (table format preferred)
-- Verdict or synthesis
-- Sources
-
 ## Update Policy
 When new information conflicts with existing content:
 1. Check the dates — newer sources generally supersede older ones
-2. If genuinely contradictory, note both positions with dates and sources
-3. Mark the contradiction in frontmatter: `contradictions: [page-name]`
+2. If genuinely contradictory, note both positions with dates and sources **in the page body**
+3. If the contradiction is significant, lower the page's `confidence` to `medium` or `low`
 4. Flag for user review in the lint report
 
 ## Journal (`journal.md`)
 - Reverse chronological index of all ingested articles/papers.
-- Automatically regenerated: sorted by `created` date in concept frontmatter, newest first.
-- Shows: confidence icon (●/◐/○), wikilink to concept page, source reference, full title, and tags.
+- Automatically regenerated: sorted by `created` date in article frontmatter, newest first.
+- Shows: confidence icon (●/◐/○), wikilink to article page, source reference, full title, and tags.
 - Excludes low-confidence stubs with no sources.
 - Regenerate after every ingestion batch to keep current.
