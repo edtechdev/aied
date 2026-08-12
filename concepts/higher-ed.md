@@ -43,6 +43,12 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[professional-training]]
 
 ## Connected Articles
+- [[genai-student-experiences-uk-he-survey-2026]]
+- [[ai-acceptance-preservice-science-teachers-2026]]
+- [[competency-based-education-genai-production-2026]]
+- [[ai-interior-design-malaysia-2026]]
+- [[critical-media-literacy-education-2026]]
+- [[ai-generated-interactive-fiction-education-2026]]
 
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
 - [[genai-policies-higher-ed-computing]] — Institutional vs course GenAI policy in computing

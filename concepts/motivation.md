@@ -36,6 +36,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[teacher-role]]
 - [[ai-education]]
 ## Connected Articles
+- [[genai-student-experiences-uk-he-survey-2026]]
 
 - [[ai-availability-student-motivation]]
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]

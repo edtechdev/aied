@@ -15,6 +15,7 @@ confidence: medium
 - [[student-modeling]]
 - [[ai-tutoring]]
 ## Connected Articles
+- [[multimodal-item-parameter-estimation-2026]]
 
 - [[huang-interpretable-knowledge-tracing-2026]]
 - [[llm-difficulty-calibration-programming-exams-2026]]

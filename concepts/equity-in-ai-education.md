@@ -48,6 +48,11 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[over-reliance]]
 - [[human-in-the-loop-ai]]
 ## Connected Articles
+- [[genai-student-experiences-uk-he-survey-2026]]
+- [[ai-acceptance-preservice-science-teachers-2026]]
+- [[competency-based-education-genai-production-2026]]
+- [[ai-interior-design-malaysia-2026]]
+- [[critical-media-literacy-education-2026]]
 
 - [[ai-education-global-capacity]]
 - [[ai-powered-materials-discovery-ai-literacy]]

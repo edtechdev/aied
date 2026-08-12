@@ -24,6 +24,7 @@ confidence: medium
 - [[metacognition]]
 - [[self-regulated-learning]]
 ## Connected Articles
+- [[haiml-human-centered-ai-metacognitive-model-2026]]
 
 - [[agent-voice-accents-k12-group-learning]]
 - [[chat-debugging-human-ai-collaboration-circuits]]

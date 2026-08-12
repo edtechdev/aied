@@ -40,6 +40,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[llm]]
 
 ## Connected Articles
+- [[ai-guided-learning-audiovideo-2026]]
 
 - [[at-risk-students-ml-prediction]]
 - [[engagement-intensity-learner-modeling]]

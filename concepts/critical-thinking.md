@@ -35,3 +35,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[regulation]]
 - [[generative-ai]]
 - [[higher-ed]]
+
+## Connected Articles
+
+- [[critical-media-literacy-education-2026]]

@@ -38,6 +38,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[over-reliance]]
 - [[llm]]
 ## Connected Articles
+- [[multimodal-item-parameter-estimation-2026]]
 
 - [[educlaw-bench-pedagogical-llm-agents-2026]]
 - [[huang-interpretable-knowledge-tracing-2026]]

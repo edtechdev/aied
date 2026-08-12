@@ -24,5 +24,6 @@ confidence: medium
 - [[educational-policy-ai]]
 - [[adaptive-learning]]
 ## Connected Articles
+- [[ai-generated-interactive-fiction-education-2026]]
 
 - [[zerkouk-comprehensive-review-its-2025]]

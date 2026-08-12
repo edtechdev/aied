@@ -12,5 +12,7 @@ confidence: medium
 ## Connected Concepts
 
 ## Connected Articles
+- [[competency-based-education-genai-production-2026]]
+- [[multimodal-item-parameter-estimation-2026]]
 
 - [[llm-difficulty-calibration-programming-exams-2026]]

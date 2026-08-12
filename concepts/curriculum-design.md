@@ -44,6 +44,9 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[prompt-engineering]]
 - [[collaborative-learning]]
 ## Connected Articles
+- [[ai-interior-design-malaysia-2026]]
+- [[critical-media-literacy-education-2026]]
+- [[ai-generated-interactive-fiction-education-2026]]
 
 - [[reshaping-cs-education-genai]]
 - [[ase-26-agentic-software-engineering-curriculum]]

@@ -24,6 +24,7 @@ confidence: medium
 - [[equity]]
 - [[language-learning]]
 ## Connected Articles
+- [[multimodal-item-parameter-estimation-2026]]
 
 - [[ai-scoring-language-bias-physics]]
 - [[genai-architecture-education]]

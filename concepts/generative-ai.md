@@ -42,6 +42,11 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[k-12]]
 
 ## Connected Articles
+- [[genai-student-experiences-uk-he-survey-2026]]
+- [[metacognitively-discordant-completion-genai-2026]]
+- [[competency-based-education-genai-production-2026]]
+- [[ai-interior-design-malaysia-2026]]
+- [[ai-generated-interactive-fiction-education-2026]]
 
 - [[genai-meta-analysis-programming-learning]]
 - [[ai-tutor-safety-harms]]
