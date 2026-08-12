@@ -154,7 +154,7 @@ The study demonstrates that [[prompt-engineering]] can be taught effectively to 
 
 ## Citation
 
-Module, S.T.A.A.L., Koedinger1, K.R., Mellon, C., Hua, N.T., Model, T.A.T.N.W.D.A.L., reserved, I.A.R., & education, W.A.C.H.P.F.K. (2026). [*Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module*](https://doi.org/10.1609/aaai.v40i28.36924)
+Xiao, R., Hou, X., Tseng, Y.-J., Nieu, H., Liao, G., Stamper, J., & Koedinger, K. R. (2026). [*Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module*](https://doi.org/10.1609/aaai.v40i28.36924). AAAI.
 
 ---
 
@@ -953,7 +953,7 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 
 ## Citation
 
-2026, S.A.R.J., education:, P.P.F.A.W.I., & LLMs, F.A.S.M.D.I.C.V.S. (2026). [*Agentic Workflows in Education*](https://arxiv.org/abs/2504.20082v2)
+Kamalov, F., Santandreu Calonge, D., Smail, L., Azizov, D., Thadani, D. R., Kwong, T., & Atif, A. (2026). [*Evolution of AI in Education: Agentic Workflows*](https://arxiv.org/abs/2504.20082v2). arXiv:2504.20082.
 
 ---
 
@@ -1933,7 +1933,7 @@ Recent work in Technology-Enhanced Learning and HumanComputer Interaction highli
 
 ## Citation
 
-Increases, W.A.A.F., System, H.I.A.I.T., Hladký, T.N.M., Rief[0009−0001−5787−3748], A.V., of, A.T.S.A.I.U.T.S.L.D., & adaptive, R.O.I.T.S.H.D.T. (2026). [*Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System*](https://arxiv.org/abs/2606.03822). particular, LLMs are prone to generating incorrect or misleading information, often referred to as hallucinations [4, 5]
+Nagashima, T., Hladký, M., & Rief, V. (2026). [*Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System*](https://arxiv.org/abs/2606.03822). arXiv:2606.03822.
 
 ---
 
@@ -2933,7 +2933,7 @@ Teacher ↔ AI System ↔ Student
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 
-Egara, A.M.T.S.C.N.M.M.F.O., (MDPI), J.J.O.I., Review, S., AI, M.T.S.O.M.A.L.B., Review, T.I.S.C.A.B., Tsakeni, M., Nwafor, S.C., & Mosia, M. (2026). [*AI Tools Scaffolding Metacognition in STEM*](https://mdpi-res.com/d_attachment/jintelligence/jintelligence-13-00148/article_deploy/jintelligence-13-00148.pdf?version=1763188408). Journal of Intelligence (MDPI) (MDPI)
+Tsakeni, M., Nwafor, S. C., Mosia, M., & Egara, F. O. (2025). [*Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric–Systematic Review Approach*](https://doi.org/10.3390/jintelligence13110148). *Journal of Intelligence*.
 
 ---
 
@@ -3149,7 +3149,7 @@ AICoFe represents a **human-centered AI** paradigm for education: AI augments ra
 - [[sequenced-ai-feedback-learning]]
 ## Citation
 
-Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). [*AI Peer Feedback Systems*](https://arxiv.org/abs/2605.04740)
+Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Feedback System for Higher Education*](https://arxiv.org/abs/2605.04740). arXiv:2605.04740.
 
 ---
 
@@ -3709,7 +3709,7 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - [[llm-fallacy-misattribution]]
 ## Citation
 
-acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). [*AI Tutor Safety and Pedagogical Harms*](https://arxiv.org/abs/2603.17373)
+Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Stoyanovich, J., & Pechenizkiy, M. (2026). [*SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems*](https://arxiv.org/abs/2603.17373). arXiv:2603.17373.
 
 ---
 
@@ -4362,7 +4362,7 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 
 ## Citation
 
-Education, H., Du4, Y.Z.D.B.Z., 2025, R.D.A.N., Zhan, Y., Boud, D., Du, Z., & The, D.O.C.A.I.A.A.R.C. (2026). [*Authentic Assessment*](https://doi.org/10.1007/s10734-025-01588-9)
+Zhan, Y., Boud, D., & Du, Z. (2025). [*Designing for authentic assessment: a scoping review*](https://doi.org/10.1007/s10734-025-01588-9). *Higher Education*.
 
 ---
 
@@ -4431,7 +4431,7 @@ The framework becomes a **review instrument for assessment briefs**: teams exami
 
 ## Citation
 
-corpus, S.A.N.I.S.O.I.R.A.C. (2026). [*From authentic products to authenticated processes: authentic assessment in AI-rich higher education*](https://doi.org/10.1080/02602938.2026.2695376)
+Tsiligkiris, V. (2026). [*From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich higher education*](https://doi.org/10.1080/02602938.2026.2695376). *Assessment & Evaluation in Higher Education*.
 
 ---
 
@@ -4570,7 +4570,7 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 
-Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). [*Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200)
+Cong, L., Hahn, S., Gombert, S., Camus, L., Drachsler, H., & Kroehne, U. (2026). [*Confidence Estimation in Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200). arXiv:2605.00200.
 
 ---
 
@@ -4659,7 +4659,7 @@ For [[higher-ed]] institutions facing growing assessment loads, AICoFE models a 
 
 ## Citation
 
-Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). [*AICoFE: AI-Powered Feedback System*](https://arxiv.org/abs/2605.04740)
+Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Feedback System for Higher Education*](https://arxiv.org/abs/2605.04740). arXiv:2605.04740.
 
 ---
 
@@ -6352,7 +6352,7 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 
-Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |, S.D.M., & |, I.F.T.T.C.F. (2026). [*Collaborative AI Tutoring*](https://arxiv.org/abs/2605.02703)
+Golrang, A., Sharma, K., Dehaen, S., & Viberg, O. (2026). [*ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming*](https://arxiv.org/abs/2605.02703). arXiv:2605.02703.
 
 ---
 
@@ -6649,7 +6649,7 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 
 ## Citation
 
-Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). [*Confidence-Aware Automatic Short Answer Grading*](https://arxiv.org/abs/2605.00200)
+Cong, L., Hahn, S., Gombert, S., Camus, L., Drachsler, H., & Kroehne, U. (2026). [*Confidence Estimation in Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200). arXiv:2605.00200.
 
 ---
 
@@ -8018,7 +8018,7 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 - [[llm-fallacy-misattribution]]
 ## Citation
 
-(Stanford, A.M.H.Y.K., 2026, S.M.R.A., & improvement, P.W.E.B.M.E.S.N. (2026). [*Educational LLM Alignment*](https://arxiv.org/abs/2603.00883)
+Hardy, M., & Kim, Y. (2026). [*Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact*](https://arxiv.org/abs/2603.00883). arXiv:2603.00883.
 
 ---
 
@@ -9058,7 +9058,7 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 
 ## Citation
 
-education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). [*Principled AI Education Framework*](https://arxiv.org/abs/2510.01467)
+Finkelstein, N. (2025). [*A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies*](https://arxiv.org/abs/2510.01467). arXiv:2510.01467.
 
 ---
 
@@ -10844,7 +10844,7 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 
 ## Citation
 
-Viberg, A.A.G.K.S.S.D.O., students), S.D.W.E.W.P.D.C., ME)?, H.D.P.I.D.R.P.J., |, S.D.M., & |, I.F.T.T.C.F. (2026). [*ProPACT: Pair Programming with AI*](https://arxiv.org/abs/2605.02703)
+Golrang, A., Sharma, K., Dehaen, S., & Viberg, O. (2026). [*ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming*](https://arxiv.org/abs/2605.02703). arXiv:2605.02703.
 
 ---
 
@@ -11108,7 +11108,7 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 
 ## Citation
 
-acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). [*SafeTutors: Pedagogical Safety in AI Tutoring*](https://arxiv.org/abs/2603.17373)
+Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Stoyanovich, J., & Pechenizkiy, M. (2026). [*SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems*](https://arxiv.org/abs/2603.17373). arXiv:2603.17373.
 
 ---
 
@@ -11843,7 +11843,7 @@ The framework was piloted through a faculty workshop series in a university phys
 - [[ai-education-global-capacity]]
 ## Citation
 
-(, A.D.P.N.D.F., (cs.CY), S.P.E.C.A.S., 4.0, L.C.B., approaches, D.A.T.A.D.M.E.C.I., research, I.A.R.B.W.E.T.A.F.V., transferred, I.A.T.A.S.M.C.B.C.A., months, A.R.A.C.A.W.M.C.S.W., & interventions, I.A.R.T.S.B. (2026). [*A Framework for Institutional Change in the Age of AI*](https://arxiv.org/abs/2605.12757)
+Perl-Nussbaum, D., & Finkelstein, N. D. (2026). [*A Framework for Institutional Change in the Age of AI*](https://arxiv.org/abs/2605.12757). arXiv:2605.12757.
 
 ---
 
@@ -12165,7 +12165,7 @@ For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a me
 
 ## Citation
 
-|, C.D., |, S.F.A., |, C.M., |, P.M.L.F.D.P., |, T.R.R., reasoning, A.C.I.F.M.R., alignment, A.E.I.P.D.O., & bias, I.M.P.M.L. (2026). [*ISD Agent Benchmark*](https://arxiv.org/abs/2602.10620)
+Jeon, Y., Kim, S., Son, H., Lee, S., Jeong, Y., & Lee, U. (2026). [*ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents*](https://arxiv.org/abs/2602.10620). arXiv:2602.10620.
 
 ---
 
@@ -12292,7 +12292,7 @@ The long-term institutional risk is credential inflation: if degrees and certifi
 
 ## Citation
 
-Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). [*LLM Fallacy Misattribution in Education*](https://arxiv.org/abs/2604.14807)
+Kim, H., Yu, H., & Yi, H. (2026). [*The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*](https://arxiv.org/abs/2604.14807). arXiv:2604.14807.
 
 ---
 
@@ -13979,7 +13979,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 
 ## Citation
 
-Inc, A.H.K.H.Y.H.Y.D., |, C.F.L.F.F., judgments, I.R.R.C.B.T.F.I., & |, D.D. (2026). [*The LLM Fallacy and Misattribution of Competence*](https://arxiv.org/abs/2604.14807)
+Kim, H., Yu, H., & Yi, H. (2026). [*The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*](https://arxiv.org/abs/2604.14807). arXiv:2604.14807.
 
 ---
 
@@ -14452,7 +14452,7 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 
-Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). [*LLM Student Modeling and Long-Term Memory Architecture*](https://arxiv.org/abs/2604.13074)
+Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074). arXiv:2604.13074.
 
 ---
 
@@ -15313,7 +15313,7 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 
 ## Citation
 
-Teaching, F.M.T.M.R.O., Agents, A.L.T.L., Sun2∗, M.L.J.L.Z.L.H.L.M., Tsinghua, D.O.C.S.A.T., Inc, M., Course), I.I.T.C.W.P.M.A., & Tsinghua, P.E.A. (2026). [*From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512)
+Yu, J., Zhang, Z., Zhang-li, D., Tu, S., Hao, Z., Li, R., ... Liu, Z., Liu, H., & Sun, M. (2024). [*From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512). arXiv:2409.03512.
 
 ---
 
@@ -16183,7 +16183,7 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 - [[llm-student-modeling-memory]]
 ## Citation
 
-accuracy?, H.D.R.C.W.C.D.I.P., predictions?, H.D.R.P.I.E.O.S.K., & 2021, O.L.E.M.C.S. (2026). [*Neural-Symbolic Knowledge Tracing*](https://arxiv.org/abs/2604.08263)
+Hooshyar, D., Šír, G., Yang, Y., Kärkkäinen, T., Hämäläinen, R., Krivich, E., Cukurova, M., Gašević, D., & Azevedo, R. (2026). [*Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling*](https://arxiv.org/abs/2604.08263). arXiv:2604.08263.
 
 ---
 
@@ -16297,7 +16297,7 @@ However, educators and designers should be cautious about the [[correct-answer-t
 
 ## Citation
 
-Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). [*PersonaVLM: Long-Term Personalization for AI Tutors*](https://arxiv.org/abs/2604.13074)
+Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074). arXiv:2604.13074.
 
 ---
 
@@ -17048,7 +17048,7 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 
 ## Citation
 
-education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). [*Principled AI in Education*](https://arxiv.org/abs/2510.01467)
+Finkelstein, N. (2025). [*A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies*](https://arxiv.org/abs/2510.01467). arXiv:2510.01467.
 
 ---
 
@@ -18620,7 +18620,7 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 
 ## Citation
 
-Normal, A.F.E.C., |, M.S.N., |, S.I.R.M., parameters), D.Q.B., SOTA), A.O.C., & checkpoint, S.D.R.O.S. (2026). [*EduQwen: Pedagogical RL*](https://arxiv.org/abs/2604.06385)
+Singh, N. P., Wang, X., Garikipati, A., Ciobanu, M., Mao, Q., & Das, R. (2026). [*Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via RL and SFT*](https://arxiv.org/abs/2604.06385). arXiv:2604.06385.
 
 ---
 
@@ -20831,7 +20831,7 @@ TEI demonstrates that simple lexical and structural signals can effectively stee
 - [[stanford-evidence-base-ai-k12-2026]]
 ## Citation
 
-Education, S.S.S.I.A.H.F., |, C.F.R.C.I.P., & |, P.A.O.R. (2026). [*Tutoring-Specific vs. General-Purpose AI in Education*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf)
+Stanford SCALE Initiative. (2026). [*The Evidence Base on AI in K-12: A 2026 Review*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf).
 
 ---
 

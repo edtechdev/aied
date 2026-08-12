@@ -78,4 +78,4 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 
 ## Citation
 
-education:, A.P.W.T.T.A.A.I. & Finkelstein, N. (2026). [*Principled AI Education Framework*](https://arxiv.org/abs/2510.01467)
+Finkelstein, N. (2025). [*A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies*](https://arxiv.org/abs/2510.01467). arXiv:2510.01467.

@@ -71,4 +71,4 @@ The framework becomes a **review instrument for assessment briefs**: teams exami
 
 ## Citation
 
-corpus, S.A.N.I.S.O.I.R.A.C. (2026). [*From authentic products to authenticated processes: authentic assessment in AI-rich higher education*](https://doi.org/10.1080/02602938.2026.2695376)
+Tsiligkiris, V. (2026). [*From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich higher education*](https://doi.org/10.1080/02602938.2026.2695376). *Assessment & Evaluation in Higher Education*.

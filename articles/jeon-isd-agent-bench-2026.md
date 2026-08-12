@@ -69,4 +69,4 @@ For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a me
 
 ## Citation
 
-|, C.D., |, S.F.A., |, C.M., |, P.M.L.F.D.P., |, T.R.R., reasoning, A.C.I.F.M.R., alignment, A.E.I.P.D.O., & bias, I.M.P.M.L. (2026). [*ISD Agent Benchmark*](https://arxiv.org/abs/2602.10620)
+Jeon, Y., Kim, S., Son, H., Lee, S., Jeong, Y., & Lee, U. (2026). [*ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents*](https://arxiv.org/abs/2602.10620). arXiv:2602.10620.

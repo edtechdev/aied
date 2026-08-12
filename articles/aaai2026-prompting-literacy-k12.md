@@ -109,4 +109,4 @@ The study demonstrates that [[prompt-engineering]] can be taught effectively to 
 
 ## Citation
 
-Module, S.T.A.A.L., Koedinger1, K.R., Mellon, C., Hua, N.T., Model, T.A.T.N.W.D.A.L., reserved, I.A.R., & education, W.A.C.H.P.F.K. (2026). [*Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module*](https://doi.org/10.1609/aaai.v40i28.36924)
+Xiao, R., Hou, X., Tseng, Y.-J., Nieu, H., Liao, G., Stamper, J., & Koedinger, K. R. (2026). [*Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module*](https://doi.org/10.1609/aaai.v40i28.36924). AAAI.

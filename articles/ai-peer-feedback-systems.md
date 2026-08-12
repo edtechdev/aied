@@ -86,4 +86,4 @@ AICoFe represents a **human-centered AI** paradigm for education: AI augments ra
 - [[sequenced-ai-feedback-learning]]
 ## Citation
 
-Summer, V.A.A.L.S.A., |, M.P., |, M.R.L.A.D.F., |, M.H.D.I.M., |, G.M.M.P.F.P.F.S., |, M.V.C.O.S.P., 3.1, M.U.G.G.F.L., & providers, P.A.D.A.B.T.T.C.L. (2026). [*AI Peer Feedback Systems*](https://arxiv.org/abs/2605.04740)
+Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Feedback System for Higher Education*](https://arxiv.org/abs/2605.04740). arXiv:2605.04740.

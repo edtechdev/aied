@@ -71,4 +71,4 @@ However, educators and designers should be cautious about the [[correct-answer-t
 
 ## Citation
 
-Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). [*PersonaVLM: Long-Term Personalization for AI Tutors*](https://arxiv.org/abs/2604.13074)
+Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074). arXiv:2604.13074.
