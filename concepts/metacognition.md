@@ -67,6 +67,8 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[agentic-ai]]
 - [[human-in-the-loop-ai]]
 ## Connected Articles
+- [[haiml-human-centered-ai-metacognitive-model-2026]]
+- [[metacognitively-discordant-completion-genai-2026]]
 
 - [[ai-adoption-training-public-sector]]
 - [[stanford-evidence-base-ai-k12-2026]]

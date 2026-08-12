@@ -41,6 +41,9 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[ai-education]]
 - [[ai-tutoring]]
 ## Connected Articles
+- [[haiml-human-centered-ai-metacognitive-model-2026]]
+- [[ai-guided-learning-audiovideo-2026]]
+- [[multimodal-item-parameter-estimation-2026]]
 
 - [[at-risk-students-ml-prediction]]
 - [[cold-start-knowledge-tracing-safeinsights]]

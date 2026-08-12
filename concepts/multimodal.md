@@ -26,3 +26,8 @@ Research themes include:
 - [[knowledge-tracing]]
 - [[adaptive-learning]]
 - [[hallucination-risk]]
+
+## Connected Articles
+
+- [[multimodal-item-parameter-estimation-2026]]
+- [[ai-guided-learning-audiovideo-2026]]

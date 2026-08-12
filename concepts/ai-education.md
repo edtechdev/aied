@@ -46,6 +46,8 @@ AI education connects to every concept in the wiki — it is the field that all 
 - [[learning-analytics]]
 
 ## Connected Articles
+- [[metacognitively-discordant-completion-genai-2026]]
+- [[ai-interior-design-malaysia-2026]]
 
 - [[raza-farooq-aied-review-2020-2025]]
 - [[genai-policies-higher-ed-computing]] — Comparative institutional/course GenAI policy in computing

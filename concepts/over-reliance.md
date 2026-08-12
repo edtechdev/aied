@@ -49,6 +49,8 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[prompt-engineering]]
 
 ## Connected Articles
+- [[haiml-human-centered-ai-metacognitive-model-2026]]
+- [[metacognitively-discordant-completion-genai-2026]]
 
 - [[ai-making-us-stupid]] — Is AI Making Us Stupid?
 - [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission: Agency and Motivation

@@ -1987,3 +1987,10 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Source: arXiv cs+education (rate-limited, used listing pages), physics.ed-ph (3 already ingested), EdArXiv OSF (2 queries)
 - Ingested 9 new articles: LLM difficulty calibration, learnity graphs, VeriForge, Spritz mediation, PCHL-HE framework, elementary writing GenAI review, GenAI PD AI-PCK, UK HE AI policy, GenAI HE systematic review
 - Backlinks added to 43 concepts; build OK (1562 pages); pushed b085b66b
+
+## [2026-08-12] meta | scan-complete
+
+- Source: arXiv cs+education (API rate-limited/503; used listing pages cs.CY/HC/CL/AI + physics.ed-ph), EdArXiv OSF (2 queries, API worked)
+- Ingested 10 new articles: AI-generated interactive fiction, critical media literacy, multimodal item parameter estimation, AI-guided audio/video learning, AI in interior design (Malaysia), CBE production attribute after GenAI, metacognitively discordant completion, AI acceptance pre-service science teachers, UK HE GenAI student survey, HAIML metacognitive model
+- physics.ed-ph AI papers (Socratic tutor, CT detection, multi-agent classroom) already ingested; non-AI physics papers skipped
+- Backlinks added to 78 concept pages; build pending; pushed after build

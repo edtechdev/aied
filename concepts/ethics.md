@@ -39,6 +39,9 @@ Ethics connects to [[equity]], [[privacy]], [[bias-mitigation]], [[regulation]],
 - [[teacher-role]]
 
 ## Connected Articles
+- [[haiml-human-centered-ai-metacognitive-model-2026]]
+- [[genai-student-experiences-uk-he-survey-2026]]
+- [[critical-media-literacy-education-2026]]
 
 - [[ai-ethics-education-public-discourse]]
 - [[ethical-ai-higher-ed-game-theory]]

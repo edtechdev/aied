@@ -39,6 +39,9 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[professional-training]]
 
 ## Connected Articles
+- [[ai-acceptance-preservice-science-teachers-2026]]
+- [[ai-interior-design-malaysia-2026]]
+- [[critical-media-literacy-education-2026]]
 
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]

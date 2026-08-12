@@ -15,3 +15,6 @@ Research themes include:
 
 ## Connected Concepts
 
+## Connected Articles
+
+- [[ai-generated-interactive-fiction-education-2026]]

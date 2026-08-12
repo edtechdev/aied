@@ -38,6 +38,10 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 - [[institutional-change-framework-ai]]
 
 ## Connected Articles
+- [[genai-student-experiences-uk-he-survey-2026]]
+- [[ai-acceptance-preservice-science-teachers-2026]]
+- [[ai-interior-design-malaysia-2026]]
+- [[critical-media-literacy-education-2026]]
 
 - [[genai-policies-higher-ed-computing]]
 - [[institutional-change-framework-ai]]
