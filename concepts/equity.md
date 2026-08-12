@@ -50,4 +50,5 @@ Equity connects to [[bias-mitigation]], [[special-education]], [[accessibility|a
 - [[neurodivergent-computing-students]]
 - [[elementary-writing-genai-systematic-review-2026]]
 - [[ai-uk-higher-education-policy-2026]]
+- [[genai-policies-higher-ed-computing]] — Who sets GenAI-use rules and how consistently across courses
 - [[genai-higher-education-systematic-review-2026]]

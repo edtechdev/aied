@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 528 articles and 101 concepts.
+> Complete text of 537 articles and 101 concepts.
 
 # Articles
 
@@ -3710,6 +3710,52 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 ## Citation
 
 acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). [*AI Tutor Safety and Pedagogical Harms*](https://arxiv.org/abs/2603.17373)
+
+---
+
+## [Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making](https://edtechdev.github.io/aied/articles/ai-uk-higher-education-policy-2026/)
+
+> **Synthesis:** This systematic literature review examines how AI is positioned in UK higher-education policy and its influence on institutional pedagogical decision making, finding that AI integration is accelerating but fragmented, with a gap between policy ambitions and institutional capacity and disparities between teaching-led and research-intensive universities.
+
+## Key Findings
+
+1. **Fragmented and accelerating adoption.** AI integration in UK higher education is accelerating but remains fragmented, revealing a gap between policy ambitions and institutional capacity.
+
+2. **Institutional disparities.** Differences between teaching-led and research-intensive universities highlight disparities in infrastructure and staff preparedness.
+
+3. **Policy concerns cluster around equity and efficacy.** Key concerns include ethics, equity exclusion, and learner efficacy, compounded by limited theoretical coherence and participatory governance.
+
+4. **A layered framework proposed.** The review proposes a layered, inclusive framework linking national policy, institutional infrastructure, and governance.
+
+## Implications
+
+This review speaks directly to [[educational-policy-ai]] and [[ai-governance-education]], showing how national policy intent can outpace institutional capacity in [[higher-ed]]. The documented gap between teaching-led and research-intensive institutions underscores [[equity]] concerns and the risk that AI benefits accrue unevenly across the sector.
+
+For administrators and [[policy]]-makers, the findings argue for participatory governance and infrastructure investment rather than purely aspirational strategy documents. The proposed layered framework connecting national policy, institutional infrastructure, and governance offers a concrete model for closing the ambition-capacity gap.
+
+The review also connects to broader debates about [[ethics]] and learner efficacy in AI adoption, and to [[institutional-change]] and technology-adoption dynamics in universities, resonating with the concept of [[dot-framework-survey]] on digital transformation readiness.
+
+## Connected Concepts
+
+- [[administrator]]
+- [[ai-governance-education]]
+- [[educational-policy-ai]]
+- [[equity]]
+- [[ethics]]
+- [[higher-ed]]
+- [[institutional-change]]
+- [[policy]]
+
+## Connected Articles
+
+- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs framework
+- [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework
+- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance science teachers
+
+## Citation
+
+(EdArXiv preprint, 2026). [*Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making*](https://osf.io/6kjmy). EdArXiv.
 
 ---
 
@@ -8246,6 +8292,53 @@ Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). [Bridging Artificial Inte
 
 ---
 
+## [Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review](https://edtechdev.github.io/aied/articles/elementary-writing-genai-systematic-review-2026/)
+
+> **Synthesis:** This systematic literature review synthesizes 8 peer-reviewed studies (2019–2025) on AI literacy for elementary writing instruction, finding that AI integration efficiently supports writing practices and fosters creativity through multimodal application while creating nuanced approaches to writing assessment — alongside unresolved limitations for future research.
+
+## Key Findings
+
+1. **Eight studies reviewed.** The review synthesizes 8 peer-reviewed studies published between 2019 and 2025 focusing on AI literacy for writing instruction at the elementary level.
+
+2. **AI supports writing practices efficiently.** Findings report that AI integration has efficient results in support of writing practices in elementary classrooms.
+
+3. **Creativity through multimodality.** AI fosters creativity through multimodal application, enabling new forms of expression in young learners' writing.
+
+4. **Nuanced assessment approaches.** AI creates nuanced approaches to writing assessment, though the review notes certain limitations remain for future research.
+
+## Implications
+
+This review contributes to the growing literature on [[generative-ai]] and [[ai-literacy]] in [[k-12]] settings, focusing specifically on elementary writing. Its finding that multimodal AI tools can foster [[creativity]] in young writers counters the common framing of AI purely as an automation threat, while the attention to [[assessment]] reflects ongoing debates about how to evaluate writing in AI-integrated classrooms.
+
+For [[writing-education]], the small evidence base (8 studies) underscores how nascent this area is and the need for more empirical work, particularly around equitable access and the developmental appropriateness of AI tools for early writers. The review connects to [[llm-pedagogy]] discussions about scaffolding young students' interactions with [[generative-ai]] and to broader questions of [[educational-policy-ai]] for elementary classrooms.
+
+The integration of AI into elementary writing also raises [[equity]] considerations, echoing concerns about the [[digital-divide]] and differential access across schools.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[assessment]]
+- [[creativity]]
+- [[educational-policy-ai]]
+- [[equity]]
+- [[generative-ai]]
+- [[k-12]]
+- [[llm-pedagogy]]
+- [[writing-education]]
+
+## Connected Articles
+
+- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
+- [[llm-children-reading-story-generation]] — LLM children's story generation
+- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Creative writing with robots
+- [[mindcopilot-llm-co-writing]] — MindCopilot co-writing
+
+## Citation
+
+(EdArXiv preprint, 2026). [*Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review*](https://osf.io/ztr2x). EdArXiv.
+
+---
+
 ## [ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education](https://edtechdev.github.io/aied/articles/elevate-genai-virtual-tutors/)
 
 > **Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni** — submitted 17 Jun 2026
@@ -9569,6 +9662,58 @@ Ateş, H. (2026). Human-centered GenAI feedback design in higher education: A mu
 
 ---
 
+## [Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)](https://edtechdev.github.io/aied/articles/genai-higher-education-systematic-review-2026/)
+
+> **Synthesis:** This PRISMA-guided systematic review synthesizes 125 peer-reviewed studies (2022–2025) on generative AI in higher education, documenting exponential adoption (92% student usage by 2025), four primary application domains, and persistent challenges around academic integrity, bias, hallucination, faculty readiness, and digital equity.
+
+## Key Findings
+
+1. **125 studies, PRISMA 2020.** The review synthesizes empirical evidence across 125 peer-reviewed studies following PRISMA 2020 guidelines, covering Scopus, Web of Science, ERIC, IEEE, and Google Scholar.
+
+2. **Exponential GenAI adoption.** Student GenAI usage reached 92% by 2025, reflecting exponential growth since ChatGPT's release in November 2022.
+
+3. **Four primary application domains.** Applications cluster into automated feedback and assessment, personalised learning support, critical skill development, and research assistance.
+
+4. **Balanced benefits and challenges.** Benefits include enhanced learning efficiency, accessibility, and personalisation; challenges include academic integrity, algorithmic bias, hallucination rates, faculty readiness gaps, and digital equity concerns.
+
+## Implications
+
+This broad systematic review provides a comprehensive landscape of [[generative-ai]] in [[higher-ed]], useful as a synthesis anchor for the wiki's coverage of GenAI applications. The 92% student-usage figure and the four-domain taxonomy ([[automated-assessment]], [[personalized-learning]], critical skills, research assistance) offer a useful organizing structure.
+
+The persistent challenges — [[academic-integrity]], [[bias-mitigation]]/algorithmic bias, [[hallucination-risk]], faculty readiness, and [[digital-divide]]/[[equity]] — echo themes across the wiki and connect to [[ai-literacy]] and [[faculty-development]] needs. The review's identification of pedagogical innovations (new assessment designs, AI literacy curricula, human-AI collaborative models) aligns with [[human-ai-collaboration]] and [[human-in-the-loop-ai]] threads.
+
+For policy and practice, the review underscores that the faculty readiness gap and equity concerns remain the binding constraints on responsible GenAI integration, connecting to [[educational-policy-ai]] and [[ai-governance-education]].
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[ai-governance-education]]
+- [[ai-literacy]]
+- [[automated-assessment]]
+- [[bias-mitigation]]
+- [[educational-policy-ai]]
+- [[equity]]
+- [[faculty-development]]
+- [[generative-ai]]
+- [[hallucination-risk]]
+- [[higher-ed]]
+- [[human-ai-collaboration]]
+- [[personalized-learning]]
+
+## Connected Articles
+
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy
+- [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs framework
+- [[elementary-writing-genai-systematic-review-2026]] — Elementary writing GenAI review
+- [[amponsah-ai-acceptance-science-teachers-2026]] — AI acceptance science teachers
+
+## Citation
+
+(EdArXiv preprint, 2026). [*Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)*](https://osf.io/ky4uj). EdArXiv.
+
+---
+
 ## [The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences](https://edtechdev.github.io/aied/articles/genai-impact-chinese-students-hss/)
 
 > **Lei Fan and Fangxue Liu (2026)** — Xi'an Jiaotong-Liverpool University, University of Liverpool.
@@ -9886,6 +10031,52 @@ Yubo Li, Rema Padman, Ramayya Krishnan (2026). [Auditing Institutional Heterogen
 
 ---
 
+## [Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers](https://edtechdev.github.io/aied/articles/genai-pd-ai-pck-learning-gain-2026/)
+
+> **Synthesis:** This quasi-experimental study of an intensive 8-hour generative-AI professional development program with 163 teachers and pre-service teachers found significant gains across all five AI-PCK components (overall *d* = 2.36), with pre-service teachers showing statistically higher learning gains than experienced teachers (*p* = 0.033).
+
+## Key Findings
+
+1. **Intensive 8-hour PD, 163 participants.** A quasi-experimental pretest-posttest design assessed an intensive 8-hour GenAI professional development program on five core AI-PCK components.
+
+2. **Large significant effects.** The PD program was significantly effective across all five AI-PCK components (*p* < 0.001), with the highest effect size in the Rubric Assessment component (*d* = 2.19) and an overall effect size of *d* = 2.36.
+
+3. **Pre-service teachers gained more.** Pre-service teachers demonstrated a statistically higher overall PCK learning gain than experienced teachers (*p* = 0.033).
+
+4. **Design implications.** The intensive model is highly efficacious for rapid AI-PCK enhancement, but the differential learning gain highlights the need to integrate AI-PCK components into core teacher-training curricula and to design specialized support.
+
+## Implications
+
+This study provides strong evidence that intensive, focused professional development can rapidly build [[teacher-ai-competency]] in [[generative-ai]]-related pedagogical content knowledge. The very large effect sizes (*d* = 2.36 overall) support the [[efficacy-study]] case for structured, short-format training programs in a fast-moving area where teachers urgently need updated skills.
+
+The differential gain favoring [[teacher-training]] candidates suggests that embedding AI-PCK into pre-service curricula may be particularly efficient, while experienced teachers may need tailored, specialized support rather than one-size-fits-all PD. This connects directly to [[teacher-professional-development]], [[faculty-development]], and [[training-methodology]] debates about how to upskill educators for AI-integrated teaching.
+
+For [[professional-training]] and institutional [[educational-policy-ai]], the findings argue for systematic rather than ad-hoc AI teacher preparation, and for attention to differentiated learning needs across the teacher-career spectrum.
+
+## Connected Concepts
+
+- [[efficacy-study]]
+- [[faculty-development]]
+- [[generative-ai]]
+- [[professional-training]]
+- [[teacher-ai-competency]]
+- [[teacher-professional-development]]
+- [[teacher-training]]
+- [[training-methodology]]
+
+## Connected Articles
+
+- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK teacher multi-agent workflow
+- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy
+- [[talebzadeh-ai-green-education-2026]] — AI in green education
+
+## Citation
+
+(EdArXiv preprint, 2026). [*Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers*](https://osf.io/njztk). EdArXiv.
+
+---
+
 ## [Distinguishing performance gains from learning when using generative AI](https://edtechdev.github.io/aied/articles/genai-performance-vs-learning/)
 
 > **Lixiang Yan, Samuel Greiff, Jason M. Lodge, Dragan Gašević (2026)** — *Nature Reviews Psychology*, 4(7), 435-436.
@@ -9927,17 +10118,38 @@ Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). Distinguishing perfor
 
 ## [A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education](https://edtechdev.github.io/aied/articles/genai-policies-higher-ed-computing/)
 
-> **Amrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, et al. (2026)** - George Mason University; Montgomery College. arXiv preprint.
-
-**Amrita Ganguly, Aditya Johri, Nora McDonald, Areej Ali, et al. (2026)** - George Mason University; Montgomery College. arXiv preprint.
+> **Synthesis:** A comparative content analysis of institutional GenAI policies and computing-course syllabi in U.S. research-intensive universities, revealing a gap between broadly pro-use institutional guidance and guarded, often prohibition-heavy classroom-level uptake.
 
 ## Key Findings
 
-- Compares institutional-level GenAI policy documents against course-level instructor policies, exposing a gap between top-down guidance and classroom uptake in [[higher-ed]].
-- Centers computing education (CS courses), where GenAI adoption is especially high and the implications for student learning are pronounced - links to [[ai-education]].
-- Shows instructors are often forced to improvise local policies, raising coordination questions for [[ai-governance-education]].
-- Connects to broader [[educational-policy-ai]] and [[equity]] debates about who sets AI-use rules and how consistently they apply across courses.
-- Informs [[teacher-ai-adoption-confidence]] by showing uneven instructor readiness to translate policy into everyday practice.
+- **Data set:** secondary analysis of **116 institutional GenAI policies** (from 131 R1 U.S. universities screened) and **98 computer-science course syllabi** (from 54 R1 institutions), content-coded and then mapped across levels.
+- **Institutional guidance is broadly pro-use:** a majority of universities (N = 73, 63%) encourage GenAI use, with 41% (N = 48) offering detailed classroom guidance, while just over a quarter (N = 31, 27%) discourage it. More than half (N = 64, 55%) stipulate syllabus statements using a range-of-use framing ("embrace," "limit," "prohibit").
+- **Course-level uptake is far more guarded:** almost all syllabi (92%, N = 90) give explicit use guidelines, but **half (50%, N = 49) outright prohibit GenAI use**, 41% (N = 40) permit only partial use for specified activities, and few communicate encouragement (7%, N = 7).
+- **The top-down vs. bottom-up gap:** institutions are comparatively supportive of GenAI while individual computing instructors often restrict or prohibit it, leaving instructors to improvise local policies that may not align with institutional guidance — the central coordination problem for [[ai-governance-education]].
+- **Shared emphasis on transparency:** both levels stress citation and acknowledgement — 83% (N = 81) of syllabi require citing GenAI use (over two-thirds treat uncredited use as an honor-code or academic-integrity violation), and 38% (N = 44) of institutions provide formal citation guidance, most often referencing APA.
+- **Institutional guidance is uniquely curricular and ethical:** institutions, not syllabi, emphasize curriculum design (50% ask instructors to reflect on teaching and assessment; 29% encourage GenAI for lesson planning) and ethics, including Diversity/Equity/Inclusion (52%), privacy (57%), and classroom ethics discussions (53%).
+
+## Study Design & Method
+
+The study performs a **secondary/document analysis** comparing institutional policy documents against computing-course syllabi. Institutional guidance was collected from 116 R1 universities (Carnegie-classified research-intensive, collected through late 2023); course guidance came from 98 computer-science syllabi at 54 R1 universities (collected March–May 2024), chosen because CS is an early and heavy adopter of GenAI. Two researchers coded the institutional corpus with a 13-code codebook (inter-rater reliability established on a random sample); three researchers coded the syllabi with a 16-code codebook. A three-step comparative analysis then examined coverage comprehensiveness, mapped institutional codes against course-level codes to identify similarities and gaps, and presented practice examples for key codes.
+
+## Key Results
+
+- **Alignment is partial.** Among 131 R1 institutions, 116 had institutional guidelines, 54 had course-level guidelines, and only 47 had both — meaning a large share of institutions with top-level policy had no detectable course-level translation in computing syllabi.
+- **Use-permission asymmetry.** Institutions mostly *allow and encourage* (63%) while courses mostly *restrict or prohibit* (50% outright, plus 41% partial-use); few syllabi explicitly encourage use (7%).
+- **Range-of-consent categories** recur at both levels (e.g., "embrace/limit/prohibit" vs. "no use/some use/unlimited use/required use"), but the *direction* differs — institutional guidance skews permissive, course guidance skews restrictive.
+- **Anthropomorphism appears only at course level:** 39% (N = 38) of syllabi describe GenAI in human terms — as a "tutor," "coach," or "assistant" — reflecting faculty and student mental models of the tools.
+- **CS as the policy canary:** institutional guidance concentrates on STEM and especially computer science (48% of institutions mention CS), consistent with GenAI's strength in programming and its training on coding corpora (StackOverflow, GitHub, online repositories).
+
+## Implications for AI in Education
+
+For [[ai-governance-education]], the finding that institutional guidance is pro-use while classroom practice is restrictive suggests that effective governance requires **translating policy into concrete instructor support**, not just issuing top-down documents — otherwise instructors improvise inconsistent local rules. For computing education specifically, the study positions CS as the canary discipline for GenAI adoption: high student uptake forces instructors to confront policy gaps first. The authors characterize both levels as sending "mixed messages" because institutions and educators are **playing catch-up to student use**, compounded by fast-moving, vendor-controlled access. The gap between policy intent and classroom practice connects to [[educational-policy-ai]] and [[equity]] debates about who sets AI-use rules and how consistently they apply across courses and students, and to [[teacher-ai-adoption-confidence]] — uneven instructor readiness to translate guidance into everyday practice.
+
+## Limitations
+
+- The data set is **restricted to R1 universities in the U.S.** (Carnegie classification), limiting generalizability to other institution types (liberal arts colleges, community colleges) and to higher-education systems outside the U.S., where regulatory environments and institutional cultures around GenAI may differ substantially.
+- The course-level analysis covers **computer science only** (a deliberate design choice to study early adopters), so findings may not transfer to other disciplines; the authors note most prior literature spans multiple domains and call for cross-discipline comparisons.
+- Institutional policies and course syllabi were **collected in different periods** (late 2023 vs. spring 2024), during which GenAI tools and guidance evolved rapidly.
 
 ## Connected Concepts
 
@@ -12805,6 +13017,55 @@ Anita Samuel (2026). [*Learning with machines: Toward a theory of epistemic co-a
 
 ---
 
+## [Rethinking Higher Education: From Fixed Curricula to Learnity Graphs](https://edtechdev.github.io/aied/articles/learnity-graphs-lifelong-learning-framework-2026/)
+
+> **Synthesis:** Szekely, Gal-Ezer & Harel (2026) argue that AI-mediated knowledge access warrants rethinking fixed higher-education curricula, proposing "learnity graphs" — structured representations of learning as interconnected units of knowledge, skills, experience, and artifacts — as a lifelong-learning framework that integrates academic, professional, and personal learning.
+
+## Key Findings
+
+1. **The value proposition of universities persists.** The authors emphasize that universities remain essential for foundational knowledge, theoretical depth, and conceptual grounding; the goal is not to replace academic study but to extend it.
+
+2. **AI mediation changes the calculus.** In an era where knowledge is increasingly AI-mediated and accessible, the fixed-sequential-curriculum model is open to reconsideration, shifting emphasis toward creativity, interdisciplinary integration, hands-on experience, and long-term development.
+
+3. **Learnity graphs as the core construct.** The paper introduces *learnity graphs*, a structured representation of learning as interconnected units of knowledge, skills, experience, and actual artifacts, together with a method for presenting and leveraging the representation.
+
+4. **Lifelong integration across domains.** The framework integrates academic, professional, and personal learning, positioning learning as a continuous, graph-structured activity rather than a bounded curricular sequence.
+
+## Implications
+
+This conceptual contribution speaks directly to debates about [[curriculum-design]] in an era of [[generative-ai]]. By framing learning as a graph of interconnected units rather than a fixed sequence, it aligns with [[personalized-learning]] and [[student-modeling]] traditions while proposing a concrete representational mechanism. The "learnity graph" resonates with [[knowledge-graph]] approaches and with the broader movement toward [[lifelong-learning]] in response to AI-driven workforce change.
+
+For [[higher-ed]] institutions, the framework is a provocation to move beyond static degree pathways toward adaptive, cross-domain learning environments. It connects conceptually to [[instructional-design]] discussions about [[transfer-of-learning]] and [[self-regulated-learning]], since learners must actively navigate and maintain their own learnity graphs.
+
+The proposal also has an implicit [[equity]] dimension: graph-based, modular learning could either democratize access to personalized pathways or entrench fragmentation if not supported by sound pedagogy and institutional infrastructure. The paper is best read alongside work on [[educational-policy-ai]] and [[ai-governance-education]] that addresses how such frameworks are governed and resourced.
+
+## Connected Concepts
+
+- [[curriculum-design]]
+- [[educational-policy-ai]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[instructional-design]]
+- [[knowledge-graph]]
+- [[lifelong-learning]]
+- [[personalized-learning]]
+- [[self-regulated-learning]]
+- [[student-modeling]]
+- [[transfer-of-learning]]
+
+## Connected Articles
+
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy
+- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
+- [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework
+- [[xie-hillm-cd-2026]] — HILLM curriculum design
+
+## Citation
+
+Szekely, S., Gal-Ezer, J., & Harel, D. (2026). [*Rethinking Higher Education: From Fixed Curricula to Learnity Graphs*](https://arxiv.org/abs/2608.08543). arXiv:2608.08543 (cs.CY).
+
+---
+
 ## [LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning](https://edtechdev.github.io/aied/articles/learnmate2-llm-adaptive-learning/)
 
 > LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning **Wang, Lee, & Mutlu (2026)** — University of Wisconsin-Madison. CHI-related publication.
@@ -13436,6 +13697,57 @@ As students increasingly use [[llm]]s to draft written responses and program cod
 ## Citation
 
 Leinonen & Denny (2026). [Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content](https://arxiv.org/abs/2607.20446). arXiv:2607.20446. arXiv preprint (cs.CL).
+
+---
+
+## [From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations](https://edtechdev.github.io/aied/articles/llm-difficulty-calibration-programming-exams-2026/)
+
+> **Synthesis:** Yan, Xiong, Li & Chen (2026) reposition LLMs from benchmark targets to auxiliary evidence sources for interpreting programming-exam difficulty, showing that AI difficulty estimates correlate strongly with student pass rates across parallel-class finals (rho ≈ −0.87 at problem level) while explicitly bounding that these scales must not be used for individual student evaluation or automatic grade adjustment.
+
+## Key Findings
+
+1. **AI pass rate tracks student performance.** In a synchronous eight-problem final exam where ten models solved alongside 120 students, AI pass rate correlated positively with student pass rate (Spearman *rho* = 0.866), and a solving-based composite difficulty index correlated negatively with it (*rho* = −0.905).
+
+2. **Strong problem-level calibration across exams.** Across 79 problems from 11 parallel-class final exams, AI overall difficulty correlated with problem-level pass rate at *rho* = −0.871 and with non-attempt rate at *rho* = 0.800; a 26-problem longitudinal data-structures sample gave −0.829 and 0.883.
+
+3. **Boundary condition in introductory courses.** A 106-problem CS101 sample marked the limit: problem-level correlation weakened to *rho* = −0.552 and exam-level correlation across 16 exams was near zero, with cohort composition dominating exam-level outcomes. Exposure-discount and duplicate-problem perturbation tests did not change the direction of findings.
+
+4. **Explicit use-and-abstention boundaries.** The single-reviewer design, unverifiable model identity, and review-output instability mean AI difficulty scales are suitable for problem validation, parallel-class fairness discussion, and longitudinal quality tracking — but must not drive individual student evaluation or automatic grade adjustment.
+
+## Implications
+
+This study reframes the role of [[llm]]s in [[assessment]] from "evaluated object" to "evaluation aid," contributing a methodology that layers AI evidence with student performance, item exposure, and [[learning-analytics]] to interpret exam difficulty. It connects to the growing literature on [[psychometrically-aware-ai]] and [[confidence-aware-ai-assessment]], where model outputs are treated as one noisy signal among several rather than as ground truth.
+
+For [[computing-education]] and [[programming-education]] practice, the finding that AI difficulty correlates with student outcomes at the problem level supports using LLMs to flag mis-calibrated items across parallel sections and to track item quality longitudinally. The clear abstention guidance is the crucial guardrail: cohort composition effects in introductory courses and the fragility of single-reviewer estimates caution against high-stakes automation, aligning with [[human-in-the-loop-ai]] design principles.
+
+The work also illustrates the epistemic limits of [[item-response-theory]]-style difficulty estimation when grounded in model rather than human response data, and reinforces the need for verification and [[evaluation]] frameworks that keep AI in a supporting rather than deciding role.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[automated-assessment]]
+- [[computing-education]]
+- [[confidence-aware-ai-assessment]]
+- [[educational-measurement]]
+- [[evaluation]]
+- [[human-in-the-loop-ai]]
+- [[item-response-theory]]
+- [[learning-analytics]]
+- [[llm-evaluation]]
+- [[programming-education]]
+- [[psychometrically-aware-ai]]
+
+## Connected Articles
+
+- [[llm-item-difficulty-prediction]] — LLM item difficulty prediction
+- [[llm-psychometric-calibration-cdp]] — LLM psychometric calibration
+- [[agreement-not-quality-llm-coding-verification]] — Agreement not quality in coding
+- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots for CS MCQs
+- [[measuring-llm-tutors-teach-vs-solve]] — Measuring LLM tutors
+
+## Citation
+
+Yan, H., Xiong, J., Li, Y., & Chen, C. (2026). [*From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations*](https://arxiv.org/abs/2608.07523). arXiv:2608.07523 (cs.CY).
 
 ---
 
@@ -16277,6 +16589,57 @@ Hoq, Pitts, Duan, Narayanan, Hassany, Lan, Brusilovsky & Akram (2026). [Automate
 
 ---
 
+## [From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education](https://edtechdev.github.io/aied/articles/pchl-he-framework-genai-content-creation-2026/)
+
+> **Synthesis:** This conceptual preprint develops the Prompt-Context-Harness-Loop Framework for Higher Education (PCHL-HE), a pedagogically grounded vocabulary that differentiates four increasingly complex configurations of generative-AI interaction — prompt, context, harness, and verified loop — across eight dimensions of control, grounding, orchestration, and oversight.
+
+## Key Findings
+
+1. **Higher education lacks a vocabulary for complex AI interaction.** GenAI is moving beyond isolated prompt-response exchanges toward systems that curate information, call tools, retain state, verify intermediate products, and repeat actions under explicit control, yet HE lacks a pedagogically grounded way to select among these increasingly complex forms.
+
+2. **Four task configurations.** PCHL-HE differentiates four configurations: *prompt* engineering designs a bounded instruction; *context* engineering designs the information environment available to the model; *harness* engineering designs a complete, multi-step, tool-mediated working pass; *loop* engineering closes a verified, repeatable loop.
+
+3. **Eight differentiating dimensions.** The framework spans unit of control, information grounding, workflow complexity, temporal horizon, tool orchestration, feedback and iteration, verification, and human oversight.
+
+4. **Integrative construction.** The framework is built through synthesis of research on prompting, retrieval and context management, agentic systems, human interaction with automation, AI in HE, assessment, feedback, academic integrity, and design science.
+
+## Implications
+
+The PCHL-HE framework addresses a real pedagogical gap: as AI moves toward [[agentic-ai]] and tool-orchestrated workflows, teachers and students need language to reason about what level of control, grounding, and oversight an AI interaction requires. It extends [[prompt-engineering]] into a broader design space that includes [[rag]]-style context engineering and verified agentic loops.
+
+For [[higher-ed]] and [[instructional-design]], the framework offers a taxonomy for [[ai-literacy]] curricula and for designing assignments that match task complexity to appropriate AI configurations — for example, using verified loops only where intermediate products and oversight matter, which bears on [[academic-integrity]] and [[assessment]]. The explicit attention to verification and human oversight connects to [[human-in-the-loop-ai]] and to debates about when AI-generated content is ready for use.
+
+The framework is conceptual and would benefit from empirical validation, but it provides a useful shared vocabulary for [[faculty-development]] and for institutional [[ai-governance-education]] conversations about tool selection and policy.
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[agentic-ai]]
+- [[ai-governance-education]]
+- [[ai-literacy]]
+- [[content-generation]]
+- [[faculty-development]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[human-in-the-loop-ai]]
+- [[instructional-design]]
+- [[prompt-engineering]]
+- [[rag]]
+- [[verification]]
+
+## Connected Articles
+
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs framework
+- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education review
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher education policy
+- [[xie-hillm-cd-2026]] — HILLM curriculum design
+
+## Citation
+
+(EdArXiv preprint, 2026). [*From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education*](https://osf.io/wudk7). EdArXiv.
+
+---
+
 ## [Pedagogical Safety in Educational Reinforcement Learning](https://edtechdev.github.io/aied/articles/pedagogical-safety-rl/)
 
 > **Olukola & Rahimi (2026)** identify a critical gap: as reinforcement learning personalizes instruction in ITS, **there is no formal framework for pedagogical safety**.
@@ -18596,6 +18959,55 @@ This is the first multi-turn pedagogical RL framework specifically targeting spe
 
 ---
 
+## [Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication](https://edtechdev.github.io/aied/articles/spritz-ai-disciplinary-mediation-student-teams-2026/)
+
+> **Synthesis:** Cheng, Chung, Chiu, Lin & Liao (2026) present Spritz, a Discord-based [[llm]] technology probe that mediates disciplinary boundaries in interdisciplinary student project teams, finding that students valued AI as both cognitive support for boundary crossing and a relational buffer — while a central tension emerged when AI moved from neutral mediator to advisor or challenger.
+
+## Key Findings
+
+1. **The challenge of interdisciplinary sensemaking.** Students in interdisciplinary [[project-based-learning]] must negotiate differences in language, assumptions, priorities, and practices, yet these differences are hard to surface in fragmented text-based team communication where AI tools often become private side channels.
+
+2. **Spritz as a mediating probe.** Spritz monitors group chat for semantic or pragmatic boundary signals, prompts members to articulate perspectives through private channels, and returns anonymized syntheses to shared discussion. A technology probe study and co-design workshop ran with 12 university students across technical, business, and design backgrounds.
+
+3. **Dual value: cognitive and relational.** Participants valued AI mediation not only as cognitive support for boundary crossing but as a relational buffer — organizing fragmented discussion, surfacing implicit expectations, clarifying divergent interpretations, and softening interpersonal pressure around disagreement and concession.
+
+4. **The neutrality tension.** Participants imagined future AI mediators as switchable roles — strategic advisors, cross-domain translators, perspective challengers — but these expanded roles made the neutrality that had made AI acceptable as a mediator unstable once AI began to advise, challenge, or influence team decisions.
+
+## Implications
+
+This study contributes empirical insight and design considerations for AI systems that mediate [[collaborative-learning]] in text-based communication while preserving [[human-ai-collaboration]], trust, privacy, and accountability. The finding that AI's perceived neutrality is load-bearing — and that it erodes when AI becomes a decisive actor — is a key design constraint for educational [[conversational-agents]].
+
+For [[project-based-learning]] and [[higher-ed]], the work shows how LLM-mediated boundary objects can help interdisciplinary teams surface implicit assumptions rather than bypassing them, aligning with theories of boundary objects and knowledge integration. The tension between helpful mediation and illegitimate influence echoes broader concerns in [[trust-calibration]] and [[teacher-role]] debates about how much agency AI should hold in collaborative settings.
+
+The anonymized-synthesis design also models [[privacy]]-respecting intervention, and the switchable-role imagination suggests future [[human-in-the-loop]] designs where teams can configure the AI's stance.
+
+## Connected Concepts
+
+- [[collaborative-learning]]
+- [[conversational-agents]]
+- [[human-ai-collaboration]]
+- [[human-in-the-loop-ai]]
+- [[llm]]
+- [[privacy]]
+- [[project-based-learning]]
+- [[qualitative-research]]
+- [[student-experience]]
+- [[trust-calibration]]
+
+## Connected Articles
+
+- [[multi-agent-llm-social-learning]] — Multi-agent LLM social learning
+- [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing
+- [[icap-cognitive-engagement-llm-agents]] — ICAP cognitive engagement
+- [[llm-critical-thinking-teamwork-review]] — LLM critical thinking teamwork
+- [[lecturaagents-multi-agent-teaching]] — LecturaAgents multi-agent teaching
+
+## Citation
+
+Cheng, C.-J., Chung, Y.-C., Chiu, B.-C., Lin, Y.-H., & Liao, J.-W. (2026). [*Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication*](https://arxiv.org/abs/2608.07503). arXiv:2608.07503 (cs.HC).
+
+---
+
 ## [StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing](https://edtechdev.github.io/aied/articles/stanbkt-bayesian-knowledge-tracing/)
 
 > **Siddhartha Pradhan, Yanping Pei, Morgan Lee, Puyuan Zhang, Erin Ottmar, Adam C. Sales (2026)** — Worcester Polytechnic Institute. *arXiv preprint (cs.HC, cs.CY, stat.AP, stat.ME)*.
@@ -20590,6 +21002,58 @@ Tao He et al. (2026). [*Unveiling patterns of socially shared regulation in rela
 
 ---
 
+## [VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding](https://edtechdev.github.io/aied/articles/veriforge-narrative-drafting-scaffolding-2026/)
+
+> **Synthesis:** Sun et al. (2026) present VeriForge, a mixed-initiative [[generative-ai]] writing system that assumes initiative over domain discovery while the author retains initiative over narrative synthesis, using proactive highlighting, dual-stream querying with source-anchored Knowledge Cards, and a spatial Knowledge Canvas to surface latent knowledge gaps without homogenizing voice.
+
+## Key Findings
+
+1. **The core problem is latent knowledge gaps.** Current AI writing tools require explicit queries authors cannot formulate, generate finished prose that risks homogenizing voice, or assist only within what authors already know. VeriForge targets the discovery and integration of unfamiliar domain knowledge.
+
+2. **Mixed-initiative division of labor.** Grounded in interviews with 9 fiction writers, VeriForge divides cognitive labor: the system takes initiative over domain discovery while the author keeps full initiative over narrative synthesis, preserving writer agency.
+
+3. **Three complementary mechanisms.** Proactive inline highlighting flags potential knowledge gaps as authors draft; dual-stream querying pairs conversational responses with source-anchored Knowledge Cards for direct fact extraction; a spatial Knowledge Canvas lets authors organize and connect discovered knowledge, all powered by a graph-based [[rag]] pipeline.
+
+4. **Promising preliminary evidence.** A within-subjects user study (N=12) showed the paradigm helps authors recognize previously overlooked knowledge gaps, supports creative exploration, and produced passages rated by experts as having stronger domain grounding in a cold-start task.
+
+## Implications
+
+VeriForge addresses a central tension in [[writing-education]] with AI: how to leverage [[generative-ai]] for knowledge augmentation without ceding authorship and voice. The mixed-initiative design is a concrete instantiation of [[human-in-the-loop]] collaboration, offering a counterpoint to [[cognitive-offloading]] concerns by making writers aware of what they do not know rather than silently filling gaps.
+
+For [[creativity]] research, the system's emphasis on preserving author agency over synthesis speaks directly to worries about [[over-reliance]] and homogenized output. The knowledge-gap-revealing mechanism also connects to [[scaffolding]] theory and [[zone-of-proximal-development]], positioning the AI as a scaffold that surfaces and supports what the writer can learn rather than replacing it.
+
+The graph-based [[rag]] pipeline with source-anchored evidence cards also models best practice in [[content-quality]] and [[verification]]: surfaced knowledge is traceable to sources, mitigating [[hallucination-risk]]. The study offers design guidance for [[llm]]-based writing tools across domains beyond fiction, including academic and expository writing.
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[content-quality]]
+- [[creativity]]
+- [[generative-ai]]
+- [[hallucination-risk]]
+- [[human-in-the-loop-ai]]
+- [[knowledge-graph]]
+- [[over-reliance]]
+- [[rag]]
+- [[scaffolding]]
+- [[verification]]
+- [[writing-education]]
+- [[zone-of-proximal-development]]
+
+## Connected Articles
+
+- [[mindcopilot-llm-co-writing]] — MindCopilot co-writing
+- [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Creative writing with robots
+- [[foxglove-writing-feedback-experts-llms]] — Foxglove writing feedback
+- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in writing
+- [[self-referential-l2-writing-llm-assessment]] — L2 writing LLM assessment
+
+## Citation
+
+Sun, R., Li, J., Tao, W., Zheng, X., Tan, Y., Wei, J., & Ma, Y. (2026). [*VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding*](https://arxiv.org/abs/2608.09698). arXiv:2608.09698 (cs.HC); UIST 2026.
+
+---
+
 ## [VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI](https://edtechdev.github.io/aied/articles/vetting-dual-llm-safety-education/)
 
 > **Synthesis:** VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI
@@ -21222,6 +21686,8 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[genai-policies-higher-ed-computing]]
 - [[detecting-llm-generated-text-latent-prompt]]
 - [[credential-cognitive-stewardship-ai-assessment]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -21383,6 +21849,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 ## Connected Articles
 
 - [[ai-campus-wellbeing-tools]]
+- [[ai-uk-higher-education-policy-2026]]
 
 ---
 
@@ -21534,6 +22001,7 @@ Agentic AI refers to artificial intelligence systems that can autonomously plan,
 - [[guided-llm-scaffolding-independent-learning]]
 - [[jeon-isd-agent-bench-2026]]
 - [[learnmate2-llm-adaptive-learning]]
+- [[pchl-he-framework-genai-content-creation-2026]]
 
 ---
 
@@ -21610,6 +22078,7 @@ AI education connects to every concept in the wiki — it is the field that all 
 ## Connected Articles
 
 - [[raza-farooq-aied-review-2020-2025]]
+- [[genai-policies-higher-ed-computing]] — Comparative institutional/course GenAI policy in computing
 - [[liang-genai-systematic-review-human-ai-2026]]
 - [[brookings-ai-students-report]]
 - [[white-wu-robotics-ai-education-2026]]
@@ -21689,6 +22158,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[genai-policies-higher-ed-computing]]
 - [[raza-farooq-aied-review-2020-2025]]
 - [[white-wu-robotics-ai-education-2026]]
+- [[ai-uk-higher-education-policy-2026]]
 
 ---
 
@@ -21756,6 +22226,9 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[possibility-ai-literacy-critical-editorial]]
 - [[sec-ai-literacy-narrative-review-2026]]
 - [[teacher-education-ai-literacy-sdt-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[elementary-writing-genai-systematic-review-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -21856,6 +22329,12 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[formative-assessment]]
 - [[student-modeling]]
 
+## Connected Articles
+
+- [[llm-difficulty-calibration-programming-exams-2026]]
+- [[elementary-writing-genai-systematic-review-2026]]
+- [[genai-higher-education-systematic-review-2026]]
+
 ---
 
 ## [Automated Assessment](https://edtechdev.github.io/aied/concepts/automated-assessment/)
@@ -21896,6 +22375,8 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[automated-formative-assessments-a-level-sciences]]
 - [[cong-confidence-asag-2026]]
 - [[ai-scoring-language-bias-physics]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -22087,6 +22568,7 @@ Bias mitigation in AIED concerns identifying and reducing unfair, identity-patte
 - [[genai-minoritized-knowledges-disability]]
 - [[paternalistic-filter-llm-history-education]]
 - [[xai-education-framework]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -22178,6 +22660,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[metacognitive-awareness-experiential-vs-instructional]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[tzirides-thinking-through-ai-2025]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
 
 ---
 
@@ -22219,6 +22702,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[golrang-propact-pair-programming-2026]]
 - [[teacher-student-agency-orchestration]]
 - [[collaborative-ai-tutoring]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 
 ---
 
@@ -22272,6 +22756,7 @@ Computational thinking connects to [[cs-education]], [[stem-education]], [[ai-li
 - [[cong-confidence-asag-2026]]
 - [[learning-to-prompt-adaptive-tutoring]]
 - [[psyscore-essay-scoring-zpd-feedback]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
 
 ---
 
@@ -22456,6 +22941,7 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[finkelstein-principled-ai-education-2025]]
 - [[hingle-collaborative-ai-literacy-2025]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
 
 ---
 
@@ -22596,6 +23082,7 @@ Research in this wiki explores edtech platform through multiple lenses:
 - [[ai-scoring-language-bias-physics]]
 - [[genai-architecture-education]]
 - [[hashmi-socratic-physics-chatbot-2025]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
 
 ---
 
@@ -22663,6 +23150,8 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 - [[brookings-ai-students-report]]
 - [[ai-assessment-scale-reform]]
 - [[stanford-evidence-base-ai-k12-2026]]
+- [[ai-uk-higher-education-policy-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -22676,6 +23165,10 @@ Research themes include:
 - 2. **Practice Question Engine**: Automatically generates programming exercises at three difficulty levels (beginner, intermediate, advanced), dynamically tailored to student competency.
 
 ## Connected Concepts
+
+## Connected Articles
+
+- [[genai-pd-ai-pck-learning-gain-2026]]
 
 ---
 
@@ -22792,6 +23285,10 @@ Equity connects to [[bias-mitigation]], [[special-education]], [[accessibility|a
 - [[community-centered-ai-education-adults]]
 - [[amponsah-ai-acceptance-science-teachers-2026]]
 - [[neurodivergent-computing-students]]
+- [[elementary-writing-genai-systematic-review-2026]]
+- [[ai-uk-higher-education-policy-2026]]
+- [[genai-policies-higher-ed-computing]] — Who sets GenAI-use rules and how consistently across courses
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -22835,6 +23332,8 @@ Ethics connects to [[equity]], [[privacy]], [[bias-mitigation]], [[regulation]],
 - [[cost-of-ethics-crisis-cs-ethics-education]]
 - [[xai-education-framework]]
 - [[ai-tutor-safety-harms]]
+- [[ai-uk-higher-education-policy-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -22876,6 +23375,9 @@ Faculty development connects to [[teacher-ai-competency]] (the outcome), [[teach
 - [[ai-tpack-preservice-math-teachers]]
 - [[crewscaler-ai-upskilling-framework]]
 - [[ai-assessment-scale-reform]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[genai-pd-ai-pck-learning-gain-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -23039,6 +23541,12 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[instructional-guidance-genai-learning]]
 - [[genai-performance-vs-learning]]
 - [[liang-genai-systematic-review-human-ai-2026]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[elementary-writing-genai-systematic-review-2026]]
+- [[genai-pd-ai-pck-learning-gain-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -23076,6 +23584,8 @@ Hallucination in educational AI takes several forms documented in this wiki's ar
 - [[eduframetrap-llm-sycophancy-educational-safety]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[prompt-injection-defenses-educational-llm-tutors]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -23135,6 +23645,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 ## Connected Articles
 
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI Faculty Readiness Framework
+- [[genai-policies-higher-ed-computing]] — Institutional vs course GenAI policy in computing
 - [[ai-in-the-wild-college]] — AI in the Wild: College Student AI Use
 - [[institutional-change-framework-ai]] — Institutional Change in the Age of AI
 - [[genai-availability-grades-satisfaction]] — GenAI Availability and Student Satisfaction
@@ -23142,6 +23653,10 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[ai-higher-ed-workforce-survey]] — AI in Higher Education Workforce Survey
 - [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]
+- [[ai-uk-higher-education-policy-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -23169,6 +23684,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[chat-debugging-human-ai-collaboration-circuits]]
 - [[generativism-learning-theory]]
 - [[student-mental-models-genai]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -23232,6 +23749,10 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[correct-answer-trap-ai-tutor]]
 - [[cyberscholar-genai-writing-feedback]]
 - [[eduagentbench-agent-teaching-benchmark]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]
 
 ---
 
@@ -23280,6 +23801,8 @@ Instructional design is the bridge discipline of AI in education — it connects
 - [[cotal-formative-assessment-scoring-2026]]
 - [[genai-mindtool-generative-learning]]
 - [[ludia-udl-ai-thought-partner-2026]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]
 
 ---
 
@@ -23360,6 +23883,7 @@ The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor)
 ## Connected Articles
 
 - [[huang-interpretable-knowledge-tracing-2026]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
 
 ---
 
@@ -23456,6 +23980,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ecnuclaw-k12-personalized-companion]]
 - [[gaide-vibe-coding-k12-teachers]]
+- [[elementary-writing-genai-systematic-review-2026]]
 
 ---
 
@@ -23481,6 +24006,11 @@ Recent research explores using [[llm|LLMs]] to automatically construct knowledge
 Knowledge graphs connect to [[domain-modeling]] (defining what to teach), [[curriculum-design]] (how to sequence it), and [[learning-analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring]] systems that need structured representations of educational domains.
 
 ## Connected Concepts
+
+## Connected Articles
+
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
 
 ---
 
@@ -23611,6 +24141,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[teaching-feedback-classification-benchmark]]
 - [[wordstream-glass-learning-analytics]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
 
 ---
 
@@ -23659,6 +24190,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[ai-lifelong-learning-policy]]
 - [[community-centered-ai-education-adults]]
 - [[metacognitive-learning-scenarios-taxonomy]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
 
 ---
 
@@ -23707,6 +24239,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[llm-item-difficulty-prediction]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[llm-intervention-design-cs-review]]
+- [[llm-difficulty-calibration-programming-exams-2026]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 
 ---
 
@@ -24005,6 +24539,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance from Learning
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
+- [[veriforge-narrative-drafting-scaffolding-2026]]
 
 ---
 
@@ -24234,6 +24769,8 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[courseblueprint-adaptive-video-generation]]
 - [[ecnuclaw-k12-personalized-companion]]
 - [[empathy-coaching-chatbot]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[genai-higher-education-systematic-review-2026]]
 
 ---
 
@@ -24345,6 +24882,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[ai-lms-middle-school-longitudinal]]
 - [[child-safety-genai]]
 - [[eduzone-llm-safety-k12]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 
 ---
 
@@ -24387,6 +24925,7 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[astra-atco-training-simulator]]
 - [[ai-adoption-training-public-sector]]
+- [[genai-pd-ai-pck-learning-gain-2026]]
 
 ---
 
@@ -24432,6 +24971,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[llm-intervention-design-cs-review]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[tracing-genai-literacy-interaction-patterns]]
+- [[pchl-he-framework-genai-content-creation-2026]]
 
 ---
 
@@ -24440,6 +24980,10 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 > **Psychometrically aware AI** — models aligned with measurement theory — is the standard advanced in [[llm-psychometric-calibration-cdp]], [[llm-item-difficulty-prediction]], [[confidence-aware-ai-assessment]], and [[item-response-theory]]: calibrated, uncertainty-aware AI assessment preserves validity and trust ([[educational-measurement]], [[assessment-validity]]).
 
 ## Connected Concepts
+
+## Connected Articles
+
+- [[llm-difficulty-calibration-programming-exams-2026]]
 
 ---
 
@@ -24482,6 +25026,8 @@ RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structu
 - [[retrieval-augmented-tutoring-algorithm-kite]]
 - [[structrag-diagram-reasoning-ai-tutoring]]
 - [[book-level-synthetic-textbook-organization]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[pchl-he-framework-genai-content-creation-2026]]
 
 ---
 
@@ -24620,6 +25166,7 @@ Scaffolding connects to [[over-reliance]] (scaffolding that doesn't fade creates
 - [[concept-catalyst-engineering-scaffolds]]
 - [[correct-answer-trap-ai-tutor]]
 - [[critical-thinking-genai-scaffolding]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
 
 ---
 
@@ -24754,6 +25301,7 @@ For example:
 - [[cross-subject-validity-delayed-start]]
 - [[curiobot-llm-tutoring-exploratory-learning]]
 - [[ecnuclaw-k12-personalized-companion]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
 
 ---
 
@@ -24997,6 +25545,7 @@ Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai
 - [[aied-unfinished-mission-bypass]]
 - [[student-mental-models-genai]]
 - [[genai-usage-design-students-survey]]
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 
 ---
 
@@ -25052,6 +25601,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[simulating-students-java-programming-errors-llms]]
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
 
 ---
 
@@ -25114,6 +25664,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
 - [[universities-ai-era-rethinking]]
 - [[white-wu-robotics-ai-education-2026]]
+- [[genai-pd-ai-pck-learning-gain-2026]]
 
 ---
 
@@ -25240,6 +25791,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[vibe-compiler-metacognition-genai-agency-2026]]
 - [[ai-tutor-safety-harms]]
 - [[brookings-ai-students-report]]
+- [[learnity-graphs-lifelong-learning-framework-2026]]
 
 ---
 
@@ -25286,6 +25838,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[student-rationalization-ai-writing]]
 - [[care-full-feedback-genai]]
 - [[self-referential-l2-writing-llm-assessment]]
+- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[elementary-writing-genai-systematic-review-2026]]
 
 ---
 
