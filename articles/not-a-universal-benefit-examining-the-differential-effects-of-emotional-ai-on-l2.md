@@ -24,5 +24,5 @@ This study challenges the assumption that emotional design in educational AI pro
 - [[test-driven-ai-assisted-learning]]
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
 
-## Citation
-Zhuo Wang & Hui Pang (2026). [*Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers' language learning*](https://doi.org/10.1111/bjet.70078). British Journal of Educational Technology.
+## Citation## Citation
+Wang, Z., & Pang, H. (2026). [*Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers' language learning*](https://doi.org/10.1111/bjet.70078). *British Journal of Educational Technology*.

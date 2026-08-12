@@ -64,4 +64,4 @@ An eLetter response argued universities cannot bridge the gap alone — commerci
 
 ## Citation
 
-[Higher Education Must Bridge the AI Gap](https://www.science.org/doi/10.1126/science.aeh5777).
+Miranda, M. L. (2026). [Higher Education Must Bridge the AI Gap](https://www.science.org/doi/10.1126/science.aeh5777). *Science*.

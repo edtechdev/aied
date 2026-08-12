@@ -23,5 +23,5 @@ This paper presents a scoping review of learning-to-learn (L2L) definitions with
 - [[generative-refusal-ai-tools-for-thought]]
 - [[genai-runaway-object-math-higher-ed]]
 
-## Citation
-Isabel Schorr et al. (2026). [*Learning-to-learn in the age of generative AI: A scoping review and conceptual framework*](https://doi.org/10.1016/j.caeai.2026.100575). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Schorr, I., Bardach, L., Bühler, B., & Kasneci, E. (2026). [*Learning-to-learn in the age of generative AI: A scoping review and conceptual framework*](https://doi.org/10.1016/j.caeai.2026.100575). *Computers and Education: Artificial Intelligence*.

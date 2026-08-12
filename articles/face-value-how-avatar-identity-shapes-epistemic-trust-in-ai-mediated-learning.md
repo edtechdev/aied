@@ -21,4 +21,4 @@ Two experiments examined how avatar race, gender, and age shape trust in AI-medi
 - [[multi-agent-llm-social-learning]]
 
 ## Citation
-Zach Anthis & Avgousta Kyriakidou-Zacharoudiou (2026). [*Face value: How avatar identity shapes epistemic trust in AI-mediated learning*](https://doi.org/10.1016/j.caeai.2026.100610). Computers and Education: Artificial Intelligence.
+Anthis, Z., & Kyriakidou-Zacharoudiou, A. (2026). [*Face value: How avatar identity shapes epistemic trust in AI-mediated learning*](https://doi.org/10.1016/j.caeai.2026.100610). *Computers and Education: Artificial Intelligence.*

@@ -25,4 +25,4 @@ This systematic scoping review examines the use of GenAI to support the teaching
 - [[genai-mindtool-generative-learning]]
 
 ## Citation
-Abdessalam Ouaazki et al. (2026). [*Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines*](https://doi.org/10.1016/j.caeai.2026.100608). Computers and Education: Artificial Intelligence.
+Ouaazki, A., Shibani, A., Knight, S., & Holzer, A. (2026). [*Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines*](https://doi.org/10.1016/j.caeai.2026.100608). *Computers and Education: Artificial Intelligence.*

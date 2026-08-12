@@ -23,5 +23,5 @@ This paper introduces a novel leadership framework called SPARK (Systems, Proble
 - [[multimodal-knowledge-graph-educational-reasoning]]
 - [[ai-in-the-wild-college]]
 
-## Citation
-Shane Dawson & Abelardo Pardo (2026). [*Leveraging complex systems: Leading for transformative change*](https://doi.org/10.1016/j.caeai.2026.100563). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Dawson, S., & Pardo, A. (2026). [*Leveraging complex systems: Leading for transformative change*](https://doi.org/10.1016/j.caeai.2026.100563). *Computers and Education: Artificial Intelligence*.

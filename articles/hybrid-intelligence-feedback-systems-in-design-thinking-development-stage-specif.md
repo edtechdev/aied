@@ -25,4 +25,4 @@ This study compares the pedagogical effects on students' design thinking and stu
 - [[learning-by-chatting-genai-impact]]
 
 ## Citation
-Xiao Fei (2026). [*Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors*](https://doi.org/10.1111/bjet.70080). British Journal of Educational Technology.
+Fei, X. (2026). [*Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors*](https://doi.org/10.1111/bjet.70080). *British Journal of Educational Technology.*

@@ -183,5 +183,5 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 
 ## Citation
 
-[ChatGPT Critical and Creative Thinking: Systematic Review](https://www.sciencedirect.com/science/article/pii/S2666920X26000330).
+Li, C., Cui, H., & Hagedorn, L. S. (2026). [*The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes*](https://www.sciencedirect.com/science/article/pii/S2666920X26000330). *Computers and Education: Artificial Intelligence*.
 

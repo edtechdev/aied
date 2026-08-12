@@ -24,5 +24,5 @@ By adopting the Will, Skill, Tool (WST) model, this study explores how EMI stude
 - [[genai-usage-design-students-survey]]
 - [[genai-linguistic-diversity-academic-writing]]
 
-## Citation
-Pengzhan Yang & Wenqian Huang (2026). [*Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings*](https://doi.org/10.1111/bjet.70075). British Journal of Educational Technology.
+## Citation## Citation
+Yang, P., & Huang, W. (2026). [*Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings*](https://doi.org/10.1111/bjet.70075). *British Journal of Educational Technology*.

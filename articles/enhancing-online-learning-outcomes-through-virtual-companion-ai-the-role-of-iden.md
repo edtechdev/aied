@@ -25,4 +25,4 @@ Grounded in social presence theory, this study introduces the concept of identit
 - [[ai-assisted-learning-modes-eeg]]
 
 ## Citation
-Tiansheng Xia et al. (2026). [*Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism*](https://doi.org/10.1111/bjet.70072). British Journal of Educational Technology.
+Xia, T., Tan, M., & Guo, J. (2026). [*Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism*](https://doi.org/10.1111/bjet.70072). *British Journal of Educational Technology.*
