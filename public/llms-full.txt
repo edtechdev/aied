@@ -20,7 +20,7 @@ This study introduces a Digital Interactions Quality (DigIQ) framework and scale
 - [[precision-education-student-digital-twins-2026]]
 
 ## Citation
-Steven J. Howard et al. (2026). [*A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education*](https://doi.org/10.1111/bjet.70063). British Journal of Educational Technology.
+Howard, S. J., Lewis, K., Day, N., Peach, L., & Kervin, L. K. (2026). [*A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education*](https://doi.org/10.1111/bjet.70063). *British Journal of Educational Technology.*
 
 ---
 
@@ -251,7 +251,7 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 
 ## Citation
 
-[AcademiClaw: When Students Set Challenges for AI Agents](https://arxiv.org/abs/2605.02661).
+Yu, J., Lu, P., Si, W., Lu, H., Wu, J., Tao, K., et al. (2026). [AcademiClaw: When Students Set Challenges for AI Agents](https://arxiv.org/abs/2605.02661). arXiv:2605.02661.
 
 ---
 
@@ -2249,7 +2249,7 @@ An eLetter response argued universities cannot bridge the gap alone — commerci
 
 ## Citation
 
-[Higher Education Must Bridge the AI Gap](https://www.science.org/doi/10.1126/science.aeh5777).
+Miranda, M. L. (2026). [Higher Education Must Bridge the AI Gap](https://www.science.org/doi/10.1126/science.aeh5777). *Science*.
 
 ---
 
@@ -2312,7 +2312,7 @@ The survey reveals a significant policy-awareness gap: despite near-universal AI
 
 ## Citation
 
-[The Impact of AI on Work in Higher Education](https://www.educause.edu/research/2026/the-impact-of-ai-on-work-in-higher-education).
+EDUCAUSE. (2026). [The Impact of AI on Work in Higher Education](https://www.educause.edu/research/2026/the-impact-of-ai-on-work-in-higher-education).
 
 ---
 
@@ -3755,7 +3755,7 @@ The review also connects to broader debates about [[ethics]] and learner efficac
 
 ## Citation
 
-(EdArXiv preprint, 2026). [*Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making*](https://osf.io/6kjmy). EdArXiv.
+Ashiq, S. (2026). [*Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making*](https://osf.io/6kjmy). EdArXiv preprint.
 
 ---
 
@@ -4827,7 +4827,7 @@ This study examines the critical influence of technical and structural factors o
 - [[agents-that-teach-incidental-learning]]
 
 ## Citation
-Rotimi Ogunsakin et al. (2026). [*Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms*](https://doi.org/10.1111/bjet.70066). British Journal of Educational Technology.
+Ogunsakin, R., Okonu, D., & Nwokeocha, P. (2026). [*Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms*](https://doi.org/10.1111/bjet.70066). *British Journal of Educational Technology.*
 
 ---
 
@@ -5388,7 +5388,7 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 
 ## Citation
 
-[ChatGPT Critical and Creative Thinking: Systematic Review](https://www.sciencedirect.com/science/article/pii/S2666920X26000330).
+Li, C., Cui, H., & Hagedorn, L. S. (2026). [*The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes*](https://www.sciencedirect.com/science/article/pii/S2666920X26000330). *Computers and Education: Artificial Intelligence*.
 
 ---
 
@@ -5744,7 +5744,7 @@ This paper addresses concerns that students use GenAI to submit texts they do no
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 
 ## Citation
-Mohsen Ebrahimzadeh et al. (2026). [*Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence*](https://doi.org/10.1016/j.caeai.2026.100609). Computers and Education: Artificial Intelligence.
+Ebrahimzadeh, M., Shibani, A., & Shum, S. B. (2026). [*Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence*](https://doi.org/10.1016/j.caeai.2026.100609). *Computers and Education: Artificial Intelligence.*
 
 ---
 
@@ -8220,7 +8220,7 @@ Based on mastery learning theory, this study employed a quasi-experimental desig
 - [[ai-in-the-wild-college]]
 
 ## Citation
-Kai Wang et al. (2026). [*Effects of AI chatbot-supported cooperative flipped classroom on student collaboration, self-regulated learning and academic performance: A mastery learning perspective*](https://doi.org/10.1111/bjet.70079). British Journal of Educational Technology.
+Wang, K., Qin, S., Shen, Y., Guo, J., Ruan, Q., & Jia, T. (2026). [*Effects of AI chatbot-supported cooperative flipped classroom on student collaboration, self-regulated learning and academic performance: A mastery learning perspective*](https://doi.org/10.1111/bjet.70079). *British Journal of Educational Technology.*
 
 ---
 
@@ -8335,7 +8335,7 @@ The integration of AI into elementary writing also raises [[equity]] considerati
 
 ## Citation
 
-(EdArXiv preprint, 2026). [*Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review*](https://osf.io/ztr2x). EdArXiv.
+Abedini, P. (2026). [*Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review*](https://osf.io/ztr2x). EdArXiv preprint.
 
 ---
 
@@ -8578,7 +8578,7 @@ This study explores the impact of robot-LLM integration on collaborative creativ
 - [[teacher-ai-teaming-five-levels]]
 
 ## Citation
-Yuqing Liu & Yao Song (2026). [*Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement*](https://doi.org/10.1111/bjet.70071). British Journal of Educational Technology.
+Liu, Y., & Song, Y. (2026). [*Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement*](https://doi.org/10.1111/bjet.70071). *British Journal of Educational Technology.*
 
 ---
 
@@ -8601,7 +8601,7 @@ Grounded in social presence theory, this study introduces the concept of identit
 - [[ai-assisted-learning-modes-eeg]]
 
 ## Citation
-Tiansheng Xia et al. (2026). [*Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism*](https://doi.org/10.1111/bjet.70072). British Journal of Educational Technology.
+Xia, T., Tan, M., & Guo, J. (2026). [*Enhancing online learning outcomes through virtual companion AI: The role of identity anthropomorphism*](https://doi.org/10.1111/bjet.70072). *British Journal of Educational Technology.*
 
 ---
 
@@ -8791,7 +8791,7 @@ Two experiments examined how avatar race, gender, and age shape trust in AI-medi
 - [[multi-agent-llm-social-learning]]
 
 ## Citation
-Zach Anthis & Avgousta Kyriakidou-Zacharoudiou (2026). [*Face value: How avatar identity shapes epistemic trust in AI-mediated learning*](https://doi.org/10.1016/j.caeai.2026.100610). Computers and Education: Artificial Intelligence.
+Anthis, Z., & Kyriakidou-Zacharoudiou, A. (2026). [*Face value: How avatar identity shapes epistemic trust in AI-mediated learning*](https://doi.org/10.1016/j.caeai.2026.100610). *Computers and Education: Artificial Intelligence.*
 
 ---
 
@@ -8899,7 +8899,7 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 
 ## Citation
 
-['Critical AI Tutors: Empower or Enslave?'](https://arxiv.org/abs/2507.06878).
+Favero, L., Pérez-Ortiz, J.-A., Käser, T., & Oliver, N. (2025). [Critical AI Tutors: Empower or Enslave?](https://arxiv.org/abs/2507.06878). arXiv:2507.06878.
 
 ---
 
@@ -9251,7 +9251,7 @@ Emotion regulation has been recognized as a key factor affecting students' acade
 - [[ai-in-the-wild-college]]
 
 ## Citation
-Xiao-Li Zheng et al. (2026). [*From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach*](https://doi.org/10.1111/bjet.70083). British Journal of Educational Technology.
+Zheng, X.-L., Lyu, Z.-Y., Wang, S.-Y., Wang, F., Kong, X., Hwang, G.-J., et al. (2026). [*From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach*](https://doi.org/10.1111/bjet.70083). *British Journal of Educational Technology.*
 
 ---
 
@@ -9710,7 +9710,7 @@ For policy and practice, the review underscores that the faculty readiness gap a
 
 ## Citation
 
-(EdArXiv preprint, 2026). [*Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)*](https://osf.io/ky4uj). EdArXiv.
+Rathnayake, P. B. (2026). [*Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)*](https://osf.io/ky4uj). EdArXiv preprint.
 
 ---
 
@@ -10073,7 +10073,7 @@ For [[professional-training]] and institutional [[educational-policy-ai]], the f
 
 ## Citation
 
-(EdArXiv preprint, 2026). [*Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers*](https://osf.io/njztk). EdArXiv.
+Talebzadeh, H. (2026). [*Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers*](https://osf.io/njztk). EdArXiv preprint.
 
 ---
 
@@ -10575,7 +10575,7 @@ This systematic scoping review examines the use of GenAI to support the teaching
 - [[genai-mindtool-generative-learning]]
 
 ## Citation
-Abdessalam Ouaazki et al. (2026). [*Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines*](https://doi.org/10.1016/j.caeai.2026.100608). Computers and Education: Artificial Intelligence.
+Ouaazki, A., Shibani, A., Knight, S., & Holzer, A. (2026). [*Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines*](https://doi.org/10.1016/j.caeai.2026.100608). *Computers and Education: Artificial Intelligence.*
 
 ---
 
@@ -10657,7 +10657,7 @@ This four-year comparative study presents results of implementing a Generative-A
 - [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]]
 
 ## Citation
-Branislav Fecko et al. (2026). [*Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion*](https://doi.org/10.1016/j.caeai.2026.100611). Computers and Education: Artificial Intelligence.
+Fecko, B., Dziak, J., Vince, T., & Molnár, J. (2026). [*Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion*](https://doi.org/10.1016/j.caeai.2026.100611). *Computers and Education: Artificial Intelligence.*
 
 ---
 
@@ -11210,7 +11210,7 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 
 ## Citation
 
-[Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1).
+Hingle, A., & Johri, A. (2025). [Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1). arXiv:2508.15111.
 
 ---
 
@@ -11585,7 +11585,7 @@ This study compares the pedagogical effects on students' design thinking and stu
 - [[learning-by-chatting-genai-impact]]
 
 ## Citation
-Xiao Fei (2026). [*Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors*](https://doi.org/10.1111/bjet.70080). British Journal of Educational Technology.
+Fei, X. (2026). [*Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors*](https://doi.org/10.1111/bjet.70080). *British Journal of Educational Technology.*
 
 ---
 
@@ -12221,7 +12221,7 @@ Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) 
 
 ## Citation
 
-['MathBuddy: Affective Math Tutoring'](https://arxiv.org/abs/2508.19993v2).
+Kar, D., Böss, L., Braca, D., Dennerlein, S. M., Hubig, N. C., Wintersberger, P., et al. (2025). [MathBuddy: Affective Math Tutoring](https://arxiv.org/abs/2508.19993v2). arXiv:2508.19993.
 
 ---
 
@@ -12937,8 +12937,8 @@ This paper presents a scoping review of learning-to-learn (L2L) definitions with
 - [[generative-refusal-ai-tools-for-thought]]
 - [[genai-runaway-object-math-higher-ed]]
 
-## Citation
-Isabel Schorr et al. (2026). [*Learning-to-learn in the age of generative AI: A scoping review and conceptual framework*](https://doi.org/10.1016/j.caeai.2026.100575). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Schorr, I., Bardach, L., Bühler, B., & Kasneci, E. (2026). [*Learning-to-learn in the age of generative AI: A scoping review and conceptual framework*](https://doi.org/10.1016/j.caeai.2026.100575). *Computers and Education: Artificial Intelligence*.
 
 ---
 
@@ -13012,8 +13012,8 @@ This paper introduces the Epistemic Entanglement Framework, a theory-informed mo
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]]
 
-## Citation
-Anita Samuel (2026). [*Learning with machines: Toward a theory of epistemic co-agency*](https://doi.org/10.1016/j.caeai.2026.100573). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Samuel, A. (2026). [*Learning with machines: Toward a theory of epistemic co-agency*](https://doi.org/10.1016/j.caeai.2026.100573). *Computers and Education: Artificial Intelligence*.
 
 ---
 
@@ -13319,8 +13319,8 @@ This paper introduces a novel leadership framework called SPARK (Systems, Proble
 - [[multimodal-knowledge-graph-educational-reasoning]]
 - [[ai-in-the-wild-college]]
 
-## Citation
-Shane Dawson & Abelardo Pardo (2026). [*Leveraging complex systems: Leading for transformative change*](https://doi.org/10.1016/j.caeai.2026.100563). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Dawson, S., & Pardo, A. (2026). [*Leveraging complex systems: Leading for transformative change*](https://doi.org/10.1016/j.caeai.2026.100563). *Computers and Education: Artificial Intelligence*.
 
 ---
 
@@ -14776,8 +14776,8 @@ The work contributes to understanding of [[universal-design-for-learning]] in ed
 - [[dyslexlens-dyslexic-learners-ai]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 
-## Citation
-Stark, B. (2026). [*LUDIA: A Design and Evidence Statement*](https://doi.org/10.35542/osf.io/3nmgp_v1). EdArXiv Preprint.
+## Citation## Citation
+Stark, B. (2026). [*LUDIA: A Design and Evidence Statement*](https://doi.org/10.35542/osf.io/3nmgp_v1). EdArXiv preprint.
 
 ---
 
@@ -16227,8 +16227,8 @@ This study examines how a large-scale distance learning institution designed, im
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
 - [[taklif-ai-interest-based-personalized-assignments]]
 
-## Citation
-Bart Rienties et al. (2026). [*New systems of learning for distance learning institutions? A six-study review of implementing AIDA*](https://doi.org/10.1016/j.caeai.2026.100607). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Rienties, B., Coughlan, T., Domingue, J., & Herodotou, C. (2026). [*New systems of learning for distance learning institutions? A six-study review of implementing AIDA*](https://doi.org/10.1016/j.caeai.2026.100607). *Computers and Education: Artificial Intelligence*.
 
 ---
 
@@ -16319,8 +16319,8 @@ This study challenges the assumption that emotional design in educational AI pro
 - [[test-driven-ai-assisted-learning]]
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
 
-## Citation
-Zhuo Wang & Hui Pang (2026). [*Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers' language learning*](https://doi.org/10.1111/bjet.70078). British Journal of Educational Technology.
+## Citation## Citation
+Wang, Z., & Pang, H. (2026). [*Not a universal benefit: Examining the differential effects of emotional AI on L2 pre-service teachers' language learning*](https://doi.org/10.1111/bjet.70078). *British Journal of Educational Technology*.
 
 ---
 
@@ -16342,8 +16342,8 @@ This study investigated different collaboration modes and how they interact with
 - [[computational-thinking-ai-agent-creation]]
 - [[ai-in-the-wild-college]]
 
-## Citation
-Ching-Huei Chen & Kun Huang (2026). [*Not all collaboration benefits from competition: Collaboration modes in a computational thinking game*](https://doi.org/10.1111/bjet.70081). British Journal of Educational Technology.
+## Citation## Citation
+Chen, C.-H., & Huang, K. (2026). [*Not all collaboration benefits from competition: Collaboration modes in a computational thinking game*](https://doi.org/10.1111/bjet.70081). *British Journal of Educational Technology*.
 
 ---
 
@@ -16636,7 +16636,7 @@ The framework is conceptual and would benefit from empirical validation, but it 
 
 ## Citation
 
-(EdArXiv preprint, 2026). [*From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education*](https://osf.io/wudk7). EdArXiv.
+Nalyvaiko, O. (2026). [*From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education*](https://osf.io/wudk7). EdArXiv preprint.
 
 ---
 
@@ -16841,8 +16841,8 @@ The work contributes to understanding of [[collaborative-learning]] in education
 - [[efficiency-gain-illusion-ai-overreliance]]
 - [[critical-genai-use-predictors]]
 
-## Citation
-Kimmerle, J. (2026). [*Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction*](https://doi.org/10.35542/osf.io/b8zjk_v1). EdArXiv Preprint.
+## Citation## Citation
+Kimmerle, J. (2026). [*Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction*](https://doi.org/10.35542/osf.io/b8zjk_v1). EdArXiv preprint.
 
 ---
 
@@ -17637,8 +17637,8 @@ This study investigates the capacity of a large language model to generate forma
 - [[liang-genai-systematic-review-human-ai-2026]]
 - [[generative-refusal-ai-tools-for-thought]]
 
-## Citation
-Janka Pecuchova et al. (2026). [*Reimagining feedback through generative AI in engineering education*](https://doi.org/10.1016/j.caeai.2026.100574). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Pecuchova, J., Benko, L., & Drlik, M. (2026). [*Reimagining feedback through generative AI in engineering education*](https://doi.org/10.1016/j.caeai.2026.100574). *Computers and Education: Artificial Intelligence*.
 
 ---
 
@@ -18955,7 +18955,7 @@ This is the first multi-turn pedagogical RL framework specifically targeting spe
 - [[agentic-literacy-debt]]
 ## Citation
 
-[Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training](https://arxiv.org/abs/2605.30670).
+Lee, U., Na, J., Jeong, Y., Park, H., & Jang, Y. (2026). [Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training](https://arxiv.org/abs/2605.30670). arXiv:2605.30670.
 
 ---
 
@@ -19478,8 +19478,8 @@ This qualitative case study examines undergraduate students' engagement with Gen
 - [[generative-ai-reduced-study-time-math]]
 - [[generative-ai-guardrails-harm-learning]]
 
-## Citation
-Razia Isaeva et al. (2026). [*Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study*](https://doi.org/10.1016/j.caeai.2026.100606). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Isaeva, R., Caner, H. N., Caner, M., Giray, L., & Karadag, E. (2026). [*Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study*](https://doi.org/10.1016/j.caeai.2026.100606). *Computers and Education: Artificial Intelligence*.
 
 ---
 
@@ -19630,7 +19630,7 @@ This is one of the first systems to operationalize **human-AI co-agency** in cla
 - [[agentic-ai-education-scoping-review]]
 ## Citation
 
-[Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI](https://arxiv.org/abs/2605.29240).
+Park, J., Medhat, Y., Wai, H. P., Thajchayapong, P., & Goel, A. K. (2026). [Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI](https://arxiv.org/abs/2605.29240). arXiv:2605.29240.
 
 ---
 
@@ -20461,8 +20461,8 @@ This article reports on a Delphi study that created the Scaffolded AI Literacy (
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 - [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]]
 
-## Citation
-Kathryn MacCallum et al. (2026). [*The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education*](https://doi.org/10.1016/j.caeai.2026.100584). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+MacCallum, K., Parsons, D., & Mohaghegh, M. (2026). [*The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education*](https://doi.org/10.1016/j.caeai.2026.100584). *Computers and Education: Artificial Intelligence*.
 
 ---
 
@@ -20483,8 +20483,8 @@ This study examined the effects of pedagogical agents (real vs. virtual) and met
 - [[learning-to-prompt-adaptive-tutoring]]
 - [[icap-cognitive-engagement-llm-agents]]
 
-## Citation
-Ke Xu et al. (2026). [*The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning*](https://doi.org/10.1111/bjet.70064). British Journal of Educational Technology.
+## Citation## Citation
+Xu, K., Zhang, Q., Zhang, Y., Xu, H., Pi, Z., & Yang, J. (2026). [*The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning*](https://doi.org/10.1111/bjet.70064). *British Journal of Educational Technology*.
 
 ---
 
@@ -20769,7 +20769,7 @@ TEI demonstrates that simple lexical and structural signals can effectively stee
 - [[agents-that-teach-incidental-learning]]
 ## Citation
 
-[The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals](https://arxiv.org/abs/2605.30666).
+Shim, J., & Lee, U. (2026). [The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals](https://arxiv.org/abs/2605.30666). arXiv:2605.30666.
 
 ---
 
@@ -21002,8 +21002,8 @@ This study employed a three-layer analytical method combining cluster analysis, 
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 
-## Citation
-Tao He et al. (2026). [*Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning*](https://doi.org/10.1111/bjet.70082). British Journal of Educational Technology.
+## Citation## Citation
+He, T., Wu, X., Li, M., Xia, T., & Cao, X. (2026). [*Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning*](https://doi.org/10.1111/bjet.70082). *British Journal of Educational Technology*.
 
 ---
 
@@ -21330,8 +21330,8 @@ By adopting the Will, Skill, Tool (WST) model, this study explores how EMI stude
 - [[genai-usage-design-students-survey]]
 - [[genai-linguistic-diversity-academic-writing]]
 
-## Citation
-Pengzhan Yang & Wenqian Huang (2026). [*Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings*](https://doi.org/10.1111/bjet.70075). British Journal of Educational Technology.
+## Citation## Citation
+Yang, P., & Huang, W. (2026). [*Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings*](https://doi.org/10.1111/bjet.70075). *British Journal of Educational Technology*.
 
 ---
 
@@ -21608,7 +21608,7 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 
 ## Citation
 
-[Comprehensive Review of Intelligent Tutoring Systems](https://arxiv.org/abs/2507.18882v1).
+Zerkouk, M., Mihoubi, M., & Chikhaoui, B. (2025). [Comprehensive Review of Intelligent Tutoring Systems](https://arxiv.org/abs/2507.18882v1). *Journal of Computers in Education*.
 
 ---
 

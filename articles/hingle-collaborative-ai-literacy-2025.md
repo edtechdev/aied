@@ -70,4 +70,4 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 
 ## Citation
 
-[Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1).
+Hingle, A., & Johri, A. (2025). [Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1). arXiv:2508.15111.

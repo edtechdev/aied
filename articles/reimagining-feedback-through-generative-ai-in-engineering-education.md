@@ -23,5 +23,5 @@ This study investigates the capacity of a large language model to generate forma
 - [[liang-genai-systematic-review-human-ai-2026]]
 - [[generative-refusal-ai-tools-for-thought]]
 
-## Citation
-Janka Pecuchova et al. (2026). [*Reimagining feedback through generative AI in engineering education*](https://doi.org/10.1016/j.caeai.2026.100574). Computers and Education: Artificial Intelligence.
+## Citation## Citation
+Pecuchova, J., Benko, L., & Drlik, M. (2026). [*Reimagining feedback through generative AI in engineering education*](https://doi.org/10.1016/j.caeai.2026.100574). *Computers and Education: Artificial Intelligence*.

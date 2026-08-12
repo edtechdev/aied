@@ -25,4 +25,4 @@ Based on mastery learning theory, this study employed a quasi-experimental desig
 - [[ai-in-the-wild-college]]
 
 ## Citation
-Kai Wang et al. (2026). [*Effects of AI chatbot-supported cooperative flipped classroom on student collaboration, self-regulated learning and academic performance: A mastery learning perspective*](https://doi.org/10.1111/bjet.70079). British Journal of Educational Technology.
+Wang, K., Qin, S., Shen, Y., Guo, J., Ruan, Q., & Jia, T. (2026). [*Effects of AI chatbot-supported cooperative flipped classroom on student collaboration, self-regulated learning and academic performance: A mastery learning perspective*](https://doi.org/10.1111/bjet.70079). *British Journal of Educational Technology.*

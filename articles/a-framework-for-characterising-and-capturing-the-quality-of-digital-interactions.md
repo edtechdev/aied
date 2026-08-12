@@ -23,4 +23,4 @@ This study introduces a Digital Interactions Quality (DigIQ) framework and scale
 - [[precision-education-student-digital-twins-2026]]
 
 ## Citation
-Steven J. Howard et al. (2026). [*A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education*](https://doi.org/10.1111/bjet.70063). British Journal of Educational Technology.
+Howard, S. J., Lewis, K., Day, N., Peach, L., & Kervin, L. K. (2026). [*A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education*](https://doi.org/10.1111/bjet.70063). *British Journal of Educational Technology.*

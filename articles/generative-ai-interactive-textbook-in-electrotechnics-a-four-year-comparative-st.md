@@ -24,4 +24,4 @@ This four-year comparative study presents results of implementing a Generative-A
 - [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]]
 
 ## Citation
-Branislav Fecko et al. (2026). [*Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion*](https://doi.org/10.1016/j.caeai.2026.100611). Computers and Education: Artificial Intelligence.
+Fecko, B., Dziak, J., Vince, T., & Molnár, J. (2026). [*Generative AI interactive textbook in electrotechnics: A four-year comparative study on student performance and inclusion*](https://doi.org/10.1016/j.caeai.2026.100611). *Computers and Education: Artificial Intelligence.*

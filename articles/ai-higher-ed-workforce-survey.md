@@ -65,4 +65,4 @@ The survey reveals a significant policy-awareness gap: despite near-universal AI
 
 ## Citation
 
-[The Impact of AI on Work in Higher Education](https://www.educause.edu/research/2026/the-impact-of-ai-on-work-in-higher-education).
+EDUCAUSE. (2026). [The Impact of AI on Work in Higher Education](https://www.educause.edu/research/2026/the-impact-of-ai-on-work-in-higher-education).

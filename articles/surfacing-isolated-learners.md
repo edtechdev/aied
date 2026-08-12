@@ -59,5 +59,4 @@ This is one of the first systems to operationalize **human-AI co-agency** in cla
 - [[agentic-ai-education-scoping-review]]
 ## Citation
 
-[Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI](https://arxiv.org/abs/2605.29240).
-
+Park, J., Medhat, Y., Wai, H. P., Thajchayapong, P., & Goel, A. K. (2026). [Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI](https://arxiv.org/abs/2605.29240). arXiv:2605.29240.

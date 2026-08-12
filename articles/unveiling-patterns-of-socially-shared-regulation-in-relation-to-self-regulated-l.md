@@ -24,5 +24,5 @@ This study employed a three-layer analytical method combining cluster analysis, 
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]]
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 
-## Citation
-Tao He et al. (2026). [*Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning*](https://doi.org/10.1111/bjet.70082). British Journal of Educational Technology.
+## Citation## Citation
+He, T., Wu, X., Li, M., Xia, T., & Cao, X. (2026). [*Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning*](https://doi.org/10.1111/bjet.70082). *British Journal of Educational Technology*.

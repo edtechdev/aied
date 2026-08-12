@@ -23,4 +23,4 @@ This study examines the critical influence of technical and structural factors o
 - [[agents-that-teach-incidental-learning]]
 
 ## Citation
-Rotimi Ogunsakin et al. (2026). [*Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms*](https://doi.org/10.1111/bjet.70066). British Journal of Educational Technology.
+Ogunsakin, R., Okonu, D., & Nwokeocha, P. (2026). [*Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms*](https://doi.org/10.1111/bjet.70066). *British Journal of Educational Technology.*

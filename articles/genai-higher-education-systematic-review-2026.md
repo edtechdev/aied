@@ -54,4 +54,4 @@ For policy and practice, the review underscores that the faculty readiness gap a
 
 ## Citation
 
-(EdArXiv preprint, 2026). [*Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)*](https://osf.io/ky4uj). EdArXiv.
+Rathnayake, P. B. (2026). [*Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)*](https://osf.io/ky4uj). EdArXiv preprint.

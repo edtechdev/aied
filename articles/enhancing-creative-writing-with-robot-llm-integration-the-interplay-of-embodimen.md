@@ -24,4 +24,4 @@ This study explores the impact of robot-LLM integration on collaborative creativ
 - [[teacher-ai-teaming-five-levels]]
 
 ## Citation
-Yuqing Liu & Yao Song (2026). [*Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement*](https://doi.org/10.1111/bjet.70071). British Journal of Educational Technology.
+Liu, Y., & Song, Y. (2026). [*Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement*](https://doi.org/10.1111/bjet.70071). *British Journal of Educational Technology.*

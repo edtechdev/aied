@@ -26,4 +26,4 @@ This paper addresses concerns that students use GenAI to submit texts they do no
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
 
 ## Citation
-Mohsen Ebrahimzadeh et al. (2026). [*Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence*](https://doi.org/10.1016/j.caeai.2026.100609). Computers and Education: Artificial Intelligence.
+Ebrahimzadeh, M., Shibani, A., & Shum, S. B. (2026). [*Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence*](https://doi.org/10.1016/j.caeai.2026.100609). *Computers and Education: Artificial Intelligence.*
