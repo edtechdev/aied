@@ -21,4 +21,4 @@ Recent work in Technology-Enhanced Learning and HumanComputer Interaction highli
 
 ## Citation
 
-Increases, W.A.A.F., System, H.I.A.I.T., Hladký, T.N.M., Rief[0009−0001−5787−3748], A.V., of, A.T.S.A.I.U.T.S.L.D., & adaptive, R.O.I.T.S.H.D.T. (2026). [*Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System*](https://arxiv.org/abs/2606.03822). particular, LLMs are prone to generating incorrect or misleading information, often referred to as hallucinations [4, 5]
+Nagashima, T., Hladký, M., & Rief, V. (2026). [*Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System*](https://arxiv.org/abs/2606.03822). arXiv:2606.03822.

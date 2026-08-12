@@ -132,4 +132,4 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 
 ## Citation
 
-Education, H., Du4, Y.Z.D.B.Z., 2025, R.D.A.N., Zhan, Y., Boud, D., Du, Z., & The, D.O.C.A.I.A.A.R.C. (2026). [*Authentic Assessment*](https://doi.org/10.1007/s10734-025-01588-9)
+Zhan, Y., Boud, D., & Du, Z. (2025). [*Designing for authentic assessment: a scoping review*](https://doi.org/10.1007/s10734-025-01588-9). *Higher Education*.

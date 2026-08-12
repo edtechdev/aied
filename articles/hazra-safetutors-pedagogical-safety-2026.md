@@ -71,4 +71,4 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 
 ## Citation
 
-acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). [*SafeTutors: Pedagogical Safety in AI Tutoring*](https://arxiv.org/abs/2603.17373)
+Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Stoyanovich, J., & Pechenizkiy, M. (2026). [*SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems*](https://arxiv.org/abs/2603.17373). arXiv:2603.17373.

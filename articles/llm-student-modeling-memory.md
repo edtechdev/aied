@@ -81,4 +81,4 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 
-Shan¹, A.C.N.C.F.Y.Z.H.Y.C., 2026, V.A.A.C., PERSONAMEM, I.B.B.O.P.A.O., & |, C.D. (2026). [*LLM Student Modeling and Long-Term Memory Architecture*](https://arxiv.org/abs/2604.13074)
+Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074). arXiv:2604.13074.

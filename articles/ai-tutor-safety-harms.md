@@ -75,4 +75,4 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - [[llm-fallacy-misattribution]]
 ## Citation
 
-acceptance), O.C.L.O.E.P., 1,237), S.I.P.M., |, D.C.C., |, I.E.S.D.A.O., & |, I.C.I.O.A.M. (2026). [*AI Tutor Safety and Pedagogical Harms*](https://arxiv.org/abs/2603.17373)
+Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Stoyanovich, J., & Pechenizkiy, M. (2026). [*SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems*](https://arxiv.org/abs/2603.17373). arXiv:2603.17373.

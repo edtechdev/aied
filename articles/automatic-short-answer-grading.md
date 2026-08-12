@@ -71,4 +71,4 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 
-Leibniz, A.D., |, S.M., entropy, Q.W.H.V.N.S., calibration, C.R.F.T.P.S.F., & Brier), E.S.P.A.R.M. (2026). [*Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200)
+Cong, L., Hahn, S., Gombert, S., Camus, L., Drachsler, H., & Kroehne, U. (2026). [*Confidence Estimation in Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200). arXiv:2605.00200.
