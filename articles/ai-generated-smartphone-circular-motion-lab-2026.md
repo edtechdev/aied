@@ -8,7 +8,7 @@ sources: ['raw/papers/2607.28352.md']
 confidence: high
 ---
 
-> **Synthesis:** Suñer et al. (2026) show that a fully customized, browser-based rotation laboratory can be generated entirely through natural-language prompting of an AI assistant, with no manual coding. Most smartphone physics experiments rely on precompiled sensor apps whose interfaces cannot be tailored to a specific activity, and customized labs previously required programming knowledge beyond most teachers. Using the AI-generated lab with a simple rotating platform, they characterize uniform circular motion (UCM) and uniformly accelerated circular motion (UACM), validating sensor measurements against independent video analysis with Tracker. The work connects to [[physics-education]], [[mobile-learning]], and [[generative-ai]] content creation.
+> **Synthesis:** Suñer et al. (2026) show that a fully customized, browser-based rotation laboratory can be generated entirely through natural-language prompting of an AI assistant, with no manual coding. Most smartphone physics experiments rely on precompiled sensor apps whose interfaces cannot be tailored to a specific activity, and customized labs previously required programming knowledge beyond most teachers. Using the AI-generated lab with a simple rotating platform, they characterize uniform circular motion (UCM) and uniformly accelerated circular motion (UACM), validating sensor measurements against independent video analysis with Tracker. The work connects to [[physics-education]], mobile learning, and [[generative-ai]] content creation.
 
 ## Customizing Smartphone Labs Without Code
 
@@ -25,9 +25,9 @@ The lab is used, together with a simple rotating platform, to characterize both 
 ## Connected Concepts
 
 - [[physics-education]]
-- [[mobile-learning]]
+- mobile learning
 - [[generative-ai]]
-- [[content-generation]]
+- [[generative-ai]]
 - [[stem-education]]
 - [[personalized-learning]]
 - [[scaffolding]]

@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.12278.md']
 confidence: high
 ---
 
-> **Synthesis:** Roy & Roy (2026) argue that the **infrastructure of AI** — training corpora, tokenization, benchmarks, deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural barrier rather than an isolated technical limitation. Using Bengali as a case in AI-assisted education, they document four interlocking failures: a web-presence gap (<0.5% of global content for ~4% of the population), a 67:1 English↔Bengali training-token deficit, a tokenization penalty from the alphasyllabary script, and connectivity exclusion (36.5% rural vs 71.4% urban internet penetration). They position **offline-first design** as an equity-oriented infrastructure strategy. The work connects to [[equity]], [[multilingual-learning]], and [[digital-divide]] debates in educational AI.
+> **Synthesis:** Roy & Roy (2026) argue that the **infrastructure of AI** — training corpora, tokenization, benchmarks, deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural barrier rather than an isolated technical limitation. Using Bengali as a case in AI-assisted education, they document four interlocking failures: a web-presence gap (<0.5% of global content for ~4% of the population), a 67:1 English↔Bengali training-token deficit, a tokenization penalty from the alphasyllabary script, and connectivity exclusion (36.5% rural vs 71.4% urban internet penetration). They position **offline-first design** as an equity-oriented infrastructure strategy. The work connects to [[equity]], [[language-learning]], and [[digital-divide]] debates in educational AI.
 
 ## Four Interlocking Infrastructure Failures
 
@@ -31,15 +31,15 @@ The authors argue dataset scarcity should be understood as a **structural barrie
 ## Connected Concepts
 
 - [[equity]]
-- [[multilingual-learning]]
+- [[language-learning]]
 - [[language-learning]]
 - [[digital-divide]]
-- [[global-south]]
-- [[inclusive-ai]]
+- [[equity-in-ai-education]]
+- [[equity-in-ai-education]]
 - [[ai-education]]
 - [[higher-ed]]
 - [[privacy]]
-- [[accessibility]]
+- [[accessible-learning]]
 
 ## Connected Articles
 

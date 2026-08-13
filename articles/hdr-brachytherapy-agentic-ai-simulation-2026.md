@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.08163.md']
 confidence: high
 ---
 
-> **Synthesis:** Xu et al. (2026) present an agentic AI-driven immersive simulation for training in **High Dose Rate (HDR) brachytherapy**, integrating VR and mobile computing to create a high-fidelity, risk-free environment for mastering complex procedural skills. A knowledge-aware assistant uses [[rag|Retrieval-Augmented Generation]] to ground agent interactions in authoritative clinical guidelines, providing natural-language interfaces and hands-free, real-time guidance during intricate maneuvers. A prototype on Meta Quest 3 with a local GPU-backed AI backend demonstrated feasible architecture with suitable latency and high context precision, answer completeness, and relevance. The work connects to [[simulation]], [[professional-training]], and [[health-education]] research.
+> **Synthesis:** Xu et al. (2026) present an agentic AI-driven immersive simulation for training in **High Dose Rate (HDR) brachytherapy**, integrating VR and mobile computing to create a high-fidelity, risk-free environment for mastering complex procedural skills. A knowledge-aware assistant uses [[rag|Retrieval-Augmented Generation]] to ground agent interactions in authoritative clinical guidelines, providing natural-language interfaces and hands-free, real-time guidance during intricate maneuvers. A prototype on Meta Quest 3 with a local GPU-backed AI backend demonstrated feasible architecture with suitable latency and high context precision, answer completeness, and relevance. The work connects to [[simulation]], [[professional-training]], and [[professional-training]] research.
 
 ## Immersive, Risk-Free Clinical Training
 
@@ -26,7 +26,7 @@ A prototype deployment comprising a Meta Quest 3 interface linked to a local GPU
 
 - [[simulation]]
 - [[professional-training]]
-- [[health-education]]
+- [[professional-training]]
 - [[rag]]
 - [[agentic-ai]]
 - [[multimodal]]

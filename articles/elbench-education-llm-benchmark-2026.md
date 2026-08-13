@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.09548.md']
 confidence: high
 ---
 
-> **Synthesis:** Jiang et al. (2026) introduce **ELBench**, the first benchmark to evaluate education-facing LLMs on all four required dimensions — General Capability, Safety and Trustworthiness, Basic Education, and High-Level Cultivation — under a common protocol, combining curated public sources with newly synthesized safety and cultivation data. Testing nine models, they find module-level profiles are more informative than a single aggregate: the top six models are statistically indistinguishable overall yet differ substantially by module leader, and safety is anti-correlated with practical teaching (r = −0.83). The two education-specialized models lead neither education module, and all models share a systematic blind spot on High-Level Cultivation's structured-judgment task. The work connects to [[benchmark]], [[ai-ed-evaluation]], and [[llm-evaluation]] frameworks.
+> **Synthesis:** Jiang et al. (2026) introduce **ELBench**, the first benchmark to evaluate education-facing LLMs on all four required dimensions — General Capability, Safety and Trustworthiness, Basic Education, and High-Level Cultivation — under a common protocol, combining curated public sources with newly synthesized safety and cultivation data. Testing nine models, they find module-level profiles are more informative than a single aggregate: the top six models are statistically indistinguishable overall yet differ substantially by module leader, and safety is anti-correlated with practical teaching (r = −0.83). The two education-specialized models lead neither education module, and all models share a systematic blind spot on High-Level Cultivation's structured-judgment task. The work connects to [[benchmark]], [[ai-ed-evaluation]], and [[ai-ed-evaluation]] frameworks.
 
 ## An Integrated Profile, Not a Single Score
 
@@ -25,10 +25,10 @@ A usable education-facing model must be accurate, safe under sensitive prompts, 
 ## Connected Concepts
 
 - [[benchmark]]
-- [[llm-evaluation]]
+- [[ai-ed-evaluation]]
 - [[ai-ed-evaluation]]
 - [[pedagogical-safety]]
-- [[safety]]
+- [[pedagogical-safety]]
 - [[generative-ai]]
 - [[llm]]
 - [[ai-tutoring]]

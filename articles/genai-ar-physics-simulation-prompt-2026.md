@@ -27,7 +27,7 @@ The paper describes the simulation's use in an introductory physics class, illus
 - [[physics-education]]
 - [[generative-ai]]
 - [[simulation]]
-- [[content-generation]]
+- [[generative-ai]]
 - [[stem-education]]
 - [[prompt-engineering]]
 - [[personalized-learning]]
