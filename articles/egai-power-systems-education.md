@@ -29,6 +29,10 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 ## Connected Articles
 
 
-## Citation
 
-Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). [Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework](https://arxiv.org/abs/2608.02599). arXiv:2608.02599. arXiv (cs.AI / eess.SY) preprint.
+- [[educational-vlm-evaluation]] — Educational VLM Evaluation
+- [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
+- [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
+- [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
+- [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics Visuals?
+- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2

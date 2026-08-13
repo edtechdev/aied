@@ -24,6 +24,10 @@ The findings extend concerns about cognitive offloading and skill decay from cla
 ## Connected Articles
 
 
-## Citation
 
-Abou Khamis, R., Assal, H., & Matrawy, A. (2026). [Unanticipated effects of generative AI on expertise pathways and performance perception in system administration](https://arxiv.org/abs/2607.28650). arXiv:2607.28650.
+- [[cognitive-commons-ai-expertise-regeneration]] — The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise
+- [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
+- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
+- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
+- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding

@@ -20,6 +20,10 @@ Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative L
 ## Connected Articles
 
 
-## Citation
 
-Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026). [Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics](https://arxiv.org/abs/2606.18692). arXiv:2606.18692.
+- [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization for Video-based Learning Analysis
+- [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
+- [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game
+- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
+- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes

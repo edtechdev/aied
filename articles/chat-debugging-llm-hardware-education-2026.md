@@ -21,6 +21,10 @@ Work-in-progress exploring LLMs as debugging assistants for physical hardware la
 ## Connected Articles
 
 
-## Citation
 
-Andrew Ash, & John Hu (2026). [WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant](https://arxiv.org/abs/2608.02420). arXiv:2608.02420. IEEE Frontiers in Education Conference (FIE) 2026.
+- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+- [[llm-diverse-explanations-programming]] — Exploring the Value of Diverse LLM Explanations in Introductory Programming
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
+- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+- [[reshaping-cs-education-genai]] — Reshaping Undergraduate Computer Science Education in the Generative AI Era
+- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning

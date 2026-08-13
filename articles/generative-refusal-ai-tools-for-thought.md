@@ -33,6 +33,10 @@ The position paper generalizes beyond theater: wherever the labor of articulatio
 ## Connected Articles
 
 
-## Citation
 
-Sora Kang (2026). [Stop Writing for Me: Generative Refusal in AI Tools for Thought](https://arxiv.org/abs/2607.24751). arXiv:2607.24751. cs.HC.
+- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
+- [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms: Looking back and forward
+- [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
+- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning

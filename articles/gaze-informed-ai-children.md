@@ -30,6 +30,10 @@ This paper contributes to the growing body of research on AI applications in edu
 ## Connected Articles
 
 
-## Citation
 
-Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit (2026). [Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration](https://arxiv.org/abs/2607.00445). arXiv:2607.00445. submitted 1 Jul 2026
+- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
+- [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
+- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
+- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
+- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
+- [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning

@@ -81,6 +81,10 @@ The paper illustrates these shifts through case studies of **multimodal tutoring
 ## Connected Articles
 
 
-## Citation
 
-Thomas, D. R., Borchers, C., Vanacore, K. P., Koedinger, K. R., & Kizilcec, R. F. (2026). [Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education](https://arxiv.org/abs/2603.29141). arXiv:2603.29141. Accepted to AIED 2026.
+- [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation
+- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
+- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
+- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
+- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
+- [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices

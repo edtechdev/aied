@@ -40,6 +40,10 @@ The study evaluated a single dataset drawn from three courses at one institution
 ## Connected Articles
 
 
-## Citation
 
-Misiejuk, K., López-Pernas, S., Oliveira, E. A., Eagan, B., & Saqr, M. (2026). [*Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis*](https://doi.org/10.1016/j.caeai.2026.100649).
+- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
+- [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
+- [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
+- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
+- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming

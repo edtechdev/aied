@@ -18,6 +18,10 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 - [[ai-literacy]]
 ## Connected Articles
 
-## Citation
 
-Lee, Y.-C., Boonprakong, N., Tan, Y., Soh, H., et al. (2026). [*Reshaping Undergraduate Computer Science Education in the Generative AI Era*](https://arxiv.org/abs/2606.07545). arXiv:2606.07545.
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
+- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
+- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
+- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education

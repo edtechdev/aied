@@ -27,6 +27,10 @@ The paper reframes expertise development as collective stewardship rather than o
 ## Connected Articles
 
 
-## Citation
 
-Lovett, N. (2026). [The tragedy of the cognitive commons: How AI could disrupt the regeneration of professional expertise. Human Resource Development Review](https://arxiv.org/abs/2607.29380). arXiv:2607.29380.
+- [[genai-expertise-pathways-sysadmin]] — Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
+- [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
+- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
+- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
+- [[ai-making-us-stupid]] — Is AI making us stupid?
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development

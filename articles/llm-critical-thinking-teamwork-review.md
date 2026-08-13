@@ -44,6 +44,10 @@ The authors explicitly list four limitations: (a) the search relied on the Web o
 
 ## Connected Articles
 
-## Citation
 
-Martínez-Peláez, R., Mena, L. J., Toral-Cruz, H., Ochoa-Brust, A., González Potes, A., Flores, V., Ostos, R., Ramírez Pacheco, J. C., Félix, R. A., & Félix, V. G. (2025). [*Can large language models foster critical thinking, teamwork, and problem-solving skills in higher education? A literature review*](https://doi.org/10.3390/systems13111013).
+- [[ai-assisted-collaborative-learning-model-dbr]] — Design-Based Research for Developing an AI-Assisted Collaborative Learning Model to Enhance Critical Thinking and Problem-Solving Skills in Higher Education
+- [[ai-collaborative-learning-skills-impacts]] — Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving
+- [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
+- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
+- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
+- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights

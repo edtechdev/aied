@@ -34,6 +34,10 @@ The findings advance understanding of how GenAI's sociolinguistic design feature
 ## Connected Articles
 
 
-## Citation
 
-Ravi, P., Stevens, C., Hurt, B., Hanks, B., Lin, G., & Anderson, E. (2026). [Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning](https://arxiv.org/abs/2606.12805). arXiv:2606.12805.
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding

@@ -19,6 +19,10 @@ Team-based projects are a cornerstone of engineering and computing courses, but 
 ## Connected Articles
 
 
-## Citation
 
-Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, Santosh Chandrasekhar (2026). [Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment](https://arxiv.org/abs/2606.15572). arXiv:2606.15572. CSCI 2025 (12th International Conference on Computational Science and Computational Intelligence).
+- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
+- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
+- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
+- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+- [[history-aware-student-simulation]] — Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues

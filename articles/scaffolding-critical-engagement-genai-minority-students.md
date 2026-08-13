@@ -27,6 +27,10 @@ Results indicate pedagogical scaffolding can transform how minoritized students 
 ## Connected Articles
 
 
-## Citation
 
-Wang, D., & Bian, C. (2026). [Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse in prompt engineering tasks. AIED 2026](https://arxiv.org/abs/2607.28630). arXiv:2607.28630.
+- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
+- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

@@ -57,5 +57,10 @@ The framework's relevance to education is twofold:
 ## Connected Articles
 
 
-## Citation
-Shouqi, S., Nazly, A., Wanniarachchi, J., & De Alwis, R. (2026). [*Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation*](https://arxiv.org/abs/2608.03166v1). arXiv:2608.03166v1.
+
+- [[detecting-llm-generated-text-latent-prompt]] — Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
+- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
+- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[agentic-workflows-education]] — Agentic Workflows in Education

@@ -25,6 +25,10 @@ This work connects to core wiki themes: [[stem-education]] [[intelligent-tutorin
 ## Connected Articles
 
 
-## Citation
 
-Chan, Chen, Hong, Song, Wang & Xu (2026). [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](https://arxiv.org/abs/2607.05412). arXiv:2607.05412. ISLS 2026 (arXiv preprint).
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
+- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
+- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation

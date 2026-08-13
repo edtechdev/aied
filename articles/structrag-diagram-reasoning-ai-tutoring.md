@@ -39,6 +39,10 @@ Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring 
 ## Connected Articles
 
 
-## Citation
 
-Sun, Y., Liao, Y., & Ma, X. (2026). Advancing diagram-based reasoning in AI tutoring systems: A structural approach for STEM education. [*Smart Learning Environments*](https://doi.org/10.1186/s40561-026-00459-9). Advance online publication
+- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
+- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
+- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
+- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
+- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
+- [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models

@@ -33,6 +33,10 @@ The results speak directly to the debate over how computing educators should res
 ## Connected Articles
 
 
-## Citation
 
-Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). [Is Solving Better Than Evaluating GenAI Solutions?](https://arxiv.org/abs/2607.27586). arXiv:2607.27586. cs.CY, cs.AI.
+- [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?
+- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+- [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
+- [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction at a Large University

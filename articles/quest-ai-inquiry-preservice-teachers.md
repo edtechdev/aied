@@ -35,6 +35,10 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 ## Connected Articles
 
 
-## Citation
 
-Cao, D., Yan, Y., Xiong, A., & Wicks, D. (2026). [*Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers*](https://doi.org/10.1016/j.caeai.2026.100630).
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[amponsah-ai-acceptance-science-teachers-2026]] — Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
+- [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
+- [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?
+- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective

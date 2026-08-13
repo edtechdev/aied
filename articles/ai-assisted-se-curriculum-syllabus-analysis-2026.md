@@ -20,6 +20,10 @@ analyses 23 publicly available syllabi from upper-division, credit-bearing unive
 ## Connected Articles
 
 
-## Citation
 
-Geng, Francis et al. (2026). [Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis](https://arxiv.org/abs/2608.05898). arXiv:2608.05898.
+- [[curriculum-as-code-instructional-design-2026]] — Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education
+- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
+- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+- [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Rethinking Higher Education: From Fixed Curricula to Learnity Graphs
+- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights

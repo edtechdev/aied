@@ -34,6 +34,10 @@ The integrated framework — where adaptive survey insights flow into specialize
 ## Connected Articles
 
 
-## Citation
 
-Tang, J. (2026). [New AI-Driven Tools for Enhancing Campus Well-being: A Prevention and Intervention Approach](https://arxiv.org/abs/2605.10804) [PhD Dissertation, University of Missouri]. arXiv:2605.10804.
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
+- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
+- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion

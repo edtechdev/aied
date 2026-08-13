@@ -25,6 +25,10 @@ The work connects to broader debates on [[ai-literacy]] and [[student-experience
 ## Connected Articles
 
 
-## Citation
 
-Amrita Ganguly, Sai Sharanya Garika, Aditya Johri (2026). [Uncovering Students' Mental Models of Generative Artificial Intelligence](https://arxiv.org/abs/2607.11692). arXiv:2607.11692. arXiv preprint.
+- [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
+- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review

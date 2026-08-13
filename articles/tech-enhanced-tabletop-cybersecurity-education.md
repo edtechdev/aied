@@ -33,6 +33,10 @@ The work demonstrates how technology enhancement can close the gap between profe
 ## Connected Articles
 
 
-## Citation
 
-Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). [Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned](https://arxiv.org/abs/2607.28179). arXiv:2607.28179. cs.CY, cs.CR.
+- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
+- [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio
+- [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
+- [[q-learning-lab-rl-teaching]] — Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis
+- [[llm-design-problems-hot-pjbl]] — LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
+- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs

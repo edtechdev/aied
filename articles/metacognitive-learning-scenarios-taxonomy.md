@@ -40,6 +40,10 @@ The taxonomy enables targeted, scenario-specific professional development interv
 ## Connected Articles
 
 
-## Citation
 
-Gibson, D. C., Azukas, M. E., & Yilmaz Soylu, M. (2026). [A taxonomy of metacognitive learning scenarios in professional contexts: Integrating systems theory with empirical constraints](https://arxiv.org/abs/2605.24142). arXiv:2605.24142. cs.HC.
+- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
+- [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning

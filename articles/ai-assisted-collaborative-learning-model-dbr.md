@@ -44,6 +44,10 @@ The study demonstrates that **AI functions most effectively as a collaborative l
 
 ## Connected Articles
 
-## Citation
 
-Putra, A. D., Wijanarko, F., & Safitri, N. (2026). [*Design-based research for developing an AI-assisted collaborative learning model to enhance critical thinking and problem-solving skills in higher education*](https://educationresourcescenter.com/jel/article/view/59).
+- [[ai-collaborative-learning-skills-impacts]] — Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving
+- [[llm-critical-thinking-teamwork-review]] — Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
+- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI chatbot design principles to enhance the collective efficacy in collaborative learning
+- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+- [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade

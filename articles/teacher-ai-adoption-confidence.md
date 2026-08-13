@@ -27,6 +27,10 @@ This paper provides empirical clarity for [[teacher-role]] policy: institutional
 ## Connected Articles
 
 
-## Citation
 
-Sibug, V. B., Cruz, M. A. D., Vital, V. P., Grume, J. C., Gamboa, A. B., Fernando, E. Q., Feliciano, L. D., Salenga, J. L., & Miranda, J. P. P. (2026). [AI adoption among teachers: Insights on concerns, support, confidence, and attitudes](https://arxiv.org/abs/2605.00343). Proceedings of the 9th International Conference on Education and Multimedia Technology (ICEMT 2025), 267-269. arXiv:2605.00343.
+- [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
+- [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Development and evaluation of artificial intelligence literacy training for teacher education students

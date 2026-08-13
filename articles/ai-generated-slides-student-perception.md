@@ -27,6 +27,10 @@ The finding that coding assistants outperform dedicated education tools and gene
 ## Connected Articles
 
 
-## Citation
 
-Leinonen, J., Zhang, L., & Hellas, A. (2026). [AI-generated slides: Are they good? Can students tell?](https://arxiv.org/abs/2605.13532) Proceedings of the Western Canada Conference on Computing Education (WCCCE 2026). arXiv:2605.13532.
+- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
+- [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
+- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
+- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs

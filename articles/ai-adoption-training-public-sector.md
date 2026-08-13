@@ -39,6 +39,10 @@ The study is a concrete demonstration that [[ai-literacy]] behaves as a developm
 ## Connected Articles
 
 
-## Citation
 
-Vinicius Santana Gomes (2026). [The Main Barrier to AI Adoption in the Public Sector is Lack of Training](https://arxiv.org/abs/2606.01517). arXiv:2606.01517.
+- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
+- [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
+- [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
+- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI

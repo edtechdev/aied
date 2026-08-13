@@ -34,6 +34,10 @@ Expert evaluations compared TeachingCoach with a GPT-4o baseline in a zero-shot 
 ## Connected Articles
 
 
-## Citation
 
-Isabel Molnar et al. (2026). [TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors](https://arxiv.org/abs/2603.18189). arXiv:2603.18189. cs.AI.
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
+- [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
+- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers'' practices and perceptions
+- [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
+- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
+- [[didactical-teacher-assistant-dimensional-modeling]] — A didactical-driven teacher assistant for a dimensional modeling course

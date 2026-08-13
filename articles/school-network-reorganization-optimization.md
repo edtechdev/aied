@@ -40,5 +40,10 @@ As school districts worldwide face declining enrollments and budget pressures, A
 ## Connected Articles
 
 
-## Citation
-Ciacco, A., Di Puglia Pugliese, L., & Guerriero, F. (2026). [*School network reorganization under educational and spatial constraints using classical and quantum optimization*](https://arxiv.org/abs/2608.05427v1). arXiv:2608.05427v1.
+
+- [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
+- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well

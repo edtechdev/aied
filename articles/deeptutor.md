@@ -56,6 +56,10 @@ DeepTutor addresses a critical gap in [[intelligent-tutoring]]: the disconnect b
 ## Connected Articles
 
 
-## Citation
 
-Report, T., Personalized, D.T.A., & Tutoring, D.T.A.P. (2026). [*DeepTutor: Towards Agentic Personalized Tutoring*](https://arxiv.org/abs/2604.26962)
+- [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
+- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
+- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components

@@ -24,6 +24,10 @@ This BJET review synthesizes 56 empirical studies on GenAI in education, uniquel
 ## Connected Articles
 
 
-## Citation
 
-Liang, Z., Yang, K., Sha, L., Gašević, D., Yan, L., & Chen, G. (2026). [A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective](https://doi.org/10.1111/bjet.70055).
+- [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
+- [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
+- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Learning-to-learn in the age of generative AI: A scoping review and conceptual framework
+- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[quest-ai-inquiry-preservice-teachers]] — Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers

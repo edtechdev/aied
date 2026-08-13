@@ -25,6 +25,10 @@ This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feed
 ## Connected Articles
 
 
-## Citation
 
-Tseng, Seoror, Adda, Factor, Darabi, Matschke, Fu, Lin, Maram & Sinha (2026). [Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education](https://arxiv.org/abs/2607.06721). arXiv:2607.06721. arXiv preprint.
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
+- [[llm-diverse-explanations-programming]] — Exploring the Value of Diverse LLM Explanations in Introductory Programming
+- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata

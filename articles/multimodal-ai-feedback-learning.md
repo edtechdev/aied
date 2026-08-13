@@ -80,6 +80,10 @@ This is a strong result for AI feedback systems:
 ## Connected Articles
 
 
-## Citation
 
-Zhao, C. Q., Cao, J., Lin, J., & Koedinger, K. R. (2026). [LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback](https://arxiv.org/abs/2601.15280). arXiv:2601.15280. Accepted to LAK 2026.
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
+- [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
+- [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education

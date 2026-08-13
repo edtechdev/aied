@@ -30,6 +30,10 @@ This paper contributes to the growing body of research on AI applications in edu
 ## Connected Articles
 
 
-## Citation
 
-Sehrish Basir Nizamani, Zannah Ziew, Saad Nizamani, Khyati Goyal (2026). [Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work](https://arxiv.org/abs/2606.30860). arXiv:2606.30860. ACM SIGCSE Virtual 2026, submitted 29 Jun 2026
+- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
+- [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
+- [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
+- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
+- [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
+- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education

@@ -35,6 +35,10 @@ For [[equity]] in [[edtech-platform]] design, the proposal implies that generati
 ## Connected Articles
 
 
-## Citation
 
-Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026). [The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization](https://arxiv.org/abs/2606.15902). arXiv:2606.15902. NextGen Learning Interfaces Workshop, AIED 2026.
+- [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
+- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
+- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
+- [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement
