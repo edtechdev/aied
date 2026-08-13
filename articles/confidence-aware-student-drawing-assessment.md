@@ -61,3 +61,7 @@ Vision Transformer (ViT) with LoRA adaptation for automated scoring of student-d
 - [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
 - [[cong-confidence-asag-2026]] — Confidence-Aware Automatic Short Answer Grading
 - [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
+
+## Citation
+
+Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). [Confidence-Aware Automated Assessment of Student-Drawn Scientific Models](https://arxiv.org/abs/2606.20264). arXiv:2606.20264. arXiv cs.AI preprint.

@@ -26,3 +26,7 @@ TibetCPR is a low-cost, self-guided CPR training system that pairs depth-driven 
 - [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
 - [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
+
+## Citation
+
+Meng, Y., Chen, R., Liu, Z., & Ding, X. (2026). [*TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet*](https://arxiv.org/abs/2606.07765). arXiv:2606.07765.

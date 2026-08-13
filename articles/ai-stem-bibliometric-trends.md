@@ -31,3 +31,7 @@ This work connects to core wiki themes: [[stem-education]] [[intelligent-tutorin
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+
+## Citation
+
+Chan, Chen, Hong, Song, Wang & Xu (2026). [Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda](https://arxiv.org/abs/2607.05412). arXiv:2607.05412. ISLS 2026 (arXiv preprint).

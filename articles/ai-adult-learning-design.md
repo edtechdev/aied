@@ -51,3 +51,7 @@ A heuristic evaluation of the original deployed systems against the guidelines d
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
 - [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
+
+## Citation
+
+Reddig, J.M., Jr, G.R.S., authors), S.A.S.E.A., & 2026, D. (2026). [*Guidelines for Designing AI Technologies to Support Adult Learning*](https://arxiv.org/abs/2605.04616)

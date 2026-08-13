@@ -33,3 +33,7 @@ Large language models (LLMs) power educational applications from tutoring to ess
 - [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 - [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
+
+## Citation
+
+Unggi Lee, Sookbun Lee, Yeil Jeong, Eunjoo Lee, Minchul Shin, & Hoilym Kwon (2026). [EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners](https://arxiv.org/abs/2608.03206). arXiv:2608.03206. arXiv:2608.03206 [cs.CY].

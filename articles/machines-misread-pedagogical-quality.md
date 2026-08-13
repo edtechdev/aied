@@ -27,3 +27,7 @@ Tseng et al. (2026) investigate human-machine alignment in LLM-based pretest que
 - [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
+
+## Citation
+
+Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026). [Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation](https://arxiv.org/abs/2606.23629). arXiv:2606.23629. arXiv:2606.23629 (cs.HC)

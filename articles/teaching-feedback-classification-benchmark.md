@@ -47,3 +47,7 @@ Institutions collect far more open-ended teaching-evaluation feedback than they 
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers'' practices and perceptions
+
+## Citation
+
+Esteban U. Vega Barajas (2026). [A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873). arXiv:2607.11873. arXiv preprint.

@@ -37,3 +37,7 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
 - [[commenting-copilot-student-code-specs]] — Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications
 - [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+
+## Citation
+
+Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan (2026). [Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2](https://arxiv.org/abs/2606.30908). arXiv:2606.30908. SIGCSE Virtual 2026, submitted 29 Jun 2026

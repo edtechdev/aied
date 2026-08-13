@@ -34,3 +34,7 @@ The study contributes design considerations for [[edtech-platform|educational te
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
+
+## Citation
+
+Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026). [Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study](https://arxiv.org/abs/2606.26565). arXiv:2606.26565. arXiv cs.HC.

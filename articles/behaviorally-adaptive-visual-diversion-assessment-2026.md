@@ -34,3 +34,7 @@ Institutions increasingly rely on browser lockdown, webcam monitoring, and behav
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness: The AI Assessment Scale and the work of assessment reform
+
+## Citation
+
+Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, & Parali Prajithaa (2026). [Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery](https://arxiv.org/abs/2608.03531). arXiv:2608.03531. arXiv:2608.03531 [cs.AI].

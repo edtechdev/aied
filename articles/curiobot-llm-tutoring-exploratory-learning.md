@@ -26,3 +26,7 @@ Ganganath et al. (2026) introduce CURIOBOT, a framework that operationalizes Ber
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
 - [[llm-reasoning-traces-metacognition]] — Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
+
+## Citation
+
+Gevindu Ganganath, Pasindu Bolonghege, Qianru Lyu, Pradeep Varakantham, Thivya Kandappu (2026). [Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior](https://arxiv.org/abs/2606.22349). arXiv:2606.22349. arXiv:2606.22349 (cs.CL; cs.HC) — submitted to EMNLP 2026

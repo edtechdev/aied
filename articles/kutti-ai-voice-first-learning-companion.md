@@ -32,3 +32,7 @@ The paper is a systems contribution rather than an efficacy study — no learnin
 - [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
+
+## Citation
+
+Kadharmoideen Fadurudeen (2026). [Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children](https://arxiv.org/abs/2607.22377). arXiv:2607.22377. arXiv preprint.

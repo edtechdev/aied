@@ -31,3 +31,7 @@ This work connects to core wiki themes: [[over-reliance]] [[student-experience]]
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
+
+## Citation
+
+Lane (2026). [AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass](https://arxiv.org/abs/2607.05557). arXiv:2607.05557. AIED 2026, LNCS 3032 (Springer).

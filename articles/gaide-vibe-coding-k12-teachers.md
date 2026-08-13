@@ -31,3 +31,7 @@ This work connects to core wiki themes: [[k-12]] [[teacher-role]] [[ai-literacy]
 - [[concept-catalyst-k12-teacher]] — Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI
 - [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+
+## Citation
+
+Song, Choi, Kim, Kim, Weisberg & Moon (2026). [A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding](https://arxiv.org/abs/2607.05406). arXiv:2607.05406. arXiv preprint.

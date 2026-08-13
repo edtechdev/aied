@@ -47,3 +47,7 @@ The position paper generalizes beyond theater: wherever the labor of articulatio
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 - [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
 - [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
+
+## Citation
+
+Sora Kang (2026). [Stop Writing for Me: Generative Refusal in AI Tools for Thought](https://arxiv.org/abs/2607.24751). arXiv:2607.24751. cs.HC.

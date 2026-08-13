@@ -32,3 +32,7 @@ The positive educator response to perceived value and usability suggests that AI
 - [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
 - [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+
+## Citation
+
+Yuri Noviello, Anastasiia Birillo, Gosia Migut (2026). [ANVIL: Analogies and Videos for Lecturers](https://arxiv.org/abs/2605.16295). arXiv:2605.16295. arXiv:2605.16295 [cs.CY; cs.AI; cs.CL; cs.GR; cs.HC; cs.MM].

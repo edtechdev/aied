@@ -35,3 +35,7 @@ Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative L
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
+
+## Citation
+
+Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujillo (2026). [Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics](https://arxiv.org/abs/2606.18692). arXiv:2606.18692.

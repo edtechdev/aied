@@ -31,3 +31,7 @@ The work situates team problem-solving assessment within [[cs-education]] and br
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
 - [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
+
+## Citation
+
+Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk, Pavel Čeleda, et al. (2026). [Assessment in Team Problem-Solving Exercises in Computing Education](https://arxiv.org/abs/2607.19209). arXiv:2607.19209. arXiv:2607.19209 [cs.CY].

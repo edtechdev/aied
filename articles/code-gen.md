@@ -80,3 +80,7 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 - [[llm-difficulty-calibration-programming-exams-2026]] — From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
+
+## Citation
+
+RAG-Based, C.A.H., Question, A.A.S.F.M., Frederick, X.D., Wang1, A.C., multiple-choice, A.A.I.W.A.G.A.P., 2,016, J.A.Q.T.S.P.A.T.O., & generation, H.A.A.E.I.A.E.C. (2026). [*CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation*](https://arxiv.org/abs/2604.03926)

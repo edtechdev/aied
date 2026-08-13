@@ -35,3 +35,7 @@ MedEasy: Designing AI Standardized Patients for Clinical Consultation Training i
 - [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
 - [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
 - [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+
+## Citation
+
+Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng, Jiahuan Pei, Jie Li, Benyou Wang (2026). [MedEasy: Designing AI Standardized Patients for Clinical Consultation Training](https://arxiv.org/abs/2606.17512). arXiv:2606.17512.

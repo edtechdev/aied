@@ -47,3 +47,7 @@ The absence of performance differences across usage clusters underscores the nee
 - [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
 - [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
+
+## Citation
+
+Marina Lepp (2026). [Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course](https://arxiv.org/abs/2607.24755). arXiv:2607.24755. cs.HC, cs.AI, cs.CY.

@@ -37,3 +37,7 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 - [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 - [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
+
+## Citation
+
+Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni (2026). [ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education](https://arxiv.org/abs/2606.30662). arXiv:2606.30662. submitted 17 Jun 2026

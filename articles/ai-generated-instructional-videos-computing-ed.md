@@ -47,3 +47,7 @@ The results give computing instructors an evidence base for purposeful use: AI-g
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
 - [[solving-vs-evaluating-genai-solutions]] — Is Solving Better Than Evaluating GenAI Solutions?
+
+## Citation
+
+Esse Ciego, Shubbhi Taneja, Wilson Wong, Amanpreet Kapoor (2026). [Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education](https://arxiv.org/abs/2607.28203). arXiv:2607.28203. cs.HC.

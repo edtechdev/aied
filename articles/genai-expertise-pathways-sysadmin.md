@@ -40,3 +40,7 @@ The findings extend concerns about cognitive offloading and skill decay from cla
 - [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
 - [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
+
+## Citation
+
+Abou Khamis, R., Assal, H., & Matrawy, A. (2026). [Unanticipated effects of generative AI on expertise pathways and performance perception in system administration](https://arxiv.org/abs/2607.28650). arXiv:2607.28650.

@@ -39,3 +39,7 @@ Conventional AI writing tools that generate or rewrite text risk creating cognit
 - [[moodle-ai-tutoring-deep-learning]] — From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle
 - [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
+
+## Citation
+
+Zhou, A.R.B.S.W.Y. & place), V.N.E.H. (2026). [*Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing*](https://arxiv.org/abs/2605.05598)

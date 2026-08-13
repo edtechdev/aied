@@ -31,3 +31,7 @@ The framework emphasizes [[equity|cultural contextualization]] of AI tools, comm
 - [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+
+## Citation
+
+Zhao, J., Zhang, W., Cai, J., Gao, H., & Zhang, L. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. [arXiv:2606.09041](https://arxiv.org/abs/2606.09041).

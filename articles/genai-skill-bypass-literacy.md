@@ -31,3 +31,7 @@ This work connects to core wiki themes: [[ai-literacy]] [[higher-ed]] [[over-rel
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+
+## Citation
+
+Oliveira, English, Ryan, Misiejuk, dal Ponte, Lopez-Pernas & Saqr (2026). [The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy](https://arxiv.org/abs/2607.05411). arXiv:2607.05411. arXiv preprint.

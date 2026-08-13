@@ -30,3 +30,7 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[equ
 - [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
+
+## Citation
+
+Cynthia Zastudil, Srishty Muthusekaran, Rayhona Nasimova, Stephen MacNeil (2026). ["I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning](https://arxiv.org/abs/2605.23823). arXiv:2605.23823. arXiv preprint (cs.HC).

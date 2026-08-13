@@ -49,3 +49,7 @@ For educational applications of [[llm]]s, the results indicate that the structur
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
 - [[generativism-learning-theory]] — Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
+
+## Citation
+
+Jiawen Tao, Miao Peng, Yaoming Li, Xiaokun Yuan, Mengzhou Wu (2026). [Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training](https://arxiv.org/abs/2607.28109). arXiv:2607.28109. cs.AI.

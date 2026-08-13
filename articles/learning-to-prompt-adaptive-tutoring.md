@@ -61,3 +61,7 @@ Adaptive LLM tutoring with subject-aware prompt routing based on 14 pedagogical 
 - [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
 - [[special-r1-rl-special-education]] — Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training
+
+## Citation
+
+Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer (2026). [Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring](https://arxiv.org/abs/2606.20138). arXiv:2606.20138. arXiv cs.AI preprint.

@@ -49,3 +49,7 @@ For science education, the argument reorients design: the many factors reported 
 - [[shame-guilt-ai-regulation-computing-education]] — Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
+
+## Citation
+
+Marcus Kubsch (2026). [AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation](https://arxiv.org/abs/2606.16822). arXiv:2606.16822. arXiv preprint (physics.ed-ph).

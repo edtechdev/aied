@@ -36,3 +36,7 @@ presents CourseGraph, a methodology for automatically evaluating external course
 - [[universities-ai-era-rethinking]] — The University AI Didn''t Replace: Rethinking Universities in the AI Era
 - [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
 - [[cross-cultural-student-perceptions-genai-computing]] — Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education
+
+## Citation
+
+Nijdam, Arthur, Wagner, Paul Stankovski, & Ramezanian, Sara (2026). [CourseGraph: Finding overlaps and differences in Computer Science courses across universities](https://arxiv.org/abs/2608.05910). arXiv:2608.05910.

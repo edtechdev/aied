@@ -40,3 +40,7 @@ The work connects AI-based attention estimation to instructional design practice
 - [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
+
+## Citation
+
+Zhou, S., Shen, M., Wen, X., Qiu, Z., Jiang, Y., Wu, X., Wu, F., Wang, Y., & Zhou, Z. (2026). [SAVVY: Student attention visualization for video-based learning analysis](https://arxiv.org/abs/2607.29413). arXiv:2607.29413.

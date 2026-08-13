@@ -50,3 +50,7 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+
+## Citation
+
+Jaward Sesay, Yue Yu, Siwei Dong, Yemin Shi, Guangyao Chen, Borje F. Karlsson (2026). [LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching](https://arxiv.org/abs/2606.16428). arXiv:2606.16428. arXiv cs.CL.

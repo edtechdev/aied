@@ -31,3 +31,7 @@ Frames AI literacy 'for all' as an [[equity]] problem rooted in [[k-12]] curricu
 - [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 - [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+
+## Citation
+
+Adrian-Marius Dumitran, Iulia-Maria Popescu (2026). [Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis](https://arxiv.org/abs/2607.11314). arXiv:2607.11314. arXiv preprint.

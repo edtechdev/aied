@@ -39,3 +39,7 @@ The system addresses a practical infrastructure gap in multi-site education: VR 
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
 - [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+
+## Citation
+
+Wataru, I., & Nguyen, D. V. (2026). [*Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion*](https://arxiv.org/abs/2606.10325). arXiv:2606.10325.

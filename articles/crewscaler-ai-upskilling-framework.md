@@ -69,3 +69,7 @@ The paper identifies four gaps in existing frameworks:
 - [[astra-atco-training-simulator]] — ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 - [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
+
+## Citation
+
+Nguyen, T., Nguyen, H., & Ogburn, R. (2026). [*AI-accelerated End-to-End Framework for Rapid Professional Upskilling*](https://arxiv.org/abs/2607.14044). arXiv preprint.

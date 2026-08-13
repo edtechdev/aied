@@ -31,3 +31,7 @@ This study provides one of the largest empirical validations of LLM-based [[feed
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
 - [[llm-automated-assessment-student-self-explanations]] — Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
+
+## Citation
+
+Heickal, H., & Lan, A. (2026). A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming. [arXiv:2606.08807](https://arxiv.org/abs/2606.08807). Accepted at IRAISE 2026.

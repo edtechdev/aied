@@ -32,3 +32,7 @@ The finding that full automation reduces cognitive engagement echoes the [[over-
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+
+## Citation
+
+Kashika Khurana, Ally Liew (2026). [An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students](https://arxiv.org/abs/2606.26579). arXiv:2606.26579. arXiv cs.HC / cs.CY.

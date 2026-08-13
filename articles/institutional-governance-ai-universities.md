@@ -53,3 +53,7 @@ The study reveals a fundamental structural challenge in [[ai-education|AI govern
 - [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 - [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
+
+## Citation
+
+Manikonda, L., & Outlaw, D. (2026). [*Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools*](https://arxiv.org/abs/2608.03584v1). arXiv:2608.03584v1.

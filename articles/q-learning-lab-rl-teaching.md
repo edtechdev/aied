@@ -46,3 +46,7 @@ Reinforcement learning is usually introduced through the Bellman update, yet the
 - [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
+
+## Citation
+
+Ekkachai Jueng (2026). [Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis](https://arxiv.org/abs/2607.10802). arXiv:2607.10802. arXiv preprint.

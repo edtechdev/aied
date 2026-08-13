@@ -27,3 +27,7 @@ Pilot study on privacy-aware computer vision for classroom incident detection. I
 - [[turtleai-visual-programming-benchmark]] — TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
 - [[antiskillbench-persona-skills-privacy-2026]] — When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills
+
+## Citation
+
+Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, & Chiat Pin Tay (2026). [Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition](https://arxiv.org/abs/2608.05115). arXiv:2608.05115. arXiv preprint (cross-listed cs.CV/cs.HC).

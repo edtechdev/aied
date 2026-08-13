@@ -31,3 +31,7 @@ This work directly informs the design of [[formative-assessment|AI writing feedb
 - [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
+
+## Citation
+
+Liu, Y., Song, Y., Gallagher, J., Sterman, S., & August, T. (2026). FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays. [arXiv:2606.06271](https://arxiv.org/abs/2606.06271).

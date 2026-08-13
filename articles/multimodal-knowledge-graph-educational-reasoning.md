@@ -61,3 +61,7 @@ The auditable construction method is the key contribution — unlike black-box k
 - [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
 - [[leveraging-complex-systems-leading-for-transformative-change]] — Leveraging complex systems: Leading for transformative change
+
+## Citation
+
+Al Farib, S., Meem, M. A., Islam, S. R., & Raihan, M. T. (2026). [*Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning*](https://arxiv.org/abs/2608.03161v1). arXiv:2608.03161v1.

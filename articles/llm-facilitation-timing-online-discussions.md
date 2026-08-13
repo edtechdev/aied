@@ -56,3 +56,7 @@ For online learning environments — MOOC-style forums and classroom discussion 
 - [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualisations as engagement tools
 - [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
 - [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work
+
+## Citation
+
+Tsirmpas, D., Korre, K., & Pavlopoulos, J. (2026). [To facilitate or not to facilitate: Human and LLM facilitator tendencies in online discussions](https://arxiv.org/abs/2607.28643). arXiv:2607.28643.

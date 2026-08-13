@@ -46,3 +46,7 @@ DPs appear to be a **useful complement to traditional assessments**, particularl
 - [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
 - [[mllm-scientific-visualization-literacy]] — Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
+
+## Citation
+
+Ahmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026). [LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning](https://arxiv.org/abs/2607.11032). arXiv:2607.11032. arXiv preprint.

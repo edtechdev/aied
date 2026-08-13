@@ -31,3 +31,7 @@ Practical implication: if deployed at scale, AI feedback scaffolding could be es
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers'' practices and perceptions
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+
+## Citation
+
+Romina Mahinpei, Victoria Dean, Ruth Fong, Lydia T. Liu, Manoel Horta Ribeiro (2026). [AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education](https://arxiv.org/abs/2606.03095). arXiv:2606.03095. arXiv.
