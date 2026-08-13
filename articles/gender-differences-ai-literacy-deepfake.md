@@ -27,14 +27,14 @@ The study surveyed Australian secondary students in **Years 7, 8, and 10 (Npre =
 
 ## Implications for AI in Education
 
-For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive curriculum design**: engagement patterns differ by gender before instruction — females already using AI for schoolwork, males more engaged with deepfake content — so safety education and career aspiration support should be differentiated rather than uniform. The partial narrowing of the STEM career gap after a single-day intervention suggests short, well-designed workshops can be an effective [[equity]] lever in [[stem-education]], while the deepfake findings point to a concrete safety target for male students.
+For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive curriculum design**: engagement patterns differ by gender before instruction — females already using AI for schoolwork, males more engaged with deepfake content — so safety education and career aspiration support should be differentiated rather than uniform. The partial narrowing of the STEM career gap after a single-day intervention suggests short, well-designed workshops can be an effective [[equity-in-ai-education]] lever in [[stem-education]], while the deepfake findings point to a concrete safety target for male students.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
 - [[administrator]]
 - [[teacher-ai-competency]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[bias-mitigation]]
 - [[agentic-ai]]
 - [[k-12-ai-education]]

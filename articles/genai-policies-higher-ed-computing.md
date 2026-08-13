@@ -33,7 +33,7 @@ The study performs a **secondary/document analysis** comparing institutional pol
 
 ## Implications for AI in Education
 
-For [[ai-governance-education]], the finding that institutional guidance is pro-use while classroom practice is restrictive suggests that effective governance requires **translating policy into concrete instructor support**, not just issuing top-down documents — otherwise instructors improvise inconsistent local rules. For computing education specifically, the study positions CS as the canary discipline for GenAI adoption: high student uptake forces instructors to confront policy gaps first. The authors characterize both levels as sending "mixed messages" because institutions and educators are **playing catch-up to student use**, compounded by fast-moving, vendor-controlled access. The gap between policy intent and classroom practice connects to [[educational-policy-ai]] and [[equity]] debates about who sets AI-use rules and how consistently they apply across courses and students, and to [[teacher-ai-adoption-confidence]] — uneven instructor readiness to translate guidance into everyday practice.
+For [[ai-governance-education]], the finding that institutional guidance is pro-use while classroom practice is restrictive suggests that effective governance requires **translating policy into concrete instructor support**, not just issuing top-down documents — otherwise instructors improvise inconsistent local rules. For computing education specifically, the study positions CS as the canary discipline for GenAI adoption: high student uptake forces instructors to confront policy gaps first. The authors characterize both levels as sending "mixed messages" because institutions and educators are **playing catch-up to student use**, compounded by fast-moving, vendor-controlled access. The gap between policy intent and classroom practice connects to [[educational-policy-ai]] and [[equity-in-ai-education]] debates about who sets AI-use rules and how consistently they apply across courses and students, and to [[teacher-ai-adoption-confidence]] — uneven instructor readiness to translate guidance into everyday practice.
 
 ## Limitations
 
@@ -47,7 +47,7 @@ For [[ai-governance-education]], the finding that institutional guidance is pro-
 - [[ai-education]]
 - [[ai-governance-education]]
 - [[educational-policy-ai]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 - [[teacher-ai-adoption-confidence]]

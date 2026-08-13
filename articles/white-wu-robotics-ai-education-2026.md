@@ -14,7 +14,7 @@ confidence: high
 
 - **Geographically concentrated research:** Most AI and robotics education studies come from a small number of countries, limiting generalizability.
 - **Methodologically short-term:** Few longitudinal studies exist, making it difficult to assess lasting impacts on learning-gains and student outcomes.
-- **Equity gap:** Insufficient attention to [[equity]], human-centred design, and social implications of automation in education.
+- **Equity gap:** Insufficient attention to [[equity-in-ai-education]], human-centred design, and social implications of automation in education.
 - **Policy gaps:** [[educational-policy-ai|AI education policies]] lag far behind technological deployment.
 
 ## Implications
@@ -26,7 +26,7 @@ This critique of the AIED research landscape connects to broader [[ai-governance
 - [[ai-education]]
 - [[ai-literacy]]
 - [[ethics]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 - [[ai-governance-education]]
 - [[faculty-development]]

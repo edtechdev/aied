@@ -14,7 +14,7 @@ confidence: medium
 - [[faculty-development]]
 - [[intelligent-tutoring]]
 - [[adaptive-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[regulation]]
 - [[over-reliance]]
 - [[teacher-role]]

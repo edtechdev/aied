@@ -10,13 +10,13 @@ confidence: high
 
 Bowed string performance depends on fine bodily coordination usually taught through visual demonstration, creating persistent barriers for musicians with blindness and low-vision (BLV). This design study worked with four advanced BLV string musicians and three instructors using practice-video analysis, lesson observation, and expert reflection to surface embodied, non-visual learning strategies.
 
-The work extends [[special-education]] and special-education-ai by centring disability-led, embodied design rather than retrofitted accessibility. It complements [[accessible-learning]] and [[neurodivergent-computing-students]] research on inclusive interfaces, and frames the instructor role through [[equity]] in one-on-one music training, with implications for [[higher-ed]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
+The work extends [[special-education]] and special-education-ai by centring disability-led, embodied design rather than retrofitted accessibility. It complements [[accessible-learning]] and [[neurodivergent-computing-students]] research on inclusive interfaces, and frames the instructor role through [[equity-in-ai-education]] in one-on-one music training, with implications for [[higher-ed]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
 
 ## Connected Concepts
 
 - [[special-education]]
 - [[accessible-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[higher-ed]]
 ## Connected Articles
 

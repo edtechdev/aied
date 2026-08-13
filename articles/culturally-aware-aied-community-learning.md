@@ -12,13 +12,13 @@ Reports on cross-boundary Community-Based Learning where undergraduate students 
 
 **Contributions:** Examines how community-engaged computing operationalizes human-centered [[intelligent-tutoring|AIED]] across three dimensions: education, technology, and culture. Proposes a collaborative framework for [[ai-literacy|culturally-aware AIED]] that fosters multi-stakeholder collaboration while widening participation by dissolving disciplinary silos between social work and computational science.
 
-The framework emphasizes [[equity|cultural contextualization]] of AI tools, community-driven problem identification, and [[student-experience|student-centered]] design processes. Relevant to [[higher-ed|higher education]] contexts seeking to integrate AI education with socially meaningful projects.
+The framework emphasizes [[equity-in-ai-education|cultural contextualization]] of AI tools, community-driven problem identification, and [[student-experience|student-centered]] design processes. Relevant to [[higher-ed|higher education]] contexts seeking to integrate AI education with socially meaningful projects.
 
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
 - [[ai-literacy]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[student-experience]]
 - [[higher-ed]]
 ## Connected Articles

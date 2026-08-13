@@ -15,7 +15,7 @@ confidence: high
 - **Essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] use prompting strategies to approach human-level reliability. [[aiawe-automated-writing-evaluation|AIAWE]] extends automated evaluation to broader writing assessment.
 - **Code review:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]] and [[code-review-genai-cs1|CS1 code review]] demonstrate automated assessment in computing education.
 - **Formative assessment integration:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] show how automated grading feeds into [[formative-assessment]] cycles.
-- **Bias and fairness:** [[ai-scoring-language-bias-physics|Language bias in physics scoring]] documents how automated grading can disadvantage non-native speakers — connecting to [[bias-mitigation]] and [[equity]].
+- **Bias and fairness:** [[ai-scoring-language-bias-physics|Language bias in physics scoring]] documents how automated grading can disadvantage non-native speakers — connecting to [[bias-mitigation]] and [[equity-in-ai-education]].
 
 ### Connections
 
@@ -29,7 +29,7 @@ Automated grading connects to [[assessment-validity]] (do automated scores measu
 - [[ai-feedback-quality]]
 - [[bias-mitigation]]
 - [[confidence-aware-ai-assessment]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[teacher-role]]
 - [[llm]]
 - [[generative-ai]]

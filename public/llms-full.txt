@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 596 articles and 131 concepts.
+> Complete text of 596 articles and 130 concepts.
 
 # Articles
 
@@ -695,14 +695,14 @@ The between-subjects mixed-methods study involved 33 teachers interacting with a
 2. **Indian- and African American-accented agents** were more readily **anthropomorphized** and **integrated as peers** — building stronger trust, engagement, and reliance over time.
 3. These role expectations influenced collaboration dynamics: turn-taking, questioning patterns, and perceived social presence all shifted based on accent condition.
 
-The findings advance understanding of how GenAI's sociolinguistic design features shape group dynamics in CSCL (computer-supported collaborative learning), with implications for designing [[equity|culturally inclusive AI partners]]. The work connects to [[human-ai-collaboration]] debates about [[teacher-role|teacher and AI roles]] in collaborative classrooms, and raises important questions about [[ai-literacy|how accent may inadvertently reinforce or disrupt power dynamics]] in educational AI.
+The findings advance understanding of how GenAI's sociolinguistic design features shape group dynamics in CSCL (computer-supported collaborative learning), with implications for designing [[equity-in-ai-education|culturally inclusive AI partners]]. The work connects to [[human-ai-collaboration]] debates about [[teacher-role|teacher and AI roles]] in collaborative classrooms, and raises important questions about [[ai-literacy|how accent may inadvertently reinforce or disrupt power dynamics]] in educational AI.
 
 ## Connected Concepts
 
 - [[generative-ai]]
 - [[k-12]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[human-ai-collaboration]]
 - [[teacher-role]]
 - [[ai-literacy]]
@@ -777,7 +777,7 @@ The review identifies several converging priorities:
 1. **Longitudinal and real-world validation** — moving beyond short-term lab studies
 2. **Stronger pedagogical grounding** — bridging the CS/education disciplinary divide
 3. **Governed adoption of emerging agent infrastructures** — particularly tool orchestration and multi-agent coordination
-4. **Systematic integration of ethics and human oversight** — connecting to [[equity]] and [[academic-integrity]] concerns
+4. **Systematic integration of ethics and human oversight** — connecting to [[equity-in-ai-education]] and [[academic-integrity]] concerns
 5. **Expanding beyond STEM and higher education** — into K-12, language learning, special education, and professional training contexts
 
 ## OpenClaw as an Analytical Lens
@@ -1201,7 +1201,7 @@ Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026)
 
 For [[teacher-ai-competency]] and [[teacher-role]] development, the findings point to a gap between teacher-candidates' enthusiasm for AI and their realized classroom use. The study's grounding in [[higher-ed]] and [[stem-education]] teacher preparation suggests that initial teacher education should move beyond awareness toward structured practice and [[faculty-development]] that closes the intention-to-use gap.
 
-Conducted in Ghana, the work also speaks to [[equity-in-ai-education]] and [[equity]] contexts where AI tools like ChatGPT are entering teacher education unevenly, with implications for [[educational-policy-ai]] and for building [[ai-literacy]] in institutions with limited infrastructure.
+Conducted in Ghana, the work also speaks to [[equity-in-ai-education]] and [[equity-in-ai-education]] contexts where AI tools like ChatGPT are entering teacher education unevenly, with implications for [[educational-policy-ai]] and for building [[ai-literacy]] in institutions with limited infrastructure.
 
 ## Connected Concepts
 
@@ -1955,7 +1955,7 @@ A large-scale experiment across **178 schools, ~19,000 high school seniors** tes
 
 **The most important finding:** The largest learning gains were on the most complex, highest-order writing task — precisely what AI is *least* equipped to evaluate. AI freed teachers to do what only they can do. This directly supports the [[feedback-loop]] and [[formative-assessment]] literature, extending it with causal evidence from a large-scale [[rct]].
 
-**Caveat:** The bottom quartile showed no improvement — freed-up teacher time alone wasn't sufficient. This connects to [[equity]] concerns about differential benefits from AI integration.
+**Caveat:** The bottom quartile showed no improvement — freed-up teacher time alone wasn't sufficient. This connects to [[equity-in-ai-education]] concerns about differential benefits from AI integration.
 
 ## Three Risks
 
@@ -1967,7 +1967,7 @@ Nearly half of educator-AI conversations involved assessment tasks, but some tea
 
 ### 3. Equity Divides
 - **Student level:** AI materials lack targeted supports for multilingual learners and students with disabilities — a 30% time reduction is net negative if it comes at the expense of vulnerable learners
-- **Teacher level:** Under-resourced teachers may simply use AI to keep pace rather than upgrade practice, widening the gap between well-supported and under-supported schools — a [[equity]] within the teaching profession itself
+- **Teacher level:** Under-resourced teachers may simply use AI to keep pace rather than upgrade practice, widening the gap between well-supported and under-supported schools — a [[equity-in-ai-education]] within the teaching profession itself
 
 ## What's Next: Agentic AI
 
@@ -2381,7 +2381,7 @@ Olya Kudina (2026). [Using AI in engineering education: a balancing act, driven 
 
 - Longitudinal Twitter/X analysis maps how the public debates AI ethics concerns in [[higher-ed]] and schools over time.
 - Surfaces the ethical concerns (bias, fairness, accountability) that educators and [[educational-policy-ai]]s must address for responsible adoption.
-- Ties public sentiment to [[equity]] questions about who benefits and who is harmed by GenAI in education.
+- Ties public sentiment to [[equity-in-ai-education]] questions about who benefits and who is harmed by GenAI in education.
 - Complements [[principled-ai-education]] frameworks by grounding them in real discourse rather than expert opinion alone.
 - Relevant to [[academic-integrity]] debates, as public concern shapes institutional response and policy.
 - Informs [[ai-literacy]] efforts: public discourse reveals the misconceptions needing pedagogical attention.
@@ -2390,7 +2390,7 @@ Olya Kudina (2026). [Using AI in engineering education: a balancing act, driven 
 
 - [[higher-ed]]
 - [[educational-policy-ai]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[academic-integrity]]
 - [[ai-literacy]]
 ## Connected Articles
@@ -3277,21 +3277,21 @@ Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous (2026). [Designing 
 
 Theodora and Tselios (2026) provide a policy-oriented synthesis of AI's dual role in adult and [[lifelong-learning]] contexts — as both an enabler of personalized, scalable education and a source of significant equity and governance challenges. Drawing on international policy frameworks, the paper argues that AI integration in adult education requires balanced policies promoting inclusion, transparency, and human-centered pedagogy.
 
-The paper fills a notable gap in the [[stanford-evidence-base-ai-k12-2026]] and related literature, which has predominantly focused on K-12 and higher education. Adult learners face distinct challenges: they are more likely to be affected by the [[equity]], have less institutional support than traditional students, and often engage in self-directed learning where AI tools may operate with minimal human oversight. The paper's emphasis on [[educational-policy-ai]] responsibilities connects to broader [[regulation]] discussions.
+The paper fills a notable gap in the [[stanford-evidence-base-ai-k12-2026]] and related literature, which has predominantly focused on K-12 and higher education. Adult learners face distinct challenges: they are more likely to be affected by the [[equity-in-ai-education]], have less institutional support than traditional students, and often engage in self-directed learning where AI tools may operate with minimal human oversight. The paper's emphasis on [[educational-policy-ai]] responsibilities connects to broader [[regulation]] discussions.
 
-Key tensions identified include the promise of [[intelligent-tutoring]] and [[learning-analytics]] for personalized workforce development versus risks of [[bias-mitigation]] and [[over-reliance]]. The call for "responsible innovation" aligns with [[equity]] frameworks in educational AI and echoes concerns about [[ai-tutor-safety-harms]] in contexts where adult learners may lack the support structures available in formal education. For [[faculty-development]] and [[teacher-role]] in adult education, the paper highlights the urgent need for educator training in AI literacy — a theme consistent with [[ai-pedagogical-orientation]] research.
+Key tensions identified include the promise of [[intelligent-tutoring]] and [[learning-analytics]] for personalized workforce development versus risks of [[bias-mitigation]] and [[over-reliance]]. The call for "responsible innovation" aligns with [[equity-in-ai-education]] frameworks in educational AI and echoes concerns about [[ai-tutor-safety-harms]] in contexts where adult learners may lack the support structures available in formal education. For [[faculty-development]] and [[teacher-role]] in adult education, the paper highlights the urgent need for educator training in AI literacy — a theme consistent with [[ai-pedagogical-orientation]] research.
 
 ## Connected Concepts
 
 - [[lifelong-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[educational-policy-ai]]
 - [[regulation]]
 - [[intelligent-tutoring]]
 - [[learning-analytics]]
 - [[bias-mitigation]]
 - [[over-reliance]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[faculty-development]]
 - [[teacher-role]]
 ## Connected Articles
@@ -3372,7 +3372,7 @@ This survey study collected data from 339 university students enrolled in econom
 
 ## Implications for AI in Education
 
-The study advances understanding of how higher education supports preparation for AI-intensive careers by clarifying the role of AI readiness as a key developmental mechanism. It argues that future research on AI and employability should move beyond treating digital competencies as direct predictors of career outcomes, instead examining the intermediate conditions that enable learning to become career-relevant. The differentiated roles of [[ai-literacy]], self-efficacy, and readiness caution against aggregating them into undifferentiated skill indices. For management education, the findings call for curricular architectures that integrate AI literacy across courses and progression points, pedagogical designs that normalize iterative experimentation with AI tools under guided supervision, and [[assessment]] strategies that evaluate applied judgment (problem framing, verification of outputs, responsible use) alongside technical understanding. It connects to [[student-experience]], [[higher-ed]], [[equity]], and [[motivation]], positioning AI readiness as a central construct for professional preparedness under continuous technological change.
+The study advances understanding of how higher education supports preparation for AI-intensive careers by clarifying the role of AI readiness as a key developmental mechanism. It argues that future research on AI and employability should move beyond treating digital competencies as direct predictors of career outcomes, instead examining the intermediate conditions that enable learning to become career-relevant. The differentiated roles of [[ai-literacy]], self-efficacy, and readiness caution against aggregating them into undifferentiated skill indices. For management education, the findings call for curricular architectures that integrate AI literacy across courses and progression points, pedagogical designs that normalize iterative experimentation with AI tools under guided supervision, and [[assessment]] strategies that evaluate applied judgment (problem framing, verification of outputs, responsible use) alongside technical understanding. It connects to [[student-experience]], [[higher-ed]], [[equity-in-ai-education]], and [[motivation]], positioning AI readiness as a central construct for professional preparedness under continuous technological change.
 
 ## Limitations
 
@@ -3384,7 +3384,7 @@ The study is cross-sectional, capturing AI literacy, readiness, and career adapt
 - [[student-experience]]
 - [[higher-ed]]
 - [[assessment]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[motivation]]
 
 ## Connected Articles
@@ -3450,11 +3450,11 @@ Liu & Levy (2026). [Beyond Tool Adoption: A Practical Five-Stage Developmental C
 
 Across 15 nations, the paper examines how secondary computer-science education embeds AI literacy into general-track subjects (Digital Literacy, ICT, TIC, SNT) rather than specialized tracks, creating structural inequities in who develops AI capability. The comparative analysis shows that policy choices about which programming language and subject bears 'universal' AI literacy determine differential access to computational futures.
 
-Frames AI literacy 'for all' as an [[equity]] problem rooted in [[k-12]] curriculum policy, with direct relevance to [[educational-policy-ai]] and [[teacher-role]] decisions. It ties to [[ai-literacy]] as a civil competency and to [[faculty-development]] for teacher preparedness, arguing that without equitable language/policy grounding, AI literacy widens rather than closes gaps in [[higher-ed]] readiness.
+Frames AI literacy 'for all' as an [[equity-in-ai-education]] problem rooted in [[k-12]] curriculum policy, with direct relevance to [[educational-policy-ai]] and [[teacher-role]] decisions. It ties to [[ai-literacy]] as a civil competency and to [[faculty-development]] for teacher preparedness, arguing that without equitable language/policy grounding, AI literacy widens rather than closes gaps in [[higher-ed]] readiness.
 
 ## Connected Concepts
 
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[k-12]]
 - [[educational-policy-ai]]
 - [[teacher-role]]
@@ -3577,13 +3577,13 @@ Generative AI has emerged not only as a new class of technologies but as an infr
 
 ## Implications for AI in Education
 
-For education, the argument shifts the goal of AI literacy instruction from competent consumption toward critical participation. Curricula informed by this view would teach learners to interrogate the assumptions built into AI systems, understand how tool access and design encode power, and develop the capacity to shape and challenge the technologies that increasingly mediate learning. This connects [[ai-literacy]] to [[equity]]: if unequal access recapitulates epistemic injustice, then AI literacy programs must attend to structural conditions, not only individual skills, and [[critical-thinking]] becomes a political as well as cognitive capacity. The framework also challenges educators to treat learners as epistemic agents whose critical interrogation of AI is a legitimate and essential part of the curriculum, rather than a distraction from efficient use.
+For education, the argument shifts the goal of AI literacy instruction from competent consumption toward critical participation. Curricula informed by this view would teach learners to interrogate the assumptions built into AI systems, understand how tool access and design encode power, and develop the capacity to shape and challenge the technologies that increasingly mediate learning. This connects [[ai-literacy]] to [[equity-in-ai-education]]: if unequal access recapitulates epistemic injustice, then AI literacy programs must attend to structural conditions, not only individual skills, and [[critical-thinking]] becomes a political as well as cognitive capacity. The framework also challenges educators to treat learners as epistemic agents whose critical interrogation of AI is a legitimate and essential part of the curriculum, rather than a distraction from efficient use.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
 - [[critical-thinking]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[student-experience]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
@@ -3864,7 +3864,7 @@ The paper specifies the components of vigilance, the mechanism that ties it to l
 
 ## Implications for AI in Education
 
-For science education, the argument reorients design: the many factors reported as shaping AI's effect — prompts, feedback, scaffolding — succeed only insofar as they engage the learner's evaluation of AI output, making [[critical-thinking]] and [[hallucination-risk]] awareness central to instructional design rather than peripheral. The equity warning is direct: since vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps, so [[scaffolding]] and differentiated support must target the disposition to evaluate, not just tool access, and this bears on [[equity]] in who benefits from AI-augmented learning. Finally, the judging-versus-producing distinction gives educators a principled rule for dividing labor between learner and AI: whatever the lesson exists to teach must stay with the learner.
+For science education, the argument reorients design: the many factors reported as shaping AI's effect — prompts, feedback, scaffolding — succeed only insofar as they engage the learner's evaluation of AI output, making [[critical-thinking]] and [[hallucination-risk]] awareness central to instructional design rather than peripheral. The equity warning is direct: since vigilance is unevenly distributed, uniform AI integration risks widening achievement gaps, so [[scaffolding]] and differentiated support must target the disposition to evaluate, not just tool access, and this bears on [[equity-in-ai-education]] in who benefits from AI-augmented learning. Finally, the judging-versus-producing distinction gives educators a principled rule for dividing labor between learner and AI: whatever the lesson exists to teach must stay with the learner.
 
 ## Connected Concepts
 
@@ -3900,7 +3900,7 @@ Benedetti (2026) introduces a theoretically grounded framework for AI-enabled pe
 
 The dual-mode design — AmicoMio for structured, task-oriented interaction and AmicoTuo for reflective, supportive engagement — represents a novel contribution to [[intelligent-tutoring]] architecture. Rather than pursuing a single interaction style, the system adapts its mode to the pedagogical context. This aligns with [[scaffolding]] theory's emphasis on calibrating support to learner needs and connects to recent work on [[ai-tutor-behavioral-evaluation]] that stresses context-sensitive deployment.
 
-The cross-context pilot in Italy and China provides initial evidence of feasibility in vocational education, an underserved domain in the [[stanford-evidence-base-ai-k12-2026]]. The framework's emphasis on AI as a "relational bridge" to human interaction — not a replacement — addresses concerns raised in [[ai-tutor-safety-harms]] about dependency and [[over-reliance]]. The principle of data minimization further connects to [[privacy]] and [[equity]] discussions in educational AI deployment. For [[faculty-development]], the observable indicators offer concrete assessment tools for evaluating AI integration quality.
+The cross-context pilot in Italy and China provides initial evidence of feasibility in vocational education, an underserved domain in the [[stanford-evidence-base-ai-k12-2026]]. The framework's emphasis on AI as a "relational bridge" to human interaction — not a replacement — addresses concerns raised in [[ai-tutor-safety-harms]] about dependency and [[over-reliance]]. The principle of data minimization further connects to [[privacy]] and [[equity-in-ai-education]] discussions in educational AI deployment. For [[faculty-development]], the observable indicators offer concrete assessment tools for evaluating AI integration quality.
 
 ## Connected Concepts
 
@@ -3908,7 +3908,7 @@ The cross-context pilot in Italy and China provides initial evidence of feasibil
 - [[scaffolding]]
 - [[over-reliance]]
 - [[privacy]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[faculty-development]]
 ## Connected Articles
 
@@ -4238,7 +4238,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 
 - **Not just an AI problem**: The finding that the same [[bias-mitigation]] pattern exists in human physics teachers challenges the assumption that AI introduces unique biases. Instead, it suggests a deeper [[assessment-validity]] challenge: distinguishing conceptual understanding from linguistic expression in text-based explanations is inherently difficult.
 
-- **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity]] concerns as [[automated-grading]] scales.
+- **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity-in-ai-education]] concerns as [[automated-grading]] scales.
 
 - **[[language-learning]]**: The finding that multilingual learners are disproportionately affected connects directly to broader concerns about AI tools in linguistically diverse classrooms. See also [[language-learning]] and [[genai-linguistic-diversity-academic-writing]].
 
@@ -4262,7 +4262,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[bias-mitigation]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[automated-grading]]
 - [[language-learning]]
 - [[ai-feedback-quality]]
@@ -4749,7 +4749,7 @@ Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R. J., DiGiano, C., Weat
 
 ## Implications
 
-This review speaks directly to [[educational-policy-ai]] and [[ai-governance-education]], showing how national policy intent can outpace institutional capacity in [[higher-ed]]. The documented gap between teaching-led and research-intensive institutions underscores [[equity]] concerns and the risk that AI benefits accrue unevenly across the sector.
+This review speaks directly to [[educational-policy-ai]] and [[ai-governance-education]], showing how national policy intent can outpace institutional capacity in [[higher-ed]]. The documented gap between teaching-led and research-intensive institutions underscores [[equity-in-ai-education]] concerns and the risk that AI benefits accrue unevenly across the sector.
 
 For administrators and [[educational-policy-ai]]-makers, the findings argue for participatory governance and infrastructure investment rather than purely aspirational strategy documents. The proposed layered framework connecting national policy, institutional infrastructure, and governance offers a concrete model for closing the ambition-capacity gap.
 
@@ -4760,7 +4760,7 @@ The review also connects to broader debates about [[ethics]] and learner efficac
 - [[administrator]]
 - [[ai-governance-education]]
 - [[educational-policy-ai]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ethics]]
 - [[higher-ed]]
 - [[ai-governance-education]]
@@ -4845,7 +4845,7 @@ The article organizes AI-assisted vocal pedagogy into three linked levels. *Tech
 
 ## Implications for AI in Education
 
-The Perspective extends debates about [[feedback-loop|AI feedback]] and [[human-in-the-loop-ai|human-in-the-loop]] design to a domain — vocal/music education — where bodily, interpretive, and developmental learning resist reduction to metrics. It warns against equating measurement precision with educational value and positions AI as a support for teacher–student dialogue and reflection rather than an autonomous judge. For designers of [[generative-ai]] educational tools, it argues that feedback must be interpretable, pedagogically mediated, and connected to learners' lived experience and developmental readiness. It also foregrounds [[equity]] (usable across learners) and sustainability as explicit outcome criteria, echoing broader calls for human-centered, educationally responsible AI in the [[teacher-role|teacher-guided]] learning process.
+The Perspective extends debates about [[feedback-loop|AI feedback]] and [[human-in-the-loop-ai|human-in-the-loop]] design to a domain — vocal/music education — where bodily, interpretive, and developmental learning resist reduction to metrics. It warns against equating measurement precision with educational value and positions AI as a support for teacher–student dialogue and reflection rather than an autonomous judge. For designers of [[generative-ai]] educational tools, it argues that feedback must be interpretable, pedagogically mediated, and connected to learners' lived experience and developmental readiness. It also foregrounds [[equity-in-ai-education]] (usable across learners) and sustainability as explicit outcome criteria, echoing broader calls for human-centered, educationally responsible AI in the [[teacher-role|teacher-guided]] learning process.
 
 ## Limitations
 
@@ -5930,7 +5930,7 @@ Becker, E., Bauer, A., Schrader, J., Bitzenbauer, P., & Veith, J. (2026). [Pragm
 
 ## [Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery](https://edtechdev.github.io/aied/articles/behaviorally-adaptive-visual-diversion-assessment-2026/)
 
-> **Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... [[assessment]] [[accessible-learning]] [[privacy]] [[academic-integrity]] [[equity]] [[adaptive-learning]]
+> **Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery** — Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (... [[assessment]] [[accessible-learning]] [[privacy]] [[academic-integrity]] [[equity-in-ai-education]] [[adaptive-learning]]
 
 Proposes BAVD, a theoretical framework for adaptive visual diversion in digital assessment that resists screen-capture cheating while accommodating learners with visual-processing accommodations. Formulates the model using coupled dynamical systems (Diversion Field Generator, Rendering Tensor, Behavior Tensor, Multi-dimensional Entropy Model). Establishes theoretical properties for content fidelity, rendering stability, entropy boundedness, and closed-loop adaptation stability. Explicitly addresses the trade-off between accessibility and capture resistance.
 
@@ -5944,7 +5944,7 @@ Institutions increasingly rely on browser lockdown, webcam monitoring, and behav
 - [[accessible-learning]]
 - [[privacy]]
 - [[academic-integrity]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[adaptive-learning]]
 ## Connected Articles
 
@@ -6932,13 +6932,13 @@ The framework combines two evidence sources: hazard categories derived from expe
 
 ## Implications for AI in Education
 
-The results carry a direct warning for AI-based learning environments: general-purpose safety classifiers do not reliably catch education-related unsafe prompts from children, so [[pedagogical-safety]] cannot be assumed from standard model safeguards. Schools and edtech providers deploying [[generative-ai]] tools need child-specific evaluation, incident-grounded testing, and human oversight rather than reliance on off-the-shelf safety models. The framework's structure — expert guidance plus incident data plus synthetic testing — is itself a template that educational institutions and researchers can reuse to evaluate tools for younger users, with implications for [[privacy]] and [[equity]] in who is protected by default safety practices.
+The results carry a direct warning for AI-based learning environments: general-purpose safety classifiers do not reliably catch education-related unsafe prompts from children, so [[pedagogical-safety]] cannot be assumed from standard model safeguards. Schools and edtech providers deploying [[generative-ai]] tools need child-specific evaluation, incident-grounded testing, and human oversight rather than reliance on off-the-shelf safety models. The framework's structure — expert guidance plus incident data plus synthetic testing — is itself a template that educational institutions and researchers can reuse to evaluate tools for younger users, with implications for [[privacy]] and [[equity-in-ai-education]] in who is protected by default safety practices.
 
 ## Connected Concepts
 
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 
@@ -7710,13 +7710,13 @@ Proposes CogTax, a four-level cognitive taxonomy for command-line computing educ
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
 
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 
@@ -7870,14 +7870,14 @@ Nasser Giacaman, Valerio Terragni, Paul Denny, Viraj Kumar (2026). [Commenting w
 
 This case study reports on a community-based participatory research project that co-designed an [[ai-literacy|AI literacy]] program for 54 adults (48 in-person and 6 virtual) in a predominantly African American community in the Midwestern United States. The program covered fundamental AI concepts, societal implications, and practical applications, using hands-on activities and concrete examples over abstract technical explanations.
 
-Key findings highlight that [[equity|equity-oriented]] AI education for underserved adult populations must address foundational digital literacy gaps, build trust around data privacy, and connect AI concepts to everyday lived experiences. This challenges the dominant focus on formal [[higher-ed|higher education]] settings for AI literacy initiatives and points toward more inclusive [[lifelong-learning|lifelong learning]] models.
+Key findings highlight that [[equity-in-ai-education|equity-oriented]] AI education for underserved adult populations must address foundational digital literacy gaps, build trust around data privacy, and connect AI concepts to everyday lived experiences. This challenges the dominant focus on formal [[higher-ed|higher education]] settings for AI literacy initiatives and points toward more inclusive [[lifelong-learning|lifelong learning]] models.
 
-The study contributes design considerations for [[edtech-platform|educational technology]] developers and [[faculty-development|educators]] seeking to reach adults outside traditional educational institutions. The community-centered approach offers a replicable model for [[equity|equity-focused]] AI education that prioritizes relevance, trust, and accessibility over technical depth.
+The study contributes design considerations for [[edtech-platform|educational technology]] developers and [[faculty-development|educators]] seeking to reach adults outside traditional educational institutions. The community-centered approach offers a replicable model for [[equity-in-ai-education|equity-focused]] AI education that prioritizes relevance, trust, and accessibility over technical depth.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[lifelong-learning]]
 - [[edtech-platform]]
@@ -9004,13 +9004,13 @@ Vendrell, M., & Johnston, S.-K. (2026). [*Scaffolding critical thinking with gen
 
 ## [Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education](https://edtechdev.github.io/aied/articles/cross-cultural-student-perceptions-genai-computing/)
 
-A scenario-based survey (Fall 2024) comparing how computing students at Canadian and South Korean universities judged the ethicality and policy compliance of AI-assisted coding practices. Despite functionally identical institutional policies, Canadian students were consistently and significantly more likely to rate GenAI use as unethical and against the rules (Mann-Whitney U tests across nearly all scenarios). Culture, not policy text, drove the perceived wrongness of identical behaviors.\n\nThe result complicates the wiki's [[academic-integrity]] thread: policy harmonization does not produce perception harmonization, so multi-national or culturally diverse cohorts will interpret the same rules differently \u2014 an [[equity]] concern for enforcement and grading. It extends [[student-perception-ai-use-collaboration]] and [[genai-impact-chinese-students-hss]] with direct cross-national comparison in computing education, and argues that [[genai-policies-higher-ed-computing]] need culturally aware communication, worked examples, and scenario-based clarification rather than abstract rule statements.
+A scenario-based survey (Fall 2024) comparing how computing students at Canadian and South Korean universities judged the ethicality and policy compliance of AI-assisted coding practices. Despite functionally identical institutional policies, Canadian students were consistently and significantly more likely to rate GenAI use as unethical and against the rules (Mann-Whitney U tests across nearly all scenarios). Culture, not policy text, drove the perceived wrongness of identical behaviors.\n\nThe result complicates the wiki's [[academic-integrity]] thread: policy harmonization does not produce perception harmonization, so multi-national or culturally diverse cohorts will interpret the same rules differently \u2014 an [[equity-in-ai-education]] concern for enforcement and grading. It extends [[student-perception-ai-use-collaboration]] and [[genai-impact-chinese-students-hss]] with direct cross-national comparison in computing education, and argues that [[genai-policies-higher-ed-computing]] need culturally aware communication, worked examples, and scenario-based clarification rather than abstract rule statements.
 
 ## Connected Concepts
 
 - [[plagiarism-detection]]
 - [[administrator]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[engagement-metrics]]
 - [[academic-integrity]]
 - [[math-education]]
@@ -9156,13 +9156,13 @@ Reports on cross-boundary Community-Based Learning where undergraduate students 
 
 **Contributions:** Examines how community-engaged computing operationalizes human-centered [[intelligent-tutoring|AIED]] across three dimensions: education, technology, and culture. Proposes a collaborative framework for [[ai-literacy|culturally-aware AIED]] that fosters multi-stakeholder collaboration while widening participation by dissolving disciplinary silos between social work and computational science.
 
-The framework emphasizes [[equity|cultural contextualization]] of AI tools, community-driven problem identification, and [[student-experience|student-centered]] design processes. Relevant to [[higher-ed|higher education]] contexts seeking to integrate AI education with socially meaningful projects.
+The framework emphasizes [[equity-in-ai-education|cultural contextualization]] of AI tools, community-driven problem identification, and [[student-experience|student-centered]] design processes. Relevant to [[higher-ed|higher education]] contexts seeking to integrate AI education with socially meaningful projects.
 
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
 - [[ai-literacy]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[student-experience]]
 - [[higher-ed]]
 ## Connected Articles
@@ -9688,13 +9688,13 @@ DURA framework (Demystify-Use-Reflect-Assess) for structured LLM integration in 
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
 
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 
@@ -9751,7 +9751,7 @@ Brandon Pardi, Garret Castro, Michael Pisman, Avash Adhikari, Santosh Chandrasek
 
 DysLexLens is a low-resource LLM framework designed to analyze how [[special-education|dyslexic learners]] experience AI tools by mining online forum discussions. The framework employs dictionary-driven filtering to construct focused corpora from Reddit, integrates LLM-assisted knowledge graph reasoning, and generates verifiable query responses about learners' lived experiences with AI for reading, writing, and study tasks.
 
-The research reveals that while dyslexic learners find value in AI tools for [[ai-literacy|supporting literacy]], they face significant [[accessible-learning|accessibility barriers]] including inconsistent output quality and lack of [[equity|equitable]] accommodations. This has direct implications for [[student-experience|student-AI interaction]] design and suggests that inclusive AI education must address [[language-learning|language and literacy support]] across both [[k-12|K-12]] and [[higher-ed|higher education]] settings.
+The research reveals that while dyslexic learners find value in AI tools for [[ai-literacy|supporting literacy]], they face significant [[accessible-learning|accessibility barriers]] including inconsistent output quality and lack of [[equity-in-ai-education|equitable]] accommodations. This has direct implications for [[student-experience|student-AI interaction]] design and suggests that inclusive AI education must address [[language-learning|language and literacy support]] across both [[k-12|K-12]] and [[higher-ed|higher education]] settings.
 
 By grounding analysis in real user discourse rather than controlled experiments, the work complements traditional [[llm-student-modeling-memory|student modeling approaches]] and provides an evidence base for designing AI tools that better serve neurodiverse learners.
 
@@ -9760,7 +9760,7 @@ By grounding analysis in real user discourse rather than controlled experiments,
 - [[special-education]]
 - [[ai-literacy]]
 - [[accessible-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[student-experience]]
 - [[language-learning]]
 - [[k-12]]
@@ -9843,7 +9843,7 @@ The paper argues that accessibility belongs in the authoring layer. When interfa
 
 ## Implications for AI in Education
 
-For [[equity]] in [[edtech-platform]] design, the proposal implies that generative UI should be judged not only by what it delivers to learners but by where verification happens in the workflow. Putting instructors in the loop at design time supports [[teacher-role]] oversight and aligns adaptive content with UDL principles, while the elimination of per-learner inference costs matters for low-bandwidth and resource-constrained settings. The authors present this as an argument and research agenda rather than an implemented system.
+For [[equity-in-ai-education]] in [[edtech-platform]] design, the proposal implies that generative UI should be judged not only by what it delivers to learners but by where verification happens in the workflow. Putting instructors in the loop at design time supports [[teacher-role]] oversight and aligns adaptive content with UDL principles, while the elimination of per-learner inference costs matters for low-bandwidth and resource-constrained settings. The authors present this as an argument and research agenda rather than an implemented system.
 
 ## Connected Concepts
 
@@ -9853,7 +9853,7 @@ For [[equity]] in [[edtech-platform]] design, the proposal implies that generati
 - [[affective-tutoring]]
 - [[teacher-ai-competency]]
 - [[pedagogical-agent]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[bias-mitigation]]
 
 ## Connected Articles
@@ -10431,7 +10431,7 @@ This review contributes to the growing literature on [[generative-ai]] and [[ai-
 
 For [[writing-education]], the small evidence base (8 studies) underscores how nascent this area is and the need for more empirical work, particularly around equitable access and the developmental appropriateness of AI tools for early writers. The review connects to [[llm]] discussions about scaffolding young students' interactions with [[generative-ai]] and to broader questions of [[educational-policy-ai]] for elementary classrooms.
 
-The integration of AI into elementary writing also raises [[equity]] considerations, echoing concerns about the [[equity]] and differential access across schools.
+The integration of AI into elementary writing also raises [[equity-in-ai-education]] considerations, echoing concerns about the [[equity-in-ai-education]] and differential access across schools.
 
 ## Connected Concepts
 
@@ -10439,7 +10439,7 @@ The integration of AI into elementary writing also raises [[equity]] considerati
 - [[assessment]]
 - [[creativity]]
 - [[educational-policy-ai]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[generative-ai]]
 - [[k-12]]
 - [[llm]]
@@ -10472,13 +10472,13 @@ ELEVATE framework deploys GenAI-driven 3D avatar tutors on consumer-grade hardwa
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
 
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 
@@ -10543,13 +10543,13 @@ Tufino, E., & Damiani, P. (2026). [*Embodied inquiry with AI as facilitator: An 
 
 Bowed string performance depends on fine bodily coordination usually taught through visual demonstration, creating persistent barriers for musicians with blindness and low-vision (BLV). This design study worked with four advanced BLV string musicians and three instructors using practice-video analysis, lesson observation, and expert reflection to surface embodied, non-visual learning strategies.
 
-The work extends [[special-education]] and special-education-ai by centring disability-led, embodied design rather than retrofitted accessibility. It complements [[accessible-learning]] and [[neurodivergent-computing-students]] research on inclusive interfaces, and frames the instructor role through [[equity]] in one-on-one music training, with implications for [[higher-ed]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
+The work extends [[special-education]] and special-education-ai by centring disability-led, embodied design rather than retrofitted accessibility. It complements [[accessible-learning]] and [[neurodivergent-computing-students]] research on inclusive interfaces, and frames the instructor role through [[equity-in-ai-education]] in one-on-one music training, with implications for [[higher-ed]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
 
 ## Connected Concepts
 
 - [[special-education]]
 - [[accessible-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[higher-ed]]
 ## Connected Articles
 
@@ -11022,7 +11022,7 @@ The study targets a known failure of accuracy-focused recommenders: students wit
 
 ## Implications for AI in Education
 
-For [[personalized-learning]] platforms, the work demonstrates that fairness, diversity, and explainability can be engineered into recommenders without sacrificing predictive accuracy, which matters for [[equity]] in resource-constrained and cold-start settings. The persistence of catalogue-level popularity bias even after intervention shows that bias mitigation is partial and requires ongoing measurement. The model-centric explanations are intended to support more transparent educational recommendation, consistent with [[human-in-the-loop-ai]] oversight of automated learning-resource navigation.
+For [[personalized-learning]] platforms, the work demonstrates that fairness, diversity, and explainability can be engineered into recommenders without sacrificing predictive accuracy, which matters for [[equity-in-ai-education]] in resource-constrained and cold-start settings. The persistence of catalogue-level popularity bias even after intervention shows that bias mitigation is partial and requires ongoing measurement. The model-centric explanations are intended to support more transparent educational recommendation, consistent with [[human-in-the-loop-ai]] oversight of automated learning-resource navigation.
 
 ## Limitations
 
@@ -11036,7 +11036,7 @@ For [[personalized-learning]] platforms, the work demonstrates that fairness, di
 
 - [[human-in-the-loop-ai]]
 - [[personalized-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[adaptive-learning]]
 - [[knowledge-tracing]]
 - [[affective-computing]]
@@ -11596,13 +11596,13 @@ Ollie, a gaze-informed AI assistant for children's picture exploration, uses eye
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
 
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 
@@ -11743,14 +11743,14 @@ Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026
 
 Kapsalis (2026) presents one of the first empirical studies of generative AI integration in architectural design education, using a locally executed, discipline-specific tool within a mixed-methods focus-group design. The study addresses three objectives: creativity impact, inclusivity enhancement, and employability preparation. Results showed enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened student confidence in AI-supported workflows.
 
-This work extends the [[generative-ai]] education literature beyond text-based domains (coding, writing) into visual-spatial design disciplines. The finding that gen-AI tools broadened participation is particularly significant for [[equity]] research — students who traditionally struggled with manual drafting or 3D modeling gained new entry points. This connects to [[ai-literacy]] discussions about AI as an accessibility tool and [[personalized-learning]] frameworks that emphasize multiple pathways to competence.
+This work extends the [[generative-ai]] education literature beyond text-based domains (coding, writing) into visual-spatial design disciplines. The finding that gen-AI tools broadened participation is particularly significant for [[equity-in-ai-education]] research — students who traditionally struggled with manual drafting or 3D modeling gained new entry points. This connects to [[ai-literacy]] discussions about AI as an accessibility tool and [[personalized-learning]] frameworks that emphasize multiple pathways to competence.
 
 The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educational-measurement]] and privacy-conscious deployment. The study operationalizes [[constructivist]] principles by positioning AI as a tool for learner-led meaning-making within human-AI networks. For [[faculty-development]], the paper provides evidence-based guidance on gen-AI integration in studio-based disciplines, an area where the [[stanford-evidence-base-ai-k12-2026]] and related literature have been thin.
 
 ## Connected Concepts
 
 - [[generative-ai]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[personalized-learning]]
 - [[educational-measurement]]
@@ -12160,7 +12160,7 @@ Ateş, H. (2026). Human-centered GenAI feedback design in higher education: A mu
 
 This broad systematic review provides a comprehensive landscape of [[generative-ai]] in [[higher-ed]], useful as a synthesis anchor for the wiki's coverage of GenAI applications. The 92% student-usage figure and the four-domain taxonomy ([[automated-assessment]], [[personalized-learning]], critical skills, research assistance) offer a useful organizing structure.
 
-The persistent challenges — [[academic-integrity]], [[bias-mitigation]]/algorithmic bias, [[hallucination-risk]], faculty readiness, and [[equity]]/[[equity]] — echo themes across the wiki and connect to [[ai-literacy]] and [[faculty-development]] needs. The review's identification of pedagogical innovations (new assessment designs, AI literacy curricula, human-AI collaborative models) aligns with [[human-ai-collaboration]] and [[human-in-the-loop-ai]] threads.
+The persistent challenges — [[academic-integrity]], [[bias-mitigation]]/algorithmic bias, [[hallucination-risk]], faculty readiness, and [[equity-in-ai-education]]/[[equity-in-ai-education]] — echo themes across the wiki and connect to [[ai-literacy]] and [[faculty-development]] needs. The review's identification of pedagogical innovations (new assessment designs, AI literacy curricula, human-AI collaborative models) aligns with [[human-ai-collaboration]] and [[human-in-the-loop-ai]] threads.
 
 For policy and practice, the review underscores that the faculty readiness gap and equity concerns remain the binding constraints on responsible GenAI integration, connecting to [[educational-policy-ai]] and [[ai-governance-education]].
 
@@ -12172,7 +12172,7 @@ For policy and practice, the review underscores that the faculty readiness gap a
 - [[automated-assessment]]
 - [[bias-mitigation]]
 - [[educational-policy-ai]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[faculty-development]]
 - [[generative-ai]]
 - [[hallucination-risk]]
@@ -12259,14 +12259,14 @@ Rather than an empirical study, the piece is a dialogic scholarly intervention: 
 
 ## Implications for AI in Education
 
-For [[writing-education]] and English for Research Publication Purposes, the dialogue implies that GenAI tools are not linguistically neutral: they encode standards that can marginalise minoritised varieties, so questions of [[equity]] must be built into how academic writing instruction prepares students to use these tools. The calls for critical [[ai-literacy]] and inclusive co-design connect directly to curricula, suggesting students should be taught to use GenAI reflexively rather than defer to its standardising output.
+For [[writing-education]] and English for Research Publication Purposes, the dialogue implies that GenAI tools are not linguistically neutral: they encode standards that can marginalise minoritised varieties, so questions of [[equity-in-ai-education]] must be built into how academic writing instruction prepares students to use these tools. The calls for critical [[ai-literacy]] and inclusive co-design connect directly to curricula, suggesting students should be taught to use GenAI reflexively rather than defer to its standardising output.
 
 ## Connected Concepts
 
 - [[language-learning]]
 - [[ai-literacy]]
 - [[writing-education]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[automated-essay-scoring]]
 - [[student-experience]]
 - [[equity-in-ai-education]]
@@ -12291,13 +12291,13 @@ Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (
 
 ## [Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images](https://edtechdev.github.io/aied/articles/genai-literacy-image-discrimination/)
 
-Kamali et al. (2026) evaluate a Generative AI Literacy training intervention designed to improve intelligence analysts' ability to distinguish real photographs from AI-generated images. In a controlled experiment, trained analysts significantly outperformed untrained controls on image discrimination tasks, with gains persisting on challenging edge cases. This is an important contribution to [[ai-literacy]] research because it demonstrates that detection skills are teachable even among domain experts, challenging the assumption that AI-generated content is fundamentally undetectable. The training draws attention to specific visual artifacts and generative model signatures, providing a template for broader [[professional-training]] curricula. The study connects to [[equity]] concerns around AI-generated misinformation, since disparities in detection ability can compound existing information-access inequalities. It also informs [[generative-ai]] regulation discussions by providing evidence that literacy interventions are a viable complement to technical watermarking approaches. The work extends [[ai-literacy-continuum-higher-education]] by showing that literacy training is relevant not just for students but for professionals across domains.
+Kamali et al. (2026) evaluate a Generative AI Literacy training intervention designed to improve intelligence analysts' ability to distinguish real photographs from AI-generated images. In a controlled experiment, trained analysts significantly outperformed untrained controls on image discrimination tasks, with gains persisting on challenging edge cases. This is an important contribution to [[ai-literacy]] research because it demonstrates that detection skills are teachable even among domain experts, challenging the assumption that AI-generated content is fundamentally undetectable. The training draws attention to specific visual artifacts and generative model signatures, providing a template for broader [[professional-training]] curricula. The study connects to [[equity-in-ai-education]] concerns around AI-generated misinformation, since disparities in detection ability can compound existing information-access inequalities. It also informs [[generative-ai]] regulation discussions by providing evidence that literacy interventions are a viable complement to technical watermarking approaches. The work extends [[ai-literacy-continuum-higher-education]] by showing that literacy training is relevant not just for students but for professionals across domains.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
 - [[professional-training]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[generative-ai]]
 ## Connected Articles
 
@@ -12503,7 +12503,7 @@ This paper argues that [[generative-ai]] systems in [[higher-ed]] are not episte
 
 ## Double Marginalization
 
-The paper identifies a **double marginalization** for disabled learners: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity]] challenges documented in [[digital-literacy-illusion]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[equity]] frameworks by focusing on knowledge production rather than just access.
+The paper identifies a **double marginalization** for disabled learners: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity-in-ai-education]] challenges documented in [[digital-literacy-illusion]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[equity-in-ai-education]] frameworks by focusing on knowledge production rather than just access.
 
 ## Epistemic Coloniality
 
@@ -12521,8 +12521,8 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 
 - [[generative-ai]]
 - [[higher-ed]]
-- [[equity]]
-- [[equity]]
+- [[equity-in-ai-education]]
+- [[equity-in-ai-education]]
 - [[bias-mitigation]]
 - [[special-education]]
 - [[ai-literacy]]
@@ -12762,7 +12762,7 @@ The study performs a **secondary/document analysis** comparing institutional pol
 
 ## Implications for AI in Education
 
-For [[ai-governance-education]], the finding that institutional guidance is pro-use while classroom practice is restrictive suggests that effective governance requires **translating policy into concrete instructor support**, not just issuing top-down documents — otherwise instructors improvise inconsistent local rules. For computing education specifically, the study positions CS as the canary discipline for GenAI adoption: high student uptake forces instructors to confront policy gaps first. The authors characterize both levels as sending "mixed messages" because institutions and educators are **playing catch-up to student use**, compounded by fast-moving, vendor-controlled access. The gap between policy intent and classroom practice connects to [[educational-policy-ai]] and [[equity]] debates about who sets AI-use rules and how consistently they apply across courses and students, and to [[teacher-ai-adoption-confidence]] — uneven instructor readiness to translate guidance into everyday practice.
+For [[ai-governance-education]], the finding that institutional guidance is pro-use while classroom practice is restrictive suggests that effective governance requires **translating policy into concrete instructor support**, not just issuing top-down documents — otherwise instructors improvise inconsistent local rules. For computing education specifically, the study positions CS as the canary discipline for GenAI adoption: high student uptake forces instructors to confront policy gaps first. The authors characterize both levels as sending "mixed messages" because institutions and educators are **playing catch-up to student use**, compounded by fast-moving, vendor-controlled access. The gap between policy intent and classroom practice connects to [[educational-policy-ai]] and [[equity-in-ai-education]] debates about who sets AI-use rules and how consistently they apply across courses and students, and to [[teacher-ai-adoption-confidence]] — uneven instructor readiness to translate guidance into everyday practice.
 
 ## Limitations
 
@@ -12776,7 +12776,7 @@ For [[ai-governance-education]], the finding that institutional guidance is pro-
 - [[ai-education]]
 - [[ai-governance-education]]
 - [[educational-policy-ai]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 - [[teacher-ai-adoption-confidence]]
@@ -13087,7 +13087,7 @@ This study analyzes de-identified interaction logs from a commercial LMS with an
 
 ## Contextual Variation & Implications
 
-Context mattered. At highly selective universities, the proportion of deep engagement (19.36% vs. 12.42%) and routine-learning engagement (58.88% vs. 40.41%) was significantly higher, while exam-driven engagement was lower (10.65% vs. 36.98%). STEM courses showed significantly more shallow (15.41% vs. 8.56%) and routine-learning engagement and less exam-driven engagement than non-STEM courses, while STEM students were overall less likely to adopt the tutor (51% vs. 71% adoption). Adoption and usage intensity were not significantly associated with institutional selectivity. For [[learning-analytics]] and [[equity]] in [[higher-ed]], the takeaway is that "engagement" is not a single behavior: interventions and regulations should target specific patterns — such as shallow, copy-paste-heavy use — rather than treating all GenAI Tutor use alike, especially since students who engaged shallowly were more likely to remain in that mode over time, pointing to a risk group for [[over-reliance]] without deep processing.
+Context mattered. At highly selective universities, the proportion of deep engagement (19.36% vs. 12.42%) and routine-learning engagement (58.88% vs. 40.41%) was significantly higher, while exam-driven engagement was lower (10.65% vs. 36.98%). STEM courses showed significantly more shallow (15.41% vs. 8.56%) and routine-learning engagement and less exam-driven engagement than non-STEM courses, while STEM students were overall less likely to adopt the tutor (51% vs. 71% adoption). Adoption and usage intensity were not significantly associated with institutional selectivity. For [[learning-analytics]] and [[equity-in-ai-education]] in [[higher-ed]], the takeaway is that "engagement" is not a single behavior: interventions and regulations should target specific patterns — such as shallow, copy-paste-heavy use — rather than treating all GenAI Tutor use alike, especially since students who engaged shallowly were more likely to remain in that mode over time, pointing to a risk group for [[over-reliance]] without deep processing.
 
 ## Connected Concepts
 
@@ -13170,12 +13170,12 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Implications for AI in Education
 
-For [[writing-education]] and [[bias-mitigation]] efforts, the study implies that the fairness of AI-assisted writing depends not only on model outputs but on the **prompts and scaffolding** students are given: if a biased system or prompt shapes how students describe themselves and their plans, the effects can carry into human-authored text. This has consequences for [[equity]] in assessment and for [[academic-integrity]] discussions, where the focus is often on detecting AI use rather than on auditing the values the AI transmits.
+For [[writing-education]] and [[bias-mitigation]] efforts, the study implies that the fairness of AI-assisted writing depends not only on model outputs but on the **prompts and scaffolding** students are given: if a biased system or prompt shapes how students describe themselves and their plans, the effects can carry into human-authored text. This has consequences for [[equity-in-ai-education]] in assessment and for [[academic-integrity]] discussions, where the focus is often on detecting AI use rather than on auditing the values the AI transmits.
 
 ## Connected Concepts
 
 - [[bias-mitigation]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[prompt-engineering]]
 - [[affective-tutoring]]
 - [[automated-essay-scoring]]
@@ -13221,14 +13221,14 @@ The study surveyed Australian secondary students in **Years 7, 8, and 10 (Npre =
 
 ## Implications for AI in Education
 
-For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive curriculum design**: engagement patterns differ by gender before instruction — females already using AI for schoolwork, males more engaged with deepfake content — so safety education and career aspiration support should be differentiated rather than uniform. The partial narrowing of the STEM career gap after a single-day intervention suggests short, well-designed workshops can be an effective [[equity]] lever in [[stem-education]], while the deepfake findings point to a concrete safety target for male students.
+For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive curriculum design**: engagement patterns differ by gender before instruction — females already using AI for schoolwork, males more engaged with deepfake content — so safety education and career aspiration support should be differentiated rather than uniform. The partial narrowing of the STEM career gap after a single-day intervention suggests short, well-designed workshops can be an effective [[equity-in-ai-education]] lever in [[stem-education]], while the deepfake findings point to a concrete safety target for male students.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
 - [[administrator]]
 - [[teacher-ai-competency]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[bias-mitigation]]
 - [[agentic-ai]]
 - [[k-12-ai-education]]
@@ -15875,7 +15875,7 @@ Xinyi Gao, Qiucheng Wu, Lu Ding, Q. Vera Liao, Kaizhi Qian, Ying Xu, Shiyu Chang
 
 Kutti AI addresses a persistent equity gap in educational technology: nearly all edtech assumes a visual interface, excluding an estimated 1.4 million blind children worldwide. The system inverts this assumption entirely, making spoken conversation the primary and sufficient learning modality — children hear curriculum content, answer aloud, and receive spoken feedback with no visual dependency, positioning it within the [[special-education]] and accessibility strand of [[adaptive-learning]] research.
 
-Three engineering contributions make this practical on commodity mobile hardware. First, a multi-signal struggle-detection engine fuses response latency, wrong-attempt counts, and keyword-based hesitation cues to decide in real time when to offer hints or simplify questions — a lightweight alternative to the learner-modeling machinery of full [[intelligent-tutoring]]. Second, a cross-language answer-matching pipeline (translation/transliteration, Levenshtein fuzzy matching, text normalization) ensures children are not penalized for code-switching or pronunciation variation, an important fairness property for multilingual learners and a concrete instance of [[equity]]-aware design. Third, an offline-first on-device ASR pipeline removes the connectivity requirement, extending [[personalized-learning]] to low-resource settings where cloud-dependent tutors fail.
+Three engineering contributions make this practical on commodity mobile hardware. First, a multi-signal struggle-detection engine fuses response latency, wrong-attempt counts, and keyword-based hesitation cues to decide in real time when to offer hints or simplify questions — a lightweight alternative to the learner-modeling machinery of full [[intelligent-tutoring]]. Second, a cross-language answer-matching pipeline (translation/transliteration, Levenshtein fuzzy matching, text normalization) ensures children are not penalized for code-switching or pronunciation variation, an important fairness property for multilingual learners and a concrete instance of [[equity-in-ai-education]]-aware design. Third, an offline-first on-device ASR pipeline removes the connectivity requirement, extending [[personalized-learning]] to low-resource settings where cloud-dependent tutors fail.
 
 The paper is a systems contribution rather than an efficacy study — no learning-gains evaluation is reported — so claims about pedagogical impact should be treated as design hypotheses pending classroom trials. Nonetheless it is a rare example of [[student-experience]] research that centers disabled learners from the outset rather than retrofitting accessibility.
 
@@ -15884,7 +15884,7 @@ The paper is a systems contribution rather than an efficacy study — no learnin
 - [[special-education]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[personalized-learning]]
 - [[student-experience]]
 ## Connected Articles
@@ -16028,7 +16028,7 @@ Rodríguez, J. A. (2026). [LaTA: A drop-in, FERPA-compliant local-LLM autograder
 
 ## [Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics](https://edtechdev.github.io/aied/articles/league-ethical-governance-student-data-2026/)
 
-> **Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics** — Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, educational policy, v... [[learning-analytics]] [[privacy]] [[equity]] [[ethics]] [[regulation]] [[higher-ed]]
+> **Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics** — Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, educational policy, v... [[learning-analytics]] [[privacy]] [[equity-in-ai-education]] [[ethics]] [[regulation]] [[higher-ed]]
 
 Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, educational policy, value-sensitive design, and capability-oriented approaches to educational justice. Demonstrates practical value through an illustrative early-alert case study showing how institutions can review LA practices in a more transparent and educationally meaningful way.
 
@@ -16040,7 +16040,7 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 
 - [[learning-analytics]]
 - [[privacy]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ethics]]
 - [[regulation]]
 - [[higher-ed]]
@@ -16190,14 +16190,14 @@ Aldino, A. A., Maheshi, B., Li, Y., Zhou, Y., Tsai, Y.-S., Gašević, D., & Chen
 
 Investigates why AI-for-education shows inconsistent average effects, arguing that learning behavior explains background-related advantage: students from advantaged backgrounds engage with AI tools in ways that compound gains, while others do not. Prior ed-tech research shows average effects mask heterogeneity; this paper quantifies the behavioral mechanism.
 
-Links [[generative-ai]] use to learning-gains, [[personalized-learning]], and [[student-experience]], with strong [[equity]] implications: AI assistance may widen gaps unless designed to shift behavior. Connects to [[ai-assisted-learning-modes-eeg]] and the [[over-reliance]] literature on differential benefit.
+Links [[generative-ai]] use to learning-gains, [[personalized-learning]], and [[student-experience]], with strong [[equity-in-ai-education]] implications: AI assistance may widen gaps unless designed to shift behavior. Connects to [[ai-assisted-learning-modes-eeg]] and the [[over-reliance]] literature on differential benefit.
 
 ## Connected Concepts
 
 - [[generative-ai]]
 - [[personalized-learning]]
 - [[student-experience]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[over-reliance]]
 ## Connected Articles
 
@@ -16445,7 +16445,7 @@ This conceptual contribution speaks directly to debates about [[curriculum-desig
 
 For [[higher-ed]] institutions, the framework is a provocation to move beyond static degree pathways toward adaptive, cross-domain learning environments. It connects conceptually to [[instructional-design]] discussions about [[transfer-of-learning]] and [[self-regulated-learning]], since learners must actively navigate and maintain their own learnity graphs.
 
-The proposal also has an implicit [[equity]] dimension: graph-based, modular learning could either democratize access to personalized pathways or entrench fragmentation if not supported by sound pedagogy and institutional infrastructure. The paper is best read alongside work on [[educational-policy-ai]] and [[ai-governance-education]] that addresses how such frameworks are governed and resourced.
+The proposal also has an implicit [[equity-in-ai-education]] dimension: graph-based, modular learning could either democratize access to personalized pathways or entrench fragmentation if not supported by sound pedagogy and institutional infrastructure. The paper is best read alongside work on [[educational-policy-ai]] and [[ai-governance-education]] that addresses how such frameworks are governed and resourced.
 
 ## Connected Concepts
 
@@ -16658,13 +16658,13 @@ Semester-long study of 96 CS students shows LLM usage dropped 42.7 percentage po
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
 
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 
@@ -17909,12 +17909,12 @@ Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., & Welsch, R. (2026). [E
 
 ## [Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University](https://edtechdev.github.io/aied/articles/llm-reliance-types-undergrad/)
 
-Hossain (2026) develops a typology of LLM reliance among undergraduate writers at a minority-serving R1 institution, identifying four distinct profiles: strategic scaffolders who use AI for idea generation and structure, critical editors who revise AI output substantially, passive acceptors who submit AI-generated text with minimal changes, and uncritical delegators who offload entire assignments. The mixed-methods design combines survey data with qualitative interviews, revealing that self-efficacy and prior academic preparation are the strongest predictors of the reliance type. The [[over-reliance]] types (passive acceptors and uncritical delegators) were disproportionately represented among students with lower writing self-efficacy, raising [[equity]] concerns. The findings directly inform [[ai-literacy]] curriculum design by identifying which student populations need targeted support. The study contributes to [[writing-education]] research by mapping how [[student-experience]] of AI writing tools varies across a diverse student body, challenging one-size-fits-all AI policies in [[higher-ed]].
+Hossain (2026) develops a typology of LLM reliance among undergraduate writers at a minority-serving R1 institution, identifying four distinct profiles: strategic scaffolders who use AI for idea generation and structure, critical editors who revise AI output substantially, passive acceptors who submit AI-generated text with minimal changes, and uncritical delegators who offload entire assignments. The mixed-methods design combines survey data with qualitative interviews, revealing that self-efficacy and prior academic preparation are the strongest predictors of the reliance type. The [[over-reliance]] types (passive acceptors and uncritical delegators) were disproportionately represented among students with lower writing self-efficacy, raising [[equity-in-ai-education]] concerns. The findings directly inform [[ai-literacy]] curriculum design by identifying which student populations need targeted support. The study contributes to [[writing-education]] research by mapping how [[student-experience]] of AI writing tools varies across a diverse student body, challenging one-size-fits-all AI policies in [[higher-ed]].
 
 ## Connected Concepts
 
 - [[over-reliance]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[writing-education]]
 - [[student-experience]]
@@ -18421,7 +18421,7 @@ The work contributes to understanding of [[universal-design-for-learning]] in ed
 - [[accessible-learning]]
 - [[professional-training]]
 - [[instructional-design]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[edtech-platform]]
 
 ## Connected Articles
@@ -18935,13 +18935,13 @@ User study with 24 participants comparing classroom instruction, mixed-reality a
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
 
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 
@@ -20176,12 +20176,12 @@ Hooshyar, D., Šír, G., Yang, Y., Kärkkäinen, T., Hämäläinen, R., Krivich,
 
 This study surveyed 24 neurodivergent computing students (autistic and/or ADHD) and 20 neurotypical peers, supplemented by 4 in-depth interviews, to understand how collaborative active learning structures affect comfort and accessibility. Three key findings emerge: **(1)** Neurodivergent students experience significant discomfort with assignments that lack clear structure or have ambiguous expectations — the title quote reflects a common frustration with unspoken social norms in teamwork. **(2)** They strongly prefer **smaller teams that work together consistently**, with **explicitly defined roles**, minimizing the cognitive load of social negotiation. **(3)** Common coping strategies include self-selecting roles and strategic self-disclosure of neurodivergence.
 
-The findings connect to broader concerns in [[equity-in-ai-education]] and [[equity]]: as AI tutors and collaborative AI tools enter computing classrooms, their interaction models may inadvertently replicate the same structural ambiguities that disadvantage neurodivergent learners. The preference for defined roles and predictable structures mirrors themes in [[special-education]] about explicit scaffolding. For [[cs-education]], the study provides actionable design recommendations: instructors should provide structured assignments, use smaller consistent teams, and allow role self-selection. While preliminary (n=24), this is among the first studies to center neurodivergent voices in computing education research, contributing to more [[student-experience|student-centered]] approaches to [[collaborative-learning]].
+The findings connect to broader concerns in [[equity-in-ai-education]] and [[equity-in-ai-education]]: as AI tutors and collaborative AI tools enter computing classrooms, their interaction models may inadvertently replicate the same structural ambiguities that disadvantage neurodivergent learners. The preference for defined roles and predictable structures mirrors themes in [[special-education]] about explicit scaffolding. For [[cs-education]], the study provides actionable design recommendations: instructors should provide structured assignments, use smaller consistent teams, and allow role self-selection. While preliminary (n=24), this is among the first studies to center neurodivergent voices in computing education research, contributing to more [[student-experience|student-centered]] approaches to [[collaborative-learning]].
 
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[special-education]]
 - [[cs-education]]
 - [[student-experience]]
@@ -20710,14 +20710,14 @@ Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan (2026). [Par
 
 A systematic API audit of four LLMs acting as history tutors evaluates 1,800 responses about the 1989 Romanian Revolution, exposing a 'paternalistic filter': models differentially refuse or soften answers for marginalized students, reproducing epistemic injustice. The audit reveals that guardrails and refusals are not uniform but patterned by student identity and topic sensitivity.
 
-Centers on [[llm]] tutors in [[student-experience]] and the harms catalogued under [[ai-tutor-safety-harms]], with strong links to [[bias-mitigation]] and [[equity]] in [[higher-ed]]. It extends [[over-reliance]] concerns by showing even refusal behavior can entrench inequality, and calls for fairness evaluations that account for differential treatment across student groups.
+Centers on [[llm]] tutors in [[student-experience]] and the harms catalogued under [[ai-tutor-safety-harms]], with strong links to [[bias-mitigation]] and [[equity-in-ai-education]] in [[higher-ed]]. It extends [[over-reliance]] concerns by showing even refusal behavior can entrench inequality, and calls for fairness evaluations that account for differential treatment across student groups.
 
 ## Connected Concepts
 
 - [[llm]]
 - [[student-experience]]
 - [[bias-mitigation]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[over-reliance]]
 ## Connected Articles
@@ -21197,7 +21197,7 @@ This is a **critical editorial** (not an empirical study) in *Learning, Media an
 
 ## Implications for AI in Education
 
-The editorial offers a critical corrective to the proliferation of AI literacy frameworks in education, arguing that [[ai-literacy]] is often deployed as a solutionist, instrumental "cure-all" that overlooks questions of power, agency, and ideology — the cornerstones of [[critical-thinking|critical]] and [[equity|equitable]] approaches. It cautions that AI literacy programmes from commercial tech companies (Google, Microsoft) can only produce "partial forms" of the knowledge and skills required, and that AI literacy should be located within the broader field of critical digital literacies rather than treated as a separate, rarefied programme. For educators, it argues institutions must be reconfigured to find time and space for critical engagement with AI, supporting students to write with, redesign, or even resist AI. It connects to [[ai-education]], [[ethics]], and [[generative-ai]], and resonates with critical work on AI literacy and power ([[ai-literacy-power-knowledge|AI literacy as power-knowledge]]).
+The editorial offers a critical corrective to the proliferation of AI literacy frameworks in education, arguing that [[ai-literacy]] is often deployed as a solutionist, instrumental "cure-all" that overlooks questions of power, agency, and ideology — the cornerstones of [[critical-thinking|critical]] and [[equity-in-ai-education|equitable]] approaches. It cautions that AI literacy programmes from commercial tech companies (Google, Microsoft) can only produce "partial forms" of the knowledge and skills required, and that AI literacy should be located within the broader field of critical digital literacies rather than treated as a separate, rarefied programme. For educators, it argues institutions must be reconfigured to find time and space for critical engagement with AI, supporting students to write with, redesign, or even resist AI. It connects to [[ai-education]], [[ethics]], and [[generative-ai]], and resonates with critical work on AI literacy and power ([[ai-literacy-power-knowledge|AI literacy as power-knowledge]]).
 
 ## Limitations
 
@@ -21208,7 +21208,7 @@ As an editorial, the article presents an argumentative and conceptual position r
 - [[ai-literacy]]
 - [[critical-thinking]]
 - [[ethics]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-education]]
 - [[generative-ai]]
 
@@ -21228,13 +21228,13 @@ Pangrazio, L. (2026). [*The (im)possibility of AI literacy*](https://doi.org/10.
 
 ## [Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?](https://edtechdev.github.io/aied/articles/post-covid-ict-career-aspirations/)
 
-**Post-COVID ICT Career Aspirations** uses PISA 2018 and 2022 country-level data to investigate whether students entering the generative AI era have adequate educational foundations. Using a mixed-methods approach including Variational Autoencoders for latent representation learning, the study finds that ICT career aspirations have increased globally but unevenly. Digital skills are the strongest and most consistent predictor of ICT aspirations, while teacher support plays a complementary role and student autonomy shows only weak, context-dependent effects. The findings challenge simplistic narratives about [[ai-literacy]] — rising interest in ICT careers does not automatically mean students have the foundational skills to succeed in AI-driven labor markets. This connects to [[digital-literacy-illusion]] findings about student overconfidence, and to [[teacher-ai-adoption-confidence]] research on the complementary role of teacher support. The multidimensional nature of educational readiness aligns with [[teacher-ai-competency]] frameworks, and the uneven global distribution of digital skills raises [[equity]] concerns previously documented in [[ai-education-global-capacity]].
+**Post-COVID ICT Career Aspirations** uses PISA 2018 and 2022 country-level data to investigate whether students entering the generative AI era have adequate educational foundations. Using a mixed-methods approach including Variational Autoencoders for latent representation learning, the study finds that ICT career aspirations have increased globally but unevenly. Digital skills are the strongest and most consistent predictor of ICT aspirations, while teacher support plays a complementary role and student autonomy shows only weak, context-dependent effects. The findings challenge simplistic narratives about [[ai-literacy]] — rising interest in ICT careers does not automatically mean students have the foundational skills to succeed in AI-driven labor markets. This connects to [[digital-literacy-illusion]] findings about student overconfidence, and to [[teacher-ai-adoption-confidence]] research on the complementary role of teacher support. The multidimensional nature of educational readiness aligns with [[teacher-ai-competency]] frameworks, and the uneven global distribution of digital skills raises [[equity-in-ai-education]] concerns previously documented in [[ai-education-global-capacity]].
 
 ## Connected Concepts
 
 - [[ai-literacy]]
 - [[teacher-ai-competency]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 - [[digital-literacy-illusion]]
@@ -22409,7 +22409,7 @@ Liévin, V., Schmidgall, S., Strother, T., Bijamov, A., Goel, A., Palepu, A., et
 
 ## [Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference](https://edtechdev.github.io/aied/articles/responsible-assessment-ai-era-stanford-2026/)
 
-> **Responsible assessment in the AI era** — assessment grounded in learners' sociocultural contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues generative AI has broken the assumption that final products measure human capability: learners can produce high-quality artifacts without the underlying learning, AI scoring introduces construct-irrelevant variance, and the gap between what is measured and what matters is widening. The field's response is a shift from testing events to systems of inference — continuous and [[formative-assessment]], portfolio- and conversation-based evidence ([[socratic-tests-conversational-assessment]]), [[authentic-assessment]] in real tasks, and [[human-in-the-loop-ai]] design — paired with validity infrastructure for [[automated-grading]], shared definitions of emerging constructs like [[ai-literacy]], and sustained attention to [[equity]], transparency, and trust.
+> **Responsible assessment in the AI era** — assessment grounded in learners' sociocultural contexts and designed to generate valid, trustworthy, context-specific inferences from accumulated evidence, not one-shot outputs. This Stanford Accelerator for Learning + ETS white paper (McGee, Thille, Choi, Ercikan & Hau, 2026, distilled from a January 2026 convening of ~100 education leaders) argues generative AI has broken the assumption that final products measure human capability: learners can produce high-quality artifacts without the underlying learning, AI scoring introduces construct-irrelevant variance, and the gap between what is measured and what matters is widening. The field's response is a shift from testing events to systems of inference — continuous and [[formative-assessment]], portfolio- and conversation-based evidence ([[socratic-tests-conversational-assessment]]), [[authentic-assessment]] in real tasks, and [[human-in-the-loop-ai]] design — paired with validity infrastructure for [[automated-grading]], shared definitions of emerging constructs like [[ai-literacy]], and sustained attention to [[equity-in-ai-education]], transparency, and trust.
 
 The report synthesizes a future-focused convening (January 29, 2026) on how assessment should evolve as AI reshapes learning, work, and measurement. It defines **responsible assessment** as assessment that is grounded in individuals' sociocultural contexts and designed to produce valid, trustworthy, context-specific inferences from accumulated evidence — a shift toward continuous, context-rich, developmentally oriented practices that leverage AI responsibly (building on Johnson, 2025).
 
@@ -22427,7 +22427,7 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 - **Formative assessment** — the call to extend [[formative-assessment]] with AI (peer feedback vs. AI feedback, culturally responsive tools) connects to [[ai-generated-feedback-higher-ed]] and [[feedback-loop]] research.
 - **Conversation-based assessment** — ECD-based AI-agent dialogue assessment aligns with [[socratic-tests-conversational-assessment]] and [[intelligent-tutoring]] design.
 - **Construct definitions** — the underdefined AI literacy / durable-skills problem echoes [[ai-literacy]] debates and educational-theory work on what AI-era competencies mean operationally.
-- **Equity & trust** — sociocultural responsiveness, bias in AI scoring, and human accountability map to [[equity]], [[human-in-the-loop-ai]], and [[ai-ed-evaluation]].
+- **Equity & trust** — sociocultural responsiveness, bias in AI scoring, and human accountability map to [[equity-in-ai-education]], [[human-in-the-loop-ai]], and [[ai-ed-evaluation]].
 
 ## Connected Concepts
 
@@ -22937,7 +22937,7 @@ Scheu, S., Loeffler, S. N., & Maedche, A. (2026). Designing a mobile chatbot-bas
 
 ## [School network reorganization under educational and spatial constraints using classical and quantum optimization](https://edtechdev.github.io/aied/articles/school-network-reorganization-optimization/)
 
-> **Synthesis:** This paper develops an optimization framework for school network reorganization that integrates geographic, administrative, and educational criteria into an Integer Linear Programming formulation. Applied to the complete public school network of Calabria, Italy, and extended to a hybrid quantum optimization setting, the approach identifies optimal school aggregation plans under different policy scenarios while preserving [[equity]] and accessibility. The framework serves as a decision-support tool for sustainable educational planning in the era of [[ai-education|AI-enhanced operations research]].
+> **Synthesis:** This paper develops an optimization framework for school network reorganization that integrates geographic, administrative, and educational criteria into an Integer Linear Programming formulation. Applied to the complete public school network of Calabria, Italy, and extended to a hybrid quantum optimization setting, the approach identifies optimal school aggregation plans under different policy scenarios while preserving [[equity-in-ai-education]] and accessibility. The framework serves as a decision-support tool for sustainable educational planning in the era of [[ai-education|AI-enhanced operations research]].
 
 ## Optimization Framework
 
@@ -22963,7 +22963,7 @@ As school districts worldwide face declining enrollments and budget pressures, A
 
 ## Connected Concepts
 
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-education]]
 - [[k-12]]
 ## Connected Articles
@@ -24225,7 +24225,7 @@ Sun, Y., Liao, Y., & Ma, X. (2026). Advancing diagram-based reasoning in AI tuto
 
 ## [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](https://edtechdev.github.io/aied/articles/structural-silence-underrepresented-language-ai-2026/)
 
-> **Synthesis:** Roy & Roy (2026) argue that the **infrastructure of AI** — training corpora, tokenization, benchmarks, deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural barrier rather than an isolated technical limitation. Using Bengali as a case in AI-assisted education, they document four interlocking failures: a web-presence gap (<0.5% of global content for ~4% of the population), a 67:1 English↔Bengali training-token deficit, a tokenization penalty from the alphasyllabary script, and connectivity exclusion (36.5% rural vs 71.4% urban internet penetration). They position **offline-first design** as an equity-oriented infrastructure strategy. The work connects to [[equity]], [[language-learning]], and [[digital-divide]] debates in educational AI.
+> **Synthesis:** Roy & Roy (2026) argue that the **infrastructure of AI** — training corpora, tokenization, benchmarks, deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural barrier rather than an isolated technical limitation. Using Bengali as a case in AI-assisted education, they document four interlocking failures: a web-presence gap (<0.5% of global content for ~4% of the population), a 67:1 English↔Bengali training-token deficit, a tokenization penalty from the alphasyllabary script, and connectivity exclusion (36.5% rural vs 71.4% urban internet penetration). They position **offline-first design** as an equity-oriented infrastructure strategy. The work connects to [[equity-in-ai-education]], [[language-learning]], and [[digital-divide]] debates in educational AI.
 
 ## Four Interlocking Infrastructure Failures
 
@@ -24247,7 +24247,7 @@ The authors argue dataset scarcity should be understood as a **structural barrie
 
 ## Connected Concepts
 
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[language-learning]]
 - [[language-learning]]
 - [[digital-divide]]
@@ -25019,13 +25019,13 @@ Three-layer JavaScript pipeline (1500 lines) generates tactile 3D-printed statis
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
 
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 
@@ -25913,7 +25913,7 @@ The Delphi study had a modest fully-completed response rate in Round 1 (17 respo
 - [[curriculum-design]]
 - [[scaffolding]]
 - [[digital-divide]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ethics]]
 - [[higher-ed]]
 
@@ -26900,7 +26900,7 @@ Riegel, K., Hua, Y. C., Denny, P., Pădurean, V.-A., & Leinonen, J. (2026). [Say
 
 - **Geographically concentrated research:** Most AI and robotics education studies come from a small number of countries, limiting generalizability.
 - **Methodologically short-term:** Few longitudinal studies exist, making it difficult to assess lasting impacts on learning-gains and student outcomes.
-- **Equity gap:** Insufficient attention to [[equity]], human-centred design, and social implications of automation in education.
+- **Equity gap:** Insufficient attention to [[equity-in-ai-education]], human-centred design, and social implications of automation in education.
 - **Policy gaps:** [[educational-policy-ai|AI education policies]] lag far behind technological deployment.
 
 ## Implications
@@ -26912,7 +26912,7 @@ This critique of the AIED research landscape connects to broader [[ai-governance
 - [[ai-education]]
 - [[ai-literacy]]
 - [[ethics]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 - [[ai-governance-education]]
 - [[faculty-development]]
@@ -27322,7 +27322,7 @@ The wiki documents a paradigm shift: from AI as an integrity threat to be police
 
 ### Connections
 
-Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagiarism-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity]]. It is the ethical dimension of AI in education, inseparable from [[over-reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
+Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagiarism-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of AI in education, inseparable from [[over-reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
 
 ## Connected Concepts
 
@@ -27334,7 +27334,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[educational-policy-ai]]
 - [[regulation]]
 - [[ethics]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[over-reliance]]
 - [[ai-misuse-learning-harm]]
 - [[reducing-ai-misuse]]
@@ -27369,7 +27369,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 
 > **Accessible Learning** — the design and delivery of educational experiences that accommodate diverse learner needs, spanning physical, cognitive, sensory, and situational differences. In AI in education, accessible learning research examines both how AI tools can remove barriers for disabled and neurodivergent learners and how AI systems themselves must be designed to avoid creating new accessibility gaps.
 
-Accessible learning sits at the intersection of [[equity]], [[instructional-design]], and [[special-education]]. Unlike narrow accommodations that retrofit access onto existing systems, the accessible learning perspective — grounded in Universal Design for Learning — argues that environments should be designed for the full range of human diversity from the start. The articles in this wiki explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with neurodivergent users' lived experience as the starting point.
+Accessible learning sits at the intersection of [[equity-in-ai-education]], [[instructional-design]], and [[special-education]]. Unlike narrow accommodations that retrofit access onto existing systems, the accessible learning perspective — grounded in Universal Design for Learning — argues that environments should be designed for the full range of human diversity from the start. The articles in this wiki explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with neurodivergent users' lived experience as the starting point.
 
 ### Key research themes
 
@@ -27385,11 +27385,11 @@ Accessible learning sits at the intersection of [[equity]], [[instructional-desi
 
 ### Connections to related concepts
 
-Accessible learning is deeply connected to [[equity]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
+Accessible learning is deeply connected to [[equity-in-ai-education]] — accessibility is not merely a technical concern but a question of who gets to participate in learning. It connects to [[universal-design-for-learning]] as its theoretical foundation, to [[special-education]] for disability-specific approaches, to [[instructional-design]] for how courses and tools are structured, and to [[neurodiversity]] as the lens that reframes difference as diversity rather than deficit. The [[ai-education]] and [[generative-ai]] connections highlight both the promise (automated content adaptation) and peril (AI systems that reproduce exclusion).
 
 ## Connected Concepts
 
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[special-education]]
 - [[instructional-design]]
@@ -27889,7 +27889,7 @@ AI in education changes the roles of every stakeholder:
 - **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking|help-seeking]], and [[well-being|well-being]] shape how students encounter AI.
 - **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
 - **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[ai-governance-education|governance education]], [[governance|AI governance]], [[regulation|AI regulation]], [[privacy|privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], and [[lifelong-learning|professional and lifelong learning]] cover the institutional and societal layer.
-- **Equity and ethics:** [[equity|equity]], [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics|ethics]], and [[trust-calibration|trust calibration]] address fairness, access, and responsibility.
+- **Equity and ethics:** [[equity-in-ai-education|equity]], [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics|ethics]], and [[trust-calibration|trust calibration]] address fairness, access, and responsibility.
 
 ## Emergent and cross-cutting themes
 
@@ -27922,7 +27922,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[teacher-role]]
 - [[teacher-ai-competency]]
 - [[human-ai-collaboration]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ethics]]
 - [[ai-governance-education]]
 - [[educational-policy-ai]]
@@ -27968,7 +27968,7 @@ AI feedback quality spans multiple dimensions captured in the wiki:
 - **Accuracy:** Does the feedback correctly identify errors and strengths? ([[automated-grading]], [[automated-essay-scoring]])
 - **Helpfulness:** Does the feedback guide improvement? ([[feedback-loop]], [[ai-peer-feedback-systems]])
 - **Timeliness:** Is feedback delivered when the learner can act on it? ([[formative-assessment]])
-- **Bias:** Is feedback equitable across student populations? ([[bias-mitigation]], [[equity]])
+- **Bias:** Is feedback equitable across student populations? ([[bias-mitigation]], [[equity-in-ai-education]])
 - **Calibration:** Does the system know when it's uncertain? ([[confidence-aware-ai-assessment]])
 
 ### Connection to broader concepts
@@ -28039,7 +28039,7 @@ AI literacy research in this wiki spans four interconnected dimensions:
 
 **Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[over-reliance]] research showing that students who trust AI uncritically learn less.
 
-**Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[faculty-development]], and governance frameworks. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
+**Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[faculty-development]], and governance frameworks. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
 
 ### How AI literacy is developed
 
@@ -28062,7 +28062,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[academic-integrity]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[ai-acceptance-preservice-science-teachers-2026]]
@@ -28219,7 +28219,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[academic-integrity]]
 - [[rct]]
 - [[bias-mitigation]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-ed-evaluation]]
 - [[educational-measurement]]
 - [[llm]]
@@ -28375,7 +28375,7 @@ Automated Essay Scoring has a long history in educational technology, from early
 
 **Psychometric and trait-level scoring** moves beyond holistic scores. **[[psyscore-essay-scoring-zpd-feedback|PsyScore]]** provides a psychometrically-aware framework for trait-adaptive scoring with ZPD-grounded feedback. **[[icle-plus-plus-essay-scoring|ICLE++]]** models fine-grained traits for holistic essay scoring, advancing the precision of automated evaluation.
 
-**Bias and fairness** is a critical concern. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found that AI scoring systematically underestimates students from linguistically diverse backgrounds, highlighting the need for [[bias-mitigation]] and [[equity]] considerations in AES deployment.
+**Bias and fairness** is a critical concern. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found that AI scoring systematically underestimates students from linguistically diverse backgrounds, highlighting the need for [[bias-mitigation]] and [[equity-in-ai-education]] considerations in AES deployment.
 
 **L2 and self-referential assessment** explores non-native writing contexts. **[[self-referential-l2-writing-llm-assessment|Profile-based L2 assessment]]** uses a self-referential approach comparing student writing to their own prior work rather than native-speaker norms.
 
@@ -28387,7 +28387,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 
 - [[bias-mitigation]]
 - [[equity-in-ai-education]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[automated-grading]]
 - [[language-learning]]
 - [[educational-measurement]]
@@ -28418,7 +28418,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - **Essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] use prompting strategies to approach human-level reliability. [[aiawe-automated-writing-evaluation|AIAWE]] extends automated evaluation to broader writing assessment.
 - **Code review:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]] and [[code-review-genai-cs1|CS1 code review]] demonstrate automated assessment in computing education.
 - **Formative assessment integration:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] show how automated grading feeds into [[formative-assessment]] cycles.
-- **Bias and fairness:** [[ai-scoring-language-bias-physics|Language bias in physics scoring]] documents how automated grading can disadvantage non-native speakers — connecting to [[bias-mitigation]] and [[equity]].
+- **Bias and fairness:** [[ai-scoring-language-bias-physics|Language bias in physics scoring]] documents how automated grading can disadvantage non-native speakers — connecting to [[bias-mitigation]] and [[equity-in-ai-education]].
 
 ### Connections
 
@@ -28432,7 +28432,7 @@ Automated grading connects to [[assessment-validity]] (do automated scores measu
 - [[ai-feedback-quality]]
 - [[bias-mitigation]]
 - [[confidence-aware-ai-assessment]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[teacher-role]]
 - [[llm]]
 - [[generative-ai]]
@@ -28545,14 +28545,14 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 ## [Bias Mitigation](https://edtechdev.github.io/aied/concepts/bias-mitigation/)
 
-> **Bias mitigation** in educational AI requires auditing models across the pipeline: [[gender-bias-transfer-llm-writing]], [[ai-scoring-language-bias-physics]], [[llm-cultural-relevance-k12]], and [[equity]] (merged into [[equity]]) document bias sources and mitigation strategies from data curation to prompt design.
+> **Bias mitigation** in educational AI requires auditing models across the pipeline: [[gender-bias-transfer-llm-writing]], [[ai-scoring-language-bias-physics]], [[llm-cultural-relevance-k12]], and [[equity-in-ai-education]] (merged into [[equity-in-ai-education]]) document bias sources and mitigation strategies from data curation to prompt design.
 
 Bias mitigation in AIED concerns identifying and reducing unfair, identity-patterned behavior in AI tutors and educational systems (e.g., differential refusals or softening of answers for marginalized students). Surfaced by recent auditing work on LLM history tutors.
 
 ## Connected Concepts
 
 - [[student-experience]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[over-reliance]]
@@ -28756,7 +28756,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[teacher-role]]
 - [[human-in-the-loop-ai]]
 - [[student-experience]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[k-12]]
@@ -29138,11 +29138,11 @@ AI adds new layers to the equity implications of technology. Algorithmic bias ca
 
 ### Connections to related concepts
 
-The digital divide is a core concern of [[equity]] and [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
+The digital divide is a core concern of [[equity-in-ai-education]] and [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
 
 ## Connected Concepts
 
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[ethics]]
@@ -29250,11 +29250,11 @@ Research in this wiki explores edtech platform through multiple lenses:
 - [[intelligent-tutoring]]
 - [[stem-education]]
 - [[physics-education]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[personalized-learning]]
 - [[faculty-development]]
 - [[equity-in-ai-education]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[language-learning]]
 ## Connected Articles
 - [[multimodal-item-parameter-estimation-2026]]
@@ -29308,14 +29308,14 @@ The wiki documents that institutional AI policies [[genai-policies-higher-ed-com
 
 ### Connections
 
-Educational AI policy connects to [[regulation]] (legal framework), [[ai-governance-education]] (institutional implementation), [[faculty-development]] (policy implementation through training), [[equity]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
+Educational AI policy connects to [[regulation]] (legal framework), [[ai-governance-education]] (institutional implementation), [[faculty-development]] (policy implementation through training), [[equity-in-ai-education]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
 
 ## Connected Concepts
 
 - [[regulation]]
 - [[ai-governance-education]]
 - [[faculty-development]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[k-12]]
 - [[academic-integrity]]
@@ -29519,7 +29519,13 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 - **Language:** Most AI tools prioritize English, marginalizing multilingual learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
 - **Culture:** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]] and [[culturally-aware-aied-community-learning|community-centered AIED]] call for AI that reflects learners' cultural contexts rather than imposing dominant norms.
-- **Disability and neurodiversity:** [[accessible-learning|Accessible learning]], [[universal-design-for-learning|universal design]], [[neurodiversity|neurodiversity]], and [[special-education|special education]] research examines how AI can support or exclude learners with disabilities — [[neurodivergent-computing-students|neurodivergent computing students]] and [[genai-patient-education-transplant-handbooks|accessibility in educational materials]] are illustrative.
+- **Disability and neurodiversity:** [[accessible-learning|Accessible learning]], [[universal-design-for-learning|universal design]], [[neurodiversity|neurodiversity]], and [[special-education|special education]] research examines how AI can support or exclude learners with disabilities — [[neurodivergent-computing-students|neurodivergent computing students]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[accessible-learning|accessible educational materials]] are illustrative.
+
+## Special populations and global equity
+
+- **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], [[dyslexlens-dyslexic-learners-ai|dyslexic learners]], and [[accessible-learning|learners with disabilities]] represent groups whose needs are often overlooked in AI system design.
+- **Global South perspectives:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives often absent from Western-centric AIED research.
+- **Global capacity:** [[ai-education-global-capacity|Global capacity for AI education]] documents how generative AI benefits are distributed unevenly across countries and institutions, and [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] addresses structural socioeconomic gradients.
 
 ## Implications for AI in education
 
@@ -29531,7 +29537,6 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 ## Connected Concepts
 
-- [[equity]]
 - [[digital-divide]]
 - [[bias-mitigation]]
 - [[culturally-relevant-pedagogy]]
@@ -29546,6 +29551,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[student-experience]]
 - [[teacher-role]]
 - [[ai-education]]
+- [[agency]]
 
 ## Connected Articles
 
@@ -29565,56 +29571,16 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough
 - [[community-centered-ai-education-adults]] — Community-centered AI education for adults
 
----
-
-## [Equity in AI Education](https://edtechdev.github.io/aied/concepts/equity/)
-
-> **Equity** — the principle that AI in education should serve all learners fairly, without exacerbating existing disparities. Equity research in the wiki examines access gaps, bias in AI systems, culturally responsive design, and the distribution of AI's benefits and harms.
-
-### Equity dimensions in AIED
-
-- **Access equity:** [[access-not-enough-ai-tutoring-2026|Access is not enough]] — providing AI tools without addressing structural barriers does not close gaps. [[equity|Digital divide]] research and [[ai-literacy-equity-programming-policy|equity policy analysis]] document who gets left behind.
-- **Bias in AI systems:** [[bias-mitigation]], [[ai-scoring-language-bias-physics|language bias in scoring]], and [[bias-mitigation|algorithmic bias]] research show that AI can encode and amplify existing biases unless explicitly designed for fairness.
-- **Culturally responsive AI:** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]] and [[community-centered-ai-education-adults|community-centered AI education]] advocate for AI that reflects diverse cultural contexts.
-- **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], and [[dyslexlens-dyslexic-learners-ai|dyslexic learners]] represent groups whose needs are often overlooked in AI system design.
-- **Global equity:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives.
-
-### Equity as a design principle
-
-The wiki argues that equity must be designed into AI systems, not added as an afterthought. This connects to [[bias-mitigation]] (the technical approach), [[institutional-change-framework-ai|institutional change]] (the systemic approach), and [[ai-literacy]] (ensuring all students can use AI effectively).
-
-### Connections
-
-Equity connects to [[bias-mitigation]], [[special-education]], [[accessible-learning|accessible learning]], [[culturally-relevant-pedagogy]], and [[educational-policy-ai]] — it is the cross-cutting concern that every AI education deployment must address.
-
-## Connected Concepts
-
-- [[bias-mitigation]]
-- [[special-education]]
-- [[accessible-learning]]
-- [[culturally-relevant-pedagogy]]
-- [[ai-literacy]]
-- [[educational-policy-ai]]
-- [[higher-ed]]
-- [[k-12]]
-- [[privacy]]
-- [[regulation]]
-- [[ethics]]
-
-## Connected Articles
-
-- [[access-not-enough-ai-tutoring-2026]]
-- [[ai-scoring-language-bias-physics]]
 - [[ai-literacy-equity-programming-policy]]
-- [[culturally-aware-aied-community-learning]]
-- [[community-centered-ai-education-adults]]
-- [[amponsah-ai-acceptance-science-teachers-2026]]
-- [[neurodivergent-computing-students]]
 - [[elementary-writing-genai-systematic-review-2026]]
 - [[ai-uk-higher-education-policy-2026]]
-- [[genai-policies-higher-ed-computing]] — Who sets GenAI-use rules and how consistently across courses
-- [[genai-higher-education-systematic-review-2026]]
-- [[structural-silence-underrepresented-language-ai-2026]]
+- [[genai-policies-higher-ed-computing]]
+
+- [[paternalistic-filter-llm-history-education]]
+- [[connected-ai-lesson-planning-vietnam]]
+- [[dyslexlens-dyslexic-learners-ai]]
+- [[amponsah-ai-acceptance-science-teachers-2026]]
+- [[ground-truth-reliability-aied]]
 
 ---
 
@@ -29624,7 +29590,7 @@ Equity connects to [[bias-mitigation]], [[special-education]], [[accessible-lear
 
 ### Ethical dimensions
 
-- **Fairness and bias:** [[bias-mitigation]] and [[equity]] research address whether AI systems treat all learners fairly. [[ai-scoring-language-bias-physics|Language bias]] and [[bias-mitigation]] studies document real-world inequities.
+- **Fairness and bias:** [[bias-mitigation]] and [[equity-in-ai-education]] research address whether AI systems treat all learners fairly. [[ai-scoring-language-bias-physics|Language bias]] and [[bias-mitigation]] studies document real-world inequities.
 - **Privacy and consent:** [[privacy]] research examines data collection, student surveillance, and the power imbalance between institutions and learners.
 - **Transparency and explainability:** [[xai-education-framework|Explainable AI frameworks]] argue that students and teachers should understand how AI systems make decisions affecting them.
 - **Autonomy and agency:** [[over-reliance]] and [[cognitive-offloading]] research raise ethical questions about whether AI use diminishes learner agency.
@@ -29636,11 +29602,11 @@ The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-highe
 
 ### Connections
 
-Ethics connects to [[equity]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[ai-governance-education]]. It is the normative foundation for all other AI education concepts.
+Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[ai-governance-education]]. It is the normative foundation for all other AI education concepts.
 
 ## Connected Concepts
 
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[privacy]]
 - [[bias-mitigation]]
 - [[regulation]]
@@ -30393,7 +30359,7 @@ The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor)
 - [[adaptive-learning]]
 - [[llm]]
 - [[learning-analytics]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[personalized-learning]]
 - [[student-experience]]
 - [[self-regulated-learning]]
@@ -30501,18 +30467,18 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 
 ### Scale and equity
 
-K-12 AI deployment operates at societal scale — millions of students, compulsory education, and significant equity implications. [[equity]] and [[k-12]] research examines whether AI widens or narrows opportunity gaps.
+K-12 AI deployment operates at societal scale — millions of students, compulsory education, and significant equity implications. [[equity-in-ai-education]] and [[k-12]] research examines whether AI widens or narrows opportunity gaps.
 
 ### Connections
 
-K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (student competency), [[teacher-role]] (K-12 teacher transformation), [[equity]] (access gaps), and [[special-education]] (diverse learner needs).
+K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (student competency), [[teacher-role]] (K-12 teacher transformation), [[equity-in-ai-education]] (access gaps), and [[special-education]] (diverse learner needs).
 
 ## Connected Concepts
 
 - [[pedagogical-safety]]
 - [[ai-literacy]]
 - [[teacher-role]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[special-education]]
 - [[higher-ed]]
 - [[scaffolding]]
@@ -30633,13 +30599,13 @@ Language learning has emerged as a significant AI in education domain because la
 
 **Automated writing evaluation for L2 learners** evaluates AI's ability to assess non-native writing. **[[self-referential-l2-writing-llm-assessment|Bannò et al.]]** proposed a self-referential approach comparing student writing to their own prior work rather than native-speaker norms. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found AI scoring systematically underestimates linguistically weak students — a finding that connects to [[assessment-validity]] and [[bias-mitigation]] concerns. **[[genai-linguistic-diversity-academic-writing]]** explores how AI affects linguistic diversity in academic contexts.
 
-**Accessibility for language learners** connects to [[accessible-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity]] and [[special-education]].
+**Accessibility for language learners** connects to [[accessible-learning]]: **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed how dyslexic learners use AI for literacy support, and **[[ai-tools-arab-english-classrooms]]** explored AI tools in Arabic-English classroom contexts. These studies connect language learning to [[equity-in-ai-education]] and [[special-education]].
 
 ## Connected Concepts
 
 - [[writing-education]]
 - [[ai-literacy]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[assessment-validity]]
 - [[bias-mitigation]]
 - [[accessible-learning]]
@@ -30757,7 +30723,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[faculty-development]]
 - [[intelligent-tutoring]]
 - [[adaptive-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[regulation]]
 - [[over-reliance]]
 - [[teacher-role]]
@@ -31058,18 +31024,18 @@ The neurodiversity paradigm shifts the goal of special-education and accessibili
 
 ### Neurodiversity in the AI era
 
-Generative AI offers both promise and risk for neurodivergent learners. On the promise side, AI can provide alternative means of engagement, representation, and expression — supporting learners who struggle with conventional text, executive function, or social expectations — and can reduce [[cognitive-load-theory|cognitive load]] through [[personalized-learning]]. On the risk side, AI tools that assume a dominant communication style, or that encourage dependency, can disadvantage or undermine neurodivergent learners. Research on [[student-experience]] and [[ai-misuse-learning-harm]] suggests AI must be designed inclusively or it recapitulates [[equity]] gaps. Understanding a learner's neurotype is also essential for interpreting behavior signals in [[learning-analytics]] and [[student-modeling]].
+Generative AI offers both promise and risk for neurodivergent learners. On the promise side, AI can provide alternative means of engagement, representation, and expression — supporting learners who struggle with conventional text, executive function, or social expectations — and can reduce [[cognitive-load-theory|cognitive load]] through [[personalized-learning]]. On the risk side, AI tools that assume a dominant communication style, or that encourage dependency, can disadvantage or undermine neurodivergent learners. Research on [[student-experience]] and [[ai-misuse-learning-harm]] suggests AI must be designed inclusively or it recapitulates [[equity-in-ai-education]] gaps. Understanding a learner's neurotype is also essential for interpreting behavior signals in [[learning-analytics]] and [[student-modeling]].
 
 ### Connections
 
-Neurodiversity connects to [[special-education]], [[accessible-learning]], [[universal-design-for-learning]], and [[equity]]. It informs both how AI is deployed for [[student-experience]] and how assessments and literacy programs are designed to be fair across cognitive variability.
+Neurodiversity connects to [[special-education]], [[accessible-learning]], [[universal-design-for-learning]], and [[equity-in-ai-education]]. It informs both how AI is deployed for [[student-experience]] and how assessments and literacy programs are designed to be fair across cognitive variability.
 
 ## Connected Concepts
 
 - [[special-education]]
 - [[accessible-learning]]
 - [[universal-design-for-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[student-experience]]
 - [[personalized-learning]]
 - [[cognitive-load-theory]]
@@ -31529,7 +31495,7 @@ The wiki's research illustrates the main technical families:
 
 Research consistently cautions against standalone reliance on detection:
 
-- **Validity and fairness failures:** detection tools can be biased against non-native writers, producing false positives that unfairly penalize students, a concern connecting to [[bias-mitigation]] and [[equity]].
+- **Validity and fairness failures:** detection tools can be biased against non-native writers, producing false positives that unfairly penalize students, a concern connecting to [[bias-mitigation]] and [[equity-in-ai-education]].
 - **Notable error rates and trust erosion:** unreliable detection undermines student trust and the integrity of the assessment process.
 - **Task-dependence:** as the self-detection study shows, accuracy varies sharply by task type, so no single detector is dependable across all assessments.
 
@@ -31556,7 +31522,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[authentic-assessment]]
 - [[ai-literacy]]
 - [[over-reliance]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[bias-mitigation]]
 - [[higher-ed]]
 - [[ai-education]]
@@ -31599,7 +31565,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[k-12]]
 - [[ethics]]
 - [[regulation]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-governance-education]]
 - [[educational-policy-ai]]
 - [[pedagogical-safety]]
@@ -31967,7 +31933,7 @@ Regulation connects to [[educational-policy-ai]], [[ai-governance-education]], [
 - [[privacy]]
 - [[pedagogical-safety]]
 - [[academic-integrity]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[k-12]]
 
@@ -32668,7 +32634,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 ## Connected Concepts
 
 - [[accessible-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[neurodiversity]]
 - [[universal-design-for-learning]]
@@ -32829,7 +32795,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - **Interaction patterns:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] maps how students engage with AI across assignments. [[misiejuk-cognitive-offloading-prompting-2026|Prompting analysis]] reveals cognitive engagement levels through prompt structure.
 - **Motivation and agency:** [[ai-availability-student-motivation|AI availability and motivation]] examines whether knowing AI is available changes student effort. [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames agency and motivation as central challenges.
 - **Perceptions and attitudes:** [[genai-usage-design-students-survey|GenAI usage surveys]] and [[student-mental-models-genai|mental model studies]] investigate how students understand and trust AI.
-- **Equity dimensions:** [[student-experience]] intersects with [[equity]] — AI access and effectiveness vary across student populations.
+- **Equity dimensions:** [[student-experience]] intersects with [[equity-in-ai-education]] — AI access and effectiveness vary across student populations.
 
 ### Connections
 
@@ -32843,7 +32809,7 @@ Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai
 - [[ai-literacy]]
 - [[over-reliance]]
 - [[cognitive-offloading]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[k-12]]
 - [[scaffolding]]
 - [[metacognition]]
@@ -33021,7 +32987,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[faculty-development]]
 - [[ai-literacy]]
 - [[academic-integrity]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
 - [[agentic-ai]]
@@ -33259,7 +33225,7 @@ Trust connects to [[ai-literacy]], [[critical-thinking]], [[trust-calibration]],
 
 > **Universal Design for Learning (UDL)** — an educational framework that designs instruction to be accessible and effective for the widest range of learners by proactively building in flexible means of engagement, representation, and action/expression, rather than retrofitting accommodations for individuals.
 
-UDL rests on the insight that learner variability is the norm, not the exception. Rather than designing a single path and adding support for those who struggle, UDL designs multiple pathways from the start so that barriers are removed for everyone. It is a core lens for [[accessible-learning]], [[equity]], and [[special-education]].
+UDL rests on the insight that learner variability is the norm, not the exception. Rather than designing a single path and adding support for those who struggle, UDL designs multiple pathways from the start so that barriers are removed for everyone. It is a core lens for [[accessible-learning]], [[equity-in-ai-education]], and [[special-education]].
 
 ### The three principles
 
@@ -33269,16 +33235,16 @@ UDL rests on the insight that learner variability is the norm, not the exception
 
 ### UDL in the AI era
 
-Generative AI creates new opportunities and new risks for UDL. AI can personalize representation and provide alternative pathways, supporting [[personalized-learning]] and accessibility. But it can also encode bias, assume dominant communication styles, and — if it reduces learner agency — undermine the engagement principle. Research on [[ai-misuse-learning-harm]] and equity shows that AI tools must be designed with inclusive principles or they recapitulate [[equity]] gaps. UDL therefore informs both how AI is deployed and how AI-literacy and assessment are designed to be fair across learner variability.
+Generative AI creates new opportunities and new risks for UDL. AI can personalize representation and provide alternative pathways, supporting [[personalized-learning]] and accessibility. But it can also encode bias, assume dominant communication styles, and — if it reduces learner agency — undermine the engagement principle. Research on [[ai-misuse-learning-harm]] and equity shows that AI tools must be designed with inclusive principles or they recapitulate [[equity-in-ai-education]] gaps. UDL therefore informs both how AI is deployed and how AI-literacy and assessment are designed to be fair across learner variability.
 
 ### Connections
 
-UDL connects to [[accessible-learning]], [[equity]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles.
+UDL connects to [[accessible-learning]], [[equity-in-ai-education]], [[special-education]], [[instructional-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational fairness and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles.
 
 ## Connected Concepts
 
 - [[accessible-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[special-education]]
 - [[instructional-design]]
 - [[personalized-learning]]

@@ -26,7 +26,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[teacher-role]]
 - [[human-in-the-loop-ai]]
 - [[student-experience]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[k-12]]

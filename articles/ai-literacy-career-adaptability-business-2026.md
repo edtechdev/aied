@@ -25,7 +25,7 @@ This survey study collected data from 339 university students enrolled in econom
 
 ## Implications for AI in Education
 
-The study advances understanding of how higher education supports preparation for AI-intensive careers by clarifying the role of AI readiness as a key developmental mechanism. It argues that future research on AI and employability should move beyond treating digital competencies as direct predictors of career outcomes, instead examining the intermediate conditions that enable learning to become career-relevant. The differentiated roles of [[ai-literacy]], self-efficacy, and readiness caution against aggregating them into undifferentiated skill indices. For management education, the findings call for curricular architectures that integrate AI literacy across courses and progression points, pedagogical designs that normalize iterative experimentation with AI tools under guided supervision, and [[assessment]] strategies that evaluate applied judgment (problem framing, verification of outputs, responsible use) alongside technical understanding. It connects to [[student-experience]], [[higher-ed]], [[equity]], and [[motivation]], positioning AI readiness as a central construct for professional preparedness under continuous technological change.
+The study advances understanding of how higher education supports preparation for AI-intensive careers by clarifying the role of AI readiness as a key developmental mechanism. It argues that future research on AI and employability should move beyond treating digital competencies as direct predictors of career outcomes, instead examining the intermediate conditions that enable learning to become career-relevant. The differentiated roles of [[ai-literacy]], self-efficacy, and readiness caution against aggregating them into undifferentiated skill indices. For management education, the findings call for curricular architectures that integrate AI literacy across courses and progression points, pedagogical designs that normalize iterative experimentation with AI tools under guided supervision, and [[assessment]] strategies that evaluate applied judgment (problem framing, verification of outputs, responsible use) alongside technical understanding. It connects to [[student-experience]], [[higher-ed]], [[equity-in-ai-education]], and [[motivation]], positioning AI readiness as a central construct for professional preparedness under continuous technological change.
 
 ## Limitations
 
@@ -37,7 +37,7 @@ The study is cross-sectional, capturing AI literacy, readiness, and career adapt
 - [[student-experience]]
 - [[higher-ed]]
 - [[assessment]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[motivation]]
 
 ## Connected Articles

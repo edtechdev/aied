@@ -60,7 +60,7 @@ The review identifies several converging priorities:
 1. **Longitudinal and real-world validation** — moving beyond short-term lab studies
 2. **Stronger pedagogical grounding** — bridging the CS/education disciplinary divide
 3. **Governed adoption of emerging agent infrastructures** — particularly tool orchestration and multi-agent coordination
-4. **Systematic integration of ethics and human oversight** — connecting to [[equity]] and [[academic-integrity]] concerns
+4. **Systematic integration of ethics and human oversight** — connecting to [[equity-in-ai-education]] and [[academic-integrity]] concerns
 5. **Expanding beyond STEM and higher education** — into K-12, language learning, special education, and professional training contexts
 
 ## OpenClaw as an Analytical Lens

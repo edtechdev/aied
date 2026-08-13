@@ -32,7 +32,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 
 - **Not just an AI problem**: The finding that the same [[bias-mitigation]] pattern exists in human physics teachers challenges the assumption that AI introduces unique biases. Instead, it suggests a deeper [[assessment-validity]] challenge: distinguishing conceptual understanding from linguistic expression in text-based explanations is inherently difficult.
 
-- **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity]] concerns as [[automated-grading]] scales.
+- **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity-in-ai-education]] concerns as [[automated-grading]] scales.
 
 - **[[language-learning]]**: The finding that multilingual learners are disproportionately affected connects directly to broader concerns about AI tools in linguistically diverse classrooms. See also [[language-learning]] and [[genai-linguistic-diversity-academic-writing]].
 
@@ -56,7 +56,7 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[bias-mitigation]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[automated-grading]]
 - [[language-learning]]
 - [[ai-feedback-quality]]

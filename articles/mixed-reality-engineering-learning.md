@@ -20,13 +20,13 @@ User study with 24 participants comparing classroom instruction, mixed-reality a
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
+This paper contributes to the growing body of research on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate pedagogical oversight.
 
 ## Connected Concepts
 
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 

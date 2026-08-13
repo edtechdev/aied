@@ -22,7 +22,7 @@ confidence: high
 
 For [[teacher-ai-competency]] and [[teacher-role]] development, the findings point to a gap between teacher-candidates' enthusiasm for AI and their realized classroom use. The study's grounding in [[higher-ed]] and [[stem-education]] teacher preparation suggests that initial teacher education should move beyond awareness toward structured practice and [[faculty-development]] that closes the intention-to-use gap.
 
-Conducted in Ghana, the work also speaks to [[equity-in-ai-education]] and [[equity]] contexts where AI tools like ChatGPT are entering teacher education unevenly, with implications for [[educational-policy-ai]] and for building [[ai-literacy]] in institutions with limited infrastructure.
+Conducted in Ghana, the work also speaks to [[equity-in-ai-education]] and [[equity-in-ai-education]] contexts where AI tools like ChatGPT are entering teacher education unevenly, with implications for [[educational-policy-ai]] and for building [[ai-literacy]] in institutions with limited infrastructure.
 
 ## Connected Concepts
 

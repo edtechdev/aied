@@ -37,7 +37,7 @@ The Delphi study had a modest fully-completed response rate in Round 1 (17 respo
 - [[curriculum-design]]
 - [[scaffolding]]
 - [[digital-divide]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ethics]]
 - [[higher-ed]]
 
