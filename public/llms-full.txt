@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 579 articles and 116 concepts.
+> Complete text of 579 articles and 117 concepts.
 
 # Articles
 
@@ -15932,30 +15932,49 @@ Po-Chin Chang, Nicholas Hogan, Aske Plaat, Michiel T. van der Meer (2026). [Lear
 
 ## [Learning with machines: Toward a theory of epistemic co-agency](https://edtechdev.github.io/aied/articles/learning-with-machines-toward-a-theory-of-epistemic-co-agency/)
 
-> **Synthesis:** This paper introduces the Epistemic Entanglement Framework, a theory-informed model capturing how learners engage with AI systems. Drawing on distributed cognition, sociomaterialism, and posthumanist theory, the framework proposes epistemic co-agency as a reflexive stance wherein learners engage AI outputs dialectically—challenging assumptions, surfacing contradictions, and asserting epistemic sovereignty. Instructional and assessment implications emphasize the need to design for epistemic transformation, not just task efficiency.
+> **Synthesis:** Samuel (2026) introduces the **Epistemic Entanglement Framework**, a theory-informed model for understanding how learners engage with generative AI (GenAI) systems. Arguing that existing learning theories (constructivism, sociocultural theory, connectivism) presume human-centered epistemic agency and cannot account for the ways GenAI simulates reasoning, reframes arguments, and co-constructs meaning, the paper proposes **epistemic co-agency** — a reflexive stance in which learners engage AI outputs dialectically, challenging assumptions, surfacing contradictions, and asserting epistemic sovereignty. The central claim is that the real challenge of AI in education is not technological fluency but cultivating learners who can reason *with, through, and against* generative systems.
 
 ## Key Findings
 
-This paper introduces the Epistemic Entanglement Framework, a theory-informed model capturing how learners engage with AI systems. Drawing on distributed cognition, sociomaterialism, and posthumanist theory, the framework proposes epistemic co-agency as a reflexive stance wherein learners engage AI outputs dialectically—challenging assumptions, surfacing contradictions, and asserting epistemic sovereignty. Instructional and assessment implications emphasize the need to design for epistemic transformation, not just task efficiency. The central challenge of AI in education is not technological fluency but the cultivation of learners who can reason with, through, and against generative systems.
+- The paper identifies three **epistemic configurations** of human-AI interaction: **Epistemic Augmentation (EA)** — learners treat AI as a content generator, adopting a low-interrogation posture that improves surface productivity but leaves knowledge construction passive; **Epistemic Integration (EI)** — learners strategically prompt, refine, and coordinate AI outputs into evolving reasoning, managing knowledge production without interrogating the epistemic status of claims; and **Epistemic Co-Agency (EC)** — learners treat AI outputs as epistemically contestable contributions, engaging them dialectically while maintaining epistemic sovereignty and accountability for warranting knowledge.
+- These configurations are **not stages of maturity** but patterned epistemic relationships that vary by task, design, and learner posture; the task of learning design is to help learners recognize which configuration they are in, understand its limits, and develop agility to shift postures as needed.
+- **Epistemic entanglement** refers to the condition where knowledge construction emerges through reciprocal interaction between human reasoning and AI-generated contributions, such that the boundaries of authorship, authority, and justification become hard to disentangle.
+- **Epistemic co-agency** explicitly rejects "AI partner"/"co-author" metaphors (which imply mutuality and shared intention); it focuses instead on the learner's capacity to maintain epistemic sovereignty while navigating an entangled system of influence and response.
+- The framework warns against current AI-in-education tools that prioritize efficiency and risk reinforcing **passive epistemic postures** and overtrust, calling for design that embeds "epistemic friction" (prompt templates requiring justification, multiple-output displays, confidence visualizations, critique scaffolds like "What's missing?" and "Whose perspective is absent?").
+
+## Study Design & Method
+
+This is a conceptual/theoretical paper proposing a framework, not an empirical study. Drawing on distributed cognition, sociomaterialism, posthumanist theory, and the concept of relational agency, the author develops the Epistemic Entanglement Framework and articulates the three configurations (EA, EI, EC) in terms of distinct human postures, cognitive demands, and design implications. The configurations are also mapped onto analytic dimensions from Thürmel's (2015) graduated agency framework (activity level, adaptivity, interaction potential, personification, joint agency). The paper concludes with pedagogical and assessment implications for scaffolding learners toward co-agency, and acknowledges the author used ChatGPT as a supplementary writing/ideation tool during manuscript development.
+
+## Implications for AI in Education
+
+The paper reframes the learner-AI relationship as a **developmental epistemic process** rather than static tool-use or naive collaboration. For [[instructional-design|instructional design]], it argues current tools (SchoolAI, Curipod, ChatGPT) prioritize efficiency in ways that risk reinforcing passive epistemic postures, and calls for embedding epistemic friction and critique scaffolds. For [[formative-assessment|assessment]], it argues traditional assessments of correctness/coherence are poorly suited to capture epistemic shifts; instead, assessments should measure the reasoning trajectory (how the learner moved from question to insight and how AI figured in that arc), with reflective prompts, process explanations, and evidence of revision — while protecting against superficial "AI detection" that reduces engagement to surveillance. It positions GenAI not as an "assistant" but as an object of inquiry and a new epistemic actor, connecting to [[ai-literacy]], [[critical-thinking]], [[metacognition]], and [[cognitive-offloading]], and cautioning against [[over-reliance]].
+
+## Limitations
+
+As a conceptual paper, the framework has not been empirically tested; the author explicitly calls for future research to test and refine the model. The framework's configurations are theoretical constructs without operationalized measures. The paper does not provide concrete curriculum designs, only illustrative examples. The context is higher education, and the author notes disciplinary norms vary in how knowledge is validated, which may affect how the framework applies across fields.
 
 ## Connected Concepts
 
-- [[human-in-the-loop-ai]]
+- [[ai-literacy]]
+- [[critical-thinking]]
+- [[metacognition]]
+- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[formative-assessment]]
-- [[language-learning]]
-- [[intelligent-tutoring]]
-- [[adult-learning]]
-- [[socratic-method]]
-- [[reducing-ai-misuse]]
-- [[math-education]]
+- [[scaffolding]]
+- [[higher-ed]]
 
 ## Connected Articles
-- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
-- [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions]]
-- [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]]
-- [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]]
 
-## Citation## Citation
+- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Beyond the Skills Gap
+- [[genai-over-reliance-learning-2026]] — Generative AI and Over-Reliance
+- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Learning-to-Learn in the Age of Generative AI
+
+## Citation
+
 Samuel, A. (2026). [*Learning with machines: Toward a theory of epistemic co-agency*](https://doi.org/10.1016/j.caeai.2026.100573). *Computers and Education: Artificial Intelligence*.
 
 ---
@@ -16288,22 +16307,46 @@ Meyer, K. E., Page, L. C., Mata, C., Smith, E., Walsh, B. T., Fifield, C. L., Ty
 
 ## [Leveraging complex systems: Leading for transformative change](https://edtechdev.github.io/aied/articles/leveraging-complex-systems-leading-for-transformative-change/)
 
-> **Synthesis:** This paper introduces a novel leadership framework called SPARK (Systems, Problem, Analysis, Research, and Knowledge brokerage), designed to operationalise Complexity Leadership Theory in educational contexts disrupted by GenAI. Drawing on Kuhn's theory of paradigm shifts and Uhl-Bien's complexity leadership, the framework provides a structured approach for educational leaders to navigate tensions between institutional stability and demand for systemic innovation. SPARK combines distributed agency, adaptive capacity, and network-based leadership to guide the translation of GenAI-enhanced pedagogy from isolated pilots to scalable practices.
+> **Synthesis:** Dawson and Pardo (2026) argue that generative AI (GenAI) is precipitating a systemic, paradigmatic transformation of education — not a passing fad — and that traditional bureaucratic leadership structures are ill-suited for its pace, scale, and sociotechnical nature. They introduce the **SPARK framework** (Systems, Problem, Analysis, Research, and Knowledge brokerage), a pragmatic model that operationalises Complexity Leadership Theory (CLT) to help educational leaders navigate the tension between institutional stability and systemic innovation, translating GenAI-enhanced pedagogy from isolated pilots into scalable, institutionally embedded practices.
 
 ## Key Findings
 
-This paper introduces a novel leadership framework called SPARK (Systems, Problem, Analysis, Research, and Knowledge brokerage), designed to operationalise Complexity Leadership Theory in educational contexts disrupted by GenAI. Drawing on Kuhn's theory of paradigm shifts and Uhl-Bien's complexity leadership, the framework provides a structured approach for educational leaders to navigate tensions between institutional stability and demand for systemic innovation. SPARK combines distributed agency, adaptive capacity, and network-based leadership to guide the translation of GenAI-enhanced pedagogy from isolated pilots to scalable practices.
+- Education is understood as a **complex adaptive system** undergoing simultaneous epistemological and structural instability; GenAI destabilises foundational assumptions about knowledge production, learner agency, assessment validity, and the role of educators as epistemic authorities.
+- The paper layers three theoretical lenses: **Kuhn's paradigm shifts** (why education faces epistemic rupture), **Carlota Perez's techno-economic transitions** (how systemic changes unfold over time, with institutional lag creating turbulence), and **Uhl-Bien's Complexity Leadership Theory** (how leaders navigate instability by balancing bureaucratic stability with emergent innovation).
+- **CLT** distinguishes three leadership functions — *administrative* (stability, efficiency), *adaptive* (fostering innovation in response to complexity), and *enabling* (creating conditions for the other two to interact productively in "adaptive space"). The critical leadership task is judging when to reinforce administrative stability and when to enable adaptive space, maintaining "productive disequilibrium."
+- The **SPARK framework** comprises five interdependent components: **Systems** (mapping formal/informal structures, power dynamics, and leverage points), **Problem** (diagnosing adaptive challenges rather than surface technical problems), **Analysis** (data collection and recursive sense-making to surface hidden patterns), **Research** (integrating empirical/theoretical knowledge as an evidence base and feedback mechanism), and **Knowledge Brokerage** (activating and connecting networks of influence to scale innovation from pilots to systemic change).
+- Drawing on Centola and Macy's "complex contagions," the paper argues that high-risk innovations like GenAI require **multiple, reinforcing exposures from trusted social networks** (faculty learning communities, cross-functional teams, student-led initiatives) to be adopted — change diffuses through trust-based, socially embedded networks, not linear knowledge flow.
+
+## Study Design & Method
+
+This is a theoretical/conceptual paper. Drawing on Kuhn's theory of paradigm shifts, Perez's techno-economic framework, Uhl-Bien's Complexity Leadership Theory, and related work (Relational Leadership Theory, adaptive leadership, Meadows' leverage points, Centola & Macy's complex contagions), the authors develop the SPARK framework as a pragmatic operationalisation of CLT for the AI era. Each SPARK component is mapped onto the CLT leadership functions (e.g., Systems→administrative, Problem→adaptive, Knowledge Brokerage→enabling). The paper is grounded in prior empirical work on learning analytics adoption (Colvin et al., 2015; Dawson et al., 2018) demonstrating that technical success alone is insufficient for institutional change. No primary data were collected.
+
+## Implications for AI in Education
+
+The paper shifts attention from technical implementation of GenAI to the **leadership and systemic conditions** required for sustainable, equitable transformation. For institutional leaders, SPARK provides a practical toolkit to map complex systems, reframe institutional challenges, mobilise data and research, and broker knowledge across actor networks. It addresses pressing leadership challenges in the GenAI era — assessment integrity, personalised learning, and the ethics of human–machine collaboration — arguing these require collective sense-making, cross-disciplinary dialogue, and distributed agency across staff and students rather than technical fixes. It cautions that algorithmic personalisation risks narrowing educational purposes and displacing the relational and collective dimensions of learning, and that academic-integrity concerns demand pedagogical redesign (rethinking what counts as evidence of learning) alongside technical detection. It connects to [[higher-ed]], [[learning-analytics]], [[generative-ai]], and institutional-change research.
+
+## Limitations
+
+As a conceptual paper, SPARK is a proposed framework that has not been empirically validated; the authors present it as a practice-oriented toolkit rather than a tested model. It draws on examples from prior learning-analytics adoption research (mainly Australian higher education) rather than new data on GenAI adoption specifically. The framework's abstractions (complex contagions, leverage points, adaptive space) require contextual translation by leaders, and the paper does not provide detailed case studies of SPARK in use. The focus is on higher education leadership; applicability to other sectors (K-12, vocational) is not detailed.
 
 ## Connected Concepts
+
+- [[higher-ed]]
 - [[generative-ai]]
-- [[adaptive-learning]]
+- [[learning-analytics]]
+- [[personalized-learning]]
 
 ## Connected Articles
-- [[institutional-change-framework-ai]]
-- [[multimodal-knowledge-graph-educational-reasoning]]
-- [[ai-in-the-wild-college]]
 
-## Citation## Citation
+- [[institutional-change-framework-ai]] — Institutional Change Framework for AI
+- [[ai-in-the-wild-college]] — AI in the Wild: College Contexts
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+- [[state-policy-teacher-ai]] — State Policy and Teacher AI
+- [[stanford-evidence-base-ai-k12-2026]] — The Stanford Evidence Base for AI in K-12
+- [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: A Systematic Review
+
+## Citation
+
 Dawson, S., & Pardo, A. (2026). [*Leveraging complex systems: Leading for transformative change*](https://doi.org/10.1016/j.caeai.2026.100563). *Computers and Education: Artificial Intelligence*.
 
 ---
@@ -19657,30 +19700,51 @@ Cynthia Zastudil, Srishty Muthusekaran, Rayhona Nasimova, Stephen MacNeil (2026)
 
 ## [New systems of learning for distance learning institutions? A six-study review of implementing AIDA](https://edtechdev.github.io/aied/articles/new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of/)
 
-> **Synthesis:** This study examines how a large-scale distance learning institution designed, implemented, and evaluated an AI digital assistant (AIDA) using an embedded systems approach. Through six iterative Design-Based Research studies over 18 months involving 498 students and 20 staff, findings showed that acceptance increased post-use, especially among initially sceptical participants, with 96% expressing interest in AIDA for formal studies. In a randomized controlled trial, students using AIDA spent two times longer and visited more pages relative to the control group.
+> **Synthesis:** Rienties et al. (2026) examine how the Open University (UK) — a large-scale distance learning institution teaching 200K+ learners across 50+ countries — designed, implemented, and evaluated an AI digital assistant (AIDA) using Sharples' embedded systems approach. Through six iterative Design-Based Research (DBR) studies over 18 months involving 498 students and 20 staff, they found that purpose-built GenAI tools embedded within the learning environment can enhance engagement in distance education, provided development is participatory, governance is robust, and integration aligns with institutional strategy. In an exploratory randomized controlled trial, students using AIDA spent twice as long and visited more pages in the course relative to the control group.
 
 ## Key Findings
 
-This study examines how a large-scale distance learning institution designed, implemented, and evaluated an AI digital assistant (AIDA) using an embedded systems approach. Through six iterative Design-Based Research studies over 18 months involving 498 students and 20 staff, findings showed that acceptance increased post-use, especially among initially sceptical participants, with 96% expressing interest in AIDA for formal studies. In a randomized controlled trial, students using AIDA spent two times longer and visited more pages relative to the control group.
+- Early studies (1–3) gathered student preferences for AIDA's design and identified the benefits of 24/7, context-specific support embedded within the learning environment, alongside concerns over ethics, academic integrity, and data privacy; around 20% of students were initially highly sceptical about whether the OU should develop and use AIDA.
+- Later studies (4–6) explored actual hands-on use. Acceptance increased post-use, especially among initially sceptical participants, with **96% of students expressing interest in having AIDA available in their formal studies** — hands-on use of AIDA's quiz, explain, and chat functions shifted perceptions from abstract potential to tangible usefulness.
+- In an exploratory randomized controlled trial (Study 6; 115 experimental, 48 control students in an OpenLearn Create course), students supported by AIDA had **twice the usage time** and visited more pages relative to the control group, though no significant differences were found on overall time and other learning process data — possibly due to the exploratory task design and the sandbox environment differing from the main teaching environment.
+- Mapping the six studies against Sharples' embedded systems framework identified **enabling factors** — senior leadership sponsorship, cross-unit collaboration (between KMi and IET R&D units, Digital Services, and Faculties), iterative DBR refinement, and data-informed decision-making — while also revealing **gaps** in building systems-thinking capacity and institutionalising systemic change (early AIDA work operated in "pilot project" mode).
+- The paper warns against naive GenAI adoption, citing the demise of KhanMigo (learners were not actually engaging with the chatbot, with limited evidence of positive gains), underscoring that technical capability must be coupled with organisational readiness and governance.
+
+## Study Design & Method
+
+This is a six-study, 18-month Design-Based Research (DBR) programme conducted at the Open University, UK, involving 498 students and 20 staff. The research is framed by Sharples' (2025) embedded systems approach, which adapts Bronfenbrenner's (1979) Ecological Systems Theory to distance learning — recognising that how learners engage with AI is influenced by multiple nested layers (peers, materials, tutors, student services, IT support, quality assurance, government regulation, tech companies). It is also informed by the Diffusion of Innovations Theory (Rogers; Jin et al., 2025). Studies 1–3 gathered preferences and perceptions of AIDA's design; Studies 4–6 explored actual hands-on use by students and staff, culminating in Study 6's exploratory randomized controlled trial in an OpenLearn Create course. Findings were mapped against the nine key actions of Sharples' embedded systems framework.
+
+## Implications for AI in Education
+
+The study offers practical guidance for higher education (especially distance learning) institutions seeking to adopt GenAI ethically, transparently, and at scale. It demonstrates that purpose-built, contextually tuned AI assistants embedded within the learning environment (as opposed to generic external chatbots) can enhance engagement and perceived value, provided development is participatory (co-designed with students and staff) and integration aligns with institutional strategy. It highlights the unique position of distance learning institutions — where 70% of "students" are already in/at work and where in-person invigilation for academic integrity is unfeasible — making responsible, human-centred GenAI design a particular priority. It connects to [[higher-ed]], [[generative-ai]], [[privacy]], [[human-in-the-loop-ai]], [[learning-analytics]], [[adult-learning]], and [[accessible-learning]], and cautions against over-reliance on tools without organisational readiness and [[governance]].
+
+## Limitations
+
+The RCT (Study 6) was exploratory: students were asked to explore the OpenLearn Create course at their leisure with no credits or external reward, and the sandbox environment differed from the main teaching environment, which may explain the lack of significant differences in process/outcome data. The study focuses on one institution (the Open University), and the AIDA application is institution-specific. The authors acknowledge that early AIDA work operated in "pilot project" mode with limited systems-thinking capacity, and the mapping to Sharples' framework involves interpretive judgment.
 
 ## Connected Concepts
 
-- [[rag]]
-- [[intelligent-tutoring]]
-- [[adult-learning]]
-- [[socratic-method]]
-- [[math-education]]
 - [[higher-ed]]
-- [[accessible-learning]]
+- [[generative-ai]]
+- [[adult-learning]]
+- [[privacy]]
 - [[human-in-the-loop-ai]]
+- [[learning-analytics]]
+- [[rag]]
+- [[accessible-learning]]
+- [[intelligent-tutoring]]
 
 ## Connected Articles
-- [[tzirides-thinking-through-ai-2025]]
-- [[test-driven-ai-assisted-learning]]
-- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
-- [[taklif-ai-interest-based-personalized-assignments]]
 
-## Citation## Citation
+- [[tzirides-thinking-through-ai-2025]] — Thinking Through AI
+- [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: A Systematic Review
+- [[ai-adult-learning-guidelines-dis2026]] — AI and Adult Learning Guidelines
+- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI Course Redesign
+- [[taklif-ai-interest-based-personalized-assignments]] — Taklif: AI Interest-Based Personalized Assignments
+- [[test-driven-ai-assisted-learning]] — Test-Driven AI-Assisted Learning
+
+## Citation
+
 Rienties, B., Coughlan, T., Domingue, J., & Herodotou, C. (2026). [*New systems of learning for distance learning institutions? A six-study review of implementing AIDA*](https://doi.org/10.1016/j.caeai.2026.100607). *Computers and Education: Artificial Intelligence*.
 
 ---
@@ -21441,22 +21505,53 @@ Abdelghani, R., Kaiser, P., & Murayama, K. (2026). Regulating the AI Tutor: Inte
 
 ## [Reimagining feedback through generative AI in engineering education](https://edtechdev.github.io/aied/articles/reimagining-feedback-through-generative-ai-in-engineering-education/)
 
-> **Synthesis:** This study investigates the capacity of a large language model to generate formative feedback for student-created UML diagrams in a university software engineering course. Across two cohorts (N=262), AI-generated, teacher-generated, and no-feedback conditions were compared. Results show that while students rated GenAI feedback as beneficial and often comparable to human comments, teacher feedback remained more effective in supporting performance gains, especially in complex modeling tasks.
+> **Synthesis:** Pecuchova, Benko, and Drlik (2026) investigate the capacity of a large language model (GPTo1) to generate formative feedback for student-created UML diagrams in a university software engineering course. Across two cohorts (N = 262), AI-generated, teacher-generated, and no-feedback conditions were compared, analyzing student perceptions, learning outcomes, and grading reliability. Results show that while students rated GenAI feedback as beneficial and often comparable to human comments, teacher feedback remained more effective in supporting performance gains, especially in complex modeling tasks. Linguistic analysis revealed GenAI feedback was more repetitive and less pedagogically rich than human feedback.
 
 ## Key Findings
 
-This study investigates the capacity of a large language model to generate formative feedback for student-created UML diagrams in a university software engineering course. Across two cohorts (N=262), AI-generated, teacher-generated, and no-feedback conditions were compared. Results show that while students rated GenAI feedback as beneficial and often comparable to human comments, teacher feedback remained more effective in supporting performance gains, especially in complex modeling tasks. GenAI feedback represents a cognitive partner that can reshape assessment models, curriculum design, and faculty roles.
+- Students rated both feedback sources highly (GenAI mean = 4.09; teacher mean = 4.38 on a 5-point scale) and perceived GenAI feedback as beneficial; for some assignments (requirements specification, activity diagram) they found no significant difference between GenAI and teacher feedback, while teacher feedback was rated higher for use-case and class diagrams.
+- **Teacher feedback was more effective for learning**: students receiving teacher feedback gained on average 0.87 points more than those receiving GenAI feedback on score gain, and scored significantly higher on the automatically evaluated theoretical quizzes (p < 0.01) — though feedback source did not significantly influence final theoretical exam scores.
+- Feedback source significantly influenced performance on the **visual modeling tasks** of the final exam (p < 0.05), where teacher feedback led to better outcomes — teacher feedback was more effective in helping students master abstract modeling tasks.
+- **Perceived feedback quality** (not source alone) significantly predicted final exam performance; a mediation analysis suggested feedback source influenced perceived quality (β = −0.28, marginally non-significant p = 0.056).
+- **GenAI feedback was more repetitive and less linguistically rich**: teacher feedback had higher TTR, Hapax, and Entropy values. GenAI feedback skewed heavily toward diagnostic feedback (66% vs. teacher's 48%), was predominantly positive/neutral in early tasks but overly punitive in complex visual modeling, and had reduced capacity for nuance with partial or ambiguous diagrammatic content.
+- The findings argue for **hybrid feedback architectures** where GenAI operates as a first-pass evaluator and instructors retain formative oversight, given GenAI's "brittle" pedagogical judgment in ambiguity, abstraction, and design variation.
+
+## Study Design & Method
+
+This empirical study was conducted across two cohorts (N = 262 students) in a university software engineering course at Constantine the Philosopher University in Nitra, Slovakia, over two academic years (2023/2024, 2024/2025). Students completed four UML modeling assignments (requirements specification, use case diagram, class diagram, activity diagram) and six theoretical quizzes, followed by a final exam with three UML diagram tasks. A structured dataset of over 1800 unique student submissions with 68 variables per student was compiled. The GPTo1 model evaluated diagrams using nine prompt configurations (3 per diagram type), and results were compared with two independent human graders. Feedback was categorized by a human evaluator into four types (diagnostic, design, metacognitive, motivational), analyzed via two-way ANOVA, Mann-Whitney U tests, chi-square tests, Spearman correlation, and mediation analysis. A custom Slovak lexicon-based sentiment analysis and QuitaUp linguistic metrics (TTR, Hapax, Entropy) were used to assess feedback tone and richness. Students rated feedback on a 5-point Likert scale without knowing the source.
+
+## Implications for AI in Education
+
+The study provides empirical evidence on GenAI's capacity for formative feedback on complex, open-ended diagrammatic tasks — a domain where feedback is assessment-intensive and hard to scale. It shows GenAI can provide high-volume, well-received feedback but its pedagogical judgment is "brittle" under ambiguity, abstraction, and design variation, making it best suited as a first-pass evaluator within a hybrid human-AI feedback system. It contributes to the [[ai-feedback-quality]] and [[formative-assessment]] literature, connects to [[self-regulated-learning]] (feedback's role in driving learning), and positions GenAI feedback as reshaping assessment models, curriculum design, and faculty roles — democratizing access to formative feedback while raising equity, accountability, and policy challenges. The finding that perceived feedback quality (not source) drives outcomes suggests educators should focus on ensuring feedback is high-quality and actionable regardless of its origin.
+
+## Limitations
+
+The study is context-specific (a Slovak university software engineering course; UML diagram tasks in a domain-specific language), and the sentiment analysis relied on a custom heuristic Slovak lexicon rather than validated general-purpose tools. The dataset included a high proportion of international students, but nationality was not used in analysis. The no-feedback control condition's effects and long-term retention are not fully separated from the main comparisons. As a single-institution study, generalizability to other disciplines, languages, and feedback contexts requires replication.
 
 ## Connected Concepts
+
 - [[generative-ai]]
+- [[formative-assessment]]
+- [[ai-feedback-quality]]
+- [[higher-ed]]
+- [[curriculum-design]]
+- [[self-regulated-learning]]
+- [[cognitive-offloading]]
+- [[automated-essay-scoring]]
 
 ## Connected Articles
-- [[rail-ed-genai-literacy-teacher-education]]
-- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]]
-- [[liang-genai-systematic-review-human-ai-2026]]
-- [[generative-refusal-ai-tools-for-thought]]
 
-## Citation## Citation
+- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
+- [[multimodal-ai-feedback-learning]] — LLM-Based Multimodal AI Feedback Produces Equivalent Learning
+- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
+- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
+- [[ai-internal-feedback-evaluative-judgments]] — Unravelling Undergraduates' Development of Evaluative Judgments
+- [[rail-ed-genai-literacy-teacher-education]] — AI Literacy Training for Teachers
+- [[liang-genai-systematic-review-human-ai-2026]] — GenAI Systematic Review: Human-AI
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap
+
+## Citation
+
 Pecuchova, J., Benko, L., & Drlik, M. (2026). [*Reimagining feedback through generative AI in engineering education*](https://doi.org/10.1016/j.caeai.2026.100574). *Computers and Education: Artificial Intelligence*.
 
 ---
@@ -23686,23 +23781,54 @@ Bischof, L., Schön, E.-M., Rauschenberger, M., & Neumann, M. (2026). [Knowing t
 
 ## [Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study](https://edtechdev.github.io/aied/articles/students-engagement-with-generative-ai-in-academic-learning-a-self-determination/)
 
-> **Synthesis:** This qualitative case study examines undergraduate students' engagement with GenAI in academic learning using self-determination theory and epistemic network analysis. Data from 23 semi-structured interviews revealed that students frequently described GenAI as supporting efficiency and conceptual understanding, yet persistent tensions concerning creativity, trust, and academic integrity were systematically interconnected. The findings support a shift from prohibition-oriented responses to transparent institutional guidance, autonomy-supportive scaffolding of verification practices, and process-oriented assessment designs.
+> **Synthesis:** Isaeva et al. (2026) examine undergraduate students' engagement with generative AI (GenAI) in academic learning at an English-medium university, using self-determination theory (SDT) as the interpretive framework and epistemic network analysis (ENA) to model the structural relationships among themes. Analysis of 23 semi-structured interviews revealed that students frequently described GenAI as supporting efficiency and conceptual understanding, yet their accounts exposed persistent tensions concerning creativity, trust, and academic integrity. The ENA results showed these concerns were systematically interconnected — discussions of learning support consistently co-occurred with verification practices, reflecting a "trust-but-verify" repertoire through which students calibrated their reliance on AI while maintaining epistemic control.
 
 ## Key Findings
 
-This qualitative case study examines undergraduate students' engagement with GenAI in academic learning using self-determination theory and epistemic network analysis. Data from 23 semi-structured interviews revealed that students frequently described GenAI as supporting efficiency and conceptual understanding, yet persistent tensions concerning creativity, trust, and academic integrity were systematically interconnected. The findings support a shift from prohibition-oriented responses to transparent institutional guidance, autonomy-supportive scaffolding of verification practices, and process-oriented assessment designs.
+- Students' engagement with GenAI is best understood as a **motivated, value-oriented learning practice** shaped by the negotiation of the three SDT needs: autonomy, competence, and relatedness — not simply a technology-acceptance decision.
+- Students valued GenAI for **efficiency and conceptual support** (19/23 described time-saving; 15/23 conceptual understanding; 12/23 skill development), but 8 participants worried excessive reliance would diminish creativity or critical thinking: "When we ask it to write for us, it's not our creativity."
+- The ENA revealed a central cluster interconnecting *conceptual support, skill development, and prompting/personalization* with *cross-checking with sources* — a **"trust-but-verify" repertoire** where students incorporated AI outputs into active learning with verification, rather than fully delegating cognition.
+- A second key relationship co-occurred *creativity-vs-dependency* with *verification practices*, reflecting autonomy negotiation: students attempted tasks independently before consulting AI or verified outputs against external sources.
+- 16/23 raised **academic-integrity** concerns and distinguished legitimate assistance from cheating; 12/23 noted the **lack of explicit institutional AI policies** ("University doesn't have a clear and unified policy yet"); 19/23 positioned AI as an assisting tool rather than a substitute for human instruction.
+- Beyond instrumental concerns, students raised **privacy** (7), **algorithmic bias** (3), and **environmental sustainability** (6, e.g., water/energy use of large AI systems) — indicating broader value- and norm-related considerations.
+
+## Study Design & Method
+
+This qualitative case study was conducted at an English-medium university, examining 23 undergraduate students via semi-structured interviews. The authors used **self-determination theory (SDT)** as the primary interpretive framework, treating technology-acceptance perceptions (usefulness, ease of use) as descriptive cues rather than explanatory constructs. Data were analyzed using **reflexive thematic analysis**, complemented by **epistemic network analysis (ENA)** — an educational data-analytics method that models the structural co-occurrence of themes in discourse. 1,015 paragraph-level stanzas from the 23 interviews were coded (with automated coding validated against a manually coded subset); 23.0% contained two or more co-occurring codes. A permutation test (N=500) confirmed the co-occurrence structure significantly deviated from random expectations (p = .002). ENA edges denote the weighted strength of co-occurrence and are interpreted as structural relationships in reasoning, not causal effects.
+
+## Implications for AI in Education
+
+The findings support a shift from **prohibition-oriented responses** to GenAI toward transparent institutional guidance, **autonomy-supportive scaffolding** of verification practices and [[ai-literacy]], and **process-oriented assessment designs** that make students' reasoning visible. The study reframes students' AI use as a motivated, socially situated learning practice rather than a compliance problem, suggesting institutions should provide clear unified policies and guidance that help students calibrate trust and maintain epistemic control. It demonstrates how [[learning-analytics]] approaches like ENA can help educators examine how AI practices become integrated into learning processes. The findings connect to [[student-experience]], [[self-regulated-learning]], [[over-reliance]], [[critical-thinking]], and [[academic-integrity]], and highlight students' broader ethical awareness (privacy, bias, sustainability).
+
+## Limitations
+
+The study is a qualitative case study in a single English-medium university setting (with evidence from Azerbaijan, a post-Soviet context where institutional AI policies are underdeveloped), bounding generalizability. The sample is 23 students, and the ENA is exploratory — co-occurrence is modeled as structural relationship, not causation. The authors rely on students' self-reports of their AI practices rather than direct observation. The study was conducted before and during ongoing institutional policy development, so students' accounts may reflect a transitional context.
 
 ## Connected Concepts
+
 - [[generative-ai]]
+- [[student-experience]]
+- [[self-regulated-learning]]
+- [[ai-literacy]]
 - [[academic-integrity]]
+- [[learning-analytics]]
+- [[motivation]]
+- [[over-reliance]]
+- [[critical-thinking]]
+- [[metacognition]]
+- [[privacy]]
 
 ## Connected Articles
-- [[scaffolding-critical-engagement-genai-minority-students]]
-- [[persistent-ai-agents-academic-research]]
-- [[generative-ai-reduced-study-time-math]]
-- [[generative-ai-guardrails-harm-learning]]
 
-## Citation## Citation
+- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement With GenAI
+- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research
+- [[generative-ai-reduced-study-time-math]] — Generative AI and Reduced Study Time in Math
+- [[generative-ai-guardrails-harm-learning]] — Generative AI Guardrails and Harm to Learning
+- [[student-rationalization-ai-writing]] — "It's OK Because...": Student Rationalization of AI Writing
+- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
+
+## Citation
+
 Isaeva, R., Caner, H. N., Caner, M., Giray, L., & Karadag, E. (2026). [*Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study*](https://doi.org/10.1016/j.caeai.2026.100606). *Computers and Education: Artificial Intelligence*.
 
 ---
@@ -28671,6 +28797,56 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[elementary-writing-genai-systematic-review-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+
+---
+
+## [AI Governance](https://edtechdev.github.io/aied/concepts/governance/)
+
+> **AI governance** — the frameworks, policies, institutional structures, and norms that guide the responsible design, deployment, and use of artificial intelligence in education. Governance spans formal institutional mechanisms (AI steering groups, policies on academic integrity and acceptable use, ethical review) and informal norms (faculty guidelines, professional development, cultures of responsible AI use). In the AI era, effective governance is a prerequisite for ethical, equitable, and sustainable adoption of GenAI — it determines whether AI is integrated transparently, with accountability, or adopted reactively in ways that deepen inequities.
+
+AI governance in education is increasingly urgent because generative AI introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, learner agency, assessment validity, and the role of educators as epistemic authorities. Governance addresses questions of academic integrity (what counts as acceptable AI use), data privacy and security, algorithmic bias and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the wiki's research is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
+
+### How AI governance appears in the research
+
+- **Institutional adoption at scale:** [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|The AIDA study at the Open University]] shows how an institution designed, implemented, and evaluated a GenAI assistant, identifying that responsible system-level deployment requires governance structures (AI Steering Group), senior leadership sponsorship, and alignment with institutional strategy — not just technical capability.
+
+- **Leadership and systemic change:** [[leveraging-complex-systems-leading-for-transformative-change|SPARK]] frames governance within Complexity Leadership Theory, arguing leaders must balance administrative stability with emergent innovation, embedding governance mechanisms (policies, assessment regimes, accountability frameworks) so adaptive-space innovations can be sustained and scaled.
+
+- **Policy ambiguity and student experience:** [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Students' engagement with GenAI]] found 12/23 students noted the lack of explicit institutional AI policies ("University doesn't have a clear and unified policy yet"), arguing governance ambiguity shapes students' practices, norms, and self-regulation — supporting a shift toward transparent institutional guidance.
+
+- **Academic integrity and assessment:** Governance is central to how institutions handle AI-related [[academic-integrity]] concerns and redesign [[assessment|assessment]] — moving from prohibition/policing toward guidance, AI literacy, and process-oriented designs, as seen in research on [[student-rationalization-ai-writing|student rationalization]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
+
+- **Ethics, privacy, and bias:** Governance mechanisms operationalize the ethical principles ([[ethics]], [[privacy]], [[bias-mitigation]]) that are often recognized but not enforced, connecting to responsible AI and regulatory debates in education.
+
+### Governance across levels
+
+AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The wiki's research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including faculty development, transparent guidance, and ongoing evaluation.
+
+### Connections to related concepts
+
+AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to institutional change and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
+
+## Connected Concepts
+
+- [[ethics]]
+- [[higher-ed]]
+- [[privacy]]
+- [[bias-mitigation]]
+- [[academic-integrity]]
+- [[ai-literacy]]
+- [[learning-analytics]]
+- [[student-experience]]
+
+## Connected Articles
+
+- [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
+- [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Leading for Transformative Change
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' Engagement With GenAI (SDT)
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+- [[state-policy-teacher-ai]] — State Policy and Teacher AI
+- [[stanford-evidence-base-ai-k12-2026]] — The Stanford Evidence Base for AI in K-12
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment Redesign
+- [[ethical-ai-higher-ed-game-theory]] — Ethical AI in Higher Education
 
 ---
 
