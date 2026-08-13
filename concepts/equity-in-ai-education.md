@@ -1,66 +1,82 @@
 ---
 title: Equity in AI Education
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-13
 type: concept
-tags: [accessible-learning, culturally-sustaining-pedagogy, equity, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring]
+tags: [equity, accessible-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 confidence: high
 ---
 
-Equity in AI Education addresses systemic disparities in access to, representation within, and benefits from AI educational tools. Three critical dimensions emerge:
+> **Equity in AI education** — the principle that AI should serve all learners fairly, and the study of systemic disparities in access to, representation within, and benefits from AI educational tools. Equity research in the wiki examines access gaps and the digital divide, bias and fairness in AI systems, culturally responsive and linguistically inclusive design, accessibility for learners with disabilities, and the distribution of AI's benefits and harms across groups. It connects the technical (bias mitigation, fair algorithms) with the structural (infrastructure, policy) and the pedagogical (culturally relevant teaching).
 
-### 1. Access & Infrastructure Equity
-- **Digital Divide:** Unequal access to AI-powered learning tools across socioeconomic lines
-- **Language Barriers:** Most AI tools prioritize English, marginalizing multilingual learners
-- **Disability Access:** Need for AI tools designed with universal design principles
+Equity in AI education addresses three overlapping concerns: who *gets* AI tools (access), who and what is *represented* in AI systems (representation), and who *benefits* (outcomes). AI can both widen and narrow existing disparities depending on design, infrastructure, and policy. Equity is therefore a cross-cutting lens applied to [[bias-mitigation|algorithmic fairness]], [[digital-divide|digital access]], [[language-learning|linguistic inclusion]], [[accessible-learning|accessibility]], and [[culturally-relevant-pedagogy|culturally relevant teaching]].
 
-### 2. Representational Equity
-Wang et al. (2025) found that **78% of teachers** used LLMs to diversify curriculum materials, yet most AI training data reflects dominant cultural perspectives. Key gaps:
-- Underrepresentation of BIPOC authors in AI-curated reading lists
-- Western-centric problem contexts in STEM AI tutors
-- Gender and racial bias in AI-generated examples
+## Access and infrastructure equity
 
-### 3. Outcome Equity
-- **Differentiated Impact:** AI tools may widen gaps if designed without equity lens
-- **Teacher Bias Amplification:** AI suggestions can reinforce (not challenge) existing biases
-- **Student Agency:** Ensuring AI empowers rather than replaces student voice
+- **The digital divide:** [[digital-divide|Unequal access]] to AI-powered learning tools across socioeconomic lines, regions, and nations is a foundational barrier. [[ai-education-global-capacity|Global capacity research]] documents how generative AI benefits are distributed unevenly across countries and institutions.
+- **Access is not enough:** [[access-not-enough-ai-tutoring-2026|Providing AI tools without addressing structural barriers]] does not close gaps — access must be paired with skills, support, and conditions that enable genuine use.
+- **Infrastructure disadvantage:** [[structural-silence-underrepresented-language-ai-2026|Structural Silence]] shows that AI *infrastructure* — training corpora, tokenization, benchmarks, deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural rather than incidental problem.
+- **Socioeconomic gradients:** [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] and [[generative-ai-education-productivity-gaps|productivity-gap experiments]] examine how AI can either narrow or widen gaps among different learner groups.
 
-## References
+## Representational equity
 
-Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy*. arXiv:2505.08083.
+- **Bias in training data and outputs:** AI training data largely reflects dominant cultural perspectives. [[gender-bias-transfer-llm-writing|Gender bias transfer research]] shows LLM-assisted writing can contaminate student work with gender bias; [[paternalistic-filter-llm-history-education|history-education filters]] and [[ai-scoring-language-bias-physics|AI scoring]] can encode Western-centric and linguistically biased assumptions.
+- **Marginalized knowledges:** [[genai-minoritized-knowledges-disability|Research on minoritized knowledges]] examines how generative AI marginalizes non-dominant knowledge systems and disability perspectives in higher education.
+- **Curriculum diversification:** Teachers increasingly use LLMs to diversify curriculum materials (Wang et al., 2025, found 78% did so), yet AI-curated reading lists still underrepresent BIPOC authors, and STEM AI tutors default to Western-centric problem contexts.
 
-## Source
+## Outcome equity
 
-- https://arxiv.org/abs/2505.08083
+- **Differentiated impact:** AI tools may widen gaps if designed without an equity lens — [[genai-higher-education-systematic-review-2026|systematic reviews]] and [[ai-scoring-language-bias-physics|scoring-bias studies]] show uneven benefits and harms across learner groups.
+- **Bias amplification:** AI suggestions and automated feedback can reinforce (not challenge) existing teacher and systemic biases. [[fair-explainable-edu-recommendations|Fair and explainable recommendation]] work aims to make educational AI decisions both fair and interpretable.
+- **Fairness-aware systems:** [[bias-mitigation]] and [[ground-truth-reliability-aied|ground-truth reliability]] research develop methods for detecting and correcting bias in AI tutors, scorers, and recommenders.
+- **Student agency:** ensuring AI empowers rather than replaces student voice and [[agency]], especially for historically marginalized learners.
+
+## Linguistic, cultural, and disability inclusion
+
+- **Language:** Most AI tools prioritize English, marginalizing multilingual learners. [[genai-linguistic-diversity-academic-writing|Linguistic diversity in academic writing]], [[structural-silence-underrepresented-language-ai-2026|underrepresented languages]], and [[language-learning]] research address this.
+- **Culture:** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]] and [[culturally-aware-aied-community-learning|community-centered AIED]] call for AI that reflects learners' cultural contexts rather than imposing dominant norms.
+- **Disability and neurodiversity:** [[accessible-learning|Accessible learning]], [[universal-design-for-learning|universal design]], [[neurodiversity|neurodiversity]], and [[special-education|special education]] research examines how AI can support or exclude learners with disabilities — [[neurodivergent-computing-students|neurodivergent computing students]] and [[genai-patient-education-transplant-handbooks|accessibility in educational materials]] are illustrative.
+
+## Implications for AI in education
+
+- **Fairness is design, not afterthought:** bias mitigation and fairness-aware algorithms must be built into AI tutors, scorers, and recommenders, and evaluated for equity alongside accuracy.
+- **Infrastructure is equity:** addressing the digital divide and underrepresented-language infrastructure is a precondition for equitable AI, not a secondary concern.
+- **Representation matters in content and assessment:** AI-curated materials and automated assessment must reflect and not penalize diverse learners, cultures, languages, and knowledge systems.
+- **Pair access with support:** providing tools is insufficient; learners need skills, conditions, and culturally relevant scaffolding to benefit.
+- **Policy and governance:** institutional AI policy ([[educational-policy-ai]], [[governance]], [[ai-governance-education]]) must embed equity as a guiding principle.
 
 ## Connected Concepts
 
-- [[personalized-learning]]
-- [[student-experience]]
-- [[teacher-ai-competency]]
-- [[cs-education]]
-- [[language-learning]]
 - [[equity]]
+- [[digital-divide]]
+- [[bias-mitigation]]
+- [[culturally-relevant-pedagogy]]
+- [[language-learning]]
+- [[accessible-learning]]
+- [[universal-design-for-learning]]
+- [[neurodiversity]]
 - [[special-education]]
-- [[stem-education]]
-- [[metacognition]]
-- [[faculty-development]]
-- [[over-reliance]]
-- [[human-in-the-loop-ai]]
-## Connected Articles
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-acceptance-preservice-science-teachers-2026]]
-- [[competency-based-education-genai-production-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[critical-media-literacy-education-2026]]
+- [[ai-literacy]]
+- [[educational-policy-ai]]
+- [[governance]]
+- [[student-experience]]
+- [[teacher-role]]
+- [[ai-education]]
 
-- [[ai-education-global-capacity]]
-- [[ai-powered-materials-discovery-ai-literacy]]
-- [[ai-scoring-language-bias-physics]]
-- [[cost-of-ethics-crisis-cs-ethics-education]]
-- [[genai-patient-education-transplant-handbooks]]
-- [[hybrid-human-ai-tutoring-differentiated]]
-- [[international-students-conversational-ai-adaptation]]
-- [[llm-children-reading-story-generation]]
-- [[neurodivergent-computing-students]]
-- [[suacode-african-students-motivations]]
+## Connected Articles
+
+- [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
+- [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
+- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
+- [[structural-silence-underrepresented-language-ai-2026]] — Structural silence: underrepresented languages in AI infrastructure
+- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
+- [[ai-education-global-capacity]] — Global capacity for AI education
+- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
+- [[neurodivergent-computing-students]] — Neurodivergent computing students
+- [[ai-lifelong-learning-policy]] — AI and lifelong-learning policy
+- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps?
+- [[suacode-african-students-motivations]] — African students' motivations for computing
+- [[genai-linguistic-diversity-academic-writing]] — Linguistic diversity in AI-mediated academic writing
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Scaffolded AI literacy (SAIL) framework for equitable learning
+- [[access-not-enough-ai-tutoring-2026]] — Access is not enough
+- [[community-centered-ai-education-adults]] — Community-centered AI education for adults
