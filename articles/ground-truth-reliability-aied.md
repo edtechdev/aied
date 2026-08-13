@@ -77,6 +77,15 @@ The paper illustrates these shifts through case studies of **multimodal tutoring
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[ai-ed-evaluation]]
+- [[automated-essay-scoring]]
+- [[cs-education]]
+- [[administrator]]
+- [[hallucination-risk]]
+- [[automated-question-generation]]
+- [[open-source]]
+
 ## Connected Articles
 
 

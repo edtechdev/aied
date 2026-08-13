@@ -16,6 +16,15 @@ Recent work in Technology-Enhanced Learning and HumanComputer Interaction highli
 
 ## Connected Concepts
 
+- [[help-seeking]]
+- [[affective-tutoring]]
+- [[knowledge-tracing]]
+- [[teacher-ai-competency]]
+- [[socratic-ai-dialogue]]
+- [[pedagogical-agent]]
+- [[automated-question-generation]]
+- [[pedagogical-llm-training]]
+
 ## Connected Articles
 
 

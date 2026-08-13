@@ -11,6 +11,11 @@ confidence: medium
 
 ## Connected Concepts
 
+- [[confidence-aware-ai-assessment]]
+- [[item-response-theory]]
+- [[assessment-validity]]
+- [[educational-measurement]]
+
 ## Connected Articles
 - [[competency-based-education-genai-production-2026]]
 - [[multimodal-item-parameter-estimation-2026]]

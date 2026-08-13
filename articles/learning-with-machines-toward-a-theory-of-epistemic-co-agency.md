@@ -16,6 +16,15 @@ This paper introduces the Epistemic Entanglement Framework, a theory-informed mo
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[language-learning]]
+- [[intelligent-tutoring]]
+- [[adult-learning]]
+- [[socratic-method]]
+- [[reducing-ai-misuse]]
+- [[math-education]]
+
 ## Connected Articles
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]]
 - [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions]]

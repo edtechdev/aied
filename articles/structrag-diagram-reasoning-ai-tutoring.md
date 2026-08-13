@@ -34,6 +34,15 @@ Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring 
 
 ## Connected Concepts
 
+- [[automated-question-generation]]
+- [[socratic-method]]
+- [[ai-tutoring]]
+- [[math-education]]
+- [[socratic-ai-dialogue]]
+- [[pedagogical-agent]]
+- [[open-source]]
+- [[agentic-ai]]
+
 ## Connected Articles
 
 

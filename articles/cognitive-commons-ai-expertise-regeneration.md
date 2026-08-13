@@ -24,6 +24,15 @@ The paper reframes expertise development as collective stewardship rather than o
 
 ## Connected Concepts
 
+- [[open-source]]
+- [[plagiarism-detection]]
+- [[student-experience]]
+- [[ai-misuse-learning-harm]]
+- [[over-reliance]]
+- [[critical-thinking]]
+- [[lifelong-learning]]
+- [[generative-ai]]
+
 ## Connected Articles
 
 

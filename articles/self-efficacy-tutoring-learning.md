@@ -28,6 +28,15 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Connected Concepts
 
+- [[self-regulated-learning]]
+- [[personalized-learning]]
+- [[motivation]]
+- [[pedagogical-agent]]
+- [[affective-computing]]
+- [[intelligent-tutoring]]
+- [[math-education]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

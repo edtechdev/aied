@@ -15,6 +15,15 @@ Research themes include:
 
 ## Connected Concepts
 
+- [[higher-ed]]
+- [[rct]]
+- [[design-thinking]]
+- [[edtech-platform]]
+- [[pedagogical-llm-training]]
+- [[multimodal]]
+- [[efficacy-study]]
+- [[engagement-metrics]]
+
 ## Connected Articles
 
 - [[genai-pd-ai-pck-learning-gain-2026]]

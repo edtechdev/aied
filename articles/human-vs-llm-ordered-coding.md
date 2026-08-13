@@ -37,6 +37,15 @@ The study evaluated a single dataset drawn from three courses at one institution
 
 ## Connected Concepts
 
+- [[automated-assessment]]
+- [[self-regulated-learning]]
+- [[educational-nlp]]
+- [[automated-essay-scoring]]
+- [[learning-analytics]]
+- [[open-source]]
+- [[adaptive-learning]]
+- [[human-in-the-loop-ai]]
+
 ## Connected Articles
 
 

@@ -101,6 +101,15 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[help-seeking]]
+- [[metacognition]]
+- [[agentic-ai]]
+- [[reducing-ai-misuse]]
+- [[ethics]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 - [[principled-ai-education]]

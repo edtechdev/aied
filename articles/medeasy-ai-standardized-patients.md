@@ -16,6 +16,15 @@ MedEasy: Designing AI Standardized Patients for Clinical Consultation Training i
 
 ## Connected Concepts
 
+- [[socratic-ai-dialogue]]
+- [[lifelong-learning]]
+- [[ai-tutoring]]
+- [[math-education]]
+- [[affective-tutoring]]
+- [[equity-in-ai-education]]
+- [[teacher-ai-competency]]
+- [[help-seeking]]
+
 ## Connected Articles
 
 

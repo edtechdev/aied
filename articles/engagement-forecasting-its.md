@@ -45,6 +45,15 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 
 ## Connected Concepts
 
+- [[math-education]]
+- [[help-seeking]]
+- [[pedagogical-llm-training]]
+- [[transfer-of-learning]]
+- [[socratic-method]]
+- [[adaptive-learning]]
+- [[human-in-the-loop-ai]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]

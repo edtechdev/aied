@@ -16,6 +16,15 @@ From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated E
 
 ## Connected Concepts
 
+- [[automated-essay-scoring]]
+- [[formative-assessment]]
+- [[automated-question-generation]]
+- [[ai-ed-evaluation]]
+- [[human-in-the-loop-ai]]
+- [[cs-education]]
+- [[plagiarism-detection]]
+- [[open-source]]
+
 ## Connected Articles
 
 

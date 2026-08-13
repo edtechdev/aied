@@ -50,6 +50,15 @@ The paper identifies four gaps in existing frameworks:
 
 ## Connected Concepts
 
+- [[open-source]]
+- [[lifelong-learning]]
+- [[prompt-engineering]]
+- [[adaptive-learning]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[affective-tutoring]]
+- [[automated-essay-scoring]]
+
 ## Connected Articles
 
 

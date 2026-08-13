@@ -30,6 +30,15 @@ For science education, the argument reorients design: the many factors reported 
 
 ## Connected Concepts
 
+- [[pedagogical-agent]]
+- [[affective-computing]]
+- [[self-regulated-learning]]
+- [[personalized-learning]]
+- [[affective-tutoring]]
+- [[administrator]]
+- [[hallucination-risk]]
+- [[teacher-ai-competency]]
+
 ## Connected Articles
 
 

@@ -17,6 +17,15 @@ analyses 23 publicly available syllabi from upper-division, credit-bearing unive
 
 ## Connected Concepts
 
+- [[curriculum-design]]
+- [[instructional-design]]
+- [[higher-ed]]
+- [[accessible-learning]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[rct]]
+- [[active-learning]]
+
 ## Connected Articles
 
 

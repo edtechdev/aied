@@ -44,6 +44,15 @@ The framework gives [[instructional-design]] practitioners a vocabulary for usin
 
 ## Connected Concepts
 
+- [[instructional-design]]
+- [[self-regulated-learning]]
+- [[curriculum-design]]
+- [[math-education]]
+- [[constructivist]]
+- [[prompt-engineering]]
+- [[formative-assessment]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

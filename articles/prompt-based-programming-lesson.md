@@ -20,6 +20,13 @@ This study by Tran, Marwan & Price (2026) introduces and evaluates a 45-minute s
 ## Connected Articles
 
 
+- [[bridging-instructional-design-framework-math]]
+- [[llm-misconception-difficulty-easy-trap]]
+- [[bloom-aligned-educational-control-llms]]
+- [[youtube-frames-chatgpt-education]]
+- [[anvil-ai-educational-animations]]
+- [[prompt-problems-nl-programming-mistakes]]
+
 ## Citation
 
 Keith Tran, Samiha Marwan, Thomas Price (2026). [Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers](https://arxiv.org/abs/2606.30547). arXiv:2606.30547. cs.CY. - [[voice-text-prompt-problems-computing-education]] — Modality choice in prompt construction

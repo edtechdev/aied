@@ -17,6 +17,15 @@ reports a blind Turing Test evaluating leading LLMs on three Italian professiona
 
 ## Connected Concepts
 
+- [[benchmark]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[automated-essay-scoring]]
+- [[automated-question-generation]]
+- [[ai-ed-evaluation]]
+- [[open-source]]
+- [[cs-education]]
+
 ## Connected Articles
 
 

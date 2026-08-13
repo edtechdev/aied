@@ -16,6 +16,15 @@ Research themes include:
 ## Connected Concepts
 
 
+- [[help-seeking]]
+- [[affective-tutoring]]
+- [[metacognition]]
+- [[agentic-ai]]
+- [[ai-tutoring]]
+- [[teacher-ai-competency]]
+- [[socratic-ai-dialogue]]
+- [[pedagogical-agent]]
+
 ## Connected Articles
 
 

@@ -26,6 +26,15 @@ Operational use requires strategy-specific calibration, dimension-level validati
 
 ## Connected Concepts
 
+- [[formative-assessment]]
+- [[automated-essay-scoring]]
+- [[cs-education]]
+- [[automated-question-generation]]
+- [[ai-ed-evaluation]]
+- [[automated-assessment]]
+- [[socratic-method]]
+- [[prompt-engineering]]
+
 ## Connected Articles
 
 

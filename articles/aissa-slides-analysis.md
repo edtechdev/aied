@@ -26,6 +26,15 @@ Tested with 46 undergraduate students in a real academic setting. Findings: tech
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[automated-essay-scoring]]
+- [[cs-education]]
+- [[administrator]]
+- [[socratic-ai-dialogue]]
+- [[automated-question-generation]]
+- [[ai-ed-evaluation]]
+- [[affective-computing]]
+
 ## Connected Articles
 
 

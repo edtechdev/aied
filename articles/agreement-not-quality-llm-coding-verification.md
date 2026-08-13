@@ -21,6 +21,15 @@ The study contributes a transferable blind-verification protocol for evaluating 
 
 ## Connected Concepts
 
+- [[teacher-ai-competency]]
+- [[bias-mitigation]]
+- [[k-12-ai-education]]
+- [[student-experience]]
+- [[equity-in-ai-education]]
+- [[culturally-relevant-pedagogy]]
+- [[ai-education]]
+- [[formative-assessment]]
+
 ## Connected Articles
 
 

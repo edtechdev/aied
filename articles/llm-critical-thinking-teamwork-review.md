@@ -42,6 +42,15 @@ The authors explicitly list four limitations: (a) the search relied on the Web o
 
 ## Connected Concepts
 
+- [[higher-ed]]
+- [[collaborative-learning]]
+- [[critical-thinking]]
+- [[assessment]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[automated-essay-scoring]]
+- [[plagiarism-detection]]
+
 ## Connected Articles
 
 

@@ -61,6 +61,15 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 
 ## Connected Concepts
 
+- [[pedagogical-agent]]
+- [[agentic-ai]]
+- [[ai-tutoring]]
+- [[math-education]]
+- [[affective-tutoring]]
+- [[teacher-ai-competency]]
+- [[socratic-ai-dialogue]]
+- [[help-seeking]]
+
 ## Connected Articles
 
 - [[syal-multimodal-dialogue-stem-2026]]

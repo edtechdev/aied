@@ -21,6 +21,15 @@ The authors discuss limitations (integration complexity, content-authoring burde
 
 ## Connected Concepts
 
+- [[active-learning]]
+- [[affective-computing]]
+- [[math-education]]
+- [[human-in-the-loop-ai]]
+- [[affective-tutoring]]
+- [[administrator]]
+- [[equity-in-ai-education]]
+- [[teacher-ai-competency]]
+
 ## Connected Articles
 
 

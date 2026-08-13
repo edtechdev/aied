@@ -18,6 +18,15 @@ Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cyb
 
 ## Connected Concepts
 
+- [[plagiarism-detection]]
+- [[higher-ed]]
+- [[prompt-engineering]]
+- [[affective-tutoring]]
+- [[administrator]]
+- [[equity-in-ai-education]]
+- [[teacher-ai-competency]]
+- [[socratic-ai-dialogue]]
+
 ## Connected Articles
 
 

@@ -42,6 +42,15 @@ The study positions generative AI as a **scalable ideation tool for pedagogical 
 
 ## Connected Concepts
 
+- [[higher-ed]]
+- [[collaborative-learning]]
+- [[scaffolding]]
+- [[math-education]]
+- [[prompt-engineering]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

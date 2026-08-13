@@ -21,6 +21,15 @@ Preliminary data show shifting student behaviors and complex relationships betwe
 
 ## Connected Concepts
 
+- [[administrator]]
+- [[socratic-ai-dialogue]]
+- [[pedagogical-agent]]
+- [[automated-question-generation]]
+- [[agentic-ai]]
+- [[ai-tutoring]]
+- [[math-education]]
+- [[prompt-engineering]]
+
 ## Connected Articles
 
 

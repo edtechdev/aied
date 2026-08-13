@@ -16,6 +16,15 @@ This study examines how a large-scale distance learning institution designed, im
 
 ## Connected Concepts
 
+- [[rag]]
+- [[intelligent-tutoring]]
+- [[adult-learning]]
+- [[socratic-method]]
+- [[math-education]]
+- [[higher-ed]]
+- [[accessible-learning]]
+- [[human-in-the-loop-ai]]
+
 ## Connected Articles
 - [[tzirides-thinking-through-ai-2025]]
 - [[test-driven-ai-assisted-learning]]

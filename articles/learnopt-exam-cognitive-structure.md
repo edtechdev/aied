@@ -29,6 +29,15 @@ The piecewise-stable latent structure means exam preparation can be modeled as *
 
 ## Connected Concepts
 
+- [[knowledge-tracing]]
+- [[affective-computing]]
+- [[human-in-the-loop-ai]]
+- [[pedagogical-agent]]
+- [[self-regulated-learning]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[formative-assessment]]
+
 ## Connected Articles
 
 

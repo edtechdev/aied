@@ -32,6 +32,15 @@ The cross-sectional design does not establish directionality: engagement may sha
 
 ## Connected Concepts
 
+- [[personalized-learning]]
+- [[ai-literacy]]
+- [[adaptive-learning]]
+- [[affective-tutoring]]
+- [[bias-mitigation]]
+- [[affective-computing]]
+- [[prompt-engineering]]
+- [[knowledge-tracing]]
+
 ## Connected Articles
 
 

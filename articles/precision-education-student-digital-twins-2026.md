@@ -17,6 +17,15 @@ proposes a precision education framework that adapts precision medicine's predic
 
 ## Connected Concepts
 
+- [[knowledge-tracing]]
+- [[affective-computing]]
+- [[student-modeling]]
+- [[adaptive-learning]]
+- [[reinforcement-learning]]
+- [[intelligent-tutoring]]
+- [[lifelong-learning]]
+- [[personalized-learning]]
+
 ## Connected Articles
 
 

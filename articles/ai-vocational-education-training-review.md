@@ -41,6 +41,15 @@ The review restricted its search to English-language, peer-reviewed journal arti
 
 ## Connected Concepts
 
+- [[professional-training]]
+- [[efficacy-study]]
+- [[intelligent-tutoring]]
+- [[lifelong-learning]]
+- [[self-regulated-learning]]
+- [[constructivist]]
+- [[affective-tutoring]]
+- [[open-source]]
+
 ## Connected Articles
 
 

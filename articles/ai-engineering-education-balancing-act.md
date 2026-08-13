@@ -29,6 +29,15 @@ The "cruel optimism" argument has direct consequences for pedagogy: the efficien
 
 ## Connected Concepts
 
+- [[ai-literacy]]
+- [[administrator]]
+- [[teacher-ai-competency]]
+- [[bias-mitigation]]
+- [[agentic-ai]]
+- [[k-12-ai-education]]
+- [[ai-tutoring]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

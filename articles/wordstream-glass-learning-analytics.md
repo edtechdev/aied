@@ -16,6 +16,15 @@ Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative L
 
 ## Connected Concepts
 
+- [[administrator]]
+- [[affective-computing]]
+- [[math-education]]
+- [[human-in-the-loop-ai]]
+- [[affective-tutoring]]
+- [[equity-in-ai-education]]
+- [[teacher-ai-competency]]
+- [[help-seeking]]
+
 ## Connected Articles
 
 
