@@ -36,6 +36,10 @@ The authors note that the rapid evolution of GenAI makes it difficult to separat
 ## Connected Articles
 
 
-## Citation
 
-Razmerita, L., Zheng, X., & Allen, J. P. (2026). [*Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust*](https://doi.org/10.1016/j.caeai.2026.100625).
+- [[student-mental-models-genai]] — Uncovering Students' Mental Models of Generative Artificial Intelligence
+- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis

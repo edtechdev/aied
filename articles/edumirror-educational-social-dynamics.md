@@ -18,6 +18,10 @@ EduMirror introduces a multi-agent simulator for studying educational social dyn
 - [[learning-analytics]]
 ## Connected Articles
 
-## Citation
 
-Lin, J., Yu, H., Zeng, Y., & Zhong, F. (2026). [*EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation*](https://arxiv.org/abs/2606.07948). arXiv:2606.07948.
+- [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
+- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
+- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
+- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study

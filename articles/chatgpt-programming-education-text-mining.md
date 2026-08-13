@@ -24,6 +24,10 @@ The central finding is a **dual positioning**: ChatGPT is consistently framed as
 ## Connected Articles
 
 
-## Citation
 
-Grume et al. (2026). [Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education](https://arxiv.org/abs/2605.00361). arXiv:2605.00361. Pedagogical Innovations in CS Education (IGI Global).
+- [[shame-guilt-ai-regulation-computing-education]] — Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education
+- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
+- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
+- [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
+- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom

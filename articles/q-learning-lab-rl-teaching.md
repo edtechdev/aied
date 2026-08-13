@@ -40,6 +40,10 @@ Reinforcement learning is usually introduced through the Bellman update, yet the
 ## Connected Articles
 
 
-## Citation
 
-Ekkachai Jueng (2026). [Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis](https://arxiv.org/abs/2607.10802). arXiv:2607.10802. arXiv preprint.
+- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
+- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
+- [[llm-automated-assessment-student-self-explanations]] — Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
+- [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning

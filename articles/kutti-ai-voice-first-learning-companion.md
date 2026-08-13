@@ -26,6 +26,10 @@ The paper is a systems contribution rather than an efficacy study — no learnin
 ## Connected Articles
 
 
-## Citation
 
-Kadharmoideen Fadurudeen (2026). [Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children](https://arxiv.org/abs/2607.22377). arXiv:2607.22377. arXiv preprint.
+- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
+- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
+- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
+- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
+- [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing

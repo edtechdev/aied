@@ -27,6 +27,10 @@ The findings have implications for [[teacher-role|faculty development]] and [[ed
 ## Connected Articles
 
 
-## Citation
 
-Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026). ['A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform](https://arxiv.org/abs/2606.26729). arXiv:2606.26729. arXiv cs.HC.
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
+- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
+- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata

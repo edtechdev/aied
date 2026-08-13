@@ -60,6 +60,10 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 ## Connected Articles
 
 
-## Citation
 
-Engelhardt, L. (2026). A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI. [arXiv:2607.15518](https://arxiv.org/abs/2607.15518) [physics.ed-ph]. https://doi.org/10.48550/arXiv.2607.15518
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
+- [[moral-panic-genai-classroom]] — Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption
+- [[pchl-he-framework-genai-content-creation-2026]] — From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators

@@ -54,6 +54,10 @@ Vision Transformer (ViT) with LoRA adaptation for automated scoring of student-d
 ## Connected Articles
 
 
-## Citation
 
-Luyang Fang, Yingchuan Zhang, Jongchan Park, Zhaoji Wang, Ping Ma, Xiaoming Zhai (2026). [Confidence-Aware Automated Assessment of Student-Drawn Scientific Models](https://arxiv.org/abs/2606.20264). arXiv:2606.20264. arXiv cs.AI preprint.
+- [[psyscore-essay-scoring-zpd-feedback]] — PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback
+- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
+- [[learning-to-prompt-adaptive-tutoring]] — Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
+- [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
+- [[cong-confidence-asag-2026]] — Confidence-Aware Automatic Short Answer Grading
+- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading

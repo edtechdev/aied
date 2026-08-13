@@ -24,6 +24,10 @@ Preliminary data show shifting student behaviors and complex relationships betwe
 ## Connected Articles
 
 
-## Citation
 
-Geng, S., Lallos-Harrell, H., Ashar, J., McKenna, T. J., Dasgupta, A., Farny, C., & Lejeune, E. (2026). [Structured AI demonstrations and student LLM use in engineering mechanics: Study design and preliminary results](https://arxiv.org/abs/2607.28710). arXiv:2607.28710.
+- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+- [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
+- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
+- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty

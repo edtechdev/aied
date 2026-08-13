@@ -32,6 +32,10 @@ For the [[benchmark]] community and for AI tutor deployment, the findings argue 
 ## Connected Articles
 
 
-## Citation
 
-Junyi Yao, Zihao Zheng, Baichuan Li (2026). [Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact](https://arxiv.org/abs/2606.16206). arXiv:2606.16206. arXiv preprint.
+- [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
+- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
+- [[human-ai-collaboration-prerequisite-functions]] — What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it
+- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
+- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
+- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents

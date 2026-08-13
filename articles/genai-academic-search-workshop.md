@@ -20,6 +20,10 @@ This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Sea
 - [[self-regulated-learning]]
 ## Connected Articles
 
-## Citation
 
-Liu, Y., Arguello, J., Hoeber, O., et al. (2026). [*Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)*](https://arxiv.org/abs/2606.08936). arXiv:2606.08936.
+- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
+- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+- [[reshaping-cs-education-genai]] — Reshaping Undergraduate Computer Science Education in the Generative AI Era

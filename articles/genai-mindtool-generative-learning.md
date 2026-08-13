@@ -47,6 +47,10 @@ The framework gives [[instructional-design]] practitioners a vocabulary for usin
 ## Connected Articles
 
 
-## Citation
 
-Dabbagh, N., & Fake, H. (2026). [*Generative AI (GenAI) as a mindtool that supports generative learning (GL)*](https://doi.org/10.1016/j.caeai.2026.100626).
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Rethinking Higher Education: From Fixed Curricula to Learnity Graphs
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
+- [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education

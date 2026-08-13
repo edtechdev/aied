@@ -32,6 +32,10 @@ The findings suggest that prevailing responses to AI use — particularly those 
 ## Connected Articles
 
 
-## Citation
 
-Kate Hamilton, Irene Hou, Dev Patel, Sheena Nnam, Hena Patel, Stephen MacNeil (2026). ["Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education](https://arxiv.org/abs/2606.14920). arXiv:2606.14920. arXiv preprint.
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation in Introductory Programming
+- [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
+- [[student-rationalization-ai-writing]] — It''s OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing
+- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
+- [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)

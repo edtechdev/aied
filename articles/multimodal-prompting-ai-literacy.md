@@ -35,6 +35,10 @@ The author notes that the small sample size (28 postgraduate students) limits th
 ## Connected Articles
 
 
-## Citation
 
-Sofkova Hashemi, S. (2026). [*Students' multimodal prompting practices as epistemic work in AI literacy development*](https://doi.org/10.1016/j.caeai.2026.100635).
+- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
+- [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
+- [[pchl-he-framework-genai-content-creation-2026]] — From Prompts to Verified Loops: The PCHL-HE Framework for Generative AI-Assisted Educational and Research Content Creation in Higher Education
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
+- [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies

@@ -54,6 +54,10 @@ Students spent ~47% of gaze time on code despite visual scaffolds. Three factors
 ## Connected Articles
 
 
-## Citation
 
-Naaz Sibia, Jessica Wen, Amber Richardson, Yashika Jain, Khushi Malik, Bogdan Simion, Carolina Nobre, Angela Zavaleta Bernuy, Andrew Petersen, Michael Liut (2026). [Code as Anchor, Memory and Metaphor as Support: Learner Experiences with Multi-View Visualizations](https://arxiv.org/abs/2606.19570). arXiv:2606.19570. ICER 2026.
+- [[learning-to-prompt-adaptive-tutoring]] — Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring
+- [[psyscore-essay-scoring-zpd-feedback]] — PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback
+- [[confidence-aware-student-drawing-assessment]] — Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
+- [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
+- [[instructional-guidance-genai-learning]] — Role of Instructional Guidance in Generative AI-Assisted Learning
+- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty

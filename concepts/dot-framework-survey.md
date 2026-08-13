@@ -47,3 +47,10 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 
 ## Connected Articles
 
+
+- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
+- [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review

@@ -19,6 +19,10 @@ TibetCPR is a low-cost, self-guided CPR training system that pairs depth-driven 
 - [[intelligent-tutoring]]
 ## Connected Articles
 
-## Citation
 
-Meng, Y., Chen, R., Liu, Z., & Ding, X. (2026). [*TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude Regions of Tibet*](https://arxiv.org/abs/2606.07765). arXiv:2606.07765.
+- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
+- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
+- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
+- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
+- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)

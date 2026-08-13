@@ -33,6 +33,10 @@ The "cruel optimism" argument has direct consequences for pedagogy: the efficien
 ## Connected Articles
 
 
-## Citation
 
-Olya Kudina (2026). [Using AI in engineering education: a balancing act, driven by clear purpose](https://arxiv.org/abs/2606.16626). arXiv:2606.16626. The Routledge Handbook of the Philosophy of Engineering, 2nd ed..
+- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+- [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
+- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI

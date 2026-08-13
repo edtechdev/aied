@@ -37,6 +37,10 @@ SupplyNet represents a novel application of [[intelligent-tutoring]] principles 
 ## Connected Articles
 
 
-## Citation
 
-Li, Y., Han, K. K., Hu, T., Cao, Y.-F., Qu, H., & Song, S. (2026). [SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation](https://arxiv.org/abs/2606.24694). arXiv:2606.24694.
+- [[ai-vocational-education-training-review]] — Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness
+- [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
+- [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
+- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+- [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems

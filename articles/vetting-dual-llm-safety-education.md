@@ -37,6 +37,10 @@ The authors caution that the taxonomy is exploratory rather than fully validated
 ## Connected Articles
 
 
-## Citation
 
-Li, H., Zhang, S., & Botelho, A. F. (2026). [*VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI*](https://doi.org/10.1016/j.caeai.2026.100646).
+- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
+- [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
+- [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
+- [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
+- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
+- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy

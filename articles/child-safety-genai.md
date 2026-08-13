@@ -38,6 +38,10 @@ The results carry a direct warning for AI-based learning environments: general-p
 ## Connected Articles
 
 
-## Citation
 
-Haein Kong (2026). [Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework](https://arxiv.org/abs/2607.00395). arXiv:2607.00395. HEAL Workshop at CHI 2026, submitted 1 Jul 2026
+- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
+- [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
+- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
+- [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education

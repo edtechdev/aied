@@ -34,6 +34,10 @@ Memdora illustrates how AI-powered spaced repetition can move beyond scheduling 
 ## Connected Articles
 
 
-## Citation
 
-Ruiyang Zhang (2026). [Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition](https://arxiv.org/abs/2607.25096). arXiv:2607.25096. cs.HC.
+- [[simulating-learner-task-selection]] — Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
+- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
+- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
+- [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
+- [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
+- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing

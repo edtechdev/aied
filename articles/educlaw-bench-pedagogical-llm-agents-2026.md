@@ -26,6 +26,10 @@ Large language models (LLMs) power educational applications from tutoring to ess
 ## Connected Articles
 
 
-## Citation
 
-Unggi Lee, Sookbun Lee, Yeil Jeong, Eunjoo Lee, Minchul Shin, & Hoilym Kwon (2026). [EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners](https://arxiv.org/abs/2608.03206). arXiv:2608.03206. arXiv:2608.03206 [cs.CY].
+- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
+- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
+- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
+- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
+- [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs

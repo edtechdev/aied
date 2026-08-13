@@ -38,6 +38,10 @@ The continuum gives [[curriculum-design]] and [[faculty-development]] a shared v
 ## Connected Articles
 
 
-## Citation
 
-Liu & Levy (2026). [Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education](https://arxiv.org/abs/2606.00038). arXiv:2606.00038.
+- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
+- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+- [[critical-media-literacy-education-2026]] — Technology, Education and Critical Media Literacy: Potential, Challenges, and Opportunities
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education

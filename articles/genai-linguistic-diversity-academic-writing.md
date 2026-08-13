@@ -33,6 +33,10 @@ For [[writing-education]] and English for Research Publication Purposes, the dia
 ## Connected Articles
 
 
-## Citation
 
-Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026). [Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes](https://arxiv.org/abs/2607.28505). arXiv:2607.28505. cs.CL.
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms: Looking back and forward
+- [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
+- [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?

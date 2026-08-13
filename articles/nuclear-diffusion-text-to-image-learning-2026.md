@@ -19,6 +19,10 @@ Systematic study of domain-adapted text-to-image models for nuclear engineering 
 ## Connected Articles
 
 
-## Citation
 
-Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, & Majdi I. Radaideh (2026). [NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts](https://arxiv.org/abs/2608.04030). arXiv:2608.04030. arXiv preprint (cross-listed cs.GR/cs.CY).
+- [[mllm-scientific-visualization-literacy]] — Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy
+- [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
+- [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics
+- [[curriculum-as-code-instructional-design-2026]] — Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education
+- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
+- [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers

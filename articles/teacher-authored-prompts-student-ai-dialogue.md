@@ -24,6 +24,10 @@ The work also extends [[teacher-role]] scholarship by showing that teachers can 
 ## Connected Articles
 
 
-## Citation
 
-Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, Kevin He (2026). [Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation](https://arxiv.org/abs/2604.16738). arXiv:2604.16738. arXiv.
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
+- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
+- [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading

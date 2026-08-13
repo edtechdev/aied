@@ -27,6 +27,10 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 ## Connected Articles
 
 
-## Citation
 
-Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). [Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics](https://arxiv.org/abs/2608.03968). arXiv:2608.03968. EDULEARN26 Proceedings (IATED, 2026).
+- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
+- [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
+- [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
+- [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
+- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning

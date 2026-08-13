@@ -25,6 +25,10 @@ The framework emphasizes [[equity|cultural contextualization]] of AI tools, comm
 ## Connected Articles
 
 
-## Citation
 
-Zhao, J., Zhang, W., Cai, J., Gao, H., & Zhang, L. (2026). Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design. [arXiv:2606.09041](https://arxiv.org/abs/2606.09041).
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
+- [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
+- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning

@@ -20,6 +20,10 @@ Pilot study on privacy-aware computer vision for classroom incident detection. I
 ## Connected Articles
 
 
-## Citation
 
-Paritosh Parmar, Landy Lan, Hong Yang, Chen Yi, & Chiat Pin Tay (2026). [Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition](https://arxiv.org/abs/2608.05115). arXiv:2608.05115. arXiv preprint (cross-listed cs.CV/cs.HC).
+- [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
+- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
+- [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
+- [[turtleai-visual-programming-benchmark]] — TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics
+- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
+- [[antiskillbench-persona-skills-privacy-2026]] — When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills

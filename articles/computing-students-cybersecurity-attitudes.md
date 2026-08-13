@@ -23,6 +23,10 @@ Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cyb
 ## Connected Articles
 
 
-## Citation
 
-Victor Adama, Robert Biddle, Nalin Arachchilage, Danielle Lottridge (2026). [Confident yet Concerned: Inconsistencies in Computing Students&#39; Attitudes on Cybersecurity](https://arxiv.org/abs/2606.18541). arXiv:2606.18541.
+- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
+- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
+- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
+- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
+- [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
+- [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)

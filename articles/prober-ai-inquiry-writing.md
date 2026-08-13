@@ -32,6 +32,10 @@ Conventional AI writing tools that generate or rewrite text risk creating cognit
 ## Connected Articles
 
 
-## Citation
 
-Zhou, A.R.B.S.W.Y. & place), V.N.E.H. (2026). [*Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing*](https://arxiv.org/abs/2605.05598)
+- [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking
+- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
+- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
+- [[moodle-ai-tutoring-deep-learning]] — From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle
+- [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming

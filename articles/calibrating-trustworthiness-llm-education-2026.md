@@ -27,6 +27,10 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 ## Connected Articles
 
 
-## Citation
 
-Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, & Alex Endert (2026). [Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education](https://arxiv.org/abs/2608.04006). arXiv:2608.04006. arXiv:2608.04006 [cs.HC] (under review).
+- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
+- [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
+- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
+- [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+- [[cong-confidence-asag-2026]] — Confidence-Aware Automatic Short Answer Grading
+- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark

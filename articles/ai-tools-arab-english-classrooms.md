@@ -25,6 +25,10 @@ This work connects to core wiki themes: [[language-learning]] [[higher-ed]] [[wr
 ## Connected Articles
 
 
-## Citation
 
-Shormani & Alshawsh (2026). [AI tools in Arab University English classrooms: Looking back and forward](https://arxiv.org/abs/2607.05403). arXiv:2607.05403. arXiv preprint.
+- [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
+- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
+- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence

@@ -20,6 +20,10 @@ Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Ava
 ## Connected Articles
 
 
-## Citation
 
-Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler (2026). [Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars](https://arxiv.org/abs/2606.17786). arXiv:2606.17786.
+- [[medeasy-ai-standardized-patients]] — MedEasy: Designing AI Standardized Patients for Clinical Consultation Training
+- [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
+- [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation
+- [[astra-atco-training-simulator]] — ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training

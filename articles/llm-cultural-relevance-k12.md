@@ -30,6 +30,10 @@ The findings suggest LLMs can help teachers integrate **culturally relevant comp
 ## Connected Articles
 
 
-## Citation
 
-Wang, J., Xiao, R., Hou, X., Li, H., Tseng, Y. J., Stamper, J., & Koedinger, K. (2025). [*LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example*](https://arxiv.org/abs/2505.08083). arXiv:2505.08083.
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026

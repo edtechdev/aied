@@ -20,6 +20,10 @@ From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated E
 ## Connected Articles
 
 
-## Citation
 
-Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026). [From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions](https://arxiv.org/abs/2606.18257). arXiv:2606.18257.
+- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
+- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
+- [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
