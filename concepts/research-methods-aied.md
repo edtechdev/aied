@@ -13,9 +13,9 @@ The central tension in AIED research is that the strongest designs for causal in
 
 ### Experimental and quasi-experimental designs
 
-Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes like learning gains, engagement, or motivation. **Randomized controlled trials** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, between-subjects, or matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
+An **efficacy study** tests whether an intervention produces its intended learning effect, typically using experimental or quasi-experimental designs that compare outcomes with and without the intervention. Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes like learning gains, engagement, or motivation. **Randomized controlled trials** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, between-subjects, or matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
 
-- **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and [[efficacy-study|efficacy claims]].
+- **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and [[research-methods-aied|efficacy claims]].
 - **Limitations:** costly and slow; artificial conditions can reduce ecological validity; fast-changing AI tools make long experiments date quickly; small samples often underpower detection of meaningful effects; ethical constraints on withholding potentially helpful tools.
 - **Exemplars:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 
@@ -85,7 +85,7 @@ Delphi is often combined with other methods — for example, expert consensus ca
 
 Research and evaluation are closely related but distinct. **Research** asks generalizable questions about how AI affects learning — "does scaffolding improve learning outcomes?" — and aims to build theory and evidence that transfers beyond the specific study. **Evaluation** (see [[ai-ed-evaluation]]) assesses whether a *specific* AI tool or system works — is accurate, reliable, pedagogically sound, and fit for purpose — against benchmarks, rubrics, or stakeholder-defined criteria. Research emphasizes internal validity and generalization; evaluation emphasizes system quality and local decision-making.
 
-The boundaries blur: benchmark studies are evaluation that can feed research, and evaluation instruments (rubrics, ground-truth sets, validity frameworks) depend on the [[educational-measurement]] and [[assessment-validity]] concerns that research clarifies. Conversely, research findings on what supports learning should inform how AI tools are [[ai-ed-evaluation|evaluated]]. The wiki treats them as complementary: computational and benchmark evaluation ([[benchmark]], [[ai-ed-evaluation]]) tells us whether an AI system is technically sound, while efficacy and survey research ([[efficacy-study]], [[rct]]) tells us whether it helps people learn.
+The boundaries blur: benchmark studies are evaluation that can feed research, and evaluation instruments (rubrics, ground-truth sets, validity frameworks) depend on the [[educational-measurement]] and [[assessment-validity]] concerns that research clarifies. Conversely, research findings on what supports learning should inform how AI tools are [[ai-ed-evaluation|evaluated]]. The wiki treats them as complementary: computational and benchmark evaluation ([[benchmark]], [[ai-ed-evaluation]]) tells us whether an AI system is technically sound, while efficacy and survey research ([[rct]]) tells us whether it helps people learn.
 
 ### Choosing among methods
 
@@ -94,7 +94,6 @@ Method choice follows the research question. Causal-effect questions favor exper
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
-- [[efficacy-study]]
 - [[rct]]
 - [[benchmark]]
 - [[educational-measurement]]

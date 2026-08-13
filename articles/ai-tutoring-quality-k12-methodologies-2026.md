@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.11259.md']
 confidence: high
 ---
 
-> **Synthesis:** Udeshi et al. (2026), the team behind **Khanmigo** (Khan Academy's K-12 AI tutor, launched 2023), describe the metrics they use to measure AI tutoring quality and student engagement, along with the live experiments that have moved those metrics. Given that LLMs are opaque black boxes, they argue robust evaluation and live experimentation are essential. The paper highlights changes across models, prompting, personalization, and agents that improved tutoring outcomes. Accepted at AIED 2026, it connects to [[ai-tutoring]], [[intelligent-tutoring]], and [[efficacy-study]] literatures.
+> **Synthesis:** Udeshi et al. (2026), the team behind **Khanmigo** (Khan Academy's K-12 AI tutor, launched 2023), describe the metrics they use to measure AI tutoring quality and student engagement, along with the live experiments that have moved those metrics. Given that LLMs are opaque black boxes, they argue robust evaluation and live experimentation are essential. The paper highlights changes across models, prompting, personalization, and agents that improved tutoring outcomes. Accepted at AIED 2026, it connects to [[ai-tutoring]], [[intelligent-tutoring]], and [[research-methods-aied]] literatures.
 
 ## Evaluation as the Engine of Improvement
 
@@ -20,7 +20,7 @@ The paper describes the metrics used to measure AI tutoring quality and student 
 
 ## Position
 
-This practitioner account from a major edtech platform grounds the [[ai-tutoring]] and [[intelligent-tutoring]] literature in real, large-scale K-12 deployment evidence, complementing controlled [[efficacy-study]] research.
+This practitioner account from a major edtech platform grounds the [[ai-tutoring]] and [[intelligent-tutoring]] literature in real, large-scale K-12 deployment evidence, complementing controlled [[research-methods-aied]] research.
 
 ## Connected Concepts
 
@@ -29,7 +29,7 @@ This practitioner account from a major edtech platform grounds the [[ai-tutoring
 - [[k-12]]
 - [[llm]]
 - [[personalized-learning]]
-- [[efficacy-study]]
+- [[research-methods-aied]]
 - [[engagement-metrics]]
 - [[edtech-platform]]
 - [[student-experience]]

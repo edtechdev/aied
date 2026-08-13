@@ -129,7 +129,7 @@ The guide includes 15+ educator case studies spanning:
 
 - [[adaptive-learning]]
 - [[ai-literacy]]
-- [[dot-framework-survey]]
+- [[dot-framework-survey-2026]]
 - [[faculty-development]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]

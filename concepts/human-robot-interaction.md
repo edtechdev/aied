@@ -34,6 +34,9 @@ HRI connects to [[social-robots]], [[educational-robotics]], [[embodied-learning
 
 ## Connected Articles
 
+- [[pepper-social-robot-formal-education-scoping-review-2026]] — Pepper in Formal Education: A Scoping Review
+
+
 - [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
