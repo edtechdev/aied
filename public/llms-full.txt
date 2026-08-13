@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 596 articles and 130 concepts.
+> Complete text of 596 articles and 131 concepts.
 
 # Articles
 
@@ -5440,136 +5440,6 @@ Gheisari and Salarian (2026) apply supervised machine learning classification to
 ## Citation
 
 Soheila Gheisari, Hamid Salarian (2026). [Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms](https://arxiv.org/abs/2606.20617). arXiv:2606.20617. arXiv:2606.20617 (cs.CY; cs.LG)
-
----
-
-## [Authentic Assessment](https://edtechdev.github.io/aied/articles/authentic-assessment/)
-
-> Wiggins (1990) proposed AA as a counterbalance to standardised tests: direct examination of "student performance on worthy intellectual tasks."
-
-> Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which threatens the validity of any task that can be replicated à la Wiggins (1990)—makes AA's broader forms essential. Zhan, Boud & Du (2025) propose a six-dimensional design model that centres student agency and social collaboration, directly relevant to how AI assessment tools should be designed.
-
-## The Evolution of Authenticity
-
-### 1990s Origins: Worthy Intellectual Tasks
-Wiggins (1990) proposed AA as a counterbalance to standardised tests: direct examination of "student performance on worthy intellectual tasks."
-
-### Late 1990s HE Uptake: Workplace Replication
-Joughin (1998) argued authenticity should reflect the extent to which assessment replicates professional practice or real life. This view dominated for two decades.
-
-### 2020s Critique: Beyond Replication
-McArthur (2023) contends AA must enable students to "**influence the future and transform society**" rather than merely replicate existing tasks. Ajjawi et al. (2024) broaden authenticity to contextual, task, and personal forms that reflect student experience.
-
-### Generative AI as Existential Challenge
-Generative AI makes traditional workplace-replication AA newly vulnerable: any task that a language model can credibly simulate in a take-home setting loses its validity as an assessment of original student competence. The field must pivot toward forms of authenticity (digital literacy, real-time collaboration, social contribution, individual meaning-making) that AI cannot credibly counterfeit.
-
-## Six-Dimensional Framework (Zhan et al., 2025)
-
-This scoping review of 37 empirical AA studies (2000–2024) proposes six design dimensions, moving beyond earlier frameworks (Gulikers et al., 2004; Villarroel et al., 2018):
-
-1. **Authenticity in assessment** — multiple meanings: assessment authenticity (portfolios, projects, concept maps), professional authenticity (workplace scenarios), digital authenticity (Twitter, podcasts, YouTube, LMS), self-authenticity (student identity, well-being), and social authenticity (citizenship, sustainability, ethics). Only **3 of 37 studies** addressed social authenticity — a critical gap.
-
-2. **Cognitive challenges** — knowledge construction (n=29), professional skills (n=22), and 21st-century skills (n=29, led by critical thinking n=17, communication n=13). Digital literacy: only **n=5**.
-
-3. **Assessment criteria** — rubric use was common (n=22) but most students were **passive recipients** rather than co-authors. Only 3 studies co-designed rubrics with students; only 7 involved students as assessors via self/peer assessment.
-
-4. **Feedback** — formative feedback dominated (n=23), summative was common (n=12), but **sustainable feedback** (transferable to future contexts) appeared in only 4 studies. This mirrors the field-wide problem that AI tools also replicate: reactive, momentary feedback rather than lifelong evaluative judgement.
-
-5. **Student agency** — choices about what/how/when/where to submit appeared in only **n=8 studies**. Self-reflection was more common but often **assigned/graded**, making it potentially **performative** (instrumental rather than genuine).
-
-6. **Social collaboration** — mostly individual tasks (n=18) or group tasks (n=16), with few mixing both (n=3). Peer collaboration strategies (peer assessment, peer discussion) appeared in n=16 studies; teacher–student collaboration in n=16, though only 3 designed *equitable* teacher–student partnership (roles were usually feedback-giver, monitor, facilitator — a power imbalance); external industry/community connections in only n=5. Social construction of assessment meaning was under-theorized but present.
-
-## AI-Specific Implications
-
-### What AI Assessment Tools Get Wrong
-Current AI assessment systems — MCQ generators ([[formative-assessment|CODE-GEN]]), essay scorers (MASS), short-answer graders — focus on **efficiency and standardization**, replicating the very limitations Zhan et al. identify:
-
-- **Rubric-centric:** AI systems typically generate pre-defined rubrics without student co-design, replicating the "passive recipient" problem
-- **Momentary feedback:** AI formative feedback is abundant but rarely designed as **sustainable evaluative judgement**
-- **Professional authenticity bias:** Most AI-generated assessments simulate workplace or academic tasks, neglecting personal and social authenticity
-- **Choicelessness:** AI assessment systems rarely allow students to define assessment parameters, output formats, or evaluation criteria
-
-### The Four-Step Collaborative Design Framework
-Zhan et al. propose a cyclical design model that AI tools could operationalize:
-
-| Step | Action | AI Enabler | AI Risk |
-|------|--------|------------|---------|
-| 1. Decide goals | Students + educators **co-negotiate** purpose and authenticity | LLM-facilitated dialogue tools | Over-optimizing for what's easy to grade |
-| 2. Create context | Design real-world scenarios | RAG-augmented scenario generation | Hallucinating false domain contexts |
-| 3. Design criteria | **Co-design rubrics** with students | Collaborative rubric editors | Imposing opaque algorithmic criteria |
-| 4. Plan feedback | Future-oriented, sustainable feedback | LLM personalization based on learner profiles | Surveillance-level behavior tracking |
-
-## Connections to AI Education Research
-
-### Self-Regulated Learning
-Student agency in AA (choice, self-reflection, co-design) is isomorphic to the [[self-regulated-learning|forethought → performance → self-reflection]] cycle. However, when self-reflection is **graded**, it becomes **performative** — students write to impress assessors rather than to learn. AI journaling tools face the same instrumentalization risk.
-
-### Metacognitive Calibration
-[[metacognition|Metacognition]] is required for students to evaluate their own work against co-designed rubrics. When AI provides the rubric, generates the feedback, *and* monitors progress, the student's metacognitive practice is displaced — the very suppression risk identified in [[ai-tutor-safety-harms|SafeTutors]] and [[llm-fallacy-misattribution|LLM Fallacy]] research.
-
-### Pedagogical Training
-Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwen]]) should explicitly align with the six-dimensional framework. A model trained to reward "guiding over answering" still falls short if it does not understand **sustainable feedback**, **co-designed rubrics**, or **social authenticity**.
-
-### Adaptive Systems
-[[adaptive-learning|Adaptive systems]] that personalize only *content difficulty* miss the personalization of *assessment authenticity*. DeepTutor's multi-resolution memory and MAIC's archetype agents begin to address this, but neither incorporates student co-design of assessment parameters.
-
-## Open Questions
-
-1. **AI-proof assessment types:** Which forms of authentic assessment are robust to generative AI? In-vivo demonstrations, social contribution portfolios, co-created artefacts with auditable provenance chains, and assessments requiring real-time embodied interaction may be more resilient than take-home essays or MCQs.
-
-2. **Student co-design at scale:** Zhan et al. show co-design is rare (3/37 studies). Can AI tools *enable* rubric co-design at classroom or MOOC scale, or does the paradox of machine-mediated human agency undermine the authenticity itself?
-
-3. **Sustainable feedback via LLM:** Can a language model deliver feedback that students apply months later? The CDPK and ISD benchmarks test pedagogical knowledge transfer to models, not feedback sustainability transfer to students.
-
-4. **Social authenticity deficit:** Only 3 studies addressed social issues (citizenship, sustainability, ethics). How can AI assessment tools help students contribute to societal transformation rather than merely simulate it?
-
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[cognitive-load-theory]]
-- [[desirable-difficulties]]
-- [[faculty-development]]
-- [[formative-assessment]]
-- [[human-in-the-loop-ai]]
-- [[metacognition]]
-- [[pedagogical-llm-training]]
-- [[self-regulated-learning]]
-- [[zone-of-proximal-development]]
-
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[higher-ed]]
-## Connected Articles
-
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
-- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
-- [[educational-llm-alignment]] — Educational LLM Alignment
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[moral-panic-genai-classroom]] — Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation a...
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[principled-ai-education]] — Principled AI in Education
-- [[student-cheat-sheets-make-or-take]] — Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets
-- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
-- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-
-## Citation
-
-Zhan, Y., Boud, D., & Du, Z. (2025). [*Designing for authentic assessment: a scoping review*](https://doi.org/10.1007/s10734-025-01588-9). *Higher Education*.
 
 ---
 
@@ -27244,6 +27114,136 @@ Zerkouk, M., Mihoubi, M., & Chikhaoui, B. (2025). [Comprehensive Review of Intel
 
 ---
 
+## [Designing for Authentic Assessment: A Scoping Review](https://edtechdev.github.io/aied/articles/zhan-boud-du-authentic-assessment-scoping-review-2025/)
+
+> Wiggins (1990) proposed AA as a counterbalance to standardised tests: direct examination of "student performance on worthy intellectual tasks."
+
+> Authentic assessment (AA) has evolved from workplace-task replication toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. The recent challenge by generative AI—which threatens the validity of any task that can be replicated à la Wiggins (1990)—makes AA's broader forms essential. Zhan, Boud & Du (2025) propose a six-dimensional design model that centres student agency and social collaboration, directly relevant to how AI assessment tools should be designed.
+
+## The Evolution of Authenticity
+
+### 1990s Origins: Worthy Intellectual Tasks
+Wiggins (1990) proposed AA as a counterbalance to standardised tests: direct examination of "student performance on worthy intellectual tasks."
+
+### Late 1990s HE Uptake: Workplace Replication
+Joughin (1998) argued authenticity should reflect the extent to which assessment replicates professional practice or real life. This view dominated for two decades.
+
+### 2020s Critique: Beyond Replication
+McArthur (2023) contends AA must enable students to "**influence the future and transform society**" rather than merely replicate existing tasks. Ajjawi et al. (2024) broaden authenticity to contextual, task, and personal forms that reflect student experience.
+
+### Generative AI as Existential Challenge
+Generative AI makes traditional workplace-replication AA newly vulnerable: any task that a language model can credibly simulate in a take-home setting loses its validity as an assessment of original student competence. The field must pivot toward forms of authenticity (digital literacy, real-time collaboration, social contribution, individual meaning-making) that AI cannot credibly counterfeit.
+
+## Six-Dimensional Framework (Zhan et al., 2025)
+
+This scoping review of 37 empirical AA studies (2000–2024) proposes six design dimensions, moving beyond earlier frameworks (Gulikers et al., 2004; Villarroel et al., 2018):
+
+1. **Authenticity in assessment** — multiple meanings: assessment authenticity (portfolios, projects, concept maps), professional authenticity (workplace scenarios), digital authenticity (Twitter, podcasts, YouTube, LMS), self-authenticity (student identity, well-being), and social authenticity (citizenship, sustainability, ethics). Only **3 of 37 studies** addressed social authenticity — a critical gap.
+
+2. **Cognitive challenges** — knowledge construction (n=29), professional skills (n=22), and 21st-century skills (n=29, led by critical thinking n=17, communication n=13). Digital literacy: only **n=5**.
+
+3. **Assessment criteria** — rubric use was common (n=22) but most students were **passive recipients** rather than co-authors. Only 3 studies co-designed rubrics with students; only 7 involved students as assessors via self/peer assessment.
+
+4. **Feedback** — formative feedback dominated (n=23), summative was common (n=12), but **sustainable feedback** (transferable to future contexts) appeared in only 4 studies. This mirrors the field-wide problem that AI tools also replicate: reactive, momentary feedback rather than lifelong evaluative judgement.
+
+5. **Student agency** — choices about what/how/when/where to submit appeared in only **n=8 studies**. Self-reflection was more common but often **assigned/graded**, making it potentially **performative** (instrumental rather than genuine).
+
+6. **Social collaboration** — mostly individual tasks (n=18) or group tasks (n=16), with few mixing both (n=3). Peer collaboration strategies (peer assessment, peer discussion) appeared in n=16 studies; teacher–student collaboration in n=16, though only 3 designed *equitable* teacher–student partnership (roles were usually feedback-giver, monitor, facilitator — a power imbalance); external industry/community connections in only n=5. Social construction of assessment meaning was under-theorized but present.
+
+## AI-Specific Implications
+
+### What AI Assessment Tools Get Wrong
+Current AI assessment systems — MCQ generators ([[formative-assessment|CODE-GEN]]), essay scorers (MASS), short-answer graders — focus on **efficiency and standardization**, replicating the very limitations Zhan et al. identify:
+
+- **Rubric-centric:** AI systems typically generate pre-defined rubrics without student co-design, replicating the "passive recipient" problem
+- **Momentary feedback:** AI formative feedback is abundant but rarely designed as **sustainable evaluative judgement**
+- **Professional authenticity bias:** Most AI-generated assessments simulate workplace or academic tasks, neglecting personal and social authenticity
+- **Choicelessness:** AI assessment systems rarely allow students to define assessment parameters, output formats, or evaluation criteria
+
+### The Four-Step Collaborative Design Framework
+Zhan et al. propose a cyclical design model that AI tools could operationalize:
+
+| Step | Action | AI Enabler | AI Risk |
+|------|--------|------------|---------|
+| 1. Decide goals | Students + educators **co-negotiate** purpose and authenticity | LLM-facilitated dialogue tools | Over-optimizing for what's easy to grade |
+| 2. Create context | Design real-world scenarios | RAG-augmented scenario generation | Hallucinating false domain contexts |
+| 3. Design criteria | **Co-design rubrics** with students | Collaborative rubric editors | Imposing opaque algorithmic criteria |
+| 4. Plan feedback | Future-oriented, sustainable feedback | LLM personalization based on learner profiles | Surveillance-level behavior tracking |
+
+## Connections to AI Education Research
+
+### Self-Regulated Learning
+Student agency in AA (choice, self-reflection, co-design) is isomorphic to the [[self-regulated-learning|forethought → performance → self-reflection]] cycle. However, when self-reflection is **graded**, it becomes **performative** — students write to impress assessors rather than to learn. AI journaling tools face the same instrumentalization risk.
+
+### Metacognitive Calibration
+[[metacognition|Metacognition]] is required for students to evaluate their own work against co-designed rubrics. When AI provides the rubric, generates the feedback, *and* monitors progress, the student's metacognitive practice is displaced — the very suppression risk identified in [[ai-tutor-safety-harms|SafeTutors]] and [[llm-fallacy-misattribution|LLM Fallacy]] research.
+
+### Pedagogical Training
+Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwen]]) should explicitly align with the six-dimensional framework. A model trained to reward "guiding over answering" still falls short if it does not understand **sustainable feedback**, **co-designed rubrics**, or **social authenticity**.
+
+### Adaptive Systems
+[[adaptive-learning|Adaptive systems]] that personalize only *content difficulty* miss the personalization of *assessment authenticity*. DeepTutor's multi-resolution memory and MAIC's archetype agents begin to address this, but neither incorporates student co-design of assessment parameters.
+
+## Open Questions
+
+1. **AI-proof assessment types:** Which forms of authentic assessment are robust to generative AI? In-vivo demonstrations, social contribution portfolios, co-created artefacts with auditable provenance chains, and assessments requiring real-time embodied interaction may be more resilient than take-home essays or MCQs.
+
+2. **Student co-design at scale:** Zhan et al. show co-design is rare (3/37 studies). Can AI tools *enable* rubric co-design at classroom or MOOC scale, or does the paradox of machine-mediated human agency undermine the authenticity itself?
+
+3. **Sustainable feedback via LLM:** Can a language model deliver feedback that students apply months later? The CDPK and ISD benchmarks test pedagogical knowledge transfer to models, not feedback sustainability transfer to students.
+
+4. **Social authenticity deficit:** Only 3 studies addressed social issues (citizenship, sustainability, ethics). How can AI assessment tools help students contribute to societal transformation rather than merely simulate it?
+
+## Connected Concepts
+
+- [[adaptive-learning]]
+- [[cognitive-load-theory]]
+- [[desirable-difficulties]]
+- [[faculty-development]]
+- [[formative-assessment]]
+- [[human-in-the-loop-ai]]
+- [[metacognition]]
+- [[pedagogical-llm-training]]
+- [[self-regulated-learning]]
+- [[zone-of-proximal-development]]
+
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[higher-ed]]
+## Connected Articles
+
+- [[agentic-workflows-education]] — Agentic Workflows in Education
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
+- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[moral-panic-genai-classroom]] — Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation a...
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[principled-ai-education]] — Principled AI in Education
+- [[student-cheat-sheets-make-or-take]] — Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets
+- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
+- [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
+- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
+- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+
+## Citation
+
+Zhan, Y., Boud, D., & Du, Z. (2025). [*Designing for authentic assessment: a scoping review*](https://doi.org/10.1007/s10734-025-01588-9). *Higher Education*.
+
+---
+
 ## [When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle](https://edtechdev.github.io/aied/articles/zhang-tutormoments-2026/)
 
 > **Synthesis:** Zhang et al. (2026) introduce TutorMoments, a replay-based evaluation framework that tests whether LM tutors adapt their pedagogical actions to context — scaffolding when support is needed, pushing for rigor when students are ready, and avoiding over-scaffolding. Evaluating 462 teacher-annotated transcripts from grades 2-7 math tutoring, they find frontier models default toward over-helpfulness at the expense of productive struggle. The paper argues that AI optimized for helpfulness may be misaligned with the pedagogical goal of providing the right help at the right moment.
@@ -28266,7 +28266,7 @@ AI in assessment has intensified the [[academic-integrity|integrity]] conversati
 
 The constructive question in the wiki's assessment literature is not "how do we prevent students from using AI?" but "how do we enable them to use it thoughtfully in contexts that mirror their future work?" This reframes assessment around:
 
-- **Authentic and process-based tasks** that make AI use visible and assessed ([[authentic-assessment]])
+- **Authentic and process-based tasks** that make AI use visible and assessed. [[authentic-assessment|Authentic assessment]] — examining student performance on worthy, realistic tasks — is the leading response to AI's challenge: any task an LLM can credibly simulate loses its validity, so authenticity must be redesigned around real-time collaboration, digital and social contribution, and individual meaning-making. This connects to [[zhan-boud-du-authentic-assessment-scoping-review-2025|design frameworks for authentic assessment]], [[authentic-products-authenticated-processes-2026|authentic products and authenticated processes]], and [[tool-invariant-framework-agentic-ai|tool-invariant assessment of process]].
 - **Responsible assessment design** grounded in validity evidence ([[responsible-assessment-ai-era-stanford-2026]])
 - **Coauthorship and declaration** as part of the assessment contract
 - **Production as a competency** — evaluating learners' ability to direct tools and produce professional-standard work ([[competency-based-education-genai-production-2026]])
@@ -28315,6 +28315,73 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[automatic-short-answer-grading]] — Automatic short-answer grading
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Automated assessment of interactive explainer content
 - [[ai-assessment-scale-reform]] — AI assessment scale reform
+
+---
+
+## [Authentic Assessment](https://edtechdev.github.io/aied/concepts/authentic-assessment/)
+
+> **Authentic assessment** — the design of assessments that examine student performance on worthy, realistic intellectual tasks, rather than isolated, standardized test items. Originating with Wiggins (1990) as a counterbalance to standardized tests, authentic assessment has evolved from replicating workplace tasks toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. Generative AI has made authentic assessment newly essential: any task a language model can credibly simulate in a take-home setting loses its validity as evidence of original student competence, so authentic forms must be redesigned around what AI cannot credibly counterfeit.
+
+Authentic assessment sits at the heart of how [[assessment|assessment]] is being rethought in the AI era. It connects to [[assessment-validity]] (does the assessment measure what it claims?), [[formative-assessment]] (authentic tasks that inform learning), and [[academic-integrity]] (moving from detection to designing tasks where AI use is expected and declared). It is a central response in the wiki's assessment-redesign literature.
+
+## The evolution of authenticity
+
+- **1990s origins — worthy intellectual tasks:** Wiggins (1990) proposed authentic assessment as direct examination of "student performance on worthy intellectual tasks," a counterbalance to standardized tests.
+- **Late-1990s uptake — workplace replication:** Joughin (1998) framed authenticity as the extent to which assessment replicates professional practice or real life — a view that dominated for two decades.
+- **2020s critique — beyond replication:** McArthur (2023) argued authentic assessment must enable students to "influence the future and transform society" rather than merely replicate existing tasks; Ajjawi et al. (2024) broadened authenticity to contextual, task, and personal forms that reflect student experience.
+- **Generative AI as existential challenge:** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]] note that generative AI makes workplace-replication authenticity newly vulnerable, driving a pivot toward digital literacy, real-time collaboration, social contribution, and individual meaning-making that AI cannot credibly counterfeit.
+
+## A six-dimensional design model
+
+[[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du's (2025) scoping review]] of 37 empirical studies (2000–2024) proposes six design dimensions: (1) authenticity in assessment (assessment, professional, digital, self, and social authenticity — with only 3/37 studies addressing social authenticity, a critical gap), (2) cognitive challenges, (3) assessment criteria (with students often passive recipients rather than co-authors of rubrics), (4) feedback (formative-dominated, but sustainable feedback rare), (5) student agency (choice in what/how/when/where to submit was rare), and (6) social collaboration. It also proposes a cyclical co-design model — negotiate goals, create context, co-design criteria, plan feedback — that AI tools could operationalize.
+
+## Authentic assessment in the AI era
+
+The wiki's assessment-redesign literature argues that authenticity must be **redesigned, not policed**:
+
+- [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] contends that authenticity cannot be policed into existence; it must be designed, positioning AI as a declared collaborator rather than a cheating application, and prioritizing authentic, process-based assessment over surveillance.
+- [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] reframes assessment around validity evidence and authentic tasks that mirror students' future work.
+- [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]] examines how AI-rich higher education can assess both genuine outputs and the processes that produced them.
+- [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] argues for assessing computational methods and process rather than tool-specific outputs, using oral defense and verification.
+
+## Connections to learning theory
+
+- **Self-regulated learning:** student agency in authentic assessment (choice, self-reflection, co-design) mirrors the [[self-regulated-learning|forethought → performance → self-reflection]] cycle, though graded reflection risks becoming performative.
+- **Metacognition:** [[metacognition|Metacognition]] is required for students to evaluate their work against co-designed rubrics; when AI supplies the rubric, feedback, and monitoring, the student's metacognitive practice may be displaced.
+- **Formative and sustainable feedback:** authentic assessment emphasizes [[formative-assessment|formative]], future-oriented feedback that transfers to later contexts.
+
+## Implications for AI in education
+
+- **AI-proof assessment types:** in-vivo demonstrations, social-contribution portfolios, co-created artefacts with auditable provenance, and real-time embodied interaction are more resilient to generative AI than take-home essays or MCQs.
+- **Co-design at scale:** AI tools could enable rubric co-design and student co-creation of assessment parameters at classroom or MOOC scale — though machine-mediated agency must be designed carefully.
+- **Address the social-authenticity gap:** only 3/37 studies addressed social issues; AI assessment tools should help students contribute to societal transformation, not merely simulate it.
+- **Sustainable feedback:** AI feedback should be designed to transfer to future contexts, not just provide reactive, momentary corrections.
+
+## Connected Concepts
+
+- [[assessment]]
+- [[assessment-validity]]
+- [[formative-assessment]]
+- [[automated-assessment]]
+- [[academic-integrity]]
+- [[plagiarism-detection]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[ai-ed-evaluation]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
+- [[authentic-products-authenticated-processes-2026]] — Authentic Products, Authenticated Processes
+- [[tool-invariant-framework-agentic-ai]] — Tool-Invariant Framework for Teaching and Assessing Computational Methods
+- [[cong-confidence-asag-2026]] — Confidence-aware automated short-answer grading
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[universities-ai-era-rethinking]] — Rethinking Universities in the AI Era
 
 ---
 
