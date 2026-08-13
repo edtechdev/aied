@@ -15,7 +15,7 @@ Hermes Agent cron jobs keep the wiki current:
 
 ## Site Structure
 
-The site is built with **Astro 5** (static site generator), deployed via GitHub Actions to GitHub Pages.
+The site is built with **Astro 7** (static site generator) and deployed via GitHub Actions to GitHub Pages (base path `/aied`). Content lives in markdown collections defined in `src/content.config.ts`; the build runs `astro check` + `astro build`, plus Pagefind (search index) and an RSS + sitemap.
 
 ```
 wiki/
@@ -24,16 +24,17 @@ wiki/
 ├── raw/
 │   └── papers/        # Raw source text (arXiv, PDFs, RSS abstracts)
 ├── src/
-│   ├── layouts/       # BaseLayout.astro (nav, search, footer)
-│   └── pages/         # Astro pages: index, journal, search, articles/[slug], concepts/[slug], tags, rss, ai
+│   ├── layouts/       # BaseLayout.astro (nav, search, footer, Pico CSS + custom styles)
+│   ├── pages/         # Astro pages: index, journal, search, articles/[slug], concepts/[slug], tags, rss, ai
+│   └── content.config.ts  # Content-collection schema (articles, concepts) — required `sources` field
 ├── public/
 │   ├── llms.txt       # Agent-ready catalog (all pages, one line each)
 │   ├── llms-full.txt  # Full text of every page
 │   ├── robots.txt     # Search indexing + Content-Signal + Schemamap
-│   └── schema/        # Schema.org metadata
+│   └── schema/        # Schema.org metadata (JSON-LD)
 ├── tooling/           # Reusable tooling for running your own wiki
-├── astro.config.mjs   # Astro config (base /aied, pagefind, sitemap)
-├── package.json       # Astro 5, pagefind, sitemap, rss
+├── astro.config.mjs   # Astro config (base /aied, pagefind, sitemap, trailingSlash: 'never')
+├── package.json       # Astro 7, pagefind, sitemap, rss
 └── .github/workflows/ # Build & deploy to GitHub Pages
 ```
 
@@ -46,7 +47,7 @@ npm install
 # Develop locally
 npm run dev
 
-# Build the static site (outputs to dist/)
+# Build the static site (runs `astro check` + `astro build`; outputs to dist/)
 npm run build
 
 # Preview the production build
@@ -60,10 +61,22 @@ The built site lands in `dist/` and is deployed to GitHub Pages via the GitHub A
 
 ## Page Structure
 
-- **Article pages** — frontmatter (title, date, type, tags, sources, confidence) → synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → APA citation with hyperlinked title
+- **Article pages** — frontmatter (title, date, type, tags, **sources**, confidence) → synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → APA citation with hyperlinked title. Every article frontmatter must include a `sources:` field (required by the Astro 7 content schema) pointing to the raw source file.
 - **Concept pages** — frontmatter → synthesis → research themes with wikilinks to related articles → Connected Concepts → Connected Articles
 - All inter-page links use `[[wikilink]]` syntax which the Astro templates render as hyperlinks
 - Tags are comma-delimited in frontmatter and rendered as links in the page header
+- Styling: **Pico CSS** (v1, loaded via CDN in `BaseLayout.astro`) plus a small block of custom CSS (accent color, header/nav/footer) — no build-time CSS framework dependency
+
+## Agent-Ready Features
+
+Beyond the human-facing site, the wiki is structured for AI agents and crawlers:
+
+- **`llms.txt`** — complete catalog (every article and concept with one-line descriptions)
+- **`llms-full.txt`** — full text of every page
+- **`robots.txt`** — search-engine indexing plus Content-Signal (`ai-train`, `ai-input`) and Schemamap entries
+- **`schema/`** — Schema.org JSON-LD metadata
+- **RSS + sitemap** — `rss.xml` and `sitemap-index.xml` (base `/aied`)
+- **Pagefind** — full-text search, rebuilt on every `npm run build`
 
 ## Configuration
 
