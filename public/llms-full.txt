@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 562 articles and 114 concepts.
+> Complete text of 576 articles and 114 concepts.
 
 # Articles
 
@@ -2499,6 +2499,56 @@ Zhu, Q., Zhai, X., Zou, Y., & Gao, C. (2026). [*Using AI-Generated Feedback to I
 
 ---
 
+## [Making AI-Generated Feedback Matter: From Provision to Student Enactment](https://edtechdev.github.io/aied/articles/ai-feedback-enactment-workflow-2026/)
+
+> **Synthesis:** Alsaiari et al. (2026) report a large-scale quasi-experimental cohort study (13,037 students; 51,296 student-authored resources) comparing three AI-mediated feedback workflows. Students in the **Enacted Feedback** condition — prompted to select feedback suggestions, evaluate their relevance, and engage in targeted AI dialogue anchored to those selections — showed significantly higher uptake of AI-generated feedback (26.2% estimated probability) than **Directed Feedback** (14.1%) or **Self-Directed Feedback** (0.1%), along with higher self-assessment confidence and submitted-work quality. The finding positions **student enactment**, not comment quality, as the decisive variable in AI feedback, connecting to [[feedback-loop]], [[self-regulated-learning]], and [[human-ai-collaboration]] research.
+
+## From Provision to Enactment
+
+Feedback value depends on two challenges: providing high-quality, timely, individualized feedback at scale, and supporting students to interpret, evaluate, and act on that feedback productively. Generative AI credibly addresses the provision challenge, but students' uptake of AI-generated feedback remains limited without structured support.
+
+## Three Workflows
+
+- **Directed Feedback (n=3,723):** students received AI-generated feedback comments without structured support.
+
+- **Self-Directed Feedback (n=3,951):** students could initiate optional AI-supported dialogue.
+
+- **Enacted Feedback (n=5,363):** students were prompted to select feedback suggestions, evaluate their relevance, and engage in targeted AI-supported dialogue anchored to those selections.
+
+## Key Findings
+
+Enacted Feedback was associated with significantly higher uptake (26.2% vs 14.1% Directed vs 0.1% Self-Directed), significantly higher self-assessment confidence, and higher submitted-work quality. The authors conclude that AI access alone is insufficient; **purposeful workflow design** that positions learners as active participants in judgement, dialogue, and improvement is central to productive feedback use.
+
+## Connected Concepts
+
+- [[feedback-loop]]
+- [[self-regulated-learning]]
+- [[human-ai-collaboration]]
+- [[learning-analytics]]
+- [[formative-assessment]]
+- [[student-experience]]
+- [[ai-feedback-quality]]
+- [[scaffolding]]
+- [[higher-ed]]
+- [[llm]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]]
+- [[genai-feedback-design-multisite-experiment]]
+- [[sequenced-ai-feedback-learning]]
+- [[ai-internal-feedback-evaluative-judgments]]
+- [[learner-centered-feedback-ai]]
+- [[repeated-ai-writing-feedback-semester]]
+- [[feedback-futures-genai]]
+- [[care-full-feedback-genai]]
+
+## Citation
+
+Alsaiari, O., Baghaei, N., Lodge, J. M., Gašević, D., Winstone, N., & Khosravi, H. (2026). [*Making AI-generated feedback matter: From provision to student enactment*](https://arxiv.org/abs/2608.11625). arXiv:2608.11625.
+
+---
+
 ## [Artificial intelligence and feedback in university education: effectiveness and student perceptions](https://edtechdev.github.io/aied/articles/ai-generated-feedback-higher-ed/)
 
 ## Summary
@@ -2718,6 +2768,47 @@ The finding that coding assistants outperform dedicated education tools and gene
 ## Citation
 
 Leinonen, J., Zhang, L., & Hellas, A. (2026). [AI-generated slides: Are they good? Can students tell?](https://arxiv.org/abs/2605.13532) Proceedings of the Western Canada Conference on Computing Education (WCCCE 2026). arXiv:2605.13532.
+
+---
+
+## [Studying Circular Motion with an AI-Generated Smartphone Physics Lab](https://edtechdev.github.io/aied/articles/ai-generated-smartphone-circular-motion-lab-2026/)
+
+> **Synthesis:** Suñer et al. (2026) show that a fully customized, browser-based rotation laboratory can be generated entirely through natural-language prompting of an AI assistant, with no manual coding. Most smartphone physics experiments rely on precompiled sensor apps whose interfaces cannot be tailored to a specific activity, and customized labs previously required programming knowledge beyond most teachers. Using the AI-generated lab with a simple rotating platform, they characterize uniform circular motion (UCM) and uniformly accelerated circular motion (UACM), validating sensor measurements against independent video analysis with Tracker. The work connects to [[physics-education]], [[mobile-learning]], and [[generative-ai]] content creation.
+
+## Customizing Smartphone Labs Without Code
+
+Smartphones have become a standard measurement instrument in the physics laboratory, with built-in accelerometers, gyroscopes, magnetometers, and cameras used to investigate mechanics. A recurring limitation is that most experiments rely on precompiled sensor apps whose interfaces cannot be tailored to a specific activity, and until recently creating customized smartphone laboratories required programming knowledge beyond most physics teachers.
+
+## AI-Generated, Browser-Based Lab
+
+Following the approach the authors recently introduced for acoustic experiments, this paper shows a fully customized, browser-based rotation laboratory can be generated entirely through natural-language prompting of an AI assistant, with no manual coding.
+
+## Validation
+
+The lab is used, together with a simple rotating platform, to characterize both uniform circular motion (UCM) and uniformly accelerated circular motion (UACM). Sensor measurements are validated against independent video analysis with Tracker.
+
+## Connected Concepts
+
+- [[physics-education]]
+- [[mobile-learning]]
+- [[generative-ai]]
+- [[content-generation]]
+- [[stem-education]]
+- [[personalized-learning]]
+- [[scaffolding]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[fouad-bentley-trust-utility-gap-physics-2026]]
+- [[becker-chatgpt-typology-physics-2026]]
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[retrieval-augmented-tutoring-algorithm-kite]]
+- [[multiagent-classroom-dual-process-physics-teachers-2026]]
+
+## Citation
+
+Suñer, J. Ll., Muñoz-Pérez, F. M., Castro-Palacio, J. C., Monsoriu, J. A., Monteiro, M., Stari, C., & Martí, A. C. (2026). [*Studying circular motion with an AI-generated smartphone physics lab*](https://arxiv.org/abs/2607.28352). arXiv:2607.28352.
 
 ---
 
@@ -3368,6 +3459,58 @@ Frames AI literacy 'for all' as an [[equity]] problem rooted in [[k-12]] curricu
 ## Citation
 
 Adrian-Marius Dumitran, Iulia-Maria Popescu (2026). [Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis](https://arxiv.org/abs/2607.11314). arXiv:2607.11314. arXiv preprint.
+
+---
+
+## [The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education](https://edtechdev.github.io/aied/articles/ai-literacy-heptagon-2026/)
+
+> **Synthesis:** Hackl, Müller, and Sailer (2026) present the AI Literacy Heptagon, a structured seven-dimensional framework for AI literacy (AIL) in higher education, developed through an integrative literature review of publications from 2021–2024. The framework synthesizes seven core dimensions — technical knowledge and skills, application proficiency, critical thinking ability, ethical awareness and reasoning, social impact understanding, integration skills, and legal and regulatory knowledge — and is operationalized through four Bloom's-taxonomy-aligned proficiency levels (Unaware, Beginner, Intermediate, Expert). An initial expert-led curriculum mapping across an AI Engineering and a Media Pedagogy program demonstrated the framework's utility for analyzing and structuring curricula, highlighting the discipline-specific nature of AIL implementation.
+
+## Key Findings
+
+- Seven dimensions emerged from an iterative coding of AIL conceptualizations: Technical Knowledge and Skills (TKS, 24/27 sources), Application Proficiency (AP, 26/27), Critical Thinking Ability (CTA, 23/27), Ethical Awareness and Reasoning (EAR, 20/27), Social Impact Understanding (SIU, 11/27), Integration Skills (IS, 18/27), and Legal and Regulatory Knowledge (LRK, 2/27).
+- The authors deliberately retained emerging dimensions that appear infrequently in the literature — particularly Legal and Regulatory Knowledge (only 2/27 sources) and Integration Skills — arguing these address rapidly evolving regulatory landscapes (e.g., the EU AI Act) and the gap between theoretical knowledge and practical application.
+- A synthesized working definition operationalizes AIL as critical, ethical, and responsible engagement with AI across all seven dimensions, explicitly acknowledging that emphasis varies by disciplinary context.
+- The framework distinguishes generic AIL (Beginner level in all dimensions, the baseline for all students) from domain-specific extensions (Intermediate/Expert levels tailored to fields of study), with four proficiency levels mapped to Bloom's cognitive processes.
+- Expert-led curriculum mapping of an AI Engineering and a Media Pedagogy program showed technical programs emphasize TKS and AP, while humanities-oriented programs emphasize EAR and SIU, supporting the framework's flexibility while maintaining multidimensional integrity.
+
+## Study Design & Method
+
+The study used an integrative literature review (distinct from a meta-analysis, as it performs qualitative synthesis rather than statistical pooling), following PRISMA principles for transparency. A systematic search of Web of Science and Scopus for English-language publications from 2021 (plus earlier foundational works) to 2024 used term combinations around AIL, higher education, teaching/learning AI, and stakeholders. The search was completed December 10, 2024, with additional sources via citation tracking, Google Scholar, and research discovery tools. Two independent coders applied open then axial coding to extract recurring competencies, resolving discrepancies through discussion, yielding the seven dimensions. Initial framework validation used structured expert-led "collaborative profiling sessions" with two program leaders (AI Engineering and Media Pedagogy) to map curricula onto the heptagon and its proficiency levels — explicitly framed as evaluating curricular structure and goals, not empirically measuring student competencies.
+
+## Implications for AI in Education
+
+The Heptagon provides educators and institutions a concrete, adaptable tool for structuring [[ai-literacy]] development in [[higher-ed]], addressing the field's fragmentation and the gap between conceptual definitions and curriculum implementation. It argues that AIL is not a monolithic competency but must be tailored to disciplinary contexts while maintaining seven core dimensions. The explicit inclusion of [[educational-policy-ai|legal and regulatory knowledge]] and integration skills responds to underrepresented dimensions in existing frameworks and to the fast-moving regulatory landscape. For curriculum designers, the framework supports competency-gap analysis (as demonstrated in the two validation programs), the design of targeted learning modules across dimensions and proficiency levels, and assessment tasks that integrate multiple AIL dimensions. It also situates AIL relative to media, computational, and data literacy, helping delineate what is and is not AI literacy.
+
+## Limitations
+
+The literature review is bounded to 2021–2024 English-language publications in Web of Science and Scopus, potentially missing relevant work. The initial validation is qualitative and small-scale — two expert-led curriculum mappings — explicitly framed as illustrating the framework's utility rather than empirically validating its effectiveness or measuring student competencies. The authors note the visualization lacks granularity at the expert level and that the knowledge-skills-attitudes three-dimensional nature is not explicitly represented in the visual model. The framework is a proposed instrument requiring further validation across more programs and disciplines.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[curriculum-design]]
+- [[ethics]]
+- [[educational-policy-ai]]
+- [[teacher-role]]
+- [[assessment-validity]]
+
+## Connected Articles
+
+- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum
+- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Going Beyond the Skills Gap Agenda
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework: Results of a Delphi Study
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[hcap-human-centric-ai-pedagogy-framework-2026]] — Human-Centric AI Pedagogy (HCAP) Framework
+- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
+- [[principled-ai-education]] — Principled AI in Education
+- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review
+
+## Citation
+
+Hackl, V., Müller, A. E., & Sailer, M. (2026). [*The AI literacy heptagon: A structured approach to AI literacy in higher education*](https://doi.org/10.1016/j.caeai.2026.100540).
 
 ---
 
@@ -4525,6 +4668,52 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 ## Citation
 
 Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Stoyanovich, J., & Pechenizkiy, M. (2026). [*SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems*](https://arxiv.org/abs/2603.17373). arXiv:2603.17373.
+
+---
+
+## [Methodologies for Improving the Quality of AI Tutoring in K-12 Education](https://edtechdev.github.io/aied/articles/ai-tutoring-quality-k12-methodologies-2026/)
+
+> **Synthesis:** Udeshi et al. (2026), the team behind **Khanmigo** (Khan Academy's K-12 AI tutor, launched 2023), describe the metrics they use to measure AI tutoring quality and student engagement, along with the live experiments that have moved those metrics. Given that LLMs are opaque black boxes, they argue robust evaluation and live experimentation are essential. The paper highlights changes across models, prompting, personalization, and agents that improved tutoring outcomes. Accepted at AIED 2026, it connects to [[ai-tutoring]], [[intelligent-tutoring]], and [[efficacy-study]] literatures.
+
+## Evaluation as the Engine of Improvement
+
+Many AI tutors leverage large language models today. Because LLMs are opaque black boxes, robust evaluation and live experimentation to measure the impact of every change are essential. Khan Academy pioneered AI-powered tutoring for K-12 with the launch of Khanmigo (2023).
+
+## What They Measure and Change
+
+The paper describes the metrics used to measure AI tutoring quality and student engagement, and the various experiments run to improve them. It highlights the changes that moved their metrics, including changes to **models, prompting, personalization, and agents**.
+
+## Position
+
+This practitioner account from a major edtech platform grounds the [[ai-tutoring]] and [[intelligent-tutoring]] literature in real, large-scale K-12 deployment evidence, complementing controlled [[efficacy-study]] research.
+
+## Connected Concepts
+
+- [[ai-tutoring]]
+- [[intelligent-tutoring]]
+- [[k-12]]
+- [[llm]]
+- [[personalized-learning]]
+- [[efficacy-study]]
+- [[engagement-metrics]]
+- [[edtech-platform]]
+- [[student-experience]]
+- [[prompt-engineering]]
+
+## Connected Articles
+
+- [[oatutor-open-source-adaptive-tutor-2023]]
+- [[genai-tutor-engagement-patterns]]
+- [[measuring-llm-tutors-teach-vs-solve]]
+- [[correct-answer-trap-ai-tutor]]
+- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]]
+- [[access-not-enough-ai-tutoring-2026]]
+- [[tutoring-effectiveness-index]]
+- [[deeptutor]]
+
+## Citation
+
+Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R. J., DiGiano, C., Weatherholtz, K., & Zaluski, M. (2026). [*Methodologies for improving the quality of AI tutoring in K-12 education*](https://arxiv.org/abs/2608.11259). In Artificial Intelligence in Education (AIED 2026), LNCS vol. 16582. Springer. arXiv:2608.11259.
 
 ---
 
@@ -8946,6 +9135,51 @@ Paiva, H. M. (2026). [*Curriculum as Code: An AI-Assisted Architecture for Instr
 
 ---
 
+## [CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity](https://edtechdev.github.io/aied/articles/cyberagents-gamified-cybersecurity-learning-2026/)
+
+> **Synthesis:** Hornung et al. (2026) present **CyberAGENTS**, an agentic framework for gamified cybersecurity learning that enables *structured autonomy* through ontology-guided validation, schema-governed behavioral control, and competency-based progression. The learning loop is decomposed into four specialized agents (challenge, support, evaluation, reward), each governed by behavioral schemas, with a cybersecurity ontology validating all generated content before display. Classroom deployment with undergraduates, complemented by expert evaluation, found improved engagement, clearer feedback interpretation, and greater learner trust when behavioral schemas and ontology validation are active. The work connects to [[agentic-ai]], [[computing-education]], and [[pedagogical-safety]] themes.
+
+## Grounding Agentic Gamification in Learning Science
+
+Gamification is especially effective in learning domains requiring active problem-solving and iterative skill-building, such as cybersecurity education. Generative AI agents offer adaptive delivery at scale but introduce risks: inconsistent behavior, hallucinated reasoning, and misalignment with pedagogical frameworks.
+
+## Structured Autonomy
+
+CyberAGENTS is organized around a competency-based progression model that structures topics by difficulty and prerequisite relationships. The learning loop is decomposed into four specialized agents — **challenge, support, evaluation, reward** — each governed by behavioral schemas that encode operational modes and progression logic, bounding autonomy without eliminating generative flexibility. A cybersecurity ontology validates all generated content prior to display, enforcing domain-consistent reasoning and safety constraints.
+
+## Findings
+
+Classroom deployment with undergraduate students, complemented by expert evaluations from educators and domain specialists, indicated improved engagement, clearer feedback interpretation, and greater learner trust in AI-generated responses when behavioral schemas and ontology validation are active. Preliminary comparisons with an unconstrained configuration support the role of structured control in stabilizing instructional behavior.
+
+## Connected Concepts
+
+- [[agentic-ai]]
+- [[computing-education]]
+- [[cs-education]]
+- [[pedagogical-safety]]
+- [[llm]]
+- [[professional-training]]
+- [[generative-ai]]
+- [[scaffolding]]
+- [[motivation]]
+- [[trust-calibration]]
+
+## Connected Articles
+
+- [[tech-enhanced-tabletop-cybersecurity-education]]
+- [[computing-students-cybersecurity-attitudes]]
+- [[medgame-llm-medical-education-gamification]]
+- [[ai-enabled-serious-games]]
+- [[vismatic-secure-sandbox-cs-education]]
+- [[hypergamification-game-engine-lms]]
+- [[sec-ai-literacy-narrative-review-2026]]
+
+## Citation
+
+Hornung, I., Marasinghe Arachchige, D., Kumarage, T., Agrawal, G., Deng, Y., Chen, Y.-C., & Liu, H. (2026). [*CyberAGENTS: Structured autonomy for agentic gamified learning in cybersecurity*](https://arxiv.org/abs/2608.07965). arXiv:2608.07965.
+
+---
+
 ## [Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar](https://edtechdev.github.io/aied/articles/cyberscholar-genai-writing-feedback/)
 
 ## Key Finding
@@ -9920,6 +10154,52 @@ Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). [Bridging Artificial Inte
 
 ---
 
+## [ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models](https://edtechdev.github.io/aied/articles/elbench-education-llm-benchmark-2026/)
+
+> **Synthesis:** Jiang et al. (2026) introduce **ELBench**, the first benchmark to evaluate education-facing LLMs on all four required dimensions — General Capability, Safety and Trustworthiness, Basic Education, and High-Level Cultivation — under a common protocol, combining curated public sources with newly synthesized safety and cultivation data. Testing nine models, they find module-level profiles are more informative than a single aggregate: the top six models are statistically indistinguishable overall yet differ substantially by module leader, and safety is anti-correlated with practical teaching (r = −0.83). The two education-specialized models lead neither education module, and all models share a systematic blind spot on High-Level Cultivation's structured-judgment task. The work connects to [[benchmark]], [[ai-ed-evaluation]], and [[llm-evaluation]] frameworks.
+
+## An Integrated Profile, Not a Single Score
+
+A usable education-facing model must be accurate, safe under sensitive prompts, instructionally useful, and aligned with pedagogical goals at the same time. Existing benchmarks evaluate these requirements largely in isolation; ELBench is the first to assess all four as an integrated profile under a common protocol.
+
+## Three Findings
+
+- **Module-level profiles beat a single aggregate:** the top six models are statistically indistinguishable on overall score, yet their module leaders differ substantially; safety is anti-correlated with practical teaching (r = −0.83).
+
+- **Chinese-developed models lead the safety module**, the most discriminative in the suite; the advantage is largest on region-specific normative content and narrows (but does not vanish) on universal-harm content.
+
+- **Education-specialized models lead neither education module**, and on High-Level Cultivation all models converge on the same non-reference option on the structured-judgment task, favoring pedagogical style over fit to the stated goal — a systematic blind spot.
+
+## Connected Concepts
+
+- [[benchmark]]
+- [[llm-evaluation]]
+- [[ai-ed-evaluation]]
+- [[pedagogical-safety]]
+- [[safety]]
+- [[generative-ai]]
+- [[llm]]
+- [[ai-tutoring]]
+- [[efficacy-study]]
+- [[educational-measurement]]
+
+## Connected Articles
+
+- [[teachbench-llm-teaching-evaluation]]
+- [[eduagentbench-agent-teaching-benchmark]]
+- [[ai-tutor-behavioral-evaluation]]
+- [[solving-vs-evaluating-genai-solutions]]
+- [[nsmq-riddles-science-math-benchmark]]
+- [[academiclaw-student-agent-benchmark]]
+- [[knowledge-distillation-ai-tutor-evaluation]]
+- [[eduframetrap-llm-sycophancy-educational-safety]]
+
+## Citation
+
+Jiang, Y., Zhu, X., Tan, F., Zhang, Z., Huang, K., Yu, Y., Fei, Z., Luo, Y., Li, K., Hao, H., Zhai, G., & Zhou, A. (2026). [*ELBench: A multi-dimensional benchmark for education-facing large language models*](https://arxiv.org/abs/2608.09548). arXiv:2608.09548.
+
+---
+
 ## [Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review](https://edtechdev.github.io/aied/articles/elementary-writing-genai-systematic-review-2026/)
 
 > **Synthesis:** This systematic literature review synthesizes 8 peer-reviewed studies (2019–2025) on AI literacy for elementary writing instruction, finding that AI integration efficiently supports writing practices and fosters creativity through multimodal application while creating nuanced approaches to writing assessment — alongside unresolved limitations for future research.
@@ -10002,6 +10282,49 @@ This paper contributes to the growing body of research on AI applications in edu
 ## Citation
 
 Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuele Frontoni (2026). [ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education](https://arxiv.org/abs/2606.30662). arXiv:2606.30662. submitted 17 Jun 2026
+
+---
+
+## [Embodied Inquiry with AI as Facilitator: An Exploratory Case Study](https://edtechdev.github.io/aied/articles/embodied-inquiry-ai-facilitator-physics-2026/)
+
+> **Synthesis:** Tufino & Damiani (2026) explore where a language-based AI can stand within an inquiry activity without displacing embodied experience, using a Master's-level physics education course investigating the statics of fluids via the ISLE approach. In a two-phase design, students first built the buoyancy model with their own hands without AI; a purpose-configured AI assistant then facilitated applying the model to a new phenomenon. The paper discusses what a language-based facilitator cannot reach and the value of a design in which AI **complements** embodied inquiry rather than replacing it. The work connects to [[physics-education]], [[socratic-method]], and [[pedagogical-agent]] theory.
+
+## Where AI Cannot Reach in Embodied Inquiry
+
+Generative AI is entering science education at a time when the embodied education community is asking what such systems cannot do. Rather than asking whether AI can understand the body, this case study asks where a language-based AI can stand within an inquiry activity without displacing embodied experience.
+
+## Two-Phase ISLE Design
+
+University students in a Master's course in physics education investigated the statics of fluids following the ISLE (Investigative Science Learning Environment) approach in a two-phase design: students first built the buoyancy model with their own hands, without AI; a purpose-configured AI assistant then facilitated the application of the model to a new phenomenon.
+
+## Findings
+
+The paper discusses what a language-based facilitator cannot reach and the value of a design in which AI complements embodied inquiry rather than replacing it — a nuanced contribution to [[pedagogical-agent]] and constructivist learning theory.
+
+## Connected Concepts
+
+- [[physics-education]]
+- [[socratic-method]]
+- [[pedagogical-agent]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[professional-training]]
+- [[stem-education]]
+- [[socratic-ai-dialogue]]
+- [[simulation]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[multiagent-classroom-dual-process-physics-teachers-2026]]
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[socratic-ai-physics-tutor-taxonomy-2026]]
+- [[genai-ar-physics-simulation-prompt-2026]]
+- [[ai-acceptance-preservice-science-teachers-2026]]
+
+## Citation
+
+Tufino, E., & Damiani, P. (2026). [*Embodied inquiry with AI as facilitator: An exploratory case study*](https://arxiv.org/abs/2607.21349). arXiv:2607.21349.
 
 ---
 
@@ -11065,6 +11388,49 @@ This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Sea
 ## Citation
 
 Liu, Y., Arguello, J., Hoeber, O., et al. (2026). [*Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)*](https://arxiv.org/abs/2606.08936). arXiv:2606.08936.
+
+---
+
+## [From Prompt to Embodied Simulation: Using Generative AI to Create AR Physics Learning Tools](https://edtechdev.github.io/aied/articles/genai-ar-physics-simulation-prompt-2026/)
+
+> **Synthesis:** Levy et al. (2026) show how a structured natural-language prompt can generate a browser-based, hand-controlled **augmented-reality (AR) physics simulation** — spread your thumb and index finger and a virtual lamp changes color — and describe its use in an introductory physics class. Computer simulations have a long record of supporting physics learning by making abstract concepts interactive, and generative AI now lowers the barrier to creating customized, embodied, interactive simulations. The work connects to [[physics-education]], [[generative-ai]], and [[simulation]] and illustrates the growing role of [[prompt-engineering]] in educational content creation.
+
+## Lowering the Barrier to Embodied Simulation
+
+Computer simulations have a long and well-documented record of supporting physics learning, making abstract physical concepts interactive and inviting students to play with parameters. This paper shows how a structured natural-language prompt can generate a browser-based, hand-controlled AR physics simulation.
+
+## The AR Simulation
+
+Spread your thumb and index finger in the air, and a virtual lamp in the room changes color — a browser-based, hand-controlled augmented-reality physics simulation generated entirely from a structured natural-language prompt.
+
+## Use in Instruction
+
+The paper describes the simulation's use in an introductory physics class, illustrating how generative AI and prompt engineering can produce customized, embodied, interactive physics learning tools without programming expertise.
+
+## Connected Concepts
+
+- [[physics-education]]
+- [[generative-ai]]
+- [[simulation]]
+- [[content-generation]]
+- [[stem-education]]
+- [[prompt-engineering]]
+- [[personalized-learning]]
+- [[scaffolding]]
+- [[teacher-role]]
+- [[multimodal]]
+
+## Connected Articles
+
+- [[ai-generated-smartphone-circular-motion-lab-2026]]
+- [[fouad-bentley-trust-utility-gap-physics-2026]]
+- [[becker-chatgpt-typology-physics-2026]]
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[agentschool-multi-agent-simulation-education-2026]]
+
+## Citation
+
+Levy, O., Glazer, J., Finkelstein, N. D., & Ben-Zion, Y. (2026). [*From prompt to embodied simulation: Using generative AI to create AR physics learning tools*](https://arxiv.org/abs/2607.24709). arXiv:2607.24709.
 
 ---
 
@@ -13366,6 +13732,49 @@ Chiu, T. K. F. (2026). [*Human-Centric Artificial Intelligence Pedagogy (HCAP) f
 
 ---
 
+## [Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy](https://edtechdev.github.io/aied/articles/hdr-brachytherapy-agentic-ai-simulation-2026/)
+
+> **Synthesis:** Xu et al. (2026) present an agentic AI-driven immersive simulation for training in **High Dose Rate (HDR) brachytherapy**, integrating VR and mobile computing to create a high-fidelity, risk-free environment for mastering complex procedural skills. A knowledge-aware assistant uses [[rag|Retrieval-Augmented Generation]] to ground agent interactions in authoritative clinical guidelines, providing natural-language interfaces and hands-free, real-time guidance during intricate maneuvers. A prototype on Meta Quest 3 with a local GPU-backed AI backend demonstrated feasible architecture with suitable latency and high context precision, answer completeness, and relevance. The work connects to [[simulation]], [[professional-training]], and [[health-education]] research.
+
+## Immersive, Risk-Free Clinical Training
+
+The convergence of the Metaverse and LLM-based AI agents is catalyzing a shift toward autonomous, immersive, and personalized pedagogical frameworks in medical education. This system targets HDR vaginal cylinder brachytherapy in cancer care, integrating VR and mobile computing to let trainees master complex procedural skills without the facility or safety constraints of physical anatomy or live radioactive sources.
+
+## RAG-Grounded Knowledge Assistance
+
+A core contribution is the seamless integration of a knowledge-aware assistant leveraging Retrieval-Augmented Generation to ground agent interactions in authoritative clinical guidelines. This enables an interactive agent to provide natural-language interfaces and hands-free, real-time guidance during intricate medical maneuvers.
+
+## Validation
+
+A prototype deployment comprising a Meta Quest 3 interface linked to a local GPU-accelerated AI backend demonstrated a feasible architecture, maintaining suitable end-to-end latency and high context precision, answer completeness, and relevance in the RAG-enhanced pedagogical support.
+
+## Connected Concepts
+
+- [[simulation]]
+- [[professional-training]]
+- [[health-education]]
+- [[rag]]
+- [[agentic-ai]]
+- [[multimodal]]
+- [[personalized-learning]]
+- [[intelligent-tutoring]]
+- [[pedagogical-safety]]
+- [[human-in-the-loop-ai]]
+
+## Connected Articles
+
+- [[tibetcpr-ai-training-feedback]]
+- [[astra-atco-training-simulator]]
+- [[medgame-llm-medical-education-gamification]]
+- [[ai-use-critical-thinking-medical-students-2026]]
+- [[agentschool-multi-agent-simulation-education-2026]]
+
+## Citation
+
+Xu, R., Barasa, K., Kumal, M., Liu, X., Zhou, W., & Qian, X. (2026). [*Agentic AI-driven immersive simulation: A knowledge-aware virtual training platform for high dose rate (HDR) brachytherapy*](https://arxiv.org/abs/2608.08163). arXiv:2608.08163.
+
+---
+
 ## [Collaborative AI Literacy Framework](https://edtechdev.github.io/aied/articles/hingle-collaborative-ai-literacy-2025/)
 
 > **Collaborative AI Literacy Framework** — SEFI 2025. A systematic review of 9 studies (2015–2023) examining how collaborative learning (CL) approaches can be harnessed to build AI literacy across diverse educational contexts. Using the ICAP framework (Interactive–Constructive–Active–Passive) as an analytical lens, the review demonstrates that CL effectively increases AI literacy across activities, settings, and learner groups. Most studies were conducted in classroom settings, with some broadening participation through educators, families, or AI agents supporting teamwork. Instructional activities spanned all four ICAP modes, revealing a rich design space for collaborative AI literacy interventions.
@@ -14133,6 +14542,52 @@ The authors find that users do engage in learning-supporting behaviours — cogn
 ## Citation
 
 Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026). [Informal Learning Emerges in Everyday Human-LLM Interaction](https://arxiv.org/abs/2607.17643). arXiv:2607.17643. arXiv:2607.17643 [cs.HC].
+
+---
+
+## [INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators](https://edtechdev.github.io/aied/articles/inside-llm-student-simulator-reasoning-2026/)
+
+> **Synthesis:** Niousha, Kang, & Norouzi (2026) introduce **INTERNAL STUDENT DIALOGUE (INSIDE)**, a student modeling framework that fine-tunes LLMs to both *act* like students and *think* like them. Two students may submit identical work for entirely different reasons, so INSIDE generates internal dialogue grounded in Bloom's Taxonomy across cognitive, affective, and action dimensions, fine-tuning on paired think-traces and actions. Evaluated against prompting baselines, INSIDE improves action fidelity (matching real students' code generation) and reasoning alignment (up to 57.9% across models). The work advances [[student-modeling]] and [[simulating-students]] research toward cognitively faithful student simulation.
+
+## The Reasoning Gap in Student Simulation
+
+LLM-based simulators often reproduce observable actions but fail to capture the underlying reasoning behind them. In education, where student simulation is used to evaluate tutoring systems, this gap is pronounced: two students may submit identical submissions for entirely different reasons.
+
+## The INSIDE Framework
+
+INSIDE fine-tunes LLMs not only to act like students but to think like them. It generates internal dialogue grounded in Bloom's Taxonomy across cognitive, affective, and action dimensions, and is trained on paired think traces and actions.
+
+## Evaluation
+
+INSIDE is baselined against different prompting frameworks and evaluated on two axes: **fidelity of simulated actions** and **quality of generated internal dialogue**. It improves simulation fidelity in action fidelity (matching real students' code generation) and achieves the highest reasoning alignment across models up to 57.9%. Accepted at the Conference on Language Modeling (COLM) 2026.
+
+## Connected Concepts
+
+- [[student-modeling]]
+- [[simulating-students]]
+- [[metacognition]]
+- [[intelligent-tutoring]]
+- [[personalized-learning]]
+- [[llm]]
+- [[learning-analytics]]
+- [[cognitive-diagnosis]]
+- [[higher-ed]]
+- [[scaffolding]]
+
+## Connected Articles
+
+- [[history-aware-student-simulation]]
+- [[valid-student-simulation-llm-2026]]
+- [[simulating-students-diverse-cognitive-levels-2025]]
+- [[simulating-students-llm-review-2026]]
+- [[llm-student-simulation-misconception-faithfulness]]
+- [[agentschool-multi-agent-simulation-education-2026]]
+- [[llm-student-simulation-teacher-insights]]
+- [[llm-student-modeling-memory]]
+
+## Citation
+
+Niousha, R., Kang, M., & Norouzi, N. (2026). [*INSIDE the student's mind: Jointly modeling latent reasoning and action in LLM student simulators*](https://arxiv.org/abs/2608.10492). arXiv:2608.10492.
 
 ---
 
@@ -19828,6 +20283,50 @@ Alzahrani, A. H. (2026). [*Persistent AI Agents in Academic Research: A Single-I
 
 ---
 
+## [Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning](https://edtechdev.github.io/aied/articles/physics-chatbot-epistemological-beliefs-2026/)
+
+> **Synthesis:** Sirnoorkar & Mamidpalliwar (2026) investigate the association between introductory physics students' preferences for chatbot behavior and their epistemological beliefs, using a custom online waves module with simulations integrated with a chatbot. Preferences were captured through three options (guided-inquiry, direct answer, and a combination); beliefs via the EBAPS survey. Students who preferred chatbots that initially engage in guided-inquiry but provide answers when explicitly sought ('Combination') demonstrated more sophisticated epistemological beliefs than those preferring answer-providing chatbots, though no association was found between EBAPS total scores for guided-inquiry vs answer-oriented preferences, and differences did not survive Bonferroni adjustment. The work connects to [[physics-education]], [[chatbot]], and [[socratic-method]] research.
+
+## Chatbot Preference and Epistemological Beliefs
+
+Generative AI promises to transform higher education. This study asks whether introductory students' preferences for chatbot behavior are associated with their epistemological beliefs surrounding physics, in a custom-built online module on waves containing simulations integrated with a chatbot.
+
+## Design
+
+Chatbot preferences were captured through three provided options — guided-inquiry, direct answer, and a combination of inquiry and answer. Epistemological beliefs were captured through the standardized Epistemological Beliefs Assessment for Physical Sciences (EBAPS) survey.
+
+## Findings
+
+Students who preferred chatbots that initially engage them in guided-inquiry but provide answers when explicitly sought ('Combination') demonstrated more sophisticated epistemological beliefs than those who preferred answer-providing chatbots. No association was observed between EBAPS total scores among guided-inquiry vs answer-oriented preference groups, and differences did not remain statistically significant after Bonferroni adjustment. Proceedings of the 2026 Physics Education Research Conference.
+
+## Connected Concepts
+
+- [[physics-education]]
+- [[chatbot]]
+- [[socratic-method]]
+- [[ai-literacy]]
+- [[student-experience]]
+- [[generative-ai]]
+- [[stem-education]]
+- [[higher-ed]]
+- [[socratic-ai-dialogue]]
+- [[metacognition]]
+
+## Connected Articles
+
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[socratic-ai-physics-tutor-taxonomy-2026]]
+- [[fouad-bentley-trust-utility-gap-physics-2026]]
+- [[becker-chatgpt-typology-physics-2026]]
+- [[genai-tutor-engagement-patterns]]
+- [[chatgpt-feedback-engagement-genai]]
+
+## Citation
+
+Sirnoorkar, A., & Mamidpalliwar, O. (2026). [*Students' epistemological beliefs and their chatbot preferences in AI-mediated physics learning*](https://arxiv.org/abs/2607.29385). Proceedings of the 2026 Physics Education Research Conference. arXiv:2607.29385.
+
+---
+
 ## [Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning](https://edtechdev.github.io/aied/articles/physiological-signals-exam-outcomes-ml/)
 
 > Investigates ML models to predict exam outcomes from physiological data (electrodermal activity, heart rate, skin temperature) collected during exams. Evaluates logistic regression, random forest, SVM, transformers, LSTM, and GRU. Random forest often outperformed deep learning models while offering interpretability. Highlights value of physiological data for understanding student stress and real-time intervention potential.
@@ -20947,6 +21446,50 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 ## Citation
 
 Lee, Y.-C., Boonprakong, N., Tan, Y., Soh, H., et al. (2026). [*Reshaping Undergraduate Computer Science Education in the Generative AI Era*](https://arxiv.org/abs/2606.07545). arXiv:2606.07545.
+
+---
+
+## [ResidencyRL: Reinforcement Learning in Simulated Clinical Environments](https://edtechdev.github.io/aied/articles/residencyrl-clinical-rl-training-2026/)
+
+> **Synthesis:** Liévin et al. (2026) present **ResidencyRL**, a reinforcement learning method for training clinical AI agents through simulated multi-turn clinical encounters (up to 60 dialogue turns and 8 tool calls per trajectory). It pairs the policy agent with LLM simulators capable of complex, adversarial behaviors, training against a structured reward aligned to diagnostic accuracy, management quality, communication, documentation, and safety. On held-out evaluation the agent improves diagnostic accuracy by 7.0% under adversarial conditions (88.0% vs 81.0%) and reduces missed red-flag rates by 31%; blinded expert clinicians preferred it in 87.6% of side-by-side comparisons, and competencies transfer to unseen benchmarks. The work connects to [[reinforcement-learning]], [[simulation]], and [[professional-training]] in health education.
+
+## Learning Clinical Decision Sequences
+
+In medical education, physicians convert academic knowledge into clinical expertise through residency: years of training across thousands of encounters. While LLMs excel on static medical benchmarks, methods to optimize the full sequence of clinical decisions remain underdeveloped. ResidencyRL trains clinical AI agents through simulated multi-turn clinical encounters.
+
+## Method
+
+ResidencyRL pairs the policy agent with LLM simulators capable of complex, adversarial behaviors, training against a structured reward aligned to diagnostic accuracy, management quality, communication, documentation, and safety.
+
+## Findings
+
+On held-out evaluations the agent improves diagnostic accuracy by 7.0% under adversarial conditions (88.0% vs 81.0%) and reduces missed red-flag rates by 31%, demonstrating rigorous mitigation of premature closure. Blinded expert clinicians preferred the trained agent in 87.6% of side-by-side comparisons. Procedural competencies transfer to unseen benchmarks, outperforming the base model across all six clinical axes of the AMIE multi-visit benchmark with consistent directional improvements on AgentClinic and CRAFT-MD.
+
+## Connected Concepts
+
+- [[reinforcement-learning]]
+- [[simulation]]
+- [[professional-training]]
+- [[health-education]]
+- [[llm]]
+- [[dialogue-tutoring]]
+- [[trust-calibration]]
+- [[cognitive-diagnosis]]
+- [[human-in-the-loop-ai]]
+- [[pedagogical-safety]]
+
+## Connected Articles
+
+- [[tibetcpr-ai-training-feedback]]
+- [[astra-atco-training-simulator]]
+- [[medgame-llm-medical-education-gamification]]
+- [[ai-use-critical-thinking-medical-students-2026]]
+- [[pedagogical-safety-rl]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
+
+## Citation
+
+Liévin, V., Schmidgall, S., Strother, T., Bijamov, A., Goel, A., Palepu, A., et al. (2026). [*ResidencyRL: Reinforcement learning in simulated clinical environments*](https://arxiv.org/abs/2608.07418). arXiv:2608.07418.
 
 ---
 
@@ -22661,6 +23204,53 @@ Sun, Y., Liao, Y., & Ma, X. (2026). Advancing diagram-based reasoning in AI tuto
 
 ---
 
+## [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](https://edtechdev.github.io/aied/articles/structural-silence-underrepresented-language-ai-2026/)
+
+> **Synthesis:** Roy & Roy (2026) argue that the **infrastructure of AI** — training corpora, tokenization, benchmarks, deployment architectures — systematically disadvantages speakers of underrepresented languages *before a model is trained*, reframing dataset scarcity as a structural barrier rather than an isolated technical limitation. Using Bengali as a case in AI-assisted education, they document four interlocking failures: a web-presence gap (<0.5% of global content for ~4% of the population), a 67:1 English↔Bengali training-token deficit, a tokenization penalty from the alphasyllabary script, and connectivity exclusion (36.5% rural vs 71.4% urban internet penetration). They position **offline-first design** as an equity-oriented infrastructure strategy. The work connects to [[equity]], [[multilingual-learning]], and [[digital-divide]] debates in educational AI.
+
+## Four Interlocking Infrastructure Failures
+
+The paper identifies four structural barriers that compound to exclude underrepresented languages from AI-assisted education:
+
+- **Web presence gap:** Bengali accounts for under 0.5% of global web content despite representing nearly 4% of the global population.
+
+- **Training-token deficit:** a 67:1 deficit between English and Bengali in major multilingual corpora.
+
+- **Tokenization penalty:** Bengali's alphasyllabary script compounds the data deficit through higher token fertility.
+
+- **Connectivity exclusion:** individual internet penetration is 36.5% in rural areas versus 71.4% in urban areas.
+
+These failures reflect longstanding resource-allocation decisions, institutional priorities, and design defaults that did not center underrepresented languages in mainstream AI development.
+
+## Reframing Scarcity as Structure
+
+The authors argue dataset scarcity should be understood as a **structural barrier** rather than an isolated technical limitation. They recommend treating **offline-first design** as an equity-oriented infrastructure strategy for AI-assisted education in low-connectivity environments, and outline directions for linguistics and AI research aimed at reducing these structural inequalities.
+
+## Connected Concepts
+
+- [[equity]]
+- [[multilingual-learning]]
+- [[language-learning]]
+- [[digital-divide]]
+- [[global-south]]
+- [[inclusive-ai]]
+- [[ai-education]]
+- [[higher-ed]]
+- [[privacy]]
+- [[accessibility]]
+
+## Connected Articles
+
+- [[ai-scoring-language-bias-physics]]
+- [[sec-ai-literacy-narrative-review-2026]]
+- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]]
+
+## Citation
+
+Roy, A., & Roy, P. (2026). [*Structural silence: When AI infrastructure fails speakers of underrepresented languages*](https://arxiv.org/abs/2608.12278). arXiv:2608.12278.
+
+---
+
 ## [Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results](https://edtechdev.github.io/aied/articles/structured-ai-demonstrations-engineering-mechanics/)
 
 > **Shuang Geng, Helen Lallos-Harrell, Jiya Ashar, Thomas J. McKenna, Annwesa Dasgupta, Caleb Farny, Emma Lejeune** — arXiv preprint (2026).
@@ -23875,6 +24465,50 @@ The work contributes to understanding of [[academic-integrity]] in educational c
 
 ## Citation
 Pisan, Y. (2026). [*Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights*](https://arxiv.org/abs/2608.05175). arXiv:2608.05175.
+
+---
+
+## [Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents](https://edtechdev.github.io/aied/articles/teaching-monster-pck-benchmark-2026/)
+
+> **Synthesis:** Lin et al. (2026) present the **Teaching Monster Challenge**, the first instructional-video generation benchmark that treats the learner persona as an explicit evaluation criterion, measuring whether AI agents can adapt a lesson to a specified learner — [[teacher-ai-competency|Pedagogical Content Knowledge (PCK)]]. Systems receive a topic and a learner persona and must generate a complete instructional video, screened by an LLM-judge, ranked by crowd pairwise voting, and finalized by an expert panel. The first edition shows systems handle content well but are far weaker at presenting and adapting it to the learner. It also exposes a limit of automatic judging: the LLM-judge separates a clear low-performing tail but ranks the strongest systems poorly and nearly identically, so its ranking does not match human preference.
+
+## Benchmarking PCK, Not Just Content
+
+AI agents can now solve problems, answer like subject experts, and generate long-form multimodal content, but whether they can adapt a lesson to fit a specified learner — which education calls Pedagogical Content Knowledge — had not been benchmarked. The Teaching Monster Challenge makes the learner persona an explicit evaluation criterion.
+
+## Method
+
+Each system is given a topic and a learner persona and must generate a complete instructional video. Every video is screened by an LLM-judge, ranked by crowd pairwise voting, and finalized by an expert panel.
+
+## Findings
+
+Today's systems handle content well but are far weaker at presenting it and adapting it to the learner. The LLM-judge separates a clear low-performing tail but ranks the strongest systems poorly, giving them nearly identical scores so its ranking does not match human preference. Progress requires better teaching systems *and* better automatic judges; the benchmark, rubric, and human judgments are released as a testbed for both.
+
+## Connected Concepts
+
+- [[teacher-ai-competency]]
+- [[pedagogical-agent]]
+- [[benchmark]]
+- [[llm-evaluation]]
+- [[ai-ed-evaluation]]
+- [[agentic-ai]]
+- [[content-generation]]
+- [[generative-ai]]
+- [[instructional-design]]
+- [[pedagogical-llm-training]]
+
+## Connected Articles
+
+- [[teachbench-llm-teaching-evaluation]]
+- [[eduagentbench-agent-teaching-benchmark]]
+- [[ai-tutor-behavioral-evaluation]]
+- [[solving-vs-evaluating-genai-solutions]]
+- [[llm-tutoring-feedback-diagnosis-gap]]
+- [[teaching-feedback-classification-benchmark]]
+
+## Citation
+
+Lin, Y.-C., Guo, Y.-K., Chen, S.-C., Feng, B.-H., Hsu, Y.-M., Hsieh, H., Lin, Y.-J., Wu, Y.-L., Dong, J.-K., Cheng, A.-Y., Huang, Y.-H., Ieong, L.-L., Chen, K.-Y., Tchouang, M.-D., Sun, S.-H., Lin, C., Ding, J.-J., & Lee, H.-y. (2026). [*Findings of the first Teaching Monster Challenge: A benchmark of pedagogical content knowledge in AI agents*](https://arxiv.org/abs/2608.08852). arXiv:2608.08852.
 
 ---
 
@@ -25883,6 +26517,8 @@ Agentic AI refers to artificial intelligence systems that can autonomously plan,
 - [[jeon-isd-agent-bench-2026]]
 - [[learnmate2-llm-adaptive-learning]]
 - [[pchl-he-framework-genai-content-creation-2026]]
+- [[cyberagents-gamified-cybersecurity-learning-2026]]
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 
 ---
 
@@ -25952,6 +26588,8 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
+- [[elbench-education-llm-benchmark-2026]]
+- [[teaching-monster-pck-benchmark-2026]]
 
 ---
 
@@ -26251,7 +26889,9 @@ AI tutoring encompasses the use of artificial intelligence — particularly larg
 - [[oecd-digital-education-outlook-2026]]
 - [[representation-robustness-llm-math-problem-solving]]
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
+- [[tact-pedagogically-adaptive-esl-tutoring]]- [[ai-tutoring-quality-k12-methodologies-2026]]
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]]
+- [[residencyrl-clinical-rl-training-2026]]
 
 ---
 
@@ -26547,6 +27187,9 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
+
+- [[elbench-education-llm-benchmark-2026]]
+- [[teaching-monster-pck-benchmark-2026]]
 
 ---
 
@@ -27532,6 +28175,7 @@ Equity connects to [[bias-mitigation]], [[special-education]], [[accessible-lear
 - [[ai-uk-higher-education-policy-2026]]
 - [[genai-policies-higher-ed-computing]] — Who sets GenAI-use rules and how consistently across courses
 - [[genai-higher-education-systematic-review-2026]]
+- [[structural-silence-underrepresented-language-ai-2026]]
 
 ---
 
@@ -27670,6 +28314,7 @@ Feedback loops connect to [[formative-assessment]] (the assessment philosophy th
 - [[ai-feedback-quality]]
 - [[ai-peer-feedback-systems]]
 - [[automated-formative-assessments-a-level-sciences]]
+- [[ai-feedback-enactment-workflow-2026]]
 
 ---
 
@@ -27963,6 +28608,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[student-mental-models-genai]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[ai-feedback-enactment-workflow-2026]]
 
 ---
 
@@ -28144,7 +28790,7 @@ The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor)
 - [[child-safety-genai]]
 - [[clara-collaboration-literacy-dashboard]]
 - [[codify-socratic-programming-tutor]]
-- [[codify-socratic-tutoring-programming]]
+- [[codify-socratic-tutoring-programming]]- [[ai-tutoring-quality-k12-methodologies-2026]]
 
 ---
 
@@ -28386,6 +29032,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[dyslexlens-dyslexic-learners-ai]]
 - [[tact-pedagogically-adaptive-esl-tutoring]]
 - [[ai-tools-arab-english-classrooms]]
+- [[structural-silence-underrepresented-language-ai-2026]]
 
 ---
 
@@ -28551,6 +29198,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[llm-intervention-design-cs-review]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[elbench-education-llm-benchmark-2026]]
+- [[ai-feedback-enactment-workflow-2026]]
 
 ---
 
@@ -28913,7 +29562,7 @@ A pedagogical agent is an interactive AI component within a learning system that
 ## Connected Articles
 - [[ai-generated-interactive-fiction-education-2026]]
 
-- [[adversarial-stress-testing-role-playing-agents]]
+- [[adversarial-stress-testing-role-playing-agents]]- [[embodied-inquiry-ai-facilitator-physics-2026]]
 
 ---
 
@@ -29181,6 +29830,10 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[llm-computational-thinking-physics-2026]]
 - [[ai-scoring-language-bias-physics]]
 - [[multiagent-classroom-dual-process-physics-teachers-2026]]
+- [[physics-chatbot-epistemological-beliefs-2026]]
+- [[ai-generated-smartphone-circular-motion-lab-2026]]
+- [[genai-ar-physics-simulation-prompt-2026]]
+- [[embodied-inquiry-ai-facilitator-physics-2026]]
 
 ---
 
@@ -29284,6 +29937,9 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[astra-atco-training-simulator]]
 - [[ai-adoption-training-public-sector]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
+- [[cyberagents-gamified-cybersecurity-learning-2026]]
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]]
+- [[residencyrl-clinical-rl-training-2026]]
 
 ---
 
@@ -29554,7 +30210,7 @@ Regulation connects to [[educational-policy-ai]], [[ai-governance-education]], [
 
 - [[history-aware-student-simulation]]
 - [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
+- [[singh-eduqwen-pedagogical-rl-2026]]- [[residencyrl-clinical-rl-training-2026]]
 
 ---
 
@@ -29847,6 +30503,7 @@ For example:
 - [[curiobot-llm-tutoring-exploratory-learning]]
 - [[ecnuclaw-k12-personalized-companion]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[ai-feedback-enactment-workflow-2026]]
 
 ---
 
@@ -29903,6 +30560,7 @@ Simulating students sits at the intersection of [[simulation]], [[student-modeli
 - [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
 - [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation
 - [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
+- [[inside-llm-student-simulator-reasoning-2026]]
 
 ---
 
@@ -29942,6 +30600,8 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[astra-atco-training-simulator]] — ASTRA: ATCO Training Simulator
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: Visual Exploratory Learning
 - [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]]
+- [[residencyrl-clinical-rl-training-2026]]
 
 ---
 
@@ -30061,7 +30721,8 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[structured-llm-feedback-programming]]
 - [[syal-multimodal-dialogue-stem-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
+- [[zerkouk-comprehensive-review-its-2025]]- [[physics-chatbot-epistemological-beliefs-2026]]
+- [[embodied-inquiry-ai-facilitator-physics-2026]]
 
 ---
 
@@ -30355,6 +31016,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[inside-llm-student-simulator-reasoning-2026]]
 
 ---
 
