@@ -41,3 +41,5 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[astra-atco-training-simulator]] — ASTRA: ATCO Training Simulator
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: Visual Exploratory Learning
 - [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]]
+- [[residencyrl-clinical-rl-training-2026]]

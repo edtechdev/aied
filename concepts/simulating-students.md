@@ -58,3 +58,4 @@ Simulating students sits at the intersection of [[simulation]], [[student-modeli
 - [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review
 - [[valid-student-simulation-llm-2026]] — Towards Valid Student Simulation
 - [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: Multi-Agent Simulation for Education
+- [[inside-llm-student-simulator-reasoning-2026]]

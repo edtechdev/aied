@@ -66,4 +66,4 @@ The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor)
 - [[child-safety-genai]]
 - [[clara-collaboration-literacy-dashboard]]
 - [[codify-socratic-programming-tutor]]
-- [[codify-socratic-tutoring-programming]]
+- [[codify-socratic-tutoring-programming]]- [[ai-tutoring-quality-k12-methodologies-2026]]

@@ -46,3 +46,6 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[astra-atco-training-simulator]]
 - [[ai-adoption-training-public-sector]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
+- [[cyberagents-gamified-cybersecurity-learning-2026]]
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]]
+- [[residencyrl-clinical-rl-training-2026]]

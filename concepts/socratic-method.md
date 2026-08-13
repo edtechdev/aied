@@ -54,4 +54,5 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[structured-llm-feedback-programming]]
 - [[syal-multimodal-dialogue-stem-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
+- [[zerkouk-comprehensive-review-its-2025]]- [[physics-chatbot-epistemological-beliefs-2026]]
+- [[embodied-inquiry-ai-facilitator-physics-2026]]

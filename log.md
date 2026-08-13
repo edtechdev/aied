@@ -1994,3 +1994,9 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Ingested 10 new articles: AI-generated interactive fiction, critical media literacy, multimodal item parameter estimation, AI-guided audio/video learning, AI in interior design (Malaysia), CBE production attribute after GenAI, metacognitively discordant completion, AI acceptance pre-service science teachers, UK HE GenAI student survey, HAIML metacognitive model
 - physics.ed-ph AI papers (Socratic tutor, CT detection, multi-agent classroom) already ingested; non-AI physics papers skipped
 - Backlinks added to 78 concept pages; build pending; pushed after build
+
+## [2026-08-13] meta | scan-complete
+
+- Source: arXiv cs+education (API OK via execute_code/urllib), physics.ed-ph (API OK), EdArXiv OSF (API DOWN 500/502, used web fallback)
+- Ingested 13 new articles: Structural Silence (underrepresented languages), AI feedback enactment workflow, INSIDE LLM student simulator, ELBench education LLM benchmark, Teaching Monster PCK benchmark, AI tutoring quality K-12 (Khanmigo), CyberAGENTS gamified cybersecurity, HDR brachytherapy agentic simulation, ResidencyRL clinical RL, physics chatbot epistemological beliefs, AI-generated smartphone circular motion lab, GenAI AR physics tools, embodied inquiry AI facilitator
+- Backlinks added to 20 concept pages; build OK (1678 pages); pushed
