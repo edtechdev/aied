@@ -16,6 +16,15 @@ This study examines the critical influence of technical and structural factors o
 
 ## Connected Concepts
 
+- [[motivation]]
+- [[learning-analytics]]
+- [[rag]]
+- [[intelligent-tutoring]]
+- [[adult-learning]]
+- [[socratic-method]]
+- [[math-education]]
+- [[higher-ed]]
+
 ## Connected Articles
 - [[learning-by-chatting-genai-impact]]
 - [[genai-meta-analysis-programming-learning]]

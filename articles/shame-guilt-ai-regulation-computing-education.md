@@ -28,6 +28,15 @@ The findings suggest that prevailing responses to AI use — particularly those 
 
 ## Connected Concepts
 
+- [[student-experience]]
+- [[cs-education]]
+- [[affective-computing]]
+- [[plagiarism-detection]]
+- [[over-reliance]]
+- [[academic-integrity]]
+- [[human-in-the-loop-ai]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

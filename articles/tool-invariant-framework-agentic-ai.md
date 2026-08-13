@@ -57,6 +57,15 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 
 ## Connected Concepts
 
+- [[plagiarism-detection]]
+- [[formative-assessment]]
+- [[automated-essay-scoring]]
+- [[student-experience]]
+- [[ai-ed-evaluation]]
+- [[agentic-ai]]
+- [[reducing-ai-misuse]]
+- [[prompt-engineering]]
+
 ## Connected Articles
 
 

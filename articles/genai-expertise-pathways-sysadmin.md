@@ -21,6 +21,15 @@ The findings extend concerns about cognitive offloading and skill decay from cla
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[student-experience]]
+- [[ai-misuse-learning-harm]]
+- [[open-source]]
+- [[over-reliance]]
+- [[critical-thinking]]
+- [[lifelong-learning]]
+- [[student-misconceptions-ai]]
+
 ## Connected Articles
 
 

@@ -42,6 +42,15 @@ The study directly addresses a structural problem of [[collaborative-learning]] 
 
 ## Connected Concepts
 
+- [[collaborative-learning]]
+- [[higher-ed]]
+- [[math-education]]
+- [[prompt-engineering]]
+- [[formative-assessment]]
+- [[affective-tutoring]]
+- [[curriculum-design]]
+- [[administrator]]
+
 ## Connected Articles
 
 

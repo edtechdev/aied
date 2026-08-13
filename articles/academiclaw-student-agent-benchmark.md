@@ -64,6 +64,15 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 
 ## Connected Concepts
 
+- [[automated-question-generation]]
+- [[pedagogical-llm-training]]
+- [[socratic-method]]
+- [[math-education]]
+- [[prompt-engineering]]
+- [[human-in-the-loop-ai]]
+- [[affective-tutoring]]
+- [[automated-essay-scoring]]
+
 ## Connected Articles
 
 

@@ -56,6 +56,15 @@ This operationalizes [[agentic-workflows-education]] for a specific tool:
 
 ## Connected Concepts
 
+- [[agentic-ai]]
+- [[math-education]]
+- [[curriculum-design]]
+- [[administrator]]
+- [[socratic-ai-dialogue]]
+- [[physics-education]]
+- [[help-seeking]]
+- [[metacognition]]
+
 ## Connected Articles
 
 - [[agentic-workflows-education]]

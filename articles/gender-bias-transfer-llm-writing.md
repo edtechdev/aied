@@ -32,6 +32,15 @@ For [[writing-education]] and [[bias-mitigation]] efforts, the study implies tha
 
 ## Connected Concepts
 
+- [[bias-mitigation]]
+- [[equity]]
+- [[prompt-engineering]]
+- [[affective-tutoring]]
+- [[automated-essay-scoring]]
+- [[plagiarism-detection]]
+- [[administrator]]
+- [[teacher-ai-competency]]
+
 ## Connected Articles
 
 

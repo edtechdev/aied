@@ -28,6 +28,15 @@ The article translates the argument into a deployment-review question: what will
 
 ## Connected Concepts
 
+- [[over-reliance]]
+- [[assessment]]
+- [[ethics]]
+- [[plagiarism-detection]]
+- [[student-misconceptions-ai]]
+- [[cognitive-offloading]]
+- [[prompt-engineering]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

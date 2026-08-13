@@ -21,6 +21,15 @@ A stated goal is human-AI alignment for measurement reliability: the conversatio
 
 ## Connected Concepts
 
+- [[automated-essay-scoring]]
+- [[automated-question-generation]]
+- [[formative-assessment]]
+- [[ai-ed-evaluation]]
+- [[open-source]]
+- [[socratic-method]]
+- [[reducing-ai-misuse]]
+- [[math-education]]
+
 ## Connected Articles
 
 

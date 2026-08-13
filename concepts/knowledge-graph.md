@@ -28,6 +28,15 @@ Knowledge graphs connect to [[instructional-design]] (defining what to teach), [
 
 ## Connected Concepts
 
+- [[adaptive-learning]]
+- [[knowledge-tracing]]
+- [[intelligent-tutoring]]
+- [[cognitive-diagnosis]]
+- [[student-modeling]]
+- [[learning-analytics]]
+- [[knowledge-graph]]
+- [[curriculum-design]]
+
 ## Connected Articles
 
 - [[learnity-graphs-lifelong-learning-framework-2026]]

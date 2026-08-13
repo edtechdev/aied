@@ -28,6 +28,15 @@ For [[writing-education]] and English for Research Publication Purposes, the dia
 
 ## Connected Concepts
 
+- [[language-learning]]
+- [[ai-literacy]]
+- [[writing-education]]
+- [[equity]]
+- [[automated-essay-scoring]]
+- [[student-experience]]
+- [[equity-in-ai-education]]
+- [[teacher-ai-competency]]
+
 ## Connected Articles
 
 

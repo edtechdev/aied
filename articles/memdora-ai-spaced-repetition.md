@@ -29,6 +29,15 @@ Memdora illustrates how AI-powered spaced repetition can move beyond scheduling 
 
 ## Connected Concepts
 
+- [[self-regulated-learning]]
+- [[adaptive-learning]]
+- [[affective-tutoring]]
+- [[pedagogical-llm-training]]
+- [[affective-computing]]
+- [[personalized-learning]]
+- [[math-education]]
+- [[higher-ed]]
+
 ## Connected Articles
 
 

@@ -30,6 +30,15 @@ For instructors and institutions, the results suggest that LLM-based classificat
 
 ## Connected Concepts
 
+- [[automated-assessment]]
+- [[formative-assessment]]
+- [[teacher-ai-competency]]
+- [[bias-mitigation]]
+- [[affective-computing]]
+- [[teacher-role]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+
 ## Connected Articles
 
 

@@ -21,6 +21,15 @@ The Evaluation phase closes the loop by connecting student performance data to i
 
 ## Connected Concepts
 
+- [[k-12-ai-education]]
+- [[teacher-ai-competency]]
+- [[bias-mitigation]]
+- [[culturally-relevant-pedagogy]]
+- [[ai-education]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

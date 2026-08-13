@@ -15,6 +15,15 @@ Research themes include:
 
 ## Connected Concepts
 
+- [[engagement-metrics]]
+- [[higher-ed]]
+- [[rct]]
+- [[design-thinking]]
+- [[edtech-platform]]
+- [[pedagogical-llm-training]]
+- [[multimodal]]
+- [[efficacy-study]]
+
 ## Connected Articles
 
 - [[ai-generated-interactive-fiction-education-2026]]

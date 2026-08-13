@@ -31,6 +31,15 @@ Expert evaluations compared TeachingCoach with a GPT-4o baseline in a zero-shot 
 
 ## Connected Concepts
 
+- [[teacher-ai-competency]]
+- [[teacher-role]]
+- [[k-12-ai-education]]
+- [[instructional-design]]
+- [[prompt-engineering]]
+- [[formative-assessment]]
+- [[affective-tutoring]]
+- [[curriculum-design]]
+
 ## Connected Articles
 
 

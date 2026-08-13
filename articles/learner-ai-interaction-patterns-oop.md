@@ -28,6 +28,15 @@ The absence of performance differences across usage clusters underscores the nee
 
 ## Connected Concepts
 
+- [[cs-education]]
+- [[administrator]]
+- [[math-education]]
+- [[higher-ed]]
+- [[human-in-the-loop-ai]]
+- [[socratic-ai-dialogue]]
+- [[rct]]
+- [[physics-education]]
+
 ## Connected Articles
 
 

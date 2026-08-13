@@ -16,6 +16,15 @@ Two experiments examined how avatar race, gender, and age shape trust in AI-medi
 
 ## Connected Concepts
 
+- [[language-learning]]
+- [[intelligent-tutoring]]
+- [[socratic-method]]
+- [[math-education]]
+- [[higher-ed]]
+- [[accessible-learning]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+
 ## Connected Articles
 - [[social-robot-study-companions]]
 - [[multi-agent-llm-social-learning]]

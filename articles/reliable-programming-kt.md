@@ -27,6 +27,15 @@ The paper's central message is methodological: performance claims in [[knowledge
 
 ## Connected Concepts
 
+- [[knowledge-tracing]]
+- [[student-modeling]]
+- [[benchmark]]
+- [[adaptive-learning]]
+- [[human-in-the-loop-ai]]
+- [[cognitive-diagnosis]]
+- [[knowledge-graph]]
+- [[feedback-loop]]
+
 ## Connected Articles
 
 - [[ground-truth-reliability-aied]]

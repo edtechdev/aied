@@ -31,6 +31,15 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Connected Concepts
 
+- [[personalized-learning]]
+- [[pedagogical-llm-training]]
+- [[pedagogical-agent]]
+- [[affective-computing]]
+- [[lifelong-learning]]
+- [[socratic-method]]
+- [[affective-tutoring]]
+- [[teacher-ai-competency]]
+
 ## Connected Articles
 
 

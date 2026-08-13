@@ -36,6 +36,15 @@ For [[personalized-learning]] platforms, the work demonstrates that fairness, di
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[personalized-learning]]
+- [[equity]]
+- [[adaptive-learning]]
+- [[knowledge-tracing]]
+- [[affective-computing]]
+- [[privacy]]
+- [[knowledge-graph]]
+
 ## Connected Articles
 
 

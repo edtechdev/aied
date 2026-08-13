@@ -28,6 +28,15 @@ The headline implication is that **model accuracy does not translate automatical
 
 ## Connected Concepts
 
+- [[cs-education]]
+- [[higher-ed]]
+- [[administrator]]
+- [[pedagogical-agent]]
+- [[automated-question-generation]]
+- [[affective-computing]]
+- [[agentic-ai]]
+- [[ai-tutoring]]
+
 ## Connected Articles
 
 

@@ -32,6 +32,15 @@ The authors note that the sample, recruited exclusively from Germany via Prolifi
 
 ## Connected Concepts
 
+- [[lifelong-learning]]
+- [[self-regulated-learning]]
+- [[motivation]]
+- [[collaborative-learning]]
+- [[prompt-engineering]]
+- [[affective-tutoring]]
+- [[plagiarism-detection]]
+- [[administrator]]
+
 ## Connected Articles
 
 

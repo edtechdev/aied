@@ -85,6 +85,15 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 
 ## Connected Concepts
 
+- [[ai-feedback-quality]]
+- [[socratic-ai-dialogue]]
+- [[ai-ed-evaluation]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[ai-tutoring]]
+- [[prompt-engineering]]
+- [[adaptive-learning]]
+
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]

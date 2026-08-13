@@ -28,6 +28,15 @@ The position paper generalizes beyond theater: wherever the labor of articulatio
 
 ## Connected Concepts
 
+- [[over-reliance]]
+- [[cognitive-offloading]]
+- [[scaffolding]]
+- [[open-source]]
+- [[writing-education]]
+- [[reducing-ai-misuse]]
+- [[math-education]]
+- [[creativity]]
+
 ## Connected Articles
 
 

@@ -31,6 +31,15 @@ For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapt
 
 ## Connected Concepts
 
+- [[ai-tutoring]]
+- [[collaborative-learning]]
+- [[affective-tutoring]]
+- [[teacher-ai-competency]]
+- [[socratic-ai-dialogue]]
+- [[help-seeking]]
+- [[pedagogical-agent]]
+- [[pedagogical-llm-training]]
+
 ## Connected Articles
 
 

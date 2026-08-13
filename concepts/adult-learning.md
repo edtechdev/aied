@@ -14,6 +14,15 @@ Research themes include:
 ## Connected Concepts
 
 
+- [[adult-learning]]
+- [[higher-ed]]
+- [[accessible-learning]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[rct]]
+- [[active-learning]]
+- [[dot-framework-survey]]
+
 ## Connected Articles
 
 

@@ -26,6 +26,15 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 
 ## Connected Concepts
 
+- [[open-source]]
+- [[socratic-method]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[cs-education]]
+- [[curriculum-design]]
+- [[administrator]]
+- [[socratic-ai-dialogue]]
+
 ## Connected Articles
 
 

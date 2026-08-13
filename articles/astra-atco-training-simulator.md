@@ -16,6 +16,15 @@ ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpil
 
 ## Connected Concepts
 
+- [[reinforcement-learning]]
+- [[lifelong-learning]]
+- [[affective-tutoring]]
+- [[knowledge-tracing]]
+- [[socratic-ai-dialogue]]
+- [[open-source]]
+- [[pedagogical-llm-training]]
+- [[affective-computing]]
+
 ## Connected Articles
 
 

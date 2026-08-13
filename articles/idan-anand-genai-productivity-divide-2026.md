@@ -21,6 +21,15 @@ This randomized controlled experiment assigned participants — analogs of early
 
 ## Connected Concepts
 
+- [[prompt-engineering]]
+- [[affective-tutoring]]
+- [[student-experience]]
+- [[administrator]]
+- [[teacher-ai-competency]]
+- [[socratic-ai-dialogue]]
+- [[help-seeking]]
+- [[bias-mitigation]]
+
 ## Connected Articles
 
 

@@ -32,6 +32,15 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 
 ## Connected Concepts
 
+- [[teacher-ai-competency]]
+- [[ai-literacy]]
+- [[efficacy-study]]
+- [[faculty-development]]
+- [[professional-training]]
+- [[k-12-ai-education]]
+- [[instructional-design]]
+- [[higher-ed]]
+
 ## Connected Articles
 
 

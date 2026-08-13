@@ -21,6 +21,15 @@ The work connects AI-based attention estimation to instructional design practice
 
 ## Connected Concepts
 
+- [[administrator]]
+- [[affective-computing]]
+- [[math-education]]
+- [[higher-ed]]
+- [[prompt-engineering]]
+- [[human-in-the-loop-ai]]
+- [[motivation]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

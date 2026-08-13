@@ -28,6 +28,15 @@ ParaTutor illustrates how LLM support for multi-user learning must be distribute
 
 ## Connected Concepts
 
+- [[math-education]]
+- [[pedagogical-agent]]
+- [[reinforcement-learning]]
+- [[intelligent-tutoring]]
+- [[lifelong-learning]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 
