@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.06271.md']
 confidence: high
 ---
 
-> **Liu, Song, Gallagher, Sterman & August (2026)** — University of Illinois Urbana-Champaign / Montana State University.
 Introduces **FOXGLOVE**, a dataset of 696 feedback comments by trained writing instructors on 69 twelfth-grade argumentative essays, paired with 1,644 comments from four frontier LLMs — totaling 2,340 comments with expert quality ratings. Provides the first systematic comparison of LLM and expert feedback on three pedagogically critical dimensions: **goal-orientation, anchoring to specific sentences, and prioritization**.
 
 **Key findings:** Instructors and LLMs distribute feedback similarly across revision goals and essay positions, but diverge significantly on which specific sentences receive feedback. Models write more complex feedback and use fewer questions than human instructors. LLM feedback receives higher quality ratings on most dimensions — but much of this advantage is attributable to lengthier comments inflating perceived quality.

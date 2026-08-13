@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.00294.md']
 confidence: high
 ---
 
-> **Parker & Zavala-Cerna (2026)** — Published in *Education and Information Technologies*.
-
 # Using LLMs to Identify Student Misconceptions
 
 ## Synthesis

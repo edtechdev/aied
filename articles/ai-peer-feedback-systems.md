@@ -72,6 +72,17 @@ This preserves pedagogical authority while reducing teacher workload.^[[becerra-
 
 AICoFe represents a **human-centered AI** paradigm for education: AI augments rather than replaces human judgment. This contrasts with fully automated grading or feedback systems that remove the teacher from the loop. The key insight is that **pedagogical authority resides with the teacher**, and AI's role is to expand the range and depth of actionable comments they can craft.^[[becerra-aicofe-feedback-2026]]
 
+## Connected Concepts
+
+- [[ai-ed-evaluation]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[socratic-method]]
+- [[ai-education]]
+- [[human-in-the-loop-ai]]
+- [[administrator]]
+- [[teacher-ai-competency]]
+
 ## Connected Articles
 
 - [[becerra-aicofe-feedback-2026]]

@@ -22,7 +22,7 @@ A pilot with **30 students** at a rural Alaska school using the CGScholar AI Hel
 
 ## Implications
 
-This framework connects to [[collaborative-learning]] and positions [[ai-literacy]] as a co-design process, not just consumption. The think-aloud methodology aligns with [[learnlab]] research on cognitive process analysis during AI-assisted learning.
+This framework connects to [[collaborative-learning]] and positions [[ai-literacy]] as a co-design process, not just consumption. The think-aloud methodology aligns with Learnlab research on cognitive process analysis during AI-assisted learning.
 
 ## Connected Concepts
 

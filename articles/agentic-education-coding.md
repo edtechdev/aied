@@ -8,7 +8,7 @@ sources: ['raw/papers/2604.17460.md']
 confidence: medium
 ---
 
-> **Naboulsi (2026)** identifies a paradox: **AI coding assistants proliferate rapidly, but pedagogical frameworks for learning them remain scarce**.
+> AI coding assistants proliferate rapidly, but pedagogical frameworks for learning them remain scarce — a paradox at the heart of agentic coding education.
 
 > Using agentic AI workflows (Claude Code) to teach AI coding tools — structured pedagogy for tool mastery.
 

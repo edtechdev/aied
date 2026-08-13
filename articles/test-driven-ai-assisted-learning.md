@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.23315.md']
 confidence: medium
 ---
 
-> **Jin-Guo Liu, Shang-Qi Lu, Xin-Ran Shi, Long-Li Zheng, Wei Wang (2026)** — arXiv:2606.23315 (cs.CY)
 Liu et al. (2026) report on a 13-week Test-Driven, AI-Assisted (TDAA) redesign of a Theory of Computation course at HKUST (Guangzhou). The course replaced all lectures with self-directed, AI-assisted learning and weekly closed-book tests serving as high-frequency quality gates. AI agents helped the instructor prepare learning paths, course websites, test drafting, grading workflows, and content repairs — all managed through a version-controlled agent workspace. Student survey data (N=18), weekly scores, and git history suggest the model preserved individual accountability while making material production and marking scalable with human oversight. The work contributes a reusable design pattern for [[ai-changing-teaching-workflows]] that integrates [[active-learning]] principles with [[llm]]-powered scaffolding, and offers practical implications for [[assessment]] design in [[higher-ed]] contexts. The approach connects to broader conversations about [[automated-grading]] and [[llm-student-modeling-memory]] as enablers of scalable personalized education.
 
 ## Connected Concepts

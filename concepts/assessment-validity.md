@@ -18,7 +18,7 @@ confidence: high
 
 ### Redesign over detection
 
-The wiki argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not detecting AI use. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[process-based assessment]] represent validity-forward thinking.
+The wiki argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not detecting AI use. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
 
 ### Connections
 

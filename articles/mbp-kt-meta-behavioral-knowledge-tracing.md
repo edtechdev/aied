@@ -8,7 +8,6 @@ sources: ['raw/papers/2605.08697.md']
 confidence: medium
 ---
 
-> **Jia, Y., Li, D., Chen, J., Mao, Z., Tong, M., Li, Y., Wang, X. (2026)** — arXiv preprint.
 ## Analysis
 
 This paper proposes **MBP-KT**, which transforms raw learner interaction sequences into structured **meta-behavioral patterns** before extracting collaborative signals. Raw sequences contain redundant noise; by decomposing interactions into distinct behavioral patterns (success-streaks, struggle-recovery, hesitation), the model captures higher-order learning dynamics.

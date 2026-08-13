@@ -25,7 +25,7 @@ confidence: high
 
 ## Implications
 
-This framework connects directly to [[institutional-change-framework-ai]] and [[teacher-ai-competency]] research. The finding that detection-centred integrity regimes are unreliable echoes [[bassett-ai-detectors-education-2026]] and has implications for [[assessment-validity]] and [[academic-integrity]] policies.
+This framework connects directly to [[institutional-change-framework-ai]] and [[teacher-ai-competency]] research. The finding that detection-centred integrity regimes are unreliable echoes [[plagiarism-detection]] and has implications for [[assessment-validity]] and [[academic-integrity]] policies.
 
 ## Connected Concepts
 

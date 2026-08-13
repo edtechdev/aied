@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.17263.md']
 confidence: medium
 ---
 
-> **Annie Yuan (2026)**. arXiv preprint (cs.HC).
-
 **Annie Yuan (2026)**. arXiv preprint (cs.HC).
 
 ## Summary

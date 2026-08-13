@@ -9,6 +9,11 @@ confidence: medium
 
 > **AI governance in education** spans institutional policy, [[regulation]], and [[privacy]]: [[genai-policies-higher-ed-computing]], [[genai-declaration-frameworks-higher-education]], and [[genai-assessment-governance]] document how universities translate AI capability into acceptable-use frameworks and assessment rules.
 
+## Connected Concepts
+
+- [[regulation]]
+- [[privacy]]
+
 ## Connected Articles
 
 - [[favero-critical-ai-tutors-empower-enslave-2025]]

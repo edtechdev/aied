@@ -15,7 +15,7 @@ confidence: high
 - **Engagement analytics:** [[engagement-metrics|Engagement measurement]] and [[engagement-intensity-learner-modeling|intensity modeling]] quantify how students interact with AI systems.
 - **Feedback analytics:** [[teaching-feedback-classification-benchmark|Feedback classification]] and [[ai-feedback-quality|quality assessment]] analyze the feedback students receive.
 - **Network analysis:** [[misiejuk-cognitive-offloading-prompting-2026|Co-Occurrence Network Analysis]] and [[epistemic-emotions-collaborative-problem-solving|epistemic network analysis]] reveal interaction patterns.
-- **Privacy tensions:** [[privacy]] and [[data-minimization]] concerns grow as analytics become more granular and AI-driven.
+- **Privacy tensions:** [[privacy]] and [[privacy]] concerns grow as analytics become more granular and AI-driven.
 
 ### From description to intervention
 

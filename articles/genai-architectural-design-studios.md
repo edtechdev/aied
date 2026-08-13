@@ -8,8 +8,6 @@ sources: ['raw/papers/2607.24752.md']
 confidence: medium
 ---
 
-> **Leman Figen Gül, Burak Delikanlı, Oğulcan Üneşi, Ertuğrul Ömer Gül (2026)** — arXiv:2607.24752 (cs.HC)
-
 Examines the integration of deep generative models into architectural design education. The findings, based on students' views and observations in design studios, suggest that GenAI supports the exploration of creative ideas — serving as visual stimuli and inspirational resources in early design stages — while also highlighting the competencies students need to differentiate between GenAI models and use them effectively.
 
 ## Key Findings

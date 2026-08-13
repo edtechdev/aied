@@ -22,8 +22,8 @@ Responding productively to authentic student reasoning is among the most difficu
 ## Connected Concepts
 
 - [[physics-education]]
-- [[multi-agent]]
-- [[teacher-training]]
+- [[agentic-ai]]
+- [[professional-training]]
 - [[dual-process-theory]]
 - [[simulation]]
 - [[stem-education]]

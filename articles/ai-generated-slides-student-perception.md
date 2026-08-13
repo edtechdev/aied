@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.13532.md']
 confidence: medium
 ---
 
-> **Juho Leinonen, Lisa Zhang, Arto Hellas (2026)** — WCCCE 2026.
-
 This study evaluated five generative AI tools for creating instructional slides from instructor-authored course notes: NotebookLM, Claude, M365 Copilot, Cursor, and Claude Code. Educators assessed slides for accuracy, completeness, and pedagogical soundness.
 
 - **Coding assistants (Cursor, Claude Code) produced the best slides** — most accurate, complete, and pedagogically sound.

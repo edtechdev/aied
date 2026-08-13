@@ -21,7 +21,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 
 ## Connected Concepts
 
-- [[cscl]]
+- [[collaborative-learning]]
 - [[scaffolding]]
 - [[teacher-role]]
 - [[human-in-the-loop-ai]]

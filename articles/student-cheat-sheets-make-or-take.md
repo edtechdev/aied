@@ -8,7 +8,6 @@ sources: ['raw/papers/2607.24736.md']
 confidence: high
 ---
 
-> **Helen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026)** — University of Waterloo / Carleton University. arXiv preprint (cs.HC).
 Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior software-requirements course where students could use instructor-provided or self-created cheat sheets in exams. Choices were shaped by trust in instructor expertise, desire for personalization, and preparation efficiency, and shifted over time. The make-vs-take decision is fundamentally a [[metacognition]] and [[self-regulated-learning]] question — creating a cheat sheet is itself a generative study strategy — with direct implications for exam design in [[authentic-assessment]], for optimizing preparation such as [[adaptive-pretesting-retention]], and for cognitive-structure views of exams like [[learnopt-exam-cognitive-structure]]. It also frames the trade-off AI raises: offloading artifact creation versus learning through creation, cf. [[cognitive-offloading-speedup-illusion]].
 
 ## Connected Concepts

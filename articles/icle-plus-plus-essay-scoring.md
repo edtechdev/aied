@@ -8,8 +8,6 @@ sources: ['raw/papers/2607.27671.md']
 confidence: high
 ---
 
-> **Shengjie Li, Vincent Ng (2026)** — arXiv:2607.27671 (cs.CL)
-
 Introduces ICLE++, a new annotated corpus of persuasive student essays that addresses critical limitations of the dominant ASAP benchmark in [[automated-essay-scoring]] research. Unlike ASAP — used by virtually all recent AES models but limited to U.S. grade 7–10 native-English essays — ICLE++ provides both holistic scores and fine-grained trait-specific annotations, enabling evaluation of cross-corpus generalization, multi-trait scoring, and cross-prompt scoring. The authors demonstrate that models trained on trait-specific annotations transfer better across corpora than those trained on holistic scores alone, making ICLE++ a foundational resource for the next generation of AES research.
 
 ## Key Contributions

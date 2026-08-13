@@ -8,8 +8,6 @@ sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']
 confidence: high
 ---
 
-> **Markus H. Hefter, Benjamin Paaßen & Kirsten Berthold (2026)** — *AI Educ.* (MDPI), 2, 27. Open Access, CC BY 4.0. doi:10.3390/aieduc2030027.
-
 A correlational study (N = 67 undergraduate psychology students, Bielefeld University) testing two **protective factors against uncritical GenAI overreliance**: (1) **knowledge about genAI** and (2) the **disposition to engage in critical thinking** — operationalised via Kuhn's framework as *epistemic orientation* (tendency away from absolutist toward evaluativist beliefs) and *intellectual values* (viewing intellectual engagement as worthwhile). Both factors are framed as components of AI literacy and both are trainable, motivating intervention recommendations.
 
 ## Method highlights

@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.09305.md']
 confidence: medium
 ---
 
-> **Wenqian Xu, Feng Ji (2026)** — RL-based measurement model for interactive assessments.
-
 # Reinforcement Learning Measurement Model for Interactive Assessment
 
 ## Key Findings

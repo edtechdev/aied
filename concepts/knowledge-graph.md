@@ -24,7 +24,7 @@ Recent research explores using [[llm|LLMs]] to automatically construct knowledge
 
 ### Related concepts
 
-Knowledge graphs connect to [[domain-modeling]] (defining what to teach), [[curriculum-design]] (how to sequence it), and [[learning-analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring]] systems that need structured representations of educational domains.
+Knowledge graphs connect to [[instructional-design]] (defining what to teach), [[curriculum-design]] (how to sequence it), and [[learning-analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring]] systems that need structured representations of educational domains.
 
 ## Connected Concepts
 

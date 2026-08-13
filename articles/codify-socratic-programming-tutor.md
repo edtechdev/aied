@@ -8,8 +8,6 @@ sources: ['raw/papers/codify-socratic-programming-tutor.md']
 confidence: medium
 ---
 
-> **Ilyasov, Bardelli, Torres & Keshtkar (2026)** — St. John's University. The International FLAIRS Conference Proceedings, Vol. 39 No. 1 (Poster).
-
 # Codify: Socratic Programming Tutor
 
 📄 DOI: 10.32473/flairs.39.1.141554

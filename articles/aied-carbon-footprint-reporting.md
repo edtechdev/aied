@@ -40,6 +40,17 @@ LLM usage has become pervasive in the [[stanford-evidence-base-ai-k12-2026|AIED]
 - The [[ai-tutor-safety-harms|ethics of AI in education]] must expand beyond bias and privacy to include environmental sustainability.
 - Institutional [[stanford-evidence-base-ai-k12-2026|adoption decisions]] should weigh environmental costs alongside learning gains and implementation costs.
 
+## Connected Concepts
+
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[plagiarism-detection]]
+- [[administrator]]
+- [[bias-mitigation]]
+- [[open-source]]
+- [[pedagogical-llm-training]]
+- [[ai-literacy]]
+
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]

@@ -8,8 +8,6 @@ sources: ['raw/papers/2607.01692.md']
 confidence: high
 ---
 
-> **Yuming Feng, Yuan Tian, Erica Zhao (2026)**
-
 The rapid integration of [[llm]]s into [[intelligent-tutoring]] threatens to reduce mathematical learning to mere answer generation. This paper presents a design framework for AI tutors that act as reasoning facilitators rather than answer generators, specifically targeting high-stakes exam preparation environments. Through a mixed-methods study of junior-high students preparing for the Zhongkao exam, the authors find that students actively resist traditional Socratic dialogue under time pressure and repurpose "answer-first" shortcuts as diagnostic checkpoints, and that features such as layered worked examples, step-linked visual grounding, and metacognitive scaffolding lower the interaction cost of reasoning repair. The framework provides concrete guidelines for designing [[student-experience]] patterns that prioritize deep understanding over superficial completion in [[k-12]] mathematics.
 
 ## Key Findings

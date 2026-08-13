@@ -38,7 +38,7 @@ By preserving learner access to the original material while adding AI assistance
 ## Connected Articles
 
 - [[ai-assisted-learning-modes-eeg]] — AI-assisted learning modes (EEG)
-- [[lecture-review]] — Lecture review with AI
+- Lecture Review — Lecture review with AI
 - [[ai-generated-instructional-videos-computing-ed]] — AI-generated instructional videos
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — Emotional AI on L2 learning
 - [[ai-adult-learning-design]] — AI in adult learning design

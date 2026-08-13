@@ -60,7 +60,7 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 ## Connected Concepts
 
 - [[math-education]]
-- [[gaming-the-system]]
+- [[learning-analytics]]
 - [[help-seeking]]
 - [[k-12]]
 - [[learning-analytics]]

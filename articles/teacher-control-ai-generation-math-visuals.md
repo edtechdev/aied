@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.10672.md']
 confidence: high
 ---
 
-> **Zhengxu Li, Junling Wang, April Yi Wang (2026)** — ACM L@S 2026. Study of when teachers should control AI-generated classroom visuals.
-
 # Teacher Control of AI-Generated Mathematics Visuals
 
 ## Key Findings

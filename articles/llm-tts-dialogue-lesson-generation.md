@@ -8,8 +8,6 @@ sources: ['raw/papers/2607.12235.md']
 confidence: medium
 ---
 
-> **Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, et al. (2026)** - arXiv preprint (IEEE). arXiv preprint.
-
 **Gendo Kumoi, Fumie Watanabe, Tota Suko, Takashi Ishida, et al. (2026)** - arXiv preprint (IEEE). arXiv preprint.
 
 ## Key Findings

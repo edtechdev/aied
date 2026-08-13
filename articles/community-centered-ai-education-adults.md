@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.26565.md']
 confidence: high
 ---
 
-> **Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026)** — arXiv cs.HC 📄 [PDF](https://arxiv.org/pdf/2606.26565)
 📄 [PDF](https://arxiv.org/pdf/2606.26565)
 
 This case study reports on a community-based participatory research project that co-designed an [[ai-literacy|AI literacy]] program for 54 adults (48 in-person and 6 virtual) in a predominantly African American community in the Midwestern United States. The program covered fundamental AI concepts, societal implications, and practical applications, using hands-on activities and concrete examples over abstract technical explanations.

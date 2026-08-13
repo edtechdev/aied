@@ -28,6 +28,17 @@ This work addresses a critical evaluation gap. An AI tutor that gives perfect pe
 - How do behavioral metrics correlate with long-term learning outcomes vs. short-term perception?
 - What is the optimal balance between pedagogical and behavioral evaluation weighting?
 
+## Connected Concepts
+
+- [[pedagogical-llm-training]]
+- [[socratic-method]]
+- [[math-education]]
+- [[adaptive-learning]]
+- [[human-in-the-loop-ai]]
+- [[affective-tutoring]]
+- [[knowledge-tracing]]
+- [[teacher-ai-competency]]
+
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]

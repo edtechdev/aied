@@ -34,7 +34,7 @@ The framework is conceptual and would benefit from empirical validation, but it 
 - [[agentic-ai]]
 - [[ai-governance-education]]
 - [[ai-literacy]]
-- [[content-generation]]
+- [[generative-ai]]
 - [[faculty-development]]
 - [[generative-ai]]
 - [[higher-ed]]
@@ -42,7 +42,7 @@ The framework is conceptual and would benefit from empirical validation, but it 
 - [[instructional-design]]
 - [[prompt-engineering]]
 - [[rag]]
-- [[verification]]
+- [[hallucination-risk]]
 
 ## Connected Articles
 

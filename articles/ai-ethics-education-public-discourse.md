@@ -8,8 +8,6 @@ sources: ['raw/papers/2607.12295.md']
 confidence: medium
 ---
 
-> **Akriti Bagale, Nafisa Mehjabin, Ali Unlu, Aditya Johri, et al. (2026)** - George Mason University; University of Virginia. arXiv preprint.
-
 **Akriti Bagale, Nafisa Mehjabin, Ali Unlu, Aditya Johri, et al. (2026)** - George Mason University; University of Virginia. arXiv preprint.
 
 ## Key Findings

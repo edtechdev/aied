@@ -18,7 +18,7 @@ Benchmarks serve as the evidentiary foundation of AI in education research. They
 
 ### Why benchmarks matter in AIED
 
-Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — without rigorous benchmarks, claims about AI tutoring effectiveness are unverifiable. They also intersect with [[bias-mitigation]], as benchmark design can encode or amplify biases. The tension between benchmark performance and real-world utility is explored across multiple articles, connecting to [[generalization]] concerns in [[generative-ai]] applications.
+Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — without rigorous benchmarks, claims about AI tutoring effectiveness are unverifiable. They also intersect with [[bias-mitigation]], as benchmark design can encode or amplify biases. The tension between benchmark performance and real-world utility is explored across multiple articles, connecting to [[transfer-of-learning]] concerns in [[generative-ai]] applications.
 
 ## Connected Concepts
 

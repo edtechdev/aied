@@ -24,23 +24,23 @@ confidence: high
 
 This study reframes the role of [[llm]]s in [[assessment]] from "evaluated object" to "evaluation aid," contributing a methodology that layers AI evidence with student performance, item exposure, and [[learning-analytics]] to interpret exam difficulty. It connects to the growing literature on [[psychometrically-aware-ai]] and [[confidence-aware-ai-assessment]], where model outputs are treated as one noisy signal among several rather than as ground truth.
 
-For [[computing-education]] and [[programming-education]] practice, the finding that AI difficulty correlates with student outcomes at the problem level supports using LLMs to flag mis-calibrated items across parallel sections and to track item quality longitudinally. The clear abstention guidance is the crucial guardrail: cohort composition effects in introductory courses and the fragility of single-reviewer estimates caution against high-stakes automation, aligning with [[human-in-the-loop-ai]] design principles.
+For [[cs-education]] and [[cs-education]] practice, the finding that AI difficulty correlates with student outcomes at the problem level supports using LLMs to flag mis-calibrated items across parallel sections and to track item quality longitudinally. The clear abstention guidance is the crucial guardrail: cohort composition effects in introductory courses and the fragility of single-reviewer estimates caution against high-stakes automation, aligning with [[human-in-the-loop-ai]] design principles.
 
-The work also illustrates the epistemic limits of [[item-response-theory]]-style difficulty estimation when grounded in model rather than human response data, and reinforces the need for verification and [[evaluation]] frameworks that keep AI in a supporting rather than deciding role.
+The work also illustrates the epistemic limits of [[item-response-theory]]-style difficulty estimation when grounded in model rather than human response data, and reinforces the need for verification and [[ai-ed-evaluation]] frameworks that keep AI in a supporting rather than deciding role.
 
 ## Connected Concepts
 
 - [[assessment]]
 - [[automated-assessment]]
-- [[computing-education]]
+- [[cs-education]]
 - [[confidence-aware-ai-assessment]]
 - [[educational-measurement]]
-- [[evaluation]]
+- [[ai-ed-evaluation]]
 - [[human-in-the-loop-ai]]
 - [[item-response-theory]]
 - [[learning-analytics]]
-- [[llm-evaluation]]
-- [[programming-education]]
+- [[ai-ed-evaluation]]
+- [[cs-education]]
 - [[psychometrically-aware-ai]]
 
 ## Connected Articles

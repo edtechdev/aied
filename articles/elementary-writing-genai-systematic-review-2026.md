@@ -24,9 +24,9 @@ confidence: medium
 
 This review contributes to the growing literature on [[generative-ai]] and [[ai-literacy]] in [[k-12]] settings, focusing specifically on elementary writing. Its finding that multimodal AI tools can foster [[creativity]] in young writers counters the common framing of AI purely as an automation threat, while the attention to [[assessment]] reflects ongoing debates about how to evaluate writing in AI-integrated classrooms.
 
-For [[writing-education]], the small evidence base (8 studies) underscores how nascent this area is and the need for more empirical work, particularly around equitable access and the developmental appropriateness of AI tools for early writers. The review connects to [[llm-pedagogy]] discussions about scaffolding young students' interactions with [[generative-ai]] and to broader questions of [[educational-policy-ai]] for elementary classrooms.
+For [[writing-education]], the small evidence base (8 studies) underscores how nascent this area is and the need for more empirical work, particularly around equitable access and the developmental appropriateness of AI tools for early writers. The review connects to [[llm]] discussions about scaffolding young students' interactions with [[generative-ai]] and to broader questions of [[educational-policy-ai]] for elementary classrooms.
 
-The integration of AI into elementary writing also raises [[equity]] considerations, echoing concerns about the [[digital-divide]] and differential access across schools.
+The integration of AI into elementary writing also raises [[equity]] considerations, echoing concerns about the [[equity]] and differential access across schools.
 
 ## Connected Concepts
 
@@ -37,7 +37,7 @@ The integration of AI into elementary writing also raises [[equity]] considerati
 - [[equity]]
 - [[generative-ai]]
 - [[k-12]]
-- [[llm-pedagogy]]
+- [[llm]]
 - [[writing-education]]
 
 ## Connected Articles

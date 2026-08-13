@@ -8,8 +8,6 @@ sources: ['raw/papers/sle-2026-structrag-diagram-reasoning.md']
 confidence: high
 ---
 
-> **Yicheng Sun, Yihan Liao & Xiaoxue Ma (2026)** — *Smart Learning Environments* (Springer), Article in Press. Open Access, CC BY 4.0. doi:10.1186/s40561-026-00459-9.
-
 Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring systems interpret **complex engineering diagrams** (circuit schematics, network topologies, block flowcharts) in STEM. Current AI systems fail on diagrammatic questions because they cannot reliably extract spatial relationships and structural connectivity from noisy real-world diagrams (curved lines, overlapping elements, occluded labels). StructRAG shifts from surface-level visual recognition to **pattern-level structural reasoning**: convert the diagram to a graph, retrieve structurally similar canonical patterns, and prompt an LLM to validate plausibility and completeness — enabling detection of missing connections and structure-aware feedback.
 
 ## Architecture (four components)

@@ -17,7 +17,7 @@ confidence: high
 
 ### Connections
 
-Computational thinking connects to [[cs-education]], [[stem-education]], [[ai-literacy]], [[k-12]], [[problem-based-learning|project-based learning]], and [[prompt-engineering]]. It bridges general problem-solving skills and specific AI competencies.
+Computational thinking connects to [[cs-education]], [[stem-education]], [[ai-literacy]], [[k-12]], [[active-learning|project-based learning]], and [[prompt-engineering]]. It bridges general problem-solving skills and specific AI competencies.
 
 ## Connected Concepts
 

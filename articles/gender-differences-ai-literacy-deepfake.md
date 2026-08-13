@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.14718.md']
 confidence: high
 ---
 
-> **Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026)** — arXiv preprint
 > Examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian secondary students (Years 7, 8, 10; N=199) from two co-educational government schools after a one-day AI literacy workshop. Male students reported higher STEM career interest; female students were more likely to use AI for schoolwork and seek AI advice. Males were more likely to have created deepfake content. Both genders improved post-intervention, but females showed richer gains: wider conceptual understanding, greater confidence, and increased AI/CS career interest partially narrowing the gender gap.
 
 

@@ -8,7 +8,6 @@ sources: ['raw/papers/2607.06074.md']
 confidence: high
 ---
 
-> **Rohit Mehra et al. (2026)** — IBM Research / International Institute of Information Technology. arXiv.
 Prompt engineering is a critical yet undertaught skill for software developers, poorly served by traditional instruction because of its evolving, interactive, context-dependent nature. The authors introduce **Prompt Coach (PC)**, an agentic tutor embedded in-flow within a developer's IDE that teaches prompt crafting through Socratic guidance. PC scores prompt quality across multiple dimensions and surfaces targeted questions that guide self-correction, grounded in the developer's codebase and the target LLM's behavior. An early empirical study with 15 professional developers showed statistically significant improvements after a single 60-minute session, with the largest gains on dimensions developers commonly overlook, plus strong trust and adoption readiness.
 
 - **In-flow Socratic tutoring:** PC delivers [[scaffolding]] and [[feedback-loop]] support directly inside the IDE, contextualized to the developer's code and the target model.

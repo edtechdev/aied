@@ -8,7 +8,7 @@ sources: ['raw/papers/mdpi-metacognition-ai-stem-2025.md']
 confidence: high
 ---
 
-> **Tsakeni et al. (2025)** conducted a **bibliometric–systematic review** of AI tools in STEM education:
+> A bibliometric–systematic review of AI tools in STEM education:
 
 > Systematic review (2005–2025) mapping how AI tools scaffold and co-regulate metacognitive development in STEM classrooms through bibliometric and qualitative synthesis.
 

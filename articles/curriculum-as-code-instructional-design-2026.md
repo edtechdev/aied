@@ -21,7 +21,7 @@ The work contributes to understanding of [[instructional-design]] in educational
 - [[instructional-design]]
 - [[stem-education]]
 - [[curriculum-design]]
-- [[project-based-learning]]
+- [[active-learning]]
 - [[generative-ai]]
 
 ## Connected Articles

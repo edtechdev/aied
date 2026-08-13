@@ -8,8 +8,6 @@ sources: ['raw/papers/2604.07469.md']
 confidence: high
 ---
 
-> **Cao, Zhao, Schunn, McLaughlin, Lin & Koedinger (2026)** — UNC Chapel Hill, CMU, U Pittsburgh, U Hong Kong. Randomized experiment (n=199).
-
 # Sequenced AI Feedback on Student Learning
 
 ## Core Finding

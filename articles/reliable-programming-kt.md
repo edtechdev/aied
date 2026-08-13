@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.04727.md']
 confidence: medium
 ---
 
-> **Kim, J., Kim, H. (2026)** — ITS 2026 (Springer LNCS).
-
 ## Key Findings
 
 - Programming Knowledge Tracing (PKT) has advanced through hybrid attention+RNN architectures, which have become the dominant modeling approach in the subfield.
