@@ -6,11 +6,11 @@ A knowledge base on artificial intelligence in education — research, pedagogy,
 
 ## What It Does
 
-Hermes Agent cron jobs keep the wiki current:
+Cron jobs keep the wiki current:
 
-1. **Daily scan (weekdays 9 AM)** — searches arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph) and EdArXiv for new AI-in-education papers
-2. **Weekly journal scan (Sundays 8 AM)** — ingests open-access articles from journal RSS feeds (Computers and Education: Artificial Intelligence, British Journal of Educational Technology, and others)
-3. **Manual ingestion** — PDFs or preprint URLs can be sent to Hermes at any time
+1. **Daily scan** — searches arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph) and EdArXiv for new AI-in-education papers
+2. **Weekly journal scan** — ingests open-access articles from journal RSS feeds (Computers and Education: Artificial Intelligence, British Journal of Educational Technology, and others)
+3. **Manual ingestion** — PDFs or preprint URLs can be sent at any time
 4. Each run: filters for relevance → skips already-ingested items → creates article pages (and updates concept pages) → rebuilds the site → commits and pushes to GitHub Pages
 
 ## Site Structure
@@ -78,17 +78,6 @@ Beyond the human-facing site, the wiki is structured for AI agents and crawlers:
 - **RSS + sitemap** — `rss.xml` and `sitemap-index.xml` (base `/aied`)
 - **Pagefind** — full-text search, rebuilt on every `npm run build`
 
-## Configuration
-
-The pipeline runs as Hermes Agent cron jobs:
-
-| Job | Schedule | Sources |
-|-----|----------|---------|
-| Daily AI in Education Scan | Weekdays 9:00 AM | arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph), EdArXiv |
-| Weekly Journal RSS Ingestion | Sundays 8:00 AM | CAEAI (open access), BJET (hybrid — paywalled articles skipped) |
-
-Notifications deliver to Telegram.
-
 ## Use This Wiki with Your Own AI Assistant
 
 The wiki is agent-ready. Any AI chatbot or agent can use it as a research reference:
@@ -122,10 +111,6 @@ Example question: "What does the research say about AI feedback for student writ
 → Fetch llms.txt, find the writing/feedback articles, read the most relevant
   pages, and answer with citations.
 ```
-
-## Manual Ingestion
-
-To ingest a specific paper immediately, send the arXiv URL, OSF/EdArXiv preprint link, DOI, or PDF to Hermes. The ingestion workflow handles: text extraction → article page → concept updates → back-links → rebuild → push.
 
 ## Troubleshooting
 
