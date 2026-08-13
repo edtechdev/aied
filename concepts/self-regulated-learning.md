@@ -99,3 +99,4 @@ For example:
 - [[curiobot-llm-tutoring-exploratory-learning]]
 - [[ecnuclaw-k12-personalized-companion]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[ai-feedback-enactment-workflow-2026]]

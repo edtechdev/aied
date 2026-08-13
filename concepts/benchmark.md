@@ -40,3 +40,5 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
 
+- [[elbench-education-llm-benchmark-2026]]
+- [[teaching-monster-pck-benchmark-2026]]

@@ -47,3 +47,4 @@ Feedback loops connect to [[formative-assessment]] (the assessment philosophy th
 - [[ai-feedback-quality]]
 - [[ai-peer-feedback-systems]]
 - [[automated-formative-assessments-a-level-sciences]]
+- [[ai-feedback-enactment-workflow-2026]]
