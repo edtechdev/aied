@@ -279,7 +279,7 @@
 - [[engagement-metrics]] — Engagement Metrics
 - [[epistemic-emotions-collaborative-problem-solving]] — Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
-- [[equity]] — Equity
+- [[equity-in-ai-education]] — Equity
 - [[equity-in-ai-education]] — Equity in AI Education
 - [[ethical-ai-higher-ed-game-theory]] — Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning
 - [[ethics]] — Ethics

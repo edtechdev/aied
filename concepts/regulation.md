@@ -32,7 +32,7 @@ Regulation connects to [[educational-policy-ai]], [[ai-governance-education]], [
 - [[privacy]]
 - [[pedagogical-safety]]
 - [[academic-integrity]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[k-12]]
 

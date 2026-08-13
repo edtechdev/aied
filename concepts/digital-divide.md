@@ -27,11 +27,11 @@ AI adds new layers to the equity implications of technology. Algorithmic bias ca
 
 ### Connections to related concepts
 
-The digital divide is a core concern of [[equity]] and [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
+The digital divide is a core concern of [[equity-in-ai-education]] and [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
 
 ## Connected Concepts
 
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[ethics]]

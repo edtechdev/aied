@@ -26,7 +26,7 @@ This review contributes to the growing literature on [[generative-ai]] and [[ai-
 
 For [[writing-education]], the small evidence base (8 studies) underscores how nascent this area is and the need for more empirical work, particularly around equitable access and the developmental appropriateness of AI tools for early writers. The review connects to [[llm]] discussions about scaffolding young students' interactions with [[generative-ai]] and to broader questions of [[educational-policy-ai]] for elementary classrooms.
 
-The integration of AI into elementary writing also raises [[equity]] considerations, echoing concerns about the [[equity]] and differential access across schools.
+The integration of AI into elementary writing also raises [[equity-in-ai-education]] considerations, echoing concerns about the [[equity-in-ai-education]] and differential access across schools.
 
 ## Connected Concepts
 
@@ -34,7 +34,7 @@ The integration of AI into elementary writing also raises [[equity]] considerati
 - [[assessment]]
 - [[creativity]]
 - [[educational-policy-ai]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[generative-ai]]
 - [[k-12]]
 - [[llm]]

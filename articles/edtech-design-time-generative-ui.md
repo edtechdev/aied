@@ -27,7 +27,7 @@ The paper argues that accessibility belongs in the authoring layer. When interfa
 
 ## Implications for AI in Education
 
-For [[equity]] in [[edtech-platform]] design, the proposal implies that generative UI should be judged not only by what it delivers to learners but by where verification happens in the workflow. Putting instructors in the loop at design time supports [[teacher-role]] oversight and aligns adaptive content with UDL principles, while the elimination of per-learner inference costs matters for low-bandwidth and resource-constrained settings. The authors present this as an argument and research agenda rather than an implemented system.
+For [[equity-in-ai-education]] in [[edtech-platform]] design, the proposal implies that generative UI should be judged not only by what it delivers to learners but by where verification happens in the workflow. Putting instructors in the loop at design time supports [[teacher-role]] oversight and aligns adaptive content with UDL principles, while the elimination of per-learner inference costs matters for low-bandwidth and resource-constrained settings. The authors present this as an argument and research agenda rather than an implemented system.
 
 ## Connected Concepts
 
@@ -37,7 +37,7 @@ For [[equity]] in [[edtech-platform]] design, the proposal implies that generati
 - [[affective-tutoring]]
 - [[teacher-ai-competency]]
 - [[pedagogical-agent]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[bias-mitigation]]
 
 ## Connected Articles

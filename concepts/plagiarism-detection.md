@@ -23,7 +23,7 @@ The wiki's research illustrates the main technical families:
 
 Research consistently cautions against standalone reliance on detection:
 
-- **Validity and fairness failures:** detection tools can be biased against non-native writers, producing false positives that unfairly penalize students, a concern connecting to [[bias-mitigation]] and [[equity]].
+- **Validity and fairness failures:** detection tools can be biased against non-native writers, producing false positives that unfairly penalize students, a concern connecting to [[bias-mitigation]] and [[equity-in-ai-education]].
 - **Notable error rates and trust erosion:** unreliable detection undermines student trust and the integrity of the assessment process.
 - **Task-dependence:** as the self-detection study shows, accuracy varies sharply by task type, so no single detector is dependable across all assessments.
 
@@ -50,7 +50,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[authentic-assessment]]
 - [[ai-literacy]]
 - [[over-reliance]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[bias-mitigation]]
 - [[higher-ed]]
 - [[ai-education]]

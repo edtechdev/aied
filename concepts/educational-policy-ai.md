@@ -22,14 +22,14 @@ The wiki documents that institutional AI policies [[genai-policies-higher-ed-com
 
 ### Connections
 
-Educational AI policy connects to [[regulation]] (legal framework), [[ai-governance-education]] (institutional implementation), [[faculty-development]] (policy implementation through training), [[equity]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
+Educational AI policy connects to [[regulation]] (legal framework), [[ai-governance-education]] (institutional implementation), [[faculty-development]] (policy implementation through training), [[equity-in-ai-education]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
 
 ## Connected Concepts
 
 - [[regulation]]
 - [[ai-governance-education]]
 - [[faculty-development]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[k-12]]
 - [[academic-integrity]]

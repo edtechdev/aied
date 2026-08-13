@@ -8,12 +8,12 @@ sources: ['raw/papers/2606.28749.md']
 confidence: high
 ---
 
-Hossain (2026) develops a typology of LLM reliance among undergraduate writers at a minority-serving R1 institution, identifying four distinct profiles: strategic scaffolders who use AI for idea generation and structure, critical editors who revise AI output substantially, passive acceptors who submit AI-generated text with minimal changes, and uncritical delegators who offload entire assignments. The mixed-methods design combines survey data with qualitative interviews, revealing that self-efficacy and prior academic preparation are the strongest predictors of the reliance type. The [[over-reliance]] types (passive acceptors and uncritical delegators) were disproportionately represented among students with lower writing self-efficacy, raising [[equity]] concerns. The findings directly inform [[ai-literacy]] curriculum design by identifying which student populations need targeted support. The study contributes to [[writing-education]] research by mapping how [[student-experience]] of AI writing tools varies across a diverse student body, challenging one-size-fits-all AI policies in [[higher-ed]].
+Hossain (2026) develops a typology of LLM reliance among undergraduate writers at a minority-serving R1 institution, identifying four distinct profiles: strategic scaffolders who use AI for idea generation and structure, critical editors who revise AI output substantially, passive acceptors who submit AI-generated text with minimal changes, and uncritical delegators who offload entire assignments. The mixed-methods design combines survey data with qualitative interviews, revealing that self-efficacy and prior academic preparation are the strongest predictors of the reliance type. The [[over-reliance]] types (passive acceptors and uncritical delegators) were disproportionately represented among students with lower writing self-efficacy, raising [[equity-in-ai-education]] concerns. The findings directly inform [[ai-literacy]] curriculum design by identifying which student populations need targeted support. The study contributes to [[writing-education]] research by mapping how [[student-experience]] of AI writing tools varies across a diverse student body, challenging one-size-fits-all AI policies in [[higher-ed]].
 
 ## Connected Concepts
 
 - [[over-reliance]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[writing-education]]
 - [[student-experience]]

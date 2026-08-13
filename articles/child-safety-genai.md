@@ -28,13 +28,13 @@ The framework combines two evidence sources: hazard categories derived from expe
 
 ## Implications for AI in Education
 
-The results carry a direct warning for AI-based learning environments: general-purpose safety classifiers do not reliably catch education-related unsafe prompts from children, so [[pedagogical-safety]] cannot be assumed from standard model safeguards. Schools and edtech providers deploying [[generative-ai]] tools need child-specific evaluation, incident-grounded testing, and human oversight rather than reliance on off-the-shelf safety models. The framework's structure — expert guidance plus incident data plus synthetic testing — is itself a template that educational institutions and researchers can reuse to evaluate tools for younger users, with implications for [[privacy]] and [[equity]] in who is protected by default safety practices.
+The results carry a direct warning for AI-based learning environments: general-purpose safety classifiers do not reliably catch education-related unsafe prompts from children, so [[pedagogical-safety]] cannot be assumed from standard model safeguards. Schools and edtech providers deploying [[generative-ai]] tools need child-specific evaluation, incident-grounded testing, and human oversight rather than reliance on off-the-shelf safety models. The framework's structure — expert guidance plus incident data plus synthetic testing — is itself a template that educational institutions and researchers can reuse to evaluate tools for younger users, with implications for [[privacy]] and [[equity-in-ai-education]] in who is protected by default safety practices.
 
 ## Connected Concepts
 
 - [[ai-education]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 

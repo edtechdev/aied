@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.05427v1.md']
 confidence: high
 ---
 
-> **Synthesis:** This paper develops an optimization framework for school network reorganization that integrates geographic, administrative, and educational criteria into an Integer Linear Programming formulation. Applied to the complete public school network of Calabria, Italy, and extended to a hybrid quantum optimization setting, the approach identifies optimal school aggregation plans under different policy scenarios while preserving [[equity]] and accessibility. The framework serves as a decision-support tool for sustainable educational planning in the era of [[ai-education|AI-enhanced operations research]].
+> **Synthesis:** This paper develops an optimization framework for school network reorganization that integrates geographic, administrative, and educational criteria into an Integer Linear Programming formulation. Applied to the complete public school network of Calabria, Italy, and extended to a hybrid quantum optimization setting, the approach identifies optimal school aggregation plans under different policy scenarios while preserving [[equity-in-ai-education]] and accessibility. The framework serves as a decision-support tool for sustainable educational planning in the era of [[ai-education|AI-enhanced operations research]].
 
 ## Optimization Framework
 
@@ -34,7 +34,7 @@ As school districts worldwide face declining enrollments and budget pressures, A
 
 ## Connected Concepts
 
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-education]]
 - [[k-12]]
 ## Connected Articles

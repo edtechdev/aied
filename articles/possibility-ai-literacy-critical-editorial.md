@@ -25,7 +25,7 @@ This is a **critical editorial** (not an empirical study) in *Learning, Media an
 
 ## Implications for AI in Education
 
-The editorial offers a critical corrective to the proliferation of AI literacy frameworks in education, arguing that [[ai-literacy]] is often deployed as a solutionist, instrumental "cure-all" that overlooks questions of power, agency, and ideology — the cornerstones of [[critical-thinking|critical]] and [[equity|equitable]] approaches. It cautions that AI literacy programmes from commercial tech companies (Google, Microsoft) can only produce "partial forms" of the knowledge and skills required, and that AI literacy should be located within the broader field of critical digital literacies rather than treated as a separate, rarefied programme. For educators, it argues institutions must be reconfigured to find time and space for critical engagement with AI, supporting students to write with, redesign, or even resist AI. It connects to [[ai-education]], [[ethics]], and [[generative-ai]], and resonates with critical work on AI literacy and power ([[ai-literacy-power-knowledge|AI literacy as power-knowledge]]).
+The editorial offers a critical corrective to the proliferation of AI literacy frameworks in education, arguing that [[ai-literacy]] is often deployed as a solutionist, instrumental "cure-all" that overlooks questions of power, agency, and ideology — the cornerstones of [[critical-thinking|critical]] and [[equity-in-ai-education|equitable]] approaches. It cautions that AI literacy programmes from commercial tech companies (Google, Microsoft) can only produce "partial forms" of the knowledge and skills required, and that AI literacy should be located within the broader field of critical digital literacies rather than treated as a separate, rarefied programme. For educators, it argues institutions must be reconfigured to find time and space for critical engagement with AI, supporting students to write with, redesign, or even resist AI. It connects to [[ai-education]], [[ethics]], and [[generative-ai]], and resonates with critical work on AI literacy and power ([[ai-literacy-power-knowledge|AI literacy as power-knowledge]]).
 
 ## Limitations
 
@@ -36,7 +36,7 @@ As an editorial, the article presents an argumentative and conceptual position r
 - [[ai-literacy]]
 - [[critical-thinking]]
 - [[ethics]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-education]]
 - [[generative-ai]]
 

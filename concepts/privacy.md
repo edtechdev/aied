@@ -31,7 +31,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[k-12]]
 - [[ethics]]
 - [[regulation]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-governance-education]]
 - [[educational-policy-ai]]
 - [[pedagogical-safety]]

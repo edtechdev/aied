@@ -13,18 +13,18 @@ The neurodiversity paradigm shifts the goal of special-education and accessibili
 
 ### Neurodiversity in the AI era
 
-Generative AI offers both promise and risk for neurodivergent learners. On the promise side, AI can provide alternative means of engagement, representation, and expression — supporting learners who struggle with conventional text, executive function, or social expectations — and can reduce [[cognitive-load-theory|cognitive load]] through [[personalized-learning]]. On the risk side, AI tools that assume a dominant communication style, or that encourage dependency, can disadvantage or undermine neurodivergent learners. Research on [[student-experience]] and [[ai-misuse-learning-harm]] suggests AI must be designed inclusively or it recapitulates [[equity]] gaps. Understanding a learner's neurotype is also essential for interpreting behavior signals in [[learning-analytics]] and [[student-modeling]].
+Generative AI offers both promise and risk for neurodivergent learners. On the promise side, AI can provide alternative means of engagement, representation, and expression — supporting learners who struggle with conventional text, executive function, or social expectations — and can reduce [[cognitive-load-theory|cognitive load]] through [[personalized-learning]]. On the risk side, AI tools that assume a dominant communication style, or that encourage dependency, can disadvantage or undermine neurodivergent learners. Research on [[student-experience]] and [[ai-misuse-learning-harm]] suggests AI must be designed inclusively or it recapitulates [[equity-in-ai-education]] gaps. Understanding a learner's neurotype is also essential for interpreting behavior signals in [[learning-analytics]] and [[student-modeling]].
 
 ### Connections
 
-Neurodiversity connects to [[special-education]], [[accessible-learning]], [[universal-design-for-learning]], and [[equity]]. It informs both how AI is deployed for [[student-experience]] and how assessments and literacy programs are designed to be fair across cognitive variability.
+Neurodiversity connects to [[special-education]], [[accessible-learning]], [[universal-design-for-learning]], and [[equity-in-ai-education]]. It informs both how AI is deployed for [[student-experience]] and how assessments and literacy programs are designed to be fair across cognitive variability.
 
 ## Connected Concepts
 
 - [[special-education]]
 - [[accessible-learning]]
 - [[universal-design-for-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[student-experience]]
 - [[personalized-learning]]
 - [[cognitive-load-theory]]

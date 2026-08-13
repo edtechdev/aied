@@ -28,12 +28,12 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Implications for AI in Education
 
-For [[writing-education]] and [[bias-mitigation]] efforts, the study implies that the fairness of AI-assisted writing depends not only on model outputs but on the **prompts and scaffolding** students are given: if a biased system or prompt shapes how students describe themselves and their plans, the effects can carry into human-authored text. This has consequences for [[equity]] in assessment and for [[academic-integrity]] discussions, where the focus is often on detecting AI use rather than on auditing the values the AI transmits.
+For [[writing-education]] and [[bias-mitigation]] efforts, the study implies that the fairness of AI-assisted writing depends not only on model outputs but on the **prompts and scaffolding** students are given: if a biased system or prompt shapes how students describe themselves and their plans, the effects can carry into human-authored text. This has consequences for [[equity-in-ai-education]] in assessment and for [[academic-integrity]] discussions, where the focus is often on detecting AI use rather than on auditing the values the AI transmits.
 
 ## Connected Concepts
 
 - [[bias-mitigation]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[prompt-engineering]]
 - [[affective-tutoring]]
 - [[automated-essay-scoring]]

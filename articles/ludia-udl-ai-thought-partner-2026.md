@@ -22,7 +22,7 @@ The work contributes to understanding of [[universal-design-for-learning]] in ed
 - [[accessible-learning]]
 - [[professional-training]]
 - [[instructional-design]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[edtech-platform]]
 
 ## Connected Articles

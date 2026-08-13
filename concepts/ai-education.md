@@ -44,7 +44,7 @@ AI in education changes the roles of every stakeholder:
 - **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking|help-seeking]], and [[well-being|well-being]] shape how students encounter AI.
 - **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
 - **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[ai-governance-education|governance education]], [[governance|AI governance]], [[regulation|AI regulation]], [[privacy|privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], and [[lifelong-learning|professional and lifelong learning]] cover the institutional and societal layer.
-- **Equity and ethics:** [[equity|equity]], [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics|ethics]], and [[trust-calibration|trust calibration]] address fairness, access, and responsibility.
+- **Equity and ethics:** [[equity-in-ai-education|equity]], [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics|ethics]], and [[trust-calibration|trust calibration]] address fairness, access, and responsibility.
 
 ## Emergent and cross-cutting themes
 
@@ -77,7 +77,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[teacher-role]]
 - [[teacher-ai-competency]]
 - [[human-ai-collaboration]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ethics]]
 - [[ai-governance-education]]
 - [[educational-policy-ai]]

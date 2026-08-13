@@ -24,14 +24,14 @@ Rather than an empirical study, the piece is a dialogic scholarly intervention: 
 
 ## Implications for AI in Education
 
-For [[writing-education]] and English for Research Publication Purposes, the dialogue implies that GenAI tools are not linguistically neutral: they encode standards that can marginalise minoritised varieties, so questions of [[equity]] must be built into how academic writing instruction prepares students to use these tools. The calls for critical [[ai-literacy]] and inclusive co-design connect directly to curricula, suggesting students should be taught to use GenAI reflexively rather than defer to its standardising output.
+For [[writing-education]] and English for Research Publication Purposes, the dialogue implies that GenAI tools are not linguistically neutral: they encode standards that can marginalise minoritised varieties, so questions of [[equity-in-ai-education]] must be built into how academic writing instruction prepares students to use these tools. The calls for critical [[ai-literacy]] and inclusive co-design connect directly to curricula, suggesting students should be taught to use GenAI reflexively rather than defer to its standardising output.
 
 ## Connected Concepts
 
 - [[language-learning]]
 - [[ai-literacy]]
 - [[writing-education]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[automated-essay-scoring]]
 - [[student-experience]]
 - [[equity-in-ai-education]]

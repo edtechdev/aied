@@ -26,7 +26,7 @@ This conceptual contribution speaks directly to debates about [[curriculum-desig
 
 For [[higher-ed]] institutions, the framework is a provocation to move beyond static degree pathways toward adaptive, cross-domain learning environments. It connects conceptually to [[instructional-design]] discussions about [[transfer-of-learning]] and [[self-regulated-learning]], since learners must actively navigate and maintain their own learnity graphs.
 
-The proposal also has an implicit [[equity]] dimension: graph-based, modular learning could either democratize access to personalized pathways or entrench fragmentation if not supported by sound pedagogy and institutional infrastructure. The paper is best read alongside work on [[educational-policy-ai]] and [[ai-governance-education]] that addresses how such frameworks are governed and resourced.
+The proposal also has an implicit [[equity-in-ai-education]] dimension: graph-based, modular learning could either democratize access to personalized pathways or entrench fragmentation if not supported by sound pedagogy and institutional infrastructure. The paper is best read alongside work on [[educational-policy-ai]] and [[ai-governance-education]] that addresses how such frameworks are governed and resourced.
 
 ## Connected Concepts
 

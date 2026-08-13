@@ -24,13 +24,13 @@ Generative AI has emerged not only as a new class of technologies but as an infr
 
 ## Implications for AI in Education
 
-For education, the argument shifts the goal of AI literacy instruction from competent consumption toward critical participation. Curricula informed by this view would teach learners to interrogate the assumptions built into AI systems, understand how tool access and design encode power, and develop the capacity to shape and challenge the technologies that increasingly mediate learning. This connects [[ai-literacy]] to [[equity]]: if unequal access recapitulates epistemic injustice, then AI literacy programs must attend to structural conditions, not only individual skills, and [[critical-thinking]] becomes a political as well as cognitive capacity. The framework also challenges educators to treat learners as epistemic agents whose critical interrogation of AI is a legitimate and essential part of the curriculum, rather than a distraction from efficient use.
+For education, the argument shifts the goal of AI literacy instruction from competent consumption toward critical participation. Curricula informed by this view would teach learners to interrogate the assumptions built into AI systems, understand how tool access and design encode power, and develop the capacity to shape and challenge the technologies that increasingly mediate learning. This connects [[ai-literacy]] to [[equity-in-ai-education]]: if unequal access recapitulates epistemic injustice, then AI literacy programs must attend to structural conditions, not only individual skills, and [[critical-thinking]] becomes a political as well as cognitive capacity. The framework also challenges educators to treat learners as epistemic agents whose critical interrogation of AI is a legitimate and essential part of the curriculum, rather than a distraction from efficient use.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
 - [[critical-thinking]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[student-experience]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]

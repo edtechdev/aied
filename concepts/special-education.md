@@ -20,7 +20,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 ## Connected Concepts
 
 - [[accessible-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[neurodiversity]]
 - [[universal-design-for-learning]]
