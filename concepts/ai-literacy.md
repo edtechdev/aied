@@ -21,7 +21,7 @@ AI literacy research in this wiki spans four interconnected dimensions:
 
 **Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[over-reliance]] research showing that students who trust AI uncritically learn less.
 
-**Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[faculty-development]], and governance frameworks. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
+**Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[faculty-development]], and governance frameworks. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
 
 ### How AI literacy is developed
 
@@ -44,7 +44,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[academic-integrity]]
-- [[equity]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[ai-acceptance-preservice-science-teachers-2026]]

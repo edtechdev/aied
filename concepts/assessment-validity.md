@@ -33,7 +33,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[academic-integrity]]
 - [[rct]]
 - [[bias-mitigation]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ai-ed-evaluation]]
 - [[educational-measurement]]
 - [[llm]]

@@ -17,7 +17,7 @@ Automated Essay Scoring has a long history in educational technology, from early
 
 **Psychometric and trait-level scoring** moves beyond holistic scores. **[[psyscore-essay-scoring-zpd-feedback|PsyScore]]** provides a psychometrically-aware framework for trait-adaptive scoring with ZPD-grounded feedback. **[[icle-plus-plus-essay-scoring|ICLE++]]** models fine-grained traits for holistic essay scoring, advancing the precision of automated evaluation.
 
-**Bias and fairness** is a critical concern. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found that AI scoring systematically underestimates students from linguistically diverse backgrounds, highlighting the need for [[bias-mitigation]] and [[equity]] considerations in AES deployment.
+**Bias and fairness** is a critical concern. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** found that AI scoring systematically underestimates students from linguistically diverse backgrounds, highlighting the need for [[bias-mitigation]] and [[equity-in-ai-education]] considerations in AES deployment.
 
 **L2 and self-referential assessment** explores non-native writing contexts. **[[self-referential-l2-writing-llm-assessment|Profile-based L2 assessment]]** uses a self-referential approach comparing student writing to their own prior work rather than native-speaker norms.
 
@@ -29,7 +29,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 
 - [[bias-mitigation]]
 - [[equity-in-ai-education]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[automated-grading]]
 - [[language-learning]]
 - [[educational-measurement]]

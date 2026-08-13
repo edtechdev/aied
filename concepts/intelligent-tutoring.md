@@ -42,7 +42,7 @@ The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor)
 - [[adaptive-learning]]
 - [[llm]]
 - [[learning-analytics]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[personalized-learning]]
 - [[student-experience]]
 - [[self-regulated-learning]]

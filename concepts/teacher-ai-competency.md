@@ -45,7 +45,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[faculty-development]]
 - [[ai-literacy]]
 - [[academic-integrity]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
 - [[agentic-ai]]

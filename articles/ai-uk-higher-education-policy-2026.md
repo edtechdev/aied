@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications
 
-This review speaks directly to [[educational-policy-ai]] and [[ai-governance-education]], showing how national policy intent can outpace institutional capacity in [[higher-ed]]. The documented gap between teaching-led and research-intensive institutions underscores [[equity]] concerns and the risk that AI benefits accrue unevenly across the sector.
+This review speaks directly to [[educational-policy-ai]] and [[ai-governance-education]], showing how national policy intent can outpace institutional capacity in [[higher-ed]]. The documented gap between teaching-led and research-intensive institutions underscores [[equity-in-ai-education]] concerns and the risk that AI benefits accrue unevenly across the sector.
 
 For administrators and [[educational-policy-ai]]-makers, the findings argue for participatory governance and infrastructure investment rather than purely aspirational strategy documents. The proposed layered framework connecting national policy, institutional infrastructure, and governance offers a concrete model for closing the ambition-capacity gap.
 
@@ -33,7 +33,7 @@ The review also connects to broader debates about [[ethics]] and learner efficac
 - [[administrator]]
 - [[ai-governance-education]]
 - [[educational-policy-ai]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[ethics]]
 - [[higher-ed]]
 - [[ai-governance-education]]

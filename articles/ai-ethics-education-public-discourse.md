@@ -14,7 +14,7 @@ confidence: medium
 
 - Longitudinal Twitter/X analysis maps how the public debates AI ethics concerns in [[higher-ed]] and schools over time.
 - Surfaces the ethical concerns (bias, fairness, accountability) that educators and [[educational-policy-ai]]s must address for responsible adoption.
-- Ties public sentiment to [[equity]] questions about who benefits and who is harmed by GenAI in education.
+- Ties public sentiment to [[equity-in-ai-education]] questions about who benefits and who is harmed by GenAI in education.
 - Complements [[principled-ai-education]] frameworks by grounding them in real discourse rather than expert opinion alone.
 - Relevant to [[academic-integrity]] debates, as public concern shapes institutional response and policy.
 - Informs [[ai-literacy]] efforts: public discourse reveals the misconceptions needing pedagogical attention.
@@ -23,7 +23,7 @@ confidence: medium
 
 - [[higher-ed]]
 - [[educational-policy-ai]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[academic-integrity]]
 - [[ai-literacy]]
 ## Connected Articles

@@ -18,14 +18,14 @@ The between-subjects mixed-methods study involved 33 teachers interacting with a
 2. **Indian- and African American-accented agents** were more readily **anthropomorphized** and **integrated as peers** — building stronger trust, engagement, and reliance over time.
 3. These role expectations influenced collaboration dynamics: turn-taking, questioning patterns, and perceived social presence all shifted based on accent condition.
 
-The findings advance understanding of how GenAI's sociolinguistic design features shape group dynamics in CSCL (computer-supported collaborative learning), with implications for designing [[equity|culturally inclusive AI partners]]. The work connects to [[human-ai-collaboration]] debates about [[teacher-role|teacher and AI roles]] in collaborative classrooms, and raises important questions about [[ai-literacy|how accent may inadvertently reinforce or disrupt power dynamics]] in educational AI.
+The findings advance understanding of how GenAI's sociolinguistic design features shape group dynamics in CSCL (computer-supported collaborative learning), with implications for designing [[equity-in-ai-education|culturally inclusive AI partners]]. The work connects to [[human-ai-collaboration]] debates about [[teacher-role|teacher and AI roles]] in collaborative classrooms, and raises important questions about [[ai-literacy|how accent may inadvertently reinforce or disrupt power dynamics]] in educational AI.
 
 ## Connected Concepts
 
 - [[generative-ai]]
 - [[k-12]]
 - [[intelligent-tutoring]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[human-ai-collaboration]]
 - [[teacher-role]]
 - [[ai-literacy]]

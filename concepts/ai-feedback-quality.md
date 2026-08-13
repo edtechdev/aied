@@ -31,7 +31,7 @@ AI feedback quality spans multiple dimensions captured in the wiki:
 - **Accuracy:** Does the feedback correctly identify errors and strengths? ([[automated-grading]], [[automated-essay-scoring]])
 - **Helpfulness:** Does the feedback guide improvement? ([[feedback-loop]], [[ai-peer-feedback-systems]])
 - **Timeliness:** Is feedback delivered when the learner can act on it? ([[formative-assessment]])
-- **Bias:** Is feedback equitable across student populations? ([[bias-mitigation]], [[equity]])
+- **Bias:** Is feedback equitable across student populations? ([[bias-mitigation]], [[equity-in-ai-education]])
 - **Calibration:** Does the system know when it's uncertain? ([[confidence-aware-ai-assessment]])
 
 ### Connection to broader concepts

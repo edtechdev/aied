@@ -15,7 +15,7 @@ confidence: high
 - **Interaction patterns:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] maps how students engage with AI across assignments. [[misiejuk-cognitive-offloading-prompting-2026|Prompting analysis]] reveals cognitive engagement levels through prompt structure.
 - **Motivation and agency:** [[ai-availability-student-motivation|AI availability and motivation]] examines whether knowing AI is available changes student effort. [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames agency and motivation as central challenges.
 - **Perceptions and attitudes:** [[genai-usage-design-students-survey|GenAI usage surveys]] and [[student-mental-models-genai|mental model studies]] investigate how students understand and trust AI.
-- **Equity dimensions:** [[student-experience]] intersects with [[equity]] — AI access and effectiveness vary across student populations.
+- **Equity dimensions:** [[student-experience]] intersects with [[equity-in-ai-education]] — AI access and effectiveness vary across student populations.
 
 ### Connections
 
@@ -29,7 +29,7 @@ Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai
 - [[ai-literacy]]
 - [[over-reliance]]
 - [[cognitive-offloading]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[k-12]]
 - [[scaffolding]]
 - [[metacognition]]

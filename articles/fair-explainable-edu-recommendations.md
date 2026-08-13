@@ -24,7 +24,7 @@ The study targets a known failure of accuracy-focused recommenders: students wit
 
 ## Implications for AI in Education
 
-For [[personalized-learning]] platforms, the work demonstrates that fairness, diversity, and explainability can be engineered into recommenders without sacrificing predictive accuracy, which matters for [[equity]] in resource-constrained and cold-start settings. The persistence of catalogue-level popularity bias even after intervention shows that bias mitigation is partial and requires ongoing measurement. The model-centric explanations are intended to support more transparent educational recommendation, consistent with [[human-in-the-loop-ai]] oversight of automated learning-resource navigation.
+For [[personalized-learning]] platforms, the work demonstrates that fairness, diversity, and explainability can be engineered into recommenders without sacrificing predictive accuracy, which matters for [[equity-in-ai-education]] in resource-constrained and cold-start settings. The persistence of catalogue-level popularity bias even after intervention shows that bias mitigation is partial and requires ongoing measurement. The model-centric explanations are intended to support more transparent educational recommendation, consistent with [[human-in-the-loop-ai]] oversight of automated learning-resource navigation.
 
 ## Limitations
 
@@ -38,7 +38,7 @@ For [[personalized-learning]] platforms, the work demonstrates that fairness, di
 
 - [[human-in-the-loop-ai]]
 - [[personalized-learning]]
-- [[equity]]
+- [[equity-in-ai-education]]
 - [[adaptive-learning]]
 - [[knowledge-tracing]]
 - [[affective-computing]]
