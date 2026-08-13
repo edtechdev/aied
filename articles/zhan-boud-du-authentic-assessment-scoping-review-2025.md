@@ -1,7 +1,7 @@
 ---
-title: Authentic Assessment
+title: "Designing for Authentic Assessment: A Scoping Review"
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-13
 type: article
 tags: [ai-ed-evaluation, ai-education, assessment, formative-assessment, higher-ed, metacognition, self-regulated-learning, pedagogical-llm-training, human-in-the-loop-ai, zone-of-proximal-development]
 sources: ['raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md']

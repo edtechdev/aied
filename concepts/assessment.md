@@ -35,7 +35,7 @@ AI in assessment has intensified the [[academic-integrity|integrity]] conversati
 
 The constructive question in the wiki's assessment literature is not "how do we prevent students from using AI?" but "how do we enable them to use it thoughtfully in contexts that mirror their future work?" This reframes assessment around:
 
-- **Authentic and process-based tasks** that make AI use visible and assessed ([[authentic-assessment]])
+- **Authentic and process-based tasks** that make AI use visible and assessed. [[authentic-assessment|Authentic assessment]] — examining student performance on worthy, realistic tasks — is the leading response to AI's challenge: any task an LLM can credibly simulate loses its validity, so authenticity must be redesigned around real-time collaboration, digital and social contribution, and individual meaning-making. This connects to [[zhan-boud-du-authentic-assessment-scoping-review-2025|design frameworks for authentic assessment]], [[authentic-products-authenticated-processes-2026|authentic products and authenticated processes]], and [[tool-invariant-framework-agentic-ai|tool-invariant assessment of process]].
 - **Responsible assessment design** grounded in validity evidence ([[responsible-assessment-ai-era-stanford-2026]])
 - **Coauthorship and declaration** as part of the assessment contract
 - **Production as a competency** — evaluating learners' ability to direct tools and produce professional-standard work ([[competency-based-education-genai-production-2026]])
