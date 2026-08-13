@@ -18,11 +18,11 @@ confidence: high
 
 ### Distinct from academic education
 
-Professional training differs from academic education in its focus on applied skills, immediate workplace relevance, and adult learner characteristics. [[adult-learning]] theory and [[andragogy]] principles inform professional AI training design.
+Professional training differs from academic education in its focus on applied skills, immediate workplace relevance, and adult learner characteristics. [[adult-learning]] theory and [[adult-learning]] principles inform professional AI training design.
 
 ### Connections
 
-Professional training connects to [[lifelong-learning]], [[adult-learning]], [[faculty-development]] (the academic parallel), [[simulation-based-learning]], and [[ai-literacy]] (workplace AI competency).
+Professional training connects to [[lifelong-learning]], [[adult-learning]], [[faculty-development]] (the academic parallel), [[simulation]], and [[ai-literacy]] (workplace AI competency).
 
 ## Connected Concepts
 
@@ -30,7 +30,7 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[adult-learning]]
 - [[faculty-development]]
 - [[ai-literacy]]
-- [[simulation-based-learning]]
+- [[simulation]]
 - [[higher-ed]]
 - [[generative-ai]]
 - [[llm]]

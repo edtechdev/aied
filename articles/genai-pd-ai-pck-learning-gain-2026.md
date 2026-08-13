@@ -24,7 +24,7 @@ confidence: high
 
 This study provides strong evidence that intensive, focused professional development can rapidly build [[teacher-ai-competency]] in [[generative-ai]]-related pedagogical content knowledge. The very large effect sizes (*d* = 2.36 overall) support the [[efficacy-study]] case for structured, short-format training programs in a fast-moving area where teachers urgently need updated skills.
 
-The differential gain favoring [[teacher-training]] candidates suggests that embedding AI-PCK into pre-service curricula may be particularly efficient, while experienced teachers may need tailored, specialized support rather than one-size-fits-all PD. This connects directly to [[teacher-professional-development]], [[faculty-development]], and [[training-methodology]] debates about how to upskill educators for AI-integrated teaching.
+The differential gain favoring [[professional-training]] candidates suggests that embedding AI-PCK into pre-service curricula may be particularly efficient, while experienced teachers may need tailored, specialized support rather than one-size-fits-all PD. This connects directly to [[professional-training]], [[faculty-development]], and [[professional-training]] debates about how to upskill educators for AI-integrated teaching.
 
 For [[professional-training]] and institutional [[educational-policy-ai]], the findings argue for systematic rather than ad-hoc AI teacher preparation, and for attention to differentiated learning needs across the teacher-career spectrum.
 
@@ -35,9 +35,9 @@ For [[professional-training]] and institutional [[educational-policy-ai]], the f
 - [[generative-ai]]
 - [[professional-training]]
 - [[teacher-ai-competency]]
-- [[teacher-professional-development]]
-- [[teacher-training]]
-- [[training-methodology]]
+- [[professional-training]]
+- [[professional-training]]
+- [[professional-training]]
 
 ## Connected Articles
 

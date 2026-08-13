@@ -8,7 +8,6 @@ sources: ['raw/papers/2605.13731.md']
 confidence: high
 ---
 
-> **Lixiang Yan, Samuel Greiff, Jason M. Lodge, Dragan Gašević (2026)** — *Nature Reviews Psychology*, 4(7), 435-436.
 ## Core Argument
 
 This *Nature Reviews Psychology* piece draws a critical distinction that has been under-theorized in AIED research:

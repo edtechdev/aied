@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.17786.md']
 confidence: high
 ---
 
-> **Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler (2026)** — Institution.
 AI-driven interactive patient avatars for psychotherapy training provide accessible, repeatable practice with measurable skill improvement in evidence-based therapy techniques.
 
 ## Synthesis

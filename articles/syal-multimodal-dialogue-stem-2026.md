@@ -32,6 +32,17 @@ The pedagogical framing is equally important. The intervention constrains the hu
 
 For deployment, this suggests a design pattern: AI tutoring interfaces for STEM should include a *visual grounding checkpoint* — a deliberate step where the system describes what it sees before attempting a solution, giving the student (or a human supervisor) an opportunity to correct perceptual errors. This pattern echoes the verification step in the [[ai-tutor-behavioral-evaluation]] framework and could be automated further with vision-language consistency checks.
 
+## Connected Concepts
+
+- [[socratic-method]]
+- [[math-education]]
+- [[socratic-ai-dialogue]]
+- [[help-seeking]]
+- [[pedagogical-agent]]
+- [[automated-question-generation]]
+- [[agentic-ai]]
+- [[ai-tutoring]]
+
 ## Connected Articles
 
 - [[multimodal-ai-tutoring]]

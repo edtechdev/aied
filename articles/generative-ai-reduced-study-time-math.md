@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.21629.md']
 confidence: high
 ---
 
-> **Rismanchian, Uzun, Matayoshi, Cosyn & Kurd-Misto (2026)** — ALEKS/McGraw Hill. arXiv preprint (cs.CY, cs.AI, cs.HC).
-
 This landmark study provides the **first large-scale behavioral and outcome evidence** that [[generative-ai]] has fundamentally altered how students study and what they retain. Using a ten-year panel of **3.2 million ALEKS learning interactions** and complementary placement-assessment data, the authors employ a quasi-experimental design that exploits within-curriculum variation in AI susceptibility: text-based word problems that can be transcribed into AI prompts serve as the treated group, while graph-based problems requiring interactive platform manipulation serve as the comparison.
 
 

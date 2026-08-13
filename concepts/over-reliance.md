@@ -23,7 +23,7 @@ Over-reliance sits at the intersection of AI tool design and human cognitive beh
 
 - **Fatigue cycles:** [[ai-fatigue-academic-contexts|AI fatigue]] research identifies a paradox where over-reliance leads to cognitive fatigue from constant AI interaction management, which in turn drives MORE reliance — a vicious cycle.
 
-- **Vibe Compiler and metacognitive preservation:** [[vibe-compiler-metacognition-synthesis|The Synthesis-Analysis Reciprocity Model]] proposes tools that preserve human epistemic agency by structuring AI interaction around human analysis cycles rather than AI generation cycles.
+- **Vibe Compiler and metacognitive preservation:** [[vibe-compiler-metacognition-genai-agency-2026|The Synthesis-Analysis Reciprocity Model]] proposes tools that preserve human epistemic agency by structuring AI interaction around human analysis cycles rather than AI generation cycles.
 
 ### Relationship to cognitive offloading
 
@@ -57,7 +57,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[ai-availability-student-motivation]] — AI Availability and Student Motivation
 - [[agentic-literacy-debt]] — Agentic Literacy Debt
 - [[ai-fatigue-academic-contexts]] — AI Fatigue in Academic Contexts
-- [[vibe-compiler-metacognition-synthesis]] — Vibe Compiler: Synthesis-Analysis Reciprocity
+- [[vibe-compiler-metacognition-genai-agency-2026]] — Vibe Compiler: Synthesis-Analysis Reciprocity
 - [[ai-assisted-learning-modes-eeg]] — AI-Assisted Learning Modes (EEG Study)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance from Learning

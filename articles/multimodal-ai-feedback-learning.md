@@ -8,8 +8,6 @@ sources: ['raw/papers/2601.15280.md']
 confidence: high
 ---
 
-> **Zhao, Cao, Lin & Koedinger (2026)** — CMU, UNC, U Hong Kong. Accepted to LAK 2026. Online crowdsourcing experiment.
-
 # Multimodal AI Feedback vs. Educator Feedback
 
 ## Core Finding

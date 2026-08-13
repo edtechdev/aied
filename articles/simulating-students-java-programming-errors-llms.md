@@ -8,8 +8,6 @@ sources: ['raw/papers/2606.14113.md']
 confidence: high
 ---
 
-> **Keramati, Cao, Mohammadi, Warschauer & Shi (2026)** — University of California, Irvine.
-
 This paper investigates whether [[llm|large language models]] can serve as scalable proxies for students by simulating realistic logical errors in code submissions. Using the CodeWorkout dataset of 74,000+ unique student Java submissions across 37 problems, the authors evaluate five LLMs under three prompting strategies: Input-Output (IO), Chain-of-Thought (CoT), and iterative Self-Refine.
 
 

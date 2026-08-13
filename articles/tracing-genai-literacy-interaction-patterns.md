@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.00040.md']
 confidence: high
 ---
 
-> **Angxuan Chen & Jiyou Jia (2026)** — arXiv:2606.00040.
 > Identifies interaction signatures of LLM literacy using Epistemic Network Analysis (ENA) on logs from 162 students. High-literacy students exhibit iterative, strategic refinement and dense cognitive networking, while low-literacy students rely on direct, linear commands. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
 
 ## Key Findings

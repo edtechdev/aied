@@ -8,8 +8,6 @@ sources: ['raw/papers/2607.23322.md']
 confidence: medium
 ---
 
-> **Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani (2026)** — arXiv:2607.23322 (cs.CL, cs.CY)
-
 Presents a 24,795-example multilingual instruction dataset for teaching LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western pedagogical content for instruction tuning. Demonstrates that domain-specific educational datasets improve LLM performance on culturally grounded knowledge tasks.
 
 ## Key Findings

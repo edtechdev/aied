@@ -8,7 +8,7 @@ sources: ['raw/papers/2601.21375.md']
 confidence: high
 ---
 
-> **Li et al. (2026)** address a critical gap: while LLMs are increasingly used as teaching assistants, their **teaching capability remains insufficiently evaluated**.
+> While LLMs are increasingly used as teaching assistants, their teaching capability remains insufficiently evaluated — a critical gap in current AIED research.
 
 # TeachBench: Evaluating LLM Teaching Ability
 

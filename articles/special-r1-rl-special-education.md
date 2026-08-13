@@ -47,6 +47,17 @@ This is the first multi-turn pedagogical RL framework specifically targeting spe
 - Can the framework be extended to multimodal inputs for learners with specific math disabilities?
 - What are the ethical considerations of disability-profiling in AI tutoring systems?
 
+## Connected Concepts
+
+- [[reinforcement-learning]]
+- [[pedagogical-agent]]
+- [[lifelong-learning]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[affective-tutoring]]
+- [[help-seeking]]
+- [[pedagogical-llm-training]]
+
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]]

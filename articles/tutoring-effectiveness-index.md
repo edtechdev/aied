@@ -54,6 +54,17 @@ TEI demonstrates that simple lexical and structural signals can effectively stee
 - Can the fixed weights be optimized per-domain without losing the training-free property?
 - How does TEI interact with different base model architectures and sizes?
 
+## Connected Concepts
+
+- [[socratic-ai-dialogue]]
+- [[automated-question-generation]]
+- [[ai-ed-evaluation]]
+- [[open-source]]
+- [[pedagogical-llm-training]]
+- [[automated-assessment]]
+- [[adaptive-learning]]
+- [[human-in-the-loop-ai]]
+
 ## Connected Articles
 
 - [[learning-by-chatting-genai-impact]]

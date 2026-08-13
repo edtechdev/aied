@@ -18,7 +18,7 @@ AI education research in the wiki spans two interconnected dimensions:
 
 ### Cross-cutting themes
 
-- **Evidence and evaluation:** [[ai-ed-evaluation]], [[rct|randomized trials]], and [[meta-analysis|meta-analyses]] build the evidence base for what works.
+- **Evidence and evaluation:** [[ai-ed-evaluation]], [[rct|randomized trials]], and [[efficacy-study|meta-analyses]] build the evidence base for what works.
 - **Policy and governance:** [[educational-policy-ai]], [[regulation]], and [[ai-governance-education]] address the institutional frameworks needed for responsible AI adoption.
 - **Equity and access:** [[equity]] and [[bias-mitigation]] research examines whether AI education serves all learners.
 - **Teacher preparation:** [[teacher-ai-competency]] and [[faculty-development]] ensure educators are prepared for AI-augmented classrooms.

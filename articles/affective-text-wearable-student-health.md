@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.14360.md']
 confidence: medium
 ---
 
-> **Tamunotonye Harry, Johanna Hidalgo, Matthew Price, Yuanyuan Feng, Kathryn Stanton, Connie Tompkins, Peter Sheridan Dodds, Mikaela Irene Fudolig, Laura Bloomfield, Christopher Danforth (2026)** — University of Vermont and collaborators. arXiv:2605.14360 [cs.HC]. Submitted to ACM IMWUT.
-
 # Brief Affective Text and Wearable Sensing for Student Health Monitoring
 
 ## Key Findings

@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.22687.md']
 confidence: medium
 ---
 
-> **Yu, Cheng, Jabbar, Sucholutsky, Collins, Jurafsky & Hawkins (2026)** — Stanford University / Princeton University. arXiv preprint (cs.CY, cs.HC).
-
 Across three pre-registered studies (N=2,691), this paper documents systematic miscalibration in how people perceive their own [[generative-ai|AI]] usage. The authors find that people not only use AI for cognitively simple tasks even when it provides no meaningful efficiency benefit, but also systematically misperceive both how much they use AI and how much it helps them.
 
 

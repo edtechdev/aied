@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.15902.md']
 confidence: medium
 ---
 
-> **Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026)** — NextGen Learning Interfaces Workshop, AIED 2026
 > Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficient. Proposes design-time card-based GenUI where educational content is encoded as modality-agnostic semantic units and GenAI produces multiple interface representations (interactive, audio, simplified text, low-bandwidth) at design time for instructor verification. Embeds Universal Design for Learning into authoring workflow and eliminates per-learner inference costs.
 
 

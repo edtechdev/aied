@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.01152.md']
 confidence: high
 ---
 
-> **Mikael Gorsky (2026)** — arXiv:2606.01152.
 Formalizes Agentic Software Engineering (ASE) as a distinct discipline. Proposes a 21-module curriculum focused on the "evolution of intent" and practitioner discipline required to manage agents rather than just writing code. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
 
 ## Key Findings

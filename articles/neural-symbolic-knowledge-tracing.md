@@ -8,7 +8,7 @@ sources: ['raw/papers/2604.08263.md']
 confidence: medium
 ---
 
-> **Hooshyar et al. (2026)** identify key limitations in both LLM-based tutoring and conventional Deep Knowledge Tracing (DKT):
+> Key limitations exist in both LLM-based tutoring and conventional Deep Knowledge Tracing (DKT):
 
 > Combining neural networks with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable learner modeling in intelligent tutoring systems.
 

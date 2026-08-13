@@ -24,7 +24,7 @@ confidence: high
 
 This broad systematic review provides a comprehensive landscape of [[generative-ai]] in [[higher-ed]], useful as a synthesis anchor for the wiki's coverage of GenAI applications. The 92% student-usage figure and the four-domain taxonomy ([[automated-assessment]], [[personalized-learning]], critical skills, research assistance) offer a useful organizing structure.
 
-The persistent challenges — [[academic-integrity]], [[bias-mitigation]]/algorithmic bias, [[hallucination-risk]], faculty readiness, and [[digital-divide]]/[[equity]] — echo themes across the wiki and connect to [[ai-literacy]] and [[faculty-development]] needs. The review's identification of pedagogical innovations (new assessment designs, AI literacy curricula, human-AI collaborative models) aligns with [[human-ai-collaboration]] and [[human-in-the-loop-ai]] threads.
+The persistent challenges — [[academic-integrity]], [[bias-mitigation]]/algorithmic bias, [[hallucination-risk]], faculty readiness, and [[equity]]/[[equity]] — echo themes across the wiki and connect to [[ai-literacy]] and [[faculty-development]] needs. The review's identification of pedagogical innovations (new assessment designs, AI literacy curricula, human-AI collaborative models) aligns with [[human-ai-collaboration]] and [[human-in-the-loop-ai]] threads.
 
 For policy and practice, the review underscores that the faculty readiness gap and equity concerns remain the binding constraints on responsible GenAI integration, connecting to [[educational-policy-ai]] and [[ai-governance-education]].
 

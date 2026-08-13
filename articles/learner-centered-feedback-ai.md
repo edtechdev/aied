@@ -8,8 +8,6 @@ sources: ['raw/papers/tandf-2026-learner-centered-feedback-ai.md']
 confidence: high
 ---
 
-> **Ahmad Ari Aldino, Bhagya Maheshi, Yuheng Li, Ying Zhou, Yi-Shan Tsai, Dragan Gašević & Guanliang Chen (2026)** — *Assessment & Evaluation in Higher Education* 51(5), 892–910. doi:10.1080/02602938.2026.2638920.
-
 # Enhancing learner-centered feedback with AI: teachers' practices and perceptions
 
 ## Summary

@@ -11,7 +11,7 @@ confidence: high
 
 ### Ethical dimensions
 
-- **Fairness and bias:** [[bias-mitigation]] and [[equity]] research address whether AI systems treat all learners fairly. [[ai-scoring-language-bias-physics|Language bias]] and [[algorithmic-bias]] studies document real-world inequities.
+- **Fairness and bias:** [[bias-mitigation]] and [[equity]] research address whether AI systems treat all learners fairly. [[ai-scoring-language-bias-physics|Language bias]] and [[bias-mitigation]] studies document real-world inequities.
 - **Privacy and consent:** [[privacy]] research examines data collection, student surveillance, and the power imbalance between institutions and learners.
 - **Transparency and explainability:** [[xai-education-framework|Explainable AI frameworks]] argue that students and teachers should understand how AI systems make decisions affecting them.
 - **Autonomy and agency:** [[over-reliance]] and [[cognitive-offloading]] research raise ethical questions about whether AI use diminishes learner agency.

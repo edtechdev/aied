@@ -22,16 +22,16 @@ confidence: high
 
 ## Implications
 
-VeriForge addresses a central tension in [[writing-education]] with AI: how to leverage [[generative-ai]] for knowledge augmentation without ceding authorship and voice. The mixed-initiative design is a concrete instantiation of [[human-in-the-loop]] collaboration, offering a counterpoint to [[cognitive-offloading]] concerns by making writers aware of what they do not know rather than silently filling gaps.
+VeriForge addresses a central tension in [[writing-education]] with AI: how to leverage [[generative-ai]] for knowledge augmentation without ceding authorship and voice. The mixed-initiative design is a concrete instantiation of [[human-in-the-loop-ai]] collaboration, offering a counterpoint to [[cognitive-offloading]] concerns by making writers aware of what they do not know rather than silently filling gaps.
 
 For [[creativity]] research, the system's emphasis on preserving author agency over synthesis speaks directly to worries about [[over-reliance]] and homogenized output. The knowledge-gap-revealing mechanism also connects to [[scaffolding]] theory and [[zone-of-proximal-development]], positioning the AI as a scaffold that surfaces and supports what the writer can learn rather than replacing it.
 
-The graph-based [[rag]] pipeline with source-anchored evidence cards also models best practice in [[content-quality]] and [[verification]]: surfaced knowledge is traceable to sources, mitigating [[hallucination-risk]]. The study offers design guidance for [[llm]]-based writing tools across domains beyond fiction, including academic and expository writing.
+The graph-based [[rag]] pipeline with source-anchored evidence cards also models best practice in [[ai-feedback-quality]] and [[hallucination-risk]]: surfaced knowledge is traceable to sources, mitigating [[hallucination-risk]]. The study offers design guidance for [[llm]]-based writing tools across domains beyond fiction, including academic and expository writing.
 
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[content-quality]]
+- [[ai-feedback-quality]]
 - [[creativity]]
 - [[generative-ai]]
 - [[hallucination-risk]]
@@ -40,7 +40,7 @@ The graph-based [[rag]] pipeline with source-anchored evidence cards also models
 - [[over-reliance]]
 - [[rag]]
 - [[scaffolding]]
-- [[verification]]
+- [[hallucination-risk]]
 - [[writing-education]]
 - [[zone-of-proximal-development]]
 

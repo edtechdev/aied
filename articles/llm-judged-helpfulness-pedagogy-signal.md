@@ -8,8 +8,6 @@ sources: ['raw/papers/2607.28128.md']
 confidence: high
 ---
 
-> **Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang (2026)** — arXiv:2607.28128 (cs.CL, cs.AI, cs.CY)
-
 Pre-registered study auditing whether general-purpose helpfulness rubrics can distinguish direct answer-giving from pedagogical guidance in LLM tutors. Uses deterministic detectors for answer leakage and next-turn independent work across three tutor models. Finds that helpfulness ratings conflate genuine pedagogical scaffolding with simply giving correct answers.
 
 ## Key Findings

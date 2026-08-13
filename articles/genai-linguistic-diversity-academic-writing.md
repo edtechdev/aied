@@ -8,8 +8,6 @@ sources: ['raw/papers/2607.28505.md']
 confidence: high
 ---
 
-> **Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026)** — arXiv:2607.28505 (cs.CL)
-
 Structured scholarly dialogue among five sociolinguists examining how GenAI tools influence academic writing practices, reinforce or disrupt linguistic hierarchies, and impact the legitimacy of diverse English varieties in global scholarly communication. Raises concerns about linguistic homogenization and the marginalization of World Englishes.
 
 ## Key Findings

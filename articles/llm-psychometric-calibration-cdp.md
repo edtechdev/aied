@@ -8,7 +8,6 @@ sources: ['raw/papers/2607.26317.md']
 confidence: high
 ---
 
-> **Zhou et al. (2026)** — arXiv preprint.
 Proposes Cognitive Diagnostic Profiling (CDP), a zero-shot framework that dramatically improves LLM-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90, and RMSE fell from 6.31 to 0.90. Makes LLM-simulated examinees practical for operational test development.
 
 **Relevance to AI in Education:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.

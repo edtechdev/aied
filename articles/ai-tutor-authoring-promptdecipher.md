@@ -8,7 +8,6 @@ sources: ['raw/papers/2605.16605.md']
 confidence: high
 ---
 
-> **Koyama, M., Xiao, R., & Stamper, J. (2026)** — Carnegie Mellon University. arXiv preprint.
 ## Key Finding
 Teachers virtually never test AI tutoring bots before student deployment; PromptDecipher enforces QA as a first-class activity by letting teachers edit bot responses directly.
 

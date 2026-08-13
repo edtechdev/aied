@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.04740.md']
 confidence: medium
 ---
 
-> **Alvaro Becerra, Alejandra Palma, Ruth Cobos (2026)** — LASI Spain 2026.
-
 # AICoFe: AI-Based Collaborative Feedback System for Higher Education
 
 ## System Architecture

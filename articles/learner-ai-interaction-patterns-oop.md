@@ -8,8 +8,6 @@ sources: ['raw/papers/2607.24755.md']
 confidence: high
 ---
 
-> **Marina Lepp (2026)** — arXiv:2607.24755 (cs.HC, cs.AI, cs.CY)
-
 Examines how different forms of learner-AI interaction relate to learning outcomes in object-oriented programming courses. Identifies distinct patterns of GenAI use among students and correlates them with academic performance, finding that certain interaction patterns (seeking explanation rather than code generation) are associated with stronger learning outcomes.
 
 ## Key Findings

@@ -8,7 +8,7 @@ sources: ['raw/papers/2604.04237.md']
 confidence: medium
 ---
 
-> **Olukola & Rahimi (2026)** identify a critical gap: as reinforcement learning personalizes instruction in ITS, **there is no formal framework for pedagogical safety**.
+> As reinforcement learning personalizes instruction in intelligent tutoring systems, there is no formal framework for pedagogical safety — a critical gap.
 
 > First formal framework for defining and detecting *pedagogical safety* violations in RL-based AI tutoring systems.
 

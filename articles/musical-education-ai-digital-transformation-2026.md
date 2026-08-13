@@ -21,7 +21,7 @@ The work contributes to understanding of [[ai-literacy]] in educational contexts
 - [[ai-literacy]]
 - [[curriculum-design]]
 - [[generative-ai]]
-- [[digital-transformation]]
+- [[ai-education]]
 
 ## Connected Articles
 

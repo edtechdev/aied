@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.13684.md']
 confidence: high
 ---
 
-> **Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, Gábor Kismihók (2026)** — AIED 2026
 Evaluates cross-dataset generalization of ML/DL methods and LLMs for automatic Bloom's taxonomy classification of assessment questions across five datasets. Supervised ML/DL models degraded substantially on unseen datasets, while LLMs with tailored prompting (in-context examples + course-specific action verbs) showed stable performance. A lightweight UI was developed for instructors to classify large question banks, with usability study indicating low workload and high usability.
 
 - LLMs with tailored prompting generalize better than supervised models for cross-dataset Bloom's taxonomy classification of assessment questions.

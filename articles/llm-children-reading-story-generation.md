@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.13709.md']
 confidence: high
 ---
 
-> **Qian Shen, Fanghua Cao, Min Yao, Shlok Gilda, Bonnie J. Dorr, Walter L. Leite (2026)** — University of Florida. BEA 2026 @ ACL 2026.
-
 # Children's English Reading Story Generation via SFT of Compact LLMs
 
 ## Key Finding: Small Fine-Tuned Models Beat Large Zero-Shot Models

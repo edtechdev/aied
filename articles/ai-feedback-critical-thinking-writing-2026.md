@@ -21,10 +21,10 @@ The work contributes to understanding of [[critical-thinking]] in educational co
 - [[critical-thinking]]
 - [[automated-grading]]
 - [[scaffolding]]
-- [[writing]]
-- [[feedback]]
+- [[writing-education]]
+- [[ai-feedback-quality]]
 - [[k-12]]
-- [[ai-generated-content]]
+- [[generative-ai]]
 
 ## Connected Articles
 

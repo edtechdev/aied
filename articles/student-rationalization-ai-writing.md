@@ -8,7 +8,6 @@ sources: ['raw/papers/2605.29090.md']
 confidence: high
 ---
 
-> **Jiyoon Kim et al. (2026)** — arXiv preprint. *(catch-up — submitted 2026-05-27)*
 Generative AI challenges academic integrity not only by enabling students to delegate substantial portions of their academic work, but also by blurring the ethical boundaries by which students distinguish acceptable assistance from misconduct. Through semi-structured interviews (n=20), analysis of AI chat logs, and course documents, the researchers identified at least five distinct conceptual sites where students' interpretation of AI policies diverges from faculty intent. Students employed over 20 distinct rationalizations — including 'copying AI-generated text is victimless' and 'any AI text reflecting their own beliefs is their own writing' — to justify conscious violations of course policies. Modern AI presents a steep, ethical, slippery slope which students conceptually slide down, landing far outside the pedagogical goals and expectations of instructors.
 
 

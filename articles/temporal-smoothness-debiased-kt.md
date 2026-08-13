@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.05958.md']
 confidence: medium
 ---
 
-> **Zhan, P., Chen, W., Chen, W., Pan, S., Cai, R. (2026)** — arXiv preprint.
-
 ## Key Findings
 
 - Knowledge tracing (KT) systems suffer from selection bias because exercise recommendations are non-random, so training on observed logs with standard empirical risk produces biased mastery estimates.

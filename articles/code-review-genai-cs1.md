@@ -8,7 +8,6 @@ sources: ['raw/papers/2605.21374.md']
 confidence: high
 ---
 
-> **Peter Fowles, Erik Falor, Sulove Bhattarai, John Edwards, Seth Poulsen (2026)** — Utah State University. arXiv:2605.21374 [cs.HC]
 Oral code reviews paired with a flipped classroom represent a pragmatic harm-reduction approach to generative AI in CS education. Rather than banning LLMs, Fowles et al. (2026) designed weekly formative assessments where students must explain their submitted code regardless of its origin. Over three semesters at Utah State University, keystroke logs confirmed significantly higher AI usage (increased paste-to-type ratios), yet exam scores showed no statistically significant decline. Students reported positive attitudes toward the code review format, with negative feedback centered on logistical issues (scheduling, TA training) rather than pedagogical objections.
 
 This study addresses a core tension in the [[stanford-evidence-base-ai-k12-2026]]: how to maintain [[academic-integrity]] while acknowledging that AI tools are now part of professional practice. The approach aligns with [[ai-literacy]] frameworks that emphasize critical engagement over prohibition. Unlike AI detection tools, which create adversarial dynamics, oral assessments reframe the conversation around understanding and [[metacognition]]. The findings also complement research on [[over-reliance]] and [[cognitive-offloading]], suggesting that structured accountability mechanisms can preserve learning outcomes even as AI usage rises.

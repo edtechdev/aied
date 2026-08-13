@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.09598.md']
 confidence: medium
 ---
 
-> **Li & Cao (2026)** — Authors. Unknown institution.
 Introduces a novel core concept, **"Awareness of Technological Isomorphism,"** defined as a student's metacognitive realization that their own mathematical cognitive operations (observing trends, inducing patterns, making predictions) share an underlying logical structure with AI technical operations (pattern recognition, predictive modeling). This awareness facilitates [[transfer-of-learning|cognitive transfer from disciplinary mathematics to AI comprehension]].
 
 The paper proposes a **three-stage pedagogical pathway** — Perception → Comprehension → Creation — validated through a case study on compound line graphs with fifth-grade students in China. This framework bridges elementary [[stem-education|mathematics education]] with [[ai-literacy|AI literacy]], offering a replicable model for deep convergence of disciplinary instruction and AI understanding. The concept is distinguished from computational thinking: it focuses on the isomorphic interface between domain knowledge and AI operations rather than programming skills.

@@ -8,7 +8,6 @@ sources: ['raw/papers/2605.16292.md']
 confidence: high
 ---
 
-> **Islem Rekik (2026)** — ICLR HCAIR Workshop 2026.
 ## Overview
 
 This paper presents a striking longitudinal finding: as AI becomes a routine educational tool, students systematically revalue **human intelligence (HI) over artificial intelligence (AI)**. Drawing on 6 years of classroom poll data (2020–2026) from 471 undergraduate and MSc computer science students, Rekik documents a cognitive shift that progresses through four phases: hype → distrust → trust → dependency.

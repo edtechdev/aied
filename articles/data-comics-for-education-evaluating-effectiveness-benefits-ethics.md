@@ -8,8 +8,6 @@ sources: ['raw/papers/2607.02361.md']
 confidence: high
 ---
 
-> **Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026)**
-
 Data comics combine sequential visual narratives with data visualization to improve student engagement with [[generative-ai]] in educational settings. This paper evaluates the effectiveness of AI-assisted creation of data comics, finding that they significantly enhance student engagement and comprehension compared to traditional visualization formats. The study also examines ethical dimensions including authorship attribution of AI-produced content, accuracy of generated visuals, and the risk of misleading representations. These findings have direct implications for [[k-12]] education, where [[active-learning]] approaches benefit from engaging visual materials.
 
 ## Key Findings

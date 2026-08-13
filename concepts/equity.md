@@ -11,8 +11,8 @@ confidence: high
 
 ### Equity dimensions in AIED
 
-- **Access equity:** [[access-not-enough-ai-tutoring-2026|Access is not enough]] — providing AI tools without addressing structural barriers does not close gaps. [[digital-divide|Digital divide]] research and [[ai-literacy-equity-programming-policy|equity policy analysis]] document who gets left behind.
-- **Bias in AI systems:** [[bias-mitigation]], [[ai-scoring-language-bias-physics|language bias in scoring]], and [[algorithmic-bias|algorithmic bias]] research show that AI can encode and amplify existing biases unless explicitly designed for fairness.
+- **Access equity:** [[access-not-enough-ai-tutoring-2026|Access is not enough]] — providing AI tools without addressing structural barriers does not close gaps. [[equity|Digital divide]] research and [[ai-literacy-equity-programming-policy|equity policy analysis]] document who gets left behind.
+- **Bias in AI systems:** [[bias-mitigation]], [[ai-scoring-language-bias-physics|language bias in scoring]], and [[bias-mitigation|algorithmic bias]] research show that AI can encode and amplify existing biases unless explicitly designed for fairness.
 - **Culturally responsive AI:** [[culturally-relevant-pedagogy|Culturally relevant pedagogy]] and [[community-centered-ai-education-adults|community-centered AI education]] advocate for AI that reflects diverse cultural contexts.
 - **Special populations:** [[special-education]], [[neurodivergent-computing-students|neurodivergent learners]], and [[dyslexlens-dyslexic-learners-ai|dyslexic learners]] represent groups whose needs are often overlooked in AI system design.
 - **Global equity:** [[suacode-african-students-motivations|African student motivations]], [[connected-ai-lesson-planning-vietnam|Vietnamese AI lesson planning]], and [[amponsah-ai-acceptance-science-teachers-2026|Ghanaian teacher acceptance]] provide Global South perspectives.
@@ -23,7 +23,7 @@ The wiki argues that equity must be designed into AI systems, not added as an af
 
 ### Connections
 
-Equity connects to [[bias-mitigation]], [[special-education]], [[accessibility|accessible learning]], [[culturally-relevant-pedagogy]], and [[educational-policy-ai]] — it is the cross-cutting concern that every AI education deployment must address.
+Equity connects to [[bias-mitigation]], [[special-education]], [[accessible-learning|accessible learning]], [[culturally-relevant-pedagogy]], and [[educational-policy-ai]] — it is the cross-cutting concern that every AI education deployment must address.
 
 ## Connected Concepts
 

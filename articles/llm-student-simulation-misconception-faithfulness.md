@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.12748.md']
 confidence: high
 ---
 
-> **Do, Sonkar & Sachan (2026)** — ETH Zurich. arXiv preprint.
-
 # LLM Student Simulation and Misconception Faithfulness
 
 ## Synthesis

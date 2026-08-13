@@ -8,8 +8,6 @@ sources: ['raw/papers/2606.12805.md']
 confidence: high
 ---
 
-> **Ravi, Stevens, Hurt, Hanks, Lin & Anderson (2026)**.
-
 **Ravi, Stevens, Hurt, Hanks, Lin & Anderson (2026)**.
 
 Ravi et al. investigate how the voice accent of a [[generative-ai]] conversational peer agent shapes learners' perceptions, trust, and interactional dynamics in [[k-12]] group learning. While prior work examined agent accent effects in one-to-one settings, little is known about how these effects manifest in multi-party group contexts — a critical gap as [[intelligent-tutoring|AI peer agents]] enter collaborative classrooms.

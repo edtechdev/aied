@@ -9,6 +9,10 @@ confidence: medium
 
 > **Adaptive prompt routing** — dynamically selecting or composing LLM prompts per task and learner — connects the wiki's [[prompt-engineering]] and [[learning-to-prompt-adaptive-tutoring]] threads, where prompt selection becomes part of the tutoring system itself rather than a user skill.
 
+## Connected Concepts
+
+- [[prompt-engineering]]
+
 ## Connected Articles
 
 - [[code-anchor-multi-view-visualization]]

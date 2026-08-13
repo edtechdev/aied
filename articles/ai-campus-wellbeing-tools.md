@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.10804.md']
 confidence: medium
 ---
 
-> **Tang (2026)** — PhD Dissertation, University of Missouri.
-
 # AI-Driven Campus Well-being Tools
 
 ## Synthesis

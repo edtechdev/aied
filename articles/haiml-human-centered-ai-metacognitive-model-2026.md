@@ -22,7 +22,7 @@ confidence: medium
 
 For [[metacognition]] and [[self-regulated-learning]], HAIML offers a structured way to make AI interactions objects of reflection, addressing [[cognitive-offloading]] and [[over-reliance]] risks by keeping learners aware of how AI influences their thinking. It complements [[ai-literacy]] frameworks by adding a metacognitive and ethical layer focused on internal decision-making rather than tool proficiency alone.
 
-The model's human-centered orientation connects to [[human-ai-collaboration]] and to [[student-ai-interaction]] design, and to [[ethics]] in education. As a framework paper, it would benefit from empirical validation of whether the three-layer progression measurably improves agency and reflection in AI-supported learning.
+The model's human-centered orientation connects to [[human-ai-collaboration]] and to [[human-ai-collaboration]] design, and to [[ethics]] in education. As a framework paper, it would benefit from empirical validation of whether the three-layer progression measurably improves agency and reflection in AI-supported learning.
 
 ## Connected Concepts
 

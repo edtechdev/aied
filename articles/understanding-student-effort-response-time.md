@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.08943.md']
 confidence: high
 ---
 
-> **Conrad Borchers, Lijin Zhang, Kexin Yang et al. (2026)** — Response-time analysis for student effort during problem solving.
-
 # Student Effort Measurement via Response-Time Propensities
 
 ## Key Findings
