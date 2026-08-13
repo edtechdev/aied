@@ -8,7 +8,7 @@ sources: ['raw/papers/2607.29385.md']
 confidence: high
 ---
 
-> **Synthesis:** Sirnoorkar & Mamidpalliwar (2026) investigate the association between introductory physics students' preferences for chatbot behavior and their epistemological beliefs, using a custom online waves module with simulations integrated with a chatbot. Preferences were captured through three options (guided-inquiry, direct answer, and a combination); beliefs via the EBAPS survey. Students who preferred chatbots that initially engage in guided-inquiry but provide answers when explicitly sought ('Combination') demonstrated more sophisticated epistemological beliefs than those preferring answer-providing chatbots, though no association was found between EBAPS total scores for guided-inquiry vs answer-oriented preferences, and differences did not survive Bonferroni adjustment. The work connects to [[physics-education]], [[chatbot]], and [[socratic-method]] research.
+> **Synthesis:** Sirnoorkar & Mamidpalliwar (2026) investigate the association between introductory physics students' preferences for chatbot behavior and their epistemological beliefs, using a custom online waves module with simulations integrated with a chatbot. Preferences were captured through three options (guided-inquiry, direct answer, and a combination); beliefs via the EBAPS survey. Students who preferred chatbots that initially engage in guided-inquiry but provide answers when explicitly sought ('Combination') demonstrated more sophisticated epistemological beliefs than those preferring answer-providing chatbots, though no association was found between EBAPS total scores for guided-inquiry vs answer-oriented preferences, and differences did not survive Bonferroni adjustment. The work connects to [[physics-education]], [[pedagogical-agent]], and [[socratic-method]] research.
 
 ## Chatbot Preference and Epistemological Beliefs
 
@@ -25,7 +25,7 @@ Students who preferred chatbots that initially engage them in guided-inquiry but
 ## Connected Concepts
 
 - [[physics-education]]
-- [[chatbot]]
+- [[pedagogical-agent]]
 - [[socratic-method]]
 - [[ai-literacy]]
 - [[student-experience]]

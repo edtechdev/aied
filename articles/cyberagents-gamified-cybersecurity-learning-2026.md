@@ -8,7 +8,7 @@ sources: ['raw/papers/2608.07965.md']
 confidence: high
 ---
 
-> **Synthesis:** Hornung et al. (2026) present **CyberAGENTS**, an agentic framework for gamified cybersecurity learning that enables *structured autonomy* through ontology-guided validation, schema-governed behavioral control, and competency-based progression. The learning loop is decomposed into four specialized agents (challenge, support, evaluation, reward), each governed by behavioral schemas, with a cybersecurity ontology validating all generated content before display. Classroom deployment with undergraduates, complemented by expert evaluation, found improved engagement, clearer feedback interpretation, and greater learner trust when behavioral schemas and ontology validation are active. The work connects to [[agentic-ai]], [[computing-education]], and [[pedagogical-safety]] themes.
+> **Synthesis:** Hornung et al. (2026) present **CyberAGENTS**, an agentic framework for gamified cybersecurity learning that enables *structured autonomy* through ontology-guided validation, schema-governed behavioral control, and competency-based progression. The learning loop is decomposed into four specialized agents (challenge, support, evaluation, reward), each governed by behavioral schemas, with a cybersecurity ontology validating all generated content before display. Classroom deployment with undergraduates, complemented by expert evaluation, found improved engagement, clearer feedback interpretation, and greater learner trust when behavioral schemas and ontology validation are active. The work connects to [[agentic-ai]], [[cs-education]], and [[pedagogical-safety]] themes.
 
 ## Grounding Agentic Gamification in Learning Science
 
@@ -25,7 +25,7 @@ Classroom deployment with undergraduate students, complemented by expert evaluat
 ## Connected Concepts
 
 - [[agentic-ai]]
-- [[computing-education]]
+- [[cs-education]]
 - [[cs-education]]
 - [[pedagogical-safety]]
 - [[llm]]
