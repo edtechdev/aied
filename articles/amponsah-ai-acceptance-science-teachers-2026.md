@@ -21,14 +21,14 @@ confidence: high
 
 ## Implications
 
-This study provides a Global South perspective on [[ai-literacy]] and teacher AI adoption, complementing research primarily from Western contexts. The intention-practice gap mirrors findings in [[teacher-ai-adoption-confidence]], where institutional support was found to build teacher confidence. For [[faculty-development]] and [[teacher-training]], the study underscores that AI tool access alone is insufficient — targeted professional development and digital infrastructure investment are prerequisites for meaningful classroom integration.
+This study provides a Global South perspective on [[ai-literacy]] and teacher AI adoption, complementing research primarily from Western contexts. The intention-practice gap mirrors findings in [[teacher-ai-adoption-confidence]], where institutional support was found to build teacher confidence. For [[faculty-development]] and [[professional-training]], the study underscores that AI tool access alone is insufficient — targeted professional development and digital infrastructure investment are prerequisites for meaningful classroom integration.
 
 The finding that ChatGPT dominates pre-service teacher AI use echoes broader trends identified in [[genai-usage-design-students-survey]] and suggests that [[ai-literacy]] curricula should address responsible and critical use of general-purpose AI tools rather than focusing on education-specific platforms.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[teacher-training]]
+- [[professional-training]]
 - [[faculty-development]]
 - [[stem-education]]
 - [[k-12]]

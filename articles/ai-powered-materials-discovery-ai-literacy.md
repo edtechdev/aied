@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.09624.md']
 confidence: medium
 ---
 
-> **Dongming Mei, Katherine Moore, Ben Sayler (2026)** — Framework for integrating AI literacy with materials science education.
-
 # AI-Powered Materials Discovery and AI Literacy
 
 ## Key Findings

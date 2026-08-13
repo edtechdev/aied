@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.21613.md']
 confidence: high
 ---
 
-> **Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers (2026)** — Carnegie Mellon University. EDM 2026 (short paper).
-
 Intelligent Tutoring Systems often grant learners shared control over skill and problem selection. We propose a simulation-based framework to examine how learner task-selection strategies and system constraints shape mastery learning efficiency.
 
 

@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.15919.md']
 confidence: high
 ---
 
-> **Markos Stamatakis, Omkar Gavali, Joshua Berger, Christian Wartena, Anett Hoppe, Ralph Ewerth (2026)** — arXiv preprint
 Investigates LLM chatbots' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with student performance. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting ChatGPT answers with explanations did NOT generally improve student performance.
 
 ## Key Findings

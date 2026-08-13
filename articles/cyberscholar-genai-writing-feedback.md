@@ -8,7 +8,6 @@ sources: ['raw/papers/2605.17055.md']
 confidence: high
 ---
 
-> **Zheldibayeva, R., de Oliveira Nascimento, A. K., Castro, V., Cope, B., & Kalantzis, M. (2026)** — University of Illinois Urbana-Champaign. arXiv preprint.
 ## Key Finding
 RAG-based rubric-grounded GenAI writing feedback improved student revision quality (N=143, grades 7-11) and saved teacher time, but automated ratings were inconsistent.
 

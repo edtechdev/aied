@@ -11,7 +11,7 @@ confidence: high
 
 ### STEM as the primary AIED domain
 
-- **Mathematics:** [[math-education|Math education]] research spans [[generative-ai-reduced-study-time-math|GenAI impact on math learning]], [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutoring]], and [[math-competence-clustering|competence clustering]].
+- **Mathematics:** [[math-education|Math education]] research spans [[generative-ai-reduced-study-time-math|GenAI impact on math learning]], [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutoring]], and [[student-math-competence-clustering|competence clustering]].
 - **Physics:** [[physics-education|Physics education]] includes [[becker-chatgpt-typology-physics-2026|ChatGPT typology studies]], [[hashmi-socratic-physics-chatbot-2025|Socratic physics chatbots]], and [[ai-scoring-language-bias-physics|scoring bias analysis]].
 - **Computer science:** [[cs-education|CS education]] is the most-researched STEM subfield — [[code-review-genai-cs1|code review]], [[debugtracker-classroom-debugging|debugging tools]], and [[prompt-problems-nl-programming-mistakes|prompting studies]].
 - **Engineering:** [[concept-catalyst-engineering-scaffolds|Engineering scaffolds]], [[structured-ai-demonstrations-engineering-mechanics|mechanics demonstrations]], and [[ai-engineering-education-balancing-act|curriculum balancing]] bring AI to engineering education.

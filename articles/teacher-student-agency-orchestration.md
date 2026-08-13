@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.18761.md']
 confidence: high
 ---
 
-> **Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026)** — Carnegie Mellon University; University of Washington; Ruhr-Universität Bochum. arXiv:2605.18761 [cs.HC] — Accepted at CSCW 2026, to appear in PACM HCI
-
 Yang et al. (2026) tackle a fundamental tension in AI-augmented classrooms: how to balance teacher orchestration with student agency during dynamic transitions between individual and collaborative work. Using participatory speed dating with teachers and students, the study maps a three-stage design space (before, during, and after pairing) and proposes a hybrid-control framework for analytic-based orchestration tools.
 
 The core recommendation — structured teacher guidance initially, with progressively increasing student autonomy — provides an actionable design principle for [[intelligent-tutoring]] systems that manage classroom-level coordination. This graduated autonomy model connects to [[scaffolding]] theory and extends it from individual learning support to social-organizational support. The work also contributes to the [[teacher-role]] literature by formalizing how human-AI co-orchestration can distribute agency without undermining either party's effectiveness.

@@ -19,7 +19,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 - **Collaborative feedback systems:** [[becerra-aicofe-feedback-2026|AICoFE]] implements and deploys AI-based collaborative feedback in higher education, evaluating both system performance and student reception.
 
-- **Automated grading feedback:** [[automated-short-answer-grading]] and [[formative-assessment]] research examine whether AI-scored assessments provide feedback that matches or exceeds human grading quality.
+- **Automated grading feedback:** [[automated-grading]] and [[formative-assessment]] research examine whether AI-scored assessments provide feedback that matches or exceeds human grading quality.
 
 - **Essay scoring feedback:** [[cong-confidence-asag-2026|Confidence-aware ASAG]] and [[choi-anchor-aes-prompting-2025|anchor-based AES]] explore how confidence calibration and prompting design affect feedback quality for writing assessment.
 
@@ -58,7 +58,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[ai-generated-feedback-higher-ed]] — AI-Generated Feedback in Higher Education
 - [[teaching-feedback-classification-benchmark]] — Teaching Feedback Classification Benchmark
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Collaborative Feedback
-- [[automated-short-answer-grading]] — Automated Short Answer Grading
+- [[automated-grading]] — Automated Short Answer Grading
 - [[cong-confidence-asag-2026]] — Confidence-Aware Short Answer Grading
 - [[choi-anchor-aes-prompting-2025]] — Anchor-Based AES Prompting
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback

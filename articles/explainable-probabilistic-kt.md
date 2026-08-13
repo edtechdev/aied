@@ -8,7 +8,6 @@ sources: ['raw/papers/2605.09369.md']
 confidence: medium
 ---
 
-> **Wu, S., Xu, C., Zhang, W. (2026)** — arXiv preprint.
 ## Analysis
 
 This paper introduces **PLKT** (Probabilistic Logical Knowledge Tracing), which replaces deterministic vector embeddings with **beta-distributed probabilistic embeddings**, allowing explicit representation of uncertainty in each knowledge state.

@@ -8,8 +8,6 @@ sources: ['raw/papers/2606.30480.md']
 confidence: high
 ---
 
-> **Tran, Harper & Price (2026)** — cs.CY
-
 **Tran, Harper & Price (2026)** examine a pressing motivational paradox in contemporary computing education: the ready availability of AI tools that can complete programming assignments undermines students' willingness to invest effort in developing their own skills. Drawing on self-determination theory, the study identifies how the perception of AI as a 'shortcut' reduces autonomous motivation and fosters a transactional orientation toward learning. The findings resonate with existing work on [[over-reliance]] and [[cognitive-offloading]], suggesting that easy access to AI-generated code may erode the very persistence that produces deep learning.
 
 ## The motivational paradox

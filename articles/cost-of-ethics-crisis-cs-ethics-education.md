@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.09680.md']
 confidence: high
 ---
 
-> **Mohamed Abdalla, Sahar Abdalla, Alicia Cappello et al. (2026)** — Study of 129 CS students/recent grads in Canada and US.
-
 # Cost-of-Ethics Crisis in CS Education
 
 ## Key Findings

@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.17512.md']
 confidence: high
 ---
 
-> **Zhiqi Gao, Huarui Luo, Guo Zhu, Bingquan Zhang, Dongyijie Primo Pan, Yizhan Feng, Jiahuan Pei, Jie Li, Benyou Wang (2026)** — Institution.
 MedEasy multi-agent system simulates standardized patients with varying conditions for medical consultation training; outperforms script-based approaches in realism and adaptability.
 
 ## Synthesis

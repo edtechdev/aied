@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.00038.md']
 confidence: high
 ---
 
-> **Liu & Levy (2026)** — ArXiv.
 Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Informed Use, Critical Evaluation, Improvement) for AI literacy at NC State; the continuum doubles as a diagnostic tool for moving students beyond fluent-but-uncritical tool adoption. Found that reaching higher stages requires discipline-embedded experiences. [[ai-literacy]], [[higher-ed]], [[ethics]], [[faculty-development]], [[student-experience]].
 
 ## Key Findings

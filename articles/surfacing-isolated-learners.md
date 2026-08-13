@@ -45,6 +45,17 @@ This is one of the first systems to operationalize **human-AI co-agency** in cla
 - Preliminary findings — not yet generalizable across diverse contexts
 - Weights set by researcher co-design, not learned from data
 
+## Connected Concepts
+
+- [[administrator]]
+- [[equity-in-ai-education]]
+- [[teacher-ai-competency]]
+- [[help-seeking]]
+- [[bias-mitigation]]
+- [[k-12-ai-education]]
+- [[ai-tutoring]]
+- [[prompt-engineering]]
+
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]]

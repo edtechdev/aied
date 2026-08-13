@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.25337.md']
 confidence: medium
 ---
 
-> **Wang, Gu, Loquercio, Hu & Mangharam (2026)** — University of Pennsylvania. cs.RO, cs.AI, cs.HC.
 This paper explores how an embodied AI agent can act as a [[scaffolding|coach]] that accelerates human motor-skill development using [[adaptive-learning|reinforcement learning]]. The authors argue that effective coaching requires dynamically balancing guidance with learner autonomy — too much assistance leads to [[over-reliance]] and skill atrophy, while too little leaves learners struggling.
 
 **Key findings:**

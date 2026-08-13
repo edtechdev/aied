@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.21962.md']
 confidence: medium
 ---
 
-> **Priyamvada Tripathi, Bill Kapralos (2026)** — Ontario Tech University. Springer book chapter, Advances in Global Applied Artificial Intelligence.
-
 Serious games are widely used for learning and training across domains such as healthcare, defense, and education. This chapter examines how contemporary AI approaches may support real-time instructional adaptation in serious games.
 
 

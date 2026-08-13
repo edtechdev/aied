@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.26579.md']
 confidence: medium
 ---
 
-> **Kashika Khurana, Ally Liew (2026)** — arXiv cs.HC / cs.CY 📄 [PDF](https://arxiv.org/pdf/2606.26579)
 📄 [PDF](https://arxiv.org/pdf/2606.26579)
 
 This study investigates how different modes of AI interaction affect cognitive engagement and learning outcomes in high school students. Using a within-subjects design with 24 students, the researchers compared three conditions: **Auto mode** (AI solves problems independently), **Interactive mode** (student-AI collaboration with scaffolding), and **Manual mode** (no AI assistance). The Interactive mode produced the highest cognitive engagement and task accuracy, while the Auto mode led to reduced engagement and potential [[over-reliance]].

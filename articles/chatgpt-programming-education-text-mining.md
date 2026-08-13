@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.00361.md']
 confidence: medium
 ---
 
-> **Grume, J.C., Miranda, J.P.P., De Leon, A.P., Salenga, J.L., Hernandez, H.E., Castro, M.A.A., Maniago, V.G.M., Canlas, J.D., Quiambao, J.B. (2026)** — Pedagogical Innovations in CS Education (IGI Global).
-
 ## Analysis
 
 This book chapter presents a **text mining analysis** of how scholarly literature frames ChatGPT's role in programming education. Using term frequency analysis, phrase pattern extraction, and topic modeling, the authors identify four dominant themes: pedagogical implementation, student-centered learning, AI infrastructure, and assessment design.

@@ -22,7 +22,7 @@ The work contributes to understanding of [[ai-tutoring]] in educational contexts
 - [[socratic-method]]
 - [[physics-education]]
 - [[intelligent-tutoring]]
-- [[discourse-analysis]]
+- [[educational-nlp]]
 - [[student-experience]]
 
 ## Connected Articles

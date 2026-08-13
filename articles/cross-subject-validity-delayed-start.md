@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.25308.md']
 confidence: high
 ---
 
-> **Gutterman, Gurung, Branstetter, Koedinger & Aleven (2026)** — Carnegie Mellon University. cs.CY.
 This study examines the [[student-modeling]] validity of **delayed start behavior** — when students begin assignments or practice sessions past a recommended start time — as a predictor of learning-gains across multiple subjects. The authors test whether a behavioral detector developed for one academic domain (e.g., chemistry) can predict learning outcomes in another (e.g., physics or statistics), a property they term **cross-subject predictive validity**.
 
 **Key findings:**

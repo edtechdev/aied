@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.24142.md']
 confidence: high
 ---
 
-> **Gibson, Azukas & Yilmaz Soylu (2026)** — Curtin University, East Stroudsburg University.
-
 # Metacognitive Learning Scenarios Taxonomy
 
 This paper addresses a fundamental gap in [[metacognition]] research: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced professional development. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.

@@ -8,8 +8,6 @@ sources: ['raw/papers/2605.13906.md']
 confidence: medium
 ---
 
-> **Yimeng Sun, Haiyang Xin, Shuang Li, Qiannan Niu, Ching Sing Chai, Lingyun Huang, Gaowei Chen (2026)** — Multiple institutions. arXiv:2605.13906 [cs.CY].
-
 This study investigates how teachers design multi-agent instructional workflows and identifies three distinct **teacher archetypes** that emerge from behavioral log analysis of 61 in-service teachers:
 
 - **Systematic Optimizers**: Iteratively refine complex multi-agent architectures with a methodical, architectural focus. These teachers treat AI agent orchestration as a systems design problem.

@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.18257.md']
 confidence: high
 ---
 
-> **Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026)** — Institution.
 LLM-generated educational questions show varying cognitive depth; models excel at factual recall but struggle with higher-order thinking questions per Bloom's taxonomy.
 
 ## Synthesis

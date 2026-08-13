@@ -19,11 +19,11 @@ Physics education research has become a proving ground for AI in education becau
 
 **Assessment and computational thinking** examines how AI can evaluate physics learning. **[[llm-computational-thinking-physics-2026|Savage et al.]]** used LLMs to assess computational thinking growth in introductory physics, finding LLMs can scale CT assessment but struggle with complex constructs like Systems Thinking. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** demonstrated that AI scoring systematically underestimates linguistically weak students' physics explanations — a finding that connects to [[assessment-validity]], [[bias-mitigation]], and [[equity-in-ai-education]].
 
-**Teacher preparation and simulation** uses AI to train physics teachers. **[[multiagent-classroom-dual-process-physics-teachers-2026|Tufino]]** created a simulated multi-agent classroom where five AI students enact dual-process theory reasoning hazards, giving prospective physics teachers rare practice in responding to authentic student reasoning. This connects to [[teacher-training]], [[dual-process-theory]], and [[simulation]]-based learning.
+**Teacher preparation and simulation** uses AI to train physics teachers. **[[multiagent-classroom-dual-process-physics-teachers-2026|Tufino]]** created a simulated multi-agent classroom where five AI students enact dual-process theory reasoning hazards, giving prospective physics teachers rare practice in responding to authentic student reasoning. This connects to [[professional-training]], [[dual-process-theory]], and [[simulation]]-based learning.
 
 ### Connections to related concepts
 
-Physics education sits within the broader [[stem-education]] domain but has distinctive connections: to [[socratic-method]] through the strong tradition of Socratic dialogue in physics problem-solving; to [[computational-thinking]] through the increasing role of computation in physics; to [[assessment-validity]] through the challenges of scoring physics explanations; and to [[teacher-training]] through simulation-based preparation. The [[student-experience]] and [[ai-literacy]] concepts are essential for understanding how physics students navigate AI tools, while [[educational-measurement]] and [[automated-grading]] connect to the assessment dimension.
+Physics education sits within the broader [[stem-education]] domain but has distinctive connections: to [[socratic-method]] through the strong tradition of Socratic dialogue in physics problem-solving; to [[computational-thinking]] through the increasing role of computation in physics; to [[assessment-validity]] through the challenges of scoring physics explanations; and to [[professional-training]] through simulation-based preparation. The [[student-experience]] and [[ai-literacy]] concepts are essential for understanding how physics students navigate AI tools, while [[educational-measurement]] and [[automated-grading]] connect to the assessment dimension.
 
 ## Connected Concepts
 
@@ -41,7 +41,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[automated-grading]]
 - [[educational-measurement]]
 - [[learning-analytics]]
-- [[teacher-training]]
+- [[professional-training]]
 - [[dual-process-theory]]
 - [[simulation]]
 - [[generative-ai]]

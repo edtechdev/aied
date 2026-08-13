@@ -30,6 +30,17 @@ The core argument is that **effective tutoring requires corrective friction** â€
 
 The paper advocates treating **kind-but-correct behavior** as a **safety requirement** for educational LLMs, not merely a usability preference â€” echoing calls for [[educational-llm-alignment]] that goes beyond standard RLHF. This benchmark fills a gap between [[ai-tutor-behavioral-evaluation]] approaches and security-focused evaluation frameworks like the [[ai-tutor-safety-harms]] analysis.
 
+## Connected Concepts
+
+- [[hallucination-risk]]
+- [[over-reliance]]
+- [[human-in-the-loop-ai]]
+- [[pedagogical-safety]]
+- [[rag]]
+- [[pedagogical-llm-training]]
+- [[affective-computing]]
+- [[llm]]
+
 ## Connected Articles
 
 - [[pedagogical-safety-rl]]

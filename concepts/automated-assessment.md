@@ -11,7 +11,7 @@ confidence: high
 
 ### Assessment modalities
 
-- **Short answer and essay:** [[automated-short-answer-grading]], [[automated-essay-scoring]], and [[cong-confidence-asag-2026|confidence-aware approaches]] handle free-text evaluation.
+- **Short answer and essay:** [[automated-grading]], [[automated-essay-scoring]], and [[cong-confidence-asag-2026|confidence-aware approaches]] handle free-text evaluation.
 - **Code assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Bash grading]] and [[code-review-genai-cs1|code review]] demonstrate programming assessment.
 - **Formative assessment:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] focus on formative rather than summative use.
 - **Performance assessment:** [[engagement-assessment-video|Video engagement assessment]] and [[confidence-aware-student-drawing-assessment|drawing assessment]] extend automation beyond text.
@@ -41,7 +41,7 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[competency-based-education-genai-production-2026]]
 - [[multimodal-item-parameter-estimation-2026]]
 
-- [[automated-short-answer-grading]]
+- [[automated-grading]]
 - [[automated-formative-assessments-a-level-sciences]]
 - [[cong-confidence-asag-2026]]
 - [[ai-scoring-language-bias-physics]]

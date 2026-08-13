@@ -8,7 +8,6 @@ sources: ['raw/papers/2606.01517.md']
 confidence: high
 ---
 
-> **Vinicius Santana Gomes (2026)** — arXiv:2606.01517.
 Through Brazilian government case studies, demonstrates that a four-layer pedagogical methodology (Literacy, Protocol, Prompt Engineering, Audit) is the key to productivity gains (up to 50%), rather than premium models. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
 
 ## Key Findings

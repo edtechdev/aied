@@ -12,7 +12,7 @@ confidence: high
 
 ## Key Findings
 
-1. **The challenge of interdisciplinary sensemaking.** Students in interdisciplinary [[project-based-learning]] must negotiate differences in language, assumptions, priorities, and practices, yet these differences are hard to surface in fragmented text-based team communication where AI tools often become private side channels.
+1. **The challenge of interdisciplinary sensemaking.** Students in interdisciplinary [[active-learning]] must negotiate differences in language, assumptions, priorities, and practices, yet these differences are hard to surface in fragmented text-based team communication where AI tools often become private side channels.
 
 2. **Spritz as a mediating probe.** Spritz monitors group chat for semantic or pragmatic boundary signals, prompts members to articulate perspectives through private channels, and returns anonymized syntheses to shared discussion. A technology probe study and co-design workshop ran with 12 university students across technical, business, and design backgrounds.
 
@@ -22,22 +22,22 @@ confidence: high
 
 ## Implications
 
-This study contributes empirical insight and design considerations for AI systems that mediate [[collaborative-learning]] in text-based communication while preserving [[human-ai-collaboration]], trust, privacy, and accountability. The finding that AI's perceived neutrality is load-bearing — and that it erodes when AI becomes a decisive actor — is a key design constraint for educational [[conversational-agents]].
+This study contributes empirical insight and design considerations for AI systems that mediate [[collaborative-learning]] in text-based communication while preserving [[human-ai-collaboration]], trust, privacy, and accountability. The finding that AI's perceived neutrality is load-bearing — and that it erodes when AI becomes a decisive actor — is a key design constraint for educational [[pedagogical-agent]].
 
-For [[project-based-learning]] and [[higher-ed]], the work shows how LLM-mediated boundary objects can help interdisciplinary teams surface implicit assumptions rather than bypassing them, aligning with theories of boundary objects and knowledge integration. The tension between helpful mediation and illegitimate influence echoes broader concerns in [[trust-calibration]] and [[teacher-role]] debates about how much agency AI should hold in collaborative settings.
+For [[active-learning]] and [[higher-ed]], the work shows how LLM-mediated boundary objects can help interdisciplinary teams surface implicit assumptions rather than bypassing them, aligning with theories of boundary objects and knowledge integration. The tension between helpful mediation and illegitimate influence echoes broader concerns in [[trust-calibration]] and [[teacher-role]] debates about how much agency AI should hold in collaborative settings.
 
-The anonymized-synthesis design also models [[privacy]]-respecting intervention, and the switchable-role imagination suggests future [[human-in-the-loop]] designs where teams can configure the AI's stance.
+The anonymized-synthesis design also models [[privacy]]-respecting intervention, and the switchable-role imagination suggests future [[human-in-the-loop-ai]] designs where teams can configure the AI's stance.
 
 ## Connected Concepts
 
 - [[collaborative-learning]]
-- [[conversational-agents]]
+- [[pedagogical-agent]]
 - [[human-ai-collaboration]]
 - [[human-in-the-loop-ai]]
 - [[llm]]
 - [[privacy]]
-- [[project-based-learning]]
-- [[qualitative-research]]
+- [[active-learning]]
+- Qualitative Research
 - [[student-experience]]
 - [[trust-calibration]]
 
