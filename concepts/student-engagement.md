@@ -1,0 +1,55 @@
+---
+title: Student Engagement
+created: 2026-08-13
+updated: 2026-08-13
+type: concept
+tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics]
+confidence: high
+---
+
+> **Student engagement** — the degree and quality of a learner's active involvement in the learning process, most often decomposed into behavioral, cognitive, and affective dimensions. In AI-education research, student engagement is both a key outcome (does an AI tool keep students engaged?) and a mechanism (does engagement mediate between AI design and learning?). It is conceptually distinct from the specific [[engagement-metrics]] used to measure it, and from learning itself — engagement is participation in learning, not proof of cognitive gain.
+
+Engagement is a multidimensional construct rooted in educational psychology. **Behavioral engagement** refers to participation, effort, persistence, and on-task activity. **Cognitive engagement** refers to the depth of mental processing — elaboration, critical analysis, self-regulation, and the investment of mental effort. **Affective engagement** refers to emotional reactions such as interest, enjoyment, anxiety, and identification with learning. These dimensions can diverge: a student may be behaviorally active (clicking, spending time) while cognitively shallow (passively accepting output), or affectively interested while behaviorally distracted. This multidimensionality is why engagement must not be equated with any single observable behavior.
+
+### How student engagement appears in the research
+
+- **Engagement as an outcome of AI design:** [[genai-motivation-engagement-2026|GenAI motivation research]] shows that engagement in generative-AI-supported learning follows the satisfaction of basic psychological needs ([[self-determination-theory|autonomy, competence, relatedness]]) — engagement is the downstream result of motivational support, not of technology availability alone.
+
+- **Quality over quantity:** [[critical-engagement-code-completion|Critical engagement in AI code completion]], [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]], and [[scaffolding-critical-engagement-genai-minority-students|scaffolding critical engagement]] show that *deep* (cognitive) engagement with AI predicts learning, while *shallow* (behavioral) engagement predicts the [[over-reliance]] and learning displacement that dominate the wiki's risk literature.
+
+- **Fragile and context-dependent:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] and [[genai-tutor-engagement-patterns|multi-institution engagement patterns]] find engagement varies by task, context, and learner — an AI tool that engages one student deeply may produce shallow, output-chasing behavior in another.
+
+- **Motivational antecedents:** [[ai-availability-student-motivation|AI availability and motivation]] shows that knowing AI is available can reduce the perceived value of effortful engagement, particularly for novice learners — engagement is shaped by expectancy, value, and perceived competence as much as by tool features.
+
+### Engagement vs. learning
+
+A central theme in the wiki's research is that engagement and learning must be distinguished. AI tools that generate high engagement (time on task, interaction volume) may not produce learning if that engagement is passive or substitutes for the cognitive work of understanding — see [[genai-performance-vs-learning|performance vs. learning]]. Conversely, productive struggle and desirable difficulty can produce learning even when surface engagement feels lower. Engagement is therefore best treated as a *mechanism* — valuable insofar as it reflects or enables meaningful cognitive processing — rather than a terminal outcome.
+
+### Connections to related concepts
+
+Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[engagement-metrics]] and [[learning-analytics]]. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[over-reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[efficacy-study]] evaluations of AI-education interventions.
+
+## Connected Concepts
+
+- [[engagement-metrics]]
+- [[motivation]]
+- [[self-determination-theory]]
+- [[student-experience]]
+- [[learning-analytics]]
+- [[self-regulated-learning]]
+- [[over-reliance]]
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
+- [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion
+- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse
+- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns
+- [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement
+- [[ai-availability-student-motivation]] — "Why Put in This Much Effort?": How AI Availability Shapes Motivation
+- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
+- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement With GenAI
+- [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal
