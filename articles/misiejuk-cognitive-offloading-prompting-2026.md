@@ -1,39 +1,39 @@
 ---
 title: "Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies"
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-13
 type: article
-tags: [cognitive-offloading, prompting-literacy, higher-ed, student-experience, learning-analytics, ai-literacy, generative-ai, llm, cognitive-load-theory]
-sources: ['raw/papers/misiejuk-cognitive-offloading-prompting-2026.md']
+tags: [cognitive-offloading, prompting-literacy, higher-ed, student-experience, learning-analytics, ai-literacy, generative-ai, llm, cognitive-load-theory, over-reliance]
+sources: ['raw/papers/10.1016_j.chbr.2026.101130.md']
 confidence: high
 ---
 
-> **Synthesis:** Misiejuk, López-Pernas, Kaliisa & Saqr (2026) analyze 281 prompts from 122 student submissions across four assignments to examine how prompting strategies reveal cognitive offloading in student–AI collaboration. High-quality submissions show cohesive patterns integrating contextual details, instructions, and polite language; low-quality submissions are characterized by disagreement and direct instruction without contextual groundwork. The study uses Co-Occurrence Network Analysis (CNA) to map how students distribute cognitive effort when working with LLMs.
+> **Synthesis:** Misiejuk, López-Pernas, Kaliisa, and Saqr (2026) analyze 281 prompts from 122 student submissions across four assignments to examine how prompting strategies reveal cognitive offloading in student–AI collaboration. Using qualitatively coded prompts and Co-Occurrence Network Analysis (CNA), they found that high-quality submissions demonstrated cohesive prompting patterns integrating contextual details, instructions, and polite language — leading to fewer disagreements and more effective task guidance — while low-quality submissions were characterized by disagreement and direct instructions with limited contextualization. Notably, across both groups a convergence toward low-effort, direct instruction emerged, suggesting AI "leveled" achievement by encouraging cognitive laziness and reducing the incentive for deeper cognitive engagement.
 
 ## Key Findings
 
-- **281 prompts from 122 submissions** across 4 assignments in a social network analysis course at a Finnish university
-- **High-quality submissions:** Cohesive prompting with *context–instruction–polite language* triads, fewer disagreements — indicating students provided domain knowledge and guided AI output, then critically engaged with results
-- **Low-quality submissions:** Characterized by *disagreement–instruction* patterns, limited contextualization, and little constructive engagement — students issued orders and reacted negatively when AI didn't deliver
-- **Polite language surprisingly significant:** Not mere social convention — polite prompts correlated with more deliberate, effortful interaction patterns
-- **Disagreement as offloading indicator:** Reactive codes (disagreement, agreement) reflect higher cognitive offloading — the student is reacting to AI output rather than directing the interaction with their own knowledge
+- **281 prompts from 122 submissions** were analyzed across four assignments in a course where students used LLMs to generate social network datasets.
+- **High-quality submissions** showed cohesive prompting with strong *context–instruction–output-specification–polite-language* connections (e.g., context–instruction 0.25, output specification–instruction 0.28), with students providing domain knowledge and contextual details rather than delegating interpretation to the LLM — resulting in fewer disagreements.
+- **Low-quality submissions** were characterized by *disagreement–instruction* and *disagreement–output-specification* patterns with limited contextualization, indicating students issued orders and reacted negatively when AI didn't deliver, without contributing their own knowledge.
+- **Cognitive offloading was asymmetric:** reactive codes (disagreement, agreement) reflect higher offloading — the student reacts to AI output rather than directing the interaction with their own reasoning.
+- **A "leveling" tendency emerged:** across both quality groups, prompting converged toward low-effort, direct instruction over time; high achievers accepted AI output with minimal critical engagement, and low performers' inertia was reinforced. The convenience of AI reduced the incentive for refinement and deeper cognitive effort, effectively lowering the standard of engagement to the cohort's minimal common denominator.
+- **Longitudinal divergence:** the similarity between high- and low-quality prompting patterns was high in Assignments 1–3 (Pearson correlations 0.952, 0.935, 0.982) but dropped sharply in Assignment 4 (0.485), as disagreement-dominated patterns became more prominent in low-quality submissions.
 
-## Methodology
+## Study Design & Method
 
-Students used LLMs to generate network datasets meeting specified criteria. Each prompt was binary-coded for 6 categories: *Instruction*, *Context*, *Output specification*, *Disagreement*, *Agreement*, and *Polite language*. Co-Occurrence Network Analysis (CNA) was then applied to map how code combinations clustered within prompts across high- and low-quality submission groups.
+This longitudinal study analyzed student–AI interactions in a semester-long social network analysis course at a Finnish university. Students used LLMs to generate their own network datasets meeting specified criteria across four assignments. A total of 281 prompts from 122 submissions were qualitatively coded into six binary categories: *Instruction*, *Context*, *Output specification*, *Disagreement*, *Agreement*, and *Polite language*. **Co-Occurrence Network Analysis (CNA)** was applied to map how prompt-code combinations clustered within and across submissions, with separate networks for high- and low-quality submissions, subtraction networks to quantify differentiating connections, and centrality analysis (in-strength, diffusion). Longitudinal networks tracked patterns across the four assignments, with Pearson/Spearman correlations quantifying convergence or divergence between the quality groups over time.
 
 ## Implications for AI in Education
 
-This study directly contributes to understanding [[cognitive-offloading]] in practice — not as a theoretical concern but as observable patterns in how students distribute cognitive effort. High-quality submissions did **not** avoid AI use; they integrated AI use with active cognitive engagement. This aligns with [[genai-performance-vs-learning]] findings that how students use AI matters more than whether they use it.
+The study contributes to understanding [[cognitive-offloading]] as observable patterns in student prompting, not just a theoretical concern. It shows high-quality AI use integrates active cognitive engagement (contextual prompting, specifying expectations) rather than avoiding AI, connecting to [[genai-performance-vs-learning|distinguishing performance gains from learning]] and the finding that *how* students use AI matters more than *whether* they use it. The "leveling" tendency and cognitive-laziness finding support [[over-reliance]] research and [[cognitive-load-theory]]: excessive offloading risks diminishing the germane cognitive load needed for transferable mental models. The contextual-prompting finding supports [[scaffolding]] approaches that teach students to prompt with context, and the longitudinal dimension shows prompting strategies evolve with practice, informing [[ai-literacy]] curriculum design and [[learning-analytics]] approaches for monitoring student–AI collaboration.
 
-The finding that *contextual prompting* (providing domain details in prompts) correlates with quality connects to [[prompt-engineering]] and [[prompt-engineering]] research. It also supports [[scaffolding]] approaches that teach students to prompt with context rather than issuing bare instructions. The longitudinal dimension — tracking patterns across 4 assignments — provides evidence that prompting strategies evolve with practice, relevant to [[ai-literacy]] curriculum design.
+## Limitations
 
-The [[cognitive-load-theory]] framing connects to [[over-reliance]] research: when students offload generative work without contributing domain knowledge, learning suffers even if task completion looks successful.
+The study is context-specific (a social network analysis course, LLM-based dataset generation), and the prompting patterns may not generalize to other task types or disciplines. The "leveling" tendency could reflect the specific task design (minimal-effort tasks with plausible instant outputs) rather than a general characteristic of LLM-assisted work, as the authors acknowledge. The sample is 281 prompts from 122 submissions at a single university. Prompt quality was inferred from output quality, and the relationship between prompting behavior and learning outcomes is not directly causally tested.
 
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[prompt-engineering]]
 - [[prompt-engineering]]
 - [[ai-literacy]]
 - [[cognitive-load-theory]]
@@ -42,10 +42,11 @@ The [[cognitive-load-theory]] framing connects to [[over-reliance]] research: wh
 - [[higher-ed]]
 - [[scaffolding]]
 - [[learning-analytics]]
+- [[self-regulated-learning]]
 
 ## Connected Articles
 
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
+- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
 - [[genai-can-harm-teaching-rct-2026]] — GenAI Tools: Improving Teaching Quality?
 - [[instructional-guidance-genai-learning]] — Instructional Guidance and GenAI Learning
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work
@@ -53,4 +54,4 @@ The [[cognitive-load-theory]] framing connects to [[over-reliance]] research: wh
 
 ## Citation
 
-Misiejuk, K., López-Pernas, S., Kaliisa, R., & Saqr, M. (2026). [*Cognitive offloading in student–AI collaboration: A longitudinal analysis of prompting strategies*](https://doi.org/10.1016/j.chbr.2026.101130). *Computers in Human Behavior Reports*, 22, 101130. doi:10.1016/j.chbr.2026.101130.
+Misiejuk, K., López-Pernas, S., Kaliisa, R., & Saqr, M. (2026). [*Cognitive offloading in student–AI collaboration: A longitudinal analysis of prompting strategies*](https://doi.org/10.1016/j.chbr.2026.101130). *Computers in Human Behavior Reports*, 22, 101130.
