@@ -28,6 +28,15 @@ For education, the argument shifts the goal of AI literacy instruction from comp
 
 ## Connected Concepts
 
+- [[ai-literacy]]
+- [[critical-thinking]]
+- [[equity]]
+- [[student-experience]]
+- [[equity-in-ai-education]]
+- [[teacher-ai-competency]]
+- [[bias-mitigation]]
+- [[k-12-ai-education]]
+
 ## Connected Articles
 
 

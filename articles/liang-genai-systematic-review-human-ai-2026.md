@@ -21,6 +21,15 @@ This BJET review synthesizes 56 empirical studies on GenAI in education, uniquel
 
 ## Connected Concepts
 
+- [[prompt-engineering]]
+- [[affective-tutoring]]
+- [[automated-essay-scoring]]
+- [[curriculum-design]]
+- [[plagiarism-detection]]
+- [[student-experience]]
+- [[administrator]]
+- [[equity-in-ai-education]]
+
 ## Connected Articles
 
 

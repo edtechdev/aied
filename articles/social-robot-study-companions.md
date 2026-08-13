@@ -28,6 +28,15 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Connected Concepts
 
+- [[math-education]]
+- [[pedagogical-agent]]
+- [[design-thinking]]
+- [[open-source]]
+- [[agentic-ai]]
+- [[stem-education]]
+- [[ai-tutoring]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

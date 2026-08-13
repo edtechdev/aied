@@ -28,6 +28,15 @@ The central conclusion is that **general-purpose helpfulness is not a reliable p
 
 ## Connected Concepts
 
+- [[ai-tutoring]]
+- [[pedagogical-llm-training]]
+- [[affective-tutoring]]
+- [[automated-question-generation]]
+- [[benchmark]]
+- [[personalized-learning]]
+- [[knowledge-tracing]]
+- [[socratic-ai-dialogue]]
+
 ## Connected Articles
 
 

@@ -31,6 +31,15 @@ For [[equity]] in [[edtech-platform]] design, the proposal implies that generati
 
 ## Connected Concepts
 
+- [[affective-computing]]
+- [[knowledge-tracing]]
+- [[personalized-learning]]
+- [[affective-tutoring]]
+- [[teacher-ai-competency]]
+- [[pedagogical-agent]]
+- [[equity]]
+- [[bias-mitigation]]
+
 ## Connected Articles
 
 

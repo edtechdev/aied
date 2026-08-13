@@ -33,6 +33,15 @@ The authors note that the rapid evolution of GenAI makes it difficult to separat
 
 ## Connected Concepts
 
+- [[higher-ed]]
+- [[student-experience]]
+- [[ai-literacy]]
+- [[math-education]]
+- [[prompt-engineering]]
+- [[human-in-the-loop-ai]]
+- [[affective-tutoring]]
+- [[plagiarism-detection]]
+
 ## Connected Articles
 
 

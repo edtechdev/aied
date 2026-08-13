@@ -28,6 +28,15 @@ For [[design-thinking]]-oriented disciplines, the results suggest GenAI is best 
 
 ## Connected Concepts
 
+- [[higher-ed]]
+- [[design-thinking]]
+- [[socratic-ai-dialogue]]
+- [[teacher-role]]
+- [[math-education]]
+- [[prompt-engineering]]
+- [[affective-tutoring]]
+- [[plagiarism-detection]]
+
 ## Connected Articles
 
 

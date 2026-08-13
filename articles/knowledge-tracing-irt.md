@@ -62,6 +62,15 @@ This framework is an enabler for [[tutoring-specific-vs-general-ai|tutoring-spec
 
 ## Connected Concepts
 
+- [[affective-computing]]
+- [[knowledge-tracing]]
+- [[reinforcement-learning]]
+- [[lifelong-learning]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[affective-tutoring]]
+- [[pedagogical-agent]]
+
 ## Connected Articles
 
 - [[huang-interpretable-knowledge-tracing-2026]]

@@ -28,6 +28,15 @@ For the [[benchmark]] community and for AI tutor deployment, the findings argue 
 
 ## Connected Concepts
 
+- [[ai-tutoring]]
+- [[pedagogical-llm-training]]
+- [[agentic-ai]]
+- [[affective-tutoring]]
+- [[scaffolding]]
+- [[help-seeking]]
+- [[pedagogical-agent]]
+- [[affective-computing]]
+
 ## Connected Articles
 
 

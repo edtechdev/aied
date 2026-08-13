@@ -16,6 +16,15 @@ AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated In
 
 ## Connected Concepts
 
+- [[affective-tutoring]]
+- [[equity-in-ai-education]]
+- [[teacher-ai-competency]]
+- [[bias-mitigation]]
+- [[affective-computing]]
+- [[lifelong-learning]]
+- [[computational-thinking]]
+- [[k-12-ai-education]]
+
 ## Connected Articles
 
 

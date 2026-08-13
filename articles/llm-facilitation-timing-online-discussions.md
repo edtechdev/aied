@@ -37,6 +37,15 @@ For online learning environments — MOOC-style forums and classroom discussion 
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[collaborative-learning]]
+- [[administrator]]
+- [[pedagogical-agent]]
+- [[automated-question-generation]]
+- [[ai-ed-evaluation]]
+- [[affective-computing]]
+- [[prompt-engineering]]
+
 ## Connected Articles
 
 

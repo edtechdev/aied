@@ -28,6 +28,15 @@ The results give computing instructors an evidence base for purposeful use: AI-g
 
 ## Connected Concepts
 
+- [[cs-education]]
+- [[student-experience]]
+- [[instructional-design]]
+- [[math-education]]
+- [[administrator]]
+- [[socratic-ai-dialogue]]
+- [[physics-education]]
+- [[pedagogical-agent]]
+
 ## Connected Articles
 
 

@@ -32,6 +32,15 @@ The authors identify several design constraints: the one-group pre-/post-test de
 
 ## Connected Concepts
 
+- [[ai-literacy]]
+- [[computational-thinking]]
+- [[instructional-design]]
+- [[k-12]]
+- [[teacher-role]]
+- [[faculty-development]]
+- [[affective-tutoring]]
+- [[automated-essay-scoring]]
+
 ## Connected Articles
 
 

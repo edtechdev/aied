@@ -16,6 +16,15 @@ Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Ava
 
 ## Connected Concepts
 
+- [[socratic-ai-dialogue]]
+- [[lifelong-learning]]
+- [[ai-tutoring]]
+- [[prompt-engineering]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[affective-tutoring]]
+- [[automated-essay-scoring]]
+
 ## Connected Articles
 
 

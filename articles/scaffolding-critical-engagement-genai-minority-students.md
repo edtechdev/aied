@@ -24,6 +24,15 @@ Results indicate pedagogical scaffolding can transform how minoritized students 
 
 ## Connected Concepts
 
+- [[reducing-ai-misuse]]
+- [[help-seeking]]
+- [[metacognition]]
+- [[prompt-engineering]]
+- [[affective-tutoring]]
+- [[automated-essay-scoring]]
+- [[student-experience]]
+- [[equity-in-ai-education]]
+
 ## Connected Articles
 
 

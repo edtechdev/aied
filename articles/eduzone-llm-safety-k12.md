@@ -24,6 +24,15 @@ Results show greater vulnerability to education-specific risks and dynamic multi
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[pedagogical-safety]]
+- [[pedagogical-llm-training]]
+- [[reinforcement-learning]]
+- [[educational-policy-ai]]
+- [[ethics]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

@@ -29,6 +29,15 @@ For AI in education, the Moltbook analysis suggests that multi-agent systems can
 
 ## Connected Concepts
 
+- [[agentic-ai]]
+- [[collaborative-learning]]
+- [[learning-analytics]]
+- [[adaptive-learning]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[administrator]]
+- [[help-seeking]]
+
 ## Connected Articles
 
 

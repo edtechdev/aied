@@ -30,6 +30,15 @@ The keep/change/center/study framework gives researchers and developers a discip
 
 ## Connected Concepts
 
+- [[knowledge-tracing]]
+- [[intelligent-tutoring]]
+- [[lifelong-learning]]
+- [[personalized-learning]]
+- [[affective-tutoring]]
+- [[scaffolding]]
+- [[pedagogical-agent]]
+- [[pedagogical-llm-training]]
+
 ## Connected Articles
 
 

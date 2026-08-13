@@ -28,6 +28,15 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Connected Concepts
 
+- [[help-seeking]]
+- [[ai-tutoring]]
+- [[pedagogical-llm-training]]
+- [[benchmark]]
+- [[affective-tutoring]]
+- [[socratic-ai-dialogue]]
+- [[pedagogical-agent]]
+- [[automated-question-generation]]
+
 ## Connected Articles
 
 

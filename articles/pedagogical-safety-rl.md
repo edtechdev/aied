@@ -58,6 +58,15 @@ This parallels concerns in [[educational-llm-alignment]] where benchmark misalig
 
 ## Connected Concepts
 
+- [[reinforcement-learning]]
+- [[affective-tutoring]]
+- [[knowledge-tracing]]
+- [[help-seeking]]
+- [[pedagogical-llm-training]]
+- [[affective-computing]]
+- [[lifelong-learning]]
+- [[socratic-method]]
+
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]]

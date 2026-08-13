@@ -22,6 +22,15 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 ## Connected Concepts
 
+- [[ai-ed-evaluation]]
+- [[bias-mitigation]]
+- [[benchmark]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[knowledge-tracing]]
+- [[generative-ai]]
+- [[automated-essay-scoring]]
+
 ## Connected Articles
 
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education

@@ -75,6 +75,15 @@ This is a strong result for AI feedback systems:
 
 ## Connected Concepts
 
+- [[ai-feedback-quality]]
+- [[administrator]]
+- [[socratic-ai-dialogue]]
+- [[automated-question-generation]]
+- [[affective-computing]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[socratic-method]]
+
 ## Connected Articles
 
 

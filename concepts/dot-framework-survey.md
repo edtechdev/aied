@@ -45,6 +45,15 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 ## Connected Concepts
 
 
+- [[dot-framework-survey]]
+- [[ai-literacy]]
+- [[design-thinking]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[human-in-the-loop-ai]]
+- [[ai-governance-education]]
+- [[human-ai-collaboration]]
+
 ## Connected Articles
 
 

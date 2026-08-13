@@ -32,6 +32,15 @@ The author notes that the small sample size (28 postgraduate students) limits th
 
 ## Connected Concepts
 
+- [[prompt-engineering]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[multimodal]]
+- [[automated-essay-scoring]]
+- [[reducing-ai-misuse]]
+- [[affective-tutoring]]
+- [[cs-education]]
+
 ## Connected Articles
 
 

@@ -16,6 +16,15 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
 
 ## Connected Concepts
 
+- [[ai-feedback-quality]]
+- [[automated-assessment]]
+- [[scaffolding]]
+- [[equity-in-ai-education]]
+- [[teacher-ai-competency]]
+- [[socratic-ai-dialogue]]
+- [[automated-question-generation]]
+- [[learning-analytics]]
+
 ## Connected Articles
 
 

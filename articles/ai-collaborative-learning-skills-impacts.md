@@ -36,6 +36,15 @@ The study's central message is that LLMs must be **designed and deployed to supp
 
 ## Connected Concepts
 
+- [[higher-ed]]
+- [[collaborative-learning]]
+- [[critical-thinking]]
+- [[self-regulated-learning]]
+- [[generative-ai]]
+- [[socratic-method]]
+- [[math-education]]
+- [[creativity]]
+
 ## Connected Articles
 
 

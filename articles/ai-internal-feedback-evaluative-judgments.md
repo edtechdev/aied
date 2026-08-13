@@ -41,6 +41,15 @@ The study demonstrates a practical strategy for turning GenAI into a **scaffold 
 
 ## Connected Concepts
 
+- [[self-regulated-learning]]
+- [[assessment]]
+- [[feedback-loop]]
+- [[metacognition]]
+- [[ai-tutoring]]
+- [[reducing-ai-misuse]]
+- [[math-education]]
+- [[prompt-engineering]]
+
 ## Connected Articles
 
 

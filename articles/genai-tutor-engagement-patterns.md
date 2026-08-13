@@ -37,6 +37,15 @@ Context mattered. At highly selective universities, the proportion of deep engag
 
 ## Connected Concepts
 
+- [[higher-ed]]
+- [[affective-computing]]
+- [[socratic-method]]
+- [[affective-tutoring]]
+- [[administrator]]
+- [[teacher-ai-competency]]
+- [[socratic-ai-dialogue]]
+- [[help-seeking]]
+
 ## Connected Articles
 
 

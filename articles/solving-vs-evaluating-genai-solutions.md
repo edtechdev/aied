@@ -28,6 +28,15 @@ The results speak directly to the debate over how computing educators should res
 
 ## Connected Concepts
 
+- [[higher-ed]]
+- [[cs-education]]
+- [[critical-thinking]]
+- [[math-education]]
+- [[administrator]]
+- [[socratic-ai-dialogue]]
+- [[physics-education]]
+- [[pedagogical-agent]]
+
 ## Connected Articles
 
 

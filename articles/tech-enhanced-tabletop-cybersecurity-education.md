@@ -28,6 +28,15 @@ The work demonstrates how technology enhancement can close the gap between profe
 
 ## Connected Concepts
 
+- [[cs-education]]
+- [[active-learning]]
+- [[higher-ed]]
+- [[learning-analytics]]
+- [[professional-training]]
+- [[socratic-ai-dialogue]]
+- [[math-education]]
+- [[curriculum-design]]
+
 ## Connected Articles
 
 

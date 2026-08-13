@@ -38,6 +38,15 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 
 ## Connected Concepts
 
+- [[curriculum-design]]
+- [[equity-in-ai-education]]
+- [[teacher-ai-competency]]
+- [[bias-mitigation]]
+- [[ai-ed-evaluation]]
+- [[k-12-ai-education]]
+- [[ai-education]]
+- [[instructional-design]]
+
 ## Connected Articles
 
 

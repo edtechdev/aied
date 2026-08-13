@@ -15,6 +15,15 @@ Team-based projects are a cornerstone of engineering and computing courses, but 
 
 ## Connected Concepts
 
+- [[pedagogical-agent]]
+- [[affective-computing]]
+- [[knowledge-tracing]]
+- [[administrator]]
+- [[socratic-ai-dialogue]]
+- [[automated-question-generation]]
+- [[agentic-ai]]
+- [[socratic-method]]
+
 ## Connected Articles
 
 

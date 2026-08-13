@@ -42,6 +42,15 @@ The study demonstrates that **AI functions most effectively as a collaborative l
 
 ## Connected Concepts
 
+- [[higher-ed]]
+- [[collaborative-learning]]
+- [[critical-thinking]]
+- [[generative-ai]]
+- [[socratic-method]]
+- [[math-education]]
+- [[creativity]]
+- [[prompt-engineering]]
+
 ## Connected Articles
 
 

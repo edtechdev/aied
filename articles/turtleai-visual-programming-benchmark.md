@@ -16,6 +16,15 @@ Vision-language models (VLMs) have been explored for visual programming, where t
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[pedagogical-llm-training]]
+- [[computational-thinking]]
+- [[stem-education]]
+- [[math-education]]
+- [[educational-policy-ai]]
+- [[formative-assessment]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

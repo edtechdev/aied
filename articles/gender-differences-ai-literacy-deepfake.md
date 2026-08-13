@@ -31,6 +31,15 @@ For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive
 
 ## Connected Concepts
 
+- [[ai-literacy]]
+- [[administrator]]
+- [[teacher-ai-competency]]
+- [[equity]]
+- [[bias-mitigation]]
+- [[agentic-ai]]
+- [[k-12-ai-education]]
+- [[k-12]]
+
 ## Connected Articles
 
 

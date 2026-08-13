@@ -23,6 +23,15 @@ This model bridges [[agentic-workflows-education]] and practical classroom imple
 
 ## Connected Concepts
 
+- [[math-education]]
+- [[pedagogical-agent]]
+- [[reinforcement-learning]]
+- [[intelligent-tutoring]]
+- [[socratic-ai-dialogue]]
+- [[active-learning]]
+- [[teacher-role]]
+- [[lifelong-learning]]
+
 ## Connected Articles
 
 - [[agentic-workflows-education]]

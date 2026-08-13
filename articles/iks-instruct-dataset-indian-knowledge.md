@@ -29,6 +29,15 @@ The evaluation shows that a compact, domain-tuned model can approach the IKS-spe
 
 ## Connected Concepts
 
+- [[language-learning]]
+- [[culturally-relevant-pedagogy]]
+- [[adaptive-learning]]
+- [[knowledge-tracing]]
+- [[pedagogical-agent]]
+- [[open-source]]
+- [[affective-computing]]
+- [[reinforcement-learning]]
+
 ## Connected Articles
 
 

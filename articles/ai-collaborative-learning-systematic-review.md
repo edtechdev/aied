@@ -44,6 +44,15 @@ For educators and institutions, the review frames AI not as a replacement for co
 
 ## Connected Concepts
 
+- [[higher-ed]]
+- [[collaborative-learning]]
+- [[human-in-the-loop-ai]]
+- [[administrator]]
+- [[affective-computing]]
+- [[generative-ai]]
+- [[math-education]]
+- [[prompt-engineering]]
+
 ## Connected Articles
 
 

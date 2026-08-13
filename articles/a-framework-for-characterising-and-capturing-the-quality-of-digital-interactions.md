@@ -16,6 +16,15 @@ This study introduces a Digital Interactions Quality (DigIQ) framework and scale
 
 ## Connected Concepts
 
+- [[rag]]
+- [[intelligent-tutoring]]
+- [[adult-learning]]
+- [[socratic-method]]
+- [[math-education]]
+- [[higher-ed]]
+- [[accessible-learning]]
+- [[human-in-the-loop-ai]]
+
 ## Connected Articles
 - [[ai-learning-assistants-higher-ed-large-scale]]
 - [[xai-education-framework]]

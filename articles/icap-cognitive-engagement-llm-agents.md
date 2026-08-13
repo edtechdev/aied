@@ -24,6 +24,15 @@ Findings highlight the promise of reflective-agent approaches for scaling engage
 
 ## Connected Concepts
 
+- [[adaptive-learning]]
+- [[human-in-the-loop-ai]]
+- [[knowledge-tracing]]
+- [[administrator]]
+- [[help-seeking]]
+- [[pedagogical-agent]]
+- [[automated-question-generation]]
+- [[rag]]
+
 ## Connected Articles
 
 

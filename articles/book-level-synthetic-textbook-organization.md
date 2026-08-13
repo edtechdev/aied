@@ -30,6 +30,15 @@ For educational applications of [[llm]]s, the results indicate that the structur
 
 ## Connected Concepts
 
+- [[llm]]
+- [[generative-ai]]
+- [[educational-nlp]]
+- [[pedagogical-agent]]
+- [[open-source]]
+- [[affective-computing]]
+- [[lifelong-learning]]
+- [[self-regulated-learning]]
+
 ## Connected Articles
 
 

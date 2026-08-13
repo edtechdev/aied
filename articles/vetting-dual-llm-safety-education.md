@@ -34,6 +34,15 @@ The authors caution that the taxonomy is exploratory rather than fully validated
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[pedagogical-safety]]
+- [[formative-assessment]]
+- [[k-12]]
+- [[affective-tutoring]]
+- [[automated-essay-scoring]]
+- [[cs-education]]
+- [[student-experience]]
+
 ## Connected Articles
 
 

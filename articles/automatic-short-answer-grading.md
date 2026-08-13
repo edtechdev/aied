@@ -65,6 +65,15 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 
 ## Connected Concepts
 
+- [[automated-essay-scoring]]
+- [[human-in-the-loop-ai]]
+- [[ai-feedback-quality]]
+- [[cs-education]]
+- [[administrator]]
+- [[socratic-ai-dialogue]]
+- [[automated-question-generation]]
+- [[ai-ed-evaluation]]
+
 ## Connected Articles
 
 - [[cong-confidence-asag-2026]]

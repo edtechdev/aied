@@ -17,6 +17,15 @@ presents CourseGraph, a methodology for automatically evaluating external course
 
 ## Connected Concepts
 
+- [[administrator]]
+- [[engagement-metrics]]
+- [[k-12-ai-education]]
+- [[culturally-relevant-pedagogy]]
+- [[math-education]]
+- [[higher-ed]]
+- [[prompt-engineering]]
+- [[affective-tutoring]]
+
 ## Connected Articles
 
 

@@ -35,6 +35,15 @@ The findings are limited to the Algebra I context in which unlearning was applie
 
 ## Connected Concepts
 
+- [[pedagogical-safety]]
+- [[reinforcement-learning]]
+- [[privacy]]
+- [[k-12]]
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[affective-tutoring]]
+- [[ai-governance-education]]
+
 ## Connected Articles
 
 

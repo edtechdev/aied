@@ -39,6 +39,15 @@ The gap between *capability* and *pedagogical utility* is analogous to the LLM m
 
 ## Connected Concepts
 
+- [[human-in-the-loop-ai]]
+- [[formative-assessment]]
+- [[ai-ed-evaluation]]
+- [[socratic-ai-dialogue]]
+- [[automated-question-generation]]
+- [[rag]]
+- [[open-source]]
+- [[pedagogical-llm-training]]
+
 ## Connected Articles
 
 

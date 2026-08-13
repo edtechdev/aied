@@ -28,6 +28,15 @@ By elucidating the relationships between physiological signals and academic perf
 
 ## Connected Concepts
 
+- [[affective-computing]]
+- [[learning-analytics]]
+- [[human-in-the-loop-ai]]
+- [[affective-tutoring]]
+- [[administrator]]
+- [[teacher-ai-competency]]
+- [[help-seeking]]
+- [[pedagogical-agent]]
+
 ## Connected Articles
 
 
