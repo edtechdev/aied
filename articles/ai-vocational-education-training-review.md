@@ -33,7 +33,7 @@ The review documents a notable paradox: constructivist theories are espoused in 
 
 ## Implications for AI in Education
 
-For educators and developers, the review offers a map of what the evidence currently supports: XR for procedural and practical skills, ITS for declarative and procedural knowledge, and chatbots for self-regulation support — with the most consistent benefits emerging when AI augments authentic, practice-proximal environments, especially [[intelligent-tutoring]]-style simulations in technical domains. The scarcity of randomized experiments flags the need for stronger causal designs, and the dominance of drill-and-practice implementations suggests that [[professional-training]] contexts are under-serving the learner-agency goals that VET espouses; delayed post-tests, objective performance-based assessments, and analyses of transfer to workplace contexts are largely absent from the literature. The Turing Trap framing connects directly to [[efficacy-study]] debates and to [[constructivist]] design commitments, and the call for reporting failure cases is a useful corrective to the field's prevailing success narrative — while the heavy reliance on self-report for [[self-regulated-learning]] outcomes should temper claims about chatbots' regulatory effects.
+For educators and developers, the review offers a map of what the evidence currently supports: XR for procedural and practical skills, ITS for declarative and procedural knowledge, and chatbots for self-regulation support — with the most consistent benefits emerging when AI augments authentic, practice-proximal environments, especially [[intelligent-tutoring]]-style simulations in technical domains. The scarcity of randomized experiments flags the need for stronger causal designs, and the dominance of drill-and-practice implementations suggests that [[professional-training]] contexts are under-serving the learner-agency goals that VET espouses; delayed post-tests, objective performance-based assessments, and analyses of transfer to workplace contexts are largely absent from the literature. The Turing Trap framing connects directly to [[research-methods-aied]] debates and to [[constructivist]] design commitments, and the call for reporting failure cases is a useful corrective to the field's prevailing success narrative — while the heavy reliance on self-report for [[self-regulated-learning]] outcomes should temper claims about chatbots' regulatory effects.
 
 ## Limitations
 
@@ -42,7 +42,7 @@ The review restricted its search to English-language, peer-reviewed journal arti
 ## Connected Concepts
 
 - [[professional-training]]
-- [[efficacy-study]]
+- [[research-methods-aied]]
 - [[intelligent-tutoring]]
 - [[lifelong-learning]]
 - [[self-regulated-learning]]

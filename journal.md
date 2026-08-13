@@ -1378,7 +1378,7 @@
   Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
   _learning-analytics, edtech-platform, personalized-learning, higher-ed +1_
 
-- ● [[dot-framework-survey]] — `https://arxiv.org/abs/2605.29041`
+- ● [[dot-framework-survey-2026]] — `https://arxiv.org/abs/2605.29041`
   DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
   _ai-education, ai-literacy, design-thinking, dot-framework +6_
 

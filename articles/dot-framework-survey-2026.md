@@ -1,9 +1,10 @@
 ---
 title: "DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education"
 created: 2026-05-29
-updated: 2026-05-29
-type: concept
+updated: 2026-08-13
+type: article
 tags: [ai-education, ai-literacy, design-thinking, dot-framework, higher-ed, human-in-the-loop, institutional-change, open-source, practitioner-beliefs, survey]
+sources: ['raw/papers/2605.29041.md']
 confidence: high
 ---
 
@@ -45,7 +46,6 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 ## Connected Concepts
 
 
-- [[dot-framework-survey]]
 - [[ai-literacy]]
 - [[design-thinking]]
 - [[ai-ed-evaluation]]
@@ -63,3 +63,7 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+
+## Citation
+
+Gibson, D., Azukas, M. E., & Knezek, G. (2026). [*Practitioner beliefs and behaviors in AI-enhanced education: DOT framework survey evidence*](https://arxiv.org/abs/2605.29041). arXiv:2605.29041.

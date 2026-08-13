@@ -143,7 +143,7 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 ## Connected Concepts
 
 - [[ai-literacy-assessment-misalignment]]
-- [[dot-framework-survey]]
+- [[dot-framework-survey-2026]]
 - [[faculty-development]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]

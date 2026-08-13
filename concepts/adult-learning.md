@@ -21,7 +21,7 @@ Research themes include:
 - [[formative-assessment]]
 - [[rct]]
 - [[active-learning]]
-- [[dot-framework-survey]]
+- [[dot-framework-survey-2026]]
 
 ## Connected Articles
 
