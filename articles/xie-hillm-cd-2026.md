@@ -4,7 +4,7 @@ created: 2026-08-09
 updated: 2026-08-09
 type: article
 tags: [cognitive-diagnosis, knowledge-tracing, student-modeling, llm, generative-ai, adaptive-learning, personalized-learning, ai-education, learning-analytics]
-sources: ['raw/papers/xie-hillm-cd-2026.md']
+sources: ['raw/papers/10.1145_3770855.3817769.md']
 confidence: high
 ---
 
