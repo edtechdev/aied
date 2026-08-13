@@ -22,6 +22,11 @@ FEEDS = {
         "url": "https://bera-journals.onlinelibrary.wiley.com/feed/14678535/most-recent",
         "max_age_days": 30,
     },
+    "frontiers": {
+        "name": "Frontiers in Psychology",
+        "url": "https://www.frontiersin.org/journals/psychology/rss",
+        "max_age_days": 30,
+    },
 }
 
 def clean(text):
@@ -196,6 +201,67 @@ def parse_bjet(root, cutoff):
     
     return articles
 
+def parse_frontiers(root, cutoff):
+    """Parse Frontiers in Psychology RSS. Items have link=article URL w/ DOI,
+    multiple <author> elements, CDATA title/description (description = abstract)."""
+    articles = []
+    seen = set()
+
+    for item in root.findall('.//item'):
+        link_el = item.find('link')
+        title_el = item.find('title')
+        pubdate_el = item.find('pubdate')
+        category_el = item.find('category')
+
+        link = clean(link_el.text) if link_el is not None and link_el.text else ''
+        title = clean(title_el.text) if title_el is not None and title_el.text else ''
+        category = clean(category_el.text) if category_el is not None and category_el.text else ''
+
+        if not title or title in seen:
+            continue
+        seen.add(title)
+
+        # Skip editorials, corrigenda, retractions (only original research/perspective)
+        if any(w in category.lower() for w in ['corrigendum', 'retraction', 'erratum', 'editorial']):
+            continue
+
+        # Date: Frontiers uses "2026-08-13T00:00:00Z"
+        date_str = clean(pubdate_el.text) if pubdate_el is not None else ''
+        parsed_date = parse_date(date_str)
+        if parsed_date and cutoff and parsed_date < cutoff:
+            continue
+
+        # DOI is embedded in the URL: .../articles/10.3389/fpsyg.2026.1883053
+        doi = ''
+        doi_match = re.search(r'/articles/(10\.[^\s?&]+)', link)
+        if doi_match:
+            doi = doi_match.group(1)
+
+        # Authors: multiple <author> elements
+        authors = [clean(a.text) for a in item.findall('author') if a.text and clean(a.text)]
+        # Drop trailing part after last comma in each (Frontiers appends affiliation emails)
+        authors = [a for a in authors if a]
+
+        # Abstract from description CDATA
+        abstract = ''
+        desc_el = item.find('description')
+        if desc_el is not None and desc_el.text:
+            abstract = clean(desc_el.text)[:2000]
+
+        articles.append({
+            'title': title,
+            'url': link,
+            'abstract': abstract,
+            'authors': authors,
+            'doi': doi,
+            'date': parsed_date.strftime('%Y-%m-%d') if parsed_date else date_str[:10],
+            'journal': 'Frontiers in Psychology',
+            'source': 'frontiers',
+            'open_access': True,  # Frontiers is fully open access
+        })
+
+    return articles
+
 def main():
     all_articles = []
     
@@ -214,6 +280,8 @@ def main():
             
             if key == 'caeai':
                 articles = parse_caeai(root, cutoff)
+            elif key == 'frontiers':
+                articles = parse_frontiers(root, cutoff)
             else:
                 articles = parse_bjet(root, cutoff)
             

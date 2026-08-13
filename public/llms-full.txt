@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 553 articles and 112 concepts.
+> Complete text of 556 articles and 112 concepts.
 
 # Articles
 
@@ -4475,6 +4475,54 @@ The review also connects to broader debates about [[ethics]] and learner efficac
 ## Citation
 
 Ashiq, S. (2026). [*Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making*](https://osf.io/6kjmy). EdArXiv preprint.
+
+---
+
+## [From AI Use to Critical Thinking Among Medical Students: A Moderated Mediation Perspective on Cognitive Load and Self-Regulated Learning](https://edtechdev.github.io/aied/articles/ai-use-critical-thinking-medical-students-2026/)
+
+> **Synthesis:** Arshad et al. (2026) examined how AI-based educational technology influences critical thinking among 480 undergraduate medical students in Pakistan, using a cross-sectional design and Hayes' PROCESS Model 14. They found that AI use was positively associated with critical thinking and self-regulated learning, while cognitive load negatively related to both. Cognitive load partially mediated the AI-use→critical-thinking link, and self-regulated learning significantly moderated that indirect effect — the negative impact of cognitive load on critical thinking weakened at higher levels of self-regulation. The study argues that AI's effectiveness for higher-order thinking depends not only on the cognitive support AI provides but on learners' capacity to regulate their engagement.
+
+## Key Findings
+
+- AI-based technology use was positively associated with both critical thinking and self-regulated learning among medical students, whereas perceived cognitive load was negatively associated with both outcomes.
+- Mediation analysis showed cognitive load partially mediated the relationship between AI use and critical thinking — part of AI's effect on thinking runs through the cognitive burden it imposes.
+- Moderated mediation revealed self-regulated learning significantly moderated the indirect effect: the negative impact of cognitive load on critical thinking was weakened at higher levels of self-regulation.
+- The study situates AI's educational impact within [[cognitive-load-theory]] and [[self-regulated-learning]], framing generative AI tools (ChatGPT, Claude, Gemini) as double-edged — capable of reducing extraneous load by organizing/summarizing, yet adding burden through large volumes of content that must be evaluated and validated.
+
+## Study Design & Method
+
+The authors used a cross-sectional survey design with 480 undergraduate medical students who had prior experience using AI tools. Data were collected with standardized measures assessing AI usage, cognitive load, self-regulated learning, and critical thinking. Hayes' PROCESS Model 14 was used to test mediation and moderated mediation effects. The analytic approach allowed the authors to model cognitive load as a mediator of AI use on critical thinking and self-regulated learning as a moderator of the mediated (indirect) path — specifically, whether the load→thinking pathway is conditional on students' regulatory capacity.
+
+## Implications for AI in Education
+
+The findings caution against treating AI as uniformly beneficial for higher-order cognition. They suggest that the same AI tool can either scaffold or undermine [[critical-thinking]] depending on how much mental work it offloads and whether students can strategically regulate their engagement. For educators, this argues for designing AI-supported learning that deliberately preserves opportunities for independent reasoning — prompting verification, reflection, and judgment rather than answer-replacement — and for building students' [[self-regulated-learning]] capacity as a protective factor against the [[cognitive-offloading]] and shallow-processing risks of generative AI. The authors position the work as a corrective to the research literature's emphasis on efficiency, academic performance, and engagement at the expense of the cognitive processes underlying higher-level thinking, and connect it to academic-integrity and dependency concerns in medical education.
+
+## Limitations
+
+The cross-sectional, non-experimental design limits causal inference despite theory-consistent directional modeling. Data are self-report measures collected at a single time point, which raises common-method-bias concerns; the moderated mediation effects are estimated from this single snapshot. The sample is drawn from medical students in one national context (Pakistan), bounding generalizability to other disciplines, institutions, and educational systems. AI usage, cognitive load, and self-regulated learning are all operationalized via standardized self-report instruments rather than objective behavioral measures.
+
+## Connected Concepts
+
+- [[cognitive-load-theory]]
+- [[self-regulated-learning]]
+- [[critical-thinking]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[cognitive-offloading]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
+- [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
+- [[ai-availability-student-motivation]] — "Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation
+- [[same-ai-different-pathways]] — Same AI, Different Pathways: Unpacking Mechanisms of AI-Mediated Learning
+- [[lodge-loble-cognitive-offloading-2026]] — Artificial Intelligence, Cognitive Offloading and Implications for Learning
+
+## Citation
+
+Arshad, A., Lone, A., Arickswamy, L., Hassan, K., Alnaim, A. A., & AlFarhan, M. F. (2026). [*From AI use to critical thinking among medical students: A moderated mediation perspective on cognitive load and self-regulated learning*](https://doi.org/10.3389/fpsyg.2026.1883053).
 
 ---
 
@@ -11109,6 +11157,54 @@ Micallef, N., & Petrovska, O. (2026). [Structuring Transparency: Developing Doma
 
 ---
 
+## [From Unified to Differentiated Materials: Generative AI–Supported Adaptation of EAP Reading Materials](https://edtechdev.github.io/aied/articles/genai-differentiated-eap-reading-materials-2026/)
+
+> **Synthesis:** Gao (2026) examined whether generative-AI-supported adaptation of English for Academic Purposes (EAP) reading materials chiefly changes passage-level structural complexity or text-embedded functional support. Using a role-prompted workflow (barrier analysis, adaptation, fidelity checking, validation) and a 3×3 between-subjects design (N=135; proficiency × material condition), the study found that GenAI-supported differentiation operates primarily at the level of proficiency-specific support-layer design — glosses, sentence unpacking, rhetorical cues, claim-evidence notes, and critical prompts — rather than broad changes in passage-level structural complexity. Differentiated-AI materials most strongly outperformed unified-AI versions among high-proficiency learners (d = 1.40), with a moderate advantage among low-proficiency learners (d = 0.60) and a small difference for intermediate learners.
+
+## Key Findings
+
+- Instructors rated the generated materials favorably for academic fidelity (M = 4.24), proficiency appropriateness (M = 4.36), and teachability (M = 4.31), with acceptable inter-rater reliability, ICC(2,k) = 0.84.
+- Automated structural-complexity indicators showed limited separation between proficiency versions (η²p = 0.043), and leave-one-out discriminant analysis classified intended proficiency labels at only 11.1% — well below the 33.3% balanced-task benchmark.
+- Material differences were clearest in functional support: glosses, sentence unpacking, rhetorical cues, claim–evidence notes, and critical prompts, rather than in rewritten sentence complexity.
+- Differentiated-AI exceeded unified-AI most strongly among high-proficiency learners (d = 1.40), followed by a moderate advantage among low-proficiency learners (d = 0.60) and a small difference among intermediate learners (d = 0.16).
+- The omnibus reading-comprehension interaction identified this heterogeneity, F(4, 126) = 7.43, p < 0.001, η²p = 0.191; immediate unsupported application did not differ by material condition or interaction.
+
+## Study Design & Method
+
+The study deployed a four-module role-prompted GenAI workflow — barrier analysis, adaptation, academic-fidelity checking, and validation — designed to make generation auditable and protect the source text's disciplinary meaning. A 3×3 between-subjects experiment (N = 135; n = 15 per cell) crossed proficiency level (low, intermediate, high) with material condition (original, unified-AI, differentiated-AI). Three EAP instructors evaluated 15 anonymized material versions. Analyses included automated structural-complexity indicators, leave-one-out discriminant analysis, within-proficiency planned contrasts (comparing differentiated-AI with unified-AI while holding proficiency constant), and omnibus outcome models. Learner-outcome analysis gave priority to within-stratum planned contrasts as the cleaner evidence, while the omnibus Proficiency × Material model described heterogeneity across strata.
+
+## Implications for AI in Education
+
+The findings argue that GenAI's value for [[language-learning]] materials lies not in blanket simplification but in targeted, proficiency-sensitive support-layer design that preserves academic fidelity — terminology, stance, hedging, citation relations, and argumentative structure. This reframes GenAI as a tool for [[personalized-learning|differentiation]] where the key design decision is what support each proficiency level needs (lexical/syntactic access for low-proficiency readers, discourse organization for intermediate readers, stance/evidence evaluation for high-proficiency readers) rather than a single harder-or-easier rewrite. For teachers, the study offers a concrete, auditable role-prompted workflow for generating and validating materials, and it underscores the continued necessity of teacher oversight against hallucinated content, flattened stance, and over-simplification in [[generative-ai]] output.
+
+## Limitations
+
+The learner-outcome and process indicators were collected in the same session, making the process estimates descriptive rather than causal. Immediate unsupported application did not differ by condition, limiting evidence on transfer. The expert-rating rubric and the specific EAP genre constrain generalization to other disciplines and material types. Sample sizes per cell (n = 15) are modest, and the within-proficiency comparisons, while cleaner, rest on single-instructor-generated material versions.
+
+## Connected Concepts
+
+- [[language-learning]]
+- [[generative-ai]]
+- [[personalized-learning]]
+- [[scaffolding]]
+- [[instructional-design]]
+- [[teacher-role]]
+- [[curriculum-design]]
+
+## Connected Articles
+
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[ai-tools-arab-english-classrooms]] — AI Tools in Arab University English Classrooms
+- [[learner-centered-feedback-ai]] — Enhancing Learner-Centered Feedback with AI
+- [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task
+- [[genai-linguistic-diversity-academic-writing]] — Generative AI and Linguistic Diversity in Academic Writing
+
+## Citation
+
+Gao, X. (2026). [*From unified to differentiated materials: Generative AI–supported adaptation of EAP reading materials*](https://doi.org/10.3389/fpsyg.2026.1887565).
+
+---
+
 ## [Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration](https://edtechdev.github.io/aied/articles/genai-expertise-pathways-sysadmin/)
 
 > **Rana Abou Khamis, Hala Assal, Ashraf Matrawy** — arXiv preprint (2026).
@@ -11781,6 +11877,53 @@ For [[ai-governance-education]], the finding that institutional guidance is pro-
 ## Citation
 
 Ganguly, A., Johri, A., McDonald, N., Ali, A., et al. (2026). [A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education](https://arxiv.org/abs/2607.12296). arXiv:2607.12296.
+
+---
+
+## [Associations Between Generative AI–Based Pronunciation Feedback and Willingness to Communicate in English: The Mediating Role of English Pronunciation Self-Efficacy](https://edtechdev.github.io/aied/articles/genai-pronunciation-feedback-wtc-2026/)
+
+> **Synthesis:** Lu et al. (2026) examined, through the lens of Social Cognitive Theory, whether Chinese university EFL learners' perceptions of generative-AI-based pronunciation feedback relate to their willingness to communicate (WTC) in English, with English pronunciation self-efficacy as a hypothesized mediator. Using a cross-sectional survey of 1,701 learners, covariance-based structural equation modeling, and bias-corrected bootstrapping, they found that positive perceptions of GenAI pronunciation feedback were significantly associated with greater WTC in English, and that pronunciation self-efficacy partially mediated this relationship — the indirect effect accounted for 69.9% of the total effect while the direct effect remained significant.
+
+## Key Findings
+
+- Positive perceptions of generative-AI-based pronunciation feedback were significantly associated with greater willingness to communicate in English among Chinese EFL learners.
+- English pronunciation self-efficacy partially mediated the association: the indirect effect accounted for 69.9% of the total effect, while the direct effect of GenAI feedback perception on WTC remained significant.
+- The results suggest pronunciation self-efficacy is an important but not exclusive mechanism — GenAI feedback may also relate to WTC through other routes such as reduced communication anxiety and enhanced psychological safety.
+- The study conceptualizes GenAI feedback as a technology-mediated environmental influence and pronunciation self-efficacy as a personal cognitive factor within [[self-regulated-learning|Bandura's Social Cognitive Theory]], extending the framework to the Chinese EFL context and to intelligent feedback technologies.
+
+## Study Design & Method
+
+The authors used a cross-sectional survey design with a convenience sample of 1,701 Chinese university EFL learners. Covariance-based structural equation modeling (CB-SEM) and bias-corrected bootstrapping were used to test the hypothesized relationships and the mediating effect of pronunciation self-efficacy on the perception-of-GenAI-feedback → WTC path. The analysis distinguished the indirect effect (through self-efficacy) from the direct effect of feedback perception on willingness to communicate, and quantified the indirect effect's share of the total effect.
+
+## Implications for AI in Education
+
+The findings position GenAI-based pronunciation feedback as a promising, low-pressure supplement to traditional teacher and peer feedback for [[language-learning]], particularly in contexts (like China) where limited authentic English interaction and "mute English" make pronunciation anxiety a barrier to speaking. Because GenAI feedback is immediate, repeatable, personalized, and perceived as less judgmental, it may build learners' pronunciation self-efficacy and, through it, their readiness to speak. For practitioners, this supports integrating AI pronunciation tools as ongoing speaking practice that complements — not replaces — classroom feedback, while the partial mediation highlights that confidence and psychological safety, not just accuracy, are central to why such feedback helps learners communicate.
+
+## Limitations
+
+The cross-sectional design precludes causal inference, and the convenience sample of Chinese university EFL learners bounds generalizability to other populations and contexts. All constructs (perceptions of feedback, pronunciation self-efficacy, WTC) are self-report measures collected at a single time point, so the mediating role of self-efficacy is inferred from covariance rather than manipulated. The study focuses on perceptions of GenAI feedback rather than objective feedback quality or its actual behavioral effects on speaking performance.
+
+## Connected Concepts
+
+- [[language-learning]]
+- [[generative-ai]]
+- [[ai-feedback-quality]]
+- [[self-regulated-learning]]
+- [[motivation]]
+- [[feedback-loop]]
+- [[personalized-learning]]
+
+## Connected Articles
+
+- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition
+- [[multimodal-ai-feedback-learning]] — LLM-Based Multimodal AI Feedback Produces Equivalent Learning
+- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
+- [[cyberscholar-genai-writing-feedback]] — Generative AI Feedback, English Writing and Teacher Rubrics
+- [[genai-feedback-design-multisite-experiment]] — Human-Centered GenAI Feedback Design in Higher Education
+
+## Citation
+
+Lu, Y., Yang, Y., Cui, T., Yang, Z., Cai, Y., & Jing, B. (2026). [*Associations between generative AI–based pronunciation feedback and willingness to communicate in English: The mediating role of English pronunciation self-efficacy*](https://doi.org/10.3389/fpsyg.2026.1918980).
 
 ---
 
