@@ -1,29 +1,37 @@
 ---
 title: AI in Writing Education
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-13
 type: concept
-tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition]
+tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 confidence: high
 ---
 
-> **AI in Writing Education** — the use of AI tools for writing instruction, assessment, and feedback. Writing education is one of the most AI-affected domains, as LLMs excel at text generation, revision, and evaluation.
+> **AI in writing education** — the use of AI tools for writing instruction, assessment, feedback, and the study of how generative AI reshapes the writing process itself. Writing education is one of the most AI-affected domains, because LLMs excel at the very activities writing instruction centers on — text generation, revision, and evaluation. Research in this area spans automated scoring, AI feedback quality, writing-process support, second-language writing, academic integrity, and the deeper question of how AI changes what it means to write and to be a writer.
 
-### AI writing applications
+Writing is not merely output but a cognitive, social, and rhetorical process. This is why AI's impact on writing education is so consequential and contested: AI can be a scaffold that helps students draft, revise, and receive feedback they otherwise wouldn't get, but it can also displace the cognitive work — and the human audience — that make writing a learning activity. The wiki's research consistently frames AI in writing as a *human-centered complement* to, rather than a replacement for, the social and cognitive processes of writing.
 
-- **Automated essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] and [[aiawe-automated-writing-evaluation|AIAWE]] evaluate student writing at scale.
-- **Writing feedback:** [[ai-generated-feedback-higher-ed|AI-generated writing feedback]] and [[care-full-feedback-genai|care-full feedback approaches]] examine whether AI feedback improves writing quality.
-- **Writing process support:** [[ai-assisted-writing-research-teams|AI-assisted research writing]] and [[agency-gap-ai-writing|agency gap research]] explore how AI changes the writing process — from brainstorming to revision.
-- **L2 writing:** [[self-referential-l2-writing-llm-assessment|L2 writing assessment]] and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] address second-language writing specifically.
-- **Academic integrity:** [[academic-integrity]] and [[student-rationalization-ai-writing|student rationalization studies]] examine how students justify AI use in writing assignments.
+### How AI in writing education appears in the research
+
+- **Automated essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] and [[aiawe-automated-writing-evaluation|AIAWE]] evaluate student writing at scale, raising questions about [[assessment-validity|construct validity]] and the reduction of writing to measurable features.
+
+- **Writing feedback:** [[ai-feedback-quality|AI feedback quality]] research ([[genai-teacher-feedback-comparison|GenAI vs. teacher feedback]], [[care-full-feedback-genai|care-full feedback]], [[repeated-ai-writing-feedback-semester|repeated AI feedback]]) examines whether AI feedback improves writing and how it compares to human feedback. The PAIRR model ([[pairr-ai-peer-review-2025|Peer and AI Review + Reflection]]) combines AI with [[peer-review]] and finds AI feedback is most useful in a human-centered process.
+
+- **Writing process support and agency:** [[agency-gap-ai-writing|Agency gap research]] and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] explore how AI changes the writing process from planning to revision, and how students' [[student-experience|agency]] is affected when AI participates at different stages.
+
+- **Posthumanist perspectives:** [[posthumanist-ai-literacy-2025|A posthumanist approach to AI literacy]] reframes writing as a human-AI entanglement in which agency is distributed, challenging both uncritical anthropomorphization of AI and its dismissal as a mere tool — a relational rather than transactional view of AI literacy.
+
+- **L2 / multilingual writing:** [[self-referential-l2-writing-llm-assessment|L2 writing assessment]], [[genai-linguistic-diversity-academic-writing|linguistic diversity research]], and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] address how AI supports (or constrains) second-language and multilingual writers, including the risk of reinforcing Standard Academic English norms.
+
+- **Academic integrity:** [[academic-integrity]] and [[student-rationalization-ai-writing|student rationalization studies]] examine how students justify AI use, moving the conversation from plagiarism policing toward building AI literacy and ethical use.
 
 ### Writing as thinking
 
-Writing is not merely output — it is a cognitive process. [[writing-education]] research connects to [[cognitive-offloading]] (does AI writing support bypass thinking?), [[metacognition]] (does AI feedback improve self-assessment?), and [[ai-literacy]] (can students evaluate AI-generated writing critically?).
+Because writing is a cognitive process, AI-in-writing research connects to [[cognitive-offloading]] (does AI writing support bypass thinking?), [[metacognition]] (does AI feedback improve self-assessment?), [[self-regulated-learning]] (do students regulate their use of AI feedback?), and [[ai-literacy]] (can students evaluate AI-generated writing critically?). The [[critical-thinking-genai-scaffolding|critical-thinking scaffolding]] and [[ai-feedback-critical-thinking-writing-2026|AI feedback for critical thinking]] research show that the pedagogical value of AI in writing depends on whether it prompts reflection and judgment rather than answer-replacement.
 
 ### Connections
 
-Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], and [[higher-ed]]. It is a domain where AI's capabilities and risks are both highly visible.
+Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], [[formative-assessment]], [[peer-review]], [[metacognition]], [[self-regulated-learning]], and [[higher-ed]]. It is a domain where AI's capabilities and risks are both highly visible, making it a rich site for studying how AI transforms pedagogy, assessment, and the very nature of authorship and agency.
 
 ## Connected Concepts
 
@@ -38,15 +46,24 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[llm]]
 - [[generative-ai]]
 - [[formative-assessment]]
+- [[peer-review]]
+- [[self-regulated-learning]]
+- [[student-experience]]
 
 ## Connected Articles
 
-- [[choi-anchor-aes-prompting-2025]]
-- [[aiawe-automated-writing-evaluation]]
-- [[agency-gap-ai-writing]]
-- [[ai-assisted-writing-research-teams]]
-- [[student-rationalization-ai-writing]]
-- [[care-full-feedback-genai]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[elementary-writing-genai-systematic-review-2026]]
+- [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
+- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
+- [[choi-anchor-aes-prompting-2025]] — Anchor-Based Automated Essay Scoring
+- [[aiawe-automated-writing-evaluation]] — AIAWE: Automated Writing Evaluation
+- [[agency-gap-ai-writing]] — The Agency Gap in AI-Supported Writing
+- [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: AI Writing Support at Different Stages
+- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
+- [[student-rationalization-ai-writing]] — "It's OK Because...": The Wild West of Student Rationalization
+- [[care-full-feedback-genai]] — Care-Full Feedback Approaches
+- [[self-referential-l2-writing-llm-assessment]] — Self-Referential L2 Writing Assessment
+- [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
+- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback
+- [[elementary-writing-genai-systematic-review-2026]] — Rethinking Elementary Writing Instruction
+- [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Narrative Drafting Scaffolding
+- [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking
