@@ -33,6 +33,10 @@ The results give computing instructors an evidence base for purposeful use: AI-g
 ## Connected Articles
 
 
-## Citation
 
-Esse Ciego, Shubbhi Taneja, Wilson Wong, Amanpreet Kapoor (2026). [Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education](https://arxiv.org/abs/2607.28203). arXiv:2607.28203. cs.HC.
+- [[ai-generated-interactive-fiction-education-2026]] — AI-Generated Interactive Fiction for Educational Use: A Pilot Study of Perceived Comprehensibility, Coherence, and Engagement
+- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
+- [[solving-vs-evaluating-genai-solutions]] — Is Solving Better Than Evaluating GenAI Solutions?

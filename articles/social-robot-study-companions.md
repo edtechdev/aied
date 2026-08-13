@@ -31,6 +31,10 @@ This paper contributes directly to understanding how AI systems interact with le
 ## Connected Articles
 
 
-## Citation
 
-Baksh, F., Zorec, M. B., Baksh, F., & Kruusamäe, K. (2026). [*Co-Creating Buildable and Open Social Robot Study Companions with University Students*](https://arxiv.org/abs/2606.15239). arXiv:2606.15239. ICSR + ART 2026, London.
+- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
+- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence

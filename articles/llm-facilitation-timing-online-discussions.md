@@ -40,6 +40,10 @@ For online learning environments — MOOC-style forums and classroom discussion 
 ## Connected Articles
 
 
-## Citation
 
-Tsirmpas, D., Korre, K., & Pavlopoulos, J. (2026). [To facilitate or not to facilitate: Human and LLM facilitator tendencies in online discussions](https://arxiv.org/abs/2607.28643). arXiv:2607.28643.
+- [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
+- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents
+- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
+- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualisations as engagement tools
+- [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
+- [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work

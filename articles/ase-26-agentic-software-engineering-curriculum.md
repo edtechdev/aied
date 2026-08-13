@@ -39,6 +39,10 @@ ASE-26 reframes [[ai-literacy]] for software professionals as the ability to man
 ## Connected Articles
 
 
-## Citation
 
-Mikael Gorsky (2026). [ASE-26: A Curriculum for Agentic Software Engineering as a Discipline](https://arxiv.org/abs/2606.01152). arXiv:2606.01152.
+- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
+- [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm

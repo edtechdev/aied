@@ -24,6 +24,10 @@ The study contributes a transferable blind-verification protocol for evaluating 
 ## Connected Articles
 
 
-## Citation
 
-Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). [Agreement is not quality: Blind expert verification of human and LLM qualitative coding](https://arxiv.org/abs/2607.28890). arXiv:2607.28890.
+- [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
+- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
+- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
+- [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education

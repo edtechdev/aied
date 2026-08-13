@@ -28,6 +28,10 @@ The study contributes design considerations for [[edtech-platform|educational te
 ## Connected Articles
 
 
-## Citation
 
-Yao Lyu, Leonymae Aumentado, Holden Winton, Jared Lee Katzman, Sparkle Berry, Zachary Rowe, Kimberly Sanders, Tawanna R. Dillahunt (2026). [Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study](https://arxiv.org/abs/2606.26565). arXiv:2606.26565. arXiv cs.HC.
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
+- [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
+- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
+- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks

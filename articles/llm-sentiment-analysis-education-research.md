@@ -28,6 +28,10 @@ confidence: medium
 ## Connected Articles
 
 
-## Citation
 
-Xiomara Gonzalez, Gabriella Coloyan Fleming, Andrew Katz, Maya Denton, Jessica Deters (2026). [LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments](https://arxiv.org/abs/2605.27403). arXiv:2605.27403. arXiv preprint.
+- [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies
+- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis

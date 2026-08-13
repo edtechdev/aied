@@ -51,6 +51,10 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 ## Connected Articles
 
 
-## Citation
 
-Yu, J., Zhang, Z., Zhang-li, D., Tu, S., Hao, Z., Li, R., ... Liu, Z., Liu, H., & Sun, M. (2024). [*From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512). arXiv:2409.03512.
+- [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
+- [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
+- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
+- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System

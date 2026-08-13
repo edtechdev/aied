@@ -35,6 +35,10 @@ The authors identify several design constraints: the one-group pre-/post-test de
 ## Connected Articles
 
 
-## Citation
 
-Kong, S. C., & Wang, Q. (2026). [*Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design*](https://doi.org/10.1016/j.caeai.2026.100631).
+- [[computational-thinking-ai-agent-creation]] — Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study
+- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
+- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
+- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026

@@ -47,5 +47,10 @@ This study provides some of the strongest causal evidence yet that generative AI
 ## Connected Articles
 
 
-## Citation
-Cruces, G., Fernandez Meijide, D., Galiani, S., Galvez, R., & Lombardi, M. (2026). [*Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment*](https://arxiv.org/abs/2608.04198v1). arXiv:2608.04198v1.
+
+- [[skill-diversity-worker-resilience]] — Navigating the skill diversity frontier: How skill complexity explains worker resilience
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
+- [[genai-literacy-image-discrimination]] — Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images
+- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability

@@ -21,6 +21,10 @@ Park et al. (2026) explore AI-powered automated feedback for tutors on Ringle, a
 ## Connected Articles
 
 
-## Citation
 
-Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung, Juho Kim (2026). [Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle](https://arxiv.org/abs/2606.22609). arXiv:2606.22609. arXiv:2606.22609 (cs.HC)
+- [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
+- [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges

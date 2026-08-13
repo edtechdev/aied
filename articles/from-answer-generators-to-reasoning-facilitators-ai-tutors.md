@@ -38,6 +38,10 @@ The findings push back on the assumption that withholding answers is always the 
 ## Connected Articles
 
 
-## Citation
 
-Yuming Feng, Yuan Tian, Erica Zhao (2026). [From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments](https://arxiv.org/abs/2607.01692). arXiv:2607.01692.
+- [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations
+- [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
+- [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
+- [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI

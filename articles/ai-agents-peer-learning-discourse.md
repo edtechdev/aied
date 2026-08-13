@@ -32,6 +32,10 @@ For AI in education, the Moltbook analysis suggests that multi-agent systems can
 ## Connected Articles
 
 
-## Citation
 
-Eason Chen et al. (2026). [When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community](https://arxiv.org/abs/2602.14477). arXiv:2602.14477. cs.HC.
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
+- [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualisations as engagement tools
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
+- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement

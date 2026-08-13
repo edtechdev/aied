@@ -30,6 +30,10 @@ This paper contributes to the growing body of research on AI applications in edu
 ## Connected Articles
 
 
-## Citation
 
-Lawrence Obiuwevwi, Krzysztof J. Rechowicz, Jessica M. Johnson, Erika Frydenlund, Vikas Ashok, Sachin Shetty, Sampath Jayarathna (2026). [Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education](https://arxiv.org/abs/2607.01214). arXiv:2607.01214. IEEE IRI 2026, submitted 1 Jul 2026
+- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
+- [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
+- [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
+- [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
+- [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education

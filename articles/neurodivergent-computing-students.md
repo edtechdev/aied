@@ -24,6 +24,10 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[equ
 ## Connected Articles
 
 
-## Citation
 
-Cynthia Zastudil, Srishty Muthusekaran, Rayhona Nasimova, Stephen MacNeil (2026). ["I can't read your mind": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning](https://arxiv.org/abs/2605.23823). arXiv:2605.23823. arXiv preprint (cs.HC).
+- [[suacode-african-students-motivations]] — Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course
+- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
+- [[embodied-string-learning-blindness-low-vision-musicians]] — Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision
+- [[dyslexlens-dyslexic-learners-ai]] — DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums
+- [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
+- [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education

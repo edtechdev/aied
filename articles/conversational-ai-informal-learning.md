@@ -35,6 +35,10 @@ The authors note that the sample, recruited exclusively from Germany via Prolifi
 ## Connected Articles
 
 
-## Citation
 
-Terzimehić, N., Bühler, B., & Kasneci, E. (2026). [*Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning*](https://doi.org/10.1016/j.caeai.2026.100634).
+- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
+- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
+- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study

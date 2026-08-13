@@ -24,6 +24,10 @@ The authors find that users do engage in learning-supporting behaviours — cogn
 ## Connected Articles
 
 
-## Citation
 
-Zixin Chen, Haotian Li, Ziang Xiao, Huamin Qu, et al. (2026). [Informal Learning Emerges in Everyday Human-LLM Interaction](https://arxiv.org/abs/2607.17643). arXiv:2607.17643. arXiv:2607.17643 [cs.HC].
+- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
+- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning

@@ -35,6 +35,10 @@ For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapt
 ## Connected Articles
 
 
-## Citation
 
-Mutlu Cukurova (2026). [What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it](https://arxiv.org/abs/2606.15509). arXiv:2606.15509. Handbook of AI and the Future of Education (forthcoming).
+- [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
+- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+- [[modular-educational-llm-agency]] — Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance
+- [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing
+- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation

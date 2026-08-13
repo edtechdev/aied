@@ -21,6 +21,10 @@ Proposes a four-component AI literacy framework for legal translation profession
 ## Connected Articles
 
 
-## Citation
 
-Łucja Biel (2026). [AI Literacy for Legal Translation: Developing Digital Resilience](https://arxiv.org/abs/2608.04641). arXiv:2608.04641. Book chapter.
+- [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
+- [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
+- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
+- [[genai-literacy-image-discrimination]] — Generative AI Literacy Training Improves Intelligence Analysts’ Discrimination of Real and AI-Generated Images
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm

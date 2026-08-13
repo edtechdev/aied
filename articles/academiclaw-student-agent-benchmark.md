@@ -67,6 +67,10 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 ## Connected Articles
 
 
-## Citation
 
-Yu, J., Lu, P., Si, W., Lu, H., Wu, J., Tao, K., et al. (2026). [AcademiClaw: When Students Set Challenges for AI Agents](https://arxiv.org/abs/2605.02661). arXiv:2605.02661.
+- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[lets-chat-chatbot-outreach-2026]] — Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement

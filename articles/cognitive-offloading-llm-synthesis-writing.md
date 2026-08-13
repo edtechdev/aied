@@ -19,6 +19,10 @@ This study compares two approaches to profiling how learners offload cognitive a
 - [[self-regulated-learning]]
 ## Connected Articles
 
-## Citation
 
-Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., & Jovanovic, J. (2026). [*Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content*](https://arxiv.org/abs/2606.10434). arXiv:2606.10434.
+- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
+- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+- [[reshaping-cs-education-genai]] — Reshaping Undergraduate Computer Science Education in the Generative AI Era

@@ -40,6 +40,10 @@ DPs appear to be a **useful complement to traditional assessments**, particularl
 ## Connected Articles
 
 
-## Citation
 
-Ahmad D. Suleiman, Daqing Hou, Maliha Noushin Raida (2026). [LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning](https://arxiv.org/abs/2607.11032). arXiv:2607.11032. arXiv preprint.
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
+- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
+- [[mllm-scientific-visualization-literacy]] — Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy
+- [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework

@@ -30,6 +30,10 @@ This paper contributes to the growing body of research on AI applications in edu
 ## Connected Articles
 
 
-## Citation
 
-Manuel Alonso-Carracedo, Ruben Fernandez-Boullon, Pedro Celard, Francisco J. Rodriguez-Martinez, Lorena Otero-Cerdeira (2026). [CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education](https://arxiv.org/abs/2607.00140). arXiv:2607.00140. Universidade de Vigo, submitted 30 Jun 2026
+- [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
+- [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
+- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
+- [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
+- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
+- [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work

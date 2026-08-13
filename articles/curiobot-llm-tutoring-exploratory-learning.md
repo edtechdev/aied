@@ -20,6 +20,10 @@ Ganganath et al. (2026) introduce CURIOBOT, a framework that operationalizes Ber
 ## Connected Articles
 
 
-## Citation
 
-Gevindu Ganganath, Pasindu Bolonghege, Qianru Lyu, Pradeep Varakantham, Thivya Kandappu (2026). [Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior](https://arxiv.org/abs/2606.22349). arXiv:2606.22349. arXiv:2606.22349 (cs.CL; cs.HC) — submitted to EMNLP 2026
+- [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
+- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
+- [[metacognitive-learning-scenarios-taxonomy]] — A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
+- [[llm-reasoning-traces-metacognition]] — Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition

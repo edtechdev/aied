@@ -24,6 +24,10 @@ The paper proposes a turn-level codebook combining SRL and [[metacognition|help-
 ## Connected Articles
 
 
-## Citation
 
-Abdelghani, R., Kaiser, P., & Murayama, K. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. [arXiv:2606.08568](https://arxiv.org/abs/2606.08568).
+- [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
+- [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[llm-reasoning-traces-metacognition]] — Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
+- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement

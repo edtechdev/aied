@@ -26,3 +26,13 @@ Research themes include:
 - [[learning-analytics]]
 - [[ai-education]]
 - [[regulation]]
+
+## Connected Articles
+
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
+- [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
+- [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+

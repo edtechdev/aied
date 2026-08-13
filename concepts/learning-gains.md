@@ -24,3 +24,12 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 
 ## Connected Concepts
 
+## Connected Articles
+
+- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
+- [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+

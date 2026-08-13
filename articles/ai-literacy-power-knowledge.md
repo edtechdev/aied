@@ -33,6 +33,10 @@ For education, the argument shifts the goal of AI literacy instruction from comp
 ## Connected Articles
 
 
-## Citation
 
-Brady D. Lund, Zoë Abbie Teel (2026). [AI Literacy: An Exercise in Power-Knowledge](https://arxiv.org/abs/2607.27547). arXiv:2607.27547. cs.AI, cs.CY.
+- [[possibility-ai-literacy-critical-editorial]] — The (im)possibility of AI literacy
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
+- [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks

@@ -31,6 +31,10 @@ This paper contributes directly to understanding how AI systems interact with le
 ## Connected Articles
 
 
-## Citation
 
-Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson (2026). [Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments](https://arxiv.org/abs/2606.15766). arXiv:2606.15766. Pluralistic Alignment Workshop @ ICML 2026.
+- [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
+- [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
+- [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+- [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
+- [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
+- [[didactical-teacher-assistant-dimensional-modeling]] — A didactical-driven teacher assistant for a dimensional modeling course

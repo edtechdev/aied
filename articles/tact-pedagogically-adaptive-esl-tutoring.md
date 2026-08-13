@@ -61,5 +61,10 @@ TACT advances the state of [[ai-tutoring|AI tutoring]] by grounding LLM training
 ## Connected Articles
 
 
-## Citation
-Yang, D., Lin, S., Shen, L., Sheng, R., Qu, H., & Chen, Z. (2026). [*TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring*](https://arxiv.org/abs/2608.03952v1). arXiv:2608.03952v1.
+
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
+- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
+- [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
+- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
+- [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education

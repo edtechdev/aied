@@ -30,6 +30,10 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 ## Connected Articles
 
 
-## Citation
 
-Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous (2026). [Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes](https://arxiv.org/abs/2607.26338). arXiv:2607.26338. Under review.
+- [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
+- [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
+- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
+- [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education

@@ -22,6 +22,10 @@ Nagai et al. (2026) tackle the practical problem that many real-world educationa
 ## Connected Articles
 
 
-## Citation
 
-Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, Hisashi Kashima (2026). [Estimating Learners' Skill Acquisition Without Temporal Information](https://arxiv.org/abs/2606.20611). arXiv:2606.20611. AIED 2026, Seoul
+- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
+- [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
+- [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+- [[proprl-prerequisite-relation-learning]] — ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs
+- [[cross-subject-validity-delayed-start]] — Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior
+- [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach

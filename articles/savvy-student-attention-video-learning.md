@@ -24,6 +24,10 @@ The work connects AI-based attention estimation to instructional design practice
 ## Connected Articles
 
 
-## Citation
 
-Zhou, S., Shen, M., Wen, X., Qiu, Z., Jiang, Y., Wu, X., Wu, F., Wang, Y., & Zhou, Z. (2026). [SAVVY: Student attention visualization for video-based learning analysis](https://arxiv.org/abs/2607.29413). arXiv:2607.29413.
+- [[physiological-signals-exam-outcomes-ml]] — Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
+- [[wordstream-glass-learning-analytics]] — Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics
+- [[hypergamification-game-engine-lms]] — Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game
+- [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
+- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
+- [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments

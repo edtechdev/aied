@@ -38,6 +38,10 @@ The study demonstrates that process data can characterize GenAI literacy in ways
 ## Connected Articles
 
 
-## Citation
 
-Angxuan Chen & Jiyou Jia (2026). [Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing](https://arxiv.org/abs/2606.00040). arXiv:2606.00040.
+- [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
+- [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
+- [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing

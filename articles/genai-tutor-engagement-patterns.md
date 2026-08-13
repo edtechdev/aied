@@ -40,6 +40,10 @@ Context mattered. At highly selective universities, the proportion of deep engag
 ## Connected Articles
 
 
-## Citation
 
-Youjie Chen et al. (2026). [Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use](https://arxiv.org/abs/2602.00447). arXiv:2602.00447. cs.CY.
+- [[students-llm-usage-critical-thinking]] — Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
+- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies
+- [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
+- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+- [[lets-chat-chatbot-outreach-2026]] — Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance

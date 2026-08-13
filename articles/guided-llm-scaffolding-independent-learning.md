@@ -38,6 +38,10 @@ The central conclusion is that **LLM access alone is an incomplete educational i
 ## Connected Articles
 
 
-## Citation
 
-Amanlou, M., Amou-Jafari, Y., Livani, M., Boloukazari, F., Bagheri, F., & Bahrak, B. (2026). [*Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics*](https://arxiv.org/abs/2606.01375). Proceedings of the 34th International Conference on Computers in Education.
+- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
+- [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
+- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
+- [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation

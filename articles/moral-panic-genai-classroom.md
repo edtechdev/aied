@@ -49,6 +49,10 @@ The integrated redesign **resolved both academic-integrity and authenticity conc
 ## Connected Articles
 
 
-## Citation
 
-Krebsbach, J. M., & Cross, V. L. (2026). Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption. [Assessment & Evaluation in Higher Education](https://www.tandfonline.com/doi/full/10.1080/02602938.2026.2686727). https://doi.org/10.1080/02602938.2026.2686727
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
+- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
+- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
+- [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
+- [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy

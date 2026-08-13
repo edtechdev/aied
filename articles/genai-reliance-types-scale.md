@@ -25,6 +25,10 @@ Validation follows the multi-source framework of the *Standards for Educational 
 ## Connected Articles
 
 
-## Citation
 
-Shahin Hossain, Tukhbita Afroz Nawmi (2026). [Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)](https://arxiv.org/abs/2607.14301). arXiv:2607.14301.
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
+- [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
+- [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
+- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students' Motivation in Introductory Programming
