@@ -32,3 +32,4 @@ confidence: medium
 - [[student-mental-models-genai]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[ai-feedback-enactment-workflow-2026]]

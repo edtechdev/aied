@@ -55,3 +55,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[llm-computational-thinking-physics-2026]]
 - [[ai-scoring-language-bias-physics]]
 - [[multiagent-classroom-dual-process-physics-teachers-2026]]
+- [[physics-chatbot-epistemological-beliefs-2026]]
+- [[ai-generated-smartphone-circular-motion-lab-2026]]
+- [[genai-ar-physics-simulation-prompt-2026]]
+- [[embodied-inquiry-ai-facilitator-physics-2026]]

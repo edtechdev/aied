@@ -27,4 +27,4 @@ confidence: medium
 
 - [[history-aware-student-simulation]]
 - [[q-learning-lab-rl-teaching]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
+- [[singh-eduqwen-pedagogical-rl-2026]]- [[residencyrl-clinical-rl-training-2026]]

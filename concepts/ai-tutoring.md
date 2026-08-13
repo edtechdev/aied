@@ -35,4 +35,6 @@ AI tutoring encompasses the use of artificial intelligence — particularly larg
 - [[oecd-digital-education-outlook-2026]]
 - [[representation-robustness-llm-math-problem-solving]]
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
+- [[tact-pedagogically-adaptive-esl-tutoring]]- [[ai-tutoring-quality-k12-methodologies-2026]]
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]]
+- [[residencyrl-clinical-rl-training-2026]]

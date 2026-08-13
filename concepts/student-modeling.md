@@ -61,3 +61,4 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[inside-llm-student-simulator-reasoning-2026]]

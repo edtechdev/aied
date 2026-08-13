@@ -43,3 +43,5 @@ Agentic AI refers to artificial intelligence systems that can autonomously plan,
 - [[jeon-isd-agent-bench-2026]]
 - [[learnmate2-llm-adaptive-learning]]
 - [[pchl-he-framework-genai-content-creation-2026]]
+- [[cyberagents-gamified-cybersecurity-learning-2026]]
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]]

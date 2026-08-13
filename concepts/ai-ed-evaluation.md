@@ -71,3 +71,5 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
+- [[elbench-education-llm-benchmark-2026]]
+- [[teaching-monster-pck-benchmark-2026]]

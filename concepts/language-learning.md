@@ -41,3 +41,4 @@ Language learning has emerged as a significant AI in education domain because la
 - [[dyslexlens-dyslexic-learners-ai]]
 - [[tact-pedagogically-adaptive-esl-tutoring]]
 - [[ai-tools-arab-english-classrooms]]
+- [[structural-silence-underrepresented-language-ai-2026]]
