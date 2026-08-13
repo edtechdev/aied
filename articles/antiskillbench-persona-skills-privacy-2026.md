@@ -33,3 +33,7 @@ Persona skills distill personal interaction histories into portable and executab
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
+
+## Citation
+
+Yongli Xiang, Zhifang Zhang, Bojun Yang, Ziming Hong, Lei Feng, Miao Xu, & Tongliang Liu (2026). [When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills](https://arxiv.org/abs/2608.03700). arXiv:2608.03700. arXiv:2608.03700 [cs.CR].

@@ -54,3 +54,7 @@ The study's central message is that LLMs must be **designed and deployed to supp
 - [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
+
+## Citation
+
+Agnaou, A., & El Asri, H. (2025). [*Artificial intelligence and collaborative learning: Impacts on creativity, critical thinking, and problem-solving*](https://doi.org/10.5590/JERAP.2025.15.2120).

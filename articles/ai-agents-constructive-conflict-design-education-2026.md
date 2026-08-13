@@ -28,3 +28,7 @@ Investigates adversarial AI design agents that enact constructive conflict to pr
 - [[knowloop-confusion-to-consolidation-2026]] — From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+
+## Citation
+
+Howard Ziyu Han, & Nikolas Martelaro (2026). [Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers](https://arxiv.org/abs/2608.04166). arXiv:2608.04166. Human-Agent Interaction (HAI) 2026.

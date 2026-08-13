@@ -39,3 +39,7 @@ The integrated framework — where adaptive survey insights flow into specialize
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
+
+## Citation
+
+Tang, J. (2026). [New AI-Driven Tools for Enhancing Campus Well-being: A Prevention and Intervention Approach](https://arxiv.org/abs/2605.10804) [PhD Dissertation, University of Missouri]. arXiv:2605.10804.

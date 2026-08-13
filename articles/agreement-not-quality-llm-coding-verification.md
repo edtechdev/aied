@@ -40,3 +40,7 @@ The study contributes a transferable blind-verification protocol for evaluating 
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
 - [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
 - [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
+
+## Citation
+
+Liu, A., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., He, K., & Sun, M. (2026). [Agreement is not quality: Blind expert verification of human and LLM qualitative coding](https://arxiv.org/abs/2607.28890). arXiv:2607.28890.

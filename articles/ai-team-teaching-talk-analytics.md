@@ -25,3 +25,7 @@ This paper presents an AI-based speech processing approach to analyze classroom 
 - [[cold-start-knowledge-tracing-safeinsights]] — Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 - [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
+
+## Citation
+
+Liu, Y., Martinez-Maldonado, R., Alfredo, R., Mejia-Domenzain, P., Rahayu, D., & Nawaz, S. (2026). [*AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design*](https://arxiv.org/abs/2606.09831). arXiv:2606.09831.

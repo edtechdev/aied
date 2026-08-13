@@ -27,3 +27,7 @@ Mansi et al. (2026) introduce Concept Catalyst, a system designed around 'scruta
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
+
+## Citation
+
+Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl (2026). [Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI](https://arxiv.org/abs/2606.30590). arXiv:2606.30590. cs.HC.

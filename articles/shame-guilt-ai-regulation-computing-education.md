@@ -47,3 +47,7 @@ The findings suggest that prevailing responses to AI use — particularly those 
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
+
+## Citation
+
+Hamilton, K., Hou, I., Patel, D., Nnam, S., Patel, H., & MacNeil, S. (2026). [*"Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education*](https://arxiv.org/abs/2606.14920). arXiv:2606.14920.

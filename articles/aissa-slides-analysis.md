@@ -45,3 +45,7 @@ Tested with 46 undergraduate students in a real academic setting. Findings: tech
 - [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
 - [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
+
+## Citation
+
+Cobos, A.A.B.D.G.R. & 2026, V.L.S. (2026). [*AISSA: AI-based Student Slides Analysis Tool for Academic Presentations*](https://arxiv.org/abs/2605.04729)

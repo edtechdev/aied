@@ -43,3 +43,7 @@ Findings highlight the promise of reflective-agent approaches for scaling engage
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
 - [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing
+
+## Citation
+
+Do, L. A., Jiang, H., Aeron, S., & Thomas, A. K. (2026). [Measuring cognitive engagement in collaborative discourse with an extended ICAP framework. CogSci 2026](https://arxiv.org/abs/2607.28651). arXiv:2607.28651.

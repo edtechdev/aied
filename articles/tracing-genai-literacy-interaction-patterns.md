@@ -44,3 +44,7 @@ The study demonstrates that process data can characterize GenAI literacy in ways
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 - [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
 - [[prober-ai-inquiry-writing]] — Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing
+
+## Citation
+
+Angxuan Chen & Jiyou Jia (2026). [Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing](https://arxiv.org/abs/2606.00040). arXiv:2606.00040.

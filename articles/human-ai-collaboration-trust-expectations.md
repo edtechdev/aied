@@ -52,3 +52,7 @@ The authors note that the rapid evolution of GenAI makes it difficult to separat
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+
+## Citation
+
+Razmerita, L., Zheng, X., & Allen, J. P. (2026). [*Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust*](https://doi.org/10.1016/j.caeai.2026.100625).

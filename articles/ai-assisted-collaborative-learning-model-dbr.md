@@ -60,3 +60,7 @@ The study demonstrates that **AI functions most effectively as a collaborative l
 - [[polished-artifacts-fragile-engagement-2026]] — Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
+
+## Citation
+
+Putra, A. D., Wijanarko, F., & Safitri, N. (2026). [*Design-based research for developing an AI-assisted collaborative learning model to enhance critical thinking and problem-solving skills in higher education*](https://educationresourcescenter.com/jel/article/view/59).

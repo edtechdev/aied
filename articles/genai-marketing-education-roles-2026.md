@@ -33,3 +33,7 @@ Generative Artificial Intelligence (GAI) is increasingly being integrated into m
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
 - [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Rethinking Higher Education: From Fixed Curricula to Learnity Graphs
+
+## Citation
+
+Unnati Narang, Vishal Sachdev, & Ruichun Liu (2026). [When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education](https://arxiv.org/abs/2608.03973). arXiv:2608.03973. Journal of Public Policy & Marketing, 44(3), 473-489 (2025).

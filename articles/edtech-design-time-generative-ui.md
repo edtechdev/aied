@@ -50,3 +50,7 @@ For [[equity]] in [[edtech-platform]] design, the proposal implies that generati
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement
+
+## Citation
+
+Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026). [The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization](https://arxiv.org/abs/2606.15902). arXiv:2606.15902. NextGen Learning Interfaces Workshop, AIED 2026.

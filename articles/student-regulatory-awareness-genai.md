@@ -37,3 +37,7 @@ These findings highlight a significant gap between [[regulation|institutional re
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
 - [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
+
+## Citation
+
+Bischof, L., Schön, E.-M., Rauschenberger, M., & Neumann, M. (2026). [Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education](https://arxiv.org/abs/2606.12436). arXiv:2606.12436.

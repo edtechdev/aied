@@ -60,3 +60,7 @@ The study directly addresses a structural problem of [[collaborative-learning]] 
 - [[llm-critical-thinking-teamwork-review]] — Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
 - [[ai-collaborative-learning-systematic-review]] — A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+
+## Citation
+
+Kim, M., & Lim, C. (2025). [*AI chatbot design principles to enhance the collective efficacy in collaborative learning*](https://doi.org/10.1007/s12564-025-10080-z).

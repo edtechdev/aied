@@ -34,3 +34,7 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 - [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+
+## Citation
+
+Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). [Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics](https://arxiv.org/abs/2608.03968). arXiv:2608.03968. EDULEARN26 Proceedings (IATED, 2026).

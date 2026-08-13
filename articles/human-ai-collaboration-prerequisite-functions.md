@@ -50,3 +50,7 @@ For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapt
 - [[modular-educational-llm-agency]] — Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance
 - [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
+
+## Citation
+
+Mutlu Cukurova (2026). [What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it](https://arxiv.org/abs/2606.15509). arXiv:2606.15509. Handbook of AI and the Future of Education (forthcoming).

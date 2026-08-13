@@ -53,3 +53,7 @@ Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring 
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
 - [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 - [[llm-judged-helpfulness-pedagogy-signal]] — Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models
+
+## Citation
+
+Sun, Y., Liao, Y., & Ma, X. (2026). Advancing diagram-based reasoning in AI tutoring systems: A structural approach for STEM education. [*Smart Learning Environments*](https://doi.org/10.1186/s40561-026-00459-9). Advance online publication

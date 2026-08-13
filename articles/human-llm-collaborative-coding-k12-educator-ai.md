@@ -40,3 +40,7 @@ The article provides a procedural account (what LLMs can do, in which phases, un
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 - [[chat-debugging-human-ai-collaboration-circuits]] — Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
+
+## Citation
+
+Liu, A., Sun, M., Esbenshade, L., Xiao, M., Tian, V., Zhang, Z., & He, K. (2026). [Human-LLM collaborative inductive coding for conceptualizing K-12 educator AI use](https://arxiv.org/abs/2607.28889). arXiv:2607.28889.

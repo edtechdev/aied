@@ -47,3 +47,7 @@ The article translates the argument into a deployment-review question: what will
 - [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
+
+## Citation
+
+Kai Yao (2026). [When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution](https://arxiv.org/abs/2607.28041). arXiv:2607.28041. cs.CY.

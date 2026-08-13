@@ -40,3 +40,7 @@ The authors discuss limitations (integration complexity, content-authoring burde
 - [[wordstream-glass-learning-analytics]] — Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
 - [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
+
+## Citation
+
+Yusubov, A., Bechtel, M., & Alizada, T. (2026). [Hypergamigication through integrating game engines and learning management systems: Ender's Game](https://arxiv.org/abs/2607.29300). arXiv:2607.29300.

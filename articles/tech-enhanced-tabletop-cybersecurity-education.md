@@ -47,3 +47,7 @@ The work demonstrates how technology enhancement can close the gap between profe
 - [[q-learning-lab-rl-teaching]] — Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis
 - [[llm-design-problems-hot-pjbl]] — LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
 - [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
+
+## Citation
+
+Jan Vykopal, Pavel Čeleda, Martin Horák, Valdemar Švábenský (2026). [Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned](https://arxiv.org/abs/2607.28179). arXiv:2607.28179. cs.CY, cs.CR.

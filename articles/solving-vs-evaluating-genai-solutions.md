@@ -47,3 +47,7 @@ The results speak directly to the debate over how computing educators should res
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
 - [[ai-generated-instructional-videos-computing-ed]] — Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
 - [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction at a Large University
+
+## Citation
+
+Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). [Is Solving Better Than Evaluating GenAI Solutions?](https://arxiv.org/abs/2607.27586). arXiv:2607.27586. cs.CY, cs.AI.

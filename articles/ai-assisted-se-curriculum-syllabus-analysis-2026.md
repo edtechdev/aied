@@ -36,3 +36,7 @@ analyses 23 publicly available syllabi from upper-division, credit-bearing unive
 - [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Rethinking Higher Education: From Fixed Curricula to Learnity Graphs
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
+
+## Citation
+
+Geng, Francis et al. (2026). [Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis](https://arxiv.org/abs/2608.05898). arXiv:2608.05898.

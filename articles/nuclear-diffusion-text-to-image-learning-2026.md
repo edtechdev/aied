@@ -26,3 +26,7 @@ Systematic study of domain-adapted text-to-image models for nuclear engineering 
 - [[curriculum-as-code-instructional-design-2026]] — Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
 - [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers
+
+## Citation
+
+Mohammed I. Radaideh, Jeremy Moon, Andre Gala-Garza, Emma Son, Yug Shah, & Majdi I. Radaideh (2026). [NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts](https://arxiv.org/abs/2608.04030). arXiv:2608.04030. arXiv preprint (cross-listed cs.GR/cs.CY).

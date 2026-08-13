@@ -24,3 +24,7 @@ This paper identifies the didactic narrowing caused by fully digital e-assessmen
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
 - [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+
+## Citation
+
+Grabowski, H., & Canz, M. (2026). [*Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations*](https://arxiv.org/abs/2606.08855). arXiv:2606.08855.

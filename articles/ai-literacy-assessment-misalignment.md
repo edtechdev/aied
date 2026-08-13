@@ -46,3 +46,7 @@ The low correlation between self-reported and objective-based factors is a stron
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[hybrid-e-assessment-semi-automated-grading]] — Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations
+
+## Citation
+
+Zhang, S., Xiao, R., Botelho, A. F., Liao, G., Chiu, T. K. F., Stamper, J., & Koedinger, K. R. (2026). [*How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures*](https://arxiv.org/abs/2601.06101). arXiv:2601.06101.

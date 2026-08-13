@@ -44,3 +44,7 @@ Automated question generation reduces manual authoring burden for educators and 
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal Item Parameter Estimation using Simulated Response Probabilities
 - [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
+
+## Citation
+
+F, A.W.Y.S.J.C.P. (2026). [*Generate-Then-Validate: Question Generation for Education*](https://arxiv.org/abs/2512.10110). (LAK 2026), April 27-May 01 Wei, Y., Stamper, J., et al. (2025). *Generate-Then-Validate: A Novel Question Generation Approach*. arXiv preprint arXiv:2512.10110.

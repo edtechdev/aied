@@ -29,3 +29,7 @@ Results show MLLMs do **not** exhibit uniform SciVis literacy. Gemini is the str
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
+
+## Citation
+
+Patrick Phuoc Do, Chau M. Ta, Chaoli Wang (2026). [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](https://arxiv.org/abs/2607.15176). arXiv:2607.15176.

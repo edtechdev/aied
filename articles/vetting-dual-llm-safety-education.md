@@ -53,3 +53,7 @@ The authors caution that the taxonomy is exploratory rather than fully validated
 - [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
+
+## Citation
+
+Li, H., Zhang, S., & Botelho, A. F. (2026). [*VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI*](https://doi.org/10.1016/j.caeai.2026.100646).

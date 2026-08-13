@@ -37,3 +37,7 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
 - [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
+
+## Citation
+
+Zekun Wu, Man Su, Huiyong Li, Tomohiro Nagashima, Anna Maria Feit (2026). [Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration](https://arxiv.org/abs/2607.00445). arXiv:2607.00445. submitted 1 Jul 2026

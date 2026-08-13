@@ -57,3 +57,7 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 - [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers
 - [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
+
+## Citation
+
+Cukurova, M., Suraworachet, W., Zhou, Q., & Bulathwela, S. (2025). [*Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence*](https://arxiv.org/abs/2511.19580). arXiv preprint.

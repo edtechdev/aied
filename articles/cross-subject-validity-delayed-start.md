@@ -37,3 +37,7 @@ This study examines the [[student-modeling]] validity of **delayed start behavio
 - [[interactive-learning-dashboards-engagement]] — Interactive learning dashboards: rethinking learning visualisations as engagement tools
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
 - [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
+
+## Citation
+
+Gutterman, J., Gurung, A., Branstetter, L., Koedinger, K., & Aleven, V. (2026). [Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior](https://arxiv.org/abs/2606.25308). arXiv:2606.25308. cs.CY.

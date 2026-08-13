@@ -35,3 +35,7 @@ Vision-language models (VLMs) have been explored for visual programming, where t
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
+
+## Citation
+
+for, T.U.A.B.M.M., Graphics, V.P.I.T., Wen, C., Staub, J., tasks, T.U.A.A.B.C., visual, Y.E.A.L.E.A.B., & Rodriguez, Y.E.A.W.E.A. (2026). [*TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics*](https://arxiv.org/abs/2606.03626). T URTLE AI, each task requires a VLM to generate Python code that reproduces a target image

@@ -63,3 +63,7 @@ The framework gives [[instructional-design]] practitioners a vocabulary for usin
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
+
+## Citation
+
+Dabbagh, N., & Fake, H. (2026). [*Generative AI (GenAI) as a mindtool that supports generative learning (GL)*](https://doi.org/10.1016/j.caeai.2026.100626).

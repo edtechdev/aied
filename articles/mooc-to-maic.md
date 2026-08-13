@@ -58,3 +58,7 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 - [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
+
+## Citation
+
+Yu, J., Zhang, Z., Zhang-li, D., Tu, S., Hao, Z., Li, R., ... Liu, Z., Liu, H., & Sun, M. (2024). [*From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512). arXiv:2409.03512.

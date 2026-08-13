@@ -47,3 +47,7 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
+
+## Citation
+
+Baksh, F., Zorec, M. B., Baksh, F., & Kruusamäe, K. (2026). [*Co-Creating Buildable and Open Social Robot Study Companions with University Students*](https://arxiv.org/abs/2606.15239). arXiv:2606.15239. ICSR + ART 2026, London.

@@ -25,3 +25,7 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 - [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+
+## Citation
+
+Lee, Y.-C., Boonprakong, N., Tan, Y., Soh, H., et al. (2026). [*Reshaping Undergraduate Computer Science Education in the Generative AI Era*](https://arxiv.org/abs/2606.07545). arXiv:2606.07545.

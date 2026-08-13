@@ -35,3 +35,7 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+
+## Citation
+
+Danielle R. Thomas, Marie Cynthia Abijuru Kamikazi, Clara Brandt, Conrad Borchers, Kenneth R. Koedinger (2026). [AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice](https://arxiv.org/abs/2606.18617). arXiv:2606.18617.

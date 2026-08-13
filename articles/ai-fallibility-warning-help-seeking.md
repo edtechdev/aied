@@ -35,3 +35,7 @@ Recent work in Technology-Enhanced Learning and HumanComputer Interaction highli
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI Tutors: Empower or Enslave?
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
 - [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
+
+## Citation
+
+Nagashima, T., Hladký, M., & Rief, V. (2026). [*Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System*](https://arxiv.org/abs/2606.03822). arXiv:2606.03822.

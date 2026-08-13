@@ -48,3 +48,7 @@ For AI in education, the Moltbook analysis suggests that multi-agent systems can
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
+
+## Citation
+
+Eason Chen et al. (2026). [When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community](https://arxiv.org/abs/2602.14477). arXiv:2602.14477. cs.HC.

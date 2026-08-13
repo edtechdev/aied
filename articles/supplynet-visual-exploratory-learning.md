@@ -42,3 +42,7 @@ SupplyNet represents a novel application of [[intelligent-tutoring]] principles 
 - [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
 - [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
+
+## Citation
+
+Li, Y., Han, K. K., Hu, T., Cao, Y.-F., Qu, H., & Song, S. (2026). [SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation](https://arxiv.org/abs/2606.24694). arXiv:2606.24694.

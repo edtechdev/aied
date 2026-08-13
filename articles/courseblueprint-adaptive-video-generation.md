@@ -26,3 +26,7 @@ Islam et al. (2026) address a core limitation of generative text-to-video for ed
 - [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
+
+## Citation
+
+Md Zabirul Islam, Md Motaleb Hossen Manik, Ge Wang (2026). [CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora](https://arxiv.org/abs/2606.20608). arXiv:2606.20608. arXiv:2606.20608 (cs.CY; cs.AI; cs.CV)

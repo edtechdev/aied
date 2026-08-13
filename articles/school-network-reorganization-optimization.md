@@ -47,3 +47,7 @@ As school districts worldwide face declining enrollments and budget pressures, A
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
+
+## Citation
+
+Ciacco, A., Di Puglia Pugliese, L., & Guerriero, F. (2026). [*School network reorganization under educational and spatial constraints using classical and quantum optimization*](https://arxiv.org/abs/2608.05427v1). arXiv:2608.05427v1.

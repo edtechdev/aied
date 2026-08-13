@@ -51,3 +51,7 @@ The authors identify several design constraints: the one-group pre-/post-test de
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+
+## Citation
+
+Kong, S. C., & Wang, Q. (2026). [*Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design*](https://doi.org/10.1016/j.caeai.2026.100631).

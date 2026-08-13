@@ -48,3 +48,7 @@ Memdora illustrates how AI-powered spaced repetition can move beyond scheduling 
 - [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
 - [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
+
+## Citation
+
+Ruiyang Zhang (2026). [Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition](https://arxiv.org/abs/2607.25096). arXiv:2607.25096. cs.HC.

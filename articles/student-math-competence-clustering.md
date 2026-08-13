@@ -36,3 +36,7 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
 - [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
+
+## Citation
+
+Benjamin Mawdsley, Tom Quilter, Richard Turner, Sarah Jackson, Paul Edwards (2026). [Archetypes or ability? Clustering for modelling student mathematical competence](https://arxiv.org/abs/2607.26063). arXiv:2607.26063. arXiv preprint.

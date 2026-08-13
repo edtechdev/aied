@@ -45,3 +45,7 @@ The study is a concrete demonstration that [[ai-literacy]] behaves as a developm
 - [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
+
+## Citation
+
+Vinicius Santana Gomes (2026). [The Main Barrier to AI Adoption in the Public Sector is Lack of Training](https://arxiv.org/abs/2606.01517). arXiv:2606.01517.

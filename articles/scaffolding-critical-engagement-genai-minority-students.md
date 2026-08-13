@@ -43,3 +43,7 @@ Results indicate pedagogical scaffolding can transform how minoritized students 
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+
+## Citation
+
+Wang, D., & Bian, C. (2026). [Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse in prompt engineering tasks. AIED 2026](https://arxiv.org/abs/2607.28630). arXiv:2607.28630.

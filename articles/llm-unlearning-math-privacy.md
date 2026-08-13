@@ -54,3 +54,7 @@ The findings are limited to the Algebra I context in which unlearning was applie
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
 - [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI
 - [[knowledge-distillation-ai-tutor-evaluation]] — Knowledge Distillation for Automated AI Tutor Evaluation
+
+## Citation
+
+Li, C., Gülfidan, G., & Zhang-Kopf, Y. (2026). [*Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education*](https://doi.org/10.1016/j.caeai.2026.100642).
