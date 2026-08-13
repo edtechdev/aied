@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 579 articles and 117 concepts.
+> Complete text of 579 articles and 119 concepts.
 
 # Articles
 
@@ -13752,14 +13752,26 @@ Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Sto
 
 ## [Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency](https://edtechdev.github.io/aied/articles/hcap-human-centric-ai-pedagogy-framework-2026/)
 
-> **Synthesis:** Chiu (2026) proposes the Human-Centric AI Pedagogy (HCAP) framework, an evolution of TPACK designed for the generative AI era. Arguing that AI's agentic autonomy, epistemic complexities, and ethical dimensions render the established Technological Pedagogical Content Knowledge model insufficient, the framework integrates five knowledge domains: AI-Technological, AI-Content, AI-Pedagogical, Human-AI Collaborative, and Ethical Knowledge. A three-round Delphi study with 30 teachers across diverse subjects produced consensus on 25 critical knowledge items, providing an empirically grounded model that translates theoretical AI pedagogy into actionable teacher competencies.
+> **Synthesis:** Chiu (2026) proposes the Human-Centric AI Pedagogy (HCAP) framework, an evolution of the Technological Pedagogical Content Knowledge (TPACK) model designed for the generative AI era. Arguing that AI's agentic autonomy, epistemic complexities, and ethical dimensions render the established TPACK framework insufficient, HCAP integrates five knowledge domains: AI-Technological, AI-Content, AI-Pedagogical, Human-AI Collaborative, and Ethical Knowledge. A three-round Delphi study with 30 teachers across diverse subjects produced a consensus on 25 critical knowledge items, providing an empirically grounded model that translates theoretical AI pedagogy into actionable teacher competencies and equips educators to move from merely using AI to strategically orchestrating human-AI collaborative learning.
 
 ## Key Findings
 
-- HCAP extends TPACK with two new knowledge domains — Human-AI Collaborative Knowledge and Ethical Knowledge — responding to AI's agentic autonomy and ethical complexity
-- A three-round Delphi method with 30 teachers from diverse subjects refined a consensus list of 25 critical knowledge items across the five HCAP domains
-- The framework provides a concrete roadmap for teacher education, translating theory into actionable competencies for orchestrating human-AI collaborative learning
-- Positions teachers as strategic orchestrators who use AI ethically, critically, and productively rather than merely as tool users
+- **HCAP extends TPACK with five interdependent knowledge domains:** three that transform the original TPACK cores through a sociotechnical lens — AI-Technological Knowledge (I-TK), AI-Content Knowledge (I-CK), and AI-Pedagogical Knowledge (I-PK) — plus two entirely novel domains: **Human-AI Collaboration Knowledge (HAIC-K)** and **Ethical Knowledge (Ethics-K)**.
+- The framework addresses four critical gaps in TPACK: **tool agency** (understanding AI's operational logic, probabilistic nature, and prompt engineering), **epistemic challenges** (teachers shifting from content deliverers to critical validators), **ethical complexity** (making ethical reasoning a core, explicit domain), and **dynamic collaboration** (conceptualizing human-AI collaboration where cognitive tasks are shared).
+- A **three-round Delphi study with 30 teachers** (adopting a 75% agreement threshold) refined and reached consensus on **25 critical knowledge items** across the five domains, including: prompt engineering, limitation awareness, system auditing, data fundamentals, tool integration (I-TK); critical validation/source triangulation, bias detection, contextualization, disciplinary methodological critique (I-CK); reflective practice, assessment redesign, scaffolded co-agency design, personalization, ethical integration (I-PK); dynamic role allocation, interaction flow design, critical dialogue, critical interdependence, group dynamics collaboration (HAIC-K); and equity auditing, data privacy, usage protocols, societal impact, well-being advocacy, inclusive design (Ethics-K).
+- The knowledge domains are anchored in foundational literacies: I-TK in data and computational literacy, I-CK/I-PK in critical/algorithmic/media and scientific literacies, HAIC-K in collaborative and epistemic literacies, and Ethics-K in ethical and well-being literacies.
+
+## Study Design & Method
+
+This study used a **three-round Delphi method** with a panel of 30 teachers from diverse subjects to establish expert consensus on the knowledge and skills required within each HCAP domain. An initial list of 20 knowledge items was refined iteratively: in Round One, seven items reached consensus and two new items were proposed; in Round Two, four more reached consensus, one new item (well-being advocacy) was proposed, and some items were split or renamed; in Round Three, nine more reached consensus and one new item (ethical integration) was proposed. The final list comprised 25 knowledge items. The study adopted a 75% agreement threshold (in line with prior Delphi research), and items endorsed for removal by more than half of the teachers were excluded. Teacher modifications to item labels and descriptions were incorporated across rounds.
+
+## Implications for AI in Education
+
+The HCAP framework provides a concrete, empirically grounded roadmap for teacher education and [[faculty-development]], translating a theoretical model into actionable competencies for orchestrating human-AI collaborative learning. It positions teachers not merely as tool users but as **strategic orchestrators and conductors of human-AI collaboration** who use AI ethically, critically, and productively. The five-domain structure offers a practical basis for designing future-ready teacher training programs and professional development, connecting to [[ai-literacy]], [[teacher-ai-competency]], [[teacher-role]], and [[instructional-design]]. It responds to the paradigm shift from passive, deterministic digital tools to active, agentic AI systems, and its ethical and collaboration domains address the human-centred concerns central to responsible [[ai-education]] in the generative AI era.
+
+## Limitations
+
+The study's consensus was derived from a panel of 30 teachers, and the 75% agreement threshold and consensus criteria are inherently subjective (as the author notes, there are no universal standards for Delphi consensus). The knowledge items reflect a teacher-perspective view and were validated through expert consensus rather than classroom outcome data; the framework's implementation effectiveness requires empirical validation in practice. The Delphi refinement process involved renaming and restructuring items, so the final 25-item list reflects the specific panel's judgements and may not generalize to all educational contexts.
 
 ## Connected Concepts
 
@@ -13773,14 +13785,16 @@ Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Sto
 
 ## Connected Articles
 
-- [[ai-tpack-preservice-math-teachers]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[finkelstein-principled-ai-education-2025]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
+- [[ai-tpack-preservice-math-teachers]] — AI-TPACK and Pre-Service Math Teachers
+- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK Teacher Multi-Agent Workflow
+- [[finkelstein-principled-ai-education-2025]] — Principled AI Education
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
+- [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
 
 ## Citation
 
-Chiu, T. K. F. (2026). [*Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency*](https://doi.org/10.1080/10494820.2026.2615818). Interactive Learning Environments.
+Chiu, T. K. F. (2026). [*Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency*](https://doi.org/10.1080/10494820.2026.2615818). *Interactive Learning Environments*.
 
 ---
 
@@ -18202,14 +18216,27 @@ Ruiyang Zhang (2026). [Memdora: Designing Cognitively-Grounded Flashcard Interac
 
 ## [Metacognitive AI literacy: going beyond the AI skills gap agenda](https://edtechdev.github.io/aied/articles/metacognitive-ai-literacy-beyond-skills-gap-2026/)
 
-> **Synthesis:** Shapiro, Souto-Otero, and Watermeyer (2026) argue that conventional AI literacy frameworks anchored in functional skills acquisition fail to address the epistemological challenges of probabilistic, opaque algorithmic systems. They reconceptualize AI literacy as a metacognitive social practice that transcends individual competencies to encompass collective capacity for critical engagement with AI design, deployment, and governance. Drawing on case studies from higher education institutions and the Nordic financial sector, the article illustrates how participatory co-design processes and experimental pedagogical spaces can cultivate metacognitive awareness and democratic agency, arguing that universities must evolve beyond skills transmission to become sites of collective intelligence.
+> **Synthesis:** Shapiro, Souto-Otero, and Watermeyer (2026) argue that conventional AI literacy frameworks anchored in functional skills acquisition fail to address the fundamental epistemological challenges posed by probabilistic, opaque algorithmic systems. They reconceptualize AI literacy as a **metacognitive social practice** that transcends individual competencies to encompass collective capacity for critical engagement with AI design, deployment, and governance. Drawing on case studies from higher education institutions and the Nordic financial sector, they illustrate how participatory co-design processes and experimental pedagogical spaces can cultivate metacognitive awareness and democratic agency — arguing that universities must evolve beyond skills transmission to become sites of collective intelligence that anchor AI literacy as a public good.
 
 ## Key Findings
 
-- Argues AI literacy is not simply an extension of digital literacy but represents a paradigm shift driven by AI's probabilistic reasoning and epistemic opacity
-- Reconceptualizes AI literacy as a metacognitive social practice — transcending individual skill acquisition toward collective critical engagement
-- Case studies from higher education and the Nordic financial sector show participatory co-design and experimental pedagogical spaces cultivate metacognitive awareness
-- Concludes efficacious AI literacy development requires institutional transformation, positioning universities as sites of collective intelligence rather than skills transmission
+- **AI literacy is a paradigm shift, not an extension of digital literacy:** the probabilistic nature and epistemic opacity of contemporary AI systems (particularly large language models) render traditional rule-based digital literacy paradigms obsolete; learners must navigate probabilistic reasoning, continuously question outcomes, and consider AI's broader impacts.
+- **Reconceptualizes AI literacy as a metacognitive social practice** — transcending individual skill acquisition toward collective critical engagement with AI design, deployment, and governance, rather than just functional tool use.
+- **Case studies show participatory co-design and experimental pedagogical spaces cultivate metacognitive awareness:** examples include Aalborg (interdisciplinary project-based engineering), Aalto, Strathmore (GAEIA, engaging ~200 postgraduate students across Global North and South), Northeastern's "robot-proof" university / Humanics model, Stanford's sandbox environments, and a Nordic bank's agentic-AI implementation that used co-design as a vehicle for metacognition.
+- **Efficacious AI literacy requires institutional transformation:** universities must evolve beyond skills transmission to become sites of collective intelligence where learners interrogate algorithmic power structures and mobilize alternative AI futures; AI literacy is framed as a governance problem, not merely a technical or educational challenge.
+- The framework transforms universities across three dimensions: **epistemically** (beyond functional skills to interrogating how algorithmic systems reshape knowledge production), **civically** (cultivating ethical agency to contest power asymmetries), and **institutionally** (reclaiming legitimacy as custodians of collective intelligence rather than vendors of digital credentials).
+
+## Study Design & Method
+
+This is a **conceptual/argumentative article** (not an empirical study) drawing on case studies and literature analysis. It synthesizes scholarship on digital/media literacies, critical pedagogy, algorithmic governance, and higher education transformation (including Giroux, Marginson, Williamson, Pangrazio, Crawford, Eubanks, and Watermeyer). The authors present illustrative case studies of AI literacy in practice across higher education institutions (Aalborg, Aalto, Strathmore, Northeastern, Stanford) and the adult continuing training sector (a Nordic bank's agentic-AI implementation), examining how metacognitive AI literacy is operationalized across pedagogical design, organisational governance, and socio-technical experimentation.
+
+## Implications for AI in Education
+
+The article reframes [[ai-literacy]] away from functional skills acquisition toward a **metacognitive social practice** relevant to [[higher-ed]] and [[ai-education]]. It argues that embedding AI literacy requires more than adding AI courses or tools — learning environments must enable learners to monitor and adjust their strategies in response to uncertain or opaque results, fostering scientific scepticism rather than narrow functional proficiency, connecting to [[metacognition]] and [[critical-thinking]]. It positions universities as essential infrastructure for civic resilience, demanding a fundamental reconfiguration of university missions, governance structures, and pedagogical approaches so AI literacy serves as a public good rather than a private asset. The article's case studies offer concrete models (participatory co-design, experimental pedagogical spaces, challenge-based collaboration) for cultivating metacognitive awareness and democratic agency, relevant to [[teacher-role]] and [[ethics]] and to algorithmic governance.
+
+## Limitations
+
+As a conceptual article, the argument is not empirically tested, and the case studies are illustrative rather than systematically evaluated. The authors acknowledge the tension that universities operate under neoliberal funding regimes and "efficiency logics" that marginalize critical pedagogy, which limits the practical feasibility of the proposed transformation. The Nordic financial-sector case is adult-learning-focused rather than higher-education-specific, and the institutional examples span very different national contexts without comparative assessment. The proposal for institutional transformation is programmatic rather than operationalized.
 
 ## Connected Concepts
 
@@ -18223,14 +18250,15 @@ Ruiyang Zhang (2026). [Memdora: Designing Cognitively-Grounded Flashcard Interac
 
 ## Connected Articles
 
-- [[possibility-ai-literacy-critical-editorial]]
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]]
-- [[tracing-genai-literacy-interaction-patterns]]
-- [[ai-literacy-power-knowledge]]
+- [[possibility-ai-literacy-critical-editorial]] — The (Im)possibility of AI Literacy
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
+- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy Interaction Patterns
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
 
 ## Citation
 
-Shapiro, H., Souto-Otero, M., & Watermeyer, R. (2026). [*Metacognitive AI literacy: going beyond the AI skills gap agenda*](https://doi.org/10.1080/17439884.2026.2652638). Learning, Media and Technology.
+Shapiro, H., Souto-Otero, M., & Watermeyer, R. (2026). [*Metacognitive AI literacy: Going beyond the AI skills gap agenda*](https://doi.org/10.1080/17439884.2026.2652638). *Learning, Media and Technology*.
 
 ---
 
@@ -18411,32 +18439,32 @@ Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Li
 
 ## [Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies](https://edtechdev.github.io/aied/articles/misiejuk-cognitive-offloading-prompting-2026/)
 
-> **Synthesis:** Misiejuk, López-Pernas, Kaliisa & Saqr (2026) analyze 281 prompts from 122 student submissions across four assignments to examine how prompting strategies reveal cognitive offloading in student–AI collaboration. High-quality submissions show cohesive patterns integrating contextual details, instructions, and polite language; low-quality submissions are characterized by disagreement and direct instruction without contextual groundwork. The study uses Co-Occurrence Network Analysis (CNA) to map how students distribute cognitive effort when working with LLMs.
+> **Synthesis:** Misiejuk, López-Pernas, Kaliisa, and Saqr (2026) analyze 281 prompts from 122 student submissions across four assignments to examine how prompting strategies reveal cognitive offloading in student–AI collaboration. Using qualitatively coded prompts and Co-Occurrence Network Analysis (CNA), they found that high-quality submissions demonstrated cohesive prompting patterns integrating contextual details, instructions, and polite language — leading to fewer disagreements and more effective task guidance — while low-quality submissions were characterized by disagreement and direct instructions with limited contextualization. Notably, across both groups a convergence toward low-effort, direct instruction emerged, suggesting AI "leveled" achievement by encouraging cognitive laziness and reducing the incentive for deeper cognitive engagement.
 
 ## Key Findings
 
-- **281 prompts from 122 submissions** across 4 assignments in a social network analysis course at a Finnish university
-- **High-quality submissions:** Cohesive prompting with *context–instruction–polite language* triads, fewer disagreements — indicating students provided domain knowledge and guided AI output, then critically engaged with results
-- **Low-quality submissions:** Characterized by *disagreement–instruction* patterns, limited contextualization, and little constructive engagement — students issued orders and reacted negatively when AI didn't deliver
-- **Polite language surprisingly significant:** Not mere social convention — polite prompts correlated with more deliberate, effortful interaction patterns
-- **Disagreement as offloading indicator:** Reactive codes (disagreement, agreement) reflect higher cognitive offloading — the student is reacting to AI output rather than directing the interaction with their own knowledge
+- **281 prompts from 122 submissions** were analyzed across four assignments in a course where students used LLMs to generate social network datasets.
+- **High-quality submissions** showed cohesive prompting with strong *context–instruction–output-specification–polite-language* connections (e.g., context–instruction 0.25, output specification–instruction 0.28), with students providing domain knowledge and contextual details rather than delegating interpretation to the LLM — resulting in fewer disagreements.
+- **Low-quality submissions** were characterized by *disagreement–instruction* and *disagreement–output-specification* patterns with limited contextualization, indicating students issued orders and reacted negatively when AI didn't deliver, without contributing their own knowledge.
+- **Cognitive offloading was asymmetric:** reactive codes (disagreement, agreement) reflect higher offloading — the student reacts to AI output rather than directing the interaction with their own reasoning.
+- **A "leveling" tendency emerged:** across both quality groups, prompting converged toward low-effort, direct instruction over time; high achievers accepted AI output with minimal critical engagement, and low performers' inertia was reinforced. The convenience of AI reduced the incentive for refinement and deeper cognitive effort, effectively lowering the standard of engagement to the cohort's minimal common denominator.
+- **Longitudinal divergence:** the similarity between high- and low-quality prompting patterns was high in Assignments 1–3 (Pearson correlations 0.952, 0.935, 0.982) but dropped sharply in Assignment 4 (0.485), as disagreement-dominated patterns became more prominent in low-quality submissions.
 
-## Methodology
+## Study Design & Method
 
-Students used LLMs to generate network datasets meeting specified criteria. Each prompt was binary-coded for 6 categories: *Instruction*, *Context*, *Output specification*, *Disagreement*, *Agreement*, and *Polite language*. Co-Occurrence Network Analysis (CNA) was then applied to map how code combinations clustered within prompts across high- and low-quality submission groups.
+This longitudinal study analyzed student–AI interactions in a semester-long social network analysis course at a Finnish university. Students used LLMs to generate their own network datasets meeting specified criteria across four assignments. A total of 281 prompts from 122 submissions were qualitatively coded into six binary categories: *Instruction*, *Context*, *Output specification*, *Disagreement*, *Agreement*, and *Polite language*. **Co-Occurrence Network Analysis (CNA)** was applied to map how prompt-code combinations clustered within and across submissions, with separate networks for high- and low-quality submissions, subtraction networks to quantify differentiating connections, and centrality analysis (in-strength, diffusion). Longitudinal networks tracked patterns across the four assignments, with Pearson/Spearman correlations quantifying convergence or divergence between the quality groups over time.
 
 ## Implications for AI in Education
 
-This study directly contributes to understanding [[cognitive-offloading]] in practice — not as a theoretical concern but as observable patterns in how students distribute cognitive effort. High-quality submissions did **not** avoid AI use; they integrated AI use with active cognitive engagement. This aligns with [[genai-performance-vs-learning]] findings that how students use AI matters more than whether they use it.
+The study contributes to understanding [[cognitive-offloading]] as observable patterns in student prompting, not just a theoretical concern. It shows high-quality AI use integrates active cognitive engagement (contextual prompting, specifying expectations) rather than avoiding AI, connecting to [[genai-performance-vs-learning|distinguishing performance gains from learning]] and the finding that *how* students use AI matters more than *whether* they use it. The "leveling" tendency and cognitive-laziness finding support [[over-reliance]] research and [[cognitive-load-theory]]: excessive offloading risks diminishing the germane cognitive load needed for transferable mental models. The contextual-prompting finding supports [[scaffolding]] approaches that teach students to prompt with context, and the longitudinal dimension shows prompting strategies evolve with practice, informing [[ai-literacy]] curriculum design and [[learning-analytics]] approaches for monitoring student–AI collaboration.
 
-The finding that *contextual prompting* (providing domain details in prompts) correlates with quality connects to [[prompt-engineering]] and [[prompt-engineering]] research. It also supports [[scaffolding]] approaches that teach students to prompt with context rather than issuing bare instructions. The longitudinal dimension — tracking patterns across 4 assignments — provides evidence that prompting strategies evolve with practice, relevant to [[ai-literacy]] curriculum design.
+## Limitations
 
-The [[cognitive-load-theory]] framing connects to [[over-reliance]] research: when students offload generative work without contributing domain knowledge, learning suffers even if task completion looks successful.
+The study is context-specific (a social network analysis course, LLM-based dataset generation), and the prompting patterns may not generalize to other task types or disciplines. The "leveling" tendency could reflect the specific task design (minimal-effort tasks with plausible instant outputs) rather than a general characteristic of LLM-assisted work, as the authors acknowledge. The sample is 281 prompts from 122 submissions at a single university. Prompt quality was inferred from output quality, and the relationship between prompting behavior and learning outcomes is not directly causally tested.
 
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[prompt-engineering]]
 - [[prompt-engineering]]
 - [[ai-literacy]]
 - [[cognitive-load-theory]]
@@ -18445,10 +18473,11 @@ The [[cognitive-load-theory]] framing connects to [[over-reliance]] research: wh
 - [[higher-ed]]
 - [[scaffolding]]
 - [[learning-analytics]]
+- [[self-regulated-learning]]
 
 ## Connected Articles
 
-- [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
+- [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
 - [[genai-can-harm-teaching-rct-2026]] — GenAI Tools: Improving Teaching Quality?
 - [[instructional-guidance-genai-learning]] — Instructional Guidance and GenAI Learning
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work
@@ -18456,7 +18485,7 @@ The [[cognitive-load-theory]] framing connects to [[over-reliance]] research: wh
 
 ## Citation
 
-Misiejuk, K., López-Pernas, S., Kaliisa, R., & Saqr, M. (2026). [*Cognitive offloading in student–AI collaboration: A longitudinal analysis of prompting strategies*](https://doi.org/10.1016/j.chbr.2026.101130). *Computers in Human Behavior Reports*, 22, 101130. doi:10.1016/j.chbr.2026.101130.
+Misiejuk, K., López-Pernas, S., Kaliisa, R., & Saqr, M. (2026). [*Cognitive offloading in student–AI collaboration: A longitudinal analysis of prompting strategies*](https://doi.org/10.1016/j.chbr.2026.101130). *Computers in Human Behavior Reports*, 22, 101130.
 
 ---
 
@@ -20575,14 +20604,28 @@ Kimmerle, J. (2026). [*Polished Artifacts, Fragile Engagement? Tackling the Chal
 
 ## [The (im)possibility of AI literacy](https://edtechdev.github.io/aied/articles/possibility-ai-literacy-critical-editorial/)
 
-> **Synthesis:** Pangrazio (2026) offers a critical editorial examining whether AI literacy is a meaningful or even achievable goal. Tracing the history of literacy from its elite origins through mass institutionalization, the article argues that AI literacy has been positioned as a "cure-all" — a solutionist, normative response to the complex and evolving phenomenon of AI. The analysis questions what literacy actually means when applied to opaque, rapidly changing AI systems, and whether current AI literacy discourse can move beyond simplified skill-based framings to address the epistemological and political dimensions of AI.
+> **Synthesis:** Pangrazio (2026) offers a critical editorial questioning whether AI literacy is a meaningful or even achievable goal. Tracing the history of literacy from its elite origins through mass institutionalization, she argues that AI literacy has been positioned as a "cure-all" — a solutionist, normative response to the complex and evolving phenomenon of AI. The analysis asks what "text" AI literacy actually refers to when AI is embedded, opaque, self-evolving, and deeply entangled in platforms and power structures, and whether current AI literacy discourse can move beyond instrumental skill-based framings to address the epistemological and political dimensions of AI — proposing that literacy, rights, and sovereignty responses must be developed in tandem.
 
 ## Key Findings
 
-- Critiques the positioning of AI literacy as a solutionist "cure-all" for the societal challenges of AI
-- Traces the history of literacy to argue that literacy is never neutral — it is tied to power, access, and cultural authority
-- Questions whether conventional literacy framings can accommodate the opacity, fluidity, and unpredictability of AI systems
-- Argues for rethinking AI literacy beyond normative skill checklists toward critical engagement with the politics and epistemology of AI
+- **Literacy is never neutral:** tracing literacy from sixteenth-century elite domains through the Protestant Reformation, mass institutionalization, and Freirean critical literacy, Pangrazio argues literacy has always been tied to power, access, cultural authority, and social order — yet this contested history is forgotten in the rush to make AI literacy a "cure-all."
+- **What is the "text" of AI?** Conventional literacy applies to a text (a book, movie, article) that can be decoded and comprehended. For AI, the "text" is unclear — the algorithm? the LLM? the data? This makes a critical-literacy deconstruction (identifying assumptions, contradictions, intertextual references) very difficult.
+- **AI is embedded, opaque, and evolving:** AI is often not an isolated tool but part of an ecosystem (e.g., Copilot inside Microsoft 365), can be self-evolving/autonomous, is deliberately opaque (its construction is the domain of computer scientists), and most literacy approaches equate AI with generative AI, overlooking content-moderation and other instantiations.
+- **Programmatic practices:** AI reshapes practices, values, and behaviours in ways that make critique harder — it curates and shapes public discourse while also being an object to discuss and regulate (Ananny's public object/public agent distinction). Criticality requires independent thought not shaped by the very technology being scrutinized.
+- **Digital literacies are declining and commercially captured:** despite ~30 years of digital-literacies research, standardized tests (ACER 2023: only 46% of year-10 students proficient; ICILS 2023 declining) show digital literacy is falling. Meanwhile commercial tech companies (Microsoft, Google) have moved in to define literacies around their products, and AI literacy has been "cleaved off" from the broader field of digital literacies.
+- **Literacy may not be the right response:** following Eynon, literacy "responsibilises the end user" rather than exploring regulation. Pangrazio proposes that literacy, rights (safe/ethical, unbiased, privacy-protecting AI), and sovereignty (countries/institutions developing their own AI and controlling data) responses should be developed in tandem, alongside speculative and interpretive responses.
+
+## Study Design & Method
+
+This is a **critical editorial** (not an empirical study) in *Learning, Media and Technology*. It draws on a short history of literacy (Graff; Freire; Green; Janks; Luke), scholarship on critical digital literacies and algorithmic accountability (Ananny & Crawford; Seaver; Suchman; Nichols et al.; Pangrazio & Sefton-Green), and international assessments of digital literacy (ACER 2023; ICILS 2023). The argument proceeds through conceptual analysis of three challenges to AI literacy — the embedded/opaque/evolving nature of AI, the "programmatic practices" of AI, and the history of digital literacies — before proposing alternative (rights and sovereignty) responses.
+
+## Implications for AI in Education
+
+The editorial offers a critical corrective to the proliferation of AI literacy frameworks in education, arguing that [[ai-literacy]] is often deployed as a solutionist, instrumental "cure-all" that overlooks questions of power, agency, and ideology — the cornerstones of [[critical-thinking|critical]] and [[equity|equitable]] approaches. It cautions that AI literacy programmes from commercial tech companies (Google, Microsoft) can only produce "partial forms" of the knowledge and skills required, and that AI literacy should be located within the broader field of critical digital literacies rather than treated as a separate, rarefied programme. For educators, it argues institutions must be reconfigured to find time and space for critical engagement with AI, supporting students to write with, redesign, or even resist AI. It connects to [[ai-education]], [[ethics]], and [[generative-ai]], and resonates with critical work on AI literacy and power ([[ai-literacy-power-knowledge|AI literacy as power-knowledge]]).
+
+## Limitations
+
+As an editorial, the article presents an argumentative and conceptual position rather than empirical evidence; it does not offer a practical AI literacy framework or curriculum. Its historical and theoretical framing draws on Western (particularly Anglophone and Freirean) literacy traditions, and the proposal for rights- and sovereignty-based responses is programmatic rather than operationalized. The critique of commercial capture is illustrative rather than systematically evidenced.
 
 ## Connected Concepts
 
@@ -20591,17 +20634,19 @@ Kimmerle, J. (2026). [*Polished Artifacts, Fragile Engagement? Tackling the Chal
 - [[ethics]]
 - [[equity]]
 - [[ai-education]]
+- [[generative-ai]]
 
 ## Connected Articles
 
-- [[ai-literacy-power-knowledge]]
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]]
-- [[metacognitive-ai-literacy-beyond-skills-gap-2026]]
-- [[tracing-genai-literacy-interaction-patterns]]
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Beyond the Skills Gap
+- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy Interaction Patterns
+- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
 
 ## Citation
 
-Pangrazio, L. (2026). [*The (im)possibility of AI literacy*](https://doi.org/10.1080/17439884.2026.2615553). Learning, Media and Technology, 51(1), 1–7.
+Pangrazio, L. (2026). [*The (im)possibility of AI literacy*](https://doi.org/10.1080/17439884.2026.2615553). *Learning, Media and Technology*, 51(1), 1–7.
 
 ---
 
@@ -22230,14 +22275,27 @@ Ciacco, A., Di Puglia Pugliese, L., & Guerriero, F. (2026). [*School network reo
 
 ## [Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: a narrative review](https://edtechdev.github.io/aied/articles/sec-ai-literacy-narrative-review-2026/)
 
-> **Synthesis:** Palmquist, Sigurdardottir, and Myhre (2025) conduct a narrative literature review examining the intersection of AI literacy and social-emotional competencies (SEC) in education. The review identifies three themes through thematic analysis: AI's transformative potential in reshaping educational practices, its influence on educational providers and stakeholders, and the ethical considerations of AI integration. The authors propose an integrated framework showing that combining AI literacy with social-emotional competencies enhances educational outcomes by promoting personalized learning, fostering collaboration, and addressing ethical challenges.
+> **Synthesis:** Palmquist, Sigurdardottir, and Myhre (2025) conduct a narrative literature review examining the intersection of AI literacy and social-emotional competencies (SEC) in education, proposing an integrated framework to create a supportive, technologically adept, and emotionally intelligent educational ecosystem. Grounded in the SETCOM project, the review identifies three key themes — AI's transformative potential in reshaping educational practices, its influence on educational providers and stakeholders, and the ethical considerations of AI integration — and argues that integrating AI literacy with SEC can enhance educational outcomes by promoting personalized learning, fostering collaboration, and addressing ethical challenges.
 
 ## Key Findings
 
-- Narrative review identifies three themes: AI's transformative potential, its influence on providers/stakeholders, and ethical considerations of AI integration
-- Argues AI literacy and social-emotional competencies are complementary — technical proficiency alone is insufficient for navigating AI-mediated learning environments
-- The integrated framework supports a holistic approach where digital and relational competencies are equally valued
-- Positions educators as needing both technological skill and emotional intelligence to prepare students for AI-rich futures
+- **AI literacy and SEC are complementary:** technical proficiency alone is insufficient for navigating AI-mediated learning environments; combining technological understanding with relational and emotional intelligence supports a holistic approach to skill development.
+- Three themes emerged from thematic analysis of the literature: **(1) AI's transformative potential** (reshaping educational practices, adapting to student needs, demanding human-centred, ethical design); **(2) AI's influence on educational providers and stakeholders** (changing teachers' roles, functions, and attitudes, and the need for collaboration with external stakeholders); and **(3) ethical considerations of AI integration** (data privacy, algorithmic bias, equitable access, and responsible decision-making).
+- **Personalisation and relational practices:** AI-driven personalisation (intelligent tutoring, adaptive learning) parallels SEC's focus on teacher-student and student-student relationships; AI should deepen — not replace — human connections in learning environments.
+- **Educators' roles are shifting:** as AI automates administrative tasks, educators can focus more on guiding students' emotional and cognitive development, where human touch is indispensable (drawing on Selwyn); teacher training should incorporate SEC-infused AI literacy.
+- **A robust framework should blend AI literacy with SEC**, fostering critical thinking, ethical awareness, empathy, self-management, and responsible decision-making, so that technological advancement supports rather than undermines human connection.
+
+## Study Design & Method
+
+This is a **narrative literature review** building on the knowledge base of the SETCOM project (Supportive Environments to Enhance Transversal Competencies in Education). A curated bibliography of 64 sources (31 on AI, 18 on SEC, 13 on both) was compiled from expert recommendations, then filtered through two stages: (1) inclusion/exclusion criteria (peer-reviewed sources in English, AI sources post-2017) and (2) quality assessment, removing 43 sources to leave a data corpus of 19. Sources were categorized into three groups (C1: AI in Education, n=8; C2: SEC in Education, n=7; C3: AI and SEC in Education, n=4). The corpus was thematically synthesized using a three-stage approach (pre-analysis, exploration, treatment/interpretation) informed by Ferrari (2015), with MAXQDA used for coding and analysis. The reviewed literature spanned primary (57.1%), secondary (46.4%), higher (35.7%), adult (17.9%), pre-school (14.3%), special-needs (10.7%), and teacher-training (3.6%) education contexts.
+
+## Implications for AI in Education
+
+The review proposes an integrated framework that equips educators and students with both technological and emotional intelligence, arguing that AI literacy should not be reduced to technical skill but integrated with [[social-emotional-learning|social-emotional competencies]] to support [[self-regulated-learning]] and relational practices. It positions educators as needing both technological skill and emotional intelligence to prepare students for AI-rich futures, connecting to [[teacher-ai-competency]], [[teacher-role]], and [[faculty-development|teacher training]]. It emphasizes that AI-driven personalisation can enhance relational dynamics if designed carefully, and that ethical literacy (data privacy, bias, equity, responsible decision-making) must be embedded in AI curricula. The review is relevant to [[ai-literacy]], [[affective-computing]], and [[ethics]], and supports a human-centred approach to AI in education where digital and relational competencies are equally valued.
+
+## Limitations
+
+As a narrative review, the study faces potential selection bias and subjective interpretation of findings (acknowledged by the authors), and its small final corpus (19 sources) reflects a curated rather than exhaustive literature base. The AI sources were limited to post-2017 publications, which may not capture the most recent rapid advances, and the review synthesizes concepts as of its curation date. The SEC literature was not subject to the same 2017 cutoff, creating asymmetry. The proposed integrated framework is conceptual and requires empirical validation.
 
 ## Connected Concepts
 
@@ -22247,17 +22305,20 @@ Ciacco, A., Di Puglia Pugliese, L., & Guerriero, F. (2026). [*School network reo
 - [[ethics]]
 - [[pedagogical-safety]]
 - [[teacher-role]]
+- [[social-emotional-learning]]
+- [[self-regulated-learning]]
 
 ## Connected Articles
 
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]]
-- [[genai-teacher-feedback-comparison]]
+- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy
+- [[ai-tpack-preservice-math-teachers]] — AI-TPACK and Pre-Service Math Teachers
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
+- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and Teacher Feedback
+- [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
 
 ## Citation
 
-Palmquist, A., Sigurdardottir, H. D., & Myhre, H. (2025). [*Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: A narrative review*](https://doi.org/10.1007/s40692-025-00354-1). Journal of Computers in Education, 13, 127–163.
+Palmquist, A., Sigurdardottir, H. D., & Myhre, H. (2025). [*Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: A narrative review*](https://doi.org/10.1007/s40692-025-00354-1). *Journal of Computers in Education*, 13, 127–163.
 
 ---
 
@@ -24612,14 +24673,27 @@ Li, Z., Wang, J., & Wang, A. Y. (2026). [When should teachers control AI generat
 
 ## [Teacher education for artificial intelligence literacy through a self-determination theory perspective](https://edtechdev.github.io/aied/articles/teacher-education-ai-literacy-sdt-2026/)
 
-> **Synthesis:** Chiu, Bali, Tondeur, Howard, and Chan (2026) apply self-determination theory (SDT) to investigate how need-supportive professional development impacts teachers' AI literacy, attitudes, anxiety, and engagement in online professional learning communities. Using a sequential mixed-methods approach with 382 secondary school teachers, the study found that need-supportive professional development enhances AI literacy and fosters sustained behavioral engagement in professional learning communities. Qualitative analysis identified nine specific design strategies for professional development programs, bridging the gap between isolated professional development and professional learning communities.
+> **Synthesis:** Chiu, Bali, Tondeur, Howard, and Chan (2026) apply self-determination theory (SDT) to investigate how need-supportive professional development (PD) impacts teachers' AI literacy, attitudes, anxiety, and engagement in online professional learning communities (PLCs). Using a sequential mixed-methods approach with 382 secondary school teachers, they found that need-supportive PD enhances AI literacy and fosters sustained behavioral engagement in PLCs, with AI literacy emerging as the key cognitive driver of sustained participation. Qualitative analysis identified nine specific design strategies for PD that satisfy teachers' needs for autonomy, competence, and relatedness — bridging the often-overlooked connection between isolated PD and PLCs to support the scaling and sustainability of teacher AI learning.
 
 ## Key Findings
 
-- Need-supportive professional development grounded in self-determination theory enhances teachers' AI literacy and fosters sustained behavioral engagement in online professional learning communities
-- Sequential mixed-methods study with 382 secondary school teachers; quantitative results confirmed AI literacy gains and engagement
-- Qualitative analysis identified nine specific design strategies for professional development supporting autonomy, competence, and relatedness
-- Addresses the critical but overlooked connection between professional development and professional learning communities for scaling and sustaining teacher AI learning
+- **Need-supportive PD positively predicts needs satisfaction (β = .77, p < .001) and behavioral engagement in PLCs (β = .47, p < .001)** — a well-designed PD can spark ongoing, collaborative learning.
+- **Needs satisfaction significantly predicts AI literacy (β = .52), attitude (β = .68), and reduces AI anxiety (β = −.66)** — PD content alone is insufficient; *how* it is delivered (whether it supports psychological needs) determines its effectiveness in changing teachers' AI knowledge, feelings, and beliefs.
+- **AI literacy is the key cognitive gateway to sustained engagement**: among the AI learning outcomes, only AI literacy had a significant direct effect on behavioral engagement in PLCs (β = .39, p < .001); attitude (p = .72) and anxiety (p = .18) were non-significant — teachers need a foundation of ability before actively engaging in peer-to-peer learning.
+- The theoretical contribution is a validated motivational pathway: PD needs support → needs satisfaction → cognitive (AI literacy) and affective (attitude, anxiety) learning → sustained behavioral engagement, with AI literacy as the primary cognitive driver.
+- **Nine design strategies** were identified: four autonomy-supportive (elective AI topic selection, collaborative AI resource development/co-design, individualised AI integration targets, non-mandatory task completion), two competence-supportive (expert-peer feedback on AI learning designs, public sharing of AI teaching artefacts), and three relatedness-supportive (cross-disciplinary AI design teams, mentorship, mission-alignment of AI learning).
+
+## Study Design & Method
+
+This sequential mixed-methods study examined 382 secondary school teachers engaged in AI-focused professional development. **Quantitative phase:** participants completed validated SDT-based questionnaires (perceived PD support, autonomy, relatedness, competence) plus measures of AI attitude, AI anxiety, and AI literacy (a 30-item multiple-choice test drawn from the AI4future item bank), and behavioral engagement in online PLCs was objectively measured by posts, replies, reads, sharing, and collaborations. Data were analyzed with confirmatory factor analysis (CFA) and structural equation modeling (SEM), with good model fit (χ²/df = 1.43, RMSEA = .03, CFI = .99). **Qualitative phase:** deductive content analysis of interviews using SDT as the analytic framework identified the nine design strategies, with two independent raters and a moderator (inter-rater reliability = 0.88).
+
+## Implications for AI in Education
+
+The study provides an evidence-based blueprint for designing effective, sustainable AI-focused teacher PD, directly relevant to [[faculty-development]], [[professional-training]], and [[teacher-ai-competency]]. It argues that PD providers and universities should structure AI training to explicitly incorporate the nine need-supportive strategies, prioritize building foundational [[ai-literacy]] (the sole direct predictor of PLC engagement), and position PD as a catalyst for self-sustaining learning communities rather than a one-time endpoint. Theoretically, it extends SDT to the AI context, showing that for highly technical domains like AI, knowledge acquisition is the gateway to collaborative participation — a finding that connects to [[motivation]], [[self-determination-theory]], and [[k-12]] teacher education. It bridges the PD/PLC divide, offering a motivational pathway for scaling and sustaining teacher AI learning.
+
+## Limitations
+
+The study's context is secondary school teachers (largely in Chinese/Hong Kong and East Asian settings), bounding generalizability to other regions and K-12 contexts. The authors acknowledge that sustaining a need-supportive culture within PLCs after the structured program ends is challenging, that systemic constraints (rigid curricula, limited resources, top-down mandates) can undermine need-supportive PD, and that the strategies may overlook the mediating role of contextual factors like teacher prior AI experience or entrenched school culture. The AI literacy test was a specific objective measure developed for the AI4future project.
 
 ## Connected Concepts
 
@@ -24630,17 +24704,19 @@ Li, Z., Wang, J., & Wang, A. Y. (2026). [When should teachers control AI generat
 - [[teacher-role]]
 - [[higher-ed]]
 - [[k-12]]
+- [[motivation]]
+- [[self-determination-theory]]
 
 ## Connected Articles
 
-- [[genai-literacy-training-teacher-education-dbr-2026]]
-- [[hcap-human-centric-ai-pedagogy-framework-2026]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Development and Evaluation of AI Literacy Training for Teachers
+- [[hcap-human-centric-ai-pedagogy-framework-2026]] — Human-Centric AI Pedagogy (HCAP) Framework
+- [[ai-tpack-preservice-math-teachers]] — AI-TPACK and Pre-Service Math Teachers
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ AI Faculty Readiness
 
 ## Citation
 
-Chiu, T. K. F., Bali, S., Tondeur, J., Howard, S., & Chan, K. K. H. (2026). [*Teacher education for artificial intelligence literacy through a self-determination theory perspective*](https://doi.org/10.1080/02619768.2026.2621848). European Journal of Teacher Education.
+Chiu, T. K. F., Bali, S., Tondeur, J., Howard, S., & Chan, K. K. H. (2026). [*Teacher education for artificial intelligence literacy through a self-determination theory perspective*](https://doi.org/10.1080/02619768.2026.2621848). *European Journal of Teacher Education*.
 
 ---
 
@@ -30729,6 +30805,16 @@ Computational evaluation assesses AI systems directly — against benchmarks, gr
 
 Beyond the major families, the wiki uses **longitudinal** designs that track learners over time ([[ai-lms-middle-school-longitudinal|a longitudinal LMS study]]), **case and in-the-wild** studies of authentic usage ([[ai-in-the-wild-college|large-scale analysis of real student interactions]]), and **simulation** studies in which LLMs stand in for students or patients ([[llm-student-simulation-teacher-insights|LLMs as simulated learners]], [[simulation]]). These trade breadth or control for realism and for access to phenomena that are otherwise hard to observe.
 
+### Expert-consensus methods: the Delphi technique
+
+The Delphi method is a structured technique for establishing **expert consensus** on a question where the answer is not yet known empirically — most often used in the wiki to develop frameworks, competency lists, and definitions that practitioners and researchers can agree on. In a Delphi study, a panel of experts responds to successive rounds of questionnaires; after each round, an anonymized summary of the group's responses is fed back, and experts revise their answers until the group converges on agreement (typically defined by a pre-set threshold, e.g., 75%). It is a way to build construct validity and professional consensus through iterative, anonymized consultation rather than a single survey or vote.
+
+- **Strengths:** produces consensus from a diverse expert panel without in-person group pressures (anonymity reduces dominance effects); well-suited to defining constructs, competencies, and frameworks when no validated measure exists; iterative rounds let experts refine and converge; feasible where full experiments or large samples are impractical.
+- **Limitations:** consensus reflects expert judgment, not empirical evidence — it establishes agreement, not effect; results depend on panel composition and the (subjective) consensus threshold; can be slow across multiple rounds; a single panel's judgement may not generalize.
+- **Exemplars:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|the SAIL framework study]] (three rounds, 17 experts, refining AI-literacy competency levels), [[hcap-human-centric-ai-pedagogy-framework-2026|the HCAP framework study]] (three rounds, 30 teachers, defining 25 AI-teacher competencies), [[ai-literacy-heptagon-2026|the AI Literacy Heptagon]] (which used expert input/consensus alongside a PRISMA-guided review), and [[brookings-ai-students-report|the Brookings students-and-AI report]].
+
+Delphi is often combined with other methods — for example, expert consensus can be used to validate a framework (as in SAIL and HCAP) that is then tested or implemented via design-based research or survey studies. It sits alongside qualitative and expert-judgment approaches and contributes to the [[educational-measurement|validity]] of framework-based instruments.
+
 ### Research vs. evaluation: connections and distinctions
 
 Research and evaluation are closely related but distinct. **Research** asks generalizable questions about how AI affects learning — "does scaffolding improve learning outcomes?" — and aims to build theory and evidence that transfers beyond the specific study. **Evaluation** (see [[ai-ed-evaluation]]) assesses whether a *specific* AI tool or system works — is accurate, reliable, pedagogically sound, and fit for purpose — against benchmarks, rubrics, or stakeholder-defined criteria. Research emphasizes internal validity and generalization; evaluation emphasizes system quality and local decision-making.
@@ -30737,7 +30823,7 @@ The boundaries blur: benchmark studies are evaluation that can feed research, an
 
 ### Choosing among methods
 
-Method choice follows the research question. Causal-effect questions favor experiments ([[rct]]); mechanism and perception questions favor surveys and qualitative work; system-quality questions favor computational evaluation ([[benchmark]], [[ai-ed-evaluation]]); synthesis questions favor reviews and meta-analyses; design questions favor DBR. Given the field's heterogeneity and the speed of AI change, the wiki's corpus reflects a deliberate move toward triangulation — combining computational evaluation with efficacy and qualitative evidence to judge both whether a tool works and whether it helps learning.
+Method choice follows the research question. Causal-effect questions favor experiments ([[rct]]); mechanism and perception questions favor surveys and qualitative work; system-quality questions favor computational evaluation ([[benchmark]], [[ai-ed-evaluation]]); synthesis questions favor reviews and meta-analyses; design questions favor DBR; and questions about what experts agree a construct, competency, or framework should contain favor expert-consensus methods like the Delphi technique. Given the field's heterogeneity and the speed of AI change, the wiki's corpus reflects a deliberate move toward triangulation — combining computational evaluation with efficacy, qualitative, and expert-consensus evidence to judge both whether a tool works and whether it helps learning.
 
 ## Connected Concepts
 
@@ -31051,6 +31137,51 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
+
+---
+
+## [Social-Emotional Learning](https://edtechdev.github.io/aied/concepts/social-emotional-learning/)
+
+> **Social-emotional learning (SEL)** — the process of developing the competencies that enable individuals to synchronize thoughts, emotions, and actions to foster positive interactions with oneself and others: self-awareness, self-management, social awareness, relationship skills, and responsible decision-making (the CASEL framework). In AI in education, SEL is increasingly recognized as critical because the rapid integration of generative AI into learning raises questions about students' well-being, sociability, empathy, and trust — and because technical AI literacy alone is insufficient for navigating AI-mediated learning environments.
+
+Social-emotional learning is closely related to, but distinct from, emotional intelligence (EI): SEL/SEC (social-emotional competencies) encompasses the ability to synchronize thoughts, emotions, and actions for positive interactions, while EI is an individual's capacity to process emotional information (conceptualized through ability models — reasoning and problem-solving — or trait models — emotional dispositions and behaviours). In the AI era, SEL matters because AI can reshape learning in ways that affect students' relational and emotional development, and because educators need both technological skill and emotional intelligence to support learners effectively.
+
+### How SEL appears in the research
+
+- **Integrating SEC into AI literacy:** [[sec-ai-literacy-narrative-review-2026|The narrative review by Palmquist et al.]] proposes an integrated framework that combines AI literacy with social-emotional competencies, arguing that technical proficiency alone is insufficient — educators and students need both technological and emotional intelligence to navigate AI-mediated learning environments, fostering personalized learning, collaboration, and ethical engagement.
+
+- **Teachers and relational practice:** Research on [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|AI literacy frameworks]] and [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|teacher-student trust]] emphasizes that SEL supports the relational dimensions of learning (teacher-student and student-student relationships), which AI must complement rather than replace.
+
+- **Well-being and AI's affective impact:** [[brookings-ai-students-report|Reports on AI and students]] examine how the increasing use of generative AI affects students' socio-emotional skills, well-being, sociability, and sense of trust and empathy — concerns that motivated the OECD's call for AI literacy grounded in humanistic, social, and emotional values.
+
+- **Affective dimensions of AI:** SEL connects to [[affective-computing]] and [[well-being]] research, examining how AI systems can support or undermine emotional and relational learning.
+
+### SEL as a complement to AI literacy
+
+A recurring theme in the wiki's research is that AI literacy should not be reduced to technical skill. Integrating social-emotional competencies into AI literacy supports a holistic approach where digital and relational competencies are equally valued: AI-driven personalisation can enhance relational dynamics if designed carefully, educators can focus more on students' emotional and cognitive development as AI automates administrative tasks, and ethical literacy (data privacy, bias, equity, responsible decision-making) overlaps with SEL's emphasis on social awareness and responsible decision-making.
+
+### Connections to related concepts
+
+SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relational and ethical), [[affective-computing]] and [[well-being]] (the affective dimensions of AI), [[self-regulated-learning]] (self-management), [[ethics]] (responsible decision-making), [[teacher-ai-competency]] (educators' capacity to support SEL), and [[student-experience]] (well-being and belonging). It relates to [[higher-ed]] and [[k-12]] as the settings where SEL-infused AI literacy is cultivated.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[affective-computing]]
+- [[well-being]]
+- [[self-regulated-learning]]
+- [[ethics]]
+- [[teacher-ai-competency]]
+- [[student-experience]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Teacher-Student Views
+- [[brookings-ai-students-report]] — Brookings Report on AI and Students
+- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
 
 ---
 
@@ -31745,6 +31876,51 @@ UDL connects to [[accessible-learning]], [[equity]], [[special-education]], [[in
 - [[tactile-statistical-graphs-accessibility]] — Tactile Statistical Graphs for Accessibility
 - [[neurodivergent-computing-students]] — Neurodivergent Computing Students
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools
+
+---
+
+## [Well-Being](https://edtechdev.github.io/aied/concepts/well-being/)
+
+> **Well-being** — the positive state of being mentally, physically, and socially healthy, encompassing emotional, psychological, and social dimensions. In AI in education, well-being has become a central concern because the rapid integration of generative AI into learning environments can affect students' and educators' mental health, motivation, belonging, anxiety, and sense of agency — raising questions about whether AI supports or undermines learners' well-being.
+
+Well-being in education is multifaceted: it includes emotional well-being (positive affect, low distress), psychological well-being (purpose, autonomy, competence), and social well-being (belonging, positive relationships). In the AI era, well-being matters because AI can reshape learning in ways that affect these dimensions — from reducing students' confidence and increasing anxiety about academic integrity, to fostering or undermining engagement and belonging. Concerns about AI's impact on students' socio-emotional skills, well-being, sociability, and sense of trust and empathy (raised by the OECD and others) have positioned well-being as a key consideration in responsible AI integration.
+
+### How well-being appears in the research
+
+- **AI literacy and social-emotional learning:** [[sec-ai-literacy-narrative-review-2026|Research integrating SEC into AI literacy]] argues that fostering educators' and students' emotional intelligence and well-being is essential for navigating AI-mediated learning environments, connecting to [[social-emotional-learning]] and affective dimensions of AI.
+
+- **AI anxiety and student experience:** Studies on students' engagement with AI (e.g., [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|SDT-based research]]) find AI use is intertwined with anxiety, trust, and confidence, with students' well-being affected by concerns about academic integrity, creativity, and over-reliance.
+
+- **Teacher well-being and role:** AI's impact on [[teacher-role|teachers]] — including workload, anxiety about teaching with disruptive technology, and the capacity to provide emotional support — is a recurring concern, connecting to [[teacher-ai-competency]] and professional development.
+
+- **Ethics and responsible AI:** Well-being is a core ethical consideration in [[ai-education]], linking to [[ethics]] and the imperative to design AI that supports rather than harms learners' mental health and belonging.
+
+### Well-being as a design consideration
+
+A recurring theme is that well-being should be a deliberate design consideration in AI in education, not an afterthought. This means: designing AI to support rather than replace human relationships; ensuring students can maintain agency and confidence rather than experiencing AI-induced anxiety or over-reliance; supporting educators' capacity and well-being as they integrate AI; and evaluating AI systems not only for learning outcomes but also for their effects on students' and teachers' well-being. Research connects well-being to [[motivation]], [[self-regulated-learning]], and [[student-experience]] (belonging and engagement).
+
+### Connections to related concepts
+
+Well-being connects to [[student-experience]] (as a dimension of learners' overall experience), [[social-emotional-learning]] and [[affective-computing]] (the emotional competencies AI intersects with), [[ethics]] (as a core ethical consideration), [[motivation]] and [[self-regulated-learning]] (well-being supports and is supported by these), [[teacher-ai-competency]] (educators' capacity and well-being), and [[higher-ed]] and [[k-12]] as the settings where AI shapes well-being.
+
+## Connected Concepts
+
+- [[student-experience]]
+- [[social-emotional-learning]]
+- [[affective-computing]]
+- [[ethics]]
+- [[motivation]]
+- [[self-regulated-learning]]
+- [[teacher-ai-competency]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' Engagement With GenAI (SDT)
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
+- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
+- [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots, Collective Efficacy, and Collaboration
 
 ---
 
