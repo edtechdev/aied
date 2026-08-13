@@ -45,3 +45,7 @@ The results carry a direct warning for AI-based learning environments: general-p
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 - [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
 - [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
+
+## Citation
+
+Haein Kong (2026). [Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework](https://arxiv.org/abs/2607.00395). arXiv:2607.00395. HEAL Workshop at CHI 2026, submitted 1 Jul 2026

@@ -45,3 +45,7 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 - [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
 - [[teacher-control-ai-generation-math-visuals]] — When Should Teachers Control AI Generation for Mathematics Visuals?
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
+
+## Citation
+
+Junjie Yin, Buxin She, Xinyu Feng, Fangxing Li (2026). [Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework](https://arxiv.org/abs/2608.02599). arXiv:2608.02599. arXiv (cs.AI / eess.SY) preprint.

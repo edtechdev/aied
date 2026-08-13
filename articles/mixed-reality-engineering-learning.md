@@ -37,3 +37,7 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[dynamic-skill-matching-capstone-teams]] — Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
+
+## Citation
+
+Mohammad Abu Nasir Rakib, Sharmin Akter, Eshwara Prasad Sridhar, Somik Biswas, Md Rassel Raihan, Mahmudur Rahman (2026). [Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning](https://arxiv.org/abs/2607.00979). arXiv:2607.00979. submitted 1 Jul 2026

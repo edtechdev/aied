@@ -36,3 +36,7 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+
+## Citation
+
+Kevin Zhongyang Shao, Denise Wilson, Yale Quan, Sep Makhsous (2026). [Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes](https://arxiv.org/abs/2607.26338). arXiv:2607.26338. Under review.

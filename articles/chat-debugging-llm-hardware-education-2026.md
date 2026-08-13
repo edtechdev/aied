@@ -28,3 +28,7 @@ Work-in-progress exploring LLMs as debugging assistants for physical hardware la
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
 - [[reshaping-cs-education-genai]] — Reshaping Undergraduate Computer Science Education in the Generative AI Era
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
+
+## Citation
+
+Andrew Ash, & John Hu (2026). [WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant](https://arxiv.org/abs/2608.02420). arXiv:2608.02420. IEEE Frontiers in Education Conference (FIE) 2026.

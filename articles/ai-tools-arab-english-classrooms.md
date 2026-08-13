@@ -31,3 +31,7 @@ This work connects to core wiki themes: [[language-learning]] [[higher-ed]] [[wr
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
 - [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence
+
+## Citation
+
+Shormani & Alshawsh (2026). [AI tools in Arab University English classrooms: Looking back and forward](https://arxiv.org/abs/2607.05403). arXiv:2607.05403. arXiv preprint.

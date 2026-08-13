@@ -28,3 +28,7 @@ Nagai et al. (2026) tackle the practical problem that many real-world educationa
 - [[proprl-prerequisite-relation-learning]] — ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs
 - [[cross-subject-validity-delayed-start]] — Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
+
+## Citation
+
+Ryosuke Nagai, Kyohei Atarashi, Koh Takeuchi, Jill-Jênn Vie, Hisashi Kashima (2026). [Estimating Learners' Skill Acquisition Without Temporal Information](https://arxiv.org/abs/2606.20611). arXiv:2606.20611. AIED 2026, Seoul

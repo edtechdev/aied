@@ -47,3 +47,7 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning
 - [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
+
+## Citation
+
+Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho (2026). [Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice](https://arxiv.org/abs/2606.17470). arXiv:2606.17470. EC-TEL 2026.

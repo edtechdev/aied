@@ -34,3 +34,7 @@ The findings have implications for [[teacher-role|faculty development]] and [[ed
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
+
+## Citation
+
+Mike Perkins, Darius Postma, Jasper Roe, Susan Sisay, Craig Holdcroft (2026). ['A bit of chaos and madness': The AI Assessment Scale and the work of assessment reform](https://arxiv.org/abs/2606.26729). arXiv:2606.26729. arXiv cs.HC.

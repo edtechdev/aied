@@ -30,3 +30,7 @@ The work also extends [[teacher-role]] scholarship by showing that teachers can 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
+
+## Citation
+
+Alex Liu, Min Sun, Lief Esbenshade, Victor Tian, Zachary Zhang, Kevin He (2026). [Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation](https://arxiv.org/abs/2604.16738). arXiv:2604.16738. arXiv.

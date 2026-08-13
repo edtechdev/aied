@@ -49,3 +49,7 @@ The rise of [[llm|LLM-generated content]] in educational settings creates an urg
 - [[ethical-ai-higher-ed-game-theory]] — Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]] — Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights
+
+## Citation
+
+Bao, H., Ren, Y., Cao, Y., You, J., Fang, F., & Wang, S. (2026). [*Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration*](https://arxiv.org/abs/2608.05741v1). arXiv:2608.05741v1.

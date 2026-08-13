@@ -28,3 +28,7 @@ The emphasis on bounded AI support — rather than open-ended tutoring — disti
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
+
+## Citation
+
+Etchie, M. P., & Olutosin, T. (2026). [*AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High School and Beyond*](https://arxiv.org/abs/2606.07544). arXiv:2606.07544.

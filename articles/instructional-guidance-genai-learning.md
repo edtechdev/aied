@@ -30,3 +30,7 @@ Demonstrates that the effectiveness of AI-supported learning depends critically 
 - [[q-learning-lab-rl-teaching]] — Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis
 - [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
+
+## Citation
+
+Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. [arXiv:2606.05509](https://arxiv.org/abs/2606.05509).

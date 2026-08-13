@@ -31,3 +31,7 @@ The work connects to broader debates on [[ai-literacy]] and [[student-experience
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+
+## Citation
+
+Amrita Ganguly, Sai Sharanya Garika, Aditya Johri (2026). [Uncovering Students' Mental Models of Generative Artificial Intelligence](https://arxiv.org/abs/2607.11692). arXiv:2607.11692. arXiv preprint.

@@ -47,3 +47,7 @@ For education, the argument shifts the goal of AI literacy instruction from comp
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
+
+## Citation
+
+Brady D. Lund, Zoë Abbie Teel (2026). [AI Literacy: An Exercise in Power-Knowledge](https://arxiv.org/abs/2607.27547). arXiv:2607.27547. cs.AI, cs.CY.

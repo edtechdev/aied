@@ -31,3 +31,7 @@ Methodologically, trio-ethnography offers a low-cost reflective instrument for f
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+
+## Citation
+
+Ren, McDowell & Zhou (2026). [Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education](https://arxiv.org/abs/2607.22463). arXiv:2607.22463. arXiv preprint.

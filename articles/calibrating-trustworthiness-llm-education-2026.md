@@ -34,3 +34,7 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
 - [[cong-confidence-asag-2026]] — Confidence-Aware Automatic Short Answer Grading
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
+
+## Citation
+
+Adam Coscia, Sujata Duwal, Langdon Holmes, Scott Crossley, & Alex Endert (2026). [Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education](https://arxiv.org/abs/2608.04006). arXiv:2608.04006. arXiv:2608.04006 [cs.HC] (under review).

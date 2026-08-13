@@ -45,3 +45,7 @@ Aligned with the UNESCO AI Competency Framework for Teachers and the OECD/Europe
 - [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+
+## Citation
+
+Shahin Hossain, Sima Ahmadi, Leqi Li, Idowu David Awoyemi, Wei Huang, Chenxi Zhou, Jujia Li, Samaa Haniya, Shapla Khanam, Tasbirun Mashreka Subaha (2026). [Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education](https://arxiv.org/abs/2608.01705). arXiv:2608.01705. arXiv (cs.CY / cs.HC) preprint.

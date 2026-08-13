@@ -28,3 +28,7 @@ Bernstein, Denny, Leinonen et al. (2026) investigate whether providing students 
 - [[chat-debugging-llm-hardware-education-2026]] — WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant
 - [[llm-automated-assessment-student-self-explanations]] — Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
+
+## Citation
+
+Seth Bernstein, Paul Denny, Juho Leinonen, Kush Patel, Rayhona Nasimova, Matt Littlefield, Stephen MacNeil (2026). [Exploring the Value of Diverse LLM Explanations in Introductory Programming](https://arxiv.org/abs/2606.28882). arXiv:2606.28882. cs.HC (SIGCSE Virtual 2026).

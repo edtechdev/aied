@@ -32,3 +32,7 @@ Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and
 - [[llm-design-problems-hot-pjbl]] — LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
 - [[human-ai-co-mentorship]] — Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting
+
+## Citation
+
+Ahmad D. Suleiman, Jan DeWaters, David C. Shepherd, Turgay Korkmaz, Faraz Hussain, Yu Liu, Daqing Hou (2026). [Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio](https://arxiv.org/abs/2607.11129). arXiv:2607.11129. arXiv preprint.

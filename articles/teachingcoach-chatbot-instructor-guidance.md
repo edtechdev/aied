@@ -50,3 +50,7 @@ Expert evaluations compared TeachingCoach with a GPT-4o baseline in a zero-shot 
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
 - [[didactical-teacher-assistant-dimensional-modeling]] — A didactical-driven teacher assistant for a dimensional modeling course
+
+## Citation
+
+Isabel Molnar et al. (2026). [TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors](https://arxiv.org/abs/2603.18189). arXiv:2603.18189. cs.AI.

@@ -41,3 +41,7 @@ For [[higher-ed]] and [[k-12]] settings, the results suggest that AI-assisted da
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
 - [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation
+
+## Citation
+
+Zirui Shan, Vanessa Echeverria, Yuheng Li, Yi-Shan Tsai, Roberto Martinez-Maldonado (2026). [Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation](https://arxiv.org/abs/2607.02361). arXiv:2607.02361.

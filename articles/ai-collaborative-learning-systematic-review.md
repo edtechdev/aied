@@ -62,3 +62,7 @@ For educators and institutions, the review frames AI not as a replacement for co
 - [[ccct-cooperative-learning-technique]] — Artificial intelligence assisted design of a novel cooperative learning technique for higher education
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)
+
+## Citation
+
+Kovari, A. (2025). [*A systematic review of AI-powered collaborative learning in higher education: Trends and outcomes from the last decade*](https://doi.org/10.1016/j.ssaho.2025.101335).

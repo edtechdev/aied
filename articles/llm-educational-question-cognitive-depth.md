@@ -35,3 +35,7 @@ From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated E
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
 - [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
+
+## Citation
+
+Xiaolong Wang, Zhe Zhao, Song Lai, Chaoli Zhang, Zijie Geng, Yu Tong, Ye Wei, Qingsong Wen (2026). [From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions](https://arxiv.org/abs/2606.18257). arXiv:2606.18257.

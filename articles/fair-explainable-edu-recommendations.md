@@ -55,3 +55,7 @@ For [[personalized-learning]] platforms, the work demonstrates that fairness, di
 - [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
+
+## Citation
+
+Evangelista, E., & Bukhari, S. M. S. (2026). [*Fair and explainable educational recommendations with a hybrid Graph-GRU framework*](https://doi.org/10.1016/j.caeai.2026.100643).

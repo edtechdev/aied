@@ -25,3 +25,7 @@ EduMirror introduces a multi-agent simulator for studying educational social dyn
 - [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
+
+## Citation
+
+Lin, J., Yu, H., Zeng, Y., & Zhong, F. (2026). [*EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation*](https://arxiv.org/abs/2606.07948). arXiv:2606.07948.

@@ -24,3 +24,7 @@ The Adaptive Virtual Patient (AVP) is an LLM-driven simulated patient for psycho
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
 - [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
 - [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+
+## Citation
+
+Chen, A., Jin, S., Bao, C., Wang, C., Kraut, R. E., Wu, T., & Zhu, H. (2026). [*The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills*](https://arxiv.org/abs/2606.10051). arXiv:2606.10051.

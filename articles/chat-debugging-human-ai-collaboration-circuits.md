@@ -60,3 +60,7 @@ The findings support a [[scaffolding]] approach where AI tools complement rather
 - [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
 - [[llm-design-problems-hot-pjbl]] — LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]] — Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication
+
+## Citation
+
+Hu, J., & Ash, A. (2026). [*Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits*](https://arxiv.org/abs/2608.02955v1). arXiv:2608.02955v1.

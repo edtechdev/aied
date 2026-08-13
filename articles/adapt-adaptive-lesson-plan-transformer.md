@@ -35,3 +35,7 @@ AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated In
 - [[state-policy-teacher-ai]] — How State Policy Can Help Teachers Use AI Well
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
 - [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
+
+## Citation
+
+Yanjie Zhang, Jiajun Zhu, Minyu Wu, Huamin Qu, Sicheng Song (2026). [AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction](https://arxiv.org/abs/2606.17633). arXiv:2606.17633.

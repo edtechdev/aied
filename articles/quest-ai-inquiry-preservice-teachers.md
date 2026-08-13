@@ -51,3 +51,7 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 - [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
+
+## Citation
+
+Cao, D., Yan, Y., Xiong, A., & Wicks, D. (2026). [*Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers*](https://doi.org/10.1016/j.caeai.2026.100630).

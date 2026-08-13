@@ -51,3 +51,7 @@ The author notes that the small sample size (28 postgraduate students) limits th
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies
+
+## Citation
+
+Sofkova Hashemi, S. (2026). [*Students' multimodal prompting practices as epistemic work in AI literacy development*](https://doi.org/10.1016/j.caeai.2026.100635).

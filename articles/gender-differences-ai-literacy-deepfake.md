@@ -50,3 +50,7 @@ For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive
 - [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
+
+## Citation
+
+Jake Renzella, Christian Bergh, Natasha Banks, Alexandra Vassar (2026). [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718). arXiv:2606.14718. arXiv preprint.

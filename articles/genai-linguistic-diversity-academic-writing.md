@@ -47,3 +47,7 @@ For [[writing-education]] and English for Research Publication Purposes, the dia
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
+
+## Citation
+
+Kingsley Ugwuanyi, Christian Mair, Sender Dovchin, Iker Erdocia, Maria Kuteeva (2026). [Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes](https://arxiv.org/abs/2607.28505). arXiv:2607.28505. cs.CL.

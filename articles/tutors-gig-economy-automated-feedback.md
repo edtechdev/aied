@@ -27,3 +27,7 @@ Park et al. (2026) explore AI-powered automated feedback for tutors on Ringle, a
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
+
+## Citation
+
+Yeon Su Park, Sieun Kim, Keighley Overbay, Seoyoung Kim, Sewook Wee, Daho Jung, Juho Kim (2026). [Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle](https://arxiv.org/abs/2606.22609). arXiv:2606.22609. arXiv:2606.22609 (cs.HC)

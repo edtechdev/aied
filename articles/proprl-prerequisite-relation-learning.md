@@ -62,3 +62,7 @@ ProPRL's property-aware approach ensures that these systems respect the asymmetr
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach
 - [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
+
+## Citation
+
+Cheng, X., Wang, J., He, C., Dong, R., & Guan, Q. (2026). [*ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs*](https://arxiv.org/abs/2608.03006v1). arXiv:2608.03006v1.
