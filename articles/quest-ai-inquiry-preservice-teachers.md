@@ -24,7 +24,7 @@ Grounded in Deweyan Inquiry and the Practical Inquiry model, the study examined 
 
 ## Implications for AI in Education
 
-The findings suggest that structured AI-supported inquiry can strengthen applied and self-regulatory aspects of AI literacy while improving discipline-relevant performance — evidence that coached GenAI use embedded in authentic academic work outperforms conventional homework for developing practical AI competence. The moderate effect on research proposal quality indicates that AI-supported inquiry does not trade away disciplinary learning for tool proficiency. Notably, these gains were achieved without expanding lecture time: the experimental group received no additional AI-literacy-focused direct instruction, which the authors suggest explains the absence of change on concept-heavy and evaluative scales. For [[teacher-ai-competency]] and [[faculty-development]] efforts, the model offers a concrete, phase-structured template for integrating GenAI into coursework, with brief targeted activities (concept refreshers with retrieval checks, verify-and-trace exercises, rubric-scored ethics cases) recommended to address the dimensions the model alone did not shift. The pattern of results marks this as an [[efficacy-study]] whose design logic favors pedagogical specificity over mere tool availability.
+The findings suggest that structured AI-supported inquiry can strengthen applied and self-regulatory aspects of AI literacy while improving discipline-relevant performance — evidence that coached GenAI use embedded in authentic academic work outperforms conventional homework for developing practical AI competence. The moderate effect on research proposal quality indicates that AI-supported inquiry does not trade away disciplinary learning for tool proficiency. Notably, these gains were achieved without expanding lecture time: the experimental group received no additional AI-literacy-focused direct instruction, which the authors suggest explains the absence of change on concept-heavy and evaluative scales. For [[teacher-ai-competency]] and [[faculty-development]] efforts, the model offers a concrete, phase-structured template for integrating GenAI into coursework, with brief targeted activities (concept refreshers with retrieval checks, verify-and-trace exercises, rubric-scored ethics cases) recommended to address the dimensions the model alone did not shift. The pattern of results marks this as an [[research-methods-aied]] whose design logic favors pedagogical specificity over mere tool availability.
 
 ## Limitations
 
@@ -34,7 +34,7 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 
 - [[teacher-ai-competency]]
 - [[ai-literacy]]
-- [[efficacy-study]]
+- [[research-methods-aied]]
 - [[faculty-development]]
 - [[professional-training]]
 - [[k-12-ai-education]]

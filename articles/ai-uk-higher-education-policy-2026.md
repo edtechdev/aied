@@ -26,7 +26,7 @@ This review speaks directly to [[educational-policy-ai]] and [[ai-governance-edu
 
 For administrators and [[educational-policy-ai]]-makers, the findings argue for participatory governance and infrastructure investment rather than purely aspirational strategy documents. The proposed layered framework connecting national policy, institutional infrastructure, and governance offers a concrete model for closing the ambition-capacity gap.
 
-The review also connects to broader debates about [[ethics]] and learner efficacy in AI adoption, and to [[ai-governance-education]] and technology-adoption dynamics in universities, resonating with the concept of [[dot-framework-survey]] on digital transformation readiness.
+The review also connects to broader debates about [[ethics]] and learner efficacy in AI adoption, and to [[ai-governance-education]] and technology-adoption dynamics in universities, resonating with the concept of [[dot-framework-survey-2026]] on digital transformation readiness.
 
 ## Connected Concepts
 

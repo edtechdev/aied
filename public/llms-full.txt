@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 594 articles and 133 concepts.
+> Complete text of 596 articles and 131 concepts.
 
 # Articles
 
@@ -4689,7 +4689,7 @@ Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Sto
 
 ## [Methodologies for Improving the Quality of AI Tutoring in K-12 Education](https://edtechdev.github.io/aied/articles/ai-tutoring-quality-k12-methodologies-2026/)
 
-> **Synthesis:** Udeshi et al. (2026), the team behind **Khanmigo** (Khan Academy's K-12 AI tutor, launched 2023), describe the metrics they use to measure AI tutoring quality and student engagement, along with the live experiments that have moved those metrics. Given that LLMs are opaque black boxes, they argue robust evaluation and live experimentation are essential. The paper highlights changes across models, prompting, personalization, and agents that improved tutoring outcomes. Accepted at AIED 2026, it connects to [[ai-tutoring]], [[intelligent-tutoring]], and [[efficacy-study]] literatures.
+> **Synthesis:** Udeshi et al. (2026), the team behind **Khanmigo** (Khan Academy's K-12 AI tutor, launched 2023), describe the metrics they use to measure AI tutoring quality and student engagement, along with the live experiments that have moved those metrics. Given that LLMs are opaque black boxes, they argue robust evaluation and live experimentation are essential. The paper highlights changes across models, prompting, personalization, and agents that improved tutoring outcomes. Accepted at AIED 2026, it connects to [[ai-tutoring]], [[intelligent-tutoring]], and [[research-methods-aied]] literatures.
 
 ## Evaluation as the Engine of Improvement
 
@@ -4701,7 +4701,7 @@ The paper describes the metrics used to measure AI tutoring quality and student 
 
 ## Position
 
-This practitioner account from a major edtech platform grounds the [[ai-tutoring]] and [[intelligent-tutoring]] literature in real, large-scale K-12 deployment evidence, complementing controlled [[efficacy-study]] research.
+This practitioner account from a major edtech platform grounds the [[ai-tutoring]] and [[intelligent-tutoring]] literature in real, large-scale K-12 deployment evidence, complementing controlled [[research-methods-aied]] research.
 
 ## Connected Concepts
 
@@ -4710,7 +4710,7 @@ This practitioner account from a major edtech platform grounds the [[ai-tutoring
 - [[k-12]]
 - [[llm]]
 - [[personalized-learning]]
-- [[efficacy-study]]
+- [[research-methods-aied]]
 - [[engagement-metrics]]
 - [[edtech-platform]]
 - [[student-experience]]
@@ -4753,7 +4753,7 @@ This review speaks directly to [[educational-policy-ai]] and [[ai-governance-edu
 
 For administrators and [[educational-policy-ai]]-makers, the findings argue for participatory governance and infrastructure investment rather than purely aspirational strategy documents. The proposed layered framework connecting national policy, institutional infrastructure, and governance offers a concrete model for closing the ambition-capacity gap.
 
-The review also connects to broader debates about [[ethics]] and learner efficacy in AI adoption, and to [[ai-governance-education]] and technology-adoption dynamics in universities, resonating with the concept of [[dot-framework-survey]] on digital transformation readiness.
+The review also connects to broader debates about [[ethics]] and learner efficacy in AI adoption, and to [[ai-governance-education]] and technology-adoption dynamics in universities, resonating with the concept of [[dot-framework-survey-2026]] on digital transformation readiness.
 
 ## Connected Concepts
 
@@ -4901,7 +4901,7 @@ The review documents a notable paradox: constructivist theories are espoused in 
 
 ## Implications for AI in Education
 
-For educators and developers, the review offers a map of what the evidence currently supports: XR for procedural and practical skills, ITS for declarative and procedural knowledge, and chatbots for self-regulation support — with the most consistent benefits emerging when AI augments authentic, practice-proximal environments, especially [[intelligent-tutoring]]-style simulations in technical domains. The scarcity of randomized experiments flags the need for stronger causal designs, and the dominance of drill-and-practice implementations suggests that [[professional-training]] contexts are under-serving the learner-agency goals that VET espouses; delayed post-tests, objective performance-based assessments, and analyses of transfer to workplace contexts are largely absent from the literature. The Turing Trap framing connects directly to [[efficacy-study]] debates and to [[constructivist]] design commitments, and the call for reporting failure cases is a useful corrective to the field's prevailing success narrative — while the heavy reliance on self-report for [[self-regulated-learning]] outcomes should temper claims about chatbots' regulatory effects.
+For educators and developers, the review offers a map of what the evidence currently supports: XR for procedural and practical skills, ITS for declarative and procedural knowledge, and chatbots for self-regulation support — with the most consistent benefits emerging when AI augments authentic, practice-proximal environments, especially [[intelligent-tutoring]]-style simulations in technical domains. The scarcity of randomized experiments flags the need for stronger causal designs, and the dominance of drill-and-practice implementations suggests that [[professional-training]] contexts are under-serving the learner-agency goals that VET espouses; delayed post-tests, objective performance-based assessments, and analyses of transfer to workplace contexts are largely absent from the literature. The Turing Trap framing connects directly to [[research-methods-aied]] debates and to [[constructivist]] design commitments, and the call for reporting failure cases is a useful corrective to the field's prevailing success narrative — while the heavy reliance on self-report for [[self-regulated-learning]] outcomes should temper claims about chatbots' regulatory effects.
 
 ## Limitations
 
@@ -4910,7 +4910,7 @@ The review restricted its search to English-language, peer-reviewed journal arti
 ## Connected Concepts
 
 - [[professional-training]]
-- [[efficacy-study]]
+- [[research-methods-aied]]
 - [[intelligent-tutoring]]
 - [[lifelong-learning]]
 - [[self-regulated-learning]]
@@ -6697,7 +6697,7 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 ## Connected Concepts
 
 - [[ai-literacy-assessment-misalignment]]
-- [[dot-framework-survey]]
+- [[dot-framework-survey-2026]]
 - [[faculty-development]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
@@ -9610,6 +9610,70 @@ Rodriguez-Alvarez, N., Blanch-Marsolini, A. M., Vara-Gutierrez, S., Gil-Garcia, 
 
 ---
 
+## [DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education](https://edtechdev.github.io/aied/articles/dot-framework-survey-2026/)
+
+A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the **DOT Framework** — a synthesis of [[design-thinking]] and open-systems-theory.
+
+## Core Findings
+
+### Three-Factor Belief Structure
+Exploratory factor analysis of 19 Likert-scale items yielded a three-factor structure with strong reliability (overall α = .90):
+1. **AI Functional Capabilities** (α = .91) — perceived utility of AI tools for teaching tasks
+2. **Oversight and Governance** (α = .79) — need for human supervision, policy frameworks, and critical evaluation
+3. **Instructor Collaboration and Planning** (α = .85) — value of teamwork in AI integration design
+
+This factor structure provides a psychometric anchor for understanding how educators conceptualize AI's role — not as a monolithic "good or bad" judgment but as differentiated beliefs spanning capability, governance, and collaborative practice.
+
+### Practice vs. Theory Gap
+Practitioners reported frequent use of **iterative prompting** and **content generation**, but far less engagement with **needs assessment** and **feedback loops** — the front and back ends of a full design cycle. This gap between design-oriented theory and current implementation is the study's central diagnostic finding. It echoes broader patterns in [[ai-literacy]] where educators adopt AI for productivity but not yet for systematic instructional redesign.
+
+### AI as "Fallible Intern"
+The study operationalizes AI as a **co-intelligent collaborator** following four tenets: (1) AI is fallible — always review, (2) AI supports not replaces higher-order thinking, (3) instructors should actively experiment, (4) instructor maintains agency. This framing aligns with ai-co-intelligence and [[human-ai-collaboration]] paradigms where the human remains the epistemic authority.
+
+### Institutional Barriers
+Widespread lack of policy, training, and infrastructure was reported — consistent with findings across institutional-ai-readiness and [[ai-governance-education]]. Without institutional scaffolding, even motivated practitioners remain in ad-hoc, fragmented adoption patterns.
+
+## The DOT Framework
+
+The DOT Framework integrates **Design Thinking stages** (Empathize → Define → Ideate → Prototype → Test) with **Open Systems concepts** (Environment, Input, Process, Structure, Output, Feedback) at both classroom (micro) and institutional (macro) levels. Key intersections:
+- **Empathize × Environment**: Ground instructional design in contextual understanding
+- **Test × Feedback**: Enable recursive improvement at both levels
+
+This study provides the *first empirical evidence* supporting DOT as a descriptive model — practitioners' beliefs and behaviors partially map to its structure, but the gaps (needs assessment, feedback) reveal where the model is aspirational rather than descriptive of current practice.
+
+## Implications for [[ai-education]]
+- **Measurement**: The 19-item belief scale offers a validated starting point for [[ai-ed-evaluation]] studies
+- **Professional Development**: Training should target the full design cycle, not just tool use — especially needs assessment and feedback integration
+- **Policy**: Institutional AI strategies need to address governance concerns while building on practitioners' existing favorable dispositions
+- **Future Research**: Confirmatory factor analysis needed; outcome-based studies linking DOT-aligned practices to instructional quality
+
+## Connected Concepts
+
+
+- [[ai-literacy]]
+- [[design-thinking]]
+- [[ai-ed-evaluation]]
+- [[ai-education]]
+- [[human-in-the-loop-ai]]
+- [[ai-governance-education]]
+- [[human-ai-collaboration]]
+
+## Connected Articles
+
+
+- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
+- [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
+- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
+- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
+- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+
+## Citation
+
+Gibson, D., Azukas, M. E., & Knezek, G. (2026). [*Practitioner beliefs and behaviors in AI-enhanced education: DOT framework survey evidence*](https://arxiv.org/abs/2605.29041). arXiv:2605.29041.
+
+---
+
 ## [Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2](https://edtechdev.github.io/aied/articles/dura-llm-cs2/)
 
 > **Margaret Ellis, Nikitha Donekal Chandrashekar, Sehrish Basir Nizamani, Mohammed Farghally, Jake O'Brien, Naren Ramakrishnan** — SIGCSE Virtual 2026, submitted 29 Jun 2026
@@ -10327,7 +10391,7 @@ A usable education-facing model must be accurate, safe under sensitive prompts, 
 - [[generative-ai]]
 - [[llm]]
 - [[ai-tutoring]]
-- [[efficacy-study]]
+- [[research-methods-aied]]
 - [[educational-measurement]]
 
 ## Connected Articles
@@ -12603,7 +12667,7 @@ Yubo Li, Rema Padman, Ramayya Krishnan (2026). [Auditing Institutional Heterogen
 
 ## Implications
 
-This study provides strong evidence that intensive, focused professional development can rapidly build [[teacher-ai-competency]] in [[generative-ai]]-related pedagogical content knowledge. The very large effect sizes (*d* = 2.36 overall) support the [[efficacy-study]] case for structured, short-format training programs in a fast-moving area where teachers urgently need updated skills.
+This study provides strong evidence that intensive, focused professional development can rapidly build [[teacher-ai-competency]] in [[generative-ai]]-related pedagogical content knowledge. The very large effect sizes (*d* = 2.36 overall) support the [[research-methods-aied]] case for structured, short-format training programs in a fast-moving area where teachers urgently need updated skills.
 
 The differential gain favoring [[professional-training]] candidates suggests that embedding AI-PCK into pre-service curricula may be particularly efficient, while experienced teachers may need tailored, specialized support rather than one-size-fits-all PD. This connects directly to [[professional-training]], [[faculty-development]], and [[professional-training]] debates about how to upskill educators for AI-integrated teaching.
 
@@ -12611,7 +12675,7 @@ For [[professional-training]] and institutional [[educational-policy-ai]], the f
 
 ## Connected Concepts
 
-- [[efficacy-study]]
+- [[research-methods-aied]]
 - [[faculty-development]]
 - [[generative-ai]]
 - [[professional-training]]
@@ -19876,7 +19940,7 @@ The guide includes 15+ educator case studies spanning:
 
 - [[adaptive-learning]]
 - [[ai-literacy]]
-- [[dot-framework-survey]]
+- [[dot-framework-survey-2026]]
 - [[faculty-development]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
@@ -20897,6 +20961,62 @@ Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). *Usi
 
 ---
 
+## [Exploring the Implementation of the Pepper Social Robot in Formal Education: A Scoping Review](https://edtechdev.github.io/aied/articles/pepper-social-robot-formal-education-scoping-review-2026/)
+
+> **Synthesis:** Martinez-Roig, Aragonés-González, and Cazorla (2026) present a scoping review of the use of the Pepper social robot in formal educational contexts, mapping documented forms of implementation, methodological designs, and reported findings. Following PRISMA-ScR guidelines and searching Scopus, Web of Science, ERIC-Proquest, and Dialnet (2014–2026), they selected 13 empirical studies. The review finds a concentration of research in primary education, a predominance of qualitative approaches with small samples, and Pepper used mainly for tutoring, collaborative learning, and mediation in inclusive settings — with benefits in motivation, engagement, and social skills, but also technical constraints, insufficient curricular integration, and a lack of longitudinal research. The evidence indicates effects depend largely on instructional design and teacher mediation.
+
+## Key Findings
+
+- **13 empirical studies** were included (published 2018–2026; search covered 2014–2026), following PRISMA-ScR guidelines across Scopus, Web of Science, ERIC-Proquest, and Dialnet.
+- **Concentration in primary education** (38.5%), with 30.8% in higher education, 15.4% in early-years, and 7.7% each in secondary and mixed primary/secondary; 69.2% of studies were European (Italy, Germany, Netherlands, Sweden), 30.8% US.
+- **Predominance of qualitative approaches** (61.5%) with small samples; 23.1% mixed-methods, 15.4% quantitative experimental designs. No large-scale longitudinal studies identified; 61.5% of samples had fewer than 50 participants.
+- **Pepper is primarily used to support tutoring, collaborative learning, and mediation in inclusive educational settings** (including pupils with autism spectrum disorder, the focus of 23.1% of studies), and its operation requires **constant teacher supervision**.
+- **Reported benefits:** increased motivation, participation, engagement, and development of social skills, with some studies reporting improvements in learning outcomes or attitudes.
+- **Main limitations:** technical constraints (voice recognition, software glitches), insufficient curricular integration, cost, reliance on technical support, privacy, and lack of longitudinal research.
+- **The pedagogical dimension is a determining factor** — Pepper's contribution depends on instructional design, activity purpose, student profile, technical stability, and teacher mediation, not the technology alone.
+
+## Study Design & Method
+
+This is a **scoping review** following the **PRISMA-ScR** guidelines. The authors searched Scopus, Web of Science, ERIC-Proquest, and Dialnet for peer-reviewed publications on the Pepper robot in formal education between 2014 and 1 March 2026. After duplicate removal and screening (1,448 references identified, 1,100 after deduplication, 345 full-text assessed), 13 studies met the inclusion criteria. Data extraction used a structured tool (piloted on three articles) covering authorship, country, objective, methodology, robot characteristics, curriculum area, student profile, teacher role, implementation issues, and reported benefits. Analysis combined descriptive analysis (frequencies/trends) and thematic categorical analysis (deductive, following Braun & Clarke), organized around themes of robot role, curricular areas, student profile, teacher role, challenges, and benefits.
+
+## Implications for AI in Education
+
+The review situates Pepper's educational value beyond the technology itself: its embodiment, humanoid appearance, and multimodal interaction may foster initial interest but do not, in themselves, guarantee a meaningful educational experience. It positions the teacher as central — Pepper requires planning, supervision, regulation of interaction, and adjustment during activities, and should be understood as a **supportive pedagogical resource rather than a substitute for the teacher**. This connects to [[social-robots]], [[educational-robotics]], [[human-robot-interaction]], and [[teacher-role]], and cautions against technocentric approaches, calling for realistic, critical, and contextualized uses of social robotics. It is relevant to [[k-12]], [[higher-ed]], [[special-education]], and [[equity-in-ai-education|inclusive education]], and to [[research-methods-aied|research-methods]] debates about the predominance of small-sample qualitative studies and the need for longitudinal evidence.
+
+## Limitations
+
+As a scoping review, its aim was to map available evidence rather than assess quality or synthesize effect sizes; it does not provide a quantitative meta-analysis. Only 13 empirical studies met inclusion criteria, reflecting the field's early stage, and the review notes the predominance of small-sample, short-duration qualitative studies with limited longitudinal follow-up. The search was restricted to English and Spanish publications, and the novelty effect of the robot may influence reported outcomes.
+
+## Connected Concepts
+
+- [[social-robots]]
+- [[educational-robotics]]
+- [[human-robot-interaction]]
+- [[teacher-role]]
+- [[k-12]]
+- [[higher-ed]]
+- [[special-education]]
+- [[equity-in-ai-education]]
+- [[motivation]]
+- [[student-engagement]]
+- [[embodied-learning]]
+- [[research-methods-aied]]
+
+## Connected Articles
+
+- [[pepper-robot-sign-language-lis-2025]] — Using the Pepper Robot to Support Sign Language Communication
+- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[social-robot-study-companions]] — Social Robots as Study Companions
+- [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
+- [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
+- [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
+
+## Citation
+
+Martinez-Roig, R., Aragonés-González, M., & Cazorla, M. (2026). [*Exploring the implementation of the Pepper social robot in formal education: A scoping review*](https://doi.org/10.1007/s44322-026-00072-1). *Journal of New Approaches in Educational Research*, 15, 22.
+
+---
+
 ## [Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study](https://edtechdev.github.io/aied/articles/persistent-ai-agents-academic-research/)
 
 ## Overview
@@ -21846,7 +21966,7 @@ Grounded in Deweyan Inquiry and the Practical Inquiry model, the study examined 
 
 ## Implications for AI in Education
 
-The findings suggest that structured AI-supported inquiry can strengthen applied and self-regulatory aspects of AI literacy while improving discipline-relevant performance — evidence that coached GenAI use embedded in authentic academic work outperforms conventional homework for developing practical AI competence. The moderate effect on research proposal quality indicates that AI-supported inquiry does not trade away disciplinary learning for tool proficiency. Notably, these gains were achieved without expanding lecture time: the experimental group received no additional AI-literacy-focused direct instruction, which the authors suggest explains the absence of change on concept-heavy and evaluative scales. For [[teacher-ai-competency]] and [[faculty-development]] efforts, the model offers a concrete, phase-structured template for integrating GenAI into coursework, with brief targeted activities (concept refreshers with retrieval checks, verify-and-trace exercises, rubric-scored ethics cases) recommended to address the dimensions the model alone did not shift. The pattern of results marks this as an [[efficacy-study]] whose design logic favors pedagogical specificity over mere tool availability.
+The findings suggest that structured AI-supported inquiry can strengthen applied and self-regulatory aspects of AI literacy while improving discipline-relevant performance — evidence that coached GenAI use embedded in authentic academic work outperforms conventional homework for developing practical AI competence. The moderate effect on research proposal quality indicates that AI-supported inquiry does not trade away disciplinary learning for tool proficiency. Notably, these gains were achieved without expanding lecture time: the experimental group received no additional AI-literacy-focused direct instruction, which the authors suggest explains the absence of change on concept-heavy and evaluative scales. For [[teacher-ai-competency]] and [[faculty-development]] efforts, the model offers a concrete, phase-structured template for integrating GenAI into coursework, with brief targeted activities (concept refreshers with retrieval checks, verify-and-trace exercises, rubric-scored ethics cases) recommended to address the dimensions the model alone did not shift. The pattern of results marks this as an [[research-methods-aied]] whose design logic favors pedagogical specificity over mere tool availability.
 
 ## Limitations
 
@@ -21856,7 +21976,7 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 
 - [[teacher-ai-competency]]
 - [[ai-literacy]]
-- [[efficacy-study]]
+- [[research-methods-aied]]
 - [[faculty-development]]
 - [[professional-training]]
 - [[k-12-ai-education]]
@@ -27428,7 +27548,7 @@ Research themes include:
 - [[formative-assessment]]
 - [[rct]]
 - [[active-learning]]
-- [[dot-framework-survey]]
+- [[dot-framework-survey-2026]]
 
 ## Connected Articles
 
@@ -27703,7 +27823,7 @@ AI education research in the wiki spans two interconnected dimensions:
 
 ### Cross-cutting themes
 
-- **Evidence and evaluation:** [[ai-ed-evaluation]], [[rct|randomized trials]], and [[efficacy-study|meta-analyses]] build the evidence base for what works.
+- **Evidence and evaluation:** [[ai-ed-evaluation]], [[rct|randomized trials]], and [[research-methods-aied|meta-analyses]] build the evidence base for what works.
 - **Policy and governance:** [[educational-policy-ai]], [[regulation]], and [[ai-governance-education]] address the institutional frameworks needed for responsible AI adoption.
 - **Equity and access:** [[equity]] and [[bias-mitigation]] research examines whether AI education serves all learners.
 - **Teacher preparation:** [[teacher-ai-competency]] and [[faculty-development]] ensure educators are prepared for AI-augmented classrooms.
@@ -28908,67 +29028,6 @@ The digital divide is a core concern of [[equity]] and [[equity-in-ai-education]
 
 ---
 
-## [DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education](https://edtechdev.github.io/aied/concepts/dot-framework-survey/)
-
-A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how higher education practitioners think about and use AI in teaching, grounded in the **DOT Framework** — a synthesis of [[design-thinking]] and open-systems-theory.
-
-## Core Findings
-
-### Three-Factor Belief Structure
-Exploratory factor analysis of 19 Likert-scale items yielded a three-factor structure with strong reliability (overall α = .90):
-1. **AI Functional Capabilities** (α = .91) — perceived utility of AI tools for teaching tasks
-2. **Oversight and Governance** (α = .79) — need for human supervision, policy frameworks, and critical evaluation
-3. **Instructor Collaboration and Planning** (α = .85) — value of teamwork in AI integration design
-
-This factor structure provides a psychometric anchor for understanding how educators conceptualize AI's role — not as a monolithic "good or bad" judgment but as differentiated beliefs spanning capability, governance, and collaborative practice.
-
-### Practice vs. Theory Gap
-Practitioners reported frequent use of **iterative prompting** and **content generation**, but far less engagement with **needs assessment** and **feedback loops** — the front and back ends of a full design cycle. This gap between design-oriented theory and current implementation is the study's central diagnostic finding. It echoes broader patterns in [[ai-literacy]] where educators adopt AI for productivity but not yet for systematic instructional redesign.
-
-### AI as "Fallible Intern"
-The study operationalizes AI as a **co-intelligent collaborator** following four tenets: (1) AI is fallible — always review, (2) AI supports not replaces higher-order thinking, (3) instructors should actively experiment, (4) instructor maintains agency. This framing aligns with ai-co-intelligence and [[human-ai-collaboration]] paradigms where the human remains the epistemic authority.
-
-### Institutional Barriers
-Widespread lack of policy, training, and infrastructure was reported — consistent with findings across institutional-ai-readiness and [[ai-governance-education]]. Without institutional scaffolding, even motivated practitioners remain in ad-hoc, fragmented adoption patterns.
-
-## The DOT Framework
-
-The DOT Framework integrates **Design Thinking stages** (Empathize → Define → Ideate → Prototype → Test) with **Open Systems concepts** (Environment, Input, Process, Structure, Output, Feedback) at both classroom (micro) and institutional (macro) levels. Key intersections:
-- **Empathize × Environment**: Ground instructional design in contextual understanding
-- **Test × Feedback**: Enable recursive improvement at both levels
-
-This study provides the *first empirical evidence* supporting DOT as a descriptive model — practitioners' beliefs and behaviors partially map to its structure, but the gaps (needs assessment, feedback) reveal where the model is aspirational rather than descriptive of current practice.
-
-## Implications for [[ai-education]]
-- **Measurement**: The 19-item belief scale offers a validated starting point for [[ai-ed-evaluation]] studies
-- **Professional Development**: Training should target the full design cycle, not just tool use — especially needs assessment and feedback integration
-- **Policy**: Institutional AI strategies need to address governance concerns while building on practitioners' existing favorable dispositions
-- **Future Research**: Confirmatory factor analysis needed; outcome-based studies linking DOT-aligned practices to instructional quality
-
-## Connected Concepts
-
-
-- [[dot-framework-survey]]
-- [[ai-literacy]]
-- [[design-thinking]]
-- [[ai-ed-evaluation]]
-- [[ai-education]]
-- [[human-in-the-loop-ai]]
-- [[ai-governance-education]]
-- [[human-ai-collaboration]]
-
-## Connected Articles
-
-
-- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-- [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
-- [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
-
----
-
 ## [Dual-Process Theory](https://edtechdev.github.io/aied/concepts/dual-process-theory/)
 
 > **Dual-process theory** — the account of cognition as operating through two interacting systems: a fast, automatic, intuitive System 1 and a slower, effortful, analytical System 2. In education, dual-process theory frames when learners rely on quick heuristics versus deliberate reasoning, and why they sometimes take cognitive shortcuts.
@@ -29189,6 +29248,9 @@ A defining theme is that robots are effective when they support genuine learning
 
 ## Connected Articles
 
+- [[pepper-social-robot-formal-education-scoping-review-2026]] — Scoping Review of the Pepper Robot in Formal Education
+
+
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking and Educational Robotics
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
@@ -29199,32 +29261,6 @@ A defining theme is that robots are effective when they support genuine learning
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
-
----
-
-## [Efficacy Study](https://edtechdev.github.io/aied/concepts/efficacy-study/)
-
-> **Efficacy Study** — a key concept in AI in education research. Explored across 6 articles in this wiki.
-
-Research themes include:
-- ### 6. Six Dimensions of Agentic Capability (the Review's Analytical Framework)
-- The review identifies four design elements that distinguish effective interventions:
-- 2. **Practice Question Engine**: Automatically generates programming exercises at three difficulty levels (beginner, intermediate, advanced), dynamically tailored to student competency.
-
-## Connected Concepts
-
-- [[higher-ed]]
-- [[rct]]
-- [[design-thinking]]
-- [[edtech-platform]]
-- [[pedagogical-llm-training]]
-- [[multimodal]]
-- [[efficacy-study]]
-- [[engagement-metrics]]
-
-## Connected Articles
-
-- [[genai-pd-ai-pck-learning-gain-2026]]
 
 ---
 
@@ -29288,7 +29324,7 @@ The definitional problem is central to AI-education research. A study that measu
 
 ### Connections to related concepts
 
-Engagement metrics connect to [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools. They intersect with [[motivation]] and [[self-determination-theory]] as the psychological antecedents of engagement, and with [[student-experience]] as the lived context. The distinction between genuine engagement and superficial use ties directly to [[over-reliance]], [[cognitive-offloading]], and [[self-regulated-learning]], since self-regulated learners engage critically and strategically with AI. In evaluation terms, engagement metrics feature in [[efficacy-study]] designs and relate to the affordances measured by [[engagement-metrics|behavioral telemetry]] in [[edtech-platform]]s.
+Engagement metrics connect to [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools. They intersect with [[motivation]] and [[self-determination-theory]] as the psychological antecedents of engagement, and with [[student-experience]] as the lived context. The distinction between genuine engagement and superficial use ties directly to [[over-reliance]], [[cognitive-offloading]], and [[self-regulated-learning]], since self-regulated learners engage critically and strategically with AI. In evaluation terms, engagement metrics feature in [[research-methods-aied]] designs and relate to the affordances measured by [[engagement-metrics|behavioral telemetry]] in [[edtech-platform]]s.
 
 ## Connected Concepts
 
@@ -29301,7 +29337,7 @@ Engagement metrics connect to [[learning-analytics]] and [[educational-measureme
 - [[over-reliance]]
 - [[student-modeling]]
 - [[adaptive-learning]]
-- [[efficacy-study]]
+- [[research-methods-aied]]
 - [[higher-ed]]
 
 ## Connected Articles
@@ -30107,6 +30143,9 @@ HRI connects to [[social-robots]], [[educational-robotics]], [[embodied-learning
 - [[ethics]]
 
 ## Connected Articles
+
+- [[pepper-social-robot-formal-education-scoping-review-2026]] — Pepper in Formal Education: A Scoping Review
+
 
 - [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
@@ -31782,9 +31821,9 @@ The central tension in AIED research is that the strongest designs for causal in
 
 ### Experimental and quasi-experimental designs
 
-Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes like learning gains, engagement, or motivation. **Randomized controlled trials** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, between-subjects, or matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
+An **efficacy study** tests whether an intervention produces its intended learning effect, typically using experimental or quasi-experimental designs that compare outcomes with and without the intervention. Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes like learning gains, engagement, or motivation. **Randomized controlled trials** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, between-subjects, or matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
 
-- **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and [[efficacy-study|efficacy claims]].
+- **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and [[research-methods-aied|efficacy claims]].
 - **Limitations:** costly and slow; artificial conditions can reduce ecological validity; fast-changing AI tools make long experiments date quickly; small samples often underpower detection of meaningful effects; ethical constraints on withholding potentially helpful tools.
 - **Exemplars:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 
@@ -31854,7 +31893,7 @@ Delphi is often combined with other methods — for example, expert consensus ca
 
 Research and evaluation are closely related but distinct. **Research** asks generalizable questions about how AI affects learning — "does scaffolding improve learning outcomes?" — and aims to build theory and evidence that transfers beyond the specific study. **Evaluation** (see [[ai-ed-evaluation]]) assesses whether a *specific* AI tool or system works — is accurate, reliable, pedagogically sound, and fit for purpose — against benchmarks, rubrics, or stakeholder-defined criteria. Research emphasizes internal validity and generalization; evaluation emphasizes system quality and local decision-making.
 
-The boundaries blur: benchmark studies are evaluation that can feed research, and evaluation instruments (rubrics, ground-truth sets, validity frameworks) depend on the [[educational-measurement]] and [[assessment-validity]] concerns that research clarifies. Conversely, research findings on what supports learning should inform how AI tools are [[ai-ed-evaluation|evaluated]]. The wiki treats them as complementary: computational and benchmark evaluation ([[benchmark]], [[ai-ed-evaluation]]) tells us whether an AI system is technically sound, while efficacy and survey research ([[efficacy-study]], [[rct]]) tells us whether it helps people learn.
+The boundaries blur: benchmark studies are evaluation that can feed research, and evaluation instruments (rubrics, ground-truth sets, validity frameworks) depend on the [[educational-measurement]] and [[assessment-validity]] concerns that research clarifies. Conversely, research findings on what supports learning should inform how AI tools are [[ai-ed-evaluation|evaluated]]. The wiki treats them as complementary: computational and benchmark evaluation ([[benchmark]], [[ai-ed-evaluation]]) tells us whether an AI system is technically sound, while efficacy and survey research ([[rct]]) tells us whether it helps people learn.
 
 ### Choosing among methods
 
@@ -31863,7 +31902,6 @@ Method choice follows the research question. Causal-effect questions favor exper
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
-- [[efficacy-study]]
 - [[rct]]
 - [[benchmark]]
 - [[educational-measurement]]
@@ -32285,6 +32323,9 @@ Social robots connect to [[human-robot-interaction]], [[educational-robotics]], 
 
 ## Connected Articles
 
+- [[pepper-social-robot-formal-education-scoping-review-2026]] — Pepper in Formal Education: A Scoping Review
+
+
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
@@ -32555,7 +32596,7 @@ A central theme in the wiki's research is that engagement and learning must be d
 
 ### Connections to related concepts
 
-Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[engagement-metrics]] and [[learning-analytics]]. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[over-reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[efficacy-study]] evaluations of AI-education interventions.
+Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[engagement-metrics]] and [[learning-analytics]]. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[over-reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
 
 ## Connected Concepts
 

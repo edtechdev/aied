@@ -1120,7 +1120,7 @@
 - **Index updated:** 213 pages
 - **Last scan date:** 2026-05-28
 
-| 2026-05-29 | [arXiv:2605.29041](https://arxiv.org/abs/2605.29041) | [[dot-framework-survey]] | survey, dot-framework, practitioner-beliefs, design-thinking, institutional-barriers | DOT Framework survey of 72 practitioners: three-factor belief structure, practice-theory gaps, institutional barriers to AI in education |
+| 2026-05-29 | [arXiv:2605.29041](https://arxiv.org/abs/2605.29041) | [[dot-framework-survey-2026]] | survey, dot-framework, practitioner-beliefs, design-thinking, institutional-barriers | DOT Framework survey of 72 practitioners: three-factor belief structure, practice-theory gaps, institutional barriers to AI in education |
 
 ## [2026-05-29] ingest | 3 new + 1 catch-up AIED papers (daily scan)
 

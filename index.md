@@ -244,7 +244,7 @@
 - [[digital-divide]] — Digital Divide
 - [[digital-literacy]] — Digital Literacy
 - [[digital-literacy-illusion]] — The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students
-- [[dot-framework-survey]] — 'DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education'
+- [[dot-framework-survey-2026]] — 'DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education'
 - [[dropout-reduction]] — Dropout Reduction
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
 - [[dynamic-skill-matching-capstone-teams]] — Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment
@@ -267,7 +267,7 @@
 - [[eduguard-safe-rag-llm-tutor]] — 'EduGuard: A Safe RAG-Based LLM Tutor for Programming Education'
 - [[edumirror-educational-social-dynamics]] — 'EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation'
 - [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
-- [[efficacy-study]] — Efficacy Study
+- [[research-methods-aied]] — Efficacy Study
 - [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
 - [[egai-power-systems-education]] — Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education

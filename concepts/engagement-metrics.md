@@ -29,7 +29,7 @@ The definitional problem is central to AI-education research. A study that measu
 
 ### Connections to related concepts
 
-Engagement metrics connect to [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools. They intersect with [[motivation]] and [[self-determination-theory]] as the psychological antecedents of engagement, and with [[student-experience]] as the lived context. The distinction between genuine engagement and superficial use ties directly to [[over-reliance]], [[cognitive-offloading]], and [[self-regulated-learning]], since self-regulated learners engage critically and strategically with AI. In evaluation terms, engagement metrics feature in [[efficacy-study]] designs and relate to the affordances measured by [[engagement-metrics|behavioral telemetry]] in [[edtech-platform]]s.
+Engagement metrics connect to [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools. They intersect with [[motivation]] and [[self-determination-theory]] as the psychological antecedents of engagement, and with [[student-experience]] as the lived context. The distinction between genuine engagement and superficial use ties directly to [[over-reliance]], [[cognitive-offloading]], and [[self-regulated-learning]], since self-regulated learners engage critically and strategically with AI. In evaluation terms, engagement metrics feature in [[research-methods-aied]] designs and relate to the affordances measured by [[engagement-metrics|behavioral telemetry]] in [[edtech-platform]]s.
 
 ## Connected Concepts
 
@@ -42,7 +42,7 @@ Engagement metrics connect to [[learning-analytics]] and [[educational-measureme
 - [[over-reliance]]
 - [[student-modeling]]
 - [[adaptive-learning]]
-- [[efficacy-study]]
+- [[research-methods-aied]]
 - [[higher-ed]]
 
 ## Connected Articles
