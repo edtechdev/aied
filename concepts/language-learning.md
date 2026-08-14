@@ -35,6 +35,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[ai-guided-learning-audiovideo-2026]]
 
 - [[ai-interlocutor-l2-spoken-dialogue]]
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[self-referential-l2-writing-llm-assessment]]
 - [[ai-scoring-language-bias-physics]]
 - [[genai-linguistic-diversity-academic-writing]]

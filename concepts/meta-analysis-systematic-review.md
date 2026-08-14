@@ -96,6 +96,7 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
 - [[ai-collaborative-learning-systematic-review]] — PRISMA systematic review of AI-powered collaborative learning
 - [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive systematic review of intelligent tutoring systems
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review of ChatGPT and critical/creative thinking
 - [[stanford-evidence-base-ai-k12-2026]] — Evidence base for AI in K-12
