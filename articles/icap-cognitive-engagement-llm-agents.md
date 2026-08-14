@@ -10,8 +10,6 @@ confidence: high
 
 > **Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas** — CogSci 2026 (accepted full paper).
 
-**Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas** — CogSci 2026 (accepted full paper).
-
 ## Synthesis
 
 This study applies an extended 7-point ICAP framework (Interactive, Constructive, Active, Passive) to characterize cognitive engagement in collaborative dialogue, comparing trained human annotators with LLM-based labeling: in-context learning (ICL), zero-shot prompting, and self-reflective agents.
@@ -24,6 +22,7 @@ Findings highlight the promise of reflective-agent approaches for scaling engage
 
 ## Connected Concepts
 
+- [[icap-framework]]
 - [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]
