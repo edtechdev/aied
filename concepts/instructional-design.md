@@ -19,6 +19,8 @@ Instructional design bridges AI capabilities and effective pedagogy. Where [[cur
 
 **Frameworks and evaluation** provide structured approaches. **[[bridging-instructional-design-framework-math]]** and **[[cotal-formative-assessment-scoring-2026|CoTAL]]** demonstrate human-in-the-loop design principles. **[[genai-mindtool-generative-learning]]** positions AI as a "mindtool" — a cognitive partner that extends rather than replaces learner thinking — directly applying instructional design theory to AI integration. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** applies Universal Design for Learning principles to create an accessible AI thought partner for educators, connecting instructional design to [[accessible-learning]].
 
+**AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents — its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. **[[multi-agent-instructional-design]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
+
 ### Connections to related concepts
 
 Instructional design is the bridge discipline of AI in education — it connects [[curriculum-design]] (what to teach) with [[scaffolding]] (how to support learners), [[faculty-development]] (how to prepare educators), and [[generative-ai]] (the tools themselves). It is tightly coupled with [[teacher-role]] because AI tools reshape what instructional designers and teachers do, and with [[ai-literacy]] because effective AI integration requires educators to understand AI capabilities and limitations.
@@ -37,6 +39,7 @@ Instructional design is the bridge discipline of AI in education — it connects
 - [[formative-assessment]]
 - [[higher-ed]]
 - [[k-12]]
+- [[agentic-ai]]
 - [[accessible-learning]]
 - [[universal-design-for-learning]]
 ## Connected Articles
@@ -52,3 +55,7 @@ Instructional design is the bridge discipline of AI in education — it connects
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
+
+- [[jeon-isd-agent-bench-2026]]
+- [[multi-agent-instructional-design]]
+- [[ai-tpack-teacher-multi-agent-workflow]]

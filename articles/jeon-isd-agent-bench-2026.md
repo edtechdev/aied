@@ -8,7 +8,11 @@ sources: ['raw/papers/jeon-isd-agent-bench-2026.md']
 confidence: medium
 ---
 
-> **ISD-Agent-Bench** is a comprehensive benchmark for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate LLM-as-judge bias.
+> **ISD-Agent-Bench** is a comprehensive benchmark for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate LLM-as-judge bias. It is a direct contribution to the study of [[instructional-design|instructional design]] as it applies to AI — providing the first standardized, theory-grounded way to evaluate whether AI agents can perform the systematic work of analyzing needs, designing, developing, implementing, and evaluating instruction.
+
+## Connection to instructional design
+
+ISD-Agent-Bench operationalizes [[instructional-design|instructional design theory]] as a testable capability for AI. Its central finding — that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents — is an empirical demonstration that instructional design is not a generic prompting task but a structured discipline that benefits from explicit theoretical grounding. The benchmark's Context Matrix formalizes what makes instructional-design contexts vary (learner characteristics, content domain, delivery mode, constraints, outcomes), connecting to [[curriculum-design]] at the program level while focusing on course- and lesson-level design decisions.
 
 ## Key Findings
 
@@ -34,8 +38,9 @@ For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a me
 
 - [[agentic-ai]]
 - [[ai-ed-evaluation]]
-
-- [[agentic-ai]]
+- [[instructional-design]]
+- [[curriculum-design]]
+- [[benchmark]]
 - [[ai-education]]
 - [[llm]]
 - [[rag]]
