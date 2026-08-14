@@ -41,6 +41,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[neurodivergent-computing-students]]
 - [[golrang-propact-pair-programming-2026]]
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[teacher-student-agency-orchestration]]
 - [[collaborative-ai-tutoring]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]

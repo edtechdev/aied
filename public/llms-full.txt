@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 611 articles and 134 concepts.
+> Complete text of 612 articles and 134 concepts.
 
 # Articles
 
@@ -15079,42 +15079,29 @@ Shengjie Li, Vincent Ng (2026). [ICLE++: Modeling Fine-Grained Traits for Holist
 ## [Would You Let a Humanoid Play Storytelling With Your Child? A Usability Study on LLM-Powered Narrative Human-Robot Interaction](https://edtechdev.github.io/aied/articles/icub-humanoid-storytelling-llm-hri-2025/)
 
 > **Synthesis:** Lombardi et al. (2025) present a framework for enhancing the attention and social capability of the iCub humanoid robot by integrating advanced perceptual abilities that recognize social cues, understand surroundings through generative models such as ChatGPT, and respond with contextually appropriate social behaviour. They implement an interaction task using a narrative (storytelling) protocol in which a human and the robot co-create a short imaginary story, exchanging cubes with creative images. Experiments quantify the usability and quality of experience perceived by participants interacting with the LLM-powered narrative human-robot interaction system.
-
 ## Key Findings
-
 - A key challenge in human-robot interaction is developing systems that can **perceive and interpret social cues** to enable natural, adaptive interactions.
 - The framework integrates **generative models (e.g., ChatGPT)** so the iCub humanoid can understand its surroundings and respond with contextually appropriate social behaviour.
 - The **storytelling task** has human and robot co-create an imaginary story by exchanging image-cubes, supporting collaborative narrative interaction.
 - The study **validates the protocol and framework** through usability and quality-of-experience measurement with participants.
-
 ## Study Design & Method
-
 This is a **usability/quality-of-experience study** of an LLM-powered narrative human-robot interaction system built on the iCub humanoid platform. The researchers integrated perceptual capabilities for social-cue recognition with generative-model understanding (ChatGPT) and implemented a storytelling interaction protocol where the human and robot jointly create a story by exchanging cubes with creative images. Participants interacted with the system, and the degree of usability and quality of experience was quantified to validate the framework and protocol.
-
 ## Implications for AI in Education
-
 The work demonstrates how **LLM-powered social robots** can support collaborative, engaging learning interactions such as storytelling, relevant to [[human-robot-interaction]], [[social-robots]], and [[educational-robotics]]. Integrating generative models enables robots to respond adaptively and contextually to children, supporting naturalistic educational interaction. This connects to [[llm|large language models]] in education and to child-focused learning activities such as storytelling, with implications for how embodied AI agents can participate in co-creation and narrative learning.
-
 ## Limitations
-
 The study focuses on usability and perceived quality of experience rather than measured learning outcomes; sample sizes and context are not specified in the abstract. The iCub platform is research hardware with limited classroom availability, and the generalizability of the LLM-integrated interaction framework to other robot platforms and age groups warrants further study.
-
 ## Connected Concepts
-
 - [[human-robot-interaction]]
 - [[social-robots]]
 - [[educational-robotics]]
 - [[llm]]
 - [[student-engagement]]
-
 ## Connected Articles
-
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy: LLM-Powered Social Robots for Storytelling
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Embodiment in Creative Writing
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[social-robot-study-companions]] — Social Robots as Study Companions
-
 ## Citation
-
 Lombardi, M., Calabrese, C., Ghiglino, D., Foglino, C., De Tommaso, D., Da Lisca, G., Natale, L., & Wykowska, A. (2025). *Would you let a humanoid play storytelling with your child? A usability study on LLM-powered narrative human-robot interaction*. arXiv:2508.02505.
 
 ---
@@ -19544,43 +19531,30 @@ Krebsbach, J. M., & Cross, V. L. (2026). Navigating the moral panic: encouraging
 ## [MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation Through Self-Determination Theory](https://edtechdev.github.io/aied/articles/motibo-digital-storytelling-robots-motivation-2026/)
 
 > **Synthesis:** Fung and Lui (2026) examine the impact of MotiBo, an interactive digital storytelling system incorporating a human-like robot, on student engagement and creativity. Recognizing that storytelling can enhance motivation and engagement but that conventional methods often lack interactive elements, the study compares engagement across three modalities: paper-based, PowerPoint, and robot-assisted (MotiBo) storytelling. Using a quasi-experimental design with three groups of students over a five-day learning period, the study finds that students using MotiBo exhibit statistically significant improvements in behavioural and cognitive engagement compared with traditional methods.
-
 ## Key Findings
-
 - **Creativity is increasingly recognized as an important skill in education**, and storytelling can enhance motivation and engagement — but conventional storytelling methods often lack interactive elements.
 - **MotiBo is an interactive digital storytelling system incorporating a human-like robot** to add interactivity.
 - A **quasi-experimental design** compared engagement across three modalities: paper-based, PowerPoint, and robot-assisted (MotiBo) storytelling, with three groups of students over a five-day learning period.
 - Students using **MotiBo showed statistically significant improvements in behavioural and cognitive engagement** compared with traditional methods.
-
 ## Study Design & Method
-
 This is a **quasi-experimental study**. The researchers compared student engagement and creativity across three storytelling modalities: paper-based, PowerPoint-based, and robot-assisted storytelling using the MotiBo system (a human-like interactive digital storytelling robot). Three groups of students participated over a five-day learning period. The study measured behavioural and cognitive engagement, and considered creativity as an outcome, analyzing differences across the three conditions.
-
 ## Implications for AI in Education
-
 MotiBo demonstrates how [[social-robots]] can enhance [[student-engagement]] and [[motivation]] in storytelling-based learning, framed through [[self-determination-theory]]. It shows that adding an interactive, embodied robot to storytelling increases behavioural and cognitive engagement compared with paper and PowerPoint methods. This connects to [[educational-robotics]], [[storytelling-in-education|narrative learning]], and the promotion of [[creativity]] in education. For educators, it provides evidence that embodied, interactive digital storytelling can motivate learners, with implications for [[k-12]] and special/inclusive education settings.
-
 ## Limitations
-
 The study is quasi-experimental (non-random assignment) with a five-day learning period, limiting causal inference and insight into long-term effects. The specific sample and student population are not detailed in the abstract. Findings focus on engagement measures, and the relationship to deeper learning outcomes and creativity requires further investigation.
-
 ## Connected Concepts
-
 - [[social-robots]]
 - [[educational-robotics]]
 - [[motivation]]
 - [[self-determination-theory]]
 - [[student-engagement]]
 - [[storytelling-in-education]]
-
 ## Connected Articles
-
 - [[icub-humanoid-storytelling-llm-hri-2025]] — LLM-Powered Narrative HRI
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy: LLM-Powered Social Robots
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind: Robot-Mediated Role-Play
-
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 ## Citation
-
 Fung, K. Y., & Lui, T. L. R. (2026). *MotiBo: The impact of interactive digital storytelling robots on student motivation through self-determination theory*. arXiv:2601.01218.
 
 ---
@@ -21216,42 +21190,29 @@ Hosseini, A.H. (2026). [*The Pedagogy of AI Mistakes: Fostering Higher-Order Thi
 ## [Using the Pepper Robot to Support Sign Language Communication](https://edtechdev.github.io/aied/articles/pepper-robot-sign-language-lis-2025/)
 
 > **Synthesis:** Bolla et al. (2025) investigate whether the commercial Pepper social robot can produce intelligible Italian Sign Language (LIS) signs and short signed sentences, addressing the underexplored accessibility of social robots for Deaf users. With the help of a Deaf student and an expert interpreter, they co-designed and implemented 52 LIS signs on Pepper using either manual animation techniques or a MATLAB-based inverse kinematics solver. An exploratory user study with 12 participants proficient in LIS (both Deaf and hearing) assessed the intelligibility of the robot's signs.
-
 ## Key Findings
-
 - Social robots are increasingly used in public and assistive settings, but their **accessibility for Deaf users remains underexplored**.
 - Italian Sign Language (LIS) is a fully-fledged natural language with complex **manual and non-manual components**, posing a challenge for robot communication.
 - The team **co-designed and implemented 52 LIS signs on Pepper** using manual animation techniques or a MATLAB-based inverse kinematics solver.
 - An exploratory user study with **12 participants proficient in LIS (Deaf and hearing)** assessed sign intelligibility, with the aim of fostering more inclusive human-robot interaction in social environments (hospitals, airports, educational settings).
-
 ## Study Design & Method
-
 This is an **exploratory design and user-study** in human-robot interaction. The researchers co-designed 52 Italian Sign Language signs with a Deaf student and an expert interpreter, implementing them on the Pepper platform using two techniques (manual animation and MATLAB-based inverse kinematics). An exploratory user study with 12 LIS-proficient participants (both Deaf and hearing) evaluated the intelligibility of the produced signs and short signed sentences, examining the feasibility of robot-mediated sign-language communication.
-
 ## Implications for AI in Education
-
 The work extends [[social-robots]] into [[equity-in-ai-education]] by exploring robots' capacity to communicate in [[special-education]], which could foster more inclusive human-robot interaction in educational settings and support Deaf learners. It connects to [[human-robot-interaction]], [[accessible-learning]], and [[special-education]], highlighting both the potential and the technical challenges of enabling robots to produce intelligible sign language. For educators, it points toward socially assistive robots as tools for inclusive classrooms, while underscoring the need for co-design with Deaf communities.
-
 ## Limitations
-
 The user study was exploratory with a small sample (12 participants), and the intelligibility of robot-produced LIS was partial and context-dependent. The technical implementation (52 signs) covers a limited vocabulary, and the non-manual components of LIS (facial expression, body posture) that are crucial to meaning were challenging for the robot to reproduce. Findings are specific to the Pepper platform and Italian Sign Language.
-
 ## Connected Concepts
-
 - [[social-robots]]
 - [[human-robot-interaction]]
 - [[special-education]]
 - [[equity-in-ai-education]]
 - [[accessible-learning]]
-
 ## Connected Articles
-
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo: Digital Storytelling Robots and Motivation
-
 ## Citation
-
 Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). *Using the Pepper robot to support sign language communication*. arXiv:2509.09889.
 
 ---
@@ -21259,9 +21220,7 @@ Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). *Usi
 ## [Exploring the Implementation of the Pepper Social Robot in Formal Education: A Scoping Review](https://edtechdev.github.io/aied/articles/pepper-social-robot-formal-education-scoping-review-2026/)
 
 > **Synthesis:** Martinez-Roig, Aragonés-González, and Cazorla (2026) present a scoping review of the use of the Pepper social robot in formal educational contexts, mapping documented forms of implementation, methodological designs, and reported findings. Following PRISMA-ScR guidelines and searching Scopus, Web of Science, ERIC-Proquest, and Dialnet (2014–2026), they selected 13 empirical studies. The review finds a concentration of research in primary education, a predominance of qualitative approaches with small samples, and Pepper used mainly for tutoring, collaborative learning, and mediation in inclusive settings — with benefits in motivation, engagement, and social skills, but also technical constraints, insufficient curricular integration, and a lack of longitudinal research. The evidence indicates effects depend largely on instructional design and teacher mediation.
-
 ## Key Findings
-
 - **13 empirical studies** were included (published 2018–2026; search covered 2014–2026), following PRISMA-ScR guidelines across Scopus, Web of Science, ERIC-Proquest, and Dialnet.
 - **Concentration in primary education** (38.5%), with 30.8% in higher education, 15.4% in early-years, and 7.7% each in secondary and mixed primary/secondary; 69.2% of studies were European (Italy, Germany, Netherlands, Sweden), 30.8% US.
 - **Predominance of qualitative approaches** (61.5%) with small samples; 23.1% mixed-methods, 15.4% quantitative experimental designs. No large-scale longitudinal studies identified; 61.5% of samples had fewer than 50 participants.
@@ -21269,21 +21228,13 @@ Bolla, G., Bolla, M., Gena, C., Mazzei, A., Donini, M., & Lillo, A. (2025). *Usi
 - **Reported benefits:** increased motivation, participation, engagement, and development of social skills, with some studies reporting improvements in learning outcomes or attitudes.
 - **Main limitations:** technical constraints (voice recognition, software glitches), insufficient curricular integration, cost, reliance on technical support, privacy, and lack of longitudinal research.
 - **The pedagogical dimension is a determining factor** — Pepper's contribution depends on instructional design, activity purpose, student profile, technical stability, and teacher mediation, not the technology alone.
-
 ## Study Design & Method
-
 This is a **scoping review** following the **PRISMA-ScR** guidelines. The authors searched Scopus, Web of Science, ERIC-Proquest, and Dialnet for peer-reviewed publications on the Pepper robot in formal education between 2014 and 1 March 2026. After duplicate removal and screening (1,448 references identified, 1,100 after deduplication, 345 full-text assessed), 13 studies met the inclusion criteria. Data extraction used a structured tool (piloted on three articles) covering authorship, country, objective, methodology, robot characteristics, curriculum area, student profile, teacher role, implementation issues, and reported benefits. Analysis combined descriptive analysis (frequencies/trends) and thematic categorical analysis (deductive, following Braun & Clarke), organized around themes of robot role, curricular areas, student profile, teacher role, challenges, and benefits.
-
 ## Implications for AI in Education
-
 The review situates Pepper's educational value beyond the technology itself: its embodiment, humanoid appearance, and multimodal interaction may foster initial interest but do not, in themselves, guarantee a meaningful educational experience. It positions the teacher as central — Pepper requires planning, supervision, regulation of interaction, and adjustment during activities, and should be understood as a **supportive pedagogical resource rather than a substitute for the teacher**. This connects to [[social-robots]], [[educational-robotics]], [[human-robot-interaction]], and [[teacher-role]], and cautions against technocentric approaches, calling for realistic, critical, and contextualized uses of social robotics. It is relevant to [[k-12]], [[higher-ed]], [[special-education]], and [[equity-in-ai-education|inclusive education]], and to [[research-methods-aied|research-methods]] debates about the predominance of small-sample qualitative studies and the need for longitudinal evidence.
-
 ## Limitations
-
 As a scoping review, its aim was to map available evidence rather than assess quality or synthesize effect sizes; it does not provide a quantitative meta-analysis. Only 13 empirical studies met inclusion criteria, reflecting the field's early stage, and the review notes the predominance of small-sample, short-duration qualitative studies with limited longitudinal follow-up. The search was restricted to English and Spanish publications, and the novelty effect of the robot may influence reported outcomes.
-
 ## Connected Concepts
-
 - [[social-robots]]
 - [[educational-robotics]]
 - [[human-robot-interaction]]
@@ -21296,18 +21247,15 @@ As a scoping review, its aim was to map available evidence rather than assess qu
 - [[student-engagement]]
 - [[embodied-learning]]
 - [[research-methods-aied]]
-
 ## Connected Articles
-
 - [[pepper-robot-sign-language-lis-2025]] — Using the Pepper Robot to Support Sign Language Communication
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[social-robot-study-companions]] — Social Robots as Study Companions
 - [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
-
 ## Citation
-
 Martinez-Roig, R., Aragonés-González, M., & Cazorla, M. (2026). [*Exploring the implementation of the Pepper social robot in formal education: A scoping review*](https://doi.org/10.1007/s44322-026-00072-1). *Journal of New Approaches in Educational Research*, 15, 22.
 
 ---
@@ -23047,6 +22995,56 @@ The deployment was a single-week study with 27 students, limiting generalizabili
 ## Citation
 
 Tozadore, D., Ertug, N., Chaker, Y., & Abderrahim, M. (2025). *RoboBuddy in the classroom: Exploring LLM-powered social robots for storytelling in learning and integration activities*. arXiv:2508.16706.
+
+---
+
+## [Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning: A Meta-Analysis](https://edtechdev.github.io/aied/articles/robot-assisted-language-learning-meta-analysis-2026/)
+
+> **Synthesis:** Wang, Zhang, and Zou (2026) meta-analyze 11 empirical studies (17 effect sizes, N = 595) of AI-enhanced **embodied robot-assisted language learning (RALL)** for second-language (L2) learning. A three-level random-effects model finds a positive overall effect (Hedges' g = 0.83, 95% CI [0.46, 1.21], p < .001) with high heterogeneity (I² = 84.4%). Of six moderators tested, only **robot-learner interaction format** reached significance (p = .049) — group-based formats showing larger effects than one-on-one — while robot morphology, modality, autonomy, social role, and duration did not. The central finding: L2 outcomes track how robots are positioned within instruction and interaction (especially group participation), not their technical sophistication.
+
+## Context
+
+Embodied robots are increasingly used to support second-language (L2) learning, yet evidence on when and why they help remains mixed. This meta-analysis examines how robot design features and instructional conditions relate to L2 learning outcomes, drawing on multimodal learning theory (MMLT) and sociocultural theory (SCT). Following PRISMA 2020 guidelines, Web of Science and Scopus were searched for empirical studies using physically embodied, AI-enhanced robots in L2 settings with sufficient statistics for effect sizes.
+
+## Key Findings
+
+- **Positive overall effect.** RALL had a positive overall effect on L2 learning (Hedges' g = 0.83, 95% CI [0.46, 1.21], p < .001), but high heterogeneity (I² = 84.4%) and a small evidence base warrant caution — a provisional benchmark, not a settled value.
+- **Interaction format is the key moderator.** Only robot-learner interaction format reached significance (p = .049), with **group-based** formats showing larger effects than one-on-one interaction.
+- **Technical features do not drive outcomes.** Robot morphology, communicative modality, autonomy, social role, and intervention duration did not significantly moderate outcomes.
+- **Teaching-assistant role showed the largest subgroup effect** (though social role was not independently significant, and is confounded with interaction format).
+- **Richer multimodal/autonomous designs were not consistently linked to stronger learning.**
+
+## Pedagogical and Practical Implications
+
+1. **Instructional alignment over technical sophistication.** Because morphology, modality, autonomy, and duration did not differentiate outcomes, procurement and design decisions should weigh how a robot is integrated into activities more than how advanced its hardware or AI is — favoring pedagogy-driven over technology-driven adoption given the substantial costs.
+2. **Design for group-based interaction.** Group settings were associated with larger effects; practitioners should treat the robot as one participant in a socially organized task supporting peer scaffolding, shared attention, and observational learning — not default to individual robot-learner pairings.
+3. **Prepare teachers to orchestrate robot-mediated interaction.** Effectiveness depended on how robots were positioned within instruction, so teacher expertise in aligning robot-mediated input with learning goals and managing turn-taking/timing is central; without focused professional development, even advanced systems risk limited impact.
+4. **Treat recommendations as provisional.** The small, heterogeneous evidence base and underpowered moderator subgroups mean guidance informs local decisions rather than fixed prescriptions.
+
+## Connected Concepts
+
+- [[educational-robotics]]
+- [[social-robots]]
+- [[human-robot-interaction]]
+- [[language-learning]]
+- [[embodied-learning]]
+- [[multimodal]]
+- [[meta-analysis-systematic-review]]
+- [[learning-gains]]
+- [[collaborative-learning]]
+- [[pedagogical-agent]]
+
+## Connected Articles
+
+- [[motibo-digital-storytelling-robots-motivation-2026]] — Digital storytelling robots and motivation
+- [[pepper-robot-sign-language-lis-2025]] — Pepper robot for sign language learning
+- [[teachy-mini-generative-social-robot-higher-ed-2026]] — Generative social robot in higher education
+- [[pepper-social-robot-formal-education-scoping-review-2026]] — Social robots in formal education scoping review
+- [[icub-humanoid-storytelling-llm-hri-2025]] — Humanoid storytelling with LLM-driven HRI
+
+## Citation
+
+Wang, Y., Zhang, Z. J., & Zou, D. (2026). [*Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning: A Meta-Analysis*](https://doi.org/10.1016/j.edurev.2026.100833). *Educational Research Review*.
 
 ---
 
@@ -26254,43 +26252,30 @@ Isabel Molnar et al. (2026). [TeachingCoach: A Fine-Tuned Scaffolding Chatbot fo
 ## [Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education](https://edtechdev.github.io/aied/articles/teachy-mini-generative-social-robot-higher-ed-2026/)
 
 > **Synthesis:** Vonschallen, Kaufmann, Oberle, Eyssel, and Schmiedel (2026) operationalize knowledge-based design (KBD) requirements for generative social robots (GSRs) by implementing them in the Reachy Mini robot platform through system prompting, retrieval-augmented generation, and stateful prompt orchestration, producing Teachy Mini — a GSR tutoring system for higher education. Recognizing that GSRs powered by LLMs offer personalized tutoring but also risks (misinformation, missing transparency, reinforcing incorrect responses), the authors conducted a preliminary evaluation study in which participants (N = 24) completed a robot-guided learning session about research methodologies, learning with either the robot or another mode.
-
 ## Key Findings
-
 - **Generative social robots (GSRs) powered by LLMs offer new possibilities for personalized tutoring in higher education** but introduce risks related to misinformation, missing transparency, and reinforcing incorrect student responses.
 - Prior work identified **knowledge-based design (KBD) requirements** defining the informational prerequisites for GSRs to manifest responsible and effective tutoring behaviour.
 - The authors **operationalized selected KBD requirements in the Reachy Mini robot platform** through system prompting, retrieval-augmented generation, and stateful prompt orchestration, producing **Teachy Mini**.
 - A **preliminary evaluation study (N = 24)** had participants complete a robot-guided learning session about research methodologies, learning with either Teachy Mini or an alternative mode.
-
 ## Study Design & Method
-
 This is a **system development and preliminary evaluation study**. The researchers operationalized knowledge-based design requirements for generative social robots by implementing them on the Reachy Mini robot platform using system prompting, retrieval-augmented generation (RAG), and stateful prompt orchestration, building the Teachy Mini tutoring system. A preliminary evaluation study with 24 participants had them complete a robot-guided learning session about research methodologies, comparing learning with Teachy Mini against an alternative mode to assess the system's effectiveness and the value of the KBD approach.
-
 ## Implications for AI in Education
-
 Teachy Mini demonstrates how **knowledge-based design requirements** can be concretely implemented in [[social-robots|generative social robots]] for [[higher-ed]] tutoring, using system prompting, RAG, and stateful prompt orchestration to mitigate risks such as misinformation and reinforcing incorrect responses. It connects to [[generative-ai]], [[llm|large language models]], [[ai-tutoring|tutoring]], and [[educational-robotics]]. For designers and educators, it provides a validated example of translating responsible-AI design principles into a functioning embodied tutor, complementing [[knowledge-based-design-generative-social-robots-2026|the prior KBD requirements study]].
-
 ## Limitations
-
 The evaluation is preliminary with a small sample (N = 24), and the specific comparative learning outcomes are not fully detailed in the abstract. The system is built on the Reachy Mini platform, so generalizability to other robot platforms and to broader disciplinary content requires further study. The focus is on research-methodology tutoring, and longer-term effects and broader responsible-AI risks warrant additional evaluation.
-
 ## Connected Concepts
-
 - [[social-robots]]
 - [[generative-ai]]
 - [[llm]]
 - [[higher-ed]]
 - [[ai-tutoring]]
 - [[educational-robotics]]
-
 ## Connected Articles
-
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design Requirements for GSRs
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
-
 ## Citation
-
 Vonschallen, S., Kaufmann, K., Oberle, D., Eyssel, F., & Schmiedel, T. (2026). *Teachy Mini: Development and preliminary evaluation of a knowledge-based generative social robot for higher education*. arXiv:2607.22345.
 
 ---
@@ -29676,6 +29661,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[neurodivergent-computing-students]]
 - [[golrang-propact-pair-programming-2026]]
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[teacher-student-agency-orchestration]]
 - [[collaborative-ai-tutoring]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
@@ -30493,6 +30479,7 @@ A defining theme is that robots are effective when they support genuine learning
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Scoping Review of the Pepper Robot in Formal Education
 
 
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking and Educational Robotics
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
@@ -30538,6 +30525,7 @@ Embodied learning connects to [[educational-robotics]], [[social-robots]], [[hum
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 
 ---
@@ -31474,6 +31462,7 @@ HRI connects to [[social-robots]], [[educational-robotics]], [[embodied-learning
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Pepper in Formal Education: A Scoping Review
 
 
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[task-context-trust-educational-hri-2026]] — Task Context and Trust in Educational HRI
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 - [[icub-humanoid-storytelling-llm-hri-2025]] — iCub Narrative HRI
@@ -31921,6 +31910,7 @@ Language learning has emerged as a significant AI in education domain because la
 - [[ai-guided-learning-audiovideo-2026]]
 
 - [[ai-interlocutor-l2-spoken-dialogue]]
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[self-referential-l2-writing-llm-assessment]]
 - [[ai-scoring-language-bias-physics]]
 - [[genai-linguistic-diversity-academic-writing]]
@@ -32087,6 +32077,9 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+
+
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 
 ---
 
@@ -32330,6 +32323,7 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
 - [[ai-collaborative-learning-systematic-review]] — PRISMA systematic review of AI-powered collaborative learning
 - [[genai-higher-education-systematic-review-2026]] — Systematic review of GenAI in higher education
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive systematic review of intelligent tutoring systems
 - [[chatgpt-critical-creative-thinking-review]] — Systematic review of ChatGPT and critical/creative thinking
 - [[stanford-evidence-base-ai-k12-2026]] — Evidence base for AI in K-12
@@ -32545,6 +32539,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 ## Connected Articles
 
 - [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[syal-multimodal-dialogue-stem-2026]] — The Multimodal Interference Effect and structured-dialogue recovery in STEM
 - [[multimodal-ai-tutoring]] — Multimodal AI tutoring in STEM and the error taxonomy
 - [[multimodal-ai-feedback-learning]] — Multimodal AI feedback matches educators on learning, exceeds on perceptions
@@ -34054,6 +34049,7 @@ Social robots connect to [[human-robot-interaction]], [[educational-robotics]], 
 
 
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo

@@ -81,6 +81,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 ## Connected Articles
 
 - [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[syal-multimodal-dialogue-stem-2026]] — The Multimodal Interference Effect and structured-dialogue recovery in STEM
 - [[multimodal-ai-tutoring]] — Multimodal AI tutoring in STEM and the error taxonomy
 - [[multimodal-ai-feedback-learning]] — Multimodal AI feedback matches educators on learning, exceeds on perceptions

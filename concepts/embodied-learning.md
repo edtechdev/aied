@@ -37,4 +37,5 @@ Embodied learning connects to [[educational-robotics]], [[social-robots]], [[hum
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
+- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
