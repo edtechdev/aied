@@ -63,3 +63,4 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[genai-performance-vs-learning]] — Distinguishing Performance from Learning
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
 - [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI

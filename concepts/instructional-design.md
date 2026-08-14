@@ -59,3 +59,4 @@ Instructional design is the bridge discipline of AI in education — it connects
 - [[jeon-isd-agent-bench-2026]]
 - [[multi-agent-instructional-design]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
+- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI

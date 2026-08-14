@@ -109,3 +109,4 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for authentic assessment
 - [[ai-changing-teaching-workflows]] — AI and changing teaching workflows
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux/bash exams
+- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
