@@ -31,7 +31,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'AI systems and techniques',
     blurb: 'The AI models and methods that power education technology, from generative models to knowledge representation.',
     groups: [
-      { label: 'Models and techniques', items: ['generative-ai', 'llm', 'rag', 'multimodal', 'reinforcement-learning', 'educational-nlp', 'knowledge-graph', 'simulation', 'adaptive-prompt-routing', 'adaptive-learning', 'personalized-learning'] },
+      { label: 'Models and techniques', items: ['generative-ai', 'llm', 'rag', 'multimodal', 'reinforcement-learning', 'educational-nlp', 'knowledge-graph', 'simulation', 'adaptive-learning', 'personalized-learning'] },
     ],
   },
   {
