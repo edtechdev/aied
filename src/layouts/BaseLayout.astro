@@ -15,7 +15,17 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
   <style>
     :root {
       --primary: #6d28d9;
+      /* Pico defaults --font-size to 16px on phones. Bump the mobile base for
+         readability and to reduce browser-to-browser (Chrome vs Firefox Android)
+         rendering differences driven by text-size-adjust / device font scaling. */
+      --font-size: 17px;
     }
+    html {
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      text-size-adjust: 100%;
+    }
+    @media (min-width: 768px) { :root { --font-size: 18px; } }
     body {
       min-height: 100vh;
       display: flex;
@@ -37,6 +47,12 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
     header nav a {
       margin-left: 1.5rem;
       font-size: 0.95rem;
+    }
+    /* Mobile: keep header nav usable on narrow screens */
+    @media (max-width: 480px) {
+      header .container { flex-wrap: wrap; gap: 0.25rem 0.5rem; }
+      header nav a { margin-left: 0.9rem; font-size: 0.9rem; }
+      .search-bar input { font-size: 1rem; }
     }
     main {
       flex: 1;
@@ -99,6 +115,10 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
       width: 100%;
       border-collapse: collapse;
       margin: 1rem 0;
+    }
+    /* Prevent wide tables from breaking mobile layout */
+    @media (max-width: 768px) {
+      table { display: block; overflow-x: auto; white-space: nowrap; }
     }
     th, td {
       padding: 0.5rem 0.75rem;
