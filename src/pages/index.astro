@@ -123,28 +123,6 @@ export const GET = () => {
     <pagefind-searchbox placeholder={`Search ${articles.length + concepts.length} articles & concepts...`}></pagefind-searchbox>
   </div>
 
-  <!-- === Recently Added Articles === -->
-  <section style="margin-bottom:2.5rem;">
-    <h2>📄 Recently Added Articles <span style="font-size:0.8rem;color:var(--muted-color);font-weight:normal;">({articles.length} total)</span></h2>
-    {articleDates.slice(0, 7).map(date => (
-      <details class="journal-day" open={date === articleDates[0]} style="margin-bottom:0.75rem;border:1px solid var(--card-border-color);border-radius:8px;padding:0.75rem 1rem;">
-        <summary style="cursor:pointer;font-weight:bold;color:var(--primary);">
-          {date} — {articlesByDate[date].length} new article{articlesByDate[date].length !== 1 ? 's' : ''}
-        </summary>
-        {articlesByDate[date].map(a => (
-          <div class="journal-entry" style="padding:0.4rem 0 0.4rem 1.2rem;border-left:2px solid var(--primary);margin:0.3rem 0;">
-            <a href={`/aied/articles/${a.id.replace('.md', '')}`} style="font-weight:500;">
-              {a.data.title}
-            </a>
-          </div>
-        ))}
-      </details>
-    ))}
-    <p style="margin-top:0.5rem;"><a href="/aied/journal">View all articles →</a></p>
-  </section>
-
-  <hr style="margin:2rem 0" />
-
   <!-- === AI in Education Concepts === -->
   <section style="margin-bottom:2.5rem;">
     <h2>🤖 Artificial Intelligence in Education Concepts <span style="font-size:0.8rem;color:var(--muted-color);font-weight:normal;">({indexedCount} concepts)</span></h2>
@@ -175,6 +153,28 @@ export const GET = () => {
         </div>
       </div>
     ))}
+  </section>
+
+  <hr style="margin:2rem 0" />
+
+  <!-- === Recently Added Articles === -->
+  <section style="margin-bottom:2.5rem;">
+    <h2>📄 Recently Added Articles <span style="font-size:0.8rem;color:var(--muted-color);font-weight:normal;">({articles.length} total)</span></h2>
+    {articleDates.slice(0, 7).map(date => (
+      <details class="journal-day" open={date === articleDates[0]} style="margin-bottom:0.75rem;border:1px solid var(--card-border-color);border-radius:8px;padding:0.75rem 1rem;">
+        <summary style="cursor:pointer;font-weight:bold;color:var(--primary);">
+          {date} — {articlesByDate[date].length} new article{articlesByDate[date].length !== 1 ? 's' : ''}
+        </summary>
+        {articlesByDate[date].map(a => (
+          <div class="journal-entry" style="padding:0.4rem 0 0.4rem 1.2rem;border-left:2px solid var(--primary);margin:0.3rem 0;">
+            <a href={`/aied/articles/${a.id.replace('.md', '')}`} style="font-weight:500;">
+              {a.data.title}
+            </a>
+          </div>
+        ))}
+      </details>
+    ))}
+    <p style="margin-top:0.5rem;"><a href="/aied/journal">View all articles →</a></p>
   </section>
 
   <hr style="margin:2rem 0" />
