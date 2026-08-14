@@ -1,37 +1,98 @@
 ---
 title: Help-Seeking
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-14
 type: concept
-tags: [help-seeking, intelligent-tutoring, student-experience, metacognition, higher-ed, llm, generative-ai, ai-literacy, k-12, scaffolding]
-confidence: medium
+tags: [help-seeking, intelligent-tutoring, student-experience, metacognition, higher-ed, llm, generative-ai, ai-literacy, k-12, scaffolding, self-regulated-learning]
+confidence: high
 ---
-> **Help-Seeking** — a key concept in AI in education research. Explored across 4 articles in this wiki.
 
-Research themes include:
-- **Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson** (2026). Pluralistic Alignment Workshop @ ICML 2026
-- A three-semester, 999-student analysis of hint usage in a K-12 mathematics ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced learning gains, even after co
-- Recent work in Technology-Enhanced Learning and HumanComputer Interaction highlights the importance of transparency and trust calibration in AI-supported learning environments as they pose a risk of hallucinations. In this study, we investigate wheth
+> **Help-Seeking** — the learner's process of recognizing a need for assistance and strategically requesting it, and how that process plays out in AI-supported learning environments. In AI in education, help-seeking is central to whether AI tools support or undermine learning: the *quality* of help-seeking (when, how, and what learners ask for) strongly shapes outcomes, and AI tutors, hints, and pedagogical agents are designed precisely to elicit productive help-seeking rather than answer-seeking.^[[lak2026-hint-button-unproductive-use]]^[[ai-fallibility-warning-help-seeking]]
+
+Help-seeking is a well-established construct in learning research, closely tied to [[self-regulated-learning]] and [[metacognition]]: it requires learners to monitor their own understanding, recognize a gap, decide help is needed, and formulate an effective request. With the rise of generative AI tutors, help-seeking has taken on new importance — and new failure modes. Learners often *intend* to use AI for learning but default to asking for direct answers, a gap that research in this wiki documents across domains and age groups.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
+
+## Productive vs. unproductive help-seeking
+
+The central distinction in the literature is between help-seeking that supports learning and help-seeking that bypasses it.
+
+### Unproductive help-seeking behaviors
+
+Research in this wiki identifies concrete, observable patterns of unproductive help-seeking, especially in intelligent tutoring systems:
+
+- **Premature hint requests** — requesting help before making any solution attempt. Even uncertain students learn more by attempting first.^[[lak2026-hint-button-unproductive-use]]
+- **Superficial hint reading** — advancing through hints too rapidly to read them (flagged at a ~4 words/second benchmark), often jumping straight to the bottom-out hint that reveals the answer.^[[lak2026-hint-button-unproductive-use]]
+- **Answer-seeking over learning-seeking** — asking the AI to produce the answer rather than to explain or guide. In a study of 98 Grade-9 students using a GenAI tutor, interactions were dominated by instrumental requests with almost no monitoring or evaluation of their own learning — despite students having chosen scaffolded support beforehand. This **intention-behavior gap** was associated with *lower* post-test performance and higher extraneous cognitive load.^[[regulating-ai-tutor-adolescent-srl]]
+
+### Why unproductive help-seeking hurts learning
+
+The **affordance perspective** explains a key mechanism: when an interface makes help constantly and saliently available (e.g., a persistent "hint button"), it signals to learners that help is always there, creating an unintended affordance that can collapse the task into a copying exercise. Rapidly accessing bottom-out hints circumvents the active schema construction that learning requires.^[[lak2026-hint-button-unproductive-use]]
+
+### The quality of help-seeking is measurable
+
+Two simple, interpretable indicators — premature hint requests and superficial hint reading — are computable from standard tutoring logs and are consistently associated with reduced learning gains across semesters, even after controlling for prior knowledge. This makes them practical for [[learning-analytics]] dashboards and real-time intervention, unlike complex machine-learned "gaming the system" detectors.^[[lak2026-hint-button-unproductive-use]]
+
+## Designing AI systems to promote productive help-seeking
+
+### Scaffolding how students ask
+
+Explicit training in **reasoning-focused help-seeking** — requesting stepwise hints and verification rather than final answers — produces better outcomes than uncritical reliance. In a quasi-experimental undergraduate statistics study, guided LLM access (with training on reasoning-oriented help-seeking) led to stronger independent performance and better self-assessment calibration than unrestricted LLM access. The lesson: **LLM access alone is an incomplete intervention**; the design challenge is to scaffold *how* students use AI so it functions as a reasoning partner rather than an answer-getting tool.^[[guided-llm-scaffolding-independent-learning]]
+
+### Calibrating trust through transparency
+
+A classroom experiment with 252 students found that **warning students about AI fallibility increased help-seeking** in a math tutoring system. Transparency about potential system errors improved learners' engagement with the system — connecting help-seeking to [[trust-calibration]] and [[hallucination-risk]].^[[ai-fallibility-warning-help-seeking]]
+
+### Rethinking hint and scaffold delivery
+
+Rather than removing help, research recommends re-engineering how it is delivered:
+
+- **Delayed hint availability** — requiring minimum engagement time or solution attempts before hints (especially bottom-out hints) are accessible.^[[lak2026-hint-button-unproductive-use]]
+- **Moving from *whether* to *how*** — the key design question is how to structure hint delivery aligned with productive-struggle principles, not whether to provide hints at all.^[[lak2026-hint-button-unproductive-use]]
+
+### The uptake problem in LLM tutors
+
+Real-world students frequently **bypass a chatbot's scaffolding** — not necessarily harmfully, but often because there is a mismatch between the chatbot's pedagogical framing and the student's own learning goals. Evaluation pipelines must therefore measure not just whether a tutor scaffolds, but whether students *take up* that scaffolding, rather than assuming they will.^[[rethinking-scaffolding-llm-tutors]]
+
+## Help-seeking and self-regulated learning
+
+Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise agency over the AI and maintain epistemic vigilance rather than deferring to it. Research in this wiki supports the need for scaffolds that promote more agentic and epistemically proactive AI use, and highlights the risk of [[over-reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
+
+## Implications for design and research
+
+1. **Design help-seeking affordances deliberately.** Persistent, salient help buttons can enable bypass strategies; delay access and structure delivery to support productive struggle.^[[lak2026-hint-button-unproductive-use]]
+2. **Scaffold the help-seeking itself.** Train learners in reasoning-focused requests (stepwise hints, verification) rather than assuming access equals good use.^[[guided-llm-scaffolding-independent-learning]]
+3. **Use transparency to calibrate trust.** Warning about AI fallibility can increase appropriate help-seeking and engagement.^[[ai-fallibility-warning-help-seeking]]
+4. **Measure uptake, not just scaffolding.** Evaluate whether students actually engage with pedagogical framing, not only whether the tutor provides it.^[[rethinking-scaffolding-llm-tutors]]
+5. **Support monitoring and agency.** Help-seeking scaffolds should strengthen [[metacognition]] and [[self-regulated-learning]], guarding against [[over-reliance]].
 
 ## Connected Concepts
 
-
-- [[help-seeking]]
-- [[affective-tutoring]]
+- [[self-regulated-learning]]
 - [[metacognition]]
-- [[agentic-ai]]
+- [[scaffolding]]
+- [[intelligent-tutoring]]
 - [[ai-tutoring]]
-- [[teacher-ai-competency]]
+- [[student-experience]]
+- [[over-reliance]]
+- [[cognitive-offloading]]
+- [[learning-analytics]]
+- [[k-12]]
+- [[higher-ed]]
 - [[socratic-method]]
 - [[pedagogical-agent]]
+- [[ai-literacy]]
+- [[trust-calibration]]
+- [[affective-tutoring]]
+- [[feedback-loop]]
+- [[active-learning]]
+- [[agentic-ai]]
 
 ## Connected Articles
 
-
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
-- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
-- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[lak2026-hint-button-unproductive-use]] — Premature hint requests and superficial hint reading predict lower learning gains in an ITS
+- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in a math tutoring system
+- [[regulating-ai-tutor-adolescent-srl]] — The intention-behavior gap in adolescent GenAI help-seeking and self-regulated learning
+- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding improves reasoning-focused help-seeking and independent learning
+- [[rethinking-scaffolding-llm-tutors]] — The scaffolding/student-uptake mismatch in real-world LLM tutor deployments
+- [[surfacing-isolated-learners]] — Using AI to surface learners who need help, mediating teacher-student feedback
+- [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Socially shared regulation and help-seeking patterns
+- [[halani-designing-for-reach-2026]] — Designing for reach: the student alone with AI and access to help
