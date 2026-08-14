@@ -51,6 +51,7 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 - [[ai-tutoring]]
 - [[desirable-difficulties]]
 - [[higher-ed]]
+- [[learning-by-teaching]]
 - [[personalized-learning]]
 - [[scaffolding]]
 - [[student-experience]]

@@ -38,6 +38,7 @@ The central tension for AI-supported learning is that generative AI is, by defau
 ## Connected Concepts
 
 - [[cognitive-load-theory]]
+- [[learning-by-teaching]]
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[transfer-of-learning]]

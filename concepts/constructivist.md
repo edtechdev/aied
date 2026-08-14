@@ -54,6 +54,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 ## Connected Concepts
 
 - [[active-learning]]
+- [[learning-by-teaching]]
 - [[scaffolding]]
 - [[self-regulated-learning]]
 - [[collaborative-learning]]

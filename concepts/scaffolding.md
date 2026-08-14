@@ -27,6 +27,7 @@ Scaffolding connects to [[over-reliance]] (scaffolding that doesn't fade creates
 
 ## Connected Concepts
 
+- [[learning-by-teaching]]
 - [[zone-of-proximal-development]]
 - [[over-reliance]]
 - [[cognitive-load-theory]]
