@@ -12,7 +12,7 @@ confidence: high
 ### Faculty development in the AI era
 
 - **Readiness frameworks:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] identifies four readiness domains: epistemic, pedagogical, institutional, and quality-and-compliance. Faculty readiness is a sociotechnical alignment problem, not just an individual skills gap.
-- **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. [[faculty-development]] programs must address all four.
+- **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. faculty-development programs must address all four.
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty AI education.
 - **Governance and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.

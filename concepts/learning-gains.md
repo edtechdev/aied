@@ -25,7 +25,6 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 ## Connected Concepts
 
 - [[rct]]
-- [[learning-gains]]
 - [[formative-assessment]]
 - [[over-reliance]]
 - [[cognitive-offloading]]
