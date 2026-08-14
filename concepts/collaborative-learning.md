@@ -44,3 +44,4 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[teacher-student-agency-orchestration]]
 - [[collaborative-ai-tutoring]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[academic-league-of-ai-2026]]

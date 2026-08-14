@@ -36,3 +36,4 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[academic-league-of-ai-2026]]

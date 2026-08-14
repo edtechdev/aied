@@ -63,3 +63,4 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[empathy-coaching-chatbot]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[trace-course-grade-prediction-2026]]

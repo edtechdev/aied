@@ -47,3 +47,4 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
 - [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
 - [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots, Collective Efficacy, and Collaboration
+- [[sovereign-hive-titl-further-education-2026]]

@@ -35,3 +35,4 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - [[genai-mindtool-generative-learning]]
 - [[test-driven-ai-assisted-learning]]
 - [[curiobot-llm-tutoring-exploratory-learning]]
+- [[genai-assisted-problem-posing-physics-2026]]

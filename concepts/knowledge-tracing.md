@@ -51,4 +51,4 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[reinforcement-learning-measurement-model-assessment]]
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
+- [[zerkouk-comprehensive-review-its-2025]]- [[trace-course-grade-prediction-2026]]

@@ -15,6 +15,11 @@
 - 0 back-links added (minimal batch); Index: N/A; Journal: N/A
 - Sources: arXiv cs.CY (3 papers via listing pages), arXiv physics.ed-ph (1 paper via listing pages), arXiv cs.AI/cs.CY (1 cross-list)
 - EdArXiv: 3 papers (OSF API via browser)
+## [2026-08-14] meta | scan-complete
+
+- Source: arXiv cs+education (API OK via execute_code/urllib), physics.ed-ph (API OK), EdArXiv OSF (API OK, 4 queries)
+- Ingested 8 new articles: Academic League of AI (UFSC), TRACE course+grade transformer, probing AI-generated physics solutions, GenAI-assisted problem posing, Sovereign Hive/TITL further-ed equity, andragogy cognitive delegation, student-LLM interaction scoping review, bilingual LLM lecture companion
+- Backlinks added to 40 concept pages; build + push pending
 ## [2026-08-10] meta | scan-complete
 
 

@@ -46,3 +46,4 @@ The digital divide is a core concern of [[equity-in-ai-education]] and [[equity-
 - [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
 - [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
+- [[bilingual-llm-lecture-companion-srl-2026]]

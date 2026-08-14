@@ -32,4 +32,5 @@ Research themes include:
 - [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-- [[dot-framework-survey-2026]]
+- [[dot-framework-survey-2026]]- [[sovereign-hive-titl-further-education-2026]]
+- [[andragogy-cognitive-delegation-genai-2026]]

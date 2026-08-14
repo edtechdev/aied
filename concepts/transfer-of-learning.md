@@ -84,3 +84,4 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[ai-tutor-safety-harms]]
 - [[brookings-ai-students-report]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[genai-assisted-problem-posing-physics-2026]]

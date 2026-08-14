@@ -63,3 +63,5 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[ai-uk-higher-education-policy-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[academic-league-of-ai-2026]]
+- [[trace-course-grade-prediction-2026]]
