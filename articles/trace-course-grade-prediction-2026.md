@@ -1,6 +1,6 @@
 ---
 title: Jointly Predicting Courses and Grades Using a Transformer-Based Model (TRACE)
-created: 2026-08-13
+created: 2026-08-14
 updated: 2026-08-14
 type: article
 tags: [learning-analytics, student-modeling, predictive-modeling, knowledge-tracing, higher-ed, personalized-learning, educational-measurement, ai-ed-evaluation, data-driven]
