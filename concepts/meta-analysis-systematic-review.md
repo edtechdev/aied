@@ -103,3 +103,4 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[llm-intervention-design-cs-review]] — Review informing LLM intervention design in CS
 - [[human-autonomy-agency-hri-review-2025]] — Review of human autonomy and agency in human-robot interaction
 - [[rail-ed-genai-literacy-teacher-education]] — Review of GenAI literacy in teacher education
+- [[student-llm-interaction-taxonomy-review-2026]]

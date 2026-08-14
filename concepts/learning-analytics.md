@@ -48,3 +48,5 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[teaching-feedback-classification-benchmark]]
 - [[wordstream-glass-learning-analytics]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
+- [[trace-course-grade-prediction-2026]]
+- [[student-llm-interaction-taxonomy-review-2026]]

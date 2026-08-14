@@ -94,3 +94,4 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitive discord in GenAI completion
 - [[ai-interior-design-malaysia-2026]] — AI in design education
+- [[academic-league-of-ai-2026]]

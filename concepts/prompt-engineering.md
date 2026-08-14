@@ -48,3 +48,5 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[pchl-he-framework-genai-content-creation-2026]]
+- [[probing-ai-generated-physics-solutions-2026]]
+- [[genai-assisted-problem-posing-physics-2026]]

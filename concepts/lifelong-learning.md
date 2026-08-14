@@ -31,3 +31,4 @@ confidence: medium
 - [[community-centered-ai-education-adults]]
 - [[metacognitive-learning-scenarios-taxonomy]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[andragogy-cognitive-delegation-genai-2026]]

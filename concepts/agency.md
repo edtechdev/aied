@@ -38,3 +38,4 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
+- [[andragogy-cognitive-delegation-genai-2026]]

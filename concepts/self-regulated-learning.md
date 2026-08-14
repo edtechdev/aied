@@ -100,3 +100,7 @@ For example:
 - [[ecnuclaw-k12-personalized-companion]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[ai-feedback-enactment-workflow-2026]]
+- [[genai-assisted-problem-posing-physics-2026]]
+- [[andragogy-cognitive-delegation-genai-2026]]
+- [[student-llm-interaction-taxonomy-review-2026]]
+- [[bilingual-llm-lecture-companion-srl-2026]]
