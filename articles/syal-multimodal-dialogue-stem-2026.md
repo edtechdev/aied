@@ -36,7 +36,7 @@ For deployment, this suggests a design pattern: AI tutoring interfaces for STEM 
 
 - [[socratic-method]]
 - [[math-education]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[help-seeking]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]

@@ -86,7 +86,7 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 ## Connected Concepts
 
 - [[ai-feedback-quality]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[ai-ed-evaluation]]
 - [[metacognition]]
 - [[self-regulated-learning]]

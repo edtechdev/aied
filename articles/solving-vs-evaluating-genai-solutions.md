@@ -33,7 +33,7 @@ The results speak directly to the debate over how computing educators should res
 - [[critical-thinking]]
 - [[math-education]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[physics-education]]
 - [[pedagogical-agent]]
 

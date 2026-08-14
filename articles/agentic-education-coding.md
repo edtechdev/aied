@@ -60,7 +60,7 @@ This operationalizes [[agentic-workflows-education]] for a specific tool:
 - [[math-education]]
 - [[curriculum-design]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[physics-education]]
 - [[help-seeking]]
 - [[metacognition]]

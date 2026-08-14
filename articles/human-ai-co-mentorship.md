@@ -27,7 +27,7 @@ This model bridges [[agentic-workflows-education]] and practical classroom imple
 - [[pedagogical-agent]]
 - [[reinforcement-learning]]
 - [[intelligent-tutoring]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[active-learning]]
 - [[teacher-role]]
 - [[lifelong-learning]]

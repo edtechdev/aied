@@ -33,7 +33,7 @@ The results give computing instructors an evidence base for purposeful use: AI-g
 - [[instructional-design]]
 - [[math-education]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[physics-education]]
 - [[pedagogical-agent]]
 

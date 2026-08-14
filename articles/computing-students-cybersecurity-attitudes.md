@@ -25,7 +25,7 @@ Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cyb
 - [[administrator]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 
 ## Connected Articles
 

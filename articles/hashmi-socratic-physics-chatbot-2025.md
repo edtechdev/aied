@@ -37,7 +37,7 @@ The correlation between question specificity and course grade (*r* = 0.43) hints
 - [[generative-ai]]
 - [[learning-analytics]]
 - [[physics-education]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[socratic-method]]
 - [[stem-education]]
 - [[intelligent-tutoring]]

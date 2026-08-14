@@ -26,7 +26,7 @@ This randomized controlled experiment assigned participants — analogs of early
 - [[student-experience]]
 - [[administrator]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[help-seeking]]
 - [[bias-mitigation]]
 

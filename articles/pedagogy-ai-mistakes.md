@@ -3,7 +3,7 @@ title: "The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking"
 created: 2026-05-09
 updated: 2026-05-09
 type: article
-tags: [higher-ed, ai-literacy, metacognition, stem-education, active-learning, socratic-ai-dialogue, rag, llm, ai-tutoring]
+tags: [higher-ed, ai-literacy, metacognition, stem-education, active-learning, socratic-method, rag, llm, ai-tutoring]
 sources: ['raw/papers/2605.05472.md']
 confidence: medium
 ---
@@ -24,7 +24,7 @@ Students interact with AI-generated outputs that contain intentional or known er
 This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, Create) and engages metacognitive processes central to [[metacognition]].
 
 ## Relationship to Existing Approaches
-- Complements [[socratic-ai-dialogue]]: while Socratic approaches use questions to guide reasoning, mistake pedagogy uses erroneous outputs as the provocation
+- Complements [[socratic-method]]: while Socratic approaches use questions to guide reasoning, mistake pedagogy uses erroneous outputs as the provocation
 - Extends [[ai-literacy]]: students learn not just to use AI but to critically evaluate its outputs
 - Addresses the [[llm-fallacy-misattribution]] problem by making AI's limitations visible and discussable
 - Contrasts with [[tutoring-specific-vs-general-ai]]: here the AI's imperfection is the feature, not the bug
@@ -37,7 +37,7 @@ This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, C
 ## Connected Concepts
 
 - [[metacognition]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[ai-literacy]]
 ## Connected Articles
 
