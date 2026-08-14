@@ -15,14 +15,17 @@ Learning by teaching rests on the finding that preparing to teach and actually e
 
 ## Teachable Agents: From Rule-Based to Conversational
 
-Teachable agents are software systems a learner teaches as part of learning. Traditional teachable agents were rule-based or retrieval-based and could respond only to limited commands. Their key limitation was an inability to engage in natural-language dialogue. The wiki's evidence base traces the shift to **conversational, LLM-based teachable agents**:
+**Teachable agents** are the software systems through which learning by teaching is operationalized — a learner teaches a system as part of learning. Traditional teachable agents were rule-based or retrieval-based and could respond only to limited commands; their key limitation was an inability to engage in natural-language dialogue. Large language models change this: they can flexibly adopt roles via prompting — including the role of a "tutee" that asks questions or makes mistakes — and engage in open-ended dialogue, enabling LbT in less-structured domains (writing, vocabulary) than was previously possible.
 
-- **ChatGPT as a teachable agent** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et al.]]) supports learning-by-teaching in programming, improving knowledge gains, programming ability, and self-regulated learning — though its tendency to generate correct code limits error-correction practice.
+The wiki's evidence base traces this shift to **conversational, LLM-based teachable agents**:
+
+- **ChatGPT as a teachable agent** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et al.]]) supports LbT in programming, improving knowledge gains, programming ability, and self-regulated learning — though its tendency to generate correct code limits error-correction practice.
 - **Explique at scale** ([[explique-teachable-agent-algorithms-546-students-2026|Wang et al.]]) deployed an AI teachable agent (Algorithm Apprentice) to 546 students over an 11-week semester, finding that explanation-oriented dialogue predicts fewer incorrect quiz submissions, while external-content reuse predicts more.
+- **Vocabulary teaching** ([[teaching-ai-vocabulary-lbt-llms-2026|Uchida et al.]]) used an LLM as a student to generate dynamic questions, improving retention at 3 and 7 days.
 
 ## Engineering Fallibility: LLMs as Novice Tutees
 
-A central design challenge is that LLMs are trained to produce expert-level, fluent responses by default — the opposite of the fallible novice a teachable-agent paradigm wants. Making an LLM a good tutee requires **engineering fallibility**:
+A central design challenge for LLM-based teachable agents is that LLMs are trained to produce expert-level, fluent responses by default — the opposite of the fallible novice the LbT paradigm wants. Making an LLM a good tutee requires **engineering fallibility**:
 
 - **[[prompting-teachability-novice-personas-lbt-2026|Prompting for teachability]]** (Miller & Bosch) found that constraint-based prompts explicitly forcing error production (e.g., "answer incorrectly" or "get 2–3 wrong") elicit novice-like behavior far more reliably than persona-, misconception-, or uncertainty-based prompts.
 - **[[socrates-students-instructors-llms-lbt-2025|Engineered knowledge gaps]]** (Yang et al.) design problems the LLM cannot solve without knowledge only the student possesses, making teaching a necessity and countering the passive over-reliance of LLM-as-tutor use.
@@ -31,8 +34,8 @@ A central design challenge is that LLMs are trained to produce expert-level, flu
 
 Two further affordances recur across the wiki:
 
-- **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension. [[teaching-ai-vocabulary-lbt-llms-2026|Uchida et al.]] used LLMs to generate dynamic, contextually relevant questions for English vocabulary learning by teaching, improving retention at 3 and 7 days.
-- **LbT scaffolds self-regulation.** Teaching a conversational agent fosters self-efficacy and the implementation of self-regulated learning strategies, and connect LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
+- **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
+- **LbT scaffolds self-regulation.** Teaching a conversational agent fosters self-efficacy and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
 
 ## Why It Matters in AI Education
 
@@ -47,7 +50,6 @@ Learning by teaching is the constructive, active-learning counterpoint to the do
 
 ## Connected Concepts
 
-- [[teachable-agents]]
 - [[generative-ai]]
 - [[active-learning]]
 - [[constructivist]]
@@ -55,11 +57,12 @@ Learning by teaching is the constructive, active-learning counterpoint to the do
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[desirable-difficulties]]
-- [[desirable-difficulties]]
 - [[over-reliance]]
 - [[cs-education]]
 - [[programming-education]]
 - [[collaborative-learning]]
+- [[intelligent-tutoring]]
+- [[pedagogical-agent]]
 
 ## Connected Articles
 
