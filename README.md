@@ -22,10 +22,10 @@ wiki/
 ├── articles/          # Article pages (one markdown file per paper)
 ├── concepts/          # Synthesized concept pages (topic overviews)
 ├── raw/
-│   └── papers/        # Raw source text (arXiv, PDFs, RSS abstracts)
+│   └── papers/        # Raw source text (arXiv, PDFs, RSS abstracts) — gitignored, not committed
 ├── src/
 │   ├── layouts/       # BaseLayout.astro (nav, search, footer, Pico CSS + custom styles)
-│   ├── pages/         # Astro pages: index, journal, search, articles/[slug], concepts/[slug], tags, rss, ai
+│   ├── pages/         # Astro pages: index, journal, search, ai, rss, articles/[slug], concepts/[slug]
 │   └── content.config.ts  # Content-collection schema (articles, concepts) — required `sources` field
 ├── public/
 │   ├── llms.txt       # Agent-ready catalog (all pages, one line each)
@@ -64,7 +64,7 @@ The built site lands in `dist/` and is deployed to GitHub Pages via the GitHub A
 - **Article pages** — frontmatter (title, date, type, tags, **sources**, confidence) → synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → APA citation with hyperlinked title. Every article frontmatter must include a `sources:` field (required by the Astro 7 content schema) pointing to the raw source file.
 - **Concept pages** — frontmatter → synthesis → research themes with wikilinks to related articles → Connected Concepts → Connected Articles
 - All inter-page links use `[[wikilink]]` syntax which the Astro templates render as hyperlinks
-- Tags are comma-delimited in frontmatter and rendered as links in the page header
+- Tags are comma-delimited in frontmatter and rendered as plain tag chips in the page header (not clickable links)
 - Styling: **Pico CSS** (v1, loaded via CDN in `BaseLayout.astro`) plus a small block of custom CSS (accent color, header/nav/footer) — no build-time CSS framework dependency
 
 ## Agent-Ready Features
@@ -128,10 +128,10 @@ Want to set up your own automated research wiki for a different domain? Everythi
 
 - **`tooling/README.md`** — Complete setup guide
 - **`tooling/SKILL.md`** — Hermes Agent skill definition
-- **`tooling/scripts/`** — Static site generator, journal regenerator, backlink tool, RSS fetcher, llms generator
-- **`tooling/templates/`** — HTML template for the homepage
+- **`tooling/SCHEMA.md`** — Domain, tag taxonomy, and page conventions
+- **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), readfile-corruption checker
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
-- **`tooling/cron/`** — Cron job prompt template
+- **`tooling/cron/`** — Cron job prompt templates (daily scan, weekly RSS scan)
 - **`tooling/example/`** — Starter wiki files to get going quickly
 - **`tooling/config.example.yaml`** — Scan configuration for customization
 

@@ -6,7 +6,7 @@ Everything you need to run your own automated research wiki — a static site th
 - **Daily scans** arXiv (cs.CY/cs.HC/cs.CL/cs.AI + physics.ed-ph) and EdArXiv for new papers in your domain
 - **Weekly journal scans** pull open-access articles from journal RSS feeds (CAEAI, BJET — see `config.example.yaml`)
 - Ingests papers into a structured markdown wiki: one `articles/<slug>.md` per paper, one `concepts/<slug>.md` per broad topic, with cross-links and a tag taxonomy
-- Publishes an **Astro 5 static site** with Pagefind full-text search, sitemap, RSS, and agent-ready `llms.txt`/`llms-full.txt`
+- Publishes an **Astro 7 static site** with Pagefind full-text search, sitemap, RSS, and agent-ready `llms.txt`/`llms-full.txt`
 - Deploys to GitHub Pages with a single `git push` (GitHub Actions)
 
 **[Live example: AI in Education Wiki](https://edtechdev.github.io/aied)** — 500+ articles on AI in education, auto-updated weekdays at 9 AM ET and Sundays via RSS.
@@ -89,7 +89,7 @@ wiki/
 ├── src/               # Astro pages: index, journal, search, article/concept templates
 ├── public/            # llms.txt, llms-full.txt, robots.txt, schema/
 ├── astro.config.mjs   # Astro config (base, pagefind, sitemap)
-├── package.json       # Astro 5 + pagefind + sitemap + rss
+├── package.json       # Astro 7 + pagefind + sitemap + rss
 ├── index.md           # Full alphabetical catalog
 ├── journal.md         # Reverse-chronological journal
 ├── log.md             # Audit log of every wiki action
@@ -133,7 +133,7 @@ Regenerate them with `generate-llms-files.py` after each ingestion batch.
 ## Dependencies
 
 - **Hermes Agent** (for cron jobs and ingestion) — https://github.com/NousResearch/hermes-agent
-- **Node.js 18+** (Astro 5, Pagefind)
+- **Node.js 18+** (Astro 7, Pagefind)
 - **Python 3.9+** (stdlib only — no pip packages required)
 - **pdftotext** (poppler-utils) for PDF extraction
 - **GitHub Pages** for deployment
