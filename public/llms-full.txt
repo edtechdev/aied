@@ -439,9 +439,9 @@ Akgun and Toker (2026) examine whether learning gains from GenAI-enabled adaptiv
 - [[rct]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
-- [[transfer-of-learning]]
 ## Citation
 
 Mahir Akgun, Sacip Toker (2026). [Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study](https://arxiv.org/abs/2606.22328). arXiv:2606.22328. 27th International Conference on AI in Education
@@ -793,7 +793,6 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 - [[open-source]]
 - [[student-experience]]
 
-- [[agentic-ai]]
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[higher-ed]]
@@ -861,7 +860,6 @@ Education AI is shifting from passive chatbots to **proactive agents** that init
 
 ## Connected Concepts
 
-- [[agentic-ai]]
 - [[agentic-ai]]
 - [[desirable-difficulties]]
 - [[formative-assessment]]
@@ -1031,10 +1029,13 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[pedagogical-llm-training]]
-- [[persistent-ai-agents-academic-research]]
 
 - [[agentic-ai]]
 - [[ai-education]]
+
+
+- [[authentic-assessment]] — Authentic Assessment
+
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
@@ -1043,7 +1044,6 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[ai-powered-materials-discovery-ai-literacy]] — Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scie...
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
-- [[authentic-assessment]] — Authentic Assessment
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
 - [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
@@ -1063,6 +1063,8 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 
+
+- [[persistent-ai-agents-academic-research]]
 ## Citation
 
 Kamalov, F., Santandreu Calonge, D., Smail, L., Azizov, D., Thadani, D. R., Kwong, T., & Atif, A. (2026). [*Evolution of AI in Education: Agentic Workflows*](https://arxiv.org/abs/2504.20082v2). arXiv:2504.20082.
@@ -1395,7 +1397,6 @@ The guidelines span four categories:
 
 - [[adult-learning]]
 - [[ai-education]]
-- [[adult-learning]]
 - design-guidelines
 - educational-technology
 - [[higher-ed]]
@@ -1980,13 +1981,13 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[bias-mitigation]]
 - [[formative-assessment]]
 - [[generative-ai]]
-- [[persistent-ai-agents-academic-research]]
 - [[scaffolding]]
 - [[teacher-role]]
 
 - [[higher-ed]]
 - [[k-12]]
 - [[student-experience]]
+
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education
@@ -2014,7 +2015,7 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-
+- [[persistent-ai-agents-academic-research]]
 ## Citation
 
 Ler, L. (2026). [*How AI Is Changing Teaching Workflows.*](https://edtechinsiders.substack.com/p/how-ai-is-changing-teaching-workflows) Edtech Insiders
@@ -2269,10 +2270,10 @@ While AI tools are globally available, the critical variable is local absorption
 
 - [[k-12]]
 - [[teacher-role]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[authentic-assessment]] — Authentic Assessment
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
 - [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era
@@ -2792,7 +2793,6 @@ The lab is used, together with a simple rotating platform, to characterize both 
 - [[physics-education]]
 - mobile learning
 - [[generative-ai]]
-- [[generative-ai]]
 - [[stem-education]]
 - [[personalized-learning]]
 - [[scaffolding]]
@@ -2923,10 +2923,10 @@ An eLetter response argued universities cannot bridge the gap alone — commerci
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
 - [[higher-ed]]
-- [[persistent-ai-agents-academic-research]]
 - [[regulation]]
 
 - [[llm]]
+
 ## Connected Articles
 
 - [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
@@ -2954,7 +2954,7 @@ An eLetter response argued universities cannot bridge the gap alone — commerci
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-
+- [[persistent-ai-agents-academic-research]]
 ## Citation
 
 Miranda, M. L. (2026). [Higher Education Must Bridge the AI Gap](https://www.science.org/doi/10.1126/science.aeh5777). *Science*.
@@ -3224,10 +3224,10 @@ Validated across five diverse educational contexts, levels, and tool designs, re
 
 - [[self-regulated-learning]]
 - [[metacognition]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[llm-fallacy-misattribution]]
-- [[transfer-of-learning]]
 - [[llm-student-modeling-memory]]
 - [[ai-tutor-safety-harms]]
 ## Citation
@@ -3291,7 +3291,6 @@ Key tensions identified include the promise of [[intelligent-tutoring]] and [[le
 - [[learning-analytics]]
 - [[bias-mitigation]]
 - [[over-reliance]]
-- [[equity-in-ai-education]]
 - [[faculty-development]]
 - [[teacher-role]]
 ## Connected Articles
@@ -3585,7 +3584,6 @@ For education, the argument shifts the goal of AI literacy instruction from comp
 - [[critical-thinking]]
 - [[equity-in-ai-education]]
 - [[student-experience]]
-- [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
 - [[k-12-ai-education]]
@@ -4262,7 +4260,6 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[bias-mitigation]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[automated-grading]]
 - [[language-learning]]
 - [[ai-feedback-quality]]
@@ -4675,11 +4672,11 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 
 - [[metacognition]]
 - [[self-regulated-learning]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[hazra-safetutors-pedagogical-safety-2026]]
 - [[tutoring-specific-vs-general-ai]]
-- [[transfer-of-learning]]
 - [[llm-fallacy-misattribution]]
 ## Citation
 
@@ -4763,8 +4760,6 @@ The review also connects to broader debates about [[ethics]] and learner efficac
 - [[equity-in-ai-education]]
 - [[ethics]]
 - [[higher-ed]]
-- [[ai-governance-education]]
-- [[educational-policy-ai]]
 
 ## Connected Articles
 
@@ -4963,10 +4958,10 @@ Deutscher, V., Thomann, H., Zlatkin-Troitschanskaia, O., Weyland, U., Abele, S.,
 - [[writing-education]]
 
 - [[llm]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
-- [[authentic-assessment]] — Authentic Assessment
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
@@ -5478,9 +5473,9 @@ The framework becomes a **review instrument for assessment briefs**: teams exami
 - [[generative-ai]]
 - [[higher-ed]]
 - [[llm]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
-- [[authentic-assessment]] — Authentic Assessment
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
@@ -5684,9 +5679,9 @@ The paper proposes a **three-stage pedagogical pathway** — Perception → Comp
 
 - [[stem-education]]
 - [[ai-literacy]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
-- [[transfer-of-learning]]
 ## Citation
 
 Li, L., & Cao, Y. (2026). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction — A Case Study of the Compound Line Graph. [arXiv:2606.09598](https://arxiv.org/abs/2606.09598).
@@ -5878,12 +5873,11 @@ Stage-appropriate authenticity: early units get constrained, well-scaffolded tas
 - [[assessment-validity]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-
+- [[authentic-assessment]]
 - [[generative-ai]]
 - [[higher-ed]]
 ## Connected Articles
 
-- [[authentic-assessment]] — Authentic Assessment
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
 - [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
@@ -6120,10 +6114,10 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 - [[ai-literacy]]
 - [[k-12]]
 - [[llm]]
+- [[transfer-of-learning]] — AI Learning Transfer
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
@@ -6566,8 +6560,6 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 
 ## Connected Concepts
 
-- [[ai-literacy-assessment-misalignment]]
-- [[dot-framework-survey-2026]]
 - [[faculty-development]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
@@ -6577,6 +6569,7 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[scaffolding]]
+
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
@@ -6604,7 +6597,8 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-
+- [[ai-literacy-assessment-misalignment]]
+- [[dot-framework-survey-2026]]
 ## Citation
 
 Li, C., Cui, H., & Hagedorn, L. S. (2026). [*The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes*](https://www.sciencedirect.com/science/article/pii/S2666920X26000330). *Computers and Education: Artificial Intelligence*.
@@ -6948,12 +6942,12 @@ Civic education is a uniquely high-stakes domain for AI application because:
 - [[regulation]]
 - [[human-in-the-loop-ai]]
 - [[k-12-ai-education]]
-- [[llm-cultural-relevance-k12]]
 - [[pedagogical-llm-training]]
 - [[teacher-ai-competency]]
 
 - [[k-12]]
 - [[teacher-role]]
+
 ## Connected Articles
 
 - [[educational-llm-alignment]] — Educational LLM Alignment
@@ -6981,7 +6975,7 @@ Civic education is a uniquely high-stakes domain for AI application because:
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
-
+- [[llm-cultural-relevance-k12]]
 ## Citation
 
 (2025), A.T.T.M.R.X.C.P.K., 25(3), J.C.I.I.T.A.T.E., Name].", I.A.H.I.L.F., |, B.L.T.A.O., levels, O.A.A.A.R.U.O.A., & |, B.L.T. (2026). [AI-Generated Lesson Plans in Civic Education](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/)
@@ -7496,10 +7490,10 @@ The findings complement the companion paper on the [[efficiency-gain-illusion-ai
 - [[over-reliance]]
 - [[cognitive-offloading]]
 - [[metacognition]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[efficiency-gain-illusion-ai-overreliance]]
-- [[transfer-of-learning]]
 ## Citation
 
 Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins (2026). [Cognitive offloading and the speedup illusion in human-AI interaction](https://arxiv.org/abs/2605.23177). arXiv:2605.23177. Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026). - [[digital-literacy-illusion]] — Digital literacy illusion confirms AI overestimation in secondary students - [[llm-reasoning-traces-metacognition]] — Processing fluency account of trace-induced overconfidence - [[ai-productivity-moderation]] — Learning curve factor explains when AI productivity gains fail
@@ -8075,10 +8069,9 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[ai-ed-evaluation]]
 - [[automated-grading]]
 - [[confidence-aware-ai-assessment]]
-- [[hybrid-e-assessment-semi-automated-grading]]
 - psychometrically-aware-ai
 - [[rag]]
-
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
@@ -8092,7 +8085,6 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
 - [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 - [[aissa-slides-analysis]] — AISSA: AI-based Student Slides Analysis Tool for Academic Presentations
-- [[authentic-assessment]] — Authentic Assessment
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
@@ -8106,7 +8098,7 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
 - [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-
+- [[hybrid-e-assessment-semi-automated-grading]]
 ## Citation
 
 Cong, L., Hahn, S., Gombert, S., Camus, L., Drachsler, H., & Kroehne, U. (2026). [*Confidence Estimation in Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200). arXiv:2605.00200.
@@ -8625,9 +8617,9 @@ Hutchison et al. (2026) develop and validate a method for measuring critical eng
 - [[over-reliance]]
 - [[student-experience]]
 - [[stem-education]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
-- [[transfer-of-learning]]
 ## Citation
 
 Jessica Hutchison, Ian Tyler Applebaum, Kenneth Angelikas, Kush Rakesh Patel, Phuoc Nguyen, Antonio Lazaro, Nicholas Rucinski, Rahad Arman Nabid, Stephen MacNeil (2026). [To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks](https://arxiv.org/abs/2606.30549). arXiv:2606.30549. cs.HC (ITiCSE 2026).
@@ -8673,10 +8665,10 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[ai-literacy-assessment-misalignment]]
 - [[higher-ed]]
 - [[metacognition]]
 - [[student-experience]]
+
 
 ## Connected Articles
 
@@ -8705,7 +8697,7 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 - [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
 - [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-
+- [[ai-literacy-assessment-misalignment]]
 ## Citation
 
 Hefter, M. H., Paaßen, B., & Berthold, K. (2026). GenAI knowledge, epistemic orientation, and intellectual values predict undergraduate students' critical GenAI use. [*AI Educ.*](https://doi.org/10.3390/aieduc2030027), 2, 27
@@ -8838,11 +8830,11 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - [[generative-ai]]
 - [[higher-ed]]
 - [[scaffolding]]
+- [[transfer-of-learning]] — AI Learning Transfer
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking
 - [[principled-ai-education]] — Principled AI in Education
@@ -9127,7 +9119,6 @@ Classroom deployment with undergraduate students, complemented by expert evaluat
 ## Connected Concepts
 
 - [[agentic-ai]]
-- [[cs-education]]
 - [[cs-education]]
 - [[pedagogical-safety]]
 - [[llm]]
@@ -10264,8 +10255,6 @@ A usable education-facing model must be accurate, safe under sensitive prompts, 
 
 - [[benchmark]]
 - [[ai-ed-evaluation]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
 - [[pedagogical-safety]]
 - [[generative-ai]]
 - [[llm]]
@@ -11131,10 +11120,10 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 
 - [[ai-literacy]]
 - [[curriculum-design]]
+- [[transfer-of-learning]] — AI Learning Transfer
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
@@ -11205,7 +11194,6 @@ Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and
 
 ## Connected Concepts
 
-- [[active-learning]]
 - [[active-learning]]
 - [[k-12]]
 - [[higher-ed]]
@@ -11548,7 +11536,6 @@ The paper describes the simulation's use in an introductory physics class, illus
 - [[physics-education]]
 - [[generative-ai]]
 - [[simulation]]
-- [[generative-ai]]
 - [[stem-education]]
 - [[prompt-engineering]]
 - [[personalized-learning]]
@@ -12148,7 +12135,6 @@ For [[writing-education]] and English for Research Publication Purposes, the dia
 - [[equity-in-ai-education]]
 - [[automated-essay-scoring]]
 - [[student-experience]]
-- [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 
 ## Connected Articles
@@ -12296,9 +12282,9 @@ The findings have implications beyond programming — the productivity-learning 
 - [[writing-education]]
 - [[language-learning]]
 - [[stem-education]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
-- [[transfer-of-learning]]
 - [[tutoring-specific-vs-general-ai]]
 - [[collaborative-ai-tutoring]]
 - [[agentic-education-coding]]
@@ -12400,7 +12386,6 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 
 - [[generative-ai]]
 - [[higher-ed]]
-- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[bias-mitigation]]
 - [[special-education]]
@@ -12559,9 +12544,6 @@ For [[professional-training]] and institutional [[educational-policy-ai]], the f
 - [[generative-ai]]
 - [[professional-training]]
 - [[teacher-ai-competency]]
-- [[professional-training]]
-- [[professional-training]]
-- [[professional-training]]
 
 ## Connected Articles
 
@@ -13546,9 +13528,9 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 
 - [[adaptive-learning]]
 
-- [[adaptive-learning]]
 - [[ai-tutoring]]
 - [[rag]]
+- [[transfer-of-learning]] — AI Learning Transfer
 ## Connected Articles
 
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
@@ -13564,7 +13546,6 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
 - [[ai-stem-bibliometric-trends]] — Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
@@ -13998,7 +13979,6 @@ A prototype deployment comprising a Meta Quest 3 interface linked to a local GPU
 
 - [[simulation]]
 - [[professional-training]]
-- [[professional-training]]
 - [[rag]]
 - [[agentic-ai]]
 - [[multimodal]]
@@ -14050,11 +14030,11 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[ai-literacy-assessment-misalignment]]
 - [[k-12-ai-education]]
 
 - [[higher-ed]]
 - [[llm]]
+
 ## Connected Articles
 
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
@@ -14082,7 +14062,7 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-
+- [[ai-literacy-assessment-misalignment]]
 ## Citation
 
 Hingle, A., & Johri, A. (2025). [Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1). arXiv:2508.15111.
@@ -14154,11 +14134,11 @@ Future work should extend the framework to multi-skill settings (where students 
 ## Connected Concepts
 
 - [[ai-tutoring]]
-- [[cold-start-knowledge-tracing-safeinsights]]
 - [[item-response-theory]]
 - [[knowledge-tracing]]
 
 - [[rag]]
+
 ## Connected Articles
 
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
@@ -14185,7 +14165,7 @@ Future work should extend the framework to multi-skill settings (where students 
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
 - [[temporal-smoothness-debiased-kt]] — Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
-
+- [[cold-start-knowledge-tracing-safeinsights]]
 ## Citation
 
 Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing*](https://arxiv.org/abs/2605.01097)
@@ -15438,14 +15418,13 @@ The long-term institutional risk is credential inflation: if degrees and certifi
 - [[ai-literacy]]
 - [[assessment-validity]]
 - [[cognitive-load-theory]]
-- [[cognitive-offloading-llm-synthesis-writing]]
 
 - [[llm]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
-- [[authentic-assessment]] — Authentic Assessment
 - [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
 - [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
@@ -15468,7 +15447,7 @@ The long-term institutional risk is credential inflation: if degrees and certifi
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
 - [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
-
+- [[cognitive-offloading-llm-synthesis-writing]]
 ## Citation
 
 Kim, H., Yu, H., & Yi, H. (2026). [*The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*](https://arxiv.org/abs/2604.14807). arXiv:2604.14807.
@@ -15845,7 +15824,6 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 - [[learning-analytics]]
 - [[help-seeking]]
 - [[k-12]]
-- [[learning-analytics]]
 - [[student-experience]]
 - [[intelligent-tutoring]]
 - [[active-learning]]
@@ -16388,8 +16366,6 @@ The work also contributes to understanding how [[scaffolding]] can be implemente
 - [[personalized-learning]]
 - [[scaffolding]]
 
-- [[adaptive-learning]]
-- [[agentic-ai]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[llm]]
@@ -17159,8 +17135,6 @@ The work also illustrates the epistemic limits of [[item-response-theory]]-style
 - [[human-in-the-loop-ai]]
 - [[item-response-theory]]
 - [[learning-analytics]]
-- [[ai-ed-evaluation]]
-- [[cs-education]]
 - [[psychometrically-aware-ai]]
 
 ## Connected Articles
@@ -17406,7 +17380,6 @@ Three system properties enable the fallacy via two cognitive mediators:
 
 ## Connected Concepts
 
-- [[llm-cognitive-diagnosis-handwritten-math]]
 - [[metacognition]]
 - [[self-regulated-learning]]
 
@@ -17415,12 +17388,12 @@ Three system properties enable the fallacy via two cognitive mediators:
 - [[llm]]
 - [[rag]]
 - [[scaffolding]]
+- [[transfer-of-learning]] — AI Learning Transfer
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[authentic-assessment]] — Authentic Assessment
 - [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
 - [[educational-llm-alignment]] — Educational LLM Alignment
@@ -17442,7 +17415,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-
+- [[llm-cognitive-diagnosis-handwritten-math]]
 ## Citation
 
 Kim, H., Yu, H., & Yi, H. (2026). [*The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*](https://arxiv.org/abs/2604.14807). arXiv:2604.14807.
@@ -17547,10 +17520,10 @@ For [[higher-ed]] contexts, the review provides actionable guidance: semester-lo
 - [[higher-ed]]
 - [[ai-education]]
 - [[prompt-engineering]]
-- [[reshaping-cs-education-genai]]
 - [[scaffolding]]
 
 - [[llm]]
+
 ## Connected Articles
 
 - [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
@@ -17578,7 +17551,7 @@ For [[higher-ed]] contexts, the review provides actionable guidance: semester-lo
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-
+- [[reshaping-cs-education-genai]]
 ## Citation
 
 Vissapragada, A. (2026). [*A review of intervention designs of LLM Integration in Undergraduate Computer Science Education*](https://osf.io/preprints/edarxiv/knhyz_v1). EdArXiv preprint.
@@ -17602,10 +17575,10 @@ This approach represents a novel intersection of LLM benchmarking and [[assessme
 - [[learning-analytics]]
 - [[k-12]]
 - [[higher-ed]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]
-- [[transfer-of-learning]]
 ## Citation
 
 Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026). [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](https://arxiv.org/abs/2606.28186). arXiv:2606.28186. Computation and Language (cs.CL).
@@ -17952,11 +17925,11 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 ## Connected Concepts
 
 - [[self-regulated-learning]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]
 - [[nie-personavlm-long-term-personalization-2026]]
-- [[transfer-of-learning]]
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 
@@ -19824,7 +19797,6 @@ The guide includes 15+ educator case studies spanning:
 
 - [[adaptive-learning]]
 - [[ai-literacy]]
-- [[dot-framework-survey-2026]]
 - [[faculty-development]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
@@ -19838,11 +19810,11 @@ The guide includes 15+ educator case studies spanning:
 - [[generative-ai]]
 - [[higher-ed]]
 - [[scaffolding]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[authentic-assessment]] — Authentic Assessment
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
 - [[educational-llm-alignment]] — Educational LLM Alignment
 - [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
@@ -19865,7 +19837,7 @@ The guide includes 15+ educator case studies spanning:
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-
+- [[dot-framework-survey-2026]]
 ## Citation
 
 AI, G., Original, T., Multimodal, A.E.G.T., AI, L.A.G., Investigators:, P., Varga-Atkins, T., Saunders, S., & Hallam, S.B.S. (2026). [*Multimodal Learning with Generative AI*](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf)
@@ -20064,7 +20036,6 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[equ
 
 ## Connected Concepts
 
-- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[special-education]]
 - [[cs-education]]
@@ -20666,7 +20637,6 @@ The framework is conceptual and would benefit from empirical validation, but it 
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[faculty-development]]
-- [[generative-ai]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[instructional-design]]
@@ -20830,7 +20800,6 @@ The user study was exploratory with a small sample (12 participants), and the in
 - [[human-robot-interaction]]
 - [[special-education]]
 - [[equity-in-ai-education]]
-- [[special-education]]
 - [[accessible-learning]]
 
 ## Connected Articles
@@ -21329,6 +21298,8 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[ai-education]]
 - [[higher-ed]]
 - [[scaffolding]]
+- [[transfer-of-learning]] — AI Learning Transfer
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
@@ -21336,10 +21307,8 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
-- [[authentic-assessment]] — Authentic Assessment
 - [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
 - [[educational-llm-alignment]] — Educational LLM Alignment
 - [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
@@ -22268,7 +22237,6 @@ On held-out evaluations the agent improves diagnostic accuracy by 7.0% under adv
 - [[reinforcement-learning]]
 - [[simulation]]
 - [[professional-training]]
-- [[professional-training]]
 - [[llm]]
 - [[ai-tutoring]]
 - [[trust-calibration]]
@@ -22322,11 +22290,11 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 - [[formative-assessment]]
 
 - [[generative-ai]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations...
-- [[authentic-assessment]] — Authentic Assessment
 - [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
 - [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation
 - [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
@@ -23095,13 +23063,13 @@ This paper directly informs several threads in the wiki:
 - [[formative-assessment]]
 - [[self-regulated-learning]]
 - [[metacognition]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[critical-thinking-genai-scaffolding]]
 - [[prober-ai-inquiry-writing]]
 - [[ai-peer-feedback-systems]]
 - [[pedagogy-ai-mistakes]]
-- [[transfer-of-learning]]
 ## Citation
 
 Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R. (2026). [Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning](https://arxiv.org/abs/2604.07469). arXiv:2604.07469.
@@ -23396,6 +23364,7 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 - [[llm]]
 - [[rag]]
 - [[reinforcement-learning]]
+- [[transfer-of-learning]] — AI Learning Transfer
 ## Connected Articles
 
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
@@ -23421,7 +23390,6 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
 
 ## Citation
@@ -23497,7 +23465,6 @@ This framework has direct implications for [[ai-education|educational policy]] a
 - [[professional-training]]
 - [[ai-education]]
 - [[faculty-development]]
-- [[professional-training]]
 - [[ai-literacy]]
 ## Connected Articles
 
@@ -23952,10 +23919,10 @@ For the research community, the review functions as both a wake-up call and a ro
 - [[zone-of-proximal-development]]
 
 - [[ai-literacy]]
+- [[transfer-of-learning]] — Transfer of Learning
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[transfer-of-learning]] — Transfer of Learning
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
@@ -24133,10 +24100,7 @@ The authors argue dataset scarcity should be understood as a **structural barrie
 
 - [[equity-in-ai-education]]
 - [[language-learning]]
-- [[language-learning]]
 - [[digital-divide]]
-- [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[ai-education]]
 - [[higher-ed]]
 - [[privacy]]
@@ -24227,9 +24191,9 @@ Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior softwa
 
 - [[metacognition]]
 - [[self-regulated-learning]]
+- [[authentic-assessment]]
 ## Connected Articles
 
-- [[authentic-assessment]]
 - [[adaptive-pretesting-retention]]
 - [[learnopt-exam-cognitive-structure]]
 - [[cognitive-offloading-speedup-illusion]]
@@ -24414,7 +24378,6 @@ These findings highlight a significant gap between [[regulation|institutional re
 - [[higher-ed]]
 - [[regulation]]
 - [[student-experience]]
-- [[regulation]]
 - [[academic-integrity]]
 - [[ai-literacy]]
 ## Connected Articles
@@ -25482,9 +25445,7 @@ Today's systems handle content well but are far weaker at presenting it and adap
 - [[pedagogical-agent]]
 - [[benchmark]]
 - [[ai-ed-evaluation]]
-- [[ai-ed-evaluation]]
 - [[agentic-ai]]
-- [[generative-ai]]
 - [[generative-ai]]
 - [[instructional-design]]
 - [[pedagogical-llm-training]]
@@ -26392,11 +26353,11 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - [[assessment-validity]]
 - [[teacher-ai-competency]]
 - [[regulation]]
+- [[authentic-assessment]]
 ## Connected Articles
 
 - [[ai-higher-ed-bridge-gap]]
 - [[ai-higher-ed-workforce-survey]]
-- [[authentic-assessment]]
 - [[ai-education-global-capacity]]
 - [[ai-adult-learning-design]]
 - [[principled-ai-education]]
@@ -26508,7 +26469,6 @@ The graph-based [[rag]] pipeline with source-anchored evidence cards also models
 - [[over-reliance]]
 - [[rag]]
 - [[scaffolding]]
-- [[hallucination-risk]]
 - [[writing-education]]
 - [[zone-of-proximal-development]]
 
@@ -27078,7 +27038,6 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning]]
 - [[affective-tutoring]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
@@ -27087,7 +27046,6 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 - [[educational-policy-ai]]
 - [[knowledge-tracing]]
 - [[learning-analytics]]
-- [[adaptive-learning]]
 - [[metacognition]]
 - [[pedagogical-llm-training]]
 - [[rct]]
@@ -27404,7 +27362,6 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[special-education]]
 - [[instructional-design]]
 - [[universal-design-for-learning]]
@@ -27562,7 +27519,7 @@ Research themes include:
 - [[formative-assessment]]
 - [[rct]]
 - [[active-learning]]
-- [[dot-framework-survey-2026]]
+
 
 ## Connected Articles
 
@@ -27573,6 +27530,7 @@ Research themes include:
 - [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+- [[dot-framework-survey-2026]]
 
 ---
 
@@ -27699,12 +27657,11 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[ethics]]
 - [[over-reliance]]
 - [[educational-robotics]]
-
+- [[cognitive-offloading]] — Cognitive Offloading in Student–AI Collaboration
 ## Connected Articles
 
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[cognitive-offloading]] — Cognitive Offloading in Student–AI Collaboration
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
 
@@ -28004,12 +27961,12 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[teacher-role]]
 - [[confidence-aware-ai-assessment]]
 
+
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — AI-Generated Feedback in Higher Education
 - [[teaching-feedback-classification-benchmark]] — Teaching Feedback Classification Benchmark
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Collaborative Feedback
-- [[automated-grading]] — Automated Short Answer Grading
 - [[cong-confidence-asag-2026]] — Confidence-Aware Short Answer Grading
 - [[choi-anchor-aes-prompting-2025]] — Anchor-Based AES Prompting
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback
@@ -28431,11 +28388,11 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[higher-ed]]
 - [[ai-ed-evaluation]]
 
+
 ## Connected Articles
 - [[competency-based-education-genai-production-2026]]
 - [[multimodal-item-parameter-estimation-2026]]
 
-- [[automated-grading]]
 - [[automated-formative-assessments-a-level-sciences]]
 - [[cong-confidence-asag-2026]]
 - [[ai-scoring-language-bias-physics]]
@@ -28467,7 +28424,6 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 ## Connected Concepts
 
 - [[bias-mitigation]]
-- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[automated-grading]]
 - [[language-learning]]
@@ -28919,7 +28875,6 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[human-in-the-loop-ai]]
 - [[student-experience]]
 - [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[k-12]]
 - [[higher-ed]]
@@ -29155,7 +29110,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[generative-ai]]
 - [[ai-tutoring]]
 - [[over-reliance]]
-- [[code-review-genai-cs1]]
+
 
 ## Connected Articles
 
@@ -29348,7 +29303,6 @@ The digital divide is a core concern of [[equity-in-ai-education]] and [[equity-
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[ethics]]
 - [[bias-mitigation]]
@@ -29458,8 +29412,6 @@ Research in this wiki explores edtech platform through multiple lenses:
 - [[equity-in-ai-education]]
 - [[personalized-learning]]
 - [[faculty-development]]
-- [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[language-learning]]
 ## Connected Articles
 - [[multimodal-item-parameter-estimation-2026]]
@@ -29488,7 +29440,6 @@ Research in this wiki explores edtech platform through multiple lenses:
 - [[rct]]
 - [[learning-analytics]]
 - [[educational-policy-ai]]
-- [[adaptive-learning]]
 ## Connected Articles
 - [[ai-generated-interactive-fiction-education-2026]]
 
@@ -29526,7 +29477,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 - [[academic-integrity]]
 - [[ethics]]
 - [[teacher-ai-competency]]
-- [[institutional-change-framework-ai]]
+
 
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]
@@ -29896,8 +29847,8 @@ Faculty development connects to [[teacher-ai-competency]] (the outcome), [[teach
 - [[k-12]]
 - [[instructional-design]]
 - [[curriculum-design]]
-- [[institutional-change-framework-ai]]
 - [[professional-training]]
+
 
 ## Connected Articles
 - [[ai-acceptance-preservice-science-teachers-2026]]
@@ -29949,12 +29900,12 @@ Feedback loops connect to [[formative-assessment]] (the assessment philosophy th
 - [[student-experience]]
 - [[personalized-learning]]
 
+
 ## Connected Articles
 - [[ai-guided-learning-audiovideo-2026]]
 
 - [[sequenced-ai-feedback-learning]]
 - [[correct-answer-trap-ai-tutor]]
-- [[ai-feedback-quality]]
 - [[ai-peer-feedback-systems]]
 - [[automated-formative-assessments-a-level-sciences]]
 - [[ai-feedback-enactment-workflow-2026]]
@@ -31025,11 +30976,10 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[knowledge-tracing]]
 - [[higher-ed]]
 - [[scaffolding]]
-
+- [[pedagogical-llm-training]]
 ## Connected Articles
 - [[multimodal-item-parameter-estimation-2026]]
 
-- [[pedagogical-llm-training]]
 - [[educational-llm-alignment]]
 - [[cstutorbench-slm-tutors]]
 - [[ai-tutor-safety-harms]]
@@ -31168,6 +31118,7 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[prompt-engineering]]
 - [[agentic-ai]]
 - [[human-in-the-loop-ai]]
+- [[authentic-assessment]]
 ## Connected Articles
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
@@ -31181,7 +31132,6 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[ai-tutor-safety-harms]]
 - [[aied-unfinished-mission-bypass]]
 - [[ase-26-agentic-software-engineering-curriculum]]
-- [[authentic-assessment]]
 - [[buggy-genai-code-student-responses]]
 - [[chatgpt-critical-creative-thinking-review]]
 - [[code-review-genai-cs1]]
@@ -31217,9 +31167,9 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[affective-tutoring]]
 - [[over-reliance]]
 - [[self-regulated-learning]]
-- [[self-efficacy-tutoring-learning]]
 - [[teacher-role]]
 - [[ai-education]]
+
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]
 
@@ -31230,6 +31180,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[scheu-mobile-chatbot-journaling-motivation-2026]]
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
+- [[self-efficacy-tutoring-learning]]
 
 ---
 
@@ -31496,10 +31447,10 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 - [[pedagogical-safety]]
 - [[formative-assessment]]
 - [[llm]]
+- [[authentic-assessment]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]
-- [[authentic-assessment]]
 - [[civic-education-ai-lesson-plans]]
 - [[codify-socratic-tutoring-programming]]
 - [[cognitive-agent-compilation]]
@@ -31546,7 +31497,7 @@ Pedagogical safety connects to [[hallucination-risk]], [[rag]], [[k-12]], [[ethi
 - [[llm]]
 - [[over-reliance]]
 - [[ai-tutoring]]
-- [[child-safety-genai]]
+
 
 ## Connected Articles
 
@@ -32531,6 +32482,7 @@ For example:
 - [[teacher-role]]
 - [[higher-ed]]
 - [[generative-ai]]
+- [[authentic-assessment]]
 ## Connected Articles
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
@@ -32543,7 +32495,6 @@ For example:
 - [[ai-making-us-stupid]]
 - [[ai-tutor-safety-harms]]
 - [[aied-unfinished-mission-bypass]]
-- [[authentic-assessment]]
 - [[bloom-aligned-educational-control-llms]]
 - [[codify-socratic-programming-tutor]]
 - [[cognitive-offloading-llm-synthesis-writing]]
@@ -32881,7 +32832,6 @@ Special education is a domain where AI's capacity for personalization and adapta
 ## Connected Concepts
 
 - [[accessible-learning]]
-- [[equity-in-ai-education]]
 - [[equity-in-ai-education]]
 - [[neurodiversity]]
 - [[universal-design-for-learning]]

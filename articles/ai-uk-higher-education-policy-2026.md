@@ -36,8 +36,6 @@ The review also connects to broader debates about [[ethics]] and learner efficac
 - [[equity-in-ai-education]]
 - [[ethics]]
 - [[higher-ed]]
-- [[ai-governance-education]]
-- [[educational-policy-ai]]
 
 ## Connected Articles
 

@@ -14,9 +14,9 @@ Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior softwa
 
 - [[metacognition]]
 - [[self-regulated-learning]]
+- [[authentic-assessment]]
 ## Connected Articles
 
-- [[authentic-assessment]]
 - [[adaptive-pretesting-retention]]
 - [[learnopt-exam-cognitive-structure]]
 - [[cognitive-offloading-speedup-illusion]]

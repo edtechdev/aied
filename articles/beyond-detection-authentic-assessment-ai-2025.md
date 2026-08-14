@@ -51,12 +51,11 @@ Stage-appropriate authenticity: early units get constrained, well-scaffolded tas
 - [[assessment-validity]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-
+- [[authentic-assessment]]
 - [[generative-ai]]
 - [[higher-ed]]
 ## Connected Articles
 
-- [[authentic-assessment]] — Authentic Assessment
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
 - [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI

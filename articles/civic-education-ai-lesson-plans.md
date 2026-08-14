@@ -93,12 +93,12 @@ Civic education is a uniquely high-stakes domain for AI application because:
 - [[regulation]]
 - [[human-in-the-loop-ai]]
 - [[k-12-ai-education]]
-- [[llm-cultural-relevance-k12]]
 - [[pedagogical-llm-training]]
 - [[teacher-ai-competency]]
 
 - [[k-12]]
 - [[teacher-role]]
+
 ## Connected Articles
 
 - [[educational-llm-alignment]] — Educational LLM Alignment
@@ -126,7 +126,7 @@ Civic education is a uniquely high-stakes domain for AI application because:
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
-
+- [[llm-cultural-relevance-k12]]
 ## Citation
 
 (2025), A.T.T.M.R.X.C.P.K., 25(3), J.C.I.I.T.A.T.E., Name].", I.A.H.I.L.F., |, B.L.T.A.O., levels, O.A.A.A.R.U.O.A., & |, B.L.T. (2026). [AI-Generated Lesson Plans in Civic Education](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/)

@@ -129,7 +129,6 @@ The guide includes 15+ educator case studies spanning:
 
 - [[adaptive-learning]]
 - [[ai-literacy]]
-- [[dot-framework-survey-2026]]
 - [[faculty-development]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
@@ -143,11 +142,11 @@ The guide includes 15+ educator case studies spanning:
 - [[generative-ai]]
 - [[higher-ed]]
 - [[scaffolding]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[authentic-assessment]] — Authentic Assessment
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
 - [[educational-llm-alignment]] — Educational LLM Alignment
 - [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
@@ -170,7 +169,7 @@ The guide includes 15+ educator case studies spanning:
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-
+- [[dot-framework-survey-2026]]
 ## Citation
 
 AI, G., Original, T., Multimodal, A.E.G.T., AI, L.A.G., Investigators:, P., Varga-Atkins, T., Saunders, S., & Hallam, S.B.S. (2026). [*Multimodal Learning with Generative AI*](https://livrepository.liverpool.ac.uk/3194252/1/Output1_an-educators-guide-to-multimodal-learning-and-generative-ai.pdf)

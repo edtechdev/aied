@@ -66,6 +66,7 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[prompt-engineering]]
 - [[agentic-ai]]
 - [[human-in-the-loop-ai]]
+- [[authentic-assessment]]
 ## Connected Articles
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
@@ -79,7 +80,6 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[ai-tutor-safety-harms]]
 - [[aied-unfinished-mission-bypass]]
 - [[ase-26-agentic-software-engineering-curriculum]]
-- [[authentic-assessment]]
 - [[buggy-genai-code-student-responses]]
 - [[chatgpt-critical-creative-thinking-review]]
 - [[code-review-genai-cs1]]

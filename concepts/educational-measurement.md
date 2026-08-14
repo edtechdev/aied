@@ -20,8 +20,6 @@ confidence: medium
 - [[equity-in-ai-education]]
 - [[personalized-learning]]
 - [[faculty-development]]
-- [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[language-learning]]
 ## Connected Articles
 - [[multimodal-item-parameter-estimation-2026]]

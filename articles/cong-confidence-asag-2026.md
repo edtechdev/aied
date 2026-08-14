@@ -35,10 +35,9 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[ai-ed-evaluation]]
 - [[automated-grading]]
 - [[confidence-aware-ai-assessment]]
-- [[hybrid-e-assessment-semi-automated-grading]]
 - psychometrically-aware-ai
 - [[rag]]
-
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
@@ -52,7 +51,6 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
 - [[aicode-collaborative-feedback-system]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 - [[aissa-slides-analysis]] — AISSA: AI-based Student Slides Analysis Tool for Academic Presentations
-- [[authentic-assessment]] — Authentic Assessment
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated Grading of Linux/Bash Examinations Using Large Language Models
@@ -66,7 +64,7 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[correct-answer-trap-misconceptions]] — The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions
 - [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
-
+- [[hybrid-e-assessment-semi-automated-grading]]
 ## Citation
 
 Cong, L., Hahn, S., Gombert, S., Camus, L., Drachsler, H., & Kroehne, U. (2026). [*Confidence Estimation in Automatic Short Answer Grading with LLMs*](https://arxiv.org/abs/2605.00200). arXiv:2605.00200.

@@ -86,13 +86,13 @@ This paper directly informs several threads in the wiki:
 - [[formative-assessment]]
 - [[self-regulated-learning]]
 - [[metacognition]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[critical-thinking-genai-scaffolding]]
 - [[prober-ai-inquiry-writing]]
 - [[ai-peer-feedback-systems]]
 - [[pedagogy-ai-mistakes]]
-- [[transfer-of-learning]]
 ## Citation
 
 Cao, J., Zhao, C. Q., Schunn, C., McLaughlin, E. A., Lin, J., & Koedinger, K. R. (2026). [Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning](https://arxiv.org/abs/2604.07469). arXiv:2604.07469.

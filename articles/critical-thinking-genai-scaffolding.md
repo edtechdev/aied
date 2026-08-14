@@ -89,11 +89,11 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - [[generative-ai]]
 - [[higher-ed]]
 - [[scaffolding]]
+- [[transfer-of-learning]] — AI Learning Transfer
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking
 - [[principled-ai-education]] — Principled AI in Education

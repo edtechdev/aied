@@ -45,10 +45,10 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[ai-literacy-assessment-misalignment]]
 - [[higher-ed]]
 - [[metacognition]]
 - [[student-experience]]
+
 
 ## Connected Articles
 
@@ -77,7 +77,7 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 - [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
 - [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-
+- [[ai-literacy-assessment-misalignment]]
 ## Citation
 
 Hefter, M. H., Paaßen, B., & Berthold, K. (2026). GenAI knowledge, epistemic orientation, and intellectual values predict undergraduate students' critical GenAI use. [*AI Educ.*](https://doi.org/10.3390/aieduc2030027), 2, 27

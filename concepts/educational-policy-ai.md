@@ -35,7 +35,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 - [[academic-integrity]]
 - [[ethics]]
 - [[teacher-ai-competency]]
-- [[institutional-change-framework-ai]]
+
 
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]

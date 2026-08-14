@@ -142,8 +142,6 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 
 ## Connected Concepts
 
-- [[ai-literacy-assessment-misalignment]]
-- [[dot-framework-survey-2026]]
 - [[faculty-development]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
@@ -153,6 +151,7 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[scaffolding]]
+
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
@@ -180,7 +179,8 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-
+- [[ai-literacy-assessment-misalignment]]
+- [[dot-framework-survey-2026]]
 ## Citation
 
 Li, C., Cui, H., & Hagedorn, L. S. (2026). [*The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes*](https://www.sciencedirect.com/science/article/pii/S2666920X26000330). *Computers and Education: Artificial Intelligence*.

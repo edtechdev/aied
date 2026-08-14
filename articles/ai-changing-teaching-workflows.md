@@ -70,13 +70,13 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[bias-mitigation]]
 - [[formative-assessment]]
 - [[generative-ai]]
-- [[persistent-ai-agents-academic-research]]
 - [[scaffolding]]
 - [[teacher-role]]
 
 - [[higher-ed]]
 - [[k-12]]
 - [[student-experience]]
+
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education
@@ -104,7 +104,7 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-
+- [[persistent-ai-agents-academic-research]]
 ## Citation
 
 Ler, L. (2026). [*How AI Is Changing Teaching Workflows.*](https://edtechinsiders.substack.com/p/how-ai-is-changing-teaching-workflows) Edtech Insiders

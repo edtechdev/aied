@@ -18,9 +18,9 @@ The paper proposes a **three-stage pedagogical pathway** — Perception → Comp
 
 - [[stem-education]]
 - [[ai-literacy]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
-- [[transfer-of-learning]]
 ## Citation
 
 Li, L., & Cao, Y. (2026). Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction — A Case Study of the Compound Line Graph. [arXiv:2606.09598](https://arxiv.org/abs/2606.09598).

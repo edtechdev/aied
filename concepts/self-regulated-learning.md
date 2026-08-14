@@ -78,6 +78,7 @@ For example:
 - [[teacher-role]]
 - [[higher-ed]]
 - [[generative-ai]]
+- [[authentic-assessment]]
 ## Connected Articles
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
@@ -90,7 +91,6 @@ For example:
 - [[ai-making-us-stupid]]
 - [[ai-tutor-safety-harms]]
 - [[aied-unfinished-mission-bypass]]
-- [[authentic-assessment]]
 - [[bloom-aligned-educational-control-llms]]
 - [[codify-socratic-programming-tutor]]
 - [[cognitive-offloading-llm-synthesis-writing]]

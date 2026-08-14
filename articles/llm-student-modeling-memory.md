@@ -73,11 +73,11 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 ## Connected Concepts
 
 - [[self-regulated-learning]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]
 - [[nie-personavlm-long-term-personalization-2026]]
-- [[transfer-of-learning]]
 - [[tutoring-specific-vs-general-ai]]
 ## Citation
 

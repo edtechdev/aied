@@ -31,8 +31,8 @@ Faculty development connects to [[teacher-ai-competency]] (the outcome), [[teach
 - [[k-12]]
 - [[instructional-design]]
 - [[curriculum-design]]
-- [[institutional-change-framework-ai]]
 - [[professional-training]]
+
 
 ## Connected Articles
 - [[ai-acceptance-preservice-science-teachers-2026]]

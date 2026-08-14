@@ -44,7 +44,6 @@ This framework has direct implications for [[ai-education|educational policy]] a
 - [[professional-training]]
 - [[ai-education]]
 - [[faculty-development]]
-- [[professional-training]]
 - [[ai-literacy]]
 ## Connected Articles
 

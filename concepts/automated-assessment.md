@@ -37,11 +37,11 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[higher-ed]]
 - [[ai-ed-evaluation]]
 
+
 ## Connected Articles
 - [[competency-based-education-genai-production-2026]]
 - [[multimodal-item-parameter-estimation-2026]]
 
-- [[automated-grading]]
 - [[automated-formative-assessments-a-level-sciences]]
 - [[cong-confidence-asag-2026]]
 - [[ai-scoring-language-bias-physics]]

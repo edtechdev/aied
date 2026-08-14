@@ -43,6 +43,7 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 - [[llm]]
 - [[rag]]
 - [[reinforcement-learning]]
+- [[transfer-of-learning]] — AI Learning Transfer
 ## Connected Articles
 
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
@@ -68,7 +69,6 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
 
 ## Citation
