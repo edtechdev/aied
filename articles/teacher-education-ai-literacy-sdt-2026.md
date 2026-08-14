@@ -42,6 +42,7 @@ The study's context is secondary school teachers (largely in Chinese/Hong Kong a
 - [[motivation]]
 - [[self-determination-theory]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[genai-literacy-training-teacher-education-dbr-2026]] — Development and Evaluation of AI Literacy Training for Teachers

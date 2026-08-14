@@ -17,6 +17,7 @@ PromptDecipher addresses a critical gap in AI tutor deployment: teacher quality 
 ## Connected Concepts
 
 - [[teacher-role]]
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]]

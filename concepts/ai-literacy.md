@@ -45,6 +45,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[metacognition]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+- [[tpack]]
 ## Connected Articles
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[ai-acceptance-preservice-science-teachers-2026]]

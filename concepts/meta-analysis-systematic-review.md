@@ -91,6 +91,7 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 
 ## Connected Articles
 
+- [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
 - [[ai-collaborative-learning-systematic-review]] — PRISMA systematic review of AI-powered collaborative learning
