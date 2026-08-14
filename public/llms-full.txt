@@ -28518,55 +28518,83 @@ Automated grading connects to [[assessment-validity]] (do automated scores measu
 
 ## [Automated Question Generation](https://edtechdev.github.io/aied/concepts/automated-question-generation/)
 
-Automated question generation leverages NLP and LLMs to create educational assessments at scale. Wei & Stamper (2025) introduced the **generate-then-validate** paradigm, reducing hallucination by 62% compared to direct generation and achieving 89% accuracy on STEM datasets.
+> **Automated question generation (AQG)** — the use of AI, especially NLP and large language models (LLMs), to generate educational assessment items (multiple-choice, short-answer, fill-in-the-blank, coding, and performance questions) automatically from source material or learning objectives. AQG enables assessment at scale — producing formative quizzes, adaptive exercises, and practice items — but quality varies dramatically across item types and requires validation to avoid hallucinated or poorly calibrated questions. It is a core component of [[automated-assessment]] and a key enabler of [[adaptive-learning]] and [[personalized-learning]].
 
-### Generate-Then-Validate Paradigm
-1. **Generation Phase:** LLM produces candidate questions from source material
-2. **Validation Phase:** Separate verification step filters invalid/low-quality items
-3. **Refinement Loop:** Failed items trigger re-generation with corrective prompts
+Automated question generation matters because assessment items are expensive to create by hand, and AI can produce them rapidly and at scale. However, the wiki's research shows that generated items must be validated for correctness, relevance, and difficulty, and that different item types (MCQs, short-answer, code) vary in how reliably they can be generated. AQG therefore sits at the intersection of [[generative-ai|generative AI]], [[educational-nlp|educational NLP]], and [[educational-measurement]].
 
-### Advantages Over Direct Generation
-- **Reduced Hallucination:** Validation catches factually incorrect questions
-- **Higher Relevance:** 23% improvement on relevance metrics vs. baseline LLMs
-- **Scalability:** Enables rapid creation of formative assessments across domains
+## Approaches to question generation
 
-### Educational Applications
-- **Formative Assessment:** Just-in-time questions for adaptive learning systems
-- **STEM Education:** Validated on mathematics and science problem generation
-- **Differentiated Instruction:** Generating multiple difficulty levels automatically
+The wiki's research illustrates several approaches:
 
-## References
+- **Generate-then-validate pipelines:** [[generate-then-validate-question-gen|Generate-Then-Validate]] introduces a generation → validation → refinement loop that reduces LLM hallucination by 62% compared to direct generation, achieving 89% accuracy on STEM datasets and a 23% improvement in relevance. The validation step filters invalid or low-quality items, and failed items trigger re-generation with corrective prompts.
+- **Knowledge-tracing-based generation:** [[kt4eqg-personalized-question-generation|KT4EQG]] generates personalized exercise questions guided by [[knowledge-tracing|knowledge tracing]], tailoring items to each learner's knowledge state rather than generating generic questions.
+- **Cognitive-depth-aware generation:** [[llm-educational-question-cognitive-depth|Evaluating the cognitive depth of LLM-generated questions]] examines whether generated items tap higher-order thinking (creation, evaluation) or only memorization, connecting to Bloom's taxonomy and [[educational-measurement]].
+- **Pedagogical pipelines:** [[slidesqaqa-pedagogical-question-generation|Slide-deck Q&A generation]] uses a multi-stage pipeline for pedagogically sound question generation from course materials.
+- **RAG-based, human-in-the-loop systems:** [[code-gen|CODE-GEN]] combines retrieval-augmented generation with human-in-the-loop review for generating [[automated-assessment|multiple-choice assessments]].
+- **Benchmarks and evaluation:** [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] provides a benchmark of scientific/mathematical riddles for evaluating question-generation and reasoning systems.
 
-Wei, Y., Stamper, J., et al. (2025). *Generate-Then-Validate: A Novel Question Generation Approach*. arXiv:2512.10110.
+## Validation and quality
 
-## Source
+The central challenge in AQG is **quality control**:
 
-- https://arxiv.org/abs/2512.10110
+- **Hallucination risk:** LLMs can generate factually incorrect questions. [[generate-then-validate-question-gen|Generate-Then-Validate]] shows a dedicated validation phase sharply reduces this, and [[hallucination-risk|hallucination risk]] is a recognized concern throughout.
+- **Difficulty calibration:** generated questions must be calibrated to appropriate difficulty. [[llm-difficulty-calibration-programming-exams-2026|Difficulty-calibration research]] shows AI difficulty estimates correlate strongly with student performance (e.g., rho ≈ −0.87), enabling better item selection — while cautioning against high-stakes misuse.
+- **Task-dependence:** generation reliability varies by item type. [[automatic-short-answer-grading|Short-answer grading]] and [[self-referential-l2-writing-llm-assessment|analytic writing assessment]] show that open-response and writing items are harder to generate and grade reliably than structured items.
+- **Cognitive quality:** [[llm-educational-question-cognitive-depth|cognitive-depth evaluation]] shows generated items may skew toward lower-order thinking unless explicitly designed for higher-order outcomes.
+
+## Role in adaptive and personalized learning
+
+AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learning|personalized]] learning: it produces the large item banks that adaptive tutors draw from, and — combined with [[knowledge-tracing|knowledge tracing]] or [[student-modeling|student modeling]] — can generate items tailored to individual learners' knowledge states ([[kt4eqg-personalized-question-generation|KT4EQG]]). [[taklif-ai-interest-based-personalized-assignments|Interest-based personalization]] shows AQG can also adapt questions to student interests, not just difficulty.
+
+## Implications for AI in education
+
+- **Generate then validate:** always pair generation with a validation/refinement stage to control hallucination and ensure relevance.
+- **Match item type to reliability:** use AQG for structured item types (MCQ, fill-in-the-blank, code) where it is most reliable, and apply careful validation to open-response and writing items.
+- **Design for cognitive depth:** prompts and pipelines should target higher-order thinking, not just recall, to support genuine learning.
+- **Calibrate difficulty:** use AI difficulty estimates to select appropriately challenging items, with strong validation before high-stakes use.
+- **Personalize via learner models:** combine AQG with knowledge tracing and interest models to generate adaptive, individualized items.
 
 ## Connected Concepts
 
-- [[personalized-learning]]
-- [[human-in-the-loop-ai]]
-- [[edtech-platform]]
-- [[learning-analytics]]
 - [[llm]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[pedagogical-llm-training]]
+- [[generative-ai]]
+- [[educational-nlp]]
+- [[automated-assessment]]
+- [[automated-grading]]
+- [[automated-essay-scoring]]
+- [[assessment]]
 - [[formative-assessment]]
 - [[adaptive-learning]]
-- [[automated-assessment]]
+- [[personalized-learning]]
+- [[knowledge-tracing]]
+- [[student-modeling]]
 - [[rag]]
+- [[human-in-the-loop-ai]]
+- [[educational-measurement]]
+- [[item-response-theory]]
+- [[hallucination-risk]]
+- [[ai-ed-evaluation]]
+- [[benchmark]]
+- [[scaffolding]]
+- [[intelligent-tutoring]]
+- [[ai-education]]
+
 ## Connected Articles
 
-- [[code-gen]]
-- [[generate-then-validate-question-gen]]
-- [[kt4eqg-personalized-question-generation]]
-- [[nsmq-riddles-science-math-benchmark]]
-- [[self-referential-l2-writing-llm-assessment]]
-- [[slidesqaqa-pedagogical-question-generation]]
-- [[taklif-ai-interest-based-personalized-assignments]]
-- [[zerkouk-comprehensive-review-its-2025]]
+- [[generate-then-validate-question-gen]] — Generate-Then-Validate question generation
+- [[kt4eqg-personalized-question-generation]] — Personalized question generation via knowledge tracing
+- [[llm-educational-question-cognitive-depth]] — Cognitive depth of LLM-generated questions
+- [[slidesqaqa-pedagogical-question-generation]] — Slide-deck Q&A pedagogical question generation
+- [[code-gen]] — CODE-GEN: RAG-based human-in-the-loop question generation
+- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles benchmark
+- [[taklif-ai-interest-based-personalized-assignments]] — Interest-based personalized assignments
+- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration
+- [[self-referential-l2-writing-llm-assessment]] — Self-referential analytic writing assessment
+- [[cross-dataset-bloom-question-classification]] — Cross-dataset Bloom question classification
+- [[llm-chatbots-cs-multiple-choice]] — LLM chatbots and CS multiple-choice items
+- [[zerkouk-comprehensive-review-its-2025]] — Comprehensive review of intelligent tutoring systems
+- [[socratic-tests-conversational-assessment]] — Socratic tests: conversational assessment
+- [[llm-turing-test-italian-legal-exams-2026]] — LLM Turing test in legal exams
 
 ---
 
@@ -28612,34 +28640,87 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 ## [Bias Mitigation](https://edtechdev.github.io/aied/concepts/bias-mitigation/)
 
-> **Bias mitigation** in educational AI requires auditing models across the pipeline: [[gender-bias-transfer-llm-writing]], [[ai-scoring-language-bias-physics]], [[llm-cultural-relevance-k12]], and [[equity-in-ai-education]] (merged into [[equity-in-ai-education]]) document bias sources and mitigation strategies from data curation to prompt design.
+> **Bias mitigation in AI education** — the identification, measurement, and reduction of unfair, identity-patterned behavior in AI tutors, scorers, recommenders, and educational systems. Bias can enter at any stage of the AI pipeline — training data, model behavior, prompts, scoring, and deployment — and manifest as differential treatment of learners based on language, gender, race, culture, or other identity characteristics. Mitigation spans data curation, debiasing algorithms, prompt design, fair-scoring methods, explainability, and evaluation. It is the technical counterpart to [[equity-in-ai-education]] and a core concern of [[ethics]] in AI education.
 
-Bias mitigation in AIED concerns identifying and reducing unfair, identity-patterned behavior in AI tutors and educational systems (e.g., differential refusals or softening of answers for marginalized students). Surfaced by recent auditing work on LLM history tutors.
+Bias mitigation matters because AI in education is not neutral: systems trained on dominant language and cultural data can systematically disadvantage marginalized learners, from AI-based scoring that penalizes non-native writers to LLM tutors that answer differently for different groups. Bias is a cross-cutting concern that appears in [[automated-grading]], [[automated-essay-scoring]], [[knowledge-tracing]], recommendation systems, and conversational AI tutors.
+
+## Sources of bias
+
+The wiki's research documents bias entering at multiple points in the pipeline:
+
+- **Language and scoring bias:** [[ai-scoring-language-bias-physics|AI-based physics scoring]] systematically underestimates the conceptual understanding of students whose text-based explanations are of lower linguistic quality — the AI scores the language, not the understanding, penalizing non-native or less fluent writers. This is a direct validity and fairness failure in [[automated-grading]].
+- **Gender bias transfer in LLM-assisted writing:** [[gender-bias-transfer-llm-writing|Contaminated Collaboration]] shows that when students write with a gender-biased LLM prompt, their essays display a significantly larger agentic gap and more gender-stereotypic occupation suggestions (N=123); bias transfer is asymmetric, suppressing agency in female-target essays. A verification study (N=1,600 LLM essays, R²=.399) confirms a gender-biased prompt induces gender-differentiated language.
+- **Differential refusals and epistemic injustice:** [[paternalistic-filter-llm-history-education|The Paternalistic Filter]] audits four LLMs as history tutors (1,800 responses) and exposes a "paternalistic filter": models differentially refuse, soften, or reframe sensitive content for different learners — an epistemic injustice with direct equity implications.
+- **Selection bias in learning analytics:** [[temporal-smoothness-debiased-kt|Debiased knowledge tracing]] addresses selection bias arising from non-random exercise recommendations: training on observed logs with standard empirical risk produces biased mastery estimates that compound errors in adaptive recommendation loops.
+- **Data and annotation bias:** [[data-annotations-pedagogical-hints|data annotations]] and [[ground-truth-reliability-aied|ground-truth reliability]] research examine how the labels and inter-rater reliability underlying AI models carry bias — arguing against treating κ > 0.8 as a binary stamp of approval.
+- **Marginalized knowledges:** [[genai-minoritized-knowledges-disability|Generative AI and minoritized knowledges]] documents how training data and model behavior marginalize non-dominant knowledge systems and disability perspectives.
+
+## Mitigation approaches
+
+The wiki's research illustrates several complementary strategies:
+
+- **Fairness-aware modeling:** [[fair-explainable-edu-recommendations|The Hybrid HKG-GRU framework]] integrates **Group Distributionally Robust Optimization (GroupDRO)** for fairness alongside explainability and counterfactual stability, evaluated on Moodle logs (152 students, ~150k interactions). It demonstrates that recommendation systems can be trained to be fair and transparent, not just accurate.
+- **Debiasing estimators:** [[temporal-smoothness-debiased-kt|Temporal Smoothness Doubly Robust (TSDR) learning]] combines a propensity model with an error-imputation model, retaining unbiasedness if either is correct, to remove selection bias from knowledge-tracing mastery estimates.
+- **Prompt-level mitigation:** [[gender-bias-transfer-llm-writing|the gender-bias study]] shows a neutral prompt largely avoids inducing gender-differentiated language, so prompt design is a practical mitigation lever.
+- **Validated, language-independent scoring:** addressing [[ai-scoring-language-bias-physics|scoring bias]] requires scoring that separates conceptual understanding from linguistic quality, and auditing scores for language bias.
+- **Explainability:** [[xai-education-framework|XAI in education]] provides transparency into why a system produced a given score or recommendation, enabling detection and correction of biased behavior and supporting [[trust]].
+- **Pipeline-wide auditing:** [[antiskillbench-persona-skills-privacy-2026|persona-skills auditing]] and systematic audits like the paternalistic-filter study show the value of auditing models across identity conditions before deployment.
+
+## Mitigation across the AI pipeline
+
+Bias mitigation is not a single fix but an ongoing process spanning the pipeline:
+
+1. **Data curation** — diversify training data and audit labels for identity-based gaps and unfair annotations.
+2. **Model training** — apply debiasing and fairness-aware objectives (e.g., GroupDRO, doubly robust estimators).
+3. **Prompt and system design** — design neutral prompts and systems that do not differentially respond to learner identity.
+4. **Scoring and assessment** — validate that automated scoring measures understanding rather than language or demographic proxies.
+5. **Evaluation and auditing** — audit models across identity conditions (language, gender, culture) and require explainability to surface bias.
+6. **Human oversight** — retain [[human-in-the-loop-ai|human-in-the-loop]] review, especially for low-confidence or high-stakes cases.
+
+## Relationship to related concepts
+
+Bias mitigation is the technical mechanism through which [[equity-in-ai-education|equity in AI education]] is operationalized, and a core requirement of [[ethics]] and responsible AI design. It connects to [[ai-ed-evaluation]] (bias as an evaluation criterion), [[educational-measurement]] and [[assessment-validity]] (fairness in scoring), and [[privacy]] (as a related responsible-AI concern). It also connects to [[over-reliance]] (since biased systems are especially harmful when over-trusted) and [[ai-literacy]] (helping users recognize and question biased AI).
+
+## Implications for AI in education
+
+- **Audit the whole pipeline:** bias can enter at data, model, prompt, scoring, and deployment stages — mitigate across all of them.
+- **Test across identity conditions:** evaluate AI tutors, scorers, and recommenders for differential behavior across language, gender, culture, and disability.
+- **Separate understanding from language in scoring:** automated scoring must not penalize non-native or less fluent writers for conceptual understanding they demonstrate.
+- **Make systems explainable:** transparency into AI decisions is essential for detecting and correcting bias.
+- **Combine technical and human mitigation:** pair debiasing algorithms with human-in-the-loop oversight, especially for high-stakes or low-confidence cases.
 
 ## Connected Concepts
 
-- [[student-experience]]
 - [[equity-in-ai-education]]
-- [[ai-literacy]]
-- [[higher-ed]]
-- [[over-reliance]]
-- [[teacher-role]]
-- [[generative-ai]]
-- [[scaffolding]]
-- [[human-in-the-loop-ai]]
-- [[privacy]]
+- [[ethics]]
+- [[ai-ed-evaluation]]
 - [[automated-grading]]
+- [[automated-essay-scoring]]
+- [[educational-measurement]]
+- [[knowledge-tracing]]
 - [[llm]]
+- [[generative-ai]]
+- [[privacy]]
+- [[human-in-the-loop-ai]]
+- [[trust]]
+- [[over-reliance]]
+- [[ai-literacy]]
+- [[student-experience]]
+- [[ai-education]]
+
 ## Connected Articles
 
-- [[ai-changing-teaching-workflows]]
-- [[ai-scoring-language-bias-physics]]
-- [[antiskillbench-persona-skills-privacy-2026]]
-- [[data-annotations-pedagogical-hints]]
-- [[genai-minoritized-knowledges-disability]]
-- [[paternalistic-filter-llm-history-education]]
-- [[xai-education-framework]]
-- [[genai-higher-education-systematic-review-2026]]
+- [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
+- [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
+- [[paternalistic-filter-llm-history-education]] — The paternalistic filter and differential refusals
+- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
+- [[temporal-smoothness-debiased-kt]] — Debiased knowledge tracing
+- [[ground-truth-reliability-aied]] — Modernizing ground truth for AI reliability
+- [[data-annotations-pedagogical-hints]] — Data annotations as pedagogical hints
+- [[xai-education-framework]] — Explainable AI in education
+- [[antiskillbench-persona-skills-privacy-2026]] — Persona-skills privacy and bias auditing
+- [[genai-minoritized-knowledges-disability]] — GenAI and the marginalization of minoritized knowledges
+- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
 
 ---
 
@@ -28879,22 +28960,65 @@ Computational thinking connects to [[cs-education]], [[stem-education]], [[ai-li
 
 ## [Confidence Aware AI Assessment](https://edtechdev.github.io/aied/concepts/confidence-aware-ai-assessment/)
 
-> **Confidence-aware AI assessment** — models that report uncertainty alongside scores — is examined in [[confidence-aware-student-drawing-assessment]], [[cong-confidence-asag-2026]], and [[llm-psychometric-calibration-cdp]]: calibrated confidence improves trust and enables appropriate delegation (trust-calibration, [[ai-ed-evaluation]]).
+> **Confidence-aware AI assessment** — the design of AI assessment systems that report calibrated uncertainty alongside their scores, rather than issuing a single unqualified prediction. A confidence-aware grader not only produces a grade or classification but also signals how certain it is, so that low-confidence cases can be flagged for human review, and users can calibrate their [[trust|trust]] in the system. This is central to responsible [[automated-assessment]] and [[ai-ed-evaluation]], and connects closely to [[psychometrically-aware-ai]] and [[trust-calibration]].
+
+Confidence-aware assessment addresses a core problem in AI-based scoring and grading: an automated system can be confidently wrong, or uncertain about its output, without communicating that to the learner or teacher. By making uncertainty explicit, confidence-aware models improve transparency, enable appropriate human delegation, and support fairer, more trustworthy automated assessment.
+
+## How confidence is modeled
+
+The wiki's research illustrates several complementary approaches:
+
+- **Fused confidence signals for short-answer grading:** [[cong-confidence-asag-2026|Confidence-Aware ASAG]] fuses model-based confidence signals (verbalized, latent, and consistency-based) with dataset-derived aleatoric uncertainty via Random Forest regression. This hybrid captures both the model's own self-assessed confidence and the irreducible uncertainty in the data, producing a calibrated confidence estimate alongside the grade.
+- **Confidence in multimodal student work:** [[confidence-aware-student-drawing-assessment|Confidence-aware assessment of student-drawn scientific figures]] extends confidence modeling to multimodal student responses (drawings, annotations), applying calibration to visual and representational tasks.
+- **Psychometric calibration of LLMs:** [[psychometrically-aware-ai|Psychometrically aware AI]] advances the standard of aligning LLM scoring with measurement theory, with calibration — matching predicted confidence to actual accuracy — as a core requirement alongside [[item-response-theory]] alignment.
+- **Difficulty and response-time calibration:** [[llm-difficulty-calibration-programming-exams-2026|Programming-exam difficulty calibration]] repositions LLMs as auxiliary evidence sources whose difficulty estimates correlate strongly with student pass rates, while explicitly bounding that such estimates must not be used for high-stakes individual scoring without further validation.
+- **Trait-adaptive essay scoring:** [[psyscore-essay-scoring-zpd-feedback|PsyScore]] shows a psychometrically-aware framework can adapt essay feedback to learner traits, using confidence and measurement principles to keep scores interpretable.
+
+## Why calibrated confidence matters
+
+- **Enables human-in-the-loop delegation:** when a system reports low confidence, it can route the case to a human reviewer — supporting [[human-in-the-loop-ai|human-in-the-loop]] workflows rather than blind automation.
+- **Supports trust calibration:** [[trust-calibration|calibrated confidence]] lets users match their trust to the system's actual reliability, avoiding both over-trust (accepting wrong scores) and under-trust (rejecting valid ones). This connects to [[trust|trust in AI]].
+- **Improves measurement validity:** confidence-aware scoring strengthens [[educational-measurement]] and [[assessment-validity]] by making the uncertainty in automated scores explicit, rather than presenting a false precision.
+- **Fairness and defensibility:** flagging low-confidence cases for review reduces the risk of confidently wrong scores, especially for atypical or underrepresented student responses.
+
+## Relationship to related concepts
+
+Confidence-aware AI assessment is a specific mechanism within the broader agenda of [[psychometrically-aware-ai|psychometrically aware AI]] (aligning AI with measurement theory) and a contributor to [[trust-calibration|calibrated trust]]. It is an evaluation criterion within [[ai-ed-evaluation]] (does the automated assessor report reliable uncertainty, not just headline accuracy?) and a design goal for [[automated-grading]] and [[automated-assessment]] systems. It also underpins [[adaptive-learning|adaptive]] and [[personalized-learning|personalized]] systems that need to decide when to intervene or defer.
+
+## Implications for AI in education
+
+- **Report uncertainty, not just scores:** AI assessors should surface calibrated confidence so that learners and teachers know when to scrutinize an automated score.
+- **Route low-confidence cases to humans:** confidence signals enable efficient human-in-the-loop review, preserving accuracy and fairness.
+- **Evaluate calibration, not just accuracy:** [[ai-ed-evaluation]] of assessors should measure whether reported confidence matches real accuracy, not only headline correctness.
+- **Protect high-stakes decisions:** difficulty and score estimates should inform low-stakes practice and review, but require strong validation before high-stakes individual use.
 
 ## Connected Concepts
 
-- [[adaptive-prompt-routing]]
-- [[human-in-the-loop-ai]]
-- [[rag]]
+- [[psychometrically-aware-ai]]
+- [[trust-calibration]]
+- [[trust]]
+- [[ai-ed-evaluation]]
+- [[educational-measurement]]
+- [[assessment-validity]]
+- [[assessment]]
+- [[automated-assessment]]
 - [[automated-grading]]
+- [[item-response-theory]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[human-in-the-loop-ai]]
+- [[ai-education]]
+
 ## Connected Articles
 
-- [[code-anchor-multi-view-visualization]]
-- [[confidence-aware-student-drawing-assessment]]
-- [[cong-confidence-asag-2026]]
-- [[learning-to-prompt-adaptive-tutoring]]
-- [[psyscore-essay-scoring-zpd-feedback]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
+- [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
+- [[confidence-aware-student-drawing-assessment]] — Confidence-aware assessment of student-drawn figures
+- [[psyscore-essay-scoring-zpd-feedback]] — Psychometrically-aware trait-adaptive essay scoring
+- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration for programming exams
+- [[learning-to-prompt-adaptive-tutoring]] — Adaptive prompting in tutoring
+- [[code-anchor-multi-view-visualization]] — Code-anchor multi-view visualization
+- [[llm-psychometric-calibration-cdp]] — LLM psychometric calibration
+- [[llm-item-difficulty-prediction]] — LLM item-difficulty prediction
 
 ---
 
@@ -33016,65 +33140,83 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 
 ## [Teacher AI Competency](https://edtechdev.github.io/aied/concepts/teacher-ai-competency/)
 
-Teacher AI competency encompasses the knowledge, skills, and dispositions required for effective AI integration in educational contexts. Emerging frameworks identify three competency dimensions:
+> **Teacher AI competency** — the knowledge, skills, and dispositions teachers need to effectively, ethically, and equitably integrate AI into teaching and learning. It extends beyond technical tool use to include pedagogical integration, assessment literacy, ethical judgment, and the confidence to use AI well. Teacher AI competency is the teacher-side counterpart to [[ai-literacy]], and is developed through [[faculty-development|professional development]]. It is central to how [[teacher-role|the teacher's role]] is transforming in AI-augmented classrooms.
 
-### 1. Technical Proficiency
-- **Prompt Engineering:** Crafting effective prompts for educational objectives (Xiao et al. 2026: 4-hour training → 2.3x integration increase)
-- **Tool Evaluation:** Assessing AI tools for pedagogical fit and safety
-- **Troubleshooting:** Addressing AI-system failures in real-time classroom contexts
+Teacher AI competency matters because the teacher is the decisive factor in whether AI improves learning. Research consistently shows that AI tools only translate into better outcomes when teachers can plan for them, scaffold student use, evaluate outputs, and integrate them into coherent instruction. The wiki's literature examines the *dimensions* of this competency, the *gaps* between self-perception and actual skill, and the *professional development* that builds it.
 
-### 2. Pedagogical Integration
-- **Curriculum Alignment:** Mapping AI use to learning objectives
-- **Scaffolding Design:** Using AI to support student metacognition and self-regulation
-- **Assessment Literacy:** Evaluating AI-generated content and student AI outputs
+## Core competency dimensions
 
-### 3. Ethical & Critical Use
-- **Bias Recognition:** Identifying cultural and representational gaps in AI outputs (Wang et al. 2025)
-- **Data Privacy:** Protecting student data in AI-enhanced learning environments
-- **Equity Advocacy:** Ensuring AI tools serve diverse learners
+The wiki's research converges on several interconnected dimensions:
 
-### The Competency Gap
-Zhang et al. (2026) documented a **40% gap** between self-reported and performance-based AI competency. Teachers confident in AI skills often lack foundational prompting and evaluation abilities—highlighting the need for performance-based assessment.
+- **Technical proficiency:** crafting effective [[prompt-engineering|prompts]] for educational objectives, evaluating AI tools for pedagogical fit and safety, and troubleshooting failures in real time. [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] documented significant gains across all five AI-PCK components (overall *d* = 2.36), showing technical-pedagogical skill is trainable.
+- **Pedagogical integration:** mapping AI use to learning objectives, designing [[scaffolding|scaffolding]] that supports student [[metacognition]] and self-regulation, and integrating AI into [[instructional-design|instructional design]]. [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] models how teachers combine technological, pedagogical, and content knowledge through multi-agent workflows, while [[teacher-ai-teaming-five-levels|a five-level teacher-AI teaming framework]] (transactional → synergistic) captures how GenAI may replace, complement, or augment teacher competence.
+- **Assessment literacy:** evaluating AI-generated content and student AI outputs, and understanding how [[assessment-validity|validity]] shifts when students use AI. This connects to [[automated-assessment]], [[plagiarism-detection]], and the broader [[assessment]] redesign agenda.
+- **Ethical and critical use:** recognizing bias in AI outputs, protecting student data ([[privacy]]), and ensuring equitable outcomes ([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|Culturally relevant AI use]] examines how teachers can use LLMs to diversify materials rather than reinforce dominant norms.
+- **Confidence and attitudes:** teacher [[self-efficacy|confidence]] shapes adoption. [[teacher-ai-adoption-confidence|Adoption research]] finds confidence, support, and perceived utility drive whether teachers actually use AI, and [[ai-pedagogical-orientation|faculty orientations]] shape adoption in research and teaching.
 
-## References
+## The competency gap
 
-Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Between Self-Reported and Performance*. arXiv:2601.06101.
+A key finding is the **gap between self-reported and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **performance-based assessment** of teacher competency rather than reliance on self-report, and connects to [[confidence-aware-ai-assessment|calibrated self-assessment]].
 
-Xiao, R., Ye, R., et al. (2026). *Transforming GenAI Policy to Prompting Instruction: An RCT*. arXiv:2602.16033.
+## Professional development that works
 
-Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy*. arXiv:2505.08083.
+The wiki's PD literature identifies effective approaches:
 
-## Source
+- **Intensive, theory-grounded programs:** [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] with 163 teachers/pre-service teachers produced significant gains across all AI-PCK components, with pre-service teachers benefiting most. [[teacher-education-ai-literacy-sdt-2026|Self-determination-theory-based PD]] shows need-supportive training improves teachers' AI literacy, attitudes, and engagement while reducing anxiety.
+- **Design-based and integrated approaches:** [[genai-literacy-training-teacher-education-dbr-2026|DBR-based GenAI literacy training]] addresses the overemphasis on technical knowledge and pre-GenAI tools; [[rail-ed-genai-literacy-teacher-education|integrative, developmental frameworks]] and [[sec-ai-literacy-narrative-review-2026|social-emotional competency integration]] broaden literacy beyond pure technique.
+- **Inquiry and authentic practice:** [[quest-ai-inquiry-preservice-teachers|AI-supported inquiry models]] build AI literacy and authentic performance in pre-service teachers.
+- **Context-specific readiness:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI readiness framework]] emphasizes that faculty readiness is a sociotechnical issue requiring alignment of faculty capacity, governance, and quality assurance; [[ai-acceptance-preservice-science-teachers-2026|acceptance research]] shows positive attitudes and strong intentions among pre-service teachers (e.g., 380 Ghanaian science teachers), with ChatGPT the most-used tool.
+- **Institutional support:** [[faculty-development|professional development]] must be paired with institutional infrastructure ([[educational-policy-ai|policy]], [[ai-education-global-capacity|capacity]], [[institutional-change-framework-ai|institutional change]]) for sustainable adoption.
 
-- https://arxiv.org/abs/2601.06101
-- [https://arxiv.org/abs/2602.16033](https://arxiv.org/abs/2602.16033)
+## Teacher AI competency and the transforming teacher role
+
+As AI takes over routine instructional and assessment tasks, the teacher's distinctive contribution shifts toward orchestration, judgment, and relationship: deciding when and how AI is used, scaffolding [[agency|student agency]] and critical use, ensuring equity, and providing the social and emotional support AI cannot. This reframes teacher competency around [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[ethics|ethical judgment]], and [[self-regulated-learning|supporting self-regulated learning]] — connecting to [[teacher-role]] and [[over-reliance|guarding against over-reliance]].
+
+## Implications for AI in education
+
+- **Assess performance, not just self-report:** teacher competency should be evaluated through demonstration, given the documented self-report gap.
+- **Train the full competency, not just tools:** PD should build technical, pedagogical, assessment, and ethical dimensions together, grounded in learning theory.
+- **Build confidence alongside skill:** attitudes and self-efficacy shape adoption, so PD should reduce anxiety and build confidence through authentic, supported practice.
+- **Support the institutional layer:** sustainable teacher competency requires aligned policy, governance, and capacity, not isolated training.
 
 ## Connected Concepts
 
-- [[faculty-development]]
 - [[ai-literacy]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
+- [[faculty-development]]
+- [[teacher-role]]
+- [[prompt-engineering]]
+- [[instructional-design]]
+- [[scaffolding]]
+- [[metacognition]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[instructional-design]]
+- [[ethics]]
+- [[self-efficacy]]
 - [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[regulation]]
-## Connected Articles
-- [[ai-acceptance-preservice-science-teachers-2026]]
+- [[agency]]
+- [[over-reliance]]
+- [[educational-policy-ai]]
+- [[ai-education]]
 
-- [[ai-education-global-capacity]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[civic-education-ai-lesson-plans]]
-- [[cost-of-ethics-crisis-cs-ethics-education]]
-- [[post-covid-ict-career-aspirations]]
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[universities-ai-era-rethinking]]
-- [[white-wu-robotics-ai-education-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
+## Connected Articles
+
+- [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
+- [[teacher-ai-teaming-five-levels]] — Towards synergistic teacher-AI interactions
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy through self-determination theory
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Design-based research GenAI literacy training
+- [[rail-ed-genai-literacy-teacher-education]] — Rethinking GenAI literacy in teacher education
+- [[sec-ai-literacy-narrative-review-2026]] — Integrating social-emotional competencies with AI literacy
+- [[teacher-ai-adoption-confidence]] — AI adoption among teachers: confidence and support
+- [[ai-pedagogical-orientation]] — Faculty orientations shape AI adoption
+- [[ai-literacy-assessment-misalignment]] — Misalignment between self-reported and performance-based AI competency
+- [[quest-ai-inquiry-preservice-teachers]] — AI-supported inquiry for pre-service teachers
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI faculty readiness framework
+- [[ai-acceptance-preservice-science-teachers-2026]] — Perceptions and acceptance of AI among pre-service science teachers
+- [[llm-cultural-relevance-k12]] — LLMs for culturally relevant K-12 pedagogy
+- [[ai-education-global-capacity]] — Global capacity for AI education
+- [[institutional-change-framework-ai]] — Institutional change framework for AI
+- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
 
 ---
 
