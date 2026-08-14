@@ -4,7 +4,7 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -13,20 +13,27 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
   <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="/aied/rss.xml" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
   <style>
-    /* Match Pico v1's theme-variable specificity so this override actually wins.
-       Pico defines its vars under `:root:not([data-theme=dark]), [data-theme=light]`,
-       which beats a plain `:root` selector. */
+    /* Force a dark theme with a light, high-contrast accent (sky blue, not purple).
+       Match Pico v1's theme-variable specificity so the override actually wins:
+       Pico defines its dark vars under `[data-theme=dark]`. */
+    [data-theme=dark] {
+      --primary: #7dd3fc;
+      --primary-hover: #bae6fd;
+      --primary-focus: rgba(125, 211, 252, 0.28);
+      /* Pico defaults --font-size to 16px on phones. Bump the mobile base for
+         readability and to reduce browser-to-browser rendering differences. */
+      --font-size: 17px;
+    }
+    /* Keep a coherent light accent too, in case the theme is ever toggled. */
     :root:not([data-theme=dark]),
     [data-theme=light] {
-      --primary: #6d28d9;
-      --primary-hover: #5b21b6;
-      --primary-focus: rgba(109, 40, 217, 0.125);
-      /* Pico defaults --font-size to 16px on phones. Bump the mobile base for
-         readability and to reduce browser-to-browser (Chrome vs Firefox Android)
-         rendering differences driven by text-size-adjust / device font scaling. */
+      --primary: #0284c7;
+      --primary-hover: #0369a1;
+      --primary-focus: rgba(2, 132, 199, 0.15);
       --font-size: 17px;
     }
     @media (min-width: 768px) {
+      [data-theme=dark] { --font-size: 18px; }
       :root:not([data-theme=dark]),
       [data-theme=light] { --font-size: 18px; }
     }
@@ -40,8 +47,13 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
       display: flex;
       flex-direction: column;
     }
+    /* Use more of the browser width on large screens */
+    @media (min-width: 1200px) {
+      .container { max-width: 1440px; }
+    }
     header {
-      background: var(--primary);
+      background: #15212b;
+      border-bottom: 1px solid var(--primary);
       padding: 1rem 0;
     }
     header .container {
@@ -90,14 +102,15 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
       padding: 0.15rem 0.6rem;
       margin: 0.15rem;
       border-radius: 12px;
-      background: var(--primary);
-      color: white;
+      background: color-mix(in srgb, var(--primary) 18%, transparent);
+      border: 1px solid color-mix(in srgb, var(--primary) 30%, transparent);
+      color: var(--primary);
       font-size: 0.8rem;
       text-decoration: none;
     }
     .tag-chip:hover {
-      opacity: 0.85;
-      color: white;
+      opacity: 0.9;
+      color: var(--primary);
     }
     .citation {
       margin-top: 3rem;
