@@ -11,7 +11,7 @@ confidence: high
 
 ### Grading modalities
 
-- **Short answer grading:** [[automated-grading]] and [[cong-confidence-asag-2026|confidence-aware ASAG]] evaluate free-text responses. [[confidence-aware-ai-assessment|Confidence calibration]] is critical — systems must know when grading is reliable.
+- **Short answer grading:** automated-grading and [[cong-confidence-asag-2026|confidence-aware ASAG]] evaluate free-text responses. [[confidence-aware-ai-assessment|Confidence calibration]] is critical — systems must know when grading is reliable.
 - **Essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] use prompting strategies to approach human-level reliability. [[aiawe-automated-writing-evaluation|AIAWE]] extends automated evaluation to broader writing assessment.
 - **Code review:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]] and [[code-review-genai-cs1|CS1 code review]] demonstrate automated assessment in computing education.
 - **Formative assessment integration:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] show how automated grading feeds into [[formative-assessment]] cycles.
@@ -37,7 +37,6 @@ Automated grading connects to [[assessment-validity]] (do automated scores measu
 
 ## Connected Articles
 
-- [[automated-grading]]
 - [[cong-confidence-asag-2026]]
 - [[choi-anchor-aes-prompting-2025]]
 - [[ai-scoring-language-bias-physics]]

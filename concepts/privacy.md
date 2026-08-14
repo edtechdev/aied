@@ -11,14 +11,14 @@ confidence: high
 
 ### Privacy challenges
 
-- **Data collection at scale:** [[learning-analytics]] and [[edtech-platform|educational platforms]] collect clickstream, writing, and interaction data. [[privacy]] research examines whether this collection is proportionate to educational benefit.
+- **Data collection at scale:** [[learning-analytics]] and [[edtech-platform|educational platforms]] collect clickstream, writing, and interaction data. privacy research examines whether this collection is proportionate to educational benefit.
 - **Student surveillance:** [[ai-fatigue-academic-contexts|AI fatigue]] and [[over-reliance]] research connect to privacy concerns — constant AI monitoring can feel invasive even when well-intentioned.
 - **K-12 protections:** [[k-12]] settings demand stronger privacy safeguards due to minor status. [[child-safety-genai|Child safety]] research extends privacy to safety considerations.
-- **Federated and edge AI:** [[privacy|Edge AI approaches]] keep student data local, reducing central collection. [[ai-lms-middle-school-longitudinal|LMS privacy architectures]] demonstrate privacy-first design.
+- **Federated and edge AI:** Edge AI approaches keep student data local, reducing central collection. [[ai-lms-middle-school-longitudinal|LMS privacy architectures]] demonstrate privacy-first design.
 
 ### The personalization-privacy tradeoff
 
-[[personalized-learning]] requires detailed learner data to function, creating a tension with privacy. The wiki explores [[privacy]] approaches that balance personalization with data minimization.
+[[personalized-learning]] requires detailed learner data to function, creating a tension with privacy. The wiki explores privacy approaches that balance personalization with data minimization.
 
 ### Connections
 

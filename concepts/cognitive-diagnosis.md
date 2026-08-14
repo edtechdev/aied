@@ -13,7 +13,7 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 
 ### How cognitive diagnosis works
 
-- **Diagnostic models:** psychometric models (often under [[item-response-theory]] and [[educational-measurement]]) infer latent skill states from patterns of correct and incorrect responses, sometimes via [[cognitive-diagnosis]] models that map items to multiple knowledge components.
+- **Diagnostic models:** psychometric models (often under [[item-response-theory]] and [[educational-measurement]]) infer latent skill states from patterns of correct and incorrect responses, sometimes via cognitive-diagnosis models that map items to multiple knowledge components.
 - **Response data:** diagnosis draws on responses to assessments, hints, help-seeking, and time-on-task — richer signals than raw scores.
 - **LLM-based diagnosis:** newer approaches use large language models to diagnose from open-ended or handwritten work, and to identify the specific misconceptions behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
 

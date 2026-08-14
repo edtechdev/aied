@@ -30,7 +30,7 @@ The study argues that instructors cannot assume motivation will survive easy AI 
 
 ## Connection to the broader wiki
 
-This paper sits at the intersection of [[over-reliance]], [[motivation]], and [[self-regulated-learning]]. Its emphasis on why *effort feels optional* links to [[ai-availability-student-motivation]]-adjacent work on the cognitive costs of AI, to [[agentic-literacy-debt]] (the cumulative skill deficit from habitual reliance), and to the socio-emotional side documented in [[shame-guilt-ai-regulation-computing-education]]. For instructors, the motivational lens complements the tool-design and assessment-design interventions in [[reducing-ai-misuse]]: students are more likely to use AI productively when they have reasons — not just rules — to do the work themselves.
+This paper sits at the intersection of [[over-reliance]], [[motivation]], and [[self-regulated-learning]]. Its emphasis on why *effort feels optional* links to ai-availability-student-motivation-adjacent work on the cognitive costs of AI, to [[agentic-literacy-debt]] (the cumulative skill deficit from habitual reliance), and to the socio-emotional side documented in [[shame-guilt-ai-regulation-computing-education]]. For instructors, the motivational lens complements the tool-design and assessment-design interventions in [[reducing-ai-misuse]]: students are more likely to use AI productively when they have reasons — not just rules — to do the work themselves.
 
 ## Connected Concepts
 

@@ -14,7 +14,6 @@ Research themes include:
 ## Connected Concepts
 
 
-- [[adult-learning]]
 - [[higher-ed]]
 - [[accessible-learning]]
 - [[human-in-the-loop-ai]]

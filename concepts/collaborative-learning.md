@@ -21,7 +21,8 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 
 ## Connected Concepts
 
-- [[collaborative-learning]]
+- [[active-learning]]
+- [[icap-framework]]
 - [[scaffolding]]
 - [[teacher-role]]
 - [[human-in-the-loop-ai]]

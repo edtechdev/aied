@@ -18,7 +18,7 @@ confidence: high
 
 ### The governance gap
 
-The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and [[regulation]] research argue for proactive governance rather than reactive policy.
+The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive governance rather than reactive policy.
 
 ### Connections
 
