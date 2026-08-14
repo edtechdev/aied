@@ -37,7 +37,7 @@ Conducted in Ghana, the work also speaks to [[equity-in-ai-education]] and [[equ
 
 ## Connected Articles
 
-- [[ai-adult-learning-design]] — AI in adult learning design
+- [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
 - [[ai-education-global-capacity]] — Global capacity for AI education
 - [[genai-pd-ai-pck-learning-gain-2026]] — GenAI professional development and AI-PCK
 - [[ai-higher-ed-workforce-survey]] — AI in higher-ed workforce survey

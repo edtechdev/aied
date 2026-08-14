@@ -30,7 +30,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 ## Connections to Wiki
 
 - Shares the institutional perspective with [[ai-education-global-capacity]] on human/institutional capacity bottlenecks
-- Contrasts with the [[ai-adult-learning-design]] focus on learner-facing technology guidelines
+- Contrasts with the [[ai-adult-learning-guidelines-dis2026]] focus on learner-facing technology guidelines
 - Extends [[teacher-ai-competency]] from individual educators to institutional competency — institutional readiness is a distinct level above individual educator skill
 - The workload-and-recognition emphasis speaks to [[faculty-development]] centers navigating GenAI adoption, and the assessment implications echo [[assessment-validity]] concerns about what assessment means when AI can produce university-level work
 - Relevant to [[regulation]] discussions about higher-education policy and [[principled-ai-education]] frameworks
@@ -55,7 +55,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - [[ai-higher-ed-bridge-gap]]
 - [[ai-higher-ed-workforce-survey]]
 - [[ai-education-global-capacity]]
-- [[ai-adult-learning-design]]
+- [[ai-adult-learning-guidelines-dis2026]]
 - [[principled-ai-education]]
 ## Citation
 

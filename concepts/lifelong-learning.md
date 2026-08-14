@@ -26,7 +26,7 @@ confidence: medium
 ## Connected Articles
 - [[ai-guided-learning-audiovideo-2026]]
 
-- [[ai-adult-learning-design]]
+- [[ai-adult-learning-guidelines-dis2026]]
 - [[ai-lifelong-learning-policy]]
 - [[community-centered-ai-education-adults]]
 - [[metacognitive-learning-scenarios-taxonomy]]

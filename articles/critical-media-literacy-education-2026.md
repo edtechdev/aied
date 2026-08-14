@@ -40,7 +40,7 @@ The findings connect to [[ethics]] and [[equity-in-ai-education]] debates: if te
 - [[ai-ethics-education-public-discourse]] — AI ethics in public discourse
 - [[ai-education-global-capacity]] — Global capacity for AI education
 - [[ai-changing-teaching-workflows]] — How AI changes teaching workflows
-- [[ai-adult-learning-design]] — AI in adult learning design
+- [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
 - [[elementary-writing-genai-systematic-review-2026]] — Elementary writing and GenAI review
 
 ## Citation
