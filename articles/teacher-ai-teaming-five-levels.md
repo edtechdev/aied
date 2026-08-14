@@ -47,6 +47,7 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 - [[ai-education]]
 - [[instructional-design]]
 
+- [[tpack]]
 ## Connected Articles
 
 

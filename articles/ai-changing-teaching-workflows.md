@@ -77,6 +77,7 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[k-12]]
 - [[student-experience]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

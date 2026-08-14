@@ -35,6 +35,7 @@ Aligned with the UNESCO AI Competency Framework for Teachers and the OECD/Europe
 - [[automated-essay-scoring]]
 - [[curriculum-design]]
 
+- [[tpack]]
 ## Connected Articles
 
 

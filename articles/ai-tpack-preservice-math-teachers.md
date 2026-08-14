@@ -42,6 +42,7 @@ The study is cross-sectional and based entirely on self-report, so structural pa
 - [[stem-education]]
 - [[faculty-development]]
 - [[teacher-role]]
+- [[tpack]]
 ## Connected Articles
 
 - [[teacher-control-ai-generation-math-visuals]]

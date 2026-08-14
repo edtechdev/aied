@@ -42,6 +42,7 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 - [[teacher-ai-competency]]
 - [[faculty-development]]
 - [[agentic-ai]]
+- [[tpack]]
 ## Connected Articles
 
 - [[teacher-ai-adoption-confidence]]

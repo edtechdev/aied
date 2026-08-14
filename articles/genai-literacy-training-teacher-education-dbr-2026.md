@@ -28,6 +28,7 @@ confidence: high
 - [[higher-ed]]
 - [[k-12]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[hcap-human-centric-ai-pedagogy-framework-2026]]
