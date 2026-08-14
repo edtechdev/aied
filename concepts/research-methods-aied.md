@@ -53,11 +53,13 @@ DBR iteratively designs, implements, and refines an educational intervention in 
 
 ### Systematic reviews and meta-analyses
 
-Reviews synthesize the evidence base. Systematic and scoping reviews map and appraise the literature; meta-analyses pool effect sizes across studies. [[zerkouk-comprehensive-review-its-2025|A comprehensive ITS review]] and [[genai-higher-education-systematic-review-2026|a systematic review of GenAI in higher education]] exemplify the approach.
+Reviews synthesize the evidence base rather than running a new experiment. Systematic and scoping reviews apply a transparent protocol to search, screen, appraise, and synthesize a body of studies; meta-analyses additionally pool effect sizes across studies to produce a weighted summary estimate and test moderators. [[zerkouk-comprehensive-review-its-2025|A comprehensive ITS review]] and [[genai-higher-education-systematic-review-2026|a systematic review of GenAI in higher education]] exemplify the approach.
 
 - **Strengths:** efficient synthesis of a large, fragmented literature; meta-analysis yields pooled effect estimates and detects moderators; essential for evidence-based practice and identifying gaps.
 - **Limitations:** depend on the quality of included studies (garbage-in/garbage-out); publication bias; heterogeneous methods and outcome measures make synthesis hard; rapidly aging given the speed of AI change.
 - **Exemplars:** [[zerkouk-comprehensive-review-its-2025]], [[genai-higher-education-systematic-review-2026]], [[chatgpt-critical-creative-thinking-review]], [[ai-tutor-effectiveness-review]], [[agentic-ai-education-scoping-review]].
+
+See the dedicated [[meta-analysis-systematic-review]] concept page for a fuller treatment of systematic review and meta-analysis in AI in education — including their relationship to primary designs, PRISMA reporting, and their strengths and limitations.
 
 ### Computational and benchmark evaluation
 
@@ -96,6 +98,7 @@ Method choice follows the research question. Causal-effect questions favor exper
 - [[ai-ed-evaluation]]
 - [[rct]]
 - [[benchmark]]
+- [[meta-analysis-systematic-review]]
 - [[educational-measurement]]
 - [[assessment-validity]]
 - [[simulation]]
