@@ -26,6 +26,7 @@ Programming education connects to [[educational-robotics]], [[computational-thin
 - [[computational-thinking]]
 - [[cs-education]]
 - [[educational-robotics]]
+- [[learning-by-teaching]]
 - [[stem-education]]
 - [[block-programming]]
 - [[llm]]

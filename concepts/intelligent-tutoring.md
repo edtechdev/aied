@@ -50,6 +50,7 @@ The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor)
 - [[ai-education]]
 - [[metacognition]]
 - [[over-reliance]]
+- [[teachable-agents]]
 ## Connected Articles
 
 - [[adaptive-virtual-patient-psychotherapy-training]]

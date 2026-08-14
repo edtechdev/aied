@@ -27,6 +27,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 ## Connected Concepts
 
 - [[computational-thinking]]
+- [[learning-by-teaching]]
 - [[stem-education]]
 - [[automated-grading]]
 - [[prompt-engineering]]

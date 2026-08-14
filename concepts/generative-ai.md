@@ -28,6 +28,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 ## Connected Concepts
 
+- [[learning-by-teaching]]
 - [[llm]]
 - [[prompt-engineering]]
 - [[rag]]
@@ -41,6 +42,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[higher-ed]]
 - [[k-12]]
 
+- [[teachable-agents]]
 - [[tpack]]
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]
