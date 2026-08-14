@@ -50,10 +50,10 @@ For [[higher-ed]] contexts, the review provides actionable guidance: semester-lo
 - [[higher-ed]]
 - [[ai-education]]
 - [[prompt-engineering]]
-- [[reshaping-cs-education-genai]]
 - [[scaffolding]]
 
 - [[llm]]
+
 ## Connected Articles
 
 - [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
@@ -81,7 +81,7 @@ For [[higher-ed]] contexts, the review provides actionable guidance: semester-lo
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-
+- [[reshaping-cs-education-genai]]
 ## Citation
 
 Vissapragada, A. (2026). [*A review of intervention designs of LLM Integration in Undergraduate Computer Science Education*](https://osf.io/preprints/edarxiv/knhyz_v1). EdArXiv preprint.

@@ -32,7 +32,6 @@ The digital divide is a core concern of [[equity-in-ai-education]] and [[equity-
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[ethics]]
 - [[bias-mitigation]]

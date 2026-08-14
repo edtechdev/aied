@@ -48,10 +48,10 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 
 - [[ai-literacy]]
 - [[curriculum-design]]
+- [[transfer-of-learning]] — AI Learning Transfer
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

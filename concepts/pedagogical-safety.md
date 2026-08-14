@@ -35,7 +35,7 @@ Pedagogical safety connects to [[hallucination-risk]], [[rag]], [[k-12]], [[ethi
 - [[llm]]
 - [[over-reliance]]
 - [[ai-tutoring]]
-- [[child-safety-genai]]
+
 
 ## Connected Articles
 

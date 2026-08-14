@@ -30,10 +30,10 @@ An eLetter response argued universities cannot bridge the gap alone — commerci
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
 - [[higher-ed]]
-- [[persistent-ai-agents-academic-research]]
 - [[regulation]]
 
 - [[llm]]
+
 ## Connected Articles
 
 - [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
@@ -61,7 +61,7 @@ An eLetter response argued universities cannot bridge the gap alone — commerci
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-
+- [[persistent-ai-agents-academic-research]]
 ## Citation
 
 Miranda, M. L. (2026). [Higher Education Must Bridge the AI Gap](https://www.science.org/doi/10.1126/science.aeh5777). *Science*.

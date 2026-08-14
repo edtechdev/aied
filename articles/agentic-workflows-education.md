@@ -44,10 +44,13 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[pedagogical-llm-training]]
-- [[persistent-ai-agents-academic-research]]
 
 - [[agentic-ai]]
 - [[ai-education]]
+
+
+- [[authentic-assessment]] — Authentic Assessment
+
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
@@ -56,7 +59,6 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[ai-powered-materials-discovery-ai-literacy]] — Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scie...
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
-- [[authentic-assessment]] — Authentic Assessment
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
 - [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
@@ -76,6 +78,8 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 
+
+- [[persistent-ai-agents-academic-research]]
 ## Citation
 
 Kamalov, F., Santandreu Calonge, D., Smail, L., Azizov, D., Thadani, D. R., Kwong, T., & Atif, A. (2026). [*Evolution of AI in Education: Agentic Workflows*](https://arxiv.org/abs/2504.20082v2). arXiv:2504.20082.

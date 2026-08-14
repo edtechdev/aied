@@ -31,7 +31,6 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 - [[generative-ai]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[bias-mitigation]]
 - [[special-education]]
 - [[ai-literacy]]

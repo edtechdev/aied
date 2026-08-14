@@ -63,7 +63,6 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 - [[learning-analytics]]
 - [[help-seeking]]
 - [[k-12]]
-- [[learning-analytics]]
 - [[student-experience]]
 - [[intelligent-tutoring]]
 - [[active-learning]]

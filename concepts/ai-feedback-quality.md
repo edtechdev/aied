@@ -53,12 +53,12 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[teacher-role]]
 - [[confidence-aware-ai-assessment]]
 
+
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — AI-Generated Feedback in Higher Education
 - [[teaching-feedback-classification-benchmark]] — Teaching Feedback Classification Benchmark
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Collaborative Feedback
-- [[automated-grading]] — Automated Short Answer Grading
 - [[cong-confidence-asag-2026]] — Confidence-Aware Short Answer Grading
 - [[choi-anchor-aes-prompting-2025]] — Anchor-Based AES Prompting
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback

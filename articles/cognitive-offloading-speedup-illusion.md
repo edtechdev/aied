@@ -17,10 +17,10 @@ The findings complement the companion paper on the [[efficiency-gain-illusion-ai
 - [[over-reliance]]
 - [[cognitive-offloading]]
 - [[metacognition]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[efficiency-gain-illusion-ai-overreliance]]
-- [[transfer-of-learning]]
 ## Citation
 
 Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan Jurafsky, Robert D. Hawkins (2026). [Cognitive offloading and the speedup illusion in human-AI interaction](https://arxiv.org/abs/2605.23177). arXiv:2605.23177. Proceedings of the 48th Annual Meeting of the Cognitive Science Society (CogSci 2026). - [[digital-literacy-illusion]] — Digital literacy illusion confirms AI overestimation in secondary students - [[llm-reasoning-traces-metacognition]] — Processing fluency account of trace-induced overconfidence - [[ai-productivity-moderation]] — Learning curve factor explains when AI productivity gains fail

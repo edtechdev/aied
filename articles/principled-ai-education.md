@@ -72,6 +72,8 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[ai-education]]
 - [[higher-ed]]
 - [[scaffolding]]
+- [[transfer-of-learning]] — AI Learning Transfer
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
@@ -79,10 +81,8 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
-- [[authentic-assessment]] — Authentic Assessment
 - [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
 - [[educational-llm-alignment]] — Educational LLM Alignment
 - [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework

@@ -26,7 +26,6 @@ A prototype deployment comprising a Meta Quest 3 interface linked to a local GPU
 
 - [[simulation]]
 - [[professional-training]]
-- [[professional-training]]
 - [[rag]]
 - [[agentic-ai]]
 - [[multimodal]]

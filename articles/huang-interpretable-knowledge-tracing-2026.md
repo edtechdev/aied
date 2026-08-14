@@ -45,11 +45,11 @@ Future work should extend the framework to multi-skill settings (where students 
 ## Connected Concepts
 
 - [[ai-tutoring]]
-- [[cold-start-knowledge-tracing-safeinsights]]
 - [[item-response-theory]]
 - [[knowledge-tracing]]
 
 - [[rag]]
+
 ## Connected Articles
 
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
@@ -76,7 +76,7 @@ Future work should extend the framework to multi-skill settings (where students 
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
 - [[temporal-smoothness-debiased-kt]] — Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
-
+- [[cold-start-knowledge-tracing-safeinsights]]
 ## Citation
 
 Amherst), A.S.H.A.S.J.L.A.L., gaps:, E.D.K.T.S.F.T., simpleKT, D.L.D.D.S.A., & LLMKT, L. (2026). [*Interpretable Knowledge Tracing*](https://arxiv.org/abs/2605.01097)

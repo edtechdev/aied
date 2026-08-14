@@ -49,11 +49,11 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - [[assessment-validity]]
 - [[teacher-ai-competency]]
 - [[regulation]]
+- [[authentic-assessment]]
 ## Connected Articles
 
 - [[ai-higher-ed-bridge-gap]]
 - [[ai-higher-ed-workforce-survey]]
-- [[authentic-assessment]]
 - [[ai-education-global-capacity]]
 - [[ai-adult-learning-design]]
 - [[principled-ai-education]]

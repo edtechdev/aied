@@ -15,7 +15,6 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[equ
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[special-education]]
 - [[cs-education]]
 - [[student-experience]]

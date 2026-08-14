@@ -35,10 +35,10 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 - [[ai-literacy]]
 - [[k-12]]
 - [[llm]]
+- [[transfer-of-learning]] — AI Learning Transfer
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education

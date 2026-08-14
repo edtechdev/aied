@@ -34,7 +34,6 @@ For [[writing-education]] and English for Research Publication Purposes, the dia
 - [[equity-in-ai-education]]
 - [[automated-essay-scoring]]
 - [[student-experience]]
-- [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 
 ## Connected Articles

@@ -30,7 +30,6 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[special-education]]
 - [[instructional-design]]
 - [[universal-design-for-learning]]

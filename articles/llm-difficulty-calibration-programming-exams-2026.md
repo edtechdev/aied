@@ -39,8 +39,6 @@ The work also illustrates the epistemic limits of [[item-response-theory]]-style
 - [[human-in-the-loop-ai]]
 - [[item-response-theory]]
 - [[learning-analytics]]
-- [[ai-ed-evaluation]]
-- [[cs-education]]
 - [[psychometrically-aware-ai]]
 
 ## Connected Articles

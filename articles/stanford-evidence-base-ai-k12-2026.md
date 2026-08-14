@@ -47,10 +47,10 @@ For the research community, the review functions as both a wake-up call and a ro
 - [[zone-of-proximal-development]]
 
 - [[ai-literacy]]
+- [[transfer-of-learning]] — Transfer of Learning
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[transfer-of-learning]] — Transfer of Learning
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching

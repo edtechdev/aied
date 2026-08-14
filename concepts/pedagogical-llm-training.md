@@ -95,10 +95,10 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 - [[pedagogical-safety]]
 - [[formative-assessment]]
 - [[llm]]
+- [[authentic-assessment]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]
-- [[authentic-assessment]]
 - [[civic-education-ai-lesson-plans]]
 - [[codify-socratic-tutoring-programming]]
 - [[cognitive-agent-compilation]]

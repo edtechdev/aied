@@ -41,10 +41,10 @@ While AI tools are globally available, the critical variable is local absorption
 
 - [[k-12]]
 - [[teacher-role]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
-- [[authentic-assessment]] — Authentic Assessment
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
 - [[universities-ai-era-rethinking]] — The University AI Didn't Replace: Rethinking Universities in the AI Era

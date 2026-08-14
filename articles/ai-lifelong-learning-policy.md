@@ -24,7 +24,6 @@ Key tensions identified include the promise of [[intelligent-tutoring]] and [[le
 - [[learning-analytics]]
 - [[bias-mitigation]]
 - [[over-reliance]]
-- [[equity-in-ai-education]]
 - [[faculty-development]]
 - [[teacher-role]]
 ## Connected Articles

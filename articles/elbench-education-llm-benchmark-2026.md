@@ -26,8 +26,6 @@ A usable education-facing model must be accurate, safe under sensitive prompts, 
 
 - [[benchmark]]
 - [[ai-ed-evaluation]]
-- [[ai-ed-evaluation]]
-- [[pedagogical-safety]]
 - [[pedagogical-safety]]
 - [[generative-ai]]
 - [[llm]]

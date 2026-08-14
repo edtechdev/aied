@@ -31,11 +31,10 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[ethics]]
 - [[over-reliance]]
 - [[educational-robotics]]
-
+- [[cognitive-offloading]] — Cognitive Offloading in Student–AI Collaboration
 ## Connected Articles
 
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
-- [[cognitive-offloading]] — Cognitive Offloading in Student–AI Collaboration
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots

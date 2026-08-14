@@ -35,7 +35,6 @@ The user study was exploratory with a small sample (12 participants), and the in
 - [[human-robot-interaction]]
 - [[special-education]]
 - [[equity-in-ai-education]]
-- [[special-education]]
 - [[accessible-learning]]
 
 ## Connected Articles

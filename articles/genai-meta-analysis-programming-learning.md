@@ -46,9 +46,9 @@ The findings have implications beyond programming — the productivity-learning 
 - [[writing-education]]
 - [[language-learning]]
 - [[stem-education]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
-- [[transfer-of-learning]]
 - [[tutoring-specific-vs-general-ai]]
 - [[collaborative-ai-tutoring]]
 - [[agentic-education-coding]]

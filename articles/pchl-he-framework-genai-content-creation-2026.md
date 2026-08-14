@@ -36,7 +36,6 @@ The framework is conceptual and would benefit from empirical validation, but it 
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[faculty-development]]
-- [[generative-ai]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[instructional-design]]
