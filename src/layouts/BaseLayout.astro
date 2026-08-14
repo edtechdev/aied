@@ -24,6 +24,21 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
       /* Pico defaults --font-size to 16px on phones. Bump the mobile base for
          readability and to reduce browser-to-browser rendering differences. */
       --font-size: 17px;
+      /* Theme the Pagefind search components to match the dark site.
+         They are driven by --pf-* variables inherited from :root, and their
+         own :is() selectors out-specificity a ::part override, so setting the
+         variables here is the reliable way to make them dark. */
+      --pf-background: #0d1418;
+      --pf-text: #e8eef2;
+      --pf-text-secondary: #c2ccd4;
+      --pf-text-muted: #8b98a2;
+      --pf-border: #2c3a45;
+      --pf-border-focus: #7dd3fc;
+      --pf-hover: #18232c;
+      --pf-skeleton: #1c2933;
+      --pf-skeleton-shine: #243440;
+      --pf-mark: #ffe9a3;
+      --pf-scroll-shadow: rgba(0, 0, 0, 0.5);
     }
     /* Keep a coherent light accent too, in case the theme is ever toggled. */
     :root:not([data-theme=dark]),
