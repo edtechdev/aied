@@ -1,68 +1,86 @@
 ---
 title: Teacher AI Competency
 created: 2026-05-08
-updated: 2026-08-11
+updated: 2026-08-13
 type: concept
-tags: [ai-literacy, faculty-development, k-12, higher-ed, generative-ai, student-experience, llm, equity, teacher-role, intelligent-tutoring]
+tags: [ai-literacy, faculty-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
 confidence: high
 ---
 
-Teacher AI competency encompasses the knowledge, skills, and dispositions required for effective AI integration in educational contexts. Emerging frameworks identify three competency dimensions:
+> **Teacher AI competency** — the knowledge, skills, and dispositions teachers need to effectively, ethically, and equitably integrate AI into teaching and learning. It extends beyond technical tool use to include pedagogical integration, assessment literacy, ethical judgment, and the confidence to use AI well. Teacher AI competency is the teacher-side counterpart to [[ai-literacy]], and is developed through [[faculty-development|professional development]]. It is central to how [[teacher-role|the teacher's role]] is transforming in AI-augmented classrooms.
 
-### 1. Technical Proficiency
-- **Prompt Engineering:** Crafting effective prompts for educational objectives (Xiao et al. 2026: 4-hour training → 2.3x integration increase)
-- **Tool Evaluation:** Assessing AI tools for pedagogical fit and safety
-- **Troubleshooting:** Addressing AI-system failures in real-time classroom contexts
+Teacher AI competency matters because the teacher is the decisive factor in whether AI improves learning. Research consistently shows that AI tools only translate into better outcomes when teachers can plan for them, scaffold student use, evaluate outputs, and integrate them into coherent instruction. The wiki's literature examines the *dimensions* of this competency, the *gaps* between self-perception and actual skill, and the *professional development* that builds it.
 
-### 2. Pedagogical Integration
-- **Curriculum Alignment:** Mapping AI use to learning objectives
-- **Scaffolding Design:** Using AI to support student metacognition and self-regulation
-- **Assessment Literacy:** Evaluating AI-generated content and student AI outputs
+## Core competency dimensions
 
-### 3. Ethical & Critical Use
-- **Bias Recognition:** Identifying cultural and representational gaps in AI outputs (Wang et al. 2025)
-- **Data Privacy:** Protecting student data in AI-enhanced learning environments
-- **Equity Advocacy:** Ensuring AI tools serve diverse learners
+The wiki's research converges on several interconnected dimensions:
 
-### The Competency Gap
-Zhang et al. (2026) documented a **40% gap** between self-reported and performance-based AI competency. Teachers confident in AI skills often lack foundational prompting and evaluation abilities—highlighting the need for performance-based assessment.
+- **Technical proficiency:** crafting effective [[prompt-engineering|prompts]] for educational objectives, evaluating AI tools for pedagogical fit and safety, and troubleshooting failures in real time. [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] documented significant gains across all five AI-PCK components (overall *d* = 2.36), showing technical-pedagogical skill is trainable.
+- **Pedagogical integration:** mapping AI use to learning objectives, designing [[scaffolding|scaffolding]] that supports student [[metacognition]] and self-regulation, and integrating AI into [[instructional-design|instructional design]]. [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] models how teachers combine technological, pedagogical, and content knowledge through multi-agent workflows, while [[teacher-ai-teaming-five-levels|a five-level teacher-AI teaming framework]] (transactional → synergistic) captures how GenAI may replace, complement, or augment teacher competence.
+- **Assessment literacy:** evaluating AI-generated content and student AI outputs, and understanding how [[assessment-validity|validity]] shifts when students use AI. This connects to [[automated-assessment]], [[plagiarism-detection]], and the broader [[assessment]] redesign agenda.
+- **Ethical and critical use:** recognizing bias in AI outputs, protecting student data ([[privacy]]), and ensuring equitable outcomes ([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|Culturally relevant AI use]] examines how teachers can use LLMs to diversify materials rather than reinforce dominant norms.
+- **Confidence and attitudes:** teacher [[self-efficacy|confidence]] shapes adoption. [[teacher-ai-adoption-confidence|Adoption research]] finds confidence, support, and perceived utility drive whether teachers actually use AI, and [[ai-pedagogical-orientation|faculty orientations]] shape adoption in research and teaching.
 
-## References
+## The competency gap
 
-Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Between Self-Reported and Performance*. arXiv:2601.06101.
+A key finding is the **gap between self-reported and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **performance-based assessment** of teacher competency rather than reliance on self-report, and connects to [[confidence-aware-ai-assessment|calibrated self-assessment]].
 
-Xiao, R., Ye, R., et al. (2026). *Transforming GenAI Policy to Prompting Instruction: An RCT*. arXiv:2602.16033.
+## Professional development that works
 
-Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy*. arXiv:2505.08083.
+The wiki's PD literature identifies effective approaches:
 
-## Source
+- **Intensive, theory-grounded programs:** [[genai-pd-ai-pck-learning-gain-2026|An intensive GenAI PD program]] with 163 teachers/pre-service teachers produced significant gains across all AI-PCK components, with pre-service teachers benefiting most. [[teacher-education-ai-literacy-sdt-2026|Self-determination-theory-based PD]] shows need-supportive training improves teachers' AI literacy, attitudes, and engagement while reducing anxiety.
+- **Design-based and integrated approaches:** [[genai-literacy-training-teacher-education-dbr-2026|DBR-based GenAI literacy training]] addresses the overemphasis on technical knowledge and pre-GenAI tools; [[rail-ed-genai-literacy-teacher-education|integrative, developmental frameworks]] and [[sec-ai-literacy-narrative-review-2026|social-emotional competency integration]] broaden literacy beyond pure technique.
+- **Inquiry and authentic practice:** [[quest-ai-inquiry-preservice-teachers|AI-supported inquiry models]] build AI literacy and authentic performance in pre-service teachers.
+- **Context-specific readiness:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI readiness framework]] emphasizes that faculty readiness is a sociotechnical issue requiring alignment of faculty capacity, governance, and quality assurance; [[ai-acceptance-preservice-science-teachers-2026|acceptance research]] shows positive attitudes and strong intentions among pre-service teachers (e.g., 380 Ghanaian science teachers), with ChatGPT the most-used tool.
+- **Institutional support:** [[faculty-development|professional development]] must be paired with institutional infrastructure ([[educational-policy-ai|policy]], [[ai-education-global-capacity|capacity]], [[institutional-change-framework-ai|institutional change]]) for sustainable adoption.
 
-- https://arxiv.org/abs/2601.06101
-- [https://arxiv.org/abs/2602.16033](https://arxiv.org/abs/2602.16033)
+## Teacher AI competency and the transforming teacher role
+
+As AI takes over routine instructional and assessment tasks, the teacher's distinctive contribution shifts toward orchestration, judgment, and relationship: deciding when and how AI is used, scaffolding [[agency|student agency]] and critical use, ensuring equity, and providing the social and emotional support AI cannot. This reframes teacher competency around [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[ethics|ethical judgment]], and [[self-regulated-learning|supporting self-regulated learning]] — connecting to [[teacher-role]] and [[over-reliance|guarding against over-reliance]].
+
+## Implications for AI in education
+
+- **Assess performance, not just self-report:** teacher competency should be evaluated through demonstration, given the documented self-report gap.
+- **Train the full competency, not just tools:** PD should build technical, pedagogical, assessment, and ethical dimensions together, grounded in learning theory.
+- **Build confidence alongside skill:** attitudes and self-efficacy shape adoption, so PD should reduce anxiety and build confidence through authentic, supported practice.
+- **Support the institutional layer:** sustainable teacher competency requires aligned policy, governance, and capacity, not isolated training.
 
 ## Connected Concepts
 
-- [[faculty-development]]
 - [[ai-literacy]]
-- [[academic-integrity]]
-- [[equity-in-ai-education]]
+- [[faculty-development]]
+- [[teacher-role]]
+- [[prompt-engineering]]
+- [[instructional-design]]
+- [[scaffolding]]
+- [[metacognition]]
 - [[assessment-validity]]
 - [[equity-in-ai-education]]
-- [[agentic-ai]]
-- [[over-reliance]]
-- [[instructional-design]]
+- [[ethics]]
+- [[self-efficacy]]
 - [[human-in-the-loop-ai]]
-- [[student-experience]]
-- [[regulation]]
-## Connected Articles
-- [[ai-acceptance-preservice-science-teachers-2026]]
+- [[agency]]
+- [[over-reliance]]
+- [[educational-policy-ai]]
+- [[ai-education]]
 
-- [[ai-education-global-capacity]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
-- [[civic-education-ai-lesson-plans]]
-- [[cost-of-ethics-crisis-cs-ethics-education]]
-- [[post-covid-ict-career-aspirations]]
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[universities-ai-era-rethinking]]
-- [[white-wu-robotics-ai-education-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
+## Connected Articles
+
+- [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
+- [[teacher-ai-teaming-five-levels]] — Towards synergistic teacher-AI interactions
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy through self-determination theory
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Design-based research GenAI literacy training
+- [[rail-ed-genai-literacy-teacher-education]] — Rethinking GenAI literacy in teacher education
+- [[sec-ai-literacy-narrative-review-2026]] — Integrating social-emotional competencies with AI literacy
+- [[teacher-ai-adoption-confidence]] — AI adoption among teachers: confidence and support
+- [[ai-pedagogical-orientation]] — Faculty orientations shape AI adoption
+- [[ai-literacy-assessment-misalignment]] — Misalignment between self-reported and performance-based AI competency
+- [[quest-ai-inquiry-preservice-teachers]] — AI-supported inquiry for pre-service teachers
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — EPIQ-AI faculty readiness framework
+- [[ai-acceptance-preservice-science-teachers-2026]] — Perceptions and acceptance of AI among pre-service science teachers
+- [[llm-cultural-relevance-k12]] — LLMs for culturally relevant K-12 pedagogy
+- [[ai-education-global-capacity]] — Global capacity for AI education
+- [[institutional-change-framework-ai]] — Institutional change framework for AI
+- [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
