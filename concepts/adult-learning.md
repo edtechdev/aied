@@ -25,7 +25,6 @@ Research themes include:
 ## Connected Articles
 
 
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines

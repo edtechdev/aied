@@ -75,12 +75,12 @@ The guidelines span four categories:
 
 - [[adult-learning]]
 - [[ai-education]]
-- design-guidelines
-- educational-technology
+- [[adaptive-learning]]
+- [[faculty-development]]
 - [[higher-ed]]
-- human-computer-interaction
+- [[lifelong-learning]]
+- [[personalized-learning]]
 - [[professional-training]]
-
 - [[rag]]
 ## Connected Articles
 
@@ -109,6 +109,12 @@ The guidelines span four categories:
 - [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
 - [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
+- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- [[golrang-propact-pair-programming-2026]] — ProPACT: Pair Programming with AI
+- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers' practices and perceptions
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
 
 ## Citation
 

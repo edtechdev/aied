@@ -48,7 +48,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 
 - [[a4l-analytics-pipeline]]
 - [[adaptive-pretesting-retention]]
-- [[ai-adult-learning-design]]
+- [[ai-adult-learning-guidelines-dis2026]]
 - [[ai-coaching-rl-skill-development]]
 - [[ai-generated-traces-novice-programmers]]
 - [[ai-interlocutor-l2-spoken-dialogue]]
