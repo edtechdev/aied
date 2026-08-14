@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 597 articles and 132 concepts.
+> Complete text of 606 articles and 133 concepts.
 
 # Articles
 
@@ -193,6 +193,49 @@ The work contributes to understanding of [[metacognition]] in educational contex
 
 ## Citation
 Jia, Y., & Xu, J. (2026). [*The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment*](https://doi.org/10.35542/osf.io/4cr8j_v5). EdArXiv Preprint.
+
+---
+
+## [Academic League of Artificial Intelligence: An Integrative Perspective of Teaching, Research, and Extension](https://edtechdev.github.io/aied/articles/academic-league-of-ai-2026/)
+
+> **Synthesis:** Panisson et al. (2026) present the organizational framework of the Academic League of Artificial Intelligence (LIA) at the Federal University of Santa Catarina (UFSC), a student-centered, project-based structure that integrates teaching, research, and university extension. The framework combines democratic governance, collaborative learning, and dynamic project organization to develop both technical and transversal competencies. Representative initiatives include competition teams, study groups, open lectures, knowledge repositories, and AI-powered applications with social impact. The paper argues this is a flexible, replicable model for embedding [[ai-education]] and [[ai-literacy]] into engineering and computing education through extracurricular, community-connected structures rather than formal coursework alone.
+
+## A Model for Extracurricular AI Education
+
+Academic leagues are mechanisms for promoting extracurricular education and strengthening university-society integration. The Academic League of AI at UFSC demonstrates how a [[collaborative-learning]] community can organize around AI education without being bound to a formal curriculum. Its framework rests on three pillars of the university mission: teaching, research, and extension, coordinated through democratic student governance.
+
+## Learning Through Project Organization
+
+Projects such as competition teams and open lectures create [[project-based-learning]] opportunities that develop leadership, scientific production, and community engagement. Knowledge repositories institutionalize what members learn, while AI-powered applications with social impact connect [[computational-thinking]] to real civic problems, embodying [[active-learning]] and [[ai-literacy]] in practice.
+
+## Replicability for AIED
+
+The reported experience offers practical guidance for other academic leagues and student organizations seeking to integrate the three university pillars. It complements formal AIED instruction by providing informal, interest-driven pathways into [[ai-education]], and illustrates how transversal competencies can be fostered through [[student-experience]]-centered governance rather than top-down curricula.
+
+## Connected Concepts
+
+- [[ai-education]]
+- [[higher-ed]]
+- [[collaborative-learning]]
+- [[project-based-learning]]
+- [[active-learning]]
+- [[student-experience]]
+- [[curriculum-design]]
+- [[computational-thinking]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[ai-education-global-capacity]]
+- [[community-centered-ai-education-adults]]
+- [[computational-thinking-ai-agent-creation]]
+- [[curriculum-as-code-instructional-design-2026]]
+- [[ai-adult-learning-guidelines-dis2026]]
+- [[civic-education-ai-lesson-plans]]
+
+## Citation
+
+Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., & colleagues (2026). [*Academic League of Artificial Intelligence: An integrative perspective of teaching, research, and extension*](https://arxiv.org/abs/2608.13447). arXiv:2608.13447.
 
 ---
 
@@ -1218,7 +1261,7 @@ Conducted in Ghana, the work also speaks to [[equity-in-ai-education]] and [[equ
 
 ## Connected Articles
 
-- [[ai-adult-learning-design]] — AI in adult learning design
+- [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
 - [[ai-education-global-capacity]] — Global capacity for AI education
 - [[genai-pd-ai-pck-learning-gain-2026]] — GenAI professional development and AI-PCK
 - [[ai-higher-ed-workforce-survey]] — AI in higher-ed workforce survey
@@ -1273,58 +1316,6 @@ The study is a concrete demonstration that [[ai-literacy]] behaves as a developm
 ## Citation
 
 Vinicius Santana Gomes (2026). [The Main Barrier to AI Adoption in the Public Sector is Lack of Training](https://arxiv.org/abs/2606.01517). arXiv:2606.01517.
-
----
-
-## [Guidelines for Designing AI Technologies to Support Adult Learning](https://edtechdev.github.io/aied/articles/ai-adult-learning-design/)
-
-> A set of 19 empirically-grounded design guidelines for AI-supported learning technologies tailored to adult learners, synthesized by Reddig et al. (2026) from longitudinal deployment data at a US national research institute focused on adult learning and online education.
-
-# AI Design Guidelines for Adult Learning
-
-## Definition
-A set of 19 empirically-grounded design guidelines for AI-supported learning technologies tailored to adult learners, synthesized by Reddig et al. (2026) from longitudinal deployment data at a US national research institute focused on adult learning and online education.
-
-## The Adult Learning Gap
-Most AI educational technology is designed for and evaluated in K-12 contexts. Adult learners have fundamentally different needs: time constraints from work/family, prior knowledge and experience, self-directed learning goals, and different motivation structures. This connects to [[personalized-learning]] but requires distinct design considerations beyond what works for younger learners.
-
-## Design Guidelines
-Derived from reflexive thematic analysis of deployment data across multiple AI learning technologies. The 19 guidelines address recurring challenges including:
-- Accommodating variable time availability
-- Leveraging prior knowledge and experience
-- Supporting self-directed goal-setting
-- Providing just-in-time rather than just-in-case learning
-- Integrating with workplace contexts
-
-## Validation
-A heuristic evaluation of the original deployed systems against the guidelines demonstrated their practical applicability. A companion exploration tool links guidelines to stakeholder statements, supporting designers in contextualizing recommendations.
-
-## Connections to Wiki
-- Extends [[personalized-learning]] into the adult learning domain
-- Complements [[adaptive-learning]] with adult-specific design principles
-- Relevant to [[faculty-development]] as faculty themselves are adult learners
-- Addresses gaps in [[lifelong-learning]] technology design
-
-## Connected Concepts
-
-- [[personalized-learning]]
-- [[adaptive-learning]]
-- [[faculty-development]]
-- [[lifelong-learning]]
-## Connected Articles
-
-
-
-- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers'' practices and perceptions
-- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[golrang-propact-pair-programming-2026]] — ProPACT: Pair Programming with AI
-- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
-- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
-- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
-
-## Citation
-
-Reddig, J.M., Jr, G.R.S., authors), S.A.S.E.A., & 2026, D. (2026). [*Guidelines for Designing AI Technologies to Support Adult Learning*](https://arxiv.org/abs/2605.04616)
 
 ---
 
@@ -1397,12 +1388,12 @@ The guidelines span four categories:
 
 - [[adult-learning]]
 - [[ai-education]]
-- design-guidelines
-- educational-technology
+- [[adaptive-learning]]
+- [[faculty-development]]
 - [[higher-ed]]
-- human-computer-interaction
+- [[lifelong-learning]]
+- [[personalized-learning]]
 - [[professional-training]]
-
 - [[rag]]
 ## Connected Articles
 
@@ -1431,6 +1422,12 @@ The guidelines span four categories:
 - [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
 - [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
+- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- [[golrang-propact-pair-programming-2026]] — ProPACT: Pair Programming with AI
+- [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers' practices and perceptions
+- [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
+- [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
 
 ## Citation
 
@@ -1843,7 +1840,7 @@ The study argues that instructors cannot assume motivation will survive easy AI 
 
 ## Connection to the broader wiki
 
-This paper sits at the intersection of [[over-reliance]], [[motivation]], and [[self-regulated-learning]]. Its emphasis on why *effort feels optional* links to [[ai-availability-student-motivation]]-adjacent work on the cognitive costs of AI, to [[agentic-literacy-debt]] (the cumulative skill deficit from habitual reliance), and to the socio-emotional side documented in [[shame-guilt-ai-regulation-computing-education]]. For instructors, the motivational lens complements the tool-design and assessment-design interventions in [[reducing-ai-misuse]]: students are more likely to use AI productively when they have reasons — not just rules — to do the work themselves.
+This paper sits at the intersection of [[over-reliance]], [[motivation]], and [[self-regulated-learning]]. Its emphasis on why *effort feels optional* links to ai-availability-student-motivation-adjacent work on the cognitive costs of AI, to [[agentic-literacy-debt]] (the cumulative skill deficit from habitual reliance), and to the socio-emotional side documented in [[shame-guilt-ai-regulation-computing-education]]. For instructors, the motivational lens complements the tool-design and assessment-design interventions in [[reducing-ai-misuse]]: students are more likely to use AI productively when they have reasons — not just rules — to do the work themselves.
 
 ## Connected Concepts
 
@@ -1988,6 +1985,7 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[k-12]]
 - [[student-experience]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education
@@ -2010,7 +2008,6 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
@@ -2891,7 +2888,7 @@ By preserving learner access to the original material while adding AI assistance
 - Lecture Review — Lecture review with AI
 - [[ai-generated-instructional-videos-computing-ed]] — AI-generated instructional videos
 - [[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2]] — Emotional AI on L2 learning
-- [[ai-adult-learning-design]] — AI in adult learning design
+- [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
 
 ## Citation
 
@@ -3005,7 +3002,6 @@ The survey reveals a significant policy-awareness gap: despite near-universal AI
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
@@ -3077,7 +3073,7 @@ The analysis also speaks to [[higher-ed]] and [[educational-policy-ai]]: institu
 - [[ai-changing-teaching-workflows]] — How AI changes teaching workflows
 - [[ai-education-global-capacity]] — Global capacity for AI education
 - [[ai-ethics-education-public-discourse]] — AI ethics in public discourse
-- [[ai-adult-learning-design]] — AI in adult learning design
+- [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
 - [[pchl-he-framework-genai-content-creation-2026]] — PCHL-HE framework for content creation
 
 ## Citation
@@ -4404,6 +4400,7 @@ The study is cross-sectional and based entirely on self-report, so structural pa
 - [[stem-education]]
 - [[faculty-development]]
 - [[teacher-role]]
+- [[tpack]]
 ## Connected Articles
 
 - [[teacher-control-ai-generation-math-visuals]]
@@ -4452,6 +4449,7 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 - [[teacher-ai-competency]]
 - [[faculty-development]]
 - [[agentic-ai]]
+- [[tpack]]
 ## Connected Articles
 
 - [[teacher-ai-adoption-confidence]]
@@ -4474,6 +4472,7 @@ PromptDecipher addresses a critical gap in AI tutor deployment: teacher quality 
 ## Connected Concepts
 
 - [[teacher-role]]
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]]
@@ -5225,6 +5224,7 @@ The finding that ChatGPT dominates pre-service teacher AI use echoes broader tre
 - [[ai-education]]
 - [[teacher-ai-competency]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes
@@ -5236,6 +5236,49 @@ The finding that ChatGPT dominates pre-service teacher AI use echoes broader tre
 ## Citation
 
 Amponsah, K. D., Adu-Boahen, J., Commey-Mintah, P., Kumassah, E. K., Ayittey, R. F., & Nketsiah, J. (2026). [*Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers*](https://doi.org/10.35542/osf.io/7yqbe_v1). EdArXiv. doi:10.35542/osf.io/7yqbe_v1. (Published in *Advances in Research*, doi:10.31014/aior.1993.09.03.724).
+
+---
+
+## [What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning](https://edtechdev.github.io/aied/articles/andragogy-cognitive-delegation-genai-2026/)
+
+> **Synthesis:** Hyoung (2026) revisits Knowles's six andragogical assumptions under AI-mediated cognitive delegation. Because generative AI can participate in identifying needs, setting goals, interpreting information, solving problems, producing outputs, and evaluating performance, the paper argues that behavioral independence is insufficient evidence of meaningful self-direction. Five analytical dimensions are derived — need and goal ownership, delegation control, epistemic calibration, cognitive recoverability and transfer, and motivational autonomy — to assess whether learners remain genuinely self-directed. The work bridges [[adult-learning]] with [[cognitive-offloading]], [[self-regulated-learning]], and appropriate-reliance research for [[adult-learning]] in the [[generative-ai]] era.
+
+## Andragogy Meets Cognitive Delegation
+
+Self-direction is foundational to adult and lifelong learning, yet generative AI can now participate in every stage of the learning process. This conceptual paper revisits Knowles's andragogical assumptions, arguing that completing a task independently of visible AI help does not necessarily mean the learner directed the cognitive work.
+
+## Five Dimensions of Self-Direction
+
+The paper integrates adult-learning theory with [[cognitive-offloading]], extended and distributed cognition, human-automation function allocation, agentic information-system delegation, and appropriate reliance. It derives five analytical dimensions: need and goal ownership, delegation control, epistemic calibration, cognitive recoverability and transfer, and motivational autonomy. These operationalize what meaningful self-direction requires once cognitive work is delegated to AI.
+
+## Implications for Adult AIED
+
+The framework challenges educators to evaluate not just outputs but the distribution of cognitive agency, connecting [[agency]], [[metacognition]], [[trust-calibration]], and [[motivation]] in [[lifelong-learning]]. It reframes [[adult-learning]] as an active design goal rather than an assumed default in AI-mediated learning environments.
+
+## Connected Concepts
+
+- [[adult-learning]]
+- [[self-regulated-learning]]
+- [[cognitive-offloading]]
+- [[agency]]
+- [[lifelong-learning]]
+- [[generative-ai]]
+- [[metacognition]]
+- [[trust-calibration]]
+- [[motivation]]
+- [[over-reliance]]
+
+## Connected Articles
+
+- [[ai-adult-learning-guidelines-dis2026]]
+- [[ai-lifelong-learning-policy]]
+- [[cognitive-offloading-llm-synthesis-writing]]
+- [[genai-over-reliance-learning-2026]]
+- [[agency-gap-ai-writing]]
+
+## Citation
+
+Hyoung, J. J. (2026). [*What remains self-directed? Revisiting andragogy through cognitive delegation in generative AI-mediated adult learning*](https://osf.io/preprints/edarxiv/dh4mx_v1/). EdArXiv preprint.
 
 ---
 
@@ -5936,6 +5979,49 @@ This study examines the critical influence of technical and structural factors o
 
 ## Citation
 Ogunsakin, R., Okonu, D., & Nwokeocha, P. (2026). [*Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms*](https://doi.org/10.1111/bjet.70066). *British Journal of Educational Technology.*
+
+---
+
+## [A Bilingual, LLM-Mediated Lecture Companion for Self-Regulated Learning: Architecture, Theoretical Framework, Comparative and Usability Evaluation, and a Pre-Registered Outcomes Protocol](https://edtechdev.github.io/aied/articles/bilingual-llm-lecture-companion-srl-2026/)
+
+> **Synthesis:** Malhotra (2026) describes a browser-based lecture companion built for bilingual and connectivity-limited contexts, specifically the English-Hindi and 'Hinglish' mixing common in Indian classrooms. It records live lectures, transcribes them in the browser, and uses an LLM to turn transcripts into structured notes and study material, addressing conditions that most published systems ignore: tidy single-language English audio and reliable internet. The paper presents the architecture, theoretical framework, comparative and usability evaluations, and a pre-registered outcomes protocol. It advances [[self-regulated-learning]] support and [[accessible-learning]] for multilingual and resource-constrained [[higher-ed]] settings, connecting to [[language-learning]] and the [[digital-divide]].
+
+## Built for Real Classroom Conditions
+
+Most published LLM lecture-note systems assume tidy, single-language English audio in well-connected settings — conditions that exclude many students. Across much of undergraduate education outside North America and Western Europe, instructors move between English and a home language mid-sentence, and reliable internet access cannot be assumed in classrooms or hostels. This lecture companion is designed for those conditions.
+
+## Architecture and Bilingual Transcription
+
+The browser-based system records lectures in English, Hindi, or Hinglish (the English-Hindi mixing characteristic of Indian classrooms), transcribes them in the browser, and uses a language model to turn the transcript into structured notes and study material. On-device transcription addresses connectivity constraints, making the tool usable where cloud dependence would fail.
+
+## Supporting Self-Regulated Learning
+
+The companion operationalises [[self-regulated-learning]] by turning ephemeral lectures into persistent, structured learning resources that students can revisit and reorganise. Its comparative and usability evaluations, plus a pre-registered outcomes protocol, connect [[llm]] study support to [[language-learning]], [[accessible-learning]], [[accessible-learning]], and equity goals in resource-constrained [[higher-ed]], speaking directly to the [[digital-divide]].
+
+## Connected Concepts
+
+- [[llm]]
+- [[self-regulated-learning]]
+- [[language-learning]]
+- [[accessible-learning]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[digital-divide]]
+- [[student-experience]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[ai-guided-learning-audiovideo-2026]]
+- [[scheu-mobile-chatbot-journaling-motivation-2026]]
+- [[kutti-ai-voice-first-learning-companion]]
+- [[international-students-conversational-ai-adaptation]]
+- [[savvy-student-attention-video-learning]]
+- [[genai-differentiated-eap-reading-materials-2026]]
+
+## Citation
+
+Malhotra, T. (2026). [*A bilingual, LLM-mediated lecture companion for self-regulated learning: Architecture, theoretical framework, comparative and usability evaluation, and a pre-registered outcomes protocol*](https://osf.io/preprints/edarxiv/95rjw_v1/). EdArXiv preprint.
 
 ---
 
@@ -7253,7 +7339,6 @@ Codify represents the trend toward LLM-powered tutoring systems that combine con
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
@@ -7940,6 +8025,7 @@ The focus on teacher agency and modification is critical. Rather than generating
 - [[human-in-the-loop-ai]]
 - [[k-12]]
 - [[instructional-design]]
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]]
@@ -8738,7 +8824,7 @@ The findings connect to [[ethics]] and [[equity-in-ai-education]] debates: if te
 - [[ai-ethics-education-public-discourse]] — AI ethics in public discourse
 - [[ai-education-global-capacity]] — Global capacity for AI education
 - [[ai-changing-teaching-workflows]] — How AI changes teaching workflows
-- [[ai-adult-learning-design]] — AI in adult learning design
+- [[ai-adult-learning-guidelines-dis2026]] — AI in adult learning design
 - [[elementary-writing-genai-systematic-review-2026]] — Elementary writing and GenAI review
 
 ## Citation
@@ -9159,6 +9245,7 @@ CyberScholar demonstrates rubric-grounded [[rag]] for formative writing feedback
 - [[human-in-the-loop-ai]]
 - [[faculty-development]]
 - [[teacher-role]]
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]]
@@ -10038,6 +10125,66 @@ EduMirror introduces a multi-agent simulator for studying educational social dyn
 ## Citation
 
 Lin, J., Yu, H., Zeng, Y., & Zhong, F. (2026). [*EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation*](https://arxiv.org/abs/2606.07948). arXiv:2606.07948.
+
+---
+
+## [Integrating Generative Artificial Intelligence into Student Learning: A Systematic Review from a TPACK Perspective](https://edtechdev.github.io/aied/articles/edurev-100741-tpack-genai-review/)
+
+> **Synthesis:** Liu and Zhong (2025) systematically review 71 high-quality empirical studies (74 effect sizes) of generative AI integration into student learning, published after ChatGPT's release (November 30, 2022), through the lens of the [[tpack|TPACK]] framework. A random-effects meta-analysis finds a medium-to-large overall effect on learning outcomes (Hedges' g = 0.752, 95% CI [0.566, 0.937]), with strong cognitive (g = 0.831) and affective (g = 0.729) gains but a negligible effect on behavioral engagement. The review identifies two critical priorities: developing students' GenAI literacy and establishing GenAI-TPACK professional development for teachers.
+
+## Key Findings
+
+- **Overall positive effect.** Across 47 journal articles and 74 effect sizes, learners using GenAI outperformed control groups (Hedges' g = 0.752, p < 0.001), a medium-to-large effect.
+- **Domain-specific outcomes.** GenAI showed a strong effect on cognitive outcomes (SMD = 0.831, 95% CI [0.596, 1.066]) and a medium-to-large effect on affective outcomes (SMD = 0.729, 95% CI [0.414, 1.044]), but only a small, non-significant effect on behavioral engagement (SMD = 0.057, p = 0.828).
+- **Uneven adoption.** GenAI is more widely applied in [[higher-ed|higher education]] than in K-12; quasi-experimental designs dominate; most studies focus on pedagogical development rather than curriculum development.
+- **GenAI as a tool role.** GenAI most often acted as a learning tool, with tool roles varying by discipline. Pedagogical scaffolding of GenAI use was frequently incomplete.
+- **Moderating variables.** Research method/focus and key instructional-design variables (learning content, tool, strategy, assessment, outcome) moderated learning outcomes.
+- **Two critical priorities.** (1) GenAI literacy development for students, and (2) GenAI-TPACK professional development for teachers.
+
+## Research Landscape
+
+The 71 studies span publishing year, country/region, authorship type, sample size, learning stage, educational setting, duration, and research method. GenAI-integrated student learning has attracted global attention, is concentrated in higher education, and is dominated by quasi-experimental designs that require larger samples and longer durations than other methods. The review emphasizes the need for international collaboration, exploration of pedagogical strategies for K-12 higher-order thinking, more rigorous controlled experiments, and systematic curricula for introducing GenAI.
+
+## The TPACK Lens
+
+The review applies the [[tpack|TPACK]] framework to identify what knowledge teachers need to integrate GenAI effectively into student learning. It synthesizes GenAI-related competencies across the framework's domains — technological knowledge (operating GenAI, examining its benefits/limitations and ethical implications), pedagogical knowledge (scaffolding student use), and content knowledge (integrating AI within subject-matter instruction). This positions GenAI-TPACK professional development as a core requirement for realizing AI's benefits while mitigating misuse risk, connecting to the wiki's [[teacher-ai-competency]] and [[faculty-development]] research.
+
+## Design Implications
+
+1. **Scaffold GenAI use deliberately.** Given incomplete pedagogical scaffolding across studies, GenAI integration must pair tool access with structured pedagogical support.
+2. **Develop student GenAI literacy.** Teaching students to understand, evaluate, and responsibly use GenAI is a critical, underexplored priority.
+3. **Build GenAI-TPACK through professional development.** Teachers need integrated technological-pedagogical-content knowledge, not isolated tool training.
+4. **Broaden beyond higher education.** GenAI's application in K-12 and the development of systematic AI curricula remain gaps.
+
+## Connected Concepts
+
+- [[tpack]]
+- [[teacher-ai-competency]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[instructional-design]]
+- [[assessment]]
+- [[scaffolding]]
+- [[student-experience]]
+- [[higher-ed]]
+- [[k-12]]
+- [[meta-analysis-systematic-review]]
+- [[faculty-development]]
+
+## Connected Articles
+
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
+- [[genai-pd-ai-pck-learning-gain-2026]] — Intensive GenAI professional development and AI-PCK gains
+- [[teacher-ai-teaming-five-levels]] — Five-level teacher-AI teaming framework
+- [[ai-tpack-preservice-math-teachers]] — AI-TPACK readiness among pre-service mathematics teachers
+- [[teacher-ai-adoption-confidence]] — Teacher confidence and AI adoption
+- [[sec-ai-literacy-narrative-review-2026]] — Social-emotional competencies and AI literacy
+- [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
+- [[agentic-ai-education-scoping-review]] — Agentic AI in education scoping review
+
+## Citation
+
+Liu, X., & Zhong, B. (2025). [*Integrating generative Artificial Intelligence into student learning: A systematic review from a TPACK perspective*](https://doi.org/10.1016/j.edurev.2025.100741). *Educational Research Review*, 49, 100741.
 
 ---
 
@@ -11672,6 +11819,49 @@ Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). [Generative AI as a design variabl
 
 ---
 
+## [Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing](https://edtechdev.github.io/aied/articles/genai-assisted-problem-posing-physics-2026/)
+
+> **Synthesis:** Dawson and Rebello (2026) investigate students' perceptions of generative AI-assisted problem posing, a pedagogical practice in which learners generate novel problems or variations to strengthen transfer and problem-solving in physics. Using a phenomenological approach, they found that students perceived a positive change in their AI interactions after receiving prompt-engineering training, and held generally positive views of problem posing as a self-study technique, though a smaller subset showed hesitations about using AI. The study suggests structured training can help students use [[generative-ai]] productively in physics while mitigating risks, positioning problem posing as a [[self-regulated-learning]] strategy.
+
+## Problem Posing as a Learning Practice
+
+Problem posing — asking students to generate novel problems or meaningful variations — supports [[transfer-of-learning]] and strengthens problem-solving in physics. It is challenging for novices, who benefit from structured support. This study positions GenAI as a tool to facilitate problem posing in ways that maximize benefits and limit risks.
+
+## Training Shapes AI Interactions
+
+Students were introduced to GenAI-assisted problem posing as a self-study technique and received training on [[prompt-engineering]] techniques. A phenomenological analysis found students perceived a positive change in their interactions with GenAI after training, and positive attitudes toward the problem-posing technique itself, with a subset expressing hesitation about GenAI. This suggests that how students are trained to interact with AI shapes both the quality of interaction and their confidence.
+
+## Toward Structured Study Techniques
+
+The findings lay a foundation for broader [[prompt-engineering]] training and for incorporating GenAI into structured study practices like problem posing, connecting to [[self-regulated-learning]], [[motivation]], and [[student-experience]] in [[physics-education]]. It complements work on AI-generated solutions by emphasizing learner-generation of problems rather than consumption of answers.
+
+## Connected Concepts
+
+- [[physics-education]]
+- [[generative-ai]]
+- [[prompt-engineering]]
+- [[transfer-of-learning]]
+- [[active-learning]]
+- [[self-regulated-learning]]
+- [[student-experience]]
+- [[motivation]]
+- [[scaffolding]]
+
+## Connected Articles
+
+- [[probing-ai-generated-physics-solutions-2026]]
+- [[becker-chatgpt-typology-physics-2026]]
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[genai-ar-physics-simulation-prompt-2026]]
+- [[physics-chatbot-epistemological-beliefs-2026]]
+- [[ai-generated-smartphone-circular-motion-lab-2026]]
+
+## Citation
+
+Dawson, L., & Rebello, N. S. (2026). [*Exploring students' perceptions of using generative AI-assisted problem posing*](https://arxiv.org/abs/2608.12523). arXiv:2608.12523.
+
+---
+
 ## [Generative AI Availability, Grades, and Student Satisfaction at a Large University](https://edtechdev.github.io/aied/articles/genai-availability-grades-satisfaction/)
 
 This large-scale observational study tests the "GenAI substitution hypothesis" — the concern that students offload cognitive effort to [[generative-ai]] and earn inflated grades without learning. Using syllabus and administrative data from a large U.S. university (2015–2025; 156,135 students; 87,936 course offerings), the authors measure each course's GenAI susceptibility with a human-validated LLM pipeline that extracts assessment types from syllabi, then apply a difference-in-differences design comparing outcomes before and after ChatGPT's release while modeling COVID-19 effects as persistent or transient. They find **no significant differential effect** of GenAI availability on grades overall or among previously lower-performing students, and no significant effect on self-reported understanding; effects on subject interest are significant only under a transient-pandemic assumption. The findings temper alarm about grade inflation and satisfaction erosion, complementing [[ai-availability-student-motivation]] and the mixed picture in [[generative-ai-reduced-study-time-math]]. The null result is notable against theoretical worries about [[cognitive-offloading]] and situates [[student-experience]] concerns in [[higher-ed]] on firmer empirical ground.
@@ -11749,7 +11939,7 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
@@ -12195,6 +12385,7 @@ Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh (2026). [G
 - [[higher-ed]]
 - [[k-12]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[hcap-human-centric-ai-pedagogy-framework-2026]]
@@ -12545,6 +12736,7 @@ For [[professional-training]] and institutional [[educational-policy-ai]], the f
 - [[professional-training]]
 - [[teacher-ai-competency]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK teacher multi-agent workflow
@@ -12759,6 +12951,7 @@ The study is a qualitative, activity-theoretical case study at a single institut
 - [[higher-ed]]
 - [[stem-education]]
 - [[faculty-development]]
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tpack-preservice-math-teachers]]
@@ -13539,7 +13732,7 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 - [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
 - [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
@@ -14037,6 +14230,7 @@ The study's consensus was derived from a panel of 30 teachers, and the 75% agree
 - [[ethics]]
 - [[instructional-design]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tpack-preservice-math-teachers]] — AI-TPACK and Pre-Service Math Teachers
@@ -15188,7 +15382,6 @@ Evaluated across 5 university-level courses using both human and automated revie
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
@@ -15235,6 +15428,55 @@ Demonstrates that the effectiveness of AI-supported learning depends critically 
 ## Citation
 
 Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. [arXiv:2606.05509](https://arxiv.org/abs/2606.05509).
+
+---
+
+## [Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory](https://edtechdev.github.io/aied/articles/instructor-designed-ai-tutors-foreign-language-sdt-2026/)
+
+> **Synthesis:** Lee and Kwon (2026) report a mixed-methods study of an instructor-designed, customized Japanese-language GPT tutor in a South Korean university general-education course, drawing on self-determination theory (SDT) and the noticing hypothesis. With 74 undergraduates, they find that continuous use of the instructor-built AI tutor was associated with high satisfaction of autonomy and relatedness needs, three distinct cognitive-noticing experiences, and learner perceptions of the tool as a structured learning environment rather than a convenience tool. The central claim is that the educational effectiveness of generative AI in foreign language learning depends less on frequency of use than on the quality of pedagogical design underlying its deployment.
+
+## Key Findings
+
+- **Autonomy-supportive design.** Learners reported high perceived helpfulness for self-directed learning (M = 4.39, SD = 0.70) and a positive change in learning motivation (M = 3.95). Autonomy was realized within an instructor-designed system aligned to course objectives, not through general-purpose ChatGPT use alone.
+- **Production-oriented competence gains.** Competence satisfaction was comparatively lower overall (early-stage learners did not yet perceive performance gains), but domains tied to production — writing, vocabulary, sentence generation — showed relatively higher means, and autonomy perceptions correlated most strongly with production-oriented activities.
+- **Relatedness through affective safety.** Immediate feedback (78.4%) and affective safety (60.8%) were the most-endorsed relatedness indicators. The instructor-designed GPTs functioned as nonjudgmental, immediately responsive practice spaces for learners anxious about making errors in class.
+- **Three noticing experiences (RQ2).** Qualitative analysis identified (1) AI-supported clarification of linguistic form, (2) noticing through intentional error generation plus AI feedback, and (3) metacognitive regulation of learning strategies.
+- **Design over frequency.** Out-of-class usage frequency showed no significant correlation with SDT variables — how the tool is used and under what design conditions matters more than how often.
+- **Reconfigured learning mode (RQ3).** Learners shifted from passive memorization/answer-confirmation toward active, interaction-based, output-oriented learning, and attributed the psychological safety they felt to the instructor's pedagogical and relational design (e.g., one learner contrasted "a rational type" general GPT with the instructor's "very bright" customized GPT).
+
+## Design Implications
+
+1. **Instructor-designed AI tutors** (customized GPTs scoped to course objectives, learner proficiency, and a curated knowledge base) can structure AI-mediated practice more consistently than unstructured general-purpose chatbot use.
+2. **Intentional error generation + AI feedback** (a three-stage sequence of knowledge activation, deliberate error production, and context-based sentence production) operationalizes the noticing hypothesis in AI-mediated tasks.
+3. **Affective safety is a product of instructional design**, not of the technology itself — nonjudgmental, immediately responsive interaction supports relatedness for error-anxious learners.
+4. **Complementarity over substitution**: AI tutors work best alongside existing methods; learners noted usage limits and individual learning-style preferences (e.g., handwriting) as constraints.
+
+## Connected Concepts
+
+- [[language-learning]]
+- [[self-regulated-learning]]
+- [[generative-ai]]
+- [[ai-tutoring]]
+- [[intelligent-tutoring]]
+- [[motivation]]
+- [[agency]]
+- [[metacognition]]
+- [[personalized-learning]]
+- [[feedback-loop]]
+- [[student-experience]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[llm-facilitation-timing-online-discussions]] — LLM Facilitation Timing in Online Discussions
+- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
+- [[curiobot-llm-tutoring-exploratory-learning]] — CurioBot: LLM Tutoring for Exploratory Learning
+- [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education
+
+## Citation
+
+Lee, H., & Kwon, H. (2026). [*Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory*](https://doi.org/10.3390/higheredu5030078). *Trends in Higher Education*, 5(3), 78.
 
 ---
 
@@ -15764,8 +16006,8 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 ## Connected Concepts
 
 - [[ai-tutoring]]
+- [[desirable-difficulties]]
 - [[higher-ed]]
-- learning-by-teaching
 - [[personalized-learning]]
 - [[scaffolding]]
 - [[student-experience]]
@@ -15786,7 +16028,6 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
@@ -16124,7 +16365,6 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
@@ -16460,7 +16700,7 @@ LearnMate^2 addresses the **personalization gap** in online learning: while onli
 - **Comparative evaluation (n=16)** against a state-of-the-art online learning platform plus an LLM
 - **Results:** LearnMate^2 improved both learning outcomes and user experience vs. the baseline
 
-The study demonstrates that LLM-powered [[personalized-learning]] can bridge the guidance gap in open online education. This connects to the broader [[adaptive-learning]] literature and extends findings from [[learnmate2-llm-adaptive-learning]] prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai]] vision of integrated educational AI.
+The study demonstrates that LLM-powered [[personalized-learning]] can bridge the guidance gap in open online education. This connects to the broader [[adaptive-learning]] literature and extends findings from learnmate2-llm-adaptive-learning prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai]] vision of integrated educational AI.
 
 The work also contributes to understanding how [[scaffolding]] can be implemented at scale in digital environments, complementing [[ai-metacognition-stem-review]] findings on metacognitive support tools.
 
@@ -16495,7 +16735,6 @@ The work also contributes to understanding how [[scaffolding]] can be implemente
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
@@ -20268,7 +20507,7 @@ However, educators and designers should be cautious about the [[correct-answer-t
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
@@ -20298,7 +20537,7 @@ This study challenges the assumption that emotional design in educational AI pro
 
 ## Connected Articles
 - [[ai-in-the-wild-college]]
-- [[ai-adult-learning-design]]
+- [[ai-adult-learning-guidelines-dis2026]]
 - [[test-driven-ai-assisted-learning]]
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
 
@@ -21506,6 +21745,49 @@ Zhou, A.R.B.S.W.Y. & place), V.N.E.H. (2026). [*Prober.ai: Gated Inquiry-Based F
 
 ---
 
+## [Probing AI-Generated Physics Solutions and Preparing Students to Critique Them](https://edtechdev.github.io/aied/articles/probing-ai-generated-physics-solutions-2026/)
+
+> **Synthesis:** Borse et al. (2026) examine AI-generated physics solutions from two connected angles: how prompt design shapes solution quality and how students can be prepared to critique those solutions. Using a rotational-mechanics problem and the Minnesota Assessment of Problem Solving (MAPS) rubric, they show well-specified prompts improve completeness while underspecified and multimodal prompts expose weaknesses in physics reasoning. In a student-evaluation phase with 24 introductory physics lab groups, MAPS-guided reflection produced more expert-aligned critiques than problem-solving-only training, which yielded uncritical or misconception-based assessments. The study grounds both model-reasoning benchmarks and student [[ai-literacy]] training in physics education research.
+
+## Prompt Design Shapes Solution Quality
+
+Adapting a problem-classification framework, the authors evaluated OpenAI o4-mini responses with the MAPS rubric across prompt variations. Well-specified prompts improved solution completeness, whereas underspecified and multimodal prompts exposed weaknesses in physics reasoning and correctness — evidence that [[prompt-engineering]] quality directly determines the reliability of AI-generated solutions students encounter.
+
+## Preparing Students to Critique
+
+Twenty-four introductory physics lab groups evaluated an o4-mini solution either after independently solving a related problem or after critiquing the AI-generated solution with MAPS-based reflection questions. Problem-solving-only groups produced uncritical or misconception-based critiques; MAPS-guided groups identified expert-aligned issues including skipped numerical procedures and undefined notation. This shows critique training is a scaffoldable [[critical-thinking]] skill rather than an automatic byproduct of problem-solving experience.
+
+## Implications for Physics AIED
+
+The approach integrates model-reasoning benchmarks with pedagogical intervention, connecting [[physics-education]], [[metacognition]], and [[ai-literacy]]. Reflection rubrics turn AI fallibility into a learning resource, supporting [[research-methods-aied]] work on evaluating both AI outputs and students' evaluation of them.
+
+## Connected Concepts
+
+- [[physics-education]]
+- [[ai-literacy]]
+- [[critical-thinking]]
+- [[generative-ai]]
+- [[prompt-engineering]]
+- [[assessment]]
+- [[student-experience]]
+- [[research-methods-aied]]
+- [[metacognition]]
+
+## Connected Articles
+
+- [[ai-scoring-language-bias-physics]]
+- [[becker-chatgpt-typology-physics-2026]]
+- [[socratic-ai-physics-tutor-taxonomy-2026]]
+- [[hashmi-socratic-physics-chatbot-2025]]
+- [[physics-chatbot-epistemological-beliefs-2026]]
+- [[genai-ar-physics-simulation-prompt-2026]]
+
+## Citation
+
+Borse, N. S., Bralin, A., Savage, S., & Rebello, N. S. (2026). [*Probing AI-generated physics solutions and preparing students to critique them*](https://arxiv.org/abs/2608.12533). arXiv:2608.12533.
+
+---
+
 ## [Programming Intelligent Tutoring Systems](https://edtechdev.github.io/aied/articles/programming-its/)
 
 > **SCRIPT** (Deriyeva, Dannath, Paassen, 2026) implements an intelligent tutoring system for **Python programming** in a German university context, filling a gap in prior ITS which rarely supported Python.
@@ -22014,6 +22296,7 @@ Aligned with the UNESCO AI Competency Framework for Teachers and the OECD/Europe
 - [[automated-essay-scoring]]
 - [[curriculum-design]]
 
+- [[tpack]]
 ## Connected Articles
 
 
@@ -23002,6 +23285,7 @@ As a narrative review, the study faces potential selection bias and subjective i
 - [[social-emotional-learning]]
 - [[self-regulated-learning]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy
@@ -23868,6 +24152,50 @@ Ethan Dickey, Marios Mertzanidis, Alexandros Psomas (2026). [Is Solving Better T
 
 ---
 
+## [Atmospheric Regulation in the Age of Generative AI: The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education](https://edtechdev.github.io/aied/articles/sovereign-hive-titl-further-education-2026/)
+
+> **Synthesis:** Herron (2026) introduces a conceptual framework developed through practitioner-led inquiry in an Irish Youthreach setting, centring marginalised Further Education and Training learners. The paper uses a 'Mars Gravity' metaphor to describe the intensified pressure of overlapping neurodivergent, social, and psychological burdens; when these exceed available resources, learners enter 'Barren Mars Gravity,' a state of cognitive and relational collapse. In response, the 'Sovereign Hive' is proposed as a relational learning environment functioning as an atmospheric regulator, operationalised by the Tutor-in-the-Loop (TITL) framework. The work reframes [[generative-ai]] equity as atmospheric regulation rather than mere tool access, connecting [[cognitive-offloading]], [[metacognition]], and [[neurodiversity]] in [[adult-learning]] contexts.
+
+## The Productivity Dividend vs. Cognitive Collapse
+
+As generative AI permeates education, a divide has emerged between those reaping a 'productivity dividend' and those facing cognitive collapse through invisible offloading. The paper situates this in Further Education, where marginalised learners carry overlapping burdens that an unregulated AI environment can intensify rather than relieve.
+
+## Mars Gravity and the Sovereign Hive
+
+Using the metaphor of Mars Gravity (MG) for intensified pressure, the author describes 'Barren Mars Gravity' (BMG) as a state of cognitive and relational collapse when available resources are exceeded. The 'Sovereign Hive' is a relational learning environment that functions as an atmospheric regulator, and the Tutor-in-the-Loop (TITL) framework operationalises this regulation so human tutors remain the locus of relational and cognitive care. This foregrounds [[well-being]], [[neurodiversity]], and [[equity-in-ai-education]] over purely technical integration.
+
+## Regulating the Learning Atmosphere
+
+The framework positions the educator as an atmospheric regulator who modulates how AI-mediated [[cognitive-offloading]] interacts with learner resources, guarding against [[over-reliance]] and [[ai-misuse-learning-harm]]. It offers a practice-grounded model for equitable GenAI integration in [[adult-learning]] and Further Education settings that are often absent from mainstream AIED research, addressing the [[digital-divide]] rather than assuming universal access benefits.
+
+## Connected Concepts
+
+- [[equity-in-ai-education]]
+- [[generative-ai]]
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[neurodiversity]]
+- [[adult-learning]]
+- [[well-being]]
+- [[digital-divide]]
+- [[over-reliance]]
+- [[ai-misuse-learning-harm]]
+
+## Connected Articles
+
+- [[genai-over-reliance-learning-2026]]
+- [[cognitive-offloading-llm-synthesis-writing]]
+- [[digital-literacy-illusion]]
+- [[efficiency-gain-illusion-ai-overreliance]]
+- [[access-not-enough-ai-tutoring-2026]]
+- [[genai-can-harm-teaching-rct-2026]]
+
+## Citation
+
+Herron, M. B. (2026). [*Atmospheric regulation in the age of generative AI: The sovereign hive and the tutor-in-the-loop (TITL) framework for equity in further education*](https://osf.io/preprints/edarxiv/jqaxz_v1/). EdArXiv preprint.
+
+---
+
 ## [Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training](https://edtechdev.github.io/aied/articles/special-r1-rl-special-education/)
 
 > **Authors:** Unggi Lee, Jihoi Na, Yeil Jeong, Haeun Park, Yeonju Jang (2026)
@@ -24131,7 +24459,6 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
@@ -24332,6 +24659,49 @@ Chen, Sakhnini and Istead run a three-wave longitudinal study in a senior softwa
 ## Citation
 
 Helen Weixu Chen, Victoria Sakhnini, Lesley Istead (2026). [Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets](https://arxiv.org/abs/2607.24736). arXiv:2607.24736.
+
+---
+
+## [Toward Convergence in Student-LLM Interactions: A Rapid Scoping Review and Taxonomy for Learning-Oriented Use](https://edtechdev.github.io/aied/articles/student-llm-interaction-taxonomy-review-2026/)
+
+> **Synthesis:** Borchers, Jansen, and Weidlich (2026) conduct a rapid scoping review of how student interactions with large language models are defined and categorized, finding that research remains conceptually fragmented. Across 46 categorizations drawn from 33 studies, they identify substantial variation in data sources, category-construction approaches, and units of analysis, which prevents comparison across studies and understanding of when LLM use supports learning. The review argues for a convergent taxonomy of learning-oriented [[llm]] interactions. It provides a methodological foundation for the [[student-experience]] literature and for interpreting [[learning-analytics]] and self-regulatory evidence across heterogeneous studies.
+
+## A Fragmented Field
+
+Generative LLMs are widely used by students, yet research on their role in learning remains conceptually fragmented. Existing studies describe student interactions using heterogeneous and often incompatible categories, ranging from speculative use cases to fine-grained dialogue acts, making it difficult to compare findings across studies and to understand when and how LLM use supports learning.
+
+## Method and Variation
+
+This rapid scoping review examines prior work on student-LLM interactions with a focus on how interaction types are defined and constructed. Across 46 categorizations drawn from 33 studies, the authors identify substantial variation in data sources, category-construction approaches, and units of analysis, reflecting divergent theoretical commitments and research purposes.
+
+## Toward a Shared Taxonomy
+
+The lack of shared terminology motivates a convergent taxonomy of learning-oriented use. The review situates these interaction categories within [[self-regulated-learning]] and [[learning-analytics]], supporting [[research-methods-aied]] for synthesizing evidence on [[ai-feedback-quality]] and the conditions under which student-LLM engagement produces learning rather than mere completion.
+
+## Connected Concepts
+
+- [[llm]]
+- [[generative-ai]]
+- [[student-experience]]
+- [[learning-analytics]]
+- [[meta-analysis-systematic-review]]
+- [[higher-ed]]
+- [[self-regulated-learning]]
+- [[assessment]]
+- [[ai-feedback-quality]]
+
+## Connected Articles
+
+- [[tracing-genai-literacy-interaction-patterns]]
+- [[llm-sentiment-analysis-education-research]]
+- [[student-rationalization-ai-writing]]
+- [[students-llm-usage-critical-thinking]]
+- [[learnmate2-llm-adaptive-learning]]
+- [[ai-generated-feedback-higher-ed]]
+
+## Citation
+
+Borchers, C., Jansen, S., & Weidlich, J. (2026). [*Toward convergence in student-LLM interactions: A rapid scoping review and taxonomy for learning-oriented use*](https://osf.io/preprints/edarxiv/s74t8_v1/). EdArXiv preprint.
 
 ---
 
@@ -25266,6 +25636,7 @@ This paper provides empirical clarity for [[teacher-role]] policy: institutional
 
 - [[teacher-role]]
 - [[faculty-development]]
+- [[tpack]]
 ## Connected Articles
 
 
@@ -25324,6 +25695,7 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 - [[ai-education]]
 - [[instructional-design]]
 
+- [[tpack]]
 ## Connected Articles
 
 
@@ -25439,6 +25811,7 @@ The study's context is secondary school teachers (largely in Chinese/Hong Kong a
 - [[motivation]]
 - [[self-determination-theory]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[genai-literacy-training-teacher-education-dbr-2026]] — Development and Evaluation of AI Literacy Training for Teachers
@@ -25631,6 +26004,7 @@ Expert evaluations compared TeachingCoach with a GPT-4o baseline in a zero-shot 
 - [[affective-tutoring]]
 - [[curriculum-design]]
 
+- [[tpack]]
 ## Connected Articles
 
 
@@ -26032,6 +26406,47 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 ## Citation
 
 Engelhardt, L. (2026). A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI. [arXiv:2607.15518](https://arxiv.org/abs/2607.15518) [physics.ed-ph]. https://doi.org/10.48550/arXiv.2607.15518
+
+---
+
+## [Jointly Predicting Courses and Grades Using a Transformer-Based Model (TRACE)](https://edtechdev.github.io/aied/articles/trace-course-grade-prediction-2026/)
+
+> **Synthesis:** Savala (2026) introduces TRACE (Transformer for Academic Course-grade Estimation), a model that jointly predicts both the set of courses a student will take and the grades they will receive in an upcoming semester. By encoding courses on a per-semester basis to capture course-concurrency effects and using a novel loss combining course-set and grade prediction, the model reduces mean absolute error by nearly 50% versus a grades-only architecture on ten years of institutional data. It also outperforms LSTM-sequential and graph-neural-network baselines while remaining interpretable and adaptable to new institutions. The work advances [[learning-analytics]] and [[student-modeling]] by treating academic history as concurrently structured rather than a simple sequence.
+
+## Concurrency in Academic Modeling
+
+Existing predictive models in learning analytics treat student academic history as a simple sequence, overlooking the concurrent nature of courses taken within a semester — a simplification that hurts predictions for students with heavy or challenging course loads. TRACE addresses this by encoding courses per-semester and jointly predicting course selection and grades, capturing the interrelations between what students choose to take and how they perform.
+
+## Joint Prediction as an Inductive Bias
+
+A novel loss function combines course-set prediction with grade prediction. The paper shows that predicting courses taken, in addition to the grades in them, yields significant improvements in prediction quality. The transformer architecture generalizes better than LSTM-based sequential models and graph-neural-network approaches, and naturally incorporates student attribute data.
+
+## Interpretability and Transfer
+
+TRACE offers interpretable models that adapt to new institutions via retraining and recalibration, strengthening the link between [[knowledge-tracing]], [[personalized-learning]], and institution-level [[ai-ed-evaluation]]. It demonstrates the value of modern neural architectures for institution-facing decision support in [[higher-ed]].
+
+## Connected Concepts
+
+- [[learning-analytics]]
+- [[student-modeling]]
+- [[knowledge-tracing]]
+- [[higher-ed]]
+- [[personalized-learning]]
+- [[ai-ed-evaluation]]
+- [[educational-measurement]]
+
+## Connected Articles
+
+- [[at-risk-students-ml-prediction]]
+- [[cold-start-knowledge-tracing-safeinsights]]
+- [[huang-interpretable-knowledge-tracing-2026]]
+- [[stanbkt-bayesian-knowledge-tracing]]
+- [[mbp-kt-meta-behavioral-knowledge-tracing]]
+- [[learning-behavior-background-advantage-ai-ed]]
+
+## Citation
+
+Savala, P. (2026). [*Jointly predicting courses and grades using a transformer-based model*](https://arxiv.org/abs/2608.13409). arXiv:2608.13409.
 
 ---
 
@@ -26466,7 +26881,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 ## Connections to Wiki
 
 - Shares the institutional perspective with [[ai-education-global-capacity]] on human/institutional capacity bottlenecks
-- Contrasts with the [[ai-adult-learning-design]] focus on learner-facing technology guidelines
+- Contrasts with the [[ai-adult-learning-guidelines-dis2026]] focus on learner-facing technology guidelines
 - Extends [[teacher-ai-competency]] from individual educators to institutional competency — institutional readiness is a distinct level above individual educator skill
 - The workload-and-recognition emphasis speaks to [[faculty-development]] centers navigating GenAI adoption, and the assessment implications echo [[assessment-validity]] concerns about what assessment means when AI can produce university-level work
 - Relevant to [[regulation]] discussions about higher-education policy and [[principled-ai-education]] frameworks
@@ -26491,7 +26906,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - [[ai-higher-ed-bridge-gap]]
 - [[ai-higher-ed-workforce-survey]]
 - [[ai-education-global-capacity]]
-- [[ai-adult-learning-design]]
+- [[ai-adult-learning-guidelines-dis2026]]
 - [[principled-ai-education]]
 ## Citation
 
@@ -27201,7 +27616,7 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
 - [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
+- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
@@ -27479,7 +27894,7 @@ Accessible learning sits at the intersection of [[equity-in-ai-education]], [[in
 
 **AI-powered content accessibility** demonstrates how automated pipelines can reduce barriers. **[[adhd-video-segmentation-computing-education|Pimenova et al.]]** showed that AI-segmented instructional videos with fixed pauses eliminated the performance gap between ADHD and non-ADHD learners — strong evidence for Universal Design for Learning via automated content transformation. The study connects to [[neurodivergent-computing-students]] research on how collaborative learning structures affect neurodivergent comfort.
 
-**Inclusive assessment design** grapples with the tension between security and accessibility. **[[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]]** proposes a theoretical framework for adaptive visual diversion that resists screen-capture cheating while accommodating learners with visual-processing needs — explicitly modeling the trade-off between anti-cheating measures and [[accessible-learning]] principles. This connects to broader [[academic-integrity]] and [[assessment]] concerns.
+**Inclusive assessment design** grapples with the tension between security and accessibility. **[[behaviorally-adaptive-visual-diversion-assessment-2026|BAVD]]** proposes a theoretical framework for adaptive visual diversion that resists screen-capture cheating while accommodating learners with visual-processing needs — explicitly modeling the trade-off between anti-cheating measures and accessible-learning principles. This connects to broader [[academic-integrity]] and [[assessment]] concerns.
 
 **Neurodivergent learner experiences** center the voices of disabled and neurodivergent students. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — preferences that AI tutoring and collaboration tools must accommodate. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed dyslexic learners' forum discussions, revealing that while they value AI for literacy support, they face significant accessibility barriers from inconsistent output quality and lack of equitable accommodations. Both connect to [[special-education]] and [[student-experience]].
 
@@ -27519,6 +27934,7 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 - [[suacode-african-students-motivations]]
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[special-r1-rl-special-education]]
+- [[bilingual-llm-lecture-companion-srl-2026]]
 
 ---
 
@@ -27552,6 +27968,7 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - [[genai-mindtool-generative-learning]]
 - [[test-driven-ai-assisted-learning]]
 - [[curiobot-llm-tutoring-exploratory-learning]]
+- [[genai-assisted-problem-posing-physics-2026]]
 
 ---
 
@@ -27644,7 +28061,6 @@ Research themes include:
 ## Connected Concepts
 
 
-- [[adult-learning]]
 - [[higher-ed]]
 - [[accessible-learning]]
 - [[human-in-the-loop-ai]]
@@ -27662,7 +28078,8 @@ Research themes include:
 - [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-- [[dot-framework-survey-2026]]
+- [[dot-framework-survey-2026]]- [[sovereign-hive-titl-further-education-2026]]
+- [[andragogy-cognitive-delegation-genai-2026]]
 
 ---
 
@@ -27796,6 +28213,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
+- [[andragogy-cognitive-delegation-genai-2026]]
 
 ---
 
@@ -28042,6 +28460,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitive discord in GenAI completion
 - [[ai-interior-design-malaysia-2026]] — AI in design education
+- [[academic-league-of-ai-2026]]
 
 ---
 
@@ -28166,6 +28585,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[metacognition]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+- [[tpack]]
 ## Connected Articles
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[ai-acceptance-preservice-science-teachers-2026]]
@@ -28196,6 +28616,8 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[elementary-writing-genai-systematic-review-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[academic-league-of-ai-2026]]
+- [[probing-ai-generated-physics-solutions-2026]]
 
 ---
 
@@ -28291,6 +28713,7 @@ AI tutoring encompasses the use of artificial intelligence — particularly larg
 - [[tact-pedagogically-adaptive-esl-tutoring]]- [[ai-tutoring-quality-k12-methodologies-2026]]
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 
 ---
 
@@ -28583,7 +29006,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 
 ### Grading modalities
 
-- **Short answer grading:** [[automated-grading]] and [[cong-confidence-asag-2026|confidence-aware ASAG]] evaluate free-text responses. [[confidence-aware-ai-assessment|Confidence calibration]] is critical — systems must know when grading is reliable.
+- **Short answer grading:** automated-grading and [[cong-confidence-asag-2026|confidence-aware ASAG]] evaluate free-text responses. [[confidence-aware-ai-assessment|Confidence calibration]] is critical — systems must know when grading is reliable.
 - **Essay scoring:** [[automated-essay-scoring]] systems like [[choi-anchor-aes-prompting-2025|anchor-based AES]] use prompting strategies to approach human-level reliability. [[aiawe-automated-writing-evaluation|AIAWE]] extends automated evaluation to broader writing assessment.
 - **Code review:** [[automated-grading-linux-bash-examinations-large-language-models|Linux Bash grading]] and [[code-review-genai-cs1|CS1 code review]] demonstrate automated assessment in computing education.
 - **Formative assessment integration:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] show how automated grading feeds into [[formative-assessment]] cycles.
@@ -28609,7 +29032,6 @@ Automated grading connects to [[assessment-validity]] (do automated scores measu
 
 ## Connected Articles
 
-- [[automated-grading]]
 - [[cong-confidence-asag-2026]]
 - [[choi-anchor-aes-prompting-2025]]
 - [[ai-scoring-language-bias-physics]]
@@ -28719,7 +29141,6 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 
 - [[ai-ed-evaluation]]
 - [[bias-mitigation]]
-- [[benchmark]]
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
 - [[knowledge-tracing]]
@@ -28856,7 +29277,7 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 
 ### How cognitive diagnosis works
 
-- **Diagnostic models:** psychometric models (often under [[item-response-theory]] and [[educational-measurement]]) infer latent skill states from patterns of correct and incorrect responses, sometimes via [[cognitive-diagnosis]] models that map items to multiple knowledge components.
+- **Diagnostic models:** psychometric models (often under [[item-response-theory]] and [[educational-measurement]]) infer latent skill states from patterns of correct and incorrect responses, sometimes via cognitive-diagnosis models that map items to multiple knowledge components.
 - **Response data:** diagnosis draws on responses to assessments, hints, help-seeking, and time-on-task — richer signals than raw scores.
 - **LLM-based diagnosis:** newer approaches use large language models to diagnose from open-ended or handwritten work, and to identify the specific misconceptions behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
 
@@ -28984,6 +29405,8 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[tzirides-thinking-through-ai-2025]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[sovereign-hive-titl-further-education-2026]]
+- [[andragogy-cognitive-delegation-genai-2026]]
 
 ---
 
@@ -29003,7 +29426,8 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 
 ## Connected Concepts
 
-- [[collaborative-learning]]
+- [[active-learning]]
+- [[icap-framework]]
 - [[scaffolding]]
 - [[teacher-role]]
 - [[human-in-the-loop-ai]]
@@ -29025,6 +29449,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[teacher-student-agency-orchestration]]
 - [[collaborative-ai-tutoring]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[academic-league-of-ai-2026]]
 
 ---
 
@@ -29279,6 +29704,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 ## Connected Articles
 
 - [[critical-media-literacy-education-2026]]
+- [[probing-ai-generated-physics-solutions-2026]]
 
 ---
 
@@ -29454,9 +29880,33 @@ Research themes include:
 
 ## [Desirable Difficulties](https://edtechdev.github.io/aied/concepts/desirable-difficulties/)
 
-> **Desirable difficulties** — the finding that harder retrieval conditions improve long-term learning (Bjork) — is the theoretical counterweight to AI smoothing: [[agentic-ai-pedagogical-best-practice-2026]] calls for intentional friction, and [[generative-ai-reduced-study-time-math]] documents the cost of removing productive struggle. In the AI era, the principle warns that tools which eliminate effortful processing (spacing, retrieval, generation) may raise immediate performance while undercutting durable learning.
+> **Desirable difficulties** — the finding (Bjork) that harder, effortful retrieval conditions — spacing, retrieval practice, interleaving, and generation — improve long-term learning more than easier, massed conditions — is the theoretical counterweight to AI that smooths away cognitive work. In the AI era the principle warns that tools which eliminate productive struggle may raise immediate performance while undercutting durable learning. Closely allied concepts — **confusion**, **cognitive friction**, and **productive struggle** — mark the zone where this effortful processing is expected (and desirable) to occur.
 
-Desirable difficulties connect to the [[over-reliance]] and [[ai-misuse-learning-harm]] findings: an AI that removes desirable difficulty produces the performance–learning gap seen across the wiki's evidence base. It is also the theoretical grounding for [[reducing-ai-misuse]] scaffolds such as draft-first routines and hint-not-answer tutoring, which deliberately preserve productive struggle.
+## The Effort–Learning Trade-Off
+
+Desirable difficulties rest on the insight that conditions that make learning feel harder in the moment — requiring effortful retrieval, generation, or explanation — frequently produce stronger retention and transfer than conditions that feel easy. Conversely, conditions that feel easy (fluent presentation, immediate answers) can produce an illusion of competence: learners feel they know the material because recognition was smooth, while later free recall fails. This is the theoretical core of the **performance–learning gap**: what looks like good performance during practice is not the same as durable learning.
+
+## Confusion, Cognitive Friction, and Productive Struggle
+
+Three related constructs describe the zone in which desirable difficulties operate:
+
+- **Confusion** — a learning *epistemic emotion* (see [[affective-computing]] and [[epistemic-emotions-collaborative-problem-solving]]) that signals a gap between a learner's mental model and incoming information. Confusion is not uniformly bad: when resolved through productive inquiry it can drive deep processing, but when unaddressed it can decay into frustration or disengagement. AI systems increasingly detect confusion (e.g. capture buttons, affective sensing) to anchor personalized support — as in [[knowloop-confusion-to-consolidation-2026]], where marked confusion points become review anchors and teach-back prompts surface conceptual gaps.
+- **Cognitive friction** — the deliberate resistance a learning environment places between a learner and an easy answer, forcing them to think before receiving help. AI tools that answer instantly remove this friction; designs that withhold, hint, or scaffold preserve it. [[generative-refusal-ai-tools-for-thought]], [[sequenced-ai-feedback-learning]], and [[critical-thinking-genai-scaffolding]] each examine how intentionally preserved friction supports reasoning.
+- **Productive struggle** — the effortful phase of problem solving in which a learner wrestles with a challenge before (or while) receiving support. The wiki's evidence base documents both its value and its cost: [[generative-ai-reduced-study-time-math]] shows removing struggle reduced study time but impaired learning, while [[curiobot-llm-tutoring-exploratory-learning]] and [[rethinking-scaffolding-llm-tutors]] explore how tutors can keep learners in the productive-struggle zone rather than collapsing to answer-giving.
+
+## Desirable Difficulties in the AI Era
+
+The central tension for AI-supported learning is that generative AI is, by default, a friction-removing technology: it answers, generates, and produces polished artifacts on demand. Across the wiki, this plays out in two directions:
+
+- **The cost of removing struggle.** When AI erases spacing, retrieval, and generation, learners may show immediate performance gains but forfeit durable learning and transfer. This connects directly to the [[over-reliance]] and [[ai-misuse-learning-harm]] findings: an AI that removes desirable difficulty produces the performance–learning gap documented across the wiki's evidence base. [[agentic-ai-pedagogical-best-practice-2026]] calls explicitly for intentional friction.
+- **Designing struggle back in.** Instructional designs can deliberately preserve productive processing: draft-first routines, hint-not-answer tutoring, delayed feedback, and teach-back/explanation protocols. These are the concrete scaffolds explored under [[reducing-ai-misuse]] and [[structured-llm-feedback-programming]].
+
+## Design Implications
+
+1. **Do not optimize for effort-free fluency.** An AI tutor that always answers immediately may raise satisfaction while lowering durable learning; favor interventions that require retrieval and generation first.
+2. **Treat confusion as a resource, not a bug.** Detect and target confusion points as personalized review anchors rather than smoothing them away — the KnowLoop Recognize→Resolve→Consolidate model is a concrete pattern.
+3. **Preserve cognitive friction deliberately.** Use hint-not-answer scaffolding, sequential feedback, and refusal-to-answer where the goal is reasoning, not production.
+4. **Match friction to learner readiness.** Desirable difficulties benefit learners who can engage in effortful processing; over-challenge without support risks frustration. Scaffolding must keep learners in the productive-struggle zone, not past it.
 
 ## Connected Concepts
 
@@ -29469,6 +29919,10 @@ Desirable difficulties connect to the [[over-reliance]] and [[ai-misuse-learning
 - [[over-reliance]]
 - [[ai-misuse-learning-harm]]
 - [[reducing-ai-misuse]]
+- [[affective-computing]]
+- [[active-learning]]
+- [[constructivist]]
+- [[motivation]]
 
 ## Connected Articles
 
@@ -29476,6 +29930,14 @@ Desirable difficulties connect to the [[over-reliance]] and [[ai-misuse-learning
 - [[finkelstein-principled-ai-education-2025]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[structured-llm-feedback-programming]]
+- [[generative-ai-reduced-study-time-math]]
+- [[curiobot-llm-tutoring-exploratory-learning]]
+- [[rethinking-scaffolding-llm-tutors]]
+- [[knowloop-confusion-to-consolidation-2026]]
+- [[generative-refusal-ai-tools-for-thought]]
+- [[sequenced-ai-feedback-learning]]
+- [[critical-thinking-genai-scaffolding]]
+- [[epistemic-emotions-collaborative-problem-solving]]
 
 ---
 
@@ -29520,6 +29982,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] and [[equity-
 - [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
 - [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
+- [[bilingual-llm-lecture-companion-srl-2026]]
 
 ---
 
@@ -29682,7 +30145,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 
 ## [Educational NLP](https://edtechdev.github.io/aied/concepts/educational-nlp/)
 
-> **Educational NLP** applies language technologies to learning: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]], and [[vocabulary-difficulty-prediction]] show LLMs advancing analysis of student language at scale ([[educational-measurement]], [[educational-nlp]]).
+> **Educational NLP** applies language technologies to learning: [[llm-item-difficulty-prediction]], [[teaching-feedback-classification-benchmark]], [[llm-sentiment-analysis-education-research]], and [[vocabulary-difficulty-prediction]] show LLMs advancing analysis of student language at scale ([[educational-measurement]], educational-nlp).
 
 ## Connected Concepts
 
@@ -29870,7 +30333,7 @@ The definitional problem is central to AI-education research. A study that measu
 
 ### Connections to related concepts
 
-Engagement metrics connect to [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools. They intersect with [[motivation]] and [[self-determination-theory]] as the psychological antecedents of engagement, and with [[student-experience]] as the lived context. The distinction between genuine engagement and superficial use ties directly to [[over-reliance]], [[cognitive-offloading]], and [[self-regulated-learning]], since self-regulated learners engage critically and strategically with AI. In evaluation terms, engagement metrics feature in [[research-methods-aied]] designs and relate to the affordances measured by [[engagement-metrics|behavioral telemetry]] in [[edtech-platform]]s.
+Engagement metrics connect to [[learning-analytics]] and [[educational-measurement]], which supply the quantitative tools. They intersect with [[motivation]] and [[self-determination-theory]] as the psychological antecedents of engagement, and with [[student-experience]] as the lived context. The distinction between genuine engagement and superficial use ties directly to [[over-reliance]], [[cognitive-offloading]], and [[self-regulated-learning]], since self-regulated learners engage critically and strategically with AI. In evaluation terms, engagement metrics feature in [[research-methods-aied]] designs and relate to the affordances measured by behavioral telemetry in [[edtech-platform]]s.
 
 ## Connected Concepts
 
@@ -29994,6 +30457,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[dyslexlens-dyslexic-learners-ai]]
 - [[amponsah-ai-acceptance-science-teachers-2026]]
 - [[ground-truth-reliability-aied]]
+- [[sovereign-hive-titl-further-education-2026]]
 
 ---
 
@@ -30085,7 +30549,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 ### Faculty development in the AI era
 
 - **Readiness frameworks:** [[sangwa-epiq-ai-faculty-readiness-2026|The EPIQ-AI framework]] identifies four readiness domains: epistemic, pedagogical, institutional, and quality-and-compliance. Faculty readiness is a sociotechnical alignment problem, not just an individual skills gap.
-- **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. [[faculty-development]] programs must address all four.
+- **Adoption and confidence:** [[teacher-ai-adoption-confidence|Teacher AI adoption research]] identifies concerns, support, confidence, and attitudes as key predictors. faculty-development programs must address all four.
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty AI education.
 - **Governance and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
@@ -30376,6 +30840,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[higher-ed]]
 - [[k-12]]
 
+- [[tpack]]
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
@@ -30395,6 +30860,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[elementary-writing-genai-systematic-review-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 
 ---
 
@@ -30489,35 +30955,95 @@ Hallucination in educational AI takes several forms documented in this wiki's ar
 
 ## [Help-Seeking](https://edtechdev.github.io/aied/concepts/help-seeking/)
 
-> **Help-Seeking** — a key concept in AI in education research. Explored across 4 articles in this wiki.
+> **Help-Seeking** — the learner's process of recognizing a need for assistance and strategically requesting it, and how that process plays out in AI-supported learning environments. In AI in education, help-seeking is central to whether AI tools support or undermine learning: the *quality* of help-seeking (when, how, and what learners ask for) strongly shapes outcomes, and AI tutors, hints, and pedagogical agents are designed precisely to elicit productive help-seeking rather than answer-seeking.^[[lak2026-hint-button-unproductive-use]]^[[ai-fallibility-warning-help-seeking]]
 
-Research themes include:
-- **Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson** (2026). Pluralistic Alignment Workshop @ ICML 2026
-- A three-semester, 999-student analysis of hint usage in a K-12 mathematics ITS finds that two simple, interpretable indicators—premature hint requests and superficial hint reading—are consistently associated with reduced learning gains, even after co
-- Recent work in Technology-Enhanced Learning and HumanComputer Interaction highlights the importance of transparency and trust calibration in AI-supported learning environments as they pose a risk of hallucinations. In this study, we investigate wheth
+Help-seeking is a well-established construct in learning research, closely tied to [[self-regulated-learning]] and [[metacognition]]: it requires learners to monitor their own understanding, recognize a gap, decide help is needed, and formulate an effective request. With the rise of generative AI tutors, help-seeking has taken on new importance — and new failure modes. Learners often *intend* to use AI for learning but default to asking for direct answers, a gap that research in this wiki documents across domains and age groups.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
+
+## Productive vs. unproductive help-seeking
+
+The central distinction in the literature is between help-seeking that supports learning and help-seeking that bypasses it.
+
+### Unproductive help-seeking behaviors
+
+Research in this wiki identifies concrete, observable patterns of unproductive help-seeking, especially in intelligent tutoring systems:
+
+- **Premature hint requests** — requesting help before making any solution attempt. Even uncertain students learn more by attempting first.^[[lak2026-hint-button-unproductive-use]]
+- **Superficial hint reading** — advancing through hints too rapidly to read them (flagged at a ~4 words/second benchmark), often jumping straight to the bottom-out hint that reveals the answer.^[[lak2026-hint-button-unproductive-use]]
+- **Answer-seeking over learning-seeking** — asking the AI to produce the answer rather than to explain or guide. In a study of 98 Grade-9 students using a GenAI tutor, interactions were dominated by instrumental requests with almost no monitoring or evaluation of their own learning — despite students having chosen scaffolded support beforehand. This **intention-behavior gap** was associated with *lower* post-test performance and higher extraneous cognitive load.^[[regulating-ai-tutor-adolescent-srl]]
+
+### Why unproductive help-seeking hurts learning
+
+The **affordance perspective** explains a key mechanism: when an interface makes help constantly and saliently available (e.g., a persistent "hint button"), it signals to learners that help is always there, creating an unintended affordance that can collapse the task into a copying exercise. Rapidly accessing bottom-out hints circumvents the active schema construction that learning requires.^[[lak2026-hint-button-unproductive-use]]
+
+### The quality of help-seeking is measurable
+
+Two simple, interpretable indicators — premature hint requests and superficial hint reading — are computable from standard tutoring logs and are consistently associated with reduced learning gains across semesters, even after controlling for prior knowledge. This makes them practical for [[learning-analytics]] dashboards and real-time intervention, unlike complex machine-learned "gaming the system" detectors.^[[lak2026-hint-button-unproductive-use]]
+
+## Designing AI systems to promote productive help-seeking
+
+### Scaffolding how students ask
+
+Explicit training in **reasoning-focused help-seeking** — requesting stepwise hints and verification rather than final answers — produces better outcomes than uncritical reliance. In a quasi-experimental undergraduate statistics study, guided LLM access (with training on reasoning-oriented help-seeking) led to stronger independent performance and better self-assessment calibration than unrestricted LLM access. The lesson: **LLM access alone is an incomplete intervention**; the design challenge is to scaffold *how* students use AI so it functions as a reasoning partner rather than an answer-getting tool.^[[guided-llm-scaffolding-independent-learning]]
+
+### Calibrating trust through transparency
+
+A classroom experiment with 252 students found that **warning students about AI fallibility increased help-seeking** in a math tutoring system. Transparency about potential system errors improved learners' engagement with the system — connecting help-seeking to [[trust-calibration]] and [[hallucination-risk]].^[[ai-fallibility-warning-help-seeking]]
+
+### Rethinking hint and scaffold delivery
+
+Rather than removing help, research recommends re-engineering how it is delivered:
+
+- **Delayed hint availability** — requiring minimum engagement time or solution attempts before hints (especially bottom-out hints) are accessible.^[[lak2026-hint-button-unproductive-use]]
+- **Moving from *whether* to *how*** — the key design question is how to structure hint delivery aligned with productive-struggle principles, not whether to provide hints at all.^[[lak2026-hint-button-unproductive-use]]
+
+### The uptake problem in LLM tutors
+
+Real-world students frequently **bypass a chatbot's scaffolding** — not necessarily harmfully, but often because there is a mismatch between the chatbot's pedagogical framing and the student's own learning goals. Evaluation pipelines must therefore measure not just whether a tutor scaffolds, but whether students *take up* that scaffolding, rather than assuming they will.^[[rethinking-scaffolding-llm-tutors]]
+
+## Help-seeking and self-regulated learning
+
+Help-seeking is an integral part of [[self-regulated-learning]]: productive help-seeking requires learners to monitor understanding, judge when help is needed, and select appropriate sources. In GenAI contexts, this becomes even more demanding, since students must also exercise agency over the AI and maintain epistemic vigilance rather than deferring to it. Research in this wiki supports the need for scaffolds that promote more agentic and epistemically proactive AI use, and highlights the risk of [[over-reliance]] and [[cognitive-offloading]] when help-seeking degrades into unconditional answer-seeking.^[[regulating-ai-tutor-adolescent-srl]]^[[guided-llm-scaffolding-independent-learning]]
+
+## Implications for design and research
+
+1. **Design help-seeking affordances deliberately.** Persistent, salient help buttons can enable bypass strategies; delay access and structure delivery to support productive struggle.^[[lak2026-hint-button-unproductive-use]]
+2. **Scaffold the help-seeking itself.** Train learners in reasoning-focused requests (stepwise hints, verification) rather than assuming access equals good use.^[[guided-llm-scaffolding-independent-learning]]
+3. **Use transparency to calibrate trust.** Warning about AI fallibility can increase appropriate help-seeking and engagement.^[[ai-fallibility-warning-help-seeking]]
+4. **Measure uptake, not just scaffolding.** Evaluate whether students actually engage with pedagogical framing, not only whether the tutor provides it.^[[rethinking-scaffolding-llm-tutors]]
+5. **Support monitoring and agency.** Help-seeking scaffolds should strengthen [[metacognition]] and [[self-regulated-learning]], guarding against [[over-reliance]].
 
 ## Connected Concepts
 
-
-- [[help-seeking]]
-- [[affective-tutoring]]
+- [[self-regulated-learning]]
 - [[metacognition]]
-- [[agentic-ai]]
+- [[scaffolding]]
+- [[intelligent-tutoring]]
 - [[ai-tutoring]]
-- [[teacher-ai-competency]]
+- [[student-experience]]
+- [[over-reliance]]
+- [[cognitive-offloading]]
+- [[learning-analytics]]
+- [[k-12]]
+- [[higher-ed]]
 - [[socratic-method]]
 - [[pedagogical-agent]]
+- [[ai-literacy]]
+- [[trust-calibration]]
+- [[affective-tutoring]]
+- [[feedback-loop]]
+- [[active-learning]]
+- [[agentic-ai]]
 
 ## Connected Articles
 
-
-- [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-- [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
-- [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
-- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
-- [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[lak2026-hint-button-unproductive-use]] — Premature hint requests and superficial hint reading predict lower learning gains in an ITS
+- [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in a math tutoring system
+- [[regulating-ai-tutor-adolescent-srl]] — The intention-behavior gap in adolescent GenAI help-seeking and self-regulated learning
+- [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding improves reasoning-focused help-seeking and independent learning
+- [[rethinking-scaffolding-llm-tutors]] — The scaffolding/student-uptake mismatch in real-world LLM tutor deployments
+- [[surfacing-isolated-learners]] — Using AI to surface learners who need help, mediating teacher-student feedback
+- [[unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l]] — Socially shared regulation and help-seeking patterns
+- [[halani-designing-for-reach-2026]] — Designing for reach: the student alone with AI and access to help
 
 ---
 
@@ -30579,6 +31105,8 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[ai-uk-higher-education-policy-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[academic-league-of-ai-2026]]
+- [[trace-course-grade-prediction-2026]]
 
 ---
 
@@ -30983,7 +31511,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 
 ### Scale and equity
 
-K-12 AI deployment operates at societal scale — millions of students, compulsory education, and significant equity implications. [[equity-in-ai-education]] and [[k-12]] research examines whether AI widens or narrows opportunity gaps.
+K-12 AI deployment operates at societal scale — millions of students, compulsory education, and significant equity implications. [[equity-in-ai-education]] and k-12 research examines whether AI widens or narrows opportunity gaps.
 
 ### Connections
 
@@ -31124,7 +31652,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[reinforcement-learning-measurement-model-assessment]]
 - [[skill-acquisition-without-temporal-info]]
 - [[xie-hillm-cd-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]
+- [[zerkouk-comprehensive-review-its-2025]]- [[trace-course-grade-prediction-2026]]
 
 ---
 
@@ -31165,6 +31693,8 @@ Language learning has emerged as a significant AI in education domain because la
 - [[tact-pedagogically-adaptive-esl-tutoring]]
 - [[ai-tools-arab-english-classrooms]]
 - [[structural-silence-underrepresented-language-ai-2026]]
+- [[bilingual-llm-lecture-companion-srl-2026]]
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 
 ---
 
@@ -31211,6 +31741,8 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[teaching-feedback-classification-benchmark]]
 - [[wordstream-glass-learning-analytics]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
+- [[trace-course-grade-prediction-2026]]
+- [[student-llm-interaction-taxonomy-review-2026]]
 
 ---
 
@@ -31234,7 +31766,6 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 ## Connected Concepts
 
 - [[rct]]
-- [[learning-gains]]
 - [[formative-assessment]]
 - [[over-reliance]]
 - [[cognitive-offloading]]
@@ -31274,11 +31805,12 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 ## Connected Articles
 - [[ai-guided-learning-audiovideo-2026]]
 
-- [[ai-adult-learning-design]]
+- [[ai-adult-learning-guidelines-dis2026]]
 - [[ai-lifelong-learning-policy]]
 - [[community-centered-ai-education-adults]]
 - [[metacognitive-learning-scenarios-taxonomy]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[andragogy-cognitive-delegation-genai-2026]]
 
 ---
 
@@ -31331,6 +31863,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[elbench-education-llm-benchmark-2026]]
 - [[ai-feedback-enactment-workflow-2026]]
+- [[student-llm-interaction-taxonomy-review-2026]]
+- [[bilingual-llm-lecture-companion-srl-2026]]
 
 ---
 
@@ -31484,6 +32018,7 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 
 ## Connected Articles
 
+- [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
 - [[ai-collaborative-learning-systematic-review]] — PRISMA systematic review of AI-powered collaborative learning
@@ -31496,6 +32031,7 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[llm-intervention-design-cs-review]] — Review informing LLM intervention design in CS
 - [[human-autonomy-agency-hri-review-2025]] — Review of human autonomy and agency in human-robot interaction
 - [[rail-ed-genai-literacy-teacher-education]] — Review of GenAI literacy in teacher education
+- [[student-llm-interaction-taxonomy-review-2026]]
 
 ---
 
@@ -31578,7 +32114,7 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[chatgpt-critical-creative-thinking-review]]
 - [[code-review-genai-cs1]]
 - [[codify-socratic-programming-tutor]]
-- [[cognitive-offloading-speedup-illusion]]
+- [[cognitive-offloading-speedup-illusion]]- [[probing-ai-generated-physics-solutions-2026]]
 
 ---
 
@@ -31622,7 +32158,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[scheu-mobile-chatbot-journaling-motivation-2026]]
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
-- [[self-efficacy-tutoring-learning]]
+- [[self-efficacy-tutoring-learning]]- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 
 ---
 
@@ -31758,7 +32294,7 @@ Neurodiversity connects to [[special-education]], [[accessible-learning]], [[uni
 
 ## [Open Source](https://edtechdev.github.io/aied/concepts/open-source/)
 
-> **Open-source** AI in education is studied in [[lata-ferpa-compliant-local-llm-autograder]], [[vismatic-secure-sandbox-cs-education]], and [[open-source]] (tag) pages: local open models address [[privacy]], cost, and customization but bring deployment and quality burdens ([[regulation]], [[ai-education]]).
+> **Open-source** AI in education is studied in [[lata-ferpa-compliant-local-llm-autograder]], [[vismatic-secure-sandbox-cs-education]], and open-source (tag) pages: local open models address [[privacy]], cost, and customization but bring deployment and quality burdens ([[regulation]], [[ai-education]]).
 
 ## Connected Concepts
 
@@ -31843,6 +32379,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive Offloading in Student–AI Collaboration
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[sovereign-hive-titl-further-education-2026]]
 
 ---
 
@@ -32108,7 +32645,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 
 - [[a4l-analytics-pipeline]]
 - [[adaptive-pretesting-retention]]
-- [[ai-adult-learning-design]]
+- [[ai-adult-learning-guidelines-dis2026]]
 - [[ai-coaching-rl-skill-development]]
 - [[ai-generated-traces-novice-programmers]]
 - [[ai-interlocutor-l2-spoken-dialogue]]
@@ -32123,6 +32660,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[empathy-coaching-chatbot]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[trace-course-grade-prediction-2026]]
 
 ---
 
@@ -32180,6 +32718,8 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[ai-generated-smartphone-circular-motion-lab-2026]]
 - [[genai-ar-physics-simulation-prompt-2026]]
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
+- [[probing-ai-generated-physics-solutions-2026]]
+- [[genai-assisted-problem-posing-physics-2026]]
 
 ---
 
@@ -32251,14 +32791,14 @@ The constructive question shifts from "how do we prevent students from using AI?
 
 ### Privacy challenges
 
-- **Data collection at scale:** [[learning-analytics]] and [[edtech-platform|educational platforms]] collect clickstream, writing, and interaction data. [[privacy]] research examines whether this collection is proportionate to educational benefit.
+- **Data collection at scale:** [[learning-analytics]] and [[edtech-platform|educational platforms]] collect clickstream, writing, and interaction data. privacy research examines whether this collection is proportionate to educational benefit.
 - **Student surveillance:** [[ai-fatigue-academic-contexts|AI fatigue]] and [[over-reliance]] research connect to privacy concerns — constant AI monitoring can feel invasive even when well-intentioned.
 - **K-12 protections:** [[k-12]] settings demand stronger privacy safeguards due to minor status. [[child-safety-genai|Child safety]] research extends privacy to safety considerations.
-- **Federated and edge AI:** [[privacy|Edge AI approaches]] keep student data local, reducing central collection. [[ai-lms-middle-school-longitudinal|LMS privacy architectures]] demonstrate privacy-first design.
+- **Federated and edge AI:** Edge AI approaches keep student data local, reducing central collection. [[ai-lms-middle-school-longitudinal|LMS privacy architectures]] demonstrate privacy-first design.
 
 ### The personalization-privacy tradeoff
 
-[[personalized-learning]] requires detailed learner data to function, creating a tension with privacy. The wiki explores [[privacy]] approaches that balance personalization with data minimization.
+[[personalized-learning]] requires detailed learner data to function, creating a tension with privacy. The wiki explores privacy approaches that balance personalization with data minimization.
 
 ### Connections
 
@@ -32405,6 +32945,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[genai-literacy-training-teacher-education-dbr-2026]] — AI Literacy Training for Teachers
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[academic-league-of-ai-2026]]
 
 ---
 
@@ -32451,6 +32992,8 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[pchl-he-framework-genai-content-creation-2026]]
+- [[probing-ai-generated-physics-solutions-2026]]
+- [[genai-assisted-problem-posing-physics-2026]]
 
 ---
 
@@ -32625,7 +33168,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 ### The governance gap
 
-The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and [[regulation]] research argue for proactive governance rather than reactive policy.
+The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive governance rather than reactive policy.
 
 ### Connections
 
@@ -32689,7 +33232,7 @@ The central tension in AIED research is that the strongest designs for causal in
 
 An **efficacy study** tests whether an intervention produces its intended learning effect, typically using experimental or quasi-experimental designs that compare outcomes with and without the intervention. Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes like learning gains, engagement, or motivation. **Randomized controlled trials** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, between-subjects, or matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
 
-- **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and [[research-methods-aied|efficacy claims]].
+- **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and efficacy claims.
 - **Limitations:** costly and slow; artificial conditions can reduce ecological validity; fast-changing AI tools make long experiments date quickly; small samples often underpower detection of meaningful effects; ethical constraints on withholding potentially helpful tools.
 - **Exemplars:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 
@@ -33015,6 +33558,11 @@ For example:
 - [[ecnuclaw-k12-personalized-companion]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[ai-feedback-enactment-workflow-2026]]
+- [[genai-assisted-problem-posing-physics-2026]]
+- [[andragogy-cognitive-delegation-genai-2026]]
+- [[student-llm-interaction-taxonomy-review-2026]]
+- [[bilingual-llm-lecture-companion-srl-2026]]
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 
 ---
 
@@ -33485,7 +34033,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - **Interaction patterns:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] maps how students engage with AI across assignments. [[misiejuk-cognitive-offloading-prompting-2026|Prompting analysis]] reveals cognitive engagement levels through prompt structure.
 - **Motivation and agency:** [[ai-availability-student-motivation|AI availability and motivation]] examines whether knowing AI is available changes student effort. [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames agency and motivation as central challenges.
 - **Perceptions and attitudes:** [[genai-usage-design-students-survey|GenAI usage surveys]] and [[student-mental-models-genai|mental model studies]] investigate how students understand and trust AI.
-- **Equity dimensions:** [[student-experience]] intersects with [[equity-in-ai-education]] — AI access and effectiveness vary across student populations.
+- **Equity dimensions:** student-experience intersects with [[equity-in-ai-education]] — AI access and effectiveness vary across student populations.
 
 ### Connections
 
@@ -33519,6 +34067,7 @@ Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai
 - [[student-mental-models-genai]]
 - [[genai-usage-design-students-survey]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[student-llm-interaction-taxonomy-review-2026]]
 
 ---
 
@@ -33635,6 +34184,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[xie-hillm-cd-2026]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[inside-llm-student-simulator-reasoning-2026]]
+- [[trace-course-grade-prediction-2026]]
 
 ---
 
@@ -33698,8 +34248,10 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[educational-policy-ai]]
 - [[ai-education]]
 
+- [[tpack]]
 ## Connected Articles
 
+- [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
 - [[teacher-ai-teaming-five-levels]] — Towards synergistic teacher-AI interactions
@@ -33765,6 +34317,72 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[gaide-vibe-coding-k12-teachers]]
 - [[teacher-authored-prompts-student-ai-dialogue]]
 - [[ai-tpack-preservice-math-teachers]]
+
+---
+
+## [Technological Pedagogical Content Knowledge (TPACK)](https://edtechdev.github.io/aied/concepts/tpack/)
+
+> **Technological Pedagogical Content Knowledge (TPACK)** — the framework (Mishra & Koehler, 2006) describing the integrated knowledge teachers need to use technology effectively in teaching: the interplay of Technological Knowledge (TK), Pedagogical Knowledge (PK), and Content Knowledge (CK), and their intersections. In the AI era, TPACK has been extended to **AI-TPACK** / **GenAI-TPACK**, modeling how teachers integrate generative AI into content-area instruction. It is the dominant theoretical lens for understanding how [[teacher-ai-competency|teacher AI competency]] is structured and built through [[faculty-development|professional development]].
+
+## The Framework
+
+TPACK holds that effective technology integration is not the sum of separate knowledge domains but the product of their **dynamic interplay**. The framework comprises three base domains and four intersections:
+
+- **Content Knowledge (CK)** — knowledge of the subject matter to be taught.
+- **Pedagogical Knowledge (PK)** — knowledge of teaching methods, strategies, and how students learn.
+- **Technological Knowledge (TK)** — knowledge of how to use tools and technologies, including [[generative-ai|generative AI]].
+- **Pedagogical Content Knowledge (PCK)** — how to teach specific content effectively.
+- **Technological Content Knowledge (TCK)** — how technology shapes and represents content.
+- **Technological Pedagogical Knowledge (TPK)** — how technology supports or constrains teaching strategies.
+- **TPACK** — the emergent, integrated knowledge at the center, where all three domains interact to enable technology-enhanced, content-specific teaching.
+
+## AI-TPACK and GenAI-TPACK
+
+The AI era has pushed the framework toward a technology-with-intelligence reading. Rather than a passive tool, generative AI is an active agent that can plan, generate content, tutor, and adapt — so integration knowledge increasingly includes **orchestration**: deciding when and how AI acts, scaffolds, or yields to human judgment.
+
+- **Beyond discrete knowledge.** [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] argues effective AI integration emerges not from possessing separate domains but from the dynamic interplay of **systems thinking**, **pedagogical beliefs**, and **self-efficacy** — challenging static, checklist-based models of teacher AI competency. Teacher archetypes (Systematic Optimizers, Prolific Creators, Passive Observers) emerge from how teachers design multi-agent instructional workflows.
+- **A review lens for the whole field.** [[edurev-100741-tpack-genai-review|A systematic review from a TPACK perspective]] (Liu & Zhong, 2025) analyzed 71 empirical studies of GenAI in student learning, finding an overall positive effect (Hedges' g = 0.752) and identifying GenAI literacy for students and **GenAI-TPACK professional development for teachers** as the two critical priorities for the field.
+- **Teacher education context.** TPACK is instrumental in cultivating teachers' competency to integrate technology into curriculum-specific instruction, which is why teacher-education and PD research (e.g., [[genai-pd-ai-pck-learning-gain-2026|intensive GenAI PD programs]], [[ai-tpack-preservice-math-teachers|AI-TPACK readiness among pre-service teachers]]) increasingly measures it as the outcome of interest.
+
+## Why It Matters in AI Education
+
+TPACK is the organizing framework for the teacher-side of the wiki's evidence base. It explains why teacher AI competency is more than tool fluency: teachers must integrate technological, pedagogical, and content knowledge together to turn AI into learning gains. The wiki's [[teacher-ai-competency]] page covers the competency dimensions; TPACK is the *knowledge structure* that underlies them. Research on [[teacher-ai-adoption-confidence|teacher confidence]], [[faculty-development|professional development]], and [[teacher-role|the transforming teacher role]] all operate within (or against) this framework.
+
+## Design Implications
+
+1. **Train the intersections, not just tools.** PD should build technological, pedagogical, and content knowledge together rather than offering isolated tool training — the core TPACK design principle.
+2. **Treat AI as an agent, not an appliance.** AI-TPACK extends the framework toward orchestration of AI agents, requiring systems thinking and pedagogical judgment about when AI should act.
+3. **Differentiate PD by teacher profile.** Different teacher archetypes (optimizers, creators, observers) benefit from different scaffolding — advanced frameworks, rapid feedback, or explicit modeling respectively.
+4. **Assess integrated competence.** TPACK-oriented outcomes (e.g., AI-PCK gains) should be measured as integrated capability, not self-reported tool familiarity.
+
+## Connected Concepts
+
+- [[teacher-ai-competency]]
+- [[faculty-development]]
+- [[teacher-role]]
+- [[generative-ai]]
+- [[instructional-design]]
+- [[ai-literacy]]
+- [[scaffolding]]
+- [[metacognition]]
+- [[higher-ed]]
+- [[k-12]]
+- [[meta-analysis-systematic-review]]
+
+## Connected Articles
+
+- [[edurev-100741-tpack-genai-review]] — Integrating generative AI into student learning: A systematic review from a TPACK perspective
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
+- [[ai-tpack-preservice-math-teachers]] — AI-TPACK readiness among pre-service mathematics teachers
+- [[genai-pd-ai-pck-learning-gain-2026]] — Intensive GenAI professional development and AI-PCK gains
+- [[teacher-ai-teaming-five-levels]] — Five-level teacher-AI teaming framework
+- [[teacher-ai-adoption-confidence]] — Teacher confidence and AI adoption
+- [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for AI literacy via self-determination theory
+- [[genai-literacy-training-teacher-education-dbr-2026]] — Design-based research GenAI literacy training
+- [[rail-ed-genai-literacy-teacher-education]] — Rethinking GenAI literacy in teacher education
+- [[sec-ai-literacy-narrative-review-2026]] — Social-emotional competencies and AI literacy
+- [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
+- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
 
 ---
 
@@ -33847,6 +34465,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[ai-tutor-safety-harms]]
 - [[brookings-ai-students-report]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[genai-assisted-problem-posing-physics-2026]]
 
 ---
 
@@ -34013,6 +34632,7 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher Education for AI Literacy (SDT)
 - [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement
 - [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots, Collective Efficacy, and Collaboration
+- [[sovereign-hive-titl-further-education-2026]]
 
 ---
 

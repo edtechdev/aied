@@ -21,6 +21,7 @@ CyberScholar demonstrates rubric-grounded [[rag]] for formative writing feedback
 - [[human-in-the-loop-ai]]
 - [[faculty-development]]
 - [[teacher-role]]
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]]

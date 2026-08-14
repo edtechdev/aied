@@ -39,6 +39,7 @@ The study's consensus was derived from a panel of 30 teachers, and the 75% agree
 - [[ethics]]
 - [[instructional-design]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tpack-preservice-math-teachers]] — AI-TPACK and Pre-Service Math Teachers

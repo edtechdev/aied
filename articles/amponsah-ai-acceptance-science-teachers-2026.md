@@ -35,6 +35,7 @@ The finding that ChatGPT dominates pre-service teacher AI use echoes broader tre
 - [[ai-education]]
 - [[teacher-ai-competency]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes

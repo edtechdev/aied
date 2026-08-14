@@ -65,8 +65,10 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[educational-policy-ai]]
 - [[ai-education]]
 
+- [[tpack]]
 ## Connected Articles
 
+- [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
 - [[teacher-ai-teaming-five-levels]] — Towards synergistic teacher-AI interactions

@@ -22,6 +22,7 @@ The focus on teacher agency and modification is critical. Rather than generating
 - [[human-in-the-loop-ai]]
 - [[k-12]]
 - [[instructional-design]]
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]]

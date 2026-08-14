@@ -41,6 +41,7 @@ As a narrative review, the study faces potential selection bias and subjective i
 - [[social-emotional-learning]]
 - [[self-regulated-learning]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy

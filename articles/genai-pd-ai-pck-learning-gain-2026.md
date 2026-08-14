@@ -36,6 +36,7 @@ For [[professional-training]] and institutional [[educational-policy-ai]], the f
 - [[professional-training]]
 - [[teacher-ai-competency]]
 
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK teacher multi-agent workflow

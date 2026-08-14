@@ -41,6 +41,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[higher-ed]]
 - [[k-12]]
 
+- [[tpack]]
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]

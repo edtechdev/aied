@@ -40,6 +40,7 @@ Expert evaluations compared TeachingCoach with a GPT-4o baseline in a zero-shot 
 - [[affective-tutoring]]
 - [[curriculum-design]]
 
+- [[tpack]]
 ## Connected Articles
 
 

@@ -39,6 +39,7 @@ The study is a qualitative, activity-theoretical case study at a single institut
 - [[higher-ed]]
 - [[stem-education]]
 - [[faculty-development]]
+- [[tpack]]
 ## Connected Articles
 
 - [[ai-tpack-preservice-math-teachers]]
