@@ -28,6 +28,7 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 ## Connected Concepts
 
 - [[knowledge-tracing]]
+- [[knowledge-graph]]
 - [[student-modeling]]
 - [[educational-measurement]]
 - [[item-response-theory]]

@@ -30,6 +30,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 
 - [[learning-analytics]]
 - [[knowledge-tracing]]
+- [[knowledge-graph]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
 - [[personalized-learning]]
