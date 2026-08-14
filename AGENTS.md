@@ -72,7 +72,7 @@ Rich body content with embedded wikilinks to related articles/concepts.
 ### Rules
 - NO duplicate H1 headings in body (template adds the title)
 - NO duplicate sections (one Connected Concepts, one Connected Articles)
-- Tags: use ONLY existing tags — scan `/home/doug/wiki/tags/` directory first
+- Tags: concept pages serve the tag role — no separate tag pages. Use relevant tags in frontmatter; they render as plain labels (not hyperlinks) at the top of the page.
 - Citation: single APA line with hyperlinked title, NO "Full text" blocks, NO bullet prefix
 - Delete stub pages with < 300 chars of real body content
 - After ANY page change: run `npm run build`, then `git add -A && git commit -m "..." && git push origin main`
