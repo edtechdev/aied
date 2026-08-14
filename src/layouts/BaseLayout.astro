@@ -1,6 +1,6 @@
 ---
 // Base layout with nav, search, footer
-const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = Astro.props;
+const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', showNavToggle = false } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -77,6 +77,26 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
       justify-content: space-between;
       align-items: center;
       gap: 1rem;
+    }
+    .nav-toggle {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: transparent;
+      color: white;
+      border: 1px solid var(--muted-border-color);
+      border-radius: 8px;
+      width: 2.4rem;
+      height: 2.4rem;
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+    .nav-toggle:hover {
+      background: color-mix(in srgb, var(--primary) 15%, transparent);
+      border-color: var(--primary);
+    }
+    @media (min-width: 1024px) {
+      .nav-toggle { display: none; }
     }
     .header-search {
       flex: 1;
@@ -276,8 +296,17 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
   </style>
 </head>
 <body>
-  <header>
+  <header data-blume-header>
     <div class="container">
+      {showNavToggle && (
+        <button class="nav-toggle" data-blume-nav-toggle type="button" aria-label="Toggle navigation" aria-expanded="false">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="3" y1="6" x2="21" y2="6" />
+            <line x1="3" y1="12" x2="21" y2="12" />
+            <line x1="3" y1="18" x2="21" y2="18" />
+          </svg>
+        </button>
+      )}
       <a href="/aied/" style="font-size:1.3rem;font-weight:700">🧠 AI Ed Wiki</a>
       <div class="header-search">
         <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
@@ -335,6 +364,51 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
   </footer>
   <script is:inline>
     import("/aied/pagefind/pagefind-component-ui.js");
+  </script>
+  <script is:inline>
+    // Blume-style mobile nav drawer. Any element with [data-blume-nav-toggle]
+    // (hamburger in header, backdrop overlay) opens/closes the drawer by toggling
+    // data-blume-nav-open on <html>. The drawer top tracks the header bottom.
+    (() => {
+      const syncDrawerTop = () => {
+        const h = document.querySelector("[data-blume-header]");
+        if (h) document.documentElement.style.setProperty("--drawer-top", h.getBoundingClientRect().bottom + "px");
+      };
+      const drawer = () => document.querySelector("[data-blume-nav-drawer]");
+      const syncInert = () => {
+        const d = drawer();
+        if (!d) return;
+        const mobile = !window.matchMedia("(min-width: 64rem)").matches;
+        const closed = !document.documentElement.hasAttribute("data-blume-nav-open");
+        d.inert = mobile && closed;
+      };
+      const setOpen = (open) => {
+        const d = document.documentElement;
+        if (open) { d.setAttribute("data-blume-nav-open", ""); syncDrawerTop(); }
+        else { d.removeAttribute("data-blume-nav-open"); }
+        d.style.overflow = open ? "hidden" : "";
+        document.querySelectorAll("[data-blume-nav-toggle]").forEach(b => b.setAttribute("aria-expanded", open ? "true" : "false"));
+        syncInert();
+      };
+      document.addEventListener("click", (e) => {
+        const t = e.target.closest("[data-blume-nav-toggle]");
+        if (!t) return;
+        setOpen(!document.documentElement.hasAttribute("data-blume-nav-open"));
+      });
+      window.addEventListener("resize", () => {
+        if (document.documentElement.hasAttribute("data-blume-nav-open") && window.matchMedia("(min-width: 64rem)").matches) {
+          setOpen(false);
+        } else {
+          syncDrawerTop();
+          syncInert();
+        }
+      });
+      // Pressing Esc closes the drawer.
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") setOpen(false);
+      });
+      syncInert();
+    })();
   </script>
 </body>
 </html>
