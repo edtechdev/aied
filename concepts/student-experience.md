@@ -49,3 +49,4 @@ Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai
 - [[student-mental-models-genai]]
 - [[genai-usage-design-students-survey]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
+- [[student-llm-interaction-taxonomy-review-2026]]

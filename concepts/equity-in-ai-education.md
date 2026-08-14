@@ -97,3 +97,4 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[dyslexlens-dyslexic-learners-ai]]
 - [[amponsah-ai-acceptance-science-teachers-2026]]
 - [[ground-truth-reliability-aied]]
+- [[sovereign-hive-titl-further-education-2026]]

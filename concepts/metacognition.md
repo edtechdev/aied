@@ -84,4 +84,4 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[chatgpt-critical-creative-thinking-review]]
 - [[code-review-genai-cs1]]
 - [[codify-socratic-programming-tutor]]
-- [[cognitive-offloading-speedup-illusion]]
+- [[cognitive-offloading-speedup-illusion]]- [[probing-ai-generated-physics-solutions-2026]]
