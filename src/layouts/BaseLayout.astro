@@ -12,6 +12,7 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
   <meta name="description" content={description} />
   <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="/aied/rss.xml" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
+  <link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
   <style>
     /* Force a dark theme with a light, high-contrast accent (sky blue, not purple).
        Match Pico v1's theme-variable specificity so the override actually wins:
@@ -54,12 +55,39 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
     header {
       background: #15212b;
       border-bottom: 1px solid var(--primary);
-      padding: 1rem 0;
+      padding: 0.75rem 0;
     }
     header .container {
       display: flex;
       justify-content: space-between;
       align-items: center;
+      gap: 1rem;
+    }
+    .header-search {
+      flex: 1;
+      max-width: 30rem;
+      min-width: 0;
+      display: flex;
+    }
+    .header-search pagefind-searchbox {
+      width: 100%;
+    }
+    .header-search pagefind-searchbox::part(input) {
+      width: 100%;
+      padding: 0.5rem 0.9rem;
+      font-size: 0.95rem;
+      border: 1px solid var(--muted-border-color);
+      border-radius: 8px;
+      background: #0d1418;
+      color: var(--color);
+    }
+    .header-search pagefind-searchbox::part(input)::placeholder {
+      color: var(--muted-color);
+    }
+    .header-search pagefind-searchbox::part(input):focus {
+      border-color: var(--primary);
+      outline: none;
+      box-shadow: 0 0 0 3px var(--primary-focus);
     }
     header a {
       color: white;
@@ -68,12 +96,21 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
     header nav a {
       margin-left: 1.5rem;
       font-size: 0.95rem;
+      white-space: nowrap;
     }
-    /* Mobile: keep header nav usable on narrow screens */
-    @media (max-width: 480px) {
-      header .container { flex-wrap: wrap; gap: 0.25rem 0.5rem; }
+    /* Mobile: keep header usable on narrow screens */
+    @media (max-width: 640px) {
+      header .container {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        justify-content: space-between;
+      }
+      .header-search {
+        order: 3;
+        max-width: none;
+        flex-basis: 100%;
+      }
       header nav a { margin-left: 0.9rem; font-size: 0.9rem; }
-      .search-bar input { font-size: 1rem; }
     }
     main {
       flex: 1;
@@ -160,10 +197,13 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
   <header>
     <div class="container">
       <a href="/aied/" style="font-size:1.3rem;font-weight:700">🧠 AI Ed Wiki</a>
+      <div class="header-search">
+        <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
+        <pagefind-searchbox placeholder="Search articles & concepts..."></pagefind-searchbox>
+      </div>
       <nav>
         <a href="/aied/">Home</a>
         <a href="/aied/journal">Journal</a>
-        <a href="/aied/search">Search</a>
       </nav>
     </div>
   </header>
@@ -181,5 +221,8 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
       <a href="/aied/rss.xml">RSS</a>
     </div>
   </footer>
+  <script is:inline>
+    import("/aied/pagefind/pagefind-component-ui.js");
+  </script>
 </body>
 </html>
