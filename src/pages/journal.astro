@@ -38,11 +38,6 @@ const dates = Object.keys(byDate).sort().reverse();
           <a href={href} style="font-weight:500;">
             <span style="font-size:0.8rem;">{badge}</span> {item.data.title}
           </a>
-          <div style="font-size:0.72rem;color:var(--muted-color);margin-top:0.2rem;">
-            {(item.data.tags || []).slice(0, 6).map((tag, i) => (
-              <>{i > 0 ? ', ' : ''}<a href={`/aied/tags/${tag}`} class="tag-chip" style="font-size:0.68rem;padding:0.05rem 0.4rem;">{tag}</a></>
-            ))}
-          </div>
         </div>
       )})}
     </details>
