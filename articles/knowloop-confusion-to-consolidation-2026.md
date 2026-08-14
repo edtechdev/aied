@@ -71,7 +71,6 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[ai-adult-learning-design]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 - [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform

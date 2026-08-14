@@ -38,7 +38,6 @@ The framework challenges educators to evaluate not just outputs but the distribu
 ## Connected Articles
 
 - [[ai-adult-learning-guidelines-dis2026]]
-- [[ai-adult-learning-design]]
 - [[ai-lifelong-learning-policy]]
 - [[cognitive-offloading-llm-synthesis-writing]]
 - [[genai-over-reliance-learning-2026]]

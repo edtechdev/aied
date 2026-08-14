@@ -20,7 +20,7 @@ This study challenges the assumption that emotional design in educational AI pro
 
 ## Connected Articles
 - [[ai-in-the-wild-college]]
-- [[ai-adult-learning-design]]
+- [[ai-adult-learning-guidelines-dis2026]]
 - [[test-driven-ai-assisted-learning]]
 - [[teaching-intro-ai-course-redesign-bill-of-rights-2026]]
 
