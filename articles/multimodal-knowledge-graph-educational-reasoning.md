@@ -3,12 +3,12 @@ title: "Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lect
 created: 2026-08-09
 updated: 2026-08-09
 type: article
-tags: [multimodal, ai-education, knowledge-tracing, student-modeling, generative-ai, lecture-review, evidence, adaptive-learning]
+tags: [multimodal, ai-education, knowledge-graph, knowledge-tracing, student-modeling, generative-ai, lecture-review, evidence, adaptive-learning]
 sources: ['raw/papers/2608.03161v1.md']
 confidence: high
 ---
 
-> **Synthesis:** This paper introduces an evidence-grounded multimodal pipeline that constructs provenance-rich [[knowledge-tracing|knowledge graphs]] from lecture videos by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.
+> **Synthesis:** This paper introduces an evidence-grounded multimodal pipeline that constructs provenance-rich [[knowledge-graph|knowledge graphs]] from lecture videos by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.
 
 ## Pipeline Architecture
 
@@ -47,6 +47,7 @@ The auditable construction method is the key contribution — unlike black-box k
 
 ## Connected Concepts
 
+- [[knowledge-graph]]
 - [[knowledge-tracing]]
 - [[ai-education]]
 - [[student-modeling]]
