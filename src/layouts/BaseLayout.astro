@@ -13,19 +13,28 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = 
   <link rel="alternate" type="application/rss+xml" title="AI Ed Wiki RSS" href="/aied/rss.xml" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css" />
   <style>
-    :root {
+    /* Match Pico v1's theme-variable specificity so this override actually wins.
+       Pico defines its vars under `:root:not([data-theme=dark]), [data-theme=light]`,
+       which beats a plain `:root` selector. */
+    :root:not([data-theme=dark]),
+    [data-theme=light] {
       --primary: #6d28d9;
+      --primary-hover: #5b21b6;
+      --primary-focus: rgba(109, 40, 217, 0.125);
       /* Pico defaults --font-size to 16px on phones. Bump the mobile base for
          readability and to reduce browser-to-browser (Chrome vs Firefox Android)
          rendering differences driven by text-size-adjust / device font scaling. */
       --font-size: 17px;
+    }
+    @media (min-width: 768px) {
+      :root:not([data-theme=dark]),
+      [data-theme=light] { --font-size: 18px; }
     }
     html {
       -webkit-text-size-adjust: 100%;
       -moz-text-size-adjust: 100%;
       text-size-adjust: 100%;
     }
-    @media (min-width: 768px) { :root { --font-size: 18px; } }
     body {
       min-height: 100vh;
       display: flex;
