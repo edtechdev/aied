@@ -108,12 +108,13 @@ export const GET = () => {
 };
 ---
 
-<BaseLayout title="Home">
+<BaseLayout title="Home" showNavToggle>
   <!-- === Three-column docs layout === -->
   <div class="docs-layout">
 
-    <!-- Left: collapsible concept navigation -->
-    <aside class="sidebar" aria-label="Concept navigation">
+    <!-- Left: collapsible concept navigation (drawer on mobile) -->
+    <button class="nav-backdrop" data-blume-nav-toggle type="button" aria-label="Close navigation"></button>
+    <aside class="sidebar" data-blume-nav-drawer aria-label="Concept navigation">
       <div class="sidebar-heading">
         <a href="/aied/concepts/ai-education">🤖 AI in Education</a>
         <span class="sidebar-count">{indexedCount} concepts</span>
@@ -209,14 +210,52 @@ export const GET = () => {
     }
   }
 
-  /* === Left sidebar === */
+  /* === Left sidebar / mobile drawer ===
+     One element serves both: on mobile (<1024px) it is a fixed off-canvas drawer
+     opened by the header hamburger (Blume-style); on desktop it is the static
+     sticky sidebar. The `[data-blume-nav-open]` attribute lives on <html>. */
+  .nav-backdrop {
+    position: fixed;
+    inset: 0;
+    z-index: 30;
+    display: none;
+    background: rgba(0, 0, 0, 0.5);
+    border: 0;
+    cursor: pointer;
+  }
+  [data-blume-nav-open] .nav-backdrop { display: block; }
   .sidebar {
-    position: sticky;
-    top: 1.25rem;
-    max-height: calc(100vh - 2.5rem);
+    position: fixed;
+    top: var(--drawer-top, 4rem);
+    left: 0;
+    z-index: 35;
+    height: calc(100dvh - var(--drawer-top, 4rem));
+    width: 17rem;
+    max-width: 80vw;
+    transform: translateX(-105%);
+    transition: transform 0.25s ease;
     overflow-y: auto;
-    padding-right: 0.5rem;
+    background: var(--background-color);
     border-right: 1px solid var(--card-border-color);
+    padding: 1rem 1.25rem 1.5rem 1rem;
+  }
+  [data-blume-nav-open] .sidebar { transform: translateX(0); }
+  @media (min-width: 1024px) {
+    .nav-backdrop { display: none !important; }
+    .sidebar {
+      position: sticky;
+      top: 1.25rem;
+      height: auto;
+      max-height: calc(100vh - 2.5rem);
+      max-width: none;
+      width: auto;
+      transform: none;
+      transition: none;
+      z-index: auto;
+      background: transparent;
+      border-right: 1px solid var(--card-border-color);
+      padding: 0 0.5rem 0 0;
+    }
   }
   .sidebar-heading {
     margin-bottom: 0.75rem;
@@ -309,12 +348,16 @@ export const GET = () => {
 
   /* === Right column: recent activity === */
   .right-col {
-    position: sticky;
-    top: 1.25rem;
-    max-height: calc(100vh - 2.5rem);
-    overflow-y: auto;
     padding-left: 0.5rem;
     border-left: 1px solid var(--card-border-color);
+  }
+  @media (min-width: 1024px) {
+    .right-col {
+      position: sticky;
+      top: 1.25rem;
+      max-height: calc(100vh - 2.5rem);
+      overflow-y: auto;
+    }
   }
   .recent-block {
     margin-bottom: 2rem;
