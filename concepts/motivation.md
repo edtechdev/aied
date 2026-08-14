@@ -45,4 +45,4 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[scheu-mobile-chatbot-journaling-motivation-2026]]
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
-- [[self-efficacy-tutoring-learning]]
+- [[self-efficacy-tutoring-learning]]- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory

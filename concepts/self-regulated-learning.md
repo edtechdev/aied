@@ -104,3 +104,4 @@ For example:
 - [[andragogy-cognitive-delegation-genai-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[bilingual-llm-lecture-companion-srl-2026]]
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
