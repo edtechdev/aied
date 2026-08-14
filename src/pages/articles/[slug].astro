@@ -118,7 +118,7 @@ const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○'
       <div style="color:var(--muted-color);font-size:0.9rem">
         {confIcon} {confidence} · {created}
         {(tags || []).map((tag: string, i: number) => (
-          <>{i > 0 ? ', ' : ''}<span class="tag-chip">{tag}</span></>
+          <>{i > 0 ? ', ' : ' · '}<span class="tag-chip">{tag}</span></>
         ))}
       </div>
     </div>
