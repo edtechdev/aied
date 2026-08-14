@@ -37,6 +37,7 @@ A heuristic evaluation of the original deployed systems against the guidelines d
 
 ## Connected Concepts
 
+- [[adult-learning]]
 - [[personalized-learning]]
 - [[adaptive-learning]]
 - [[faculty-development]]
