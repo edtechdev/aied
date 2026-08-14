@@ -15,7 +15,7 @@ The central tension in AIED research is that the strongest designs for causal in
 
 An **efficacy study** tests whether an intervention produces its intended learning effect, typically using experimental or quasi-experimental designs that compare outcomes with and without the intervention. Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes like learning gains, engagement, or motivation. **Randomized controlled trials** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, between-subjects, or matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
 
-- **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and [[research-methods-aied|efficacy claims]].
+- **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and efficacy claims.
 - **Limitations:** costly and slow; artificial conditions can reduce ecological validity; fast-changing AI tools make long experiments date quickly; small samples often underpower detection of meaningful effects; ethical constraints on withholding potentially helpful tools.
 - **Exemplars:** [[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]], [[agent-voice-accents-k12-group-learning]], [[ai-use-critical-thinking-medical-students-2026]].
 

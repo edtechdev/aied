@@ -25,7 +25,7 @@ LearnMate^2 addresses the **personalization gap** in online learning: while onli
 - **Comparative evaluation (n=16)** against a state-of-the-art online learning platform plus an LLM
 - **Results:** LearnMate^2 improved both learning outcomes and user experience vs. the baseline
 
-The study demonstrates that LLM-powered [[personalized-learning]] can bridge the guidance gap in open online education. This connects to the broader [[adaptive-learning]] literature and extends findings from [[learnmate2-llm-adaptive-learning]] prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai]] vision of integrated educational AI.
+The study demonstrates that LLM-powered [[personalized-learning]] can bridge the guidance gap in open online education. This connects to the broader [[adaptive-learning]] literature and extends findings from learnmate2-llm-adaptive-learning prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai]] vision of integrated educational AI.
 
 The work also contributes to understanding how [[scaffolding]] can be implemented at scale in digital environments, complementing [[ai-metacognition-stem-review]] findings on metacognitive support tools.
 
