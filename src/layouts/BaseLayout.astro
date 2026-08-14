@@ -128,6 +128,16 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       color: white;
       text-decoration: none;
     }
+    .brand-link {
+      display: inline-flex;
+      align-items: center;
+      font-size: 1.3rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+    .brand-link img {
+      flex-shrink: 0;
+    }
     header nav a {
       margin-left: 1.5rem;
       font-size: 0.95rem;
@@ -307,7 +317,10 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
           </svg>
         </button>
       )}
-      <a href="/aied/" style="font-size:1.3rem;font-weight:700">🧠 AI Ed Wiki</a>
+      <a href="/aied/" class="brand-link">
+        <img src="/aied/logo.svg" alt="AI Ed Wiki logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
+        <span>AI Ed Wiki</span>
+      </a>
       <div class="header-search">
         <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
         <pagefind-searchbox placeholder="Search articles & concepts..."></pagefind-searchbox>
