@@ -30,7 +30,6 @@ Learning-by-teaching helps learners deepen understanding by explaining concepts 
 ## Connected Concepts
 
 - [[learning-by-teaching]]
-- [[teachable-agents]]
 - [[generative-ai]]
 - [[language-learning]]
 - [[student-experience]]

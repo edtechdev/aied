@@ -32,7 +32,6 @@ The method relies on **questions with engineered knowledge gaps that only a stud
 ## Connected Concepts
 
 - [[learning-by-teaching]]
-- [[teachable-agents]]
 - [[generative-ai]]
 - [[cs-education]]
 - [[programming-education]]

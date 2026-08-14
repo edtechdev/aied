@@ -41,7 +41,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[higher-ed]]
 - [[scaffolding]]
 - [[pedagogical-llm-training]]
-- [[teachable-agents]]
+- [[learning-by-teaching]]
 ## Connected Articles
 - [[multimodal-item-parameter-estimation-2026]]
 

@@ -36,7 +36,6 @@ LLMs trained on massive corpora skew toward fluent, expert-level prose, predispo
 ## Connected Concepts
 
 - [[learning-by-teaching]]
-- [[teachable-agents]]
 - [[prompt-engineering]]
 - [[generative-ai]]
 - [[scaffolding]]
