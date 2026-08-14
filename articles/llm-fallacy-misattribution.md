@@ -63,7 +63,6 @@ Three system properties enable the fallacy via two cognitive mediators:
 
 ## Connected Concepts
 
-- [[llm-cognitive-diagnosis-handwritten-math]]
 - [[metacognition]]
 - [[self-regulated-learning]]
 
@@ -72,12 +71,12 @@ Three system properties enable the fallacy via two cognitive mediators:
 - [[llm]]
 - [[rag]]
 - [[scaffolding]]
+- [[transfer-of-learning]] — AI Learning Transfer
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[authentic-assessment]] — Authentic Assessment
 - [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
 - [[educational-llm-alignment]] — Educational LLM Alignment
@@ -99,7 +98,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-
+- [[llm-cognitive-diagnosis-handwritten-math]]
 ## Citation
 
 Kim, H., Yu, H., & Yi, H. (2026). [*The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*](https://arxiv.org/abs/2604.14807). arXiv:2604.14807.

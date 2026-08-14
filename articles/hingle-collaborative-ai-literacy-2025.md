@@ -35,11 +35,11 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[ai-literacy-assessment-misalignment]]
 - [[k-12-ai-education]]
 
 - [[higher-ed]]
 - [[llm]]
+
 ## Connected Articles
 
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
@@ -67,7 +67,7 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-
+- [[ai-literacy-assessment-misalignment]]
 ## Citation
 
 Hingle, A., & Johri, A. (2025). [Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1). arXiv:2508.15111.

@@ -27,7 +27,6 @@ The lab is used, together with a simple rotating platform, to characterize both 
 - [[physics-education]]
 - mobile learning
 - [[generative-ai]]
-- [[generative-ai]]
 - [[stem-education]]
 - [[personalized-learning]]
 - [[scaffolding]]

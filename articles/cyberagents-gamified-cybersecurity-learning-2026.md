@@ -26,7 +26,6 @@ Classroom deployment with undergraduate students, complemented by expert evaluat
 
 - [[agentic-ai]]
 - [[cs-education]]
-- [[cs-education]]
 - [[pedagogical-safety]]
 - [[llm]]
 - [[professional-training]]

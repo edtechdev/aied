@@ -32,9 +32,9 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[affective-tutoring]]
 - [[over-reliance]]
 - [[self-regulated-learning]]
-- [[self-efficacy-tutoring-learning]]
 - [[teacher-role]]
 - [[ai-education]]
+
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]
 
@@ -45,3 +45,4 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[scheu-mobile-chatbot-journaling-motivation-2026]]
 - [[framing-5-percent-problem-teachers-persistence]]
 - [[from-emotion-regulation-to-academic-success-a-self-determination-theory-based-em]]
+- [[self-efficacy-tutoring-learning]]

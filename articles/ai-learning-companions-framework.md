@@ -30,10 +30,10 @@ Validated across five diverse educational contexts, levels, and tool designs, re
 
 - [[self-regulated-learning]]
 - [[metacognition]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[llm-fallacy-misattribution]]
-- [[transfer-of-learning]]
 - [[llm-student-modeling-memory]]
 - [[ai-tutor-safety-harms]]
 ## Citation

@@ -40,14 +40,13 @@ The long-term institutional risk is credential inflation: if degrees and certifi
 - [[ai-literacy]]
 - [[assessment-validity]]
 - [[cognitive-load-theory]]
-- [[cognitive-offloading-llm-synthesis-writing]]
 
 - [[llm]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
-- [[authentic-assessment]] — Authentic Assessment
 - [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
 - [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
@@ -70,7 +69,7 @@ The long-term institutional risk is credential inflation: if degrees and certifi
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
 - [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
-
+- [[cognitive-offloading-llm-synthesis-writing]]
 ## Citation
 
 Kim, H., Yu, H., & Yi, H. (2026). [*The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*](https://arxiv.org/abs/2604.14807). arXiv:2604.14807.

@@ -35,9 +35,6 @@ For [[professional-training]] and institutional [[educational-policy-ai]], the f
 - [[generative-ai]]
 - [[professional-training]]
 - [[teacher-ai-competency]]
-- [[professional-training]]
-- [[professional-training]]
-- [[professional-training]]
 
 ## Connected Articles
 

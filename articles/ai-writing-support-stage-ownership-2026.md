@@ -34,10 +34,10 @@ confidence: high
 - [[writing-education]]
 
 - [[llm]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
-- [[authentic-assessment]] — Authentic Assessment
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module

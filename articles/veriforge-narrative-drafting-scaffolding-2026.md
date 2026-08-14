@@ -40,7 +40,6 @@ The graph-based [[rag]] pipeline with source-anchored evidence cards also models
 - [[over-reliance]]
 - [[rag]]
 - [[scaffolding]]
-- [[hallucination-risk]]
 - [[writing-education]]
 - [[zone-of-proximal-development]]
 

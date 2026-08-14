@@ -29,7 +29,6 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 
 - [[bias-mitigation]]
 - [[equity-in-ai-education]]
-- [[equity-in-ai-education]]
 - [[automated-grading]]
 - [[language-learning]]
 - [[educational-measurement]]

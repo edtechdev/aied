@@ -23,10 +23,10 @@ This approach represents a novel intersection of LLM benchmarking and [[assessme
 - [[learning-analytics]]
 - [[k-12]]
 - [[higher-ed]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]
-- [[transfer-of-learning]]
 ## Citation
 
 Chenguang Wang, Ming Li, Xinyue Zeng, Zhuochun Li, Hong Jiao (2026). [Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction](https://arxiv.org/abs/2606.28186). arXiv:2606.28186. Computation and Language (cs.CL).

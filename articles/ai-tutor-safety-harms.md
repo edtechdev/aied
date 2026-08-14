@@ -67,11 +67,11 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 
 - [[metacognition]]
 - [[self-regulated-learning]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[hazra-safetutors-pedagogical-safety-2026]]
 - [[tutoring-specific-vs-general-ai]]
-- [[transfer-of-learning]]
 - [[llm-fallacy-misattribution]]
 ## Citation
 

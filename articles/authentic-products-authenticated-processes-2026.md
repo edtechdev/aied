@@ -41,9 +41,9 @@ The framework becomes a **review instrument for assessment briefs**: teams exami
 - [[generative-ai]]
 - [[higher-ed]]
 - [[llm]]
+- [[authentic-assessment]] — Authentic Assessment
 ## Connected Articles
 
-- [[authentic-assessment]] — Authentic Assessment
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence

@@ -15,9 +15,9 @@ Akgun and Toker (2026) examine whether learning gains from GenAI-enabled adaptiv
 - [[rct]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
-- [[transfer-of-learning]]
 ## Citation
 
 Mahir Akgun, Sacip Toker (2026). [Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study](https://arxiv.org/abs/2606.22328). arXiv:2606.22328. 27th International Conference on AI in Education

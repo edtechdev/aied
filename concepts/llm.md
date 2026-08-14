@@ -40,11 +40,10 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[knowledge-tracing]]
 - [[higher-ed]]
 - [[scaffolding]]
-
+- [[pedagogical-llm-training]]
 ## Connected Articles
 - [[multimodal-item-parameter-estimation-2026]]
 
-- [[pedagogical-llm-training]]
 - [[educational-llm-alignment]]
 - [[cstutorbench-slm-tutors]]
 - [[ai-tutor-safety-harms]]

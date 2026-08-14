@@ -22,7 +22,6 @@ confidence: medium
 - [[rct]]
 - [[learning-analytics]]
 - [[educational-policy-ai]]
-- [[adaptive-learning]]
 ## Connected Articles
 - [[ai-generated-interactive-fiction-education-2026]]
 

@@ -27,7 +27,6 @@ On held-out evaluations the agent improves diagnostic accuracy by 7.0% under adv
 - [[reinforcement-learning]]
 - [[simulation]]
 - [[professional-training]]
-- [[professional-training]]
 - [[llm]]
 - [[ai-tutoring]]
 - [[trust-calibration]]

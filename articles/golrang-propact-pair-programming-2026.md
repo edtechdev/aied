@@ -34,9 +34,9 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 
 - [[adaptive-learning]]
 
-- [[adaptive-learning]]
 - [[ai-tutoring]]
 - [[rag]]
+- [[transfer-of-learning]] — AI Learning Transfer
 ## Connected Articles
 
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
@@ -52,7 +52,6 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[transfer-of-learning]] — AI Learning Transfer
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
 - [[ai-stem-bibliometric-trends]] — Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms

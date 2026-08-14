@@ -15,7 +15,6 @@ Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and
 ## Connected Concepts
 
 - [[active-learning]]
-- [[active-learning]]
 - [[k-12]]
 - [[higher-ed]]
 - [[cs-education]]

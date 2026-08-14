@@ -37,7 +37,6 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[adaptive-learning]]
 - [[affective-tutoring]]
 - [[ai-ed-evaluation]]
 - [[ai-education]]
@@ -46,7 +45,6 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 - [[educational-policy-ai]]
 - [[knowledge-tracing]]
 - [[learning-analytics]]
-- [[adaptive-learning]]
 - [[metacognition]]
 - [[pedagogical-llm-training]]
 - [[rct]]
