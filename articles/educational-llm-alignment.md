@@ -59,7 +59,16 @@ This finding is a deep challenge to the [[ai-tutor-effectiveness-review|ITS effe
 
 ## Connected Concepts
 
-- [[pedagogical-llm-training]]
+- [[ai-ed-evaluation]] — the article is fundamentally about how to evaluate whether educational AI works
+- [[benchmark]] — benchmark alignment is the first of the three (often misaligned) evaluation layers
+- [[pedagogical-llm-training]] — training approaches as the intervention point for alignment
+- [[llm]] — the systems whose capabilities and impact are misaligned
+- [[generative-ai]] — the broader class of models at issue
+- [[bias-mitigation]] — shared pretraining priors and the homogeneous "pedagogy heuristic" as a fairness concern
+- [[ethics]] — the responsibility to evaluate intended impact, not proxies
+- [[teacher-role]] — the article's subject (LLMs as teaching evaluators) bears directly on the teacher's role
+- [[ai-literacy]] — interpreting and critically evaluating AI outputs
+- [[ai-education]] — the umbrella field this evaluation challenge belongs to
 ## Connected Articles
 
 - [[teachbench-llm-teaching-evaluation]]
