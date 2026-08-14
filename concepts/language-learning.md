@@ -43,3 +43,4 @@ Language learning has emerged as a significant AI in education domain because la
 - [[ai-tools-arab-english-classrooms]]
 - [[structural-silence-underrepresented-language-ai-2026]]
 - [[bilingual-llm-lecture-companion-srl-2026]]
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory

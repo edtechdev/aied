@@ -38,3 +38,4 @@ AI tutoring encompasses the use of artificial intelligence — particularly larg
 - [[tact-pedagogically-adaptive-esl-tutoring]]- [[ai-tutoring-quality-k12-methodologies-2026]]
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
+- [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
