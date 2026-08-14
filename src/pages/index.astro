@@ -223,7 +223,6 @@ export const GET = () => {
     border: 0;
     cursor: pointer;
   }
-  [data-blume-nav-open] .nav-backdrop { display: block; }
   .sidebar {
     position: fixed;
     top: var(--drawer-top, 4rem);
@@ -239,7 +238,12 @@ export const GET = () => {
     border-right: 1px solid var(--card-border-color);
     padding: 1rem 1.25rem 1.5rem 1rem;
   }
-  [data-blume-nav-open] .sidebar { transform: translateX(0); }
+  /* The data-blume-nav-open attribute lives on <html>, so the attribute
+     selector must be :global — otherwise Astro scoping would require the
+     same element to carry both the scope id and the attribute, and the rule
+     would never match the drawer. */
+  :global([data-blume-nav-open]) .nav-backdrop { display: block; }
+  :global([data-blume-nav-open]) .sidebar { transform: translateX(0); }
   @media (min-width: 1024px) {
     .nav-backdrop { display: none !important; }
     .sidebar {
