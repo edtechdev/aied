@@ -26,6 +26,7 @@ This work extends research on [[llm-student-simulation-misconception-faithfulnes
 
 ## Connected Concepts
 
+- [[learning-by-teaching]]
 - [[llm]]
 - [[intelligent-tutoring]]
 - [[learning-analytics]]

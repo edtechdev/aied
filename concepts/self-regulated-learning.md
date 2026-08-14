@@ -66,6 +66,7 @@ For example:
 
 ## Connected Concepts
 
+- [[learning-by-teaching]]
 - [[metacognition]]
 - [[ai-literacy]]
 - [[scaffolding]]

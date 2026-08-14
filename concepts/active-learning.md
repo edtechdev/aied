@@ -15,6 +15,7 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 
 ## Connected Concepts
 
+- [[learning-by-teaching]]
 - [[scaffolding]]
 - [[constructivist]]
 - [[instructional-design]]
@@ -27,6 +28,7 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - [[feedback-loop]]
 - [[over-reliance]]
 - [[collaborative-learning]]
+- [[teachable-agents]]
 ## Connected Articles
 
 - [[lak2026-hint-button-unproductive-use]]
