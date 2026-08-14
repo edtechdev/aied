@@ -113,7 +113,7 @@ const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○'
 ---
 
 <BaseLayout title={title}>
-  <article data-pagefind-filter="page_type:concept">
+  <article data-pagefind-filter="page_type:concept" data-pagefind-weight="2">
     <div class="page-header">
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">🏷️ Concept</p>
       <h1>{title}</h1>

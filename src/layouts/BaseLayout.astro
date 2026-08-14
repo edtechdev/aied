@@ -1,6 +1,37 @@
 ---
-// Base layout with nav, search, footer
-const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', showNavToggle = false } = Astro.props;
+// Base layout with global header (search), 3-column docs layout (sidebar nav +
+// right recent column), and footer. The page's own content renders in the
+// middle column via <slot />, so every page gets the docs chrome automatically.
+import { getCollection } from 'astro:content';
+import { conceptIndex } from '../data/conceptIndex';
+
+const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki' } = Astro.props;
+
+const concepts = await getCollection('concepts');
+const articles = await getCollection('articles');
+
+// slug -> title lookup (only existing concepts render links)
+const conceptMap: Record<string, string> = {};
+concepts.forEach(c => { conceptMap[c.id.replace('.md', '')] = c.data.title; });
+
+const indexedCount = [...new Set(conceptIndex.flatMap(s => s.groups.flatMap(g => g.items)))]
+  .filter(s => conceptMap[s]).length;
+
+// Recent articles (reverse chronological)
+const recentArticles = articles
+  .slice()
+  .sort((a, b) => (b.data.created || '').localeCompare(a.data.created || ''))
+  .slice(0, 12);
+
+// Recently updated concepts
+const recentConcepts = concepts
+  .filter(c => c.data.updated || c.data.created)
+  .sort((a, b) => {
+    const aDate = a.data.updated || a.data.created;
+    const bDate = b.data.updated || b.data.created;
+    return bDate.localeCompare(aDate);
+  })
+  .slice(0, 15);
 ---
 
 <!DOCTYPE html>
@@ -15,19 +46,13 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
   <link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
   <style>
     /* Force a dark theme with a light, high-contrast accent (sky blue, not purple).
-       Match Pico v1's theme-variable specificity so the override actually wins:
-       Pico defines its dark vars under `[data-theme=dark]`. */
+       Match Pico v1's theme-variable specificity so the override actually wins. */
     [data-theme=dark] {
       --primary: #7dd3fc;
       --primary-hover: #bae6fd;
       --primary-focus: rgba(125, 211, 252, 0.28);
-      /* Pico defaults --font-size to 16px on phones. Bump the mobile base for
-         readability and to reduce browser-to-browser rendering differences. */
       --font-size: 17px;
-      /* Theme the Pagefind search components to match the dark site.
-         They are driven by --pf-* variables inherited from :root, and their
-         own :is() selectors out-specificity a ::part override, so setting the
-         variables here is the reliable way to make them dark. */
+      /* Theme the Pagefind search components to match the dark site. */
       --pf-background: #0d1418;
       --pf-text: #e8eef2;
       --pf-text-secondary: #c2ccd4;
@@ -40,7 +65,6 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       --pf-mark: #ffe9a3;
       --pf-scroll-shadow: rgba(0, 0, 0, 0.5);
     }
-    /* Keep a coherent light accent too, in case the theme is ever toggled. */
     :root:not([data-theme=dark]),
     [data-theme=light] {
       --primary: #0284c7;
@@ -63,7 +87,8 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       display: flex;
       flex-direction: column;
     }
-    /* Use more of the browser width on large screens */
+
+    /* === Header === */
     @media (min-width: 1200px) {
       .container { max-width: 1440px; }
     }
@@ -108,9 +133,7 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       min-width: 0;
       display: flex;
     }
-    .header-search pagefind-searchbox {
-      width: 100%;
-    }
+    .header-search pagefind-searchbox { width: 100%; }
     .header-search pagefind-searchbox::part(input) {
       width: 100%;
       padding: 0.5rem 0.9rem;
@@ -120,18 +143,13 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       background: #0d1418;
       color: var(--color);
     }
-    .header-search pagefind-searchbox::part(input)::placeholder {
-      color: var(--muted-color);
-    }
+    .header-search pagefind-searchbox::part(input)::placeholder { color: var(--muted-color); }
     .header-search pagefind-searchbox::part(input):focus {
       border-color: var(--primary);
       outline: none;
       box-shadow: 0 0 0 3px var(--primary-focus);
     }
-    header a {
-      color: white;
-      text-decoration: none;
-    }
+    header a { color: white; text-decoration: none; }
     .brand-link {
       display: inline-flex;
       align-items: center;
@@ -139,14 +157,7 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       font-weight: 700;
       white-space: nowrap;
     }
-    .brand-link img {
-      flex-shrink: 0;
-    }
-    header nav a {
-      margin-left: 1.5rem;
-      font-size: 0.95rem;
-      white-space: nowrap;
-    }
+    .brand-link img { flex-shrink: 0; }
     /* Mobile: keep header usable on narrow screens */
     @media (max-width: 640px) {
       header .container {
@@ -159,30 +170,209 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
         max-width: none;
         flex-basis: 100%;
       }
-      header nav a { margin-left: 0.9rem; font-size: 0.9rem; }
     }
+
     main {
       flex: 1;
       padding-top: 2rem;
     }
+
+    /* === Three-column docs layout === */
+    .docs-layout {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      align-items: start;
+    }
+    @media (min-width: 1024px) {
+      .docs-layout { grid-template-columns: 17rem minmax(0, 1fr); }
+    }
+    @media (min-width: 1280px) {
+      .docs-layout { grid-template-columns: 17rem minmax(0, 1fr) 19rem; }
+    }
+
+    /* === Left sidebar / mobile drawer ===
+       One element serves both: on mobile (<1024px) it is a fixed off-canvas
+       drawer opened by the header hamburger (Blume-style); on desktop it is the
+       static sticky sidebar. The [data-blume-nav-open] attribute lives on <html>. */
+    .nav-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 30;
+      display: none;
+      background: rgba(0, 0, 0, 0.5);
+      border: 0;
+      cursor: pointer;
+    }
+    .sidebar {
+      position: fixed;
+      top: var(--drawer-top, 4rem);
+      left: 0;
+      z-index: 35;
+      height: calc(100dvh - var(--drawer-top, 4rem));
+      width: 17rem;
+      max-width: 80vw;
+      transform: translateX(-105%);
+      transition: transform 0.25s ease;
+      overflow-y: auto;
+      background: var(--background-color);
+      border-right: 1px solid var(--card-border-color);
+      padding: 1rem 1.25rem 1.5rem 1rem;
+    }
+    /* The data-blume-nav-open attribute lives on <html>, so the attribute
+       selector must be :global — otherwise Astro scoping would require the same
+       element to carry both the scope id and the attribute, and the rule would
+       never match the drawer. */
+    :global([data-blume-nav-open]) .nav-backdrop { display: block; }
+    :global([data-blume-nav-open]) .sidebar { transform: translateX(0); }
+    @media (min-width: 1024px) {
+      .nav-backdrop { display: none !important; }
+      .sidebar {
+        position: sticky;
+        top: 1.25rem;
+        height: auto;
+        max-height: calc(100vh - 2.5rem);
+        max-width: none;
+        width: auto;
+        transform: none;
+        transition: none;
+        z-index: auto;
+        background: transparent;
+        border-right: 1px solid var(--card-border-color);
+        padding: 0 0.5rem 0 0;
+      }
+    }
+    .sidebar-heading {
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.6rem;
+      border-bottom: 1px solid var(--card-border-color);
+    }
+    .sidebar-heading a {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--color);
+      text-decoration: none;
+    }
+    .sidebar-heading a:hover { color: var(--primary); }
+    .sidebar-count {
+      display: block;
+      font-size: 0.78rem;
+      color: var(--muted-color);
+      margin-top: 0.2rem;
+    }
+    .nav-section {
+      margin: 0 0 0.35rem 0;
+      border: none;
+      padding: 0;
+    }
+    .nav-section > summary {
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.9rem;
+      color: var(--color);
+      padding: 0.4rem 0.25rem;
+      border-radius: 6px;
+      list-style-position: outside;
+    }
+    .nav-section > summary:hover { color: var(--primary); }
+    .nav-section-body { padding: 0.1rem 0 0.5rem 0.6rem; }
+    .nav-group { margin-bottom: 0.6rem; }
+    .nav-group-label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      color: var(--muted-color);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-bottom: 0.25rem;
+    }
+    .nav-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      border-left: 1px solid var(--muted-border-color);
+    }
+    .nav-list li { margin: 0; }
+    .nav-list a {
+      display: block;
+      font-size: 0.85rem;
+      padding: 0.22rem 0.6rem;
+      color: var(--muted-color);
+      text-decoration: none;
+      border-radius: 4px;
+    }
+    .nav-list a:hover {
+      color: var(--primary);
+      background: color-mix(in srgb, var(--primary) 8%, transparent);
+    }
+
+    /* === Middle: page content === */
+    .middle {
+      min-width: 0;
+      max-width: 70rem;
+    }
+
+    /* === Right column: recent activity === */
+    .right-col {
+      padding-left: 0.5rem;
+      border-left: 1px solid var(--card-border-color);
+    }
+    @media (min-width: 1024px) {
+      .right-col {
+        position: sticky;
+        top: 1.25rem;
+        max-height: calc(100vh - 2.5rem);
+        overflow-y: auto;
+      }
+    }
+    .recent-block { margin-bottom: 2rem; }
+    .recent-block h2 {
+      font-size: 1rem;
+      margin: 0 0 0.6rem 0;
+      color: var(--color);
+    }
+    .recent-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .recent-list li {
+      padding: 0.4rem 0;
+      border-bottom: 1px solid var(--muted-border-color);
+    }
+    .recent-list li:last-child { border-bottom: none; }
+    .recent-list a {
+      display: block;
+      font-size: 0.88rem;
+      font-weight: 500;
+      color: var(--color);
+      text-decoration: none;
+      line-height: 1.4;
+    }
+    .recent-list a:hover { color: var(--primary); }
+    .recent-date {
+      display: block;
+      font-size: 0.75rem;
+      color: var(--muted-color);
+      margin-top: 0.1rem;
+    }
+    .recent-more { margin: 0.6rem 0 0 0; }
+    .recent-more a { font-size: 0.88rem; }
+
+    /* === Footer === */
     footer {
       text-align: center;
       padding: 2rem 0;
       color: var(--muted-color);
       font-size: 0.85rem;
     }
-    footer .footer-nav {
-      margin-bottom: 1.5rem;
-    }
+    footer .footer-nav { margin-bottom: 1.5rem; }
     footer .footer-nav a {
       color: var(--color);
       text-decoration: none;
       font-size: 1rem;
       font-weight: 500;
     }
-    footer .footer-nav a:hover {
-      color: var(--primary);
-    }
+    footer .footer-nav a:hover { color: var(--primary); }
     .site-footer {
       border-top: 1px solid var(--muted-border-color);
       padding-top: 1.5rem;
@@ -216,28 +406,14 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       line-height: 1.5;
       font-weight: 400;
     }
-    .footer-text {
-      color: var(--muted-color);
-      font-size: 0.85rem;
-    }
-    .footer-text strong {
-      font-weight: 500;
-    }
-    .footer-disclaimer {
-      color: var(--muted-color);
-      font-size: 0.8rem;
-    }
-    .footer-contact {
-      color: var(--muted-color);
-      font-size: 0.85rem;
-    }
-    .footer-link {
-      color: var(--primary);
-      text-decoration: none;
-    }
-    .footer-link:hover {
-      text-decoration: underline;
-    }
+    .footer-text { color: var(--muted-color); font-size: 0.85rem; }
+    .footer-text strong { font-weight: 500; }
+    .footer-disclaimer { color: var(--muted-color); font-size: 0.8rem; }
+    .footer-contact { color: var(--muted-color); font-size: 0.85rem; }
+    .footer-link { color: var(--primary); text-decoration: none; }
+    .footer-link:hover { text-decoration: underline; }
+
+    /* === Shared page chrome === */
     .page-header {
       margin-bottom: 2rem;
       padding-bottom: 1rem;
@@ -261,10 +437,7 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       font-size: 0.8rem;
       text-decoration: none;
     }
-    .tag-chip:hover {
-      opacity: 0.9;
-      color: var(--primary);
-    }
+    .tag-chip:hover { opacity: 0.9; color: var(--primary); }
     .citation {
       margin-top: 3rem;
       padding: 1rem;
@@ -275,12 +448,8 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       padding: 0.5rem 0;
       border-bottom: 1px solid var(--card-border-color);
     }
-    .page-item:last-child {
-      border-bottom: none;
-    }
-    .search-bar {
-      margin: 1rem 0 2rem 0;
-    }
+    .page-item:last-child { border-bottom: none; }
+    .search-bar { margin: 1rem 0 2rem 0; }
     .search-bar input {
       width: 100%;
       padding: 0.75rem 1rem;
@@ -291,7 +460,6 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       border-collapse: collapse;
       margin: 1rem 0;
     }
-    /* Prevent wide tables from breaking mobile layout */
     @media (max-width: 768px) {
       table { display: block; overflow-x: auto; white-space: nowrap; }
     }
@@ -304,23 +472,19 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       background: rgba(0,0,0,0.04);
       font-weight: 600;
     }
-    tr:nth-child(even) {
-      background: rgba(0,0,0,0.02);
-    }
+    tr:nth-child(even) { background: rgba(0,0,0,0.02); }
   </style>
 </head>
 <body>
   <header data-blume-header>
     <div class="container">
-      {showNavToggle && (
-        <button class="nav-toggle" data-blume-nav-toggle type="button" aria-label="Toggle navigation" aria-expanded="false">
-          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <line x1="3" y1="6" x2="21" y2="6" />
-            <line x1="3" y1="12" x2="21" y2="12" />
-            <line x1="3" y1="18" x2="21" y2="18" />
-          </svg>
-        </button>
-      )}
+      <button class="nav-toggle" data-blume-nav-toggle type="button" aria-label="Toggle navigation" aria-expanded="false">
+        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <line x1="3" y1="6" x2="21" y2="6" />
+          <line x1="3" y1="12" x2="21" y2="12" />
+          <line x1="3" y1="18" x2="21" y2="18" />
+        </svg>
+      </button>
       <a href="/aied/" class="brand-link">
         <img src="/aied/logo.svg" alt="AI Ed Wiki logo" width="28" height="28" style="display:inline-block;vertical-align:middle;margin-right:0.5rem;" />
         <span>AI Ed Wiki</span>
@@ -331,9 +495,74 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
       </div>
     </div>
   </header>
+
   <main class="container">
-    <slot />
+    <div class="docs-layout">
+      <!-- Left: collapsible concept navigation (drawer on mobile) -->
+      <button class="nav-backdrop" data-blume-nav-toggle type="button" aria-label="Close navigation"></button>
+      <aside class="sidebar" data-blume-nav-drawer aria-label="Concept navigation">
+        <div class="sidebar-heading">
+          <a href="/aied/concepts/ai-education">AI in Education</a>
+          <span class="sidebar-count">{indexedCount} concepts</span>
+        </div>
+        {conceptIndex.map((section, si) => (
+          <details class="nav-section" open={si === 0}>
+            <summary>{section.heading}</summary>
+            <div class="nav-section-body">
+              {section.groups.map(group => {
+                const items = group.items.filter(slug => conceptMap[slug]);
+                if (!items.length) return null;
+                return (
+                  <div class="nav-group">
+                    <div class="nav-group-label">{group.label}</div>
+                    <ul class="nav-list">
+                      {items.map(slug => (
+                        <li><a href={`/aied/concepts/${slug}`}>{conceptMap[slug]}</a></li>
+                      ))}
+                    </ul>
+                  </div>
+                );
+              })}
+            </div>
+          </details>
+        ))}
+      </aside>
+
+      <!-- Middle: page content -->
+      <div class="middle">
+        <slot />
+      </div>
+
+      <!-- Right: recent activity -->
+      <aside class="right-col" aria-label="Recent activity">
+        <section class="recent-block">
+          <h2>📄 Recent Articles</h2>
+          <ul class="recent-list">
+            {recentArticles.map(a => (
+              <li>
+                <a href={`/aied/articles/${a.id.replace('.md', '')}`}>{a.data.title}</a>
+                <span class="recent-date">{(a.data.created || '').split('T')[0]}</span>
+              </li>
+            ))}
+          </ul>
+          <p class="recent-more"><a href="/aied/journal">View all articles →</a></p>
+        </section>
+
+        <section class="recent-block">
+          <h2>🏷️ Recently Updated Concepts</h2>
+          <ul class="recent-list">
+            {recentConcepts.map(c => (
+              <li>
+                <a href={`/aied/concepts/${c.id.replace('.md', '')}`}>{c.data.title}</a>
+                <span class="recent-date">{(c.data.updated || c.data.created || '').split('T')[0]}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      </aside>
+    </div>
   </main>
+
   <footer>
     <div class="container">
       <div class="footer-nav">
@@ -420,7 +649,6 @@ const { title = 'AI Ed Wiki', description = 'AI in Education Research Wiki', sho
           syncInert();
         }
       });
-      // Pressing Esc closes the drawer.
       document.addEventListener("keydown", (e) => {
         if (e.key === "Escape") setOpen(false);
       });
