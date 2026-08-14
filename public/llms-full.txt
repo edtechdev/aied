@@ -956,7 +956,7 @@ This operationalizes [[agentic-workflows-education]] for a specific tool:
 - [[math-education]]
 - [[curriculum-design]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[physics-education]]
 - [[help-seeking]]
 - [[metacognition]]
@@ -1531,7 +1531,7 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
 - [[scaffolding]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[learning-analytics]]
 
@@ -2417,7 +2417,7 @@ Recent work in Technology-Enhanced Learning and HumanComputer Interaction highli
 - [[affective-tutoring]]
 - [[knowledge-tracing]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
 - [[pedagogical-llm-training]]
@@ -2676,7 +2676,7 @@ The results give computing instructors an evidence base for purposeful use: AI-g
 - [[instructional-design]]
 - [[math-education]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[physics-education]]
 - [[pedagogical-agent]]
 
@@ -4184,7 +4184,7 @@ Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Ava
 
 ## Connected Concepts
 
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[lifelong-learning]]
 - [[ai-tutoring]]
 - [[prompt-engineering]]
@@ -5174,7 +5174,7 @@ Tested with 46 undergraduate students in a real academic setting. Findings: tech
 - [[automated-essay-scoring]]
 - [[cs-education]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[ai-ed-evaluation]]
 - [[affective-computing]]
@@ -5398,7 +5398,7 @@ ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpil
 - [[lifelong-learning]]
 - [[affective-tutoring]]
 - [[knowledge-tracing]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[open-source]]
 - [[pedagogical-llm-training]]
 - [[affective-computing]]
@@ -5653,7 +5653,7 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 - [[ai-feedback-quality]]
 - [[cs-education]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[ai-ed-evaluation]]
 
@@ -7289,7 +7289,7 @@ The system comprises five integrated components:
 
 Codify represents a modern instantiation of the [[conversational-ai-tutors-framework]] paradigm, combining LLM-powered dialogue with structured competency tracking — bridging the gap between open-ended chatbot tutoring and traditional [[automated-grading]] systems. Unlike purely conversational approaches (e.g., [[learnmate2-llm-adaptive-learning]]), Codify integrates formal assessment, gamification, and adaptive difficulty scaling into a single platform.
 
-The RAG architecture aligns with [[retrieval-augmented-tutoring-algorithm-kite|KITE]], which also uses RAG for algorithmic tutoring, though Codify adopts a much broader scope covering all programming education domains. The Socratic methodology directly connects to the [[socratic-ai-dialogue]] approach and the [[pedagogical-llm-training]] literature on training LLMs for guided inquiry rather than answer provision.
+The RAG architecture aligns with [[retrieval-augmented-tutoring-algorithm-kite|KITE]], which also uses RAG for algorithmic tutoring, though Codify adopts a much broader scope covering all programming education domains. The Socratic methodology directly connects to the [[socratic-method]] approach and the [[pedagogical-llm-training]] literature on training LLMs for guided inquiry rather than answer provision.
 
 ## Preliminary Evidence
 
@@ -7302,7 +7302,7 @@ Initial deployment in programming courses showed promising results for student e
 - [[llm]]
 - [[pedagogical-llm-training]]
 - [[scaffolding]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 
 - [[generative-ai]]
 - [[higher-ed]]
@@ -7541,7 +7541,7 @@ For instructors, these results suggest that AI education should explicitly surfa
 ## Connected Concepts
 
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[agentic-ai]]
 - [[ai-tutoring]]
 - [[math-education]]
@@ -7905,7 +7905,7 @@ Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cyb
 - [[administrator]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 
 ## Connected Articles
 
@@ -8797,7 +8797,7 @@ The framework identifies six interconnected cognitive and metacognitive processe
 
 This model aligns with the [[principled-ai-education]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[tutoring-specific-vs-general-ai]] that pedagogically-designed AI outperforms raw LLM chatbots on learning outcomes. The metacognitive focus connects to [[self-regulated-learning]] cycles of planning, monitoring, and evaluation, while drawing on feedback literacy principles (Carless & Boud, 2018).
 
-P1's use of counterarguments as cognitive stimuli parallels the [[socratic-ai-dialogue]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving learner agency connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[transfer-of-learning]] — the central question of whether AI-assisted gains persist when tools are removed.
+P1's use of counterarguments as cognitive stimuli parallels the [[socratic-method]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving learner agency connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[transfer-of-learning]] — the central question of whether AI-assisted gains persist when tools are removed.
 
 P2's scaffolded positioning of LLMs aligns with [[ai-literacy]] frameworks that progress from understanding to critical engagement to creative application, and the framework's overall design-based research methodology parallels the evidence standards discussed in [[stanford-evidence-base-ai-k12-2026]].
 
@@ -8825,7 +8825,7 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 - [[formative-assessment]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 
 - [[generative-ai]]
 - [[higher-ed]]
@@ -9380,7 +9380,7 @@ Brisson, Segarra and Smits present a didactically-driven LLM teacher assistant f
 - [[socratic-method]]
 - [[instructional-design]]
 - [[affective-tutoring]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[help-seeking]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
@@ -9586,7 +9586,7 @@ Team-based projects are a cornerstone of engineering and computing courses, but 
 - [[affective-computing]]
 - [[knowledge-tracing]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[agentic-ai]]
 - [[socratic-method]]
@@ -9882,7 +9882,7 @@ The gap between *capability* and *pedagogical utility* is analogous to the LLM m
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
 - [[ai-ed-evaluation]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[rag]]
 - [[open-source]]
@@ -10216,7 +10216,7 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 - [[cs-education]]
 - [[curriculum-design]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 
 ## Connected Articles
 
@@ -10389,7 +10389,7 @@ The paper discusses what a language-based facilitator cannot reach and the value
 - [[higher-ed]]
 - [[professional-training]]
 - [[stem-education]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[simulation]]
 - [[teacher-role]]
 
@@ -11581,7 +11581,7 @@ For [[design-thinking]]-oriented disciplines, the results suggest GenAI is best 
 
 - [[higher-ed]]
 - [[design-thinking]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[teacher-role]]
 - [[math-education]]
 - [[prompt-engineering]]
@@ -12958,7 +12958,7 @@ Context mattered. At highly selective universities, the proportion of deep engag
 - [[affective-tutoring]]
 - [[administrator]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[help-seeking]]
 
 ## Connected Articles
@@ -13271,7 +13271,7 @@ Students in the GPT Base arm performed *worse* on the exam but did **not** repor
 GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive prompt design is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe misconceptions) and call for combining pedagogical software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.
 
 ## Implications
-- **For the wiki:** This is the strongest *causal, field-deployed* evidence for the [[over-reliance]] and [[cognitive-offloading]] phenomena, and a direct, preregistered demonstration of the [[genai-performance-vs-learning]] distinction (performance ↑, learning ↓). It complements [[generative-ai-reduced-study-time-math]] (population-scale behavioral evidence) and [[over-reliance]] (lab causal evidence), and motivates [[scaffolding]] and [[socratic-ai-dialogue]] designs that preserve learning.
+- **For the wiki:** This is the strongest *causal, field-deployed* evidence for the [[over-reliance]] and [[cognitive-offloading]] phenomena, and a direct, preregistered demonstration of the [[genai-performance-vs-learning]] distinction (performance ↑, learning ↓). It complements [[generative-ai-reduced-study-time-math]] (population-scale behavioral evidence) and [[over-reliance]] (lab causal evidence), and motivates [[scaffolding]] and [[socratic-method]] designs that preserve learning.
 - **For practice/policy:** Because ChatGPT-like tools are already widely used by students off-platform, the GPT Base harm is immediately relevant. Deployments where learning matters need explicit guardrails (hint-not-answer prompts, teacher-authored scaffolding, answer-checking).
 
 ## Limitations (per authors)
@@ -13282,7 +13282,7 @@ Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), 
 - [[over-reliance]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 ## Connected Articles
 
 - [[genai-performance-vs-learning]]
@@ -13919,7 +13919,7 @@ The correlation between question specificity and course grade (*r* = 0.43) hints
 - [[generative-ai]]
 - [[learning-analytics]]
 - [[physics-education]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[socratic-method]]
 - [[stem-education]]
 - [[intelligent-tutoring]]
@@ -14286,7 +14286,7 @@ This model bridges [[agentic-workflows-education]] and practical classroom imple
 - [[pedagogical-agent]]
 - [[reinforcement-learning]]
 - [[intelligent-tutoring]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[active-learning]]
 - [[teacher-role]]
 - [[lifelong-learning]]
@@ -14330,7 +14330,7 @@ For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapt
 - [[collaborative-learning]]
 - [[affective-tutoring]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[help-seeking]]
 - [[pedagogical-agent]]
 - [[pedagogical-llm-training]]
@@ -14705,8 +14705,6 @@ Yusubov, A., Bechtel, M., & Alizada, T. (2026). [Hypergamigication through integ
 
 > **Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas** — CogSci 2026 (accepted full paper).
 
-**Lan Anh Do, Hanling Jiang, Shuchin Aeron, Ayanna K. Thomas** — CogSci 2026 (accepted full paper).
-
 ## Synthesis
 
 This study applies an extended 7-point ICAP framework (Interactive, Constructive, Active, Passive) to characterize cognitive engagement in collaborative dialogue, comparing trained human annotators with LLM-based labeling: in-context learning (ICL), zero-shot prompting, and self-reflective agents.
@@ -14719,6 +14717,7 @@ Findings highlight the promise of reflective-agent approaches for scaling engage
 
 ## Connected Concepts
 
+- [[icap-framework]]
 - [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]
@@ -14850,7 +14849,7 @@ This randomized controlled experiment assigned participants — analogs of early
 - [[student-experience]]
 - [[administrator]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[help-seeking]]
 - [[bias-mitigation]]
 
@@ -16043,7 +16042,7 @@ The absence of performance differences across usage clusters underscores the nee
 - [[math-education]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[rct]]
 - [[physics-education]]
 
@@ -17720,7 +17719,7 @@ The central conclusion is that **general-purpose helpfulness is not a reliable p
 - [[benchmark]]
 - [[personalized-learning]]
 - [[knowledge-tracing]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 
 ## Connected Articles
 
@@ -18515,7 +18514,7 @@ MedEasy: Designing AI Standardized Patients for Clinical Consultation Training i
 
 ## Connected Concepts
 
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[lifelong-learning]]
 - [[ai-tutoring]]
 - [[math-education]]
@@ -19578,7 +19577,7 @@ This is a strong result for AI feedback systems:
 
 - [[ai-feedback-quality]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[affective-computing]]
 - [[metacognition]]
@@ -19663,7 +19662,7 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 - [[math-education]]
 - [[affective-tutoring]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[help-seeking]]
 
 ## Connected Articles
@@ -19720,7 +19719,7 @@ Ormerod, C., & Kim, Y. (2026). [*Multimodal item parameter estimation using simu
 
 ## [Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning](https://edtechdev.github.io/aied/articles/multimodal-knowledge-graph-educational-reasoning/)
 
-> **Synthesis:** This paper introduces an evidence-grounded multimodal pipeline that constructs provenance-rich [[knowledge-tracing|knowledge graphs]] from lecture videos by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.
+> **Synthesis:** This paper introduces an evidence-grounded multimodal pipeline that constructs provenance-rich [[knowledge-graph|knowledge graphs]] from lecture videos by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.
 
 ## Pipeline Architecture
 
@@ -19759,6 +19758,7 @@ The auditable construction method is the key contribution — unlike black-box k
 
 ## Connected Concepts
 
+- [[knowledge-graph]]
 - [[knowledge-tracing]]
 - [[ai-education]]
 - [[student-modeling]]
@@ -19909,7 +19909,7 @@ The guide includes 15+ educator case studies spanning:
 - [[metacognition]]
 - [[pedagogical-llm-training]]
 - [[self-regulated-learning]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - varga-atkins-educators-guide-multimodal-learning-genai-2025
 
 - [[ai-education]]
@@ -20852,7 +20852,7 @@ Students interact with AI-generated outputs that contain intentional or known er
 This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, Create) and engages metacognitive processes central to [[metacognition]].
 
 ## Relationship to Existing Approaches
-- Complements [[socratic-ai-dialogue]]: while Socratic approaches use questions to guide reasoning, mistake pedagogy uses erroneous outputs as the provocation
+- Complements [[socratic-method]]: while Socratic approaches use questions to guide reasoning, mistake pedagogy uses erroneous outputs as the provocation
 - Extends [[ai-literacy]]: students learn not just to use AI but to critically evaluate its outputs
 - Addresses the [[llm-fallacy-misattribution]] problem by making AI's limitations visible and discussable
 - Contrasts with [[tutoring-specific-vs-general-ai]]: here the AI's imperfection is the feature, not the bug
@@ -20865,7 +20865,7 @@ This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, C
 ## Connected Concepts
 
 - [[metacognition]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[ai-literacy]]
 ## Connected Articles
 
@@ -21042,7 +21042,7 @@ Students who preferred chatbots that initially engage them in guided-inquiry but
 - [[generative-ai]]
 - [[stem-education]]
 - [[higher-ed]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[metacognition]]
 
 ## Connected Articles
@@ -21483,12 +21483,12 @@ The system implements a **Challenge → Unlock** architecture:
 This gating mechanism deliberately creates friction — students cannot bypass critical thinking to access help. The approach is grounded in Toulmin's argumentation theory and research on peer feedforward questioning.
 
 ## Why This Matters
-Conventional AI writing tools that generate or rewrite text risk creating cognitive debt — students outsource thinking rather than developing it. Prober.ai's approach connects to [[metacognition]] by forcing reflective engagement and to [[socratic-ai-dialogue]] through inquiry-based interaction. It represents a design pattern for "cognition-preserving AI" that could extend beyond writing to other domains.
+Conventional AI writing tools that generate or rewrite text risk creating cognitive debt — students outsource thinking rather than developing it. Prober.ai's approach connects to [[metacognition]] by forcing reflective engagement and to [[socratic-method]] through inquiry-based interaction. It represents a design pattern for "cognition-preserving AI" that could extend beyond writing to other domains.
 
 ## Connected Concepts
 
 - [[metacognition]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 ## Connected Articles
 
 
@@ -22483,7 +22483,7 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[pedagogical-llm-training]]
 - [[benchmark]]
 - [[affective-tutoring]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
 
@@ -22510,7 +22510,7 @@ Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. John
 
 KITE (Knowledge-Informed Tutoring Engine) introduces a [[intelligent-tutoring]] architecture that grounds its responses in course materials through a multimodal [[scaffolding|RAG pipeline]]. Unlike generic LLM tutors that may drift from curriculum content, KITE retrieves relevant material — lecture slides, problem sets, code examples — before generating Socratic hints, guiding questions, and progressive scaffolds tailored to the student's current error.
 
-The system's intent-aware Socratic response strategy builds on [[socratic-ai-dialogue]] principles but operationalizes them through retrieval: rather than relying on the model's parametric knowledge of how to tutor, KITE anchors every response in authoritative course content. This design addresses a key gap identified in [[ai-tutor-effectiveness-review]] — that pedagogical quality alone is insufficient without content fidelity.
+The system's intent-aware Socratic response strategy builds on [[socratic-method]] principles but operationalizes them through retrieval: rather than relying on the model's parametric knowledge of how to tutor, KITE anchors every response in authoritative course content. This design addresses a key gap identified in [[ai-tutor-effectiveness-review]] — that pedagogical quality alone is insufficient without content fidelity.
 
 KITE was evaluated through three complementary lenses. RAGAs-based metrics confirmed response grounding and quality. Expert pedagogical review assessed the educational appropriateness of its Socratic scaffolding. Most innovatively, a simulated student pipeline — where a weaker LLM acts as a student across two-turn dialogues — measured whether KITE's [[formative-assessment|feedback]] actually improved follow-up accuracy on procedural and algorithm tracing questions. Results were positive: simulated students produced more accurate responses after receiving KITE feedback, particularly on tracing tasks where step-by-step reasoning is critical.
 
@@ -22520,7 +22520,7 @@ This work contributes to the growing literature on [[llm-student-modeling-memory
 
 - [[intelligent-tutoring]]
 - [[scaffolding]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[formative-assessment]]
 - [[personalized-learning]]
 ## Connected Articles
@@ -23847,7 +23847,7 @@ The results speak directly to the debate over how computing educators should res
 - [[critical-thinking]]
 - [[math-education]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[physics-education]]
 - [[pedagogical-agent]]
 
@@ -24184,7 +24184,7 @@ Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring 
 - [[socratic-method]]
 - [[ai-tutoring]]
 - [[math-education]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[pedagogical-agent]]
 - [[open-source]]
 - [[agentic-ai]]
@@ -24266,7 +24266,7 @@ Preliminary data show shifting student behaviors and complex relationships betwe
 ## Connected Concepts
 
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
 - [[agentic-ai]]
@@ -24780,7 +24780,7 @@ For deployment, this suggests a design pattern: AI tutoring interfaces for STEM 
 
 - [[socratic-method]]
 - [[math-education]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[help-seeking]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
@@ -25230,7 +25230,7 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 ## Connected Concepts
 
 - [[ai-feedback-quality]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[ai-ed-evaluation]]
 - [[metacognition]]
 - [[self-regulated-learning]]
@@ -25719,7 +25719,7 @@ The work demonstrates how technology enhancement can close the gap between profe
 - [[higher-ed]]
 - [[learning-analytics]]
 - [[professional-training]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[math-education]]
 - [[curriculum-design]]
 
@@ -26256,7 +26256,7 @@ TEI demonstrates that simple lexical and structural signals can effectively stee
 
 ## Connected Concepts
 
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[ai-ed-evaluation]]
 - [[open-source]]
@@ -27972,7 +27972,7 @@ These two dimensions are not separate: using AI well requires understanding it, 
 
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
-- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[gamification|gamification]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[socratic-ai-dialogue|Socratic AI dialogue]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[cognitive-load-theory|cognitive load theory]], [[dual-process-theory|dual-process theory]], [[constructivist|constructivism]], and [[embodied-learning|embodied learning]].
+- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[gamification|gamification]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[cognitive-load-theory|cognitive load theory]], [[dual-process-theory|dual-process theory]], [[constructivist|constructivism]], and [[embodied-learning|embodied learning]].
 - **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[engagement-metrics|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[over-reliance|over-reliance]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
 - **Subject areas:** AI is applied across disciplines, including [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], and [[k-12-ai-education|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
@@ -29125,17 +29125,86 @@ Confidence-aware AI assessment is a specific mechanism within the broader agenda
 
 ---
 
-## [Constructivist](https://edtechdev.github.io/aied/concepts/constructivist/)
+## [Constructivism](https://edtechdev.github.io/aied/concepts/constructivist/)
 
-> **Constructivist** learning theory — knowledge built through active experience — underpins wiki analyses of AI as [[genai-mindtool-generative-learning]] and [[icap-cognitive-engagement-llm-agents]]: AI tools support construction only when learners generate, not merely consume ([[active-learning]], educational-theory).
+> **Constructivism** — the learning theory that knowledge is actively built by the learner through experience, reflection, and interaction, rather than passively received from an instructor or system. In AI in education, constructivism underlies the design commitment that AI tools should support learners' own knowledge construction — prompting, questioning, and scaffolding — rather than perform the cognitive work for them.^[[ai-vocational-education-training-review]]^[[genai-mindtool-generative-learning]]
+
+Constructivism is a family of theories rather than a single doctrine, but its core claim is shared: learners do not absorb meaning; they construct it. Understanding in this view is not the accumulation of transmitted facts but the active organization of experience into mental models. This has direct implications for how AI in education should be designed, evaluated, and taught — and it helps explain both the promise and the risk of generative AI in the classroom.
+
+## Core ideas
+
+- **Knowledge is constructed, not transmitted.** Learners build understanding by acting on the world, reconciling new information with prior knowledge, and reflecting on the results. An AI tutor that simply supplies correct answers bypasses the constructive activity that produces durable understanding.^[[generative-refusal-ai-tools-for-thought]]
+- **Prior knowledge shapes new learning.** New ideas are interpreted through the learner's existing mental models, so instruction must surface and build on what learners already know — a principle directly relevant to [[student-misconceptions-ai]] and to AI tutors that adapt to the learner.
+- **Social interaction supports construction.** A major strand — social constructivism — holds that meaning is co-constructed through dialogue, collaboration, and culturally situated activity. This connects constructivism to [[collaborative-learning]] and to [[socratic-method]] approaches in which AI prompts rather than dictates.^[[ai-agents-constructive-conflict-design-education-2026]]
+- **Construction is visible in activity.** Learners reveal (and consolidate) their understanding by generating, explaining, and producing — which is why the ICAP framework ranks "constructive" and "interactive" engagement above "active" and "passive" modes.^[[hingle-collaborative-ai-literacy-2025]]^[[icap-cognitive-engagement-llm-agents]]
+
+## Constructivism and AI in education
+
+### AI for constructivist learning
+
+Well-designed AI can enable construction at scale. [[intelligent-tutoring]] and [[ai-tutoring]] systems can pose problems and guide [[help-seeking]] instead of giving away answers; [[simulation]] and [[game-based-learning]] environments let learners build and test mental models; and [[project-based-learning]] and [[experiential-learning]] activities supported by AI give learners authentic construction tasks. The central design pattern is **scaffolding** — calibrated support that fades as competence grows — rather than completion.^[[conversational-ai-tutors-framework]]^[[embodied-inquiry-ai-facilitator-physics-2026]]
+
+### The risk of "constructivism in name, behaviorism in practice"
+
+Empirical work repeatedly finds a gap between espoused constructivist goals and actual AI implementations. A systematic review of AI in vocational education, for instance, found that constructivist theories are espoused in VET discourse while **behaviorist drill-and-practice designs dominate in practice**, and warned of an educational "Turing Trap" — using AI to replicate rather than augment human instruction.^[[ai-vocational-education-training-review]]
+
+This pattern generalizes across the field:
+
+- When generative AI completes writing, reasoning, or code for students, the learner loses the constructive thought process the task was designed to build — the concern central to [[cognitive-offloading]] and [[over-reliance]].^[[generative-refusal-ai-tools-for-thought]]
+- AI implementations that emphasize adaptive feedback and efficiency frequently under-serve the learner-agency, critical-reflection, and autonomous-decision goals that constructivism implies.^[[ai-vocational-education-training-review]]
+
+### Design responses grounded in constructivism
+
+- **Generative Refusal** — AI tools that strategically withhold generated text and pose questions instead, returning cognitive friction to the user so that the labor of articulation itself builds understanding.^[[generative-refusal-ai-tools-for-thought]]
+- **Thinking tools over answer machines** — using GenAI as a [[genai-mindtool-generative-learning]] in which the learner drives the tool, rather than the tool replacing the learner.^[[genai-mindtool-generative-learning]]
+- **Constructive conflict** — adversarial AI agents that challenge a learner's design or reasoning, prompting reconsideration and deeper construction of alternatives, in the tradition of Socratic tutoring.^[[ai-agents-constructive-conflict-design-education-2026]]
+- **Internal feedback via comparison** — having learners compare their own work against AI-generated exemplars so that the act of comparison itself generates learning.^[[ai-internal-feedback-evaluative-judgments]]
+
+## Constructivism and "education about AI"
+
+Constructivism also shapes how AI literacy itself is taught. If knowledge is constructed, then AI literacy is not acquired by lecturing about models but by actively using, critiquing, and building with AI — generating artifacts, interrogating outputs, and reflecting on the interaction.^[[hingle-collaborative-ai-literacy-2025]] This positions [[ai-literacy]] as an active, participatory competency rather than a body of passive knowledge, and it connects constructivism to [[critical-thinking]] and to [[agency]] in learners' encounters with AI.
+
+## Implications for design and research
+
+1. **Preserve the constructive activity.** AI should scaffold the learner's own thinking — prompt, question, and support — rather than perform it. Designers should ask whether the tool increases or replaces the learner's constructive effort.^[[generative-refusal-ai-tools-for-thought]]
+2. **Use the ICAP lens.** Sequence instruction through passive → active → constructive → interactive engagement, and evaluate whether AI interactions actually elicit constructive and interactive modes rather than passive consumption.^[[hingle-collaborative-ai-literacy-2025]]
+3. **Align theory and implementation.** Researchers should look beyond whether AI "works" to *how* it embodies a learning theory, checking for the constructivist-in-name, behaviorist-in-practice gap.^[[ai-vocational-education-training-review]]
+4. **Study learner agency and transfer.** Constructivist commitments imply evaluating not just immediate test gains but whether learners can transfer and independently apply their constructed understanding.^[[research-methods-aied]]
 
 ## Connected Concepts
 
 - [[active-learning]]
+- [[scaffolding]]
+- [[self-regulated-learning]]
+- [[collaborative-learning]]
+- [[experiential-learning]]
+- [[project-based-learning]]
+- [[embodied-learning]]
+- [[instructional-design]]
+- [[generative-ai]]
+- [[ai-tutoring]]
+- [[cognitive-offloading]]
+- [[over-reliance]]
+- [[agency]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[student-misconceptions-ai]]
 
 ## Connected Articles
 
-- [[genai-architecture-education]]
+- [[ai-vocational-education-training-review]] — Constructivism espoused but behaviorist AI dominates in VET; the "Turing Trap"
+- [[generative-refusal-ai-tools-for-thought]] — AI tools that withhold generation to protect constructive thought
+- [[genai-mindtool-generative-learning]] — GenAI as a thinking tool supporting learner construction
+- [[ai-agents-constructive-conflict-design-education-2026]] — Adversarial AI agents prompting constructive reconsideration
+- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy and the ICAP engagement framework
+- [[ai-internal-feedback-evaluative-judgments]] — AI-supported comparison generating evaluative judgments
+- [[icap-cognitive-engagement-llm-agents]] — ICAP and cognitive engagement with LLM agents
+- [[conversational-ai-tutors-framework]] — Scaffolding dialogue in AI tutors
+- [[embodied-inquiry-ai-facilitator-physics-2026]] — Embodied inquiry with an AI facilitator
+- [[beyond-detection-authentic-assessment-ai-2025]] — Authentic assessment and knowledge construction
+- [[teacher-ai-teaming-five-levels]] — Levels of teacher–AI collaboration in design
+- [[ccct-cooperative-learning-technique]] — Cooperative learning framed through constructivist theories
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency between learner and machine
 
 ---
 
@@ -29492,42 +29561,96 @@ Dual-process theory connects to [[cognitive-load-theory]], [[metacognition]], an
 
 ## [Edtech Platform](https://edtechdev.github.io/aied/concepts/edtech-platform/)
 
-> **Edtech Platform** is a central concept in AI in education research, connected to 15 articles in this wiki. 
+> **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this wiki examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.^[[access-not-enough-ai-tutoring-2026]]^[[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]^[[oatutor-open-source-adaptive-tutor-2023]]
 
-Research in this wiki explores edtech platform through multiple lenses:
-- **Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition:** Pilot study on privacy-aware computer vision for classroom incident detection.
+The platform sits between an AI model or capability and the learner. It is the container that packages tutoring, assessment, feedback, and administration into something usable — and, critically, it shapes learning outcomes through its design choices, its accessibility, and its underlying business model. The concept spans learning management systems like Moodle, large-scale online platforms like MOOCs, dedicated intelligent tutoring systems, and emerging agentic or AI-native course platforms.
+
+## What a platform does in AI in education
+
+Platforms in AI in education perform several distinct functions:
+
+- **Deliver instruction and tutoring** — the container for [[ai-tutoring]] and [[intelligent-tutoring]] systems, from LMS-embedded tutors to standalone adaptive tutoring platforms.
+- **Manage the learning environment** — course organization, enrollment, progress tracking, and administration that traditional LMS platforms provide.
+- **Host assessment and feedback** — where [[automated-assessment]], [[formative-assessment]], and feedback loops run.
+- **Collect and analyze learning data** — the substrate for [[learning-analytics]] and [[student-modeling]].
+- **Govern access and deployment** — decisions about [[open-source]] vs. proprietary, local vs. cloud, and which institutions and learners can use it.
+
+## Key findings from the wiki's articles
+
+### Take-up, not capability, is often the binding constraint
+
+A platform can be effective in principle yet fail in practice if learners do not use it. Two RCTs of an AI literacy (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.^[[access-not-enough-ai-tutoring-2026]]
+
+### Platform design and structure shape engagement, retention, and inclusivity
+
+Analysis of 226,000+ user reviews across six major platforms (Coursera, edX, Udemy, Alison, uLesson, Khan Academy) found that **technical instability, limited offline functionality, and unclear pricing structures** negatively affect learner engagement and retention, while regional payment restrictions disproportionately disadvantage learners in low-resource settings. Platform architecture is therefore an equity and engagement variable, not just a technical one.^[[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]
+
+### The platform model matters: open vs. proprietary
+
+- **Proprietary platforms** create barriers to research: researchers who want to replicate or extend adaptive-learning experiments are often confined to a small number of closed platforms.
+- **Open platforms** lower this barrier. **OATutor** is the first open-source adaptive tutoring system built on ITS principles — an MIT-licensed codebase with a Creative Commons algebra content library, [[knowledge-tracing]] mastery estimation, and built-in A/B testing — letting researchers fork, experiment, and publish the full end-to-end system.^[[oatutor-open-source-adaptive-tutor-2023]]
+
+### AI-native platforms are reshaping online education
+
+The platform paradigm itself is evolving. **MAIC** (Massive AI-empowered Course) replaces the MOOC's "one video for N students" model with an LLM-driven multi-agent classroom — "N agents for 1 student" — using specialized Teacher, Assistant, Classmate, and Analyzer agents to deliver personalized, adaptive learning at scale, and reducing course production from ~$25K/60 hours to under $2/30 minutes.^[[mooc-to-maic]] Similarly, AI-integrated LMS designs propose moving beyond workflow-only platforms toward real-time instructional support with policy-gated (bounded) AI, formative hinting, spaced review, and teacher dashboards.^[[ai-lms-middle-school-longitudinal]]
+
+### Interest-based and context-aware platform features
+
+Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-powered platform that generates college assignments based on students' **extracurricular interests and cultural contexts**, aligning with [[culturally-relevant-pedagogy]] and shifting from one-size-fits-all assignments toward interest-driven engagement.^[[taklif-ai-interest-based-personalized-assignments]]
+
+## Implications for design and research
+
+1. **Design for take-up, not just capability.** A platform's effectiveness depends on whether learners actually engage with it; support structures, onboarding, and scheduling matter as much as the AI itself.^[[access-not-enough-ai-tutoring-2026]]
+2. **Treat platform structure as an equity lever.** Technical instability, offline access, pricing, and regional payment restrictions all affect who benefits — platform design must be examined through an [[equity-in-ai-education]] lens.^[[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]
+3. **Prefer open, replicable platforms for research.** Open-source platforms like OATutor enable reproducible adaptive-learning research and a shared evidence base.^[[oatutor-open-source-adaptive-tutor-2023]]
+4. **Design AI-native platforms with governance and bounds.** Privacy-first architecture, data minimization, auditable logs, and role-based access are critical as platforms become AI-integrated — connecting to [[privacy]] and [[governance]] concerns.^[[ai-lms-middle-school-longitudinal]]
 
 ## Connected Concepts
 
 - [[personalized-learning]]
-- [[higher-ed]]
 - [[adaptive-learning]]
+- [[intelligent-tutoring]]
+- [[ai-tutoring]]
+- [[learning-analytics]]
+- [[student-modeling]]
+- [[knowledge-tracing]]
+- [[automated-assessment]]
+- [[formative-assessment]]
+- [[generative-ai]]
+- [[llm]]
+- [[open-source]]
 - [[ai-literacy]]
 - [[student-experience]]
 - [[teacher-role]]
-- [[formative-assessment]]
+- [[k-12]]
+- [[higher-ed]]
+- [[equity-in-ai-education]]
+- [[privacy]]
+- [[governance]]
+- [[culturally-relevant-pedagogy]]
 - [[stem-education]]
-- [[automated-assessment]]
-- [[generative-ai]]
-- [[llm]]
-- [[learning-analytics]]
+
 ## Connected Articles
 
-- [[a4l-analytics-pipeline]]
-- [[ai-campus-wellbeing-tools]]
-- [[ai-learning-tools-engineering-education-needs]]
-- [[aiawe-automated-writing-evaluation]]
-- [[calibrating-trustworthiness-llm-education-2026]]
-- [[community-centered-ai-education-adults]]
-- [[concept-catalyst-k12-teacher]]
-- [[llm-misconception-difficulty-easy-trap]]
-- [[llm-psychometric-calibration-cdp]]
-- [[multi-site-vr-immersive-learning]]
-- [[privacy-aware-classroom-incident-recognition-2026]]
-- [[raza-farooq-aied-review-2020-2025]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[student-math-competence-clustering]]
-- [[taklif-ai-interest-based-personalized-assignments]]
+- [[access-not-enough-ai-tutoring-2026]] — Take-up and engagement are the binding constraints for AI tutoring platforms
+- [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Technical and structural platform factors shape engagement, retention, and inclusivity
+- [[oatutor-open-source-adaptive-tutor-2023]] — An open-source adaptive tutoring platform for replicable research
+- [[mooc-to-maic]] — Moving from MOOC to LLM-driven multi-agent AI classrooms
+- [[ai-lms-middle-school-longitudinal]] — AI-integrated LMS for middle school with bounded, privacy-first support
+- [[taklif-ai-interest-based-personalized-assignments]] — Interest-based personalized assignment platform
+- [[edusim-llm-robotic-simulation-education-2026]] — An LLM-robotic simulation platform for education
+- [[teachy-mini-generative-social-robot-higher-ed-2026]] — A generative social-robot teaching platform in higher education
+- [[hypergamification-game-engine-lms]] — A game-engine-based LMS integrating gamification
+- [[edtech-design-time-generative-ui]] — Designing edtech for generative UI
+- [[moodle-ai-tutoring-deep-learning]] — AI tutoring integrated into the Moodle LMS
+- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-compliant local LLM autograder platform
+- [[vismatic-secure-sandbox-cs-education]] — A secure sandbox platform for CS education
+- [[wordstream-glass-learning-analytics]] — A learning-analytics platform for streaming data
+- [[learnmate2-llm-adaptive-learning]] — LLM-powered personalized adaptive learning platform
+- [[multi-site-vr-immersive-learning]] — Multi-site VR immersive learning platform
+- [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware computer vision in classroom platforms
+- [[a4l-analytics-pipeline]] — A configurable analytics pipeline platform
+- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research and systems
 
 ---
 
@@ -30382,7 +30505,7 @@ Research themes include:
 - [[agentic-ai]]
 - [[ai-tutoring]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[pedagogical-agent]]
 
 ## Connected Articles
@@ -30596,6 +30719,64 @@ HRI connects to [[social-robots]], [[educational-robotics]], [[embodied-learning
 - [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+
+---
+
+## [ICAP Framework](https://edtechdev.github.io/aied/concepts/icap-framework/)
+
+> **The ICAP Framework** (Interactive–Constructive–Active–Passive) — a taxonomy of cognitive engagement developed by Michelene Chi that classifies learner behavior into four modes of knowledge change, ordered from least to most cognitively engaged: *passive*, *active*, *constructive*, and *interactive*. In AI in education, ICAP provides both a design target (build tools that elicit constructive and interactive engagement rather than passive consumption) and an evaluation lens (measure whether learners and AI systems are actually engaged at the higher modes).^[[hingle-collaborative-ai-literacy-2025]]^[[icap-cognitive-engagement-llm-agents]]
+
+ICAP is grounded in the assumption that *what learners do* determines how much and what they learn. Chi's framework posits that as engagement moves from passive to active to constructive to interactive, the nature of knowledge change deepens — from storing, to attending, to integrating new knowledge with prior knowledge, to co-creating knowledge through dialogue. This makes ICAP a powerful analytic tool for AI in education, where the central design question is whether AI assistance supports or displaces learners' cognitive engagement.
+
+## The four modes
+
+| Mode | Learner behavior | Nature of knowledge change |
+|------|------------------|---------------------------|
+| **Interactive** | Dialogue with another learner or agent, co-constructing meaning; e.g. defending a position, collaborative problem-solving | Co-creating new knowledge through joint, reciprocal activity |
+| **Constructive** | Generating new output beyond the given; e.g. self-explaining, comparing, reflecting, drawing | Integrating new information with prior knowledge to produce novel understanding |
+| **Active** | Manipulating or acting on the material; e.g. taking notes, underlining, pausing to think | Attending to and storing information, sometimes without deep integration |
+| **Passive** | Receiving information without overt action; e.g. listening to a lecture, reading | Storing information, with limited further processing |
+
+## ICAP in AI in education
+
+### A design target for AI tools
+
+ICAP reframes the central design question for AI in education: an AI tool that *answers for* the learner keeps them in passive/active modes, while a tool that *prompts, questions, and scaffolds* can push learners toward constructive and interactive engagement. This aligns ICAP with [[constructivist]] pedagogy and with [[active-learning]] research.^[[multimodal-learning-genai]]^[[hingle-collaborative-ai-literacy-2025]]
+
+### An evaluation lens for AI agents
+
+ICAP also serves as a measurement framework. In one study, researchers extended ICAP to a 7-point scale to characterize cognitive engagement in collaborative dialogue, then compared trained human annotators with LLM-based labeling (in-context learning, zero-shot prompting, and reflective agents). Human interrater reliability (kappa = 0.906–0.998) far exceeded LLM annotation (kappa = 0.541–0.609), highlighting ICAP's role — and current limits — in automated engagement measurement for [[learning-analytics]] pipelines.^[[icap-cognitive-engagement-llm-agents]]
+
+### ICAP and learning analytics design
+
+ICAP underlies critiques of shallow "engagement" metrics: interacting with a dashboard by clicking filters is *active*, not *interactive*, engagement. Effective learning-analytics designs elicit self-assessment and two-way dialogue rather than merely displaying data — an implication drawn directly from Chi's framework.^[[interactive-learning-dashboards-engagement]]
+
+## Implications for design and research
+
+1. **Design for the higher modes.** AI tools should prompt learners to generate, explain, and dialogue — constructive and interactive activity — rather than deliver passive content or act as answer machines.^[[multimodal-learning-genai]]
+2. **Sequence through engagement levels.** Effective AI literacy instruction intentionally sequences learners through passive exposure, active manipulation, constructive generation, and interactive dialogue.^[[hingle-collaborative-ai-literacy-2025]]
+3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[engagement-metrics]].^[[icap-cognitive-engagement-llm-agents]]
+4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.^[[icap-cognitive-engagement-llm-agents]]
+
+## Connected Concepts
+
+- [[active-learning]]
+- [[collaborative-learning]]
+- [[engagement-metrics]]
+- [[student-engagement]]
+- [[learning-analytics]]
+- [[constructivist]]
+- [[instructional-design]]
+- [[metacognition]]
+- [[ai-literacy]]
+- [[human-in-the-loop-ai]]
+
+## Connected Articles
+
+- [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement with human vs. LLM annotation
+- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy across the four ICAP modes
+- [[interactive-learning-dashboards-engagement]] — ICAP as a critique of shallow learning-analytics engagement
+- [[multimodal-learning-genai]] — ICAP and cognitive engagement in multimodal learning design
 
 ---
 
@@ -31344,33 +31525,98 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 
 ---
 
-## [Multimodal](https://edtechdev.github.io/aied/concepts/multimodal/)
+## [Multimodal AI](https://edtechdev.github.io/aied/concepts/multimodal/)
 
-> **Multimodal** — a key concept in AI in education research. Explored across 3 articles in this wiki.
+> **Multimodal AI** — AI systems that process, understand, or generate content across multiple modalities — text, images, audio, video, and structured data — and the educational questions these systems raise. In AI in education, multimodal AI appears in three distinct roles: as the *learning content* learners create and engage with ([[multimodal-learning-genai|multimodal learning]]), as the *capability boundary* of tutoring systems that must interpret diagrams and graphs ([[syal-multimodal-dialogue-stem-2026|multimodal tutoring]]), and as the *assessment signal* used to evaluate understanding ([[multimodal-item-parameter-estimation-2026|multimodal measurement]]).
 
-Research themes include:
-- Systematic study of domain-adapted text-to-image models for nuclear engineering education. Fine-tunes Stable Diffusion on nuclear domain images; fine-tuned model achieves 78% domain accuracy vs 12% for base model. Proposes NuclearDiffusion as an educ
-- Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid benchmark combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong inci
+Multimodality in AI refers to the capacity to work across different representational forms rather than text alone. Modern [[generative-ai]] and [[llm|LLM]] systems increasingly accept and produce images, audio, and video in addition to text, opening new possibilities and new risks for education. Grounded in social semiotic theory, which holds that meaning is made across modes — not just words — multimodal AI changes how teaching, learning, and assessment are designed and evaluated.^[[multimodal-learning-genai]]
+
+## Three faces of multimodal AI in education
+
+### 1. Multimodal learning and content creation
+
+Multimodal AI enables learners to produce and engage with content across text, image, audio, and video. An educator's guide to multimodal learning with generative AI positions these tools as a "cyber-social" partner: they complement — but cannot replace — human meaning-making.^[[multimodal-learning-genai]]
+
+- **AI literacy in multimodal contexts** is layered: basic awareness of multimodal platforms, intermediate co-creation and critical evaluation of outputs, and advanced design of multimodal activities and assessments.^[[multimodal-learning-genai]]
+- **Multimodal prompting** is itself a demanding epistemic practice. Students who prompt for images as well as text discover that "prompt literacy is different between prompting for text than it is for pictures" — translating abstract meaning into machine-readable multimodal prompts requires a precise visual vocabulary and exposes system limitations and bias.^[[multimodal-prompting-ai-literacy]]
+- **Multimodal assessment** shifts from essays to artefacts combining text, image, audio, and video, with educators using AI to scaffold creation and feedback rather than replace the learner's own production.^[[multimodal-learning-genai]]
+
+### 2. Multimodal tutoring and the capability boundary
+
+When LLM-based tutors must solve problems that embed meaning in graphs, force diagrams, schematics, or tables, their accuracy degrades sharply — the **Multimodal Interference Effect**.^[[syal-multimodal-dialogue-stem-2026]]^[[multimodal-ai-tutoring]]
+
+- On OpenStax physics problems, text-only accuracy of ~96% drops to **~74%** on image-rich problems, consistently across model families.^[[syal-multimodal-dialogue-stem-2026]]
+- **Visual Processing Errors** — failures to extract information from graphs or diagrams — dominate the error taxonomy and are the most correctable failure mode.
+- A simple structured-dialogue intervention (have the model describe what it sees, correct only *observable* misreadings without giving away physics, then re-prompt) restores accuracy to **~95%** with zero retraining.^[[syal-multimodal-dialogue-stem-2026]]
+- This is an **equity concern**: students working on image-rich problems — precisely the problems that build deep conceptual understanding in STEM — currently receive less reliable AI support than those on text-only exercises.
+
+The practical design implication is a **visual grounding checkpoint** in multimodal tutoring: a deliberate step where the system describes what it sees before attempting a solution, giving the student or a human supervisor a chance to correct perceptual errors.^[[syal-multimodal-dialogue-stem-2026]]
+
+### 3. Multimodal assessment and measurement
+
+Multimodal AI broadens both the *content* of assessment and the *signal* used to score it.
+
+- **Multimodal feedback systems** integrate structured text, slide references, and streaming audio narration. In one study, AI multimodal feedback matched educator feedback for learning while *significantly outperforming* it on student perceptions.^[[multimodal-ai-feedback-learning]]
+- **Multimodal item response estimation** uses fine-tuned multimodal LLMs to reconstruct item characteristic curves (IRT / 3PL) directly from predicted option probabilities on image-and-text items, connecting multimodal AI to [[educational-measurement]] and [[item-response-theory]].^[[multimodal-item-parameter-estimation-2026]]
+- **Educational vision-language model evaluation** and [[mllm-scientific-visualization-literacy|multimodal LLM literacy]] extend the field's evaluation toolkit to multimodal reasoning and visualization.^[[educational-vlm-evaluation]]^[[mllm-scientific-visualization-literacy]]
+
+## Multimodal AI for language and accessible learning
+
+Multimodal systems also expand access and personalization. AI-guided audio-video learning tools adapt playback speed, produce multimodal video summaries, and support pronunciation practice.^[[ai-guided-learning-audiovideo-2026]] Multimodal knowledge graphs reason across images and text for educational tasks,^[[multimodal-knowledge-graph-educational-reasoning]] and multimodal representations improve [[accessible-learning]] by translating information across modes (e.g., text to audio or visual). Domain applications include handwritten-math grading and diagnosis,^[[llm-cognitive-diagnosis-handwritten-math]] affective tutoring with multimodal signals,^[[multimodal-affective-its-presentation]]^[[kar-mathbuddy-affective-math-tutoring-2025]] text-to-image learning in specialized fields,^[[nuclear-diffusion-text-to-image-learning-2026]] and privacy-aware multimodal classroom sensing.^[[privacy-aware-classroom-incident-recognition-2026]]
+
+## Challenges and design implications
+
+1. **Close the multimodal gap.** Multimodal tutoring systems should include visual grounding and structured-dialogue scaffolds rather than assuming vision capabilities are robust.^[[syal-multimodal-dialogue-stem-2026]]
+2. **Treat multimodal prompting as a teachable skill.** AI literacy curricula must address modality-specific prompting, coherence across modes, and critical evaluation of multimodal outputs.^[[multimodal-prompting-ai-literacy]]
+3. **Preserve human meaning-making.** Multimodal AI should augment, not replace, the learner's own construction and evaluation of meaning across modes.^[[multimodal-learning-genai]]
+4. **Extend evaluation to multimodal validity.** Assessment validity, bias, and reliability must be examined when AI scores or generates multimodal artefacts.^[[multimodal-item-parameter-estimation-2026]]^[[ai-ed-evaluation]]
+5. **Watch equity and privacy.** Unreliable support on image-rich problems and the data demands of multimodal sensing both carry equity and privacy implications.^[[syal-multimodal-dialogue-stem-2026]]^[[privacy-aware-classroom-incident-recognition-2026]]
 
 ## Connected Concepts
 
 - [[generative-ai]]
+- [[llm]]
+- [[educational-nlp]]
+- [[knowledge-graph]]
+- [[ai-tutoring]]
+- [[intelligent-tutoring]]
+- [[ai-literacy]]
+- [[prompt-engineering]]
+- [[feedback-loop]]
+- [[assessment]]
+- [[educational-measurement]]
+- [[item-response-theory]]
+- [[student-modeling]]
+- [[socratic-method]]
+- [[scaffolding]]
+- [[ai-ed-evaluation]]
+- [[benchmark]]
+- [[higher-ed]]
+- [[equity-in-ai-education]]
+- [[privacy]]
 - [[edtech-platform]]
 - [[stem-education]]
-- [[privacy]]
-- [[teacher-role]]
-- [[over-reliance]]
-- [[scaffolding]]
-- [[personalized-learning]]
-- [[intelligent-tutoring]]
-- [[knowledge-tracing]]
-- [[adaptive-learning]]
-- [[hallucination-risk]]
+- [[accessible-learning]]
 
 ## Connected Articles
 
-- [[multimodal-item-parameter-estimation-2026]]
-- [[ai-guided-learning-audiovideo-2026]]
+- [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
+- [[syal-multimodal-dialogue-stem-2026]] — The Multimodal Interference Effect and structured-dialogue recovery in STEM
+- [[multimodal-ai-tutoring]] — Multimodal AI tutoring in STEM and the error taxonomy
+- [[multimodal-ai-feedback-learning]] — Multimodal AI feedback matches educators on learning, exceeds on perceptions
+- [[multimodal-prompting-ai-literacy]] — Students' multimodal prompting as epistemic work in AI literacy
+- [[multimodal-item-parameter-estimation-2026]] — Estimating IRT item parameters with multimodal LLMs
+- [[ai-guided-learning-audiovideo-2026]] — AI-guided audio-video learning support
+- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal knowledge graphs for educational reasoning
+- [[mllm-scientific-visualization-literacy]] — Multimodal LLM literacy for scientific visualization
+- [[educational-vlm-evaluation]] — Evaluating educational vision-language models
+- [[multimodal-affective-its-presentation]] — Multimodal signals in affective intelligent tutoring
+- [[kar-mathbuddy-affective-math-tutoring-2025]] — Affective multimodal math tutoring
+- [[llm-cognitive-diagnosis-handwritten-math]] — LLM cognitive diagnosis of handwritten math
+- [[nuclear-diffusion-text-to-image-learning-2026]] — Text-to-image learning in nuclear engineering education
+- [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware multimodal classroom sensing
+- [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Multimodal OCR instruction in cybersecurity education
+- [[golrang-propact-pair-programming-2026]] — Multimodal interactions in pair programming with AI
 
 ---
 
@@ -32857,11 +33103,25 @@ Social robots connect to [[human-robot-interaction]], [[educational-robotics]], 
 
 ---
 
-## [Socratic AI Dialogue](https://edtechdev.github.io/aied/concepts/socratic-ai-dialogue/)
+## [Socratic Method](https://edtechdev.github.io/aied/concepts/socratic-method/)
 
-> Socratic dialogue — asking structured questions rather than providing answers — is one of the strongest pedagogical scaffolds for deep learning. When automated via AI, it produces measurable reasoning gains but also requires careful calibration to avoid frustrating learners or displacing human mentorship.^[[hashmi-socratic-physics-chatbot-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
+> **Socratic Method** — a pedagogical approach rooted in guided questioning and dialogue rather than direct instruction, now being adapted for generative AI tutoring systems. In AI in education, the Socratic method is operationalized through LLMs that ask probing questions, scaffold reasoning, and withhold direct answers — aiming to promote deeper understanding and productive struggle rather than answer-fetching.^[[hashmi-socratic-physics-chatbot-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
 
-Deployed a custom Socratic AI chatbot in a large-enrollment introductory mechanics course:
+The Socratic method is one of the oldest pedagogical techniques — originating with Socrates in ancient Athens — and it has found new relevance in the age of generative AI. In AI education research, the Socratic method refers to AI systems that engage learners through guided dialogue, posing questions that lead students to discover answers rather than providing them outright. Asking structured questions rather than providing answers is one of the strongest pedagogical scaffolds for deep learning; when automated via AI, it produces measurable reasoning gains but also requires careful calibration to avoid frustrating learners or displacing human mentorship.^[[hashmi-socratic-physics-chatbot-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
+
+## How it works in AI tutoring
+
+Unlike direct-instruction AI tutors that give answers, Socratic AI tutors use question sequences that:
+- **Elicit prior knowledge** — asking what the student already knows about a topic
+- **Probe reasoning** — "Why do you think that?" or "What if the situation were different?"
+- **Surface misconceptions** — through carefully chosen counterexamples
+- **Guide toward insight** — without giving the answer away
+
+The Socratic approach directly embodies the principle from [[pedagogical-llm-training|EduQwen]]: **reward "guiding" over "answering."** However, real-time Socratic calibration is harder than paper-bench pedagogy: EduQwen optimizes for correct guiding on a multiple-choice benchmark, whereas a live Socratic tutor must decide *when* to guide, *when* to hint, and *when* to answer — based on real-time student signals. [[affective-tutoring|Affective state]] is a critical moderator: a frustrated student may need a brief direct answer before returning to Socratic mode.
+
+## Evidence of effectiveness
+
+A custom Socratic AI chatbot deployed in a large-enrollment introductory mechanics course (150 first-year STEM majors) produced measurable reasoning gains:
 
 | Metric | Result |
 |---|---|
@@ -32874,71 +33134,14 @@ Deployed a custom Socratic AI chatbot in a large-enrollment introductory mechani
 
 **Interpretation:** Students began with vague, generic questions but progressively sharpened them through Socratic interaction — a clear indicator of developing expert-like reasoning. The positive correlation between question specificity and self-reported expected grade suggests that learning to ask better questions is itself a domain skill.
 
-## The Effectiveness Gap
+### The effectiveness gap
 
 The gap between "knowledge-based skills" (4.0/5) and "overall effectiveness" (3.4/5) suggests a tension: students recognize that the Socratic bot improved their reasoning, yet do not fully endorse it as a complete tutoring solution. Possible reasons:
 - Socratic dialogue is effortful; students may prefer direct answers for efficiency
 - The chatbot cannot provide the relational support of a human tutor
 - Some students may get stuck in Socratic loops without resolution
 
-## Relationship to Pedagogical Training
-
-The Socratic approach directly embodies the principle from [[pedagogical-llm-training|EduQwen]]: **reward "guiding" over "answering."** However, real-time Socratic calibration is harder than paper-bench pedagogy:
-
-- EduQwen optimizes for correct guiding on a multiple-choice benchmark
-- A live Socratic tutor must decide *when* to guide, *when* to hint, and *when* to answer — based on real-time student signals
-- [[affective-tutoring|Affective state]] is a critical moderator: a frustrated student may need a brief direct answer before returning to Socratic mode
-
-## Agency and Critical Use
-
-Favero et al. (2025) caution that even Socratic AI can undermine agency if students become dependent on the questioning structure rather than internalizing it. The goal is not permanent Socratic scaffolding but **scaffolded transfer** — students eventually Socratize themselves.
-
-## Open Questions
-
-1. Does Socratic dialogue transfer across domains, or is physics-specific reasoning non-transferable?
-2. How does Socratic specificity correlate with *actual* (not self-reported) course performance?
-3. Can Socratic AI be combined with [[ai-peer-feedback-systems|peer feedback]] for social amplification?
-
-## Connected Concepts
-
-- [[scaffolding]]
-- [[metacognition]]
-- [[intelligent-tutoring]]
-- [[formative-assessment]]
-- [[ai-literacy]]
-- [[cognitive-offloading]]
-- [[faculty-development]]
-- [[automated-grading]]
-- [[personalized-learning]]
-- [[over-reliance]]
-- [[llm]]
-- [[self-regulated-learning]]
-## Connected Articles
-
-- [[codify-socratic-tutoring-programming]]
-- [[critical-thinking-genai-scaffolding]]
-- [[generative-ai-guardrails-harm-learning]]
-- [[pedagogy-ai-mistakes]]
-- [[prober-ai-inquiry-writing]]
-- [[retrieval-augmented-tutoring-algorithm-kite]]
-
----
-
-## [Socratic Method](https://edtechdev.github.io/aied/concepts/socratic-method/)
-
-> **Socratic Method** — a pedagogical approach rooted in guided questioning and dialogue rather than direct instruction, now being adapted for generative AI tutoring systems. In AI in education, the Socratic method is operationalized through LLMs that ask probing questions, scaffold reasoning, and withhold direct answers — aiming to promote deeper understanding and productive struggle rather than answer-fetching.
-
-The Socratic method is one of the oldest pedagogical techniques — originating with Socrates in ancient Athens — and it has found new relevance in the age of generative AI. In AI education research, the Socratic method refers to AI systems that engage learners through guided dialogue, posing questions that lead students to discover answers rather than providing them outright.
-
-### How it works in AI tutoring
-
-Unlike direct-instruction AI tutors that give answers, Socratic AI tutors use question sequences that:
-- **Elicit prior knowledge** — asking what the student already knows about a topic
-- **Probe reasoning** — "Why do you think that?" or "What if the situation were different?"
-- **Surface misconceptions** — through carefully chosen counterexamples
-- **Guide toward insight** — without giving the answer away
-
-### Research in the wiki
+## Research in the wiki
 
 The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provides empirical evidence that the Socratic method can be operationalized through generative AI at scale, serving simultaneously as a teaching tool and data-collection instrument for [[learning-analytics]]. Unlike rule-based Socratic systems of the past, LLM-based approaches can adapt question sequences dynamically based on student responses.
 
@@ -32948,9 +33151,21 @@ The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provid
 
 **[[syal-multimodal-dialogue-stem-2026|Multimodal dialogue systems]]** extend Socratic tutoring to visual domains, using a zero-retraining intervention protocol that asks models to describe, reason, and self-correct — a multimodal Socratic scaffold.
 
-### Connections to other concepts
+**[[retrieval-augmented-tutoring-algorithm-kite|Retrieval-augmented tutoring]]** operationalizes Socratic principles through retrieval, anchoring each response in authoritative course content rather than relying only on the model's parametric knowledge — addressing the gap that pedagogical quality alone is insufficient without content fidelity.
 
-The Socratic method is closely tied to [[scaffolding]] (providing just enough support), productive-struggle (letting students wrestle with difficulty), and [[intelligent-tutoring]] (adaptive question sequencing). It contrasts with [[over-reliance]] — students who receive direct answers may bypass learning, while Socratic guidance maintains cognitive engagement. The approach also connects to [[over-reliance]], as students must learn when to trust AI-generated questions versus when to question them.
+## Agency and critical use
+
+Favero et al. (2025) caution that even Socratic AI can undermine [[agency]] if students become dependent on the questioning structure rather than internalizing it. The goal is not permanent Socratic scaffolding but **scaffolded transfer** — students eventually Socratize themselves.
+
+## Connections to other concepts
+
+The Socratic method is closely tied to [[scaffolding]] (providing just enough support), productive-struggle (letting students wrestle with difficulty), and [[intelligent-tutoring]] (adaptive question sequencing). It contrasts with [[over-reliance]] — students who receive direct answers may bypass learning, while Socratic guidance maintains cognitive engagement. It supports [[self-regulated-learning]] and [[metacognition]] by making reasoning visible, and connects to [[formative-assessment]] when used to probe understanding in real time.
+
+## Open Questions
+
+1. Does Socratic dialogue transfer across domains, or is domain-specific reasoning non-transferable?
+2. How does Socratic specificity correlate with *actual* (not self-reported) course performance?
+3. Can Socratic AI be combined with [[ai-peer-feedback-systems|peer feedback]] for social amplification?
 
 ## Connected Concepts
 
@@ -32966,15 +33181,28 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[adaptive-learning]]
 - [[generative-ai]]
 - [[over-reliance]]
+- [[self-regulated-learning]]
+- [[formative-assessment]]
+- [[ai-literacy]]
+- [[agency]]
+- [[critical-thinking]]
+
 ## Connected Articles
 
-- [[ai-agents-constructive-conflict-design-education-2026]]
-- [[genai-performance-vs-learning]]
 - [[hashmi-socratic-physics-chatbot-2025]]
-- [[structured-llm-feedback-programming]]
+- [[physics-chatbot-epistemological-beliefs-2026]]
+- [[codify-socratic-tutoring-programming]]
+- [[ai-agents-constructive-conflict-design-education-2026]]
 - [[syal-multimodal-dialogue-stem-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]- [[physics-chatbot-epistemological-beliefs-2026]]
+- [[retrieval-augmented-tutoring-algorithm-kite]]
+- [[genai-performance-vs-learning]]
+- [[structured-llm-feedback-programming]]
+- [[zerkouk-comprehensive-review-its-2025]]
 - [[embodied-inquiry-ai-facilitator-physics-2026]]
+- [[prober-ai-inquiry-writing]]
+- [[critical-thinking-genai-scaffolding]]
+- [[generative-ai-guardrails-harm-learning]]
+- [[pedagogy-ai-mistakes]]
 
 ---
 

@@ -22,7 +22,7 @@ Research themes include:
 - [[agentic-ai]]
 - [[ai-tutoring]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[pedagogical-agent]]
 
 ## Connected Articles

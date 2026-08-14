@@ -3,7 +3,7 @@ title: "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for
 created: 2026-05-09
 updated: 2026-05-09
 type: article
-tags: [writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment, metacognition, socratic-ai-dialogue, llm, ai-tutoring]
+tags: [writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment, metacognition, socratic-method, llm, ai-tutoring]
 sources: ['raw/papers/2605.05598.md']
 confidence: medium
 ---
@@ -23,12 +23,12 @@ The system implements a **Challenge → Unlock** architecture:
 This gating mechanism deliberately creates friction — students cannot bypass critical thinking to access help. The approach is grounded in Toulmin's argumentation theory and research on peer feedforward questioning.
 
 ## Why This Matters
-Conventional AI writing tools that generate or rewrite text risk creating cognitive debt — students outsource thinking rather than developing it. Prober.ai's approach connects to [[metacognition]] by forcing reflective engagement and to [[socratic-ai-dialogue]] through inquiry-based interaction. It represents a design pattern for "cognition-preserving AI" that could extend beyond writing to other domains.
+Conventional AI writing tools that generate or rewrite text risk creating cognitive debt — students outsource thinking rather than developing it. Prober.ai's approach connects to [[metacognition]] by forcing reflective engagement and to [[socratic-method]] through inquiry-based interaction. It represents a design pattern for "cognition-preserving AI" that could extend beyond writing to other domains.
 
 ## Connected Concepts
 
 - [[metacognition]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 ## Connected Articles
 
 

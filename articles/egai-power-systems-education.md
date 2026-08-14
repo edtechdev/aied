@@ -33,7 +33,7 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 - [[cs-education]]
 - [[curriculum-design]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 
 ## Connected Articles
 

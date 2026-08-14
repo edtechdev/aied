@@ -20,7 +20,7 @@ Recent work in Technology-Enhanced Learning and HumanComputer Interaction highli
 - [[affective-tutoring]]
 - [[knowledge-tracing]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
 - [[pedagogical-llm-training]]

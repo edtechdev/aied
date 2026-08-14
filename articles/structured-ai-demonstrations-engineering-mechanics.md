@@ -22,7 +22,7 @@ Preliminary data show shifting student behaviors and complex relationships betwe
 ## Connected Concepts
 
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
 - [[agentic-ai]]

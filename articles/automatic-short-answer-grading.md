@@ -70,7 +70,7 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 - [[ai-feedback-quality]]
 - [[cs-education]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[ai-ed-evaluation]]
 

@@ -21,7 +21,7 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
 - [[scaffolding]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[learning-analytics]]
 

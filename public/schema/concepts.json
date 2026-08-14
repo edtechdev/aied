@@ -19,7 +19,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/accessible-learning",
       "name": "Accessible Learning",
       "url": "https://edtechdev.github.io/aied/concepts/accessible-learning/",
-      "description": "Accessible Learning \u2014 a key concept in AI in education research. Explored across 5 articles in this wiki.",
+      "description": "Accessible Learning — a key concept in AI in education research. Explored across 5 articles in this wiki.",
       "termCode": "accessible-learning",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -58,7 +58,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/adaptive-prompt-routing",
       "name": "Adaptive Prompt Routing",
       "url": "https://edtechdev.github.io/aied/concepts/adaptive-prompt-routing/",
-      "description": "Adaptive prompt routing \u2014 dynamically selecting or composing LLM prompts per task and learner \u2014 connects the wiki's prompt-engineering and learning-to-prompt-adaptive-tutoring threads, where prompt selection becomes part of the tutoring system itself rather than a user skill.",
+      "description": "Adaptive prompt routing — dynamically selecting or composing LLM prompts per task and learner — connects the wiki's prompt-engineering and learning-to-prompt-adaptive-tutoring threads, where prompt selection becomes part of the tutoring system itself rather than a user skill.",
       "termCode": "adaptive-prompt-routing"
     },
     {
@@ -79,7 +79,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/adult-learning",
       "name": "Adult Learning",
       "url": "https://edtechdev.github.io/aied/concepts/adult-learning/",
-      "description": "Adult Learning \u2014 a key concept in AI in education research. Explored across 1 articles in this wiki.",
+      "description": "Adult Learning — a key concept in AI in education research. Explored across 1 articles in this wiki.",
       "termCode": "adult-learning",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -92,7 +92,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/affective-computing",
       "name": "Affective Computing",
       "url": "https://edtechdev.github.io/aied/concepts/affective-computing/",
-      "description": "Affective computing in education uses physiological and behavioral signals to sense learner emotion and adapt instruction \u2014 see affective-text-wearable-student-health, multimodal-affective-its-presentation, and kar-mathbuddy-affective-math-tutoring-2025. The wiki also documents emotional risks of AI",
+      "description": "Affective computing in education uses physiological and behavioral signals to sense learner emotion and adapt instruction — see affective-text-wearable-student-health, multimodal-affective-its-presentation, and kar-mathbuddy-affective-math-tutoring-2025. The wiki also documents emotional risks of AI",
       "termCode": "affective-computing",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -118,7 +118,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/agentic-ai",
       "name": "Agentic AI in Education",
       "url": "https://edtechdev.github.io/aied/concepts/agentic-ai/",
-      "description": "Agentic AI \u2014 AI systems that autonomously plan, execute, and adapt multi-step workflows to achieve learning goals, going beyond single-turn Q&A to act as persistent, goal-directed collaborators: AI tutors that scaffold over extended interactions, multi-agent systems orchestrating instructional desig",
+      "description": "Agentic AI — AI systems that autonomously plan, execute, and adapt multi-step workflows to achieve learning goals, going beyond single-turn Q&A to act as persistent, goal-directed collaborators: AI tutors that scaffold over extended interactions, multi-agent systems orchestrating instructional desig",
       "termCode": "agentic-ai",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -131,7 +131,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/ai-ed-evaluation",
       "name": "AI Ed Evaluation",
       "url": "https://edtechdev.github.io/aied/concepts/ai-ed-evaluation/",
-      "description": "AI-ed evaluation covers how AI education tools are benchmarked and assessed \u2014 see cotal-formative-assessment-scoring-2026, benchmark, ground-truth-reliability-aied, and teachbench-llm-teaching-evaluation \u2014 with recurring findings that evaluation must be domain-specific and reliability-aware, not hea",
+      "description": "AI-ed evaluation covers how AI education tools are benchmarked and assessed — see cotal-formative-assessment-scoring-2026, benchmark, ground-truth-reliability-aied, and teachbench-llm-teaching-evaluation — with recurring findings that evaluation must be domain-specific and reliability-aware, not hea",
       "termCode": "ai-ed-evaluation",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -144,7 +144,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/ai-education",
       "name": "AI Education",
       "url": "https://edtechdev.github.io/aied/concepts/ai-education/",
-      "description": "AI education \u2014 teaching about AI itself \u2014 is examined through k-12-ai-education, ml-literacy-primary-education, principled-ai-education, and ai-literacy-equity-programming-policy, which find that curricula must span technical, ethical, and equity dimensions of AI literacy.",
+      "description": "AI education — teaching about AI itself — is examined through k-12-ai-education, ml-literacy-primary-education, principled-ai-education, and ai-literacy-equity-programming-policy, which find that curricula must span technical, ethical, and equity dimensions of AI literacy.",
       "termCode": "ai-education",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -157,7 +157,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/ai-feedback-quality",
       "name": "AI Feedback Quality",
       "url": "https://edtechdev.github.io/aied/concepts/ai-feedback-quality/",
-      "description": "AI Feedback Quality \u2014 a key concept in AI in education research. Explored across 10 articles in this wiki.",
+      "description": "AI Feedback Quality — a key concept in AI in education research. Explored across 10 articles in this wiki.",
       "termCode": "ai-feedback-quality",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -178,7 +178,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/ai-literacy",
       "name": "AI Literacy",
       "url": "https://edtechdev.github.io/aied/concepts/ai-literacy/",
-      "description": "AI literacy \u2014 the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI technologies in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical evaluation of AI outputs, and eth",
+      "description": "AI literacy — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI technologies in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical evaluation of AI outputs, and eth",
       "termCode": "ai-literacy",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -191,7 +191,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/ai-tutoring",
       "name": "AI Tutoring",
       "url": "https://edtechdev.github.io/aied/concepts/ai-tutoring/",
-      "description": "AI tutoring \u2014 the use of AI (especially llm and intelligent-tutoring) to provide personalized, adaptive, scalable instructional support: conversational tutors, scaffolded feedback systems, adaptive platforms, and agent-based tutors with long-term learner models. Effectiveness hinges on pedagogical d",
+      "description": "AI tutoring — the use of AI (especially llm and intelligent-tutoring) to provide personalized, adaptive, scalable instructional support: conversational tutors, scaffolded feedback systems, adaptive platforms, and agent-based tutors with long-term learner models. Effectiveness hinges on pedagogical d",
       "termCode": "ai-tutoring",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -204,7 +204,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/algorithmic-bias",
       "name": "Algorithmic Bias",
       "url": "https://edtechdev.github.io/aied/concepts/algorithmic-bias/",
-      "description": "Algorithmic bias in educational AI is documented across gender-bias-transfer-llm-writing, ai-scoring-language-bias-physics, llm-cultural-relevance-k12, and bias-mitigation \u2014 models inherit and amplify demographic, linguistic, and cultural biases that require systematic auditing and mitigation.",
+      "description": "Algorithmic bias in educational AI is documented across gender-bias-transfer-llm-writing, ai-scoring-language-bias-physics, llm-cultural-relevance-k12, and bias-mitigation — models inherit and amplify demographic, linguistic, and cultural biases that require systematic auditing and mitigation.",
       "termCode": "algorithmic-bias"
     },
     {
@@ -212,7 +212,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/andragogy",
       "name": "Andragogy",
       "url": "https://edtechdev.github.io/aied/concepts/andragogy/",
-      "description": "Andragogy \u2014 a key concept in AI in education research. Explored across 1 articles in this wiki.",
+      "description": "Andragogy — a key concept in AI in education research. Explored across 1 articles in this wiki.",
       "termCode": "andragogy",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -225,7 +225,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/assessment-validity",
       "name": "Assessment Validity in AI Education",
       "url": "https://edtechdev.github.io/aied/concepts/assessment-validity/",
-      "description": "Assessment validity \u2014 whether an instrument measures what it claims \u2014 is under strain in AI education: ai-literacy self-reports overestimate actual skill (40% gap; r=0.31 self-report vs r=0.72 task-based), demanding task-based, construct-aligned designs (benchmark, automated-grading).",
+      "description": "Assessment validity — whether an instrument measures what it claims — is under strain in AI education: ai-literacy self-reports overestimate actual skill (40% gap; r=0.31 self-report vs r=0.72 task-based), demanding task-based, construct-aligned designs (benchmark, automated-grading).",
       "termCode": "assessment-validity",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -251,7 +251,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/automated-assessment",
       "name": "Automated Assessment",
       "url": "https://edtechdev.github.io/aied/concepts/automated-assessment/",
-      "description": "Automated assessment \u2014 machine scoring and feedback at scale \u2014 is covered by automated-grading, aiawe-automated-writing-evaluation, psyscore-essay-scoring-zpd-feedback, and cotal-formative-assessment-scoring-2026: LLM-based scoring generalizes across domains when prompt-engineered with human-in-the-",
+      "description": "Automated assessment — machine scoring and feedback at scale — is covered by automated-grading, aiawe-automated-writing-evaluation, psyscore-essay-scoring-zpd-feedback, and cotal-formative-assessment-scoring-2026: LLM-based scoring generalizes across domains when prompt-engineered with human-in-the-",
       "termCode": "automated-assessment",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -264,7 +264,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/automated-essay-scoring",
       "name": "Automated Essay Scoring",
       "url": "https://edtechdev.github.io/aied/concepts/automated-essay-scoring/",
-      "description": "Automated Essay Scoring (AES) \u2014 the use of AI to evaluate and score written essays, spanning traditional statistical approaches, fine-tuned language models, and increasingly accessible LLM-based prompting strategies. AES research in this wiki covers scoring accuracy, fairness and bias, psychometric ",
+      "description": "Automated Essay Scoring (AES) — the use of AI to evaluate and score written essays, spanning traditional statistical approaches, fine-tuned language models, and increasingly accessible LLM-based prompting strategies. AES research in this wiki covers scoring accuracy, fairness and bias, psychometric ",
       "termCode": "automated-essay-scoring",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -303,7 +303,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/benchmark",
       "name": "Benchmark",
       "url": "https://edtechdev.github.io/aied/concepts/benchmark/",
-      "description": "Benchmark \u2014 standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and pedagogical quality of AI in education sys",
+      "description": "Benchmark — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and pedagogical quality of AI in education sys",
       "termCode": "benchmark",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -337,7 +337,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/cognitive-offloading",
       "name": "Cognitive Offloading",
       "url": "https://edtechdev.github.io/aied/concepts/cognitive-offloading/",
-      "description": "Cognitive offloading \u2014 the use of external tools (including AI) to reduce internal cognitive demand, shifting mental work from the learner to the system. In AI in education, cognitive offloading is the central mechanism through which AI tools can either support or undermine learning: appropriate off",
+      "description": "Cognitive offloading — the use of external tools (including AI) to reduce internal cognitive demand, shifting mental work from the learner to the system. In AI in education, cognitive offloading is the central mechanism through which AI tools can either support or undermine learning: appropriate off",
       "termCode": "cognitive-offloading",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -363,7 +363,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/computational-thinking",
       "name": "Computational Thinking",
       "url": "https://edtechdev.github.io/aied/concepts/computational-thinking/",
-      "description": "Computational thinking \u2014 decomposition, abstraction, and algorithmic reasoning \u2014 is taught and measured with AI in computational-thinking-ai-agent-creation, turtleai-visual-programming-benchmark, and code-anchor-multi-view-visualization: AI can support CT development when tasks remain generative rat",
+      "description": "Computational thinking — decomposition, abstraction, and algorithmic reasoning — is taught and measured with AI in computational-thinking-ai-agent-creation, turtleai-visual-programming-benchmark, and code-anchor-multi-view-visualization: AI can support CT development when tasks remain generative rat",
       "termCode": "computational-thinking",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -376,7 +376,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/confidence-aware-ai-assessment",
       "name": "Confidence Aware AI Assessment",
       "url": "https://edtechdev.github.io/aied/concepts/confidence-aware-ai-assessment/",
-      "description": "Confidence-aware AI assessment \u2014 models that report uncertainty alongside scores \u2014 is examined in confidence-aware-student-drawing-assessment, cong-confidence-asag-2026, and llm-psychometric-calibration-cdp: calibrated confidence improves trust and enables appropriate delegation (trust-calibration, ",
+      "description": "Confidence-aware AI assessment — models that report uncertainty alongside scores — is examined in confidence-aware-student-drawing-assessment, cong-confidence-asag-2026, and llm-psychometric-calibration-cdp: calibrated confidence improves trust and enables appropriate delegation (trust-calibration, ",
       "termCode": "confidence-aware-ai-assessment"
     },
     {
@@ -384,7 +384,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/constructivist",
       "name": "Constructivist",
       "url": "https://edtechdev.github.io/aied/concepts/constructivist/",
-      "description": "Constructivist learning theory \u2014 knowledge built through active experience \u2014 underpins wiki analyses of AI as genai-mindtool-generative-learning and icap-cognitive-engagement-llm-agents: AI tools support construction only when learners generate, not merely consume (active-learning, educational-theor",
+      "description": "Constructivist learning theory — knowledge built through active experience — underpins wiki analyses of AI as genai-mindtool-generative-learning and icap-cognitive-engagement-llm-agents: AI tools support construction only when learners generate, not merely consume (active-learning, educational-theor",
       "termCode": "constructivist"
     },
     {
@@ -392,7 +392,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/conversational-agents",
       "name": "Conversational Agents",
       "url": "https://edtechdev.github.io/aied/concepts/conversational-agents/",
-      "description": "Conversational Agents \u2014 a key concept in AI in education research. Explored across 1 articles in this wiki.",
+      "description": "Conversational Agents — a key concept in AI in education research. Explored across 1 articles in this wiki.",
       "termCode": "conversational-agents",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -405,7 +405,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/critical-thinking",
       "name": "Critical Thinking",
       "url": "https://edtechdev.github.io/aied/concepts/critical-thinking/",
-      "description": "Critical thinking \u2014 the ability to analyze, evaluate, and synthesize information \u2014 is both a skill that AI tools can help develop and a competency that students must apply when using AI. In AI in education research, critical thinking appears in two interrelated forms: as a learning objective (teachi",
+      "description": "Critical thinking — the ability to analyze, evaluate, and synthesize information — is both a skill that AI tools can help develop and a competency that students must apply when using AI. In AI in education research, critical thinking appears in two interrelated forms: as a learning objective (teachi",
       "termCode": "critical-thinking",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -457,7 +457,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/design-thinking",
       "name": "Design Thinking",
       "url": "https://edtechdev.github.io/aied/concepts/design-thinking/",
-      "description": "Design Thinking \u2014 a key concept in AI in education research. Explored across 1 articles in this wiki.",
+      "description": "Design Thinking — a key concept in AI in education research. Explored across 1 articles in this wiki.",
       "termCode": "design-thinking",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -470,7 +470,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/desirable-difficulties",
       "name": "Desirable Difficulties",
       "url": "https://edtechdev.github.io/aied/concepts/desirable-difficulties/",
-      "description": "Desirable difficulties \u2014 the finding that harder retrieval conditions improve long-term learning \u2014 is the theoretical counterweight to AI smoothing: agentic-ai-pedagogical-best-practice-2026 calls for intentional friction, and retrieval-practice and generative-ai-reduced-study-time-math document the",
+      "description": "Desirable difficulties — the finding that harder retrieval conditions improve long-term learning — is the theoretical counterweight to AI smoothing: agentic-ai-pedagogical-best-practice-2026 calls for intentional friction, and retrieval-practice and generative-ai-reduced-study-time-math document the",
       "termCode": "desirable-difficulties"
     },
     {
@@ -478,7 +478,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/digital-divide",
       "name": "Digital Divide",
       "url": "https://edtechdev.github.io/aied/concepts/digital-divide/",
-      "description": "Digital Divide \u2014 a key concept in AI in education research. Explored across 2 articles in this wiki.",
+      "description": "Digital Divide — a key concept in AI in education research. Explored across 2 articles in this wiki.",
       "termCode": "digital-divide",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -517,7 +517,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/educational-measurement",
       "name": "Educational Measurement",
       "url": "https://edtechdev.github.io/aied/concepts/educational-measurement/",
-      "description": "Educational measurement \u2014 psychometric theory applied to learning data \u2014 runs through the wiki's item-response-theory, knowledge-tracing, and assessment-validity pages: LLM-era measurement must reconcile classical psychometrics with new AI-generated response streams (psychometrically-aware-ai, educa",
+      "description": "Educational measurement — psychometric theory applied to learning data — runs through the wiki's item-response-theory, knowledge-tracing, and assessment-validity pages: LLM-era measurement must reconcile classical psychometrics with new AI-generated response streams (psychometrically-aware-ai, educa",
       "termCode": "educational-measurement"
     },
     {
@@ -541,7 +541,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/efficacy-study",
       "name": "Efficacy Study",
       "url": "https://edtechdev.github.io/aied/concepts/efficacy-study/",
-      "description": "Efficacy Study \u2014 a key concept in AI in education research. Explored across 6 articles in this wiki.",
+      "description": "Efficacy Study — a key concept in AI in education research. Explored across 6 articles in this wiki.",
       "termCode": "efficacy-study",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -554,7 +554,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/engagement-metrics",
       "name": "Engagement Metrics",
       "url": "https://edtechdev.github.io/aied/concepts/engagement-metrics/",
-      "description": "Engagement Metrics \u2014 a key concept in AI in education research. Explored across 6 articles in this wiki.",
+      "description": "Engagement Metrics — a key concept in AI in education research. Explored across 6 articles in this wiki.",
       "termCode": "engagement-metrics",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -606,7 +606,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/faculty-development",
       "name": "Faculty Development",
       "url": "https://edtechdev.github.io/aied/concepts/faculty-development/",
-      "description": "Faculty Development \u2014 a key concept in AI in education research. Explored across 38 articles in this wiki.",
+      "description": "Faculty Development — a key concept in AI in education research. Explored across 38 articles in this wiki.",
       "termCode": "faculty-development",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -671,7 +671,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/hallucination-risk",
       "name": "Hallucination Risk",
       "url": "https://edtechdev.github.io/aied/concepts/hallucination-risk/",
-      "description": "Hallucination Risk \u2014 a key concept in AI in education research. Explored across 2 articles in this wiki.",
+      "description": "Hallucination Risk — a key concept in AI in education research. Explored across 2 articles in this wiki.",
       "termCode": "hallucination-risk",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -684,7 +684,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/help-seeking",
       "name": "Help-Seeking",
       "url": "https://edtechdev.github.io/aied/concepts/help-seeking/",
-      "description": "Help-Seeking \u2014 a key concept in AI in education research. Explored across 4 articles in this wiki.",
+      "description": "Help-Seeking — a key concept in AI in education research. Explored across 4 articles in this wiki.",
       "termCode": "help-seeking",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -710,7 +710,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/human-ai-collaboration",
       "name": "Human AI Collaboration",
       "url": "https://edtechdev.github.io/aied/concepts/human-ai-collaboration/",
-      "description": "Human-AI collaboration \u2014 the division of cognitive labor between people and models \u2014 is the wiki's core interaction theme: human-ai-collaboration-trust-expectations, humanlike-ai-collaborative-writing, genai-mindtool-generative-learning, and teacher-student-agency-orchestration examine trust, agency",
+      "description": "Human-AI collaboration — the division of cognitive labor between people and models — is the wiki's core interaction theme: human-ai-collaboration-trust-expectations, humanlike-ai-collaborative-writing, genai-mindtool-generative-learning, and teacher-student-agency-orchestration examine trust, agency",
       "termCode": "human-ai-collaboration"
     },
     {
@@ -731,7 +731,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/inclusive-ai",
       "name": "Inclusive Ai",
       "url": "https://edtechdev.github.io/aied/concepts/inclusive-ai/",
-      "description": "Inclusive Ai \u2014 a key concept in AI in education research. Explored across 3 articles in this wiki.",
+      "description": "Inclusive Ai — a key concept in AI in education research. Explored across 3 articles in this wiki.",
       "termCode": "inclusive-ai",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -757,7 +757,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/intelligent-tutoring",
       "name": "Intelligent Tutoring",
       "url": "https://edtechdev.github.io/aied/concepts/intelligent-tutoring/",
-      "description": "Intelligent Tutoring Systems (ITS) \u2014 a well-established subfield of AI in education that uses AI to model student knowledge, adapt instruction, and provide personalized feedback, typically through model-tracing, knowledge tracing, and scaffolded problem-solving. ITS research predates the LLM era but",
+      "description": "Intelligent Tutoring Systems (ITS) — a well-established subfield of AI in education that uses AI to model student knowledge, adapt instruction, and provide personalized feedback, typically through model-tracing, knowledge tracing, and scaffolded problem-solving. ITS research predates the LLM era but",
       "termCode": "intelligent-tutoring",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -770,7 +770,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/item-response-theory",
       "name": "Item Response Theory",
       "url": "https://edtechdev.github.io/aied/concepts/item-response-theory/",
-      "description": "Item response theory \u2014 psychometric modeling of item difficulty and ability \u2014 meets LLMs in llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, and knowledge-tracing-irt: AI predicts difficulty and calibrates assessment, improving measurement precision (educational-measurement, assessm",
+      "description": "Item response theory — psychometric modeling of item difficulty and ability — meets LLMs in llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, and knowledge-tracing-irt: AI predicts difficulty and calibrates assessment, improving measurement precision (educational-measurement, assessm",
       "termCode": "item-response-theory"
     },
     {
@@ -804,7 +804,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/knowledge-graph",
       "name": "Knowledge Graph",
       "url": "https://edtechdev.github.io/aied/concepts/knowledge-graph/",
-      "description": "Knowledge graph \u2014 a structured representation of concepts and their relationships used to model domain knowledge, student understanding, and learning dependencies in AI in education systems. Knowledge graphs enable AI systems to reason about what students know, what they need to learn next, and how ",
+      "description": "Knowledge graph — a structured representation of concepts and their relationships used to model domain knowledge, student understanding, and learning dependencies in AI in education systems. Knowledge graphs enable AI systems to reason about what students know, what they need to learn next, and how ",
       "termCode": "knowledge-graph",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -817,7 +817,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/knowledge-tracing",
       "name": "Knowledge Tracing",
       "url": "https://edtechdev.github.io/aied/concepts/knowledge-tracing/",
-      "description": "Knowledge tracing \u2014 modeling what learners know over time by tracking their performance on exercises and predicting future mastery. It is the wiki's richest modeling thread, spanning Bayesian, deep learning, and LLM-enhanced approaches to tracking student knowledge as it evolves.",
+      "description": "Knowledge tracing — modeling what learners know over time by tracking their performance on exercises and predicting future mastery. It is the wiki's richest modeling thread, spanning Bayesian, deep learning, and LLM-enhanced approaches to tracking student knowledge as it evolves.",
       "termCode": "knowledge-tracing",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -856,7 +856,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/learning-gains",
       "name": "Learning Gains",
       "url": "https://edtechdev.github.io/aied/concepts/learning-gains/",
-      "description": "Learning gains \u2014 measurable improvements in student knowledge, skills, or competencies resulting from educational interventions, including AI-assisted instruction. In AI in education research, learning gains serve as the primary outcome measure for evaluating whether AI tools actually improve learni",
+      "description": "Learning gains — measurable improvements in student knowledge, skills, or competencies resulting from educational interventions, including AI-assisted instruction. In AI in education research, learning gains serve as the primary outcome measure for evaluating whether AI tools actually improve learni",
       "termCode": "learning-gains",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -895,7 +895,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/mastery-learning",
       "name": "Mastery Learning",
       "url": "https://edtechdev.github.io/aied/concepts/mastery-learning/",
-      "description": "Mastery learning \u2014 progression upon demonstrated competence \u2014 is enabled by adaptive AI: mastery-learning research in the wiki, alongside adaptive-learning, memdora-ai-spaced-repetition, and simulating-learner-task-selection, shows AI sequencing and assessment make mastery-based progression practica",
+      "description": "Mastery learning — progression upon demonstrated competence — is enabled by adaptive AI: mastery-learning research in the wiki, alongside adaptive-learning, memdora-ai-spaced-repetition, and simulating-learner-task-selection, shows AI sequencing and assessment make mastery-based progression practica",
       "termCode": "mastery-learning",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -908,7 +908,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/math-education",
       "name": "Math Education",
       "url": "https://edtechdev.github.io/aied/concepts/math-education/",
-      "description": "Math Education \u2014 a key concept in AI in education research. Explored across 2 articles in this wiki.",
+      "description": "Math Education — a key concept in AI in education research. Explored across 2 articles in this wiki.",
       "termCode": "math-education",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -934,7 +934,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/multimodal",
       "name": "Multimodal",
       "url": "https://edtechdev.github.io/aied/concepts/multimodal/",
-      "description": "Multimodal \u2014 a key concept in AI in education research. Explored across 3 articles in this wiki.",
+      "description": "Multimodal — a key concept in AI in education research. Explored across 3 articles in this wiki.",
       "termCode": "multimodal",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -947,7 +947,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/nlp-education",
       "name": "NLP Education",
       "url": "https://edtechdev.github.io/aied/concepts/nlp-education/",
-      "description": "NLP in education \u2014 computational analysis of learner language \u2014 underpins aiawe-automated-writing-evaluation, llm-item-difficulty-prediction, short-answer-scoring-quality-degradation, and automated-grading: from essay scoring to misconception detection, NLP pipelines convert student text into assess",
+      "description": "NLP in education — computational analysis of learner language — underpins aiawe-automated-writing-evaluation, llm-item-difficulty-prediction, short-answer-scoring-quality-degradation, and automated-grading: from essay scoring to misconception detection, NLP pipelines convert student text into assess",
       "termCode": "nlp-education",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -973,7 +973,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/over-reliance",
       "name": "Over-Reliance",
       "url": "https://edtechdev.github.io/aied/concepts/over-reliance/",
-      "description": "Over-reliance \u2014 excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished agency, and the displacement of skill development. Over-reliance is the behavioral manifestation of excessive cognitive-of",
+      "description": "Over-reliance — excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished agency, and the displacement of skill development. Over-reliance is the behavioral manifestation of excessive cognitive-of",
       "termCode": "over-reliance",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -1012,7 +1012,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/pedagogical-safety",
       "name": "Pedagogical Safety",
       "url": "https://edtechdev.github.io/aied/concepts/pedagogical-safety/",
-      "description": "Pedagogical safety \u2014 ensuring AI tutors cannot mislead or harm learners \u2014 is studied in hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, petechat-guardrailed-ai-tutor, and vetting-dual-llm-safety-education: safety requires layered guardrails, evaluation, and human oversight (et",
+      "description": "Pedagogical safety — ensuring AI tutors cannot mislead or harm learners — is studied in hazra-safetutors-pedagogical-safety-2026, eduguard-safe-rag-llm-tutor, petechat-guardrailed-ai-tutor, and vetting-dual-llm-safety-education: safety requires layered guardrails, evaluation, and human oversight (et",
       "termCode": "pedagogical-safety",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -1038,7 +1038,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/physics-education",
       "name": "PhysiCS Education",
       "url": "https://edtechdev.github.io/aied/concepts/physics-education/",
-      "description": "PhysiCS Education \u2014 a key concept in AI in education research. Explored across 1 articles in this wiki.",
+      "description": "PhysiCS Education — a key concept in AI in education research. Explored across 1 articles in this wiki.",
       "termCode": "physics-education",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -1103,7 +1103,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/prompt-engineering",
       "name": "Prompt Engineering",
       "url": "https://edtechdev.github.io/aied/concepts/prompt-engineering/",
-      "description": "Prompt engineering \u2014 the practice of designing and refining inputs to large language models to achieve desired outputs. In education, prompt engineering serves dual roles: as a learner skill (students must learn to prompt effectively) and as a system design lever (developers craft prompts that shape",
+      "description": "Prompt engineering — the practice of designing and refining inputs to large language models to achieve desired outputs. In education, prompt engineering serves dual roles: as a learner skill (students must learn to prompt effectively) and as a system design lever (developers craft prompts that shape",
       "termCode": "prompt-engineering",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -1116,7 +1116,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai",
       "name": "Psychometrically Aware AI",
       "url": "https://edtechdev.github.io/aied/concepts/psychometrically-aware-ai/",
-      "description": "Psychometrically aware AI \u2014 models aligned with measurement theory \u2014 is the standard advanced in llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, confidence-aware-ai-assessment, and item-response-theory: calibrated, uncertainty-aware AI assessment preserves validity and trust (educa",
+      "description": "Psychometrically aware AI — models aligned with measurement theory — is the standard advanced in llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, confidence-aware-ai-assessment, and item-response-theory: calibrated, uncertainty-aware AI assessment preserves validity and trust (educa",
       "termCode": "psychometrically-aware-ai"
     },
     {
@@ -1137,7 +1137,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/rct",
       "name": "RCT",
       "url": "https://edtechdev.github.io/aied/concepts/rct/",
-      "description": "RCT \u2014 a key concept in AI in education research. Explored across 2 articles in this wiki.",
+      "description": "RCT — a key concept in AI in education research. Explored across 2 articles in this wiki.",
       "termCode": "rct",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -1199,23 +1199,10 @@
     },
     {
       "@type": "DefinedTerm",
-      "@id": "https://edtechdev.github.io/aied/concepts/socratic-ai-dialogue",
-      "name": "Socratic AI Dialogue",
-      "url": "https://edtechdev.github.io/aied/concepts/socratic-ai-dialogue/",
-      "description": "DefinedTerm in the AI in Education wiki: Socratic AI Dialogue",
-      "termCode": "socratic-ai-dialogue",
-      "inDefinedTermSet": {
-        "@type": "DefinedTermSet",
-        "name": "AI in Education Wiki Concepts",
-        "url": "https://edtechdev.github.io/aied/concepts/"
-      }
-    },
-    {
-      "@type": "DefinedTerm",
       "@id": "https://edtechdev.github.io/aied/concepts/socratic-method",
       "name": "Socratic Method",
       "url": "https://edtechdev.github.io/aied/concepts/socratic-method/",
-      "description": "Socratic Method \u2014 a pedagogical approach rooted in guided questioning and dialogue rather than direct instruction, now being adapted for generative AI tutoring systems. In AI in education, the Socratic method is operationalized through LLMs that ask probing questions, scaffold reasoning, and withhol",
+      "description": "Socratic Method — a pedagogical approach rooted in guided questioning and dialogue rather than direct instruction, now being adapted for generative AI tutoring systems. In AI in education, the Socratic method is operationalized through LLMs that ask probing questions, scaffold reasoning, and withhol",
       "termCode": "socratic-method",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -1228,7 +1215,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/special-education",
       "name": "Special Education",
       "url": "https://edtechdev.github.io/aied/concepts/special-education/",
-      "description": "Special Education \u2014 a key concept in AI in education research. Explored across 5 articles in this wiki.",
+      "description": "Special Education — a key concept in AI in education research. Explored across 5 articles in this wiki.",
       "termCode": "special-education",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -1267,7 +1254,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/student-modeling",
       "name": "Student Modeling",
       "url": "https://edtechdev.github.io/aied/concepts/student-modeling/",
-      "description": "Student modeling \u2014 the broad practice of representing learner characteristics including knowledge, skills, affective states, engagement, and preferences in computational form. Student modeling is the foundation upon which adaptive and personalized AI in education systems are built.",
+      "description": "Student modeling — the broad practice of representing learner characteristics including knowledge, skills, affective states, engagement, and preferences in computational form. Student modeling is the foundation upon which adaptive and personalized AI in education systems are built.",
       "termCode": "student-modeling",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
@@ -1314,7 +1301,7 @@
       "@id": "https://edtechdev.github.io/aied/concepts/workforce-development",
       "name": "Workforce Development",
       "url": "https://edtechdev.github.io/aied/concepts/workforce-development/",
-      "description": "Workforce Development \u2014 a key concept in AI in education research. Explored across 1 articles in this wiki.",
+      "description": "Workforce Development — a key concept in AI in education research. Explored across 1 articles in this wiki.",
       "termCode": "workforce-development",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",

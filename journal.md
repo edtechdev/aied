@@ -2106,7 +2106,7 @@
   Self-Regulated Learning
   _self-regulated-learning, metacognition, scaffolding, k-12 +3_
 
-- ◐ [[socratic-ai-dialogue]] — `hashmi-socratic-physics-chatbot-2025`
+- ◐ [[socratic-method]] — `hashmi-socratic-physics-chatbot-2025`
   Socratic AI Dialogue
   _intelligent-tutoring, scaffolding, active-learning, higher-ed +2_
 

@@ -135,7 +135,7 @@ The guide includes 15+ educator case studies spanning:
 - [[metacognition]]
 - [[pedagogical-llm-training]]
 - [[self-regulated-learning]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - varga-atkins-educators-guide-multimodal-learning-genai-2025
 
 - [[ai-education]]

@@ -35,7 +35,7 @@ For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapt
 - [[collaborative-learning]]
 - [[affective-tutoring]]
 - [[teacher-ai-competency]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[help-seeking]]
 - [[pedagogical-agent]]
 - [[pedagogical-llm-training]]

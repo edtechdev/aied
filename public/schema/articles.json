@@ -2538,7 +2538,7 @@
       "name": "Interpretable Knowledge Tracing via IRT",
       "url": "https://edtechdev.github.io/aied/articles/knowledge-tracing-irt/",
       "description": "ScholarlyArticle in the AI in Education wiki: Interpretable Knowledge Tracing via IRT",
-      "keywords": "adaptive-learning, intelligent-tutoring, personalized-learning, learning-analytics, k-12, llm, item-response-theory, affective-tutoring, adaptive-learning-systems, socratic-ai-dialogue",
+      "keywords": "adaptive-learning, intelligent-tutoring, personalized-learning, learning-analytics, k-12, llm, item-response-theory, affective-tutoring, adaptive-learning-systems, socratic-method",
       "datePublished": "2026-05-07"
     },
     {
@@ -3349,7 +3349,7 @@
       "name": "The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking",
       "url": "https://edtechdev.github.io/aied/articles/pedagogy-ai-mistakes/",
       "description": "ScholarlyArticle in the AI in Education wiki: The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking",
-      "keywords": "higher-ed, ai-literacy, metacognition, stem-education, active-learning, socratic-ai-dialogue, rag, llm, ai-tutoring",
+      "keywords": "higher-ed, ai-literacy, metacognition, stem-education, active-learning, socratic-method, rag, llm, ai-tutoring",
       "datePublished": "2026-05-09"
     },
     {
@@ -3421,7 +3421,7 @@
       "name": "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing",
       "url": "https://edtechdev.github.io/aied/articles/prober-ai-inquiry-writing/",
       "description": "ScholarlyArticle in the AI in Education wiki: Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing",
-      "keywords": "writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment, metacognition, socratic-ai-dialogue, llm, ai-tutoring",
+      "keywords": "writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment, metacognition, socratic-method, llm, ai-tutoring",
       "datePublished": "2026-05-09"
     },
     {
@@ -3611,7 +3611,7 @@
       "name": "Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education",
       "url": "https://edtechdev.github.io/aied/articles/retrieval-augmented-tutoring-algorithm-kite/",
       "description": "Jain, Bhatt, Pitts, Pandya, Brusilovsky, Norouzi, Hellas, Leinonen & Akram (2026) \u2014 University of Pittsburgh, Aalto University, UC San Diego. Accepted to BEA 2026 (co-located with ACL 2026).",
-      "keywords": "intelligent-tutoring, llm, generative-ai, scaffolding, formative-assessment, higher-ed, personalized-learning, socratic-ai-dialogue, rag, socratic-ai",
+      "keywords": "intelligent-tutoring, llm, generative-ai, scaffolding, formative-assessment, higher-ed, personalized-learning, socratic-method, rag, socratic-ai",
       "datePublished": "2026-05-16"
     },
     {

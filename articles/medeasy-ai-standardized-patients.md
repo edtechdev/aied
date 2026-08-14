@@ -16,7 +16,7 @@ MedEasy: Designing AI Standardized Patients for Clinical Consultation Training i
 
 ## Connected Concepts
 
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[lifelong-learning]]
 - [[ai-tutoring]]
 - [[math-education]]

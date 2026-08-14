@@ -585,7 +585,6 @@
 - [[social-robot-study-companions]] — Co-Creating Buildable and Open Social Robot Study Companions with University Students
 - [[socially-fluent-ai-identity-detection]] — Socially fluent AI decouples conversational signals from source identity in online interaction
 - [[socratic-ai]] — Socratic Ai
-- [[socratic-ai-dialogue]] — Socratic AI Dialogue
 - [[socratic-method]] — Socratic Method in AI Education
 - [[socratic-questioning]] — Socratic Questioning
 - [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations

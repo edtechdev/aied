@@ -47,7 +47,7 @@ For instructors, these results suggest that AI education should explicitly surfa
 ## Connected Concepts
 
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[agentic-ai]]
 - [[ai-tutoring]]
 - [[math-education]]

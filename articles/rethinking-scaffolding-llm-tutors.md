@@ -33,7 +33,7 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[pedagogical-llm-training]]
 - [[benchmark]]
 - [[affective-tutoring]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
 
