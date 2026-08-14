@@ -56,7 +56,7 @@ TEI demonstrates that simple lexical and structural signals can effectively stee
 
 ## Connected Concepts
 
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[ai-ed-evaluation]]
 - [[open-source]]

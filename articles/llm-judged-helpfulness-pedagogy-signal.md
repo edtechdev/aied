@@ -35,7 +35,7 @@ The central conclusion is that **general-purpose helpfulness is not a reliable p
 - [[benchmark]]
 - [[personalized-learning]]
 - [[knowledge-tracing]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 
 ## Connected Articles
 

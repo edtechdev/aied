@@ -30,7 +30,7 @@ The system comprises five integrated components:
 
 Codify represents a modern instantiation of the [[conversational-ai-tutors-framework]] paradigm, combining LLM-powered dialogue with structured competency tracking — bridging the gap between open-ended chatbot tutoring and traditional [[automated-grading]] systems. Unlike purely conversational approaches (e.g., [[learnmate2-llm-adaptive-learning]]), Codify integrates formal assessment, gamification, and adaptive difficulty scaling into a single platform.
 
-The RAG architecture aligns with [[retrieval-augmented-tutoring-algorithm-kite|KITE]], which also uses RAG for algorithmic tutoring, though Codify adopts a much broader scope covering all programming education domains. The Socratic methodology directly connects to the [[socratic-ai-dialogue]] approach and the [[pedagogical-llm-training]] literature on training LLMs for guided inquiry rather than answer provision.
+The RAG architecture aligns with [[retrieval-augmented-tutoring-algorithm-kite|KITE]], which also uses RAG for algorithmic tutoring, though Codify adopts a much broader scope covering all programming education domains. The Socratic methodology directly connects to the [[socratic-method]] approach and the [[pedagogical-llm-training]] literature on training LLMs for guided inquiry rather than answer provision.
 
 ## Preliminary Evidence
 
@@ -43,7 +43,7 @@ Initial deployment in programming courses showed promising results for student e
 - [[llm]]
 - [[pedagogical-llm-training]]
 - [[scaffolding]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 
 - [[generative-ai]]
 - [[higher-ed]]

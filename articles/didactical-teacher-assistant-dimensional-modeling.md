@@ -16,7 +16,7 @@ Brisson, Segarra and Smits present a didactically-driven LLM teacher assistant f
 - [[socratic-method]]
 - [[instructional-design]]
 - [[affective-tutoring]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[help-seeking]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]

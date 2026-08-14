@@ -33,7 +33,7 @@ The work demonstrates how technology enhancement can close the gap between profe
 - [[higher-ed]]
 - [[learning-analytics]]
 - [[professional-training]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[math-education]]
 - [[curriculum-design]]
 

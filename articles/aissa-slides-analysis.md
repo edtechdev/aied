@@ -30,7 +30,7 @@ Tested with 46 undergraduate students in a real academic setting. Findings: tech
 - [[automated-essay-scoring]]
 - [[cs-education]]
 - [[administrator]]
-- [[socratic-ai-dialogue]]
+- [[socratic-method]]
 - [[automated-question-generation]]
 - [[ai-ed-evaluation]]
 - [[affective-computing]]
