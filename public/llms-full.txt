@@ -21745,33 +21745,42 @@ Ekkachai Jueng (2026). [Q-Learning Lab: Teaching Reinforcement Learning Through 
 
 ## [Quantum Education Intelligent Tutoring](https://edtechdev.github.io/aied/articles/quantum-education-its/)
 
-> **From Prototype to Classroom** (Elhaimeur & Chrisochoides, 2026) describes a tutoring system for quantum computing that bridges the gap between dense mathematical formalism and limited qualified instructors.
+> **ITAS (Intelligent Teaching Assistant System)** — Elhaimeur & Chrisochoides (2026) describe a multi-agent, knowledge-graph-augmented tutoring system for quantum computing education that bridges the gap between dense mathematical formalism and limited qualified instructors. Building on an earlier knowledge-graph-augmented prototype with two specialized LLM agents (a Teaching Agent and a Lesson Planning Agent), ITAS scales this into a production-grade system with four contributions: a five-module QIS curriculum grounded in an information-first framework, a Spoke-and-Wheel teaching architecture with quantum-specialized agents, production cloud infrastructure, and a conversational analytics layer. Piloted in a real quantum computing course at Old Dominion University.
 
-> Knowledge-graph-augmented ITS for quantum computing education, addressing instructor scarcity and concept counterintuitiveness.
+Quantum education faces a compounding problem: quantum concepts are counterintuitive, the mathematical formalism is dense, and qualified faculty are scarce outside a small number of well-resourced institutions. ITAS addresses all three by combining a structured [[knowledge-graph|knowledge-graph]] representation of quantum concepts with specialized AI agents, making [[intelligent-tutoring|intelligent tutoring]] viable in a technically demanding domain.
 
 ## System Architecture
 
-**From Prototype to Classroom** (Elhaimeur & Chrisochoides, 2026) describes a tutoring system for quantum computing that bridges the gap between dense mathematical formalism and limited qualified instructors.
-
 ### Knowledge Graph Foundation
-- **Structure:** Concept nodes with prerequisite relationships mapped explicitly
-- **Pedagogical use:** Tutor traverses graph to select next topic based on learner state
-- **Advantage:** Explicit prerequisite mapping aids navigation of counterintuitive quantum concepts (superposition, entanglement, measurement)
+- **Structure:** Concept nodes with prerequisite relationships mapped explicitly across the quantum information science curriculum
+- **Pedagogical use:** The tutor traverses the graph to select the next topic based on learner state, enabling structured progression rather than open-ended dialogue (which can confuse novices in quantum topics)
+- **Advantage:** Explicit prerequisite mapping aids navigation of counterintuitive quantum concepts (superposition, entanglement, measurement) — connecting directly to [[knowledge-tracing]] and [[student-modeling]]
+
+### Four Contributions
+1. **Five-module QIS curriculum** grounded in Watrous's information-first framework, structuring the domain into a coherent progression
+2. **Spoke-and-Wheel teaching architecture** with quantum-specialized agents — a deliberate move toward more aggressive agent specialization than the two-agent prototype, in response to task-boundary failures observed under prototype conditions
+3. **Production cloud infrastructure** designed for classroom-scale concurrency at "sub-textbook cost" with regulatory compliance built in
+4. **Conversational analytics layer** for instructors and content developers, surfacing curriculum gaps not otherwise visible
 
 ### Adaptive Components
 | Component | Function |
 |-----------|----------|
-| **Learner Model** | Tracks mastery per concept node in knowledge graph |
+| **Learner Model** | Tracks mastery per concept node in the knowledge graph |
 | **Pedagogical Module** | Selects optimal next concept/scaffold based on zone of proximal development |
 | **Interface** | Visualizes quantum states (Bloch spheres, circuit diagrams) with stepwise guidance |
 
 ## Key Challenges Addressed
 
 1. **Concept counterintuitiveness:** Quantum mechanics violates classical intuition — requires specialized scaffolding beyond generic ITS
-2. **Mathematical density:** Formalism (Dirac notation, unitary evolution) creates barrier for beginners
-3. **Instructor scarcity:** Few qualified faculty outside well-resourced institutions
+2. **Mathematical density:** Formalism (Dirac notation, unitary evolution) creates a barrier for beginners
+3. **Instructor scarcity:** Few qualified faculty outside well-resourced institutions — ITAS's cloud deployment and analytics help close this gap
 
-The system's knowledge-graph approach allows *structured progression* through these barriers rather than open-ended dialogue (which can confuse novices in quantum topics).
+## Deployment Findings
+
+Piloted in a quantum computing course at Old Dominion University, ITAS provides evidence on three questions the prototype could not answer:
+- **Can agent specialization solve the reliability problem?** Deployment evidence is consistent with specialization addressing the task-boundary failures observed in the prototype.
+- **Can the system run in a real course?** Yes — the cloud infrastructure supports classroom-scale concurrency at sub-textbook cost.
+- **Does the instructor gain actionable intelligence?** Yes — the analytics agent surfaces curriculum gaps the instructor could not otherwise see.
 
 ## Connection to Broader ITS Trends
 
@@ -21780,24 +21789,41 @@ Unlike general-purpose ITS (e.g., [[adaptive-learning|adaptive systems]] for mat
 - **Specialized misconception handling** (classical intuition interference)
 - **Formalism scaffolding** (gradual introduction of mathematical tools)
 
-This aligns with the [[tutoring-specific-vs-general-ai|tutoring-specific design]] principle: domain adaptation matters more than general conversational ability.
+This aligns with the [[tutoring-specific-vs-general-ai|tutoring-specific design]] principle: domain adaptation matters more than general conversational ability. ITAS also exemplifies [[agentic-ai|agentic AI]] in education — a multi-agent architecture where specialized [[llm|LLM]] agents cooperate on teaching and lesson planning.
 
 ## Implications for AI in Education
 
-- **Niche STEM domains:** Knowledge-graph augmentation enables ITS deployment in specialized fields with scarce human expertise
-- **Visualization integration:** Quantum tutoring shows the importance of domain-aligned visual scaffolds (cf. [[multimodal-ai-tutoring]] which also emphasizes multimodal errors in STEM)
-- **Scalability:** Addresses equity gaps between well-resourced and under-resourced institutions
+- **Niche STEM domains:** Knowledge-graph augmentation enables ITS deployment in specialized fields with scarce human expertise, directly relevant to [[stem-education]].
+- **Visualization integration:** Quantum tutoring shows the importance of domain-aligned visual scaffolds (cf. [[multimodal-ai-tutoring]] which also emphasizes multimodal errors in STEM).
+- **Scalability and equity:** Production cloud infrastructure and analytics address equity gaps between well-resourced and under-resourced institutions.
+- **Agent specialization:** The move from two general agents to a Spoke-and-Wheel architecture with quantum-specialized agents provides a design lesson for scaling agentic tutors from prototype to production.
 
 ## Connected Concepts
 
+- [[knowledge-graph]]
+- [[intelligent-tutoring]]
+- [[knowledge-tracing]]
+- [[student-modeling]]
 - [[adaptive-learning]]
+- [[cognitive-diagnosis]]
+- [[agentic-ai]]
+- [[llm]]
+- [[scaffolding]]
+- [[stem-education]]
+- [[learning-analytics]]
+- [[higher-ed]]
+
 ## Connected Articles
 
-- [[tutoring-specific-vs-general-ai]]
-- [[multimodal-ai-tutoring]]
+- [[tutoring-specific-vs-general-ai]] — Tutoring-specific design vs. general-purpose AI
+- [[multimodal-ai-tutoring]] — Multimodal AI tutoring and multimodal errors
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
+- [[knowledge-gap-detection-ai-tas]] — Knowledge gap detection in AI teaching assistants
+- [[visual-query-tracer-declarative-logic-learning]] — Visual query tracer for declarative logic learning
+
 ## Citation
 
-Chrisochoides, A.I.E.N. (2026). [*Quantum Education Intelligent Tutoring*](https://arxiv.org/abs/2604.24807)
+Elhaimeur, I., & Chrisochoides, N. (2026). [*From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education*](https://arxiv.org/abs/2604.24807). arXiv:2604.24807.
 
 ---
 
@@ -28739,6 +28765,7 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 ## Connected Concepts
 
 - [[knowledge-tracing]]
+- [[knowledge-graph]]
 - [[student-modeling]]
 - [[educational-measurement]]
 - [[item-response-theory]]
@@ -30705,20 +30732,28 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 
 Knowledge graphs provide the structural backbone for many intelligent education systems. Unlike flat lists of skills or concepts, knowledge graphs capture prerequisite relationships, similarity, and hierarchical organization — essential for [[adaptive-learning]], [[knowledge-tracing]], and [[student-modeling]].
 
-### How knowledge graphs are used in AIED
+## How knowledge graphs are used in AIED
 
-- **[[knowledge-tracing]]** models use concept graphs to propagate student proficiency estimates across related skills, improving prediction accuracy when data is sparse
-- **[[student-modeling]]** systems leverage knowledge graphs to represent what learners know in a semantically meaningful way, enabling fine-grained diagnosis
-- **[[adaptive-learning]]** platforms use prerequisite graphs to sequence content and recommend personalized learning paths
-- **[[cognitive-diagnosis]]** frameworks like [[xie-hillm-cd-2026|HiLLM-CD]] construct concept trees from educational text using LLMs, eliminating manual annotation
+Knowledge graphs are a recurring structural mechanism across the wiki's AIED research, serving several distinct roles:
 
-### LLM-driven knowledge graph construction
+- **[[knowledge-tracing]] models** use concept graphs to propagate student proficiency estimates across related skills, improving prediction accuracy when data is sparse.
+- **[[student-modeling]] systems** leverage knowledge graphs to represent what learners know in a semantically meaningful way, enabling fine-grained diagnosis.
+- **[[adaptive-learning]] platforms** use prerequisite graphs to sequence content and recommend personalized learning paths.
+- **[[cognitive-diagnosis]] frameworks** like [[xie-hillm-cd-2026|HiLLM-CD]] construct concept trees from educational text using LLMs, eliminating manual annotation.
+- **Knowledge-graph-augmented tutoring:** [[quantum-education-its|ITAS]] uses a knowledge graph of quantum concepts (with explicit prerequisite relationships) to drive a multi-agent tutoring system, traversing the graph to select next topics for counterintuitive material.
+- **Curriculum and course modeling:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compares CS course structures across institutions using graph representations; [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] model lifelong learning pathways.
+- **Prerequisite-relation learning:** [[proprl-prerequisite-relation-learning|ProPrL]] learns prerequisite relations among concepts, formalizing the edges that knowledge graphs encode.
+- **Knowledge-gap detection:** [[knowledge-gap-detection-ai-tas|Knowledge gap detection]] uses graph-based reasoning in AI teaching assistants to identify where learners are missing foundational concepts.
+- **Multimodal and explainable reasoning:** [[multimodal-knowledge-graph-educational-reasoning|multimodal knowledge graphs]] extend graph structure across content modalities; [[fair-explainable-edu-recommendations|fair and explainable recommendations]] combine knowledge-graph embeddings with sequential modeling (a hybrid HKG-GRU framework).
+- **Scaffolding and writing:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] and [[visual-query-tracer-declarative-logic-learning|visual query tracing]] apply graph-based structure to narrative drafting and declarative-logic learning.
 
-Recent research explores using [[llm|LLMs]] to automatically construct knowledge graphs from educational content. The [[xie-hillm-cd-2026|HiLLM-CD]] framework uses multi-agent LLM pipelines to generate exercise-concept links and hierarchical concept trees, reducing reliance on expert annotation. This connects to broader [[generative-ai]] applications in curriculum design and automated content organization.
+## LLM-driven knowledge graph construction
 
-### Related concepts
+Recent research explores using [[llm|LLMs]] to automatically construct knowledge graphs from educational content. The [[xie-hillm-cd-2026|HiLLM-CD]] framework uses multi-agent LLM pipelines to generate exercise-concept links and hierarchical concept trees, reducing reliance on expert annotation. This connects to broader [[generative-ai]] applications in curriculum design and automated content organization, and to [[rag]] (retrieval-augmented generation), where graph-structured knowledge can improve retrieval quality over flat similarity search.
 
-Knowledge graphs connect to [[instructional-design]] (defining what to teach), [[curriculum-design]] (how to sequence it), and [[learning-analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring]] systems that need structured representations of educational domains.
+## Relationship to other concepts
+
+Knowledge graphs connect to [[instructional-design]] (defining what to teach), [[curriculum-design]] (how to sequence it), and [[learning-analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring]] systems that need structured representations of educational domains. As AI agents become more common in education, knowledge graphs provide the domain structure that [[agentic-ai|agentic systems]] reason over — a pattern seen in [[quantum-education-its|ITAS]] and knowledge-gap-detection teaching assistants.
 
 ## Connected Concepts
 
@@ -30728,13 +30763,27 @@ Knowledge graphs connect to [[instructional-design]] (defining what to teach), [
 - [[cognitive-diagnosis]]
 - [[student-modeling]]
 - [[learning-analytics]]
-- [[knowledge-graph]]
 - [[curriculum-design]]
+- [[instructional-design]]
+- [[generative-ai]]
+- [[llm]]
+- [[rag]]
+- [[agentic-ai]]
 
 ## Connected Articles
 
-- [[learnity-graphs-lifelong-learning-framework-2026]]
-- [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
+- [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: narrative-drafting scaffolds
+- [[quantum-education-its]] — Quantum education intelligent tutoring (ITAS)
+- [[multimodal-knowledge-graph-educational-reasoning]] — Multimodal knowledge graphs for educational reasoning
+- [[coursegraph-cs-course-comparison-2026]] — CourseGraph: CS course comparison
+- [[proprl-prerequisite-relation-learning]] — ProPrL: prerequisite-relation learning
+- [[knowledge-gap-detection-ai-tas]] — Knowledge-gap detection in AI teaching assistants
+- [[visual-query-tracer-declarative-logic-learning]] — Visual query tracer for declarative logic learning
+- [[learnopt-exam-cognitive-structure]] — LearnOpt: exam cognitive structure
+- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
+- [[concept-catalyst-engineering-scaffolds]] — Concept Catalyst engineering scaffolds
+- [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
 
 ---
 
@@ -30759,6 +30808,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 ## Connected Concepts
 
 - [[student-modeling]]
+- [[knowledge-graph]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[intelligent-tutoring]]
@@ -33109,6 +33159,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 
 - [[learning-analytics]]
 - [[knowledge-tracing]]
+- [[knowledge-graph]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
 - [[personalized-learning]]

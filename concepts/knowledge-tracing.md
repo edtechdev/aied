@@ -26,6 +26,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 ## Connected Concepts
 
 - [[student-modeling]]
+- [[knowledge-graph]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[intelligent-tutoring]]
