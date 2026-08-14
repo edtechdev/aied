@@ -68,3 +68,4 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[tzirides-thinking-through-ai-2025]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
