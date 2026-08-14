@@ -37,7 +37,6 @@ LLM tools give students rapid solutions but may reduce opportunities for product
 ## Connected Concepts
 
 - [[learning-by-teaching]]
-- [[teachable-agents]]
 - [[generative-ai]]
 - [[cs-education]]
 - [[programming-education]]
