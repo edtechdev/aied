@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [ai-education, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback-loop, higher-ed, k-12, stem-education]
 confidence: high
@@ -35,6 +35,20 @@ Key research in the wiki includes:
 ### Historical context
 
 The ITS field has produced landmark systems (Cognitive Tutors, Andes, AutoTutor) and continues to evolve. The [[zerkouk-comprehensive-review-its-2025|Zerkouk et al. comprehensive ITS review]] catalogs this evolution. The tension between structured ITS and open-ended LLM tutoring is explored in [[correct-answer-trap-ai-tutor|the correct answer trap]] research and [[rethinking-scaffolding-llm-tutors|rethinking scaffolding for LLM tutors]].
+
+### Practical design and development guidance
+
+For instructors, designers, and developers building or adopting tutoring systems, the wiki's findings translate into concrete practice:
+
+**Design for learning, not just performance.** The strongest causal finding is that unguarded AI tutors raise assisted practice performance but *reduce* unassisted learning — the [[ai-misuse-learning-harm|performance–learning gap]]. Guardrail against answer-copying by scaffolding **hints instead of answers** (require a student attempt before revealing output, seed prompts with correct solutions and common misconceptions), and verify gains on unassisted, closed-book measures rather than in-tool performance.^[[generative-ai-guardrails-harm-learning]]^[[genai-performance-vs-learning]]
+
+**Make hints genuinely productive, not bypassable.** Classic hint designs can enable "button-through" strategies that skip learning. Prefer hints that reveal reasoning steps incrementally (Socratic prompting — see [[codify-socratic-tutoring-programming|Codify]]) over hints that directly supply the next answer, and preserve productive struggle rather than over-helping.^[[lak2026-hint-button-unproductive-use]]^[[rethinking-scaffolding-llm-tutors]]
+
+**Keep the human in the loop.** Let teachers author or curate the problem sets and misconception prompts the tutor draws on, and surface the tutor's reasoning so its decisions are auditable. Interpretable knowledge tracing and explicit, external didactic layers make LLM tutor behavior traceable and reproducible — addressing the opacity that undermines trust.^[[huang-interpretable-knowledge-tracing-2026]]^[[didactical-teacher-assistant-dimensional-modeling]]
+
+**Model the learner, not just the dialogue.** Attach structured [[student-modeling]] and [[knowledge-tracing]] components to LLM dialogue so the system can adapt difficulty and diagnose misconceptions from evidence rather than responding fluently but blindly — quality depends on both the base model and how it is adapted.^[[educlaw-bench-pedagogical-llm-agents-2026]]
+
+**Start from open tooling where possible.** Open-source agentic tutoring frameworks (e.g. [[deeptutor|DeepTutor]]) lower the barrier to a citation-grounded, difficulty-calibrated tutor you can inspect and extend, rather than reinventing a proprietary system from scratch.^[[deeptutor]]
 
 ## Connected Concepts
 
