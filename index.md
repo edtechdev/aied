@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-05 | **Total pages:** 604 594
+**Last updated:** 2026-08-15 | **Total pages:** 748
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -425,6 +425,7 @@
 - [[lets-chat-chatbot-outreach-2026]] — 'Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance'
 - [[liang-genai-systematic-review-human-ai-2026]] — A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective
 - [[lifelong-learning]] — Lifelong Learning and AI
+- [[limitations-in-aied-research]] — Limitations in AIEd Research
 - [[llm]] — Llm
 - [[llm-application-education]] — Llm Application Education
 - [[llm-automated-assessment-student-self-explanations]] — Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education

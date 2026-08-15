@@ -25,7 +25,7 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 
 ### Why evaluation is hard in AI-ed
 
-AI-ed evaluation is difficult for several reasons. First, **reliability is not enough** — a system can agree with a rubric yet misjudge pedagogy, as [[machines-misread-pedagogical-quality|human–machine alignment research]] shows. Second, **ground truth is contested** — what counts as a "correct" answer, grade, or teaching move is itself a judgment that varies across disciplines and experts, per [[ground-truth-reliability-aied|ground-truth modernization]]. Third, **educational validity is multidimensional** — [[assessment-validity]], [[formative-assessment]], and [[authentic-assessment]] each impose different criteria that a single accuracy metric cannot capture. Finally, **the target keeps moving** — agentic AI and multimodal models demand evaluation frameworks ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|tool-invariant assessment]]) rather than reuse of text-model benchmarks.
+AI-ed evaluation is difficult for several reasons. First, **reliability is not enough** — a system can agree with a rubric yet misjudge pedagogy, as [[machines-misread-pedagogical-quality|human–machine alignment research]] shows. Second, **ground truth is contested** — what counts as a "correct" answer, grade, or teaching move is itself a judgment that varies across disciplines and experts, per [[ground-truth-reliability-aied|ground-truth modernization]]. Third, **educational validity is multidimensional** — [[assessment-validity]], [[formative-assessment]], and [[authentic-assessment]] each impose different criteria that a single accuracy metric cannot capture. Finally, **the target keeps moving** — agentic AI and multimodal models demand evaluation frameworks ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|tool-invariant assessment]]) rather than reuse of text-model benchmarks. Evaluation findings are also subject to the same cross-cutting limitations that affect all AIED research — they age as AI improves, depend on reproducibility and FAIR practices, and may rest on proprietary systems — so evaluation results should be read with the caveats in [[limitations-in-aied-research]].
 
 ### Connections to related concepts
 
@@ -48,6 +48,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[teacher-role]]
 - [[assessment]]
 - [[llm]]
+- [[limitations-in-aied-research]]
 
 ## Connected Articles
 
