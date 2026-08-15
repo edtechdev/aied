@@ -45,6 +45,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[tpack]]
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[metacognitively-discordant-completion-genai-2026]]
 - [[competency-based-education-genai-production-2026]]
 - [[ai-interior-design-malaysia-2026]]

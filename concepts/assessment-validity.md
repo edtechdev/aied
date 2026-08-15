@@ -47,3 +47,5 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[beyond-detection-authentic-assessment-ai-2025]]
 - [[confidence-aware-student-drawing-assessment]]
 - [[cong-confidence-asag-2026]]
+
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)

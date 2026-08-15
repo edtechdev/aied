@@ -43,6 +43,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[ai-scoring-language-bias-physics]]
 - [[choi-anchor-aes-prompting-2025]]
 - [[icle-plus-plus-essay-scoring]]
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[psyscore-essay-scoring-zpd-feedback]]
 - [[self-referential-l2-writing-llm-assessment]]
 - [[aiawe-automated-writing-evaluation]]
