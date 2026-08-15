@@ -1,7 +1,7 @@
 ---
 title: Professional Training and AI
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation-based-learning, higher-ed, generative-ai, llm]
 confidence: high
@@ -38,6 +38,7 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[ai-interior-design-malaysia-2026]]
 
 - [[crewscaler-ai-upskilling-framework]]

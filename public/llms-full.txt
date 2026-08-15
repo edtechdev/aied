@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 619 articles and 134 concepts.
+> Complete text of 620 articles and 134 concepts.
 
 # Articles
 
@@ -6663,6 +6663,60 @@ The study positions generative AI as a **scalable ideation tool for pedagogical 
 ## Citation
 
 Tutal, Ö. (2026). [*Artificial intelligence assisted design of a novel cooperative learning technique for higher education*](https://doi.org/10.1038/s41598-026-50770-1).
+
+---
+
+## [Benchmarking the Pedagogical Knowledge of Large Language Models](https://edtechdev.github.io/aied/articles/cdpk-pedagogy-benchmark-llms/)
+
+# Benchmarking the Pedagogical Knowledge of Large Language Models
+
+## Summary
+
+Lelièvre et al. (2025) introduce **The Pedagogy Benchmark**, two multiple-choice benchmarks that evaluate large language models on their understanding of *teaching* rather than content knowledge: **Cross-Domain Pedagogical Knowledge (CDPK)** and **Special Educational Needs & Disability (SEND)** pedagogy. Both are built on a curated set of questions from professional teacher-development exams by the Chilean Ministry of Education's Education Quality Agency and CP EIP, translated from Spanish. Across **97 models**, CDPK accuracy ranged from 28% (Llama-3.2 1B) to 89% (Gemini 2.5 Pro). The authors analyze accuracy vs. inference cost (the Pareto "value frontier") and vs. model size, charting rapid progress over 18 months, and provide online leaderboards for interactive exploration.
+
+## Key Findings
+
+- **The Pedagogy Benchmark** (CDPK + SEND) tests pedagogical knowledge — teaching strategies, assessment methods, and specialist SEND pedagogy — using genuine Chilean teacher-exam questions, curated for cross-cultural validity.
+- **Wide spread across 97 models:** CDPK 28%–89%; SEND 29%–86%. Closed-source reasoning models dominate the top 10; open-weight DeepSeek R1 reached 86.65%.
+- **Reasoning helps:** most top performers are inference-time chain-of-thought/thinking models, indicating reasoning improves performance even on knowledge-style benchmarks.
+- **Cost–accuracy value frontier:** at $0.10/M input tokens, CDPK accuracy rose from ~50% (Apr 2024) → 70% (Nov 2024) → 82% (Jun 2025). Open Qwen-3 8B at 3.5¢ now nearly matches the best April-2024 closed model (76%) at >400x lower cost.
+- **Estimated human baseline ≈ 50%** (from 25,000+ Chilean teachers, 2017–2021) — many LLMs now exceed this estimate on CDPK.
+- **Efficiency frontier by size:** performance drops sharply below ~8B parameters; smaller models excel mainly in the least-challenging (Technology/General) categories, while top models are more versatile across subjects.
+- **Knowledge ≠ practice:** the benchmarks measure pedagogical *knowledge* only; they cannot capture classroom management, teacher–student relationships, or motivating learners.
+
+## Implications
+
+- Offers education-focused benchmarks to guide **model selection** for LLM-based tools (lesson-planning, assessment support, professional-learning platforms), balancing pedagogical performance against cost and deployment constraints.
+- **On-device/efficient models matter for LMIC contexts** (e.g., Liquid AI LFM-7B at 61% for 1¢/Mtoken; Gemma-3n E4B at 64%) where connectivity and hardware are limited.
+- As models approach/exceed human performance on knowledge benchmarks, **responsible deployment** (ethical guardrails, human-in-the-loop systems) is needed to avoid over-reliance and illusion of expertise among teachers.
+- The online leaderboard supports interactive, value-aware model comparison: https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks
+
+## Connected Concepts
+
+- [[benchmark]]
+- [[ai-ed-evaluation]]
+- [[educational-measurement]]
+- [[assessment-validity]]
+- [[teacher-role]]
+- [[teacher-ai-competency]]
+- [[professional-training]]
+- [[k-12]]
+- [[special-education]]
+- [[llm]]
+- [[ai-literacy]]
+- [[educational-policy-ai]]
+
+## Connected Articles
+
+- [[teachbench-llm-teaching-evaluation]] — TeachBench: evaluating LLM teaching ability
+- [[teaching-monster-pck-benchmark-2026]] — Teaching Monster Challenge: benchmark of pedagogical content knowledge
+- [[eduagentbench-agent-teaching-benchmark]] — EduAgentBench: agent teaching benchmark
+- [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
+- [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index
+
+## Citation
+
+Lelièvre, M., Waldock, A., Liu, M., Valdés Aspillaga, N., Mackintosh, A., Ogando Portelo, M. J., Lee, J., Atherton, P., Ince, R. A. A., & Garrod, O. G. B. (2025). [*Benchmarking the pedagogical knowledge of large language models*](https://arxiv.org/abs/2506.18710v1). arXiv:2506.18710. Leaderboard: [The Pedagogy Benchmark](https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks?benchmark=CDPK).
 
 ---
 
@@ -20275,6 +20329,7 @@ Julius Gabelmann, Felix Jahn, Kevin Baum, Sophie van Rossum, Emely Wuenscher, Ti
 > **A new paradigm for online education replacing MOOCs with LLM-driven multi-agent AI classrooms**, piloted at Tsinghua University with 100K+ learning records from 500+ students. MAIC uses specialized agents (Teacher, Assistant, Classmate, Analyzer) to deliver personalized, adaptive learning at scale.
 **ArXiv:** 2409.03512
 **Submitted:** September 2024
+**Source code (OpenMAIC):** https://github.com/THU-MAIC/OpenMAIC
 
 ### Overview
 
@@ -20304,7 +20359,7 @@ MAIC deploys a suite of specialized AI agents:
 
 ### Significance
 
-MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agentic-ai]] in education. It demonstrates how LLM-driven multi-agent systems can transform the MOOC paradigm from one-size-fits-all broadcasting to truly adaptive, personalized [[intelligent-tutoring]] at scale. The platform vision extends toward an open collaborative hub for AI-driven education research.
+MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agentic-ai]] in education. It demonstrates how LLM-driven multi-agent systems can transform the MOOC paradigm from one-size-fits-all broadcasting to truly adaptive, personalized [[intelligent-tutoring]] at scale. The platform is released as open source under the name **OpenMAIC** ([github.com/THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)), supporting the vision of an open collaborative hub for AI-driven education research.
 
 ## Connected Concepts
 - [[llm]]
@@ -20327,7 +20382,7 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 
 ## Citation
 
-Yu, J., Zhang, Z., Zhang-li, D., Tu, S., Hao, Z., Li, R., ... Liu, Z., Liu, H., & Sun, M. (2024). [*From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512). arXiv:2409.03512.
+Yu, J., Zhang, Z., Zhang-li, D., Tu, S., Hao, Z., Li, R., ... Liu, Z., Liu, H., & Sun, M. (2024). [*From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512). arXiv:2409.03512. Source code: [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC).
 
 ---
 
@@ -29834,6 +29889,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation validation: reliability vs accuracy (Melo et al. 2026)
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional evaluation
 
@@ -30707,6 +30763,7 @@ Benchmarks serve as the evidentiary foundation of AI in education research. They
 - **[[cstutorbench-slm-tutors|CSTutorBench]]** evaluates small language models for CS tutoring tasks.
 - **[[anvil-ai-educational-animations|ANVIL]]** benchmarks AI-generated educational animations against human-created alternatives.
 - **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of feedback quality classification.
+- **[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark (CDPK + SEND)]]** tests pedagogical knowledge — teaching strategies, assessment methods, and special-education pedagogy — rather than content knowledge, and reports a cost-vs-accuracy "value frontier" across 97 models (most general benchmarks test content knowledge; pedagogy is a distinct, education-critical dimension).
 
 ### Why benchmarks matter in AIED
 
@@ -30723,6 +30780,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
+- [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional benchmark
 
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
@@ -31747,6 +31805,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation reliability and accuracy (Melo et al. 2026)
 
 - [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
@@ -34799,6 +34858,7 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[ai-interior-design-malaysia-2026]]
 
 - [[crewscaler-ai-upskilling-framework]]
@@ -36240,6 +36300,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 
 - [[tpack]]
 ## Connected Articles
+- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
 
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
@@ -36298,6 +36359,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[professional-training]]
 
 ## Connected Articles
+- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[ai-acceptance-preservice-science-teachers-2026]]
 - [[ai-interior-design-malaysia-2026]]
 - [[critical-media-literacy-education-2026]]
