@@ -44,6 +44,7 @@ Feedback loops connect to [[formative-assessment]] (the assessment philosophy th
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: curriculum-grounded feedback with educator oversight (Zhao et al. 2025)
 - [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback (PolyFeed)
 - [[ai-guided-learning-audiovideo-2026]]
 

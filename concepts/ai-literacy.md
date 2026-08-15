@@ -75,6 +75,11 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[k-12-ai-education]]
 - [[tpack]]
 ## Connected Articles
+- [[rudolph-ai-myths-critical-higher-ed]] — A critical take on AI hype and myths in higher education (Rudolph et al. 2025)
+- [[beck-genai-literacy-economics-hands-on]] — A hands-on approach to GenAI literacy in economics (Beck & Brodersen 2025)
+- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Using GenAI to build psychological, feedback, and AI literacies (Richmond & Nicholls 2025)
+- [[zha-ai-literacy-biology-case-study]] — Integrating AI literacy education in a biology class (Zha et al. 2025)
+- [[jin-glat-genai-literacy-assessment]] — GLAT: a validated generative AI literacy assessment test (Jin et al. 2025)
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy

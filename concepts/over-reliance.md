@@ -51,6 +51,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[prompt-engineering]]
 
 ## Connected Articles
+- [[jost-llm-programming-education-learning-outcomes]] — LLM reliance correlates negatively with grades in coding (Jošt et al. 2024)
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: unguarded AI and the illusion of learning (Brcic & Frljic 2026)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
