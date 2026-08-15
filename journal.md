@@ -2,11 +2,15 @@
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
 > Browse recent additions by date. ● = high confidence, ◐ = medium, ○ = low.
-> Last updated: 2026-08-15 | Total entries: 500
+> Last updated: 2026-08-15 | Total entries: 501
 
 ---
 
 ## 2026-08-15
+- ● [[long-ai-higher-ed-engagement-teaching-methods-2026]] — `10.3389/feduc.2025.1648661`
+  Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods
+  _student-engagement, higher-ed, ai-education, active-learning, project-based-learning +6_
+
 - ● [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — `10.3389/fpsyg.2026.1843444`
   Towards sustainable AI knowledge-base assistants in computer science education
   _cs-education, open-source, llm, rag, benchmark +5_

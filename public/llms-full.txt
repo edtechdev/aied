@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 617 articles and 134 concepts.
+> Complete text of 618 articles and 134 concepts.
 
 # Articles
 
@@ -18553,6 +18553,56 @@ Lodge, J. M., & Loble, L. (2026). [Artificial intelligence, cognitive offloading
 
 ---
 
+## [Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods](https://edtechdev.github.io/aied/articles/long-ai-higher-ed-engagement-teaching-methods-2026/)
+
+> **Synthesis:** Long, Wang, Md Rashid, and Lu (2026) systematically review 73 peer-reviewed studies (2015–early 2025, Scopus and Web of Science) on AI in higher education and its impact on student engagement, with a focus on the **mediating role of teaching methods**. They find that AI tools — chatbots, adaptive systems, predictive analytics — enhance engagement most effectively when embedded within **interactive pedagogies** (flipped classrooms, project-based learning, scaffolded feedback loops). They introduce the **PMAISE model** (Pedagogical Mediation of AI for Student Engagement), mapping the alignment between AI technologies, pedagogical strategies, and the affective, behavioral, and cognitive dimensions of engagement, and examine ethics, data privacy, and structural barriers to equitable adoption.
+
+## Key Findings
+
+1. **73 studies (2015–early 2025), PRISMA-guided.** A systematic review from Scopus and Web of Science, coded by AI type, engagement outcomes, and instructional strategies.
+
+2. **Pedagogy mediates AI's effect on engagement.** AI enhances engagement most effectively within interactive pedagogies — flipped classrooms, project-based learning, and scaffolded feedback loops — rather than through tool deployment alone.
+
+3. **PMAISE model introduced.** The review proposes a conceptual framework (Pedagogical Mediation of AI for Student Engagement) aligning AI technologies, pedagogical strategies, and the affective, behavioral, and cognitive dimensions of engagement.
+
+4. **Teaching methods amplify or inhibit AI effects.** Concrete examples demonstrate that the same AI tool can boost or fail to boost engagement depending on the surrounding instructional design.
+
+5. **Equity and ethics concerns.** Structural barriers to equitable AI adoption (e.g., socioeconomically disadvantaged students more vulnerable to unstable internet or limited device access), alongside data privacy and ethical concerns, are examined.
+
+## Implications
+
+This review connects [[student-engagement]] and [[engagement-metrics]] to the central AIED finding that **instructional design mediates tool effectiveness** — an AI tool is only as engaging as the pedagogy it is embedded in. It supports the [[instructional-design]] and [[active-learning]] emphasis of the wiki and extends [[feedback-loop]] and [[scaffolding]] research to engagement outcomes. The PMAISE model's three engagement dimensions (affective, behavioral, cognitive) align with [[engagement-metrics]], while its attention to equity and infrastructure barriers connects to [[digital-divide]] and [[equity-in-ai-education]]. As a systematic review, it also exemplifies [[meta-analysis-systematic-review|synthesis methods]] in AIED research.
+
+## Connected Concepts
+
+- [[student-engagement]]
+- [[engagement-metrics]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[active-learning]]
+- [[project-based-learning]]
+- [[scaffolding]]
+- [[feedback-loop]]
+- [[instructional-design]]
+- [[digital-divide]]
+- [[equity-in-ai-education]]
+- [[meta-analysis-systematic-review]]
+
+## Connected Articles
+
+- [[genai-motivation-engagement-2026]] — GenAI motivation and engagement
+- [[icap-cognitive-engagement-llm-agents]] — ICAP cognitive engagement with LLM agents
+- [[effects-of-ai-chatbot-supported-cooperative-flipped-classroom-on-student-collabo]] — AI chatbot cooperative flipped classroom
+- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding critical engagement with GenAI
+- [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Student engagement with GenAI and self-determination
+- [[genai-tutor-engagement-patterns]] — GenAI tutor engagement patterns
+
+## Citation
+
+Long, D. Y., Wang, S., Md Rashid, S., & Lu, X. T. (2026). [*Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods*](https://doi.org/10.3389/feduc.2025.1648661). *Frontiers in Education*, 10, 1648661. https://doi.org/10.3389/feduc.2025.1648661
+
+---
+
 ## [LUDIA: A Design and Evidence Statement](https://edtechdev.github.io/aied/articles/ludia-udl-ai-thought-partner-2026/)
 
 > **Synthesis:** LUDIA is a no-cost, private, multilingual AI thought partner that connects educators with the Universal Design for Learning (UDL) framework. This statement describes the August 2026 relaunch rebuilt for privacy (no accounts, no cookies, no data collection), accessibility (WCAG 2.2 Level AA), and scale (13 languages, public-good architecture). The tool is positioned as a thought partner rather than content generator, and is evaluated against four 2026 guides from UNICEF, the European Commission, the EdTech Quality Collaborative, and the European EdTech Alliance.
@@ -30432,6 +30482,7 @@ Engagement metrics connect to [[learning-analytics]] and [[educational-measureme
 - [[higher-ed]]
 
 ## Connected Articles
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
 
 - [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
 - [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion
@@ -31482,6 +31533,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[accessible-learning]]
 - [[universal-design-for-learning]]
 ## Connected Articles
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
 
 - [[curriculum-as-code-instructional-design-2026]]
 - [[instructional-agents-multi-agent-course-gen]]
@@ -34348,6 +34400,10 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 A central theme in the wiki's research is that engagement and learning must be distinguished. AI tools that generate high engagement (time on task, interaction volume) may not produce learning if that engagement is passive or substitutes for the cognitive work of understanding — see [[genai-performance-vs-learning|performance vs. learning]]. Conversely, productive struggle and desirable difficulty can produce learning even when surface engagement feels lower. Engagement is therefore best treated as a *mechanism* — valuable insofar as it reflects or enables meaningful cognitive processing — rather than a terminal outcome.
 
+### Pedagogy mediates AI's effect on engagement
+
+A systematic synthesis of AI in higher education ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) emphasizes that the **teaching method an AI tool is embedded in is the decisive mediator** of whether it engages students. Chatbots, adaptive systems, and predictive analytics enhance engagement most when deployed within interactive pedagogies — flipped classrooms, project-based learning, and scaffolded feedback loops — rather than as standalone tools. The review formalizes this as the **PMAISE model** (Pedagogical Mediation of AI for Student Engagement), mapping the alignment between AI technologies, pedagogical strategies, and the affective, behavioral, and cognitive dimensions of engagement. The implication is that engagement outcomes are co-produced by the tool *and* the surrounding instructional design: the same AI can amplify engagement in one pedagogy and inhibit it in another.
+
 ### Connections to related concepts
 
 Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[engagement-metrics]] and [[learning-analytics]]. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[over-reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
@@ -34366,6 +34422,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[higher-ed]]
 
 ## Connected Articles
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: systematic review of engagement + mediating role of teaching methods
 
 - [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
 - [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion
