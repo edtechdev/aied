@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-15 | **Total pages:** 767
+**Last updated:** 2026-08-15 | **Total pages:** 768
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -83,6 +83,7 @@
 - [[benzion-ai-physics-simulations-virtual-lab]] — Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning
 - [[chudziak-ai-math-tutoring-platform]] — AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education
+- [[coach-not-crutch-ai-writing]] — Coach not crutch: Evidence that AI can improve writing skill despite reducing effort
 - [[drawedumath-vlm-struggling-students-2026]] — The Aftermath of DrawEduMath: VLMs Underperform with Struggling Students and Misdiagnose Errors
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
 - [[jin-glat-genai-literacy-assessment]] — GLAT: The Generative AI Literacy Assessment Test

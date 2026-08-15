@@ -29,14 +29,14 @@ The article's organizing framework separates two facets of our cognitive systems
 
 Whether skills survive offloading depends on the **form** the offloading takes [13]:
 - *Completely* offloading the task ("student has the AI submit the answer") → harm.
-- Having the AI provide an explanation, a suggestion, or act as a **collaborator giving feedback** [14], or emulating a thoughtful tutor [15] → can preserve or even boost skill despite reduced effort ("Coach not crutch" [15]).
+- Having the AI provide an explanation, a suggestion, or act as a **collaborator giving feedback** [14], or emulating a thoughtful tutor [15] → can preserve or even boost skill despite reduced effort ("[[coach-not-crutch-ai-writing|Coach not crutch]]" [15]).
 - Staying "in the proverbial cognitive loop" mitigates costs; costs are likely **limited to the specific skills offloaded**, not basic abilities.
 
 ## Concluding remarks & open questions (Box 2)
 
 "It is far too early to say with certainty" the long-term effects. Open questions: prolonged offloading over years/decades; developmental-stage effects (children?); decay as a function of initial skill level and skill type; refresher-training strategies; **designing AI to discourage harmful offloading** (policy levers); whether people can learn to *strategically* offload; impacts on **metacognition** and source-monitoring (misattributing AI output as one's own); effects on dispositions toward thinking.
 
-Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [[generative-ai-guardrails-harm-learning]]) and the "Coach not crutch" preprint (Lira et al. 2025) — making the offloading/crutch mechanism a shared thread across the wiki.
+Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [[generative-ai-guardrails-harm-learning]]) and the "[[coach-not-crutch-ai-writing|Coach not crutch]]" preprint (Lira et al. 2025) — making the offloading/crutch mechanism a shared thread across the wiki.
 
 ## Why this matters for the wiki
 
