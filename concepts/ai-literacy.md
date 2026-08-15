@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -25,7 +25,9 @@ AI literacy research in this wiki spans four interconnected dimensions:
 
 ### How AI literacy is developed
 
-Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. The ICAP framework (Passive → Active → Constructive → Interactive) provides a useful progression: students learn AI literacy best when they co-construct knowledge rather than passively receive information. Practical activities — designing prompts, evaluating outputs in groups, debating AI ethics — outperform lectures.
+Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. The [[icap-framework|ICAP framework]] (Passive → Active → Constructive → Interactive) provides a useful progression: students learn AI literacy best when they co-construct knowledge rather than passively receive information, and effective AI literacy instruction intentionally sequences learners through passive exposure, active manipulation, constructive generation, and interactive dialogue. Practical activities — designing prompts, evaluating outputs in groups, debating AI ethics — outperform lectures.
+
+A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students to use AI ethically and productively rather than substituting it for their own cognitive work. Where AI literacy builds the *capacity* to evaluate and use AI critically, reducing misuse is the behavioral and structural payoff — combining guardrailed tool design, assessment redesign, and educative levers such as scaffolded think-first/AI-second sequences and prompting practice with deliberate feedback. The two concepts are mutually reinforcing: AI literacy supplies the critical dispositions that make misuse-reduction interventions durable, while misuse-reduction evidence (e.g. the [[ai-misuse-learning-harm|performance–learning gap]]) motivates why literacy must go beyond operational skill to critical judgment.
 
 ### Connections across the wiki
 
@@ -45,6 +47,8 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[metacognition]]
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
+- [[icap-framework]]
+- [[reducing-ai-misuse]]
 - [[tpack]]
 ## Connected Articles
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
