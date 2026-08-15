@@ -49,6 +49,12 @@ The implication is not that theories and frameworks are useless, but that they s
 
 Taken together, these limitations argue for a critical, multi-signal reading of AIED research: check whether a finding generalizes and is adequately powered; verify how constructs were measured (and whether claims rest on self-report); prefer recent, version-explicit, reproducible work; and interrogate the theoretical framing rather than treating familiar frameworks as given. This is the complement of rigorous [[research-methods-aied|method choice]] and [[ai-ed-evaluation|evaluation]]: good methods and good evaluation are necessary, but reading with attention to limitations is what turns evidence into defensible decisions.
 
+## From research to practice
+
+A further, practical limitation is the **challenge of applying research to teaching and instructional design**. Practitioners — instructors, instructional designers, and faculty developers — often lack the time or specialized expertise to read, appraise, and translate primary research into concrete classroom decisions. The literature is large, fragmented, and written for researchers; findings are reported with statistical and methodological detail that is not immediately actionable; and because claims are provisional (see the [[limitations-in-aied-research|speed problem]] above), a practitioner cannot simply take a single study at face value. This creates a gap between what the evidence supports and what actually reaches teaching practice.
+
+The purpose of this wiki is to help close that gap — to make it easier to keep up with, interpret, and apply AI-in-education research to practice — by curating open-access findings into structured, accessible summaries, connecting related work through [[ai-education|concept pages]], and flagging the limitations readers should weigh. It aims to support evidence-informed practice in teaching and instructional design, and in doing so to also surface gaps and questions that can inform new research and development. Understanding the limits of the research is therefore not an end in itself: it is what lets practitioners apply findings appropriately and lets researchers design stronger studies that better serve practice.
+
 ## Connected Concepts
 
 - [[research-methods-aied]]
