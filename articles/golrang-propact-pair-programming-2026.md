@@ -1,7 +1,7 @@
 ---
 title: "ProPACT: Pair Programming with AI"
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [pair-programming, collaborative-learning, cs-education, adaptive-learning-systems, rag, adaptive-learning, ai-tutoring]
 sources: ['raw/papers/golrang-propact-pair-programming-2026.md']
@@ -33,10 +33,11 @@ The gaze-awareness tool (A3) is a particularly novel intervention: rather than p
 ## Connected Concepts
 
 - [[adaptive-learning]]
-
 - [[ai-tutoring]]
-- [[rag]]
-- [[transfer-of-learning]] — AI Learning Transfer
+- [[collaborative-learning]]
+- [[intelligent-tutoring]]
+- [[student-modeling]]
+- [[multimodal]]
 ## Connected Articles
 
 - [[collaborative-ai-tutoring]] — Collaborative AI Tutoring

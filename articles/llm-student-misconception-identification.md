@@ -1,7 +1,7 @@
 ---
 title: What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, formative-assessment, higher-ed, learning-analytics, personalized-learning, student-misconceptions-conditionals-loops-taxonomy, student-experience, metacognition, ai-literacy]
 sources: ['raw/papers/2605.00294.md']
@@ -27,6 +27,9 @@ For [[student-experience]], the implications are direct: students struggling wit
 - [[personalized-learning]]
 - [[student-experience]]
 - [[ai-literacy]]
+- [[student-misconceptions-ai]]
+- [[cognitive-diagnosis]]
+- [[knowledge-tracing]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]

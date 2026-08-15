@@ -1,7 +1,7 @@
 ---
 title: A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-08-15
 type: article
 tags: [agentic-ai, ai-literacy, assessment, authentic-assessment, computational-thinking, generative-ai, higher-ed, oral-defense, over-reliance, verification]
 sources: ['raw/papers/arxiv-2026-tool-invariant-framework.md']
@@ -65,6 +65,8 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 - [[agentic-ai]]
 - [[reducing-ai-misuse]]
 - [[prompt-engineering]]
+- [[authentic-assessment]]
+- [[physics-education]]
 
 ## Connected Articles
 

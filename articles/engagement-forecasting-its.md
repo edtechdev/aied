@@ -1,7 +1,7 @@
 ---
 title: "From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning"
 created: 2026-05-20
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, learning-analytics, engagement-metrics, k-12, efficacy-study, benchmark, scaffolding, rag, ai-tutoring, metacognition]
 sources: ['raw/papers/2605.12788.md']
@@ -46,12 +46,14 @@ The paper establishes a **reproducible benchmark** for engagement forecasting, w
 
 - [[math-education]]
 - [[help-seeking]]
-- [[pedagogical-llm-training]]
 - [[transfer-of-learning]]
-- [[socratic-method]]
 - [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
 - [[affective-tutoring]]
+- [[student-engagement]]
+- [[learning-analytics]]
+- [[ai-tutoring]]
+- [[engagement-metrics]]
 
 ## Connected Articles
 

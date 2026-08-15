@@ -1,7 +1,7 @@
 ---
 title: Students' multimodal prompting practices as epistemic work in AI literacy development
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, prompt-engineering, higher-ed, generative-ai, multimodal]
 sources: ['raw/papers/caeai-multimodal-prompting.md']
@@ -36,10 +36,11 @@ The author notes that the small sample size (28 postgraduate students) limits th
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[multimodal]]
-- [[automated-essay-scoring]]
 - [[reducing-ai-misuse]]
-- [[affective-tutoring]]
-- [[cs-education]]
+- [[generative-ai]]
+- [[storytelling-in-education]]
+- [[creativity]]
+- [[collaborative-learning]]
 
 ## Connected Articles
 

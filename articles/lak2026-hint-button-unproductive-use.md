@@ -1,7 +1,7 @@
 ---
 title: "Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems"
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, learning-analytics, hint-systems, k-12, math-education, gaming-the-system, student-experience, help-seeking, its-design]
 sources: ['raw/papers/lak2026-hint-button-unproductive-use.md']
@@ -66,6 +66,8 @@ Unlike prior "gaming the system" detectors requiring complex machine-learned mod
 - [[student-experience]]
 - [[intelligent-tutoring]]
 - [[active-learning]]
+- [[scaffolding]]
+- [[self-regulated-learning]]
 ## Connected Articles
 
 - [[zhang-tutormoments-2026]]

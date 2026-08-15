@@ -1,7 +1,7 @@
 ---
 title: "Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children"
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-15
 type: article
 tags: [adaptive-learning, intelligent-tutoring, special-education, k-12, equity, personalized-learning]
 sources: ['raw/papers/2607.22377.md']
@@ -22,6 +22,8 @@ The paper is a systems contribution rather than an efficacy study — no learnin
 - [[equity-in-ai-education]]
 - [[personalized-learning]]
 - [[student-experience]]
+- [[accessible-learning]]
+- [[k-12]]
 ## Connected Articles
 
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education

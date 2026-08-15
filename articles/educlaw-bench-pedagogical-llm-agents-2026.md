@@ -1,7 +1,7 @@
 ---
 title: "EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners"
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, agentic-ai, benchmark, knowledge-tracing, student-modeling, simulation, ai-ed-evaluation, curriculum-design]
 sources: ['raw/papers/2608.03206.md']
@@ -23,6 +23,10 @@ Large language models (LLMs) power educational applications from tutoring to ess
 - [[agentic-ai]]
 - [[knowledge-tracing]]
 - [[student-modeling]]
+- [[benchmark]]
+- [[simulation]]
+- [[curriculum-design]]
+- [[ai-ed-evaluation]]
 ## Connected Articles
 
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System

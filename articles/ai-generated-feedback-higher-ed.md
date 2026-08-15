@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence and feedback in university education: effectiveness and student perceptions"
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-08-15
 type: article
 tags: [generative-ai, feedback-loop, higher-ed, student-experience, learning-gains, formative-assessment, ai-literacy, rag, scaffolding, llm]
 sources: ['raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md']
@@ -68,9 +68,12 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 - [[rag]]
 - [[scaffolding]]
 - [[student-experience]]
-
 - [[generative-ai]]
 - [[llm]]
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[learning-gains]]
+- [[over-reliance]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

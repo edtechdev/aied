@@ -1,7 +1,7 @@
 ---
 title: "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming"
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-15
 type: article
 tags: [llm, intelligent-tutoring, k-12, privacy, benchmark, cs-education, feedback-loop, scaffolding, prompt-engineering, rag]
 sources: ['raw/papers/2607.05571.md']
@@ -18,12 +18,18 @@ Deploying LLM tutors in K-12 raises concerns around privacy, cost, and reliance 
 
 ## Connected Concepts
 
-- [[k-12]]
-- [[privacy]]
-- [[intelligent-tutoring]]
-- [[feedback-loop]]
+- [[ai-tutoring]]
+- [[benchmark]]
+- [[block-programming]]
 - [[cs-education]]
+- [[feedback-loop]]
+- [[intelligent-tutoring]]
+- [[k-12]]
+- [[llm]]
+- [[privacy]]
+- [[prompt-engineering]]
 - [[scaffolding]]
+
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]]

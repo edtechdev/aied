@@ -1,7 +1,7 @@
 ---
 title: The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, public-sector, training-methodology, efficacy-study, prompt-engineering, scaffolding, agentic-workflows, metacognition, curriculum-design]
 sources: ['raw/papers/2606.01517.md']
@@ -35,6 +35,8 @@ The study is a concrete demonstration that [[ai-literacy]] behaves as a developm
 - [[curriculum-design]]
 - [[metacognition]]
 - [[agentic-ai]]
+- [[professional-training]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing

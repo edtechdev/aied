@@ -1,7 +1,7 @@
 ---
 title: "CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora"
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, personalized-learning, scaffolding, higher-ed]
 sources: ['raw/papers/2606.20608.md']
@@ -12,9 +12,13 @@ Islam et al. (2026) address a core limitation of generative text-to-video for ed
 
 ## Connected Concepts
 
+- [[adaptive-learning]]
 - [[generative-ai]]
-- [[scaffolding]]
+- [[instructional-design]]
+- [[knowledge-graph]]
+- [[multimodal]]
 - [[personalized-learning]]
+- [[scaffolding]]
 - [[higher-ed]]
 ## Connected Articles
 

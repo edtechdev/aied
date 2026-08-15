@@ -1,7 +1,7 @@
 ---
 title: When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [generative-ai, educational-theory, over-reliance, student-experience, ai-literacy]
 sources: ['raw/papers/2607.28041.md']
@@ -30,12 +30,12 @@ The article translates the argument into a deployment-review question: what will
 
 - [[over-reliance]]
 - [[assessment]]
+- [[assessment-validity]]
+- [[ai-governance-education]]
 - [[ethics]]
-- [[plagiarism-detection]]
-- [[student-misconceptions-ai]]
 - [[cognitive-offloading]]
-- [[prompt-engineering]]
-- [[affective-tutoring]]
+- [[generative-ai]]
+- [[agency]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, scaffolding, higher-ed, metacognition, prompt-engineering, agentic-workflows, ai-literacy, curriculum-design, llm]
 sources: ['raw/papers/2606.01375.md']
@@ -34,6 +34,10 @@ The central conclusion is that **LLM access alone is an incomplete educational i
 - [[curriculum-design]]
 - [[metacognition]]
 - [[agentic-ai]]
+- [[over-reliance]]
+- [[help-seeking]]
+- [[ai-tutoring]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing

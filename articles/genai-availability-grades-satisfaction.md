@@ -1,7 +1,7 @@
 ---
 title: Generative AI Availability, Grades, and Student Satisfaction at a Large University
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, efficacy-study, learning-gains, student-experience, llm]
 sources: ['raw/papers/2607.21534.md']
@@ -16,6 +16,8 @@ This large-scale observational study tests the "GenAI substitution hypothesis" â
 - [[cognitive-offloading]]
 - [[student-experience]]
 - [[higher-ed]]
+- [[learning-gains]]
+
 ## Connected Articles
 
 - [[ai-availability-student-motivation]]

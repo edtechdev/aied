@@ -1,7 +1,7 @@
 ---
 title: "Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content"
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-08-15
 type: article
 tags: [ai-detection, academic-integrity, llm, higher-ed, plagiarism-detection]
 sources: ['raw/papers/2607.20446.md']
@@ -15,6 +15,8 @@ As students increasingly use [[llm]]s to draft written responses and program cod
 - [[llm]]
 - [[academic-integrity]]
 - [[plagiarism-detection]]
+- [[generative-ai]]
+
 ## Connected Articles
 
 - [[socially-fluent-ai-identity-detection]]

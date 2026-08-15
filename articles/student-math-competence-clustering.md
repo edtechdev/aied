@@ -1,7 +1,7 @@
 ---
 title: Archetypes or ability? Clustering for modelling student mathematical competence
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-15
 type: article
 tags: [personalized-learning, stem-education, learning-analytics, student-experience, adaptive-learning, k-12, higher-ed, knowledge-tracing, ai-literacy, formative-assessment]
 sources: ['raw/papers/2607.26063.md']
@@ -24,8 +24,10 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[edtech-platform]]
 - [[stem-education]]
 - [[higher-ed]]
-- [[ai-literacy]]
-- [[teacher-role]]
+- [[learning-analytics]]
+- [[student-modeling]]
+- [[educational-measurement]]
+- [[cognitive-diagnosis]]
 ## Connected Articles
 
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty

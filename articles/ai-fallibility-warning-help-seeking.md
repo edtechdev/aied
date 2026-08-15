@@ -1,7 +1,7 @@
 ---
 title: Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, student-experience, hallucination-risk, trust-calibration, llm, help-seeking]
 sources: ['raw/papers/2606.03822.md']
@@ -17,13 +17,11 @@ Recent work in Technology-Enhanced Learning and HumanComputer Interaction highli
 ## Connected Concepts
 
 - [[help-seeking]]
-- [[affective-tutoring]]
-- [[knowledge-tracing]]
-- [[teacher-ai-competency]]
-- [[socratic-method]]
 - [[pedagogical-agent]]
-- [[automated-question-generation]]
-- [[pedagogical-llm-training]]
+- [[hallucination-risk]]
+- [[trust-calibration]]
+- [[intelligent-tutoring]]
+- [[math-education]]
 
 ## Connected Articles
 

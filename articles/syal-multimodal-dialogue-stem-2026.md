@@ -1,7 +1,7 @@
 ---
 title: Multimodal Dialogue in STEM Education
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, multimodal, socratic-method, stem-education, llm, ai-tutoring, scaffolding, metacognition]
 sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
@@ -36,12 +36,12 @@ For deployment, this suggests a design pattern: AI tutoring interfaces for STEM 
 
 - [[socratic-method]]
 - [[math-education]]
-- [[socratic-method]]
-- [[help-seeking]]
 - [[pedagogical-agent]]
-- [[automated-question-generation]]
-- [[agentic-ai]]
 - [[ai-tutoring]]
+- [[multimodal]]
+- [[physics-education]]
+- [[llm]]
+- [[scaffolding]]
 
 ## Connected Articles
 

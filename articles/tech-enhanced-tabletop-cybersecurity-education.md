@@ -1,7 +1,7 @@
 ---
 title: "Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned"
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [edtech-platform, stem-education, higher-ed, professional-training, active-learning]
 sources: ['raw/papers/2607.28179.md']
@@ -33,9 +33,9 @@ The work demonstrates how technology enhancement can close the gap between profe
 - [[higher-ed]]
 - [[learning-analytics]]
 - [[professional-training]]
-- [[socratic-method]]
-- [[math-education]]
 - [[curriculum-design]]
+- [[experiential-learning]]
+- [[simulation]]
 
 ## Connected Articles
 

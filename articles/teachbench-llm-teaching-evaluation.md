@@ -1,7 +1,7 @@
 ---
 title: TeachBench - Evaluating LLM Teaching Ability
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-15
 type: article
 tags: [llm, benchmark, formative-assessment, personalized-learning, feedback-loop, ai-literacy, agentic-workflows]
 sources: ['raw/papers/2601.21375.md']
@@ -85,14 +85,12 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 
 ## Connected Concepts
 
-- [[ai-feedback-quality]]
 - [[socratic-method]]
 - [[ai-ed-evaluation]]
-- [[metacognition]]
-- [[self-regulated-learning]]
 - [[ai-tutoring]]
-- [[prompt-engineering]]
-- [[adaptive-learning]]
+- [[benchmark]]
+- [[learning-gains]]
+- [[simulating-students]]
 
 ## Connected Articles
 

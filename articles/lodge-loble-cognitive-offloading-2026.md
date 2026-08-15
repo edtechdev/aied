@@ -1,7 +1,7 @@
 ---
 title: Artificial intelligence, cognitive offloading and implications for education
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [cognitive-offloading, ai-literacy, equity, metacognition, teacher-role, k-12, higher-ed, rag]
 sources: ['raw/papers/lodge-loble-cognitive-offloading-2026.md']
@@ -26,8 +26,11 @@ This report from the Australian Network for Quality Digital Education investigat
 - [[k-12]]
 - [[metacognition]]
 - [[teacher-role]]
-
-- [[rag]]
+- [[cognitive-offloading]]
+- [[desirable-difficulties]]
+- [[cognitive-load-theory]]
+- [[over-reliance]]
+- [[equity-in-ai-education]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

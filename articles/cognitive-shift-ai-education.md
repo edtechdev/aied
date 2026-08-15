@@ -1,7 +1,7 @@
 ---
 title: "Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?"
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, student-experience, higher-ed, stem-education, over-reliance, efficacy-study, faculty-development, generative-ai, scaffolding]
 sources: ['raw/papers/2605.16292.md']
@@ -45,14 +45,12 @@ For instructors, these results suggest that AI education should explicitly surfa
 
 ## Connected Concepts
 
-- [[administrator]]
-- [[socratic-method]]
-- [[agentic-ai]]
-- [[ai-tutoring]]
-- [[math-education]]
-- [[prompt-engineering]]
-- [[affective-tutoring]]
+- [[ai-literacy]]
+- [[critical-thinking]]
 - [[curriculum-design]]
+- [[faculty-development]]
+- [[over-reliance]]
+- [[student-experience]]
 
 ## Connected Articles
 

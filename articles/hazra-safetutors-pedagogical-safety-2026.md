@@ -1,7 +1,7 @@
 ---
 title: "SafeTutors: Pedagogical Safety in AI Tutoring"
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [pedagogical-safety, k-12, ai-tutoring, llm, scaffolding, regulation]
 sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
@@ -37,10 +37,11 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 - [[ai-tutoring]]
 - [[k-12]]
 - [[pedagogical-safety]]
-
 - [[llm]]
 - [[regulation]]
 - [[scaffolding]]
+- [[ai-misuse-learning-harm]]
+- [[student-misconceptions-ai]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness

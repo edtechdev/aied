@@ -1,7 +1,7 @@
 ---
 title: "Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, equity, research-methods, teacher-ai-collaboration, human-ai-collaboration, ai-literacy]
 sources: ['raw/papers/2607.28890.md']
@@ -24,11 +24,12 @@ The study contributes a transferable blind-verification protocol for evaluating 
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
 - [[k-12-ai-education]]
-- [[student-experience]]
 - [[equity-in-ai-education]]
-- [[culturally-relevant-pedagogy]]
 - [[ai-education]]
-- [[formative-assessment]]
+- [[ai-ed-evaluation]]
+- [[research-methods-aied]]
+- [[human-ai-collaboration]]
+- [[llm]]
 
 ## Connected Articles
 

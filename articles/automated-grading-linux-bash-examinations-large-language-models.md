@@ -1,7 +1,7 @@
 ---
 title: Automated Grading of Linux/Bash Examinations Using Large Language Models
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-15
 type: article
 tags: [llm, automated-grading, cs-education, formative-assessment, higher-ed, scaffolding, learning-analytics, ai-literacy, k-12]
 sources: ['raw/papers/2607.02432.md']
@@ -18,6 +18,9 @@ This paper presents an [[llm]]-based grading system for Linux/bash command-line 
 - [[automated-grading]]
 - [[formative-assessment]]
 - [[ai-feedback-quality]]
+- [[cs-education]]
+- [[programming-education]]
+- [[automated-assessment]]
 ## Connected Articles
 
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations

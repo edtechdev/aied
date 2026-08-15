@@ -1,7 +1,7 @@
 ---
 title: Educational VLM Evaluation
 created: 2026-05-07
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [assessment, multimodal, benchmark, pedagogical-safety, stem-education, ai-education, pedagogical-llm-training, formative-assessment, rag, llm]
 sources: ['raw/papers/li-drawedumath-vlm-misdiagnosis-2026.md']
@@ -39,15 +39,14 @@ The gap between *capability* and *pedagogical utility* is analogous to the LLM m
 
 ## Connected Concepts
 
-- [[human-in-the-loop-ai]]
 - [[formative-assessment]]
 - [[ai-ed-evaluation]]
-- [[socratic-method]]
-- [[automated-question-generation]]
-- [[rag]]
-- [[open-source]]
 - [[pedagogical-llm-training]]
-
+- [[benchmark]]
+- [[multimodal]]
+- [[math-education]]
+- [[assessment]]
+- [[student-misconceptions-ai]]
 ## Connected Articles
 
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models

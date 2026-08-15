@@ -1,7 +1,7 @@
 ---
 title: "Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study"
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-15
 type: article
 tags: [k-12, ai-literacy, stem-education, scaffolding, personalized-learning, k-12-ai-education, computational-thinking, metacognition, ai-education]
 sources: ['raw/papers/2605.14330.md']
@@ -30,9 +30,14 @@ These findings challenge linear learning assumptions in [[k-12-ai-education]] an
 
 ## Connected Concepts
 
-- [[computational-thinking]]
-- [[k-12-ai-education]]
+- [[agentic-ai]]
 - [[ai-literacy]]
+- [[computational-thinking]]
+- [[k-12]]
+- [[k-12-ai-education]]
+- [[scaffolding]]
+- [[self-efficacy]]
+
 ## Connected Articles
 
 - [[ai-metacognition-stem-review]]

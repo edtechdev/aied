@@ -1,7 +1,7 @@
 ---
 title: Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-08-15
 type: article
 tags: [llm, metacognition, student-experience, efficacy-study, over-reliance, self-regulated-learning, scaffolding]
 sources: ['raw/papers/2605.25856.md']
@@ -31,6 +31,10 @@ While [[genai-assessment-governance|GenAI assessment governance]] focuses on *wh
 - [[intelligent-tutoring]]
 - [[over-reliance]]
 - [[self-regulated-learning]]
+- [[trust-calibration]]
+- [[trust]]
+- [[cognitive-offloading]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]]

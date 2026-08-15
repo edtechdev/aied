@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of Intelligent Tutoring Systems
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, literature-review, adaptive-learning, pedagogical-llm-training, educational-nlp, socratic-questioning, scaffolding]
 sources: ['raw/papers/zerkouk-comprehensive-review-its-2025.md']
@@ -43,14 +43,16 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 - [[automated-question-generation]]
 - [[educational-nlp]]
 - [[educational-policy-ai]]
+- [[intelligent-tutoring]]
 - [[knowledge-tracing]]
 - [[learning-analytics]]
 - [[metacognition]]
 - [[pedagogical-llm-training]]
 - [[rct]]
 - [[scaffolding]]
-
 - [[socratic-method]]
+- [[student-modeling]]
+
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]] — AI Tutor Effectiveness Review

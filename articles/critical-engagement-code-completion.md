@@ -1,7 +1,7 @@
 ---
 title: "To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks"
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-08-15
 type: article
 tags: [formative-assessment, higher-ed, llm, stem-education, student-experience]
 sources: ['raw/papers/2606.30549.md']
@@ -12,10 +12,14 @@ Hutchison et al. (2026) develop and validate a method for measuring critical eng
 
 ## Connected Concepts
 
+- [[cognitive-offloading]]
+- [[critical-thinking]]
 - [[formative-assessment]]
 - [[over-reliance]]
-- [[student-experience]]
+- [[programming-education]]
 - [[stem-education]]
+- [[student-engagement]]
+- [[student-experience]]
 - [[transfer-of-learning]]
 ## Connected Articles
 

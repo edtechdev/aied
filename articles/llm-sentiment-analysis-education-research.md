@@ -1,7 +1,7 @@
 ---
 title: "LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments"
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-08-15
 type: article
 tags: [llm, edtech-platform, higher-ed, learning-analytics, student-experience, formative-assessment, automated-grading, generative-ai, ai-literacy]
 sources: ['raw/papers/2605.27403.md']
@@ -24,6 +24,8 @@ confidence: medium
 - [[faculty-development]]
 - [[ai-literacy]]
 - [[student-experience]]
+- [[educational-nlp]]
+- [[research-methods-aied]]
 ## Connected Articles
 
 - [[llm-student-misconception-identification]] — What Don't You Understand? Using Large Language Models to Identify and Characterize Student Misconceptions About Challenging Topics

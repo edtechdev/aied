@@ -1,7 +1,7 @@
 ---
 title: Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, generative-ai, research-methods, teacher-ai-collaboration, teacher-ai-competency, human-ai-collaboration]
 sources: ['raw/papers/2607.28889.md']
@@ -27,8 +27,12 @@ The article provides a procedural account (what LLMs can do, in which phases, un
 - [[k-12-ai-education]]
 - [[ai-education]]
 - [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
 - [[automated-essay-scoring]]
+- [[educational-nlp]]
+- [[research-methods-aied]]
+- [[ai-ed-evaluation]]
+- [[generative-ai]]
+- [[llm]]
 
 ## Connected Articles
 

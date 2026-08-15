@@ -1,7 +1,7 @@
 ---
 title: Scaffolding Critical Thinking with Generative AI
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, scaffolding, self-regulated-learning, faculty-development-genai, metacognition, ai-literacy]
 sources: ['raw/papers/critical-thinking-genai-scaffolding.md']
@@ -79,17 +79,21 @@ Both scenarios emphasize the critical sequence: *independent thinking first, AI 
 
 ## Connected Concepts
 
+- [[agency]]
 - [[ai-literacy]]
+- [[cognitive-offloading]]
+- [[critical-thinking]]
 - [[faculty-development]]
 - [[formative-assessment]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[socratic-method]]
-
 - [[generative-ai]]
 - [[higher-ed]]
+- [[metacognition]]
+- [[over-reliance]]
 - [[scaffolding]]
+- [[self-regulated-learning]]
+- [[socratic-method]]
 - [[transfer-of-learning]] — AI Learning Transfer
+
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base

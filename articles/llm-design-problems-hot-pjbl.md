@@ -1,7 +1,7 @@
 ---
 title: LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-15
 type: article
 tags: [project-based-learning, generative-ai, formative-assessment, stem-education, higher-ed, scaffolding, llm]
 sources: ['raw/papers/2607.11032.md']
@@ -36,6 +36,11 @@ DPs appear to be a **useful complement to traditional assessments**, particularl
 - [[scaffolding]]
 - [[higher-ed]]
 - [[cs-education]]
+- [[project-based-learning]]
+- [[transfer-of-learning]]
+- [[automated-question-generation]]
+- [[critical-thinking]]
+
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

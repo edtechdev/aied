@@ -1,7 +1,7 @@
 ---
 title: "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework"
 created: 2026-05-15
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [automated-grading, higher-ed, stem-education, llm, generative-ai, efficacy-study, feedback-loop, assessment-validity, formative-assessment, open-source]
 sources: ['raw/papers/2605.05410.md']
@@ -46,6 +46,8 @@ LaTA's success connects to the broader [[stem-education]] and [[higher-ed]] land
 - [[stem-education]]
 - [[higher-ed]]
 - [[llm]]
+- [[privacy]]
+- [[open-source]]
 ## Connected Articles
 
 - [[short-answer-scoring-quality-degradation]]

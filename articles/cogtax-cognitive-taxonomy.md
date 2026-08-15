@@ -1,7 +1,7 @@
 ---
 title: "CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education"
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-15
 type: article
 tags: [llm, formative-assessment, stem-education, scaffolding, higher-ed, llm-in-education, rag]
 sources: ['raw/papers/2607.00140.md']
@@ -25,8 +25,11 @@ This paper contributes to the growing body of research on AI applications in edu
 ## Connected Concepts
 
 - [[ai-education]]
-- [[intelligent-tutoring]]
+- [[assessment]]
+- [[cs-education]]
 - [[equity-in-ai-education]]
+- [[intelligent-tutoring]]
+
 ## Connected Articles
 
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2

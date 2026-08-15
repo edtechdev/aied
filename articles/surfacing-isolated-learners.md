@@ -1,7 +1,7 @@
 ---
 title: Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-08-15
 type: article
 tags: [learning-analytics, teacher-role, higher-ed, student-experience, feedback-loop, ai-literacy, help-seeking]
 sources: ['raw/papers/2605.29240.md']
@@ -52,9 +52,11 @@ This is one of the first systems to operationalize **human-AI co-agency** in cla
 - [[teacher-ai-competency]]
 - [[help-seeking]]
 - [[bias-mitigation]]
-- [[k-12-ai-education]]
 - [[ai-tutoring]]
-- [[prompt-engineering]]
+- [[learning-analytics]]
+- [[teacher-role]]
+- [[higher-ed]]
+- [[feedback-loop]]
 
 ## Connected Articles
 

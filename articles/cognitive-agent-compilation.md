@@ -1,7 +1,7 @@
 ---
 title: Cognitive Agent Compilation for Explicit Problem Solver Modeling
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, adaptive-learning, personalized-learning, pedagogical-llm-training, adaptive-learning-systems, rag, ai-tutoring]
 sources: ['raw/papers/2605.07040.md']
@@ -59,8 +59,13 @@ CAC connects to several threads in AI education research:
 ## Connected Concepts
 
 - [[adaptive-learning]]
+- [[agentic-ai]]
+- [[knowledge-tracing]]
+- [[llm]]
 - [[pedagogical-llm-training]]
 - [[personalized-learning]]
+- [[student-modeling]]
+
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]

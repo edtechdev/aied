@@ -1,7 +1,7 @@
 ---
 title: Multimodal Learning with Generative AI
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-15
 type: article
 tags: [ai-education, higher-ed, generative-ai, multimodal, active-learning, scaffolding, feedback-loop, assessment, pedagogical-llm-training, self-regulated-learning]
 sources: ['raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md']
@@ -135,14 +135,15 @@ The guide includes 15+ educator case studies spanning:
 - [[metacognition]]
 - [[pedagogical-llm-training]]
 - [[self-regulated-learning]]
-- [[socratic-method]]
-- varga-atkins-educators-guide-multimodal-learning-genai-2025
-
 - [[ai-education]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[scaffolding]]
-- [[authentic-assessment]] — Authentic Assessment
+- [[authentic-assessment]]
+- [[multimodal]]
+- [[universal-design-for-learning]]
+- [[instructional-design]]
+- [[human-ai-collaboration]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

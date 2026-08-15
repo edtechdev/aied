@@ -1,7 +1,7 @@
 ---
 title: "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)"
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-15
 type: article
 tags: [generative-ai, academic-integrity, higher-ed, student-experience, writing-education, over-reliance, ai-literacy]
 sources: ['raw/papers/2607.14301.md']
@@ -21,6 +21,9 @@ Validation follows the multi-source framework of the *Standards for Educational 
 - [[generative-ai]]
 - [[writing-education]]
 - [[higher-ed]]
+- [[educational-measurement]]
+- [[trust]]
+- [[human-ai-collaboration]]
 ## Connected Articles
 
 - [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026

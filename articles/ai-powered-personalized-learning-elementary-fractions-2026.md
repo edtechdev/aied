@@ -1,7 +1,7 @@
 ---
 title: Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-15
 type: article
 tags: [ai-generated-content, personalized-learning, k-12, math-education, adaptive-learning, student-experience]
 sources: ['raw/papers/2608.04892.md']
@@ -19,6 +19,8 @@ Examines AI-powered personalized learning in elementary fraction instruction thr
 - [[k-12]]
 - [[generative-ai]]
 - [[student-experience]]
+- [[student-engagement]]
+- [[faculty-development]]
 ## Connected Articles
 
 - [[epistemic-proactivity-math]]

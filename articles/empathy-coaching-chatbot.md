@@ -1,7 +1,7 @@
 ---
 title: "Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions"
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-08-15
 type: article
 tags: [affective-computing, feedback-loop, llm, personalized-learning, student-experience, affective-tutoring]
 sources: ['raw/papers/2606.26641.md']
@@ -17,6 +17,8 @@ Siyan et al. (2026) conduct a carefully controlled experiment isolating the effe
 - [[llm]]
 - [[student-experience]]
 - [[feedback-loop]]
+- [[affective-computing]]
+- [[student-engagement]]
 ## Connected Articles
 
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty

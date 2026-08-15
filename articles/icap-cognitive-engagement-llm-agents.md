@@ -1,7 +1,7 @@
 ---
 title: "Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [llm, collaborative-learning, learning-analytics, student-ai-interaction, nlp-education, collaborative-ai-tutoring, metacognition, ai-tutoring]
 sources: ['raw/papers/2607.28651.md']
@@ -23,14 +23,11 @@ Findings highlight the promise of reflective-agent approaches for scaling engage
 ## Connected Concepts
 
 - [[icap-framework]]
-- [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
-- [[knowledge-tracing]]
-- [[administrator]]
-- [[help-seeking]]
-- [[pedagogical-agent]]
-- [[automated-question-generation]]
-- [[rag]]
+- [[learning-analytics]]
+- [[collaborative-learning]]
+- [[student-engagement]]
+- [[educational-nlp]]
 
 ## Connected Articles
 

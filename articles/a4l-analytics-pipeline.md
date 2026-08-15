@@ -1,7 +1,7 @@
 ---
 title: Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-08-15
 type: article
 tags: [learning-analytics, edtech-platform, personalized-learning, higher-ed, feedback-loop, student-experience, ai-literacy, llm]
 sources: ['raw/papers/2605.30303.md']
@@ -21,6 +21,9 @@ Artificial intelligence assistants deployed in online learning environments crea
 - [[learning-analytics]]
 - [[personalized-learning]]
 - [[edtech-platform]]
+- [[feedback-loop]]
+- [[higher-ed]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-assisted-writing-research-teams]]

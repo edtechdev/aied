@@ -1,7 +1,7 @@
 ---
 title: Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-15
 type: article
 tags: [higher-ed, llm, automated-grading, student-experience, stem-education, learning-analytics, k-12]
 sources: ['raw/papers/2606.15919.md']
@@ -30,11 +30,12 @@ The headline implication is that **model accuracy does not translate automatical
 
 - [[cs-education]]
 - [[higher-ed]]
-- [[administrator]]
+- [[llm]]
+- [[student-experience]]
+- [[benchmark]]
+- [[assessment]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
-- [[affective-computing]]
-- [[agentic-ai]]
 - [[ai-tutoring]]
 
 ## Connected Articles

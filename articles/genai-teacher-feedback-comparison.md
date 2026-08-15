@@ -1,7 +1,7 @@
 ---
 title: "Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [generative-ai, feedback-loop, student-experience, higher-ed, ai-literacy, engagement-metrics]
 sources: ['raw/papers/tandf-2026-genai-teacher-feedback-comparison.md']
@@ -45,8 +45,11 @@ The two most frequent comparison themes were the nature of the feedback **inform
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[student-experience]]
-
 - [[generative-ai]]
+- [[feedback-loop]]
+- [[trust]]
+- [[ai-feedback-quality]]
+- [[help-seeking]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

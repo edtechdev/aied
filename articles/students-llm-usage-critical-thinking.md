@@ -1,7 +1,7 @@
 ---
 title: Characterizing Students' LLM Usage Behaviors and Their Association with Learning in Critical Thinking Tasks
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-15
 type: article
 tags: [higher-ed, student-experience, llm, generative-ai, learning-analytics, ai-literacy, faculty-development-genai, scaffolding]
 sources: ['raw/papers/2605.04534.md']
@@ -32,6 +32,10 @@ This work complements [[genai-tutor-engagement-patterns]] by shifting focus from
 - [[scaffolding]]
 - [[learning-analytics]]
 - [[faculty-development]]
+- [[critical-thinking]]
+- [[llm]]
+- [[generative-ai]]
+- [[over-reliance]]
 ## Connected Articles
 
 - [[critical-thinking-genai-scaffolding]]

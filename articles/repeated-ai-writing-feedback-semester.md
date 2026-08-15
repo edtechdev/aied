@@ -1,7 +1,7 @@
 ---
 title: Student Evaluation of Repeated AI Feedback Across a Semester of Writing
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, higher-ed, writing-education, feedback-loop, over-reliance, formative-assessment, ai-literacy, student-experience]
 sources: ['raw/papers/2607.16115.md']
@@ -19,6 +19,10 @@ The study surfaces the central tension in [[over-reliance]]: generative AI offer
 - [[ai-literacy]]
 - [[student-experience]]
 - [[writing-education]]
+- [[formative-assessment]]
+- [[feedback-loop]]
+- [[learning-gains]]
+- [[generative-ai]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]]

@@ -1,7 +1,7 @@
 ---
 title: Principled AI in Education
 created: 2026-05-07
-updated: 2026-07-28
+updated: 2026-08-15
 type: article
 tags: [ai-education, higher-ed, pedagogy, scaffolding, policy-maker, active-learning, self-regulated-learning, human-in-the-loop-ai, faculty-development-genai, metacognition]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
@@ -68,12 +68,16 @@ The framework can serve as a diagnostic for any AI-in-education initiative:
 - [[human-in-the-loop-ai]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-
 - [[ai-education]]
 - [[higher-ed]]
 - [[scaffolding]]
 - [[transfer-of-learning]] — AI Learning Transfer
 - [[authentic-assessment]] — Authentic Assessment
+- [[active-learning]]
+- [[motivation]]
+- [[human-ai-collaboration]]
+- [[agency]]
+- [[teacher-role]]
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm

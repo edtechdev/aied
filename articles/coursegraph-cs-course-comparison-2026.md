@@ -1,7 +1,7 @@
 ---
 title: "CourseGraph: Finding overlaps and differences in Computer Science courses across universities"
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [cs-education, curriculum-design, edtech-platform, student-experience, higher-ed, administrator]
 sources: ['raw/papers/2608.05910.md']
@@ -17,13 +17,11 @@ presents CourseGraph, a methodology for automatically evaluating external course
 ## Connected Concepts
 
 - [[administrator]]
-- [[engagement-metrics]]
-- [[k-12-ai-education]]
-- [[culturally-relevant-pedagogy]]
-- [[math-education]]
+- [[cs-education]]
+- [[curriculum-design]]
+- [[educational-nlp]]
 - [[higher-ed]]
-- [[prompt-engineering]]
-- [[affective-tutoring]]
+- [[knowledge-graph]]
 
 ## Connected Articles
 

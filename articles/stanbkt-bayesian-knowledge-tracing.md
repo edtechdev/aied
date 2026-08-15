@@ -1,7 +1,7 @@
 ---
 title: "StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing"
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, learning-analytics, adaptive-learning, benchmark, open-source, adaptive-learning-systems, knowledge-tracing, visualization]
 sources: ['raw/papers/2605.23048.md']
@@ -18,6 +18,9 @@ For [[intelligent-tutoring]] systems, this represents a significant methodologic
 - [[adaptive-learning]]
 - [[open-source]]
 - [[learning-analytics]]
+- [[knowledge-tracing]]
+- [[educational-measurement]]
+- [[item-response-theory]]
 ## Connected Articles
 
 - [[neural-symbolic-knowledge-tracing]]

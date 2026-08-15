@@ -1,7 +1,7 @@
 ---
 title: "EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers"
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-15
 type: article
 tags: [llm, k-12, pedagogical-safety, ai-tutor-safety-harms, benchmark, ai-governance-education]
 sources: ['raw/papers/2608.02024.md']
@@ -24,15 +24,13 @@ Results show greater vulnerability to education-specific risks and dynamic multi
 
 ## Connected Concepts
 
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
 - [[pedagogical-safety]]
 - [[pedagogical-llm-training]]
-- [[reinforcement-learning]]
 - [[educational-policy-ai]]
 - [[ethics]]
-- [[affective-tutoring]]
-
+- [[benchmark]]
+- [[k-12]]
+- [[ai-governance-education]]
 ## Connected Articles
 
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring

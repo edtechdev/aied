@@ -1,7 +1,7 @@
 ---
 title: "Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education"
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-15
 type: article
 tags: [special-education, equity, adaptive-learning, k-12, higher-ed, llm-in-education, ai-literacy, rag, llm]
 sources: ['raw/papers/2607.01214.md']
@@ -27,6 +27,10 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[ai-education]]
 - [[intelligent-tutoring]]
 - [[equity-in-ai-education]]
+- [[accessible-learning]]
+- [[special-education]]
+- [[universal-design-for-learning]]
+- [[neurodiversity]]
 ## Connected Articles
 
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2

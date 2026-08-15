@@ -1,7 +1,7 @@
 ---
 title: "Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation"
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-15
 type: article
 tags: [ai-ed-evaluation, llm, formative-assessment, teacher-role, assessment, automated-grading]
 sources: ['raw/papers/2606.23629.md']
@@ -17,6 +17,8 @@ Tseng et al. (2026) investigate human-machine alignment in LLM-based pretest que
 - [[formative-assessment]]
 - [[automated-grading]]
 - [[assessment]]
+- [[educational-measurement]]
+- [[automated-question-generation]]
 ## Connected Articles
 
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference

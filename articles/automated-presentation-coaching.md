@@ -1,7 +1,7 @@
 ---
 title: "A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges"
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-08-15
 type: article
 tags: [llm, intelligent-tutoring, feedback-loop, professional-training, language-learning, personalized-learning, scaffolding, ai-literacy, rag]
 sources: ['raw/papers/2606.27380.md']
@@ -23,6 +23,7 @@ Key open challenges include the scarcity of annotated presentation corpora, achi
 - [[scaffolding]]
 - [[personalized-learning]]
 - [[ai-literacy]]
+- [[multimodal]]
 ## Connected Articles
 
 - [[prompt-coach-agentic-tutor-prompt-engineering]] — Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development

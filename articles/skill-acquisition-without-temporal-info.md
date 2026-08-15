@@ -1,7 +1,7 @@
 ---
 title: Estimating Learners' Skill Acquisition Without Temporal Information
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-15
 type: article
 tags: [student-modeling, knowledge-tracing, adaptive-learning, learning-analytics, formative-assessment, personalized-learning]
 sources: ['raw/papers/2606.20611.md']
@@ -18,6 +18,8 @@ Nagai et al. (2026) tackle the practical problem that many real-world educationa
 - [[personalized-learning]]
 - [[learning-analytics]]
 - [[formative-assessment]]
+- [[cognitive-diagnosis]]
+- [[educational-measurement]]
 ## Connected Articles
 
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis

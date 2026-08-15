@@ -1,7 +1,7 @@
 ---
 title: "The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy"
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, higher-ed, generative-ai, over-reliance, faculty-development, rag, llm]
 sources: ['raw/papers/2607.05411.md']
@@ -21,6 +21,9 @@ This work connects to core wiki themes: [[ai-literacy]] [[higher-ed]] [[over-rel
 - [[over-reliance]]
 - [[generative-ai]]
 - [[faculty-development]]
+- [[self-efficacy]]
+- [[educational-measurement]]
+- [[curriculum-design]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

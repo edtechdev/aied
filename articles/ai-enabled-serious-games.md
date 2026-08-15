@@ -1,7 +1,7 @@
 ---
 title: "AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems"
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, generative-ai, adaptive-learning, edtech-platform, professional-training, llm, agentic-ai-ecosystems-higher-education, adaptive-learning-systems, higher-ed, agentic-ai]
 sources: ['raw/papers/2605.21962.md']
@@ -17,6 +17,10 @@ This book chapter provides a comprehensive survey of AI integration in serious g
 - [[intelligent-tutoring]]
 - [[agentic-ai]]
 - [[adaptive-learning]]
+- [[game-based-learning]]
+- [[llm]]
+- [[reinforcement-learning]]
+- [[professional-training]]
 ## Connected Articles
 
 - [[multimodal-affective-its-presentation]]

@@ -1,7 +1,7 @@
 ---
 title: "LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-15
 type: article
 tags: [learning-analytics, llm, k-12, personalized-learning, assessment, student-experience, rag]
 sources: ['raw/papers/2606.15349.md']
@@ -30,8 +30,9 @@ The piecewise-stable latent structure means exam preparation can be modeled as *
 ## Connected Concepts
 
 - [[knowledge-tracing]]
-- [[affective-computing]]
-- [[human-in-the-loop-ai]]
+- [[knowledge-graph]]
+- [[student-modeling]]
+- [[educational-measurement]]
 - [[pedagogical-agent]]
 - [[self-regulated-learning]]
 - [[personalized-learning]]

@@ -1,7 +1,7 @@
 ---
 title: Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, edtech-platform, higher-ed, stem-education, personalized-learning, learning-analytics, student-experience, rag, llm]
 sources: ['raw/papers/2606.15572.md']
@@ -14,14 +14,10 @@ Team-based projects are a cornerstone of engineering and computing courses, but 
 
 ## Connected Concepts
 
-- [[pedagogical-agent]]
-- [[affective-computing]]
-- [[knowledge-tracing]]
-- [[administrator]]
-- [[socratic-method]]
-- [[automated-question-generation]]
-- [[agentic-ai]]
-- [[socratic-method]]
+- [[collaborative-learning]]
+- [[edtech-platform]]
+- [[personalized-learning]]
+- [[llm]]
 
 ## Connected Articles
 

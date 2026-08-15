@@ -1,7 +1,7 @@
 ---
 title: "Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models"
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [llm, intelligent-tutoring, automated-grading, benchmark, feedback-loop, adaptive-learning, student-experience, scaffolding]
 sources: ['raw/papers/2607.28128.md']
@@ -30,12 +30,11 @@ The central conclusion is that **general-purpose helpfulness is not a reliable p
 
 - [[ai-tutoring]]
 - [[pedagogical-llm-training]]
-- [[affective-tutoring]]
-- [[automated-question-generation]]
 - [[benchmark]]
 - [[personalized-learning]]
-- [[knowledge-tracing]]
 - [[socratic-method]]
+- [[scaffolding]]
+- [[ai-feedback-quality]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, ai-literacy, policy-maker, higher-ed, student-experience, intelligent-tutoring, scaffolding, k-12, stem-education]
 confidence: medium
@@ -18,6 +18,10 @@ This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Sea
 - [[ai-education]]
 - [[formative-assessment]]
 - [[self-regulated-learning]]
+- [[generative-ai]]
+- [[llm]]
+- [[critical-thinking]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content

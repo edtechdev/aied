@@ -1,7 +1,7 @@
 ---
 title: "Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training"
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, special-education, personalized-learning, reinforcement-learning, k-12, scaffolding]
 sources: ['raw/papers/2605.30670.md']
@@ -51,12 +51,13 @@ This is the first multi-turn pedagogical RL framework specifically targeting spe
 
 - [[reinforcement-learning]]
 - [[pedagogical-agent]]
-- [[lifelong-learning]]
 - [[personalized-learning]]
 - [[adaptive-learning]]
-- [[affective-tutoring]]
-- [[help-seeking]]
 - [[pedagogical-llm-training]]
+- [[special-education]]
+- [[scaffolding]]
+- [[neurodiversity]]
+- [[ai-tutoring]]
 
 ## Connected Articles
 

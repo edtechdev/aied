@@ -1,7 +1,7 @@
 ---
 title: "Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing"
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, bias-mitigation, writing-education, higher-ed, student-experience]
 sources: ['raw/papers/2606.15914.md']
@@ -35,11 +35,11 @@ For [[writing-education]] and [[bias-mitigation]] efforts, the study implies tha
 - [[bias-mitigation]]
 - [[equity-in-ai-education]]
 - [[prompt-engineering]]
-- [[affective-tutoring]]
 - [[automated-essay-scoring]]
 - [[plagiarism-detection]]
-- [[administrator]]
 - [[teacher-ai-competency]]
+- [[writing-education]]
+- [[academic-integrity]]
 
 ## Connected Articles
 

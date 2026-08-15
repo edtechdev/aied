@@ -1,7 +1,7 @@
 ---
 title: "Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation"
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-15
 type: article
 tags: [ai-generated-content, k-12, active-learning, ai-literacy, llm, automated-grading, scaffolding, learning-analytics, formative-assessment]
 sources: ['raw/papers/2607.02361.md']
@@ -31,6 +31,9 @@ For [[higher-ed]] and [[k-12]] settings, the results suggest that AI-assisted da
 - [[generative-ai]]
 - [[k-12]]
 - [[active-learning]]
+- [[storytelling-in-education]]
+- [[higher-ed]]
+
 ## Connected Articles
 
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations

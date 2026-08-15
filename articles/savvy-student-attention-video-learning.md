@@ -1,7 +1,7 @@
 ---
 title: "SAVVY: Student Attention Visualization for Video-based Learning Analysis"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [learning-analytics, multimodal, student-experience, engagement-metrics, higher-ed, edtech-platform, visualization]
 sources: ['raw/papers/2607.29413.md']
@@ -21,14 +21,14 @@ The work connects AI-based attention estimation to instructional design practice
 
 ## Connected Concepts
 
-- [[administrator]]
-- [[affective-computing]]
-- [[math-education]]
+- [[learning-analytics]]
+- [[multimodal]]
 - [[higher-ed]]
-- [[prompt-engineering]]
 - [[human-in-the-loop-ai]]
 - [[motivation]]
-- [[affective-tutoring]]
+- [[student-engagement]]
+- [[engagement-metrics]]
+- [[student-experience]]
 
 ## Connected Articles
 

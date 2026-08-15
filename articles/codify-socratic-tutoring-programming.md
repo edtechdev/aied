@@ -1,7 +1,7 @@
 ---
 title: "Codify: An Intelligent Socratic Tutoring System for Programming Education"
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, intelligent-tutoring, llm, programming-its, scaffolding, socratic-method, pedagogical-llm-training, automated-grading, agentic-ai-ecosystems-higher-education]
 sources: ['raw/papers/codify-socratic-tutoring-programming.md']
@@ -38,15 +38,19 @@ Initial deployment in programming courses showed promising results for student e
 
 ## Connected Concepts
 
+- [[adaptive-learning]]
 - [[agentic-ai]]
 - [[automated-grading]]
+- [[gamification]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[intelligent-tutoring]]
 - [[llm]]
 - [[pedagogical-llm-training]]
 - [[scaffolding]]
 - [[socratic-method]]
+- [[student-engagement]]
 
-- [[generative-ai]]
-- [[higher-ed]]
 ## Connected Articles
 
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalab...

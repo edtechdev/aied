@@ -1,7 +1,7 @@
 ---
 title: A meta-analysis of the effect of generative AI on productivity and learning in programming
 created: 2026-05-06
-updated: 2026-05-11
+updated: 2026-08-15
 type: article
 tags: [rct, efficacy-study, generative-ai, higher-ed, learning-gains, meta-analysis, regulation, writing-education, assessment-validity, llm]
 sources: ['raw/papers/2605.04779.md']
@@ -47,6 +47,10 @@ The findings have implications beyond programming — the productivity-learning 
 - [[language-learning]]
 - [[stem-education]]
 - [[transfer-of-learning]]
+- [[meta-analysis-systematic-review]]
+- [[programming-education]]
+- [[learning-gains]]
+- [[over-reliance]]
 ## Connected Articles
 
 - [[tutoring-specific-vs-general-ai]]

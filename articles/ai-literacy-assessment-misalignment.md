@@ -1,7 +1,7 @@
 ---
 title: "AI Literacy Assessment: Self-Reported vs Performance Misalignment"
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, assessment, assessment-validity, k-12, self-regulated-learning, faculty-development, higher-ed, generative-ai, llm, student-experience]
 confidence: high
@@ -27,14 +27,14 @@ The low correlation between self-reported and objective-based factors is a stron
 
 ## Connected Concepts
 
+- [[assessment]]
+- [[assessment-validity]]
+- [[ai-literacy]]
 - [[teacher-ai-competency]]
 - [[metacognition]]
 - [[k-12-ai-education]]
-- [[affective-tutoring]]
-- [[automated-essay-scoring]]
-- [[plagiarism-detection]]
-- [[help-seeking]]
-- [[bias-mitigation]]
+- [[faculty-development]]
+- [[learning-analytics]]
 
 ## Connected Articles
 

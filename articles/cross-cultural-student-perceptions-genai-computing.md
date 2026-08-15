@@ -1,7 +1,7 @@
 ---
 title: Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, student-experience, cs-education, policy-maker]
 sources: ['raw/papers/2607.19699.md']
@@ -12,14 +12,14 @@ A scenario-based survey (Fall 2024) comparing how computing students at Canadian
 
 ## Connected Concepts
 
-- [[plagiarism-detection]]
-- [[administrator]]
-- [[equity-in-ai-education]]
-- [[engagement-metrics]]
 - [[academic-integrity]]
-- [[math-education]]
+- [[cs-education]]
+- [[culturally-relevant-pedagogy]]
+- [[equity-in-ai-education]]
+- [[ethics]]
+- [[generative-ai]]
 - [[higher-ed]]
-- [[prompt-engineering]]
+- [[student-experience]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: Is Solving Better Than Evaluating GenAI Solutions?
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [generative-ai, stem-education, higher-ed, efficacy-study, student-experience]
 sources: ['raw/papers/2607.27586.md']
@@ -31,11 +31,9 @@ The results speak directly to the debate over how computing educators should res
 - [[higher-ed]]
 - [[cs-education]]
 - [[critical-thinking]]
-- [[math-education]]
-- [[administrator]]
-- [[socratic-method]]
-- [[physics-education]]
-- [[pedagogical-agent]]
+- [[generative-ai]]
+- [[computational-thinking]]
+- [[scaffolding]]
 
 ## Connected Articles
 

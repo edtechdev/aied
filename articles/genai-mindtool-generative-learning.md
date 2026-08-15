@@ -1,7 +1,7 @@
 ---
 title: Generative AI (GenAI) as a mindtool that supports generative learning (GL)
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [educational-theory, generative-ai, higher-ed, instructional-design, scaffolding]
 sources: ['raw/papers/caeai-genai-mindtool.md']
@@ -47,11 +47,14 @@ The framework gives [[instructional-design]] practitioners a vocabulary for usin
 - [[instructional-design]]
 - [[self-regulated-learning]]
 - [[curriculum-design]]
-- [[math-education]]
 - [[constructivist]]
 - [[prompt-engineering]]
 - [[formative-assessment]]
 - [[affective-tutoring]]
+- [[generative-ai]]
+- [[active-learning]]
+- [[scaffolding]]
+- [[metacognition]]
 
 ## Connected Articles
 

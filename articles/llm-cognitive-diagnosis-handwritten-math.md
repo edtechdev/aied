@@ -1,7 +1,7 @@
 ---
 title: Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-08-15
 type: article
 tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-loop, critical-thinking, hallucination-risk, k-12, llm, generative-ai, math-education]
 confidence: high
@@ -65,6 +65,9 @@ MathCog builds on existing [[llm-handwritten-math-grading]] work but shifts focu
 ## Connected Concepts
 
 - [[math-education]]
+- [[cognitive-diagnosis]]
+- [[benchmark]]
+- [[llm]]
 - [[hallucination-risk]]
 - [[human-in-the-loop-ai]]
 - [[knowledge-tracing]]
@@ -73,6 +76,7 @@ MathCog builds on existing [[llm-handwritten-math-grading]] work but shifts focu
 - [[over-reliance]]
 - [[ai-ed-evaluation]]
 - [[cognitive-offloading]]
+
 ## Connected Articles
 
 - [[ground-truth-reliability-aied]]

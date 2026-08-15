@@ -1,7 +1,7 @@
 ---
 title: "ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education"
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-15
 type: article
 tags: [generative-ai, intelligent-tutoring, k-12, equity, personalized-learning, llm-in-education, rag, llm]
 sources: ['raw/papers/2606.30662.md']
@@ -27,6 +27,9 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[ai-education]]
 - [[intelligent-tutoring]]
 - [[equity-in-ai-education]]
+- [[k-12]]
+- [[privacy]]
+- [[personalized-learning]]
 ## Connected Articles
 
 - [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework

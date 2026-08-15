@@ -1,7 +1,7 @@
 ---
 title: "MedEasy: Designing AI Standardized Patients for Clinical Consultation Training"
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, generative-ai, higher-ed, active-learning, feedback-loop, adaptive-virtual-patient-psychotherapy-training, professional-training]
 sources: ['raw/papers/2606.17512.md']
@@ -16,14 +16,14 @@ MedEasy: Designing AI Standardized Patients for Clinical Consultation Training i
 
 ## Connected Concepts
 
-- [[socratic-method]]
 - [[lifelong-learning]]
 - [[ai-tutoring]]
-- [[math-education]]
 - [[affective-tutoring]]
 - [[equity-in-ai-education]]
-- [[teacher-ai-competency]]
 - [[help-seeking]]
+- [[professional-training]]
+- [[simulation]]
+- [[feedback-loop]]
 
 ## Connected Articles
 

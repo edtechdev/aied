@@ -1,7 +1,7 @@
 ---
 title: "Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis"
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, equity, k-12, policy-maker, higher-ed, faculty-development-genai, teacher-role]
 sources: ['raw/papers/2607.11314.md']
@@ -21,6 +21,10 @@ Frames AI literacy 'for all' as an [[equity-in-ai-education]] problem rooted in 
 - [[ai-literacy]]
 - [[faculty-development]]
 - [[higher-ed]]
+- [[cs-education]]
+- [[curriculum-design]]
+- [[programming-education]]
+- [[digital-divide]]
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

@@ -1,7 +1,7 @@
 ---
 title: 'From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs'
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-15
 type: article
 tags: [stem-education, higher-ed, teacher-role, learning-analytics, academic-integrity, edtech-platform, adaptive-learning, student-experience, personalized-learning, ai-literacy]
 sources: ['raw/papers/2607.24757.md']
@@ -26,6 +26,10 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[higher-ed]]
 - [[ai-literacy]]
 - [[teacher-role]]
+- [[academic-integrity]]
+- [[learning-analytics]]
+- [[programming-education]]
+
 ## Connected Articles
 
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty

@@ -1,7 +1,7 @@
 ---
 title: "CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation"
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-15
 type: article
 tags: [llm, agentic-ai, rag, question-generation, coding-education, human-in-the-loop, assessment, automated-assessment, programming-education, generative-ai]
 sources: ['raw/papers/2604.03926.md']
@@ -70,6 +70,10 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 - [[rag]]
 - [[automated-assessment]]
 - [[automated-question-generation]]
+- [[programming-education]]
+- [[generative-ai]]
+- [[llm]]
+- [[student-misconceptions-ai]]
 ## Connected Articles
 
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring

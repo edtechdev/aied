@@ -1,7 +1,7 @@
 ---
 title: "Using AI in engineering education: a balancing act, driven by clear purpose"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-15
 type: article
 tags: [higher-ed, llm, stem-education, student-experience, teacher-role, ai-literacy, learning-analytics, k-12]
 sources: ['raw/papers/2606.16626.md']
@@ -30,13 +30,15 @@ The "cruel optimism" argument has direct consequences for pedagogy: the efficien
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[administrator]]
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
-- [[agentic-ai]]
-- [[k-12-ai-education]]
 - [[ai-tutoring]]
-- [[affective-tutoring]]
+- [[llm]]
+- [[higher-ed]]
+- [[critical-thinking]]
+- [[over-reliance]]
+- [[academic-integrity]]
+- [[assessment]]
 
 ## Connected Articles
 

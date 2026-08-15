@@ -1,7 +1,7 @@
 ---
 title: Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, k-12, stem-education, equity, student-experience, learning-analytics, llm]
 sources: ['raw/papers/2606.14718.md']
@@ -31,13 +31,13 @@ For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[administrator]]
 - [[teacher-ai-competency]]
 - [[equity-in-ai-education]]
 - [[bias-mitigation]]
-- [[agentic-ai]]
 - [[k-12-ai-education]]
 - [[k-12]]
+- [[stem-education]]
+- [[student-experience]]
 
 ## Connected Articles
 

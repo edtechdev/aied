@@ -1,7 +1,7 @@
 ---
 title: Engagement Assessment in Video Learning
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-15
 type: article
 tags: [adaptive-learning, learning-analytics, affective-computing, higher-ed, feedback-loop, self-regulated-learning, affective-tutoring, adaptive-learning-systems, formative-assessment]
 sources: ['raw/papers/2605.01238.md']
@@ -57,6 +57,10 @@ Intelligent tutoring systems increasingly include **video components** (e.g., wo
 - [[adaptive-learning]]
 - [[affective-tutoring]]
 - [[self-regulated-learning]]
+- [[student-engagement]]
+- [[learning-analytics]]
+- [[multimodal]]
+- [[affective-computing]]
 ## Connected Articles
 
 - [[multimodal-ai-tutoring]]

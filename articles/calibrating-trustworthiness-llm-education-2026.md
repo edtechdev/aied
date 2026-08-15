@@ -1,7 +1,7 @@
 ---
 title: "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education"
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-15
 type: article
 tags: [llm, ai-ed-evaluation, trust-calibration, human-in-the-loop, instructional-design, edtech-platform, interpretability, visualization]
 sources: ['raw/papers/2608.04006.md']
@@ -24,6 +24,9 @@ LLMs are reshaping educational technology, yet evaluating their responses for pe
 - [[human-in-the-loop-ai]]
 - [[instructional-design]]
 - [[edtech-platform]]
+- [[trust-calibration]]
+- [[trust]]
+- [[benchmark]]
 ## Connected Articles
 
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
