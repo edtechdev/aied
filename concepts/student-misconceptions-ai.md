@@ -26,6 +26,10 @@ A misconception here is not mere ignorance of how a model works — it is an act
 - **The detection miscalibration** — underestimating both institutional detection and, more importantly, the self-harm of submitting work they cannot later explain or defend.
 - **The efficiency illusion** — treating time saved as pure gain, missing that unexercised foundational skills decay and that novices cannot yet tell good output from bad.
 
+### Institutional and public AI myths
+
+Misconceptions are not confined to students — they saturate the institutional and public discourse about AI that students inherit. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] dismantle eight entrenched "myths" that shape higher-education policy and teaching: that AI is genuinely "artificial" (rather than built from exploited human labor), that it is truly "intelligent" and agentic, that it will unproblematically "make the world a better place," that it is "objective and unbiased," that the US holds a sole superpower monopoly, that it will not disrupt the job market, that it "revolutionises higher education," and that teachers can reliably detect AI-generated work. These institutional myths are the upstream source of many student misconceptions documented above — most directly the [[student-experience|neutrality illusion]] ("AI is objective") and the [[trust-calibration|authority fallacy]] ("AI is intelligent"), and the detection miscalibration that leads students to assume undetectable, unverifiable use is safe. Where students absorb and act on institutionally-repeated myths, correcting them requires confronting not only the learner's belief but the discourse that feeds it.
+
 ### Why misconceptions matter for learning
 
 Misconceptions translate directly into the behaviors that cause learning harm. The belief that "AI is always right" suppresses verification; the belief that "using AI is learning" suppresses effortful processing; the belief that "it's not cheating" bypasses the metacognitive review that consolidates understanding. In this sense misconceptions are upstream of the [[ai-misuse-learning-harm]] documented across the wiki's evidence base.
@@ -48,6 +52,8 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 - [[student-experience]]
 
 ## Connected Articles
+
+- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)
 
 - [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
