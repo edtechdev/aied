@@ -36,6 +36,7 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 - [[ai-literacy]]
 ## Connected Articles
 
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[digital-literacy-illusion]]
 - [[genai-assessment-governance]]
 ## Citation

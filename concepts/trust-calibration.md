@@ -41,6 +41,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 ## Connected Articles
 
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education
 - [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics for LLMs in Education

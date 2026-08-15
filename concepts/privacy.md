@@ -39,6 +39,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 
 ## Connected Articles
 
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ai-fatigue-academic-contexts]]
 - [[ai-lms-middle-school-longitudinal]]
 - [[child-safety-genai]]

@@ -37,6 +37,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 - [[teacher-ai-competency]]
 
 ## Connected Articles
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
 - [[ai-acceptance-preservice-science-teachers-2026]]
