@@ -1,0 +1,71 @@
+# AI Ed Wiki License
+
+This repository contains two distinct categories of work with different licenses:
+
+- **Code** — scripts, tooling, site configuration, and source code (`.py`, `.js`, `.astro`, `.ts`, `.json`, `.yml`, `.toml`, shell scripts, and similar) are licensed under the **MIT License** (see below).
+- **Content** — the wiki's textual content: markdown article and concept pages, generated HTML, documentation, and other human-readable prose — is released to the public domain under **Creative Commons Zero (CC0 1.0 Universal)** (see below).
+
+---
+
+## Code: MIT License
+
+MIT License
+
+Copyright (c) 2026 Doug Holton
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Content: Creative Commons Zero (CC0 1.0 Universal)
+
+The textual content of this repository (markdown pages, generated HTML, and
+documentation) is dedicated to the public domain under **CC0 1.0 Universal**.
+
+### CC0 1.0 Universal — Summary
+
+The person who associated a work with this deed has **dedicated** the work to
+the public domain by waiving all of their rights to the work worldwide under
+copyright law, including all related and neighboring rights, to the extent
+allowed by law.
+
+You can copy, modify, distribute, and perform the work, even for commercial
+purposes, all without asking permission.
+
+### CC0 1.0 Universal — Legal Code
+
+To the extent possible under law, the author(s) who dedicated the content to
+the public domain have waived all copyright and related or neighboring rights
+to the content, and the content is made available to the public with no
+restrictions whatsoever.
+
+This work is distributed WITHOUT ANY WARRANTY, express or implied, including
+but not limited to the warranties of merchantability, fitness for a particular
+purpose, and non-infringement. In no event shall the authors be liable for any
+claim, damages, or other liability, whether in an action of contract, tort, or
+otherwise, arising from, out of, or in connection with the work or the use or
+other dealings in the work.
+
+> **Note:** Some wiki articles summarize or cite third-party scholarly papers.
+> Those underlying papers remain the property of their respective authors and
+> publishers and are not covered by this license. This license applies only to
+> the original wiki content authored for this repository.
+
+For the full legal text of CC0 1.0 Universal, see:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
