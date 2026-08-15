@@ -1,7 +1,7 @@
 ---
 title: Assessment in Team Problem-Solving Exercises in Computing Education
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-08-15
 type: article
 tags: [formative-assessment, feedback-loop, learning-analytics, stem-education, higher-ed, student-experience]
 sources: ['raw/papers/2607.19209.md']
@@ -21,6 +21,9 @@ The work situates team problem-solving assessment within [[cs-education]] and br
 - [[learning-analytics]]
 - [[student-experience]]
 - [[higher-ed]]
+- [[assessment]]
+- [[collaborative-learning]]
+- [[automated-assessment]]
 ## Connected Articles
 
 - [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging

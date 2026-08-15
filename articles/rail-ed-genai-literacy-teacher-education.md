@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education"
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, generative-ai, k-12, teacher-role, educational-theory, ai-literacy-in-higher-education, rag, higher-ed]
 sources: ['raw/papers/2608.01705.md']
@@ -31,11 +31,14 @@ Aligned with the UNESCO AI Competency Framework for Teachers and the OECD/Europe
 - [[bias-mitigation]]
 - [[k-12-ai-education]]
 - [[ai-education]]
-- [[affective-tutoring]]
-- [[automated-essay-scoring]]
 - [[curriculum-design]]
 
 - [[tpack]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[human-ai-collaboration]]
+- [[agency]]
+- [[ethics]]
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

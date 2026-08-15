@@ -1,7 +1,7 @@
 ---
 title: "Stanford Evidence Base: AI in K-12 Education"
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [k-12, ai-literacy, evidence, zone-of-proximal-development, k-12-ai-education, ai-tutoring, scaffolding]
 sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
@@ -45,9 +45,9 @@ For the research community, the review functions as both a wake-up call and a ro
 - [[rct]]
 - [[scaffolding]]
 - [[zone-of-proximal-development]]
-
 - [[ai-literacy]]
 - [[transfer-of-learning]] — Transfer of Learning
+- [[meta-analysis-systematic-review]]
 ## Connected Articles
 
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring

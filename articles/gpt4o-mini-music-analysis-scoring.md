@@ -1,7 +1,7 @@
 ---
 title: "Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias"
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-15
 type: article
 tags: [automated-grading, llm, assessment-validity, higher-ed, ai-ed-evaluation, rag]
 sources: ['raw/papers/2608.01783.md']
@@ -28,12 +28,13 @@ Operational use requires strategy-specific calibration, dimension-level validati
 
 - [[formative-assessment]]
 - [[automated-essay-scoring]]
-- [[cs-education]]
-- [[automated-question-generation]]
 - [[ai-ed-evaluation]]
 - [[automated-assessment]]
-- [[socratic-method]]
 - [[prompt-engineering]]
+- [[assessment-validity]]
+- [[automated-grading]]
+- [[higher-ed]]
+- [[educational-measurement]]
 
 ## Connected Articles
 

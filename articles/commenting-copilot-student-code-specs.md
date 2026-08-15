@@ -1,7 +1,7 @@
 ---
 title: "Commenting with Copilot: A Taxonomy and Multi-Year Analysis of Student Code-Generation Specifications"
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-15
 type: article
 tags: [llm, student-experience, stem-education, higher-ed, reshaping-cs-education-genai, ai-literacy, rag]
 sources: ['raw/papers/2607.10674.md']
@@ -30,11 +30,14 @@ As AI code tools become integrated into programming environments, the emphasis o
 
 ## Connected Concepts
 
-- [[llm]]
-- [[student-experience]]
+- [[ai-literacy]]
 - [[cs-education]]
 - [[higher-ed]]
-- [[ai-literacy]]
+- [[llm]]
+- [[programming-education]]
+- [[prompt-engineering]]
+- [[student-experience]]
+
 ## Connected Articles
 
 - [[programming-its]]

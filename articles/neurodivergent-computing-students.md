@@ -1,7 +1,7 @@
 ---
 title: 'I can''t read your mind": A Study of Neurodivergent Computing Students'' Experiences with Collaborative Active Learning'
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-15
 type: article
 tags: [student-experience, cs-education, special-education, equity, collaborative-learning, equity-in-ai-education, scaffolding, ai-education]
 sources: ['raw/papers/2605.23823.md']
@@ -19,6 +19,10 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[equ
 - [[cs-education]]
 - [[student-experience]]
 - [[collaborative-learning]]
+- [[neurodiversity]]
+- [[accessible-learning]]
+- [[active-learning]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[suacode-african-students-motivations]] — Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course

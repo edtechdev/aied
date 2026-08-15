@@ -1,7 +1,7 @@
 ---
 title: "Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study"
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, lifelong-learning, equity, student-experience, edtech-platform, faculty-development, k-12, higher-ed]
 sources: ['raw/papers/2606.26565.md']
@@ -18,12 +18,17 @@ The study contributes design considerations for [[edtech-platform|educational te
 
 ## Connected Concepts
 
+- [[adult-learning]]
 - [[ai-literacy]]
+- [[digital-divide]]
+- [[edtech-platform]]
 - [[equity-in-ai-education]]
+- [[faculty-development]]
 - [[higher-ed]]
 - [[lifelong-learning]]
-- [[edtech-platform]]
-- [[faculty-development]]
+- [[privacy]]
+- [[trust]]
+
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

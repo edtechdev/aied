@@ -1,7 +1,7 @@
 ---
 title: "Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation"
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [generative-ai, feedback-design, higher-ed, scientific-argumentation, self-regulated-learning, peer-feedback, multisite-experiment, transfer, epistemic-agency, rag]
 sources: ['raw/papers/genai-feedback-design-multisite-experiment.md']
@@ -56,8 +56,11 @@ The core insight: **GenAI's educational value depends less on AI access per se t
 - [[generative-ai]]
 - [[higher-ed]]
 - [[self-regulated-learning]]
+- [[agency]]
+- [[feedback-loop]]
+- [[peer-review]]
+- [[transfer-of-learning]]
 
-- [[rag]]
 ## Connected Articles
 
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning

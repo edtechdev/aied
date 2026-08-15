@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education"
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-08-15
 type: article
 tags: [over-reliance, academic-integrity, hallucination-risk, stem-education, feedback-loop, student-experience, ai-education]
 sources: ['raw/papers/2605.00361.md']
@@ -19,6 +19,9 @@ The central finding is a **dual positioning**: ChatGPT is consistently framed as
 - [[academic-integrity]]
 - [[over-reliance]]
 - [[hallucination-risk]]
+- [[programming-education]]
+- [[generative-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[shame-guilt-ai-regulation-computing-education]] — Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education

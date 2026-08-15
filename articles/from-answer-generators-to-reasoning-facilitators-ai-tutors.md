@@ -1,7 +1,7 @@
 ---
 title: "From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments"
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, scaffolding, formative-assessment, higher-ed, automated-grading, learning-analytics, ai-literacy, k-12]
 sources: ['raw/papers/2607.01692.md']
@@ -33,6 +33,11 @@ The findings push back on the assumption that withholding answers is always the 
 - [[scaffolding]]
 - [[student-experience]]
 - [[higher-ed]]
+- [[math-education]]
+- [[ai-tutoring]]
+- [[socratic-method]]
+- [[metacognition]]
+- [[k-12]]
 ## Connected Articles
 
 - [[evaluating-interactivity-automated-assessment-ai-generated-explorable-explanations]] — Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations

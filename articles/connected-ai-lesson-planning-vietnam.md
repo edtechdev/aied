@@ -1,7 +1,7 @@
 ---
 title: "ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, k-12, curriculum-design, teacher-role, global-south, ai-generated-content, teacher-ai-collaboration]
 sources: ['raw/papers/2607.28647.md']
@@ -28,7 +28,9 @@ The Evaluation phase closes the loop by connecting student performance data to i
 - [[ai-education]]
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
-- [[affective-tutoring]]
+- [[curriculum-design]]
+- [[teacher-role]]
+- [[feedback-loop]]
 
 ## Connected Articles
 

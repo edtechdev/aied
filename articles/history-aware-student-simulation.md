@@ -1,7 +1,7 @@
 ---
 title: Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, student-experience, learning-analytics, personalized-learning, reinforcement-learning, ai-literacy, rag]
 sources: ['raw/papers/2605.30051.md']
@@ -22,6 +22,9 @@ A key part of developing large language model (LLM)-powered, automated tutoring 
 - [[student-experience]]
 - [[intelligent-tutoring]]
 - [[learning-analytics]]
+- [[simulating-students]]
+- [[student-modeling]]
+- [[llm]]
 ## Connected Articles
 
 - [[kt4eqg-personalized-question-generation]]

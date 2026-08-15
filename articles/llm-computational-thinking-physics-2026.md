@@ -1,7 +1,7 @@
 ---
 title: Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [llm, computational-thinking, physics-education, stem-education, assessment, higher-ed, automated-grading]
 sources: ['raw/papers/2608.06200.md']
@@ -22,7 +22,9 @@ As computation becomes more central to physics education, scalable methods to as
 - [[physics-education]]
 - [[computational-thinking]]
 - [[stem-education]]
+- [[llm]]
 - [[automated-grading]]
+- [[assessment]]
 - [[educational-measurement]]
 - [[higher-ed]]
 ## Connected Articles

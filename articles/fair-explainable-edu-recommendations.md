@@ -1,7 +1,7 @@
 ---
 title: Fair and explainable educational recommendations with a hybrid Graph-GRU framework
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [ai-education, bias-mitigation, learning-analytics, personalized-learning]
 sources: ['raw/papers/caeai-fair-recommendations.md']
@@ -41,9 +41,10 @@ For [[personalized-learning]] platforms, the work demonstrates that fairness, di
 - [[equity-in-ai-education]]
 - [[adaptive-learning]]
 - [[knowledge-tracing]]
-- [[affective-computing]]
 - [[privacy]]
 - [[knowledge-graph]]
+- [[bias-mitigation]]
+- [[learning-analytics]]
 
 ## Connected Articles
 

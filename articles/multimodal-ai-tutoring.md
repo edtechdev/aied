@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI Tutoring in STEM
 created: 2026-05-07
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [llm, intelligent-tutoring, stem-education, higher-ed, k-12, equity, affective-tutoring, scaffolding, agentic-workflows, visualization]
 sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
@@ -65,10 +65,13 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 - [[agentic-ai]]
 - [[ai-tutoring]]
 - [[math-education]]
-- [[affective-tutoring]]
 - [[teacher-ai-competency]]
 - [[socratic-method]]
-- [[help-seeking]]
+- [[multimodal]]
+- [[llm]]
+- [[stem-education]]
+- [[scaffolding]]
+- [[equity-in-ai-education]]
 
 ## Connected Articles
 

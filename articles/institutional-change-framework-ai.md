@@ -1,7 +1,7 @@
 ---
 title: A Framework for Institutional Change in the Age of AI
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-08-15
 type: article
 tags: [ai-education, institutional-change, faculty-development, higher-ed, pedagogy, stem-education, agentic-ai-ecosystems-higher-education, faculty-development-genai, scaffolding, student-experience]
 sources: ['raw/papers/2605.12757.md']
@@ -75,6 +75,10 @@ The framework was piloted through a faculty workshop series in a university phys
 - [[stem-education]]
 - [[teacher-role]]
 - [[scaffolding]]
+- [[ai-governance-education]]
+- [[teacher-ai-competency]]
+- [[curriculum-design]]
+
 ## Connected Articles
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)

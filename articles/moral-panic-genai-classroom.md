@@ -1,7 +1,7 @@
 ---
 title: "Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption"
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, authentic-assessment, over-reliance, ai-literacy, assessment, rag]
 sources: ['raw/papers/tandf-2026-moral-panic-genai.md']
@@ -48,12 +48,15 @@ The integrated redesign **resolved both academic-integrity and authenticity conc
 
 - [[plagiarism-detection]]
 - [[reducing-ai-misuse]]
-- [[automated-essay-scoring]]
 - [[student-experience]]
 - [[ai-misuse-learning-harm]]
 - [[ai-literacy]]
 - [[student-misconceptions-ai]]
 - [[higher-ed]]
+- [[authentic-assessment]]
+- [[academic-integrity]]
+- [[assessment]]
+- [[over-reliance]]
 
 ## Connected Articles
 

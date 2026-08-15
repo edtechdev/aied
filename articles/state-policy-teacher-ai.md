@@ -1,7 +1,7 @@
 ---
 title: How State Policy Can Help Teachers Use AI Well
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-15
 type: article
 tags: [regulation, teacher-role, k-12, policy-maker, faculty-development, equity-in-ai-education, faculty-development-genai, ai-literacy, ai-education]
 sources: ['raw/papers/state-policy-teacher-ai.md']
@@ -37,9 +37,11 @@ A NASBE/CRPE policy analysis (May 2026) examining how US states can shape condit
 - [[faculty-development]]
 - [[regulation]]
 - [[teacher-role]]
-
 - [[ai-education]]
 - [[k-12]]
+- [[educational-policy-ai]]
+- [[governance]]
+- [[teacher-ai-competency]]
 ## Connected Articles
 
 - [[teacher-ai-adoption-confidence]] — AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes

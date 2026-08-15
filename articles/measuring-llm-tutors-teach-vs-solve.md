@@ -1,7 +1,7 @@
 ---
 title: "Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, feedback-loop, scaffolding, benchmark, learning-analytics, student-experience, agentic-ai, k-12]
 sources: ['raw/papers/2606.16206.md']
@@ -31,11 +31,11 @@ For the [[benchmark]] community and for AI tutor deployment, the findings argue 
 - [[ai-tutoring]]
 - [[pedagogical-llm-training]]
 - [[agentic-ai]]
-- [[affective-tutoring]]
 - [[scaffolding]]
 - [[help-seeking]]
 - [[pedagogical-agent]]
-- [[affective-computing]]
+- [[benchmark]]
+- [[learning-gains]]
 
 ## Connected Articles
 

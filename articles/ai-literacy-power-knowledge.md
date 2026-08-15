@@ -1,7 +1,7 @@
 ---
 title: "AI Literacy: An Exercise in Power-Knowledge"
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, equity, educational-theory, generative-ai]
 sources: ['raw/papers/2607.27547.md']
@@ -30,10 +30,13 @@ For education, the argument shifts the goal of AI literacy instruction from comp
 
 - [[ai-literacy]]
 - [[critical-thinking]]
+- [[agency]]
 - [[equity-in-ai-education]]
+- [[ethics]]
+- [[governance]]
+- [[curriculum-design]]
 - [[student-experience]]
 - [[teacher-ai-competency]]
-- [[bias-mitigation]]
 - [[k-12-ai-education]]
 
 ## Connected Articles

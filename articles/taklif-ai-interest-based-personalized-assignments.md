@@ -1,7 +1,7 @@
 ---
 title: "Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments"
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-15
 type: article
 tags: [higher-ed, generative-ai, llm, personalized-learning, edtech-platform, culturally-relevant-pedagogy, automated-question-generation, ai-tutoring]
 sources: ['raw/papers/2605.05842.md']
@@ -38,6 +38,9 @@ This work connects to the broader [[automated-question-generation]] literature a
 - [[academic-integrity]]
 - [[automated-question-generation]]
 - [[edtech-platform]]
+- [[student-engagement]]
+- [[higher-ed]]
+- [[motivation]]
 ## Connected Articles
 
 - [[genai-performance-vs-learning]]

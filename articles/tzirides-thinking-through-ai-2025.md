@@ -1,7 +1,7 @@
 ---
 title: "Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education"
 created: 2025-01-26
-updated: 2025-01-26
+updated: 2026-08-15
 type: article
 tags: [ai-education, writing-education, k-12, ai-literacy, cognitive-offloading, learnlab, collaborative-learning]
 sources: ['raw/papers/tzirides-thinking-through-ai-2025.md']
@@ -32,6 +32,9 @@ This framework connects to [[collaborative-learning]] and positions [[ai-literac
 - [[ai-literacy]]
 - [[cognitive-offloading]]
 - [[collaborative-learning]]
+- [[human-ai-collaboration]]
+- [[student-engagement]]
+- [[instructional-design]]
 
 ## Connected Articles
 

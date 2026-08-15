@@ -1,7 +1,7 @@
 ---
 title: "Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education"
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [llm, privacy, k-12, pedagogical-safety, intelligent-tutoring]
 sources: ['raw/papers/caeai-llm-unlearning-math.md']
@@ -36,13 +36,15 @@ The findings are limited to the Algebra I context in which unlearning was applie
 ## Connected Concepts
 
 - [[pedagogical-safety]]
-- [[reinforcement-learning]]
 - [[privacy]]
 - [[k-12]]
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
-- [[affective-tutoring]]
 - [[ai-governance-education]]
+- [[llm]]
+- [[math-education]]
+- [[intelligent-tutoring]]
+- [[open-source]]
 
 ## Connected Articles
 

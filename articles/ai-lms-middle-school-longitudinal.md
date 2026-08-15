@@ -1,7 +1,7 @@
 ---
 title: "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-15
 type: article
 tags: [k-12, adaptive-learning, personalized-learning, formative-assessment, intelligent-tutoring, edtech-platform, llm, higher-ed, generative-ai, student-experience]
 confidence: medium
@@ -19,6 +19,11 @@ The emphasis on bounded AI support — rather than open-ended tutoring — disti
 - [[intelligent-tutoring]]
 - [[personalized-learning]]
 - [[scaffolding]]
+- [[k-12]]
+- [[formative-assessment]]
+- [[adaptive-learning]]
+- [[edtech-platform]]
+- [[privacy]]
 ## Connected Articles
 
 - [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions

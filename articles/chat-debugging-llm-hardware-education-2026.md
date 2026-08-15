@@ -1,7 +1,7 @@
 ---
 title: "WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant"
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-15
 type: article
 tags: [llm, cs-education, higher-ed, scaffolding, stem-education, student-experience]
 sources: ['raw/papers/2608.02420.md']
@@ -18,6 +18,8 @@ Work-in-progress exploring LLMs as debugging assistants for physical hardware la
 - [[cs-education]]
 - [[stem-education]]
 - [[student-experience]]
+- [[higher-ed]]
+- [[human-ai-collaboration]]
 ## Connected Articles
 
 - [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy

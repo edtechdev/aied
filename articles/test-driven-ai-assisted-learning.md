@@ -1,7 +1,7 @@
 ---
 title: "Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests"
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-15
 type: article
 tags: [cs-education, llm, active-learning, assessment, higher-ed, automated-grading, scaffolding]
 sources: ['raw/papers/2606.23315.md']
@@ -17,6 +17,8 @@ Liu et al. (2026) report on a 13-week Test-Driven, AI-Assisted (TDAA) redesign o
 - [[assessment]]
 - [[higher-ed]]
 - [[automated-grading]]
+- [[scaffolding]]
+- [[self-regulated-learning]]
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]]

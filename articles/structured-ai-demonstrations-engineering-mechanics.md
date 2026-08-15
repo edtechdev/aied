@@ -1,7 +1,7 @@
 ---
 title: "Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [llm, stem-education, higher-ed, student-experience, teacher-role, scaffolding, efficacy-study, learning-analytics]
 sources: ['raw/papers/2607.28710.md']
@@ -21,14 +21,12 @@ Preliminary data show shifting student behaviors and complex relationships betwe
 
 ## Connected Concepts
 
-- [[administrator]]
-- [[socratic-method]]
-- [[pedagogical-agent]]
-- [[automated-question-generation]]
-- [[agentic-ai]]
-- [[ai-tutoring]]
-- [[math-education]]
 - [[prompt-engineering]]
+- [[stem-education]]
+- [[higher-ed]]
+- [[teacher-role]]
+- [[scaffolding]]
+- [[ai-literacy]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: "Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, educational-theory, equity, human-in-the-loop, automated-grading, ai-literacy]
 sources: ['raw/papers/responsible-assessment-ai-era-stanford-2026.md']
@@ -35,9 +35,11 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 - [[assessment-validity]]
 - [[automated-grading]]
 - [[formative-assessment]]
-
 - [[generative-ai]]
-- [[authentic-assessment]] — Authentic Assessment
+- [[authentic-assessment]]
+- [[equity-in-ai-education]]
+- [[human-in-the-loop-ai]]
+- [[trust]]
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

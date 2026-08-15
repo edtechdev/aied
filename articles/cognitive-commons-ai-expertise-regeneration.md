@@ -1,7 +1,7 @@
 ---
 title: "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [generative-ai, professional-training, educational-theory, cognitive-offloading, lifelong-learning, over-reliance, policy-maker, human-ai-collaboration, rag, ai-education]
 sources: ['raw/papers/2607.29380.md']
@@ -24,14 +24,15 @@ The paper reframes expertise development as collective stewardship rather than o
 
 ## Connected Concepts
 
-- [[open-source]]
-- [[plagiarism-detection]]
-- [[student-experience]]
 - [[ai-misuse-learning-harm]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[critical-thinking]]
-- [[lifelong-learning]]
 - [[generative-ai]]
+- [[governance]]
+- [[human-ai-collaboration]]
+- [[lifelong-learning]]
+- [[over-reliance]]
+- [[professional-training]]
 
 ## Connected Articles
 

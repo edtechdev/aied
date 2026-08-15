@@ -1,7 +1,7 @@
 ---
 title: "DeepTutor: Towards Agentic Personalized Tutoring"
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-15
 type: article
 tags: [llm, agentic-ai, personalized-learning, intelligent-tutoring, rag, question-generation, adaptive-learning, tutoring-systems, generative-ai, automated-question-generation]
 sources: ['raw/papers/2604.26962.md']
@@ -53,6 +53,10 @@ DeepTutor addresses a critical gap in [[intelligent-tutoring]]: the disconnect b
 - [[rag]]
 - [[intelligent-tutoring]]
 - [[adaptive-learning]]
+- [[automated-question-generation]]
+- [[personalized-learning]]
+- [[simulating-students]]
+
 ## Connected Articles
 
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents

@@ -1,7 +1,7 @@
 ---
 title: What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [llm, assessment, professional-training, ai-ed-evaluation, benchmark, automated-grading]
 sources: ['raw/papers/2608.06166.md']
@@ -18,12 +18,12 @@ reports a blind Turing Test evaluating leading LLMs on three Italian professiona
 
 - [[benchmark]]
 - [[human-in-the-loop-ai]]
-- [[formative-assessment]]
 - [[automated-essay-scoring]]
-- [[automated-question-generation]]
 - [[ai-ed-evaluation]]
 - [[open-source]]
-- [[cs-education]]
+- [[assessment]]
+- [[professional-training]]
+- [[llm]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: "Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, special-education, equity, bias-mitigation, llm, student-experience, ai-literacy, scaffolding, stem-education]
 confidence: high
@@ -34,6 +34,9 @@ For the [[special-education]] AIED community, this paper raises the stakes beyon
 - [[bias-mitigation]]
 - [[special-education]]
 - [[ai-literacy]]
+- [[ethics]]
+- [[accessible-learning]]
+- [[culturally-relevant-pedagogy]]
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)

@@ -1,7 +1,7 @@
 ---
 title: "LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching"
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, personalized-learning, higher-ed, intelligent-tutoring, pedagogical-llm-training, rag]
 sources: ['raw/papers/2606.16428.md']
@@ -34,10 +34,10 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[personalized-learning]]
 - [[pedagogical-llm-training]]
 - [[pedagogical-agent]]
-- [[affective-computing]]
-- [[lifelong-learning]]
-- [[socratic-method]]
-- [[affective-tutoring]]
+- [[intelligent-tutoring]]
+- [[adaptive-learning]]
+- [[embodied-learning]]
+- [[multimodal]]
 - [[teacher-ai-competency]]
 
 ## Connected Articles

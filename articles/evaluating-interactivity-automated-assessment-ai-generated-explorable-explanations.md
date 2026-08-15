@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations"
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-15
 type: article
 tags: [ai-generated-content, formative-assessment, learning-analytics, higher-ed, llm, automated-grading, scaffolding, ai-literacy, k-12]
 sources: ['raw/papers/2606.31012.md']
@@ -33,6 +33,9 @@ For educators and tool builders, EE-Eval offers a diagnostic lens: instead of as
 - [[formative-assessment]]
 - [[learning-analytics]]
 - [[higher-ed]]
+- [[automated-assessment]]
+- [[active-learning]]
+- [[human-ai-collaboration]]
 ## Connected Articles
 
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation

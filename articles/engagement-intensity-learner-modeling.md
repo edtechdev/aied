@@ -1,7 +1,7 @@
 ---
 title: Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-15
 type: article
 tags: [personalized-learning, adaptive-learning, ai-literacy, higher-ed, engagement-metrics, student-experience, adaptive-learning-systems, ethics, llm]
 sources: ['raw/papers/2606.18548.md']
@@ -38,8 +38,12 @@ The cross-sectional design does not establish directionality: engagement may sha
 - [[affective-tutoring]]
 - [[bias-mitigation]]
 - [[affective-computing]]
-- [[prompt-engineering]]
 - [[knowledge-tracing]]
+- [[trust-calibration]]
+- [[over-reliance]]
+- [[ethics]]
+- [[higher-ed]]
+- [[student-engagement]]
 
 ## Connected Articles
 

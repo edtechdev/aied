@@ -1,7 +1,7 @@
 ---
 title: "Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education"
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, academic-integrity, policy-maker, ai-literacy, genai-policy-prompting-rct, student-experience, regulation, rag]
 sources: ['raw/papers/2606.13389.md']
@@ -22,6 +22,9 @@ This domain-specific approach is proposed as a foundation for fostering more hon
 - [[ai-literacy]]
 - [[educational-policy-ai]]
 - [[student-experience]]
+- [[regulation]]
+- [[ai-governance-education]]
+
 ## Connected Articles
 
 - [[ai-higher-ed-bridge-gap]]

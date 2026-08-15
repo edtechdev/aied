@@ -1,7 +1,7 @@
 ---
 title: "Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI"
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, edtech-platform, generative-ai, k-12, teacher-role]
 sources: ['raw/papers/2606.30590.md']
@@ -17,6 +17,8 @@ Mansi et al. (2026) introduce Concept Catalyst, a system designed around 'scruta
 - [[teacher-role]]
 - [[ai-literacy]]
 - [[k-12]]
+- [[trust]]
+- [[human-in-the-loop-ai]]
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

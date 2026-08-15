@@ -1,7 +1,7 @@
 ---
 title: "ANVIL: Analogies and Videos for Lecturers"
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, instructional-design, higher-ed, cs-education, teacher-role, multimodal]
 sources: ['raw/papers/2605.16295.md']
@@ -22,6 +22,8 @@ The positive educator response to perceived value and usability suggests that AI
 - [[cs-education]]
 - [[stem-education]]
 - [[faculty-development]]
+- [[multimodal]]
+- [[llm]]
 ## Connected Articles
 
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education

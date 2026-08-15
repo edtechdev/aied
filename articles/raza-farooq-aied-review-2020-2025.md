@@ -1,7 +1,7 @@
 ---
 title: "Review of Artificial Intelligence in Education from 2020 to 2025"
 created: 2025-10-31
-updated: 2025-10-31
+updated: 2026-08-15
 type: article
 tags: [ai-education, systematic-review, personalized-learning, generative-ai, learning-analytics, intelligent-tutoring, ai-literacy, adaptive-learning]
 sources: ['raw/papers/raza-farooq-aied-review-2020-2025.md']
@@ -40,6 +40,10 @@ This review provides a structured map of the AIED landscape during the LLM era (
 - [[multimodal]]
 - [[edtech-platform]]
 - [[ai-governance-education]]
+- [[meta-analysis-systematic-review]]
+- [[human-ai-collaboration]]
+- [[privacy]]
+- [[authentic-assessment]]
 
 ## Connected Articles
 

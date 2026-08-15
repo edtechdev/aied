@@ -1,7 +1,7 @@
 ---
 title: "Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts"
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, cognitive-offloading, generative-ai, higher-ed, prompt-engineering]
 sources: ['raw/papers/caeai-same-ai-different-pathways.md']
@@ -37,6 +37,9 @@ The design is non-experimental, so causal claims remain tentative despite theory
 - [[generative-ai]]
 - [[higher-ed]]
 - [[prompt-engineering]]
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[trust-calibration]]
 
 ## Connected Articles
 

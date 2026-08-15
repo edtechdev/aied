@@ -1,7 +1,7 @@
 ---
 title: Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-08-15
 type: article
 tags: [equity, generative-ai, human-in-the-loop, k-12, llm, student-experience, human-ai-collaboration, ai-literacy, teacher-role]
 sources: ['raw/papers/2606.12805.md']
@@ -29,6 +29,9 @@ The findings advance understanding of how GenAI's sociolinguistic design feature
 - [[human-ai-collaboration]]
 - [[teacher-role]]
 - [[ai-literacy]]
+- [[trust]]
+- [[collaborative-learning]]
+- [[culturally-relevant-pedagogy]]
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

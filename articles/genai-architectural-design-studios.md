@@ -1,7 +1,7 @@
 ---
 title: Development and applications of Generative AI in architectural design studios
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, student-experience, active-learning]
 sources: ['raw/papers/2607.24752.md']
@@ -30,12 +30,11 @@ For [[design-thinking]]-oriented disciplines, the results suggest GenAI is best 
 
 - [[higher-ed]]
 - [[design-thinking]]
-- [[socratic-method]]
 - [[teacher-role]]
-- [[math-education]]
 - [[prompt-engineering]]
-- [[affective-tutoring]]
-- [[plagiarism-detection]]
+- [[generative-ai]]
+- [[creativity]]
+- [[student-experience]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: "The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-08-15
 type: article
 tags: [k-12, ai-literacy, student-experience, equity, efficacy-study, genai-minoritized-knowledges-disability]
 sources: ['raw/papers/2605.26010.md']
@@ -26,12 +26,16 @@ With 76.5% of students demanding pedagogical reform toward hands-on, active tech
 - [[over-reliance]]
 - [[ai-literacy]]
 - [[k-12]]
+- [[self-efficacy]]
+- [[cognitive-offloading]]
+
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[cognitive-offloading-speedup-illusion]]
 - [[genai-assessment-governance]]
 - [[ai-fatigue-academic-contexts]]
+
 ## Citation
 
 Rodriguez-Alvarez, N., Blanch-Marsolini, A. M., Vara-Gutierrez, S., Gil-Garcia, H., Calzon-Dueñas, J., & Rodriguez-Merino, F. (2026). [The illusion of competence: Self-perceived digital literacy and AI readiness among European secondary students](https://arxiv.org/abs/2605.26010). arXiv:2605.26010. cs.CY.

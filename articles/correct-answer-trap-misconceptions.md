@@ -1,7 +1,7 @@
 ---
 title: "The Correct Answer Trap: Pedagogically-Grounded Detection and Feedback for Hidden Misconceptions"
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-15
 type: article
 tags: [formative-assessment, llm, automated-grading, k-12, student-modeling]
 sources: ['raw/papers/2606.23205.md']
@@ -17,6 +17,9 @@ Imran and Bulathwela (2026) identify the 'correct answer trap' — automated fee
 - [[intelligent-tutoring]]
 - [[automated-grading]]
 - [[k-12]]
+- [[student-misconceptions-ai]]
+- [[math-education]]
+- [[llm]]
 ## Connected Articles
 
 - [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences

@@ -1,7 +1,7 @@
 ---
 title: "Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [higher-ed, student-experience, generative-ai, engagement-metrics, rct, rag, llm]
 sources: ['raw/papers/lets-chat-chatbot-outreach-2026.md']
@@ -35,12 +35,13 @@ confidence: high
 
 ## Connected Concepts
 
-- [[generative-ai]]
 - [[higher-ed]]
 - [[student-experience]]
+- [[rct]]
+- [[student-engagement]]
+- [[motivation]]
+- [[help-seeking]]
 
-- [[llm]]
-- [[rag]]
 ## Connected Articles
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world

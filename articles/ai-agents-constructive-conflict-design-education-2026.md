@@ -1,7 +1,7 @@
 ---
 title: Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-15
 type: article
 tags: [agentic-ai, design-thinking, higher-ed, scaffolding, student-ai-interaction, collaborative-learning]
 sources: ['raw/papers/2608.04166.md']
@@ -18,6 +18,8 @@ Investigates adversarial AI design agents that enact constructive conflict to pr
 - [[student-experience]]
 - [[design-thinking]]
 - [[socratic-method]]
+- [[creativity]]
+- [[human-ai-collaboration]]
 ## Connected Articles
 
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning

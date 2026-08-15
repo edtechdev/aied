@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-08-15
 type: article
 tags: [cs-education, llm, scaffolding, personalized-learning, ai-literacy, mastery-learning]
 sources: ['raw/papers/2606.03288.md']
@@ -33,6 +33,9 @@ The study is a cautionary counterpoint to enthusiasm for AI-generated learning m
 - [[personalized-learning]]
 - [[stem-education]]
 - [[adaptive-learning]]
+- [[cognitive-load-theory]]
+- [[student-engagement]]
+
 ## Connected Articles
 
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks

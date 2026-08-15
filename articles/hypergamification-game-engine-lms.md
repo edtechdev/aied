@@ -1,7 +1,7 @@
 ---
 title: "Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [edtech-platform, active-learning, engagement-metrics, blended-learning, k-12, higher-ed, learning-analytics, student-experience]
 sources: ['raw/papers/2607.29300.md']
@@ -22,13 +22,14 @@ The authors discuss limitations (integration complexity, content-authoring burde
 ## Connected Concepts
 
 - [[active-learning]]
-- [[affective-computing]]
-- [[math-education]]
-- [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
 - [[administrator]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
+- [[gamification]]
+- [[game-based-learning]]
+- [[edtech-platform]]
+- [[student-engagement]]
+- [[engagement-metrics]]
 
 ## Connected Articles
 

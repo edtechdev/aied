@@ -1,12 +1,14 @@
 ---
 title: How Students (Mis)understand Conditionals and Loops -- A Taxonomy
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-08-15
 type: article
 tags: [cs-education, stem-education, student-experience, higher-ed, benchmark, llm, generative-ai, ai-literacy, scaffolding, intelligent-tutoring]
 confidence: high
 sources: []
----## Overview
+---
+
+## Overview
 
 This paper presents a fine-grained taxonomy categorizing novice programmers' difficulties with reading and understanding control flow constructs — specifically conditionals (selection) and loops (iteration). Developed through the Extended Taxonomy Design Process (ETDP), the taxonomy integrates prior research with new empirical data from student quizzes and interviews. It provides a harmonized framework for [[cs-education]] researchers to classify and analyze student errors systematically.
 
@@ -34,6 +36,9 @@ For educators, the taxonomy supports more precise diagnosis of student difficult
 - [[student-experience]]
 - [[formative-assessment]]
 - [[assessment-validity]]
+- [[computational-thinking]]
+- [[programming-education]]
+- [[cognitive-diagnosis]]
 ## Connected Articles
 
 - [[programming-its]]

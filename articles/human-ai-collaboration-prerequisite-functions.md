@@ -1,7 +1,7 @@
 ---
 title: "What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, scaffolding, active-learning, student-experience, teacher-role, learning-analytics, llm, k-12]
 sources: ['raw/papers/2606.15509.md']
@@ -38,6 +38,10 @@ For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapt
 - [[help-seeking]]
 - [[pedagogical-agent]]
 - [[pedagogical-llm-training]]
+- [[human-ai-collaboration]]
+- [[teacher-role]]
+- [[agency]]
+- [[self-regulated-learning]]
 
 ## Connected Articles
 

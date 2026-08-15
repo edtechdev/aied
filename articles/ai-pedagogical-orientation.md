@@ -1,7 +1,7 @@
 ---
 title: Faculty Orientations Shape Adoption of AI in Research and Teaching
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-08-15
 type: article
 tags: [faculty-development, higher-ed, stem-education, ai-literacy, institutional-change, pedagogy, teacher-role, teacher-ai-competency, faculty-development-genai, scaffolding]
 sources: ['raw/papers/2605.18140.md']
@@ -61,10 +61,12 @@ These are not resolvable by more information or better tools — they require di
 
 ## Connected Concepts
 
-- [[scaffolding]]
 - [[faculty-development]]
 - [[teacher-role]]
 - [[ai-literacy]]
+- [[higher-ed]]
+- [[teacher-ai-competency]]
+- [[stem-education]]
 ## Connected Articles
 
 - [[teacher-ai-adoption-confidence]]

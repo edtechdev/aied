@@ -1,7 +1,7 @@
 ---
 title: Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-08-15
 type: article
 tags: [knowledge-tracing, intelligent-tutoring, llm, personalized-learning, feedback-loop]
 sources: ['raw/papers/2605.01097.md']
@@ -20,10 +20,10 @@ The framework was validated across two tutor-student dialogue datasets and outpe
 - [[adaptive-learning]]
 - [[knowledge-tracing]]
 - [[pedagogical-agent]]
-- [[affective-computing]]
-- [[reinforcement-learning]]
-- [[lifelong-learning]]
 - [[personalized-learning]]
+- [[item-response-theory]]
+- [[student-modeling]]
+- [[llm]]
 
 ## Connected Articles
 
@@ -37,6 +37,7 @@ The framework was validated across two tutor-student dialogue datasets and outpe
 - [[access-not-enough-ai-tutoring-2026]]
 - [[adapt-adaptive-lesson-plan-transformer]]
 - [[agent-voice-accents-k12-group-learning]]
+
 ## Citation
 
 Huang et al. (2026). [Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues](https://arxiv.org/abs/2605.01097). arXiv:2605.01097. arXiv preprint.

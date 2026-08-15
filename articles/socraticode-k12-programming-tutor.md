@@ -1,7 +1,7 @@
 ---
 title: "Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, k-12, scaffolding, student-experience, stem-education, self-regulated-learning, human-in-the-loop-ai, metacognition]
 sources: ['raw/papers/2605.17857.md']
@@ -20,6 +20,10 @@ SocratiCode demonstrates a participatory design evolution from directive AI tuto
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[human-in-the-loop-ai]]
+- [[programming-education]]
+- [[k-12]]
+- [[socratic-method]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[codify-socratic-tutoring-programming]]

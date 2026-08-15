@@ -1,7 +1,7 @@
 ---
 title: "Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-15
 type: article
 tags: [writing-education, llm, student-experience, higher-ed, ai-literacy, generative-ai, intelligent-tutoring, scaffolding, k-12, stem-education]
 confidence: high
@@ -15,8 +15,12 @@ This study compares two approaches to profiling how learners offload cognitive a
 ## Connected Concepts
 
 - [[ai-literacy]]
+- [[cognitive-offloading]]
 - [[formative-assessment]]
+- [[llm]]
 - [[self-regulated-learning]]
+- [[writing-education]]
+
 ## Connected Articles
 
 - [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)

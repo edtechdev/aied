@@ -1,7 +1,7 @@
 ---
 title: Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-15
 type: article
 tags: [assessment, accessible-learning, privacy, academic-integrity, equity, adaptive-learning, higher-ed]
 sources: ['raw/papers/2608.03531.md']
@@ -24,6 +24,8 @@ Institutions increasingly rely on browser lockdown, webcam monitoring, and behav
 - [[academic-integrity]]
 - [[equity-in-ai-education]]
 - [[adaptive-learning]]
+- [[reducing-ai-misuse]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)

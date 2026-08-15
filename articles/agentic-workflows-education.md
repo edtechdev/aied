@@ -1,7 +1,7 @@
 ---
 title: Agentic Workflows in Education
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-15
 type: article
 tags: [agentic-ai, ai-education, benchmark, intelligent-tutoring, pedagogical-llm-training, human-in-the-loop-ai, persistent-ai-agents-academic-research, adaptive-learning-systems]
 sources: ['raw/papers/kamalov-agentic-workflows-education-2026.md']
@@ -44,11 +44,13 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[pedagogical-llm-training]]
-
 - [[agentic-ai]]
 - [[ai-education]]
-
 - [[authentic-assessment]] — Authentic Assessment
+- [[automated-essay-scoring]]
+- [[intelligent-tutoring]]
+- [[human-ai-collaboration]]
+- [[metacognition]]
 
 ## Connected Articles
 

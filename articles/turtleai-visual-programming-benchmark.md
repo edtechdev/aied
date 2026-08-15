@@ -1,7 +1,7 @@
 ---
 title: "TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics"
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [benchmark, cs-education, k-12, multimodal]
 sources: ['raw/papers/2606.03626.md']
@@ -16,14 +16,13 @@ Vision-language models (VLMs) have been explored for visual programming, where t
 
 ## Connected Concepts
 
-- [[human-in-the-loop-ai]]
-- [[pedagogical-llm-training]]
 - [[computational-thinking]]
 - [[stem-education]]
 - [[math-education]]
-- [[educational-policy-ai]]
-- [[formative-assessment]]
-- [[affective-tutoring]]
+- [[pedagogical-llm-training]]
+- [[benchmark]]
+- [[multimodal]]
+- [[k-12]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: OECD Digital Education Outlook 2026
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-15
 type: article
 tags: [generative-ai, pedagogy, tutoring, teacher-support, assessment, policy, oecd, higher-ed, k-12, ai-literacy]
 sources: ['raw/papers/oecd-digital-education-outlook-2026.md']
@@ -62,11 +62,15 @@ A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with inte
 ## Connected Concepts
 
 - [[ai-tutoring]]
-
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[higher-ed]]
 - [[k-12]]
+- [[educational-policy-ai]]
+- [[equity-in-ai-education]]
+- [[critical-thinking]]
+- [[collaborative-learning]]
+- [[digital-divide]]
 ## Connected Articles
 
 - [[codify-socratic-tutoring-programming]] — Codify: An Intelligent Socratic Tutoring System for Programming Education

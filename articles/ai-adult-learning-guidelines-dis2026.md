@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Designing AI Technologies to Support Adult Learning
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-15
 type: article
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation, rag]
 sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']
@@ -82,6 +82,10 @@ The guidelines span four categories:
 - [[personalized-learning]]
 - [[professional-training]]
 - [[rag]]
+- [[instructional-design]]
+- [[scaffolding]]
+- [[self-regulated-learning]]
+- [[motivation]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

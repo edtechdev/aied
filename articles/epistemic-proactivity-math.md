@@ -1,7 +1,7 @@
 ---
 title: "From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning"
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, k-12, metacognition, stem-education, student-experience, self-regulated-learning, llm, scaffolding, math-education]
 sources: ['raw/papers/2606.28472.md']
@@ -20,6 +20,8 @@ Abdelghani, Kaiser & Murayama (2026) trace how middle and high school students' 
 - [[k-12]]
 - [[student-experience]]
 - [[scaffolding]]
+- [[ai-tutoring]]
+- [[help-seeking]]
 ## Connected Articles
 
 - [[kar-mathbuddy-affective-math-tutoring-2025]]

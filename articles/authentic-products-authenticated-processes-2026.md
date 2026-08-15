@@ -1,7 +1,7 @@
 ---
 title: "From authentic products to authenticated processes: authentic assessment in AI-rich higher education"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [authentic-assessment, assessment, assessment-validity, ai-ed-evaluation, generative-ai, academic-integrity, higher-ed, ai-literacy, formative-assessment, llm]
 sources: ['raw/papers/authentic-products-authenticated-processes-2026.md']
@@ -37,11 +37,13 @@ The framework becomes a **review instrument for assessment briefs**: teams exami
 - [[ai-literacy]]
 - [[assessment-validity]]
 - [[formative-assessment]]
-
 - [[generative-ai]]
 - [[higher-ed]]
 - [[llm]]
 - [[authentic-assessment]] — Authentic Assessment
+- [[academic-integrity]]
+- [[assessment]]
+- [[agency]]
 ## Connected Articles
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world

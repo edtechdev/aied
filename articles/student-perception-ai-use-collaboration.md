@@ -1,7 +1,7 @@
 ---
 title: Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-15
 type: article
 tags: [student-experience, cs-education, collaborative-ai-tutoring, over-reliance, higher-ed, ai-tutoring]
 sources: ['raw/papers/2606.23237.md']
@@ -16,6 +16,9 @@ Graf et al. (2026) identify a new challenge in collaborative programming educati
 - [[cs-education]]
 - [[over-reliance]]
 - [[academic-integrity]]
+- [[collaborative-learning]]
+- [[human-ai-collaboration]]
+- [[trust]]
 ## Connected Articles
 
 - [[collaborative-ai-tutoring]]

@@ -1,7 +1,7 @@
 ---
 title: "MathBuddy: Affective Math Tutoring"
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [math-education, affective-computing, intelligent-tutoring, k-12, pedagogical-llm-training, affective-tutoring, open-source, rag]
 sources: ['raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md']
@@ -46,6 +46,10 @@ Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) 
 - [[ai-tutoring]]
 - [[student-modeling]]
 - [[rag]]
+- [[multimodal]]
+- [[instructional-design]]
+- [[student-engagement]]
+- [[social-emotional-learning]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]]

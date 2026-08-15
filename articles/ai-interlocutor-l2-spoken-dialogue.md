@@ -1,7 +1,7 @@
 ---
 title: What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-15
 type: article
 tags: [language-learning, llm, intelligent-tutoring, student-experience, personalized-learning]
 sources: ['raw/papers/2606.22225.md']
@@ -17,6 +17,8 @@ Scheinberg et al. (2026) analyze 78 university learners of German across four si
 - [[student-experience]]
 - [[personalized-learning]]
 - [[llm]]
+- [[human-ai-collaboration]]
+
 ## Connected Articles
 
 - [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges

@@ -1,7 +1,7 @@
 ---
 title: "Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition"
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [generative-ai, adaptive-learning, mastery-learning, student-experience]
 sources: ['raw/papers/2607.25096.md']
@@ -31,12 +31,10 @@ Memdora illustrates how AI-powered spaced repetition can move beyond scheduling 
 
 - [[self-regulated-learning]]
 - [[adaptive-learning]]
-- [[affective-tutoring]]
-- [[pedagogical-llm-training]]
-- [[affective-computing]]
 - [[personalized-learning]]
-- [[math-education]]
-- [[higher-ed]]
+- [[desirable-difficulties]]
+- [[motivation]]
+- [[learning-gains]]
 
 ## Connected Articles
 

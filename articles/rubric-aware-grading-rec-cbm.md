@@ -1,7 +1,7 @@
 ---
 title: "REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading"
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-08-15
 type: article
 tags: [automated-grading, llm, formative-assessment, higher-ed, scaffolding, efficacy-study, generative-ai, ai-literacy, assessment-validity]
 sources: ['raw/papers/2605.27402.md']
@@ -17,6 +17,9 @@ confidence: medium
 - [[assessment-validity]]
 - [[formative-assessment]]
 - [[scaffolding]]
+- [[automated-essay-scoring]]
+- [[educational-measurement]]
+- [[human-in-the-loop-ai]]
 ## Connected Articles
 
 - [[genai-assessment-governance]]

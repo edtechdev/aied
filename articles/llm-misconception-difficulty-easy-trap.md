@@ -1,7 +1,7 @@
 ---
 title: "The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty"
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-15
 type: article
 tags: [llm, formative-assessment, adaptive-learning, feedback-loop, student-experience, stem-education, higher-ed, personalized-learning, ai-literacy, teacher-role]
 sources: ['raw/papers/2607.26067.md']
@@ -26,6 +26,10 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[higher-ed]]
 - [[ai-literacy]]
 - [[teacher-role]]
+- [[student-misconceptions-ai]]
+- [[llm]]
+- [[math-education]]
+
 ## Connected Articles
 
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes

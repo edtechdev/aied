@@ -1,7 +1,7 @@
 ---
 title: Collaborative AI Literacy Framework
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, collaborative-learning, instructional-design, ai-literacy-assessment-misalignment, k-12-ai-education, llm, higher-ed]
 sources: ['raw/papers/hingle-collaborative-ai-literacy-2025.md']
@@ -36,9 +36,13 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 
 - [[ai-literacy]]
 - [[k-12-ai-education]]
-
 - [[higher-ed]]
 - [[llm]]
+- [[collaborative-learning]]
+- [[icap-framework]]
+- [[active-learning]]
+- [[instructional-design]]
+- [[ai-literacy-assessment-misalignment]]
 
 ## Connected Articles
 
@@ -67,7 +71,6 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[ai-literacy-assessment-misalignment]]
 ## Citation
 
 Hingle, A., & Johri, A. (2025). [Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1). arXiv:2508.15111.

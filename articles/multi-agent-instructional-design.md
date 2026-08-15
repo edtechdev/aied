@@ -1,7 +1,7 @@
 ---
 title: Multi-Agent Systems for Instructional Design
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-15
 type: article
 tags: [agentic-ai, ai-literacy, human-in-the-loop, k-12, pedagogical-safety, agentic-ai-ecosystems-higher-education, human-in-the-loop-ai, faculty-development-genai, metacognition]
 sources: ['raw/papers/2508.16659.md']
@@ -103,12 +103,13 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
-- [[help-seeking]]
 - [[metacognition]]
 - [[agentic-ai]]
-- [[reducing-ai-misuse]]
 - [[ethics]]
-- [[affective-tutoring]]
+- [[instructional-design]]
+- [[k-12]]
+- [[curriculum-design]]
+- [[prompt-engineering]]
 
 ## Connected Articles
 

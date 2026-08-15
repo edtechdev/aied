@@ -1,7 +1,7 @@
 ---
 title: Culturally-Aware AI for Cross-Boundary Community Learning
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-15
 type: article
 tags: [higher-ed, ai-literacy, equity, student-experience, teacher-role, intelligent-tutoring]
 sources: ['raw/papers/2606.09041.md']
@@ -21,6 +21,9 @@ The framework emphasizes [[equity-in-ai-education|cultural contextualization]] o
 - [[equity-in-ai-education]]
 - [[student-experience]]
 - [[higher-ed]]
+- [[collaborative-learning]]
+- [[culturally-relevant-pedagogy]]
+
 ## Connected Articles
 
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

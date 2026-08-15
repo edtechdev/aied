@@ -1,7 +1,7 @@
 ---
 title: 'A bit of chaos and madness: The AI Assessment Scale and the work of assessment reform'
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-08-15
 type: article
 tags: [higher-ed, assessment, academic-integrity, generative-ai, teacher-role, policy-maker, ai-literacy]
 sources: ['raw/papers/2606.26729.md']
@@ -24,6 +24,8 @@ The findings have implications for [[teacher-role|faculty development]] and [[ed
 - [[teacher-role]]
 - [[educational-policy-ai]]
 - [[ai-literacy]]
+- [[authentic-assessment]]
+- [[faculty-development]]
 ## Connected Articles
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world

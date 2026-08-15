@@ -1,7 +1,7 @@
 ---
 title: "Human-AI Co-Mentorship in Project-Based Learning: A Case Study in Financial Forecasting"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-15
 type: article
 tags: [stem-education, k-12, higher-ed, active-learning, scaffolding, personalized-learning, project-based-learning, ai-tutoring, agentic-workflows]
 sources: ['raw/papers/2605.05144.md']
@@ -25,12 +25,15 @@ This model bridges [[agentic-workflows-education]] and practical classroom imple
 
 - [[math-education]]
 - [[pedagogical-agent]]
-- [[reinforcement-learning]]
 - [[intelligent-tutoring]]
 - [[socratic-method]]
 - [[active-learning]]
 - [[teacher-role]]
 - [[lifelong-learning]]
+- [[project-based-learning]]
+- [[human-ai-collaboration]]
+- [[ai-tutoring]]
+- [[scaffolding]]
 
 ## Connected Articles
 

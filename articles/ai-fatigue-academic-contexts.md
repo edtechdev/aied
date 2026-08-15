@@ -1,7 +1,7 @@
 ---
 title: "Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory"
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-15
 type: article
 tags: [student-experience, over-reliance, ai-literacy, higher-ed, affective-computing, self-regulated-learning]
 sources: ['raw/papers/2605.23123.md']
@@ -20,6 +20,9 @@ This construct has significant implications for [[over-reliance]] research: AI f
 - [[self-regulated-learning]]
 - [[affective-computing]]
 - [[student-experience]]
+- [[cognitive-load-theory]]
+- [[motivation]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[learning-by-chatting-genai-impact]]
@@ -28,7 +31,9 @@ This construct has significant implications for [[over-reliance]] research: AI f
 - [[youtube-frames-chatgpt-education]]
 - [[buggy-genai-code-student-responses]]
 - [[ai-making-us-stupid]]
+- [[digital-literacy-illusion]] — Overconfident students may paradoxically disengage from AI learning
+- [[ai-productivity-moderation]] — Incentive structures moderate whether AI adoption leads to fatigue or growth
 
 ## Citation
 
-John Paul P. Miranda, Emmanuel B. Parreno, Jovita G. Rivera (2026). [Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory](https://arxiv.org/abs/2605.23123). arXiv:2605.23123. International Journal of Learning, Teaching and Educational Research, 25(5), 91-107 (2026). - [[digital-literacy-illusion]] — Overconfident students may paradoxically disengage from AI learning - [[ai-productivity-moderation]] — Incentive structures moderate whether AI adoption leads to fatigue or growth
+John Paul P. Miranda, Emmanuel B. Parreno, Jovita G. Rivera (2026). [Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory](https://arxiv.org/abs/2605.23123). arXiv:2605.23123. International Journal of Learning, Teaching and Educational Research, 25(5), 91-107 (2026).

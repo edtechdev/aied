@@ -1,7 +1,7 @@
 ---
 title: "AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI"
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, learning-analytics, llm, student-experience, ai-literacy]
 sources: ['raw/papers/2606.29442.md']
@@ -16,6 +16,10 @@ Karidi, Amir & Roll (2026) present one of the largest empirical analyses to date
 - [[student-experience]]
 - [[generative-ai]]
 - [[ai-literacy]]
+- [[learning-analytics]]
+- [[higher-ed]]
+- [[cognitive-offloading]]
+
 ## Connected Articles
 
 - [[ai-higher-ed-bridge-gap]]

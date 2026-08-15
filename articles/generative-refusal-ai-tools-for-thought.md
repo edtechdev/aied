@@ -1,7 +1,7 @@
 ---
 title: "Stop Writing for Me: Generative Refusal in AI Tools for Thought"
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [generative-ai, writing-education, scaffolding, educational-theory, over-reliance]
 sources: ['raw/papers/2607.24751.md']
@@ -31,11 +31,10 @@ The position paper generalizes beyond theater: wherever the labor of articulatio
 - [[over-reliance]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[open-source]]
 - [[writing-education]]
 - [[reducing-ai-misuse]]
-- [[math-education]]
 - [[creativity]]
+- [[metacognition]]
 
 ## Connected Articles
 

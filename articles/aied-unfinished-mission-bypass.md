@@ -1,7 +1,7 @@
 ---
 title: "AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass"
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-08-15
 type: article
 tags: [over-reliance, student-experience, self-regulated-learning, metacognition, teacher-role, formative-assessment, generative-ai]
 sources: ['raw/papers/2607.05557.md']
@@ -21,6 +21,11 @@ This work connects to core wiki themes: [[over-reliance]] [[student-experience]]
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[teacher-role]]
+- [[agency]]
+- [[motivation]]
+- [[generative-ai]]
+- [[formative-assessment]]
+- [[self-determination-theory]]
 ## Connected Articles
 
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning

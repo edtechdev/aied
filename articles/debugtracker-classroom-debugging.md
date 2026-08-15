@@ -1,7 +1,7 @@
 ---
 title: "DebugTracker: Lightweight Process Evidence for Classroom Debugging"
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-15
 type: article
 tags: [programming-its, learning-analytics, formative-assessment, cs-education, higher-ed, feedback-loop, student-experience]
 sources: ['raw/papers/2607.05871.md']
@@ -23,9 +23,13 @@ Debugging exercises are usually graded from final code and test outcomes, which 
 - [[feedback-loop]]
 - [[learning-analytics]]
 - [[student-experience]]
+- [[programming-education]]
+- [[computational-thinking]]
+
 ## Connected Articles
 
 - [[programming-its]]
+
 ## Citation
 
 Liu, J., Yao, X., Zhang, Z., & Tian, Y. (2026). [DebugTracker: Lightweight Process Evidence for Classroom Debugging](https://arxiv.org/abs/2607.05871). arXiv:2607.05871.

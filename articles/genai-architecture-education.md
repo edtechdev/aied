@@ -1,7 +1,7 @@
 ---
 title: "Gen-AI-tecture: using generative AI to support architectural students in design tasks"
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, student-experience, creative-thinking, ai-literacy, personalized-learning, equity, professional-training, educational-measurement, constructivist]
 sources: ['raw/papers/2605.21361.md']
@@ -23,6 +23,10 @@ The emphasis on locally executed (non-cloud) AI is also noteworthy for [[educati
 - [[educational-measurement]]
 - [[constructivist]]
 - [[faculty-development]]
+- [[creativity]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[design-thinking]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]

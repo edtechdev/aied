@@ -1,7 +1,7 @@
 ---
 title: "Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics"
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-15
 type: article
 tags: [learning-analytics, privacy, equity, ethics, regulation, higher-ed, institutional-change]
 sources: ['raw/papers/2608.03968.md']
@@ -24,6 +24,10 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 - [[ethics]]
 - [[regulation]]
 - [[higher-ed]]
+- [[governance]]
+- [[ai-governance-education]]
+- [[agency]]
+- [[educational-policy-ai]]
 ## Connected Articles
 
 - [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making

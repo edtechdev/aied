@@ -1,7 +1,7 @@
 ---
 title: "AI Adoption Among Teachers: Insights on Concerns, Support, Confidence, and Attitudes"
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-08-15
 type: article
 tags: [teacher-role, faculty-development, k-12, ai-literacy, teacher-ai-competency, k-12-ai-education, faculty-development-genai, higher-ed]
 sources: ['raw/papers/2605.00343.md']
@@ -23,6 +23,8 @@ This paper provides empirical clarity for [[teacher-role]] policy: institutional
 - [[teacher-role]]
 - [[faculty-development]]
 - [[tpack]]
+- [[self-efficacy]]
+- [[teacher-ai-competency]]
 ## Connected Articles
 
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching

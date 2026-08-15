@@ -1,7 +1,7 @@
 ---
 title: Representation Robustness under Executable Reasoning Constraints in Large Language Models for Mathematical Problem Solving
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-08-15
 type: article
 tags: [llm, stem-education, benchmark, assessment-validity, reinforcement-learning, rag, math-education]
 sources: ['raw/papers/2607.20520.md']
@@ -16,6 +16,9 @@ This study probes how sensitive [[llm]] mathematical problem solving is to the s
 - [[assessment-validity]]
 - [[stem-education]]
 - [[ai-tutoring]]
+- [[math-education]]
+- [[benchmark]]
+- [[automated-assessment]]
 ## Connected Articles
 
 - [[llm-cognitive-diagnosis-handwritten-math]]

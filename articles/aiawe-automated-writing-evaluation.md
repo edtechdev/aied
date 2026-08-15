@@ -1,7 +1,7 @@
 ---
 title: "AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models"
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, automated-grading, writing-education, open-source, automated-assessment]
 sources: ['raw/papers/2606.12801.md']
@@ -26,6 +26,8 @@ Three broader findings emerge: (1) model scale is not a reliable predictor of do
 - [[edtech-platform]]
 - [[open-source]]
 - [[writing-education]]
+- [[automated-essay-scoring]]
+- [[automated-assessment]]
 ## Connected Articles
 
 - [[short-answer-scoring-quality-degradation]]

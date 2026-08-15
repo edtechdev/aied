@@ -1,7 +1,7 @@
 ---
 title: "Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module"
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, prompting-literacy, k-12, llm, ai-education, scenario-based-learning, automated-grading, student-experience, rag]
 sources: ['raw/papers/aaai2026-prompting-literacy-k12.md']
@@ -77,8 +77,8 @@ The study demonstrates that [[prompt-engineering]] can be taught effectively to 
 - [[llm]]
 - [[prompt-engineering]]
 - [[student-experience]]
-
-- [[rag]]
+- [[digital-divide]]
+- [[formative-assessment]]
 ## Connected Articles
 
 - [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents

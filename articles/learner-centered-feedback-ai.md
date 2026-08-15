@@ -1,7 +1,7 @@
 ---
 title: "Enhancing learner-centered feedback with AI: teachers'' practices and perceptions"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [generative-ai, feedback-loop, teacher-role, higher-ed, faculty-development, scaffolding, human-in-the-loop-ai, faculty-development-genai, rag]
 sources: ['raw/papers/tandf-2026-learner-centered-feedback-ai.md']
@@ -52,6 +52,7 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 - [[generative-ai]]
 - [[higher-ed]]
 - [[rag]]
+- [[trust]]
 
 ## Connected Articles
 

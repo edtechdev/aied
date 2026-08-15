@@ -1,7 +1,7 @@
 ---
 title: "LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning"
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-08-15
 type: article
 tags: [personalized-learning, adaptive-learning, llm, generative-ai, higher-ed, scaffolding, agentic-ai-ecosystems-higher-education, adaptive-learning-systems, metacognition, agentic-ai]
 sources: ['raw/papers/2605.06257.md']
@@ -35,11 +35,11 @@ The work also contributes to understanding how [[scaffolding]] can be implemente
 - [[agentic-ai]]
 - [[personalized-learning]]
 - [[scaffolding]]
-
 - [[generative-ai]]
 - [[higher-ed]]
 - [[llm]]
 - [[metacognition]]
+- [[intelligent-tutoring]]
 ## Connected Articles
 
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM

@@ -1,7 +1,7 @@
 ---
 title: The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, student-experience, llm, ai-literacy, personalized-learning]
 sources: ['raw/papers/2606.24104.md']
@@ -36,6 +36,9 @@ The study highlights the need for [[higher-ed]] institutions to develop nuanced 
 - [[privacy]]
 - [[higher-ed]]
 - [[faculty-development]]
+- [[motivation]]
+- [[ai-literacy]]
+
 ## Connected Articles
 
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis

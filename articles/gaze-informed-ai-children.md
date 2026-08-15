@@ -1,7 +1,7 @@
 ---
 title: Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-15
 type: article
 tags: [generative-ai, k-12, student-experience, affective-computing, adaptive-learning, llm-in-education, rag, llm]
 sources: ['raw/papers/2607.00445.md']
@@ -27,6 +27,11 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[ai-education]]
 - [[intelligent-tutoring]]
 - [[equity-in-ai-education]]
+- [[k-12]]
+- [[generative-ai]]
+- [[adaptive-learning]]
+- [[student-experience]]
+- [[multimodal]]
 ## Connected Articles
 
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education

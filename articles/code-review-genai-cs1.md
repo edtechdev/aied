@@ -1,7 +1,7 @@
 ---
 title: Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, cs-education, over-reliance, academic-integrity, formative-assessment, student-experience, efficacy-study, metacognition, ai-literacy]
 sources: ['raw/papers/2605.21374.md']
@@ -23,6 +23,11 @@ The flipped classroom component is particularly notable — it creates dedicated
 - [[cognitive-offloading]]
 - [[formative-assessment]]
 - [[teacher-role]]
+- [[cs-education]]
+- [[generative-ai]]
+- [[programming-education]]
+- [[assessment]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]

@@ -1,7 +1,7 @@
 ---
 title: "Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work"
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-15
 type: article
 tags: [llm, student-experience, collaborative-learning, higher-ed, engagement-metrics, llm-in-education, rag]
 sources: ['raw/papers/2606.30860.md']
@@ -25,8 +25,10 @@ This paper contributes to the growing body of research on AI applications in edu
 ## Connected Concepts
 
 - [[ai-education]]
-- [[intelligent-tutoring]]
-- [[equity-in-ai-education]]
+- [[collaborative-learning]]
+- [[student-experience]]
+- [[human-ai-collaboration]]
+
 ## Connected Articles
 
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2

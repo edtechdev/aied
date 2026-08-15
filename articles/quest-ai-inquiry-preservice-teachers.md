@@ -1,7 +1,7 @@
 ---
 title: "Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers"
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, faculty-development, generative-ai, efficacy-study, higher-ed]
 sources: ['raw/papers/caeai-quest-ai-inquiry.md']
@@ -40,6 +40,10 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 - [[k-12-ai-education]]
 - [[instructional-design]]
 - [[higher-ed]]
+- [[generative-ai]]
+- [[authentic-assessment]]
+- [[self-regulated-learning]]
+- [[scaffolding]]
 
 ## Connected Articles
 

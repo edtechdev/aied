@@ -1,7 +1,7 @@
 ---
 title: "Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust"
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [human-in-the-loop, generative-ai, higher-ed, student-experience]
 sources: ['raw/papers/caeai-human-ai-collab-trust.md']
@@ -36,11 +36,12 @@ The authors note that the rapid evolution of GenAI makes it difficult to separat
 - [[higher-ed]]
 - [[student-experience]]
 - [[ai-literacy]]
-- [[math-education]]
-- [[prompt-engineering]]
 - [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
 - [[plagiarism-detection]]
+- [[human-ai-collaboration]]
+- [[trust]]
+- [[generative-ai]]
+- [[academic-integrity]]
 
 ## Connected Articles
 

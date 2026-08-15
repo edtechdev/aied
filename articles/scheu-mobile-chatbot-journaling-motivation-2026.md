@@ -1,7 +1,7 @@
 ---
 title: Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
 created: 2026-07-29
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [self-regulated-learning, generative-ai, higher-ed, student-experience, engagement-metrics, efficacy-study, scaffolding, metacognition, llm]
 sources: ['raw/papers/scheu-mobile-chatbot-journaling-motivation-2026.md']
@@ -48,8 +48,10 @@ A **randomized 2×2 full-factorial field experiment** (N = 179 German university
 - [[scaffolding]]
 - [[self-regulated-learning]]
 - [[student-experience]]
-
 - [[llm]]
+- [[motivation]]
+- [[engagement-metrics]]
+- [[feedback-loop]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

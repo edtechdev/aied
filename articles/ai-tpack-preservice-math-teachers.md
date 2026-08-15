@@ -1,7 +1,7 @@
 ---
 title: "AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study"
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, higher-ed, stem-education, faculty-development, math-education]
 sources: ['raw/papers/caeai-ai-tpack-math.md']
@@ -43,6 +43,7 @@ The study is cross-sectional and based entirely on self-report, so structural pa
 - [[faculty-development]]
 - [[teacher-role]]
 - [[tpack]]
+- [[teacher-ai-competency]]
 ## Connected Articles
 
 - [[teacher-control-ai-generation-math-visuals]]

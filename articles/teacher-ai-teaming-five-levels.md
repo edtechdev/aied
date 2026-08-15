@@ -1,7 +1,7 @@
 ---
 title: Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-15
 type: article
 tags: [teacher-role, teacher-ai-teaming, generative-ai, human-ai-interaction, teacher-agency, hybrid-intelligence, professional-development, augmentation]
 sources: ['raw/papers/2511.19580.md']
@@ -38,16 +38,15 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 
 ## Connected Concepts
 
-- [[curriculum-design]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
-- [[bias-mitigation]]
-- [[ai-ed-evaluation]]
-- [[k-12-ai-education]]
 - [[ai-education]]
 - [[instructional-design]]
-
 - [[tpack]]
+- [[human-ai-collaboration]]
+- [[agency]]
+- [[cognitive-offloading]]
+- [[generative-ai]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design

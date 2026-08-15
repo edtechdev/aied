@@ -1,7 +1,7 @@
 ---
 title: "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidance to Instructors"
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-15
 type: article
 tags: [llm, teacher-role, higher-ed, scaffolding, faculty-development, teacher-ai-competency, faculty-development-genai]
 sources: ['raw/papers/2603.18189.md']
@@ -33,14 +33,11 @@ Expert evaluations compared TeachingCoach with a GPT-4o baseline in a zero-shot 
 
 - [[teacher-ai-competency]]
 - [[teacher-role]]
-- [[k-12-ai-education]]
 - [[instructional-design]]
 - [[prompt-engineering]]
-- [[formative-assessment]]
-- [[affective-tutoring]]
-- [[curriculum-design]]
-
 - [[tpack]]
+- [[scaffolding]]
+- [[faculty-development]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design

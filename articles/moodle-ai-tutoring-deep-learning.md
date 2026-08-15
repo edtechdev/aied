@@ -1,7 +1,7 @@
 ---
 title: "From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle"
 created: 2026-05-07
-updated: 2026-05-11
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, higher-ed, edtech-platform, llm, scaffolding, adaptive-learning-systems, metacognition, formative-assessment, adaptive-learning]
 sources: ['raw/papers/2605.06963.md']
@@ -43,6 +43,9 @@ Unlike [[tutoring-specific-vs-general-ai]] debates about specialized tutors, thi
 - [[formative-assessment]]
 - [[metacognition]]
 - [[adaptive-learning]]
+- [[intelligent-tutoring]]
+- [[edtech-platform]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]

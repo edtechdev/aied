@@ -1,7 +1,7 @@
 ---
 title: Text Simplification for Intelligent Tutoring
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, nlp-education, adaptive-learning, human-in-the-loop, generative-ai, human-in-the-loop-ai, zone-of-proximal-development, adaptive-learning-systems, ai-literacy]
 sources: ['raw/papers/2604.08947.md']
@@ -55,6 +55,9 @@ MuTSE fills this gap: **pedagogical evaluation** of simplification, not just lin
 - [[zone-of-proximal-development]]
 - [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
+- [[accessible-learning]]
+- [[educational-nlp]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]

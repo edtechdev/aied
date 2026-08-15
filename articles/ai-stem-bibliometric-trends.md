@@ -1,7 +1,7 @@
 ---
 title: Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-08-15
 type: article
 tags: [stem-education, generative-ai, intelligent-tutoring, scaffolding, adaptive-learning, learning-analytics, llm, computational-thinking]
 sources: ['raw/papers/2607.05412.md']
@@ -21,6 +21,8 @@ This work connects to core wiki themes: [[stem-education]] [[intelligent-tutorin
 - [[scaffolding]]
 - [[generative-ai]]
 - [[adaptive-learning]]
+- [[computational-thinking]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning

@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy"
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-15
 type: article
 tags: [lifelong-learning, policy-maker, equity, intelligent-tutoring, ai-literacy, learning-analytics, bias-mitigation, dot-framework-survey, regulation, algorithmic-bias]
 sources: ['raw/papers/2605.16296.md']
@@ -26,6 +26,8 @@ Key tensions identified include the promise of [[intelligent-tutoring]] and [[le
 - [[over-reliance]]
 - [[faculty-development]]
 - [[teacher-role]]
+- [[adult-learning]]
+- [[ai-governance-education]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]

@@ -1,7 +1,7 @@
 ---
 title: "LLM-Generated Feedback in Introductory Programming: A Classroom Study"
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-15
 type: article
 tags: [llm, formative-assessment, feedback-loop, stem-education, higher-ed, automated-grading, rag]
 sources: ['raw/papers/2606.08807.md']
@@ -21,6 +21,9 @@ This study provides one of the largest empirical validations of LLM-based [[feed
 - [[automated-grading]]
 - [[formative-assessment]]
 - [[stem-education]]
+- [[higher-ed]]
+- [[programming-education]]
+
 ## Connected Articles
 
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework

@@ -1,7 +1,7 @@
 ---
 title: "Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [generative-ai, scaffolding, equity, multilingual-learning, prompt-engineering, ai-literacy, k-12, metacognition]
 sources: ['raw/papers/2607.28630.md']
@@ -25,13 +25,14 @@ Results indicate pedagogical scaffolding can transform how minoritized students 
 ## Connected Concepts
 
 - [[reducing-ai-misuse]]
-- [[help-seeking]]
 - [[metacognition]]
 - [[prompt-engineering]]
-- [[affective-tutoring]]
-- [[automated-essay-scoring]]
 - [[student-experience]]
 - [[equity-in-ai-education]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[scaffolding]]
+- [[critical-thinking]]
 
 ## Connected Articles
 

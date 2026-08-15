@@ -1,7 +1,7 @@
 ---
 title: Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 created: 2026-07-07
-updated: 2026-07-07
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, cs-education, generative-ai, higher-ed, programming-its, prompt-engineering, scaffolding, student-experience, reshaping-cs-education-genai, llm]
 sources: ['raw/papers/2607.05034.md']
@@ -17,11 +17,17 @@ Learning to communicate with code-generating AI is an emerging skill for novice 
 - [[scaffolding]]
 - [[student-experience]]
 - [[higher-ed]]
+- [[llm]]
+- [[generative-ai]]
+- [[prompt-engineering]]
+- [[student-misconceptions-ai]]
+- [[programming-education]]
 ## Connected Articles
 
 - [[prompt-based-programming-lesson]]
 - [[reshaping-cs-education-genai]]
 - [[programming-its]]
+- [[voice-text-prompt-problems-computing-education]] — Text vs voice modality on Prompt Problems
 ## Citation
 
-Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026). [Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks](https://arxiv.org/abs/2607.05034). arXiv:2607.05034. arXiv:2607.05034 [cs.CY]. - [[voice-text-prompt-problems-computing-education]] — Text vs voice modality on Prompt Problems
+Victor-Alexandru Padurean, Kaitlin Riegel, Gweneth Barbre, Musa Blake, Paul Denny, Adish Singla (2026). [Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks](https://arxiv.org/abs/2607.05034). arXiv:2607.05034 [cs.CY].

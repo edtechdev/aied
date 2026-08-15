@@ -1,7 +1,7 @@
 ---
 title: "Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes"
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-15
 type: article
 tags: [higher-ed, stem-education, student-experience, affective-computing, personalized-learning, scaffolding, adaptive-learning, ai-literacy, formative-assessment, teacher-role]
 sources: ['raw/papers/2607.26338.md']
@@ -26,6 +26,9 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[higher-ed]]
 - [[ai-literacy]]
 - [[teacher-role]]
+- [[self-determination-theory]]
+- [[motivation]]
+- [[affective-computing]]
 ## Connected Articles
 
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty

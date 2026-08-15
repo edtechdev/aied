@@ -1,7 +1,7 @@
 ---
 title: "Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-15
 type: article
 tags: [automated-grading, llm, formative-assessment, higher-ed, teacher-role, learning-analytics, student-experience, k-12]
 sources: ['raw/papers/2606.13684.md']
@@ -31,13 +31,12 @@ For instructors and institutions, the results suggest that LLM-based classificat
 ## Connected Concepts
 
 - [[automated-assessment]]
+- [[benchmark]]
+- [[educational-nlp]]
 - [[formative-assessment]]
+- [[llm]]
 - [[teacher-ai-competency]]
-- [[bias-mitigation]]
-- [[affective-computing]]
 - [[teacher-role]]
-- [[metacognition]]
-- [[self-regulated-learning]]
 
 ## Connected Articles
 

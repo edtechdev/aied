@@ -1,7 +1,7 @@
 ---
 title: Generative AI Can Harm Teaching
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [faculty-development, teacher-role, generative-ai, k-12, student-experience, cognitive-offloading, over-reliance, rct, teacher-ai-competency, rag]
 sources: ['raw/papers/genai-can-harm-teaching-rct-2026.md']
@@ -42,8 +42,11 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - [[student-experience]]
 - [[teacher-ai-competency]]
 - [[teacher-role]]
-
 - [[rag]]
+- [[motivation]]
+- [[over-reliance]]
+- [[cognitive-offloading]]
+
 ## Connected Articles
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
