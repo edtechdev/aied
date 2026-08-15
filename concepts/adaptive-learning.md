@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]
 confidence: high
@@ -39,6 +39,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[formative-assessment]]
 
 ## Connected Articles
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 
 - [[deeptutor]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]

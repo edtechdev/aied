@@ -1,7 +1,7 @@
 ---
 title: Simulation
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [active-learning, adaptive-learning, pedagogical-agent, skill-development, reinforcement-learning, experiential-learning]
 confidence: high
@@ -34,6 +34,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[professional-training]]
 
 ## Connected Articles
+- [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
 
 - [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games
