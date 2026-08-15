@@ -1,7 +1,7 @@
 ---
 title: "EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, student-experience, llm, higher-ed, scaffolding, generative-ai, ai-literacy, k-12, stem-education, learning-analytics]
 confidence: high
@@ -16,6 +16,12 @@ EduMirror introduces a multi-agent simulator for studying educational social dyn
 
 - [[student-modeling]]
 - [[learning-analytics]]
+- [[simulation]] — in silico simulation of classroom social dynamics
+- [[agentic-ai]] — value-driven multi-agent simulation
+- [[collaborative-learning]] — modeling group cooperation
+- [[social-emotional-learning]] — psychological needs and social value orientation
+- [[ai-education]] — hypothesis testing for educational research
+- [[student-experience]] — modeling latent psychological states of learners
 ## Connected Articles
 
 - [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
@@ -24,6 +30,7 @@ EduMirror introduces a multi-agent simulator for studying educational social dyn
 - [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
+- [[agentschool-multi-agent-simulation-education-2026]] — Multi-agent simulation of educational environments
 
 ## Citation
 

@@ -1,7 +1,7 @@
 ---
 title: "PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, teacher-role, faculty-development, edtech-platform, ai-literacy, agentic-workflows]
 sources: ['raw/papers/2605.16605.md']
@@ -18,12 +18,20 @@ PromptDecipher addresses a critical gap in AI tutor deployment: teacher quality 
 
 - [[teacher-role]]
 - [[tpack]]
+- [[ai-tutoring]] — AI tutoring chatbots that teachers author
+- [[pedagogical-safety]] — ensuring tutors are safe before deployment
+- [[faculty-development]] — building teacher capacity for AI authoring
+- [[llm]] — the models behind AI tutor interactions
+- [[prompt-engineering]] — system-prompt rewriting from teacher corrections
+- [[human-in-the-loop-ai]] — teacher QA as a first-class activity
+- [[agentic-ai]] — AI-scaffolded workflows for human roles
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
 - [[agentic-workflows-education]]
 - [[llm-tutoring-feedback-diagnosis-gap]]
+- [[prompt-coach-agentic-tutor-prompt-engineering]] — Coaching tutors to engineer prompts effectively
 ## Citation
 
 J, A.K.M.X.R.S. (2026). [*PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions*](https://arxiv.org/abs/2605.16605). practice, however, teachers rarely fulfill these roles

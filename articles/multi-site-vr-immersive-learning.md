@@ -1,7 +1,7 @@
 ---
 title: Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-15
 type: article
 tags: [edtech-platform, active-learning, student-experience, higher-ed, engagement-metrics, generative-ai, llm, ai-literacy, stem-education, scaffolding]
 sources: ['raw/papers/2606.10325.md']
@@ -30,6 +30,13 @@ The system addresses a practical infrastructure gap in multi-site education: VR 
 
 - [[edtech-platform]]
 - [[active-learning]]
+- [[simulation]] — science experiments that are hard to run in a traditional classroom
+- [[embodied-learning]] — hands-on, three-dimensional understanding
+- [[student-experience]] — usability and VR-sickness outcomes
+- [[engagement-metrics]] — real-time co-presence and interaction
+- [[higher-ed]] — distributed university teaching scenarios
+- [[stem-education]] — science activities shared across sites
+- [[experiential-learning]] — immersive, hands-on learning activities
 ## Connected Articles
 
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
@@ -38,6 +45,7 @@ The system addresses a practical infrastructure gap in multi-site education: VR 
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
 - [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+- [[mixed-reality-engineering-learning]] — Mixed-reality learning in engineering education
 
 ## Citation
 
