@@ -1,7 +1,7 @@
 ---
 title: LLM Student Modeling and Long-Term Memory Architecture
 created: 2026-05-07
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [llm, personalized-learning, adaptive-learning, intelligent-tutoring, generative-ai, lifelong-learning, pedagogical-llm-training, self-regulated-learning, metacognition, rag]
 sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
@@ -74,11 +74,20 @@ While PersonaVLM was evaluated on general assistant tasks, its architecture addr
 
 - [[self-regulated-learning]]
 - [[transfer-of-learning]]
+- [[llm]]
+- [[student-modeling]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[knowledge-tracing]]
+- [[lifelong-learning]]
+- [[intelligent-tutoring]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]
 - [[nie-personavlm-long-term-personalization-2026]]
 - [[tutoring-specific-vs-general-ai]]
+- [[llm-student-simulation-misconception-faithfulness]]
+- [[history-aware-student-simulation]]
 ## Citation
 
 Nie, C., Fu, C., Zhang, Y., Yang, H., & Shan, C. (2026). [*PersonaVLM: Long-Term Personalized Multimodal LLMs*](https://arxiv.org/abs/2604.13074). arXiv:2604.13074.

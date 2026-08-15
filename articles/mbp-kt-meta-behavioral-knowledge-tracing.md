@@ -1,7 +1,7 @@
 ---
 title: "MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing"
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-08-15
 type: article
 tags: [knowledge-tracing, learning-analytics, student-experience, adaptive-learning, adaptive-learning-systems]
 sources: ['raw/papers/2605.08697.md']
@@ -29,9 +29,16 @@ Knowledge tracing is the backbone of [[adaptive-learning]] systems, and MBP-KT's
 ## Connected Concepts
 
 - [[adaptive-learning]]
+- [[knowledge-tracing]]
+- [[student-modeling]]
+- [[learning-analytics]]
+- [[intelligent-tutoring]]
+- [[engagement-metrics]]
 ## Connected Articles
 
 - [[neural-symbolic-knowledge-tracing]]
+- [[reliable-programming-kt]]
+- [[temporal-smoothness-debiased-kt]]
 ## Citation
 
 Jia et al. (2026). [MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing](https://arxiv.org/abs/2605.08697). arXiv:2605.08697. arXiv preprint.

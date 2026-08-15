@@ -1,7 +1,7 @@
 ---
 title: "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most"
 created: 2026-05-19
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, benchmark, scaffolding, feedback-loop, hallucination-risk, ai-literacy]
 sources: ['raw/papers/2605.16207.md']
@@ -18,9 +18,16 @@ This paper exposes a critical diagnostic blind spot in LLM-based tutoring agents
 
 - [[scaffolding]]
 - [[intelligent-tutoring]]
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[llm]]
+- [[ai-tutoring]]
+- [[cognitive-diagnosis]]
+- [[automated-assessment]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]]
+- [[ai-tutor-safety-harms]]
 ## Citation
 
 preprint, A. (2026). [*Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most*](https://arxiv.org/abs/2605.16207)

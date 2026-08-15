@@ -1,7 +1,7 @@
 ---
 title: The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-15
 type: article
 tags: [professional-training, llm, generative-ai, intelligent-tutoring, student-experience, higher-ed, ai-literacy, scaffolding, k-12, stem-education]
 confidence: high
@@ -15,6 +15,14 @@ The Adaptive Virtual Patient (AVP) is an LLM-driven simulated patient for psycho
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
+- [[simulation]]
+- [[professional-training]]
+- [[adaptive-learning]]
+- [[feedback-loop]]
+- [[student-modeling]]
+- [[scaffolding]]
+- [[affective-computing]]
+- [[multimodal]]
 ## Connected Articles
 
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
@@ -23,6 +31,7 @@ The Adaptive Virtual Patient (AVP) is an LLM-driven simulated patient for psycho
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
 - [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
 - [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy
+- [[ai-psychotherapy-training-avatars]] — AI psychotherapy training via realistic avatars
 
 ## Citation
 

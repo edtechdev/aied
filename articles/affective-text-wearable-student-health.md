@@ -1,7 +1,7 @@
 ---
 title: A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-08-15
 type: article
 tags: [affective-computing, student-experience, higher-ed, learning-analytics, affective-tutoring, llm]
 sources: ['raw/papers/2605.14360.md']
@@ -35,12 +35,20 @@ The dissociation between topic and affect aligns with [[multimodal-ai-feedback-l
 ## Connected Concepts
 
 - [[learning-analytics]]
+- [[affective-computing]]
+- [[well-being]]
+- [[affective-tutoring]]
+- [[multimodal]]
+- [[educational-nlp]]
+- [[privacy]]
+- [[student-experience]]
 ## Connected Articles
 
 - [[engagement-assessment-video]]
 - [[genai-tutor-engagement-patterns]]
 - [[ai-campus-wellbeing-tools]]
 - [[multimodal-ai-feedback-learning]]
+- [[physiological-signals-exam-outcomes-ml]]
 ## Citation
 
 Harry, T., Hidalgo, J., Price, M., Feng, Y., Stanton, K., Tompkins, C., Dodds, P. S., Fudolig, M. I., Bloomfield, L., & Danforth, C. (2026). [A formative study of brief affective text as a complement to wearable sensing for longitudinal student health monitoring](https://arxiv.org/abs/2605.14360). arXiv:2605.14360 [cs.HC]. Submitted to ACM IMWUT.

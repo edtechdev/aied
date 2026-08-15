@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, writing-education, k-12, formative-assessment, feedback-loop, teacher-role, human-in-the-loop-ai, retrieval-augmented-generation, rag]
 sources: ['raw/papers/2605.17055.md']
@@ -22,10 +22,16 @@ CyberScholar demonstrates rubric-grounded [[rag]] for formative writing feedback
 - [[faculty-development]]
 - [[teacher-role]]
 - [[tpack]]
+- [[ai-feedback-quality]]
+- [[feedback-loop]]
+- [[writing-education]]
+- [[automated-assessment]]
+- [[automated-essay-scoring]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]]
 - [[structured-llm-feedback-programming]]
+- [[aiawe-automated-writing-evaluation]]
 ## Citation
 
 Nascimento, D.O. & preprint, A. (2026). [*Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar*](https://arxiv.org/abs/2605.17055)

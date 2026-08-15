@@ -1,7 +1,7 @@
 ---
 title: Reshaping Undergraduate Computer Science Education in the Generative AI Era
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-15
 type: article
 tags: [cs-education, generative-ai, curriculum-design, higher-ed, llm, student-experience, ai-literacy, scaffolding, intelligent-tutoring, stem-education]
 confidence: high
@@ -16,6 +16,13 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 
 - [[cs-education]]
 - [[ai-literacy]]
+- [[generative-ai]]
+- [[llm]]
+- [[programming-education]]
+- [[curriculum-design]]
+- [[critical-thinking]]
+- [[computational-thinking]]
+- [[higher-ed]]
 ## Connected Articles
 
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
@@ -24,6 +31,8 @@ This white paper synthesizes findings from two international NUS-Google Workshop
 - [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+- [[genai-meta-analysis-programming-learning]]
+- [[chatgpt-programming-education-text-mining]]
 
 ## Citation
 

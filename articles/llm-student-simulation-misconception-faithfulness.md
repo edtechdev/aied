@@ -1,7 +1,7 @@
 ---
 title: Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, benchmark, hallucination-risk, student-experience, pedagogical-safety]
 sources: ['raw/papers/2605.12748.md']
@@ -26,6 +26,12 @@ For [[student-experience]] and benchmark development, this paper motivates a par
 
 - [[intelligent-tutoring]]
 - [[student-experience]]
+- [[simulating-students]]
+- [[student-modeling]]
+- [[hallucination-risk]]
+- [[pedagogical-safety]]
+- [[trust]]
+- [[benchmark]]
 ## Connected Articles
 
 - [[eduframetrap-llm-sycophancy-educational-safety]]
@@ -33,6 +39,8 @@ For [[student-experience]] and benchmark development, this paper motivates a par
 - [[ai-tutor-safety-harms]]
 - [[llm-student-modeling-memory]]
 - [[ai-tutor-behavioral-evaluation]]
+- [[valid-student-simulation-llm-2026]]
+- [[simulating-students-llm-review-2026]]
 ## Citation
 
 Do, H., Sonkar, S., & Sachan, M. (2026). [Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators](https://arxiv.org/abs/2605.12748). arXiv:2605.12748.

@@ -1,7 +1,7 @@
 ---
 title: "Generate-Then-Validate: Question Generation for Education"
 created: 2026-05-08
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [question-generation, llm, automated-assessment, stem-education, hallucination-reduction, automated-question-generation, slidesqaqa-pedagogical-question-generation]
 sources: ['raw/papers/2512.10110.md']
@@ -34,6 +34,13 @@ Automated question generation reduces manual authoring burden for educators and 
 
 - [[automated-question-generation]]
 - [[automated-assessment]]
+- [[llm]]
+- [[assessment]]
+- [[generative-ai]]
+- [[hallucination-risk]]
+- [[item-response-theory]]
+- [[assessment-validity]]
+- [[educational-measurement]]
 ## Connected Articles
 
 - [[code-gen]] — CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation
@@ -42,6 +49,8 @@ Automated question generation reduces manual authoring burden for educators and 
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal Item Parameter Estimation using Simulated Response Probabilities
 - [[slidesqaqa-pedagogical-question-generation]] — Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation
+- [[llm-educational-question-cognitive-depth]]
+- [[cross-dataset-bloom-question-classification]]
 
 ## Citation
 
