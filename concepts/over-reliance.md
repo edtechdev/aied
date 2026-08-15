@@ -1,7 +1,7 @@
 ---
 title: Over-Reliance
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [over-reliance, cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai]
 confidence: high
@@ -24,6 +24,8 @@ Over-reliance sits at the intersection of AI tool design and human cognitive beh
 - **Fatigue cycles:** [[ai-fatigue-academic-contexts|AI fatigue]] research identifies a paradox where over-reliance leads to cognitive fatigue from constant AI interaction management, which in turn drives MORE reliance — a vicious cycle.
 
 - **Vibe Compiler and metacognitive preservation:** [[vibe-compiler-metacognition-genai-agency-2026|The Synthesis-Analysis Reciprocity Model]] proposes tools that preserve human epistemic agency by structuring AI interaction around human analysis cycles rather than AI generation cycles.
+
+- **The placement rule:** [[brcic-effortless-trap-productive-struggle-2026|The Effortless Trap]] reframes allow-vs-ban as a placement question — an unguarded AI helper left high-school students ~17% worse on an unaided exam, while the same model rebuilt to withhold answers erased the harm. Its six-move learning frame (Prime, Probe, Point, Attach, Strengthen, Test) and diagnostic — *"if letting AI in makes the task feel effortless, it is in the wrong place"* — secure the first hard attempt (Probe) and the final unaided check (Test) as the moments where over-reliance most readily hides as an "illusion of learning."
 
 ### Relationship to cognitive offloading
 
@@ -49,6 +51,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[prompt-engineering]]
 
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: unguarded AI and the illusion of learning (Brcic & Frljic 2026)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]

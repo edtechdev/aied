@@ -42,6 +42,7 @@ Because an AI tutor's core design question is how much help to give, cognitive l
 - [[pedagogical-safety]]
 - [[student-experience]]
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and AI placement (Brcic & Frljic 2026)
 
 - [[favero-critical-ai-tutors-empower-enslave-2025]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]

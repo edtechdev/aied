@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: 2026-08-09
-updated: 2026-08-10
+updated: 2026-08-15
 type: concept
 tags: [math-education, stem-education, ai-tutoring, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
 confidence: high
@@ -55,6 +55,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[generative-ai]]
 - [[open-source]]
 ## Connected Articles
+- [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on math student work with errors (DrawEduMath, Lucy et al. 2026)
 
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[zhang-tutormoments-2026]]

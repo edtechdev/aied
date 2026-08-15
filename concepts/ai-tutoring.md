@@ -25,6 +25,8 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 
 **Guard against answer disclosure.** The central failure mode of LLM tutoring is giving the answer away, which inflates immediate performance while undermining durable learning. Use Socratic prompting, calibrated hints, and non-disclosive scaffolding — and measure outcomes on unassisted, transfer tasks, not just in-tool performance.^[[measuring-llm-tutors-teach-vs-solve]]^[[socratic-method]]
 
+**Separate diagnosis from feedback.** LLM tutors reliably confirm correct steps but over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions — exactly where adaptive tutoring matters most — and accurate diagnosis does not reliably yield actionable feedback.^[[yasir-llm-tutoring-agents-2026]] A hybrid architecture works best: let a knowledge-grounded classifier handle solution diagnosis while the LLM focuses on open-ended scaffolding and dialogue, and evaluate tutoring on three-way classification (optimal / valid-alternative / incorrect), not binary correctness.
+
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
@@ -40,6 +42,7 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 - [[stem-education]]
 - [[item-response-theory]]
 ## Connected Articles
+- [[yasir-llm-tutoring-agents-2026]] — LLM tutoring agents struggle on valid-alternative/incorrect solutions (Yasir et al. 2026)
 
 - [[adversarial-stress-testing-role-playing-agents]]
 - [[hazra-safetutors-pedagogical-safety-2026]]
