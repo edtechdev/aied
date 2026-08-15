@@ -4,6 +4,10 @@ A knowledge base on artificial intelligence in education — research, pedagogy,
 
 **Live site:** [edtechdev.github.io/aied](https://edtechdev.github.io/aied)
 
+## License
+
+Code in this repository is licensed under the **MIT License**; wiki content (markdown, HTML) is released to the public domain under **CC0 1.0 Universal**. See [LICENSE](LICENSE).
+
 ## What It Does
 
 Cron jobs keep the wiki current:
