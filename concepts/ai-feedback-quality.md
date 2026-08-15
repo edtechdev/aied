@@ -54,6 +54,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[confidence-aware-ai-assessment]]
 
 ## Connected Articles
+- [[coach-not-crutch-ai-writing]] — AI writing feedback outperformed human editors on practice letters (Lira et al. 2025)
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM feedback generation with educators in the loop (Zhao et al. 2025)
 - [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Critiquing ChatGPT output against a rubric builds feedback literacy (Richmond & Nicholls 2025)
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutoring feedback: accurate diagnosis ≠ actionable feedback (Yasir et al. 2026)

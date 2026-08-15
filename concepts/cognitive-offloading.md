@@ -50,6 +50,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[critical-thinking]]
 - [[regulation]]
 ## Connected Articles
+- [[coach-not-crutch-ai-writing]] — AI can work less and learn more: effort vs. learning environment (Lira et al. 2025)
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
