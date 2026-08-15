@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 623 articles and 134 concepts.
+> Complete text of 634 articles and 134 concepts.
 
 # Articles
 
@@ -6054,6 +6054,56 @@ Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Fe
 
 ---
 
+## [Fostering Generative AI Literacy in Economics: A Hands-on Approach](https://edtechdev.github.io/aied/articles/beck-genai-literacy-economics-hands-on/)
+
+> **A five-step, active-learning framework for building AI literacy in economics courses.** Beck & Brodersen (2025) present a hands-on approach in which students analyze real-world scenarios (song lyrics, news articles), generate ChatGPT responses to the same questions, and then critically evaluate the AI output against their own answers. The approach deepens economic concept understanding while fostering engagement, critical thinking, and [[ai-literacy]].
+
+## Key Findings
+
+This paper addresses the reality that students use [[generative-ai]] tools like ChatGPT "with or without educator guidance," arguing that [[higher-ed]] institutions should therefore integrate AI literacy into the curriculum rather than restrict it. The authors present a structured five-step activity that pairs theoretical knowledge with practical application and critical evaluation of AI outputs, rooted in established [[active-learning]] strategies such as Think-Pair-Share.
+
+**The five-step framework.** Each activity opens with a real-world scenario — a news article, song lyrics, or personal experience — that illustrates economic concepts like opportunity cost, elasticity, or decision-making under constraints. Students first analyze the scenario and answer guided questions independently (Step 1). They then use ChatGPT to generate responses to the same questions using a standardized prompt, ensuring comparability (Step 2). In Step 3, students critically evaluate the AI-generated responses for accuracy, clarity, and depth, comparing them to their own work. Step 4 involves critical reflection and answer refinement, assessing how AI can enhance or hinder economic analysis. The activity closes with a collaborative class discussion on broader implications (Step 5). This structure exemplifies an [[instructional-design]] that sequences students through analysis, generation, evaluation, and reflection.
+
+**Learning objectives.** The activities aim to deepen understanding of economic concepts, foster [[critical-thinking]], and enhance AI literacy. By completion, students should be able to apply economic concepts to real-world scenarios, evaluate AI outputs, refine analytical skills, develop AI literacy, and collaborate and reflect. These objectives align with a broader competency-based vision of preparing students for an AI-driven workforce.
+
+**Sample activity: price elasticity of demand.** The paper's illustrative activity uses Tim McGraw's song "Just to See You Smile" to teach price elasticity of demand. Students analyze the lyrics and answer questions about opportunity cost and willingness to pay, then prompt ChatGPT with a standardized question. Notably, ChatGPT frequently describes the depicted behavior as "perfectly elastic" demand — which is incorrect; the correct answer is (perfectly) inelastic demand. This discrepancy drives an engaging class discussion about the importance of critically evaluating AI-generated content and validating outputs, directly supporting [[reducing-ai-misuse]] through skepticism rather than prohibition.
+
+**Engagement and feedback.** Integrating GenAI into introductory and graduate-level economics courses received overwhelmingly positive feedback. Students found ChatGPT helpful in grasping economic concepts while recognizing its limitations, such as vague or occasionally inaccurate responses. Concerns about cheating were minimal. The hands-on approach significantly increased [[student-engagement]], creating a collaborative, low-pressure learning environment in which students could experiment with GenAI without fear of being accused of cheating.
+
+**Benefits and challenges.** Benefits include transforming passive learning into active, student-centered classrooms, fostering higher-order thinking (analysis, synthesis, evaluation), and building both GenAI and digital literacy. Challenges include the risk of over-reliance on AI undermining independent critical thinking and creativity, the significant educator effort required to redesign curricula, and ethical concerns about bias, academic integrity, data privacy, and equitable access to AI resources, particularly in resource-constrained settings.
+
+## Implications
+
+The framework offers a concrete, adaptable model for integrating [[generative-ai]] into discipline-specific instruction without requiring extensive course redesign. Its adaptability across topics, proficiency levels, and course formats (in-person, online, hybrid) makes it a practical resource for instructors seeking to build [[ai-literacy]] within authentic disciplinary contexts.
+
+By foregrounding the critical evaluation of AI outputs — including exposing their variability in quality and accuracy — the approach reframes GenAI as a tool to be scrutinized rather than trusted wholesale. This directly addresses [[reducing-ai-misuse]] concerns: rather than banning tools, educators design activities that demonstrate AI is not foolproof, thereby mitigating over-reliance while equipping students with validation skills. The minimal cheating concerns reported suggest that embedding AI use into transparent, active tasks can reduce the incentive for misuse that arises when AI use is covert or prohibited.
+
+The findings also speak to [[instructional-design]] practice in [[higher-ed]]. The five-step sequence — independent analysis, AI generation, critical evaluation, reflection, and collaboration — provides a transferable template for any instructor wanting to develop [[critical-thinking]] and AI literacy. The emphasis on collaborative, low-pressure discussion links GenAI integration to broader [[student-engagement]] and [[active-learning]] agendas in the economics classroom and beyond.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[critical-thinking]]
+- [[higher-ed]]
+- [[student-engagement]]
+- [[instructional-design]]
+- [[active-learning]]
+- [[reducing-ai-misuse]]
+
+## Connected Articles
+
+- [[hingle-collaborative-ai-literacy-2025]] — Systematic Review of Collaborative Learning Activities for Promoting AI Literacy
+- [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
+- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI for Underrepresented Students
+- [[student-regulatory-awareness-genai]] — Student Regulatory Awareness of Generative AI Use
+
+## Citation
+
+Beck, S., & Brodersen, D. (2025). [*Fostering Generative AI Literacy in Economics: A Hands-on Approach*](https://journalofeconomicsteaching.org/fostering-generative-ai-literacy-in-economics-a-hands-on-approach-beck-brodersen/). *Journal of Economics Teaching, 10*(4), 285–295. DOI: 10.58311/jeconteach.
+
+---
+
 ## [Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education](https://edtechdev.github.io/aied/articles/becker-chatgpt-typology-physics-2026/)
 
 > **Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from physics students using qualitative content analysis and latent class analysis, identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for scaffolding despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over overreliance concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all AI policies and calling for differentiated pedagogy.
@@ -6124,6 +6174,58 @@ Institutions increasingly rely on browser lockdown, webcam monitoring, and behav
 ## Citation
 
 Gupta Lovi Raj, Kamalpreet Kaur, Dama Sriram, & Parali Prajithaa (2026). [Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery](https://arxiv.org/abs/2608.03531). arXiv:2608.03531. arXiv:2608.03531 [cs.AI].
+
+---
+
+## [Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab](https://edtechdev.github.io/aied/articles/benzion-ai-physics-simulations-virtual-lab/)
+
+# Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab
+
+## Summary
+
+Ben-Zion, Einhorn Zarzecki, Glazer, and Finkelstein (2025) present a practical approach to using large language models (LLMs) to rapidly generate interactive physics simulations for education — effectively "building your own virtual lab." The paper argues that while existing simulation platforms such as PhET are valuable and widely used, they do not cover all teaching needs, and modifying or developing simulations has traditionally required programming expertise and significant time. Using LLMs such as ChatGPT (OpenAI) and Claude (Anthropic), the authors show that educators and students can generate and iteratively refine HTML/JavaScript physics simulations through structured textual prompts, with no programming background required. The paper provides a reusable prompt template, a worked example (a simple pendulum), a two-part validation strategy, and preliminary evidence from a pilot course. The authors position AI-generated simulations as complementary to, not replacements for, established educational resources. **Not open access** (AIP journal article in *The Physics Teacher*).
+
+## Key Findings
+
+- **AI can rapidly generate physics simulations from prompts.** LLMs such as ChatGPT and Claude produce interactive HTML/JavaScript simulations that run in any modern web browser, removing programming-expertise barriers for creating custom physics models.
+- **A reusable prompt template** asks the model to act as a web developer, generating real-time animation, parameter sliders (mass, length, initial conditions), start/stop/reset controls, and time-dependent graphs. It is customizable across topics from basic mechanics and electricity/magnetism to advanced dynamics.
+- **Worked example: simple pendulum.** Generated with OpenAI's o1 or Claude 3.5 Sonnet, the simulation overlays the analytical small-angle solution on the numerical solution (Runge-Kutta), with adjustable mass, length, angle, and angular velocity. An enhanced version added friction/damping, pendulum tension, and energy-distribution visualizations.
+- **Two-part validation.** Technical validation checks behavior under parameter changes; physical validation compares results to known analytical solutions and physical laws. Bugs are fixed iteratively through targeted re-prompting.
+- **Positive preliminary pilot.** In an algebra-based mechanics course at Bar-Ilan University, 53 students in 26 pairs created and refined free-fall simulations, rating enjoyment 4.1/5 and contribution to physics understanding 3.9/5.
+- **Documented limitations.** Hallucinations, a lack of productive constraints, and no embedded pedagogical content knowledge mean AI-generated simulations should complement — not replace — established resources.
+
+## Implications
+
+- Lowers the barrier for teachers and students to build custom simulations tailored to specific learning goals, lecture emphasis, or course topics.
+- Shifts the educator role toward pedagogical judgment (validating accuracy, adding constraints, aligning with research-based teaching) rather than programming.
+- Introduces students to AI as a tool for scientific exploration, but requires oversight because AI output can be physically inaccurate.
+- Supports active and exploratory learning: students can create, refine, and test simulations, promoting critical thinking and awareness of model limitations.
+- The prompt-and-refine workflow has potential to generalize beyond physics to other scientific fields.
+
+## Connected Concepts
+
+- [[physics-education]]
+- [[generative-ai]]
+- [[llm]]
+- [[simulation]]
+- [[stem-education]]
+- [[instructional-design]]
+- [[teacher-ai-competency]]
+- [[prompt-engineering]]
+- [[hallucination-risk]]
+- [[active-learning]]
+
+## Connected Articles
+
+- [[genai-ar-physics-simulation-prompt-2026]]
+- [[probing-ai-generated-physics-solutions-2026]]
+- [[ai-generated-smartphone-circular-motion-lab-2026]]
+- [[physics-chatbot-epistemological-beliefs-2026]]
+- [[finkelstein-principled-ai-education-2025]]
+
+## Citation
+
+Ben-Zion, Y., Einhorn Zarzecki, R., Glazer, J., & Finkelstein, N. D. (2025). Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab. *The Physics Teacher*, 63, 424–427. https://doi.org/10.1119/5.0252343
 
 ---
 
@@ -7348,6 +7450,68 @@ The work complements [[psyscore-essay-scoring-zpd-feedback]] research on psychom
 - [[icle-plus-plus-essay-scoring]]
 ## Citation
 Choi, J., Tate, T., Ritchie, D., Nixon, N., & Warschauer, M. (2025). [*Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting*](https://doi.org/10.35542/osf.io/cbhgz_v1). EdArXiv. doi:10.35542/osf.io/cbhgz_v1.
+
+---
+
+## [AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education](https://edtechdev.github.io/aied/articles/chudziak-ai-math-tutoring-platform/)
+
+> **Synthesis:** Chudziak and Kostka (2025) propose a multi-agent AI math tutoring platform that moves beyond the reactive answer-giving of current LLM tutors toward structured, individualized, tool-assisted learning. It combines adaptive Socratic tutoring agents, dual-memory (long-term + working) personalization, GraphRAG-based textbook retrieval, and Directed Acyclic Graph (DAG) course planning, letting students learn new topics, target their weaknesses, revise for exams, and practice on unlimited personalized exercises. On the MathDial benchmark, a pedagogically informed "Tutor Prompt" significantly beat a base prompt on guided tutoring (higher Success@N, lower Telling@N), and o3-mini(high) was selected for task creation.
+
+## Motivation
+
+The authors identify a core gap: current AI tutoring systems, particularly LLM-based tutors, tend to provide direct answers without encouraging deep reflection or incorporating structured pedagogical tools and strategies. This "reactive nature" is most problematic in mathematics, where AI tutoring systems remain underdeveloped. The research question is: *How can AI tutoring systems move beyond reactive assistance to enable structured, individualized, and tool-assisted learning experiences?*
+
+## System Architecture
+
+Built on LangGraph, the multi-agent system's main interaction loop centers on a Tutor Agent (GPT-4o, chosen for conversational ability, tool use, and low latency) that orchestrates components via a ReAct-style framework. A Memory Dispatcher oversees personalization:
+
+- **Dual-memory framework.** Long-Term Memory (LTM) stores persistent student data (prior knowledge, misconceptions, learning preferences, goals); Working Memory (WM) holds current-session context (topic, problem state, recent interactions).
+- **Guided tutoring.** Instead of solving problems directly, the Tutor Agent uses Socratic questioning that promotes self-explanation and metacognitive skills, dynamically adjusting support based on memory-tracked progress and grounding responses in textbook data.
+- **GraphRAG retrieval.** Textbook material is represented as a knowledge graph, argued to better represent educational content relations than vector RAG for contextual tutoring.
+- **Task Creation.** A dedicated module using o3-mini(high) generates personalized practice exercises based on topic, difficulty, and optionally GraphRAG data.
+- **Course creation.** A pipeline of agents (Research → Planning → Step Handling → Coding) accesses memory and GraphRAG data to construct a structured DAG of prerequisite knowledge and optimal learning paths, stored in a database — supporting exam revision and structured learning.
+- **Auxiliary tools.** SymPy-based Symbolic Solver, Matplotlib Function Plotter, and Course Graph Drawer.
+
+## Key Findings
+
+- **Guided prompting validates the approach.** On the MathDial dataset, the "Tutor Prompt" (emphasizing Socratic questioning and scaffolding) significantly outperformed the "Base Prompt" for both GPT-4o and GPT-4o-mini, achieving superior Success@N and far lower Telling@N over interaction lengths — confirming the guided-tutoring strategy versus direct answer-giving in simulated dialogues.
+- **Model selection for task creation.** o3-mini(high) and Claude 3.5 Sonnet tied at highest problem-solving accuracy (90.00%) with access to the SymPy tool; Gemini 2.0 Flash scored 88.67%, GPT-4o 78.67%, GPT-4o-mini 77.33%. o3-mini(high) was selected for Task Creation due to top performance and step-decomposition ability.
+- **Personalization is memory-driven.** If LTM knows a student struggles with negative-sign distribution, the system proactively offers targeted hints, scaffolds problems differently, or gives corrective feedback; if a student prefers visual explanations, aids like function plotting are used — creating a responsive, individualized experience.
+
+## Limitations
+
+- No evaluation with real students in actual learning environments (noted by reviewers).
+- Personalization operates on a basic set of attributes.
+- The pedagogical effectiveness of GraphRAG-generated courses has not yet been empirically evaluated.
+- System performance depends fundamentally on underlying LLM capabilities and possible biases.
+
+## Future Work
+
+Real-world user studies to assess learning gains, user experience, and practical utility of generated courses; advanced student modeling (e.g., affective state detection); spaced repetition; exploring different LLMs and RAG architectures; adaptability to other STEM domains, accessibility, and explainability.
+
+## Connected Concepts
+
+- [[ai-tutoring]]
+- [[math-education]]
+- [[intelligent-tutoring]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[socratic-method]]
+- [[scaffolding]]
+- [[llm]]
+- [[rag]]
+- [[agentic-ai]]
+
+## Connected Articles
+
+- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — Frameworks for shifting AI tutors away from answer generation toward reasoning facilitation, directly aligned with this paper's core motivation.
+- [[kar-mathbuddy-affective-math-tutoring-2025]] — Another AI-based math tutoring system, offering a comparison point for affective and personalized math tutoring.
+- [[instructional-agents-multi-agent-course-gen]] — A parallel multi-agent LLM system for course material generation, relevant to this paper's course-creation pipeline.
+- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-augmented tutoring, complementing the paper's GraphRAG-based textbook retrieval.
+
+## Citation
+
+Chudziak, J. A., & Kostka, A. (2025). [*AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education*](https://doi.org/10.48550/arXiv.2507.12484). The 26th International Conference on Artificial Intelligence in Education (AIED 2025). arXiv:2507.12484.
 
 ---
 
@@ -14384,6 +14548,57 @@ Li, S., & Zheng, J. (2026). [Generativism: Toward a Learning Theory for the Age 
 
 ---
 
+## [AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking](https://edtechdev.github.io/aied/articles/gerlich-ai-tools-cognitive-offloading-critical-thinking/)
+
+# AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
+
+## Summary
+
+Gerlich (2025) investigates whether frequent use of AI tools erodes critical thinking, using cognitive offloading as the proposed mediating mechanism. Using a mixed-method design with 666 valid UK participants (convenience + purposive sampling across age groups, educational backgrounds, and occupations) plus 50 semi-structured interviews, the study combined a 23-item questionnaire (drawing on the Halpern Critical Thinking Assessment and Terenzini's self-reported measures) with thematic analysis. Both quantitative and qualitative analyses converge on a central finding: heavier AI tool usage is associated with lower critical thinking, and cognitive offloading — delegating memory, decision-making, and information retrieval to external systems — significantly mediates this negative relationship. The results were robust across ANOVA, correlation, multiple regression, and random forest regression, and were corroborated by interview themes of AI Dependence, Cognitive Engagement, and Ethical Concerns.
+
+## Key Findings
+
+- **Frequent AI tool use correlates negatively with critical thinking** (r = −0.68); ANOVA showed significant differences in critical thinking across AI usage levels (p < 0.001). Hypothesis 1 confirmed.
+- **Cognitive offloading partially mediates the relationship:** total effect b = −0.42 (p < 0.001), indirect effect through offloading b = −0.25 (p < 0.001), direct effect b = −0.17 (p < 0.01). Hypothesis 2 confirmed.
+- **Strong inter-variable correlations:** AI use ↔ offloading (r = +0.72); AI use ↔ critical thinking (r = −0.68); offloading ↔ critical thinking (r = −0.75).
+- **Younger participants (17–25) show higher AI dependence and cognitive offloading but lower critical thinking** than older participants (46+), who used AI less and scored higher.
+- **Higher educational attainment is associated with better critical thinking regardless of AI use** (education ↔ critical thinking r = +0.34); a significant interaction (β = 0.02, p = 0.046) indicates education moderates and mitigates the negative AI effect.
+- **Multiple regression:** AI use negatively predicted critical thinking (β = −1.76, p < 0.001, R² = 0.244); random forest (R² = 0.370) flagged AI use and offloading as dominant predictors (permutation p = 0.0099).
+- **Qualitative themes** — AI Dependence, Cognitive Engagement, Ethical Concerns — corroborated the quantitative results; lower-attainment users were more likely to trust AI outputs without scrutiny.
+
+## Implications
+
+- **Education:** Educators should balance AI integration with active learning and explicit critical thinking instruction, avoiding passive reliance on AI tools.
+- **Policy/practice:** Teacher training should build AI competency while preserving cognitive engagement; students need metacognitive skills to judge when AI use undermines rather than supports learning.
+- **Conceptual:** Extends the "Google effect" (Sparrow et al., 2011) and cognitive offloading research (Risko & Gilbert, 2016) into the AI era, and connects [[trust]] in AI to greater offloading and diminished critical engagement.
+- **Caveats:** Self-reported measures and potential sample bias limit causal inference; the author calls for longitudinal and experimental follow-up.
+
+## Connected Concepts
+
+- [[cognitive-offloading]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[digital-divide]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[trust]]
+
+## Connected Articles
+
+- [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
+- [[cognitive-offloading-speedup-illusion]] — The cognitive offloading speedup illusion
+- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading and LLM synthesis/writing
+- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion and AI over-reliance
+- [[ai-making-us-stupid]] — Is AI making us stupid?
+- [[genai-over-reliance-learning-2026]] — GenAI over-reliance and learning
+- [[ai-use-critical-thinking-medical-students-2026]] — AI use and critical thinking in medical students
+
+## Citation
+
+Gerlich, M. (2025). [*AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking*](https://doi.org/10.3390/soc15060006). *Societies*, 15(6), 6.
+
+---
+
 ## [GIFT-AI: Teaching the Game and Leveling the Field: Peer and AI Review + Reflection in a Business Writing Course](https://edtechdev.github.io/aied/articles/gift-ai-pairr-business-writing-2025/)
 
 > **Synthesis:** MacArthur et al. (2025) present the GIFT-AI approach — "teaching the game and leveling the field" — applying the Peer and AI Review + Reflection (PAIRR) model specifically to an upper-division Business Writing course (34 participating students at UC Davis in 2024). The model scaffolds major assignments so students receive peer review, then criteria-based chatbot feedback on the same draft, reflect on and critically assess both, and revise. The article shows how PAIRR builds AI literacy and writerly agency while leveling the playing field for students with differing preparation — particularly multilingual international students — and offers detailed implementation guidance for professional writing courses.
@@ -16416,6 +16631,111 @@ Jeon, Y., Kim, S., Son, H., Lee, S., Jeong, Y., & Lee, U. (2026). [*ISD-Agent-Be
 
 ---
 
+## [GLAT: The Generative AI Literacy Assessment Test](https://edtechdev.github.io/aied/articles/jin-glat-genai-literacy-assessment/)
+
+> **GLAT (Generative AI Literacy Assessment Test)** — a 20-item, performance-based multiple-choice instrument for measuring GenAI literacy in higher education. Validated with classical test theory (CTT) and item response theory (IRT) on responses from 355 higher education students, the final 2-parameter logistic (2PL) model showed strong structural validity (RMSEA = 0.03, CFI = 0.97) and reliability (Cronbach's alpha = 0.80, omega total = 0.81). Crucially, GLAT scores predicted performance on GenAI-supported learning tasks better than self-reported measures such as perceived ChatGPT proficiency, demonstrating external validity.
+
+## Summary
+
+As generative AI tools are rapidly integrated into education, reliably measuring GenAI literacy has become a pressing need. Existing instruments overwhelmingly rely on self-reported surveys, which capture perceived rather than actual competence and are prone to bias and overestimation. The authors of this study introduce the Generative AI Literacy Assessment Test (GLAT), a 20-item multiple-choice instrument designed to measure GenAI literacy among higher education students, developed following established standards for psychological and educational measurement.
+
+The instrument's items were built from a blueprint of 25 GenAI concepts organized across four literacy dimensions — Know & Understand, Use & Apply, Evaluate & Create, and Ethics — and refined through expert review and a content-validity pilot with 200 students. Item selection used classical test theory to retain 20 items with adequate discrimination. Structural validity and reliability (RQ1) were then assessed using item response theory on responses from 355 higher education students, yielding a well-fitting 2PL model. External validity (RQ2) was established in a within-subject study with 83 students who completed a visual-analytics comprehension task with and without a retrieval-augmented GenAI chatbot: GLAT scores significantly predicted AI-assisted task performance, while self-reported ChatGPT literacy did not. This positions the GLAT as a performance-based alternative to self-report for assessing GenAI literacy in [[higher-ed]].
+
+## Key Findings
+
+- **A 20-item performance-based MCQ test.** GLAT assesses GenAI literacy via 20 multiple-choice items spanning [[generative-ai]] knowledge, application, evaluation, and ethics — targeting skills self-report instruments miss.
+- **Rigorous psychometric development.** Built following established measurement standards, with a 25-concept blueprint, expert review, and a 200-student content-validity pilot (Cronbach's alpha = 0.81 across relevance, comprehensiveness, comprehensibility, and face validity).
+- **Validated with CTT + IRT.** With 355 higher education students, the best-fitting 2-parameter logistic (2PL) model showed strong structural validity (RMSEA = 0.03, CFI = 0.97, SRMSR = 0.052) and reliability (Cronbach's alpha = 0.80, omega total = 0.81).
+- **Item selection via CTT.** Five of 25 items with discrimination indices below 0.3 were excluded, leaving 20 items with discrimination indices of 0.33–0.55 and difficulties of 0.25–0.90.
+- **Unidimensionality confirmed.** A single-factor model fit well (χ²/df = 1.51, RMSEA = 0.038) with local independence confirmed, supporting a single latent GenAI literacy construct.
+- **Most informative for lower proficiency.** The test information function peaked at θ = −0.8, indicating GLAT is most precise for learners with low to moderate GenAI literacy — its intended target group given the novelty of GenAI.
+- **External validity (RQ2).** In a study with 83 students using a RAG-based GenAI chatbot, GLAT scores significantly predicted AI-assisted task performance (β = 0.220, p = .040), controlling for baseline performance and visualization literacy.
+- **Outperforms self-report.** Self-reported ChatGPT literacy (Lee & Park, 2024) was not a significant predictor (β = −0.159, p = .118), whereas GLAT was — evidence that [[assessment-validity]] and predictive utility favor performance-based measurement over self-assessment.
+
+## Implications
+
+The GLAT provides educators and researchers with a reliable, valid, performance-based tool for diagnosing GenAI literacy in [[higher-ed]], complementing or replacing biased self-report surveys. By identifying learners' actual GenAI competencies, it can guide targeted interventions and curriculum design that build foundational GenAI knowledge, practical prompting skills, and ethical awareness.
+
+Its successful use of [[item-response-theory]] and [[educational-measurement]] methods illustrates a model for developing psychometrically rigorous AI assessments, relevant to the broader [[ai-ed-evaluation]] agenda. The finding that objective test performance beats self-report for predicting real GenAI-supported learning outcomes reinforces calls to move beyond self-perception measures in AI literacy research.
+
+The authors note important scope limits: GLAT was validated only with higher education students, uses specialized GenAI terminology, is delivered in English, and its external validity rests on a context-specific visual-analytics task. As [[generative-ai]] and [[llm]] technologies evolve rapidly, the instrument must be continually updated and extended across educational levels, disciplines, and languages to remain relevant.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[educational-measurement]]
+- [[item-response-theory]]
+- [[assessment-validity]]
+- [[higher-ed]]
+- [[ai-ed-evaluation]]
+- [[llm]]
+
+## Connected Articles
+
+- [[ai-literacy-assessment-misalignment]] — Self-assessment of AI literacy misaligns with actual skill
+- [[ai-literacy-continuum-higher-education]] — A practical five-stage developmental continuum for AI literacy in higher education
+- [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI literacy through interaction patterns
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond the skills gap
+- [[knowledge-tracing-irt]] — Knowledge tracing and item response theory
+
+## Citation
+
+Jin, Y., Martinez-Maldonado, R., Gašević, D., & Yan, L. (2025). [*GLAT: The generative AI literacy assessment test*](https://doi.org/10.1016/j.caeai.2025.100436). *Computers and Education: Artificial Intelligence*, 9, 100436. https://doi.org/10.1016/j.caeai.2025.100436
+
+---
+
+## [The Impact of Large Language Models on Programming Education and Student Learning Outcomes](https://edtechdev.github.io/aied/articles/jost-llm-programming-education-learning-outcomes/)
+
+# The Impact of Large Language Models on Programming Education and Student Learning Outcomes
+
+## Summary
+
+Jošt, Taneski, and Karakatič (2024) conducted a ten-week experiment with 32 second-year undergraduate students learning React to examine how informal (unrestricted but not explicitly encouraged) use of large language models (LLMs) such as ChatGPT and Copilot relates to learning outcomes in programming education. Students used LLMs freely across four assignments over nine weeks, then completed a controlled-phase assignment in week ten in which LLM use was prohibited (Google and official React documentation were allowed). Reported LLM use was captured via a post-grade questionnaire on a five-point Likert scale, and performance was measured by final assignment grade. Using one-sided non-parametric Spearman's correlation tests with bootstrap confidence intervals, the authors found a significant negative correlation between overall average LLM use and final grades (rho = −0.347, p = 0.026). Breaking usage down by task, reliance on LLMs for code generation (rho = −0.305, p = 0.045) and for debugging (rho = −0.360, p = 0.021) were both significantly negatively associated with grades, whereas use for seeking additional explanations was not significantly correlated (rho = −0.201, p = 0.135). The authors conclude that LLMs serve best as supplementary learning aids and that their use for critical-thinking-intensive tasks can undermine the independent problem-solving skills central to programming education.
+
+## Key Findings
+
+- Significant negative correlation between average LLM use and final grades (Spearman's rho = −0.347, p = 0.026; bootstrap CI [−0.626, −0.044], excluding zero), supporting H1.
+- Significant negative correlation between LLM use for **code generation** and final grades (rho = −0.305, p = 0.045), supporting H2a.
+- Significant negative correlation between LLM use for **debugging** and final grades (rho = −0.360, p = 0.021; strongest effect), supporting H2c.
+- Non-significant correlation between LLM use for **additional explanations** and final grades (rho = −0.201, p = 0.135; CI crosses zero), meaning H2b was not supported; this use appears to act as a supplementary aid rather than a hindrance.
+- Reliance on LLMs for critical-thinking-intensive tasks (code generation, debugging) appears to impede the development of independent problem-solving and troubleshooting skills.
+- Authors recommend introducing LLM tools at later stages of programming education, after students have acquired foundational coding principles, to balance productivity gains against skill development.
+- Study is limited by its small sample (n = 32) and ten-week duration, restricting generalizability.
+
+## Implications
+
+The study provides empirical evidence that how LLMs are used—not merely whether they are used—matters for learning outcomes in programming education. When students lean on LLMs to generate code or to debug for them, their independent problem-solving ability appears to suffer, as reflected in lower final grades even on an LLM-free, controlled assignment. In contrast, using LLMs to obtain explanations appears comparatively benign and potentially supportive. This suggests educators should not treat LLMs as uniformly beneficial or harmful, but should design instruction that constrains reliance on LLMs for tasks where the learning objective is the skill itself, while permitting their use for supplementary explanation and understanding. The finding that "the tool can do the task" does not mean the learner acquires the skill resonates with concerns about over-reliance and cognitive offloading in AI-mediated learning. A balanced integration—delaying LLM exposure until foundational principles are mastered and pairing AI assistance with human guidance—emerges as a practical pedagogical strategy. The modest sample also underscores the need for larger, longer-term replication before strong policy conclusions are drawn.
+
+## Connected Concepts
+
+- [[llm]]
+- [[programming-education]]
+- [[cs-education]]
+- [[over-reliance]]
+- [[generative-ai]]
+- [[cognitive-offloading]]
+- [[critical-thinking]]
+- [[self-regulated-learning]]
+- [[human-ai-collaboration]]
+
+## Connected Articles
+
+- [[reshaping-cs-education-genai]]
+- [[chatgpt-programming-education-text-mining]]
+- [[genai-meta-analysis-programming-learning]]
+- [[llm-programming-support-governance-cs-education]]
+- [[genai-over-reliance-learning-2026]]
+- [[genai-performance-vs-learning]]
+- [[llm-reliance-types-undergrad]]
+- [[trio-ethnography-llm-programming-education]]
+
+## Citation
+
+Jošt, G., Taneski, V., & Karakatič, S. (2024). The impact of large language models on programming education and student learning outcomes. *Applied Sciences*, *14*(4115). https://doi.org/10.3390/app14104115
+
+---
+
 ## [MathBuddy: Affective Math Tutoring](https://edtechdev.github.io/aied/articles/kar-mathbuddy-affective-math-tutoring-2025/)
 
 > **MathBuddy: Affective Math Tutoring** — EMNLP 2025 Demo. An emotionally aware LLM-powered mathematics tutor that dynamically models student emotions from both conversational text and facial expressions, aggregating multimodal affective signals to shape pedagogically appropriate LLM responses. Maps detected affective states to relevant pedagogical strategies, achieving a +23-point win rate advantage and +3-point improvement on the DAMR (Dimensions of Affective Math Response) score at the overall level. Evaluated across eight pedagogical dimensions in user studies, MathBuddy demonstrates that affective awareness substantially improves the quality of AI math tutoring.
@@ -17908,6 +18228,64 @@ This BJET review synthesizes 56 empirical studies on GenAI in education, uniquel
 ## Citation
 
 Liang, Z., Yang, K., Sha, L., Gašević, D., Yan, L., & Chen, G. (2026). [A systematic review of generative AI in education: Empirical insights from a human–AI interaction perspective](https://doi.org/10.1111/bjet.70055).
+
+---
+
+## [Automatic Large Language Models Creation of Interactive Learning Lessons](https://edtechdev.github.io/aied/articles/lin-llm-interactive-lesson-generation/)
+
+> **Synthesis:** Lin et al. (2025) explore automatic generation of interactive, scenario-based lessons designed to train novice human tutors who teach middle-school mathematics online. The system combines prompt engineering with a Retrieval-Augmented Generation (RAG) approach on GPT-4o, generating lessons in English for three tutor-training topics (Encouraging Students' Independence, Encouraging Help-Seeking Behavior, Turning on Cameras). The key finding is that a **task decomposition** prompting strategy — breaking lesson generation into segments — produced higher-rated lessons than single-step generation, with a three-segment approach scoring highest. Two human evaluators rated the lessons using a rubric informed by lesson design research (Cohen's κ = 0.72), identifying strengths (well-structured content, time-saving) and limitations (generic feedback, unclear sections, unreliable references), supporting a hybrid human–AI lesson-generation workflow.
+
+## Context and motivation
+
+One-on-one human tutoring is highly effective but difficult to scale due to a scarcity of skilled tutors. Professional development programs train novice tutors, and online scenario-based training has emerged as a promising approach — but manually constructing the lessons at its center is time-consuming and expertise-heavy, making it costly to scale. The authors address this with LLM-based automatic lesson generation.
+
+## Method
+
+Lessons follow the SMART tutor-training framework's five-section structure (Title Page, Scenario I, Instruction, Scenario II, Conclusion). The generation pipeline has two steps: a lesson designer retrieves research articles on effective tutoring practices, which then prompt the GPT-4o model (gpt-4o-2024-05-13) via RAG to produce pedagogically grounded content.
+
+To explore optimal prompting, lessons were generated under five segmentation strategies: one segment (whole lesson at once), two, three, four, and five segments — where each segment is generated using prior segments as context. Evaluation used two human coders experienced in tutoring middle-school math, applying a 17-code rubric (Cohen's κ = 0.72), with a third reviewer resolving discrepancies.
+
+## Results
+
+The three-segment approach achieved the highest average rating (14.67), while the one-segment approach scored lowest (10.67), indicating that moderate task decomposition improves lesson quality. However, the five-segment approach — the highest level of decomposition — performed slightly worse than three segments, suggesting that excessive decomposition may reduce clarity and pedagogical grounding. Across the rating codes, three-segment generation was particularly strong on feedback and pedagogical grounding.
+
+Human lesson designers identified several strengths: substantial time savings in drafting scenarios and multiple-choice questions, generation of diverse and realistic scenarios, no observed biased or offensive content, and a clear foundation for iterative human–AI collaboration. Limitations included generic feedback that mostly explained the correct answer without targeted explanations of why options were wrong, inconsistent terminology (e.g., "learners" vs. "tutors") and unclear learning objectives, overly long and logically disconnected instruction sections, and non-authentic academic references that persisted even with RAG.
+
+## Implications for AI in education
+
+- **Task decomposition matters for LLM content generation:** moderately decomposing lesson-generation into sub-tasks substantially improves quality versus one-step generation; over-decomposition can backfire.
+- **Hybrid human–AI workflow is essential:** LLMs excel at drafting scenarios and saving time, but educators must verify references, add targeted per-option feedback, and refine instructional clarity.
+- **RAG grounds but does not guarantee authenticity:** retrieval improves contextual relevance but did not prevent the model from producing non-existent references.
+- **Scalable tutor training:** automatic generation can expand access to effective professional-development lessons, particularly for novice tutors of middle-school math.
+
+## Connected Concepts
+
+- [[llm]]
+- [[generative-ai]]
+- [[prompt-engineering]]
+- [[rag]]
+- [[instructional-design]]
+- [[curriculum-design]]
+- [[professional-training]]
+- [[intelligent-tutoring]]
+- [[math-education]]
+- [[scaffolding]]
+- [[human-ai-collaboration]]
+- [[help-seeking]]
+- [[simulating-students]]
+
+## Connected Articles
+
+- [[ai-tutor-authoring-promptdecipher]] — Prompt-based authoring of AI tutors
+- [[instructional-agents-multi-agent-course-gen]] — Multi-agent course generation
+- [[curriculum-as-code-instructional-design-2026]] — Instructional design as code
+- [[bridging-instructional-design-framework-math]] — Instructional design framework for math
+- [[genai-pd-ai-pck-learning-gain-2026]] — GenAI professional development and AI-PCK
+- [[adaptive-virtual-patient-psychotherapy-training]] — Scenario-based training of novices
+
+## Citation
+
+Lin, J., Rao, J., Zhao, S. Y., Wang, Y., Gurung, A., Barany, A., Ocumpaugh, J., Baker, R. S., & Koedinger, K. R. (2025). [*Automatic Large Language Models Creation of Interactive Learning Lessons*](https://doi.org/10.48550/arXiv.2506.17356). ECTEL 2025. arXiv:2506.17356.
 
 ---
 
@@ -24056,6 +24434,58 @@ Jain, M., Bhatt, T., Pitts, G., Pandya, A., Brusilovsky, P., Norouzi, N., Hellas
 
 ---
 
+## [Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology](https://edtechdev.github.io/aied/articles/richmond-nicholls-genai-psych-feedback-ai-literacies/)
+
+# Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology
+
+## Summary
+
+Richmond & Nicholls (2025) describe integrating generative AI (ChatGPT) into a large second-year psychology assessment — the "Media Assignment," in which students translate a published research article into a media release and video for a lay audience. They modified Phase 1 so that instead of peer review, students used ChatGPT to generate a draft media release and then critiqued that output against the course's marking rubric, grading six criteria and identifying three strengths, three weaknesses, and three priorities for revision. In Phase 2 students revised the AI text (tracked changes), and in Phase 3 they produced a final video. Students accurately assessed the ChatGPT output: they rated it stylistically strong but lacking accurate coverage of the research's aims, methods, and results. Working with the rubric and genAI early had a small but significant benefit for script-revision grades relative to the prior peer-review cohort, though final video grades did not differ. The design is presented as building three literacies at once — psychological, feedback, and AI — and as an example of shifting assessment emphasis from product to learning process.
+
+## Key Findings
+
+- **Rubric-based critique of genAI output:** Students graded a ChatGPT-drafted media release against the marking rubric; 92% rated the output at pass or above on "Style," but 94% rated it at credit level or lower on "Aims/Methods/Results" — recognizing strong style alongside inaccurate coverage of aims, methods, and results (χ²(4) = 317.48, p < .001; Cramer's V = 0.66).
+- **Early rubric engagement helped later performance:** The 2023 AI-critique cohort scored higher than the 2022 peer-review cohort on the script revision task (t(733.05) = 4.93, p < .001, d = 0.36); no significant difference on the final video (t(732.48) = 1.52, p = .129). The authors caution the gain could stem from starting from stylistically strong ChatGPT output rather than rubric engagement.
+- **Scaffolding gap:** A small number of students failed to catch coverage inaccuracies (awarding ChatGPT High Distinction/Distinction on "Aims/Methods/Results"), indicating some need more scaffolding of the critical-thinking process for evaluating genAI veracity.
+- **Three literacies at once:** Psychological literacy (translating research for a lay audience), feedback literacy (early rubric engagement, candid critique without peer-reaction concerns, self-evaluation), and AI literacy (understanding, working with, and critically evaluating AI) are promoted by one integrated assessment.
+- **Process over artifact:** The authors argue genAI's ability to mimic human artifacts pushes educators to assess the learning process, not the final product, and to use AI to outsource initial creation so students practice higher-order evaluation and analysis.
+
+## Implications
+
+- Offers a replicable template for using genAI in assessment to train evaluation and analysis rather than banning the tool.
+- Uses ChatGPT output as a "teachable artifact" — stylistically good but factually unreliable — giving students practice detecting hallucination and appraising evidence.
+- Shows feedback literacy can be built by having students grade AI output against a rubric early in a course, with observable grade benefits on later revision tasks.
+- Supports assessment reform toward documented process (revision, version control) over deliverable artifacts in the age of generative AI.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[assessment]]
+- [[critical-thinking]]
+- [[academic-integrity]]
+- [[higher-ed]]
+- [[writing-education]]
+
+## Connected Articles
+
+- [[care-full-feedback-genai]] — Care-full feedback in the era of generative AI
+- [[chatgpt-feedback-engagement-genai]] — ChatGPT feedback and engagement with generative AI
+- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
+- [[ai-internal-feedback-evaluative-judgments]] — AI-internal feedback and evaluative judgments
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment with AI
+- [[authentic-products-authenticated-processes-2026]] — Authentic products, authenticated processes
+- [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI literacy
+- [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with generative AI
+
+## Citation
+
+Richmond, J. L., & Nicholls, K. (2025). [*Using generative AI to promote psychological, feedback, and artificial intelligence literacies in undergraduate psychology*](https://journals.sagepub.com/doi/10.1177/00986283241287203). *Teaching of Psychology*, 52(3), 291–297. https://doi.org/10.1177/00986283241287203
+
+---
+
 ## [RoboBlockly Studio: Conversational Block Programming With Embodied Robot Feedback for Computational Thinking](https://edtechdev.github.io/aied/articles/roboblockly-conversational-block-robotics-ct-2026/)
 
 > **Synthesis:** Li, Du, Sun, and colleagues (2026) design and evaluate RoboBlockly Studio, an integrated interactive system that combines block-based programming, a conversational AI teaching agent, and embodied robot execution to support computational thinking. Recognizing that learners and teachers face challenges connecting abstract program logic to meaningful outcomes, the system creates a tight iterative loop of authoring, running, observing, and revising. Informed by interviews with five programming teachers, the system was designed to support four goals: preserving learner agency, making program behavior transparent, grounding programming in embodied classroom-aligned tasks, and scaffolding reflection through AI dialogue. It was deployed with 32 high school students.
@@ -24217,6 +24647,51 @@ Wang, Y., Zhang, Z. J., & Zou, D. (2026). [*Multimodality and Social Interaction
 ## Citation
 
 Chengshuai Zhao, Fan Zhang, Kumar Satvik Chaudhary, Yiwen Li, Lo Pang-Yun Ting, Ying-Chih Chen, Huan Liu (2026). [REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading](https://arxiv.org/abs/2605.27402). arXiv:2605.27402. arXiv preprint.
+
+---
+
+## [Don't believe the hype. AI myths and the need for a critical approach in higher education](https://edtechdev.github.io/aied/articles/rudolph-ai-myths-critical-higher-ed/)
+
+> **Synthesis:** An editorial from the *Journal of Applied Learning & Teaching* that critically interrogates the hype surrounding AI and generative AI (GenAI) in higher education. The authors dismantle eight entrenched myths about AI — including its supposed autonomy, intelligence, objectivity, and inevitability — and argue that these technologies tend to exacerbate inequality, environmental degradation, labour precarity, and academic-integrity erosion. They call on higher-education intellectuals to embed [[ai-literacy]] into curricula and institutional practices as the corrective to uncritical technological optimism.
+
+## Key Findings
+
+**Eight myths, dismantled.** The editorial systematically critiques eight prevailing myths that shape the AI discourse: (1) 'AI is artificial'; (2) 'AI is intelligent'; (3) 'AI will make the world a better place'; (4) 'AI is objective and unbiased'; (5) 'the US is the sole AI superpower and Big Tech holds quasi-monopolies'; (6) 'AI will not significantly affect the job market'; (7) 'AI revolutionises higher education'; and (8) 'teachers can reliably detect AI-generated work'. Each myth is presented with the claims of its proponents and then countered with critical evidence.
+
+**AI is neither artificial nor intelligent.** Drawing on Crawford (2021), the authors contend AI is not inherently autonomous, intelligent, or objective but a product of human ingenuity built on vast, often exploitative labour — click workers, data annotators, and content moderators — and the wholesale scraping of human-generated, frequently copyrighted content. The term 'artificial intelligence' itself is framed as a marketing construct and 'empty signifier'.
+
+**Hype vs. harm to society and the environment.** Contrary to claims that AI will engender a more democratic, equal, and sustainable world, the authors argue GenAI threatens democracy (deepfakes, targeted propaganda, automated disinformation), exacerbates inequality and the [[digital-divide]], and carries a heavy ecological footprint — from rare-mineral extractivism in the Global South to enormous energy and water consumption and offshored e-waste. AI is framed here as a source of [[ai-misuse-learning-harm]] at a societal scale.
+
+**Geopolitics and the myth of US dominance.** The belief that the US exclusively dominates the AI arena is challenged by China's rapid ascent, illustrated by DeepSeek's open-source, low-cost reasoning model that disrupted markets in January 2025. This raises questions about access, control, and [[ai-governance-education]] — including the adequacy of US chip-export [[regulation]].
+
+**Higher education: erosion, not revolution.** The claim that AI revolutionises higher education overlooks its detrimental effects on [[academic-integrity]] and the erosion of evidence-based pedagogical practices, compounded by an existing crisis of higher education. Likewise, AI-detection is unreliable: models increasingly produce outputs indistinguishable from human work, undermining the belief that teachers can catch AI use with or without AI tools.
+
+**The corrective: critical AI literacy.** The authors call on intellectuals in higher education to lead a transformative agenda — embedding [[ai-literacy]] as a graduate attribute, supported by [[faculty-development]], innovative assessment, and metacognitive initiatives. This is intended to equip learners to critically evaluate digital content, challenge techno-optimistic narratives, and ensure AI serves human insight and social justice rather than perpetuating [[critical-thinking]]-eroding technological illusions.
+
+## Implications
+
+The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential graduate competencies in an era where GenAI increasingly shapes academic, professional, and public discourse. For institutions, it recommends integrating critical AI literacy into course design and review processes and resisting profit-driven narratives from Big Tech. The paper also situates GenAI adoption within wider debates about [[ai-governance-education]], equity, and the environmental and labour costs of AI infrastructure, arguing that technology should be a tool for enhancing human intelligence rather than replacing or diminishing it.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[critical-thinking]]
+- [[academic-integrity]]
+- [[digital-divide]]
+- [[ai-misuse-learning-harm]]
+- [[ai-governance-education]]
+- [[faculty-development]]
+- [[regulation]]
+
+## Connected Articles
+
+- [[hingle-collaborative-ai-literacy-2025]] — Systematic Review of Collaborative Learning Activities for Promoting AI Literacy
+
+## Citation
+
+Rudolph, J., Ismail, F., Tan, S., & Seah, P. (2025). [*Don't believe the hype. AI myths and the need for a critical approach in higher education*](https://doi.org/10.37074/jalt.2025.8.1.1). *Journal of Applied Learning & Teaching*, 8(1).
 
 ---
 
@@ -29270,6 +29745,48 @@ Zerkouk, M., Mihoubi, M., & Chikhaoui, B. (2025). [Comprehensive Review of Intel
 
 ---
 
+## [A Case Study of Integrating AI Literacy Education in a Biology Class](https://edtechdev.github.io/aied/articles/zha-ai-literacy-biology-case-study/)
+
+> **Integrating AI literacy into an advanced biology course** — Zha et al. (2025). A concurrent-triangulation case study in which 37 high-school students learned machine learning, artificial neural network, and convolutional neural network concepts embedded in four biology lessons. Students' overall AI knowledge improved significantly; overall biology knowledge rose slightly but not significantly. Biology knowledge significantly predicted AI learning overall and in the two lessons where AI concepts were concretized in familiar biology.
+
+## Key Findings
+
+This study addresses a persistent gap in K-12 AI education: whereas most US AI literacy instruction has been delivered through extracurricular activities, this work integrates AI learning directly into a standard academic course — a high-school honors biology class. The authors argue that integrating AI into a disciplinary context both broadens access and tests whether contextual subject knowledge supports AI learning, an under-examined question in the field.
+
+**Design.** The researchers used a concurrent triangulation (mixed-method) design. Quantitatively, they measured conceptual understanding via pre/post-tests and fill-in-blank worksheet questions; qualitatively, they analyzed students' interdisciplinary reasoning in open-ended worksheet answers using an adapted version of Shen et al.'s (2015) interdisciplinary reasoning and communication framework, with strong inter-rater agreement (κ=0.88).
+
+**Four biology-embedded AI lessons.** Students learned machine learning, artificial neural networks, and convolutional neural networks across lessons on cell classification with Teachable Machine, comparing human neurons with ANN structure, CNN in plant science, and AI in colorectal cancer detection. The [[instructional-design]] deliberately selected biologically inspired AI topics so students could see the connection between the two domains.
+
+**Outcomes.** Paired t-tests showed significant growth in overall AI knowledge (M 2.81 → 4.12, p<0.001), while overall biology knowledge increased only slightly and non-significantly (p=0.21). A regression (R²=0.64, p<0.01) found that both biology knowledge and prior AI knowledge significantly predicted post-test AI scores.
+
+**The role of context.** Per-lesson regressions revealed that prior biology knowledge significantly predicted new AI learning in Lesson 1 (R²=0.24) and Lesson 2 (R²=0.52), but not in Lessons 3 and 4, where AI concepts were presented through abstract academic articles. The authors interpret this through semantic wave theory: hands-on or familiar contexts yielded high semantic gravity and concretized AI, whereas article-based lessons had lower gravity and higher semantic density, hindering learning.
+
+**Interdisciplinary reasoning.** Qualitative analysis found that students who transferred source-domain knowledge generally produced better explanations in the target domain, while non-transfer was associated with vague or inaccurate explanations. The authors suggest a potential causal relationship between transfer and explanation that warrants further quantitative testing.
+
+## Implications
+
+The findings support integrating AI literacy into [[stem-education]] curricula rather than relegating it to extracurricular settings, consistent with calls to embed AI learning in practical contexts via [[active-learning]]. For [[curriculum-design]], the results highlight that subject context is not automatically supportive: AI concepts are best learned when concretized in familiar, hands-on disciplinary knowledge (as in the cell-classification and neuron lessons) rather than only through abstract academic texts. The study's emphasis on assessing students' [[ai-ed-evaluation]] through both conceptual and interdisciplinary-reasoning measures offers a model for evaluating integrated AI learning.
+
+The authors also offer practical guidance for educators: activate prior subject knowledge before introducing AI, use age-appropriate materials (converting academic articles into accessible formats, possibly with generative AI assistance), select contexts where students are competent and confident, and design scalable, modular lessons that fit within state-mandated standards and existing buffer time.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[k-12-ai-education]]
+- [[k-12]]
+- [[stem-education]]
+- [[curriculum-design]]
+- [[instructional-design]]
+- [[transfer-of-learning]]
+- [[active-learning]]
+- [[ai-ed-evaluation]]
+
+## Citation
+
+Zha, S., Maulucci Bragdon, M., Gong, N., Wang, J., Leavesley, S., Eaton, R., & Bosarge, E. (2025). [*A case study of integrating AI literacy education in a biology class*](https://doi.org/10.1007/s40593-025-00476-8). *International Journal of Artificial Intelligence in Education*, 35, 2453–2477.
+
+---
+
 ## [Designing for Authentic Assessment: A Scoping Review](https://edtechdev.github.io/aied/articles/zhan-boud-du-authentic-assessment-scoping-review-2025/)
 
 > Wiggins (1990) proposed AA as a counterbalance to standardised tests: direct examination of "student performance on worthy intellectual tasks."
@@ -29437,6 +29954,79 @@ Zhang, A., Ross, A., Patel, K., Bernado, J., Bowie, R., Ribeiro, A. T., Halper, 
 
 ---
 
+## [LearnLens: Personalised, Curriculum-Grounded AI Feedback with Educators in the Loop](https://edtechdev.github.io/aied/articles/zhao-learnlens-feedback-educators-loop/)
+
+# LearnLens: Personalised, Curriculum-Grounded AI Feedback with Educators in the Loop
+
+## Core Finding
+
+**LearnLens is a modular, LLM-based system that generates personalised, curriculum-aligned feedback in science education by combining error-aware assessment, a topic-linked memory chain, and an educator-in-the-loop interface.** Zhao et al. (2025) report that this architecture produces high-quality scoring (MSE 3.19, 8–13% below any baseline) while keeping latency (~11.4s) and cost ($0.0099/request) competitive, and that teachers rated it strongly for usability, curriculum relevance (4.4/5), and scientific accuracy (4.3/5).
+
+## Three Core Components
+
+LearnLens is designed as a dual-interface system serving both teachers and students, built around three components that each target a shortcoming of prior AI-feedback systems.
+
+### 1. Error-Aware Assessment Module
+The "Assessor" maps each student answer onto a curriculum-aligned mark scheme of weighted key concepts, awarding **partial credit** when a concept is detected even if the final answer is wrong. It **decouples conceptual understanding from writing quality**: grammatical and typographical issues are captured by a separate expression-quality flag and excluded from the numerical grade. A self-reflection mechanism is triggered when a direct "grade-this-answer" prompt score diverges from the concept-matching score, and the transparent weighting of concepts is said to ease disputes and remove the "black box" impression.
+
+### 2. Curriculum-Grounded Generation (Chain-of-Concept)
+Rather than similarity-based retrieval, the system organises past assessments by curriculum topics into a **topic graph** and confines retrieval to the topic subgraph for a query — an explicit departure from traditional RAG. The authors argue this reduces cross-topic noise and improves relevance, producing pedagogically coherent feedback aligned to learning objectives. A safety-aligned model filters harmful, biased, or otherwise inappropriate language post-generation.
+
+### 3. Educator-in-the-Loop Interface
+Teachers can monitor student performance, review and revise feedback through a conversational interface, propagate edits across an entire quiz, and select embedded **verifiers** that score feedback on Scientific Accuracy, Clarity (accessible to GCSE-level students), and Specificity. A verification-and-revision loop iterates until criteria meet a threshold or the iteration limit is reached. Importantly, teacher intervention is treated as a signal of dissatisfaction that triggers allocation of additional computational resources for deeper reflection — prioritising feedback quality and user trust over speed.
+
+## Evaluation Results
+
+- **Teacher user study (N = 30, prior STEM teaching experience):** Mean ratings never fell below 4.1/5 across nine Likert items; ~80% called the menu "intuitive"; 75% expect results in under 15 seconds (met in >90% of local-deployment cases). Median time per assignment dropped from 10–30 minutes to under 5 minutes. A χ² test (p = 0.63) showed no significant difference in adoption intent across prior-method groups, with every cohort exceeding 65% "continue using" (automation-savvy peak 85%).
+- **Agent performance (100 authentic student answers):** LearnLens scored best on MSE (3.190), correlation (0.388), exact (0.354), and ±1 (0.747) accuracy, while maintaining latency ~4× faster than QwQ-32B and cost 72% cheaper, via a modular pipeline that invokes lightweight models for routine subtasks and larger models only for deeper reasoning, supported by vLLM serving and speculative decoding.
+- **Privacy:** All experiments were conducted via **local deployment** due to student data privacy concerns (evaluated models: Llama-3-8B, Qwen2.5-32B, QwQ-32B).
+
+## Implications
+
+This work illustrates how [[curriculum-design]] can be operationalised inside an [[llm]]-based feedback system, and how [[human-in-the-loop-ai]] oversight — via interactive teacher revision and embedded verifiers — can address the [[hallucination-risk]] and lack-of-control criticisms levelled at purely automated feedback. The topic-linked memory chain is a direct contribution to reducing retrieval noise, engaging debates around [[rag]] and [[knowledge-graph]] organisation for [[educational-nlp]]. Its focus on [[stem-education]] and GCSE science demonstrates the [[teacher-role]] in validating AI output rather than being displaced by it, supporting [[ai-feedback-quality]] and [[formative-assessment]] goals through an explicit [[feedback-loop]].
+
+## Connection to Existing Wiki
+
+- **[[ai-feedback-quality]]**: Provides a concrete verifier-based framework (accuracy, clarity, specificity) for assessing generated feedback quality.
+- **[[student-modeling]]**: The error-aware assessment module captures partial understanding and reasoning errors rather than binary correctness, aligning with richer student modelling.
+- **[[feedback-loop]]**: The verification-and-revision loop and educator-intervention-triggered deep reflection are core feedback-loop mechanisms.
+- **[[curriculum-design]]**: Grounds feedback generation in national-curriculum-aligned mark schemes and topic structures.
+- **[[rag]] / [[knowledge-graph]]**: Directly challenges similarity-based retrieval with a topic-linked memory chain (Chain-of-Concept), a relevant counterpoint to RAG-based tutors in the wiki.
+
+## Methodological Notes
+
+Strengths include a modular, component-level evaluation on authentic student answers and a 30-teacher usability study. Limitations acknowledged by the authors include the **lack of student evaluation** and a focus on teacher perceptions; deployment priorities are a sub-15-second latency ceiling, adaptive onboarding by user type, and verifier transparency.
+
+## Connected Concepts
+
+- [[ai-feedback-quality]]
+- [[feedback-loop]]
+- [[llm]]
+- [[generative-ai]]
+- [[stem-education]]
+- [[student-modeling]]
+- [[human-in-the-loop-ai]]
+- [[curriculum-design]]
+- [[teacher-role]]
+- [[educational-nlp]]
+- [[formative-assessment]]
+- [[rag]]
+- [[knowledge-graph]]
+- [[hallucination-risk]]
+
+## Connected Articles
+
+- [[sequenced-ai-feedback-learning]]
+- [[care-full-feedback-genai]]
+- [[learner-centered-feedback-ai]]
+- [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]]
+
+## Citation
+
+Zhao, R., Bobrov, A., Li, J., Aloisi, C., & He, Y. (2025). [LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop](https://arxiv.org/abs/2507.04295). *Proceedings of EMNLP 2025*. arXiv:2507.04295. DOI: 10.48550/arXiv.2507.04295. (CC BY-NC-ND 4.0)
+
+---
+
 # Concepts
 
 ## [Academic Integrity](https://edtechdev.github.io/aied/concepts/academic-integrity/)
@@ -29599,6 +30189,7 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - [[over-reliance]]
 - [[collaborative-learning]]
 ## Connected Articles
+- [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
 
 - [[lak2026-hint-button-unproductive-use]]
 - [[efficiency-gain-illusion-ai-overreliance]]
@@ -29644,6 +30235,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[formative-assessment]]
 
 ## Connected Articles
+- [[chudziak-ai-math-tutoring-platform]] — Adaptive/personalized multi-agent math tutoring (Chudziak & Kostka 2025)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 
 - [[deeptutor]]
@@ -30178,6 +30770,8 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[confidence-aware-ai-assessment]]
 
 ## Connected Articles
+- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM feedback generation with educators in the loop (Zhao et al. 2025)
+- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Critiquing ChatGPT output against a rubric builds feedback literacy (Richmond & Nicholls 2025)
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutoring feedback: accurate diagnosis ≠ actionable feedback (Yasir et al. 2026)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation feedback reliability and limits (Melo et al. 2026)
 - [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback (PolyFeed)
@@ -30305,6 +30899,11 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[k-12-ai-education]]
 - [[tpack]]
 ## Connected Articles
+- [[rudolph-ai-myths-critical-higher-ed]] — A critical take on AI hype and myths in higher education (Rudolph et al. 2025)
+- [[beck-genai-literacy-economics-hands-on]] — A hands-on approach to GenAI literacy in economics (Beck & Brodersen 2025)
+- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Using GenAI to build psychological, feedback, and AI literacies (Richmond & Nicholls 2025)
+- [[zha-ai-literacy-biology-case-study]] — Integrating AI literacy education in a biology class (Zha et al. 2025)
+- [[jin-glat-genai-literacy-assessment]] — GLAT: a validated generative AI literacy assessment test (Jin et al. 2025)
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI Literacy (SAIL) Framework
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy
@@ -30443,6 +31042,7 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 - [[stem-education]]
 - [[item-response-theory]]
 ## Connected Articles
+- [[chudziak-ai-math-tutoring-platform]] — Multi-agent AI math tutoring platform (Chudziak & Kostka 2025)
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutoring agents struggle on valid-alternative/incorrect solutions (Yasir et al. 2026)
 
 - [[adversarial-stress-testing-role-playing-agents]]
@@ -31161,6 +31761,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[critical-thinking]]
 - [[regulation]]
 ## Connected Articles
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
@@ -31480,6 +32081,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[higher-ed]]
 
 ## Connected Articles
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use negatively correlates with critical thinking via offloading (Gerlich 2025)
 
 - [[critical-media-literacy-education-2026]]
 - [[probing-ai-generated-physics-solutions-2026]]
@@ -31929,6 +32531,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation reliability and accuracy (Melo et al. 2026)
 
@@ -32467,6 +33070,7 @@ Feedback loops connect to [[formative-assessment]] (the assessment philosophy th
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: curriculum-grounded feedback with educator oversight (Zhao et al. 2025)
 - [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback (PolyFeed)
 - [[ai-guided-learning-audiovideo-2026]]
 
@@ -32690,6 +33294,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[tpack]]
 ## Connected Articles
+- [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom (Ben-Zion et al. 2025)
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
@@ -32937,6 +33542,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[professional-training]]
 
 ## Connected Articles
+- [[rudolph-ai-myths-critical-higher-ed]] — AI myths and the need for a critical approach in higher ed (Rudolph et al. 2025)
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
@@ -33235,6 +33841,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[accessible-learning]]
 - [[universal-design-for-learning]]
 ## Connected Articles
+- [[lin-llm-interactive-lesson-generation]] — Automatic LLM creation of interactive learning lessons (Lin et al. 2025)
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
 
 - [[curriculum-as-code-instructional-design-2026]]
@@ -33365,6 +33972,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[ai-tutoring]]
 
 ## Connected Articles
+- [[jin-glat-genai-literacy-assessment]] — GLAT uses IRT/2PL validation (Jin et al. 2025)
 
 - [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
@@ -34013,6 +34621,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[generative-ai]]
 - [[open-source]]
 ## Connected Articles
+- [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on math student work with errors (DrawEduMath, Lucy et al. 2026)
 
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
@@ -34485,6 +35094,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[prompt-engineering]]
 
 ## Connected Articles
+- [[jost-llm-programming-education-learning-outcomes]] — LLM reliance correlates negatively with grades in coding (Jošt et al. 2024)
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: unguarded AI and the illusion of learning (Brcic & Frljic 2026)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
@@ -34833,6 +35443,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[generative-ai]]
 - [[higher-ed]]
 ## Connected Articles
+- [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
 
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[socratic-ai-physics-tutor-taxonomy-2026]]
@@ -35035,6 +35646,7 @@ Programming education connects to [[educational-robotics]], [[computational-thin
 - [[higher-ed]]
 
 ## Connected Articles
+- [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education learning outcomes (Jošt et al. 2024)
 
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
@@ -35114,6 +35726,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[cs-education]]
 - [[higher-ed]]
 ## Connected Articles
+- [[lin-llm-interactive-lesson-generation]] — LLM generation of interactive tutor-training lessons (Lin et al. 2025)
 
 - [[aaai2026-prompting-literacy-k12]]
 - [[ai-adoption-training-public-sector]]

@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [ai-education, generative-ai, higher-ed, ai-literacy, scaffolding, socratic-method, cognitive-offloading]
 confidence: medium
@@ -37,6 +37,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[higher-ed]]
 
 ## Connected Articles
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use negatively correlates with critical thinking via offloading (Gerlich 2025)
 
 - [[critical-media-literacy-education-2026]]
 - [[probing-ai-generated-physics-solutions-2026]]

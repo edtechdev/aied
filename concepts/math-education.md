@@ -55,6 +55,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[generative-ai]]
 - [[open-source]]
 ## Connected Articles
+- [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on math student work with errors (DrawEduMath, Lucy et al. 2026)
 
 - [[kar-mathbuddy-affective-math-tutoring-2025]]

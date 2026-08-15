@@ -33,6 +33,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[ai-tutoring]]
 
 ## Connected Articles
+- [[jin-glat-genai-literacy-assessment]] — GLAT uses IRT/2PL validation (Jin et al. 2025)
 
 - [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration

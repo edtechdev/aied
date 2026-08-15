@@ -42,6 +42,7 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 - [[stem-education]]
 - [[item-response-theory]]
 ## Connected Articles
+- [[chudziak-ai-math-tutoring-platform]] — Multi-agent AI math tutoring platform (Chudziak & Kostka 2025)
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutoring agents struggle on valid-alternative/incorrect solutions (Yasir et al. 2026)
 
 - [[adversarial-stress-testing-role-playing-agents]]

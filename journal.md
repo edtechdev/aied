@@ -7,6 +7,17 @@
 ---
 
 ## 2026-08-15
+- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: Curriculum-Grounded Feedback with Educators in the Loop (Zhao et al. 2025)
+- [[zha-ai-literacy-biology-case-study]] — Integrating AI Literacy Education in a Biology Class (Zha et al. 2025)
+- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: AI myths and critical approach in higher ed (Rudolph et al. 2025)
+- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Using GenAI to Promote Psychological, Feedback, and AI Literacies (Richmond & Nicholls 2025)
+- [[lin-llm-interactive-lesson-generation]] — Automatic LLM Creation of Interactive Learning Lessons (Lin et al. 2025)
+- [[jost-llm-programming-education-learning-outcomes]] — The Impact of LLMs on Programming Education (Jošt et al. 2024)
+- [[jin-glat-genai-literacy-assessment]] — GLAT: The Generative AI Literacy Assessment Test (Jin et al. 2025)
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Cognitive Offloading & Critical Thinking (Gerlich 2025)
+- [[chudziak-ai-math-tutoring-platform]] — AI-Powered Math Tutoring Platform (Chudziak & Kostka 2025)
+- [[benzion-ai-physics-simulations-virtual-lab]] — Leveraging AI for Rapid Generation of Physics Simulations (Ben-Zion et al. 2025)
+- [[beck-genai-literacy-economics-hands-on]] — Fostering Generative AI Literacy in Economics (Beck & Brodersen 2025)
 - [[yasir-llm-tutoring-agents-2026]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most (Yasir et al. 2026). https://doi.org/10.48550/arXiv.2605.16207
 - [[drawedumath-vlm-struggling-students-2026]] — The Aftermath of DrawEduMath: VLMs Underperform with Struggling Students and Misdiagnose Errors (Lucy et al. 2026). https://doi.org/10.48550/arXiv.2603.00925
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning (Brcic & Frljic 2026). https://doi.org/10.48550/arXiv.2606.26181
