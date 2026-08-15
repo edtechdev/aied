@@ -74,6 +74,9 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[digital-divide]]
 - [[k-12-ai-education]]
 - [[tpack]]
+- [[feedback-literacy]]
+- [[feedback]]
+
 ## Connected Articles
 - [[rudolph-ai-myths-critical-higher-ed]] — A critical take on AI hype and myths in higher education (Rudolph et al. 2025)
 - [[beck-genai-literacy-economics-hands-on]] — A hands-on approach to GenAI literacy in economics (Beck & Brodersen 2025)

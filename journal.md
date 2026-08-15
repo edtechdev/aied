@@ -7,6 +7,17 @@
 ---
 
 ## 2026-08-15
+- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as enabler of student feedback engagement framework (Zhan, Boud, Dawson & Yan 2025)
+- [[tubino-adachi-ai-automated-feedback-literacy]] — Developing feedback literacy via an AI automated feedback tool (Tubino & Adachi 2025)
+- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding self-regulated feedback: GenAI vs. human peers (Gu, Chen & Yan 2026)
+- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts and calibration training for AI-assisted writing (Dai 2026)
+- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates ChatGPT acceptance and SRL (Mendoza et al. 2026)
+- [[liu-deris-ai-feedback-literacy-uptake]] — AI feedback literacy: understanding, measuring, predicting uptake (Liu & Deris 2025)
+- [[jin-genai-learning-analytics-feedback-literacy]] — GenAI learning analytics in feedback, feedback literacy perspective (Jin et al. 2025)
+- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning GenAI in EFL peer feedback (Irwin & Muller 2026)
+- [[hawkins-feedback-literacy-ai-essay-writing]] — Summarise, elaborate, try again: feedback literacy and AI essay writing (Hawkins et al. 2026)
+- [[feedback-literacy-scripts-eap-writing]] — Effects of feedback literacy scripts + second-rater on EAP writing revision (Yao 2026)
+- [[feedback-literacy]] — Feedback Literacy
 - [[coach-not-crutch-ai-writing]] — Coach not crutch: AI can improve writing skill despite reducing effort (Lira et al. 2025)
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: Curriculum-Grounded Feedback with Educators in the Loop (Zhao et al. 2025)
 - [[zha-ai-literacy-biology-case-study]] — Integrating AI Literacy Education in a Biology Class (Zha et al. 2025)

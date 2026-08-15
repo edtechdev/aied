@@ -36,6 +36,7 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[llm]]
 - [[higher-ed]]
 - [[ai-ed-evaluation]]
+- [[feedback]]
 
 ## Connected Articles
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM automated classroom observation (Melo et al. 2026)

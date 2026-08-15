@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-15 | **Total pages:** 768
+**Last updated:** 2026-08-15 | **Total pages:** 780
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -85,12 +85,22 @@
 - [[chudziak-ai-math-tutoring-platform]] — AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education
 - [[coach-not-crutch-ai-writing]] — Coach not crutch: Evidence that AI can improve writing skill despite reducing effort
 - [[drawedumath-vlm-struggling-students-2026]] — The Aftermath of DrawEduMath: VLMs Underperform with Struggling Students and Misdiagnose Errors
+- [[feedback]] — Feedback
+- [[feedback-literacy]] — Feedback Literacy
+- [[feedback-literacy-scripts-eap-writing]] — Effects of feedback literacy scripts and a second-rater mechanism on EAP writing revision
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
+- [[hawkins-feedback-literacy-ai-essay-writing]] — Summarise, elaborate, try again: feedback literacy and AI-enhanced essay writing
+- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy
+- [[jin-genai-learning-analytics-feedback-literacy]] — Students' Perceptions of GenAI-Powered Learning Analytics in the Feedback Process
 - [[jin-glat-genai-literacy-assessment]] — GLAT: The Generative AI Literacy Assessment Test
 - [[jost-llm-programming-education-learning-outcomes]] — The Impact of Large Language Models on Programming Education and Student Learning Outcomes
 - [[lin-llm-interactive-lesson-generation]] — Automatic Large Language Models Creation of Interactive Learning Lessons
+- [[liu-deris-ai-feedback-literacy-uptake]] — AI feedback literacy in higher education: understanding, measuring, and predicting uptake
+- [[mendoza-ai-feedback-feedback-literacy-srl]] — Making sense of AI feedback: feedback literacy moderates ChatGPT acceptance and SRL
+- [[rethinking-ai-writing-feedback-literacy]] — Rethinking AI-assisted writing instruction: feedback literacy scripts and calibration training
 - [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology
 - [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype. AI myths and the need for a critical approach in higher education
+- [[scaffolding-srl-feedback-genai-human-peers]] — Fostering feedback literacy by scaffolding self-regulated feedback: GenAI vs. human peers
 - [[stanford-evidence-base-ai-k12-2026]] — The Evidence Base on AI in K-12
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
@@ -667,6 +677,7 @@
 - [[tracing-genai-literacy-interaction-patterns]] — 'Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing'
 - [[trio-ethnography-llm-programming-education]] — Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
 - [[trust-reliance-ai-education-2026]] — 'Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators'
+- [[tubino-adachi-ai-automated-feedback-literacy]] — Developing feedback literacy capabilities through an AI automated feedback tool
 - [[turtleai-visual-programming-benchmark]] — TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics
 - [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals
 - [[tutoring-specific-vs-general-ai]] — Tutoring-Specific vs. General-Purpose AI in Education
@@ -691,6 +702,7 @@
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
 - [[zha-ai-literacy-biology-case-study]] — A Case Study of Integrating AI Literacy Education in a Biology Class
+- [[zhan-boud-dawson-genai-feedback-engagement]] — Generative AI as an enabler of student feedback engagement: a framework
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop
 - [[zone-of-proximal-development]] — Zone Of Proximal Development

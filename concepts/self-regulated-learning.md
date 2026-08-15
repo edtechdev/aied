@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
 confidence: high
@@ -80,6 +80,9 @@ For example:
 - [[higher-ed]]
 - [[generative-ai]]
 - [[authentic-assessment]]
+- [[feedback-literacy]]
+- [[feedback]]
+
 ## Connected Articles
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]

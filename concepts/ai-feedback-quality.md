@@ -25,6 +25,10 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 - **Discretionary feedback provision:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]] examines whether AI increases the quantity and quality of feedback instructors provide.
 
+- **Feedback literacy as the uptake-side boundary:** [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] validate an **AI Feedback Literacy (AIFL) scale** (16 items, Attitudes/Practices factors) that predicts students' actual uptake of AI feedback, and [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show feedback literacy moderates whether AI feedback improves [[self-regulated-learning]] — high literacy yields benefit, low literacy yields minimal or even negative effects. Feedback quality and feedback literacy are two sides of one system: even high-quality AI feedback is inert without a literate recipient.
+
+- **Feedback quality drives revision depth:** [[rethinking-ai-writing-feedback-literacy|Feedback literacy scripts]] and [[feedback-literacy-scripts-eap-writing|second-rater mechanisms]] show that scaffolding how students engage with AI feedback shifts revision toward argument-level improvement rather than surface edits — feedback that promotes deeper revision is higher-quality feedback.
+
 ### Quality dimensions
 
 AI feedback quality spans multiple dimensions captured in the wiki:
@@ -52,6 +56,8 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[higher-ed]]
 - [[teacher-role]]
 - [[confidence-aware-ai-assessment]]
+- [[feedback-literacy]]
+- [[feedback]]
 
 ## Connected Articles
 - [[coach-not-crutch-ai-writing]] — AI writing feedback outperformed human editors on practice letters (Lira et al. 2025)
