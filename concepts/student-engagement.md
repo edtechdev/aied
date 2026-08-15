@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics]
 confidence: high
@@ -25,6 +25,10 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 A central theme in the wiki's research is that engagement and learning must be distinguished. AI tools that generate high engagement (time on task, interaction volume) may not produce learning if that engagement is passive or substitutes for the cognitive work of understanding — see [[genai-performance-vs-learning|performance vs. learning]]. Conversely, productive struggle and desirable difficulty can produce learning even when surface engagement feels lower. Engagement is therefore best treated as a *mechanism* — valuable insofar as it reflects or enables meaningful cognitive processing — rather than a terminal outcome.
 
+### Pedagogy mediates AI's effect on engagement
+
+A systematic synthesis of AI in higher education ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) emphasizes that the **teaching method an AI tool is embedded in is the decisive mediator** of whether it engages students. Chatbots, adaptive systems, and predictive analytics enhance engagement most when deployed within interactive pedagogies — flipped classrooms, project-based learning, and scaffolded feedback loops — rather than as standalone tools. The review formalizes this as the **PMAISE model** (Pedagogical Mediation of AI for Student Engagement), mapping the alignment between AI technologies, pedagogical strategies, and the affective, behavioral, and cognitive dimensions of engagement. The implication is that engagement outcomes are co-produced by the tool *and* the surrounding instructional design: the same AI can amplify engagement in one pedagogy and inhibit it in another.
+
 ### Connections to related concepts
 
 Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[engagement-metrics]] and [[learning-analytics]]. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[over-reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
@@ -43,6 +47,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[higher-ed]]
 
 ## Connected Articles
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: systematic review of engagement + mediating role of teaching methods
 
 - [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
 - [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion
