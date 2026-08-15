@@ -56,6 +56,7 @@ Stage-appropriate authenticity: early units get constrained, well-scaffolded tas
 
 ## Connected Articles
 
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[ai-assessment-scale-reform]] — The AI Assessment Scale and the work of assessment reform
 - [[genai-assessment-governance]] — Governance frameworks for GenAI assessment

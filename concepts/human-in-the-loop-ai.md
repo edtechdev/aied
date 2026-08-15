@@ -51,6 +51,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]]
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ai-changing-teaching-workflows]]
 - [[ai-literacy-legal-translation-2026]]
 - [[ai-tutor-effectiveness-review]]

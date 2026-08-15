@@ -28,6 +28,7 @@ With 76.5% of students demanding pedagogical reform toward hands-on, active tech
 - [[k-12]]
 ## Connected Articles
 
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[cognitive-offloading-speedup-illusion]]
 - [[genai-assessment-governance]]
 - [[ai-fatigue-academic-contexts]]

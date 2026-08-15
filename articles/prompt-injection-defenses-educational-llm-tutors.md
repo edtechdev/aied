@@ -38,6 +38,7 @@ The paper highlights that **educational settings have unique requirements**: fal
 - [[student-experience]]
 ## Connected Articles
 
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ai-tutor-safety-harms]]
 - [[pedagogical-safety-rl]]
 - [[conversational-ai-tutors-framework]]

@@ -68,6 +68,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education (474 studies)
 - [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[tool-invariant-framework-agentic-ai]] — Teaching and assessing computational methods in the age of agentic AI
 - [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking instructional-design agents
 - [[adversarial-stress-testing-role-playing-agents]] — Adversarial stress testing of role-playing agents
