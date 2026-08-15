@@ -7,6 +7,7 @@
 ---
 
 ## 2026-08-15
+- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking the pedagogical knowledge of large language models (Lelièvre et al. 2025). https://doi.org/10.48550/arXiv.2506.18710
 - [[melo-llm-classroom-observation-teach-2026]] — Validating AI-generated classroom observations: reliability, accuracy, and limits of LLM-based pedagogical judgment (Melo et al. 2026). https://doi.org/10.1016/j.caeai.2026.100612
 - ● [[long-ai-higher-ed-engagement-teaching-methods-2026]] — `10.3389/feduc.2025.1648661`
   Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods
