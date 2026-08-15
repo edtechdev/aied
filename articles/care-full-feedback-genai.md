@@ -40,6 +40,7 @@ A conceptual/position paper arguing that feedback in an age of GenAI must be und
 - [[generative-ai]]
 ## Connected Articles
 
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness

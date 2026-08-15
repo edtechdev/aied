@@ -10,7 +10,6 @@ confidence: medium
 
 Across three pre-registered studies (N=2,691), this paper documents systematic miscalibration in how people perceive their own [[generative-ai|AI]] usage. The authors find that people not only use AI for cognitively simple tasks even when it provides no meaningful efficiency benefit, but also systematically misperceive both how much they use AI and how much it helps them.
 
-
 ### Two Forms of Miscalibration
 
 1. **Self-estimate miscalibration**: People on average **underestimate how often they actually use AI** — they believe they use it significantly less than objective measures show.

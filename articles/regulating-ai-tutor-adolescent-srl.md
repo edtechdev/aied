@@ -22,8 +22,6 @@ The paper proposes a turn-level codebook combining SRL and [[metacognition|help-
 - [[over-reliance]]
 ## Connected Articles
 
-
-
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
 - [[socraticode-k12-programming-tutor]] — Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence

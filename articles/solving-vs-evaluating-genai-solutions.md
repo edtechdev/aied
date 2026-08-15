@@ -39,8 +39,6 @@ The results speak directly to the debate over how computing educators should res
 
 ## Connected Articles
 
-
-
 - [[cognitive-shift-ai-education]] — Evidence of a Cognitive Shift in AI Education: How Students Are Rethinking Human Intelligence?
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

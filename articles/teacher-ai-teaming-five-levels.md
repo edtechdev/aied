@@ -50,8 +50,6 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 - [[tpack]]
 ## Connected Articles
 
-
-
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI

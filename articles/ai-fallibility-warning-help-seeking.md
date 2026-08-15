@@ -27,8 +27,6 @@ Recent work in Technology-Enhanced Learning and HumanComputer Interaction highli
 
 ## Connected Articles
 
-
-
 - [[llm-student-simulation-misconception-faithfulness]] — Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
 - [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
 - [[prompt-injection-defenses-educational-llm-tutors]] — Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs

@@ -29,8 +29,6 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[equity-in-ai-education]]
 ## Connected Articles
 
-
-
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
 - [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
 - [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education

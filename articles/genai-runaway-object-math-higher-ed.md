@@ -45,7 +45,6 @@ The study is a qualitative, activity-theoretical case study at a single institut
 - [[ai-tpack-preservice-math-teachers]]
 - [[epistemic-proactivity-math]]
 
-
 ## Citation
 
 Bakogianni, D., Liljekvist, Y., & Bui, P. (2026). [*GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics*](https://doi.org/10.1016/j.caeai.2026.100637).

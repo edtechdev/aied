@@ -43,8 +43,6 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 
 ## Connected Articles
 
-
-
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[amponsah-ai-acceptance-science-teachers-2026]] — Perceptions And Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy

@@ -55,8 +55,6 @@ DeepTutor addresses a critical gap in [[intelligent-tutoring]]: the disconnect b
 - [[adaptive-learning]]
 ## Connected Articles
 
-
-
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning

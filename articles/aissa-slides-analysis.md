@@ -37,8 +37,6 @@ Tested with 46 undergraduate students in a real academic setting. Findings: tech
 
 ## Connected Articles
 
-
-
 - [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing

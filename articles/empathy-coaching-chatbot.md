@@ -19,8 +19,6 @@ Siyan et al. (2026) conduct a carefully controlled experiment isolating the effe
 - [[feedback-loop]]
 ## Connected Articles
 
-
-
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
 - [[llm-diverse-explanations-programming]] — Exploring the Value of Diverse LLM Explanations in Introductory Programming

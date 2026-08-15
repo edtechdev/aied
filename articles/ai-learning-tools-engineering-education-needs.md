@@ -28,8 +28,6 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[teacher-role]]
 ## Connected Articles
 
-
-
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[vibe-coding-programming-process-visualizer]] — From Idea to Classroom in Days: Using "Vibe Coding" to Create a Programming Process Visualizer from IDE Activity Logs
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence

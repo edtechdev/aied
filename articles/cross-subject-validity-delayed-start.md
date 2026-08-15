@@ -29,8 +29,6 @@ This study examines the [[student-modeling]] validity of **delayed start behavio
 - [[formative-assessment]]
 ## Connected Articles
 
-
-
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
 - [[engagement-assessment-video]] — Engagement Assessment in Video Learning
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction

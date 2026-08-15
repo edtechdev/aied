@@ -10,7 +10,6 @@ confidence: high
 
 This paper investigates whether [[llm|large language models]] can serve as scalable proxies for students by simulating realistic logical errors in code submissions. Using the CodeWorkout dataset of 74,000+ unique student Java submissions across 37 problems, the authors evaluate five LLMs under three prompting strategies: Input-Output (IO), Chain-of-Thought (CoT), and iterative Self-Refine.
 
-
 - **Diversity vs. Alignment trade-off**: LLMs generate diverse error patterns, but alignment with authentic student errors varies significantly by model. Claude Sonnet 4 achieves the most balanced performance across both dimensions.
 - **Functional indistinguishability**: A blinded expert annotation study (N=401) found that synthetic errors are functionally indistinguishable from authentic student errors.
 - **Task difficulty effects**: Higher-struggling-level problems elicit more diverse but less student-like errors — LLMs struggle more to simulate realistic mistakes on harder tasks.

@@ -77,6 +77,7 @@ The framework was piloted through a faculty workshop series in a university phys
 - [[scaffolding]]
 ## Connected Articles
 
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[universities-ai-era-rethinking]]
 - [[principled-ai-education]]
 - [[pedagogy-ai-mistakes]]

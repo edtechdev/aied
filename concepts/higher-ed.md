@@ -43,6 +43,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[professional-training]]
 
 ## Connected Articles
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
 - [[ai-acceptance-preservice-science-teachers-2026]]

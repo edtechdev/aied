@@ -10,7 +10,6 @@ confidence: high
 
 > **Synthesis:** This study developed the Writing Improvement and Smart Evaluation Agent (WISE Agent), an AI feedback tool targeting textual logic and perspective biases in student essays. A three-month intervention with 260 Chinese sixth-grade students found structural optimizations in critical thinking dimensions rather than a uniform increase in total scores. Lower-performing students advanced in evidence selection while higher-performing students excelled in perspective diversification, suggesting WISE Agent serves as an effective cognitive scaffold for incremental critical thinking development through personalized feedback loops.
 
-
 ## Key Findings
 
 This study developed the Writing Improvement and Smart Evaluation Agent (WISE Agent), an AI feedback tool targeting textual logic and perspective biases in student essays. A three-month intervention with 260 Chinese sixth-grade students found structural optimizations in critical thinking dimensions rather than a uniform increase in total scores. Lower-performing students advanced in evidence selection while higher-performing students excelled in perspective diversification, suggesting WISE Agent serves as an effective cognitive scaffold for incremental critical thinking development through personalized feedback loops.

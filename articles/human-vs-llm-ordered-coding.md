@@ -48,8 +48,6 @@ The study evaluated a single dataset drawn from three courses at one institution
 
 ## Connected Articles
 
-
-
 - [[cross-dataset-bloom-question-classification]] — Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs
 - [[socratic-tests-conversational-assessment]] — The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
 - [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs

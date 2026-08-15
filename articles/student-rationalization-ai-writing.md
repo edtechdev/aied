@@ -68,6 +68,7 @@ AI-assisted writing lets students **reinterpret harm, authorship, responsibility
 - [[ai-assisted-writing-research-teams]] — AI-assisted writing in research teams
 - [[agentic-literacy-debt]] — Agentic literacy debt and governance
 - [[ai-scoring-language-bias-physics]] — AI scoring and language bias
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[self-referential-l2-writing-llm-assessment]] — Self-referential LLM assessment in L2 writing
 
 ## Citation

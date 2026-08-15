@@ -25,8 +25,6 @@ Large language models (LLMs) power educational applications from tutoring to ess
 - [[student-modeling]]
 ## Connected Articles
 
-
-
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis

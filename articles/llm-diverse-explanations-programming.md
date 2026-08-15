@@ -20,8 +20,6 @@ Bernstein, Denny, Leinonen et al. (2026) investigate whether providing students 
 - [[stem-education]]
 ## Connected Articles
 
-
-
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education

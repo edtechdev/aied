@@ -10,7 +10,6 @@ confidence: high
 
 This landmark study provides the **first large-scale behavioral and outcome evidence** that [[generative-ai]] has fundamentally altered how students study and what they retain. Using a ten-year panel of **3.2 million ALEKS learning interactions** and complementary placement-assessment data, the authors employ a quasi-experimental design that exploits within-curriculum variation in AI susceptibility: text-based word problems that can be transcribed into AI prompts serve as the treated group, while graph-based problems requiring interactive platform manipulation serve as the comparison.
 
-
 ### Time-on-Task Decline
 Learning time on AI-susceptible problems declined at a rate of **2.8% per quarter** among college students after ChatGPT's release, cumulating to a **26.9% reduction** over eleven quarters. The effect varied by age group:
 - High school: **31.3%** cumulative decline

@@ -54,8 +54,6 @@ The auditable construction method is the key contribution — unlike black-box k
 - [[adaptive-learning]]
 ## Connected Articles
 
-
-
 - [[proprl-prerequisite-relation-learning]] — ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information

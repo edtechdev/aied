@@ -29,8 +29,6 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[equity-in-ai-education]]
 ## Connected Articles
 
-
-
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
 - [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
 - [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work

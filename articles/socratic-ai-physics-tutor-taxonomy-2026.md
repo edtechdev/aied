@@ -10,7 +10,6 @@ confidence: high
 
 > **Synthesis:** Large language model (LLM) tutors are being deployed in introductory physics courses at a scale that produces transcript corpora far larger than traditional qualitative coding can absorb. This study builds a bottom-up taxonomy of student discourse from a Socratic AI physics tutor deployed in introductory calculus-based mechanics. Each student turn was assigned an emergent label by an LLM coder, then consolidated into 357 categories. The top 25 categories cover roughly half of all student turns, with equation-handling and meta-procedural requests dominating. A central finding is the striking prevalence of meta-procedural turns in which students cede strategic control to the tutor.
 
-
 ## Key Findings
 
 Large language model (LLM) tutors are being deployed in introductory physics courses at a scale that produces transcript corpora far larger than traditional qualitative coding can absorb. This study builds a bottom-up taxonomy of student discourse from a Socratic AI physics tutor deployed in introductory calculus-based mechanics. Each student turn was assigned an emergent label by an LLM coder, then consolidated into 357 categories. The top 25 categories cover roughly half of all student turns, with equation-handling and meta-procedural requests dominating. A central finding is the striking prevalence of meta-procedural turns in which students cede strategic control to the tutor.

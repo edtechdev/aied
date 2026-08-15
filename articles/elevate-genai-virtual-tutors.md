@@ -29,8 +29,6 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[equity-in-ai-education]]
 ## Connected Articles
 
-
-
 - [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
 - [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
 - [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education

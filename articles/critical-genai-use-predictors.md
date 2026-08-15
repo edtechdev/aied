@@ -49,7 +49,6 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 - [[metacognition]]
 - [[student-experience]]
 
-
 ## Connected Articles
 
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review

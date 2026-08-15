@@ -18,8 +18,6 @@ Systematic study of domain-adapted text-to-image models for nuclear engineering 
 - [[multimodal]]
 ## Connected Articles
 
-
-
 - [[mllm-scientific-visualization-literacy]] — Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics

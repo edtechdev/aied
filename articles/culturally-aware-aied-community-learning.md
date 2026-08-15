@@ -23,8 +23,6 @@ The framework emphasizes [[equity-in-ai-education|cultural contextualization]] o
 - [[higher-ed]]
 ## Connected Articles
 
-
-
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education

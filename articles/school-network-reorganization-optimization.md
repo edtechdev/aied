@@ -39,8 +39,6 @@ As school districts worldwide face declining enrollments and budget pressures, A
 - [[k-12]]
 ## Connected Articles
 
-
-
 - [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions
 - [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

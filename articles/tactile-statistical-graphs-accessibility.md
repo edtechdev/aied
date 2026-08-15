@@ -29,8 +29,6 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[equity-in-ai-education]]
 ## Connected Articles
 
-
-
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education
 - [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration

@@ -39,8 +39,6 @@ The absence of performance differences across usage clusters underscores the nee
 
 ## Connected Articles
 
-
-
 - [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
 - [[cold-start-knowledge-tracing-safeinsights]] — Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights

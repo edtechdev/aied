@@ -47,8 +47,6 @@ This framework has direct implications for [[ai-education|educational policy]] a
 - [[ai-literacy]]
 ## Connected Articles
 
-
-
 - [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
 - [[crewscaler-ai-upskilling-framework]] — AI-accelerated End-to-End Framework for Rapid Professional Upskilling
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning

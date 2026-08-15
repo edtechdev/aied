@@ -37,8 +37,6 @@ ASE-26 reframes [[ai-literacy]] for software professionals as the ability to man
 - [[agentic-ai]]
 ## Connected Articles
 
-
-
 - [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
 - [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training

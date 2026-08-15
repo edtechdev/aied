@@ -12,7 +12,6 @@ confidence: high
 
 This BJET review synthesizes 56 empirical studies on GenAI in education, uniquely applying the AIED-HCD framework which conceptualizes human–AI interaction along two dimensions: human control and AI automation. Three interaction modes emerge: (1) low AI automation + high human control (teacher-led), (2) balanced, and (3) high automation + high human control (emerging trend). A sensitivity analysis validates the robustness of findings across modes. The review identifies that while practice remains cautious toward high-automation modes, the simultaneous presence of high human control with high AI automation represents a promising direction.
 
-
 - 56 empirical studies systematically reviewed through AIED-HCD human–AI interaction framework
 - Three interaction modes identified along human control × AI automation dimensions
 - High-control + high-automation mode emerging as promising direction — not AI replacement but complementarity
@@ -31,8 +30,6 @@ This BJET review synthesizes 56 empirical studies on GenAI in education, uniquel
 - [[equity-in-ai-education]]
 
 ## Connected Articles
-
-
 
 - [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
 - [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025

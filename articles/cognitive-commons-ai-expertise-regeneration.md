@@ -35,8 +35,6 @@ The paper reframes expertise development as collective stewardship rather than o
 
 ## Connected Articles
 
-
-
 - [[genai-expertise-pathways-sysadmin]] — Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
 - [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities

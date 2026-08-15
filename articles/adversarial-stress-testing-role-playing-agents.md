@@ -56,8 +56,6 @@ The framework's relevance to education is twofold:
 - [[pedagogical-agent]]
 ## Connected Articles
 
-
-
 - [[detecting-llm-generated-text-latent-prompt]] — Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark

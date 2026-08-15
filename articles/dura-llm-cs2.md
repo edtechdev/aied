@@ -29,8 +29,6 @@ This paper contributes to the growing body of research on AI applications in edu
 - [[equity-in-ai-education]]
 ## Connected Articles
 
-
-
 - [[mixed-reality-engineering-learning]] — Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning
 - [[cogtax-cognitive-taxonomy]] — CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education
 - [[less-deliberate-teams-llm]] — Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work

@@ -36,8 +36,6 @@ The study demonstrates that process data can characterize GenAI literacy in ways
 - [[agentic-ai]]
 ## Connected Articles
 
-
-
 - [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
 - [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training

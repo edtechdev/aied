@@ -48,7 +48,6 @@ A defining theme is that robots are effective when they support genuine learning
 
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Scoping Review of the Pepper Robot in Formal Education
 
-
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking and Educational Robotics

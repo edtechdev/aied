@@ -19,8 +19,6 @@ Mansi et al. (2026) introduce Concept Catalyst, a system designed around 'scruta
 - [[k-12]]
 ## Connected Articles
 
-
-
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 - [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding

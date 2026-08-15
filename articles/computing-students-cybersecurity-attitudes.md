@@ -29,8 +29,6 @@ Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cyb
 
 ## Connected Articles
 
-
-
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
 - [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2

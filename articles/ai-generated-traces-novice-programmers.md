@@ -35,8 +35,6 @@ The study is a cautionary counterpoint to enthusiasm for AI-generated learning m
 - [[adaptive-learning]]
 ## Connected Articles
 
-
-
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[automated-presentation-coaching]] — A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges
 - [[student-misconceptions-conditionals-loops-taxonomy]] — How Students (Mis)understand Conditionals and Loops -- A Taxonomy

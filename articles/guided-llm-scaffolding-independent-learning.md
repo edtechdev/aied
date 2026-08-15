@@ -36,8 +36,6 @@ The central conclusion is that **LLM access alone is an incomplete educational i
 - [[agentic-ai]]
 ## Connected Articles
 
-
-
 - [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing
 - [[ase-26-agentic-software-engineering-curriculum]] — ASE-26: A Curriculum for Agentic Software Engineering as a Discipline
 - [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training

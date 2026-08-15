@@ -41,6 +41,7 @@ By situating GenAI governance within validity arguments, the framework offers ac
 
 - [[automatic-short-answer-grading]]
 - [[ai-tutor-safety-harms]]
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 ## Citation
 
 Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). [Generative AI as a design variable: An evidence-centered framework for principled governance in STEM assessment](https://arxiv.org/abs/2605.24837). arXiv:2605.24837. cs.CY.

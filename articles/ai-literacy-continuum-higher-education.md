@@ -36,8 +36,6 @@ The continuum gives [[curriculum-design]] and [[faculty-development]] a shared v
 - [[student-experience]]
 ## Connected Articles
 
-
-
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence

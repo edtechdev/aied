@@ -45,8 +45,6 @@ Presents **StructRAG**, a pattern-aware framework that improves how AI tutoring 
 
 ## Connected Articles
 
-
-
 - [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
 - [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
 - [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming

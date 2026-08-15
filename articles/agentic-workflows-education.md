@@ -48,7 +48,6 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[agentic-ai]]
 - [[ai-education]]
 
-
 - [[authentic-assessment]] — Authentic Assessment
 
 ## Connected Articles
@@ -77,7 +76,6 @@ Kamalov et al. implemented a **multi-agent framework for automated essay scoring
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-
 
 - [[persistent-ai-agents-academic-research]]
 ## Citation

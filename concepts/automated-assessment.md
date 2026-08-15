@@ -37,7 +37,6 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[higher-ed]]
 - [[ai-ed-evaluation]]
 
-
 ## Connected Articles
 - [[competency-based-education-genai-production-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)

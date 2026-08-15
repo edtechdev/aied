@@ -39,8 +39,6 @@ For [[design-thinking]]-oriented disciplines, the results suggest GenAI is best 
 
 ## Connected Articles
 
-
-
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 - [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

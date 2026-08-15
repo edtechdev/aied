@@ -34,8 +34,6 @@ Findings highlight the promise of reflective-agent approaches for scaling engage
 
 ## Connected Articles
 
-
-
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[llm-facilitation-timing-online-discussions]] — To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

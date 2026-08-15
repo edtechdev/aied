@@ -23,8 +23,6 @@ This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feed
 - [[student-experience]]
 ## Connected Articles
 
-
-
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
