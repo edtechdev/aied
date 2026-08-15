@@ -401,7 +401,9 @@
 - [[knowloop-confusion-to-consolidation-2026]] — From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review
 - [[kt4eqg-personalized-question-generation]] — 'KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing'
 - [[kutti-ai-voice-first-learning-companion]] — Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children
-- [[lak2026-hint-button-unproductive-use]] — Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems
+- [[lak2026-hint-button-unproductive-use]]
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — When faculty ask, "what's the point of teaching?": GenAI as identity crisis, not skills gap
+ — Revisiting the Hint Button: Consistent Negative Associations Between Unproductive Hint Use and Learning Outcomes in Intelligent Tutoring Systems
 - [[language-learning]] — Language Learning
 - [[lata-ferpa-compliant-local-llm-autograder]] — 'LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework'
 - [[league-ethical-governance-student-data-2026]] — Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics

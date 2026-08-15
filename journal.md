@@ -2,9 +2,15 @@
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
 > Browse recent additions by date. ● = high confidence, ◐ = medium, ○ = low.
-> Last updated: 2026-08-08 | Total entries: 495
+> Last updated: 2026-08-15 | Total entries: 496
 
 ---
+
+## 2026-08-15
+
+- ● [[laidlaw-genai-identity-crisis-faculty-2026]] — `10.1080/1360144X.2026.2680432`
+  When faculty ask, "what's the point of teaching?": GenAI as identity crisis, not skills gap
+  _faculty-development, ai-literacy, teacher-role, generative-ai, higher-ed +4_
 
 ## 2026-08-08
 
