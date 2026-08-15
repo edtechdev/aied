@@ -36,6 +36,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[ai-education]]
 
 ## Connected Articles
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
 
 - [[ai-availability-student-motivation]]

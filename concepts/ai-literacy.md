@@ -72,6 +72,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[metacognitive-ai-literacy-beyond-skills-gap-2026]]
 - [[possibility-ai-literacy-critical-editorial]]
 - [[sec-ai-literacy-narrative-review-2026]]
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
 - [[teacher-education-ai-literacy-sdt-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[elementary-writing-genai-systematic-review-2026]]

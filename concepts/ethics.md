@@ -46,6 +46,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[ai-ethics-education-public-discourse]]
 - [[ethical-ai-higher-ed-game-theory]]
 - [[cost-of-ethics-crisis-cs-ethics-education]]
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
 - [[xai-education-framework]]
 - [[ai-tutor-safety-harms]]
 - [[ai-uk-higher-education-policy-2026]]

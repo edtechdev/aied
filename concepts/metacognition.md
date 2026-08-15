@@ -85,3 +85,5 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[code-review-genai-cs1]]
 - [[codify-socratic-programming-tutor]]
 - [[cognitive-offloading-speedup-illusion]]- [[probing-ai-generated-physics-solutions-2026]]
+
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
