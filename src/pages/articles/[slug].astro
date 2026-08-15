@@ -20,11 +20,21 @@ function renderMarkdown(text: string, pageTitle: string): string {
   let inBlockquote = false;
   let inTable = false;
   let inTableHead = true;
+  const listStack: { indent: number; type: string }[] = [];
+
+  const closeListsTo = (indent: number) => {
+    while (listStack.length && listStack[listStack.length - 1].indent >= indent) {
+      html += `</${listStack.pop()!.type}>`;
+    }
+  };
+  const closeAllLists = () => closeListsTo(0);
 
   for (const line of text.split('\n')) {
     const trimmed = line.trim();
+    const indent = line.match(/^\s*/)![0].length;
 
     if (trimmed.startsWith('> ')) {
+      closeAllLists();
       if (inTable) { html += '</tbody></table>'; inTable = false; inTableHead = true; }
       if (!inBlockquote) { html += '<blockquote class="blockquote">'; inBlockquote = true; }
       html += `<p>${renderInline(trimmed.slice(2))}</p>`;
@@ -33,14 +43,15 @@ function renderMarkdown(text: string, pageTitle: string): string {
     if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
 
     // Skip H1 matching page title
-    if (trimmed.startsWith('# ') && trimmed.slice(2).trim() === pageTitle) continue;
+    if (trimmed.startsWith('# ') && trimmed.slice(2).trim() === pageTitle) { closeAllLists(); continue; }
 
-    if (trimmed.startsWith('### ')) { html += `<h3>${renderInline(trimmed.slice(4))}</h3>`; continue; }
-    if (trimmed.startsWith('## ')) { html += `<h2>${renderInline(trimmed.slice(3))}</h2>`; continue; }
-    if (trimmed.startsWith('# ')) { html += `<h1>${renderInline(trimmed.slice(2))}</h1>`; continue; }
+    if (trimmed.startsWith('### ')) { closeAllLists(); html += `<h3>${renderInline(trimmed.slice(4))}</h3>`; continue; }
+    if (trimmed.startsWith('## ')) { closeAllLists(); html += `<h2>${renderInline(trimmed.slice(3))}</h2>`; continue; }
+    if (trimmed.startsWith('# ')) { closeAllLists(); html += `<h1>${renderInline(trimmed.slice(2))}</h1>`; continue; }
 
     // Tables
     if (trimmed.startsWith('|') && trimmed.endsWith('|')) {
+      closeAllLists();
       const cells = trimmed.split('|').slice(1, -1).map(c => c.trim());
       if (cells.every(c => /^:?-{3,}:?$/.test(c))) {
         inTableHead = false;
@@ -62,17 +73,31 @@ function renderMarkdown(text: string, pageTitle: string): string {
 
     if (inTable) { html += '</tbody></table>'; inTable = false; inTableHead = true; }
 
-    if (/^[-*]\s/.test(trimmed)) {
-      html += `<li>${renderInline(trimmed.slice(2))}</li>`;
+    // Lists (unordered: -, * | ordered: 1., 2. ...)
+    const listMatch = trimmed.match(/^([-*]|\d+\.)\s+(.*)$/);
+    if (listMatch) {
+      const marker = listMatch[1];
+      const type = /^\d/.test(marker) ? 'ol' : 'ul';
+      const content = listMatch[2];
+      if (listStack.length && indent < listStack[listStack.length - 1].indent) {
+        closeListsTo(indent);
+      }
+      if (!listStack.length || listStack[listStack.length - 1].type !== type || indent > listStack[listStack.length - 1].indent) {
+        html += `<${type}>`;
+        listStack.push({ indent, type });
+      }
+      html += `<li>${renderInline(content)}</li>`;
       continue;
     }
 
-    if (/^[-*]{3,}$/.test(trimmed)) { html += '<hr>'; continue; }
+    if (/^[-*]{3,}$/.test(trimmed)) { closeAllLists(); html += '<hr>'; continue; }
+    closeAllLists();
     if (!trimmed) { html += ''; continue; }
 
     html += `<p>${renderInline(trimmed)}</p>`;
   }
 
+  closeAllLists();
   if (inTable) html += '</tbody></table>';
   if (inBlockquote) html += '</blockquote>';
   return html;
