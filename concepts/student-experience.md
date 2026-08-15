@@ -42,6 +42,7 @@ Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai
 
 - [[ai-in-the-wild-college]]
 - [[genai-availability-grades-satisfaction]]
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[ai-availability-student-motivation]]

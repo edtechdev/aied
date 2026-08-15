@@ -16,6 +16,7 @@ confidence: medium
 
 ## Connected Articles
 
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[favero-critical-ai-tutors-empower-enslave-2025]]
 - [[genai-policies-higher-ed-computing]]
 - [[raza-farooq-aied-review-2020-2025]]

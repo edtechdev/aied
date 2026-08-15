@@ -72,6 +72,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 
 ## Connected Articles
 
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity

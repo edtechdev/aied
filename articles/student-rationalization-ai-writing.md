@@ -1,22 +1,54 @@
 ---
 title: 'It''s OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing'
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-08-14
 type: article
-tags: [academic-integrity, llm, student-experience, higher-ed, writing-education, ai-literacy, ai-assistance-reduces-persistence, learning-analytics]
+tags: [academic-integrity, llm, student-experience, higher-ed, writing-education, ai-literacy, ethics, metacognition, plagiarism-detection, educational-policy-ai]
 sources: ['raw/papers/2605.29090.md']
 confidence: high
 ---
 
-Generative AI challenges academic integrity not only by enabling students to delegate substantial portions of their academic work, but also by blurring the ethical boundaries by which students distinguish acceptable assistance from misconduct. Through semi-structured interviews (n=20), analysis of AI chat logs, and course documents, the researchers identified at least five distinct conceptual sites where students' interpretation of AI policies diverges from faculty intent. Students employed over 20 distinct rationalizations — including 'copying AI-generated text is victimless' and 'any AI text reflecting their own beliefs is their own writing' — to justify conscious violations of course policies. Modern AI presents a steep, ethical, slippery slope which students conceptually slide down, landing far outside the pedagogical goals and expectations of instructors.
+> **Synthesis:** Kim, Toyama, Kim, and Carroll (2026) investigate how students make moral sense of AI use in academic writing through semi-structured interviews (n=20), AI chat logs, and course documents. They identify **five distinct "sites" of AI policy** — from faculty intention to students' actual practice — where interpretation diverges, and a taxonomy of **23 distinct rationalizations** (grouped into six classes) that students use to justify AI use, including conscious violations of course policies. Because these rationalizations are ad hoc and post hoc, modern AI presents a "steep, ethical, slippery slope" that students conceptually slide down, landing far outside instructors' pedagogical goals.
 
+## Five Sites of AI "Policy"
 
-- **Five disconnect sites:** Kim et al. identify at least five distinct conceptual sites where students' interpretation of AI use policies diverges from faculty intent — ranging from policy understanding to actual usage behaviors. This reveals systemic gaps in how [[academic-integrity]] policies are communicated and internalized.
-- **Taxonomy of 20+ rationalizations:** Students employed over 20 distinct justifications for AI use, including victimless-crime framing ("copying AI-generated text is victimless"), ownership redefinition ("text reflecting my beliefs is my own writing"), and learning-optimization claims ("I learn more by using AI extensively"). These rationalizations were ad hoc, post hoc, and not self-consistent.
-- **Ethical slippery slope:** The paper characterizes modern AI as presenting a "steep, ethical, slippery slope" where students conceptually slide far outside pedagogical goals. This finding extends work on [[over-reliance]] by documenting the metacognitive mechanisms students use to justify AI dependence.
-- **Implications for [[writing-education]]:** As AI writing tools become ubiquitous, educators must design assignments and policies that account for these rationalization patterns — not just detection-based interventions. This connects to research on [[ai-assisted-writing-research-teams]] and the shifting norms of academic writing in the AI era.
-- **[[ai-literacy]] gap exposed:** The study reveals that students' ethical frameworks for AI use are underdeveloped and self-serving, highlighting the urgent need for explicit AI literacy instruction that addresses ethical reasoning, not just technical capability. This aligns with the [[agentic-literacy-debt]] framework's emphasis on governance infrastructure for AI use.
-- **Cross-listed from cs.HC**, this work brings human-computer interaction methods (semi-structured interviews, chat log analysis) to bear on [[higher-ed]] integrity challenges, complementing quantitative studies on [[over-reliance]] with rich qualitative evidence of student reasoning.
+For any given course, the paper finds at least five distinct sites that house concepts of appropriate AI use, which often diverge from one another:
+
+1. **Faculty Intention** — instructors' expectations of student AI use (often not clearly expressed).
+2. **Formal Policy** — the explicit written rules in syllabi or assignment instructions.
+3. **Student Interpretation** — a student's own understanding, recall, and/or interpretation of the formal policy.
+4. **Student Self-Policy** — a student's own normative views about appropriate AI use.
+5. **Student Practice** — a student's actual AI-use behavior.
+
+The gaps between these sites are systemic: faculty intention is not always reflected in formal policy, students misremember or reinterpret policy, and actual practice diverges from both. This reveals why [[academic-integrity]] policies communicated at one site often fail to shape behavior at another.
+
+## Taxonomy of 23 Rationalizations (Six Classes)
+
+Students employed **23 distinct moral justifications** (R1–R23) for AI use, grouped into **six Rationalization Classes**:
+
+- **C1: Victimless Behavior** (e.g., R1 No Human Victim, R2 AI-Synthesized Sources) — "copying AI-generated text is victimless" because no human is harmed; AI "doesn't have a soul."
+- **C2: Minimal AI Contribution** (e.g., R3 Busywork, R5 Like Other Allowable Support) — the most common: AI is OK for "busywork" assignments deemed low-stakes, or is likened to human editors, grammar checkers, or writing centers.
+- **Ex Ante Contribution** — students emphasize their own ideas, directions, or curation as decisive authorship evidence.
+- **Post Hoc Contribution** (e.g., R10 My Paraphrasing, R11 My Verification, R12 My Style) — "any AI text reflecting their own beliefs or style is their own writing."
+- **Responsibility Denial / Normative** (e.g., R15 Instructor Indifference, R16 Normlessness, R17 No Consequences, R18 Agency Denial) — externalizing responsibility and downplaying consequences.
+- **C6: Perceived Benefit** (e.g., R19 Time Economy, R20 Educational Value, R21 Better Writing, R23 Better Outcome) — "I learn more by using AI extensively."
+
+These rationalizations were **ad hoc and post hoc**, not self-consistent — students used them to explain behavior that had already occurred rather than to establish moral reasoning that informed behavior.
+
+## Belief vs. Behavior Mismatch
+
+A striking finding is that continued AI use was **not always driven by indifference or lack of ethical awareness**. Some students were highly aware of the ethical stakes and experienced genuine moral distress (e.g., P16, who strongly wanted to obey a strict "never use AI" policy yet kept using AI, reporting that the prohibition "is creating conflict for me, because I'm breaking the rules"). A strict prohibition intensified internal moral conflict rather than preventing use — implying that punitive policy alone may backfire.
+
+## Authorship and Responsibility Made Contingent
+
+AI-assisted writing lets students **reinterpret harm, authorship, responsibility, and contribution in unusually flexible ways**. Unlike traditional plagiarism (which involves a human victim), students can claim no victim exists. They claim ownership when AI output supports credit but distance themselves when it creates plagiarism or policy risks — externalizing responsibility in ways that echo **moral disengagement** (Bandura). This makes authorship contingent on context rather than stable.
+
+## Implications
+
+1. **Policy alone is insufficient.** Because rationalizations are post hoc and the five sites diverge, writing clearer policies or escalating detection will not close the gap — interventions must operate at the sites where interpretation and practice form.
+2. **Design assignments for ethical reasoning, not just detection.** Educators should account for rationalization patterns in assignment and policy design, complementing detection-based approaches.
+3. **Build AI literacy that includes ethical reasoning.** Students' ethical frameworks are underdeveloped and self-serving; explicit instruction should address the moral dimension of AI use, not just technical capability.
+4. **Avoid purely prohibitive policies.** Strict bans can intensify moral conflict and may not prevent use; pedagogy-led approaches that help students reason through authorship and harm are more promising.
 
 ## Connected Concepts
 
@@ -25,10 +57,19 @@ Generative AI challenges academic integrity not only by enabling students to del
 - [[writing-education]]
 - [[ai-literacy]]
 - [[higher-ed]]
+- [[ethics]]
+- [[plagiarism-detection]]
+- [[metacognition]]
+- [[student-experience]]
+- [[educational-policy-ai]]
+
 ## Connected Articles
 
-- [[ai-assisted-writing-research-teams]]
-- [[agentic-literacy-debt]]
+- [[ai-assisted-writing-research-teams]] — AI-assisted writing in research teams
+- [[agentic-literacy-debt]] — Agentic literacy debt and governance
+- [[ai-scoring-language-bias-physics]] — AI scoring and language bias
+- [[self-referential-l2-writing-llm-assessment]] — Self-referential LLM assessment in L2 writing
+
 ## Citation
 
-Jiyoon Kim, Kentaro Toyama, Sangmi Kim, & John M. Carroll (2026). ["It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing](https://arxiv.org/abs/2605.29090). arXiv:2605.29090. arXiv preprint.
+Kim, J., Toyama, K., Kim, S., & Carroll, J. M. (2026). ["It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing](https://arxiv.org/abs/2605.29090). arXiv:2605.29090. arXiv preprint.
