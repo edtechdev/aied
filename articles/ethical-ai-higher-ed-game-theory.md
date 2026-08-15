@@ -56,6 +56,7 @@ Across the model results, a consistent pattern emerges: **responsible AI use doe
 
 ## Connected Articles
 
+- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[genai-assessment-governance]] — Governance frameworks for GenAI assessment
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
 
