@@ -516,7 +516,7 @@
   MathBuddy: Affective Math Tutoring
   _math-education, affective-computing, intelligent-tutoring, k-12_
 
-- ◐ [[kim-llm-fallacy-misattribution-2026]] — `kim-llm-fallacy-misattribution-2026`
+- ◐ [[llm-fallacy-misattribution]] — `llm-fallacy-misattribution`
   LLM Fallacy Misattribution in Education
   _llm, misinformation, ai-literacy_
 
@@ -2108,7 +2108,7 @@
   LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
   _llm, student-experience, ai-education, generative-ai +1_
 
-- ● [[llm-fallacy-misattribution]] — `kim-llm-fallacy-misattribution-2026`
+- ● [[llm-fallacy-misattribution]] — `llm-fallacy-misattribution`
   The LLM Fallacy and Misattribution of Competence
   _metacognition, over-reliance, llm, k-12 +2_
 
