@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [automated-grading, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, confidence-aware-ai-assessment, llm]
 confidence: high
@@ -38,6 +38,7 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[ai-ed-evaluation]]
 
 ## Connected Articles
+- [[learner-centered-feedback-ai]] — AI learner-centered feedback: teachers' practices and perceptions (PolyFeed)
 - [[competency-based-education-genai-production-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[multimodal-item-parameter-estimation-2026]]

@@ -1,7 +1,7 @@
 ---
 title: Feedback Loop
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [formative-assessment, ai-feedback-quality, automated-grading, scaffolding, self-regulated-learning, ai-tutoring, learning-analytics, confidence-aware-ai-assessment]
 confidence: high
@@ -20,6 +20,10 @@ AI-mediated feedback loops operate at multiple timescales:
 ### Quality matters
 
 The effectiveness of a feedback loop depends on [[ai-feedback-quality|feedback quality]] — accuracy, specificity, timeliness, and actionability. [[ai-peer-feedback-systems|AI peer feedback systems]] add a social dimension to the loop. [[confidence-aware-ai-assessment|Confidence-aware systems]] calibrate feedback strength to model certainty.
+
+### The human in the loop
+
+Feedback loops are not purely automated: teachers often mediate AI-generated feedback before it reaches learners. [[learner-centered-feedback-ai|Studies of AI feedback tools for teachers]] (e.g., the PolyFeed tool combining an ML detector with an LLM rephraser) find teachers use professional judgement to **accept, edit, or reject** AI suggestions — an "assist but verify" pattern — and systematically moderate exaggerated praise and generic suggestions to protect authenticity and voice. The **relational/affective dimension** of feedback (student–teacher relationship, encouragement) most strongly resists AI delegation, suggesting this part of the loop remains inherently human. This human-in-the-loop mediation connects to [[human-in-the-loop-ai]] and to [[teacher-role]].
 
 ### Connections
 
@@ -40,6 +44,7 @@ Feedback loops connect to [[formative-assessment]] (the assessment philosophy th
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback (PolyFeed)
 - [[ai-guided-learning-audiovideo-2026]]
 
 - [[sequenced-ai-feedback-learning]]
