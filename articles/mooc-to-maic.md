@@ -11,6 +11,7 @@ confidence: high
 > **A new paradigm for online education replacing MOOCs with LLM-driven multi-agent AI classrooms**, piloted at Tsinghua University with 100K+ learning records from 500+ students. MAIC uses specialized agents (Teacher, Assistant, Classmate, Analyzer) to deliver personalized, adaptive learning at scale.
 **ArXiv:** 2409.03512
 **Submitted:** September 2024
+**Source code (OpenMAIC):** https://github.com/THU-MAIC/OpenMAIC
 
 ### Overview
 
@@ -40,7 +41,7 @@ MAIC deploys a suite of specialized AI agents:
 
 ### Significance
 
-MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agentic-ai]] in education. It demonstrates how LLM-driven multi-agent systems can transform the MOOC paradigm from one-size-fits-all broadcasting to truly adaptive, personalized [[intelligent-tutoring]] at scale. The platform vision extends toward an open collaborative hub for AI-driven education research.
+MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agentic-ai]] in education. It demonstrates how LLM-driven multi-agent systems can transform the MOOC paradigm from one-size-fits-all broadcasting to truly adaptive, personalized [[intelligent-tutoring]] at scale. The platform is released as open source under the name **OpenMAIC** ([github.com/THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)), supporting the vision of an open collaborative hub for AI-driven education research.
 
 ## Connected Concepts
 - [[llm]]
@@ -63,4 +64,4 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 
 ## Citation
 
-Yu, J., Zhang, Z., Zhang-li, D., Tu, S., Hao, Z., Li, R., ... Liu, Z., Liu, H., & Sun, M. (2024). [*From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512). arXiv:2409.03512.
+Yu, J., Zhang, Z., Zhang-li, D., Tu, S., Hao, Z., Li, R., ... Liu, Z., Liu, H., & Sun, M. (2024). [*From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents*](https://arxiv.org/abs/2409.03512). arXiv:2409.03512. Source code: [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC).
