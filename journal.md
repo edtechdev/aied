@@ -7,6 +7,7 @@
 ---
 
 ## 2026-08-15
+- [[coach-not-crutch-ai-writing]] — Coach not crutch: AI can improve writing skill despite reducing effort (Lira et al. 2025)
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: Curriculum-Grounded Feedback with Educators in the Loop (Zhao et al. 2025)
 - [[zha-ai-literacy-biology-case-study]] — Integrating AI Literacy Education in a Biology Class (Zha et al. 2025)
 - [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: AI myths and critical approach in higher ed (Rudolph et al. 2025)

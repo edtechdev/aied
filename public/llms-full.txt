@@ -3796,14 +3796,14 @@ The article's organizing framework separates two facets of our cognitive systems
 
 Whether skills survive offloading depends on the **form** the offloading takes [13]:
 - *Completely* offloading the task ("student has the AI submit the answer") → harm.
-- Having the AI provide an explanation, a suggestion, or act as a **collaborator giving feedback** [14], or emulating a thoughtful tutor [15] → can preserve or even boost skill despite reduced effort ("Coach not crutch" [15]).
+- Having the AI provide an explanation, a suggestion, or act as a **collaborator giving feedback** [14], or emulating a thoughtful tutor [15] → can preserve or even boost skill despite reduced effort ("[[coach-not-crutch-ai-writing|Coach not crutch]]" [15]).
 - Staying "in the proverbial cognitive loop" mitigates costs; costs are likely **limited to the specific skills offloaded**, not basic abilities.
 
 ## Concluding remarks & open questions (Box 2)
 
 "It is far too early to say with certainty" the long-term effects. Open questions: prolonged offloading over years/decades; developmental-stage effects (children?); decay as a function of initial skill level and skill type; refresher-training strategies; **designing AI to discourage harmful offloading** (policy levers); whether people can learn to *strategically* offload; impacts on **metacognition** and source-monitoring (misattributing AI output as one's own); effects on dispositions toward thinking.
 
-Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [[generative-ai-guardrails-harm-learning]]) and the "Coach not crutch" preprint (Lira et al. 2025) — making the offloading/crutch mechanism a shared thread across the wiki.
+Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [[generative-ai-guardrails-harm-learning]]) and the "[[coach-not-crutch-ai-writing|Coach not crutch]]" preprint (Lira et al. 2025) — making the offloading/crutch mechanism a shared thread across the wiki.
 
 ## Why this matters for the wiki
 
@@ -7651,6 +7651,61 @@ CLARA introduces a novel architecture for [[learning-analytics]] where AI-produc
 ## Citation
 
 2026, A. (2026). [*CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy*](https://arxiv.org/abs/2605.17259)
+
+---
+
+## [Coach not crutch: Evidence that AI can improve writing skill despite reducing effort](https://edtechdev.github.io/aied/articles/coach-not-crutch-ai-writing/)
+
+# Coach not crutch: Evidence that AI can improve writing skill despite reducing effort
+
+## Summary
+
+Lira, Rogers, Goldstein, Ungar & Duckworth (2025) test the intuition that using AI inevitably hinders learning by sparing effort. Across pre-registered studies they find the opposite is possible: AI can reduce effort while improving the learning environment, so learners can "work less and learn more." A nationally representative Gallup survey of young adults (N = 2,472) confirmed that the public largely holds the "crutch" intuition (73% negative about AI's impact on capability). But in experiments, participants who practiced writing cover letters with an AI tool wrote higher-quality no-AI cover letters than those who practiced alone — and AI beat both googling examples and receiving personalized feedback from experienced human editors. A third experiment showed AI teaches by example: merely viewing an AI-revised letter (no further practice) produced the same gain as practicing with the tool.
+
+**License note:** preprint is **CC BY-NC-ND 4.0** (non-commercial, no-derivatives); summary only, full text not redistributed.
+
+## Key Findings
+
+- **"Work less, learn more" is empirically possible.** Across pre-registered studies, AI access reduced practice effort but improved (or did not harm) learning outcomes — effort and learning rate can move in opposite directions.
+- **Public belief in the crutch intuition.** In the Gallup survey (N = 2,472, ages 18–28), 73% scored above the midpoint on negative AI-impact attitudes: 79% agreed AI makes people lazier, 63% that it makes people less smart, 62% that it reduces ability to learn.
+- **Practice with AI beat practice without AI.** Random-assignment experiment: those who practiced cover letters with an AI tool wrote better no-AI cover letters than those who practiced on their own.
+- **AI beat Google Search and human editors.** Practicing with AI improved writing more than googling examples/tips (test d = 0.46) and more than personalized feedback from experienced human editors (test d = 0.20).
+- **No illusion-of-mastery effect.** AI-practice participants did not over-report learning or skill vs. editor-feedback participants, mitigating concern that gains reflect inflated self-assessment.
+- **AI teaches by example.** Participants who only viewed an AI-revised cover letter improved as much as those who practiced with the AI tool — the scaffolding/example function, not just practice, drives the gain.
+- **Two-channel framework.** AI simultaneously (a) reduces effort (crutch risk) and (b) improves the learning environment (coach benefit, e.g., worked examples). Skill outcomes hinge on the net effect.
+
+## Implications
+
+- Challenges the blanket assumption that reduced effort from AI inevitably harms learning — the effect depends on what AI displaces (busywork vs. the skill itself) and how the tool scaffolds.
+- Supports a design principle: AI that surfaces examples, explanations, and feedback (a "coach") preserves or boosts skill, whereas AI that fully replaces the cognitive act (a "crutch") risks erosion.
+- Contrasts with studies documenting harmful offloading (e.g., unguarded tutors cutting exam scores); the outcome hinges on tool design and whether the learner stays in the loop — a shared thread across the wiki's [[over-reliance]] and [[cognitive-offloading]] research.
+
+## Connected Concepts
+
+- [[writing-education]]
+- [[over-reliance]]
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
+- [[ai-feedback-quality]]
+- [[learning-gains]]
+- [[human-ai-collaboration]]
+- [[ai-literacy]]
+- [[feedback-loop]]
+- [[transfer-of-learning]]
+
+## Connected Articles
+
+- [[ai-making-us-stupid]] — Is AI making us stupid?
+- [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
+- [[generative-ai-reduced-study-time-math]] — Generative AI reduced study time in math
+- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
+- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion
+- [[genai-performance-vs-learning]] — GenAI performance vs. learning
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and AI
+
+## Citation
+
+Lira, B., Rogers, T., Goldstein, D. G., Ungar, L., & Duckworth, A. L. (2025). [*Coach not crutch: Evidence that AI can improve writing skill despite reducing effort*](https://arxiv.org/abs/2502.02880). arXiv:2502.02880.
 
 ---
 
@@ -16841,78 +16896,6 @@ Khalifeh, F., Santiago, R., & Palau, R. (2026). [*Redefining personalized learni
 
 ---
 
-## [LLM Fallacy Misattribution in Education](https://edtechdev.github.io/aied/articles/kim-llm-fallacy-misattribution-2026/)
-
-> **The LLM Fallacy** is a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence — producing a systematic gap (∆C) between perceived and actual capability. This divergence persists regardless of whether the LLM output is correct or erroneous, and it is driven by three system-level properties (opacity, fluency, and interactional immediacy) mediated by attribution ambiguity and cognitive outsourcing.
-
-**Kim, Yu & Yi (ddai Inc., 2026)** · arXiv: 2604.14807v2
-
-## Key Findings
-
-1. **The LLM Fallacy is distinct from related cognitive phenomena.** It is not hallucination (a system output failure), automation bias (over-reliance on system outputs), or cognitive offloading (delegating mental effort). Each of those focuses on the output or the delegation decision; the LLM Fallacy concerns how outputs are *integrated into self-perception*. When a student uses an LLM to write an essay and then believes they are a strong writer — regardless of the essay's actual quality or the extent of AI contribution — that is the LLM Fallacy in action. This distinction matters because interventions that address [[cognitive-offloading-llm-synthesis-writing]] (teaching students when to delegate) do not necessarily address the misattribution of competence that follows.
-
-2. **Three system-level properties create the conditions for misattribution.** *Opacity* hides the retrieval, pattern-matching, and synthesis mechanisms so the division of labor between human and machine is invisible. *Fluency* acts as a metacognitive cue — grammatically coherent, well-structured outputs are processed as signals of understanding, even when the user contributed only a prompt. *Interactional Immediacy* (sub-second response cycles) biases cognition toward fast, intuitive judgments that skip the self-assessment step. Together, these properties make it difficult for users to calibrate what they *can do independently* against what the *system did on their behalf* — the same mechanism explored in [[efficiency-gain-illusion-ai-overreliance]].
-
-3. **The typology spans six domains, all relevant to education.** The authors identify *Computational* (producing code without understanding architecture), *Linguistic* (fluent text in languages the user doesn't command), *Analytical* (structured explanations mistaken for personal reasoning skill), *Creative* (narratives misattributed as personal creativity), *Epistemic* (summaries leading users to equate access to information with conceptual mastery — the illusion of explanatory depth), and *Professional Signaling* (resumes, interviews, and portfolios that reflect AI-output production skill rather than independent expertise). Each of these has direct analogues in educational settings, from [[over-reliance]] effects in programming courses to the erosion of [[assessment-validity]] when submitted work reflects LLM scaffolding rather than learning.
-
-4. **The capability divergence (∆C) is independent of output correctness.** This is perhaps the most troubling finding for education. Even when LLM output is accurate and well-reasoned, the user may still misattribute that quality to themselves — inflating self-perceived competence without corresponding growth in independent ability. Conversely, even when LLM output is erroneous, the user may still incorporate the *process* of using the tool into their self-concept as a competent user. The divergence is about attribution, not accuracy, which means that simply improving LLM reliability does not solve the problem. The [[cognitive-offloading-speedup-illusion]] literature documents a parallel phenomenon: users feel faster and more capable even when objective task performance does not improve.
-
-5. **The framework identifies necessary conditions and institutional implications.** The LLM Fallacy arises when (a) a task involves LLM-mediated output generation requiring domain expertise, (b) the interaction is sufficiently seamless that the human/system boundary is not salient, and (c) the output exhibits fluency associated with skilled human performance. In education, these conditions are almost definitionally met by AI-assisted writing, coding, and problem-solving. The result is that AI can improve short-term performance (assignment grades) while weakening the relationship between performance and competence — a direct threat to the validity of [[authentic-assessment]] and the signaling function of educational credentials.
-
-## Implications for AI in Education
-
-The LLM Fallacy framework challenges the dominant narrative that AI integration in education is primarily about access and efficiency. Even when AI tools improve assignment completion rates and grades, they may simultaneously erode students' ability to accurately self-assess their own competence. This is not a call to ban LLMs — it is a call to build [[ai-literacy]] curricula that explicitly address *attribution calibration*: teaching students to distinguish what the tool contributed from what they contributed, and to use that distinction to guide further learning.
-
-The framework also has consequences for assessment design. If the LLM Fallacy systematically inflates perceived competence, then assessment formats that cannot disentangle AI-mediated performance from independent capability — most current essay assignments, take-home coding projects, and open-book exams — are measuring something closer to *prompting skill plus LLM capability* than to student learning. This aligns with concerns raised in [[constructing-epistemic-ai-literacy-student-ai-co-programming]] about the blurred line between co-production and independent demonstration of knowledge.
-
-For AI literacy efforts, the LLM Fallacy suggests a new dimension beyond the typical "how to prompt" and "fact-check outputs" curriculum. Students need [[agentic-literacy-debt]] skills — the ability to track and account for the division of cognitive labor between themselves and the AI — and metacognitive practices that maintain accurate self-assessment even in the presence of fluent, confident AI outputs. Without this, we risk graduating students whose [[ai-partner-science-epistemic-vigilance]] is underdeveloped — who trust themselves too much and the AI too little in exactly the wrong proportions.
-
-The long-term institutional risk is credential inflation: if degrees and certificates increasingly signal AI-output-production ability rather than independently grounded competence, the signaling value of educational credentials erodes. This is not a theoretical concern — it is the direct implication of the LLM Fallacy playing out at scale across cohorts of students using AI tools without attribution-aware pedagogy.
-
-## Connected Concepts
-
-- [[over-reliance]]
-- [[ai-literacy]]
-- [[assessment-validity]]
-- [[cognitive-load-theory]]
-- [[llm]]
-- [[authentic-assessment]]
-- [[self-efficacy]]
-- [[metacognition]]
-- [[cognitive-offloading]]
-## Connected Articles
-
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
-- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
-- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
-- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
-- [[ai-availability-student-motivation]] — Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming
-- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
-- [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
-- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
-- [[cognitive-offloading-llm-synthesis-writing]]
-## Citation
-
-Kim, H., Yu, H., & Yi, H. (2026). [*The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*](https://arxiv.org/abs/2604.14807). arXiv:2604.14807.
-
----
-
 ## [Knowledge-Based Design Requirements for Generative Social Robots in Higher Education](https://edtechdev.github.io/aied/articles/knowledge-based-design-generative-social-robots-2026/)
 
 > **Synthesis:** Vonschallen, Oberle, Schmiedel, and Eyssel (2026) adopt a knowledge-based design perspective to investigate what information tutoring-oriented generative social robots (GSRs) require to function responsibly and effectively in higher education. Recognizing that GSRs powered by large language models enable adaptive, conversational tutoring but introduce risks such as misinformation, overreliance, and privacy violations, they conducted twelve semi-structured interviews with university students and lecturers, identifying twelve design requirements across three knowledge types: self-knowledge, user-knowledge, and (a third type concerning the domain/context).
@@ -18942,7 +18925,7 @@ Tsirmpas, D., Korre, K., & Pavlopoulos, J. (2026). [To facilitate or not to faci
 
 > Three system properties enable the fallacy via two cognitive mediators:
 
-> The LLM fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.^[[kim-llm-fallacy-misattribution-2026]]
+> The LLM fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.^[[llm-fallacy-misattribution]]
 
 ## Distinctions from Related Phenomena
 
@@ -18966,7 +18949,7 @@ Three system properties enable the fallacy via two cognitive mediators:
 - **Attribution ambiguity** — In iterative interactions, the boundary between user contribution and system generation becomes impossible to delineate; authorship is inferred from outcomes
 - **Cognitive outsourcing** — As the system assumes more workload, users engage less with underlying reasoning, weakening self-assessment accuracy
 
-> "Capability divergence (∆C) emerges from the interaction of system-level properties (opacity, fluency, immediacy), mediated by attribution ambiguity and cognitive outsourcing."^[[kim-llm-fallacy-misattribution-2026]]
+> "Capability divergence (∆C) emerges from the interaction of system-level properties (opacity, fluency, immediacy), mediated by attribution ambiguity and cognitive outsourcing."^[[llm-fallacy-misattribution]]
 
 ## Manifestations in Education
 
@@ -18993,6 +18976,10 @@ Three system properties enable the fallacy via two cognitive mediators:
 
 **Tool design:** Systems that surface their reasoning process (reducing opacity) or require iterative refinement by the user (reducing immediacy) may mitigate the fallacy.
 
+**Necessary conditions:** The fallacy emerges when (a) a task involves LLM-mediated output generation requiring domain expertise, (b) the interaction is seamless enough that the human/system boundary is not salient, and (c) the output exhibits fluency associated with skilled human performance. In education these conditions are nearly definitional for AI-assisted writing, coding, and problem-solving.
+
+**Credential inflation:** Because AI can raise short-term performance (assignment grades) while weakening the relationship between performance and competence, the LLM fallacy directly threatens the validity of [[authentic-assessment]] and the signaling function of educational credentials — degrees risk signaling AI-output-production skill rather than independently grounded expertise.
+
 ## Connected Concepts
 
 - [[metacognition]]
@@ -19007,30 +18994,19 @@ Three system properties enable the fallacy via two cognitive mediators:
 - [[cognitive-offloading]]
 ## Connected Articles
 
-- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
-- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
-- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention in Human-AI Collaboration
+- [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
 - [[educational-llm-alignment]] — Educational LLM Alignment
-- [[educational-vlm-evaluation]] — Educational VLM Evaluation
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
-- [[kim-llm-fallacy-misattribution-2026]] — LLM Fallacy Misattribution in Education
 - [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
+- [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention
+- [[brookings-ai-students-report]] — A New Direction for Students in an AI World: Prosper, Prepare, Protect
+- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use
+- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[llm-cognitive-diagnosis-handwritten-math]]
+- [[llm-cognitive-diagnosis-handwritten-math]] — LLM cognitive diagnosis of handwritten math
+
 ## Citation
 
 Kim, H., Yu, H., & Yi, H. (2026). [*The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows*](https://arxiv.org/abs/2604.14807). arXiv:2604.14807.
@@ -24684,6 +24660,7 @@ The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential g
 - [[ai-governance-education]]
 - [[faculty-development]]
 - [[regulation]]
+- [[student-misconceptions-ai]]
 
 ## Connected Articles
 
@@ -30770,6 +30747,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[confidence-aware-ai-assessment]]
 
 ## Connected Articles
+- [[coach-not-crutch-ai-writing]] — AI writing feedback outperformed human editors on practice letters (Lira et al. 2025)
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM feedback generation with educators in the loop (Zhao et al. 2025)
 - [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Critiquing ChatGPT output against a rubric builds feedback literacy (Richmond & Nicholls 2025)
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutoring feedback: accurate diagnosis ≠ actionable feedback (Yasir et al. 2026)
@@ -31761,6 +31739,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[critical-thinking]]
 - [[regulation]]
 ## Connected Articles
+- [[coach-not-crutch-ai-writing]] — AI can work less and learn more: effort vs. learning environment (Lira et al. 2025)
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
@@ -35094,6 +35073,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[prompt-engineering]]
 
 ## Connected Articles
+- [[coach-not-crutch-ai-writing]] — Coach not crutch: effort vs. learning environment, AI writing (Lira et al. 2025)
 - [[jost-llm-programming-education-learning-outcomes]] — LLM reliance correlates negatively with grades in coding (Jošt et al. 2024)
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: unguarded AI and the illusion of learning (Brcic & Frljic 2026)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
@@ -36888,6 +36868,10 @@ A misconception here is not mere ignorance of how a model works — it is an act
 - **The detection miscalibration** — underestimating both institutional detection and, more importantly, the self-harm of submitting work they cannot later explain or defend.
 - **The efficiency illusion** — treating time saved as pure gain, missing that unexercised foundational skills decay and that novices cannot yet tell good output from bad.
 
+### Institutional and public AI myths
+
+Misconceptions are not confined to students — they saturate the institutional and public discourse about AI that students inherit. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] dismantle eight entrenched "myths" that shape higher-education policy and teaching: that AI is genuinely "artificial" (rather than built from exploited human labor), that it is truly "intelligent" and agentic, that it will unproblematically "make the world a better place," that it is "objective and unbiased," that the US holds a sole superpower monopoly, that it will not disrupt the job market, that it "revolutionises higher education," and that teachers can reliably detect AI-generated work. These institutional myths are the upstream source of many student misconceptions documented above — most directly the [[student-experience|neutrality illusion]] ("AI is objective") and the [[trust-calibration|authority fallacy]] ("AI is intelligent"), and the detection miscalibration that leads students to assume undetectable, unverifiable use is safe. Where students absorb and act on institutionally-repeated myths, correcting them requires confronting not only the learner's belief but the discourse that feeds it.
+
 ### Why misconceptions matter for learning
 
 Misconceptions translate directly into the behaviors that cause learning harm. The belief that "AI is always right" suppresses verification; the belief that "using AI is learning" suppresses effortful processing; the belief that "it's not cheating" bypasses the metacognitive review that consolidates understanding. In this sense misconceptions are upstream of the [[ai-misuse-learning-harm]] documented across the wiki's evidence base.
@@ -36910,6 +36894,8 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 - [[student-experience]]
 
 ## Connected Articles
+
+- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)
 
 - [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
@@ -36917,8 +36903,7 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
 - [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
-- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution
-- [[kim-llm-fallacy-misattribution-2026]] — LLM Fallacy Misattribution (Kim et al.)
+- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 
 ---
@@ -37487,6 +37472,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[student-experience]]
 
 ## Connected Articles
+- [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
 
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)

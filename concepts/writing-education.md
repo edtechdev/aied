@@ -1,7 +1,7 @@
 ---
 title: AI in Writing Education
 created: 2026-08-09
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 confidence: high
@@ -51,6 +51,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[student-experience]]
 
 ## Connected Articles
+- [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
 
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
