@@ -1,7 +1,7 @@
 ---
 title: Student Misconceptions about AI
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [ai-literacy, trust-calibration, metacognition, over-reliance, cognitive-offloading, academic-integrity, generative-ai, student-experience]
 confidence: high
@@ -48,6 +48,7 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 - [[student-experience]]
 
 ## Connected Articles
+- [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)
 
 - [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
 - [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy

@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [cognitive-offloading, cognitive-load-theory, over-reliance, ai-literacy, student-experience, generative-ai]
 confidence: high
@@ -50,6 +50,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[critical-thinking]]
 - [[regulation]]
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
 

@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-15 | **Total pages:** 754
+**Last updated:** 2026-08-15 | **Total pages:** 757
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -79,6 +79,8 @@
 - [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
 - [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning
+- [[drawedumath-vlm-struggling-students-2026]] — The Aftermath of DrawEduMath: VLMs Underperform with Struggling Students and Misdiagnose Errors
 - [[stanford-evidence-base-ai-k12-2026]] — The Evidence Base on AI in K-12
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
@@ -676,6 +678,7 @@
 - [[workforce-development]] — Workforce Development
 - [[writing-education]] — AI in Writing Education
 - [[xai-education-framework]] — Explainable Artificial Intelligence in Education (XAI-ED)
+- [[yasir-llm-tutoring-agents-2026]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle

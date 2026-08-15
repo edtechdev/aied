@@ -1,7 +1,7 @@
 ---
 title: Equity in AI Education
 created: 2026-05-08
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [equity, accessible-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
 confidence: high
@@ -70,6 +70,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[agency]]
 
 ## Connected Articles
+- [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on struggling students' work (Lucy et al. 2026)
 
 - [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
 - [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing

@@ -29,6 +29,8 @@ AI-ed evaluation is difficult for several reasons. First, **reliability is not e
 
 **Reliability does not guarantee validity.** [[melo-llm-classroom-observation-teach-2026|Validation of LLM-based classroom observation]] shows that a model can be highly stable across repeated evaluations yet still misalign with expert judgment, and conversely that models aligning well with experts are often more variable — reliability and accuracy decouple, so a single-pass accuracy figure can overstate dependability. The same study documents an **explicit-cue bias**: text-based LLM evaluators privilege explicitly verbalized behaviors and under-weight implicit or contextual evidence (e.g., sustained student self-regulation where a rubric allows high ratings on absence-tolerant criteria), producing systematic rather than random disagreement. This underscores that measurement reliability is a prerequisite for — not a proxy for — valid interpretation, and that evaluation must include repeated-measures stability checks alongside expert-anchored accuracy.
 
+**Aggregate accuracy hides who is served poorly.** [[drawedumath-vlm-struggling-students-2026|Evaluations of vision-language models on DrawEduMath]] show that overall accuracy obscures a systematic weakness: models underperform precisely on the student work that needs the most pedagogical help (erroneous, struggling-student work), so disaggregating evaluation by student proficiency and error status is necessary to avoid overstating capability and widening achievement gaps.
+
 ### Connections to related concepts
 
 AI-ed evaluation sits at the center of the wiki's methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[confidence-aware-ai-assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[pedagogical-llm-training]], and [[pedagogical-safety]].
@@ -53,6 +55,8 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[yasir-llm-tutoring-agents-2026]] — Three-way classification benchmark of LLM tutoring agents (Yasir et al. 2026)
+- [[drawedumath-vlm-struggling-students-2026]] — Evaluating VLMs on DrawEduMath: error content hardest (Lucy et al. 2026)
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation validation: reliability vs accuracy (Melo et al. 2026)
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional evaluation
