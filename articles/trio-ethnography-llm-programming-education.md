@@ -1,7 +1,7 @@
 ---
 title: "Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education"
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-15
 type: article
 tags: [generative-ai, stem-education, teacher-role, student-experience, higher-ed, scaffolding, ai-literacy, llm, regulation]
 sources: ['raw/papers/2607.22463.md']
@@ -21,6 +21,8 @@ Methodologically, trio-ethnography offers a low-cost reflective instrument for f
 - [[over-reliance]]
 - [[scaffolding]]
 - [[ai-literacy]]
+- [[faculty-development]]
+- [[programming-education]]
 ## Connected Articles
 
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs

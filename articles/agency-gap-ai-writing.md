@@ -1,7 +1,7 @@
 ---
 title: "The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity, student-experience, scaffolding, rag, regulation]
 sources: ['raw/papers/caeai-2026-agency-gap-ai-writing.md']
@@ -50,10 +50,12 @@ A randomized experiment (n = 79 medical/nursing students) examining how the **in
 - [[scaffolding]]
 - [[student-experience]]
 - [[writing-education]]
+- [[agency]]
+- [[human-ai-collaboration]]
+- [[critical-thinking]]
+- [[equity-in-ai-education]]
 
 - [[generative-ai]]
-- [[rag]]
-- [[regulation]]
 ## Connected Articles
 
 - [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...

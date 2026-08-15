@@ -1,7 +1,7 @@
 ---
 title: Interpretable Knowledge Tracing via IRT
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-15
 type: article
 tags: [adaptive-learning, intelligent-tutoring, personalized-learning, learning-analytics, k-12, llm, item-response-theory, affective-tutoring, adaptive-learning-systems, socratic-method]
 sources: ['raw/papers/huang-interpretable-knowledge-tracing-2026.md']
@@ -62,14 +62,15 @@ This framework is an enabler for [[tutoring-specific-vs-general-ai|tutoring-spec
 
 ## Connected Concepts
 
-- [[affective-computing]]
 - [[knowledge-tracing]]
-- [[reinforcement-learning]]
-- [[lifelong-learning]]
 - [[personalized-learning]]
 - [[adaptive-learning]]
-- [[affective-tutoring]]
 - [[pedagogical-agent]]
+- [[item-response-theory]]
+- [[educational-measurement]]
+- [[psychometrically-aware-ai]]
+- [[student-modeling]]
+- [[intelligent-tutoring]]
 
 ## Connected Articles
 

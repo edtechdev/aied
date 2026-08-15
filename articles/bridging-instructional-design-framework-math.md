@@ -1,7 +1,7 @@
 ---
 title: "WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators"
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-15
 type: article
 tags: [teacher-role, k-12, stem-education, scaffolding, ai-literacy, higher-ed, generative-ai, llm, student-experience, intelligent-tutoring]
 confidence: medium
@@ -13,6 +13,10 @@ sources: []
 - [[teacher-role]]
 - [[stem-education]]
 - [[ai-literacy]]
+- [[instructional-design]]
+- [[math-education]]
+- [[k-12]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)

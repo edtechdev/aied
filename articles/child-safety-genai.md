@@ -1,7 +1,7 @@
 ---
 title: "Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework"
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-15
 type: article
 tags: [equity, generative-ai, k-12, pedagogical-safety, privacy, llm-in-education, rag, llm]
 sources: ['raw/papers/2607.00395.md']
@@ -33,8 +33,11 @@ The results carry a direct warning for AI-based learning environments: general-p
 ## Connected Concepts
 
 - [[ai-education]]
-- [[intelligent-tutoring]]
 - [[equity-in-ai-education]]
+- [[pedagogical-safety]]
+- [[privacy]]
+- [[generative-ai]]
+- [[k-12]]
 ## Connected Articles
 
 - [[elevate-genai-virtual-tutors]] — ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education

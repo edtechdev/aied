@@ -1,7 +1,7 @@
 ---
 title: "How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata"
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, student-experience, academic-integrity, higher-ed, generative-ai, self-regulated-learning, llm, scaffolding, teacher-role]
 sources: ['raw/papers/2607.08698.md']
@@ -23,6 +23,8 @@ Uses epistemic network analysis of multimodal YouTube metadata (transcripts, tit
 - [[teacher-role]]
 - [[llm]]
 - [[feedback-loop]]
+- [[multimodal]]
+- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[pedagogy-ai-mistakes]]

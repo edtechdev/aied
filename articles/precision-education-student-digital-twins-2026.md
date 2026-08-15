@@ -1,7 +1,7 @@
 ---
 title: "From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways"
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [adaptive-learning, student-modeling, personalized-learning, higher-ed, predictive-modeling, learning-analytics]
 sources: ['raw/papers/2608.06322.md']
@@ -24,6 +24,10 @@ proposes a precision education framework that adapts precision medicine's predic
 - [[intelligent-tutoring]]
 - [[lifelong-learning]]
 - [[personalized-learning]]
+- [[learning-analytics]]
+- [[higher-ed]]
+- [[trust]]
+- [[privacy]]
 
 ## Connected Articles
 

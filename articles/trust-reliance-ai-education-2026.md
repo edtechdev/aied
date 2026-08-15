@@ -1,7 +1,7 @@
 ---
 title: "Trust and Reliance on AI in Education: AI Literacy and Need for Cognition as Moderators"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, over-reliance, cs-education, student-ai-interaction, metacognition, rag, llm, agentic-ai]
 sources: ['raw/papers/trust-reliance-ai-education-2026.md']
@@ -26,10 +26,12 @@ confidence: high
 
 - [[ai-literacy]]
 - [[metacognition]]
-
 - [[agentic-ai]]
 - [[llm]]
 - [[rag]]
+- [[trust]]
+- [[trust-calibration]]
+- [[over-reliance]]
 ## Connected Articles
 
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course

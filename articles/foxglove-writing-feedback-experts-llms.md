@@ -1,7 +1,7 @@
 ---
 title: "FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs"
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-15
 type: article
 tags: [llm, writing-education, formative-assessment, feedback-loop, higher-ed, k-12]
 sources: ['raw/papers/2606.06271.md']
@@ -21,6 +21,9 @@ This work directly informs the design of [[formative-assessment|AI writing feedb
 - [[writing-education]]
 - [[k-12]]
 - [[higher-ed]]
+- [[feedback-loop]]
+- [[assessment]]
+- [[llm]]
 ## Connected Articles
 
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing

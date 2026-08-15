@@ -1,7 +1,7 @@
 ---
 title: "When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community"
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-15
 type: article
 tags: [agentic-ai, benchmark, collaborative-ai-tutoring, engagement-metrics, learning-analytics, llm, scaffolding, metacognition, ai-tutoring]
 sources: ['raw/papers/2602.14477.md']
@@ -32,11 +32,8 @@ For AI in education, the Moltbook analysis suggests that multi-agent systems can
 - [[agentic-ai]]
 - [[collaborative-learning]]
 - [[learning-analytics]]
-- [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[administrator]]
-- [[help-seeking]]
+- [[learning-by-teaching]]
+- [[metacognition]]
 
 ## Connected Articles
 

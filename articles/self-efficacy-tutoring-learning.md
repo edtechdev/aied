@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, personalized-learning, efficacy-study, higher-ed, student-experience, self-regulated-learning]
 sources: ['raw/papers/2606.17470.md']
@@ -31,11 +31,11 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[self-regulated-learning]]
 - [[personalized-learning]]
 - [[motivation]]
-- [[pedagogical-agent]]
-- [[affective-computing]]
 - [[intelligent-tutoring]]
 - [[math-education]]
 - [[affective-tutoring]]
+- [[self-efficacy]]
+- [[learning-gains]]
 
 ## Connected Articles
 

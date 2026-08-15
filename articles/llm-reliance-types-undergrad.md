@@ -1,7 +1,7 @@
 ---
 title: "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University"
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, higher-ed, over-reliance, student-experience, writing-education, llm]
 sources: ['raw/papers/2606.28749.md']
@@ -18,6 +18,8 @@ Hossain (2026) develops a typology of LLM reliance among undergraduate writers a
 - [[writing-education]]
 - [[student-experience]]
 - [[higher-ed]]
+- [[self-efficacy]]
+- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing

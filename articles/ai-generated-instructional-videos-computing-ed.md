@@ -1,7 +1,7 @@
 ---
 title: Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [generative-ai, student-experience, stem-education, higher-ed]
 sources: ['raw/papers/2607.28203.md']
@@ -31,11 +31,8 @@ The results give computing instructors an evidence base for purposeful use: AI-g
 - [[cs-education]]
 - [[student-experience]]
 - [[instructional-design]]
-- [[math-education]]
-- [[administrator]]
-- [[socratic-method]]
-- [[physics-education]]
 - [[pedagogical-agent]]
+- [[generative-ai]]
 
 ## Connected Articles
 

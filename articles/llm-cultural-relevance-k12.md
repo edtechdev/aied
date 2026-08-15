@@ -1,7 +1,7 @@
 ---
 title: LLMs for Culturally Relevant K-12 Pedagogy
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-15
 type: article
 tags: [culturally-sustaining-pedagogy, k-12, pedagogy, equity, faculty-development, curriculum-design, higher-ed, ai-literacy, generative-ai, llm]
 confidence: high
@@ -35,6 +35,8 @@ The findings suggest LLMs can help teachers integrate **culturally relevant comp
 - [[teacher-role]]
 - [[student-experience]]
 - [[equity-in-ai-education]]
+- [[generative-ai]]
+- [[llm]]
 
 ## Connected Articles
 

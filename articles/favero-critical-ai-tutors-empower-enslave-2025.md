@@ -1,7 +1,7 @@
 ---
 title: "Critical AI Tutors: Empower or Enslave?"
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, critical-thinking, over-reliance, ai-assistance-reduces-persistence, student-experience, regulation, cognitive-load-theory]
 sources: ['raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md']
@@ -40,6 +40,11 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 - [[pedagogical-safety]]
 - [[regulation]]
 - [[student-experience]]
+- [[critical-thinking]]
+- [[agency]]
+- [[academic-integrity]]
+- [[privacy]]
+- [[ai-literacy]]
 
 ## Connected Articles
 

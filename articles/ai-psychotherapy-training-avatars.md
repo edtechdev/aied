@@ -1,7 +1,7 @@
 ---
 title: Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, higher-ed, active-learning, feedback-loop, adaptive-virtual-patient-psychotherapy-training, professional-training]
 sources: ['raw/papers/2606.17786.md']
@@ -16,14 +16,12 @@ Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Ava
 
 ## Connected Concepts
 
-- [[socratic-method]]
-- [[lifelong-learning]]
 - [[ai-tutoring]]
-- [[prompt-engineering]]
-- [[human-in-the-loop-ai]]
+- [[simulation]]
+- [[professional-training]]
+- [[feedback-loop]]
 - [[formative-assessment]]
 - [[affective-tutoring]]
-- [[automated-essay-scoring]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: AI-accelerated End-to-End Framework for Rapid Professional Upskilling
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-15
 type: article
 tags: [professional-training, upskilling, workforce-development, llm, multi-agent, ai-tutors, assessment-development, content-generation, knowledge-acquisition, verification]
 sources: ['raw/papers/2607.14044.md']
@@ -50,14 +50,17 @@ The paper identifies four gaps in existing frameworks:
 
 ## Connected Concepts
 
-- [[open-source]]
-- [[lifelong-learning]]
-- [[prompt-engineering]]
 - [[adaptive-learning]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
 - [[affective-tutoring]]
-- [[automated-essay-scoring]]
+- [[ai-tutoring]]
+- [[formative-assessment]]
+- [[hallucination-risk]]
+- [[human-in-the-loop-ai]]
+- [[lifelong-learning]]
+- [[llm]]
+- [[professional-training]]
+- [[prompt-engineering]]
+- [[rag]]
 
 ## Connected Articles
 

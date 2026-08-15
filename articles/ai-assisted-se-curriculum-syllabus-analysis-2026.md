@@ -1,7 +1,7 @@
 ---
 title: Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [ai-education, curriculum-design, software-engineering, instructional-design, higher-ed, generative-ai, ethics]
 sources: ['raw/papers/2608.05898.md']
@@ -19,11 +19,13 @@ analyses 23 publicly available syllabi from upper-division, credit-bearing unive
 - [[curriculum-design]]
 - [[instructional-design]]
 - [[higher-ed]]
-- [[accessible-learning]]
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
-- [[rct]]
 - [[active-learning]]
+- [[prompt-engineering]]
+- [[ethics]]
+- [[generative-ai]]
+- [[cs-education]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: "AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education"
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-08-15
 type: article
 tags: [automated-grading, feedback-loop, higher-ed, llm, learning-analytics, human-in-the-loop-ai, rag]
 sources: ['raw/papers/2605.04740.md']
@@ -30,6 +30,8 @@ AICoFe extends prior work on [[ai-peer-feedback-systems]] from experimental prot
 - [[feedback-loop]]
 - [[learning-analytics]]
 - [[human-in-the-loop-ai]]
+- [[llm]]
+- [[ai-feedback-quality]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]]

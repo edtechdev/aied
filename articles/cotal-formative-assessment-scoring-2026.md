@@ -1,7 +1,7 @@
 ---
 title: "CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [formative-assessment, automated-grading, human-in-the-loop, prompt-engineering, benchmark, ai-ed-evaluation, assessment-validity, llm]
 sources: ['raw/papers/cotal-formative-assessment-scoring-2026.md']
@@ -30,12 +30,15 @@ confidence: high
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
+- [[ai-feedback-quality]]
 - [[assessment-validity]]
+- [[automated-assessment]]
 - [[automated-grading]]
 - [[formative-assessment]]
+- [[human-in-the-loop-ai]]
 - [[prompt-engineering]]
-
 - [[llm]]
+
 ## Connected Articles
 
 - [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education

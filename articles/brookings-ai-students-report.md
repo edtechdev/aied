@@ -1,7 +1,7 @@
 ---
 title: "A New Direction for Students in an AI World: Prosper, Prepare, Protect"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-15
 type: article
 tags: [policy-maker, k-12, student-experience, regulation, ai-literacy, llm]
 sources: ['raw/papers/brookings-ai-students-report.md']
@@ -31,11 +31,13 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 
 - [[regulation]]
 - [[student-experience]]
-
 - [[ai-literacy]]
 - [[k-12]]
 - [[llm]]
-- [[transfer-of-learning]] — AI Learning Transfer
+- [[governance]]
+- [[ai-governance-education]]
+- [[over-reliance]]
+- [[well-being]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base

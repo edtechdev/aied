@@ -1,7 +1,7 @@
 ---
 title: Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, efficacy-study, student-experience, scaffolding, self-regulated-learning, metacognition, regulation]
 sources: ['raw/papers/2607.20047.md']
@@ -16,6 +16,8 @@ A quasi-experimental, short-term longitudinal study with 126 first-year engineer
 - [[cognitive-offloading]]
 - [[over-reliance]]
 - [[self-regulated-learning]]
+- [[experiential-learning]]
+- [[ai-literacy]]
 ## Connected Articles
 
 - [[ai-metacognition-stem-review]]

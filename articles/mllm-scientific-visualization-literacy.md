@@ -1,7 +1,7 @@
 ---
 title: Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, stem-education, ai-literacy, benchmark, higher-ed, formative-assessment, open-source, visualization]
 sources: ['raw/papers/2607.15176.md']
@@ -19,6 +19,9 @@ Results show MLLMs do **not** exhibit uniform SciVis literacy. Gemini is the str
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[formative-assessment]]
+- [[benchmark]]
+- [[multimodal]]
+- [[llm]]
 ## Connected Articles
 
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework

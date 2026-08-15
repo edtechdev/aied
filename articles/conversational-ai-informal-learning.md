@@ -1,7 +1,7 @@
 ---
 title: "Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning"
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [generative-ai, informal-learning, llm, lifelong-learning, student-experience]
 sources: ['raw/papers/caeai-conversational-ai-informal.md']
@@ -36,10 +36,10 @@ The authors note that the sample, recruited exclusively from Germany via Prolifi
 - [[self-regulated-learning]]
 - [[motivation]]
 - [[collaborative-learning]]
-- [[prompt-engineering]]
-- [[affective-tutoring]]
-- [[plagiarism-detection]]
-- [[administrator]]
+- [[over-reliance]]
+- [[trust]]
+- [[privacy]]
+- [[hallucination-risk]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 created: 2026-06-25
-updated: 2026-06-25
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, personalized-learning, scaffolding, adaptive-learning, professional-training, generative-ai, formative-assessment]
 sources: ['raw/papers/2606.25337.md']
@@ -31,6 +31,9 @@ This paper explores how an embodied AI agent can act as a [[scaffolding|coach]] 
 - [[professional-training]]
 - [[stem-education]]
 - [[formative-assessment]]
+- [[reinforcement-learning]]
+- [[embodied-learning]]
+- [[transfer-of-learning]]
 ## Connected Articles
 
 - [[ai-tutor-safety-harms]]

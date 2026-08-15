@@ -1,7 +1,7 @@
 ---
 title: "The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals"
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, benchmark, efficacy-study, automated-grading, formative-assessment, reinforcement-learning]
 sources: ['raw/papers/2605.30666.md']
@@ -64,6 +64,9 @@ TEI demonstrates that simple lexical and structural signals can effectively stee
 - [[automated-assessment]]
 - [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
+- [[reinforcement-learning]]
+- [[llm]]
+- [[math-education]]
 
 ## Connected Articles
 

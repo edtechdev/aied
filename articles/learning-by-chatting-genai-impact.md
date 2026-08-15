@@ -1,7 +1,7 @@
 ---
 title: Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, over-reliance, student-experience, metacognition, higher-ed, self-regulated-learning, scaffolding, petechat-guardrailed-ai-tutor, ai-literacy]
 sources: ['raw/papers/2606.11669.md']
@@ -52,6 +52,10 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 - [[over-reliance]]
 - [[scaffolding]]
 - [[ai-literacy]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[generative-ai]]
+- [[agency]]
 ## Connected Articles
 
 - [[tutoring-effectiveness-index]]

@@ -1,7 +1,7 @@
 ---
 title: "Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers"
 created: 2026-06-30
-updated: 2026-06-30
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, llm, stem-education, teacher-role, ai-literacy]
 sources: ['raw/papers/2606.30547.md']
@@ -17,6 +17,10 @@ This study by Tran, Marwan & Price (2026) introduces and evaluates a 45-minute s
 - [[stem-education]]
 - [[teacher-role]]
 - [[higher-ed]]
+- [[prompt-engineering]]
+- [[programming-education]]
+- [[self-efficacy]]
+- [[professional-training]]
 ## Connected Articles
 
 - [[bridging-instructional-design-framework-math]]
@@ -25,7 +29,8 @@ This study by Tran, Marwan & Price (2026) introduces and evaluates a 45-minute s
 - [[youtube-frames-chatgpt-education]]
 - [[anvil-ai-educational-animations]]
 - [[prompt-problems-nl-programming-mistakes]]
+- [[voice-text-prompt-problems-computing-education]] — Modality choice in prompt construction
 
 ## Citation
 
-Keith Tran, Samiha Marwan, Thomas Price (2026). [Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers](https://arxiv.org/abs/2606.30547). arXiv:2606.30547. cs.CY. - [[voice-text-prompt-problems-computing-education]] — Modality choice in prompt construction
+Keith Tran, Samiha Marwan, Thomas Price (2026). [Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers](https://arxiv.org/abs/2606.30547). arXiv:2606.30547. cs.CY.

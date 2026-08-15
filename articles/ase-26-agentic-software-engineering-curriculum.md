@@ -1,7 +1,7 @@
 ---
 title: "ASE-26: A Curriculum for Agentic Software Engineering as a Discipline"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-08-15
 type: article
 tags: [agentic-ai, ai-literacy, curriculum-design, higher-ed, software-engineering, prompt-engineering, scaffolding, agentic-workflows, metacognition]
 sources: ['raw/papers/2606.01152.md']
@@ -35,6 +35,8 @@ ASE-26 reframes [[ai-literacy]] for software professionals as the ability to man
 - [[curriculum-design]]
 - [[metacognition]]
 - [[agentic-ai]]
+- [[higher-ed]]
+- [[programming-education]]
 ## Connected Articles
 
 - [[tracing-genai-literacy-interaction-patterns]] — Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing

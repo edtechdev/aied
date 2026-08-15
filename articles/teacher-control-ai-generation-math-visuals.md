@@ -1,7 +1,7 @@
 ---
 title: When Should Teachers Control AI Generation for Mathematics Visuals?
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-15
 type: article
 tags: [teacher-role, stem-education, ai-generated-content, curriculum-design, pedagogy, agentic-workflows, ai-education, math-education]
 sources: ['raw/papers/2605.10672.md']
@@ -27,6 +27,9 @@ The findings also relate to [[generative-ai]] and [[principled-ai-education]], s
 - [[teacher-role]]
 - [[stem-education]]
 - [[generative-ai]]
+- [[math-education]]
+- [[curriculum-design]]
+- [[human-ai-collaboration]]
 ## Connected Articles
 
 - [[principled-ai-education]]

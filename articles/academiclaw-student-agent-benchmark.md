@@ -1,7 +1,7 @@
 ---
 title: "AcademiClaw: When Students Set Challenges for AI Agents"
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-15
 type: article
 tags: [benchmark, higher-ed, llm, generative-ai, student-experience, pedagogical-llm-training, automated-grading, ai-tutoring, open-source]
 sources: ['raw/papers/2605.02661.md']
@@ -64,14 +64,14 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 
 ## Connected Concepts
 
-- [[automated-question-generation]]
+- [[benchmark]]
 - [[pedagogical-llm-training]]
-- [[socratic-method]]
+- [[agentic-ai]]
 - [[math-education]]
 - [[prompt-engineering]]
 - [[human-in-the-loop-ai]]
-- [[affective-tutoring]]
-- [[automated-essay-scoring]]
+- [[open-source]]
+- [[ai-ed-evaluation]]
 
 ## Connected Articles
 

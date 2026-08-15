@@ -1,7 +1,7 @@
 ---
 title: Is AI making us stupid?
 created: 2026-07-19
-updated: 2026-07-19
+updated: 2026-08-15
 type: article
 tags: [cognitive-offloading, over-reliance, generative-ai, metacognition, learning-gains, ai-literacy, skill-decay, self-regulated-learning, rag, higher-ed]
 sources: ['raw/papers/cell-2026-ai-making-us-stupid.md']
@@ -46,12 +46,14 @@ Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [
 
 ## Connected Concepts
 
+- [[cognitive-offloading]]
+- [[over-reliance]]
 - [[ai-literacy]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-
 - [[generative-ai]]
 - [[higher-ed]]
+- [[learning-gains]]
 - [[rag]]
 ## Connected Articles
 

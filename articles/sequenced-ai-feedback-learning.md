@@ -1,7 +1,7 @@
 ---
 title: Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-15
 type: article
 tags: [feedback-loop, formative-assessment, scaffolding, generative-ai, efficacy-study, student-experience, self-regulated-learning, automated-grading, human-in-the-loop-ai, metacognition]
 sources: ['raw/papers/2604.07469.md']
@@ -87,6 +87,10 @@ This paper directly informs several threads in the wiki:
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[transfer-of-learning]]
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[learning-gains]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[critical-thinking-genai-scaffolding]]

@@ -1,7 +1,7 @@
 ---
 title: "Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis"
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-15
 type: article
 tags: [active-learning, higher-ed, reinforcement-learning, stem-education, self-regulated-learning, scaffolding, llm]
 sources: ['raw/papers/2607.10802.md']
@@ -36,6 +36,8 @@ Reinforcement learning is usually introduced through the Bellman update, yet the
 - [[higher-ed]]
 - [[self-regulated-learning]]
 - [[scaffolding]]
+- [[math-education]]
+- [[experiential-learning]]
 ## Connected Articles
 
 - [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education

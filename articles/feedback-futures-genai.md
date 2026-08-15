@@ -1,7 +1,7 @@
 ---
 title: "Feedback futures: beyond the limits of human and GenAI capacities"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [generative-ai, feedback-loop, higher-ed, ai-literacy, educational-theory, equity, equity-in-ai-education, human-in-the-loop-ai, rag, ai-education]
 sources: ['raw/papers/tandf-2026-feedback-futures-genai.md']
@@ -49,10 +49,13 @@ The editors distill five recurring tensions from the special issue:
 - [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
-
 - [[ai-education]]
 - [[generative-ai]]
-- [[rag]]
+- [[feedback-loop]]
+- [[agency]]
+- [[governance]]
+- [[ai-feedback-quality]]
+- [[assessment]]
 ## Connected Articles
 
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning

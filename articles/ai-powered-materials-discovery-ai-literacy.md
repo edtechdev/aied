@@ -1,7 +1,7 @@
 ---
 title: "Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, curriculum-design, equity, metacognition, stem-education, equity-in-ai-education, agentic-workflows, ai-education]
 sources: ['raw/papers/2605.09624.md']
@@ -24,9 +24,14 @@ The framework also touches on [[metacognition]] — students need to develop jud
 
 ## Connected Concepts
 
+- [[ai-literacy]]
+- [[human-ai-collaboration]]
+- [[curriculum-design]]
+- [[trust]]
 - [[equity-in-ai-education]]
 - [[stem-education]]
 - [[metacognition]]
+
 ## Connected Articles
 
 - [[agentic-workflows-education]]

@@ -1,7 +1,7 @@
 ---
 title: Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, scaffolding, formative-assessment, higher-ed, personalized-learning, socratic-method, rag, socratic-ai]
 sources: ['raw/papers/2605.12988.md']
@@ -25,6 +25,11 @@ This work contributes to the growing literature on [[llm-student-modeling-memory
 - [[socratic-method]]
 - [[formative-assessment]]
 - [[personalized-learning]]
+- [[rag]]
+- [[ai-tutoring]]
+- [[simulating-students]]
+- [[feedback-loop]]
+- [[llm]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]

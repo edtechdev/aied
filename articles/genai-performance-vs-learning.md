@@ -1,7 +1,7 @@
 ---
 title: Distinguishing performance gains from learning when using generative AI
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-08-15
 type: article
 tags: [generative-ai, metacognition, over-reliance, higher-ed, scaffolding, self-regulated-learning, ai-assistance-reduces-persistence, rag, llm]
 sources: ['raw/papers/2605.13731.md']
@@ -33,6 +33,10 @@ Generative AI can function as either a cognitive tool (amplifying thinking) or a
 - [[socratic-method]]
 - [[over-reliance]]
 - [[self-regulated-learning]]
+- [[metacognition]]
+- [[transfer-of-learning]]
+- [[generative-ai]]
+- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[ai-tutor-effectiveness-review]]

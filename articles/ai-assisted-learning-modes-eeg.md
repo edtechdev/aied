@@ -1,7 +1,7 @@
 ---
 title: An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students
 created: 2026-06-26
-updated: 2026-06-26
+updated: 2026-08-15
 type: article
 tags: [k-12, student-experience, llm, generative-ai, engagement-metrics, affective-computing, active-learning, ai-literacy, scaffolding]
 sources: ['raw/papers/2606.26579.md']
@@ -22,6 +22,10 @@ The finding that full automation reduces cognitive engagement echoes the [[over-
 - [[affective-computing]]
 - [[student-experience]]
 - [[k-12]]
+- [[active-learning]]
+- [[engagement-metrics]]
+- [[scaffolding]]
+- [[ai-tutoring]]
 ## Connected Articles
 
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion

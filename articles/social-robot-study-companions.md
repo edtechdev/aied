@@ -1,7 +1,7 @@
 ---
 title: Co-Creating Buildable and Open Social Robot Study Companions with University Students
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-08-15
 type: article
 tags: [k-12, higher-ed, intelligent-tutoring, student-experience, stem-education, human-ai-collaboration]
 sources: ['raw/papers/2606.15239.md']
@@ -28,14 +28,14 @@ This paper contributes directly to understanding how AI systems interact with le
 
 ## Connected Concepts
 
-- [[math-education]]
 - [[pedagogical-agent]]
 - [[design-thinking]]
 - [[open-source]]
-- [[agentic-ai]]
 - [[stem-education]]
-- [[ai-tutoring]]
-- [[affective-tutoring]]
+- [[educational-robotics]]
+- [[human-robot-interaction]]
+- [[social-robots]]
+- [[higher-ed]]
 
 ## Connected Articles
 

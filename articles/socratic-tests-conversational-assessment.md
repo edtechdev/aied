@@ -1,7 +1,7 @@
 ---
 title: "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, assessment, automated-grading, assessment-validity, scaffolding, educational-theory, zone-of-proximal-development, ai-tutoring, automated-assessment]
 sources: ['raw/papers/2607.29624.md']
@@ -21,14 +21,15 @@ A stated goal is human-AI alignment for measurement reliability: the conversatio
 
 ## Connected Concepts
 
-- [[automated-essay-scoring]]
+- [[assessment]]
+- [[assessment-validity]]
+- [[authentic-assessment]]
 - [[automated-question-generation]]
 - [[formative-assessment]]
 - [[ai-ed-evaluation]]
-- [[open-source]]
 - [[socratic-method]]
-- [[reducing-ai-misuse]]
-- [[math-education]]
+- [[scaffolding]]
+- [[zone-of-proximal-development]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: Knowledge Distillation for Automated AI Tutor Evaluation
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, automated-grading, llm, higher-ed, k-12]
 sources: ['raw/papers/2607.10647.md']
@@ -34,6 +34,9 @@ Automated tutor evaluation of this kind is a prerequisite for accountability in 
 - [[k-12]]
 - [[higher-ed]]
 - [[llm]]
+- [[ai-tutoring]]
+- [[ai-ed-evaluation]]
+- [[benchmark]]
 ## Connected Articles
 
 - [[ai-tutor-behavioral-evaluation]]

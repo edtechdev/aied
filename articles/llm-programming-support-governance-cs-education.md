@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Design Space of LLM-Based Programming Support in CS Education: A Scoping Review through the Lens of Assistance Governance"
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-08-15
 type: article
 tags: [llm, cs-education, scaffolding, feedback-loop, higher-ed]
 sources: ['raw/papers/2607.21257.md']
@@ -15,6 +15,8 @@ This scoping review synthesizes 90 peer-reviewed [[llm]]-based programming suppo
 - [[llm]]
 - [[cs-education]]
 - [[scaffolding]]
+- [[programming-education]]
+- [[feedback-loop]]
 ## Connected Articles
 
 - [[genai-assessment-governance]]

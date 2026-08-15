@@ -1,7 +1,7 @@
 ---
 title: Interpretable Knowledge Tracing
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [knowledge-tracing, interpretability, student-modeling, cold-start-knowledge-tracing-safeinsights, item-response-theory, ai-tutoring, rag]
 sources: ['raw/papers/huang-interpretable-knowledge-tracing-2026.md']
@@ -47,8 +47,9 @@ Future work should extend the framework to multi-skill settings (where students 
 - [[ai-tutoring]]
 - [[item-response-theory]]
 - [[knowledge-tracing]]
-
 - [[rag]]
+- [[student-modeling]]
+- [[llm]]
 
 ## Connected Articles
 

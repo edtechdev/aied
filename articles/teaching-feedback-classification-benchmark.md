@@ -1,7 +1,7 @@
 ---
 title: A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-15
 type: article
 tags: [feedback-loop, automated-grading, teacher-role, formative-assessment, higher-ed, faculty-development-genai]
 sources: ['raw/papers/2607.11873.md']
@@ -37,6 +37,8 @@ Institutions collect far more open-ended teaching-evaluation feedback than they 
 - [[formative-assessment]]
 - [[ai-feedback-quality]]
 - [[faculty-development]]
+- [[benchmark]]
+- [[educational-nlp]]
 ## Connected Articles
 
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education

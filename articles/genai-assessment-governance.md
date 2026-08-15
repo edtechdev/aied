@@ -1,7 +1,7 @@
 ---
 title: "Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-08-15
 type: article
 tags: [stem-education, generative-ai, automated-grading, higher-ed, policy-maker, genai-minoritized-knowledges-disability, scaffolding, ai-literacy, llm]
 sources: ['raw/papers/2605.24837.md']
@@ -37,6 +37,8 @@ By situating GenAI governance within validity arguments, the framework offers ac
 - [[automated-grading]]
 - [[educational-policy-ai]]
 - [[ai-literacy]]
+- [[assessment-validity]]
+
 ## Connected Articles
 
 - [[automatic-short-answer-grading]]

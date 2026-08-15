@@ -1,7 +1,7 @@
 ---
 title: "Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use"
 created: 2026-05-11
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [generative-ai, intelligent-tutoring, student-experience, engagement-metrics, higher-ed, learning-analytics, rag, llm]
 sources: ['raw/papers/2602.00447.md']
@@ -38,13 +38,13 @@ Context mattered. At highly selective universities, the proportion of deep engag
 ## Connected Concepts
 
 - [[higher-ed]]
-- [[affective-computing]]
-- [[socratic-method]]
-- [[affective-tutoring]]
-- [[administrator]]
-- [[teacher-ai-competency]]
 - [[socratic-method]]
 - [[help-seeking]]
+- [[learning-analytics]]
+- [[engagement-metrics]]
+- [[over-reliance]]
+- [[equity-in-ai-education]]
+- [[student-engagement]]
 
 ## Connected Articles
 

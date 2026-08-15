@@ -1,7 +1,7 @@
 ---
 title: "Codify: An Intelligent Socratic Tutoring System for Programming Education"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, stem-education, higher-ed, adaptive-learning, self-regulated-learning, scaffolding, metacognition, rag]
 sources: ['raw/papers/codify-socratic-programming-tutor.md']
@@ -37,6 +37,10 @@ Codify represents the trend toward LLM-powered tutoring systems that combine con
 
 - [[higher-ed]]
 - [[rag]]
+- [[intelligent-tutoring]]
+- [[programming-education]]
+- [[socratic-method]]
+- [[knowledge-tracing]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

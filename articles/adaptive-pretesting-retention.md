@@ -1,7 +1,7 @@
 ---
 title: Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-15
 type: article
 tags: [rct, adaptive-learning, formative-assessment, learning-gains, higher-ed, personalized-learning, rag]
 sources: ['raw/papers/2606.22328.md']
@@ -16,6 +16,10 @@ Akgun and Toker (2026) examine whether learning gains from GenAI-enabled adaptiv
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[transfer-of-learning]]
+- [[learning-gains]]
+- [[formative-assessment]]
+- [[higher-ed]]
+- [[self-regulated-learning]]
 ## Connected Articles
 
 ## Citation

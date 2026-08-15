@@ -1,7 +1,7 @@
 ---
 title: "Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States"
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-08-15
 type: article
 tags: [ai-education, cs-education, ethics, regulation, faculty-development, teacher-ai-competency, equity-in-ai-education, ai-literacy, pedagogical-safety]
 sources: ['raw/papers/2605.09680.md']
@@ -28,6 +28,9 @@ The ethics education gap identified here suggests that AI literacy curricula fac
 - [[equity-in-ai-education]]
 - [[academic-integrity]]
 - [[over-reliance]]
+- [[ethics]]
+- [[cs-education]]
+- [[ai-literacy]]
 ## Connected Articles
 
 - [[pedagogical-safety-rl]]

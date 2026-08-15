@@ -1,7 +1,7 @@
 ---
 title: "The Environmental Cost of LLMs in AIED: Reporting and Practices"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, efficacy-study, policy-maker, privacy, ethics, open-source, ai-education]
 sources: ['raw/papers/2606.11215.md']
@@ -42,14 +42,11 @@ LLM usage has become pervasive in the [[stanford-evidence-base-ai-k12-2026|AIED]
 
 ## Connected Concepts
 
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[plagiarism-detection]]
-- [[administrator]]
-- [[bias-mitigation]]
 - [[open-source]]
-- [[pedagogical-llm-training]]
-- [[ai-literacy]]
+- [[ethics]]
+- [[llm]]
+- [[generative-ai]]
+- [[ai-education]]
 
 ## Connected Articles
 

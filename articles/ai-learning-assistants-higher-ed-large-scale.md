@@ -1,7 +1,7 @@
 ---
 title: "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis"
 created: 2026-07-10
-updated: 2026-07-10
+updated: 2026-08-15
 type: article
 tags: [llm, higher-ed, student-experience, learning-analytics, personalized-learning, self-regulated-learning, generative-ai, scaffolding, ai-literacy]
 sources: ['raw/papers/2607.08748.md']
@@ -23,6 +23,8 @@ Presents a large-scale descriptive analysis of an AI learning assistant (Syntea)
 - [[teacher-role]]
 - [[llm]]
 - [[feedback-loop]]
+- [[learning-analytics]]
+
 ## Connected Articles
 
 - [[pedagogy-ai-mistakes]]

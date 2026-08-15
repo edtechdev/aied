@@ -1,7 +1,7 @@
 ---
 title: How AI Is Changing Teaching Workflows
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-15
 type: article
 tags: [generative-ai, teacher-role, faculty-development, efficacy-study, rct, k-12, higher-ed, student-experience, equity, ai-literacy]
 sources: ['raw/papers/ai-changing-teaching-workflows-2026-05-21.md']
@@ -72,12 +72,15 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[generative-ai]]
 - [[scaffolding]]
 - [[teacher-role]]
-
 - [[higher-ed]]
 - [[k-12]]
 - [[student-experience]]
-
 - [[tpack]]
+- [[feedback-loop]]
+- [[rct]]
+- [[equity-in-ai-education]]
+- [[human-in-the-loop-ai]]
+- [[faculty-development]]
 ## Connected Articles
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education

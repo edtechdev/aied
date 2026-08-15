@@ -1,7 +1,7 @@
 ---
 title: "The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-15
 type: article
 tags: [higher-ed, ai-literacy, metacognition, stem-education, active-learning, socratic-method, rag, llm, ai-tutoring]
 sources: ['raw/papers/2605.05472.md']
@@ -39,6 +39,8 @@ This maps directly to the upper levels of Bloom's taxonomy (Analyze, Evaluate, C
 - [[metacognition]]
 - [[socratic-method]]
 - [[ai-literacy]]
+- [[critical-thinking]]
+- [[hallucination-risk]]
 ## Connected Articles
 
 - [[llm-fallacy-misattribution]]

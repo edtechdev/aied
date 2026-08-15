@@ -1,7 +1,7 @@
 ---
 title: Confidence-Aware Automatic Short Answer Grading
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [assessment, automated-grading, confidence, psychometrically-aware-ai, hybrid-e-assessment-semi-automated-grading, retrieval-augmented-generation, ai-ed-evaluation]
 sources: ['raw/papers/cong-confidence-asag-2026.md']
@@ -35,9 +35,10 @@ The use of [[rag]] and synthetic-data techniques for calibration could extend th
 - [[ai-ed-evaluation]]
 - [[automated-grading]]
 - [[confidence-aware-ai-assessment]]
-- psychometrically-aware-ai
+- [[psychometrically-aware-ai]]
 - [[rag]]
-- [[authentic-assessment]] — Authentic Assessment
+- [[human-in-the-loop-ai]]
+- [[assessment]]
 ## Connected Articles
 
 - [[automatic-short-answer-grading]] — Automatic Short Answer Grading with LLMs

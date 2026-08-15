@@ -1,7 +1,7 @@
 ---
 title: "EduQwen: Pedagogical RL"
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [llm, pedagogical-safety, reinforcement-learning, pedagogical-llm-training, open-source, rag]
 sources: ['raw/papers/singh-eduqwen-pedagogical-rl-2026.md']
@@ -39,11 +39,12 @@ Finally, the work establishes that [[pedagogical-safety-rl]] is not merely about
 - [[open-source]]
 - [[pedagogical-llm-training]]
 - [[pedagogical-safety]]
-
 - [[llm]]
-- [[rag]]
 - [[reinforcement-learning]]
-- [[transfer-of-learning]] — AI Learning Transfer
+- [[benchmark]]
+- [[intelligent-tutoring]]
+- [[ai-tutoring]]
+- [[edtech-platform]]
 ## Connected Articles
 
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning

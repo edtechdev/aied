@@ -1,7 +1,7 @@
 ---
 title: "Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education"
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-08-15
 type: article
 tags: [scaffolding, generative-ai, feedback-loop, active-learning, programming-its, higher-ed, student-experience, llm, visualization]
 sources: ['raw/papers/2607.06721.md']
@@ -21,6 +21,9 @@ This work connects to core wiki themes: [[scaffolding]] [[generative-ai]] [[feed
 - [[feedback-loop]]
 - [[active-learning]]
 - [[student-experience]]
+- [[programming-education]]
+- [[cs-education]]
+- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs

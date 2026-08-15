@@ -1,7 +1,7 @@
 ---
 title: "Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design"
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, faculty-development, generative-ai, multi-agent, scaffolding, teacher-role, teacher-ai-competency, agentic-ai-ecosystems-higher-education, faculty-development-genai, rag]
 sources: ['raw/papers/2605.13906.md']
@@ -43,6 +43,8 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 - [[faculty-development]]
 - [[agentic-ai]]
 - [[tpack]]
+- [[self-efficacy]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[teacher-ai-adoption-confidence]]

@@ -1,12 +1,14 @@
 ---
 title: "Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-08-15
 type: article
 tags: [prompt-engineering, generative-ai, llm, higher-ed, scaffolding, formative-assessment, multimodal, student-experience, ai-literacy, intelligent-tutoring]
 confidence: high
 sources: []
----## Overview
+---
+
+## Overview
 
 SlidesQAQA is a Flask-based system that extracts text and rendered images from PDF lecture slides and processes them through a four-stage [[llm]] pipeline: **window planning** (segment extraction), **deck synthesis** (cross-slide reasoning), **slide annotation** (per-slide question generation), and **reconciliation** (deck-level revision to reduce redundancy and improve coverage). The key innovation is joint reasoning about slide modality and pedagogical role, with a bounded question budget that forces prioritization of important content.
 
@@ -34,6 +36,8 @@ SlidesQAQA represents a practical step toward AI systems that understand pedagog
 - [[formative-assessment]]
 - [[multimodal]]
 - [[higher-ed]]
+- [[educational-nlp]]
+- [[generative-ai]]
 ## Connected Articles
 
 - [[generate-then-validate-question-gen]]

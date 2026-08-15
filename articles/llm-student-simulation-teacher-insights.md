@@ -1,7 +1,7 @@
 ---
 title: Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-15
 type: article
 tags: [llm, student-simulation, teacher-training, dialogue-tutoring, k-12, authenticity, llm-evaluation, community-of-inquiry, scaffolding, knowledge-tracing]
 sources: ['raw/papers/llm-student-simulation-teacher-insights.md']
@@ -64,6 +64,9 @@ LLMs captured the bottom-right quadrant reasonably well but failed to represent 
 - [[knowledge-tracing]]
 - [[llm]]
 - [[scaffolding]]
+- [[simulating-students]]
+- [[student-modeling]]
+- [[teacher-role]]
 
 ## Connected Articles
 

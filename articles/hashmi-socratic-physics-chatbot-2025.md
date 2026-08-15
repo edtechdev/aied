@@ -1,7 +1,7 @@
 ---
 title: "Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot"
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [socratic-method, physics-education, generative-ai, intelligent-tutoring, socratic-questioning, computational-thinking, learning-analytics, educational-measurement]
 sources: ['raw/papers/hashmi-socratic-physics-chatbot-2025.md']
@@ -38,9 +38,9 @@ The correlation between question specificity and course grade (*r* = 0.43) hints
 - [[learning-analytics]]
 - [[physics-education]]
 - [[socratic-method]]
-- [[socratic-method]]
 - [[stem-education]]
 - [[intelligent-tutoring]]
+- [[ai-tutoring]]
 ## Connected Articles
 
 - [[socratic-ai-physics-tutor-taxonomy-2026]]

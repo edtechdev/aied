@@ -1,7 +1,7 @@
 ---
 title: "To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [llm, collaborative-learning, student-ai-interaction, engagement-metrics, nlp-education, human-in-the-loop, higher-ed, ai-team-teaching-talk-analytics, learning-analytics, human-ai-collaboration]
 sources: ['raw/papers/2607.28643.md']
@@ -39,12 +39,11 @@ For online learning environments — MOOC-style forums and classroom discussion 
 
 - [[human-in-the-loop-ai]]
 - [[collaborative-learning]]
-- [[administrator]]
 - [[pedagogical-agent]]
-- [[automated-question-generation]]
 - [[ai-ed-evaluation]]
-- [[affective-computing]]
 - [[prompt-engineering]]
+- [[engagement-metrics]]
+- [[learning-analytics]]
 
 ## Connected Articles
 

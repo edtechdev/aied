@@ -1,7 +1,7 @@
 ---
 title: "From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [writing-education, student-experience, ai-generated-content, metacognition, generative-ai, llm]
 sources: ['raw/papers/ai-writing-support-stage-ownership-2026.md']
@@ -32,9 +32,9 @@ confidence: high
 - [[metacognition]]
 - [[student-experience]]
 - [[writing-education]]
-
 - [[llm]]
-- [[authentic-assessment]] — Authentic Assessment
+- [[authentic-assessment]]
+- [[agency]]
 ## Connected Articles
 
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams

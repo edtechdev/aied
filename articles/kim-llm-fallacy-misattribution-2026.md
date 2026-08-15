@@ -1,7 +1,7 @@
 ---
 title: LLM Fallacy Misattribution in Education
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [llm, misinformation, ai-literacy, ai-assistance-reduces-persistence, cognitive-load-theory, cognitive-offloading-llm-synthesis-writing, assessment-validity]
 sources: ['raw/papers/kim-llm-fallacy-misattribution-2026.md']
@@ -40,9 +40,11 @@ The long-term institutional risk is credential inflation: if degrees and certifi
 - [[ai-literacy]]
 - [[assessment-validity]]
 - [[cognitive-load-theory]]
-
 - [[llm]]
-- [[authentic-assessment]] — Authentic Assessment
+- [[authentic-assessment]]
+- [[self-efficacy]]
+- [[metacognition]]
+- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named

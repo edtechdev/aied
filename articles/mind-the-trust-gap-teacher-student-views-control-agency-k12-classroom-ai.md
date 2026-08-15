@@ -1,7 +1,7 @@
 ---
 title: "Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI"
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-15
 type: article
 tags: [k-12, teacher-role, student-experience, ai-literacy, student-ai-interaction, automated-grading, llm, scaffolding, learning-analytics]
 sources: ['raw/papers/2607.01506.md']
@@ -34,6 +34,11 @@ The misalignments identified in this study complicate the common assumption that
 - [[teacher-role]]
 - [[student-experience]]
 - [[ai-literacy]]
+- [[trust]]
+- [[agency]]
+- [[human-in-the-loop-ai]]
+- [[trust-calibration]]
+- [[social-emotional-learning]]
 ## Connected Articles
 
 - [[teacher-authored-prompts-student-ai-dialogue]] — Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation

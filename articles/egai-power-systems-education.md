@@ -1,7 +1,7 @@
 ---
 title: Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-15
 type: article
 tags: [ai-education, stem-education, curriculum-design, open-source, professional-training, llm, rag]
 sources: ['raw/papers/2608.02599.md']
@@ -27,14 +27,10 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 ## Connected Concepts
 
 - [[open-source]]
-- [[socratic-method]]
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
 - [[cs-education]]
 - [[curriculum-design]]
-- [[administrator]]
-- [[socratic-method]]
-
+- [[stem-education]]
+- [[professional-training]]
 ## Connected Articles
 
 - [[educational-vlm-evaluation]] — Educational VLM Evaluation

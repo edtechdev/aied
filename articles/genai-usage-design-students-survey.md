@@ -1,7 +1,7 @@
 ---
 title: "A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026"
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, student-experience, ai-literacy, academic-integrity, writing-education]
 sources: ['raw/papers/2607.17094.md']
@@ -20,6 +20,9 @@ Crucially, high GenAI adoption did not reduce students' perceived project owners
 - [[ai-literacy]]
 - [[academic-integrity]]
 - [[writing-education]]
+- [[creativity]]
+- [[design-thinking]]
+- [[agency]]
 ## Connected Articles
 
 - [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)

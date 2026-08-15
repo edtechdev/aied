@@ -1,7 +1,7 @@
 ---
 title: Principled AI Education Framework
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, curriculum-design, instructional-design, generative-ai, zone-of-proximal-development, scaffolding, metacognition]
 sources: ['raw/papers/finkelstein-principled-ai-education-2025.md']
@@ -38,17 +38,20 @@ For course design, the framework connects directly to [[scaffolding]] practices 
 
 ## Connected Concepts
 
+- [[agency]]
 - [[ai-education]]
+- [[ai-literacy]]
 - [[cognitive-load-theory]]
+- [[collaborative-learning]]
+- [[curriculum-design]]
 - [[desirable-difficulties]]
+- [[equity-in-ai-education]]
+- [[formative-assessment]]
 - [[generative-ai]]
 - [[metacognition]]
 - [[scaffolding]]
-- [[zone-of-proximal-development]]
-
-- [[ai-literacy]]
-- [[curriculum-design]]
 - [[transfer-of-learning]] — AI Learning Transfer
+- [[zone-of-proximal-development]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base

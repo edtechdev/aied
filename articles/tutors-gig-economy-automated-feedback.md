@@ -1,7 +1,7 @@
 ---
 title: "Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle"
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-08-15
 type: article
 tags: [feedback-loop, higher-ed, intelligent-tutoring, language-learning, teacher-role]
 sources: ['raw/papers/2606.22609.md']
@@ -17,6 +17,8 @@ Park et al. (2026) explore AI-powered automated feedback for tutors on Ringle, a
 - [[intelligent-tutoring]]
 - [[language-learning]]
 - [[higher-ed]]
+- [[feedback-loop]]
+- [[edtech-platform]]
 ## Connected Articles
 
 - [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol

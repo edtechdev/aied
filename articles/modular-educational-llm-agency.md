@@ -1,7 +1,7 @@
 ---
 title: Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-08-15
 type: article
 tags: [llm, intelligent-tutoring, scaffolding, teacher-role, over-reliance, learning-analytics, student-experience, ai-literacy]
 sources: ['raw/papers/2605.30187.md']
@@ -22,6 +22,8 @@ The widespread adoption of AI chatbots in education will drastically change lear
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[teacher-role]]
+- [[agentic-ai]]
+- [[llm]]
 ## Connected Articles
 
 - [[correct-answer-trap-ai-tutor]]

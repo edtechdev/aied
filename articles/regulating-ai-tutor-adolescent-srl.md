@@ -1,7 +1,7 @@
 ---
 title: "Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use"
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-15
 type: article
 tags: [llm, k-12, self-regulated-learning, metacognition, student-experience, scaffolding, help-seeking]
 sources: ['raw/papers/2606.08568.md']
@@ -20,6 +20,11 @@ The paper proposes a turn-level codebook combining SRL and [[metacognition|help-
 - [[metacognition]]
 - [[scaffolding]]
 - [[over-reliance]]
+- [[help-seeking]]
+- [[k-12]]
+- [[cognitive-load-theory]]
+- [[cognitive-offloading]]
+- [[llm]]
 ## Connected Articles
 
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning

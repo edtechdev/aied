@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning"
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-08-15
 type: article
 tags: [stem-education, higher-ed, personalized-learning, active-learning, blended-learning, llm-in-education, student-experience, rag, llm]
 sources: ['raw/papers/2607.00979.md']
@@ -25,8 +25,10 @@ This paper contributes to the growing body of research on AI applications in edu
 ## Connected Concepts
 
 - [[ai-education]]
-- [[intelligent-tutoring]]
-- [[equity-in-ai-education]]
+- [[stem-education]]
+- [[embodied-learning]]
+- [[multimodal]]
+- [[active-learning]]
 ## Connected Articles
 
 - [[dura-llm-cs2]] — Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2

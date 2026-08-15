@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-08-15
 type: article
 tags: [higher-ed, llm, generative-ai, student-experience, affective-computing, edtech-platform, administrator, ai-literacy]
 sources: ['raw/papers/2605.10804.md']
@@ -29,6 +29,9 @@ The integrated framework — where adaptive survey insights flow into specialize
 - [[affective-computing]]
 - [[edtech-platform]]
 - [[administrator]]
+- [[well-being]]
+- [[reinforcement-learning]]
+- [[hallucination-risk]]
 ## Connected Articles
 
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs

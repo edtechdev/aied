@@ -1,7 +1,7 @@
 ---
 title: "VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI"
 created: 2026-06-03
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [pedagogical-safety, k-12, llm, generative-ai]
 sources: ['raw/papers/caeai-vetting-safety.md']
@@ -36,12 +36,11 @@ The authors caution that the taxonomy is exploratory rather than fully validated
 
 - [[human-in-the-loop-ai]]
 - [[pedagogical-safety]]
-- [[formative-assessment]]
 - [[k-12]]
-- [[affective-tutoring]]
-- [[automated-essay-scoring]]
-- [[cs-education]]
 - [[student-experience]]
+- [[llm]]
+- [[generative-ai]]
+- [[ai-misuse-learning-harm]]
 
 ## Connected Articles
 

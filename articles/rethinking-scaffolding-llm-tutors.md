@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments"
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-08-15
 type: article
 tags: [scaffolding, intelligent-tutoring, llm, benchmark, efficacy-study, student-experience, help-seeking]
 sources: ['raw/papers/2606.15766.md']
@@ -32,10 +32,14 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[ai-tutoring]]
 - [[pedagogical-llm-training]]
 - [[benchmark]]
-- [[affective-tutoring]]
 - [[socratic-method]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
+- [[scaffolding]]
+- [[intelligent-tutoring]]
+- [[llm]]
+- [[student-experience]]
+- [[agency]]
 
 ## Connected Articles
 

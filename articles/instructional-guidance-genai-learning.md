@@ -1,7 +1,7 @@
 ---
 title: Role of Instructional Guidance in Generative AI-Assisted Learning
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-15
 type: article
 tags: [llm, higher-ed, scaffolding, active-learning, personalized-learning, feedback-loop]
 sources: ['raw/papers/2606.05509.md']
@@ -20,6 +20,9 @@ Demonstrates that the effectiveness of AI-supported learning depends critically 
 - [[scaffolding]]
 - [[active-learning]]
 - [[personalized-learning]]
+- [[instructional-design]]
+- [[generative-ai]]
+- [[prompt-engineering]]
 ## Connected Articles
 
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education

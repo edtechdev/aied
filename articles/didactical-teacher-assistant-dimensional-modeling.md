@@ -1,7 +1,7 @@
 ---
 title: A didactical-driven teacher assistant for a dimensional modeling course
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-15
 type: article
 tags: [llm, intelligent-tutoring, higher-ed, pedagogy, rag, scaffolding]
 sources: ['raw/papers/2607.22598.md']
@@ -15,11 +15,13 @@ Brisson, Segarra and Smits present a didactically-driven LLM teacher assistant f
 - [[cs-education]]
 - [[socratic-method]]
 - [[instructional-design]]
-- [[affective-tutoring]]
-- [[socratic-method]]
 - [[help-seeking]]
 - [[pedagogical-agent]]
 - [[automated-question-generation]]
+- [[llm]]
+- [[higher-ed]]
+- [[scaffolding]]
+- [[intelligent-tutoring]]
 
 ## Connected Articles
 
@@ -33,6 +35,7 @@ Brisson, Segarra and Smits present a didactically-driven LLM teacher assistant f
 - [[access-not-enough-ai-tutoring-2026]]
 - [[adaptive-pretesting-retention]]
 - [[affective-text-wearable-student-health]]
+
 ## Citation
 
 Laurent Brisson, Maria Segarra, Grégory Smits (2026). [A didactical-driven teacher assistant for a dimensional modeling course](https://arxiv.org/abs/2607.22598). arXiv:2607.22598.

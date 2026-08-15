@@ -1,7 +1,7 @@
 ---
 title: Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-15
 type: article
 tags: [llm, scaffolding, k-12, stem-education, teacher-role, generative-ai, instructional-design]
 sources: ['raw/papers/2605.20511.md']
@@ -23,6 +23,9 @@ The focus on teacher agency and modification is critical. Rather than generating
 - [[k-12]]
 - [[instructional-design]]
 - [[tpack]]
+- [[generative-ai]]
+- [[llm]]
+- [[knowledge-graph]]
 ## Connected Articles
 
 - [[ai-tpack-teacher-multi-agent-workflow]]

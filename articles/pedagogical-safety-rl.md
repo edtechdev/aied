@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety in Educational Reinforcement Learning
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, pedagogical-safety, adaptive-learning, reinforcement-learning, adaptive-learning-systems, metacognition, rag, llm]
 sources: ['raw/papers/2604.04237.md']
@@ -59,13 +59,12 @@ This parallels concerns in [[educational-llm-alignment]] where benchmark misalig
 ## Connected Concepts
 
 - [[reinforcement-learning]]
-- [[affective-tutoring]]
-- [[knowledge-tracing]]
-- [[help-seeking]]
+- [[pedagogical-safety]]
+- [[intelligent-tutoring]]
+- [[ai-tutoring]]
+- [[over-reliance]]
+- [[ethics]]
 - [[pedagogical-llm-training]]
-- [[affective-computing]]
-- [[lifelong-learning]]
-- [[socratic-method]]
 
 ## Connected Articles
 

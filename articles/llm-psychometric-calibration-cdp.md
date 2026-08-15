@@ -1,7 +1,7 @@
 ---
 title: "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach"
 created: 2026-07-30
-updated: 2026-07-30
+updated: 2026-08-15
 type: article
 tags: [llm, formative-assessment, adaptive-learning, student-experience, benchmark, higher-ed, knowledge-tracing, personalized-learning, ai-literacy]
 sources: ['raw/papers/2607.26317.md']
@@ -26,6 +26,10 @@ This research connects to the growing body of work on [[ai-literacy]] and [[teac
 - [[higher-ed]]
 - [[ai-literacy]]
 - [[teacher-role]]
+- [[item-response-theory]]
+- [[simulating-students]]
+- [[psychometrically-aware-ai]]
+- [[educational-measurement]]
 ## Connected Articles
 
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty

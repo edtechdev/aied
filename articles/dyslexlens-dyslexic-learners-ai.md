@@ -1,7 +1,7 @@
 ---
 title: "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums"
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-08-15
 type: article
 tags: [special-education, llm, ai-literacy, equity, student-experience, language-learning, k-12, higher-ed]
 sources: ['raw/papers/2606.27619.md']
@@ -24,6 +24,7 @@ By grounding analysis in real user discourse rather than controlled experiments,
 - [[language-learning]]
 - [[k-12]]
 - [[higher-ed]]
+- [[neurodiversity]]
 ## Connected Articles
 
 - [[llm-student-modeling-memory]]

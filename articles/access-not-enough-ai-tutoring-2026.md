@@ -1,7 +1,7 @@
 ---
 title: "Access is Not Enough: Human Support Improves Engagement with AI Tutoring"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, equity, engagement-metrics, k-12, ai-literacy, student-experience, rct, rag]
 sources: ['raw/papers/access-not-enough-ai-tutoring-2026.md']
@@ -36,8 +36,11 @@ confidence: high
 - [[ai-literacy]]
 - [[k-12]]
 - [[student-experience]]
-
-- [[rag]]
+- [[ai-tutoring]]
+- [[rct]]
+- [[student-engagement]]
+- [[equity-in-ai-education]]
+- [[learning-gains]]
 ## Connected Articles
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world

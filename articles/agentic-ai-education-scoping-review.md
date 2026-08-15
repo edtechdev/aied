@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm"
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-08-15
 type: article
 tags: [agentic-ai, ai-literacy, educational-theory, generative-ai, higher-ed, intelligent-tutoring, llm, multi-agent, open-source, scaffolding]
 sources: ['raw/papers/agentic-ai-education-scoping-review-2026.md']
@@ -75,6 +75,10 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 - [[ai-education]]
 - [[open-source]]
 - [[student-experience]]
+- [[meta-analysis-systematic-review]]
+- [[equity-in-ai-education]]
+- [[ai-governance-education]]
+- [[academic-integrity]]
 
 - [[ai-literacy]]
 - [[generative-ai]]

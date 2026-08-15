@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Critical and Creative Thinking: Systematic Review"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, boundary-object, generative-ai, cognitive-offloading, creative-thinking, critical-thinking, higher-ed, instructional-design, metacognition, scaffolding]
 sources: ['raw/papers/chatgpt-critical-creative-thinking-review.md']
@@ -151,6 +151,10 @@ The review's core insight — that ChatGPT's cognitive effects are contingent on
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[scaffolding]]
+- [[critical-thinking]]
+- [[creativity]]
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
 
 ## Connected Articles
 

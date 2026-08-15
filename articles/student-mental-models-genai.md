@@ -1,7 +1,7 @@
 ---
 title: Uncovering Students' Mental Models of Generative Artificial Intelligence
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-15
 type: article
 tags: [student-experience, ai-literacy, generative-ai, metacognition, higher-ed, human-ai-collaboration]
 sources: ['raw/papers/2607.11692.md']
@@ -21,6 +21,9 @@ The work connects to broader debates on [[ai-literacy]] and [[student-experience
 - [[metacognition]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[trust]]
+- [[cognitive-offloading]]
+- [[agency]]
 ## Connected Articles
 
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code

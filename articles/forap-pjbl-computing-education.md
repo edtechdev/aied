@@ -1,7 +1,7 @@
 ---
 title: "Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio"
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-08-15
 type: article
 tags: [project-based-learning, k-12, higher-ed, active-learning, stem-education, scaffolding, teacher-role]
 sources: ['raw/papers/2607.11129.md']
@@ -21,6 +21,9 @@ Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and
 - [[stem-education]]
 - [[scaffolding]]
 - [[teacher-role]]
+- [[project-based-learning]]
+- [[curriculum-design]]
+- [[instructional-design]]
 ## Connected Articles
 
 - [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming

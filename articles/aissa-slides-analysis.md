@@ -1,7 +1,7 @@
 ---
 title: "AISSA: AI-based Student Slides Analysis Tool for Academic Presentations"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-15
 type: article
 tags: [automated-grading, learning-analytics, formative-assessment, higher-ed, llm, human-in-the-loop-ai, slidesqaqa-pedagogical-question-generation]
 sources: ['raw/papers/2605.04729.md']
@@ -28,12 +28,11 @@ Tested with 46 undergraduate students in a real academic setting. Findings: tech
 
 - [[human-in-the-loop-ai]]
 - [[automated-essay-scoring]]
-- [[cs-education]]
-- [[administrator]]
-- [[socratic-method]]
-- [[automated-question-generation]]
 - [[ai-ed-evaluation]]
-- [[affective-computing]]
+- [[formative-assessment]]
+- [[learning-analytics]]
+- [[automated-grading]]
+- [[llm]]
 
 ## Connected Articles
 
