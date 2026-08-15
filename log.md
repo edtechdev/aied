@@ -2005,3 +2005,11 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Source: arXiv cs+education (API OK via execute_code/urllib), physics.ed-ph (API OK), EdArXiv OSF (API DOWN 500/502, used web fallback)
 - Ingested 13 new articles: Structural Silence (underrepresented languages), AI feedback enactment workflow, INSIDE LLM student simulator, ELBench education LLM benchmark, Teaching Monster PCK benchmark, AI tutoring quality K-12 (Khanmigo), CyberAGENTS gamified cybersecurity, HDR brachytherapy agentic simulation, ResidencyRL clinical RL, physics chatbot epistemological beliefs, AI-generated smartphone circular motion lab, GenAI AR physics tools, embodied inquiry AI facilitator
 - Backlinks added to 20 concept pages; build OK (1678 pages); pushed
+
+## [2026-08-15] manual ingest | laidlaw-genai-identity-crisis-faculty-2026
+
+- Source: T&F International Journal for Academic Development, DOI 10.1080/1360144X.2026.2680432, CC-BY open access (PDF sent by Doug)
+- Ingested: Laidlaw (2026) "When faculty ask, 'what's the point of teaching?': GenAI as identity crisis, not skills gap"
+- Added article page; saved raw full text; backlinks added to faculty-development, teacher-role, ai-literacy, teacher-ai-competency
+- Enriched faculty-development concept page with threshold-identity framing (GenAI as identity work)
+- Updated index.md + journal.md

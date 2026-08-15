@@ -17,6 +17,14 @@ confidence: high
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty AI education.
 - **Governance and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
 
+### GenAI as identity work, not just upskilling
+
+A threshold-informed view reframes GenAI integration as an **ontological transformation** for faculty, not a skills gap. Applying threshold concept theory (Meyer & Land), Laidlaw argues that GenAI exhibits all five threshold characteristics — *transformative* (reconstructs assumptions about assessment, pedagogy, and professional role), *troublesome* (violates beliefs about originality, human agency, and effort–achievement), *irreversible*, *integrative* (connects technology, pedagogy, epistemology, and identity), and *bounded* (GenAI fluency becomes a new marker of professional currency).^[[laidlaw-genai-identity-crisis-faculty-2026]]
+
+On this account, faculty asking "what's the point of teaching in a GenAI world?" are not deficient in competence; they are in a **liminal threshold-crossing phase** where anxiety, resistance, and confusion are necessary parts of transformation, not obstacles to eliminate. Skills-based training that answers a competence question faculty are not asking can become peripheral to the real transformation, and well-intended governance can lapse into an "enforcement illusion" — communicating rules rather than supporting change.^[[laidlaw-genai-identity-crisis-faculty-2026]]
+
+**Design implication:** complement (don't replace) skill building with **identity-supporting practices** — open sessions with identity questions rather than technical demos, run ongoing discipline-specific cohorts where faculty explore what GenAI means for their field's purpose, create peer-mentoring structures that honor different transformation timelines, and distinguish fear-based hesitation (which benefits from support) from principled non-adoption grounded in legitimate disciplinary values (which deserves respect).^[[laidlaw-genai-identity-crisis-faculty-2026]]
+
 ### Connections
 
 Faculty development connects to [[teacher-ai-competency]] (the outcome), [[teacher-role]] (how AI changes instructional work), [[ai-literacy]] (faculty must model AI literacy for students), and [[educational-policy-ai]] (institutional policies that enable or constrain development).
@@ -60,3 +68,4 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap

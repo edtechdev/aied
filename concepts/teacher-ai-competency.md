@@ -86,3 +86,4 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[ai-education-global-capacity]] — Global capacity for AI education
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap

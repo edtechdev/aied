@@ -113,3 +113,4 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[genai-higher-education-systematic-review-2026]]
 - [[academic-league-of-ai-2026]]
 - [[probing-ai-generated-physics-solutions-2026]]
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
