@@ -2,11 +2,23 @@
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
 > Browse recent additions by date. ● = high confidence, ◐ = medium, ○ = low.
-> Last updated: 2026-08-15 | Total entries: 497
+> Last updated: 2026-08-15 | Total entries: 500
 
 ---
 
 ## 2026-08-15
+- ● [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — `10.3389/fpsyg.2026.1843444`
+  Towards sustainable AI knowledge-base assistants in computer science education
+  _cs-education, open-source, llm, rag, benchmark +5_
+
+- ● [[alrazeeni-transforming-nursing-education-ai-2026]] — `10.1177/23779608261424597`
+  Transforming Nursing Education with Artificial Intelligence: A Systematic Review (2010–2025)
+  _nursing-education, personalized-learning, simulation, automated-assessment +5_
+
+- ● [[khalifeh-redefining-personalized-learning-ai-2026]] — `10.1186/s40561-026-00440-6`
+  Redefining personalized learning in the artificial intelligence era: an updated systematic review from 2019 to 2025
+  _personalized-learning, adaptive-learning, intelligent-tutoring, llm +5_
+
 - ● [[limitations-in-aied-research]] — `concept`
   Limitations in AIEd Research (concept page)
   _research-methods-aied, ai-education, methodology, reproducibility +8_

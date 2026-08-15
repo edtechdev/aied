@@ -2019,3 +2019,12 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Created concept page: Limitations in AIEd Research (methodological limits, speed problem, reproducibility/FAIR/proprietary, weak theory use)
 - Updated research-methods-aied (cross-ref), ai-education (connected concept), ai-ed-evaluation (cross-ref), cognitive-load-theory (contested-theory note), icap-framework (sequence-misinterpretation note)
 - Updated index.md + journal.md
+
+## [2026-08-15] manual ingest | 3 articles (batch)
+
+- Shen et al. (2026) Frontiers Psych 10.3389/fpsyg.2026.1843444 — on-premise OER AI knowledge-base assistants for CS (open access, PDF)
+- Alrazeeni et al. (2026) SAGE Open Nursing 10.1177/23779608261424597 — AI in nursing education systematic review (CC BY-NC, PDF)
+- Khalifeh et al. (2026) Smart Learning Environments 10.1186/s40561-026-00440-6 — redefining personalized learning systematic review (CC BY, PDF)
+- Backlinks added to open-source, cs-education, benchmark, ai-ed-evaluation, simulation, meta-analysis-systematic-review, personalized-learning, adaptive-learning
+- Enriched personalized-learning (terminological ambiguity section) + ai-ed-evaluation (energy-sustainability dimension)
+- Updated index.md + journal.md

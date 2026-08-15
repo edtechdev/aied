@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [personalized-learning, intelligent-tutoring, adaptive-learning, ai-education, llm, higher-ed, scaffolding, generative-ai, student-experience, k-12]
 confidence: medium
@@ -29,6 +29,10 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - **Longitudinal validity** — Personalization benefits may decay if profiles become stale or overfit
 - **Equity risks** — Over-personalization can strand learners in low-expectation tracks
 
+## Terminological ambiguity
+
+A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that adaptive learning, individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the wiki's [[limitations-in-aied-research|critique of weak construct use]]).
+
 ## Connected Concepts
 
 - [[adaptive-learning]]
@@ -44,6 +48,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[learning-analytics]]
 - [[teacher-role]]
 ## Connected Articles
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 - [[ai-guided-learning-audiovideo-2026]]
 
 - [[a4l-analytics-pipeline]]

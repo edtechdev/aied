@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: 2026-05-29
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 confidence: high
@@ -25,7 +25,7 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 
 ### Why evaluation is hard in AI-ed
 
-AI-ed evaluation is difficult for several reasons. First, **reliability is not enough** — a system can agree with a rubric yet misjudge pedagogy, as [[machines-misread-pedagogical-quality|human–machine alignment research]] shows. Second, **ground truth is contested** — what counts as a "correct" answer, grade, or teaching move is itself a judgment that varies across disciplines and experts, per [[ground-truth-reliability-aied|ground-truth modernization]]. Third, **educational validity is multidimensional** — [[assessment-validity]], [[formative-assessment]], and [[authentic-assessment]] each impose different criteria that a single accuracy metric cannot capture. Finally, **the target keeps moving** — agentic AI and multimodal models demand evaluation frameworks ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|tool-invariant assessment]]) rather than reuse of text-model benchmarks. Evaluation findings are also subject to the same cross-cutting limitations that affect all AIED research — they age as AI improves, depend on reproducibility and FAIR practices, and may rest on proprietary systems — so evaluation results should be read with the caveats in [[limitations-in-aied-research]].
+AI-ed evaluation is difficult for several reasons. First, **reliability is not enough** — a system can agree with a rubric yet misjudge pedagogy, as [[machines-misread-pedagogical-quality|human–machine alignment research]] shows. Second, **ground truth is contested** — what counts as a "correct" answer, grade, or teaching move is itself a judgment that varies across disciplines and experts, per [[ground-truth-reliability-aied|ground-truth modernization]]. Third, **educational validity is multidimensional** — [[assessment-validity]], [[formative-assessment]], and [[authentic-assessment]] each impose different criteria that a single accuracy metric cannot capture. Finally, **the target keeps moving** — agentic AI and multimodal models demand evaluation frameworks ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|tool-invariant assessment]]) rather than reuse of text-model benchmarks. Evaluation findings are also subject to the same cross-cutting limitations that affect all AIED research — they age as AI improves, depend on reproducibility and FAIR practices, and may rest on proprietary systems — so evaluation results should be read with the caveats in [[limitations-in-aied-research]]. A further, emerging dimension is **resource sustainability**: on-premise deployments increasingly report energy consumption and hardware requirements (e.g., VRAM, mWh per query) alongside accuracy — see [[shen-sustainable-ai-knowledge-base-cs-education-2026|sustainable on-premise knowledge-base assistants]] — so that a complete evaluation weighs environmental and infrastructural cost, not just output quality.
 
 ### Connections to related concepts
 
@@ -51,6 +51,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional evaluation
 
 - [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations

@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
 confidence: high
@@ -31,6 +31,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional benchmark
 
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work

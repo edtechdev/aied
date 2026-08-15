@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-15 | **Total pages:** 748
+**Last updated:** 2026-08-15 | **Total pages:** 751
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -123,6 +123,7 @@
 - [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass
 - [[aissa-slides-analysis]] — 'AISSA: AI-based Student Slides Analysis Tool for Academic Presentations'
 - [[algorithmic-bias]] — Algorithmic Bias
+- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming Nursing Education with Artificial Intelligence: A Systematic Review (2010–2025)
 - [[andragogy]] — Andragogy
 - [[antiskillbench-persona-skills-privacy-2026]] — When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills
 - [[anvil-ai-educational-animations]] — 'ANVIL: Analogies and Videos for Lecturers'
@@ -392,6 +393,7 @@
 - [[k-12]] — K 12
 - [[k-12-ai-education]] — K-12 AI Education
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — 'MathBuddy: Affective Math Tutoring'
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining Personalized Learning in the AI Era: An Updated Systematic Review (2019–2025)
 - [[kim-llm-fallacy-misattribution-2026]] — LLM Fallacy Misattribution in Education
 - [[knowledge-distillation-ai-tutor-evaluation]] — Knowledge Distillation for Automated AI Tutor Evaluation
 - [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
@@ -577,6 +579,7 @@
 - [[self-regulated-learning]] — Self-Regulated Learning
 - [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
 - [[shame-guilt-ai-regulation-computing-education]] — \"Stuck in a Spiral\": Shame and Guilt as Social Regulators of AI Use in Computing Education
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Towards Sustainable AI Knowledge-Base Assistants in Computer Science Education
 - [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation
 - [[simulating-learner-task-selection]] — Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
 - [[simulating-students-java-programming-errors-llms]] — Simulating Students' Java Programming Errors with Large Language Models
