@@ -38,9 +38,9 @@ A recurring criticism is that many empirical articles have **limited or outdated
 
 - **Adopt theories uncritically.** Frameworks are borrowed because they are familiar, without fully engaging their assumptions, scope, or evidence base.
 - **Misinterpret frameworks as fixed sequences.** Several widely used frameworks are treated as ordered ladders that learners must climb from a "low" to a "high" stage — but the evidence does not support always starting at the bottom. For example:
-  - **Bloom's taxonomy** is often read as a strict hierarchy (recall → application → evaluation), yet higher-order goals do not require first drilling lower-order ones; tasks can be designed to engage evaluation or creation from the start (see [[cross-dataset-bloom-question-classification]]).
-  - **[[icap-framework|The ICAP framework]]** (passive → active → constructive → interactive) is sometimes taken as a sequence that instruction must begin at the passive end. It is not: research on inductive learning and productive failure shows that posing challenging, constructive or interactive problems up front — without first walking learners through passive exposure — can produce stronger learning.
-  - **ADDIE** and other instructional-design models are sometimes treated as rigid linear phases rather than the iterative, flexible planning heuristics they are meant to be (see [[instructional-design]]).
+    - **Bloom's taxonomy** is often read as a strict hierarchy (recall → application → evaluation), yet higher-order goals do not require first drilling lower-order ones; tasks can be designed to engage evaluation or creation from the start (see [[cross-dataset-bloom-question-classification]]).
+    - **[[icap-framework|The ICAP framework]]** (passive → active → constructive → interactive) is sometimes taken as a sequence that instruction must begin at the passive end. It is not: research on inductive learning and productive failure shows that posing challenging, constructive or interactive problems up front — without first walking learners through passive exposure — can produce stronger learning.
+    - **ADDIE** and other instructional-design models are sometimes treated as rigid linear phases rather than the iterative, flexible planning heuristics they are meant to be (see [[instructional-design]]).
 - **Overlook contested theories.** Some theories used widely in AIED have themselves been challenged. **[[cognitive-load-theory|Cognitive load theory]]**, for example, has been criticized and its empirical claims refuted or disputed in prior studies, yet it continues to be invoked as a settled foundation in new AIED work.
 
 The implication is not that theories and frameworks are useless, but that they should be used with attention to their actual evidence base, their intended scope, and their known criticisms — rather than as self-evident scaffolds or rigid procedural sequences.
@@ -69,8 +69,6 @@ Taken together, these limitations argue for a critical, multi-signal reading of 
 
 ## Connected Articles
 
-- [[research-methods-aied]] — Research methods and their limitations in AIED
-- [[ai-ed-evaluation]] — Evaluating whether AI tools work
 - [[ground-truth-reliability-aied]] — Reliability and validity of ground truth in evaluation
 - [[ai-literacy-assessment-misalignment]] — Self-reported vs. performance-based AI literacy
 - [[machines-misread-pedagogical-quality]] — Why machines misread pedagogical quality
