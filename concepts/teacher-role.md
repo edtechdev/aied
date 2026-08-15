@@ -50,3 +50,4 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[gaide-vibe-coding-k12-teachers]]
 - [[teacher-authored-prompts-student-ai-dialogue]]
 - [[ai-tpack-preservice-math-teachers]]
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
