@@ -1,30 +1,44 @@
 ---
 title: Educational Measurement
 created: 2026-07-28
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
-tags: []
+tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing]
 confidence: medium
 ---
 
-> **Educational measurement** — psychometric theory applied to learning data — runs through the wiki's [[item-response-theory]], [[knowledge-tracing]], and [[assessment-validity]] pages: LLM-era measurement must reconcile classical psychometrics with new AI-generated response streams (psychometrically-aware-ai, [[educational-nlp]]).
+> **Educational measurement** — the psychometric theory and methods for quantifying and validating learning and its constructs — runs through the wiki's [[item-response-theory]], [[knowledge-tracing]], and [[assessment-validity]] pages. The LLM era forces measurement to reconcile classical psychometrics with new AI-generated response streams: automated scoring, AI-predicted difficulty, and multimodal traces must be validated against established measurement principles to preserve reliability and validity.
+
+Educational measurement is the discipline of turning observations about learning — responses, behaviors, scores — into defensible quantitative claims. It encompasses construct definition, item/test design, scaling, reliability, and validity. In AI in education, measurement questions are everywhere: does a benchmark score measure what we think? Is an AI-generated grade reliable and valid? Do AI-predicted item difficulties agree with empirically estimated ones?
+
+### How educational measurement appears in the research
+
+- **AI-predicted difficulty and calibration:** [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] and [[llm-item-difficulty-prediction|item-difficulty prediction]] use LLMs to estimate item difficulty, which must be validated against psychometric estimates (see [[item-response-theory]]).
+- **Psychometric awareness in AI assessment:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[confidence-aware-ai-assessment]]).
+- **Automated scoring and validity:** [[ai-scoring-language-bias-physics|AI scoring and language bias]] and [[multimodal-item-parameter-estimation-2026|multimodal item-parameter estimation]] examine how automated scoring and multimodal data affect measurement quality.
+- **Validity frameworks:** [[assessment-validity]] and [[educational-nlp]] supply the standards and tools for validating LLM-based measurement.
+
+### Connections
+
+Educational measurement is the foundation for [[item-response-theory]], [[assessment-validity]], [[knowledge-tracing]], and [[student-modeling]]. It connects to [[learning-analytics]] (measurement of learning data), [[educational-nlp]] (measuring language), and [[psychometrically-aware-ai]] (AI aligned with measurement theory). Its validity and reliability concerns underpin [[ai-ed-evaluation]] and the [[limitations-in-aied-research|measurement limitations]] of the field.
 
 ## Connected Concepts
 
-- [[generative-ai]]
-- [[socratic-method]]
+- [[item-response-theory]]
+- [[assessment-validity]]
+- [[psychometrically-aware-ai]]
+- [[knowledge-tracing]]
+- [[student-modeling]]
+- [[educational-nlp]]
 - [[learning-analytics]]
-- [[intelligent-tutoring]]
-- [[stem-education]]
-- [[physics-education]]
-- [[equity-in-ai-education]]
-- [[personalized-learning]]
-- [[faculty-development]]
-- [[language-learning]]
-## Connected Articles
-- [[multimodal-item-parameter-estimation-2026]]
+- [[ai-ed-evaluation]]
+- [[confidence-aware-ai-assessment]]
+- [[limitations-in-aied-research]]
 
-- [[ai-scoring-language-bias-physics]]
-- [[genai-architecture-education]]
-- [[hashmi-socratic-physics-chatbot-2025]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
+## Connected Articles
+
+- [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
+- [[llm-item-difficulty-prediction]] — Cognitive evaluation of LLM item-difficulty prediction
+- [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
+- [[ai-scoring-language-bias-physics]] — AI scoring and language bias in physics
+- [[hashmi-socratic-physics-chatbot-2025]] — Socratic physics chatbot

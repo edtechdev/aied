@@ -1,23 +1,42 @@
 ---
 title: AI from the Administrator Perspective
 created: 2026-05-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [administrator, policy-maker, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
 confidence: medium
 ---
 
-> Stub — pending source ingestion. AI adoption, strategy, and governance from the institutional administrator and leadership perspective.
+> **AI from the administrator perspective** — the institutional, leadership, and decision-making view of AI adoption, strategy, and governance in education. Administrators and institutional leaders shape whether and how AI is adopted — through policy, funding, infrastructure, and the strategic framing of AI's role — and must weigh competing concerns about learning, equity, risk, and organizational capacity.
+
+AI adoption in education is not purely a classroom decision; it is also an institutional one. Administrators — provosts, deans, CIOs, and institutional leaders — set the conditions under which faculty and students use AI, balancing pedagogical opportunity against governance, resourcing, and risk.
+
+### How the administrator perspective appears in the research
+
+- **Policy and institutional decision-making:** [[ai-uk-higher-education-policy-2026|UK higher-education AI policy research]] finds that AI integration is accelerating but fragmented, with a gap between high-level policy ambition and institutional implementation — a recurring theme for administrators navigating strategy without clear operational guidance.
+- **Well-being and student experience:** [[ai-campus-wellbeing-tools|AI campus well-being tools]] examine how institutions deploy AI for student support, linking administrator choices to student-experience outcomes.
+- **Governance and regulation:** Administrator decisions interact with [[educational-policy-ai]], [[ai-governance-education]], and [[regulation]] — institutions translate AI capability into acceptable-use frameworks, assessment rules, and data-governance standards (see [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]]).
+
+### Connections
+
+The administrator perspective connects to [[educational-policy-ai]] (policy formation), [[ai-governance-education]] and [[regulation]] (governance), [[edtech-platform]] (procurement and infrastructure), [[learning-analytics]] (institutional data), and [[higher-ed]]. Administrator decisions enable or constrain the [[faculty-development]], [[teacher-role]], and [[ai-literacy]] work covered elsewhere in the wiki.
 
 ## Connected Concepts
 
+- [[educational-policy-ai]]
+- [[ai-governance-education]]
+- [[regulation]]
+- [[higher-ed]]
+- [[edtech-platform]]
+- [[learning-analytics]]
+- [[privacy]]
 - [[llm]]
 - [[generative-ai]]
 - [[student-experience]]
-- [[higher-ed]]
-- [[affective-computing]]
-- [[edtech-platform]]
+
 ## Connected Articles
 
-- [[ai-campus-wellbeing-tools]]
-- [[ai-uk-higher-education-policy-2026]]
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy and institutional decision-making
+- [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
+- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
+- [[institutional-change-framework-ai]] — Institutional change framework for AI

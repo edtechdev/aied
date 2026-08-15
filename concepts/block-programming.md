@@ -1,7 +1,7 @@
 ---
 title: Block-Based Programming
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [block-programming, programming-education, computational-thinking, educational-robotics, k-12]
 confidence: high
