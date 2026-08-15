@@ -1,7 +1,7 @@
 ---
 title: Engagement Metrics
 created: 2026-08-09
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, learning-analytics, engagement-metrics, cs-education]
 confidence: high
@@ -46,6 +46,7 @@ Engagement metrics connect to [[learning-analytics]] and [[educational-measureme
 - [[higher-ed]]
 
 ## Connected Articles
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
 
 - [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
 - [[critical-engagement-code-completion]] — To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion

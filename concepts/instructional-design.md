@@ -59,6 +59,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[accessible-learning]]
 - [[universal-design-for-learning]]
 ## Connected Articles
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
 
 - [[curriculum-as-code-instructional-design-2026]]
 - [[instructional-agents-multi-agent-course-gen]]

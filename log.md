@@ -2028,3 +2028,11 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Backlinks added to open-source, cs-education, benchmark, ai-ed-evaluation, simulation, meta-analysis-systematic-review, personalized-learning, adaptive-learning
 - Enriched personalized-learning (terminological ambiguity section) + ai-ed-evaluation (energy-sustainability dimension)
 - Updated index.md + journal.md
+
+## [2026-08-15] manual ingest | long-ai-higher-ed-engagement-teaching-methods-2026
+
+- Source: Frontiers in Education 10.3389/feduc.2025.1648661, CC-BY open access (PDF sent by Doug)
+- Ingested: Long et al. (2026) systematic review of AI in higher ed, engagement + mediating role of teaching methods; introduces PMAISE model
+- Backlinks added to student-engagement, engagement-metrics, instructional-design
+- Enriched student-engagement concept with "Pedagogy mediates AI's effect on engagement" section (PMAISE)
+- Updated index.md + journal.md
