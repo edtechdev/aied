@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: 2026-08-09
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [ai-education, ai-literacy, ai-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 confidence: high
@@ -33,7 +33,8 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 
 AI transforms both how we assess learners and how we evaluate AI systems themselves:
 
-- **Assessment:** [[assessment|assessment]], [[formative-assessment|formative assessment]], [[automated-assessment|automated assessment]], [[automated-grading|automated grading]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[assessment-validity|assessment validity]], [[confidence-aware-ai-assessment|confidence-aware AI assessment]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[plagiarism-detection|AI plagiarism detection]], and [[academic-integrity|academic integrity]].
+- **Assessment:** [[assessment|assessment]], [[feedback|feedback]], [[feedback-literacy|feedback literacy]], [[ai-feedback-quality|AI feedback quality]], [[feedback-loop|feedback loops]], [[formative-assessment|formative assessment]], [[automated-assessment|automated assessment]], [[automated-grading|automated grading]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[assessment-validity|assessment validity]], [[confidence-aware-ai-assessment|confidence-aware AI assessment]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[plagiarism-detection|AI plagiarism detection]], and [[academic-integrity|academic integrity]].
+- **Feedback as a learning mechanism:** a major strand of AIED treats [[feedback|feedback]] not merely as an assessment by-product but as the central engine of learning. AI reshapes this mechanism in three ways: it generates feedback at unprecedented volume and immediacy ([[ai-feedback-quality|AI feedback quality]], [[feedback-loop|feedback loops]]); it demands new learner capabilities to judge and act on that feedback ([[feedback-literacy|feedback literacy]]); and it increasingly teaches those capabilities rather than just delivering feedback. Research shows well-architected AI feedback can match human feedback, but that its value is gated by the learner's feedback literacy — high literacy converts AI feedback into self-regulated-learning gains, while low literacy yields little or even negative effect. Feedback therefore spans both the provision side (quality, loops) and the uptake side (literacy), and sits alongside [[formative-assessment|formative assessment]], [[peer-review|peer review]], and [[automated-assessment|automated assessment]] as a defining concern of the field.
 - **Evaluation of AI systems:** [[ai-ed-evaluation|AI ed evaluation]], [[benchmark|benchmarks]], [[research-methods-aied|efficacy studies and research methods]], and [[rct|randomized controlled trials]] establish the evidence base for whether AI tools work. Readers should also weigh the [[limitations-in-aied-research|cross-cutting limitations]] of this evidence — its generalizability, measurement validity, reproducibility, and how quickly AI findings date.
 - **AI systems and techniques:** [[generative-ai|generative AI]], [[llm|large language models]], [[rag|retrieval-augmented generation]], [[multimodal|multimodal models]], [[reinforcement-learning|reinforcement learning]], [[educational-nlp|educational NLP]], [[knowledge-graph|knowledge graphs]], and [[simulation|simulation]].
 
@@ -72,6 +73,10 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[research-methods-aied]]
 - [[limitations-in-aied-research]]
 - [[assessment]]
+- [[feedback]]
+- [[feedback-literacy]]
+- [[ai-feedback-quality]]
+- [[feedback-loop]]
 - [[learning-analytics]]
 - [[personalized-learning]]
 - [[adaptive-learning]]

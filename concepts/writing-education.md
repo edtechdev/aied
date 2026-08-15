@@ -49,6 +49,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[peer-review]]
 - [[self-regulated-learning]]
 - [[student-experience]]
+- [[feedback-literacy]]
+- [[feedback]]
 
 ## Connected Articles
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)

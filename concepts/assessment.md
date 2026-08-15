@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: 2026-08-09
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]
 confidence: high
@@ -69,6 +69,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[authentic-assessment]]
 - [[higher-ed]]
 - [[generative-ai]]
+- [[feedback]]
+- [[feedback-literacy]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment in AI Education
 created: 2026-05-07
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [formative-assessment, assessment, automated-assessment, feedback-loop, ai-feedback-quality, learning-analytics, personalized-learning, adaptive-learning, generative-ai, llm, human-in-the-loop-ai, scaffolding, ai-education]
 confidence: high
@@ -88,6 +88,8 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[over-reliance]]
 - [[privacy]]
 - [[ai-education]]
+- [[feedback-literacy]]
+- [[feedback]]
 
 ## Connected Articles
 

@@ -37,6 +37,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[ai-ed-evaluation]]
 - [[educational-measurement]]
 - [[llm]]
+- [[feedback]]
 
 ## Connected Articles
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM-based classroom observation against expert ratings (Melo et al. 2026)

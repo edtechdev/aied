@@ -42,6 +42,8 @@ Feedback loops connect to [[formative-assessment]] (the assessment philosophy th
 - [[metacognition]]
 - [[student-experience]]
 - [[personalized-learning]]
+- [[feedback-literacy]]
+- [[feedback]]
 
 ## Connected Articles
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: curriculum-grounded feedback with educator oversight (Zhao et al. 2025)
