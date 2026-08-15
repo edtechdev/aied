@@ -36,6 +36,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation reliability and accuracy (Melo et al. 2026)
 
 - [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
 - [[llm-item-difficulty-prediction]] — Cognitive evaluation of LLM item-difficulty prediction

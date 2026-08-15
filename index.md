@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-15 | **Total pages:** 752
+**Last updated:** 2026-08-15 | **Total pages:** 753
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -474,6 +474,7 @@
 - [[measuring-llm-tutors-teach-vs-solve]] — 'Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact'
 - [[medeasy-ai-standardized-patients]] — 'MedEasy: Designing AI Standardized Patients for Clinical Consultation Training'
 - [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
+- [[melo-llm-classroom-observation-teach-2026]] — Validating AI-generated classroom observations: reliability, accuracy, and limits of LLM-based pedagogical judgment
 - [[memdora-ai-spaced-repetition]] — Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition
 - [[metacognition]] — Metacognition
 - [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning
