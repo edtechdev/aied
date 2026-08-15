@@ -13,7 +13,6 @@ Research themes include:
 
 ## Connected Concepts
 
-
 - [[higher-ed]]
 - [[accessible-learning]]
 - [[human-in-the-loop-ai]]
@@ -21,9 +20,7 @@ Research themes include:
 - [[rct]]
 - [[active-learning]]
 
-
 ## Connected Articles
-
 
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools

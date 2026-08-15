@@ -53,7 +53,6 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[teacher-role]]
 - [[confidence-aware-ai-assessment]]
 
-
 ## Connected Articles
 
 - [[ai-generated-feedback-higher-ed]] — AI-Generated Feedback in Higher Education

@@ -19,7 +19,6 @@ This study by Tran, Marwan & Price (2026) introduces and evaluates a 45-minute s
 - [[higher-ed]]
 ## Connected Articles
 
-
 - [[bridging-instructional-design-framework-math]]
 - [[llm-misconception-difficulty-easy-trap]]
 - [[bloom-aligned-educational-control-llms]]

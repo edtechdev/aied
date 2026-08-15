@@ -72,8 +72,6 @@ CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation c
 - [[automated-question-generation]]
 ## Connected Articles
 
-
-
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding

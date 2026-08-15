@@ -38,8 +38,6 @@ The findings suggest LLMs can help teachers integrate **culturally relevant comp
 
 ## Connected Articles
 
-
-
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?

@@ -38,8 +38,6 @@ For education, the argument shifts the goal of AI literacy instruction from comp
 
 ## Connected Articles
 
-
-
 - [[possibility-ai-literacy-critical-editorial]] — The (im)possibility of AI literacy
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities

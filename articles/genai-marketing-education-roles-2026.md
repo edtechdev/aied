@@ -25,8 +25,6 @@ Generative Artificial Intelligence (GAI) is increasingly being integrated into m
 - [[professional-training]]
 ## Connected Articles
 
-
-
 - [[ai-interior-design-malaysia-2026]] — Artificial Intelligence as Catalyst and Contested Terrain: Transforming Interior Design Practice, Pedagogy, and Professional Regulation in Malaysia
 - [[talebzadeh-ai-green-education-2026]] — The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers

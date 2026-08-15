@@ -20,7 +20,6 @@ This report summarizes the CHIIR 2026 Workshop on Generative AI and Academic Sea
 - [[self-regulated-learning]]
 ## Connected Articles
 
-
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation

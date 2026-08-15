@@ -23,8 +23,6 @@ Frames AI literacy 'for all' as an [[equity-in-ai-education]] problem rooted in 
 - [[higher-ed]]
 ## Connected Articles
 
-
-
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
 - [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions

@@ -12,7 +12,6 @@ confidence: high
 
 This paper presents a striking longitudinal finding: as AI becomes a routine educational tool, students systematically revalue **human intelligence (HI) over artificial intelligence (AI)**. Drawing on 6 years of classroom poll data (2020–2026) from 471 undergraduate and MSc computer science students, Rekik documents a cognitive shift that progresses through four phases: hype → distrust → trust → dependency.
 
-
 **Four-phase trajectory of student perception:**
 1. **Hype (2020):** Initial excitement slightly favored AI over HI in poll responses
 2. **Distrust:** Emerging skepticism as students encountered AI limitations

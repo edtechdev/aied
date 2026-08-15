@@ -47,6 +47,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[equity-in-ai-education]]
 - [[tpack]]
 ## Connected Articles
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[ai-acceptance-preservice-science-teachers-2026]]
 - [[critical-media-literacy-education-2026]]

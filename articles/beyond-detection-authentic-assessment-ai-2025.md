@@ -1,18 +1,14 @@
 ---
-title: "Beyond Detection: redesigning authentic assessment in an AI-mediated world"
+title: "Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-14
 type: article
 tags: [authentic-assessment, ai-detection, academic-integrity, assessment, generative-ai, higher-ed, self-regulated-learning, metacognition, ai-literacy, assessment-validity]
 sources: ['raw/papers/beyond-detection-authentic-assessment-ai-2025.md']
 confidence: high
 ---
 
-> Detection-led responses face well-documented limits: validity and fairness failures (bias against non-native writers), notable error rates, erosion of trust, and distraction from assessment design. Detection should be a **limited, situational tool — not a strategy of first resort**. The constructive question is not "how do we prevent students from using AI?" but "how do we enable them to use it th
-
-# Beyond Detection: authentic assessment in an AI-mediated world
-
-> Kickbusch, Ashford-Rowe, Kemp, Boreland & Huijser (2025) argue the dominant institutional response to generative AI in assessment — surveillance and AI detection — **misdiagnoses the problem**: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic "design for learning" patterns that position AI as a collaborator rather than a cheating application.
+> **Synthesis:** Kickbusch, Ashford-Rowe, Kemp, Boreland, and Huijser (2025) argue the dominant institutional response to generative AI in assessment — surveillance and AI detection — **misdiagnoses the problem**: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic "design for learning" patterns that position AI as a collaborator rather than a cheating application.
 
 ## The case against detection
 
@@ -47,40 +43,27 @@ Stage-appropriate authenticity: early units get constrained, well-scaffolded tas
 
 ## Connected Concepts
 
-- [[ai-literacy]]
-- [[assessment-validity]]
-- [[metacognition]]
-- [[self-regulated-learning]]
 - [[authentic-assessment]]
+- [[assessment-validity]]
+- [[plagiarism-detection]]
+- [[academic-integrity]]
+- [[assessment]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[ai-literacy]]
+
 ## Connected Articles
 
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
+- [[ai-assessment-scale-reform]] — The AI Assessment Scale and the work of assessment reform
+- [[genai-assessment-governance]] — Governance frameworks for GenAI assessment
+- [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
+- [[tool-invariant-framework-agentic-ai]] — A tool-invariant framework for teaching and assessing computational methods in the age of agentic AI
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
 
 ## Citation
 
-Kickbusch, S., Ashford-Rowe, K., Kemp, A., Boreland, J., & Huijser, H. (2025). Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World. [Education Sciences](https://doi.org/10.3390/educsci15111537), 15(11), 1537. DOI
+Kickbusch, S., Ashford-Rowe, K., Kemp, A., Boreland, J., & Huijser, H. (2025). [*Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World*](https://doi.org/10.3390/educsci15111537). *Education Sciences*, 15(11), 1537. DOI 10.3390/educsci15111537.

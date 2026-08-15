@@ -32,8 +32,6 @@ The findings extend concerns about cognitive offloading and skill decay from cla
 
 ## Connected Articles
 
-
-
 - [[cognitive-commons-ai-expertise-regeneration]] — The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning

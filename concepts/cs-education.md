@@ -38,7 +38,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[ai-tutoring]]
 - [[over-reliance]]
 
-
 ## Connected Articles
 
 - [[code-review-genai-cs1]]

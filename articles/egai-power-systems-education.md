@@ -37,8 +37,6 @@ Argues for engineering-grounded AI (EGAI): AI workflows should follow establishe
 
 ## Connected Articles
 
-
-
 - [[educational-vlm-evaluation]] — Educational VLM Evaluation
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 - [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education

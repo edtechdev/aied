@@ -23,8 +23,6 @@ The work situates team problem-solving assessment within [[cs-education]] and br
 - [[higher-ed]]
 ## Connected Articles
 
-
-
 - [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System

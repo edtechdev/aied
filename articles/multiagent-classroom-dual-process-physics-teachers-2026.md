@@ -12,7 +12,6 @@ confidence: medium
 
 Responding productively to authentic student reasoning is among the most difficult teaching skills to develop, and prospective teachers get few opportunities to practice it. This pilot study created a simulated class of five AI students, each consistently enacting a distinct dual-process theory reasoning hazard. Fifteen graduate students in a physics teacher preparation course diagnosed vignettes before/after interacting with the simulated class, showing significant diagnostic improvement — but their actual questioning during the simulation revealed a gap between knowing DPT vocabulary and applying it in real-time.
 
-
 - Diagnostic scores improved significantly (Wilcoxon p=0.014, r=0.79)
 - During simulation, participants used predominantly uniform guiding questions
 - DPT vocabulary appeared in only 2 of 71 substantive teacher turns during the simulation
@@ -32,7 +31,6 @@ Responding productively to authentic student reasoning is among the most difficu
 
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[socratic-ai-physics-tutor-taxonomy-2026]]
-
 
 ## Citation
 

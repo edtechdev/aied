@@ -14,7 +14,6 @@ Worked examples — step-by-step problem solutions — are a well-established [[
 
 The authors address a critical gap: high-quality, domain-specific datasets with balanced class distributions for automated scoring tasks. Their contribution is both methodological (a rigorous comparison framework) and empirical (which approach works better, and under what conditions).
 
-
 - **Binary classification framing**: Self-explanations scored as correct or incorrect, a practical framing for real-world deployment in [[intelligent-tutoring|intelligent tutoring systems]]
 - **Dataset contribution**: Domain-specific labeled data for programming self-explanations with balanced classes
 - **Method comparison**: LLM-based scoring versus semantic similarity methods, with systematic evaluation

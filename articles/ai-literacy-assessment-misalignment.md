@@ -38,8 +38,6 @@ The low correlation between self-reported and objective-based factors is a stron
 
 ## Connected Articles
 
-
-
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

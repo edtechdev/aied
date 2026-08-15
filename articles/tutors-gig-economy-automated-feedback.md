@@ -19,8 +19,6 @@ Park et al. (2026) explore AI-powered automated feedback for tutors on Ringle, a
 - [[higher-ed]]
 ## Connected Articles
 
-
-
 - [[teaching-feedback-classification-benchmark]] — A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty

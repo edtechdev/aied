@@ -52,7 +52,6 @@ The study demonstrates a practical strategy for turning GenAI into a **scaffold 
 
 ## Connected Articles
 
-
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[multimodal-learning-genai]] — Multimodal Learning with Generative AI
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis

@@ -46,8 +46,6 @@ This study provides some of the strongest causal evidence yet that generative AI
 - [[professional-training]]
 ## Connected Articles
 
-
-
 - [[skill-diversity-worker-resilience]] — Navigating the skill diversity frontier: How skill complexity explains worker resilience
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities

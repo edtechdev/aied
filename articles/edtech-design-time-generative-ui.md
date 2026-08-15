@@ -10,7 +10,6 @@ confidence: medium
 
 > Argues the dominant paradigm of runtime GenUI adaptation in EdTech is insufficient. Proposes design-time card-based GenUI where educational content is encoded as modality-agnostic semantic units and GenAI produces multiple interface representations (interactive, audio, simplified text, low-bandwidth) at design time for instructor verification. Embeds Universal Design for Learning into authoring workflow and eliminates per-learner inference costs.
 
-
 - Proposes design-time (not runtime) generative UI for EdTech to embed UDL principles and eliminate per-learner inference costs.
 
 ## Key Findings
@@ -41,8 +40,6 @@ For [[equity-in-ai-education]] in [[edtech-platform]] design, the proposal impli
 - [[bias-mitigation]]
 
 ## Connected Articles
-
-
 
 - [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes

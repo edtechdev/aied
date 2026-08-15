@@ -32,8 +32,6 @@ The study contributes a transferable blind-verification protocol for evaluating 
 
 ## Connected Articles
 
-
-
 - [[human-llm-collaborative-coding-k12-educator-ai]] — Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

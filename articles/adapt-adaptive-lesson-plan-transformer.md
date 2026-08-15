@@ -27,8 +27,6 @@ AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated In
 
 ## Connected Articles
 
-
-
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026

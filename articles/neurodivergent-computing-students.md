@@ -21,8 +21,6 @@ The findings connect to broader concerns in [[equity-in-ai-education]] and [[equ
 - [[collaborative-learning]]
 ## Connected Articles
 
-
-
 - [[suacode-african-students-motivations]] — Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
 - [[embodied-string-learning-blindness-low-vision-musicians]] — Designing for What Cannot Be Seen: Supporting Embodied String Learning for Musicians with Blindness and Low-Vision

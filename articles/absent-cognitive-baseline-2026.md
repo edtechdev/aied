@@ -10,7 +10,6 @@ confidence: high
 
 > **Synthesis:** This paper proposes the Absent Cognitive Baseline (ACB) as a conceptual framework describing how pervasive generative AI use during secondary schooling may reduce the independent cognitive encounters on which academic self-assessment depends. Drawing on metacognitive theory, self-regulated learning, and epistemic development scholarship, the ACB framework describes a structural gap across three dimensions: inability to locate one's own cognitive boundary, miscalibrated sense of understanding from AI-generated fluency, and erosion of cognitive struggle as a recognizable part of learning. A conceptual model identifies three groups of moderating variables shaping ACB emergence.
 
-
 ## Key Findings
 
 This paper proposes the Absent Cognitive Baseline (ACB) as a conceptual framework describing how pervasive generative AI use during secondary schooling may reduce the independent cognitive encounters on which academic self-assessment depends. Drawing on metacognitive theory, self-regulated learning, and epistemic development scholarship, the ACB framework describes a structural gap across three dimensions: inability to locate one's own cognitive boundary, miscalibrated sense of understanding from AI-generated fluency, and erosion of cognitive struggle as a recognizable part of learning. A conceptual model identifies three groups of moderating variables shaping ACB emergence.

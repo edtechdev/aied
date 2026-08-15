@@ -43,8 +43,6 @@ Expert evaluations compared TeachingCoach with a GPT-4o baseline in a zero-shot 
 - [[tpack]]
 ## Connected Articles
 
-
-
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
 - [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI in Research and Teaching
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers'' practices and perceptions

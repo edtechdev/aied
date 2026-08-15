@@ -20,8 +20,6 @@ Nagai et al. (2026) tackle the practical problem that many real-world educationa
 - [[formative-assessment]]
 ## Connected Articles
 
-
-
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
 - [[llm-item-difficulty-prediction]] — Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence

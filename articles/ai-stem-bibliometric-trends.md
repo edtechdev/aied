@@ -23,8 +23,6 @@ This work connects to core wiki themes: [[stem-education]] [[intelligent-tutorin
 - [[adaptive-learning]]
 ## Connected Articles
 
-
-
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 - [[codify-socratic-programming-tutor]] — Codify: An Intelligent Socratic Tutoring System for Programming Education
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
