@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: 2026-08-09
-updated: 2026-08-10
+updated: 2026-08-15
 type: concept
 tags: [active-learning, instructional-design, student-experience, scaffolding, higher-ed, k-12, ai-education]
 confidence: high
@@ -29,6 +29,7 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - [[over-reliance]]
 - [[collaborative-learning]]
 ## Connected Articles
+- [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
 
 - [[lak2026-hint-button-unproductive-use]]
 - [[efficiency-gain-illusion-ai-overreliance]]

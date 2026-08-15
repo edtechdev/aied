@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering
 created: 2026-07-28
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experience, prompt-engineering]
 confidence: high
@@ -39,6 +39,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[cs-education]]
 - [[higher-ed]]
 ## Connected Articles
+- [[lin-llm-interactive-lesson-generation]] — LLM generation of interactive tutor-training lessons (Lin et al. 2025)
 
 - [[aaai2026-prompting-literacy-k12]]
 - [[ai-adoption-training-public-sector]]

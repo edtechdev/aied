@@ -36,6 +36,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test (Jin et al. 2025)
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation reliability and accuracy (Melo et al. 2026)
 

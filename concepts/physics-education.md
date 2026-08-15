@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: 2026-08-09
-updated: 2026-08-10
+updated: 2026-08-15
 type: concept
 tags: [physics-education, stem-education, ai-tutoring, generative-ai, higher-ed, student-experience, ai-literacy, socratic-method]
 confidence: high
@@ -47,6 +47,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[generative-ai]]
 - [[higher-ed]]
 ## Connected Articles
+- [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
 
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[socratic-ai-physics-tutor-taxonomy-2026]]

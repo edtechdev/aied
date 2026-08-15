@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, ai-tutoring, over-reliance, hallucination-risk, cognitive-offloading]
 confidence: high
@@ -44,6 +44,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[tpack]]
 ## Connected Articles
+- [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom (Ben-Zion et al. 2025)
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]

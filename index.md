@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-15 | **Total pages:** 757
+**Last updated:** 2026-08-15 | **Total pages:** 768
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -79,8 +79,17 @@
 - [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
 - [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
+- [[beck-genai-literacy-economics-hands-on]] — Fostering Generative AI Literacy in Economics: A Hands-on Approach
+- [[benzion-ai-physics-simulations-virtual-lab]] — Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning
+- [[chudziak-ai-math-tutoring-platform]] — AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education
 - [[drawedumath-vlm-struggling-students-2026]] — The Aftermath of DrawEduMath: VLMs Underperform with Struggling Students and Misdiagnose Errors
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
+- [[jin-glat-genai-literacy-assessment]] — GLAT: The Generative AI Literacy Assessment Test
+- [[jost-llm-programming-education-learning-outcomes]] — The Impact of Large Language Models on Programming Education and Student Learning Outcomes
+- [[lin-llm-interactive-lesson-generation]] — Automatic Large Language Models Creation of Interactive Learning Lessons
+- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology
+- [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype. AI myths and the need for a critical approach in higher education
 - [[stanford-evidence-base-ai-k12-2026]] — The Evidence Base on AI in K-12
 - [[ai-learning-assistants-higher-ed-large-scale]] — Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
@@ -681,5 +690,7 @@
 - [[yasir-llm-tutoring-agents-2026]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
 - [[youtube-frames-chatgpt-education]] — How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
+- [[zha-ai-literacy-biology-case-study]] — A Case Study of Integrating AI Literacy Education in a Biology Class
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
+- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop
 - [[zone-of-proximal-development]] — Zone Of Proximal Development

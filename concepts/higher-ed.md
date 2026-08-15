@@ -1,7 +1,7 @@
 ---
 title: AI in Higher Education
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [higher-ed, ai-education, generative-ai, faculty-development, student-experience, academic-integrity]
 confidence: high
@@ -43,6 +43,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[professional-training]]
 
 ## Connected Articles
+- [[rudolph-ai-myths-critical-higher-ed]] — AI myths and the need for a critical approach in higher ed (Rudolph et al. 2025)
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)

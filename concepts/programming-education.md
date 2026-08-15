@@ -1,7 +1,7 @@
 ---
 title: Programming Education
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [programming-education, computational-thinking, cs-education, educational-robotics, k-12, higher-ed, block-programming]
 confidence: high
@@ -36,6 +36,7 @@ Programming education connects to [[educational-robotics]], [[computational-thin
 - [[higher-ed]]
 
 ## Connected Articles
+- [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education learning outcomes (Jošt et al. 2024)
 
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
