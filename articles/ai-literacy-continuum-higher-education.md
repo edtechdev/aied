@@ -1,7 +1,7 @@
 ---
 title: "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, higher-ed, curriculum-design, ethics, instructional-design, personalized-learning, scaffolding, student-experience, mastery-learning, k-12]
 sources: ['raw/papers/2606.00038.md']
@@ -28,6 +28,7 @@ The five stages are explicitly intended as a diagnostic device, not just a descr
 The continuum gives [[curriculum-design]] and [[faculty-development]] a shared vocabulary for sequencing AI literacy instruction, and its alignment with international frameworks supports institutional uptake. The NC State case suggests that movement along the continuum is most visible when experiences are sustained and embedded in disciplines, implying that one-off workshops may shift students from non-engagement toward informed use, while deeper stages require ongoing, context-rich opportunities. The authors' framing of their evidence as observational and practice-based also models appropriate epistemic humility for institutions adopting the framework, and their discussion of equity considerations reminds educators that access and disposition shape where students enter the continuum.
 
 ## Connected Concepts
+- [[reducing-ai-misuse]]
 
 - [[ai-literacy]]
 - [[higher-ed]]

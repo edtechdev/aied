@@ -1,7 +1,7 @@
 ---
 title: "Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions"
 created: 2026-03-05
-updated: 2026-03-05
+updated: 2026-08-15
 type: article
 tags: [ai-education, ai-literacy, ethics, higher-ed, k-12, stem-education, teacher-role, equity]
 sources: ['raw/papers/white-wu-robotics-ai-education-2026.md']
@@ -22,6 +22,7 @@ confidence: high
 This critique of the AIED research landscape connects to broader [[ai-governance-education]] concerns and the [[institutional-change-framework-ai|institutional readiness]] challenges identified in the EPIQ-AI framework. The call for teacher preparation aligns with [[teacher-ai-competency]] and [[faculty-development]] research, while the equity critique echoes findings in [[ai-scoring-language-bias-physics]].
 
 ## Connected Concepts
+- [[educational-robotics]]
 
 - [[ai-education]]
 - [[ai-literacy]]

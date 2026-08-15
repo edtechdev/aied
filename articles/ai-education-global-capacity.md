@@ -1,7 +1,7 @@
 ---
 title: "What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-15
 type: article
 tags: [policy-maker, equity, k-12, teacher-role, ai-literacy, teacher-ai-competency, equity-in-ai-education, faculty-development-genai, regulation]
 sources: ['raw/papers/ai-education-global-capacity.md']
@@ -32,6 +32,8 @@ While AI tools are globally available, the critical variable is local absorption
 - Teacher readiness theme connects to [[faculty-development]] and [[teacher-ai-competency]]
 
 ## Connected Concepts
+- [[educational-policy-ai]]
+- [[ai-governance-education]]
 
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
@@ -41,7 +43,7 @@ While AI tools are globally available, the critical variable is local absorption
 
 - [[k-12]]
 - [[teacher-role]]
-- [[authentic-assessment]] — Authentic Assessment
+
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base

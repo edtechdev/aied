@@ -1,7 +1,7 @@
 ---
 title: Simulating Students' Java Programming Errors with Large Language Models
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-08-15
 type: article
 tags: [llm, stem-education, student-experience, intelligent-tutoring, learning-analytics, efficacy-study]
 sources: ['raw/papers/2606.14113.md']
@@ -24,6 +24,9 @@ The study used the CodeWorkout dataset with 74,000+ unique student Java submissi
 This work extends research on [[llm-student-simulation-misconception-faithfulness|LLM-based student simulation]] and [[llm-student-misconception-identification|student misconception identification]]. It connects to [[programming-its|programming intelligent tutoring systems]] and [[student-modeling|student modeling]] by offering a scalable method for generating training and evaluation data. The findings also inform [[ai-generated-traces-novice-programmers|AI-generated traces from novice programmers]] and research on [[code-review-genai-cs1|code review with generative AI in CS1]].
 
 ## Connected Concepts
+- [[cs-education]]
+- [[programming-education]]
+- [[simulating-students]]
 
 - [[learning-by-teaching]]
 - [[llm]]

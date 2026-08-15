@@ -1,7 +1,7 @@
 ---
 title: "The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-15
 type: article
 tags: [personalized-learning, adaptive-learning, edtech-platform, student-experience, equity, learning-analytics, llm, k-12]
 sources: ['raw/papers/2606.15902.md']
@@ -29,6 +29,9 @@ The paper argues that accessibility belongs in the authoring layer. When interfa
 For [[equity-in-ai-education]] in [[edtech-platform]] design, the proposal implies that generative UI should be judged not only by what it delivers to learners but by where verification happens in the workflow. Putting instructors in the loop at design time supports [[teacher-role]] oversight and aligns adaptive content with UDL principles, while the elimination of per-learner inference costs matters for low-bandwidth and resource-constrained settings. The authors present this as an argument and research agenda rather than an implemented system.
 
 ## Connected Concepts
+- [[generative-ai]]
+- [[rag]]
+- [[assessment-validity]]
 
 - [[affective-computing]]
 - [[knowledge-tracing]]
@@ -38,7 +41,6 @@ For [[equity-in-ai-education]] in [[edtech-platform]] design, the proposal impli
 - [[pedagogical-agent]]
 - [[equity-in-ai-education]]
 - [[bias-mitigation]]
-
 ## Connected Articles
 
 - [[ai-partner-science-epistemic-vigilance]] — AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation

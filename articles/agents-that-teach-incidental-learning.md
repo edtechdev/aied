@@ -1,7 +1,7 @@
 ---
 title: "Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development"
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-08-15
 type: article
 tags: [agentic-ai, cs-education, generative-ai, higher-ed, llm, over-reliance, professional-training, self-regulated-learning, ai-literacy, rag]
 sources: ['raw/papers/2607.06101.md']
@@ -17,6 +17,9 @@ As AI coding agents take over substantial implementation work, developers increa
 - **Vision:** Learning-aware development environments where productivity and learning are complementary rather than competing — a theme echoed in [[self-regulated-learning]] and [[professional-training]].
 
 ## Connected Concepts
+- [[cs-education]]
+- [[programming-education]]
+- [[human-ai-collaboration]]
 
 - [[over-reliance]]
 - [[ai-literacy]]
