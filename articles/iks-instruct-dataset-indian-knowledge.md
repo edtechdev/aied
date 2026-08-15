@@ -1,7 +1,7 @@
 ---
 title: "IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems"
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [llm, personalized-learning, educational-theory, language-learning, open-source]
 sources: ['raw/papers/2607.23322.md']
@@ -28,15 +28,15 @@ IKS-Instruct targets a gap in instruction tuning: existing datasets such as Alpa
 The evaluation shows that a compact, domain-tuned model can approach the IKS-specific quality of a far larger general-purpose model at a fraction of deployment cost, which matters for resource-constrained educational deployments and for [[language-learning]] and [[culturally-relevant-pedagogy]] in multilingual classrooms. The non-monotonic relationship between curation and quality also warns against assuming "more data is always better," reinforcing the value of technique-fidelity-aware evaluation when adapting LLMs to non-Western knowledge traditions.
 
 ## Connected Concepts
+- [[llm]]
+- [[generative-ai]]
+- [[educational-nlp]]
+- [[equity-in-ai-education]]
 
 - [[language-learning]]
 - [[culturally-relevant-pedagogy]]
-- [[adaptive-learning]]
-- [[knowledge-tracing]]
 - [[pedagogical-agent]]
 - [[open-source]]
-- [[affective-computing]]
-- [[reinforcement-learning]]
 
 ## Connected Articles
 

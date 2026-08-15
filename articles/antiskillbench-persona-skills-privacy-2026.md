@@ -1,7 +1,7 @@
 ---
 title: "When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills"
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-15
 type: article
 tags: [privacy, agentic-ai, student-ai-interaction, bias-mitigation, personalized-learning, benchmark, rag]
 sources: ['raw/papers/2608.03700.md']
@@ -17,6 +17,9 @@ Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 be
 Persona skills distill personal interaction histories into portable and executable artifacts for downstream agents. While enabling flexible personalization, this process concentrates fragmented personal signals, amplifies their impact through reuse, and challenges defenses designed for individual records or retrieval-based memory. To systematically investigate the safety of the persona-skill pipeline, we introduce AntiSkillBench, an end-to-end benchmark for evaluating risks and defenses across the persona-skill pipeline.
 
 ## Connected Concepts
+- [[benchmark]]
+- [[trust]]
+- [[generative-ai]]
 
 - [[privacy]]
 - [[agentic-ai]]

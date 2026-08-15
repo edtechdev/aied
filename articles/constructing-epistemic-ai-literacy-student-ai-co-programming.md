@@ -1,7 +1,7 @@
 ---
 title: "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming"
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, cs-education, student-ai-interaction, scaffolding, higher-ed, automated-grading, llm, learning-analytics, formative-assessment]
 sources: ['raw/papers/2607.00211.md']
@@ -30,6 +30,10 @@ The study operationalizes epistemic constructs that are normally hard to observe
 The finding that most student-GenAI interactions exhibit weak epistemic engagement — outsourcing and verification-seeking rather than mastery-oriented aims with justification — suggests that mere access to AI tools does not produce learning-oriented use. For [[scaffolding]] design in programming education, the work points to interventions that prompt students to construct questions, evaluate AI outputs, and justify their integration decisions, supporting the development of [[metacognition]] and [[self-regulated-learning]] alongside technical skill. The EAIL framework also connects AI literacy to epistemic practice in [[cs-education]]: curricula should cultivate the processes by which learners decide what to trust and why, rather than only measuring whether tasks are completed.
 
 ## Connected Concepts
+- [[critical-thinking]]
+- [[programming-education]]
+- [[generative-ai]]
+- [[human-ai-collaboration]]
 
 - [[ai-literacy]]
 - [[student-experience]]

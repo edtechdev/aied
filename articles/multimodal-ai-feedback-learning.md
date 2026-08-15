@@ -1,7 +1,7 @@
 ---
 title: LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-15
 type: article
 tags: [multimodal, feedback-loop, generative-ai, llm, student-experience, learning-analytics, automated-grading, human-in-the-loop-ai, formative-assessment, rag]
 sources: ['raw/papers/2601.15280.md']
@@ -74,16 +74,16 @@ This is a strong result for AI feedback systems:
 - Can multimodal AI feedback reduce the negative behavioral pathway identified in sequenced feedback studies (fewer resubmissions)?
 
 ## Connected Concepts
+- [[feedback-loop]]
+- [[multimodal]]
+- [[formative-assessment]]
+- [[automated-assessment]]
 
 - [[ai-feedback-quality]]
-- [[administrator]]
 - [[socratic-method]]
-- [[automated-question-generation]]
 - [[affective-computing]]
 - [[metacognition]]
 - [[self-regulated-learning]]
-- [[socratic-method]]
-
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems

@@ -1,7 +1,7 @@
 ---
 title: "Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-08-15
 type: article
 tags: [generative-ai, efficacy-study, teacher-role, higher-ed, policy-maker, persistent-ai-agents-academic-research]
 sources: ['raw/papers/2605.24688.md']
@@ -27,6 +27,9 @@ The incentives factor connects to concerns in [[academic-integrity]] — if stud
 For [[higher-ed]] institutions investing in AI infrastructure, this paper serves as a cautionary reminder that deployment without attention to training, incentives, and organizational readiness may fall short of promised gains — a finding consistent with [[ai-fatigue-academic-contexts|research on AI fatigue]] among students.
 
 ## Connected Concepts
+- [[human-ai-collaboration]]
+- [[professional-training]]
+- [[generative-ai]]
 
 - [[teacher-role]]
 - [[academic-integrity]]

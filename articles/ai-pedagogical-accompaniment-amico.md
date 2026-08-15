@@ -1,7 +1,7 @@
 ---
 title: "Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China"
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, scaffolding, human-in-the-loop, pedagogical-safety, ai-literacy, student-experience, teacher-role, k-12]
 sources: ['raw/papers/2605.20665.md']
@@ -15,6 +15,9 @@ The dual-mode design — AmicoMio for structured, task-oriented interaction and 
 The cross-context pilot in Italy and China provides initial evidence of feasibility in vocational education, an underserved domain in the [[stanford-evidence-base-ai-k12-2026]]. The framework's emphasis on AI as a "relational bridge" to human interaction — not a replacement — addresses concerns raised in [[ai-tutor-safety-harms]] about dependency and [[over-reliance]]. The principle of data minimization further connects to [[privacy]] and [[equity-in-ai-education]] discussions in educational AI deployment. For [[faculty-development]], the observable indicators offer concrete assessment tools for evaluating AI integration quality.
 
 ## Connected Concepts
+- [[human-in-the-loop-ai]]
+- [[agentic-ai]]
+- [[pedagogical-agent]]
 
 - [[intelligent-tutoring]]
 - [[scaffolding]]

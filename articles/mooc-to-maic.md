@@ -1,7 +1,7 @@
 ---
 title: "From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents"
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-15
 type: article
 tags: [llm, agentic-ai, multi-agent, mooc, online-education, personalized-learning, intelligent-tutoring, course-design, rag, generative-ai]
 sources: ['raw/papers/2409.03512.md']
@@ -43,6 +43,10 @@ MAIC deploys a suite of specialized AI agents:
 MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agentic-ai]] in education. It demonstrates how LLM-driven multi-agent systems can transform the MOOC paradigm from one-size-fits-all broadcasting to truly adaptive, personalized [[intelligent-tutoring]] at scale. The platform vision extends toward an open collaborative hub for AI-driven education research.
 
 ## Connected Concepts
+- [[llm]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[pedagogical-agent]]
 
 - [[agentic-ai]]
 - [[generative-ai]]

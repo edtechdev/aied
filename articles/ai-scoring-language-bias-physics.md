@@ -1,7 +1,7 @@
 ---
 title: AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-15
 type: article
 tags: [assessment-validity, automated-grading, bias-mitigation, equity, multilingual-learning, physics-education, equity-in-ai-education, educational-measurement, algorithmic-bias, automated-assessment]
 sources: ['raw/papers/2607.28210.md']
