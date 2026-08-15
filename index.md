@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-15 | **Total pages:** 768
+**Last updated:** 2026-08-15 | **Total pages:** 767
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -406,7 +406,6 @@
 - [[k-12-ai-education]] — K-12 AI Education
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — 'MathBuddy: Affective Math Tutoring'
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining Personalized Learning in the AI Era: An Updated Systematic Review (2019–2025)
-- [[kim-llm-fallacy-misattribution-2026]] — LLM Fallacy Misattribution in Education
 - [[knowledge-distillation-ai-tutor-evaluation]] — Knowledge Distillation for Automated AI Tutor Evaluation
 - [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
 - [[knowledge-graph]] — Knowledge Graph

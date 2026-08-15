@@ -55,6 +55,5 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education
 - [[contextual-sycophancy-ai-literacy]] — Contextual Sycophancy and AI Literacy
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI in Social Interaction
-- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution
-- [[kim-llm-fallacy-misattribution-2026]] — LLM Fallacy Misattribution (Kim et al.)
+- [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
