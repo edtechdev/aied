@@ -1,7 +1,7 @@
 ---
 title: Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [automated-grading, llm, stem-education, higher-ed, efficacy-study, multimodal, automated-question-generation, llm-cognitive-diagnosis-handwritten-math, ai-tutoring, formative-assessment]
 sources: ['raw/papers/2605.19043.md']
@@ -15,12 +15,19 @@ This paper presents an empirical evaluation of a vision-capable LLM-based grader
 ## Connected Concepts
 
 - [[automated-grading]]
+- [[math-education]]
+- [[multimodal]]
+- [[educational-measurement]]
+- [[item-response-theory]]
+- [[assessment-validity]]
+- [[cognitive-diagnosis]]
 ## Connected Articles
 
 - [[lata-ferpa-compliant-local-llm-autograder]]
 - [[llm-tutoring-feedback-diagnosis-gap]]
 - [[multimodal-ai-tutoring]]
 - [[educational-vlm-evaluation]]
+- [[llm-cognitive-diagnosis-handwritten-math]]
 ## Citation
 
 Jacob Levine, Miguel Aenlle, Craig Zilles, Matthew West, Mariana Silva (2026). [Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs](https://arxiv.org/abs/2605.19043). arXiv:2605.19043. International Conference on AI in Education (AIED 2026).

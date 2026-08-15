@@ -1,7 +1,7 @@
 ---
 title: "Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence"
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [generative-ai, feedback-loop, student-experience, higher-ed, ai-literacy, language-learning, over-reliance, metacognition, scaffolding, regulation]
 sources: ['raw/papers/tandf-2026-chatgpt-feedback-engagement.md']
@@ -46,9 +46,18 @@ A qualitative study of **16 undergraduates** at a Hong Kong teacher-education un
 ## Connected Concepts
 
 - [[over-reliance]]
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[formative-assessment]]
+- [[ai-literacy]]
+- [[metacognition]]
+- [[academic-integrity]]
+- [[prompt-engineering]]
+- [[self-regulated-learning]]
 ## Connected Articles
 
 - [[genai-teacher-feedback-comparison]]
+- [[ai-internal-feedback-evaluative-judgments]]
 ## Citation
 
 Zhan, Y., & Yan, Z. (2026). Students' engagement with ChatGPT feedback: Implications for student feedback literacy in the context of generative artificial intelligence. [*Assessment & Evaluation in Higher Education*](https://doi.org/10.1080/02602938.2025.2471821), 51(5), 821–834

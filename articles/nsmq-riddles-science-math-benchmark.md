@@ -1,7 +1,7 @@
 ---
 title: "NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models"
 created: 2026-05-08
-updated: 2026-05-11
+updated: 2026-08-15
 type: article
 tags: [benchmark, stem-education, k-12, llm, efficacy-study, pedagogical-llm-training, k-12-ai-education, automated-question-generation, ai-education]
 sources: ['raw/papers/2605.07051.md']
@@ -42,6 +42,12 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 
 - [[automated-question-generation]]
 - [[pedagogical-llm-training]]
+- [[benchmark]]
+- [[stem-education]]
+- [[k-12]]
+- [[equity-in-ai-education]]
+- [[culturally-relevant-pedagogy]]
+- [[ai-ed-evaluation]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]
@@ -49,6 +55,7 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 - [[educational-vlm-evaluation]]
 - [[civic-education-ai-lesson-plans]]
 - [[tutoring-specific-vs-general-ai]]
+- [[elbench-education-llm-benchmark-2026]]
 ## Citation
 
 al, A.G.B.N.I.S.J.E., and, N.R.A.B.O.S., Large, M.R.F.Q., Models, L., Yeboah3,4, P.A.J.A.M.K.T., and, W.E.A.K.M.N.S.Y., Kumbol2,3, V., & Zurich, E. (2026). [*NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models*](https://arxiv.org/abs/2605.07051)

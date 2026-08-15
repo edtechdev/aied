@@ -1,7 +1,7 @@
 ---
 title: Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 created: 2026-05-13
-updated: 2026-05-13
+updated: 2026-08-15
 type: article
 tags: [knowledge-tracing, learning-analytics, personalized-learning, intelligent-tutoring, student-experience]
 sources: ['raw/papers/2605.05958.md']
@@ -29,6 +29,12 @@ Selection bias is not a niche concern: any adaptive system that recommends exerc
 ## Connected Concepts
 
 - [[personalized-learning]]
+- [[knowledge-tracing]]
+- [[student-modeling]]
+- [[bias-mitigation]]
+- [[adaptive-learning]]
+- [[educational-measurement]]
+- [[item-response-theory]]
 ## Connected Articles
 
 - [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
@@ -37,6 +43,8 @@ Selection bias is not a niche concern: any adaptive system that recommends exerc
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
 - [[student-math-competence-clustering]] — Archetypes or ability? Clustering for modelling student mathematical competence
 - [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
+- [[reliable-programming-kt]]
+- [[knowledge-tracing-irt]]
 
 ## Citation
 

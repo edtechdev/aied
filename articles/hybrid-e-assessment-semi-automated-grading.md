@@ -1,7 +1,7 @@
 ---
 title: "Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-15
 type: article
 tags: [automated-grading, assessment, higher-ed, generative-ai, formative-assessment, llm, student-experience, ai-literacy, scaffolding, stem-education]
 confidence: high
@@ -14,6 +14,12 @@ This paper identifies the didactic narrowing caused by fully digital e-assessmen
 
 - [[automated-grading]]
 - [[formative-assessment]]
+- [[assessment-validity]]
+- [[educational-measurement]]
+- [[higher-ed]]
+- [[multimodal]]
+- [[human-in-the-loop-ai]]
+- [[authentic-assessment]]
 ## Connected Articles
 
 - [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
@@ -22,6 +28,7 @@ This paper identifies the didactic narrowing caused by fully digital e-assessmen
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
 - [[automated-formative-assessments-a-level-sciences]] — The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[llm-handwritten-math-grading]]
 
 ## Citation
 

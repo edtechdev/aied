@@ -1,7 +1,7 @@
 ---
 title: Programming Intelligent Tutoring Systems
 created: 2026-05-08
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, stem-education, higher-ed, adaptive-learning, formative-assessment, student-misconceptions-conditionals-loops-taxonomy, adaptive-learning-systems, rag, llm]
 sources: ['raw/papers/2604.16117.md']
@@ -56,10 +56,17 @@ SCRIPT's contribution: **Python-specific** tutoring with German-language context
 ## Connected Concepts
 
 - [[formative-assessment]]
+- [[intelligent-tutoring]]
+- [[programming-education]]
+- [[scaffolding]]
+- [[adaptive-learning]]
+- [[cs-education]]
+- [[student-modeling]]
 ## Connected Articles
 
 - [[collaborative-ai-tutoring]]
 - [[agentic-workflows-education]]
+- [[socraticode-k12-programming-tutor]]
 ## Citation
 
 Paassen, A.A.D.J.D.B. (2026). [*Programming Intelligent Tutoring Systems*](https://arxiv.org/abs/2604.16117)

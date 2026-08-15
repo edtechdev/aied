@@ -1,7 +1,7 @@
 ---
 title: AI Tutor Safety and Pedagogical Harms
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-15
 type: article
 tags: [pedagogical-safety, intelligent-tutoring, adaptive-learning, k-12, higher-ed, llm, bias-mitigation, pedagogical-llm-training, self-regulated-learning, faculty-development-genai]
 sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
@@ -68,11 +68,19 @@ Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[transfer-of-learning]]
+- [[pedagogical-safety]]
+- [[ai-tutoring]]
+- [[cognitive-offloading]]
+- [[over-reliance]]
+- [[trust]]
+- [[hallucination-risk]]
+- [[bias-mitigation]]
 ## Connected Articles
 
 - [[hazra-safetutors-pedagogical-safety-2026]]
 - [[tutoring-specific-vs-general-ai]]
 - [[llm-fallacy-misattribution]]
+- [[pedagogical-safety-rl]]
 ## Citation
 
 Hazra, R., Ghuku, B., Marchenko, I., Tokarieva, Y., Layek, S., Banerjee, S., Stoyanovich, J., & Pechenizkiy, M. (2026). [*SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems*](https://arxiv.org/abs/2603.17373). arXiv:2603.17373.

@@ -1,7 +1,7 @@
 ---
 title: "MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing"
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-08-15
 type: article
 tags: [feedback-loop, higher-ed, human-in-the-loop, llm, writing-education, human-in-the-loop-ai]
 sources: ['raw/papers/2605.23535.md']
@@ -17,11 +17,18 @@ For [[writing-education]], this represents a paradigm shift. Traditional automat
 - [[writing-education]]
 - [[human-in-the-loop-ai]]
 - [[llm]]
+- [[human-ai-collaboration]]
+- [[ai-feedback-quality]]
+- [[feedback-loop]]
+- [[automated-assessment]]
+- [[academic-integrity]]
+- [[agency]]
 ## Connected Articles
 
 - [[cyberscholar-genai-writing-feedback]]
 - [[structured-llm-feedback-programming]]
 - [[ai-peer-feedback-systems]]
+- [[humanlike-ai-collaborative-writing]]
 ## Citation
 
-Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026). [MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing](https://arxiv.org/abs/2605.23535). arXiv:2605.23535. IJCAI 2026. - [[humanlike-ai-collaborative-writing]] — Anthropomorphic design choices amplify both benefits and costs of AI co-writing
+Youqing Fang, Yinhao Tang, Yanan Sun, Jiangning Liu, Ziyi Wang, Xun Zhao, Bin Liu, Weiming Zhang, Kuikun Liu, Wenwei Zhang, Kai Chen (2026). [MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Writing](https://arxiv.org/abs/2605.23535). arXiv:2605.23535. IJCAI 2026.

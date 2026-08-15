@@ -1,7 +1,7 @@
 ---
 title: What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, policy-maker, formative-assessment, llm, assessment-validity, rag]
 sources: ['raw/papers/2607.19988.md']
@@ -14,12 +14,20 @@ Generative AI undermines a basic premise of educational assessment: that submitt
 
 - [[assessment-validity]]
 - [[academic-integrity]]
+- [[generative-ai]]
+- [[governance]]
+- [[ai-governance-education]]
+- [[cognitive-offloading]]
+- [[trust]]
+- [[authentic-assessment]]
+- [[ethics]]
 ## Connected Articles
 
 - [[genai-assessment-governance]]
 - [[genai-policies-higher-ed-computing]]
 - [[ai-assessment-scale-reform]]
 - [[universities-ai-era-rethinking]]
+- [[genai-declaration-frameworks-higher-education]]
 ## Citation
 
 Yao, K. (2026). [What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education](https://arxiv.org/abs/2607.19988). arXiv:2607.19988. arXiv preprint (cs.CY).
