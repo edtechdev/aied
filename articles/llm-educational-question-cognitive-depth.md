@@ -1,7 +1,7 @@
 ---
 title: "From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions"
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, automated-grading, assessment, writing-education, ai-literacy-assessment-misalignment, agentic-ai-ecosystems-higher-education, higher-ed, agentic-ai]
 sources: ['raw/papers/2606.18257.md']
@@ -24,6 +24,12 @@ From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated E
 - [[cs-education]]
 - [[plagiarism-detection]]
 - [[open-source]]
+- [[assessment]]
+- [[generative-ai]]
+- [[cognitive-diagnosis]]
+- [[critical-thinking]]
+- [[cognitive-load-theory]]
+- [[ai-literacy]]
 
 ## Connected Articles
 
@@ -33,6 +39,7 @@ From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated E
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
 - [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
+- [[cross-dataset-bloom-question-classification]]
 
 ## Citation
 

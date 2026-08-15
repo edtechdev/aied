@@ -1,7 +1,7 @@
 ---
 title: "Prober.ai: Gated Inquiry-Based Feedback via LLM-Constrained Personas for Argumentative Writing"
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-08-15
 type: article
 tags: [writing-education, scaffolding, ai-literacy, higher-ed, formative-assessment, metacognition, socratic-method, llm, ai-tutoring]
 sources: ['raw/papers/2605.05598.md']
@@ -29,6 +29,13 @@ Conventional AI writing tools that generate or rewrite text risk creating cognit
 
 - [[metacognition]]
 - [[socratic-method]]
+- [[writing-education]]
+- [[scaffolding]]
+- [[formative-assessment]]
+- [[ai-feedback-quality]]
+- [[llm]]
+- [[ai-tutoring]]
+- [[critical-thinking]]
 ## Connected Articles
 
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking
@@ -37,6 +44,8 @@ Conventional AI writing tools that generate or rewrite text risk creating cognit
 - [[moodle-ai-tutoring-deep-learning]] — From Surface Learning to Deep Understanding: A Grounded AI Tutoring System for Moodle
 - [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
+- [[ai-feedback-critical-thinking-writing-2026]]
+- [[cyberscholar-genai-writing-feedback]]
 
 ## Citation
 

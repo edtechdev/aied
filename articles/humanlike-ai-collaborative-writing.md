@@ -1,7 +1,7 @@
 ---
 title: 'It Felt a Bit Eerie": Exploring Humanlike Interactions During Collaborative Writing with an Artificial Agent'
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-08-15
 type: article
 tags: [generative-ai, writing-education, student-experience, llm, higher-ed]
 sources: ['raw/papers/2605.24729.md']
@@ -28,11 +28,17 @@ The study also connects to [[socially-fluent-ai-identity-detection|research on A
 
 - [[writing-education]]
 - [[generative-ai]]
+- [[human-ai-collaboration]]
+- [[ai-literacy]]
+- [[trust]]
+- [[agency]]
+- [[human-in-the-loop-ai]]
 ## Connected Articles
 
 - [[ai-peer-feedback-systems]]
 - [[mindcopilot-llm-co-writing]]
 - [[socially-fluent-ai-identity-detection]]
+- [[agency-gap-ai-writing]]
 ## Citation
 
 Yin, M., Chiang, A., Cox, S. R., & Xiao, R. (2026). ["It felt a bit eerie": Exploring humanlike interactions during collaborative writing with an artificial agent](https://arxiv.org/abs/2605.24729). arXiv:2605.24729. cs.HC.

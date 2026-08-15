@@ -1,7 +1,7 @@
 ---
 title: The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-15
 type: article
 tags: [assessment, automated-grading, k-12, stem-education, hybrid-e-assessment-semi-automated-grading, formative-assessment, llm]
 sources: ['raw/papers/2607.23566.md']
@@ -14,11 +14,18 @@ This quasi-experimental mixed-methods longitudinal study (N=142) deploys a fully
 
 - [[formative-assessment]]
 - [[automated-grading]]
+- [[k-12]]
+- [[stem-education]]
+- [[assessment-validity]]
+- [[educational-measurement]]
+- [[ai-ed-evaluation]]
+- [[learning-gains]]
 ## Connected Articles
 
 - [[llm-handwritten-math-grading]]
 - [[automatic-short-answer-grading]]
 - [[hybrid-e-assessment-semi-automated-grading]]
+- [[short-answer-scoring-quality-degradation]]
 ## Citation
 
 Matey Yordanov, Mikhail Bychkov, Andrei Kuchma (2026). [The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences](https://arxiv.org/abs/2607.23566). arXiv:2607.23566.

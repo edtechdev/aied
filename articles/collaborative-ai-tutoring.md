@@ -1,7 +1,7 @@
 ---
 title: Collaborative AI Tutoring
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formative-assessment, learning-analytics, zone-of-proximal-development, affective-tutoring, adaptive-learning-systems, metacognition]
 sources: ['raw/papers/golrang-propact-pair-programming-2026.md']
@@ -68,10 +68,19 @@ ProPACT exemplifies [[tutoring-specific-vs-general-ai|tutoring-specific design]]
 
 - [[zone-of-proximal-development]]
 - [[metacognition]]
+- [[collaborative-learning]]
+- [[ai-tutoring]]
+- [[scaffolding]]
+- [[pedagogical-agent]]
+- [[student-modeling]]
+- [[feedback-loop]]
+- [[cognitive-load-theory]]
+- [[multimodal]]
 ## Connected Articles
 
 - [[golrang-propact-pair-programming-2026]]
 - [[tutoring-specific-vs-general-ai]]
+- [[ai-collaborative-learning-systematic-review]]
 ## Citation
 
 Golrang, A., Sharma, K., Dehaen, S., & Viberg, O. (2026). [*ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming*](https://arxiv.org/abs/2605.02703). arXiv:2605.02703.

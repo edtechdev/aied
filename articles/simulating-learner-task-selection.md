@@ -1,7 +1,7 @@
 ---
 title: Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, mastery-learning, adaptive-learning, engagement-metrics, simulation, k-12, student-experience, adaptive-learning-systems, llm, knowledge-tracing]
 sources: ['raw/papers/2605.21613.md']
@@ -15,12 +15,20 @@ This paper introduces a simulation-based framework for evaluating how learner ta
 ## Connected Concepts
 
 - [[adaptive-learning]]
+- [[simulation]]
+- [[intelligent-tutoring]]
+- [[student-modeling]]
+- [[knowledge-tracing]]
+- [[engagement-metrics]]
+- [[simulating-students]]
 ## Connected Articles
 
 - [[engagement-forecasting-its]]
 - [[neural-symbolic-knowledge-tracing]]
 - [[genai-tutor-engagement-patterns]]
 - [[llm-student-modeling-memory]]
+- [[simulating-students-llm-review-2026]]
+- [[valid-student-simulation-llm-2026]]
 ## Citation
 
 Haley Noh, Aarna Chowdhary, Jeroen Ooge, Vincent Aleven, Conrad Borchers (2026). [Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning](https://arxiv.org/abs/2605.21613). arXiv:2605.21613. EDM 2026 (short paper).

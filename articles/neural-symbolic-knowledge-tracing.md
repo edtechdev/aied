@@ -1,7 +1,7 @@
 ---
 title: Neural-Symbolic Knowledge Tracing
 created: 2026-05-08
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, learning-analytics, adaptive-learning, pedagogical-safety, mastery-learning, pedagogical-llm-training, student-experience, adaptive-learning-systems, rag]
 sources: ['raw/papers/2604.08263.md']
@@ -99,12 +99,21 @@ This contrasts with opaque LLM-based approaches in [[pedagogical-llm-training|tu
 
 - [[student-experience]]
 - [[pedagogical-llm-training]]
+- [[knowledge-tracing]]
+- [[student-modeling]]
+- [[item-response-theory]]
+- [[adaptive-learning]]
+- [[intelligent-tutoring]]
+- [[educational-measurement]]
 ## Connected Articles
 
 - [[knowledge-tracing-irt]]
 - [[ai-tutor-safety-harms]]
 - [[principled-ai-education]]
 - [[llm-student-modeling-memory]]
+- [[stanbkt-bayesian-knowledge-tracing]]
+- [[explainable-probabilistic-kt]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
 Hooshyar, D., Šír, G., Yang, Y., Kärkkäinen, T., Hämäläinen, R., Krivich, E., Cukurova, M., Gašević, D., & Azevedo, R. (2026). [*Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling*](https://arxiv.org/abs/2604.08263). arXiv:2604.08263.

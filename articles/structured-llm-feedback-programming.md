@@ -1,7 +1,7 @@
 ---
 title: The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, feedback-loop, higher-ed, scaffolding, efficacy-study, stem-education, socratic-questioning, desirable-difficulties, rag]
 sources: ['raw/papers/2605.16933.md']
@@ -18,12 +18,19 @@ This study provides empirical evidence on how LLM-generated feedback structure a
 
 - [[socratic-method]]
 - [[desirable-difficulties]]
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[automated-assessment]]
+- [[programming-education]]
+- [[scaffolding]]
+- [[formative-assessment]]
 ## Connected Articles
 
 - [[codify-socratic-tutoring-programming]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[knowledge-tracing-irt]]
 - [[programming-its]]
+- [[llm-feedback-programming-classroom]]
 ## Citation
 
 Mihaylova, T., Logacheva, E., Hellas, A., Fan, J., Castro, F., Akram, B., Norouzi, N., Brusilovsky, P., & Leinonen, J. (2026). [The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance](https://arxiv.org/abs/2605.16933).

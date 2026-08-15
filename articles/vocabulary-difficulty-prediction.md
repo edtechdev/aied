@@ -1,7 +1,7 @@
 ---
 title: What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-08-15
 type: article
 tags: [language-learning, llm, generative-ai, benchmark, scaffolding, formative-assessment, writing-education, rag, open-source, k-12]
 sources: ['raw/papers/2605.14257.md']
@@ -47,11 +47,18 @@ BEA (Building Educational Applications) is the premier venue for NLP-for-educati
 ## Connected Concepts
 
 - [[formative-assessment]]
+- [[language-learning]]
+- [[educational-nlp]]
+- [[benchmark]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[scaffolding]]
 ## Connected Articles
 
 - [[llm-children-reading-story-generation]]
 - [[self-referential-l2-writing-llm-assessment]]
 - [[cyberscholar-genai-writing-feedback]]
+- [[llm-item-difficulty-prediction]]
 ## Citation
 
 Nohejl, A., Wu, X., Ide, Y., Riera Machin, M. A., Chang, Y.-N., & Yanaka, H. (2026). [What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction.](https://arxiv.org/abs/2605.14257) arXiv:2605.14257. BEA 2026.

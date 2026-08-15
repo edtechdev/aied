@@ -1,7 +1,7 @@
 ---
 title: Tutoring-Specific vs. General-Purpose AI in Education
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, personalized-learning, scaffolding, adaptive-learning, pedagogical-llm-training, self-regulated-learning, zone-of-proximal-development, metacognition]
 sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
@@ -59,9 +59,18 @@ confidence: medium
 
 - [[cognitive-load-theory]]
 - [[zone-of-proximal-development]]
+- [[ai-tutoring]]
+- [[scaffolding]]
+- [[pedagogical-agent]]
+- [[self-regulated-learning]]
+- [[transfer-of-learning]]
+- [[desirable-difficulties]]
+- [[cognitive-offloading]]
+- [[generative-ai]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]
+- [[ai-tutor-effectiveness-review]]
 ## Citation
 
 Stanford SCALE Initiative. (2026). [*The Evidence Base on AI in K-12: A 2026 Review*](https://scale.stanford.edu/sites/default/files/The%20Evidence%20Base%20on%20AI%20in%20K-12%20Report.pdf).

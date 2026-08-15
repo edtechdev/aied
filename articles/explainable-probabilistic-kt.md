@@ -1,7 +1,7 @@
 ---
 title: Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
 created: 2026-05-13
-updated: 2026-05-22
+updated: 2026-08-15
 type: article
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, student-experience]
 sources: ['raw/papers/2605.09369.md']
@@ -31,9 +31,18 @@ For [[intelligent-tutoring]] and [[adaptive-learning]] systems, explainable pred
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
+- [[knowledge-tracing]]
+- [[student-modeling]]
+- [[educational-measurement]]
+- [[adaptive-learning]]
+- [[learning-analytics]]
+- [[formative-assessment]]
+- [[confidence-aware-ai-assessment]]
 ## Connected Articles
 
 - [[neural-symbolic-knowledge-tracing]]
+- [[stanbkt-bayesian-knowledge-tracing]]
+- [[huang-interpretable-knowledge-tracing-2026]]
 ## Citation
 
 Wu et al. (2026). [Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning](https://arxiv.org/abs/2605.09369). arXiv:2605.09369. arXiv preprint.
