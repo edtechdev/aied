@@ -1,7 +1,7 @@
 ---
 title: "Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education"
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-08-15
 type: article
 tags: [benchmark, efficacy-study, learning-analytics, generative-ai, llm, automated-grading, human-in-the-loop, ai-literacy-assessment-misalignment, human-in-the-loop-ai, llm-cognitive-diagnosis-handwritten-math]
 sources: ['raw/papers/2603.29141.md']
@@ -76,16 +76,15 @@ The paper illustrates these shifts through case studies of **multimodal tutoring
 - Can uncertainty-aware labeling be standardized across the field, or is it inherently task-specific?
 
 ## Connected Concepts
+- [[assessment-validity]]
+- [[educational-measurement]]
+- [[research-methods-aied]]
+- [[limitations-in-aied-research]]
 
 - [[human-in-the-loop-ai]]
 - [[ai-ed-evaluation]]
 - [[automated-essay-scoring]]
-- [[cs-education]]
-- [[administrator]]
 - [[hallucination-risk]]
-- [[automated-question-generation]]
-- [[open-source]]
-
 ## Connected Articles
 
 - [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation

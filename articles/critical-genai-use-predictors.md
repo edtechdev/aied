@@ -1,7 +1,7 @@
 ---
 title: GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, higher-ed, student-experience, over-reliance, educational-theory, ai-literacy-assessment-misalignment, metacognition]
 sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']
@@ -43,6 +43,9 @@ A correlational study (N = 67 undergraduate psychology students, Bielefeld Unive
 - Limitations: small psychology-only sample (88% female), self-report critical-use scale, correlational design (no causality), and the risk that static knowledge-test items go stale as tools evolve — future work should use performance-based measures like the GLAT and objective behaviour logs, and experimental/longitudinal designs.
 
 ## Connected Concepts
+- [[over-reliance]]
+- [[reducing-ai-misuse]]
+- [[cognitive-offloading]]
 
 - [[ai-literacy]]
 - [[higher-ed]]

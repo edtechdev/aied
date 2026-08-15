@@ -1,7 +1,7 @@
 ---
 title: "VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring"
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-15
 type: article
 tags: [edtech-platform, academic-integrity, stem-education, higher-ed, formative-assessment, scaffolding]
 sources: ['raw/papers/2606.05929.md']
@@ -15,6 +15,10 @@ Addresses a critical tension in [[stem-education|CS education]]: the widespread 
 The framework provides a scalable blueprint for [[academic-integrity|preserving pedagogical integrity]] in the AI era, enabling educators to enforce authentic coding discipline through [[formative-assessment|process-oriented monitoring]] rather than final-output evaluation. Open source on GitHub for institutional adoption.
 
 ## Connected Concepts
+- [[cs-education]]
+- [[programming-education]]
+- [[open-source]]
+- [[automated-grading]]
 
 - [[stem-education]]
 - [[academic-integrity]]

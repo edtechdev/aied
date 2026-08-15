@@ -1,7 +1,7 @@
 ---
 title: "Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education"
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, student-experience, policy-maker, regulation, academic-integrity, genai-policy-prompting-rct, ai-literacy]
 sources: ['raw/papers/2606.12436.md']
@@ -19,6 +19,7 @@ The study surveyed 151 undergraduate students in Business Information Systems an
 These findings highlight a significant gap between [[regulation|institutional regulations]] and [[student-experience|student practices]]. The paper connects to insights from [[regulation]] on how policies are communicated, and to [[academic-integrity]] debates about effective AI governance. The authors call for improved policy communication and better integration of GenAI into teaching and learning contexts, recognizing that [[ai-literacy|regulatory awareness alone]] is insufficient to shape student behavior.
 
 ## Connected Concepts
+- [[ai-governance-education]]
 
 - [[generative-ai]]
 - [[higher-ed]]

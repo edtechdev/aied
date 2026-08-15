@@ -1,7 +1,7 @@
 ---
 title: Informal Learning Emerges in Everyday Human-LLM Interaction
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, ai-literacy, over-reliance, student-experience, self-regulated-learning, metacognition]
 sources: ['raw/papers/2607.17643.md']
@@ -13,6 +13,8 @@ As LLMs take over task execution, a central worry is that everyday AI use become
 The authors find that users do engage in learning-supporting behaviours — cognitive engagement, self-explanation, and elaboration — within ordinary [[llm]] interactions, tempering the pure offloading concern. The analysis contributes to debates on [[ai-literacy]] and the risks of [[over-reliance]], and reframes [[student-experience]] as a site where incidental learning can occur. It also informs [[self-regulated-learning]] and [[metacognition]] research by quantifying how conversational patterns either preserve or displace opportunities to think.
 
 ## Connected Concepts
+- [[cognitive-offloading]]
+- [[critical-thinking]]
 
 - [[llm]]
 - [[ai-literacy]]
@@ -20,6 +22,7 @@ The authors find that users do engage in learning-supporting behaviours — cogn
 - [[student-experience]]
 - [[self-regulated-learning]]
 - [[metacognition]]
+
 ## Connected Articles
 
 - [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning

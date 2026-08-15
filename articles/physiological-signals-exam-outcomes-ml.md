@@ -1,7 +1,7 @@
 ---
 title: Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-08-15
 type: article
 tags: [learning-analytics, edtech-platform, higher-ed, engagement-metrics, student-experience, rag, llm, k-12]
 sources: ['raw/papers/2606.14960.md']
@@ -27,16 +27,14 @@ Physiological stress indicators — electrodermal activity, heart rate, and skin
 By elucidating the relationships between physiological signals and academic performance, this study contributes to understanding the stressors that affect students' mental health and promotes leveraging physiological data to enhance student well-being and academic outcomes. The results highlight the value of physiological data for real-time intervention: stress indicators gathered unobtrusively during exams could feed [[learning-analytics]] and [[affective-computing]] pipelines that flag struggling students before outcomes are finalized. The study also underscores the importance of experimenting with a broad class of models aligned with the objectives of the problem at hand, balancing precision, efficiency, and interpretability — a practical lesson for [[student-modeling]] in educational settings where model transparency matters for trust and adoption.
 
 ## Connected Concepts
+- [[educational-measurement]]
+- [[ai-ed-evaluation]]
+- [[well-being]]
 
 - [[affective-computing]]
 - [[learning-analytics]]
 - [[human-in-the-loop-ai]]
 - [[affective-tutoring]]
-- [[administrator]]
-- [[teacher-ai-competency]]
-- [[help-seeking]]
-- [[pedagogical-agent]]
-
 ## Connected Articles
 
 - [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
