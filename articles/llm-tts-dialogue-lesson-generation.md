@@ -1,7 +1,7 @@
 ---
 title: "A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential"
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, personalized-learning, scaffolding, active-learning, pedagogical-llm-training]
 sources: ['raw/papers/2607.12235.md']
@@ -26,9 +26,15 @@ confidence: medium
 - [[active-learning]]
 - [[personalized-learning]]
 - [[pedagogical-llm-training]]
+- [[llm]]
+- [[human-in-the-loop-ai]]
+- [[instructional-design]]
+- [[language-learning]]
+- [[storytelling-in-education]]
 ## Connected Articles
 
 - [[ai-generated-slides-student-perception]]
+- [[instructional-agents-multi-agent-course-gen]]
 ## Citation
 
 Kumoi, G., Watanabe, F., Suko, T., Ishida, T., et al. (2026). [A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential](https://arxiv.org/abs/2607.12235). arXiv:2607.12235.

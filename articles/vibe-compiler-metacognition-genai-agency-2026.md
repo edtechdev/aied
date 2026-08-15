@@ -1,7 +1,7 @@
 ---
 title: "Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-"
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-15
 type: article
 tags: [metacognition, generative-ai, critical-thinking, cognitive-offloading, human-in-the-loop, self-regulated-learning, rag, scaffolding]
 sources: ['raw/papers/2608.05545.md']
@@ -17,6 +17,13 @@ introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool t
 ## Connected Concepts
 
 - [[over-reliance]]
+- [[metacognition]] — the cognitive capacity the Vibe Compiler seeks to preserve
+- [[cognitive-offloading]] — the risk of delegating synthesis to AI
+- [[scaffolding]] — structured metacognitive scaffolding of reasoning
+- [[human-in-the-loop-ai]] — keeping human agency central in AI-assisted work
+- [[agency]] — preserving epistemic agency during GenAI use
+- [[critical-thinking]] — articulating, critiquing and refining AI output
+- [[self-regulated-learning]] — monitoring and directing one's own intellectual process
 ## Connected Articles
 
 - [[veriforge-narrative-drafting-scaffolding-2026]] — VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding
@@ -25,6 +32,7 @@ introduces the Synthesis-Analysis Reciprocity Model and the Vibe Compiler tool t
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning
 - [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
+- [[misiejuk-cognitive-offloading-prompting-2026]] — Cognitive offloading and prompting in GenAI writing
 
 ## Citation
 

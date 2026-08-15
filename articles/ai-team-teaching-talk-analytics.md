@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-15
 type: article
 tags: [active-learning, ai-education, higher-ed, learning-analytics, teacher-role, generative-ai, llm, student-experience, ai-literacy, stem-education]
 confidence: high
@@ -16,6 +16,12 @@ This paper presents an AI-based speech processing approach to analyze classroom 
 
 - [[learning-analytics]]
 - [[teacher-role]]
+- [[multimodal]] — acoustic features of classroom talk
+- [[professional-training]] — formative feedback on teaching practice
+- [[faculty-development]] — improving teaching via automated analytics
+- [[teacher-ai-competency]] — AI-supported reflection on teaching
+- [[feedback-loop]] — analytics feeding back to improve instruction
+- [[student-engagement]] — vocal modulation to foreground key information
 ## Connected Articles
 
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
@@ -24,6 +30,7 @@ This paper presents an AI-based speech processing approach to analyze classroom 
 - [[cold-start-knowledge-tracing-safeinsights]] — Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 - [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
+- [[engagement-assessment-video]] — Video-based assessment of student engagement
 
 ## Citation
 

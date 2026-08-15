@@ -1,7 +1,7 @@
 ---
 title: A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-08-15
 type: article
 tags: [ai-literacy, equity, policy-maker, academic-integrity, higher-ed, ai-governance-education, ethics, ai-education]
 sources: ['raw/papers/2607.12295.md']
@@ -26,9 +26,16 @@ confidence: medium
 - [[equity-in-ai-education]]
 - [[academic-integrity]]
 - [[ai-literacy]]
+- [[ethics]]
+- [[ai-governance-education]]
+- [[bias-mitigation]]
+- [[governance]]
+- [[ai-education]]
 ## Connected Articles
 
 - [[principled-ai-education]]
+- [[moral-panic-genai-classroom]]
+- [[youtube-frames-chatgpt-education]]
 ## Citation
 
 Bagale, A., Mehjabin, N., Unlu, A., Johri, A., et al. (2026). [A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data](https://arxiv.org/abs/2607.12295). arXiv:2607.12295.
