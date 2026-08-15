@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 634 articles and 134 concepts.
+> Complete text of 644 articles and 136 concepts.
 
 # Articles
 
@@ -3799,6 +3799,10 @@ Whether skills survive offloading depends on the **form** the offloading takes [
 - Having the AI provide an explanation, a suggestion, or act as a **collaborator giving feedback** [14], or emulating a thoughtful tutor [15] → can preserve or even boost skill despite reduced effort ("[[coach-not-crutch-ai-writing|Coach not crutch]]" [15]).
 - Staying "in the proverbial cognitive loop" mitigates costs; costs are likely **limited to the specific skills offloaded**, not basic abilities.
 
+### The "coach not crutch" counterpoint
+
+This perspective's answer — that offloading *can* harm but need not — is empirically sharpened by [[coach-not-crutch-ai-writing|Lira et al. (2025)]], who show that AI can exert opposing effects on **effort** and **learning environment**, sometimes yielding "work less, learn more." In pre-registered experiments, adults who practiced cover-letter writing *with* an AI tool wrote better no-AI letters than those who practiced alone — and AI beat both googling examples and personalized feedback from experienced human editors. Notably, they found **no illusion-of-mastery effect** (AI-practice participants did not over-report skill), directly addressing this perspective's open question about metacognitive source-monitoring. The reconciliation with the "making us stupid" risk is the **form of offloading**: Lira et al.'s AI *scaffolded* (surfacing examples and feedback, keeping the learner in the loop) rather than *replacing* the writing act. Where it did the latter, their [[genai-performance-vs-learning|guardrails/performance-vs-learning literature]] still shows the crutch harm — so the two results are consistent, not contradictory: **AI that coaches preserves or boosts skill; AI that substitutes risks decay.** The boundary condition both camps converge on is whether the learner's cognitive act is preserved.
+
 ## Concluding remarks & open questions (Box 2)
 
 "It is far too early to say with certainty" the long-term effects. Open questions: prolonged offloading over years/decades; developmental-stage effects (children?); decay as a function of initial skill level and skill type; refresher-training strategies; **designing AI to discourage harmful offloading** (policy levers); whether people can learn to *strategically* offload; impacts on **metacognition** and source-monitoring (misattributing AI output as one's own); effects on dispositions toward thinking.
@@ -3824,31 +3828,16 @@ Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [
 - [[rag]]
 ## Connected Articles
 
+- [[coach-not-crutch-ai-writing]] — Coach not crutch: AI can improve writing skill despite reducing effort
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
 - [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
 - [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
 - [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
 - [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle, AI, and the illusion of learning
+- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools in society: impacts on cognitive offloading and the future of critical thinking
 
 ## Citation
 
@@ -12105,6 +12094,77 @@ Zhan, Y., Wood, J., Carless, D., & Yan, Z. (2026). Feedback futures: beyond the 
 
 ---
 
+## [Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision](https://edtechdev.github.io/aied/articles/feedback-literacy-scripts-eap-writing/)
+
+# Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision
+
+## Core Finding
+
+**In generative-AI-supported EAP writing revision, improvement depends less on the amount of feedback available than on whether learners process it through structured decision-making.** Yao (2026) used a large language model–driven classroom simulation (100 synthetic B2-level writer agents) in a 2 × 2 design to test a feedback literacy script (FRAC) and an AI second-review mechanism. The script produced a clear, robust benefit in the initial revision stage (Task 1 gain of 5.75 points; coefficient 7.09; permutation p = 0.0286), but did not raise feedback uptake — instead it redirected revision toward the **argument level**, which was the dimension positively associated with score gain (r = 0.755, p = 0.0304). The second-review mechanism, by contrast, produced no stable benefit.
+
+## Why This Matters
+
+As generative AI floods EAP classrooms with instant, abundant feedback, the pedagogical question shifts from *obtaining* feedback to *processing* it. The paper argues that feedback becomes valuable only when learners can interpret, prioritize, and enact suggestions — a [[feedback-loop]] that is cognitive rather than merely informational. Its central claim is that the value of AI in EAP writing should be framed as support for **organized feedback processing** rather than an expansion of feedback quantity.
+
+## Method
+
+- **Simulation design:** 100 B2-level LLM-based writer agents generated under a unified prompt protocol, retaining limited variation in prior AI experience, risk aversion, metacognitive awareness, and revision style. Because participants were simulated, no ethics approval was required.
+- **Treatments:** Feedback literacy script (FRAC: identify comments relevant to task requirements, decide which affect argument/organization/evidence, prioritize changes, explain each choice) versus no script; and AI second-review mechanism versus none. Four groups: G1 control (n=40), G2 script only (n=40), G3 second-review only (n=10), G4 both (n=10).
+- **Tasks:** Task 1 (baseline + revision), Task 2 (transfer to a new topic, same genre), delayed Task 3 (retention).
+- **Analysis:** Revision-gain, revised-score, and delayed-retention regressions with HC3 robust standard errors; exact permutation tests; leave-one-out sensitivity; inter-rater ICC and inter-coder agreement. Unequal cell sizes (small second-review groups) were handled explicitly.
+
+## Key Results
+
+- **Script effect is stage-specific.** The script's effect was concentrated in Task 1 — the first encounter with AI feedback — and weakened in Task 2 (Script × Task 2 interaction negative, e.g. −8.88 in the pooled gain model). The authors interpret this as a shift from externally guided revision to partially internalized evaluative logic.
+- **Script changed revision depth, not uptake.** Effective uptake rates were comparable across groups (~41.7–55.1%). But argument-level revision reached 53.3% of G2's Task 1 revision (vs 61.0% sentence-level in G1) and stayed higher in Task 2 (64.3% vs 49.3% G1, 11.0% G4). Argument-level revision was the correlate of score gain.
+- **Second-review mechanism did not help.** Adding a second feedback source produced imprecise, unstable estimates (large standard errors) and no reliable outcome improvement — consistent with the idea that multi-source feedback raises comparison and prioritization load.
+- **Delayed retention is only directional.** The scripted group scored higher on Task 3 (76.00 vs 72.67), but the permutation test (p = 0.4000) did not support a stable retention effect.
+- **Reliability was high:** ICC(2,1) = 0.9907 for scoring, Cohen's κ = 0.992 for uptake coding, r = 0.8219 for argument-depth coding.
+
+## Implications
+
+For [[writing-education]] and [[language-learning]], the study suggests AI-supported revision should be designed not as a feedback-rich environment but as a process in which learners distinguish higher-order issues from surface-level ones and prioritize revision against task demands. Feedback literacy scripts act as cognitive and procedural scaffolds for revision — a concrete instantiation of [[scaffolding]] and [[self-regulated-learning]]. For research, it argues that final scores alone miss how AI revision works; feedback uptake and [[formative-assessment]]-style revision depth must be examined together. The result is a mechanism-oriented contribution to [[ai-feedback-quality]] and [[ai-literacy]] in [[higher-ed]].
+
+## Methodological Notes
+
+Strengths: a clear mechanism-oriented design, design-based tests (permutation, leave-one-out), and careful handling of small cells. Limitations: the design is **simulation-based** with LLM writer agents rather than real students, the second-review groups were small, and results need validation with human writers and across proficiency levels in authentic EAP classrooms. Confidence is accordingly rated medium. The study explicitly frames its value as clarifying a plausible mechanism under controlled conditions rather than replacing classroom evidence.
+
+## Connected Concepts
+
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[self-regulated-learning]]
+- [[formative-assessment]]
+- [[writing-education]]
+- [[ai-literacy]]
+- [[language-learning]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[simulation]]
+- [[scaffolding]]
+- [[metacognition]]
+- [[feedback-literacy]]
+
+## Connected Articles
+
+- [[ai-feedback-enactment-workflow-2026]]
+- [[ai-generated-feedback-higher-ed]]
+- [[feedback-futures-genai]]
+- [[care-full-feedback-genai]]
+- [[learner-centered-feedback-ai]]
+- [[sequenced-ai-feedback-learning]]
+- [[aiawe-automated-writing-evaluation]]
+- [[cyberscholar-genai-writing-feedback]]
+- [[ai-writing-support-stage-ownership-2026]]
+- [[self-referential-l2-writing-llm-assessment]]
+- [[valid-student-simulation-llm-2026]]
+
+## Citation
+
+Yao, X.-C. (2026). [Effects of feedback literacy scripts and a second-rater mechanism on EAP writing revision in generative AI-supported contexts](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1835593/full). *Frontiers in Psychology*, 17, 1835593. DOI: 10.3389/fpsyg.2026.1835593. (CC BY)
+
+---
+
 ## [Principled AI Education Framework](https://edtechdev.github.io/aied/articles/finkelstein-principled-ai-education-2025/)
 
 > **Principled AI Education Framework** — A principled way to think about AI in education: guidance for educators and policy makers on action based on goals, models of human learning, and use of technologies. Rather than focusing solely on the promise and peril of AI or its immediate implementation, this framework advances a third path — connecting broad educational goals to actionable practices through a set of explicit, scholarship-grounded principles.
@@ -15140,6 +15200,60 @@ Hashmi, A., et al. (2025). [*Analyzing Undergraduate Problem-Solving in Physics 
 
 ---
 
+## [Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing](https://edtechdev.github.io/aied/articles/hawkins-feedback-literacy-ai-essay-writing/)
+
+# Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing
+
+## Summary
+
+Hawkins, Taylor-Griffiths & Lodge (2026) investigate how university students use generative AI for feedback during essay writing, using a novel simulated assessment task methodology. Thirty-two psychology students at The University of Queensland completed a screen-recorded, 25-minute essay writing task with unrestricted access to ChatGPT (and optionally other tools such as Quillbot, Co-pilot, and DeepL), then watched the recording back in a video-stimulated interview. A thematic analysis (Braun & Clarke 2006) of the transcribed interviews identified four distinct, temporally ordered themes: *feedforward* (initial content and idea requests), *feedback* (requesting assessments of one's own work, including criteria-based and line-level language improvements), *feedback evaluation* (making decisions based on AI output, enacted through 'expand', 'summarise', 'elaborate', and 'try again' prompts, and providing feedback to AI), and *AI avoidance* (deliberately not using AI, often citing academic integrity or a desire that the essay sound 'in my own words'). A standard multiple regression found feedback literacy to be the only significant positive predictor of essay grade (β = 0.46, p = 0.017), supporting the study's working theory. The paper interprets feedback literacy (Carless & Boud 2018) within the broader scope of self-regulated learning (Pintrich 2000) and is one of the first to deploy Dawson et al.'s (2024) validated Feedback Literacy Behaviour Scale.
+
+**License note:** article is **CC BY-NC-ND 4.0** (non-commercial, no-derivatives); summary only, full text not redistributed.
+
+## Key Findings
+
+- **Feedback literacy predicts essay task performance.** Feedback literacy was the only significant (positive) predictor of essay grade in a standard multiple regression (β = 0.46, t(25) = 2.56, p = 0.017, sr² = .17); feedback literacy and essay grade were positively and significantly correlated (p = 0.019). The overall model accounted for a non-significant 35% of variance (F(6, 25) = 2.26, p = .071), and the analysis was underpowered.
+- **Four themes of student AI use for feedback.** Feedforward (initial content requests, e.g. idea generation, exemplar essays, comprehension support); feedback (requesting assessments of own work, mostly 'line-level' language improvements rather than overall feedback); feedback evaluation (evaluating AI output via prompts and comparing it to other sources — fewer than a third compared AI output to another internet source); and AI avoidance (expressed by half the participants, motivated by academic integrity or wanting the essay to be their own words).
+- **Simulated assessment task as a methodological bridge.** The novel screen-recorded task plus video-stimulated interview bridged the gap between self-reported AI use and observed practice, gathering evidence of students' metacognitive awareness of their AI interactions.
+- **Feedback literacy within self-regulated learning.** AI co-regulated cognition (outsourcing idea generation and comprehension), motivation (corroborating task understanding and self-efficacy), behaviour (varying help-seeking sophistication), and context. Without SRL skills grounded in self-efficacy and a motivation to learn, the authors argue AI operates "more like a student than a student tool."
+- **Task-level feedback dominance.** Students typically requested task-level feedback, which Hattie & Timperley (2007) argue is difficult to transfer to other tasks and limited in effect on long-term learning.
+
+## Implications
+
+- Institutions should foster feedback literacy skills that support thoughtful, considered use of generative AI, applicable across domains, so students can evaluate and co-regulate their learning regardless of technology.
+- Highlights that the value of AI feedback depends on the learner's evaluative judgement and self-regulatory skill, not just the tool — a shared thread across the wiki's [[ai-feedback-quality]] and [[self-regulated-learning]] research.
+- Students largely wanted to use AI without contravening academic standards, but more advanced feedback literacy would help them adapt and thrive; many regulated towards performance and avoidance goals rather than learning goals.
+- Limitations: underpowered regression, single-university psychology sample, and task-fidelity constraints (performance did not affect grades and AI use was not penalised, likely shifting motivation away from learning goals).
+
+## Connected Concepts
+
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[self-regulated-learning]]
+- [[formative-assessment]]
+- [[writing-education]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[academic-integrity]]
+- [[generative-ai]]
+- [[feedback-literacy]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
+- [[genai-feedback-design-multisite-experiment]] — GenAI feedback design multisite experiment
+- [[feedback-futures-genai]] — Feedback futures with generative AI
+- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
+- [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
+- [[ai-internal-feedback-evaluative-judgments]] — AI internal feedback and evaluative judgement
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond the skills gap
+
+## Citation
+
+Hawkins, B., Taylor-Griffiths, D., & Lodge, J. M. (2026). [*Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing*](https://doi.org/10.1080/02602938.2025.2492070). Assessment & Evaluation in Higher Education, 51(5), 879–891.
+
+---
+
 ## [SafeTutors: Pedagogical Safety in AI Tutoring](https://edtechdev.github.io/aied/articles/hazra-safetutors-pedagogical-safety-2026/)
 
 > **SafeTutors** is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across mathematics, physics, and chemistry. It argues that **tutoring safety is fundamentally different from conventional LLM safety**: the primary risk is not toxic content but the quiet erosion of learning through answer over-disclosure, misconception reinforcement, and the abdication of scaffolding.
@@ -16614,6 +16728,60 @@ Nourian, L., Callis, A., Patterson, S., Miao, J., Heard, J., & Tigwell, G. W. (2
 
 ---
 
+## [Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy and Enabling Uptake in Speaking Classes](https://edtechdev.github.io/aied/articles/irwin-muller-efl-peer-feedback-literacy/)
+
+# Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy and Enabling Uptake in Speaking Classes
+
+## Summary
+
+Irwin & Muller (2026) offer a conceptual, theory-informed design framework for positioning generative AI (GenAI) within EFL/ESL peer feedback on speaking, targeting the twin bottlenecks of peer feedback **production** (variable, generic, or criterion-misaligned comments) and **uptake** (cognitive overload from interpreting multiple, sometimes contradictory peer messages). Grounded in student feedback literacy (Carless & Boud, 2018) and a cyclical, self-regulated model of GenAI-enabled feedback engagement (forethought–control–retrospect; Zhan et al., 2025), the paper proposes two complementary GenAI roles: a **Trainer** that supports feedback givers through exemplar-based calibration, rubric-guided practice, and feedback-on-feedback; and a **Synthesizer** that supports feedback receivers by aggregating peer comments into concise, prioritized, criteria-linked uptake reports. Speaking tasks are argued to impose distinct constraints — time pressure, fleeting performances, and heightened affect — that make real-time peer feedback promising yet pedagogically challenging. The proposal is deliberately scoped to performative speaking assessment in higher education, positions GenAI as scaffold rather than evaluator (teachers remain in the loop; no automated grading), and concludes with four design principles, governance considerations, eight testable theoretical expectations, and a future research agenda.
+
+## Key Findings
+
+- **Two GenAI roles:** The **Trainer** (for feedback givers) uses exemplars and analytical rubrics so learners calibrate judgments against expert ratings and revise vague comments toward criterion-referenced, evidence-based, actionable feedback (e.g., turning "Nice voice" into a time-coded intelligibility diagnosis with practice suggestions). The **Synthesizer** (for feedback receivers) normalizes formats, groups comments by criterion, preserves minority views, and generates a concise uptake report with prioritized themes, contradictions to clarify, candidate next-step goals, and linked learning resources.
+- **Cyclical mapping:** The Trainer operates mainly in the forethought and early-control phases (building appreciation, calibrated judgment, and affect management), while the Synthesizer operates in later control and retrospect (supporting taking action, reflection, and revision efficacy).
+- **Speaking-specific constraints:** Time pressure, fleeting oral performance, and heightened affect make real-time peer feedback challenging; the paper draws on evidence that asynchronous, recorded, revisitable workflows and multiple peer raters stabilize judgments and support reflection.
+- **Design principles:** (1) feedback timing and sequencing are critical (pre-task training primes criteria; immediate post-task feedback supports engagement; spacing supports reliable ratings); (2) Trainer units should be short, repeated, and task-aligned to manage cognitive load; (3) the Synthesizer should preserve the givers' voice while simplifying intake; (4) guardrails remain essential — teacher oversight, no automated grading, CEFR-level-matched prompts/resources, and offline fallbacks for low-infrastructure contexts.
+- **Ethics and governance:** Framed as "generativism" (symbiotic human–AI collaboration; Pratschke, 2024), the design sends students' *anonymized feedback* (not oral production) to GenAI to protect privacy, keeps prompts and rubrics teacher-designed, and retains original giver comments so outputs can be audited for hallucination or bias. Macro- vs. microethical framing (Kubanyiova, 2008) is used to focus on classroom-specific (microethical) concerns.
+- **Eight theoretical expectations:** Trainer is expected to improve attitudes, feedback quality, judgment alignment, and feedback literacy; Synthesizer is expected to support uptake/action planning and reduce overload/affect; combined use is expected to support speaking development over time and more equitable participation. All remain provisional.
+- **Boundary conditions and limitations:** The account is conceptual (no new empirical data); scope is limited to EFL/ESL performative speaking in higher education; assumes adequate digital infrastructure; and acknowledges LLM output unreliability (hallucination risk) and the risk of overreliance on GenAI or crowding out human dialogue about feedback.
+
+## Implications
+
+- Provides a concrete, theory-aligned design pattern for using GenAI as a scaffold in peer feedback — supporting rather than replacing human evaluative judgment, consistent with calls for transparent, contestable, teacher-governed GenAI use in assessment.
+- Offers teachers a replicable workflow: pre-task Trainer calibration with exemplars and rubrics, mediated scaffolds during comment composition, and post-task Synthesizer uptake reports linking themes to criteria and level-appropriate resources.
+- Sets a pragmatic research agenda — feasibility/classroom fit, effects on feedback quality and literacy, effects on uptake/affect/speaking performance, student and teacher perspectives, and contextual variation/equity — to move from design to empirical validation.
+- Frames a "middle path" between uncritical automation and blanket prohibition of GenAI in feedback processes, leveraging GenAI's efficiency in managing large volumes of data to enhance EFL/ESL classroom learning while retaining evaluative authority for teachers and students.
+
+## Connected Concepts
+
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[peer-review]]
+- [[formative-assessment]]
+- [[self-regulated-learning]]
+- [[writing-education]]
+- [[language-learning]]
+- [[ai-literacy]]
+- [[feedback-literacy]]
+
+## Connected Articles
+
+- [[ai-peer-feedback-systems]] — AI-supported peer feedback systems
+- [[care-full-feedback-genai]] — Care-full feedback in the era of generative AI
+- [[feedback-futures-genai]] — Feedback futures and generative AI
+- [[chatgpt-feedback-engagement-genai]] — ChatGPT feedback and engagement with generative AI
+- [[learner-centered-feedback-ai]] — Learner-centered feedback with AI
+- [[ai-internal-feedback-evaluative-judgments]] — AI-internal feedback and evaluative judgments
+- [[cyberscholar-genai-writing-feedback]] — CyberScholar generative AI writing feedback
+- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
+
+## Citation
+
+Irwin, B., & Muller, T. (2026). [*Positioning generative AI in EFL peer feedback: Training feedback literacy and enabling uptake in speaking classes*](https://doi.org/10.3390/educsci16040544). *Education Sciences*, 16, 544. https://doi.org/10.3390/educsci16040544
+
+---
+
 ## [ISD Agent Benchmark](https://edtechdev.github.io/aied/articles/jeon-isd-agent-bench-2026/)
 
 > **ISD-Agent-Bench** is a comprehensive benchmark for evaluating LLM-based instructional design agents, comprising **25,795 scenarios** generated via a Context Matrix framework that combines 51 contextual variables with 33 ISD sub-steps from the ADDIE model. It employs a multi-judge evaluation protocol to mitigate LLM-as-judge bias. It is a direct contribution to the study of [[instructional-design|instructional design]] as it applies to AI — providing the first standardized, theory-grounded way to evaluate whether AI agents can perform the systematic work of analyzing needs, designing, developing, implementing, and evaluating instruction.
@@ -16683,6 +16851,58 @@ For the [[ai-ed-evaluation]] community, the multi-judge protocol represents a me
 ## Citation
 
 Jeon, Y., Kim, S., Son, H., Lee, S., Jeong, Y., & Lee, U. (2026). [*ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents*](https://arxiv.org/abs/2602.10620). arXiv:2602.10620.
+
+---
+
+## [Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective](https://edtechdev.github.io/aied/articles/jin-genai-learning-analytics-feedback-literacy/)
+
+# Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective
+
+## Summary
+
+Jin, Maheshi, Lai, Li, Gasevic, Chen, Charwat, Chan, Martinez-Maldonado, Gašević & Tsai (2025) examine how generative AI (GenAI) can support students' engagement with feedback through a feedback literacy lens. They piloted **PolyFeed**, a student-facing [[learning-analytics|learning analytics]] feedback tool whose two GenAI features (both running ChatGPT 3.5) were: a ChatGPT **explanation function** that reformats or explains specific educator feedback in simpler, bullet-pointed language (capped at two attempts per item), and a GenAI-powered **dashboard** visualizing common strengths and weaknesses across assessments and units, derived from students' own feedback annotations and inductive thematic coding. Data came from 18 higher-education students across information technology, education, business/economics, and engineering, spanning three phases: introductory lab sessions, in-semester trace-data use, and post hoc interviews.
+
+The central finding is a **discrepancy between initial perceptions and actual usage**. During the introductory lab sessions, students reacted overwhelmingly positively — all 18 reacted positively to ChatGPT explanations and 16 to the visualizations, seeing them as aids to sense-making, reflection, and acting on feedback. Yet in-semester trace data showed only modest engagement: just half used the ChatGPT explanation function (mean rating 3.23/4), and visualization access ranged 50–67% per graph. Post hoc interviews revealed three drivers of the drop: a mismatch between students' expectations and GenAI outputs, a lack of relevance across varied disciplines, and a sense that the features were redundant when educator feedback was already clear. The authors argue GenAI can help close the [[feedback-loop|feedback loop]] and shift students from passive recipients to active participants, but call for adaptive, discipline-specific, explainable designs that set realistic expectations and give learners control over AI interactions.
+
+## Key Findings
+
+- **Strong initial enthusiasm that did not fully translate into use.** In lab sessions, 100% of students reacted positively to ChatGPT explanations and 89% to GenAI visualizations; half said explanations helped them make sense of vague feedback, and 14 valued visualizations for using feedback and reflecting. Yet in-semester use was modest (50% used explanations; visualization access 50–67%), and positive reports declined in post hoc interviews.
+- **Feedback literacy mapping.** Students connected the features to several feedback literacy components (from Carless & Boud and Molloy et al.): making sense of feedback, seeking feedback information, using feedback information (reflection, monitoring, action planning), and — notably — managing emotions, as visualizations and explanations reduced the overwhelm of dense, "jumbled" feedback and offered a low-stakes intermediary before approaching tutors (especially valued where cultural norms made direct tutor contact uncomfortable).
+- **Redundancy and relevance limits engagement.** Some students found the functions unnecessary when feedback was already clear ("not needing to use it"), and criticized explanations as repetitive or unable to handle subject-specific content such as mathematics. These findings echo broader questions about [[ai-feedback-quality|AI feedback quality]] and when AI adds value versus when it duplicates what educators already provide.
+- **Trust and expectation-setting.** Students raised concerns about the reliability of the older ChatGPT version and about privacy (whether their details were sent to ChatGPT). The authors recommend transparency about GenAI capabilities, explainable-AI principles, and greater user control over outputs to build trust and foster sustained [[self-regulated-learning|self-regulated learning]].
+
+## Implications
+
+- **Design for relevance and discipline-specificity.** Generic GenAI feedback that fails on subject-specific content (e.g., mathematics) or simply restates educator feedback risks being abandoned; adaptive and discipline-tailored GenAI is a clear design priority.
+- **Manage expectations to sustain engagement.** The gap between initial hype and real-world use suggests institutions should communicate clearly what GenAI can and cannot do, reducing mismatched expectations that undermine trust and usage.
+- **Empower learners as active agents.** By enabling students to seek clarification, reflect, and act on feedback independently, GenAI within LA tools can strengthen [[feedback-loop|feedback loops]], promote [[formative-assessment|formative]] engagement, and build feedback literacy — provided learners retain control over the interaction.
+- **Measure feedback literacy via trace data.** The authors propose novel trace-data-based measures of feedback literacy to move beyond self-report, complementing [[student-experience|student-experience]] survey work.
+
+## Connected Concepts
+
+- [[feedback-loop]]
+- [[learning-analytics]]
+- [[ai-feedback-quality]]
+- [[formative-assessment]]
+- [[self-regulated-learning]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[feedback-literacy]]
+
+## Connected Articles
+
+- [[care-full-feedback-genai]] — Care-full feedback with generative AI
+- [[feedback-futures-genai]] — GenAI feedback futures
+- [[genai-feedback-design-multisite-experiment]] — Multisite GenAI feedback design experiment
+- [[chatgpt-feedback-engagement-genai]] — ChatGPT feedback and student engagement
+- [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback (PolyFeed)
+- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
+- [[ai-feedback-enactment-workflow-2026]] — AI feedback enactment workflows
+
+## Citation
+
+Jin, F. J.-Y., Maheshi, B., Lai, W., Li, Y., Gasevic, D., Chen, G., Charwat, N., Chan, P. W. K., Martinez-Maldonado, R., Gašević, D., & Tsai, Y.-S. (2025). [*Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective*](https://doi.org/10.18608/jla.2025.8609). *Journal of Learning Analytics*, 12(1), 152–168.
 
 ---
 
@@ -18269,6 +18489,60 @@ Human lesson designers identified several strengths: substantial time savings in
 ## Citation
 
 Lin, J., Rao, J., Zhao, S. Y., Wang, Y., Gurung, A., Barany, A., Ocumpaugh, J., Baker, R. S., & Koedinger, K. R. (2025). [*Automatic Large Language Models Creation of Interactive Learning Lessons*](https://doi.org/10.48550/arXiv.2506.17356). ECTEL 2025. arXiv:2506.17356.
+
+---
+
+## [AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake](https://edtechdev.github.io/aied/articles/liu-deris-ai-feedback-literacy-uptake/)
+
+# AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake
+
+## Summary
+
+Liu and Deris (2025) introduce and validate the construct of **AI feedback literacy (AIFL)** — students' capacity to critically engage with, evaluate, and apply AI-generated feedback — in the context of English as a foreign language (EFL) writing in higher education. Drawing on Carless and Boud's (2018) feedback literacy framework and motivational models (self-determination theory, feedback-seeking theory, cost-value models), they developed a psychometric scale and tested it with 486 Chinese undergraduate students. Using confirmatory factor analysis, PROCESS-macro mediation modelling, and multiple regression, the authors show that AIFL significantly predicts uptake of AI-generated feedback, both directly and indirectly through motivational appraisals of perceived value and perceived cost. Behavioural engagement (practices) outperformed attitudinal disposition (attitudes) as a predictor of uptake, and AIFL development was driven by frequency of AI tool use rather than demographic background — raising equity concerns about access and opportunity in increasingly AI-mediated assessment environments.
+
+## Key Findings
+
+- **AIFL is a measurable, two-dimensional construct.** The 16-item AIFL scale (Attitudes and Practices subscales) showed strong psychometric properties: Cronbach's alpha 0.78–0.85, composite reliability above 0.70, AVE above 0.50 (0.52–0.60), and factor loadings of 0.58–0.83, supporting convergent validity and construct integrity.
+
+- **AIFL predicts feedback uptake both directly and indirectly.** The total effect of AIFL on uptake was significant (β = 0.42, p < 0.001), with a still-significant direct effect after adding mediators (β = 0.28, p < 0.001), indicating partial mediation. AIFL raised perceived value and lowered perceived cost, which in turn positively and negatively predicted uptake respectively; both bootstrapped indirect effects were significant.
+
+- **Behavioural engagement outweighs attitudes.** In a multiple regression explaining 46% of variance in uptake (R² = 0.46), perceived value was the strongest predictor (β = 0.32), followed by AIFL-Practices (β = 0.27), while AIFL-Attitudes was non-significant (β = 0.08, p = 0.091). The authors interpret this as evidence that feedback literacy develops through embodied, situated practice rather than belief alone.
+
+- **Value matters more than cost.** Perceived value was a stronger predictor of uptake than perceived cost, aligning with self-determination theory accounts in which value appraisals connect to autonomous motivation; the authors argue for designing feedback experiences that raise perceived relevance and learning value.
+
+- **AIFL is shaped by use, not demographics.** Only frequency of AI tool use significantly predicted AIFL (β = 0.29, p < 0.001); neither academic major nor year of study mattered. This shifts the equity conversation from individual disposition to structural access, warning that integration of AI feedback could widen digital literacy gaps for students with less exposure.
+
+- **High-AIFL students differ meaningfully.** Median-split comparisons showed high-AIFL students had significantly higher uptake (d = 0.80), higher perceived value (d = 0.64), and lower perceived cost (d = 0.60) than low-AIFL peers.
+
+## Implications
+
+This work reframes debates about AI feedback from mere access to *actionable literacy*: simply providing AI tools does not guarantee learning gains, because the pedagogical impact of AI feedback depends on learners' readiness, confidence, and experience. For assessment design, the finding that behavioural engagement predicts uptake better than attitudes argues for tasks that require students to *act on* AI feedback — revising drafts, comparing against rubrics, engaging in peer discussion — rather than merely acknowledging it. For equity, the result that exposure drives AIFL means institutions should deliberately scaffold and broaden access to AI-mediated feedback for students unlikely to engage autonomously, and should embed AI feedback within iterative drafting cycles aligned to disciplinary standards. For educators, the paper positions teachers as critical mediators of automated input — modelling reflective interpretation, facilitating dialogue about AI strengths and limits, and maintaining relational trust — rather than being displaced by AI. The authors call for reimagining feedback ecosystems where AI tools are embedded within pedagogically inclusive, reflective, and feedback-literate environments.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[ai-feedback-quality]]
+- [[feedback-loop]]
+- [[formative-assessment]]
+- [[self-regulated-learning]]
+- [[writing-education]]
+- [[higher-ed]]
+- [[assessment]]
+- [[motivation]]
+- [[feedback-literacy]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]]
+- [[learner-centered-feedback-ai]]
+- [[care-full-feedback-genai]]
+- [[ai-feedback-critical-thinking-writing-2026]]
+- [[chatgpt-feedback-engagement-genai]]
+- [[genai-feedback-design-multisite-experiment]]
+
+## Citation
+
+Liu, K., & Deris, F. D. (2025). AI feedback literacy in higher education: Understanding, measuring, and predicting student feedback uptake. *Assessment & Evaluation in Higher Education*. https://doi.org/10.1080/02602938.2025.2587924
 
 ---
 
@@ -20300,6 +20574,91 @@ Memdora illustrates how AI-powered spaced repetition can move beyond scheduling 
 ## Citation
 
 Ruiyang Zhang (2026). [Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition](https://arxiv.org/abs/2607.25096). arXiv:2607.25096. cs.HC.
+
+---
+
+## [Making sense of AI feedback: how students' feedback literacy moderates the link between ChatGPT acceptance and self-regulated learning](https://edtechdev.github.io/aied/articles/mendoza-ai-feedback-feedback-literacy-srl/)
+
+# Making Sense of AI Feedback: Feedback Literacy Moderates ChatGPT Acceptance and SRL
+
+## Core Finding
+
+**Feedback literacy — specifically, students' ability to make sense of AI-generated feedback — is the boundary condition that determines whether ChatGPT acceptance translates into perceived self-regulated learning benefits.**
+
+In a survey of 211 Hong Kong secondary students (Grades 7–9), Mendoza, Xiong and Yan found that all five Technology Acceptance Model (TAM) components (perceived usefulness, perceived ease of use, attitude, intention to use, actual use) positively predicted self-reflection. But every one of these links was **moderated by feedback sense-making**: students with stronger feedback-processing skills reported greater self-regulatory benefits from ChatGPT use, while those with weaker skills showed minimal or even negative associations.
+
+## Design & Measures
+
+- **Sample**: 211 secondary students (Grades 7–9, ages 12–15; 51% female; 102 G7, 49 G8, 60 G9) from a government-funded Hong Kong school running AI literacy initiatives. Data collected October 2023 via online survey; nine of 220 initial respondents excluded for suspicious patterns/outliers.
+- **Acceptance**: 25-item ChatGPT Technology Acceptance instrument (adapted from Davis, 1989; reliabilities .90–.95), measuring Perceived Usefulness (PU), Perceived Ease of Use (PEOU), Attitude (ATT), Intention to Use (ITU), and Actual Use (AU).
+- **Moderator**: 4-item Making Sense of Feedback subscale from Dawson et al.'s (2024) Feedback Literacy Behaviour Scale, adapted to reference ChatGPT (α=.94) — capturing credibility assessment, decision to use, judgment of conflicting comments, and standards alignment.
+- **Outcome**: 7-item self-reflection subscale from Yan's (2018) Self-assessment Practice Scale (α=.93).
+- **Analysis**: Hierarchical multiple regression (demographics controls → main effects → interaction), Johnson-Neyman technique, and simple-slope analyses at low/moderate/high sense-making. >90% power for medium effects; VIFs <3.5.
+
+## Results
+
+### Main effects (H1 — supported)
+
+All five TAM components significantly predicted self-reflection after controlling for age, gender, and socioeconomic status:
+
+| Component | β | p |
+|-----------|-----|-----|
+| Perceived Ease of Use | .45 | <.001 |
+| Perceived Usefulness | .40 | <.001 |
+| Attitude | .39 | <.001 |
+| Intention to Use | .30 | <.001 |
+| Actual Use | .27 | <.001 |
+
+### Moderation (H2 — supported)
+
+Feedback sense-making significantly moderated each link (interactions β=.11–.20, all p<.05; full models R²=.28–.34; ΔR² from step 2 = .124–.234).
+
+- **PU & PEOU**: significant associations with self-reflection emerged only at moderate-to-high sense-making (Johnson-Neyman thresholds 3.89 and 3.55). Slopes were non-significant at low sense-making.
+- **Attitude**: the positive relationship appeared only at high sense-making (above 4.26).
+- **Intention to use**: a crossover interaction — **negative at low sense-making** (β=-.17, p=.01) but **positive at high** (β=.15, p=.02). Students with weak evaluation skills but strong intentions to use ChatGPT may be exhibiting **over-reliance** rather than strategic use.
+- **Actual use**: the interaction was significant but only for extreme-low sense-making (below 2.00, outside the observed range); within typical student capabilities there was no reliable conditional relationship.
+
+## Interpretation & Implications
+
+The authors position **feedback sense-making as a fundamental cognitive prerequisite** for productive AI engagement, arguing the "black box" nature of generative AI places unique evaluation demands on students. The crossover pattern for intention to use supports a distinction between *problematic dependency* and *strategic resource utilisation*.
+
+Practically, they recommend a **three-tier implementation framework** (universal instruction in evaluating AI credibility → scaffolded interaction for moderate-literacy students → independent use for high-literacy students) and propose a **4.2 threshold** on the Feedback Sense-Making subscale to identify which students report benefiting from ChatGPT acceptance.
+
+## Methodological Strengths & Caveats
+
+- **Strengths**: strong reliability across all scales, power analysis for regression, assumption checks, and Johnson-Neyman analyses that map where effects turn significant.
+- **Caveats**: cross-sectional design (no causal inference), self-report measures rather than observed behaviours or objective outcomes, single educational system, and data collected during the early-positive-coverage adoption period of ChatGPT.
+
+## Connected Concepts
+
+- [[ai-feedback-quality]]
+- [[self-regulated-learning]]
+- [[feedback-loop]]
+- [[formative-assessment]]
+- [[ai-literacy]]
+- [[trust-calibration]]
+- [[generative-ai]]
+- [[metacognition]]
+- [[k-12]]
+- [[over-reliance]]
+- [[feedback-literacy]]
+
+## Connected Articles
+
+- [[ai-internal-feedback-evaluative-judgments]]
+- [[learner-centered-feedback-ai]]
+- [[ai-feedback-enactment-workflow-2026]]
+- [[repeated-ai-writing-feedback-semester]]
+- [[bilingual-llm-lecture-companion-srl-2026]]
+- [[regulating-ai-tutor-adolescent-srl]]
+- [[genai-reliance-types-scale]]
+- [[genai-over-reliance-learning-2026]]
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]]
+- [[trust-reliance-ai-education-2026]]
+
+## Citation
+
+Mendoza, N. B., Xiong, Y., & Yan, Z. (2026). [Making sense of AI feedback: how students' feedback literacy moderates the link between ChatGPT acceptance and self-regulated learning](https://doi.org/10.1080/01443410.2026.2641521). *Educational Psychology*. DOI: 10.1080/01443410.2026.2641521. CC BY.
 
 ---
 
@@ -24324,6 +24683,78 @@ ASSESSMENT, R., ERA, I.T.A., a, K.I.F., Conference, F., McGee, N.J., Thille, C.,
 
 ---
 
+## [Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development](https://edtechdev.github.io/aied/articles/rethinking-ai-writing-feedback-literacy/)
+
+# Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development
+
+## Core Finding
+
+**In AI-assisted writing, the value of generative feedback depends less on its abundance than on whether students can evaluate it, calibrate their own self-judgment, and turn external support into independent revision.** Dai (2026) shows, in a 2 × 2 factorial experiment with 120 undergraduate English majors, that feedback-literacy training (a Feedback Literacy Script, FRAC) primarily improves writing quality, effective feedback uptake, and deep revision, whereas calibration training (an Assessment-Performance Calibration Activity, APCA) primarily improves self-assessment accuracy and reduces overconfidence. Combining the two produced the highest writing gains and strongest retention after AI support was withdrawn, but did not outperform APCA alone on self-assessment accuracy.
+
+## Background and Motivation
+
+Generative AI tools such as ChatGPT and Claude now deliver immediate, repeated, and abundant writing feedback across grammar, vocabulary, structure, and argumentation. This changes the learner's task: rather than merely accessing feedback, students must judge whether AI suggestions are accurate, relevant, and worth acting on. The author argues the central pedagogical challenge is no longer access but the capacity to evaluate, select, and implement feedback critically. Prior literature treated AI mainly as an input condition (AI vs. non-AI) and largely overlooked the internal processes through which students judge feedback credibility, reassess their own texts, and translate judgments into revision — a gap this study addresses with process data and a framework linking feedback use, self-assessment calibration, revision behavior, and writing improvement.
+
+## The Two Interventions
+
+FRAC is a **Feedback Literacy Script** targeting the processing of external feedback. Its four steps are Filter (identify the problem type addressed), Reason (judge validity and relevance to the task), Act (implement the feedback as a specific revision), and Check (review whether the revision achieved the intended result). APCA is an **Assessment-Performance Calibration Activity** targeting internal monitoring, organized around "self-assessment–comparison–adjustment" with four stages: Anchor (review sample texts at different quality levels), Predict (estimate one's own score and confidence), Compare (detect bias against teacher ratings), and Adjust (revise evaluation strategies across rounds). FRAC is grounded in feedback literacy research (Carless & Boud), APCA in calibration and self-regulated learning research (Panadero et al., Kostons et al.).
+
+## Results
+
+- **Writing quality gain:** Combined group highest (M = 7.92), then FRAC (6.10), APCA (4.56), regular AI (3.10). FRAC was more closely associated with writing improvement than APCA.
+- **Self-assessment accuracy:** APCA group had the lowest absolute error (M = 2.25) and lowest overconfidence rate (5.0%); baseline-adjusted models confirmed APCA's clearest effect, while FRAC did not significantly improve SAA.
+- **Effective adoption rate (EAR):** Combined (0.75) > FRAC (0.62) > APCA (0.58) > regular AI (0.45); p < 0.001.
+- **Revision depth:** Deep revision (L3+L4) rose from 28% (regular AI) to 32% (APCA), 45% (FRAC), 48% (combined).
+- **Transfer & retention:** FRAC and combined groups kept their advantage on a new topic (T2) and after AI support was removed (T3).
+
+## Implications
+
+The paper shifts attention from "whether AI can provide feedback" to "under what conditions AI feedback can genuinely support learning." It argues AI writing tools should not be treated merely as instant-feedback sources, but embedded in instructional support structures that develop independent judgment and self-regulated learning. This contributes directly to debates in the wiki about [[ai-feedback-quality]], [[feedback-loop]] design, and the role of [[metacognition]] in [[self-regulated-learning]], and it illustrates how [[formative-assessment]] in [[writing-education]] can be enhanced by training learners' [[ai-literacy]] and evaluative judgment in [[higher-ed]]. It also cautions against passive dependence on AI, echoing concerns about cognitive offloading in AI-assisted writing.
+
+## Connection to Existing Wiki
+
+- **[[ai-feedback-quality]]**: Provides causal evidence that feedback-processing training raises effective adoption and deep revision, not just feedback volume.
+- **[[feedback-loop]]**: FRAC's Filter–Reason–Act–Check sequence operationalises a structured feedback–revision loop.
+- **[[self-regulated-learning]] / [[metacognition]]**: APCA's calibration cycle is a concrete calibration-training instantiation tied to SRL monitoring and control.
+- **[[formative-assessment]]**: Links feedback uptake and self-assessment accuracy to formative writing assessment in higher education.
+- **[[writing-education]] / [[ai-literacy]]**: Evidence that AI-assisted writing outcomes depend on training learners to evaluate and act on AI feedback.
+
+## Methodological Notes
+
+Strengths include a controlled factorial design with process data (decision sheets, calibration logs), multiple outcome dimensions, baseline-adjusted SAA models, and inter-rater reliability (Cohen's κ = 0.85 EAR; 0.82 revision depth; ICC 0.92 writing score). Limitations acknowledged by the author: a sample confined to English majors at one university, the APCA group's lower raw self-assessment error at baseline, and EAR measured directly only in the FRAC and combined groups.
+
+## Connected Concepts
+
+- [[ai-feedback-quality]]
+- [[feedback-loop]]
+- [[self-regulated-learning]]
+- [[formative-assessment]]
+- [[writing-education]]
+- [[ai-literacy]]
+- [[metacognition]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[feedback-literacy]]
+
+## Connected Articles
+
+- [[learner-centered-feedback-ai]]
+- [[care-full-feedback-genai]]
+- [[ai-generated-feedback-higher-ed]]
+- [[ai-internal-feedback-evaluative-judgments]]
+- [[ai-feedback-enactment-workflow-2026]]
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]]
+- [[agency-gap-ai-writing]]
+- [[ai-feedback-critical-thinking-writing-2026]]
+- [[cognitive-offloading-llm-synthesis-writing]]
+- [[feedback-futures-genai]]
+
+## Citation
+
+Dai, Z. (2026). Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development. *Frontiers in Psychology* 17:1829268. DOI: 10.3389/fpsyg.2026.1829268. (CC BY)
+
+---
+
 ## [Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments](https://edtechdev.github.io/aied/articles/rethinking-scaffolding-llm-tutors/)
 
 > **Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. Johnson** (2026). Pluralistic Alignment Workshop @ ICML 2026
@@ -24867,6 +25298,74 @@ Results indicate pedagogical scaffolding can transform how minoritized students 
 ## Citation
 
 Wang, D., & Bian, C. (2026). [Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse in prompt engineering tasks. AIED 2026](https://arxiv.org/abs/2607.28630). arXiv:2607.28630.
+
+---
+
+## [Scaffolding Self-Regulated Feedback with GenAI vs. Human Peers for Feedback Literacy](https://edtechdev.github.io/aied/articles/scaffolding-srl-feedback-genai-human-peers/)
+
+# Scaffolding Self-Regulated Feedback with GenAI vs. Human Peers for Feedback Literacy
+
+## Core Finding
+
+**In a mixed-methods quasi-experiment, scaffolding self-regulated feedback with GenAI (ChatGPT-4o) produced a small but statistically significant improvement in first-year undergraduates' feedback literacy compared to scaffolding with human peer review (ANCOVA group effect p = 0.049, η²p = 0.03).** Gu, Chen, and Yan (2026) argue the advantage operates through self-regulated learning: GenAI supported students' goal setting, planning, critical evaluation, and immediate self-reflection across the forethought, control, and retrospect phases, while peer interaction retained distinct value for evaluative judgment — suggesting the two sources are complementary rather than competing.
+
+## The Study
+
+The study compared two parallel English classes (N = 118 first-year undergraduates in China; GenAI group n = 56, Peer group n = 62) over three self-assessment cycles across one semester. Students engaged in self-assessment activities requiring interaction with external feedback: the GenAI group used ChatGPT-4o with pre-trained rubrics and prompt guidelines, while the Peer group completed structured peer-review worksheets with a high-quality exemplar. Feedback literacy was measured with a 19-item adaptation of the Feedback Literacy Behaviour Scale (Dawson et al., 2024) targeting the receptive/processing dimensions (seek, make sense, use, manage affect), with α = 0.904. Qualitative data came from semi-structured interviews (nine students per group) analyzed thematically through Zhan et al.'s (2025) self-regulation feedback model, which frames feedback interaction across forethought, control, and retrospect phases.
+
+## Findings Across the SRL Phases
+
+- **Forethought:** GenAI students proactively designed and iteratively refined prompts aligned with their learning goals, engaging in a psychologically safe environment. Peer-group students largely selected feedback sources by social convenience (nearby peers, same-major peers, roommates), rarely had specific feedback goals, and faced interpersonal barriers and social anxiety about seeking feedback.
+- **Control:** GenAI students critically and consistently evaluated feedback accuracy and clarity, verified outputs, sometimes challenged and corrected inaccurate GenAI responses, and considered whether feedback fell within their [[zone-of-proximal-development]]. Peer evaluation was more often distorted by friendship bias and perceived peer proficiency, which could impede impartial evaluative judgment.
+- **Retrospect:** GenAI's immediate, iterative feedback enabled rapid confirmation of improvement and immediate self-reflection, helping students adjust feedback goals in subsequent cycles. Peer-group reflection was often delayed until later exams or assignments. Both groups recognized learner agency as central to effective feedback use.
+
+## Implications
+
+The authors recommend strategically integrating GenAI into [[formative-assessment]] activities to scaffold self-regulatory behaviors and foster feedback literacy, while mitigating the interpersonal (friendship, anxiety) challenges of peer review. Yet the small effect size cautions that GenAI's advantage is not transformative on its own, and teachers' scaffolding — training, prompt guidelines, worksheets — is needed to support self-regulated interaction and guard against [[cognitive-offloading]] and metacognitive laziness. Because peer feedback uniquely builds audience awareness and evaluative judgment through giving feedback, the authors propose multi-stage designs that combine GenAI (for immediate, psychologically safe processing support) with peer review (for practicing evaluative judgment), e.g., through anonymous peer feedback to mitigate friendship bias.
+
+## Connection to Existing Wiki
+
+- **[[self-regulated-learning]]**: This paper is a direct empirical test of scaffolding SRL processes to improve feedback literacy, showing how GenAI supports goal setting, planning, critical evaluation, and immediate self-reflection.
+- **[[ai-feedback-quality]]**: Provides evidence on students' evaluation of GenAI feedback accuracy and clarity, including instances of verifying and challenging AI output.
+- **[[feedback-loop]]**: GenAI's immediate, iterative feedback loop enabling rapid confirmation of improvement and self-reflection is a central mechanism.
+- **[[peer-review]]**: Offers a rigorous comparison against traditional peer review, detailing its interpersonal barriers (friendship bias, social anxiety) and unique value for evaluative judgment.
+- **[[scaffolding]] / [[formative-assessment]]**: Demonstrates concrete scaffolding tools (prompt guidelines, worksheets, training) for embedding GenAI in assessment for learning.
+
+## Methodological Notes
+
+Strengths include the mixed-methods design pairing a controlled quasi-experiment with fine-grained qualitative analysis across SRL phases. Limitations acknowledged by the authors: non-random assignment and small effect size may threaten internal validity; limited generalizability beyond the specific context; a short intervention (three cycles) that risks a novelty effect; and reliance on self-reported surveys and retrospective interviews, suggesting a need for more objective measures such as stimulated recall and learning analytics.
+
+## Connected Concepts
+
+- [[self-regulated-learning]]
+- [[ai-feedback-quality]]
+- [[feedback-loop]]
+- [[formative-assessment]]
+- [[peer-review]]
+- [[scaffolding]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[writing-education]]
+- [[higher-ed]]
+- [[feedback-literacy]]
+
+## Connected Articles
+
+- [[ai-generated-feedback-higher-ed]]
+- [[ai-peer-feedback-systems]]
+- [[care-full-feedback-genai]]
+- [[learner-centered-feedback-ai]]
+- [[chatgpt-feedback-engagement-genai]]
+- [[genai-feedback-design-multisite-experiment]]
+- [[feedback-futures-genai]]
+- [[pairr-ai-peer-review-2025]]
+- [[genai-teacher-feedback-comparison]]
+
+## Citation
+
+Gu, J., Chen, J., & Yan, Z. (2026). [Fostering feedback literacy by scaffolding self-regulated feedback: a comparative study of GenAI and human peers](https://www.frontiersin.org/articles/10.3389/feduc.2025.1736446/full). *Frontiers in Education*, 10, 1736446. DOI: 10.3389/feduc.2025.1736446. (CC BY)
 
 ---
 
@@ -28570,6 +29069,71 @@ Pitts, G., Rani, N., & Mildort, W. (2026). [Trust and Reliance on AI in Educatio
 
 ---
 
+## [Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool](https://edtechdev.github.io/aied/articles/tubino-adachi-ai-automated-feedback-literacy/)
+
+# Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool
+
+## Core Finding
+
+**Tubino and Adachi (2022) reframe AI automated feedback tools as a vehicle for developing students' feedback literacy, not merely for reducing teacher workload.** Drawing on a Deakin University-wide T&L pilot (2021) with FeedbackFruits' AI automated feedback tool across 29 units and nearly 4,000 students, they show the tool positions feedback as a student-centred activity and affords the demonstration of several dimensions of Molloy et al.'s (2020) learning-centred framework for feedback literacy. They propose making the tool student-facing and degree-wide so students decide what and when to seek feedback on, building agency and self-regulated feedback literacy without adding teacher workload.
+
+## What the Paper Does
+
+The paper reports a University-wide teaching-and-learning pilot at a large Australian university in partnership with FeedbackFruits (a Netherlands-based edtech company) through a 'DoTank' co-design innovation project. The AI automated feedback tool is a form of automated writing evaluation (AWE) focusing on micro-level text features (sentence length, punctuation, grammar, text structure), supporting the copy-editing stage of writing: the teacher sets parameters while the student uses the tool independently, receiving timely, actionable feedback without teacher involvement. The authors use the seven-dimension feedback literacy framework of Molloy et al. (2020) — committing to feedback as improvement, appreciating it as an active process, eliciting information, processing feedback information, working with emotions, acknowledging reciprocity, and enacting outcomes into learning goals — as the lens for the tool's iterative, design-based (Reeves, 2006; van den Akker, 1999) design and evaluation.
+
+## Pilot Scale and Usage
+
+- Ran across three teaching periods on **29 units**, reaching **almost 4,000 students** across undergraduate and postgraduate levels in SEBE, Arts and Education, and Business and Law faculties; 70% of students with access were undergraduates.
+- Writing tasks were diverse: theses, research and project reports, autoethnographies, essays, and reflective tasks.
+- **Usage averaged ~13% of students in undergraduate units and ~12% in postgraduate units**, with large variation in postgraduate units (none to 34%). Task nature did not appear to drive usage.
+- **Proactive, high-achieving students used the tool more**; the most common submission counts were one, two, or three, with multiple submissions often made in a single day (within ~2 minutes to 5 hours) — a proxy for students acting on and taking up feedback.
+
+## Key Findings
+
+- **Six key observations** from consultations with teachers and tool usage data: proactive high achievers use the tool more; one/two/three submissions are most common; multiple submissions often happen in a single day; students commented on feedback usefulness; students flagged errors/inaccurate feedback; and average feedback ratings were very positive.
+- **Student-centred framing:** The tool removes the judgement value and power structure from the feedback interaction, potentially making students less emotional and more critical and better placed to exercise evaluative judgement of feedback against their own work (cf. Tai et al., 2018).
+- **Feedback literacy affordances:** Use of the tool evidenced dimensions such as acknowledging feedback as a reciprocal process, processing feedback information, and acknowledging/regulating emotions. Notably, engagement (or its absence) appeared driven more by appreciation of feedback for improving writing than by students' capability to process feedback information.
+- **Not all students acted on these affordances:** Because the tool was optional, a relatively small share of students engaged, and teachers must scaffold awareness of feedback literacy dimensions and strategies for enacting them.
+
+## Implications
+
+The paper proposes reframing AI automated feedback tools from low-level outcome-feedback automation toward developing feedback literacy through academic writing. It argues that reframing will yield benefits for writing skills and learning strategies, not just drafts. Next-iteration proposals include (1) making the tool **student-facing and available across all units** so each student decides the task and writing aspects on which to seek feedback, with no teacher involvement — cultivating agency and self-regulated feedback literacy without adding workload or depending on teachers' own feedback literacy; and (2) adding **templates for three drafting stages** to guide students through the writing process, raising awareness of feedback's reciprocal nature and what an AI tool can and cannot do, fostering a student–AI partnership extendable to their teachers. This connects to debates on how [[ai-feedback-quality]] and the [[feedback-loop]] can be operationalised inside [[formative-assessment]] and [[writing-education]], and how AI tools can support [[self-regulated-learning]] and student [[agency]].
+
+## Connection to Existing Wiki
+
+- **[[feedback-loop]]**: The tool creates immediate, actionable feedback loops students can act on and re-submit against (multiple same-day submissions evidence iterative uptake).
+- **[[ai-feedback-quality]]**: Students rated feedback positively on average yet also flagged errors/inaccurate feedback, raising questions about quality and trust calibration of automated feedback.
+- **[[formative-assessment]]**: The tool is used for formative, low-stakes writing feedback rather than grading, and the authors position it within enabling learning activities.
+- **[[self-regulated-learning]] / [[agency]]**: The proposal to make the tool student-facing and degree-wide targets student self-regulation, agency, and evaluative judgement.
+- **[[higher-ed]]**: Grounded in a university-wide tertiary pilot across multiple faculties.
+- **[[teacher-role]]**: Highlights that teachers must scaffold feedback literacy dimensions and strategies — technology does not displace the teacher's design role.
+- **[[ai-literacy]]**: Building understanding of what an AI tool can and can't do is central to the proposed student–AI partnership.
+- **[[scaffolding]]**: Drafting-stage templates and teacher guidance are framed as scaffolds for feedback literacy.
+
+## Methodological Notes
+
+Strengths include a real-world, multi-faculty, large-scale pilot (~4,000 students) with authentic writing tasks and co-design with an edtech partner. Limitations acknowledged by the authors: the paper is a concise pilot report presenting preliminary insights and reflections rather than full evaluation; further detailed evaluation is required to refine the tool and the learning design surrounding AI for teaching and learning.
+
+## Connected Concepts
+
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[formative-assessment]]
+- [[self-regulated-learning]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[teacher-role]]
+- [[writing-education]]
+- [[agency]]
+- [[scaffolding]]
+
+## Citation
+
+Tubino, L., & Adachi, C. (2022). Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool. In S. Wilson, N. Arthars, D. Wardak, P. Yeoman, E. Kalman, & D.Y.T. Liu (Eds.), *Reconnecting relationships through technology: Proceedings of the 39th ASCILITE Conference* (e22039). DOI: 10.14742/apubs.2022.39. (CC BY)
+- [[feedback-literacy]]
+
+---
+
 ## [TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics](https://edtechdev.github.io/aied/articles/turtleai-visual-programming-benchmark/)
 
 > **Synthesis:** Vision-language models (VLMs) have been explored for visual programming, where they generate code to solve visual tasks. However, most prior work focuses on visual programming for productivity; it remains unclear how well current VLMs perform on education-oriented visual programming and what factors
@@ -29764,6 +30328,67 @@ Zha, S., Maulucci Bragdon, M., Gong, N., Wang, J., Leavesley, S., Eaton, R., & B
 
 ---
 
+## [Generative artificial intelligence as an enabler of student feedback engagement: a framework](https://edtechdev.github.io/aied/articles/zhan-boud-dawson-genai-feedback-engagement/)
+
+> **Synthesis:** A conceptual framework paper from feedback-literacy leaders Boud, Dawson and Yan arguing that GenAI can be an *enabler* of student feedback engagement — but only when positively aligned with students' feedback literacy. Analysing feedback across three stages (eliciting, processing, enacting), it proposes a **cyclical self-regulation feedback model** (feedback forethought → feedback control → feedback retrospect) grounded in an ecological perspective, as a pathway for students to productively engage with GenAI feedback while mitigating over-reliance and academic-integrity risks.
+
+## The framework
+
+The paper is a theoretical synthesis (deductive reasoning, four steps: literature search, analysis, adaptation, refinement) that adapts Chong's (2021) ecological framework to the GenAI context. Its core argument is ecological: GenAI affordances create *opportunities* for feedback engagement, but affordances do not guarantee engagement — students must possess the feedback literacy to perceive and act on them (van Lier's "match between the environment and agent").
+
+### GenAI as an enabler at each feedback stage
+
+- **Eliciting (seeking feedback).** GenAI is on-demand, always accessible, and less intimidating than human instructors — helpful in large classes, time-poor contexts and power-hierarchical cultures. But effectiveness hinges on **prompt quality**; vague prompts yield generic, useless output. Constraints include version/access divides (subscriptions worsen the [[digital-divide]]), English-centric training data, and data-privacy/intellectual-property concerns.
+- **Processing (making sense).** GenAI reduces cognitive barriers (immediate clarification of academic jargon) and emotional barriers (less anxiety than human interaction). But output can be hallucinated, biased or general/overlapping, so students must exercise **evaluative judgement** and emotional reflexivity rather than blindly trusting GenAI (see [[ai-feedback-quality]]).
+- **Enacting (using feedback).** GenAI enables iterative, cyclical feedback loops, self-monitoring toward self-defined goals and personalised non-judgemental suggestions. The risk is **uncritical over-reliance** and boundary confusion over what constitutes acceptable academic-integrity use.
+
+### The cyclical self-regulation feedback model
+
+Adapting Zimmerman's (2000) self-regulation phases, the proposed pathway comprises three interwoven phases that cycle continuously:
+
+1. **Feedback forethought** — setting feedback goals and planning strategically, based on learning needs and understanding of GenAI's capabilities/limitations.
+2. **Feedback control** — self-observation and self-monitoring of one's prompts and GenAI's responses, assessing prompt and information quality, and refining interaction.
+3. **Feedback retrospect** — self-reflection on the feedback received, interaction quality, strategies used and outcomes, feeding insights back into the next cycle's forethought phase.
+
+These phases are interwoven with the eliciting/processing/enacting stages of the feedback process.
+
+### The interaction of GenAI context and feedback literacy
+
+Two contrasting illustrative cases (IELTS writing with ChatGPT 3.5) ground the argument: **Student A** (low feedback literacy) used a vague prompt, received generic feedback, blindly trusted or over-copied output, and showed superficial engagement; **Student B** (high feedback literacy) used a specific, criteria-referenced prompt, exercised evaluative judgement (following up, cross-checking sources), monitored revisions and achieved deep engagement. This illustrates that feedback literacy specific to the GenAI context — including **prompt engineering**, **evaluative judgement** and **self-regulation** — must align with the GenAI environment for GenAI to be an effective enabler.
+
+## Implications for practice
+
+- **Teacher role:** help students define individual feedback goals before seeking feedback, model metacognitive planning/monitoring/evaluation strategies, and train prompt engineering and evaluative judgement.
+- **Scaffolding:** the process view enables educators to design stage-specific scaffolds (e.g., prompt templates for eliciting, evaluative-judgement tasks for processing, revision monitoring for enacting).
+- **Research agenda:** the model offers a framework for systematically investigating and monitoring feedback engagement in GenAI contexts, with future work on discipline-specific application and how engagement evolves over time.
+
+## Connected Concepts
+
+- [[feedback-loop]]
+- [[self-regulated-learning]]
+- [[ai-literacy]]
+- [[ai-feedback-quality]]
+- [[formative-assessment]]
+- [[teacher-role]]
+- [[higher-ed]]
+- [[over-reliance]]
+- [[prompt-engineering]]
+- [[feedback-literacy]]
+
+## Connected Articles
+
+- [[chatgpt-feedback-engagement-genai]] — Zhan & Yan's companion empirical study of students' ChatGPT feedback engagement and five feedback-literacy capacities in a GenAI context.
+- [[care-full-feedback-genai]] — Winstone et al.'s related position paper on feedback as "matters of care" in an age of GenAI.
+- [[genai-teacher-feedback-comparison]] — Student perceptions of the usefulness and trustworthiness of GenAI vs teacher feedback.
+- [[feedback-futures-genai]] — Complementary analysis of the limits of human and GenAI feedback capacities.
+- [[ai-internal-feedback-evaluative-judgments]] — Related work on evaluative judgement as a basis of feedback engagement.
+
+## Citation
+
+Zhan, Y., Boud, D., Dawson, P., & Yan, Z. (2025). [*Generative artificial intelligence as an enabler of student feedback engagement: a framework*](https://doi.org/10.1080/07294360.2025.2476513). Higher Education Research & Development, 44(5), 1289–1304. (CC BY-NC-ND 4.0 — license flagged: non-commercial, no-derivatives.)
+
+---
+
 ## [Designing for Authentic Assessment: A Scoping Review](https://edtechdev.github.io/aied/articles/zhan-boud-du-authentic-assessment-scoping-review-2025/)
 
 > Wiggins (1990) proposed AA as a counterbalance to standardised tests: direct examination of "student performance on worthy intellectual tasks."
@@ -30718,6 +31343,10 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 - **Discretionary feedback provision:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]] examines whether AI increases the quantity and quality of feedback instructors provide.
 
+- **Feedback literacy as the uptake-side boundary:** [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] validate an **AI Feedback Literacy (AIFL) scale** (16 items, Attitudes/Practices factors) that predicts students' actual uptake of AI feedback, and [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show feedback literacy moderates whether AI feedback improves [[self-regulated-learning]] — high literacy yields benefit, low literacy yields minimal or even negative effects. Feedback quality and feedback literacy are two sides of one system: even high-quality AI feedback is inert without a literate recipient.
+
+- **Feedback quality drives revision depth:** [[rethinking-ai-writing-feedback-literacy|Feedback literacy scripts]] and [[feedback-literacy-scripts-eap-writing|second-rater mechanisms]] show that scaffolding how students engage with AI feedback shifts revision toward argument-level improvement rather than surface edits — feedback that promotes deeper revision is higher-quality feedback.
+
 ### Quality dimensions
 
 AI feedback quality spans multiple dimensions captured in the wiki:
@@ -30745,6 +31374,8 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[higher-ed]]
 - [[teacher-role]]
 - [[confidence-aware-ai-assessment]]
+- [[feedback-literacy]]
+- [[feedback]]
 
 ## Connected Articles
 - [[coach-not-crutch-ai-writing]] — AI writing feedback outperformed human editors on practice letters (Lira et al. 2025)
@@ -30876,6 +31507,9 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[digital-divide]]
 - [[k-12-ai-education]]
 - [[tpack]]
+- [[feedback-literacy]]
+- [[feedback]]
+
 ## Connected Articles
 - [[rudolph-ai-myths-critical-higher-ed]] — A critical take on AI hype and myths in higher education (Rudolph et al. 2025)
 - [[beck-genai-literacy-economics-hands-on]] — A hands-on approach to GenAI literacy in economics (Beck & Brodersen 2025)
@@ -31072,6 +31706,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[ai-ed-evaluation]]
 - [[educational-measurement]]
 - [[llm]]
+- [[feedback]]
 
 ## Connected Articles
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM-based classroom observation against expert ratings (Melo et al. 2026)
@@ -31152,6 +31787,8 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[authentic-assessment]]
 - [[higher-ed]]
 - [[generative-ai]]
+- [[feedback]]
+- [[feedback-literacy]]
 
 ## Connected Articles
 
@@ -31224,6 +31861,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - [[higher-ed]]
 - [[generative-ai]]
 - [[ai-education]]
+- [[feedback]]
 
 ## Connected Articles
 
@@ -31269,6 +31907,7 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[llm]]
 - [[higher-ed]]
 - [[ai-ed-evaluation]]
+- [[feedback]]
 
 ## Connected Articles
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM automated classroom observation (Melo et al. 2026)
@@ -31709,6 +32348,8 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 - **The speedup illusion:** [[cognitive-offloading-speedup-illusion|Research on the speedup illusion]] demonstrates that AI-assisted work *feels* faster and easier, creating a misleading impression of productivity that masks reduced learning. Students conflate task completion speed with learning, a metacognitive blind spot.
 
 - **Learning losses from unguided AI:** [[generative-ai-guardrails-harm-learning|High school math RCTs]] show that GenAI without guardrails produces worse learning outcomes than traditional instruction. [[generative-ai-reduced-study-time-math|Reduced study time]] correlates with reduced learning — students complete tasks faster but retain less.
+
+- **Offloading is not always harmful — the "coach" boundary condition:** [[coach-not-crutch-ai-writing|Lira et al. (2025)]] show that AI can reduce practice effort *and* improve the learning environment, yielding "work less, learn more." Adults who practiced writing with an AI tool wrote better no-AI letters than those who practiced alone — even beating personalized feedback from human editors — with no illusion-of-mastery inflation. The reconciliation with the harms above is the **form of offloading**: Lira et al.'s AI *scaffolded* (surfacing examples and feedback while keeping the learner in the loop) rather than *replacing* the cognitive act. [[ai-making-us-stupid|The skills-vs-basic-abilities perspective]] converges on the same boundary: **AI that coaches preserves or boosts skill; AI that substitutes risks decay.** So offloading's effect on learning is conditional, not intrinsic.
 
 - **Critical engagement vs. offloading:** [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] frame AI tutors as either empowering (supporting active cognition) or enslaving (enabling passive offloading), connecting to [[over-reliance]] and [[critical-thinking]] research.
 
@@ -33010,6 +33651,85 @@ For faculty developers, academic leaders, and instructional designers planning A
 
 ---
 
+## [Feedback Literacy](https://edtechdev.github.io/aied/concepts/feedback-literacy/)
+
+> **Feedback literacy** — the capabilities and dispositions students need to understand, evaluate, and act on feedback to improve their learning. It is the learner-side counterpart to feedback provision: whereas [[ai-feedback-quality]] and [[feedback-loop]] concern the quality and mechanics of the feedback system, feedback literacy concerns the learner's capacity to seek, make sense of, judge, and use feedback productively.
+
+Feedback literacy matters because well-designed feedback only helps students who can interpret and act on it. A student who cannot evaluate whether AI-generated feedback is accurate, or who does not know how to turn feedback into a concrete revision, learns far less from the same feedback than a more feedback-literate peer. As AI reshapes feedback provision, feedback literacy has become a central boundary condition for whether AI feedback improves learning.
+
+### What feedback literacy is
+
+Feedback literacy is widely framed as a set of interrelated capabilities — the capacity to appreciate feedback, make judgments, manage affect, and take action (after Carless & Boud). The wiki's articles cluster feedback literacy around several capabilities:
+
+- **Seeking and eliciting feedback** — proactively requesting feedback rather than passively receiving it.
+- **Making judgments** — evaluating the accuracy and usefulness of feedback, including feedback produced by AI.
+- **Sense-making** — interpreting feedback in relation to task goals and criteria, and understanding what it implies for improvement.
+- **Managing affect** — engaging productively with feedback without being discouraged or over-inflated by it.
+- **Acting on feedback** — translating feedback into concrete revisions or changes in approach ([[feedback-loop]], [[self-regulated-learning]]).
+
+### How feedback literacy appears in the research
+
+- **Feedback literacy as a moderator of AI feedback value:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that feedback literacy moderates the link between ChatGPT acceptance and [[self-regulated-learning]]: students with stronger literacy perceive greater SRL benefit from AI feedback, while weaker-literacy students show minimal or even negative (over-reliance) effects. Feedback literacy is a boundary condition for whether students can "make sense of" AI feedback.
+
+- **Feedback literacy predicts learning from AI-assisted writing:** [[hawkins-feedback-literacy-ai-essay-writing|Hawkins et al. (2026)]] find that feedback literacy was the only significant positive predictor of essay grade in an AI-enhanced essay-writing task, while [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] develop and validate an AI Feedback Literacy (AIFL) scale and show it predicts feedback uptake.
+
+- **Frameworks for GenAI-enabled feedback engagement:** [[zhan-boud-dawson-genai-feedback-engagement|Zhan, Boud, Dawson & Yan (2025)]] (Boud and Dawson are leading feedback-literacy scholars) argue GenAI can *enable* student feedback engagement, mapping a cyclical self-regulation feedback model onto the eliciting/processing/enacting phases.
+
+- **Feedback literacy in AI-assisted writing and EAP:** [[rethinking-ai-writing-feedback-literacy|Feedback literacy scripts]] and [[feedback-literacy-scripts-eap-writing|second-rater mechanisms]] train students to engage critically with AI feedback during writing revision, shifting revision toward argument-level improvement rather than surface edits.
+
+- **Automated feedback tools for literacy development:** [[tubino-adachi-ai-automated-feedback-literacy|Tubino & Adachi (2025)]] argue AI automated feedback tools should be reframed as instruments for *developing* students' feedback literacy, not just providing more feedback.
+
+- **Peer feedback and feedback literacy:** [[irwin-muller-efl-peer-feedback-literacy|Irwin & Muller (2025)]] position GenAI within EFL peer feedback to train feedback literacy and enable uptake in speaking classes, and [[scaffolding-srl-feedback-genai-human-peers|scaffolding studies]] compare GenAI vs. human peers in fostering self-regulated feedback.
+
+- **Feedback literacy in learning analytics and GenAI dashboards:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] examine how students perceive GenAI-powered learning-analytics feedback from a feedback-literacy perspective.
+
+- **Feedback literacy as a goal of AI-literacy and assessment design:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] use a process-over-artifact assessment in which students critique ChatGPT output against a rubric to build feedback, psychological, and AI literacies together; [[learner-centered-feedback-ai|learner-centered AI feedback]] and [[care-full-feedback-genai|care-full feedback design]] link feedback quality to the learner's capacity to engage.
+
+### Why feedback literacy matters for AI in education
+
+AI changes feedback in two directions that both raise the stakes of feedback literacy. First, AI dramatically increases the *volume and immediacy* of feedback ([[ai-feedback-quality]], [[feedback-loop]]), so students confront far more feedback they must triage and evaluate. Second, AI-generated feedback carries distinct risks — inaccuracy, hallucination, and the "illusion of mastery" — that demand critical evaluation skills [[over-reliance]] [[llm-fallacy-misattribution]]. Feedback literacy therefore becomes a core component of [[ai-literacy]]: knowing not only how to prompt an AI for feedback, but how to judge whether the feedback is worth acting on and how to convert it into genuine learning rather than task completion.
+
+### Connections to related concepts
+
+Feedback literacy connects to [[ai-feedback-quality]] and [[feedback-loop]] (the provision side it complements), [[formative-assessment]] (the assessment cycle it feeds), and [[self-regulated-learning]] (the self-evaluation and adaptation it supports). It is a subset of [[ai-literacy]] when applied to AI-generated feedback, intersects with [[peer-review]] in collaborative contexts, and is particularly consequential for [[writing-education]]. It also connects to [[metacognition]] and [[trust-calibration]] — the ability to judge whether feedback is trustworthy.
+
+## Connected Concepts
+
+- [[ai-feedback-quality]]
+- [[feedback-loop]]
+- [[formative-assessment]]
+- [[self-regulated-learning]]
+- [[ai-literacy]]
+- [[peer-review]]
+- [[writing-education]]
+- [[metacognition]]
+- [[trust-calibration]]
+- [[over-reliance]]
+- [[higher-ed]]
+- [[feedback]]
+
+## Connected Articles
+
+- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → self-regulated learning (Mendoza et al. 2026)
+- [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback literacy predicts essay grade in AI-enhanced writing (Hawkins et al. 2026)
+- [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)
+- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as enabler of feedback engagement framework (Zhan, Boud, Dawson & Yan 2025)
+- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts and calibration training for AI-assisted writing (Dai 2026)
+- [[feedback-literacy-scripts-eap-writing]] — Feedback literacy scripts + second-rater in EAP writing revision (Yao 2026)
+- [[tubino-adachi-ai-automated-feedback-literacy]] — AI automated feedback tool for developing feedback literacy (Tubino & Adachi 2025)
+- [[irwin-muller-efl-peer-feedback-literacy]] — Positioning GenAI in EFL peer feedback to train feedback literacy (Irwin & Muller 2026)
+- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding self-regulated feedback: GenAI vs. human peers (Gu, Chen & Yan 2026)
+- [[jin-genai-learning-analytics-feedback-literacy]] — GenAI learning analytics in feedback, feedback literacy perspective (Jin et al. 2025)
+- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI assessment builds psychological, feedback, and AI literacies (Richmond & Nicholls 2025)
+- [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback
+- [[care-full-feedback-genai]] — Care-full feedback design with GenAI
+- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
+- [[feedback-futures-genai]] — Feedback futures with GenAI
+- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
+- [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
+
+---
+
 ## [Feedback Loop](https://edtechdev.github.io/aied/concepts/feedback-loop/)
 
 > **Feedback loop** — the cyclical process where AI systems assess student work, deliver feedback, observe the student's response, and adapt subsequent instruction. Effective feedback loops close the gap between current and desired performance.
@@ -33047,6 +33767,8 @@ Feedback loops connect to [[formative-assessment]] (the assessment philosophy th
 - [[metacognition]]
 - [[student-experience]]
 - [[personalized-learning]]
+- [[feedback-literacy]]
+- [[feedback]]
 
 ## Connected Articles
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: curriculum-grounded feedback with educator oversight (Zhao et al. 2025)
@@ -33058,6 +33780,77 @@ Feedback loops connect to [[formative-assessment]] (the assessment philosophy th
 - [[ai-peer-feedback-systems]]
 - [[automated-formative-assessments-a-level-sciences]]
 - [[ai-feedback-enactment-workflow-2026]]
+
+---
+
+## [Feedback](https://edtechdev.github.io/aied/concepts/feedback/)
+
+> **Feedback** — information provided to a learner about their performance or understanding that is intended to close the gap between current and desired performance. In AI in education, feedback has become a central and rapidly transforming theme: AI systems now generate, deliver, and even teach students how to use feedback, reshaping every stage of the feedback process.
+
+This is the umbrella concept for the wiki's feedback-related ideas. Feedback sits at the intersection of assessment and learning: without feedback, assessment measures performance but does not improve it; with effective feedback, assessment becomes a learning event. The wiki treats feedback as a **system** with multiple facets — the quality of the feedback itself ([[ai-feedback-quality]]), the mechanism through which it closes the learning gap ([[feedback-loop]]), the learner's capacity to use it ([[feedback-literacy]]), and the assessment contexts in which it operates ([[formative-assessment]], [[peer-review]], [[automated-assessment]]).
+
+### The feedback system
+
+Feedback is best understood not as a single event but as a connected system of interacting parts, each of which the wiki documents as its own concept:
+
+- **[[feedback-loop]]** — the mechanism through which feedback closes the gap between current and desired performance; the cycle of performance → feedback → revision → improved performance that drives learning.
+- **[[ai-feedback-quality]]** — the accuracy, usefulness, timeliness, and pedagogical value of feedback generated by AI; the provision side of the system.
+- **[[feedback-literacy]]** — the capabilities and dispositions students need to understand, evaluate, and act on feedback; the uptake side of the system.
+- **[[formative-assessment]]** — the assessment context in which feedback is used to improve learning while it is still in progress, rather than merely to judge it.
+- **[[peer-review]]** — feedback exchanged between learners, increasingly augmented by AI and a site for developing feedback literacy.
+- **[[automated-assessment]]** — AI-driven scoring and feedback, from automated essay scoring to confidence-aware short-answer grading.
+
+### How AI transforms feedback
+
+AI changes feedback in three consequential directions, each raising the stakes of the other facets:
+
+- **Volume and immediacy.** AI can generate feedback instantly and at scale, dramatically increasing how much feedback students receive. [[genai-feedback-design-multisite-experiment|Multi-site GenAI feedback studies]] and [[ai-generated-feedback-higher-ed|AI feedback in higher education]] document AI feedback experienced as comparable to teacher feedback in acceptability and supportiveness.
+- **Evaluation demands on the learner.** Because AI feedback can be inaccurate or hallucinated, students must judge whether to trust and act on it. This is where [[feedback-literacy]] and [[trust-calibration]] become decisive: [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that only feedback-literate students convert AI feedback into [[self-regulated-learning]] gains, while [[llm-fallacy-misattribution|the LLM fallacy]] captures how students may over-credit AI feedback to their own competence.
+- **Feedback literacy as a training goal.** Rather than only providing feedback, AI tools are increasingly designed to *teach* students to use feedback — [[tubino-adachi-ai-automated-feedback-literacy|reframing automated feedback tools as literacy-building instruments]], [[zhan-boud-dawson-genai-feedback-engagement|framing GenAI as an enabler of feedback engagement]], and [[richmond-nicholls-genai-psych-feedback-ai-literacies|using GenAI critique tasks to build psychological, feedback, and AI literacies together]].
+
+### The provision-uptake pairing
+
+The wiki's core feedback insight is that **feedback quality and feedback literacy are two sides of one system**: high-quality feedback is inert without a literate recipient, and a literate student gains little from poor feedback. [[ai-feedback-quality]] covers the provision side (is the feedback accurate, timely, actionable?), while [[feedback-literacy]] covers the uptake side (can the student judge and act on it?). The [[feedback-loop]] is what connects them — the mechanism by which quality feedback, received by a literate learner, closes the gap. Designing effective AI feedback therefore means designing both the system and the student.
+
+### Why feedback matters for AI in education
+
+Feedback is one of the most consequential and best-evidenced mechanisms in education, and AI both amplifies and complicates it. Well-architected AI feedback can match or exceed human feedback and scale across cohorts, but it demands new learner capabilities ([[feedback-literacy]], [[ai-literacy]]) and carries risks (uncritical acceptance, over-reliance). As AI-generated feedback becomes ubiquitous, the wiki frames feedback as a whole system — quality, loop, literacy, and assessment context working together — rather than as any single component.
+
+## Connected Concepts
+
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[feedback-literacy]]
+- [[formative-assessment]]
+- [[peer-review]]
+- [[automated-assessment]]
+- [[assessment]]
+- [[authentic-assessment]]
+- [[assessment-validity]]
+- [[self-regulated-learning]]
+- [[ai-literacy]]
+- [[writing-education]]
+
+## Connected Articles
+
+- [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)
+- [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as enabler of student feedback engagement (Zhan, Boud, Dawson & Yan 2025)
+- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → SRL (Mendoza et al. 2026)
+- [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback literacy predicts essay grade in AI writing (Hawkins et al. 2026)
+- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts for AI-assisted writing (Dai 2026)
+- [[feedback-literacy-scripts-eap-writing]] — Feedback literacy scripts + second-rater in EAP writing (Yao 2026)
+- [[jin-genai-learning-analytics-feedback-literacy]] — GenAI learning analytics in feedback (Jin et al. 2025)
+- [[tubino-adachi-ai-automated-feedback-literacy]] — AI automated feedback tool for feedback literacy (Tubino & Adachi 2025)
+- [[irwin-muller-efl-peer-feedback-literacy]] — GenAI in EFL peer feedback for feedback literacy (Irwin & Muller 2026)
+- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding self-regulated feedback: GenAI vs. human peers (Gu, Chen & Yan 2026)
+- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
+- [[care-full-feedback-genai]] — Care-full feedback design with GenAI
+- [[feedback-futures-genai]] — Feedback futures with GenAI
+- [[learner-centered-feedback-ai]] — Learner-centered AI feedback practices
+- [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
+- [[genai-feedback-design-multisite-experiment]] — Multi-site GenAI feedback design
+- [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
+- [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — GenAI assessment builds psychological, feedback, and AI literacies
 
 ---
 
@@ -33144,6 +33937,8 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[over-reliance]]
 - [[privacy]]
 - [[ai-education]]
+- [[feedback-literacy]]
+- [[feedback]]
 
 ## Connected Articles
 
@@ -35302,6 +36097,8 @@ Peer review connects to [[writing-education]] and [[formative-assessment]] as a 
 - [[student-experience]]
 - [[collaborative-learning]]
 - [[academic-integrity]]
+- [[feedback-literacy]]
+- [[feedback]]
 
 ## Connected Articles
 
@@ -36305,6 +37102,9 @@ For example:
 - [[higher-ed]]
 - [[generative-ai]]
 - [[authentic-assessment]]
+- [[feedback-literacy]]
+- [[feedback]]
+
 ## Connected Articles
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
@@ -37470,6 +38270,8 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[peer-review]]
 - [[self-regulated-learning]]
 - [[student-experience]]
+- [[feedback-literacy]]
+- [[feedback]]
 
 ## Connected Articles
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)

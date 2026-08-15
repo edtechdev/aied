@@ -23,7 +23,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Assessment, evaluation, and measurement',
     blurb: 'AI transforms both how we assess learners and how we evaluate AI systems themselves.',
     groups: [
-      { label: 'Assessment', items: ['assessment', 'formative-assessment', 'authentic-assessment', 'automated-assessment', 'automated-grading', 'automated-essay-scoring', 'automated-question-generation', 'assessment-validity', 'confidence-aware-ai-assessment', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'plagiarism-detection', 'academic-integrity', 'ai-feedback-quality', 'peer-review'] },
+      { label: 'Assessment', items: ['assessment', 'feedback', 'feedback-literacy', 'formative-assessment', 'authentic-assessment', 'automated-assessment', 'automated-grading', 'automated-essay-scoring', 'automated-question-generation', 'assessment-validity', 'confidence-aware-ai-assessment', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'plagiarism-detection', 'academic-integrity', 'ai-feedback-quality', 'peer-review'] },
       { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark', 'research-methods-aied', 'limitations-in-aied-research', 'rct', 'learning-gains', 'meta-analysis-systematic-review'] },
     ],
   },

@@ -1,7 +1,7 @@
 ---
 title: Peer Review
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [writing-education, formative-assessment, ai-feedback-quality, student-experience, collaboration, self-regulated-learning, metacognition]
 confidence: high
@@ -40,6 +40,8 @@ Peer review connects to [[writing-education]] and [[formative-assessment]] as a 
 - [[student-experience]]
 - [[collaborative-learning]]
 - [[academic-integrity]]
+- [[feedback-literacy]]
+- [[feedback]]
 
 ## Connected Articles
 
