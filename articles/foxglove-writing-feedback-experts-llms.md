@@ -23,8 +23,6 @@ This work directly informs the design of [[formative-assessment|AI writing feedb
 - [[higher-ed]]
 ## Connected Articles
 
-
-
 - [[repeated-ai-writing-feedback-semester]] — Student Evaluation of Repeated AI Feedback Across a Semester of Writing
 - [[icle-plus-plus-essay-scoring]] — ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

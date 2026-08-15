@@ -36,7 +36,6 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 - [[ethics]]
 - [[teacher-ai-competency]]
 
-
 ## Connected Articles
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]

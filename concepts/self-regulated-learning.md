@@ -81,6 +81,7 @@ For example:
 - [[generative-ai]]
 - [[authentic-assessment]]
 ## Connected Articles
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
 - [[ai-guided-learning-audiovideo-2026]]

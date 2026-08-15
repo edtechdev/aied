@@ -10,7 +10,6 @@ confidence: high
 
 > Examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian secondary students (Years 7, 8, 10; N=199) from two co-educational government schools after a one-day AI literacy workshop. Male students reported higher STEM career interest; female students were more likely to use AI for schoolwork and seek AI advice. Males were more likely to have created deepfake content. Both genders improved post-intervention, but females showed richer gains: wider conceptual understanding, greater confidence, and increased AI/CS career interest partially narrowing the gender gap.
 
-
 - Single-day AI literacy workshops partially narrow gender STEM gaps; males need targeted deepfake safety education.
 
 ## Key Findings
@@ -41,8 +40,6 @@ For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive
 - [[k-12]]
 
 ## Connected Articles
-
-
 
 - [[epistemic-proactivity-math]] — From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning

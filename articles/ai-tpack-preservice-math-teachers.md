@@ -48,7 +48,6 @@ The study is cross-sectional and based entirely on self-report, so structural pa
 - [[teacher-control-ai-generation-math-visuals]]
 - [[genai-runaway-object-math-higher-ed]]
 
-
 ## Citation
 
 Mosia, M., Nannim, F. A., & Egara, F. (2026). [*AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study*](https://doi.org/10.1016/j.caeai.2026.100650).

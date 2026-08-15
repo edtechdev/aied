@@ -26,8 +26,6 @@ The findings have implications for [[teacher-role|faculty development]] and [[ed
 - [[ai-literacy]]
 ## Connected Articles
 
-
-
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows

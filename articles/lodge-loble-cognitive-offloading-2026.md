@@ -12,7 +12,6 @@ confidence: high
 
 This report from the Australian Network for Quality Digital Education investigates the risk that students — especially novice learners — will outsource too much cognitive work to AI, short-circuiting the mental effort required for deep, sustainable learning. Drawing on cognitive load theory and the science of learning, Lodge and Loble distinguish beneficial cognitive offloading (freeing capacity for higher-order thinking) from detrimental outsourcing (bypassing "desirable difficulties" that build durable knowledge). They identify a **performance paradox** where AI makes tasks feel easy but undermines learning, a **metacognitive laziness** that creates an illusion of competence, and a new **metacognitive equity gap** where already-advantaged students are better positioned to leverage AI effectively. The report proposes pedagogical strategies for moving from cognitive atrophy to cognitive augmentation.
 
-
 - **Beneficial vs. detrimental offloading:** Offloading lower-order tasks can free cognitive capacity, but outsourcing the struggle of learning itself prevents knowledge consolidation
 - **Performance paradox:** AI-assisted tasks feel fluent but produce "false mastery" — students perform well in the moment but retain less
 - **Bypassing desirable difficulties:** The friction that makes learning hard (retrieval, elaboration, generation) is precisely what AI eliminates

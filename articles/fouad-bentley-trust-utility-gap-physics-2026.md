@@ -12,7 +12,6 @@ confidence: high
 
 A mixed-methods survey of 81 introductory physics undergraduates reveals a 50-point trust-utility gap: 91% [95% CI: 83%–96%] use AI for physics coursework, but only 41% [95% CI: 30%–52%] trust AI-generated physics explanations. Thematic analysis identified eight themes; the most distinctive finding was that 40% of qualitative respondents spontaneously articulated where AI fails — visual-spatial reasoning, circuit analysis, and abstract physical reasoning — aligning with known benchmarks. Students show domain-calibrated skepticism rather than uncritical adoption, and 65% prefer optional AI integration.
 
-
 - 91% use AI for physics, only 41% trust it — 50-point trust-utility gap
 - Students show domain-specific skepticism, not naive acceptance
 - 40% spontaneously identified AI failure modes: visual-spatial reasoning, circuits, abstract physics
@@ -33,7 +32,6 @@ A mixed-methods survey of 81 introductory physics undergraduates reveals a 50-po
 - [[becker-chatgpt-typology-physics-2026]]
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[socratic-ai-physics-tutor-taxonomy-2026]]
-
 
 ## Citation
 

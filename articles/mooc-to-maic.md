@@ -50,8 +50,6 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 - [[intelligent-tutoring]]
 ## Connected Articles
 
-
-
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education

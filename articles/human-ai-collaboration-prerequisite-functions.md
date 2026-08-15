@@ -10,7 +10,6 @@ confidence: high
 
 > Asks what is gained and lost when 'collaboration' is applied freely to human-AI interaction. Argues true collaboration requires symmetric/negotiated relationship, shared goals, low and shifting division of labor, interactive exchange, and mutual modeling. Introduces a 5-level diagnostic taxonomy: Transactional, Situational, Operational, Praxical, and Synergistic. Only Synergistic satisfies full collaborative conditions. Most current human-AI interaction is consultation, governance, delegation, or instruction.
 
-
 - Introduces a 5-level taxonomy of human-AI teaming; most current AI interaction is consultation/delegation, not true collaboration.
 
 ## Key Findings
@@ -41,8 +40,6 @@ For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapt
 - [[pedagogical-llm-training]]
 
 ## Connected Articles
-
-
 
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI

@@ -12,7 +12,6 @@ confidence: medium
 
 As computation becomes more central to physics education, scalable methods to assess authentic computational thinking (CT) are critically needed. This study establishes a human-coded baseline grounded in CT literature, identifies significant pre/post growth in Data Practices and Computational Problem-Solving Practices, and demonstrates that an LLM can mirror human evaluations — scaling CT assessment across large datasets. Notably, both human raters and the LLM struggled with more complex constructs like Systems Thinking, revealing the limits of current automated approaches.
 
-
 - LLMs successfully mirrored human coding for Data Practices and Computational Problem-Solving Practices
 - Both human raters and LLMs struggled with Systems Thinking — revealing construct complexity
 - The approach scales CT assessment to large-enrollment physics courses where manual coding is infeasible
@@ -30,7 +29,6 @@ As computation becomes more central to physics education, scalable methods to as
 
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[ai-scoring-language-bias-physics]]
-
 
 ## Citation
 

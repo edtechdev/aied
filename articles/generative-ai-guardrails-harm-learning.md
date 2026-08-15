@@ -12,7 +12,6 @@ This landmark field experiment is among the first randomized controlled trials t
 
 The core finding: access to generative AI sharply improves **performance** during practice but, without guardrails, **degrades learning** once the tool is removed — a tradeoff driven by students using the AI as a "crutch" to copy answers rather than to learn.
 
-
 ### Performance vs. Learning Tradeoff (intention-to-treat)
 Relative to control (practice mean 0.284; exam mean 0.321, normalized grades):
 

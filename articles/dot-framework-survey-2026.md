@@ -45,7 +45,6 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 
 ## Connected Concepts
 
-
 - [[ai-literacy]]
 - [[design-thinking]]
 - [[ai-ed-evaluation]]
@@ -55,7 +54,6 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 - [[human-ai-collaboration]]
 
 ## Connected Articles
-
 
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[white-wu-robotics-ai-education-2026]] — Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions

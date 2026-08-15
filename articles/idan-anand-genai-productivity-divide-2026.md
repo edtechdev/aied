@@ -12,7 +12,6 @@ confidence: high
 
 This randomized controlled experiment assigned participants — analogs of early-career knowledge workers — to self-study a technical domain using either traditional resources or LLM assistance. On average, GenAI significantly increased task performance, but the distribution was highly skewed: the top quartile of users captured most of the gains while the bottom quartile saw negligible or negative returns. Critically, performance was not predicted by GPA or prior domain knowledge, but by **AI Interaction Competence (AIC)** — the ability to elicit, filter, and verify model outputs. A conceptual-map scaffolding intervention reduced outcome variance, suggesting that organizations can mitigate AI-mediated inequality through structured workflows.
 
-
 - GenAI increased mean task performance, but gains concentrated among high-AIC users
 - GPA and prior knowledge did NOT predict GenAI-augmented performance — AIC did
 - Low-AIC participants saw limited or even negative marginal returns from GenAI
@@ -31,8 +30,6 @@ This randomized controlled experiment assigned participants — analogs of early
 - [[bias-mitigation]]
 
 ## Connected Articles
-
-
 
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
 - [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading

@@ -17,7 +17,6 @@ The Adaptive Virtual Patient (AVP) is an LLM-driven simulated patient for psycho
 - [[intelligent-tutoring]]
 ## Connected Articles
 
-
 - [[edumirror-educational-social-dynamics]] — EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation
 - [[bridging-instructional-design-framework-math]] — WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators
 - [[genai-academic-search-workshop]] — Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)

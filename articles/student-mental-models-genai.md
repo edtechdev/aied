@@ -23,8 +23,6 @@ The work connects to broader debates on [[ai-literacy]] and [[student-experience
 - [[higher-ed]]
 ## Connected Articles
 
-
-
 - [[buggy-genai-code-student-responses]] — When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code
 - [[code-review-genai-cs1]] — Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs

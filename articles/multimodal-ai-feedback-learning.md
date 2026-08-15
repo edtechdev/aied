@@ -86,8 +86,6 @@ This is a strong result for AI feedback systems:
 
 ## Connected Articles
 
-
-
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
 - [[llm-sentiment-analysis-education-research]] — LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions

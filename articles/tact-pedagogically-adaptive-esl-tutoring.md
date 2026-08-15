@@ -60,8 +60,6 @@ TACT advances the state of [[ai-tutoring|AI tutoring]] by grounding LLM training
 - [[pedagogical-safety]]
 ## Connected Articles
 
-
-
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
 - [[llm-educational-simulation-adhd]] — LLM-Based Educational Simulation: Evaluating Temporal Student Persona Stability Across ADHD Profiles
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring

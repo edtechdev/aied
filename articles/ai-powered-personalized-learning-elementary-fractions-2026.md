@@ -24,7 +24,6 @@ Examines AI-powered personalized learning in elementary fraction instruction thr
 - [[epistemic-proactivity-math]]
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 
-
 ## Citation
 
 Kenneth Holman (2024). [Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning](https://arxiv.org/abs/2608.04892). arXiv:2608.04892. PhD dissertation, University of Central Florida.

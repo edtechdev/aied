@@ -46,8 +46,6 @@ The findings are limited to the Algebra I context in which unlearning was applie
 
 ## Connected Articles
 
-
-
 - [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
 - [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms

@@ -23,8 +23,6 @@ Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and
 - [[teacher-role]]
 ## Connected Articles
 
-
-
 - [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
 - [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
 - [[q-learning-lab-rl-teaching]] — Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis

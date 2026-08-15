@@ -25,7 +25,6 @@ Abdelghani, Kaiser & Murayama (2026) trace how middle and high school students' 
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 
-
 ## Citation
 
 Rania Abdelghani, Peter Kaiser, Kou Murayama (2026). [From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning](https://arxiv.org/abs/2606.28472). arXiv:2606.28472. cs.CY.

@@ -23,8 +23,6 @@ This work connects to core wiki themes: [[ai-literacy]] [[higher-ed]] [[over-rel
 - [[faculty-development]]
 ## Connected Articles
 
-
-
 - [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
 - [[ai-making-us-stupid]] — Is AI making us stupid?
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development

@@ -38,7 +38,6 @@ Social robots connect to [[human-robot-interaction]], [[educational-robotics]], 
 
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Pepper in Formal Education: A Scoping Review
 
-
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
