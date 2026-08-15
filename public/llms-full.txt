@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 620 articles and 134 concepts.
+> Complete text of 623 articles and 134 concepts.
 
 # Articles
 
@@ -6381,6 +6381,58 @@ Geger, T., Briechle, D., & Rausch, A. (2026). *Bots and blocks: Presenting a pro
 
 ---
 
+## [The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning](https://edtechdev.github.io/aied/articles/brcic-effortless-trap-productive-struggle-2026/)
+
+# The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning
+
+## Summary
+
+Brcic & Frljic (2026) argue that the "allow or ban AI" framing is a false dichotomy; the relevant design question is **placement**. Used well, AI scales feedback, examples, practice, and individualized support; used poorly, it replaces the cognitive work learning requires and leaves an "illusion of learning" — a confident sense of mastery that collapses on the unaided task. The strongest causal evidence shows the outcome flips on design: an unguarded AI helper left high-school students ~17% worse on an unaided exam than peers with no tool, while the same model rebuilt to withhold answers erased the harm, and a well-engineered tutor roughly doubled learning. The authors give educators a graspable six-move frame (Prime, Probe, Point, Attach, Strengthen, Test) for placing the tool, with a one-line diagnostic: *if letting AI in makes the task feel effortless, it is in the wrong place.*
+
+## Key Findings
+
+- **Placement, not allow-or-ban, is the design question:** AI belongs wherever it increases feedback, practice density, or realism without obscuring evidence that the student can think and perform unaided.
+- **Causal evidence flips on design:** unguarded AI helper → ~17% worse on an unaided exam; same model withholding answers → harm erased; well-engineered tutor → roughly doubled learning.
+- **The six moves** (Prime, Probe, Point, Attach, Strengthen, Test) model how one idea takes root, unifying productive-failure/problem-before-instruction, worked-example, Socratic/cognitive-apprenticeship, deliberate-practice, and retrieval/self-explanation literatures.
+- **Protected moments:** Probe (first hard attempt) and Test (final unaided check) are AI-out; Point/Attach/Strengthen allow guarded AI (hints, examples, practice); Prime is low-risk.
+- **Diagnostic:** "If letting AI in makes the task feel effortless, it is in the wrong place" — but effort on the skill itself matters; AI should clear away the busywork that is not the skill (looking up, formatting, dead ends).
+- **Placement as governance:** an AI-use policy becomes a per-skill design principle rather than a blanket prohibition list; the secured final check is the load-bearing point for grade and credential integrity.
+
+## Implications
+
+- Gives educators a concrete framework for lesson/course redesign grounded in cognitive-load and expertise-reversal theory (scaffolds must fade as skill grows).
+- Shifts institutional AI policy from "allow or ban" to a defensible per-skill placement rule.
+- Reinforces that unguarded AI which makes tasks effortless produces an illusion of learning that collapses on unaided tests.
+
+## Connected Concepts
+
+- [[cognitive-load-theory]]
+- [[desirable-difficulties]]
+- [[over-reliance]]
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
+- [[scaffolding]]
+- [[socratic-method]]
+- [[self-efficacy]]
+- [[learning-gains]]
+- [[transfer-of-learning]]
+- [[k-12]]
+- [[reducing-ai-misuse]]
+
+## Connected Articles
+
+- [[efficiency-gain-illusion-ai-overreliance]] — Efficiency gain illusion and AI over-reliance
+- [[ai-making-us-stupid]] — Is AI making us stupid?
+- [[generative-ai-reduced-study-time-math]] — Generative AI reduced study time in math
+- [[genai-performance-vs-learning]] — GenAI performance vs. learning
+- [[cognitive-offloading-speedup-illusion]] — The cognitive offloading speedup illusion
+
+## Citation
+
+Brcic, M., & Frljic, S. (2026). [*The effortless trap: Productive struggle, AI, and the illusion of learning*](https://arxiv.org/abs/2606.26181). arXiv:2606.26181.
+
+---
+
 ## [WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators](https://edtechdev.github.io/aied/articles/bridging-instructional-design-framework-math/)
 
 Castillo Ventura et al. (2026) address the gap between instructional design of digital mathematics resources and their pedagogical use in classrooms. Their work-in-progress framework translates learning theory principles into observable pedagogical variables structured as metadata, enabling teacher-support systems to characterize digital resources for mathematics education. Drawing on a literature review documenting limited operationalization of learning theories in educational technology, the authors propose a multidimensional structure and focus on one dimension — the conceptual structure of content — showing how prior knowledge, representation, and conceptual construction can be represented as metadata. While early-stage (work-in-progress), this framework has potential relevance for designing [[teacher-role]]-centered tools in [[stem-education]] and for integrating [[ai-literacy]] considerations into digital resource selection.
@@ -7397,34 +7449,15 @@ Civic education is a uniquely high-stakes domain for AI application because:
 ## Connected Articles
 
 - [[educational-llm-alignment]] — Educational LLM Alignment
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
 - [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
-- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
-- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
-- [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students
+- [[llm-cultural-relevance-k12]] — LLM cultural relevance in K-12
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
-- [[llm-cultural-relevance-k12]]
+- [[prompt-based-programming-lesson]] — Prompt-based programming lessons
+
 ## Citation
 
-(2025), A.T.T.M.R.X.C.P.K., 25(3), J.C.I.I.T.A.T.E., Name].", I.A.H.I.L.F., |, B.L.T.A.O., levels, O.A.A.A.R.U.O.A., & |, B.L.T. (2026). [AI-Generated Lesson Plans in Civic Education](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/)
+Trust, T., Maloy, R., Xu, C., & Pelletier, K. (2025). Civic education in the age of AI: Should we trust AI-generated lesson plans? [*Contemporary Issues in Technology and Teacher Education*, 25(3)](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/).
 
 ---
 
@@ -10043,6 +10076,52 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 ## Citation
 
 Gibson, D., Azukas, M. E., & Knezek, G. (2026). [*Practitioner beliefs and behaviors in AI-enhanced education: DOT framework survey evidence*](https://arxiv.org/abs/2605.29041). arXiv:2605.29041.
+
+---
+
+## [The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors](https://edtechdev.github.io/aied/articles/drawedumath-vlm-struggling-students-2026/)
+
+# The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors
+
+## Summary
+
+Lucy et al. (2026) provide a year-long snapshot of how **11 vision-language models (VLMs)** perform on **DrawEduMath**, a QA benchmark built on real students' handwritten, hand-drawn responses to math problems (drawn largely from Title I / low-income schools via the ASSISTments platform). Their central finding is that model weaknesses concentrate on the core of math education: **student error**. All evaluated VLMs underperform when describing work from students who need more pedagogical help, and across all question types they struggle most on questions that require assessing whether the student's work is correct. This holds across text and image inputs, and across open-ended and binary question forms.
+
+## Key Findings
+
+- **Error content is harder than correct content (F1):** all 11 VLMs are worse at describing student work containing math errors than work without errors.
+- **Assessing student correctness is hardest (F2):** across all QA, models struggle most on questions about whether the student response is correct — exactly where identifying "this student needs support" lives.
+- **Gap persists and is hard to remove:** the performance gap on erroneous work persists when controlling for problem, and is only reduced (not eliminated) by adding image input. VLMs expect mathematically "clean" inputs; wrongly predicted answers for erroneous work resemble gold answers for correct work.
+- **Consistent across input and question types:** the pattern appears with both text and image inputs and with both open-ended and binary question forms.
+- **Equity risk:** ~85% of DrawEduMath images come from Title I schools (low-income), and model weaknesses concentrate on students who need the most help — so rushed integration risks widening achievement gaps.
+
+## Implications
+
+- VLM training/evaluation pipelines that favor correct mathematical content conflict with education's need to emphasize incorrect work.
+- AI-in-education evaluation should be **disaggregated** to check whether models can (a) discern when a student needs pedagogical support and (b) serve students equitably across proficiency levels.
+- Without careful attention, model capabilities may be overstated and hasty classroom integration could exacerbate existing academic-achievement gaps.
+
+## Connected Concepts
+
+- [[math-education]]
+- [[multimodal]]
+- [[student-misconceptions-ai]]
+- [[ai-ed-evaluation]]
+- [[educational-measurement]]
+- [[assessment-validity]]
+- [[k-12]]
+- [[llm]]
+- [[educational-nlp]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[educational-vlm-evaluation]] — Educational VLM evaluation
+- [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking LLMs for diagnosing students' cognitive skills from handwritten math
+
+## Citation
+
+Lucy, L., Zhang, A., Anderson, N., Knight, R., & Lo, K. (2026). [*The aftermath of DrawEduMath: Vision language models underperform with struggling students and misdiagnose errors*](https://arxiv.org/abs/2603.00925). arXiv:2603.00925.
 
 ---
 
@@ -14952,9 +15031,9 @@ Xu, R., Barasa, K., Kumal, M., Liu, X., Zhou, W., & Qian, X. (2026). [*Agentic A
 
 ---
 
-## [Collaborative AI Literacy Framework](https://edtechdev.github.io/aied/articles/hingle-collaborative-ai-literacy-2025/)
+## [Systematic Review of Collaborative Learning Activities for Promoting AI Literacy](https://edtechdev.github.io/aied/articles/hingle-collaborative-ai-literacy-2025/)
 
-> **Collaborative AI Literacy Framework** — SEFI 2025. A systematic review of 9 studies (2015–2023) examining how collaborative learning (CL) approaches can be harnessed to build AI literacy across diverse educational contexts. Using the ICAP framework (Interactive–Constructive–Active–Passive) as an analytical lens, the review demonstrates that CL effectively increases AI literacy across activities, settings, and learner groups. Most studies were conducted in classroom settings, with some broadening participation through educators, families, or AI agents supporting teamwork. Instructional activities spanned all four ICAP modes, revealing a rich design space for collaborative AI literacy interventions.
+> **Systematic review of collaborative learning for AI literacy** — SEFI 2025. A systematic review of 9 studies (2015–2023) examining how collaborative learning (CL) approaches can be harnessed to build AI literacy across diverse educational contexts. Using the ICAP framework (Interactive–Constructive–Active–Passive) as an analytical lens, the review demonstrates that CL effectively increases AI literacy across activities, settings, and learner groups.
 
 ## Key Findings
 
@@ -14992,34 +15071,16 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 
 ## Connected Articles
 
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
-- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
+- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
-- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
-- [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis
-- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation...
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
+- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults
+- [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders
+
 ## Citation
 
-Hingle, A., & Johri, A. (2025). [Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1). arXiv:2508.15111.
+Hingle, A., & Johri, A. (2025). [*Systematic review of collaborative learning activities for promoting AI literacy*](https://arxiv.org/abs/2508.15111v1). arXiv:2508.15111.
 
 ---
 
@@ -29048,6 +29109,58 @@ Xie, Y., Yang, W., Zhang, B., Li, Z., Wang, L., Yang, M., & Gao, Y. (2026). [*Hi
 
 ---
 
+## [Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most](https://edtechdev.github.io/aied/articles/yasir-llm-tutoring-agents-2026/)
+
+# Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
+
+## Summary
+
+Yasir et al. (2026) benchmark seven LLM feedback agents as step-level tutors in propositional logic, using **knowledge-graph-derived ground truth** across 10,836 solution–feedback pairs and three feedback conditions. Their core finding: models achieve near-ceiling performance on optimal steps but **systematically over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions** — precisely where adaptive tutoring matters most. These failures persist across models and solution contexts (suggesting architectural rather than informational limits), and accurate diagnosis does not reliably produce pedagogically actionable feedback. The authors conclude LLMs are better suited to hybrid architectures where KG-grounded models handle diagnosis while LLMs support open-ended scaffolding and dialogue.
+
+**License note:** open access under **CC BY-NC-ND 4.0** (non-commercial, no-derivatives). Summary only; full text not redistributed.
+
+## Key Findings
+
+- **Near-ceiling on optimal steps, failures elsewhere:** models classified optimal solutions well (F1 94–99%) but struggled on valid-alternative solutions (F1 0–76%) and incorrect solutions (F1 4–55%).
+- **Over-rejection and over-validation (OR/OV):** Gemini/DeepSeek over-validated (69–71%), treating most solutions as valid alternatives; LLaMA 3 over-rejected (91%), rejecting nearly all non-optimal solutions; GPT-4.1/GPT-o3 showed moderate rates of both.
+- **Model-level, not information-level, failures:** model selection explained most variance (η² > 0.95); feedback conditions, step complexity, distance-to-goal, and inference rule had negligible effects. Failures persisted regardless of solution context.
+- **Accurate diagnosis ≠ pedagogically useful feedback:** even correct classifications often produced encouraging but pedagogically misleading feedback — praising solutions without identifying errors or giving actionable guidance, especially for incorrect and valid-alternative solutions.
+- **Hybrid architecture indicated:** LLMs suit open-ended scaffolding and dialogue; KG-grounded models should handle diagnostic classification.
+
+## Implications
+
+- Current LLM tutors cannot resolve the "assistance dilemma" without ITS-grounded diagnostic mechanisms.
+- Effective LLM tutoring in structured reasoning domains requires hybrid architectures delegating diagnostic classification to KG-grounded models while using LLMs for scaffolding and dialogue.
+- Evaluation must move beyond binary correctness to three-way (optimal / valid-alternative / incorrect) classification to reveal these failure modes.
+
+## Connected Concepts
+
+- [[ai-tutoring]]
+- [[intelligent-tutoring]]
+- [[student-modeling]]
+- [[knowledge-graph]]
+- [[knowledge-tracing]]
+- [[ai-feedback-quality]]
+- [[feedback-loop]]
+- [[ai-ed-evaluation]]
+- [[educational-measurement]]
+- [[scaffolding]]
+- [[socratic-method]]
+- [[llm]]
+
+## Connected Articles
+
+- [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From answer generators to reasoning facilitators
+- [[llm-tutoring-feedback-diagnosis-gap]] — LLM tutoring feedback diagnosis gap
+- [[ai-tutor-effectiveness-review]] — AI tutor effectiveness review
+- [[deeptutor]] — DeepTutor: agentic personalized tutoring
+
+## Citation
+
+Yasir, T., Li, W., Gilson, S., Tithi, S. D., Tian, X., & Barnes, T. (2026). [*Confirming correct, missing the rest: LLM tutoring agents struggle where feedback matters most*](https://arxiv.org/abs/2605.16207v1). arXiv:2605.16207.
+
+---
+
 ## [How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata](https://edtechdev.github.io/aied/articles/youtube-frames-chatgpt-education/)
 
 Uses epistemic network analysis of multimodal YouTube metadata (transcripts, titles, thumbnails, comments) to show how different creator groups frame ChatGPT use in education, revealing divergent narratives around learning support versus academic-integrity risk. The work connects to broader debates about how [[generative-ai]] systems reshape [[student-experience]] and the conditions under which AI support [[scaffolding|scaffolds]] rather than undermines learning. It has direct implications for [[pedagogy-ai-mistakes]] and the risk of [[over-reliance]] when assistants absorb too much of the cognitive load. Findings also bear on [[ai-literacy]] and [[self-regulated-learning]], and on how institutions should govern [[student-experience]] and [[academic-integrity]]. Practitioners in [[higher-ed]] and [[teacher-role|teachers]] can use the evidence to calibrate when to deploy [[llm]]-based help and how to pair it with [[feedback-loop|feedback]] that preserves learning gains.
@@ -29865,6 +29978,8 @@ AI-ed evaluation is difficult for several reasons. First, **reliability is not e
 
 **Reliability does not guarantee validity.** [[melo-llm-classroom-observation-teach-2026|Validation of LLM-based classroom observation]] shows that a model can be highly stable across repeated evaluations yet still misalign with expert judgment, and conversely that models aligning well with experts are often more variable — reliability and accuracy decouple, so a single-pass accuracy figure can overstate dependability. The same study documents an **explicit-cue bias**: text-based LLM evaluators privilege explicitly verbalized behaviors and under-weight implicit or contextual evidence (e.g., sustained student self-regulation where a rubric allows high ratings on absence-tolerant criteria), producing systematic rather than random disagreement. This underscores that measurement reliability is a prerequisite for — not a proxy for — valid interpretation, and that evaluation must include repeated-measures stability checks alongside expert-anchored accuracy.
 
+**Aggregate accuracy hides who is served poorly.** [[drawedumath-vlm-struggling-students-2026|Evaluations of vision-language models on DrawEduMath]] show that overall accuracy obscures a systematic weakness: models underperform precisely on the student work that needs the most pedagogical help (erroneous, struggling-student work), so disaggregating evaluation by student proficiency and error status is necessary to avoid overstating capability and widening achievement gaps.
+
 ### Connections to related concepts
 
 AI-ed evaluation sits at the center of the wiki's methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[confidence-aware-ai-assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[pedagogical-llm-training]], and [[pedagogical-safety]].
@@ -29889,6 +30004,8 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[yasir-llm-tutoring-agents-2026]] — Three-way classification benchmark of LLM tutoring agents (Yasir et al. 2026)
+- [[drawedumath-vlm-struggling-students-2026]] — Evaluating VLMs on DrawEduMath: error content hardest (Lucy et al. 2026)
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation validation: reliability vs accuracy (Melo et al. 2026)
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional evaluation
@@ -30061,6 +30178,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[confidence-aware-ai-assessment]]
 
 ## Connected Articles
+- [[yasir-llm-tutoring-agents-2026]] — LLM tutoring feedback: accurate diagnosis ≠ actionable feedback (Yasir et al. 2026)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation feedback reliability and limits (Melo et al. 2026)
 - [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback (PolyFeed)
 
@@ -30308,6 +30426,8 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 
 **Guard against answer disclosure.** The central failure mode of LLM tutoring is giving the answer away, which inflates immediate performance while undermining durable learning. Use Socratic prompting, calibrated hints, and non-disclosive scaffolding — and measure outcomes on unassisted, transfer tasks, not just in-tool performance.^[[measuring-llm-tutors-teach-vs-solve]]^[[socratic-method]]
 
+**Separate diagnosis from feedback.** LLM tutors reliably confirm correct steps but over-reject valid-but-suboptimal reasoning and over-validate incorrect solutions — exactly where adaptive tutoring matters most — and accurate diagnosis does not reliably yield actionable feedback.^[[yasir-llm-tutoring-agents-2026]] A hybrid architecture works best: let a knowledge-grounded classifier handle solution diagnosis while the LLM focuses on open-ended scaffolding and dialogue, and evaluate tutoring on three-way classification (optimal / valid-alternative / incorrect), not binary correctness.
+
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
@@ -30323,6 +30443,7 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 - [[stem-education]]
 - [[item-response-theory]]
 ## Connected Articles
+- [[yasir-llm-tutoring-agents-2026]] — LLM tutoring agents struggle on valid-alternative/incorrect solutions (Yasir et al. 2026)
 
 - [[adversarial-stress-testing-role-playing-agents]]
 - [[hazra-safetutors-pedagogical-safety-2026]]
@@ -30985,6 +31106,7 @@ Because an AI tutor's core design question is how much help to give, cognitive l
 - [[pedagogical-safety]]
 - [[student-experience]]
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and AI placement (Brcic & Frljic 2026)
 
 - [[favero-critical-ai-tutors-empower-enslave-2025]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
@@ -31039,6 +31161,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[critical-thinking]]
 - [[regulation]]
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
 
@@ -31582,6 +31705,7 @@ The central tension for AI-supported learning is that generative AI is, by defau
 - [[motivation]]
 
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — Six-move model of learning and AI placement (Brcic & Frljic 2026)
 
 - [[agentic-ai-pedagogical-best-practice-2026]]
 - [[finkelstein-principled-ai-education-2025]]
@@ -32122,6 +32246,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[agency]]
 
 ## Connected Articles
+- [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on struggling students' work (Lucy et al. 2026)
 
 - [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
 - [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
@@ -33192,6 +33317,7 @@ For instructors, designers, and developers building or adopting tutoring systems
 - [[over-reliance]]
 - [[learning-by-teaching]]
 ## Connected Articles
+- [[yasir-llm-tutoring-agents-2026]] — Benchmarking LLM feedback agents with KG ground truth (Yasir et al. 2026)
 
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[agent-voice-accents-k12-group-learning]]
@@ -33887,6 +34013,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[generative-ai]]
 - [[open-source]]
 ## Connected Articles
+- [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on math student work with errors (DrawEduMath, Lucy et al. 2026)
 
 - [[kar-mathbuddy-affective-math-tutoring-2025]]
 - [[zhang-tutormoments-2026]]
@@ -34212,6 +34339,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[accessible-learning]]
 
 ## Connected Articles
+- [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
 
 - [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
@@ -34331,6 +34459,8 @@ Over-reliance sits at the intersection of AI tool design and human cognitive beh
 
 - **Vibe Compiler and metacognitive preservation:** [[vibe-compiler-metacognition-genai-agency-2026|The Synthesis-Analysis Reciprocity Model]] proposes tools that preserve human epistemic agency by structuring AI interaction around human analysis cycles rather than AI generation cycles.
 
+- **The placement rule:** [[brcic-effortless-trap-productive-struggle-2026|The Effortless Trap]] reframes allow-vs-ban as a placement question — an unguarded AI helper left high-school students ~17% worse on an unaided exam, while the same model rebuilt to withhold answers erased the harm. Its six-move learning frame (Prime, Probe, Point, Attach, Strengthen, Test) and diagnostic — *"if letting AI in makes the task feel effortless, it is in the wrong place"* — secure the first hard attempt (Probe) and the final unaided check (Test) as the moments where over-reliance most readily hides as an "illusion of learning."
+
 ### Relationship to cognitive offloading
 
 Over-reliance is distinguished from [[cognitive-offloading]] by intent and outcome. Cognitive offloading can be productive (using a calculator to free mental resources for conceptual understanding) or unproductive (asking AI to solve a problem you should learn to solve). Over-reliance is specifically the unproductive pattern — where offloading has crossed the threshold from strategic support to learning displacement.
@@ -34355,6 +34485,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[prompt-engineering]]
 
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: unguarded AI and the illusion of learning (Brcic & Frljic 2026)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
@@ -35163,6 +35294,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[prompt-engineering]]
 
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
 
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
@@ -35418,6 +35550,7 @@ Scaffolding connects to [[over-reliance]] (scaffolding that doesn't fade creates
 - [[higher-ed]]
 
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — Guarded vs. unguarded AI: the placement rule (Brcic & Frljic 2026)
 
 - [[guided-llm-scaffolding-independent-learning]]
 - [[scaffolding-critical-engagement-genai-minority-students]]
@@ -36164,6 +36297,7 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 - [[student-experience]]
 
 ## Connected Articles
+- [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)
 
 - [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
 - [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
@@ -36213,6 +36347,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[ai-education]]
 - [[ai-tutoring]]
 ## Connected Articles
+- [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[ai-guided-learning-audiovideo-2026]]
 - [[multimodal-item-parameter-estimation-2026]]

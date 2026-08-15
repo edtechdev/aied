@@ -1,5 +1,5 @@
 ---
-title: Collaborative AI Literacy Framework
+title: "Systematic Review of Collaborative Learning Activities for Promoting AI Literacy"
 created: 2026-07-29
 updated: 2026-08-15
 type: article
@@ -8,7 +8,7 @@ sources: ['raw/papers/hingle-collaborative-ai-literacy-2025.md']
 confidence: medium
 ---
 
-> **Collaborative AI Literacy Framework** — SEFI 2025. A systematic review of 9 studies (2015–2023) examining how collaborative learning (CL) approaches can be harnessed to build AI literacy across diverse educational contexts. Using the ICAP framework (Interactive–Constructive–Active–Passive) as an analytical lens, the review demonstrates that CL effectively increases AI literacy across activities, settings, and learner groups. Most studies were conducted in classroom settings, with some broadening participation through educators, families, or AI agents supporting teamwork. Instructional activities spanned all four ICAP modes, revealing a rich design space for collaborative AI literacy interventions.
+> **Systematic review of collaborative learning for AI literacy** — SEFI 2025. A systematic review of 9 studies (2015–2023) examining how collaborative learning (CL) approaches can be harnessed to build AI literacy across diverse educational contexts. Using the ICAP framework (Interactive–Constructive–Active–Passive) as an analytical lens, the review demonstrates that CL effectively increases AI literacy across activities, settings, and learner groups.
 
 ## Key Findings
 
@@ -46,31 +46,13 @@ Looking forward, the review highlights the potential for [[icap-cognitive-engage
 
 ## Connected Articles
 
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
-- [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
+- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
-- [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
-- [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
-- [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis
-- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults: A Midwestern Case Study
-- [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation...
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
+- [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
+- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults
+- [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders
+
 ## Citation
 
-Hingle, A., & Johri, A. (2025). [Collaborative AI Literacy Framework](https://arxiv.org/abs/2508.15111v1). arXiv:2508.15111.
+Hingle, A., & Johri, A. (2025). [*Systematic review of collaborative learning activities for promoting AI literacy*](https://arxiv.org/abs/2508.15111v1). arXiv:2508.15111.

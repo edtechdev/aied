@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]
 confidence: high
@@ -52,6 +52,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[prompt-engineering]]
 
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
 
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning

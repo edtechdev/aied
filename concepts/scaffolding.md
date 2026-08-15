@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [zone-of-proximal-development, over-reliance, cognitive-load-theory, feedback-loop, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
 confidence: high
@@ -42,6 +42,7 @@ Scaffolding connects to [[over-reliance]] (scaffolding that doesn't fade creates
 - [[higher-ed]]
 
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — Guarded vs. unguarded AI: the placement rule (Brcic & Frljic 2026)
 
 - [[guided-llm-scaffolding-independent-learning]]
 - [[scaffolding-critical-engagement-genai-minority-students]]

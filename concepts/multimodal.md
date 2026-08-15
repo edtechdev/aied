@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: 2026-08-09
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, ai-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 confidence: high
@@ -79,6 +79,7 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[accessible-learning]]
 
 ## Connected Articles
+- [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
 
 - [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning

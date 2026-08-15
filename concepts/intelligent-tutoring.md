@@ -66,6 +66,7 @@ For instructors, designers, and developers building or adopting tutoring systems
 - [[over-reliance]]
 - [[learning-by-teaching]]
 ## Connected Articles
+- [[yasir-llm-tutoring-agents-2026]] — Benchmarking LLM feedback agents with KG ground truth (Yasir et al. 2026)
 
 - [[adaptive-virtual-patient-psychotherapy-training]]
 - [[agent-voice-accents-k12-group-learning]]

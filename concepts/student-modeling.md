@@ -1,7 +1,7 @@
 ---
 title: Student Modeling
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [student-modeling, knowledge-tracing, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring]
 confidence: high
@@ -42,6 +42,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[ai-education]]
 - [[ai-tutoring]]
 ## Connected Articles
+- [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[ai-guided-learning-audiovideo-2026]]
 - [[multimodal-item-parameter-estimation-2026]]

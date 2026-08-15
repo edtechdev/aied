@@ -7,6 +7,9 @@
 ---
 
 ## 2026-08-15
+- [[yasir-llm-tutoring-agents-2026]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most (Yasir et al. 2026). https://doi.org/10.48550/arXiv.2605.16207
+- [[drawedumath-vlm-struggling-students-2026]] — The Aftermath of DrawEduMath: VLMs Underperform with Struggling Students and Misdiagnose Errors (Lucy et al. 2026). https://doi.org/10.48550/arXiv.2603.00925
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning (Brcic & Frljic 2026). https://doi.org/10.48550/arXiv.2606.26181
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking the pedagogical knowledge of large language models (Lelièvre et al. 2025). https://doi.org/10.48550/arXiv.2506.18710
 - [[melo-llm-classroom-observation-teach-2026]] — Validating AI-generated classroom observations: reliability, accuracy, and limits of LLM-based pedagogical judgment (Melo et al. 2026). https://doi.org/10.1016/j.caeai.2026.100612
 - ● [[long-ai-higher-ed-engagement-teaching-methods-2026]] — `10.3389/feduc.2025.1648661`

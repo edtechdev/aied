@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: 2026-07-28
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [desirable-difficulties, cognitive-friction, productive-struggle, retrieval-practice, generation-effect, spacing, over-reliance, learning-science, scaffolding, metacognition]
 confidence: high
@@ -53,6 +53,7 @@ The central tension for AI-supported learning is that generative AI is, by defau
 - [[motivation]]
 
 ## Connected Articles
+- [[brcic-effortless-trap-productive-struggle-2026]] — Six-move model of learning and AI placement (Brcic & Frljic 2026)
 
 - [[agentic-ai-pedagogical-best-practice-2026]]
 - [[finkelstein-principled-ai-education-2025]]
