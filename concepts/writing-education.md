@@ -52,6 +52,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 ## Connected Articles
 
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
 - [[choi-anchor-aes-prompting-2025]] — Anchor-Based Automated Essay Scoring
