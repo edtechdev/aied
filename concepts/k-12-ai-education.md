@@ -1,7 +1,7 @@
 ---
 title: K-12 AI Education
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-08-15
 type: concept
 tags: [ai-literacy, curriculum-design, equity, k-12, faculty-development, higher-ed, generative-ai, student-experience, llm, teacher-role]
 confidence: high
