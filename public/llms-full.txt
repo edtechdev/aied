@@ -10828,22 +10828,60 @@ Rania Abdelghani, Peter Kaiser, Kou Murayama (2026). [From Prompting to Epistemi
 
 ## [Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning](https://edtechdev.github.io/aied/articles/ethical-ai-higher-ed-game-theory/)
 
-**Ethical AI Use in Higher Education: A Coordination Game Framework** provides a formal mechanism-level account of why policy statements alone fail to change student AI-use behavior. Reframing student AI use in assessments as a coordination problem — where individual choices depend on peer expectations and assessment design — the authors develop an evolutionary game-theoretic model capturing learning value, effort, perceived fairness, and transparency. The key finding is non-linear threshold dynamics: small, well-calibrated changes to reflective assessment incentives can trigger rapid cohort-wide shifts toward responsible AI use, while weak or misaligned incentives allow [[over-reliance]] and opportunistic practices to persist. This explains the common observation that institutional [[regulation]] and policy pronouncements have limited impact while modest assessment redesign — such as requiring students to reflect on their AI interactions — can have disproportionate effects. The framework complements [[genai-assessment-governance]] by providing the mathematical underpinning for why Restrict/Scaffold/Require stances have differential behavioral effects, and connects to [[academic-integrity]] research on how social norms shape [[generative-ai]] use among [[higher-ed]] students. The model supports [[institutional-change-framework-ai]] approaches that emphasize pedagogy-led governance over surveillance.
+> **Synthesis:** Ogbo, Song, Ghareeb, and Han (2026) provide a formal, mechanism-level account of why policy statements alone fail to change student AI-use behavior. Reframing student AI use in assessments as a **coordination problem** shaped by peer expectations and assessment design rather than individual compliance, they develop an **evolutionary game-theoretic framework** capturing learning value, effort, perceived fairness, and transparency, with institutional AI governance modeled implicitly through reflective assessment incentives. Using analytical results and finite-population simulations, they reveal **threshold-driven behavioral transitions**: small, well-calibrated changes to reflective assessment incentives can trigger rapid cohort-wide shifts toward responsible AI use, while weak or misaligned incentives allow opportunistic practices to persist.
+
+## AI Use as a Coordination Problem
+
+Rather than treating student AI use as a matter of individual compliance, this framework models it as a **collective norm-formation process**. Each assessment task is a one-shot decision context in which a student chooses how to engage with AI tools, but those choices interact with **peer expectations** to generate shared norms within a cohort. Institutional influence enters implicitly through assessment design — the signals assessment tasks convey about acceptable AI use. This norm-based perspective is grounded in evidence that assessment design strongly shapes learner behavior and that responsible AI engagement should be framed in terms of learning and ethics rather than narrow compliance.
+
+## The Evolutionary Game Model
+
+The framework uses **evolutionary game theory in finite populations** to analyze how peer interaction, assessment incentives, and social learning jointly shape the emergence and stability of AI-use norms over time. The model captures four key factors:
+
+- **Learning value** — the additional learning benefit of engaging responsibly with AI versus relying on it opportunistically.
+- **Effort** — the cognitive and time cost of responsible engagement (e.g., reflecting on one's AI interactions).
+- **Perceived fairness** — whether students see assessment structures and incentives as fair and legitimate.
+- **Transparency** — the clarity of norms and expectations around AI use.
+
+Institutional AI governance is modeled implicitly through **reflective assessment incentives** — rewards for activities like requiring students to reflect on their AI interactions.
+
+## Key Findings: Threshold-Driven Norm Transitions
+
+Across the model results, a consistent pattern emerges: **responsible AI use does not increase smoothly with incentives, but arises through threshold-driven transitions.**
+
+1. **Reflection must be rewarded enough.** Embedding reflection as a meaningful, rewarded component of assessment can displace opportunistic AI use, but only once a critical reward level is reached. Below this threshold, opportunistic behavior remains dominant — reflecting strategic responses to assessment structures rather than a lack of ethical intent.
+2. **Peer sensitivity drives cascade speed.** When students are highly responsive to peer practices, modest changes in assessment incentives can trigger rapid norm cascades; weak peer sensitivity leads to gradual, incomplete transitions. This explains why perceptions of peer behavior strongly influence the legitimacy of AI use.
+3. **Proportionality matters.** Responsible AI use emerges most robustly when the reward for reflection is proportionate to the effort required. When reflective tasks impose high cognitive or time demands without sufficient assessment value, opportunistic AI use persists even under generous incentives — a formal explanation for why well-intentioned but overly burdensome assessment interventions fail.
+
+## Implications
+
+1. **Explains policy ineffectiveness.** Weak or misaligned incentives allow opportunistic practices to persist despite institutional [[regulation]] and policy pronouncements — because students respond to assessment structures, not just stated rules.
+2. **Assessment redesign over surveillance.** Modest, well-calibrated assessment redesign — such as requiring students to reflect on their AI interactions — can have disproportionate, cohort-wide effects, supporting pedagogy-led governance over surveillance.
+3. **Calibrate reward to effort.** Reflective assessments must be meaningfully valued and proportionate to their demands; burdensome reflection tasks without sufficient value will not shift behavior.
+4. **Leverage peer norms.** Because peer sensitivity drives rapid cascades, interventions that shift visible peer behavior can accelerate adoption of responsible norms.
 
 ## Connected Concepts
 
-- [[over-reliance]]
-- [[regulation]]
 - [[academic-integrity]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[over-reliance]]
+- [[regulation]]
+- [[educational-policy-ai]]
+- [[ai-governance-education]]
+- [[assessment]]
+- [[formative-assessment]]
+- [[motivation]]
+- [[collaborative-learning]]
+
 ## Connected Articles
 
-- [[genai-assessment-governance]]
-- [[institutional-change-framework-ai]]
+- [[genai-assessment-governance]] — Governance frameworks for GenAI assessment
+- [[institutional-change-framework-ai]] — Institutional change framework for AI
+
 ## Citation
 
-Ndidi Bianca Ogbo, Zhao Song, Shatha Ghareeb, The Anh Han (2026). [Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning](https://arxiv.org/abs/2605.27400). arXiv:2605.27400. arXiv preprint.
+Ogbo, N. B., Song, Z., Ghareeb, S., & Han, T. A. (2026). [*Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning*](https://arxiv.org/abs/2605.27400). arXiv:2605.27400. arXiv preprint.
 
 ---
 
@@ -24916,15 +24954,47 @@ Laura Graf, Ramona Beinstingel, Stephan Kusche, Oleksandra Poquet (2026). [Stude
 
 ## [It''s OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing](https://edtechdev.github.io/aied/articles/student-rationalization-ai-writing/)
 
-Generative AI challenges academic integrity not only by enabling students to delegate substantial portions of their academic work, but also by blurring the ethical boundaries by which students distinguish acceptable assistance from misconduct. Through semi-structured interviews (n=20), analysis of AI chat logs, and course documents, the researchers identified at least five distinct conceptual sites where students' interpretation of AI policies diverges from faculty intent. Students employed over 20 distinct rationalizations — including 'copying AI-generated text is victimless' and 'any AI text reflecting their own beliefs is their own writing' — to justify conscious violations of course policies. Modern AI presents a steep, ethical, slippery slope which students conceptually slide down, landing far outside the pedagogical goals and expectations of instructors.
+> **Synthesis:** Kim, Toyama, Kim, and Carroll (2026) investigate how students make moral sense of AI use in academic writing through semi-structured interviews (n=20), AI chat logs, and course documents. They identify **five distinct "sites" of AI policy** — from faculty intention to students' actual practice — where interpretation diverges, and a taxonomy of **23 distinct rationalizations** (grouped into six classes) that students use to justify AI use, including conscious violations of course policies. Because these rationalizations are ad hoc and post hoc, modern AI presents a "steep, ethical, slippery slope" that students conceptually slide down, landing far outside instructors' pedagogical goals.
 
+## Five Sites of AI "Policy"
 
-- **Five disconnect sites:** Kim et al. identify at least five distinct conceptual sites where students' interpretation of AI use policies diverges from faculty intent — ranging from policy understanding to actual usage behaviors. This reveals systemic gaps in how [[academic-integrity]] policies are communicated and internalized.
-- **Taxonomy of 20+ rationalizations:** Students employed over 20 distinct justifications for AI use, including victimless-crime framing ("copying AI-generated text is victimless"), ownership redefinition ("text reflecting my beliefs is my own writing"), and learning-optimization claims ("I learn more by using AI extensively"). These rationalizations were ad hoc, post hoc, and not self-consistent.
-- **Ethical slippery slope:** The paper characterizes modern AI as presenting a "steep, ethical, slippery slope" where students conceptually slide far outside pedagogical goals. This finding extends work on [[over-reliance]] by documenting the metacognitive mechanisms students use to justify AI dependence.
-- **Implications for [[writing-education]]:** As AI writing tools become ubiquitous, educators must design assignments and policies that account for these rationalization patterns — not just detection-based interventions. This connects to research on [[ai-assisted-writing-research-teams]] and the shifting norms of academic writing in the AI era.
-- **[[ai-literacy]] gap exposed:** The study reveals that students' ethical frameworks for AI use are underdeveloped and self-serving, highlighting the urgent need for explicit AI literacy instruction that addresses ethical reasoning, not just technical capability. This aligns with the [[agentic-literacy-debt]] framework's emphasis on governance infrastructure for AI use.
-- **Cross-listed from cs.HC**, this work brings human-computer interaction methods (semi-structured interviews, chat log analysis) to bear on [[higher-ed]] integrity challenges, complementing quantitative studies on [[over-reliance]] with rich qualitative evidence of student reasoning.
+For any given course, the paper finds at least five distinct sites that house concepts of appropriate AI use, which often diverge from one another:
+
+1. **Faculty Intention** — instructors' expectations of student AI use (often not clearly expressed).
+2. **Formal Policy** — the explicit written rules in syllabi or assignment instructions.
+3. **Student Interpretation** — a student's own understanding, recall, and/or interpretation of the formal policy.
+4. **Student Self-Policy** — a student's own normative views about appropriate AI use.
+5. **Student Practice** — a student's actual AI-use behavior.
+
+The gaps between these sites are systemic: faculty intention is not always reflected in formal policy, students misremember or reinterpret policy, and actual practice diverges from both. This reveals why [[academic-integrity]] policies communicated at one site often fail to shape behavior at another.
+
+## Taxonomy of 23 Rationalizations (Six Classes)
+
+Students employed **23 distinct moral justifications** (R1–R23) for AI use, grouped into **six Rationalization Classes**:
+
+- **C1: Victimless Behavior** (e.g., R1 No Human Victim, R2 AI-Synthesized Sources) — "copying AI-generated text is victimless" because no human is harmed; AI "doesn't have a soul."
+- **C2: Minimal AI Contribution** (e.g., R3 Busywork, R5 Like Other Allowable Support) — the most common: AI is OK for "busywork" assignments deemed low-stakes, or is likened to human editors, grammar checkers, or writing centers.
+- **Ex Ante Contribution** — students emphasize their own ideas, directions, or curation as decisive authorship evidence.
+- **Post Hoc Contribution** (e.g., R10 My Paraphrasing, R11 My Verification, R12 My Style) — "any AI text reflecting their own beliefs or style is their own writing."
+- **Responsibility Denial / Normative** (e.g., R15 Instructor Indifference, R16 Normlessness, R17 No Consequences, R18 Agency Denial) — externalizing responsibility and downplaying consequences.
+- **C6: Perceived Benefit** (e.g., R19 Time Economy, R20 Educational Value, R21 Better Writing, R23 Better Outcome) — "I learn more by using AI extensively."
+
+These rationalizations were **ad hoc and post hoc**, not self-consistent — students used them to explain behavior that had already occurred rather than to establish moral reasoning that informed behavior.
+
+## Belief vs. Behavior Mismatch
+
+A striking finding is that continued AI use was **not always driven by indifference or lack of ethical awareness**. Some students were highly aware of the ethical stakes and experienced genuine moral distress (e.g., P16, who strongly wanted to obey a strict "never use AI" policy yet kept using AI, reporting that the prohibition "is creating conflict for me, because I'm breaking the rules"). A strict prohibition intensified internal moral conflict rather than preventing use — implying that punitive policy alone may backfire.
+
+## Authorship and Responsibility Made Contingent
+
+AI-assisted writing lets students **reinterpret harm, authorship, responsibility, and contribution in unusually flexible ways**. Unlike traditional plagiarism (which involves a human victim), students can claim no victim exists. They claim ownership when AI output supports credit but distance themselves when it creates plagiarism or policy risks — externalizing responsibility in ways that echo **moral disengagement** (Bandura). This makes authorship contingent on context rather than stable.
+
+## Implications
+
+1. **Policy alone is insufficient.** Because rationalizations are post hoc and the five sites diverge, writing clearer policies or escalating detection will not close the gap — interventions must operate at the sites where interpretation and practice form.
+2. **Design assignments for ethical reasoning, not just detection.** Educators should account for rationalization patterns in assignment and policy design, complementing detection-based approaches.
+3. **Build AI literacy that includes ethical reasoning.** Students' ethical frameworks are underdeveloped and self-serving; explicit instruction should address the moral dimension of AI use, not just technical capability.
+4. **Avoid purely prohibitive policies.** Strict bans can intensify moral conflict and may not prevent use; pedagogy-led approaches that help students reason through authorship and harm are more promising.
 
 ## Connected Concepts
 
@@ -24933,13 +25003,22 @@ Generative AI challenges academic integrity not only by enabling students to del
 - [[writing-education]]
 - [[ai-literacy]]
 - [[higher-ed]]
+- [[ethics]]
+- [[plagiarism-detection]]
+- [[metacognition]]
+- [[student-experience]]
+- [[educational-policy-ai]]
+
 ## Connected Articles
 
-- [[ai-assisted-writing-research-teams]]
-- [[agentic-literacy-debt]]
+- [[ai-assisted-writing-research-teams]] — AI-assisted writing in research teams
+- [[agentic-literacy-debt]] — Agentic literacy debt and governance
+- [[ai-scoring-language-bias-physics]] — AI scoring and language bias
+- [[self-referential-l2-writing-llm-assessment]] — Self-referential LLM assessment in L2 writing
+
 ## Citation
 
-Jiyoon Kim, Kentaro Toyama, Sangmi Kim, & John M. Carroll (2026). ["It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing](https://arxiv.org/abs/2605.29090). arXiv:2605.29090. arXiv preprint.
+Kim, J., Toyama, K., Kim, S., & Carroll, J. M. (2026). ["It's OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing](https://arxiv.org/abs/2605.29090). arXiv:2605.29090. arXiv preprint.
 
 ---
 
@@ -28629,6 +28708,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 
 ## Connected Articles
 
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[favero-critical-ai-tutors-empower-enslave-2025]]
 - [[genai-policies-higher-ed-computing]]
 - [[raza-farooq-aied-review-2020-2025]]
@@ -28704,6 +28784,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[metacognitive-ai-literacy-beyond-skills-gap-2026]]
 - [[possibility-ai-literacy-critical-editorial]]
 - [[sec-ai-literacy-narrative-review-2026]]
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
 - [[teacher-education-ai-literacy-sdt-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[elementary-writing-genai-systematic-review-2026]]
@@ -28923,6 +29004,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 
 ## Connected Articles
 
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity
@@ -30300,6 +30382,7 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 
 
 ## Connected Articles
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
 - [[ai-acceptance-preservice-science-teachers-2026]]
 - [[ai-interior-design-malaysia-2026]]
@@ -30313,6 +30396,8 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-uk-higher-education-policy-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
 
 ---
 
@@ -30604,6 +30689,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[ai-ethics-education-public-discourse]]
 - [[ethical-ai-higher-ed-game-theory]]
 - [[cost-of-ethics-crisis-cs-ethics-education]]
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
 - [[xai-education-framework]]
 - [[ai-tutor-safety-harms]]
 - [[ai-uk-higher-education-policy-2026]]
@@ -30823,6 +30909,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of GenAI
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[sequenced-ai-feedback-learning]] — Impact and pathways of sequenced AI feedback
@@ -30946,6 +31033,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[tpack]]
 ## Connected Articles
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[metacognitively-discordant-completion-genai-2026]]
@@ -31190,6 +31278,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[professional-training]]
 
 ## Connected Articles
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
 - [[ai-acceptance-preservice-science-teachers-2026]]
 - [[competency-based-education-genai-production-2026]]
@@ -32302,6 +32391,8 @@ This suggests that **metacognitive support and motivation are not identical**. T
 - [[codify-socratic-programming-tutor]]
 - [[cognitive-offloading-speedup-illusion]]- [[probing-ai-generated-physics-solutions-2026]]
 
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
+
 ---
 
 ## [Motivation](https://edtechdev.github.io/aied/concepts/motivation/)
@@ -32335,6 +32426,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[ai-education]]
 
 ## Connected Articles
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
 
 - [[ai-availability-student-motivation]]
@@ -32551,6 +32643,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[prompt-engineering]]
 
 ## Connected Articles
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
 
@@ -33379,6 +33472,7 @@ Regulation connects to [[educational-policy-ai]], [[ai-governance-education]], [
 
 ## Connected Articles
 
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[institutional-change-framework-ai]]
 - [[genai-policies-higher-ed-computing]]
 - [[state-policy-teacher-ai]]
@@ -34254,6 +34348,7 @@ Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai
 
 - [[ai-in-the-wild-college]]
 - [[genai-availability-grades-satisfaction]]
+- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
 - [[tracing-genai-literacy-interaction-patterns]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[ai-availability-student-motivation]]

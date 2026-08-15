@@ -38,6 +38,7 @@ Regulation connects to [[educational-policy-ai]], [[ai-governance-education]], [
 
 ## Connected Articles
 
+- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[institutional-change-framework-ai]]
 - [[genai-policies-higher-ed-computing]]
 - [[state-policy-teacher-ai]]
