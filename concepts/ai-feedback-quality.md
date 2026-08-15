@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [ai-feedback-quality, formative-assessment, automated-grading, feedback-loop, generative-ai, ai-literacy]
 confidence: high
@@ -54,6 +54,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[confidence-aware-ai-assessment]]
 
 ## Connected Articles
+- [[learner-centered-feedback-ai]] — Teachers' practices and perceptions of AI learner-centered feedback (PolyFeed)
 
 - [[ai-generated-feedback-higher-ed]] — AI-Generated Feedback in Higher Education
 - [[teaching-feedback-classification-benchmark]] — Teaching Feedback Classification Benchmark

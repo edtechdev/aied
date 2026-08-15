@@ -41,40 +41,31 @@ An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI
 
 ## Connected Concepts
 
-- [[faculty-development]]
-- [[higher-ed]]
+- [[feedback-loop]]
+- [[ai-feedback-quality]]
+- [[formative-assessment]]
+- [[automated-assessment]]
 - [[human-in-the-loop-ai]]
-- [[scaffolding]]
 - [[teacher-role]]
-
+- [[faculty-development]]
+- [[scaffolding]]
 - [[generative-ai]]
+- [[higher-ed]]
 - [[rag]]
+
 ## Connected Articles
 
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative a...
+- [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy
+- [[genai-teacher-feedback-comparison]] — Comparing generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
-- [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
-- [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
-- [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[affective-text-wearable-student-health]] — A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
-- [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
-- [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
+- [[ai-assistance-discretionary-feedback]] — AI assistance for discretionary work: increasing feedback provision in higher education
+- [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
+- [[genai-feedback-design-multisite-experiment]] — GenAI feedback design in a multisite experiment
+- [[ai-internal-feedback-evaluative-judgments]] — AI internal feedback and evaluative judgments
+- [[ai-peer-feedback-systems]] — AI peer-feedback systems
+- [[hybrid-intelligence-feedback-systems-in-design-thinking-development-stage-specif]] — Hybrid-intelligence feedback systems in design thinking
+- [[care-full-feedback-genai]] — Care-full feedback with GenAI
+- [[reimagining-feedback-through-generative-ai-in-engineering-education]] — Reimagining feedback through generative AI in engineering education
 
 ## Citation
 
