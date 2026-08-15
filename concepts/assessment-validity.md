@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity in AI Education
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [authentic-assessment, automated-grading, confidence-aware-ai-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity]
 confidence: high
@@ -39,6 +39,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[llm]]
 
 ## Connected Articles
+- [[melo-llm-classroom-observation-teach-2026]] — Validating LLM-based classroom observation against expert ratings (Melo et al. 2026)
 - [[competency-based-education-genai-production-2026]]
 
 - [[genai-performance-vs-learning]]

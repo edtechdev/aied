@@ -38,6 +38,7 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[ai-ed-evaluation]]
 
 ## Connected Articles
+- [[melo-llm-classroom-observation-teach-2026]] — Validating LLM automated classroom observation (Melo et al. 2026)
 - [[learner-centered-feedback-ai]] — AI learner-centered feedback: teachers' practices and perceptions (PolyFeed)
 - [[competency-based-education-genai-production-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
