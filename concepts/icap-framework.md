@@ -41,6 +41,8 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[engagement-metrics]].^[[icap-cognitive-engagement-llm-agents]]
 4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.^[[icap-cognitive-engagement-llm-agents]]
 
+> **Note on interpretation:** ICAP is a *taxonomy of engagement modes*, not a fixed teaching sequence. It is a common error to assume instruction must always begin at the passive end and progress upward. Research on inductive learning and productive failure shows that posing challenging constructive or interactive problems up front — without prior passive exposure — can produce stronger learning. Treat the modes as a classification of learner activity, and sequence them only where the learning goal warrants (see [[limitations-in-aied-research]]).
+
 ## Connected Concepts
 
 - [[active-learning]]
@@ -53,6 +55,7 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 - [[metacognition]]
 - [[ai-literacy]]
 - [[human-in-the-loop-ai]]
+- [[limitations-in-aied-research]]
 
 ## Connected Articles
 

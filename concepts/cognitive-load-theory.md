@@ -25,7 +25,7 @@ The pedagogical implication is to use AI to reduce **extraneous** load while pre
 
 ### Connection to AI tutors
 
-Because an AI tutor's core design question is how much help to give, cognitive load theory offers a principled answer: help the learner manage intrinsic load and remove extraneous load, but never eliminate the germane load that constitutes learning. This aligns with [[intelligent-tutoring]] research on calibrated hints and productive struggle.
+Because an AI tutor's core design question is how much help to give, cognitive load theory offers a principled answer: help the learner manage intrinsic load and remove extraneous load, but never eliminate the germane load that constitutes learning. This aligns with [[intelligent-tutoring]] research on calibrated hints and productive struggle. Note, however, that cognitive load theory's empirical claims have themselves been criticized and disputed in prior studies — a reminder that even widely used theories in AIED should be applied with attention to their contested evidence base (see [[limitations-in-aied-research]]).
 
 ## Connected Concepts
 

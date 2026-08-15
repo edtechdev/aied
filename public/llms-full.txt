@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 614 articles and 133 concepts.
+> Complete text of 614 articles and 134 concepts.
 
 # Articles
 
@@ -28166,7 +28166,7 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 
 ### Why evaluation is hard in AI-ed
 
-AI-ed evaluation is difficult for several reasons. First, **reliability is not enough** — a system can agree with a rubric yet misjudge pedagogy, as [[machines-misread-pedagogical-quality|human–machine alignment research]] shows. Second, **ground truth is contested** — what counts as a "correct" answer, grade, or teaching move is itself a judgment that varies across disciplines and experts, per [[ground-truth-reliability-aied|ground-truth modernization]]. Third, **educational validity is multidimensional** — [[assessment-validity]], [[formative-assessment]], and [[authentic-assessment]] each impose different criteria that a single accuracy metric cannot capture. Finally, **the target keeps moving** — agentic AI and multimodal models demand evaluation frameworks ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|tool-invariant assessment]]) rather than reuse of text-model benchmarks.
+AI-ed evaluation is difficult for several reasons. First, **reliability is not enough** — a system can agree with a rubric yet misjudge pedagogy, as [[machines-misread-pedagogical-quality|human–machine alignment research]] shows. Second, **ground truth is contested** — what counts as a "correct" answer, grade, or teaching move is itself a judgment that varies across disciplines and experts, per [[ground-truth-reliability-aied|ground-truth modernization]]. Third, **educational validity is multidimensional** — [[assessment-validity]], [[formative-assessment]], and [[authentic-assessment]] each impose different criteria that a single accuracy metric cannot capture. Finally, **the target keeps moving** — agentic AI and multimodal models demand evaluation frameworks ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|tool-invariant assessment]]) rather than reuse of text-model benchmarks. Evaluation findings are also subject to the same cross-cutting limitations that affect all AIED research — they age as AI improves, depend on reproducibility and FAIR practices, and may rest on proprietary systems — so evaluation results should be read with the caveats in [[limitations-in-aied-research]].
 
 ### Connections to related concepts
 
@@ -28189,6 +28189,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[teacher-role]]
 - [[assessment]]
 - [[llm]]
+- [[limitations-in-aied-research]]
 
 ## Connected Articles
 
@@ -28282,6 +28283,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[llm]]
 - [[ai-ed-evaluation]]
 - [[research-methods-aied]]
+- [[limitations-in-aied-research]]
 - [[assessment]]
 - [[learning-analytics]]
 - [[personalized-learning]]
@@ -29237,7 +29239,7 @@ The pedagogical implication is to use AI to reduce **extraneous** load while pre
 
 ### Connection to AI tutors
 
-Because an AI tutor's core design question is how much help to give, cognitive load theory offers a principled answer: help the learner manage intrinsic load and remove extraneous load, but never eliminate the germane load that constitutes learning. This aligns with [[intelligent-tutoring]] research on calibrated hints and productive struggle.
+Because an AI tutor's core design question is how much help to give, cognitive load theory offers a principled answer: help the learner manage intrinsic load and remove extraneous load, but never eliminate the germane load that constitutes learning. This aligns with [[intelligent-tutoring]] research on calibrated hints and productive struggle. Note, however, that cognitive load theory's empirical claims have themselves been criticized and disputed in prior studies — a reminder that even widely used theories in AIED should be applied with attention to their contested evidence base (see [[limitations-in-aied-research]]).
 
 ## Connected Concepts
 
@@ -31264,6 +31266,8 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[engagement-metrics]].^[[icap-cognitive-engagement-llm-agents]]
 4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.^[[icap-cognitive-engagement-llm-agents]]
 
+> **Note on interpretation:** ICAP is a *taxonomy of engagement modes*, not a fixed teaching sequence. It is a common error to assume instruction must always begin at the passive end and progress upward. Research on inductive learning and productive failure shows that posing challenging constructive or interactive problems up front — without prior passive exposure — can produce stronger learning. Treat the modes as a classification of learner activity, and sequence them only where the learning goal warrants (see [[limitations-in-aied-research]]).
+
 ## Connected Concepts
 
 - [[active-learning]]
@@ -31276,6 +31280,7 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 - [[metacognition]]
 - [[ai-literacy]]
 - [[human-in-the-loop-ai]]
+- [[limitations-in-aied-research]]
 
 ## Connected Articles
 
@@ -31895,6 +31900,80 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[metacognitive-learning-scenarios-taxonomy]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[andragogy-cognitive-delegation-genai-2026]]
+
+---
+
+## [Limitations in AIEd Research](https://edtechdev.github.io/aied/concepts/limitations-in-aied-research/)
+
+> **Limitations in AIEd research** — the recurring weaknesses and constraints that affect how much confidence we can place in AI-in-education findings, and how readers should interpret them. These cut across individual studies: methodological limitations (generalizability, sample size, validity, self-report), the speed problem (AI and findings date quickly while publication lags), research-practice limitations (reproducibility, FAIR practices, proprietary tools), and weak theory use. Recognizing these limits is essential for reading the literature critically and for designing stronger studies.
+
+AI in education is a fast-moving, heterogeneous field, and its evidence base carries a distinctive set of limitations that researchers, practitioners, and policy-makers should weigh when using any finding. Some of these are shared with the broader learning-sciences and psychology literature; others are amplified or made unique by the nature of AI itself. This page organizes them into four cross-cutting areas.
+
+## Methodological limitations
+
+The wiki's [[research-methods-aied|research methods]] page details the strengths and limitations of each design. Several limits recur across designs and deserve particular attention:
+
+- **Generalizability.** Findings from a single course, institution, discipline, or national context may not transfer. Small, convenience, or single-institution samples limit external validity; results from one AI tool rarely extend to a different tool or context.
+- **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
+- **Validity and measurement.** Construct validity is often thin: proxies for "learning," "engagement," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. Benchmark accuracy does not equal educational effectiveness.
+- **Self-report and survey data.** A large share of the corpus relies on self-reported attitudes, motivation, and usage. Self-report is subject to bias — respondents overestimate competence, under-report misuse, and misjudge their own behavior — so perception-based measures frequently diverge from objective performance (see [[ai-literacy-assessment-misalignment]] and [[educational-measurement]]).
+
+## The speed problem: AI evolves faster than findings
+
+AI is changing continuously, and the conclusions drawn from any given model or system can become **out of date quickly**. A study of one LLM generation may not describe the next; benchmark scores, tutoring quality, and even the practical usefulness of a finding shift as models improve. Compounding this, the **publication process is slow** — from study design to peer-reviewed publication can take a year or more — so a published result may already describe an obsolete system. Reviewers and readers should therefore treat AIED findings as provisional, date-sensitive claims rather than stable truths, and prefer recent, replication-oriented, and version-explicit work.
+
+## Research-practice limitations
+
+Several limitations concern the conduct and infrastructure of the research itself:
+
+- **Lack of reproducibility.** Studies often do not report enough detail (prompts, model versions, hyperparameters, data, analysis code) for others to reproduce or verify results — a particular problem given how sensitive LLM output is to prompts and settings.
+- **FAIR research practices.** Open and reproducible practice — **F**indable, **A**ccessible, **I**nteroperable, **R**eusable data and code, pre-registration, and shared benchmarks — is unevenly adopted in AIED. Weak adherence to FAIR principles makes it harder to reuse, compare, and build on studies.
+- **Proprietary tools and models.** Much research depends on closed, proprietary AI systems whose internal behavior, training data, and model updates are opaque and may change without notice. This limits reproducibility, makes exact replication impossible, and can tie findings to a vendor's roadmap. It also raises questions about evaluation independence (see [[ai-ed-evaluation]]).
+
+## Weak or limited theory use
+
+A recurring criticism is that many empirical articles have **limited or outdated theoretical framing**. Researchers may:
+
+- **Adopt theories uncritically.** Frameworks are borrowed because they are familiar, without fully engaging their assumptions, scope, or evidence base.
+- **Misinterpret frameworks as fixed sequences.** Several widely used frameworks are treated as ordered ladders that learners must climb from a "low" to a "high" stage — but the evidence does not support always starting at the bottom. For example:
+  - **Bloom's taxonomy** is often read as a strict hierarchy (recall → application → evaluation), yet higher-order goals do not require first drilling lower-order ones; tasks can be designed to engage evaluation or creation from the start (see [[cross-dataset-bloom-question-classification]]).
+  - **[[icap-framework|The ICAP framework]]** (passive → active → constructive → interactive) is sometimes taken as a sequence that instruction must begin at the passive end. It is not: research on inductive learning and productive failure shows that posing challenging, constructive or interactive problems up front — without first walking learners through passive exposure — can produce stronger learning.
+  - **ADDIE** and other instructional-design models are sometimes treated as rigid linear phases rather than the iterative, flexible planning heuristics they are meant to be (see [[instructional-design]]).
+- **Overlook contested theories.** Some theories used widely in AIED have themselves been challenged. **[[cognitive-load-theory|Cognitive load theory]]**, for example, has been criticized and its empirical claims refuted or disputed in prior studies, yet it continues to be invoked as a settled foundation in new AIED work.
+
+The implication is not that theories and frameworks are useless, but that they should be used with attention to their actual evidence base, their intended scope, and their known criticisms — rather than as self-evident scaffolds or rigid procedural sequences.
+
+## Reading the AIED literature critically
+
+Taken together, these limitations argue for a critical, multi-signal reading of AIED research: check whether a finding generalizes and is adequately powered; verify how constructs were measured (and whether claims rest on self-report); prefer recent, version-explicit, reproducible work; and interrogate the theoretical framing rather than treating familiar frameworks as given. This is the complement of rigorous [[research-methods-aied|method choice]] and [[ai-ed-evaluation|evaluation]]: good methods and good evaluation are necessary, but reading with attention to limitations is what turns evidence into defensible decisions.
+
+## Connected Concepts
+
+- [[research-methods-aied]]
+- [[ai-ed-evaluation]]
+- [[educational-measurement]]
+- [[assessment-validity]]
+- [[benchmark]]
+- [[rct]]
+- [[meta-analysis-systematic-review]]
+- [[ai-education]]
+- [[cognitive-load-theory]]
+- [[icap-framework]]
+- [[instructional-design]]
+- [[ai-literacy-assessment-misalignment]]
+- [[llm]]
+- [[generative-ai]]
+- [[over-reliance]]
+
+## Connected Articles
+
+- [[research-methods-aied]] — Research methods and their limitations in AIED
+- [[ai-ed-evaluation]] — Evaluating whether AI tools work
+- [[ground-truth-reliability-aied]] — Reliability and validity of ground truth in evaluation
+- [[ai-literacy-assessment-misalignment]] — Self-reported vs. performance-based AI literacy
+- [[machines-misread-pedagogical-quality]] — Why machines misread pedagogical quality
+- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical limits of AI tutors and theory use
+- [[cross-dataset-bloom-question-classification]] — Bloom's taxonomy and question classification
 
 ---
 
@@ -33435,6 +33514,8 @@ The boundaries blur: benchmark studies are evaluation that can feed research, an
 
 Method choice follows the research question. Causal-effect questions favor experiments ([[rct]]); mechanism and perception questions favor surveys and qualitative work; system-quality questions favor computational evaluation ([[benchmark]], [[ai-ed-evaluation]]); synthesis questions favor reviews and meta-analyses; design questions favor DBR; and questions about what experts agree a construct, competency, or framework should contain favor expert-consensus methods like the Delphi technique. Given the field's heterogeneity and the speed of AI change, the wiki's corpus reflects a deliberate move toward triangulation — combining computational evaluation with efficacy, qualitative, and expert-consensus evidence to judge both whether a tool works and whether it helps learning.
 
+Equally important is reading any single study with awareness of the **cross-cutting limitations** that affect AIED research as a whole — methodological constraints, the fast pace of AI change versus slow publication, reproducibility and FAIR-practice gaps, reliance on proprietary tools, and weak or uncritical theory use. See [[limitations-in-aied-research]].
+
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
@@ -33446,6 +33527,7 @@ Method choice follows the research question. Causal-effect questions favor exper
 - [[simulation]]
 - [[ai-education]]
 - [[higher-ed]]
+- [[limitations-in-aied-research]]
 
 ## Connected Articles
 
