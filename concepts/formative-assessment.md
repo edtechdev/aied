@@ -94,6 +94,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of GenAI
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[sequenced-ai-feedback-learning]] — Impact and pathways of sequenced AI feedback
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI
 - [[ai-internal-feedback-evaluative-judgments]] — Developing evaluative judgments through AI-supported internal feedback

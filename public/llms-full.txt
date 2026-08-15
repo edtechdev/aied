@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 612 articles and 133 concepts.
+> Complete text of 613 articles and 133 concepts.
 
 # Articles
 
@@ -4209,48 +4209,29 @@ Pascal Riachi, Sofie Kamber, Stella Brogna, Andrew Gloster, Rafael Wampfler (202
 ## [AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics](https://edtechdev.github.io/aied/articles/ai-scoring-language-bias-physics/)
 
 > **Authors:** Markus S. Feser, Paul L. Tschisgale (Leibniz Institute for Science and Mathematics Education, Kiel, Germany)
-
 **Source:** arXiv:2607.28210 (physics.ed-ph, July 2026)
-
 ## Key Findings
-
 This study examined whether AI-based scoring can assess students' conceptual understanding **independently of the linguistic quality** of their text-based explanations in physics. The researchers compared scores from **9 machine learning (ML) approaches and 2 large language model (LLM) approaches** against human expert scores for 116 secondary-school students' physics explanations.
-
 ### The Language Bias Problem
-
 - **Systematic underestimation**: Explanations of lower linguistic quality were systematically more likely to receive lower AI-generated conceptual understanding scores than experts assigned — a bias that emerged across **every single AI-based scoring approach** tested.
 - **Asymmetric effect**: Higher linguistic quality showed **no comparable link** to overestimation. The bias only runs in one direction: linguistically weak students are penalized, but linguistically strong students are not inflated.
 - **Mirrors human bias**: This language bias closely resembles that previously reported for **physics teachers** themselves (Feser & Höttecke, 2021), suggesting the difficulty lies less in any particular assessor (human or machine) than in the fundamental nature of inferring conceptual understanding from text-based explanations.
-
 ### Disproportionate Impact
-
 The stakes fall hardest on **multilingual learners**, whose language proficiency may be misread as weaker conceptual understanding. This is especially concerning as AI-based scoring takes on higher-stakes assessment decisions.
-
 ## Relevance to AI in Education
-
 This paper makes a critical contribution to the [[automated-assessment]] and [[automated-essay-scoring]] literature by demonstrating that the [[bias-mitigation]] problem in AI scoring is not merely a technical artifact of specific models but appears to be **fundamental to the task itself**. Key connections:
-
 - **Not just an AI problem**: The finding that the same [[bias-mitigation]] pattern exists in human physics teachers challenges the assumption that AI introduces unique biases. Instead, it suggests a deeper [[assessment-validity]] challenge: distinguishing conceptual understanding from linguistic expression in text-based explanations is inherently difficult.
-
 - **[[equity-in-ai-education]]**: The asymmetric nature of the bias (underestimation without compensating overestimation) means linguistically weak students are systematically disadvantaged, with no offsetting benefit for strong writers. This raises serious [[equity-in-ai-education]] concerns as [[automated-grading]] scales.
-
 - **[[language-learning]]**: The finding that multilingual learners are disproportionately affected connects directly to broader concerns about AI tools in linguistically diverse classrooms. See also [[language-learning]] and [[genai-linguistic-diversity-academic-writing]].
-
 - **[[automatic-short-answer-grading]]**: The study's comparison of ML and LLM approaches provides evidence that newer LLM-based systems are not immune to this bias — it persists across both paradigms. See related work on [[short-answer-scoring-quality-degradation]].
-
 - **[[ai-assessment-human-tutors]]**: The parallel between AI and human scoring bias suggests that the goal should not be to replace human assessment but to understand the limitations shared by both, as also explored in the [[ai-feedback-quality]] literature.
-
 - **[[educational-measurement]]**: The concept of construct-irrelevant variance — where language proficiency contaminates measurement of conceptual understanding — is a fundamental [[assessment-validity]] concern that this study quantifies across AI systems.
-
 ## Implications
-
 1. **Benchmarking AI scoring**: AI-based scoring systems should be explicitly evaluated for language bias, not just overall agreement with human scores.
 2. **High-stakes caution**: As AI scoring moves toward higher-stakes decisions, the asymmetric language bias becomes increasingly consequential.
 3. **Multimodal assessment**: The findings support calls for assessment approaches that reduce dependence on linguistic production, particularly for [[language-learning]] populations.
 4. **Teacher-AI collaboration**: Rather than replacing teacher assessment, AI scoring may be most useful when teachers remain in the loop to calibrate for language effects.
-
 ## Connected Concepts
-
 - [[automated-assessment]]
 - [[automated-essay-scoring]]
 - [[bias-mitigation]]
@@ -4262,14 +4243,13 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - [[educational-measurement]]
 - [[physics-education]]
 ## Connected Articles
-
 - [[genai-linguistic-diversity-academic-writing]]
 - [[automatic-short-answer-grading]]
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[short-answer-scoring-quality-degradation]]
 - [[ai-assessment-human-tutors]]
 - [[icle-plus-plus-essay-scoring]]
 ## Citation
-
 Tschisgale", A.S.F.P.L., Leibniz, P.E., to, E.A.S.A.H.L.Q.S.N.C.L., & frequently, T.C.S.I.P.T.A.P.P.T. (2026). [*AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics*](https://arxiv.org/abs/2607.28210)
 
 ---
@@ -6953,34 +6933,26 @@ Haein Kong (2026). [Child Safety in Generative AI: An Expert-Guided and Incident
 ## [Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting](https://edtechdev.github.io/aied/articles/choi-anchor-aes-prompting-2025/)
 
 > **Synthesis:** Choi, Tate, Ritchie, Nixon & Warschauer (2025) investigate the most practical approach to LLM-based automated essay scoring — prompting — and find that providing anchor papers (example essays with scores) significantly improves LLM-human agreement, bringing it close to human-human scoring reliability. GPT-4o mini achieves comparable results to GPT-4o at substantially lower cost, making accessible, teacher-friendly AES feasible.
-
 ## Key Findings
-
 - **Anchor papers are critical:** Including exemplar essays in prompts dramatically improved scoring accuracy, reaching near-human reliability levels
 - **Cost-effective models work:** GPT-4o mini achieved comparable results to GPT-4o at a fraction of the cost, removing barriers for educator adoption
 - **Prompting beats fine-tuning for accessibility:** Unlike resource-intensive optimization methods, structured prompting is practical for teachers to use directly
 - **Rubrics + anchors outperform rubrics alone:** Combining grading rubrics with anchor papers yielded the best results
 - **Secondary school essays tested:** Study used argumentative essays from secondary students, demonstrating relevance for [[k-12]] contexts
-
 ## Implications
-
 This study advances [[automated-essay-scoring]] by shifting focus from resource-intensive model optimization to accessible prompting strategies. For teachers, the finding that GPT-4o mini with anchor papers approaches human reliability means practical AES is within reach — no expensive compute, no large pre-scored essay banks. The anchor paper approach connects to [[prompt-engineering]] best practices and suggests a pathway for [[writing-education]] where teachers can calibrate AI scoring to their own assessment standards rather than relying on black-box systems.
-
 The work complements [[psyscore-essay-scoring-zpd-feedback]] research on psychometrically-aware scoring and [[icle-plus-plus-essay-scoring]] work on fine-grained trait scoring, showing that prompt design alone — particularly anchor inclusion — can achieve strong holistic scoring. For [[ai-literacy]], this empowers educators to understand and control AES rather than treating it as an opaque tool.
-
 ## Connected Concepts
-
 - [[k-12]]
 - [[automated-essay-scoring]]
 - [[prompt-engineering]]
 - [[writing-education]]
 - [[ai-literacy]]
 ## Connected Articles
-
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[psyscore-essay-scoring-zpd-feedback]]
 - [[icle-plus-plus-essay-scoring]]
 ## Citation
-
 Choi, J., Tate, T., Ritchie, D., Nixon, N., & Warschauer, M. (2025). [*Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting*](https://doi.org/10.35542/osf.io/cbhgz_v1). EdArXiv. doi:10.35542/osf.io/cbhgz_v1.
 
 ---
@@ -14982,22 +14954,15 @@ Do, L. A., Jiang, H., Aeron, S., & Thomas, A. K. (2026). [Measuring cognitive en
 ## [ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring](https://edtechdev.github.io/aied/articles/icle-plus-plus-essay-scoring/)
 
 Introduces ICLE++, a new annotated corpus of persuasive student essays that addresses critical limitations of the dominant ASAP benchmark in [[automated-essay-scoring]] research. Unlike ASAP — used by virtually all recent AES models but limited to U.S. grade 7–10 native-English essays — ICLE++ provides both holistic scores and fine-grained trait-specific annotations, enabling evaluation of cross-corpus generalization, multi-trait scoring, and cross-prompt scoring. The authors demonstrate that models trained on trait-specific annotations transfer better across corpora than those trained on holistic scores alone, making ICLE++ a foundational resource for the next generation of AES research.
-
 ## Key Contributions
-
 - **New annotated corpus:** ICLE++ provides persuasive student essays annotated with holistic scores and multiple trait-specific scores, filling a gap left by the field's over-reliance on ASAP
 - **Cross-corpus generalization:** Models trained on ASAP often fail to generalize to other corpora (e.g., TOEFL essays by English learners, essays written without time constraints) — ICLE++ enables systematic evaluation of this transfer
 - **Trait-level scoring advances:** Fine-grained trait annotations support multi-trait scoring and cross-prompt scoring, moving AES beyond single holistic score prediction
 - **Addresses ASAP limitations:** ASAP's confounding variables — essay length as a proxy for quality in timed settings, native-speaker-only population — are well-documented; ICLE++ provides a complementary benchmark
-
 ## Implications for AI in Education
-
 ICLE++ strengthens the [[automated-essay-scoring]] research ecosystem by providing a second major annotated corpus that can test whether AES advances generalize beyond ASAP. This connects directly to [[assessment-validity]] concerns: if models trained on one corpus fail on another, their scores are not valid measures of writing quality. The trait-specific annotations also enable more diagnostically useful AES — rather than a single score, systems can report strengths and weaknesses across specific writing dimensions, supporting [[formative-assessment]] and connecting to psychometric frameworks like [[item-response-theory]].
-
 The work complements [[psyscore-essay-scoring-zpd-feedback]]'s psychometrically-aware trait scoring and [[choi-anchor-aes-prompting-2025]]'s finding that prompting-based AES with anchor papers approaches human reliability. While Choi et al. show what prompting can achieve holistically, ICLE++ provides the annotated data needed to evaluate whether trait-level scoring generalizes — a question also explored by [[self-referential-l2-writing-llm-assessment]] for L2 learners. The cross-corpus generalizability question likewise connects to [[ai-scoring-language-bias-physics]]'s finding that AI scoring systematically underestimates linguistically diverse students, and to [[aiawe-automated-writing-evaluation]]'s demonstration that open-source models can achieve strong AES performance on specific datasets.
-
 ## Connected Concepts
-
 - [[automated-essay-scoring]]
 - [[automated-grading]]
 - [[writing-education]]
@@ -15008,15 +14973,13 @@ The work complements [[psyscore-essay-scoring-zpd-feedback]]'s psychometrically-
 - [[item-response-theory]]
 - [[higher-ed]]
 ## Connected Articles
-
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[psyscore-essay-scoring-zpd-feedback]]
 - [[choi-anchor-aes-prompting-2025]]
 - [[ai-scoring-language-bias-physics]]
 - [[self-referential-l2-writing-llm-assessment]]
 - [[aiawe-automated-writing-evaluation]]
-
 ## Citation
-
 Shengjie Li, Vincent Ng (2026). [ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring](https://arxiv.org/abs/2607.27671). arXiv:2607.27671. cs.CL.
 
 ---
@@ -18554,6 +18517,55 @@ Li, C., Gülfidan, G., & Zhang-Kopf, Y. (2026). [*Balancing AI responsibility wi
 
 ---
 
+## [LLMs Do Not Grade Essays Like Humans](https://edtechdev.github.io/aied/articles/llms-do-not-grade-essays-like-humans-2026/)
+
+> **Synthesis:** Mathew, Taher, Kundu, and Barbosa (2026) evaluate how out-of-the-box LLMs (GPT and Llama families) score essays compared with human graders on ASAP and DREsS datasets. Agreement with human scores is **weak** and varies systematically with essay quality: LLMs assign *higher* scores to short/underdeveloped essays but *lower* scores to longer essays with minor surface errors. LLM scores are internally consistent with LLM feedback, but the models rely on signals that differ from human raters. The authors conclude LLMs are not yet suitable as standalone **summative** graders, but are useful as a **formative** first-pass feedback tool — with important privacy/consent caveats.
+
+## The Core Finding: Weak Agreement with Systematic Bias
+
+Across several GPT (3.5/4/5) and Llama (2/3/4) models, agreement between LLM-generated scores and human grades was generally weak (inter-rater QWK ~0.17–0.28, vs ~0.72 between two human raters). Critically, disagreement is **not random** — it varies systematically with essay characteristics:
+
+- **Short/underdeveloped essays** tend to receive *higher* LLM scores when prompt relevance and surface readability are present, even at the expense of depth of argumentation.
+- **Longer, strong essays with minor surface errors** tend to receive *lower* LLM scores — LLMs penalize grammatical/spelling mistakes that human raters tolerate when content and argumentation are strong.
+- **Central tendency bias:** LLMs cluster around the middle of the grading scale, avoiding extreme scores rather than using the full range.
+
+## Internal Consistency of Scores and Feedback
+
+LLM-generated scores are generally consistent with the feedback they produce: essays receiving more praise tend to receive higher scores, and essays receiving more criticism tend to receive lower scores. This suggests models follow coherent internal criteria when evaluating essays — even though those criteria differ from human raters' implicit standards. Different LLMs also rely on different subsets of rubric traits, partly explaining the variability in grading behavior across models.
+
+## Implications for Assessment Practice
+
+1. **Not suitable for high-stakes summative grading.** Systematic differences mean strong writers may be unfairly penalized while underdeveloped work goes undetected — a significant risk where grades carry direct consequences.
+2. **A useful formative first-pass tool.** The coherence between scores and feedback supports a role in guiding student revision: generating feedback on drafts, flagging surface errors, and identifying essays needing closer attention — while keeping the human as the final judge.
+3. **Prioritize feedback over the numeric score.** Since LLM scores are less reliable at the extremes, educators should favor the generated feedback and apply simple calibration strategies (e.g., adjusting for essay length or surface errors).
+4. **Privacy and consent are essential.** Processing student essays via commercial APIs may violate FERPA/GDPR; student data could be used for model training or later flagged as AI-generated by plagiarism detectors. Open-source models running locally are a more privacy-preserving option. Students should be informed when LLMs are involved in evaluating their work.
+
+## Connected Concepts
+
+- [[automated-essay-scoring]]
+- [[automated-assessment]]
+- [[assessment-validity]]
+- [[formative-assessment]]
+- [[writing-education]]
+- [[llm]]
+- [[generative-ai]]
+- [[privacy]]
+- [[human-in-the-loop-ai]]
+
+## Connected Articles
+
+- [[choi-anchor-aes-prompting-2025]] — Anchor-based prompting for automated essay scoring
+- [[icle-plus-plus-essay-scoring]] — iCLE++ essay scoring
+- [[psyscore-essay-scoring-zpd-feedback]] — PsyScore: psychometrically-aware essay scoring and feedback
+- [[self-referential-l2-writing-llm-assessment]] — Self-referential LLM assessment in L2 writing
+- [[ai-scoring-language-bias-physics]] — AI scoring and language bias
+
+## Citation
+
+Mathew, J. G., Taher, S., Kundu, A., & Barbosa, D. (2026). [*LLMs Do Not Grade Essays Like Humans*](https://doi.org/10.1016/j.caeai.2026.100666). *Computers and Education: Artificial Intelligence*.
+
+---
+
 ## [Artificial intelligence, cognitive offloading and implications for education](https://edtechdev.github.io/aied/articles/lodge-loble-cognitive-offloading-2026/)
 
 > **Synthesis:** Lodge & Loble (2026) provide a comprehensive report on the cognitive science behind AI use in education, arguing that the core risk of generative AI is not plagiarism but cognitive offloading — students outsourcing the mental work required for durable learning. They distinguish beneficial offloading (freeing capacity for higher-order thinking) from detrimental outsourcing (bypassing desirable difficulties), introduce the concept of metacognitive laziness and a new metacognitive equity gap, and propose pedagogical strategies to move from cognitive atrophy to augmentation.
@@ -22044,37 +22056,28 @@ Cheng, X., Wang, J., He, C., Dong, R., & Guan, Q. (2026). [*ProPRL: Property-Awa
 ## [PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback](https://edtechdev.github.io/aied/articles/psyscore-essay-scoring-zpd-feedback/)
 
 > **Xia, W., Wu, J., Shi, H., Wang, X., & Zheng, C.** (2026). East China Normal University / arXiv cs.CL preprint.
-
 ## Overview
-
 PsyScore integrates diagnostic assessment with instructional scaffolding through a shared latent ability representation. Three modules: (1) Trait-Adaptive Neural IRT Scorer incorporating GPCM for precise ability estimation (QWK 0.747, besting prior SOTA 0.722); (2) ZPD-Scaffolded Feedback Generator conditioning multi-agent feedback on diagnosed ability; (3) Multi-Perspective Feedback Evaluation via pairwise preferences and simulated revisions. Demonstrates that psychometrically-aware automated essay scoring (AES) can transform from summative scoring into formative diagnosis.
-
 ## Key Findings
-
 - **Problem:** AES systems treat scoring and feedback as separate; neural scoring lacks interpretability; LLM feedback is ability-agnostic.
 - **Solution:** Unified psychometric latent space (θ) via Neural GPCM Trait-Adaptive Scorer.
 - **Scoring performance:** QWK 0.747 (besting prior SOTA 0.722); 1st in 6/8 ASAP++ prompts and 10/11 trait dimensions.
 - **Feedback quality:** ZPD-based strategy mapping (Explicit Correction for θ<-1, Scaffolding for -1<θ<1, Socratic for θ>1). Multi-agent fusion from Llama-4-Scout, Qwen3-235B, GPT-4o.
 - **Evaluation:** >90% win rate in Actionability vs GPT-4o, Llama-4-Scout, Qwen3.
 - **Implication:** psychometrically-aware AI can unify assessment and instruction, transforming automated essay scoring from summative to formative.
-
 ## Connected Concepts
-
 - [[automated-assessment]]
 - [[assessment-validity]]
 - [[confidence-aware-ai-assessment]]
 - [[formative-assessment]]
 - [[writing-education]]
 - [[scaffolding]]
-
 ## Connected Articles
-
 - [[icle-plus-plus-essay-scoring]] — iCLE++ essay scoring
 - [[choi-anchor-aes-prompting-2025]] — Anchor-based AES prompting
 - [[ai-peer-feedback-systems]] — AI peer feedback systems
-
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 ## Citation
-
 Xia, W., Wu, J., Shi, H., Wang, X., & Zheng, C. (2026). [*PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback*](https://arxiv.org/abs/2606.20287). arXiv:2606.20287. East China Normal University / arXiv cs.CL preprint.
 
 ---
@@ -23396,35 +23399,23 @@ Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carv
 ## [Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs](https://edtechdev.github.io/aied/articles/self-referential-l2-writing-llm-assessment/)
 
 > Bannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from **inter-learner ranking** to **intra-learner profiling**. Instead of asking "how does this essay rank against others?", their self-referential framework asks "what are this specific learner's strengths and weaknesses?"
-
 # Self-Referential L2 Writing Assessment with LLMs
-
 ## Core Contribution
-
 Bannò, Knill & Gales (2026) propose a paradigm shift in automated essay scoring: from **inter-learner ranking** to **intra-learner profiling**. Instead of asking "how does this essay rank against others?", their self-referential framework asks "what are this specific learner's strengths and weaknesses?"
-
 ## Key Findings
-
 Using the ICNALE GRA dataset annotated by up to 80 trained raters and calibrated with two-facet Rasch modeling:
 - **LLMs outperform single human raters** at identifying relative weaknesses (negative feedback) across proficiency aspects
 - **Human raters remain stronger** at identifying relative strengths (positive feedback)
 - Traditional rank-based correlation metrics **mask diagnostic behavior** — high correlations can hide poor intra-learner discrimination
-
 ## Implications for AIED
-
 This connects to [[automated-grading]] but challenges its dominant evaluation paradigm. The finding that LLMs are strong at weakness detection but weaker at strength identification has practical implications for [[formative-assessment]] design — AI might best serve as a **complementary weakness detector** while teachers focus on strengths.
-
 The self-referential approach aligns with [[personalized-learning]] goals and the [[ai-learning-companions-framework]] emphasis on prioritizing learning over performance. It extends [[writing-education]] research on AI in composition and connects to [[automated-question-generation]] work on AI-generated assessment. The use of Rasch modeling for calibration connects to [[ground-truth-reliability-aied]] calls for more rigorous measurement in AIED.
-
 ## Connections to Wiki
-
 - Paradigm shift from [[automated-grading]] ranking to profiling
 - Aligns with [[sequenced-ai-feedback-learning]] emphasis on feedback quality over quantity
 - Extends [[llm-student-modeling-memory]] to assessment contexts — profiling over time
 - Complements [[human-in-the-loop-ai]] by identifying where humans vs. AI add value
-
 ## Connected Concepts
-
 - [[automated-grading]]
 - [[formative-assessment]]
 - [[personalized-learning]]
@@ -23432,14 +23423,13 @@ The self-referential approach aligns with [[personalized-learning]] goals and th
 - [[automated-question-generation]]
 - [[human-in-the-loop-ai]]
 ## Connected Articles
-
 - [[ai-learning-companions-framework]]
 - [[ground-truth-reliability-aied]]
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[sequenced-ai-feedback-learning]]
 - [[llm-student-modeling-memory]]
 - [[icle-plus-plus-essay-scoring]]
 ## Citation
-
 Gales, A.S.B.K.K.M., Approach, T.S.A.A.A.P., LLMs, T.L.W.E.W., Gales, S.B.K.K.M., prac-, A.I.R.W.C.D.T.A.C.E., & (PCC), G.A.U.D.S.W.S.A.P.C.C. (2026). [*Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs*](https://arxiv.org/abs/2605.04298)
 
 ---
@@ -28862,6 +28852,8 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[confidence-aware-student-drawing-assessment]]
 - [[cong-confidence-asag-2026]]
 
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
+
 ---
 
 ## [Assessment](https://edtechdev.github.io/aied/concepts/assessment/)
@@ -29048,6 +29040,7 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 
 ## Connected Articles
 - [[competency-based-education-genai-production-2026]]
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[multimodal-item-parameter-estimation-2026]]
 
 - [[automated-formative-assessments-a-level-sciences]]
@@ -29096,6 +29089,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[ai-scoring-language-bias-physics]]
 - [[choi-anchor-aes-prompting-2025]]
 - [[icle-plus-plus-essay-scoring]]
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[psyscore-essay-scoring-zpd-feedback]]
 - [[self-referential-l2-writing-llm-assessment]]
 - [[aiawe-automated-writing-evaluation]]
@@ -30830,6 +30824,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of GenAI
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[sequenced-ai-feedback-learning]] — Impact and pathways of sequenced AI feedback
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI
 - [[ai-internal-feedback-evaluative-judgments]] — Developing evaluative judgments through AI-supported internal feedback
@@ -30952,6 +30947,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[tpack]]
 ## Connected Articles
 - [[genai-student-experiences-uk-he-survey-2026]]
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[metacognitively-discordant-completion-genai-2026]]
 - [[competency-based-education-genai-production-2026]]
 - [[ai-interior-design-malaysia-2026]]
@@ -31311,6 +31307,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[cyberscholar-genai-writing-feedback]]
 - [[eduagentbench-agent-teaching-benchmark]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
@@ -32038,6 +32035,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[pedagogical-llm-training]]
 - [[learning-by-teaching]]
 ## Connected Articles
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[multimodal-item-parameter-estimation-2026]]
 
 - [[educational-llm-alignment]]
@@ -33012,6 +33010,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[ai-lms-middle-school-longitudinal]]
 - [[child-safety-genai]]
 - [[eduzone-llm-safety-k12]]
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 
 ---
@@ -34878,6 +34877,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 
 ## Connected Articles
 
+- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
 - [[choi-anchor-aes-prompting-2025]] — Anchor-Based Automated Essay Scoring
