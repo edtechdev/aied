@@ -1,7 +1,7 @@
 ---
 title: CS Education and AI
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [computational-thinking, stem-education, automated-grading, prompt-engineering, higher-ed, k-12, llm, generative-ai]
 confidence: high
@@ -39,6 +39,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[over-reliance]]
 
 ## Connected Articles
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
 
 - [[code-review-genai-cs1]]
 - [[dura-llm-cs2]]

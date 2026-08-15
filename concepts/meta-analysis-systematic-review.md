@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [meta-analysis, systematic-review, research-methods, methodology, evidence-synthesis, ai-education, evaluation]
 confidence: high
@@ -90,6 +90,8 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[simulation]]
 
 ## Connected Articles
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
+- [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review
 
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming

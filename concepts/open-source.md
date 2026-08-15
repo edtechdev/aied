@@ -37,6 +37,7 @@ Open-source AI intersects with [[intelligent-tutoring]] (open tutors like [[kar-
 - [[academic-integrity]]
 - [[automated-grading]]
 ## Connected Articles
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
 
 - [[agentic-ai-education-scoping-review]]
 - [[aiawe-automated-writing-evaluation]]

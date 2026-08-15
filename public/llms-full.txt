@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 614 articles and 134 concepts.
+> Complete text of 617 articles and 134 concepts.
 
 # Articles
 
@@ -5152,6 +5152,51 @@ Tested with 46 undergraduate students in a real academic setting. Findings: tech
 ## Citation
 
 Cobos, A.A.B.D.G.R. & 2026, V.L.S. (2026). [*AISSA: AI-based Student Slides Analysis Tool for Academic Presentations*](https://arxiv.org/abs/2605.04729)
+
+---
+
+## [Transforming Nursing Education with Artificial Intelligence: A Systematic Review (2010–2025)](https://edtechdev.github.io/aied/articles/alrazeeni-transforming-nursing-education-ai-2026/)
+
+> **Synthesis:** Alrazeeni et al. (2026) provide the first comprehensive systematic review of empirical AI applications in nursing education (28 studies, 2010–April 2025, from PubMed, CINAHL, IEEE Xplore, and Scopus). They find AI enhances nursing education in four areas — personalized learning, simulation-based training, automated assessment, and institutional curriculum management/predictive analytics — while surfacing recurring risks (technological inequity, faculty preparedness gaps, privacy and bias concerns). They offer concrete implementation recommendations and propose diagnostic accuracy as a measurable outcome.
+
+## Key Findings
+
+1. **Four application areas.** AI in nursing education centers on: (a) personalized learning systems tailoring content to individual needs; (b) simulation-based training improving decision-making in high-acuity scenarios; (c) automated assessment providing immediate, unbiased feedback; (d) institutional-level AI for curriculum management and predictive analytics.
+
+2. **Recurring risks.** Technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias are common across studies.
+
+3. **Actionable recommendations.** Integrate AI-powered simulation into emergency-care training; deploy adaptive platforms to support at-risk learners; use automated tools for real-time formative feedback; and adopt diagnostic accuracy as a measurable outcome for assessing impact.
+
+4. **Next step.** Initiate multi-site pilot programs over 6–12 months, evaluating improvements in learning outcomes, trust, and system integration.
+
+## Implications
+
+This review brings the wiki's AIED themes into the clinical/health-professions context, extending [[simulation]]-based training, [[personalized-learning]], and [[automated-assessment]] to nursing. It exemplifies a thematic [[meta-analysis-systematic-review|systematic review]] method and connects to medical-education and health-professions-education applications of AI, as well as to [[equity-in-ai-education|equity]] and [[ethics]] concerns. The focus on faculty preparedness aligns with [[faculty-development]] and [[teacher-role]]; the emphasis on validated, measurable outcomes connects to [[ai-ed-evaluation]] and [[educational-measurement]].
+
+## Connected Concepts
+
+- [[simulation]]
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[automated-assessment]]
+- [[curriculum-design]]
+- [[equity-in-ai-education]]
+- [[ethics]]
+- [[meta-analysis-systematic-review]]
+- [[faculty-development]]
+- [[ai-ed-evaluation]]
+
+## Connected Articles
+
+- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive virtual patient for psychotherapy training
+- [[medgame-llm-medical-education-gamification]] — LLM gamification in medical education
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation in clinical training
+- [[residencyrl-clinical-rl-training-2026]] — RL-based clinical training
+- [[simulating-students-java-programming-errors-llms]] — LLM simulation of learners
+
+## Citation
+
+Alrazeeni, D. M., Alharrasi, M., Rony, M. K. K., Biswas, R. K., Tama, I. J., Halder, C. R., Deb, B., Bashar, F., & Akter, F. (2026). [*Transforming nursing education with artificial intelligence: A systematic review (2010–2025)*](https://doi.org/10.1177/23779608261424597). *SAGE Open Nursing*, 12, 1–31. https://doi.org/10.1177/23779608261424597
 
 ---
 
@@ -15553,6 +15598,51 @@ Kar, D., Böss, L., Braca, D., Dennerlein, S. M., Hubig, N. C., Wintersberger, P
 
 ---
 
+## [Redefining personalized learning in the artificial intelligence era: an updated systematic review from 2019 to 2025](https://edtechdev.github.io/aied/articles/khalifeh-redefining-personalized-learning-ai-2026/)
+
+> **Synthesis:** Khalifeh, Santiago, and Palau (2026) systematically review how AI is redefining **personalized learning** (PL) terminology from 2019–2025 across six databases. They find that PL remains a broad, conceptually ambiguous umbrella term — with adaptive learning, individualized instruction, and customized learning used interchangeably — and argue that AI-driven real-time feedback, adaptive sequencing, and intelligent tutoring have transformed PL in ways that demand a **unified framework and definition**. They also identify persistent research gaps: a disproportionate focus on older learners, limited longitudinal/inclusive/methodologically rigorous research, and insufficient attention to privacy, bias, ethics, teacher preparation, and human–AI collaboration.
+
+## Key Findings
+
+1. **PL is conceptually ambiguous.** Personalized learning functions as a broad, multi-layered umbrella term without a universally accepted definition; related terms are used interchangeably, creating clarity problems for research and practice.
+
+2. **AI is transforming PL.** Real-time feedback, adaptive sequencing, intelligent tutoring, and dynamic learning pathways have shifted PL from static, one-size-fits-all instruction toward adaptive, data-driven, learner-centered approaches.
+
+3. **A unified term is needed.** The review calls for a common framework to clarify definitions and enhance consistency across educational technology practice — extending Shemshack and Spector's (2020) earlier terminology review.
+
+4. **Research gaps persist.** Disproportionate focus on older learners; a lack of longitudinal, inclusive, and methodologically rigorous research, especially in underrepresented populations and diverse contexts; frameworks lagging behind technological innovation; and under-addressed concerns around privacy, bias, ethics, teacher preparation, and human–AI collaboration.
+
+## Implications
+
+This review clarifies the often-conflated concepts at the heart of [[personalized-learning]] and [[adaptive-learning]], connecting them to [[intelligent-tutoring]], [[llm|LLM-based]] tutors, and [[learning-analytics]]. Its call for definitional rigor and unified terminology speaks to the wiki's [[limitations-in-aied-research|critique of weak and ambiguous theory/construct use]], and its emphasis on methodological and equity gaps aligns with [[equity-in-ai-education]] and [[research-methods-aied]]. For designers, it cautions that "personalized" is frequently a vague label rather than a precise, evidence-backed claim.
+
+## Connected Concepts
+
+- [[personalized-learning]]
+- [[adaptive-learning]]
+- [[intelligent-tutoring]]
+- [[llm]]
+- [[generative-ai]]
+- [[learning-analytics]]
+- [[equity-in-ai-education]]
+- [[research-methods-aied]]
+- [[limitations-in-aied-research]]
+- [[item-response-theory]]
+
+## Connected Articles
+
+- [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-powered personalized learning
+- [[learnmate2-llm-adaptive-learning]] — LLM adaptive learning
+- [[ecnuclaw-k12-personalized-companion]] — K-12 personalized companion
+- [[learning-to-prompt-adaptive-tutoring]] — Prompt-based adaptive tutoring
+- [[tact-pedagogically-adaptive-esl-tutoring]] — Pedagogically adaptive ESL tutoring
+
+## Citation
+
+Khalifeh, F., Santiago, R., & Palau, R. (2026). [*Redefining personalized learning in the artificial intelligence era: an updated systematic review from 2019 to 2025*](https://doi.org/10.1186/s40561-026-00440-6). *Smart Learning Environments*, 13, 19. https://doi.org/10.1186/s40561-026-00440-6
+
+---
+
 ## [LLM Fallacy Misattribution in Education](https://edtechdev.github.io/aied/articles/kim-llm-fallacy-misattribution-2026/)
 
 > **The LLM Fallacy** is a cognitive attribution error in which individuals misinterpret LLM-assisted outputs as evidence of their own independent competence — producing a systematic gap (∆C) between perceived and actual capability. This divergence persists regardless of whether the LLM output is correct or erroneous, and it is driven by three system-level properties (opacity, fluency, and interactional immediacy) mediated by attribution ambiguity and cognitive outsourcing.
@@ -23340,6 +23430,49 @@ Hamilton, K., Hou, I., Patel, D., Nnam, S., Patel, H., & MacNeil, S. (2026). [*"
 
 ---
 
+## [Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources](https://edtechdev.github.io/aied/articles/shen-sustainable-ai-knowledge-base-cs-education-2026/)
+
+> **Synthesis:** Shen et al. (2026) demonstrate the feasibility of running AI knowledge-base assistants entirely on **consumer-grade hardware** (NVIDIA RTX 3060, 12 GB VRAM) using **open educational resources** (OER) for computer science education — an on-premise alternative to cloud-dependent AI tutors. Combining structured extraction from 82 OER documents, RAG, and NF4 4-bit quantization-aware fine-tuning of Qwen-7B and DeepSeek-MoE, they report strong accuracy (DeepSeek-MoE 78.6% overall, 82.3% multi-hop) at very low energy cost (1.8 mWh/query) while preserving educational utility within ~2 points of full-precision accuracy. The system is framed as a knowledge-base assistant, not a validated tutor.
+
+## Key Findings
+
+1. **On-premise deployment is feasible on consumer GPUs.** AI inference runs entirely on institution-owned hardware, eliminating cloud latency, cost, and data-governance risk — key for regions with unreliable internet or limited infrastructure.
+2. **Retrieval augmentation is essential.** The Local LLM (no retrieval) scored only 52.3% accuracy — below even the TF-IDF baseline (55.4%); RAG without fine-tuning reached 66.6%.
+3. **Fine-tuning adds value beyond retrieval.** Qwen-7B (quantization-aware fine-tuned) reached 69.8% (+3.2 pp, p=0.031); DeepSeek-MoE reached 78.6% (+12.0 pp, p<0.001), including 82.3% on multi-hop reasoning.
+4. **Quantization-aware fine-tuning preserves utility.** It narrowed the FP16-to-4-bit accuracy gap to 1.7 pp (Qwen-7B) and 1.2 pp (DeepSeek-MoE), while cutting VRAM by ~38% and energy to 1.8 mWh/query (43.8% below baseline).
+5. **Hallucination is controllable.** Quantization raises hallucination rates, but fine-tuning substantially mitigates them (e.g., DeepSeek-MoE 10.4%→8.1%), measured via a two-stage NLI procedure against retrieved OER chunks.
+
+## Implications
+
+This work connects [[open-source|open-source AI]], [[privacy]] (on-premise data control), and [[cs-education]] to sustainable, resource-constrained deployment. It grounds [[ai-ed-evaluation]] in a multi-dimensional protocol (accuracy, efficiency, RAG faithfulness, energy) rather than single accuracy numbers — a model for how institutions with limited budgets can evaluate and adopt local AI tutors. It also aligns with [[benchmark]]-driven comparisons and [[rag|retrieval-augmented generation]] design, while the explicit "knowledge-base assistant, not validated tutor" framing cautions against overclaiming pedagogical effectiveness.
+
+## Connected Concepts
+
+- [[cs-education]]
+- [[open-source]]
+- [[privacy]]
+- [[llm]]
+- [[rag]]
+- [[benchmark]]
+- [[ai-ed-evaluation]]
+- [[generative-ai]]
+- [[edtech-platform]]
+- [[ai-tutoring]]
+
+## Connected Articles
+
+- [[vismatic-secure-sandbox-cs-education]] — VS-MATIC: secure sandboxed environments for computing education
+- [[lata-ferpa-compliant-local-llm-autograder]] — FERPA-compliant local LLM grading
+- [[oatutor-open-source-adaptive-tutor-2023]] — Open-source adaptive tutor
+- [[simulating-students-java-programming-errors-llms]] — LLMs as simulated learners in CS
+- [[reshaping-cs-education-genai]] — Reshaping CS education with GenAI
+
+## Citation
+
+Shen, X., Feng, L., Hua, S., Liu, D., Xie, Z., & Liu, B. (2026). [*Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources*](https://doi.org/10.3389/fpsyg.2026.1843444). *Frontiers in Psychology*, 17, 1843444. https://doi.org/10.3389/fpsyg.2026.1843444
+
+---
+
 ## [Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation](https://edtechdev.github.io/aied/articles/short-answer-scoring-quality-degradation/)
 
 > Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.
@@ -27856,6 +27989,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[formative-assessment]]
 
 ## Connected Articles
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 
 - [[deeptutor]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
@@ -28166,7 +28300,7 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 
 ### Why evaluation is hard in AI-ed
 
-AI-ed evaluation is difficult for several reasons. First, **reliability is not enough** — a system can agree with a rubric yet misjudge pedagogy, as [[machines-misread-pedagogical-quality|human–machine alignment research]] shows. Second, **ground truth is contested** — what counts as a "correct" answer, grade, or teaching move is itself a judgment that varies across disciplines and experts, per [[ground-truth-reliability-aied|ground-truth modernization]]. Third, **educational validity is multidimensional** — [[assessment-validity]], [[formative-assessment]], and [[authentic-assessment]] each impose different criteria that a single accuracy metric cannot capture. Finally, **the target keeps moving** — agentic AI and multimodal models demand evaluation frameworks ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|tool-invariant assessment]]) rather than reuse of text-model benchmarks. Evaluation findings are also subject to the same cross-cutting limitations that affect all AIED research — they age as AI improves, depend on reproducibility and FAIR practices, and may rest on proprietary systems — so evaluation results should be read with the caveats in [[limitations-in-aied-research]].
+AI-ed evaluation is difficult for several reasons. First, **reliability is not enough** — a system can agree with a rubric yet misjudge pedagogy, as [[machines-misread-pedagogical-quality|human–machine alignment research]] shows. Second, **ground truth is contested** — what counts as a "correct" answer, grade, or teaching move is itself a judgment that varies across disciplines and experts, per [[ground-truth-reliability-aied|ground-truth modernization]]. Third, **educational validity is multidimensional** — [[assessment-validity]], [[formative-assessment]], and [[authentic-assessment]] each impose different criteria that a single accuracy metric cannot capture. Finally, **the target keeps moving** — agentic AI and multimodal models demand evaluation frameworks ([[agentic-ai]], [[tool-invariant-framework-agentic-ai|tool-invariant assessment]]) rather than reuse of text-model benchmarks. Evaluation findings are also subject to the same cross-cutting limitations that affect all AIED research — they age as AI improves, depend on reproducibility and FAIR practices, and may rest on proprietary systems — so evaluation results should be read with the caveats in [[limitations-in-aied-research]]. A further, emerging dimension is **resource sustainability**: on-premise deployments increasingly report energy consumption and hardware requirements (e.g., VRAM, mWh per query) alongside accuracy — see [[shen-sustainable-ai-knowledge-base-cs-education-2026|sustainable on-premise knowledge-base assistants]] — so that a complete evaluation weighs environmental and infrastructural cost, not just output quality.
 
 ### Connections to related concepts
 
@@ -28192,6 +28326,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional evaluation
 
 - [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations
@@ -29053,6 +29188,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional benchmark
 
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
@@ -29668,6 +29804,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[over-reliance]]
 
 ## Connected Articles
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
 
 - [[code-review-genai-cs1]]
 - [[dura-llm-cs2]]
@@ -32182,6 +32319,8 @@ Within the wiki's methodological landscape, meta-analysis and systematic review 
 - [[simulation]]
 
 ## Connected Articles
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
+- [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review
 
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
@@ -32495,6 +32634,7 @@ Open-source AI intersects with [[intelligent-tutoring]] (open tutors like [[kar-
 - [[academic-integrity]]
 - [[automated-grading]]
 ## Connected Articles
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
 
 - [[agentic-ai-education-scoping-review]]
 - [[aiawe-automated-writing-evaluation]]
@@ -32810,6 +32950,10 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - **Longitudinal validity** — Personalization benefits may decay if profiles become stale or overfit
 - **Equity risks** — Over-personalization can strand learners in low-expectation tracks
 
+## Terminological ambiguity
+
+A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that adaptive learning, individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the wiki's [[limitations-in-aied-research|critique of weak construct use]]).
+
 ## Connected Concepts
 
 - [[adaptive-learning]]
@@ -32825,6 +32969,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 - [[learning-analytics]]
 - [[teacher-role]]
 ## Connected Articles
+- [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 - [[ai-guided-learning-audiovideo-2026]]
 
 - [[a4l-analytics-pipeline]]
@@ -33862,6 +34007,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[professional-training]]
 
 ## Connected Articles
+- [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
 
 - [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games
