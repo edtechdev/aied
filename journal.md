@@ -7,6 +7,7 @@
 ---
 
 ## 2026-08-15
+- [[melo-llm-classroom-observation-teach-2026]] — Validating AI-generated classroom observations: reliability, accuracy, and limits of LLM-based pedagogical judgment (Melo et al. 2026). https://doi.org/10.1016/j.caeai.2026.100612
 - ● [[long-ai-higher-ed-engagement-teaching-methods-2026]] — `10.3389/feduc.2025.1648661`
   Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods
   _student-engagement, higher-ed, ai-education, active-learning, project-based-learning +6_
