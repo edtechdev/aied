@@ -1,0 +1,78 @@
+---
+title: Limitations in AIEd Research
+created: 2026-08-15
+updated: 2026-08-15
+type: concept
+tags: [research-methods-aied, ai-education, methodology, reproducibility, validity, educational-measurement, open-science, ai-ed-evaluation, theory, benchmark]
+confidence: high
+---
+
+> **Limitations in AIEd research** — the recurring weaknesses and constraints that affect how much confidence we can place in AI-in-education findings, and how readers should interpret them. These cut across individual studies: methodological limitations (generalizability, sample size, validity, self-report), the speed problem (AI and findings date quickly while publication lags), research-practice limitations (reproducibility, FAIR practices, proprietary tools), and weak theory use. Recognizing these limits is essential for reading the literature critically and for designing stronger studies.
+
+AI in education is a fast-moving, heterogeneous field, and its evidence base carries a distinctive set of limitations that researchers, practitioners, and policy-makers should weigh when using any finding. Some of these are shared with the broader learning-sciences and psychology literature; others are amplified or made unique by the nature of AI itself. This page organizes them into four cross-cutting areas.
+
+## Methodological limitations
+
+The wiki's [[research-methods-aied|research methods]] page details the strengths and limitations of each design. Several limits recur across designs and deserve particular attention:
+
+- **Generalizability.** Findings from a single course, institution, discipline, or national context may not transfer. Small, convenience, or single-institution samples limit external validity; results from one AI tool rarely extend to a different tool or context.
+- **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
+- **Validity and measurement.** Construct validity is often thin: proxies for "learning," "engagement," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. Benchmark accuracy does not equal educational effectiveness.
+- **Self-report and survey data.** A large share of the corpus relies on self-reported attitudes, motivation, and usage. Self-report is subject to bias — respondents overestimate competence, under-report misuse, and misjudge their own behavior — so perception-based measures frequently diverge from objective performance (see [[ai-literacy-assessment-misalignment]] and [[educational-measurement]]).
+
+## The speed problem: AI evolves faster than findings
+
+AI is changing continuously, and the conclusions drawn from any given model or system can become **out of date quickly**. A study of one LLM generation may not describe the next; benchmark scores, tutoring quality, and even the practical usefulness of a finding shift as models improve. Compounding this, the **publication process is slow** — from study design to peer-reviewed publication can take a year or more — so a published result may already describe an obsolete system. Reviewers and readers should therefore treat AIED findings as provisional, date-sensitive claims rather than stable truths, and prefer recent, replication-oriented, and version-explicit work.
+
+## Research-practice limitations
+
+Several limitations concern the conduct and infrastructure of the research itself:
+
+- **Lack of reproducibility.** Studies often do not report enough detail (prompts, model versions, hyperparameters, data, analysis code) for others to reproduce or verify results — a particular problem given how sensitive LLM output is to prompts and settings.
+- **FAIR research practices.** Open and reproducible practice — **F**indable, **A**ccessible, **I**nteroperable, **R**eusable data and code, pre-registration, and shared benchmarks — is unevenly adopted in AIED. Weak adherence to FAIR principles makes it harder to reuse, compare, and build on studies.
+- **Proprietary tools and models.** Much research depends on closed, proprietary AI systems whose internal behavior, training data, and model updates are opaque and may change without notice. This limits reproducibility, makes exact replication impossible, and can tie findings to a vendor's roadmap. It also raises questions about evaluation independence (see [[ai-ed-evaluation]]).
+
+## Weak or limited theory use
+
+A recurring criticism is that many empirical articles have **limited or outdated theoretical framing**. Researchers may:
+
+- **Adopt theories uncritically.** Frameworks are borrowed because they are familiar, without fully engaging their assumptions, scope, or evidence base.
+- **Misinterpret frameworks as fixed sequences.** Several widely used frameworks are treated as ordered ladders that learners must climb from a "low" to a "high" stage — but the evidence does not support always starting at the bottom. For example:
+  - **Bloom's taxonomy** is often read as a strict hierarchy (recall → application → evaluation), yet higher-order goals do not require first drilling lower-order ones; tasks can be designed to engage evaluation or creation from the start (see [[cross-dataset-bloom-question-classification]]).
+  - **[[icap-framework|The ICAP framework]]** (passive → active → constructive → interactive) is sometimes taken as a sequence that instruction must begin at the passive end. It is not: research on inductive learning and productive failure shows that posing challenging, constructive or interactive problems up front — without first walking learners through passive exposure — can produce stronger learning.
+  - **ADDIE** and other instructional-design models are sometimes treated as rigid linear phases rather than the iterative, flexible planning heuristics they are meant to be (see [[instructional-design]]).
+- **Overlook contested theories.** Some theories used widely in AIED have themselves been challenged. **[[cognitive-load-theory|Cognitive load theory]]**, for example, has been criticized and its empirical claims refuted or disputed in prior studies, yet it continues to be invoked as a settled foundation in new AIED work.
+
+The implication is not that theories and frameworks are useless, but that they should be used with attention to their actual evidence base, their intended scope, and their known criticisms — rather than as self-evident scaffolds or rigid procedural sequences.
+
+## Reading the AIED literature critically
+
+Taken together, these limitations argue for a critical, multi-signal reading of AIED research: check whether a finding generalizes and is adequately powered; verify how constructs were measured (and whether claims rest on self-report); prefer recent, version-explicit, reproducible work; and interrogate the theoretical framing rather than treating familiar frameworks as given. This is the complement of rigorous [[research-methods-aied|method choice]] and [[ai-ed-evaluation|evaluation]]: good methods and good evaluation are necessary, but reading with attention to limitations is what turns evidence into defensible decisions.
+
+## Connected Concepts
+
+- [[research-methods-aied]]
+- [[ai-ed-evaluation]]
+- [[educational-measurement]]
+- [[assessment-validity]]
+- [[benchmark]]
+- [[rct]]
+- [[meta-analysis-systematic-review]]
+- [[ai-education]]
+- [[cognitive-load-theory]]
+- [[icap-framework]]
+- [[instructional-design]]
+- [[ai-literacy-assessment-misalignment]]
+- [[llm]]
+- [[generative-ai]]
+- [[over-reliance]]
+
+## Connected Articles
+
+- [[research-methods-aied]] — Research methods and their limitations in AIED
+- [[ai-ed-evaluation]] — Evaluating whether AI tools work
+- [[ground-truth-reliability-aied]] — Reliability and validity of ground truth in evaluation
+- [[ai-literacy-assessment-misalignment]] — Self-reported vs. performance-based AI literacy
+- [[machines-misread-pedagogical-quality]] — Why machines misread pedagogical quality
+- [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical limits of AI tutors and theory use
+- [[cross-dataset-bloom-question-classification]] — Bloom's taxonomy and question classification

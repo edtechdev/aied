@@ -2013,3 +2013,9 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Added article page; saved raw full text; backlinks added to faculty-development, teacher-role, ai-literacy, teacher-ai-competency
 - Enriched faculty-development concept page with threshold-identity framing (GenAI as identity work)
 - Updated index.md + journal.md
+
+## [2026-08-15] concept | limitations-in-aied-research
+
+- Created concept page: Limitations in AIEd Research (methodological limits, speed problem, reproducibility/FAIR/proprietary, weak theory use)
+- Updated research-methods-aied (cross-ref), ai-education (connected concept), ai-ed-evaluation (cross-ref), cognitive-load-theory (contested-theory note), icap-framework (sequence-misinterpretation note)
+- Updated index.md + journal.md

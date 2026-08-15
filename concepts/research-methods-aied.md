@@ -93,6 +93,8 @@ The boundaries blur: benchmark studies are evaluation that can feed research, an
 
 Method choice follows the research question. Causal-effect questions favor experiments ([[rct]]); mechanism and perception questions favor surveys and qualitative work; system-quality questions favor computational evaluation ([[benchmark]], [[ai-ed-evaluation]]); synthesis questions favor reviews and meta-analyses; design questions favor DBR; and questions about what experts agree a construct, competency, or framework should contain favor expert-consensus methods like the Delphi technique. Given the field's heterogeneity and the speed of AI change, the wiki's corpus reflects a deliberate move toward triangulation — combining computational evaluation with efficacy, qualitative, and expert-consensus evidence to judge both whether a tool works and whether it helps learning.
 
+Equally important is reading any single study with awareness of the **cross-cutting limitations** that affect AIED research as a whole — methodological constraints, the fast pace of AI change versus slow publication, reproducibility and FAIR-practice gaps, reliance on proprietary tools, and weak or uncritical theory use. See [[limitations-in-aied-research]].
+
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]
@@ -104,6 +106,7 @@ Method choice follows the research question. Causal-effect questions favor exper
 - [[simulation]]
 - [[ai-education]]
 - [[higher-ed]]
+- [[limitations-in-aied-research]]
 
 ## Connected Articles
 

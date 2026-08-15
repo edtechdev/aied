@@ -2,11 +2,15 @@
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
 > Browse recent additions by date. ● = high confidence, ◐ = medium, ○ = low.
-> Last updated: 2026-08-15 | Total entries: 496
+> Last updated: 2026-08-15 | Total entries: 497
 
 ---
 
 ## 2026-08-15
+- ● [[limitations-in-aied-research]] — `concept`
+  Limitations in AIEd Research (concept page)
+  _research-methods-aied, ai-education, methodology, reproducibility +8_
+
 
 - ● [[laidlaw-genai-identity-crisis-faculty-2026]] — `10.1080/1360144X.2026.2680432`
   When faculty ask, "what's the point of teaching?": GenAI as identity crisis, not skills gap
