@@ -2037,3 +2037,4 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - Enriched student-engagement concept with "Pedagogy mediates AI's effect on engagement" section (PMAISE)
 - Updated index.md + journal.md
 - 2026-08-15: Ingested Melo, de la Maza & Recabarren (2026), 'Validating AI-generated classroom observations' (Computers and Education: AI, DOI 10.1016/j.caeai.2026.100612). Added article + back-links to 6 concepts (ai-ed-evaluation, educational-measurement, assessment-validity, ai-feedback-quality, teacher-ai-competency, automated-assessment); incorporated reliability/validity-decoupling + explicit-cue bias into ai-ed-evaluation. **CC BY-NC-ND license flagged.**
+- 2026-08-15: Ingested Lelièvre et al. (2025), 'Benchmarking the pedagogical knowledge of large language models' (The Pedagogy Benchmark: CDPK + SEND). Added article + back-links to 6 concepts; enriched benchmark concept with pedagogical-knowledge dimension. Linked online leaderboard (CDPK). CC BY 4.0.

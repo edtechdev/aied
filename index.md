@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-15 | **Total pages:** 753
+**Last updated:** 2026-08-15 | **Total pages:** 754
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -161,6 +161,7 @@
 - [[buggy-genai-code-student-responses]] — 'When AI Is Wrong on Purpose: How Students Respond to Buggy GenAI Code'
 - [[calibrating-trustworthiness-llm-education-2026]] — Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
+- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking the pedagogical knowledge of large language models
 - [[change-management]] — Change Management
 - [[chat-debugging-llm-hardware-education-2026]] — WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant
 - [[chatgpt-critical-creative-thinking-review]] — 'ChatGPT Critical and Creative Thinking: Systematic Review'

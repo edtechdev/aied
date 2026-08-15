@@ -67,6 +67,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 
 - [[tpack]]
 ## Connected Articles
+- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
 
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective

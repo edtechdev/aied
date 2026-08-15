@@ -15,6 +15,7 @@ Benchmarks serve as the evidentiary foundation of AI in education research. They
 - **[[cstutorbench-slm-tutors|CSTutorBench]]** evaluates small language models for CS tutoring tasks.
 - **[[anvil-ai-educational-animations|ANVIL]]** benchmarks AI-generated educational animations against human-created alternatives.
 - **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of feedback quality classification.
+- **[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark (CDPK + SEND)]]** tests pedagogical knowledge — teaching strategies, assessment methods, and special-education pedagogy — rather than content knowledge, and reports a cost-vs-accuracy "value frontier" across 97 models (most general benchmarks test content knowledge; pedagogy is a distinct, education-critical dimension).
 
 ### Why benchmarks matter in AIED
 
@@ -31,6 +32,7 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[automated-essay-scoring]]
 
 ## Connected Articles
+- [[cdpk-pedagogy-benchmark-llms]] — The Pedagogy Benchmark: LLM pedagogical knowledge (CDPK + SEND)
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional benchmark
 
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education

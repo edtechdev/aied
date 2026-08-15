@@ -53,6 +53,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[limitations-in-aied-research]]
 
 ## Connected Articles
+- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation validation: reliability vs accuracy (Melo et al. 2026)
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants: multi-dimensional evaluation
 
