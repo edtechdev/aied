@@ -104,31 +104,12 @@ Civic education is a uniquely high-stakes domain for AI application because:
 ## Connected Articles
 
 - [[educational-llm-alignment]] — Educational LLM Alignment
-- [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
-- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
-- [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
 - [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
-- [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
-- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
-- [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not G...
-- [[ai-adoption-training-public-sector]] — The Main Barrier to AI Adoption in the Public Sector is Lack of Training
-- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice
-- [[ai-assessment-scale-reform]] — A bit of chaos and madness": The AI Assessment Scale and the work of assessment reform
-- [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education
-- [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in hig...
-- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries
-- [[ai-engineering-education-balancing-act]] — Using AI in engineering education: a balancing act, driven by clear purpose
-- [[ai-ethics-education-public-discourse]] — A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data
-- [[ai-fatigue-academic-contexts]] — Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
+- [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students
+- [[llm-cultural-relevance-k12]] — LLM cultural relevance in K-12
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
-- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
-- [[llm-cultural-relevance-k12]]
+- [[prompt-based-programming-lesson]] — Prompt-based programming lessons
+
 ## Citation
 
-(2025), A.T.T.M.R.X.C.P.K., 25(3), J.C.I.I.T.A.T.E., Name].", I.A.H.I.L.F., |, B.L.T.A.O., levels, O.A.A.A.R.U.O.A., & |, B.L.T. (2026). [AI-Generated Lesson Plans in Civic Education](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/)
+Trust, T., Maloy, R., Xu, C., & Pelletier, K. (2025). Civic education in the age of AI: Should we trust AI-generated lesson plans? [*Contemporary Issues in Technology and Teacher Education*, 25(3)](https://citejournal.org/proofing/civic-education-in-the-age-of-ai-should-we-trust-ai-generated-lesson-plans/).
