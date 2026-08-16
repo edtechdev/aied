@@ -7,7 +7,7 @@ tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 confidence: high
 ---
 
-> **Learning gains** — measurable improvements in student knowledge, skills, or competencies resulting from educational interventions, including AI-assisted instruction. In AI in education research, learning gains serve as the primary outcome measure for evaluating whether AI tools actually improve learning — not just [[engagement-metrics|engagement]] or satisfaction.
+> **Learning gains** — measurable improvements in student knowledge, skills, or competencies resulting from educational interventions, including AI-assisted instruction. In AI in education research, learning gains serve as the primary outcome measure for evaluating whether AI tools actually improve learning — not just [[student-engagement|engagement]] or satisfaction.
 
 Learning gains are the ultimate test of any educational technology. In the wiki's research, they appear as dependent variables in [[rct|randomized controlled trials]], pre-post comparisons in quasi-experimental studies, and correlational analyses linking AI tool usage to academic outcomes.
 
