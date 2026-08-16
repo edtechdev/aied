@@ -47,7 +47,7 @@ The limited evidence suggests transfer is possible when:
 
 - **Pedagogical guardrails are present** — step-by-step hints, misconception targeting, [[socratic-method|Socratic questioning]] (Bastani et al., 2025 tutoring variant)
 - **Traditional strategies are preserved** — note-taking paired with AI use improved retention (Kreijkes et al., 2026)
-- **AI is used for formative, not summative, practice** — scaffolding during learning, not during assessment
+- **AI is used for [[formative-assessment|formative]], not summative, practice** — scaffolding during learning, not during assessment
 - **Learner expertise is calibrated** — the tool adapts support to readiness rather than defaulting to full assistance
 
 This aligns with [[ai-tutoring]] research showing that tutoring-specific tools with pedagogical guardrails outperform general-purpose chatbots, and with [[scaffolding]] principles about fading support as competence grows.

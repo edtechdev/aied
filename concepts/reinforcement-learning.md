@@ -17,7 +17,7 @@ Reinforcement learning (RL) trains an agent by rewarding desired behavior — th
 
 - **Pedagogically aligned RL.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses an RL-SFT-RL pipeline to train a model that *guides* rather than answers, aligning reward with pedagogical goals; [[special-r1-rl-special-education]] applies RL to tutor design for [[special-education]].
 - **Safety and skill transfer.** [[pedagogical-safety-rl]] integrates safety constraints into RL-based tutoring so that reward optimization does not come at the cost of learner well-being; [[ai-coaching-rl-skill-development]] shows RL-driven coaching that supports genuine skill development and transfer.
-- **Simulation and practice.** [[history-aware-student-simulation]] and [[q-learning-lab-rl-teaching]] use RL and simulated learners to train and evaluate pedagogical agents, connecting RL to [[student-modeling]] and [[learning-analytics]].
+- **Simulation and practice.** [[history-aware-student-simulation]] and [[q-learning-lab-rl-teaching]] use RL and simulated learners to train and evaluate [[pedagogical-agent|pedagogical agents]], connecting RL to [[student-modeling]] and [[learning-analytics]].
 
 ### Connection to the wiki
 

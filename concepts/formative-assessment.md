@@ -7,7 +7,7 @@ tags: [formative-assessment, assessment, automated-assessment, feedback-loop, ai
 confidence: high
 ---
 
-> **Formative assessment** — assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. In AI education, formative assessment is both transformed by AI and essential to it: AI systems can generate, validate, and adapt formative items and feedback at scale, while formative feedback is a primary mechanism through which AI tutors and adaptive systems support learning. The wiki's research examines AI-generated formative items, AI-generated feedback, and the design and evaluation of these systems.
+> **Formative assessment** — assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. In AI education, formative assessment is both transformed by AI and essential to it: AI systems can generate, validate, and adapt formative items and feedback at scale, while formative feedback is a primary mechanism through which [[ai-tutoring|AI tutors]] and [[adaptive-learning|adaptive systems]] support learning. The wiki's research examines AI-generated formative items, AI-generated feedback, and the design and evaluation of these systems.
 
 Formative assessment is central to AI in education because it sits at the junction of [[assessment]] and [[feedback-loop|learning feedback]]. Its purpose is to close the loop: surface what students know and don't know, and provide feedback they can act on to improve. AI makes this feasible at scale — generating items, scoring responses, and delivering individualized feedback — but the wiki's research shows that quality varies dramatically across item types, and that feedback only helps when students actually enact it.
 
@@ -16,9 +16,9 @@ Formative assessment is central to AI in education because it sits at the juncti
 AI systems generate formative assessment items across modalities, with reliability varying by type:
 
 - **Multiple-choice questions:** [[code-gen|CODE-GEN]] shows agentic AI can reliably generate MCQs for coding comprehension when validated across seven pedagogical dimensions — success rates reach **98.6%** for concept alignment and **79.9%** for feedback quality — suggesting AI is strongest on verifiable dimensions and weakest on instructional-judgment dimensions. This connects to [[automated-question-generation|automated question generation]] more broadly.
-- **Automated essay scoring:** multi-agent frameworks (e.g., MASS) improve consistency over stand-alone LLMs for [[automated-essay-scoring|essay scoring]], though interpretability of multi-agent scoring decisions remains an open challenge.
-- **Formative scoring pipelines:** [[cotal-formative-assessment-scoring-2026|CoTAL]] couples Chain-of-Thought prompting with active learning and Evidence-Centered Design to produce generalizable formative-assessment scoring with human-in-the-loop prompt engineering.
-- **High-frequency, automatically-marked assessments:** [[automated-formative-assessments-a-level-sciences|automated formative assessments in A-level sciences]] examines the effect of high-frequency, automatically-marked formative assessment on learning outcomes.
+- **Automated essay scoring:** multi-agent frameworks (e.g., MASS) improve consistency over stand-alone [[llm|LLMs]] for [[automated-essay-scoring|essay scoring]], though interpretability of multi-agent scoring decisions remains an open challenge.
+- **Formative scoring pipelines:** [[cotal-formative-assessment-scoring-2026|CoTAL]] couples Chain-of-Thought prompting with [[active-learning|active learning]] and Evidence-Centered Design to produce generalizable formative-assessment scoring with human-in-the-loop [[prompt-engineering|prompt engineering]].
+- **High-frequency, [[automated-assessment|automatically-marked assessments]]:** [[automated-formative-assessments-a-level-sciences|automated formative assessments in A-level sciences]] examines the effect of high-frequency, automatically-marked formative assessment on learning outcomes.
 
 ## AI-generated feedback
 
@@ -32,7 +32,7 @@ A large body of wiki research examines AI-generated formative feedback:
 
 ## Curriculum-grounded and educator-in-the-loop design
 
-[[ai-learning-tools-engineering-education-needs|LearnLens]] addresses three persistent problems in AI formative assessment: **error-aware assessment** (capturing nuanced reasoning errors rather than surface mistakes), **topic-linked memory chains** (replacing noisy similarity-based RAG with structured curriculum-grounded retrieval), and **educator-in-the-loop** design (teacher customisation and oversight, not full automation). This connects to the broader tension in [[human-in-the-loop-ai]]: scalable automation with expert validation.
+[[ai-learning-tools-engineering-education-needs|LearnLens]] addresses three persistent problems in AI formative assessment: **error-aware assessment** (capturing nuanced reasoning errors rather than surface mistakes), **topic-linked memory chains** (replacing noisy similarity-based [[rag|RAG]] with structured curriculum-grounded retrieval), and **educator-in-the-loop** design (teacher customisation and oversight, not full automation). This connects to the broader tension in [[human-in-the-loop-ai]]: scalable automation with expert validation.
 
 ## Design trade-offs
 

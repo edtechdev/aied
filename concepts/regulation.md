@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [educational-policy-ai, ai-governance-education, ethics, privacy, pedagogical-safety, academic-integrity, equity, higher-ed]
 confidence: high
@@ -18,7 +18,7 @@ confidence: high
 
 ### The governance gap
 
-The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive governance rather than reactive policy.
+The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy.
 
 ### Connections
 

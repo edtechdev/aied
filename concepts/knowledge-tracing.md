@@ -1,13 +1,13 @@
 ---
 title: Knowledge Tracing
 created: 2026-06-23
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]
 confidence: medium
 ---
 
-> **Knowledge tracing** — modeling what learners know over time by tracking their performance on exercises and predicting future mastery. It is the wiki's richest modeling thread, spanning Bayesian, deep learning, and LLM-enhanced approaches to tracking student knowledge as it evolves.
+> **Knowledge tracing** — modeling what learners know over time by tracking their performance on exercises and predicting future mastery. It is the wiki's richest modeling thread, spanning Bayesian, deep learning, and [[llm|LLM-enhanced]] approaches to tracking student knowledge as it evolves.
 
 Knowledge tracing transforms raw exercise responses into estimates of what a student has mastered and what they still need to learn. Unlike simple correctness tracking, knowledge tracing models the temporal dynamics of learning — when knowledge is gained, when it decays, and how concepts relate to each other.
 

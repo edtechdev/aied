@@ -1,7 +1,7 @@
 ---
 title: Confidence Aware AI Assessment
 created: 2026-07-28
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [confidence-aware-ai-assessment, psychometrically-aware-ai, ai-ed-evaluation, automated-grading, automated-assessment, educational-measurement, trust-calibration, item-response-theory, llm]
 confidence: high
@@ -17,7 +17,7 @@ The wiki's research illustrates several complementary approaches:
 
 - **Fused confidence signals for short-answer grading:** [[cong-confidence-asag-2026|Confidence-Aware ASAG]] fuses model-based confidence signals (verbalized, latent, and consistency-based) with dataset-derived aleatoric uncertainty via Random Forest regression. This hybrid captures both the model's own self-assessed confidence and the irreducible uncertainty in the data, producing a calibrated confidence estimate alongside the grade.
 - **Confidence in multimodal student work:** [[confidence-aware-student-drawing-assessment|Confidence-aware assessment of student-drawn scientific figures]] extends confidence modeling to multimodal student responses (drawings, annotations), applying calibration to visual and representational tasks.
-- **Psychometric calibration of LLMs:** [[psychometrically-aware-ai|Psychometrically aware AI]] advances the standard of aligning LLM scoring with measurement theory, with calibration — matching predicted confidence to actual accuracy — as a core requirement alongside [[item-response-theory]] alignment.
+- **Psychometric calibration of LLMs:** [[psychometrically-aware-ai|Psychometrically aware AI]] advances the standard of aligning [[llm|LLM]] scoring with measurement theory, with calibration — matching predicted confidence to actual accuracy — as a core requirement alongside [[item-response-theory]] alignment.
 - **Difficulty and response-time calibration:** [[llm-difficulty-calibration-programming-exams-2026|Programming-exam difficulty calibration]] repositions LLMs as auxiliary evidence sources whose difficulty estimates correlate strongly with student pass rates, while explicitly bounding that such estimates must not be used for high-stakes individual scoring without further validation.
 - **Trait-adaptive essay scoring:** [[psyscore-essay-scoring-zpd-feedback|PsyScore]] shows a psychometrically-aware framework can adapt essay feedback to learner traits, using confidence and measurement principles to keep scores interpretable.
 

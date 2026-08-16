@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
 confidence: high
@@ -9,7 +9,7 @@ confidence: high
 
 > **Simulating students** — using LLM-based agents to model learner behavior, cognition, and social dynamics for educational research, design, and training. Simulated students let researchers evaluate pedagogical approaches, model diverse learner profiles, test educational AI before deployment, and train teachers — tasks that are difficult, slow, or ethically constrained to do systematically with real learners.
 
-Simulated students are a methodological tool: agents that stand in for real learners so that tutoring systems, curricula, and instructional strategies can be evaluated and iterated without recruiting cohorts of human students. Large language models have made this paradigm far more scalable and linguistically realistic than the rule-based simulated learners that preceded them, while also introducing new validity challenges.
+Simulated students are a methodological tool: agents that stand in for real learners so that tutoring systems, curricula, and instructional strategies can be evaluated and iterated without recruiting cohorts of human students. [[llm|Large language models]] have made this paradigm far more scalable and linguistically realistic than the rule-based simulated learners that preceded them, while also introducing new validity challenges.
 
 ### Why simulate students
 

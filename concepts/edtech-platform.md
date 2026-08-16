@@ -9,7 +9,7 @@ confidence: high
 
 > **Edtech Platform** — the digital systems, learning management systems (LMS), tutoring systems, and online learning environments through which AI is delivered to learners and educators. In AI in education, the platform is the *infrastructure layer* that determines whether an AI capability reaches students, how it is deployed (open vs. proprietary, integrated vs. standalone), and who can access, adapt, and evaluate it. Research in this wiki examines platforms from multiple angles: their design, their take-up and engagement constraints, their institutional governance, and their equity implications.^[[access-not-enough-ai-tutoring-2026]]^[[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]]^[[oatutor-open-source-adaptive-tutor-2023]]
 
-The platform sits between an AI model or capability and the learner. It is the container that packages tutoring, assessment, feedback, and administration into something usable — and, critically, it shapes learning outcomes through its design choices, its accessibility, and its underlying business model. The concept spans learning management systems like Moodle, large-scale online platforms like MOOCs, dedicated intelligent tutoring systems, and emerging agentic or AI-native course platforms.
+The platform sits between an AI model or capability and the learner. It is the container that packages tutoring, assessment, feedback, and administration into something usable — and, critically, it shapes learning outcomes through its design choices, its accessibility, and its underlying business model. The concept spans learning management systems like Moodle, large-scale online platforms like MOOCs, dedicated [[intelligent-tutoring|intelligent tutoring]] systems, and emerging agentic or AI-native course platforms.
 
 ## What a platform does in AI in education
 
@@ -17,7 +17,7 @@ Platforms in AI in education perform several distinct functions:
 
 - **Deliver instruction and tutoring** — the container for [[ai-tutoring]] and [[intelligent-tutoring]] systems, from LMS-embedded tutors to standalone adaptive tutoring platforms.
 - **Manage the learning environment** — course organization, enrollment, progress tracking, and administration that traditional LMS platforms provide.
-- **Host assessment and feedback** — where [[automated-assessment]], [[formative-assessment]], and feedback loops run.
+- **Host assessment and feedback** — where [[automated-assessment]], [[formative-assessment]], and [[feedback-loop|feedback loops]] run.
 - **Collect and analyze learning data** — the substrate for [[learning-analytics]] and [[student-modeling]].
 - **Govern access and deployment** — decisions about [[open-source]] vs. proprietary, local vs. cloud, and which institutions and learners can use it.
 

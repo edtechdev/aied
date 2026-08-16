@@ -7,7 +7,7 @@ tags: [constructivism, learning-theory, active-learning, scaffolding, self-regul
 confidence: high
 ---
 
-> **Constructivism** — the learning theory that knowledge is actively built by the learner through experience, reflection, and interaction, rather than passively received from an instructor or system. In AI in education, constructivism underlies the design commitment that AI tools should support learners' own knowledge construction — prompting, questioning, and scaffolding — rather than perform the cognitive work for them.^[[ai-vocational-education-training-review]]^[[genai-mindtool-generative-learning]]
+> **Constructivism** — the learning theory that knowledge is actively built by the learner through experience, reflection, and interaction, rather than passively received from an instructor or system. In AI in education, constructivism underlies the design commitment that AI tools should support learners' own knowledge construction — prompting, questioning, and [[scaffolding]] — rather than perform the [[cognitive-offloading|cognitive work]] for them.^[[ai-vocational-education-training-review]]^[[genai-mindtool-generative-learning]]
 
 Constructivism is a family of theories rather than a single doctrine, but its core claim is shared: learners do not absorb meaning; they construct it. Understanding in this view is not the accumulation of transmitted facts but the active organization of experience into mental models. This has direct implications for how AI in education should be designed, evaluated, and taught — and it helps explain both the promise and the risk of generative AI in the classroom.
 

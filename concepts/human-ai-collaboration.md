@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: 2026-05-29
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: []
 confidence: medium
@@ -9,7 +9,7 @@ confidence: medium
 
 > **Human-AI collaboration** — the division of cognitive labor between people and models — is the wiki's core interaction theme: [[human-ai-collaboration-trust-expectations]], [[humanlike-ai-collaborative-writing]], [[genai-mindtool-generative-learning]], and [[teacher-student-agency-orchestration]] examine trust, agency, and complementary roles ([[human-in-the-loop-ai]], [[agentic-ai]]).
 
-Human-AI collaboration describes how learners, teachers, and AI systems divide cognitive work — who does what, who decides, and how trust and agency are maintained. Rather than framing AI as either a replacement or a passive tool, collaboration research treats AI as a partner with complementary strengths whose value depends on how responsibility is shared and monitored.
+Human-AI collaboration describes how learners, teachers, and AI systems divide [[cognitive-offloading|cognitive work]] — who does what, who decides, and how [[trust]] and [[agency]] are maintained. Rather than framing AI as either a replacement or a passive tool, collaboration research treats AI as a partner with complementary strengths whose value depends on how responsibility is shared and monitored.
 
 ### How human-AI collaboration appears in the research
 

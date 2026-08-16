@@ -27,7 +27,7 @@ The wiki's research illustrates several approaches:
 The central challenge in AQG is **quality control**:
 
 - **Hallucination risk:** LLMs can generate factually incorrect questions. [[generate-then-validate-question-gen|Generate-Then-Validate]] shows a dedicated validation phase sharply reduces this, and [[hallucination-risk|hallucination risk]] is a recognized concern throughout.
-- **Difficulty calibration:** generated questions must be calibrated to appropriate difficulty. [[llm-difficulty-calibration-programming-exams-2026|Difficulty-calibration research]] shows AI difficulty estimates correlate strongly with student performance (e.g., rho ≈ −0.87), enabling better item selection — while cautioning against high-stakes misuse.
+- **Difficulty calibration:** generated questions must be calibrated to appropriate difficulty. [[llm-difficulty-calibration-programming-exams-2026|Difficulty-calibration research]] shows AI difficulty estimates correlate strongly with student performance (e.g., rho ≈ −0.87), enabling better item selection — while cautioning against high-stakes [[ai-misuse-learning-harm|misuse]].
 - **Task-dependence:** generation reliability varies by item type. [[automatic-short-answer-grading|Short-answer grading]] and [[self-referential-l2-writing-llm-assessment|analytic writing assessment]] show that open-response and writing items are harder to generate and grade reliably than structured items.
 - **Cognitive quality:** [[llm-educational-question-cognitive-depth|cognitive-depth evaluation]] shows generated items may skew toward lower-order thinking unless explicitly designed for higher-order outcomes.
 

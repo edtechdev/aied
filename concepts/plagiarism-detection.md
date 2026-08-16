@@ -31,14 +31,14 @@ Research consistently cautions against standalone reliance on detection:
 
 A key theme in the wiki is that detection should be a **limited, situational tool — not a strategy of first resort**. [[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al. (2025)]] argue that surveillance and detection **misdiagnose the problem**: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic design-for-learning patterns that position AI as a collaborator rather than a cheating application. This connects detection to [[authentic-assessment]], [[assessment-validity]], [[responsible-assessment-ai-era-stanford-2026|responsible assessment]], and [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|coauthorship integrity]].
 
-The constructive question shifts from "how do we prevent students from using AI?" to "how do we enable them to use it thoughtfully, responsibly, and effectively in contexts that mirror their future work?" Detection therefore connects to [[ai-literacy]] (helping students use AI responsibly), [[over-reliance]] (understanding when AI use undermines learning), and the broader goal of supporting genuine learning rather than policing submissions. It also links to student-side phenomena such as [[student-rationalization-ai-writing|student rationalization of AI writing]] and the identity-detection challenge in [[socially-fluent-ai-identity-detection]].
+The constructive question shifts from "how do we prevent students from using AI?" to "how do we enable them to use it thoughtfully, responsibly, and effectively in contexts that mirror their future work?" Detection therefore connects to [[ai-literacy]] (helping students [[reducing-ai-misuse|use AI responsibly]]), [[over-reliance]] (understanding when AI use undermines learning), and the broader goal of supporting genuine learning rather than policing submissions. It also links to student-side phenomena such as [[student-rationalization-ai-writing|student rationalization of AI writing]] and the identity-detection challenge in [[socially-fluent-ai-identity-detection]].
 
 ## Implications for AI in education
 
 - **Detection is situational:** institutions should use detection tools sparingly and with awareness of their error rates, fairness limits, and task-dependence — not as an automatic, standalone gate.
 - **Assessment design matters more than policing:** investing in [[authentic-assessment|authentic]] and process-based assessment, where AI use is expected and declared, addresses integrity more effectively than detection alone.
 - **Fairness and equity:** detection tools that penalize non-native writers or produce false positives risk amplifying existing inequities.
-- **AI literacy is complementary:** helping students understand appropriate versus harmful AI use is more productive than relying on surveillance.
+- **AI literacy is complementary:** helping students understand appropriate versus [[ai-misuse-learning-harm|harmful AI use]] is more productive than relying on surveillance.
 
 ## Connected Concepts
 

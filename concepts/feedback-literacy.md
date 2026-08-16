@@ -23,7 +23,7 @@ Feedback literacy is widely framed as a set of interrelated capabilities — the
 
 ### How feedback literacy appears in the research
 
-- **Feedback literacy as a moderator of AI feedback value:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that feedback literacy moderates the link between ChatGPT acceptance and [[self-regulated-learning]]: students with stronger literacy perceive greater SRL benefit from AI feedback, while weaker-literacy students show minimal or even negative (over-reliance) effects. Feedback literacy is a boundary condition for whether students can "make sense of" AI feedback.
+- **Feedback literacy as a moderator of AI feedback value:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that feedback literacy moderates the link between ChatGPT acceptance and [[self-regulated-learning]]: students with stronger literacy perceive greater SRL benefit from AI feedback, while weaker-literacy students show minimal or even negative ([[over-reliance]]) effects. Feedback literacy is a boundary condition for whether students can "make sense of" AI feedback.
 
 - **Feedback literacy predicts learning from AI-assisted writing:** [[hawkins-feedback-literacy-ai-essay-writing|Hawkins et al. (2026)]] find that feedback literacy was the only significant positive predictor of essay grade in an AI-enhanced essay-writing task, while [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] develop and validate an AI Feedback Literacy (AIFL) scale and show it predicts feedback uptake.
 
@@ -35,13 +35,13 @@ Feedback literacy is widely framed as a set of interrelated capabilities — the
 
 - **Peer feedback and feedback literacy:** [[irwin-muller-efl-peer-feedback-literacy|Irwin & Muller (2025)]] position GenAI within EFL peer feedback to train feedback literacy and enable uptake in speaking classes, and [[scaffolding-srl-feedback-genai-human-peers|scaffolding studies]] compare GenAI vs. human peers in fostering self-regulated feedback.
 
-- **Feedback literacy in learning analytics and GenAI dashboards:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] examine how students perceive GenAI-powered learning-analytics feedback from a feedback-literacy perspective.
+- **Feedback literacy in learning analytics and GenAI dashboards:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] examine how students perceive GenAI-powered [[learning-analytics]] feedback from a feedback-literacy perspective.
 
 - **Feedback literacy as a goal of AI-literacy and assessment design:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] use a process-over-artifact assessment in which students critique ChatGPT output against a rubric to build feedback, psychological, and AI literacies together; [[learner-centered-feedback-ai|learner-centered AI feedback]] and [[care-full-feedback-genai|care-full feedback design]] link feedback quality to the learner's capacity to engage.
 
 ### Why feedback literacy matters for AI in education
 
-AI changes feedback in two directions that both raise the stakes of feedback literacy. First, AI dramatically increases the *volume and immediacy* of feedback ([[ai-feedback-quality]], [[feedback-loop]]), so students confront far more feedback they must triage and evaluate. Second, AI-generated feedback carries distinct risks — inaccuracy, hallucination, and the "illusion of mastery" — that demand critical evaluation skills [[over-reliance]] [[llm-fallacy-misattribution]]. Feedback literacy therefore becomes a core component of [[ai-literacy]]: knowing not only how to prompt an AI for feedback, but how to judge whether the feedback is worth acting on and how to convert it into genuine learning rather than task completion.
+AI changes feedback in two directions that both raise the stakes of feedback literacy. First, AI dramatically increases the *volume and immediacy* of feedback ([[ai-feedback-quality]], [[feedback-loop]]), so students confront far more feedback they must triage and evaluate. Second, AI-generated feedback carries distinct risks — inaccuracy, [[hallucination-risk|hallucination]], and the "illusion of mastery" — that demand critical evaluation skills [[over-reliance]] [[llm-fallacy-misattribution]]. Feedback literacy therefore becomes a core component of [[ai-literacy]]: knowing not only how to prompt an AI for feedback, but how to judge whether the feedback is worth acting on and how to convert it into genuine learning rather than task completion.
 
 ### Connections to related concepts
 
