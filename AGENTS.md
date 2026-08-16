@@ -72,6 +72,7 @@ Rich body content with embedded wikilinks to related articles/concepts.
 ### Rules
 - NO duplicate H1 headings in body (template adds the title)
 - NO duplicate sections (one Connected Concepts, one Connected Articles)
+- **Inline hyperlink rule (wiki-style):** whenever a concept is mentioned by name in the BODY of a concept or article page, hyperlink that mention to the concept's page (e.g. `[[constructivist]]` in a sentence, or piped `[[cognitive-offloading|doing the cognitive work]]` when display text differs from the slug). Do this for every concept mention in body prose — exactly as wikis do — in addition to the Connected Concepts/Articles lists at the bottom. Use the most specific concept slug that matches the mention's meaning (not a looser one), and prefer the dedicated umbrella page when one exists (e.g. link plain "feedback" to `[[feedback]]`, not `[[feedback-loop]]`).
 - Tags: concept pages serve the tag role — no separate tag pages. Use relevant tags in frontmatter; they render as plain labels (not hyperlinks) at the top of the page.
 - Citation: single APA line with hyperlinked title, NO "Full text" blocks, NO bullet prefix
 - Delete stub pages with < 300 chars of real body content

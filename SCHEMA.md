@@ -7,6 +7,7 @@ AI in Education — research, products, policies, and pedagogical debates around
 - File names: lowercase, hyphens, no spaces (e.g., `adaptive-learning-systems.md`)
 - Every wiki page starts with YAML frontmatter (see below)
 - Use `wikilinks` to link between pages (`[[page-slug]]` or `[[page-slug|display text]]`)
+- **Inline hyperlink rule (wiki-style):** hyperlink every concept mentioned by name in the BODY of a concept or article page to that concept's page, in addition to the Connected Concepts/Articles lists. Use piped links when display text differs from the slug (e.g. `[[cognitive-offloading|doing the cognitive work]]`), the most specific slug matching the mention's meaning, and the dedicated umbrella page for generic terms (e.g. `[[feedback]]`, not `[[feedback-loop]]`, for plain "feedback").
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md`
