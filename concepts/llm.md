@@ -43,6 +43,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[pedagogical-llm-training]]
 - [[learning-by-teaching]]
 ## Connected Articles
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)

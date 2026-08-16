@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-16 | **Total entries:** 838
+**Last updated:** 2026-08-16 | **Total entries:** 839
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
 
@@ -56,6 +56,7 @@
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs
 - [[self-directed-growth-generative-ai-learning-analytics]] — Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework
 - [[situated-learning]] — Situated Learning
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat Dataset: Analyzing Student Dialogues With ChatGPT in an Artificial Intelligence Course
 - [[teacher-education]] — Teacher Education
 - [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Beyond operational skills: Teachers' AI knowledge and interactions with generative AI in lesson planning
 - [[teaching-the-teachers-genai-tpk-review-2026]] — Teaching the teachers: A systematic review of genAI-specific technological pedagogical knowledge (TPK) in teacher education

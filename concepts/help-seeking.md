@@ -87,6 +87,7 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[agentic-ai]]
 
 ## Connected Articles
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 
 - [[lak2026-hint-button-unproductive-use]] — Premature hint requests and superficial hint reading predict lower learning gains in an ITS
 - [[ai-fallibility-warning-help-seeking]] — Warning about AI fallibility increases help-seeking in a math tutoring system

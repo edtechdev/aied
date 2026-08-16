@@ -33,6 +33,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[affective-tutoring]]
 
 ## Connected Articles
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 
 - [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
 - [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
