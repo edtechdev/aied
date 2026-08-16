@@ -89,3 +89,6 @@ This suggests that **metacognitive support and [[motivation]] are not identical*
 - [[cognitive-offloading-speedup-illusion]]- [[probing-ai-generated-physics-solutions-2026]]
 
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
+- [[ai-cognitive-partner-co-regulation-learning]]
+- [[ensemble-cognition-philosophy-ai-education]]
+- [[genai-educational-outcomes-meta-analysis]]

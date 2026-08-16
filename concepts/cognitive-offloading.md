@@ -77,3 +77,5 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[sovereign-hive-titl-further-education-2026]]
 - [[andragogy-cognitive-delegation-genai-2026]]
+- [[ai-cognitive-partner-co-regulation-learning]]
+- [[ensemble-cognition-philosophy-ai-education]]

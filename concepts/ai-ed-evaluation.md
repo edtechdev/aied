@@ -83,3 +83,4 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
 - [[elbench-education-llm-benchmark-2026]]
 - [[teaching-monster-pck-benchmark-2026]]
+- [[genai-educational-outcomes-meta-analysis]]

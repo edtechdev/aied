@@ -69,3 +69,4 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[genai-higher-education-systematic-review-2026]]
 - [[academic-league-of-ai-2026]]
 - [[trace-course-grade-prediction-2026]]
+- [[ensemble-cognition-philosophy-ai-education]]

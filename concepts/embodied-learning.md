@@ -40,3 +40,4 @@ Embodied learning connects to [[educational-robotics]], [[social-robots]], [[hum
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[ensemble-cognition-philosophy-ai-education]]
