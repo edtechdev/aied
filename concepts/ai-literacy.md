@@ -29,6 +29,17 @@ Research points to [[collaborative-learning|collaborative]] and [[active-learnin
 
 A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students to use AI ethically and productively rather than substituting it for their own [[cognitive-offloading|cognitive work]]. Where AI literacy builds the *capacity* to evaluate and use AI critically, [[reducing-ai-misuse|reducing misuse]] is the behavioral and structural payoff — combining guardrailed tool design, [[assessment|assessment redesign]], and educative levers such as scaffolded think-first/AI-second sequences and prompting practice with deliberate feedback. The two concepts are mutually reinforcing: AI literacy supplies the critical dispositions that make misuse-reduction interventions durable, while misuse-reduction evidence (e.g. the [[ai-misuse-learning-harm|performance–learning gap]]) motivates why literacy must go beyond operational skill to critical judgment.
 
+### Critical AI literacy: beyond skills to power and resistance
+
+A distinct strand of the wiki treats AI literacy not merely as skills or critical evaluation but as a *critical and political practice* that interrogates power, authority, and whose knowledge counts. This connects AI literacy to [[critical-pedagogy]] and [[equity-in-ai-education]]:
+
+- **"Resisting AI" as a literacy stance.** Critical AI Literacy (CAIL) can encompass *resisting AI* — refusing the inevitability and techsolutionism of dominant discourse, and cultivating collective agency through dialogic, collaborative pedagogies.^[[li-mroziak-reorienting-critical-ai-literacy]] This positions education as a space where communities imagine and build alternative futures, rather than merely adapt to a given technological order.
+- **Community-based epistemologies.** Community-based AI learning grounds AI engagement in learners' lived and community-based ways of knowing, redistributing AI's epistemic authority through epistemic fine-tuning, redistribution of authority, and situated discernment.^[[ojeda-ramirez-community-based-ai-learning]]
+- **Critical and feminist frames.** Critical, feminist scholarship argues AI literacy should be framed within pedagogies of justice, resistance, and cultural sustainability — asking whose knowledge AI produces, who benefits, and who is accountable when systems fail.^[[avraamidou-ai-colonization-science-education]]
+- **Situated curriculum devices.** AI literacy can be built through situated, active teaching instruments (e.g., Episodes of Situated Learning) that develop AI competencies across levels rather than through abstract instruction.^[[panciroli-ai-literacy-episodes-situated-learning]]
+
+These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
+
 ### Designing AI literacy interventions
 
 The wiki's frameworks and empirical studies converge on a set of practical guidelines for educators and instructional designers building AI literacy interventions:
@@ -76,8 +87,10 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[tpack]]
 - [[feedback-literacy]]
 - [[feedback]]
+- [[critical-pedagogy]]
 
 ## Connected Articles
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[rudolph-ai-myths-critical-higher-ed]] — A critical take on AI hype and myths in higher education (Rudolph et al. 2025)
 - [[beck-genai-literacy-economics-hands-on]] — A hands-on approach to GenAI literacy in economics (Beck & Brodersen 2025)
 - [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Using GenAI to build psychological, feedback, and AI literacies (Richmond & Nicholls 2025)
@@ -122,3 +135,6 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[academic-league-of-ai-2026]]
 - [[probing-ai-generated-physics-solutions-2026]]
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[li-mroziak-reorienting-critical-ai-literacy]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]

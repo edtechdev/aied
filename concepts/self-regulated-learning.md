@@ -114,3 +114,5 @@ For example:
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[ai-cognitive-partner-co-regulation-learning]]
 - [[self-directed-growth-generative-ai-learning-analytics]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]

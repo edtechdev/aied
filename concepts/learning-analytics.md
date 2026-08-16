@@ -51,3 +51,4 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[trace-course-grade-prediction-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[self-directed-growth-generative-ai-learning-analytics]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]

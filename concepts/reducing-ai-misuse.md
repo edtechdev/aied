@@ -64,3 +64,6 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[ai-availability-student-motivation]] — AI Availability and Student Motivation
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
 - [[generative-ai-reduced-study-time-math]] — Generative AI Reduced Study Time on Math
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[avraamidou-ai-colonization-science-education]]
+- [[li-mroziak-reorienting-critical-ai-literacy]]

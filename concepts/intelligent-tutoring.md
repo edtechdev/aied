@@ -84,3 +84,4 @@ For instructors, designers, and developers building or adopting tutoring systems
 - [[clara-collaboration-literacy-dashboard]]
 - [[codify-socratic-programming-tutor]]
 - [[codify-socratic-tutoring-programming]] — [[ai-tutoring-quality-k12-methodologies-2026]]
+- [[prezenski-human-centered-ai-aided-learning]]

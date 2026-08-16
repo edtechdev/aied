@@ -1,7 +1,7 @@
 ---
 title: Embodied Learning
 created: 2026-08-13
-updated: 2026-08-15
+updated: 2026-08-16
 type: concept
 tags: [embodied-learning, educational-robotics, social-robots, computational-thinking, active-learning, situated-learning]
 confidence: high
@@ -18,7 +18,15 @@ Embodied learning is closely related to [[active-learning]], [[experiential-lear
 - **Embodiment and creative writing:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Research on robot-LLM integration in creative writing]] examines how embodiment affects learners' interaction and outcomes.
 - **Human-robot interaction:** [[human-robot-interaction|HRI]] research ([[task-context-trust-educational-hri-2026|trust]], [[human-autonomy-agency-hri-review-2025|agency]]) examines how physical embodiment shapes trust, engagement, and autonomy.
 
-Embodied learning connects to [[educational-robotics]], [[social-robots]], [[human-robot-interaction]], [[active-learning]], [[experiential-learning]], [[computational-thinking]], and [[social-emotional-learning]].
+### Embodied intelligence and the critique of disembodied AI
+
+A second, more theoretical strand of the wiki's embodiment research concerns the role of the *body* in AI-mediated learning — not through physical robots, but through the question of whether AI systems themselves are (or can be) embodied. This work challenges the dominance of symbolic, disembodied AI models built on abstract information processing:
+
+- **Embodied AI as a design principle.** The **E3-HOT framework** argues that to sustain learners' cognitive agency and higher-order thinking (rather than encouraging cognitive outsourcing), AI should be designed around *embodied intelligence* — situational embedding, embodied participation, and cognitive creation — within a virtual–real integrated learning environment.^[[zhu-e3-hot-embodied-intelligence-sustainable-learning]]
+- **The limits of disembodied generative AI.** Post-cognitivist scholarship argues that current GenAI systems lack proprioception, multimodal agency, and embodied practice, and advocates an "embodied AI" grounded in situationality, emergence, and sensorimotor coupling, proposing a perceptual–affective choreography for human–AI interaction.^[[videla-embodied-ai-education-choreography]]
+- **Embodiment, situatedness, and social construction.** In science learning, AI tools function as "mediational artifacts" that enable digital communities of practice and boundary-crossing, connecting embodied, authentic inquiry to real-world and interdisciplinary contexts.^[[li-ai-science-situated-learning-teachers-2025]] This ties embodiment to [[situated-learning]] and [[distributed-cognition]].
+
+Embodied learning connects to [[educational-robotics]], [[social-robots]], [[human-robot-interaction]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]], and [[social-emotional-learning]].
 
 ## Connected Concepts
 
@@ -27,11 +35,14 @@ Embodied learning connects to [[educational-robotics]], [[social-robots]], [[hum
 - [[human-robot-interaction]]
 - [[active-learning]]
 - [[experiential-learning]]
+- [[situated-learning]]
+- [[distributed-cognition]]
 - [[computational-thinking]]
 - [[social-emotional-learning]]
 - [[learning-theories]]
 
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
@@ -41,3 +52,9 @@ Embodied learning connects to [[educational-robotics]], [[social-robots]], [[hum
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[ensemble-cognition-philosophy-ai-education]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[fowlin-operationalizing-learning-principles-ai]]
+- [[videla-embodied-ai-education-choreography]]

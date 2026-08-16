@@ -80,3 +80,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[multi-agent-instructional-design]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[vargas-situated-learning-ai-review-2024]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]

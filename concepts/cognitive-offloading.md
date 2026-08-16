@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: 2026-08-09
-updated: 2026-08-15
+updated: 2026-08-16
 type: concept
 tags: [cognitive-offloading, cognitive-load-theory, over-reliance, ai-literacy, student-experience, generative-ai]
 confidence: high
@@ -26,6 +26,10 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 - **Critical engagement vs. offloading:** [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] frame AI tutors as either empowering (supporting active cognition) or enslaving (enabling passive offloading), connecting to [[over-reliance]] and [[critical-thinking]] research.
 
 - **Metacognitive awareness:** [[metacognitive-awareness-experiential-vs-instructional|Studies on metacognitive awareness]] examine whether students recognize when they're offloading versus learning — and whether instructional interventions can improve this calibration.
+
+- **Embodied intelligence as the alternative to outsourcing:** [[zhu-e3-hot-embodied-intelligence-sustainable-learning|The E3-HOT framework]] argues that to counter AI-induced cognitive outsourcing and learning detached from authentic contexts, AI should be designed around *embodied intelligence* (situational embedding, embodied participation, cognitive creation) so learners sustain cognitive agency and higher-order thinking rather than offload it. This frames embodied, situated AI design as the positive counterpart to offloading risk, connecting to [[distributed-cognition]] and [[embodied-learning]].
+
+- **The efficiency–regulation trade-off of distributed cognition:** [[hao-human-ai-collaborative-problem-solving-cognition|Hao et al.]] show that in human–AI collaboration, the mode that offloads most to AI (delegated reasoning) performs best on tasks but correlates with reduced self-regulation — empirical evidence that offloading's efficiency gain can come at the cost of the learner's regulatory engagement, converging with [[self-regulated-learning]] and [[over-reliance]] concerns.
 
 - **Fatigue and cognitive burden:** [[ai-fatigue-academic-contexts|AI fatigue research]] documents how constant AI interaction creates its own cognitive burden, a paradox where offloading one task increases cognitive load from managing AI outputs.
 
@@ -52,7 +56,10 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[critical-thinking]]
 - [[regulation]]
 - [[behaviorism]]
+- [[distributed-cognition]]
+- [[embodied-learning]]
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[coach-not-crutch-ai-writing]] — AI can work less and learn more: effort vs. learning environment (Lira et al. 2025)
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
@@ -79,3 +86,4 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[andragogy-cognitive-delegation-genai-2026]]
 - [[ai-cognitive-partner-co-regulation-learning]]
 - [[ensemble-cognition-philosophy-ai-education]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]

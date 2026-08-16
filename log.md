@@ -1,3 +1,36 @@
+## [2026-08-16] ingest | learning-theory + critical + situated batch (16 papers, 4 new concepts)
+
+- Ingested 16 new papers covering distributed cognition, situated learning, embodied intelligence, critical pedagogy, and philosophy of AI in education.
+- **Distributed cognition / collaboration:** [[hao-human-ai-collaborative-problem-solving-cognition]] (arXiv 2603.21288), [[niari-ai-pedagogical-mediator-collaborative-learning]] (Umanistica Digitale, CC BY), [[fowlin-operationalizing-learning-principles-ai]] (Educ Sci, CC BY), [[ai-cognitive-partner-co-regulation-learning]] (Frontiers, CC BY).
+- **Situated learning:** [[vargas-situated-learning-ai-review-2024]] (JSSER), [[vargas-ai-catalyst-situated-learning-2026]] (T&F, CC BY-NC-ND), [[li-ai-science-situated-learning-teachers-2025]] (Creative Ed, CC BY 4.0), [[panciroli-ai-literacy-episodes-situated-learning]] (CEUR, CC BY 4.0), [[raffaghelli-situated-ai-ethics-2026]] (Comp & Ed Open, CC BY).
+- **Embodied intelligence / philosophy:** [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] (Sustainability, CC BY), [[videla-embodied-ai-education-choreography]] (ACM TOCE, **ACM copyright — flagged**), [[elsayed-pedagogical-symbiosis-posthuman-learner]] (Cogent Ed, open).
+- **Critical pedagogy / literacy:** [[avraamidou-ai-colonization-science-education]] (JRST, CC BY), [[li-mroziak-reorienting-critical-ai-literacy]] (ACM, CC BY 4.0), [[ojeda-ramirez-community-based-ai-learning]] (RESPECT, CC BY 4.0), [[voicu-ai-interpretive-cognition-ssh-2026]] (J Digital Pedagogy, CC BY), [[prezenski-human-centered-ai-aided-learning]] (Springer, open).
+- **New concept pages created:** [[distributed-cognition]], [[critical-pedagogy]], [[philosophy-of-ai-in-education]] (and deepened the subagent-created [[situated-learning]] stub). All integrated into left-nav conceptIndex.ts + ai-education hub.
+- **Concept enrichments:** embodied-learning (embodied AI / critique of disembodied AI), human-ai-collaboration (3 collaboration modes, AI-as-mediator), ai-literacy (critical AI literacy: resisting AI, community epistemologies, feminist frames), teacher-role (cognitive choreographer, facilitator/ethical supervisor), collaborative-learning (mediator + efficiency–regulation trade-off), cognitive-offloading (embodied alternative + trade-off), situated-learning (5 research developments).
+- Licenses flagged: Videla (ACM copyright, not CC — offer removal); Vargas Educational Forum (CC BY-NC-ND).
+- Updated index.md (806), journal.md (771), llms files.
+
+## [2026-08-16] ingest | 1 theoretical paper (Fowlin, Coleman, Ryan, Gallo, Soares & Hazelton, Education Sciences 2026)
+
+- Empowering Educators: Operationalizing Age-Old Learning Principles Using AI (Education Sciences 15(3), 393; DOI 10.3390/educsci15030393, CC BY) — [[fowlin-operationalizing-learning-principles-ai]]
+- Added to index.md; concept backlinks: teacher-role, experiential-learning, embodied-learning, adaptive-learning, higher-ed, instructional-design, personalized-learning, critical-thinking, constructivist, learning-theories, cognitive-offloading; articles: finkelstein-principled-ai-education-2025, agentic-ai-pedagogical-best-practice-2026, ai-use-critical-thinking-medical-students-2026, ai-changing-teaching-workflows, adaptive-virtual-patient-psychotherapy-training
+- Sources: raw/papers/fowlin-operationalizing-learning-principles-ai.md
+- Updated index.md + journal.md
+
+## [2026-08-16] ingest | 1 essay (Vargas, Chiappe & Fontán de Bedout, The Educational Forum)
+
+- Connecting Education with Reality: AI as a Catalyst for Situated Learning (T&F, 2026; DOI 10.1080/00131725.2025.2596001, open access CC BY-NC-ND) — [[vargas-ai-catalyst-situated-learning-2026]]
+- Added to index.md; concept backlinks: experiential-learning, embodied-learning, constructivist, ai-education, instructional-design, teacher-role, higher-ed; articles: beyond-detection-authentic-assessment-ai-2025, embodied-inquiry-ai-facilitator-physics-2026, metacognitive-awareness-experiential-vs-instructional, genai-ar-physics-simulation-prompt-2026, benzion-ai-physics-simulations-virtual-lab
+- Sources: raw/papers/vargas-ai-catalyst-situated-learning-2026.md
+- Updated index.md + journal.md
+
+## [2026-08-16] ingest | 1 ACM perspective paper (Ojeda-Ramirez, Gyles & Peppler, 2026)
+
+- Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education (RESPECT 2026; DOI 10.1145/3796496.3811760, CC BY 4.0) — [[ojeda-ramirez-community-based-ai-learning]]
+- Added to index.md; concept backlinks: ai-literacy, constructivist, agency, human-ai-collaboration, ai-education, culturally-relevant-pedagogy, equity-in-ai-education, generative-ai; article: reducing-ai-misuse
+- Sources: raw/papers/ojeda-ramirez-community-based-ai-learning.md
+- Updated index.md + journal.md
+
 ## [2026-08-16] ingest | 1 conceptual analysis (Frontiers in Developmental Psychology)
 
 - Artificial intelligence as a cognitive partner: a developmental framework for human-AI co-regulation in learning (S, Joseph, Jose, S. M, N, & Joseph, 2026; DOI 10.3389/fdpys.2026.1835258) — [[ai-cognitive-partner-co-regulation-learning]]
@@ -85,6 +118,12 @@
      1|# Wiki Log
      2|
      3|> Chronological record of all wiki actions. Append-only.
+
+## [2026-08-16] ingest | 1 Sustainability paper (MDPI, CC BY 4.0)
+
+- Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era (Zhu, Jiang, Zhang, Xu, Su, Chen & Zhu, 2026; DOI 10.3390/su18073469) — [[zhu-e3-hot-embodied-intelligence-sustainable-learning]]
+- Added to index.md; concept backlinks added to embodied-learning, experiential-learning, constructivist, critical-thinking, cognitive-offloading, metacognition, learning-theories, ai-education (all wikilinks verified resolving; omitted situated-learning and higher-order-thinking, which do not exist in the wiki)
+- Sources: raw/papers/zhu-e3-hot-embodied-intelligence-sustainable-learning.md
      4|> Format: `## [YYYY-MM-DD] action | subject`
      5|> Actions: ingest, update, query, lint, create, archive, delete
      > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
@@ -2064,3 +2103,11 @@ Daily AIED scan, window 2026-07-24 to 2026-07-27.
 - 2026-08-15: Ingested 3 arXiv articles — Brcic & Frljic (2606.26181, Effortless Trap, CC BY), Lucy et al. (2603.00925, DrawEduMath VLMs, CC BY), Yasir et al. (2605.16207, LLM tutoring agents, **CC BY-NC-ND flagged**). Fixed Hingle & Johri (2508.15111) existing article title/citation/connected-articles; it was already ingested as hingle-collaborative-ai-literacy-2025. Back-links + concept enrichments (over-reliance placement rule, ai-tutoring diagnosis-feedback gap, ai-ed-evaluation aggregate-accuracy).
 - 2026-08-15: Ingested Coach not crutch (Lira et al. 2025, arXiv 2502.02880, CC BY-NC-ND FLAGGED); hyperlinked 'Coach not crutch' mentions in ai-making-us-stupid; back-links to writing-education/over-reliance/cognitive-offloading/ai-feedback-quality.
 - 2026-08-15: Ingested 10 feedback-literacy/AI-feedback papers (Liu & Deris; Jin et al.; Zhan/Boud/Dawson/Yan; Mendoza/Xiong/Yan; Hawkins et al.; Tubino & Adachi; Irwin & Muller; Gu/Chen/Yan; Dai; Yao). Created feedback-literacy + feedback umbrella concept pages; connected assessment<->feedback; enriched ai-feedback-quality/feedback-loop/formative-assessment/etc. Licenses flagged: Liu&Deris (non-OA), Zhan (CC BY-NC-ND), Hawkins (CC BY-NC-ND).
+
+## 2026-08-16 | Voicu, AI-Mediated Learning and the Restructuring of Interpretive Cognition
+
+- **Article:** [[voicu-ai-interpretive-cognition-ssh-2026]] — [[voicu-ai-interpretive-cognition-ssh-2026]]
+- **Source:** raw/papers/voicu-ai-interpretive-cognition-ssh-2026.md
+- **Tags:** ai-education, critical-thinking, metacognition, agency, humanities, social-science, higher-ed, critical-ai-literacy, philosophy-of-education
+- **Summary:** Conceptualizes generative AI as an epistemic mediator restructuring interpretive cognition in SSH education; qualitative study (42 episodes, 27 students, 6 sessions) yields three transformations (externalization of interpretive cognition, hybrid authorship, distributed epistemic agency) and three developmental trajectories (AI-dependent/enhanced/critical); proposes a six-checkpoint developmental-critical pedagogical model scaffolding critical AI literacy, epistemic responsibility, and interpretive autonomy.
+- 2026-08-16: Ingested Li (2025), 'Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives' (Creative Education 16(11), 1858-1882, DOI 10.4236/ce.2025.1611114, CC BY 4.0). Added article li-ai-science-situated-learning-teachers-2025 + raw source; back-links to 9 concepts (constructivist, experiential-learning, embodied-learning, simulation, ai-tutoring, intelligent-tutoring, stem-education, teacher-role, k-12-ai-education). Qualitative study of 14 Chinese science teachers on AI/virtual labs/simulations/ITS in K-12 science via SLT lens; teachers shift to facilitators/co-investigators/ethical supervisors. CC BY 4.0.

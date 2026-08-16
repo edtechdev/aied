@@ -51,3 +51,5 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[computational-thinking-ai-agent-creation]]
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[stanford-evidence-base-ai-k12-2026]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
