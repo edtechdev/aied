@@ -9,7 +9,7 @@ confidence: high
 
 > **AI in Higher Education** — the integration of artificial intelligence into university teaching, learning, assessment, and administration. Higher education is the most-studied context in the wiki, with over 100 articles examining how AI transforms college-level instruction, institutional policy, and student experience.
 
-AI in higher education research spans every function of the university: from AI tutoring and automated grading to faculty development, academic integrity, institutional governance, and student support. The wiki's higher education articles cluster around several key themes.
+AI in higher education research spans every function of the university: from [[ai-tutoring|AI tutoring]] and [[automated-grading|automated grading]] to faculty development, academic integrity, [[governance|institutional governance]], and student support. The wiki's higher education articles cluster around several key themes.
 
 ### Institutional transformation
 

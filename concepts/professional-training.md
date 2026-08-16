@@ -7,7 +7,7 @@ tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simu
 confidence: high
 ---
 
-> **Professional training** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends AI in education beyond formal schooling into workplace and lifelong learning contexts.
+> **Professional training** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends AI in education beyond formal schooling into workplace and [[lifelong-learning|lifelong learning]] contexts.
 
 ### AI in professional training
 

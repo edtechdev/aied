@@ -35,7 +35,7 @@ Singh et al. (2026) developed a three-stage pipeline transforming Qwen3-32B into
 
 ## The Pedagogy Benchmark: Evaluating Pedagogical Knowledge
 
-Lelièvre et al. (2025) introduced **The Pedagogy Benchmark**, measuring Cross-Domain Pedagogical Knowledge (CDPK) and Special Education Needs and Disability (SEND) knowledge from real teacher professional development exams. Across **97 models**, accuracy ranged from **28% to 89%**—revealing that pedagogical knowledge is not automatically acquired in general pretraining.
+Lelièvre et al. (2025) introduced **The Pedagogy Benchmark**, measuring Cross-Domain Pedagogical Knowledge (CDPK) and [[special-education|Special Education Needs]] and Disability (SEND) knowledge from real teacher professional development exams. Across **97 models**, accuracy ranged from **28% to 89%**—revealing that pedagogical knowledge is not automatically acquired in general pretraining.
 
 **EduQwen connection:** Singh et al.’s EduQwen achieved **96.52% on CDPK**, demonstrating that targeted RL+SFT optimization can close the pedagogical knowledge gap that Lelièvre et al. document. The benchmark serves as both a diagnostic (showing most models fail at pedagogy) and a training target (showing optimization works).
 
@@ -43,7 +43,7 @@ Live leaderboards track cost-accuracy Pareto frontiers: [rebrand.ly/pedagogy](ht
 
 ## Approach 2: Theory-Grounded Instructional Design Agents (ISD-Agent-Bench)
 
-Jeon et al. (2026) created a benchmark for LLM agents automating Instructional Systems Design (ISD), testing whether classical pedagogy theory improves agent performance.
+Jeon et al. (2026) created a benchmark for LLM agents automating [[instructional-design|Instructional Systems Design]] (ISD), testing whether classical pedagogy theory improves agent performance.
 
 | Architecture | Performance | Why |
 |-------------|-------------|-----|
@@ -79,7 +79,7 @@ Training for pedagogy is not just about accuracy — it is a **safety interventi
 
 1. Does pedagogical RL training generalize across subjects, or is subject-specific tuning (as SafeTutors suggests) always needed?
 2. Can the RL-SFT-RL pipeline be combined with longitudinal memory (see [[llm-student-modeling-memory]]) for personalized tutoring?
-3. Would ISD-agent theory improve general tutoring conversation, or is it limited to macro-level curriculum design?
+3. Would ISD-agent theory improve general tutoring conversation, or is it limited to macro-level [[curriculum-design|curriculum design]]?
 
 ## Connected Concepts
 

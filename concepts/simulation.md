@@ -9,7 +9,7 @@ confidence: high
 
 > **Simulation** — the use of modeled environments, agents, or scenarios to support learning through practice and feedback in contexts that are safe, repeatable, and often otherwise inaccessible. Simulations let learners act, make errors, and see consequences without real-world cost, and are increasingly powered by AI and agent-based modeling.
 
-Simulation sits at the core of experiential and [[active-learning]] pedagogies. It provides the deliberate practice, productive failure, and feedback loops that build skill and judgment. AI has transformed simulation in two ways: it powers more realistic and adaptive simulated environments, and it generates simulated learners, patients, or interlocutors that make practice scalable.
+Simulation sits at the core of [[experiential-learning|experiential]] and [[active-learning]] pedagogies. It provides the deliberate practice, productive failure, and feedback loops that build skill and judgment. AI has transformed simulation in two ways: it powers more realistic and adaptive simulated environments, and it generates simulated learners, patients, or interlocutors that make practice scalable.
 
 ### AI and simulation
 

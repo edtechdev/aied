@@ -82,4 +82,4 @@ For instructors, designers, and developers building or adopting tutoring systems
 - [[child-safety-genai]]
 - [[clara-collaboration-literacy-dashboard]]
 - [[codify-socratic-programming-tutor]]
-- [[codify-socratic-tutoring-programming]]- [[ai-tutoring-quality-k12-methodologies-2026]]
+- [[codify-socratic-tutoring-programming]] — [[ai-tutoring-quality-k12-methodologies-2026]]

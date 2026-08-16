@@ -1,7 +1,7 @@
 ---
 title: Socratic Method
 created: 2026-08-09
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience, scaffolding, intelligent-tutoring, critical-thinking, rag, llm, ai-tutoring, metacognition, formative-assessment]
 confidence: high
@@ -9,7 +9,7 @@ confidence: high
 
 > **Socratic Method** — a pedagogical approach rooted in guided questioning and dialogue rather than direct instruction, now being adapted for generative AI tutoring systems. In AI in education, the Socratic method is operationalized through LLMs that ask probing questions, scaffold reasoning, and withhold direct answers — aiming to promote deeper understanding and productive struggle rather than answer-fetching.^[[hashmi-socratic-physics-chatbot-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
 
-The Socratic method is one of the oldest pedagogical techniques — originating with Socrates in ancient Athens — and it has found new relevance in the age of generative AI. In AI education research, the Socratic method refers to AI systems that engage learners through guided dialogue, posing questions that lead students to discover answers rather than providing them outright. Asking structured questions rather than providing answers is one of the strongest pedagogical scaffolds for deep learning; when automated via AI, it produces measurable reasoning gains but also requires careful calibration to avoid frustrating learners or displacing human mentorship.^[[hashmi-socratic-physics-chatbot-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
+The Socratic method is one of the oldest pedagogical techniques — originating with Socrates in ancient Athens — and it has found new relevance in the age of [[generative-ai|generative AI]]. In AI education research, the Socratic method refers to AI systems that engage learners through guided dialogue, posing questions that lead students to discover answers rather than providing them outright. Asking structured questions rather than providing answers is one of the strongest pedagogical scaffolds for deep learning; when automated via AI, it produces measurable reasoning gains but also requires careful calibration to avoid frustrating learners or displacing human mentorship.^[[hashmi-socratic-physics-chatbot-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
 
 ## How it works in AI tutoring
 

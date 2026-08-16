@@ -18,7 +18,7 @@ confidence: high
 
 ### Unique affordances
 
-CS education's unique position — students learn to build the very tools they use — creates both opportunities (meta-cognitive awareness of AI limitations) and risks (over-reliance on AI-generated code). [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this duality.
+CS education's unique position — students learn to build the very tools they use — creates both opportunities (meta-cognitive awareness of AI limitations) and risks ([[over-reliance]] on AI-generated code). [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this duality.
 
 ### Connections
 

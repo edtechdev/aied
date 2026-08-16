@@ -36,7 +36,7 @@ The wiki's core feedback insight is that **feedback quality and feedback literac
 
 ### Why feedback matters for AI in education
 
-Feedback is one of the most consequential and best-evidenced mechanisms in education, and AI both amplifies and complicates it. Well-architected AI feedback can match or exceed human feedback and scale across cohorts, but it demands new learner capabilities ([[feedback-literacy]], [[ai-literacy]]) and carries risks (uncritical acceptance, over-reliance). As AI-generated feedback becomes ubiquitous, the wiki frames feedback as a whole system — quality, loop, literacy, and assessment context working together — rather than as any single component.
+Feedback is one of the most consequential and best-evidenced mechanisms in education, and AI both amplifies and complicates it. Well-architected AI feedback can match or exceed human feedback and scale across cohorts, but it demands new learner capabilities ([[feedback-literacy]], [[ai-literacy]]) and carries risks (uncritical acceptance, [[over-reliance]]). As AI-generated feedback becomes ubiquitous, the wiki frames feedback as a whole system — quality, loop, literacy, and assessment context working together — rather than as any single component.
 
 ## Connected Concepts
 

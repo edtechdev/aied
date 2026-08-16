@@ -17,7 +17,7 @@ Multimodality in AI refers to the capacity to work across different representati
 
 Multimodal AI enables learners to produce and engage with content across text, image, audio, and video. An educator's guide to multimodal learning with generative AI positions these tools as a "cyber-social" partner: they complement — but cannot replace — human meaning-making.^[[multimodal-learning-genai]]
 
-- **AI literacy in multimodal contexts** is layered: basic awareness of multimodal platforms, intermediate co-creation and critical evaluation of outputs, and advanced design of multimodal activities and assessments.^[[multimodal-learning-genai]]
+- **[[ai-literacy|AI literacy]] in multimodal contexts** is layered: basic awareness of multimodal platforms, intermediate co-creation and critical evaluation of outputs, and advanced design of multimodal activities and assessments.^[[multimodal-learning-genai]]
 - **Multimodal prompting** is itself a demanding epistemic practice. Students who prompt for images as well as text discover that "prompt literacy is different between prompting for text than it is for pictures" — translating abstract meaning into machine-readable multimodal prompts requires a precise visual vocabulary and exposes system limitations and bias.^[[multimodal-prompting-ai-literacy]]
 - **Multimodal assessment** shifts from essays to artefacts combining text, image, audio, and video, with educators using AI to scaffold creation and feedback rather than replace the learner's own production.^[[multimodal-learning-genai]]
 

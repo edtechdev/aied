@@ -9,7 +9,7 @@ confidence: medium
 
 > **Lifelong learning and AI** — how AI supports continuous education and skill development beyond formal schooling, and how it reshapes adult and workplace learning. AI can personalize, scaffold, and make learning-on-demand more accessible for adults, while also raising questions about autonomy, self-direction, and who controls the learning process in AI-mediated environments.
 
-Lifelong learning refers to continuous education throughout life — upskilling, reskilling, professional development, and informal learning beyond formal degrees. AI is increasingly central to this, both as a tool that supports adult learners and as a force that changes the skills adults must continually update.
+Lifelong learning refers to continuous education throughout life — upskilling, reskilling, [[professional-training|professional development]], and informal learning beyond formal degrees. AI is increasingly central to this, both as a tool that supports adult learners and as a force that changes the skills adults must continually update.
 
 ### How lifelong learning appears in the research
 

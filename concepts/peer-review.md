@@ -9,7 +9,7 @@ confidence: high
 
 > **Peer review** — the practice in which students read, evaluate, and provide feedback on one another's work, most often writing. In writing pedagogy, peer review is a long-standing best practice: students learn both from receiving feedback and from providing criteria-based feedback to others, and interactions with peers about their writing correlate with deeper learning, audience awareness, and personal and social development. In the AI era, peer review is being re-examined as a human complement to [[ai-feedback-quality|AI-generated feedback]], with models such as PAIRR pairing the two.
 
-Peer review is valued because it gives students an authentic audience, develops their evaluative judgment through criteria-based responding, and builds the social and relational context that supports engagement and motivation. However, its quality depends heavily on scaffolding — how well it is structured, and whether students are given clear criteria and training. This is precisely where AI feedback is positioned as a complement: AI can provide consistent, rubric-driven, actionable feedback on organization, focus, and structure, while peers offer specific, context-aware feedback rooted in their shared understanding of the assignment, an authentic audience, and emotional support.
+Peer review is valued because it gives students an authentic audience, develops their evaluative judgment through criteria-based responding, and builds the social and relational context that supports engagement and [[motivation]]. However, its quality depends heavily on [[scaffolding]] — how well it is structured, and whether students are given clear criteria and training. This is precisely where AI feedback is positioned as a complement: AI can provide consistent, rubric-driven, actionable feedback on organization, focus, and structure, while peers offer specific, context-aware feedback rooted in their shared understanding of the assignment, an authentic audience, and emotional support.
 
 ### How peer review appears in the research
 
@@ -17,7 +17,7 @@ Peer review is valued because it gives students an authentic audience, develops 
 
 - **AI peer feedback systems:** [[ai-peer-feedback-systems|AI peer feedback research]] examines how AI tools support or mediate peer-feedback workflows, and how their design affects the quality of feedback students give and receive.
 
-- **Authentic assessment and collaboration:** Peer review features in [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]] and collaborative learning contexts, where it supports [[self-regulated-learning]] and the metacognitive development of students' evaluative judgments.
+- **Authentic assessment and collaboration:** Peer review features in [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]] and [[collaborative-learning|collaborative learning]] contexts, where it supports [[self-regulated-learning]] and the metacognitive development of students' evaluative judgments.
 
 - **Learning through giving feedback:** Research consistently shows students learn from providing criteria-based feedback ([[ai-internal-feedback-evaluative-judgments|evaluative-judgment development]]), an insight that informs how AI-supported peer review is designed to preserve this learning.
 
@@ -27,7 +27,7 @@ A key finding in the wiki's research is that AI and peer feedback are best under
 
 ### Connections to related concepts
 
-Peer review connects to [[writing-education]] and [[formative-assessment]] as a core instructional practice, and to [[ai-feedback-quality]] and [[ai-literacy]] as it evolves in the AI era. It supports [[self-regulated-learning]] and [[metacognition]] through students' reflection on feedback, and relates to [[student-experience]] and [[collaborative-learning]] through the social and relational context it creates. Its role in giving and evaluating feedback ties to [[ai-internal-feedback-evaluative-judgments|evaluative judgment]] and to [[academic-integrity]] as institutions re-examine assessment in the presence of generative AI.
+Peer review connects to [[writing-education]] and [[formative-assessment]] as a core instructional practice, and to [[ai-feedback-quality]] and [[ai-literacy]] as it evolves in the AI era. It supports [[self-regulated-learning]] and [[metacognition]] through students' reflection on feedback, and relates to [[student-experience]] and [[collaborative-learning]] through the social and relational context it creates. Its role in giving and evaluating feedback ties to [[ai-internal-feedback-evaluative-judgments|evaluative judgment]] and to [[academic-integrity]] as institutions re-examine assessment in the presence of [[generative-ai|generative AI]].
 
 ## Connected Concepts
 

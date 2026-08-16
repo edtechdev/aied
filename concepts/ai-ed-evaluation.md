@@ -7,7 +7,7 @@ tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generativ
 confidence: high
 ---
 
-> **AI-ed evaluation** — the body of methods, benchmarks, and criteria used to assess whether AI education tools (LLM-based tutors, automated graders, feedback systems, agents) actually work — not just on headline accuracy, but on reliability, pedagogical quality, validity, and real learning impact. A recurring theme across the wiki's research is that evaluation must be domain-specific, reliability-aware, and anchored in human judgment and educational outcomes rather than single aggregate accuracy numbers.
+> **AI-ed evaluation** — the body of methods, benchmarks, and criteria used to assess whether AI education tools (LLM-based tutors, [[automated-grading|automated graders]], feedback systems, agents) actually work — not just on headline accuracy, but on reliability, pedagogical quality, validity, and real learning impact. A recurring theme across the wiki's research is that evaluation must be domain-specific, reliability-aware, and anchored in human judgment and educational outcomes rather than single aggregate accuracy numbers.
 
 AI-ed evaluation spans several distinct objects of assessment. It can evaluate the **output** (is the AI's answer, grade, or feedback correct and reliable?), the **process** (does the tool support valid, defensible assessment and learning?), and the **agent** (does an AI tutor or agent teach effectively and behave appropriately?). Each requires different methods and raises different validity questions.
 
@@ -21,7 +21,7 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 
 - **Pedagogical quality and alignment:** [[machines-misread-pedagogical-quality|Why machines misread pedagogical quality]] documents human–machine misalignment in judging what makes instruction good, and [[tutoring-effectiveness-index|the Tutoring Effectiveness Index]] predicts tutor quality from teaching behavior. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment in the AI era]] and [[authentic-products-authenticated-processes-2026|authenticated processes]] argue that evaluation must reach beyond correct answers to whether assessment remains authentic, valid, and defensible when AI can produce the "products" of learning.
 
-- **Evaluating learning outcomes and agents:** [[zerkouk-comprehensive-review-its-2025|the ITS systematic review]], [[llm-difficulty-calibration-programming-exams-2026|LLM-difficulty calibration]], [[socratic-tests-conversational-assessment|Socratic conversational tests]], and [[valid-student-simulation-llm-2026|valid student simulation]] broaden evaluation to learning gains, test validity, and whether simulated students are a valid proxy for real learners.
+- **Evaluating learning outcomes and agents:** [[zerkouk-comprehensive-review-its-2025|the ITS systematic review]], [[llm-difficulty-calibration-programming-exams-2026|LLM-difficulty calibration]], [[socratic-tests-conversational-assessment|Socratic conversational tests]], and [[valid-student-simulation-llm-2026|valid student simulation]] broaden evaluation to [[learning-gains|learning gains]], test validity, and whether simulated students are a valid proxy for real learners.
 
 ### Why evaluation is hard in AI-ed
 

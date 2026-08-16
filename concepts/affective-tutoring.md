@@ -7,7 +7,7 @@ tags: [affective-computing, intelligent-tutoring, adaptive-learning, scaffolding
 confidence: medium
 ---
 
-> Integrating emotional awareness into AI tutoring systems can yield measurable pedagogical gains, but the same affective sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.^[[kar-mathbuddy-affective-math-tutoring-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
+> Integrating emotional awareness into [[ai-tutoring|AI tutoring]] systems can yield measurable pedagogical gains, but the same affective sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.^[[kar-mathbuddy-affective-math-tutoring-2025]]^[[favero-critical-ai-tutors-empower-enslave-2025]]
 
 MathBuddy dynamically models student affect using two modalities:
 
@@ -34,7 +34,7 @@ Favero et al. (2025) warn that emotional engagement with AI tutors carries under
 | Affective calibration personalizes pacing | Deep personalization can **reduce transfer** to non-adaptive contexts |
 | Facial monitoring signals attentiveness | Continuous video capture raises **privacy concerns** |
 
-The authors argue that emotional risks are part of a broader pattern of **erosion of self-efficacy, agency, and well-being** when AI use is unchecked.
+The authors argue that emotional risks are part of a broader pattern of **erosion of [[self-efficacy]], [[agency]], and [[well-being]]** when AI use is unchecked.
 
 ## Design Principles
 
@@ -45,7 +45,7 @@ The authors argue that emotional risks are part of a broader pattern of **erosio
 
 ## Relationship to Broader Safety
 
-Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the motivational-affective harm dimension. An affective tutor that is "too supportive" may suppress the frustration that drives productive struggle and self-regulation. See also [[llm-fallacy-misattribution]] — students may attribute emotional support to genuine relationship, reinforcing reliance.
+Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the motivational-affective harm dimension. An affective tutor that is "too supportive" may suppress the frustration that drives productive struggle and [[self-regulated-learning|self-regulation]]. See also [[llm-fallacy-misattribution]] — students may attribute emotional support to genuine relationship, reinforcing reliance.
 
 ## Connected Concepts
 

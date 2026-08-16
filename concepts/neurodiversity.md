@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [special-education, accessible-learning, student-experience, equity, inclusive-design, neurodiversity]
 confidence: high
@@ -9,11 +9,11 @@ confidence: high
 
 > **Neurodiversity** — the framing that neurological differences such as autism, ADHD, dyslexia, and dyspraxia are natural variations in human cognition rather than deficits to be corrected. In education, a neurodiversity-affirming approach designs learning environments that accommodate and leverage these differences rather than forcing conformity to a single cognitive norm.
 
-The neurodiversity paradigm shifts the goal of special-education and accessibility work from "fix the learner" to "adapt the environment." It overlaps with [[universal-design-for-learning]] and [[accessible-learning]] but emphasizes affirming identity and strength-based design over accommodation-as-compensation.
+The neurodiversity paradigm shifts the goal of [[special-education]] and accessibility work from "fix the learner" to "adapt the environment." It overlaps with [[universal-design-for-learning]] and [[accessible-learning]] but emphasizes affirming identity and strength-based design over accommodation-as-compensation.
 
 ### Neurodiversity in the AI era
 
-Generative AI offers both promise and risk for neurodivergent learners. On the promise side, AI can provide alternative means of engagement, representation, and expression — supporting learners who struggle with conventional text, executive function, or social expectations — and can reduce [[cognitive-load-theory|cognitive load]] through [[personalized-learning]]. On the risk side, AI tools that assume a dominant communication style, or that encourage dependency, can disadvantage or undermine neurodivergent learners. Research on [[student-experience]] and [[ai-misuse-learning-harm]] suggests AI must be designed inclusively or it recapitulates [[equity-in-ai-education]] gaps. Understanding a learner's neurotype is also essential for interpreting behavior signals in [[learning-analytics]] and [[student-modeling]].
+[[generative-ai|Generative AI]] offers both promise and risk for neurodivergent learners. On the promise side, AI can provide alternative means of engagement, representation, and expression — supporting learners who struggle with conventional text, executive function, or social expectations — and can reduce [[cognitive-load-theory|cognitive load]] through [[personalized-learning]]. On the risk side, AI tools that assume a dominant communication style, or that encourage dependency, can disadvantage or undermine neurodivergent learners. Research on [[student-experience]] and [[ai-misuse-learning-harm]] suggests AI must be designed inclusively or it recapitulates [[equity-in-ai-education]] gaps. Understanding a learner's neurotype is also essential for interpreting behavior signals in [[learning-analytics]] and [[student-modeling]].
 
 ### Connections
 

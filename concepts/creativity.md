@@ -1,13 +1,13 @@
 ---
 title: Creativity
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [critical-thinking, divergent-thinking, student-experience, generative-ai, writing-education, constructivist]
 confidence: high
 ---
 
-> **Creativity** — the capacity to generate novel and valuable ideas, solutions, or artifacts. In the AI era, creativity is a central educational stake: generative AI can both amplify creative work (as a divergent-thinking partner) and undermine it (by homogenizing output and replacing the generative process).
+> **Creativity** — the capacity to generate novel and valuable ideas, solutions, or artifacts. In the AI era, creativity is a central educational stake: [[generative-ai|generative AI]] can both amplify creative work (as a divergent-thinking partner) and undermine it (by homogenizing output and replacing the generative process).
 
 Creativity spans the divergent-thinking end of the cognitive spectrum — generating multiple possibilities — in contrast to convergent thinking, which arrives at a single correct solution. AI systems are especially relevant to creativity because they are statistical generators: they can propose many options (supporting ideation) but also tend toward the average, producing the idea-level homogenization documented when many students rely on the same model.
 
