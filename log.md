@@ -1,3 +1,9 @@
+## [2026-08-16] inline links | add concept hyperlinks to main-text bodies of 27 full-text articles
+
+- Added ~148 inline concept hyperlinks to the body prose (Synthesis + Key Findings) of all 27 full-text-grounded articles (6 cron abstract-upgrades + aaiwa + 20 CEAO-batch expansions), following the wiki-style inline-hyperlink rule (e.g. feedback→[[feedback]], metacognition→[[metacognition]]).
+- First-occurrence-only linking; longest-phrase-first matching; preserved case with piped links where display differs; skipped concepts with no existing page (lesson-planning, machine-learning, digital-literacy, fairness, literature, technology-acceptance/integration, multimodal-learning) left as plain text.
+- Fixed 4 adjacent-link artifacts (e.g. [[writing-education]] [[assessment]] → [[authentic-assessment|Writing Assessment]]) and 1 grammar issue ("an [[language-learning]]" → "a").
+- Verified 0 broken links wiki-wide.
 ## [2026-08-16] full text | expand 20 remaining CEAO-batch thin articles to full-text grounding
 
 - Expanded all 20 remaining thin CEAO-batch articles (previously abstract-level, ~2.6–3.7KB) to full-text grounding (~4.8–6.4KB) via parallel subagents, each mining the 50KB raw/papers/ full text for concrete methods, statistics, effect sizes, instruments, findings, and limitations.
