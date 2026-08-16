@@ -52,6 +52,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[behaviorism]]
 
 ## Connected Articles
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 - [[coach-not-crutch-ai-writing]] — Coach not crutch: effort vs. learning environment, AI writing (Lira et al. 2025)
 - [[jost-llm-programming-education-learning-outcomes]] — LLM reliance correlates negatively with grades in coding (Jošt et al. 2024)

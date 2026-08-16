@@ -42,6 +42,7 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 - [[stem-education]]
 - [[item-response-theory]]
 ## Connected Articles
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 - [[chudziak-ai-math-tutoring-platform]] — Multi-agent AI math tutoring platform (Chudziak & Kostka 2025)
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutoring agents struggle on valid-alternative/incorrect solutions (Yasir et al. 2026)
