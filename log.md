@@ -1,7 +1,8 @@
-## [2026-08-16] full text | upgrade 6 abstract-only journal articles to full-text grounding
+## [2026-08-16] full text | expand aaiwa article to full-text grounding + add 6-article upgrade
 
 - Upgraded all 6 cron-ingested abstract-only articles to full-text-grounded pages from PDFs the maintainer sent: idea-framework-metacognitive-genai-2026 (Wang et al.), governing-unseen-ai-literacy-language-teachers-2026 (Deng et al.), genai-chinese-higher-education-integrity-2026 (Bai & Costa), rewriting-curriculum-genai-pedagogy-2026 (Sabani et al.), nspa-neuro-symbolic-pedagogical-alignment-2026 (Fang & Liu), ai-vs-human-assessment-efl-tpck-2026 (Nourashrafi et al.).
 - Saved full text under raw/papers/ (gitignored) with source_url/ingested/doi/full_text_sha256; rewrote each article's Synthesis + Key Findings with concrete methods/statistics/findings.
+- Expanded aaiwa-ai-authentic-assessment-metacognition-2026 to full-text grounding (effect sizes d=0.92/0.98, r=.54, four condition-responsive dimensions, validation CVIs, three qualitative themes); removed duplicate [[teacher-education]] link.
 - 0 broken links; index/journal counts unchanged.
 ## [2026-08-16] rss ingest | 14 open-access journal articles (CAEAI/CEAO + Frontiers)
 
