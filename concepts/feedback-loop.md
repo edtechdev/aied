@@ -23,7 +23,7 @@ The effectiveness of a feedback loop depends on [[ai-feedback-quality|feedback q
 
 ### The human in the loop
 
-Feedback loops are not purely automated: teachers often mediate AI-generated feedback before it reaches learners. [[learner-centered-feedback-ai|Studies of AI feedback tools for teachers]] (e.g., the PolyFeed tool combining an ML detector with an LLM rephraser) find teachers use professional judgement to **accept, edit, or reject** AI suggestions — an "assist but verify" pattern — and systematically moderate exaggerated praise and generic suggestions to protect authenticity and voice. The **relational/affective dimension** of feedback (student–teacher relationship, encouragement) most strongly resists AI delegation, suggesting this part of the loop remains inherently human. This human-in-the-loop mediation connects to [[human-in-the-loop-ai]] and to [[teacher-role]].
+Feedback loops are not purely automated: teachers often mediate AI-generated feedback before it reaches learners. [[learner-centered-feedback-ai|Studies of AI feedback tools for teachers]] (e.g., the PolyFeed tool combining an ML detector with an [[llm|LLM]] rephraser) find teachers use professional judgement to **accept, edit, or reject** AI suggestions — an "assist but verify" pattern — and systematically moderate exaggerated praise and generic suggestions to protect authenticity and voice. The **relational/affective dimension** of feedback (student–teacher relationship, encouragement) most strongly resists AI delegation, suggesting this part of the loop remains inherently human. This human-in-the-loop mediation connects to [[human-in-the-loop-ai]] and to [[teacher-role]].
 
 ### Connections
 

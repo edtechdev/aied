@@ -1,13 +1,13 @@
 ---
 title: STEM Education and AI
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, ai-tutoring, automated-grading]
 confidence: high
 ---
 
-> **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for AI in education research in the wiki. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for AI tutoring and assessment.
+> **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for AI in education research in the wiki. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for [[ai-tutoring|AI tutoring]] and assessment.
 
 ### STEM as the primary AIED domain
 

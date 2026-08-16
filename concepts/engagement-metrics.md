@@ -13,7 +13,7 @@ Engagement is a multidimensional construct, and no single metric captures it. Be
 
 ### How engagement metrics appear in the research
 
-- **Motivation and engagement as outcomes:** [[genai-motivation-engagement-2026|GenAI and student motivation research]] models perceived autonomy, competence, relatedness, and value as drivers of student motivation, which then emerges as the strongest predictor of engagement in generative-AI-supported learning — an SDT-based view where engagement follows need satisfaction.
+- **Motivation and engagement as outcomes:** [[genai-motivation-engagement-2026|GenAI and student motivation research]] models perceived autonomy, competence, relatedness, and value as drivers of [[motivation|student motivation]], which then emerges as the strongest predictor of engagement in generative-AI-supported learning — an [[self-determination-theory|SDT]]-based view where engagement follows need satisfaction.
 
 - **Critical engagement vs. passive use:** [[critical-engagement-code-completion|Measuring critical engagement in AI code completion]] and [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]] show that *how* students engage matters more than how much: critical, generative engagement with AI output predicts learning, whereas passive acceptance predicts the [[over-reliance]] and learning-displacement documented across the wiki.
 

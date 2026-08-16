@@ -7,7 +7,7 @@ tags: [ai-education, ai-tutoring, adaptive-learning, scaffolding, student-modeli
 confidence: high
 ---
 
-> **Intelligent Tutoring Systems (ITS)** — a well-established subfield of AI in education that uses AI to model student knowledge, adapt instruction, and provide personalized feedback, typically through model-tracing, knowledge tracing, and scaffolded problem-solving. ITS research predates the LLM era but has been transformed by generative AI, creating hybrid systems that combine structured domain models with flexible dialogue.
+> **Intelligent Tutoring Systems (ITS)** — a well-established subfield of AI in education that uses AI to model student knowledge, adapt instruction, and provide personalized feedback, typically through model-tracing, knowledge tracing, and [[scaffolding|scaffolded]] problem-solving. ITS research predates the LLM era but has been transformed by generative AI, creating hybrid systems that combine structured domain models with flexible dialogue.
 
 Intelligent Tutoring Systems represent one of the oldest and most researched areas of AI in education. Unlike general-purpose [[ai-tutoring|AI tutoring]] systems that rely primarily on LLM capabilities, ITS traditionally use structured approaches: domain models (what to teach), student models (what the learner knows), and pedagogical models (how to teach). These components enable fine-grained tracking of student progress, misconception diagnosis, and adaptive sequencing.
 

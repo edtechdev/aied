@@ -7,7 +7,7 @@ tags: [ai-literacy, curriculum-design, equity, k-12, faculty-development, higher
 confidence: high
 ---
 
-K-12 AI Education encompasses the integration of artificial intelligence literacy, tools, and pedagogical approaches into primary and secondary education. Recent research reveals three critical pillars:
+K-12 AI Education encompasses the integration of [[ai-literacy|artificial intelligence literacy]], tools, and pedagogical approaches into primary and secondary education. Recent research reveals three critical pillars:
 
 ### 1. Teacher Preparation Gap
 Teachers systematically overestimate their [[teacher-ai-competency|AI competency]] (40% gap between self-report and performance in Zhang et al. 2026), yet brief training interventions (4-hour prompting workshops) yield 2.3x higher classroom AI integration (Xiao et al. 2026).

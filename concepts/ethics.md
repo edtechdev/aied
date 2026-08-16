@@ -1,13 +1,13 @@
 ---
 title: Ethics in AI Education
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-governance-education, ai-literacy]
 confidence: high
 ---
 
-> **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. AI education ethics spans data privacy, algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments.
+> **Ethics** — the moral principles governing the design, deployment, and use of AI in educational contexts. AI education ethics spans [[privacy|data privacy]], algorithmic fairness, transparency, accountability, and the broader question of what AI should and should not do in learning environments.
 
 ### Ethical dimensions
 

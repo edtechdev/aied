@@ -19,7 +19,7 @@ Multimodal AI enables learners to produce and engage with content across text, i
 
 - **[[ai-literacy|AI literacy]] in multimodal contexts** is layered: basic awareness of multimodal platforms, intermediate co-creation and critical evaluation of outputs, and advanced design of multimodal activities and assessments.^[[multimodal-learning-genai]]
 - **Multimodal prompting** is itself a demanding epistemic practice. Students who prompt for images as well as text discover that "prompt literacy is different between prompting for text than it is for pictures" — translating abstract meaning into machine-readable multimodal prompts requires a precise visual vocabulary and exposes system limitations and bias.^[[multimodal-prompting-ai-literacy]]
-- **Multimodal assessment** shifts from essays to artefacts combining text, image, audio, and video, with educators using AI to scaffold creation and feedback rather than replace the learner's own production.^[[multimodal-learning-genai]]
+- **Multimodal assessment** shifts from essays to artefacts combining text, image, audio, and video, with educators using AI to [[scaffolding|scaffold]] creation and feedback rather than replace the learner's own production.^[[multimodal-learning-genai]]
 
 ### 2. Multimodal tutoring and the capability boundary
 
@@ -36,7 +36,7 @@ The practical design implication is a **visual grounding checkpoint** in multimo
 
 Multimodal AI broadens both the *content* of assessment and the *signal* used to score it.
 
-- **Multimodal feedback systems** integrate structured text, slide references, and streaming audio narration. In one study, AI multimodal feedback matched educator feedback for learning while *significantly outperforming* it on student perceptions.^[[multimodal-ai-feedback-learning]]
+- **Multimodal feedback systems** integrate structured text, slide references, and streaming audio narration. In one study, [[ai-feedback-quality|AI multimodal feedback]] matched educator feedback for learning while *significantly outperforming* it on student perceptions.^[[multimodal-ai-feedback-learning]]
 - **Multimodal item response estimation** uses fine-tuned multimodal LLMs to reconstruct item characteristic curves (IRT / 3PL) directly from predicted option probabilities on image-and-text items, connecting multimodal AI to [[educational-measurement]] and [[item-response-theory]].^[[multimodal-item-parameter-estimation-2026]]
 - **Educational vision-language model evaluation** and [[mllm-scientific-visualization-literacy|multimodal LLM literacy]] extend the field's evaluation toolkit to multimodal reasoning and visualization.^[[educational-vlm-evaluation]]^[[mllm-scientific-visualization-literacy]]
 

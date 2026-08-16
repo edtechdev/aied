@@ -17,13 +17,13 @@ The digital divide is commonly understood as operating across **three levels** (
 
 - **Policy and infrastructure:** [[oecd-digital-education-outlook-2026|OECD Digital Education Outlook 2026]] situates the digital divide within national education policy, examining how access to digital and AI technologies varies and what systems can do to close gaps.
 
-- **Responsible-use and prompting literacy:** [[aaai2026-prompting-literacy-k12|K-12 prompting-literacy research]] addresses the second-level divide by teaching students the skills to use AI chatbots responsibly, recognizing that access alone does not confer the ability to use AI well.
+- **Responsible-use and prompting literacy:** [[aaai2026-prompting-literacy-k12|K-12 prompting-literacy research]] addresses the second-level divide by teaching students the skills to use AI chatbots responsibly, recognizing that access alone does not confer the ability to [[ai-literacy|use AI well]].
 
 - **Representation and structural silence:** [[structural-silence-underrepresented-language-ai-2026|Research on underrepresented languages]] highlights how the digital divide extends to *which* communities, languages, and perspectives are represented in and served by AI systems — a cultural and epistemic dimension of inequality.
 
 ### AI deepens (and can close) divides
 
-AI adds new layers to the equity implications of technology. Algorithmic bias can disproportionately impact learners from marginalized communities, and AI literacy — the ability to understand, critically evaluate, and mitigate AI's biases and risks — is itself a key factor in whether AI widens or narrows gaps. Research shows educators with higher AI literacy are more effective at identifying and mitigating biased outcomes. The digital divide in the AI era is therefore not simply a technical provision problem but a question of justice and participation: who can access AI, who can use it critically, and who benefits.
+AI adds new layers to the equity implications of technology. Algorithmic bias can disproportionately impact learners from marginalized communities, and [[ai-literacy|AI literacy]] — the ability to understand, critically evaluate, and mitigate AI's biases and risks — is itself a key factor in whether AI widens or narrows gaps. Research shows educators with higher AI literacy are more effective at identifying and mitigating biased outcomes. The digital divide in the AI era is therefore not simply a technical provision problem but a question of justice and participation: who can access AI, who can use it critically, and who benefits.
 
 ### Connections to related concepts
 

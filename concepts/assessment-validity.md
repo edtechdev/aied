@@ -7,7 +7,7 @@ tags: [authentic-assessment, automated-grading, confidence-aware-ai-assessment, 
 confidence: high
 ---
 
-> **Assessment validity** — whether assessments measure what they claim to measure. AI in education raises fundamental validity questions: do AI-graded assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?
+> **Assessment validity** — whether assessments measure what they claim to measure. AI in education raises fundamental validity questions: do [[automated-grading|AI-graded]] assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?
 
 ### Validity challenges
 
@@ -18,7 +18,7 @@ confidence: high
 
 ### Redesign over detection
 
-The wiki argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not detecting AI use. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
+The wiki argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not [[plagiarism-detection|detecting AI use]]. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
 
 ### Connections
 

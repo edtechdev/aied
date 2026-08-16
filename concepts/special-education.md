@@ -7,7 +7,7 @@ tags: [special-education, accessible-learning, equity, neurodiversity, ai-educat
 confidence: high
 ---
 
-> **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. AI in education research in this wiki explores how AI tools can support diverse learner needs through personalization, adaptive scaffolding, and accessible interfaces — while also examining the risks of AI systems that overlook or marginalize disabled learners.
+> **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. AI in education research in this wiki explores how AI tools can support diverse learner needs through personalization, [[scaffolding|adaptive scaffolding]], and accessible interfaces — while also examining the risks of AI systems that overlook or marginalize disabled learners.
 
 Special education is a domain where AI's capacity for personalization and adaptation offers particular promise. Unlike one-size-fits-all instruction, AI tutors can theoretically adapt to individual cognitive profiles, communication needs, and learning paces. The articles in this wiki span AI for specific disability profiles, neurodivergent learner experiences, and critical perspectives on AI and disability.
 

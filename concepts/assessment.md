@@ -42,7 +42,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 
 ## Implications for AI in education
 
-- **Assessment and learning are inseparable:** good AI assessment should support learning (formative feedback) as much as it evaluates it.
+- **Assessment and learning are inseparable:** good AI assessment should support learning ([[feedback-loop|formative feedback]]) as much as it evaluates it.
 - **Validity must be reconceptualised:** when AI can produce student work, assessments must measure processes, judgment, and authentic production, not just outputs.
 - **Automation must be evaluated rigorously:** automated assessors need psychometric and fairness evaluation, not just accuracy claims.
 - **Integrity shifts from detection to design:** the most robust response to AI in assessment is designing tasks where AI use is expected, declared, and scrutinised.

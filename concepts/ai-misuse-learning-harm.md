@@ -7,7 +7,7 @@ tags: [over-reliance, cognitive-offloading, academic-integrity, assessment, self
 confidence: high
 ---
 
-> **AI misuse and learning harm** — the causal relationship between students offloading cognitive work to generative AI and reduced durable learning, even when immediate task performance rises. The defining feature is a performance–learning gap: AI inflates assisted performance while degrading unassisted, closed-book, and retention outcomes.
+> **AI misuse and learning harm** — the causal relationship between students offloading [[cognitive-offloading|cognitive work]] to generative AI and reduced durable learning, even when immediate task performance rises. The defining feature is a performance–learning gap: AI inflates assisted performance while degrading unassisted, closed-book, and retention outcomes.
 
 AI misuse is distinct from AI use. Use describes employing AI as a complement to learning — [[feedback]], brainstorming, or revision help that keeps the learner's cognitive work in the loop. Misuse describes substitution: delegating to AI the very mental processes (drafting, recall, analysis, revision) that build durable understanding. The harm documented in the wiki's evidence base is not that misuse fails to help; it is that misuse actively degrades later, unassisted achievement.
 

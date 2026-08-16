@@ -35,7 +35,7 @@ A central design challenge for LLM-based teachable agents is that LLMs are train
 Two further affordances recur across the wiki:
 
 - **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
-- **LbT scaffolds self-regulation.** Teaching a conversational agent fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
+- **LbT [[scaffolding|scaffolds]] self-regulation.** Teaching a conversational agent fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
 
 ## Why It Matters in AI Education
 

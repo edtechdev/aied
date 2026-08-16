@@ -7,7 +7,7 @@ tags: [over-reliance, cognitive-offloading, ai-literacy, trust-calibration, stud
 confidence: high
 ---
 
-> **Over-reliance** — excessive or uncalibrated dependence on AI tools where students delegate cognitive work they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. Over-reliance is the behavioral manifestation of excessive [[cognitive-offloading]]: when offloading becomes the default rather than a strategic choice.
+> **Over-reliance** — excessive or uncalibrated dependence on AI tools where students delegate [[cognitive-offloading|cognitive work]] they should perform themselves, resulting in reduced learning, diminished [[agency]], and the displacement of skill development. Over-reliance is the behavioral manifestation of excessive [[cognitive-offloading]]: when offloading becomes the default rather than a strategic choice.
 
 Over-reliance sits at the intersection of AI tool design and human cognitive behavior. It is not simply about using AI too much — it is about using AI in ways that substitute for rather than complement learning processes. The wiki's research documents over-reliance as one of the most consequential risks of AI in education.
 

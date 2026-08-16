@@ -1,7 +1,7 @@
 ---
 title: Gamification
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [gamification, game-based-learning, engagement, motivation, educational-robotics, active-learning]
 confidence: high
@@ -13,8 +13,8 @@ Gamification is grounded in motivational theory, particularly [[self-determinati
 
 ### How gamification appears in the wiki's research
 
-- **Robotics education:** [[game-based-gamified-robotics-education-review-2026|A comparative systematic review]] found gamification dominated formal classrooms in robotics education (p < .001) and strongly favored project-based learning (p = .009), while game-based learning was more common in informal settings.
-- **Engagement and motivation:** Gamification is used across the wiki to increase learner engagement and motivation in AI, programming, and STEM learning contexts.
+- **Robotics education:** [[game-based-gamified-robotics-education-review-2026|A comparative systematic review]] found gamification dominated formal classrooms in robotics education (p < .001) and strongly favored [[project-based-learning|project-based learning]] (p = .009), while game-based learning was more common in informal settings.
+- **Engagement and motivation:** Gamification is used across the wiki to increase learner engagement and motivation in AI, [[programming-education|programming]], and [[stem-education|STEM]] learning contexts.
 
 Gamification connects to [[game-based-learning]], [[student-engagement]], [[motivation]], [[self-determination-theory]], [[active-learning]], [[project-based-learning]], and [[educational-robotics]].
 

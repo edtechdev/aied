@@ -14,7 +14,7 @@ confidence: high
 - **Prompt-based scaffolding:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] teaches structured prompting as a learning intervention. [[scaffolding-critical-engagement-genai-minority-students|Critical engagement scaffolding]] uses culturally responsive approaches.
 - **Socratic scaffolding:** [[socratic-method|Socratic AI dialogue]] withholds direct answers, using questions to guide discovery — a form of [[desirable-difficulties]] scaffolding.
 - **Adaptive fading:** [[intelligent-tutoring|Intelligent tutoring systems]] adjust scaffolding based on [[knowledge-tracing]] estimates, providing more support for unmastered concepts and less for known ones.
-- **Hint systems:** [[correct-answer-trap-ai-tutor|AI tutor hint research]] examines when hints help versus when they encourage over-reliance.
+- **Hint systems:** [[correct-answer-trap-ai-tutor|AI tutor hint research]] examines when hints help versus when they encourage [[over-reliance]].
 - **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
 
 ### The ZPD connection

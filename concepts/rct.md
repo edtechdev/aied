@@ -7,7 +7,7 @@ tags: [ai-education, generative-ai, higher-ed, research-methods-aied, efficacy-s
 confidence: high
 ---
 
-> **Randomized controlled trial (RCT)** — a research design in which participants are randomly assigned to a treatment or control condition to estimate the causal effect of an intervention on an outcome. In AI in education, RCTs are the gold standard for establishing whether an AI tool or pedagogical approach *causes* learning gains, engagement changes, or other outcomes, rather than merely correlating with them.
+> **Randomized controlled trial (RCT)** — a research design in which participants are randomly assigned to a treatment or control condition to estimate the causal effect of an intervention on an outcome. In [[ai-education|AI in education]], RCTs are the gold standard for establishing whether an AI tool or pedagogical approach *causes* [[learning-gains|learning gains]], engagement changes, or other outcomes, rather than merely correlating with them.
 
 Randomization is what distinguishes an RCT from other designs: by randomly assigning learners to conditions, an RCT balances known and unknown confounders across groups, so any observed difference in outcomes can be attributed to the intervention with high internal validity.
 

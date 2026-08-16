@@ -1,7 +1,7 @@
 ---
 title: Dual-Process Theory
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [cognitive-load-theory, metacognition, cognitive-offloading, decision-making, educational-measurement]
 confidence: high
@@ -13,8 +13,8 @@ Dual-process theory has strong explanatory value for AI in education. Much of th
 
 ### Relevance to AI in education
 
-- **Explaining over-reliance:** an AI's fluent, plausible output invites System 1 acceptance; unverified trust is a heuristic shortcut. This links to [[cognitive-offloading]] and the "speedup illusion" in human-AI interaction.
-- **Designing for System 2:** scaffolds that force verification, articulation, and reasoning (draft-first, hint-not-answer, explanation requirements) push learners toward deliberate processing and protect learning.
+- **Explaining over-reliance:** an AI's fluent, plausible output invites System 1 acceptance; unverified [[trust|trust]] is a heuristic shortcut. This links to [[cognitive-offloading]] and the "speedup illusion" in human-AI interaction.
+- **Designing for System 2:** [[scaffolding|scaffolds]] that force verification, articulation, and reasoning (draft-first, hint-not-answer, explanation requirements) push learners toward deliberate processing and protect learning.
 - **Measuring cognition:** dual-process distinctions inform how we interpret learner behavior and performance, and caution against mistaking fluent output (System 1) for understanding (System 2) — a theme in [[educational-measurement]] and [[psychometrically-aware-ai]].
 
 ### Connections
