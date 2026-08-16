@@ -40,3 +40,5 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
 - [[andragogy-cognitive-delegation-genai-2026]]
+- [[self-directed-growth-generative-ai-learning-analytics]]
+- [[ensemble-cognition-philosophy-ai-education]]

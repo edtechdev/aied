@@ -46,3 +46,5 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[genai-higher-education-systematic-review-2026]]
 - [[ai-feedback-enactment-workflow-2026]]
+- [[ai-cognitive-partner-co-regulation-learning]]
+- [[ensemble-cognition-philosophy-ai-education]]
