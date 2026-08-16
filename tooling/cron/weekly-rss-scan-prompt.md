@@ -61,13 +61,24 @@ confidence: high
 - **Write the citation yourself in APA format** (Authors, Year. *Title*. URL). NEVER paste the Elsevier/ScienceDirect auto-generated citation from the publisher page — it comes out garbled. Get the real author list from Crossref: `curl -s https://api.crossref.org/works/<doi>` (fields: message.author[].family/given, message.title, message.volume, message.page).
 - **Do NOT save any full-text/abstract to `raw/papers/`** — leave `sources: []`. The maintainer will send the PDF and full text will be added later.
 
+### 4b. Update the backlog file for relevant articles NOT ingested
+**If you do NOT ingest every new, relevant article this run** (e.g., to keep the run bounded, or the article is older backlog), **add it to the backlog file so it is not lost.**
+
+The wiki maintains a backlog of relevant-but-not-yet-ingested articles at `[YOUR_WIKI_PATH]/AIED-BACKLOG.md` (in the repo root). It is organized by journal section (`## Computers and Education: Artificial Intelligence (CAEAI)`, `## Computers and Education Open (CEAO)`, `## Frontiers in Psychology`), with one bullet per article: `- [Full Paper Title](<article online URL>) — [DOI: <doi>](https://doi.org/<doi>)`.
+
+For every article that is (a) NEW (not already in `articles/`/`raw/papers/`, and not already listed in AIED-BACKLOG.md), (b) relevant to AI in education per the filter in step 3, and (c) NOT ingested as a page this run:
+- Append it under the correct journal section in `AIED-BACKLOG.md`, formatted exactly like the existing entries.
+- Use the real DOI (resolve via Crossref: `curl -s https://api.crossref.org/works?query.bibliographic=<title>&rows=1` and take `message.items[0].DOI`) — if a DOI can't be verified, list the article link only.
+- Update the `**Total backlog:** N articles` line near the top to the new count.
+- Deduplicate against what is already in the file (check by title) so you never add the same article twice.
+
 ### 5. Build and push
 ```
 cd [YOUR_WIKI_PATH] && python3 tooling/scripts/generate-llms-files.py && npm run build && git add -A && git commit -m "Weekly journal RSS ingestion: X new articles" && git push origin main
 ```
 
 ### 6. Report
-Count articles checked, already existing, excluded (not AI-in-ed), and new articles ingested (with titles).
+Count articles checked, already existing, excluded (not AI-in-ed), new articles ingested (with titles), and new articles added to the backlog file.
 
 **CRITICAL — list every new article's original link for the maintainer to download the PDF.** Format:
 
