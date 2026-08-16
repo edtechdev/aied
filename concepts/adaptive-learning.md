@@ -48,3 +48,6 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[adaptive-pretesting-retention]]
 - [[adapt-adaptive-lesson-plan-transformer]]
 - [[zerkouk-comprehensive-review-its-2025]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]

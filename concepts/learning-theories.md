@@ -52,6 +52,8 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[cognitive-load-theory]]
 - [[dual-process-theory]]
 - [[metacognition]]
+- [[distributed-cognition]]
+- [[situated-learning]]
 - [[self-regulated-learning]]
 - [[self-determination-theory]]
 - [[self-efficacy]]
@@ -67,10 +69,14 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[cognitive-offloading]]
 - [[over-reliance]]
 - [[instructional-design]]
+- [[philosophy-of-ai-in-education]]
+- [[critical-pedagogy]]
 - [[ai-education]]
 
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[ai-cognitive-partner-co-regulation-learning]] — Positions AI as a cognitive partner in human-AI co-regulation; developmental framework across the lifespan
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework reconceptualising thinking as human–AI interaction
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth and the A2PL model extending self-directed learning with GenAI
@@ -79,3 +85,8 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[constructivist]] — (cross-reference) Constructivism as the wiki documents it
 - [[behaviorism]] — (cross-reference) Behaviorism as the wiki documents it
 - [[genai-educational-outcomes-meta-analysis]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[raffaghelli-situated-ai-ethics-2026]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[videla-embodied-ai-education-choreography]]

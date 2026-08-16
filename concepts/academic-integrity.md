@@ -84,3 +84,4 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[pchl-he-framework-genai-content-creation-2026]] — PCHL Framework for GenAI Content Creation
 - [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: Systematic Review
 - [[competency-based-education-genai-production-2026]] — Competency-Based Education and GenAI Production
+- [[avraamidou-ai-colonization-science-education]]

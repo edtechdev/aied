@@ -43,6 +43,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[professional-training]]
 
 ## Connected Articles
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[rudolph-ai-myths-critical-higher-ed]] — AI myths and the need for a critical approach in higher ed (Rudolph et al. 2025)
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
@@ -70,3 +71,11 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[academic-league-of-ai-2026]]
 - [[trace-course-grade-prediction-2026]]
 - [[ensemble-cognition-philosophy-ai-education]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[raffaghelli-situated-ai-ethics-2026]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[fowlin-operationalizing-learning-principles-ai]]
+- [[videla-embodied-ai-education-choreography]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]

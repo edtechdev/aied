@@ -21,6 +21,16 @@ confidence: high
 
 The dominant metaphor in the wiki is *orchestration*: teachers coordinate human learners, AI tutors, and curriculum resources. This contrasts with replacement narratives — AI augments rather than substitutes for human teaching.
 
+### Evolving and critical teacher roles
+
+Recent work expands the orchestration metaphor into richer role conceptualizations:
+
+- **The "cognitive choreographer."** Posthumanist frameworks recast the teacher as a *cognitive choreographer* who orchestrates cognition distributed across biological and artificial systems, moving beyond instrumentalist models like TPACK and SAM.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- **Facilitator, co-investigator, ethical supervisor.** In science learning, teachers' roles shift from knowledge transmitters to facilitators and co-investigators, and gain new responsibilities as ethical supervisors of students' responsible AI use.^[[li-ai-science-situated-learning-teachers-2025]]
+- **Mediator of learning principles.** Educators operationalize age-old learning principles (experiential, situated, and distributed cognition) through AI, treating AI as a tool that enhances rather than replaces the educator's guiding role.^[[fowlin-operationalizing-learning-principles-ai]]
+
+These roles connect teacher work to [[distributed-cognition]], [[situated-learning]], [[embodied-learning]], and [[critical-pedagogy]], and reframe the teacher as a designer and ethical guide of AI-mediated learning rather than merely a user.
+
 ### Connections
 
 Teacher role connects to [[faculty-development]] (how teachers are prepared), [[ai-literacy]] (teacher AI competency), [[k-12]] and [[higher-ed]] (context-specific implications), and [[scaffolding]] (how teachers scaffold AI use for students).
@@ -37,6 +47,9 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[ai-tutoring]]
 - [[llm]]
 - [[professional-training]]
+- [[distributed-cognition]]
+- [[situated-learning]]
+- [[critical-pedagogy]]
 
 ## Connected Articles
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
@@ -52,3 +65,8 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[teacher-authored-prompts-student-ai-dialogue]]
 - [[ai-tpack-preservice-math-teachers]]
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
+- [[vargas-situated-learning-ai-review-2024]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[fowlin-operationalizing-learning-principles-ai]]

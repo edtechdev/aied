@@ -1,7 +1,7 @@
 ---
 title: Constructivism
 created: 2026-07-28
-updated: 2026-08-15
+updated: 2026-08-16
 type: concept
 tags: [constructivism, learning-theory, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, instructional-design]
 confidence: high
@@ -74,6 +74,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[behaviorism]]
 
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[ai-vocational-education-training-review]] — Constructivism espoused but behaviorist AI dominates in VET; the "Turing Trap"
 - [[generative-refusal-ai-tools-for-thought]] — AI tools that withhold generation to protect constructive thought
@@ -89,3 +90,9 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[ccct-cooperative-learning-technique]] — Cooperative learning framed through constructivist theories
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency between learner and machine
 - [[ensemble-cognition-philosophy-ai-education]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]

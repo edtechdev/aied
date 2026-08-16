@@ -52,3 +52,5 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[ai-tutor-safety-harms]]
 - [[ai-uk-higher-education-policy-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[raffaghelli-situated-ai-ethics-2026]]

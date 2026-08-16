@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: 2026-08-13
-updated: 2026-08-15
+updated: 2026-08-16
 type: concept
 tags: [experiential-learning, active-learning, higher-ed, project-based-learning, embodied-learning, learning-by-doing]
 confidence: high
@@ -30,9 +30,15 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[learning-theories]]
 
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study
+- [[vargas-situated-learning-ai-review-2024]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]

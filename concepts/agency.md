@@ -35,6 +35,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[cognitive-offloading]] — Cognitive Offloading in Student–AI Collaboration
 ## Connected Articles
 
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
@@ -42,3 +43,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[andragogy-cognitive-delegation-genai-2026]]
 - [[self-directed-growth-generative-ai-learning-analytics]]
 - [[ensemble-cognition-philosophy-ai-education]]
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[li-mroziak-reorienting-critical-ai-literacy]]

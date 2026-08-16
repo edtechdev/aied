@@ -46,3 +46,5 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[concept-catalyst-engineering-scaffolds]]
 - [[generative-ai-reduced-study-time-math]]
 - [[ai-metacognition-stem-review]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[avraamidou-ai-colonization-science-education]]

@@ -19,6 +19,10 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 
 **Teacher-AI collaboration** examines how teachers and AI work together. **[[teacher-student-agency-orchestration]]** and **[[teacher-ai-teaming-five-levels]]** explore frameworks for human-AI collaborative teaching, connecting to [[teacher-role]] and [[human-in-the-loop-ai]].
 
+**AI as a pedagogical mediator** reconceptualizes AI's role in collaboration beyond tool or peer. Drawing on sociocultural theory and [[distributed-cognition|distributed cognition]], **[[niari-ai-pedagogical-mediator-collaborative-learning|Niari]]** positions AI as an active participant in the orchestration of interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors without displacing learner or teacher agency. This grounds collaborative learning in a socially mediated, co-regulated view of AI rather than an individualistic one.
+
+**Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.^[[hao-human-ai-collaborative-problem-solving-cognition]] This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
+
 ## Connected Concepts
 
 - [[active-learning]]
@@ -35,6 +39,8 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[accessible-learning]]
 - [[neurodiversity]]
 - [[learning-theories]]
+- [[distributed-cognition]]
+- [[self-regulated-learning]]
 ## Connected Articles
 
 - [[polished-artifacts-fragile-engagement-2026]]
@@ -47,3 +53,6 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[collaborative-ai-tutoring]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[academic-league-of-ai-2026]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]
