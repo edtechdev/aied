@@ -1,7 +1,7 @@
 ---
 title: Privacy in AI Education
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity, ai-governance-education, educational-policy-ai]
 confidence: high
@@ -18,7 +18,7 @@ confidence: high
 
 ### The personalization-privacy tradeoff
 
-[[personalized-learning]] requires detailed learner data to function, creating a tension with privacy. The wiki explores privacy approaches that balance personalization with data minimization.
+[[personalized-learning]] requires detailed learner data to function, creating a tension with privacy. The wiki explores privacy approaches that balance [[personalized-learning|personalization]] with data minimization.
 
 ### Connections
 

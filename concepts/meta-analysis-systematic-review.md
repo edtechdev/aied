@@ -41,7 +41,7 @@ Systematic reviews and meta-analyses in AI in education serve several distinct p
 - **[[ai-collaborative-learning-systematic-review|Systematic review of AI-powered collaborative learning]]** — a PRISMA 2020 review of 27 studies, organizing AI tools into four functional categories and identifying bias, over-reliance, and teacher-training challenges.^[[ai-collaborative-learning-systematic-review]]
 - **[[genai-higher-education-systematic-review-2026|Systematic review of GenAI in higher education]]** — maps opportunities, challenges, and pedagogical innovations across a five-year window.
 - **[[zerkouk-comprehensive-review-its-2025|Comprehensive ITS review]]** — a systematic review of intelligent tutoring systems with a focus on methodological rigor.
-- **[[chatgpt-critical-creative-thinking-review|Systematic review of ChatGPT and critical/creative thinking]]** — synthesizes evidence on whether LLM use supports or undermines higher-order thinking.
+- **[[chatgpt-critical-creative-thinking-review|Systematic review of ChatGPT and critical/creative thinking]]** — synthesizes evidence on whether LLM use supports or undermines [[critical-thinking|higher-order thinking]].
 - **[[stanford-evidence-base-ai-k12-2026|Evidence base for AI in K-12]]** — reviews the strength of evidence for AI tutoring in schools.
 - **[[ai-literacy-heptagon-2026|AI Literacy Heptagon]]** — an integrative literature review following PRISMA principles, illustrating qualitative synthesis that stops short of meta-analysis.^[[ai-literacy-heptagon-2026]]
 

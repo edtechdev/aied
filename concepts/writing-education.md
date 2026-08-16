@@ -7,9 +7,9 @@ tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cogniti
 confidence: high
 ---
 
-> **AI in writing education** — the use of AI tools for writing instruction, assessment, feedback, and the study of how generative AI reshapes the writing process itself. Writing education is one of the most AI-affected domains, because LLMs excel at the very activities writing instruction centers on — text generation, revision, and evaluation. Research in this area spans automated scoring, AI feedback quality, writing-process support, second-language writing, academic integrity, and the deeper question of how AI changes what it means to write and to be a writer.
+> **AI in writing education** — the use of AI tools for writing instruction, [[assessment]], [[feedback]], and the study of how generative AI reshapes the writing process itself. Writing education is one of the most AI-affected domains, because LLMs excel at the very activities writing instruction centers on — text generation, revision, and evaluation. Research in this area spans automated scoring, AI feedback quality, writing-process support, second-language writing, academic integrity, and the deeper question of how AI changes what it means to write and to be a writer.
 
-Writing is not merely output but a cognitive, social, and rhetorical process. This is why AI's impact on writing education is so consequential and contested: AI can be a scaffold that helps students draft, revise, and receive feedback they otherwise wouldn't get, but it can also displace the cognitive work — and the human audience — that make writing a learning activity. The wiki's research consistently frames AI in writing as a *human-centered complement* to, rather than a replacement for, the social and cognitive processes of writing.
+Writing is not merely output but a cognitive, social, and rhetorical process. This is why AI's impact on writing education is so consequential and contested: AI can be a scaffold that helps students draft, revise, and receive feedback they otherwise wouldn't get, but it can also displace the [[cognitive-offloading|cognitive work]] — and the human audience — that make writing a learning activity. The wiki's research consistently frames AI in writing as a *human-centered complement* to, rather than a replacement for, the social and cognitive processes of writing.
 
 ### How AI in writing education appears in the research
 
@@ -19,7 +19,7 @@ Writing is not merely output but a cognitive, social, and rhetorical process. Th
 
 - **Writing process support and agency:** [[agency-gap-ai-writing|Agency gap research]] and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] explore how AI changes the writing process from planning to revision, and how students' [[student-experience|agency]] is affected when AI participates at different stages.
 
-- **Posthumanist perspectives:** [[posthumanist-ai-literacy-2025|A posthumanist approach to AI literacy]] reframes writing as a human-AI entanglement in which agency is distributed, challenging both uncritical anthropomorphization of AI and its dismissal as a mere tool — a relational rather than transactional view of AI literacy.
+- **Posthumanist perspectives:** [[posthumanist-ai-literacy-2025|A posthumanist approach to AI literacy]] reframes writing as a human-AI entanglement in which [[agency]] is distributed, challenging both uncritical anthropomorphization of AI and its dismissal as a mere tool — a relational rather than transactional view of AI literacy.
 
 - **L2 / multilingual writing:** [[self-referential-l2-writing-llm-assessment|L2 writing assessment]], [[genai-linguistic-diversity-academic-writing|linguistic diversity research]], and [[ai-writing-support-stage-ownership-2026|stage-ownership research]] address how AI supports (or constrains) second-language and multilingual writers, including the risk of reinforcing Standard Academic English norms.
 
@@ -31,7 +31,7 @@ Because writing is a cognitive process, AI-in-writing research connects to [[cog
 
 ### Connections
 
-Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], [[formative-assessment]], [[peer-review]], [[metacognition]], [[self-regulated-learning]], and [[higher-ed]]. It is a domain where AI's capabilities and risks are both highly visible, making it a rich site for studying how AI transforms pedagogy, assessment, and the very nature of authorship and agency.
+Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality]], [[academic-integrity]], [[cognitive-offloading]], [[ai-literacy]], [[language-learning]], [[formative-assessment]], [[peer-review]], [[metacognition]], [[self-regulated-learning]], and [[higher-ed]]. It is a domain where AI's capabilities and risks are both highly visible, making it a rich site for studying how AI transforms pedagogy, [[assessment]], and the very nature of authorship and [[agency]].
 
 ## Connected Concepts
 

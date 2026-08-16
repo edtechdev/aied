@@ -16,7 +16,7 @@ Cognitive Load Theory (Sweller) distinguishes three types of load on working mem
 
 AI in education interacts with cognitive load in two opposing directions, and the wiki's evidence cuts both ways:
 
-- **Reduction via [[cognitive-offloading]].** AI can offload routine cognitive work — summarizing, drafting, recalling — freeing working memory for higher-order thinking. [[misiejuk-cognitive-offloading-prompting-2026]] examines how prompting influences whether learners offload productively or abandon effort entirely.
+- **Reduction via [[cognitive-offloading]].** AI can offload routine [[cognitive-offloading|cognitive work]] — summarizing, drafting, recalling — freeing working memory for higher-order thinking. [[misiejuk-cognitive-offloading-prompting-2026]] examines how prompting influences whether learners offload productively or abandon effort entirely.
 - **Reduction that harms learning.** When AI supplies answers, it can *lower* extraneous load but also *lower* germane load — the productive struggle that builds understanding. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] warn that seamless AI help can erode [[self-efficacy]] and [[metacognition|metacognitive engagement]], and [[tutoring-specific-vs-general-ai]] finds that how an AI tutor manages cognitive demands shapes learning outcomes.
 
 ### Designing for productive load

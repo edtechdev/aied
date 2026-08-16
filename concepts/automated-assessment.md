@@ -7,7 +7,7 @@ tags: [automated-grading, assessment-validity, formative-assessment, bias-mitiga
 confidence: high
 ---
 
-> **Automated assessment** — the use of AI to evaluate student work, from formative quizzes to high-stakes exams. Automated assessment spans multiple modalities — multiple-choice, short answer, essay, code, and performance-based evaluation.
+> **Automated assessment** — the use of AI to evaluate student work, from [[formative-assessment|formative quizzes]] to high-stakes exams. Automated assessment spans multiple modalities — multiple-choice, short answer, essay, code, and performance-based evaluation.
 
 ### Assessment modalities
 
@@ -18,7 +18,7 @@ confidence: high
 
 ### Quality and fairness
 
-Automated assessment quality depends on [[assessment-validity]] and [[bias-mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that automated scoring can systematically disadvantage certain student populations.
+Automated assessment quality depends on [[assessment-validity]] and [[bias-mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that [[automated-grading|automated scoring]] can systematically disadvantage certain student populations.
 
 ### Connections
 

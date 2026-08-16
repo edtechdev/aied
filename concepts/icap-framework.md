@@ -1,7 +1,7 @@
 ---
 title: ICAP Framework
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [icap, cognitive-engagement, learning-theory, collaborative-learning, active-learning, learning-analytics, instructional-design, educational-nlp]
 confidence: high
@@ -15,7 +15,7 @@ ICAP is grounded in the assumption that *what learners do* determines how much a
 
 | Mode | Learner behavior | Nature of knowledge change |
 |------|------------------|---------------------------|
-| **Interactive** | Dialogue with another learner or agent, co-constructing meaning; e.g. defending a position, collaborative problem-solving | Co-creating new knowledge through joint, reciprocal activity |
+| **Interactive** | Dialogue with another learner or agent, co-constructing meaning; e.g. defending a position, [[collaborative-learning|collaborative problem-solving]] | Co-creating new knowledge through joint, reciprocal activity |
 | **Constructive** | Generating new output beyond the given; e.g. self-explaining, comparing, reflecting, drawing | Integrating new information with prior knowledge to produce novel understanding |
 | **Active** | Manipulating or acting on the material; e.g. taking notes, underlining, pausing to think | Attending to and storing information, sometimes without deep integration |
 | **Passive** | Receiving information without overt action; e.g. listening to a lecture, reading | Storing information, with limited further processing |
@@ -24,7 +24,7 @@ ICAP is grounded in the assumption that *what learners do* determines how much a
 
 ### A design target for AI tools
 
-ICAP reframes the central design question for AI in education: an AI tool that *answers for* the learner keeps them in passive/active modes, while a tool that *prompts, questions, and scaffolds* can push learners toward constructive and interactive engagement. This aligns ICAP with [[constructivist]] pedagogy and with [[active-learning]] research.^[[multimodal-learning-genai]]^[[hingle-collaborative-ai-literacy-2025]]
+ICAP reframes the central design question for AI in education: an AI tool that *answers for* the learner keeps them in passive/active modes, while a tool that *prompts, questions, and [[scaffolding|scaffolds]]* can push learners toward constructive and interactive engagement. This aligns ICAP with [[constructivist]] pedagogy and with [[active-learning]] research.^[[multimodal-learning-genai]]^[[hingle-collaborative-ai-literacy-2025]]
 
 ### An evaluation lens for AI agents
 
@@ -37,7 +37,7 @@ ICAP underlies critiques of shallow "engagement" metrics: interacting with a das
 ## Implications for design and research
 
 1. **Design for the higher modes.** AI tools should prompt learners to generate, explain, and dialogue — constructive and interactive activity — rather than deliver passive content or act as answer machines.^[[multimodal-learning-genai]]
-2. **Sequence through engagement levels.** Effective AI literacy instruction intentionally sequences learners through passive exposure, active manipulation, constructive generation, and interactive dialogue.^[[hingle-collaborative-ai-literacy-2025]]
+2. **Sequence through engagement levels.** Effective [[ai-literacy|AI literacy]] instruction intentionally sequences learners through passive exposure, active manipulation, constructive generation, and interactive dialogue.^[[hingle-collaborative-ai-literacy-2025]]
 3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[engagement-metrics]].^[[icap-cognitive-engagement-llm-agents]]
 4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.^[[icap-cognitive-engagement-llm-agents]]
 

@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, ai-tutoring, automated-grading, ai-literacy]
 confidence: high
@@ -17,7 +17,7 @@ LLMs are the most-referenced concept in the wiki (60+ articles) because they und
 - **Assessment:** [[automated-grading|Grading systems]], [[automated-essay-scoring|essay scoring]], and [[llm-item-difficulty-prediction|item difficulty prediction]] leverage LLM capabilities.
 - **Content:** [[generative-ai|Generative AI]] content creation relies on LLMs. [[automated-question-generation|Question generation]] and [[ai-generated-instructional-videos-computing-ed|video generation]] are LLM-driven.
 - **Safety:** [[pedagogical-safety]], [[hallucination-risk]], and [[ai-tutor-safety-harms]] research examine LLM-specific risks.
-- **Diagnosis:** [[knowledge-tracing]] and [[cognitive-diagnosis]] increasingly incorporate LLMs for richer student modeling.
+- **Diagnosis:** [[knowledge-tracing]] and [[cognitive-diagnosis]] increasingly incorporate LLMs for richer [[student-modeling|student modeling]].
 
 ### Model-specific research
 

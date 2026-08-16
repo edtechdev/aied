@@ -11,7 +11,7 @@ confidence: high
 
 ### Core mechanisms
 
-- **Measure-model-adapt loop:** [[knowledge-tracing]] estimates what the student knows, [[student-modeling]] represents the learner, and the system adapts difficulty, content, and feedback accordingly.
+- **Measure-model-adapt loop:** [[knowledge-tracing]] estimates what the student knows, [[student-modeling]] represents the learner, and the system adapts difficulty, content, and [[feedback]] accordingly.
 - **Personalization at scale:** [[personalized-learning]] systems use adaptive algorithms to serve unique learning paths for each student. [[deeptutor|DeepTutor]] and [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutors]] demonstrate adaptive personalization in practice.
 - **Content sequencing:** [[adaptive-pretesting-retention|Adaptive pretesting]] and [[adapt-adaptive-lesson-plan-transformer|lesson plan transformers]] optimize the order and type of content presented.
 - **ITS integration:** [[intelligent-tutoring|Intelligent tutoring systems]] are the canonical adaptive learning platform, combining diagnosis with adaptation.
@@ -22,7 +22,7 @@ The wiki documents mixed evidence: adaptive systems improve outcomes when adapta
 
 ### Connections
 
-Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[personalized-learning]] (the goal), [[intelligent-tutoring]] (the platform), [[cognitive-diagnosis]] (fine-grained assessment), and [[scaffolding]] (adaptation as dynamic scaffolding).
+Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[personalized-learning]] (the goal), [[intelligent-tutoring]] (the platform), [[cognitive-diagnosis]] (fine-grained [[assessment]]), and [[scaffolding]] (adaptation as dynamic scaffolding).
 
 ## Connected Concepts
 

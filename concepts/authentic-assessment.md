@@ -42,7 +42,7 @@ The wiki's assessment-redesign literature argues that authenticity must be **red
 - **AI-proof assessment types:** in-vivo demonstrations, social-contribution portfolios, co-created artefacts with auditable provenance, and real-time embodied interaction are more resilient to generative AI than take-home essays or MCQs.
 - **Co-design at scale:** AI tools could enable rubric co-design and student co-creation of assessment parameters at classroom or MOOC scale — though machine-mediated agency must be designed carefully.
 - **Address the social-authenticity gap:** only 3/37 studies addressed social issues; AI assessment tools should help students contribute to societal transformation, not merely simulate it.
-- **Sustainable feedback:** AI feedback should be designed to transfer to future contexts, not just provide reactive, momentary corrections.
+- **Sustainable feedback:** [[ai-feedback-quality|AI feedback]] should be designed to transfer to future contexts, not just provide reactive, momentary corrections.
 
 ## Connected Concepts
 

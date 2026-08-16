@@ -9,13 +9,13 @@ confidence: high
 
 > **Benchmark** — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and pedagogical quality of AI in education systems.
 
-Benchmarks serve as the evidentiary foundation of AI in education research. They provide standardized datasets, tasks, and metrics that allow researchers to compare models, track progress, and identify failure modes. In the wiki's research, benchmarks appear across multiple domains:
+Benchmarks serve as the evidentiary foundation of [[ai-education|AI in education research]]. They provide standardized datasets, tasks, and metrics that allow researchers to compare models, track progress, and identify failure modes. In the wiki's research, benchmarks appear across multiple domains:
 
 - **[[educlaw-bench-pedagogical-llm-agents-2026|EduClaw-Bench]]** introduces a long-horizon benchmark for pedagogical LLM agents using simulated learners grounded in [[knowledge-tracing]].
 - **[[cstutorbench-slm-tutors|CSTutorBench]]** evaluates small language models for CS tutoring tasks.
 - **[[anvil-ai-educational-animations|ANVIL]]** benchmarks AI-generated educational animations against human-created alternatives.
 - **[[teaching-feedback-classification-benchmark|Teaching feedback benchmarks]]** assess cross-language transfer of feedback quality classification.
-- **[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark (CDPK + SEND)]]** tests pedagogical knowledge — teaching strategies, assessment methods, and special-education pedagogy — rather than content knowledge, and reports a cost-vs-accuracy "value frontier" across 97 models (most general benchmarks test content knowledge; pedagogy is a distinct, education-critical dimension).
+- **[[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark (CDPK + SEND)]]** tests pedagogical knowledge — teaching strategies, [[assessment|assessment methods]], and [[special-education|special-education pedagogy]] — rather than content knowledge, and reports a cost-vs-accuracy "value frontier" across 97 models (most general benchmarks test content knowledge; pedagogy is a distinct, education-critical dimension).
 
 ### Why benchmarks matter in AIED
 

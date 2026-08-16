@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [ai-literacy, over-reliance, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 confidence: high
@@ -24,7 +24,7 @@ Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without 
 
 ### Connections
 
-Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai-misuse]] as a skill-based intervention: students misuse AI less when they can judge when its output deserves trust. It is also a design goal — [[pedagogical-safety]] and transparency tools aim to make AI's reliability legible so learners can calibrate more accurately.
+Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai-misuse]] as a skill-based intervention: students [[ai-misuse-learning-harm|misuse]] AI less when they can judge when its output deserves trust. It is also a design goal — [[pedagogical-safety]] and transparency tools aim to make AI's reliability legible so learners can calibrate more accurately.
 
 ## Connected Concepts
 

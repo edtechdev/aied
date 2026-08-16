@@ -9,7 +9,7 @@ confidence: medium
 
 > **Psychometrically aware AI** — AI assessment systems aligned with measurement theory — is the standard advanced in [[llm-psychometric-calibration-cdp]], [[llm-item-difficulty-prediction]], [[confidence-aware-ai-assessment]], and [[item-response-theory]]: calibrated, uncertainty-aware AI assessment preserves reliability and validity rather than substituting raw model confidence for psychometric evidence.
 
-As AI systems increasingly score responses, predict difficulty, and provide feedback, a key risk is that they report confident-sounding outputs that have not been validated against measurement principles. Psychometrically aware AI addresses this by grounding AI assessment in established psychometrics — calibrating outputs, quantifying uncertainty, and preserving [[assessment-validity]] and [[educational-measurement]] standards rather than relying on raw accuracy or self-reported confidence.
+As AI systems increasingly score responses, predict difficulty, and provide [[feedback]], a key risk is that they report confident-sounding outputs that have not been validated against measurement principles. Psychometrically aware AI addresses this by grounding AI [[assessment]] in established psychometrics — calibrating outputs, quantifying uncertainty, and preserving [[assessment-validity]] and [[educational-measurement]] standards rather than relying on raw accuracy or self-reported confidence.
 
 ### How psychometrically aware AI appears in the research
 

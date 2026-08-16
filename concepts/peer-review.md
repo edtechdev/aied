@@ -23,7 +23,7 @@ Peer review is valued because it gives students an authentic audience, develops 
 
 ### Peer review vs. AI feedback
 
-A key finding in the wiki's research is that AI and peer feedback are best understood as complementary rather than substitutable. [[pairr-ai-peer-review-2025|PAIRR research]] found only 6% of students preferred AI feedback alone, while 58% preferred combined feedback — AI utility is experienced in the context of human feedback. Peers bring contextual knowledge, authentic audience awareness, and human connection that AI lacks; AI brings consistency, immediacy, and actionable rubric-driven revision strategies. The quality of both depends on scaffolding, and the emphasis on reflection — students articulating why they accept or reject feedback — is what builds transferable writing knowledge and agency.
+A key finding in the wiki's research is that AI and peer feedback are best understood as complementary rather than substitutable. [[pairr-ai-peer-review-2025|PAIRR research]] found only 6% of students preferred AI feedback alone, while 58% preferred combined feedback — AI utility is experienced in the context of human feedback. Peers bring contextual knowledge, authentic audience awareness, and human connection that AI lacks; AI brings consistency, immediacy, and actionable rubric-driven revision strategies. The quality of both depends on [[scaffolding]], and the emphasis on reflection — students articulating why they accept or reject feedback — is what builds transferable writing knowledge and agency.
 
 ### Connections to related concepts
 

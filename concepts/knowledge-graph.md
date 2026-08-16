@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: 2026-08-09
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [knowledge-tracing, student-modeling, learning-analytics, generative-ai, ai-education, intelligent-tutoring, curriculum-design, llm]
 confidence: high
@@ -17,14 +17,14 @@ Knowledge graphs are a recurring structural mechanism across the wiki's AIED res
 
 - **[[knowledge-tracing]] models** use concept graphs to propagate student proficiency estimates across related skills, improving prediction accuracy when data is sparse.
 - **[[student-modeling]] systems** leverage knowledge graphs to represent what learners know in a semantically meaningful way, enabling fine-grained diagnosis.
-- **[[adaptive-learning]] platforms** use prerequisite graphs to sequence content and recommend personalized learning paths.
+- **[[adaptive-learning]] platforms** use prerequisite graphs to sequence content and recommend [[personalized-learning|personalized learning]] paths.
 - **[[cognitive-diagnosis]] frameworks** like [[xie-hillm-cd-2026|HiLLM-CD]] construct concept trees from educational text using LLMs, eliminating manual annotation.
 - **Knowledge-graph-augmented tutoring:** [[quantum-education-its|ITAS]] uses a knowledge graph of quantum concepts (with explicit prerequisite relationships) to drive a multi-agent tutoring system, traversing the graph to select next topics for counterintuitive material.
-- **Curriculum and course modeling:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compares CS course structures across institutions using graph representations; [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] model lifelong learning pathways.
+- **Curriculum and course modeling:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compares CS course structures across institutions using graph representations; [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] model [[lifelong-learning|lifelong learning]] pathways.
 - **Prerequisite-relation learning:** [[proprl-prerequisite-relation-learning|ProPrL]] learns prerequisite relations among concepts, formalizing the edges that knowledge graphs encode.
 - **Knowledge-gap detection:** [[knowledge-gap-detection-ai-tas|Knowledge gap detection]] uses graph-based reasoning in AI teaching assistants to identify where learners are missing foundational concepts.
 - **Multimodal and explainable reasoning:** [[multimodal-knowledge-graph-educational-reasoning|multimodal knowledge graphs]] extend graph structure across content modalities; [[fair-explainable-edu-recommendations|fair and explainable recommendations]] combine knowledge-graph embeddings with sequential modeling (a hybrid HKG-GRU framework).
-- **Scaffolding and writing:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] and [[visual-query-tracer-declarative-logic-learning|visual query tracing]] apply graph-based structure to narrative drafting and declarative-logic learning.
+- **[[scaffolding|Scaffolding]] and writing:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] and [[visual-query-tracer-declarative-logic-learning|visual query tracing]] apply graph-based structure to narrative drafting and declarative-logic learning.
 
 ## LLM-driven knowledge graph construction
 

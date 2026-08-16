@@ -7,14 +7,14 @@ tags: [student-modeling, knowledge-tracing, adaptive-learning, personalized-lear
 confidence: high
 ---
 
-> **Student modeling** — the broad practice of representing learner characteristics including knowledge, skills, affective states, engagement, and preferences in computational form. Student modeling is the foundation upon which adaptive and personalized AI in education systems are built.
+> **Student modeling** — the broad practice of representing learner characteristics including knowledge, skills, affective states, engagement, and preferences in computational form. Student modeling is the foundation upon which [[adaptive-learning|adaptive]] and [[personalized-learning|personalized]] AI in education systems are built.
 
 Student modeling is the umbrella term encompassing all ways of representing learners in AI systems. Where [[knowledge-tracing]] specifically tracks cognitive knowledge over time, student modeling includes affective modeling, engagement tracking, learning style inference, and preference learning. A complete student model answers: *who is this learner, what do they know, how do they feel, and what do they need next?*
 
 ### Dimensions of student modeling
 
 - **Cognitive modeling:** [[knowledge-tracing]] and [[cognitive-diagnosis]] systems track what students know and their skill mastery
-- **Affective modeling:** [[affective-computing]] and [[affective-tutoring]] detect and respond to student emotions and motivation
+- **Affective modeling:** [[affective-computing]] and [[affective-tutoring]] detect and respond to student emotions and [[motivation]]
 - **Behavioral modeling:** [[learning-analytics]] systems infer engagement patterns from clickstream and interaction data
 - **Proficiency modeling:** [[personalized-learning]] and [[adaptive-learning]] platforms use student models to sequence content
 

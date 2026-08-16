@@ -18,7 +18,7 @@ AI in education research spans two interconnected directions:
 - **AI for education** — using AI systems to enhance teaching, learning, assessment, and administration. This includes [[ai-tutoring|AI tutoring]], [[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]], [[automated-grading|automated grading]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[automated-assessment|automated assessment]], [[formative-assessment|formative assessment]], [[learning-analytics|learning analytics]], and [[feedback-loop|feedback loops]].
 - **Education about AI** — teaching learners and educators to understand, use, and critically evaluate AI. The core is [[ai-literacy|AI literacy]], supported by [[prompt-engineering|prompt engineering]], [[critical-thinking|critical thinking]], [[ethics|AI ethics]], [[ai-governance-education|governance education]], [[digital-divide|digital literacy]], and [[reducing-ai-misuse|responsible use]].
 
-These two dimensions are not separate: using AI well requires understanding it, and teaching about AI is enriched by using it. This [[human-ai-collaboration|human-AI collaboration]] is a central theme.
+These two dimensions are not separate: [[ai-literacy|using AI well]] requires understanding it, and teaching about AI is enriched by using it. This [[human-ai-collaboration|human-AI collaboration]] is a central theme.
 
 ## Learning and instruction
 

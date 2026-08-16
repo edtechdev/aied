@@ -45,10 +45,10 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 ## Implications for AI in education
 
-- **Fairness is design, not afterthought:** bias mitigation and fairness-aware algorithms must be built into AI tutors, scorers, and recommenders, and evaluated for equity alongside accuracy.
-- **Infrastructure is equity:** addressing the digital divide and underrepresented-language infrastructure is a precondition for equitable AI, not a secondary concern.
+- **Fairness is design, not afterthought:** [[bias-mitigation|bias mitigation]] and fairness-aware algorithms must be built into AI tutors, scorers, and recommenders, and evaluated for equity alongside accuracy.
+- **Infrastructure is equity:** addressing the [[digital-divide|digital divide]] and underrepresented-language infrastructure is a precondition for equitable AI, not a secondary concern.
 - **Representation matters in content and assessment:** AI-curated materials and automated assessment must reflect and not penalize diverse learners, cultures, languages, and knowledge systems.
-- **Pair access with support:** providing tools is insufficient; learners need skills, conditions, and culturally relevant scaffolding to benefit.
+- **Pair access with support:** providing tools is insufficient; learners need skills, conditions, and culturally relevant [[scaffolding]] to benefit.
 - **Policy and governance:** institutional AI policy ([[educational-policy-ai]], [[governance]], [[ai-governance-education]]) must embed equity as a guiding principle.
 
 ## Connected Concepts
