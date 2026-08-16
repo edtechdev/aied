@@ -90,6 +90,9 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[critical-pedagogy]]
 
 ## Connected Articles
+- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[rudolph-ai-myths-critical-higher-ed]] — A critical take on AI hype and myths in higher education (Rudolph et al. 2025)
 - [[beck-genai-literacy-economics-hands-on]] — A hands-on approach to GenAI literacy in economics (Beck & Brodersen 2025)

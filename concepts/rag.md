@@ -38,6 +38,7 @@ RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structu
 - [[higher-ed]]
 
 ## Connected Articles
+- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 
 - [[eduguard-safe-rag-llm-tutor]]
 - [[eduzone-llm-safety-k12]]

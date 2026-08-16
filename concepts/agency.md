@@ -34,6 +34,8 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[behaviorism]]
 - [[cognitive-offloading]] — Cognitive Offloading in Student–AI Collaboration
 ## Connected Articles
+- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI

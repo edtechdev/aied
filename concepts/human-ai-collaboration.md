@@ -40,6 +40,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[metacognition]]
 - [[self-regulated-learning]]
 ## Connected Articles
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 
 - [[agent-voice-accents-k12-group-learning]]

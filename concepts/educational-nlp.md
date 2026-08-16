@@ -37,6 +37,7 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[learning-analytics]]
 - [[educational-policy-ai]]
 ## Connected Articles
+- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[ai-generated-interactive-fiction-education-2026]]
 
 - [[zerkouk-comprehensive-review-its-2025]]
