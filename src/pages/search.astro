@@ -102,26 +102,4 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 <script is:inline>
   import("/aied/pagefind/pagefind-component-ui.js");
-  // Read ?q= from the URL and pre-fill the search input + trigger the search.
-  (() => {
-    const q = new URLSearchParams(window.location.search).get("q");
-    const run = () => {
-      const host = document.querySelector("pagefind-input");
-      if (!host) return false;
-      const input = host.querySelector("input");
-      if (!input) return false;
-      if (q) {
-        input.value = q;
-        input.dispatchEvent(new Event("input", { bubbles: true }));
-        input.focus();
-      }
-      return true;
-    };
-    if (!run()) {
-      const start = Date.now();
-      const timer = setInterval(() => {
-        if (run() || Date.now() - start > 4000) clearInterval(timer);
-      }, 150);
-    }
-  })();
 </script>

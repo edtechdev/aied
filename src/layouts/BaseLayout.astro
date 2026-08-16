@@ -133,100 +133,21 @@ const recentConcepts = concepts
       min-width: 0;
       display: flex;
     }
-    .custom-search {
-      position: relative;
+    .header-search pagefind-searchbox { width: 100%; }
+    .header-search pagefind-searchbox::part(input) {
       width: 100%;
-      display: flex;
-      align-items: center;
-    }
-    .custom-search input {
-      width: 100%;
-      padding: 0.5rem 2.4rem 0.5rem 0.9rem;
+      padding: 0.5rem 0.9rem;
       font-size: 0.95rem;
       border: 1px solid var(--muted-border-color);
       border-radius: 8px;
       background: #0d1418;
       color: var(--color);
     }
-    .custom-search input::placeholder { color: var(--muted-color); }
-    .custom-search input:focus {
+    .header-search pagefind-searchbox::part(input)::placeholder { color: var(--muted-color); }
+    .header-search pagefind-searchbox::part(input):focus {
       border-color: var(--primary);
       outline: none;
       box-shadow: 0 0 0 3px var(--primary-focus);
-    }
-    .custom-search-submit {
-      position: absolute;
-      right: 0.3rem;
-      top: 50%;
-      transform: translateY(-50%);
-      background: transparent;
-      border: none;
-      color: var(--muted-color);
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 0.25rem;
-      border-radius: 6px;
-    }
-    .custom-search-submit:hover { color: var(--primary); }
-    .custom-search-dropdown {
-      position: absolute;
-      top: calc(100% + 6px);
-      left: 0;
-      right: 0;
-      z-index: 1000;
-      list-style: none;
-      margin: 0;
-      padding: 0.35rem;
-      background: #0d1418;
-      border: 1px solid var(--card-border-color);
-      border-radius: 10px;
-      box-shadow: 0 8px 28px rgba(0,0,0,0.35);
-      max-height: 70vh;
-      overflow-y: auto;
-    }
-    .custom-search-dropdown li {
-      border-radius: 7px;
-      cursor: pointer;
-    }
-    .custom-search-dropdown li a {
-      display: block;
-      padding: 0.55rem 0.7rem;
-      color: var(--color);
-      text-decoration: none;
-    }
-    .custom-search-dropdown li .cs-title { font-weight: 600; font-size: 0.9rem; }
-    .custom-search-dropdown li .cs-type {
-      font-size: 0.72rem;
-      color: var(--muted-color);
-      margin-left: 0.35rem;
-      text-transform: uppercase;
-      letter-spacing: 0.03em;
-    }
-    .custom-search-dropdown li.cs-concept a .cs-title { color: var(--primary); }
-    .custom-search-dropdown li.cs-selected, .custom-search-dropdown li:hover { background: color-mix(in srgb, var(--primary) 14%, transparent); }
-    .custom-search-dropdown .cs-view-all {
-      display: block;
-      padding: 0.55rem 0.7rem;
-      color: var(--primary);
-      font-size: 0.85rem;
-      font-weight: 500;
-      text-decoration: none;
-      border-top: 1px solid var(--card-border-color);
-      margin-top: 0.2rem;
-    }
-    .custom-search-dropdown .cs-empty {
-      padding: 0.7rem;
-      color: var(--muted-color);
-      font-size: 0.85rem;
-    }
-    .custom-search-dropdown .cs-section-label {
-      padding: 0.4rem 0.7rem 0.15rem;
-      font-size: 0.72rem;
-      color: var(--muted-color);
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
     }
     header a { color: white; text-decoration: none; }
     .brand-link {
@@ -571,13 +492,7 @@ const recentConcepts = concepts
       </a>
       <div class="header-search">
         <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
-        <div class="custom-search" id="custom-search">
-          <input type="search" id="custom-search-input" placeholder="Search articles & concepts..." autocomplete="off" aria-label="Search articles and concepts" aria-haspopup="listbox" />
-          <button type="button" id="custom-search-submit" class="custom-search-submit" aria-label="View all search results" title="View all search results">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-          </button>
-          <ul class="custom-search-dropdown" id="custom-search-dropdown" role="listbox" aria-label="Search results" hidden></ul>
-        </div>
+        <pagefind-searchbox placeholder="Search articles & concepts..."></pagefind-searchbox>
       </div>
     </div>
   </header>
@@ -734,137 +649,6 @@ const recentConcepts = concepts
         if (e.key === "Escape") setOpen(false);
       });
       syncInert();
-    })();
-  </script>
-  <script is:inline>
-    // Custom header search: ranks concept pages before articles, and lets
-    // Enter / the search-glass icon open the full search page.
-    (() => {
-      const wrap = document.getElementById("custom-search");
-      if (!wrap) return;
-      const input = document.getElementById("custom-search-input");
-      const submit = document.getElementById("custom-search-submit");
-      const dropdown = document.getElementById("custom-search-dropdown");
-      let pfReady = null;
-      let items = [];      // array of {url, title, type}
-      let selIndex = -1;
-      let searchID = 0;
-      const debounceMs = 180;
-
-      const pfPromise = () => {
-        if (!pfReady) pfReady = import("/aied/pagefind/pagefind.js").then(m =>
-          m.createInstance ? m.createInstance({ bundlePath: "/aied/pagefind/" }) : (window.pagefind || m.default)
-        ).catch(() => null);
-        return pfReady;
-      };
-
-      const escapeHtml = (s) => s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-      const smartType = (filters) => {
-        // result.data().filters is {page_type: 'concept'|'article'}
-        return (filters && filters.page_type) || (filters && Array.isArray(filters.page_type) ? filters.page_type[0] : null) || "";
-      };
-
-      const render = () => {
-        if (!items.length) { dropdown.hidden = true; return; }
-        const concepts = items.filter(i => i.type === "concept");
-        const articles = items.filter(i => i.type !== "concept");
-        let html = "";
-        const li = (it, idx) => `<li data-idx="${idx}" class="${it.type === "concept" ? "cs-concept" : ""} ${idx === selIndex ? "cs-selected" : ""}"><a href="${it.url}"><span class="cs-title">${escapeHtml(it.title)}</span><span class="cs-type">${it.type === "concept" ? "Concept" : "Article"}</span></a></li>`;
-        let globalIdx = 0;
-        if (concepts.length) {
-          html += '<li class="cs-section-label">Concepts</li>';
-          for (const it of concepts) html += li(it, globalIdx++);
-        }
-        if (articles.length) {
-          html += '<li class="cs-section-label">Articles</li>';
-          for (const it of articles) html += li(it, globalIdx++);
-        }
-        html += `<li><a class="cs-view-all" href="/aied/search?q=${encodeURIComponent(input.value)}">View all results on the search page →</a></li>`;
-        dropdown.innerHTML = html;
-        dropdown.hidden = false;
-      };
-
-      const openSearchPage = (term) => {
-        window.location.href = "/aied/search?q=" + encodeURIComponent(term || "");
-      };
-
-      const doSearch = async () => {
-        const term = input.value.trim();
-        const myID = ++searchID;
-        if (!term) { items = []; selIndex = -1; render(); return; }
-        const pf = await pfPromise();
-        if (!pf || myID !== searchID) return;
-        try {
-          const res = await pf.search(term);
-          if (myID !== searchID) return;
-          const top = (res && res.results ? res.results : []).slice(0, 9);
-          const loaded = await Promise.all(top.map(r => r.data().then(d => ({
-            url: d.url, title: d.title, type: smartType(d.filters)
-          })).catch(() => null)));
-          items = loaded.filter(Boolean);
-          selIndex = items.findIndex(i => i.type === "concept");
-          if (selIndex < 0) selIndex = 0;
-          render();
-        } catch (e) { items = []; selIndex = -1; render(); }
-      };
-
-      let debounce;
-      input.addEventListener("input", () => {
-        clearTimeout(debounce);
-        debounce = setTimeout(doSearch, debounceMs);
-      });
-      input.addEventListener("focus", () => { if (items.length) render(); });
-
-      input.addEventListener("keydown", (e) => {
-        if (e.key === "ArrowDown") {
-          e.preventDefault();
-          if (!items.length) { doSearch(); return; }
-          selIndex = Math.min(selIndex + 1, items.length - 1);
-          render(); scrollToActive();
-        } else if (e.key === "ArrowUp") {
-          e.preventDefault();
-          if (!items.length) return;
-          selIndex = Math.max(selIndex - 1, 0);
-          render(); scrollToActive();
-        } else if (e.key === "Enter") {
-          e.preventDefault();
-          if (selIndex >= 0 && items[selIndex]) {
-            window.location.href = items[selIndex].url;
-          } else {
-            openSearchPage(input.value.trim());
-          }
-        } else if (e.key === "Escape") {
-          dropdown.hidden = true;
-          items = []; selIndex = -1;
-        }
-      });
-
-      const scrollToActive = () => {
-        const el = dropdown.querySelector("li.cs-selected");
-        if (el) el.scrollIntoView({ block: "nearest" });
-      };
-
-      // Search-glass icon: open the full search page (unless a highlighted
-      // result is present and the user clicks the icon near it).
-      submit.addEventListener("click", (e) => {
-        e.preventDefault();
-        openSearchPage(input.value.trim());
-      });
-
-      // Delegate clicks on dropdown items.
-      dropdown.addEventListener("click", (e) => {
-        const li = e.target.closest("li[data-idx]");
-        if (li) {
-          const it = items[parseInt(li.dataset.idx, 10)];
-          if (it) { window.location.href = it.url; return; }
-        }
-        // view-all link is a real anchor, handled natively.
-      });
-
-      // Close on outside click.
-      document.addEventListener("click", (e) => {
-        if (!wrap.contains(e.target)) { dropdown.hidden = true; }
-      });
     })();
   </script>
 </body>
