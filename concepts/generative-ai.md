@@ -69,3 +69,4 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[self-directed-growth-generative-ai-learning-analytics]]
 - [[genai-educational-outcomes-meta-analysis]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]

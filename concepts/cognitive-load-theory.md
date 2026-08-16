@@ -51,3 +51,4 @@ Because an AI tutor's core design question is how much help to give, cognitive l
 - [[socraticode-k12-programming-tutor]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[tutoring-specific-vs-general-ai]]
+- [[prezenski-human-centered-ai-aided-learning]]

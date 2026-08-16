@@ -13,10 +13,10 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Learning and instruction',
     blurb: 'How AI supports teaching and learning is the heart of the field — from core pedagogies to learning theories, AI agents, and subject areas.',
     groups: [
-      { label: 'Core pedagogies', items: ['active-learning', 'learning-by-teaching', 'collaborative-learning', 'project-based-learning', 'experiential-learning', 'game-based-learning', 'gamification', 'scaffolding', 'socratic-method', 'self-regulated-learning', 'self-determination-theory', 'zone-of-proximal-development', 'desirable-difficulties', 'transfer-of-learning', 'metacognition', 'cognitive-load-theory', 'dual-process-theory', 'constructivist', 'behaviorism', 'learning-theories', 'embodied-learning', 'storytelling-in-education', 'instructional-design'] },
+      { label: 'Core pedagogies', items: ['active-learning', 'learning-by-teaching', 'collaborative-learning', 'project-based-learning', 'experiential-learning', 'game-based-learning', 'gamification', 'scaffolding', 'socratic-method', 'self-regulated-learning', 'self-determination-theory', 'zone-of-proximal-development', 'desirable-difficulties', 'transfer-of-learning', 'metacognition', 'cognitive-load-theory', 'dual-process-theory', 'constructivist', 'behaviorism', 'learning-theories', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'storytelling-in-education', 'instructional-design'] },
       { label: 'Learning theories and processes', items: ['motivation', 'self-efficacy', 'help-seeking', 'student-engagement', 'engagement-metrics', 'feedback-loop', 'cognitive-diagnosis', 'student-modeling', 'knowledge-tracing', 'student-misconceptions-ai', 'simulating-students', 'icap-framework'] },
       { label: 'AI agents and interactions', items: ['ai-tutoring', 'intelligent-tutoring', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'pedagogical-llm-training', 'social-robots', 'educational-robotics', 'human-robot-interaction'] },
-      { label: 'Subject areas', items: ['math-education', 'physics-education', 'language-learning', 'cs-education', 'programming-education', 'writing-education', 'stem-education', 'k-12-ai-education', 'special-education', 'adult-learning', 'higher-ed', 'block-programming'] },
+      { label: 'Subject areas', items: ['math-education', 'physics-education', 'language-learning', 'cs-education', 'programming-education', 'writing-education', 'stem-education', 'k-12-ai-education', 'special-education', 'adult-learning', 'higher-ed', 'medical-education', 'humanities-education', 'block-programming'] },
     ],
   },
   {
@@ -48,14 +48,14 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'Fairness, access, and responsibility are central to AI in education.',
     groups: [
       { label: 'Equity and access', items: ['equity-in-ai-education', 'digital-divide', 'bias-mitigation', 'culturally-relevant-pedagogy', 'accessible-learning', 'neurodiversity', 'universal-design-for-learning'] },
-      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'hallucination-risk', 'trust', 'trust-calibration', 'reducing-ai-misuse', 'over-reliance', 'cognitive-offloading', 'critical-thinking'] },
+      { label: 'Ethics and responsibility', items: ['ethics', 'ai-misuse-learning-harm', 'hallucination-risk', 'trust', 'trust-calibration', 'reducing-ai-misuse', 'over-reliance', 'cognitive-offloading', 'critical-thinking', 'critical-pedagogy'] },
     ],
   },
   {
     heading: 'Emergent and cross-cutting themes',
     blurb: 'Concepts that span the field, from AI literacy to human–AI collaboration and design approaches.',
     groups: [
-      { label: 'Cross-cutting', items: ['ai-literacy', 'prompt-engineering', 'human-ai-collaboration', 'agentic-ai', 'computational-thinking', 'design-thinking', 'curriculum-design'] },
+      { label: 'Cross-cutting', items: ['ai-literacy', 'prompt-engineering', 'human-ai-collaboration', 'agentic-ai', 'computational-thinking', 'design-thinking', 'curriculum-design', 'philosophy-of-ai-in-education'] },
     ],
   },
 ];

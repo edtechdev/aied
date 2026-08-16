@@ -44,3 +44,4 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
+- [[li-ai-science-situated-learning-teachers-2025]]

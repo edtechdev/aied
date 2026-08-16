@@ -59,3 +59,5 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[li-ai-science-situated-learning-teachers-2025]]

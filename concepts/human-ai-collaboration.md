@@ -17,6 +17,9 @@ Human-AI collaboration describes how learners, teachers, and AI systems divide [
 - **Complementary roles in writing and thinking:** [[humanlike-ai-collaborative-writing|Humanlike AI collaborative writing]] and [[genai-mindtool-generative-learning|GenAI as a mindtool]] show how AI can augment rather than replace learner thinking when the division of labor preserves the learner's cognitive engagement.
 - **Orchestration and agency:** [[teacher-student-agency-orchestration|Teacher–student agency orchestration]] and [[student-mental-models-genai|student mental models]] address how agency is negotiated across humans and AI, connecting to [[human-in-the-loop-ai]] and [[agentic-ai]].
 - **Metacognitive and team dimensions:** [[haiml-human-centered-ai-metacognitive-model-2026|Human-centered AI metacognitive models]] and [[spritz-ai-disciplinary-mediation-student-teams-2026|disciplinary mediation in student teams]] extend collaboration to metacognition and team learning.
+- **Distinct collaboration modes:** empirical work identifies three human–AI collaborative problem-solving modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration* — revealing a trade-off between the efficiency of the distributed human–AI system and the depth of learners' self-regulatory engagement (delegated reasoning performs best but with lower self-regulation).^[[hao-human-ai-collaborative-problem-solving-cognition]]
+- **AI as mediator, not merely partner:** [[niari-ai-pedagogical-mediator-collaborative-learning|Niari]] reconceptualises AI as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors rather than treating AI as a tutor, peer, or tool.
+- **Community and epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|community-based AI learning]] shows collaboration is also a question of *who is authoritative*, grounding AI engagement in learners' lived epistemologies.
 
 ### Connections
 
@@ -48,3 +51,8 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[ai-feedback-enactment-workflow-2026]]
 - [[ai-cognitive-partner-co-regulation-learning]]
 - [[ensemble-cognition-philosophy-ai-education]]
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[videla-embodied-ai-education-choreography]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]

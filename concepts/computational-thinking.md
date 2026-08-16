@@ -35,3 +35,4 @@ Computational thinking connects to [[cs-education]], [[stem-education]], [[ai-li
 
 - [[computational-thinking-ai-agent-creation]]
 - [[reshaping-cs-education-genai]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]

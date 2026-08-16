@@ -57,3 +57,4 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[finkelstein-principled-ai-education-2025]]
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]

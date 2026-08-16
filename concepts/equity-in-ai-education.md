@@ -99,3 +99,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[amponsah-ai-acceptance-science-teachers-2026]]
 - [[ground-truth-reliability-aied]]
 - [[sovereign-hive-titl-further-education-2026]]
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[raffaghelli-situated-ai-ethics-2026]]
+- [[avraamidou-ai-colonization-science-education]]
+- [[li-mroziak-reorienting-critical-ai-literacy]]

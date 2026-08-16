@@ -70,3 +70,6 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[genai-higher-education-systematic-review-2026]]
 - [[trace-course-grade-prediction-2026]]
 - [[self-directed-growth-generative-ai-learning-analytics]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]

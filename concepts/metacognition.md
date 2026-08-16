@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: 2026-05-07
-updated: 2026-08-15
+updated: 2026-08-16
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
 confidence: high
@@ -69,6 +69,8 @@ This suggests that **metacognitive support and [[motivation]] are not identical*
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
@@ -92,3 +94,4 @@ This suggests that **metacognitive support and [[motivation]] are not identical*
 - [[ai-cognitive-partner-co-regulation-learning]]
 - [[ensemble-cognition-philosophy-ai-education]]
 - [[genai-educational-outcomes-meta-analysis]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]

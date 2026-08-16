@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 648 articles and 138 concepts.
+> Complete text of 664 articles and 144 concepts.
 
 # Articles
 
@@ -6008,6 +6008,67 @@ Cong, L., Hahn, S., Gombert, S., Camus, L., Drachsler, H., & Kroehne, U. (2026).
 
 ---
 
+## [Can we disrupt the momentum of the AI colonization of science education?](https://edtechdev.github.io/aied/articles/avraamidou-ai-colonization-science-education/)
+
+> Avraamidou (2024) critical COMMENT in the *Journal of Research in Science Teaching*: the uncritical uptake of [[generative-ai]] in science education amounts to an "AI colonization" — extraction of data without consent, algorithmic monoculture, dehumanized learning, and profit-centered reform. She calls for a critical, feminist, values-based disruption toward a human-centered AI that prioritizes justice over profit.
+
+Lucy Avraamidou (2024) writes an explicitly critical **COMMENT** arguing that science education is being *colonized* by the generative AI industry. She contends that educational institutions are "buying into generative AI promises and hallucinations" as a **silver bullet**, and that this uncritical momentum reproduces colonial patterns of exploitation and extraction. The piece is a techno-utopia critique grounded in [[equity-in-ai-education|equity]], accountability, and feminist values, aimed at the science education research community.
+
+## The AI colonization of science education
+
+Avraamidou opens by cataloguing how AI tools are now used to extract data (usually without consent), replace research participants, read and summarize papers, write papers, design lesson plans, manage students, and assess students. She frames this as a **techno-utopia** and a "new world order" driven by the Anglo-American AI industry — an unsolicited reform that "lacks vision, is a-theoretical, is de-contextualized, [and] has profit instead of the learner at its center."
+
+Central to the critique is the threat of **algorithmic monoculture** (Kleinberg & Raghavan, 2021): as all users converge on the same algorithmically-curated choices and preferences, scientific research and education risk losing the diversity and plurality of voices that make them robust. This parallels concerns about [[bias-mitigation]] and the homogenization of thinking.
+
+## Dehumanization and standardization
+
+Drawing on her own systematic review of AI in school science (Heeg & Avraamidou, 2023), Avraamidou finds that AI applications in science education are used **mostly to automate existing practices** and that the literature is **atheoretical and lacks criticality**. AI-driven tools, from virtual tutors and chatbots to automated assessment and learning analytics, are charged with:
+
+- Neglecting the social, relational, and embodied dimensions of learning;
+- Promoting a "convenience-food" approach of fast, bite-sized learning over slow learning;
+- Confusing **education with training** and students with input–output machines;
+- Standardizing thinking rather than celebrating "the infinite ways of becoming a science learner."
+
+This is the mechanism by which generative AI can **dehumanize learning** — a direct challenge to the cognitive-only framing common across much of [[ai-education]] research and practice.
+
+## The imperative of a feminist AI
+
+Avraamidou's constructive alternative is a **feminist and human-centered AI** that prioritizes justice over profit. Higher education institutions should develop visions for **critical AI literacy framed within feminist pedagogies**, rather than acting as consumers of what the AI industry offers. She poses six critical questions:
+
+1. What is the nature of knowledge produced through generative and predictive AI?
+2. Whose knowledge is it?
+3. Who benefits from AI?
+4. Based on what data are algorithms made available?
+5. Can we afford the environmental impact of AI?
+6. Who is held accountable when AI systems fail?
+
+These questions tie directly to accountability, [[ethics]], and [[equity-in-ai-education|equity]]. The essay warns that AI systems perpetuate biases, racism, and existing systems of oppression, and carry a heavy environmental footprint (an AI prompt's carbon footprint is 4–5× a search-engine query). Science education, she argues, does not need an AI utopia driven by "corporate, neoliberal, and eugenics paradigms" (Gebru & Torres, 2024), but rather pedagogies of care, affect, and cultural sustainability — spaces "where humanization of science learning and social transformation that transcend the algorithm can happen."
+
+The essay closes with an affirmative: *"Can we disrupt the momentum of the AI colonization of science education? Yes, we can—once we step outside of corporate and capitalist visions of science education and imagine more sustainable and socially just futures."*
+
+## Related Concepts
+
+- [[ai-education]]
+- [[stem-education]]
+- [[critical-thinking]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+- [[reducing-ai-misuse]]
+- [[academic-integrity]]
+
+## Connected Articles
+
+- [[ai-ethics-education-public-discourse]]
+- [[ai-misuse-learning-harm]]
+- [[equity-in-ai-education]]
+
+## Citation
+
+Avraamidou, L. (2024). Can we disrupt the momentum of the AI colonization of science education? *Journal of Research in Science Teaching*, 61(10), 2570–2574. [https://doi.org/10.1002/tea.21961](https://doi.org/10.1002/tea.21961)
+
+---
+
 ## [Awareness of Technological Isomorphism: AI in Elementary Math](https://edtechdev.github.io/aied/articles/awareness-technological-isomorphism/)
 
 Introduces a novel core concept, **"Awareness of Technological Isomorphism,"** defined as a student's metacognitive realization that their own mathematical cognitive operations (observing trends, inducing patterns, making predictions) share an underlying logical structure with AI technical operations (pattern recognition, predictive modeling). This awareness facilitates [[transfer-of-learning|cognitive transfer from disciplinary mathematics to AI comprehension]].
@@ -11287,6 +11348,61 @@ Lorenzo Stacchio, Michele Giordano, Daniele Berardini, Primo Zingaretti, Emanuel
 
 ---
 
+## [Pedagogical Symbiosis: conceptualizing the Post-Human Learner in the age of cognitive AI](https://edtechdev.github.io/aied/articles/elsayed-pedagogical-symbiosis-posthuman-learner/)
+
+> **Synthesis:** Elsayed (2026) introduces **Pedagogical Symbiosis**, a conceptual framework that redefines the learner as a **Post-Human entity** whose cognitive processes are genuinely hybrid and distributed across biological and artificial systems. Synthesizing Vygotskian mediation, the extended mind thesis, critical posthumanism, and distributed cognition, it proposes four mutually constitutive principles—Cognitive Offloading and Augmentation, Epistemic Co-construction, Metacognitive Symbiosis, and Dynamic Identity Formation—underpinned by a Piagetian, Vygotskyan, and Eriksonian developmental progression. In contrast to instrumentally oriented frameworks (TPACK, SAMR, AI literacy), Pedagogical Symbiosis offers an ontological reorientation, treating AI not as a tool that enhances cognition but as a constitutive cognitive partner, and operationalizes this via K-16 curriculum applications, a Symbiotic Portfolio Assessment Rubric, a five-module professional development structure for the 'Cognitive Choreographer' teacher role, and institutional policy pathways.
+
+## Key Findings
+
+- **The Post-Human Learner.** Elsayed argues that the learner in the age of cognitive AI can no longer be understood as a bounded, autonomous human subject who uses AI as a tool. Instead, the learner is a genuinely hybrid entity whose cognitive processes are co-constituted with artificial intelligence. This is presented as a theoretical claim grounded in Vygotskian tool mediation, the extended mind thesis (Clark & Chalmers), critical posthumanism (Braidotti, Wolfe), and distributed cognition (Hutchins, Salomon), not merely a metaphor or provocation.
+
+- **Four mutually constitutive principles.** (1) **Cognitive Offloading and Augmentation**—the deliberate redistribution of cognitive labor to AI, distinguishing productive from destructive offloading; (2) **Epistemic Co-construction**—the joint production of knowledge neither human nor AI could produce alone, creating a zone of distributed epistemic agency; (3) **Metacognitive Symbiosis**—integrating AI's feedback and monitoring into the learner's self-regulation, the 'dual regulatory demand' of monitoring oneself while monitoring the monitor; (4) **Dynamic Identity Formation**—the existential reshaping of the learner's sense of self as a knower and agent.
+
+- **Ontological reorientation beyond instrumentalist frameworks.** The paper systematically critiques TPACK, SAMR, and AI literacy models (Table 1) for sharing a humanist ontology that presupposes a bounded learner whose cognition is fundamentally unchanged by technological mediation. The gap is ontological rather than procedural: existing frameworks cannot address the constitutive role of AI in contemporary cognition. Pedagogical Symbiosis positions AI as a constitutive partner within the learner's cognitive system.
+
+- **Developmental grounding.** Implementation is calibrated by developmental stage using Piagetian, Vygotskyan, and Eriksonian theory (Table 2), from pre-operational (ages 2-7, minimal offloading to preserve sensorimotor and symbolic consolidation) through formal operational and post-formal/adult stages (sophisticated, reflective delegation). The framework stresses that productive offloading at one stage may be cognitive atrophy at another, and acknowledges the model requires empirical validation.
+
+- **Symbiotic Literacy and curriculum.** Symbiotic Literacy extends AI literacy from capability ('using AI competently') to character ('partnering with AI wisely'), comprising five competencies: Epistemic Auditing, Cognitive Delegation, Dialogic Engagement, Ethical Reasoning, and Identity Negotiation. It is operationalized in subject-specific K-16 applications across Language Arts, Mathematics, Science, and Social Studies.
+
+- **Assessment and the Cognitive Choreographer.** Because unassisted performance measures only a fraction of a hybrid learner's capability, the paper proposes a **Symbiotic Portfolio** assessed by a five-criterion rubric (Generative Dialogue, Epistemic Auditing, Critical Engagement, Ethical Reasoning, Final Artifact Quality). The educator role shifts from transmitter/facilitator to **Cognitive Choreographer**, who designs the conditions for productive human-AI partnership rather than performing cognitive labor, supported by a five-module (40-60 hour) professional development structure.
+
+- **Equity, safeguards, and counterarguments.** The framework engages the humanist autonomy objection via relational autonomy, resists techno-determinism via cognitive reversibility and deliberate 'AI-free zones', and answers the 'black box' epistemology objection through epistemic auditing that triangulates AI outputs against external criteria. It also foregrounds the digital divide, data sovereignty/privacy, and destructive cognitive dependency as equity and ethical imperatives.
+
+- **Limitations and agenda.** The framework is explicitly conceptual and untested, acknowledging that its developmental progression, curriculum applications, rubric, and teacher-development model require empirical validation. It frames itself as an 'opening argument' inviting research on hybrid cognition, developmental calibration, and assessment validity.
+
+## Educational Significance
+
+Pedagogical Symbiosis contributes a philosophical-educational counterweight to the dominant instrumental treatment of AI in [[ai-education]]. By reconceptualizing the learner through critical posthumanism and the extended mind thesis, it reframes debates about [[agency]], [[cognitive-offloading]], and epistemic authority, and offers concrete tools for [[curriculum-design]] and assessment in [[higher-ed]] and K-12. Its [[embodied-learning]] and [[constructivist]] lineage—via Piagetian and Vygotskyan developmentalism—situates it within established [[learning-theories]] even as it proposes a post-humanist departure. For [[human-ai-collaboration]] and [[teacher-role]] scholarship, it reframes the educator as [[pedagogical-agent|Cognitive Choreographer]], balancing relational autonomy against the risks of dependency, techno-determinism, and [[digital-divide|epistemic opacity and inequity]].
+
+## Connected Concepts
+
+- [[learning-theories]]
+- [[human-ai-collaboration]]
+- [[agency]]
+- [[cognitive-offloading]]
+- [[ai-education]]
+- [[higher-ed]]
+- [[embodied-learning]]
+- [[constructivist]]
+- [[ai-literacy]]
+- [[curriculum-design]]
+- [[digital-divide]]
+
+## Connected Articles
+
+- [[posthumanist-ai-literacy-2025]] — Posthumanist AI literacy
+- [[ensemble-cognition-philosophy-ai-education]] — Towards a philosophy of ensemble cognition
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Learning with machines: epistemic co-agency
+- [[cognitive-shift-ai-education]] — The cognitive shift in AI education
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
+- [[human-ai-collaboration-trust-expectations]] — Human-AI collaboration: trust and expectations
+
+## Citation
+
+Elsayed, A. S. A. (2026). [*Pedagogical Symbiosis: conceptualizing the Post-Human Learner in the age of cognitive AI*](https://doi.org/10.1080/2331186X.2026.2699020). *Cogent Education*, 13(1), 2699020. doi:10.1080/2331186X.2026.2699020.
+
+---
+
 ## [Embodied Inquiry with AI as Facilitator: An Exploratory Case Study](https://edtechdev.github.io/aied/articles/embodied-inquiry-ai-facilitator-physics-2026/)
 
 > **Synthesis:** Tufino & Damiani (2026) explore where a language-based AI can stand within an inquiry activity without displacing embodied experience, using a Master's-level physics education course investigating the statics of fluids via the ISLE approach. In a two-phase design, students first built the buoyancy model with their own hands without AI; a purpose-configured AI assistant then facilitated applying the model to a new phenomenon. The paper discusses what a language-based facilitator cannot reach and the value of a design in which AI **complements** embodied inquiry rather than replacing it. The work connects to [[physics-education]], [[socratic-method]], and [[pedagogical-agent]] theory.
@@ -11628,7 +11744,7 @@ Xia, T., Tan, M., & Guo, J. (2026). [*Enhancing online learning outcomes through
 
 - **EC as a post-consciousness-paradigm framework.** The paper argues that contemporary AI-mediated environments strain three foundational assumptions of the "consciousness paradigm" in educational philosophy: the autonomy assumption (authentic learning from individual reflection), the consciousness assumption (cognition requires first-person experience), and the stability assumption (cognitive roles are fixed across contexts). EC reconceptualises thinking as a collaborative achievement among human and artificial agents.
 
-- **Critique of 4E cognition, distributed cognition, and actor-network theory.** Each framework raises specific conceptual questions in AI-mediated education: 4E cognition (embodied, embedded, enacted, extended) was built for biological cognition and struggles with agents that lack sensorimotor embodiment yet inherit embodied structure linguistically; **distributed cognition** (DCog) excels descriptively but provides insufficient normative resources for evaluating whether cognitive distributions serve educational goals; **actor-network theory** (ANT) attributes symmetrical agency to humans and non-humans, which conflicts with education's fundamentally asymmetrical ethics and obscures distinctions between functional participation and moral responsibility.
+- **Critique of 4E cognition, distributed cognition, and actor-network theory.** Each framework raises specific conceptual questions in AI-mediated education: [[embodied-learning|4E cognition]] (embodied, embedded, enacted, extended) was built for biological cognition and struggles with agents that lack sensorimotor embodiment yet inherit embodied structure linguistically; **distributed cognition** (DCog) excels descriptively but provides insufficient normative resources for evaluating whether cognitive distributions serve educational goals; **actor-network theory** (ANT) attributes symmetrical agency to humans and non-humans, which conflicts with education's fundamentally asymmetrical ethics and obscures distinctions between functional participation and moral responsibility.
 
 - **Functional agency without consciousness.** AI systems exhibit adaptive responsiveness, contextual sensitivity, and generative capacity that place them in an intermediate category between passive instruments and conscious agents. This is functional agency—genuine causal efficacy in cognitive processes that does not require self-reflection, intentionality, or phenomenal consciousness.
 
@@ -11636,15 +11752,15 @@ Xia, T., Tan, M., & Guo, J. (2026). [*Enhancing online learning outcomes through
 
 - **Five features of ensemble cognition.** (1) **Distributed agency**—no single actor monopolises cognition; (2) **dynamic centrality**—cognitive leadership shifts by task demands, shaped even by how users craft prompts; (3) **cognitive orchestration**—coordinated integration of diverse cognitive resources toward coherent outcomes; (4) **multi-representational integration**—integration of linguistic, visual, and mathematical resources (distinct from neuroscientific multimodality); (5) **context-sensitive switching**—cognitive systems adapt their organisation to situational demands, and different AI architectures generate qualitatively distinct collaborative dynamics.
 
-- **Distributed metacognitive awareness.** Thinking about thinking expands from individual self-monitoring to collaborative cognitive management: students must understand how different agents contribute, when to rely on AI versus human judgement, and how to orchestrate collaborative processes. This raises questions about whether it enhances or outsources distinctively human capacities for reflection and self-direction.
+- **Distributed metacognitive awareness.** [[metacognition|Thinking about thinking]] expands from individual self-monitoring to collaborative cognitive management: students must understand how different agents contribute, when to rely on AI versus human judgement, and how to orchestrate [[collaborative-learning|collaborative processes]]. This raises questions about whether it enhances or outsources distinctively human capacities for reflection and self-direction.
 
-- **Distributed pedagogical arrangements and orchestrated authorship.** Teachers become cognitive orchestrators managing interactions between students, AI, and resources; student authorship is reconceptualised as "orchestrated authorship" where responsibility lies in transparently managing collaborative processes and exercising critical judgement over AI contributions.
+- **Distributed pedagogical arrangements and orchestrated authorship.** [[teacher-role|Teachers become cognitive orchestrators]] managing interactions between students, AI, and resources; student authorship is reconceptualised as "orchestrated authorship" where responsibility lies in transparently managing collaborative processes and exercising [[critical-thinking|critical judgement]] over AI contributions.
 
 - **Critical boundaries and concerns.** The framework acknowledges the transparency problem (opaque AI decision-making), cultural embeddedness (AI privileging particular values like efficiency over care, caution, and contextual sensitivity, per Jackson 2025), human cognitive development and intellectual autonomy, power and democratic participation, and its own cultural situatedness within Western cognitive science and analytic philosophy of mind.
 
 ## Educational Significance
 
-EC's value lies in offering conceptual vocabulary for asking better questions about human-AI collaboration in learning, navigating between uncritical anthropomorphisation of AI and reductive instrumentalism that treats it as a mere tool. It directly engages the [[cognitive-offloading]] debate, questions about [[agency]] and intellectual autonomy, and the reconceptualisation of [[metacognition]] as collaborative. The framework positions [[human-ai-collaboration]] and [[pedagogical-agent]] roles within [[higher-ed]] and broader [[ai-education]] contexts, while its engagement with [[embodied-learning]] and [[constructivist]] traditions grounds it in existing learning theory.
+EC's value lies in offering conceptual vocabulary for asking better questions about [[human-robot-interaction|human-AI collaboration]] in learning, navigating between uncritical anthropomorphisation of AI and reductive instrumentalism that treats it as a mere tool. It directly engages the [[cognitive-offloading]] debate, questions about [[agency]] and intellectual autonomy, and the reconceptualisation of [[metacognition]] as collaborative. The framework positions [[human-ai-collaboration]] and [[pedagogical-agent]] roles within [[higher-ed]] and broader [[ai-education]] contexts, while its engagement with [[embodied-learning]] and [[constructivist]] traditions grounds it in existing learning theory.
 
 ## Connected Concepts
 
@@ -12451,6 +12567,66 @@ A mixed-methods survey of 81 introductory physics undergraduates reveals a 50-po
 ## Citation
 
 Fouad, E., & Bentley, I. (2026). [Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration](https://doi.org/10.1103/bdl1-6bn4).
+
+---
+
+## [Empowering Educators: Operationalizing Age-Old Learning Principles Using AI](https://edtechdev.github.io/aied/articles/fowlin-operationalizing-learning-principles-ai/)
+
+> **Empowering Educators: Operationalizing Age-Old Learning Principles Using AI** — A theoretical framework helping educators navigate AI integration while preserving the core principles of effective teaching and learning. The authors examine Dewey's experiential learning, situated cognition, and distributed cognition through four lenses (inputs, methods, conditions, outcomes), showing how AI operationalizes each at scale, and argue AI is a tool that enhances rather than replaces the educator's role. Grounded in health professions education at the Medical University of South Carolina (MUSC), the paper also offers the Four-Step AI Response Continuum framework (ignore, address, redesign, redefine) to meet educators at their varying levels of readiness.
+
+**Julaine Fowlin, Denzil Coleman, Shane Ryan, Carina Gallo, Elza Soares & NiAsia Hazelton** — Education Sciences, 15(3), 393.
+
+## Key Findings
+
+The paper opens from a constructivist foundation (Richey et al., 2011): learning results from a personal interpretation of an experience, is an active process in realistic and relevant situations, and results from exploring multiple perspectives. On this basis it analyzes three age-old learning principles — each through the lenses of **inputs**, **methods**, **conditions**, and **outcomes** — and demonstrates how AI operationalizes them:
+
+- **Dewey's experiential learning** (realism, interaction, continuity) uses active, project-based methods and hands-on experimentation. AI operationalizes it through adaptive learning pathways, AI-driven immersive AR/VR environments, and generative-AI prompts that create responsive, personalized learning experiences. In an Environmental Science example, students manipulate variables in a virtual coastal-ecosystem simulation, interact with AI-powered virtual stakeholders, and collaborate in virtual field studies, while AI data analytics guide educators' personalized interventions.
+
+- **Situated cognition** (authenticity, social interaction, cultural embeddedness) treats knowing and doing as inseparable, with learning tied to context and culture. AI operationalizes it by generating immersive environments that simulate real-world situations, using virtual agents (chatbots/LLMs) via natural language processing to act as experts coaching apprentices. In a business mergers-and-acquisitions example, students negotiate with AI-simulated stakeholders and communities of practice, enabling cognitive apprenticeship at scale. Cognition here is also recognized as *embodied* — physical experience shapes thinking and learning.
+
+- **Distributed cognition** (DCog, from Hutchins) holds that cognitive processes are distributed across people, tools, and environments rather than confined to individual minds. AI acts as a cognitive partner within these systems. The paper recommends a **two-phase approach** to avoid automation-related deskilling: Phase 1 builds core competencies without AI, then Phase 2 introduces AI as a cognitive partner where students critically evaluate AI suggestions (guarding against bias and hallucination). Five guiding questions help educators decide appropriate reliance on AI per discipline and context.
+
+**AI enhances personalized and adaptive learning.** Machine learning now lets average educators implement adaptive systems that previously required substantial resources, technical expertise, and infrastructure — tailoring content and pacing while providing real-time insights and fostering critical thinking and problem-solving.
+
+**The teacher's role remains essential, and AI enhances rather than replaces it.** Educators orchestrate AI-driven experiences for authentic problem-solving, critical thinking, and collaborative learning; reduce equity and access gaps; interpret the data AI generates about students; shift from authoritative to collaborative/facilitative teaching; and preserve mentorship, empathy, and context. AI is positioned as a tool, an enabler, and a cognitive partner in the teacher–student relationship.
+
+**The Four-Step AI Response Continuum Framework** (ignore, address, redesign, redefine), developed by Fowlin from faculty-development workshops, gives educators a staged journey matched to their readiness. "Redefine" treats AI as a subject worth studying — AI literacy, ethics, and applications — and the paper warns that *ignoring AI is dangerous* because students may misinterpret its presence as tacit approval for unagreed use.
+
+**On academic integrity, the paper cautions against AI detection** (unreliable, prone to false positives) and instead advocates addressing root causes of dishonesty — cultivating intrinsic motivation, self-efficacy, meaningful coursework, and process-over-product formative assessment.
+
+## Implications for AI in Education
+
+This paper supplies a practical, principle-first scaffold for AI integration that resonates with other educator-facing guidance. Its insistence that AI augments rather than displaces educator agency aligns closely with [[finkelstein-principled-ai-education-2025|Finkelstein's principled framework]], which likewise argues technology should support rather than bypass human capacities. The [[cognitive-offloading|distributed-cognition view of AI as cognitive partner]] and the two-phase core-competency-then-AI approach speak directly to concerns about [[over-reliance]] and deskilling raised across the literature.
+
+The educator-centered stance connects to [[teacher-role]] research on how AI changes teaching workflows, and the call to move from authoritative to facilitative teaching parallels [[agentic-ai-pedagogical-best-practice-2026|tensions between automation and genuine learning]]. The emphasis on [[adaptive-learning]] reachable "for the average educator" ties into the wider personalized-learning agenda, and the MUSC context grounds the framework in [[higher-ed]] health professions training, where authentic, context-rich clinical scenarios (see [[ai-use-critical-thinking-medical-students-2026|medical students and critical thinking]]) map naturally onto [[experiential-learning]] and situated learning.
+
+For course design, the paper's unbundling metaphor (James Lang) — breaking activities into components best done independently versus best coupled with AI — offers an operational method for [[instructional-design]] decisions, complementing [[learning-theories]] work on how AI can either support or undermine deeper cognition depending on implementation. The framework's [[adaptive-learning|adaptive systems]], immersive [[embodied-learning|embodied learning]] environments, and personalized pathways together illustrate the broader shift from content-delivery toward learner-centered, context-rich, skill-focused education that AI makes tractable at scale.
+
+## Connected Concepts
+
+- [[adaptive-learning]]
+- [[cognitive-offloading]]
+- [[constructivist]]
+- [[critical-thinking]]
+- [[embodied-learning]]
+- [[experiential-learning]]
+- [[higher-ed]]
+- [[instructional-design]]
+- [[learning-theories]]
+- [[personalized-learning]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[finkelstein-principled-ai-education-2025]] — A Principled Way to Think About AI in Education
+- [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice
+- [[ai-use-critical-thinking-medical-students-2026]] — AI Use and Critical Thinking in Medical Students
+- [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
+- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patient for Psychotherapy Training
+
+## Citation
+
+Fowlin, J., Coleman, D., Ryan, S., Gallo, C., Soares, E., & Hazelton, N. (2026). [*Empowering Educators: Operationalizing Age-Old Learning Principles Using AI*](https://doi.org/10.3390/educsci15030393). Education Sciences, 15(3), 393.
 
 ---
 
@@ -15308,6 +15484,69 @@ The levers are domain-general and not AI-specific: mapping them to Schoenfeld's 
 ## Citation
 
 Halani, A. (2026). [*Designing for Reach: Seven Levers and the Student Alone with AI*](https://doi.org/10.35542/osf.io/t4cd2_v1). EdArXiv. https://osf.io/preprints/edarxiv/t4cd2_v1
+
+---
+
+## [Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective](https://edtechdev.github.io/aied/articles/hao-human-ai-collaborative-problem-solving-cognition/)
+
+> **Synthesis:** This empirical study by Hao, Liu, Fan, Long, Yu, Chen & Zhang (Tsinghua University) adopts an integrated distributed cognition and co-regulation perspective to examine how college students collaborate with AI agents on complex problem-solving tasks. Through dialogue coding and cluster analysis of 173 students, it identifies three collaborative problem-solving modes — **Delegated Reasoning (DR), Concerted Interpretation (CI), and Delegated Elaboration (DE)** — and shows that the DR mode achieves the highest task performance but the lowest regulatory engagement, while the CI mode engages learners most deeply in [[self-regulated-learning|self-regulation]]. The work exposes a core tension between the efficiency of the distributed human-AI system and the depth of learners' cognitive and regulatory involvement.
+
+# Unpacking Interaction Profiles in Human-AI Collaborative Problem Solving
+
+## From distributed cognition to human-AI collaboration
+
+The paper extends [[cognitive-offloading|distributed-cognition theory]] (Hutchins) beyond human teams into the human-AI context. Rather than treating students' use of generative AI as a monolithic behavior, it asks how cognitive work is *distributed* and *regulated* between human and AI collaborators turn-by-turn. This connects directly to the wiki's core theme of [[human-ai-collaboration]] and to [[collaborative-learning]] research on AI as a partner or mediator. Because generative AI is highly reactive to user input, the study argues, the quality of collaboration depends on how students allocate and offload cognition and whether they maintain [[metacognition|metacognitive]] oversight of the process.
+
+## Three modes of human-AI collaboration
+
+Using an agglomerative hierarchical clustering of the proportion of SEDA-adapted utterance codes (Cohen's κ = 0.81), the authors derived three profiles:
+
+- **Delegated Reasoning (DR)** — students outsource the reasoning process to the AI (highest Reasoning Invitation). The AI does the heavy cognitive lifting; the human verifies the final product.
+- **Concerted Interpretation (CI)** — students expand on ideas and construct arguments themselves (highest Elaboration, Reasoning, Agreement), treating the AI as a dialogic partner rather than an answer source.
+- **Delegated Elaboration (DE)** — students prompt the AI to elaborate, explain, or give examples (highest Elaboration Invitation and Team Dynamics), an exploratory middle ground.
+
+Epistemic Network Analysis showed distinct structural logics: in DR and DE, [[metacognition]] co-occurred with invitation-related actions (delegation and offloading), whereas in CI, metacognition was tied to human-initiated reasoning and elaboration — a difference the authors interpret as the difference between the student as "dispatcher" and the student as co-constructor.
+
+## Efficiency versus regulatory engagement
+
+The results reveal a striking trade-off. The **DR group achieved the highest task performance** (significantly outperforming CI) and showed the **highest semantic similarity between human and AI discourse** — an interaction profile that aligns with the classical distributed-cognition ideal of efficient, low-loss information transfer. Yet DR also reported the **lowest self-regulation**, while the CI group reported **significantly greater use of [[self-regulated-learning|self-regulation strategies]]**. No group differences emerged for co-regulation or socially-shared regulation, suggesting that current generative AI acts as a reactive responder rather than a proactive regulatory partner, leaving the regulatory burden on the individual learner.
+
+The authors caution that efficient semantic coupling does not equal deep learning. Over-delegating higher-order reasoning, explanation, and integration to AI may trap learners in a "cognitive comfort zone" and incur a *cognitive debt* — obtaining a correct product at the cost of the self-constructive process of understanding. This has direct implications for [[learning-analytics]] (where semantic cohesion is often treated as a marker of good collaboration) and for the design of [[ai-education|AI-empowered]] tools in [[higher-ed|higher education]].
+
+## Design implications
+
+Drawing on the tension between system efficiency and regulatory engagement, the authors propose four design principles for educational AI: prioritize **dialogic tension** over seamless efficiency (e.g., strategic decoupling, counterexamples); enable **proactive co-regulation** (AI that monitors for premature consensus and prompts reflection); embed **metacognitive diagnostics and scaffolding** to keep the "mind-in-the-loop"; and cultivate a **synergistic co-constructive ecology** where AI manages an inner loop of questioning while instructors steer an outer loop of value and strategy.
+
+## Key Findings
+
+- Cluster analysis of 173 college students' human-AI dialogues identified **three collaborative problem-solving modes**: Delegated Reasoning (DR, n=78), Concerted Interpretation (CI, n=55), and Delegated Elaboration (DE, n=40).
+- The **DR group achieved the highest task performance, significantly outperforming the CI group** (H = 9.437, p = .009).
+- **Semantic similarity between human and AI discourse was highest in DR**; CI was significantly lower (b = −0.086), with no significant DE-vs-DR difference.
+- The **CI group reported significantly greater self-regulation** than DR (H = 7.06, p = .029); no differences emerged for co-regulation or socially-shared regulation, as generative AI acted reactively rather than as a proactive regulatory partner.
+- Epistemic Network Analysis revealed that DR/DE deploy **delegation/offloading logics** (metacognition tied to invitations), while CI reflects **dialogic co-construction** (metacognition tied to human reasoning and elaboration).
+- The study surfaces a **tension between system efficiency and regulatory depth** — efficient semantic coupling does not equal deep learning, and over-delegation may incur "cognitive debt."
+
+## Connected Concepts
+
+- [[human-ai-collaboration]]
+- [[collaborative-learning]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[learning-analytics]]
+- [[higher-ed]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[epistemic-emotions-collaborative-problem-solving]]
+- [[ai-cognitive-partner-co-regulation-learning]]
+- [[cognitive-offloading-llm-synthesis-writing]]
+- [[misiejuk-cognitive-offloading-prompting-2026]]
+
+## Citation
+
+Hao, Z., Liu, X., Fan, J., Long, Y., Yu, J., Chen, W., & Zhang, Y. (2026). [*Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective*](https://arxiv.org/abs/2603.21288). arXiv:2603.21288.
 
 ---
 
@@ -18551,6 +18790,104 @@ As a conceptual paper, SPARK is a proposed framework that has not been empirical
 ## Citation
 
 Dawson, S., & Pardo, A. (2026). [*Leveraging complex systems: Leading for transformative change*](https://doi.org/10.1016/j.caeai.2026.100563). *Computers and Education: Artificial Intelligence*.
+
+---
+
+## [Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives](https://edtechdev.github.io/aied/articles/li-ai-science-situated-learning-teachers-2025/)
+
+# Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives
+
+## Summary
+
+Shang Li (2025) presents a qualitative study grounding AI integration in K-12 science education within Situated Learning Theory (SLT). Drawing on semi-structured interviews and open-ended questionnaires with fourteen Chinese science teachers (elementary through high school; physics, mathematics, chemistry, and general science), the study investigates how AI tools influence students' learning processes and outcomes, transform classroom interaction and social construction, and reshape teachers' pedagogical identities. Findings show that virtual labs, simulations, and intelligent tutoring systems enhance conceptual understanding and higher-order scientific skills, cultivate scientific identity through contextualized low-risk inquiry, and deepen collaborative meaning-making. Teachers' roles shift from knowledge transmitters to facilitators, co-investigators, and ethical supervisors, while teachers simultaneously voice concerns about overreliance and the erosion of core scientific abilities. The study positions AI tools as "mediational artifacts" that extend SLT by enabling digital communities of practice and boundary-crossing between school, real-world, and interdisciplinary contexts.
+
+## Key Findings
+
+- **AI enhances conceptual understanding and higher-order scientific skills.** Dynamic simulations and visualizations lower cognitive barriers and deepen comprehension beyond rote memorization, while supporting experimental design, inquiry, hypothesis testing, data analysis, modeling, argumentation, and creative exploration.
+- **AI transforms learner identity and agency.** Students transition from "knowledge learners" to "scientific practitioners," internalizing autonomy, confidence, and a scientific identity through authentic tasks and low-risk experimentation in feedback-rich environments.
+- **AI deepens classroom interaction and social construction.** AI-enabled real-time feedback and shared data foster collaborative inquiry, role division, and critical conversation ("thinking-negotiating-optimizing"), while teachers move to facilitators, questioners, and co-investigators and take on new roles as ethical supervisors of responsible AI use.
+- **AI enables authentic, contextualized, and boundary-crossing learning.** Virtual labs and simulations let students experience distant, hazardous, or imperceptible phenomena, bridge virtual and real-world practice, and connect scientific knowledge to real-life and cross-disciplinary contexts.
+- **Teachers are optimistic yet concerned.** Teachers envision immersive, personalized AI futures but worry about being replaced and about overreliance degrading independent thinking, hands-on experimentation, and problem-solving abilities.
+
+## Connected Concepts
+
+- [[constructivist]]
+- [[experiential-learning]]
+- [[embodied-learning]]
+- [[simulation]]
+- [[ai-tutoring]]
+- [[intelligent-tutoring]]
+- [[stem-education]]
+- [[teacher-role]]
+- [[k-12-ai-education]]
+
+## Connected Articles
+
+- [[amponsah-ai-acceptance-science-teachers-2026]]
+- [[ai-acceptance-preservice-science-teachers-2026]]
+- [[benzion-ai-physics-simulations-virtual-lab]]
+- [[genai-ar-physics-simulation-prompt-2026]]
+
+## Citation
+
+Li, S. (2025). [*Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives*](https://doi.org/10.4236/ce.2025.1611114). *Creative Education*, 16(11), 1858–1882.
+
+---
+
+## [Reorienting Critical AI Literacy: A Community-Rooted Praxis of “Resisting AI”](https://edtechdev.github.io/aied/articles/li-mroziak-reorienting-critical-ai-literacy/)
+
+> **Synthesis:** Li & Mroziak (2026) propose adding "Resisting AI" as a necessary stance within Critical AI Literacy (CAIL). Critiquing a dominant discourse that assumes AI inevitability and techsolutionism — and whose productivist, extractivist logic renders communities powerless — they argue CAIL should build collective agency through dialogic, collaborative, community-rooted pedagogies. Drawing on Freirean praxis, grassroots and transnational organizing, and the roles of educators and community organizers, they position education as a space where communities imagine and build alternative technological futures.
+
+## Key Findings
+
+**CAIL is needed but currently reactive, not contesting.** Recent scholarship maps critical perspectives on AI across five emerging themes — impact, ethics, interventionism, values and power, and interdisciplinarity — with shared concerns over coded biases and disproportionate affordances. Yet the authors argue that the existing framing of CAIL "remains largely reactive rather than contesting," presuming that AI is and will be needed and that it is the sole solution to pressing global challenges. This positioning is central to the [[ai-literacy|AI literacy]] debate about whether literacy frameworks reproduce rather than challenge dominant power relations.
+
+**The dominant discourse assumes inevitability and techsolutionism.** Across more than 600 policy frameworks and guidelines — the EU's Digital Education Action Plan, UNESCO's AI Competency Frameworks for students and teachers, the OECD AILit framework — AI is routinely treated as inevitable ("AI is here to stay") and as the ultimate solution to political and environmental problems. The authors critique the "enchanted determinism" of international organizations, noting that determinist, market-driven undertones disorient the framing of [[ethics]] and [[agency|agency]] within CAIL: agency becomes highly individualized, and ethics risk reducing to symbolic gestures that favor industry over community concerns.
+
+**Resisting AI reframes CAIL through Freirean praxis and conscientious refusal.** Grounded in Paulo Freire's concept of praxis — the synchronization of reflection and action — the authors conceptualize Resisting AI as a pedagogical orientation rather than a fixed checklist. It harnesses two forms of refusal: *practical* refusal (asking "Question Zero" — is AI needed to begin with? — making opting out viable and contesting data inputs and outputs) and *ideological* refusal (diversion from the extractivist, productivist logic wired into commercial AI, which replicates colonial patterns of hegemonic extraction).
+
+**Resisting AI is a pluralist, community-rooted praxis.** The paper enumerates grassroots, community-led initiatives in intersectional and transnational contexts: planetary-justice advocates co-designing art-based campaigns against data-center expansion; gender and LGBTQ+ communities organizing around encoded cisheteronormativity; Latin American data workers building informal networks of care and collective resistance around digital labor; and decolonial practices of unlearning, co-learning, and relearning. Together these exemplify participatory, situated processes that build [[agency|collective agency]] and pluralize CAIL.
+
+**Educators and community organizers play distinct but complementary roles.** Educators — especially in K-12 and universities — act as "mediators of power" who cultivate intentional pauses, design learning experiences that include non-use and refusal, and legitimize refusal and uncertainty as thought-provoking outcomes. Community organizers, grounded in lived experience and relational accountability, frame refusal not as withdrawal but as a collective act of world-building — surfacing experiences of surveillance and data harm and producing community-authored knowledge (statements, toolkits, zines).
+
+**Resisting AI insists education remain a space for building alternative futures.** It is not an anti-technological stance but a commitment to collective self-determination: education should remain a space where communities decide, together and in relationship, what kinds of technological futures are worth inhabiting. Its essential components are the acumen to discern and critique AI discourse and usage; the intellectual habit of practical and ideological refusal; and pluralist epistemology, dialogic pedagogies, and radical imagination for community flourishing. This reframing positions [[reducing-ai-misuse|resistance and non-use]] as legitimate educational outcomes rather than merely as misuse to be policed.
+
+## Study Design & Method
+
+This is a **perspective/conceptual paper** (RESPECT 2026), not an empirical study. It proceeds through a critical review of existing AI literacy frameworks, guidelines, and policies (EU, UNESCO, OECD, AI4K12, and others), a positionality statement, and a synthesis of Freirean critical pedagogy, data justice initiatives, and documented grassroots organizing across intersectional and transnational contexts. It concludes with roles for educators and community organizers and a set of limitations and openings for future practice.
+
+## Implications for AI in Education
+
+The paper directly challenges the instrumental, solutionist framing of AI literacy that dominates many curricula and policies. It connects [[ai-education|AI education]] to critical pedagogy and collective [[agency]], arguing that literacy instruction should equip learners not only to use AI but to question its inevitability, refuse its extraction, and participate in collective decision-making about when AI belongs in education. This resonates with related critical work on the [[ai-literacy-power-knowledge|power-knowledge dimensions of AI literacy]], the [[possibility-ai-literacy-critical-editorial|(im)possibility of AI literacy]], and the [[finkelstein-principled-ai-education-2025|principled teaching of AI education]]. For educators, it urges shifting from "ethical use" checklists toward deliberative community decision-making; for institutions, it raises questions about funding and infrastructural incentives that favor corporate interests over community benefit.
+
+## Limitations
+
+As a perspective paper, it presents an argumentative, conceptual position rather than empirical evidence of effectiveness. The authors acknowledge practical challenges: financial constraints, sociopolitical pressures, and logistical difficulties in coordinating diverse groups; systemic inertia and educator compromises when schools resist critical perspectives; and the risk of co-opting community voices. They also note the paper's grounding in western, Anglophone academia and caution that they cannot claim expertise over the lived experiences of communities they do not directly belong to, and that applicability may be limited in regions with censorship or high institutional barriers.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[ai-education]]
+- [[critical-thinking]]
+- [[agency]]
+- [[reducing-ai-misuse]]
+- [[ethics]]
+
+## Connected Articles
+
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[possibility-ai-literacy-critical-editorial]] — The (im)possibility of AI literacy
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy
+- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI Literacy: Beyond the Skills Gap
+- [[finkelstein-principled-ai-education-2025]] — Principled AI Education
+- [[favero-critical-ai-tutors-empower-enslave-2025]] — Can Critical AI Tutors Empower or Enslave?
+- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI for Minority Students
+- [[genai-minoritized-knowledges-disability]] — GenAI and Minoritized Knowledges
+
+## Citation
+
+Li, S., & Mroziak, J. (2026). [*Reorienting Critical AI Literacy: A Community-Rooted Praxis of "Resisting AI"*](https://doi.org/10.1145/3796496.3811782). In *Proceedings of the 2026 Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT 2026)*. ACM, Chicago, IL.
 
 ---
 
@@ -22457,6 +22794,51 @@ Rienties, B., Coughlan, T., Domingue, J., & Herodotou, C. (2026). [*New systems 
 
 ---
 
+## [Beyond Automation: AI as a Pedagogical Mediator in Collaborative Learning](https://edtechdev.github.io/aied/articles/niari-ai-pedagogical-mediator-collaborative-learning/)
+
+> **Synthesis:** Niari (2026) advances a conceptual framework that reconceptualizes AI as a **pedagogical mediator** in [[collaborative-learning|collaborative learning]] — not a tool, tutor, peer, or automated orchestrator. Drawing on socio-cultural theory, distributed cognition, connectivist perspectives, and sociomaterial/posthuman theory, the paper argues that AIED's dominant instrumental and individualistic framings are theoretically misaligned with collaboration understood as a socially mediated, co-regulated process. The framework distinguishes three overlapping layers of AI mediation — **interactional, epistemic, and regulatory** — and contends that agency, authority, and responsibility are dynamically redistributed across human and non-human actors without displacing learner or [[agency|teacher agency]].
+
+## Key Findings
+
+- **From automation to mediation.** The paper critiques the instrumental orientation of [[ai-education|AIED]] (personalization, automation, instructional efficiency) that privileges individual outcomes over social and relational processes, arguing that generative and interactive AI participates directly in educational discourse and therefore cannot be treated as a neutral tool.
+- **The pedagogical mediator construct.** Mediation is defined as an agent (human or artificial) that actively shapes learning by structuring interaction, scaffolding sense-making, and supporting regulation; it is distinct from orchestration (coordination/management) and automation.
+- **Three layers of AI mediation.** (1) **Interactional mediation** shapes the organization and flow of collaborative discourse (prompting participation, foregrounding underrepresented contributions, highlighting convergence/divergence); (2) **epistemic mediation** influences the construction, evaluation, and circulation of knowledge — generating explanations, modeling reasoning, summarizing ideas — *without* adjudicating correctness; (3) **regulatory mediation** supports planning, monitoring, and evaluation of joint activity, contributing to socially shared regulation without centralizing control.
+- **Redistribution, not displacement, of agency.** AI mediation entails a dynamic renegotiation of agency and epistemic authority across sociotechnical systems rather than a zero-sum transfer; AI participates asymmetrically and does not claim epistemic parity with learners.
+- **Boundary work against slippage.** Unlike tutors (individualized instruction), peers/teammates (epistemic parity), coaches (individual optimization), or orchestrators (centralized control), mediators emphasize participation, relationality, and shared responsibility, keeping AI subordinate to teacher professional judgment.
+- **Ethics and governance as constitutive.** Equity/epistemic inclusion, transparency and pedagogical interpretability, teacher professional agency vs. technocratic governance, and responsible data stewardship are framed as integral to design — calling for "pedagogical governance" rather than regulatory compliance alone.
+
+## Conceptual Contribution
+
+The paper positions AI as an active participant in the orchestration of interaction, epistemic sense-making, and shared regulation of [[collaborative-learning|collaborative activity]], informed by socio-cultural theory, distributed cognition, connectivism, and sociomaterial/posthuman accounts of distributed agency. It explicitly critiques teammate/peer framings (e.g., AI speakers in Jigsaw groups, LLM writing partners) for obscuring asymmetries of responsibility, accountability, and ethical agency. Within a mediation framing, AI structures the conditions of collaboration rather than substituting for human interaction, preserving the dialogical and co-regulated nature of [[learning-theories|collaborative learning theory]] and the epistemic sovereignty of learners and teachers.
+
+## Ethical, Professional, and Design Implications
+
+The framework treats equity, transparency, teacher professional judgment, and data governance as central pedagogical concerns. It argues that AI-mediated collaboration risks algorithmic authority and technocratic governance when [[self-regulated-learning|shared regulation]] is reduced to dashboards, alerts, and nudges. Design should scaffold equitable participation, support co-regulation and metacognitive awareness, and remain interpretable, adjustable, and subordinate to teacher judgment. This aligns AI mediation with the pedagogical commitments of [[constructivist|constructivist]] and socio-cultural accounts rather than with a tool-centric [[pedagogical-agent|pedagogical agent]] logic.
+
+## Connected Concepts
+
+- [[collaborative-learning]]
+- [[human-ai-collaboration]]
+- [[agency]]
+- [[ai-education]]
+- [[learning-theories]]
+- [[constructivist]]
+- [[pedagogical-agent]]
+- [[self-regulated-learning]]
+
+## Connected Articles
+
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in human-AI co-regulation of learning
+- [[ai-agents-constructive-conflict-design-education-2026]] — AI agents in collaborative design education
+- [[human-ai-collaboration-prerequisite-functions]] — Prerequisite functions for effective human-AI collaboration
+- [[ai-collaborative-learning-systematic-review]] — Systematic review of AI-supported collaborative learning
+
+## Citation
+
+Niari, M. (2026). [*Beyond Automation: AI as a Pedagogical Mediator in Collaborative Learning*](https://doi.org/10.60923/issn.2532-8816/24266). *Umanistica Digitale*, (24).
+
+---
+
 ## [PersonaVLM: Long-Term Personalization for AI Tutors](https://edtechdev.github.io/aied/articles/nie-personavlm-long-term-personalization-2026/)
 
 > **PersonaVLM** introduces an agent framework for long-term personalization of multimodal LLMs, enabling AI tutors to remember, reason about, and align with a learner's evolving preferences across hundreds of interaction turns. Tested on 2,000+ curated cases across 200 personas in the Persona-MME benchmark, the framework outperforms GPT-4o by 5.2% in personalization accuracy while operating entirely without proprietary API dependencies — preserving user privacy.
@@ -22820,6 +23202,47 @@ OECD (2026). [*OECD Digital Education Outlook 2026: Exploring Effective Uses of 
 
 ---
 
+## [Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education](https://edtechdev.github.io/aied/articles/ojeda-ramirez-community-based-ai-learning/)
+
+**Santiago Ojeda-Ramirez, Symone Gyles & Kylie Peppler (2026)**
+
+> **Synthesis:** A perspective paper introducing community-based AI learning as a framework that repositions epistemic authority, grounding AI engagement in learners' lived and community-based epistemologies rather than treating AI systems as authoritative knowledge sources. Drawing on community-driven learning and constructionist traditions, the framework rests on three commitments—epistemic fine-tuning, redistribution of authority, and situated discernment—that together localize [[ai-literacy|critical AI literacy]] by calibrating trust, foregrounding community knowledge, and supporting collective judgment about when to design with, interrogate, or reject AI. The authors argue that equitable AI education requires negotiating authority through place, history, and social context.
+
+## Key Findings
+
+- Generative AI systems are frequently treated as authoritative knowers in classrooms: their confident, fluent outputs and widespread institutional adoption grant them "epistemic authority," yet this authority is not neutral but historically structured through power relations that marginalize community-based, Indigenous, and Global South epistemologies in favor of dominant Eurocentric formations.
+- Dominant AI-education paradigms design AI as instructional agents (tutors, co-learners), implicitly positioning AI systems as default reference points for what counts as correct, relevant, or complete knowledge—particularly where learners lack prior expertise.
+- Existing equity-oriented work (computational empowerment, critical AI literacy, youth AI auditing and design) redistributes technical agency but often stops short of centering learners' communities as primary epistemic resources for interpreting AI systems.
+- Community-based AI learning is defined as an approach to AI education in which learners engage with AI through issues, practices, and forms of knowledge grounded in their communities, treating local experience and lived realities as central resources for learning with and about AI.
+- The framework rests on three commitments: **epistemic fine-tuning** (learner-centered calibration of how AI outputs are interpreted and trusted, comparing them against lived experience, local histories, and community expertise); **redistribution of authority** (refusing AI as ultimate authority, positioning learners and communities as legitimate knowers, and cultivating technoskepticism); and **situated discernment** (collective examination of how AI infrastructures intersect with social worlds, with criticality shaped by place, geography, and local histories).
+- In practice, learners design something real for their community using AI as a design resource while community knowledge and community practitioners serve as the evaluative standard; the approach can function modularly alongside technical instruction.
+
+## Implications for AI in Education
+
+Community-based AI learning reframes the goal of AI education away from treating [[generative-ai|AI systems]] as credible, authoritative sources of explanation and toward what the authors call epistemic fine-tuning: a learner-centered recalibration of how AI outputs are interpreted, trusted, and used. Rather than assuming AI is a resource to be consulted, calibrated, or corrected, the framework positions learners and their communities as legitimate knowers whose situated local knowledge holds interpretive authority over AI outputs.
+
+This has concrete consequences for curriculum and pedagogy. For [[ai-education|educators]], the framework calls for structured opportunities for students to evaluate AI outputs against locally grounded criteria of relevance, harm, and usefulness—positioning AI as one interpretive resource within collective sense-making rather than abandoning technical rigor. For [[equity-in-ai-education|curriculum designers and policymakers]], it shifts [[ai-literacy|critical AI literacy]] from generalized awareness of sociopolitical issues toward situated engagement with AI's consequences for a specific community, including contexts where critical engagement may require limitation, refusal, or strategic non-use rather than building with AI.
+
+The framework's three commitments—epistemic fine-tuning, redistribution of authority, and situated discernment—connect AI learning to [[constructivist|constructionist]] traditions, in which learners externalize their understanding through the creation of shareable artifacts, and to community-driven learning that treats community knowledge as the evaluative standard. It grounds [[agency|learner agency]] in communities' collective judgment about the relationships they want to have with technology, rather than in individual mastery alone.
+
+## Connected Concepts
+- [[ai-literacy]]
+- [[constructivist]]
+- [[agency]]
+- [[human-ai-collaboration]]
+- [[ai-education]]
+- [[culturally-relevant-pedagogy]]
+
+## Connected Articles
+- [[reducing-ai-misuse]]
+- [[equity-in-ai-education]]
+
+## Citation
+
+Ojeda-Ramirez, S., Gyles, S., & Peppler, K. (2026). [*Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education*](https://doi.org/10.1145/3796496.3811760). Proceedings of the 2026 Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT 2026). ACM.
+
+---
+
 ## [Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Formative Assessment](https://edtechdev.github.io/aied/articles/pairr-ai-peer-review-2025/)
 
 > **Synthesis:** Sperber et al. (2025) present the Peer and AI Review + Reflection (PAIRR) model, a human-centered approach to formative assessment that combines peer review best practices with AI review while emphasizing student agency and reflection. In the largest study of college students' use of AI feedback to date (N = 654 across 10 writing courses and three writing-intensive STEM courses at UC Davis), they found that AI feedback is most useful when combined with peer review: the majority of students preferred combined feedback, found the similarity between AI and peer feedback reassuring, valued their complementary perspectives, and developed AI literacy by critically assessing AI outputs.
@@ -22870,6 +23293,72 @@ The study's focus was on student perceptions of AI feedback utility, so it did n
 ## Citation
 
 Sperber, L., MacArthur, M., Minnillo, S., Stillman, N., & Whithaus, C. (2025). [*Peer and AI review + reflection (PAIRR): A human-centered approach to formative assessment*](https://doi.org/10.1016/j.compcom.2025.102921).
+
+---
+
+## [Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning](https://edtechdev.github.io/aied/articles/panciroli-ai-literacy-episodes-situated-learning/)
+
+> **Synthesis:** Panciroli, Allegra, Gentile & Rivoltella propose a framework for curricular AI literacy integration built on the **Episode of Situated Learning (ESL)** instrument. ESL is an active teaching device organized around three verbs — *anticipate, produce, reflect* — that operates at both the micro level (lesson planning) and macro level (curriculum construction). The authors situate AI literacy within the broader landscape of new literacies (media, information, data, AI), draw on European AI competence frameworks (EU Digital Education Action Plan, de la Higuera's five pillars, DigComp 2.2), and distinguish direct didactics of AI (learning how AI works) from indirect teaching of AI (learning to collaborate with AI). Both levels fall under an educational mode of "explainability" centred on social interaction and school-community participation.
+
+# Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning
+
+## AI literacy within the new literacies landscape
+
+The paper situates AI education within the broader evolution of literacy concepts, following the New London Group's multiliteracy framework. It distinguishes at least four specific literacies with distinct competences: **media literacy** (comprehension of media messages), **information literacy** (finding, analysing, using, sharing information), **data literacy** (understanding the reality of data and developing reflexive, critical interaction with it), and **AI literacy** (knowing, understanding, using, applying, evaluating, and creating AI). AI literacy thus sits within a family of related, mutually-reinforcing [[ai-literacy|literacies]] rather than as a standalone skill.
+
+## European AI competence frameworks
+
+The proposal is anchored in existing European frameworks:
+- The **EU Digital Education Action Plan (2021-2027)** identifies digital skills for "literacy, including combating misinformation, teaching computer literacy, [and] knowledge of data-intensive technologies."
+- **de la Higuera's five pillars** for building an AI curriculum: (1) Data Awareness, (2) Uncertainty and Randomness, (3) Coding and Computational Thinking, (4) Critical Thinking, and (5) **Post-AI Humanism** — the idea that AI forces reconsideration of fundamental truths about the human being (Truth, Experience, Creativity, Intelligence).
+- **DigComp 2.2** (Italian Digital Agency, 2022), which addresses new and emerging AI technologies including personal data, interaction with AI systems, IoT, environmental sustainability, new forms of work, virtual/augmented reality, and robotisation.
+
+## Two levels of AI in education
+
+The paper distinguishes two ways AI enters teaching:
+- **Direct didactics of AI** — fostering knowledge of AI definitions, vocabulary, fields of application, and modes of operation; essentially building AI literacy so students use these technologies consciously (e.g., learning how machine learning works, how AI is trained, how data is used).
+- **Indirect teaching of AI** — leading students to recognize and use AI applications to solve a problem or achieve a goal, learning to collaborate with AI to improve the teaching/learning process.
+
+Both levels operate under the educational mode of **Explainability**, in which a teaching activity is designed within a soliciting educational environment centred on social interactions, initiating a process of "AI culture" in the school community.
+
+## The Episode of Situated Learning (ESL) instrument
+
+ESL is an active teaching instrument built on three verbs — **anticipate** (students elaborate initial pre-knowledge and form hypotheses), **produce**, and **reflect** — that functions at the micro level (lesson planning) and macro level (curriculum construction). The authors propose declining these two levels for developing an AI Education curriculum. ESL is circumscribed temporally and in content (its "episode" nature, consistent with microlearning logic), begins with a preparatory phase enabling cognitive anticipation, and supports autonomous questioning and hypothesis-formation.
+
+## Educational significance
+
+This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[instructional-design]] and [[k-12-ai-education|K-12 AI education]].
+
+## Key Findings
+
+- Proposes a curricular AI literacy framework built on the **Episode of Situated Learning (ESL)** instrument (anticipate, produce, reflect), usable at micro (lesson) and macro (curriculum) levels.
+- Situates AI literacy within the multiliteracy landscape: media, information, data, and AI literacy.
+- Grounds the framework in European AI competence frameworks (EU Digital Education Action Plan, de la Higuera's five pillars, DigComp 2.2).
+- Distinguishes **direct didactics of AI** (learning how AI works) from **indirect teaching of AI** (learning to collaborate with AI), both under an "explainability" mode.
+- Emphasizes the **Post-AI Humanism** pillar — AI prompting reconsideration of human truths (truth, experience, creativity, intelligence).
+- Argues for interdisciplinary bridging between technical and non-technical disciplines.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[situated-learning]]
+- [[experiential-learning]]
+- [[curriculum-design]]
+- [[instructional-design]]
+- [[k-12-ai-education]]
+- [[generative-ai]]
+- [[ai-education]]
+- [[critical-thinking]]
+- [[computational-thinking]]
+
+## Connected Articles
+
+- [[vargas-situated-learning-ai-review-2024]] — Systematic review linking situated learning and AI
+- [[panciroli-ai-literacy-episodes-situated-learning]] — (this paper)
+
+## Citation
+
+Panciroli, C., Allegra, M., Gentile, M., & Rivoltella, P. C. (2023). [*Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning*](https://doi.org/10.2760/115376). *CEUR Workshop Proceedings* (Ital-IA 2023). doi:10.2760/115376.
 
 ---
 
@@ -23582,6 +24071,98 @@ proposes a precision education framework that adapts precision medicine's predic
 ## Citation
 
 Dutta, Kaushik (2026). [From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways](https://arxiv.org/abs/2608.06322). arXiv:2608.06322.
+
+---
+
+## [How Human-Centered Is AI-Aided Learning in Education?](https://edtechdev.github.io/aied/articles/prezenski-human-centered-ai-aided-learning/)
+
+## Summary
+
+A **narrative literature review** by Sabine Prezenski (Institute for Innovation and Technology, Berlin) that asks how human-centered AI-aided learning actually is in education. It distinguishes **data-driven** from **rule-based** AI, reviews how AI fosters (or undermines) learning from cognitive and societal perspectives, and proposes steps to make AI a genuinely supportive tool rather than a hollowing force. The organizing device is the story of **"Maya,"** a student whose AI maths tutor boosts quiz scores but steadily erodes her independence, collaboration, empathy, and privacy — a cautionary frame for evaluating the whole field.
+
+## Data-driven vs. rule-based AI
+
+Prezenski separates two families of AI used in learning:
+
+- **Data-driven systems (LLMs):** ChatGPT and similar tools are general-purpose systems built on machine learning — supervised, unsupervised, reinforcement, and self-supervised learning — powered by **self-attention** and **massive scale**. Their strengths (adaptivity, feedback, scaffolding) come with three serious drawbacks: **bias**, **opacity**, and **hallucination**. These flaws arise from the same statistical paradigm that gives LLMs their power, so they resist easy fixing.
+- **Rule-based systems (intelligent tutoring systems):** Designed specifically for learning, these encode the domain as explicit if-then/production rules (e.g., telling a student solving `2x + 3 = 9` to "get rid of the +3 first"). **Cognitive-model tutors** (e.g., Anderson's Cognitive Tutor) embed a theory of human learning like ACT-R, estimate the learner's knowledge state, and deliver finely targeted feedback. By design they scaffold understanding better than opaque statistical models, but they are costly and time-consuming to build.
+
+## Blended AI: today's landscape
+
+Most current systems blend rule-based and machine-learning components:
+
+- **Adaptive learning engines:** ALEKS (50M+ students; Knowledge Space Theory + Bayesian inference + deep learning, ~9% topic-mastery gain; g≈0.30 historically), Squirrel AI (24M+ users), DreamBox Learning, and Khanmigo (GPT-4 Socratic tutor on a rule-based skill map, 12% accuracy improvement).
+- **Learning-analytics early warning systems** (Purdue Course Signals) merging thresholds with predictive modeling.
+- **Pronunciation/speech tutors** (Duolingo), **affective/multimodal tutors** (computer-vision emotion recognition), and **educational robots** with social personas.
+
+## The cognitive paradox of AI
+
+Prezenski identifies what she calls the **cognitive paradox**: AI can support mental-model building, self-reflection (metacognition), sustained attention, and frustration tolerance through timely feedback, tailored instruction, gamification, and fading scaffolds. But over-reliance produces the opposite:
+
+- **Rewards undermine intrinsic motivation** (Deci & Ryan; Duolingo-style points/streaks shift focus to game maintenance, reduce dopamine sensitivity).
+- **Hint-dependency and excessive scaffolding** promote task-completion over understanding, suppress independent monitoring, and leave learners overwhelmed when AI is absent.
+- **Hyper-engaging content** trains "attenuated attentional control," weakening the ability to sustain focus on books or lectures.
+- **Frictionless guidance** blocks "productive struggle" and real-world problem-solving resilience.
+
+The net effect: short-term efficiency and engagement gains risk subordinating critical thinking, social cognition, and ethical development — a risk of producing students ill-prepared for the messiness of real life.
+
+## Societal, equity, and privacy dimensions
+
+Learning is social and ethical, not purely cognitive. AI can both facilitate and disrupt collaboration: it can enable peer debate and detect group impasse, but heavy reliance on chatbots can "privatize" learning and erode empathy and perspective-taking. Ethically, Prezenski flags:
+
+- **Equity:** AI trained on datasets that underrepresent marginalized communities offers suboptimal adaptive pathways; e.g., speech models with ~2× higher word-error rates for African American speakers mislabel students (the "Toni" case in Maya's story).
+- **Privacy/surveillance:** granular data collection (clickstreams, facial expressions) makes learners feel "always watched," inhibiting the risk-taking that deep learning requires.
+- **Purpose:** AI optimized for "marketable skills" risks an overly technocratic education that treats students as data points, neglecting civic engagement, ethical reasoning, and creativity. Against this, Freire's vision of education empowering full human beings is invoked.
+
+## Human-Centered AI (HCAI)
+
+HCAI extends Human-Centered Design to AI. Shneiderman frames it as combining **high automation with high human control** ("augmentation over automation"); Stanford HAI embeds it in a socio-technical governance agenda; Schmager et al. define it as emphasizing **human agency**, aligning with **ethical principles**, and considering **context**. Prezenski argues that despite its rhetorical popularity, HCAI is **rarely implemented rigorously** in educational AI: UX is mistaken for human-centredness, participatory methods/value alignment/ethical reflection are often absent, educators are marginalized (Zawacki-Richter et al.), and stakeholders are consulted late if at all (Alfredo et al.).
+
+### Why HCAI is rare and how to advance it
+
+Reasons include the difficulty of sustained developer–educator collaboration, needs-first processes clashing with fixed-deliverable funding, a lack of hybrid expertise, and EdTech incentives favoring speed/scale/data. Proposals span **policy/funding** (open, public-interest AI), **research** (participatory methods, human-centered evaluation), **educators** (co-designers/evaluators with AI-literacy PD), **industry** (transparency, user control, open-source principles), **hybrid expertise** development, and **structural governance** (EC Expert Group on AI and Data in Education; NOLAI, the Dutch National Education Lab for AI).
+
+## Why this matters for the wiki
+
+- A bridge between **[[adaptive-learning]]/[[intelligent-tutoring]]** engineering and the **[[ethics]]/[[equity-in-ai-education]]** critique, all through a single [[cognitive-load-theory]] and [[over-reliance]] lens.
+- Central reference for Human-Centered AI work (see [[haiml-human-centered-ai-metacognitive-model-2026]]) and the "AI makes us stupid" cognitive-harm debate (cf. [[ai-making-us-stupid]], [[brcic-effortless-trap-productive-struggle-2026]]).
+- Frames the [[teacher-role]] and [[higher-ed]] implications of keeping humans in the loop ([[human-ai-collaboration]], [[ai-literacy]]).
+
+## Connected Concepts
+
+- [[adaptive-learning]]
+- [[intelligent-tutoring]]
+- [[ai-tutoring]]
+- [[cognitive-load-theory]]
+- [[ethics]]
+- [[equity-in-ai-education]]
+- [[teacher-role]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[over-reliance]]
+- [[personalized-learning]]
+- [[gamification]]
+- [[cognitive-offloading]]
+- [[learning-analytics]]
+- [[human-ai-collaboration]]
+- [[ai-literacy]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[generative-ai]]
+- [[llm]]
+- [[educational-robotics]]
+- [[knowledge-tracing]]
+
+## Connected Articles
+
+- [[haiml-human-centered-ai-metacognitive-model-2026]] — Human-Centered AI metacognitive model
+- [[ai-making-us-stupid]] — Is AI making us stupid?
+- [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle, AI, and the illusion of learning
+- [[genai-over-reliance-learning-2026]] — Generative AI over-reliance and learning
+
+## Citation
+
+Prezenski, S. (2026). [*How human-centered is AI-aided learning in education?*](https://doi.org/10.1007/978-3-032-26816-7_21). In K. Tödt et al. (eds.), *Digital Education and Innovation*. Springer (Open Access).
 
 ---
 
@@ -24334,6 +24915,43 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 ## Citation
 
 Cao, D., Yan, Y., Xiong, A., & Wicks, D. (2026). [*Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers*](https://doi.org/10.1016/j.caeai.2026.100630).
+
+---
+
+## [Situated AI ethics: a cultural-historical and ecological framework for education](https://edtechdev.github.io/aied/articles/raffaghelli-situated-ai-ethics-2026/)
+
+> **Synthesis:** Raffaghelli, Vartiainen, Bower, Ronci, Shelton, MacCallum, Lee, Webb, Chtouki & Smith (2026) propose a **situated AI ethics** framework for education that fuses Bronfenbrenner's ecological systems theory with Cultural-Historical Activity Theory (CHAT). Moving beyond universalist, principle-based ethics, they frame AI as a non-neutral socio-technical assemblage whose ethical implications are historically produced and locally negotiated. Applied as a critical-ecological activity model across five ecological levels (self, classroom/group, state/geopolitical, cultural norms, global), the framework is used to comparatively analyse seven national cases (Australia, Finland, England, France, Italy, New Zealand, South Korea). The analysis finds teachers are routinely positioned as moral gatekeepers of AI use while lacking structural, institutional, and epistemic support, and argues that ethical AI engagement requires context-sensitive, collective, and transformative agency that extends [[ai-education|AI literacy]] beyond technical skills toward critical, political, and ecological forms of action.
+
+## Key Findings
+
+- **Situated AI ethics as a critical-ecological framework.** The paper proposes a 'situated AI ethics' framework grounding ethical decision-making in both [[learning-theories|ecological systems theory]] (Bronfenbrenner's micro, meso, exo, macro, chrono systems) and Cultural-Historical Activity Theory (CHAT), which foregrounds contradictions, power relations, and transformative agency. AI is treated as a non-neutral socio-technical assemblage whose ethical implications are historically produced and locally negotiated, rather than captured by abstract or universal principles.
+
+- **Ethical decision-making across five ecological levels.** The critical-ecological activity model maps AI ethics onto self, classroom/group, state/geopolitical, cultural norms, and global levels. Ethical action emerges as a negotiated, context-dependent process shaped by intersecting systems—not an isolated individual choice, and not a matter of compliance with checklists.
+
+- **Teachers as moral gatekeepers without structural support.** Across all seven national contexts, teachers are frequently positioned as moral gatekeepers of AI use while lacking adequate structural, institutional, and epistemic support to exercise ethical agency. The analysis surfaces recurring tensions: uneven teacher autonomy, regulatory overload, fragmented policy guidance, cultural anxieties about automation, and global pressures around competitiveness, labour markets, and platform dependence.
+
+- **Transnational comparative analysis.** The framework is applied to a comparative analysis of seven national cases (Australia, Finland, England, France, Italy, New Zealand, South Korea), derived from expert grey-literature analysis within the [[teacher-ai-competency|EDUsummIT Sessions (TWG5)]]. This mapping shows how situated ethical practices diverge across cultures, regulatory environments, institutional conditions, and global pressures.
+
+- **From AI literacy to critical, political, ecological agency.** The paper argues that ethical engagement with AI requires context-sensitive, collective, and transformative approaches that extend [[ai-education|AI literacy]] beyond technical skills toward critical, political, and ecological forms of agency—including resistance, contestation, and the co-creation of more just digital futures.
+
+- **Critique of techno-solutionism and compliance-based ethics.** The authors reject ethics as checklists, 'ethical washing,' or compliance, and critique techno-solutionist and neoliberal framings of AI in education. They foreground global dimensions such as environmental costs, labour exploitation, surveillance capitalism, and the marginalisation of Global South knowledge.
+
+## Educational Significance
+
+The situated AI ethics framework offers a way to move AI ethics in education beyond abstract principle lists toward contextually grounded practice. It directly engages debates on [[teacher-ai-competency]] and [[ai-education]], providing conceptual tools for teacher professional development and policy. By foregrounding [[ethics]] as a negotiated, ecological and socio-historically produced phenomenon, the framework supports equitable and culturally responsive approaches to AI integration across [[higher-ed]] and K-12 settings, linking to [[learning-theories]] and [[equity-in-ai-education]].
+
+## Connected Concepts
+
+- [[ethics]]
+- [[ai-education]]
+- [[teacher-ai-competency]]
+- [[learning-theories]]
+- [[higher-ed]]
+- [[equity-in-ai-education]]
+
+## Citation
+
+Raffaghelli, J. E., Vartiainen, H., Bower, M., Ronci, M., Shelton, C., MacCallum, K., Lee, J., Webb, M., Chtouki, Y., & Smith, D. (2026). [*Situated AI ethics: a cultural-historical and ecological framework for education*](https://doi.org/10.1016/j.caeo.2026.100368). *Computers and Education Open*, 11, 100368. doi:10.1016/j.caeo.2026.100368.
 
 ---
 
@@ -29743,6 +30361,93 @@ Yuan, Z., Xiao, Y., Li, M., Xuan, W., Tong, R., Diab, M., & Mitchell, T. (2026).
 
 ---
 
+## [Connecting Education with Reality: AI as a Catalyst for Situated Learning](https://edtechdev.github.io/aied/articles/vargas-ai-catalyst-situated-learning-2026/)
+
+> Vargas, Chiappe & Fontán de Bedout (2026) argue that AI can act as a **catalyst for situated learning** by connecting education to authentic, real-world contexts. Drawing on Lave & Wenger's (1991) communities of practice and Dewey's (1926) "learning by doing," the essay positions AI — through personalization, data analytics, and realistic simulation environments — as the mechanism to overcome the curricular rigidity, resource scarcity, and lack of immersive tools that block situated learning in "Education 4.0." The teacher's role is reframed from information transmitter to facilitator, and AI is framed as a complement to, not a substitute for, human interaction, with explicit cautions about over-reliance, equity, and data ethics.
+
+## Key Findings
+
+- **Central claim:** AI is the appropriate mechanism to overcome the structural barriers — curricular rigidity, limited resources, lack of immersive-environment tools — preventing effective implementation of [[experiential-learning|situated learning]] within an "Education 4.0" that personalizes learning and aligns it with real-world work and life.
+- **Teacher-role shift:** AI redefines teachers from transmitters of information to [[teacher-role|facilitators of situated learning]], who use AI analytics and dashboards to design context-specific, responsive activities; teachers play the critical interpretive role linking assessment insights to practical application.
+- **Personalization & authentic contexts:** AI's ability to analyze learner data and simulate real-world scenarios (Duolingo/Rosetta Stone language role-plays, Microsoft HoloLens AR, Osso VR surgical training, Siemens Simcenter industrial simulators) supports personalization and situated decision-making — and positions "authentic" as compatible with "digital."
+- **Authentic assessment:** AI enables continuous, integrated [[authentic-assessment|competency-based assessment]] woven into the learning process rather than external audits of knowledge, moving beyond memorization-focused standardized tests.
+- **Cautionary limits:** The essay flags risks of over-reliance on simulations (eroding skills for performing under real pressure), technological dependency and cost in resource-limited settings, data privacy/security, algorithmic bias, educator resistance, and the need for equitable access — framing AI as a complement, not a substitute, for human interaction.
+
+## Connected Concepts
+
+- [[experiential-learning]]
+- [[embodied-learning]]
+- [[constructivist]]
+- [[ai-education]]
+- [[instructional-design]]
+- [[teacher-role]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
+- [[embodied-inquiry-ai-facilitator-physics-2026]] — Embodied Inquiry with an AI Facilitator in Physics Education
+- [[metacognitive-awareness-experiential-vs-instructional]] — Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness
+- [[genai-ar-physics-simulation-prompt-2026]] — GenAI-Powered AR Physics Simulations
+- [[benzion-ai-physics-simulations-virtual-lab]] — AI Simulations and Virtual Labs in Physics
+
+## Citation
+
+Vargas, E. G., Chiappe, A., & Fontán de Bedout, L. (2026). [Connecting Education with Reality: AI as a Catalyst for Situated Learning](https://doi.org/10.1080/00131725.2025.2596001). The Educational Forum, 90(2), 237–247.
+
+---
+
+## [Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature](https://edtechdev.github.io/aied/articles/vargas-situated-learning-ai-review-2024/)
+
+> **Synthesis** — Vargas, Chiappe & Durand (2024) conduct a PRISMA systematic review of 60 peer-reviewed articles spanning three decades to map how [[situated-learning]] has evolved and how AI can reshape education around it. Situated learning — learning through authentic, real-world contexts, communities of practice, legitimate peripheral participation, and contextual knowledge — confronts the traditional school's vertical, one-way passive instruction, its fixation on predefined outcomes, and teachers' limited contextual knowledge. The authors argue AI offers concrete solutions: adaptive systems tuned to learners' evolving needs, intelligent tutoring embedded in authentic scenarios, automation of administrative tasks, and data-driven teacher support. Framed through [[instructional-design|Education 4.0]], AI and situated learning are cast as complementary — AI providing adaptive scaffolding and analytics to scale situated learning's benefits while situated learning grounds AI-driven education in real-world practice and complexity. Human guidance remains essential for ethical grounding.
+
+# Reshaping Education in the Era of Artificial Intelligence: Insights from Situated Learning Related Literature
+
+Vargas, Chiappe & Durand (2024) offer a systematic synthesis of how situated learning — a theory rooted in the early 1990s work of Lave and Wenger — can be reinvigorated by artificial intelligence. Using the PRISMA method, the review analyzed 60 peer-reviewed journal articles from Scopus over three decades (1990s to 2022), extracting and analyzing the concepts associated with situated learning both qualitatively and quantitatively. The paper positions this conversation within [[instructional-design|Education 4.0]], the educational face of the fourth industrial revolution in which IoT, robotics, immersive environments, and especially AI reconfigure the learning experience.
+
+## Key Findings
+
+- **Situated learning is a dynamic, evolving concept** organized around the durable core idea of "learning in context," with emphasis shifting across eras: workplace learning in the 1990s, ICT-mediated [[collaborative-learning|communities of practice]] in the 2000s, mobile and gaming immersion in the 2010s, and Education 4.0 technologies (augmented reality, immersive environments, AI, IoT, educational robotics) in 2020–2023.
+- **Three obstacles block situated learning.** (1) The traditional school system is hegemonic, centralizing knowledge and relying on vertical, one-way passive transmission with little connection to real contexts. (2) The predominant educational approach fixates on predefined outcomes, competencies, and content, excluding learners' and teachers' knowledge, interests, and needs. (3) Teachers often lack contextual knowledge and sensitivity to the cultural diversity and everyday realities of their students.
+- **Six challenges to implementation:** linking art and creativity into teaching; shaping critical, context-aware individuals with ethical capacity; recognizing students and teachers as active agents; understanding situated learning beyond mere practice; rethinking linear, static teaching toward dynamic horizontal models; and treating context as a facilitator of expression.
+- **AI offers concrete solutions** to these obstacles: [[adaptive-learning|adaptive systems]] tailored to students' evolving needs, [[ai-tutoring|intelligent tutoring]] situated in authentic scenarios, automation of administrative tasks, and data-driven [[teacher-role|teacher support]].
+- **AI enables personalization and student agency**, letting learners co-direct their pathways in collaboration with intelligent agents — a shift away from the industrial, mass-production model of schooling.
+- **Human guidance remains essential**: instructors must instill ethical reasoning to question AI biases, so that AI augments rather than replaces the human, ethical dimension of education.
+- **AI and situated learning are complementary.** AI provides adaptive scaffolding and analytics to scale situated learning's advantages; situated learning grounds AI-driven education in real-world practices and complexity — together demanding a reinvention of learning ecosystems.
+
+## Educational Significance
+
+The review is significant because it bridges a classical learning theory and contemporary AI research, showing how an [[constructivist|constructivist]], context-anchored view of learning can steer AI deployment rather than merely reacting to it. For educators, it reframes the [[teacher-role]] as designer of flexible, context-connected learning spaces supported — not supplanted — by AI. For instructional designers and policymakers, it argues that effective [[adaptive-learning]] and [[personalized-learning]] depend on grounding AI in authentic contexts and communities of practice, and that scaling such experiences via AI can make engaged, situated learning accessible to far more students. Its insistence on human ethical guidance connects directly to ongoing debates about [[ai-education]] and the responsible integration of AI in [[higher-ed]] and schooling.
+
+## Connected Concepts
+
+- [[situated-learning]]
+- [[learning-theories]]
+- [[constructivist]]
+- [[experiential-learning]]
+- [[embodied-learning]]
+- [[collaborative-learning]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[teacher-role]]
+- [[instructional-design]]
+- [[ai-education]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[learning-theories]] — umbrella concept; situated learning is documented as one of its activity-and-context learning theories
+- [[genai-educational-outcomes-meta-analysis]] — broader synthesis of AI's effects on learning outcomes
+- [[ai-vocational-education-training-review]] — documents the constructivism/behaviorism gap in AI for education, complementing this review's constructivist framing
+- [[self-directed-growth-generative-ai-learning-analytics]] — related framing of AI as a scaffold for self-directed, context-aware learning
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — the role of human guidance and critical engagement with AI
+
+## Citation
+
+Vargas, E. G., Chiappe, A., & Durand, J. (2024). [*Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature*](https://doi.org/10.58863/20.500.12424/4293074). *Journal of Social Studies Education Research*, 15(2), 1–28.
+
+---
+
 ## [VeriForge: Mitigating Latent Knowledge Gaps in Narrative Drafting via Mixed-Initiative Scaffolding](https://edtechdev.github.io/aied/articles/veriforge-narrative-drafting-scaffolding-2026/)
 
 > **Synthesis:** Sun et al. (2026) present VeriForge, a mixed-initiative [[generative-ai]] writing system that assumes initiative over domain discovery while the author retains initiative over narrative synthesis, using proactive highlighting, dual-stream querying with source-anchored Knowledge Cards, and a spatial Knowledge Canvas to surface latent knowledge gaps without homogenizing voice.
@@ -29918,6 +30623,52 @@ Mizoguchi, Riichiro et al. (2026). [Vibe Compiler: A Research-Logic Synthesis To
 
 ---
 
+## [\"If You Can't Dance Your Program, You Can't Write It\": Challenges and Implications for AI in Education](https://edtechdev.github.io/aied/articles/videla-embodied-ai-education-choreography/)
+
+> **Synthesis:** Videla, Penny, and Ross (2026) offer a critical theoretical analysis of the body's role in AI within education, challenging the dominance of symbolic and disembodied AI models based on abstract information processing. Arguing from post-cognitivist (4E/SEEED) frameworks, they advocate a paradigm shift toward **embodied AI** grounded in situationality, emergence, and sensorimotor coupling, and diagnose GenAI's cognitive and experiential limits — loss of proprioception and multimodal agency, and the devaluation of embodied making practices. The paper proposes redefining Human–Computer Interaction as a perceptual–affective choreography and closes with seven embodied design principles aimed at a more inclusive, emancipatory, critical, and situated learning. It connects to [[embodied-learning]], [[critical-thinking]], [[human-ai-collaboration]], and [[learning-theories]].
+
+## The Ontological Divide Between Embodied and Representational Cognition
+
+The paper's central claim is that human pedagogy is rooted in shared, embodied experience — a "performative idiom" — that is fundamentally at odds with the "representational idiom" of digital computing and AI, which presumes a separation between materiality and information. The authors argue there is an ontological divide between embodied, enactive, situated, materially engaged cognition and cognitivist/computationalist conceptions that treat knowledge as symbolic manipulation. This divide has direct bearing on how AI should be deployed pedagogically. Drawing on [[learning-theories]] and post-cognitivist frameworks (embodied, enactive, embedded, extended "4E" and "SEEED" cognition), they contend that knowledge arises from body–environment interaction rather than from an objective model separated from the agent — a position that directly challenges conventional computing education still rooted in symbolic manipulation.
+
+## Why GenAI Is Fundamentally Disembodied
+
+AI lacks a body and material form, accessing only pre-processed symbolic content. Because the most common form is language-based, it privileges semantically expressible knowledge and erases the tacit, embodied knowing an engaged classroom promotes. The authors answer "provisionally in the negative" whether AI can demonstrate experiential knowledge, likening LLMs to "stochastic parrots" that correlate data without understanding meaning. They trace this to AI's symbolic origins at the 1956 Dartmouth Conference and the Von Neumann model, contrasting it with Brooks's behavior-based robotics ("the world is its own best model"). GenAI's passive statistical training produces hallucinations because it lacks real-world validation and the opportunities for action that active agents possess — a limitation of [[generative-ai]] with direct consequences for [[ai-education]].
+
+## Sensorimotor Debilities and the Redefinition of HCI
+
+Drawing on Penny's concept of "sensorimotor debilities in digital cultures," the authors argue that GenAI reflects a profound disconnection from embodied experience: loss of multimodal agency, weakened proprioception, kinesthetic awareness, and tactile engagement, and the devaluation of craft and do-it-yourself making. They propose redefining Human–Computer Interaction so the body is not a peripheral interface but the constitutive core of thought. Engaging Seberger's critique of the "unmarked human" and "infrastructure with fangs," they argue for a **perceptual–affective choreography** in which interaction is lived, embodied, and negotiated in real time — a move toward emancipation rather than normalization and exclusion, with strong implications for [[critical-thinking]] and [[higher-ed]] pedagogy.
+
+## Creativity, Cognitive Debt, and the Risks of Banking Pedagogy
+
+The paper critiques GenAI's flattening of creativity: AI samples cases within a genre to generate variations ("combinatorial creativity"), whereas substantive creativity challenges the domain's definition, and heavy LLM use tends to produce "regression to the mean" and "accumulation of cognitive debt" that weakens critical thinking and epistemic ownership — echoing [[cognitive-offloading]] and [[creativity]] research. It warns that transmissive, Freirean "banking" pedagogy, reinforced by algorithmic models acting as omniscient oracles, produces control, homogenization, and dependency, and can culminate in "epistemicide" that devalues embodied and ancestral knowledge. These risks are particularly salient for [[human-ai-collaboration]] design in education.
+
+## Embodied Design Principles
+
+The paper proposes two foundational dimensions — rethinking pedagogical design toward open, dynamic, embodied approaches where AI is a co-creation agent, and building complex digital ecosystems integrating sensors, robotics, and extended reality — operationalized through seven design principles: (i) decenter LLMs as epistemic centers; (ii) use situationality to generate meaningful connections; (iii) support distributed creativity and co-agency; (iv) embrace uncertainty, failure, and improvisation; (v) cultivate critical awareness of bias and algorithmic performativity; (vi) integrate embodied sensorimotor multimodality; and (vii) pursue ecological design for open pedagogical innovation. These are grounded in Design-Based Research and aim to make AI a means for agency, creativity, and situated understanding rather than an end in itself.
+
+## Connected Concepts
+
+- [[embodied-learning]]
+- [[critical-thinking]]
+- [[human-ai-collaboration]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[learning-theories]]
+
+## Connected Articles
+
+- [[ensemble-cognition-philosophy-ai-education]] — Towards a philosophy of ensemble cognition
+- [[embodied-inquiry-ai-facilitator-physics-2026]] — Embodied Inquiry with AI as Facilitator
+- [[cognitive-commons-ai-expertise-regeneration]] — The Tragedy of the Cognitive Commons
+- [[ai-making-us-stupid]] — Is AI making us stupid?
+
+## Citation
+
+Videla, R., Penny, S., & Ross, W. (2026). [*"If You Can't Dance Your Program, You Can't Write It": Challenges and Implications for AI in Education*](https://doi.org/10.1145/3759257). ACM Transactions on Computing Education, 26(3), Article 43.
+
+---
+
 ## [VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring](https://edtechdev.github.io/aied/articles/vismatic-secure-sandbox-cs-education/)
 
 Addresses a critical tension in [[stem-education|CS education]]: the widespread adoption of generative AI makes it impossible to distinguish authentic student effort from AI code synthesis by evaluating final submissions alone. The paper presents **VISMATIC**, a rootless containerized framework that pairs robust environment isolation with explicit user-interaction tracking at the API level.
@@ -30077,6 +30828,47 @@ Nearly all prior research on LLMs in computing education has used text input, ye
 ## Citation
 
 Riegel, K., Hua, Y. C., Denny, P., Pădurean, V.-A., & Leinonen, J. (2026). [Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education](https://arxiv.org/abs/2607.05808). arXiv:2607.05808.
+
+---
+
+## [AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education](https://edtechdev.github.io/aied/articles/voicu-ai-interpretive-cognition-ssh-2026/)
+
+> **Synthesis:** Voicu (2026) conceptualizes generative AI not as a neutral tool but as an *epistemic mediator* that fundamentally restructures interpretive cognition in Social Sciences and Humanities (SSH) education. Using a qualitative, conceptually driven design — systematic interdisciplinary synthesis combined with structured classroom observation of 42 interactional episodes across six sessions with 27 lower-secondary students — the paper identifies three macro-transformations (externalization of interpretive cognition, hybridization of authorship, and emergence of distributed epistemic agency) and maps them onto three developmental trajectories of AI-mediated interpretation (AI-dependent, AI-enhanced, AI-critical). In response it proposes a six-checkpoint developmental-critical pedagogical model scaffolding critical AI literacy, epistemic responsibility, and interpretive autonomy, arguing that AI integration must preserve rather than erode the dialogic, situated nature of humanistic meaning-making.
+
+## Key Findings
+
+**Conceptual frame.** Moving beyond instrumental views, the paper treats generative AI as an epistemic technology (Floridi) that produces decontextualized yet rhetorically coherent interpretations, simulating understanding without lived, historically grounded horizons. This creates a tension between interpretation as lived understanding and interpretation as computational simulation, particularly acute in SSH disciplines where meaning-making depends on sustained engagement with ambiguity, context, and dialogic reasoning.
+
+**Design.** A qualitative, conceptually driven study grounded in a post-phenomenological orientation combined a systematic interdisciplinary synthesis (cognitive science, AI ethics, digital pedagogy, philosophy of interpretation, developmental psychology) with structured classroom observation at a Romanian lower-secondary school (27 students aged 13–15, six weekly instructional sessions). Analysis was abductive, coding each of the 42 interactional episodes on type of AI involvement, degree of cognitive delegation, and learner epistemic positioning.
+
+**Three transformations.** (1) *Externalization of interpretive cognition* — learners delegate thematic identification, contextual explanation, and comparative analysis to AI, increasing efficiency but reducing engagement with ambiguity and productive struggle (risks of shallow learning, cognitive offloading, and interpretive atrophy). (2) *Hybridization of authorship* — student writing blends human and AI-generated content, often normalizing statistically dominant rhetorical structures, reducing originality and individual voice, and risking uncritical incorporation of fabricated references. (3) *Distributed epistemic agency* — knowledge production extends across human and algorithmic systems; learners often attribute authority to AI output ("the AI says"), shifting responsibility for evaluation and risking epistemic outsourcing.
+
+**Three developmental trajectories.** From the 42 episodes, 15 (35.71%) were classified AI-dependent (direct uptake, minimal elaboration or verification), 16 (38.10%) AI-enhanced (selective adaptation, reformulation, contextual integration), and 11 (26.19%) AI-critical (triangulation, questioning, contextual reframing, dialogic use). Fully critical engagement remains the least frequent pattern, indicating a transitional ecology where assisted interpretation dominates but epistemic autonomy is uneven.
+
+**Pedagogical model.** The developmental-critical model operationalizes progression toward interpretive autonomy through six checkpoints: interpretive grounding, contextual anchoring of AI outputs, critical examination of algorithmic structures, hybrid-authorship transparency, reflexive epistemic positioning, and dialogic engagement under human control. Each checkpoint addresses an observed risk (interpretive shortcutting, epistemic outsourcing, loss of authorial voice) and is grounded in cognitive-developmental theory, hermeneutics, and critical pedagogy.
+
+**Implications.** Interpretation in SSH should be scaffolded by direct engagement with primary sources before AI use; writing should be reconceptualized as developmental rather than product-oriented; and critical AI literacy (technical, epistemic, ethical) should be integrated across curricula with attention to teacher preparedness. The model advances an analytically generalizable, empirically grounded framework for AI integration that does not compromise interpretive depth.
+
+## Connected Concepts
+
+- [[ai-education]]
+- [[critical-thinking]]
+- [[metacognition]]
+- [[agency]]
+- [[ai-literacy]]
+- [[higher-ed]]
+- [[learning-theories]]
+
+## Connected Articles
+
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Distributed epistemic co-agency between learners and AI
+- [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing epistemic AI literacy through student–AI co-programming
+- [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond a skills gap framing
+- [[vibe-compiler-metacognition-genai-agency-2026]] — Metacognition and agency with generative AI
+
+## Citation
+
+Voicu, C.-G. (2026). [*AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education*](https://doi.org/10.61071/JDP.2665). *Journal of Digital Pedagogy*, 5(1), 37–51. https://doi.org/10.61071/JDP.2665
 
 ---
 
@@ -30826,6 +31618,54 @@ Zhao, R., Bobrov, A., Li, J., Aloisi, C., & He, Y. (2025). [LearnLens: LLM-Enabl
 
 ---
 
+## [Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era](https://edtechdev.github.io/aied/articles/zhu-e3-hot-embodied-intelligence-sustainable-learning/)
+
+# Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era
+
+> **Synthesis:** Zhu et al. (2026) address the risk that AI-assisted learning fosters cognitive outsourcing and learning detached from authentic contexts by proposing E3-HOT, a conceptual framework that leverages [[embodied-learning|embodied intelligence]] to sustain learners' cognitive agency and higher-order thinking for sustainable learning, aligned with SDG 4. Three embodied pathways — situational embedding, embodied participation, and cognitive creation — map onto the higher-order targets of Analyze, Evaluate, and Create and are translated into a three-module E3 core (virtual–real integrated environment, embodied interaction, intelligent core) with bounded, teacher-governed AI support. Positioned as a design-and-evidence blueprint rather than an empirical study, it specifies multi-fidelity enactment options and auditable evidence artifacts for future validation.
+
+## Key Findings
+
+- **E3-HOT is a design-and-evidence blueprint, not an intervention report.** Built through iterative conceptual synthesis (design-oriented scoping on titles, abstracts, and keywords), it frames two design questions (DQ1, DQ2) and specifies what should be observed and collected in future validation work, without claiming measured learning gains.
+- **Sustainability is the long-term maintainability of learners' cognitive agency under AI-intensive conditions**, anchored to SDG 4. It additionally requires inclusive participation across diverse learner needs, feasibility through multi-fidelity enactment, and responsible evidence governance so multimodal data collection stays bounded by pedagogical purpose rather than drifting toward surveillance.
+- **Three embodied pathways map to Analyze, Evaluate, and Create** (revised Bloom's taxonomy, cognitive-process dimension): situational embedding → analytical thinking via concrete or simulated scenarios; embodied participation → evaluative thinking through bodily engagement and evidence-based judgment under explicit criteria; cognitive creation → creative thinking via AI-extended, human-determined co-creation.
+- **A three-module E3 core realizes the pathways:** the Virtual–Real Integrated Environment supplies context; the Embodied Interaction module captures posture, motion, speech, and affective data; and the Intelligent Core acts as a Socratic guide (learner modeling/cognitive diagnosis, generative intelligence, intelligent tutoring/feedback, coordination and regulation) rather than a direct answer provider. A Profile/Learn orchestration layer parameterizes task requirements, constraints, and activity templates.
+- **AI support is bounded and teacher-governed.** The intelligent core is constrained to prompts, critique, and strategy suggestions; students must articulate rationales and cite evidence before claims are accepted; system recommendations require teacher confirmation; and the system does not generate a final deliverable for direct submission.
+- **Multi-fidelity enactment and auditable evidence support equitable adoption.** A substitution map preserves mechanism–objective alignment and evidence cues from high-tech (VR, wearables, motion capture, embedded LLM coach) to low-tech options (scenario scripts with props, structured observation checklists, teacher-approved prompt cards). Evidence artifacts (Context Structure Map, Assumptions & Source Log, Criteria–Evidence Matrix, Embodied Trial Observation Sheet, Peer Critique Record, Iteration & Change Log, AI Assistance Disclosure Log, Teacher Gatekeeping Record) specify mandatory fields and rubric stubs for expert audit.
+- **An illustrative four-week university "human–AI co-creation design project" vignette** walks through framing/exploration, synthesis/selection, prototyping/testing, and articulation/reflection, activating 12 facets across cognitive, conative, affective, sensorimotor, and knowledge dimensions — presented as a worked example, not an implemented study.
+- **Theory grounding** draws on embodied intelligence and 4E cognition (embodied, embedded, enacted, extended), [[constructivist]] learning theory, situated learning theory, and [[self-regulated-learning]]/[[metacognition|metacognitive]] development, reframing sustainable learning as a shift from answer production to capacity preservation and growth.
+
+## Implications
+
+- **Pedagogy:** Sustainable learning requires activities in which students repeatedly engage in context-grounded analysis, evidence-based evaluation, and iterative creation, rather than using generative tools as shortcuts to finished outputs. The aim is to ensure [[cognitive-offloading]] does not accumulate and erode learner agency.
+- **Design and governance:** Because embodied systems rely on noisy multimodal data, evidence collection must be bounded by pedagogical purpose, with teacher-configured logging and a clear separation between improvement-oriented evidence and data that could be repurposed for non-educational control. Human oversight is part of instructional design, not post hoc compliance.
+- **Equity and scale:** Multi-fidelity enactment is a sustainability constraint, not an option, because immersive infrastructure is uneven. Integration should occur within existing curricula rather than as added modules, and institutional support plus long-term planning are needed to avoid pilot-only demonstrations.
+- **Limitations:** No comparative empirical research across disciplines/classrooms has been conducted; the scoping review was titles/abstracts/keywords only, so the framework is a structured, auditable design baseline rather than an exhaustive synthesis. Future work plans staged validation via design-based studies, quasi-experimental comparisons, and rubric-based expert audits of artifacts.
+
+## Connected Concepts
+
+- [[embodied-learning]]
+- [[experiential-learning]]
+- [[constructivist]]
+- [[critical-thinking]]
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[learning-theories]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[ensemble-cognition-philosophy-ai-education]] — Reconceptualising agency and mind in AI-mediated educational environments
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools, cognitive offloading, and the future of critical thinking
+- [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education
+- [[white-wu-robotics-ai-education-2026]] — Robotics/embodied intelligence in AI education
+
+## Citation
+
+Zhu, H., Jiang, X., Zhang, X., Xu, H., Su, D., Chen, Z., & Zhu, X. (2026). [*Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era*](https://doi.org/10.3390/su18073469). *Sustainability*, 18(7), 3469.
+
+---
+
 # Concepts
 
 ## [Academic Integrity](https://edtechdev.github.io/aied/concepts/academic-integrity/)
@@ -30907,6 +31747,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[pchl-he-framework-genai-content-creation-2026]] — PCHL Framework for GenAI Content Creation
 - [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: Systematic Review
 - [[competency-based-education-genai-production-2026]] — Competency-Based Education and GenAI Production
+- [[avraamidou-ai-colonization-science-education]]
 
 ---
 
@@ -31044,6 +31885,9 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[adaptive-pretesting-retention]]
 - [[adapt-adaptive-lesson-plan-transformer]]
 - [[zerkouk-comprehensive-review-its-2025]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]
 
 ---
 
@@ -31256,11 +32100,18 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[cognitive-offloading]] — Cognitive Offloading in Student–AI Collaboration
 ## Connected Articles
 
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
 - [[andragogy-cognitive-delegation-genai-2026]]
+- [[self-directed-growth-generative-ai-learning-analytics]]
+- [[ensemble-cognition-philosophy-ai-education]]
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[li-mroziak-reorienting-critical-ai-literacy]]
 
 ---
 
@@ -31426,6 +32277,7 @@ AI-ed evaluation sits at the center of the wiki's methods and risks. It operatio
 - [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
 - [[elbench-education-llm-benchmark-2026]]
 - [[teaching-monster-pck-benchmark-2026]]
+- [[genai-educational-outcomes-meta-analysis]]
 
 ---
 
@@ -31448,10 +32300,10 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
-- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[gamification|gamification]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[cognitive-load-theory|cognitive load theory]], [[dual-process-theory|dual-process theory]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], and [[embodied-learning|embodied learning]].
+- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[gamification|gamification]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[cognitive-load-theory|cognitive load theory]], [[dual-process-theory|dual-process theory]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
 - **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[engagement-metrics|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[over-reliance|over-reliance]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
-- **Subject areas:** AI is applied across disciplines, including [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], and [[k-12-ai-education|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
+- **Subject areas:** AI is applied across disciplines, including [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12-ai-education|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
 
 ## Assessment, evaluation, and measurement
 
@@ -31469,13 +32321,13 @@ AI in education changes the roles of every stakeholder:
 - **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking|help-seeking]], and [[well-being|well-being]] shape how students encounter AI.
 - **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
 - **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[ai-governance-education|governance education]], [[governance|AI governance]], [[regulation|AI regulation]], [[privacy|privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], and [[lifelong-learning|professional and lifelong learning]] cover the institutional and societal layer.
-- **Equity and ethics:** [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics|ethics]], and [[trust-calibration|trust calibration]] address fairness, access, and responsibility.
+- **Equity and ethics:** [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics|ethics]], [[trust-calibration|trust calibration]], and [[critical-pedagogy|critical pedagogy]] address fairness, access, and responsibility.
 
 ## Emergent and cross-cutting themes
 
 Several themes cut across the field:
 
-- **Trust and critical use:** [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[critical-thinking|critical thinking]], [[over-reliance|over-reliance]], [[cognitive-offloading|cognitive offloading]], and [[reducing-ai-misuse|reducing AI misuse]].
+- **Trust and critical use:** [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[critical-thinking|critical thinking]], [[over-reliance|over-reliance]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]].
 - **The evolution of the field:** the wiki traces AI in education from early [[intelligent-tutoring|intelligent tutoring systems]] and [[knowledge-tracing|knowledge tracing]] to LLM-driven [[ai-tutoring|tutoring]], [[pedagogical-agent|agents]], and [[agentic-ai|agentic AI]] — a rapid shift from tool-centric studies to sociotechnical frameworks ([[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[institutional-change-framework-ai|institutional change]]).
 
 ## Field maturity
@@ -31515,9 +32367,17 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[educational-policy-ai]]
 - [[educational-robotics]]
 - [[social-robots]]
+- [[distributed-cognition]]
+- [[situated-learning]]
+- [[critical-pedagogy]]
+- [[philosophy-of-ai-in-education]]
+- [[medical-education]]
+- [[humanities-education]]
 
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[raza-farooq-aied-review-2020-2025]] — A comprehensive review of AIED research
 - [[liang-genai-systematic-review-human-ai-2026]] — GenAI in education: systematic review
 - [[brookings-ai-students-report]] — AI and the future of students
@@ -31527,6 +32387,17 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitive discord in GenAI completion
 - [[ai-interior-design-malaysia-2026]] — AI in design education
 - [[academic-league-of-ai-2026]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[raffaghelli-situated-ai-ethics-2026]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[avraamidou-ai-colonization-science-education]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[li-mroziak-reorienting-critical-ai-literacy]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[videla-embodied-ai-education-choreography]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 ---
 
@@ -31600,6 +32471,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[ai-assistance-discretionary-feedback]] — AI Assistance for Discretionary Feedback
 - [[ai-peer-feedback-systems]] — AI Peer Feedback Systems
 - [[sequenced-ai-feedback-learning]] — Sequenced AI Feedback and Learning
+- [[genai-educational-outcomes-meta-analysis]]
 
 ---
 
@@ -31669,6 +32541,17 @@ Research points to [[collaborative-learning|collaborative]] and [[active-learnin
 
 A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students to use AI ethically and productively rather than substituting it for their own [[cognitive-offloading|cognitive work]]. Where AI literacy builds the *capacity* to evaluate and use AI critically, [[reducing-ai-misuse|reducing misuse]] is the behavioral and structural payoff — combining guardrailed tool design, [[assessment|assessment redesign]], and educative levers such as scaffolded think-first/AI-second sequences and prompting practice with deliberate feedback. The two concepts are mutually reinforcing: AI literacy supplies the critical dispositions that make misuse-reduction interventions durable, while misuse-reduction evidence (e.g. the [[ai-misuse-learning-harm|performance–learning gap]]) motivates why literacy must go beyond operational skill to critical judgment.
 
+### Critical AI literacy: beyond skills to power and resistance
+
+A distinct strand of the wiki treats AI literacy not merely as skills or critical evaluation but as a *critical and political practice* that interrogates power, authority, and whose knowledge counts. This connects AI literacy to [[critical-pedagogy]] and [[equity-in-ai-education]]:
+
+- **"Resisting AI" as a literacy stance.** Critical AI Literacy (CAIL) can encompass *resisting AI* — refusing the inevitability and techsolutionism of dominant discourse, and cultivating collective agency through dialogic, collaborative pedagogies.^[[li-mroziak-reorienting-critical-ai-literacy]] This positions education as a space where communities imagine and build alternative futures, rather than merely adapt to a given technological order.
+- **Community-based epistemologies.** Community-based AI learning grounds AI engagement in learners' lived and community-based ways of knowing, redistributing AI's epistemic authority through epistemic fine-tuning, redistribution of authority, and situated discernment.^[[ojeda-ramirez-community-based-ai-learning]]
+- **Critical and feminist frames.** Critical, feminist scholarship argues AI literacy should be framed within pedagogies of justice, resistance, and cultural sustainability — asking whose knowledge AI produces, who benefits, and who is accountable when systems fail.^[[avraamidou-ai-colonization-science-education]]
+- **Situated curriculum devices.** AI literacy can be built through situated, active teaching instruments (e.g., Episodes of Situated Learning) that develop AI competencies across levels rather than through abstract instruction.^[[panciroli-ai-literacy-episodes-situated-learning]]
+
+These critical strands complement the operational and cognitive dimensions of AI literacy: where the latter ask "can the learner use and evaluate AI?", critical AI literacy asks "does the learner understand and challenge the power structures AI embodies?"
+
 ### Designing AI literacy interventions
 
 The wiki's frameworks and empirical studies converge on a set of practical guidelines for educators and instructional designers building AI literacy interventions:
@@ -31716,8 +32599,10 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[tpack]]
 - [[feedback-literacy]]
 - [[feedback]]
+- [[critical-pedagogy]]
 
 ## Connected Articles
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[rudolph-ai-myths-critical-higher-ed]] — A critical take on AI hype and myths in higher education (Rudolph et al. 2025)
 - [[beck-genai-literacy-economics-hands-on]] — A hands-on approach to GenAI literacy in economics (Beck & Brodersen 2025)
 - [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — Using GenAI to build psychological, feedback, and AI literacies (Richmond & Nicholls 2025)
@@ -31762,6 +32647,9 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[academic-league-of-ai-2026]]
 - [[probing-ai-generated-physics-solutions-2026]]
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[li-mroziak-reorienting-critical-ai-literacy]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
 
 ---
 
@@ -31878,6 +32766,8 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[li-ai-science-situated-learning-teachers-2025]]
 
 ---
 
@@ -32606,6 +33496,7 @@ Because an AI tutor's core design question is how much help to give, cognitive l
 - [[socraticode-k12-programming-tutor]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[tutoring-specific-vs-general-ai]]
+- [[prezenski-human-centered-ai-aided-learning]]
 
 ---
 
@@ -32630,6 +33521,10 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 - **Critical engagement vs. offloading:** [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] frame AI tutors as either empowering (supporting active cognition) or enslaving (enabling passive offloading), connecting to [[over-reliance]] and [[critical-thinking]] research.
 
 - **Metacognitive awareness:** [[metacognitive-awareness-experiential-vs-instructional|Studies on metacognitive awareness]] examine whether students recognize when they're offloading versus learning — and whether instructional interventions can improve this calibration.
+
+- **Embodied intelligence as the alternative to outsourcing:** [[zhu-e3-hot-embodied-intelligence-sustainable-learning|The E3-HOT framework]] argues that to counter AI-induced cognitive outsourcing and learning detached from authentic contexts, AI should be designed around *embodied intelligence* (situational embedding, embodied participation, cognitive creation) so learners sustain cognitive agency and higher-order thinking rather than offload it. This frames embodied, situated AI design as the positive counterpart to offloading risk, connecting to [[distributed-cognition]] and [[embodied-learning]].
+
+- **The efficiency–regulation trade-off of distributed cognition:** [[hao-human-ai-collaborative-problem-solving-cognition|Hao et al.]] show that in human–AI collaboration, the mode that offloads most to AI (delegated reasoning) performs best on tasks but correlates with reduced self-regulation — empirical evidence that offloading's efficiency gain can come at the cost of the learner's regulatory engagement, converging with [[self-regulated-learning]] and [[over-reliance]] concerns.
 
 - **Fatigue and cognitive burden:** [[ai-fatigue-academic-contexts|AI fatigue research]] documents how constant AI interaction creates its own cognitive burden, a paradox where offloading one task increases cognitive load from managing AI outputs.
 
@@ -32656,7 +33551,10 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[critical-thinking]]
 - [[regulation]]
 - [[behaviorism]]
+- [[distributed-cognition]]
+- [[embodied-learning]]
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[coach-not-crutch-ai-writing]] — AI can work less and learn more: effort vs. learning environment (Lira et al. 2025)
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: AI replacing cognitive work (Brcic & Frljic 2026)
@@ -32681,6 +33579,9 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[sovereign-hive-titl-further-education-2026]]
 - [[andragogy-cognitive-delegation-genai-2026]]
+- [[ai-cognitive-partner-co-regulation-learning]]
+- [[ensemble-cognition-philosophy-ai-education]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 ---
 
@@ -32698,6 +33599,10 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 
 **Teacher-AI collaboration** examines how teachers and AI work together. **[[teacher-student-agency-orchestration]]** and **[[teacher-ai-teaming-five-levels]]** explore frameworks for human-AI collaborative teaching, connecting to [[teacher-role]] and [[human-in-the-loop-ai]].
 
+**AI as a pedagogical mediator** reconceptualizes AI's role in collaboration beyond tool or peer. Drawing on sociocultural theory and [[distributed-cognition|distributed cognition]], **[[niari-ai-pedagogical-mediator-collaborative-learning|Niari]]** positions AI as an active participant in the orchestration of interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors without displacing learner or teacher agency. This grounds collaborative learning in a socially mediated, co-regulated view of AI rather than an individualistic one.
+
+**Collaboration modes and the efficiency–regulation trade-off.** Empirical research on college students collaborating with AI for complex problem-solving identifies three distinct modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration*. The most efficient mode (delegated reasoning) yields the highest task performance but the lowest learners' self-regulatory engagement, while the mode with greatest self-regulation (concerted interpretation) underperforms on task outcomes.^[[hao-human-ai-collaborative-problem-solving-cognition]] This reveals a central design tension: collaborative-learning environments must balance the efficiency of the distributed human–AI system against the depth of learners' [[self-regulated-learning|regulatory]] engagement.
+
 ## Connected Concepts
 
 - [[active-learning]]
@@ -32714,6 +33619,8 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[accessible-learning]]
 - [[neurodiversity]]
 - [[learning-theories]]
+- [[distributed-cognition]]
+- [[self-regulated-learning]]
 ## Connected Articles
 
 - [[polished-artifacts-fragile-engagement-2026]]
@@ -32726,6 +33633,9 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[collaborative-ai-tutoring]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[academic-league-of-ai-2026]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 ---
 
@@ -32759,6 +33669,7 @@ Computational thinking connects to [[cs-education]], [[stem-education]], [[ai-li
 
 - [[computational-thinking-ai-agent-creation]]
 - [[reshaping-cs-education-genai]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
 
 ---
 
@@ -32895,6 +33806,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[behaviorism]]
 
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[ai-vocational-education-training-review]] — Constructivism espoused but behaviorist AI dominates in VET; the "Turing Trap"
 - [[generative-refusal-ai-tools-for-thought]] — AI tools that withhold generation to protect constructive thought
@@ -32909,6 +33821,13 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[teacher-ai-teaming-five-levels]] — Levels of teacher–AI collaboration in design
 - [[ccct-cooperative-learning-technique]] — Cooperative learning framed through constructivist theories
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency between learner and machine
+- [[ensemble-cognition-philosophy-ai-education]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
 
 ---
 
@@ -32949,6 +33868,49 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 
 ---
 
+## [Critical Pedagogy](https://edtechdev.github.io/aied/concepts/critical-pedagogy/)
+
+> **Critical Pedagogy** — an educational approach, rooted in the work of Paulo Freire and later critical theorists such as Henry Giroux, that treats teaching and learning as inherently political acts. Rather than merely transmitting skills or knowledge, critical pedagogy asks who benefits from education, whose knowledge is privileged, and how schooling reproduces or resists systems of power and oppression. In AI-in-education, critical pedagogy interrogates the corporate and capitalist logics shaping AI adoption, centers the voices and epistemologies of marginalized communities, and treats AI literacy as a practice of resistance and social transformation rather than mere technical competence.
+
+Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a cognitive skill — evaluating arguments, questioning assumptions, and reasoning carefully — that can be practiced within almost any framework. Critical pedagogy, by contrast, is a *political and ethical stance* that connects those skills to questions of power, justice, equity, and social transformation. The wiki treats them as related but distinct concepts: critical thinking asks "is this reasoning sound?", while critical pedagogy asks "who does this education serve, and whose knowledge counts?".
+
+### Critical pedagogy and AI in education
+
+AI in education raises sharp questions for critical pedagogy, and the wiki documents several strands:
+
+- **Critique of the "AI colonization" of education.** Critical and feminist scholars argue that generative AI is reshaping education in ways that repeat patterns of colonial exploitation and extraction — of data, labor, and natural resources — enriching the powerful at the expense of marginalized communities.^[[avraamidou-ai-colonization-science-education]] This framing rejects the "techno-utopia" narrative that presents AI as a neutral silver bullet.
+- **Feminist and justice-centered AI.** A feminist approach to AI prioritizes justice over profit, asks critical questions about the nature and ownership of knowledge, who benefits from AI, and who is accountable when systems fail. It calls for critical AI literacy framed within feminist pedagogies.^[[avraamidou-ai-colonization-science-education]]
+- **Resisting AI as a critical literacy practice.** Critical AI Literacy (CAIL) can encompass "resisting AI" — a stance that refuses the inevitability and techsolutionism of dominant discourse, and instead cultivates collective agency through dialogic, collaborative pedagogies that imagine alternative futures.^[[li-mroziak-reorienting-critical-ai-literacy]]
+- **Redistributing epistemic authority.** Community-based AI learning grounds AI engagement in learners' lived and community epistemologies, challenging the positioning of AI systems as authoritative knowledge sources.^[[ojeda-ramirez-community-based-ai-learning]] This involves epistemic fine-tuning, redistribution of authority, and situated discernment.
+- **Situated and cultural-historical ethics.** Critical approaches also argue that AI ethics in education must be *situated* — grounded in cultural-historical and ecological context rather than abstract principles.^[[raffaghelli-situated-ai-ethics-2026]]
+
+### The role of the educator
+
+Under critical pedagogy, educators are not neutral transmitters of AI skills but critical interlocutors and facilitators who help learners interrogate the politics of AI. This connects to the wiki's [[teacher-role]] and [[ai-literacy]] concepts, and to the broader concern with [[equity-in-ai-education]] and [[reducing-ai-misuse]]. The educator's task is to cultivate spaces where communities can collectively question, appropriate, or refuse AI — keeping education a site of imagination and social transformation.
+
+## Connected Concepts
+
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+- [[culturally-relevant-pedagogy]]
+- [[reducing-ai-misuse]]
+- [[agency]]
+- [[ethics]]
+- [[teacher-role]]
+- [[social-emotional-learning]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[avraamidou-ai-colonization-science-education]] — Critical, feminist critique of the "AI colonization" of science education
+- [[li-mroziak-reorienting-critical-ai-literacy]] — "Resisting AI" as a community-rooted praxis of critical AI literacy
+- [[ojeda-ramirez-community-based-ai-learning]] — Redistributing AI's epistemic authority through community-based learning
+- [[raffaghelli-situated-ai-ethics-2026]] — Situated, cultural-historical and ecological framework for AI ethics
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model for interpretive cognition in the humanities
+
+---
+
 ## [Critical Thinking](https://edtechdev.github.io/aied/concepts/critical-thinking/)
 
 > **Critical thinking** — the ability to analyze, evaluate, and synthesize information — is both a skill that AI tools can help develop and a competency that students must apply when using AI. In AI in education research, critical thinking appears in two interrelated forms: as a learning objective (teaching students to think critically) and as a safeguard against uncritical AI reliance.
@@ -32981,10 +33943,17 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[higher-ed]]
 
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use negatively correlates with critical thinking via offloading (Gerlich 2025)
 
 - [[critical-media-literacy-education-2026]]
 - [[probing-ai-generated-physics-solutions-2026]]
+- [[avraamidou-ai-colonization-science-education]]
+- [[li-mroziak-reorienting-critical-ai-literacy]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]
+- [[videla-embodied-ai-education-choreography]]
 
 ---
 
@@ -33131,6 +34100,7 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[finkelstein-principled-ai-education-2025]]
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[learnity-graphs-lifelong-learning-framework-2026]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
 
 ---
 
@@ -33267,6 +34237,60 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural Silence and Underrepresented Languages
 - [[sec-ai-literacy-narrative-review-2026]] — Social-Emotional Competence in AI Literacy
 - [[bilingual-llm-lecture-companion-srl-2026]]
+
+---
+
+## [Distributed Cognition](https://edtechdev.github.io/aied/concepts/distributed-cognition/)
+
+> **Distributed Cognition** — the theoretical perspective that cognition is not confined to an individual mind but is distributed across people, tools, artifacts, and environments. In AI-in-education research, this framework has become central for understanding human–AI collaboration: rather than viewing AI as a neutral tool that supports an otherwise self-contained learner, distributed cognition treats thinking as emerging from the interplay between learners, AI systems, peers, and their shared context. It reframes questions of agency, responsibility, and learning outcomes in terms of how cognitive work is apportioned across a human–AI system.
+
+This is a learning-theory concept within the wiki's [[learning-theories]] strand, closely related to [[embodied-learning]], [[situated-learning]], and [[cognitive-offloading]]. Distributed cognition (DCog), originating in the work of Edwin Hutchins and colleagues, describes how cognitive processes such as memory, reasoning, and problem-solving are spread across multiple agents and material systems rather than residing in a single head. In AI education this matters because AI systems increasingly function as genuine cognitive partners that carry part of the thinking load, raising the question of *where* learning actually happens and *who* is responsible.
+
+### How AI shifts the distribution of cognition
+
+Generative and interactive AI systems redistribute cognitive work in ways earlier tools did not. The wiki documents several dimensions of this shift:
+
+- **AI as a cognitive partner and co-regulator.** AI can act as a scaffold, metacognitive support, external memory system, and decision partner in the co-regulation of thinking and learning.^[[ai-cognitive-partner-co-regulation-learning]] This positions cognition as co-regulated between learner and system rather than individually managed.
+- **Agency and responsibility redistribution.** Frameworks such as **ensemble cognition** reconceptualise thinking as emerging from dynamic human–AI interaction, distinguishing AI's *functional agency* (its capacity to influence outcomes without consciousness) from *moral responsibility* (which remains human).^[[ensemble-cognition-philosophy-ai-education]] Distributed cognition thus reframes who is accountable for learning.
+- **The efficiency–regulation tension.** Empirical work shows a trade-off: human–AI systems that distribute reasoning most efficiently (e.g., via delegated reasoning) achieve higher task performance but may reduce learners' self-regulatory engagement.^[[hao-human-ai-collaborative-problem-solving-cognition]] This is the empirical face of the [[cognitive-offloading]] and [[over-reliance]] risks the wiki documents.
+- **Mediation in collaboration.** AI can act as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes in collaborative learning, redistributing agency, authority, and responsibility across human and non-human actors.^[[niari-ai-pedagogical-mediator-collaborative-learning]]
+
+### Distributed cognition and related perspectives
+
+The wiki treats distributed cognition alongside its neighboring theoretical traditions, which overlap but are not identical:
+
+- **[[situated-learning|Situated learning / situated cognition]]** emphasizes that cognition and learning are inseparable from the authentic context and communities of practice in which they occur — a complement to DCog's focus on cognitive *distribution* across systems.
+- **[[embodied-learning|Embodied cognition]]** stresses the role of the body and sensorimotor interaction, arguing that thinking is grounded in bodily engagement rather than abstract symbol manipulation.
+- **[[cognitive-offloading]]** is the practical mechanism by which cognitive work is handed off to external systems (including AI), and is the risk-laden counterpart to DCog's descriptive account.
+- **Extended cognition / the extended mind thesis** (used in posthumanist work) holds that external artifacts can be *constitutive* parts of a cognitive system, not merely instruments — a stronger claim that AI is part of the learner's mind itself.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
+
+### Why it matters for AI design and evaluation
+
+Distributed cognition provides both a design lens and an evaluation lens. For design, it asks how to apportion cognitive work between learners and AI to preserve (not erode) the human learner's agency, [[metacognition]], and self-regulation. For evaluation, it reframes success metrics: instead of asking only "did performance improve?", DCog asks whether the distribution of cognition supports durable learning, epistemic agency, and educational justice — a perspective that connects to the wiki's [[ai-ed-evaluation]] and [[learning-theories]] concerns.
+
+## Connected Concepts
+
+- [[learning-theories]]
+- [[cognitive-offloading]]
+- [[embodied-learning]]
+- [[situated-learning]]
+- [[human-ai-collaboration]]
+- [[agency]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[constructivist]]
+- [[collaborative-learning]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[hao-human-ai-collaborative-problem-solving-cognition]] — Empirical study of human–AI collaborative problem-solving through a distributed cognition + co-regulation lens
+- [[niari-ai-pedagogical-mediator-collaborative-learning]] — AI as a pedagogical mediator redistributing cognition across human and non-human actors
+- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated thinking
+- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition framework reconceptualising thinking as human–AI interaction
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Posthuman learner with cognition distributed across biological and artificial systems
+- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing distributed cognition alongside experiential and situated learning
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a distributed-cognition-inspired theory of learning with machines
 
 ---
 
@@ -33605,7 +34629,15 @@ Embodied learning is closely related to [[active-learning]], [[experiential-lear
 - **Embodiment and creative writing:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Research on robot-LLM integration in creative writing]] examines how embodiment affects learners' interaction and outcomes.
 - **Human-robot interaction:** [[human-robot-interaction|HRI]] research ([[task-context-trust-educational-hri-2026|trust]], [[human-autonomy-agency-hri-review-2025|agency]]) examines how physical embodiment shapes trust, engagement, and autonomy.
 
-Embodied learning connects to [[educational-robotics]], [[social-robots]], [[human-robot-interaction]], [[active-learning]], [[experiential-learning]], [[computational-thinking]], and [[social-emotional-learning]].
+### Embodied intelligence and the critique of disembodied AI
+
+A second, more theoretical strand of the wiki's embodiment research concerns the role of the *body* in AI-mediated learning — not through physical robots, but through the question of whether AI systems themselves are (or can be) embodied. This work challenges the dominance of symbolic, disembodied AI models built on abstract information processing:
+
+- **Embodied AI as a design principle.** The **E3-HOT framework** argues that to sustain learners' cognitive agency and higher-order thinking (rather than encouraging cognitive outsourcing), AI should be designed around *embodied intelligence* — situational embedding, embodied participation, and cognitive creation — within a virtual–real integrated learning environment.^[[zhu-e3-hot-embodied-intelligence-sustainable-learning]]
+- **The limits of disembodied generative AI.** Post-cognitivist scholarship argues that current GenAI systems lack proprioception, multimodal agency, and embodied practice, and advocates an "embodied AI" grounded in situationality, emergence, and sensorimotor coupling, proposing a perceptual–affective choreography for human–AI interaction.^[[videla-embodied-ai-education-choreography]]
+- **Embodiment, situatedness, and social construction.** In science learning, AI tools function as "mediational artifacts" that enable digital communities of practice and boundary-crossing, connecting embodied, authentic inquiry to real-world and interdisciplinary contexts.^[[li-ai-science-situated-learning-teachers-2025]] This ties embodiment to [[situated-learning]] and [[distributed-cognition]].
+
+Embodied learning connects to [[educational-robotics]], [[social-robots]], [[human-robot-interaction]], [[active-learning]], [[experiential-learning]], [[situated-learning]], [[distributed-cognition]], [[computational-thinking]], and [[social-emotional-learning]].
 
 ## Connected Concepts
 
@@ -33614,11 +34646,14 @@ Embodied learning connects to [[educational-robotics]], [[social-robots]], [[hum
 - [[human-robot-interaction]]
 - [[active-learning]]
 - [[experiential-learning]]
+- [[situated-learning]]
+- [[distributed-cognition]]
 - [[computational-thinking]]
 - [[social-emotional-learning]]
 - [[learning-theories]]
 
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
@@ -33627,6 +34662,13 @@ Embodied learning connects to [[educational-robotics]], [[social-robots]], [[hum
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration in Creative Writing
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[ensemble-cognition-philosophy-ai-education]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[fowlin-operationalizing-learning-principles-ai]]
+- [[videla-embodied-ai-education-choreography]]
 
 ---
 
@@ -33781,6 +34823,10 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[amponsah-ai-acceptance-science-teachers-2026]]
 - [[ground-truth-reliability-aied]]
 - [[sovereign-hive-titl-further-education-2026]]
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[raffaghelli-situated-ai-ethics-2026]]
+- [[avraamidou-ai-colonization-science-education]]
+- [[li-mroziak-reorienting-critical-ai-literacy]]
 
 ---
 
@@ -33831,6 +34877,8 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[ai-tutor-safety-harms]]
 - [[ai-uk-higher-education-policy-2026]]
 - [[genai-higher-education-systematic-review-2026]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[raffaghelli-situated-ai-ethics-2026]]
 
 ---
 
@@ -33859,12 +34907,18 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[learning-theories]]
 
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated LMS Longitudinal Study
+- [[vargas-situated-learning-ai-review-2024]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]
 
 ---
 
@@ -34377,6 +35431,9 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[genai-pd-ai-pck-learning-gain-2026]]
 - [[genai-higher-education-systematic-review-2026]]
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
+- [[self-directed-growth-generative-ai-learning-analytics]]
+- [[genai-educational-outcomes-meta-analysis]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
 
 ---
 
@@ -34602,6 +35659,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[professional-training]]
 
 ## Connected Articles
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[rudolph-ai-myths-critical-higher-ed]] — AI myths and the need for a critical approach in higher ed (Rudolph et al. 2025)
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
@@ -34628,6 +35686,15 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[genai-higher-education-systematic-review-2026]]
 - [[academic-league-of-ai-2026]]
 - [[trace-course-grade-prediction-2026]]
+- [[ensemble-cognition-philosophy-ai-education]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[raffaghelli-situated-ai-ethics-2026]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[fowlin-operationalizing-learning-principles-ai]]
+- [[videla-embodied-ai-education-choreography]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 ---
 
@@ -34643,6 +35710,9 @@ Human-AI collaboration describes how learners, teachers, and AI systems divide [
 - **Complementary roles in writing and thinking:** [[humanlike-ai-collaborative-writing|Humanlike AI collaborative writing]] and [[genai-mindtool-generative-learning|GenAI as a mindtool]] show how AI can augment rather than replace learner thinking when the division of labor preserves the learner's cognitive engagement.
 - **Orchestration and agency:** [[teacher-student-agency-orchestration|Teacher–student agency orchestration]] and [[student-mental-models-genai|student mental models]] address how agency is negotiated across humans and AI, connecting to [[human-in-the-loop-ai]] and [[agentic-ai]].
 - **Metacognitive and team dimensions:** [[haiml-human-centered-ai-metacognitive-model-2026|Human-centered AI metacognitive models]] and [[spritz-ai-disciplinary-mediation-student-teams-2026|disciplinary mediation in student teams]] extend collaboration to metacognition and team learning.
+- **Distinct collaboration modes:** empirical work identifies three human–AI collaborative problem-solving modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration* — revealing a trade-off between the efficiency of the distributed human–AI system and the depth of learners' self-regulatory engagement (delegated reasoning performs best but with lower self-regulation).^[[hao-human-ai-collaborative-problem-solving-cognition]]
+- **AI as mediator, not merely partner:** [[niari-ai-pedagogical-mediator-collaborative-learning|Niari]] reconceptualises AI as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors rather than treating AI as a tutor, peer, or tool.
+- **Community and epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|community-based AI learning]] shows collaboration is also a question of *who is authoritative*, grounding AI engagement in learners' lived epistemologies.
 
 ### Connections
 
@@ -34672,6 +35742,13 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[genai-higher-education-systematic-review-2026]]
 - [[ai-feedback-enactment-workflow-2026]]
+- [[ai-cognitive-partner-co-regulation-learning]]
+- [[ensemble-cognition-philosophy-ai-education]]
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[videla-embodied-ai-education-choreography]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 ---
 
@@ -34783,6 +35860,44 @@ HRI connects to [[social-robots]], [[educational-robotics]], [[embodied-learning
 - [[pepper-robot-sign-language-lis-2025]] — Pepper and Sign Language
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+
+---
+
+## [Humanities and Social Science Education](https://edtechdev.github.io/aied/concepts/humanities-education/)
+
+> **Humanities and Social Science (SSH) Education** — the teaching of disciplines concerned with human culture, values, meaning, and social life, including history, philosophy, literature, languages, sociology, and the arts. AI in SSH education raises distinctive questions because these fields center on interpretation, critical judgment, authorship, and meaning-making — processes that generative AI both supports and disrupts. AI here functions less as a tutor of factual content and more as an epistemic mediator that reshapes how students interpret texts, construct arguments, and understand their own agency as writers and thinkers.
+
+SSH education is a distinct subject area in the wiki, complementary to [[stem-education]] and [[language-learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM.
+
+### How AI appears in humanities and social science education
+
+- **Restructuring interpretive cognition.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] argues that generative AI acts as an *epistemic mediator* that reconfigures meaning-making, authorship, and learner agency in SSH education. It identifies three transformations — externalization of interpretive cognition, hybridization of authorship, and emergence of distributed epistemic agency — and three developmental trajectories (AI-dependent, AI-enhanced, AI-critical interpretation). This grounds a developmental-critical pedagogical model for preserving interpretive depth.
+- **History education.** [[paternalistic-filter-llm-history-education|Research on LLMs in history education]] examines how AI shapes historical reasoning and source interpretation.
+- **Humanities and social-science students' experiences.** [[genai-impact-chinese-students-hss|GenAI's impact on Chinese humanities and social science students]] and [[acceptance-ai-english-tools-2026|AI acceptance among language/English learners]] document student-facing effects across SSH disciplines.
+- **Critical and philosophical dimensions.** [[voicu-ai-interpretive-cognition-ssh-2026|Critical AI literacy]] and the [[philosophy-of-ai-in-education|philosophy of AI in education]] are especially salient in SSH, where questions of meaning, values, and epistemic authority are central.
+
+### Why it matters
+
+SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. The wiki treats this domain as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
+
+## Connected Concepts
+
+- [[higher-ed]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[critical-pedagogy]]
+- [[philosophy-of-ai-in-education]]
+- [[agency]]
+- [[language-learning]]
+- [[stem-education]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — A developmental-critical model of interpretive cognition for SSH education
+- [[paternalistic-filter-llm-history-education]] — LLM use and historical reasoning in history education
+- [[genai-impact-chinese-students-hss]] — GenAI's impact on humanities and social science students
+- [[acceptance-ai-english-tools-2026]] — AI acceptance among language and humanities learners
 
 ---
 
@@ -34922,6 +36037,10 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[multi-agent-instructional-design]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[vargas-situated-learning-ai-review-2024]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]
 
 ---
 
@@ -35004,6 +36123,7 @@ For instructors, designers, and developers building or adopting tutoring systems
 - [[clara-collaboration-literacy-dashboard]]
 - [[codify-socratic-programming-tutor]]
 - [[codify-socratic-tutoring-programming]] — [[ai-tutoring-quality-k12-methodologies-2026]]
+- [[prezenski-human-centered-ai-aided-learning]]
 
 ---
 
@@ -35091,6 +36211,8 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[computational-thinking-ai-agent-creation]]
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[stanford-evidence-base-ai-k12-2026]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
 
 ---
 
@@ -35342,6 +36464,8 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[llm-difficulty-calibration-programming-exams-2026]]
 - [[trace-course-grade-prediction-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
+- [[self-directed-growth-generative-ai-learning-analytics]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 ---
 
@@ -35453,6 +36577,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
+- [[genai-educational-outcomes-meta-analysis]]
 
 ---
 
@@ -35503,6 +36628,8 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[cognitive-load-theory]]
 - [[dual-process-theory]]
 - [[metacognition]]
+- [[distributed-cognition]]
+- [[situated-learning]]
 - [[self-regulated-learning]]
 - [[self-determination-theory]]
 - [[self-efficacy]]
@@ -35518,10 +36645,14 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[cognitive-offloading]]
 - [[over-reliance]]
 - [[instructional-design]]
+- [[philosophy-of-ai-in-education]]
+- [[critical-pedagogy]]
 - [[ai-education]]
 
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[ai-cognitive-partner-co-regulation-learning]] — Positions AI as a cognitive partner in human-AI co-regulation; developmental framework across the lifespan
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework reconceptualising thinking as human–AI interaction
 - [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth and the A2PL model extending self-directed learning with GenAI
@@ -35529,6 +36660,12 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 - [[ai-vocational-education-training-review]] — Documented the constructivism/behaviorism theory-practice gap in AI for VET
 - [[constructivist]] — (cross-reference) Constructivism as the wiki documents it
 - [[behaviorism]] — (cross-reference) Behaviorism as the wiki documents it
+- [[genai-educational-outcomes-meta-analysis]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[raffaghelli-situated-ai-ethics-2026]]
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[videla-embodied-ai-education-choreography]]
 
 ---
 
@@ -35776,6 +36913,49 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 
 ---
 
+## [Medical and Health Professions Education](https://edtechdev.github.io/aied/concepts/medical-education/)
+
+> **Medical and Health Professions Education (HPE)** — the teaching and training of medical, nursing, pharmacy, and allied health professionals. AI is reshaping this domain through clinical simulation, reinforcement-learning trainers, adaptive learning, and the application of foundational learning principles (experiential, situated, and distributed cognition) in health-professions contexts. Because HPE is high-stakes, competency-based, and clinically embedded, it raises distinct questions about AI's role in skill acquisition, patient safety, and the educator's judgment.
+
+AI in medical and health-professions education is a growing strand of the wiki's subject-area coverage. Unlike general higher education, HPE is oriented toward the development of clinical competencies, procedural skills, and professional judgment, which shapes how AI tools are designed and evaluated.
+
+### How AI appears in health-professions education
+
+- **Operationalizing foundational learning principles.** [[fowlin-operationalizing-learning-principles-ai|Fowlin et al.]] (developed at the Medical University of South Carolina) argue that AI should be used to operationalize age-old learning principles — Dewey's [[experiential-learning|experiential learning]], [[situated-learning|situated cognition]], and [[distributed-cognition|distributed cognition]] — rather than replace the educator's guiding role. AI enhances [[personalized-learning|personalized]] and [[adaptive-learning|adaptive]] learning while the teacher remains central to student engagement and outcomes.
+- **Clinical skills and reinforcement learning.** [[residencyrl-clinical-rl-training-2026|ResidencyRL]] uses reinforcement learning to train clinical reasoning and procedural skills in residency, demonstrating AI as a skills-training partner in real clinical workflows.
+- **Simulation and agentic AI.** [[hdr-brachytherapy-agentic-ai-simulation-2026|Agentic AI simulation in brachytherapy]] shows how AI agents support hands-on procedural training in medical specialties.
+- **Gamification of medical learning.** [[medgame-llm-medical-education-gamification|MedGame]] applies [[game-based-learning|gamification]] and LLMs to engage medical students.
+- **Nursing and interdisciplinary education.** [[alrazeeni-transforming-nursing-education-ai-2026|AI transformation of nursing education]] documents how AI reshapes nursing curricula and instruction.
+
+### Why it matters
+
+HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks (over-reliance, erosion of hands-on clinical skill, ethical and safety concerns). The wiki's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
+
+## Connected Concepts
+
+- [[higher-ed]]
+- [[simulation]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[game-based-learning]]
+- [[experiential-learning]]
+- [[situated-learning]]
+- [[distributed-cognition]]
+- [[teacher-role]]
+- [[assessment]]
+- [[feedback]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing experiential, situated, and distributed cognition with AI in health-professions education
+- [[residencyrl-clinical-rl-training-2026]] — Reinforcement-learning training for clinical skills in residency
+- [[medgame-llm-medical-education-gamification]] — Gamified LLM-based learning for medical education
+- [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI simulation for brachytherapy training
+- [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming nursing education with AI
+
+---
+
 ## [Meta-Analysis and Systematic Review](https://edtechdev.github.io/aied/concepts/meta-analysis-systematic-review/)
 
 > **Meta-analysis and systematic review** — the family of evidence-synthesis methods researchers use to aggregate and appraise a body of studies, rather than run a single new experiment. A **systematic review** applies a transparent, reproducible protocol to search, screen, appraise, and synthesize the literature on a focused question; a **meta-analysis** goes further by statistically pooling effect sizes across eligible studies to produce a weighted summary estimate and to test moderators. In AI in education, these methods are central to establishing the evidence base for whether AI tools work, under what conditions, and for whom — and to exposing gaps, bias, and the field's methodological quality.^[[genai-meta-analysis-programming-learning]]^[[zerkouk-comprehensive-review-its-2025]]
@@ -35946,6 +37126,8 @@ This suggests that **metacognitive support and [[motivation]] are not identical*
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
+- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[metacognitively-discordant-completion-genai-2026]]
@@ -35966,6 +37148,10 @@ This suggests that **metacognitive support and [[motivation]] are not identical*
 - [[cognitive-offloading-speedup-illusion]]- [[probing-ai-generated-physics-solutions-2026]]
 
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
+- [[ai-cognitive-partner-co-regulation-learning]]
+- [[ensemble-cognition-philosophy-ai-education]]
+- [[genai-educational-outcomes-meta-analysis]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 ---
 
@@ -36255,6 +37441,8 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[sovereign-hive-titl-further-education-2026]]
+- [[ai-cognitive-partner-co-regulation-learning]]
+- [[prezenski-human-centered-ai-aided-learning]]
 
 ---
 
@@ -36274,6 +37462,7 @@ A pedagogical agent is an interactive AI component within a learning system that
 - [[ai-generated-interactive-fiction-education-2026]]
 
 - [[adversarial-stress-testing-role-playing-agents]]- [[embodied-inquiry-ai-facilitator-physics-2026]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
 
 ---
 
@@ -36542,6 +37731,51 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[learnity-graphs-lifelong-learning-framework-2026]]
 - [[genai-higher-education-systematic-review-2026]]
 - [[trace-course-grade-prediction-2026]]
+- [[self-directed-growth-generative-ai-learning-analytics]]
+- [[vargas-situated-learning-ai-review-2024]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]
+
+---
+
+## [Philosophy of AI in Education](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/)
+
+> **Philosophy of AI in Education** — the branch of educational philosophy that examines the fundamental conceptual questions raised by artificial intelligence in teaching and learning: What is the nature of knowledge and thinking when machines participate in them? What is the learner when cognition is distributed across human and artificial systems? What forms of agency, responsibility, and personhood apply to AI, and what does education owe learners in an AI-mediated world? Distinct from (but connected to) the wiki's [[learning-theories]] page, which catalogues theories of *how learning happens*, the philosophy of AI in education asks the deeper questions of *what learning, mind, and the learner fundamentally are* under AI-mediated conditions.
+
+This is a concept page for the philosophical and theoretical foundations of AI in education. While [[learning-theories]] documents the empirical and design-oriented theories (behaviorism, constructivism, cognitive load, self-regulated learning, etc.), the philosophy strand engages the ontological, epistemological, and ethical questions those theories presuppose. The two are closely connected: philosophical positions shape which learning theories seem plausible and which educational goals are worth pursuing.
+
+### Key philosophical questions
+
+- **The nature of mind and cognition.** Does thinking require consciousness and a body? Can AI participate in genuinely cognitive processes? Frameworks such as **ensemble cognition** argue that AI exercises *functional agency* — genuine causal efficacy in cognitive processes — without consciousness, and that thinking emerges from dynamic human–AI interaction.^[[ensemble-cognition-philosophy-ai-education]] [[distributed-cognition|Distributed cognition]] and the extended mind thesis make related claims about cognition being spread across systems.
+- **What is the learner?** Posthumanist philosophy reconceptualises the learner as a "post-human" entity whose cognitive processes are genuinely hybrid and distributed across biological and artificial systems.^[[elsayed-pedagogical-symbiosis-posthuman-learner]] This challenges the assumption that the learner is a bounded, autonomous individual mind.
+- **Embodiment and the limits of disembodied AI.** Embodied and post-cognitivist philosophy critiques the dominance of symbolic, disembodied AI models, arguing that cognition is grounded in situationality, emergence, and sensorimotor coupling that current generative AI lacks.^[[videla-embodied-ai-education-choreography]]
+- **Agency, authorship, and meaning.** When AI mediates interpretation and meaning-making, philosophy asks how authorship, epistemic agency, and interpretive autonomy are reconfigured.^[[voicu-ai-interpretive-cognition-ssh-2026]]
+- **Values, justice, and the purpose of education.** Philosophical analysis examines whether AI-driven education serves human flourishing and educational justice, or whether it instrumentalises learning in service of productivity.^[[avraamidou-ai-colonization-science-education]] This connects to [[critical-pedagogy]] and [[ethics]].
+
+### Relationship to learning theories
+
+The philosophy of AI in education and [[learning-theories]] are complementary lenses. Learning theories explain the mechanisms of learning (e.g., how feedback, scaffolding, or cognitive load shape outcomes); philosophy interrogates the presuppositions of those mechanisms — what counts as knowledge, who counts as a knower, and what the learner fundamentally is. Posthumanist and critical-philosophical work, in particular, challenges the field to move beyond instrumentalist frameworks like TPACK and SAM toward deeper ontological reorientation.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
+
+## Connected Concepts
+
+- [[learning-theories]]
+- [[distributed-cognition]]
+- [[ethics]]
+- [[agency]]
+- [[embodied-learning]]
+- [[critical-pedagogy]]
+- [[human-ai-collaboration]]
+- [[critical-thinking]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework for human–AI cognition
+- [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner
+- [[videla-embodied-ai-education-choreography]] — Embodied, post-cognitivist critique of disembodied AI in education
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model of interpretive cognition in the humanities
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency as a philosophy of learning with machines
+- [[avraamidou-ai-colonization-science-education]] — Critical-feminist philosophy questioning the AI colonization of education
 
 ---
 
@@ -37063,6 +38297,9 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[ai-availability-student-motivation]] — AI Availability and Student Motivation
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
 - [[generative-ai-reduced-study-time-math]] — Generative AI Reduced Study Time on Math
+- [[ojeda-ramirez-community-based-ai-learning]]
+- [[avraamidou-ai-colonization-science-education]]
+- [[li-mroziak-reorienting-critical-ai-literacy]]
 
 ---
 
@@ -37317,6 +38554,7 @@ Scaffolding connects to [[over-reliance]] (scaffolding that doesn't fade creates
 - [[correct-answer-trap-ai-tutor]]
 - [[critical-thinking-genai-scaffolding]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[ai-cognitive-partner-co-regulation-learning]]
 
 ---
 
@@ -37503,6 +38741,10 @@ For example:
 - [[student-llm-interaction-taxonomy-review-2026]]
 - [[bilingual-llm-lecture-companion-srl-2026]]
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
+- [[ai-cognitive-partner-co-regulation-learning]]
+- [[self-directed-growth-generative-ai-learning-analytics]]
+- [[niari-ai-pedagogical-mediator-collaborative-learning]]
+- [[hao-human-ai-collaborative-problem-solving-cognition]]
 
 ---
 
@@ -37602,6 +38844,54 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+
+---
+
+## [Situated Learning](https://edtechdev.github.io/aied/concepts/situated-learning/)
+
+> **Situated Learning** — the theory, rooted in the early-1990s work of Lave and Wenger (1991), that learning is not an isolated, decontextualized act but occurs through participation in authentic activities, contexts, and cultures. Knowledge is co-constructed by learners and peers within [[collaborative-learning|communities of practice]], and novices learn through legitimate peripheral participation — absorbing the culture, language, and practices of expert members as they move from the periphery to the center of a community. Emphasis falls on learning by doing in real-world situations, where assessment emerges from the task itself rather than being separated from it.
+
+Situated learning is one of the activity-and-context theories within the wiki's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's sociocultural context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
+
+In the AI-in-education literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[ai-tutoring|intelligent tutoring]] in authentic scenarios, and immersive simulations can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for ethical grounding.
+
+### Situated learning as a design lens for AI
+
+The wiki's research treats situated learning not merely as an abstract theory but as a concrete design and evaluation framework for AI in education:
+
+- **Opportunities and obstacles.** A PRISMA systematic review of 60 articles (three decades) finds that AI can augment situated learning — through adaptive systems tailored to students' evolving needs, intelligent tutoring situated in authentic scenarios, automation of administrative tasks, and data-driven teacher support — while the main obstacles are the traditional school's one-way passive learning, an over-emphasis on predefined outcomes, and teachers' limited contextual knowledge. Human guidance remains essential for ethical grounding.^[[vargas-situated-learning-ai-review-2024]]
+- **AI as a catalyst connecting education to reality.** AI can act as a *catalyst* for situated learning by connecting education with reality and authentic contexts, enabling learning grounded in real-world scenarios.^[[vargas-ai-catalyst-situated-learning-2026]]
+- **Mediational artifacts in authentic inquiry.** In science learning, AI tools (virtual labs, simulations, intelligent tutoring) function as "mediational artifacts" that extend situated learning by enabling digital communities of practice and boundary-crossing between school, real-world, and interdisciplinary contexts — transforming students from "knowledge learners" into "scientific practitioners."^[[li-ai-science-situated-learning-teachers-2025]]
+- **Situated curriculum devices.** AI literacy can be developed through *Episodes of Situated Learning* — active teaching instruments (anticipate, produce, reflect) that build AI competencies through real-world problem-solving rather than abstract instruction.^[[panciroli-ai-literacy-episodes-situated-learning]]
+- **Situated AI ethics.** Ethical reasoning about AI is itself best treated as *situated* — grounded in cultural-historical and ecological context rather than abstract principles.^[[raffaghelli-situated-ai-ethics-2026]]
+
+Situated learning connects closely to [[embodied-learning]] (both stress the grounding of cognition in context and action), [[distributed-cognition]] (learning distributed across people, tools, and contexts), [[experiential-learning]], and [[constructivist]] theory. In AI education it grounds the critique of decontextualized, disembodied learning: AI design that keeps learners anchored in authentic practice preserves the situatedness that durable learning requires.
+
+## Connected Concepts
+
+- [[learning-theories]]
+- [[constructivist]]
+- [[experiential-learning]]
+- [[embodied-learning]]
+- [[distributed-cognition]]
+- [[collaborative-learning]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[teacher-role]]
+- [[instructional-design]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[vargas-situated-learning-ai-review-2024]] — PRISMA systematic review of situated learning and AI in education (primary reference for this stub)
+- [[genai-educational-outcomes-meta-analysis]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[raffaghelli-situated-ai-ethics-2026]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
+- [[fowlin-operationalizing-learning-principles-ai]]
+- [[videla-embodied-ai-education-choreography]]
 
 ---
 
@@ -37876,6 +39166,8 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[concept-catalyst-engineering-scaffolds]]
 - [[generative-ai-reduced-study-time-math]]
 - [[ai-metacognition-stem-review]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[avraamidou-ai-colonization-science-education]]
 
 ---
 
@@ -38226,6 +39518,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
+- [[raffaghelli-situated-ai-ethics-2026]]
 
 ---
 
@@ -38245,6 +39538,16 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 
 The dominant metaphor in the wiki is *orchestration*: teachers coordinate human learners, AI tutors, and curriculum resources. This contrasts with replacement narratives — AI augments rather than substitutes for human teaching.
 
+### Evolving and critical teacher roles
+
+Recent work expands the orchestration metaphor into richer role conceptualizations:
+
+- **The "cognitive choreographer."** Posthumanist frameworks recast the teacher as a *cognitive choreographer* who orchestrates cognition distributed across biological and artificial systems, moving beyond instrumentalist models like TPACK and SAM.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
+- **Facilitator, co-investigator, ethical supervisor.** In science learning, teachers' roles shift from knowledge transmitters to facilitators and co-investigators, and gain new responsibilities as ethical supervisors of students' responsible AI use.^[[li-ai-science-situated-learning-teachers-2025]]
+- **Mediator of learning principles.** Educators operationalize age-old learning principles (experiential, situated, and distributed cognition) through AI, treating AI as a tool that enhances rather than replaces the educator's guiding role.^[[fowlin-operationalizing-learning-principles-ai]]
+
+These roles connect teacher work to [[distributed-cognition]], [[situated-learning]], [[embodied-learning]], and [[critical-pedagogy]], and reframe the teacher as a designer and ethical guide of AI-mediated learning rather than merely a user.
+
 ### Connections
 
 Teacher role connects to [[faculty-development]] (how teachers are prepared), [[ai-literacy]] (teacher AI competency), [[k-12]] and [[higher-ed]] (context-specific implications), and [[scaffolding]] (how teachers scaffold AI use for students).
@@ -38261,6 +39564,9 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[ai-tutoring]]
 - [[llm]]
 - [[professional-training]]
+- [[distributed-cognition]]
+- [[situated-learning]]
+- [[critical-pedagogy]]
 
 ## Connected Articles
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
@@ -38276,6 +39582,11 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[teacher-authored-prompts-student-ai-dialogue]]
 - [[ai-tpack-preservice-math-teachers]]
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
+- [[vargas-situated-learning-ai-review-2024]]
+- [[prezenski-human-centered-ai-aided-learning]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[vargas-ai-catalyst-situated-learning-2026]]
+- [[fowlin-operationalizing-learning-principles-ai]]
 
 ---
 
