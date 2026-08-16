@@ -3,7 +3,7 @@ title: "Don't believe the hype. AI myths and the need for a critical approach in
 created: 2026-08-15
 updated: 2026-08-15
 type: article
-tags: [generative-ai, higher-ed, ai-literacy, critical-thinking, academic-integrity, digital-divide, ai-misuse-learning-harm, ai-governance-education, faculty-development, regulation]
+tags: [generative-ai, higher-ed, ai-literacy, critical-thinking, academic-integrity, digital-divide, ai-misuse-learning-harm, governance, faculty-development, regulation]
 sources: ['raw/papers/rudolph-ai-myths-critical-higher-ed.md']
 confidence: medium
 ---
@@ -18,7 +18,7 @@ confidence: medium
 
 **Hype vs. harm to society and the environment.** Contrary to claims that AI will engender a more democratic, equal, and sustainable world, the authors argue GenAI threatens democracy (deepfakes, targeted propaganda, automated disinformation), exacerbates inequality and the [[digital-divide]], and carries a heavy ecological footprint — from rare-mineral extractivism in the Global South to enormous energy and water consumption and offshored e-waste. AI is framed here as a source of [[ai-misuse-learning-harm]] at a societal scale.
 
-**Geopolitics and the myth of US dominance.** The belief that the US exclusively dominates the AI arena is challenged by China's rapid ascent, illustrated by DeepSeek's open-source, low-cost reasoning model that disrupted markets in January 2025. This raises questions about access, control, and [[ai-governance-education]] — including the adequacy of US chip-export [[regulation]].
+**Geopolitics and the myth of US dominance.** The belief that the US exclusively dominates the AI arena is challenged by China's rapid ascent, illustrated by DeepSeek's open-source, low-cost reasoning model that disrupted markets in January 2025. This raises questions about access, control, and [[governance]] — including the adequacy of US chip-export [[regulation]].
 
 **Higher education: erosion, not revolution.** The claim that AI revolutionises higher education overlooks its detrimental effects on [[academic-integrity]] and the erosion of evidence-based pedagogical practices, compounded by an existing crisis of higher education. Likewise, AI-detection is unreliable: models increasingly produce outputs indistinguishable from human work, undermining the belief that teachers can catch AI use with or without AI tools.
 
@@ -26,7 +26,7 @@ confidence: medium
 
 ## Implications
 
-The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential graduate competencies in an era where GenAI increasingly shapes academic, professional, and public discourse. For institutions, it recommends integrating critical AI literacy into course design and review processes and resisting profit-driven narratives from Big Tech. The paper also situates GenAI adoption within wider debates about [[ai-governance-education]], equity, and the environmental and labour costs of AI infrastructure, arguing that technology should be a tool for enhancing human intelligence rather than replacing or diminishing it.
+The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential graduate competencies in an era where GenAI increasingly shapes academic, professional, and public discourse. For institutions, it recommends integrating critical AI literacy into course design and review processes and resisting profit-driven narratives from Big Tech. The paper also situates GenAI adoption within wider debates about [[governance]], equity, and the environmental and labour costs of AI infrastructure, arguing that technology should be a tool for enhancing human intelligence rather than replacing or diminishing it.
 
 ## Connected Concepts
 
@@ -37,7 +37,7 @@ The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential g
 - [[academic-integrity]]
 - [[digital-divide]]
 - [[ai-misuse-learning-harm]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[faculty-development]]
 - [[regulation]]
 - [[student-misconceptions-ai]]

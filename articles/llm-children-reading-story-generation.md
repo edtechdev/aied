@@ -3,7 +3,7 @@ title: Children's English Reading Story Generation via Supervised Fine-Tuning of
 created: 2026-05-14
 updated: 2026-08-15
 type: article
-tags: [llm, language-learning, k-12, ai-literacy, generative-ai, equity-in-ai-education, k-12-ai-education, scaffolding, personalized-learning]
+tags: [llm, language-learning, k-12, ai-literacy, generative-ai, equity-in-ai-education, k-12, scaffolding, personalized-learning]
 sources: ['raw/papers/2605.13709.md']
 confidence: high
 ---
@@ -33,7 +33,7 @@ Fine-tuning designs were systematically compared, with the curriculum-derived tr
 - [[llm]]
 - [[generative-ai]]
 - [[k-12]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[language-learning]]
 - [[storytelling-in-education]]
 - [[pedagogical-safety]]

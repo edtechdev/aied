@@ -3,7 +3,7 @@ title: Ethics in AI Education
 created: 2026-08-09
 updated: 2026-08-15
 type: concept
-tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-governance-education, ai-literacy]
+tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
 confidence: high
 ---
 
@@ -23,7 +23,7 @@ The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-highe
 
 ### Connections
 
-Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[ai-governance-education]]. It is the normative foundation for all other AI education concepts.
+Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[governance]]. It is the normative foundation for all other AI education concepts.
 
 ## Connected Concepts
 
@@ -33,7 +33,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[regulation]]
 - [[pedagogical-safety]]
 - [[academic-integrity]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[ai-literacy]]
 - [[over-reliance]]
 - [[teacher-role]]

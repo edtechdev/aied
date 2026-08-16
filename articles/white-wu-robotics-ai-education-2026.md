@@ -19,7 +19,7 @@ confidence: high
 
 ## Implications
 
-This critique of the AIED research landscape connects to broader [[ai-governance-education]] concerns and the [[institutional-change-framework-ai|institutional readiness]] challenges identified in the EPIQ-AI framework. The call for teacher preparation aligns with [[teacher-ai-competency]] and [[faculty-development]] research, while the equity critique echoes findings in [[ai-scoring-language-bias-physics]].
+This critique of the AIED research landscape connects to broader [[governance]] concerns and the [[institutional-change-framework-ai|institutional readiness]] challenges identified in the EPIQ-AI framework. The call for teacher preparation aligns with [[teacher-ai-competency]] and [[faculty-development]] research, while the equity critique echoes findings in [[ai-scoring-language-bias-physics]].
 
 ## Connected Concepts
 - [[educational-robotics]]
@@ -29,7 +29,7 @@ This critique of the AIED research landscape connects to broader [[ai-governance
 - [[ethics]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[faculty-development]]
 - [[learning-analytics]]
 

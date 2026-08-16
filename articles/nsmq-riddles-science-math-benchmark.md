@@ -3,7 +3,7 @@ title: "NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Qui
 created: 2026-05-08
 updated: 2026-08-15
 type: article
-tags: [benchmark, stem-education, k-12, llm, efficacy-study, pedagogical-llm-training, k-12-ai-education, automated-question-generation, ai-education]
+tags: [benchmark, stem-education, k-12, llm, efficacy-study, pedagogical-llm-training, k-12, automated-question-generation, ai-education]
 sources: ['raw/papers/2605.07051.md']
 confidence: medium
 ---

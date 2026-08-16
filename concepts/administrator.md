@@ -15,16 +15,16 @@ AI adoption in education is not purely a classroom decision; it is also an insti
 
 - **Policy and institutional decision-making:** [[ai-uk-higher-education-policy-2026|UK higher-education AI policy research]] finds that AI integration is accelerating but fragmented, with a gap between high-level policy ambition and institutional implementation — a recurring theme for administrators navigating strategy without clear operational guidance.
 - **Well-being and student experience:** [[ai-campus-wellbeing-tools|AI campus well-being tools]] examine how institutions deploy AI for student support, linking administrator choices to [[student-experience]] outcomes.
-- **Governance and regulation:** Administrator decisions interact with [[educational-policy-ai]], [[ai-governance-education]], and [[regulation]] — institutions translate AI capability into acceptable-use frameworks, assessment rules, and data-governance standards (see [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]]).
+- **Governance and regulation:** Administrator decisions interact with [[educational-policy-ai]], [[governance]], and [[regulation]] — institutions translate AI capability into acceptable-use frameworks, assessment rules, and data-governance standards (see [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]]).
 
 ### Connections
 
-The administrator perspective connects to [[educational-policy-ai]] (policy formation), [[ai-governance-education]] and [[regulation]] (governance), [[edtech-platform]] (procurement and infrastructure), [[learning-analytics]] (institutional data), and [[higher-ed]]. Administrator decisions enable or constrain the [[faculty-development]], [[teacher-role]], and [[ai-literacy]] work covered elsewhere in the wiki.
+The administrator perspective connects to [[educational-policy-ai]] (policy formation), [[governance]] and [[regulation]] (governance), [[edtech-platform]] (procurement and infrastructure), [[learning-analytics]] (institutional data), and [[higher-ed]]. Administrator decisions enable or constrain the [[faculty-development]], [[teacher-role]], and [[ai-literacy]] work covered elsewhere in the wiki.
 
 ## Connected Concepts
 
 - [[educational-policy-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[regulation]]
 - [[higher-ed]]
 - [[edtech-platform]]

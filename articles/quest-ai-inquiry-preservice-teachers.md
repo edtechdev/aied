@@ -37,7 +37,7 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 - [[research-methods-aied]]
 - [[faculty-development]]
 - [[professional-training]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[instructional-design]]
 - [[higher-ed]]
 - [[generative-ai]]

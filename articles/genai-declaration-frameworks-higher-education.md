@@ -23,7 +23,7 @@ This domain-specific approach is proposed as a foundation for fostering more hon
 - [[educational-policy-ai]]
 - [[student-experience]]
 - [[regulation]]
-- [[ai-governance-education]]
+- [[governance]]
 
 ## Connected Articles
 

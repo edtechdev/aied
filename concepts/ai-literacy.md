@@ -83,7 +83,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[curriculum-design]]
 - [[instructional-design]]
 - [[digital-divide]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[tpack]]
 - [[feedback-literacy]]
 - [[feedback]]

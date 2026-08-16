@@ -3,7 +3,7 @@ title: "ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K
 created: 2026-05-08
 updated: 2026-08-15
 type: article
-tags: [k-12, personalized-learning, intelligent-tutoring, llm, student-experience, self-regulated-learning, k-12-ai-education, affective-tutoring, regulation]
+tags: [k-12, personalized-learning, intelligent-tutoring, llm, student-experience, self-regulated-learning, k-12, affective-tutoring, regulation]
 sources: ['raw/papers/2605.08040.md']
 confidence: medium
 ---
@@ -44,7 +44,7 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 - [[self-regulated-learning]]
 - [[affective-tutoring]]
 - [[regulation]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[student-modeling]]
 - [[privacy]]
 ## Connected Articles

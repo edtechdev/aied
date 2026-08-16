@@ -27,7 +27,7 @@ This review organizes AIED research into three interrelated layers:
 
 ## Implications
 
-This review provides a structured map of the AIED landscape during the LLM era (2020-2025), useful as a reference point for [[ai-education]]. The three-layer framework connects to [[learning-analytics]], [[intelligent-tutoring]], and [[adaptive-learning]] research, while the forward trends align with discussions in [[ai-governance-education]] and institutional AI readiness.
+This review provides a structured map of the AIED landscape during the LLM era (2020-2025), useful as a reference point for [[ai-education]]. The three-layer framework connects to [[learning-analytics]], [[intelligent-tutoring]], and [[adaptive-learning]] research, while the forward trends align with discussions in [[governance]] and institutional AI readiness.
 
 ## Connected Concepts
 
@@ -39,7 +39,7 @@ This review provides a structured map of the AIED landscape during the LLM era (
 - [[adaptive-learning]]
 - [[multimodal]]
 - [[edtech-platform]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[meta-analysis-systematic-review]]
 - [[human-ai-collaboration]]
 - [[privacy]]

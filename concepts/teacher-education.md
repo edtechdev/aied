@@ -41,7 +41,7 @@ A key finding across teacher-education research is the gap between what teachers
 - [[ai-literacy]]
 - [[faculty-development]]
 - [[k-12]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[ethics]]
 - [[ai-education]]
 

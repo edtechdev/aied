@@ -25,7 +25,7 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 - [[regulation]]
 - [[higher-ed]]
 - [[governance]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[agency]]
 - [[educational-policy-ai]]
 ## Connected Articles

@@ -3,7 +3,7 @@ title: "Towards AI literacy: A proposal of a framework based on the Episodes of 
 created: 2026-08-16
 updated: 2026-08-16
 type: article
-tags: [ai-literacy, situated-learning, curriculum-design, instructional-design, k-12-ai-education, experiential-learning, generative-ai]
+tags: [ai-literacy, situated-learning, curriculum-design, instructional-design, k-12, experiential-learning, generative-ai]
 sources: ['raw/papers/panciroli-ai-literacy-episodes-situated-learning.md']
 confidence: high
 ---
@@ -37,7 +37,7 @@ ESL is an active teaching instrument built on three verbs — **anticipate** (st
 
 ## Educational significance
 
-This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[instructional-design]] and [[k-12-ai-education|K-12 AI education]].
+This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[instructional-design]] and [[k-12|K-12 AI education]].
 
 ## Key Findings
 
@@ -55,7 +55,7 @@ This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated 
 - [[experiential-learning]]
 - [[curriculum-design]]
 - [[instructional-design]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[generative-ai]]
 - [[ai-education]]
 - [[critical-thinking]]

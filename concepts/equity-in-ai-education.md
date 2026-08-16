@@ -49,7 +49,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - **Infrastructure is equity:** addressing the [[digital-divide|digital divide]] and underrepresented-language infrastructure is a precondition for equitable AI, not a secondary concern.
 - **Representation matters in content and assessment:** AI-curated materials and automated assessment must reflect and not penalize diverse learners, cultures, languages, and knowledge systems.
 - **Pair access with support:** providing tools is insufficient; learners need skills, conditions, and culturally relevant [[scaffolding]] to benefit.
-- **Policy and governance:** institutional AI policy ([[educational-policy-ai]], [[governance]], [[ai-governance-education]]) must embed equity as a guiding principle.
+- **Policy and governance:** institutional AI policy ([[educational-policy-ai]], [[governance]], [[governance]]) must embed equity as a guiding principle.
 
 ## Connected Concepts
 

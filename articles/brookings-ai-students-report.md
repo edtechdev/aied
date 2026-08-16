@@ -35,7 +35,7 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 - [[k-12]]
 - [[llm]]
 - [[governance]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[over-reliance]]
 - [[well-being]]
 ## Connected Articles

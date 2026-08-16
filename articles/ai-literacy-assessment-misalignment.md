@@ -32,7 +32,7 @@ The low correlation between self-reported and objective-based factors is a stron
 - [[ai-literacy]]
 - [[teacher-ai-competency]]
 - [[metacognition]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[faculty-development]]
 - [[learning-analytics]]
 

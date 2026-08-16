@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-16 | **Total entries:** 804
+**Last updated:** 2026-08-16 | **Total entries:** 802
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
 
@@ -746,7 +746,6 @@
 ## 2026-05-29
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[ai-ed-evaluation]] — AI Ed Evaluation
-- [[ai-governance-education]] — AI Governance Education
 - [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
 - [[history-aware-student-simulation]] — Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues
 - [[human-ai-collaboration]] — Human AI Collaboration
@@ -908,7 +907,6 @@
 - [[engagement-assessment-video]] — Engagement Assessment in Video Learning
 - [[equity-in-ai-education]] — Equity in AI Education
 - [[generate-then-validate-question-gen]] — Generate-Then-Validate: Question Generation for Education
-- [[k-12-ai-education]] — K-12 AI Education
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
 - [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing

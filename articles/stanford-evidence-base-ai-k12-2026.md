@@ -3,7 +3,7 @@ title: "Stanford Evidence Base: AI in K-12 Education"
 created: 2026-07-29
 updated: 2026-08-15
 type: article
-tags: [k-12, ai-literacy, evidence, zone-of-proximal-development, k-12-ai-education, ai-tutoring, scaffolding]
+tags: [k-12, ai-literacy, evidence, zone-of-proximal-development, k-12, ai-tutoring, scaffolding]
 sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
 ---
@@ -32,7 +32,7 @@ The consistent pattern of immediate gains without durable transfer challenges th
 
 The superiority of pedagogically designed tools over general-purpose AI is actionable: it implies that simply giving students access to ChatGPT or similar chatbots is not merely suboptimal but potentially harmful. Effective AI in education requires deliberate instructional design — [[scaffolding]], [[zone-of-proximal-development|ZPD]]-aligned support, refusal to bypass student thinking, and integration with established learning activities. This connects to broader work on [[ai-pedagogical-orientation]] and the growing recognition that [[access-not-enough-ai-tutoring-2026|access to AI tutoring is not enough]] without thoughtful pedagogical integration.
 
-For the research community, the review functions as both a wake-up call and a roadmap. It identifies urgent priorities: long-term studies with delayed post-tests, research in authentic U.S. K-12 settings, studies of educator use and impact, and research designs that disentangle assisted performance from durable learning. The [[k-12-ai-education]] field urgently needs to move beyond descriptive and technical-computational papers (which together constitute 92% of the repository) toward rigorous causal designs.
+For the research community, the review functions as both a wake-up call and a roadmap. It identifies urgent priorities: long-term studies with delayed post-tests, research in authentic U.S. K-12 settings, studies of educator use and impact, and research designs that disentangle assisted performance from durable learning. The [[k-12]] field urgently needs to move beyond descriptive and technical-computational papers (which together constitute 92% of the repository) toward rigorous causal designs.
 
 ## Connected Concepts
 
@@ -40,7 +40,7 @@ For the research community, the review functions as both a wake-up call and a ro
 - [[cognitive-load-theory]]
 - [[desirable-difficulties]]
 - [[k-12]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[metacognition]]
 - [[rct]]
 - [[scaffolding]]

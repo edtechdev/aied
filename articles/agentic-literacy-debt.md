@@ -3,7 +3,7 @@ title: "Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has No
 created: 2026-05-28
 updated: 2026-08-14
 type: article
-tags: [agentic-ai, ai-literacy, equity, generative-ai, higher-ed, k-12, policy-maker, llm, ai-governance-education, trust-calibration, ethics]
+tags: [agentic-ai, ai-literacy, equity, generative-ai, higher-ed, k-12, policy-maker, llm, governance, trust-calibration, ethics]
 sources: ['raw/papers/2605.27396.md']
 confidence: high
 ---
@@ -55,7 +55,7 @@ These are structurally new competencies, not refinements. Design defaults are li
 ## Implications for AI Education
 
 1. **AI literacy curricula must add agentic delegation concepts** alongside traditional evaluation skills, for both [[k-12]] and [[higher-ed]].
-2. **Governance over evaluation** — the field should reframe literacy as the capacity to delegate, supervise, and contest autonomous action, connecting to [[ai-governance-education]].
+2. **Governance over evaluation** — the field should reframe literacy as the capacity to delegate, supervise, and contest autonomous action, connecting to [[governance]].
 3. **Address the responsibility asymmetry** — institutions that deploy agents incur the debt; learners and citizens pay it. Curriculum and [[governance]] must account for who bears the costs.
 4. **Design and policy must embed literacy**, not assume education alone can close a structural gap on a 5–7 year timeline.
 
@@ -64,7 +64,7 @@ These are structurally new competencies, not refinements. Design defaults are li
 - [[ai-literacy]]
 - [[agentic-ai]]
 - [[over-reliance]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[governance]]
 - [[trust-calibration]]
 - [[trust]]

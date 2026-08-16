@@ -27,7 +27,7 @@ Practitioners reported frequent use of **iterative prompting** and **content gen
 The study operationalizes AI as a **co-intelligent collaborator** following four tenets: (1) AI is fallible — always review, (2) AI supports not replaces higher-order thinking, (3) instructors should actively experiment, (4) instructor maintains agency. This framing aligns with ai-co-intelligence and [[human-ai-collaboration]] paradigms where the human remains the epistemic authority.
 
 ### Institutional Barriers
-Widespread lack of policy, training, and infrastructure was reported — consistent with findings across institutional-ai-readiness and [[ai-governance-education]]. Without institutional scaffolding, even motivated practitioners remain in ad-hoc, fragmented adoption patterns.
+Widespread lack of policy, training, and infrastructure was reported — consistent with findings across institutional-ai-readiness and [[governance]]. Without institutional scaffolding, even motivated practitioners remain in ad-hoc, fragmented adoption patterns.
 
 ## The DOT Framework
 
@@ -50,7 +50,7 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[human-in-the-loop-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[human-ai-collaboration]]
 
 ## Connected Articles

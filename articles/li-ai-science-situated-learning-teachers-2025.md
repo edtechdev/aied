@@ -8,7 +8,7 @@ tags:
   - science-education
   - stem-education
   - teacher-role
-  - k-12-ai-education
+  - k-12
   - constructivist
   - virtual-lab
   - simulation
@@ -41,7 +41,7 @@ Shang Li (2025) presents a qualitative study grounding AI integration in K-12 sc
 - [[intelligent-tutoring]]
 - [[stem-education]]
 - [[teacher-role]]
-- [[k-12-ai-education]]
+- [[k-12]]
 
 ## Connected Articles
 
