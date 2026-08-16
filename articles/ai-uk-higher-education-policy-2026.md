@@ -3,7 +3,7 @@ title: "Artificial Intelligence in UK Higher Educational Policy and Institutiona
 created: 2026-08-11
 updated: 2026-08-11
 type: article
-tags: [policy, higher-ed, ai-governance-education, ethics, equity, systematic-review, institutional-change, administrator]
+tags: [policy, higher-ed, governance, ethics, equity, systematic-review, institutional-change, administrator]
 sources: ['raw/papers/ai-uk-higher-education-policy-2026.md']
 confidence: high
 ---
@@ -22,16 +22,16 @@ confidence: high
 
 ## Implications
 
-This review speaks directly to [[educational-policy-ai]] and [[ai-governance-education]], showing how national policy intent can outpace institutional capacity in [[higher-ed]]. The documented gap between teaching-led and research-intensive institutions underscores [[equity-in-ai-education]] concerns and the risk that AI benefits accrue unevenly across the sector.
+This review speaks directly to [[educational-policy-ai]] and [[governance]], showing how national policy intent can outpace institutional capacity in [[higher-ed]]. The documented gap between teaching-led and research-intensive institutions underscores [[equity-in-ai-education]] concerns and the risk that AI benefits accrue unevenly across the sector.
 
 For administrators and [[educational-policy-ai]]-makers, the findings argue for participatory governance and infrastructure investment rather than purely aspirational strategy documents. The proposed layered framework connecting national policy, institutional infrastructure, and governance offers a concrete model for closing the ambition-capacity gap.
 
-The review also connects to broader debates about [[ethics]] and learner efficacy in AI adoption, and to [[ai-governance-education]] and technology-adoption dynamics in universities, resonating with the concept of [[dot-framework-survey-2026]] on digital transformation readiness.
+The review also connects to broader debates about [[ethics]] and learner efficacy in AI adoption, and to [[governance]] and technology-adoption dynamics in universities, resonating with the concept of [[dot-framework-survey-2026]] on digital transformation readiness.
 
 ## Connected Concepts
 
 - [[administrator]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[educational-policy-ai]]
 - [[equity-in-ai-education]]
 - [[ethics]]

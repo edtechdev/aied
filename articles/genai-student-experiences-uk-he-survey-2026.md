@@ -22,7 +22,7 @@ confidence: high
 
 For [[student-experience]] and [[higher-ed]] practice, the survey provides large-scale evidence that students are not uniformly outsourcing work — many regulate their own use, and a notable minority object outright. This complicates simple [[academic-integrity]] narratives and supports evidence-based, student-voice-driven [[educational-policy-ai]] rather than blanket prohibition.
 
-The tension between honest self-regulation and pervasive use across the assessment lifecycle bears on [[assessment]] design and on [[ethics]] education: institutions need policies that acknowledge legitimate [[generative-ai]] use while protecting learning. The multi-institution, internationally compared design makes this a strong empirical anchor for [[ai-governance-education]] and institutional practice.
+The tension between honest self-regulation and pervasive use across the assessment lifecycle bears on [[assessment]] design and on [[ethics]] education: institutions need policies that acknowledge legitimate [[generative-ai]] use while protecting learning. The multi-institution, internationally compared design makes this a strong empirical anchor for [[governance]] and institutional practice.
 
 ## Connected Concepts
 

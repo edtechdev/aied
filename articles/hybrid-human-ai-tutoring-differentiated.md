@@ -3,7 +3,7 @@ title: Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles B
 created: 2026-05-14
 updated: 2026-08-15
 type: article
-tags: [intelligent-tutoring, k-12, personalized-learning, efficacy-study, learning-gains, equity-in-ai-education, k-12-ai-education, ai-education]
+tags: [intelligent-tutoring, k-12, personalized-learning, efficacy-study, learning-gains, equity-in-ai-education, k-12, ai-education]
 sources: ['raw/papers/2605.11155.md']
 confidence: high
 ---

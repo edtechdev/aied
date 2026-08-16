@@ -27,7 +27,7 @@ Key tensions identified include the promise of [[intelligent-tutoring]] and [[le
 - [[faculty-development]]
 - [[teacher-role]]
 - [[adult-learning]]
-- [[ai-governance-education]]
+- [[governance]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]

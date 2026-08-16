@@ -26,12 +26,12 @@ This broad systematic review provides a comprehensive landscape of [[generative-
 
 The persistent challenges — [[academic-integrity]], [[bias-mitigation]]/algorithmic bias, [[hallucination-risk]], faculty readiness, and [[equity-in-ai-education]]/[[equity-in-ai-education]] — echo themes across the wiki and connect to [[ai-literacy]] and [[faculty-development]] needs. The review's identification of pedagogical innovations (new assessment designs, AI literacy curricula, human-AI collaborative models) aligns with [[human-ai-collaboration]] and [[human-in-the-loop-ai]] threads.
 
-For policy and practice, the review underscores that the faculty readiness gap and equity concerns remain the binding constraints on responsible GenAI integration, connecting to [[educational-policy-ai]] and [[ai-governance-education]].
+For policy and practice, the review underscores that the faculty readiness gap and equity concerns remain the binding constraints on responsible GenAI integration, connecting to [[educational-policy-ai]] and [[governance]].
 
 ## Connected Concepts
 
 - [[academic-integrity]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[ai-literacy]]
 - [[automated-assessment]]
 - [[bias-mitigation]]

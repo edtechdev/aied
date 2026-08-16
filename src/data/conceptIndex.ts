@@ -16,7 +16,7 @@ export const conceptIndex: ConceptSection[] = [
       { label: 'Core pedagogies', items: ['active-learning', 'learning-by-teaching', 'collaborative-learning', 'project-based-learning', 'experiential-learning', 'game-based-learning', 'gamification', 'scaffolding', 'socratic-method', 'self-regulated-learning', 'self-determination-theory', 'zone-of-proximal-development', 'desirable-difficulties', 'transfer-of-learning', 'metacognition', 'cognitive-load-theory', 'dual-process-theory', 'constructivist', 'behaviorism', 'learning-theories', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'storytelling-in-education', 'instructional-design'] },
       { label: 'Learning theories and processes', items: ['motivation', 'self-efficacy', 'help-seeking', 'student-engagement', 'engagement-metrics', 'feedback-loop', 'cognitive-diagnosis', 'student-modeling', 'knowledge-tracing', 'student-misconceptions-ai', 'simulating-students', 'icap-framework'] },
       { label: 'AI agents and interactions', items: ['ai-tutoring', 'intelligent-tutoring', 'pedagogical-agent', 'affective-tutoring', 'affective-computing', 'human-in-the-loop-ai', 'pedagogical-llm-training', 'social-robots', 'educational-robotics', 'human-robot-interaction'] },
-      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'language-learning', 'cs-education', 'programming-education', 'writing-education', 'stem-education', 'teacher-education', 'medical-education', 'humanities-education', 'k-12-ai-education', 'special-education', 'adult-learning', 'higher-ed', 'block-programming'] },
+      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'language-learning', 'cs-education', 'programming-education', 'writing-education', 'stem-education', 'teacher-education', 'medical-education', 'humanities-education', 'special-education', 'adult-learning', 'higher-ed', 'block-programming'] },
     ],
   },
   {
@@ -40,7 +40,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Learners', items: ['student-experience', 'well-being', 'social-emotional-learning', 'agency', 'creativity'] },
       { label: 'Teachers', items: ['teacher-role', 'teacher-ai-competency', 'tpack', 'faculty-development', 'pedagogical-safety'] },
-      { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'ai-governance-education', 'governance', 'regulation', 'privacy', 'open-source', 'edtech-platform', 'learning-analytics', 'lifelong-learning', 'professional-training', 'k-12'] },
+      { label: 'Institutions and systems', items: ['administrator', 'educational-policy-ai', 'governance', 'regulation', 'privacy', 'open-source', 'edtech-platform', 'learning-analytics', 'lifelong-learning', 'professional-training', 'k-12'] },
     ],
   },
   {

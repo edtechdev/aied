@@ -24,7 +24,7 @@ The wiki has dedicated concept pages for several subject areas:
 - **[[teacher-education]]** — the preparation and professional development of teachers (pre-service and in-service), a discipline in its own right whose AI research centers on teacher AI literacy, intelligent-TPACK, and readiness to integrate AI.
 - **[[medical-education]]** — clinical simulation, reinforcement-learning training, and foundational learning principles in health-professions education.
 - **[[humanities-education]]** — interpretive cognition, authorship, and meaning-making in humanities and social sciences.
-- **[[k-12-ai-education]]** and **[[higher-ed]]** — education about and with AI at each level.
+- **[[k-12]]** and **[[higher-ed]]** — education about and with AI at each level.
 
 ## Cross-disciplinary themes
 
@@ -78,7 +78,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[teacher-education]]
 - [[medical-education]]
 - [[humanities-education]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[higher-ed]]
 - [[ai-literacy]]
 - [[ai-tutoring]]

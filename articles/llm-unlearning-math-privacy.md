@@ -27,7 +27,7 @@ Online mathematics learning platforms increasingly adopt LLMs for scalable, on-d
 
 ## Implications for AI in Education
 
-For responsible deployment in educational settings, the work shows that **post-hoc unlearning is a viable complement to data curation**: models already trained on sensitive or unsafe classroom data can be steered toward safer behavior without retraining from scratch. The trade-off between safety and utility is managed rather than eliminated — privacy and harmfulness drop substantially (to 0.1% PII output rates under the harmful→PII order and 0.0% toxic rates on the external benchmark) while math-task performance is maintained. Practitioners should treat unlearning order as a design decision rather than a detail, since the two orders produced different privacy–safety balances. This supports [[pedagogical-safety]] and [[privacy]]-conscious design of LLM-based tutors in [[k-12]] mathematics contexts, where student data are especially sensitive, and connects to the broader [[ai-governance-education]] conversation about model-level mitigations alongside data curation and deployment policy.
+For responsible deployment in educational settings, the work shows that **post-hoc unlearning is a viable complement to data curation**: models already trained on sensitive or unsafe classroom data can be steered toward safer behavior without retraining from scratch. The trade-off between safety and utility is managed rather than eliminated — privacy and harmfulness drop substantially (to 0.1% PII output rates under the harmful→PII order and 0.0% toxic rates on the external benchmark) while math-task performance is maintained. Practitioners should treat unlearning order as a design decision rather than a detail, since the two orders produced different privacy–safety balances. This supports [[pedagogical-safety]] and [[privacy]]-conscious design of LLM-based tutors in [[k-12]] mathematics contexts, where student data are especially sensitive, and connects to the broader [[governance]] conversation about model-level mitigations alongside data curation and deployment policy.
 
 ## Limitations
 
@@ -40,7 +40,7 @@ The findings are limited to the Algebra I context in which unlearning was applie
 - [[k-12]]
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[llm]]
 - [[math-education]]
 - [[intelligent-tutoring]]

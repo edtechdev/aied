@@ -24,7 +24,7 @@ Li, Padman and Krishnan audit 102 US transplant-center patient handbooks that se
 - [[rag]] — grounding assistants in local handbook content
 - [[hallucination-risk]] — risk of inconsistent or unreliable AI-mediated answers
 - [[trust]] — patients relying on institution-provided guidance
-- [[ai-governance-education]] — institutional oversight of AI-mediated patient education
+- [[governance]] — institutional oversight of AI-mediated patient education
 - [[ai-education]] — AI use in patient and health-education contexts
 ## Connected Articles
 

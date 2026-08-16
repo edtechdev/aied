@@ -30,12 +30,12 @@ For system designers, the paper implies that [[ai-tutor-safety-harms]] framework
 
 The authors' emphasis on student voice — centering learner perspectives in design decisions — connects to the [[student-experience]] literature and the growing recognition that [[generative-ai-guardrails-harm-learning]] must be co-designed with the very populations they aim to protect.
 
-For educators and policymakers, this paper provides intellectual ammunition for resisting uncritical AI adoption. It suggests that [[regulation]] of educational AI should consider not just data privacy and bias but also cognitive and developmental outcomes — a position that resonates with calls in the [[ai-governance-education]] community for holistic evaluation frameworks.
+For educators and policymakers, this paper provides intellectual ammunition for resisting uncritical AI adoption. It suggests that [[regulation]] of educational AI should consider not just data privacy and bias but also cognitive and developmental outcomes — a position that resonates with calls in the [[governance]] community for holistic evaluation frameworks.
 
 ## Connected Concepts
 
 - [[over-reliance]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[cognitive-load-theory]]
 - [[pedagogical-safety]]
 - [[regulation]]

@@ -26,13 +26,13 @@ The PCHL-HE framework addresses a real pedagogical gap: as AI moves toward [[age
 
 For [[higher-ed]] and [[instructional-design]], the framework offers a taxonomy for [[ai-literacy]] curricula and for designing assignments that match task complexity to appropriate AI configurations — for example, using verified loops only where intermediate products and oversight matter, which bears on [[academic-integrity]] and [[assessment]]. The explicit attention to verification and human oversight connects to [[human-in-the-loop-ai]] and to debates about when AI-generated content is ready for use.
 
-The framework is conceptual and would benefit from empirical validation, but it provides a useful shared vocabulary for [[faculty-development]] and for institutional [[ai-governance-education]] conversations about tool selection and policy.
+The framework is conceptual and would benefit from empirical validation, but it provides a useful shared vocabulary for [[faculty-development]] and for institutional [[governance]] conversations about tool selection and policy.
 
 ## Connected Concepts
 
 - [[academic-integrity]]
 - [[agentic-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[faculty-development]]

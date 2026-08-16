@@ -75,7 +75,7 @@ The framework was piloted through a faculty workshop series in a university phys
 - [[stem-education]]
 - [[teacher-role]]
 - [[scaffolding]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[teacher-ai-competency]]
 - [[curriculum-design]]
 

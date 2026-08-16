@@ -19,7 +19,7 @@ The study surveyed 151 undergraduate students in Business Information Systems an
 These findings highlight a significant gap between [[regulation|institutional regulations]] and [[student-experience|student practices]]. The paper connects to insights from [[regulation]] on how policies are communicated, and to [[academic-integrity]] debates about effective AI governance. The authors call for improved policy communication and better integration of GenAI into teaching and learning contexts, recognizing that [[ai-literacy|regulatory awareness alone]] is insufficient to shape student behavior.
 
 ## Connected Concepts
-- [[ai-governance-education]]
+- [[governance]]
 
 - [[generative-ai]]
 - [[higher-ed]]

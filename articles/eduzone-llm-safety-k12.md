@@ -3,7 +3,7 @@ title: "EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Tea
 created: 2026-08-04
 updated: 2026-08-15
 type: article
-tags: [llm, k-12, pedagogical-safety, ai-tutor-safety-harms, benchmark, ai-governance-education]
+tags: [llm, k-12, pedagogical-safety, ai-tutor-safety-harms, benchmark, governance]
 sources: ['raw/papers/2608.02024.md']
 confidence: high
 ---
@@ -30,7 +30,7 @@ Results show greater vulnerability to education-specific risks and dynamic multi
 - [[ethics]]
 - [[benchmark]]
 - [[k-12]]
-- [[ai-governance-education]]
+- [[governance]]
 ## Connected Articles
 
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring

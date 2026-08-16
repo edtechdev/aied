@@ -24,14 +24,14 @@ The argument opens with a recognizable scene: a student submits a fluent essay a
 
 ## Implications for AI Governance
 
-The article translates the argument into a deployment-review question: what will people stop learning if this system works? Losing obsolete routines may be harmless, but losing the ability to set goals, give reasons, contest, and participate is not. The practical right of contestability is not a demand that everyone master every technical detail: a student need not reproduce every step of a model's generation to defend a claim made in a paper. Rather, each person needs a path from a problem they experience to reasons they can understand and, where appropriate, to a process that can revise the decision — a path that depends on trained intermediaries, accessible records, meaningful appeal, and public settings where reasons can be tested. The article warns that when privileged users can contest AI while marginalized users receive automated completion or automated suspicion, the institution has changed the distribution of expertise while calling the result access. For [[ai-governance-education]] and [[over-reliance]] debates, this reframes the goal of schooling: preserving capacities such as [[ethics]]-inflected judgment and accountable participation rather than maximizing efficient output generation.
+The article translates the argument into a deployment-review question: what will people stop learning if this system works? Losing obsolete routines may be harmless, but losing the ability to set goals, give reasons, contest, and participate is not. The practical right of contestability is not a demand that everyone master every technical detail: a student need not reproduce every step of a model's generation to defend a claim made in a paper. Rather, each person needs a path from a problem they experience to reasons they can understand and, where appropriate, to a process that can revise the decision — a path that depends on trained intermediaries, accessible records, meaningful appeal, and public settings where reasons can be tested. The article warns that when privileged users can contest AI while marginalized users receive automated completion or automated suspicion, the institution has changed the distribution of expertise while calling the result access. For [[governance]] and [[over-reliance]] debates, this reframes the goal of schooling: preserving capacities such as [[ethics]]-inflected judgment and accountable participation rather than maximizing efficient output generation.
 
 ## Connected Concepts
 
 - [[over-reliance]]
 - [[assessment]]
 - [[assessment-validity]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[ethics]]
 - [[cognitive-offloading]]
 - [[generative-ai]]
