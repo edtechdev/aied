@@ -7,7 +7,7 @@ tags: [equity, curriculum-design, culturally-sustaining-pedagogy, k-12, ai-liter
 confidence: high
 ---
 
-Culturally Relevant Pedagogy (CRP), introduced by Gloria Ladson-Billings (1995), centers marginalized students' cultural references in curriculum design. Wang et al. (2025) demonstrate that **LLMs can support K-12 teachers** in implementing CRP: 78% of teachers found AI suggestions helpful for diversifying curriculum materials.
+Culturally Relevant Pedagogy (CRP), introduced by Gloria Ladson-Billings (1995), centers marginalized students' cultural references in [[curriculum-design|curriculum design]]. Wang et al. (2025) demonstrate that **[[llm|LLMs]] can support [[k-12|K-12]] teachers** in implementing CRP: 78% of teachers found AI suggestions helpful for diversifying curriculum materials.
 
 ### Three Pillars of CRP
 1. **Academic Success:** Maintaining rigorous standards while honoring cultural identity
@@ -20,7 +20,7 @@ Culturally Relevant Pedagogy (CRP), introduced by Gloria Ladson-Billings (1995),
 - **Curriculum Auditing:** Automated analysis of representation gaps in existing materials
 
 ### Critical Considerations
-While AI tools can scaffold CRP implementation, they risk **reinforcing dominant narratives** if not carefully prompted. Teachers must retain agency in evaluating AI suggestions for cultural authenticity and community alignment.
+While AI tools can [[scaffolding|scaffold]] CRP implementation, they risk **reinforcing dominant narratives** if not carefully prompted. Teachers must retain [[agency]] in evaluating AI suggestions for cultural authenticity and community alignment.
 
 ## References
 

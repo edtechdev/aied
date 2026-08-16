@@ -1,13 +1,13 @@
 ---
 title: Robots in Education
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [educational-robotics, human-robot-interaction, computational-thinking, stem-education, k-12, higher-ed, programming-education, social-robots]
 confidence: high
 ---
 
-> **Robots in education (educational robotics)** — the use of physical or simulated robots as tools for teaching and learning. Educational robotics spans a wide spectrum: from programmable kits that teach computational thinking and programming, to socially assistive and humanoid robots that tutor, tell stories, model sign language, or rehearse social skills. It is valued for fostering problem solving, critical thinking, creativity, and STEAM engagement, and for making abstract computing concepts tangible through embodied interaction. The wiki's robotics corpus spans curriculum-integrated programming, LLM-powered conversational tutors, socially assistive storytelling robots, and role-play for social-emotional learning.
+> **Robots in education (educational robotics)** — the use of physical or simulated robots as tools for teaching and learning. Educational robotics spans a wide spectrum: from programmable kits that teach computational thinking and programming, to socially assistive and humanoid robots that tutor, tell stories, model sign language, or rehearse social skills. It is valued for fostering problem solving, [[critical-thinking|critical thinking]], [[creativity]], and STEAM engagement, and for making abstract computing concepts tangible through embodied interaction. The wiki's robotics corpus spans curriculum-integrated programming, LLM-powered conversational tutors, socially assistive storytelling robots, and role-play for social-emotional learning.
 
 Educational robotics is a distinct but closely related application of AI in education. Unlike software-only [[intelligent-tutoring|intelligent tutoring]] or [[llm|LLM]] chatbots, robots add an **embodied** and often **social** presence — a physical agent that learners can see, manipulate, and (increasingly) converse with. This embodiment is central to their pedagogical value: it grounds abstract program logic in observable behaviour, and it can support relationship-building and emotional engagement that disembodied systems cannot. The field overlaps with [[human-robot-interaction]] (the study of how people and robots interact) and [[social-robots]] (robots designed to engage people socially).
 

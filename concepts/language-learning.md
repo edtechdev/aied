@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: 2026-08-09
-updated: 2026-08-10
+updated: 2026-08-15
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity]
 confidence: high
@@ -9,7 +9,7 @@ confidence: high
 
 > **Language Learning** — the study of how AI supports second language (L2) acquisition, writing development, and linguistic diversity in educational settings. AI in education research in this wiki spans AI interlocutors for spoken dialogue, automated writing evaluation for L2 learners, reading support, and concerns about language bias in AI scoring systems.
 
-Language learning has emerged as a significant AI in education domain because language is inherently interactive — making it well-suited to conversational AI — and because AI's linguistic capabilities raise both opportunities (personalized language practice at scale) and risks (systematic bias against non-native language patterns). The articles in this wiki explore both sides of this equation.
+Language learning has emerged as a significant AI in education domain because language is inherently interactive — making it well-suited to conversational AI — and because AI's linguistic capabilities raise both opportunities ([[personalized-learning|personalized language practice]] at scale) and risks (systematic bias against non-native language patterns). The articles in this wiki explore both sides of this equation.
 
 **AI as language tutor and interlocutor** is the most developed theme. **[[ai-interlocutor-l2-spoken-dialogue|What Changes When the Interlocutor Is an AI?]]** examines interactional fluency and linguistic uptake when L2 learners converse with AI versus humans. **[[tact-pedagogically-adaptive-esl-tutoring|TACT]]** provides pedagogically adaptive ESL tutoring. **[[llm-children-reading-story-generation]]** explores AI-generated stories for children's reading development. These connect to [[intelligent-tutoring]] and [[generative-ai]].
 

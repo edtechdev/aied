@@ -1,7 +1,7 @@
 ---
 title: Embodied Learning
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [embodied-learning, educational-robotics, social-robots, computational-thinking, active-learning, situated-learning]
 confidence: high
@@ -9,7 +9,7 @@ confidence: high
 
 > **Embodied learning** — the pedagogical principle that learning is grounded in bodily experience, physical interaction, and the sensory-motor context of the learner. Embodied approaches hold that cognition is not purely abstract but shaped by the body and its interaction with the environment. In AI in education, embodiment is realized through [[educational-robotics|educational robots]] and [[social-robots|social robots]], whose physical presence grounds abstract concepts (such as program logic or social skills) in observable, manipulable behaviour.
 
-Embodied learning is closely related to [[active-learning]], [[experiential-learning]], and situated/constructivist theories. The key claim is that a physical, manipulable agent helps learners connect abstract ideas to concrete outcomes — a program that makes a robot move, or a role-play with a physical robot — in ways that pure screen-based interaction may not. Robotics is the clearest embodiment of AI in education, giving learners something to see, touch, and observe.
+Embodied learning is closely related to [[active-learning]], [[experiential-learning]], and situated/[[constructivist|constructivist]] theories. The key claim is that a physical, manipulable agent helps learners connect abstract ideas to concrete outcomes — a program that makes a robot move, or a role-play with a physical robot — in ways that pure screen-based interaction may not. Robotics is the clearest embodiment of AI in education, giving learners something to see, touch, and observe.
 
 ### How embodied learning appears in the wiki's research
 

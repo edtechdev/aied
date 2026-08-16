@@ -1,7 +1,7 @@
 ---
 title: Constructivism
 created: 2026-07-28
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [constructivism, learning-theory, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, instructional-design]
 confidence: high
@@ -22,7 +22,7 @@ Constructivism is a family of theories rather than a single doctrine, but its co
 
 ### AI for constructivist learning
 
-Well-designed AI can enable construction at scale. [[intelligent-tutoring]] and [[ai-tutoring]] systems can pose problems and guide [[help-seeking]] instead of giving away answers; [[simulation]] and [[game-based-learning]] environments let learners build and test mental models; and [[project-based-learning]] and [[experiential-learning]] activities supported by AI give learners authentic construction tasks. The central design pattern is **scaffolding** — calibrated support that fades as competence grows — rather than completion.^[[conversational-ai-tutors-framework]]^[[embodied-inquiry-ai-facilitator-physics-2026]]
+Well-designed AI can enable construction at scale. [[intelligent-tutoring]] and [[ai-tutoring]] systems can pose problems and guide [[help-seeking]] instead of giving away answers; [[simulation]] and [[game-based-learning]] environments let learners build and test mental models; and [[project-based-learning]] and [[experiential-learning]] activities supported by AI give learners authentic construction tasks. The central design pattern is **[[scaffolding]]** — calibrated support that fades as competence grows — rather than completion.^[[conversational-ai-tutors-framework]]^[[embodied-inquiry-ai-facilitator-physics-2026]]
 
 ### The risk of "constructivism in name, behaviorism in practice"
 

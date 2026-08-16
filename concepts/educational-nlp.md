@@ -11,7 +11,7 @@ confidence: medium
 
 ### What educational NLP does
 
-Natural language processing in education applies computational methods to the language of teaching and learning — student essays, responses, discussion posts, feedback, and instructional text. LLMs have dramatically expanded what can be analyzed automatically, enabling fine-grained understanding of student language that was previously impractical at scale.
+Natural language processing in education applies computational methods to the language of teaching and learning — student essays, responses, discussion posts, feedback, and instructional text. [[llm|LLMs]] have dramatically expanded what can be analyzed automatically, enabling fine-grained understanding of student language that was previously impractical at scale.
 
 ### Applications documented in the wiki
 

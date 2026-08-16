@@ -1,13 +1,13 @@
 ---
 title: Pedagogical Safety
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-08-15
 type: concept
 tags: [hallucination-risk, rag, k-12, ethics, regulation, ai-governance-education, llm, over-reliance]
 confidence: high
 ---
 
-> **Pedagogical safety** — the design principle that AI education systems must protect learners from harm, including inappropriate content, unsafe advice, biased treatment, and manipulative interaction patterns. Safety is particularly critical for K-12 contexts.
+> **Pedagogical safety** — the design principle that AI education systems must protect learners from harm, including inappropriate content, unsafe advice, biased treatment, and manipulative interaction patterns. Safety is particularly critical for [[k-12]] contexts.
 
 ### Safety dimensions
 

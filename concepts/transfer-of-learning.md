@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [transfer-of-learning, metacognition, cognitive-load-theory, desirable-difficulties, k-12, ai-tutoring, scaffolding, over-reliance]
 confidence: high
@@ -39,13 +39,13 @@ All five studies show a **negative or null transfer** pattern when general-purpo
 
 **Over-reliance / expertise reversal.** Novices given answers do not build schemas. General AI provides answers; effective tutoring provides structured guidance. When novices are given expert-level shortcuts, learning is disrupted — the [[desirable-difficulties]] principle in reverse.
 
-**Tool-dependent performance.** Students may optimize for the specific affordances of the AI tool (prompt engineering, reliance on generated code structure) rather than building domain generalization — a form of [[cognitive-offloading-speedup-illusion|cognitive offloading]] that feels productive but displaces durable learning.
+**Tool-dependent performance.** Students may optimize for the specific affordances of the AI tool ([[prompt-engineering|prompt engineering]], reliance on generated code structure) rather than building domain generalization — a form of [[cognitive-offloading-speedup-illusion|cognitive offloading]] that feels productive but displaces durable learning.
 
 ### Conditions supporting positive transfer
 
 The limited evidence suggests transfer is possible when:
 
-- **Pedagogical guardrails are present** — step-by-step hints, misconception targeting, Socratic questioning (Bastani et al., 2025 tutoring variant)
+- **Pedagogical guardrails are present** — step-by-step hints, misconception targeting, [[socratic-method|Socratic questioning]] (Bastani et al., 2025 tutoring variant)
 - **Traditional strategies are preserved** — note-taking paired with AI use improved retention (Kreijkes et al., 2026)
 - **AI is used for formative, not summative, practice** — scaffolding during learning, not during assessment
 - **Learner expertise is calibrated** — the tool adapts support to readiness rather than defaulting to full assistance

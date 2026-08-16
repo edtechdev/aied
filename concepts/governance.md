@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [policy, ethics, higher-ed, institutional-change, privacy, responsible-ai, regulation, ai-education]
 confidence: high
@@ -25,7 +25,7 @@ AI governance in education is increasingly urgent because generative AI introduc
 
 ### Governance across levels
 
-AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The wiki's research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including faculty development, transparent guidance, and ongoing evaluation.
+AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The wiki's research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including [[faculty-development|faculty development]], transparent guidance, and ongoing evaluation.
 
 ### Connections to related concepts
 

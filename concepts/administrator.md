@@ -7,14 +7,14 @@ tags: [administrator, policy-maker, higher-ed, generative-ai, llm, student-exper
 confidence: medium
 ---
 
-> **AI from the administrator perspective** — the institutional, leadership, and decision-making view of AI adoption, strategy, and governance in education. Administrators and institutional leaders shape whether and how AI is adopted — through policy, funding, infrastructure, and the strategic framing of AI's role — and must weigh competing concerns about learning, equity, risk, and organizational capacity.
+> **AI from the administrator perspective** — the institutional, leadership, and decision-making view of AI adoption, strategy, and governance in education. Administrators and institutional leaders shape whether and how AI is adopted — through policy, funding, infrastructure, and the strategic framing of AI's role — and must weigh competing concerns about learning, [[equity-in-ai-education|equity]], risk, and organizational capacity.
 
 AI adoption in education is not purely a classroom decision; it is also an institutional one. Administrators — provosts, deans, CIOs, and institutional leaders — set the conditions under which faculty and students use AI, balancing pedagogical opportunity against governance, resourcing, and risk.
 
 ### How the administrator perspective appears in the research
 
 - **Policy and institutional decision-making:** [[ai-uk-higher-education-policy-2026|UK higher-education AI policy research]] finds that AI integration is accelerating but fragmented, with a gap between high-level policy ambition and institutional implementation — a recurring theme for administrators navigating strategy without clear operational guidance.
-- **Well-being and student experience:** [[ai-campus-wellbeing-tools|AI campus well-being tools]] examine how institutions deploy AI for student support, linking administrator choices to student-experience outcomes.
+- **Well-being and student experience:** [[ai-campus-wellbeing-tools|AI campus well-being tools]] examine how institutions deploy AI for student support, linking administrator choices to [[student-experience]] outcomes.
 - **Governance and regulation:** Administrator decisions interact with [[educational-policy-ai]], [[ai-governance-education]], and [[regulation]] — institutions translate AI capability into acceptable-use frameworks, assessment rules, and data-governance standards (see [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]]).
 
 ### Connections

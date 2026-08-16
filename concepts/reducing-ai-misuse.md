@@ -33,7 +33,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 **Metacognitive and self-assessment interventions.** Reflective journals, prompt logs, and calibration training rebuild the "absent cognitive baseline" of AI-native students who cannot locate their own cognitive boundary because AI-generated fluency masks it. Conceptually central but not yet causally tested.
 
-**Motivation redesign.** Because AI availability erodes autonomous motivation ("why put in the effort?"), restructuring tasks around goals AI cannot fulfill and around learner agency directly targets the persistence erosion that compounds the direct harm.
+**Motivation redesign.** Because AI availability erodes [[motivation|autonomous motivation]] ("why put in the effort?"), restructuring tasks around goals AI cannot fulfill and around [[agency|learner agency]] directly targets the persistence erosion that compounds the direct harm.
 
 **Critical AI literacy.** A power-knowledge framing that teaches learners to interrogate, challenge, and participate in AI governance rather than consume it. Long-term, equity-oriented, and structural in its ambitions, though its learning effects are largely untested.
 

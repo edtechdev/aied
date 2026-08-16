@@ -20,7 +20,7 @@ Assessment is central to AI in education for two reasons. First, AI itself is us
 
 ## Validity and measurement challenges
 
-AI raises fundamental [[assessment-validity|validity]] questions: do AI-graded assessments measure student learning or AI-prompting skill? Does student use of AI invalidate traditional assessments? Key challenges include:
+AI raises fundamental [[assessment-validity|validity]] questions: do AI-graded assessments measure student learning or [[prompt-engineering|AI-prompting skill]]? Does student use of AI invalidate traditional assessments? Key challenges include:
 
 - **Construct validity:** [[competency-based-education-genai-production-2026|Research on competency-based education]] shows generative AI has severed the inference between performance and underlying ability — a learner may deliver professional-standard work they cannot reproduce without the tool. This motivates reconceptualising what competencies are assessed.
 - **Coauthorship and integrity:** [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|Coauthorship integrity]] proposes a new source of validity evidence violated when students submit AI-generated content they do not understand, and explores conversational "AI Vivas" as a response.

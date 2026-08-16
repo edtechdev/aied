@@ -1,15 +1,15 @@
 ---
 title: Academic Integrity
 created: 2026-08-09
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [assessment-validity, ai-literacy, plagiarism-detection, authentic-assessment, educational-policy-ai, regulation, higher-ed, k-12]
 confidence: high
 ---
 
-> **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The wiki documents how the concept has been reframed by generative AI: from a problem of detecting dishonest output to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity research in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and teaching students *how* to use AI well rather than merely policing whether they do.
+> **Academic integrity** — the ethical framework governing honest academic work in the age of AI. The wiki documents how the concept has been reframed by [[generative-ai|generative AI]]: from a problem of detecting dishonest output to a design problem of making honest work visible, verifiable, and worth producing. Academic integrity research in this space has evolved from detection-focused approaches toward fundamental assessment redesign, pedagogy-led governance, and teaching students *how* to use AI well rather than merely policing whether they do.
 
-The arrival of generative AI has not created the need for academic integrity — it has made weaknesses in existing approaches harder to ignore. A polished, plausible product can now be generated in seconds, so **product resemblance is an increasingly unreliable signal of capability**. This shifts the integrity question from *"can we catch AI use?"* to *"can our assessments still warrant the inferences we draw about student learning?"*
+The arrival of generative AI has not created the need for academic integrity — it has made weaknesses in existing approaches harder to ignore. A polished, plausible product can now be generated in seconds, so **product resemblance is an increasingly unreliable signal of capability**. This shifts the integrity question from *"can we catch AI use?"* to *"can our [[assessment|assessments]] still warrant the inferences we draw about student learning?"*
 
 ### The evolution from detection to redesign
 
@@ -20,7 +20,7 @@ The arrival of generative AI has not created the need for academic integrity —
 
 ### The rationalization problem
 
-Students do not generally misuse AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside pedagogical goals. This is why [[student-misconceptions-ai|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address ethical reasoning, not just technical skill.
+Students do not generally misuse AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside pedagogical goals. This is why [[student-misconceptions-ai|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address [[ethics|ethical reasoning]], not just technical skill.
 
 ### Why policy alone fails: the coordination problem
 

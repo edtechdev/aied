@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop AI for Education
 created: 2026-05-07
-updated: 2026-08-11
+updated: 2026-08-15
 type: concept
 tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
 confidence: medium
@@ -11,7 +11,7 @@ Educational AI systems that strategically interleave automated generation with h
 
 ## CODE-GEN: Human-in-the-Loop MCQ Generation
 
-Duan et al. (2026) built a RAG-based agentic system with two agents:
+Duan et al. (2026) built a [[rag|RAG]]-based [[agentic-ai|agentic]] system with two agents:
 - **Generator Agent** — Produces multiple-choice coding questions aligned with course learning objectives
 - **Validator Agent** — Assesses quality across seven pedagogical dimensions
 

@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [ai-education, educational-measurement, efficacy-study, rct, benchmark, methodology, evaluation, higher-ed]
 confidence: high
@@ -21,7 +21,7 @@ An **efficacy study** tests whether an intervention produces its intended learni
 
 ### Survey and structural-equation-modeling studies
 
-Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, self-efficacy, and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the wiki's corpus, particularly for acceptance, motivation, and psychological-mechanism questions.
+Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the wiki's corpus, particularly for acceptance, motivation, and psychological-mechanism questions.
 
 - **Strengths:** large samples; broad, low-cost coverage; can test complex mediational models of psychological mechanisms; feasible for studying attitudes that are hard to observe.
 - **Limitations:** cross-sectional data cannot establish causation; common-method/self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation.

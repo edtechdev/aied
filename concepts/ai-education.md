@@ -7,7 +7,7 @@ tags: [ai-education, ai-literacy, ai-tutoring, generative-ai, llm, higher-ed, k-
 confidence: high
 ---
 
-> **AI in Education (AIED)** — the broad, interdisciplinary field that applies artificial intelligence to teaching and learning, and studies its design, use, evaluation, and consequences. As the wiki's umbrella concept, AI in education encompasses **AI for education** (using AI to improve instruction and assessment) and **education about AI** (developing AI literacy and critical understanding). It sits at the intersection of instructional technology, learning science, computer science, educational policy, ethics, and equity. This page is an introduction to the field and a map to every concept the wiki covers.
+> **AI in Education (AIED)** — the broad, interdisciplinary field that applies artificial intelligence to teaching and learning, and studies its design, use, evaluation, and consequences. As the wiki's umbrella concept, AI in education encompasses **AI for education** (using AI to improve instruction and assessment) and **education about AI** (developing AI literacy and critical understanding). It sits at the intersection of instructional technology, learning science, computer science, [[educational-policy-ai|educational policy]], [[ethics]], and [[equity-in-ai-education|equity]]. This page is an introduction to the field and a map to every concept the wiki covers.
 
 AI in education is the umbrella that all other concept pages collectively define. The wiki organizes the field into the major strands below, each linking to the relevant concept pages.
 

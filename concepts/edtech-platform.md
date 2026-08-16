@@ -1,7 +1,7 @@
 ---
 title: Edtech Platform
 created: 2026-08-09
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [edtech-platform, ai-education, lms, online-education, generative-ai, llm, adaptive-learning, personalized-learning, k-12, higher-ed, equity]
 confidence: high
@@ -25,7 +25,7 @@ Platforms in AI in education perform several distinct functions:
 
 ### Take-up, not capability, is often the binding constraint
 
-A platform can be effective in principle yet fail in practice if learners do not use it. Two RCTs of an AI literacy (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.^[[access-not-enough-ai-tutoring-2026]]
+A platform can be effective in principle yet fail in practice if learners do not use it. Two [[rct|RCTs]] of an [[ai-literacy|AI literacy]] (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.^[[access-not-enough-ai-tutoring-2026]]
 
 ### Platform design and structure shape engagement, retention, and inclusivity
 
@@ -33,7 +33,7 @@ Analysis of 226,000+ user reviews across six major platforms (Coursera, edX, Ude
 
 ### The platform model matters: open vs. proprietary
 
-- **Proprietary platforms** create barriers to research: researchers who want to replicate or extend adaptive-learning experiments are often confined to a small number of closed platforms.
+- **Proprietary platforms** create barriers to research: researchers who want to replicate or extend [[adaptive-learning]] experiments are often confined to a small number of closed platforms.
 - **Open platforms** lower this barrier. **OATutor** is the first open-source adaptive tutoring system built on ITS principles — an MIT-licensed codebase with a Creative Commons algebra content library, [[knowledge-tracing]] mastery estimation, and built-in A/B testing — letting researchers fork, experiment, and publish the full end-to-end system.^[[oatutor-open-source-adaptive-tutor-2023]]
 
 ### AI-native platforms are reshaping online education

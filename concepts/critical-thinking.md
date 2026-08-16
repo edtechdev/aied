@@ -9,7 +9,7 @@ confidence: medium
 
 > **Critical thinking** — the ability to analyze, evaluate, and synthesize information — is both a skill that AI tools can help develop and a competency that students must apply when using AI. In AI in education research, critical thinking appears in two interrelated forms: as a learning objective (teaching students to think critically) and as a safeguard against uncritical AI reliance.
 
-Critical thinking is central to [[ai-literacy]] — students who cannot critically evaluate AI outputs are vulnerable to [[over-reliance]], hallucinated information, and biased recommendations. Research on [[cognitive-offloading]] shows that easy access to AI answers can displace critical engagement, while [[socratic-method|Socratic approaches]] that withhold direct answers preserve the cognitive effort necessary for deeper thinking.
+Critical thinking is central to [[ai-literacy]] — students who cannot critically evaluate AI outputs are vulnerable to [[over-reliance]], [[hallucination-risk|hallucinated information]], and biased recommendations. Research on [[cognitive-offloading]] shows that easy access to AI answers can displace critical engagement, while [[socratic-method|Socratic approaches]] that withhold direct answers preserve the cognitive effort necessary for deeper thinking.
 
 ### Critical thinking in AI education research
 

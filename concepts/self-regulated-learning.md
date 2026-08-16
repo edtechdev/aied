@@ -11,7 +11,7 @@ confidence: high
 
 SRL is the process whereby learners actively manage their own learning through three interrelated phases:
 
-1. **Forethought:** Goal setting, strategic planning, self-efficacy beliefs
+1. **Forethought:** Goal setting, strategic planning, [[self-efficacy]] beliefs
 2. **Performance:** Strategy deployment, self-observation, attention focusing
 3. **Self-reflection:** Self-evaluation, causal attribution, adaptation
 
@@ -40,7 +40,7 @@ In a randomized field experiment with 179 students over 22 days, two design prin
 
 ## AI Tools and the SRL–Motivation Reciprocal Loop
 
-A foundational principle of SRL theory is that self-regulation skills and motivation form a **reciprocal relationship**:
+A foundational principle of SRL theory is that self-regulation skills and [[motivation]] form a **reciprocal relationship**:
 
 - Better SRL → more successful learning → higher self-efficacy → stronger motivation
 - Higher motivation → more effortful engagement → better SRL practice

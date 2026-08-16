@@ -12,7 +12,7 @@ confidence: high
 ### How AI transforms teaching
 
 - **From instructor to orchestrator:** [[teacher-ai-teaming-five-levels|Five levels of teacher-AI teaming]] and [[teacher-student-agency-orchestration|agency orchestration research]] map the spectrum from AI as tool to AI as teaching partner.
-- **Workflow transformation:** [[ai-changing-teaching-workflows]] documents how AI shifts teacher time from content delivery to higher-value activities like individual support and curriculum design.
+- **Workflow transformation:** [[ai-changing-teaching-workflows]] documents how AI shifts teacher time from content delivery to higher-value activities like individual support and [[curriculum-design|curriculum design]].
 - **Competency demands:** [[teacher-ai-competency|Teacher AI competency frameworks]] define what educators need to know. [[teacher-ai-adoption-confidence|Adoption studies]] identify barriers: confidence, institutional support, and workload concerns.
 - **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers.
 - **Preservice preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[faculty-development]] programs prepare future teachers for AI-augmented classrooms.

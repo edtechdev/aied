@@ -9,7 +9,7 @@ confidence: medium
 
 > **Educational measurement** — the psychometric theory and methods for quantifying and validating learning and its constructs — runs through the wiki's [[item-response-theory]], [[knowledge-tracing]], and [[assessment-validity]] pages. The LLM era forces measurement to reconcile classical psychometrics with new AI-generated response streams: automated scoring, AI-predicted difficulty, and multimodal traces must be validated against established measurement principles to preserve reliability and validity.
 
-Educational measurement is the discipline of turning observations about learning — responses, behaviors, scores — into defensible quantitative claims. It encompasses construct definition, item/test design, scaling, reliability, and validity. In AI in education, measurement questions are everywhere: does a benchmark score measure what we think? Is an AI-generated grade reliable and valid? Do AI-predicted item difficulties agree with empirically estimated ones?
+Educational measurement is the discipline of turning observations about learning — responses, behaviors, scores — into defensible quantitative claims. It encompasses construct definition, item/test design, scaling, reliability, and validity. In AI in education, measurement questions are everywhere: does a [[benchmark|benchmark score]] measure what we think? Is an AI-generated grade reliable and valid? Do AI-predicted item difficulties agree with empirically estimated ones?
 
 ### How educational measurement appears in the research
 

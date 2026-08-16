@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [learning-by-teaching, teachable-agents, peer-tutoring, generative-ai, active-learning, explanation-effect, scaffolding, self-regulated-learning, cs-education]
 confidence: high
@@ -11,11 +11,11 @@ confidence: high
 
 ## The Protégé Effect
 
-Learning by teaching rests on the finding that preparing to teach and actually explaining to another person produces deeper processing than studying alone. The demands of teaching — articulating ideas, anticipating misunderstandings, and answering questions — force learners to organize knowledge, identify gaps in their own understanding, and generate explanations that support retention and transfer. Benefits are most evident in collaborative learning contexts and in well-structured domains that support teachable agents (e.g., Betty's Brain).
+Learning by teaching rests on the finding that preparing to teach and actually explaining to another person produces deeper processing than studying alone. The demands of teaching — articulating ideas, anticipating misunderstandings, and answering questions — force learners to organize knowledge, identify gaps in their own understanding, and generate explanations that support retention and transfer. Benefits are most evident in [[collaborative-learning]] contexts and in well-structured domains that support teachable agents (e.g., Betty's Brain).
 
 ## Teachable Agents: From Rule-Based to Conversational
 
-**Teachable agents** are the software systems through which learning by teaching is operationalized — a learner teaches a system as part of learning. Traditional teachable agents were rule-based or retrieval-based and could respond only to limited commands; their key limitation was an inability to engage in natural-language dialogue. Large language models change this: they can flexibly adopt roles via prompting — including the role of a "tutee" that asks questions or makes mistakes — and engage in open-ended dialogue, enabling LbT in less-structured domains (writing, vocabulary) than was previously possible.
+**Teachable agents** are the software systems through which learning by teaching is operationalized — a learner teaches a system as part of learning. Traditional teachable agents were rule-based or retrieval-based and could respond only to limited commands; their key limitation was an inability to engage in natural-language dialogue. [[llm|Large language models]] change this: they can flexibly adopt roles via prompting — including the role of a "tutee" that asks questions or makes mistakes — and engage in open-ended dialogue, enabling LbT in less-structured domains (writing, vocabulary) than was previously possible.
 
 The wiki's evidence base traces this shift to **conversational, LLM-based teachable agents**:
 
@@ -35,7 +35,7 @@ A central design challenge for LLM-based teachable agents is that LLMs are train
 Two further affordances recur across the wiki:
 
 - **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
-- **LbT scaffolds self-regulation.** Teaching a conversational agent fosters self-efficacy and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
+- **LbT scaffolds self-regulation.** Teaching a conversational agent fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
 
 ## Why It Matters in AI Education
 

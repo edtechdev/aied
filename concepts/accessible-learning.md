@@ -1,7 +1,7 @@
 ---
 title: Accessible Learning
 created: 2026-08-09
-updated: 2026-08-10
+updated: 2026-08-15
 type: concept
 tags: [accessible-learning, equity, special-education, instructional-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 confidence: high
@@ -9,7 +9,7 @@ confidence: high
 
 > **Accessible Learning** — the design and delivery of educational experiences that accommodate diverse learner needs, spanning physical, cognitive, sensory, and situational differences. In AI in education, accessible learning research examines both how AI tools can remove barriers for disabled and neurodivergent learners and how AI systems themselves must be designed to avoid creating new accessibility gaps.
 
-Accessible learning sits at the intersection of [[equity-in-ai-education]], [[instructional-design]], and [[special-education]]. Unlike narrow accommodations that retrofit access onto existing systems, the accessible learning perspective — grounded in Universal Design for Learning — argues that environments should be designed for the full range of human diversity from the start. The articles in this wiki explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with neurodivergent users' lived experience as the starting point.
+Accessible learning sits at the intersection of [[equity-in-ai-education]], [[instructional-design]], and [[special-education]]. Unlike narrow accommodations that retrofit access onto existing systems, the accessible learning perspective — grounded in [[universal-design-for-learning|Universal Design for Learning]] — argues that environments should be designed for the full range of human diversity from the start. The articles in this wiki explore how AI can enable this through automated content transformation, adaptive assessment interfaces, and tools designed with [[neurodiversity|neurodivergent users']] lived experience as the starting point.
 
 ### Key research themes
 
@@ -19,7 +19,7 @@ Accessible learning sits at the intersection of [[equity-in-ai-education]], [[in
 
 **Neurodivergent learner experiences** center the voices of disabled and neurodivergent students. **[[neurodivergent-computing-students|Zastudil et al.]]** found that neurodivergent computing students need structured assignments, small consistent teams, and explicit role definitions — preferences that AI tutoring and collaboration tools must accommodate. **[[dyslexlens-dyslexic-learners-ai|DysLexLens]]** analyzed dyslexic learners' forum discussions, revealing that while they value AI for literacy support, they face significant accessibility barriers from inconsistent output quality and lack of equitable accommodations. Both connect to [[special-education]] and [[student-experience]].
 
-**Disability-centered AI critique** examines how AI systems can marginalize rather than include. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that generative AI systems in higher education actively marginalize disability-centered ways of knowing due to Anglophone, Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
+**Disability-centered AI critique** examines how AI systems can marginalize rather than include. **[[genai-minoritized-knowledges-disability|Tali-Otmani]]** argues that [[generative-ai|generative AI]] systems in higher education actively marginalize disability-centered ways of knowing due to Anglophone, Western-centric training data — connecting to [[equity-in-ai-education]] concerns about epistemic justice.
 
 **Accessible tools in practice** shows how AI can expand participation. **[[suacode-african-students-motivations|SuaCode]]** demonstrated that smartphone-based coding courses reach students in low-resource African contexts where fewer than 1% have coding skills. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** worked with blind and low-vision musicians to develop non-visual learning strategies, centering disability-led embodied design. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** provides a no-cost, private, multilingual AI thought partner connecting educators with UDL principles. **[[special-r1-rl-special-education|Special-R1]]** extends reinforcement learning to model cognitive and communicative diversity across disability profiles.
 

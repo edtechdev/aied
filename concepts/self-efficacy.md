@@ -1,13 +1,13 @@
 ---
 title: Self-Efficacy
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [self-efficacy, motivation, confidence, self-regulated-learning, student-experience, ai-literacy]
 confidence: high
 ---
 
-> **Self-efficacy** — a learner's belief in their capability to successfully perform a task or achieve a goal. Drawing on social cognitive theory (Bandura), self-efficacy shapes motivation, effort, persistence, and learning engagement. In AI in education, self-efficacy matters in two ways: AI tools can build learners' confidence and autonomy (e.g., by providing feedback and scaffolding), and learners' AI self-efficacy — their confidence in using AI technologies — influences how effectively they engage with AI, including how AI-related knowledge translates into career-relevant readiness.
+> **Self-efficacy** — a learner's belief in their capability to successfully perform a task or achieve a goal. Drawing on social cognitive theory (Bandura), self-efficacy shapes motivation, effort, persistence, and learning engagement. In AI in education, self-efficacy matters in two ways: AI tools can build learners' confidence and autonomy (e.g., by providing [[feedback]] and [[scaffolding]]), and learners' AI self-efficacy — their confidence in using AI technologies — influences how effectively they engage with AI, including how AI-related knowledge translates into career-relevant readiness.
 
 Self-efficacy is distinct from actual competence: it is a belief about capability that drives behaviour. It is closely related to — and often used interchangeably with — the everyday notion of *confidence* in one's abilities. Self-efficacy connects closely to [[motivation]], [[self-regulated-learning]], and [[student-experience]]. In the AI context, AI self-efficacy (confidence in working with AI) is a distinct construct from AI literacy, and research shows it plays a crucial role in whether learners actually activate and apply AI-related knowledge.
 

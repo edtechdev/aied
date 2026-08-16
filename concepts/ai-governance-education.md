@@ -7,9 +7,9 @@ tags: [educational-policy-ai, governance, regulation, privacy, ethics, academic-
 confidence: medium
 ---
 
-> **AI governance education** — how institutions and educators translate AI capability into responsible-use frameworks, policy, and the teaching of those frameworks. It spans institutional policy (acceptable-use, assessment, and data rules), the regulation and privacy landscape that shapes them, and education about governance itself so that students, faculty, and leaders understand and apply responsible-AI expectations.
+> **AI governance education** — how institutions and educators translate AI capability into responsible-use frameworks, policy, and the teaching of those frameworks. It spans institutional policy (acceptable-use, assessment, and data rules), the [[regulation]] and [[privacy]] landscape that shapes them, and education about governance itself so that students, faculty, and leaders understand and apply responsible-AI expectations.
 
-AI governance in education operates at two levels that the wiki treats together: the *institutional rules* that govern AI use (policies, acceptable-use frameworks, assessment and declaration requirements) and *education about those rules* (preparing people to navigate them). Governance without education risks being unenforced or opaque; education without governance lacks teeth.
+AI governance in education operates at two levels that the wiki treats together: the *institutional rules* that govern AI use (policies, acceptable-use frameworks, [[assessment]] and declaration requirements) and *education about those rules* (preparing people to navigate them). Governance without education risks being unenforced or opaque; education without governance lacks teeth.
 
 ### How AI governance education appears in the research
 
