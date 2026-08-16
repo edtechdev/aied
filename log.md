@@ -5,6 +5,12 @@
 - Back-links added to 14 concept pages; enriched cognitive-offloading umbrella with cognitive-debt + episodic/habitual offloading distinction from the critical-thinking-paradox paper.
 - Filtered out ~166 older/off-topic candidates (June/July 2026 CAEAI/CEAO backlog + non-AI-ed Frontiers psychology papers) — available for a future broader ingest.
 - Updated index.md (823), journal.md (785).
+## [2026-08-16] ingest | CEAO batch (21 full-text + 1 upgraded) + new Teacher Education concept
+
+- Ingested 21 new CEAO (Computers and Education Open) articles from full-text PDFs sent by Doug (teacher education, AI literacy, assessment, LLM feedback, AI-TPACK, ChatGPT use), upgraded 1 existing (llms-text-linguistics) with full text, created 22 raw sources.
+- Created new concept page [[teacher-education]] (pre-service + in-service teacher preparation/PD) — spans 11+ articles; integrated into conceptIndex.ts left-nav (Subject areas), ai-education hub, discipline-specific-aied overview, + back-links from 13 concept pages; inline links added to body.
+- Updated index.md (839), journal.md (804).
+
 ## [2026-08-16] add | new overview concept: AIEd in the Disciplines
 
 - Created [[discipline-specific-aied]] — an umbrella concept page organizing the wiki's discipline-specific AIEd coverage (math, physics, CS, programming, writing, language, STEM, medical, humanities) with cross-disciplinary themes, signature pedagogies/methods/theories per discipline, and a survey of underrepresented disciplines (business/econ, law, psychology, history, arts).

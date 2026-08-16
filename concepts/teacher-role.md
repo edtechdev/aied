@@ -50,6 +50,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[distributed-cognition]]
 - [[situated-learning]]
 - [[critical-pedagogy]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
