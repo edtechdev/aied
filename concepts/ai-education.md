@@ -100,7 +100,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[discipline-specific-aied]]
 
 ## Connected Articles
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]]

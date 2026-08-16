@@ -40,8 +40,6 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[llm]]
 
 ## Connected Articles
-- [[multidimensional-engagement-small-groups-multimodal-2026]] — Multidimensional engagement in small groups (multimodal)
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[ai-guided-learning-audiovideo-2026]]
 
