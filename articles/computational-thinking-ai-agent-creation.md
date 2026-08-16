@@ -3,7 +3,7 @@ title: "Computational Thinking Development in AI Agent Creation: A Mixed-Methods
 created: 2026-05-15
 updated: 2026-08-15
 type: article
-tags: [k-12, ai-literacy, stem-education, scaffolding, personalized-learning, k-12-ai-education, computational-thinking, metacognition, ai-education]
+tags: [k-12, ai-literacy, stem-education, scaffolding, personalized-learning, k-12, computational-thinking, metacognition, ai-education]
 sources: ['raw/papers/2605.14330.md']
 confidence: high
 ---
@@ -26,7 +26,7 @@ This mixed-methods study examines how **93 pre-high school students** develop [[
 - **High-CT students** risked **over-engineering** — creating unnecessarily complex solutions
 - **Low-CT students** struggled with **task decomposition** — breaking problems into manageable parts
 
-These findings challenge linear learning assumptions in [[k-12-ai-education]] and provide direct evidence for **differentiated scaffolding** in CT education. The Optimal Development Zone concept parallels [[ai-metacognition-stem-review]] findings on tailoring AI support to student readiness. The study also contributes to the [[ai-literacy]] evidence base by showing that no-code AI agent creation platforms can effectively develop CT in young learners, complementing work on [[agentic-education-coding]] with older students using coding assistants.
+These findings challenge linear learning assumptions in [[k-12]] and provide direct evidence for **differentiated scaffolding** in CT education. The Optimal Development Zone concept parallels [[ai-metacognition-stem-review]] findings on tailoring AI support to student readiness. The study also contributes to the [[ai-literacy]] evidence base by showing that no-code AI agent creation platforms can effectively develop CT in young learners, complementing work on [[agentic-education-coding]] with older students using coding assistants.
 
 ## Connected Concepts
 
@@ -34,7 +34,7 @@ These findings challenge linear learning assumptions in [[k-12-ai-education]] an
 - [[ai-literacy]]
 - [[computational-thinking]]
 - [[k-12]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[scaffolding]]
 - [[self-efficacy]]
 

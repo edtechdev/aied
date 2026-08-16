@@ -29,7 +29,7 @@ Aligned with the UNESCO AI Competency Framework for Teachers and the OECD/Europe
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[ai-education]]
 - [[curriculum-design]]
 

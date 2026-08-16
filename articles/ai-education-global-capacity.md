@@ -33,7 +33,7 @@ While AI tools are globally available, the critical variable is local absorption
 
 ## Connected Concepts
 - [[educational-policy-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 
 - [[ai-literacy]]
 - [[equity-in-ai-education]]

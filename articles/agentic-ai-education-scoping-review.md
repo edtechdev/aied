@@ -77,7 +77,7 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 - [[student-experience]]
 - [[meta-analysis-systematic-review]]
 - [[equity-in-ai-education]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[academic-integrity]]
 
 - [[ai-literacy]]

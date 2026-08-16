@@ -3,7 +3,7 @@ title: "Mathematical Modelling of Ethical AI Use in Higher Education: A Coordina
 created: 2026-05-28
 updated: 2026-08-14
 type: article
-tags: [higher-ed, academic-integrity, generative-ai, policy-maker, regulation, llm, ai-literacy, formative-assessment, motivation, educational-policy-ai, ai-governance-education]
+tags: [higher-ed, academic-integrity, generative-ai, policy-maker, regulation, llm, ai-literacy, formative-assessment, motivation, educational-policy-ai, governance]
 sources: ['raw/papers/2605.27400.md']
 confidence: high
 ---
@@ -48,7 +48,7 @@ Across the model results, a consistent pattern emerges: **responsible AI use doe
 - [[over-reliance]]
 - [[regulation]]
 - [[educational-policy-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[assessment]]
 - [[formative-assessment]]
 - [[motivation]]

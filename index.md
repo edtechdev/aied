@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-16 | **Total pages:** 839
+**Last updated:** 2026-08-16 | **Total pages:** 837
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -82,7 +82,6 @@
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
 - [[ai-generated-smartphone-circular-motion-lab-2026]] — Studying Circular Motion with an AI-Generated Smartphone Physics Lab
 - [[ai-generated-traces-novice-programmers]] — AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study
-- [[ai-governance-education]] — AI Governance Education
 - [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
 - [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
 - [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
@@ -473,7 +472,6 @@
 - [[jin-glat-genai-literacy-assessment]] — GLAT: The Generative AI Literacy Assessment Test
 - [[jost-llm-programming-education-learning-outcomes]] — The Impact of Large Language Models on Programming Education and Student Learning Outcomes
 - [[k-12]] — K-12 AI Education
-- [[k-12-ai-education]] — K-12 AI Education
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning in the artificial intelligence era: an updated systematic review from 2019 to 2025
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design Requirements for Generative Social Robots in Higher Education

@@ -23,7 +23,7 @@ The study contributes a transferable blind-verification protocol for evaluating 
 
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[equity-in-ai-education]]
 - [[ai-education]]
 - [[ai-ed-evaluation]]

@@ -24,7 +24,7 @@ The article provides a procedural account (what LLMs can do, in which phases, un
 - [[formative-assessment]]
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[ai-education]]
 - [[human-in-the-loop-ai]]
 - [[automated-essay-scoring]]

@@ -3,7 +3,7 @@ title: "Systematic Review of Collaborative Learning Activities for Promoting AI 
 created: 2026-07-29
 updated: 2026-08-15
 type: article
-tags: [ai-literacy, collaborative-learning, instructional-design, ai-literacy-assessment-misalignment, k-12-ai-education, llm, higher-ed]
+tags: [ai-literacy, collaborative-learning, instructional-design, ai-literacy-assessment-misalignment, k-12, llm, higher-ed]
 sources: ['raw/papers/hingle-collaborative-ai-literacy-2025.md']
 confidence: medium
 ---
@@ -28,14 +28,14 @@ The review's findings have direct implications for [[instructional-design]] prac
 
 For the [[collaborative-learning]] research community, this review provides a structured taxonomy for designing and evaluating AI literacy interventions. The ICAP framework offers a common vocabulary for comparing approaches and identifying which engagement modes are most impactful for different AI literacy competencies — an important step toward building the cumulative science called for in the [[ai-literacy-assessment-misalignment]] literature.
 
-Practically, the findings support the integration of collaborative AI literacy activities into existing [[k-12-ai-education]] curricula and [[faculty-development]] programs. The success of interventions that involve families and community members suggests that AI literacy is not solely a school-based competency but a societal one — a perspective aligned with [[ai-education-global-capacity]] and [[ai-lifelong-learning-policy]].
+Practically, the findings support the integration of collaborative AI literacy activities into existing [[k-12]] curricula and [[faculty-development]] programs. The success of interventions that involve families and community members suggests that AI literacy is not solely a school-based competency but a societal one — a perspective aligned with [[ai-education-global-capacity]] and [[ai-lifelong-learning-policy]].
 
 Looking forward, the review highlights the potential for [[icap-cognitive-engagement-llm-agents]] research to further enrich collaborative AI literacy instruction by designing LLM-based agents that can serve as interactive learning partners within ICAP-structured activities, extending the social dimension of learning beyond human peers.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[higher-ed]]
 - [[llm]]
 - [[collaborative-learning]]

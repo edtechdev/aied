@@ -3,7 +3,7 @@ title: Pedagogical Safety
 created: 2026-08-09
 updated: 2026-08-15
 type: concept
-tags: [hallucination-risk, rag, k-12, ethics, regulation, ai-governance-education, llm, over-reliance]
+tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, over-reliance]
 confidence: high
 ---
 
@@ -22,7 +22,7 @@ The wiki advocates safety as a design requirement, not an afterthought. [[pedago
 
 ### Connections
 
-Pedagogical safety connects to [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[regulation]], [[ai-governance-education]], and [[llm]]. It is the protective layer that enables safe AI education deployment.
+Pedagogical safety connects to [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[regulation]], [[governance]], and [[llm]]. It is the protective layer that enables safe AI education deployment.
 
 ## Connected Concepts
 
@@ -31,7 +31,7 @@ Pedagogical safety connects to [[hallucination-risk]], [[rag]], [[k-12]], [[ethi
 - [[k-12]]
 - [[ethics]]
 - [[regulation]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[llm]]
 - [[over-reliance]]
 - [[ai-tutoring]]

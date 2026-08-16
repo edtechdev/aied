@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 693 articles and 146 concepts.
+> Complete text of 693 articles and 144 concepts.
 
 # Articles
 
@@ -489,7 +489,7 @@ AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated In
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[curriculum-design]]
 - [[adaptive-learning]]
 - [[personalized-learning]]
@@ -913,7 +913,7 @@ The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-
 - [[student-experience]]
 - [[meta-analysis-systematic-review]]
 - [[equity-in-ai-education]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[academic-integrity]]
 
 - [[ai-literacy]]
@@ -1146,7 +1146,7 @@ These are structurally new competencies, not refinements. Design defaults are li
 ## Implications for AI Education
 
 1. **AI literacy curricula must add agentic delegation concepts** alongside traditional evaluation skills, for both [[k-12]] and [[higher-ed]].
-2. **Governance over evaluation** — the field should reframe literacy as the capacity to delegate, supervise, and contest autonomous action, connecting to [[ai-governance-education]].
+2. **Governance over evaluation** — the field should reframe literacy as the capacity to delegate, supervise, and contest autonomous action, connecting to [[governance]].
 3. **Address the responsibility asymmetry** — institutions that deploy agents incur the debt; learners and citizens pay it. Curriculum and [[governance]] must account for who bears the costs.
 4. **Design and policy must embed literacy**, not assume education alone can close a structural gap on a 5–7 year timeline.
 
@@ -1155,7 +1155,7 @@ These are structurally new competencies, not refinements. Design defaults are li
 - [[ai-literacy]]
 - [[agentic-ai]]
 - [[over-reliance]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[governance]]
 - [[trust-calibration]]
 - [[trust]]
@@ -1356,7 +1356,7 @@ The study contributes a transferable blind-verification protocol for evaluating 
 
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[equity-in-ai-education]]
 - [[ai-education]]
 - [[ai-ed-evaluation]]
@@ -2465,7 +2465,7 @@ While AI tools are globally available, the critical variable is local absorption
 
 ## Connected Concepts
 - [[educational-policy-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
@@ -2603,7 +2603,7 @@ Olya Kudina (2026). [Using AI in engineering education: a balancing act, driven 
 - [[academic-integrity]]
 - [[ai-literacy]]
 - [[ethics]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[bias-mitigation]]
 - [[governance]]
 - [[ai-education]]
@@ -3523,7 +3523,7 @@ Key tensions identified include the promise of [[intelligent-tutoring]] and [[le
 - [[faculty-development]]
 - [[teacher-role]]
 - [[adult-learning]]
-- [[ai-governance-education]]
+- [[governance]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]
@@ -3562,7 +3562,7 @@ The low correlation between self-reported and objective-based factors is a stron
 - [[ai-literacy]]
 - [[teacher-ai-competency]]
 - [[metacognition]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[faculty-development]]
 - [[learning-analytics]]
 
@@ -3819,7 +3819,7 @@ For education, the argument shifts the goal of AI literacy instruction from comp
 - [[curriculum-design]]
 - [[student-experience]]
 - [[teacher-ai-competency]]
-- [[k-12-ai-education]]
+- [[k-12]]
 
 ## Connected Articles
 
@@ -5083,16 +5083,16 @@ Udeshi, T., Khazenzon, A., Khan, K., Breen, N., Corwin, R. J., DiGiano, C., Weat
 
 ## Implications
 
-This review speaks directly to [[educational-policy-ai]] and [[ai-governance-education]], showing how national policy intent can outpace institutional capacity in [[higher-ed]]. The documented gap between teaching-led and research-intensive institutions underscores [[equity-in-ai-education]] concerns and the risk that AI benefits accrue unevenly across the sector.
+This review speaks directly to [[educational-policy-ai]] and [[governance]], showing how national policy intent can outpace institutional capacity in [[higher-ed]]. The documented gap between teaching-led and research-intensive institutions underscores [[equity-in-ai-education]] concerns and the risk that AI benefits accrue unevenly across the sector.
 
 For administrators and [[educational-policy-ai]]-makers, the findings argue for participatory governance and infrastructure investment rather than purely aspirational strategy documents. The proposed layered framework connecting national policy, institutional infrastructure, and governance offers a concrete model for closing the ambition-capacity gap.
 
-The review also connects to broader debates about [[ethics]] and learner efficacy in AI adoption, and to [[ai-governance-education]] and technology-adoption dynamics in universities, resonating with the concept of [[dot-framework-survey-2026]] on digital transformation readiness.
+The review also connects to broader debates about [[ethics]] and learner efficacy in AI adoption, and to [[governance]] and technology-adoption dynamics in universities, resonating with the concept of [[dot-framework-survey-2026]] on digital transformation readiness.
 
 ## Connected Concepts
 
 - [[administrator]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[educational-policy-ai]]
 - [[equity-in-ai-education]]
 - [[ethics]]
@@ -5895,7 +5895,7 @@ Gheisari and Salarian (2026) apply supervised machine learning classification to
 
 ## Implications
 
-The work positions ML prediction as a tool for strategic, proactive retention in [[higher-ed]], complementing [[student-modeling]] of learning states with institutional risk modeling. Applying predictive models to sensitive student data raises [[privacy]] and [[equity-in-ai-education]] concerns: interventions triggered by algorithmic risk scores must avoid bias and be deployed transparently, tying this work to broader [[ai-governance-education]] and [[ai-ed-evaluation]] discussions on responsible, measurable use of student analytics.
+The work positions ML prediction as a tool for strategic, proactive retention in [[higher-ed]], complementing [[student-modeling]] of learning states with institutional risk modeling. Applying predictive models to sensitive student data raises [[privacy]] and [[equity-in-ai-education]] concerns: interventions triggered by algorithmic risk scores must avoid bias and be deployed transparently, tying this work to broader [[governance]] and [[ai-ed-evaluation]] discussions on responsible, measurable use of student analytics.
 
 ## Connected Concepts
 
@@ -6849,7 +6849,7 @@ A yearlong global "premortem" by the Brookings Center for Universal Education (2
 - [[k-12]]
 - [[llm]]
 - [[governance]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[over-reliance]]
 - [[well-being]]
 ## Connected Articles
@@ -7932,7 +7932,7 @@ Civic education is a uniquely high-stakes domain for AI application because:
 - [[formative-assessment]]
 - [[regulation]]
 - [[human-in-the-loop-ai]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[pedagogical-llm-training]]
 - [[teacher-ai-competency]]
 - [[k-12]]
@@ -8879,7 +8879,7 @@ This mixed-methods study examines how **93 pre-high school students** develop [[
 - **High-CT students** risked **over-engineering** — creating unnecessarily complex solutions
 - **Low-CT students** struggled with **task decomposition** — breaking problems into manageable parts
 
-These findings challenge linear learning assumptions in [[k-12-ai-education]] and provide direct evidence for **differentiated scaffolding** in CT education. The Optimal Development Zone concept parallels [[ai-metacognition-stem-review]] findings on tailoring AI support to student readiness. The study also contributes to the [[ai-literacy]] evidence base by showing that no-code AI agent creation platforms can effectively develop CT in young learners, complementing work on [[agentic-education-coding]] with older students using coding assistants.
+These findings challenge linear learning assumptions in [[k-12]] and provide direct evidence for **differentiated scaffolding** in CT education. The Optimal Development Zone concept parallels [[ai-metacognition-stem-review]] findings on tailoring AI support to student readiness. The study also contributes to the [[ai-literacy]] evidence base by showing that no-code AI agent creation platforms can effectively develop CT in young learners, complementing work on [[agentic-education-coding]] with older students using coding assistants.
 
 ## Connected Concepts
 
@@ -8887,7 +8887,7 @@ These findings challenge linear learning assumptions in [[k-12-ai-education]] an
 - [[ai-literacy]]
 - [[computational-thinking]]
 - [[k-12]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[scaffolding]]
 - [[self-efficacy]]
 
@@ -9186,7 +9186,7 @@ The Evaluation phase closes the loop by connecting student performance data to i
 
 ## Connected Concepts
 
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
 - [[culturally-relevant-pedagogy]]
@@ -9610,7 +9610,7 @@ Generative AI undermines a basic premise of educational assessment: that submitt
 - [[academic-integrity]]
 - [[generative-ai]]
 - [[governance]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[cognitive-offloading]]
 - [[trust]]
 - [[authentic-assessment]]
@@ -10704,7 +10704,7 @@ Practitioners reported frequent use of **iterative prompting** and **content gen
 The study operationalizes AI as a **co-intelligent collaborator** following four tenets: (1) AI is fallible — always review, (2) AI supports not replaces higher-order thinking, (3) instructors should actively experiment, (4) instructor maintains agency. This framing aligns with ai-co-intelligence and [[human-ai-collaboration]] paradigms where the human remains the epistemic authority.
 
 ### Institutional Barriers
-Widespread lack of policy, training, and infrastructure was reported — consistent with findings across institutional-ai-readiness and [[ai-governance-education]]. Without institutional scaffolding, even motivated practitioners remain in ad-hoc, fragmented adoption patterns.
+Widespread lack of policy, training, and infrastructure was reported — consistent with findings across institutional-ai-readiness and [[governance]]. Without institutional scaffolding, even motivated practitioners remain in ad-hoc, fragmented adoption patterns.
 
 ## The DOT Framework
 
@@ -10727,7 +10727,7 @@ This study provides the *first empirical evidence* supporting DOT as a descripti
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[human-in-the-loop-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[human-ai-collaboration]]
 
 ## Connected Articles
@@ -10926,7 +10926,7 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 - [[self-regulated-learning]]
 - [[affective-tutoring]]
 - [[regulation]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[student-modeling]]
 - [[privacy]]
 ## Connected Articles
@@ -11438,7 +11438,7 @@ Results show greater vulnerability to education-specific risks and dynamic multi
 - [[ethics]]
 - [[benchmark]]
 - [[k-12]]
-- [[ai-governance-education]]
+- [[governance]]
 ## Connected Articles
 
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
@@ -12227,7 +12227,7 @@ Across the model results, a consistent pattern emerges: **responsible AI use doe
 - [[over-reliance]]
 - [[regulation]]
 - [[educational-policy-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[assessment]]
 - [[formative-assessment]]
 - [[motivation]]
@@ -12525,12 +12525,12 @@ For system designers, the paper implies that [[ai-tutor-safety-harms]] framework
 
 The authors' emphasis on student voice — centering learner perspectives in design decisions — connects to the [[student-experience]] literature and the growing recognition that [[generative-ai-guardrails-harm-learning]] must be co-designed with the very populations they aim to protect.
 
-For educators and policymakers, this paper provides intellectual ammunition for resisting uncritical AI adoption. It suggests that [[regulation]] of educational AI should consider not just data privacy and bias but also cognitive and developmental outcomes — a position that resonates with calls in the [[ai-governance-education]] community for holistic evaluation frameworks.
+For educators and policymakers, this paper provides intellectual ammunition for resisting uncritical AI adoption. It suggests that [[regulation]] of educational AI should consider not just data privacy and bias but also cognitive and developmental outcomes — a position that resonates with calls in the [[governance]] community for holistic evaluation frameworks.
 
 ## Connected Concepts
 
 - [[over-reliance]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[cognitive-load-theory]]
 - [[pedagogical-safety]]
 - [[regulation]]
@@ -13697,7 +13697,7 @@ This domain-specific approach is proposed as a foundation for fostering more hon
 - [[educational-policy-ai]]
 - [[student-experience]]
 - [[regulation]]
-- [[ai-governance-education]]
+- [[governance]]
 
 ## Connected Articles
 
@@ -13988,12 +13988,12 @@ This broad systematic review provides a comprehensive landscape of [[generative-
 
 The persistent challenges — [[academic-integrity]], [[bias-mitigation]]/algorithmic bias, [[hallucination-risk]], faculty readiness, and [[equity-in-ai-education]]/[[equity-in-ai-education]] — echo themes across the wiki and connect to [[ai-literacy]] and [[faculty-development]] needs. The review's identification of pedagogical innovations (new assessment designs, AI literacy curricula, human-AI collaborative models) aligns with [[human-ai-collaboration]] and [[human-in-the-loop-ai]] threads.
 
-For policy and practice, the review underscores that the faculty readiness gap and equity concerns remain the binding constraints on responsible GenAI integration, connecting to [[educational-policy-ai]] and [[ai-governance-education]].
+For policy and practice, the review underscores that the faculty readiness gap and equity concerns remain the binding constraints on responsible GenAI integration, connecting to [[educational-policy-ai]] and [[governance]].
 
 ## Connected Concepts
 
 - [[academic-integrity]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[ai-literacy]]
 - [[automated-assessment]]
 - [[bias-mitigation]]
@@ -14521,7 +14521,7 @@ Li, Padman and Krishnan audit 102 US transplant-center patient handbooks that se
 - [[rag]] — grounding assistants in local handbook content
 - [[hallucination-risk]] — risk of inconsistent or unreliable AI-mediated answers
 - [[trust]] — patients relying on institution-provided guidance
-- [[ai-governance-education]] — institutional oversight of AI-mediated patient education
+- [[governance]] — institutional oversight of AI-mediated patient education
 - [[ai-education]] — AI use in patient and health-education contexts
 ## Connected Articles
 
@@ -14630,7 +14630,7 @@ Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). Distinguishing perfor
 - **Data set:** secondary analysis of **116 institutional GenAI policies** (from 131 R1 U.S. universities screened) and **98 computer-science course syllabi** (from 54 R1 institutions), content-coded and then mapped across levels.
 - **Institutional guidance is broadly pro-use:** a majority of universities (N = 73, 63%) encourage GenAI use, with 41% (N = 48) offering detailed classroom guidance, while just over a quarter (N = 31, 27%) discourage it. More than half (N = 64, 55%) stipulate syllabus statements using a range-of-use framing ("embrace," "limit," "prohibit").
 - **Course-level uptake is far more guarded:** almost all syllabi (92%, N = 90) give explicit use guidelines, but **half (50%, N = 49) outright prohibit GenAI use**, 41% (N = 40) permit only partial use for specified activities, and few communicate encouragement (7%, N = 7).
-- **The top-down vs. bottom-up gap:** institutions are comparatively supportive of GenAI while individual computing instructors often restrict or prohibit it, leaving instructors to improvise local policies that may not align with institutional guidance — the central coordination problem for [[ai-governance-education]].
+- **The top-down vs. bottom-up gap:** institutions are comparatively supportive of GenAI while individual computing instructors often restrict or prohibit it, leaving instructors to improvise local policies that may not align with institutional guidance — the central coordination problem for [[governance]].
 - **Shared emphasis on transparency:** both levels stress citation and acknowledgement — 83% (N = 81) of syllabi require citing GenAI use (over two-thirds treat uncredited use as an honor-code or academic-integrity violation), and 38% (N = 44) of institutions provide formal citation guidance, most often referencing APA.
 - **Institutional guidance is uniquely curricular and ethical:** institutions, not syllabi, emphasize curriculum design (50% ask instructors to reflect on teaching and assessment; 29% encourage GenAI for lesson planning) and ethics, including Diversity/Equity/Inclusion (52%), privacy (57%), and classroom ethics discussions (53%).
 
@@ -14648,7 +14648,7 @@ The study performs a **secondary/document analysis** comparing institutional pol
 
 ## Implications for AI in Education
 
-For [[ai-governance-education]], the finding that institutional guidance is pro-use while classroom practice is restrictive suggests that effective governance requires **translating policy into concrete instructor support**, not just issuing top-down documents — otherwise instructors improvise inconsistent local rules. For computing education specifically, the study positions CS as the canary discipline for GenAI adoption: high student uptake forces instructors to confront policy gaps first. The authors characterize both levels as sending "mixed messages" because institutions and educators are **playing catch-up to student use**, compounded by fast-moving, vendor-controlled access. The gap between policy intent and classroom practice connects to [[educational-policy-ai]] and [[equity-in-ai-education]] debates about who sets AI-use rules and how consistently they apply across courses and students, and to [[teacher-ai-adoption-confidence]] — uneven instructor readiness to translate guidance into everyday practice.
+For [[governance]], the finding that institutional guidance is pro-use while classroom practice is restrictive suggests that effective governance requires **translating policy into concrete instructor support**, not just issuing top-down documents — otherwise instructors improvise inconsistent local rules. For computing education specifically, the study positions CS as the canary discipline for GenAI adoption: high student uptake forces instructors to confront policy gaps first. The authors characterize both levels as sending "mixed messages" because institutions and educators are **playing catch-up to student use**, compounded by fast-moving, vendor-controlled access. The gap between policy intent and classroom practice connects to [[educational-policy-ai]] and [[equity-in-ai-education]] debates about who sets AI-use rules and how consistently they apply across courses and students, and to [[teacher-ai-adoption-confidence]] — uneven instructor readiness to translate guidance into everyday practice.
 
 ## Limitations
 
@@ -14660,7 +14660,7 @@ For [[ai-governance-education]], the finding that institutional guidance is pro-
 
 - [[higher-ed]]
 - [[ai-education]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[educational-policy-ai]]
 - [[equity-in-ai-education]]
 ## Connected Articles
@@ -14849,7 +14849,7 @@ Oliveira, English, Ryan, Misiejuk, dal Ponte, Lopez-Pernas & Saqr (2026). [The G
 
 For [[student-experience]] and [[higher-ed]] practice, the survey provides large-scale evidence that students are not uniformly outsourcing work — many regulate their own use, and a notable minority object outright. This complicates simple [[academic-integrity]] narratives and supports evidence-based, student-voice-driven [[educational-policy-ai]] rather than blanket prohibition.
 
-The tension between honest self-regulation and pervasive use across the assessment lifecycle bears on [[assessment]] design and on [[ethics]] education: institutions need policies that acknowledge legitimate [[generative-ai]] use while protecting learning. The multi-institution, internationally compared design makes this a strong empirical anchor for [[ai-governance-education]] and institutional practice.
+The tension between honest self-regulation and pervasive use across the assessment lifecycle bears on [[assessment]] design and on [[ethics]] education: institutions need policies that acknowledge legitimate [[generative-ai]] use while protecting learning. The multi-institution, internationally compared design makes this a strong empirical anchor for [[governance]] and institutional practice.
 
 ## Connected Concepts
 
@@ -15119,7 +15119,7 @@ For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive
 - [[teacher-ai-competency]]
 - [[equity-in-ai-education]]
 - [[bias-mitigation]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[k-12]]
 - [[stem-education]]
 - [[student-experience]]
@@ -16435,14 +16435,14 @@ The review's findings have direct implications for [[instructional-design]] prac
 
 For the [[collaborative-learning]] research community, this review provides a structured taxonomy for designing and evaluating AI literacy interventions. The ICAP framework offers a common vocabulary for comparing approaches and identifying which engagement modes are most impactful for different AI literacy competencies — an important step toward building the cumulative science called for in the [[ai-literacy-assessment-misalignment]] literature.
 
-Practically, the findings support the integration of collaborative AI literacy activities into existing [[k-12-ai-education]] curricula and [[faculty-development]] programs. The success of interventions that involve families and community members suggests that AI literacy is not solely a school-based competency but a societal one — a perspective aligned with [[ai-education-global-capacity]] and [[ai-lifelong-learning-policy]].
+Practically, the findings support the integration of collaborative AI literacy activities into existing [[k-12]] curricula and [[faculty-development]] programs. The success of interventions that involve families and community members suggests that AI literacy is not solely a school-based competency but a societal one — a perspective aligned with [[ai-education-global-capacity]] and [[ai-lifelong-learning-policy]].
 
 Looking forward, the review highlights the potential for [[icap-cognitive-engagement-llm-agents]] research to further enrich collaborative AI literacy instruction by designing LLM-based agents that can serve as interactive learning partners within ICAP-structured activities, extending the social dimension of learning beyond human peers.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[higher-ed]]
 - [[llm]]
 - [[collaborative-learning]]
@@ -16814,7 +16814,7 @@ The article provides a procedural account (what LLMs can do, in which phases, un
 - [[formative-assessment]]
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[ai-education]]
 - [[human-in-the-loop-ai]]
 - [[automated-essay-scoring]]
@@ -17438,7 +17438,7 @@ The framework was piloted through a faculty workshop series in a university phys
 - [[stem-education]]
 - [[teacher-role]]
 - [[scaffolding]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[teacher-ai-competency]]
 - [[curriculum-design]]
 
@@ -18754,7 +18754,7 @@ The rapid growth of learning analytics (LA) in higher education has expanded ins
 - [[regulation]]
 - [[higher-ed]]
 - [[governance]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[agency]]
 - [[educational-policy-ai]]
 ## Connected Articles
@@ -19160,7 +19160,7 @@ This conceptual contribution speaks directly to debates about [[curriculum-desig
 
 For [[higher-ed]] institutions, the framework is a provocation to move beyond static degree pathways toward adaptive, cross-domain learning environments. It connects conceptually to [[instructional-design]] discussions about [[transfer-of-learning]] and [[self-regulated-learning]], since learners must actively navigate and maintain their own learnity graphs.
 
-The proposal also has an implicit [[equity-in-ai-education]] dimension: graph-based, modular learning could either democratize access to personalized pathways or entrench fragmentation if not supported by sound pedagogy and institutional infrastructure. The paper is best read alongside work on [[educational-policy-ai]] and [[ai-governance-education]] that addresses how such frameworks are governed and resourced.
+The proposal also has an implicit [[equity-in-ai-education]] dimension: graph-based, modular learning could either democratize access to personalized pathways or entrench fragmentation if not supported by sound pedagogy and institutional infrastructure. The paper is best read alongside work on [[educational-policy-ai]] and [[governance]] that addresses how such frameworks are governed and resourced.
 
 ## Connected Concepts
 
@@ -19533,7 +19533,7 @@ Shang Li (2025) presents a qualitative study grounding AI integration in K-12 sc
 - [[intelligent-tutoring]]
 - [[stem-education]]
 - [[teacher-role]]
-- [[k-12-ai-education]]
+- [[k-12]]
 
 ## Connected Articles
 
@@ -19906,7 +19906,7 @@ Fine-tuning designs were systematically compared, with the curriculum-derived tr
 - [[llm]]
 - [[generative-ai]]
 - [[k-12]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[language-learning]]
 - [[storytelling-in-education]]
 - [[pedagogical-safety]]
@@ -20120,7 +20120,7 @@ The findings suggest LLMs can help teachers integrate **culturally relevant comp
 
 - [[culturally-relevant-pedagogy]]
 - [[ai-literacy]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[curriculum-design]]
 - [[teacher-ai-competency]]
 - [[teacher-role]]
@@ -21371,7 +21371,7 @@ Online mathematics learning platforms increasingly adopt LLMs for scalable, on-d
 
 ## Implications for AI in Education
 
-For responsible deployment in educational settings, the work shows that **post-hoc unlearning is a viable complement to data curation**: models already trained on sensitive or unsafe classroom data can be steered toward safer behavior without retraining from scratch. The trade-off between safety and utility is managed rather than eliminated — privacy and harmfulness drop substantially (to 0.1% PII output rates under the harmful→PII order and 0.0% toxic rates on the external benchmark) while math-task performance is maintained. Practitioners should treat unlearning order as a design decision rather than a detail, since the two orders produced different privacy–safety balances. This supports [[pedagogical-safety]] and [[privacy]]-conscious design of LLM-based tutors in [[k-12]] mathematics contexts, where student data are especially sensitive, and connects to the broader [[ai-governance-education]] conversation about model-level mitigations alongside data curation and deployment policy.
+For responsible deployment in educational settings, the work shows that **post-hoc unlearning is a viable complement to data curation**: models already trained on sensitive or unsafe classroom data can be steered toward safer behavior without retraining from scratch. The trade-off between safety and utility is managed rather than eliminated — privacy and harmfulness drop substantially (to 0.1% PII output rates under the harmful→PII order and 0.0% toxic rates on the external benchmark) while math-task performance is maintained. Practitioners should treat unlearning order as a design decision rather than a detail, since the two orders produced different privacy–safety balances. This supports [[pedagogical-safety]] and [[privacy]]-conscious design of LLM-based tutors in [[k-12]] mathematics contexts, where student data are especially sensitive, and connects to the broader [[governance]] conversation about model-level mitigations alongside data curation and deployment policy.
 
 ## Limitations
 
@@ -21384,7 +21384,7 @@ The findings are limited to the Algebra I context in which unlearning was applie
 - [[k-12]]
 - [[human-in-the-loop-ai]]
 - [[formative-assessment]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[llm]]
 - [[math-education]]
 - [[intelligent-tutoring]]
@@ -22414,7 +22414,7 @@ The authors identify several design constraints: the one-group pre-/post-test de
 - [[curriculum-design]]
 - [[reinforcement-learning]]
 - [[educational-robotics]]
-- [[k-12-ai-education]]
+- [[k-12]]
 
 ## Connected Articles
 
@@ -24263,7 +24263,7 @@ ESL is an active teaching instrument built on three verbs — **anticipate** (st
 
 ## Educational significance
 
-This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[instructional-design]] and [[k-12-ai-education|K-12 AI education]].
+This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[instructional-design]] and [[k-12|K-12 AI education]].
 
 ## Key Findings
 
@@ -24281,7 +24281,7 @@ This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated 
 - [[experiential-learning]]
 - [[curriculum-design]]
 - [[instructional-design]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[generative-ai]]
 - [[ai-education]]
 - [[critical-thinking]]
@@ -24430,13 +24430,13 @@ The PCHL-HE framework addresses a real pedagogical gap: as AI moves toward [[age
 
 For [[higher-ed]] and [[instructional-design]], the framework offers a taxonomy for [[ai-literacy]] curricula and for designing assignments that match task complexity to appropriate AI configurations — for example, using verified loops only where intermediate products and oversight matter, which bears on [[academic-integrity]] and [[assessment]]. The explicit attention to verification and human oversight connects to [[human-in-the-loop-ai]] and to debates about when AI-generated content is ready for use.
 
-The framework is conceptual and would benefit from empirical validation, but it provides a useful shared vocabulary for [[faculty-development]] and for institutional [[ai-governance-education]] conversations about tool selection and policy.
+The framework is conceptual and would benefit from empirical validation, but it provides a useful shared vocabulary for [[faculty-development]] and for institutional [[governance]] conversations about tool selection and policy.
 
 ## Connected Concepts
 
 - [[academic-integrity]]
 - [[agentic-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[faculty-development]]
@@ -24896,14 +24896,14 @@ The argument opens with a recognizable scene: a student submits a fluent essay a
 
 ## Implications for AI Governance
 
-The article translates the argument into a deployment-review question: what will people stop learning if this system works? Losing obsolete routines may be harmless, but losing the ability to set goals, give reasons, contest, and participate is not. The practical right of contestability is not a demand that everyone master every technical detail: a student need not reproduce every step of a model's generation to defend a claim made in a paper. Rather, each person needs a path from a problem they experience to reasons they can understand and, where appropriate, to a process that can revise the decision — a path that depends on trained intermediaries, accessible records, meaningful appeal, and public settings where reasons can be tested. The article warns that when privileged users can contest AI while marginalized users receive automated completion or automated suspicion, the institution has changed the distribution of expertise while calling the result access. For [[ai-governance-education]] and [[over-reliance]] debates, this reframes the goal of schooling: preserving capacities such as [[ethics]]-inflected judgment and accountable participation rather than maximizing efficient output generation.
+The article translates the argument into a deployment-review question: what will people stop learning if this system works? Losing obsolete routines may be harmless, but losing the ability to set goals, give reasons, contest, and participate is not. The practical right of contestability is not a demand that everyone master every technical detail: a student need not reproduce every step of a model's generation to defend a claim made in a paper. Rather, each person needs a path from a problem they experience to reasons they can understand and, where appropriate, to a process that can revise the decision — a path that depends on trained intermediaries, accessible records, meaningful appeal, and public settings where reasons can be tested. The article warns that when privileged users can contest AI while marginalized users receive automated completion or automated suspicion, the institution has changed the distribution of expertise while calling the result access. For [[governance]] and [[over-reliance]] debates, this reframes the goal of schooling: preserving capacities such as [[ethics]]-inflected judgment and accountable participation rather than maximizing efficient output generation.
 
 ## Connected Concepts
 
 - [[over-reliance]]
 - [[assessment]]
 - [[assessment-validity]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[ethics]]
 - [[cognitive-offloading]]
 - [[generative-ai]]
@@ -25831,7 +25831,7 @@ The authors acknowledge several limitations: nonrandom group assignment within a
 - [[research-methods-aied]]
 - [[faculty-development]]
 - [[professional-training]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[instructional-design]]
 - [[higher-ed]]
 - [[generative-ai]]
@@ -25914,7 +25914,7 @@ Aligned with the UNESCO AI Competency Framework for Teachers and the OECD/Europe
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
 - [[bias-mitigation]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[ai-education]]
 - [[curriculum-design]]
 
@@ -25960,7 +25960,7 @@ This review organizes AIED research into three interrelated layers:
 
 ## Implications
 
-This review provides a structured map of the AIED landscape during the LLM era (2020-2025), useful as a reference point for [[ai-education]]. The three-layer framework connects to [[learning-analytics]], [[intelligent-tutoring]], and [[adaptive-learning]] research, while the forward trends align with discussions in [[ai-governance-education]] and institutional AI readiness.
+This review provides a structured map of the AIED landscape during the LLM era (2020-2025), useful as a reference point for [[ai-education]]. The three-layer framework connects to [[learning-analytics]], [[intelligent-tutoring]], and [[adaptive-learning]] research, while the forward trends align with discussions in [[governance]] and institutional AI readiness.
 
 ## Connected Concepts
 
@@ -25972,7 +25972,7 @@ This review provides a structured map of the AIED landscape during the LLM era (
 - [[adaptive-learning]]
 - [[multimodal]]
 - [[edtech-platform]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[meta-analysis-systematic-review]]
 - [[human-ai-collaboration]]
 - [[privacy]]
@@ -26819,7 +26819,7 @@ Chengshuai Zhao, Fan Zhang, Kumar Satvik Chaudhary, Yiwen Li, Lo Pang-Yun Ting, 
 
 **Hype vs. harm to society and the environment.** Contrary to claims that AI will engender a more democratic, equal, and sustainable world, the authors argue GenAI threatens democracy (deepfakes, targeted propaganda, automated disinformation), exacerbates inequality and the [[digital-divide]], and carries a heavy ecological footprint — from rare-mineral extractivism in the Global South to enormous energy and water consumption and offshored e-waste. AI is framed here as a source of [[ai-misuse-learning-harm]] at a societal scale.
 
-**Geopolitics and the myth of US dominance.** The belief that the US exclusively dominates the AI arena is challenged by China's rapid ascent, illustrated by DeepSeek's open-source, low-cost reasoning model that disrupted markets in January 2025. This raises questions about access, control, and [[ai-governance-education]] — including the adequacy of US chip-export [[regulation]].
+**Geopolitics and the myth of US dominance.** The belief that the US exclusively dominates the AI arena is challenged by China's rapid ascent, illustrated by DeepSeek's open-source, low-cost reasoning model that disrupted markets in January 2025. This raises questions about access, control, and [[governance]] — including the adequacy of US chip-export [[regulation]].
 
 **Higher education: erosion, not revolution.** The claim that AI revolutionises higher education overlooks its detrimental effects on [[academic-integrity]] and the erosion of evidence-based pedagogical practices, compounded by an existing crisis of higher education. Likewise, AI-detection is unreliable: models increasingly produce outputs indistinguishable from human work, undermining the belief that teachers can catch AI use with or without AI tools.
 
@@ -26827,7 +26827,7 @@ Chengshuai Zhao, Fan Zhang, Kumar Satvik Chaudhary, Yiwen Li, Lo Pang-Yun Ting, 
 
 ## Implications
 
-The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential graduate competencies in an era where GenAI increasingly shapes academic, professional, and public discourse. For institutions, it recommends integrating critical AI literacy into course design and review processes and resisting profit-driven narratives from Big Tech. The paper also situates GenAI adoption within wider debates about [[ai-governance-education]], equity, and the environmental and labour costs of AI infrastructure, arguing that technology should be a tool for enhancing human intelligence rather than replacing or diminishing it.
+The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential graduate competencies in an era where GenAI increasingly shapes academic, professional, and public discourse. For institutions, it recommends integrating critical AI literacy into course design and review processes and resisting profit-driven narratives from Big Tech. The paper also situates GenAI adoption within wider debates about [[governance]], equity, and the environmental and labour costs of AI infrastructure, arguing that technology should be a tool for enhancing human intelligence rather than replacing or diminishing it.
 
 ## Connected Concepts
 
@@ -26838,7 +26838,7 @@ The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential g
 - [[academic-integrity]]
 - [[digital-divide]]
 - [[ai-misuse-learning-harm]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[faculty-development]]
 - [[regulation]]
 - [[student-misconceptions-ai]]
@@ -28536,7 +28536,7 @@ The consistent pattern of immediate gains without durable transfer challenges th
 
 The superiority of pedagogically designed tools over general-purpose AI is actionable: it implies that simply giving students access to ChatGPT or similar chatbots is not merely suboptimal but potentially harmful. Effective AI in education requires deliberate instructional design — [[scaffolding]], [[zone-of-proximal-development|ZPD]]-aligned support, refusal to bypass student thinking, and integration with established learning activities. This connects to broader work on [[ai-pedagogical-orientation]] and the growing recognition that [[access-not-enough-ai-tutoring-2026|access to AI tutoring is not enough]] without thoughtful pedagogical integration.
 
-For the research community, the review functions as both a wake-up call and a roadmap. It identifies urgent priorities: long-term studies with delayed post-tests, research in authentic U.S. K-12 settings, studies of educator use and impact, and research designs that disentangle assisted performance from durable learning. The [[k-12-ai-education]] field urgently needs to move beyond descriptive and technical-computational papers (which together constitute 92% of the repository) toward rigorous causal designs.
+For the research community, the review functions as both a wake-up call and a roadmap. It identifies urgent priorities: long-term studies with delayed post-tests, research in authentic U.S. K-12 settings, studies of educator use and impact, and research designs that disentangle assisted performance from durable learning. The [[k-12]] field urgently needs to move beyond descriptive and technical-computational papers (which together constitute 92% of the repository) toward rigorous causal designs.
 
 ## Connected Concepts
 
@@ -28544,7 +28544,7 @@ For the research community, the review functions as both a wake-up call and a ro
 - [[cognitive-load-theory]]
 - [[desirable-difficulties]]
 - [[k-12]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[metacognition]]
 - [[rct]]
 - [[scaffolding]]
@@ -29120,7 +29120,7 @@ The study surveyed 151 undergraduate students in Business Information Systems an
 These findings highlight a significant gap between [[regulation|institutional regulations]] and [[student-experience|student practices]]. The paper connects to insights from [[regulation]] on how policies are communicated, and to [[academic-integrity]] debates about effective AI governance. The authors call for improved policy communication and better integration of GenAI into teaching and learning contexts, recognizing that [[ai-literacy|regulatory awareness alone]] is insufficient to shape student behavior.
 
 ## Connected Concepts
-- [[ai-governance-education]]
+- [[governance]]
 
 - [[generative-ai]]
 - [[higher-ed]]
@@ -31969,7 +31969,7 @@ Voicu, C.-G. (2026). [*AI-Mediated Learning and the Restructuring of Interpretiv
 
 ## Implications
 
-This critique of the AIED research landscape connects to broader [[ai-governance-education]] concerns and the [[institutional-change-framework-ai|institutional readiness]] challenges identified in the EPIQ-AI framework. The call for teacher preparation aligns with [[teacher-ai-competency]] and [[faculty-development]] research, while the equity critique echoes findings in [[ai-scoring-language-bias-physics]].
+This critique of the AIED research landscape connects to broader [[governance]] concerns and the [[institutional-change-framework-ai|institutional readiness]] challenges identified in the EPIQ-AI framework. The call for teacher preparation aligns with [[teacher-ai-competency]] and [[faculty-development]] research, while the equity critique echoes findings in [[ai-scoring-language-bias-physics]].
 
 ## Connected Concepts
 - [[educational-robotics]]
@@ -31979,7 +31979,7 @@ This critique of the AIED research landscape connects to broader [[ai-governance
 - [[ethics]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[faculty-development]]
 - [[learning-analytics]]
 
@@ -32386,7 +32386,7 @@ The authors also offer practical guidance for educators: activate prior subject 
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[k-12]]
 - [[stem-education]]
 - [[curriculum-design]]
@@ -32986,16 +32986,16 @@ AI adoption in education is not purely a classroom decision; it is also an insti
 
 - **Policy and institutional decision-making:** [[ai-uk-higher-education-policy-2026|UK higher-education AI policy research]] finds that AI integration is accelerating but fragmented, with a gap between high-level policy ambition and institutional implementation — a recurring theme for administrators navigating strategy without clear operational guidance.
 - **Well-being and student experience:** [[ai-campus-wellbeing-tools|AI campus well-being tools]] examine how institutions deploy AI for student support, linking administrator choices to [[student-experience]] outcomes.
-- **Governance and regulation:** Administrator decisions interact with [[educational-policy-ai]], [[ai-governance-education]], and [[regulation]] — institutions translate AI capability into acceptable-use frameworks, assessment rules, and data-governance standards (see [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]]).
+- **Governance and regulation:** Administrator decisions interact with [[educational-policy-ai]], [[governance]], and [[regulation]] — institutions translate AI capability into acceptable-use frameworks, assessment rules, and data-governance standards (see [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]]).
 
 ### Connections
 
-The administrator perspective connects to [[educational-policy-ai]] (policy formation), [[ai-governance-education]] and [[regulation]] (governance), [[edtech-platform]] (procurement and infrastructure), [[learning-analytics]] (institutional data), and [[higher-ed]]. Administrator decisions enable or constrain the [[faculty-development]], [[teacher-role]], and [[ai-literacy]] work covered elsewhere in the wiki.
+The administrator perspective connects to [[educational-policy-ai]] (policy formation), [[governance]] and [[regulation]] (governance), [[edtech-platform]] (procurement and infrastructure), [[learning-analytics]] (institutional data), and [[higher-ed]]. Administrator decisions enable or constrain the [[faculty-development]], [[teacher-role]], and [[ai-literacy]] work covered elsewhere in the wiki.
 
 ## Connected Concepts
 
 - [[educational-policy-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[regulation]]
 - [[higher-ed]]
 - [[edtech-platform]]
@@ -33381,7 +33381,7 @@ AI in education is the umbrella that all other concept pages collectively define
 AI in education research spans two interconnected directions:
 
 - **AI for education** — using AI systems to enhance teaching, learning, assessment, and administration. This includes [[ai-tutoring|AI tutoring]], [[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]], [[automated-grading|automated grading]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[automated-assessment|automated assessment]], [[formative-assessment|formative assessment]], [[learning-analytics|learning analytics]], and [[feedback-loop|feedback loops]].
-- **Education about AI** — teaching learners and educators to understand, use, and critically evaluate AI. The core is [[ai-literacy|AI literacy]], supported by [[prompt-engineering|prompt engineering]], [[critical-thinking|critical thinking]], [[ethics|AI ethics]], [[ai-governance-education|governance education]], digital literacy, and [[reducing-ai-misuse|responsible use]].
+- **Education about AI** — teaching learners and educators to understand, use, and critically evaluate AI. The core is [[ai-literacy|AI literacy]], supported by [[prompt-engineering|prompt engineering]], [[critical-thinking|critical thinking]], [[ethics|AI ethics]], [[governance|governance education]], digital literacy, and [[reducing-ai-misuse|responsible use]].
 
 These two dimensions are not separate: [[ai-literacy|using AI well]] requires understanding it, and teaching about AI is enriched by using it. This [[human-ai-collaboration|human-AI collaboration]] is a central theme.
 
@@ -33392,7 +33392,7 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 - **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[gamification|gamification]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[cognitive-load-theory|cognitive load theory]], [[dual-process-theory|dual-process theory]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
 - **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[engagement-metrics|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[over-reliance|over-reliance]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
-- **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12-ai-education|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
+- **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
 
 ## Assessment, evaluation, and measurement
 
@@ -33409,7 +33409,7 @@ AI in education changes the roles of every stakeholder:
 
 - **Learners:** [[student-experience|student experience]], [[student-misconceptions-ai|student misconceptions]], [[student-engagement|engagement]], [[help-seeking|help-seeking]], and [[well-being|well-being]] shape how students encounter AI.
 - **Teachers:** [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[faculty-development|faculty development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
-- **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[ai-governance-education|governance education]], [[governance|AI governance]], [[regulation|AI regulation]], [[privacy|privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], and [[lifelong-learning|professional and lifelong learning]] cover the institutional and societal layer.
+- **Institutions:** [[administrator|administrator perspectives]], [[educational-policy-ai|educational AI policy]], [[governance|governance education]], [[governance|AI governance]], [[regulation|AI regulation]], [[privacy|privacy]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[learning-analytics|learning analytics]], and [[lifelong-learning|professional and lifelong learning]] cover the institutional and societal layer.
 - **Equity and ethics:** [[equity-in-ai-education|equity in AI education]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[accessible-learning|accessible learning]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[hallucination-risk|hallucination risk]], [[ethics|ethics]], [[trust-calibration|trust calibration]], and [[critical-pedagogy|critical pedagogy]] address fairness, access, and responsibility.
 
 ## Emergent and cross-cutting themes
@@ -33452,7 +33452,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[human-ai-collaboration]]
 - [[equity-in-ai-education]]
 - [[ethics]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[educational-policy-ai]]
 - [[educational-robotics]]
 - [[social-robots]]
@@ -33567,48 +33567,6 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 
 ---
 
-## [AI Governance Education](https://edtechdev.github.io/aied/concepts/ai-governance-education/)
-
-> **AI governance education** — how institutions and educators translate AI capability into responsible-use frameworks, policy, and the teaching of those frameworks. It spans institutional policy (acceptable-use, assessment, and data rules), the [[regulation]] and [[privacy]] landscape that shapes them, and education about governance itself so that students, faculty, and leaders understand and apply responsible-AI expectations.
-
-AI governance in education operates at two levels that the wiki treats together: the *institutional rules* that govern AI use (policies, acceptable-use frameworks, [[assessment]] and declaration requirements) and *education about those rules* (preparing people to navigate them). Governance without education risks being unenforced or opaque; education without governance lacks teeth.
-
-### How AI governance education appears in the research
-
-- **Institutional policy and acceptable use:** [[genai-policies-higher-ed-computing|Institutional GenAI policy analysis]] documents how universities translate AI capability into acceptable-use frameworks and assessment rules — and the gap between institutional ambitions and the support needed to meet them.
-- **Assessment and declaration frameworks:** [[genai-declaration-frameworks-higher-education|AI declaration frameworks]] and [[genai-assessment-governance|assessment governance]] address how institutions regulate AI use in assessed work, connecting directly to [[academic-integrity]].
-- **Ethics and coordination:** [[ethical-ai-higher-ed-game-theory|Coordination-game frameworks]] model how ethical AI use emerges from collective faculty and student choices, while [[ai-uk-higher-education-policy-2026|UK AI policy research]] and [[raza-farooq-aied-review-2020-2025|the AIED review]] situate governance in the wider policy landscape.
-- **Agentic and literacy dimensions:** [[agentic-literacy-debt|Agentic literacy debt]] shows how autonomous agents create structural AI-literacy gaps that governance education must address.
-
-### Connections
-
-AI governance education connects to [[educational-policy-ai]] (policy formation), [[governance]] and [[regulation]] (the external rule landscape), [[privacy]] (data governance), [[ethics]] (responsible use), and [[academic-integrity]] (assessment rules). It also links to [[ai-misuse-learning-harm|AI misuse and harm]], [[trust-calibration]], and the [[ai-literacy]] needed to comply with and critique governance frameworks.
-
-## Connected Concepts
-
-- [[educational-policy-ai]]
-- [[governance]]
-- [[regulation]]
-- [[privacy]]
-- [[ethics]]
-- [[academic-integrity]]
-- [[ai-misuse-learning-harm]]
-- [[ai-literacy]]
-- [[trust-calibration]]
-- [[generative-ai]]
-
-## Connected Articles
-
-- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
-- [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks
-- [[genai-assessment-governance]] — Assessment governance under GenAI
-- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
-- [[ethical-ai-higher-ed-game-theory]] — Coordination-game framework for ethical AI use
-- [[agentic-literacy-debt]] — Agentic literacy debt
-- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
-
----
-
 ## [AI Literacy](https://edtechdev.github.io/aied/concepts/ai-literacy/)
 
 > **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI technologies in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical evaluation of AI outputs, and ethical awareness of AI's societal implications.
@@ -33687,7 +33645,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[curriculum-design]]
 - [[instructional-design]]
 - [[digital-divide]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[tpack]]
 - [[feedback-literacy]]
 - [[feedback]]
@@ -34751,7 +34709,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 
 - **CT as AI literacy foundation:** Understanding how AI systems decompose problems and apply algorithms is foundational to [[ai-literacy]]. [[computational-thinking-ai-agent-creation|Agent creation studies]] show how building AI agents develops CT skills.
 - **Programming education:** [[cs-education]] and [[prompt-problems-nl-programming-mistakes|prompting studies]] connect CT to [[programming-education|programming instruction]].
-- **K-12 integration:** [[k-12-ai-education]] and [[stem-education]] curricula increasingly embed CT as a core competency.
+- **K-12 integration:** [[k-12]] and [[stem-education]] curricula increasingly embed CT as a core competency.
 
 ### Connections
 
@@ -35370,7 +35328,7 @@ The wiki has dedicated concept pages for several subject areas:
 - **[[teacher-education]]** — the preparation and professional development of teachers (pre-service and in-service), a discipline in its own right whose AI research centers on teacher AI literacy, intelligent-TPACK, and readiness to integrate AI.
 - **[[medical-education]]** — clinical simulation, reinforcement-learning training, and foundational learning principles in health-professions education.
 - **[[humanities-education]]** — interpretive cognition, authorship, and meaning-making in humanities and social sciences.
-- **[[k-12-ai-education]]** and **[[higher-ed]]** — education about and with AI at each level.
+- **[[k-12]]** and **[[higher-ed]]** — education about and with AI at each level.
 
 ## Cross-disciplinary themes
 
@@ -35424,7 +35382,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[teacher-education]]
 - [[medical-education]]
 - [[humanities-education]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[higher-ed]]
 - [[ai-literacy]]
 - [[ai-tutoring]]
@@ -35733,12 +35691,12 @@ The wiki documents that institutional AI policies [[genai-policies-higher-ed-com
 
 ### Connections
 
-Educational AI policy connects to [[regulation]] (legal framework), [[ai-governance-education]] (institutional implementation), [[faculty-development]] (policy implementation through training), [[equity-in-ai-education]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
+Educational AI policy connects to [[regulation]] (legal framework), [[governance]] (institutional implementation), [[faculty-development]] (policy implementation through training), [[equity-in-ai-education]] (policy impacts on access), and [[higher-ed]] / [[k-12]] (context-specific policy).
 
 ## Connected Concepts
 
 - [[regulation]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[faculty-development]]
 - [[equity-in-ai-education]]
 - [[higher-ed]]
@@ -35982,7 +35940,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - **Infrastructure is equity:** addressing the [[digital-divide|digital divide]] and underrepresented-language infrastructure is a precondition for equitable AI, not a secondary concern.
 - **Representation matters in content and assessment:** AI-curated materials and automated assessment must reflect and not penalize diverse learners, cultures, languages, and knowledge systems.
 - **Pair access with support:** providing tools is insufficient; learners need skills, conditions, and culturally relevant [[scaffolding]] to benefit.
-- **Policy and governance:** institutional AI policy ([[educational-policy-ai]], [[governance]], [[ai-governance-education]]) must embed equity as a guiding principle.
+- **Policy and governance:** institutional AI policy ([[educational-policy-ai]], [[governance]], [[governance]]) must embed equity as a guiding principle.
 
 ## Connected Concepts
 
@@ -36058,7 +36016,7 @@ The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-highe
 
 ### Connections
 
-Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[ai-governance-education]]. It is the normative foundation for all other AI education concepts.
+Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], and [[governance]]. It is the normative foundation for all other AI education concepts.
 
 ## Connected Concepts
 
@@ -36068,7 +36026,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[regulation]]
 - [[pedagogical-safety]]
 - [[academic-integrity]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[ai-literacy]]
 - [[over-reliance]]
 - [[teacher-role]]
@@ -36657,7 +36615,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 > **AI governance** — the frameworks, policies, institutional structures, and norms that guide the responsible design, deployment, and use of artificial intelligence in education. Governance spans formal institutional mechanisms (AI steering groups, policies on academic integrity and acceptable use, ethical review) and informal norms (faculty guidelines, professional development, cultures of [[reducing-ai-misuse|responsible AI use]]). In the AI era, effective governance is a prerequisite for ethical, equitable, and sustainable adoption of GenAI — it determines whether AI is integrated transparently, with accountability, or adopted reactively in ways that deepen inequities.
 
-AI governance in education is increasingly urgent because generative AI introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, learner agency, assessment validity, and the role of educators as epistemic authorities. Governance addresses questions of academic integrity (what counts as acceptable AI use), data privacy and security, algorithmic bias and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the wiki's research is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
+AI governance in education is increasingly urgent because [[generative-ai|generative AI]] introduces new epistemic, ethical, and organizational challenges: it destabilizes assumptions about knowledge production, [[agency|learner agency]], [[assessment|assessment]] validity, and the role of educators as epistemic authorities. Governance addresses questions of [[academic-integrity|academic integrity]] (what counts as acceptable AI use), [[privacy|data privacy]] and security, [[bias-mitigation|algorithmic bias]] and fairness, transparency and accountability, and the alignment of AI adoption with institutional mission and values. A recurring finding across the wiki's research is that **institutional governance is often lagging** — many institutions lack clear, unified AI policies, leaving students and faculty to negotiate acceptable use on their own.
 
 ### How AI governance appears in the research
 
@@ -36670,6 +36628,10 @@ AI governance in education is increasingly urgent because generative AI introduc
 - **Academic integrity and assessment:** Governance is central to how institutions handle AI-related [[academic-integrity]] concerns and redesign [[assessment|assessment]] — moving from prohibition/policing toward guidance, AI literacy, and process-oriented designs, as seen in research on [[student-rationalization-ai-writing|student rationalization]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
 
 - **Ethics, privacy, and bias:** Governance mechanisms operationalize the ethical principles ([[ethics]], [[privacy]], [[bias-mitigation]]) that are often recognized but not enforced, connecting to responsible AI and regulatory debates in education.
+
+### Governance education
+
+AI governance operates at two levels the wiki treats together: the *institutional rules* that govern AI use (policies, acceptable-use frameworks, [[assessment]] and declaration requirements) and *education about those rules* (preparing people to navigate them). Governance without education risks being unenforced or opaque; education without governance lacks teeth. Research in this strand includes [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]], [[genai-declaration-frameworks-higher-education|AI declaration frameworks]], [[genai-assessment-governance|assessment governance]], [[ai-uk-higher-education-policy-2026|UK AI higher-education policy]], and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] that situate governance in the wider policy landscape.
 
 ### Governance across levels
 
@@ -36689,6 +36651,11 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[ai-literacy]]
 - [[learning-analytics]]
 - [[student-experience]]
+- [[educational-policy-ai]]
+- [[regulation]]
+- [[ai-misuse-learning-harm]]
+- [[trust-calibration]]
+- [[generative-ai]]
 
 ## Connected Articles
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
@@ -36702,6 +36669,11 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[stanford-evidence-base-ai-k12-2026]] — The Stanford Evidence Base for AI in K-12
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment Redesign
 - [[ethical-ai-higher-ed-game-theory]] — Ethical AI in Higher Education
+- [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
+- [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks
+- [[genai-assessment-governance]] — Assessment governance under GenAI
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
+- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
 
 ---
 
@@ -37389,60 +37361,6 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 
 ---
 
-## [K-12 AI Education](https://edtechdev.github.io/aied/concepts/k-12-ai-education/)
-
-K-12 AI Education encompasses the integration of [[ai-literacy|artificial intelligence literacy]], tools, and pedagogical approaches into primary and secondary education. Recent research reveals three critical pillars:
-
-### 1. Teacher Preparation Gap
-Teachers systematically overestimate their [[teacher-ai-competency|AI competency]] (40% gap between self-report and performance in Zhang et al. 2026), yet brief training interventions (4-hour prompting workshops) yield 2.3x higher classroom AI integration (Xiao et al. 2026).
-
-### 2. Cultural Relevance Imperative
-[[curriculum-design|LLM-supported curriculum design]] shows promise for diversifying materials — 78% of teachers found AI suggestions helpful for [[culturally-relevant-pedagogy|culturally relevant pedagogy]] (Wang et al. 2025). However, most AI tools center dominant perspectives, requiring deliberate [[equity-in-ai-education|equity-centered design]].
-
-### 3. Policy-to-Practice Translation
-Institutional GenAI policies largely lack implementation guidance. Successful models transform policy documents into actionable teacher training modules, bridging the "what" (policy) and "how" (prompting instruction).
-
-## References
-
-Xiao, R., Ye, R., et al. (2026). *Transforming GenAI Policy to Prompting Instruction: An RCT*. arXiv:2602.16033.
-
-Zhang, S., Xiao, R., et al. (2026). *How to Assess AI Literacy: Misalignment Between Self-Reported and Performance*. arXiv:2601.06101.
-
-Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy*. arXiv:2505.08083.
-
-## Source
-
-- https://arxiv.org/abs/2602.16033
-- [https://arxiv.org/abs/2601.06101](https://arxiv.org/abs/2601.06101)
-- [https://arxiv.org/abs/2505.08083](https://arxiv.org/abs/2505.08083)
-
-## Connected Concepts
-
-- [[ai-literacy]]
-- [[zone-of-proximal-development]]
-- [[metacognition]]
-- [[rct]]
-- [[scaffolding]]
-- [[faculty-development]]
-- [[instructional-design]]
-- [[active-learning]]
-- [[computational-thinking]]
-- [[cognitive-load-theory]]
-- [[ai-tutoring]]
-- [[collaborative-learning]]
-- [[discipline-specific-aied]]
-- [[teacher-education]]
-
-## Connected Articles
-
-- [[computational-thinking-ai-agent-creation]]
-- [[hingle-collaborative-ai-literacy-2025]]
-- [[stanford-evidence-base-ai-k12-2026]]
-- [[li-ai-science-situated-learning-teachers-2025]]
-- [[panciroli-ai-literacy-episodes-situated-learning]]
-
----
-
 ## [K-12 AI Education](https://edtechdev.github.io/aied/concepts/k-12/)
 
 > **K-12 AI education** — the use of artificial intelligence in primary and secondary education, spanning [[ai-literacy|AI literacy]] curricula, [[ai-tutoring|AI tutoring]], teacher support, and safety considerations unique to younger learners.
@@ -37455,9 +37373,21 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - **Tutoring at grade level:** [[ecnuclaw-k12-personalized-companion|K-12 personalized companions]] and [[correct-answer-trap-ai-tutor|correct answer trap research]] examine tutoring effectiveness for younger students.
 - **Developmental appropriateness:** [[child-safety-genai|Child safety research]] and [[special-education]] considerations address the needs of diverse K-12 populations.
 
+### Teacher preparation gap
+
+Research shows teachers systematically overestimate their [[teacher-ai-competency|AI competency]] — a roughly 40% gap between self-report and performance — yet brief training interventions (e.g., 4-hour prompting workshops) can yield substantially higher classroom AI integration. This makes teacher preparation, [[teacher-education]], and [[faculty-development]] central to successful K-12 AI integration.
+
+### Cultural relevance imperative
+
+[[curriculum-design|LLM-supported curriculum design]] shows promise for diversifying materials — in one study 78% of teachers found AI suggestions helpful for [[culturally-relevant-pedagogy|culturally relevant pedagogy]]. However, most AI tools center dominant perspectives, requiring deliberate [[equity-in-ai-education|equity-centered design]] to avoid widening opportunity gaps.
+
+### Policy-to-practice translation
+
+Institutional GenAI policies largely lack implementation guidance. Successful models transform policy documents into actionable teacher training modules, bridging the "what" (policy) and "how" (prompting instruction). See [[ai-literacy-assessment-misalignment|AI-literacy assessment]] and related policy work.
+
 ### Scale and equity
 
-K-12 AI deployment operates at societal scale — millions of students, compulsory education, and significant equity implications. [[equity-in-ai-education]] and k-12 research examines whether AI widens or narrows opportunity gaps.
+K-12 AI deployment operates at societal scale — millions of students, compulsory education, and significant [[equity-in-ai-education|equity]] implications. Equity research examines whether AI widens or narrows opportunity gaps.
 
 ### Connections
 
@@ -37477,6 +37407,17 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[llm]]
 - [[generative-ai]]
 - [[teacher-education]]
+- [[zone-of-proximal-development]]
+- [[metacognition]]
+- [[rct]]
+- [[faculty-development]]
+- [[instructional-design]]
+- [[active-learning]]
+- [[computational-thinking]]
+- [[cognitive-load-theory]]
+- [[ai-tutoring]]
+- [[collaborative-learning]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 
@@ -37490,6 +37431,10 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[ecnuclaw-k12-personalized-companion]]
 - [[gaide-vibe-coding-k12-teachers]]
 - [[elementary-writing-genai-systematic-review-2026]]
+- [[computational-thinking-ai-agent-creation]]
+- [[hingle-collaborative-ai-literacy-2025]]
+- [[li-ai-science-situated-learning-teachers-2025]]
+- [[panciroli-ai-literacy-episodes-situated-learning]]
 
 ---
 
@@ -38837,7 +38782,7 @@ The wiki advocates safety as a design requirement, not an afterthought. [[pedago
 
 ### Connections
 
-Pedagogical safety connects to [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[regulation]], [[ai-governance-education]], and [[llm]]. It is the protective layer that enables safe AI education deployment.
+Pedagogical safety connects to [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[regulation]], [[governance]], and [[llm]]. It is the protective layer that enables safe AI education deployment.
 
 ## Connected Concepts
 
@@ -38846,7 +38791,7 @@ Pedagogical safety connects to [[hallucination-risk]], [[rag]], [[k-12]], [[ethi
 - [[k-12]]
 - [[ethics]]
 - [[regulation]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[llm]]
 - [[over-reliance]]
 - [[ai-tutoring]]
@@ -39175,7 +39120,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[ethics]]
 - [[regulation]]
 - [[equity-in-ai-education]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[educational-policy-ai]]
 - [[pedagogical-safety]]
 - [[student-experience]]
@@ -39558,25 +39503,28 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 > **AI regulation** — the laws, policies, and governance frameworks that control how AI is developed and deployed in educational settings. Regulation in the wiki spans government policy, institutional governance, and industry self-regulation.
 
+Regulation is the legal and policy layer of AI [[governance]]: it sets the binding rules, standards, and enforcement mechanisms that institutional governance translates into practice. Where governance is the broad framework of norms and structures, regulation provides the authoritative rules — from national AI laws and [[privacy|data-protection]] statutes to institutional acceptable-use policies and professional guidelines. A recurring theme in the wiki's research is that regulation lags behind AI deployment, leaving institutions to improvise governance in the gap.
+
 ### Regulatory landscape
 
-- **Government policy:** [[educational-policy-ai]] research examines national and regional AI education policies. [[state-policy-teacher-ai|State-level teacher AI policy]] and [[ai-lifelong-learning-policy|lifelong learning policy]] address regulatory gaps.
-- **Institutional governance:** [[ai-governance-education|AI governance frameworks]] and [[genai-policies-higher-ed-computing|institutional policy analysis]] document how universities develop internal AI rules.
+- **Government policy:** [[educational-policy-ai]] research examines national and regional AI education policies. [[state-policy-teacher-ai|State-level teacher AI policy]] and [[ai-lifelong-learning-policy|lifelong learning policy]] address regulatory gaps, while [[ai-uk-higher-education-policy-2026|UK AI higher-education policy]] and [[oecd-digital-education-outlook-2026|the OECD Digital Education Outlook]] situate national approaches in comparative and international perspective.
+- **Institutional governance:** [[governance|AI governance frameworks]] and [[genai-policies-higher-ed-computing|institutional policy analysis]] document how universities develop internal AI rules, while [[genai-declaration-frameworks-higher-education|AI declaration frameworks]] and [[genai-assessment-governance|assessment governance]] regulate AI use in assessed work.
 - **Safety regulation:** [[pedagogical-safety]], [[child-safety-genai|child safety]], and [[eduzone-llm-safety-k12|K-12 safety frameworks]] represent de facto regulation through safety requirements.
-- **Ethics as regulation:** [[ethics]] frameworks increasingly serve regulatory functions — [[ai-ethics-education-public-discourse|public discourse on AI ethics]] shapes policy expectations.
+- **Ethics as regulation:** [[ethics]] frameworks increasingly serve regulatory functions — [[ai-ethics-education-public-discourse|public discourse on AI ethics]] shapes policy expectations, and [[league-ethical-governance-student-data-2026|ethical governance of student data]] shows how ethics principles harden into binding rules.
+- **Compliance and accountability:** [[student-regulatory-awareness-genai|student regulatory awareness]] examines whether learners actually know and follow AI rules, and [[dot-framework-survey-2026|technology-adoption frameworks]] explore how regulatory and ethical concerns influence adoption decisions.
 
 ### The governance gap
 
-The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy.
+The wiki documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy. Studies of [[ai-education-global-capacity|global AI-education capacity]] and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] highlight that regulation is uneven across jurisdictions and educational levels, creating an inconsistent operating environment for teachers, students, and developers.
 
 ### Connections
 
-Regulation connects to [[educational-policy-ai]], [[ai-governance-education]], [[ethics]], [[privacy]], [[pedagogical-safety]], and [[academic-integrity]]. It is the institutional layer that shapes how all other AI education practices operate.
+Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[privacy]], [[pedagogical-safety]], and [[academic-integrity]]. It is the institutional layer that shapes how all other AI education practices operate. Regulation both constrains and enables: it sets the boundaries of acceptable AI use while creating the conditions — through [[ai-literacy]] and responsible-use expectations — for [[equity-in-ai-education|equitable]], safe integration.
 
 ## Connected Concepts
 
 - [[educational-policy-ai]]
-- [[ai-governance-education]]
+- [[governance]]
 - [[ethics]]
 - [[privacy]]
 - [[pedagogical-safety]]
@@ -39584,6 +39532,8 @@ Regulation connects to [[educational-policy-ai]], [[ai-governance-education]], [
 - [[equity-in-ai-education]]
 - [[higher-ed]]
 - [[k-12]]
+- [[ai-literacy]]
+- [[trust-calibration]]
 
 ## Connected Articles
 
@@ -39593,6 +39543,14 @@ Regulation connects to [[educational-policy-ai]], [[ai-governance-education]], [
 - [[state-policy-teacher-ai]]
 - [[ai-lifelong-learning-policy]]
 - [[ai-ethics-education-public-discourse]]
+- [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+- [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks
+- [[genai-assessment-governance]] — Assessment governance under GenAI
+- [[league-ethical-governance-student-data-2026]] — Ethical governance of student data
+- [[student-regulatory-awareness-genai]] — Student regulatory awareness of GenAI
+- [[dot-framework-survey-2026]] — Technology-adoption frameworks
+- [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
 
 ---
 
@@ -40817,7 +40775,7 @@ A key finding across teacher-education research is the gap between what teachers
 - [[ai-literacy]]
 - [[faculty-development]]
 - [[k-12]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[ethics]]
 - [[ai-education]]
 
@@ -41329,7 +41287,7 @@ The ZPD is tightly coupled to [[cognitive-load-theory]] (support should manage l
 - [[human-in-the-loop-ai]]
 - [[rct]]
 - [[ai-tutoring]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[learning-theories]]
 ## Connected Articles
 

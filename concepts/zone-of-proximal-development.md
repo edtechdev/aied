@@ -34,7 +34,7 @@ The ZPD is tightly coupled to [[cognitive-load-theory]] (support should manage l
 - [[human-in-the-loop-ai]]
 - [[rct]]
 - [[ai-tutoring]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[learning-theories]]
 ## Connected Articles
 

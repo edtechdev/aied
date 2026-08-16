@@ -29,7 +29,7 @@ The findings suggest LLMs can help teachers integrate **culturally relevant comp
 
 - [[culturally-relevant-pedagogy]]
 - [[ai-literacy]]
-- [[k-12-ai-education]]
+- [[k-12]]
 - [[curriculum-design]]
 - [[teacher-ai-competency]]
 - [[teacher-role]]

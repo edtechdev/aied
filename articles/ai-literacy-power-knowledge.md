@@ -37,7 +37,7 @@ For education, the argument shifts the goal of AI literacy instruction from comp
 - [[curriculum-design]]
 - [[student-experience]]
 - [[teacher-ai-competency]]
-- [[k-12-ai-education]]
+- [[k-12]]
 
 ## Connected Articles
 
