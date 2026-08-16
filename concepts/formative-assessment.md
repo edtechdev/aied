@@ -55,7 +55,7 @@ Formative assessment in AI education connects to the learning process itself:
 
 ## Risk: Assessment as surveillance
 
-Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if governance is weak. This connects to [[privacy]] and [[student-experience|student well-being]], and argues for formative systems that support learning rather than surveil it.
+Formative assessment systems can shift from learning-support tools to behavior-monitoring infrastructure. The same data streams that enable adaptive tutoring can enable punitive tracking if governance is weak. This connects to [[privacy]] and [[well-being|student well-being]], and argues for formative systems that support learning rather than surveil it.
 
 ## Implications for AI in education
 

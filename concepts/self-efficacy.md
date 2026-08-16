@@ -14,7 +14,7 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 ### How self-efficacy appears in the wiki's research
 
 - **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts career adaptability.
-- **Robotics and hands-on learning:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]'s robot-mediated role-play built children's self-efficacy in anti-bullying intervention; robotics and [[educational-robotics|embodied learning]] generally build confidence by grounding tasks in observable outcomes.
+- **Robotics and hands-on learning:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]]'s robot-mediated role-play built children's self-efficacy in anti-bullying intervention; robotics and [[embodied-learning|embodied learning]] generally build confidence by grounding tasks in observable outcomes.
 - **Teacher self-efficacy:** [[teacher-ai-competency|Teacher AI competency]] research examines how professional development builds teachers' confidence in using AI, which affects adoption and integration.
 - **Feedback and confidence:** [[ai-feedback-quality|AI feedback]] and [[ai-tutoring|tutoring]] can build learner self-efficacy by providing actionable, supportive feedback.
 
