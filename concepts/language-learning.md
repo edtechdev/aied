@@ -31,6 +31,8 @@ Language learning has emerged as a significant AI in education domain because la
 - [[student-experience]]
 - [[higher-ed]]
 - [[k-12]]
+- [[discipline-specific-aied]]
+
 ## Connected Articles
 - [[ai-guided-learning-audiovideo-2026]]
 

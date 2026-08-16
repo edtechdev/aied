@@ -46,6 +46,8 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[simulation]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[discipline-specific-aied]]
+
 ## Connected Articles
 - [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
 

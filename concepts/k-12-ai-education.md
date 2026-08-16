@@ -46,6 +46,8 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[cognitive-load-theory]]
 - [[ai-tutoring]]
 - [[collaborative-learning]]
+- [[discipline-specific-aied]]
+
 ## Connected Articles
 
 - [[computational-thinking-ai-agent-creation]]

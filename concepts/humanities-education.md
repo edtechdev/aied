@@ -33,6 +33,7 @@ SSH education foregrounds the very capabilities generative AI most challenges â€
 - [[language-learning]]
 - [[stem-education]]
 - [[ai-education]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 
