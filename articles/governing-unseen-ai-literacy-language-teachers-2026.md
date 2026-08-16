@@ -14,13 +14,15 @@ confidence: high
 
 **Conceptualisation.** AI literacy among language teachers is most often modelled as a set of competencies spanning technological, pedagogical and (less so) critical-ethical dimensions. Domain-specific literacy — how AI reshapes language teaching's subject matter — is comparatively thin, echoing the wiki's broader finding that [[ai-literacy]] frameworks routinely under-specify disciplinary content.
 
-**Professional development.** Training is frequently ad-hoc, unstructured and unevenly planned, mirroring the "individual effort and experimentation" pattern documented across [[faculty-development]]. The review finds little evidence of coherent, sustained PD models despite growing tool availability.
+**Four governance patterns.** Across the corpus, the authors identify four recurring "governing the unseen" patterns: (1) institutional invisibility of AI literacy in workload models, promotion policies, and resource allocation; (2) fragmented professional development rather than coherent, sustained PD; (3) ungoverned ethical ambiguity — unclear guidelines leave teachers to navigate moral and professional dilemmas individually; and (4) displaced accountability, where responsibility for AI literacy is shared or unclear across institutions, teacher-training programmes and policy agencies.
+
+**Professional development.** Training is frequently ad-hoc, unstructured and unevenly planned, mirroring the "individual effort and experimentation" pattern documented across [[faculty-development]]. Despite growing tool availability, the review finds little evidence of coherent, sustained PD models.
 
 **Assessment.** Evaluation of teacher AI literacy relies heavily on self-report instruments, with limited attention to ethical and critical skills — consistent with [[assessment-validity]] concerns about measuring literacy via perception rather than performance.
 
-**Structural barriers.** Limited institutional support, unequal access to resources, unclear ethical guidelines, and shared/unclear responsibility reduce positive individual outcomes (confidence, innovation). The authors frame these as governance failures rather than individual deficits.
+**Structural barriers.** Limited institutional support, unequal access to resources, unclear ethical guidelines, and shared/unclear responsibility reduce positive individual outcomes (confidence, innovation). The authors frame these as governance failures rather than individual deficits: unless there is a conscious effort to govern AI literacy, it will remain unevenly distributed, perpetuate existing inequalities, and place teachers in moral and professional dilemmas.
 
-**Conclusion.** Sustainable AI literacy development requires structural governance — policy, resourcing, and shared responsibility — over individual upskilling. The paper calls for longitudinal, linguistically diverse, and governance-oriented research on language-teacher AI literacy.
+**Conclusion.** Sustainable AI literacy development requires an integrated, system-wide strategy — embedding AI literacy in the curriculum, formalising it in workload and appraisal policies, and offering long-term, subject-specific professional education and ethical support — over occasional workshops and individual upskilling. The paper calls for longitudinal, multi-method, non-Anglophone, performance-based and governance-oriented research on language-teacher AI literacy.
 
 ## Connected Concepts
 

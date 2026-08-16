@@ -12,15 +12,19 @@ confidence: high
 
 ## Key Findings
 
-**Two principal tensions.** Thematic analysis surfaces (1) the erosion of independent, critical and creative thinking, and (2) the destabilisation of established meanings of academic integrity — the twin anxieties now central to Gen-AI in [[higher-ed]].
+**Three themes.** Reflexive thematic analysis of 33 transcripts surfaces three themes: (1) concerns over independent, critical and creative thinking; (2) the impact of Gen-AI on educational and study practices (chiefly workload reduction); and (3) academic integrity and ethical concerns.
 
-**Theoretical frame.** Bourdieu's field and habitus locate Gen-AI use within shifting institutional structures and dispositions, while Arendt's conception of thinking as an inward, untransferable activity supplies the normative criterion against which cognitive passivity is judged.
+**Theme 1 — cognitive inertia and dependency.** Both staff and students worry that Gen-AI encourages cognitive inertia and reduces independent thinking, despite its efficiency. Participants described an "overreliance on the technology" that "makes individuals think less actively; the ability to innovate decreases," and that "excessive reliance on Gen-AI will reduce our ability to analyse independently." There is an awareness that the convenience of Gen-AI can lead to superficial engagement with knowledge — echoing the wiki's [[over-reliance]] and [[cognitive-offloading]] concerns.
 
-**Cognitive passivity risk.** Despite time-saving benefits and emotional support, Gen-AI risks fostering cognitive passivity and undermining the intellectual processes fundamental to higher education — echoing the wiki's [[over-reliance]] and [[cognitive-offloading]] concerns.
+**Theme 2 — practical benefits vs. workload.** Despite the dependency worries, participants acknowledge Gen-AI's practical value for performative, time-consuming tasks — creating test questions and test papers, guiding student thinking, analysing learning situations, and generating work materials, summaries and reports. A reported need to reduce workload sits at the centre of these uses, illustrating the ambivalent everyday negotiation of Gen-AI in [[higher-ed]].
 
-**Reform imperative.** The authors argue for critical curricular reform and reimagined practices that prioritise intellectual development, reframing [[philosophy-of-ai-in-education|the purpose of higher education]] in an AI-mediated environment.
+**Theme 3 — academic integrity and ethical concerns.** The ease with which Gen-AI generates content — including academic papers — raises questions about originality and research integrity. Participants also noted that Chinese-company-managed Gen-AI tools "do not cater for political debates or diverse views and stances on key issues," surfacing an ethical and geopolitical dimension to AI-mediated academic work.
 
-**Agency redefinition.** Safeguarding the humanistic aspect of higher education demands redefining intellectual agency and critical engagement with technological change, linking to [[ai-literacy]] and [[agency]].
+**Theoretical frame.** Bourdieu's field and habitus locate Gen-AI use within shifting institutional structures and dispositions, while Arendt's conception of thinking as an inward, untransferable activity supplies the normative criterion against which cognitive passivity is judged; hooks and Freire further anchor the analysis of curriculum and education as engaged practice and of knowing as "earned, not given."
+
+**Method.** A case-oriented, reflexive thematic approach (Braun & Clarke) was applied to 33 semi-structured interviews from Jiangxi Province, with within-case then cross-case synthesis of staff and student transcripts, reflexive memos, co-researcher coding, and an ethics-approved protocol (#EDU-2024-2716-2733).
+
+**Reform imperative.** The authors argue for critical curricular reform and reimagined practices that prioritise intellectual development, reframing [[philosophy-of-ai-in-education|the purpose of higher education]] in an AI-mediated environment. Safeguarding the humanistic aspect of higher education demands redefining intellectual agency and critical engagement with technological change, linking to [[ai-literacy]] and [[agency]].
 
 ## Connected Concepts
 
