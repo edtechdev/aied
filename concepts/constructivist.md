@@ -88,3 +88,4 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[teacher-ai-teaming-five-levels]] — Levels of teacher–AI collaboration in design
 - [[ccct-cooperative-learning-technique]] — Cooperative learning framed through constructivist theories
 - [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — Epistemic co-agency between learner and machine
+- [[ensemble-cognition-philosophy-ai-education]]

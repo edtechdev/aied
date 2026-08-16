@@ -1,4 +1,26 @@
+## [2026-08-16] ingest | 1 conceptual analysis (Frontiers in Developmental Psychology)
+
+- Artificial intelligence as a cognitive partner: a developmental framework for human-AI co-regulation in learning (S, Joseph, Jose, S. M, N, & Joseph, 2026; DOI 10.3389/fdpys.2026.1835258) — [[ai-cognitive-partner-co-regulation-learning]]
+- Added to index.md; concept backlinks: learning-theories, cognitive-offloading, self-regulated-learning, metacognition, scaffolding, ai-tutoring, human-ai-collaboration, over-reliance
+- Sources: raw/papers/ai-cognitive-partner-co-regulation-learning.md
+
+## [2026-08-16] ingest | 1 arXiv paper (Qianrun Mao, 2504.20851)
+
+- Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework (arXiv cs.CY, 2504.20851) — [[self-directed-growth-generative-ai-learning-analytics]]
+- Added to index.md; concept backlinks: self-regulated-learning, learning-analytics, personalized-learning, agency, generative-ai, learning-theories, ai-education, higher-ed, lifelong-learning
+- Sources: raw/papers/self-directed-growth-generative-ai-learning-analytics.md
+
 ## [2026-08-16] New concept pages: Behaviorism + Learning Theories (umbrella for the wiki's learning-theory strand); back-links to 13-17 theory pages; integrated into ai-education hub + left-nav conceptIndex.ts
+
+## [2026-08-16] ingest | 1 arXiv paper + 1 T&F paper + 1 Frontiers paper + 1 Nature meta-analysis (learning-theory batch)
+
+- Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework (Qianrun Mao, arXiv cs.CY, 2504.20851, open access) — [[self-directed-growth-generative-ai-learning-analytics]]
+- Towards a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments (Jho, Park & Ahn, 2026; DOI 10.1080/00131857.2026.2654678, CC BY) — [[ensemble-cognition-philosophy-ai-education]]
+- Artificial intelligence as a cognitive partner: a developmental framework for human-AI co-regulation in learning (S, Joseph, Jose, S. M, N & Joseph, 2026; DOI 10.3389/fdpys.2026.1835258, CC BY) — [[ai-cognitive-partner-co-regulation-learning]]
+- Generative AI technologies and educational outcomes: a comprehensive meta-analysis (Ying Dong, 2026; DOI 10.1057/s41599-026-06903-y, CC BY-NC-ND FLAGGED) — [[genai-educational-outcomes-meta-analysis]]
+- Enriched learning-theories concept with three new theoretical directions: Human-AI co-regulation, Ensemble Cognition, Self-Directed Growth / A2PL
+- Back-links added to learning-theories, cognitive-offloading, self-regulated-learning, metacognition, scaffolding, agency, human-ai-collaboration, ai-education, etc.
+- Updated index.md + journal.md
 
 
 ## [2026-08-07] ingest | 5 arXiv papers (cron daily scan)

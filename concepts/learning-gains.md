@@ -42,3 +42,4 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
+- [[genai-educational-outcomes-meta-analysis]]

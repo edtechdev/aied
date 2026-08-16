@@ -72,3 +72,4 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[veriforge-narrative-drafting-scaffolding-2026]]
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[sovereign-hive-titl-further-education-2026]]
+- [[ai-cognitive-partner-co-regulation-learning]]

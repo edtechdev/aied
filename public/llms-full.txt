@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 644 articles and 138 concepts.
+> Complete text of 648 articles and 138 concepts.
 
 # Articles
 
@@ -2223,6 +2223,65 @@ This paper explores how an embodied AI agent can act as a [[scaffolding|coach]] 
 ## Citation
 
 Wang, W., Gu, E., Loquercio, A., Hu, H., & Mangharam, R. (2026). [AI Coaching for Accelerating Human Skill Development with Reinforcement Learning](https://arxiv.org/abs/2606.25337). arXiv:2606.25337. cs.RO.
+
+---
+
+## [Artificial intelligence as a cognitive partner: a developmental framework for human-AI co-regulation in learning](https://edtechdev.github.io/aied/articles/ai-cognitive-partner-co-regulation-learning/)
+
+> **Synthesis:** This conceptual analysis by S, Joseph, Jose, S. M, N, & Joseph (2026) proposes that AI should be understood not merely as an external tool but as a **cognitive partner** in the co-regulation of thinking, learning, and self-control. Drawing on executive function, [[metacognition]], distributed cognition, and sociocultural development, it frames human-AI interaction as co-regulated cognition where AI acts as a scaffold, metacognitive support, external memory system, and decision partner. The framework is argued to be most relevant in middle childhood, adolescence, and adulthood, weighing the benefits of cognitive offloading against the risks of over-reliance.
+
+# Artificial intelligence as a cognitive partner
+
+## The shift from tool to cognitive partner
+
+The paper argues that developmental psychology has lacked a theoretical framework for the role of AI in cognition regulation across the lifespan. It proposes that AI participates in the co-regulation of thought and action rather than merely providing information. Grounded in [[learning-theories|learning theory]], the authors integrate executive function, [[metacognition]], distributed cognition, and sociocultural (Vygotskian) development to describe a developmental paradigm of human-AI co-regulation.
+
+## Four roles of AI in cognitive regulation
+
+1. **Scaffold for cognitive performance** — AI systems (e.g., [[ai-tutoring|intelligent tutoring systems]]) enable learners to work beyond their independent capability, offering 24-hour support, real-time feedback, and dynamically adjusted difficulty, extending traditional [[scaffolding]].
+2. **Metacognitive support** — conversational AI prompts users to rethink answers, generate alternative explanations, and validate their reasoning, supporting [[self-regulated-learning|self-regulated learning]].
+3. **External memory and cognitive offloading system** — AI stores, retrieves, and generates information, offloading working-memory load in line with [[cognitive-offloading]] research.
+4. **Decision partner** — recommendation and conversational systems participate in planning and decision-making, framing AI as a collaborator rather than a tool.
+
+## Developmental stages and co-regulation
+
+The framework is stage-sensitive: it is most directly applicable to middle childhood, adolescence, and adulthood, where metacognitive and self-regulatory capacities are developed enough for meaningful [[human-ai-collaboration|human-AI collaboration]]. In early childhood, AI's role is limited to structured external regulation of behavior. Across later stages, AI shifts from metacognitive partner (middle childhood and adolescence) to collaborator in complex cognition (adulthood).
+
+## Benefits and risks
+
+AI-assisted co-regulation can improve performance, reduce cognitive load, and extend memory through beneficial offloading. However, the authors warn of the risks of excessive [[cognitive-offloading]], [[over-reliance]] on external advice, and reduced effortful processing and independent reasoning — outcomes that can undermine the development of self-regulation and critical-thinking skills, especially in younger learners.
+
+## Key Findings
+
+- Proposes a developmental framework of human-AI co-regulation in which AI is conceptualized not merely as an external tool but as a **cognitive partner** in the co-regulation of thinking, learning, and self-control.
+- Integrates executive function, metacognition, distributed cognition, and sociocultural development theories to frame AI-mediated cognition as co-regulated between learner and intelligent system.
+- Identifies four roles for AI in cognitive regulation: scaffold, metacognitive support, external memory / cognitive offloading system, and decision partner.
+- Argues the framework is most relevant in middle childhood, adolescence, and adulthood; early childhood AI support is limited to structured external regulation.
+- Highlights both benefits (performance gains via offloading, scaffolding, reduced cognitive load) and risks (over-reliance, excessive cognitive offloading, reduced independent reasoning and self-regulation development).
+- Calls for longitudinal research, common conceptual definitions, and learning environments that balance external support with independent problem solving.
+
+## Connected Concepts
+
+- [[learning-theories]]
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[scaffolding]]
+- [[ai-tutoring]]
+- [[human-ai-collaboration]]
+- [[over-reliance]]
+
+## Connected Articles
+
+- [[cognitive-offloading-llm-synthesis-writing]]
+- [[lodge-loble-cognitive-offloading-2026]]
+- [[ai-metacognition-stem-review]]
+- [[haiml-human-centered-ai-metacognitive-model-2026]]
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]]
+
+## Citation
+
+S, P., Joseph, J., Jose, M., S. M, A., N, R., & Joseph, J. (2026). [*Artificial intelligence as a cognitive partner: a developmental framework for human-AI co-regulation in learning*](https://doi.org/10.3389/fdpys.2026.1835258). *Frontiers in Developmental Psychology*, 4, 1835258.
 
 ---
 
@@ -11561,6 +11620,58 @@ Xia, T., Tan, M., & Guo, J. (2026). [*Enhancing online learning outcomes through
 
 ---
 
+## [Towards a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments](https://edtechdev.github.io/aied/articles/ensemble-cognition-philosophy-ai-education/)
+
+> **Synthesis:** Jho, Park & Ahn (2026) introduce **Ensemble Cognition (EC)** as a philosophical framework reconceptualising thinking as emerging from dynamic interactions between human and artificial agents, rather than residing solely within individual minds. EC distinguishes **functional agency** (AI's capacity to influence outcomes without consciousness) from **moral responsibility** (which remains exclusively human), and articulates five features—distributed agency, dynamic centrality, cognitive orchestration, multi-representational integration, and context-sensitive switching—to characterise learning environments where cognitive leadership shifts dynamically between humans and AI. It offers educational philosophy conceptual resources for critically engaging with AI-mediated learning while preserving commitments to human flourishing and educational justice.
+
+## Key Findings
+
+- **EC as a post-consciousness-paradigm framework.** The paper argues that contemporary AI-mediated environments strain three foundational assumptions of the "consciousness paradigm" in educational philosophy: the autonomy assumption (authentic learning from individual reflection), the consciousness assumption (cognition requires first-person experience), and the stability assumption (cognitive roles are fixed across contexts). EC reconceptualises thinking as a collaborative achievement among human and artificial agents.
+
+- **Critique of 4E cognition, distributed cognition, and actor-network theory.** Each framework raises specific conceptual questions in AI-mediated education: 4E cognition (embodied, embedded, enacted, extended) was built for biological cognition and struggles with agents that lack sensorimotor embodiment yet inherit embodied structure linguistically; **distributed cognition** (DCog) excels descriptively but provides insufficient normative resources for evaluating whether cognitive distributions serve educational goals; **actor-network theory** (ANT) attributes symmetrical agency to humans and non-humans, which conflicts with education's fundamentally asymmetrical ethics and obscures distinctions between functional participation and moral responsibility.
+
+- **Functional agency without consciousness.** AI systems exhibit adaptive responsiveness, contextual sensitivity, and generative capacity that place them in an intermediate category between passive instruments and conscious agents. This is functional agency—genuine causal efficacy in cognitive processes that does not require self-reflection, intentionality, or phenomenal consciousness.
+
+- **Functional agency ≠ moral responsibility.** The framework's central distinction addresses anthropomorphisation concerns: AI can influence learning outcomes without bearing moral responsibility for them. Responsibility remains with human agents who design, deploy, and oversee AI systems in educational contexts.
+
+- **Five features of ensemble cognition.** (1) **Distributed agency**—no single actor monopolises cognition; (2) **dynamic centrality**—cognitive leadership shifts by task demands, shaped even by how users craft prompts; (3) **cognitive orchestration**—coordinated integration of diverse cognitive resources toward coherent outcomes; (4) **multi-representational integration**—integration of linguistic, visual, and mathematical resources (distinct from neuroscientific multimodality); (5) **context-sensitive switching**—cognitive systems adapt their organisation to situational demands, and different AI architectures generate qualitatively distinct collaborative dynamics.
+
+- **Distributed metacognitive awareness.** Thinking about thinking expands from individual self-monitoring to collaborative cognitive management: students must understand how different agents contribute, when to rely on AI versus human judgement, and how to orchestrate collaborative processes. This raises questions about whether it enhances or outsources distinctively human capacities for reflection and self-direction.
+
+- **Distributed pedagogical arrangements and orchestrated authorship.** Teachers become cognitive orchestrators managing interactions between students, AI, and resources; student authorship is reconceptualised as "orchestrated authorship" where responsibility lies in transparently managing collaborative processes and exercising critical judgement over AI contributions.
+
+- **Critical boundaries and concerns.** The framework acknowledges the transparency problem (opaque AI decision-making), cultural embeddedness (AI privileging particular values like efficiency over care, caution, and contextual sensitivity, per Jackson 2025), human cognitive development and intellectual autonomy, power and democratic participation, and its own cultural situatedness within Western cognitive science and analytic philosophy of mind.
+
+## Educational Significance
+
+EC's value lies in offering conceptual vocabulary for asking better questions about human-AI collaboration in learning, navigating between uncritical anthropomorphisation of AI and reductive instrumentalism that treats it as a mere tool. It directly engages the [[cognitive-offloading]] debate, questions about [[agency]] and intellectual autonomy, and the reconceptualisation of [[metacognition]] as collaborative. The framework positions [[human-ai-collaboration]] and [[pedagogical-agent]] roles within [[higher-ed]] and broader [[ai-education]] contexts, while its engagement with [[embodied-learning]] and [[constructivist]] traditions grounds it in existing learning theory.
+
+## Connected Concepts
+
+- [[agency]]
+- [[metacognition]]
+- [[human-ai-collaboration]]
+- [[embodied-learning]]
+- [[cognitive-offloading]]
+- [[ai-education]]
+- [[higher-ed]]
+- [[constructivist]]
+- [[pedagogical-agent]]
+
+## Connected Articles
+
+- [[tzirides-thinking-through-ai-2025]] — Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education
+- [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
+- [[ai-making-us-stupid]] — Is AI making us stupid?
+- [[brcic-effortless-trap-productive-struggle-2026]] — The effortless trap and productive struggle
+- [[rethinking-ai-writing-feedback-literacy]] — Rethinking AI, writing, and feedback literacy
+
+## Citation
+
+Jho, H., Park, C., & Ahn, D. (2026). [*Towards a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments*](https://doi.org/10.1080/00131857.2026.2654678). *Educational Philosophy and Theory*. doi:10.1080/00131857.2026.2654678.
+
+---
+
 ## [Ordered Network Analysis of Epistemic Emotions during Collaborative Problem Solving](https://edtechdev.github.io/aied/articles/epistemic-emotions-collaborative-problem-solving/)
 
 Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered Network Analysis to trace how epistemic emotions such as confusion and frustration persist and transition during co-situated collaborative problem solving. The work advances affect-aware learning analytics by modeling the temporal ordering of emotional states rather than static frequencies, informing when interventions should trigger in [[affective-tutoring]] systems and multimodal detectors like [[multimodal-affective-its-presentation]]. It grounds affect dynamics in [[collaborative-learning]] contexts, complements sensor-based approaches like [[affective-text-wearable-student-health]] and video-based [[engagement-assessment-video]].
@@ -13052,6 +13163,53 @@ The learner-outcome and process indicators were collected in the same session, m
 ## Citation
 
 Gao, X. (2026). [*From unified to differentiated materials: Generative AI–supported adaptation of EAP reading materials*](https://doi.org/10.3389/fpsyg.2026.1887565).
+
+---
+
+## [Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches](https://edtechdev.github.io/aied/articles/genai-educational-outcomes-meta-analysis/)
+
+> **Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches** — Dong (2026), *Humanities and Social Sciences Communications* 13, 559. A PRISMA-based meta-analysis of 53 studies that pools the effect of generative AI (GenAI) on educational outcomes. The central conclusion: GenAI generally outperforms traditional and non-GenAI approaches on academic achievement, higher-order thinking, and writing skills, and GenAI feedback is particularly effective — though game-assisted GenAI shows no significant added benefit, and gains vary by country and are consistent across university and secondary levels. ⚠️ Published under CC BY-NC-ND 4.0 (non-commercial, no-derivatives) — see the source note.
+
+## Key Findings
+
+**GenAI broadly improves learning outcomes.** Pooling 53 studies, the meta-analysis finds GenAI-assisted education significantly outperforms non-GenAI approaches across academic achievement (g = 0.40), higher-order thinking (g = 0.72), learning motivation (g = 0.81), and writing skills (g = 0.76). This positions GenAI as a genuine [[learning-gains]] lever rather than a novelty. The authors frame GenAI as a "cognitive aid" that strengthens thinking when used to support — not replace — the learner, echoing the [[constructivist]] emphasis on active knowledge construction over passive reception. The pattern is consistent with broader [[ai-ed-evaluation]] syntheses that find positive but heterogeneous effects of GenAI in education.
+
+**GenAI feedback is the standout mechanism.** GenAI feedback produced the largest effect in the study (g = 1.27), outperforming non-GenAI feedback. Its advantages are comprehension, timeliness, and objectivity in a context where human teachers lack time for detailed personalized feedback. This connects directly to the [[ai-feedback-quality]] literature. Caveats remain: students can distrust GenAI feedback, and its lack of emotional response may raise [[cognitive-load-theory|cognitive load]]. The authors ground the mechanism in [[metacognition]] theory — feedback supports students' monitoring and self-regulation of learning.
+
+**Game-assisted GenAI shows no added value.** Game-assisted GenAI did not significantly outperform non-game-assisted approaches (g = 0.24), because games can distract learners and reduce retention. The authors argue game *design quality* — not [[gamification]] per se — determines effectiveness, in line with [[self-determination-theory]]. For younger learners with weaker self-regulation, non-gamed designs may be preferable.
+
+**Country moderators are nuanced.** GenAI significantly outperformed non-GenAI in China (g = 0.71) and Pakistan (g = 0.75), where GenAI helps bridge educational-resource inequity. But in Korea and Turkey (g = 1.68, g = 0.01, both non-significant), teacher-centered pedagogical cultures and curricular misalignment slowed adoption. The authors caution that excluding Korean/Turkish-language studies may have biased these findings.
+
+**Consistent gains across educational levels.** GenAI improved outcomes at both university (g = 0.70) and secondary (g = 0.80) levels, supporting its use across [[higher-ed]] and K-12 contexts. Strategies differ: university settings emphasize research skills and scholarly work; secondary settings emphasize knowledge delivery and interest cultivation.
+
+**Robustness.** Publication bias was detected (Egger's and Begg's tests) but trim-and-fill analysis confirmed the pooled result remains significant. Leave-one-out sensitivity analysis showed all effect sizes within pooled confidence intervals, indicating stable, reliable findings.
+
+## Implications
+
+For [[ai-ed-evaluation]] practice, this study is a high-confidence, quantitative anchor showing that GenAI's benefits are real but context-dependent. The strong feedback finding reinforces the growing [[ai-feedback-quality]] evidence base and suggests institutions should prioritize feedback-intensive GenAI uses. The null game-assisted result is a useful counterweight to [[game-based-learning]] hype, and the country-level divergence warns against universalist claims: efficacy hinges on pedagogical culture and resource context. The authors recommend future research on students with disabilities and on long-term effects on self-directed learning and [[critical-thinking]] — concerns that connect to the [[over-reliance]] literature on GenAI-induced cognitive erosion. Because the paper is a [[meta-analysis-systematic-review]], its pooled estimates help ground [[generative-ai]] adoption decisions in aggregated evidence rather than single studies.
+
+## Connected Concepts
+
+- [[ai-ed-evaluation]]
+- [[ai-feedback-quality]]
+- [[constructivist]]
+- [[critical-thinking]]
+- [[game-based-learning]]
+- [[gamification]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[learning-gains]]
+- [[meta-analysis-systematic-review]]
+- [[metacognition]]
+- [[over-reliance]]
+- [[personalized-learning]]
+- [[self-determination-theory]]
+
+## Citation
+
+Dong, Y. (2026). [Generative AI technologies and educational outcomes: a comprehensive meta-analysis comparing traditional and AI-driven approaches](https://www.nature.com/articles/s41599-026-06903-y). *Humanities and Social Sciences Communications* 13, 559. https://doi.org/10.1057/s41599-026-06903-y
+
+> ⚠️ **License note:** Published under **CC BY-NC-ND 4.0** (non-commercial, no-derivatives). This differs from the CC BY license used by most other entries in this wiki. If the non-commercial / no-derivatives restriction is a concern, this entry and its raw source can be removed on request.
 
 ---
 
@@ -25545,6 +25703,45 @@ Palmquist, A., Sigurdardottir, H. D., & Myhre, H. (2025). [*Exploring interfaces
 
 ---
 
+## [Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework](https://edtechdev.github.io/aied/articles/self-directed-growth-generative-ai-learning-analytics/)
+
+> **Synthesis:** Mao (2025) proposes a conceptual framework that integrates Generative AI (GAI) and [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth** — a competency enabling learners to iteratively drive their own developmental pathways across contexts. At its core is the **Aspire to Potentials for Learners (A2PL)** model, which reconceptualizes learner aspirations, complex thinking, and summative self-assessment within GAI-supported environments. The paper argues that sustainable learner [[agency]] and educational equity depend less on access than on building the Capacity to Aspire and clear developmental pathways, positioning GAI as a non-prescriptive collaborative scaffold rather than a content provider.
+
+## Key Findings
+
+- **Self-Directed Growth as a distinct competency.** The paper defines it as a learner's capacity to drive continuous and sustainable self-directed learning (SDL) cycles across diverse tasks and contexts, positioning the learner as initiator, executor, assessor, and primary agent of their own journey. It is framed as an advanced extension of [[self-regulated-learning|self-directed learning]] oriented toward self-actualization and an internal compass rather than predefined task outcomes.
+- **The A2PL model reconfigures three pillars of SDL.** Drawing on Morris's (2019) foundations, the framework centers the **Capacity to Aspire** (humanistic philosophy), **Complex Thinking** (constructivist epistemology), and **Self-Assessment** (pragmatic philosophy) around Self-Directed Growth, operating across three interacting levels: Person, Task, and Person x Task. This is grounded in [[learning-theories|learning-theory]] traditions connecting aspiration, complex reasoning, and reflexive self-evaluation.
+- **GAI as a non-prescriptive collaborative scaffold.** The paper argues GAI should support guided discovery rather than deliver direct answers or disclose SDL rubrics, using diagnostic analytics (scoring summative self-assessment frameworks against an Aspire to Potential Scoring Rubric) and interactive analytics (sequenced, thought-provoking, calibrated prompts) to avoid reinforcing [[over-reliance|over-reliance on AI]].
+- **A methodological critique of task-level agency measurement.** The paper criticizes existing SDL/SRL studies that rely on post-task questionnaires and task-specific self-efficacy as indicators of agency, arguing this risks circular reasoning and neglects context, strategies, and feedback integration. It calls for dynamic, learner-driven [[learning-analytics|learning analytics]] that capture analytical cognition of SDL across cycles.
+- **Equity through the Capacity to Aspire, not just access.** Building on Appadurai's (2004) capacity to aspire and UNESCO's SDG 4 framing, the paper contends that educational equity requires learners — especially disadvantaged populations — to envision and pursue diverse, personalized pathways aligned with their own experiences, rather than relying on standardization or information access alone.
+- **Conceptual status explicitly acknowledged.** The study is theoretical and non-empirical, with acknowledged limits: under-theorized human–AI psychological dynamics, a need for clearer operational definitions of Self-Directed Growth, and the absence of critical theories of power, access, and technological determinism.
+
+## Connected Concepts
+
+- [[self-regulated-learning]]
+- [[learning-analytics]]
+- [[personalized-learning]]
+- [[agency]]
+- [[generative-ai]]
+- [[learning-theories]]
+- [[ai-education]]
+- [[higher-ed]]
+- [[lifelong-learning]]
+
+## Connected Articles
+
+- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding self-regulated feedback with GenAI vs. human peers
+- [[jin-genai-learning-analytics-feedback-literacy]] — Students' perceptions of GenAI-powered learning analytics in feedback
+- [[agency-gap-ai-writing]] — The agency gap in AI-supported writing
+- [[aied-unfinished-mission-bypass]] — AIED's unfinished mission: centering agency and motivation
+- [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates ChatGPT acceptance and self-regulated learning
+
+## Citation
+
+Mao, Q. (2025). [*Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework*](https://arxiv.org/abs/2504.20851). arXiv:2504.20851 [cs.CY].
+
+---
+
 ## [Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice](https://edtechdev.github.io/aied/articles/self-efficacy-tutoring-learning/)
 
 > **Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, Paulo F. Carvalho** (2026). EC-TEL 2026
@@ -35283,6 +35480,14 @@ Learning theories matter for three reasons:
 - **They expose the theory-practice gap.** Empirical work repeatedly finds that AI implementations embody different theories than the discourse claims — most notably constructivist language paired with behaviorist drill-and-practice mechanics.^[[ai-vocational-education-training-review]] Evaluating AI therefore requires asking *which* theory a system actually embodies, not just whether it "works."
 - **They are being actively rethought.** Generative AI is prompting educators to revisit whether the classical theories suffice. [[generativism-learning-theory|Generativism]] proposes that learning in the AI age increasingly occurs through iterative co-construction between human learners and AI systems, extending rather than replacing the classical four (behaviorism, cognitivism, constructivism, connectivism).^[[generativism-learning-theory]]
 
+### New theoretical directions from recent AIED work
+
+Recent theoretical work extends the classical strand in several directions, each re-centring the human–AI relationship rather than treating AI as a neutral tool:
+
+- **Human–AI co-regulation.** A developmental framework positions AI not as an external instrument but as a **cognitive partner** that co-regulates thinking, learning, and self-control across the lifespan.^[[ai-cognitive-partner-co-regulation-learning]] Drawing on executive function, [[metacognition]], distributed cognition, and sociocultural development, it casts AI in four roles — scaffold, metacognitive support, external memory / [[cognitive-offloading]] system, and decision partner — with the framework most relevant from middle childhood onward.
+- **Ensemble Cognition.** A philosophical framework reconceptualises thinking as emerging from dynamic interactions between human and artificial agents rather than residing solely in individual minds.^[[ensemble-cognition-philosophy-ai-education]] It challenges the "consciousness paradigm" (the autonomy, consciousness, and stability assumptions) and articulates five features — distributed agency, dynamic centrality, cognitive orchestration, multi-representational integration, and context-sensitive switching — while distinguishing AI's **functional agency** from moral responsibility.
+- **Self-Directed Growth / A2PL.** An extension of [[self-regulated-learning|self-directed learning]] integrates Generative AI with [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth**, operationalised through the Aspire to Potentials for Learners (A2PL) model.^[[self-directed-growth-generative-ai-learning-analytics]] It reconfigures learner aspirations (humanistic), complex thinking (constructivist), and self-assessment (pragmatic) into a single competency, positioning GAI as a non-prescriptive collaborative scaffold rather than a content provider.
+
 ### How the wiki organizes this strand
 
 Rather than treating learning theories as abstract philosophy, the wiki grounds each in the AI-in-education research that uses it. The [[constructivist]] and [[behaviorism]] pages document how AI designs embody (or betray) each theory; [[cognitive-load-theory]], [[self-regulated-learning]], [[metacognition]], and [[transfer-of-learning]] connect theory to specific AI mechanisms and outcomes. This mirrors how the wiki treats other umbrella domains like [[feedback]] and [[assessment]] — a coherent system of interacting concepts rather than isolated pages.
@@ -35317,6 +35522,9 @@ Learning theories also appear as content in AI literacy curricula: learners stud
 
 ## Connected Articles
 
+- [[ai-cognitive-partner-co-regulation-learning]] — Positions AI as a cognitive partner in human-AI co-regulation; developmental framework across the lifespan
+- [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework reconceptualising thinking as human–AI interaction
+- [[self-directed-growth-generative-ai-learning-analytics]] — Self-Directed Growth and the A2PL model extending self-directed learning with GenAI
 - [[generativism-learning-theory]] — Proposes a new learning theory for the generative AI age, revisiting the classical four
 - [[ai-vocational-education-training-review]] — Documented the constructivism/behaviorism theory-practice gap in AI for VET
 - [[constructivist]] — (cross-reference) Constructivism as the wiki documents it

@@ -52,3 +52,4 @@ Scaffolding connects to [[over-reliance]] (scaffolding that doesn't fade creates
 - [[correct-answer-trap-ai-tutor]]
 - [[critical-thinking-genai-scaffolding]]
 - [[veriforge-narrative-drafting-scaffolding-2026]]
+- [[ai-cognitive-partner-co-regulation-learning]]
