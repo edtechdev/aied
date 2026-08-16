@@ -37,6 +37,7 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[higher-ed]]
 - [[k-12]]
 - [[formative-assessment]]
+- [[behaviorism]]
 
 ## Connected Articles
 - [[chudziak-ai-math-tutoring-platform]] — Adaptive/personalized multi-agent math tutoring (Chudziak & Kostka 2025)

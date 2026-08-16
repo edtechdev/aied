@@ -82,6 +82,8 @@ For example:
 - [[authentic-assessment]]
 - [[feedback-literacy]]
 - [[feedback]]
+- [[learning-theories]]
+- [[behaviorism]]
 
 ## Connected Articles
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)

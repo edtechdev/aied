@@ -70,6 +70,8 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[critical-thinking]]
 - [[ai-literacy]]
 - [[student-misconceptions-ai]]
+- [[learning-theories]]
+- [[behaviorism]]
 
 ## Connected Articles
 

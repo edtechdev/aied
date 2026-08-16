@@ -27,6 +27,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[simulation]]
 - [[educational-robotics]]
 - [[higher-ed]]
+- [[learning-theories]]
 
 ## Connected Articles
 

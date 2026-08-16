@@ -74,6 +74,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[ai-tutoring]]
 - [[k-12]]
 - [[self-regulated-learning]]
+- [[learning-theories]]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]

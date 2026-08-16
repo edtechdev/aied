@@ -30,6 +30,7 @@ Dual-process theory connects to [[cognitive-load-theory]], [[metacognition]], an
 - [[educational-measurement]]
 - [[reducing-ai-misuse]]
 - [[psychometrically-aware-ai]]
+- [[learning-theories]]
 
 ## Connected Articles
 

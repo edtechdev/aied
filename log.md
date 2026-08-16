@@ -1,3 +1,4 @@
+## [2026-08-16] New concept pages: Behaviorism + Learning Theories (umbrella for the wiki's learning-theory strand); back-links to 13-17 theory pages; integrated into ai-education hub + left-nav conceptIndex.ts
 
 
 ## [2026-08-07] ingest | 5 arXiv papers (cron daily scan)

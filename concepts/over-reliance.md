@@ -49,6 +49,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[higher-ed]]
 - [[teacher-role]]
 - [[prompt-engineering]]
+- [[behaviorism]]
 
 ## Connected Articles
 - [[coach-not-crutch-ai-writing]] — Coach not crutch: effort vs. learning environment, AI writing (Lira et al. 2025)

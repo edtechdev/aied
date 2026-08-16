@@ -40,6 +40,7 @@ Scaffolding connects to [[over-reliance]] (scaffolding that doesn't fade creates
 - [[adaptive-learning]]
 - [[llm]]
 - [[higher-ed]]
+- [[learning-theories]]
 
 ## Connected Articles
 - [[brcic-effortless-trap-productive-struggle-2026]] — Guarded vs. unguarded AI: the placement rule (Brcic & Frljic 2026)
