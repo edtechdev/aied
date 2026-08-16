@@ -1,3 +1,11 @@
+## [2026-08-16] ingest | The StudyChat Dataset (arXiv:2503.07928, LAK '26)
+
+- Ingested McNichols, Ikram & Lan (2026), arXiv:2503.07928 (cs.AI/cs.HC), CC BY — the StudyChat dataset of 16,851 annotated student–LLM utterances (2,214 conversations, 203 students, 7 programming assignments) in a university AI course, with a two-level dialogue-act schema (8 broad / 31 specific) validated via human + LLM annotation. Findings: conceptual/coding-help prompting predicts better assignments+exams; report-writing/circumvention predicts worse; high-usage students show reduced outcome variance.
+- Created articles/studychat-student-dialogues-chatgpt-ai-course-2026.md + raw/papers full text.
+- Cross-linked bidirectionally with [[principal-trait-analysis-human-ai-skills-2026]] (StudyChat is PTA's educational dataset) — added to each other's Connected Articles + inline [[studychat...|StudyChat]] mention in PTA.
+- Added back-links to 9 concept pages: [[llm]], [[ai-tutoring]], [[learning-analytics]], [[over-reliance]], [[self-regulated-learning]], [[help-seeking]], [[cs-education]], [[learning-gains]], [[educational-nlp]].
+- Added inline concept links to both articles (llm, math-education, over-reliance, writing-education, agency, ai-literacy, feedback, self-regulated-learning); fixed one wrong link ("Writing" DA category, unlinked).
+- Regenerated journal.md (839), index.md (839), llms.txt/llms-full.txt; 0 broken links.
 ## [2026-08-16] ingest | Principal Trait Analysis: Towards Deriving "Skills" in Human-AI Collaboration (arXiv:2608.11460)
 
 - Ingested McNichols, Du & Lan (2026), arXiv:2608.11460 (cs.CL), CC BY — an automated, PCA-inspired algorithm (Principal Trait Analysis, PTA) that derives interpretable "traits" of effective human–AI collaboration from LLM conversation traces (4 stages: observation extraction, clustering, trait scoring, principal-trait selection). Evaluated on StudyChat (1,540 student–AI-tutor sessions, 171 students, programming/AI course) and SWE-Chat (2,774 developer–coding-agent sessions). PTA traits significantly explain and predict outcomes but are not yet interpretable as "skills" (limited generalizability across semesters/settings; flat learning curves).

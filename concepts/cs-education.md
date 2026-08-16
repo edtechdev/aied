@@ -41,6 +41,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[teacher-education]]
 
 ## Connected Articles
+- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
 
 - [[code-review-genai-cs1]]
