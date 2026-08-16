@@ -12,7 +12,7 @@ confidence: high
 
 ## Summary
 
-Lelièvre et al. (2025) introduce **The Pedagogy Benchmark**, two multiple-choice benchmarks that evaluate large language models on their understanding of *teaching* rather than content knowledge: **Cross-Domain Pedagogical Knowledge (CDPK)** and **Special Educational Needs & Disability (SEND)** pedagogy. Both are built on a curated set of questions from professional teacher-development exams by the Chilean Ministry of Education's Education Quality Agency and CP EIP, translated from Spanish. Across **97 models**, CDPK accuracy ranged from 28% (Llama-3.2 1B) to 89% (Gemini 2.5 Pro). The authors analyze accuracy vs. inference cost (the Pareto "value frontier") and vs. model size, charting rapid progress over 18 months, and provide online leaderboards for interactive exploration.
+Lelièvre et al. (2025) introduce **[The Pedagogy Benchmark](https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks?benchmark=CDPK)**, two multiple-choice benchmarks that evaluate large language models on their understanding of *teaching* rather than content knowledge: **Cross-Domain Pedagogical Knowledge (CDPK)** and **Special Educational Needs & Disability (SEND)** pedagogy. Both are built on a curated set of questions from professional teacher-development exams by the Chilean Ministry of Education's Education Quality Agency and CP EIP, translated from Spanish. Across **97 models**, CDPK accuracy ranged from 28% (Llama-3.2 1B) to 89% (Gemini 2.5 Pro). The authors analyze accuracy vs. inference cost (the Pareto "value frontier") and vs. model size, charting rapid progress over 18 months, and provide online leaderboards for interactive exploration.
 
 ## Key Findings
 
