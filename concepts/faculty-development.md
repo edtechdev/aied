@@ -56,7 +56,6 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[professional-training]]
 
 ## Connected Articles
-- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[ai-acceptance-preservice-science-teachers-2026]]
 

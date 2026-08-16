@@ -42,7 +42,6 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[distributed-cognition]]
 - [[self-regulated-learning]]
 ## Connected Articles
-- [[multidimensional-engagement-small-groups-multimodal-2026]] — Multidimensional engagement in small groups (multimodal)
 
 - [[polished-artifacts-fragile-engagement-2026]]
 - [[epistemic-emotions-collaborative-problem-solving]]

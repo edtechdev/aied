@@ -44,8 +44,6 @@ Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*. A
 - [[academic-integrity]]
 - [[automated-question-generation]]
 ## Connected Articles
-- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
-- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
 
 - [[international-students-conversational-ai-adaptation]]
 - [[taklif-ai-interest-based-personalized-assignments]]

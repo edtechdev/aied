@@ -37,7 +37,6 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 - [[teacher-ai-competency]]
 
 ## Connected Articles
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]

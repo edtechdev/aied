@@ -45,7 +45,6 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ## Connected Articles
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
-- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[voicu-ai-interpretive-cognition-ssh-2026]]

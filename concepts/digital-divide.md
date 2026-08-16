@@ -40,8 +40,6 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[student-experience]]
 
 ## Connected Articles
-- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
-- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
 
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
