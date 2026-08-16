@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: 2026-08-06
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [help-seeking, intelligent-tutoring, student-experience, metacognition, higher-ed, llm, generative-ai, ai-literacy, k-12, scaffolding, self-regulated-learning]
 confidence: high
@@ -17,7 +17,7 @@ The central distinction in the literature is between help-seeking that supports 
 
 ### Unproductive help-seeking behaviors
 
-Research in this wiki identifies concrete, observable patterns of unproductive help-seeking, especially in intelligent tutoring systems:
+Research in this wiki identifies concrete, observable patterns of unproductive help-seeking, especially in [[intelligent-tutoring|intelligent tutoring systems]]:
 
 - **Premature hint requests** — requesting help before making any solution attempt. Even uncertain students learn more by attempting first.^[[lak2026-hint-button-unproductive-use]]
 - **Superficial hint reading** — advancing through hints too rapidly to read them (flagged at a ~4 words/second benchmark), often jumping straight to the bottom-out hint that reveals the answer.^[[lak2026-hint-button-unproductive-use]]

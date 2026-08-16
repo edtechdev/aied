@@ -1,7 +1,7 @@
 ---
 title: Automated Question Generation
 created: 2026-05-08
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [automated-question-generation, llm, generative-ai, assessment, automated-assessment, formative-assessment, educational-nlp, personalized-learning, adaptive-learning, ai-ed-evaluation, educational-measurement]
 confidence: high
@@ -19,7 +19,7 @@ The wiki's research illustrates several approaches:
 - **Knowledge-tracing-based generation:** [[kt4eqg-personalized-question-generation|KT4EQG]] generates personalized exercise questions guided by [[knowledge-tracing|knowledge tracing]], tailoring items to each learner's knowledge state rather than generating generic questions.
 - **Cognitive-depth-aware generation:** [[llm-educational-question-cognitive-depth|Evaluating the cognitive depth of LLM-generated questions]] examines whether generated items tap higher-order thinking (creation, evaluation) or only memorization, connecting to Bloom's taxonomy and [[educational-measurement]].
 - **Pedagogical pipelines:** [[slidesqaqa-pedagogical-question-generation|Slide-deck Q&A generation]] uses a multi-stage pipeline for pedagogically sound question generation from course materials.
-- **RAG-based, human-in-the-loop systems:** [[code-gen|CODE-GEN]] combines retrieval-augmented generation with human-in-the-loop review for generating [[automated-assessment|multiple-choice assessments]].
+- **RAG-based, human-in-the-loop systems:** [[code-gen|CODE-GEN]] combines [[rag|retrieval-augmented generation]] with [[human-in-the-loop-ai|human-in-the-loop]] review for generating [[automated-assessment|multiple-choice assessments]].
 - **Benchmarks and evaluation:** [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] provides a benchmark of scientific/mathematical riddles for evaluating question-generation and reasoning systems.
 
 ## Validation and quality

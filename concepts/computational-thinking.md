@@ -12,7 +12,7 @@ confidence: high
 ### CT and AI education
 
 - **CT as AI literacy foundation:** Understanding how AI systems decompose problems and apply algorithms is foundational to [[ai-literacy]]. [[computational-thinking-ai-agent-creation|Agent creation studies]] show how building AI agents develops CT skills.
-- **Programming education:** [[cs-education]] and [[prompt-problems-nl-programming-mistakes|prompting studies]] connect CT to programming instruction.
+- **Programming education:** [[cs-education]] and [[prompt-problems-nl-programming-mistakes|prompting studies]] connect CT to [[programming-education|programming instruction]].
 - **K-12 integration:** [[k-12-ai-education]] and [[stem-education]] curricula increasingly embed CT as a core competency.
 
 ### Connections

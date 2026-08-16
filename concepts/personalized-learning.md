@@ -13,11 +13,11 @@ Tailoring educational experiences to individual learner profiles, including prio
 
 ### Longitudinal Memory (PersonaVLM → Education)
 
-Nie et al. (2026) developed a multimodal long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's misconceptions, preferred explanations, and progress history across sessions—addressing a critical deficit in stateless chatbot tutors.
+Nie et al. (2026) developed a [[multimodal|multimodal]] long-term memory architecture (PersonaVLM) that maintains persona consistency across interactions. Mapped to education, this enables tutoring systems that remember a learner's misconceptions, preferred explanations, and progress history across sessions—addressing a critical deficit in stateless chatbot tutors.
 
 ### Agent-Native Personalization Substrate (DeepTutor)
 
-Ma et al. (2026) design every DeepTutor feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives problem solving, question generation, and collaborative writing.
+Ma et al. (2026) design every [[deeptutor|DeepTutor]] feature to share a common personalization substrate, rather than bolting personalization onto reactive tools. This architecture ensures cross-modality coherence: the same learner profile drives problem solving, question generation, and collaborative writing.
 
 ### Multi-Agent Social Personalization (MAIC)
 
@@ -31,7 +31,7 @@ Yu et al. (2024) personalize not only content but *social context*. Classmate ar
 
 ## Terminological ambiguity
 
-A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that adaptive learning, individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the wiki's [[limitations-in-aied-research|critique of weak construct use]]).
+A recurring problem is that "personalized learning" is a broad, loosely defined umbrella term. Systematic reviews ([[khalifeh-redefining-personalized-learning-ai-2026|Khalifeh et al., 2026]]) find that [[adaptive-learning|adaptive learning]], individualized instruction, customized learning, and personalized learning are used interchangeably, with no universally accepted definition — a source of conceptual ambiguity that complicates research synthesis and evidence-based practice. The field increasingly calls for a unified framework and definition so that "personalized" denotes a precise, evidence-backed claim rather than a vague label (a point reinforced by the wiki's [[limitations-in-aied-research|critique of weak construct use]]).
 
 ## Connected Concepts
 

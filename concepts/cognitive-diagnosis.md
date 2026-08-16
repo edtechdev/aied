@@ -1,7 +1,7 @@
 ---
 title: Cognitive Diagnosis
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [student-modeling, educational-measurement, knowledge-tracing, assessment, intelligent-tutoring, learning-analytics, psychometrically-aware-ai]
 confidence: high
@@ -14,8 +14,8 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 ### How cognitive diagnosis works
 
 - **Diagnostic models:** psychometric models (often under [[item-response-theory]] and [[educational-measurement]]) infer latent skill states from patterns of correct and incorrect responses, sometimes via cognitive-diagnosis models that map items to multiple knowledge components.
-- **Response data:** diagnosis draws on responses to assessments, hints, help-seeking, and time-on-task — richer signals than raw scores.
-- **LLM-based diagnosis:** newer approaches use large language models to diagnose from open-ended or handwritten work, and to identify the specific misconceptions behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
+- **Response data:** diagnosis draws on responses to assessments, hints, [[help-seeking]], and time-on-task — richer signals than raw scores.
+- **LLM-based diagnosis:** newer approaches use [[llm|large language models]] to diagnose from open-ended or handwritten work, and to identify the specific [[student-misconceptions-ai|misconceptions]] behind an error (e.g., the "correct answer trap" where a right answer conceals flawed reasoning).
 
 ### Why it matters
 

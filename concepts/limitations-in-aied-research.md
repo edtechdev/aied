@@ -17,7 +17,7 @@ The wiki's [[research-methods-aied|research methods]] page details the strengths
 
 - **Generalizability.** Findings from a single course, institution, discipline, or national context may not transfer. Small, convenience, or single-institution samples limit external validity; results from one AI tool rarely extend to a different tool or context.
 - **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
-- **Validity and measurement.** Construct validity is often thin: proxies for "learning," "engagement," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. Benchmark accuracy does not equal educational effectiveness.
+- **Validity and measurement.** Construct validity is often thin: proxies for "learning," "engagement," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. [[benchmark|Benchmark]] accuracy does not equal educational effectiveness.
 - **Self-report and survey data.** A large share of the corpus relies on self-reported attitudes, motivation, and usage. Self-report is subject to bias — respondents overestimate competence, under-report misuse, and misjudge their own behavior — so perception-based measures frequently diverge from objective performance (see [[ai-literacy-assessment-misalignment]] and [[educational-measurement]]).
 
 ## The speed problem: AI evolves faster than findings

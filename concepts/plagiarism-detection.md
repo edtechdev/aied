@@ -1,7 +1,7 @@
 ---
 title: AI Plagiarism Detection
 created: 2026-05-29
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, over-reliance, assessment, policy-maker, llm, assessment-validity, equity]
 confidence: high
@@ -24,7 +24,7 @@ The wiki's research illustrates the main technical families:
 Research consistently cautions against standalone reliance on detection:
 
 - **Validity and fairness failures:** detection tools can be biased against non-native writers, producing false positives that unfairly penalize students, a concern connecting to [[bias-mitigation]] and [[equity-in-ai-education]].
-- **Notable error rates and trust erosion:** unreliable detection undermines student trust and the integrity of the assessment process.
+- **Notable error rates and trust erosion:** unreliable detection undermines student [[trust]] and the integrity of the assessment process.
 - **Task-dependence:** as the self-detection study shows, accuracy varies sharply by task type, so no single detector is dependable across all assessments.
 
 ## Beyond detection: assessment redesign

@@ -9,7 +9,7 @@ confidence: high
 
 > **Cognitive offloading** — the use of external tools (including AI) to reduce internal cognitive demand, shifting mental work from the learner to the system. In AI in education, cognitive offloading is the central mechanism through which AI tools can either support or undermine learning: appropriate offloading frees cognitive resources for higher-order thinking, while excessive offloading bypasses the processing required for durable learning.
 
-Cognitive offloading is not inherently harmful — humans have always used external tools (notebooks, calculators, search engines) to reduce cognitive load. What makes AI-mediated offloading different is its comprehensiveness: LLMs can generate complete solutions, explanations, and analyses, potentially eliminating the need for the very cognitive processes that produce learning.
+Cognitive offloading is not inherently harmful — humans have always used external tools (notebooks, calculators, search engines) to reduce [[cognitive-load-theory|cognitive load]]. What makes AI-mediated offloading different is its comprehensiveness: [[llm|LLMs]] can generate complete solutions, explanations, and analyses, potentially eliminating the need for the very cognitive processes that produce learning.
 
 ### How cognitive offloading manifests in AIED research
 

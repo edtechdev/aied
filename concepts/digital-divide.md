@@ -1,13 +1,13 @@
 ---
 title: Digital Divide
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-15
 type: concept
 tags: [equity, ai-literacy, digital-inequality, ai-education, access, inclusion, social-justice]
 confidence: high
 ---
 
-> **Digital divide** — the unequal distribution of access to, skills for, and benefits from digital (and increasingly AI) technologies across individuals, communities, and nations. In AI education, the digital divide is a central equity concern: generative AI is rapidly reshaping learning, and the gap between those who can use it effectively and critically and those who cannot threatens to deepen existing educational inequalities.
+> **Digital divide** — the unequal distribution of access to, skills for, and benefits from digital (and increasingly AI) technologies across individuals, communities, and nations. In AI education, the digital divide is a central equity concern: [[generative-ai|generative AI]] is rapidly reshaping learning, and the gap between those who can use it effectively and critically and those who cannot threatens to deepen existing educational inequalities.
 
 The digital divide is commonly understood as operating across **three levels** (van Deursen & van Dijk, 2014): the *first-level* divide concerns access to technologies and infrastructure (connectivity, devices, supportive environments); the *second-level* divide concerns skills and competencies (the uneven capacity to use tools effectively and meaningfully); and the *third-level* divide concerns outcomes and benefits (who actually benefits from technology use, with AI potentially exacerbating social, cultural, and economic disparities). Framing AI literacy through this lens makes clear that equity requires more than closing the device-and-infrastructure gap — it requires building the skills to use AI effectively and critically so that its benefits are distributed fairly rather than reinforcing existing inequalities.
 

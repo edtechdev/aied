@@ -29,7 +29,7 @@ Both follow **PRISMA** (Preferred Reporting Items for Systematic Reviews and Met
 
 Systematic reviews and meta-analyses in AI in education serve several distinct purposes:
 
-- **Establish the evidence base** — determining whether AI tools (tutoring, feedback, assessment, chatbots) produce learning gains, and how large those gains are.
+- **Establish the evidence base** — determining whether AI tools (tutoring, feedback, assessment, chatbots) produce [[learning-gains|learning gains]], and how large those gains are.
 - **Map the field and its gaps** — a scoping review documents what has been studied, where the evidence is concentrated, and where it is missing (e.g., workplace settings, non-English work, failure cases).^[[ai-vocational-education-training-review]]
 - **Identify moderators and conditions** — meta-analysis tests whether effects differ by learner population, domain, AI system type, or study design, revealing for whom and under what conditions a tool works.
 - **Expose methodological quality** — reviews routinely find that the field relies on underpowered, pre-experimental, or quasi-experimental designs and immediate post-tests, tempering conclusions.^[[ai-vocational-education-training-review]]^[[zerkouk-comprehensive-review-its-2025]]

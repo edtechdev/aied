@@ -1,7 +1,7 @@
 ---
 title: Technological Pedagogical Content Knowledge (TPACK)
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 type: concept
 tags: [tpack, ai-tpack, teacher-ai-competency, faculty-development, pedagogical-content-knowledge, generative-ai, teacher-role, instructional-design, curriculum]
 confidence: high
@@ -25,7 +25,7 @@ TPACK holds that effective technology integration is not the sum of separate kno
 
 The AI era has pushed the framework toward a technology-with-intelligence reading. Rather than a passive tool, generative AI is an active agent that can plan, generate content, tutor, and adapt — so integration knowledge increasingly includes **orchestration**: deciding when and how AI acts, scaffolds, or yields to human judgment.
 
-- **Beyond discrete knowledge.** [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] argues effective AI integration emerges not from possessing separate domains but from the dynamic interplay of **systems thinking**, **pedagogical beliefs**, and **self-efficacy** — challenging static, checklist-based models of teacher AI competency. Teacher archetypes (Systematic Optimizers, Prolific Creators, Passive Observers) emerge from how teachers design multi-agent instructional workflows.
+- **Beyond discrete knowledge.** [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK research]] argues effective AI integration emerges not from possessing separate domains but from the dynamic interplay of **systems thinking**, **pedagogical beliefs**, and **[[self-efficacy]]** — challenging static, checklist-based models of teacher AI competency. Teacher archetypes (Systematic Optimizers, Prolific Creators, Passive Observers) emerge from how teachers design multi-agent instructional workflows.
 - **A review lens for the whole field.** [[edurev-100741-tpack-genai-review|A systematic review from a TPACK perspective]] (Liu & Zhong, 2025) analyzed 71 empirical studies of GenAI in student learning, finding an overall positive effect (Hedges' g = 0.752) and identifying GenAI literacy for students and **GenAI-TPACK professional development for teachers** as the two critical priorities for the field.
 - **Teacher education context.** TPACK is instrumental in cultivating teachers' competency to integrate technology into curriculum-specific instruction, which is why teacher-education and PD research (e.g., [[genai-pd-ai-pck-learning-gain-2026|intensive GenAI PD programs]], [[ai-tpack-preservice-math-teachers|AI-TPACK readiness among pre-service teachers]]) increasingly measures it as the outcome of interest.
 

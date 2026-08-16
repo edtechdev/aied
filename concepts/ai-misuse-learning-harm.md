@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: 2026-08-12
-updated: 2026-08-12
+updated: 2026-08-15
 type: concept
 tags: [over-reliance, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
 confidence: high
@@ -9,7 +9,7 @@ confidence: high
 
 > **AI misuse and learning harm** — the causal relationship between students offloading cognitive work to generative AI and reduced durable learning, even when immediate task performance rises. The defining feature is a performance–learning gap: AI inflates assisted performance while degrading unassisted, closed-book, and retention outcomes.
 
-AI misuse is distinct from AI use. Use describes employing AI as a complement to learning — feedback, brainstorming, or revision help that keeps the learner's cognitive work in the loop. Misuse describes substitution: delegating to AI the very mental processes (drafting, recall, analysis, revision) that build durable understanding. The harm documented in the wiki's evidence base is not that misuse fails to help; it is that misuse actively degrades later, unassisted achievement.
+AI misuse is distinct from AI use. Use describes employing AI as a complement to learning — [[feedback]], brainstorming, or revision help that keeps the learner's cognitive work in the loop. Misuse describes substitution: delegating to AI the very mental processes (drafting, recall, analysis, revision) that build durable understanding. The harm documented in the wiki's evidence base is not that misuse fails to help; it is that misuse actively degrades later, unassisted achievement.
 
 ### The performance–learning gap
 
@@ -19,7 +19,7 @@ The core concept, articulated in [[genai-performance-vs-learning]], is that gene
 
 - **Cognitive surrender** — the term researchers use for students offloading thinking to AI as a passive, unreflective dependency, as opposed to the deliberate, strategic form of [[cognitive-offloading]]. It produces a measurable population-level decline in durable knowledge.
 - **Answer-copying as a crutch** — misuse is driven less by AI errors misleading students than by students copying answers instead of learning. When engagement analysis shows students mostly "ask for the answer," learning harm follows.
-- **Motivation erosion** — the perceived availability of an effortless AI shortcut reduces autonomous motivation and persistence, per self-determination theory. Because persistence is what produces deep learning, its erosion compounds the direct harm.
+- **Motivation erosion** — the perceived availability of an effortless AI shortcut reduces autonomous motivation and persistence, per [[self-determination-theory|self-determination theory]]. Because persistence is what produces deep learning, its erosion compounds the direct harm.
 - **Learning displacement** — the substitution of AI output for the effortful processes (elaboration, recall, self-explanation) that consolidate knowledge, consistent with [[over-reliance]].
 
 ### The evidence base
@@ -34,7 +34,7 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 ### Implications and remedies
 
-- **Guardrails over raw access:** hint-not-answer prompting and teacher-authored scaffolding neutralize the crutch effect (see [[generative-ai-guardrails-harm-learning]]).
+- **Guardrails over raw access:** hint-not-answer prompting and teacher-authored [[scaffolding]] neutralize the crutch effect (see [[generative-ai-guardrails-harm-learning]]).
 - **Assessment design:** AI-resistant and proctored/unassisted assessments are needed to surface — and discourage — misuse.
 - **Literacy and metacognition:** [[ai-literacy]] and [[self-regulated-learning]] training that helps students recognize reliance patterns and the cost of bypassing their own cognitive work.
 
