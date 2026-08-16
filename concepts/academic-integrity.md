@@ -66,6 +66,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[k-12]]
 
 ## Connected Articles
+- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 
 - [[student-rationalization-ai-writing]] — It's OK Because… Student Rationalization of AI Use
 - [[authentic-products-authenticated-processes-2026]] — From Authentic Products to Authenticated Processes

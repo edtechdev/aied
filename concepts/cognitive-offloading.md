@@ -33,6 +33,8 @@ The wiki's articles document cognitive offloading across multiple dimensions:
 
 - **Fatigue and cognitive burden:** [[ai-fatigue-academic-contexts|AI fatigue research]] documents how constant AI interaction creates its own cognitive burden, a paradox where offloading one task increases cognitive load from managing AI outputs.
 
+- **Cognitive debt and the episodic–habitual offloading distinction:** [[critical-thinking-paradox-genai-learning-2026|Lin & Al-Hada (2026)]] formalise the "critical-thinking paradox" — improved products alongside reduced cognitive engagement — through a differentiated three-level framework (surface/intermediate/deep AI roles) and the construct of *cognitive debt*: a potential cumulative decline in metacognitive calibration and unaided higher-order performance that persists beyond an AI-assisted episode. Their key conceptual advance is distinguishing **episodic offloading** (deliberate, task-specific delegation with retained awareness) from **habitual offloading** (routine, weakly monitored reliance), predicting that the latter on deep-processing tasks yields a product–process dissociation — higher-rated assignments but lower unaided delayed transfer. This gives offloading research a falsifiable, level-contingent theory rather than a single harmful/helpful verdict.
+
 ### The CLT framework
 
 [[cognitive-load-theory|Cognitive Load Theory]] provides the theoretical foundation: intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing. Poorly integrated AI reduces all three, leaving students with completed tasks and empty learning.
@@ -59,6 +61,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[distributed-cognition]]
 - [[embodied-learning]]
 ## Connected Articles
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[coach-not-crutch-ai-writing]] — AI can work less and learn more: effort vs. learning environment (Lira et al. 2025)
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)

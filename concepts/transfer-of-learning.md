@@ -76,6 +76,7 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[self-regulated-learning]]
 - [[learning-theories]]
 ## Connected Articles
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[tutoring-specific-vs-general-ai]]

@@ -40,6 +40,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
 
 - [[code-review-genai-cs1]]

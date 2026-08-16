@@ -67,6 +67,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 
 - [[tpack]]
 ## Connected Articles
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
 

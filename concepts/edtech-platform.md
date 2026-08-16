@@ -77,6 +77,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[stem-education]]
 
 ## Connected Articles
+- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
 
 - [[access-not-enough-ai-tutoring-2026]] — Take-up and engagement are the binding constraints for AI tutoring platforms
 - [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Technical and structural platform factors shape engagement, retention, and inclusivity

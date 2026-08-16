@@ -39,6 +39,8 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[cs-education]]
 - [[higher-ed]]
 ## Connected Articles
+- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
 - [[lin-llm-interactive-lesson-generation]] — LLM generation of interactive tutor-training lessons (Lin et al. 2025)
 
 - [[aaai2026-prompting-literacy-k12]]

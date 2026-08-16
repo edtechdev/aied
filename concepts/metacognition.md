@@ -69,6 +69,9 @@ This suggests that **metacognitive support and [[motivation]] are not identical*
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
+- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)

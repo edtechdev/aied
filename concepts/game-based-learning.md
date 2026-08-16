@@ -28,6 +28,7 @@ GBL connects to [[gamification]], [[educational-robotics]], [[student-engagement
 - [[simulation]]
 
 ## Connected Articles
+- [[multidimensional-engagement-small-groups-multimodal-2026]] — Multidimensional engagement in small groups (multimodal)
 
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind

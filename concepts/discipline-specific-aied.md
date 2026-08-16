@@ -84,6 +84,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[equity-in-ai-education]]
 
 ## Connected Articles
+- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI in health-professions education
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Interpretive cognition in humanities and social science education

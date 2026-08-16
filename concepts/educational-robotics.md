@@ -45,6 +45,7 @@ A defining theme is that robots are effective when they support genuine learning
 - [[higher-ed]]
 
 ## Connected Articles
+- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
 
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Scoping Review of the Pepper Robot in Formal Education
 
