@@ -51,6 +51,7 @@ Cognitive offloading connects fundamentally to [[over-reliance]] (the behavioral
 - [[teacher-role]]
 - [[critical-thinking]]
 - [[regulation]]
+- [[behaviorism]]
 ## Connected Articles
 - [[coach-not-crutch-ai-writing]] — AI can work less and learn more: effort vs. learning environment (Lira et al. 2025)
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI use, cognitive offloading, and critical thinking (Gerlich 2025)

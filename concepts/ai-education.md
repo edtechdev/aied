@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: 2026-08-09
-updated: 2026-08-15
+updated: 2026-08-16
 type: concept
 tags: [ai-education, ai-literacy, ai-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 confidence: high
@@ -24,7 +24,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
-- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[gamification|gamification]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[cognitive-load-theory|cognitive load theory]], [[dual-process-theory|dual-process theory]], [[constructivist|constructivism]], and [[embodied-learning|embodied learning]].
+- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[gamification|gamification]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[cognitive-load-theory|cognitive load theory]], [[dual-process-theory|dual-process theory]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], and [[embodied-learning|embodied learning]].
 - **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[engagement-metrics|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[over-reliance|over-reliance]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
 - **Subject areas:** AI is applied across disciplines, including [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], and [[k-12-ai-education|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
@@ -65,6 +65,8 @@ AI in education connects to every concept in the wiki — it is the field that a
 ## Connected Concepts
 
 - [[ai-literacy]]
+- [[behaviorism]]
+- [[learning-theories]]
 - [[ai-tutoring]]
 - [[intelligent-tutoring]]
 - [[generative-ai]]

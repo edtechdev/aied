@@ -1,8 +1,12 @@
 # Journal
 
+
+## 2026-08-16
+- [[behaviorism]] — Behaviorism
+- [[learning-theories]] — Learning Theories
 > Reverse chronological index of all articles and papers ingested into the wiki.
 > Browse recent additions by date. ● = high confidence, ◐ = medium, ○ = low.
-> Last updated: 2026-08-15 | Total entries: 501
+> Last updated: 2026-08-15 | Total entries: 503
 
 ---
 

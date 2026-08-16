@@ -31,6 +31,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[ethics]]
 - [[over-reliance]]
 - [[educational-robotics]]
+- [[behaviorism]]
 - [[cognitive-offloading]] — Cognitive Offloading in Student–AI Collaboration
 ## Connected Articles
 

@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-15 | **Total pages:** 780
+**Last updated:** 2026-08-15 | **Total pages:** 782
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -80,6 +80,8 @@
 - [[ai-in-the-wild-college]] — AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI
 - [[ai-interlocutor-l2-spoken-dialogue]] — What Changes When the Interlocutor Is an AI? Interactional Fluency and Linguistic Uptake in L2 Spoken Dialogue
 - [[beck-genai-literacy-economics-hands-on]] — Fostering Generative AI Literacy in Economics: A Hands-on Approach
+- [[behaviorism]] — Behaviorism
+
 - [[benzion-ai-physics-simulations-virtual-lab]] — Leveraging AI for Rapid Generation of Physics Simulations in Education: Building Your Own Virtual Lab
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning
 - [[chudziak-ai-math-tutoring-platform]] — AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education
@@ -94,6 +96,8 @@
 - [[jin-genai-learning-analytics-feedback-literacy]] — Students' Perceptions of GenAI-Powered Learning Analytics in the Feedback Process
 - [[jin-glat-genai-literacy-assessment]] — GLAT: The Generative AI Literacy Assessment Test
 - [[jost-llm-programming-education-learning-outcomes]] — The Impact of Large Language Models on Programming Education and Student Learning Outcomes
+- [[learning-theories]] — Learning Theories
+
 - [[lin-llm-interactive-lesson-generation]] — Automatic Large Language Models Creation of Interactive Learning Lessons
 - [[liu-deris-ai-feedback-literacy-uptake]] — AI feedback literacy in higher education: understanding, measuring, and predicting uptake
 - [[mendoza-ai-feedback-feedback-literacy-srl]] — Making sense of AI feedback: feedback literacy moderates ChatGPT acceptance and SRL

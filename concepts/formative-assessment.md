@@ -90,6 +90,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[ai-education]]
 - [[feedback-literacy]]
 - [[feedback]]
+- [[behaviorism]]
 
 ## Connected Articles
 
