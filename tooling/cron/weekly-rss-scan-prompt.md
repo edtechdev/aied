@@ -8,6 +8,14 @@ Replace `[YOUR_DOMAIN]` with your wiki's research domain.
 
 You are ingesting new open-access [YOUR_DOMAIN] journal articles from RSS feeds into the wiki at [YOUR_WIKI_PATH].
 
+## IMPORTANT WORKFLOW (per wiki maintainer)
+
+**Do NOT attempt to download or scrape full-text PDFs from publisher pages.** Publishers (ScienceDirect, Springer, Wiley, etc.) block scraping with CAPTCHA/bot protection, so full-text fetches fail anyway. Instead:
+
+- **Create the article page from the abstract only** (the RSS snippet + publisher abstract via `web_extract` is sufficient — the pipeline works fine from an abstract).
+- **For every new article, send the maintainer a clickable link to the original article online** (the publisher page URL), so they can manually download the PDF and send it to you to complete the full text.
+- Maintain a running `FULL_TEXT_PENDING` list with each article's slug, full title, DOI, and publisher link.
+
 ## Pipeline
 
 ### 1. Fetch RSS feeds
@@ -22,22 +30,16 @@ The fetcher filters out corrigenda, retractions, errata, and issue info — only
 ### 2. Check for existing articles
 Read /tmp/rss-articles.json. Skip any article whose DOI or title already matches an article in `articles/` or a raw source in `raw/papers/`.
 
-### 3. Check open access before ingesting
-For each NEW article, fetch the article page URL using `web_extract`.
+### 3. Relevance filter — ONLY ingest AI-in-Education articles
+**This journal feed contains many articles NOT about AI in education. Apply a strict relevance filter before ingesting:**
+- Include articles about: AI literacy, generative AI / GenAI / ChatGPT / LLMs in teaching and learning, intelligent-TPACK or AI-TPACK, AI in specific subjects (writing, math, language, music, assessment, programming), learning analytics, AI ethics/privacy in education, AI policy, human-centered AI for educators, AI-mediated feedback/assessment, teacher AI readiness/professional development, AI adoption in education.
+- **EXCLUDE** articles about: VR/AR without AI, metaverse, mobile learning, general ed-tech adoption/TAM, digital competence frameworks (e.g., DigCompEdu) without AI, social-media learning, digital citizenship, music/mobile-learning models without AI, coding/robotics readiness without AI, geography/Google Earth, general online/blended learning, e-learning dropout, school leadership, multimodal engagement without AI, etc.
+- When in doubt, exclude — it's better to under-ingest than to add off-topic pages.
 
-**Fully-open-access journals** (e.g., CAEAI): ingest all articles without an access check.
-
-**Hybrid journals** (e.g., BJET): look for paywall signs — "Get access", "Log in", "Purchase", "Subscribe", abstract-only page without full text. If paywalled, SKIP the article and note it in the final report.
-
-**Extract the full abstract and key findings from the publisher page** — the RSS feed gives only a short snippet. Use the richer publisher content to write the article.
-
-**Save full text when available** to `raw/papers/<doi-slug>.md` with frontmatter (source_url, ingested_date, doi). Reference it in the article's `sources:` field ONLY — never put `raw/` paths in the article body (`^[raw/...]` footnotes and `[local](raw/...)` links render as broken literal text on the live site; the Astro renderer doesn't process them and `raw/` isn't deployed).
-
-**If the article is open access but full text CANNOT be retrieved** (e.g., the publisher blocks scraping with CAPTCHA/bot protection, as ScienceDirect does; or the fetch times out after retries): still create the article page from the abstract (the pipeline works fine from an abstract), save the abstract into `raw/papers/<doi-slug>.md` with the same frontmatter, and ADD the article to a running `FULL_TEXT_PENDING` list with: article slug, full title, DOI, and publisher page URL. The wiki maintainer will manually download the PDF and send it to complete the full text.
-
-### 4. Write article files
-Create `articles/<slug>.md` with:
-
+### 4. Create article files from abstracts (NO full-text fetch)
+For each NEW, RELEVANT article:
+- Fetch the article page with `web_extract` to get the full abstract and metadata (the RSS gives only a short snippet).
+- Create `articles/<slug>.md` with:
 ```yaml
 ---
 title: "Full Paper Title"
@@ -45,19 +47,19 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 type: article
 tags: [relevant, concept, tags]
-sources: ['raw/papers/filename.md']  # or [] if no full text saved
+sources: []  # empty — no full text saved; maintainer will send PDF later
 confidence: high
 ---
 ```
-
 **Structure:**
-- **Synthesis blockquote:** 3-5 sentences covering what was studied, method, key findings, significance (from the full abstract, not the RSS snippet)
+- **Synthesis blockquote:** 3-5 sentences covering what was studied, method, key findings, significance (from the full abstract)
 - **Key Findings section:** 3-5 distinct bullet points with the most important results (do NOT duplicate the synthesis text)
 - **Connected Concepts:** 3-6 genuinely related concepts from `concepts/`
 - **Connected Articles:** 2-4 genuinely related articles from `articles/`
 - **Citation:** APA format with hyperlinked title (DOI link)
 - **Article body must be substantial** — at least ~1,000 characters of synthesis/findings beyond the blockquote. A title + one-line blockquote is a stub; expand with key contributions, findings, and implications.
-- **Write the citation yourself in APA format** (Authors, Year. *Title*. URL). NEVER paste the Elsevier/ScienceDirect auto-generated citation from the publisher page — it comes out garbled (author lists like "ScienceDirect, C.L.A.A., ... & Access), L.C.B."). Get the real author list from Crossref: `curl -s https://api.crossref.org/works/<doi>` (fields: message.author[].family/given, message.title, message.volume, message.page).
+- **Write the citation yourself in APA format** (Authors, Year. *Title*. URL). NEVER paste the Elsevier/ScienceDirect auto-generated citation from the publisher page — it comes out garbled. Get the real author list from Crossref: `curl -s https://api.crossref.org/works/<doi>` (fields: message.author[].family/given, message.title, message.volume, message.page).
+- **Do NOT save any full-text/abstract to `raw/papers/`** — leave `sources: []`. The maintainer will send the PDF and full text will be added later.
 
 ### 5. Build and push
 ```
@@ -65,14 +67,14 @@ cd [YOUR_WIKI_PATH] && python3 tooling/scripts/generate-llms-files.py && npm run
 ```
 
 ### 6. Report
-Count articles checked, already existing, paywalled/skipped, and new articles ingested (with titles). List paywalled articles separately.
+Count articles checked, already existing, excluded (not AI-in-ed), and new articles ingested (with titles).
 
-**CRITICAL — report any article whose full text could not be retrieved.** For each one, include: the article title, the wiki article slug/URL, the DOI, and the publisher page link, formatted so the maintainer can click through and download the PDF:
+**CRITICAL — list every new article's original link for the maintainer to download the PDF.** Format:
 
 ```
-FULL TEXT PENDING (N articles) — please send PDFs:
-1. <Full Paper Title> — wiki: https://edtechdev.github.io/aied/articles/<slug>/ — DOI: <doi> — publisher: <url>
+FULL TEXT PENDING (N articles) — please fetch the PDFs and send them:
+1. <Full Paper Title> — wiki: https://edtechdev.github.io/aied/articles/<slug>/ — DOI: <doi> — article online: <publisher URL>
 2. ...
 ```
 
-The maintainer will manually download each PDF and send it; when received, save it to `raw/papers/<doi-slug>.md` and upgrade the article body from the full text.
+The maintainer will download each PDF from the given link and send it; when received, save it to `raw/papers/<doi-slug>.md` and upgrade the article body from the full text.
