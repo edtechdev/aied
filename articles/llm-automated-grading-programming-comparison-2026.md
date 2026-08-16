@@ -12,7 +12,7 @@ confidence: high
 
 ## Key Findings
 
-**Large-scale comparison.** Eighteen LLMs from four vendors were compared on 6,081 graded student submissions, the first such large-scale side-by-side assessment of contemporary models, including the GPT-5 family and Claude Opus 4.1 released in 2025.
+**Large-scale comparison.** Eighteen [[llm]] from four vendors were compared on 6,081 graded student submissions, the first such large-scale side-by-side [[assessment]] of contemporary models, including the GPT-5 family and Claude Opus 4.1 released in 2025.
 
 **Grading-style divergence.** Models split along a lenient–restrictive continuum: gpt-4o, gpt-4o-mini, and claude-haiku-3.5 awarded the most maximum (1.0) scores (lenient), while deepseek-reasoner and gpt-4.1-nano were dominated by failing (0.0) grades (restrictive); claude-sonnet-4 and gemini-2.0-flash-lite used the intermediate (0.5) category heavily. Mean grades ranged from 0.290 (gpt-4.1-nano) to 0.608 (claude-haiku-3.5).
 
