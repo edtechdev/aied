@@ -21,7 +21,7 @@ This is a concept page for the philosophical and theoretical foundations of [[ai
 
 ### Relationship to learning theories
 
-The philosophy of AI in education and [[learning-theories]] are complementary lenses. Learning theories explain the mechanisms of learning (e.g., how [[feedback]], [[scaffolding]], or cognitive load shape outcomes); philosophy interrogates the presuppositions of those mechanisms — what counts as knowledge, who counts as a knower, and what the learner fundamentally is. Posthumanist and critical-philosophical work, in particular, challenges the field to move beyond instrumentalist frameworks like TPACK and SAM toward deeper ontological reorientation.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
+The philosophy of AI in education and [[learning-theories]] are complementary lenses. Learning theories explain the mechanisms of learning (e.g., how [[feedback]], [[scaffolding]], or cognitive load shape outcomes); philosophy interrogates the presuppositions of those mechanisms — what counts as knowledge, who counts as a knower, and what the learner fundamentally is. Posthumanist and critical-philosophical work, in particular, challenges the field to move beyond instrumentalist frameworks like [[tpack|TPACK]] and SAM toward deeper ontological reorientation.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
 
 ## Connected Concepts
 
