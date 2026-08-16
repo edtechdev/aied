@@ -264,6 +264,7 @@ When a daily ingestion cron job stalls mid-pipeline (typically during an `execut
 - Action over deliberation: Ingest borderline papers first, explain connection later.
 - Synthesis > summarization: Concept pages must connect to existing wiki content.
 - Compact wiki: No duplicate content between raw sources and concept pages.
+- **Inline hyperlink rule (wiki-style)**: whenever a concept is mentioned by name in the BODY of a concept or article page, hyperlink that mention to the concept's page (plain `[[slug]]`, or piped `[[slug|display]]` when display text differs from the slug). Do this for every concept mention in body prose — in addition to the Connected Concepts/Articles lists at the bottom. Use the most specific slug matching the mention's meaning, and the dedicated umbrella page for generic terms (e.g. plain "feedback" → `[[feedback]]`, not `[[feedback-loop]]`). This is an editorial convention Doug expects on all pages; when editing a page, check its body for any unlinked concept mentions and add them.
 
 ## Support Files
 - `scripts/add-backlinks.py` — Re-runnable back-link addition script
