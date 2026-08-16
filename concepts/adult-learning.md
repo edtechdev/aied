@@ -19,6 +19,7 @@ Research themes include:
 - [[formative-assessment]]
 - [[rct]]
 - [[active-learning]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 

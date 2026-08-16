@@ -1,0 +1,94 @@
+---
+title: "AIEd in the Disciplines"
+created: 2026-08-16
+updated: 2026-08-16
+type: concept
+tags: [ai-education, discipline-specific, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education]
+confidence: high
+---
+
+> **AIEd in the Disciplines** — the application of artificial intelligence to teaching and learning within specific academic subjects, where each discipline's signature pedagogies, methods, theories, and concerns shape how AI is designed, used, and evaluated. Rather than treating AI in education as a single generic phenomenon, this overview organizes the wiki's discipline-specific coverage and surfaces the cross-cutting themes that run through subject-area AIEd research.
+
+AI in education manifests differently across disciplines because each field has its own signature pedagogy — the distinctive ways knowledge is constructed, practiced, and taught. AI tutors that shine in [[math-education|mathematics]] may fail in [[humanities-education|the humanities]], where interpretation and authorship matter more than right answers. This page is the umbrella map for those discipline-specific strands.
+
+## Discipline-specific concepts
+
+The wiki has dedicated concept pages for several subject areas:
+
+- **[[math-education]]** — AI tutoring, adaptive problem-solving, and conceptual diagnosis in mathematics.
+- **[[physics-education]]** — AI simulation, chatbots, and problem-posing in physics learning.
+- **[[cs-education]] / [[programming-education]] / [[block-programming]]** — AI for code generation, debugging, and novice programming support.
+- **[[writing-education]]** — AI-assisted composition, automated essay scoring, and writing feedback.
+- **[[language-learning]]** — AI interlocutors, pronunciation feedback, and conversational practice in second/foreign languages.
+- **[[stem-education]]** — the cross-disciplinary umbrella for science, technology, engineering, and mathematics.
+- **[[medical-education]]** — clinical simulation, reinforcement-learning training, and foundational learning principles in health-professions education.
+- **[[humanities-education]]** — interpretive cognition, authorship, and meaning-making in humanities and social sciences.
+- **[[k-12-ai-education]]** and **[[higher-ed]]** — education about and with AI at each level.
+
+## Cross-disciplinary themes
+
+Several threads cut across all disciplines, though they play out differently in each:
+
+- **Tutoring and feedback.** AI tutoring systems ([[ai-tutoring]], [[intelligent-tutoring]], [[feedback]], [[ai-feedback-quality]]) appear in nearly every discipline, from [[math-education|math]] and [[physics-education|physics]] tutors to [[writing-education|writing]] and [[language-learning|language]] feedback. The discipline shapes what counts as good feedback — right/wrong in math, argument quality in writing, fluency in language.
+- **Assessment and evaluation.** [[automated-assessment]], [[automated-grading]], [[automated-essay-scoring]], and [[formative-assessment]] are reimagined by AI across disciplines, but the scoring constructs differ (procedural accuracy vs. interpretive depth vs. communicative competence).
+- **Cognitive offloading and over-reliance.** [[cognitive-offloading]] and [[over-reliance]] risk appears across [[math-education|math]], [[cs-education|CS]], and [[writing-education|writing]], though the "cognitive act" being offloaded is discipline-specific — computation vs. code vs. composition.
+- **AI literacy and critical use.** [[ai-literacy]], [[critical-thinking]], and [[critical-pedagogy]] underpin responsible use in every subject.
+- **Equity and access.** [[equity-in-ai-education]], [[digital-divide]], and [[culturally-relevant-pedagogy]] concern all disciplines.
+
+## Signature pedagogies, methods, and theories by discipline
+
+Each discipline brings distinctive pedagogical traditions that AI research engages:
+
+- **Mathematics** — problem-solving, procedural fluency, and conceptual understanding. AI research emphasizes [[socratic-method|Socratic tutoring]] ([[oatutor-open-source-adaptive-tutor-2023|OATutor]]), [[adaptive-learning|adaptive]] practice, and diagnosing student misconceptions.
+- **Physics** — model-based reasoning, experimentation, and [[simulation]]. AI research uses virtual labs ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion]]), chatbots ([[becker-chatgpt-typology-physics-2026|ChatGPT typology]]), and problem-posing ([[genai-assisted-problem-posing-physics-2026|GenAI problem-posing]]).
+- **Computer science & programming** — project-based, hands-on building. AI research addresses code generation, debugging ([[code-review-genai-cs1|AI code review]], [[chatgpt-teachable-agent-programming-lbt-2024|learning by teaching]]), and epistemic AI literacy in co-programming ([[constructing-epistemic-ai-literacy-student-ai-co-programming|co-programming literacy]]).
+- **Writing** — process-oriented, recursive drafting and revision. AI research spans [[coach-not-crutch-ai-writing|AI as writing coach]], automated scoring, and stage-based ownership ([[ai-writing-support-stage-ownership-2026|ownership stages]]).
+- **Language learning** — communicative competence, interaction, and corrective feedback. AI research uses conversational agents ([[ai-interlocutor-l2-spoken-dialogue|L2 interlocutors]]), pronunciation feedback, and culturally responsive design.
+- **Health professions** — competency-based, clinically embedded, high-stakes. AI research emphasizes [[simulation]], reinforcement learning ([[residencyrl-clinical-rl-training-2026|ResidencyRL]]), and foundational learning principles ([[fowlin-operationalizing-learning-principles-ai|operationalizing learning principles]]).
+- **Humanities & social sciences** — interpretation, authorship, and critical meaning-making. AI research foregrounds interpretive cognition ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) and the [[philosophy-of-ai-in-education|philosophy of AI]] rather than tutoring for correctness.
+
+## Represented disciplines in the wiki
+
+The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[cs-education]]**, and **[[programming-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[medical-education]]** and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+
+## Underrepresented disciplines
+
+Several disciplines remain thin in the wiki and are good candidates for future ingestion:
+
+- **Business, economics, and management** — limited coverage despite AI's business-education relevance: [[ai-literacy-career-adaptability-business-2026|AI literacy and career adaptability in business]], [[beck-genai-literacy-economics-hands-on|hands-on GenAI literacy in economics]], [[dot-framework-survey-2026|technology-adoption frameworks]].
+- **Law and legal education** — minimal coverage: [[llm-turing-test-italian-legal-exams-2026|LLMs and Italian legal exams]].
+- **Psychology and counseling** — few AI-in-education articles: [[hawkins-feedback-literacy-ai-essay-writing|AI feedback literacy]], [[critical-genai-use-predictors|critical GenAI use]], [[adaptive-virtual-patient-psychotherapy-training|virtual patient psychotherapy training]].
+- **History** — only isolated articles: [[paternalistic-filter-llm-history-education|LLMs and historical reasoning]].
+- **The arts (visual art, design, music)** — emerging coverage: [[ai-interior-design-malaysia-2026|AI in interior design education]], [[genai-architectural-design-studios|GenAI in architectural design studios]], [[ai-vocal-pedagogy-2026|AI vocal pedagogy]], [[musical-education-ai-digital-transformation-2026|AI in music education]], [[t2i-competence-paradox-2026|text-to-image competence paradox]].
+
+These underrepresented disciplines would benefit from dedicated concept pages and additional article ingestion as the wiki grows.
+
+## Connected Concepts
+
+- [[ai-education]]
+- [[math-education]]
+- [[physics-education]]
+- [[cs-education]]
+- [[programming-education]]
+- [[writing-education]]
+- [[language-learning]]
+- [[stem-education]]
+- [[medical-education]]
+- [[humanities-education]]
+- [[k-12-ai-education]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[feedback]]
+- [[assessment]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI in health-professions education
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — Interpretive cognition in humanities and social science education
+- [[becker-chatgpt-typology-physics-2026]] — ChatGPT use typology in physics education
+- [[code-review-genai-cs1]] — GenAI code review in CS1
+- [[ai-writing-support-stage-ownership-2026]] — Stage-based AI writing support and ownership
+- [[ai-engineering-education-balancing-act]] — The balancing act of AI in engineering education
+- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education

@@ -34,6 +34,7 @@ Programming education connects to [[educational-robotics]], [[computational-thin
 - [[project-based-learning]]
 - [[k-12]]
 - [[higher-ed]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 - [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education learning outcomes (Jošt et al. 2024)

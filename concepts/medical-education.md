@@ -37,6 +37,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[assessment]]
 - [[feedback]]
 - [[ai-education]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 

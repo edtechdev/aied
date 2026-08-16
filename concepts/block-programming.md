@@ -18,6 +18,7 @@ Block-based programming is closely related to [[programming-education]], [[compu
 - [[cs-education]]
 - [[educational-robotics]]
 - [[k-12]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 

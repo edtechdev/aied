@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-16 | **Total pages:** 808
+**Last updated:** 2026-08-16 | **Total pages:** 809
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -269,6 +269,7 @@
 - [[difficulty-aware-dialogue-kt]] — Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
 - [[digital-divide]] — Digital Divide
 - [[digital-literacy-illusion]] — The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students
+- [[discipline-specific-aied]] — AIEd in the Disciplines
 - [[distributed-cognition]] — Distributed Cognition
 - [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
 - [[drawedumath-vlm-struggling-students-2026]] — The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors
