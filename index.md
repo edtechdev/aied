@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-16 | **Total pages:** 837
+**Last updated:** 2026-08-16 | **Total pages:** 838
 ---
 ## Quick Links
 - [Journal](journal.md) — reverse-chronological index of all ingested papers
@@ -9,6 +9,7 @@
 ---
 
 ## Concepts
+
 - [[a-framework-for-characterising-and-capturing-the-quality-of-digital-interactions]] — A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
@@ -643,6 +644,7 @@
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
 - [[precision-education-student-digital-twins-2026]] — From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways
 - [[prezenski-human-centered-ai-aided-learning]] — How Human-Centered Is AI-Aided Learning in Education?
+- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: Towards Deriving 'Skills' in Human-AI Collaboration
 - [[principled-ai-education]] — Principled AI in Education
 - [[privacy]] — Privacy in AI Education
 - [[privacy-aware-classroom-incident-recognition-2026]] — Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition
