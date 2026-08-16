@@ -37,6 +37,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[ai-literacy]]
 - [[over-reliance]]
 - [[teacher-role]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)

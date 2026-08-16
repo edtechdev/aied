@@ -38,6 +38,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[ai-tutoring]]
 - [[over-reliance]]
 - [[discipline-specific-aied]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education

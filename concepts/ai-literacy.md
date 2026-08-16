@@ -88,6 +88,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[feedback-literacy]]
 - [[feedback]]
 - [[critical-pedagogy]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching

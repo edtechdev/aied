@@ -47,6 +47,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[ai-tutoring]]
 - [[collaborative-learning]]
 - [[discipline-specific-aied]]
+- [[teacher-education]]
 
 ## Connected Articles
 

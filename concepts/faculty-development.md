@@ -54,6 +54,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[instructional-design]]
 - [[curriculum-design]]
 - [[professional-training]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers

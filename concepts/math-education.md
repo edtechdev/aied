@@ -55,6 +55,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[generative-ai]]
 - [[open-source]]
 - [[discipline-specific-aied]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
