@@ -52,8 +52,6 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[critical-pedagogy]]
 
 ## Connected Articles
-- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
-- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[ai-acceptance-preservice-science-teachers-2026]]
 - [[ai-interior-design-malaysia-2026]]

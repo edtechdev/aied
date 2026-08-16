@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 678 articles and 145 concepts.
+> Complete text of 672 articles and 145 concepts.
 
 # Articles
 
@@ -21006,44 +21006,6 @@ Long, D. Y., Wang, S., Md Rashid, S., & Lu, X. T. (2026). [*Artificial intellige
 
 ---
 
-## [A Longitudinal Investigation into the Uses of IT in Primary and Secondary Education](https://edtechdev.github.io/aied/articles/longitudinal-it-primary-secondary-education-2026/)
-
-> **Synthesis:** Laferrière and Cox (2026) analyse sixteen years of EDUsummIT official reports and E-Books (2009–2025) to map how information technology and, more recently, AI have been used in primary and secondary education. Using NotebookLM as an interactive Retrieval-Augmented Generation (RAG) mediating artifact, they run a three-phase analysis — systematic, thematic-pattern, and Cultural-Historical Activity Theory (CHAT) — revealing persisting integration issues and systemic misalignments. Contradictions among the activity systems of researchers, practitioners and policymakers explain both continuities and shifts in EDUsummIT's priority objects over the period. The paper closes with four guiding shifts toward an evidence-based framework for future IT and AI integration, and demonstrates the value of RAG-based analysis for longitudinal corpora.
-
-## Key Findings
-
-**Sixteen-year corpus.** Analysis spans EDUsummIT official reports and E-Books from 2009 to 2025, capturing how IT and (later) AI have been used across [[k-12]] education.
-
-**RAG-mediated analysis.** NotebookLM served as an interactive Retrieval-Augmented Generation (RAG) artifact for the three-phase analysis — systematic, thematic-pattern, and CHAT — illustrating a novel methodological use of [[rag]] for longitudinal document corpora.
-
-**Persisting misalignments.** Integration issues and systemic contradictions recur across activity systems: misaligned objects, rules and divisions of labour among researchers, practitioners and policymakers constrain classroom innovation — a structural diagnosis relevant to [[educational-policy-ai]].
-
-**Explaining priority shifts.** The identified contradictions account for continuities and shifts in EDUsummIT priority objects across the sixteen years, linking policy priorities to underlying systemic tensions.
-
-**Four guiding shifts.** The analysis concludes with four shifts toward an evidence-based framework for future IT and AI integration in education, plus evidence that RAG analysis benefits similar longitudinal investigations.
-
-## Connected Concepts
-
-- [[k-12]]
-- [[educational-policy-ai]]
-- [[ai-education]]
-- [[governance]]
-- [[rag]]
-- [[learning-analytics]]
-
-## Connected Articles
-
-- [[ai-lms-middle-school-longitudinal]] — Longitudinal AI in middle-school LMS
-- [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base on AI in K-12
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook
-- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
-
-## Citation
-
-Laferrière, T., & Cox, M. J. (2026). [*A Longitudinal Investigation into the Uses of IT in Primary and Secondary Education*](https://doi.org/10.1016/j.caeo.2026.100403). *Computers and Education Open*, 100403. https://doi.org/10.1016/j.caeo.2026.100403
-
----
-
 ## [LUDIA: A Design and Evidence Statement](https://edtechdev.github.io/aied/articles/ludia-udl-ai-thought-partner-2026/)
 
 > **Synthesis:** LUDIA is a no-cost, private, multilingual AI thought partner that connects educators with the Universal Design for Learning (UDL) framework. This statement describes the August 2026 relaunch rebuilt for privacy (no accounts, no cookies, no data collection), accessibility (WCAG 2.2 Level AA), and scale (13 languages, public-good architecture). The tool is positioned as a thought partner rather than content generator, and is evaluated against four 2026 guides from UNICEF, the European Commission, the EdTech Quality Collaborative, and the European EdTech Alliance.
@@ -22311,44 +22273,6 @@ Responding productively to authentic student reasoning is among the most difficu
 ## Citation
 
 Tufino, E. (2026). [A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers](https://arxiv.org/abs/2608.05820).
-
----
-
-## [Capturing Multidimensional Engagement within Small Groups: A Multimodal Perspective](https://edtechdev.github.io/aied/articles/multidimensional-engagement-small-groups-multimodal-2026/)
-
-> **Synthesis:** Zou et al. (2026) develop and validate a human-centered framework for measuring multidimensional small-group engagement in a game-based Computer-Supported Collaborative Learning (CSCL) environment. Grounded in sociocultural perspectives, the framework integrates multimodal data — discourse, interaction logs, and linguistic indicators — to assess behavioural, collaborative and disciplinary engagement through theory-informed human interpretation. Human-annotated ratings serve as ground truth for evaluating whether supervised machine learning models can approximate multimodal interpretive judgements. Results show average collaborative and disciplinary engagement positively predict group performance, whereas behavioural engagement alone does not. The study advances [[multimodal]] [[learning-analytics]] by proposing a generalizable, human-centered workflow that pairs human interpretation with model-assisted scalability.
-
-## Key Findings
-
-**Multidimensional engagement.** The framework distinguishes behavioural, collaborative and disciplinary engagement — not a single aggregate — enabling finer-grained analysis of small-group interaction in game-based CSCL.
-
-**Human-centered multimodal measurement.** Discourse, interaction logs and linguistic indicators are integrated through theory-informed human interpretation, positioning [[human-in-the-loop-ai|humans in the loop]] as essential to valid, contextually grounded engagement assessment.
-
-**Model-assisted scalability.** Human-annotated ratings ground the evaluation of three supervised learning algorithms, establishing a pathway toward scalable multimodal interpretive judgement while preserving interpretability.
-
-**Predictive validity.** Multiple regression shows average collaborative and disciplinary engagement positively predict group performance, while behavioural engagement alone does not significantly relate to learning outcomes — a key finding for [[engagement-metrics]] design.
-
-**Generalizable workflow.** The paper proposes a replicable workflow integrating multimodal interpretation with model-assisted scalability, with qualitative analysis of group responses illustrating the associations between engagement dimensions and outcomes.
-
-## Connected Concepts
-
-- [[engagement-metrics]]
-- [[collaborative-learning]]
-- [[multimodal]]
-- [[learning-analytics]]
-- [[game-based-learning]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[ai-agents-constructive-conflict-design-education-2026]] — AI agents and constructive conflict in design education
-- [[wordstream-glass-learning-analytics]] — Wordstream and glass learning analytics
-- [[engagement-intensity-learner-modeling]] — Engagement intensity and learner modeling
-- [[epistemic-emotions-collaborative-problem-solving]] — Epistemic emotions in collaborative problem-solving
-
-## Citation
-
-Zou, X., Hmelo-Silver, C. E., Hong, D., Glazewski, K., Mott, B., & Lester, J. (2026). [*Capturing Multidimensional Engagement within Small Groups: A Multimodal Perspective*](https://doi.org/10.1016/j.caeo.2026.100418). *Computers and Education Open*, 100418. https://doi.org/10.1016/j.caeo.2026.100418
 
 ---
 
@@ -24416,44 +24340,6 @@ proposes a precision education framework that adapts precision medicine's predic
 ## Citation
 
 Dutta, Kaushik (2026). [From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways](https://arxiv.org/abs/2608.06322). arXiv:2608.06322.
-
----
-
-## [The readiness of pre-service teachers to teach Coding and Robotics](https://edtechdev.github.io/aied/articles/preservice-teacher-coding-robotics-readiness-2026/)
-
-> **Synthesis:** Govender (2026) investigates pre-service teachers' readiness to teach Coding and Robotics in South Africa through their behavioural intention to teach the subject. Analysing survey data from 235 pre-service teachers via Partial Least Squares Structural Equation Modelling (PLS-SEM) within the UTAUT framework, the study examines Performance Expectancy (PE), Effort Expectancy (EE) and Social Influence (SI) as predictors of Behavioural Intention (BI). Results show Effort Expectancy has a moderate effect on behavioural intention, while Performance Expectancy and Social Influence have weak effects. The misalignment between curriculum reform and teacher-education policy raises concerns about pre-service teachers' readiness to implement Coding and Robotics effectively, contributing to the growing literature on [[educational-robotics]] and teacher preparedness.
-
-## Key Findings
-
-**UTAUT predictors.** Within the UTAUT framework, Effort Expectancy (EE) moderately predicts pre-service teachers' behavioural intention to teach Coding and Robotics, while Performance Expectancy (PE) and Social Influence (SI) show only weak effects.
-
-**Method.** A structured 5-point Likert survey of 235 pre-service teachers analysed with Partial Least Squares Structural Equation Modelling (PLS-SEM), a robust approach for an emerging educational context.
-
-**Policy misalignment.** The lack of alignment between curriculum reform and teacher-education policies raises concerns about readiness to implement Coding and Robotics effectively — a systemic issue for [[cs-education]] and [[educational-robotics]] rollout.
-
-**Teacher readiness focus.** The study foregrounds the role of pre-service teachers' preparedness and the factors affecting their readiness to teach the subject, relevant to [[teacher-role]] and [[tpack]].
-
-**Contribution.** It extends research on educational robotics and coding by connecting behavioural-intention modelling to teacher-education readiness in the South African context.
-
-## Connected Concepts
-
-- [[educational-robotics]]
-- [[block-programming]]
-- [[cs-education]]
-- [[teacher-role]]
-- [[tpack]]
-- [[k-12]]
-
-## Connected Articles
-
-- [[computational-thinking-educational-robotics-secondary-2026]] — Computational thinking and educational robotics in secondary education
-- [[bots-blocks-project-based-robotics-education-2026]] — Bots and blocks: project-based robotics education
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in education
-- [[game-based-gamified-robotics-education-review-2026]] — Game-based and gamified robotics education review
-
-## Citation
-
-Govender, R. (2026). [*The readiness of pre-service teachers to teach Coding and Robotics*](https://doi.org/10.1016/j.caeo.2026.100413). *Computers and Education Open*, 100413. https://doi.org/10.1016/j.caeo.2026.100413
 
 ---
 
@@ -27472,82 +27358,6 @@ SlidesQAQA represents a practical step toward AI systems that understand pedagog
 ## Citation
 
 Salsman, J. (2026). [*Slide Deck Q&A Quality Assurance App: A Multi-Stage Pipeline for Pedagogical Question Generation*](https://arxiv.org/abs/2605.26428). arXiv:2605.26428.
-
----
-
-## [Technology-Enhanced Inclusivity for Educational Ecosystems: Developing a Framework for Social Justice-Oriented Digital Transformation](https://edtechdev.github.io/aied/articles/social-justice-digital-transformation-framework-2026/)
-
-> **Synthesis:** Passey et al. (2026a) develop a framework for social justice-oriented digital transformation in educational ecosystems serving marginalized populations. After clarifying digital transformation, justice-oriented transformation and digital ecosystems, they outline the challenges marginalized groups face and construct a two-part framework: five core principles — equity, inclusion, participation through community engagement in design, ethical responsibility (transparency and accountability), and digital competence fostering empowerment and agency — plus five pillars: accessibility and infrastructure, inclusive pedagogy and curriculum, capacity building, ethical governance, and monitoring and evaluation. The framework grounds technology-enhanced inclusivity in explicit social-justice commitments rather than purely technical or economic rationales.
-
-## Key Findings
-
-**Five core principles.** Equity, inclusion, participation (engaging marginalized communities in design processes), ethical responsibility (transparency and accountability), and digital competence (fostering empowerment and agency) anchor the framework's normative commitments.
-
-**Five pillars.** Accessibility and infrastructure, inclusive pedagogy and curriculum, capacity building, ethical governance, and monitoring and evaluation operationalise the principles across the educational ecosystem.
-
-**Social-justice grounding.** The framework explicitly positions digital transformation as justice-oriented — confronting the [[digital-divide]] and [[equity-in-ai-education|equity]] challenges faced by marginalized populations rather than treating technology as neutral infrastructure.
-
-**Design participation.** A distinctive feature is centring marginalized communities in design processes, aligning with [[culturally-relevant-pedagogy]] and participatory design commitments.
-
-**Governance and monitoring.** Ethical governance and monitoring/evaluation pillars connect the framework to [[governance]] and accountability requirements for educational digital transformation. The companion paper applies the framework to four community-led case studies.
-
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[governance]]
-- [[ethics]]
-- [[accessible-learning]]
-- [[culturally-relevant-pedagogy]]
-
-## Connected Articles
-
-- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice digital transformation framework
-- [[ojeda-ramirez-community-based-ai-learning]] — Community-based AI learning
-- [[genai-minoritized-knowledges-disability]] — GenAI, minoritized knowledges and disability
-- [[structural-silence-underrepresented-language-ai-2026]] — Structural silence and underrepresented language in AI
-
-## Citation
-
-Passey, D., Ntebutse, J. G., Judge, M., Knezek, G., Kothiyal, A., Piras, V., Shonfeld, M., Tomas, T., Okamoto, M. T., & Toyokawa, Y. (2026a). [*Technology-Enhanced Inclusivity for Educational Ecosystems: Developing a Framework for Social Justice-Oriented Digital Transformation*](https://doi.org/10.1016/j.caeo.2026.100417). *Computers and Education Open*, 100417. https://doi.org/10.1016/j.caeo.2026.100417
-
----
-
-## [Exploring the Viability of a Framework for Social Justice-Oriented Digital Transformation](https://edtechdev.github.io/aied/articles/social-justice-digital-transformation-viability-2026/)
-
-> **Synthesis:** Passey et al. (2026b) apply the social justice-oriented digital transformation framework to four case studies of community-led design and implementation of digital technology with marginalized populations. Grounded in a vision of social justice and the principles of equity, inclusivity, participation, empowerment and ethical responsibility, the framework's five pillars — accessibility and infrastructure, inclusive pedagogy and curriculum, capacity building, ethical governance, and monitoring and evaluation — are shown to apply across the four cases. The analysis demonstrates the framework's viability both for analysing previously implemented digital-transformation experiences and for guiding new initiatives through an educational social-justice perspective, complementing the framework-development paper.
-
-## Key Findings
-
-**Four community-led cases.** The framework is applied to four case studies of community-led design and implementation of digital technology with marginalized populations, testing its real-world viability.
-
-**Framework application.** Through the five pillars — accessibility and infrastructure, inclusive pedagogy and curriculum, capacity building, ethical governance, and monitoring and evaluation — the analysis shows how the social-justice framework applies to each case.
-
-**Dual utility.** The framework proves relevant both for analysing previously implemented digital-transformation experiences and for guiding new initiatives from an educational social-justice perspective — bridging retrospective analysis and prospective design.
-
-**Normative grounding.** The cases are examined through principles of equity, inclusivity, participation, empowerment and ethical responsibility, embedding [[equity-in-ai-education|equity]] and [[ethics]] at the core of digital-transformation assessment.
-
-**Companion to framework paper.** This application study complements the framework-development paper, together providing conceptual foundation plus empirical illustration of social justice-oriented digital transformation in education.
-
-## Connected Concepts
-
-- [[equity-in-ai-education]]
-- [[digital-divide]]
-- [[governance]]
-- [[ethics]]
-- [[accessible-learning]]
-- [[culturally-relevant-pedagogy]]
-
-## Connected Articles
-
-- [[social-justice-digital-transformation-framework-2026]] — Developing the social justice digital transformation framework
-- [[ojeda-ramirez-community-based-ai-learning]] — Community-based AI learning
-- [[genai-minoritized-knowledges-disability]] — GenAI, minoritized knowledges and disability
-- [[halani-designing-for-reach-2026]] — Designing for reach
-
-## Citation
-
-Passey, D., Ntebutse, J. G., Judge, M., Knezek, G., Kothiyal, A., Piras, V., Shonfeld, M., Tomas, T., Okamoto, M. T., & Toyokawa, Y. (2026b). [*Exploring the Viability of a Framework for Social Justice-Oriented Digital Transformation*](https://doi.org/10.1016/j.caeo.2026.100416). *Computers and Education Open*, 100416. https://doi.org/10.1016/j.caeo.2026.100416
 
 ---
 
@@ -30790,44 +30600,6 @@ Binkowski, K. P., & Hopkins, A. (2026). [*The University AI Didn't Replace: Reth
 
 ---
 
-## [Exploring Individual and Contextual Aspects Influencing University Teachers' Decision-Making on Technology Integration Into Teaching](https://edtechdev.github.io/aied/articles/university-teacher-tech-integration-decisions-2026/)
-
-> **Synthesis:** Nguyen et al. (2026) use a multiple case study design to explore how individual and contextual aspects shape university teachers' decisions on [[edtech-platform|technology integration]] into teaching. Interviewing ten teachers across nine courses at a large Dutch research university, they adopt an ecological systems perspective and find that integration decisions are influenced by a wide range of contextual forces beyond specific technology affordances, negotiated across nested systems. Disciplinary culture — exemplified by mathematics — shapes multiple systems of decision-making, while the chronosystem of the post-pandemic era actively configures those nested systems. The study extends technology-integration research by systematically foregrounding context in the university setting.
-
-## Key Findings
-
-**Contexts beyond affordances.** University teachers weigh a range of contextual influences — social influence, institutional conditions, facilities — that extend well beyond what any specific technology affords, countering purely tool-centric accounts of adoption.
-
-**Ecological systems lens.** Decisions are embedded within and negotiated across the nested systems described by ecological systems theory: micro-, meso-, exo-, macro- and chronosystem influences all bear on integration choices.
-
-**Disciplinary culture as pivotal.** Disciplinary norms, exemplified by mathematics, informed multiple ecological systems and shaped technology-related decisions — pointing to the importance of [[discipline-specific-aied]] and subject-context in integration.
-
-**Chronosystem in the post-pandemic era.** Historical/temporal context actively reconfigured the nested systems within which technology integration decisions are made, reflecting the lasting imprint of pandemic-era shifts on [[teacher-role|teacher practice]].
-
-**Method.** A heterogeneous multiple case study of ten teachers and nine courses (first semester 2022–2023) at a multidisciplinary Dutch research university, yielding rich, contextualised accounts of decision-making.
-
-## Connected Concepts
-
-- [[teacher-role]]
-- [[tpack]]
-- [[instructional-design]]
-- [[faculty-development]]
-- [[edtech-platform]]
-- [[higher-ed]]
-
-## Connected Articles
-
-- [[edurev-100741-tpack-genai-review]] — TPACK in the GenAI era: a systematic review
-- [[teacher-ai-adoption-confidence]] — Teacher AI adoption and confidence
-- [[ai-tpack-teacher-multi-agent-workflow]] — AI-TPACK and teacher multi-agent workflows
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal IT use in primary and secondary education
-
-## Citation
-
-Nguyen, H., Mali, A., Korpershoek, H., Mouw, J. M., & Strijbos, J.-W. (2026). [*Exploring Individual and Contextual Aspects Influencing University Teachers' Decision-Making on Technology Integration Into Teaching*](https://doi.org/10.1016/j.caeo.2026.100389). *Computers and Education Open*, 100389. https://doi.org/10.1016/j.caeo.2026.100389
-
----
-
 ## [Unveiling patterns of socially shared regulation in relation to self-regulated learning: The roles of individual profiles and group dynamics in online collaborative learning](https://edtechdev.github.io/aied/articles/unveiling-patterns-of-socially-shared-regulation-in-relation-to-self-regulated-l/)
 
 > **Synthesis:** This study employed a three-layer analytical method combining cluster analysis, content analysis and complex network analysis to investigate how socially shared regulation of learning (SSRL) patterns evolve in relation to individual self-regulated learning (SRL) profiles. Data from 60 undergraduates in a 16-week course with over 16,000 trace entries revealed three SRL profiles based on time investment, study regularity and help-seeking behaviours. Groups with higher SSRL interaction displayed more diverse and balanced role composition, and distinct SSRL patterns emerged across SRL profiles over time.
@@ -32327,8 +32099,6 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 - [[generative-ai]]
 - [[ai-education]]
 ## Connected Articles
-- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
-- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
 
 - [[adhd-video-segmentation-computing-education]]
 - [[behaviorally-adaptive-visual-diversion-assessment-2026]]
@@ -32918,7 +32688,6 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[discipline-specific-aied]]
 
 ## Connected Articles
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
@@ -33950,7 +33719,6 @@ Block-based programming is closely related to [[programming-education]], [[compu
 - [[discipline-specific-aied]]
 
 ## Connected Articles
-- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
 
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM
@@ -34179,7 +33947,6 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[distributed-cognition]]
 - [[self-regulated-learning]]
 ## Connected Articles
-- [[multidimensional-engagement-small-groups-multimodal-2026]] — Multidimensional engagement in small groups (multimodal)
 
 - [[polished-artifacts-fragile-engagement-2026]]
 - [[epistemic-emotions-collaborative-problem-solving]]
@@ -34553,7 +34320,6 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[discipline-specific-aied]]
 
 ## Connected Articles
-- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
 
 - [[code-review-genai-cs1]]
@@ -34605,8 +34371,6 @@ Ladson-Billings, G. (1995). *Toward a Theory of Culturally Relevant Pedagogy*. A
 - [[academic-integrity]]
 - [[automated-question-generation]]
 ## Connected Articles
-- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
-- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
 
 - [[international-students-conversational-ai-adaptation]]
 - [[taklif-ai-interest-based-personalized-assignments]]
@@ -34797,8 +34561,6 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[student-experience]]
 
 ## Connected Articles
-- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
-- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
 
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
@@ -35063,7 +34825,6 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[stem-education]]
 
 ## Connected Articles
-- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
 
 - [[access-not-enough-ai-tutoring-2026]] — Take-up and engagement are the binding constraints for AI tutoring platforms
 - [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Technical and structural platform factors shape engagement, retention, and inclusivity
@@ -35201,7 +34962,6 @@ Educational AI policy connects to [[regulation]] (legal framework), [[ai-governa
 - [[teacher-ai-competency]]
 
 ## Connected Articles
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[genai-student-experiences-uk-he-survey-2026]]
@@ -35262,7 +35022,6 @@ A defining theme is that robots are effective when they support genuine learning
 - [[higher-ed]]
 
 ## Connected Articles
-- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
 
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Scoping Review of the Pepper Robot in Formal Education
 
@@ -35377,7 +35136,6 @@ Engagement metrics connect to [[learning-analytics]] and [[educational-measureme
 - [[higher-ed]]
 
 ## Connected Articles
-- [[multidimensional-engagement-small-groups-multimodal-2026]] — Multidimensional engagement in small groups (multimodal)
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
 
 - [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
@@ -35459,8 +35217,6 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[agency]]
 
 ## Connected Articles
-- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
-- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on struggling students' work (Lucy et al. 2026)
 
@@ -35532,8 +35288,6 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[teacher-role]]
 
 ## Connected Articles
-- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
-- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[genai-student-experiences-uk-he-survey-2026]]
@@ -35643,7 +35397,6 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[professional-training]]
 
 ## Connected Articles
-- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[ai-acceptance-preservice-science-teachers-2026]]
 
@@ -36001,7 +35754,6 @@ GBL connects to [[gamification]], [[educational-robotics]], [[student-engagement
 - [[simulation]]
 
 ## Connected Articles
-- [[multidimensional-engagement-small-groups-multimodal-2026]] — Multidimensional engagement in small groups (multimodal)
 
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
@@ -36151,9 +35903,6 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[student-experience]]
 
 ## Connected Articles
-- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
-- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
@@ -36341,7 +36090,6 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 
 ## Connected Articles
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
-- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
@@ -36482,7 +36230,6 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[faculty-development]]
 - [[generative-ai]]
 ## Connected Articles
-- [[multidimensional-engagement-small-groups-multimodal-2026]] — Multidimensional engagement in small groups (multimodal)
 
 - [[agentic-ai-education-scoping-review]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
@@ -36706,7 +36453,6 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[learning-theories]]
 - [[behaviorism]]
 ## Connected Articles
-- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[lin-llm-interactive-lesson-generation]] — Automatic LLM creation of interactive learning lessons (Lin et al. 2025)
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
@@ -36943,8 +36689,6 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[generative-ai]]
 
 ## Connected Articles
-- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[eduzone-llm-safety-k12]]
@@ -37153,8 +36897,6 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[llm]]
 
 ## Connected Articles
-- [[multidimensional-engagement-small-groups-multimodal-2026]] — Multidimensional engagement in small groups (multimodal)
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[ai-guided-learning-audiovideo-2026]]
 
@@ -37984,7 +37726,6 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[accessible-learning]]
 
 ## Connected Articles
-- [[multidimensional-engagement-small-groups-multimodal-2026]] — Multidimensional engagement in small groups (multimodal)
 - [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
 
 - [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
@@ -38909,7 +38650,6 @@ RAG connects to [[llm]] (the generation component), [[knowledge-graph]] (structu
 - [[higher-ed]]
 
 ## Connected Articles
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 
 - [[eduguard-safe-rag-llm-tutor]]
 - [[eduzone-llm-safety-k12]]
@@ -40293,8 +40033,6 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[critical-pedagogy]]
 
 ## Connected Articles
-- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
-- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[ai-acceptance-preservice-science-teachers-2026]]
 - [[ai-interior-design-malaysia-2026]]
@@ -40366,9 +40104,7 @@ TPACK is the organizing framework for the teacher-side of the wiki's evidence ba
 - [[meta-analysis-systematic-review]]
 
 ## Connected Articles
-- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
-- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 
 - [[edurev-100741-tpack-genai-review]] — Integrating generative AI into student learning: A systematic review from a TPACK perspective

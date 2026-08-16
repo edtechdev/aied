@@ -21,7 +21,6 @@ Block-based programming is closely related to [[programming-education]], [[compu
 - [[discipline-specific-aied]]
 
 ## Connected Articles
-- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
 
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM

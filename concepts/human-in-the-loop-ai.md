@@ -49,7 +49,6 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[faculty-development]]
 - [[generative-ai]]
 ## Connected Articles
-- [[multidimensional-engagement-small-groups-multimodal-2026]] — Multidimensional engagement in small groups (multimodal)
 
 - [[agentic-ai-education-scoping-review]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)

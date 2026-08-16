@@ -43,9 +43,6 @@ AI governance connects to [[ethics]] (the principles it operationalizes), [[high
 - [[student-experience]]
 
 ## Connected Articles
-- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
-- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
-- [[longitudinal-it-primary-secondary-education-2026]] — Longitudinal uses of IT in primary and secondary education
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
