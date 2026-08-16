@@ -28,6 +28,7 @@ AI-enabled active learning manifests across multiple forms in this wiki: [[intel
 - [[feedback-loop]]
 - [[over-reliance]]
 - [[collaborative-learning]]
+- [[learning-theories]]
 ## Connected Articles
 - [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
 

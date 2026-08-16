@@ -34,6 +34,7 @@ Collaborative learning is grounded in sociocultural theories of learning that po
 - [[cs-education]]
 - [[accessible-learning]]
 - [[neurodiversity]]
+- [[learning-theories]]
 ## Connected Articles
 
 - [[polished-artifacts-fragile-engagement-2026]]

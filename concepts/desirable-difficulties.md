@@ -51,6 +51,7 @@ The central tension for AI-supported learning is that [[generative-ai|generative
 - [[active-learning]]
 - [[constructivist]]
 - [[motivation]]
+- [[learning-theories]]
 
 ## Connected Articles
 - [[brcic-effortless-trap-productive-struggle-2026]] — Six-move model of learning and AI placement (Brcic & Frljic 2026)

@@ -67,6 +67,7 @@ This suggests that **metacognitive support and [[motivation]] are not identical*
 - [[agentic-ai]]
 - [[human-in-the-loop-ai]]
 - [[authentic-assessment]]
+- [[learning-theories]]
 ## Connected Articles
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]

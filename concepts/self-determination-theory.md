@@ -36,6 +36,7 @@ SDT connects directly to [[motivation]] as its parent construct, to [[affective-
 - [[over-reliance]]
 - [[engagement-metrics]]
 - [[ai-education]]
+- [[learning-theories]]
 ## Connected Articles
 
 - [[teacher-education-ai-literacy-sdt-2026]]

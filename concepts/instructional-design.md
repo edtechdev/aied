@@ -58,6 +58,8 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[agentic-ai]]
 - [[accessible-learning]]
 - [[universal-design-for-learning]]
+- [[learning-theories]]
+- [[behaviorism]]
 ## Connected Articles
 - [[lin-llm-interactive-lesson-generation]] — Automatic LLM creation of interactive learning lessons (Lin et al. 2025)
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods

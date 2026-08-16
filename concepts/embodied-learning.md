@@ -29,6 +29,7 @@ Embodied learning connects to [[educational-robotics]], [[social-robots]], [[hum
 - [[experiential-learning]]
 - [[computational-thinking]]
 - [[social-emotional-learning]]
+- [[learning-theories]]
 
 ## Connected Articles
 
