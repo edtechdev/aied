@@ -22,7 +22,7 @@ Duan et al. (2026) built a [[rag|RAG]]-based [[agentic-ai|agentic]] system with 
 
 **Human-Required Dimensions (high human burden):**
 - Pedagogically meaningful distractor design
-- High-quality explanatory [[feedback-loop|feedback]]
+- High-quality explanatory [[feedback|feedback]]
 
 Strategic insight: Human effort should be concentrated where instructional judgment is irreplaceable; computational verification can be fully automated.
 

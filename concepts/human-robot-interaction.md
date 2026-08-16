@@ -9,7 +9,7 @@ confidence: high
 
 > **Human-robot interaction (HRI)** — the interdisciplinary study of how people and robots interact, encompassing perception, communication, collaboration, and the social, cognitive, and ethical dynamics of that interaction. In education, HRI underlies how learners perceive, trust, and learn with robots — whether programming a robot, conversing with a tutoring robot, or rehearsing social scenarios. HRI research examines how robot appearance, behaviour, task context, and [[embodied-learning|embodiment]] shape user experience, trust, agency, and learning.
 
-HRI sits at the intersection of [[social-robots|robotics]], cognitive science, psychology, and [[human-ai-collaboration]]. It is the empirical and theoretical foundation for [[educational-robotics]], examining what makes human-robot interaction effective, trustworthy, and beneficial for learning and well-being. Key concerns in educational HRI include preserving human [[agency]], building [[trust]], supporting [[self-efficacy]], and ensuring that interaction with robots supports rather than undermines autonomy and social learning.
+HRI sits at the intersection of [[social-robots|social robotics]], cognitive science, psychology, and [[human-ai-collaboration]]. It is the empirical and theoretical foundation for [[educational-robotics]], examining what makes human-robot interaction effective, trustworthy, and beneficial for learning and well-being. Key concerns in educational HRI include preserving human [[agency]], building [[trust]], supporting [[self-efficacy]], and ensuring that interaction with robots supports rather than undermines autonomy and social learning.
 
 ### How HRI appears in the wiki's research
 
