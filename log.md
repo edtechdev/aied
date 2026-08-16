@@ -1,3 +1,10 @@
+## [2026-08-16] ingest | Principal Trait Analysis: Towards Deriving "Skills" in Human-AI Collaboration (arXiv:2608.11460)
+
+- Ingested McNichols, Du & Lan (2026), arXiv:2608.11460 (cs.CL), CC BY — an automated, PCA-inspired algorithm (Principal Trait Analysis, PTA) that derives interpretable "traits" of effective human–AI collaboration from LLM conversation traces (4 stages: observation extraction, clustering, trait scoring, principal-trait selection). Evaluated on StudyChat (1,540 student–AI-tutor sessions, 171 students, programming/AI course) and SWE-Chat (2,774 developer–coding-agent sessions). PTA traits significantly explain and predict outcomes but are not yet interpretable as "skills" (limited generalizability across semesters/settings; flat learning curves).
+- Created articles/principal-trait-analysis-human-ai-skills-2026.md + raw/papers full text.
+- Enriched [[human-ai-collaboration]] concept page with a "Data-driven trait discovery" bullet + added article to its Connected Articles.
+- Added back-links to 7 concept pages: [[llm]], [[prompt-engineering]], [[agentic-ai]], [[ai-tutoring]], [[self-regulated-learning]], [[learning-analytics]], [[ai-literacy]].
+- Regenerated journal.md (repairs stale count 802→838, was missing 35 articles), index.md (838), llms.txt/llms-full.txt.
 ## [2026-08-16] inline links | add concept hyperlinks to main-text bodies of 27 full-text articles
 
 - Added ~148 inline concept hyperlinks to the body prose (Synthesis + Key Findings) of all 27 full-text-grounded articles (6 cron abstract-upgrades + aaiwa + 20 CEAO-batch expansions), following the wiki-style inline-hyperlink rule (e.g. feedback→[[feedback]], metacognition→[[metacognition]]).

@@ -20,6 +20,7 @@ Human-AI collaboration describes how learners, teachers, and AI systems divide [
 - **Distinct collaboration modes:** empirical work identifies three human–AI collaborative problem-solving modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration* — revealing a trade-off between the efficiency of the distributed human–AI system and the depth of learners' self-regulatory engagement (delegated reasoning performs best but with lower self-regulation).^[[hao-human-ai-collaborative-problem-solving-cognition]]
 - **AI as mediator, not merely partner:** [[niari-ai-pedagogical-mediator-collaborative-learning|Niari]] reconceptualises AI as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors rather than treating AI as a tutor, peer, or tool.
 - **Community and epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|community-based AI learning]] shows collaboration is also a question of *who is authoritative*, grounding AI engagement in learners' lived epistemologies.
+- **Data-driven trait discovery:** [[principal-trait-analysis-human-ai-skills-2026|Principal Trait Analysis (PTA)]] automates the derivation of interaction "traits" from large LLM-conversation corpora — a PCA-inspired, four-stage pipeline that extracts behavior observations, clusters them into candidate traits, scores each collaborator, and selects the most distinguishing traits. Evaluated on a student–AI-tutor corpus and a developer–coding-agent corpus, PTA finds traits that explain and predict outcomes (e.g. deep conceptual engagement positively, task delegation negatively, in the educational setting), and — because they do not yet generalize across semesters/settings or show learning-curve trajectories — the authors argue the traits are not yet interpretable as "skills." This offers a scalable, objective complement to [[ai-literacy]] frameworks and self-report measures, directly informing how educators teach "AI use skills."
 
 ### Connections
 
@@ -40,6 +41,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[metacognition]]
 - [[self-regulated-learning]]
 ## Connected Articles
+- [[principal-trait-analysis-human-ai-skills-2026]] — Data-driven "traits" of human–AI collaboration
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 

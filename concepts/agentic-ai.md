@@ -65,6 +65,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[ai-education]]
 
 ## Connected Articles
+- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education (474 studies)
 - [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning
