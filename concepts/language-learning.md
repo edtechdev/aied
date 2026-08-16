@@ -34,6 +34,9 @@ Language learning has emerged as a significant AI in education domain because la
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[ai-guided-learning-audiovideo-2026]]
 
 - [[ai-interlocutor-l2-spoken-dialogue]]

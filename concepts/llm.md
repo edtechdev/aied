@@ -43,6 +43,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[pedagogical-llm-training]]
 - [[learning-by-teaching]]
 ## Connected Articles
+- [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
+- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[multimodal-item-parameter-estimation-2026]]
 

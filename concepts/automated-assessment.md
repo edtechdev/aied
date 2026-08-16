@@ -39,6 +39,7 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[feedback]]
 
 ## Connected Articles
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM automated classroom observation (Melo et al. 2026)
 - [[learner-centered-feedback-ai]] — AI learner-centered feedback: teachers' practices and perceptions (PolyFeed)
 - [[competency-based-education-genai-production-2026]]

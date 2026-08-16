@@ -70,6 +70,9 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[agency]]
 
 ## Connected Articles
+- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
+- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
+- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on struggling students' work (Lucy et al. 2026)
 
 - [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring

@@ -73,6 +73,7 @@ The constructive question in the wiki's assessment literature is not "how do we 
 - [[feedback-literacy]]
 
 ## Connected Articles
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era

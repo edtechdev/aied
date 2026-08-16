@@ -44,6 +44,7 @@ Curriculum design connects directly to [[instructional-design]] — curriculum d
 - [[prompt-engineering]]
 - [[collaborative-learning]]
 ## Connected Articles
+- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[ai-interior-design-malaysia-2026]]
 - [[critical-media-literacy-education-2026]]
 - [[ai-generated-interactive-fiction-education-2026]]

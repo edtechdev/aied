@@ -44,6 +44,10 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
+- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
+- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
+- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[rudolph-ai-myths-critical-higher-ed]] — AI myths and the need for a critical approach in higher ed (Rudolph et al. 2025)
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)

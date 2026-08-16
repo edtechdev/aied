@@ -55,6 +55,10 @@ TPACK is the organizing framework for the teacher-side of the wiki's evidence ba
 - [[meta-analysis-systematic-review]]
 
 ## Connected Articles
+- [[preservice-teacher-coding-robotics-readiness-2026]] — Pre-service teachers' readiness to teach Coding and Robotics
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
+- [[university-teacher-tech-integration-decisions-2026]] — University teachers' technology-integration decisions
+- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 
 - [[edurev-100741-tpack-genai-review]] — Integrating generative AI into student learning: A systematic review from a TPACK perspective
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows

@@ -44,6 +44,7 @@ Because an AI tutor's core design question is how much help to give, cognitive l
 - [[learning-theories]]
 - [[behaviorism]]
 ## Connected Articles
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and AI placement (Brcic & Frljic 2026)
 
 - [[favero-critical-ai-tutors-empower-enslave-2025]]

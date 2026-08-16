@@ -44,6 +44,9 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[tpack]]
 ## Connected Articles
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
+- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
+- [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
 - [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom (Ben-Zion et al. 2025)
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)

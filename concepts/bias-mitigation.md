@@ -76,6 +76,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[ai-education]]
 
 ## Connected Articles
+- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 
 - [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
 - [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing

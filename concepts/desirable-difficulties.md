@@ -54,6 +54,7 @@ The central tension for AI-supported learning is that [[generative-ai|generative
 - [[learning-theories]]
 
 ## Connected Articles
+- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[brcic-effortless-trap-productive-struggle-2026]] — Six-move model of learning and AI placement (Brcic & Frljic 2026)
 
 - [[agentic-ai-pedagogical-best-practice-2026]]

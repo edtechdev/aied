@@ -39,6 +39,8 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[teacher-role]]
 
 ## Connected Articles
+- [[social-justice-digital-transformation-viability-2026]] — Exploring the viability of the social justice framework
+- [[social-justice-digital-transformation-framework-2026]] — Social justice-oriented digital transformation framework
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[genai-student-experiences-uk-he-survey-2026]]

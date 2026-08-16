@@ -74,6 +74,7 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[behaviorism]]
 
 ## Connected Articles
+- [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[ai-vocational-education-training-review]] — Constructivism espoused but behaviorist AI dominates in VET; the "Turing Trap"
