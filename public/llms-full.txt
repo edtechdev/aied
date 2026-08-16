@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 672 articles and 145 concepts.
+> Complete text of 693 articles and 146 concepts.
 
 # Articles
 
@@ -165,6 +165,43 @@ The study demonstrates that [[prompt-engineering]] can be taught effectively to 
 ## Citation
 
 Xiao, R., Hou, X., Tseng, Y.-J., Nieu, H., Liao, G., Stamper, J., & Koedinger, K. R. (2026). [*Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module*](https://doi.org/10.1609/aaai.v40i28.36924). AAAI.
+
+---
+
+## [AI-mediated authentic assessment and metacognitive reflection: A mixed-methods study of the AAIWA model](https://edtechdev.github.io/aied/articles/aaiwa-ai-authentic-assessment-metacognition-2026/)
+
+> **Synthesis:** Oktoma, Nugraha, and Hidayat (2026) introduce the Authentic AI-Assisted Writing Assessment (AAIWA) model, integrating authentic rubric-based assessment, condition-responsive AI feedback, and structured metacognitive reflection as a unified recursive architecture within Indonesian pre-service teacher education. The AAIWA prototype is a constrained hybrid system: a rule-based NLP layer governs all pedagogically consequential decisions while GPT-3.5-turbo serves exclusively as a language-articulation module. A mixed-methods R&D design engaged 75 pre-service teachers across three universities, demonstrating that embedding rubric criteria within the feedback engine and positioning reflection as dynamic input into subsequent feedback cycles supports authentic assessment and metacognitive development.
+
+## Key Findings
+
+**Integrated AAIWA model.** The AAIWA model unifies authentic rubric-based assessment, condition-responsive AI feedback, and structured metacognitive reflection into a single recursive architecture.
+
+**Constrained hybrid system.** A rule-based NLP layer governs pedagogically consequential decisions while GPT-3.5-turbo acts only as a language-articulation module — "condition-responsive" feedback is rule-conditioned, not autonomous LLM reasoning.
+
+**Recursive reflection.** Structured reflection functions as a dynamic input into subsequent feedback cycles rather than a post-hoc add-on, supporting [[metacognition]].
+
+**Global South context.** The study addresses a design gap in Global South pre-service teacher education, engaging 75 pre-service teachers across three Indonesian universities.
+
+**Implication.** The AAIWA model offers a design for [[authentic-assessment]] with AI in [[teacher-education]] that keeps pedagogically critical decisions in a rule-based, transparent layer while using LLMs for language articulation.
+
+## Connected Concepts
+
+- [[authentic-assessment]]
+- [[feedback]]
+- [[metacognition]]
+- [[teacher-education]]
+- [[teacher-education]]
+
+## Connected Articles
+
+- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
+- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
+- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
+- [[genai-group-writing-strategies-2026]] — Group strategies for GenAI collaborative writing
+
+## Citation
+
+Oktoma, E., Nugraha, D., & Hidayat, A. (2026). [*AI-mediated authentic assessment and metacognitive reflection: A mixed-methods study of the AAIWA model*](https://doi.org/10.1016/j.caeo.2026.100395). *Computers and Education Open*, 100395. https://doi.org/10.1016/j.caeo.2026.100395
 
 ---
 
@@ -4284,6 +4321,43 @@ Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Fe
 
 ---
 
+## [Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy](https://edtechdev.github.io/aied/articles/ai-perceptions-students-teachers-motivation-2026/)
+
+> **Synthesis:** Baez, Buchner, Ullrich, and Schallert-Vallaster (2026) explore how primary and lower secondary school students perceive AI in learning, and how student and teacher motivation and self-efficacy relate to those perceptions. Using questionnaire data from 907 students and 53 class teachers in German-speaking Switzerland, analyzed with doubly multilevel structural equation modeling (ML-SEM), they found that students' motivation to learn with digital media is significantly linked to their perception of AI at the individual level. Students' self-efficacy is positively associated with their motivation, with girls exhibiting lower self-efficacy to learn with digital media than boys. At the class level, teachers' motivation to integrate digital media was positively associated with student motivation.
+
+## Key Findings
+
+**Motivation drives AI perception.** Students' motivation to learn with digital media is significantly linked to their perception of AI at the individual level.
+
+**Self-efficacy and motivation.** Students' self-efficacy is positively associated with their motivation, but girls exhibited lower self-efficacy for learning with digital media than boys — a gender gap relevant to [[equity-in-ai-education]].
+
+**Teacher-level influence.** At the class level, teachers' motivation to integrate digital media in teaching was significantly positively associated with student motivation, highlighting the teacher's role.
+
+**Multilevel design.** Doubly multilevel SEM on a large Swiss sample (907 students, 53 teachers) provides robust evidence on student and teacher AI perceptions.
+
+**Implication.** Fostering students' self-efficacy and motivation — especially among female students — plus teacher AI professional development can promote more positive perceptions of AI in learning, informing [[ai-literacy]] programs in [[k-12]] settings.
+
+## Connected Concepts
+
+- [[student-experience]]
+- [[motivation]]
+- [[self-efficacy]]
+- [[k-12]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[genai-literary-assistants-writing-motivation-2026]] — GAI literary assistants and writing motivation
+- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy
+- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
+- [[chatgpt-inoculation-training-verification-2026]] — Inoculation training for ChatGPT verification
+
+## Citation
+
+Baez, C., Buchner, J., Ullrich, A.-L., & Schallert-Vallaster, S. (2026). [*Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy*](https://doi.org/10.1016/j.caeo.2026.100346). *Computers and Education Open*, 100346. https://doi.org/10.1016/j.caeo.2026.100346
+
+---
+
 ## [Preparing Students for AI-Powered Materials Discovery: A Workflow-Aligned Framework for AI Literacy, Equity, and Scientific Judgment](https://edtechdev.github.io/aied/articles/ai-powered-materials-discovery-ai-literacy/)
 
 # AI-Powered Materials Discovery and AI Literacy
@@ -4558,6 +4632,42 @@ This work connects to core wiki themes: [[language-learning]] [[higher-ed]] [[wr
 ## Citation
 
 Shormani & Alshawsh (2026). [AI tools in Arab University English classrooms: Looking back and forward](https://arxiv.org/abs/2607.05403). arXiv:2607.05403. arXiv preprint.
+
+---
+
+## [Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs](https://edtechdev.github.io/aied/articles/ai-tpack-mathematics-teacher-education-2026/)
+
+> **Synthesis:** Xie and Luo (2026) develop and validate a domain-specific AI-TPACK instrument tailored to mathematics teacher education, then survey 412 Chinese mathematics teacher education students (MTES). Their AI-TPACK readiness is currently at a preliminary stage, with no significant differences across grade levels. A structural equation model shows that while self-efficacy is a significant positive predictor of AI-TPACK, strong traditional teaching beliefs can paradoxically act as a cognitive barrier to AI integration. The findings provide empirical evidence for redesigning mathematics teacher training to address both technical proficiency and psychological readiness.
+
+## Key Findings
+
+**Domain-specific instrument.** The study developed and validated an AI-TPACK instrument tailored to the unique pedagogical and logical demands of mathematics education.
+
+**Preliminary readiness.** Survey of 412 Chinese MTES revealed AI-TPACK readiness is currently at a preliminary stage, with no significant grade-level differences across the teacher-education curriculum.
+
+**Self-efficacy as predictor.** Self-efficacy serves as a significant positive predictor of AI-TPACK.
+
+**Teaching beliefs as barrier.** Strong traditional teaching beliefs can paradoxically act as a cognitive barrier to AI integration.
+
+**Implication.** Mathematics teacher training must be redesigned to address both technical proficiency and psychological readiness (self-efficacy and beliefs), linking to the wiki's [[teacher-education]] and [[math-education]] concepts.
+
+## Connected Concepts
+
+- [[teacher-education]]
+- [[tpack]]
+- [[math-education]]
+- [[self-efficacy]]
+
+## Connected Articles
+
+- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
+- [[mathematics-teachers-chatbot-motivation-2026]] — Mathematics teachers' chatbot motivation
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK PD framework
+- [[harnessing-ai-preservice-teachers-scoping-2026]] — AI in preservice teacher development
+
+## Citation
+
+Xie, M., & Luo, L. (2026). [*Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs*](https://doi.org/10.1016/j.caeo.2026.100375). *Computers and Education Open*, 100375. https://doi.org/10.1016/j.caeo.2026.100375
 
 ---
 
@@ -7109,6 +7219,43 @@ Andrew Ash, & John Hu (2026). [WIP: Chat-Debugging: Large Language Model as a Ha
 
 ---
 
+## [Leveraging ChatGPT in academic writing: ChatGPT enhances students' writing quality, writing experience, and ownership](https://edtechdev.github.io/aied/articles/chatgpt-academic-writing-quality-ownership-2026/)
+
+> **Synthesis:** Bauer, Fütterer, Brucker, and Gerjets (2026) test whether ChatGPT promotes students' academic writing skills — especially when writing without ChatGPT after having used it. In an experimental setup, first-year fashion design students engaged in three in-class writing exercises: composing introductions to scientific papers first without AI, second with ChatGPT, and third again without assistance. ChatGPT's use produced statistically significant improvements in writing quality both during and immediately after its use, improving text quality (examiner ratings, readability, cohesion) and subjective writing experience (ease, perceived control, cognitive load). Notably, while students' sense of authorship was reduced during ChatGPT use, their perceived ownership over their work increased in the third exercise, suggesting a nuanced relationship between authorship and ownership.
+
+## Key Findings
+
+**Writing quality gains.** ChatGPT statistically significantly improved students' writing quality both during use and immediately after, including examiner ratings, readability, and cohesion.
+
+**Transfer to writing without AI.** Benefits persisted when students wrote again without AI assistance, suggesting skill acquisition rather than mere output dependence.
+
+**Improved writing experience.** ChatGPT improved subjective writing experience — ease, perceived control, and reduced cognitive load.
+
+**Authorship vs. ownership.** While students' sense of authorship was reduced during ChatGPT use, their perceived ownership over their work increased afterward — a nuanced distinction relevant to the wiki's [[agency]] and [[cognitive-offloading]] concepts.
+
+**Implication.** In-class AI writing support can enhance learning and skill acquisition in [[higher-ed]], but the authorship–ownership tension requires careful pedagogical design.
+
+## Connected Concepts
+
+- [[writing-education]]
+- [[higher-ed]]
+- [[agency]]
+- [[cognitive-offloading]]
+- [[agency]]
+
+## Connected Articles
+
+- [[genai-literary-assistants-writing-motivation-2026]] — GAI literary assistants and writing motivation
+- [[genai-group-writing-strategies-2026]] — Group strategies for GenAI collaborative writing
+- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment
+
+## Citation
+
+Bauer, N., Fütterer, T., Brucker, B., & Gerjets, P. (2026). [*Leveraging ChatGPT in academic writing: ChatGPT enhances students' writing quality, writing experience, and ownership*](https://doi.org/10.1016/j.caeo.2026.100351). *Computers and Education Open*, 100351. https://doi.org/10.1016/j.caeo.2026.100351
+
+---
+
 ## [ChatGPT Critical and Creative Thinking: Systematic Review](https://edtechdev.github.io/aied/articles/chatgpt-critical-creative-thinking-review/)
 
 > Li, Cui & Hagedorn (2026) PRISMA-review **67 empirical studies (2022–2025)** on ChatGPT and university students' [[critical-thinking|critical]] and creative thinking: effects are contingent on **pedagogical framing**, not the tool itself ([[generative-ai]]).
@@ -7448,6 +7595,44 @@ The seasonal variation identification strategy is innovative for causal inferenc
 ## Citation
 
 Huntington-Klein, N. (2026). [Little impact of ChatGPT availability on high school student test score performance](https://arxiv.org/abs/2605.08812). arXiv:2605.08812.
+
+---
+
+## [Student engagement with ChatGPT for educational tasks: Effects of inoculation training on verification intentions and behavior](https://edtechdev.github.io/aied/articles/chatgpt-inoculation-training-verification-2026/)
+
+> **Synthesis:** Vu, Cummings, and Park (2026) investigate whether an inoculation message can enhance students' intentions to verify ChatGPT-provided information and encourage actual verification behavior. Using a mixed factorial design (2×2×2: domestic vs. international EFL student status × inoculated vs. non-inoculated × pre-test vs. post-test), they found that a generic inoculation message containing forewarnings prompted students to exhibit higher caution with ChatGPT, evidenced by verification of ChatGPT-generated answers in an academic-source-summary task. Notably, while inoculation did not significantly shift verification *intentions*, it did influence actual *verification behaviors* — which varied by student status and task type, highlighting the complexity of human-AI interaction.
+
+## Key Findings
+
+**Inoculation shifts behavior, not intention.** A generic inoculation message (forewarning) increased students' actual verification of ChatGPT-generated content, even though self-reported verification intentions were not significantly affected — a gap between stated intention and enacted behavior.
+
+**International EFL students especially vulnerable.** Students with high demand for language and academic assistance (e.g., international EFL students) are particularly vulnerable to ChatGPT's risks, including hallucinations, misinformation, and limited advanced problem-solving.
+
+**Task-dependent effects.** The effect of inoculation and student status on verification behavior depended on the type of task, underscoring the need for nuanced, context-aware approaches to promoting critical evaluation of AI output.
+
+**Moderating factors.** Time constraints and trust in ChatGPT were indirect factors that shaped inoculation's effectiveness.
+
+**Pedagogical implication.** The authors offer recommendations for designing inoculation messages and training to support more responsible and safe use of ChatGPT, aligning with the wiki's [[ai-literacy]] and [[reducing-ai-misuse]] concerns.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[over-reliance]]
+- [[trust-calibration]]
+- [[trust]]
+- [[student-engagement]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[genai-chatgpt-adoption-ethics-students-2026]] — Ethical and behavioral factors in ChatGPT adoption
+- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
+- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
+- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions, motivation, and self-efficacy
+
+## Citation
+
+Vu, C. B., Cummings, J. J., & Park, D. Y. (2026). [*Student engagement with ChatGPT for educational tasks: Effects of inoculation training on verification intentions and behavior*](https://doi.org/10.1016/j.caeo.2026.100335). *Computers and Education Open*, 100335. https://doi.org/10.1016/j.caeo.2026.100335
 
 ---
 
@@ -8845,6 +9030,43 @@ Mansi et al. (2026) introduce Concept Catalyst, a system designed around 'scruta
 ## Citation
 
 Gennie Mansi, Sunni Newton, Roxanne Moore, Meltem Alemdar, Mark Riedl (2026). [Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI](https://arxiv.org/abs/2606.30590). arXiv:2606.30590. cs.HC.
+
+---
+
+## [Conceptualizing pre-service teachers' readiness for AI integration into teaching practices: An intelligent-TPACK approach](https://edtechdev.github.io/aied/articles/conceptualizing-preservice-teachers-ai-readiness-2026/)
+
+> **Synthesis:** Reyes-Rojas, Díaz, Ruz-Reveco, Castro, and Reyes-González (2026) adapt an existing intelligent-TPACK instrument, originally designed for in-service teachers, to measure pre-service teachers' readiness to integrate AI into their training context. Using a quantitative cross-sectional survey of 366 pre-service teachers, they validate the adapted instrument and examine how demographic characteristics relate to the framework's knowledge dimensions. The study addresses a gap in which pre-service teachers are often overlooked in the development of AI-integration tools, and it extends the intelligent-TPACK conceptualization to the pre-service population while surfacing ethical issues in AI integration.
+
+## Key Findings
+
+**Instrument validation.** The study adapts and validates an intelligent-TPACK instrument for pre-service teachers, demonstrating its reliability for measuring AI-integration readiness within teacher-training contexts.
+
+**Pre-service teachers as overlooked stakeholders.** The authors note that pre-service teachers are frequently excluded from the development of AI-integration tools and instruments, even though they will be crucial agents in integrating AI-based tools into the new educational landscape.
+
+**Demographic relationships.** Analysis of 366 responses examines how participant demographic characteristics relate to the intelligent-TPACK framework dimensions, providing evidence on which groups report higher or lower readiness.
+
+**Ethical dimension.** The work foregrounds the need to address ethical issues in AI integration, aligning with the framework's ethics domain.
+
+**Implication.** Validating readiness instruments for the pre-service population is a necessary step toward designing teacher-education curricula that prepare future teachers to integrate AI responsibly — a central concern of the wiki's [[teacher-education]] concept.
+
+## Connected Concepts
+
+- [[teacher-education]]
+- [[tpack]]
+- [[ai-literacy]]
+- [[teacher-role]]
+- [[assessment]]
+
+## Connected Articles
+
+- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain of intelligent-TPACK and in-service teachers' trust
+- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK readiness in mathematics teacher education
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
+- [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
+
+## Citation
+
+Reyes-Rojas, J., Díaz, B., Ruz-Reveco, C., Castro, A., & Reyes-González, D. (2026). [*Conceptualizing pre-service teachers' readiness for AI integration into teaching practices: An intelligent-TPACK approach*](https://doi.org/10.1016/j.caeo.2025.100320). *Computers and Education Open*, 100320. https://doi.org/10.1016/j.caeo.2025.100320
 
 ---
 
@@ -10263,6 +10485,43 @@ DeepTutor addresses a critical gap in [[intelligent-tutoring]]: the disconnect b
 ## Citation
 
 Report, T., Personalized, D.T.A., & Tutoring, D.T.A.P. (2026). [*DeepTutor: Towards Agentic Personalized Tutoring*](https://arxiv.org/abs/2604.26962)
+
+---
+
+## [Designing effective AI professional development: A framework grounded in intelligent-TPACK](https://edtechdev.github.io/aied/articles/designing-ai-professional-development-itpack-2026/)
+
+> **Synthesis:** Dogan (2026) employs a Conceptual Framework Development model to construct the Intelligent-Technological Pedagogical Content Knowledge-based Professional Development (i-TPACK-based PD) Framework. This research-informed, integrated model aligns the five knowledge domains of i-TPACK — i-TK, i-TCK, i-TPK, i-TPACK, and AI Ethics — with four evidence-based AI PD pathways: active learning, use of models and examples, coaching and expert support, and feedback and reflection. Drawing on 40 systematic reviews and empirical studies, the framework fosters teachers' AI-specific pedagogical reasoning, technological fluency, content-based applications, and ethical decision-making, and it offers a detailed domain-to-pathway mapping, a sample scenario, and design principles for PD developers.
+
+## Key Findings
+
+**i-TPACK-based PD framework.** The study integrates the five i-TPACK knowledge domains with four evidence-based PD pathways to create a cohesive structure for teacher AI professional development.
+
+**Five knowledge domains.** i-TK (technological knowledge), i-TCK (technological content), i-TPK (technological pedagogical), i-TPACK (integrated), and AI Ethics are all addressed, with ethics woven throughout.
+
+**Four PD pathways.** The framework maps to active learning, use of models/examples, coaching and expert support, and feedback and reflection — the evidence-based mechanisms for teacher learning.
+
+**Practical tools.** The paper provides a detailed i-TPACK domain-to-AI-PD-pathway mapping, a sample implementation scenario across the phases of teacher learning, and design principles to support PD developers.
+
+**Implication.** This is a foundational framework for the wiki's [[teacher-education]] and [[faculty-development]] concepts, showing how AI teacher learning must build technological, pedagogical, content, and ethical fluency together.
+
+## Connected Concepts
+
+- [[teacher-education]]
+- [[faculty-development]]
+- [[tpack]]
+- [[ai-literacy]]
+- [[ethics]]
+
+## Connected Articles
+
+- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
+- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain and teachers' trust
+- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
+- [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
+
+## Citation
+
+Dogan, S. (2026). [*Designing effective AI professional development: A framework grounded in intelligent-TPACK*](https://doi.org/10.1016/j.caeo.2026.100337). *Computers and Education Open*, 100337. https://doi.org/10.1016/j.caeo.2026.100337
 
 ---
 
@@ -13301,6 +13560,44 @@ Sungu, Lira & Duckworth (2026). [*Generative AI Can Harm Teaching*](https://ssrn
 
 ---
 
+## [Generative AI in higher education: Ethical and behavioral factors influencing students' intentions to use ChatGPT](https://edtechdev.github.io/aied/articles/genai-chatgpt-adoption-ethics-students-2026/)
+
+> **Synthesis:** Rizun, Bordean, Nikiforova, Beleiu, and Revina (2026) investigate the behavioral and ethical considerations shaping students' adoption of ChatGPT for academic tasks. By integrating the Fairness, Accountability, Transparency & Ethics in AI (FATE) framework with the Technology Acceptance Model (TAM), the Theory of Planned Behavior (TPB), and UTAUT, they developed and tested an integrated model using survey data from 344 students across four European countries (Estonia, Germany, Poland, Romania). The findings highlight that while ethical concerns shape trust and perceived risk, technological and behavioral factors remain central to adoption — emphasizing the need to consider technological, behavioral, and ethical dimensions together.
+
+## Key Findings
+
+**Integrated adoption model.** The study combines FATE, TAM, TPB, and UTAUT into a single framework, demonstrating that ChatGPT adoption in academia is shaped by technological, behavioral, and ethical factors simultaneously.
+
+**Cross-cultural sample.** Data from 344 students across Estonia, Germany, Poland, and Romania capture diverse Northern, Western, Central, and Eastern European educational and digital contexts.
+
+**Ethics and trust interplay.** Ethical concerns shape trust and perceived risk in using ChatGPT, but technological usefulness and behavioral intent remain the primary drivers of adoption — a nuanced result for the wiki's [[ethics]] and [[trust]] concepts.
+
+**Multifaceted adoption.** The findings emphasize the multifaceted nature of AI-enabled and smart-technology adoption, arguing that ChatGPT must be not only user-friendly but also ethically sound.
+
+**Implication.** Institutions should design ChatGPT integration that addresses usability, behavior, and ethics together to support responsible student use in [[higher-ed]].
+
+## Connected Concepts
+
+- [[higher-ed]]
+- [[ethics]]
+- [[generative-ai]]
+- [[trust]]
+- [[student-experience]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[chatgpt-inoculation-training-verification-2026]] — Inoculation training for ChatGPT verification
+- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
+- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
+- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions, motivation, and self-efficacy
+
+## Citation
+
+Rizun, N., Bordean, O. N., Nikiforova, A., Beleiu, I. N., & Revina, A. (2026). [*Generative AI in higher education: Ethical and behavioral factors influencing students' intentions to use ChatGPT*](https://doi.org/10.1016/j.caeo.2026.100336). *Computers and Education Open*, 100336. https://doi.org/10.1016/j.caeo.2026.100336
+
+---
+
 ## [Navigating the challenges of Gen-AI in Chinese higher education: Balancing technological innovation with academic integrity and intellectual engagement](https://edtechdev.github.io/aied/articles/genai-chinese-higher-education-integrity-2026/)
 
 > **Synthesis:** Bai and Costa (2026) use a qualitative design — semi-structured interviews with 33 staff and students in Jiangxi Province, China — to explore how Gen-AI is reshaping teaching, learning and thinking in Chinese higher education. Drawing on Bourdieu's field and habitus and Arendt's view of thinking as an inward, untransferable activity, they identify two principal tensions: the erosion of independent, critical and creative thinking, and the destabilisation of established understandings of [[academic-integrity]]. While Gen-AI tools save time and offer emotional support, they risk fostering cognitive passivity that undermines the intellectual processes fundamental to higher education. The authors call for critical curricular reform and a redefinition of intellectual agency in an increasingly AI-mediated academic environment.
@@ -13634,6 +13931,43 @@ Ateş, H. (2026). Human-centered GenAI feedback design in higher education: A mu
 
 ---
 
+## [AI writes, we collaborate—or vice versa? Group strategies for using generative AI in collaborative writing assignments](https://edtechdev.github.io/aied/articles/genai-group-writing-strategies-2026/)
+
+> **Synthesis:** Korchak, Costley, and Fanguy (2026) explore how university students use generative AI (Gen-AI) during the preparation of a group writing assignment. Semi-structured interviews with 10 postgraduate students majoring in AI research, analyzed using Braun and Clarke's thematic analysis with two independent coders, revealed three themes: (1) group strategy — how students establish and implement strategies for Gen-AI use, (2) the division of labor between students and Gen-AI, and (3) the interplay of collaboration and AI use. The findings illuminate the diverse ways groups appropriate Gen-AI within collaborative writing, from AI-first to student-led approaches.
+
+## Key Findings
+
+**Three emergent themes.** Thematic analysis revealed three themes: group strategy for Gen-AI use, division of labor between students and AI, and the interplay of collaboration and AI use.
+
+**Group appropriation of Gen-AI.** Students adopted varied strategies for using Gen-AI in collaborative writing, reflecting different balances of AI and human effort ("AI writes, we collaborate" vs. "we write, AI supports").
+
+**Collaborative learning context.** The study links Gen-AI use to collaborative learning benefits (reduced preparation time, enhanced product quality, accelerated learning) in group writing assignments.
+
+**Student-Gen-AI interaction.** Rich qualitative accounts detail how postgraduate students negotiate roles with Gen-AI during collaborative writing.
+
+**Implication.** Instructors should understand the diverse group strategies for Gen-AI to design collaborative writing assignments that balance AI support with genuine [[collaborative-learning]] and student authorship — relevant to [[writing-education]] and [[agency]].
+
+## Connected Concepts
+
+- [[writing-education]]
+- [[collaborative-learning]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[agency]]
+
+## Connected Articles
+
+- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
+- [[genai-literary-assistants-writing-motivation-2026]] — GAI literary assistants and writing motivation
+- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment
+
+## Citation
+
+Korchak, A., Costley, J., & Fanguy, M. (2026). [*AI writes, we collaborate—or vice versa? Group strategies for using generative AI in collaborative writing assignments*](https://doi.org/10.1016/j.caeo.2026.100390). *Computers and Education Open*, 100390. https://doi.org/10.1016/j.caeo.2026.100390
+
+---
+
 ## [Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)](https://edtechdev.github.io/aied/articles/genai-higher-education-systematic-review-2026/)
 
 > **Synthesis:** This PRISMA-guided systematic review synthesizes 125 peer-reviewed studies (2022–2025) on generative AI in higher education, documenting exponential adoption (92% student usage by 2025), four primary application domains, and persistent challenges around academic integrity, bias, hallucination, faculty readiness, and digital equity.
@@ -13832,6 +14166,43 @@ Negar Kamali, Candice Rockell Gerstner, Jessica Hullman, Matthew Groh (2026). [G
 ## Citation
 
 Le, T. H., Huynh, L., Dang, B., Pham, H.-H., Nguyen, N. T. V., & Nguyen, A. (2026). [*Development and evaluation of artificial intelligence literacy training for teacher education students*](https://doi.org/10.1111/bjet.70047). British Journal of Educational Technology.
+
+---
+
+## [Role of generative AI literary assistants in enhancing ninth-grade students' writing motivation, flow and achievement](https://edtechdev.github.io/aied/articles/genai-literary-assistants-writing-motivation-2026/)
+
+> **Synthesis:** Wang, Wang, and Liu (2026) use a mixed-methods design to examine the multifaceted effects of integrating generative AI (GAI) literary assistants into ninth-grade writing instruction, focusing on students' writing motivation, flow experiences, and overall writing performance. While quantitative measures of general writing motivation showed no statistically significant increase, qualitative data revealed a marked surge in task-specific engagement and situational motivation — particularly during the revision phase — and demonstrably improved writing quality. The authors also critically examine the risks of over-reliance on AI, which could diminish engagement in areas requiring creative expression and critical thinking.
+
+## Key Findings
+
+**Improved writing quality.** Integrating GAI literary assistants demonstrably improved students' writing quality, particularly in revision.
+
+**Situational vs. general motivation.** While general writing motivation did not rise significantly, task-specific engagement and situational motivation surged, especially during revision — pointing to the context-dependence of AI's motivational effects.
+
+**Flow experiences.** GAI supported students' flow experiences during writing, enhancing task engagement and immersion.
+
+**Over-reliance risk.** The authors caution that over-reliance on AI could diminish student engagement, particularly in areas requiring creative expression and critical thinking.
+
+**Pedagogical recommendation.** The study concludes with nuanced pedagogical recommendations for integrating GAI writing assistants while preserving students' creative and critical capacities — relevant to the wiki's [[writing-education]] and [[over-reliance]] concerns.
+
+## Connected Concepts
+
+- [[writing-education]]
+- [[generative-ai]]
+- [[motivation]]
+- [[student-engagement]]
+- [[over-reliance]]
+
+## Connected Articles
+
+- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
+- [[genai-group-writing-strategies-2026]] — Group strategies for GenAI collaborative writing
+- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
+- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions, motivation, and self-efficacy
+
+## Citation
+
+Wang, S. B., Wang, S. I.-C., & Liu, E. Z.-F. (2026). [*Role of generative AI literary assistants in enhancing ninth-grade students' writing motivation, flow and achievement*](https://doi.org/10.1016/j.caeo.2026.100339). *Computers and Education Open*, 100339. https://doi.org/10.1016/j.caeo.2026.100339
 
 ---
 
@@ -15320,6 +15691,43 @@ Deng, Y., Çelik, F., & Duran, V. (2026). [*Governing the Unseen: A Systematic R
 
 ---
 
+## [Comparing GPT and human raters in essay assessment: Variability, bias, and the potential of LLM-based scoring](https://edtechdev.github.io/aied/articles/gpt-human-rater-essay-assessment-2026/)
+
+> **Synthesis:** Wu, Chu, and Hsu (2026) investigate whether a GPT-based Automated Essay Scoring (AES) system can complement human raters in second-language (L2) writing assessment. Using a Many-Facet Rasch Measurement (MFRM) model, they analyzed ratings from 20 human raters — 10 native English-speaking (NES) and 10 non-native English-speaking (NNES) — and GPT across four analytic criteria (Content, Organization, Grammar, Vocabulary) on 181 university L2 essays. Results indicate raters demonstrated variability and potential rater bias; GPT exhibited high internal consistency but range compression at the upper end compared to humans. The authors argue GPT can supplement rather than replace human judgment, reframing it as a calibrated scoring agent.
+
+## Key Findings
+
+**Rater variability and bias.** Human raters demonstrated variability and potential bias that varied by linguistic background, underscoring persistent assessment reliability challenges.
+
+**GPT's internal consistency.** GPT exhibited high internal consistency but range compression at the upper end of the score scale compared to human raters.
+
+**Criterion-level differences.** GPT's strengths and limitations varied across the four analytic criteria (Content, Organization, Grammar, Vocabulary), with a content-strict profile, reduced score dispersion, and weaker grammatical alignment.
+
+**Complementary role.** GPT-based AES is best framed not as a wholesale substitute for human judgment but as a calibrated scoring agent and consistency stabilizer that dampens rater variability.
+
+**Implication.** The study informs how [[automated-essay-scoring]] and LLM-based assessment can complement human raters in large-scale and classroom settings while guarding against bias.
+
+## Connected Concepts
+
+- [[automated-essay-scoring]]
+- [[assessment]]
+- [[llm]]
+- [[writing-education]]
+- [[language-learning]]
+
+## Connected Articles
+
+- [[llm-automated-grading-programming-comparison-2026]] — LLM grading in programming education
+- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment
+- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
+
+## Citation
+
+Wu, H.-N., Chu, M.-N., & Hsu, J.-L. (2026). [*Comparing GPT and human raters in essay assessment: Variability, bias, and the potential of LLM-based scoring*](https://doi.org/10.1016/j.caeo.2026.100341). *Computers and Education Open*, 100341. https://doi.org/10.1016/j.caeo.2026.100341
+
+---
+
 ## [Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias](https://edtechdev.github.io/aied/articles/gpt4o-mini-music-analysis-scoring/)
 
 > **GPT-4o-mini can produce stable rubric-based scores for open-ended music analysis responses, with few-shot chain-of-thought prompting agreeing most strongly with teacher means while RAG systematically over-scores and self-consistency trades individual-level agreement for repeatability.**
@@ -15702,6 +16110,44 @@ Drawing on the tension between system efficiency and regulatory engagement, the 
 ## Citation
 
 Hao, Z., Liu, X., Fan, J., Long, Y., Yu, J., Chen, W., & Zhang, Y. (2026). [*Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective*](https://arxiv.org/abs/2603.21288). arXiv:2603.21288.
+
+---
+
+## [Harnessing artificial intelligence for preservice teachers' development: A scoping review of applications, benefits, and challenges](https://edtechdev.github.io/aied/articles/harnessing-ai-preservice-teachers-scoping-2026/)
+
+> **Synthesis:** Ziying, Yongchun, and Qiaoping (2026) conduct a PRISMA-ScR scoping review of 55 empirical studies (2020–2025) examining how artificial intelligence is applied in the professional development of preservice teachers. They map a diverse landscape of AI applications, technologies, and subject distributions, finding that AI acts as both a *cognitive partner* and a *practice simulator*. AI enhances instructional design, subject-specific instruction, practical teaching skills, evaluation efficiency, reflective practice, critical thinking, technology integration, and pedagogical innovation. However, the integration is a "dual-edged force": alongside the benefits sit challenges around data privacy, bias, over-reliance, and the need for ethical and pedagogical grounding in teacher preparation.
+
+## Key Findings
+
+**Broad application landscape.** Across 55 empirical studies, AI supports preservice teacher development in eight competency areas: instructional design, subject-specific instruction, practical teaching skills, evaluation efficiency, reflective practice, critical thinking, technology integration, and pedagogical innovation.
+
+**AI as cognitive partner and practice simulator.** AI functions both as a cognitive partner (supporting reasoning and design) and as a safe practice simulator (offering simulated classroom environments for honing practical teaching skills) — dual roles that reshape teacher education by providing personalized, scalable, and evidence-based training pathways.
+
+**Reflection and feedback gains.** AI provides data-driven feedback that sharpens preservice teachers' reflective skills and evaluation efficiency, enabling more targeted self-assessment during training.
+
+**Challenges and ethical concerns.** The review surfaces a complex web of challenges, including data privacy, algorithmic bias, and the risk of over-reliance, indicating that AI integration in teacher education must be ethically and pedagogically grounded rather than adopted uncritically.
+
+**Implication for teacher preparation.** The findings argue that teacher-education programs should intentionally design AI-enhanced training to preserve the human educator's role while leveraging AI's personalization and scalability — a core concern for the wiki's [[teacher-education]] and [[teacher-role]] concepts.
+
+## Connected Concepts
+
+- [[teacher-education]]
+- [[faculty-development]]
+- [[ai-literacy]]
+- [[teacher-role]]
+- [[teacher-ai-competency]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[human-centered-ai-teacher-educators-2026]] — Design-based research on critical AI literacy for teacher educators
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK framework for AI professional development
+- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
+- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Intelligent-TPACK readiness of preservice teachers
+
+## Citation
+
+Ziying, L., Yongchun, H., & Qiaoping, Z. (2026). [*Harnessing artificial intelligence for preservice teachers' development: A scoping review of applications, benefits, and challenges*](https://doi.org/10.1016/j.caeo.2026.100330). *Computers and Education Open*, 100330. https://doi.org/10.1016/j.caeo.2026.100330
 
 ---
 
@@ -16310,6 +16756,43 @@ The review is limited to 22 studies, reflecting a relatively young and methodolo
 ## Citation
 
 Glawe, F., Schmeckel, T., Brauner, P., & Ziefle, M. (2025). *Human autonomy and sense of agency in human-robot interaction: A systematic literature review*. arXiv:2509.22271.
+
+---
+
+## [Human-centered AI for teacher educators: Designing professional learning for critical AI literacy](https://edtechdev.github.io/aied/articles/human-centered-ai-teacher-educators-2026/)
+
+> **Synthesis:** Baran, Dilek, Ziba, and Xiao (2026) use a design-based research approach to examine how principles of Human-Centered AI (HCAI) and critical AI literacy can inform the design of professional learning resources for teacher educators. Across three cycles of needs analysis, prototyping, and refinement with seven teacher educators, they identified three convergent design needs: (a) improving instructional efficiency and effectiveness while preserving professional judgment, (b) modeling responsible and ethical AI integration, and (c) reforming teacher education pedagogies with AI. These findings were translated into a five-module curriculum operationalizing critical AI literacy competencies through seven HCAI-informed activities, including educator-in-the-loop tasks that strengthen professional judgment, transparency, and equity-oriented decision-making.
+
+## Key Findings
+
+**Three convergent design needs.** Design-based research identified: improving instructional efficiency while preserving professional judgment, modeling responsible/ethical AI integration, and reforming teacher-education pedagogies with AI.
+
+**Five-module curriculum.** Findings translated into a five-module curriculum covering foundational AI knowledge, ethics and algorithmic bias, pedagogical integration, implementation/guidelines/policy, and human-centered AI in education.
+
+**HCAI-informed activities.** Seven HCAI-informed activities, including educator-in-the-loop tasks, strengthen professional judgment, transparency, and equity-oriented decision-making.
+
+**Teacher educators as pivotal.** Teacher educators shape how preservice teachers understand, evaluate, and integrate AI, yet rarely receive systematic preparation to lead this work.
+
+**Implication.** The curriculum models critical [[ai-literacy]] for teacher educators, directly supporting the wiki's [[teacher-education]] concept and its emphasis on ethical, human-centered AI integration.
+
+## Connected Concepts
+
+- [[teacher-education]]
+- [[ai-literacy]]
+- [[faculty-development]]
+- [[ethics]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK PD framework
+- [[harnessing-ai-preservice-teachers-scoping-2026]] — AI in preservice teacher development
+- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
+
+## Citation
+
+Baran, E., Dilek, M., Ziba, M., & Xiao, X. (2026). [*Human-centered AI for teacher educators: Designing professional learning for critical AI literacy*](https://doi.org/10.1016/j.caeo.2026.100399). *Computers and Education Open*, 100399. https://doi.org/10.1016/j.caeo.2026.100399
 
 ---
 
@@ -17203,6 +17686,44 @@ Hou, X., Xiao, B., Liu, H., & Mueller, S. (2026). The Role of Instructional Guid
 ## Citation
 
 Lee, H., & Kwon, H. (2026). [*Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory*](https://doi.org/10.3390/higheredu5030078). *Trends in Higher Education*, 5(3), 78.
+
+---
+
+## [Unpacking ethics-domain of intelligent-TPACK scale in relation to in-service teachers' trust and distrust](https://edtechdev.github.io/aied/articles/intelligent-tpack-ethics-teachers-trust-distrust-2026/)
+
+> **Synthesis:** Ocak and Caskurlu (2026) use a multiple case study to explore how in-service K-12 teachers' technical knowledge of AI relates to their trust in using AI in education, and how this trust is shaped by ethical perceptions. Framed within the Ethics dimension of the intelligent-TPACK framework (Celik, 2023), the study examines four ethical constructs — transparency, fairness, accountability, and inclusiveness — as indicators of ethical AI, and analyzes how teachers' trust plays out relative to these constructs. Drawing on written reflections from seven in-service teachers following a two-week, AI-focused online learning module, the findings suggest that without solid foundational technical knowledge, teachers struggle to recognize how human decisions shape AI systems — a prerequisite for trusting and evaluating them.
+
+## Key Findings
+
+**Technical knowledge underpins ethical recognition.** Teachers without solid foundational AI technical knowledge often struggle to recognize how human decisions shape AI systems, which undermines their ability to evaluate and trust AI in educational contexts.
+
+**Four ethical constructs.** The study operationalizes the Ethics dimension of intelligent-TPACK through transparency, fairness, accountability, and inclusiveness, and examines how trust interacts with each.
+
+**Multiple case study design.** Data from seven in-service K-12 teachers' written reflections (after a two-week AI-focused online module in a graduate-level computer science/instructional technology course) illuminate how trust and distrust emerge in practice.
+
+**Trust as a relational outcome.** Teachers' trust in AI is shown to be shaped by their ethical perceptions as much as by technical proficiency — pointing to the interdependence of knowledge and values in [[ai-literacy]].
+
+**Implication for professional development.** The findings argue that AI professional development must build both technical knowledge and ethical fluency so teachers can trust — and appropriately distrust — AI systems, a central aim of the wiki's [[teacher-education]] concept.
+
+## Connected Concepts
+
+- [[teacher-education]]
+- [[tpack]]
+- [[ethics]]
+- [[trust]]
+- [[k-12]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development
+- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in GenAI lesson planning
+- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy
+
+## Citation
+
+Ocak, C., & Caskurlu, S. (2026). [*Unpacking ethics-domain of intelligent-TPACK scale in relation to in-service teachers' trust and distrust*](https://doi.org/10.1016/j.caeo.2025.100321). *Computers and Education Open*, 100321. https://doi.org/10.1016/j.caeo.2025.100321
 
 ---
 
@@ -19274,6 +19795,43 @@ Lekshmi-Narayanan, A.-B., Hassany, M., & Brusilovsky, P. (2026). [Exploring the 
 
 ---
 
+## [A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor](https://edtechdev.github.io/aied/articles/llm-automated-grading-programming-comparison-2026/)
+
+> **Synthesis:** Jukiewicz (2026) presents a large-scale, side-by-side comparison of 18 contemporary Large Language Models in the automated grading of programming assignments, drawing on over 6,000 student submissions collected across four years of an introductory programming course. Analyzing grade distributions, mean-score differences, variability (stricter vs. more lenient grading), and the consistency and clustering of grading patterns, the study evaluated models from Anthropic, DeepSeek, Google, and OpenAI. Statistical analyses revealed clear and systematic differences in grading behavior across models, with distinct grading patterns ranging from more lenient to more restrictive styles, and models from the same vendor tending to cluster together.
+
+## Key Findings
+
+**Large-scale comparison.** Eighteen LLMs were systematically compared on over 6,000 programming submissions, the first such large-scale side-by-side assessment.
+
+**Vendor clustering.** Models from the same vendor tended to cluster together in grading behavior, suggesting shared algorithmic characteristics.
+
+**Lenient vs. restrictive grading.** Distinct grading patterns emerged, ranging from more lenient to more restrictive evaluation styles across models.
+
+**Systematic differences.** Correlation, agreement, and clustering analyses revealed clear and systematic differences in grading behavior, with implications for fairness and consistency.
+
+**Implication.** The choice of LLM architecture and vendor materially affects automated grading outcomes in [[programming-education]], a key consideration for [[automated-grading]] in [[cs-education]].
+
+## Connected Concepts
+
+- [[programming-education]]
+- [[automated-grading]]
+- [[llm]]
+- [[cs-education]]
+- [[assessment]]
+
+## Connected Articles
+
+- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
+- [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment
+- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit robotics in teacher training
+
+## Citation
+
+Jukiewicz, M. (2026). [*A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor*](https://doi.org/10.1016/j.caeo.2026.100364). *Computers and Education Open*, 100364. https://doi.org/10.1016/j.caeo.2026.100364
+
+---
+
 ## [Are LLM-based Chatbots Good Enough to Support Computer Science Students in Multiple-Choice Exercises?](https://edtechdev.github.io/aied/articles/llm-chatbots-cs-multiple-choice/)
 
 Investigates LLM chatbots' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with student performance. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting ChatGPT answers with explanations did NOT generally improve student performance.
@@ -20005,6 +20563,43 @@ This study provides one of the largest empirical validations of LLM-based [[feed
 ## Citation
 
 Heickal, H., & Lan, A. (2026). A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming. [arXiv:2606.08807](https://arxiv.org/abs/2606.08807). Accepted at IRAISE 2026.
+
+---
+
+## [LLM-generated formative feedback in education: A qualitative systematic literature review](https://edtechdev.github.io/aied/articles/llm-formative-feedback-systematic-review-2026/)
+
+> **Synthesis:** Maier, Seibold, and Klotz (2026) conduct a qualitative systematic literature review following PRISMA guidelines, synthesizing evidence from 47 peer-reviewed empirical studies (2022–2026, 121 distinct research questions) on LLM-generated formative feedback. They examine (1) theoretical framings and dominant research questions, (2) methodological and contextual characteristics, and (3) technological trends and empirical findings on feedback quality, feedback processing, and learning outcomes. The reviewed literature is primarily grounded in formative feedback theory, self-regulated learning, feedback literacy, and human-AI interaction frameworks, and is dominated by short-term experiments, quasi-experimental classroom studies, and expert-based evaluations.
+
+## Key Findings
+
+**Scalable formative feedback.** Since late 2022, instruction-tuned LLMs have enabled scalable generation of elaborated, formative feedback for text-based student assignments across domains.
+
+**Theoretical grounding.** The reviewed literature is grounded in formative feedback theory, [[self-regulated-learning]], [[feedback-literacy]], and human-AI interaction frameworks.
+
+**Broad evidence base.** Forty-seven peer-reviewed empirical studies (121 research questions, 2022–2026) were synthesized following PRISMA guidelines.
+
+**Methodological profile.** Studies are dominated by short-term experiments, quasi-experimental classroom studies, and expert-based evaluations.
+
+**Feedback dimensions.** The review covers feedback quality, feedback processing, and learning outcomes, providing a comprehensive account of how LLM-generated feedback is designed and evaluated — central to the wiki's [[feedback]] and [[formative-assessment]] concepts.
+
+## Connected Concepts
+
+- [[feedback]]
+- [[formative-assessment]]
+- [[llm]]
+- [[feedback-literacy]]
+- [[self-regulated-learning]]
+
+## Connected Articles
+
+- [[gpt-human-rater-essay-assessment-2026]] — GPT vs. human raters in essay assessment
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment
+- [[llm-automated-grading-programming-comparison-2026]] — LLM grading in programming education
+- [[chatgpt-academic-writing-quality-ownership-2026]] — ChatGPT in academic writing
+
+## Citation
+
+Maier, U., Seibold, M., & Klotz, C. (2026). [*LLM-generated formative feedback in education: A qualitative systematic literature review*](https://doi.org/10.1016/j.caeo.2026.100374). *Computers and Education Open*, 100374. https://doi.org/10.1016/j.caeo.2026.100374
 
 ---
 
@@ -21062,6 +21657,41 @@ Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026). [Why Machines Misread Pedagogical Qu
 
 ---
 
+## [Talking mathematics with AI: Understanding teachers' motivation for utilizing chatbots](https://edtechdev.github.io/aied/articles/mathematics-teachers-chatbot-motivation-2026/)
+
+> **Synthesis:** Weinhandl, Andic, Wijaya, Bleckenwegner, Riegler, Baldinger, Mayrhofer, and Helm (2026) investigate what motivates mathematics teachers to use chatbots for teaching purposes. Using a digital questionnaire study of 448 teachers and structural equation modeling, they found that Performance Expectancy, Effort Expectancy, and Social Influence are key drivers of mathematics teachers' motivation to adopt chatbots — consistent with the Unified Theory of Acceptance and Use of Technology (UTAUT). The study extends technology-acceptance research to the specific domain of AI chatbots in mathematics teaching.
+
+## Key Findings
+
+**UTAUT drivers.** Performance Expectancy, Effort Expectancy, and Social Influence significantly shape mathematics teachers' motivation to use chatbots for teaching.
+
+**Domain-specific acceptance.** The study applies the UTAUT framework to AI chatbots specifically in mathematics education, extending general technology-acceptance findings to a domain where conversational AI for problem-solving is novel.
+
+**Large sample.** A survey of 448 mathematics teachers provided robust evidence on chatbot adoption motivation.
+
+**Implication for teacher education.** Understanding what motivates teachers to adopt AI chatbots is essential for designing [[teacher-education]] programs and support that encourage effective integration of conversational AI in [[math-education]].
+
+## Connected Concepts
+
+- [[math-education]]
+- [[teacher-role]]
+- [[motivation]]
+- [[tpack]]
+- [[teacher-education]]
+
+## Connected Articles
+
+- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
+- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions, motivation, and self-efficacy
+- [[harnessing-ai-preservice-teachers-scoping-2026]] — AI in preservice teacher development
+- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy
+
+## Citation
+
+Weinhandl, R., Andic, B., Wijaya, T. T., Bleckenwegner, V., Riegler, V., Baldinger, S., Mayrhofer, J., & Helm, C. (2026). [*Talking mathematics with AI: Understanding teachers' motivation for utilizing chatbots*](https://doi.org/10.1016/j.caeo.2026.100359). *Computers and Education Open*, 100359. https://doi.org/10.1016/j.caeo.2026.100359
+
+---
+
 ## [MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing](https://edtechdev.github.io/aied/articles/mbp-kt-meta-behavioral-knowledge-tracing/)
 
 ## Analysis
@@ -21543,6 +22173,43 @@ This is relevant to [[academic-integrity]] and [[student-experience]] discussion
 ## Citation
 
 Jia, Y. (2026). [*Metacognitively discordant completion and the aware pass-through of non-understanding in generative AI learning*](https://osf.io/preprints/edarxiv/wzjxf_v1/). EdArXiv preprint.
+
+---
+
+## [Coding, robots, computational concepts, and machine learning using the microbit card and the Maqueen and Nezha kits. A study in initial teacher training](https://edtechdev.github.io/aied/articles/microbit-robotics-machine-learning-teacher-training-2026/)
+
+> **Synthesis:** Sáez-López, García-Jiménez, and de Lara García-Cervigón (2026) assess the design and implementation of innovative educational robotics activities in higher education with 105 Primary Education degree students from two Spanish universities. The activities involved simple tasks, visual block programming, machine learning, and the construction of sensors and actuators, fostering computational concepts and practical tasks. Using a quasi-experimental design with a control group of 39 students and the Coding, Robotics, and Machine Learning Test (CRMT) plus three scales, the experimental group improved their performance and results with the practical intervention. The authors conclude there are training gaps in programming in higher education, making coding essential in initial teacher training.
+
+## Key Findings
+
+**Quasi-experimental gains.** The experimental group using micro:bit + Maqueen/Nezha educational robotics improved performance and results compared to a control group.
+
+**Broad activities.** Activities spanned simple tasks, visual block programming, machine learning, and construction of sensors and actuators, covering computational concepts and practical implementation.
+
+**Teacher-training gap.** The study identifies training gaps in programming in higher education, arguing that coding is essential in initial teacher training.
+
+**Measures.** The CRMT test and three scales provided descriptive and inferential statistics (t-test, Mann-Whitney U).
+
+**Implication.** Educational robotics and machine-learning activities should be embedded in [[teacher-education]] so future teachers can teach computational thinking and programming, linking to [[programming-education]] and [[educational-robotics]].
+
+## Connected Concepts
+
+- [[teacher-education]]
+- [[programming-education]]
+- [[educational-robotics]]
+- [[computational-thinking]]
+- [[cs-education]]
+
+## Connected Articles
+
+- [[llm-automated-grading-programming-comparison-2026]] — LLM grading in programming education
+- [[harnessing-ai-preservice-teachers-scoping-2026]] — AI in preservice teacher development
+- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
+- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in mathematics teacher education
+
+## Citation
+
+Sáez-López, J.-M., García-Jiménez, A.-S., & de Lara García-Cervigón, S. (2026). [*Coding, robots, computational concepts, and machine learning using the microbit card and the Maqueen and Nezha kits. A study in initial teacher training*](https://doi.org/10.1016/j.caeo.2026.100366). *Computers and Education Open*, 100366. https://doi.org/10.1016/j.caeo.2026.100366
 
 ---
 
@@ -26578,6 +27245,42 @@ Ciacco, A., Di Puglia Pugliese, L., & Guerriero, F. (2026). [*School network reo
 
 ---
 
+## [Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs](https://edtechdev.github.io/aied/articles/science-educators-ai-literacy-postqualification-2026/)
+
+> **Synthesis:** Maurer, Brückner, Thyssen, Becker-Genschow, and Huwer (2026) investigate the need for AI-related post-qualification programs for in-service science educators. They examined the extent to which 115 in-service science educators in secondary education possess general AI knowledge (AI literacy) and how, why, and for what purposes they use AI in lesson planning, follow-up, and teaching. The findings identify relevant areas of focus for AI-related post-qualification programs, informing how science educators can be supported to use AI for lesson planning, implementation, and follow-up while preparing students for an AI-driven world.
+
+## Key Findings
+
+**In-service science educator focus.** The study examines AI literacy and AI usage among 115 in-service secondary science educators in Germany.
+
+**Uses of AI.** Educators use AI to support lesson planning, implementation, and follow-up, as well as in teaching itself.
+
+**AI knowledge and literacy.** The study measures general AI knowledge (AI literacy) and how it relates to actual AI use.
+
+**Post-qualification need.** Findings identify what AI-related post-qualification programs should focus on to help in-service science educators leverage AI effectively.
+
+**Implication.** Professional development for in-service science educators should build both AI literacy and practical, pedagogical AI use, linking to the wiki's [[stem-education]], [[ai-literacy]], and [[teacher-education]] concepts.
+
+## Connected Concepts
+
+- [[stem-education]]
+- [[ai-literacy]]
+- [[teacher-education]]
+- [[faculty-development]]
+
+## Connected Articles
+
+- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
+- [[ai-perceptions-students-teachers-motivation-2026]] — AI perceptions, motivation, and self-efficacy
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK PD framework
+- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in mathematics teacher education
+
+## Citation
+
+Maurer, N., Brückner, M., Thyssen, C., Becker-Genschow, S., & Huwer, J. (2026). [*Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs*](https://doi.org/10.1016/j.caeo.2026.100376). *Computers and Education Open*, 100376. https://doi.org/10.1016/j.caeo.2026.100376
+
+---
+
 ## [Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: a narrative review](https://edtechdev.github.io/aied/articles/sec-ai-literacy-narrative-review-2026/)
 
 > **Synthesis:** Palmquist, Sigurdardottir, and Myhre (2025) conduct a narrative literature review examining the intersection of AI literacy and social-emotional competencies (SEC) in education, proposing an integrated framework to create a supportive, technologically adept, and emotionally intelligent educational ecosystem. Grounded in the SETCOM project, the review identifies three key themes — AI's transformative potential in reshaping educational practices, its influence on educational providers and stakeholders, and the ethical considerations of AI integration — and argues that integrating AI literacy with SEC can enhance educational outcomes by promoting personalized learning, fostering collaboration, and addressing ethical challenges.
@@ -29424,6 +30127,43 @@ Kexin Bella Yang, Menghan Liu, Liyi Xu, Nikol Rummel, Vincent Aleven (2026). [Ba
 
 ---
 
+## [Beyond operational skills: Teachers' AI knowledge and interactions with generative AI in lesson planning](https://edtechdev.github.io/aied/articles/teachers-ai-knowledge-genai-lesson-planning-2026/)
+
+> **Synthesis:** Velander (2026) investigates how K-12 teachers conceptualize and enact AI-related professional knowledge during GenAI-supported lesson planning, focusing on the relationship between articulated knowledge and enacted practice. Data were collected through a pre-workshop questionnaire (N=61), interaction logs of teachers' lesson planning with a GenAI system (~1,300 prompt-response pairs), and group-based SWOT reflections. Analysis using the Intelligent TPACK (I-TPACK) framework and a collaborative problem-solving framework reveals that teachers primarily articulate AI-related competence in operational terms, revealing a gap between the knowledge they claim and the knowledge they enact in practice.
+
+## Key Findings
+
+**Articulated vs. enacted knowledge gap.** Teachers primarily articulate AI-related competence in operational skills, but their enacted practice during GenAI lesson planning reveals a gap between claimed and enacted knowledge.
+
+**Large interaction dataset.** Approximately 1,300 prompt-response pairs from teachers' GenAI lesson planning were analyzed, providing rich evidence on teacher-AI interaction patterns.
+
+**Intelligent-TPACK framework.** The study applies the I-TPACK framework (Velander uses "I-tpack") to analyze teachers' articulated knowledge and a collaborative problem-solving framework to examine interaction patterns.
+
+**K-12 focus.** Sixty-one K-12 teachers participated, situating the findings in authentic classroom planning contexts.
+
+**Implication.** Professional development must move beyond operational AI skills to build pedagogically meaningful knowledge that teachers actually enact, connecting to the wiki's [[teacher-education]] and [[ai-literacy]] concepts.
+
+## Connected Concepts
+
+- [[teacher-education]]
+- [[tpack]]
+- [[generative-ai]]
+- [[ai-literacy]]
+- [[teacher-role]]
+
+## Connected Articles
+
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK PD framework
+- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain and teachers' trust
+- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
+- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy
+
+## Citation
+
+Velander, J. (2026). [*Beyond operational skills: Teachers' AI knowledge and interactions with generative AI in lesson planning*](https://doi.org/10.1016/j.caeo.2026.100371). *Computers and Education Open*, 100371. https://doi.org/10.1016/j.caeo.2026.100371
+
+---
+
 ## [Empowering Vocabulary Learning Through Teaching AI: Using LLMs as a Student to Perform Learning by Teaching in Vocabulary Acquisition](https://edtechdev.github.io/aied/articles/teaching-ai-vocabulary-lbt-llms-2026/)
 
 > **Synthesis:** Uchida et al. (2026) develop an LLM-based system that lets English vocabulary learners learn by teaching an AI "student." The system generates dynamic, contextually relevant questions for learning-by-teaching, replacing rigid template-based question generators. In a study with ten participants, learning with the system produced high learning effectiveness and improved memory retention at 3 and 7 days after learning, and the researchers identified learner traits linked to better outcomes.
@@ -29579,6 +30319,43 @@ Today's systems handle content well but are far weaker at presenting it and adap
 ## Citation
 
 Lin, Y.-C., Guo, Y.-K., Chen, S.-C., Feng, B.-H., Hsu, Y.-M., Hsieh, H., Lin, Y.-J., Wu, Y.-L., Dong, J.-K., Cheng, A.-Y., Huang, Y.-H., Ieong, L.-L., Chen, K.-Y., Tchouang, M.-D., Sun, S.-H., Lin, C., Ding, J.-J., & Lee, H.-y. (2026). [*Findings of the first Teaching Monster Challenge: A benchmark of pedagogical content knowledge in AI agents*](https://arxiv.org/abs/2608.08852). arXiv:2608.08852.
+
+---
+
+## [Teaching the teachers: A systematic review of genAI-specific technological pedagogical knowledge (TPK) in teacher education](https://edtechdev.github.io/aied/articles/teaching-the-teachers-genai-tpk-review-2026/)
+
+> **Synthesis:** Ó Ceallaigh and Murphy (2026) systematically review the GenAI-specific Technological Pedagogical Knowledge (TPK) required by teacher educators (TEs) who prepare post-primary teachers — a critical but underexplored area. TPK for GenAI extends beyond digital competence to encompass pedagogical reasoning, ethical awareness, and AI-augmented instructional design. Reviewing 17 peer-reviewed studies focused on teacher educators' engagement with GenAI, the review highlights persistent challenges in developing GenAI-related TPK, particularly around ethical concerns (data privacy, algorithmic bias, authorship, accountability) in teacher preparation within higher education institutions.
+
+## Key Findings
+
+**Underexplored teacher-educator TPK.** The review addresses the GenAI-specific TPK required by teacher educators, a critical gap in the literature on preparing teachers who will themselves teach with AI.
+
+**TPK extends beyond digital competence.** GenAI-related TPK encompasses pedagogical reasoning, ethical awareness, and AI-augmented instructional design, not just technical proficiency.
+
+**Seventeen studies.** A systematic review of 17 peer-reviewed studies focuses on teacher educators' engagement with GenAI across major academic databases.
+
+**Persistent challenges.** Developing GenAI-related TPK faces persistent difficulties, particularly around data privacy, algorithmic bias, authorship, and accountability — salient in teacher preparation within higher-education institutions.
+
+**Implication.** Teacher-education programs must explicitly build teacher educators' GenAI-TPK, connecting to the wiki's [[teacher-education]] and [[tpack]] concepts.
+
+## Connected Concepts
+
+- [[teacher-education]]
+- [[tpack]]
+- [[generative-ai]]
+- [[faculty-development]]
+- [[ethics]]
+
+## Connected Articles
+
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK PD framework
+- [[human-centered-ai-teacher-educators-2026]] — Human-centered AI for teacher educators
+- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in lesson planning
+- [[harnessing-ai-preservice-teachers-scoping-2026]] — AI in preservice teacher development
+
+## Citation
+
+Ó Ceallaigh, T. J., & Murphy, S. (2026). [*Teaching the teachers: A systematic review of genAI-specific technological pedagogical knowledge (TPK) in teacher education*](https://doi.org/10.1016/j.caeo.2026.100367). *Computers and Education Open*, 100367. https://doi.org/10.1016/j.caeo.2026.100367
 
 ---
 
@@ -32615,7 +33392,7 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 - **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[gamification|gamification]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[cognitive-load-theory|cognitive load theory]], [[dual-process-theory|dual-process theory]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
 - **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[engagement-metrics|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[over-reliance|over-reliance]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
-- **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12-ai-education|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
+- **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12-ai-education|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
 
 ## Assessment, evaluation, and measurement
 
@@ -32685,6 +33462,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[philosophy-of-ai-in-education]]
 - [[medical-education]]
 - [[humanities-education]]
+- [[teacher-education]]
 - [[discipline-specific-aied]]
 
 ## Connected Articles
@@ -32914,6 +33692,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[feedback-literacy]]
 - [[feedback]]
 - [[critical-pedagogy]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
@@ -34318,6 +35097,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[ai-tutoring]]
 - [[over-reliance]]
 - [[discipline-specific-aied]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
@@ -34587,6 +35367,7 @@ The wiki has dedicated concept pages for several subject areas:
 - **[[writing-education]]** — AI-assisted composition, automated essay scoring, and writing feedback.
 - **[[language-learning]]** — AI interlocutors, pronunciation feedback, and conversational practice in second/foreign languages.
 - **[[stem-education]]** — the cross-disciplinary umbrella for science, technology, engineering, and mathematics.
+- **[[teacher-education]]** — the preparation and professional development of teachers (pre-service and in-service), a discipline in its own right whose AI research centers on teacher AI literacy, intelligent-TPACK, and readiness to integrate AI.
 - **[[medical-education]]** — clinical simulation, reinforcement-learning training, and foundational learning principles in health-professions education.
 - **[[humanities-education]]** — interpretive cognition, authorship, and meaning-making in humanities and social sciences.
 - **[[k-12-ai-education]]** and **[[higher-ed]]** — education about and with AI at each level.
@@ -34611,11 +35392,12 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 - **Writing** — process-oriented, recursive drafting and revision. AI research spans [[coach-not-crutch-ai-writing|AI as writing coach]], automated scoring, and stage-based ownership ([[ai-writing-support-stage-ownership-2026|ownership stages]]).
 - **Language learning** — communicative competence, interaction, and corrective feedback. AI research uses conversational agents ([[ai-interlocutor-l2-spoken-dialogue|L2 interlocutors]]), pronunciation feedback, and culturally responsive design.
 - **Health professions** — competency-based, clinically embedded, high-stakes. AI research emphasizes [[simulation]], reinforcement learning ([[residencyrl-clinical-rl-training-2026|ResidencyRL]]), and foundational learning principles ([[fowlin-operationalizing-learning-principles-ai|operationalizing learning principles]]).
+- **Teacher education** — a discipline whose AI research centers on preparing teachers to integrate AI: intelligent-TPACK frameworks ([[designing-ai-professional-development-itpack-2026|i-TPACK PD]]), teacher AI literacy ([[science-educators-ai-literacy-postqualification-2026|science educators]]), pre-service readiness ([[conceptualizing-preservice-teachers-ai-readiness-2026|intelligent-TPACK readiness]]), and in-service trust and ethics ([[intelligent-tpack-ethics-teachers-trust-distrust-2026|trust and ethics]]).
 - **Humanities & social sciences** — interpretation, authorship, and critical meaning-making. AI research foregrounds interpretive cognition ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) and the [[philosophy-of-ai-in-education|philosophy of AI]] rather than tutoring for correctness.
 
 ## Represented disciplines in the wiki
 
-The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[cs-education]]**, and **[[programming-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[medical-education]]** and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[cs-education]]**, and **[[programming-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
 
 ## Underrepresented disciplines
 
@@ -34639,6 +35421,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[writing-education]]
 - [[language-learning]]
 - [[stem-education]]
+- [[teacher-education]]
 - [[medical-education]]
 - [[humanities-education]]
 - [[k-12-ai-education]]
@@ -34653,6 +35436,9 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI in health-professions education
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based AI professional development
+- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
+- [[human-centered-ai-teacher-educators-2026]] — Critical AI literacy professional learning for teacher educators
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Interpretive cognition in humanities and social science education
 - [[becker-chatgpt-typology-physics-2026]] — ChatGPT use typology in physics education
 - [[code-review-genai-cs1]] — GenAI code review in CS1
@@ -35286,6 +36072,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[ai-literacy]]
 - [[over-reliance]]
 - [[teacher-role]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
@@ -35395,6 +36182,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[instructional-design]]
 - [[curriculum-design]]
 - [[professional-training]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
@@ -36643,6 +37431,7 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[ai-tutoring]]
 - [[collaborative-learning]]
 - [[discipline-specific-aied]]
+- [[teacher-education]]
 
 ## Connected Articles
 
@@ -36687,6 +37476,7 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[stem-education]]
 - [[llm]]
 - [[generative-ai]]
+- [[teacher-education]]
 
 ## Connected Articles
 
@@ -37343,6 +38133,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[generative-ai]]
 - [[open-source]]
 - [[discipline-specific-aied]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
@@ -38479,6 +39270,7 @@ Programming education connects to [[educational-robotics]], [[computational-thin
 - [[k-12]]
 - [[higher-ed]]
 - [[discipline-specific-aied]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education learning outcomes (Jošt et al. 2024)
@@ -39620,6 +40412,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[personalized-learning]]
 - [[llm]]
 - [[discipline-specific-aied]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[ai-acceptance-preservice-science-teachers-2026]]
@@ -39958,6 +40751,8 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[ai-education]]
 
 - [[tpack]]
+- [[teacher-education]]
+
 ## Connected Articles
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
@@ -39983,6 +40778,62 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
 - [[raffaghelli-situated-ai-ethics-2026]]
+
+---
+
+## [Teacher Education](https://edtechdev.github.io/aied/concepts/teacher-education/)
+
+> **Teacher Education** — the preparation and ongoing professional development of teachers, spanning pre-service teacher training (initial certification programs) and in-service professional development. In AI-in-education research, teacher education has become a central concern because teachers' AI literacy, technological-pedagogical knowledge, ethical fluency, and readiness to integrate AI into instruction determine whether AI adoption in classrooms succeeds. This concept organizes the wiki's substantial coverage of how AI reshapes the preparation, knowledge, beliefs, and practice of both prospective and practicing teachers.
+
+Teacher education sits at the intersection of several wiki strands: it is a discipline/domain (like [[medical-education]] and [[humanities-education]]), but it also draws on the general concepts of [[teacher-role]], [[tpack]], [[teacher-ai-competency]], and [[ai-literacy]]. In the AI era, teacher education must prepare teachers not only to use AI tools but to understand, evaluate, and ethically integrate them — a shift that redefines what it means to be a teacher.
+
+### Pre-service teacher education
+
+Pre-service (initial) teacher education prepares future teachers during their certification programs. AI research in this strand includes:
+
+- **AI-TPACK and intelligent-TPACK readiness.** Instruments and frameworks measure and build pre-service teachers' readiness to integrate AI, extending the [[tpack]] framework with an AI/ethics dimension.^[[conceptualizing-preservice-teachers-ai-readiness-2026]]^[[ai-tpack-mathematics-teacher-education-2026]]
+- **Applications and benefits.** A scoping review of 55 studies shows AI enhances pre-service teachers' instructional design, subject instruction, practical teaching skills, evaluation, reflective practice, [[critical-thinking|critical thinking]], technology integration, and pedagogical innovation.^[[harnessing-ai-preservice-teachers-scoping-2026]]
+- **Educational robotics and ML.** Initial teacher training embeds coding, robotics, and machine-learning activities (e.g., micro:bit) to build [[computational-thinking|computational thinking]] in future teachers.^[[microbit-robotics-machine-learning-teacher-training-2026]]
+- **Authentic assessment and metacognition.** AI-mediated assessment models (e.g., AAIWA) integrate [[authentic-assessment|authentic rubric-based assessment]], condition-responsive AI feedback, and [[metacognition|metacognitive reflection]] in pre-service programs.^[[aaiwa-ai-authentic-assessment-metacognition-2026]]
+
+### In-service professional development
+
+In-service professional development supports practicing teachers in integrating AI. AI research here includes:
+
+- **Intelligent-TPACK-based PD frameworks.** A research-informed framework aligns the five i-TPACK knowledge domains with four evidence-based PD pathways ([[active-learning|active learning]], models/examples, coaching, feedback/reflection).^[[designing-ai-professional-development-itpack-2026]]
+- **GenAI-specific technological pedagogical knowledge (TPK).** Teacher educators themselves need GenAI-TPK — pedagogical reasoning, ethical awareness, and AI-augmented instructional design — to prepare teachers.^[[teaching-the-teachers-genai-tpk-review-2026]]
+- **Human-centered and critical AI literacy.** Design-based research produces professional-learning curricula that operationalize critical AI literacy through human-centered AI activities, including educator-in-the-loop tasks.^[[human-centered-ai-teacher-educators-2026]]
+- **Post-qualification programs.** In-service science educators' AI literacy and usage inform the design of AI-related post-qualification programs.^[[science-educators-ai-literacy-postqualification-2026]]
+
+### Knowledge, beliefs, and practice
+
+A key finding across teacher-education research is the gap between what teachers *articulate* and what they *enact*: teachers often claim operational AI skills but struggle to apply pedagogically meaningful knowledge in practice.^[[teachers-ai-knowledge-genai-lesson-planning-2026]] Psychological factors also matter — [[self-efficacy]] positively predicts AI-TPACK, while strong traditional teaching beliefs can act as a cognitive barrier.^[[ai-tpack-mathematics-teacher-education-2026]] [[trust|Trust]] in AI is shaped by both technical knowledge and ethical perceptions (transparency, fairness, accountability, inclusiveness).^[[intelligent-tpack-ethics-teachers-trust-distrust-2026]]
+
+## Connected Concepts
+
+- [[teacher-role]]
+- [[tpack]]
+- [[teacher-ai-competency]]
+- [[ai-literacy]]
+- [[faculty-development]]
+- [[k-12]]
+- [[k-12-ai-education]]
+- [[ethics]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[harnessing-ai-preservice-teachers-scoping-2026]] — Scoping review of AI in preservice teacher development
+- [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based professional development framework
+- [[human-centered-ai-teacher-educators-2026]] — Professional learning for critical AI literacy in teacher educators
+- [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
+- [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Teachers' AI knowledge in GenAI lesson planning
+- [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Pre-service intelligent-TPACK readiness
+- [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK in mathematics teacher education
+- [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Ethics domain and in-service teachers' trust
+- [[microbit-robotics-machine-learning-teacher-training-2026]] — Micro:bit robotics in initial teacher training
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment in pre-service education
+- [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and post-qualification programs
 
 ---
 
@@ -40031,6 +40882,7 @@ Teacher role connects to [[faculty-development]] (how teachers are prepared), [[
 - [[distributed-cognition]]
 - [[situated-learning]]
 - [[critical-pedagogy]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
@@ -40102,6 +40954,7 @@ TPACK is the organizing framework for the teacher-side of the wiki's evidence ba
 - [[higher-ed]]
 - [[k-12]]
 - [[meta-analysis-systematic-review]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL

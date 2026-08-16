@@ -38,6 +38,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[personalized-learning]]
 - [[llm]]
 - [[discipline-specific-aied]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[ai-acceptance-preservice-science-teachers-2026]]

@@ -53,6 +53,7 @@ TPACK is the organizing framework for the teacher-side of the wiki's evidence ba
 - [[higher-ed]]
 - [[k-12]]
 - [[meta-analysis-systematic-review]]
+- [[teacher-education]]
 
 ## Connected Articles
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
