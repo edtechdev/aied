@@ -40,6 +40,10 @@ journal_rss:
       url: "https://rss.sciencedirect.com/publication/science/2666920X"
       open_access: true
       max_age_days: 90
+    - name: "Computers and Education Open"
+      url: "https://rss.sciencedirect.com/publication/science/26665573"
+      open_access: true
+      max_age_days: 90
     - name: "British Journal of Educational Technology"
       url: "https://bera-journals.onlinelibrary.wiley.com/feed/14678535/most-recent"
       open_access: "check_per_article"  # hybrid journal — verify before ingesting

@@ -16,6 +16,15 @@ FEEDS = {
         "name": "Computers and Education: Artificial Intelligence",
         "url": "https://rss.sciencedirect.com/publication/science/2666920X",
         "max_age_days": 90,
+        "journal": "Computers and Education: Artificial Intelligence",
+        "doi_prefix": "caeai",
+    },
+    "ceao": {
+        "name": "Computers and Education Open",
+        "url": "https://rss.sciencedirect.com/publication/science/26665573",
+        "max_age_days": 90,
+        "journal": "Computers and Education Open",
+        "doi_prefix": "caeo",
     },
     "bjet": {
         "name": "British Journal of Educational Technology",
@@ -64,8 +73,8 @@ def parse_date(raw):
             pass
     return None
 
-def parse_caeai(root, cutoff):
-    """Parse ScienceDirect/CAEAI RSS. Articles inside CDATA blocks."""
+def parse_caeai(root, cutoff, journal_name='Computers and Education: Artificial Intelligence', doi_prefix='caeai'):
+    """Parse ScienceDirect RSS (CAEAI / CEAO). Articles inside CDATA blocks."""
     articles = []
     for item in root.findall('.//item'):
         title_el = item.find('title')
@@ -109,7 +118,7 @@ def parse_caeai(root, cutoff):
             # Try pii-based DOI: S2666920X26001177 -> 10.1016/j.caeai.xxxxx
             pii_match = re.search(r'/pii/(S\d+)', link)
             if pii_match:
-                doi = f"10.1016/j.caeai.{pii_match.group(1)}"
+                doi = f"10.1016/j.{doi_prefix}.{pii_match.group(1)}"
         
         articles.append({
             'title': title,
@@ -117,8 +126,8 @@ def parse_caeai(root, cutoff):
             'authors': authors,
             'doi': doi,
             'date': date_str if date_str else (parsed_date.strftime('%Y-%m-%d') if parsed_date else ''),
-            'journal': 'Computers and Education: Artificial Intelligence',
-            'source': 'caeai',
+            'journal': journal_name,
+            'source': doi_prefix,
             'open_access': True,
         })
     return articles
@@ -278,8 +287,12 @@ def main():
             max_age = feed['max_age_days']
             cutoff = datetime.now() - timedelta(days=max_age)
             
-            if key == 'caeai':
-                articles = parse_caeai(root, cutoff)
+            if key in ('caeai', 'ceao'):
+                articles = parse_caeai(
+                    root, cutoff,
+                    journal_name=feed.get('journal', 'Computers and Education: Artificial Intelligence'),
+                    doi_prefix=feed.get('doi_prefix', 'caeai'),
+                )
             elif key == 'frontiers':
                 articles = parse_frontiers(root, cutoff)
             else:
