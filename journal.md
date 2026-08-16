@@ -1,9 +1,8 @@
 # Journal
 
-**Last updated:** 2026-08-16 | **Total entries:** 773
+**Last updated:** 2026-08-16 | **Total entries:** 774
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
-> Browse recent additions by date. ● = high confidence, ◐ = medium, ○ = low.
 
 
 ## 2026-08-16
@@ -11,6 +10,7 @@
 - [[avraamidou-ai-colonization-science-education]] — Can we disrupt the momentum of the AI colonization of science education?
 - [[behaviorism]] — Behaviorism
 - [[critical-pedagogy]] — Critical Pedagogy
+- [[discipline-specific-aied]] — AIEd in the Disciplines
 - [[distributed-cognition]] — Distributed Cognition
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis: conceptualizing the Post-Human Learner in the age of cognitive AI
 - [[ensemble-cognition-philosophy-ai-education]] — Towards a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments

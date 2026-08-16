@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 664 articles and 144 concepts.
+> Complete text of 664 articles and 145 concepts.
 
 # Articles
 
@@ -31944,6 +31944,7 @@ Research themes include:
 - [[formative-assessment]]
 - [[rct]]
 - [[active-learning]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 
@@ -32303,7 +32304,7 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 - **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[gamification|gamification]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[cognitive-load-theory|cognitive load theory]], [[dual-process-theory|dual-process theory]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
 - **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[engagement-metrics|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[over-reliance|over-reliance]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
-- **Subject areas:** AI is applied across disciplines, including [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12-ai-education|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
+- **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12-ai-education|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
 
 ## Assessment, evaluation, and measurement
 
@@ -32373,6 +32374,7 @@ AI in education connects to every concept in the wiki — it is the field that a
 - [[philosophy-of-ai-in-education]]
 - [[medical-education]]
 - [[humanities-education]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
@@ -33396,6 +33398,7 @@ Block-based programming is closely related to [[programming-education]], [[compu
 - [[cs-education]]
 - [[educational-robotics]]
 - [[k-12]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 
@@ -33870,17 +33873,17 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 
 ## [Critical Pedagogy](https://edtechdev.github.io/aied/concepts/critical-pedagogy/)
 
-> **Critical Pedagogy** — an educational approach, rooted in the work of Paulo Freire and later critical theorists such as Henry Giroux, that treats teaching and learning as inherently political acts. Rather than merely transmitting skills or knowledge, critical pedagogy asks who benefits from education, whose knowledge is privileged, and how schooling reproduces or resists systems of power and oppression. In AI-in-education, critical pedagogy interrogates the corporate and capitalist logics shaping AI adoption, centers the voices and epistemologies of marginalized communities, and treats AI literacy as a practice of resistance and social transformation rather than mere technical competence.
+> **Critical Pedagogy** — an educational approach, rooted in the work of Paulo Freire and later critical theorists such as Henry Giroux, that treats teaching and learning as inherently political acts. Rather than merely transmitting skills or knowledge, critical pedagogy asks who benefits from education, whose knowledge is privileged, and how schooling reproduces or resists systems of power and oppression. In AI-in-education, critical pedagogy interrogates the corporate and capitalist logics shaping AI adoption, centers the voices and epistemologies of marginalized communities, and treats [[ai-literacy|AI literacy]] as a practice of resistance and social transformation rather than mere technical competence.
 
-Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a cognitive skill — evaluating arguments, questioning assumptions, and reasoning carefully — that can be practiced within almost any framework. Critical pedagogy, by contrast, is a *political and ethical stance* that connects those skills to questions of power, justice, equity, and social transformation. The wiki treats them as related but distinct concepts: critical thinking asks "is this reasoning sound?", while critical pedagogy asks "who does this education serve, and whose knowledge counts?".
+Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a cognitive skill — evaluating arguments, questioning assumptions, and reasoning carefully — that can be practiced within almost any framework. Critical pedagogy, by contrast, is a *political and ethical stance* that connects those skills to questions of power, justice, [[equity-in-ai-education|equity]], and social transformation. The wiki treats them as related but distinct concepts: critical thinking asks "is this reasoning sound?", while critical pedagogy asks "who does this education serve, and whose knowledge counts?".
 
 ### Critical pedagogy and AI in education
 
-AI in education raises sharp questions for critical pedagogy, and the wiki documents several strands:
+[[ai-education|AI in education]] raises sharp questions for critical pedagogy, and the wiki documents several strands:
 
-- **Critique of the "AI colonization" of education.** Critical and feminist scholars argue that generative AI is reshaping education in ways that repeat patterns of colonial exploitation and extraction — of data, labor, and natural resources — enriching the powerful at the expense of marginalized communities.^[[avraamidou-ai-colonization-science-education]] This framing rejects the "techno-utopia" narrative that presents AI as a neutral silver bullet.
+- **Critique of the "AI colonization" of education.** Critical and feminist scholars argue that [[generative-ai|generative AI]] is reshaping education in ways that repeat patterns of colonial exploitation and extraction — of data, labor, and natural resources — enriching the powerful at the expense of marginalized communities.^[[avraamidou-ai-colonization-science-education]] This framing rejects the "techno-utopia" narrative that presents AI as a neutral silver bullet.
 - **Feminist and justice-centered AI.** A feminist approach to AI prioritizes justice over profit, asks critical questions about the nature and ownership of knowledge, who benefits from AI, and who is accountable when systems fail. It calls for critical AI literacy framed within feminist pedagogies.^[[avraamidou-ai-colonization-science-education]]
-- **Resisting AI as a critical literacy practice.** Critical AI Literacy (CAIL) can encompass "resisting AI" — a stance that refuses the inevitability and techsolutionism of dominant discourse, and instead cultivates collective agency through dialogic, collaborative pedagogies that imagine alternative futures.^[[li-mroziak-reorienting-critical-ai-literacy]]
+- **Resisting AI as a critical literacy practice.** Critical AI Literacy (CAIL) can encompass "resisting AI" — a stance that refuses the inevitability and techsolutionism of dominant discourse, and instead cultivates collective [[agency]] through dialogic, [[collaborative-learning|collaborative]] pedagogies that imagine alternative futures.^[[li-mroziak-reorienting-critical-ai-literacy]]
 - **Redistributing epistemic authority.** Community-based AI learning grounds AI engagement in learners' lived and community epistemologies, challenging the positioning of AI systems as authoritative knowledge sources.^[[ojeda-ramirez-community-based-ai-learning]] This involves epistemic fine-tuning, redistribution of authority, and situated discernment.
 - **Situated and cultural-historical ethics.** Critical approaches also argue that AI ethics in education must be *situated* — grounded in cultural-historical and ecological context rather than abstract principles.^[[raffaghelli-situated-ai-ethics-2026]]
 
@@ -33989,6 +33992,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[generative-ai]]
 - [[ai-tutoring]]
 - [[over-reliance]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
@@ -34240,9 +34244,99 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 
 ---
 
+## [AIEd in the Disciplines](https://edtechdev.github.io/aied/concepts/discipline-specific-aied/)
+
+> **AIEd in the Disciplines** — the application of artificial intelligence to teaching and learning within specific academic subjects, where each discipline's signature pedagogies, methods, theories, and concerns shape how AI is designed, used, and evaluated. Rather than treating AI in education as a single generic phenomenon, this overview organizes the wiki's discipline-specific coverage and surfaces the cross-cutting themes that run through subject-area AIEd research.
+
+AI in education manifests differently across disciplines because each field has its own signature pedagogy — the distinctive ways knowledge is constructed, practiced, and taught. AI tutors that shine in [[math-education|mathematics]] may fail in [[humanities-education|the humanities]], where interpretation and authorship matter more than right answers. This page is the umbrella map for those discipline-specific strands.
+
+## Discipline-specific concepts
+
+The wiki has dedicated concept pages for several subject areas:
+
+- **[[math-education]]** — AI tutoring, adaptive problem-solving, and conceptual diagnosis in mathematics.
+- **[[physics-education]]** — AI simulation, chatbots, and problem-posing in physics learning.
+- **[[cs-education]] / [[programming-education]] / [[block-programming]]** — AI for code generation, debugging, and novice programming support.
+- **[[writing-education]]** — AI-assisted composition, automated essay scoring, and writing feedback.
+- **[[language-learning]]** — AI interlocutors, pronunciation feedback, and conversational practice in second/foreign languages.
+- **[[stem-education]]** — the cross-disciplinary umbrella for science, technology, engineering, and mathematics.
+- **[[medical-education]]** — clinical simulation, reinforcement-learning training, and foundational learning principles in health-professions education.
+- **[[humanities-education]]** — interpretive cognition, authorship, and meaning-making in humanities and social sciences.
+- **[[k-12-ai-education]]** and **[[higher-ed]]** — education about and with AI at each level.
+
+## Cross-disciplinary themes
+
+Several threads cut across all disciplines, though they play out differently in each:
+
+- **Tutoring and feedback.** AI tutoring systems ([[ai-tutoring]], [[intelligent-tutoring]], [[feedback]], [[ai-feedback-quality]]) appear in nearly every discipline, from [[math-education|math]] and [[physics-education|physics]] tutors to [[writing-education|writing]] and [[language-learning|language]] feedback. The discipline shapes what counts as good feedback — right/wrong in math, argument quality in writing, fluency in language.
+- **Assessment and evaluation.** [[automated-assessment]], [[automated-grading]], [[automated-essay-scoring]], and [[formative-assessment]] are reimagined by AI across disciplines, but the scoring constructs differ (procedural accuracy vs. interpretive depth vs. communicative competence).
+- **Cognitive offloading and over-reliance.** [[cognitive-offloading]] and [[over-reliance]] risk appears across [[math-education|math]], [[cs-education|CS]], and [[writing-education|writing]], though the "cognitive act" being offloaded is discipline-specific — computation vs. code vs. composition.
+- **AI literacy and critical use.** [[ai-literacy]], [[critical-thinking]], and [[critical-pedagogy]] underpin responsible use in every subject.
+- **Equity and access.** [[equity-in-ai-education]], [[digital-divide]], and [[culturally-relevant-pedagogy]] concern all disciplines.
+
+## Signature pedagogies, methods, and theories by discipline
+
+Each discipline brings distinctive pedagogical traditions that AI research engages:
+
+- **Mathematics** — problem-solving, procedural fluency, and conceptual understanding. AI research emphasizes [[socratic-method|Socratic tutoring]] ([[oatutor-open-source-adaptive-tutor-2023|OATutor]]), [[adaptive-learning|adaptive]] practice, and diagnosing student misconceptions.
+- **Physics** — model-based reasoning, experimentation, and [[simulation]]. AI research uses virtual labs ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion]]), chatbots ([[becker-chatgpt-typology-physics-2026|ChatGPT typology]]), and problem-posing ([[genai-assisted-problem-posing-physics-2026|GenAI problem-posing]]).
+- **Computer science & programming** — project-based, hands-on building. AI research addresses code generation, debugging ([[code-review-genai-cs1|AI code review]], [[chatgpt-teachable-agent-programming-lbt-2024|learning by teaching]]), and epistemic AI literacy in co-programming ([[constructing-epistemic-ai-literacy-student-ai-co-programming|co-programming literacy]]).
+- **Writing** — process-oriented, recursive drafting and revision. AI research spans [[coach-not-crutch-ai-writing|AI as writing coach]], automated scoring, and stage-based ownership ([[ai-writing-support-stage-ownership-2026|ownership stages]]).
+- **Language learning** — communicative competence, interaction, and corrective feedback. AI research uses conversational agents ([[ai-interlocutor-l2-spoken-dialogue|L2 interlocutors]]), pronunciation feedback, and culturally responsive design.
+- **Health professions** — competency-based, clinically embedded, high-stakes. AI research emphasizes [[simulation]], reinforcement learning ([[residencyrl-clinical-rl-training-2026|ResidencyRL]]), and foundational learning principles ([[fowlin-operationalizing-learning-principles-ai|operationalizing learning principles]]).
+- **Humanities & social sciences** — interpretation, authorship, and critical meaning-making. AI research foregrounds interpretive cognition ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) and the [[philosophy-of-ai-in-education|philosophy of AI]] rather than tutoring for correctness.
+
+## Represented disciplines in the wiki
+
+The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[cs-education]]**, and **[[programming-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[medical-education]]** and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+
+## Underrepresented disciplines
+
+Several disciplines remain thin in the wiki and are good candidates for future ingestion:
+
+- **Business, economics, and management** — limited coverage despite AI's business-education relevance: [[ai-literacy-career-adaptability-business-2026|AI literacy and career adaptability in business]], [[beck-genai-literacy-economics-hands-on|hands-on GenAI literacy in economics]], [[dot-framework-survey-2026|technology-adoption frameworks]].
+- **Law and legal education** — minimal coverage: [[llm-turing-test-italian-legal-exams-2026|LLMs and Italian legal exams]].
+- **Psychology and counseling** — few AI-in-education articles: [[hawkins-feedback-literacy-ai-essay-writing|AI feedback literacy]], [[critical-genai-use-predictors|critical GenAI use]], [[adaptive-virtual-patient-psychotherapy-training|virtual patient psychotherapy training]].
+- **History** — only isolated articles: [[paternalistic-filter-llm-history-education|LLMs and historical reasoning]].
+- **The arts (visual art, design, music)** — emerging coverage: [[ai-interior-design-malaysia-2026|AI in interior design education]], [[genai-architectural-design-studios|GenAI in architectural design studios]], [[ai-vocal-pedagogy-2026|AI vocal pedagogy]], [[musical-education-ai-digital-transformation-2026|AI in music education]], [[t2i-competence-paradox-2026|text-to-image competence paradox]].
+
+These underrepresented disciplines would benefit from dedicated concept pages and additional article ingestion as the wiki grows.
+
+## Connected Concepts
+
+- [[ai-education]]
+- [[math-education]]
+- [[physics-education]]
+- [[cs-education]]
+- [[programming-education]]
+- [[writing-education]]
+- [[language-learning]]
+- [[stem-education]]
+- [[medical-education]]
+- [[humanities-education]]
+- [[k-12-ai-education]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[ai-tutoring]]
+- [[feedback]]
+- [[assessment]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI in health-professions education
+- [[voicu-ai-interpretive-cognition-ssh-2026]] — Interpretive cognition in humanities and social science education
+- [[becker-chatgpt-typology-physics-2026]] — ChatGPT use typology in physics education
+- [[code-review-genai-cs1]] — GenAI code review in CS1
+- [[ai-writing-support-stage-ownership-2026]] — Stage-based AI writing support and ownership
+- [[ai-engineering-education-balancing-act]] — The balancing act of AI in engineering education
+- [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
+
+---
+
 ## [Distributed Cognition](https://edtechdev.github.io/aied/concepts/distributed-cognition/)
 
-> **Distributed Cognition** — the theoretical perspective that cognition is not confined to an individual mind but is distributed across people, tools, artifacts, and environments. In AI-in-education research, this framework has become central for understanding human–AI collaboration: rather than viewing AI as a neutral tool that supports an otherwise self-contained learner, distributed cognition treats thinking as emerging from the interplay between learners, AI systems, peers, and their shared context. It reframes questions of agency, responsibility, and learning outcomes in terms of how cognitive work is apportioned across a human–AI system.
+> **Distributed Cognition** — the theoretical perspective that cognition is not confined to an individual mind but is distributed across people, tools, artifacts, and environments. In AI-in-education research, this framework has become central for understanding [[human-ai-collaboration|human–AI collaboration]]: rather than viewing AI as a neutral tool that supports an otherwise self-contained learner, distributed cognition treats thinking as emerging from the interplay between learners, AI systems, peers, and their shared context. It reframes questions of [[agency]], responsibility, and learning outcomes in terms of how cognitive work is apportioned across a human–AI system.
 
 This is a learning-theory concept within the wiki's [[learning-theories]] strand, closely related to [[embodied-learning]], [[situated-learning]], and [[cognitive-offloading]]. Distributed cognition (DCog), originating in the work of Edwin Hutchins and colleagues, describes how cognitive processes such as memory, reasoning, and problem-solving are spread across multiple agents and material systems rather than residing in a single head. In AI education this matters because AI systems increasingly function as genuine cognitive partners that carry part of the thinking load, raising the question of *where* learning actually happens and *who* is responsible.
 
@@ -34253,7 +34347,7 @@ Generative and interactive AI systems redistribute cognitive work in ways earlie
 - **AI as a cognitive partner and co-regulator.** AI can act as a scaffold, metacognitive support, external memory system, and decision partner in the co-regulation of thinking and learning.^[[ai-cognitive-partner-co-regulation-learning]] This positions cognition as co-regulated between learner and system rather than individually managed.
 - **Agency and responsibility redistribution.** Frameworks such as **ensemble cognition** reconceptualise thinking as emerging from dynamic human–AI interaction, distinguishing AI's *functional agency* (its capacity to influence outcomes without consciousness) from *moral responsibility* (which remains human).^[[ensemble-cognition-philosophy-ai-education]] Distributed cognition thus reframes who is accountable for learning.
 - **The efficiency–regulation tension.** Empirical work shows a trade-off: human–AI systems that distribute reasoning most efficiently (e.g., via delegated reasoning) achieve higher task performance but may reduce learners' self-regulatory engagement.^[[hao-human-ai-collaborative-problem-solving-cognition]] This is the empirical face of the [[cognitive-offloading]] and [[over-reliance]] risks the wiki documents.
-- **Mediation in collaboration.** AI can act as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes in collaborative learning, redistributing agency, authority, and responsibility across human and non-human actors.^[[niari-ai-pedagogical-mediator-collaborative-learning]]
+- **Mediation in collaboration.** AI can act as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes in [[collaborative-learning|collaborative learning]], redistributing agency, authority, and responsibility across human and non-human actors.^[[niari-ai-pedagogical-mediator-collaborative-learning]]
 
 ### Distributed cognition and related perspectives
 
@@ -35657,6 +35751,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[educational-policy-ai]]
 - [[regulation]]
 - [[professional-training]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 - [[voicu-ai-interpretive-cognition-ssh-2026]]
@@ -35865,13 +35960,13 @@ HRI connects to [[social-robots]], [[educational-robotics]], [[embodied-learning
 
 ## [Humanities and Social Science Education](https://edtechdev.github.io/aied/concepts/humanities-education/)
 
-> **Humanities and Social Science (SSH) Education** — the teaching of disciplines concerned with human culture, values, meaning, and social life, including history, philosophy, literature, languages, sociology, and the arts. AI in SSH education raises distinctive questions because these fields center on interpretation, critical judgment, authorship, and meaning-making — processes that generative AI both supports and disrupts. AI here functions less as a tutor of factual content and more as an epistemic mediator that reshapes how students interpret texts, construct arguments, and understand their own agency as writers and thinkers.
+> **Humanities and Social Science (SSH) Education** — the teaching of disciplines concerned with human culture, values, meaning, and social life, including history, philosophy, literature, languages, sociology, and the arts. AI in SSH education raises distinctive questions because these fields center on interpretation, critical judgment, authorship, and meaning-making — processes that [[generative-ai|generative AI]] both supports and disrupts. AI here functions less as a tutor of factual content and more as an epistemic mediator that reshapes how students interpret texts, construct arguments, and understand their own [[agency]] as writers and thinkers.
 
-SSH education is a distinct subject area in the wiki, complementary to [[stem-education]] and [[language-learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM.
+SSH education is a distinct subject area in the wiki, complementary to [[stem-education]] and [[language-learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM — and connect to [[higher-ed]] and [[ai-literacy]] in domain-specific ways.
 
 ### How AI appears in humanities and social science education
 
-- **Restructuring interpretive cognition.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] argues that generative AI acts as an *epistemic mediator* that reconfigures meaning-making, authorship, and learner agency in SSH education. It identifies three transformations — externalization of interpretive cognition, hybridization of authorship, and emergence of distributed epistemic agency — and three developmental trajectories (AI-dependent, AI-enhanced, AI-critical interpretation). This grounds a developmental-critical pedagogical model for preserving interpretive depth.
+- **Restructuring interpretive cognition.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] argues that generative AI acts as an *epistemic mediator* that reconfigures meaning-making, authorship, and learner [[agency]] in SSH education. It identifies three transformations — externalization of interpretive cognition, hybridization of authorship, and emergence of distributed epistemic agency — and three developmental trajectories (AI-dependent, AI-enhanced, AI-critical interpretation). This grounds a developmental-critical pedagogical model for preserving interpretive depth.
 - **History education.** [[paternalistic-filter-llm-history-education|Research on LLMs in history education]] examines how AI shapes historical reasoning and source interpretation.
 - **Humanities and social-science students' experiences.** [[genai-impact-chinese-students-hss|GenAI's impact on Chinese humanities and social science students]] and [[acceptance-ai-english-tools-2026|AI acceptance among language/English learners]] document student-facing effects across SSH disciplines.
 - **Critical and philosophical dimensions.** [[voicu-ai-interpretive-cognition-ssh-2026|Critical AI literacy]] and the [[philosophy-of-ai-in-education|philosophy of AI in education]] are especially salient in SSH, where questions of meaning, values, and epistemic authority are central.
@@ -35891,6 +35986,7 @@ SSH education foregrounds the very capabilities generative AI most challenges �
 - [[language-learning]]
 - [[stem-education]]
 - [[ai-education]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 
@@ -36206,6 +36302,8 @@ Wang, J., Xiao, R., et al. (2025). *LLMs to Support K-12 Teachers in Culturally 
 - [[cognitive-load-theory]]
 - [[ai-tutoring]]
 - [[collaborative-learning]]
+- [[discipline-specific-aied]]
+
 ## Connected Articles
 
 - [[computational-thinking-ai-agent-creation]]
@@ -36402,6 +36500,8 @@ Language learning has emerged as a significant AI in education domain because la
 - [[student-experience]]
 - [[higher-ed]]
 - [[k-12]]
+- [[discipline-specific-aied]]
+
 ## Connected Articles
 - [[ai-guided-learning-audiovideo-2026]]
 
@@ -36896,6 +36996,8 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[faculty-development]]
 - [[generative-ai]]
 - [[open-source]]
+- [[discipline-specific-aied]]
+
 ## Connected Articles
 - [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on math student work with errors (DrawEduMath, Lucy et al. 2026)
@@ -36915,13 +37017,13 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 
 ## [Medical and Health Professions Education](https://edtechdev.github.io/aied/concepts/medical-education/)
 
-> **Medical and Health Professions Education (HPE)** — the teaching and training of medical, nursing, pharmacy, and allied health professionals. AI is reshaping this domain through clinical simulation, reinforcement-learning trainers, adaptive learning, and the application of foundational learning principles (experiential, situated, and distributed cognition) in health-professions contexts. Because HPE is high-stakes, competency-based, and clinically embedded, it raises distinct questions about AI's role in skill acquisition, patient safety, and the educator's judgment.
+> **Medical and Health Professions Education (HPE)** — the teaching and training of medical, nursing, pharmacy, and allied health professionals. AI is reshaping this domain through clinical [[simulation]], [[reinforcement-learning|reinforcement learning]] trainers, [[adaptive-learning|adaptive learning]], and the application of foundational learning principles (experiential, situated, and distributed cognition) in health-professions contexts. Because HPE is high-stakes, competency-based, and clinically embedded, it raises distinct questions about AI's role in skill acquisition, patient safety, and the educator's judgment.
 
-AI in medical and health-professions education is a growing strand of the wiki's subject-area coverage. Unlike general higher education, HPE is oriented toward the development of clinical competencies, procedural skills, and professional judgment, which shapes how AI tools are designed and evaluated.
+AI in medical and health-professions education is a growing strand of the wiki's subject-area coverage. Unlike general [[higher-ed|higher education]], HPE is oriented toward the development of clinical competencies, procedural skills, and professional judgment, which shapes how AI tools are designed and evaluated.
 
 ### How AI appears in health-professions education
 
-- **Operationalizing foundational learning principles.** [[fowlin-operationalizing-learning-principles-ai|Fowlin et al.]] (developed at the Medical University of South Carolina) argue that AI should be used to operationalize age-old learning principles — Dewey's [[experiential-learning|experiential learning]], [[situated-learning|situated cognition]], and [[distributed-cognition|distributed cognition]] — rather than replace the educator's guiding role. AI enhances [[personalized-learning|personalized]] and [[adaptive-learning|adaptive]] learning while the teacher remains central to student engagement and outcomes.
+- **Operationalizing foundational learning principles.** [[fowlin-operationalizing-learning-principles-ai|Fowlin et al.]] (developed at the Medical University of South Carolina) argue that AI should be used to operationalize age-old learning principles — Dewey's [[experiential-learning|experiential learning]], [[situated-learning|situated cognition]], and [[distributed-cognition|distributed cognition]] — rather than replace the educator's guiding role. AI enhances [[personalized-learning|personalized]] and [[adaptive-learning|adaptive]] learning while the teacher remains central to [[student-engagement|student engagement]] and outcomes.
 - **Clinical skills and reinforcement learning.** [[residencyrl-clinical-rl-training-2026|ResidencyRL]] uses reinforcement learning to train clinical reasoning and procedural skills in residency, demonstrating AI as a skills-training partner in real clinical workflows.
 - **Simulation and agentic AI.** [[hdr-brachytherapy-agentic-ai-simulation-2026|Agentic AI simulation in brachytherapy]] shows how AI agents support hands-on procedural training in medical specialties.
 - **Gamification of medical learning.** [[medgame-llm-medical-education-gamification|MedGame]] applies [[game-based-learning|gamification]] and LLMs to engage medical students.
@@ -36929,7 +37031,7 @@ AI in medical and health-professions education is a growing strand of the wiki's
 
 ### Why it matters
 
-HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks (over-reliance, erosion of hands-on clinical skill, ethical and safety concerns). The wiki's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
+HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks ([[over-reliance]], erosion of hands-on clinical skill, ethical and safety concerns). The wiki's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
 
 ## Connected Concepts
 
@@ -36945,6 +37047,7 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[assessment]]
 - [[feedback]]
 - [[ai-education]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 
@@ -37740,21 +37843,21 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 
 ## [Philosophy of AI in Education](https://edtechdev.github.io/aied/concepts/philosophy-of-ai-in-education/)
 
-> **Philosophy of AI in Education** — the branch of educational philosophy that examines the fundamental conceptual questions raised by artificial intelligence in teaching and learning: What is the nature of knowledge and thinking when machines participate in them? What is the learner when cognition is distributed across human and artificial systems? What forms of agency, responsibility, and personhood apply to AI, and what does education owe learners in an AI-mediated world? Distinct from (but connected to) the wiki's [[learning-theories]] page, which catalogues theories of *how learning happens*, the philosophy of AI in education asks the deeper questions of *what learning, mind, and the learner fundamentally are* under AI-mediated conditions.
+> **Philosophy of AI in Education** — the branch of educational philosophy that examines the fundamental conceptual questions raised by artificial intelligence in teaching and learning: What is the nature of knowledge and thinking when machines participate in them? What is the learner when cognition is distributed across human and artificial systems? What forms of [[agency]], responsibility, and personhood apply to AI, and what does education owe learners in an AI-mediated world? Distinct from (but connected to) the wiki's [[learning-theories]] page, which catalogues theories of *how learning happens*, the philosophy of AI in education asks the deeper questions of *what learning, mind, and the learner fundamentally are* under AI-mediated conditions.
 
-This is a concept page for the philosophical and theoretical foundations of AI in education. While [[learning-theories]] documents the empirical and design-oriented theories (behaviorism, constructivism, cognitive load, self-regulated learning, etc.), the philosophy strand engages the ontological, epistemological, and ethical questions those theories presuppose. The two are closely connected: philosophical positions shape which learning theories seem plausible and which educational goals are worth pursuing.
+This is a concept page for the philosophical and theoretical foundations of [[ai-education|AI in education]]. While [[learning-theories]] documents the empirical and design-oriented theories ([[behaviorism]], [[constructivist|constructivism]], [[cognitive-load-theory|cognitive load]], [[self-regulated-learning|self-regulated learning]], etc.), the philosophy strand engages the ontological, epistemological, and ethical questions those theories presuppose. The two are closely connected: philosophical positions shape which learning theories seem plausible and which educational goals are worth pursuing.
 
 ### Key philosophical questions
 
 - **The nature of mind and cognition.** Does thinking require consciousness and a body? Can AI participate in genuinely cognitive processes? Frameworks such as **ensemble cognition** argue that AI exercises *functional agency* — genuine causal efficacy in cognitive processes — without consciousness, and that thinking emerges from dynamic human–AI interaction.^[[ensemble-cognition-philosophy-ai-education]] [[distributed-cognition|Distributed cognition]] and the extended mind thesis make related claims about cognition being spread across systems.
 - **What is the learner?** Posthumanist philosophy reconceptualises the learner as a "post-human" entity whose cognitive processes are genuinely hybrid and distributed across biological and artificial systems.^[[elsayed-pedagogical-symbiosis-posthuman-learner]] This challenges the assumption that the learner is a bounded, autonomous individual mind.
 - **Embodiment and the limits of disembodied AI.** Embodied and post-cognitivist philosophy critiques the dominance of symbolic, disembodied AI models, arguing that cognition is grounded in situationality, emergence, and sensorimotor coupling that current generative AI lacks.^[[videla-embodied-ai-education-choreography]]
-- **Agency, authorship, and meaning.** When AI mediates interpretation and meaning-making, philosophy asks how authorship, epistemic agency, and interpretive autonomy are reconfigured.^[[voicu-ai-interpretive-cognition-ssh-2026]]
+- **Agency, authorship, and meaning.** When AI mediates interpretation and meaning-making, philosophy asks how authorship, epistemic [[agency]], and interpretive autonomy are reconfigured.^[[voicu-ai-interpretive-cognition-ssh-2026]]
 - **Values, justice, and the purpose of education.** Philosophical analysis examines whether AI-driven education serves human flourishing and educational justice, or whether it instrumentalises learning in service of productivity.^[[avraamidou-ai-colonization-science-education]] This connects to [[critical-pedagogy]] and [[ethics]].
 
 ### Relationship to learning theories
 
-The philosophy of AI in education and [[learning-theories]] are complementary lenses. Learning theories explain the mechanisms of learning (e.g., how feedback, scaffolding, or cognitive load shape outcomes); philosophy interrogates the presuppositions of those mechanisms — what counts as knowledge, who counts as a knower, and what the learner fundamentally is. Posthumanist and critical-philosophical work, in particular, challenges the field to move beyond instrumentalist frameworks like TPACK and SAM toward deeper ontological reorientation.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
+The philosophy of AI in education and [[learning-theories]] are complementary lenses. Learning theories explain the mechanisms of learning (e.g., how [[feedback]], [[scaffolding]], or cognitive load shape outcomes); philosophy interrogates the presuppositions of those mechanisms — what counts as knowledge, who counts as a knower, and what the learner fundamentally is. Posthumanist and critical-philosophical work, in particular, challenges the field to move beyond instrumentalist frameworks like TPACK and SAM toward deeper ontological reorientation.^[[elsayed-pedagogical-symbiosis-posthuman-learner]]
 
 ## Connected Concepts
 
@@ -37820,6 +37923,8 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[simulation]]
 - [[generative-ai]]
 - [[higher-ed]]
+- [[discipline-specific-aied]]
+
 ## Connected Articles
 - [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
 
@@ -38022,6 +38127,7 @@ Programming education connects to [[educational-robotics]], [[computational-thin
 - [[project-based-learning]]
 - [[k-12]]
 - [[higher-ed]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 - [[jost-llm-programming-education-learning-outcomes]] — LLM impact on programming education learning outcomes (Jošt et al. 2024)
@@ -38850,11 +38956,11 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 
 ## [Situated Learning](https://edtechdev.github.io/aied/concepts/situated-learning/)
 
-> **Situated Learning** — the theory, rooted in the early-1990s work of Lave and Wenger (1991), that learning is not an isolated, decontextualized act but occurs through participation in authentic activities, contexts, and cultures. Knowledge is co-constructed by learners and peers within [[collaborative-learning|communities of practice]], and novices learn through legitimate peripheral participation — absorbing the culture, language, and practices of expert members as they move from the periphery to the center of a community. Emphasis falls on learning by doing in real-world situations, where assessment emerges from the task itself rather than being separated from it.
+> **Situated Learning** — the theory, rooted in the early-1990s work of Lave and Wenger (1991), that learning is not an isolated, decontextualized act but occurs through participation in authentic activities, contexts, and cultures. Knowledge is co-constructed by learners and peers within [[collaborative-learning|communities of practice]], and novices learn through legitimate peripheral participation — absorbing the culture, language, and practices of expert members as they move from the periphery to the center of a community. Emphasis falls on learning by doing in real-world situations, where [[assessment]] emerges from the task itself rather than being separated from it.
 
 Situated learning is one of the activity-and-context theories within the wiki's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's sociocultural context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
 
-In the AI-in-education literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[ai-tutoring|intelligent tutoring]] in authentic scenarios, and immersive simulations can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for ethical grounding.
+In the [[ai-education|AI-in-education]] literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[ai-tutoring|intelligent tutoring]] in authentic scenarios, and immersive [[simulation|simulations]] can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for ethical grounding.
 
 ### Situated learning as a design lens for AI
 
@@ -38863,7 +38969,7 @@ The wiki's research treats situated learning not merely as an abstract theory bu
 - **Opportunities and obstacles.** A PRISMA systematic review of 60 articles (three decades) finds that AI can augment situated learning — through adaptive systems tailored to students' evolving needs, intelligent tutoring situated in authentic scenarios, automation of administrative tasks, and data-driven teacher support — while the main obstacles are the traditional school's one-way passive learning, an over-emphasis on predefined outcomes, and teachers' limited contextual knowledge. Human guidance remains essential for ethical grounding.^[[vargas-situated-learning-ai-review-2024]]
 - **AI as a catalyst connecting education to reality.** AI can act as a *catalyst* for situated learning by connecting education with reality and authentic contexts, enabling learning grounded in real-world scenarios.^[[vargas-ai-catalyst-situated-learning-2026]]
 - **Mediational artifacts in authentic inquiry.** In science learning, AI tools (virtual labs, simulations, intelligent tutoring) function as "mediational artifacts" that extend situated learning by enabling digital communities of practice and boundary-crossing between school, real-world, and interdisciplinary contexts — transforming students from "knowledge learners" into "scientific practitioners."^[[li-ai-science-situated-learning-teachers-2025]]
-- **Situated curriculum devices.** AI literacy can be developed through *Episodes of Situated Learning* — active teaching instruments (anticipate, produce, reflect) that build AI competencies through real-world problem-solving rather than abstract instruction.^[[panciroli-ai-literacy-episodes-situated-learning]]
+- **Situated curriculum devices.** [[ai-literacy|AI literacy]] can be developed through *Episodes of Situated Learning* — active teaching instruments (anticipate, produce, reflect) that build AI competencies through real-world problem-solving rather than abstract instruction.^[[panciroli-ai-literacy-episodes-situated-learning]]
 - **Situated AI ethics.** Ethical reasoning about AI is itself best treated as *situated* — grounded in cultural-historical and ecological context rather than abstract principles.^[[raffaghelli-situated-ai-ethics-2026]]
 
 Situated learning connects closely to [[embodied-learning]] (both stress the grounding of cognition in context and action), [[distributed-cognition]] (learning distributed across people, tools, and contexts), [[experiential-learning]], and [[constructivist]] theory. In AI education it grounds the critique of decontextualized, disembodied learning: AI design that keeps learners anchored in authentic practice preserves the situatedness that durable learning requires.
@@ -39114,6 +39220,8 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[higher-ed]]
 - [[cs-education]]
 - [[generative-ai]]
+- [[discipline-specific-aied]]
+
 ## Connected Articles
 
 - [[special-r1-rl-special-education]]
@@ -39157,6 +39265,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[formative-assessment]]
 - [[personalized-learning]]
 - [[llm]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 - [[ai-acceptance-preservice-science-teachers-2026]]
@@ -39955,6 +40064,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[student-experience]]
 - [[feedback-literacy]]
 - [[feedback]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)

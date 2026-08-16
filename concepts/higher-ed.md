@@ -41,6 +41,7 @@ Large-scale studies of [[ai-in-the-wild-college|authentic student AI use]] and [
 - [[educational-policy-ai]]
 - [[regulation]]
 - [[professional-training]]
+- [[discipline-specific-aied]]
 
 ## Connected Articles
 - [[voicu-ai-interpretive-cognition-ssh-2026]]

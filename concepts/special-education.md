@@ -30,6 +30,8 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[higher-ed]]
 - [[cs-education]]
 - [[generative-ai]]
+- [[discipline-specific-aied]]
+
 ## Connected Articles
 
 - [[special-r1-rl-special-education]]

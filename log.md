@@ -1,3 +1,9 @@
+## [2026-08-16] add | new overview concept: AIEd in the Disciplines
+
+- Created [[discipline-specific-aied]] — an umbrella concept page organizing the wiki's discipline-specific AIEd coverage (math, physics, CS, programming, writing, language, STEM, medical, humanities) with cross-disciplinary themes, signature pedagogies/methods/theories per discipline, and a survey of underrepresented disciplines (business/econ, law, psychology, history, arts).
+- Integrated into left-nav conceptIndex.ts (Subject areas group) + concepts/ai-education.md hub; back-links added from all 14 discipline concept pages.
+- Updated index.md (809), journal.md (774).
+
 ## [2026-08-16] ingest | learning-theory + critical + situated batch (16 papers, 4 new concepts)
 
 - Ingested 16 new papers covering distributed cognition, situated learning, embodied intelligence, critical pedagogy, and philosophy of AI in education.
