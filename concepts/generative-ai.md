@@ -1,7 +1,7 @@
 ---
 title: Generative AI
-created: 2026-08-09
-updated: 2026-08-15T20:02:54-04:00
+created: "2026-08-09"
+updated: "2026-08-15T20:02:54-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, ai-tutoring, over-reliance, hallucination-risk, cognitive-offloading]
 confidence: high

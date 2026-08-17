@@ -1,7 +1,7 @@
 ---
 title: Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
-created: 2026-05-15T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-15T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [agentic-ai, benchmark, generative-ai, intelligent-tutoring, llm, scaffolding, teacher-role, pedagogical-llm-training, human-in-the-loop-ai, agentic-workflows]
 sources: ['raw/papers/2605.14322.md']

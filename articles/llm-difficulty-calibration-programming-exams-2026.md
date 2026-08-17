@@ -1,7 +1,7 @@
 ---
 title: "From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations"
-created: 2026-08-11T13:10:53-04:00
-updated: 2026-08-11
+created: "2026-08-11T13:10:53-04:00"
+updated: "2026-08-11"
 type: article
 tags: [computing-education, programming-education, assessment, automated-assessment, llm-evaluation, educational-measurement, item-response-theory, learning-analytics, evaluation]
 sources: ['raw/papers/llm-difficulty-calibration-programming-exams-2026.md']

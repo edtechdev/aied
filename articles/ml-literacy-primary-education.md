@@ -1,7 +1,7 @@
 ---
 title: "Fostering machine learning literacy in senior primary education: Evaluating a structured pedagogical course design"
-created: 2026-06-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, instructional-design]
 sources: ['raw/papers/caeai-ml-literacy-primary.md']

@@ -1,7 +1,7 @@
 ---
 title: Programming Intelligent Tutoring Systems
-created: 2026-05-08T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-08T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, stem-education, higher-ed, adaptive-learning, formative-assessment, student-misconceptions-conditionals-loops-taxonomy, adaptive-learning-systems, rag, llm]
 sources: ['raw/papers/2604.16117.md']

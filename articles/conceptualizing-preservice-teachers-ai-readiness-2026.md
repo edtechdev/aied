@@ -1,7 +1,7 @@
 ---
 title: "Conceptualizing pre-service teachers' readiness for AI integration into teaching practices: An intelligent-TPACK approach"
-created: 2026-08-16T10:55:19-04:00
-updated: 2026-08-16
+created: "2026-08-16T10:55:19-04:00"
+updated: "2026-08-16"
 type: article
 tags: [teacher-education, preservice-teachers, tpack, intelligent-tpack, ai-literacy, assessment]
 sources: ['raw/papers/conceptualizing-preservice-teachers-ai-readiness-2026.md']

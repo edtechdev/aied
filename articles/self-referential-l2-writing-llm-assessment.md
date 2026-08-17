@@ -1,7 +1,7 @@
 ---
 title: "Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs"
-created: 2026-05-05T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-05T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [automated-grading, writing-education, llm, ai-education, higher-ed, human-in-the-loop-ai, automated-question-generation, ground-truth-reliability-aided, personalized-learning]
 sources: ['raw/papers/2605.04298.md']

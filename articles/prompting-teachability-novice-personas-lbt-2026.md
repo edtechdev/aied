@@ -1,7 +1,7 @@
 ---
 title: "Prompting for Teachability: Designing Novice Personas in LLMs for Learning by Teaching Contexts"
-created: 2026-08-14T10:45:34-04:00
-updated: 2026-08-14
+created: "2026-08-14T10:45:34-04:00"
+updated: "2026-08-14"
 type: article
 tags: [learning-by-teaching, teachable-agents, prompt-engineering, generative-ai, novice, scaffolding, llm, agent-design]
 sources: ['raw/papers/raw-miller-bosch-teachability.md']

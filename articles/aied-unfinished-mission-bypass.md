@@ -1,7 +1,7 @@
 ---
 title: "AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass"
-created: 2026-07-09T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-09T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [over-reliance, student-experience, self-regulated-learning, metacognition, teacher-role, formative-assessment, generative-ai]
 sources: ['raw/papers/2607.05557.md']

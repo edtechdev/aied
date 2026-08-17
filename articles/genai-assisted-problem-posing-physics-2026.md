@@ -1,7 +1,7 @@
 ---
 title: Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing
-created: 2026-08-14T09:17:22-04:00
-updated: 2026-08-14
+created: "2026-08-14T09:17:22-04:00"
+updated: "2026-08-14"
 type: article
 tags: [physics-education, generative-ai, problem-solving, prompt-engineering, student-experience, transfer-of-learning, self-regulated-learning, motivation, qualitative-research]
 sources: ['raw/papers/2608.12523.md']

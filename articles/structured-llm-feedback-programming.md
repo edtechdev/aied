@@ -1,7 +1,7 @@
 ---
 title: The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
-created: 2026-05-19T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-19T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, feedback-loop, higher-ed, scaffolding, efficacy-study, stem-education, socratic-questioning, desirable-difficulties, rag]
 sources: ['raw/papers/2605.16933.md']

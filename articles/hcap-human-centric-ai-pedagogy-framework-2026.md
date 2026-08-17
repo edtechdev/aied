@@ -1,7 +1,7 @@
 ---
 title: "Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency"
-created: 2026-08-10T17:33:14-04:00
-updated: 2026-08-13
+created: "2026-08-10T17:33:14-04:00"
+updated: "2026-08-13"
 type: article
 tags: [ai-literacy, teacher-ai-competency, pedagogical-llm-training, faculty-development, ai-education, ethics, instructional-design]
 sources: ['raw/papers/10.1080_10494820.2026.2615818.md']

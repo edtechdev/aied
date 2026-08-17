@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking
-created: 2026-08-09
-updated: 2026-08-15T11:21:11-04:00
+created: "2026-08-09"
+updated: "2026-08-15T11:21:11-04:00"
 type: concept
 tags: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai]
 confidence: high

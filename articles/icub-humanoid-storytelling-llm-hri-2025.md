@@ -1,7 +1,7 @@
 ---
 title: "Would You Let a Humanoid Play Storytelling With Your Child? A Usability Study on LLM-Powered Narrative Human-Robot Interaction"
-created: 2026-08-13T18:49:42-04:00
-updated: 2026-08-13
+created: "2026-08-13T18:49:42-04:00"
+updated: "2026-08-13"
 type: article
 tags: [human-robot-interaction, social-robots, llm, storytelling, child-development, educational-robotics, usability]
 sources: ['raw/papers/lombardi-humanoid-storytelling-child-2025.md']

@@ -1,7 +1,7 @@
 ---
 title: "Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights"
-created: 2026-08-10T09:10:02-04:00
-updated: 2026-08-10
+created: "2026-08-10T09:10:02-04:00"
+updated: "2026-08-10"
 type: article
 tags: [academic-integrity, ai-literacy, higher-ed, course-redesign, assessment, generative-ai, ai-education, ethics]
 sources: ['raw/papers/2608.05175.md']

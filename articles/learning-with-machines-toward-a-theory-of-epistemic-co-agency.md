@@ -1,7 +1,7 @@
 ---
 title: "Learning with machines: Toward a theory of epistemic co-agency"
-created: 2026-08-10T17:08:30-04:00
-updated: 2026-08-13
+created: "2026-08-10T17:08:30-04:00"
+updated: "2026-08-13"
 type: article
 tags: [epistemic-agency, ai-literacy, critical-thinking, human-ai-interaction, metacognition, generative-ai, higher-ed, assessment]
 sources: ['raw/papers/10.1016_j.caeai.2026.100573.md']

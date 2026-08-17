@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
-created: 2026-08-12
-updated: 2026-08-15T03:04:03-04:00
+created: "2026-08-12"
+updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [ai-literacy, over-reliance, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
 confidence: high

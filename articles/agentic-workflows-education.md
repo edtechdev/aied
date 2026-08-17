@@ -1,7 +1,7 @@
 ---
 title: Agentic Workflows in Education
-created: 2026-05-07T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-07T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [agentic-ai, ai-education, benchmark, intelligent-tutoring, pedagogical-llm-training, human-in-the-loop-ai, persistent-ai-agents-academic-research, adaptive-learning-systems]
 sources: ['raw/papers/kamalov-agentic-workflows-education-2026.md']

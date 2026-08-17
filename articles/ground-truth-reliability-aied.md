@@ -1,7 +1,7 @@
 ---
 title: "Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education"
-created: 2026-05-11T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-11T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [benchmark, efficacy-study, learning-analytics, generative-ai, llm, automated-grading, human-in-the-loop, ai-literacy-assessment-misalignment, human-in-the-loop-ai, llm-cognitive-diagnosis-handwritten-math]
 sources: ['raw/papers/2603.29141.md']

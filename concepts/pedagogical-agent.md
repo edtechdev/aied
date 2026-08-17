@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
-created: 2026-08-08
-updated: 2026-08-15T09:22:41-04:00
+created: "2026-08-08"
+updated: "2026-08-15T09:22:41-04:00"
 type: concept
 tags: [intelligent-tutoring, llm, student-ai-interaction, scaffolding, higher-ed, generative-ai, student-experience, k-12, stem-education, personalized-learning]
 confidence: medium

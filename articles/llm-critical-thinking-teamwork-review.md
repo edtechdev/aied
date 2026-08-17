@@ -1,7 +1,7 @@
 ---
 title: "Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review"
-created: 2026-08-11T06:15:03-04:00
-updated: 2026-08-11
+created: "2026-08-11T06:15:03-04:00"
+updated: "2026-08-11"
 type: article
 tags: [collaborative-learning, generative-ai, higher-ed, critical-thinking, problem-solving, systematic-review, assessment]
 sources: ['raw/papers/systems-llm-skills-review.md']

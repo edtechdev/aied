@@ -1,7 +1,7 @@
 ---
 title: 'I can''t read your mind": A Study of Neurodivergent Computing Students'' Experiences with Collaborative Active Learning'
-created: 2026-05-25T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-25T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [student-experience, cs-education, special-education, equity, collaborative-learning, equity-in-ai-education, scaffolding, ai-education]
 sources: ['raw/papers/2605.23823.md']

@@ -1,7 +1,7 @@
 ---
 title: "Role of generative AI literary assistants in enhancing ninth-grade students' writing motivation, flow and achievement"
-created: 2026-08-16T10:55:19-04:00
-updated: 2026-08-16
+created: "2026-08-16T10:55:19-04:00"
+updated: "2026-08-16"
 type: article
 tags: [writing-education, generative-ai, motivation, student-engagement, k-12, over-reliance]
 sources: ['raw/papers/genai-literary-assistants-writing-motivation-2026.md']

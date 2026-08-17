@@ -1,7 +1,7 @@
 ---
 title: Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
-created: 2026-05-13T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-13T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, student-experience]
 sources: ['raw/papers/2605.09369.md']

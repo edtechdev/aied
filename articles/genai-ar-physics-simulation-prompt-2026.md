@@ -1,7 +1,7 @@
 ---
 title: "From Prompt to Embodied Simulation: Using Generative AI to Create AR Physics Learning Tools"
-created: 2026-08-13T09:28:20-04:00
-updated: 2026-08-13
+created: "2026-08-13T09:28:20-04:00"
+updated: "2026-08-13"
 type: article
 tags: [physics-education, generative-ai, simulation, content-generation, stem-education, prompt-engineering]
 sources: ['raw/papers/2607.24709.md']

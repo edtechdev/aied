@@ -1,7 +1,7 @@
 ---
 title: "\"It is a temptation to get it to do the work…\" Student Experiences of Navigating the Generative AI Landscape in UK Higher Education: A Cross-Institutional Survey with International Comparison"
-created: 2026-08-12T12:37:38-04:00
-updated: 2026-08-12
+created: "2026-08-12T12:37:38-04:00"
+updated: "2026-08-12"
 type: article
 tags: [student-experience, higher-ed, generative-ai, academic-integrity, equity, ethics, policy, survey]
 sources: ['raw/papers/genai-student-experiences-uk-he-survey-2026.md']

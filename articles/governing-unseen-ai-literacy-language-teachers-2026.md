@@ -1,7 +1,7 @@
 ---
 title: "Governing the Unseen: A Systematic Review of AI Literacy among Language Teachers in Higher Education"
-created: 2026-08-16T10:19:32-04:00
-updated: 2026-08-16
+created: "2026-08-16T10:19:32-04:00"
+updated: "2026-08-16"
 type: article
 tags: [ai-literacy, language-learning, higher-ed, teacher-ai-competency, faculty-development, governance, meta-analysis-systematic-review]
 sources: ['raw/papers/governing-unseen-ai-literacy-language-teachers-2026.md']

@@ -1,7 +1,7 @@
 ---
 title: "The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents"
-created: 2026-05-11T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-11T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, generative-ai, llm, scaffolding, personalized-learning, feedback-loop, adaptive-learning]
 sources: ['raw/papers/2602.19303.md']

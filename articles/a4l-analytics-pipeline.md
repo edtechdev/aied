@@ -1,7 +1,7 @@
 ---
 title: Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
-created: 2026-05-29T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-29T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [learning-analytics, edtech-platform, personalized-learning, higher-ed, feedback-loop, student-experience, ai-literacy, llm]
 sources: ['raw/papers/2605.30303.md']

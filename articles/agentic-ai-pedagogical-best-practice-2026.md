@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning"
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [agentic-ai, educational-theory, scaffolding, formative-assessment, metacognition, human-in-the-loop, zone-of-proximal-development, agentic-workflows, desirable-difficulties, llm]
 sources: ['raw/papers/agentic-ai-pedagogical-best-practice-2026.md']

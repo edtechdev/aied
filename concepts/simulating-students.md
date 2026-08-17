@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
-created: 2026-08-12
-updated: 2026-08-15T03:04:03-04:00
+created: "2026-08-12"
+updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
 confidence: high

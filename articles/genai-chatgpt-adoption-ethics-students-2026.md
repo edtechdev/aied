@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in higher education: Ethical and behavioral factors influencing students' intentions to use ChatGPT"
-created: 2026-08-16T10:55:19-04:00
-updated: 2026-08-16
+created: "2026-08-16T10:55:19-04:00"
+updated: "2026-08-16"
 type: article
 tags: [higher-ed, ethics, generative-ai, chatgpt, ai-adoption, trust, student-experience]
 sources: ['raw/papers/genai-chatgpt-adoption-ethics-students-2026.md']

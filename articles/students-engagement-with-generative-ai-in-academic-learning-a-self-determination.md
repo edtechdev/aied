@@ -1,7 +1,7 @@
 ---
 title: "Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study"
-created: 2026-08-10T17:08:30-04:00
-updated: 2026-08-13
+created: "2026-08-10T17:08:30-04:00"
+updated: "2026-08-13"
 type: article
 tags: [generative-ai, student-experience, self-regulated-learning, ai-literacy, academic-integrity, learning-analytics, motivation, over-reliance, critical-thinking, metacognition, privacy]
 sources: ['raw/papers/10.1016_j.caeai.2026.100606.md']

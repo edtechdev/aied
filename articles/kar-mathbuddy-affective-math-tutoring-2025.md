@@ -1,7 +1,7 @@
 ---
 title: "MathBuddy: Affective Math Tutoring"
-created: 2026-07-29T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-29T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [math-education, affective-computing, intelligent-tutoring, k-12, pedagogical-llm-training, affective-tutoring, open-source, rag]
 sources: ['raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md']

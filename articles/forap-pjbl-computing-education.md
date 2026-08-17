@@ -1,7 +1,7 @@
 ---
 title: "Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio"
-created: 2026-07-14T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-14T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [project-based-learning, k-12, higher-ed, active-learning, stem-education, scaffolding, teacher-role]
 sources: ['raw/papers/2607.11129.md']

@@ -1,7 +1,7 @@
 ---
 title: "Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning"
-created: 2026-08-12T12:37:38-04:00
-updated: 2026-08-12
+created: "2026-08-12T12:37:38-04:00"
+updated: "2026-08-12"
 type: article
 tags: [metacognition, self-regulated-learning, cognitive-offloading, over-reliance, academic-integrity, student-experience, generative-ai]
 sources: ['raw/papers/metacognitively-discordant-completion-genai-2026.md']

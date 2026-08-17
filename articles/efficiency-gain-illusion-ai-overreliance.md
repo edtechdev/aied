@@ -1,7 +1,7 @@
 ---
 title: "The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks"
-created: 2026-05-23T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-23T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, over-reliance, ai-literacy, student-experience, ai-assistance-reduces-persistence, rag, ai-education]
 sources: ['raw/papers/2605.22687.md']

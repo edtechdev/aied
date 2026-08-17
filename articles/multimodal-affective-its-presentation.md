@@ -1,7 +1,7 @@
 ---
 title: An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
-created: 2026-05-19T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-19T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, affective-computing, multimodal, higher-ed, professional-training, efficacy-study, learning-analytics, retrieval-augmented-generation, llm]
 sources: ['raw/papers/2605.17468.md']

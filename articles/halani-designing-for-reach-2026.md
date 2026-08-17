@@ -1,7 +1,7 @@
 ---
 title: "Designing for Reach: Seven Levers and the Student Alone with AI"
-created: 2026-08-14T03:41:48-04:00
-updated: 2026-08-14
+created: "2026-08-14T03:41:48-04:00"
+updated: "2026-08-14"
 type: article
 tags: [generative-ai, course-design, assessment, formative-assessment, cognitive-offloading, help-seeking, self-regulated-learning, metacognition, mathematics-education, higher-ed, k-12, learning-environment]
 sources: ['raw/papers/halani-designing-for-reach-2026.md']

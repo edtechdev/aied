@@ -1,7 +1,7 @@
 ---
 title: "Integrating Generative Artificial Intelligence into Student Learning: A Systematic Review from a TPACK Perspective"
-created: 2026-08-14T10:37:25-04:00
-updated: 2026-08-14
+created: "2026-08-14T10:37:25-04:00"
+updated: "2026-08-14"
 type: article
 tags: [generative-ai, tpack, ai-tpack, student-experience, higher-ed, k-12, instructional-design, assessment, ai-literacy, meta-analysis, systematic-review, teacher-ai-competency, faculty-development]
 sources: ['raw/papers/edurev-100741-tpack-genai-review.md']

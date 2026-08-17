@@ -1,7 +1,7 @@
 ---
 title: "Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning: A Meta-Analysis"
-created: 2026-08-14T11:06:48-04:00
-updated: 2026-08-14
+created: "2026-08-14T11:06:48-04:00"
+updated: "2026-08-14"
 type: article
 tags: [educational-robotics, social-robots, human-robot-interaction, language-learning, embodied-learning, multimodal, meta-analysis, learning-gains]
 sources: ['raw/papers/edurev-100833-rall-meta.md']

@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy"
-created: 2026-08-13T09:28:20-04:00
-updated: 2026-08-13
+created: "2026-08-13T09:28:20-04:00"
+updated: "2026-08-13"
 type: article
 tags: [simulation, health-education, rag, agentic-ai, professional-training, multimodal, personalized-learning]
 sources: ['raw/papers/2608.08163.md']

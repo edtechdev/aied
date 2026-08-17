@@ -1,7 +1,7 @@
 ---
 title: "AI-mediated authentic assessment and metacognitive reflection: A mixed-methods study of the AAIWA model"
-created: 2026-08-16T10:55:19-04:00
-updated: 2026-08-16
+created: "2026-08-16T10:55:19-04:00"
+updated: "2026-08-16"
 type: article
 tags: [authentic-assessment, feedback, metacognition, teacher-education, pre-service-teachers, academic-writing]
 sources: ['raw/papers/aaiwa-ai-authentic-assessment-metacognition-2026.md']

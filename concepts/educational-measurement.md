@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
-created: 2026-07-28
-updated: 2026-08-15T02:35:44-04:00
+created: "2026-07-28"
+updated: "2026-08-15T02:35:44-04:00"
 type: concept
 tags: [item-response-theory, assessment-validity, educational-nlp, learning-analytics, psychometrically-aware-ai, knowledge-tracing]
 confidence: medium

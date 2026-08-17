@@ -1,7 +1,7 @@
 ---
 title: Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
-created: 2026-07-31T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-31T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, student-experience, stem-education, higher-ed, learning-analytics, ai-education]
 sources: ['raw/papers/2607.24755.md']

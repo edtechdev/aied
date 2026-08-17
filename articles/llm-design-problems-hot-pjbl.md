@@ -1,7 +1,7 @@
 ---
 title: LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
-created: 2026-07-14T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-14T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [project-based-learning, generative-ai, formative-assessment, stem-education, higher-ed, scaffolding, llm]
 sources: ['raw/papers/2607.11032.md']

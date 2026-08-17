@@ -1,7 +1,7 @@
 ---
 title: "Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference"
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [assessment, assessment-validity, formative-assessment, generative-ai, ai-ed-evaluation, educational-theory, equity, human-in-the-loop, automated-grading, ai-literacy]
 sources: ['raw/papers/responsible-assessment-ai-era-stanford-2026.md']

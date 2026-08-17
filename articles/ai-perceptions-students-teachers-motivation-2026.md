@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy"
-created: 2026-08-16T10:55:19-04:00
-updated: 2026-08-16
+created: "2026-08-16T10:55:19-04:00"
+updated: "2026-08-16"
 type: article
 tags: [student-experience, motivation, self-efficacy, k-12, ai-literacy, equity-in-ai-education]
 sources: ['raw/papers/ai-perceptions-students-teachers-motivation-2026.md']

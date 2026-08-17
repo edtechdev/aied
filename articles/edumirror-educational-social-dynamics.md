@@ -1,7 +1,7 @@
 ---
 title: "EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation"
-created: 2026-06-10T12:17:35-04:00
-updated: 2026-08-15
+created: "2026-06-10T12:17:35-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, student-experience, llm, higher-ed, scaffolding, generative-ai, ai-literacy, k-12, stem-education, learning-analytics]
 confidence: high

@@ -1,7 +1,7 @@
 ---
 title: "From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning"
-created: 2026-06-30T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-30T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-literacy, k-12, metacognition, stem-education, student-experience, self-regulated-learning, llm, scaffolding, math-education]
 sources: ['raw/papers/2606.28472.md']

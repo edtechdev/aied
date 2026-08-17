@@ -1,7 +1,7 @@
 ---
 title: "Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis"
-created: 2026-08-01T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-01T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [automated-grading, educational-theory, ground-truth-reliability-aied, learning-analytics, llm, llm-in-education, educational-nlp, automated-assessment]
 sources: ['raw/papers/caeai-human-llm-coding.md']

@@ -1,7 +1,7 @@
 ---
 title: "Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework"
-created: 2026-08-16T04:26:01-04:00
-updated: 2026-08-16
+created: "2026-08-16T04:26:01-04:00"
+updated: "2026-08-16"
 type: article
 tags: [self-regulated-learning, learning-analytics, personalized-learning, agency, generative-ai, learning-theory]
 sources: ['raw/papers/self-directed-growth-generative-ai-learning-analytics.md']

@@ -1,7 +1,7 @@
 ---
 title: "PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions"
-created: 2026-05-19T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-19T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, teacher-role, faculty-development, edtech-platform, ai-literacy, agentic-workflows]
 sources: ['raw/papers/2605.16605.md']

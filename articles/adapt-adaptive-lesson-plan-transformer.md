@@ -1,7 +1,7 @@
 ---
 title: "AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction"
-created: 2026-06-18T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-18T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [personalized-learning, adaptive-learning, k-12, teacher-role, generative-ai, ai-literacy-assessment-misalignment, adaptive-learning-systems, ai-literacy]
 sources: ['raw/papers/2606.17633.md']

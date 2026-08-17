@@ -1,7 +1,7 @@
 ---
 title: Cognitive Agent Compilation for Explicit Problem Solver Modeling
-created: 2026-05-11T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-11T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, adaptive-learning, personalized-learning, pedagogical-llm-training, adaptive-learning-systems, rag, ai-tutoring]
 sources: ['raw/papers/2605.07040.md']

@@ -1,7 +1,7 @@
 ---
 title: "A Bilingual, LLM-Mediated Lecture Companion for Self-Regulated Learning: Architecture, Theoretical Framework, Comparative and Usability Evaluation, and a Pre-Registered Outcomes Protocol"
-created: 2026-08-14T09:17:22-04:00
-updated: 2026-08-14
+created: "2026-08-14T09:17:22-04:00"
+updated: "2026-08-14"
 type: article
 tags: [llm, self-regulated-learning, language-learning, multilingual-learning, accessible-learning, mobile-learning, higher-ed, generative-ai, inclusive-education, global-south]
 sources: ['raw/papers/bilingual-llm-lecture-companion-srl-2026.md']

@@ -1,7 +1,7 @@
 ---
 title: "The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning"
-created: 2026-08-10T17:08:30-04:00
-updated: 2026-08-10
+created: "2026-08-10T17:08:30-04:00"
+updated: "2026-08-10"
 type: article
 tags: [agent, ai-education, ai-tutoring, educational-technology, edtech-platform, evaluation]
 sources: []

@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Interactive Fiction for Educational Use: A Pilot Study of Perceived Comprehensibility, Coherence, and Engagement"
-created: 2026-08-12T12:37:38-04:00
-updated: 2026-08-12
+created: "2026-08-12T12:37:38-04:00"
+updated: "2026-08-12"
 type: article
 tags: [generative-ai, ai-tutoring, student-experience, engagement-metrics, curriculum-design, higher-ed, educational-nlp]
 sources: ['raw/papers/2608.10818.md']

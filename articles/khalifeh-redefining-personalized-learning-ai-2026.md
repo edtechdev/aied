@@ -1,7 +1,7 @@
 ---
 title: "Redefining personalized learning in the artificial intelligence era: an updated systematic review from 2019 to 2025"
-created: 2026-08-15T09:23:09-04:00
-updated: 2026-08-15
+created: "2026-08-15T09:23:09-04:00"
+updated: "2026-08-15"
 type: article
 tags: [personalized-learning, adaptive-learning, intelligent-tutoring, llm, generative-ai, systematic-review, learning-analytics, item-response-theory]
 sources: ['raw/papers/khalifeh-redefining-personalized-learning-ai-2026.md']

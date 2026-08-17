@@ -1,7 +1,7 @@
 ---
 title: Simulating Students' Java Programming Errors with Large Language Models
-created: 2026-06-15T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-15T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, stem-education, student-experience, intelligent-tutoring, learning-analytics, efficacy-study]
 sources: ['raw/papers/2606.14113.md']

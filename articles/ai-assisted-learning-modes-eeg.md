@@ -1,7 +1,7 @@
 ---
 title: An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students
-created: 2026-06-26T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-26T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [k-12, student-experience, llm, generative-ai, engagement-metrics, affective-computing, active-learning, ai-literacy, scaffolding]
 sources: ['raw/papers/2606.26579.md']

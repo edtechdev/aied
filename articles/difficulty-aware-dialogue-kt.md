@@ -1,7 +1,7 @@
 ---
 title: Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues
-created: 2026-05-13T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-13T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [knowledge-tracing, intelligent-tutoring, llm, personalized-learning, feedback-loop]
 sources: ['raw/papers/2605.01097.md']

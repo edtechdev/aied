@@ -1,7 +1,7 @@
 ---
 title: 'It''s OK Because...": The Wild West of Student Rationalization of AI Use in Academic Writing'
-created: 2026-05-29T04:33:04-04:00
-updated: 2026-08-14
+created: "2026-05-29T04:33:04-04:00"
+updated: "2026-08-14"
 type: article
 tags: [academic-integrity, llm, student-experience, higher-ed, writing-education, ai-literacy, ethics, metacognition, plagiarism-detection, educational-policy-ai]
 sources: ['raw/papers/2605.29090.md']

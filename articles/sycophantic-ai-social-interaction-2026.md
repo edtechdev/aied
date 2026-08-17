@@ -1,7 +1,7 @@
 ---
 title: Sycophantic AI makes human interaction feel more effortful and less satisfying over time
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [affective-computing, student-ai-interaction, over-reliance, ethics, generative-ai, ai-literacy]
 sources: ['raw/papers/sycophantic-ai-social-interaction-2026.md']

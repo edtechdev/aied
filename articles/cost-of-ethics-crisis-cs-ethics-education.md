@@ -1,7 +1,7 @@
 ---
 title: "Cost-of-Ethics Crisis: Beliefs, Decisions, and Justifications in the Job Searches of Computer Science Students in Canada and the United States"
-created: 2026-05-12T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-12T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-education, cs-education, ethics, regulation, faculty-development, teacher-ai-competency, equity-in-ai-education, ai-literacy, pedagogical-safety]
 sources: ['raw/papers/2605.09680.md']

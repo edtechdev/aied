@@ -1,7 +1,7 @@
 ---
 title: "Don't believe the hype. AI myths and the need for a critical approach in higher education"
-created: 2026-08-15T16:09:27-04:00
-updated: 2026-08-15
+created: "2026-08-15T16:09:27-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, ai-literacy, critical-thinking, academic-integrity, digital-divide, ai-misuse-learning-harm, governance, faculty-development, regulation]
 sources: ['raw/papers/rudolph-ai-myths-critical-higher-ed.md']

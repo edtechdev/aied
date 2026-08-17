@@ -1,7 +1,7 @@
 ---
 title: "Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation"
-created: 2026-07-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-generated-content, k-12, active-learning, ai-literacy, llm, automated-grading, scaffolding, learning-analytics, formative-assessment]
 sources: ['raw/papers/2607.02361.md']

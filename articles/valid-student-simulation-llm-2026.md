@@ -1,7 +1,7 @@
 ---
 title: "Towards Valid Student Simulation with Large Language Models"
-created: 2026-08-12T22:10:30-04:00
-updated: 2026-08-12
+created: "2026-08-12T22:10:30-04:00"
+updated: "2026-08-12"
 type: article
 tags: [simulating-students, llm, student-modeling, epistemic-state, evaluation, generative-ai, adaptive-learning, ethical-ai]
 sources: ['raw/papers/2601.05473.md']

@@ -1,7 +1,7 @@
 ---
 title: "NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts"
-created: 2026-08-06T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-06T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, stem-education, ai-generated-content, multimodal, content-quality, higher-ed, visualization]
 sources: ['raw/papers/2608.04030.md']

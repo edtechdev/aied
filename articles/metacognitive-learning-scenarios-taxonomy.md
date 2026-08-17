@@ -1,7 +1,7 @@
 ---
 title: "A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints"
-created: 2026-05-26T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-26T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [metacognition, professional-training, adaptive-learning, lifelong-learning, scaffolding, self-regulated-learning, llm]
 sources: ['raw/papers/2605.24142.md']

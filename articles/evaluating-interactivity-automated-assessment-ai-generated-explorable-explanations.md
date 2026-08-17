@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations"
-created: 2026-07-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-generated-content, formative-assessment, learning-analytics, higher-ed, llm, automated-grading, scaffolding, ai-literacy, k-12]
 sources: ['raw/papers/2606.31012.md']

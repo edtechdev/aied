@@ -1,7 +1,7 @@
 ---
 title: Simulating Students or Sycophantic Problem Solving? On Misconception Faithfulness of LLM Simulators
-created: 2026-05-16T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-16T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, benchmark, hallucination-risk, student-experience, pedagogical-safety]
 sources: ['raw/papers/2605.12748.md']

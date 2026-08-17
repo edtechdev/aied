@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives"
-created: 2026-08-16T09:22:41-04:00
+created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
 tags:

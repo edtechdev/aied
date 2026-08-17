@@ -1,7 +1,7 @@
 ---
 title: "Let''s Chat: Leveraging Chatbot Outreach for Improved Course Performance"
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [higher-ed, student-experience, generative-ai, engagement-metrics, rct, rag, llm]
 sources: ['raw/papers/lets-chat-chatbot-outreach-2026.md']

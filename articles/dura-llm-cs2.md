@@ -1,7 +1,7 @@
 ---
 title: "Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2"
-created: 2026-07-02T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-02T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, higher-ed, student-experience, academic-integrity, stem-education, llm-in-education, ai-literacy, rag]
 sources: ['raw/papers/2606.30908.md']

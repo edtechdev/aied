@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning"
-created: 2026-07-02T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-02T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [stem-education, higher-ed, personalized-learning, active-learning, blended-learning, llm-in-education, student-experience, rag, llm]
 sources: ['raw/papers/2607.00979.md']
