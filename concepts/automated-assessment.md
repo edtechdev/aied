@@ -1,6 +1,6 @@
 ---
 title: Automated Assessment
-created: "2026-08-09"
+created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-15T20:02:54-04:00"
 type: concept
 tags: [automated-grading, assessment-validity, formative-assessment, bias-mitigation, teacher-role, automated-essay-scoring, confidence-aware-ai-assessment, llm]

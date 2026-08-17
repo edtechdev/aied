@@ -1,6 +1,6 @@
 ---
 title: Digital Divide
-created: "2026-08-13"
+created: "2026-08-13T18:07:54-04:00"
 updated: "2026-08-15T10:24:06-04:00"
 type: concept
 tags: [equity, ai-literacy, digital-inequality, ai-education, access, inclusion, social-justice]

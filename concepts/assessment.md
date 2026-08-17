@@ -1,6 +1,6 @@
 ---
 title: Assessment
-created: "2026-08-09"
+created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-15T10:19:32-04:00"
 type: concept
 tags: [assessment, assessment-validity, formative-assessment, automated-assessment, educational-measurement, ai-ed-evaluation, academic-integrity, generative-ai, higher-ed, learning-analytics]

@@ -1,6 +1,6 @@
 ---
 title: Research Methods in AIED
-created: "2026-08-13"
+created: "2026-08-13T05:48:37-04:00"
 updated: "2026-08-15T02:35:44-04:00"
 type: concept
 tags: [ai-education, educational-measurement, efficacy-study, rct, benchmark, methodology, evaluation, higher-ed]

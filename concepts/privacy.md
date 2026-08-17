@@ -1,6 +1,6 @@
 ---
 title: Privacy in AI Education
-created: "2026-08-09"
+created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-15T11:21:11-04:00"
 type: concept
 tags: [learning-analytics, personalized-learning, k-12, ethics, regulation, equity, governance, educational-policy-ai]

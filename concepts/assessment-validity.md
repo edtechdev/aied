@@ -1,6 +1,6 @@
 ---
 title: Assessment Validity in AI Education
-created: "2026-08-09"
+created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-15T20:02:54-04:00"
 type: concept
 tags: [authentic-assessment, automated-grading, confidence-aware-ai-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity]

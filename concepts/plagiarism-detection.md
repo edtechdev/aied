@@ -1,6 +1,6 @@
 ---
 title: AI Plagiarism Detection
-created: "2026-05-29"
+created: "2026-05-29T10:44:35-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, over-reliance, assessment, policy-maker, llm, assessment-validity, equity]

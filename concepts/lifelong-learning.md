@@ -1,6 +1,6 @@
 ---
 title: Lifelong Learning and AI
-created: "2026-05-09"
+created: "2026-05-09T10:44:35-04:00"
 updated: "2026-08-15T02:35:44-04:00"
 type: concept
 tags: [lifelong-learning, personalized-learning, professional-training, llm, intelligent-tutoring, higher-ed, generative-ai, adaptive-learning, scaffolding, k-12]

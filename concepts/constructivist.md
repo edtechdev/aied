@@ -1,6 +1,6 @@
 ---
 title: Constructivism
-created: "2026-07-28"
+created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-16T10:19:32-04:00"
 type: concept
 tags: [constructivism, learning-theory, active-learning, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, generative-ai, instructional-design]

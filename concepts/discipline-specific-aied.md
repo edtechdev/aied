@@ -1,6 +1,6 @@
 ---
 title: "AIEd in the Disciplines"
-created: "2026-08-16"
+created: "2026-08-16T09:41:18-04:00"
 updated: "2026-08-16T11:21:11-04:00"
 type: concept
 tags: [ai-education, discipline-specific, stem-education, math-education, physics-education, cs-education, language-learning, writing-education, medical-education, humanities-education]

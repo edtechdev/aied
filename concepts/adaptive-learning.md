@@ -1,6 +1,6 @@
 ---
 title: Adaptive Learning
-created: "2026-08-09"
+created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-15T09:22:41-04:00"
 type: concept
 tags: [knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics]

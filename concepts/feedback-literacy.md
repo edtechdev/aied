@@ -1,6 +1,6 @@
 ---
 title: Feedback Literacy
-created: "2026-08-15"
+created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [feedback-literacy, feedback-loop, ai-feedback-quality, formative-assessment, self-regulated-learning, ai-literacy, peer-review, writing-education]

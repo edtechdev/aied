@@ -1,6 +1,6 @@
 ---
 title: Ethics in AI Education
-created: "2026-08-09"
+created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-15T11:21:11-04:00"
 type: concept
 tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]

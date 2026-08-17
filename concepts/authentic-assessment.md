@@ -1,6 +1,6 @@
 ---
 title: Authentic Assessment
-created: "2026-08-13"
+created: "2026-08-13T19:55:03-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [authentic-assessment, assessment, assessment-validity, formative-assessment, self-regulated-learning, academic-integrity, generative-ai, higher-ed, metacognition]
