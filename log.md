@@ -1,3 +1,8 @@
+## [2026-08-16] fix | Recently Updated Concepts sidebar was alphabetical — add created tiebreaker
+
+- Concepts updated in the same bulk commit share identical `updated` timestamps, so the right sidebar's "Recently Updated Concepts" sorted ties alphabetically (astro default getCollection order).
+- Fixed `src/layouts/BaseLayout.astro`: sort reverse-chronological by `updated`, breaking ties on `created` (most-recently-created first), producing a non-alphabetical, meaningful order.
+- Verify: discipline-specific-aied / teacher-education (created 08-16) now precede ai-education (created 08-09) instead of alphabetical ai-education-first.
 ## [2026-08-16] fix | frontmatter dates showing next day (UTC shift) — quote created/updated + fix display
 
 - Root cause: YAML parses unquoted ISO timestamps like `2026-08-16T20:02:54-04:00` into a JS Date in UTC, so the article page/sidebar showed the NEXT calendar day (Aug 17). Fixed by QUOTING all `created`/`updated` frontmatter values (all 696 articles + 144 concepts) so YAML keeps them as strings; they now display the correct Eastern date (e.g. 2026-08-16).
