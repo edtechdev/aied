@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-17T11:30:00-04:00"
+updated: "2026-08-17T18:05:00-04:00"
 type: concept
 tags: [cognitive-offloading, over-reliance, ai-literacy, trust-calibration, student-experience, generative-ai, metacognition, self-regulated-learning]
 confidence: high
@@ -54,6 +54,7 @@ The wiki's research documents over-reliance as one of the most consequential ris
 - **Metacognitive preservation:** [[vibe-compiler-metacognition-genai-agency-2026|The Synthesis-Analysis Reciprocity Model]] proposes tools that preserve human epistemic agency by structuring AI interaction around human analysis cycles rather than AI generation cycles.
 - **The metacognitive mechanics of overuse:** the beliefs-vs-experiences framework explains *why* students over-offload even when it hurts them — people offload impulsively, and pre-existing metacognitive *beliefs* anchor behavior faster than task *experiences* can correct it — so the antidote to over-reliance is metacognitive, not merely restrictive.
 - **Over-reliance is trainable via calibration training:** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] show reminder bias — the laboratory analogue of over-reliance — can be reduced with a brief metacognitive intervention (five practice trials pairing a prediction with feedback), correcting calibration in both directions. This implies the antidote to over-reliance is not merely restrictive rules but **calibration training that makes students accurate about what they can actually do unaided**.
+- **Field evidence: AI that coaches vs. AI that answers.** [[making-ai-tutoring-productive-mastery-math-2026|NUMI (Oreopoulos et al. 2026)]] found that AI support that coached rather than gave answers slowed students down but reduced effort-avoidance — improving next-attempt correctness after mistakes with more time per question (a "productive slowdown") — while [[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo (Oreopoulos & Low 2026)]] showed that without structure making mistakes consequential, students default to shallow use (bare answers, prompt clicks) and gains match practice without AI. Both confirm that offloading's harm is contingent on **how** AI is used and designed, not just on access.
 
 ### The CLT framework
 
@@ -84,6 +85,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[formative-assessment]]
 
 ## Connected Articles
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning

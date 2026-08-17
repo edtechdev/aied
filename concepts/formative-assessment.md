@@ -94,6 +94,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[behaviorism]]
 
 ## Connected Articles
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of GenAI
