@@ -1,7 +1,7 @@
 ---
 title: "WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators"
-created: 2026-06-23T07:38:00-04:00
-updated: 2026-08-15
+created: "2026-06-23T07:38:00-04:00"
+updated: "2026-08-15"
 type: article
 tags: [teacher-role, k-12, stem-education, scaffolding, ai-literacy, higher-ed, generative-ai, llm, student-experience, intelligent-tutoring]
 confidence: medium

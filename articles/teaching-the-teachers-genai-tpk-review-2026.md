@@ -1,7 +1,7 @@
 ---
 title: "Teaching the teachers: A systematic review of genAI-specific technological pedagogical knowledge (TPK) in teacher education"
-created: 2026-08-16T10:55:19-04:00
-updated: 2026-08-16
+created: "2026-08-16T10:55:19-04:00"
+updated: "2026-08-16"
 type: article
 tags: [teacher-education, tpack, generative-ai, professional-development, ethics]
 sources: ['raw/papers/teaching-the-teachers-genai-tpk-review-2026.md']

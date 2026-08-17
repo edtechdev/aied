@@ -1,7 +1,7 @@
 ---
 title: Confidence-Aware Automatic Short Answer Grading
-created: 2026-07-29T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-29T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [assessment, automated-grading, confidence, psychometrically-aware-ai, hybrid-e-assessment-semi-automated-grading, retrieval-augmented-generation, ai-ed-evaluation]
 sources: ['raw/papers/cong-confidence-asag-2026.md']

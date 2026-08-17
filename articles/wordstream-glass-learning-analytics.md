@@ -1,7 +1,7 @@
 ---
 title: "Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics"
-created: 2026-06-18T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-18T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [learning-analytics, k-12, higher-ed, qualitative-research, edtech-platform, student-experience, administrator, visualization]
 sources: ['raw/papers/2606.18692.md']

@@ -1,7 +1,7 @@
 ---
 title: Reexamining the Cold-Start Problem in Knowledge Tracing Models and Implications for SafeInsights
-created: 2026-06-10T12:17:35-04:00
-updated: 2026-08-15
+created: "2026-06-10T12:17:35-04:00"
+updated: "2026-08-15"
 type: article
 tags: [knowledge-tracing, learning-analytics, student-modeling, benchmark, higher-ed, llm, generative-ai, student-experience, ai-literacy, stem-education]
 confidence: high

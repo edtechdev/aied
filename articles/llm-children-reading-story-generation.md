@@ -1,7 +1,7 @@
 ---
 title: Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety
-created: 2026-05-14T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-14T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, language-learning, k-12, ai-literacy, generative-ai, equity-in-ai-education, k-12, scaffolding, personalized-learning]
 sources: ['raw/papers/2605.13709.md']

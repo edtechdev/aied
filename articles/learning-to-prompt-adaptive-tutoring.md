@@ -1,7 +1,7 @@
 ---
 title: "Learning to Prompt: Improving Student Engagement with Adaptive LLM-based High-School Tutoring"
-created: 2026-06-19T04:33:04-04:00
-updated: 2026-08-14
+created: "2026-06-19T04:33:04-04:00"
+updated: "2026-08-14"
 type: article
 tags: [intelligent-tutoring, llm, k-12, personalized-learning, scaffolding, adaptive-learning, student-experience, prompt-engineering]
 sources: ['raw/papers/2606.20138.md']

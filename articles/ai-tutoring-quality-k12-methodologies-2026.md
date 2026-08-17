@@ -1,7 +1,7 @@
 ---
 title: "Methodologies for Improving the Quality of AI Tutoring in K-12 Education"
-created: 2026-08-13T09:28:20-04:00
-updated: 2026-08-13
+created: "2026-08-13T09:28:20-04:00"
+updated: "2026-08-13"
 type: article
 tags: [ai-tutoring, intelligent-tutoring, k-12, llm, personalized-learning, efficacy-study, engagement-metrics, edtech-platform]
 sources: ['raw/papers/2608.11259.md']

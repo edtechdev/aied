@@ -1,7 +1,7 @@
 ---
 title: "The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning"
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, ai-literacy, writing-education, higher-ed, agentic-ai, equity, student-experience, scaffolding, rag, regulation]
 sources: ['raw/papers/caeai-2026-agency-gap-ai-writing.md']

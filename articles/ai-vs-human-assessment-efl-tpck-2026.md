@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated versus Human-Developed Assessment Tasks in EFL Context: Insights from TPCK Model"
-created: 2026-08-16T10:19:32-04:00
-updated: 2026-08-16
+created: "2026-08-16T10:19:32-04:00"
+updated: "2026-08-16"
 type: article
 tags: [automated-assessment, language-learning, tpack, ai-feedback-quality, human-ai-collaboration, assessment]
 sources: ['raw/papers/ai-vs-human-assessment-efl-tpck-2026.md']

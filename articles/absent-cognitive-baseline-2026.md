@@ -1,7 +1,7 @@
 ---
 title: "The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment"
-created: 2026-08-10T09:10:02-04:00
-updated: 2026-08-10
+created: "2026-08-10T09:10:02-04:00"
+updated: "2026-08-10"
 type: article
 tags: [metacognition, generative-ai, cognitive-offloading, self-regulated-learning, student-experience, higher-ed, ai-education, k-12]
 sources: ['raw/papers/absent-cognitive-baseline-2026.md']

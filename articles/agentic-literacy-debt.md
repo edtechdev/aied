@@ -1,7 +1,7 @@
 ---
 title: "Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named"
-created: 2026-05-28T04:33:04-04:00
-updated: 2026-08-14
+created: "2026-05-28T04:33:04-04:00"
+updated: "2026-08-14"
 type: article
 tags: [agentic-ai, ai-literacy, equity, generative-ai, higher-ed, k-12, policy-maker, llm, governance, trust-calibration, ethics]
 sources: ['raw/papers/2605.27396.md']

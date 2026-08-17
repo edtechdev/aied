@@ -1,7 +1,7 @@
 ---
 title: Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, professional-training, cognitive-offloading, over-reliance, lifelong-learning, human-in-the-loop, human-ai-collaboration, ai-education]
 sources: ['raw/papers/2607.28650.md']

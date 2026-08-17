@@ -1,7 +1,7 @@
 ---
 title: Large Language Models (LLMs)
-created: 2026-08-09
-updated: 2026-08-15T20:02:54-04:00
+created: "2026-08-09"
+updated: "2026-08-15T20:02:54-04:00"
 type: concept
 tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, ai-tutoring, automated-grading, ai-literacy]
 confidence: high

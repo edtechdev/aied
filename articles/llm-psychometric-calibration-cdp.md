@@ -1,7 +1,7 @@
 ---
 title: "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach"
-created: 2026-07-30T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-30T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, formative-assessment, adaptive-learning, student-experience, benchmark, higher-ed, knowledge-tracing, personalized-learning, ai-literacy]
 sources: ['raw/papers/2607.26317.md']

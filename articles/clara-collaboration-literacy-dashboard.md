@@ -1,7 +1,7 @@
 ---
 title: "CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy"
-created: 2026-05-19T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-19T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [learning-analytics, generative-ai, llm, higher-ed, edtech-platform, collaborative-learning, retrieval-augmented-generation, knowledge-tracing, visualization]
 sources: ['raw/papers/2605.17259.md']

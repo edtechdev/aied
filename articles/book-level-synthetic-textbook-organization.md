@@ -1,7 +1,7 @@
 ---
 title: "Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training"
-created: 2026-07-31T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-31T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, llm, personalized-learning, educational-theory]
 sources: ['raw/papers/2607.28109.md']

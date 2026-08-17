@@ -1,7 +1,7 @@
 ---
 title: Adult Learning
-created: 2026-08-06
-updated: 2026-08-15T09:41:18-04:00
+created: "2026-08-06"
+updated: "2026-08-15T09:41:18-04:00"
 type: concept
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation]
 confidence: medium

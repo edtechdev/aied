@@ -1,7 +1,7 @@
 ---
 title: Language Learning
-created: 2026-08-09
-updated: 2026-08-15T10:19:32-04:00
+created: "2026-08-09"
+updated: "2026-08-15T10:19:32-04:00"
 type: concept
 tags: [language-learning, ai-education, generative-ai, writing-education, higher-ed, k-12, equity]
 confidence: high

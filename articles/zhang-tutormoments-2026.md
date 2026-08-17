@@ -1,7 +1,7 @@
 ---
 title: "When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle"
-created: 2026-08-08T04:33:04-04:00
-updated: 2026-08-08
+created: "2026-08-08T04:33:04-04:00"
+updated: "2026-08-08"
 type: article
 tags: [intelligent-tutoring, scaffolding, llm, llm-evaluation, k-12, math-education, benchmark, ai-tutoring, teacher-role, over-reliance]
 sources: ['raw/papers/zhang-tutormoments-2026.md']

@@ -1,7 +1,7 @@
 ---
 title: Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment
-created: 2026-06-16T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-16T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, edtech-platform, higher-ed, stem-education, personalized-learning, learning-analytics, student-experience, rag, llm]
 sources: ['raw/papers/2606.15572.md']

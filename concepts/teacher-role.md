@@ -1,7 +1,7 @@
 ---
 title: Teacher Role in AI-Enhanced Education
-created: 2026-08-09
-updated: 2026-08-15T10:55:19-04:00
+created: "2026-08-09"
+updated: "2026-08-15T10:55:19-04:00"
 type: concept
 tags: [faculty-development, teacher-ai-competency, ai-literacy, k-12, higher-ed, scaffolding, instructional-design, ai-tutoring]
 confidence: high

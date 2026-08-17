@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
-created: 2026-05-08
-updated: 2026-08-15T10:55:19-04:00
+created: "2026-05-08"
+updated: "2026-08-15T10:55:19-04:00"
 type: concept
 tags: [ai-literacy, faculty-development, k-12, higher-ed, generative-ai, student-experience, llm, equity-in-ai-education, teacher-role, intelligent-tutoring, self-efficacy]
 confidence: high

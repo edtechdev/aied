@@ -1,7 +1,7 @@
 ---
 title: "Coach not crutch: Evidence that AI can improve writing skill despite reducing effort"
-created: 2026-08-15T18:32:07-04:00
-updated: 2026-08-15
+created: "2026-08-15T18:32:07-04:00"
+updated: "2026-08-15"
 type: article
 tags: [writing-education, over-reliance, cognitive-offloading, self-regulated-learning, ai-feedback-quality, learning-gains, ai-literacy]
 sources: ['raw/papers/coach-not-crutch-ai-writing.md']

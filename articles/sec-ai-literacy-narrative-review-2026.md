@@ -1,7 +1,7 @@
 ---
 title: "Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: a narrative review"
-created: 2026-08-10T17:33:14-04:00
-updated: 2026-08-13
+created: "2026-08-10T17:33:14-04:00"
+updated: "2026-08-13"
 type: article
 tags: [ai-literacy, affective-computing, teacher-ai-competency, ethics, ai-education, higher-ed, social-emotional-learning, self-regulated-learning]
 sources: ['raw/papers/10.1007_s40692-025-00354-1.md']

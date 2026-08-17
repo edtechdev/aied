@@ -13,6 +13,8 @@ const concept = allConcepts.find(c => c.id.replace('.md', '') === slug);
 if (!concept) return Astro.redirect('/aied/');
 
 const { title, tags, confidence, created, updated } = concept.data;
+const createdDisplay = (created || '').split('T')[0];
+const updatedDisplay = (updated || created || '').split('T')[0];
 const body = concept.body || '';
 
 function renderMarkdown(text: string, pageTitle: string): string {
@@ -143,7 +145,7 @@ const confIcon = { high: '●', medium: '◐', low: '○' }[confidence] || '○'
       <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;">🏷️ Concept</p>
       <h1>{title}</h1>
       <div style="color:var(--muted-color);font-size:0.9rem">
-        {confIcon} {confidence} · created {created}{updated ? ` · updated ${updated}` : ''}
+        {confIcon} {confidence} · created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
         {(tags || []).map((tag: string, i: number) => (
           <>{i > 0 ? ', ' : ' · '}<span class="tag-chip">{tag}</span></>
         ))}

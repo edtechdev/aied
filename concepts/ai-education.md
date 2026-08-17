@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
-created: 2026-08-09
-updated: 2026-08-16T11:21:11-04:00
+created: "2026-08-09"
+updated: "2026-08-16T11:21:11-04:00"
 type: concept
 tags: [ai-education, ai-literacy, ai-tutoring, generative-ai, llm, higher-ed, k-12, teacher-role, educational-policy-ai, assessment, equity]
 confidence: high

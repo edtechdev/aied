@@ -1,7 +1,7 @@
 ---
 title: "Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration"
-created: 2026-08-08T04:33:04-04:00
-updated: 2026-08-08
+created: "2026-08-08T04:33:04-04:00"
+updated: "2026-08-08"
 type: article
 tags: [physics-education, trust-calibration, ai-literacy, student-experience, higher-ed, stem-education]
 sources: ['raw/papers/fouad-bentley-trust-utility-gap-2026.md']

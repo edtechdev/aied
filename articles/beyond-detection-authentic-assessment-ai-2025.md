@@ -1,7 +1,7 @@
 ---
 title: "Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World"
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-14
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-14"
 type: article
 tags: [authentic-assessment, ai-detection, academic-integrity, assessment, generative-ai, higher-ed, self-regulated-learning, metacognition, ai-literacy, assessment-validity]
 sources: ['raw/papers/beyond-detection-authentic-assessment-ai-2025.md']

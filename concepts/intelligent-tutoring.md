@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
-created: 2026-08-09
-updated: 2026-08-15T09:22:41-04:00
+created: "2026-08-09"
+updated: "2026-08-15T09:22:41-04:00"
 type: concept
 tags: [ai-education, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback-loop, higher-ed, k-12, stem-education]
 confidence: high

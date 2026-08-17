@@ -1,7 +1,7 @@
 ---
 title: "Teacher-Authored Prompts for Configuring Student-AI Dialogue: K-12 Classroom Implementation"
-created: 2026-06-04T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-04T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [k-12, student-ai-interaction, teacher-role, scaffolding, generative-ai, llm, formative-assessment, automated-grading, higher-ed]
 sources: ['raw/papers/2604.16738.md']

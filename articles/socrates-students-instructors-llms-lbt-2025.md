@@ -1,7 +1,7 @@
 ---
 title: "Learning by Teaching: Engaging Students as Instructors of Large Language Models in Computer Science Education"
-created: 2026-08-14T10:45:34-04:00
-updated: 2026-08-14
+created: "2026-08-14T10:45:34-04:00"
+updated: "2026-08-14"
 type: article
 tags: [learning-by-teaching, teachable-agents, generative-ai, cs-education, programming-education, active-learning, over-reliance, llm]
 sources: ['raw/papers/raw-yang-socrates-lbt.md']

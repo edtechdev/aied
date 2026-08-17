@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Reliability in Programming Knowledge Tracing: A Re-evaluation of Attention-augmented Models and Experimental Protocols"
-created: 2026-05-13T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-13T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [knowledge-tracing, automated-grading, benchmark, learning-analytics]
 sources: ['raw/papers/2605.04727.md']

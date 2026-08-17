@@ -1,7 +1,7 @@
 ---
 title: Explainable Artificial Intelligence in Education (XAI-ED)
-created: 2026-05-21T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-21T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, learning-analytics, bias-mitigation, equity, privacy, metacognition, teacher-role, student-experience, adaptive-learning, ai-literacy]
 sources: ['raw/papers/khosravi-xai-education-2022.md']

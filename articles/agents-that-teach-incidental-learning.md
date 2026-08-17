@@ -1,7 +1,7 @@
 ---
 title: "Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development"
-created: 2026-07-08T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-08T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [agentic-ai, cs-education, generative-ai, higher-ed, llm, over-reliance, professional-training, self-regulated-learning, ai-literacy, rag]
 sources: ['raw/papers/2607.06101.md']

@@ -1,7 +1,7 @@
 ---
 title: The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
-created: 2026-06-10T12:17:35-04:00
-updated: 2026-08-15
+created: "2026-06-10T12:17:35-04:00"
+updated: "2026-08-15"
 type: article
 tags: [professional-training, llm, generative-ai, intelligent-tutoring, student-experience, higher-ed, ai-literacy, scaffolding, k-12, stem-education]
 confidence: high

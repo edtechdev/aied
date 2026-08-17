@@ -1,7 +1,7 @@
 ---
 title: "From authentic products to authenticated processes: authentic assessment in AI-rich higher education"
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [authentic-assessment, assessment, assessment-validity, ai-ed-evaluation, generative-ai, academic-integrity, higher-ed, ai-literacy, formative-assessment, llm]
 sources: ['raw/papers/authentic-products-authenticated-processes-2026.md']

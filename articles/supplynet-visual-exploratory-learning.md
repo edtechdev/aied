@@ -1,7 +1,7 @@
 ---
 title: "SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation"
-created: 2026-06-24T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-24T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, active-learning, professional-training, simulation-based-learning, visualization]
 sources: ['raw/papers/2606.24694.md']

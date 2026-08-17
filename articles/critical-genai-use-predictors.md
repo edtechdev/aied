@@ -1,7 +1,7 @@
 ---
 title: GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-literacy, higher-ed, student-experience, over-reliance, educational-theory, ai-literacy-assessment-misalignment, metacognition]
 sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']

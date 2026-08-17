@@ -1,7 +1,7 @@
 ---
 title: Exploring the Value of Diverse LLM Explanations in Introductory Programming
-created: 2026-06-30T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-30T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [feedback-loop, higher-ed, llm, scaffolding, stem-education, student-experience]
 sources: ['raw/papers/2606.28882.md']

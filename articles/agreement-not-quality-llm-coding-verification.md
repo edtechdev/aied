@@ -1,7 +1,7 @@
 ---
 title: "Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth"
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, equity, research-methods, teacher-ai-collaboration, human-ai-collaboration, ai-literacy]
 sources: ['raw/papers/2607.28890.md']

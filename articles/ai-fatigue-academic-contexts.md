@@ -1,7 +1,7 @@
 ---
 title: "Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory"
-created: 2026-05-25T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-25T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [student-experience, over-reliance, ai-literacy, higher-ed, affective-computing, self-regulated-learning]
 sources: ['raw/papers/2605.23123.md']

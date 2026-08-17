@@ -1,7 +1,7 @@
 ---
 title: "LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning"
-created: 2026-05-15T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-15T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [personalized-learning, adaptive-learning, llm, generative-ai, higher-ed, scaffolding, agentic-ai-ecosystems-higher-education, adaptive-learning-systems, metacognition, agentic-ai]
 sources: ['raw/papers/2605.06257.md']

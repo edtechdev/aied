@@ -1,7 +1,7 @@
 ---
 title: "Beyond MOOCs: How technical and structural factors shape learner engagement, retention and inclusivity across online learning platforms"
-created: 2026-08-10T17:08:30-04:00
-updated: 2026-08-10
+created: "2026-08-10T17:08:30-04:00"
+updated: "2026-08-10"
 type: article
 tags: [engagement-metrics, ai-education, ai-tutoring, educational-technology, edtech-platform, evaluation]
 sources: []

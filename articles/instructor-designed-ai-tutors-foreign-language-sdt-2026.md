@@ -1,7 +1,7 @@
 ---
 title: "Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory"
-created: 2026-08-14T09:42:37-04:00
-updated: 2026-08-14
+created: "2026-08-14T09:42:37-04:00"
+updated: "2026-08-14"
 type: article
 tags: [language-learning, generative-ai, ai-tutoring, self-regulated-learning, motivation, higher-ed, personalized-learning, prompt-engineering, student-experience]
 sources: ['raw/papers/higheredu-05-00078.md']

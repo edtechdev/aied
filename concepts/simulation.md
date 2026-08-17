@@ -1,7 +1,7 @@
 ---
 title: Simulation
-created: 2026-08-12
-updated: 2026-08-15T09:22:41-04:00
+created: "2026-08-12"
+updated: "2026-08-15T09:22:41-04:00"
 type: concept
 tags: [active-learning, adaptive-learning, pedagogical-agent, skill-development, reinforcement-learning, experiential-learning]
 confidence: high

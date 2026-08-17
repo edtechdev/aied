@@ -1,7 +1,7 @@
 ---
 title: Trust in AI
-created: 2026-08-13
-updated: 2026-08-15T03:04:03-04:00
+created: "2026-08-13"
+updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [trust, ai-literacy, social-robots, human-robot-interaction, epistemic-trust, critical-thinking, ai-tutoring]
 confidence: high

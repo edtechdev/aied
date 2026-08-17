@@ -1,7 +1,7 @@
 ---
 title: "Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models"
-created: 2026-07-31T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-31T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, intelligent-tutoring, automated-grading, benchmark, feedback-loop, adaptive-learning, student-experience, scaffolding]
 sources: ['raw/papers/2607.28128.md']

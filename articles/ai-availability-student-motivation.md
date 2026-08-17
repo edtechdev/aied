@@ -1,7 +1,7 @@
 ---
 title: 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming'
-created: 2026-06-30T04:33:04-04:00
-updated: 2026-08-12
+created: "2026-06-30T04:33:04-04:00"
+updated: "2026-08-12"
 type: article
 tags: [academic-integrity, higher-ed, llm, over-reliance, student-experience, ai-assistance-reduces-persistence]
 sources: ['raw/papers/2606.30480.md']

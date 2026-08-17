@@ -1,7 +1,7 @@
 ---
 title: "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most"
-created: 2026-08-15T15:53:50-04:00
-updated: 2026-08-15
+created: "2026-08-15T15:53:50-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-tutoring, intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement]
 sources: ['raw/papers/yasir-llm-tutoring-agents-2026.md']

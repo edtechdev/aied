@@ -1,7 +1,7 @@
 ---
 title: "Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era"
-created: 2026-08-16T09:22:41-04:00
-updated: 2026-08-16
+created: "2026-08-16T09:22:41-04:00"
+updated: "2026-08-16"
 type: article
 tags: [embodied-learning, higher-order-thinking, critical-thinking, constructivist, sustainable-development, higher-ed, learning-theory, cognitive-offloading]
 sources: ['raw/papers/zhu-e3-hot-embodied-intelligence-sustainable-learning.md']

@@ -1,7 +1,7 @@
 ---
 title: Storytelling in Education
-created: 2026-08-13
-updated: 2026-08-15T02:35:44-04:00
+created: "2026-08-13"
+updated: "2026-08-15T02:35:44-04:00"
 type: concept
 tags: [storytelling, engagement, motivation, social-robots, creativity, language-learning, k-12]
 confidence: high

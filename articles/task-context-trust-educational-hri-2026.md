@@ -1,7 +1,7 @@
 ---
 title: "What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI"
-created: 2026-08-13T18:49:42-04:00
-updated: 2026-08-13
+created: "2026-08-13T18:49:42-04:00"
+updated: "2026-08-13"
 type: article
 tags: [social-robots, human-robot-interaction, trust, educational-robotics, higher-ed, social-cognitive]
 sources: ['raw/papers/discobot-task-context-trust-educational-hri-2026.md']

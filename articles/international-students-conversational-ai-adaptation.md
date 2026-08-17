@@ -1,7 +1,7 @@
 ---
 title: Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
-created: 2026-05-15T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-15T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [higher-ed, student-experience, generative-ai, llm, equity, culturally-relevant-pedagogy, equity-in-ai-education, human-in-the-loop-ai, rag]
 sources: ['raw/papers/2605.15127.md']

@@ -1,7 +1,7 @@
 ---
 title: "The University AI Didn''t Replace: Rethinking Universities in the AI Era"
-created: 2026-05-08T04:33:04-04:00
-updated: 2026-08-12
+created: "2026-05-08T04:33:04-04:00"
+updated: "2026-08-12"
 type: article
 tags: [higher-ed, teacher-role, administrator, policy-maker, regulation, teacher-ai-competency, faculty-development-genai, student-experience, assessment-validity]
 sources: ['raw/papers/2605.07056.md']

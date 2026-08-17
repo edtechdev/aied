@@ -1,7 +1,7 @@
 ---
 title: "AI tools in Arab University English classrooms: Looking back and forward"
-created: 2026-07-09T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-09T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [language-learning, higher-ed, writing-education, ai-literacy, over-reliance, teacher-role, generative-ai, scaffolding]
 sources: ['raw/papers/2607.05403.md']

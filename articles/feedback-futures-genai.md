@@ -1,7 +1,7 @@
 ---
 title: "Feedback futures: beyond the limits of human and GenAI capacities"
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, feedback-loop, higher-ed, ai-literacy, educational-theory, equity, equity-in-ai-education, human-in-the-loop-ai, rag, ai-education]
 sources: ['raw/papers/tandf-2026-feedback-futures-genai.md']

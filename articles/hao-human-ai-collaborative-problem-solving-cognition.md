@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective"
-created: 2026-08-16T09:22:41-04:00
-updated: 2026-08-16
+created: "2026-08-16T09:22:41-04:00"
+updated: "2026-08-16"
 type: article
 tags: [distributed-cognition, human-ai-collaboration, collaborative-problem-solving, self-regulated-learning, co-regulation, learning-analytics, higher-ed]
 sources: ['raw/papers/hao-human-ai-collaborative-problem-solving-cognition.md']

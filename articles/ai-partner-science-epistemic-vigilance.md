@@ -1,7 +1,7 @@
 ---
 title: "AI as a Partner in Learning about, Doing, and Engaging with Science: Vigilance as the Key to Productive Augmentation"
-created: 2026-06-16T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-16T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [personalized-learning, scaffolding, k-12, higher-ed, hallucination-risk, equity, learning-analytics, student-experience, llm]
 sources: ['raw/papers/2606.16822.md']

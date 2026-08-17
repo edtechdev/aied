@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
-created: 2026-08-09
-updated: 2026-08-15T10:24:06-04:00
+created: "2026-08-09"
+updated: "2026-08-15T10:24:06-04:00"
 type: concept
 tags: [ai-education, generative-ai, multimodal, llm, ai-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
 confidence: high

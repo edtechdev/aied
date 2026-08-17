@@ -1,7 +1,7 @@
 ---
 title: "Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology"
-created: 2026-08-15T16:09:27-04:00
-updated: 2026-08-15
+created: "2026-08-15T16:09:27-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, ai-literacy, feedback-loop, ai-feedback-quality, assessment, critical-thinking, academic-integrity, higher-ed, writing-education]
 sources: ['raw/papers/richmond-nicholls-genai-psych-feedback-ai-literacies.md']

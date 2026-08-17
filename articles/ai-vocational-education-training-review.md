@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness"
-created: 2026-08-01T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-01T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [professional-training, efficacy-study, intelligent-tutoring, generative-ai, adaptive-learning, simulation-based-learning, regulation, constructivist]
 sources: ['raw/papers/caeai-ai-vet-review.md']

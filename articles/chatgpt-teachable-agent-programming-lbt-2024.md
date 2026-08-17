@@ -1,7 +1,7 @@
 ---
 title: "Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education"
-created: 2026-08-14T10:45:34-04:00
-updated: 2026-08-14
+created: "2026-08-14T10:45:34-04:00"
+updated: "2026-08-14"
 type: article
 tags: [learning-by-teaching, teachable-agents, generative-ai, programming-education, cs-education, self-regulated-learning, scaffolding, active-learning]
 sources: ['raw/papers/raw-chen-lbt-chatgpt.md']

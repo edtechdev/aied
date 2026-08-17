@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Implementation of the Pepper Social Robot in Formal Education: A Scoping Review"
-created: 2026-08-13T19:01:35-04:00
-updated: 2026-08-13
+created: "2026-08-13T19:01:35-04:00"
+updated: "2026-08-13"
 type: article
 tags: [social-robots, educational-robotics, human-robot-interaction, k-12, higher-ed, scoping-review, teacher-role, inclusive-education]
 sources: ['raw/papers/10.1007_s44322-026-00072-1.md']

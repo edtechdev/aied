@@ -1,7 +1,7 @@
 ---
 title: "Generative AI without guardrails can harm learning: Evidence from high school mathematics"
-created: 2026-07-19T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-19T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, over-reliance, stem-education, k-12, rct, learning-gains, intelligent-tutoring, scaffolding, ai-assistance-reduces-persistence, student-experience]
 sources: ['raw/papers/pnas-2025-guardrails-harm-learning.md']

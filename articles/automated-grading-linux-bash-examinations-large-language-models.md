@@ -1,7 +1,7 @@
 ---
 title: Automated Grading of Linux/Bash Examinations Using Large Language Models
-created: 2026-07-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, automated-grading, cs-education, formative-assessment, higher-ed, scaffolding, learning-analytics, ai-literacy, k-12]
 sources: ['raw/papers/2607.02432.md']

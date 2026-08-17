@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
-created: 2026-08-09
-updated: 2026-08-15T18:05:58-04:00
+created: "2026-08-09"
+updated: "2026-08-15T18:05:58-04:00"
 type: concept
 tags: [assessment, ai-ed-evaluation, student-experience, higher-ed, k-12]
 confidence: high

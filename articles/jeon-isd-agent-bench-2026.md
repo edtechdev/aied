@@ -1,7 +1,7 @@
 ---
 title: ISD Agent Benchmark
-created: 2026-07-29T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-29T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [agentic-ai, ai-ed-evaluation, benchmark, rag, llm, agentic-workflows, ai-education]
 sources: ['raw/papers/jeon-isd-agent-bench-2026.md']

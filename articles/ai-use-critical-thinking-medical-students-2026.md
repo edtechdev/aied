@@ -1,7 +1,7 @@
 ---
 title: "From AI Use to Critical Thinking Among Medical Students: A Moderated Mediation Perspective on Cognitive Load and Self-Regulated Learning"
-created: 2026-08-13T05:14:23-04:00
-updated: 2026-08-13
+created: "2026-08-13T05:14:23-04:00"
+updated: "2026-08-13"
 type: article
 tags: [critical-thinking, cognitive-load-theory, self-regulated-learning, generative-ai, higher-ed, ai-literacy, cognitive-offloading, medical-education]
 sources: ['raw/papers/10.3389_fpsyg.2026.1883053.md']

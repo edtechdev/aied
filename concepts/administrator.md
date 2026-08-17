@@ -1,7 +1,7 @@
 ---
 title: AI from the Administrator Perspective
-created: 2026-05-09
-updated: 2026-08-15T11:21:11-04:00
+created: "2026-05-09"
+updated: "2026-08-15T11:21:11-04:00"
 type: concept
 tags: [administrator, policy-maker, higher-ed, generative-ai, llm, student-experience, ai-literacy, stem-education, scaffolding, learning-analytics]
 confidence: medium

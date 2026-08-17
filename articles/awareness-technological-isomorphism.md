@@ -1,7 +1,7 @@
 ---
 title: "Awareness of Technological Isomorphism: AI in Elementary Math"
-created: 2026-06-09T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-09T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [k-12, ai-literacy, stem-education, personalized-learning, metacognition, scaffolding]
 sources: ['raw/papers/2606.09598.md']
