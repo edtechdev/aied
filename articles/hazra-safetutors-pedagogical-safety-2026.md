@@ -3,7 +3,8 @@ title: "SafeTutors: Pedagogical Safety in AI Tutoring"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [pedagogical-safety, k-12, ai-tutoring, llm, scaffolding, regulation]
+tags: [pedagogical-safety, k-12, intelligent-tutoring, llm, scaffolding, regulation]
+
 sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
 confidence: medium
 ---
@@ -24,7 +25,7 @@ confidence: medium
 
 ## Implications
 
-SafeTutors fundamentally reframes the conversation around [[pedagogical-safety]] and [[ai-tutor-safety-harms]]. The dominant paradigm has been to evaluate AI tutors on problem-solving accuracy and generic safety (toxicity, refusal), but SafeTutors demonstrates that a tutor can be technically accurate and "safe" by conventional metrics while systematically undermining learning. The benchmark's central insight — that tutoring harm is qualitatively different from content harm — has major implications for [[ai-tutoring]] regulation and deployment.
+SafeTutors fundamentally reframes the conversation around [[pedagogical-safety]] and [[ai-tutor-safety-harms]]. The dominant paradigm has been to evaluate AI tutors on problem-solving accuracy and generic safety (toxicity, refusal), but SafeTutors demonstrates that a tutor can be technically accurate and "safe" by conventional metrics while systematically undermining learning. The benchmark's central insight — that tutoring harm is qualitatively different from content harm — has major implications for [[intelligent-tutoring|AI Tutoring]] regulation and deployment.
 
 The multi-turn degradation finding is particularly alarming for real-world deployment. Most tutoring interactions extend over multiple turns, yet the evaluation community has largely relied on single-turn benchmarks. SafeTutors provides evidence that this practice is dangerously misleading. Systems like [[eduzone-llm-safety-k12]] and [[vetting-dual-llm-safety-education]] that prioritize multi-turn safety evaluation are essential, not optional.
 
@@ -34,7 +35,7 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[k-12]]
 - [[pedagogical-safety]]
 - [[llm]]

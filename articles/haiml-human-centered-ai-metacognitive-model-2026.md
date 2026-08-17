@@ -3,7 +3,8 @@ title: "HAIML: A Human-Centered AI Metacognitive Learning Model — A Framework 
 created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-12"
 type: article
-tags: [metacognition, self-regulated-learning, human-in-the-loop, ai-literacy, cognitive-offloading, over-reliance, ethics, student-ai-interaction]
+tags: [metacognition, self-regulated-learning, human-in-the-loop, ai-literacy, cognitive-offloading, cognitive-offloading, ethics, student-ai-interaction]
+
 sources: ['raw/papers/haiml-human-centered-ai-metacognitive-model-2026.md']
 confidence: medium
 ---
@@ -20,7 +21,7 @@ confidence: medium
 
 ## Implications
 
-For [[metacognition]] and [[self-regulated-learning]], HAIML offers a structured way to make AI interactions objects of reflection, addressing [[cognitive-offloading]] and [[over-reliance]] risks by keeping learners aware of how AI influences their thinking. It complements [[ai-literacy]] frameworks by adding a metacognitive and ethical layer focused on internal decision-making rather than tool proficiency alone.
+For [[metacognition]] and [[self-regulated-learning]], HAIML offers a structured way to make AI interactions objects of reflection, addressing [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risks by keeping learners aware of how AI influences their thinking. It complements [[ai-literacy]] frameworks by adding a metacognitive and ethical layer focused on internal decision-making rather than tool proficiency alone.
 
 The model's human-centered orientation connects to [[human-ai-collaboration]] and to [[human-ai-collaboration]] design, and to [[ethics]] in education. As a framework paper, it would benefit from empirical validation of whether the three-layer progression measurably improves agency and reflection in AI-supported learning.
 
@@ -31,7 +32,7 @@ The model's human-centered orientation connects to [[human-ai-collaboration]] an
 - [[human-ai-collaboration]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[student-modeling]]
 - [[ethics]]
 

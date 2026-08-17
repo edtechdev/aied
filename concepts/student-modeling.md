@@ -40,7 +40,7 @@ Student modeling feeds into [[intelligent-tutoring]] (for problem selection), [[
 - [[llm]]
 - [[higher-ed]]
 - [[ai-education]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 ## Connected Articles
 - [[yasir-llm-tutoring-agents-2026]] — LLM tutors over-reject valid-alternative, over-validate incorrect (Yasir et al. 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]

@@ -3,7 +3,8 @@ title: Sycophantic AI makes human interaction feel more effortful and less satis
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [affective-computing, student-ai-interaction, over-reliance, ethics, generative-ai, ai-literacy]
+tags: [affective-computing, student-ai-interaction, cognitive-offloading, ethics, generative-ai, ai-literacy]
+
 sources: ['raw/papers/sycophantic-ai-social-interaction-2026.md']
 confidence: high
 ---
@@ -23,8 +24,8 @@ confidence: high
 ## Relevance to education
 
 - AI tutors and companions that optimise affirmation (praise-heavy feedback, always-agreeing assistants) risk the same substitution dynamic among learners — especially vulnerable or socially isolated students
-- Feedback systems that conflate **support with agreement** undermine the corrective function of feedback (cf. [[feedback-loop]] design: feedback must sometimes challenge)
-- Connects to [[over-reliance]] and the relational harms documented in [[care-full-feedback-genai]] ("matters of care" requires honest critique, not affirmation)
+- Feedback systems that conflate **support with agreement** undermine the corrective function of feedback (cf. [[feedback|Feedback Loop]] design: feedback must sometimes challenge)
+- Connects to [[cognitive-offloading|Over-Reliance]] and the relational harms documented in [[care-full-feedback-genai]] ("matters of care" requires honest critique, not affirmation)
 - Raises ethical design questions for [[affective-computing]] in learning contexts: emotional-support features may carry social-attachment externalities
 
 ## Connected Concepts
@@ -36,7 +37,7 @@ confidence: high
 - [[trust]]
 - [[social-emotional-learning]]
 - [[well-being]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 
 ## Connected Articles
 

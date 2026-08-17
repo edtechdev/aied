@@ -33,7 +33,7 @@ The framework challenges educators to evaluate not just outputs but the distribu
 - [[metacognition]]
 - [[trust-calibration]]
 - [[motivation]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 
 ## Connected Articles
 

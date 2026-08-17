@@ -61,8 +61,8 @@ This parallels concerns in [[educational-llm-alignment]] where benchmark misalig
 - [[reinforcement-learning]]
 - [[pedagogical-safety]]
 - [[intelligent-tutoring]]
-- [[ai-tutoring]]
-- [[over-reliance]]
+- [[intelligent-tutoring]]
+- [[cognitive-offloading]]
 - [[ethics]]
 - [[pedagogical-llm-training]]
 

@@ -20,14 +20,14 @@ The findings have significant implications for **AI safety in education**: teach
 
 ## Connections to AIED
 
-The ethics education gap identified here suggests that AI literacy curricula face a similar risk: students may understand AI ethics principles theoretically while still choosing to use AI tools unethically in practice. This mirrors findings on [[academic-integrity]] and [[over-reliance]] patterns in student AI use.
+The ethics education gap identified here suggests that AI literacy curricula face a similar risk: students may understand AI ethics principles theoretically while still choosing to use AI tools unethically in practice. This mirrors findings on [[academic-integrity]] and [[cognitive-offloading|Over-Reliance]] patterns in student AI use.
 
 ## Connected Concepts
 
 - [[teacher-ai-competency]]
 - [[equity-in-ai-education]]
 - [[academic-integrity]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ethics]]
 - [[cs-education]]
 - [[ai-literacy]]

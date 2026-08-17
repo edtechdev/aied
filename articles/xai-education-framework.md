@@ -48,7 +48,7 @@ The framework identifies risks specific to educational XAI:
 - **Explanation overload** — too much information overwhelms users, undermining the benefit
 - **Misleading explanations** — post-hoc explanations may not reflect actual model reasoning
 - **Confirmation bias** — users may selectively attend to explanations that confirm existing beliefs
-- **Over-trust** — explanations can create false confidence in flawed systems, connecting to [[over-reliance]]
+- **Over-trust** — explanations can create false confidence in flawed systems, connecting to [[cognitive-offloading|Over-Reliance]]
 - **Gaming the system** — students may exploit explanations to circumvent learning, a known risk in [[intelligent-tutoring]]
 
 ## Four Case Studies
@@ -81,7 +81,7 @@ The XAI-ED framework has become a foundational reference in AIED, cited across t
 - [[intelligent-tutoring]]
 - [[adaptive-learning]]
 - [[ai-literacy]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[collaborative-learning]]
 - [[learning-analytics]]

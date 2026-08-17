@@ -3,7 +3,8 @@ title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
-tags: [hallucination-risk, ai-ed-evaluation, generative-ai, llm, pedagogical-safety, human-in-the-loop-ai, over-reliance]
+tags: [hallucination-risk, ai-ed-evaluation, generative-ai, llm, pedagogical-safety, human-in-the-loop-ai, cognitive-offloading]
+
 confidence: high
 ---
 
@@ -15,11 +16,11 @@ Hallucination in educational AI takes several forms documented in this wiki's ar
 
 **Tutoring hallucination** affects learning directly. **[[llm-tutoring-feedback-diagnosis-gap]]** found LLMs over-validated incorrect solutions while over-rejecting valid-but-suboptimal reasoning — systemic failures that would mislead both students and teachers. **[[eduframetrap-llm-sycophancy-educational-safety]]** and **[[eduguard-safe-rag-llm-tutor]]** address safety mechanisms for educational LLMs. These risks connect to [[pedagogical-safety]] and [[human-in-the-loop-ai]] requirements.
 
-**Mitigation approaches** include [[human-in-the-loop-ai]] designs where AI supports rather than replaces teacher judgment, evidence-aware architectures that calibrate confidence based on evidential quality (as advocated by MathCog), and [[rag]]-based grounding that constrains LLM outputs to verified sources. The [[over-reliance]] concept is closely related — hallucination is most dangerous when users trust AI outputs uncritically.
+**Mitigation approaches** include [[human-in-the-loop-ai]] designs where AI supports rather than replaces teacher judgment, evidence-aware architectures that calibrate confidence based on evidential quality (as advocated by MathCog), and [[rag]]-based grounding that constrains LLM outputs to verified sources. The [[cognitive-offloading|Over-Reliance]] concept is closely related — hallucination is most dangerous when users trust AI outputs uncritically.
 
 ## Connected Concepts
 
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[human-in-the-loop-ai]]
 - [[ai-ed-evaluation]]
 - [[pedagogical-safety]]

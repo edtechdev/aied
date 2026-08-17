@@ -9,7 +9,7 @@ confidence: medium
 
 > **Critical thinking** — the ability to analyze, evaluate, and synthesize information — is both a skill that AI tools can help develop and a competency that students must apply when using AI. In AI in education research, critical thinking appears in two interrelated forms: as a learning objective (teaching students to think critically) and as a safeguard against uncritical AI reliance.
 
-Critical thinking is central to [[ai-literacy]] — students who cannot critically evaluate AI outputs are vulnerable to [[over-reliance]], [[hallucination-risk|hallucinated information]], and biased recommendations. Research on [[cognitive-offloading]] shows that easy access to AI answers can displace critical engagement, while [[socratic-method|Socratic approaches]] that withhold direct answers preserve the cognitive effort necessary for deeper thinking.
+Critical thinking is central to [[ai-literacy]] — students who cannot critically evaluate AI outputs are vulnerable to [[cognitive-offloading|Over-Reliance]], [[hallucination-risk|hallucinated information]], and biased recommendations. Research on [[cognitive-offloading]] shows that easy access to AI answers can displace critical engagement, while [[socratic-method|Socratic approaches]] that withhold direct answers preserve the cognitive effort necessary for deeper thinking.
 
 ### Critical thinking in AI education research
 
@@ -19,7 +19,7 @@ The wiki's articles explore critical thinking through design-based and empirical
 
 ### Connections to other concepts
 
-Critical thinking intersects with [[scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering]] (formulating questions that elicit critical analysis), and [[over-reliance]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity]] and serves as a key dimension of [[ai-literacy]] frameworks across both [[k-12]] and [[higher-ed]] contexts.
+Critical thinking intersects with [[scaffolding]] (designing AI support that maintains cognitive demand), [[prompt-engineering]] (formulating questions that elicit critical analysis), and [[cognitive-offloading|Over-Reliance]] (knowing when to trust and when to question AI). It is foundational to [[academic-integrity]] and serves as a key dimension of [[ai-literacy]] frameworks across both [[k-12]] and [[higher-ed]] contexts.
 
 ## Connected Concepts
 
@@ -28,7 +28,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[faculty-development]]
 - [[cognitive-offloading]]
 - [[intelligent-tutoring]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[teacher-role]]
 - [[privacy]]
 - [[pedagogical-safety]]

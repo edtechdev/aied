@@ -19,11 +19,11 @@ Whereas knowledge tracing typically estimates a scalar mastery over time, cognit
 
 ### Why it matters
 
-Accurate diagnosis lets instruction target the actual gaps rather than a global "ability" score — enabling [[automated-assessment]] that explains *why* a student erred and [[feedback-loop]] systems that remediate specific [[student-modeling|knowledge states]]. Poor diagnosis produces the inverse: instruction aimed at the wrong concepts. This is why [[psychometrically-aware-ai]] emphasizes diagnostic validity alongside prediction accuracy.
+Accurate diagnosis lets instruction target the actual gaps rather than a global "ability" score — enabling [[automated-assessment]] that explains *why* a student erred and [[feedback|Feedback Loop]] systems that remediate specific [[student-modeling|knowledge states]]. Poor diagnosis produces the inverse: instruction aimed at the wrong concepts. This is why [[psychometrically-aware-ai]] emphasizes diagnostic validity alongside prediction accuracy.
 
 ### Connections
 
-Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]], and [[assessment]]. Its insights feed [[intelligent-tutoring]] and [[adaptive-learning]], and LLM-era work links it to misconception identification in [[ai-tutoring]].
+Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[educational-measurement]], and [[assessment]]. Its insights feed [[intelligent-tutoring]] and [[adaptive-learning]], and LLM-era work links it to misconception identification in [[intelligent-tutoring|AI Tutoring]].
 
 ## Connected Concepts
 

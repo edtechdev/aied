@@ -63,7 +63,7 @@ These are structurally new competencies, not refinements. Design defaults are li
 
 - [[ai-literacy]]
 - [[agentic-ai]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[governance]]
 - [[governance]]
 - [[trust-calibration]]

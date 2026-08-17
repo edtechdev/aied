@@ -3,7 +3,8 @@ title: "Beyond Output Metrics: Reframing AI-Assisted Vocal Pedagogy Through Huma
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-08-13"
 type: article
-tags: [generative-ai, feedback-loop, self-regulated-learning, metacognition, music-education, human-ai-collaboration, teacher-role, human-in-the-loop-ai]
+tags: [generative-ai, feedback, self-regulated-learning, metacognition, music-education, human-ai-collaboration, teacher-role, human-in-the-loop-ai]
+
 sources: ['raw/papers/10.3389_fpsyg.2026.1844841.md']
 confidence: medium
 ---
@@ -24,7 +25,7 @@ The article organizes AI-assisted vocal pedagogy into three linked levels. *Tech
 
 ## Implications for AI in Education
 
-The Perspective extends debates about [[feedback-loop|AI feedback]] and [[human-in-the-loop-ai|human-in-the-loop]] design to a domain — vocal/music education — where bodily, interpretive, and developmental learning resist reduction to metrics. It warns against equating measurement precision with educational value and positions AI as a support for teacher–student dialogue and reflection rather than an autonomous judge. For designers of [[generative-ai]] educational tools, it argues that feedback must be interpretable, pedagogically mediated, and connected to learners' lived experience and developmental readiness. It also foregrounds [[equity-in-ai-education]] (usable across learners) and sustainability as explicit outcome criteria, echoing broader calls for human-centered, educationally responsible AI in the [[teacher-role|teacher-guided]] learning process.
+The Perspective extends debates about [[feedback|AI feedback]] and [[human-in-the-loop-ai|human-in-the-loop]] design to a domain — vocal/music education — where bodily, interpretive, and developmental learning resist reduction to metrics. It warns against equating measurement precision with educational value and positions AI as a support for teacher–student dialogue and reflection rather than an autonomous judge. For designers of [[generative-ai]] educational tools, it argues that feedback must be interpretable, pedagogically mediated, and connected to learners' lived experience and developmental readiness. It also foregrounds [[equity-in-ai-education]] (usable across learners) and sustainability as explicit outcome criteria, echoing broader calls for human-centered, educationally responsible AI in the [[teacher-role|teacher-guided]] learning process.
 
 ## Limitations
 
@@ -33,7 +34,7 @@ As a Perspective article, it offers a conceptual framework rather than empirical
 ## Connected Concepts
 
 - [[generative-ai]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[human-ai-collaboration]]

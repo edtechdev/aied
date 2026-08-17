@@ -3,7 +3,8 @@ title: "Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automa
 created: "2026-08-04T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [automated-grading, llm, assessment-validity, higher-ed, ai-ed-evaluation, rag]
+tags: [automated-assessment, llm, assessment-validity, higher-ed, ai-ed-evaluation, rag]
+
 sources: ['raw/papers/2608.01783.md']
 confidence: high
 ---
@@ -32,7 +33,7 @@ Operational use requires strategy-specific calibration, dimension-level validati
 - [[automated-assessment]]
 - [[prompt-engineering]]
 - [[assessment-validity]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[higher-ed]]
 - [[educational-measurement]]
 

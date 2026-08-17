@@ -3,7 +3,8 @@ title: "LearnLens: Personalised, Curriculum-Grounded AI Feedback with Educators 
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-feedback-quality, feedback-loop, llm, generative-ai, stem-education, student-modeling, human-in-the-loop-ai, curriculum-design, teacher-role, educational-nlp]
+tags: [ai-feedback-quality, feedback, llm, generative-ai, stem-education, student-modeling, human-in-the-loop-ai, curriculum-design, teacher-role, educational-nlp]
+
 sources: ['raw/papers/zhao-learnlens-feedback-educators-loop.md']
 confidence: high
 ---
@@ -35,13 +36,13 @@ Teachers can monitor student performance, review and revise feedback through a c
 
 ## Implications
 
-This work illustrates how [[curriculum-design]] can be operationalised inside an [[llm]]-based feedback system, and how [[human-in-the-loop-ai]] oversight — via interactive teacher revision and embedded verifiers — can address the [[hallucination-risk]] and lack-of-control criticisms levelled at purely automated feedback. The topic-linked memory chain is a direct contribution to reducing retrieval noise, engaging debates around [[rag]] and [[knowledge-graph]] organisation for [[educational-nlp]]. Its focus on [[stem-education]] and GCSE science demonstrates the [[teacher-role]] in validating AI output rather than being displaced by it, supporting [[ai-feedback-quality]] and [[formative-assessment]] goals through an explicit [[feedback-loop]].
+This work illustrates how [[curriculum-design]] can be operationalised inside an [[llm]]-based feedback system, and how [[human-in-the-loop-ai]] oversight — via interactive teacher revision and embedded verifiers — can address the [[hallucination-risk]] and lack-of-control criticisms levelled at purely automated feedback. The topic-linked memory chain is a direct contribution to reducing retrieval noise, engaging debates around [[rag]] and [[knowledge-graph]] organisation for [[educational-nlp]]. Its focus on [[stem-education]] and GCSE science demonstrates the [[teacher-role]] in validating AI output rather than being displaced by it, supporting [[ai-feedback-quality]] and [[formative-assessment]] goals through an explicit [[feedback|Feedback Loop]].
 
 ## Connection to Existing Wiki
 
 - **[[ai-feedback-quality]]**: Provides a concrete verifier-based framework (accuracy, clarity, specificity) for assessing generated feedback quality.
 - **[[student-modeling]]**: The error-aware assessment module captures partial understanding and reasoning errors rather than binary correctness, aligning with richer student modelling.
-- **[[feedback-loop]]**: The verification-and-revision loop and educator-intervention-triggered deep reflection are core feedback-loop mechanisms.
+- **[[feedback|Feedback Loop]]**: The verification-and-revision loop and educator-intervention-triggered deep reflection are core feedback-loop mechanisms.
 - **[[curriculum-design]]**: Grounds feedback generation in national-curriculum-aligned mark schemes and topic structures.
 - **[[rag]] / [[knowledge-graph]]**: Directly challenges similarity-based retrieval with a topic-linked memory chain (Chain-of-Concept), a relevant counterpoint to RAG-based tutors in the wiki.
 
@@ -52,7 +53,7 @@ Strengths include a modular, component-level evaluation on authentic student ans
 ## Connected Concepts
 
 - [[ai-feedback-quality]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[llm]]
 - [[generative-ai]]
 - [[stem-education]]

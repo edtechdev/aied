@@ -15,9 +15,9 @@ The platform sits between an AI model or capability and the learner. It is the c
 
 Platforms in AI in education perform several distinct functions:
 
-- **Deliver instruction and tutoring** — the container for [[ai-tutoring]] and [[intelligent-tutoring]] systems, from LMS-embedded tutors to standalone adaptive tutoring platforms.
+- **Deliver instruction and tutoring** — the container for [[intelligent-tutoring|AI Tutoring]] and [[intelligent-tutoring]] systems, from LMS-embedded tutors to standalone adaptive tutoring platforms.
 - **Manage the learning environment** — course organization, enrollment, progress tracking, and administration that traditional LMS platforms provide.
-- **Host assessment and feedback** — where [[automated-assessment]], [[formative-assessment]], and [[feedback-loop|feedback loops]] run.
+- **Host assessment and feedback** — where [[automated-assessment]], [[formative-assessment]], and [[feedback|feedback loops]] run.
 - **Collect and analyze learning data** — the substrate for [[learning-analytics]] and [[student-modeling]].
 - **Govern access and deployment** — decisions about [[open-source]] vs. proprietary, local vs. cloud, and which institutions and learners can use it.
 
@@ -56,7 +56,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[personalized-learning]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[learning-analytics]]
 - [[student-modeling]]
 - [[knowledge-tracing]]

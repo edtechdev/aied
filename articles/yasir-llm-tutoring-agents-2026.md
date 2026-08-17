@@ -3,7 +3,8 @@ title: "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where
 created: "2026-08-15T15:53:50-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-tutoring, intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement]
+tags: [intelligent-tutoring, intelligent-tutoring, student-modeling, knowledge-graph, knowledge-tracing, ai-feedback-quality, ai-ed-evaluation, educational-measurement]
+
 sources: ['raw/papers/yasir-llm-tutoring-agents-2026.md']
 confidence: high
 ---
@@ -32,13 +33,13 @@ Yasir et al. (2026) benchmark seven LLM feedback agents as step-level tutors in 
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[student-modeling]]
 - [[knowledge-graph]]
 - [[knowledge-tracing]]
 - [[ai-feedback-quality]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[ai-ed-evaluation]]
 - [[educational-measurement]]
 - [[scaffolding]]

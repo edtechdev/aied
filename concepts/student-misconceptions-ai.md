@@ -3,13 +3,14 @@ title: Student Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
 updated: "2026-08-15T03:17:48-04:00"
 type: concept
-tags: [ai-literacy, trust-calibration, metacognition, over-reliance, cognitive-offloading, academic-integrity, generative-ai, student-experience]
+tags: [ai-literacy, trust-calibration, metacognition, cognitive-offloading, cognitive-offloading, academic-integrity, generative-ai, student-experience]
+
 confidence: high
 ---
 
 > **Student misconceptions about AI** — the inaccurate beliefs students hold about what AI systems are, what they do, and what using them means for learning, especially in academic contexts. Misconceptions are not a single falsehood but a family of calibration errors that cluster around two core mistakes: misjudging what the model is (authority vs. tool, neutral vs. biased, understanding vs. generating) and misjudging what learning requires (output vs. process).
 
-Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors the wiki documents under [[over-reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns. Students rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding.
+Misconceptions about AI matter because they are the cognitive precursor to the harmful behaviors the wiki documents under [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns. Students rarely set out to [[ai-misuse-learning-harm|misuse]] AI; they do so because inaccurate mental models lead them to misplace trust, skip verification, and treat output as understanding.
 
 ### What AI misconceptions are
 
@@ -17,8 +18,8 @@ A misconception here is not mere ignorance of how a model works — it is an act
 
 ### Common misconceptions in academic contexts
 
-- **The authority fallacy** — treating LLM output as verified fact rather than a probabilistic completion. Drives uncritical acceptance and the answer-seeking-over-understanding pattern documented in [[ai-tutoring|AI-tutoring]] research, where learners accept a model's answer without checking it against [[hallucination-risk]].
-- **Learning-equals-output** — believing that producing work *with* AI is the same as having learned it. This is the exact error behind [[over-reliance]]: the drafting, recall, and revision processes that build durable knowledge get outsourced.
+- **The authority fallacy** — treating LLM output as verified fact rather than a probabilistic completion. Drives uncritical acceptance and the answer-seeking-over-understanding pattern documented in [[intelligent-tutoring|AI-tutoring]] research, where learners accept a model's answer without checking it against [[hallucination-risk]].
+- **Learning-equals-output** — believing that producing work *with* AI is the same as having learned it. This is the exact error behind [[cognitive-offloading|Over-Reliance]]: the drafting, recall, and revision processes that build durable knowledge get outsourced.
 - **The neutrality illusion** — assuming AI is objective and unbiased. Students often miss that models encode training-data biases and that in [[writing-education]] contexts this produces idea homogenization across a cohort.
 - **The integrity gray zone** — misjudging whether [[academic-integrity|AI use is acceptable]]. Some students see AI output as "not copying a person" and therefore permissible; others over-correct and think *any* use is cheating. Institutional inconsistency feeds both errors.
 - **Anthropomorphism** — believing the model has intent, memory, and understanding of *their* context. This over-trust is especially risky academically, because students may rely on plausible-sounding explanations the model cannot actually ground.
@@ -42,7 +43,7 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 
 - [[ai-literacy]]
 - [[trust-calibration]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[metacognition]]
 - [[self-regulated-learning]]

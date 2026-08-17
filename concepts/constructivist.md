@@ -22,7 +22,7 @@ Constructivism is a family of theories rather than a single doctrine, but its co
 
 ### AI for constructivist learning
 
-Well-designed AI can enable construction at scale. [[intelligent-tutoring]] and [[ai-tutoring]] systems can pose problems and guide [[help-seeking]] instead of giving away answers; [[simulation]] and [[game-based-learning]] environments let learners build and test mental models; and [[project-based-learning]] and [[experiential-learning]] activities supported by AI give learners authentic construction tasks. The central design pattern is **[[scaffolding]]** — calibrated support that fades as competence grows — rather than completion.^[[conversational-ai-tutors-framework]]^[[embodied-inquiry-ai-facilitator-physics-2026]]
+Well-designed AI can enable construction at scale. [[intelligent-tutoring]] and [[intelligent-tutoring|AI Tutoring]] systems can pose problems and guide [[help-seeking]] instead of giving away answers; [[simulation]] and [[game-based-learning]] environments let learners build and test mental models; and [[project-based-learning]] and [[experiential-learning]] activities supported by AI give learners authentic construction tasks. The central design pattern is **[[scaffolding]]** — calibrated support that fades as competence grows — rather than completion.^[[conversational-ai-tutors-framework]]^[[embodied-inquiry-ai-facilitator-physics-2026]]
 
 ### The risk of "constructivism in name, behaviorism in practice"
 
@@ -30,7 +30,7 @@ Empirical work repeatedly finds a gap between espoused constructivist goals and 
 
 This pattern generalizes across the field:
 
-- When generative AI completes writing, reasoning, or code for students, the learner loses the constructive thought process the task was designed to build — the concern central to [[cognitive-offloading]] and [[over-reliance]].^[[generative-refusal-ai-tools-for-thought]]
+- When generative AI completes writing, reasoning, or code for students, the learner loses the constructive thought process the task was designed to build — the concern central to [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]].^[[generative-refusal-ai-tools-for-thought]]
 - AI implementations that emphasize adaptive feedback and efficiency frequently under-serve the learner-agency, critical-reflection, and autonomous-decision goals that constructivism implies.^[[ai-vocational-education-training-review]]
 
 ### Design responses grounded in constructivism
@@ -63,9 +63,9 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[embodied-learning]]
 - [[instructional-design]]
 - [[generative-ai]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[cognitive-offloading]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[agency]]
 - [[critical-thinking]]
 - [[ai-literacy]]

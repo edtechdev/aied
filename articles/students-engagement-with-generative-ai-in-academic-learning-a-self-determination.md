@@ -3,7 +3,8 @@ title: "Students' engagement with generative AI in academic learning: A self-det
 created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-13"
 type: article
-tags: [generative-ai, student-experience, self-regulated-learning, ai-literacy, academic-integrity, learning-analytics, motivation, over-reliance, critical-thinking, metacognition, privacy]
+tags: [generative-ai, student-experience, self-regulated-learning, ai-literacy, academic-integrity, learning-analytics, motivation, cognitive-offloading, critical-thinking, metacognition, privacy]
+
 sources: ['raw/papers/10.1016_j.caeai.2026.100606.md']
 confidence: high
 ---
@@ -25,7 +26,7 @@ This qualitative case study was conducted at an English-medium university, exami
 
 ## Implications for AI in Education
 
-The findings support a shift from **prohibition-oriented responses** to GenAI toward transparent institutional guidance, **autonomy-supportive scaffolding** of verification practices and [[ai-literacy]], and **process-oriented assessment designs** that make students' reasoning visible. The study reframes students' AI use as a motivated, socially situated learning practice rather than a compliance problem, suggesting institutions should provide clear unified policies and guidance that help students calibrate trust and maintain epistemic control. It demonstrates how [[learning-analytics]] approaches like ENA can help educators examine how AI practices become integrated into learning processes. The findings connect to [[student-experience]], [[self-regulated-learning]], [[over-reliance]], [[critical-thinking]], and [[academic-integrity]], and highlight students' broader ethical awareness (privacy, bias, sustainability).
+The findings support a shift from **prohibition-oriented responses** to GenAI toward transparent institutional guidance, **autonomy-supportive scaffolding** of verification practices and [[ai-literacy]], and **process-oriented assessment designs** that make students' reasoning visible. The study reframes students' AI use as a motivated, socially situated learning practice rather than a compliance problem, suggesting institutions should provide clear unified policies and guidance that help students calibrate trust and maintain epistemic control. It demonstrates how [[learning-analytics]] approaches like ENA can help educators examine how AI practices become integrated into learning processes. The findings connect to [[student-experience]], [[self-regulated-learning]], [[cognitive-offloading|Over-Reliance]], [[critical-thinking]], and [[academic-integrity]], and highlight students' broader ethical awareness (privacy, bias, sustainability).
 
 ## Limitations
 
@@ -40,7 +41,7 @@ The study is a qualitative case study in a single English-medium university sett
 - [[academic-integrity]]
 - [[learning-analytics]]
 - [[motivation]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[critical-thinking]]
 - [[metacognition]]
 - [[privacy]]

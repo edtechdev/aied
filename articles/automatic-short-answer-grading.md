@@ -3,7 +3,8 @@ title: Automatic Short Answer Grading with LLMs
 created: "2026-05-07T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [automated-grading, llm, formative-assessment, feedback-loop, higher-ed, learning-analytics, human-in-the-loop-ai, automated-assessment]
+tags: [automated-assessment, llm, formative-assessment, feedback, higher-ed, learning-analytics, human-in-the-loop-ai, automated-assessment]
+
 sources: ['raw/papers/cong-confidence-asag-2026.md']
 confidence: medium
 ---
@@ -69,8 +70,8 @@ ASAG confidence estimation is complementary to [[tutoring-specific-vs-general-ai
 - [[human-in-the-loop-ai]]
 - [[ai-feedback-quality]]
 - [[ai-ed-evaluation]]
-- [[confidence-aware-ai-assessment]]
-- [[automated-grading]]
+- [[automated-assessment]]
+- [[automated-assessment]]
 - [[assessment]]
 - [[assessment-validity]]
 - [[formative-assessment]]

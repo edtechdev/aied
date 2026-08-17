@@ -24,7 +24,7 @@ The multi-institutional study compared GATs with textual explanations in introdu
 
 ## Implications for AI in Education
 
-The study is a cautionary counterpoint to enthusiasm for AI-generated learning media: generative visualizations are not automatically better than text, and their effects vary by learner. For [[cs-education]], the results argue for personalized or adaptive deployment of GATs — aligned with [[personalized-learning]] and [[adaptive-learning]] — rather than uniform adoption across a course. The expertise-reversal-style finding, where mid-engagement students bore coordination costs, suggests that scaffolding decisions must consider the learner's current state, and that AI-generated resources should be designed to reduce extraneous [[cognitive-load-theory]] rather than add to it. Because benefits were short-term and context-dependent, GATs are best treated as one tool within a broader instructional palette rather than a replacement for established explanations.
+The study is a cautionary counterpoint to enthusiasm for AI-generated learning media: generative visualizations are not automatically better than text, and their effects vary by learner. For [[cs-education]], the results argue for personalized or adaptive deployment of GATs — aligned with [[personalized-learning]] and [[adaptive-learning]] — rather than uniform adoption across a course. The expertise-reversal-style finding, where mid-engagement students bore coordination costs, suggests that scaffolding decisions must consider the learner's current state, and that AI-generated resources should be designed to reduce extraneous Cognitive Load Theory rather than add to it. Because benefits were short-term and context-dependent, GATs are best treated as one tool within a broader instructional palette rather than a replacement for established explanations.
 
 ## Connected Concepts
 
@@ -33,7 +33,6 @@ The study is a cautionary counterpoint to enthusiasm for AI-generated learning m
 - [[personalized-learning]]
 - [[stem-education]]
 - [[adaptive-learning]]
-- [[cognitive-load-theory]]
 - [[student-engagement]]
 
 ## Connected Articles

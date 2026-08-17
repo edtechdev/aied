@@ -19,7 +19,7 @@ Programming education is closely related to [[computational-thinking]] (the unde
 - **Game-based and gamified learning:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] compares game-based learning and gamification in robotics education, which emphasizes introductory programming and modular kits.
 - **Project-based robotics:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] teaches robotics programming through an agile, semester-spanning project.
 
-Programming education connects to [[educational-robotics]], [[computational-thinking]], [[cs-education]], [[stem-education]], [[llm|AI-assisted programming]], [[game-based-learning]], [[gamification]], [[project-based-learning]], and [[embodied-learning]].
+Programming education connects to [[educational-robotics]], [[computational-thinking]], [[cs-education]], [[stem-education]], [[llm|AI-assisted programming]], [[game-based-learning]], [[game-based-learning|Gamification]], [[project-based-learning]], and [[embodied-learning]].
 
 ## Connected Concepts
 

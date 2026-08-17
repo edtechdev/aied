@@ -1,31 +1,43 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-15T10:24:06-04:00"
+updated: "2026-08-17T11:30:00-04:00"
 type: concept
 tags: [game-based-learning, gamification, engagement, educational-robotics, motivation, active-learning]
 confidence: high
 ---
 
-> **Game-based learning (GBL)** — the use of games themselves (digital or physical) as the medium and context for learning, where the game's mechanics, challenges, and progression carry educational content. Learners learn *through* playing. GBL is distinct from [[gamification]], which adds game elements (points, badges, leaderboards) to non-game activities. In AI and [[educational-robotics|robotics]] education, GBL is used to make technical content engaging and motivating, and is more prevalent in informal settings.
+> **Game-based learning (GBL)** — the use of games themselves (digital or physical) as the medium and context for learning, where the game's mechanics, challenges, and progression carry educational content. Learners learn *through* playing. Relatedly, **gamification** applies game-design elements (points, badges, levels, leaderboards) to non-game learning activities without turning them into full games. In AI and [[educational-robotics|robotics]] education, both approaches are used to make technical content engaging and motivating.
 
-GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning]] theories: games provide intrinsic motivation, [[feedback-loop|immediate feedback]], and authentic problem contexts. It overlaps with [[gamification]], [[simulation]], and [[project-based-learning]]. GBL is particularly relevant to [[educational-robotics]], [[computational-thinking]], and [[programming-education]], where games can make abstract technical concepts concrete and fun.
+GBL is grounded in [[motivation]], [[student-engagement]], and [[active-learning]] theories: games provide intrinsic motivation, immediate feedback, and authentic problem contexts. It overlaps with [[simulation]], [[project-based-learning]], and [[educational-robotics]]. GBL is particularly relevant to [[educational-robotics]], [[computational-thinking]], and [[programming-education]], where games can make abstract technical concepts concrete and fun.
 
 ### How GBL appears in the wiki's research
 
-- **Robotics education:** [[game-based-gamified-robotics-education-review-2026|A comparative systematic review]] of GBL and gamification in robotics education found GBL more prevalent in informal settings, while gamification dominated formal classrooms and favored [[project-based-learning|project-based learning]].
+- **Robotics education:** [[game-based-gamified-robotics-education-review-2026|A comparative systematic review]] of game-based learning and gamification in robotics education found GBL more prevalent in informal settings, while gamification dominated formal classrooms and favored [[project-based-learning|project-based learning]].
 - **Robot-mediated games:** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] is a robot-mediated role-play game for anti-bullying intervention, and [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] uses interactive [[storytelling-in-education|digital storytelling]] to boost motivation.
 
-GBL connects to [[gamification]], [[educational-robotics]], [[student-engagement]], [[motivation]], [[active-learning]], [[simulation]], and [[project-based-learning]].
+### Gamification
+
+**Gamification** is the application of game-design elements (points, badges, levels, leaderboards, challenges, progress bars) to non-game contexts to motivate and engage users. Unlike game-based learning — where learning happens *through* a game — gamification layers game mechanics onto an existing learning activity without turning it into a full game. It is used in education to boost motivation, [[student-engagement]], and persistence, and is widely applied in formal classroom settings.
+
+Gamification is grounded in motivational theory, particularly [[self-determination-theory]] (supporting autonomy, competence, and relatedness) and behaviour-change frameworks. It has shown particular synergy with [[project-based-learning]] in applied domains like robotics. In the wiki's research:
+
+- **Robotics education:** the comparative review found gamification dominated formal classrooms in robotics education (p < .001) and strongly favored [[project-based-learning|project-based learning]] (p = .009), while game-based learning was more common in informal settings.
+- **Engagement and motivation:** gamification is used across the wiki to increase learner engagement and motivation in AI, [[programming-education|programming]], and [[stem-education|STEM]] learning contexts. [[genai-motivation-engagement-2026|Generative AI, motivation, and engagement]] research examines how game-like elements combine with AI to sustain learner interest.
+
+GBL and gamification together connect to [[educational-robotics]], [[student-engagement]], [[motivation]], [[self-determination-theory]], [[active-learning]], [[simulation]], [[project-based-learning]], and [[computational-thinking]].
 
 ## Connected Concepts
 
-- [[gamification]]
 - [[educational-robotics]]
 - [[student-engagement]]
 - [[motivation]]
+- [[self-determination-theory]]
 - [[active-learning]]
 - [[simulation]]
+- [[project-based-learning]]
+- [[computational-thinking]]
+- [[programming-education]]
 
 ## Connected Articles
 
@@ -33,3 +45,5 @@ GBL connects to [[gamification]], [[educational-robotics]], [[student-engagement
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
+- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
+- [[genai-motivation-engagement-2026]] — Generative AI, Motivation, and Engagement

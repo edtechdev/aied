@@ -3,12 +3,13 @@ title: "Making AI-Generated Feedback Matter: From Provision to Student Enactment
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-13"
 type: article
-tags: [feedback-loop, formative-assessment, learning-analytics, higher-ed, student-experience, self-regulated-learning, human-ai-collaboration, llm]
+tags: [feedback, formative-assessment, learning-analytics, higher-ed, student-experience, self-regulated-learning, human-ai-collaboration, llm]
+
 sources: ['raw/papers/2608.11625.md']
 confidence: high
 ---
 
-> **Synthesis:** Alsaiari et al. (2026) report a large-scale quasi-experimental cohort study (13,037 students; 51,296 student-authored resources) comparing three AI-mediated feedback workflows. Students in the **Enacted Feedback** condition — prompted to select feedback suggestions, evaluate their relevance, and engage in targeted AI dialogue anchored to those selections — showed significantly higher uptake of AI-generated feedback (26.2% estimated probability) than **Directed Feedback** (14.1%) or **Self-Directed Feedback** (0.1%), along with higher self-assessment confidence and submitted-work quality. The finding positions **student enactment**, not comment quality, as the decisive variable in AI feedback, connecting to [[feedback-loop]], [[self-regulated-learning]], and [[human-ai-collaboration]] research.
+> **Synthesis:** Alsaiari et al. (2026) report a large-scale quasi-experimental cohort study (13,037 students; 51,296 student-authored resources) comparing three AI-mediated feedback workflows. Students in the **Enacted Feedback** condition — prompted to select feedback suggestions, evaluate their relevance, and engage in targeted AI dialogue anchored to those selections — showed significantly higher uptake of AI-generated feedback (26.2% estimated probability) than **Directed Feedback** (14.1%) or **Self-Directed Feedback** (0.1%), along with higher self-assessment confidence and submitted-work quality. The finding positions **student enactment**, not comment quality, as the decisive variable in AI feedback, connecting to [[feedback|Feedback Loop]], [[self-regulated-learning]], and [[human-ai-collaboration]] research.
 
 ## From Provision to Enactment
 
@@ -28,7 +29,7 @@ Enacted Feedback was associated with significantly higher uptake (26.2% vs 14.1%
 
 ## Connected Concepts
 
-- [[feedback-loop]]
+- [[feedback]]
 - [[self-regulated-learning]]
 - [[human-ai-collaboration]]
 - [[learning-analytics]]

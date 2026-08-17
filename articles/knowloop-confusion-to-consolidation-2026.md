@@ -48,7 +48,7 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[desirable-difficulties]]
 - [[higher-ed]]
 - [[learning-by-teaching]]

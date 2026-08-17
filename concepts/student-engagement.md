@@ -15,7 +15,7 @@ Engagement is a multidimensional construct rooted in educational psychology. **B
 
 - **Engagement as an outcome of AI design:** [[genai-motivation-engagement-2026|GenAI motivation research]] shows that engagement in generative-AI-supported learning follows the satisfaction of basic psychological needs ([[self-determination-theory|autonomy, competence, relatedness]]) — engagement is the downstream result of motivational support, not of technology availability alone.
 
-- **Quality over quantity:** [[critical-engagement-code-completion|Critical engagement in AI code completion]], [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]], and [[scaffolding-critical-engagement-genai-minority-students|scaffolding critical engagement]] show that *deep* (cognitive) engagement with AI predicts learning, while *shallow* (behavioral) engagement predicts the [[over-reliance]] and learning displacement that dominate the wiki's risk literature.
+- **Quality over quantity:** [[critical-engagement-code-completion|Critical engagement in AI code completion]], [[icap-cognitive-engagement-llm-agents|cognitive-engagement discourse analysis]], and [[scaffolding-critical-engagement-genai-minority-students|scaffolding critical engagement]] show that *deep* (cognitive) engagement with AI predicts learning, while *shallow* (behavioral) engagement predicts the [[cognitive-offloading|Over-Reliance]] and learning displacement that dominate the wiki's risk literature.
 
 - **Fragile and context-dependent:** [[polished-artifacts-fragile-engagement-2026|Polished artifacts, fragile engagement]] and [[genai-tutor-engagement-patterns|multi-institution engagement patterns]] find engagement varies by task, context, and learner — an AI tool that engages one student deeply may produce shallow, output-chasing behavior in another.
 
@@ -27,11 +27,11 @@ A central theme in the wiki's research is that engagement and learning must be d
 
 ### Pedagogy mediates AI's effect on engagement
 
-A systematic synthesis of AI in higher education ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) emphasizes that the **teaching method an AI tool is embedded in is the decisive mediator** of whether it engages students. Chatbots, adaptive systems, and predictive analytics enhance engagement most when deployed within interactive pedagogies — flipped classrooms, [[project-based-learning|project-based learning]], and scaffolded [[feedback-loop|feedback loops]] — rather than as standalone tools. The review formalizes this as the **PMAISE model** (Pedagogical Mediation of AI for Student Engagement), mapping the alignment between AI technologies, pedagogical strategies, and the affective, behavioral, and cognitive dimensions of engagement. The implication is that engagement outcomes are co-produced by the tool *and* the surrounding instructional design: the same AI can amplify engagement in one pedagogy and inhibit it in another.
+A systematic synthesis of AI in higher education ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) emphasizes that the **teaching method an AI tool is embedded in is the decisive mediator** of whether it engages students. Chatbots, adaptive systems, and predictive analytics enhance engagement most when deployed within interactive pedagogies — flipped classrooms, [[project-based-learning|project-based learning]], and scaffolded [[feedback|feedback loops]] — rather than as standalone tools. The review formalizes this as the **PMAISE model** (Pedagogical Mediation of AI for Student Engagement), mapping the alignment between AI technologies, pedagogical strategies, and the affective, behavioral, and cognitive dimensions of engagement. The implication is that engagement outcomes are co-produced by the tool *and* the surrounding instructional design: the same AI can amplify engagement in one pedagogy and inhibit it in another.
 
 ### Connections to related concepts
 
-Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[engagement-metrics]] and [[learning-analytics]]. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[over-reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
+Student engagement connects to [[motivation]] and [[self-determination-theory]] as its psychological drivers, and to [[student-experience]] as the lived context. Its measurement relies on [[engagement-metrics]] and [[learning-analytics]]. The distinction between deep and shallow engagement ties directly to [[self-regulated-learning]] (self-regulated learners engage strategically), [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] (shallow reliance as the failure mode), and [[metacognition]]. In system design, engagement signals feed [[student-modeling]] and [[adaptive-learning]], and engagement outcomes feature in [[research-methods-aied]] evaluations of AI-education interventions.
 
 ## Connected Concepts
 
@@ -41,7 +41,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[student-experience]]
 - [[learning-analytics]]
 - [[self-regulated-learning]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[metacognition]]
 - [[higher-ed]]

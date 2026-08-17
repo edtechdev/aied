@@ -3,11 +3,12 @@ title: STEM Education and AI
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-15T10:55:19-04:00"
 type: concept
-tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, ai-tutoring, automated-grading]
+tags: [cs-education, math-education, physics-education, computational-thinking, k-12, higher-ed, intelligent-tutoring, automated-assessment]
+
 confidence: high
 ---
 
-> **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for AI in education research in the wiki. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for [[ai-tutoring|AI tutoring]] and assessment.
+> **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for AI in education research in the wiki. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for [[intelligent-tutoring|AI tutoring]] and assessment.
 
 ### STEM as the primary AIED domain
 
@@ -22,7 +23,7 @@ STEM's structured knowledge representation, verifiable answers, and computationa
 
 ### Connections
 
-STEM education connects to [[cs-education]], [[math-education]], [[physics-education]], [[computational-thinking]], [[k-12]], [[higher-ed]], and [[ai-tutoring]] — it is the domain context for much of the wiki's tutoring and assessment research.
+STEM education connects to [[cs-education]], [[math-education]], [[physics-education]], [[computational-thinking]], [[k-12]], [[higher-ed]], and [[intelligent-tutoring|AI Tutoring]] — it is the domain context for much of the wiki's tutoring and assessment research.
 
 ## Connected Concepts
 
@@ -32,8 +33,8 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[computational-thinking]]
 - [[k-12]]
 - [[higher-ed]]
-- [[ai-tutoring]]
-- [[automated-grading]]
+- [[intelligent-tutoring]]
+- [[automated-assessment]]
 - [[formative-assessment]]
 - [[personalized-learning]]
 - [[llm]]

@@ -3,7 +3,8 @@ title: "MindCopilot: Towards Formalizing and Evaluating Granular Human-LLM Co-Wr
 created: "2026-05-25T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [feedback-loop, higher-ed, human-in-the-loop, llm, writing-education, human-in-the-loop-ai]
+tags: [feedback, higher-ed, human-in-the-loop, llm, writing-education, human-in-the-loop-ai]
+
 sources: ['raw/papers/2605.23535.md']
 confidence: high
 ---
@@ -19,7 +20,7 @@ For [[writing-education]], this represents a paradigm shift. Traditional automat
 - [[llm]]
 - [[human-ai-collaboration]]
 - [[ai-feedback-quality]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[automated-assessment]]
 - [[academic-integrity]]
 - [[agency]]

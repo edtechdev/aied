@@ -3,7 +3,8 @@ title: "Supporting Tutors in the Gig Economy with Automated Feedback: A Case Stu
 created: "2026-06-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [feedback-loop, higher-ed, intelligent-tutoring, language-learning, teacher-role]
+tags: [feedback, higher-ed, intelligent-tutoring, language-learning, teacher-role]
+
 sources: ['raw/papers/2606.22609.md']
 confidence: medium
 ---
@@ -17,7 +18,7 @@ Park et al. (2026) explore AI-powered automated feedback for tutors on Ringle, a
 - [[intelligent-tutoring]]
 - [[language-learning]]
 - [[higher-ed]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[edtech-platform]]
 ## Connected Articles
 

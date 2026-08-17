@@ -3,7 +3,8 @@ title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-15T10:19:32-04:00"
 type: concept
-tags: [desirable-difficulties, cognitive-friction, productive-struggle, retrieval-practice, generation-effect, spacing, over-reliance, learning-science, scaffolding, metacognition]
+tags: [desirable-difficulties, cognitive-friction, productive-struggle, retrieval-practice, generation-effect, spacing, cognitive-offloading, learning-science, scaffolding, metacognition]
+
 confidence: high
 ---
 
@@ -25,7 +26,7 @@ Three related constructs describe the zone in which desirable difficulties opera
 
 The central tension for AI-supported learning is that [[generative-ai|generative AI]] is, by default, a friction-removing technology: it answers, generates, and produces polished artifacts on demand. Across the wiki, this plays out in two directions:
 
-- **The cost of removing struggle.** When AI erases spacing, retrieval, and generation, learners may show immediate performance gains but forfeit durable learning and transfer. This connects directly to the [[over-reliance]] and [[ai-misuse-learning-harm]] findings: an AI that removes desirable difficulty produces the performance–learning gap documented across the wiki's evidence base. [[agentic-ai-pedagogical-best-practice-2026]] calls explicitly for intentional friction.
+- **The cost of removing struggle.** When AI erases spacing, retrieval, and generation, learners may show immediate performance gains but forfeit durable learning and transfer. This connects directly to the [[cognitive-offloading|Over-Reliance]] and [[ai-misuse-learning-harm]] findings: an AI that removes desirable difficulty produces the performance–learning gap documented across the wiki's evidence base. [[agentic-ai-pedagogical-best-practice-2026]] calls explicitly for intentional friction.
 - **Designing struggle back in.** Instructional designs can deliberately preserve productive processing: draft-first routines, hint-not-answer tutoring, delayed feedback, and teach-back/explanation protocols. These are the concrete scaffolds explored under [[reducing-ai-misuse]] and [[structured-llm-feedback-programming]].
 
 ## Design Implications
@@ -37,14 +38,13 @@ The central tension for AI-supported learning is that [[generative-ai|generative
 
 ## Connected Concepts
 
-- [[cognitive-load-theory]]
 - [[learning-by-teaching]]
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[transfer-of-learning]]
 - [[scaffolding]]
 - [[learning-gains]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[reducing-ai-misuse]]
 - [[affective-computing]]

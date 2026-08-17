@@ -66,7 +66,7 @@ The levers are domain-general and not AI-specific: mapping them to Schoenfeld's 
 - [[formative-assessment]]
 - [[cognitive-offloading]]
 - [[help-seeking]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[generative-ai]]

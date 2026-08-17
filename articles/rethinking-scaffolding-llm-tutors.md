@@ -24,12 +24,12 @@ Scaffolding describes how a tutor calibrates support to the learner's current st
 
 ## Relevance to AI in Education
 
-This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. It challenges benchmark assumptions about student uptake of LLM tutor scaffolding, showing that real-world learners frequently bypass pedagogical framing in favour of their own goals, and that this behaviour is often a rational response to a mismatch rather than a failure of engagement. For [[ai-tutoring]] design, the implication is that scaffolding should be adaptive to student-driven interaction patterns — including [[help-seeking]] styles — rather than presupposed by the interface. The conversational structure of tutoring normally allows students to respond, negotiate, and ask follow-up questions, building understanding iteratively and exercising agency; benchmarks that ignore this dynamic risk overestimating both the value of rigid scaffolding and the quality of LLM tutors. For the [[benchmark]] community, the work argues for evaluation designs that reward chatbots for navigating diverse learning contexts instead of assuming uptake.
+This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. It challenges benchmark assumptions about student uptake of LLM tutor scaffolding, showing that real-world learners frequently bypass pedagogical framing in favour of their own goals, and that this behaviour is often a rational response to a mismatch rather than a failure of engagement. For [[intelligent-tutoring|AI Tutoring]] design, the implication is that scaffolding should be adaptive to student-driven interaction patterns — including [[help-seeking]] styles — rather than presupposed by the interface. The conversational structure of tutoring normally allows students to respond, negotiate, and ask follow-up questions, building understanding iteratively and exercising agency; benchmarks that ignore this dynamic risk overestimating both the value of rigid scaffolding and the quality of LLM tutors. For the [[benchmark]] community, the work argues for evaluation designs that reward chatbots for navigating diverse learning contexts instead of assuming uptake.
 
 ## Connected Concepts
 
 - [[help-seeking]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[pedagogical-llm-training]]
 - [[benchmark]]
 - [[socratic-method]]

@@ -3,7 +3,8 @@ title: "When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle"
 created: "2026-08-08T04:33:04-04:00"
 updated: "2026-08-08"
 type: article
-tags: [intelligent-tutoring, scaffolding, llm, llm-evaluation, k-12, math-education, benchmark, ai-tutoring, teacher-role, over-reliance]
+tags: [intelligent-tutoring, scaffolding, llm, llm-evaluation, k-12, math-education, benchmark, intelligent-tutoring, teacher-role, cognitive-offloading]
+
 sources: ['raw/papers/zhang-tutormoments-2026.md']
 confidence: high
 ---
@@ -28,9 +29,9 @@ TutorMoments evaluates whether LM tutors select instructional actions appropriat
 - [[k-12]]
 - [[scaffolding]]
 - [[teacher-role]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[llm]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[zone-of-proximal-development]]
 ## Connected Articles
 

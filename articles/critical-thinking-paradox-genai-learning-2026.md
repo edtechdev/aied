@@ -3,12 +3,13 @@ title: "The critical-thinking paradox in generative AI-integrated learning: dist
 created: "2026-08-16T10:19:32-04:00"
 updated: "2026-08-16"
 type: article
-tags: [critical-thinking, cognitive-offloading, cognitive-load-theory, metacognition, desirable-difficulties, generative-ai, ai-literacy, transfer-of-learning]
+tags: [critical-thinking, cognitive-offloading, metacognition, desirable-difficulties, generative-ai, ai-literacy, transfer-of-learning]
+
 sources: ['raw/papers/critical-thinking-paradox-genai-learning-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Lin and Al-Hada (2026) offer a theoretical reading of apparently contradictory findings — improved academic products alongside signs of reduced cognitive engagement — which they term the critical-thinking paradox of GenAI-integrated learning. Drawing on levels-of-processing, [[desirable-difficulties]], [[cognitive-load-theory]] with Load Reduction Instruction, and [[cognitive-offloading]] research, they propose a differentiated three-level framework mapping AI-integration strategies onto surface, intermediate and deep cognitive processing, with level-appropriate AI roles, risks and boundary conditions. They adopt the emerging construct of cognitive debt and distinguish episodic from habitual offloading. The framework generates falsifiable hypotheses — centrally that unrestricted AI use on deep-processing tasks may yield higher-rated assignments but lower unaided delayed transfer — and specifies developmental stage, prior knowledge, and metacognitive monitoring accuracy as preregistered boundary conditions.
+> **Synthesis:** Lin and Al-Hada (2026) offer a theoretical reading of apparently contradictory findings — improved academic products alongside signs of reduced cognitive engagement — which they term the critical-thinking paradox of GenAI-integrated learning. Drawing on levels-of-processing, [[desirable-difficulties]], Cognitive Load Theory with Load Reduction Instruction, and [[cognitive-offloading]] research, they propose a differentiated three-level framework mapping AI-integration strategies onto surface, intermediate and deep cognitive processing, with level-appropriate AI roles, risks and boundary conditions. They adopt the emerging construct of cognitive debt and distinguish episodic from habitual offloading. The framework generates falsifiable hypotheses — centrally that unrestricted AI use on deep-processing tasks may yield higher-rated assignments but lower unaided delayed transfer — and specifies developmental stage, prior knowledge, and metacognitive monitoring accuracy as preregistered boundary conditions.
 
 ## Key Findings
 
@@ -26,7 +27,6 @@ confidence: high
 
 - [[critical-thinking]]
 - [[cognitive-offloading]]
-- [[cognitive-load-theory]]
 - [[desirable-difficulties]]
 - [[metacognition]]
 - [[generative-ai]]

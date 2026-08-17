@@ -3,7 +3,8 @@ title: "PersonaVLM: Long-Term Personalization for AI Tutors"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [personalized-learning, intelligent-tutoring, student-modeling, llm, ai-tutoring, affective-tutoring, rag, k-12]
+tags: [personalized-learning, intelligent-tutoring, student-modeling, llm, intelligent-tutoring, affective-tutoring, rag, k-12]
+
 sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']
 confidence: medium
 ---
@@ -14,7 +15,7 @@ confidence: medium
 
 ## Key Findings
 
-1. **The three-capability architecture addresses the core limitation of prior personalization.** Early approaches to [[ai-tutoring]] personalization were static — a one-shot tuning of outputs to a snapshot of user preferences. PersonaVLM introduces a dynamic cycle: *Remembering* (extracting and summarizing chronological multimodal memories), *Reasoning* (multi-turn retrieval across a personalized memory database), and *Response Alignment* (continuously inferring evolving personality from interaction patterns). This moves personalization from a configuration step to an autonomous agent loop.
+1. **The three-capability architecture addresses the core limitation of prior personalization.** Early approaches to [[intelligent-tutoring|AI Tutoring]] personalization were static — a one-shot tuning of outputs to a snapshot of user preferences. PersonaVLM introduces a dynamic cycle: *Remembering* (extracting and summarizing chronological multimodal memories), *Reasoning* (multi-turn retrieval across a personalized memory database), and *Response Alignment* (continuously inferring evolving personality from interaction patterns). This moves personalization from a configuration step to an autonomous agent loop.
 
 2. **Memory is structured across four types, mirroring cognitive architectures.** The framework maintains *Core Memory* (foundational user attributes), *Semantic Memory* (event-independent knowledge updated every turn), *Episodic Memory* (timestamped interaction summaries with keywords), and *Procedural Memory* (plans, goals, and habits updated per session). Text embeddings via `all-MiniLM-L6-v2` indexed in FAISS, combined with Grounding DINO for visual concept cropping, enable retrieval at scale within a 128k context window. This approach draws on principles familiar to [[personalized-learning]] systems but extends them to the multimodal, long-horizon setting.
 
@@ -35,7 +36,7 @@ However, educators and designers should be cautious about the [[correct-answer-t
 ## Connected Concepts
 
 - [[affective-tutoring]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[personalized-learning]]
 - [[student-modeling]]
 - [[multimodal]]

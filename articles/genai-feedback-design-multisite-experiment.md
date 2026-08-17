@@ -57,7 +57,7 @@ The core insight: **GenAI's educational value depends less on AI access per se t
 - [[higher-ed]]
 - [[self-regulated-learning]]
 - [[agency]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[peer-review]]
 - [[transfer-of-learning]]
 

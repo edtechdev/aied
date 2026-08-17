@@ -26,9 +26,9 @@ This work contributes to the growing literature on [[llm-student-modeling-memory
 - [[formative-assessment]]
 - [[personalized-learning]]
 - [[rag]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[simulating-students]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[llm]]
 ## Connected Articles
 

@@ -3,7 +3,8 @@ title: "Students' engagement with ChatGPT feedback: implications for student fee
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, feedback-loop, student-experience, higher-ed, ai-literacy, language-learning, over-reliance, metacognition, scaffolding, regulation]
+tags: [generative-ai, feedback, student-experience, higher-ed, ai-literacy, language-learning, cognitive-offloading, metacognition, scaffolding, regulation]
+
 sources: ['raw/papers/tandf-2026-chatgpt-feedback-engagement.md']
 confidence: high
 ---
@@ -41,12 +42,12 @@ A qualitative study of **16 undergraduates** at a Hong Kong teacher-education un
 ## Implications
 
 - Feedback literacy and engagement are bidirectional and mutually reinforcing; the model proposed here (Figure 2) shows the four engagement dimensions interplaying with these five literacy capacities.
-- GenAI feedback can lower the emotional barrier to feedback seeking (important in power-hierarchical cultures — see [[genai-teacher-feedback-comparison]]'s "less risky" finding), but without metacognitive scaffolding students drift toward **superficial, high-uptake, low-transfer** use — a core [[over-reliance]] risk.
+- GenAI feedback can lower the emotional barrier to feedback seeking (important in power-hierarchical cultures — see [[genai-teacher-feedback-comparison]]'s "less risky" finding), but without metacognitive scaffolding students drift toward **superficial, high-uptake, low-transfer** use — a core [[cognitive-offloading|Over-Reliance]] risk.
 
 ## Connected Concepts
 
-- [[over-reliance]]
-- [[feedback-loop]]
+- [[cognitive-offloading]]
+- [[feedback]]
 - [[ai-feedback-quality]]
 - [[formative-assessment]]
 - [[ai-literacy]]

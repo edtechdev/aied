@@ -3,7 +3,8 @@ title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-15T04:26:01-04:00"
 type: concept
-tags: [zone-of-proximal-development, over-reliance, cognitive-load-theory, feedback-loop, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
+tags: [zone-of-proximal-development, cognitive-offloading, feedback, ai-literacy, intelligent-tutoring, socratic-method, metacognition]
+
 confidence: high
 ---
 
@@ -14,7 +15,7 @@ confidence: high
 - **Prompt-based scaffolding:** [[guided-llm-scaffolding-independent-learning|Guided LLM scaffolding]] teaches structured prompting as a learning intervention. [[scaffolding-critical-engagement-genai-minority-students|Critical engagement scaffolding]] uses culturally responsive approaches.
 - **Socratic scaffolding:** [[socratic-method|Socratic AI dialogue]] withholds direct answers, using questions to guide discovery — a form of [[desirable-difficulties]] scaffolding.
 - **Adaptive fading:** [[intelligent-tutoring|Intelligent tutoring systems]] adjust scaffolding based on [[knowledge-tracing]] estimates, providing more support for unmastered concepts and less for known ones.
-- **Hint systems:** [[correct-answer-trap-ai-tutor|AI tutor hint research]] examines when hints help versus when they encourage [[over-reliance]].
+- **Hint systems:** [[correct-answer-trap-ai-tutor|AI tutor hint research]] examines when hints help versus when they encourage [[cognitive-offloading|Over-Reliance]].
 - **Conceptual scaffolds:** [[concept-catalyst-engineering-scaffolds|Concept Catalyst]] and [[rethinking-scaffolding-llm-tutors|LLM tutor rethinking]] explore design patterns for cognitive support.
 
 ### The ZPD connection
@@ -23,15 +24,14 @@ confidence: high
 
 ### Connections
 
-Scaffolding connects to [[over-reliance]] (scaffolding that doesn't fade creates dependency), [[cognitive-load-theory]] (scaffolding manages cognitive load), [[feedback-loop]] (scaffolding provides formative feedback), and [[ai-literacy]] (learners must recognize when scaffolding is beneficial vs. when it displaces learning).
+Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that doesn't fade creates dependency), Cognitive Load Theory (scaffolding manages cognitive load), [[feedback|Feedback Loop]] (scaffolding provides formative feedback), and [[ai-literacy]] (learners must recognize when scaffolding is beneficial vs. when it displaces learning).
 
 ## Connected Concepts
 
 - [[learning-by-teaching]]
 - [[zone-of-proximal-development]]
-- [[over-reliance]]
-- [[cognitive-load-theory]]
-- [[feedback-loop]]
+- [[cognitive-offloading]]
+- [[feedback]]
 - [[ai-literacy]]
 - [[intelligent-tutoring]]
 - [[socratic-method]]

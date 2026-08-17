@@ -3,7 +3,8 @@ title: "Faster Completion, Less Learning: Generative AI Reduced Study Time on Ma
 created: "2026-05-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, over-reliance, stem-education, k-12, higher-ed, learning-gains, student-experience, regulation, ai-literacy, ai-education]
+tags: [generative-ai, cognitive-offloading, stem-education, k-12, higher-ed, learning-gains, student-experience, regulation, ai-literacy, ai-education]
+
 sources: ['raw/papers/2605.21629.md']
 confidence: high
 ---
@@ -28,7 +29,7 @@ The authors introduce the term **cognitive surrender** to describe students offl
 
 ## Implications for the Wiki
 
-This study provides the strongest empirical evidence yet for the [[over-reliance]] phenomenon documented across the wiki. It extends findings from [[genai-performance-vs-learning]] and [[cognitive-shift-ai-education]] by demonstrating effects at population scale with objective behavioral measures rather than self-report. The findings have direct implications for:
+This study provides the strongest empirical evidence yet for the [[cognitive-offloading|Over-Reliance]] phenomenon documented across the wiki. It extends findings from [[genai-performance-vs-learning]] and [[cognitive-shift-ai-education]] by demonstrating effects at population scale with objective behavioral measures rather than self-report. The findings have direct implications for:
 - [[academic-integrity]] policy and assessment governance
 - [[ai-literacy]] curriculum design
 - learning-gains measurement methodology
@@ -38,7 +39,7 @@ This study provides the strongest empirical evidence yet for the [[over-reliance
 
 - [[generative-ai]]
 - [[cognitive-offloading]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[academic-integrity]]
 - [[ai-literacy]]
 - [[regulation]]

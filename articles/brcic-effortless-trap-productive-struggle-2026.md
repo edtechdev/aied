@@ -3,7 +3,8 @@ title: "The Effortless Trap: Productive Struggle, AI, and the Illusion of Learni
 created: "2026-08-15T15:53:50-04:00"
 updated: "2026-08-15"
 type: article
-tags: [cognitive-load-theory, desirable-difficulties, over-reliance, cognitive-offloading, self-regulated-learning, scaffolding, reducing-ai-misuse, k-12, learning-gains]
+tags: [desirable-difficulties, cognitive-offloading, cognitive-offloading, self-regulated-learning, scaffolding, reducing-ai-misuse, k-12, learning-gains]
+
 sources: ['raw/papers/brcic-effortless-trap-productive-struggle-2026.md']
 confidence: high
 ---
@@ -31,9 +32,8 @@ Brcic & Frljic (2026) argue that the "allow or ban AI" framing is a false dichot
 
 ## Connected Concepts
 
-- [[cognitive-load-theory]]
 - [[desirable-difficulties]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[scaffolding]]

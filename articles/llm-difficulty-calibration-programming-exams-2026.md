@@ -22,7 +22,7 @@ confidence: high
 
 ## Implications
 
-This study reframes the role of [[llm]]s in [[assessment]] from "evaluated object" to "evaluation aid," contributing a methodology that layers AI evidence with student performance, item exposure, and [[learning-analytics]] to interpret exam difficulty. It connects to the growing literature on [[psychometrically-aware-ai]] and [[confidence-aware-ai-assessment]], where model outputs are treated as one noisy signal among several rather than as ground truth.
+This study reframes the role of [[llm]]s in [[assessment]] from "evaluated object" to "evaluation aid," contributing a methodology that layers AI evidence with student performance, item exposure, and [[learning-analytics]] to interpret exam difficulty. It connects to the growing literature on [[psychometrically-aware-ai]] and [[automated-assessment|Confidence Aware AI Assessment]], where model outputs are treated as one noisy signal among several rather than as ground truth.
 
 For [[cs-education]] and [[cs-education]] practice, the finding that AI difficulty correlates with student outcomes at the problem level supports using LLMs to flag mis-calibrated items across parallel sections and to track item quality longitudinally. The clear abstention guidance is the crucial guardrail: cohort composition effects in introductory courses and the fragility of single-reviewer estimates caution against high-stakes automation, aligning with [[human-in-the-loop-ai]] design principles.
 
@@ -33,7 +33,7 @@ The work also illustrates the epistemic limits of [[item-response-theory]]-style
 - [[assessment]]
 - [[automated-assessment]]
 - [[cs-education]]
-- [[confidence-aware-ai-assessment]]
+- [[automated-assessment]]
 - [[educational-measurement]]
 - [[ai-ed-evaluation]]
 - [[human-in-the-loop-ai]]

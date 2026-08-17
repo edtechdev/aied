@@ -33,7 +33,7 @@ Experiments on the **MedQA** benchmark confirm the problem and the fix:
 ## Practical implications for education
 
 - **Design systems, not just curricula, for equity:** reducing the [[ai-literacy|prompt-literacy]] gap matters, but so does engineering models to be robust to naive phrasing — the burden should not rest solely on students.
-- **Audit AI tools for prompt privilege:** an institution deploying an [[ai-tutoring|AI tutor]] or writing assistant should measure performance consistency across its actual student populations, not just expert users.
+- **Audit AI tools for prompt privilege:** an institution deploying an [[intelligent-tutoring|AI tutor]] or writing assistant should measure performance consistency across its actual student populations, not just expert users.
 - **Treat prompting skill as a resource that is unevenly distributed:** prompt privilege is one mechanism behind observed differences in who benefits from [[generative-ai|generative AI]] in education, complementing findings on [[genai-skill-bypass-literacy|skill bypass]] and the illusion of [[digital-literacy-illusion|digital literacy]].
 
 ## Connected Concepts

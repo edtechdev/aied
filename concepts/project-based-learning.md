@@ -14,7 +14,7 @@ PBL is closely related to [[active-learning]], [[experiential-learning]], [[coll
 ### How PBL appears in the wiki's research
 
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] presents an agile, semester-spanning project-based approach to teach robotics in an applied computer science program, addressing the theory-practice gap.
-- **Gamification coupling:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] found [[gamification]] in robotics education strongly favored project-based learning (p = .009).
+- **Gamification coupling:** [[game-based-gamified-robotics-education-review-2026|A systematic review]] found [[game-based-learning|Gamification]] in robotics education strongly favored project-based learning (p = .009).
 - **AI literacy and co-design:** PBL underlies many [[ai-literacy|AI literacy]] and teacher-education interventions, where learners co-create AI tools or resources.
 
 PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-learning]], [[educational-robotics]], [[game-based-learning]], [[computational-thinking]], and [[higher-ed]]/[[k-12]] pedagogy.

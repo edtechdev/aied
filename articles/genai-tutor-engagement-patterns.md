@@ -33,7 +33,7 @@ This study analyzes de-identified interaction logs from a commercial LMS with an
 
 ## Contextual Variation & Implications
 
-Context mattered. At highly selective universities, the proportion of deep engagement (19.36% vs. 12.42%) and routine-learning engagement (58.88% vs. 40.41%) was significantly higher, while exam-driven engagement was lower (10.65% vs. 36.98%). STEM courses showed significantly more shallow (15.41% vs. 8.56%) and routine-learning engagement and less exam-driven engagement than non-STEM courses, while STEM students were overall less likely to adopt the tutor (51% vs. 71% adoption). Adoption and usage intensity were not significantly associated with institutional selectivity. For [[learning-analytics]] and [[equity-in-ai-education]] in [[higher-ed]], the takeaway is that "engagement" is not a single behavior: interventions and regulations should target specific patterns — such as shallow, copy-paste-heavy use — rather than treating all GenAI Tutor use alike, especially since students who engaged shallowly were more likely to remain in that mode over time, pointing to a risk group for [[over-reliance]] without deep processing.
+Context mattered. At highly selective universities, the proportion of deep engagement (19.36% vs. 12.42%) and routine-learning engagement (58.88% vs. 40.41%) was significantly higher, while exam-driven engagement was lower (10.65% vs. 36.98%). STEM courses showed significantly more shallow (15.41% vs. 8.56%) and routine-learning engagement and less exam-driven engagement than non-STEM courses, while STEM students were overall less likely to adopt the tutor (51% vs. 71% adoption). Adoption and usage intensity were not significantly associated with institutional selectivity. For [[learning-analytics]] and [[equity-in-ai-education]] in [[higher-ed]], the takeaway is that "engagement" is not a single behavior: interventions and regulations should target specific patterns — such as shallow, copy-paste-heavy use — rather than treating all GenAI Tutor use alike, especially since students who engaged shallowly were more likely to remain in that mode over time, pointing to a risk group for [[cognitive-offloading|Over-Reliance]] without deep processing.
 
 ## Connected Concepts
 
@@ -42,7 +42,7 @@ Context mattered. At highly selective universities, the proportion of deep engag
 - [[help-seeking]]
 - [[learning-analytics]]
 - [[engagement-metrics]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[equity-in-ai-education]]
 - [[student-engagement]]
 

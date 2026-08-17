@@ -22,7 +22,7 @@ This paper presents one of the most comprehensive closed-loop [[intelligent-tuto
 - [[affective-tutoring]]
 - [[multimodal]]
 - [[student-modeling]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[professional-training]]
 - [[engagement-metrics]]
 ## Connected Articles

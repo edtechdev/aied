@@ -3,7 +3,8 @@ title: Math Education
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-15T10:55:19-04:00"
 type: concept
-tags: [math-education, stem-education, ai-tutoring, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
+tags: [math-education, stem-education, intelligent-tutoring, intelligent-tutoring, k-12, generative-ai, higher-ed, student-experience, scaffolding]
+
 confidence: high
 ---
 
@@ -25,13 +26,13 @@ Mathematics education has become a primary domain for AI in education research b
 
 ### Connections to related concepts
 
-Math education sits within the broader [[stem-education]] domain with distinctive connections to [[intelligent-tutoring]] and [[ai-tutoring]] through the strong tradition of cognitive tutors and ITS research in mathematics, to [[scaffolding]] through the productive struggle and hint-use literature, to [[affective-computing]] through math anxiety and emotion-aware tutoring, to [[knowledge-tracing]] and [[assessment-validity]] through cognitive diagnosis and assessment research, and to [[teacher-role]] through teacher-AI collaboration in math instruction. The [[k-12]] connection is particularly strong — 8 of 10 math articles involve K-12 contexts — while [[higher-ed]] connections emerge in teacher preparation and advanced math practice.
+Math education sits within the broader [[stem-education]] domain with distinctive connections to [[intelligent-tutoring]] and [[intelligent-tutoring|AI Tutoring]] through the strong tradition of cognitive tutors and ITS research in mathematics, to [[scaffolding]] through the productive struggle and hint-use literature, to [[affective-computing]] through math anxiety and emotion-aware tutoring, to [[knowledge-tracing]] and [[assessment-validity]] through cognitive diagnosis and assessment research, and to [[teacher-role]] through teacher-AI collaboration in math instruction. The [[k-12]] connection is particularly strong — 8 of 10 math articles involve K-12 contexts — while [[higher-ed]] connections emerge in teacher preparation and advanced math practice.
 
 ## Connected Concepts
 
 - [[stem-education]]
 - [[intelligent-tutoring]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[scaffolding]]
 - [[affective-computing]]
 - [[affective-tutoring]]
@@ -49,7 +50,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[assessment-validity]]
 - [[multimodal]]
 - [[hallucination-risk]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[teacher-role]]
 - [[faculty-development]]
 - [[generative-ai]]

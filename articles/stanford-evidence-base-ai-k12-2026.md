@@ -3,7 +3,8 @@ title: "Stanford Evidence Base: AI in K-12 Education"
 created: "2026-07-29T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [k-12, ai-literacy, evidence, zone-of-proximal-development, k-12, ai-tutoring, scaffolding]
+tags: [k-12, ai-literacy, evidence, zone-of-proximal-development, k-12, intelligent-tutoring, scaffolding]
+
 sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
 ---
@@ -18,9 +19,9 @@ confidence: medium
 
 **Immediate Gains, Uncertain Transfer.** AI significantly improves performance *while students use it* — math proofs, programming, economics exams, physics, and argumentative writing all show gains during AI-supported practice. However, effects are mixed or negative when AI is removed. Bastani et al. (2025) found high schoolers using a general-purpose chatbot for math practice performed **~17% worse** on closed-book final exams than peers with no AI access, despite higher practice grades. Chen et al. (2025) found LLM-Tutor improved homework scores but did not improve unassisted exam scores. Lehmann et al. (2025) found general-purpose AI for programming increased topics covered but harmed understanding and widened achievement gaps for low-prior-knowledge students. Kosmyna et al. (2025) found AI essay assistance led to **83% of participants failing to recall a quote** from their own essay, versus 11% for non-AI users. This pattern — performance boost during use, learning loss after removal — is the central empirical finding of the review and directly implicates [[transfer-of-learning]] as the most critical open question in AI education research.
 
-**Easier Doesn't Mean Better.** Students consistently report greater enjoyment and reduced cognitive burden when using AI tools. However, reduced effort can undermine deeper learning. Kreijkes et al. (2026) found retention improved only when AI use was paired with traditional strategies like note-taking. Stadler et al. (2024) found general-purpose AI reduced [[cognitive-load-theory|cognitive load]] but produced lower-quality reasoning and argumentation compared to traditional search. This aligns with [[desirable-difficulties]] research: making practice easier often harms long-term retention and transfer, even when it feels better in the moment.
+**Easier Doesn't Mean Better.** Students consistently report greater enjoyment and reduced cognitive burden when using AI tools. However, reduced effort can undermine deeper learning. Kreijkes et al. (2026) found retention improved only when AI use was paired with traditional strategies like note-taking. Stadler et al. (2024) found general-purpose AI reduced cognitive load but produced lower-quality reasoning and argumentation compared to traditional search. This aligns with [[desirable-difficulties]] research: making practice easier often harms long-term retention and transfer, even when it feels better in the moment.
 
-**Pedagogical Design Matters.** The most actionable finding: tutoring-specific tools consistently outperform general-purpose chatbots. Bastani et al. found that a tutoring-specific chatbot with pedagogical guardrails (hints, step-by-step reasoning, refusal to give direct answers) mitigated the exam score drop, while general-purpose GPT Base *caused* it. This suggests that [[ai-tutoring]] effectiveness depends critically on pedagogical design, not just model capability. The review interprets findings through a learning science framework spanning [[zone-of-proximal-development]] (general-purpose AI may operate outside the ZPD by doing work for students), the expertise reversal effect (novices need guidance, experts need independence), and [[metacognition]] (AI completing tasks reduces opportunities for students to monitor their own understanding).
+**Pedagogical Design Matters.** The most actionable finding: tutoring-specific tools consistently outperform general-purpose chatbots. Bastani et al. found that a tutoring-specific chatbot with pedagogical guardrails (hints, step-by-step reasoning, refusal to give direct answers) mitigated the exam score drop, while general-purpose GPT Base *caused* it. This suggests that [[intelligent-tutoring|AI Tutoring]] effectiveness depends critically on pedagogical design, not just model capability. The review interprets findings through a learning science framework spanning [[zone-of-proximal-development]] (general-purpose AI may operate outside the ZPD by doing work for students), the expertise reversal effect (novices need guidance, experts need independence), and [[metacognition]] (AI completing tasks reduces opportunities for students to monitor their own understanding).
 
 **Educator Evidence.** While the student-focused causal evidence is thin, the educator evidence base is even sparser. Very few high-quality studies examine how AI affects teacher practice, workload, or professional development — a gap that is particularly concerning given the rapid push to deploy AI tools in classrooms and the documented [[genai-can-harm-teaching-rct-2026|risks of AI harming teaching quality]].
 
@@ -36,8 +37,7 @@ For the research community, the review functions as both a wake-up call and a ro
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
-- [[cognitive-load-theory]]
+- [[intelligent-tutoring]]
 - [[desirable-difficulties]]
 - [[k-12]]
 - [[k-12]]

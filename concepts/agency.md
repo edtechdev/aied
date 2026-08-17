@@ -3,13 +3,14 @@ title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-15T10:19:32-04:00"
 type: concept
-tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, over-reliance]
+tags: [agency, self-regulated-learning, motivation, student-experience, human-ai-collaboration, ethics, cognitive-offloading]
+
 confidence: high
 ---
 
 > **Learner agency** — the capacity of learners to act intentionally, make choices, and exercise control over their own learning. In AI in education, agency is a central concern because AI tools can both support and undermine learners' control: well-designed AI preserves and amplifies learner autonomy, while over-reliance or passive acceptance of AI output can erode it. Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], and the [[ethics|ethical]] design of AI systems, and is closely related to the psychological concepts of autonomy and sense of agency.
 
-Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[social-robots|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[over-reliance]].
+Agency matters because learning is most effective when learners are active, intentional participants rather than passive recipients. AI systems — whether tutoring agents, [[social-robots|robots]], or [[llm|chatbots]] — shape how much control learners retain over their learning process. Preserving agency is therefore a key design principle in responsible AI in education, alongside supporting [[self-efficacy]], building [[trust]], and avoiding [[cognitive-offloading|Over-Reliance]].
 
 ### How agency appears in the wiki's research
 
@@ -18,7 +19,7 @@ Agency matters because learning is most effective when learners are active, inte
 - **Critical engagement:** [[cognitive-offloading|Cognitive offloading]] research shows how students who delegate interpretation to AI can lose agency over their own reasoning; critical and [[metacognition|metacognitive]] approaches aim to protect it.
 - **Design for agency:** Knowledge-based design for [[social-robots|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
 
-Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[over-reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[ai-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
+Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
 
 ## Connected Concepts
 
@@ -29,7 +30,7 @@ Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]
 - [[human-ai-collaboration]]
 - [[metacognition]]
 - [[ethics]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[educational-robotics]]
 - [[behaviorism]]
 - [[cognitive-offloading]] — Cognitive Offloading in Student–AI Collaboration

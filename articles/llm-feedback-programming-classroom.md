@@ -3,7 +3,8 @@ title: "LLM-Generated Feedback in Introductory Programming: A Classroom Study"
 created: "2026-06-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, formative-assessment, feedback-loop, stem-education, higher-ed, automated-grading, rag]
+tags: [llm, formative-assessment, feedback, stem-education, higher-ed, automated-assessment, rag]
+
 sources: ['raw/papers/2606.08807.md']
 confidence: high
 ---
@@ -12,13 +13,13 @@ Presents a **large-scale classroom study** (N=215 students, 6,693 submissions ac
 
 **Key findings:** Natural language feedback is significantly associated with higher completion rates and faster convergence to correct solutions. Test case feedback shows heterogeneous effects that depend critically on feedback validity. The form of [[ai-feedback-quality|AI-generated feedback]] matters — evaluating feedback quality, not just its presence, is essential for understanding pedagogical impact.
 
-This study provides one of the largest empirical validations of LLM-based [[feedback-loop|automated feedback]] in authentic programming classrooms, with direct implications for [[automated-grading|automated grading systems]] and [[formative-assessment|formative assessment]] design in [[stem-education|CS education]].
+This study provides one of the largest empirical validations of LLM-based [[feedback|automated feedback]] in authentic programming classrooms, with direct implications for [[automated-assessment|automated grading systems]] and [[formative-assessment|formative assessment]] design in [[stem-education|CS education]].
 
 ## Connected Concepts
 
 - [[ai-feedback-quality]]
-- [[feedback-loop]]
-- [[automated-grading]]
+- [[feedback]]
+- [[automated-assessment]]
 - [[formative-assessment]]
 - [[stem-education]]
 - [[higher-ed]]

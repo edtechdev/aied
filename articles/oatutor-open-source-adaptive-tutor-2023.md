@@ -3,7 +3,8 @@ title: "OATutor: An Open-source Adaptive Tutoring System and Curated Content Lib
 created: "2026-08-12T21:26:01-04:00"
 updated: "2026-08-12"
 type: article
-tags: [intelligent-tutoring, adaptive-learning, open-source, knowledge-tracing, math-education, higher-ed, ai-tutoring, personalized-learning, edtech-platform]
+tags: [intelligent-tutoring, adaptive-learning, open-source, knowledge-tracing, math-education, higher-ed, intelligent-tutoring, personalized-learning, edtech-platform]
+
 sources: ['raw/papers/oatutor-chi-2023.md']
 confidence: high
 ---
@@ -39,7 +40,7 @@ OATutor's design goal is replicability: researchers can run experiments on OATut
 
 ## Connection to the wiki
 
-OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tutoring]] research infrastructure, and a companion system for evaluating [[generative-ai]] tutoring capabilities (see the companion learning-gain study). It connects to [[knowledge-tracing]] (BKT mastery estimation), [[personalized-learning]], and [[math-education]], and its open platform model is directly relevant to the [[ai-tutoring]] evidence base and to the automated authoring challenges explored in [[ai-tutor-authoring-promptdecipher]].
+OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tutoring]] research infrastructure, and a companion system for evaluating [[generative-ai]] tutoring capabilities (see the companion learning-gain study). It connects to [[knowledge-tracing]] (BKT mastery estimation), [[personalized-learning]], and [[math-education]], and its open platform model is directly relevant to the [[intelligent-tutoring|AI Tutoring]] evidence base and to the automated authoring challenges explored in [[ai-tutor-authoring-promptdecipher]].
 
 ## Connected Concepts
 
@@ -47,7 +48,7 @@ OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tut
 - [[adaptive-learning]]
 - [[knowledge-tracing]]
 - [[open-source]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[personalized-learning]]
 - [[math-education]]
 - [[edtech-platform]]

@@ -3,7 +3,8 @@ title: "ChatGPT-generated help produces learning gains equivalent to human tutor
 created: "2026-08-12T21:26:01-04:00"
 updated: "2026-08-12"
 type: article
-tags: [generative-ai, llm, ai-tutoring, intelligent-tutoring, scaffolding, math-education, learning-gains, hallucination-risk, adaptive-learning, feedback-loop]
+tags: [generative-ai, llm, intelligent-tutoring, intelligent-tutoring, scaffolding, math-education, learning-gains, hallucination-risk, adaptive-learning, feedback]
+
 sources: ['raw/papers/pardos-bhandari-chatgpt-hints-2024.md']
 confidence: high
 ---
@@ -40,14 +41,14 @@ The findings suggest that **LLM-generated worked solutions can be as effective a
 
 - [[generative-ai]]
 - [[llm]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[scaffolding]]
 - [[math-education]]
 - [[learning-gains]]
 - [[hallucination-risk]]
 - [[adaptive-learning]]
-- [[feedback-loop]]
+- [[feedback]]
 
 ## Connected Articles
 

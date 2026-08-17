@@ -3,7 +3,8 @@ title: "Artificial intelligence in higher education: a systematic review of its 
 created: "2026-08-15T09:33:47-04:00"
 updated: "2026-08-15"
 type: article
-tags: [student-engagement, higher-ed, ai-education, active-learning, project-based-learning, scaffolding, feedback-loop, generative-ai, digital-divide, systematic-review]
+tags: [student-engagement, higher-ed, ai-education, active-learning, project-based-learning, scaffolding, feedback, generative-ai, digital-divide, systematic-review]
+
 sources: ['raw/papers/long-ai-higher-ed-engagement-teaching-methods-2026.md']
 confidence: high
 ---
@@ -24,7 +25,7 @@ confidence: high
 
 ## Implications
 
-This review connects [[student-engagement]] and [[engagement-metrics]] to the central AIED finding that **instructional design mediates tool effectiveness** — an AI tool is only as engaging as the pedagogy it is embedded in. It supports the [[instructional-design]] and [[active-learning]] emphasis of the wiki and extends [[feedback-loop]] and [[scaffolding]] research to engagement outcomes. The PMAISE model's three engagement dimensions (affective, behavioral, cognitive) align with [[engagement-metrics]], while its attention to equity and infrastructure barriers connects to [[digital-divide]] and [[equity-in-ai-education]]. As a systematic review, it also exemplifies [[meta-analysis-systematic-review|synthesis methods]] in AIED research.
+This review connects [[student-engagement]] and [[engagement-metrics]] to the central AIED finding that **instructional design mediates tool effectiveness** — an AI tool is only as engaging as the pedagogy it is embedded in. It supports the [[instructional-design]] and [[active-learning]] emphasis of the wiki and extends [[feedback|Feedback Loop]] and [[scaffolding]] research to engagement outcomes. The PMAISE model's three engagement dimensions (affective, behavioral, cognitive) align with [[engagement-metrics]], while its attention to equity and infrastructure barriers connects to [[digital-divide]] and [[equity-in-ai-education]]. As a systematic review, it also exemplifies [[meta-analysis-systematic-review|synthesis methods]] in AIED research.
 
 ## Connected Concepts
 
@@ -35,7 +36,7 @@ This review connects [[student-engagement]] and [[engagement-metrics]] to the ce
 - [[active-learning]]
 - [[project-based-learning]]
 - [[scaffolding]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[instructional-design]]
 - [[digital-divide]]
 - [[equity-in-ai-education]]

@@ -3,7 +3,8 @@ title: "Beyond the AI Tutor: Social Learning with LLM Agents"
 created: "2026-05-11T04:33:04-04:00"
 updated: "2026-08-12"
 type: article
-tags: [llm, intelligent-tutoring, scaffolding, student-experience, collaborative-ai-tutoring, agentic-ai-ecosystems-higher-education, higher-ed, ai-tutoring, agentic-ai]
+tags: [llm, intelligent-tutoring, scaffolding, student-experience, collaborative-ai-tutoring, agentic-ai-ecosystems-higher-education, higher-ed, intelligent-tutoring, agentic-ai]
+
 sources: ['raw/papers/2604.02677.md']
 confidence: high
 ---
@@ -26,11 +27,11 @@ The two experiments span the convergent–divergent spectrum of learning tasks (
 
 ## Implications for AI in Education
 
-The findings suggest that one-on-one AI tutoring is not the only effective paradigm: **orchestrating multiple LLM agents — as peers alongside a tutor or as role-specialized collaborators — can add measurable learning value**, particularly by restoring ideational diversity that single-model assistance suppresses. For [[ai-tutoring]] and [[collaborative-learning]] system design, this points toward multi-agent configurations in which learners observe peer agents struggle, disagree, and co-construct understanding, rather than receiving authoritative answers from a single assistant. Two design-relevant patterns stand out. First, **homogenization is not an inherent cost of AI assistance but a function of how agents are deployed** — a direct implication for [[writing-education]], where offering multiple architecturally distinct models can preserve ideational diversity while maintaining quality. Second, the observed **error-salience asymmetry** — participants rated the arithmetic-error peer (Alice) more harshly than the conceptual-error peer (Charlie) on nearly every dimension, calibrating trust by the observability of errors rather than their severity — is an important consideration for designing pedagogical peer agents. The self-efficacy benefit of peer-like agents also speaks to [[motivation]] and [[self-regulated-learning]]: configurations that support learners whose primary barrier is confidence rather than knowledge.
+The findings suggest that one-on-one AI tutoring is not the only effective paradigm: **orchestrating multiple LLM agents — as peers alongside a tutor or as role-specialized collaborators — can add measurable learning value**, particularly by restoring ideational diversity that single-model assistance suppresses. For [[intelligent-tutoring|AI Tutoring]] and [[collaborative-learning]] system design, this points toward multi-agent configurations in which learners observe peer agents struggle, disagree, and co-construct understanding, rather than receiving authoritative answers from a single assistant. Two design-relevant patterns stand out. First, **homogenization is not an inherent cost of AI assistance but a function of how agents are deployed** — a direct implication for [[writing-education]], where offering multiple architecturally distinct models can preserve ideational diversity while maintaining quality. Second, the observed **error-salience asymmetry** — participants rated the arithmetic-error peer (Alice) more harshly than the conceptual-error peer (Charlie) on nearly every dimension, calibrating trust by the observability of errors rather than their severity — is an important consideration for designing pedagogical peer agents. The self-efficacy benefit of peer-like agents also speaks to [[motivation]] and [[self-regulated-learning]]: configurations that support learners whose primary barrier is confidence rather than knowledge.
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[collaborative-learning]]
 - [[scaffolding]]
 - [[writing-education]]

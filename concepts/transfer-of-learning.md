@@ -3,13 +3,14 @@ title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
 updated: "2026-08-15T10:19:32-04:00"
 type: concept
-tags: [transfer-of-learning, metacognition, cognitive-load-theory, desirable-difficulties, k-12, ai-tutoring, scaffolding, over-reliance]
+tags: [transfer-of-learning, metacognition, desirable-difficulties, k-12, intelligent-tutoring, scaffolding, cognitive-offloading]
+
 confidence: high
 ---
 
 > **Transfer of Learning** — the extent to which knowledge or skills acquired in one context (e.g., practice with an AI tool) persist and apply in a different context (e.g., independent performance without the tool). In AI in education, transfer is the central open question: whether performance gains students show *with* AI tools translate into durable learning they can demonstrate *without* them.
 
-Transfer of learning is a foundational concern in education research, and AI tools have made it urgent. The defining empirical pattern documented across AI in education studies is a **transfer paradox**: students using AI typically show immediate, measurable gains on tasks where AI is available, but those gains often fail to persist — or even reverse — when AI is removed and students must demonstrate understanding independently. This pattern implicates [[over-reliance]], [[cognitive-load-theory]], and [[metacognition]] as the mechanisms at work, and connects directly to debates about [[ai-tutoring]] design.
+Transfer of learning is a foundational concern in education research, and AI tools have made it urgent. The defining empirical pattern documented across AI in education studies is a **transfer paradox**: students using AI typically show immediate, measurable gains on tasks where AI is available, but those gains often fail to persist — or even reverse — when AI is removed and students must demonstrate understanding independently. This pattern implicates [[cognitive-offloading|Over-Reliance]], Cognitive Load Theory, and [[metacognition]] as the mechanisms at work, and connects directly to debates about [[intelligent-tutoring|AI Tutoring]] design.
 
 ### The transfer paradox
 
@@ -35,7 +36,7 @@ All five studies show a **negative or null transfer** pattern when general-purpo
 
 **Metacognitive displacement.** AI completing reasoning reduces opportunities for students to monitor their own understanding and select strategies. Students who used AI were less able to explain their answers when queried. This connects to [[metacognition]] research on self-monitoring and the [[vibe-compiler-metacognition-genai-agency-2026|evidence that structured courses increase metacognitive competence while raw LLM assistants do not]].
 
-**Germane load suppression.** General-purpose AI reduces not just extraneous (distracting) cognitive load but also *germane* load — the productive mental effort that encodes durable knowledge. Easier practice feels better but stores weaker traces. See [[cognitive-load-theory]] and the distinction between [[tutoring-specific-vs-general-ai|tutoring-specific vs general AI]].
+**Germane load suppression.** General-purpose AI reduces not just extraneous (distracting) cognitive load but also *germane* load — the productive mental effort that encodes durable knowledge. Easier practice feels better but stores weaker traces. See Cognitive Load Theory and the distinction between [[tutoring-specific-vs-general-ai|tutoring-specific vs general AI]].
 
 **Over-reliance / expertise reversal.** Novices given answers do not build schemas. General AI provides answers; effective tutoring provides structured guidance. When novices are given expert-level shortcuts, learning is disrupted — the [[desirable-difficulties]] principle in reverse.
 
@@ -50,7 +51,7 @@ The limited evidence suggests transfer is possible when:
 - **AI is used for [[formative-assessment|formative]], not summative, practice** — scaffolding during learning, not during assessment
 - **Learner expertise is calibrated** — the tool adapts support to readiness rather than defaulting to full assistance
 
-This aligns with [[ai-tutoring]] research showing that tutoring-specific tools with pedagogical guardrails outperform general-purpose chatbots, and with [[scaffolding]] principles about fading support as competence grows.
+This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tutoring-specific tools with pedagogical guardrails outperform general-purpose chatbots, and with [[scaffolding]] principles about fading support as competence grows.
 
 ### Unanswered questions
 
@@ -61,17 +62,16 @@ This aligns with [[ai-tutoring]] research showing that tutoring-specific tools w
 
 ### Connections to related concepts
 
-Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), [[cognitive-load-theory]] (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[over-reliance]] (tool dependence), and [[zone-of-proximal-development]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[tutoring-specific-vs-general-ai]] and the central question for [[ai-tutoring]] effectiveness.
+Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[zone-of-proximal-development]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[tutoring-specific-vs-general-ai]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
 
 ## Connected Concepts
 
 - [[metacognition]]
-- [[cognitive-load-theory]]
 - [[desirable-difficulties]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[scaffolding]]
 - [[zone-of-proximal-development]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[k-12]]
 - [[self-regulated-learning]]
 - [[learning-theories]]

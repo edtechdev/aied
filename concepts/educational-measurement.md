@@ -14,7 +14,7 @@ Educational measurement is the discipline of turning observations about learning
 ### How educational measurement appears in the research
 
 - **AI-predicted difficulty and calibration:** [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] and [[llm-item-difficulty-prediction|item-difficulty prediction]] use LLMs to estimate item difficulty, which must be validated against psychometric estimates (see [[item-response-theory]]).
-- **Psychometric awareness in AI assessment:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[confidence-aware-ai-assessment]]).
+- **Psychometric awareness in AI assessment:** [[psychometrically-aware-ai|psychometrically aware AI]] is the standard that AI-based assessment be aligned with measurement theory — calibrated, uncertainty-aware, and validity-preserving (see [[automated-assessment|Confidence Aware AI Assessment]]).
 - **Automated scoring and validity:** [[ai-scoring-language-bias-physics|AI scoring and language bias]] and [[multimodal-item-parameter-estimation-2026|multimodal item-parameter estimation]] examine how automated scoring and multimodal data affect measurement quality.
 - **Validity frameworks:** [[assessment-validity]] and [[educational-nlp]] supply the standards and tools for validating LLM-based measurement.
 
@@ -32,7 +32,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[educational-nlp]]
 - [[learning-analytics]]
 - [[ai-ed-evaluation]]
-- [[confidence-aware-ai-assessment]]
+- [[automated-assessment]]
 - [[limitations-in-aied-research]]
 
 ## Connected Articles

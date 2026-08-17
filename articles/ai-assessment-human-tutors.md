@@ -3,7 +3,8 @@ title: "AI-Driven Assessment of Human Tutors: Linking Training Performance to Re
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, automated-grading, feedback-loop, teacher-role, efficacy-study, adaptive-virtual-patient-psychotherapy-training, formative-assessment]
+tags: [intelligent-tutoring, automated-assessment, feedback, teacher-role, efficacy-study, adaptive-virtual-patient-psychotherapy-training, formative-assessment]
+
 sources: ['raw/papers/2606.18617.md']
 confidence: high
 ---
@@ -20,7 +21,7 @@ AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life 
 - [[automated-assessment]]
 - [[teacher-ai-competency]]
 - [[learning-analytics]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[professional-training]]
 
 ## Connected Articles

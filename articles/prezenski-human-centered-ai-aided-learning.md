@@ -3,7 +3,8 @@ title: "How Human-Centered Is AI-Aided Learning in Education?"
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
-tags: [human-centered-ai, adaptive-learning, intelligent-tutoring, cognitive-load-theory, ethics, equity, teacher-role, higher-ed]
+tags: [human-centered-ai, adaptive-learning, intelligent-tutoring, ethics, equity, teacher-role, higher-ed]
+
 sources: ['raw/papers/prezenski-human-centered-ai-aided-learning.md']
 confidence: high
 ---
@@ -56,7 +57,7 @@ Reasons include the difficulty of sustained developer–educator collaboration, 
 
 ## Why this matters for the wiki
 
-- A bridge between **[[adaptive-learning]]/[[intelligent-tutoring]]** engineering and the **[[ethics]]/[[equity-in-ai-education]]** critique, all through a single [[cognitive-load-theory]] and [[over-reliance]] lens.
+- A bridge between **[[adaptive-learning]]/[[intelligent-tutoring]]** engineering and the **[[ethics]]/[[equity-in-ai-education]]** critique, all through a single Cognitive Load Theory and [[cognitive-offloading|Over-Reliance]] lens.
 - Central reference for Human-Centered AI work (see [[haiml-human-centered-ai-metacognitive-model-2026]]) and the "AI makes us stupid" cognitive-harm debate (cf. [[ai-making-us-stupid]], [[brcic-effortless-trap-productive-struggle-2026]]).
 - Frames the [[teacher-role]] and [[higher-ed]] implications of keeping humans in the loop ([[human-ai-collaboration]], [[ai-literacy]]).
 
@@ -64,16 +65,15 @@ Reasons include the difficulty of sustained developer–educator collaboration, 
 
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
-- [[ai-tutoring]]
-- [[cognitive-load-theory]]
+- [[intelligent-tutoring]]
 - [[ethics]]
 - [[equity-in-ai-education]]
 - [[teacher-role]]
 - [[higher-ed]]
 - [[ai-education]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[personalized-learning]]
-- [[gamification]]
+- [[game-based-learning]]
 - [[cognitive-offloading]]
 - [[learning-analytics]]
 - [[human-ai-collaboration]]

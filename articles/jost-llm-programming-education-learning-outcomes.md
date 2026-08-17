@@ -40,7 +40,7 @@ The study provides empirical evidence that how LLMs are used—not merely whethe
 - [[llm]]
 - [[programming-education]]
 - [[cs-education]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[critical-thinking]]

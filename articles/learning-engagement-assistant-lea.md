@@ -12,7 +12,7 @@ LEA (Learning Engagement Assistant) is an **agentic AI tutoring system** that co
 
 The study exposes a key gap between simulated evaluation and [[student-experience|real classroom deployment]]: synthetic learners predicted engagement patterns that diverged from observed behaviour, arguing that simulation alone cannot anticipate all aspects of live use. A RAGAS-based scalability evaluation across 660 questions found Answer Relevancy (0.88-0.94) and Context Precision (0.88-0.90) stable across courses, while Faithfulness declined with curriculum distance from LEA's original course (0.69 to 0.50) — a preliminary signal that downstream components, not the orchestration layer, constrain course-agnostic tutoring.
 
-The work sits within the broader literature on [[intelligent-tutoring]] and [[agentic-workflows-education]], with implications for [[higher-ed]] and [[stem-education]] deployment, and connects to debates on [[formative-assessment]] quality and the limits of automated [[feedback-loop]] in [[personalized-learning]].
+The work sits within the broader literature on [[intelligent-tutoring]] and [[agentic-workflows-education]], with implications for [[higher-ed]] and [[stem-education]] deployment, and connects to debates on [[formative-assessment]] quality and the limits of automated [[feedback|Feedback Loop]] in [[personalized-learning]].
 
 ## Connected Concepts
 
@@ -22,7 +22,7 @@ The work sits within the broader literature on [[intelligent-tutoring]] and [[ag
 - [[higher-ed]]
 - [[stem-education]]
 - [[formative-assessment]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[personalized-learning]]
 - [[rag]]
 - [[agentic-ai]]

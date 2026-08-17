@@ -45,7 +45,7 @@ Across the model results, a consistent pattern emerges: **responsible AI use doe
 - [[academic-integrity]]
 - [[generative-ai]]
 - [[higher-ed]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[regulation]]
 - [[educational-policy-ai]]
 - [[governance]]

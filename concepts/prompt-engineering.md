@@ -7,7 +7,7 @@ tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experien
 confidence: high
 ---
 
-> **Prompt engineering** — the practice of designing and refining inputs to large language models to achieve desired outputs. In education, prompt engineering serves dual roles: as a learner skill (students must learn to prompt effectively) and as a system design lever (developers craft prompts that shape [[ai-tutoring|AI tutoring]] behavior).
+> **Prompt engineering** — the practice of designing and refining inputs to large language models to achieve desired outputs. In education, prompt engineering serves dual roles: as a learner skill (students must learn to prompt effectively) and as a system design lever (developers craft prompts that shape [[intelligent-tutoring|AI tutoring]] behavior).
 
 Prompt engineering is central to effective [[generative-ai]] use in education. Unlike traditional programming interfaces, LLMs respond to natural language — but the quality, accuracy, and pedagogical value of those responses depend heavily on prompt design. Research in this wiki reveals that prompting is not a neutral act: it reflects how students think, plan, and allocate cognitive effort.
 
@@ -32,7 +32,7 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[agentic-ai]]
 - [[metacognition]]
 - [[curriculum-design]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[writing-education]]
 - [[k-12]]
 - [[generative-ai]]

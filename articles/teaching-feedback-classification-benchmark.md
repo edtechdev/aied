@@ -3,14 +3,15 @@ title: A Durability and Cross-Language Transfer Benchmark for a Validated Teachi
 created: "2026-07-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [feedback-loop, automated-grading, teacher-role, formative-assessment, higher-ed, faculty-development-genai]
+tags: [feedback, automated-assessment, teacher-role, formative-assessment, higher-ed, faculty-development-genai]
+
 sources: ['raw/papers/2607.11873.md']
 confidence: medium
 ---
 
 > Extends a prior validated protocol for classifying open-ended teaching-evaluation feedback by thematic category and sentiment, introducing a durability and cross-language transfer benchmark. Institutions collect far more teaching feedback than they read; automated classification makes it actionable.
 
-Sits at the intersection of [[feedback-loop]], [[automated-grading]], and [[teacher-role]] support in [[higher-ed]]. It relates to [[formative-assessment]] and the [[ai-feedback-quality]] stub, providing a reusable benchmark for scaling educator feedback analysis and connecting to [[faculty-development]].
+Sits at the intersection of [[feedback|Feedback Loop]], [[automated-assessment|Automated Grading]], and [[teacher-role]] support in [[higher-ed]]. It relates to [[formative-assessment]] and the [[ai-feedback-quality]] stub, providing a reusable benchmark for scaling educator feedback analysis and connecting to [[faculty-development]].
 
 ## Key Findings
 
@@ -30,8 +31,8 @@ Institutions collect far more open-ended teaching-evaluation feedback than they 
 
 ## Connected Concepts
 
-- [[feedback-loop]]
-- [[automated-grading]]
+- [[feedback]]
+- [[automated-assessment]]
 - [[teacher-role]]
 - [[higher-ed]]
 - [[formative-assessment]]

@@ -3,7 +3,8 @@ title: "Atmospheric Regulation in the Age of Generative AI: The Sovereign Hive a
 created: "2026-08-14T09:17:22-04:00"
 updated: "2026-08-14"
 type: article
-tags: [generative-ai, equity-in-ai-education, cognitive-offloading, metacognition, neurodiversity, adult-learning, well-being, digital-divide, over-reliance, ai-misuse-learning-harm]
+tags: [generative-ai, equity-in-ai-education, cognitive-offloading, metacognition, neurodiversity, adult-learning, well-being, digital-divide, cognitive-offloading, ai-misuse-learning-harm]
+
 sources: ['raw/papers/sovereign-hive-titl-further-education-2026.md']
 confidence: high
 ---
@@ -20,7 +21,7 @@ Using the metaphor of Mars Gravity (MG) for intensified pressure, the author des
 
 ## Regulating the Learning Atmosphere
 
-The framework positions the educator as an atmospheric regulator who modulates how AI-mediated [[cognitive-offloading]] interacts with learner resources, guarding against [[over-reliance]] and [[ai-misuse-learning-harm]]. It offers a practice-grounded model for equitable GenAI integration in [[adult-learning]] and Further Education settings that are often absent from mainstream AIED research, addressing the [[digital-divide]] rather than assuming universal access benefits.
+The framework positions the educator as an atmospheric regulator who modulates how AI-mediated [[cognitive-offloading]] interacts with learner resources, guarding against [[cognitive-offloading|Over-Reliance]] and [[ai-misuse-learning-harm]]. It offers a practice-grounded model for equitable GenAI integration in [[adult-learning]] and Further Education settings that are often absent from mainstream AIED research, addressing the [[digital-divide]] rather than assuming universal access benefits.
 
 ## Connected Concepts
 
@@ -32,7 +33,7 @@ The framework positions the educator as an atmospheric regulator who modulates h
 - [[adult-learning]]
 - [[well-being]]
 - [[digital-divide]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 
 ## Connected Articles

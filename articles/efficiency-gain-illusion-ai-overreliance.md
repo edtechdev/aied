@@ -3,7 +3,8 @@ title: "The efficiency-gain illusion: People underestimate the rate of AI use an
 created: "2026-05-23T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, over-reliance, ai-literacy, student-experience, ai-assistance-reduces-persistence, rag, ai-education]
+tags: [generative-ai, cognitive-offloading, ai-literacy, student-experience, ai-assistance-reduces-persistence, rag, ai-education]
+
 sources: ['raw/papers/2605.22687.md']
 confidence: medium
 ---
@@ -20,9 +21,9 @@ Across three pre-registered studies (N=2,691), this paper documents systematic m
 
 Critically, the authors identify a **session-level carryover effect**: prior AI use in a session leads to further AI adoption, which in turn entrenches the miscalibration about time savings. This creates a **self-reinforcing feedback loop** — initial AI use begets more AI use, and the illusion of efficiency makes it harder for users to self-correct.
 
-## Connection to [[over-reliance]]
+## Connection to [[cognitive-offloading|Over-Reliance]]
 
-This study provides a cognitive mechanism for the [[over-reliance]] phenomenon: the efficiency-gain illusion explains *why* students and other users continue to reach for AI even when it demonstrably doesn't help — and in fact may harm learning outcomes, as documented in related work. The findings complement [[cognitive-shift-ai-education]] by identifying the perceptual biases that drive behavioral change.
+This study provides a cognitive mechanism for the [[cognitive-offloading|Over-Reliance]] phenomenon: the efficiency-gain illusion explains *why* students and other users continue to reach for AI even when it demonstrably doesn't help — and in fact may harm learning outcomes, as documented in related work. The findings complement [[cognitive-shift-ai-education]] by identifying the perceptual biases that drive behavioral change.
 
 ## Implications for [[ai-literacy]]
 
@@ -31,7 +32,7 @@ These results have direct implications for AI literacy education: users need not
 ## Connected Concepts
 
 - [[generative-ai]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[metacognition]]
 - [[trust-calibration]]

@@ -3,12 +3,13 @@ title: "AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA
 created: "2026-06-12T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, llm, automated-grading, writing-education, open-source, automated-assessment]
+tags: [generative-ai, llm, automated-assessment, writing-education, open-source, automated-assessment]
+
 sources: ['raw/papers/2606.12801.md']
 confidence: high
 ---
 
-Gayed presents **AiAWE**, an open-source [[automated-grading|automated writing evaluation]] (AWE) system that scores argumentative essays using a LoRA-adapted instruction-tuned [[llm|large language model]] (Gemma-3-27B-it). Using a proprietary ETS dataset of 480 TOEFL Independent Writing essays (120 training, 360 evaluation), the system achieves:
+Gayed presents **AiAWE**, an open-source [[automated-assessment|automated writing evaluation]] (AWE) system that scores argumentative essays using a LoRA-adapted instruction-tuned [[llm|large language model]] (Gemma-3-27B-it). Using a proprietary ETS dataset of 480 TOEFL Independent Writing essays (120 training, 360 evaluation), the system achieves:
 
 - **RMSE:** 0.474
 - **Quadratic Weighted Kappa (QWK):** 0.828
@@ -20,7 +21,7 @@ Three broader findings emerge: (1) model scale is not a reliable predictor of do
 
 ## Connected Concepts
 
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[llm]]
 - [[generative-ai]]
 - [[edtech-platform]]

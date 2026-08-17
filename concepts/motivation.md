@@ -13,7 +13,7 @@ Motivation is a foundational construct in education research, and the rise of AI
 
 ### Key research themes
 
-**AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[over-reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile chatbot journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in engineering education.
+**AI effects on student motivation** is the most direct line of research. **[[ai-availability-student-motivation]]** examines how the availability of AI assistance affects student motivation and persistence, connecting to [[cognitive-offloading|Over-Reliance]] research on motivation erosion when AI does the work. **[[scheu-mobile-chatbot-journaling-motivation-2026]]** explores mobile chatbot journaling as a motivational intervention. **[[ai-learning-tools-engineering-education-needs]]** examines what motivates students to adopt AI learning tools in engineering education.
 
 **Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with epistemic network analysis to study engagement with [[generative-ai|generative AI]]. **[[not-a-universal-benefit-examining-the-differential-effects-of-emotional-ai-on-l2|Wang & Pang]]** found the motivational effects of emotional AI on L2 pre-service teachers are not universal — they vary by individual and context.
 
@@ -21,7 +21,7 @@ Motivation is a foundational construct in education research, and the rise of AI
 
 ### Connections to related concepts
 
-Motivation is the parent construct of [[self-determination-theory]], which specifies the psychological needs (autonomy, competence, relatedness) that sustain intrinsic motivation. It connects to [[student-experience]] as the experiential layer of motivated engagement, to [[engagement-metrics]] as its measurable dimension, and to [[affective-computing]] for the emotional mechanisms that shape motivation. Motivation also connects to [[over-reliance]] (AI reducing productive struggle), [[self-regulated-learning]] (motivated learners self-regulate), and [[teacher-role]] (motivation applies to educators as well as students).
+Motivation is the parent construct of [[self-determination-theory]], which specifies the psychological needs (autonomy, competence, relatedness) that sustain intrinsic motivation. It connects to [[student-experience]] as the experiential layer of motivated engagement, to [[engagement-metrics]] as its measurable dimension, and to [[affective-computing]] for the emotional mechanisms that shape motivation. Motivation also connects to [[cognitive-offloading|Over-Reliance]] (AI reducing productive struggle), [[self-regulated-learning]] (motivated learners self-regulate), and [[teacher-role]] (motivation applies to educators as well as students).
 
 ## Connected Concepts
 
@@ -30,7 +30,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[engagement-metrics]]
 - [[affective-computing]]
 - [[affective-tutoring]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[teacher-role]]
 - [[ai-education]]

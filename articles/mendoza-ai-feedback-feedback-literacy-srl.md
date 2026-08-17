@@ -3,7 +3,8 @@ title: "Making sense of AI feedback: how students' feedback literacy moderates t
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-feedback-quality, self-regulated-learning, feedback-loop, formative-assessment, ai-literacy, trust-calibration, generative-ai, metacognition, k-12, moderation-study]
+tags: [ai-feedback-quality, self-regulated-learning, feedback, formative-assessment, ai-literacy, trust-calibration, generative-ai, metacognition, k-12, moderation-study]
+
 sources: ['raw/papers/mendoza-ai-feedback-feedback-literacy-srl.md']
 confidence: high
 ---
@@ -62,14 +63,14 @@ Practically, they recommend a **three-tier implementation framework** (universal
 
 - [[ai-feedback-quality]]
 - [[self-regulated-learning]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[formative-assessment]]
 - [[ai-literacy]]
 - [[trust-calibration]]
 - [[generative-ai]]
 - [[metacognition]]
 - [[k-12]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[feedback-literacy]]
 
 ## Connected Articles

@@ -50,7 +50,7 @@ The findings have implications beyond programming — the productivity-learning 
 - [[meta-analysis-systematic-review]]
 - [[programming-education]]
 - [[learning-gains]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[tutoring-specific-vs-general-ai]]

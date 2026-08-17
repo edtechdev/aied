@@ -3,12 +3,13 @@ title: "It's Not the Tool, It's the Task: A Framework for Cognitively Activated 
 created: "2026-08-17T09:55:00-04:00"
 updated: "2026-08-17T09:55:00-04:00"
 type: article
-tags: [physics-education, generative-ai, self-regulated-learning, cognitive-load-theory, instructional-design, human-ai-collaboration, metacognition, scaffolding]
+tags: [physics-education, generative-ai, self-regulated-learning, instructional-design, human-ai-collaboration, metacognition, scaffolding]
+
 sources: ['raw/papers/2601.13812.md']
 confidence: high
 ---
 
-> **Synthesis:** Kuhn, Küchemann, Rakestraw, and Vogt (2026) argue that the central challenge of AI in [[physics-education|physics education]] is not cheating or tool selection but [[instructional-design|instructional design]]. Responding to Kortemeyer's "boiling frog problem" — the risk that incremental accommodations to AI quietly erode students' engagement in epistemic practice — they propose **AIRIS** (Activate–Inquire–Reflect with Intelligent Support), a three-phase framework that structures student work before, during, and after AI use. Grounded in [[self-regulated-learning]], [[cognitive-load-theory]], multiple external representations, and [[human-ai-collaboration|hybrid intelligence]], AIRIS keeps prediction, interpretation, and evaluation as non-delegable human tasks while allowing procedural computation to be delegated to AI. The authors illustrate the framework with a smartphone-acceleration elevator investigation and call for "withdrawal condition" experiments to test whether AIRIS-structured learning survives the removal of AI support.
+> **Synthesis:** Kuhn, Küchemann, Rakestraw, and Vogt (2026) argue that the central challenge of AI in [[physics-education|physics education]] is not cheating or tool selection but [[instructional-design|instructional design]]. Responding to Kortemeyer's "boiling frog problem" — the risk that incremental accommodations to AI quietly erode students' engagement in epistemic practice — they propose **AIRIS** (Activate–Inquire–Reflect with Intelligent Support), a three-phase framework that structures student work before, during, and after AI use. Grounded in [[self-regulated-learning]], Cognitive Load Theory, multiple external representations, and [[human-ai-collaboration|hybrid intelligence]], AIRIS keeps prediction, interpretation, and evaluation as non-delegable human tasks while allowing procedural computation to be delegated to AI. The authors illustrate the framework with a smartphone-acceleration elevator investigation and call for "withdrawal condition" experiments to test whether AIRIS-structured learning survives the removal of AI support.
 
 ## The boiling frog problem
 
@@ -19,7 +20,7 @@ The paper opens with the observation that multiple [[generative-ai|generative AI
 Physics learning involves constructing models, coordinating representations, evaluating assumptions, and reflecting on uncertainty. The framework draws on four research traditions:
 
 - **[[self-regulated-learning]] (SRL):** when AI silently performs key cognitive steps, the regulatory processes of planning, monitoring, and reflecting may be bypassed rather than supported.
-- **[[cognitive-load-theory]] (CTML):** reducing extraneous load supports learning, but eliminating germane cognitive effort undermines understanding.
+- **Cognitive Load Theory (CTML):** reducing extraneous load supports learning, but eliminating germane cognitive effort undermines understanding.
 - **Multiple external representations:** conceptual understanding emerges from coordinating representations (graphs, equations, verbal descriptions), not just translating between them.
 - **[[human-ai-collaboration|Hybrid intelligence]]:** productive human–AI collaboration requires explicit role differentiation, with epistemic responsibility remaining human rather than delegated to the machine.
 
@@ -57,7 +58,6 @@ AIRIS is presented as a classroom-level response to the boiling frog problem: it
 - [[generative-ai]]
 - [[human-ai-collaboration]]
 - [[self-regulated-learning]]
-- [[cognitive-load-theory]]
 - [[metacognition]]
 - [[scaffolding]]
 - [[ai-education]]

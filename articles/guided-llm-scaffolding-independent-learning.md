@@ -24,7 +24,7 @@ The design distinguishes between *assigned LLM access* and the *quality of stude
 
 ## Implications for AI in Education
 
-The central conclusion is that **LLM access alone is an incomplete educational intervention**: for [[ai-tutoring]] and [[curriculum-design]], the design challenge is to scaffold how students use LLMs so that these systems function as partners in reasoning rather than answer-getting tools. The findings support investing in [[prompt-engineering]]-style training and help-seeking guidance, and align with concerns about [[over-reliance]] when access is unrestricted — while noting that the study's modest scale and single-course context warrant replication.
+The central conclusion is that **LLM access alone is an incomplete educational intervention**: for [[intelligent-tutoring|AI Tutoring]] and [[curriculum-design]], the design challenge is to scaffold how students use LLMs so that these systems function as partners in reasoning rather than answer-getting tools. The findings support investing in [[prompt-engineering]]-style training and help-seeking guidance, and align with concerns about [[cognitive-offloading|Over-Reliance]] when access is unrestricted — while noting that the study's modest scale and single-course context warrant replication.
 
 ## Connected Concepts
 
@@ -34,9 +34,9 @@ The central conclusion is that **LLM access alone is an incomplete educational i
 - [[curriculum-design]]
 - [[metacognition]]
 - [[agentic-ai]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[help-seeking]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[higher-ed]]
 ## Connected Articles
 

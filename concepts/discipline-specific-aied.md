@@ -31,9 +31,9 @@ The wiki has dedicated concept pages for several subject areas:
 
 Several threads cut across all disciplines, though they play out differently in each:
 
-- **Tutoring and feedback.** AI tutoring systems ([[ai-tutoring]], [[intelligent-tutoring]], [[feedback]], [[ai-feedback-quality]]) appear in nearly every discipline, from [[math-education|math]] and [[physics-education|physics]] tutors to [[writing-education|writing]] and [[language-learning|language]] feedback. The discipline shapes what counts as good feedback — right/wrong in math, argument quality in writing, fluency in language.
-- **Assessment and evaluation.** [[automated-assessment]], [[automated-grading]], [[automated-essay-scoring]], and [[formative-assessment]] are reimagined by AI across disciplines, but the scoring constructs differ (procedural accuracy vs. interpretive depth vs. communicative competence).
-- **Cognitive offloading and over-reliance.** [[cognitive-offloading]] and [[over-reliance]] risk appears across [[math-education|math]], [[cs-education|CS]], and [[writing-education|writing]], though the "cognitive act" being offloaded is discipline-specific — computation vs. code vs. composition.
+- **Tutoring and feedback.** AI tutoring systems ([[intelligent-tutoring|AI Tutoring]], [[intelligent-tutoring]], [[feedback]], [[ai-feedback-quality]]) appear in nearly every discipline, from [[math-education|math]] and [[physics-education|physics]] tutors to [[writing-education|writing]] and [[language-learning|language]] feedback. The discipline shapes what counts as good feedback — right/wrong in math, argument quality in writing, fluency in language.
+- **Assessment and evaluation.** [[automated-assessment]], [[automated-assessment|Automated Grading]], [[automated-essay-scoring]], and [[formative-assessment]] are reimagined by AI across disciplines, but the scoring constructs differ (procedural accuracy vs. interpretive depth vs. communicative competence).
+- **Cognitive offloading and over-reliance.** [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risk appears across [[math-education|math]], [[cs-education|CS]], and [[writing-education|writing]], though the "cognitive act" being offloaded is discipline-specific — computation vs. code vs. composition.
 - **AI literacy and critical use.** [[ai-literacy]], [[critical-thinking]], and [[critical-pedagogy]] underpin responsible use in every subject.
 - **Equity and access.** [[equity-in-ai-education]], [[digital-divide]], and [[culturally-relevant-pedagogy]] concern all disciplines.
 
@@ -84,7 +84,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[k-12]]
 - [[higher-ed]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[feedback]]
 - [[assessment]]
 - [[equity-in-ai-education]]

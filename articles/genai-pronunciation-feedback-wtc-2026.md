@@ -3,7 +3,8 @@ title: "Associations Between Generative AI–Based Pronunciation Feedback and Wi
 created: "2026-08-13T05:14:23-04:00"
 updated: "2026-08-13"
 type: article
-tags: [language-learning, generative-ai, ai-feedback-quality, self-regulated-learning, motivation, teacher-role, feedback-loop, personalized-learning]
+tags: [language-learning, generative-ai, ai-feedback-quality, self-regulated-learning, motivation, teacher-role, feedback, personalized-learning]
+
 sources: ['raw/papers/10.3389_fpsyg.2026.1918980.md']
 confidence: high
 ---
@@ -36,7 +37,7 @@ The cross-sectional design precludes causal inference, and the convenience sampl
 - [[ai-feedback-quality]]
 - [[self-regulated-learning]]
 - [[motivation]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[personalized-learning]]
 
 ## Connected Articles

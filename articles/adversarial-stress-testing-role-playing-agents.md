@@ -43,7 +43,7 @@ The evaluation platform coordinates three specialized agents:
 
 The framework's relevance to education is twofold:
 
-- **[[ai-tutoring|AI tutors]] and [[pedagogical-agent|pedagogical agents]]** are role-playing agents that must maintain consistent instructional personas, making them candidates for this evaluation methodology
+- **[[intelligent-tutoring|AI tutors]] and [[pedagogical-agent|pedagogical agents]]** are role-playing agents that must maintain consistent instructional personas, making them candidates for this evaluation methodology
 - **Student interaction patterns** can be adversarial (testing boundaries, emotional appeals, authority challenges), and educational agents must be robust to these behaviors
 - The open-source release provides infrastructure for the AIED community to evaluate safety and robustness of educational language agents
 
@@ -52,7 +52,7 @@ The framework's relevance to education is twofold:
 - [[agentic-ai]]
 - [[ai-education]]
 - [[pedagogical-safety]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[pedagogical-agent]]
 ## Connected Articles
 

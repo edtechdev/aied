@@ -25,7 +25,7 @@ The authors discuss limitations (integration complexity, content-authoring burde
 - [[administrator]]
 - [[equity-in-ai-education]]
 - [[teacher-ai-competency]]
-- [[gamification]]
+- [[game-based-learning]]
 - [[game-based-learning]]
 - [[edtech-platform]]
 - [[student-engagement]]

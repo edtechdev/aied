@@ -3,7 +3,8 @@ title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-15T10:19:32-04:00"
 type: concept
-tags: [ai-feedback-quality, formative-assessment, automated-grading, feedback-loop, generative-ai, ai-literacy]
+tags: [ai-feedback-quality, formative-assessment, automated-assessment, feedback, generative-ai, ai-literacy]
+
 confidence: high
 ---
 
@@ -19,7 +20,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 - **Collaborative feedback systems:** [[becerra-aicofe-feedback-2026|AICoFE]] implements and deploys AI-based collaborative feedback in higher education, evaluating both system performance and student reception.
 
-- **Automated grading feedback:** [[automated-grading]] and [[formative-assessment]] research examine whether AI-scored assessments provide feedback that matches or exceeds human grading quality.
+- **Automated grading feedback:** [[automated-assessment|Automated Grading]] and [[formative-assessment]] research examine whether AI-scored assessments provide feedback that matches or exceeds human grading quality.
 
 - **Essay scoring feedback:** [[cong-confidence-asag-2026|Confidence-aware ASAG]] and [[choi-anchor-aes-prompting-2025|anchor-based AES]] explore how confidence calibration and prompting design affect feedback quality for writing assessment.
 
@@ -32,30 +33,30 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 ### Quality dimensions
 
 AI feedback quality spans multiple dimensions captured in the wiki:
-- **Accuracy:** Does the feedback correctly identify errors and strengths? ([[automated-grading]], [[automated-essay-scoring]])
-- **Helpfulness:** Does the feedback guide improvement? ([[feedback-loop]], [[ai-peer-feedback-systems]])
+- **Accuracy:** Does the feedback correctly identify errors and strengths? ([[automated-assessment|Automated Grading]], [[automated-essay-scoring]])
+- **Helpfulness:** Does the feedback guide improvement? ([[feedback|Feedback Loop]], [[ai-peer-feedback-systems]])
 - **Timeliness:** Is feedback delivered when the learner can act on it? ([[formative-assessment]])
 - **Bias:** Is feedback equitable across student populations? ([[bias-mitigation]], [[equity-in-ai-education]])
-- **Calibration:** Does the system know when it's uncertain? ([[confidence-aware-ai-assessment]])
+- **Calibration:** Does the system know when it's uncertain? ([[automated-assessment|Confidence Aware AI Assessment]])
 
 ### Connection to broader concepts
 
-AI feedback quality connects fundamentally to [[formative-assessment]] and [[feedback-loop]] — quality feedback closes the gap between current and desired performance. It intersects with [[automated-grading]] (which generates the scores feedback is based on), [[ai-literacy]] (students must evaluate feedback quality critically), and [[over-reliance]] (uncritical acceptance of AI feedback can displace learning). For [[writing-education]], feedback quality is particularly consequential given AI's growing role in writing assessment.
+AI feedback quality connects fundamentally to [[formative-assessment]] and [[feedback|Feedback Loop]] — quality feedback closes the gap between current and desired performance. It intersects with [[automated-assessment|Automated Grading]] (which generates the scores feedback is based on), [[ai-literacy]] (students must evaluate feedback quality critically), and [[cognitive-offloading|Over-Reliance]] (uncritical acceptance of AI feedback can displace learning). For [[writing-education]], feedback quality is particularly consequential given AI's growing role in writing assessment.
 
 ## Connected Concepts
 
 - [[formative-assessment]]
-- [[automated-grading]]
-- [[feedback-loop]]
+- [[automated-assessment]]
+- [[feedback]]
 - [[ai-literacy]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[bias-mitigation]]
 - [[automated-essay-scoring]]
 - [[assessment-validity]]
 - [[writing-education]]
 - [[higher-ed]]
 - [[teacher-role]]
-- [[confidence-aware-ai-assessment]]
+- [[automated-assessment]]
 - [[feedback-literacy]]
 - [[feedback]]
 

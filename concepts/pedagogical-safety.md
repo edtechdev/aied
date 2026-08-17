@@ -3,7 +3,8 @@ title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-15T11:21:11-04:00"
 type: concept
-tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, over-reliance]
+tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading]
+
 confidence: high
 ---
 
@@ -12,7 +13,7 @@ confidence: high
 ### Safety dimensions
 
 - **Content safety:** [[eduzone-llm-safety-k12|EduZone]] and [[eduguard-safe-rag-llm-tutor|EduGuard]] implement guardrails that prevent AI tutors from generating harmful, inappropriate, or inaccurate content.
-- **Interaction safety:** [[ai-tutor-safety-harms|AI tutor harm taxonomies]] categorize potential harms — from [[over-reliance]] to [[cognitive-offloading]] to emotional manipulation.
+- **Interaction safety:** [[ai-tutor-safety-harms|AI tutor harm taxonomies]] categorize potential harms — from [[cognitive-offloading|Over-Reliance]] to [[cognitive-offloading]] to emotional manipulation.
 - **Age-appropriate design:** [[child-safety-genai|Child safety frameworks]] and [[k-12]] research establish age-specific safety requirements.
 - **Hallucination as safety risk:** [[hallucination-risk]] is a safety concern when students cannot distinguish fabricated from factual information.
 
@@ -33,8 +34,8 @@ Pedagogical safety connects to [[hallucination-risk]], [[rag]], [[k-12]], [[ethi
 - [[regulation]]
 - [[governance]]
 - [[llm]]
-- [[over-reliance]]
-- [[ai-tutoring]]
+- [[cognitive-offloading]]
+- [[intelligent-tutoring]]
 
 ## Connected Articles
 

@@ -20,13 +20,13 @@ The wiki's [[agentic-ai-education-scoping-review|scoping review]] — the most c
 Research in the wiki spans design and evaluation:
 
 - **Hybrid agents grounded in theory outperform pure prompting:** [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]], a benchmark of **25,795 instructional-design scenarios**, finds the best-performing approach integrates classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping) with modern ReAct-style reasoning — hybrid (theory + technique) > pure theory > technique-only. Grounding LLM agents in established educational-design theory provides a structural advantage raw prompting cannot replicate.
-- **Assessment frameworks for agentic tools:** [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] proposes teaching and assessing computational methods in a way that does not depend on any specific AI tool, emphasizing [[computational-thinking]] fundamentals, [[authentic-assessment|authentic assessment]] via oral defense, and verification — relevant to [[over-reliance]] concerns.
+- **Assessment frameworks for agentic tools:** [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] proposes teaching and assessing computational methods in a way that does not depend on any specific AI tool, emphasizing [[computational-thinking]] fundamentals, [[authentic-assessment|authentic assessment]] via oral defense, and verification — relevant to [[cognitive-offloading|Over-Reliance]] concerns.
 - **Adversarial robustness testing:** [[adversarial-stress-testing-role-playing-agents|Multi-agent stress testing]] coordinates Interrogator, Target, and Judge agents to reveal failure modes invisible to single-strategy testing, reducing robustness scores by 0.17–0.20 points — critical for persona consistency and [[pedagogical-safety|safe deployment]] with learners.
 - **Domain applications:** agentic systems appear across domains, including [[learnmate2-llm-adaptive-learning|adaptive learning agents]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogical LLM agents]], [[guided-llm-scaffolding-independent-learning|guided LLM scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamified cybersecurity learning agents]], and [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation agents]].
 
 ## The central tension: automation vs. learning
 
-The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive chatbots to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[zone-of-proximal-development]], and the risk of [[over-reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
+The [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] work articulates the field's defining tension: as education AI shifts from passive chatbots to **proactive agents** that initiate and pursue goals, personalization improves but **learner [[agency]] and cognitive effort** are at risk. The more an agent automates, the less [[cognitive-offloading|cognitive work]] the learner does. The design response — **intentional friction, dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilisation** — acts as a principled guardrail. This connects to [[desirable-difficulties]], [[zone-of-proximal-development]], and the risk of [[cognitive-offloading|Over-Reliance]], and to the broader theme of preserving [[agency]] in AI-mediated learning.
 
 ## Productive friction and social interaction
 
@@ -55,7 +55,7 @@ Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-con
 - [[human-in-the-loop-ai]]
 - [[human-ai-collaboration]]
 - [[agency]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[desirable-difficulties]]
 - [[zone-of-proximal-development]]
 - [[ai-ed-evaluation]]

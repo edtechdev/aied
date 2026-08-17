@@ -3,7 +3,8 @@ title: "Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writ
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
-tags: [feedback-loop, ai-feedback-quality, self-regulated-learning, formative-assessment, writing-education, ai-literacy, language-learning, higher-ed, generative-ai, simulation, scaffolding, metacognition]
+tags: [feedback, ai-feedback-quality, self-regulated-learning, formative-assessment, writing-education, ai-literacy, language-learning, higher-ed, generative-ai, simulation, scaffolding, metacognition]
+
 sources: ['raw/papers/feedback-literacy-scripts-eap-writing.md']
 confidence: medium
 ---
@@ -16,7 +17,7 @@ confidence: medium
 
 ## Why This Matters
 
-As generative AI floods EAP classrooms with instant, abundant feedback, the pedagogical question shifts from *obtaining* feedback to *processing* it. The paper argues that feedback becomes valuable only when learners can interpret, prioritize, and enact suggestions — a [[feedback-loop]] that is cognitive rather than merely informational. Its central claim is that the value of AI in EAP writing should be framed as support for **organized feedback processing** rather than an expansion of feedback quantity.
+As generative AI floods EAP classrooms with instant, abundant feedback, the pedagogical question shifts from *obtaining* feedback to *processing* it. The paper argues that feedback becomes valuable only when learners can interpret, prioritize, and enact suggestions — a [[feedback|Feedback Loop]] that is cognitive rather than merely informational. Its central claim is that the value of AI in EAP writing should be framed as support for **organized feedback processing** rather than an expansion of feedback quantity.
 
 ## Method
 
@@ -43,7 +44,7 @@ Strengths: a clear mechanism-oriented design, design-based tests (permutation, l
 
 ## Connected Concepts
 
-- [[feedback-loop]]
+- [[feedback]]
 - [[ai-feedback-quality]]
 - [[self-regulated-learning]]
 - [[formative-assessment]]
