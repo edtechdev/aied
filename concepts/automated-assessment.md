@@ -14,6 +14,7 @@ confidence: high
 - **Short answer and essay:** [[automated-grading]], [[automated-essay-scoring]], and [[cong-confidence-asag-2026|confidence-aware approaches]] handle free-text evaluation.
 - **Code assessment:** [[automated-grading-linux-bash-examinations-large-language-models|Bash grading]] and [[code-review-genai-cs1|code review]] demonstrate programming assessment.
 - **Formative assessment:** [[automated-formative-assessments-a-level-sciences|A-level science automation]] and [[cotal-formative-assessment-scoring-2026|CoTAL]] focus on formative rather than summative use.
+- **AI-generated assessments at scale:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that iteratively refined, course-tailored AI-generated exams achieve [[item-response-theory|IRT]]-measured quality on par with expert-written standardized-exam questions (difficulty β̄ = −0.45 vs. 0.35; discrimination ᾱ = 1.3 vs. 1.2) across 91 college classes — evidence that [[automated-assessment]] can move from scoring to full item generation.
 - **Performance assessment:** [[engagement-assessment-video|Video engagement assessment]] and [[confidence-aware-student-drawing-assessment|drawing assessment]] extend automation beyond text.
 
 ### Quality and fairness
@@ -39,6 +40,7 @@ Automated assessment connects to [[automated-grading]] (the scoring mechanism), 
 - [[feedback]]
 
 ## Connected Articles
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM automated classroom observation (Melo et al. 2026)
 - [[learner-centered-feedback-ai]] — AI learner-centered feedback: teachers' practices and perceptions (PolyFeed)
