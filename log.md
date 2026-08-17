@@ -1,3 +1,11 @@
+## [2026-08-16] ingest | Assessing the Quality of AI-Generated Exams (arXiv:2508.08314)
+
+- Ingested Isley, Gilbert, Kassos, et al. (2025), arXiv:2508.08314 (cs.CY), CC BY — one of the largest field studies of AI-generated exam quality: an iterative-refinement (Self-Refine-style) automated-question-generation pipeline evaluated in 91 college classes (~1,686 students) across CS/math/chemistry, benchmarked against human-authored 2012 AP Statistics questions.
+- Bayesian hierarchical 2PL IRT shows AI-generated items perform on par with expert questions: somewhat easier (β̄ = −0.45 vs. 0.35) but more discriminating (ᾱ = 1.3 vs. 1.2), higher peak test info (reliability 0.79 vs. 0.72).
+- Created articles/assessing-quality-ai-generated-exams-field-2025.md + raw/papers full text.
+- Enriched 4 concept pages: automated-question-generation (large-scale psychometric field-validation bullet), item-response-theory (Bayesian hierarchical field-validation bullet), automated-assessment (AI-generated assessments at scale), assessment-validity (validity of AI-generated items).
+- Added back-links to 8 concept pages: automated-question-generation, automated-assessment, assessment-validity, item-response-theory, generative-ai, llm, higher-ed, ai-ed-evaluation; inline link for math-education.
+- Regenerated journal.md (840), index.md (840), llms.txt/llms-full.txt; 0 broken links.
 ## [2026-08-16] ingest | The StudyChat Dataset (arXiv:2503.07928, LAK '26)
 
 - Ingested McNichols, Ikram & Lan (2026), arXiv:2503.07928 (cs.AI/cs.HC), CC BY — the StudyChat dataset of 16,851 annotated student–LLM utterances (2,214 conversations, 203 students, 7 programming assignments) in a university AI course, with a two-level dialogue-act schema (8 broad / 31 specific) validated via human + LLM annotation. Findings: conceptual/coding-help prompting predicts better assignments+exams; report-writing/circumvention predicts worse; high-usage students show reduced outcome variance.

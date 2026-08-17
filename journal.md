@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-16 | **Total entries:** 839
+**Last updated:** 2026-08-16 | **Total entries:** 840
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
 
@@ -10,6 +10,7 @@
 - [[ai-perceptions-students-teachers-motivation-2026]] — Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy
 - [[ai-tpack-mathematics-teacher-education-2026]] — Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-Generated versus Human-Developed Assessment Tasks in EFL Context: Insights from TPCK Model
+- [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study
 - [[avraamidou-ai-colonization-science-education]] — Can we disrupt the momentum of the AI colonization of science education?
 - [[behaviorism]] — Behaviorism
 - [[chatgpt-academic-writing-quality-ownership-2026]] — Leveraging ChatGPT in academic writing: ChatGPT enhances students' writing quality, writing experience, and ownership
