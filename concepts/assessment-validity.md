@@ -41,6 +41,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[feedback]]
 
 ## Connected Articles
+- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM-based classroom observation against expert ratings (Melo et al. 2026)
 - [[competency-based-education-genai-production-2026]]

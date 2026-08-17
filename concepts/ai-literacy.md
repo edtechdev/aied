@@ -91,6 +91,8 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[teacher-education]]
 
 ## Connected Articles
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
+- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use

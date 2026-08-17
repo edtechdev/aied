@@ -45,6 +45,7 @@ Accessible learning is deeply connected to [[equity-in-ai-education]] — access
 - [[generative-ai]]
 - [[ai-education]]
 ## Connected Articles
+- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 
 - [[adhd-video-segmentation-computing-education]]
 - [[behaviorally-adaptive-visual-diversion-assessment-2026]]

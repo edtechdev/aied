@@ -41,6 +41,7 @@ STEM education connects to [[cs-education]], [[math-education]], [[physics-educa
 - [[teacher-education]]
 
 ## Connected Articles
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[ai-acceptance-preservice-science-teachers-2026]]
 
 - [[becker-chatgpt-typology-physics-2026]]
