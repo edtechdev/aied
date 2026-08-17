@@ -1,6 +1,6 @@
 ---
 title: Metacognition
-created: "2026-05-07"
+created: "2026-05-07T10:44:35-04:00"
 updated: "2026-08-16T10:19:32-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]

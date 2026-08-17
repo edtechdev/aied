@@ -1,6 +1,6 @@
 ---
 title: Curriculum Design
-created: "2026-06-02"
+created: "2026-06-02T10:44:35-04:00"
 updated: "2026-08-15T10:19:32-04:00"
 type: concept
 tags: [curriculum-design, instructional-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]

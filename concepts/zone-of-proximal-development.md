@@ -1,6 +1,6 @@
 ---
 title: Zone Of Proximal Development
-created: "2026-07-28"
+created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-15T11:21:11-04:00"
 type: concept
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: Confidence Aware AI Assessment
-created: "2026-07-28"
+created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [confidence-aware-ai-assessment, psychometrically-aware-ai, ai-ed-evaluation, automated-grading, automated-assessment, educational-measurement, trust-calibration, item-response-theory, llm]

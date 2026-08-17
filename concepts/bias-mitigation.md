@@ -1,6 +1,6 @@
 ---
 title: Bias Mitigation
-created: "2026-07-14"
+created: "2026-07-14T10:44:35-04:00"
 updated: "2026-08-15T10:19:32-04:00"
 type: concept
 tags: [bias-mitigation, equity-in-ai-education, ethics, ai-literacy, higher-ed, generative-ai, k-12, student-experience, teacher-role, llm, fairness]

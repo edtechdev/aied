@@ -17,6 +17,13 @@ concepts.forEach(c => { conceptMap[c.id.replace('.md', '')] = c.data.title; });
 const indexedCount = [...new Set(conceptIndex.flatMap(s => s.groups.flatMap(g => g.items)))]
   .filter(s => conceptMap[s]).length;
 
+// Format a frontmatter timestamp (e.g. "2026-08-16T20:02:54-04:00")
+// into just the date part "2026-08-16" for display.
+function fmtDateTime(s: string | undefined | null): string {
+  if (!s) return '';
+  return s.split('T')[0];
+}
+
 // Recent articles (reverse chronological)
 const recentArticles = articles
   .slice()
@@ -542,12 +549,12 @@ const recentConcepts = concepts
       <!-- Right: recent activity -->
       <aside class="right-col" aria-label="Recent activity">
         <section class="recent-block">
-          <h2>📄 Recent Articles</h2>
+          <h2>📄 Recently Added Articles</h2>
           <ul class="recent-list">
             {recentArticles.map(a => (
               <li>
                 <a href={`/aied/articles/${a.id.replace('.md', '')}`}>{a.data.title}</a>
-                <span class="recent-date">{(a.data.created || '').split('T')[0]}</span>
+                <span class="recent-date">{fmtDateTime(a.data.created)}</span>
               </li>
             ))}
           </ul>
@@ -560,7 +567,7 @@ const recentConcepts = concepts
             {recentConcepts.map(c => (
               <li>
                 <a href={`/aied/concepts/${c.id.replace('.md', '')}`}>{c.data.title}</a>
-                <span class="recent-date">{(c.data.updated || c.data.created || '').split('T')[0]}</span>
+                <span class="recent-date">{fmtDateTime(c.data.updated || c.data.created)}</span>
               </li>
             ))}
           </ul>

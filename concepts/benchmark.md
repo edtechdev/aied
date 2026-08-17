@@ -1,6 +1,6 @@
 ---
 title: Benchmark
-created: "2026-08-09"
+created: "2026-08-09T16:52:03-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
