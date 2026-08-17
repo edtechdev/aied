@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-08-15T17:49:40-04:00"
+updated: "2026-08-17T10:45:00-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, k-12, generative-ai, llm, ai-education, faculty-development, prompting-literacy, academic-integrity]
 confidence: high
@@ -28,6 +28,8 @@ AI literacy research in this wiki spans four interconnected dimensions:
 Research points to [[collaborative-learning|collaborative]] and [[active-learning|active]] approaches as most effective. The [[icap-framework|ICAP framework]] (Passive → Active → Constructive → Interactive) provides a useful progression: students learn AI literacy best when they co-construct knowledge rather than passively receive information, and effective AI literacy instruction intentionally sequences learners through passive exposure, active manipulation, constructive generation, and interactive dialogue. Practical activities — designing prompts, evaluating outputs in groups, debating AI ethics — outperform lectures.
 
 A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students to use AI ethically and productively rather than substituting it for their own [[cognitive-offloading|cognitive work]]. Where AI literacy builds the *capacity* to evaluate and use AI critically, [[reducing-ai-misuse|reducing misuse]] is the behavioral and structural payoff — combining guardrailed tool design, [[assessment|assessment redesign]], and educative levers such as scaffolded think-first/AI-second sequences and prompting practice with deliberate feedback. The two concepts are mutually reinforcing: AI literacy supplies the critical dispositions that make misuse-reduction interventions durable, while misuse-reduction evidence (e.g. the [[ai-misuse-learning-harm|performance–learning gap]]) motivates why literacy must go beyond operational skill to critical judgment.
+
+AI literacy also needs developmentally appropriate forms for the youngest learners. [[ai-play-framework-early-childhood-2026|AI-Play]] translates AI literacy competencies into play-based, **unplugged** activities for Pre-K–K2 learners — organized around *AI Body* (AI as a system built from parts), *AI Food* (AI learns from examples), *AI Brain* (AI improves through patterns and feedback), and a Pre/Post-AI ethical lens — addressing a persistent lack of developmentally grounded AI literacy guidance for early childhood and making AI literacy accessible to non-technical educators and families.
 
 ### Critical AI literacy: beyond skills to power and resistance
 
@@ -91,6 +93,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[teacher-education]]
 
 ## Connected Articles
+- [[ai-play-framework-early-childhood-2026]] — AI-Play: Teaching AI Concepts through Unplugged Activities in Early Childhood
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration

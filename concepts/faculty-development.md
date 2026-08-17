@@ -1,7 +1,7 @@
 ---
 title: Faculty Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-15T10:55:19-04:00"
+updated: "2026-08-17T10:45:00-04:00"
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, instructional-design, curriculum-design]
 confidence: high
@@ -16,6 +16,7 @@ confidence: high
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty AI education.
 - **Governance and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
+- **Shared language and metaphors:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] show that engineering instructors hold heterogeneous mental models of AI, framed through metaphors that both construct and constrain understanding (AI as a human-like "assistant" vs. a "tool" or "search engine"). Because instructors within the same department often hold fundamentally different conceptualizations, a shared, accurate language about [[generative-ai|GAI]] is a prerequisite for effective faculty development and productive departmental adoption discussions.
 
 ### GenAI as identity work, not just upskilling
 
@@ -57,6 +58,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[teacher-education]]
 
 ## Connected Articles
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[ai-acceptance-preservice-science-teachers-2026]]
 
