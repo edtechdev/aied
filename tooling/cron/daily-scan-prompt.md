@@ -58,16 +58,18 @@ For each new relevant paper:
 
 4. **Add back-links** to 3-5+ related pages (update their Connected Articles sections)
 
-5. **Append to log.md** — date, sources, paper list, tags
+5. **Inline-link + concept enrichment (MANDATORY — do NOT skip):** For each new article, (a) add inline `[[slug|display]]` wiki-links in the article's narrative body to EVERY matching concept mentioned by name, each linking to the MOST SPECIFIC concept (e.g. `[[engineering-education]]` for "engineering education", `[[meta-analysis-systematic-review]]` for "systematic review", `[[ethics]]` for "AI ethics", `[[academic-integrity]]` for "academic integrity"); and (b) enrich every connected concept page the article contributes to significantly — add a research bullet/subsection to that concept's BODY narrative (not just its Connected Articles list) and bump its `updated` timestamp so the sidebar refreshes. Apply this to every ingested article and any new concept pages created, not just to the article page itself.
 
-6. **Regenerate journal.md** — extract frontmatter from all article pages, group by `created`, newest first
+6. **Append to log.md** — date, sources, paper list, tags
 
-7. **Regenerate agent-ready files** (llms.txt, llms-full.txt):
+7. **Regenerate journal.md** — extract frontmatter from all article pages, group by `created`, newest first
+
+8. **Regenerate agent-ready files** (llms.txt, llms-full.txt):
    ```bash
    python3 [YOUR_WIKI_PATH]/tooling/scripts/generate-llms-files.py
    ```
 
-8. **Build and deploy the Astro site:**
+9. **Build and deploy the Astro site:**
    ```bash
    cd [YOUR_WIKI_PATH]
    npm run build        # builds dist/ with pagefind search + sitemap
