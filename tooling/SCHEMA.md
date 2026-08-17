@@ -7,9 +7,9 @@ AI in Education — research, products, policies, and pedagogical debates around
 - File names: lowercase, hyphens, no spaces (e.g., `adaptive-learning-systems.md`)
 - Every wiki page starts with YAML frontmatter (see below)
 - Use `wikilinks` to link between pages (`[[page-slug]]` or `[[page-slug|display text]]`)
-- When updating a page, always bump the `updated` date
+- When updating a page, always bump the `updated` date+time (see Frontmatter above)
 - Every new page must be added to `index.md` under the correct section
-- Every action must be appended to `log.md`
+- Every action must be appended to `log.md` (local-only, gitignored like `raw/` — not committed; persists on the local repo for scan-complete anchors)
 - **Two page types:** `articles/<slug>.md` for individual papers, `concepts/<slug>.md` for broad topics that synthesize multiple papers. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper.
 - **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/papers/source-file.md]`
   at the end of paragraphs whose claims come from a specific source. This lets a reader trace each

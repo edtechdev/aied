@@ -10,7 +10,7 @@ AI in Education — research, products, policies, and pedagogical debates around
 - **Inline hyperlink rule (wiki-style):** hyperlink every concept mentioned by name in the BODY of a concept or article page to that concept's page, in addition to the Connected Concepts/Articles lists. Use piped links when display text differs from the slug (e.g. `[[cognitive-offloading|doing the cognitive work]]`), the most specific slug matching the mention's meaning, and the dedicated umbrella page for generic terms (e.g. `[[feedback]]`, not `[[feedback-loop]]`, for plain "feedback").
 - When updating a page, always bump the `updated` date+time (see Frontmatter above)
 - Every new page must be added to `index.md` under the correct section
-- Every action must be appended to `log.md`
+- Every action must be appended to `log.md` (local-only, gitignored like `raw/` — not committed; persists on the local repo for scan-complete anchors)
 - **Two page types:** `articles/<slug>.md` for individual papers, `concepts/<slug>.md` for broad topics that synthesize multiple papers. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper.
 - **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/papers/source-file.md]`
   at the end of paragraphs whose claims come from a specific source. This lets a reader trace each
