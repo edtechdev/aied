@@ -3,7 +3,8 @@ title: Unanticipated Effects of Generative AI on Expertise Pathways and Performa
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, professional-training, cognitive-offloading, over-reliance, lifelong-learning, human-in-the-loop, human-ai-collaboration, ai-education]
+tags: [generative-ai, professional-training, cognitive-offloading, cognitive-offloading, lifelong-learning, human-in-the-loop, human-ai-collaboration, ai-education]
+
 sources: ['raw/papers/2607.28650.md']
 confidence: high
 ---
@@ -23,7 +24,7 @@ The findings extend concerns about cognitive offloading and skill decay from cla
 
 - [[human-in-the-loop-ai]]
 - [[ai-misuse-learning-harm]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[critical-thinking]]
 - [[lifelong-learning]]
 - [[professional-training]]

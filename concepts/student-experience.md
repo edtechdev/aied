@@ -3,7 +3,8 @@ title: Student Experience with AI
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
-tags: [generative-ai, llm, higher-ed, ai-literacy, over-reliance, cognitive-offloading, equity, k-12]
+tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, cognitive-offloading, equity, k-12]
+
 confidence: high
 ---
 
@@ -19,7 +20,7 @@ confidence: high
 
 ### Connections
 
-Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes [[cognitive-offloading|cognitive work]]), and [[engagement-metrics|engagement]] (how AI systems measure and respond to student behavior).
+Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes [[cognitive-offloading|cognitive work]]), and [[engagement-metrics|engagement]] (how AI systems measure and respond to student behavior).
 
 ## Connected Concepts
 
@@ -27,7 +28,7 @@ Student experience connects to [[over-reliance]] (excessive AI dependence), [[ai
 - [[llm]]
 - [[higher-ed]]
 - [[ai-literacy]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[equity-in-ai-education]]
 - [[k-12]]

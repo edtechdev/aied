@@ -3,7 +3,8 @@ title: "Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [llm, intelligent-tutoring, automated-grading, benchmark, feedback-loop, adaptive-learning, student-experience, scaffolding]
+tags: [llm, intelligent-tutoring, automated-assessment, benchmark, feedback, adaptive-learning, student-experience, scaffolding]
+
 sources: ['raw/papers/2607.28128.md']
 confidence: high
 ---
@@ -24,11 +25,11 @@ The audit uses **deterministic process measures** — detectors for answer leaka
 
 ## Implications for AI in Education
 
-The central conclusion is that **general-purpose helpfulness is not a reliable pedagogy signal** in this controlled setting: a rubric tuned to "helpful" answers cannot distinguish a tutor that scaffolds from one that leaks the answer. Tutor evaluation should therefore **pair pedagogy-targeted rubrics with deterministic process measures** such as answer leakage and next-turn independent work. For [[ai-tutoring]] and [[benchmark]] design, this argues against relying on preference-based helpfulness judgments and toward measurement of student agency and independent work.
+The central conclusion is that **general-purpose helpfulness is not a reliable pedagogy signal** in this controlled setting: a rubric tuned to "helpful" answers cannot distinguish a tutor that scaffolds from one that leaks the answer. Tutor evaluation should therefore **pair pedagogy-targeted rubrics with deterministic process measures** such as answer leakage and next-turn independent work. For [[intelligent-tutoring|AI Tutoring]] and [[benchmark]] design, this argues against relying on preference-based helpfulness judgments and toward measurement of student agency and independent work.
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[pedagogical-llm-training]]
 - [[benchmark]]
 - [[personalized-learning]]

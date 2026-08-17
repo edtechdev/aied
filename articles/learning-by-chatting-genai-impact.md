@@ -3,7 +3,8 @@ title: Learning by Chatting? Investigating the Impact of Generative AI on Inform
 created: "2026-06-11T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, llm, over-reliance, student-experience, metacognition, higher-ed, self-regulated-learning, scaffolding, petechat-guardrailed-ai-tutor, ai-literacy]
+tags: [generative-ai, llm, cognitive-offloading, student-experience, metacognition, higher-ed, self-regulated-learning, scaffolding, petechat-guardrailed-ai-tutor, ai-literacy]
+
 sources: ['raw/papers/2606.11669.md']
 confidence: high
 ---
@@ -38,7 +39,7 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 - The increased meta-cognitive load observed when agency is diminished echoes findings in [[self-regulated-learning]] about the importance of learner control.
 
 ### For Technology-Enhanced Learning
-- Results run counter to the assumption that easier information access automatically improves learning — consistent with the [[over-reliance]] literature showing that AI tools can reduce actual learning while maintaining (or inflating) perceived learning.
+- Results run counter to the assumption that easier information access automatically improves learning — consistent with the [[cognitive-offloading|Over-Reliance]] literature showing that AI tools can reduce actual learning while maintaining (or inflating) perceived learning.
 - The finding that ChatGPT reduces exploration aligns with [[efficiency-gain-illusion-ai-overreliance]]: learners overestimate the benefits of AI assistance on simple tasks.
 - Supports the case for [[scaffolding]] that preserves learner agency rather than replacing cognitive work.
 
@@ -49,7 +50,7 @@ In an 8-day field experiment comparing ChatGPT vs. Google Search for informal le
 ## Connected Concepts
 
 - [[self-regulated-learning]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[scaffolding]]
 - [[ai-literacy]]
 - [[metacognition]]

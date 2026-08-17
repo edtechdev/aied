@@ -3,12 +3,13 @@ title: "Role of generative AI literary assistants in enhancing ninth-grade stude
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [writing-education, generative-ai, motivation, student-engagement, k-12, over-reliance]
+tags: [writing-education, generative-ai, motivation, student-engagement, k-12, cognitive-offloading]
+
 sources: ['raw/papers/genai-literary-assistants-writing-motivation-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Wang, Wang, and Liu (2026) use a quasi-experimental, single-group pre–post mixed-methods design to examine the multifaceted effects of integrating [[generative-ai]] (GAI) literary assistants into ninth-grade [[writing-education]] instruction, focusing on students' [[motivation|writing motivation]], flow experiences, and overall writing performance. Across a three-day GAI writing camp, students used ChatGPT to emulate the distinctive styles of four literary figures (Su Shi, Yu Kwang-Chung, Xi Murong, and Jian Zhen) through structured [[prompt-engineering]], a deliberate shift from generic AI use to literature-informed [[prompt-engineering]]. While general writing motivation showed no statistically significant increase (pre-test mean 2.93 → post-test 3.00, t = −0.59, p = .560), flow improved significantly (3.15 → 3.60, t = −2.86, p = .007, Cohen's d = −0.45) and writing performance rose markedly (77.13 → 81.40, t = −5.26, p < .001, d = −0.83). Qualitative data revealed a marked surge in task-specific engagement and situational motivation, particularly during the revision phase. The authors also critically examine the risks of [[over-reliance]] on AI, which could diminish engagement in areas requiring creative expression and [[critical-thinking]].
+> **Synthesis:** Wang, Wang, and Liu (2026) use a quasi-experimental, single-group pre–post mixed-methods design to examine the multifaceted effects of integrating [[generative-ai]] (GAI) literary assistants into ninth-grade [[writing-education]] instruction, focusing on students' [[motivation|writing motivation]], flow experiences, and overall writing performance. Across a three-day GAI writing camp, students used ChatGPT to emulate the distinctive styles of four literary figures (Su Shi, Yu Kwang-Chung, Xi Murong, and Jian Zhen) through structured [[prompt-engineering]], a deliberate shift from generic AI use to literature-informed [[prompt-engineering]]. While general writing motivation showed no statistically significant increase (pre-test mean 2.93 → post-test 3.00, t = −0.59, p = .560), flow improved significantly (3.15 → 3.60, t = −2.86, p = .007, Cohen's d = −0.45) and writing performance rose markedly (77.13 → 81.40, t = −5.26, p < .001, d = −0.83). Qualitative data revealed a marked surge in task-specific engagement and situational motivation, particularly during the revision phase. The authors also critically examine the risks of [[cognitive-offloading|Over-Reliance]] on AI, which could diminish engagement in areas requiring creative expression and [[critical-thinking]].
 
 ## Key Findings
 
@@ -26,7 +27,7 @@ confidence: high
 
 **Developing authorship and [[self-regulated-learning]].** Students selectively accepted AI suggestions, distinguishing "my tone" from AI output (e.g., "ChatGPT made it too ornate, I wouldn't write like that myself"), signalling emerging authorial voice. Post-test Writing [[self-efficacy]] scores increased in ideation ability, rhetorical application, and self-regulation, and a 20-point, four-dimension scoring rubric (content, organisation, language, creativity, 25% weight each) anchored the writing [[assessment]].
 
-**[[over-reliance]] risk and pedagogical recommendation.** The authors caution that over-reliance on AI could diminish engagement in areas requiring creative expression and critical thinking, concluding with scaffolded pedagogical recommendations for integrating GAI writing assistants while preserving students' creative and critical capacities — directly relevant to the wiki's [[writing-education]] and [[over-reliance]] concerns.
+**[[cognitive-offloading|Over-Reliance]] risk and pedagogical recommendation.** The authors caution that over-reliance on AI could diminish engagement in areas requiring creative expression and critical thinking, concluding with scaffolded pedagogical recommendations for integrating GAI writing assistants while preserving students' creative and critical capacities — directly relevant to the wiki's [[writing-education]] and [[cognitive-offloading|Over-Reliance]] concerns.
 
 ## Connected Concepts
 
@@ -34,7 +35,7 @@ confidence: high
 - [[generative-ai]]
 - [[motivation]]
 - [[student-engagement]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 
 ## Connected Articles
 

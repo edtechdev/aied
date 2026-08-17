@@ -24,7 +24,7 @@ When AI completes reasoning tasks for students — solving math problems, writin
 
 Key findings:
 - **Kosmyna et al. (2025):** Students who used AI essay assistance were **83% unable to recall quotes** from their own essays, vs. 11% for non-AI users — indicating they did not engage with the content during production.
-- **Stadler et al. (2024):** General-purpose AI reduced [[cognitive-load-theory|cognitive load]] but produced **lower-quality reasoning** vs. traditional search, suggesting metacognitive engagement was displaced.
+- **Stadler et al. (2024):** General-purpose AI reduced cognitive load but produced **lower-quality reasoning** vs. traditional search, suggesting metacognitive engagement was displaced.
 - **Lehmann et al. (2025):** General AI for programming harmed understanding for low-prior-knowledge students — the students most in need of metacognitive scaffolding received answers instead.
 
 ### The Augmentation Opportunity (Scheu et al., 2026)
@@ -42,7 +42,7 @@ Scheu et al. (2026) found a critical split:
 | Dimension | LLM Assistant Effect | Course Effect |
 |---|---|---|
 | **Intrinsic motivation** (willingness to engage) | **No effect** | **Positive** |
-| **Behavioral engagement** (amount written) | **Increasing over time** ([[feedback-loop|feedback loop]]) | **Constant positive** |
+| **Behavioral engagement** (amount written) | **Increasing over time** ([[feedback|feedback loop]]) | **Constant positive** |
 
 This suggests that **metacognitive support and [[motivation]] are not identical**. The LLM assistant's [[scaffolding]] of journal entries increased how much students wrote (behavioral engagement) but did not make them *want* to write more (intrinsic motivation).^[[scheu-mobile-chatbot-journaling-motivation-2026]]
 
@@ -70,7 +70,7 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[scaffolding]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[intelligent-tutoring]]
 - [[adaptive-learning]]
 - [[student-experience]]

@@ -9,7 +9,7 @@ confidence: high
 
 > **Social robots** — robots designed to engage people through social interaction, using human-like cues such as speech, gesture, facial expression, and personality to communicate, teach, assist, or accompany. In education, social robots (humanoids like iCub, Pepper, Reachy, and companion robots) are used for tutoring, storytelling, role-play, language support, and as study companions. Their social presence is the key differentiator from software-based AI agents, enabling relationship-building and emotional engagement.
 
-Social robots are distinct from [[educational-robotics|educational robots]] used purely for programming practice: they are designed for *social* interaction rather than just mechanical manipulation. Advances in [[llm|large language models]] have dramatically expanded what social robots can say and do, enabling fluent, adaptive conversational tutoring. However, this also introduces risks such as misinformation, [[over-reliance]], and [[privacy]] violations, motivating knowledge-based design approaches.
+Social robots are distinct from [[educational-robotics|educational robots]] used purely for programming practice: they are designed for *social* interaction rather than just mechanical manipulation. Advances in [[llm|large language models]] have dramatically expanded what social robots can say and do, enabling fluent, adaptive conversational tutoring. However, this also introduces risks such as misinformation, [[cognitive-offloading|Over-Reliance]], and [[privacy]] violations, motivating knowledge-based design approaches.
 
 ### How social robots appear in the wiki's research
 

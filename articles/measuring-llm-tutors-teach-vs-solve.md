@@ -3,7 +3,8 @@ title: "Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educationa
 created: "2026-06-16T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, llm, feedback-loop, scaffolding, benchmark, learning-analytics, student-experience, agentic-ai, k-12]
+tags: [intelligent-tutoring, llm, feedback, scaffolding, benchmark, learning-analytics, student-experience, agentic-ai, k-12]
+
 sources: ['raw/papers/2606.16206.md']
 confidence: high
 ---
@@ -24,11 +25,11 @@ The diagnostic exploits the fact that public tutoring benchmarks (MathTutorBench
 
 ## Implications for AI in Education
 
-For the [[benchmark]] community and for AI tutor deployment, the findings argue for **reporting solving-oriented and pedagogy-oriented scores separately** and for making disclosure-sensitive, student-agency-preserving criteria more explicit. A model that tops a solving leaderboard should not be assumed to be a good tutor; evaluation infrastructure must measure learning support directly. This connects to [[scaffolding]] and to the design of [[ai-tutoring]] systems where the goal is not the fastest answer but durable student understanding.
+For the [[benchmark]] community and for AI tutor deployment, the findings argue for **reporting solving-oriented and pedagogy-oriented scores separately** and for making disclosure-sensitive, student-agency-preserving criteria more explicit. A model that tops a solving leaderboard should not be assumed to be a good tutor; evaluation infrastructure must measure learning support directly. This connects to [[scaffolding]] and to the design of [[intelligent-tutoring|AI Tutoring]] systems where the goal is not the fastest answer but durable student understanding.
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[pedagogical-llm-training]]
 - [[agentic-ai]]
 - [[scaffolding]]

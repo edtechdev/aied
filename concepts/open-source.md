@@ -3,7 +3,8 @@ title: Open Source
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-15T09:23:09-04:00"
 type: concept
-tags: [llm, stem-education, intelligent-tutoring, educational-theory, generative-ai, ai-education, curriculum-design, professional-training, automated-grading, writing-education]
+tags: [llm, stem-education, intelligent-tutoring, educational-theory, generative-ai, ai-education, curriculum-design, professional-training, automated-assessment, writing-education]
+
 confidence: medium
 ---
 
@@ -20,7 +21,7 @@ Open-source AI refers to models and tools whose weights and code are openly avai
 
 ### Connection to the wiki
 
-Open-source AI intersects with [[intelligent-tutoring]] (open tutors like [[kar-mathbuddy-affective-math-tutoring-2025]]), [[automated-grading]], [[writing-education]] (open writing-evaluation tools like [[aiawe-automated-writing-evaluation|AIAWE]]), and [[agentic-ai]] (open agent frameworks). It is a recurring consideration across [[edtech-platform]] and [[ai-education]] discussions, where openness is weighed against deployment burden and quality assurance.
+Open-source AI intersects with [[intelligent-tutoring]] (open tutors like [[kar-mathbuddy-affective-math-tutoring-2025]]), [[automated-assessment|Automated Grading]], [[writing-education]] (open writing-evaluation tools like [[aiawe-automated-writing-evaluation|AIAWE]]), and [[agentic-ai]] (open agent frameworks). It is a recurring consideration across [[edtech-platform]] and [[ai-education]] discussions, where openness is weighed against deployment burden and quality assurance.
 
 ## Connected Concepts
 
@@ -35,7 +36,7 @@ Open-source AI intersects with [[intelligent-tutoring]] (open tutors like [[kar-
 - [[agentic-ai]]
 - [[adaptive-learning]]
 - [[academic-integrity]]
-- [[automated-grading]]
+- [[automated-assessment]]
 ## Connected Articles
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistants for CS education
 

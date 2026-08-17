@@ -3,7 +3,8 @@ title: "AI Feedback Literacy in Higher Education: Understanding, Measuring, and 
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-feedback-quality, feedback-loop, ai-literacy, higher-ed, writing-education, formative-assessment, self-regulated-learning, assessment, motivation]
+tags: [ai-feedback-quality, feedback, ai-literacy, higher-ed, writing-education, formative-assessment, self-regulated-learning, assessment, motivation]
+
 sources: ['raw/papers/liu-deris-ai-feedback-literacy-uptake.md']
 confidence: high
 ---
@@ -36,7 +37,7 @@ This work reframes debates about AI feedback from mere access to *actionable lit
 
 - [[ai-literacy]]
 - [[ai-feedback-quality]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[formative-assessment]]
 - [[self-regulated-learning]]
 - [[writing-education]]

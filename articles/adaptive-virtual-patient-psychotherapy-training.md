@@ -18,7 +18,7 @@ The Adaptive Virtual Patient (AVP) is an LLM-driven simulated patient for psycho
 - [[simulation]]
 - [[professional-training]]
 - [[adaptive-learning]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[student-modeling]]
 - [[scaffolding]]
 - [[affective-computing]]

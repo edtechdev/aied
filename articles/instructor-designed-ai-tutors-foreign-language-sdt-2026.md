@@ -3,7 +3,8 @@ title: "Instructor-Designed AI Tutors in University Foreign Language Education: 
 created: "2026-08-14T09:42:37-04:00"
 updated: "2026-08-14"
 type: article
-tags: [language-learning, generative-ai, ai-tutoring, self-regulated-learning, motivation, higher-ed, personalized-learning, prompt-engineering, student-experience]
+tags: [language-learning, generative-ai, intelligent-tutoring, self-regulated-learning, motivation, higher-ed, personalized-learning, prompt-engineering, student-experience]
+
 sources: ['raw/papers/higheredu-05-00078.md']
 confidence: high
 ---
@@ -31,13 +32,13 @@ confidence: high
 - [[language-learning]]
 - [[self-regulated-learning]]
 - [[generative-ai]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[motivation]]
 - [[agency]]
 - [[metacognition]]
 - [[personalized-learning]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[student-experience]]
 - [[higher-ed]]
 

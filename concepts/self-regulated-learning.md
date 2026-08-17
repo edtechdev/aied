@@ -70,7 +70,7 @@ For example:
 - [[metacognition]]
 - [[ai-literacy]]
 - [[scaffolding]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[intelligent-tutoring]]
 - [[student-experience]]
 - [[adaptive-learning]]

@@ -3,7 +3,8 @@ title: "Stop Writing for Me: Generative Refusal in AI Tools for Thought"
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, writing-education, scaffolding, educational-theory, over-reliance]
+tags: [generative-ai, writing-education, scaffolding, educational-theory, cognitive-offloading]
+
 sources: ['raw/papers/2607.24751.md']
 confidence: medium
 ---
@@ -24,11 +25,11 @@ Instead of bypassing cognition, the Maieutic Interaction Framework returns cogni
 
 ## Implications for AI in Education
 
-The position paper generalizes beyond theater: wherever the labor of articulation is the point of the learning activity, AI tools should be designed to protect human cognition against "the tendency of generative efficiency." This connects directly to [[cognitive-offloading]] and [[over-reliance]] concerns in education — if tools always complete the writing, students lose the constructive thought process the task was designed to build — and supports [[scaffolding]] designs in which AI prompts, questions, and withholds rather than completes.
+The position paper generalizes beyond theater: wherever the labor of articulation is the point of the learning activity, AI tools should be designed to protect human cognition against "the tendency of generative efficiency." This connects directly to [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] concerns in education — if tools always complete the writing, students lose the constructive thought process the task was designed to build — and supports [[scaffolding]] designs in which AI prompts, questions, and withholds rather than completes.
 
 ## Connected Concepts
 
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[writing-education]]

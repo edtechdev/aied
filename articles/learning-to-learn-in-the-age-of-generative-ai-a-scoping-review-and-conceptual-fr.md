@@ -3,7 +3,8 @@ title: "Learning-to-learn in the age of generative AI: A scoping review and conc
 created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-10"
 type: article
-tags: [generative-ai, higher-ed, self-regulated-learning, language-learning, systematic-review, epistemic-agency, ai-education, ai-tutoring]
+tags: [generative-ai, higher-ed, self-regulated-learning, language-learning, systematic-review, epistemic-agency, ai-education, intelligent-tutoring]
+
 sources: []
 confidence: high
 ---
@@ -19,7 +20,7 @@ This paper presents a scoping review of learning-to-learn (L2L) definitions with
 - [[self-regulated-learning]] — the "Processes" layer of the L2L framework centers on self-regulation
 - [[metacognition]] — "Dimensions" layer: cognitive and metacognitive skills that L2L comprises
 - [[generative-ai]] — the technology whose overuse L2L is positioned to counterbalance
-- [[over-reliance]] — L2L framed as key to reducing GenAI overreliance
+- [[cognitive-offloading]] — L2L framed as key to reducing GenAI overreliance
 - [[agency]] — fostering learner agency is a central goal of L2L in the AI era
 - [[cognitive-offloading]] — the mechanism by which GenAI use can undermine learning, which L2L mitigates
 - [[critical-thinking]] — a core L2L dimension that GenAI use can erode if unchecked

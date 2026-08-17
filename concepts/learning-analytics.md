@@ -3,7 +3,8 @@ title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-11T18:05:58-04:00"
 type: concept
-tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, engagement-metrics, ai-ed-evaluation, feedback-loop]
+tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, engagement-metrics, ai-ed-evaluation, feedback]
+
 confidence: high
 ---
 
@@ -19,7 +20,7 @@ confidence: high
 
 ### From description to intervention
 
-Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback-loop|instructional interventions]].
+Learning analytics has evolved through three generations in the wiki: descriptive (what happened?), predictive (what will happen?), and prescriptive (what should we do?). AI enables the prescriptive layer — analytics that directly trigger [[feedback|instructional interventions]].
 
 ### Connections
 
@@ -34,7 +35,7 @@ Learning analytics connects to [[knowledge-tracing]] (the core analytic), [[form
 - [[edtech-platform]]
 - [[engagement-metrics]]
 - [[ai-ed-evaluation]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[higher-ed]]
 - [[k-12]]
 - [[llm]]

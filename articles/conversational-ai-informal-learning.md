@@ -36,7 +36,7 @@ The authors note that the sample, recruited exclusively from Germany via Prolifi
 - [[self-regulated-learning]]
 - [[motivation]]
 - [[collaborative-learning]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[trust]]
 - [[privacy]]
 - [[hallucination-risk]]

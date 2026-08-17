@@ -3,17 +3,18 @@ title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
-tags: [ai-literacy, over-reliance, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
+tags: [ai-literacy, cognitive-offloading, trust-calibration, human-ai-collaboration, metacognition, hallucination-risk, student-experience]
+
 confidence: high
 ---
 
-> **Trust calibration** — the metacognitive capacity to align one's confidence in an AI system with its actual reliability in a given context, knowing when to trust and when to question its output. Trust calibration is the direct antidote to [[over-reliance]]: it is the skill of matching trust to evidence rather than to an AI's confident fluency.
+> **Trust calibration** — the metacognitive capacity to align one's confidence in an AI system with its actual reliability in a given context, knowing when to trust and when to question its output. Trust calibration is the direct antidote to [[cognitive-offloading|Over-Reliance]]: it is the skill of matching trust to evidence rather than to an AI's confident fluency.
 
 A language model's fluent, confident prose reads as trustworthy whether or not it is. Trust calibration is the counterweight to that illusion — the practice of evaluating AI output against its verifiability and the stakes of the task, rather than accepting it on the strength of its presentation.
 
 ### Why trust needs calibrating
 
-Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without verification) produces the uncritical acceptance documented in [[over-reliance]] and [[cognitive-offloading]] research, and compounds the [[hallucination-risk]] of confident errors. **Under-trust** (avoiding AI entirely) forgoes legitimate benefits. Both stem from the same root: trust based on appearance rather than evidence. Research on [[student-misconceptions-ai]] shows students often default to over-trust because they assume an AI that "sounds right" is right.
+Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without verification) produces the uncritical acceptance documented in [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research, and compounds the [[hallucination-risk]] of confident errors. **Under-trust** (avoiding AI entirely) forgoes legitimate benefits. Both stem from the same root: trust based on appearance rather than evidence. Research on [[student-misconceptions-ai]] shows students often default to over-trust because they assume an AI that "sounds right" is right.
 
 ### How calibration works
 
@@ -29,7 +30,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[hallucination-risk]]
 - [[metacognition]]

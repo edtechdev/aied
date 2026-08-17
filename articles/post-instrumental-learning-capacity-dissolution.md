@@ -3,7 +3,8 @@ title: When AI Does the Work, What Is Learning For? Post-Instrumental Learning a
 created: "2026-07-31T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, educational-theory, over-reliance, student-experience, ai-literacy]
+tags: [generative-ai, educational-theory, cognitive-offloading, student-experience, ai-literacy]
+
 sources: ['raw/papers/2607.28041.md']
 confidence: high
 ---
@@ -24,11 +25,11 @@ The argument opens with a recognizable scene: a student submits a fluent essay a
 
 ## Implications for AI Governance
 
-The article translates the argument into a deployment-review question: what will people stop learning if this system works? Losing obsolete routines may be harmless, but losing the ability to set goals, give reasons, contest, and participate is not. The practical right of contestability is not a demand that everyone master every technical detail: a student need not reproduce every step of a model's generation to defend a claim made in a paper. Rather, each person needs a path from a problem they experience to reasons they can understand and, where appropriate, to a process that can revise the decision — a path that depends on trained intermediaries, accessible records, meaningful appeal, and public settings where reasons can be tested. The article warns that when privileged users can contest AI while marginalized users receive automated completion or automated suspicion, the institution has changed the distribution of expertise while calling the result access. For [[governance]] and [[over-reliance]] debates, this reframes the goal of schooling: preserving capacities such as [[ethics]]-inflected judgment and accountable participation rather than maximizing efficient output generation.
+The article translates the argument into a deployment-review question: what will people stop learning if this system works? Losing obsolete routines may be harmless, but losing the ability to set goals, give reasons, contest, and participate is not. The practical right of contestability is not a demand that everyone master every technical detail: a student need not reproduce every step of a model's generation to defend a claim made in a paper. Rather, each person needs a path from a problem they experience to reasons they can understand and, where appropriate, to a process that can revise the decision — a path that depends on trained intermediaries, accessible records, meaningful appeal, and public settings where reasons can be tested. The article warns that when privileged users can contest AI while marginalized users receive automated completion or automated suspicion, the institution has changed the distribution of expertise while calling the result access. For [[governance]] and [[cognitive-offloading|Over-Reliance]] debates, this reframes the goal of schooling: preserving capacities such as [[ethics]]-inflected judgment and accountable participation rather than maximizing efficient output generation.
 
 ## Connected Concepts
 
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[assessment]]
 - [[assessment-validity]]
 - [[governance]]

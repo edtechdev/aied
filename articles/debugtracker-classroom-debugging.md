@@ -3,7 +3,8 @@ title: "DebugTracker: Lightweight Process Evidence for Classroom Debugging"
 created: "2026-07-08T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [programming-its, learning-analytics, formative-assessment, cs-education, higher-ed, feedback-loop, student-experience]
+tags: [programming-its, learning-analytics, formative-assessment, cs-education, higher-ed, feedback, student-experience]
+
 sources: ['raw/papers/2607.05871.md']
 confidence: high
 ---
@@ -13,14 +14,14 @@ Debugging exercises are usually graded from final code and test outcomes, which 
 - **Process over product:** Surfaces the hidden debugging workflow, moving assessment beyond final artifacts toward [[formative-assessment]] of process.
 - **Coached vs uncoached modes:** Distinguishes Training from Evaluation traces, enabling differentiation of guidance effects in [[programming-its]].
 - **Lightweight, language-agnostic capture:** VS Code-standard mechanisms reduce instructor setup burden, supporting [[cs-education]] at scale.
-- **AI-assisted practice feedback:** Optional automated feedback loops tie into [[feedback-loop]] research.
+- **AI-assisted practice feedback:** Optional automated feedback loops tie into [[feedback|Feedback Loop]] research.
 - **Learning analytics:** Append-only event logs feed [[learning-analytics]] on how students debug, informing [[student-experience]] design.
 
 ## Connected Concepts
 
 - [[formative-assessment]]
 - [[cs-education]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[learning-analytics]]
 - [[student-experience]]
 - [[programming-education]]

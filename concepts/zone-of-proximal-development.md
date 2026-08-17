@@ -14,7 +14,7 @@ The Zone of Proximal Development (Vygotsky) describes the range of tasks a learn
 
 ### ZPD in AI tutoring
 
-ZPD is the theoretical frame behind much [[ai-tutoring]] design. An effective AI tutor should dynamically calibrate help to sit within each learner's zone:
+ZPD is the theoretical frame behind much [[intelligent-tutoring|AI Tutoring]] design. An effective AI tutor should dynamically calibrate help to sit within each learner's zone:
 
 - **Just-enough support.** [[tutoring-specific-vs-general-ai]] examines how tutors tuned to a learner's level outperform generic assistance, keeping problems within the ZPD rather than too easy or too hard.
 - **Adaptive difficulty.** [[adaptive-learning]] systems and [[collaborative-ai-tutoring]] operationalize ZPD by adjusting problem difficulty and hint level in response to learner performance.
@@ -22,18 +22,17 @@ ZPD is the theoretical frame behind much [[ai-tutoring]] design. An effective AI
 
 ### Connection to cognitive load and [[metacognition]]
 
-The ZPD is tightly coupled to [[cognitive-load-theory]] (support should manage load without eliminating productive effort) and to [[metacognition]] (learners in the zone are actively monitoring and regulating their understanding). [[stanford-evidence-base-ai-k12-2026]] synthesizes [[k-12|K-12]] evidence that AI tools work best when they keep learners in the ZPD rather than answering for them, and [[human-in-the-loop-ai]] research addresses how human and AI support jointly define the learner's zone.
+The ZPD is tightly coupled to Cognitive Load Theory (support should manage load without eliminating productive effort) and to [[metacognition]] (learners in the zone are actively monitoring and regulating their understanding). [[stanford-evidence-base-ai-k12-2026]] synthesizes [[k-12|K-12]] evidence that AI tools work best when they keep learners in the ZPD rather than answering for them, and [[human-in-the-loop-ai]] research addresses how human and AI support jointly define the learner's zone.
 
 ## Connected Concepts
 
 - [[metacognition]]
 - [[scaffolding]]
-- [[cognitive-load-theory]]
 - [[desirable-difficulties]]
 - [[adaptive-learning]]
 - [[human-in-the-loop-ai]]
 - [[rct]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[k-12]]
 - [[learning-theories]]
 ## Connected Articles

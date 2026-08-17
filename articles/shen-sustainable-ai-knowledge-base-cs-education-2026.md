@@ -33,7 +33,7 @@ This work connects [[open-source|open-source AI]], [[privacy]] (on-premise data 
 - [[ai-ed-evaluation]]
 - [[generative-ai]]
 - [[edtech-platform]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 
 ## Connected Articles
 

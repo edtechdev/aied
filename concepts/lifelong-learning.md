@@ -36,7 +36,7 @@ Lifelong learning connects to [[adult-learning]] and [[professional-training]] (
 - [[faculty-development]]
 - [[scaffolding]]
 - [[intelligent-tutoring]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 
 ## Connected Articles
 

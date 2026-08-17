@@ -22,11 +22,11 @@ Behaviorism holds that learning is the strengthening or weakening of stimulus–
 
 ### Behaviorist designs dominate practice
 
-Empirical work repeatedly finds that actual AI implementations are predominantly **behaviorist or cognitively oriented** — emphasizing drill-and-practice, immediate [[feedback-loop|feedback]], and adaptive pacing — even where discourse espouses richer theories. A systematic review of AI in vocational education and training (VET) concluded that constructivist theories are espoused in VET discourse while **behaviorist AI implementations dominate in practice**, and warned of an educational "Turing Trap" — using AI to replicate rather than augment human instruction.^[[ai-vocational-education-training-review]]
+Empirical work repeatedly finds that actual AI implementations are predominantly **behaviorist or cognitively oriented** — emphasizing drill-and-practice, immediate [[feedback|feedback]], and adaptive pacing — even where discourse espouses richer theories. A systematic review of AI in vocational education and training (VET) concluded that constructivist theories are espoused in VET discourse while **behaviorist AI implementations dominate in practice**, and warned of an educational "Turing Trap" — using AI to replicate rather than augment human instruction.^[[ai-vocational-education-training-review]]
 
 ### The tension with constructivism and agency
 
-The behaviorist emphasis on response-and-reinforcement sits in direct tension with [[constructivist]], [[self-regulated-learning]], and [[agency]] goals. When AI systems optimize for correct responses and efficiency, they can under-serve the learner's active knowledge construction, critical reflection, and autonomous decision-making. This is the same gap flagged in the [[constructivist]] "constructivism in name, behaviorism in practice" pattern — and it connects behaviorism to debates about [[cognitive-offloading]] and [[over-reliance]] when AI does the cognitive work for students.
+The behaviorist emphasis on response-and-reinforcement sits in direct tension with [[constructivist]], [[self-regulated-learning]], and [[agency]] goals. When AI systems optimize for correct responses and efficiency, they can under-serve the learner's active knowledge construction, critical reflection, and autonomous decision-making. This is the same gap flagged in the [[constructivist]] "constructivism in name, behaviorism in practice" pattern — and it connects behaviorism to debates about [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] when AI does the cognitive work for students.
 
 ### Where behaviorist designs still fit
 
@@ -51,16 +51,15 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 ## Connected Concepts
 
 - [[constructivist]]
-- [[cognitive-load-theory]]
 - [[instructional-design]]
 - [[adaptive-learning]]
 - [[intelligent-tutoring]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[formative-assessment]]
 - [[self-regulated-learning]]
 - [[agency]]
 - [[cognitive-offloading]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[learning-theories]]
 
 ## Connected Articles

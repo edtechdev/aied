@@ -3,7 +3,8 @@ title: "Trust and Reliance on AI in Education: AI Literacy and Need for Cognitio
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, over-reliance, cs-education, student-ai-interaction, metacognition, rag, llm, agentic-ai]
+tags: [ai-literacy, cognitive-offloading, cs-education, student-ai-interaction, metacognition, rag, llm, agentic-ai]
+
 sources: ['raw/papers/trust-reliance-ai-education-2026.md']
 confidence: high
 ---
@@ -31,7 +32,7 @@ confidence: high
 - [[rag]]
 - [[trust]]
 - [[trust-calibration]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course

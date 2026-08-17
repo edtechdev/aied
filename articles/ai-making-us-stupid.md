@@ -3,7 +3,8 @@ title: Is AI making us stupid?
 created: "2026-07-19T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [cognitive-offloading, over-reliance, generative-ai, metacognition, learning-gains, ai-literacy, skill-decay, self-regulated-learning, rag, higher-ed]
+tags: [cognitive-offloading, cognitive-offloading, generative-ai, metacognition, learning-gains, ai-literacy, skill-decay, self-regulated-learning, rag, higher-ed]
+
 sources: ['raw/papers/cell-2026-ai-making-us-stupid.md']
 confidence: high
 ---
@@ -46,12 +47,12 @@ Notably, the article **cites the PNAS guardrails paper** (Bastani et al. 2025, [
 
 - The canonical **cognitive-offloading** citation [[cognitive-offloading]] needed; this perspective synthesizes the mechanism and the skills-vs-basic-abilities resilience distinction.
 - Conceptual bookend to the empirical RCTs already in the wiki: [[generative-ai-guardrails-harm-learning]] (unguarded tutor *cut* exam scores via crutch/offloading), [[generative-ai-reduced-study-time-math]] (population "cognitive surrender"), and contrasts with [[ai-generated-feedback-higher-ed]] (well-architected AI feedback *matched* teachers — the "coach not crutch" design).
-- Reinforces [[over-reliance]], [[metacognition]] (source-monitoring), [[self-regulated-learning]] (deliberate vs. passive offloading), and [[ai-literacy]] (using AI to augment, not replace).
+- Reinforces [[cognitive-offloading|Over-Reliance]], [[metacognition]] (source-monitoring), [[self-regulated-learning]] (deliberate vs. passive offloading), and [[ai-literacy]] (using AI to augment, not replace).
 
 ## Connected Concepts
 
 - [[cognitive-offloading]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[metacognition]]
 - [[self-regulated-learning]]

@@ -9,7 +9,7 @@ confidence: high
 
 > **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI technologies in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical evaluation of AI outputs, and ethical awareness of AI's societal implications.
 
-AI literacy has rapidly emerged as a core competency for learners, educators, and institutions as [[generative-ai|generative AI]] becomes embedded in education. Unlike general digital literacy, AI literacy requires understanding probabilistic systems that can hallucinate, exhibit bias, and shift agency from human to machine — making [[critical-thinking]] and [[over-reliance]] central to the construct.
+AI literacy has rapidly emerged as a core competency for learners, educators, and institutions as [[generative-ai|generative AI]] becomes embedded in education. Unlike general digital literacy, AI literacy requires understanding probabilistic systems that can hallucinate, exhibit bias, and shift agency from human to machine — making [[critical-thinking]] and [[cognitive-offloading|Over-Reliance]] central to the construct.
 
 ### Dimensions of AI literacy
 
@@ -19,7 +19,7 @@ AI literacy research in this wiki spans four interconnected dimensions:
 
 **Practical competence:** The ability to use AI tools effectively — from [[prompt-engineering]] to interpreting outputs. Studies of [[genai-usage-design-students-survey|student GenAI usage patterns]] reveal that tool access alone doesn't produce competence; structured practice and [[scaffolding]] are essential. The [[gaide-vibe-coding-k12-teachers|vibe coding framework]] shows how K-12 teachers can develop practical AI literacy through guided tool creation.
 
-**Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[over-reliance]] research showing that students who trust AI uncritically learn less.
+**Critical evaluation:** The capacity to assess AI outputs for accuracy, bias, and appropriateness. [[ai-literacy-assessment-misalignment|Research on literacy assessment]] shows a 40% gap between self-reported and performance-based AI literacy — people consistently overestimate their evaluation skills. This connects to [[cognitive-offloading|Over-Reliance]] research showing that students who trust AI uncritically learn less.
 
 **Ethical and institutional awareness:** Understanding AI's broader implications — from [[academic-integrity]] to [[equity-in-ai-education]] to [[privacy]]. AI literacy at the institutional level involves policy development, [[faculty-development]], and governance frameworks. The [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI framework]] frames institutional AI literacy as a sociotechnical alignment challenge, not just individual training.
 
@@ -64,13 +64,13 @@ The wiki's frameworks and empirical studies converge on a set of practical guide
 
 ### Connections across the wiki
 
-AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutors are effective), [[teacher-ai-competency]] (educator preparedness), [[academic-integrity]] (knowing what constitutes appropriate AI use), and [[ai-education]] broadly. It is both a prerequisite for effective AI use and an outcome of well-designed AI integration — students learn AI literacy BY using AI critically, not just by learning ABOUT AI.
+AI literacy intersects with [[intelligent-tutoring|AI Tutoring]] (understanding when and how AI tutors are effective), [[teacher-ai-competency]] (educator preparedness), [[academic-integrity]] (knowing what constitutes appropriate AI use), and [[ai-education]] broadly. It is both a prerequisite for effective AI use and an outcome of well-designed AI integration — students learn AI literacy BY using AI critically, not just by learning ABOUT AI.
 
 ## Connected Concepts
 
 - [[student-experience]]
 - [[higher-ed]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[generative-ai]]
 - [[scaffolding]]
 - [[teacher-role]]

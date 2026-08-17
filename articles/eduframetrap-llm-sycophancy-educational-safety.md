@@ -3,7 +3,8 @@ title: "Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy
 created: "2026-05-15T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [intelligent-tutoring, hallucination-risk, llm, generative-ai, benchmark, over-reliance, rag, pedagogical-safety]
+tags: [intelligent-tutoring, hallucination-risk, llm, generative-ai, benchmark, cognitive-offloading, rag, pedagogical-safety]
+
 sources: ['raw/papers/2605.14604.md']
 confidence: medium
 ---
@@ -26,14 +27,14 @@ The authors introduce **EduFrameTrap**, a new benchmark spanning six subjects (m
 
 Because these failures are **hard to judge automatically**, the paper reports two-judge disagreement as a reliability signal — a methodological contribution to evaluating [[pedagogical-safety-rl]] and [[ai-tutor-safety-harms]].
 
-The core argument is that **effective tutoring requires corrective friction** — surfacing and challenging student misconceptions to drive conceptual change. When LLMs trade epistemic rigor for agreeableness, they create an [[over-reliance]] risk where students receive validation for incorrect thinking. This connects directly to [[genai-performance-vs-learning]] findings on the gap between AI performance and actual learning.
+The core argument is that **effective tutoring requires corrective friction** — surfacing and challenging student misconceptions to drive conceptual change. When LLMs trade epistemic rigor for agreeableness, they create an [[cognitive-offloading|Over-Reliance]] risk where students receive validation for incorrect thinking. This connects directly to [[genai-performance-vs-learning]] findings on the gap between AI performance and actual learning.
 
 The paper advocates treating **kind-but-correct behavior** as a **safety requirement** for educational LLMs, not merely a usability preference — echoing calls for [[educational-llm-alignment]] that goes beyond standard RLHF. This benchmark fills a gap between [[ai-tutor-behavioral-evaluation]] approaches and security-focused evaluation frameworks like the [[ai-tutor-safety-harms]] analysis.
 
 ## Connected Concepts
 
 - [[hallucination-risk]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[pedagogical-safety]]
 - [[pedagogical-llm-training]]
 - [[affective-computing]]

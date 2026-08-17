@@ -3,7 +3,8 @@ title: "Using Generative AI to Promote Psychological, Feedback, and Artificial I
 created: "2026-08-15T16:09:27-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, ai-literacy, feedback-loop, ai-feedback-quality, assessment, critical-thinking, academic-integrity, higher-ed, writing-education]
+tags: [generative-ai, ai-literacy, feedback, ai-feedback-quality, assessment, critical-thinking, academic-integrity, higher-ed, writing-education]
+
 sources: ['raw/papers/richmond-nicholls-genai-psych-feedback-ai-literacies.md']
 confidence: high
 ---
@@ -33,7 +34,7 @@ Richmond & Nicholls (2025) describe integrating generative AI (ChatGPT) into a l
 
 - [[generative-ai]]
 - [[ai-literacy]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[ai-feedback-quality]]
 - [[assessment]]
 - [[critical-thinking]]

@@ -53,7 +53,7 @@ AI-assisted writing lets students **reinterpret harm, authorship, responsibility
 ## Connected Concepts
 
 - [[academic-integrity]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[writing-education]]
 - [[ai-literacy]]
 - [[higher-ed]]

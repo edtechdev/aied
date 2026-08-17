@@ -3,7 +3,8 @@ title: Affective Computing
 created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-15T02:35:44-04:00"
 type: concept
-tags: [student-experience, higher-ed, llm, generative-ai, learning-analytics, k-12, over-reliance, adaptive-learning, personalized-learning, intelligent-tutoring]
+tags: [student-experience, higher-ed, llm, generative-ai, learning-analytics, k-12, cognitive-offloading, adaptive-learning, personalized-learning, intelligent-tutoring]
+
 confidence: medium
 ---
 
@@ -18,7 +19,7 @@ Affective computing aims to make AI systems emotionally aware so they can respon
 Emotion-aware tutoring can yield measurable gains, but the same sophistication carries risks:
 
 - **Benefits.** Accounting for emotional state can improve [[student-engagement|engagement]] and outcomes; learners who feel understood persist longer, and recognizing frustration early enables timely [[scaffolding]] or [[adaptive-learning]] adjustments.
-- **Risks.** Empathetic-seeming automation can foster [[over-reliance]] and parasocial dependency, mask genuine [[metacognition|metacognitive disengagement]], and raise [[privacy]] concerns from continuous affective monitoring. [[sycophantic-ai-social-interaction-2026]] documents how emotionally ingratiating AI can erode critical judgment, while [[ai-fatigue-academic-contexts]] and [[ai-campus-wellbeing-tools]] connect affective AI to learner well-being.
+- **Risks.** Empathetic-seeming automation can foster [[cognitive-offloading|Over-Reliance]] and parasocial dependency, mask genuine [[metacognition|metacognitive disengagement]], and raise [[privacy]] concerns from continuous affective monitoring. [[sycophantic-ai-social-interaction-2026]] documents how emotionally ingratiating AI can erode critical judgment, while [[ai-fatigue-academic-contexts]] and [[ai-campus-wellbeing-tools]] connect affective AI to learner well-being.
 
 ### Affective computing and broader AIED
 
@@ -26,11 +27,11 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 
 ## Connected Concepts
 
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[student-experience]]
 - [[k-12]]
-- [[feedback-loop]]
-- [[ai-tutoring]]
+- [[feedback]]
+- [[intelligent-tutoring]]
 - [[instructional-design]]
 - [[affective-tutoring]]
 - [[student-modeling]]

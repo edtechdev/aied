@@ -89,7 +89,6 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 ## Connected Concepts
 
 - [[adaptive-learning]]
-- [[cognitive-load-theory]]
 - [[desirable-difficulties]]
 - [[faculty-development]]
 - [[formative-assessment]]

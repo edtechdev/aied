@@ -3,7 +3,8 @@ title: "Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learnin
 created: "2026-08-17T06:45:00-04:00"
 updated: "2026-08-17T06:45:00-04:00"
 type: article
-tags: [generative-ai, creativity, human-ai-collaboration, metacognition, self-regulated-learning, prompt-engineering, higher-ed, over-reliance, cognitive-offloading]
+tags: [generative-ai, creativity, human-ai-collaboration, metacognition, self-regulated-learning, prompt-engineering, higher-ed, cognitive-offloading, cognitive-offloading]
+
 sources: ['raw/papers/10.1007_s10648-026-10118-7.md']
 confidence: high
 ---
@@ -12,7 +13,7 @@ confidence: high
 
 ## Performance versus learning
 
-The study foregrounds the distinction between **performance** (transient, assisted behavior) and **learning** (durable change that persists when assistance is removed). The authors argue this distinction is often neglected in [[generative-ai|generative AI]] research, which tends to measure students' performance on the *assisted* task rather than their later unassisted transfer. Freely using ChatGPT may raise immediate output while students merely **appropriate** its responses — outsourcing the thinking rather than developing it — a dynamic consistent with the [[over-reliance]] and [[cognitive-offloading]] literatures.
+The study foregrounds the distinction between **performance** (transient, assisted behavior) and **learning** (durable change that persists when assistance is removed). The authors argue this distinction is often neglected in [[generative-ai|generative AI]] research, which tends to measure students' performance on the *assisted* task rather than their later unassisted transfer. Freely using ChatGPT may raise immediate output while students merely **appropriate** its responses — outsourcing the thinking rather than developing it — a dynamic consistent with the [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] literatures.
 
 ## The "think first, ChatGPT later" approach
 
@@ -47,7 +48,7 @@ The general-AI group's pattern reflects a default of "[[metacognition|metacognit
 
 ## Relationship to existing research
 
-The findings sit alongside work on [[over-reliance]] and AI-assisted learning that shows free AI use can erode durable gains, and extend the [[human-ai-collaboration]] and co-creation literature with an experimental demonstration that guided collaboration beats both solo and free-AI conditions. It also provides direct experimental evidence for the "performance–learning" gap in [[generative-ai|generative AI]] education, and connects to [[ai-literacy|AI literacy]] frameworks (e.g., ED-AI Lit's collaboration component) as a candidate practice for integration.
+The findings sit alongside work on [[cognitive-offloading|Over-Reliance]] and AI-assisted learning that shows free AI use can erode durable gains, and extend the [[human-ai-collaboration]] and co-creation literature with an experimental demonstration that guided collaboration beats both solo and free-AI conditions. It also provides direct experimental evidence for the "performance–learning" gap in [[generative-ai|generative AI]] education, and connects to [[ai-literacy|AI literacy]] frameworks (e.g., ED-AI Lit's collaboration component) as a candidate practice for integration.
 
 ## Connected Concepts
 
@@ -57,7 +58,7 @@ The findings sit alongside work on [[over-reliance]] and AI-assisted learning th
 - [[metacognition]]
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[prompt-engineering]]
 - [[desirable-difficulties]]
 - [[scaffolding]]

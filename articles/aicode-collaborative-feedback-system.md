@@ -3,7 +3,8 @@ title: "AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedb
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [automated-grading, feedback-loop, higher-ed, llm, learning-analytics, human-in-the-loop-ai, rag]
+tags: [automated-assessment, feedback, higher-ed, llm, learning-analytics, human-in-the-loop-ai, rag]
+
 sources: ['raw/papers/2605.04740.md']
 confidence: medium
 ---
@@ -22,12 +23,12 @@ AICoFe orchestrates a multi-LLM pipeline using GPT-4.1-mini, Gemini 2.5 Flash, a
 
 ## Connection to Broader AIED
 
-AICoFe extends prior work on [[ai-peer-feedback-systems]] from experimental prototypes to a deployed system with educator mediation. The multi-LLM approach addresses single-model bias concerns in [[automated-grading]]. It sits at the intersection of [[feedback-loop]] design and [[learning-analytics]] — keeping educators as active curators through [[human-in-the-loop-ai]] principles.
+AICoFe extends prior work on [[ai-peer-feedback-systems]] from experimental prototypes to a deployed system with educator mediation. The multi-LLM approach addresses single-model bias concerns in [[automated-assessment|Automated Grading]]. It sits at the intersection of [[feedback|Feedback Loop]] design and [[learning-analytics]] — keeping educators as active curators through [[human-in-the-loop-ai]] principles.
 
 ## Connected Concepts
 
-- [[automated-grading]]
-- [[feedback-loop]]
+- [[automated-assessment]]
+- [[feedback]]
 - [[learning-analytics]]
 - [[human-in-the-loop-ai]]
 - [[llm]]

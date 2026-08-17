@@ -36,7 +36,7 @@ confidence: high
 - [[ai-literacy]]
 - [[k-12]]
 - [[student-experience]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[rct]]
 - [[student-engagement]]
 - [[equity-in-ai-education]]

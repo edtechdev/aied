@@ -19,7 +19,7 @@ Pimenova, Begel and colleagues evaluate a post-hoc video processing intervention
 
 ## Implications
 
-Temporal segmentation demonstrates how a lightweight, post-hoc content transformation can deliver Universal Design for Learning at scale. It connects [[accessible-learning]] and [[cognitive-load-theory]] with AI pipelines, showing that automated intervention can level outcomes for [[neurodiversity]] learners in [[cs-education]] and video-based instruction generally.
+Temporal segmentation demonstrates how a lightweight, post-hoc content transformation can deliver Universal Design for Learning at scale. It connects [[accessible-learning]] and Cognitive Load Theory with AI pipelines, showing that automated intervention can level outcomes for [[neurodiversity]] learners in [[cs-education]] and video-based instruction generally.
 
 ## Connected Concepts
 
@@ -29,7 +29,6 @@ Temporal segmentation demonstrates how a lightweight, post-hoc content transform
 - [[neurodiversity]]
 - [[llm]]
 - [[universal-design-for-learning]]
-- [[cognitive-load-theory]]
 - [[special-education]]
 - [[learning-analytics]]
 - [[student-experience]]

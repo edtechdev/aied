@@ -3,7 +3,8 @@ title: "From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI
 created: "2026-08-13T05:23:56-04:00"
 updated: "2026-08-13"
 type: article
-tags: [generative-ai, over-reliance, ai-literacy, self-regulated-learning, cognitive-offloading, ai-misuse-learning-harm, motivation, higher-ed]
+tags: [generative-ai, cognitive-offloading, ai-literacy, self-regulated-learning, cognitive-offloading, ai-misuse-learning-harm, motivation, higher-ed]
+
 sources: ['raw/papers/10.3389_fpsyg.2026.1847369.md']
 confidence: high
 ---
@@ -24,7 +25,7 @@ The study employed a mixed-method design combining three-wave time-lagged survey
 
 ## Implications for AI in Education
 
-The findings reframe AI's impact on learning as inherently dual — capable of both enhancement and [[over-reliance]] — and locate the determining factors in how students engage with the technology. For educators, this argues for building [[ai-literacy]] (the capacity to evaluate AI output critically and use it meaningfully) and [[self-regulated-learning]] skills so students use AI as a scaffold rather than a substitute, and for attending to individual differences such as [[motivation|polychronicity]] that shape dependency risk. The study connects AI use to [[cognitive-offloading]] risks, warning that habitual delegation of cognitive processing can erode the internal effort needed for deep learning, and offers implications for designing interventions that maximize the enhancement pathway while mitigating [[ai-misuse-learning-harm|over-reliance]].
+The findings reframe AI's impact on learning as inherently dual — capable of both enhancement and [[cognitive-offloading|Over-Reliance]] — and locate the determining factors in how students engage with the technology. For educators, this argues for building [[ai-literacy]] (the capacity to evaluate AI output critically and use it meaningfully) and [[self-regulated-learning]] skills so students use AI as a scaffold rather than a substitute, and for attending to individual differences such as [[motivation|polychronicity]] that shape dependency risk. The study connects AI use to [[cognitive-offloading]] risks, warning that habitual delegation of cognitive processing can erode the internal effort needed for deep learning, and offers implications for designing interventions that maximize the enhancement pathway while mitigating [[ai-misuse-learning-harm|over-reliance]].
 
 ## Limitations
 
@@ -33,7 +34,7 @@ The cross-sectional, self-report survey design limits causal inference despite t
 ## Connected Concepts
 
 - [[generative-ai]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]

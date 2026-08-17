@@ -18,7 +18,7 @@ The taxonomy distinguishes between qualitatively different types of student misu
 
 ## Relationship to AI in Education
 
-While the paper itself does not involve AI, its taxonomy has implications for [[llm-student-misconception-identification]] systems that automatically detect and classify student errors. A structured taxonomy enables training data annotation, evaluation benchmarks, and informed remediation strategies. It also supports [[automated-grading]] systems by providing a vocabulary for explaining why a particular answer is wrong, moving beyond binary correct/incorrect judgments.
+While the paper itself does not involve AI, its taxonomy has implications for [[llm-student-misconception-identification]] systems that automatically detect and classify student errors. A structured taxonomy enables training data annotation, evaluation benchmarks, and informed remediation strategies. It also supports [[automated-assessment|Automated Grading]] systems by providing a vocabulary for explaining why a particular answer is wrong, moving beyond binary correct/incorrect judgments.
 
 ## Methodology
 
@@ -32,7 +32,7 @@ For educators, the taxonomy supports more precise diagnosis of student difficult
 
 - [[cs-education]]
 - [[scaffolding]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[student-experience]]
 - [[formative-assessment]]
 - [[assessment-validity]]

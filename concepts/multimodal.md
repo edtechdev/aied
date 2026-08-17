@@ -3,7 +3,8 @@ title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-15T10:24:06-04:00"
 type: concept
-tags: [ai-education, generative-ai, multimodal, llm, ai-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
+tags: [ai-education, generative-ai, multimodal, llm, intelligent-tutoring, ai-literacy, assessment, educational-measurement, stem-education, higher-ed]
+
 confidence: high
 ---
 
@@ -58,11 +59,11 @@ Multimodal systems also expand access and personalization. AI-guided audio-video
 - [[llm]]
 - [[educational-nlp]]
 - [[knowledge-graph]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[ai-literacy]]
 - [[prompt-engineering]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[assessment]]
 - [[educational-measurement]]
 - [[item-response-theory]]

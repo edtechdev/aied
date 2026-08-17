@@ -3,7 +3,8 @@ title: The care-full craft of feedback in an age of generative AI
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, feedback-loop, higher-ed, educational-theory, equity, teacher-role, equity-in-ai-education, human-in-the-loop-ai, ethics, ai-education]
+tags: [generative-ai, feedback, higher-ed, educational-theory, equity, teacher-role, equity-in-ai-education, human-in-the-loop-ai, ethics, ai-education]
+
 sources: ['raw/papers/tandf-2026-care-full-feedback-genai.md']
 confidence: high
 ---
@@ -39,7 +40,7 @@ A conceptual/position paper arguing that feedback in an age of GenAI must be und
 - [[ethics]]
 - [[generative-ai]]
 - [[ai-feedback-quality]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[trust]]
 ## Connected Articles
 

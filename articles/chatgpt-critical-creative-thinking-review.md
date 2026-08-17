@@ -112,7 +112,7 @@ The **boundary object** function — ChatGPT's interpretive flexibility across d
 
 5. **Leverage ChatGPT as a connective node for interdisciplinary thinking** — Cross-domain tasks that draw on ChatGPT's broad knowledge while critically examining disciplinary assumptions. Supports [[ai-learning-companions-framework|dialogic partner]] and connectivist learning.
 
-6. **Position feedback as a multi-source process** — Triangulate AI feedback with peer review, instructor input, and self-assessment. Creates [[feedback-loop|multi-source feedback loops]] that mitigate overreliance.
+6. **Position feedback as a multi-source process** — Triangulate AI feedback with peer review, instructor input, and self-assessment. Creates [[feedback|multi-source feedback loops]] that mitigate overreliance.
 
 ## Limitations of the Review
 
@@ -132,7 +132,7 @@ This review is a **keystone synthesis** connecting multiple threads in the AI ed
 - **[[ai-literacy-assessment-misalignment]]** explains why students struggle to calibrate AI evaluation — the review confirms this as a critical moderator
 - **[[human-in-the-loop-ai]]** provides implementation architectures for the scaffolding strategies recommended
 - **[[ai-learning-companions-framework]]** offers design paradigms aligned with "dialogic partner" and "boundary object" concepts
-- **[[feedback-loop]]** operationalizes the multi-source feedback recommendation
+- **[[feedback|Feedback Loop]]** operationalizes the multi-source feedback recommendation
 - **[[faculty-development]]** is essential — educators need training to implement these scaffolds
 - **[[student-experience]]** captures the learner perspective on usage patterns
 - **[[higher-ed]]** and [[universities-ai-era-rethinking]] provide the institutional context

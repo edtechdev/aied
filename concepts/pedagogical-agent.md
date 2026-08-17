@@ -16,7 +16,7 @@ A pedagogical agent is an interactive AI component within a learning system that
 - [[pedagogical-safety]]
 - [[agentic-ai]]
 - [[ai-education]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 ## Connected Articles
 - [[ai-generated-interactive-fiction-education-2026]]
 

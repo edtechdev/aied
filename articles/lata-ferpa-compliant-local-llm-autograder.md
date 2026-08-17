@@ -3,7 +3,8 @@ title: "LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division
 created: "2026-05-15T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [automated-grading, higher-ed, stem-education, llm, generative-ai, efficacy-study, feedback-loop, assessment-validity, formative-assessment, open-source]
+tags: [automated-assessment, higher-ed, stem-education, llm, generative-ai, efficacy-study, feedback, assessment-validity, formative-assessment, open-source]
+
 sources: ['raw/papers/2605.05410.md']
 confidence: high
 ---
@@ -14,7 +15,7 @@ LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Co
 
 ## Summary
 
-LaTA (LaTeX Teaching Assistant) is a **privacy-preserving, drop-in autograder** that addresses the core tension in educational LLM deployment: most [[automated-grading]] systems send student work to third-party APIs, violating FERPA and exposing institutions to data risk.
+LaTA (LaTeX Teaching Assistant) is a **privacy-preserving, drop-in autograder** that addresses the core tension in educational LLM deployment: most [[automated-assessment|Automated Grading]] systems send student work to third-party APIs, violating FERPA and exposing institutions to data risk.
 
 **System architecture:**
 - **Four-stage pipeline:** Ingest → Segment → Grade → Report
@@ -32,14 +33,14 @@ LaTA (LaTeX Teaching Assistant) is a **privacy-preserving, drop-in autograder** 
 - **Final exam:** +8% performance gain
 - **Confidence gains:** Δ ≥ +1.49 Likert points on every learning objective (N=159, p < 10⁻²⁷)
 
-These results provide strong evidence for the [[feedback-loop]] hypothesis: faster, more consistent feedback drives both learning and confidence. The deployment demonstrates that [[generative-ai]] grading can be both FERPA-compliant and pedagogically effective, addressing concerns raised in [[assessment-validity]] and [[formative-assessment]] discussions.
+These results provide strong evidence for the [[feedback|Feedback Loop]] hypothesis: faster, more consistent feedback drives both learning and confidence. The deployment demonstrates that [[generative-ai]] grading can be both FERPA-compliant and pedagogically effective, addressing concerns raised in [[assessment-validity]] and [[formative-assessment]] discussions.
 
 LaTA's success connects to the broader [[stem-education]] and [[higher-ed]] landscape, showing that [[llm]]-based grading can move beyond [[short-answer-scoring-quality-degradation]] concerns when properly designed with instructor-authored rubrics and reference solutions. The open-source, zero-marginal-cost model aligns with [[principled-ai-education]] principles.
 
 ## Connected Concepts
 
-- [[automated-grading]]
-- [[feedback-loop]]
+- [[automated-assessment]]
+- [[feedback]]
 - [[generative-ai]]
 - [[assessment-validity]]
 - [[formative-assessment]]

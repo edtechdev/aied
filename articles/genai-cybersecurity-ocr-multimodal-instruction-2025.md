@@ -23,7 +23,7 @@ This is a **research-category full paper** describing the design and integration
 
 ## Implications for AI in Education
 
-The paper demonstrates how [[generative-ai]] can serve as an [[ai-tutoring|instructional assistant]] within experiential, hands-on learning environments, applied here to [[cs-education]] education. It connects to [[llm|large language models]] as [[llm|learning assistants]], to [[higher-ed]] and workforce reskilling, and to [[stem-education]] skills such as automation and AI. For educators, it shows how multimodal LLM capabilities (including OCR) can support lab-based and exercise-driven learning, reducing the instructional burden while enabling experiential skill building.
+The paper demonstrates how [[generative-ai]] can serve as an [[intelligent-tutoring|instructional assistant]] within experiential, hands-on learning environments, applied here to [[cs-education]] education. It connects to [[llm|large language models]] as [[llm|learning assistants]], to [[higher-ed]] and workforce reskilling, and to [[stem-education]] skills such as automation and AI. For educators, it shows how multimodal LLM capabilities (including OCR) can support lab-based and exercise-driven learning, reducing the instructional burden while enabling experiential skill building.
 
 ## Limitations
 
@@ -36,7 +36,7 @@ The paper focuses on a specific cybersecurity lab context, and the described stu
 - [[cs-education]]
 - [[higher-ed]]
 - [[experiential-learning]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 
 ## Connected Articles
 

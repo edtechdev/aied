@@ -6,7 +6,9 @@ type: article
 tags: [generative-ai, higher-ed, special-education, equity, bias-mitigation, llm, student-experience, ai-literacy, scaffolding, stem-education]
 confidence: high
 sources: []
----## Overview
+---
+
+## Overview
 
 This paper argues that [[generative-ai]] systems in [[higher-ed]] are not epistemically neutral — they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric training data reinforces epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration, where technological architectures confine them to reductive stereotypes or exclude them from the design process entirely.
 

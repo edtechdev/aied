@@ -40,7 +40,7 @@ The cross-sectional design does not establish directionality: engagement may sha
 - [[affective-computing]]
 - [[knowledge-tracing]]
 - [[trust-calibration]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ethics]]
 - [[higher-ed]]
 - [[student-engagement]]

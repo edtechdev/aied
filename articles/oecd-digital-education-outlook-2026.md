@@ -12,7 +12,7 @@ confidence: high
 
 ## The Core Finding: Performance Is Not Learning
 
-The report's most consequential finding is that general-purpose GenAI tools (ChatGPT, Gemini, Claude) improve the *quality of student outputs* on assignments but this advantage **disappears and sometimes reverses** in exams when AI access is removed. This misalignment between task performance and genuine learning is the report's central argument for why purpose-built educational AI is necessary. When students offload cognitive tasks to chatbots, metacognitive engagement drops — the mental processes that turn answers into understanding are short-circuited. See [[genai-performance-vs-learning]] and [[over-reliance]].
+The report's most consequential finding is that general-purpose GenAI tools (ChatGPT, Gemini, Claude) improve the *quality of student outputs* on assignments but this advantage **disappears and sometimes reverses** in exams when AI access is removed. This misalignment between task performance and genuine learning is the report's central argument for why purpose-built educational AI is necessary. When students offload cognitive tasks to chatbots, metacognitive engagement drops — the mental processes that turn answers into understanding are short-circuited. See [[genai-performance-vs-learning]] and [[cognitive-offloading|Over-Reliance]].
 
 ## Educational GenAI: What Works
 
@@ -23,7 +23,7 @@ Hybrid systems that combine GenAI with explicit pedagogical models show more pro
 - **JeepyTA**: AI teaching assistant in university contexts rated comparable to human TAs in clarity and accuracy
 - **Tutor Copilot**: Mobilises less-qualified tutors effectively through AI support
 
-The report draws a sharp line: GenAI tools "designed or used with an intentional pedagogical purpose" produce sustained learning improvements; tools used as answer-dispensing shortcuts do not. See [[ai-tutoring]], [[intelligent-tutoring]], [[codify-socratic-tutoring-programming]].
+The report draws a sharp line: GenAI tools "designed or used with an intentional pedagogical purpose" produce sustained learning improvements; tools used as answer-dispensing shortcuts do not. See [[intelligent-tutoring|AI Tutoring]], [[intelligent-tutoring]], [[codify-socratic-tutoring-programming]].
 
 ## Tutoring: The 9-Percentage-Point Effect
 
@@ -61,7 +61,7 @@ A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with inte
 
 ## Connected Concepts
 
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[higher-ed]]

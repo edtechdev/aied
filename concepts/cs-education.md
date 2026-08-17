@@ -3,7 +3,8 @@ title: CS Education and AI
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-15T18:05:58-04:00"
 type: concept
-tags: [computational-thinking, stem-education, automated-grading, prompt-engineering, higher-ed, k-12, llm, generative-ai]
+tags: [computational-thinking, stem-education, automated-assessment, prompt-engineering, higher-ed, k-12, llm, generative-ai]
+
 confidence: high
 ---
 
@@ -18,25 +19,25 @@ confidence: high
 
 ### Unique affordances
 
-CS education's unique position — students learn to build the very tools they use — creates both opportunities (meta-cognitive awareness of AI limitations) and risks ([[over-reliance]] on AI-generated code). [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this duality.
+CS education's unique position — students learn to build the very tools they use — creates both opportunities (meta-cognitive awareness of AI limitations) and risks ([[cognitive-offloading|Over-Reliance]] on AI-generated code). [[code-review-genai-cs1|Code review interviews]] and [[critical-engagement-code-completion|critical engagement studies]] address this duality.
 
 ### Connections
 
-CS education connects to [[computational-thinking]], [[stem-education]], [[automated-grading]], [[prompt-engineering]], [[higher-ed]], and [[k-12]]. It is the domain where AIED tools are both used and built.
+CS education connects to [[computational-thinking]], [[stem-education]], [[automated-assessment|Automated Grading]], [[prompt-engineering]], [[higher-ed]], and [[k-12]]. It is the domain where AIED tools are both used and built.
 
 ## Connected Concepts
 
 - [[computational-thinking]]
 - [[learning-by-teaching]]
 - [[stem-education]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[prompt-engineering]]
 - [[higher-ed]]
 - [[k-12]]
 - [[llm]]
 - [[generative-ai]]
-- [[ai-tutoring]]
-- [[over-reliance]]
+- [[intelligent-tutoring]]
+- [[cognitive-offloading]]
 - [[discipline-specific-aied]]
 - [[teacher-education]]
 

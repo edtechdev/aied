@@ -3,7 +3,8 @@ title: "Artificial intelligence and feedback in university education: effectiven
 created: "2026-07-19T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, feedback-loop, higher-ed, student-experience, learning-gains, formative-assessment, ai-literacy, rag, scaffolding, llm]
+tags: [generative-ai, feedback, higher-ed, student-experience, learning-gains, formative-assessment, ai-literacy, rag, scaffolding, llm]
+
 sources: ['raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md']
 confidence: high
 ---
@@ -57,8 +58,8 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 ## Implications for the wiki
 - A strong, well-controlled (randomised, blind, equivalence-tested) data point that **AI-generated feedback can match expert teacher feedback** for project-based learning **when criteria are explicit and assessment literacy is high** — complementing [[ai-feedback-quality]] and [[ai-learning-companions-framework]] work.
 - Pairs naturally with [[generative-ai-guardrails-harm-learning]] (the PNAS RCT): that study shows *unguarded* AI tutoring can *harm* learning, this one shows *well-architected* AI feedback can *match* teachers — together they bracket the design-dependence of AIED outcomes.
-- Reinforces [[formative-assessment]], [[feedback-loop]], and [[ai-literacy]] (teacher and student) as the decisive variables, over the raw tool.
-- Connects to [[rag|retrieval-augmented generation]] as a calibration mechanism and to [[over-reliance]] (the authors flag it as a risk even in a positive-result study).
+- Reinforces [[formative-assessment]], [[feedback|Feedback Loop]], and [[ai-literacy]] (teacher and student) as the decisive variables, over the raw tool.
+- Connects to [[rag|retrieval-augmented generation]] as a calibration mechanism and to [[cognitive-offloading|Over-Reliance]] (the authors flag it as a risk even in a positive-result study).
 
 ## Connected Concepts
 
@@ -70,10 +71,10 @@ The authors' core argument: **feedback works as a systemic, relational process, 
 - [[student-experience]]
 - [[generative-ai]]
 - [[llm]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[ai-feedback-quality]]
 - [[learning-gains]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 ## Connected Articles
 
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance

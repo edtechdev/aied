@@ -3,7 +3,8 @@ title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-15T20:02:54-04:00"
 type: concept
-tags: [llm, prompt-engineering, rag, ai-literacy, ai-tutoring, over-reliance, hallucination-risk, cognitive-offloading]
+tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk, cognitive-offloading]
+
 confidence: high
 ---
 
@@ -14,9 +15,9 @@ confidence: high
 Unlike earlier rule-based or retrieval-based systems, generative AI produces fluent, contextually appropriate content on demand. This creates both unprecedented opportunities and novel risks:
 
 - **Content generation:** [[llm|LLMs]] can create instructional materials, examples, and explanations. [[book-level-synthetic-textbook-organization|Synthetic textbooks]], [[courseblueprint-adaptive-video-generation|adaptive videos]], and [[ai-generated-instructional-videos-computing-ed|instructional videos]] show the range of educational content generation.
-- **Tutoring and dialogue:** [[ai-tutoring|AI tutoring systems]] use generative AI for conversational instruction. [[socratic-method|Socratic dialogue]] and [[collaborative-ai-tutoring|collaborative tutoring]] exploit generative capabilities for pedagogical interaction.
-- **Assessment:** [[automated-essay-scoring|Essay scoring]], [[automated-grading|automated grading]], and [[formative-assessment]] increasingly rely on generative models.
-- **Risks:** [[hallucination-risk|Hallucination]], [[over-reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns arise specifically from generative AI's fluency and accessibility.
+- **Tutoring and dialogue:** [[intelligent-tutoring|AI tutoring systems]] use generative AI for conversational instruction. [[socratic-method|Socratic dialogue]] and [[collaborative-ai-tutoring|collaborative tutoring]] exploit generative capabilities for pedagogical interaction.
+- **Assessment:** [[automated-essay-scoring|Essay scoring]], [[automated-assessment|automated grading]], and [[formative-assessment]] increasingly rely on generative models.
+- **Risks:** [[hallucination-risk|Hallucination]], [[cognitive-offloading|Over-Reliance]], [[cognitive-offloading]], and [[academic-integrity]] concerns arise specifically from generative AI's fluency and accessibility.
 
 ### The wiki's generative AI coverage
 
@@ -33,12 +34,12 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 - [[prompt-engineering]]
 - [[rag]]
 - [[ai-literacy]]
-- [[ai-tutoring]]
-- [[over-reliance]]
+- [[intelligent-tutoring]]
+- [[cognitive-offloading]]
 - [[hallucination-risk]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[higher-ed]]
 - [[k-12]]
 

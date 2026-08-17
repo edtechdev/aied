@@ -3,7 +3,8 @@ title: "Rethinking AI-assisted writing instruction: feedback literacy scripts, c
 created: "2026-08-15T19:02:13-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-feedback-quality, feedback-loop, self-regulated-learning, formative-assessment, writing-education, ai-literacy, metacognition, higher-ed, generative-ai]
+tags: [ai-feedback-quality, feedback, self-regulated-learning, formative-assessment, writing-education, ai-literacy, metacognition, higher-ed, generative-ai]
+
 sources: ['raw/papers/rethinking-ai-writing-feedback-literacy.md']
 confidence: high
 ---
@@ -32,12 +33,12 @@ FRAC is a **Feedback Literacy Script** targeting the processing of external feed
 
 ## Implications
 
-The paper shifts attention from "whether AI can provide feedback" to "under what conditions AI feedback can genuinely support learning." It argues AI writing tools should not be treated merely as instant-feedback sources, but embedded in instructional support structures that develop independent judgment and self-regulated learning. This contributes directly to debates in the wiki about [[ai-feedback-quality]], [[feedback-loop]] design, and the role of [[metacognition]] in [[self-regulated-learning]], and it illustrates how [[formative-assessment]] in [[writing-education]] can be enhanced by training learners' [[ai-literacy]] and evaluative judgment in [[higher-ed]]. It also cautions against passive dependence on AI, echoing concerns about cognitive offloading in AI-assisted writing.
+The paper shifts attention from "whether AI can provide feedback" to "under what conditions AI feedback can genuinely support learning." It argues AI writing tools should not be treated merely as instant-feedback sources, but embedded in instructional support structures that develop independent judgment and self-regulated learning. This contributes directly to debates in the wiki about [[ai-feedback-quality]], [[feedback|Feedback Loop]] design, and the role of [[metacognition]] in [[self-regulated-learning]], and it illustrates how [[formative-assessment]] in [[writing-education]] can be enhanced by training learners' [[ai-literacy]] and evaluative judgment in [[higher-ed]]. It also cautions against passive dependence on AI, echoing concerns about cognitive offloading in AI-assisted writing.
 
 ## Connection to Existing Wiki
 
 - **[[ai-feedback-quality]]**: Provides causal evidence that feedback-processing training raises effective adoption and deep revision, not just feedback volume.
-- **[[feedback-loop]]**: FRAC's Filter–Reason–Act–Check sequence operationalises a structured feedback–revision loop.
+- **[[feedback|Feedback Loop]]**: FRAC's Filter–Reason–Act–Check sequence operationalises a structured feedback–revision loop.
 - **[[self-regulated-learning]] / [[metacognition]]**: APCA's calibration cycle is a concrete calibration-training instantiation tied to SRL monitoring and control.
 - **[[formative-assessment]]**: Links feedback uptake and self-assessment accuracy to formative writing assessment in higher education.
 - **[[writing-education]] / [[ai-literacy]]**: Evidence that AI-assisted writing outcomes depend on training learners to evaluate and act on AI feedback.
@@ -49,7 +50,7 @@ Strengths include a controlled factorial design with process data (decision shee
 ## Connected Concepts
 
 - [[ai-feedback-quality]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[self-regulated-learning]]
 - [[formative-assessment]]
 - [[writing-education]]

@@ -21,7 +21,7 @@ AI in medical and health-professions education is a growing strand of the wiki's
 
 ### Why it matters
 
-HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks ([[over-reliance]], erosion of hands-on clinical skill, ethical and safety concerns). The wiki's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
+HPE is a high-stakes, competency-based domain where AI's benefits (scalable practice, adaptive feedback, simulation) must be balanced against risks ([[cognitive-offloading|Over-Reliance]], erosion of hands-on clinical skill, ethical and safety concerns). The wiki's general concepts — [[teacher-role]], [[assessment]], [[feedback]], [[equity-in-ai-education]], and [[ethics]] — apply with particular intensity in health professions, where errors carry direct patient consequences.
 
 ## Connected Concepts
 

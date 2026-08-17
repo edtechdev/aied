@@ -3,7 +3,8 @@ title: AI Plagiarism Detection
 created: "2026-05-29T10:44:35-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
-tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, over-reliance, assessment, policy-maker, llm, assessment-validity, equity]
+tags: [academic-integrity, ai-detection, higher-ed, generative-ai, student-experience, ai-literacy, cognitive-offloading, assessment, policy-maker, llm, assessment-validity, equity]
+
 confidence: high
 ---
 
@@ -31,7 +32,7 @@ Research consistently cautions against standalone reliance on detection:
 
 A key theme in the wiki is that detection should be a **limited, situational tool — not a strategy of first resort**. [[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al. (2025)]] argue that surveillance and detection **misdiagnose the problem**: in an AI-mediated world, authenticity cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic design-for-learning patterns that position AI as a collaborator rather than a cheating application. This connects detection to [[authentic-assessment]], [[assessment-validity]], [[responsible-assessment-ai-era-stanford-2026|responsible assessment]], and [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene|coauthorship integrity]].
 
-The constructive question shifts from "how do we prevent students from using AI?" to "how do we enable them to use it thoughtfully, responsibly, and effectively in contexts that mirror their future work?" Detection therefore connects to [[ai-literacy]] (helping students [[reducing-ai-misuse|use AI responsibly]]), [[over-reliance]] (understanding when AI use undermines learning), and the broader goal of supporting genuine learning rather than policing submissions. It also links to student-side phenomena such as [[student-rationalization-ai-writing|student rationalization of AI writing]] and the identity-detection challenge in [[socially-fluent-ai-identity-detection]].
+The constructive question shifts from "how do we prevent students from using AI?" to "how do we enable them to use it thoughtfully, responsibly, and effectively in contexts that mirror their future work?" Detection therefore connects to [[ai-literacy]] (helping students [[reducing-ai-misuse|use AI responsibly]]), [[cognitive-offloading|Over-Reliance]] (understanding when AI use undermines learning), and the broader goal of supporting genuine learning rather than policing submissions. It also links to student-side phenomena such as [[student-rationalization-ai-writing|student rationalization of AI writing]] and the identity-detection challenge in [[socially-fluent-ai-identity-detection]].
 
 ## Implications for AI in education
 
@@ -49,7 +50,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[assessment-validity]]
 - [[authentic-assessment]]
 - [[ai-literacy]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[equity-in-ai-education]]
 - [[bias-mitigation]]
 - [[higher-ed]]

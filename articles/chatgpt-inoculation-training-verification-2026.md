@@ -3,7 +3,8 @@ title: "Student engagement with ChatGPT for educational tasks: Effects of inocul
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [ai-literacy, over-reliance, trust-calibration, misinformation, higher-ed, language-learning, student-engagement]
+tags: [ai-literacy, cognitive-offloading, trust-calibration, misinformation, higher-ed, language-learning, student-engagement]
+
 sources: ['raw/papers/chatgpt-inoculation-training-verification-2026.md']
 confidence: high
 ---
@@ -25,7 +26,7 @@ confidence: high
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[trust-calibration]]
 - [[trust]]
 - [[student-engagement]]

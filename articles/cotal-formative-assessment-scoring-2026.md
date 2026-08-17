@@ -3,7 +3,8 @@ title: "CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative 
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [formative-assessment, automated-grading, human-in-the-loop, prompt-engineering, benchmark, ai-ed-evaluation, assessment-validity, llm]
+tags: [formative-assessment, automated-assessment, human-in-the-loop, prompt-engineering, benchmark, ai-ed-evaluation, assessment-validity, llm]
+
 sources: ['raw/papers/cotal-formative-assessment-scoring-2026.md']
 confidence: high
 ---
@@ -12,7 +13,7 @@ confidence: high
 
 # CoTAL: Formative Assessment Scoring with Human-in-the-Loop Prompt Engineering
 
-> Cohn, Ashwin T S, Mohammed & Biswas (2026) introduce **CoTAL** (Chain-of-Thought Prompting + Active Learning): an LLM grading pipeline that couples Evidence-Centered Design with human-in-the-loop prompt engineering and iterative teacher/student feedback refinement. It improves GPT-4's scoring by **up to 38.9% over a non-prompt-engineered baseline** and generalises across science, computing, and engineering — direct evidence that prompt-engineering quality, not model choice, is often the binding constraint in [[automated-grading]].
+> Cohn, Ashwin T S, Mohammed & Biswas (2026) introduce **CoTAL** (Chain-of-Thought Prompting + Active Learning): an LLM grading pipeline that couples Evidence-Centered Design with human-in-the-loop prompt engineering and iterative teacher/student feedback refinement. It improves GPT-4's scoring by **up to 38.9% over a non-prompt-engineered baseline** and generalises across science, computing, and engineering — direct evidence that prompt-engineering quality, not model choice, is often the binding constraint in [[automated-assessment|Automated Grading]].
 
 ## How it works
 
@@ -33,7 +34,7 @@ confidence: high
 - [[ai-feedback-quality]]
 - [[assessment-validity]]
 - [[automated-assessment]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[prompt-engineering]]

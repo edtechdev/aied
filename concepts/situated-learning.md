@@ -11,7 +11,7 @@ confidence: high
 
 Situated learning is one of the activity-and-context theories within the wiki's [[learning-theories]] strand. It takes up Vygotskian themes of social construction but adds a strong emphasis on the intimate integration of "doing" and "learning" and on the importance of communities of practice. As an educational stance it confronts traditional, standardized schooling by foregrounding the learner's sociocultural context as a key element for acquiring skills and appropriating knowledge relevant to their reality.
 
-In the [[ai-education|AI-in-education]] literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[ai-tutoring|intelligent tutoring]] in authentic scenarios, and immersive [[simulation|simulations]] can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for ethical grounding.
+In the [[ai-education|AI-in-education]] literature, situated learning matters because it provides a design lens for AI: [[adaptive-learning|adaptive systems]], [[intelligent-tutoring|intelligent tutoring]] in authentic scenarios, and immersive [[simulation|simulations]] can ground AI-driven education in real-world contexts, while situated learning in turn offers AI a meaningful anchor in authentic practice and complexity. The two are widely treated as complementary, with human guidance remaining essential for ethical grounding.
 
 ### Situated learning as a design lens for AI
 

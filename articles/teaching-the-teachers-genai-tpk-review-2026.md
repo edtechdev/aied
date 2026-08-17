@@ -20,7 +20,7 @@ confidence: high
 
 **Institutional responsibility and HEI role.** The review stresses that HEIs commonly offer pedagogical courses and professional development — accelerated since the Covid-19 pandemic — yet there is little evidence of how teacher-education programs specifically prepare future educators for GenAI. Fostering coherent institutional strategies, supportive policies, and sustained, subject-relevant professional learning is framed as central to enabling TEs' GenAI-TPK.
 
-**Ethical challenges are central.** Themes of bias/fairness, accountability/transparency, privacy/data ethics, student [[over-reliance]], and the need for ethical literacy recurred across studies, calling for a shift from reactive policy toward critical, reflective, [[equity-in-ai-education]]-centred GenAI education, including explainable AI (XAI) and prompt-engineering training.
+**Ethical challenges are central.** Themes of bias/fairness, accountability/transparency, privacy/data ethics, student [[cognitive-offloading|Over-Reliance]], and the need for ethical literacy recurred across studies, calling for a shift from reactive policy toward critical, reflective, [[equity-in-ai-education]]-centred GenAI education, including explainable AI (XAI) and prompt-engineering training.
 
 **Limitations.** The small number of included studies reflects the field's novelty and strict PRISMA criteria; restricting the search to ERIC and EBSCO may have excluded relevant work from Scopus, Web of Science, or Google Scholar; publication bias, limited heterogeneity, time-lag bias, and the interpretive nature of thematic synthesis (no meta-analysis or effect-size aggregation was possible) constrain generalizability.
 

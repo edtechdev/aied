@@ -63,7 +63,7 @@ The structured dialogue intervention is structurally similar to [[tutoring-speci
 
 - [[pedagogical-agent]]
 - [[agentic-ai]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[math-education]]
 - [[teacher-ai-competency]]
 - [[socratic-method]]

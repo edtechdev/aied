@@ -3,11 +3,12 @@ title: Assessment Validity in AI Education
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-17T10:15:00-04:00"
 type: concept
-tags: [authentic-assessment, automated-grading, confidence-aware-ai-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity]
+tags: [authentic-assessment, automated-assessment, automated-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity]
+
 confidence: high
 ---
 
-> **Assessment validity** — whether assessments measure what they claim to measure. AI in education raises fundamental validity questions: do [[automated-grading|AI-graded]] assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?
+> **Assessment validity** — whether assessments measure what they claim to measure. AI in education raises fundamental validity questions: do [[automated-assessment|AI-graded]] assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?
 
 ### Validity challenges
 
@@ -15,7 +16,7 @@ confidence: high
 - **Consequential validity:** Do AI-mediated assessments have fair consequences? [[ai-scoring-language-bias-physics|Language bias studies]] show that AI scoring can disadvantage non-native speakers.
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the [[assessment-validity|validity]] of course-tailored AI-generated assessments when backed by psychometric evaluation.
 - **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
-- **Confidence and calibration:** [[confidence-aware-ai-assessment|Confidence-aware systems]] improve validity by flagging uncertain assessments.
+- **Confidence and calibration:** [[automated-assessment|Confidence-aware systems]] improve validity by flagging uncertain assessments.
 - **Embodied and multimodal evidence:** speech-only assessment can mistake verbal fluency for conceptual knowledge; [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] show that computer-vision gesture analysis coupled with LLM speech analysis increases construct validity and equity by capturing understanding expressed through gesture, not just words — reducing bias against learners who express understanding non-verbally.
 
 ### Redesign over detection
@@ -24,13 +25,13 @@ The wiki argues that maintaining assessment validity requires redesigning assess
 
 ### Connections
 
-Assessment validity connects to [[authentic-assessment]], [[automated-grading]], [[confidence-aware-ai-assessment]], [[formative-assessment]], [[academic-integrity]], and [[rct]] (which relies on valid outcome measures).
+Assessment validity connects to [[authentic-assessment]], [[automated-assessment|Automated Grading]], [[automated-assessment|Confidence Aware AI Assessment]], [[formative-assessment]], [[academic-integrity]], and [[rct]] (which relies on valid outcome measures).
 
 ## Connected Concepts
 
 - [[authentic-assessment]]
-- [[automated-grading]]
-- [[confidence-aware-ai-assessment]]
+- [[automated-assessment]]
+- [[automated-assessment]]
 - [[formative-assessment]]
 - [[academic-integrity]]
 - [[rct]]

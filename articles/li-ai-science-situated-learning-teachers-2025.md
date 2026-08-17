@@ -37,7 +37,7 @@ Shang Li (2025) presents a qualitative study grounding AI integration in K-12 sc
 - [[experiential-learning]]
 - [[embodied-learning]]
 - [[simulation]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[intelligent-tutoring]]
 - [[stem-education]]
 - [[teacher-role]]

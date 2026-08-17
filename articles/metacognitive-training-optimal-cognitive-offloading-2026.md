@@ -3,7 +3,8 @@ title: "Metacognitive Training Facilitates Optimal Cognitive Offloading"
 created: "2026-08-16T21:20:00-04:00"
 updated: "2026-08-16T21:20:00-04:00"
 type: article
-tags: [cognitive-offloading, metacognition, over-reliance, feedback, self-regulated-learning, student-experience, generative-ai]
+tags: [cognitive-offloading, metacognition, cognitive-offloading, feedback, self-regulated-learning, student-experience, generative-ai]
+
 sources: ['raw/papers/metacognitive-training-optimal-cognitive-offloading-2026.md']
 confidence: high
 ---
@@ -14,7 +15,7 @@ Ngai and Gilbert (2026) report two preregistered experiments testing whether a b
 
 ## The Intervention
 
-Participants completed a brief practice session (just **five trials**) in which they made metacognitive predictions about how well they would perform, then received feedback on their actual accuracy. This prediction-plus-[[feedback-loop|feedback loop]] was designed to improve *calibration* — bringing confidence in line with true ability — rather than simply raising or lowering confidence wholesale. The training was delivered immediately before an "optimal offloading" task in which participants decided trial-by-trial between internal memory (max reward) and external reminders (reduced reward), allowing reminder bias to be quantified objectively against each individual's optimal strategy.
+Participants completed a brief practice session (just **five trials**) in which they made metacognitive predictions about how well they would perform, then received feedback on their actual accuracy. This prediction-plus-[[feedback|feedback loop]] was designed to improve *calibration* — bringing confidence in line with true ability — rather than simply raising or lowering confidence wholesale. The training was delivered immediately before an "optimal offloading" task in which participants decided trial-by-trial between internal memory (max reward) and external reminders (reduced reward), allowing reminder bias to be quantified objectively against each individual's optimal strategy.
 
 ## Findings
 
@@ -33,13 +34,13 @@ The authors attribute their success — versus Engeler & Gilbert (2020) and Grin
 
 ## Connections to the Wiki
 
-This study provides strong empirical grounding for the wiki's [[cognitive-offloading]] and [[metacognition]] concepts, converging with the metacognitive beliefs-vs-experiences framework from [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]]: experience-targeting feedback (immediate performance feedback) is what drives change, while beliefs alone (predictions without feedback) do not. It also bears on [[over-reliance]] (reminder bias is a laboratory analogue of over-reliance), [[feedback]] (design principles for effective feedback), and [[self-regulated-learning]] (calibration as a trainable regulatory skill).
+This study provides strong empirical grounding for the wiki's [[cognitive-offloading]] and [[metacognition]] concepts, converging with the metacognitive beliefs-vs-experiences framework from [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]]: experience-targeting feedback (immediate performance feedback) is what drives change, while beliefs alone (predictions without feedback) do not. It also bears on [[cognitive-offloading|Over-Reliance]] (reminder bias is a laboratory analogue of over-reliance), [[feedback]] (design principles for effective feedback), and [[self-regulated-learning]] (calibration as a trainable regulatory skill).
 
 ## Connected Concepts
 
 - [[cognitive-offloading]]
 - [[metacognition]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[feedback]]
 - [[self-regulated-learning]]
 - [[student-experience]]

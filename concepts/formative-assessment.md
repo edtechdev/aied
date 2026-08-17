@@ -3,13 +3,14 @@ title: Formative Assessment in AI Education
 created: "2026-05-07T10:44:35-04:00"
 updated: "2026-08-15T03:36:31-04:00"
 type: concept
-tags: [formative-assessment, assessment, automated-assessment, feedback-loop, ai-feedback-quality, learning-analytics, personalized-learning, adaptive-learning, generative-ai, llm, human-in-the-loop-ai, scaffolding, ai-education]
+tags: [formative-assessment, assessment, automated-assessment, feedback, ai-feedback-quality, learning-analytics, personalized-learning, adaptive-learning, generative-ai, llm, human-in-the-loop-ai, scaffolding, ai-education]
+
 confidence: high
 ---
 
-> **Formative assessment** — assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. In AI education, formative assessment is both transformed by AI and essential to it: AI systems can generate, validate, and adapt formative items and feedback at scale, while formative feedback is a primary mechanism through which [[ai-tutoring|AI tutors]] and [[adaptive-learning|adaptive systems]] support learning. The wiki's research examines AI-generated formative items, AI-generated feedback, and the design and evaluation of these systems.
+> **Formative assessment** — assessment designed to inform ongoing instruction and learning, as opposed to summative evaluation. In AI education, formative assessment is both transformed by AI and essential to it: AI systems can generate, validate, and adapt formative items and feedback at scale, while formative feedback is a primary mechanism through which [[intelligent-tutoring|AI tutors]] and [[adaptive-learning|adaptive systems]] support learning. The wiki's research examines AI-generated formative items, AI-generated feedback, and the design and evaluation of these systems.
 
-Formative assessment is central to AI in education because it sits at the junction of [[assessment]] and [[feedback-loop|learning feedback]]. Its purpose is to close the loop: surface what students know and don't know, and provide feedback they can act on to improve. AI makes this feasible at scale — generating items, scoring responses, and delivering individualized feedback — but the wiki's research shows that quality varies dramatically across item types, and that feedback only helps when students actually enact it.
+Formative assessment is central to AI in education because it sits at the junction of [[assessment]] and [[feedback|learning feedback]]. Its purpose is to close the loop: surface what students know and don't know, and provide feedback they can act on to improve. AI makes this feasible at scale — generating items, scoring responses, and delivering individualized feedback — but the wiki's research shows that quality varies dramatically across item types, and that feedback only helps when students actually enact it.
 
 ## AI-generated formative items
 
@@ -48,7 +49,7 @@ A large body of wiki research examines AI-generated formative feedback:
 
 Formative assessment in AI education connects to the learning process itself:
 
-- **Feedback loops:** [[feedback-loop|feedback loops]] are the mechanism by which formative assessment informs learning; AI tutors and adaptive systems close these loops at scale.
+- **Feedback loops:** [[feedback|feedback loops]] are the mechanism by which formative assessment informs learning; AI tutors and adaptive systems close these loops at scale.
 - **Self-regulated learning:** formative feedback supports [[self-regulated-learning|self-regulated learning]] when students monitor progress and adjust; AI feedback should cultivate [[ai-internal-feedback-evaluative-judgments|evaluative judgment]], not displace it.
 - **Scaffolding:** [[scaffolding|scaffolding]] and formative assessment work together — AI can provide just-in-time hints and prompts, though sequenced feedback research cautions against over-structuring.
 - **Validity and quality:** the [[ai-feedback-quality|quality]] and [[assessment-validity|validity]] of AI-generated formative items and feedback must be evaluated; [[ai-ed-evaluation]] provides the methods.
@@ -69,10 +70,10 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 
 - [[assessment]]
 - [[automated-assessment]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[automated-question-generation]]
 - [[assessment-validity]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[ai-feedback-quality]]
 - [[learning-analytics]]
 - [[personalized-learning]]
@@ -85,7 +86,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[ai-ed-evaluation]]
 - [[generative-ai]]
 - [[llm]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[privacy]]
 - [[ai-education]]
 - [[feedback-literacy]]

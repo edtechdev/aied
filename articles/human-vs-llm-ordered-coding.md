@@ -3,7 +3,8 @@ title: "Comparing human and LLM ordered coding of qualitative data: How coding d
 created: "2026-08-01T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [automated-grading, educational-theory, ground-truth-reliability-aied, learning-analytics, llm, llm-in-education, educational-nlp, automated-assessment]
+tags: [automated-assessment, educational-theory, ground-truth-reliability-aied, learning-analytics, llm, llm-in-education, educational-nlp, automated-assessment]
+
 sources: ['raw/papers/caeai-human-llm-coding.md']
 confidence: high
 ---
@@ -43,7 +44,7 @@ The study evaluated a single dataset drawn from three courses at one institution
 - [[automated-essay-scoring]]
 - [[learning-analytics]]
 - [[human-in-the-loop-ai]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[collaborative-learning]]
 - [[research-methods-aied]]
 

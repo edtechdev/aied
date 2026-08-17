@@ -3,7 +3,8 @@ title: "Evidence of a Cognitive Shift in AI Education: How Students Are Rethinki
 created: "2026-05-20T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, student-experience, higher-ed, stem-education, over-reliance, efficacy-study, faculty-development, generative-ai, scaffolding]
+tags: [ai-literacy, student-experience, higher-ed, stem-education, cognitive-offloading, efficacy-study, faculty-development, generative-ai, scaffolding]
+
 sources: ['raw/papers/2605.16292.md']
 confidence: high
 ---
@@ -49,7 +50,7 @@ For instructors, these results suggest that AI education should explicitly surfa
 - [[critical-thinking]]
 - [[curriculum-design]]
 - [[faculty-development]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[student-experience]]
 
 ## Connected Articles

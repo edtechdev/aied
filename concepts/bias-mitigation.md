@@ -9,13 +9,13 @@ confidence: high
 
 > **Bias mitigation in AI education** — the identification, measurement, and reduction of unfair, identity-patterned behavior in AI tutors, scorers, recommenders, and educational systems. Bias can enter at any stage of the AI pipeline — training data, model behavior, prompts, scoring, and deployment — and manifest as differential treatment of learners based on language, gender, race, culture, or other identity characteristics. Mitigation spans data curation, debiasing algorithms, prompt design, fair-scoring methods, explainability, and evaluation. It is the technical counterpart to [[equity-in-ai-education]] and a core concern of [[ethics]] in AI education.
 
-Bias mitigation matters because AI in education is not neutral: systems trained on dominant language and cultural data can systematically disadvantage marginalized learners, from AI-based scoring that penalizes non-native writers to [[llm|LLM]] tutors that answer differently for different groups. Bias is a cross-cutting concern that appears in [[automated-grading]], [[automated-essay-scoring]], [[knowledge-tracing]], recommendation systems, and conversational AI tutors.
+Bias mitigation matters because AI in education is not neutral: systems trained on dominant language and cultural data can systematically disadvantage marginalized learners, from AI-based scoring that penalizes non-native writers to [[llm|LLM]] tutors that answer differently for different groups. Bias is a cross-cutting concern that appears in [[automated-assessment|Automated Grading]], [[automated-essay-scoring]], [[knowledge-tracing]], recommendation systems, and conversational AI tutors.
 
 ## Sources of bias
 
 The wiki's research documents bias entering at multiple points in the pipeline:
 
-- **Language and scoring bias:** [[ai-scoring-language-bias-physics|AI-based physics scoring]] systematically underestimates the conceptual understanding of students whose text-based explanations are of lower linguistic quality — the AI scores the language, not the understanding, penalizing non-native or less fluent writers. This is a direct validity and fairness failure in [[automated-grading]].
+- **Language and scoring bias:** [[ai-scoring-language-bias-physics|AI-based physics scoring]] systematically underestimates the conceptual understanding of students whose text-based explanations are of lower linguistic quality — the AI scores the language, not the understanding, penalizing non-native or less fluent writers. This is a direct validity and fairness failure in [[automated-assessment|Automated Grading]].
 - **Gender bias transfer in LLM-assisted writing:** [[gender-bias-transfer-llm-writing|Contaminated Collaboration]] shows that when students write with a gender-biased LLM prompt, their essays display a significantly larger agentic gap and more gender-stereotypic occupation suggestions (N=123); bias transfer is asymmetric, suppressing agency in female-target essays. A verification study (N=1,600 LLM essays, R²=.399) confirms a gender-biased prompt induces gender-differentiated language.
 - **Differential refusals and epistemic injustice:** [[paternalistic-filter-llm-history-education|The Paternalistic Filter]] audits four LLMs as history tutors (1,800 responses) and exposes a "paternalistic filter": models differentially refuse, soften, or reframe sensitive content for different learners — an epistemic injustice with direct equity implications.
 - **Selection bias in learning analytics:** [[temporal-smoothness-debiased-kt|Debiased knowledge tracing]] addresses selection bias arising from non-random exercise recommendations: training on observed logs with standard empirical risk produces biased mastery estimates that compound errors in adaptive recommendation loops.
@@ -46,7 +46,7 @@ Bias mitigation is not a single fix but an ongoing process spanning the pipeline
 
 ## Relationship to related concepts
 
-Bias mitigation is the technical mechanism through which [[equity-in-ai-education|equity in AI education]] is operationalized, and a core requirement of [[ethics]] and responsible AI design. It connects to [[ai-ed-evaluation]] (bias as an evaluation criterion), [[educational-measurement]] and [[assessment-validity]] (fairness in scoring), and [[privacy]] (as a related responsible-AI concern). It also connects to [[over-reliance]] (since biased systems are especially harmful when over-trusted) and [[ai-literacy]] (helping users recognize and question biased AI).
+Bias mitigation is the technical mechanism through which [[equity-in-ai-education|equity in AI education]] is operationalized, and a core requirement of [[ethics]] and responsible AI design. It connects to [[ai-ed-evaluation]] (bias as an evaluation criterion), [[educational-measurement]] and [[assessment-validity]] (fairness in scoring), and [[privacy]] (as a related responsible-AI concern). It also connects to [[cognitive-offloading|Over-Reliance]] (since biased systems are especially harmful when over-trusted) and [[ai-literacy]] (helping users recognize and question biased AI).
 
 ## Implications for AI in education
 
@@ -61,7 +61,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[equity-in-ai-education]]
 - [[ethics]]
 - [[ai-ed-evaluation]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[automated-essay-scoring]]
 - [[educational-measurement]]
 - [[knowledge-tracing]]
@@ -70,7 +70,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[privacy]]
 - [[human-in-the-loop-ai]]
 - [[trust]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[student-experience]]
 - [[ai-education]]

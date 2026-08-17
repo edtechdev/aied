@@ -12,7 +12,7 @@ Benedetti (2026) introduces a theoretically grounded framework for AI-enabled pe
 
 The dual-mode design — AmicoMio for structured, task-oriented interaction and AmicoTuo for reflective, supportive engagement — represents a novel contribution to [[intelligent-tutoring]] architecture. Rather than pursuing a single interaction style, the system adapts its mode to the pedagogical context. This aligns with [[scaffolding]] theory's emphasis on calibrating support to learner needs and connects to recent work on [[ai-tutor-behavioral-evaluation]] that stresses context-sensitive deployment.
 
-The cross-context pilot in Italy and China provides initial evidence of feasibility in vocational education, an underserved domain in the [[stanford-evidence-base-ai-k12-2026]]. The framework's emphasis on AI as a "relational bridge" to human interaction — not a replacement — addresses concerns raised in [[ai-tutor-safety-harms]] about dependency and [[over-reliance]]. The principle of data minimization further connects to [[privacy]] and [[equity-in-ai-education]] discussions in educational AI deployment. For [[faculty-development]], the observable indicators offer concrete assessment tools for evaluating AI integration quality.
+The cross-context pilot in Italy and China provides initial evidence of feasibility in vocational education, an underserved domain in the [[stanford-evidence-base-ai-k12-2026]]. The framework's emphasis on AI as a "relational bridge" to human interaction — not a replacement — addresses concerns raised in [[ai-tutor-safety-harms]] about dependency and [[cognitive-offloading|Over-Reliance]]. The principle of data minimization further connects to [[privacy]] and [[equity-in-ai-education]] discussions in educational AI deployment. For [[faculty-development]], the observable indicators offer concrete assessment tools for evaluating AI integration quality.
 
 ## Connected Concepts
 - [[human-in-the-loop-ai]]
@@ -21,7 +21,7 @@ The cross-context pilot in Italy and China provides initial evidence of feasibil
 
 - [[intelligent-tutoring]]
 - [[scaffolding]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[privacy]]
 - [[equity-in-ai-education]]
 - [[faculty-development]]

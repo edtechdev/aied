@@ -22,7 +22,7 @@ This scoping review analyzed **13 experimental studies** on LLM integration in u
 
 ### The "Tool Frustration" Paradox
 
-A striking finding: students using [[generative-ai]] tools **without adequate [[scaffolding]] and prompt literacy training** reported significantly higher frustration than controls (p = 0.008, median frustration 14 vs. 9), even when performance was equivalent. This mirrors concerns in the [[over-reliance]] and [[critical-engagement-code-completion]] literature — LLM access without pedagogical support can actively harm the learning experience.
+A striking finding: students using [[generative-ai]] tools **without adequate [[scaffolding]] and prompt literacy training** reported significantly higher frustration than controls (p = 0.008, median frustration 14 vs. 9), even when performance was equivalent. This mirrors concerns in the [[cognitive-offloading|Over-Reliance]] and [[critical-engagement-code-completion]] literature — LLM access without pedagogical support can actively harm the learning experience.
 
 ### Design Patterns That Work
 

@@ -3,12 +3,13 @@ title: "A systematic comparison of Large Language Models for automated assignmen
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
-tags: [programming-education, automated-grading, llm, cs-education, assessment]
+tags: [programming-education, automated-assessment, llm, cs-education, assessment]
+
 sources: ['raw/papers/llm-automated-grading-programming-comparison-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Jukiewicz (2026) presents the first large-scale, side-by-side comparison of 18 contemporary [[llm|Large Language Models]] for [[automated-grading]] of programming assignments, grading 6,081 complete question–answer pairs collected across four years of an introductory Python course for cognitive science students (~6,500 raw records, empty submissions removed). The models spanned four vendors — Anthropic (claude-3-5-haiku, claude-sonnet-4, claude-opus-4-1), DeepSeek (deepseek-chat, deepseek-reasoner), Google (gemini-2.0-flash-lite/flash, gemini-2.5-flash-lite/flash/pro), and OpenAI (gpt-4.1-nano/mini, gpt-4.1, gpt-4o-mini, gpt-4o, gpt-5-nano/mini, gpt-5) — queried via a standardized Chain-of-Thought prompt that requires each model to solve the problem itself, compare with the student submission, and return a grade of 0 (incorrect), 0.5 (almost correct), or 1 (correct) under default API parameters. Statistical analyses — grade distributions, means and standard deviations, Spearman rank correlations, Cohen's κ, Conover post-hoc tests with Holm/Holm–Šidák correction, and clustering — revealed systematic differences in grading strictness (mean scores from 0.290 for gpt-4.1-nano to 0.608 for claude-haiku-3.5), with models from the same vendor clustering together (e.g., gpt-5-family ρ ≈ 0.80–0.89, Gemini family ρ ≈ 0.79–0.83). Full-scale flagship models consistently outperformed their smaller "mini"/"nano" counterparts, yet even the best model achieved only moderate agreement with human teacher grades. The author concludes that model choice is not neutral and argues for careful selection, transparent metrics, and a human-in-the-loop approach.
+> **Synthesis:** Jukiewicz (2026) presents the first large-scale, side-by-side comparison of 18 contemporary [[llm|Large Language Models]] for [[automated-assessment|Automated Grading]] of programming assignments, grading 6,081 complete question–answer pairs collected across four years of an introductory Python course for cognitive science students (~6,500 raw records, empty submissions removed). The models spanned four vendors — Anthropic (claude-3-5-haiku, claude-sonnet-4, claude-opus-4-1), DeepSeek (deepseek-chat, deepseek-reasoner), Google (gemini-2.0-flash-lite/flash, gemini-2.5-flash-lite/flash/pro), and OpenAI (gpt-4.1-nano/mini, gpt-4.1, gpt-4o-mini, gpt-4o, gpt-5-nano/mini, gpt-5) — queried via a standardized Chain-of-Thought prompt that requires each model to solve the problem itself, compare with the student submission, and return a grade of 0 (incorrect), 0.5 (almost correct), or 1 (correct) under default API parameters. Statistical analyses — grade distributions, means and standard deviations, Spearman rank correlations, Cohen's κ, Conover post-hoc tests with Holm/Holm–Šidák correction, and clustering — revealed systematic differences in grading strictness (mean scores from 0.290 for gpt-4.1-nano to 0.608 for claude-haiku-3.5), with models from the same vendor clustering together (e.g., gpt-5-family ρ ≈ 0.80–0.89, Gemini family ρ ≈ 0.79–0.83). Full-scale flagship models consistently outperformed their smaller "mini"/"nano" counterparts, yet even the best model achieved only moderate agreement with human teacher grades. The author concludes that model choice is not neutral and argues for careful selection, transparent metrics, and a human-in-the-loop approach.
 
 ## Key Findings
 
@@ -24,12 +25,12 @@ confidence: high
 
 **Limited human alignment.** Despite strong internal agreement among models, alignment with the human teacher's grades remained limited — even the best-performing model achieved only moderate reliability, underscoring the need for human oversight in [[cs-education]] deployment.
 
-**Implication.** The choice of LLM architecture and vendor materially affects grading outcomes in [[programming-education]], a key consideration for [[automated-grading]] and [[assessment]] design; the author recommends careful model selection, transparent reporting, and a human-in-the-loop approach.
+**Implication.** The choice of LLM architecture and vendor materially affects grading outcomes in [[programming-education]], a key consideration for [[automated-assessment|Automated Grading]] and [[assessment]] design; the author recommends careful model selection, transparent reporting, and a human-in-the-loop approach.
 
 ## Connected Concepts
 
 - [[programming-education]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[llm]]
 - [[cs-education]]
 - [[assessment]]

@@ -18,7 +18,7 @@ PromptDecipher addresses a critical gap in AI tutor deployment: teacher quality 
 
 - [[teacher-role]]
 - [[tpack]]
-- [[ai-tutoring]] — AI tutoring chatbots that teachers author
+- [[intelligent-tutoring]] — AI tutoring chatbots that teachers author
 - [[pedagogical-safety]] — ensuring tutors are safe before deployment
 - [[faculty-development]] — building teacher capacity for AI authoring
 - [[llm]] — the models behind AI tutor interactions

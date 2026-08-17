@@ -3,7 +3,8 @@ title: Little Impact of ChatGPT Availability on High School Student Test Score P
 created: "2026-05-14T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [generative-ai, k-12, over-reliance, academic-integrity, efficacy-study, k-12, student-experience, rag, ai-education]
+tags: [generative-ai, k-12, cognitive-offloading, academic-integrity, efficacy-study, k-12, student-experience, rag, ai-education]
+
 sources: ['raw/papers/2605.08812.md']
 confidence: medium
 ---
@@ -18,7 +19,7 @@ This paper uses a clever identification strategy: measure the **seasonal drop in
 
 ## Interpretation
 
-The null result has two non-exclusive interpretations: (1) AI-assisted cheating does not harm test performance in aggregate, or (2) negative effects of AI misuse are offset by positive uses of AI as a learning aid. Either way, this challenges both utopian and dystopian narratives about AI in classrooms. It aligns with the [[genai-performance-vs-learning]] distinction — performance boosts from AI may not translate to test score improvements. It connects to [[over-reliance]] research showing that AI assistance can produce apparent competence without underlying understanding.
+The null result has two non-exclusive interpretations: (1) AI-assisted cheating does not harm test performance in aggregate, or (2) negative effects of AI misuse are offset by positive uses of AI as a learning aid. Either way, this challenges both utopian and dystopian narratives about AI in classrooms. It aligns with the [[genai-performance-vs-learning]] distinction — performance boosts from AI may not translate to test score improvements. It connects to [[cognitive-offloading|Over-Reliance]] research showing that AI assistance can produce apparent competence without underlying understanding.
 
 ## Methodological Contribution
 
@@ -26,7 +27,7 @@ The seasonal variation identification strategy is innovative for causal inferenc
 
 ## Connected Concepts
 
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[generative-ai]]
 - [[academic-integrity]]
 - [[k-12]]

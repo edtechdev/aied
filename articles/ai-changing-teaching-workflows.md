@@ -43,7 +43,7 @@ A large-scale experiment across **178 schools, ~19,000 high school seniors** tes
 - Students in AI classrooms had **~35% more one-on-one conversations** with teachers about writing and wrote **30% more essays**
 - Teacher at-home work hours dropped **20%**; those reporting time as "very insufficient" fell from 23% to 9%
 
-**The most important finding:** The largest learning gains were on the most complex, highest-order writing task — precisely what AI is *least* equipped to evaluate. AI freed teachers to do what only they can do. This directly supports the [[feedback-loop]] and [[formative-assessment]] literature, extending it with causal evidence from a large-scale [[rct]].
+**The most important finding:** The largest learning gains were on the most complex, highest-order writing task — precisely what AI is *least* equipped to evaluate. AI freed teachers to do what only they can do. This directly supports the [[feedback|Feedback Loop]] and [[formative-assessment]] literature, extending it with causal evidence from a large-scale [[rct]].
 
 **Caveat:** The bottom quartile showed no improvement — freed-up teacher time alone wasn't sufficient. This connects to [[equity-in-ai-education]] concerns about differential benefits from AI integration.
 
@@ -53,7 +53,7 @@ A large-scale experiment across **178 schools, ~19,000 high school seniors** tes
 Almost no teachers used follow-up prompts to iteratively refine AI output — they took the first result and edited manually. Prompt quality directly determined output quality. The teachers who need AI most (early career, under-resourced, outside expertise) are often least equipped to prompt effectively. This makes [[ai-literacy]] professional development a prerequisite, not a nice-to-have.
 
 ### 2. The Assessment Trap
-Nearly half of educator-AI conversations involved assessment tasks, but some teachers requested student work evaluation without specifying rubrics or criteria. AI assessments applied without human oversight risk inconsistency and bias — a [[bias-mitigation]] concern directly relevant to [[automated-grading]] systems.
+Nearly half of educator-AI conversations involved assessment tasks, but some teachers requested student work evaluation without specifying rubrics or criteria. AI assessments applied without human oversight risk inconsistency and bias — a [[bias-mitigation]] concern directly relevant to [[automated-assessment|Automated Grading]] systems.
 
 ### 3. Equity Divides
 - **Student level:** AI materials lack targeted supports for multilingual learners and students with disabilities — a 30% time reduction is net negative if it comes at the expense of vulnerable learners
@@ -66,7 +66,7 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 ## Connected Concepts
 
 - [[ai-literacy]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[bias-mitigation]]
 - [[formative-assessment]]
 - [[generative-ai]]
@@ -76,7 +76,7 @@ The shift from single-prompt chatbots to agentic AI systems represents the next 
 - [[k-12]]
 - [[student-experience]]
 - [[tpack]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[rct]]
 - [[equity-in-ai-education]]
 - [[human-in-the-loop-ai]]

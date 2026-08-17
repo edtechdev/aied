@@ -13,7 +13,7 @@ confidence: high
 This multicenter study (N=243 European secondary students) systematically challenges the 'Digital Native' paradigm by demonstrating a severe confidence-competence gap in digital and AI literacy. Students report near-maximum self-efficacy in passive digital consumption (browsing, social media) but exhibit a sharp decline when evaluated on active technological creation and algorithmic logic — a collective Dunning-Kruger effect.
 
 ## The AI Paradox
-A particularly striking finding is the 'AI Paradox': students significantly [[over-reliance|overestimate]] their critical awareness of deepfakes and algorithmic biases compared to their operational AI skills. This creates a false sense of invulnerability against modern misinformation — students believe they can detect fakes but lack the practical skills to do so. This directly connects to emerging research on [[cognitive-offloading-speedup-illusion|cognitive offloading and AI-induced miscalibration]].
+A particularly striking finding is the 'AI Paradox': students significantly [[cognitive-offloading|overestimate]] their critical awareness of deepfakes and algorithmic biases compared to their operational AI skills. This creates a false sense of invulnerability against modern misinformation — students believe they can detect fakes but lack the practical skills to do so. This directly connects to emerging research on [[cognitive-offloading-speedup-illusion|cognitive offloading and AI-induced miscalibration]].
 
 ## Context-Dependent Gender Gap
 The study finds that the technology gender gap is not universal — it emerges significantly only within Technology-oriented classrooms (p=0.046), implicating stereotype threat in formal STEM environments. This has implications for how [[ai-literacy|AI literacy]] programs should be designed and targeted, particularly in [[k-12]] settings where self-selection into technology tracks amplifies pre-existing disparities.
@@ -23,7 +23,7 @@ With 76.5% of students demanding pedagogical reform toward hands-on, active tech
 
 ## Connected Concepts
 
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[k-12]]
 - [[self-efficacy]]

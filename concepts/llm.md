@@ -3,7 +3,8 @@ title: Large Language Models (LLMs)
 created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-15T20:02:54-04:00"
 type: concept
-tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, ai-tutoring, automated-grading, ai-literacy]
+tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy]
+
 confidence: high
 ---
 
@@ -13,8 +14,8 @@ confidence: high
 
 LLMs are the most-referenced concept in the wiki (60+ articles) because they underpin nearly every AI education application:
 
-- **Tutoring:** [[ai-tutoring|AI tutors]] use LLMs for dialogue, explanation, and problem-solving guidance. [[pedagogical-llm-training|Pedagogical training]] adapts general LLMs for educational use.
-- **Assessment:** [[automated-grading|Grading systems]], [[automated-essay-scoring|essay scoring]], and [[llm-item-difficulty-prediction|item difficulty prediction]] leverage LLM capabilities.
+- **Tutoring:** [[intelligent-tutoring|AI tutors]] use LLMs for dialogue, explanation, and problem-solving guidance. [[pedagogical-llm-training|Pedagogical training]] adapts general LLMs for educational use.
+- **Assessment:** [[automated-assessment|Grading systems]], [[automated-essay-scoring|essay scoring]], and [[llm-item-difficulty-prediction|item difficulty prediction]] leverage LLM capabilities.
 - **Content:** [[generative-ai|Generative AI]] content creation relies on LLMs. [[automated-question-generation|Question generation]] and [[ai-generated-instructional-videos-computing-ed|video generation]] are LLM-driven.
 - **Safety:** [[pedagogical-safety]], [[hallucination-risk]], and [[ai-tutor-safety-harms]] research examine LLM-specific risks.
 - **Diagnosis:** [[knowledge-tracing]] and [[cognitive-diagnosis]] increasingly incorporate LLMs for richer [[student-modeling|student modeling]].
@@ -34,8 +35,8 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[rag]]
 - [[hallucination-risk]]
 - [[pedagogical-safety]]
-- [[ai-tutoring]]
-- [[automated-grading]]
+- [[intelligent-tutoring]]
+- [[automated-assessment]]
 - [[ai-literacy]]
 - [[knowledge-tracing]]
 - [[higher-ed]]

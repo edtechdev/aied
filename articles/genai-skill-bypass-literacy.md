@@ -3,7 +3,8 @@ title: "The GenAI Skill Bypass: Mapping Divergent Pathways of University Student
 created: "2026-07-09T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [ai-literacy, higher-ed, generative-ai, over-reliance, faculty-development, rag, llm]
+tags: [ai-literacy, higher-ed, generative-ai, cognitive-offloading, faculty-development, rag, llm]
+
 sources: ['raw/papers/2607.05411.md']
 confidence: high
 ---
@@ -12,13 +13,13 @@ Higher education institutions are increasingly expected to ensure that both stud
 
 Rasch analysis of n=158 GenAI-literacy self-assessments reveals students show an inverted skill profile (mastering creation before conceptual foundations), weak correlation with academics (r=0.188); a skill bypass gives fragile fluency where prompting self-efficacy masks low AI-mechanics literacy, arguing against one-size-fits-all curricula.
 
-This work connects to core wiki themes: [[ai-literacy]] [[higher-ed]] [[over-reliance]] [[generative-ai]] [[faculty-development]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
+This work connects to core wiki themes: [[ai-literacy]] [[higher-ed]] [[cognitive-offloading|Over-Reliance]] [[generative-ai]] [[faculty-development]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic engagement rather than enabling shallow bypass.
 
 ## Connected Concepts
 
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[generative-ai]]
 - [[faculty-development]]
 - [[self-efficacy]]

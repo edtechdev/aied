@@ -37,12 +37,12 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 ## Connected Concepts
 
 - [[formative-assessment]]
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[scaffolding]]
 - [[teacher-role]]
 - [[ai-literacy]]
 - [[intelligent-tutoring]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[student-experience]]
 - [[self-regulated-learning]]
 - [[metacognition]]

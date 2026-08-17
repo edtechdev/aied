@@ -3,12 +3,13 @@ title: 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Mo
 created: "2026-06-30T04:33:04-04:00"
 updated: "2026-08-12"
 type: article
-tags: [academic-integrity, higher-ed, llm, over-reliance, student-experience, ai-assistance-reduces-persistence]
+tags: [academic-integrity, higher-ed, llm, cognitive-offloading, student-experience, ai-assistance-reduces-persistence]
+
 sources: ['raw/papers/2606.30480.md']
 confidence: high
 ---
 
-**Tran, Harper & Price (2026)** examine a pressing motivational paradox in contemporary computing education: the ready availability of AI tools that can complete programming assignments undermines students' willingness to invest effort in developing their own skills. Drawing on self-determination theory, the study identifies how the perception of AI as a 'shortcut' reduces autonomous motivation and fosters a transactional orientation toward learning. The findings resonate with existing work on [[over-reliance]] and [[cognitive-offloading]], suggesting that easy access to AI-generated code may erode the very persistence that produces deep learning.
+**Tran, Harper & Price (2026)** examine a pressing motivational paradox in contemporary computing education: the ready availability of AI tools that can complete programming assignments undermines students' willingness to invest effort in developing their own skills. Drawing on self-determination theory, the study identifies how the perception of AI as a 'shortcut' reduces autonomous motivation and fosters a transactional orientation toward learning. The findings resonate with existing work on [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]], suggesting that easy access to AI-generated code may erode the very persistence that produces deep learning.
 
 ## The motivational paradox
 
@@ -18,7 +19,7 @@ Introductory programming is effort-intensive: learning to code requires sustaine
 
 - **Reduced autonomous motivation:** the perception of AI as a shortcut lowers the intrinsic value of developing skills, because the goal (producing working code) can be reached without the effort that builds competence.
 - **Transactional learning orientation:** students come to treat assignments as tasks to dispatch rather than opportunities to learn, optimizing for output over understanding.
-- **Persistence erosion:** because [[over-reliance]] and easy access reduce the need for struggle, students miss the productive-failure cycles that drive deep learning in programming.
+- **Persistence erosion:** because [[cognitive-offloading|Over-Reliance]] and easy access reduce the need for struggle, students miss the productive-failure cycles that drive deep learning in programming.
 - **Equity concern:** students who consciously resist AI assistance may fall behind peers who use it to complete work faster, complicating assessment fairness and the fairness of grading in [[higher-ed]] — a dynamic with direct implications for [[academic-integrity]].
 
 ## Implications for course design
@@ -30,11 +31,11 @@ The study argues that instructors cannot assume motivation will survive easy AI 
 
 ## Connection to the broader wiki
 
-This paper sits at the intersection of [[over-reliance]], [[motivation]], and [[self-regulated-learning]]. Its emphasis on why *effort feels optional* links to ai-availability-student-motivation-adjacent work on the cognitive costs of AI, to [[agentic-literacy-debt]] (the cumulative skill deficit from habitual reliance), and to the socio-emotional side documented in [[shame-guilt-ai-regulation-computing-education]]. For instructors, the motivational lens complements the tool-design and assessment-design interventions in [[reducing-ai-misuse]]: students are more likely to use AI productively when they have reasons — not just rules — to do the work themselves.
+This paper sits at the intersection of [[cognitive-offloading|Over-Reliance]], [[motivation]], and [[self-regulated-learning]]. Its emphasis on why *effort feels optional* links to ai-availability-student-motivation-adjacent work on the cognitive costs of AI, to [[agentic-literacy-debt]] (the cumulative skill deficit from habitual reliance), and to the socio-emotional side documented in [[shame-guilt-ai-regulation-computing-education]]. For instructors, the motivational lens complements the tool-design and assessment-design interventions in [[reducing-ai-misuse]]: students are more likely to use AI productively when they have reasons — not just rules — to do the work themselves.
 
 ## Connected Concepts
 
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[self-determination-theory]]
 - [[motivation]]

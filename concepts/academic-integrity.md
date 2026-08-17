@@ -44,7 +44,7 @@ The wiki documents a paradigm shift: from AI as an integrity threat to be police
 
 ### Connections
 
-Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagiarism-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of AI in education, inseparable from [[over-reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
+Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagiarism-detection]], [[authentic-assessment]], [[assessment]], [[educational-policy-ai]], [[regulation]], [[ethics]], and [[equity-in-ai-education]]. It is the ethical dimension of AI in education, inseparable from [[cognitive-offloading|Over-Reliance]] and the broader question of how [[generative-ai]] reshapes [[higher-ed]] and [[k-12]] learning.
 
 ## Connected Concepts
 
@@ -57,7 +57,7 @@ Academic integrity connects to [[assessment-validity]], [[ai-literacy]], [[plagi
 - [[regulation]]
 - [[ethics]]
 - [[equity-in-ai-education]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[reducing-ai-misuse]]
 - [[student-misconceptions-ai]]

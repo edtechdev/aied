@@ -3,7 +3,8 @@ title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
-tags: [ai-education, generative-ai, higher-ed, student-experience, scaffolding, intelligent-tutoring, critical-thinking, rag, llm, ai-tutoring, metacognition, formative-assessment]
+tags: [ai-education, generative-ai, higher-ed, student-experience, scaffolding, intelligent-tutoring, critical-thinking, rag, llm, intelligent-tutoring, metacognition, formative-assessment]
+
 confidence: high
 ---
 
@@ -61,7 +62,7 @@ Favero et al. (2025) caution that even Socratic AI can undermine [[agency]] if s
 
 ## Connections to other concepts
 
-The Socratic method is closely tied to [[scaffolding]] (providing just enough support), productive-struggle (letting students wrestle with difficulty), and [[intelligent-tutoring]] (adaptive question sequencing). It contrasts with [[over-reliance]] — students who receive direct answers may bypass learning, while Socratic guidance maintains cognitive engagement. It supports [[self-regulated-learning]] and [[metacognition]] by making reasoning visible, and connects to [[formative-assessment]] when used to probe understanding in real time.
+The Socratic method is closely tied to [[scaffolding]] (providing just enough support), productive-struggle (letting students wrestle with difficulty), and [[intelligent-tutoring]] (adaptive question sequencing). It contrasts with [[cognitive-offloading|Over-Reliance]] — students who receive direct answers may bypass learning, while Socratic guidance maintains cognitive engagement. It supports [[self-regulated-learning]] and [[metacognition]] by making reasoning visible, and connects to [[formative-assessment]] when used to probe understanding in real time.
 
 ## Open Questions
 
@@ -82,7 +83,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[knowledge-tracing]]
 - [[adaptive-learning]]
 - [[generative-ai]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[formative-assessment]]
 - [[ai-literacy]]

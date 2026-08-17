@@ -3,18 +3,19 @@ title: "Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Ran
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-08-15"
 type: article
-tags: [automated-grading, formative-assessment, llm, benchmark, efficacy-study, human-in-the-loop-ai, assessment-validity, open-source]
+tags: [automated-assessment, formative-assessment, llm, benchmark, efficacy-study, human-in-the-loop-ai, assessment-validity, open-source]
+
 sources: ['raw/papers/2605.07647.md']
 confidence: medium
 ---
 
-> Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.
+> Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-assessment|Automated Grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.
 
 # Automated Short Answer Scoring: Mid-Range Quality Degradation
 
 ## Core Contribution
 
-Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.
+Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-assessment|Automated Grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.
 
 ## Key Findings
 
@@ -28,21 +29,21 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 
 ## Connections to Wiki
 
-- Extends [[automated-grading]] with quality-conditioned analysis
+- Extends [[automated-assessment|Automated Grading]] with quality-conditioned analysis
 - Complements [[automatic-short-answer-grading]] on confidence estimation
 - Relevant to [[ground-truth-reliability-aied]] concerns about scoring validity
 - Connects to [[generate-then-validate-question-gen]] methodologies for AI assessment quality
 
 ## Connected Concepts
 
-- [[automated-grading]]
+- [[automated-assessment]]
 - [[formative-assessment]]
 - [[human-in-the-loop-ai]]
 - [[assessment-validity]]
 - [[educational-measurement]]
 - [[item-response-theory]]
 - [[benchmark]]
-- [[confidence-aware-ai-assessment]]
+- [[automated-assessment]]
 - [[ai-feedback-quality]]
 ## Connected Articles
 

@@ -28,8 +28,7 @@ This report from the Australian Network for Quality Digital Education investigat
 - [[teacher-role]]
 - [[cognitive-offloading]]
 - [[desirable-difficulties]]
-- [[cognitive-load-theory]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[equity-in-ai-education]]
 ## Connected Articles
 

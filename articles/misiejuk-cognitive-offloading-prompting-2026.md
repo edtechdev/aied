@@ -3,7 +3,8 @@ title: "Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analy
 created: "2026-08-09T20:37:26-04:00"
 updated: "2026-08-13"
 type: article
-tags: [cognitive-offloading, prompting-literacy, higher-ed, student-experience, learning-analytics, ai-literacy, generative-ai, llm, cognitive-load-theory, over-reliance]
+tags: [cognitive-offloading, prompting-literacy, higher-ed, student-experience, learning-analytics, ai-literacy, generative-ai, llm, cognitive-offloading]
+
 sources: ['raw/papers/10.1016_j.chbr.2026.101130.md']
 confidence: high
 ---
@@ -25,7 +26,7 @@ This longitudinal study analyzed student–AI interactions in a semester-long so
 
 ## Implications for AI in Education
 
-The study contributes to understanding [[cognitive-offloading]] as observable patterns in student prompting, not just a theoretical concern. It shows high-quality AI use integrates active cognitive engagement (contextual prompting, specifying expectations) rather than avoiding AI, connecting to [[genai-performance-vs-learning|distinguishing performance gains from learning]] and the finding that *how* students use AI matters more than *whether* they use it. The "leveling" tendency and cognitive-laziness finding support [[over-reliance]] research and [[cognitive-load-theory]]: excessive offloading risks diminishing the germane cognitive load needed for transferable mental models. The contextual-prompting finding supports [[scaffolding]] approaches that teach students to prompt with context, and the longitudinal dimension shows prompting strategies evolve with practice, informing [[ai-literacy]] curriculum design and [[learning-analytics]] approaches for monitoring student–AI collaboration.
+The study contributes to understanding [[cognitive-offloading]] as observable patterns in student prompting, not just a theoretical concern. It shows high-quality AI use integrates active cognitive engagement (contextual prompting, specifying expectations) rather than avoiding AI, connecting to [[genai-performance-vs-learning|distinguishing performance gains from learning]] and the finding that *how* students use AI matters more than *whether* they use it. The "leveling" tendency and cognitive-laziness finding support [[cognitive-offloading|Over-Reliance]] research and Cognitive Load Theory: excessive offloading risks diminishing the germane cognitive load needed for transferable mental models. The contextual-prompting finding supports [[scaffolding]] approaches that teach students to prompt with context, and the longitudinal dimension shows prompting strategies evolve with practice, informing [[ai-literacy]] curriculum design and [[learning-analytics]] approaches for monitoring student–AI collaboration.
 
 ## Limitations
 
@@ -36,8 +37,7 @@ The study is context-specific (a social network analysis course, LLM-based datas
 - [[cognitive-offloading]]
 - [[prompt-engineering]]
 - [[ai-literacy]]
-- [[cognitive-load-theory]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[student-experience]]
 - [[higher-ed]]
 - [[scaffolding]]

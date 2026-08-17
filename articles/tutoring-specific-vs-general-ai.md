@@ -8,7 +8,7 @@ sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
 ---
 
-> 1. **Desirable difficulties** — General-purpose AI removes productive struggle; tutoring tools preserve it via graduated hints. 2. **Germane load** — Effective learning requires processing that feels effortful. General AI short-circuits this. See [[cognitive-load-theory]]. 3. **Metacognition suppression** — When AI completes reasoning, students lose practice in monitoring their own understanding.
+> 1. **Desirable difficulties** — General-purpose AI removes productive struggle; tutoring tools preserve it via graduated hints. 2. **Germane load** — Effective learning requires processing that feels effortful. General AI short-circuits this. See Cognitive Load Theory. 3. **Metacognition suppression** — When AI completes reasoning, students lose practice in monitoring their own understanding.
 
 > The single most consistent finding in the 2026 Stanford SCALE review: **pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots** on durable learning outcomes.^[[stanford-evidence-base-ai-k12-2026]]
 
@@ -39,7 +39,7 @@ confidence: medium
 ## Why This Happens: Learning Science Mechanisms
 
 1. **Desirable difficulties** — General-purpose AI removes productive struggle; tutoring tools preserve it via graduated hints.
-2. **Germane load** — Effective learning requires processing that feels effortful. General AI short-circuits this. See [[cognitive-load-theory]].
+2. **Germane load** — Effective learning requires processing that feels effortful. General AI short-circuits this. See Cognitive Load Theory.
 3. **Metacognition suppression** — When AI completes reasoning, students lose practice in monitoring their own understanding.
 4. **Expertise reversal** — Novices need scaffolding, not answers. General AI gives answers; tutoring AI gives scaffolds.
 
@@ -57,9 +57,8 @@ confidence: medium
 
 ## Connected Concepts
 
-- [[cognitive-load-theory]]
 - [[zone-of-proximal-development]]
-- [[ai-tutoring]]
+- [[intelligent-tutoring]]
 - [[scaffolding]]
 - [[pedagogical-agent]]
 - [[self-regulated-learning]]

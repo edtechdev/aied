@@ -3,7 +3,8 @@ title: "Coach not crutch: Evidence that AI can improve writing skill despite red
 created: "2026-08-15T18:32:07-04:00"
 updated: "2026-08-15"
 type: article
-tags: [writing-education, over-reliance, cognitive-offloading, self-regulated-learning, ai-feedback-quality, learning-gains, ai-literacy]
+tags: [writing-education, cognitive-offloading, cognitive-offloading, self-regulated-learning, ai-feedback-quality, learning-gains, ai-literacy]
+
 sources: ['raw/papers/coach-not-crutch-ai-writing.md']
 confidence: high
 ---
@@ -30,19 +31,19 @@ Lira, Rogers, Goldstein, Ungar & Duckworth (2025) test the intuition that using 
 
 - Challenges the blanket assumption that reduced effort from AI inevitably harms learning — the effect depends on what AI displaces (busywork vs. the skill itself) and how the tool scaffolds.
 - Supports a design principle: AI that surfaces examples, explanations, and feedback (a "coach") preserves or boosts skill, whereas AI that fully replaces the cognitive act (a "crutch") risks erosion.
-- Contrasts with studies documenting harmful offloading (e.g., unguarded tutors cutting exam scores); the outcome hinges on tool design and whether the learner stays in the loop — a shared thread across the wiki's [[over-reliance]] and [[cognitive-offloading]] research.
+- Contrasts with studies documenting harmful offloading (e.g., unguarded tutors cutting exam scores); the outcome hinges on tool design and whether the learner stays in the loop — a shared thread across the wiki's [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research.
 
 ## Connected Concepts
 
 - [[writing-education]]
-- [[over-reliance]]
+- [[cognitive-offloading]]
 - [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[ai-feedback-quality]]
 - [[learning-gains]]
 - [[human-ai-collaboration]]
 - [[ai-literacy]]
-- [[feedback-loop]]
+- [[feedback]]
 - [[transfer-of-learning]]
 
 ## Connected Articles
