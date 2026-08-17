@@ -1,6 +1,6 @@
 ---
 title: Reducing AI Misuse
-created: "2026-08-12"
+created: "2026-08-12T19:13:02-04:00"
 updated: "2026-08-15T09:22:41-04:00"
 type: concept
 tags: [ai-literacy, academic-integrity, assessment, scaffolding, self-regulated-learning, metacognition, motivation, prompt-engineering, generative-ai]

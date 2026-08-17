@@ -1,6 +1,6 @@
 ---
 title: ICAP Framework
-created: "2026-08-14"
+created: "2026-08-14T04:33:38-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [icap, cognitive-engagement, learning-theory, collaborative-learning, active-learning, learning-analytics, instructional-design, educational-nlp]

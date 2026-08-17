@@ -1,6 +1,6 @@
 ---
 title: Project-Based Learning
-created: "2026-08-13"
+created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-15T02:35:44-04:00"
 type: concept
 tags: [project-based-learning, active-learning, collaborative-learning, educational-robotics, higher-ed, k-12]

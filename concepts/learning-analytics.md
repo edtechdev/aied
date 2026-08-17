@@ -1,6 +1,6 @@
 ---
 title: Learning Analytics
-created: "2026-08-09"
+created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-11T18:05:58-04:00"
 type: concept
 tags: [knowledge-tracing, student-modeling, formative-assessment, privacy, edtech-platform, engagement-metrics, ai-ed-evaluation, feedback-loop]

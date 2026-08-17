@@ -1,6 +1,6 @@
 ---
 title: Teacher Education
-created: "2026-08-16"
+created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16T11:21:11-04:00"
 type: concept
 tags: [teacher-education, preservice-teachers, professional-development, teacher-role, tpack, ai-literacy, k-12]

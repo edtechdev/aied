@@ -1,6 +1,6 @@
 ---
 title: Automated Grading
-created: "2026-08-09"
+created: "2026-08-09T10:44:35-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [assessment-validity, formative-assessment, automated-essay-scoring, ai-feedback-quality, bias-mitigation, confidence-aware-ai-assessment, equity, teacher-role]

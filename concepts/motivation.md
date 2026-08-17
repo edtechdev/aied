@@ -1,6 +1,6 @@
 ---
 title: Motivation
-created: "2026-08-10"
+created: "2026-08-10T17:38:45-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [motivation, student-experience, engagement-metrics, affective-computing, self-determination-theory, ai-education]

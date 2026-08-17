@@ -1,6 +1,6 @@
 ---
 title: Learning by Teaching
-created: "2026-08-14"
+created: "2026-08-14T10:45:34-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [learning-by-teaching, teachable-agents, peer-tutoring, generative-ai, active-learning, explanation-effect, scaffolding, self-regulated-learning, cs-education]

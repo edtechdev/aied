@@ -1,6 +1,6 @@
 ---
 title: Student Misconceptions about AI
-created: "2026-08-12"
+created: "2026-08-12T19:08:47-04:00"
 updated: "2026-08-15T03:17:48-04:00"
 type: concept
 tags: [ai-literacy, trust-calibration, metacognition, over-reliance, cognitive-offloading, academic-integrity, generative-ai, student-experience]

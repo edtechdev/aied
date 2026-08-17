@@ -1,6 +1,6 @@
 ---
 title: Block-Based Programming
-created: "2026-08-13"
+created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-15T10:24:06-04:00"
 type: concept
 tags: [block-programming, programming-education, computational-thinking, educational-robotics, k-12]

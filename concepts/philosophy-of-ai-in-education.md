@@ -1,6 +1,6 @@
 ---
 title: Philosophy of AI in Education
-created: "2026-08-16"
+created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16T10:19:32-04:00"
 type: concept
 tags: [philosophy-of-education, learning-theory, ethics, agency, posthumanism, epistemology, human-ai-collaboration, ai-education]

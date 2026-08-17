@@ -1,6 +1,6 @@
 ---
 title: Agentic AI in Education
-created: "2026-08-01"
+created: "2026-08-01T04:07:54-04:00"
 updated: "2026-08-15T17:49:40-04:00"
 type: concept
 tags: [agentic-ai, generative-ai, llm, intelligent-tutoring, higher-ed, scaffolding, student-experience, ai-literacy, k-12, stem-education, human-in-the-loop, agency]

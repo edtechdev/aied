@@ -1,6 +1,6 @@
 ---
 title: Neurodiversity
-created: "2026-08-12"
+created: "2026-08-12T21:20:35-04:00"
 updated: "2026-08-15T02:35:44-04:00"
 type: concept
 tags: [special-education, accessible-learning, student-experience, equity, inclusive-design, neurodiversity]

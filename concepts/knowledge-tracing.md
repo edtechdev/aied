@@ -1,6 +1,6 @@
 ---
 title: Knowledge Tracing
-created: "2026-06-23"
+created: "2026-06-23T10:44:35-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, adaptive-learning, student-modeling, personalized-learning, student-experience, llm]

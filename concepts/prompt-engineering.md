@@ -1,6 +1,6 @@
 ---
 title: Prompt Engineering
-created: "2026-07-28"
+created: "2026-07-28T10:44:35-04:00"
 updated: "2026-08-15T17:49:40-04:00"
 type: concept
 tags: [ai-literacy, higher-ed, generative-ai, scaffolding, llm, student-experience, prompt-engineering]

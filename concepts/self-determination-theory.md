@@ -1,6 +1,6 @@
 ---
 title: Self-Determination Theory
-created: "2026-08-10"
+created: "2026-08-10T17:38:45-04:00"
 updated: "2026-08-15T03:36:31-04:00"
 type: concept
 tags: [self-determination-theory, motivation, student-experience, affective-computing, teacher-ai-competency, ai-education]

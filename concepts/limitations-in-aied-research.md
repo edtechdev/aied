@@ -1,6 +1,6 @@
 ---
 title: Limitations in AIEd Research
-created: "2026-08-15"
+created: "2026-08-15T09:18:04-04:00"
 updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [research-methods-aied, ai-education, methodology, reproducibility, validity, educational-measurement, open-science, ai-ed-evaluation, theory, benchmark]

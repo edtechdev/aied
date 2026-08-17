@@ -1,3 +1,9 @@
+## [2026-08-16] fix | concepts: add time to created/updated; display date-only; rename sidebar header
+
+- Backfilled time-of-day into concept `created` frontmatter (all 144 concepts) so BOTH created and updated carry full timestamps (e.g. created "2026-08-09T10:44:35-04:00", updated "2026-08-16T11:21:11-04:00") for accurate reverse-chron sorting.
+- Timestamps are stored internally (quoted, preserved in schema) but DISPLAYED as date-only on article/concept pages and the right sidebar — user wants date+time only internally for sorting, not shown.
+- Renamed right sidebar header "Recent Articles" -> "Recently Added Articles".
+- Verify: article page 2026-08-16; concept page created/updated dates; sidebar shows dates only; sorting uses full timestamps.
 ## [2026-08-16] fix | Recently Updated Concepts sidebar was alphabetical — add created tiebreaker
 
 - Concepts updated in the same bulk commit share identical `updated` timestamps, so the right sidebar's "Recently Updated Concepts" sorted ties alphabetically (astro default getCollection order).

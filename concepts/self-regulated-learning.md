@@ -1,6 +1,6 @@
 ---
 title: Self-Regulated Learning
-created: "2026-05-07"
+created: "2026-05-07T10:44:35-04:00"
 updated: "2026-08-15T18:05:58-04:00"
 type: concept
 tags: [self-regulated-learning, metacognition, scaffolding, k-12, higher-ed, formative-assessment, personalized-learning, llm, generative-ai, student-experience]
