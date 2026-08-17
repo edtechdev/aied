@@ -1,7 +1,7 @@
 ---
 title: Professional Training and AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-17T09:55:00-04:00"
+updated: "2026-08-17T10:45:00-04:00"
 type: concept
 tags: [lifelong-learning, adult-learning, faculty-development, ai-literacy, simulation-based-learning, higher-ed, generative-ai, llm]
 confidence: high
@@ -16,6 +16,7 @@ confidence: high
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] research connect professional training to continuous education.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
 - **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/AI literacy, cyber-physical fluency, human-machine collaboration, data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
+- **Workforce forecasting:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending that higher education prioritize durable AI competencies, [[ethics|ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, AI policy) to sustain human-centered work in an automated economy.
 
 ### Distinct from academic education
 
@@ -39,6 +40,7 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[ai-interior-design-malaysia-2026]]
