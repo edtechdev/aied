@@ -24,14 +24,16 @@ frontmatter are ignored at build time, so keep to this list.
 ```yaml
 ---
 title: Page Title
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
+updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: article | concept
 tags: [from taxonomy below]
 sources: [raw/papers/source-name.md]   # articles only
 confidence: high | medium | low        # how well-supported the claims are
 ---
 ```
+
+**`created` / `updated` MUST be full quoted date+time timestamps** (e.g. `"2026-08-16T20:47:13-04:00"`), never bare dates. The right sidebar and RSS sort by these via string comparison, and unquoted ISO timestamps shift to UTC (next day). `created` = wiki ingestion date (not paper pub date). Bump `updated` on any significant body edit and rebuild so the sidebar refreshes. Pages display date-only via `.split('T')[0]`.
 
 `confidence` is optional (defaults to `medium`) but recommended for opinion-heavy or fast-moving
 topics. A `confidence: low` page signals weak or partial support so weak claims don't silently

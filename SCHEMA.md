@@ -8,7 +8,7 @@ AI in Education — research, products, policies, and pedagogical debates around
 - Every wiki page starts with YAML frontmatter (see below)
 - Use `wikilinks` to link between pages (`[[page-slug]]` or `[[page-slug|display text]]`)
 - **Inline hyperlink rule (wiki-style):** hyperlink every concept mentioned by name in the BODY of a concept or article page to that concept's page, in addition to the Connected Concepts/Articles lists. Use piped links when display text differs from the slug (e.g. `[[cognitive-offloading|doing the cognitive work]]`), the most specific slug matching the mention's meaning, and the dedicated umbrella page for generic terms (e.g. `[[feedback]]`, not `[[feedback-loop]]`, for plain "feedback").
-- When updating a page, always bump the `updated` date
+- When updating a page, always bump the `updated` date+time (see Frontmatter above)
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md`
 - **Two page types:** `articles/<slug>.md` for individual papers, `concepts/<slug>.md` for broad topics that synthesize multiple papers. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper.
@@ -25,14 +25,22 @@ frontmatter are ignored at build time, so keep to this list.
 ```yaml
 ---
 title: Page Title
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
+updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: article | concept
 tags: [from taxonomy below]
 sources: [raw/papers/source-name.md]   # articles only
 confidence: high | medium | low        # how well-supported the claims are
 ---
 ```
+
+**`created` / `updated` MUST store full quoted date+time timestamps** (e.g. `"2026-08-16T20:47:13-04:00"`), never bare dates. Reasons:
+- The right sidebar ("Recently Added Articles" / "Recently Updated Concepts") and RSS sort by these fields via **string comparison** — date-only values tie within a day and fall back to alphabetical order. Full timestamps give correct reverse-chronological ordering.
+- YAML parses an *unquoted* ISO timestamp into a JS `Date` in UTC, shifting an Eastern-evening value to the next calendar day. **Always quote** the value so the schema preserves the original string.
+- `created` should be the wiki ingestion date (with time), NOT the paper's publication date — Recent Articles and the journal sort by it.
+- When you make a **significant body edit** to a page (not just frontmatter or Connected Articles/Concepts lists), bump `updated` to the current date+time and rebuild so the sidebar refreshes.
+
+Pages **display** date-only everywhere (article/concept page headers, sidebar) via `.split('T')[0]`; the time is stored internally for sorting only.
 
 `confidence` is optional (defaults to `medium`) but recommended for opinion-heavy or fast-moving
 topics. A `confidence: low` page signals weak or partial support so weak claims don't silently
@@ -144,6 +152,8 @@ One page per concept or topic. Include:
 - Current state of knowledge
 - Open questions or debates
 - Related concepts (wikilinks)
+
+**Ingestion enrichment rule:** when a new article makes a *significant* contribution to a connected concept (a novel framing, distinctive finding, or a dimension the concept page lacks), integrate that insight into the concept page's **body narrative** — a research bullet, subsection, or synthesis paragraph — not merely add it to the Connected Articles list. Evaluate each article's substantive contribution and incorporate it where the concept is missing that dimension. When such a significant edit is made, bump the concept's `updated` timestamp and rebuild so the right sidebar reflects it.
 
 ## Update Policy
 When new information conflicts with existing content:
