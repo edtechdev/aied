@@ -1,7 +1,7 @@
 ---
 title: Ethics in AI Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T11:21:11-04:00"
+updated: "2026-08-17T10:45:00-04:00"
 type: concept
 tags: [equity, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, governance, ai-literacy]
 confidence: high
@@ -19,7 +19,7 @@ confidence: high
 
 ### Ethics in practice
 
-The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-higher-ed-game-theory|game theory approaches]]) to practical guidelines ([[cost-of-ethics-crisis-cs-ethics-education|CS ethics education]]). [[ai-ethics-education-public-discourse|Public discourse analysis]] tracks how AI ethics conversations evolve over time.
+The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-higher-ed-game-theory|game theory approaches]]) to practical guidelines ([[cost-of-ethics-crisis-cs-ethics-education|CS ethics education]]). [[ai-ethics-education-public-discourse|Public discourse analysis]] tracks how AI ethics conversations evolve over time. A systematic review of empirical studies in [[engineering-education|engineering education]] finds that ethical AI guidance is predominantly student-facing and compliance-oriented (centered on [[academic-integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remain underdeveloped — a pattern heightened by engineering's professional stakes in public safety and societal wellbeing.^[[ethical-use-ai-engineering-education-review-2026]]
 
 ### Connections
 
@@ -40,6 +40,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[teacher-education]]
 
 ## Connected Articles
+- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[genai-student-experiences-uk-he-survey-2026]]

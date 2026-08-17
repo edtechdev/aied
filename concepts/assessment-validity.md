@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity in AI Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-08-15T20:02:54-04:00"
+updated: "2026-08-17T10:15:00-04:00"
 type: concept
 tags: [authentic-assessment, automated-grading, confidence-aware-ai-assessment, formative-assessment, academic-integrity, rct, bias-mitigation, equity]
 confidence: high
@@ -16,6 +16,7 @@ confidence: high
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the [[assessment-validity|validity]] of course-tailored AI-generated assessments when backed by psychometric evaluation.
 - **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
 - **Confidence and calibration:** [[confidence-aware-ai-assessment|Confidence-aware systems]] improve validity by flagging uncertain assessments.
+- **Embodied and multimodal evidence:** speech-only assessment can mistake verbal fluency for conceptual knowledge; [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] show that computer-vision gesture analysis coupled with LLM speech analysis increases construct validity and equity by capturing understanding expressed through gesture, not just words — reducing bias against learners who express understanding non-verbally.
 
 ### Redesign over detection
 
@@ -41,6 +42,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[feedback]]
 
 ## Connected Articles
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM-based classroom observation against expert ratings (Melo et al. 2026)

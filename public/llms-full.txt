@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 702 articles and 144 concepts.
+> Complete text of 707 articles and 145 concepts.
 
 # Articles
 
@@ -2536,6 +2536,69 @@ Priyamvada Tripathi, Bill Kapralos (2026). [AI-Enabled Serious Games: Integratin
 
 ---
 
+## [Artificial Intelligence (AI) and the Future of the Engineering and Computing Workforce: A Systematic Review of Grey Literature and Document Analysis of U.S. Reports (2020–2025)](https://edtechdev.github.io/aied/articles/ai-engineering-computing-workforce-grey-literature-2026/)
+
+> **Synthesis:** Fletcher and colleagues (2026) conduct a systematic review of U.S. grey literature and document analysis of 22 reports (2020–2025) to understand how AI is reshaping the engineering and computing workforce and what this means for higher education. Framing the tension between rapid technological change and urgent policy decisions as the "Dual Train Problem," the review synthesizes projections from sources such as the Bureau of Labor Statistics, MIT's Shaping Work Project (1.6–3.2 million U.S. jobs displaced over two decades; up to 30% automatable by the mid-2030s), and the World Economic Forum. The findings imply that while some engineering and computing fields will grow, AI will replace many tasks (reducing jobs and working hours) even as new AI-oriented roles emerge, leading the authors to recommend that higher education prioritize durable AI competencies, [[ethics|ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, AI policy) to sustain human-centered engineering.
+
+## The Dual Train Problem
+
+The paper opens with the "Dual Train Problem": the rapid advancement of AI and automation runs in tension with the urgency of policy and institutional decisions, and higher education must adapt proactively. The authors note that AI is now believed to affect white-collar jobs — not only the middle- and low-skilled occupations that prior automation targeted — and that attitudes toward AI's impact diverge sharply between those who foresee productivity and new roles (data scientists, AI programmers) and those who perceive displacement, inequality, and polarization.
+
+## Workforce projections and scenarios
+
+Drawing on economic and labor-market forecasts, the review surfaces a range of projections:
+
+- **Bureau of Labor Statistics (2023–2033)** projections now account for AI exposure across several computer and engineering occupations, acknowledging heightened automation risk.
+- **MIT's Shaping Work Project** estimates 1.6–3.2 million U.S. jobs could be displaced by AI-driven automation over two decades; more ambitious projections suggest up to 30% of jobs may be automatable by the mid-2030s.
+- **Four scenarios for 2030** (after Ellis 2025): *supercharged progress* (exponential AI advance outpacing governance), *age of displacement* (automation outpacing reskilling, generating social fractures), *co-pilot economy* (gradual AI-augmented work through human–AI collaboration), and *stalled progress* (uneven skill diffusion widening adoption gaps).
+- **Microsoft (2025)** finds skills in analytical thinking, resilience, ethics, and digital literacy are twice as likely to be required in job postings.
+
+The review's central conclusion from these projections is that engineering and computing face a **transformation** — some growth in selected fields, but AI replacing tasks and reducing jobs and working hours, alongside the emergence of new AI-oriented roles requiring generative AI upskilling.
+
+## Implications and responsibilities for higher education
+
+The authors translate these workforce projections into recommendations for faculty, deans, and executive academic leadership:
+
+- **Prioritize durable AI competencies** — competencies that transfer across evolving roles, rather than tool-specific skills.
+- **Embed ethics and governance** — as essential components of engineering formation, not add-ons.
+- **Adopt skill-based credentials** aligned with emerging roles such as prompt engineering, AI auditing, and AI policy.
+- **Coordinate policy, resources, and partnerships** — institutional leaders must orchestrate curriculum, industry partnerships, and resource allocation to manage workforce-transition risk and sustain human-centered engineering.
+
+## Connections to the wiki
+
+The paper extends the wiki's coverage of AI and work, complementing empirical frameworks like the [[workforce-readiness-smart-manufacturing-wrl-2026|Workforce Readiness Level]] and connecting to [[professional-training]], [[ai-literacy]], and [[governance]] concepts. It frames [[curriculum-design]] for engineering and computing as a strategic response to labor-market transformation, and positions [[higher-ed]] institutions as key actors in workforce preparation.
+
+## Connected Concepts
+
+- [[engineering-education]]
+- [[professional-training]]
+- [[ai-literacy]]
+- [[governance]]
+- [[curriculum-design]]
+- [[prompt-engineering]]
+- [[ethics]]
+- [[higher-ed]]
+- [[stem-education]]
+- [[cs-education]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level Framework for Smart Manufacturing
+- [[ai-higher-ed-workforce-survey]] — The Impact of AI on Work in Higher Education
+- [[genai-expertise-pathways-sysadmin]] — GenAI and Expertise Pathways in System Administration
+- [[skill-diversity-worker-resilience]] — Skill Diversity and Worker Resilience
+- [[ai-education-global-capacity]] — What AI in Education Needs Next: Lessons from Youth Leaders
+- [[ai-higher-ed-bridge-gap]] — Higher Education Must Bridge the AI Gap
+- [[ai-vocational-education-training-review]] — AI in Vocational Education and Training: A Systematic Review
+- [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify?
+
+## Citation
+
+Fletcher, T. L., Webb, M. E., Alharbi, A., & Fletcher, T. (2026). [*Artificial Intelligence (AI) and the Future of the Engineering and Computing Workforce: A Systematic Review of Grey Literature and Document Analysis of U.S. Reports (2020–2025)*](https://peer.asee.org/). ASEE Annual Conference & Exposition, Paper ID #53492.
+
+---
+
 ## [Using AI in engineering education: a balancing act, driven by clear purpose](https://edtechdev.github.io/aied/articles/ai-engineering-education-balancing-act/)
 
 Based on a questionnaire of 100 higher-education engineering students and a critical literature review, examines how students use and perceive LLMs. Students value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, but express concerns about inaccuracies, bias, overreliance, and academic integrity. Analyzes two dominant metaphors — LLM as 'oracle' and 'tutor' — showing they cultivate expectations exceeding actual capabilities. Argues students' attachment to LLM efficiency reflects 'cruel optimism' — benefits depend on skills still being developed.
@@ -4360,6 +4423,67 @@ Becerra, Á., Palma, A., & Cobos, R. (2026). [*AICoFe: AI-Based Collaborative Fe
 ## Citation
 
 Baez, C., Buchner, J., Ullrich, A.-L., & Schallert-Vallaster, S. (2026). [*Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy*](https://doi.org/10.1016/j.caeo.2026.100346). *Computers and Education Open*, 100346. https://doi.org/10.1016/j.caeo.2026.100346
+
+---
+
+## [AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education](https://edtechdev.github.io/aied/articles/ai-play-framework-early-childhood-2026/)
+
+> **Synthesis:** Malallah and colleagues (2026) introduce **AI-Play**, a play-based, unplugged framework for teaching AI concepts to young children (Pre-K–K2), responding to a gap in developmentally grounded [[ai-literacy|AI literacy]] guidance for early childhood. Synthesizing widely referenced standards and frameworks (AI4K12 Five Big Ideas, Long & Magerko, Digital Promise, CSTA, UNESCO, OECD, EU, TeachAI), they organize AI literacy into four play-based components — **AI Body** (AI as a system built from parts), **AI Food** (AI learns from examples), **AI Brain** (AI improves through patterns and feedback), and a **Pre/Post-AI ethical lens** emphasizing human responsibility, fairness, and agency. Implemented through Hour of Code family activities, child reflections and parent surveys indicated high engagement and emerging understanding that AI learns from examples, demonstrating the framework's translation into practical, developmentally appropriate lessons for non-technical educators and families.
+
+## The gap: developmentally grounded AI literacy for early childhood
+
+AI is increasingly present in young children's lives, yet most AI literacy guidance targets older students and relies on technical approaches unsuitable for early childhood. An exploratory review of 145 papers and documents (reduced to 23 key sources) confirmed that recurring AI literacy frameworks — AI4K12's Five Big Ideas (Perception, Representation & Reasoning, Learning, Natural Interaction, Societal Impact), Long & Magerko's competency framework, Digital Promise, CSTA K-12 CS Standards, UNESCO, OECD, European Commission, TeachAI, and the RITEC child-wellbeing framework — describe *what* learners should understand but provide little developmentally appropriate guidance for *how* to introduce these ideas through play to Pre-K–K2 learners.
+
+## The AI-Play framework
+
+AI-Play reorganizes AI literacy into four play-based, developmentally appropriate components:
+
+- **AI Body** — AI is a system built from parts (sensors, data, processors), helping children see AI as constructed rather than magical.
+- **AI Food** — AI learns from examples (data), teaching children that AI is trained rather than inherently knowing.
+- **AI Brain** — AI improves through patterns and feedback, connecting to how AI learns and adapts.
+- **Pre/Post-AI ethical lens** — a cross-cutting emphasis on human responsibility, fairness, and agency in relation to AI.
+
+The framework was developed through an iterative five-stage process: exploratory investigation of the field, synthesis and grouping of recurring competencies, framework construction, expert validation with early childhood educational technologists, and implementation and evaluation. It functions as a conceptual and pedagogical bridge that translates AI literacy competencies into early-childhood learning progressions and teacher moves, accessible to non-technical educators and families.
+
+## Implementation and evaluation
+
+AI-Play was implemented through a family-centered **Hour of Code** event using unplugged activities. Parent surveys and child reflection sheets examined engagement, perceived learning, and usability of the activities for at-home replication. Results indicated **high engagement** and **emerging understanding** that AI learns from examples, with positive feedback demonstrating that the framework can be translated into practical, play-based lessons that remain accessible to non-technical educators and families.
+
+## Three contributions
+
+1. Synthesizes recurring AI literacy competencies from widely referenced standards and identifies a persistent lack of developmentally grounded guidance for Pre-K–K2 learners.
+2. Presents AI-Play as a conceptual and pedagogical bridge translating those competencies into early-childhood learning progressions and teacher moves.
+3. Reports an initial implementation and evaluation through a family-centered Hour of Code event.
+
+## Implications
+
+- **Early childhood deserves its own AI literacy pedagogy:** unplugged, play-based activities can make AI concepts developmentally appropriate, building on [[game-based-learning]] and [[learning-theories|learning theory]].
+- **Ethics from the start:** embedding a Pre/Post-AI ethical lens (responsibility, fairness, agency) introduces ethical AI use alongside foundational understanding.
+- **Accessible to families and non-technical educators:** the framework lowers the barrier to AI literacy beyond formal classrooms, extending the reach of [[k-12]] AI education and connecting to [[computational-thinking]] and [[cs-education]].
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[k-12]]
+- [[computational-thinking]]
+- [[game-based-learning]]
+- [[cs-education]]
+- [[learning-theories]]
+- [[ai-education]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
+- [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
+- [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
+- [[community-centered-ai-education-adults]] — Co-Designing Community-Centered AI Education for Adults
+- [[computational-thinking-ai-agent-creation]] — Computational Thinking Development in AI Agent Creation
+- [[ai-education-global-capacity]] — What AI in Education Needs Next
+
+## Citation
+
+Malallah, S. A., Shamir, L., David, A. S., Weese, J. L., Feldhausen, R., Bean, N., Osiobe, E., & James, F. E. (2026). [*AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education*](https://peer.asee.org/). ASEE Annual Conference & Exposition, Paper ID #51553.
 
 ---
 
@@ -12236,6 +12360,63 @@ Yongkyung Oh, Lynn Talton, Alex Bui (2026). [Engagement Intensity as a Learner-M
 
 ---
 
+## [It's Like \"X\": How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding in Engineering Education](https://edtechdev.github.io/aied/articles/engineering-faculty-metaphors-ai-understanding-2026/)
+
+> **Synthesis:** Gerhardt, Shiekh, Katz, and Chaback (2026) analyze the figurative language — metaphors and analogies — that engineering instructors use to describe [[generative-ai|generative AI]], drawn from 57 semi-structured interviews across 17 disciplines and seven universities. They map instructors' language onto a five-dimensional taxonomy (Ontology, Epistemology, Operation, Relationship, Power/Capability), finding that instructors overwhelmingly frame GAI either as a human-like "social being/agent" (e.g., "a PhD student," "an assistant") or as a "technical object/artifact" (e.g., a search engine or tool), with almost no framing of GAI as an environmental or systemic force. Because these metaphors both construct and constrain understanding, and because instructors within the same department often hold fundamentally different mental models, the authors argue that developing a shared language is essential for [[faculty-development]] and productive departmental discussions about GAI in engineering education.
+
+## Metaphor as understanding
+
+The paper begins from the premise that figurative language is not decorative but fundamental to how we think and act: "the way we think, what we experience, and what we do every day is very much a matter of metaphor." Instructors inevitably describe [[generative-ai|GAI]] through metaphors — a "mirror" that reflects biases, a "crutch" or "drug" enabling [[cognitive-offloading]] and intellectual degradation, an "assistant," or an "advanced student." Common metaphors for LLMs in wider discourse include "stochastic parrots," "simulators," "crowds/zeitgeist," "gods," "e-bikes," and "drop-in remote workers." In engineering specifically, figurative language is instrumental for conceptual understanding. Yet a lack of shared language between stakeholders can compromise [[faculty-development]] programs and departmental discussions.
+
+## Five dimensions of instructor language
+
+Analyzing instructors' responses to the prompt "if you had to think of an analogy or metaphor to describe GAI, what would you say?", the authors developed a five-continuum codebook, each with contrasting positions:
+
+- **Ontology — what "is" GAI?** Instructors most often framed GAI as a **Social Being/Agent** (54.2%) with human-like agentic and relational qualities (e.g., "a person with deep knowledge who thinks far faster than I do"); second was a **Technical Object/Artifact** (44.1%) likened to a search engine or tool; least common was an **Environmental Force/Systemic Phenomenon** (1.7%) such as a tsunami, iceberg, or paradigm shift.
+- **Epistemology — does GAI genuinely understand?** Positions ranged from "Genuine/True Understanding" to "Mimics/Simulates Understanding," often co-occurring with the human-like vs. mechanical framings above.
+- **Operation — how does it work?** "Learning/Developmental" versus "Mechanical/Pattern-Matching."
+- **Relationship — how do we relate to it?** "Collaborative/Partnership" versus "Instrument/Tool-Use."
+- **Power/Capability — what can it do?** "Human-Level/Comparable" versus "Limited/Deficient."
+
+Nearly 75% of "Social Being/Agent" framings co-occurred with Collaborative/Partnership, Human-Level/Comparable, Genuine/True Understanding, and Learning/Developmental positions — forming a coherent human-like-assistant mental model. Conversely, the "Technical Object/Artifact" framing co-occurred with mechanical, tool-use, and limited positions.
+
+## Constructing and constraining understanding
+
+The key finding is that engineering instructors do **not** hold a unified mental model of GAI: even within the same department, semester, and institutional policy environment, instructors construct fundamentally different accounts of what GAI "is" and "means." None is inherently "correct," but each is shaped by personal experience, use cases, and professional background. Critically, some metaphors are inaccurate and can constrain understanding: describing GAI as a "search engine" inaccurately positions it as retrieving pre-existing information, when in fact it algorithmically generates plausible token continuations. Instructors tended to focus on what GAI *does* rather than what it *knows*, says, or is.
+
+## Implications for faculty development
+
+The authors argue these metaphors function as "guidepoints" for self-reflection and [[faculty-development]]: evaluating the range of language instructors use can help anticipate, assess, and intervene in how GAI operates in engineering education. A shared, accurate conceptual language supports developing training programs and facilitating adoption discussions that currently founder on incoherence between institutional and faculty language about [[generative-ai|GAI systems]]. For educators and developers, the work highlights that how we talk about AI shapes how students learn about, trust, and use it — connecting to [[ai-literacy]] and [[student-experience]].
+
+## Connected Concepts
+
+- [[engineering-education]]
+- [[faculty-development]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[student-experience]]
+- [[ai-misuse-learning-harm]]
+- [[cognitive-offloading]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[laidlaw-genai-identity-crisis-faculty-2026]] — When Faculty Ask "What's the Point of Teaching?" GenAI as Identity Crisis
+- [[ai-pedagogical-orientation]] — Faculty Orientations Shape Adoption of AI
+- [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice
+- [[genai-teacher-feedback-comparison]] — Comparing GenAI and Teacher Feedback
+- [[framing-5-percent-problem-teachers-persistence]] — Framing the 5% Problem: Teachers' Persistence
+- [[moral-panic-genai-classroom]] — Moral Panic and GenAI in the Classroom
+- [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass
+- [[ai-ethics-education-public-discourse]] — Public Discourse on AI Ethics in Education
+
+## Citation
+
+Gerhardt, M., Shiekh, K., Katz, A., & Chaback, B. E. (2026). [*It's Like "X": How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding in Engineering Education*](https://peer.asee.org/). ASEE Annual Conference & Exposition, Paper ID #50720.
+
+---
+
 ## [Enhancing creative writing with robot-LLM integration: The interplay of embodiment, AI creativity and user engagement](https://edtechdev.github.io/aied/articles/enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen/)
 
 > **Synthesis:** This study explores the impact of robot-LLM integration on collaborative creative writing, focusing on how embodiment and AI creativity influence creative output. With 150 undergraduate students across five conditions, results revealed that the Human-Robot (High-Creativity LLM) condition significantly enhanced originality, while Human-Human and Human-LLM collaborations excelled in imagery and voice. An 'embodiment paradox' was identified, where robot embodiment amplified creativity in high-creativity AI conditions but human collaboration remained superior in stylistic expression.
@@ -12449,6 +12630,72 @@ Across the model results, a consistent pattern emerges: **responsible AI use doe
 ## Citation
 
 Ogbo, N. B., Song, Z., Ghareeb, S., & Han, T. A. (2026). [*Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning*](https://arxiv.org/abs/2605.27400). arXiv:2605.27400. arXiv preprint.
+
+---
+
+## [Ethical Use of Artificial Intelligence in Engineering Education: A Systematic Review](https://edtechdev.github.io/aied/articles/ethical-use-ai-engineering-education-review-2026/)
+
+> **Synthesis:** Osunbunmi and colleagues (2026) present a PRISMA-guided systematic review of empirical studies on the ethical use of AI in undergraduate engineering education, moving beyond conceptual discussions of AI ethics to examine how ethical guidance is actually enacted in instructional practice. From 2,158 records they retained 99 empirical studies, coding them for core ethical principles and identifying seven recurring forms of ethical guidance: transparency and disclosure of AI use; faculty–student accountability and human oversight; designing for student independence and agency; privacy and data protection; [[academic-integrity]] and authorship; fairness, equity, and bias mitigation; and beneficence. The review finds a consistent pattern — ethical AI guidance in engineering education is predominantly student-facing and compliance-oriented (centered on academic integrity and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remains comparatively underdeveloped — and calls for a more balanced, practice-oriented approach to responsible AI integration.
+
+## From policy to practice
+
+The review responds to a shift in conversations about AI in [[higher-ed|engineering education]] from how AI can improve educational processes to how ethical governance shapes its responsible use. Prior reviews often synthesized policy documents, conceptual frameworks, or literacy interventions; this study instead focuses specifically on **empirical** studies of AI use in undergraduate engineering classrooms, using deductive coding of core ethical principles combined with inductive thematic analysis.
+
+## Method
+
+Following PRISMA 2020, the authors searched eight databases (APA PsycInfo, ProQuest, ERIC, Engineering Village, Education Research Complete, ScienceDirect, Scopus, Web of Science). Inclusion criteria required empirical, peer-reviewed studies of AI use in undergraduate engineering education (2000–2025) that addressed ethical considerations explicitly or implicitly. The database search yielded 2,158 records; after deduplication and blind screening, 99 studies were retained for ethical analysis.
+
+## Seven recurring forms of ethical guidance
+
+Thematic analysis identified seven recurring forms of ethical guidance in engineering education:
+
+1. **Transparency and disclosure of AI use** — openly communicating when and how AI is used.
+2. **Faculty–student accountability and human oversight** — taking responsibility for decisions and outcomes.
+3. **Designing for student independence and agency** — preserving students' own problem-solving and critical thinking.
+4. **Privacy and data protection** — safeguarding sensitive educational data.
+5. **Academic integrity and authorship** — ensuring authenticity of student work.
+6. **Fairness, equity, and bias mitigation** — treating learners equitably and avoiding AI bias.
+7. **Beneficence** — acting to do good and avoid harm.
+
+Across the 99 studies, **accountability** (n = 47) and **transparency** (n = 34) were the most emphasized core aspects, while **autonomy** (n = 12) and **beneficence** (n = 10) were the least emphasized; integrity (n = 49) was prominent enough to be treated as a distinct theme.
+
+## A student-facing, compliance-oriented imbalance
+
+The central finding is that ethical AI guidance in engineering education is **predominantly student-facing and compliance-oriented** — often centered on academic integrity and disclosure requirements — while **reciprocal accountability for faculty AI use and institutional responsibility remains underdeveloped**. The authors interpret this as a limitation: because engineering decisions directly affect public safety, infrastructure reliability, environmental sustainability, and societal wellbeing, ethical AI use in engineering classrooms is a matter of professional formation and societal responsibility, not merely academic policy. They document the need to make ethical guidance more balanced across students, faculty, and institutions, and to support [[faculty-development]] so educators can guide responsible AI integration.
+
+## Implications
+
+- **Ethical guidance must cover faculty and institutions, not only students:** integrity-focused, student-facing rules leave faculty AI use and institutional responsibility unaddressed.
+- **Preserve human agency and independence:** designing for student independence and agency is the least-emphasized ethical dimension but is central to protecting core engineering skills (problem-solving, critical thinking).
+- **Ground ethics in engineering's professional stakes:** the review frames ethical AI use in engineering as professional formation tied to public safety and societal impact.
+- **Balance principle with practice:** the field needs more empirical attention to how ethical principles are operationalized in classrooms, not just articulated in policy.
+
+## Connected Concepts
+
+- [[engineering-education]]
+- [[ethics]]
+- [[academic-integrity]]
+- [[bias-mitigation]]
+- [[equity-in-ai-education]]
+- [[privacy]]
+- [[faculty-development]]
+- [[higher-ed]]
+- [[generative-ai]]
+- [[ai-education]]
+
+## Connected Articles
+
+- [[ai-ethics-education-public-discourse]] — Longitudinal Analysis of Public Discourse on AI Ethics in Education
+- [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
+- [[genai-policies-higher-ed-computing]] — Institutional and Course GenAI Policies in Higher Education
+- [[ethical-ai-higher-ed-game-theory]] — Ethical AI Use in Higher Education: A Coordination Game Framework
+- [[genai-declaration-frameworks-higher-education]] — Domain-Specific GenAI Declaration Frameworks
+- [[moral-panic-genai-classroom]] — Moral Panic and GenAI in the Classroom
+- [[genai-chinese-higher-education-integrity-2026]] — GenAI, Academic Integrity, and Intellectual Engagement in Chinese Higher Education
+
+## Citation
+
+Osunbunmi, I. S., Moyaki, D., Fakiyesi, V. O., Dunmoye, I. D., Nwanua, M. I., Oloyede, M., Bamidele, B. R., Feyijimi, T. R., & Hunsu, N. (2026). [*Ethical Use of Artificial Intelligence in Engineering Education: A Systematic Review*](https://peer.asee.org/). ASEE Annual Conference & Exposition, Paper ID #52865.
 
 ---
 
@@ -23464,6 +23711,77 @@ tasks:, T.W.A.V.L.W.T.F.M. & Preview, P. (2026). [*Multimodal AI Tutoring in STE
 
 ---
 
+## [A Multimodal Framework for Embodied Cognition in Oral Explanations](https://edtechdev.github.io/aied/articles/multimodal-embodied-cognition-oral-explanations-2026/)
+
+> **Synthesis:** Morphew, Mehrabi, Bennett, and Majmundar (2026) present an automated multimodal framework that integrates computer-vision gesture tracking with [[llm|large language model]] analysis of spoken discourse to study how engineering students' conceptual understanding of statistics is expressed through both speech and gesture. Grounded in [[embodied-learning|embodied cognition]] and McNeill's gesture–speech unity hypothesis, the framework builds a domain-specific gesture library, classifies hand movements with a k-nearest-neighbors model, aligns gesture episodes to transcribed speech, and uses an LLM "meaning agent" to annotate each episode with statistical concepts and gesture–speech relations. Two undergraduate engineering students explaining linear regression and descriptive statistics showed that high-confidence explanatory gestures cluster around specific concepts (especially the mean), and that close gesture–speech coordination accompanies coherent conceptual talk while divergence marks developing ideas. The authors argue that [[assessment-validity|assessing only speech]] misses embodied evidence of understanding and release an open-source pipeline to bring embodied evidence into [[multimodal|multimodal learning analytics]] and oral assessment at scale.
+
+## Gesture as evidence of understanding
+
+The paper opens from the premise that assessment practices typically assume speech is the dominant mode of communicating understanding, yet learners frequently convey conceptual information through gestures that are not redundant with speech. From the perspective of [[embodied-learning|embodied cognition]], gesture is not auxiliary but part of the cognitive process — an observable indicator of how knowledge is structured at a given moment. Explanations assessed only through speech can miss implicit or transitional dimensions of understanding, and verbal fluency can be mistaken for conceptual knowledge, disadvantaging learners with language-related challenges. This is especially salient in [[stem-education|engineering contexts]], where conceptual explanations naturally lend themselves to gestures that reveal how learners organize abstract ideas spatially.
+
+McNeill's gesture–speech unity hypothesis holds that speech and gesture share a common origin with two coordinated outputs. His taxonomy distinguishes representational gestures (iconic, referencing imagined spaces, metaphorical) from non-representational ones, and research shows that mismatches between gesture and speech signal transitional or weakly held conceptions. Gestures can also [[cognitive-offloading|offload relational structure]] onto space, reducing [[cognitive-load-theory|cognitive load]] and supporting learning — a pattern documented across mathematics, science, and statistics.
+
+## The multimodal framework
+
+The authors introduce a pipeline that separates perceptual gesture detection from semantic interpretation:
+
+1. **Gesture detection and segmentation** — MediaPipe tracks the index fingertip; motion windows are normalized (centered, isotropically scaled) to remove variation from camera placement and drawing scale.
+2. **Classification** — a k-nearest-neighbors (KNN) classifier labels each window by trajectory similarity against a gesture library; contiguous stable frames merge into gesture episodes.
+3. **Confidence filtering** — an episode-level confidence threshold (≥0.75) retains visually stable patterns; retained episodes are overwhelmingly explanatory rather than conversational.
+4. **Multimodal alignment** — audio is transcribed with automatic speech recognition and each gesture episode is aligned to the nearest spoken segment.
+5. **Semantic annotation** — a hybrid "meaning agent" using an instruction-tuned local model (FLAN-T5) labels each episode with statistical concept, gesture–speech relation (aligned/partial/misaligned/none), and McNeill category under a forced JSON schema.
+
+This yields three feature representations — speech-only, gesture-only, and combined multimodal — enabling direct evaluation of whether gesture contributes diagnostic value beyond speech.
+
+## A gesture library for statistics
+
+A domain-specific gesture library catalogues the hand movements students spontaneously produce when explaining statistical ideas, each linked to a statistical concept: straight-line, slope, dot-in-air, scatter plot, coordinate plane, normal distribution, mean/median, outlier, correlation, and grouping gestures. Keeping the library small and conceptually grounded ensures detected gestures remain interpretable to instructors rather than opaque machine-learning categories.
+
+## Findings
+
+Analysis of two undergraduate engineering students (127 and 58 total gestures; 92 and 36 retained high-confidence explanatory episodes) found:
+
+- **A shared spatial vocabulary:** both students converged on a narrow set of forms (square/box most common at ~54–61%, then straight line), suggesting durable spatial schemas rather than personal habits for structuring abstract ideas like center, variation, and trend.
+- **Conceptual clustering:** gestures were not evenly distributed but clustered around specific concepts — both students gestured most on the mean, while the more expansive explainer (Greg) extended to slope, regression, and standard deviation.
+- **Gesture–speech coupling signals coherence:** episodes where gesture and speech were closely coordinated were associated with more coherent conceptual talk, whereas divergence coincided with partial or developing ideas.
+- **High confidence → stable gesture:** when students expressed high confidence, gestures were larger, temporally stable, and spatially consistent.
+
+## Implications for assessment and online learning
+
+- **Assessment can and should consider embodied evidence:** speech-only assessment can mistake verbal fluency for understanding; gesture adds representation-level diagnostic information and increases [[assessment-validity|construct validity and equity]].
+- **Automated and reproducible:** the pipeline quantifies typically qualitative gesture analysis and is released publicly, so instructors can upload gesture recordings and obtain automated detection for their own classroom or assessment contexts.
+- **A gap for online learning:** instructors in online environments lack the embodied cues that naturally occur in person; gesture-aware digital platforms could help fill the gap left by verbal explanations alone.
+- **Statistics education:** the framework grounds understanding of foundational statistics concepts in both verbal and embodied enactment, relevant to [[math-education|statistics education]] where gestures can make central tendency, variation, and trend tangible.
+
+## Connected Concepts
+
+- [[engineering-education]]
+- [[embodied-learning]]
+- [[multimodal]]
+- [[learning-analytics]]
+- [[assessment-validity]]
+- [[math-education]]
+- [[llm]]
+- [[generative-ai]]
+- [[stem-education]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[llm-automated-assessment-student-self-explanations]] — LLM Automated Assessment of Student Self-Explanations
+- [[embodied-inquiry-ai-facilitator-physics-2026]] — Embodied Inquiry with AI as Facilitator
+- [[embodied-string-learning-blindness-low-vision-musicians]] — Embodied String Learning for Musicians with Blindness
+- [[confidence-aware-student-drawing-assessment]] — Confidence-Aware Assessment of Student-Drawn Scientific Models
+- [[multimodal-affective-its-presentation]] — Multimodal Affective Intelligent Tutoring Presentation
+- [[ai-assessment-human-tutors]] — AI-Driven Assessment of Human Tutors
+- [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-Mediated Authentic Assessment and Metacognition
+
+## Citation
+
+Morphew, J. W., Mehrabi, A., Bennett, J. A., & Majmundar, A. M. (2026). [*A Multimodal Framework for Embodied Cognition in Oral Explanations*](https://github.com/amehrabi67/OralExams). ASEE Annual Conference & Exposition, Paper ID #51108.
+
+---
+
 ## [Multimodal Item Parameter Estimation using Simulated Response Probabilities](https://edtechdev.github.io/aied/articles/multimodal-item-parameter-estimation-2026/)
 
 > **Synthesis:** This paper fine-tunes a multimodal large language model (Qwen3.5-based) to reconstruct multiple-choice model (MCM) and three-parameter logistic (3PL) item characteristic curves. By learning to reproduce students' systematic error patterns across a range of ability levels, the LLM implicitly captures underlying response probabilities and can approximate item difficulty on held-out test items directly from predicted option probabilities.
@@ -25869,11 +26187,11 @@ Maiorano, A. C. (2026). [Evaluating prompt injection defenses for educational LL
 
 ## [Same Question, Different Answer? Measuring and Mitigating Prompt Privilege for Equitable AI Access](https://edtechdev.github.io/aied/articles/prompt-privilege-equitable-ai-access-2026/)
 
-> **Synthesis:** Jin and colleagues (2026) identify a systematic accessibility bias they call **prompt privilege**: users who can phrase requests skillfully get markedly better output from large language models than users who express the same underlying intent less adroitly. To make this measurable and fixable, they propose a Prompt Equity Score (PES) that quantifies performance consistency across user populations and a Prompt Equity Transformer (PET) agent that rewrites a user's request into semantically equivalent, accessibility-oriented wording before it reaches the model. Demonstrations on the MedQA benchmark show statistically significant performance gaps between low-literacy and expert-prompting cohorts that PET eliminates while preserving meaning — advancing a system-centered view of [[equity-in-ai-education|equitable AI access]] in which the burden of effective [[prompt-engineering]] shifts from the learner to the AI itself.
+> **Synthesis:** Jin and colleagues (2026) identify a systematic accessibility bias they call **prompt privilege**: users who can phrase requests skillfully get markedly better output from [[llm|large language models]] than users who express the same underlying intent less adroitly. To make this measurable and fixable, they propose a Prompt Equity Score (PES) that quantifies performance consistency across user populations and a Prompt Equity Transformer (PET) agent that rewrites a user's request into semantically equivalent, accessibility-oriented wording before it reaches the model. Demonstrations on the MedQA benchmark show statistically significant performance gaps between low-literacy and expert-prompting cohorts that PET eliminates while preserving meaning — advancing a system-centered view of [[equity-in-ai-education|equitable AI access]] in which the burden of effective [[prompt-engineering]] shifts from the learner to the AI itself.
 
 ## Prompt privilege as an overlooked accessibility gap
 
-The paper reframes prompt sensitivity. Existing work on prompt robustness focuses on adversarial attacks, prompt injection, and prompt optimization — all concerned with whether an *attacker* or *expert* can extract more from a model. Jin et al. instead ask the inverse question: whether *equally legitimate* requests phrased differently receive different-quality responses simply because of phrasing. They call this accessibility challenge "prompt privilege" — users with greater prompting expertise systematically obtain better performance despite identical intent. This is fundamentally an [[equity-in-ai-education|equity]] problem: as LLMs are woven into healthcare, education, and public services, anyone with weaker [[ai-literacy|prompt literacy]] is silently disadvantaged, compounding the [[digital-divide]].
+The paper reframes prompt sensitivity. Existing work on prompt robustness focuses on adversarial attacks, prompt injection, and prompt optimization — all concerned with whether an *attacker* or *expert* can extract more from a model. Jin et al. instead ask the inverse question: whether *equally legitimate* requests phrased differently receive different-quality responses simply because of phrasing. They call this accessibility challenge "prompt privilege" — users with greater prompting expertise systematically obtain better performance despite identical intent. This is fundamentally an [[equity-in-ai-education|equity]] problem: as [[llm|LLMs]] are woven into healthcare, education, and public services, anyone with weaker [[ai-literacy|prompt literacy]] is silently disadvantaged, compounding the [[digital-divide]].
 
 ## Making the gap measurable: Prompt Equity Score (PES)
 
@@ -25894,7 +26212,7 @@ Experiments on the **MedQA** benchmark confirm the problem and the fix:
 ## Practical implications for education
 
 - **Design systems, not just curricula, for equity:** reducing the [[ai-literacy|prompt-literacy]] gap matters, but so does engineering models to be robust to naive phrasing — the burden should not rest solely on students.
-- **Audit AI tools for prompt privilege:** an institution deploying an AI tutor or writing assistant should measure performance consistency across its actual student populations, not just expert users.
+- **Audit AI tools for prompt privilege:** an institution deploying an [[ai-tutoring|AI tutor]] or writing assistant should measure performance consistency across its actual student populations, not just expert users.
 - **Treat prompting skill as a resource that is unevenly distributed:** prompt privilege is one mechanism behind observed differences in who benefits from [[generative-ai|generative AI]] in education, complementing findings on [[genai-skill-bypass-literacy|skill bypass]] and the illusion of [[digital-literacy-illusion|digital literacy]].
 
 ## Connected Concepts
@@ -32604,15 +32922,15 @@ Huyen N. Nguyen, Kathleen Bowe, Minh-Huyen Nguyen, Kit Thompson, Caleb M. Trujil
 
 ## [A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era](https://edtechdev.github.io/aied/articles/workforce-readiness-smart-manufacturing-wrl-2026/)
 
-> **Synthesis:** Smith and colleagues (2026) argue that AI, the Industrial Internet of Things, cyber-physical systems, and advanced robotics are reshaping manufacturing faster than [[curriculum-design|engineering curricula]] can adapt, widening the gap between shop-floor competencies and what universities teach. To close it, they propose a **Workforce Readiness Level (WRL)** framework that adapts the Technology Readiness Level scale into nine progressive competency stages scored across four pillars — digital and AI literacy, cyber-physical systems fluency, human-machine collaboration, and data-driven decision making — aggregated under a "no-thin-pillar" rule. Instantiated in a university smart-manufacturing teaching laboratory over 89 sponsored capstone projects, the framework surfaced hidden cyber-physical and data-driven gaps and showed that advancement to the highest stages was gated by industry-embedded experience rather than additional coursework, offering educators and accreditation bodies a common instrument for diagnosing workforce readiness.
+> **Synthesis:** Smith and colleagues (2026) argue that AI, the Industrial Internet of Things, cyber-physical systems, and advanced robotics are reshaping manufacturing faster than [[curriculum-design|engineering curricula]] can adapt, widening the gap between shop-floor competencies and what universities teach. To close it, they propose a **Workforce Readiness Level (WRL)** framework that adapts the Technology Readiness Level scale into nine progressive competency stages scored across four pillars — digital and [[ai-literacy|AI literacy]], cyber-physical systems fluency, [[human-ai-collaboration|human-machine collaboration]], and data-driven decision making — aggregated under a "no-thin-pillar" rule. Instantiated in a university smart-manufacturing teaching laboratory over 89 sponsored capstone projects, the framework surfaced hidden cyber-physical and data-driven gaps and showed that advancement to the highest stages was gated by industry-embedded experience rather than additional coursework, offering educators and accreditation bodies a common instrument for diagnosing workforce readiness.
 
 ## The framework: from technology readiness to workforce readiness
 
 The paper's central move is to transplant a familiar [[assessment-validity|assessment]] logic — the Technology Readiness Level (TRL) scale used across engineering — into the realm of human competency. The resulting **Workforce Readiness Level** framework defines nine progressive stages of workplace capability, each aggregating four pillars:
 
-1. **Digital and AI literacy** — the foundational ability to work with data, automation, and AI tools.
+1. **Digital and [[ai-literacy|AI literacy]]** — the foundational ability to work with data, automation, and AI tools.
 2. **Cyber-physical systems fluency** — understanding how physical processes connect to networked computation.
-3. **Human-machine collaboration** — working effectively alongside automation and AI agents.
+3. **[[human-ai-collaboration|Human-machine collaboration]]** — working effectively alongside automation and AI agents.
 4. **Data-driven decision making** — using evidence to make operational choices.
 
 These pillars jointly span the relevant **ABET student outcomes**, giving the framework traction within formal engineering education. A composite stage score and a cohort-level workforce-readiness index summarize progress, while the **"no-thin-pillar" rule** enforces that a learner cannot be certified ready if any single pillar is too weak — even when overall analytics look strong.
@@ -34207,6 +34525,8 @@ Research points to [[collaborative-learning|collaborative]] and [[active-learnin
 
 A core applied aim of AI literacy is [[reducing-ai-misuse]]: teaching students to use AI ethically and productively rather than substituting it for their own [[cognitive-offloading|cognitive work]]. Where AI literacy builds the *capacity* to evaluate and use AI critically, [[reducing-ai-misuse|reducing misuse]] is the behavioral and structural payoff — combining guardrailed tool design, [[assessment|assessment redesign]], and educative levers such as scaffolded think-first/AI-second sequences and prompting practice with deliberate feedback. The two concepts are mutually reinforcing: AI literacy supplies the critical dispositions that make misuse-reduction interventions durable, while misuse-reduction evidence (e.g. the [[ai-misuse-learning-harm|performance–learning gap]]) motivates why literacy must go beyond operational skill to critical judgment.
 
+AI literacy also needs developmentally appropriate forms for the youngest learners. [[ai-play-framework-early-childhood-2026|AI-Play]] translates AI literacy competencies into play-based, **unplugged** activities for Pre-K–K2 learners — organized around *AI Body* (AI as a system built from parts), *AI Food* (AI learns from examples), *AI Brain* (AI improves through patterns and feedback), and a Pre/Post-AI ethical lens — addressing a persistent lack of developmentally grounded AI literacy guidance for early childhood and making AI literacy accessible to non-technical educators and families.
+
 ### Critical AI literacy: beyond skills to power and resistance
 
 A distinct strand of the wiki treats AI literacy not merely as skills or critical evaluation but as a *critical and political practice* that interrogates power, authority, and whose knowledge counts. This connects AI literacy to [[critical-pedagogy]] and [[equity-in-ai-education]]:
@@ -34269,6 +34589,7 @@ AI literacy intersects with [[ai-tutoring]] (understanding when and how AI tutor
 - [[teacher-education]]
 
 ## Connected Articles
+- [[ai-play-framework-early-childhood-2026]] — AI-Play: Teaching AI Concepts through Unplugged Activities in Early Childhood
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
@@ -34457,6 +34778,7 @@ For instructors deploying AI tutors and for developers building them, the wiki's
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the [[assessment-validity|validity]] of course-tailored AI-generated assessments when backed by psychometric evaluation.
 - **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
 - **Confidence and calibration:** [[confidence-aware-ai-assessment|Confidence-aware systems]] improve validity by flagging uncertain assessments.
+- **Embodied and multimodal evidence:** speech-only assessment can mistake verbal fluency for conceptual knowledge; [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] show that computer-vision gesture analysis coupled with LLM speech analysis increases construct validity and equity by capturing understanding expressed through gesture, not just words — reducing bias against learners who express understanding non-verbally.
 
 ### Redesign over detection
 
@@ -34482,6 +34804,7 @@ Assessment validity connects to [[authentic-assessment]], [[automated-grading]],
 - [[feedback]]
 
 ## Connected Articles
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[melo-llm-classroom-observation-teach-2026]] — Validating LLM-based classroom observation against expert ratings (Melo et al. 2026)
@@ -35967,6 +36290,7 @@ The wiki has dedicated concept pages for several subject areas:
 - **[[stem-education]]** — the cross-disciplinary umbrella for science, technology, engineering, and mathematics.
 - **[[teacher-education]]** — the preparation and professional development of teachers (pre-service and in-service), a discipline in its own right whose AI research centers on teacher AI literacy, intelligent-TPACK, and readiness to integrate AI.
 - **[[medical-education]]** — clinical simulation, reinforcement-learning training, and foundational learning principles in health-professions education.
+- **[[engineering-education]]** — professional formation, design and hands-on learning, ethical use of AI, embodied assessment, and workforce preparation in engineering.
 - **[[humanities-education]]** — interpretive cognition, authorship, and meaning-making in humanities and social sciences.
 - **[[k-12]]** and **[[higher-ed]]** — education about and with AI at each level.
 
@@ -35986,6 +36310,7 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 
 - **Mathematics** — problem-solving, procedural fluency, and conceptual understanding. AI research emphasizes [[socratic-method|Socratic tutoring]] ([[oatutor-open-source-adaptive-tutor-2023|OATutor]]), [[adaptive-learning|adaptive]] practice, and diagnosing student misconceptions.
 - **Physics** — model-based reasoning, experimentation, and [[simulation]]. AI research uses virtual labs ([[benzion-ai-physics-simulations-virtual-lab|Ben-Zion]]), chatbots ([[becker-chatgpt-typology-physics-2026|ChatGPT typology]]), and problem-posing ([[genai-assisted-problem-posing-physics-2026|GenAI problem-posing]]).
+- **Engineering** — design thinking, hands-on/laboratory learning, and professional formation. AI research addresses instructors' [[engineering-faculty-metaphors-ai-understanding-2026|metaphors for AI]], [[ethical-use-ai-engineering-education-review-2026|ethical governance of AI use]], [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce preparation]].
 - **Computer science & programming** — project-based, hands-on building. AI research addresses code generation, debugging ([[code-review-genai-cs1|AI code review]], [[chatgpt-teachable-agent-programming-lbt-2024|learning by teaching]]), and epistemic AI literacy in co-programming ([[constructing-epistemic-ai-literacy-student-ai-co-programming|co-programming literacy]]).
 - **Writing** — process-oriented, recursive drafting and revision. AI research spans [[coach-not-crutch-ai-writing|AI as writing coach]], automated scoring, and stage-based ownership ([[ai-writing-support-stage-ownership-2026|ownership stages]]).
 - **Language learning** — communicative competence, interaction, and corrective feedback. AI research uses conversational agents ([[ai-interlocutor-l2-spoken-dialogue|L2 interlocutors]]), pronunciation feedback, and culturally responsive design.
@@ -35995,7 +36320,7 @@ Each discipline brings distinctive pedagogical traditions that AI research engag
 
 ## Represented disciplines in the wiki
 
-The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[cs-education]]**, and **[[programming-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
+The wiki's strongest discipline-specific coverage is in **[[stem-education|STEM]]** broadly — particularly **[[math-education]]**, **[[physics-education]]**, **[[cs-education]]**, and **[[programming-education]]** — followed by **[[writing-education]]**, **[[language-learning]]**, and more recently **[[engineering-education]]** (with a dedicated page synthesizing ASEE-sourced articles on [[engineering-faculty-metaphors-ai-understanding-2026|faculty metaphors]], [[ethical-use-ai-engineering-education-review-2026|ethics]], [[multimodal-embodied-cognition-oral-explanations-2026|assessment]], and [[ai-engineering-computing-workforce-grey-literature-2026|workforce]]), **[[teacher-education]]** (with a substantial body of pre-service and in-service AI-training research), **[[medical-education]]**, and **[[humanities-education]]**. Engineering and design also have a growing body of articles (e.g., [[ai-engineering-education-balancing-act|AI in engineering education]], [[ai-learning-tools-engineering-education-needs|engineering learning-tool needs]], [[genai-architecture-education|AI in architecture]]).
 
 ## Underrepresented disciplines
 
@@ -36021,6 +36346,7 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[stem-education]]
 - [[teacher-education]]
 - [[medical-education]]
+- [[engineering-education]]
 - [[humanities-education]]
 - [[k-12]]
 - [[higher-ed]]
@@ -36436,6 +36762,7 @@ Embodied learning is closely related to [[active-learning]], [[experiential-lear
 - **Social-robotic interaction:** [[social-robots|Social robots]] used for storytelling ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), role-play ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]), and sign language ([[pepper-robot-sign-language-lis-2025|Pepper]]) provide embodied social interaction that supports relational and [[social-emotional-learning|emotional]] learning.
 - **Embodiment and creative writing:** [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen|Research on robot-LLM integration in creative writing]] examines how embodiment affects learners' interaction and outcomes.
 - **Human-robot interaction:** [[human-robot-interaction|HRI]] research ([[task-context-trust-educational-hri-2026|trust]], [[human-autonomy-agency-hri-review-2025|agency]]) examines how physical embodiment shapes trust, engagement, and autonomy.
+- **Gesture as evidence of understanding:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] integrate computer-vision gesture tracking with LLM analysis of speech to show that engineering students' conceptual understanding of statistics is expressed through both speech and gesture. High-confidence explanatory gestures cluster around specific concepts (especially the mean), and close gesture–speech coupling signals coherent conceptual talk while divergence marks developing ideas — positioning embodied action as evidence in [[assessment-validity|assessment]] via [[multimodal|multimodal learning analytics]], not only as a learning mechanism.
 
 ### Embodied intelligence and the critique of disembodied AI
 
@@ -36459,8 +36786,11 @@ Embodied learning connects to [[educational-robotics]], [[social-robots]], [[hum
 - [[computational-thinking]]
 - [[social-emotional-learning]]
 - [[learning-theories]]
+- [[multimodal]]
+- [[assessment-validity]]
 
 ## Connected Articles
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
 
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
@@ -36534,6 +36864,57 @@ Engagement metrics connect to [[learning-analytics]] and [[educational-measureme
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress
 - [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Engagement
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains From Learning
+
+---
+
+## [Engineering Education](https://edtechdev.github.io/aied/concepts/engineering-education/)
+
+> **Engineering Education** — the study of how students learn engineering and how to teach it effectively, spanning how AI transforms engineering pedagogy, assessment, faculty development, and the engineering workforce. The engineering education articles in this wiki cluster around several themes: the [[engineering-faculty-metaphors-ai-understanding-2026|figurative language]] instructors use to make sense of AI, [[ethical-use-ai-engineering-education-review-2026|ethical governance]] of AI use, [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]] of conceptual understanding, and how AI is reshaping the [[ai-engineering-computing-workforce-grey-literature-2026|engineering and computing workforce]].
+
+Engineering education research is distinctive because it sits at the intersection of professional formation and rigorous STEM content. It emphasizes [[design-thinking|design]], problem-solving, hands-on and laboratory learning, teamwork, and preparing graduates for professional practice. AI raises distinctive questions here: whether hands-on and embodied experience still matters when AI can simulate or automate design tasks; the professional and ethical stakes of AI use (engineers' decisions affect public safety, infrastructure, and sustainability); and how AI reshapes the competencies graduates need and the workforce they enter.
+
+## How AI appears in the wiki's engineering education research
+
+- **Faculty understanding and shared language:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] analyze the metaphors engineering instructors use to describe AI, finding that most frame it either as a human-like "social being/agent" or as a "technical tool," and that instructors within the same department often hold fundamentally different mental models. Because metaphors both construct and constrain understanding, they argue a shared, accurate language is essential for [[faculty-development]] and departmental discussions about AI.
+- **Ethics and responsible use:** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et al.]] systematically review empirical studies of AI in undergraduate engineering education, identifying seven recurring forms of ethical guidance (transparency, accountability, student independence/agency, privacy, [[academic-integrity]], fairness/equity/bias, beneficence). They find ethical guidance is predominantly student-facing and compliance-oriented, with reciprocal faculty and institutional accountability underdeveloped — a concern heightened by engineering's direct stake in public safety and societal wellbeing.
+- **Embodied and multimodal assessment:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] develop a multimodal framework integrating computer-vision gesture tracking with LLM analysis of speech to assess engineering students' conceptual understanding of statistics, showing that gesture adds diagnostic evidence beyond speech and that close gesture–speech coupling signals coherent understanding.
+- **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, ethics and governance, and skill-based credentials for emerging roles.
+
+## Signature concerns
+
+Engineering education's signature concerns shape how AI is taken up: **hands-on and laboratory learning** (and what is lost when AI simulates practice), **professional formation** (ethical responsibility, safety, and societal impact), **design and problem-solving** (how much cognitive work AI should do), and **competency-based preparation for the workforce**. These make engineering education a rich site for studying whether AI augments or displaces the cognitive work essential to professional expertise — paralleling debates in [[physics-education]], [[math-education]], and [[cs-education]].
+
+## Connections to related concepts
+
+Engineering education sits within [[stem-education]] and connects strongly to [[cs-education]] (computing and software engineering), [[math-education]] and [[physics-education]] (engineering's mathematical and physical foundations), [[professional-training]] and [[faculty-development]] (workforce and instructor preparation), [[assessment]] and [[ethics]] (the professional and evaluative stakes of AI), and [[higher-ed]] (the institutional context). It is the home discipline for the wiki's ASEE-sourced articles.
+
+## Under-covered sub-areas
+
+The wiki's engineering education coverage is still developing. Sub-areas that would benefit from further articles include **discipline-specific engineering pedagogies** (mechanical, civil, chemical, electrical, software, and bioengineering education), **design and maker education**, **capstone and project-based learning**, and **engineering ethics education** — where AI's role is likely to be especially consequential.
+
+## Connected Concepts
+
+- [[stem-education]]
+- [[cs-education]]
+- [[math-education]]
+- [[physics-education]]
+- [[professional-training]]
+- [[faculty-development]]
+- [[assessment]]
+- [[ethics]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[generative-ai]]
+
+## Connected Articles
+
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
+- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
+- [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
+- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
+- [[ai-engineering-education-balancing-act]] — Using AI in Engineering Education: A Balancing Act
+- [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education
+- [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations in Engineering Mechanics
 
 ---
 
@@ -36655,7 +37036,7 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 
 ### Ethics in practice
 
-The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-higher-ed-game-theory|game theory approaches]]) to practical guidelines ([[cost-of-ethics-crisis-cs-ethics-education|CS ethics education]]). [[ai-ethics-education-public-discourse|Public discourse analysis]] tracks how AI ethics conversations evolve over time.
+The wiki's ethics articles range from theoretical frameworks ([[ethical-ai-higher-ed-game-theory|game theory approaches]]) to practical guidelines ([[cost-of-ethics-crisis-cs-ethics-education|CS ethics education]]). [[ai-ethics-education-public-discourse|Public discourse analysis]] tracks how AI ethics conversations evolve over time. A systematic review of empirical studies in [[engineering-education|engineering education]] finds that ethical AI guidance is predominantly student-facing and compliance-oriented (centered on [[academic-integrity]] and disclosure), while reciprocal accountability for faculty AI use and institutional responsibility remain underdeveloped — a pattern heightened by engineering's professional stakes in public safety and societal wellbeing.^[[ethical-use-ai-engineering-education-review-2026]]
 
 ### Connections
 
@@ -36676,6 +37057,7 @@ Ethics connects to [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - [[teacher-education]]
 
 ## Connected Articles
+- [[ethical-use-ai-engineering-education-review-2026]] — Ethical Use of AI in Engineering Education: A Systematic Review
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[genai-student-experiences-uk-he-survey-2026]]
@@ -36746,6 +37128,7 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty AI education.
 - **Governance and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
+- **Shared language and metaphors:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] show that engineering instructors hold heterogeneous mental models of AI, framed through metaphors that both construct and constrain understanding (AI as a human-like "assistant" vs. a "tool" or "search engine"). Because instructors within the same department often hold fundamentally different conceptualizations, a shared, accurate language about [[generative-ai|GAI]] is a prerequisite for effective faculty development and productive departmental adoption discussions.
 
 ### GenAI as identity work, not just upskilling
 
@@ -36787,6 +37170,7 @@ For faculty developers, academic leaders, and instructional designers planning A
 - [[teacher-education]]
 
 ## Connected Articles
+- [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[ai-acceptance-preservice-science-teachers-2026]]
 
@@ -39841,6 +40225,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - **Lifelong learning integration:** [[lifelong-learning]] and [[adult-learning]] research connect professional training to continuous education.
 - **Public sector:** [[ai-adoption-training-public-sector|Public sector AI adoption]] examines training in government contexts.
 - **Workforce readiness frameworks:** [[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.]] propose a Workforce Readiness Level (WRL) framework that adapts the Technology Readiness Level scale into nine competency stages scored across four pillars (digital/AI literacy, cyber-physical fluency, human-machine collaboration, data-driven decision making), under a "no-thin-pillar" rule. Evidence from smart-manufacturing capstones shows the highest readiness stages are gated by industry-embedded experience rather than coursework — pointing to work-integrated learning as essential to professional AI training.
+- **Workforce forecasting:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending that higher education prioritize durable AI competencies, [[ethics|ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, AI policy) to sustain human-centered work in an automated economy.
 
 ### Distinct from academic education
 
@@ -39864,6 +40249,7 @@ Professional training connects to [[lifelong-learning]], [[adult-learning]], [[f
 - [[personalized-learning]]
 
 ## Connected Articles
+- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the Future of the Engineering and Computing Workforce
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[ai-interior-design-malaysia-2026]]
