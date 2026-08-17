@@ -1,7 +1,7 @@
 ---
 title: Design Thinking
 created: 2026-08-09
-updated: 2026-08-15
+updated: 2026-08-15T03:04:03-04:00
 type: concept
 tags: [ai-education, generative-ai, higher-ed, student-experience]
 confidence: low

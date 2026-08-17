@@ -1,6 +1,6 @@
 ---
 title: "Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education"
-created: 2026-08-16
+created: 2026-08-16T09:22:41-04:00
 updated: 2026-08-16
 type: article
 tags: [critical-ai-literacy, equity, agency, ai-education, community, constructivist, human-ai-collaboration, epistemic-justice]

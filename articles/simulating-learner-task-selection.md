@@ -1,6 +1,6 @@
 ---
 title: Simulating Learners' Task-Selection Strategies and System Constraints in Mastery Learning
-created: 2026-05-22
+created: 2026-05-22T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, mastery-learning, adaptive-learning, engagement-metrics, simulation, k-12, student-experience, adaptive-learning-systems, llm, knowledge-tracing]

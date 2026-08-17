@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-15T03:04:03-04:00
 type: concept
 tags: [meta-analysis, systematic-review, research-methods, methodology, evidence-synthesis, ai-education, evaluation]
 confidence: high

@@ -1,6 +1,6 @@
 ---
 title: "Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs"
-created: 2026-06-16
+created: 2026-06-16T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [automated-grading, llm, formative-assessment, higher-ed, teacher-role, learning-analytics, student-experience, k-12]

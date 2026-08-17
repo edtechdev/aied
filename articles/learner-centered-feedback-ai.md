@@ -1,6 +1,6 @@
 ---
 title: "Enhancing learner-centered feedback with AI: teachers'' practices and perceptions"
-created: 2026-08-03
+created: 2026-08-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, feedback-loop, teacher-role, higher-ed, faculty-development, scaffolding, human-in-the-loop-ai, faculty-development-genai, rag]

@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: 2026-08-13
-updated: 2026-08-15
+updated: 2026-08-15T03:17:48-04:00
 type: concept
 tags: [self-efficacy, motivation, confidence, self-regulated-learning, student-experience, ai-literacy]
 confidence: high

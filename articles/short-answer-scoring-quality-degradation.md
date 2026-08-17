@@ -1,6 +1,6 @@
 ---
 title: "Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation"
-created: 2026-05-08
+created: 2026-05-08T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [automated-grading, formative-assessment, llm, benchmark, efficacy-study, human-in-the-loop-ai, assessment-validity, open-source]

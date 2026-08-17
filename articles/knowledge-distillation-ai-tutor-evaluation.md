@@ -1,6 +1,6 @@
 ---
 title: Knowledge Distillation for Automated AI Tutor Evaluation
-created: 2026-07-14
+created: 2026-07-14T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, automated-grading, llm, higher-ed, k-12]

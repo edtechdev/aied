@@ -1,6 +1,6 @@
 ---
 title: "The Illusion of Competence: Self-Perceived Digital Literacy and AI Readiness Among European Secondary Students"
-created: 2026-05-26
+created: 2026-05-26T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [k-12, ai-literacy, student-experience, equity, efficacy-study, genai-minoritized-knowledges-disability]

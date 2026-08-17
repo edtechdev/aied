@@ -1,6 +1,6 @@
 ---
 title: "Empowering Educators: Operationalizing Age-Old Learning Principles Using AI"
-created: 2026-08-16
+created: 2026-08-16T09:22:41-04:00
 updated: 2026-08-16
 type: article
 tags: [teacher-role, experiential-learning, situated-cognition, distributed-cognition, adaptive-learning, higher-ed, medical-education, instructional-design]

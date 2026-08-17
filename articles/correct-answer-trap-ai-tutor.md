@@ -1,6 +1,6 @@
 ---
 title: "Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning"
-created: 2026-05-28
+created: 2026-05-28T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, automated-grading, formative-assessment, llm, scaffolding, generative-ai, higher-ed, ai-literacy]

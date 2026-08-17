@@ -1,6 +1,6 @@
 ---
 title: "Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting"
-created: 2026-08-09
+created: 2026-08-09T08:25:18-04:00
 updated: 2026-08-09
 type: article
 tags: [automated-essay-scoring, prompt-engineering, llm, generative-ai, assessment, higher-ed, k-12, writing-education, ai-literacy]

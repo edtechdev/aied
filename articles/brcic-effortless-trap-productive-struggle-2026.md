@@ -1,6 +1,6 @@
 ---
 title: "The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning"
-created: 2026-08-15
+created: 2026-08-15T15:53:50-04:00
 updated: 2026-08-15
 type: article
 tags: [cognitive-load-theory, desirable-difficulties, over-reliance, cognitive-offloading, self-regulated-learning, scaffolding, reducing-ai-misuse, k-12, learning-gains]

@@ -1,6 +1,6 @@
 ---
 title: Interpretable Knowledge Tracing
-created: 2026-07-29
+created: 2026-07-29T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [knowledge-tracing, interpretability, student-modeling, cold-start-knowledge-tracing-safeinsights, item-response-theory, ai-tutoring, rag]

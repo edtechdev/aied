@@ -1,6 +1,6 @@
 ---
 title: Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition
-created: 2026-08-06
+created: 2026-08-06T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [k-12, privacy, multimodal, classroom, benchmark, ai-detection]

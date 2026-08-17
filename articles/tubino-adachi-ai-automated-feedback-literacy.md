@@ -1,6 +1,6 @@
 ---
 title: "Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool"
-created: 2026-08-15
+created: 2026-08-15T19:02:13-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-feedback-quality, feedback-loop, formative-assessment, self-regulated-learning, ai-literacy, higher-ed, teacher-role, writing-education, agency, scaffolding]

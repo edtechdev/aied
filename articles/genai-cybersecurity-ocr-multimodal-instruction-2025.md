@@ -1,6 +1,6 @@
 ---
 title: "Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-Assisted Instruction"
-created: 2026-08-13
+created: 2026-08-13T18:49:42-04:00
 updated: 2026-08-13
 type: article
 tags: [generative-ai, cybersecurity, llm, higher-ed, experiential-learning, instructional-assistant, stem-education]

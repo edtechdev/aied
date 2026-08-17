@@ -1,6 +1,6 @@
 ---
 title: "Artificial Intelligence as Catalyst and Contested Terrain: Transforming Interior Design Practice, Pedagogy, and Professional Regulation in Malaysia"
-created: 2026-08-12
+created: 2026-08-12T12:37:38-04:00
 updated: 2026-08-12
 type: article
 tags: [generative-ai, higher-ed, curriculum-design, professional-training, teacher-role, equity, policy]

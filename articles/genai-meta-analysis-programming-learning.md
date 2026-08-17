@@ -1,6 +1,6 @@
 ---
 title: A meta-analysis of the effect of generative AI on productivity and learning in programming
-created: 2026-05-06
+created: 2026-05-06T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [rct, efficacy-study, generative-ai, higher-ed, learning-gains, meta-analysis, regulation, writing-education, assessment-validity, llm]

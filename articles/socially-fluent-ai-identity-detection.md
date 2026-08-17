@@ -1,6 +1,6 @@
 ---
 title: Socially fluent AI decouples conversational signals from source identity in online interaction
-created: 2026-05-25
+created: 2026-05-25T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, over-reliance, student-experience, llm, affective-computing, rag, ai-tutoring]

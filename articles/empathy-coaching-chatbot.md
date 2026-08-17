@@ -1,6 +1,6 @@
 ---
 title: "Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions"
-created: 2026-06-30
+created: 2026-06-30T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [affective-computing, feedback-loop, llm, personalized-learning, student-experience, affective-tutoring]

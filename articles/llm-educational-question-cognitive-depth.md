@@ -1,6 +1,6 @@
 ---
 title: "From Memorization to Creation: Evaluating the Cognitive Depth of LLM-Generated Educational Questions"
-created: 2026-06-18
+created: 2026-06-18T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, generative-ai, automated-grading, assessment, writing-education, ai-literacy-assessment-misalignment, agentic-ai-ecosystems-higher-education, higher-ed, agentic-ai]

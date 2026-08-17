@@ -1,6 +1,6 @@
 ---
 title: "Special-R1: Reinforcement Learning for Special Education — Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training"
-created: 2026-06-01
+created: 2026-06-01T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, llm, special-education, personalized-learning, reinforcement-learning, k-12, scaffolding]

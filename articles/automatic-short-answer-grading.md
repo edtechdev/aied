@@ -1,6 +1,6 @@
 ---
 title: Automatic Short Answer Grading with LLMs
-created: 2026-05-07
+created: 2026-05-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [automated-grading, llm, formative-assessment, feedback-loop, higher-ed, learning-analytics, human-in-the-loop-ai, automated-assessment]

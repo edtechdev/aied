@@ -1,6 +1,6 @@
 ---
 title: "Metacognitive AI literacy: going beyond the AI skills gap agenda"
-created: 2026-08-10
+created: 2026-08-10T17:33:14-04:00
 updated: 2026-08-13
 type: article
 tags: [ai-literacy, metacognition, critical-thinking, higher-ed, ethics, ai-education, teacher-role, governance]

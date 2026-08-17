@@ -1,6 +1,6 @@
 ---
 title: "Validating AI-generated classroom observations: Reliability, accuracy, and limits of LLM-based pedagogical judgment"
-created: 2026-08-15
+created: 2026-08-15T15:16:58-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-ed-evaluation, educational-measurement, assessment-validity, automated-assessment, ai-feedback-quality, llm, teacher-role, faculty-development, professional-training, classroom-observation, reliability]

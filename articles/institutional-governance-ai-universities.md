@@ -1,6 +1,6 @@
 ---
 title: "Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools"
-created: 2026-08-09
+created: 2026-08-09T07:09:19-04:00
 updated: 2026-08-09
 type: article
 tags: [ai-education, higher-ed, regulation, policy, institutional-change, ai-literacy, survey, professional-training]

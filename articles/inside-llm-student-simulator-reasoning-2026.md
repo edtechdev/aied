@@ -1,6 +1,6 @@
 ---
 title: "INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators"
-created: 2026-08-13
+created: 2026-08-13T09:28:20-04:00
 updated: 2026-08-13
 type: article
 tags: [student-modeling, llm, intelligent-tutoring, learning-analytics, personalized-learning, ai-education, higher-ed]

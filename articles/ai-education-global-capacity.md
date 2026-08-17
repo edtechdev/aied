@@ -1,6 +1,6 @@
 ---
 title: "What AI in Education Needs Next: Lessons from Youth Leaders Across Five Countries"
-created: 2026-05-09
+created: 2026-05-09T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [policy-maker, equity, k-12, teacher-role, ai-literacy, teacher-ai-competency, equity-in-ai-education, faculty-development-genai, regulation]

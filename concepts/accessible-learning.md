@@ -1,7 +1,7 @@
 ---
 title: Accessible Learning
 created: 2026-08-09
-updated: 2026-08-15
+updated: 2026-08-15T10:24:06-04:00
 type: concept
 tags: [accessible-learning, equity, special-education, instructional-design, neurodiversity, universal-design-for-learning, ai-education, higher-ed]
 confidence: high

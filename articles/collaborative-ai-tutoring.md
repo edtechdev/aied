@@ -1,6 +1,6 @@
 ---
 title: Collaborative AI Tutoring
-created: 2026-05-07
+created: 2026-05-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [intelligent-tutoring, adaptive-learning, scaffolding, higher-ed, formative-assessment, learning-analytics, zone-of-proximal-development, affective-tutoring, adaptive-learning-systems, metacognition]

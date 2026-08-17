@@ -1,6 +1,6 @@
 ---
 title: "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages"
-created: 2026-08-13
+created: 2026-08-13T09:28:20-04:00
 updated: 2026-08-13
 type: article
 tags: [equity, multilingual-learning, language-learning, digital-divide, global-south, ai-education, inclusive-ai, higher-ed]

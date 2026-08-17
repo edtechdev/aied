@@ -1,6 +1,6 @@
 ---
 title: "AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education"
-created: 2026-08-15
+created: 2026-08-15T16:09:27-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-tutoring, math-education, intelligent-tutoring, adaptive-learning, personalized-learning, multi-agent, llm, generative-ai, socratic-method, rag, student-modeling, agentic-ai]

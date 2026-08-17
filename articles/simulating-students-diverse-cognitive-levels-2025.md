@@ -1,6 +1,6 @@
 ---
 title: "Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents"
-created: 2026-08-12
+created: 2026-08-12T22:10:30-04:00
 updated: 2026-08-12
 type: article
 tags: [simulating-students, generative-ai, llm, student-modeling, knowledge-graph, cognitive-diagnosis, agentic-ai, computational-thinking]

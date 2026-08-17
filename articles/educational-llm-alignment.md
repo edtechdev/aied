@@ -1,6 +1,6 @@
 ---
 title: Educational LLM Alignment
-created: 2026-05-07
+created: 2026-05-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, benchmark, efficacy-study, bias-mitigation, teacher-role, pedagogical-llm-training, faculty-development-genai, ai-literacy, ethics]

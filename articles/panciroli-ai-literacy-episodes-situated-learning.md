@@ -1,6 +1,6 @@
 ---
 title: "Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning"
-created: 2026-08-16
+created: 2026-08-16T09:22:41-04:00
 updated: 2026-08-16
 type: article
 tags: [ai-literacy, situated-learning, curriculum-design, instructional-design, k-12, experiential-learning, generative-ai]

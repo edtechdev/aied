@@ -1,6 +1,6 @@
 ---
 title: "ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education"
-created: 2026-05-08
+created: 2026-05-08T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [k-12, personalized-learning, intelligent-tutoring, llm, student-experience, self-regulated-learning, k-12, affective-tutoring, regulation]

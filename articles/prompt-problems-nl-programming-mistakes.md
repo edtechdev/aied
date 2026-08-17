@@ -1,6 +1,6 @@
 ---
 title: Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
-created: 2026-07-07
+created: 2026-07-07T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, cs-education, generative-ai, higher-ed, programming-its, prompt-engineering, scaffolding, student-experience, reshaping-cs-education-genai, llm]

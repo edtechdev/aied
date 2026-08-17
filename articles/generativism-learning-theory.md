@@ -1,6 +1,6 @@
 ---
 title: "Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence"
-created: 2026-06-12
+created: 2026-06-12T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, personalized-learning, scaffolding, higher-ed, self-regulated-learning, human-ai-collaboration, cognitive-offloading-llm-synthesis-writing, ai-literacy]

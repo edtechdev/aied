@@ -1,6 +1,6 @@
 ---
 title: "DeepTutor: Towards Agentic Personalized Tutoring"
-created: 2026-08-04
+created: 2026-08-04T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, agentic-ai, personalized-learning, intelligent-tutoring, rag, question-generation, adaptive-learning, tutoring-systems, generative-ai, automated-question-generation]

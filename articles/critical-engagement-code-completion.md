@@ -1,6 +1,6 @@
 ---
 title: "To Tab or Not to Tab: Measuring Critical Engagement in AI Code Completion Tools Using Behavioral Signals and Attention Checks"
-created: 2026-06-30
+created: 2026-06-30T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [formative-assessment, higher-ed, llm, stem-education, student-experience]

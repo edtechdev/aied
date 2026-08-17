@@ -1,6 +1,6 @@
 ---
 title: "HAIML: A Human-Centered AI Metacognitive Learning Model — A Framework for Human Agency and Reflective Learning in the Age of Artificial Intelligence"
-created: 2026-08-12
+created: 2026-08-12T12:37:38-04:00
 updated: 2026-08-12
 type: article
 tags: [metacognition, self-regulated-learning, human-in-the-loop, ai-literacy, cognitive-offloading, over-reliance, ethics, student-ai-interaction]

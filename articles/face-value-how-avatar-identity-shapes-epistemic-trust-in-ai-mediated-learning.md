@@ -1,6 +1,6 @@
 ---
 title: "Face value: How avatar identity shapes epistemic trust in AI-mediated learning"
-created: 2026-08-10
+created: 2026-08-10T17:08:30-04:00
 updated: 2026-08-10
 type: article
 tags: [algorithmic-bias, agent, language-learning, epistemic-agency, ai-education, ai-tutoring]

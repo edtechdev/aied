@@ -1,7 +1,7 @@
 ---
 title: Critical Pedagogy
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-16T09:34:46-04:00
 type: concept
 tags: [critical-pedagogy, equity, critical-thinking, ai-literacy, feminist, social-justice, agency, ethics, reducing-ai-misuse]
 confidence: high

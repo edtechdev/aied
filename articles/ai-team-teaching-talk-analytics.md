@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design"
-created: 2026-06-10
+created: 2026-06-10T12:17:35-04:00
 updated: 2026-08-15
 type: article
 tags: [active-learning, ai-education, higher-ed, learning-analytics, teacher-role, generative-ai, llm, student-experience, ai-literacy, stem-education]

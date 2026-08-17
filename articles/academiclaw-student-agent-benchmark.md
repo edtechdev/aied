@@ -1,6 +1,6 @@
 ---
 title: "AcademiClaw: When Students Set Challenges for AI Agents"
-created: 2026-05-11
+created: 2026-05-11T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [benchmark, higher-ed, llm, generative-ai, student-experience, pedagogical-llm-training, automated-grading, ai-tutoring, open-source]

@@ -1,6 +1,6 @@
 ---
 title: Toward Accessible Psychotherapy Training Using AI-Driven Interactive Patient Avatars
-created: 2026-06-18
+created: 2026-06-18T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, higher-ed, active-learning, feedback-loop, adaptive-virtual-patient-psychotherapy-training, professional-training]

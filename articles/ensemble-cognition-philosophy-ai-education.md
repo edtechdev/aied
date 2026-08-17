@@ -1,6 +1,6 @@
 ---
 title: "Towards a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments"
-created: 2026-08-16
+created: 2026-08-16T04:26:01-04:00
 updated: 2026-08-16
 type: article
 tags: [learning-theory, agency, metacognition, philosophy-of-education, ai-education, human-ai-collaboration, embodied-learning, higher-ed]

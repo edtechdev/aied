@@ -1,6 +1,6 @@
 ---
 title: "Making sense of AI feedback: how students' feedback literacy moderates the link between ChatGPT acceptance and self-regulated learning"
-created: 2026-08-15
+created: 2026-08-15T19:02:13-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-feedback-quality, self-regulated-learning, feedback-loop, formative-assessment, ai-literacy, trust-calibration, generative-ai, metacognition, k-12, moderation-study]

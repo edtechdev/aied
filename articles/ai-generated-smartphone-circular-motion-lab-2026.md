@@ -1,6 +1,6 @@
 ---
 title: "Studying Circular Motion with an AI-Generated Smartphone Physics Lab"
-created: 2026-08-13
+created: 2026-08-13T09:28:20-04:00
 updated: 2026-08-13
 type: article
 tags: [physics-education, mobile-learning, generative-ai, content-generation, stem-education, personalized-learning]

@@ -1,6 +1,6 @@
 ---
 title: "GIFT-AI: Teaching the Game and Leveling the Field: Peer and AI Review + Reflection in a Business Writing Course"
-created: 2026-08-13
+created: 2026-08-13T17:57:54-04:00
 updated: 2026-08-13
 type: article
 tags: [ai-feedback-quality, writing-education, ai-literacy, student-experience, peer-review, multilingual-writing, professional-writing, self-regulated-learning, metacognition, equity]

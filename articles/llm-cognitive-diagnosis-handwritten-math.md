@@ -1,6 +1,6 @@
 ---
 title: Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
-created: 2026-05-31
+created: 2026-05-31T12:17:35-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-ed-evaluation, knowledge-tracing, multimodal, benchmark, human-in-the-loop, critical-thinking, hallucination-risk, k-12, llm, generative-ai, math-education]

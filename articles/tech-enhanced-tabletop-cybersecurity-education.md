@@ -1,6 +1,6 @@
 ---
 title: "Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned"
-created: 2026-07-31
+created: 2026-07-31T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [edtech-platform, stem-education, higher-ed, professional-training, active-learning]

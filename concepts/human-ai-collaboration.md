@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: 2026-05-29
-updated: 2026-08-15
+updated: 2026-08-15T17:49:40-04:00
 type: concept
 tags: []
 confidence: medium

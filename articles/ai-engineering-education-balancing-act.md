@@ -1,6 +1,6 @@
 ---
 title: "Using AI in engineering education: a balancing act, driven by clear purpose"
-created: 2026-06-16
+created: 2026-06-16T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [higher-ed, llm, stem-education, student-experience, teacher-role, ai-literacy, learning-analytics, k-12]

@@ -1,6 +1,6 @@
 ---
 title: Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
-created: 2026-06-12
+created: 2026-06-12T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [equity, generative-ai, human-in-the-loop, k-12, llm, student-experience, human-ai-collaboration, ai-literacy, teacher-role]

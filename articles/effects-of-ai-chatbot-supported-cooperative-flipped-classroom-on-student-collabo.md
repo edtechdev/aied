@@ -1,6 +1,6 @@
 ---
 title: "Effects of AI chatbot-supported cooperative flipped classroom on student collaboration, self-regulated learning and academic performance: A mastery learning perspective"
-created: 2026-08-10
+created: 2026-08-10T17:08:30-04:00
 updated: 2026-08-10
 type: article
 tags: [self-regulated-learning, collaborative-learning, chatbot, epistemic-agency, ai-education, ai-tutoring]

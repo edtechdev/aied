@@ -1,6 +1,6 @@
 ---
 title: "GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics"
-created: 2026-06-03
+created: 2026-06-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, higher-ed, stem-education, faculty-development, educational-theory, math-education]

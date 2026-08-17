@@ -1,7 +1,7 @@
 ---
 title: Feedback Loop
 created: 2026-08-09
-updated: 2026-08-15
+updated: 2026-08-15T03:36:31-04:00
 type: concept
 tags: [formative-assessment, ai-feedback-quality, automated-grading, scaffolding, self-regulated-learning, ai-tutoring, learning-analytics, confidence-aware-ai-assessment]
 confidence: high

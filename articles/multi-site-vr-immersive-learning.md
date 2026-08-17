@@ -1,6 +1,6 @@
 ---
 title: Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
-created: 2026-06-10
+created: 2026-06-10T12:17:35-04:00
 updated: 2026-08-15
 type: article
 tags: [edtech-platform, active-learning, student-experience, higher-ed, engagement-metrics, generative-ai, llm, ai-literacy, stem-education, scaffolding]

@@ -1,6 +1,6 @@
 ---
 title: Uncovering Students' Mental Models of Generative Artificial Intelligence
-created: 2026-07-14
+created: 2026-07-14T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [student-experience, ai-literacy, generative-ai, metacognition, higher-ed, human-ai-collaboration]

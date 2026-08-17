@@ -1,6 +1,6 @@
 ---
 title: "Associations Between Generative AI–Based Pronunciation Feedback and Willingness to Communicate in English: The Mediating Role of English Pronunciation Self-Efficacy"
-created: 2026-08-13
+created: 2026-08-13T05:14:23-04:00
 updated: 2026-08-13
 type: article
 tags: [language-learning, generative-ai, ai-feedback-quality, self-regulated-learning, motivation, teacher-role, feedback-loop, personalized-learning]

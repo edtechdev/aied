@@ -1,6 +1,6 @@
 ---
 title: "Faculty Readiness for AI-Supported Teaching and Scalable Online Program Delivery in Higher Education: The EPIQ-AI Framework for Epistemic Integrity"
-created: 2026-04-02
+created: 2026-04-02T08:44:33-04:00
 updated: 2026-08-15
 type: article
 tags: [faculty-development, ai-literacy, higher-ed, academic-integrity, teacher-ai-competency, institutional-change-framework-ai, assessment-validity]

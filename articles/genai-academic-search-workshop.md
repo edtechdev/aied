@@ -1,6 +1,6 @@
 ---
 title: Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)
-created: 2026-06-10
+created: 2026-06-10T12:17:35-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, ai-literacy, policy-maker, higher-ed, student-experience, intelligent-tutoring, scaffolding, k-12, stem-education]

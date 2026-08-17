@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: 2026-08-09
-updated: 2026-08-16
+updated: 2026-08-16T10:19:32-04:00
 type: concept
 tags: [cognitive-offloading, cognitive-load-theory, over-reliance, ai-literacy, student-experience, generative-ai]
 confidence: high

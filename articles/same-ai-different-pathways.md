@@ -1,6 +1,6 @@
 ---
 title: "Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts"
-created: 2026-06-03
+created: 2026-06-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, cognitive-offloading, generative-ai, higher-ed, prompt-engineering]

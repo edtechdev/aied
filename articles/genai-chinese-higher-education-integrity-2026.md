@@ -1,6 +1,6 @@
 ---
 title: "Navigating the challenges of Gen-AI in Chinese higher education: Balancing technological innovation with academic integrity and intellectual engagement"
-created: 2026-08-16
+created: 2026-08-16T10:19:32-04:00
 updated: 2026-08-16
 type: article
 tags: [generative-ai, higher-ed, critical-thinking, academic-integrity, agency, philosophy-of-ai-in-education, student-experience]

@@ -1,6 +1,6 @@
 ---
 title: "Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness"
-created: 2026-08-03
+created: 2026-08-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, feedback-loop, student-experience, higher-ed, ai-literacy, engagement-metrics]

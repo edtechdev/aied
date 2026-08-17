@@ -1,6 +1,6 @@
 ---
 title: "Rethinking Higher Education: From Fixed Curricula to Learnity Graphs"
-created: 2026-08-11
+created: 2026-08-11T13:10:53-04:00
 updated: 2026-08-11
 type: article
 tags: [curriculum-design, lifelong-learning, higher-ed, knowledge-graph, personalized-learning, generative-ai, student-modeling, instructional-design]

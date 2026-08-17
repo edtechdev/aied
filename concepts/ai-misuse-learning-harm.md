@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: 2026-08-12
-updated: 2026-08-15
+updated: 2026-08-15T03:04:03-04:00
 type: concept
 tags: [over-reliance, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, generative-ai]
 confidence: high

@@ -1,7 +1,7 @@
 ---
 title: Student Experience with AI
 created: 2026-08-09
-updated: 2026-08-15
+updated: 2026-08-15T03:04:03-04:00
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, over-reliance, cognitive-offloading, equity, k-12]
 confidence: high

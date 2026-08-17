@@ -1,6 +1,6 @@
 ---
 title: "Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle"
-created: 2026-06-23
+created: 2026-06-23T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [feedback-loop, higher-ed, intelligent-tutoring, language-learning, teacher-role]

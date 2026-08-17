@@ -1,6 +1,6 @@
 ---
 title: "AI-Assisted Autonomous Learning and Reduced Academic Accomplishment in Vocational Higher Education: The Mediating Role of Hardiness"
-created: 2026-08-13
+created: 2026-08-13T05:23:56-04:00
 updated: 2026-08-13
 type: article
 tags: [generative-ai, over-reliance, ai-misuse-learning-harm, self-regulated-learning, higher-ed, motivation, cognitive-offloading, vocational-education]

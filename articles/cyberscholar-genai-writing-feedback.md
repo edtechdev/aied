@@ -1,6 +1,6 @@
 ---
 title: "Generative AI Feedback, English Writing and Teacher Rubrics: A Multiple-Case Study of CyberScholar"
-created: 2026-05-19
+created: 2026-05-19T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, llm, writing-education, k-12, formative-assessment, feedback-loop, teacher-role, human-in-the-loop-ai, retrieval-augmented-generation, rag]

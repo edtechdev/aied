@@ -1,6 +1,6 @@
 ---
 title: "Using the Pepper Robot to Support Sign Language Communication"
-created: 2026-08-13
+created: 2026-08-13T18:49:42-04:00
 updated: 2026-08-13
 type: article
 tags: [social-robots, sign-language, inclusive-education, human-robot-interaction, accessibility, special-education]

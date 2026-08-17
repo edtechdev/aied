@@ -1,6 +1,6 @@
 ---
 title: '"Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction"'
-created: 2026-08-10
+created: 2026-08-10T09:10:02-04:00
 updated: 2026-08-10
 type: article
 tags: [generative-ai, collaborative-learning, cognitive-offloading, metacognition, critical-thinking, ai-education, cscl]

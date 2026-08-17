@@ -1,6 +1,6 @@
 ---
 title: "Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education"
-created: 2025-01-26
+created: 2025-01-26T08:44:33-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-education, writing-education, k-12, ai-literacy, cognitive-offloading, learnlab, collaborative-learning]

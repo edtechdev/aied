@@ -1,6 +1,6 @@
 ---
 title: Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-created: 2026-08-06
+created: 2026-08-06T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [agentic-ai, design-thinking, higher-ed, scaffolding, student-ai-interaction, collaborative-learning]

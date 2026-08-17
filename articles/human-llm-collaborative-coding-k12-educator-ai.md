@@ -1,6 +1,6 @@
 ---
 title: Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
-created: 2026-08-03
+created: 2026-08-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, generative-ai, research-methods, teacher-ai-collaboration, teacher-ai-competency, human-ai-collaboration]

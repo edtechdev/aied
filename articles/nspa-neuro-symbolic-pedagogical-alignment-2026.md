@@ -1,6 +1,6 @@
 ---
 title: "Neuro-symbolic pedagogical alignment (NSPA) for long-horizon classroom discourse analysis: Mitigating dialect bias via counterfactual preference optimization"
-created: 2026-08-16
+created: 2026-08-16T10:19:32-04:00
 updated: 2026-08-16
 type: article
 tags: [educational-nlp, learning-analytics, bias-mitigation, equity-in-ai-education, ai-ed-evaluation, llm]

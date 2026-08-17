@@ -1,6 +1,6 @@
 ---
 title: "MotiBo: The Impact of Interactive Digital Storytelling Robots on Student Motivation Through Self-Determination Theory"
-created: 2026-08-13
+created: 2026-08-13T18:49:42-04:00
 updated: 2026-08-13
 type: article
 tags: [social-robots, storytelling, motivation, self-determination-theory, engagement, educational-robotics, creativity]

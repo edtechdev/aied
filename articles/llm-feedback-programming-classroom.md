@@ -1,6 +1,6 @@
 ---
 title: "LLM-Generated Feedback in Introductory Programming: A Classroom Study"
-created: 2026-06-09
+created: 2026-06-09T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [llm, formative-assessment, feedback-loop, stem-education, higher-ed, automated-grading, rag]

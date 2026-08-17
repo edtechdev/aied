@@ -1,6 +1,6 @@
 ---
 title: "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education"
-created: 2026-06-03
+created: 2026-06-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [ai-literacy, higher-ed, curriculum-design, ethics, instructional-design, personalized-learning, scaffolding, student-experience, mastery-learning, k-12]

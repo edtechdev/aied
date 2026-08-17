@@ -1,7 +1,7 @@
 ---
 title: Dual-Process Theory
 created: 2026-08-12
-updated: 2026-08-15
+updated: 2026-08-15T03:36:31-04:00
 type: concept
 tags: [cognitive-load-theory, metacognition, cognitive-offloading, decision-making, educational-measurement]
 confidence: high

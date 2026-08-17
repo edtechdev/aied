@@ -1,6 +1,6 @@
 ---
 title: "Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks"
-created: 2026-08-03
+created: 2026-08-03T04:33:04-04:00
 updated: 2026-08-15
 type: article
 tags: [generative-ai, scaffolding, equity, multilingual-learning, prompt-engineering, ai-literacy, k-12, metacognition]
