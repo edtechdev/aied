@@ -14,7 +14,7 @@ Ngai and Gilbert (2026) report two preregistered experiments testing whether a b
 
 ## The Intervention
 
-Participants completed a brief practice session (just **five trials**) in which they made metacognitive predictions about how well they would perform, then received feedback on their actual accuracy. This prediction-plus-feedback loop was designed to improve *calibration* — bringing confidence in line with true ability — rather than simply raising or lowering confidence wholesale. The training was delivered immediately before an "optimal offloading" task in which participants decided trial-by-trial between internal memory (max reward) and external reminders (reduced reward), allowing reminder bias to be quantified objectively against each individual's optimal strategy.
+Participants completed a brief practice session (just **five trials**) in which they made metacognitive predictions about how well they would perform, then received feedback on their actual accuracy. This prediction-plus-[[feedback-loop|feedback loop]] was designed to improve *calibration* — bringing confidence in line with true ability — rather than simply raising or lowering confidence wholesale. The training was delivered immediately before an "optimal offloading" task in which participants decided trial-by-trial between internal memory (max reward) and external reminders (reduced reward), allowing reminder bias to be quantified objectively against each individual's optimal strategy.
 
 ## Findings
 
