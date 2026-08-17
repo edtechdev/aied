@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 698 articles and 144 concepts.
+> Complete text of 699 articles and 144 concepts.
 
 # Articles
 
@@ -8564,7 +8564,7 @@ Poquet, O., Nanduri, M. S., Salinas Loyer, M. X., Stadler, M., Sailer, M., & Jov
 
 > Guo & Ye (2026) provide a comprehensive review of [[cognitive-offloading]] from a [[metacognition|metacognitive]] perspective, applying the distinction between metacognitive *beliefs* and metacognitive *experiences* within Nelson & Naren's dynamic model to explain why offloading interventions work in some phases but not others — and to derive targeted strategies for AI-assisted learning environments.
 
-Guo and Ye (2026) review the cognitive offloading literature through the lens of Nelson and Naren's dynamic metacognitive model, arguing that offloading decisions are a sophisticated, iterative metacognitive strategy rather than a simple tool-usage behavior. Their central contribution is applying the modern distinction between **metacognitive beliefs** (stable, domain-general self-conceptions stored in long-term memory) and **metacognitive experiences** (dynamic, task-specific feelings arising during performance) to reconcile the field's contradictory findings about feedback interventions and individual differences. The review is explicitly motivated by AI in education: advances in tools like ChatGPT enable more comprehensive cognitive offloading by providing personalized pacing and assistance, raising concerns about maladaptive tool reliance without metacognitive guidance.
+Guo and Ye (2026) review the cognitive offloading literature through the lens of Nelson and Naren's dynamic metacognitive model, arguing that offloading decisions are a sophisticated, iterative metacognitive strategy rather than a simple tool-usage behavior. Their central contribution is applying the modern distinction between **metacognitive beliefs** (stable, domain-general self-conceptions stored in long-term memory) and **metacognitive experiences** (dynamic, task-specific feelings arising during performance) to reconcile the field's contradictory findings about feedback interventions and individual differences. The review is explicitly motivated by [[ai-education|AI in education]]: advances in tools like ChatGPT enable more comprehensive cognitive offloading by providing personalized pacing and assistance, raising concerns about maladaptive tool reliance without metacognitive guidance.
 
 ## The Dynamic Metacognitive Framework
 
@@ -8598,11 +8598,11 @@ A key distinction with direct educational stakes: offloading can be **substituti
 
 ## Educational Implications and Interventions
 
-Metacognitive interventions (mindfulness, feedback, the ARDESOS-DIAPROVE problem-based learning program) enhance students' self-monitoring and regulation, helping them recognize when offloading is needed and manage learning processes. Educators can encourage reflection and discussion, provide specific offloading strategy training, and offer personalized feedback. The review emphasizes measuring metacognitive sensitivity (meta-d'), efficiency, and bias via signal detection frameworks to move beyond simple confidence metrics — providing tools for educational evaluation and personalized instructional design. This gives [[ai-literacy|AI literacy]] educators a theoretically grounded basis for teaching students *when* to offload to AI tools and when to do the cognitive work themselves.
+Metacognitive interventions (mindfulness, feedback, the ARDESOS-DIAPROVE problem-based learning program) enhance students' self-monitoring and regulation, helping them recognize when offloading is needed and manage learning processes. Educators can encourage reflection and discussion, provide specific offloading strategy training, and offer personalized feedback. The review emphasizes measuring metacognitive sensitivity (meta-d'), efficiency, and bias via signal detection frameworks to move beyond simple confidence metrics — providing tools for educational evaluation and personalized [[instructional-design|instructional design]]. This gives [[ai-literacy|AI literacy]] educators a theoretically grounded basis for teaching students *when* to offload to AI tools and when to do the cognitive work themselves.
 
 ## Connections to the Wiki
 
-This review strengthens the theoretical foundation of the wiki's [[cognitive-offloading]] concept page, converging with [[metacognition]], [[over-reliance]], [[self-regulated-learning]], and [[ai-literacy]]. Its beliefs-vs-experiences framework gives offloading research a phase-contingent, falsifiable account of when interventions work, directly relevant to designing metacognitive scaffolds around generative AI tools.
+This review strengthens the theoretical foundation of the wiki's [[cognitive-offloading]] concept page, converging with [[metacognition]], [[over-reliance]], [[self-regulated-learning]], and [[ai-literacy]]. Its beliefs-vs-experiences framework gives offloading research a phase-contingent, falsifiable account of when interventions work, directly relevant to designing metacognitive scaffolds around [[generative-ai|generative AI]] tools.
 
 ## Connected Concepts
 
@@ -16108,19 +16108,19 @@ Reardon, C. (2026). [*HAIML: A human-centered AI metacognitive learning model �
 
 ## [Designing for Reach: Seven Levers and the Student Alone with AI](https://edtechdev.github.io/aied/articles/halani-designing-for-reach-2026/)
 
-> **Synthesis:** Halani (2026) proposes a course-design framework of **seven levers** through which a teacher shapes the environment in which students decide what to do with a machine that answers. The key innovation is **Reach**: which lever settings remain in force in the unsupervised moment — the student alone at night and stuck, with AI one tab away — where nearly all free choice about AI is exercised. None of the levers are new or AI-specific; what the framework adds is asking each lever how far it reaches when the teacher is absent. Three classroom configurations (think-first, direct-instruction, Harkness) illustrate coherent lever settings, and a mapping to Schoenfeld's Teaching for Robust Understanding dimensions shows the levers describe environments for thinking with or without the machine.
+> **Synthesis:** Halani (2026) proposes a [[instructional-design|course-design]] framework of **seven levers** through which a teacher shapes the environment in which students decide what to do with a machine that answers. The key innovation is **Reach**: which lever settings remain in force in the unsupervised moment — the student alone at night and stuck, with AI one tab away — where nearly all free choice about AI is exercised. None of the levers are new or AI-specific; what the framework adds is asking each lever how far it reaches when the teacher is absent. Three classroom configurations (think-first, direct-instruction, Harkness) illustrate coherent lever settings, and a mapping to Schoenfeld's Teaching for Robust Understanding dimensions shows the levers describe environments for thinking with or without the machine.
 
-Generative AI can supply the distilled product of reasoning without the thinking. The framework addresses a design question at the heart of AI in education: what, in the course environment, still makes the thinking worth doing when the student is alone? It sits inside Schoenfeld's (2022) "learning environment" circle, asking what a teacher can actually adjust given a machine available to every student at every hour.
+[[generative-ai|Generative AI]] can supply the distilled product of reasoning without the thinking. The framework addresses a design question at the heart of [[ai-education|AI in education]]: what, in the course environment, still makes the thinking worth doing when the student is alone? It sits inside Schoenfeld's (2022) "learning environment" circle, asking what a [[teacher-role|teacher]] can actually adjust given a machine available to every student at every hour.
 
 ## The seven levers
 
 A **lever** is a recurring, configurable feature of the course environment that may influence what students do with or without supervision. Each lever has a diagnostic question:
 
-1. **Structure — what pays:** What feedback is given, what do assessments look like, what earns the grade, and what evidence does the grade require? The grading architecture is the certifying lever: whatever the grade certifies becomes what students take the subject to be. A grade that certifies replication invites replication; one whose top requires retention and transfer invites something else. Reach comes through what students *believe* will count.
+1. **Structure — what pays:** What [[feedback]] is given, what do [[assessment|assessments]] look like, what earns the grade, and what evidence does the grade require? The grading architecture is the certifying lever: whatever the grade certifies becomes what students take the subject to be. A grade that certifies replication invites replication; one whose top requires retention and [[transfer-of-learning|transfer]] invites something else. Reach comes through what students *believe* will count.
 2. **Material — what they work on and when:** Does the task ask students to think their way through content, or can the result be produced without that thinking? Whether a task is a problem or an exercise depends on the solver's relationship to it, not its text (Schoenfeld 2022). A discovery task may be emptied by a result produced without thinking.
 3. **Practice — how the room runs:** Who is doing the thinking, where, and does every student think actively about each task? Grouping, workspaces, and the ordering of modes (demonstration-before-attempt vs. attempt-first).
-4. **Response — what gets said back:** Who responds to student work (teacher, peers, a tool, or the learner), and does the response return the work or complete it? The key distinction is help that keeps the solver in charge versus help that takes the problem over. This lever names the fourth agent (the delegated tool) alongside Wiliam & Thompson's (2007) teacher, peer, and learner.
-5. **Norms — what is normal:** What is normal to do, admit, claim, ask; and what propagates student-to-student without the teacher — including, now, ways of prompting AI.
+4. **Response — what gets said back:** Who responds to student work (teacher, peers, a tool, or the learner), and does the response return the work or complete it? The key distinction is [[scaffolding|help]] that keeps the solver in charge versus help that takes the problem over. This lever names the fourth agent (the delegated tool) alongside Wiliam & Thompson's (2007) teacher, peer, and learner.
+5. **Norms — what is normal:** What is normal to do, admit, claim, ask; and what propagates student-to-student without the teacher — including, now, ways of [[prompt-engineering|prompting AI]].
 6. **Frame — what they understand about why:** What students believe about why the course is built this way and what the subject is for. Frame is credible only where the other levers corroborate it — telling students process matters while the gradebook rewards product asks them to believe words over architecture.
 7. **Relationship — what is safe:** Does the student know the teacher wants to know them; is confusion safe to show? Relationship makes the risks requested by the other levers tolerable (presenting a wrong attempt, admitting confusion). As Sal Khan noted on Khanmigo's low adoption, the biggest lever is "investing in the human systems."
 
@@ -16133,27 +16133,27 @@ Three general observations: every classroom has a setting on all seven levers (d
 - To value process over product, one could tell students process matters (Frame), but a larger-reach move is making the product less valuable (Structure).
 - To keep students out of a pitfall, one could warn them (Frame), but a higher-reach move is a task the pitfall does not work on (Material).
 
-The gap between what a design produces under supervision and what it produces once the tool is gone has been measured directly (Rismanchian et al. 2026; Wong & Qiu 2026): in a "think first, ChatGPT later" study, the free-ChatGPT group produced the most creative work on the assisted task but fell back to baseline on a later no-ChatGPT task, while the think-first group produced more creative responses.
+The gap between what a design produces under supervision and what it produces once the tool is gone has been measured directly (Rismanchian et al. 2026; Wong & Qiu 2026): in a "think first, ChatGPT later" study, the free-ChatGPT group produced the most [[creativity|creative]] work on the assisted task but fell back to baseline on a later no-ChatGPT task, while the think-first group produced more creative responses.
 
 ## Three illustrative configurations
 
 The same levers can be set coherently in pursuit of different aims (all three are classrooms the author has taught):
 
-- **Think-first classroom** (aims: curiosity, perseverance, collaboration, ownership) — the configuration built explicitly with reach in mind. Standards-based Structure with no grades until the end; in-class tasks where the thinking cannot be skipped; students work on vertical surfaces; responses return the work; norms make not-knowing sayable; declining the tool is not the goal — success is when a student, having located where their reasoning stalled, brings the machine that difficulty rather than the whole problem.
-- **Direct-instruction classroom** (aims: confidence, fluency, content mastery) — points accumulate steadily; worked examples before practice; "I do, we do, you do"; immediate correction. High reach on Structure and Material (points and near-transfer tests persist at 10 p.m.), but that reach protects an aim the machine can now reach too: where assessment items resemble practiced ones, a solution with different numbers can be produced without the reasoning.
-- **Harkness classroom** (aims: communication, ownership, meaning-making) — the first thinking happens alone at home; students present attempts around the table; a spiraled problem set. Its classroom Practice reaches backward into the home moment only indirectly, through the student's anticipation of presenting and explaining — which depends on how fully Norms, Frame, Structure, and Relationship have traveled.
+- **Think-first classroom** (aims: curiosity, perseverance, [[collaborative-learning|collaboration]], [[agency|ownership]]) — the configuration built explicitly with reach in mind. Standards-based Structure with no grades until the end; in-class tasks where the thinking cannot be skipped; students work on vertical surfaces; responses return the work; norms make not-knowing sayable; declining the tool is not the goal — success is when a student, having located where their reasoning stalled, brings the machine that difficulty rather than the whole problem.
+- **Direct-instruction classroom** (aims: confidence, fluency, content mastery) — points accumulate steadily; worked examples before practice; "I do, we do, you do"; immediate correction. High reach on Structure and Material (points and [[transfer-of-learning|near-transfer]] tests persist at 10 p.m.), but that reach protects an aim the machine can now reach too: where assessment items resemble practiced ones, a solution with different numbers can be produced without the reasoning.
+- **Harkness classroom** (aims: communication, [[agency|ownership]], meaning-making) — the first thinking happens alone at home; students present attempts around the table; a spiraled problem set. Its classroom Practice reaches backward into the home moment only indirectly, through the student's anticipation of presenting and explaining — which depends on how fully Norms, Frame, Structure, and Relationship have traveled.
 
 Reach sorts the three more sharply than exposure: all are exposed in different places, but only the think-first design is set intentionally so the levers reach the unsupervised moment.
 
 ## Relationship to existing research
 
-The framework sits in a lineage of enumerating classrooms' adjustable dimensions — Ames's (1992) six motivation structures, van den Akker's (2003) curriculum components — distributing those among the levers. What it adds is *scale* (levers are set and read at the scale of a course) and the *Reach question*. Its nearest neighbor is the assessment-redesign literature: Corbin, Dawson & Liu (2025) argue discursive changes cannot secure assessment in an age of generative AI and that structural changes are needed; Reach asks that question of full course design rather than assessment alone.
+The framework sits in a lineage of enumerating classrooms' adjustable dimensions — Ames's (1992) six [[motivation]] structures, van den Akker's (2003) curriculum components — distributing those among the levers. What it adds is *scale* (levers are set and read at the scale of a course) and the *Reach question*. Its nearest neighbor is the assessment-redesign literature: Corbin, Dawson & Liu (2025) argue discursive changes cannot secure [[assessment]] in an age of [[generative-ai]] and that structural changes are needed; Reach asks that question of full [[instructional-design|course design]] rather than assessment alone.
 
-The levers are domain-general and not AI-specific: mapping them to Schoenfeld's Teaching for Robust Understanding dimensions (rich content, cognitive demand, equitable access, agency/ownership, formative assessment) shows the same levers describe environments for thinking with or without the machine.
+The levers are domain-general and not AI-specific: mapping them to Schoenfeld's Teaching for Robust Understanding dimensions (rich content, cognitive demand, equitable access, [[agency|agency/ownership]], [[formative-assessment|formative assessment]]) shows the same levers describe environments for thinking with or without the machine.
 
 ## Implications for AI in education
 
-- **Design the unsupervised moment, not just the supervised one:** course design should ask how far each lever reaches when the student is alone — that is where free choice about AI is exercised.
+- **Design the unsupervised moment, not just the supervised one:** [[instructional-design|course design]] should ask how far each lever reaches when the student is alone — that is where free choice about AI is exercised.
 - **Structural changes beat discursive ones:** telling students process matters (Frame) is weakly reaching; changing what pays (Structure) or what cannot be done without thinking (Material) reaches further.
 - **Norms propagate to AI:** a student who has internalized "take ideas you can reconstruct, not answers you can copy" applies it to both a classmate's notebook and a chatbot — the norm is about what help is for, not the source.
 - **The machine changes the calculus of "reaching" aims:** a direct-instruction design that once built fluency can now be short-circuited by the very tool, because its reach protects an aim the machine can reach too.
@@ -22326,7 +22326,7 @@ Ngai and Gilbert (2026) report two preregistered experiments testing whether a b
 
 ## The Intervention
 
-Participants completed a brief practice session (just **five trials**) in which they made metacognitive predictions about how well they would perform, then received feedback on their actual accuracy. This prediction-plus-feedback loop was designed to improve *calibration* — bringing confidence in line with true ability — rather than simply raising or lowering confidence wholesale. The training was delivered immediately before an "optimal offloading" task in which participants decided trial-by-trial between internal memory (max reward) and external reminders (reduced reward), allowing reminder bias to be quantified objectively against each individual's optimal strategy.
+Participants completed a brief practice session (just **five trials**) in which they made metacognitive predictions about how well they would perform, then received feedback on their actual accuracy. This prediction-plus-[[feedback-loop|feedback loop]] was designed to improve *calibration* — bringing confidence in line with true ability — rather than simply raising or lowering confidence wholesale. The training was delivered immediately before an "optimal offloading" task in which participants decided trial-by-trial between internal memory (max reward) and external reminders (reduced reward), allowing reminder bias to be quantified objectively against each individual's optimal strategy.
 
 ## Findings
 
@@ -31028,6 +31028,83 @@ Xu, K., Zhang, Q., Zhang, Y., Xu, H., Pi, Z., & Yang, J. (2026). [*The synergy o
 
 ---
 
+## [Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity](https://edtechdev.github.io/aied/articles/think-first-chatgpt-later-2026/)
+
+> **Synthesis:** Wong and Qiu (2026) ask whether ChatGPT's boost to [[creativity|creative performance]] translates into durable learning, or only inflates assisted output. University students (N = 196) solved a product-improvement task either independently (human-only), using ChatGPT freely (general-AI), or with a guided **"think first, ChatGPT later"** approach (regulated-AI) in which they first generated their own ideas, then collaborated with ChatGPT to improve, develop, and evaluate them. On the assisted task the general-AI group produced more creative solutions — but this advantage vanished on a later, harder invention task completed without ChatGPT, where their creativity fell back to human-only levels. In striking contrast, the regulated-AI group, despite no immediate gains, outperformed both other groups in *independent* creativity afterward. Process analyses showed the regulated-AI group used far more [[human-ai-collaboration|collaborative]] prompts aimed at improving their own initial ideas, and this greater use mediated their later advantage in independent originality.
+
+## Performance versus learning
+
+The study foregrounds the distinction between **performance** (transient, assisted behavior) and **learning** (durable change that persists when assistance is removed). The authors argue this distinction is often neglected in [[generative-ai|generative AI]] research, which tends to measure students' performance on the *assisted* task rather than their later unassisted transfer. Freely using ChatGPT may raise immediate output while students merely **appropriate** its responses — outsourcing the thinking rather than developing it — a dynamic consistent with the [[over-reliance]] and [[cognitive-offloading]] literatures.
+
+## The "think first, ChatGPT later" approach
+
+To move students from *editing* AI output toward *co-creating* with it, the intervention structured the task into three phases:
+
+1. **Think first (Phase 1):** students independently brainstorm and generate their own initial ideas.
+2. **Collaborate (Phase 2):** students work with ChatGPT as a brainstorming and [[feedback]] partner to improve, develop, and evaluate their own ideas, guided by sample prompts that scaffold [[metacognition|metacognitive]] and creative processes (seeking refinements, elaborating, connecting ideas, identifying weaknesses, comparing, and refining).
+3. **Select (Phase 3):** students independently refine and submit their single best solution.
+
+This design operationalizes [[human-ai-collaboration|co-creation]] — the human sets the direction and contributes original ideas while AI amplifies them — rather than either dictating to or merely editing the machine.
+
+## Findings
+
+A 3 × 2 mixed ANOVA revealed a striking crossover interaction:
+
+- **On the assisted product-improvement task**, the general-AI group produced more original and useful solutions than both the human-only and regulated-AI groups. The regulated-AI group showed *no* immediate advantage — consistent with [[desirable-difficulties|desirable difficulties]], where effortful process can temporarily suppress performance.
+- **On the later unassisted product-invention task**, the regulated-AI group outperformed both other groups in originality and usefulness. The general-AI group's creativity declined to human-only levels — its benefit was **transient performance, not learning**.
+- **Elaboration did not confound results:** the regulated-AI group's solutions were *less* elaborate during the intervention, yet more creative afterward.
+
+**Process analysis** of ChatGPT transcripts explained the mechanism. The regulated-AI group used collaborative prompts for 88.6% of its interactions (mostly "improve own initial ideas" and "develop selected ideas"), whereas 70.9% of the general-AI group's prompts were non-collaborative — most (59.6%) simply asking ChatGPT to generate ideas outright. Greater use of "improve own initial ideas" prompts was the only prompt type significantly correlated with later independent originality, and mediation analysis confirmed it accounted for the regulated-AI group's advantage.
+
+## Why free use fails: outsourcing divergent thinking
+
+The general-AI group's pattern reflects a default of "[[metacognition|metacognitive]] laziness": rather than engaging the [[creativity|divergent thinking]] that underpins original idea generation, students outsourced it wholesale to ChatGPT, investing less mental effort. Generating one's own ideas first forces the divergent phase of creative problem-solving, and then using ChatGPT to *improve* those ideas exercises [[self-regulated-learning|self-regulated]] refinement and evaluation. Notably, simply working alone (the human-only group) did **not** confer the same benefit — the human-only group declined on the harder invention task — so collaboration with ChatGPT added learning value beyond independent effort, consistent with *redefinition* effects of AI.
+
+## Practical implications
+
+- **Structure AI use around a "think first, ChatGPT later" sequence** to convert assisted performance into durable independent learning and creativity.
+- **Guide interaction, not just access:** provide sample [[prompt-engineering|prompts]] that position ChatGPT as a brainstorming and feedback partner rather than an answer provider.
+- **Support metacognition:** because students often overestimate how much they "came up with" versus copied from AI, feedback and automated originality scoring can improve metacognitive accuracy.
+- **Design assessments to reach the unassisted moment:** the finding aligns with the course-design insight that an AI-resistant environment must make the unsupervised moment productive — the gap measured here is the same one Halani's [[halani-designing-for-reach-2026|Reach framework]] targets.
+
+## Relationship to existing research
+
+The findings sit alongside work on [[over-reliance]] and AI-assisted learning that shows free AI use can erode durable gains, and extend the [[human-ai-collaboration]] and co-creation literature with an experimental demonstration that guided collaboration beats both solo and free-AI conditions. It also provides direct experimental evidence for the "performance–learning" gap in [[generative-ai|generative AI]] education, and connects to [[ai-literacy|AI literacy]] frameworks (e.g., ED-AI Lit's collaboration component) as a candidate practice for integration.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[human-ai-collaboration]]
+- [[creativity]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[cognitive-offloading]]
+- [[over-reliance]]
+- [[prompt-engineering]]
+- [[desirable-difficulties]]
+- [[scaffolding]]
+- [[transfer-of-learning]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[ai-availability-student-motivation]] — How AI Availability Shapes Students' Motivation
+- [[cognitive-offloading-speedup-illusion]] — Cognitive Offloading and the Speedup Illusion
+- [[cognitive-offloading-llm-synthesis-writing]] — Cognitive Offloading in LLM-Assisted Writing
+- [[generative-refusal-ai-tools-for-thought]] — Generative Refusal: AI Tools for Thought
+- [[learning-by-chatting-genai-impact]] — Learning by Chatting? GenAI Impact
+- [[correct-answer-trap-ai-tutor]] — The Correct-Answer Trap in AI Tutoring
+- [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors
+- [[student-cheat-sheets-make-or-take]] — Make or Take: Student Cheat Sheets
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
+
+## Citation
+
+Wong, S. S. H., & Qiu, S. X. (2026). [*Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity*](https://doi.org/10.1007/s10648-026-10118-7). *Educational Psychology Review*, 38(45). https://doi.org/10.1007/s10648-026-10118-7
+
+---
+
 ## [TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions](https://edtechdev.github.io/aied/articles/tibetcpr-ai-training-feedback/)
 
 **Yibo Meng, Ruiqi Chen, Zhiming Liu, Xiaolan Ding** — Accepted at MobileHCI 2026 — cs.HC
@@ -35265,6 +35342,7 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 - **Amplification:** AI can act as a divergent-thinking partner — brainstorming alternatives, generating counterarguments, and offering perspectives the learner might not consider. Role-specialized multi-agent configurations can restore ideational diversity.
 - **Homogenization risk:** single-model assistance can reduce the diversity of ideas across students, so the same model produces convergent outputs. This is a direct threat to creativity in [[writing-education]] and design education.
 - **Protecting creative agency:** keeping the learner's generative process in the loop — draft-first routines, requiring original synthesis, and using AI to challenge rather than replace — preserves the creative work that produces durable learning.
+- **Think-first collaboration sustains independent creativity:** Wong and Qiu (2026) found that students who generated their own ideas *before* using ChatGPT (a "think first, ChatGPT later" protocol) showed no immediate boost on the assisted task, yet outperformed both a free-AI group and a human-only group on a later unassisted creativity task. Freely using ChatGPT produced only transient performance that collapsed when assistance was removed — a form of [[over-reliance]] rather than learning — whereas collaborative [[human-ai-collaboration|co-creation]] aimed at improving one's *own* ideas yielded durable gains in independent creativity. This gives direct experimental evidence that protecting creative agency is not merely desirable but is what converts AI-assisted work into learning.
 
 ### Connections
 
@@ -35284,6 +35362,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 ## Connected Articles
 
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
+- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
 - [[ai-collaborative-learning-skills-impacts]] — AI and Collaborative Learning: Impacts on Creativity
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
@@ -37274,6 +37353,7 @@ Human-AI collaboration describes how learners, teachers, and AI systems divide [
 - **Orchestration and agency:** [[teacher-student-agency-orchestration|Teacher–student agency orchestration]] and [[student-mental-models-genai|student mental models]] address how agency is negotiated across humans and AI, connecting to [[human-in-the-loop-ai]] and [[agentic-ai]].
 - **Metacognitive and team dimensions:** [[haiml-human-centered-ai-metacognitive-model-2026|Human-centered AI metacognitive models]] and [[spritz-ai-disciplinary-mediation-student-teams-2026|disciplinary mediation in student teams]] extend collaboration to metacognition and team learning.
 - **Distinct collaboration modes:** empirical work identifies three human–AI collaborative problem-solving modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration* — revealing a trade-off between the efficiency of the distributed human–AI system and the depth of learners' self-regulatory engagement (delegated reasoning performs best but with lower self-regulation).^[[hao-human-ai-collaborative-problem-solving-cognition]]
+- **Guidance decides performance versus learning:** Wong and Qiu (2026) contrasted free vs. guided human–AI collaboration on a creative task. Freely collaborating with ChatGPT produced only transient performance that collapsed on a later unassisted task, whereas a guided "think first, ChatGPT later" protocol — generating one's own ideas, then using ChatGPT to improve, develop, and evaluate them — yielded durable gains in *independent* [[creativity|creativity]]. The advantage was mediated by collaborative prompts aimed at improving one's *own* ideas, showing that *who generates* (the division of labor) predicts whether collaboration produces [[self-regulated-learning|learning]] or [[over-reliance|substitution]].^[[think-first-chatgpt-later-2026]]
 - **AI as mediator, not merely partner:** [[niari-ai-pedagogical-mediator-collaborative-learning|Niari]] reconceptualises AI as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors rather than treating AI as a tutor, peer, or tool.
 - **Community and epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|community-based AI learning]] shows collaboration is also a question of *who is authoritative*, grounding AI engagement in learners' lived epistemologies.
 - **Data-driven trait discovery:** [[principal-trait-analysis-human-ai-skills-2026|Principal Trait Analysis (PTA)]] automates the derivation of interaction "traits" from large LLM-conversation corpora — a PCA-inspired, four-stage pipeline that extracts behavior observations, clusters them into candidate traits, scores each collaborator, and selects the most distinguishing traits. Evaluated on a student–AI-tutor corpus and a developer–coding-agent corpus, PTA finds traits that explain and predict outcomes (e.g. deep conceptual engagement positively, task delegation negatively, in the educational setting), and — because they do not yet generalize across semesters/settings or show learning-curve trajectories — the authors argue the traits are not yet interpretable as "skills." This offers a scalable, objective complement to [[ai-literacy]] frameworks and self-report measures, directly informing how educators teach "AI use skills."
@@ -37296,7 +37376,9 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[student-experience]]
 - [[metacognition]]
 - [[self-regulated-learning]]
+- [[creativity]]
 ## Connected Articles
+- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
 - [[principal-trait-analysis-human-ai-skills-2026]] — Data-driven "traits" of human–AI collaboration
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[haiml-human-centered-ai-metacognitive-model-2026]]

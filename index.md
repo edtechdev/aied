@@ -1,6 +1,6 @@
 # AI Ed Wiki
 > Knowledge base on artificial intelligence in education — research, pedagogy, policy, and practice.
-**Last updated:** 2026-08-16 | **Total pages:** 842
+**Last updated:** 2026-08-17 | **Total pages:** 843
 ---
 ## Quick Links
 
@@ -798,6 +798,7 @@
 - [[text-simplification-its]] — Text Simplification for Intelligent Tutoring
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education
 - [[the-synergy-of-pedagogical-agents-and-metaphorical-design-reducing-psychological]] — The synergy of pedagogical agents and metaphorical design: Reducing psychological distance to enhance video learning
+- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity
 - [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
 - [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 - [[tpack]] — Technological Pedagogical Content Knowledge (TPACK)
