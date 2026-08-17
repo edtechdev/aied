@@ -1,5 +1,5 @@
 # AI in Education Wiki — Full Content
-> Complete text of 707 articles and 137 concepts.
+> Complete text of 710 articles and 137 concepts.
 
 # Articles
 
@@ -22147,6 +22147,47 @@ Pei-Yu Tseng, Mahir Akgun, Peng Liu (2026). [Why Machines Misread Pedagogical Qu
 
 ---
 
+## [Making AI Tutoring Productive: Evidence from a Mastery-Based Math Practice Experiment](https://edtechdev.github.io/aied/articles/making-ai-tutoring-productive-mastery-math-2026/)
+
+> **Making AI tutoring productive depends on the structure that surrounds it** — not just the model. In a randomized field experiment with 6,000+ middle-school students using NUMI, a research-based computer-assisted learning platform, students assigned to AI support progressed more slowly and attempted fewer questions, but answered more accurately and — the clearest mechanism — **improved their next-attempt correctness after mistakes**, needing fewer attempts to return to a correct answer while spending more time on each structured question. This is a "productive slowdown": AI that coaches rather than gives answers takes time, but turns mistakes into learning. Notably, a mastery rule (three-correct-in-a-row) sharply increased platform-defined success without by itself improving delayed learning — a short-run streak is **not** the same as durable understanding. The strongest delayed-test evidence emerged when AI was embedded in the mastery workflow, concentrated on practiced material.
+
+## Key Findings
+
+- **AI slows progress but improves conditional accuracy.** Students randomized to AI support completed fewer questions and progressed more slowly through the assignment, but were more accurate conditional on reaching an attempt — consistent with an AI tutor that scaffolds rather than simply supplies answers.
+- **The clearest mechanism is post-mistake recovery.** AI increased next-attempt correctness after errors and reduced the attempts needed to return to a correct answer, while increasing clock time per question under structured support — the sense in which AI created a **productive slowdown** rather than shallow answer-grabbing.
+- **The "mastery puzzle."** Requiring three correct answers in a row substantially raised platform-defined mastery and practice, yet did **not by itself** produce detectable delayed-test gains one week later. Reaching a short-run streak is an imperfect proxy for durable understanding — some students clear the threshold through repeated exposure, luck, or guessing rather than comprehension.
+- **AI's value is conditional on structure.** The most encouraging delayed-test evidence appeared when AI was embedded in the mastery workflow (Mastery × AI practiced-delayed coefficient 0.085), with marginally significant gains concentrated on practiced Exercise 1 material. AI access alone added little; AI paired with a structured workflow that makes mistakes consequential is where the value lives.
+- **Practical implication:** designing AI tutoring productively means embedding the tutor in the practice environment, surfacing help at moments of need, and pairing it with progression rules that make errors matter — turning [[cognitive-offloading|effort avoidance]] into productive [[scaffolding|scaffolded]] struggle.
+
+## Connected Concepts
+
+- [[intelligent-tutoring]]
+- [[cognitive-offloading]]
+- [[scaffolding]]
+- [[adaptive-learning]]
+- [[math-education]]
+- [[k-12]]
+- [[edtech-platform]]
+- [[learning-gains]]
+- [[feedback]]
+- [[formative-assessment]]
+- [[metacognition]]
+- [[help-seeking]]
+
+## Connected Articles
+
+- [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[genai-performance-vs-learning]] — Distinguishing performance from learning
+- [[generative-ai-guardrails-harm-learning]] — GenAI guardrails and learning harm
+- [[ai-tutoring-quality-k12-methodologies-2026]] — Improving AI tutoring quality in K-12
+
+## Citation
+
+Oreopoulos, P., Liut, M., Sungu, A., & Low, N. (2026). *[Making AI tutoring productive: Evidence from a mastery-based math practice experiment](https://www.nber.org/papers/w35621)* (NBER Working Paper No. 35621). National Bureau of Economic Research.
+
+---
+
 ## [Talking mathematics with AI: Understanding teachers' motivation for utilizing chatbots](https://edtechdev.github.io/aied/articles/mathematics-teachers-chatbot-motivation-2026/)
 
 > **Synthesis:** Weinhandl and colleagues (2026) examine what motivates Austrian secondary [[math-education]] teachers to use AI chatbots for teaching, within the Unified Theory of Acceptance and Use of Technology (UTAUT) framework. A digital questionnaire study yielded usable data from 448 of the 625 teachers who started (retaining those who answered ≥75% of items overall and ≥2/3 per construct), measured on five-point Likert scales via a modified, German-translated UTAUT instrument (validated by forward–backward translation, expert and teacher review, piloting with 25 teachers, confirmatory factor analysis, and McDonald's ω). Structural equation modelling in lavaan 0.6.17, comparing seven candidate models by chi-squared difference test, selected the original UTAUT predictors plus Perceived Risk (PR). Model fit was acceptable (RMSEA = 0.071, SRMR = 0.067, CFI = 0.913, TLI = 0.892). Direct effects showed Performance Expectancy (PE), Effort Expectancy (EE), and Social Influence (SI) all significantly predicted Behavioral Intention (β = 0.473, 0.287, 0.398; all p < 0.001), while Behavioral Intention (β = 0.687) and Facilitating Conditions (β = 0.297) predicted actual Use Behavior; Perceived Risk was non-significant for both. Age and teaching experience did not moderate the model, but gender partially moderated the BI→UB path. The authors conclude that demonstrable instructional gains (PE) matter most, and that pragmatic factors outweigh perceived risk for this group.
@@ -24799,6 +24840,47 @@ The framework's three commitments—epistemic fine-tuning, redistribution of aut
 ## Citation
 
 Ojeda-Ramirez, S., Gyles, S., & Peppler, K. (2026). [*Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education*](https://doi.org/10.1145/3796496.3811760). Proceedings of the 2026 Conference for Research on Equitable and Sustained Participation in Engineering, Computing, and Technology (RESPECT 2026). ACM.
+
+---
+
+## [One Click Away: AI Tutoring with Khanmigo in a Two-Year School Experiment](https://edtechdev.github.io/aied/articles/one-click-away-khanmigo-two-year-school-experiment-2026/)
+
+> **Engagement, not model capability, is the binding constraint on AI tutoring.** In a two-year cluster randomized trial across 18 Tennessee middle schools, randomly assigned students used Khan Academy with its AI tutor **Khanmigo** — configured to coach rather than give answers — during existing daily remedial math sessions. Assignment raised math achievement by 1.3 national percentile ranks per term (~0.06–0.08 SD per school year; an implied ~0.14 SD for a full year of active participation), gains resembling those of Khan Academy practice **without** AI assistance. The reason: 96% of students tried Khanmigo at least once, but the median student messaged it on only about a third of practice days and in only 17% of the exercise sessions in which they made a mistake — and most messages were bare answers or clicks on suggested prompts. "Making AI effective for learning appears to be as much a behavioral challenge as a technological one."
+
+## Key Findings
+
+- **Modest achievement gains at very low cost.** Assignment raised math achievement ~0.06–0.08 SD per school year (1.3 national percentile ranks per term), delivered inside remedial blocks the district already staffed at a marginal license cost of roughly **$15 per student per year**.
+- **The effect is primarily the structured practice, not the tutor.** Gains resembled those from Khan Academy practice without AI assistance; estimates are best interpreted as the effect of structured, individually targeted practice, with the tutor's contribution bounded by its low realized use. High-dosage human tutoring still delivers far more per student (0.2–0.4 SD) — software does not close that gap.
+- **The AI tutor was barely engaged.** 96% of students tried Khanmigo at least once, but the median student messaged it on only ~14% of exercise sessions and ~1/3 of practice days, and roughly one message in seven contained a genuine math question or reasoning step. The binding constraint was **engagement**, not what the tutor could do.
+- **Struggling students are least likely to seek help unprompted.** Consistent with the economics-of-education literature, interventions that rely on student initiative reach fewest of the students who would benefit most — especially when the action is incremental (considering one mistake on one problem). The limited dialogue reflects a lack of interest in the marginal act, not a defect of the AI tutor.
+- **Design responds to the engagement margin.** Khan Academy redesigned Khanmigo in 2026 to activate automatically during practice, citing lower student-initiated use than anticipated; evidence from other platforms indicates known human support raises engagement with AI tutoring where availability alone does not. Returns to AI-tutoring investment depend on the engagement margin as much as on capability.
+
+## Connected Concepts
+
+- [[intelligent-tutoring]]
+- [[llm]]
+- [[generative-ai]]
+- [[help-seeking]]
+- [[engagement-metrics]]
+- [[student-engagement]]
+- [[edtech-platform]]
+- [[math-education]]
+- [[k-12]]
+- [[adaptive-learning]]
+- [[learning-gains]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[elevate-genai-virtual-tutors]] — GenAI virtual tutors
+- [[access-not-enough-ai-tutoring-2026]] — Access is not enough for AI tutoring
+- [[ai-tutoring-quality-k12-methodologies-2026]] — Improving AI tutoring quality in K-12
+
+## Citation
+
+Oreopoulos, P., & Low, N. (2026). *[One click away: AI tutoring with Khanmigo in a two-year school experiment](https://www.nber.org/papers/w35620)* (NBER Working Paper No. 35620). National Bureau of Economic Research.
 
 ---
 
@@ -32605,6 +32687,46 @@ Videla, R., Penny, S., & Ross, W. (2026). [*"If You Can't Dance Your Program, Yo
 
 ---
 
+## [Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning](https://edtechdev.github.io/aied/articles/virtual-tutoring-computer-assisted-learning-takeup-2026/)
+
+> **TWiK (Tutoring With Khan Academy)** — a low-cost online after-school tutoring layer in which one-on-one human virtual tutors supervise struggling Grade 4–8 students working through the Khan Academy practice their teacher already assigned. A two-year randomized trial with the Toronto District School Board finds the binding constraint is **take-up and sustained participation**, not tutor quality: only 45% of assigned students reached a first session in Year 1, but collapsing enrollment to a single step raised first-session take-up to 83% in Year 2 — while weekly attendance stayed near 40% because students attended intermittently rather than dropping out. The offer raised practice by ~10 minutes a week and produced small, imprecise gains (ITT 0.055 SD on math assessment; ~0.08 SD on report-card marks) plus improved math attitudes, effects that grew with take-up. The core lesson for [[intelligent-tutoring|AI tutoring]] and [[edtech-platform|computer-assisted learning]] alike: the platform supplies content, but someone must get the student to practice regularly.
+
+## Key Findings
+
+- **Take-up is the primary obstacle.** In Year 1 only ~45% of teacher-nominated, randomly assigned students attended even one virtual tutoring session; families were lost at every step of a long chain (notice invitation → express interest → create an account on a third-party platform → get matched → show up). Students were lost at each handoff.
+- **Simple design changes nearly doubled first-session take-up.** In Year 2, inviting families directly through their own teacher for a specific weekly time, handling enrollment and scheduling internally, and setting up a recurring session on the family's behalf raised first-session take-up from ~45% to **83%** — evidence that [[help-seeking|taking up an offer]] is highly responsive to reducing friction.
+- **Solving entry is not solving participation.** Even among students who started, weekly attendance remained near two-fifths; "attrition" was mostly **intermittent absence** (missing some weeks, returning others), not dropout. Practice among attendees rose only ~17 minutes a week.
+- **Modest, coherent gains.** The intent-to-treat effect on a short achievement test covering assigned Khan Academy topics was 0.055 SD (95% CI [−0.09, 0.20]) — positive but too imprecise to separate null from a small effect. Report-card marks rose ~0.08 SD (p < 0.10), and treated students reported enjoying math more and finding the platform more helpful.
+- **Effects scale with take-up.** Gains grew between Year 1 and Year 2 as first-session take-up rose, consistent with a program whose modest dose produces modest effects that strengthen when more students actually engage.
+
+## Connected Concepts
+
+- [[intelligent-tutoring]]
+- [[human-in-the-loop-ai]]
+- [[edtech-platform]]
+- [[math-education]]
+- [[k-12]]
+- [[help-seeking]]
+- [[engagement-metrics]]
+- [[student-engagement]]
+- [[adaptive-learning]]
+- [[learning-gains]]
+- [[equity-in-ai-education]]
+
+## Connected Articles
+
+- [[elevate-genai-virtual-tutors]] — GenAI virtual tutors
+- [[access-not-enough-ai-tutoring-2026]] — Access is not enough for AI tutoring
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[ai-tutoring-quality-k12-methodologies-2026]] — Improving AI tutoring quality in K-12
+- [[ai-availability-student-motivation]] — AI availability and student motivation
+
+## Citation
+
+Oreopoulos, P., Dong, R., & Low, N. (2026). *[Virtual tutoring with computer-assisted learning: An experiment in take-up and learning](https://www.nber.org/papers/w35622)* (NBER Working Paper No. 35622). National Bureau of Economic Research.
+
+---
+
 ## [VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring](https://edtechdev.github.io/aied/articles/vismatic-secure-sandbox-cs-education/)
 
 Addresses a critical tension in [[stem-education|CS education]]: the widespread adoption of generative AI makes it impossible to distinguish authentic student effort from AI code synthesis by evaluating final submissions alone. The paper presents **VISMATIC**, a rootless containerized framework that pairs robust environment isolation with explicit user-interaction tracking at the API level.
@@ -33873,6 +33995,9 @@ Adaptive learning connects to [[knowledge-tracing]] (the diagnostic engine), [[p
 - [[behaviorism]]
 
 ## Connected Articles
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[chudziak-ai-math-tutoring-platform]] — Adaptive/personalized multi-agent math tutoring (Chudziak & Kostka 2025)
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 
@@ -34293,7 +34418,7 @@ AI in education is the umbrella that all other concept pages collectively define
 
 AI in education research spans two interconnected directions:
 
-- **AI for education** — using AI systems to enhance teaching, learning, assessment, and administration. This includes [[intelligent-tutoring|AI tutoring]], [[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]], [[automated-assessment|automated grading]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[automated-assessment|automated assessment]], [[formative-assessment|formative assessment]], [[learning-analytics|learning analytics]], and [[feedback|feedback loops]].
+- **AI for education** — using AI systems to enhance teaching, learning, assessment, and administration. This includes [[intelligent-tutoring|AI tutoring]], [[intelligent-tutoring|intelligent tutoring]], [[adaptive-learning|adaptive learning]], [[personalized-learning|personalized learning]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[automated-assessment|automated assessment]], [[formative-assessment|formative assessment]], [[learning-analytics|learning analytics]], and [[feedback|feedback loops]].
 - **Education about AI** — teaching learners and educators to understand, use, and critically evaluate AI. The core is [[ai-literacy|AI literacy]], supported by [[prompt-engineering|prompt engineering]], [[critical-thinking|critical thinking]], [[ethics|AI ethics]], [[governance|governance education]], digital literacy, and [[reducing-ai-misuse|responsible use]].
 
 These two dimensions are not separate: [[ai-literacy|using AI well]] requires understanding it, and teaching about AI is enriched by using it. This [[human-ai-collaboration|human-AI collaboration]] is a central theme.
@@ -34302,8 +34427,8 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 How AI supports teaching and learning is the heart of the field. Key concepts include:
 
-- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[game-based-learning|gamification]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], cognitive load theory, dual-process theory, [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
-- **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[engagement-metrics|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[cognitive-offloading|over-reliance]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
+- **Core pedagogies:** [[active-learning|active learning]], [[collaborative-learning|collaborative learning]], [[project-based-learning|project-based learning]], [[experiential-learning|experiential learning]], [[game-based-learning|game-based learning]], [[scaffolding|scaffolding]], [[socratic-method|the Socratic method]], [[self-regulated-learning|self-regulated learning]], [[self-determination-theory|self-determination theory]], [[zone-of-proximal-development|zone of proximal development]], [[desirable-difficulties|desirable difficulties]], [[transfer-of-learning|transfer of learning]], [[metacognition|metacognition]], [[constructivist|constructivism]], [[behaviorism|behaviorism]], [[learning-theories|learning theories]], [[distributed-cognition|distributed cognition]], [[situated-learning|situated learning]], and [[embodied-learning|embodied learning]].
+- **Learning theories and processes:** [[motivation|motivation]], [[self-efficacy|self-efficacy]], [[help-seeking|help-seeking]], [[student-engagement|student engagement]], [[engagement-metrics|engagement metrics]], [[cognitive-offloading|cognitive offloading]], [[cognitive-diagnosis|cognitive diagnosis]], [[knowledge-tracing|knowledge tracing]], [[student-modeling|student modeling]], [[student-misconceptions-ai|student misconceptions about AI]], [[simulating-students|simulating students]], and [[instructional-design|instructional design]].
 - **AI agents and interactions:** [[pedagogical-agent|pedagogical agents]], [[affective-tutoring|affective tutoring]], [[affective-computing|affective computing]], [[human-in-the-loop-ai|human-in-the-loop AI]], [[agentic-ai|agentic AI]], [[social-robots|social robots]], [[educational-robotics|robots in education]], [[human-robot-interaction|human-robot interaction]], and [[pedagogical-llm-training|training pedagogical LLMs]].
 - **Subject areas:** AI is applied across disciplines. The wiki's [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage, which includes [[math-education|mathematics]], [[physics-education|physics]], [[language-learning|language learning]], [[cs-education|computer science]], [[writing-education|writing]], [[stem-education|STEM]], [[teacher-education|teacher education]], [[medical-education|medical and health professions]], [[humanities-education|humanities and social sciences]], and [[k-12|K-12 AI education]]. Domain-adjacent concepts include [[universal-design-for-learning|universal design for learning]], [[special-education|special education]], [[neurodiversity|neurodiversity]], and [[adult-learning|adult learning]].
 
@@ -34311,7 +34436,7 @@ How AI supports teaching and learning is the heart of the field. Key concepts in
 
 AI transforms both how we assess learners and how we evaluate AI systems themselves:
 
-- **Assessment:** [[assessment|assessment]], [[feedback|feedback]], [[feedback-literacy|feedback literacy]], [[ai-feedback-quality|AI feedback quality]], [[feedback|feedback loops]], [[formative-assessment|formative assessment]], [[automated-assessment|automated assessment]], [[automated-assessment|automated grading]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[assessment-validity|assessment validity]], [[automated-assessment|confidence-aware AI assessment]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[plagiarism-detection|AI plagiarism detection]], and [[academic-integrity|academic integrity]].
+- **Assessment:** [[assessment|assessment]], [[feedback|feedback]], [[feedback-literacy|feedback literacy]], [[ai-feedback-quality|AI feedback quality]], [[feedback|feedback loops]], [[formative-assessment|formative assessment]], [[automated-assessment|automated assessment]], [[automated-essay-scoring|automated essay scoring]], [[automated-question-generation|automated question generation]], [[assessment-validity|assessment validity]], [[psychometrically-aware-ai|psychometrically aware AI]], [[educational-measurement|educational measurement]], [[item-response-theory|item response theory]], [[plagiarism-detection|AI plagiarism detection]], and [[academic-integrity|academic integrity]].
 - **Feedback as a learning mechanism:** a major strand of AIED treats [[feedback|feedback]] not merely as an assessment by-product but as the central engine of learning. AI reshapes this mechanism in three ways: it generates feedback at unprecedented volume and immediacy ([[ai-feedback-quality|AI feedback quality]], [[feedback|feedback loops]]); it demands new learner capabilities to judge and act on that feedback ([[feedback-literacy|feedback literacy]]); and it increasingly teaches those capabilities rather than just delivering feedback. Research shows well-architected AI feedback can match human feedback, but that its value is gated by the learner's feedback literacy — high literacy converts AI feedback into self-regulated-learning gains, while low literacy yields little or even negative effect. Feedback therefore spans both the provision side (quality, loops) and the uptake side (literacy), and sits alongside [[formative-assessment|formative assessment]], [[peer-review|peer review]], and [[automated-assessment|automated assessment]] as a defining concern of the field.
 - **Evaluation of AI systems:** [[ai-ed-evaluation|AI ed evaluation]], [[benchmark|benchmarks]], [[research-methods-aied|efficacy studies and research methods]], and [[rct|randomized controlled trials]] establish the evidence base for whether AI tools work. Readers should also weigh the [[limitations-in-aied-research|cross-cutting limitations]] of this evidence — its generalizability, measurement validity, reproducibility, and how quickly AI findings date.
 - **AI systems and techniques:** [[generative-ai|generative AI]], [[llm|large language models]], [[rag|retrieval-augmented generation]], [[multimodal|multimodal models]], [[reinforcement-learning|reinforcement learning]], [[educational-nlp|educational NLP]], [[knowledge-graph|knowledge graphs]], and [[simulation|simulation]].
@@ -34329,7 +34454,7 @@ AI in education changes the roles of every stakeholder:
 
 Several themes cut across the field:
 
-- **Trust and critical use:** [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[critical-thinking|critical thinking]], [[cognitive-offloading|over-reliance]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]].
+- **Trust and critical use:** [[trust|trust in AI]], [[trust-calibration|trust calibration]], [[critical-thinking|critical thinking]], [[cognitive-offloading|cognitive offloading]], [[critical-pedagogy|critical pedagogy]], and [[reducing-ai-misuse|reducing AI misuse]].
 - **The evolution of the field:** the wiki traces AI in education from early [[intelligent-tutoring|intelligent tutoring systems]] and [[knowledge-tracing|knowledge tracing]] to LLM-driven [[intelligent-tutoring|tutoring]], [[pedagogical-agent|agents]], and [[agentic-ai|agentic AI]] — a rapid shift from tool-centric studies to sociotechnical frameworks ([[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[institutional-change-framework-ai|institutional change]]).
 
 ## Field maturity
@@ -35430,6 +35555,7 @@ The wiki's research documents over-reliance as one of the most consequential ris
 - **Metacognitive preservation:** [[vibe-compiler-metacognition-genai-agency-2026|The Synthesis-Analysis Reciprocity Model]] proposes tools that preserve human epistemic agency by structuring AI interaction around human analysis cycles rather than AI generation cycles.
 - **The metacognitive mechanics of overuse:** the beliefs-vs-experiences framework explains *why* students over-offload even when it hurts them — people offload impulsively, and pre-existing metacognitive *beliefs* anchor behavior faster than task *experiences* can correct it — so the antidote to over-reliance is metacognitive, not merely restrictive.
 - **Over-reliance is trainable via calibration training:** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] show reminder bias — the laboratory analogue of over-reliance — can be reduced with a brief metacognitive intervention (five practice trials pairing a prediction with feedback), correcting calibration in both directions. This implies the antidote to over-reliance is not merely restrictive rules but **calibration training that makes students accurate about what they can actually do unaided**.
+- **Field evidence: AI that coaches vs. AI that answers.** [[making-ai-tutoring-productive-mastery-math-2026|NUMI (Oreopoulos et al. 2026)]] found that AI support that coached rather than gave answers slowed students down but reduced effort-avoidance — improving next-attempt correctness after mistakes with more time per question (a "productive slowdown") — while [[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo (Oreopoulos & Low 2026)]] showed that without structure making mistakes consequential, students default to shallow use (bare answers, prompt clicks) and gains match practice without AI. Both confirm that offloading's harm is contingent on **how** AI is used and designed, not just on access.
 
 ### The CLT framework
 
@@ -35460,6 +35586,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[formative-assessment]]
 
 ## Connected Articles
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
@@ -36331,6 +36459,9 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[stem-education]]
 
 ## Connected Articles
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 
 - [[access-not-enough-ai-tutoring-2026]] — Take-up and engagement are the binding constraints for AI tutoring platforms
 - [[beyond-moocs-how-technical-and-structural-factors-shape-learner-engagement-reten]] — Technical and structural platform factors shape engagement, retention, and inclusivity
@@ -36647,6 +36778,8 @@ Engagement metrics connect to [[learning-analytics]] and [[educational-measureme
 - [[higher-ed]]
 
 ## Connected Articles
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
 
 - [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement
@@ -36780,6 +36913,8 @@ Equity in AI education addresses three overlapping concerns: who *gets* AI tools
 - [[agency]]
 
 ## Connected Articles
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on struggling students' work (Lucy et al. 2026)
@@ -37127,6 +37262,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[writing-education]]
 
 ## Connected Articles
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)
@@ -37244,6 +37380,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[behaviorism]]
 
 ## Connected Articles
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 
 - [[ai-feedback-enactment-workflow-2026]] — Making AI-generated feedback matter: from provision to enactment
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of GenAI
@@ -37353,6 +37490,7 @@ Generative AI connects to [[llm]] (the model class), [[prompt-engineering]] (how
 
 - [[tpack]]
 ## Connected Articles
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
@@ -37508,6 +37646,7 @@ Research in this wiki identifies concrete, observable patterns of unproductive h
 - **Premature hint requests** — requesting help before making any solution attempt. Even uncertain students learn more by attempting first.^[[lak2026-hint-button-unproductive-use]]
 - **Superficial hint reading** — advancing through hints too rapidly to read them (flagged at a ~4 words/second benchmark), often jumping straight to the bottom-out hint that reveals the answer.^[[lak2026-hint-button-unproductive-use]]
 - **Answer-seeking over learning-seeking** — asking the AI to produce the answer rather than to explain or guide. In a study of 98 Grade-9 students using a GenAI tutor, interactions were dominated by instrumental requests with almost no monitoring or evaluation of their own learning — despite students having chosen scaffolded support beforehand. This **intention-behavior gap** was associated with *lower* post-test performance and higher extraneous cognitive load.^[[regulating-ai-tutor-adolescent-srl]]
+- **Struggling students are least likely to seek help unprompted** — the engagement side of help-seeking. In [[one-click-away-khanmigo-two-year-school-experiment-2026|a two-year Khanmigo RCT (Oreopoulos & Low 2026)]], even with free access and mandatory practice time, the median struggling student messaged the AI tutor in only ~17% of mistake sessions, mostly with bare answers or clicks — consistent with the economics-of-education finding that initiative-dependent interventions reach fewest of the students who would benefit most. [[virtual-tutoring-computer-assisted-learning-takeup-2026|TWiK (Oreopoulos et al. 2026)]] shows take-up is highly responsive to reducing friction (first-session take-up rose 45%→83% after simplifying enrollment), but entry ≠ sustained participation (attendance stayed intermittent).
 
 ### Why unproductive help-seeking hurts learning
 
@@ -37573,6 +37712,8 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[agentic-ai]]
 
 ## Connected Articles
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 
 - [[lak2026-hint-button-unproductive-use]] — Premature hint requests and superficial hint reading predict lower learning gains in an ITS
@@ -37774,6 +37915,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[faculty-development]]
 - [[generative-ai]]
 ## Connected Articles
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 
 - [[agentic-ai-education-scoping-review]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
@@ -38044,6 +38186,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows that traditional ITS hint design can inadvertently enable bypass strategies, calling for more sophisticated [[scaffolding]] approaches.
 - **[[deeptutor|DeepTutor]]** provides a fully open-source agentic tutoring framework with citation-grounded tutoring and difficulty-calibrated question generation.
 - **[[huang-interpretable-knowledge-tracing-2026|Interpretable Knowledge Tracing]]** addresses the opacity problem by producing interpretable cognitive quantities from LLM logits.
+- **Engagement and structure, not capability, are the binding constraints (large-scale field evidence):** [[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo (Oreopoulos & Low 2026)]] — a two-year cluster RCT in 18 middle schools — found 96% of students tried the AI tutor but the median engaged it in only ~17% of mistake sessions (mostly bare answers or prompt clicks), so gains (~0.06–0.08 SD) matched practice without AI. [[making-ai-tutoring-productive-mastery-math-2026|NUMI (Oreopoulos et al. 2026)]] found AI created a "productive slowdown" — more time per question and improved post-mistake recovery — but only reliably improved delayed learning when embedded in a mastery workflow that made mistakes consequential. The lesson: AI tutoring's value depends on **getting students to use it productively** and structuring it so effort pays off, more than on raw model capability.^[[virtual-tutoring-computer-assisted-learning-takeup-2026]]
 
 ### Key ITS concepts
 
@@ -38111,6 +38254,9 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[k-12]]
 
 ## Connected Articles
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[yasir-llm-tutoring-agents-2026]] — Benchmarking LLM feedback agents with KG ground truth (Yasir et al. 2026)
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
@@ -38246,6 +38392,9 @@ K-12 connects to [[pedagogical-safety]] (child protection), [[ai-literacy]] (stu
 - [[discipline-specific-aied]]
 
 ## Connected Articles
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[eduzone-llm-safety-k12]]
@@ -38575,6 +38724,9 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[affective-tutoring]]
 
 ## Connected Articles
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 
 - [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
@@ -38834,6 +38986,7 @@ LLMs connect to [[generative-ai]] (the broader category), [[prompt-engineering]]
 - [[pedagogical-llm-training]]
 - [[learning-by-teaching]]
 ## Connected Articles
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
@@ -38910,6 +39063,9 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[teacher-education]]
 
 ## Connected Articles
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[chudziak-ai-math-tutoring-platform]] — AI-powered math tutoring platform (Chudziak & Kostka 2025)
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs underperform on math student work with errors (DrawEduMath, Lucy et al. 2026)
 
@@ -39153,6 +39309,7 @@ This distinction yields the principle of **timing-component matching**: feedback
 - [[authentic-assessment]]
 - [[learning-theories]]
 ## Connected Articles
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
@@ -40532,6 +40689,7 @@ Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that
 - [[learning-theories]]
 
 ## Connected Articles
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[brcic-effortless-trap-productive-struggle-2026]] — Guarded vs. unguarded AI: the placement rule (Brcic & Frljic 2026)
 
 - [[guided-llm-scaffolding-independent-learning]]
@@ -41242,6 +41400,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[higher-ed]]
 
 ## Connected Articles
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: systematic review of engagement + mediating role of teaching methods
 
 - [[genai-motivation-engagement-2026]] — Impact of Generative AI on Student Motivation and Engagement

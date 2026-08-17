@@ -49,6 +49,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[faculty-development]]
 - [[generative-ai]]
 ## Connected Articles
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 
 - [[agentic-ai-education-scoping-review]]
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)

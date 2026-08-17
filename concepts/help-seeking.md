@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-08-15T18:05:58-04:00"
+updated: "2026-08-17T18:05:00-04:00"
 type: concept
 tags: [help-seeking, intelligent-tutoring, student-experience, metacognition, higher-ed, llm, generative-ai, ai-literacy, k-12, scaffolding, self-regulated-learning]
 confidence: high
@@ -22,6 +22,7 @@ Research in this wiki identifies concrete, observable patterns of unproductive h
 - **Premature hint requests** — requesting help before making any solution attempt. Even uncertain students learn more by attempting first.^[[lak2026-hint-button-unproductive-use]]
 - **Superficial hint reading** — advancing through hints too rapidly to read them (flagged at a ~4 words/second benchmark), often jumping straight to the bottom-out hint that reveals the answer.^[[lak2026-hint-button-unproductive-use]]
 - **Answer-seeking over learning-seeking** — asking the AI to produce the answer rather than to explain or guide. In a study of 98 Grade-9 students using a GenAI tutor, interactions were dominated by instrumental requests with almost no monitoring or evaluation of their own learning — despite students having chosen scaffolded support beforehand. This **intention-behavior gap** was associated with *lower* post-test performance and higher extraneous cognitive load.^[[regulating-ai-tutor-adolescent-srl]]
+- **Struggling students are least likely to seek help unprompted** — the engagement side of help-seeking. In [[one-click-away-khanmigo-two-year-school-experiment-2026|a two-year Khanmigo RCT (Oreopoulos & Low 2026)]], even with free access and mandatory practice time, the median struggling student messaged the AI tutor in only ~17% of mistake sessions, mostly with bare answers or clicks — consistent with the economics-of-education finding that initiative-dependent interventions reach fewest of the students who would benefit most. [[virtual-tutoring-computer-assisted-learning-takeup-2026|TWiK (Oreopoulos et al. 2026)]] shows take-up is highly responsive to reducing friction (first-session take-up rose 45%→83% after simplifying enrollment), but entry ≠ sustained participation (attendance stayed intermittent).
 
 ### Why unproductive help-seeking hurts learning
 
@@ -87,6 +88,8 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[agentic-ai]]
 
 ## Connected Articles
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 
 - [[lak2026-hint-button-unproductive-use]] — Premature hint requests and superficial hint reading predict lower learning gains in an ITS

@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-17T11:30:00-04:00"
+updated: "2026-08-17T18:05:00-04:00"
 type: concept
 tags: [intelligent-tutoring, ai-tutoring, adaptive-learning, scaffolding, student-modeling, knowledge-tracing, feedback, higher-ed, k-12, stem-education]
 confidence: high
@@ -24,6 +24,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows that traditional ITS hint design can inadvertently enable bypass strategies, calling for more sophisticated [[scaffolding]] approaches.
 - **[[deeptutor|DeepTutor]]** provides a fully open-source agentic tutoring framework with citation-grounded tutoring and difficulty-calibrated question generation.
 - **[[huang-interpretable-knowledge-tracing-2026|Interpretable Knowledge Tracing]]** addresses the opacity problem by producing interpretable cognitive quantities from LLM logits.
+- **Engagement and structure, not capability, are the binding constraints (large-scale field evidence):** [[one-click-away-khanmigo-two-year-school-experiment-2026|Khanmigo (Oreopoulos & Low 2026)]] — a two-year cluster RCT in 18 middle schools — found 96% of students tried the AI tutor but the median engaged it in only ~17% of mistake sessions (mostly bare answers or prompt clicks), so gains (~0.06–0.08 SD) matched practice without AI. [[making-ai-tutoring-productive-mastery-math-2026|NUMI (Oreopoulos et al. 2026)]] found AI created a "productive slowdown" — more time per question and improved post-mistake recovery — but only reliably improved delayed learning when embedded in a mastery workflow that made mistakes consequential. The lesson: AI tutoring's value depends on **getting students to use it productively** and structuring it so effort pays off, more than on raw model capability.^[[virtual-tutoring-computer-assisted-learning-takeup-2026]]
 
 ### Key ITS concepts
 
@@ -91,6 +92,9 @@ For instructors deploying AI tutors and developers building them, the wiki's fin
 - [[k-12]]
 
 ## Connected Articles
+- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
+- [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[yasir-llm-tutoring-agents-2026]] — Benchmarking LLM feedback agents with KG ground truth (Yasir et al. 2026)
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
