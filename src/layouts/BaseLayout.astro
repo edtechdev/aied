@@ -23,13 +23,18 @@ const recentArticles = articles
   .sort((a, b) => (b.data.created || '').localeCompare(a.data.created || ''))
   .slice(0, 12);
 
-// Recently updated concepts
+// Recently updated concepts (reverse chronological by updated, then created
+// as tiebreaker so concepts updated in the same bulk commit are not listed
+// alphabetically)
 const recentConcepts = concepts
   .filter(c => c.data.updated || c.data.created)
   .sort((a, b) => {
-    const aDate = a.data.updated || a.data.created;
-    const bDate = b.data.updated || b.data.created;
-    return bDate.localeCompare(aDate);
+    const aU = a.data.updated || a.data.created || '';
+    const bU = b.data.updated || b.data.created || '';
+    const cU = bU.localeCompare(aU);
+    if (cU !== 0) return cU;
+    // tiebreak on created (most recently created first) — non-alphabetical
+    return (b.data.created || '').localeCompare(a.data.created || '');
   })
   .slice(0, 15);
 ---
