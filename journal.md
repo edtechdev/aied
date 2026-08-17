@@ -1,6 +1,6 @@
 # Journal
 
-**Last updated:** 2026-08-16 | **Total entries:** 841
+**Last updated:** 2026-08-16 | **Total entries:** 842
 
 > Reverse chronological index of all articles and papers ingested into the wiki.
 
@@ -46,6 +46,7 @@
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching: An exploratory study with genAI novices in higher education
 - [[mathematics-teachers-chatbot-motivation-2026]] — Talking mathematics with AI: Understanding teachers' motivation for utilizing chatbots
 - [[medical-education]] — Medical and Health Professions Education
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive Training Facilitates Optimal Cognitive Offloading
 - [[microbit-robotics-machine-learning-teacher-training-2026]] — Coding, robots, computational concepts, and machine learning using the microbit card and the Maqueen and Nezha kits. A study in initial teacher training
 - [[niari-ai-pedagogical-mediator-collaborative-learning]] — Beyond Automation: AI as a Pedagogical Mediator in Collaborative Learning
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA) for long-horizon classroom discourse analysis: Mitigating dialect bias via counterfactual preference optimization

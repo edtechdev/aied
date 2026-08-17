@@ -1,7 +1,7 @@
 ---
 title: Over-Reliance
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-16T20:47:13-04:00"
+updated: "2026-08-16T21:20:00-04:00"
 type: concept
 tags: [over-reliance, cognitive-offloading, ai-literacy, trust-calibration, student-experience, generative-ai]
 confidence: high
@@ -29,6 +29,8 @@ Over-reliance sits at the intersection of AI tool design and human cognitive beh
 
 - **The metacognitive mechanics of overuse:** [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]] explain *why* students over-offload even when it hurts them. People offload impulsively, preferring external reminders that exceed their optimal capacity — a bias independent of objective ability. **Reminder bias** quantifies this deviation from optimal offloading, and incentives reduce but do not eliminate it, because pre-existing metacognitive *beliefs* (e.g., overestimating tool effectiveness) anchor behavior faster than task *experiences* can correct it. Externalization can cause "dual damage" to performance *and* abilities, and technology-enhanced environments may foster maladaptive offloading without metacognitive guidance — so the antidote to over-reliance is metacognitive, not merely restrictive.
 
+- **Over-reliance is trainable via calibration training:** [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide the direct empirical counterweight to the impulsiveness above: reminder bias — the laboratory analogue of over-reliance on external aids — **can be reduced with a brief metacognitive intervention**. Just five practice trials pairing a performance prediction with veridical feedback significantly reduced deviation from the optimal offloading strategy. Crucially, the mechanism was *calibration correction in both directions*: it reduced excessive reminder use in the over-confident *and* insufficient use in the under-confident, acting on absolute rather than directional bias. Prediction alone did nothing; only feedback changed behavior. This implies the antidote to over-reliance is not merely restrictive rules but **calibration training that makes students accurate about what they can actually do unaided** — directly applicable to teaching appropriate AI use.
+
 ### Relationship to cognitive offloading
 
 Over-reliance is distinguished from [[cognitive-offloading]] by intent and outcome. Cognitive offloading can be productive (using a calculator to free mental resources for conceptual understanding) or unproductive (asking AI to solve a problem you should learn to solve). Over-reliance is specifically the unproductive pattern — where offloading has crossed the threshold from strategic support to learning displacement.
@@ -54,6 +56,7 @@ Over-reliance connects to [[trust-calibration]] — knowing when to trust and wh
 - [[behaviorism]]
 
 ## Connected Articles
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading: mechanisms, interventions, and educational implications (Guo & Ye 2026)
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement

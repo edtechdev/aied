@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-16T21:20:00-04:00"
 type: concept
 tags: [feedback, feedback-loop, ai-feedback-quality, feedback-literacy, formative-assessment, peer-review, automated-assessment, assessment]
 confidence: high
@@ -30,6 +30,10 @@ AI changes feedback in three consequential directions, each raising the stakes o
 - **Evaluation demands on the learner.** Because AI feedback can be inaccurate or hallucinated, students must judge whether to trust and act on it. This is where [[feedback-literacy]] and [[trust-calibration]] become decisive: [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that only feedback-literate students convert AI feedback into [[self-regulated-learning]] gains, while [[llm-fallacy-misattribution|the LLM fallacy]] captures how students may over-credit AI feedback to their own competence.
 - **Feedback literacy as a training goal.** Rather than only providing feedback, AI tools are increasingly designed to *teach* students to use feedback — [[tubino-adachi-ai-automated-feedback-literacy|reframing automated feedback tools as literacy-building instruments]], [[zhan-boud-dawson-genai-feedback-engagement|framing GenAI as an enabler of feedback engagement]], and [[richmond-nicholls-genai-psych-feedback-ai-literacies|using GenAI critique tasks to build psychological, feedback, and AI literacies together]].
 
+### What makes feedback effective: calibration evidence
+
+[[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide a clean experimental result on feedback design with direct relevance to AIED: **veridical, immediate, trial-by-trial feedback tied to a learner's own prior prediction is what changes behavior — prediction or beliefs alone are not enough**. In their four-group design, feedback combined with a preceding performance prediction improved calibration and behavior, while predictions without feedback did nothing, and adding an explicit over-/underconfidence label added nothing further. This aligns with the wiki's feedback-system view: feedback's power lies in closing the gap against a learner's *own* estimate (the provision–uptake pairing), and effective feedback should be immediate, accurate, and explicitly connected to what the learner predicted — a design principle for AI feedback systems and [[feedback-literacy]] training alike.
+
 ### The provision-uptake pairing
 
 The wiki's core feedback insight is that **feedback quality and feedback literacy are two sides of one system**: high-quality feedback is inert without a literate recipient, and a literate student gains little from poor feedback. [[ai-feedback-quality]] covers the provision side (is the feedback accurate, timely, actionable?), while [[feedback-literacy]] covers the uptake side (can the student judge and act on it?). The [[feedback-loop]] is what connects them — the mechanism by which quality feedback, received by a literate learner, closes the gap. Designing effective AI feedback therefore means designing both the system and the student.
@@ -55,6 +59,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 
 ## Connected Articles
 
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)
 - [[liu-deris-ai-feedback-literacy-uptake]] — AI Feedback Literacy scale and uptake prediction (Liu & Deris 2025)
 - [[zhan-boud-dawson-genai-feedback-engagement]] — GenAI as enabler of student feedback engagement (Zhan, Boud, Dawson & Yan 2025)
 - [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → SRL (Mendoza et al. 2026)
