@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-08-15T17:49:40-04:00"
+updated: "2026-08-17T06:45:00-04:00"
 type: concept
 tags: []
 confidence: medium
@@ -18,6 +18,7 @@ Human-AI collaboration describes how learners, teachers, and AI systems divide [
 - **Orchestration and agency:** [[teacher-student-agency-orchestration|Teacher–student agency orchestration]] and [[student-mental-models-genai|student mental models]] address how agency is negotiated across humans and AI, connecting to [[human-in-the-loop-ai]] and [[agentic-ai]].
 - **Metacognitive and team dimensions:** [[haiml-human-centered-ai-metacognitive-model-2026|Human-centered AI metacognitive models]] and [[spritz-ai-disciplinary-mediation-student-teams-2026|disciplinary mediation in student teams]] extend collaboration to metacognition and team learning.
 - **Distinct collaboration modes:** empirical work identifies three human–AI collaborative problem-solving modes — *Delegated Reasoning*, *Concerted Interpretation*, and *Delegated Elaboration* — revealing a trade-off between the efficiency of the distributed human–AI system and the depth of learners' self-regulatory engagement (delegated reasoning performs best but with lower self-regulation).^[[hao-human-ai-collaborative-problem-solving-cognition]]
+- **Guidance decides performance versus learning:** Wong and Qiu (2026) contrasted free vs. guided human–AI collaboration on a creative task. Freely collaborating with ChatGPT produced only transient performance that collapsed on a later unassisted task, whereas a guided "think first, ChatGPT later" protocol — generating one's own ideas, then using ChatGPT to improve, develop, and evaluate them — yielded durable gains in *independent* [[creativity|creativity]]. The advantage was mediated by collaborative prompts aimed at improving one's *own* ideas, showing that *who generates* (the division of labor) predicts whether collaboration produces [[self-regulated-learning|learning]] or [[over-reliance|substitution]].^[[think-first-chatgpt-later-2026]]
 - **AI as mediator, not merely partner:** [[niari-ai-pedagogical-mediator-collaborative-learning|Niari]] reconceptualises AI as a *pedagogical mediator* that orchestrates interaction, epistemic sense-making, and regulatory processes, redistributing agency, authority, and responsibility across human and non-human actors rather than treating AI as a tutor, peer, or tool.
 - **Community and epistemic authority:** [[ojeda-ramirez-community-based-ai-learning|community-based AI learning]] shows collaboration is also a question of *who is authoritative*, grounding AI engagement in learners' lived epistemologies.
 - **Data-driven trait discovery:** [[principal-trait-analysis-human-ai-skills-2026|Principal Trait Analysis (PTA)]] automates the derivation of interaction "traits" from large LLM-conversation corpora — a PCA-inspired, four-stage pipeline that extracts behavior observations, clusters them into candidate traits, scores each collaborator, and selects the most distinguishing traits. Evaluated on a student–AI-tutor corpus and a developer–coding-agent corpus, PTA finds traits that explain and predict outcomes (e.g. deep conceptual engagement positively, task delegation negatively, in the educational setting), and — because they do not yet generalize across semesters/settings or show learning-curve trajectories — the authors argue the traits are not yet interpretable as "skills." This offers a scalable, objective complement to [[ai-literacy]] frameworks and self-report measures, directly informing how educators teach "AI use skills."
@@ -40,7 +41,9 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[student-experience]]
 - [[metacognition]]
 - [[self-regulated-learning]]
+- [[creativity]]
 ## Connected Articles
+- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
 - [[principal-trait-analysis-human-ai-skills-2026]] — Data-driven "traits" of human–AI collaboration
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
