@@ -1,14 +1,14 @@
 ---
 title: "Artificial Intelligence (AI) and the Future of the Engineering and Computing Workforce: A Systematic Review of Grey Literature and Document Analysis of U.S. Reports (2020–2025)"
 created: "2026-08-17T10:30:00-04:00"
-updated: "2026-08-17T10:30:00-04:00"
+updated: "2026-08-17T11:15:00-04:00"
 type: article
 tags: [engineering-education, professional-training, ai-literacy, governance, curriculum-design, prompt-engineering, higher-ed, stem-education, cs-education]
 sources: ['raw/papers/ai-engineering-computing-workforce-grey-literature-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Fletcher and colleagues (2026) conduct a systematic review of U.S. grey literature and document analysis of 22 reports (2020–2025) to understand how AI is reshaping the engineering and computing workforce and what this means for higher education. Framing the tension between rapid technological change and urgent policy decisions as the "Dual Train Problem," the review synthesizes projections from sources such as the Bureau of Labor Statistics, MIT's Shaping Work Project (1.6–3.2 million U.S. jobs displaced over two decades; up to 30% automatable by the mid-2030s), and the World Economic Forum. The findings imply that while some engineering and computing fields will grow, AI will replace many tasks (reducing jobs and working hours) even as new AI-oriented roles emerge, leading the authors to recommend that higher education prioritize durable AI competencies, [[ethics|ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, AI policy) to sustain human-centered engineering.
+> **Synthesis:** Fletcher and colleagues (2026) conduct a [[meta-analysis-systematic-review|systematic review]] of U.S. grey literature and document analysis of 22 reports (2020–2025) to understand how AI is reshaping the engineering and computing workforce and what this means for higher education. Framing the tension between rapid technological change and urgent policy decisions as the "Dual Train Problem," the review synthesizes projections from sources such as the Bureau of Labor Statistics, MIT's Shaping Work Project (1.6–3.2 million U.S. jobs displaced over two decades; up to 30% automatable by the mid-2030s), and the World Economic Forum. The findings imply that while some engineering and computing fields will grow, AI will replace many tasks (reducing jobs and working hours) even as new AI-oriented roles emerge, leading the authors to recommend that higher education prioritize durable AI competencies, [[ethics|ethics]] and [[governance]], and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, AI policy) to sustain human-centered engineering.
 
 ## The Dual Train Problem
 
@@ -21,7 +21,7 @@ Drawing on economic and labor-market forecasts, the review surfaces a range of p
 - **Bureau of Labor Statistics (2023–2033)** projections now account for AI exposure across several computer and engineering occupations, acknowledging heightened automation risk.
 - **MIT's Shaping Work Project** estimates 1.6–3.2 million U.S. jobs could be displaced by AI-driven automation over two decades; more ambitious projections suggest up to 30% of jobs may be automatable by the mid-2030s.
 - **Four scenarios for 2030** (after Ellis 2025): *supercharged progress* (exponential AI advance outpacing governance), *age of displacement* (automation outpacing reskilling, generating social fractures), *co-pilot economy* (gradual AI-augmented work through human–AI collaboration), and *stalled progress* (uneven skill diffusion widening adoption gaps).
-- **Microsoft (2025)** finds skills in analytical thinking, resilience, ethics, and digital literacy are twice as likely to be required in job postings.
+- **Microsoft (2025)** finds skills in analytical thinking, resilience, [[ethics|ethics]], and digital literacy are twice as likely to be required in job postings.
 
 The review's central conclusion from these projections is that engineering and computing face a **transformation** — some growth in selected fields, but AI replacing tasks and reducing jobs and working hours, alongside the emergence of new AI-oriented roles requiring generative AI upskilling.
 
@@ -31,7 +31,7 @@ The authors translate these workforce projections into recommendations for facul
 
 - **Prioritize durable AI competencies** — competencies that transfer across evolving roles, rather than tool-specific skills.
 - **Embed ethics and governance** — as essential components of engineering formation, not add-ons.
-- **Adopt skill-based credentials** aligned with emerging roles such as prompt engineering, AI auditing, and AI policy.
+- **Adopt skill-based credentials** aligned with emerging roles such as [[prompt-engineering|prompt engineering]], AI auditing, and AI policy.
 - **Coordinate policy, resources, and partnerships** — institutional leaders must orchestrate curriculum, industry partnerships, and resource allocation to manage workforce-transition risk and sustain human-centered engineering.
 
 ## Connections to the wiki

@@ -1,7 +1,7 @@
 ---
 title: Engineering Education
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-08-17T10:45:00-04:00"
+updated: "2026-08-17T11:15:00-04:00"
 type: concept
 tags: [engineering-education, stem-education, ai-literacy, faculty-development, professional-training, assessment, ethics, higher-ed]
 confidence: high
@@ -16,7 +16,7 @@ Engineering education research is distinctive because it sits at the intersectio
 - **Faculty understanding and shared language:** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] analyze the metaphors engineering instructors use to describe AI, finding that most frame it either as a human-like "social being/agent" or as a "technical tool," and that instructors within the same department often hold fundamentally different mental models. Because metaphors both construct and constrain understanding, they argue a shared, accurate language is essential for [[faculty-development]] and departmental discussions about AI.
 - **Ethics and responsible use:** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et al.]] systematically review empirical studies of AI in undergraduate engineering education, identifying seven recurring forms of ethical guidance (transparency, accountability, student independence/agency, privacy, [[academic-integrity]], fairness/equity/bias, beneficence). They find ethical guidance is predominantly student-facing and compliance-oriented, with reciprocal faculty and institutional accountability underdeveloped — a concern heightened by engineering's direct stake in public safety and societal wellbeing.
 - **Embodied and multimodal assessment:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] develop a multimodal framework integrating computer-vision gesture tracking with LLM analysis of speech to assess engineering students' conceptual understanding of statistics, showing that gesture adds diagnostic evidence beyond speech and that close gesture–speech coupling signals coherent understanding.
-- **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, ethics and governance, and skill-based credentials for emerging roles.
+- **Workforce transformation:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] review U.S. grey literature on AI and the engineering/computing workforce, framing the "Dual Train Problem" (rapid change vs. urgent policy) and recommending durable AI competencies, [[ethics|ethics]] and [[governance]], and skill-based credentials for emerging roles.
 
 ## Signature concerns
 

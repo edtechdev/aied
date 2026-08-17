@@ -72,6 +72,11 @@ For every article that is (a) NEW (not already in `articles/`/`raw/papers/`, and
 - Update the `**Total backlog:** N articles` line near the top to the new count.
 - Deduplicate against what is already in the file (check by title) so you never add the same article twice.
 
+### 4c. Inline-link + concept enrichment (MANDATORY — do NOT skip)
+For every new article ingested in step 4:
+- **(a) Inline links:** add `[[slug|display]]` wiki-links in the article's narrative body to EVERY matching concept mentioned by name, each linking to the MOST SPECIFIC concept (e.g. `[[engineering-education]]` for "engineering education", `[[meta-analysis-systematic-review]]` for "systematic review", `[[ethics]]` for "AI ethics", `[[academic-integrity]]` for "academic integrity").
+- **(b) Concept enrichment:** enrich every connected concept page the article contributes to significantly — add a research bullet/subsection to that concept's BODY narrative (not just its Connected Articles list) and bump its `updated` timestamp so the sidebar refreshes. This applies to every article ingested and any new concept pages created.
+
 ### 5. Build and push
 ```
 cd [YOUR_WIKI_PATH] && python3 tooling/scripts/generate-llms-files.py && npm run build && git add -A && git commit -m "Weekly journal RSS ingestion: X new articles" && git push origin main
