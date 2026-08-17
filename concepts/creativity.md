@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-08-15T02:35:44-04:00"
+updated: "2026-08-17T06:45:00-04:00"
 type: concept
 tags: [critical-thinking, divergent-thinking, student-experience, generative-ai, writing-education, constructivist]
 confidence: high
@@ -16,6 +16,7 @@ Creativity spans the divergent-thinking end of the cognitive spectrum — genera
 - **Amplification:** AI can act as a divergent-thinking partner — brainstorming alternatives, generating counterarguments, and offering perspectives the learner might not consider. Role-specialized multi-agent configurations can restore ideational diversity.
 - **Homogenization risk:** single-model assistance can reduce the diversity of ideas across students, so the same model produces convergent outputs. This is a direct threat to creativity in [[writing-education]] and design education.
 - **Protecting creative agency:** keeping the learner's generative process in the loop — draft-first routines, requiring original synthesis, and using AI to challenge rather than replace — preserves the creative work that produces durable learning.
+- **Think-first collaboration sustains independent creativity:** Wong and Qiu (2026) found that students who generated their own ideas *before* using ChatGPT (a "think first, ChatGPT later" protocol) showed no immediate boost on the assisted task, yet outperformed both a free-AI group and a human-only group on a later unassisted creativity task. Freely using ChatGPT produced only transient performance that collapsed when assistance was removed — a form of [[over-reliance]] rather than learning — whereas collaborative [[human-ai-collaboration|co-creation]] aimed at improving one's *own* ideas yielded durable gains in independent creativity. This gives direct experimental evidence that protecting creative agency is not merely desirable but is what converts AI-assisted work into learning.
 
 ### Connections
 
@@ -35,6 +36,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 ## Connected Articles
 
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
+- [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
 - [[ai-collaborative-learning-skills-impacts]] — AI and Collaborative Learning: Impacts on Creativity
 - [[enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen]] — Robot-LLM Integration and Creative Writing
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
