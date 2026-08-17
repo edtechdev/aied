@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning Measurement Model
-created: 2026-05-12T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-12T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [assessment, learning-analytics, knowledge-tracing, benchmark, llm]
 sources: ['raw/papers/2605.09305.md']

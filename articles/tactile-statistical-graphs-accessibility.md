@@ -1,7 +1,7 @@
 ---
 title: "Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education"
-created: 2026-07-02T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-02T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [special-education, equity, adaptive-learning, k-12, higher-ed, llm-in-education, ai-literacy, rag, llm]
 sources: ['raw/papers/2607.01214.md']

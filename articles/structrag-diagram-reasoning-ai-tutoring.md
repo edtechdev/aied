@@ -1,7 +1,7 @@
 ---
 title: "Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education"
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, stem-education, llm, generative-ai, automated-grading, feedback-loop, scaffolding, ai-tutoring, rag]
 sources: ['raw/papers/sle-2026-structrag-diagram-reasoning.md']

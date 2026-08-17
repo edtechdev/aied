@@ -1,7 +1,7 @@
 ---
 title: AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
-created: 2026-06-25T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-25T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, personalized-learning, scaffolding, adaptive-learning, professional-training, generative-ai, formative-assessment]
 sources: ['raw/papers/2606.25337.md']

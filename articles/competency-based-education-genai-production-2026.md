@@ -1,7 +1,7 @@
 ---
 title: "Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI"
-created: 2026-08-12T12:37:38-04:00
-updated: 2026-08-12
+created: "2026-08-12T12:37:38-04:00"
+updated: "2026-08-12"
 type: article
 tags: [assessment, assessment-validity, academic-integrity, generative-ai, higher-ed, automated-assessment, curriculum-design]
 sources: ['raw/papers/competency-based-education-genai-production-2026.md']

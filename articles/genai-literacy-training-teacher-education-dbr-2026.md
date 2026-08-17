@@ -1,7 +1,7 @@
 ---
 title: "Development and evaluation of artificial intelligence literacy training for teacher education students"
-created: 2026-08-10T17:33:14-04:00
-updated: 2026-08-10
+created: "2026-08-10T17:33:14-04:00"
+updated: "2026-08-10"
 type: article
 tags: [ai-literacy, teacher-ai-competency, faculty-development, pedagogical-llm-training, higher-ed, k-12]
 sources: []

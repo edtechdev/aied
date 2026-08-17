@@ -1,7 +1,7 @@
 ---
 title: A Framework for Institutional Change in the Age of AI
-created: 2026-05-14T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-14T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-education, institutional-change, faculty-development, higher-ed, pedagogy, stem-education, agentic-ai-ecosystems-higher-education, faculty-development-genai, scaffolding, student-experience]
 sources: ['raw/papers/2605.12757.md']

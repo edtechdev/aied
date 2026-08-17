@@ -1,7 +1,7 @@
 ---
 title: "Not all collaboration benefits from competition: Collaboration modes in a computational thinking game"
-created: 2026-08-10T17:08:30-04:00
-updated: 2026-08-10
+created: "2026-08-10T17:08:30-04:00"
+updated: "2026-08-10"
 type: article
 tags: [computational-thinking, collaborative-learning, ai-education, ai-tutoring, educational-technology, edtech-platform]
 sources: []

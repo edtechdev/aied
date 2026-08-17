@@ -1,7 +1,7 @@
 ---
 title: AI in Writing Education
-created: 2026-08-09
-updated: 2026-08-15T09:41:18-04:00
+created: "2026-08-09"
+updated: "2026-08-15T09:41:18-04:00"
 type: concept
 tags: [automated-essay-scoring, ai-feedback-quality, academic-integrity, cognitive-offloading, ai-literacy, language-learning, higher-ed, metacognition, writing-education, peer-review]
 confidence: high

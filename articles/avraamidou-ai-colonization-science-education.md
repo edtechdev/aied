@@ -1,7 +1,7 @@
 ---
 title: "Can we disrupt the momentum of the AI colonization of science education?"
-created: 2026-08-16T09:22:41-04:00
-updated: 2026-08-16
+created: "2026-08-16T09:22:41-04:00"
+updated: "2026-08-16"
 type: article
 tags: [critical-pedagogy, science-education, equity, feminist, ai-ethics, accountability, values, ai-education]
 sources: ['raw/papers/avraamidou-ai-colonization-science-education.md']

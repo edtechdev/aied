@@ -1,7 +1,7 @@
 ---
 title: "Generative artificial intelligence as an enabler of student feedback engagement: a framework"
-created: 2026-08-15T19:02:13-04:00
-updated: 2026-08-15
+created: "2026-08-15T19:02:13-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, feedback-loop, self-regulated-learning, ai-literacy, higher-ed, teacher-role, over-reliance, prompt-engineering, formative-assessment, metacognition, academic-integrity, student-engagement]
 sources: ['raw/papers/zhan-boud-dawson-genai-feedback-engagement.md']

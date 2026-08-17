@@ -1,3 +1,10 @@
+## [2026-08-16] fix | frontmatter dates showing next day (UTC shift) — quote created/updated + fix display
+
+- Root cause: YAML parses unquoted ISO timestamps like `2026-08-16T20:02:54-04:00` into a JS Date in UTC, so the article page/sidebar showed the NEXT calendar day (Aug 17). Fixed by QUOTING all `created`/`updated` frontmatter values (all 696 articles + 144 concepts) so YAML keeps them as strings; they now display the correct Eastern date (e.g. 2026-08-16).
+- `src/content.config.ts`: schema now preserves the original timestamp string instead of running it through `z.date()` + `toISOString()` (which forced UTC).
+- Article/concept page templates (`[slug].astro`): display just the date part (`.split('T')[0]`) for a clean `2026-08-16` header.
+- RSS feed: inject `<pubDate>` via per-item `customData` (preserving Eastern `-0400` offset) since @astrojs/rss otherwise always emits GMT via `.toUTCString()`; fixed offset formatting.
+- Verify: article page shows 2026-08-16; sidebar reverse-chron; RSS `Sun, 16 Aug 2026 20:02:54 -0400`.
 ## [2026-08-16] frontmatter | add date+time to created/updated for all articles+concepts; fix sidebar/RSS ordering
 
 - Backfilled date+time into `created` (articles) and `updated`/`created` (concepts) frontmatter for all 696 articles and 144 concepts, using local git commit time-of-day appended to the existing date (date preserved so journal/index date-grouping unchanged).

@@ -1,7 +1,7 @@
 ---
 title: "OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research"
-created: 2026-08-12T21:26:01-04:00
-updated: 2026-08-12
+created: "2026-08-12T21:26:01-04:00"
+updated: "2026-08-12"
 type: article
 tags: [intelligent-tutoring, adaptive-learning, open-source, knowledge-tracing, math-education, higher-ed, ai-tutoring, personalized-learning, edtech-platform]
 sources: ['raw/papers/oatutor-chi-2023.md']

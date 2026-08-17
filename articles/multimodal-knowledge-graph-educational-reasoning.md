@@ -1,7 +1,7 @@
 ---
 title: "Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning"
-created: 2026-08-09T07:09:19-04:00
-updated: 2026-08-09
+created: "2026-08-09T07:09:19-04:00"
+updated: "2026-08-09"
 type: article
 tags: [multimodal, ai-education, knowledge-graph, knowledge-tracing, student-modeling, generative-ai, lecture-review, evidence, adaptive-learning]
 sources: ['raw/papers/2608.03161v1.md']

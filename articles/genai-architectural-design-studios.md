@@ -1,7 +1,7 @@
 ---
 title: Development and applications of Generative AI in architectural design studios
-created: 2026-07-31T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-31T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, student-experience, active-learning]
 sources: ['raw/papers/2607.24752.md']

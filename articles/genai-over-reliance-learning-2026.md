@@ -1,7 +1,7 @@
 ---
 title: "From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI and Sustainable Learning Performance"
-created: 2026-08-13T05:23:56-04:00
-updated: 2026-08-13
+created: "2026-08-13T05:23:56-04:00"
+updated: "2026-08-13"
 type: article
 tags: [generative-ai, over-reliance, ai-literacy, self-regulated-learning, cognitive-offloading, ai-misuse-learning-harm, motivation, higher-ed]
 sources: ['raw/papers/10.3389_fpsyg.2026.1847369.md']

@@ -1,7 +1,7 @@
 ---
 title: AI Tutoring
-created: 2026-08-01
-updated: 2026-08-15T18:05:58-04:00
+created: "2026-08-01"
+updated: "2026-08-15T18:05:58-04:00"
 type: concept
 tags: [intelligent-tutoring, generative-ai, llm, scaffolding, feedback-loop, higher-ed, student-experience, ai-literacy, k-12, stem-education]
 confidence: high

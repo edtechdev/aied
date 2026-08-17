@@ -1,7 +1,7 @@
 ---
 title: "Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use"
-created: 2026-05-11T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-11T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, intelligent-tutoring, student-experience, engagement-metrics, higher-ed, learning-analytics, rag, llm]
 sources: ['raw/papers/2602.00447.md']

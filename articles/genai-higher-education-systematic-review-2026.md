@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in Higher Education: A Systematic Review of Opportunities, Challenges, and Pedagogical Innovations (2022–2025)"
-created: 2026-08-11T13:10:53-04:00
-updated: 2026-08-11
+created: "2026-08-11T13:10:53-04:00"
+updated: "2026-08-11"
 type: article
 tags: [generative-ai, higher-ed, systematic-review, assessment, personalized-learning, ai-literacy, academic-integrity, equity, ethics]
 sources: ['raw/papers/genai-higher-education-systematic-review-2026.md']

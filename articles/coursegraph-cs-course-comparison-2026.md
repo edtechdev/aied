@@ -1,7 +1,7 @@
 ---
 title: "CourseGraph: Finding overlaps and differences in Computer Science courses across universities"
-created: 2026-08-07T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-07T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [cs-education, curriculum-design, edtech-platform, student-experience, higher-ed, administrator]
 sources: ['raw/papers/2608.05910.md']

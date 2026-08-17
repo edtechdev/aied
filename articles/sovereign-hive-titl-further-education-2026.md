@@ -1,7 +1,7 @@
 ---
 title: "Atmospheric Regulation in the Age of Generative AI: The Sovereign Hive and the Tutor-in-the-Loop (TITL) Framework for Equity in Further Education"
-created: 2026-08-14T09:17:22-04:00
-updated: 2026-08-14
+created: "2026-08-14T09:17:22-04:00"
+updated: "2026-08-14"
 type: article
 tags: [generative-ai, equity-in-ai-education, cognitive-offloading, metacognition, neurodiversity, adult-learning, well-being, digital-divide, over-reliance, ai-misuse-learning-harm]
 sources: ['raw/papers/sovereign-hive-titl-further-education-2026.md']

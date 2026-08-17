@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety
-created: 2026-08-09
-updated: 2026-08-15T11:21:11-04:00
+created: "2026-08-09"
+updated: "2026-08-15T11:21:11-04:00"
 type: concept
 tags: [hallucination-risk, rag, k-12, ethics, regulation, governance, llm, over-reliance]
 confidence: high

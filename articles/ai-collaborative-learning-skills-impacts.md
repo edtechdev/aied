@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence and Collaborative Learning: Impacts on Creativity, Critical Thinking, and Problem-Solving"
-created: 2026-08-11T06:15:03-04:00
-updated: 2026-08-11
+created: "2026-08-11T06:15:03-04:00"
+updated: "2026-08-11"
 type: article
 tags: [collaborative-learning, generative-ai, higher-ed, critical-thinking, problem-solving, creativity, mixed-methods]
 sources: ['raw/papers/jerap-ai-collab-skills.md']

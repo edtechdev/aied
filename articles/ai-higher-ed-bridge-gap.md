@@ -1,7 +1,7 @@
 ---
 title: Higher Education Must Bridge the AI Gap
-created: 2026-05-09T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-09T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [higher-ed, equity, ai-literacy, policy-maker, regulation, equity-in-ai-education, agentic-ai-ecosystems-higher-education, persistent-ai-agents-academic-research, llm]
 sources: ['raw/papers/ai-higher-ed-bridge-gap.md']

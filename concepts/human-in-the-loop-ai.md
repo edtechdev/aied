@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop AI for Education
-created: 2026-05-07
-updated: 2026-08-15T10:24:06-04:00
+created: "2026-05-07"
+updated: "2026-08-15T10:24:06-04:00"
 type: concept
 tags: [human-in-the-loop, assessment, pedagogical-safety, ai-education, llm, higher-ed, generative-ai, k-12, benchmark, learning-analytics]
 confidence: medium

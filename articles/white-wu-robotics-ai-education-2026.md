@@ -1,7 +1,7 @@
 ---
 title: "Robotics and Artificial Intelligence in Education: Transformations, Challenges, and Future Directions"
-created: 2026-03-05T08:44:33-04:00
-updated: 2026-08-15
+created: "2026-03-05T08:44:33-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-education, ai-literacy, ethics, higher-ed, k-12, stem-education, teacher-role, equity]
 sources: ['raw/papers/white-wu-robotics-ai-education-2026.md']

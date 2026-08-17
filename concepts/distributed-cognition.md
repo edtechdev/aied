@@ -1,7 +1,7 @@
 ---
 title: Distributed Cognition
-created: 2026-08-16
-updated: 2026-08-16T09:34:46-04:00
+created: "2026-08-16"
+updated: "2026-08-16T09:34:46-04:00"
 type: concept
 tags: [distributed-cognition, learning-theory, human-ai-collaboration, cognitive-offloading, metacognition, embodied-learning, situated-learning, agency]
 confidence: high

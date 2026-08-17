@@ -1,7 +1,7 @@
 ---
 title: "EduGuard: A Safe RAG-Based LLM Tutor for Programming Education"
-created: 2026-07-20T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-20T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, generative-ai, intelligent-tutoring, stem-education, over-reliance, hallucination-risk, feedback-loop, benchmark, pedagogical-llm-training, rag]
 sources: ['raw/papers/2607.15738.md']

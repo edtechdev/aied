@@ -1,7 +1,7 @@
 ---
 title: How State Policy Can Help Teachers Use AI Well
-created: 2026-05-09T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-09T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [regulation, teacher-role, k-12, policy-maker, faculty-development, equity-in-ai-education, faculty-development-genai, ai-literacy, ai-education]
 sources: ['raw/papers/state-policy-teacher-ai.md']

@@ -1,7 +1,7 @@
 ---
 title: "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis"
-created: 2026-07-10T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-10T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, higher-ed, student-experience, learning-analytics, personalized-learning, self-regulated-learning, generative-ai, scaffolding, ai-literacy]
 sources: ['raw/papers/2607.08748.md']

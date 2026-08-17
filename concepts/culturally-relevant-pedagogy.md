@@ -1,7 +1,7 @@
 ---
 title: Culturally Relevant Pedagogy
-created: 2026-05-08
-updated: 2026-08-15T10:24:06-04:00
+created: "2026-05-08"
+updated: "2026-08-15T10:24:06-04:00"
 type: concept
 tags: [equity, curriculum-design, culturally-sustaining-pedagogy, k-12, ai-literacy, higher-ed, generative-ai, llm, student-experience, intelligent-tutoring]
 confidence: high

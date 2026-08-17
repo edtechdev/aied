@@ -1,7 +1,7 @@
 ---
 title: A framework for characterising and capturing the quality of digital interactions and experiences in early childhood education
-created: 2026-08-10T17:08:30-04:00
-updated: 2026-08-10
+created: "2026-08-10T17:08:30-04:00"
+updated: "2026-08-10"
 type: article
 tags: [ai-education, ai-tutoring, educational-technology, edtech-platform, evaluation, efficacy-study]
 sources: []

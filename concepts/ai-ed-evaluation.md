@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
-created: 2026-05-29
-updated: 2026-08-15T20:02:54-04:00
+created: "2026-05-29"
+updated: "2026-08-15T20:02:54-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop, higher-ed, assessment-validity, agentic-ai, educational-measurement]
 confidence: high

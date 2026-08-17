@@ -1,7 +1,7 @@
 ---
 title: "Generate-Then-Validate: Question Generation for Education"
-created: 2026-05-08T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-08T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [question-generation, llm, automated-assessment, stem-education, hallucination-reduction, automated-question-generation, slidesqaqa-pedagogical-question-generation]
 sources: ['raw/papers/2512.10110.md']

@@ -1,7 +1,7 @@
 ---
 title: "Reimagining feedback through generative AI in engineering education"
-created: 2026-08-10T17:08:30-04:00
-updated: 2026-08-13
+created: "2026-08-10T17:08:30-04:00"
+updated: "2026-08-13"
 type: article
 tags: [generative-ai, formative-assessment, ai-feedback-quality, higher-ed, curriculum-design, self-regulated-learning, automated-essay-scoring]
 sources: ['raw/papers/10.1016_j.caeai.2026.100574.md']

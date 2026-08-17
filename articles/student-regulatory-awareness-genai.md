@@ -1,7 +1,7 @@
 ---
 title: "Knowing the Rules Is Not Enough: Student Regulatory Awareness and Use of GenAI in Higher Education"
-created: 2026-06-12T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-12T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, student-experience, policy-maker, regulation, academic-integrity, genai-policy-prompting-rct, ai-literacy]
 sources: ['raw/papers/2606.12436.md']

@@ -1,7 +1,7 @@
 ---
 title: "Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets"
-created: 2026-07-28T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-28T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [assessment, metacognition, self-regulated-learning, higher-ed]
 sources: ['raw/papers/2607.24736.md']

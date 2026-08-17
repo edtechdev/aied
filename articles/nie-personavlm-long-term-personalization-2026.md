@@ -1,7 +1,7 @@
 ---
 title: "PersonaVLM: Long-Term Personalization for AI Tutors"
-created: 2026-07-29T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-29T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [personalized-learning, intelligent-tutoring, student-modeling, llm, ai-tutoring, affective-tutoring, rag, k-12]
 sources: ['raw/papers/nie-personavlm-long-term-personalization-2026.md']

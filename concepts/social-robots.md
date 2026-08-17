@@ -1,7 +1,7 @@
 ---
 title: Social Robots
-created: 2026-08-13
-updated: 2026-08-15T02:35:44-04:00
+created: "2026-08-13"
+updated: "2026-08-15T02:35:44-04:00"
 type: concept
 tags: [social-robots, human-robot-interaction, educational-robotics, embodied-learning, engagement]
 confidence: high

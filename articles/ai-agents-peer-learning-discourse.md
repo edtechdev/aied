@@ -1,7 +1,7 @@
 ---
 title: "When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community"
-created: 2026-05-11T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-11T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [agentic-ai, benchmark, collaborative-ai-tutoring, engagement-metrics, learning-analytics, llm, scaffolding, metacognition, ai-tutoring]
 sources: ['raw/papers/2602.14477.md']

@@ -1,7 +1,7 @@
 ---
 title: "Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks"
-created: 2026-05-15T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-15T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, hallucination-risk, llm, generative-ai, benchmark, over-reliance, rag, pedagogical-safety]
 sources: ['raw/papers/2605.14604.md']

@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
-created: 2026-08-16
-updated: 2026-08-16T09:41:18-04:00
+created: "2026-08-16"
+updated: "2026-08-16T09:41:18-04:00"
 type: concept
 tags: [medical-education, health-professions, higher-ed, clinical, simulation, assessment, adaptive-learning, teacher-role]
 confidence: high

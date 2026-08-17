@@ -1,7 +1,7 @@
 ---
 title: AI Tutor Effectiveness Review
-created: 2026-05-07T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-07T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, benchmark, efficacy-study, higher-ed, k-12, pedagogical-llm-training, human-in-the-loop-ai, affective-tutoring, adaptive-learning-systems]
 sources: ['raw/papers/zerkouk-comprehensive-review-its-2025.md']

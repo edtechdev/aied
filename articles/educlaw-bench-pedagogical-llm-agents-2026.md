@@ -1,7 +1,7 @@
 ---
 title: "EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners"
-created: 2026-08-05T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-05T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, agentic-ai, benchmark, knowledge-tracing, student-modeling, simulation, ai-ed-evaluation, curriculum-design]
 sources: ['raw/papers/2608.03206.md']

@@ -1,7 +1,7 @@
 ---
 title: "Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development"
-created: 2026-08-15T19:02:13-04:00
-updated: 2026-08-15
+created: "2026-08-15T19:02:13-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-feedback-quality, feedback-loop, self-regulated-learning, formative-assessment, writing-education, ai-literacy, metacognition, higher-ed, generative-ai]
 sources: ['raw/papers/rethinking-ai-writing-feedback-literacy.md']

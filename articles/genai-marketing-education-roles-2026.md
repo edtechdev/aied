@@ -1,7 +1,7 @@
 ---
 title: "When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education"
-created: 2026-08-05T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-05T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, higher-ed, pedagogy, instructional-design, teacher-role, professional-training, ethics]
 sources: ['raw/papers/2608.03973.md']

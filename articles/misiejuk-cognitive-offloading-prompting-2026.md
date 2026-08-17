@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies"
-created: 2026-08-09T20:37:26-04:00
-updated: 2026-08-13
+created: "2026-08-09T20:37:26-04:00"
+updated: "2026-08-13"
 type: article
 tags: [cognitive-offloading, prompting-literacy, higher-ed, student-experience, learning-analytics, ai-literacy, generative-ai, llm, cognitive-load-theory, over-reliance]
 sources: ['raw/papers/10.1016_j.chbr.2026.101130.md']

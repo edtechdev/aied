@@ -1,7 +1,7 @@
 ---
 title: AI Tools Scaffolding Metacognition in STEM
-created: 2026-05-08T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-08T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [metacognition, stem-education, learning-analytics, intelligent-tutoring, posthumanist, ai-literacy, human-in-the-loop-ai, posthumanist-ai-education, adaptive-learning-systems, rag]
 sources: ['raw/papers/mdpi-metacognition-ai-stem-2025.md']

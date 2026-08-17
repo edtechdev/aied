@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
-created: 2026-08-09
-updated: 2026-08-15T02:35:44-04:00
+created: "2026-08-09"
+updated: "2026-08-15T02:35:44-04:00"
 type: concept
 tags: [assessment, automated-assessment, writing-education, generative-ai, llm, prompt-engineering, ai-literacy, higher-ed, k-12, automated-grading]
 confidence: high

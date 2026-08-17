@@ -1,7 +1,7 @@
 ---
 title: Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues
-created: 2026-05-29T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-29T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, llm, student-experience, learning-analytics, personalized-learning, reinforcement-learning, ai-literacy, rag]
 sources: ['raw/papers/2605.30051.md']

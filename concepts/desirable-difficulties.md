@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
-created: 2026-07-28
-updated: 2026-08-15T10:19:32-04:00
+created: "2026-07-28"
+updated: "2026-08-15T10:19:32-04:00"
 type: concept
 tags: [desirable-difficulties, cognitive-friction, productive-struggle, retrieval-practice, generation-effect, spacing, over-reliance, learning-science, scaffolding, metacognition]
 confidence: high

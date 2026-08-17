@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
-created: 2026-08-09
-updated: 2026-08-15T10:19:32-04:00
+created: "2026-08-09"
+updated: "2026-08-15T10:19:32-04:00"
 type: concept
 tags: [ai-feedback-quality, formative-assessment, automated-grading, feedback-loop, generative-ai, ai-literacy]
 confidence: high

@@ -1,7 +1,7 @@
 ---
 title: "Examining the Impact of Generative AI on Student Motivation and Engagement: The Mediating Role of Autonomy-Support and Autonomous Motivation in Education"
-created: 2026-08-13T05:23:56-04:00
-updated: 2026-08-13
+created: "2026-08-13T05:23:56-04:00"
+updated: "2026-08-13"
 type: article
 tags: [generative-ai, motivation, self-determination-theory, engagement-metrics, higher-ed, personalized-learning, student-experience, ai-education]
 sources: ['raw/papers/10.3389_fpsyg.2026.1852265.md']

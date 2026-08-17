@@ -1,7 +1,7 @@
 ---
 title: "Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game"
-created: 2026-08-03T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-03T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [edtech-platform, active-learning, engagement-metrics, blended-learning, k-12, higher-ed, learning-analytics, student-experience]
 sources: ['raw/papers/2607.29300.md']

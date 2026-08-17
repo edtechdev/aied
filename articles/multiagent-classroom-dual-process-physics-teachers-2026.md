@@ -1,7 +1,7 @@
 ---
 title: "A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers"
-created: 2026-08-07T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-07T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [multi-agent, physics-education, teacher-training, dual-process-theory, simulation, stem-education, higher-ed]
 sources: ['raw/papers/2608.05820.md']

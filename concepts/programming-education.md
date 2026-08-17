@@ -1,7 +1,7 @@
 ---
 title: Programming Education
-created: 2026-08-13
-updated: 2026-08-15T10:55:19-04:00
+created: "2026-08-13"
+updated: "2026-08-15T10:55:19-04:00"
 type: concept
 tags: [programming-education, computational-thinking, cs-education, educational-robotics, k-12, higher-ed, block-programming]
 confidence: high

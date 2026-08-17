@@ -1,7 +1,7 @@
 ---
 title: "The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness"
-created: 2026-05-09T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-09T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [intelligent-tutoring, efficacy-study, higher-ed, benchmark, engagement-metrics, llm, ai-tutoring, knowledge-tracing]
 sources: ['raw/papers/2605.05648.md']

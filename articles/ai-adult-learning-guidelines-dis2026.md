@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Designing AI Technologies to Support Adult Learning
-created: 2026-08-06T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-06T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [adult-learning, design-guidelines, andragogy, ai-education, human-computer-interaction, educational-technology, higher-ed, professional-training, heuristic-evaluation, rag]
 sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']

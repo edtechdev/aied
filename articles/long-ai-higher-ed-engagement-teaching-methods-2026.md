@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods"
-created: 2026-08-15T09:33:47-04:00
-updated: 2026-08-15
+created: "2026-08-15T09:33:47-04:00"
+updated: "2026-08-15"
 type: article
 tags: [student-engagement, higher-ed, ai-education, active-learning, project-based-learning, scaffolding, feedback-loop, generative-ai, digital-divide, systematic-review]
 sources: ['raw/papers/long-ai-higher-ed-engagement-teaching-methods-2026.md']

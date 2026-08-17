@@ -1,7 +1,7 @@
 ---
 title: "MBP-KT: Learning Global Collaborative Information from Meta-Behavioral Pattern for Enhanced Knowledge Tracing"
-created: 2026-05-13T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-13T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [knowledge-tracing, learning-analytics, student-experience, adaptive-learning, adaptive-learning-systems]
 sources: ['raw/papers/2605.08697.md']

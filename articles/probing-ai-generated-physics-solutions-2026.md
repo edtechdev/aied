@@ -1,7 +1,7 @@
 ---
 title: Probing AI-Generated Physics Solutions and Preparing Students to Critique Them
-created: 2026-08-14T09:17:22-04:00
-updated: 2026-08-14
+created: "2026-08-14T09:17:22-04:00"
+updated: "2026-08-14"
 type: article
 tags: [physics-education, ai-literacy, critical-thinking, generative-ai, prompt-engineering, assessment, student-experience, research-methods-aied, metacognition]
 sources: ['raw/papers/2608.12533.md']

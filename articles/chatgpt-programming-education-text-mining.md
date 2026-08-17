@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education"
-created: 2026-05-13T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-13T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [over-reliance, academic-integrity, hallucination-risk, stem-education, feedback-loop, student-experience, ai-education]
 sources: ['raw/papers/2605.00361.md']

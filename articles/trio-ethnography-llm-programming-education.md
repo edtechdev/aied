@@ -1,7 +1,7 @@
 ---
 title: "Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education"
-created: 2026-07-27T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-27T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, stem-education, teacher-role, student-experience, higher-ed, scaffolding, ai-literacy, llm, regulation]
 sources: ['raw/papers/2607.22463.md']

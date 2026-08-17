@@ -1,7 +1,7 @@
 ---
 title: Reshaping Undergraduate Computer Science Education in the Generative AI Era
-created: 2026-06-10T12:17:35-04:00
-updated: 2026-08-15
+created: "2026-06-10T12:17:35-04:00"
+updated: "2026-08-15"
 type: article
 tags: [cs-education, generative-ai, curriculum-design, higher-ed, llm, student-experience, ai-literacy, scaffolding, intelligent-tutoring, stem-education]
 confidence: high

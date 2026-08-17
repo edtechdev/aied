@@ -1,7 +1,7 @@
 ---
 title: "Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI"
-created: 2026-06-30T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-30T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-literacy, edtech-platform, generative-ai, k-12, teacher-role]
 sources: ['raw/papers/2606.30590.md']

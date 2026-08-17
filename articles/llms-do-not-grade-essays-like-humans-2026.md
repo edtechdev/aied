@@ -1,7 +1,7 @@
 ---
 title: "LLMs Do Not Grade Essays Like Humans"
-created: 2026-08-14T23:36:44-04:00
-updated: 2026-08-14
+created: "2026-08-14T23:36:44-04:00"
+updated: "2026-08-14"
 type: article
 tags: [automated-essay-scoring, automated-assessment, llm, generative-ai, assessment-validity, writing-education, formative-assessment, privacy, human-in-the-loop]
 sources: ['raw/papers/caeai-100666-llm-essay-grading.md']

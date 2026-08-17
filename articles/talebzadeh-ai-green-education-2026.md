@@ -1,7 +1,7 @@
 ---
 title: "The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints"
-created: 2026-08-09T08:35:52-04:00
-updated: 2026-08-09
+created: "2026-08-09T08:35:52-04:00"
+updated: "2026-08-09"
 type: article
 tags: [generative-ai, teacher-role, instructional-design, higher-ed, ai-education, sustainability, faculty-development]
 sources: ['raw/papers/talebzadeh-ai-green-education-2026.md']

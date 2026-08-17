@@ -1,7 +1,7 @@
 ---
 title: Embodied Learning
-created: 2026-08-13
-updated: 2026-08-16T09:22:41-04:00
+created: "2026-08-13"
+updated: "2026-08-16T09:22:41-04:00"
 type: concept
 tags: [embodied-learning, educational-robotics, social-robots, computational-thinking, active-learning, situated-learning]
 confidence: high

@@ -1,7 +1,7 @@
 ---
 title: "IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems"
-created: 2026-07-31T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-31T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, personalized-learning, educational-theory, language-learning, open-source]
 sources: ['raw/papers/2607.23322.md']

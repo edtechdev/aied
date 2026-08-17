@@ -1,7 +1,7 @@
 ---
 title: Educational VLM Evaluation
-created: 2026-05-07T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-07T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [assessment, multimodal, benchmark, pedagogical-safety, stem-education, ai-education, pedagogical-llm-training, formative-assessment, rag, llm]
 sources: ['raw/papers/li-drawedumath-vlm-misdiagnosis-2026.md']

@@ -1,7 +1,7 @@
 ---
 title: "ANVIL: Analogies and Videos for Lecturers"
-created: 2026-05-21T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-21T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [generative-ai, llm, instructional-design, higher-ed, cs-education, teacher-role, multimodal]
 sources: ['raw/papers/2605.16295.md']

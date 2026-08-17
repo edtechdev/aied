@@ -1,7 +1,7 @@
 ---
 title: Faculty Development
-created: 2026-08-09
-updated: 2026-08-15T10:55:19-04:00
+created: "2026-08-09"
+updated: "2026-08-15T10:55:19-04:00"
 type: concept
 tags: [teacher-ai-competency, teacher-role, ai-literacy, educational-policy-ai, higher-ed, k-12, instructional-design, curriculum-design]
 confidence: high

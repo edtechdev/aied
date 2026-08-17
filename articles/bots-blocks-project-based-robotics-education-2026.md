@@ -1,7 +1,7 @@
 ---
 title: "Bots and Blocks: Presenting a Project-Based Approach for Robotics Education"
-created: 2026-08-13T18:49:42-04:00
-updated: 2026-08-13
+created: "2026-08-13T18:49:42-04:00"
+updated: "2026-08-13"
 type: article
 tags: [educational-robotics, project-based-learning, higher-ed, computational-thinking, active-learning, programming-education]
 sources: ['raw/papers/geger-bots-blocks-project-robotics-2026.md']

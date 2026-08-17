@@ -1,7 +1,7 @@
 ---
 title: Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence
-created: 2026-08-06T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-06T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [teacher-role, teacher-ai-teaming, generative-ai, human-ai-interaction, teacher-agency, hybrid-intelligence, professional-development, augmentation]
 sources: ['raw/papers/2511.19580.md']

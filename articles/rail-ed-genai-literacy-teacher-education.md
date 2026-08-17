@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education"
-created: 2026-08-04T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-08-04T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-literacy, generative-ai, k-12, teacher-role, educational-theory, ai-literacy-in-higher-education, rag, higher-ed]
 sources: ['raw/papers/2608.01705.md']

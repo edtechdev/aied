@@ -1,7 +1,7 @@
 ---
 title: "A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education"
-created: 2026-07-15T04:33:04-04:00
-updated: 2026-08-12
+created: "2026-07-15T04:33:04-04:00"
+updated: "2026-08-12"
 type: article
 tags: [generative-ai, higher-ed, policy-maker, ai-literacy, equity, ai-ed-implementation, governance, llm]
 sources: ['raw/papers/2607.12296.md']

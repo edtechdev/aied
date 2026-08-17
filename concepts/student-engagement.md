@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
-created: 2026-08-13
-updated: 2026-08-15T03:04:03-04:00
+created: "2026-08-13"
+updated: "2026-08-15T03:04:03-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics]
 confidence: high

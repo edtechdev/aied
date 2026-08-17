@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
-created: 2026-08-09
-updated: 2026-08-15T10:24:06-04:00
+created: "2026-08-09"
+updated: "2026-08-15T10:24:06-04:00"
 type: concept
 tags: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, ai-tutoring, pedagogical-llm-training, pedagogical-safety]
 confidence: high

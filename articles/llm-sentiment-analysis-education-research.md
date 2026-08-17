@@ -1,7 +1,7 @@
 ---
 title: "LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments"
-created: 2026-05-28T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-05-28T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, edtech-platform, higher-ed, learning-analytics, student-experience, formative-assessment, automated-grading, generative-ai, ai-literacy]
 sources: ['raw/papers/2605.27403.md']

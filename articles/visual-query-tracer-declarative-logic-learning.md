@@ -1,7 +1,7 @@
 ---
 title: Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
-created: 2026-07-22T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-22T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [stem-education, higher-ed, scaffolding, active-learning]
 sources: ['raw/papers/2607.18864.md']

@@ -1,7 +1,7 @@
 ---
 title: The Effect of High-Frequency, Automatically-marked Formative Assessments on Student Outcomes in A-Level Sciences
-created: 2026-07-28T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-28T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [assessment, automated-grading, k-12, stem-education, hybrid-e-assessment-semi-automated-grading, formative-assessment, llm]
 sources: ['raw/papers/2607.23566.md']

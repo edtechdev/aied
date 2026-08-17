@@ -1,7 +1,7 @@
 ---
 title: "Findings of the First Teaching Monster Challenge: A Benchmark of Pedagogical Content Knowledge in AI Agents"
-created: 2026-08-13T09:28:20-04:00
-updated: 2026-08-13
+created: "2026-08-13T09:28:20-04:00"
+updated: "2026-08-13"
 type: article
 tags: [benchmark, llm-evaluation, ai-ed-evaluation, agentic-ai, pedagogical-agent, content-generation, generative-ai]
 sources: ['raw/papers/2608.08852.md']

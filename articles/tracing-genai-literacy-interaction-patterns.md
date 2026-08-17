@@ -1,7 +1,7 @@
 ---
 title: "Tracing GenAI Literacy: Student-AI Interaction Patterns in Academic Writing"
-created: 2026-06-02T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-06-02T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [ai-literacy, higher-ed, learning-analytics, prompt-engineering, writing-education, scaffolding, agentic-workflows, metacognition, curriculum-design]
 sources: ['raw/papers/2606.00040.md']

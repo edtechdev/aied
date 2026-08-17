@@ -1,7 +1,7 @@
 ---
 title: Human-Robot Interaction
-created: 2026-08-13
-updated: 2026-08-15T03:17:48-04:00
+created: "2026-08-13"
+updated: "2026-08-15T03:17:48-04:00"
 type: concept
 tags: [human-robot-interaction, social-robots, educational-robotics, agency, trust, well-being]
 confidence: high

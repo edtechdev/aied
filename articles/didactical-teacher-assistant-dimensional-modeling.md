@@ -1,7 +1,7 @@
 ---
 title: A didactical-driven teacher assistant for a dimensional modeling course
-created: 2026-07-28T04:33:04-04:00
-updated: 2026-08-15
+created: "2026-07-28T04:33:04-04:00"
+updated: "2026-08-15"
 type: article
 tags: [llm, intelligent-tutoring, higher-ed, pedagogy, rag, scaffolding]
 sources: ['raw/papers/2607.22598.md']

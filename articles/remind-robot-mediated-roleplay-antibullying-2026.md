@@ -1,7 +1,7 @@
 ---
 title: "Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game"
-created: 2026-08-13T18:49:42-04:00
-updated: 2026-08-13
+created: "2026-08-13T18:49:42-04:00"
+updated: "2026-08-13"
 type: article
 tags: [social-robots, role-play, social-emotional-learning, anti-bullying, educational-robotics, k-12, self-efficacy]
 sources: ['raw/papers/sanoubari-remind-robot-roleplay-2026.md']
